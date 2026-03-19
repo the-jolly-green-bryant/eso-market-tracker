@@ -1,6 +1,6 @@
 {
   "name": "@eso-market-tracker/database-management",
-  "version": "2026.03.19.a932d38",
+  "version": "2026.03.19.1c40eff",
   "description": "Allows manipulation of the flat file database",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,6 +11,10 @@
     "build": "pnpm run test && tsc -p tsconfig.json",
     "clean": "rm -rf dist",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.0"
   }
 }

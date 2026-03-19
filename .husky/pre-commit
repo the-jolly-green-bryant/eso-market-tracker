@@ -9,4 +9,5 @@ git add package.json packages/*/package.json
 
 echo "Running tests..."
 
-pnpm test
+echo "Running tests with coverage before push..."
+pnpm run coverage
