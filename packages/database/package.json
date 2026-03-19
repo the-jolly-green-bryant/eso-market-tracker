@@ -1,6 +1,6 @@
 {
   "name": "@eso-market-tracker/database-management",
-  "version": "2026.03.19.dc65918",
+  "version": "2026.03.19.3bd17a1",
   "description": "Allows manipulation of the flat file database",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
