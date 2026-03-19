@@ -4,14 +4,3 @@ set -e
 
 echo "Running tests before push..."
 pnpm run test
-
-echo "Running inject-version before push..."
-pnpm run inject-version
-
-if ! git diff --quiet; then
-  echo ""
-  echo "inject-version changed tracked files."
-  echo "Stage and commit those changes before pushing."
-  git status --short
-  exit 1
-fi
