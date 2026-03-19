@@ -1,0 +1,70 @@
+name: Coverage
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v6
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Run coverage
+        run: pnpm run coverage
+
+      - name: Extract total line coverage
+        run: |
+          COVERAGE=$(node -e "const fs=require('fs'); const summary=JSON.parse(fs.readFileSync('./coverage/coverage-summary.json','utf8')); console.log(summary.total.lines.pct)")
+          echo "COVERAGE=$COVERAGE" >> $GITHUB_ENV
+
+      - name: Choose badge color
+        run: |
+          if (( $(echo "$COVERAGE >= 90" | bc -l) )); then
+            COLOR="brightgreen"
+          elif (( $(echo "$COVERAGE >= 80" | bc -l) )); then
+            COLOR="green"
+          elif (( $(echo "$COVERAGE >= 70" | bc -l) )); then
+            COLOR="yellow"
+          elif (( $(echo "$COVERAGE >= 60" | bc -l) )); then
+            COLOR="orange"
+          else
+            COLOR="red"
+          fi
+          echo "BADGE_COLOR=$COLOR" >> $GITHUB_ENV
+
+      - name: Generate badge JSON
+        if: github.ref == 'refs/heads/main'
+        run: |
+          mkdir -p coverage-badge
+          printf '{"schemaVersion":1,"label":"coverage","message":"%s%%","color":"%s"}\n' "$COVERAGE" "$BADGE_COLOR" > coverage-badge/badge.json
+
+      - name: Deploy badge branch
+        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: coverage-badge
+          publish_branch: coverage-badge
+          force_orphan: true
