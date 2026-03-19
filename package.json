@@ -1,0 +1,24 @@
+{
+  "name": "eso-market-tracker",
+  "version": "2026.03.19.dc65918",
+  "description": "An open source pricing database for Elder Scrolls Online and the spiritual successor to ESO Market Tracker.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "pnpm run inject-version && pnpm run test && pnpm -r build",
+    "clean": "pnpm -r clean",
+    "test": "pnpm -r test",
+    "inject-version": "node scripts/inject-version.js",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "Bryant James",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "husky": "^9.1.7",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.0"
+  }
+}
