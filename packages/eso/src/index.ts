@@ -1,5 +1,5 @@
 /**
- * TEMP - Returns a string. Ultimately builds an SQLite out of the flat files.
+ * TEMP
  * @returns {string}
  */
 export function buildDatabase(): string {

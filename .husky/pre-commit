@@ -2,6 +2,9 @@
 
 set -e
 
+pnpm lint
+pnpm typecheck
+
 echo "Injecting version..."
 
 pnpm run inject-version

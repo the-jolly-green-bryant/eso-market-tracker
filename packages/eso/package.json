@@ -1,7 +1,7 @@
 {
-  "name": "@eso-market-tracker/database-management",
+  "name": "@eso-market-tracker/eso",
   "version": "2026.03.19.789a49d",
-  "description": "Allows manipulation of the flat file database",
+  "description": "Handles all the magic number knowledge about ESO.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "ISC",
