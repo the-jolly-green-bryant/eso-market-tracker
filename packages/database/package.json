@@ -1,0 +1,16 @@
+{
+  "name": "@eso-market-tracker/database-management",
+  "version": "2026.03.19.dc65918",
+  "description": "Allows manipulation of the flat file database",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "pnpm run test && tsc -p tsconfig.json",
+    "clean": "rm -rf dist",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  }
+}
