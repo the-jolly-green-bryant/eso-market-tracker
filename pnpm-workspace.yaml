@@ -1,3 +1,6 @@
 packages:
   - apps/*
   - packages/*
+
+overrides:
+  eso: link:../../../Library/pnpm/global/5/node_modules/@eso-market-tracker/eso
