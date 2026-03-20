@@ -5,9 +5,13 @@ import { execSync } from 'node:child_process'
 const ROOT = process.cwd()
 
 function getVersion() {
-  const date = new Date().toISOString().slice(0, 10).replaceAll('-', '.')
+  const date = new Date()
+    .toISOString()
+    .slice(0, 10)
+    // .replace('-', '')
+    .replaceAll('-', '.')
   const sha = execSync('git rev-parse --short HEAD').toString().trim()
-  return `${date}.${sha}`
+  return `${date}+${sha}`
 }
 
 function findPackageJsonFiles(dir) {

@@ -1,6 +1,6 @@
 {
   "name": "@eso-market-tracker/eso",
-  "version": "2026.03.19.789a49d",
+  "version": "2026.03.20+d45e763",
   "description": "Handles all the magic number knowledge about ESO.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,5 +16,8 @@
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^4.1.0"
+  },
+  "exports": {
+    ".": "./src/index.ts"
   }
 }
