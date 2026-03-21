@@ -1,6 +1,6 @@
 {
   "name": "@eso-market-tracker/database",
-  "version": "2026.03.20+d45e763",
+  "version": "2026.03.21+0076bb1",
   "description": "Allows manipulation of the flat file database",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,5 +19,8 @@
   },
   "dependencies": {
     "@eso-market-tracker/eso": "workspace:*"
+  },
+  "exports": {
+    ".": "./src/index.ts"
   }
 }

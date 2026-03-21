@@ -1,7 +1,7 @@
 {
-  "name": "@eso-market-tracker/eso",
+  "name": "@eso-market-tracker/items-from-uesp",
   "version": "2026.03.21+0076bb1",
-  "description": "Handles all the magic number knowledge about ESO.",
+  "description": "Imports item IDs from esolog.uesp.net.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "ISC",
@@ -15,9 +15,13 @@
     "coverage": "vitest run --coverage"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^4.1.0"
+    "@vitest/coverage-v8": "^4.1.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1",
+    "playwright": "^1.58.2"
   },
-  "exports": {
-    ".": "./src/index.ts"
+  "dependencies": {
+    "@eso-market-tracker/database": "workspace:*",
+    "@eso-market-tracker/eso": "workspace:*"
   }
 }

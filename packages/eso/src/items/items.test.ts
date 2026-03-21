@@ -1,24 +1,9 @@
 import { describe, expect, it } from 'vitest'
-import { Item } from './items'
-import { ItemMeta } from './items.types'
-
-export const sampleBaseItem: ItemMeta = {
-  canonicalId: 122,
-  variantOf: null,
-  name: 'Sample Item',
-  trait: null,
-}
-
-export const sampleTraitItem: ItemMeta = {
-  canonicalId: 123,
-  variantOf: 122,
-  name: 'Sample Item',
-  trait: 4,
-}
+import { SAMPLE_BASE_ITEM, SAMPLE_VARIANT_ITEM } from '../constants'
 
 describe('item', () => {
   it('returns the correct id for base and variants', () => {
-    expect(Item.from(sampleTraitItem).id).toBe(Item.from(sampleBaseItem).id)
-    expect(Item.from(sampleTraitItem).id).toBe(sampleBaseItem.canonicalId)
+    expect(SAMPLE_VARIANT_ITEM.id).toBe(SAMPLE_BASE_ITEM.id)
+    expect(SAMPLE_VARIANT_ITEM.id).toBe(SAMPLE_BASE_ITEM.meta.canonicalId)
   })
 })
