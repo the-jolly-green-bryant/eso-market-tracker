@@ -7,4 +7,6 @@ export type ItemMeta = {
   variantOf: number | null
   trait: number | null
   name: string
+  icon: string
+  description: string
 }
