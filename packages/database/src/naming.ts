@@ -15,5 +15,9 @@ export const getShardFromId = (id: number | string): string => {
 
 export const getItemDirectory = (item: Item): string => {
   const shard = getShardFromId(item.meta.canonicalId)
-  return `${ROOT_DIRECTORY}/items/${shard}/${item.meta.canonicalId}`
+  return `${ROOT_DIRECTORY}/items/${shard}`
+}
+
+export const getItemPath = (item: Item) => {
+  return `${getItemDirectory(item)}/${item.meta.canonicalId}.json`
 }
