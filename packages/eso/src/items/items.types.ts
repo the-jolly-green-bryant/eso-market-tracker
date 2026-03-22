@@ -9,4 +9,5 @@ export type ItemMeta = {
   name: string
   icon: string
   description: string
+  bindType: number
 }
