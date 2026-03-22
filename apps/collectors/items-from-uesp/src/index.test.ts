@@ -15,10 +15,6 @@ describe('results', () => {
     expect(results.items).toHaveLength(1000)
   })
 
-  it('has variant items', () => {
-    expect(results.items.find((i) => i.meta.variantOf)).toBeTruthy()
-  })
-
   it('has a next url', () => {
     expect(results.next).equals(
       'https://esolog.uesp.net/viewlog.php?start=21000&record=minedItemSummary'

@@ -22,7 +22,13 @@ export const _getIconFromRow = ($: CheerioAPI, el: Element) => {
 }
 
 const _getTraitFromRow = ($: CheerioAPI, el: Element) => {
-  const trait = $(el).find('td:nth-child(9) img').text().trim()
+  const trait = $(el)
+    .find('td:nth-child(9) img')
+    .text()
+    .trim()
+    .replaceAll('Armor ', '')
+    .replaceAll('Weapon ', '')
+    .replaceAll('Jewelry ', '')
   return trait ? getTraitIdFromString(trait) : null
 }
 
@@ -44,7 +50,10 @@ const _getItemsFromHtml = (html: string): Item[] => {
 
   return rows.map((i) => {
     const variant = rows.find(
-      (v) => v.meta.name == i.meta.name && !v.meta.trait
+      (v) =>
+        v.meta.name == i.meta.name &&
+        !v.meta.trait &&
+        v.meta.canonicalId != i.meta.canonicalId
     )
     i.meta.variantOf = variant ? variant.id : null
     return i
@@ -53,7 +62,10 @@ const _getItemsFromHtml = (html: string): Item[] => {
 
 const _getNextEndpointFromHtml = (html: string): string | null => {
   const $ = cheerio.load(html)
-  const next = $("a:contains('Next')").attr('href')
+  const next = $('a')
+    .filter((_, el) => $(el).text().trim() === 'Next')
+    .attr('href')
+
   return next ? `https://esolog.uesp.net/viewlog.php${next}` : null
 }
 
