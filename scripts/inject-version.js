@@ -48,7 +48,7 @@ for (const filePath of packageJsonFiles) {
   const raw = fs.readFileSync(filePath, 'utf8')
   const pkg = JSON.parse(raw)
 
-  pkg.version = version
+  pkg.version = pkg.version === '0.0.1' ? pkg.version : version
 
   fs.writeFileSync(filePath, `${JSON.stringify(pkg, null, 2)}\n`)
   console.log(`Updated ${path.relative(ROOT, filePath)} -> ${version}`)

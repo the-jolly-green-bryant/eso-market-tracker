@@ -18,7 +18,7 @@ export const _getIconFromRow = ($: CheerioAPI, el: Element) => {
     throw new Error(`No image found for ${el}`)
   }
 
-  return (imageUrl.startsWith('//') ? 'https' : '') + imageUrl
+  return (imageUrl.startsWith('//') ? 'https:' : '') + imageUrl
 }
 
 const _getTraitFromRow = ($: CheerioAPI, el: Element) => {

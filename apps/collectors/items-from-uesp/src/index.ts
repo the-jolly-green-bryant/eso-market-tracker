@@ -1,5 +1,8 @@
 import 'dotenv/config'
 import { Results } from './results'
+import { images } from '@eso-market-tracker/database'
+import { logger } from '@eso-market-tracker/logging'
+import pLimit from 'p-limit'
 
 const getEndpoint = (page: number | null) => {
   page = page ?? 0
@@ -39,6 +42,19 @@ export const getHtmlFromEndpoint = async (
   return await res.text()
 }
 
+const processResults = async (results: Results) => {
+  const limit = pLimit(10)
+  await Promise.all(
+    results.items.map(async (item) =>
+      limit(async () => {
+        if (!item.meta.icon) return
+        logger.info(`Saving image ${item.meta.icon}`)
+        item.meta.icon = await images.getOrDownloadImage(item.meta.icon)
+      })
+    )
+  )
+}
+
 export const processNextPage = async (
   lastResults?: Results,
   skipRecursion?: boolean
@@ -50,6 +66,7 @@ export const processNextPage = async (
   const next = lastResults ? lastResults.next! : getEndpoint(0)
   const html = await getHtmlFromEndpoint(next)
   const results = Results.from(html)
+  await processResults(results)
 
   // TODO - Do stuff
   console.log(results)

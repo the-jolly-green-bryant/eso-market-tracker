@@ -9,7 +9,10 @@ const getValidatedRequest = async (
   options?: { validStatusCodes: number[] }
 ) => {
   const validStatusCodes = options?.validStatusCodes || [200]
-  const r = await fetch(url)
+  const r = await fetch(url).catch((e) => {
+    throw new Error(`Fetch failed for ${url}`, { cause: e })
+  })
+
   if (
     !validStatusCodes.includes(r.status) ||
     !r.headers.get('content-type')?.startsWith('image/')
@@ -46,7 +49,7 @@ export const getOrDownloadImage = async (
   const targetPath = `${getImageDirectory(filename)}/${filename}`
   const __filename = fileURLToPath(import.meta.url)
   const __dirname = path.dirname(__filename)
-  const localPath = `${__dirname}../../../../${targetPath}`
+  const localPath = `${__dirname}/../../../${targetPath}`
   if (!force && fs.existsSync(localPath)) {
     return targetPath
   }

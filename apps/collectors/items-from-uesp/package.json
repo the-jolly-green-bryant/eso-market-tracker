@@ -1,6 +1,6 @@
 {
   "name": "@eso-market-tracker/items-from-uesp",
-  "version": "2026.03.21+6f5e7ad",
+  "version": "2026.03.22+6f5e7ad",
   "description": "Imports item IDs from esolog.uesp.net.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,10 +18,12 @@
     "@vitest/coverage-v8": "^4.1.0",
     "cheerio": "^1.2.0",
     "dotenv": "^17.3.1",
+    "p-limit": "^7.3.0",
     "playwright": "^1.58.2"
   },
   "dependencies": {
     "@eso-market-tracker/database": "workspace:*",
-    "@eso-market-tracker/eso": "workspace:*"
+    "@eso-market-tracker/eso": "workspace:*",
+    "@eso-market-tracker/logging": "workspace:*"
   }
 }
