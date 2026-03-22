@@ -1,9 +1,8 @@
 import 'dotenv/config'
 import { Results } from './results'
-import { images, naming, db } from '@eso-market-tracker/database'
+import { images } from '@eso-market-tracker/database'
 import { logger } from '@eso-market-tracker/logging'
 import pLimit from 'p-limit'
-import { Item } from '@eso-market-tracker/eso'
 import { insertItems } from '@eso-market-tracker/data'
 
 const getEndpoint = (page: number | null) => {

@@ -2,6 +2,9 @@ import { fileURLToPath } from 'url'
 import path from 'path'
 import fs from 'fs'
 
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+
 export const writeToFile = (
   o: Record<string, string | number | null>,
   targetPath: string,
@@ -31,8 +34,6 @@ export const readFromFile = (
   targetPath: string
 ): Record<string, string | number | null> | null => {
   targetPath = targetPath.endsWith('.json') ? targetPath : `${targetPath}.json`
-  const __filename = fileURLToPath(import.meta.url)
-  const __dirname = path.dirname(__filename)
   const localPath = `${__dirname}/../../../${targetPath}`
   if (!fs.existsSync(localPath)) {
     return null
