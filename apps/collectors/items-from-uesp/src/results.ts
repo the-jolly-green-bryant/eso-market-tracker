@@ -3,9 +3,15 @@ import { Item, getTraitIdFromString } from '@eso-market-tracker/eso'
 import { CheerioAPI } from 'cheerio'
 import { Element } from 'domhandler'
 
-export const _getNthStringFromRow = ($: CheerioAPI, el: Element, n: number) => {
-  const text = $(el).find('td:nth-child(2)').text().trim()
-  if (!text || !text.length) {
+export const _getNthStringFromRow = (
+  $: CheerioAPI,
+  el: Element,
+  n: number,
+  options?: { textIsOptional: boolean }
+) => {
+  const textIsOptional = options?.textIsOptional || false
+  const text = $(el).find(`> td:nth-of-type(${n})`).text().trim()
+  if (!textIsOptional && (!text || !text.length)) {
     throw new Error(`No text found for ${el} at n=${n}`)
   }
 
@@ -13,7 +19,7 @@ export const _getNthStringFromRow = ($: CheerioAPI, el: Element, n: number) => {
 }
 
 export const _getIconFromRow = ($: CheerioAPI, el: Element) => {
-  const imageUrl = $(el).find('td:nth-child(4) img').attr('src')
+  const imageUrl = $(el).find('> td:nth-of-type(4) img').attr('src')
   if (!imageUrl || !imageUrl.length) {
     throw new Error(`No image found for ${el}`)
   }
@@ -23,7 +29,7 @@ export const _getIconFromRow = ($: CheerioAPI, el: Element) => {
 
 const _getTraitFromRow = ($: CheerioAPI, el: Element) => {
   const trait = $(el)
-    .find('td:nth-child(9) img')
+    .find('> td:nth-of-type(9) img')
     .text()
     .trim()
     .replaceAll('Armor ', '')
@@ -34,14 +40,14 @@ const _getTraitFromRow = ($: CheerioAPI, el: Element) => {
 
 const _getItemsFromHtml = (html: string): Item[] => {
   const $ = cheerio.load(html)
-  const rows = $('table#esologtable tbody tr')
+  const rows = $('table#esologtable > tbody > tr')
     .toArray()
     .flatMap((el) =>
       Item.from({
         canonicalId: parseInt(_getNthStringFromRow($, el, 2)),
 
         name: _getNthStringFromRow($, el, 3),
-        description: _getNthStringFromRow($, el, 5),
+        description: _getNthStringFromRow($, el, 5, { textIsOptional: true }),
         icon: _getIconFromRow($, el),
         trait: _getTraitFromRow($, el),
         variantOf: null, // Set in following loop.
