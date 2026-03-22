@@ -1,8 +1,7 @@
 import { Item } from '@eso-market-tracker/eso'
+import { ROOT_DIRECTORY } from './constants'
 
-const rootDirectory = 'data'
-
-const getShardFromId = (id: number): string => {
+export const getShardFromId = (id: number | string): string => {
   const text = id
     .toString()
     .padStart(6, '0')
@@ -16,5 +15,5 @@ const getShardFromId = (id: number): string => {
 
 export const getItemDirectory = (item: Item): string => {
   const shard = getShardFromId(item.meta.canonicalId)
-  return `${rootDirectory}/items/${shard}/${item.meta.canonicalId}`
+  return `${ROOT_DIRECTORY}/items/${shard}/${item.meta.canonicalId}`
 }

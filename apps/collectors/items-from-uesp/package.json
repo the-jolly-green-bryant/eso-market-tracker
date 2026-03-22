@@ -1,6 +1,6 @@
 {
   "name": "@eso-market-tracker/items-from-uesp",
-  "version": "2026.03.21+0076bb1",
+  "version": "2026.03.21+6f5e7ad",
   "description": "Imports item IDs from esolog.uesp.net.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
