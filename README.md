@@ -21,11 +21,13 @@ The goal is to provide a **clean, reproducible, and well-tested data pipeline** 
 
 ESO Market Tracker is a **monorepo** containing multiple coordinated packages:
 
-| Package             | Purpose                                              |
-|---------------------|------------------------------------------------------|
-| `packages/database` | Manages read/write into the static data structure    |
-| `packages/eso`      | Contains logic specific to ESO and its system of IDs |
-| `apps/collectors/items-from-uesp` | Pulls all items known to UESP into the database      |
+| Package                           | Purpose                                                 |
+|-----------------------------------|---------------------------------------------------------|
+| `packages/database`               | Manages read/write into the static data structure       |
+| `packages/eso`                    | Contains logic specific to ESO and its system of IDs    |
+| `packages/logging`                | Handles routine logging                                 |
+| `apps/collectors/items-from-uesp` | Pulls all items known to UESP into the database         |
+| `data`                            | Manages generating of database artifacts such as SQLite |
 
 The architecture intentionally keeps the **canonical dataset as flat files** rather than
 a traditional database so that the entire market history can be:

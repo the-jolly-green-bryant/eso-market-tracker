@@ -4,6 +4,7 @@ import { images, naming, db } from '@eso-market-tracker/database'
 import { logger } from '@eso-market-tracker/logging'
 import pLimit from 'p-limit'
 import { Item } from '@eso-market-tracker/eso'
+import { insertItems } from '@eso-market-tracker/data'
 
 const getEndpoint = (page: number | null) => {
   page = page ?? 0
@@ -43,11 +44,6 @@ export const getHtmlFromEndpoint = async (
   return await res.text()
 }
 
-const saveItem = (item: Item): void => {
-  const targetPath = naming.getItemPath(item)
-  db.writeToFile(item.meta, targetPath, { preservedKeys: ['variantOf'] })
-}
-
 const processResults = async (results: Results) => {
   const limit = pLimit(10)
   await Promise.all(
@@ -56,7 +52,7 @@ const processResults = async (results: Results) => {
         if (!item.meta.icon) return
         logger.info(`Saving image ${item.meta.icon}`)
         item.meta.icon = await images.getOrDownloadImage(item.meta.icon)
-        saveItem(item)
+        insertItems([item])
       })
     )
   )

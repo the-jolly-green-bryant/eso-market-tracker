@@ -9,3 +9,4 @@ tsconfig.tsbuildinfo
 /coverage/
 .env
 /data/test/
+/data/artifacts/data.sqlite
