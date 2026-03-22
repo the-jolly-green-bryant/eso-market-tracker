@@ -1,9 +1,9 @@
 {
   "canonicalId": 47231,
-  "bindType": 2,
   "name": "Hammer of Night's Silence",
   "description": "",
   "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
   "trait": 8,
-  "variantOf": 47266
+  "variantOf": 47266,
+  "bindType": 2
 }

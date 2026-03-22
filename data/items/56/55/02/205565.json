@@ -1,9 +1,9 @@
 {
   "canonicalId": 205565,
-  "bindType": 2,
   "name": "Tharriker's Shield",
   "description": "",
   "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
   "trait": 13,
-  "variantOf": 205405
+  "variantOf": 205405,
+  "bindType": 2
 }

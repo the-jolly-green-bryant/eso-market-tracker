@@ -1,9 +1,9 @@
 {
   "canonicalId": 60016,
-  "bindType": 2,
   "name": "Axe of the Noble's Conquest",
   "description": "",
   "icon": "data/images/d_/ex/ah/gear_breton_1haxe_d.png",
   "trait": 3,
-  "variantOf": 60261
+  "variantOf": 60261,
+  "bindType": 2
 }
