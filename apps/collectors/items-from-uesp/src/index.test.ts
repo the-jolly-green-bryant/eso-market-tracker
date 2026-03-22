@@ -12,7 +12,7 @@ describe('results', () => {
   const results = Results.from(sampleHtml)
 
   it('has parsed items', () => {
-    expect(results.items).toHaveLength(1000)
+    expect(results.items).toHaveLength(285) // Only unbound items
   })
 
   it('has a next url', () => {
@@ -26,7 +26,7 @@ describe('crawler', async () => {
   const results = await processNextPage(undefined, true)
 
   it('has results', () => {
-    expect(results.items).toHaveLength(1000)
+    expect(results.items).toHaveLength(544) // Only unbound items.
   })
 
   it('has a next value', () => {

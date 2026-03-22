@@ -7,6 +7,7 @@ export const SAMPLE_BASE_ITEM = Item.from({
   trait: null,
   icon: 'https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png',
   description: 'This is a test item used to confirm database functionality.',
+  bindType: 1,
 })
 
 export const SAMPLE_VARIANT_ITEM = Item.from({
@@ -16,4 +17,5 @@ export const SAMPLE_VARIANT_ITEM = Item.from({
   trait: 42,
   icon: 'https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png',
   description: 'This is a test item used to confirm database functionality.',
+  bindType: 1,
 })
