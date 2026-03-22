@@ -1,0 +1,9 @@
+{
+  "canonicalId": 55839,
+  "bindType": 3,
+  "name": "Armor Enchanter's Box",
+  "description": "Contains a large quantity of glyphs, solely for armor.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

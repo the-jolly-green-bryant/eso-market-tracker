@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1758,
+  "bindType": 2,
+  "name": "Belt of the Bad Performance",
+  "description": "This belt twitches slightly when objects are thrown at its wearer.",
+  "icon": "data/images/d_/ts/ia/gear_altmer_medium_waist_d.png",
+  "trait": 4,
+  "variantOf": null
+}

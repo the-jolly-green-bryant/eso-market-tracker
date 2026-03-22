@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15538,
+  "bindType": 2,
+  "name": "Storm Shield",
+  "description": "Presented with honor by Captain Seritenya and the crew of the Sea Viper.",
+  "icon": "data/images/d_/dl/ei/gear_altmer_shield_d.png",
+  "trait": 4,
+  "variantOf": null
+}

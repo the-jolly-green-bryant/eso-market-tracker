@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159693,
+  "bindType": 2,
+  "name": "Spriggan's Lament",
+  "description": "Spriggans demonstrate a particular fear of this sharp blade.",
+  "icon": "data/images/c_/ex/ah/gear_primative_1haxe_c.png",
+  "trait": 2,
+  "variantOf": null
+}

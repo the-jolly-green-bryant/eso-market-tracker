@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153503,
+  "bindType": 3,
+  "name": "Dremora Plunder Skull, Arena",
+  "description": "This Dremora-skull bucket contains some of the secrets of the Dremora crafting motif, as well as items of sinister interest to witches and warlocks. It can be earned only once a day.",
+  "icon": "data/images/te/kc/ub/event_halloween_dremora_skull_bucket.png",
+  "trait": null,
+  "variantOf": null
+}

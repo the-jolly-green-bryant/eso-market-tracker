@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7265,
+  "bindType": 2,
+  "name": "Klaandor's Pauldrons",
+  "description": "Shoulder protection awarded for bringing news of Klaandor's fate to his true love.",
+  "icon": "data/images/d_/sr/ed/gear_nord_heavy_shoulders_d.png",
+  "trait": 14,
+  "variantOf": null
+}

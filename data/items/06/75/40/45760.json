@@ -1,0 +1,9 @@
+{
+  "canonicalId": 45760,
+  "bindType": 2,
+  "name": "Faceless Staff",
+  "description": "Faint whispers, heard only by the wielder, are said to emanate from this ill-omened weapon.",
+  "icon": "data/images/d_/ff/at/gear_dunmer_staff_d.png",
+  "trait": 2,
+  "variantOf": null
+}

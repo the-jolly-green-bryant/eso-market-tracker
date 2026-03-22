@@ -1,0 +1,9 @@
+{
+  "canonicalId": 122345,
+  "bindType": 2,
+  "name": "Shacklebreaker Breeches",
+  "description": "",
+  "icon": "data/images/d_/sg/el/gear_breton_light_legs_d.png",
+  "trait": 18,
+  "variantOf": 122275
+}

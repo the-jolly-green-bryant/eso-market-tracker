@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42971,
+  "bindType": 2,
+  "name": "Magdelena's Ancient Ring of the Vampire's Cloak",
+  "description": "A ring awarded for defeating the elder hag, Magdelena.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 21,
+  "variantOf": null
+}

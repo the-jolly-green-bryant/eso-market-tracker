@@ -1,0 +1,9 @@
+{
+  "canonicalId": 133232,
+  "bindType": 2,
+  "name": "Raiment of the Initiate",
+  "description": "You served Sotha Sil well, and in exchange he presented you with this garment common to initiates of the Clockwork Apostles.",
+  "icon": "data/images/a_/eb/or/gear_apostle_light_robe_a.png",
+  "trait": 4,
+  "variantOf": null
+}

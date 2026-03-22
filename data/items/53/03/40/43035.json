@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43035,
+  "bindType": 2,
+  "name": "Bonelord's Annihilator of the Dragon",
+  "description": "A weapon awarded for defeating the necromancer, Vivien Armene.",
+  "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
+  "trait": 1,
+  "variantOf": null
+}

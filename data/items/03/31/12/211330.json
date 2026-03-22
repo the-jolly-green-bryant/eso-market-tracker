@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211330,
+  "bindType": 3,
+  "name": "Mundus Stone - the Atronach",
+  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Atronach.",
+  "icon": "data/images/90/0_/se/ability_mundusstones_009.png",
+  "trait": null,
+  "variantOf": null
+}

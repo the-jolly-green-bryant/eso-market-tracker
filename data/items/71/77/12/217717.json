@@ -1,0 +1,9 @@
+{
+  "canonicalId": 217717,
+  "bindType": 2,
+  "name": "Stirk Fellowship Guardian Shield",
+  "description": "A shield awarded to members of the Stirk Fellowship for outstanding service.",
+  "icon": "data/images/a_/dl/ei/gear_fellowshipstirk_shield_a.png",
+  "trait": 11,
+  "variantOf": null
+}

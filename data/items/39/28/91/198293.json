@@ -1,0 +1,9 @@
+{
+  "canonicalId": 198293,
+  "bindType": 2,
+  "name": "Necrom Treasure Hunter's Parcel",
+  "description": "This container holds a selection of treasure maps, to be put to the test by would-be treasure hunters.",
+  "icon": "data/images/ht/ao/_f/quest_summerset_scrolls_of_oath.png",
+  "trait": null,
+  "variantOf": null
+}

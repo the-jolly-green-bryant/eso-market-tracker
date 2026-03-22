@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15740,
+  "bindType": 2,
+  "name": "Fighters Guild Visor",
+  "description": "You received this visor after traversing the Moonless Walk and locating Sergeant Kamu of the Fighters Guild.",
+  "icon": "data/images/d_/da/eh/gear_khajiit_medium_head_d.png",
+  "trait": 13,
+  "variantOf": null
+}

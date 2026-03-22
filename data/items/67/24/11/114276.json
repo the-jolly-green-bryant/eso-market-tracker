@@ -1,0 +1,9 @@
+{
+  "canonicalId": 114276,
+  "bindType": 2,
+  "name": "Master Weapons",
+  "description": "This container holds a collection of weapons found in Dragonstar Arena.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159721,
+  "bindType": 2,
+  "name": "Dragonhome Helm",
+  "description": "An ancient helmet, acquired from the ruins of Dragonhome.",
+  "icon": "data/images/a_/da/eh/gear_draugr_heavy_head_a.png",
+  "trait": 4,
+  "variantOf": null
+}

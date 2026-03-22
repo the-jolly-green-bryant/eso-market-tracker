@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1783,
+  "bindType": 2,
+  "name": "Barkbite Breastplate",
+  "description": "This heavy breastplate is incredibly sturdy. Its simple construction shows the great skill of Barkbite smiths.",
+  "icon": "data/images/d_/ts/eh/gear_orc_heavy_chest_d.png",
+  "trait": 12,
+  "variantOf": null
+}

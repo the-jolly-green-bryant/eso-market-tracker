@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191221,
+  "bindType": 2,
+  "name": "Crystalbreaker's Belt",
+  "description": "A sturdy belt embedded with tiny crystal shards. Debris from the destroyed artifacts used by Firesong Druids at Embervine cave.",
+  "icon": "data/images/d_/ts/ia/gear_imperial_heavy_waist_d.png",
+  "trait": 17,
+  "variantOf": null
+}

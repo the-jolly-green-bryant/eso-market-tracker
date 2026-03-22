@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26998,
+  "bindType": 2,
+  "name": "Old Imperial Stock",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "data/images/3r/_1/_r/crafting_potion_base_water_1_r3.png",
+  "trait": null,
+  "variantOf": null
+}

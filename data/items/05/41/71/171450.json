@@ -1,0 +1,9 @@
+{
+  "canonicalId": 171450,
+  "bindType": 2,
+  "name": "Vateshran Weapons",
+  "description": "This container holds a collection of weapons found in Vateshran Hollows.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

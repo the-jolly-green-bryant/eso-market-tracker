@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126013,
+  "bindType": 2,
+  "name": "Heirloom Bow",
+  "description": "Found in your strongbox from home. Hardly in the best shape given its age, but if you need to put arrows in anything, it will serve.",
+  "icon": "data/images/d_/wo/b_/gear_dunmer_bow_d.png",
+  "trait": 6,
+  "variantOf": null
+}

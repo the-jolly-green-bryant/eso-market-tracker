@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1258,
+  "bindType": 2,
+  "name": "Sigil of House Dres",
+  "description": "This amulet hums with restrained power.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 22,
+  "variantOf": null
+}

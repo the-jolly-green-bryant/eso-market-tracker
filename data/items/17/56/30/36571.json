@@ -1,0 +1,9 @@
+{
+  "canonicalId": 36571,
+  "bindType": 2,
+  "name": "Goblinslayer Chausses",
+  "description": "These chainmail leggings mark the wearer as a foe of Goblins in general and the Dogeater tribe in particular.",
+  "icon": "data/images/d_/sg/el/gear_orc_heavy_legs_d.png",
+  "trait": 6,
+  "variantOf": null
+}

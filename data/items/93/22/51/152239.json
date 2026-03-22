@@ -1,0 +1,9 @@
+{
+  "canonicalId": 152239,
+  "bindType": 2,
+  "name": "Forgotten Adventurer's Inferno Staff",
+  "description": "A mage's staff found in your strong box. Perhaps once it was a close companion, but it is beginning to show its age.",
+  "icon": "data/images/d_/ff/at/gear_altmer_staff_d.png",
+  "trait": 6,
+  "variantOf": null
+}

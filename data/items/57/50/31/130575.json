@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130575,
+  "bindType": 2,
+  "name": "Innate Axiom Bracers",
+  "description": "",
+  "icon": "data/images/d_/sd/na/gear_breton_medium_hands_d.png",
+  "trait": 12,
+  "variantOf": 130400
+}

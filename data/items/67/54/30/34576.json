@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34576,
+  "bindType": 2,
+  "name": "Dungeon-Delving Mittens of Mother's Embrace",
+  "description": "For defeating the giant wasp called Egg-Eater in the cave known as Taleon's Crag, these medium gloves were awarded.",
+  "icon": "data/images/d_/sd/na/gear_dunmer_medium_hands_d.png",
+  "trait": 17,
+  "variantOf": null
+}

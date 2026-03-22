@@ -1,0 +1,9 @@
+{
+  "canonicalId": 197802,
+  "bindType": 2,
+  "name": "Heartsbold",
+  "description": "Simple in design, this amulet exudes a comforting warmth when worn.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

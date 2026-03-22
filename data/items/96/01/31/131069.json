@@ -1,0 +1,9 @@
+{
+  "canonicalId": 131069,
+  "bindType": 2,
+  "name": "Fortified Brass Belt",
+  "description": "",
+  "icon": "data/images/d_/ts/ia/gear_breton_medium_waist_d.png",
+  "trait": 25,
+  "variantOf": 130754
+}

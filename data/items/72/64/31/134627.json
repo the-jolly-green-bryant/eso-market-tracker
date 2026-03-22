@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134627,
+  "bindType": 2,
+  "name": "Heavy Trial Sets",
+  "description": "The Heavy Armor item sets, found in Trials (base game, DLC, and Chapter).",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

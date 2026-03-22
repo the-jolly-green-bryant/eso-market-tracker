@@ -1,0 +1,9 @@
+{
+  "canonicalId": 167242,
+  "bindType": 3,
+  "name": "Witches Grab Bag",
+  "description": "This container will award plunder skull contents from years past which are no longer available.",
+  "icon": "data/images/te/kc/ub/event_halloween_2016_skull_bucket.png",
+  "trait": null,
+  "variantOf": null
+}

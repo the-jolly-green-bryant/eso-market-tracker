@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192382,
+  "bindType": 3,
+  "name": "All Previous Item Furnishing Crate",
+  "description": "This Crate contains all previous release's Achievement, Antiquity, and other not Collectable or Craftable furnishings.",
+  "icon": "data/images/10/0_/et/quest_crate_001.png",
+  "trait": null,
+  "variantOf": null
+}

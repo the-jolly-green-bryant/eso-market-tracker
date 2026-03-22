@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121263,
+  "bindType": 3,
+  "name": "Homeowner's Deeds (Medium)",
+  "description": "This envelope contains the deeds to Medium-sized dwellings throughout Tamriel.",
+  "icon": "data/images/10/0_/ep/justice_stolen_envelope_001.png",
+  "trait": null,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7322,
+  "bindType": 2,
+  "name": "Ignobert's Sash",
+  "description": "A belt given for locating the missing Ignobert for his worried wife.",
+  "icon": "data/images/d_/ts/ia/gear_breton_light_waist_d.png",
+  "trait": 17,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 133239,
+  "bindType": 2,
+  "name": "Explorer's Boots",
+  "description": "Raynor cobbled these boots together from spare parts found during your exploration of the Clockwork City.",
+  "icon": "data/images/a_/te/ef/gear_apostle_heavy_feet_a.png",
+  "trait": 4,
+  "variantOf": null
+}

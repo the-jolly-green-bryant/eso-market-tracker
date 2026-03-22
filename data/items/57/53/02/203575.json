@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203575,
+  "bindType": 3,
+  "name": "Gates of Oblivion Grab Bag",
+  "description": "This container will award Gates of Oblivion contents from years past which are no longer available.",
+  "icon": "data/images/ga/be/no/zonebag.png",
+  "trait": null,
+  "variantOf": null
+}

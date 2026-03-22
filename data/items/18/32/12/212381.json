@@ -1,0 +1,9 @@
+{
+  "canonicalId": 212381,
+  "bindType": 2,
+  "name": "Unidentified Meritorious Service Item",
+  "description": "This box contains an Superior-quality item of the Meritorious Service item set.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

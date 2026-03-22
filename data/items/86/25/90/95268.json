@@ -1,0 +1,9 @@
+{
+  "canonicalId": 95268,
+  "bindType": 3,
+  "name": "New Life Festival Scroll",
+  "description": "A simple map directs revelers to Breda, a New Life Herald in Eastmarch. A small note reads: \"All are welcome to celebrate the New Life Festival!\"",
+  "icon": "data/images/ep/ic/er/event_newlifefestival_2016_recipe.png",
+  "trait": null,
+  "variantOf": null
+}

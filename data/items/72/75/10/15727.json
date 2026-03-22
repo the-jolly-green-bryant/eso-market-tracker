@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15727,
+  "bindType": 2,
+  "name": "Black Forge Blade",
+  "description": "You were given this blade for exploring the Black Forge and restoring the great mage, Vanus Galerion.",
+  "icon": "data/images/c_/dr/ow/gear_daedric_1hsword_c.png",
+  "trait": 4,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130981,
+  "bindType": 2,
+  "name": "Fortified Brass Helm",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_heavy_head_d.png",
+  "trait": 11,
+  "variantOf": 130736
+}

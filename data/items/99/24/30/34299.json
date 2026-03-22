@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34299,
+  "bindType": 2,
+  "name": "Bloodthorn Lilou's Curative Coif",
+  "description": "Headgear awarded for defeating the Bloodthorn cultist officer, Lilou, in the Mines of Khuras.",
+  "icon": "data/images/d_/da/eh/gear_breton_light_head_d.png",
+  "trait": 6,
+  "variantOf": null
+}

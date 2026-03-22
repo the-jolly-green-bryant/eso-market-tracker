@@ -1,0 +1,9 @@
+{
+  "canonicalId": 50521,
+  "bindType": 2,
+  "name": "Cuirass of Torug's Pact",
+  "description": "",
+  "icon": "data/images/d_/ts/eh/gear_breton_heavy_chest_d.png",
+  "trait": 10,
+  "variantOf": 50715
+}

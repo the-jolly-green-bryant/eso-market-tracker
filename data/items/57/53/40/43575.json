@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43575,
+  "bindType": 2,
+  "name": "Inducer's Scalpel",
+  "description": "On occasion, this delicate blade vibrates slightly when sheathed.",
+  "icon": "data/images/d_/re/gg/gear_orc_dagger_d.png",
+  "trait": 7,
+  "variantOf": null
+}

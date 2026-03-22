@@ -1,0 +1,9 @@
+{
+  "canonicalId": 174873,
+  "bindType": 2,
+  "name": "Band of Zenithar",
+  "description": "Engraved with a symbol of an anvil, this ring signifies its bearer as one who has accomplished great toil in Zenithar's name.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 23,
+  "variantOf": null
+}

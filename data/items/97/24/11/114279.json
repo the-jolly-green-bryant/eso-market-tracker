@@ -1,0 +1,9 @@
+{
+  "canonicalId": 114279,
+  "bindType": 2,
+  "name": "Dungeon Sets",
+  "description": "This container holds a collection of armor, jewelry and weapons found in Group Dungeons.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

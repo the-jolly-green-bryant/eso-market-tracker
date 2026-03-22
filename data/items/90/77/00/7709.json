@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7709,
+  "bindType": 2,
+  "name": "Thane Watch",
+  "description": "Thane Mera awarded this shield for saving Jorunn the Skald-King and foiling Fildgor's Stormfist assassins in Windhelm.",
+  "icon": "data/images/d_/dl/ei/gear_nord_shield_d.png",
+  "trait": 11,
+  "variantOf": null
+}

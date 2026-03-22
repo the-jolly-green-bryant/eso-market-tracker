@@ -1,0 +1,9 @@
+{
+  "canonicalId": 29953,
+  "bindType": 2,
+  "name": "Artificer's Bolt",
+  "description": "The base of this staff bears the personal mark of Telenger the Artificer. The smell of rain accompanies it everywhere.",
+  "icon": "data/images/d_/ff/at/gear_altmer_staff_d.png",
+  "trait": 9,
+  "variantOf": null
+}

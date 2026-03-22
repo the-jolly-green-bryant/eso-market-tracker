@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175488,
+  "bindType": 2,
+  "name": "Companion's Jerkin",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/th/gi/l_/companions_u30_equipment_chest_light.png",
+  "trait": null,
+  "variantOf": null
+}

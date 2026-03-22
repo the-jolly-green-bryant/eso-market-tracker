@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188114,
+  "bindType": 2,
+  "name": "Sapphire Gauntlets",
+  "description": "Crafted by a certain knight aspirant during her years as a squire, these heavy gauntlets feature Stendarr's symbol etched within.",
+  "icon": "data/images/a_/sd/na/gear_bretonv2_heavy_hands_a.png",
+  "trait": 14,
+  "variantOf": null
+}

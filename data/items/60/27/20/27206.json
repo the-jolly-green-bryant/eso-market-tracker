@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27206,
+  "bindType": 2,
+  "name": "King Camoran's Boon",
+  "description": "This garment is slippery to the touch. It appears to be a Khajiiti gift of state re-gifted to you by King Camoran Aeradan.",
+  "icon": "data/images/d_/tr/ih/gear_khajiit_light_shirt_d.png",
+  "trait": 13,
+  "variantOf": null
+}

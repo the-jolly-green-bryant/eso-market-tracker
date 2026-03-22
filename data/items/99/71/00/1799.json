@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1799,
+  "bindType": 2,
+  "name": "Jade General's Helm",
+  "description": "This helm once belonged to General Endare. It bears the markings of a decorated Dominion general.",
+  "icon": "data/images/d_/da/eh/gear_khajiit_heavy_head_d.png",
+  "trait": 4,
+  "variantOf": null
+}

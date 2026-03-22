@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176156,
+  "bindType": 2,
+  "name": "Companion's Arm Cops",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/mu/id/em/companions_u30_equipment_shoulders_medium.png",
+  "trait": 35,
+  "variantOf": null
+}

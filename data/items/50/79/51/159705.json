@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159705,
+  "bindType": 2,
+  "name": "Karthwatch Walking Boots",
+  "description": "Boots once worn by the soldiers of Karthwatch, awarded for helping the town's survivors.",
+  "icon": "data/images/d_/te/ef/gear_nord_heavy_feet_d.png",
+  "trait": 14,
+  "variantOf": null
+}

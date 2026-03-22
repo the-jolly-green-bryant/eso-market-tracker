@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176214,
+  "bindType": 2,
+  "name": "Companion's Inferno Staff",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/ff/at/so/companions_u30_equipment_infernostaff.png",
+  "trait": 35,
+  "variantOf": null
+}

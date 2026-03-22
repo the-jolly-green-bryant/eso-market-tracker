@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10058,
+  "bindType": 2,
+  "name": "Forester Leggings",
+  "description": "Medium-weight armor awarded for helping Thulvald's logging camp settle a land dispute with a spriggan matron.",
+  "icon": "data/images/d_/sg/el/gear_nord_medium_legs_d.png",
+  "trait": 17,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188124,
+  "bindType": 2,
+  "name": "Shepherd's Blade",
+  "description": "A salt-stained blade from High Isle, most likely used to defend the lives of a beloved flock.",
+  "icon": "data/images/c_/dr/ow/gear_reach_1hsword_c.png",
+  "trait": 3,
+  "variantOf": null
+}

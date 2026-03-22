@@ -1,0 +1,9 @@
+{
+  "canonicalId": 208144,
+  "bindType": 2,
+  "name": "Peacemaker's Necklace",
+  "description": "An attractive necklace constructed from myriad bits of glass and stone, it melds different colors and facets together in harmony.",
+  "icon": "data/images/a_/kc/en/gear_ancient_elf_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

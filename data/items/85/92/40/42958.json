@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42958,
+  "bindType": 2,
+  "name": "Werewolf Hide Wolf's-Head Ring",
+  "description": "A ring awarded for defeating the bandit, Salazar the Wolf, who transformed into a werewolf.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 23,
+  "variantOf": null
+}

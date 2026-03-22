@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7609,
+  "bindType": 2,
+  "name": "Collector's Coinblade",
+  "description": "A mysteriously collectible and sought-after piece, despite being worth next to nothing.",
+  "icon": "data/images/d_/dr/ow/gear_bosmer_2hsword_d.png",
+  "trait": 10,
+  "variantOf": null
+}

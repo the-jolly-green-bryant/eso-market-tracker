@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126058,
+  "bindType": 2,
+  "name": "Greaves of the Warrior-Poet",
+  "description": "You earned these Ashlander greaves by exposing Chodala as a failed Nerevarine in the council at Ald'ruhn.",
+  "icon": "data/images/a_/sg/el/gear_ashlanderv_heavy_legs_a.png",
+  "trait": 18,
+  "variantOf": null
+}

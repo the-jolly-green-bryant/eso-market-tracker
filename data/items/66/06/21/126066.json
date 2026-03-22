@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126066,
+  "bindType": 2,
+  "name": "Stained Alchemy Smock",
+  "description": "Let this smock serve as a reminder that it's rarely a good idea to harass a talented alchemist.",
+  "icon": "data/images/a_/tr/ih/gear_telvanni_light_shirt_a.png",
+  "trait": 12,
+  "variantOf": null
+}

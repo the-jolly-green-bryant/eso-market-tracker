@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159697,
+  "bindType": 2,
+  "name": "Mor Khazgur Crusher",
+  "description": "A powerful hammer constructed in the Orc style.",
+  "icon": "data/images/d_/re/mm/gear_orc_2hhammer_d.png",
+  "trait": 8,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15528,
+  "bindType": 2,
+  "name": "Frostbringer",
+  "description": "A reminder of the perils of brewing rotmeth.",
+  "icon": "data/images/d_/ex/ah/gear_nord_2haxe_d.png",
+  "trait": 1,
+  "variantOf": null
+}

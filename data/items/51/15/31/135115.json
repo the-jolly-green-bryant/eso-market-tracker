@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135115,
+  "bindType": 3,
+  "name": "Bound Crown Lesson: Riding Speed",
+  "description": "Increases your character's riding speed by 1 per lesson. Riding Speed allows you to move faster while mounted and takes effect on your character regardless of the mount you have set active. Your current Riding Speed is 60/60.",
+  "icon": "data/images/de/ep/s_/store_ridinglessons_speed.png",
+  "trait": null,
+  "variantOf": null
+}

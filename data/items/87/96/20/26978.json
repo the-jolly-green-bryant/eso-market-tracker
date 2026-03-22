@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26978,
+  "bindType": 2,
+  "name": "Old Pinguis",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "data/images/10/0_/ta/crafting_vendor_fuel_meat_001.png",
+  "trait": null,
+  "variantOf": null
+}

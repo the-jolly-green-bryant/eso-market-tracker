@@ -1,0 +1,9 @@
+{
+  "canonicalId": 190258,
+  "bindType": 3,
+  "name": "Undaunted Box: City of Ash",
+  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
+  "icon": "data/images/so/ro/bo/gift-box-ouroboros.png",
+  "trait": null,
+  "variantOf": null
+}

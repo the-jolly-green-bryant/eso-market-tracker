@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130845,
+  "bindType": 2,
+  "name": "Fortified Brass Robe",
+  "description": "",
+  "icon": "data/images/d_/eb/or/gear_breton_light_robe_d.png",
+  "trait": 14,
+  "variantOf": 130740
+}

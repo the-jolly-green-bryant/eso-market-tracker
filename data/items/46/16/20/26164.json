@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26164,
+  "bindType": 2,
+  "name": "Stoneskin Gloves",
+  "description": "The gloves are lined with tufts of goat hair, softening their touch on the wearer's skin.",
+  "icon": "data/images/d_/sd/na/gear_redguard_medium_hands_d.png",
+  "trait": 12,
+  "variantOf": null
+}

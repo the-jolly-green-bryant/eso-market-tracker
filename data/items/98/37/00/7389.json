@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7389,
+  "bindType": 2,
+  "name": "Gauntlets of the Akaviri War",
+  "description": "These gauntlets were designed to choke the scaled throats of the Akaviri invaders.",
+  "icon": "data/images/d_/sd/na/gear_dunmer_heavy_hands_d.png",
+  "trait": 18,
+  "variantOf": null
+}

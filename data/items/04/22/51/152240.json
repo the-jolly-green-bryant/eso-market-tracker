@@ -1,0 +1,9 @@
+{
+  "canonicalId": 152240,
+  "bindType": 2,
+  "name": "Heirloom Inferno Staff",
+  "description": "Found in your strongbox from home. Hardly in the best shape given its age, but if you need to singe someone, it will serve.",
+  "icon": "data/images/d_/ff/at/gear_dunmer_staff_d.png",
+  "trait": 6,
+  "variantOf": null
+}

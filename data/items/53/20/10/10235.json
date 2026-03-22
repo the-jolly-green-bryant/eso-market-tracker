@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10235,
+  "bindType": 2,
+  "name": "Sweetbreeches",
+  "description": "These traveling breeches seem cool to the touch.",
+  "icon": "data/images/d_/sg/el/gear_altmer_medium_legs_d.png",
+  "trait": 13,
+  "variantOf": null
+}

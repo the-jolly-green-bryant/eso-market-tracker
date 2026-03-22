@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211332,
+  "bindType": 3,
+  "name": "Mundus Stone - The Tower",
+  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Tower.",
+  "icon": "data/images/31/0_/se/ability_mundusstones_013.png",
+  "trait": null,
+  "variantOf": null
+}

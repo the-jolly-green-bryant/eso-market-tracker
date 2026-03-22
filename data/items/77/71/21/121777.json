@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121777,
+  "bindType": 2,
+  "name": "Assassin's Helm",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_heavy_head_d.png",
+  "trait": 17,
+  "variantOf": 121567
+}

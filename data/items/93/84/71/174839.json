@@ -1,0 +1,9 @@
+{
+  "canonicalId": 174839,
+  "bindType": 2,
+  "name": "Adrahawn's Vine-Slicer",
+  "description": "An axe coated with a unique concoction, making its blade corrosive to organic material. Although originally intended for cutting through thick vines, it works fine against plants, minerals, and animals.",
+  "icon": "data/images/d_/ex/ah/gear_bosmer_1haxe_d.png",
+  "trait": 7,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33235,
+  "bindType": 3,
+  "name": "Wabbajack",
+  "description": "The Wabbajack.",
+  "icon": "data/images/kc/aj/ab/quest_magesguild_wabbajack.png",
+  "trait": null,
+  "variantOf": null
+}

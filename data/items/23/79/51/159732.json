@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159732,
+  "bindType": 3,
+  "name": "Bloodknight Ichor",
+  "description": "Thick blackish fluid that seems to function as blood for the bloodknights. Used for special experiments in Stone Garden.",
+  "icon": "data/images/2t/hg/in/item_u27_stonegarden_bloodknight2.png",
+  "trait": null,
+  "variantOf": null
+}

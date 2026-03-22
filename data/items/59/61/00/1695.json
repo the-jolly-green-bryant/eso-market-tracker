@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1695,
+  "bindType": 2,
+  "name": "Clumsy Alchemist's Vambraces",
+  "description": "These heavy gloves have a distinct alchemical smell. Dozens of acid spatters cover the metal.",
+  "icon": "data/images/d_/sd/na/gear_bosmer_heavy_hands_d.png",
+  "trait": 6,
+  "variantOf": null
+}

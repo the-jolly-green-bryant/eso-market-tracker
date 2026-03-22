@@ -1,0 +1,9 @@
+{
+  "canonicalId": 129908,
+  "bindType": 3,
+  "name": "Construct's Right Hand",
+  "description": "One of the mechanical hands of a humanoid construct. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.",
+  "icon": "data/images/10/0_/dn/quest_factotumhand_001.png",
+  "trait": null,
+  "variantOf": null
+}

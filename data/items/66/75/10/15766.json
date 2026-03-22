@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15766,
+  "bindType": 2,
+  "name": "Dungeon-Delving Mantle",
+  "description": "You earned this mantle by helping Kireth and Raynor Vanos, Lady Laurent, and Telenger escape from the Library of Dusk.",
+  "icon": "data/images/d_/sr/ed/gear_dunmer_medium_shoulders_d.png",
+  "trait": 11,
+  "variantOf": null
+}

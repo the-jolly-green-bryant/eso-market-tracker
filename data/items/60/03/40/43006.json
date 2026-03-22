@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43006,
+  "bindType": 2,
+  "name": "Waterlogged Chestpiece of Salvation",
+  "description": "This piece of armor is creaky with rust, yet surprisingly functional.",
+  "icon": "data/images/d_/ts/eh/gear_orc_medium_chest_d.png",
+  "trait": 11,
+  "variantOf": null
+}

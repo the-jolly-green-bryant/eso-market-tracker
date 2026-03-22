@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43581,
+  "bindType": 2,
+  "name": "Broadhead Shield",
+  "description": "This shield bears the markings of the Broadhead Marines. Its living wood can recover from splintering, if watered regularly.",
+  "icon": "data/images/d_/dl/ei/gear_bosmer_shield_d.png",
+  "trait": 13,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 181635,
+  "bindType": 2,
+  "name": "Other Cyrodiil Sets",
+  "description": "All other item sets, found in Cyrodiil. These are sets that do not fall into the usual Light, Medium or Heavy item set groups.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7603,
+  "bindType": 2,
+  "name": "Spellforged Buckle",
+  "description": "Signs of magical craftsmanship are evident on this weighty belt.",
+  "icon": "data/images/d_/ts/ia/gear_altmer_heavy_waist_d.png",
+  "trait": 12,
+  "variantOf": null
+}

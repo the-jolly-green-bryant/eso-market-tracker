@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7390,
+  "bindType": 2,
+  "name": "Telvanni Warsash",
+  "description": "It's said that a traitor within House Telvanni was choked by this sash.",
+  "icon": "data/images/d_/ts/ia/gear_dunmer_light_waist_d.png",
+  "trait": 4,
+  "variantOf": null
+}

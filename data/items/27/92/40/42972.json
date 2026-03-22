@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42972,
+  "bindType": 2,
+  "name": "Stroda's Orcish Coif of Necropotence",
+  "description": "Head gear awarded for defeating the Orc battlemage, Stroda gra-Drom.",
+  "icon": "data/images/d_/da/eh/gear_orc_light_head_d.png",
+  "trait": 14,
+  "variantOf": null
+}

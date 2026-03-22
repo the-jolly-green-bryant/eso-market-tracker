@@ -1,0 +1,9 @@
+{
+  "canonicalId": 197814,
+  "bindType": 2,
+  "name": "Scavenged Intruder's Belt",
+  "description": "A well-made piece of equipment scavenged from the body of an extraplanar intruder.",
+  "icon": "data/images/a_/ts/ia/gear_armamentofthekindred_medium_waist_a.png",
+  "trait": 18,
+  "variantOf": null
+}

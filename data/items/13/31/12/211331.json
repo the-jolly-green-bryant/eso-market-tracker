@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211331,
+  "bindType": 3,
+  "name": "Mundus Stone - The Shadow",
+  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Shadow.",
+  "icon": "data/images/21/0_/se/ability_mundusstones_012.png",
+  "trait": null,
+  "variantOf": null
+}

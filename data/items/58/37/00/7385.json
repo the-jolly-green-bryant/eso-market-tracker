@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7385,
+  "bindType": 2,
+  "name": "House Cousin's Cowl",
+  "description": "A cowl that shields the wearer from the elements and from fatigue.",
+  "icon": "data/images/d_/da/eh/gear_dunmer_medium_head_d.png",
+  "trait": 17,
+  "variantOf": null
+}

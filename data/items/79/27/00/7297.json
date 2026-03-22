@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7297,
+  "bindType": 2,
+  "name": "High King's Signet",
+  "description": "For saving Rivenspire and helping choose a ruler, High King Emeric awarded this signet ring.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 21,
+  "variantOf": null
+}

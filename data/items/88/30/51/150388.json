@@ -1,0 +1,9 @@
+{
+  "canonicalId": 150388,
+  "bindType": 2,
+  "name": "Greatsword of the Cygnus Irregulars",
+  "description": "The Cygnus Irregulars may seem odd as Imperial soldiers go, but their weapons are second to none.",
+  "icon": "data/images/d_/dr/ow/gear_imperial_2hsword_d.png",
+  "trait": 5,
+  "variantOf": null
+}

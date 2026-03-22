@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188120,
+  "bindType": 2,
+  "name": "Ring of Resonance",
+  "description": "A simple ring decorated with a shard of a resonance crystal taken from Brokerock Mine.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 30,
+  "variantOf": null
+}

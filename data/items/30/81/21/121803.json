@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121803,
+  "bindType": 2,
+  "name": "Assassin's Bow",
+  "description": "",
+  "icon": "data/images/d_/wo/b_/gear_breton_bow_d.png",
+  "trait": 8,
+  "variantOf": 121558
+}

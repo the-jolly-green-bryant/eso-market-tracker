@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1122,
+  "bindType": 2,
+  "name": "Daggerfall Guard Waist Band",
+  "description": "This medium belt was bestowed for bringing the Red Rook Bandits' plans to the Daggerfall Guard near Noellaume Manor.",
+  "icon": "data/images/d_/ts/ia/gear_breton_medium_waist_d.png",
+  "trait": 11,
+  "variantOf": null
+}

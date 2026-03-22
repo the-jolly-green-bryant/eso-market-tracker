@@ -1,0 +1,9 @@
+{
+  "canonicalId": 61018,
+  "bindType": 2,
+  "name": "Prismatic Flamestaff",
+  "description": "The pure fire of Meridia's Gift emanates from within the staff. Just holding it in your hand makes the darkness retreat.",
+  "icon": "data/images/c_/ff/at/gear_akaviri_staff_c.png",
+  "trait": 3,
+  "variantOf": null
+}

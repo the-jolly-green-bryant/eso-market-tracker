@@ -1,0 +1,9 @@
+{
+  "canonicalId": 123462,
+  "bindType": 2,
+  "name": "Coward's Gear Shield",
+  "description": "",
+  "icon": "data/images/a_/dl/ei/gear_ordinator_shield_a.png",
+  "trait": 17,
+  "variantOf": null
+}

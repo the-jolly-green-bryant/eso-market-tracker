@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34617,
+  "bindType": 2,
+  "name": "Fiord's Agnenor's Brutal Blade",
+  "description": "A weapon awarded for defeating the Stormfist Brigade leader, Agnenor the Blade, in the Bastard's Tomb.",
+  "icon": "data/images/d_/re/gg/gear_nord_dagger_d.png",
+  "trait": 8,
+  "variantOf": null
+}

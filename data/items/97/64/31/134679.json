@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134679,
+  "bindType": 3,
+  "name": "Mages Guild Message Stone",
+  "description": "An enchanted stone from Vanus Galerion contains a private message addressed to you. Activate the stone to start a quest to find the missing Wyrd Oracle and glimpse what's to come in the next chapter of the Elder Scrolls Online's ongoing saga.",
+  "icon": "data/images/23/0_/me/quest_wrothgar_item_032.png",
+  "trait": null,
+  "variantOf": null
+}

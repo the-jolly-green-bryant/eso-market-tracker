@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126065,
+  "bindType": 2,
+  "name": "Stromgruf's Ensorcelled Pants",
+  "description": "A token of thanks from the alchemist Nerise Venim. Her hireling Stromgruf won't be needing pants for a while.",
+  "icon": "data/images/d_/sg/el/gear_nord_light_legs_d.png",
+  "trait": 18,
+  "variantOf": null
+}

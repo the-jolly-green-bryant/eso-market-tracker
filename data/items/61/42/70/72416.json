@@ -1,0 +1,9 @@
+{
+  "canonicalId": 72416,
+  "bindType": 2,
+  "name": "Clever Alchemist Shield",
+  "description": "",
+  "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
+  "trait": 4,
+  "variantOf": 72171
+}

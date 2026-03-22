@@ -1,0 +1,9 @@
+{
+  "canonicalId": 75472,
+  "bindType": 2,
+  "name": "Gladiator's Helm",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_heavy_head_d.png",
+  "trait": 18,
+  "variantOf": 75402
+}

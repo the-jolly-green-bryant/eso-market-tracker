@@ -1,0 +1,9 @@
+{
+  "canonicalId": 131012,
+  "bindType": 2,
+  "name": "Fortified Brass Shield",
+  "description": "",
+  "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
+  "trait": 6,
+  "variantOf": 130732
+}

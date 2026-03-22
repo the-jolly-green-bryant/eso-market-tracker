@@ -1,0 +1,9 @@
+{
+  "canonicalId": 178431,
+  "bindType": 2,
+  "name": "Companion's Gauntlets",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/yv/ae/h_/companions_u30_equipment_gloves_heavy.png",
+  "trait": 41,
+  "variantOf": 178414
+}

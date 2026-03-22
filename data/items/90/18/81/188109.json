@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188109,
+  "bindType": 2,
+  "name": "Inferno Staff of the Ascendant Magus",
+  "description": "The Ascendant Magus's personal spellstaff, it still carries a resonant shadow of his zealous power.",
+  "icon": "data/images/c_/ff/at/gear_reach_staff_c.png",
+  "trait": 7,
+  "variantOf": null
+}

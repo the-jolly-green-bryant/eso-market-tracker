@@ -1,0 +1,9 @@
+{
+  "canonicalId": 55834,
+  "bindType": 3,
+  "name": "Mage's Box",
+  "description": "Contains a full set of the Mage's Trial gear.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

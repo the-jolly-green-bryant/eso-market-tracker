@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15539,
+  "bindType": 2,
+  "name": "Sword of Sizzling",
+  "description": "A blade that crackles with the power of lightning. Is that thunder you hear?",
+  "icon": "data/images/d_/dr/ow/gear_altmer_1hsword_d.png",
+  "trait": 2,
+  "variantOf": null
+}

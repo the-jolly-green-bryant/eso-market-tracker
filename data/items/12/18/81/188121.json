@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188121,
+  "bindType": 2,
+  "name": "Honor of the Steadfast",
+  "description": "A medal presented by the Society of the Steadfast in thanks for heroism on High Isle.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

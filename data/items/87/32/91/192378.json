@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192378,
+  "bindType": 3,
+  "name": "Target Dummy Crate",
+  "description": "This Crate contains a large number of skeletons, enchanted to withstand your blows time and time again along with a Crafting Praxis to make more.",
+  "icon": "data/images/10/0_/et/quest_crate_001.png",
+  "trait": null,
+  "variantOf": null
+}

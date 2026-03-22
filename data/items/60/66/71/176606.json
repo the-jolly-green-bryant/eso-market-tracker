@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176606,
+  "bindType": 2,
+  "name": "Companion's Mace",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/ec/am/_t/companions_u30_equipment_mace.png",
+  "trait": 38,
+  "variantOf": null
+}

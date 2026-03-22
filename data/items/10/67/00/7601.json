@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7601,
+  "bindType": 2,
+  "name": "Micro-Etched Ring",
+  "description": "The runes etched into this simple loop are almost too small to see. The steadiest of hands enchanted this item.",
+  "icon": "data/images/a_/gn/ir/gear_altmer_ring_a.png",
+  "trait": 22,
+  "variantOf": null
+}

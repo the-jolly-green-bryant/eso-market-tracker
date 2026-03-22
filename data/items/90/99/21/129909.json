@@ -1,0 +1,9 @@
+{
+  "canonicalId": 129909,
+  "bindType": 3,
+  "name": "Construct's Dynamo Core",
+  "description": "The source of power for a humanoid construct. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.",
+  "icon": "data/images/10/0_/tn/quest_factotumballjoint_001.png",
+  "trait": null,
+  "variantOf": null
+}

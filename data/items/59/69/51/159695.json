@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159695,
+  "bindType": 2,
+  "name": "Sword of Solitude",
+  "description": "This sword is one of the legendary Weapons of Solitude.",
+  "icon": "data/images/d_/dr/ow/gear_nord_1hsword_d.png",
+  "trait": 7,
+  "variantOf": null
+}

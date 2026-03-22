@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176982,
+  "bindType": 2,
+  "name": "Companion's Helmet",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/mu/id/em/companions_u30_equipment_helm_medium.png",
+  "trait": 41,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 177017,
+  "bindType": 2,
+  "name": "Companion's Gloves",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/th/gi/l_/companions_u30_equipment_gloves_light.png",
+  "trait": 41,
+  "variantOf": null
+}

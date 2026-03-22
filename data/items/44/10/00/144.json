@@ -1,0 +1,9 @@
+{
+  "canonicalId": 144,
+  "bindType": 2,
+  "name": "Apprentice's Leggings",
+  "description": "These leggings are often issued to the newest members of the Mages Guild.",
+  "icon": "data/images/d_/sg/el/gear_dunmer_light_legs_d.png",
+  "trait": 13,
+  "variantOf": null
+}

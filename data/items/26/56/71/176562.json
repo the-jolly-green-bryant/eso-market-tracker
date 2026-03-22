@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176562,
+  "bindType": 2,
+  "name": "Companion's Sabatons",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/yv/ae/h_/companions_u30_equipment_boots_heavy.png",
+  "trait": 38,
+  "variantOf": null
+}

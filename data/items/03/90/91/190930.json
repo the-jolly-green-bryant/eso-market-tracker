@@ -1,0 +1,9 @@
+{
+  "canonicalId": 190930,
+  "bindType": 2,
+  "name": "Forgotten Adventurer's Sword",
+  "description": "A sword found in your strong box. Dulled by age and disuse but with the right technique, it can still deal out ample punishment.",
+  "icon": "data/images/d_/dr/ow/gear_altmer_1hsword_d.png",
+  "trait": 6,
+  "variantOf": null
+}

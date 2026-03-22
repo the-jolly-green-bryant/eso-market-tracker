@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34298,
+  "bindType": 2,
+  "name": "Werewolf's Hide Razor",
+  "description": "A weapon awarded for defeating the Dominion officer, Sincano, in Silumm.",
+  "icon": "data/images/d_/dr/ow/gear_altmer_2hsword_d.png",
+  "trait": 3,
+  "variantOf": null
+}

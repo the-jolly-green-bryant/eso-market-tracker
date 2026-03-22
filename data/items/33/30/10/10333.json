@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10333,
+  "bindType": 2,
+  "name": "Merchant's Favor Ring",
+  "description": "Left behind to buy your silence by an Argonian merchant who spread too many rumors.",
+  "icon": "data/images/a_/gn/ir/gear_argonian_ring_a.png",
+  "trait": 23,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130993,
+  "bindType": 2,
+  "name": "Fortified Brass Jack",
+  "description": "",
+  "icon": "data/images/d_/ts/eh/gear_breton_medium_chest_d.png",
+  "trait": 11,
+  "variantOf": 130748
+}

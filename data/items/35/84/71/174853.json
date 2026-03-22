@@ -1,0 +1,9 @@
+{
+  "canonicalId": 174853,
+  "bindType": 2,
+  "name": "Fighters Guild Hard Helm",
+  "description": "A heavy helmet awarded for bringing news of a member's death and their research to the Fighters Guild.",
+  "icon": "data/images/a_/da/eh/gear_akaviri_heavy_head_a.png",
+  "trait": 13,
+  "variantOf": null
+}

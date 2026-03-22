@@ -1,0 +1,9 @@
+{
+  "canonicalId": 50281,
+  "bindType": 2,
+  "name": "Hammer of the Spectre's Eye",
+  "description": "",
+  "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
+  "trait": 6,
+  "variantOf": 50328
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 138792,
+  "bindType": 2,
+  "name": "Forgotten Adventurer's Leggings",
+  "description": "When introducing oneself to High Elven royalty, it is considered proper to wear pants.",
+  "icon": "data/images/d_/sg/el/gear_altmer_light_legs_d.png",
+  "trait": 6,
+  "variantOf": null
+}

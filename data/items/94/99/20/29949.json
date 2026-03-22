@@ -1,0 +1,9 @@
+{
+  "canonicalId": 29949,
+  "bindType": 2,
+  "name": "The Laughing Blade",
+  "description": "Dunmer daggers in this style purportedly contain secret compartments for poison, though no one has ever located any.",
+  "icon": "data/images/d_/re/gg/gear_dunmer_dagger_d.png",
+  "trait": 2,
+  "variantOf": null
+}

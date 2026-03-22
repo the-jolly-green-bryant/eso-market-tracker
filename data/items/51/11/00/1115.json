@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1115,
+  "bindType": 2,
+  "name": "Smuggler's Vest",
+  "description": "A well-sewn embroidered vest, perfect for business dealings in Saintsport.",
+  "icon": "data/images/d_/ts/eh/gear_redguard_medium_chest_d.png",
+  "trait": 9,
+  "variantOf": null
+}

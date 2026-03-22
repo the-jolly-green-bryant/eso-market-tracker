@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134718,
+  "bindType": 2,
+  "name": "Shoes of the Psijic Order",
+  "description": "Well-made footwear, your reward for helping the Psijic Oriandra free her companions from insidious traps in Eldbur Ruins.",
+  "icon": "data/images/a_/te/ef/gear_psijicorder_light_feet_a.png",
+  "trait": 11,
+  "variantOf": null
+}

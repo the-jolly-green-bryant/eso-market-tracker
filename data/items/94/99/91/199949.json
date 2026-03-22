@@ -1,0 +1,9 @@
+{
+  "canonicalId": 199949,
+  "bindType": 3,
+  "name": "Grahtwood Lore",
+  "description": "A mysterious tome containing all of the books in the Grahtwood Lore collection.",
+  "icon": "data/images/20/0_/su/book_arquitius_002.png",
+  "trait": null,
+  "variantOf": null
+}

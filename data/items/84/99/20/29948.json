@@ -1,0 +1,9 @@
+{
+  "canonicalId": 29948,
+  "bindType": 2,
+  "name": "Monastic Slippers",
+  "description": "These simple slippers are worn by priests tending the ancient Aldmeri site of Tanzelwil.",
+  "icon": "data/images/d_/te/ef/gear_altmer_light_feet_d.png",
+  "trait": 18,
+  "variantOf": null
+}

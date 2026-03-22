@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211333,
+  "bindType": 3,
+  "name": "Crate of Mundus Stones",
+  "description": "This container holds pieces of Mundus Stones that can grant the Mundus buffs when used.",
+  "icon": "data/images/10/0_/xo/delivery_box_001.png",
+  "trait": null,
+  "variantOf": null
+}

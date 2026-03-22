@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15623,
+  "bindType": 2,
+  "name": "Foe-Smasher",
+  "description": "Squire Theo Rocque awarded this grim weapon as thanks for helping him discover who murdered Sir Etienne during the Reachman siege on Murcien's Hamlet.",
+  "icon": "data/images/d_/re/mm/gear_breton_2hhammer_d.png",
+  "trait": 3,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43583,
+  "bindType": 2,
+  "name": "Gold Fleet's Beacon",
+  "description": "This simple staff hums quietly when grasped in both hands.",
+  "icon": "data/images/d_/ff/at/gear_altmer_staff_d.png",
+  "trait": 4,
+  "variantOf": null
+}

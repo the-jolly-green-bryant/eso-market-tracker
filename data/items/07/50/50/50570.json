@@ -1,0 +1,9 @@
+{
+  "canonicalId": 50570,
+  "bindType": 2,
+  "name": "Sword of Torug's Pact",
+  "description": "",
+  "icon": "data/images/d_/dr/ow/gear_breton_1hsword_d.png",
+  "trait": 3,
+  "variantOf": 50710
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1133,
+  "bindType": 2,
+  "name": "Bloodthorn Guardian's Hammer",
+  "description": "This weapon was awarded for setting the elemental guardians free from Angof's imprisoning spell.",
+  "icon": "data/images/d_/re/mm/gear_bosmer_1hhammer_d.png",
+  "trait": 9,
+  "variantOf": null
+}

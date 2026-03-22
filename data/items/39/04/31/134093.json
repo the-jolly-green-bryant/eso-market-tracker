@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134093,
+  "bindType": 2,
+  "name": "Light Overland Sets",
+  "description": "The Light Armor item sets, found in Overland Zones (base game, DLC, and Chapter).",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

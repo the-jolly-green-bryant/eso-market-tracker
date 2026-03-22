@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43024,
+  "bindType": 2,
+  "name": "Sharpfang's Jagged Blade of Mother's Embrace",
+  "description": "A dagger awarded for defeating the giant troll, Sharpfang.",
+  "icon": "data/images/d_/re/gg/gear_dunmer_dagger_d.png",
+  "trait": 7,
+  "variantOf": null
+}

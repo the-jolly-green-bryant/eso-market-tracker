@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15526,
+  "bindType": 2,
+  "name": "Sapmagic Ring",
+  "description": "Though Bosmer in origin, this ring also incorporates Wood Orc motifs.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 22,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 208155,
+  "bindType": 2,
+  "name": "Eyepiercer",
+  "description": "Well made for a Goblin bow, the string is made from the tendons of some unknown beast.",
+  "icon": "data/images/c_/wo/b_/gear_primative_bow_c.png",
+  "trait": 7,
+  "variantOf": null
+}

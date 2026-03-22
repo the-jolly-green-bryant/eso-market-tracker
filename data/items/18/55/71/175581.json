@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175581,
+  "bindType": 3,
+  "name": "Jester's Bag of Baubles",
+  "description": "This box contains an infinite supply of Jester's Festival consumables.",
+  "icon": "data/images/xo/b_/tf/event_jestersfestival_2016_gift_box.png",
+  "trait": null,
+  "variantOf": null
+}

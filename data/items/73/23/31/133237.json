@@ -1,0 +1,9 @@
+{
+  "canonicalId": 133237,
+  "bindType": 2,
+  "name": "Spare Serpentine Belt",
+  "description": "This tough belt is made from a rubbery strap leftover from Terari's exchange machine.",
+  "icon": "data/images/a_/ts/ia/gear_apostle_heavy_waist_a.png",
+  "trait": 13,
+  "variantOf": null
+}

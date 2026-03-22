@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191226,
+  "bindType": 2,
+  "name": "Chef's Spice Ring",
+  "description": "A ring with a hidden compartment for spices. Filled with a signature concoction containing, among other things, Volcanic Reaper Peppers.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 22,
+  "variantOf": null
+}

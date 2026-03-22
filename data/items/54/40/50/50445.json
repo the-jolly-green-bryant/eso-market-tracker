@@ -1,0 +1,9 @@
+{
+  "canonicalId": 50445,
+  "bindType": 2,
+  "name": "Bracers of Torug's Pact",
+  "description": "",
+  "icon": "data/images/d_/sd/na/gear_breton_medium_hands_d.png",
+  "trait": 12,
+  "variantOf": 50730
+}

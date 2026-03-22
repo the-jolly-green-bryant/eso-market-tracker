@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153832,
+  "bindType": 2,
+  "name": "Charged Akaviri Staff",
+  "description": "A treasure found within the vaults of the Dragonguard Sanctum.",
+  "icon": "data/images/a_/ff/at/gear_dragonguard_staff_a.png",
+  "trait": 4,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7358,
+  "bindType": 2,
+  "name": "Jakarn's Machete",
+  "description": "Jakarn's heavy blade, useful in cutting through tricky social situations.",
+  "icon": "data/images/d_/dr/ow/gear_breton_1hsword_d.png",
+  "trait": 7,
+  "variantOf": null
+}

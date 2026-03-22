@@ -1,0 +1,9 @@
+{
+  "canonicalId": 122323,
+  "bindType": 2,
+  "name": "Shacklebreaker Sword",
+  "description": "",
+  "icon": "data/images/d_/dr/ow/gear_breton_1hsword_d.png",
+  "trait": 1,
+  "variantOf": 122253
+}

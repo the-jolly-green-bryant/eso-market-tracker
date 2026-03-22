@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43520,
+  "bindType": 2,
+  "name": "Staff of Deadfire",
+  "description": "A priestess of Arkay thanked you with this fiery staff after you brought her a cursed Daedric urn from the ruins of Broken Tusk.",
+  "icon": "data/images/d_/ff/at/gear_dunmer_staff_d.png",
+  "trait": 1,
+  "variantOf": null
+}

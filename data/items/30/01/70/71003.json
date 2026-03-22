@@ -1,0 +1,9 @@
+{
+  "canonicalId": 71003,
+  "bindType": 2,
+  "name": "King's Snug Girdle",
+  "description": "Chief Bazrag gave you this sturdy belt in thanks for exposing the plot against the clan chiefs at the king's Moot.",
+  "icon": "data/images/d_/ts/ia/gear_orc_heavy_waist_d.png",
+  "trait": 14,
+  "variantOf": null
+}

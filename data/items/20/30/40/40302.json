@@ -1,0 +1,9 @@
+{
+  "canonicalId": 40302,
+  "bindType": 2,
+  "name": "Spider-Wrangler's Gloves",
+  "description": "The leather used to craft these gloves repels poison.",
+  "icon": "data/images/d_/sd/na/gear_bosmer_medium_hands_d.png",
+  "trait": 9,
+  "variantOf": null
+}

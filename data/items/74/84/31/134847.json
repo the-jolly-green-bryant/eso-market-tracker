@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134847,
+  "bindType": 2,
+  "name": "Agility, Endurance, Willpower",
+  "description": "This container holds a collection of jewelry found in Imperial City Treasure Vaults.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176990,
+  "bindType": 2,
+  "name": "Companion's Cuirass",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/yv/ae/h_/companions_u30_equipment_chest_heavy.png",
+  "trait": 41,
+  "variantOf": null
+}

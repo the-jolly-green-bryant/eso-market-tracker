@@ -1,0 +1,9 @@
+{
+  "canonicalId": 212193,
+  "bindType": 2,
+  "name": "Forgotten Truncheon",
+  "description": "Sela found this suspicious-looking mace in the Forgotten Crypts.",
+  "icon": "data/images/d_/re/mm/gear_dunmer_1hhammer_d.png",
+  "trait": 7,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 140221,
+  "bindType": 2,
+  "name": "Forgotten Adventurer's Jerkin",
+  "description": "This light shirt is fitting attire for the fledging journeys of a new adventurer.",
+  "icon": "data/images/a_/tr/ih/gear_altmer_light_shirt_a.png",
+  "trait": 6,
+  "variantOf": null
+}

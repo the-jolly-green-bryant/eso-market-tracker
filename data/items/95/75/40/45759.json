@@ -1,0 +1,9 @@
+{
+  "canonicalId": 45759,
+  "bindType": 2,
+  "name": "Ingested Hammer of Cyrodiil's Light",
+  "description": "Crafted in Oblivion, this weapon's surface glistens with an evil sheen.",
+  "icon": "data/images/d_/re/mm/gear_argonian_1hhammer_d.png",
+  "trait": 1,
+  "variantOf": null
+}

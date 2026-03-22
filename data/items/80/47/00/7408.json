@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7408,
+  "bindType": 2,
+  "name": "Temple Keeper's Spaulders",
+  "description": "These spaulder were once worn by acolytes tending the deep vaults below Heimlyn Keep.",
+  "icon": "data/images/d_/sr/ed/gear_dunmer_medium_shoulders_d.png",
+  "trait": 6,
+  "variantOf": null
+}

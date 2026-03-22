@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1698,
+  "bindType": 2,
+  "name": "Whispering Gloves",
+  "description": "When clapped together, the sound made by these gloves is no louder than a whisper.",
+  "icon": "data/images/d_/sd/na/gear_bosmer_light_hands_d.png",
+  "trait": 13,
+  "variantOf": null
+}

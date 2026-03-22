@@ -1,0 +1,9 @@
+{
+  "canonicalId": 71008,
+  "bindType": 2,
+  "name": "Bookseller's Ink-Stained Trousers",
+  "description": "You helped the bookseller Nammadin after he was attacked on the road to Orsinium.",
+  "icon": "data/images/d_/sg/el/gear_orc_light_legs_d.png",
+  "trait": 11,
+  "variantOf": null
+}

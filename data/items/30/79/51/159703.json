@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159703,
+  "bindType": 2,
+  "name": "Dragon Bridge Bastion",
+  "description": "A Nordic shield, awarded for service to the garrison at Dragon Bridge.",
+  "icon": "data/images/d_/dl/ei/gear_nord_shield_d.png",
+  "trait": 11,
+  "variantOf": null
+}

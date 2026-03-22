@@ -1,0 +1,9 @@
+{
+  "canonicalId": 48643,
+  "bindType": 2,
+  "name": "Magnus' Lightning Staff",
+  "description": "",
+  "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
+  "trait": 10,
+  "variantOf": 48828
+}

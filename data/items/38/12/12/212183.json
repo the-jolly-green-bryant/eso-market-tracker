@@ -1,0 +1,9 @@
+{
+  "canonicalId": 212183,
+  "bindType": 2,
+  "name": "Sailor's Blade",
+  "description": "This dagger is sharper than it looks. You earned it by freeing Peras's shipmates from the slavers of Crimson Cove.",
+  "icon": "data/images/d_/re/gg/gear_bosmer_dagger_d.png",
+  "trait": 3,
+  "variantOf": null
+}

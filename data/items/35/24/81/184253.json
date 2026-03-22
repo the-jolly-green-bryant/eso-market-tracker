@@ -1,0 +1,9 @@
+{
+  "canonicalId": 184253,
+  "bindType": 2,
+  "name": "Base Dungeon Sets - Light",
+  "description": "The Light Armor item sets found in the base game Dungeons.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

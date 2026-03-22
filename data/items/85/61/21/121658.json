@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121658,
+  "bindType": 2,
+  "name": "Assassin's Sword",
+  "description": "",
+  "icon": "data/images/d_/dr/ow/gear_breton_1hsword_d.png",
+  "trait": 3,
+  "variantOf": 121553
+}

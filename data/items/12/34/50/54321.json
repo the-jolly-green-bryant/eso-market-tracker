@@ -1,0 +1,9 @@
+{
+  "canonicalId": 54321,
+  "bindType": 2,
+  "name": "Dominion's Helm",
+  "description": "",
+  "icon": "data/images/a_/da/eh/gear_akaviri_heavy_head_a.png",
+  "trait": 18,
+  "variantOf": null
+}

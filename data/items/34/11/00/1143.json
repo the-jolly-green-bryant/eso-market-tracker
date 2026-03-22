@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1143,
+  "bindType": 2,
+  "name": "King's Justice of the Wyrd Tree",
+  "description": "A distinctive weapon awarded by King Casimir for stopping the Bloodthorn assassins in Daggerfall.",
+  "icon": "data/images/d_/dr/ow/gear_breton_2hsword_d.png",
+  "trait": 5,
+  "variantOf": null
+}

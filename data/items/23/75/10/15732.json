@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15732,
+  "bindType": 2,
+  "name": "Molag Grunda's Girdle",
+  "description": "You earned this girdle by defeating Molag Grunda at the Gatehouse in Coldharbour",
+  "icon": "data/images/a_/ts/ia/gear_daedric_heavy_waist_a.png",
+  "trait": 4,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10847,
+  "bindType": 2,
+  "name": "General Malgoth's War Harness",
+  "description": "The marks on this worn harness prove it's been tested in battle.",
+  "icon": "data/images/d_/ts/ia/gear_bosmer_medium_waist_d.png",
+  "trait": 10,
+  "variantOf": null
+}

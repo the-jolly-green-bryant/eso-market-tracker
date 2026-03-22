@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10895,
+  "bindType": 2,
+  "name": "Master Tracker's Bow",
+  "description": "After hunting the white senche, tracking other prey with this bow in hand should be easy.",
+  "icon": "data/images/d_/wo/b_/gear_khajiit_bow_d.png",
+  "trait": 3,
+  "variantOf": null
+}

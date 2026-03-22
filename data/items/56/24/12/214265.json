@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214265,
+  "bindType": 3,
+  "name": "Tradeskill Vendor Achievement Furnishing Crate",
+  "description": "This Crate contains all of the Achievement Furnishings found on the different tradeskill vendors throughout Tamriel. Also includes items carried by Mystics and Outlaws Refuge Merchants.",
+  "icon": "data/images/10/0_/et/quest_crate_001.png",
+  "trait": null,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188119,
+  "bindType": 2,
+  "name": "Steadfast Healer's Gloves",
+  "description": "Delicate gloves for deft fingers, used by the master healers of the Society of the Steadfast.",
+  "icon": "data/images/a_/sd/na/gear_bretonv2_light_hands_a.png",
+  "trait": 17,
+  "variantOf": null
+}

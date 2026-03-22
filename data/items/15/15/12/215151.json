@@ -1,0 +1,9 @@
+{
+  "canonicalId": 215151,
+  "bindType": 2,
+  "name": "Shared Burden Amulet",
+  "description": "",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 4,
+  "variantOf": 215135
+}

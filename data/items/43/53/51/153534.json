@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153534,
+  "bindType": 3,
+  "name": "Reward Box: Imperial City",
+  "description": "This box contains a selection of the rewards available to adventurers within Imperial City.",
+  "icon": "data/images/so/ro/bo/gift-box-ouroboros.png",
+  "trait": null,
+  "variantOf": null
+}

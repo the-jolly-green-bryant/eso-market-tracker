@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43036,
+  "bindType": 2,
+  "name": "Fiord's Ratmaster's Bloodbow",
+  "description": "A weapon awarded for defeating the vampire, Olveidi the Ratmaster.",
+  "icon": "data/images/d_/wo/b_/gear_nord_bow_d.png",
+  "trait": 3,
+  "variantOf": null
+}

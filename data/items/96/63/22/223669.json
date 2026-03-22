@@ -1,0 +1,9 @@
+{
+  "canonicalId": 223669,
+  "bindType": 2,
+  "name": "Fellowship Scouthelm",
+  "description": "Favored by the Fellowship's forward scouts, this helm offers protection without hindering sight or stealth.",
+  "icon": "data/images/a_/da/eh/gear_fellowshipstirk_medium_head_a.png",
+  "trait": 4,
+  "variantOf": null
+}

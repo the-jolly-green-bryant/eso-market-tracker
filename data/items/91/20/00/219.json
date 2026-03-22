@@ -1,0 +1,9 @@
+{
+  "canonicalId": 219,
+  "bindType": 2,
+  "name": "Sommelier's Gloves",
+  "description": "The intricate weave used in these gloves imbues the wearer with magical potency.",
+  "icon": "data/images/d_/sd/na/gear_dunmer_light_hands_d.png",
+  "trait": 11,
+  "variantOf": null
+}

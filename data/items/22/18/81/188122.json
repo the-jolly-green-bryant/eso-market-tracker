@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188122,
+  "bindType": 2,
+  "name": "Ring of the Ancient Mariner",
+  "description": "A ring given by a sea captain lost during the events of the All Flags Navy to their heart-broken beloved.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 32,
+  "variantOf": null
+}

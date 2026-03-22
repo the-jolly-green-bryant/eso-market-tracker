@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7300,
+  "bindType": 2,
+  "name": "Darkstride Silverhoof Loop",
+  "description": "A ring received for saving the villagers of Silverhoof Vale.",
+  "icon": "data/images/a_/gn/ir/gear_redguard_ring_a.png",
+  "trait": 23,
+  "variantOf": null
+}

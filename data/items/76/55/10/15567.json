@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15567,
+  "bindType": 2,
+  "name": "Neramo's Staff",
+  "description": "A staff presented by Neramo in appreciation of your aid in researching the Dwemer.",
+  "icon": "data/images/d_/ff/at/gear_altmer_staff_d.png",
+  "trait": 1,
+  "variantOf": null
+}

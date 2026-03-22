@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7347,
+  "bindType": 2,
+  "name": "Scourer's Scale",
+  "description": "Daedric script lines the inside of the shield. The acrid smell reminds you of the prison bars in Coldharbour.",
+  "icon": "data/images/c_/dl/ei/gear_daedric_shield_c.png",
+  "trait": 4,
+  "variantOf": null
+}

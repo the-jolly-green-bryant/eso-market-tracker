@@ -1,0 +1,9 @@
+{
+  "canonicalId": 36573,
+  "bindType": 2,
+  "name": "Bloodthorn Dagger of the Trainee",
+  "description": "A keen magical blade is a suitable reward for defeating Bloodthorn Cultists.",
+  "icon": "data/images/d_/re/gg/gear_breton_dagger_d.png",
+  "trait": 3,
+  "variantOf": null
+}

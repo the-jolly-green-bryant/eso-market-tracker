@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34665,
+  "bindType": 2,
+  "name": "Tough Mining Boots of the Ranger",
+  "description": "These boots look like they could stand up to anything.",
+  "icon": "data/images/d_/te/ef/gear_dunmer_medium_feet_d.png",
+  "trait": 11,
+  "variantOf": null
+}

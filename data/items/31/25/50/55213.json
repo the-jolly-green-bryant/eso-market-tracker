@@ -1,0 +1,9 @@
+{
+  "canonicalId": 55213,
+  "bindType": 2,
+  "name": "Sword of the Arena",
+  "description": "",
+  "icon": "data/images/d_/dr/ow/gear_breton_1hsword_d.png",
+  "trait": 7,
+  "variantOf": 54964
+}

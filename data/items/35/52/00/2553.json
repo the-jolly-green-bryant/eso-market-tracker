@@ -1,0 +1,9 @@
+{
+  "canonicalId": 2553,
+  "bindType": 2,
+  "name": "Flamecrest Hammer",
+  "description": "For defeating Sir Croix and sounding the siege horns to retake Firebrand Keep, Sir Edmund awarded a weapon befitting the Knights of the Flame.",
+  "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
+  "trait": 4,
+  "variantOf": null
+}

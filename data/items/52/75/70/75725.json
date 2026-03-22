@@ -1,0 +1,9 @@
+{
+  "canonicalId": 75725,
+  "bindType": 2,
+  "name": "Gladiator's Breeches",
+  "description": "",
+  "icon": "data/images/d_/sg/el/gear_breton_light_legs_d.png",
+  "trait": 25,
+  "variantOf": 75410
+}

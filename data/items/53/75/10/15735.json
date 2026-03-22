@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15735,
+  "bindType": 2,
+  "name": "The Observer's Battle Helm",
+  "description": "This Daedric helmet was awarded for beating the Observer at the Cliffs of Failure.",
+  "icon": "data/images/a_/da/eh/gear_daedric_heavy_head_a.png",
+  "trait": 12,
+  "variantOf": null
+}

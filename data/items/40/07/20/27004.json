@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27004,
+  "bindType": 2,
+  "name": "Old Imperial Flour",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "data/images/3r/_n/ro/crafting_flower_dragonthorn_r3.png",
+  "trait": null,
+  "variantOf": null
+}

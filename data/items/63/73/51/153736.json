@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153736,
+  "bindType": 3,
+  "name": "Lumpy Sack",
+  "description": "This bag is very lumpy and snoring lightly.",
+  "icon": "data/images/ga/b_/gn/collectible_crafting_bag.png",
+  "trait": null,
+  "variantOf": null
+}

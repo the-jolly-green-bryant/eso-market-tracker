@@ -1,0 +1,9 @@
+{
+  "canonicalId": 44907,
+  "bindType": 2,
+  "name": "Mace of the Companions",
+  "description": "This sturdy mace commemorates the newly forged bond amongst the Nords, Elves, and Argonians.",
+  "icon": "data/images/d_/re/mm/gear_nord_1hhammer_d.png",
+  "trait": 5,
+  "variantOf": null
+}

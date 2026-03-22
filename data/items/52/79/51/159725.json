@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159725,
+  "bindType": 2,
+  "name": "Hircine's Moonring",
+  "description": "A ring bearing a Hircine stone, acquired by helping the Werewolf pack of Dark Moon Grotto.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 21,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4266,
+  "bindType": 2,
+  "name": "Merchant Guardian's Pauldrons",
+  "description": "These pauldrons were a gift from caravan guard Kotholl for helping him recover goods at the Obsidian Gorge.",
+  "icon": "data/images/d_/sr/ed/gear_nord_heavy_shoulders_d.png",
+  "trait": 13,
+  "variantOf": null
+}

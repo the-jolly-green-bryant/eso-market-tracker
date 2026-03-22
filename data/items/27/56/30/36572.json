@@ -1,0 +1,9 @@
+{
+  "canonicalId": 36572,
+  "bindType": 2,
+  "name": "Rulorn's Silken Garb",
+  "description": "Rulorn's finely-tailored robes are unsuitable for working around ancient Dwemer devices.",
+  "icon": "data/images/d_/eb/or/gear_breton_light_robe_d.png",
+  "trait": 14,
+  "variantOf": null
+}

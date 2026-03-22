@@ -1,0 +1,9 @@
+{
+  "canonicalId": 50371,
+  "bindType": 2,
+  "name": "Hammer of Torug's Pact",
+  "description": "",
+  "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
+  "trait": 5,
+  "variantOf": 50709
+}

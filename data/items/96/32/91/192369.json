@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192369,
+  "bindType": 3,
+  "name": "All Home Deeds Envelope",
+  "description": "This envelope contains the deeds to all Homes available in ESO.",
+  "icon": "data/images/10/0_/ep/justice_stolen_envelope_001.png",
+  "trait": null,
+  "variantOf": null
+}

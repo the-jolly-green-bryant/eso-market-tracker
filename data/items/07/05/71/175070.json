@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175070,
+  "bindType": 2,
+  "name": "Witch's Pouch of Plunder",
+  "description": "This container contains an endless supply of Plunder Skulls normally found during the Witch's Festival.",
+  "icon": "data/images/te/kc/ub/event_halloween_dremora_skull_bucket.png",
+  "trait": null,
+  "variantOf": null
+}

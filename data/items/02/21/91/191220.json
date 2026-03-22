@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191220,
+  "bindType": 2,
+  "name": "Thorncaster's Lava Staff",
+  "description": "Scarred from the claws of many Faun spellcasters, this staff gives off a great deal of heat. Still connected in some way to the raging inferno beneath Galen.",
+  "icon": "data/images/d_/ff/at/gear_bosmer_staff_d.png",
+  "trait": 7,
+  "variantOf": null
+}

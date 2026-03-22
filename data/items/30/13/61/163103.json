@@ -1,0 +1,9 @@
+{
+  "canonicalId": 163103,
+  "bindType": 2,
+  "name": "Spell Parasite's Amulet",
+  "description": "",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 30,
+  "variantOf": 163093
+}

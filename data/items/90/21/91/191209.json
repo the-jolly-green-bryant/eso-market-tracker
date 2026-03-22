@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191209,
+  "bindType": 2,
+  "name": "Mornard Noble Breeches",
+  "description": "The regal colors of House Mornard once blazed on banners across the Systres. Now the house is in decline, their banners relegated to prominence in Vastyr.",
+  "icon": "data/images/a_/sg/el/gear_housemornard_light_legs_a.png",
+  "trait": 4,
+  "variantOf": null
+}

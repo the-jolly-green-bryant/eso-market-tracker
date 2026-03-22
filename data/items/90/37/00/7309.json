@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7309,
+  "bindType": 2,
+  "name": "Nedras' Leather Pants",
+  "description": "Leggings presented for bringing news of Nedras' fate to his sister Gendinora.",
+  "icon": "data/images/d_/sg/el/gear_bosmer_light_legs_d.png",
+  "trait": 11,
+  "variantOf": null
+}

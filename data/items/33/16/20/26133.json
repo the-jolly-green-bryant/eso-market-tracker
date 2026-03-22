@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26133,
+  "bindType": 2,
+  "name": "Barefoot Breton's Shoes",
+  "description": "Footwear received after helping Parquier find his missing items.",
+  "icon": "data/images/d_/te/ef/gear_breton_light_feet_d.png",
+  "trait": 14,
+  "variantOf": null
+}

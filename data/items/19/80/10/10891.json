@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10891,
+  "bindType": 2,
+  "name": "Lizardhide Shield",
+  "description": "Though this shield is sturdy, it's better not to bring it out when Argonians are present.",
+  "icon": "data/images/d_/dl/ei/gear_argonian_shield_d.png",
+  "trait": 13,
+  "variantOf": null
+}

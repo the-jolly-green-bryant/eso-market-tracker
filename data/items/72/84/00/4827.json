@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4827,
+  "bindType": 2,
+  "name": "Dungeon-Delving Slippers",
+  "description": "This heavy footwear awarded for helping Kireth and Raynor Vanos solve the mystery of the Bthanual ruins.",
+  "icon": "data/images/d_/te/ef/gear_dunmer_heavy_feet_d.png",
+  "trait": 17,
+  "variantOf": null
+}

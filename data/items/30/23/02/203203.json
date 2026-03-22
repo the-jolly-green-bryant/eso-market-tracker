@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203203,
+  "bindType": 3,
+  "name": "Apocryphal Pages",
+  "description": "A mysterious tome containing all of the books in the Apocryphal Pages collection.",
+  "icon": "data/images/20/0_/su/book_arquitius_002.png",
+  "trait": null,
+  "variantOf": null
+}

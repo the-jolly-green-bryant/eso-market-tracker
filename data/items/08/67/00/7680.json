@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7680,
+  "bindType": 2,
+  "name": "Frostwind Axe",
+  "description": "This weapon was awarded for aiding the survivors of the giant attack on Lower Yorgrim.",
+  "icon": "data/images/d_/ex/ah/gear_nord_1haxe_d.png",
+  "trait": 2,
+  "variantOf": null
+}

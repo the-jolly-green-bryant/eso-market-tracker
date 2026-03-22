@@ -1,0 +1,9 @@
+{
+  "canonicalId": 45002,
+  "bindType": 2,
+  "name": "The Emperor's Blessing",
+  "description": "Carved by Varen himself as his sight left him, the runes that run its length speak to his power as a mage and a seer.",
+  "icon": "data/images/20/0_/dn/quest_wand_002.png",
+  "trait": 4,
+  "variantOf": null
+}

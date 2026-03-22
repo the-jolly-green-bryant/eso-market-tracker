@@ -1,0 +1,9 @@
+{
+  "canonicalId": 60015,
+  "bindType": 2,
+  "name": "Shield of the Noble's Conquest",
+  "description": "",
+  "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
+  "trait": 12,
+  "variantOf": 60295
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 205282,
+  "bindType": 2,
+  "name": "Ayleid Refuge Axe",
+  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
+  "icon": "data/images/ex/a_/th/gear_shardknight_axe.png",
+  "trait": 5,
+  "variantOf": null
+}

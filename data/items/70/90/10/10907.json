@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10907,
+  "bindType": 2,
+  "name": "Matchmaker's Slippers",
+  "description": "Perhaps wearing these slippers will help you find your own match.",
+  "icon": "data/images/d_/te/ef/gear_bosmer_light_feet_d.png",
+  "trait": 11,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 54479,
+  "bindType": 2,
+  "name": "Token of Gratitude",
+  "description": "This humble gift was given by refugees fleeing Bangkorai in gratitude for retrieving belongings stolen by invading Imperials.",
+  "icon": "data/images/a_/kc/en/gear_altmer_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

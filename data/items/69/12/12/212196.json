@@ -1,0 +1,9 @@
+{
+  "canonicalId": 212196,
+  "bindType": 2,
+  "name": "Traitor's Helm",
+  "description": "Thragof gave you this helm for finding a traitor and freeing soldiers held in the Lion's Den.",
+  "icon": "data/images/d_/da/eh/gear_nord_medium_head_d.png",
+  "trait": 11,
+  "variantOf": null
+}

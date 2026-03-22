@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26157,
+  "bindType": 2,
+  "name": "Windcaller's Sash",
+  "description": "This breezy sash flows and moves even when there's no wind.",
+  "icon": "data/images/d_/ts/ia/gear_redguard_light_waist_d.png",
+  "trait": 6,
+  "variantOf": null
+}

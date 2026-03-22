@@ -1,0 +1,9 @@
+{
+  "canonicalId": 60011,
+  "bindType": 2,
+  "name": "Helmet of the Noble's Conquest",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_medium_head_d.png",
+  "trait": 12,
+  "variantOf": 60291
+}

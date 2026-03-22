@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1120,
+  "bindType": 2,
+  "name": "Lion Guard Girdle",
+  "description": "This heavy belt was awarded for rescuing Lion Guard soldiers from the labyrinthine catacombs of Cath Bedraud.",
+  "icon": "data/images/d_/ts/ia/gear_breton_heavy_waist_d.png",
+  "trait": 11,
+  "variantOf": null
+}

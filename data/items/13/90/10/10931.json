@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10931,
+  "bindType": 2,
+  "name": "Faithful Greaves",
+  "description": "Worn by the most faithful of the lunar clergy, blessed by the light of Jone and Jode.",
+  "icon": "data/images/d_/sg/el/gear_khajiit_heavy_legs_d.png",
+  "trait": 18,
+  "variantOf": null
+}

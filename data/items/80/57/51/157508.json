@@ -1,0 +1,9 @@
+{
+  "canonicalId": 157508,
+  "bindType": 2,
+  "name": "Cast-Off Bow",
+  "description": "This bow may have served you well in the past, but it's beginning to show its age.",
+  "icon": "data/images/d_/wo/b_/gear_nord_bow_d.png",
+  "trait": 6,
+  "variantOf": null
+}

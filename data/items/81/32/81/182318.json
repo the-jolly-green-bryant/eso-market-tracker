@@ -1,0 +1,9 @@
+{
+  "canonicalId": 182318,
+  "bindType": 3,
+  "name": "Glorious Undaunted Reward Box",
+  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, gifts from the Crown Store.",
+  "icon": "data/images/so/ro/bo/gift-box-ouroboros.png",
+  "trait": null,
+  "variantOf": null
+}

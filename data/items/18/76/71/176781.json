@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176781,
+  "bindType": 2,
+  "name": "Companion's Greatsword",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/dr/ow/st/companions_u30_equipment_greatsword.png",
+  "trait": 39,
+  "variantOf": null
+}

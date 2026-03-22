@@ -1,0 +1,9 @@
+{
+  "canonicalId": 197815,
+  "bindType": 2,
+  "name": "Scavenged Intruder's Gloves",
+  "description": "A well-made piece of equipment scavenged from the body of an extraplanar intruder.",
+  "icon": "data/images/a_/sd/na/gear_armamentkindred_light_hands_a.png",
+  "trait": 18,
+  "variantOf": null
+}

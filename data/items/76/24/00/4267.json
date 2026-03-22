@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4267,
+  "bindType": 2,
+  "name": "Betina's Fashionable Gloves",
+  "description": "You received these gloves for helping resolve the situation between the Argonians and Betina Volek in Mournhold.",
+  "icon": "data/images/d_/sd/na/gear_dunmer_light_hands_d.png",
+  "trait": 14,
+  "variantOf": null
+}

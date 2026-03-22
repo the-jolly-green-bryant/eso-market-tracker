@@ -1,0 +1,9 @@
+{
+  "canonicalId": 50701,
+  "bindType": 2,
+  "name": "Boots of Torug's Pact",
+  "description": "",
+  "icon": "data/images/d_/te/ef/gear_breton_medium_feet_d.png",
+  "trait": 14,
+  "variantOf": 50729
+}

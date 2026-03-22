@@ -1,0 +1,9 @@
+{
+  "canonicalId": 138749,
+  "bindType": 2,
+  "name": "Arena Sets",
+  "description": "Item Sets found in Dragonstar Arena, Maelstrom Arena, and Vateshran Hollows (not including the Ability-Altering Weapons).",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

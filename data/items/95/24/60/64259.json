@@ -1,0 +1,9 @@
+{
+  "canonicalId": 64259,
+  "bindType": 2,
+  "name": "The Birthsign Amulet",
+  "description": "The centerpiece of this necklace is emblazoned with the constellation of your birthdate. What are the odds, eh?",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 22,
+  "variantOf": null
+}

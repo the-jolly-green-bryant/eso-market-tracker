@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42968,
+  "bindType": 2,
+  "name": "Darkstride Hatespinner Amulet",
+  "description": "A neck item awarded for defeating the giant spider, Aesar the Hatespinner.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 23,
+  "variantOf": null
+}

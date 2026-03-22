@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175866,
+  "bindType": 2,
+  "name": "Companion's Maul",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/lu/am/_t/companions_u30_equipment_maul.png",
+  "trait": 34,
+  "variantOf": null
+}

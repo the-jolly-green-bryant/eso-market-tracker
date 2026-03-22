@@ -1,0 +1,9 @@
+{
+  "canonicalId": 58218,
+  "bindType": 2,
+  "name": "Shield of the Twice-Born Star",
+  "description": "",
+  "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
+  "trait": 25,
+  "variantOf": 58183
+}

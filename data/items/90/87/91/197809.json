@@ -1,0 +1,9 @@
+{
+  "canonicalId": 197809,
+  "bindType": 2,
+  "name": "Daleforge Pauldrons",
+  "description": "The Orc clan that forged this armor is long gone, but its sturdy workmanship survives.",
+  "icon": "data/images/d_/sr/ed/gear_orc_heavy_shoulders_d.png",
+  "trait": 11,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 48541,
+  "bindType": 2,
+  "name": "Magnus' Hammer",
+  "description": "",
+  "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
+  "trait": 4,
+  "variantOf": 48798
+}

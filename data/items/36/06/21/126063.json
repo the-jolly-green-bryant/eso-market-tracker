@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126063,
+  "bindType": 2,
+  "name": "Magister's Exquisite Gloves",
+  "description": "Beautiful Telvanni gloves, awarded for paying Sun-in-Shadow's debt to Magister Gothren.",
+  "icon": "data/images/a_/sd/na/gear_telvanni_light_hands_a.png",
+  "trait": 17,
+  "variantOf": null
+}

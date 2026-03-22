@@ -1,0 +1,9 @@
+{
+  "canonicalId": 197817,
+  "bindType": 2,
+  "name": "Scavenged Intruder's Severer",
+  "description": "A well-made piece of equipment scavenged from the body of an extraplanar intruder.",
+  "icon": "data/images/a_/dr/ow/gear_armamentofthekindred_2sword_a.png",
+  "trait": 8,
+  "variantOf": null
+}

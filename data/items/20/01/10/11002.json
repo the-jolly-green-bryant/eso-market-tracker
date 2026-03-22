@@ -1,0 +1,9 @@
+{
+  "canonicalId": 11002,
+  "bindType": 2,
+  "name": "Staff of Rime",
+  "description": "A wintry staff that will send any Worm Cultist running, just like they did when you drove them out of Riften.",
+  "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
+  "trait": 5,
+  "variantOf": null
+}

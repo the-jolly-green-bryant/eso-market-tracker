@@ -1,0 +1,9 @@
+{
+  "canonicalId": 217714,
+  "bindType": 2,
+  "name": "Stirk Fellowship Battle Robes",
+  "description": "Robes awarded to members of the Stirk Fellowship for outstanding service.",
+  "icon": "data/images/a_/eb/or/gear_fellowshipstirk_light_robe_a.png",
+  "trait": 17,
+  "variantOf": null
+}

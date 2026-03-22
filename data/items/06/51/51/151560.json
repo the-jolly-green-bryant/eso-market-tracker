@@ -1,0 +1,9 @@
+{
+  "canonicalId": 151560,
+  "bindType": 3,
+  "name": "Dungeon Event Rewards Box, Plain",
+  "description": "This box contains a reward for brave dungeon-delvers who participate in the Dungeon Event.",
+  "icon": "data/images/20/0_/xo/gift_box_002.png",
+  "trait": null,
+  "variantOf": null
+}

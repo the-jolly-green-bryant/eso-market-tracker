@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42957,
+  "bindType": 2,
+  "name": "Limbscather's Branch of the Wyrd Tree",
+  "description": "A staff awarded for defeating the dread lurcher, Limbscather.",
+  "icon": "data/images/d_/ff/at/gear_argonian_staff_d.png",
+  "trait": 2,
+  "variantOf": null
+}

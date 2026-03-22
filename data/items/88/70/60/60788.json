@@ -1,0 +1,9 @@
+{
+  "canonicalId": 60788,
+  "bindType": 2,
+  "name": "Sword of the Armor Master",
+  "description": "",
+  "icon": "data/images/d_/dr/ow/gear_breton_1hsword_d.png",
+  "trait": 5,
+  "variantOf": 60963
+}

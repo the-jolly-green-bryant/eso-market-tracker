@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10986,
+  "bindType": 2,
+  "name": "Fascinating Ring",
+  "description": "The ring's opalescent surface appears to change with your every movement.",
+  "icon": "data/images/a_/gn/ir/gear_nord_ring_a.png",
+  "trait": 21,
+  "variantOf": null
+}

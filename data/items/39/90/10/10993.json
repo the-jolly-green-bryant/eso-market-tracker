@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10993,
+  "bindType": 2,
+  "name": "Honrich War Boots",
+  "description": "Awarded for trudging across the battlefield to bandage Pact soldiers injured while fighting the Worm Cult.",
+  "icon": "data/images/d_/te/ef/gear_argonian_heavy_feet_d.png",
+  "trait": 11,
+  "variantOf": null
+}

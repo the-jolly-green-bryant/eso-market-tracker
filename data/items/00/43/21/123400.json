@@ -1,0 +1,9 @@
+{
+  "canonicalId": 123400,
+  "bindType": 2,
+  "name": "Coward's Gear Lightning Staff",
+  "description": "",
+  "icon": "data/images/a_/ff/at/gear_ordinator_staff_a.png",
+  "trait": 3,
+  "variantOf": null
+}

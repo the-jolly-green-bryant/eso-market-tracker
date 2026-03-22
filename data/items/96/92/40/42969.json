@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42969,
+  "bindType": 2,
+  "name": "Darkstride Stoneskin Shield",
+  "description": "A shield awarded for defeating the gargoyle champion, Menhir Stoneskin.",
+  "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
+  "trait": 13,
+  "variantOf": null
+}

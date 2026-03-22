@@ -1,0 +1,9 @@
+{
+  "canonicalId": 204992,
+  "bindType": 2,
+  "name": "Battle Axe of the Weald",
+  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
+  "icon": "data/images/ex/ah/2_/gear_shardknight_2haxe.png",
+  "trait": 2,
+  "variantOf": null
+}

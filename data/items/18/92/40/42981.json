@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42981,
+  "bindType": 2,
+  "name": "Prisoner Duriatundar's Frigid Amulet",
+  "description": "A necklace awarded for defeating the ice wraith champion, Duriatundur.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 23,
+  "variantOf": null
+}

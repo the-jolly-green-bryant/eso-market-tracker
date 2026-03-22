@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175872,
+  "bindType": 2,
+  "name": "Companion's Shield",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/dl/ei/hs/companions_u30_equipment_shield.png",
+  "trait": 34,
+  "variantOf": null
+}

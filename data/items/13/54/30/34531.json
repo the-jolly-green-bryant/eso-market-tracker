@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34531,
+  "bindType": 2,
+  "name": "Stygian Forgefire's Brutal Blade",
+  "description": "A weapon awarded for defeating the draugr champion, Haman Forgefire, in the Vault of Haman Forgefire.",
+  "icon": "data/images/d_/dr/ow/gear_nord_1hsword_d.png",
+  "trait": 1,
+  "variantOf": null
+}

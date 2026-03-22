@@ -1,0 +1,9 @@
+{
+  "canonicalId": 61006,
+  "bindType": 2,
+  "name": "Anchorstone Amulet",
+  "description": "Created from a chunk of rock broken off of a Dark Anchor dolmen, this amulet still whispers with Coldharbour's secrets.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

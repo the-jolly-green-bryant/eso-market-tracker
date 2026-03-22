@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15809,
+  "bindType": 2,
+  "name": "Saint Veloth's Shield",
+  "description": "Saint Veloth himself bestowed this blessed shield for repairing the reliquary and restoring the Shrine of Saint Veloth.",
+  "icon": "data/images/d_/dl/ei/gear_dunmer_shield_d.png",
+  "trait": 10,
+  "variantOf": null
+}

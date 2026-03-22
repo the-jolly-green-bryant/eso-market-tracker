@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159694,
+  "bindType": 2,
+  "name": "Viggol's Mallet",
+  "description": "This hammer commemorates Viggol's last adventure.",
+  "icon": "data/images/c_/re/mm/gear_primative_1hhammer_c.png",
+  "trait": 5,
+  "variantOf": null
+}

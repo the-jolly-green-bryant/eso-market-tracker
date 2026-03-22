@@ -1,0 +1,9 @@
+{
+  "canonicalId": 163154,
+  "bindType": 2,
+  "name": "Spell Parasite's Bow",
+  "description": "",
+  "icon": "data/images/d_/wo/b_/gear_breton_bow_d.png",
+  "trait": 1,
+  "variantOf": 163064
+}

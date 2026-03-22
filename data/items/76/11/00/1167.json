@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1167,
+  "bindType": 2,
+  "name": "Crosswych Mining Maul",
+  "description": "For rescuing the captive miners in Crosswych, Tamien Sellan awarded this two-handed mace.",
+  "icon": "data/images/d_/re/mm/gear_orc_2hhammer_d.png",
+  "trait": 4,
+  "variantOf": null
+}

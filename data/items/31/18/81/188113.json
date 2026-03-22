@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188113,
+  "bindType": 2,
+  "name": "Ascendant Helm",
+  "description": "Armor used by the Ascendant Order, designed to protect the wearer's identity as well as their head.",
+  "icon": "data/images/a_/da/eh/gear_scribestruth_hvy_head_a.png",
+  "trait": 17,
+  "variantOf": null
+}

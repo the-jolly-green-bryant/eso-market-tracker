@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4610,
+  "bindType": 2,
+  "name": "Abbot's Prayer Sash",
+  "description": "A gift from Master Altien of Pariah Abbey, in thanks for your efforts against the Midnight Union.",
+  "icon": "data/images/d_/ts/ia/gear_orc_light_waist_d.png",
+  "trait": 18,
+  "variantOf": null
+}

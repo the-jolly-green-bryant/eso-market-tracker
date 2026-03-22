@@ -1,0 +1,9 @@
+{
+  "canonicalId": 70991,
+  "bindType": 2,
+  "name": "Song of Kraala",
+  "description": "A bow given to you for breaking a curse inflicted by the hagraven Kraala.",
+  "icon": "data/images/c_/wo/b_/gear_reach_bow_c.png",
+  "trait": 2,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15770,
+  "bindType": 2,
+  "name": "Bow of Penumbra",
+  "description": "A Shadow Walker weapon awarded for traversing the Moonless Walk and finding a way into the Lightless Oubliette.",
+  "icon": "data/images/d_/wo/b_/gear_bosmer_bow_d.png",
+  "trait": 7,
+  "variantOf": null
+}

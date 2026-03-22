@@ -1,0 +1,9 @@
+{
+  "canonicalId": 205455,
+  "bindType": 2,
+  "name": "Tharriker's Bow",
+  "description": "",
+  "icon": "data/images/d_/wo/b_/gear_breton_bow_d.png",
+  "trait": 4,
+  "variantOf": 205400
+}

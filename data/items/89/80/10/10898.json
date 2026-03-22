@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10898,
+  "bindType": 2,
+  "name": "Circlet of the Wooded Eye",
+  "description": "When you wear this mysterious necklace, it seems like no secret can escape you.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 22,
+  "variantOf": null
+}

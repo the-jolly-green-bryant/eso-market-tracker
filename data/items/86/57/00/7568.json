@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7568,
+  "bindType": 2,
+  "name": "Master's Sharpsword",
+  "description": "Generations of Masters at Leki's Blade have wielded swords like this, though it's rare for one to be seen outside the school.",
+  "icon": "data/images/d_/dr/ow/gear_redguard_1hsword_d.png",
+  "trait": 7,
+  "variantOf": null
+}

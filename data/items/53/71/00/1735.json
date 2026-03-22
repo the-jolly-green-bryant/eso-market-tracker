@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1735,
+  "bindType": 2,
+  "name": "Reliquarian's Robes",
+  "description": "These robes are remarkably thin. They seem to be made from some strange kind of silk.",
+  "icon": "data/images/d_/eb/or/gear_khajiit_light_robe_d.png",
+  "trait": 14,
+  "variantOf": null
+}

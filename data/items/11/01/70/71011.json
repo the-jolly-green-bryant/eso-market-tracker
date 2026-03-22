@@ -1,0 +1,9 @@
+{
+  "canonicalId": 71011,
+  "bindType": 2,
+  "name": "Trinimac's Penitent Sash",
+  "description": "A token of gratitude from the priests you saved in Orsinium's Temple of Ire.",
+  "icon": "data/images/a_/ts/ia/gear_trinimac_light_waist_a.png",
+  "trait": 18,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7332,
+  "bindType": 2,
+  "name": "Caravan Master's Ring",
+  "description": "For recovering House Hlaalu's cargo and manifest, Caravan Master Girano rewarded you with this ring.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 21,
+  "variantOf": null
+}

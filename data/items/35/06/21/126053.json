@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126053,
+  "bindType": 2,
+  "name": "Nirith's Bulwark of the Defiler",
+  "description": "A robust Daedric shield, awarded by Tythis Nirith for your efforts to find his sister in the Forgotten Wastes.",
+  "icon": "data/images/c_/dl/ei/gear_daedric_shield_c.png",
+  "trait": 13,
+  "variantOf": null
+}

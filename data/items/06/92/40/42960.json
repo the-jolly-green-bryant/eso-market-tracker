@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42960,
+  "bindType": 2,
+  "name": "Bloodthorn Crocodile Hide Gloves",
+  "description": "Light hand coverings awarded for defeating the giant crocodile, Trapjaw.",
+  "icon": "data/images/d_/sd/na/gear_breton_light_hands_d.png",
+  "trait": 11,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10914,
+  "bindType": 2,
+  "name": "Gauntlets of the Claw",
+  "description": "These master-forged grips are treasures by several Khajiiti monastic orders.",
+  "icon": "data/images/d_/sd/na/gear_khajiit_heavy_hands_d.png",
+  "trait": 13,
+  "variantOf": null
+}

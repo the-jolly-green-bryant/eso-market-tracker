@@ -1,0 +1,9 @@
+{
+  "canonicalId": 36574,
+  "bindType": 2,
+  "name": "Kingsguard Hammer",
+  "description": "The mace of a failed ruler, who fell into the clutches of necromancy.",
+  "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
+  "trait": 8,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203816,
+  "bindType": 3,
+  "name": "Maelstrom Arena Coffer",
+  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
+  "icon": "data/images/re/ff/oc/undaunted_dungeoncoffer.png",
+  "trait": null,
+  "variantOf": null
+}

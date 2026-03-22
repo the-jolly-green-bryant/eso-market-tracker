@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7727,
+  "bindType": 2,
+  "name": "Kyne's Honor",
+  "description": "You received this amulet for helping Captain Alhana and her soldiers at Kynesgrove.",
+  "icon": "data/images/a_/kc/en/gear_nord_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

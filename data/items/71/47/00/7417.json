@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7417,
+  "bindType": 2,
+  "name": "Guarblood Ring",
+  "description": "This ring pulsates with animal energy.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 21,
+  "variantOf": null
+}

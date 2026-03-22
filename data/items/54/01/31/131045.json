@@ -1,0 +1,9 @@
+{
+  "canonicalId": 131045,
+  "bindType": 2,
+  "name": "Fortified Brass Lightning Staff",
+  "description": "",
+  "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
+  "trait": 25,
+  "variantOf": 130730
+}

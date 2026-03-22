@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7257,
+  "bindType": 2,
+  "name": "Garth's Gages",
+  "description": "Gloves given for saving Garth from the spider cave.",
+  "icon": "data/images/d_/sd/na/gear_breton_light_hands_d.png",
+  "trait": 4,
+  "variantOf": null
+}

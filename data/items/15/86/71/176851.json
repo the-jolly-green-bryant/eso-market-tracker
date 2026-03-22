@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176851,
+  "bindType": 2,
+  "name": "Companion's Ring",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/gn/ir/_t/companions_u30_equipment_ring.png",
+  "trait": 40,
+  "variantOf": null
+}

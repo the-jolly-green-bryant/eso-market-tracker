@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26578,
+  "bindType": 2,
+  "name": "Mauloch's Cleaver",
+  "description": "The blade of this axe looks sharp enough to chop down the bars of any prison. Even Gurlak's.",
+  "icon": "data/images/d_/ex/ah/gear_orc_2haxe_d.png",
+  "trait": 8,
+  "variantOf": null
+}

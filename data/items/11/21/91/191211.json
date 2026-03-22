@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191211,
+  "bindType": 2,
+  "name": "Archdruid's Defender Shield",
+  "description": "Enchanted with countless layers of protective magics, the druids of Galen ensure their champions are well cared for.",
+  "icon": "data/images/a_/dl/ei/gear_feraldruid_shield_a.png",
+  "trait": 11,
+  "variantOf": null
+}

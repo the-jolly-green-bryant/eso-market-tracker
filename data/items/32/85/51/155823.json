@@ -1,0 +1,9 @@
+{
+  "canonicalId": 155823,
+  "bindType": 2,
+  "name": "Ancient Dragonguard's Ring",
+  "description": "",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 30,
+  "variantOf": 155813
+}

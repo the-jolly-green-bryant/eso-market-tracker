@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7608,
+  "bindType": 2,
+  "name": "Queensguard Greaves",
+  "description": "These greaves are well appointed, with gold accents and inlaid runes.",
+  "icon": "data/images/d_/sg/el/gear_altmer_heavy_legs_d.png",
+  "trait": 10,
+  "variantOf": null
+}

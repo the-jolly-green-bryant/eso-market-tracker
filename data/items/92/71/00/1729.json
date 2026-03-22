@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1729,
+  "bindType": 2,
+  "name": "Barrowbough's Cage",
+  "description": "The small bones sewn into this armor strengthen it greatly. This does not restrict the movement of the wearer's arms.",
+  "icon": "data/images/d_/ts/eh/gear_altmer_medium_chest_d.png",
+  "trait": 13,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159729,
+  "bindType": 2,
+  "name": "Spiderprod Staff",
+  "description": "A Dwarven staff designed to herd Dwarven Spiders, acquired in the Scraps.",
+  "icon": "data/images/c_/ff/at/gear_dwarven_staff_c.png",
+  "trait": 6,
+  "variantOf": null
+}

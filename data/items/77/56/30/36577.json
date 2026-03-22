@@ -1,0 +1,9 @@
+{
+  "canonicalId": 36577,
+  "bindType": 2,
+  "name": "Seamount Bow",
+  "description": "A traditional Orcish bow presented to you by a daughter of the Seamount Clan.",
+  "icon": "data/images/d_/wo/b_/gear_orc_bow_d.png",
+  "trait": 5,
+  "variantOf": null
+}

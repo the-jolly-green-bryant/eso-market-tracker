@@ -1,0 +1,9 @@
+{
+  "canonicalId": 172875,
+  "bindType": 2,
+  "name": "Heartland Conqueror's Amulet",
+  "description": "",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 30,
+  "variantOf": 172865
+}

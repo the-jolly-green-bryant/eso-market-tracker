@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10919,
+  "bindType": 2,
+  "name": "Queensguard Ring",
+  "description": "This ring is only given to loyal agents of Queen Ayrenn for service and sacrifice.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 21,
+  "variantOf": null
+}

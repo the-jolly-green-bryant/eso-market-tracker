@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42995,
+  "bindType": 2,
+  "name": "Poacher's Cuirass of the Ranger",
+  "description": "This breastplate is cool to the touch.",
+  "icon": "data/images/d_/ts/eh/gear_breton_medium_chest_d.png",
+  "trait": 14,
+  "variantOf": null
+}

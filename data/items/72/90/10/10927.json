@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10927,
+  "bindType": 2,
+  "name": "Artificer's Vestments",
+  "description": "Telenger himself inlaid enchantments on this garment, ensuring only the most powerful of spells can harm it.",
+  "icon": "data/images/d_/eb/or/gear_altmer_light_robe_d.png",
+  "trait": 12,
+  "variantOf": null
+}

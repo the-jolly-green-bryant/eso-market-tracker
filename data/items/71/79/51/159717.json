@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159717,
+  "bindType": 2,
+  "name": "Seeker's Cincture",
+  "description": "Ancient armor found in the ruins of Labyrinthian.",
+  "icon": "data/images/d_/ts/ia/gear_nord_light_waist_d.png",
+  "trait": 18,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1168,
+  "bindType": 2,
+  "name": "Guardian's Gauntlets",
+  "description": "These medium hand coverings were awarded for summoning the elemental guardians for the wyresses of the Beldama Wyrd.",
+  "icon": "data/images/d_/sd/na/gear_bosmer_medium_hands_d.png",
+  "trait": 14,
+  "variantOf": null
+}

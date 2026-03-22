@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10940,
+  "bindType": 2,
+  "name": "Gavel of the Hallowed",
+  "description": "A relic of the early structure at the Mount of the Moons, this hammer sings with the light of Jone and Jode.",
+  "icon": "data/images/d_/re/mm/gear_khajiit_1hhammer_d.png",
+  "trait": 1,
+  "variantOf": null
+}

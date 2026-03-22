@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203810,
+  "bindType": 3,
+  "name": "Orsinium Coffer",
+  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
+  "icon": "data/images/10/0t/se/housing_orc_fur_chest001.png",
+  "trait": null,
+  "variantOf": null
+}

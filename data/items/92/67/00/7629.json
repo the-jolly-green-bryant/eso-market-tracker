@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7629,
+  "bindType": 2,
+  "name": "Relic-Tender Sash",
+  "description": "Simple runes are sewn into the sash, revering the Eight Divines in their myriad forms.",
+  "icon": "data/images/d_/ts/ia/gear_altmer_light_waist_d.png",
+  "trait": 18,
+  "variantOf": null
+}

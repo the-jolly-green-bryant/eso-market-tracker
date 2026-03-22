@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4323,
+  "bindType": 2,
+  "name": "Gruznak's Chestplate",
+  "description": "You earned this chestpiece by defeating Gruznak the Impatient at Malak's Maw.",
+  "icon": "data/images/d_/ts/eh/gear_orc_heavy_chest_d.png",
+  "trait": 12,
+  "variantOf": null
+}

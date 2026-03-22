@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10911,
+  "bindType": 2,
+  "name": "Redeemed Hand Axe",
+  "description": "Now that its curse has been removed, this axe is safe to use.",
+  "icon": "data/images/d_/ex/ah/gear_bosmer_1haxe_d.png",
+  "trait": 5,
+  "variantOf": null
+}

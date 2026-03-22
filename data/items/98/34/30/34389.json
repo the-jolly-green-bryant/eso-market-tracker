@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34389,
+  "bindType": 2,
+  "name": "Ancient Robes",
+  "description": "Ancient attire, discarded long ago and sealed away for centuries beneath Darkshade Caverns.",
+  "icon": "data/images/a_/eb/or/gear_primative_light_robe_a.png",
+  "trait": 4,
+  "variantOf": null
+}

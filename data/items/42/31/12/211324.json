@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211324,
+  "bindType": 3,
+  "name": "Mundus Stone - the Lady",
+  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Lady.",
+  "icon": "data/images/50/0_/se/ability_mundusstones_005.png",
+  "trait": null,
+  "variantOf": null
+}

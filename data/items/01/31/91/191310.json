@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191310,
+  "bindType": 2,
+  "name": "Chimera's Hat",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_light_head_d.png",
+  "trait": 4,
+  "variantOf": 191255
+}

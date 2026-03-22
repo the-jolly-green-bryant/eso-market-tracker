@@ -1,0 +1,9 @@
+{
+  "canonicalId": 64582,
+  "bindType": 3,
+  "name": "Frostbreak Chalice",
+  "description": "A goblet emblazoned with the seal of the fort, some Orcs believe it imbued restorative powers on any liquid drunk from it. Donate this to Curator Umutha and the House of Orsimer Glories in Orsinium.",
+  "icon": "data/images/ar/am/fo/quest_chaliceofmara.png",
+  "trait": null,
+  "variantOf": null
+}

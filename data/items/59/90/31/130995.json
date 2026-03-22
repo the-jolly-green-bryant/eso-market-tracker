@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130995,
+  "bindType": 2,
+  "name": "Fortified Brass Bracers",
+  "description": "",
+  "icon": "data/images/d_/sd/na/gear_breton_medium_hands_d.png",
+  "trait": 11,
+  "variantOf": 130750
+}

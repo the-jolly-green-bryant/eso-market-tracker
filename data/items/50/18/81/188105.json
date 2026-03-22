@@ -1,0 +1,9 @@
+{
+  "canonicalId": 188105,
+  "bindType": 2,
+  "name": "Serpent's Tongue",
+  "description": "A blade once used by a Sea Elf marauder, quick and deadly in close combat, like a serpent's tongue.",
+  "icon": "data/images/b_/dr/ow/gear_ancient_elf_1hsword_b.png",
+  "trait": 7,
+  "variantOf": null
+}

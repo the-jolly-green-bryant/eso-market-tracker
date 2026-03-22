@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34390,
+  "bindType": 2,
+  "name": "Pellingare War Plate",
+  "description": "The finest armor to be found in Wayrest, above the city or below.",
+  "icon": "data/images/d_/ts/eh/gear_breton_heavy_chest_d.png",
+  "trait": 13,
+  "variantOf": null
+}

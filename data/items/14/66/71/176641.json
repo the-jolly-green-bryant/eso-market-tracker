@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176641,
+  "bindType": 2,
+  "name": "Companion's Axe",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/ex/a_/tn/companions_u30_equipment_axe.png",
+  "trait": 38,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 184257,
+  "bindType": 2,
+  "name": "Light Dungeon Sets",
+  "description": "The Light Armor item sets found in the DLC Dungeons.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

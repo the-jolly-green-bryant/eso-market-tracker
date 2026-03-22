@@ -1,0 +1,9 @@
+{
+  "canonicalId": 177214,
+  "bindType": 2,
+  "name": "Companion's Battle Axe",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/ex/ae/lt/companions_u30_equipment_battleaxe.png",
+  "trait": 42,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 177050,
+  "bindType": 2,
+  "name": "Companion's Sash",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/th/gi/l_/companions_u30_equipment_belt_light.png",
+  "trait": 41,
+  "variantOf": null
+}

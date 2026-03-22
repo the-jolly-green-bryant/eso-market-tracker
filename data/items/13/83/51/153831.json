@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153831,
+  "bindType": 2,
+  "name": "Venerable Dragonguard Bow",
+  "description": "An intricately carved bow perfect for hunting Dragons.",
+  "icon": "data/images/a_/wo/b_/gear_dragonguard_bow_a.png",
+  "trait": 3,
+  "variantOf": null
+}

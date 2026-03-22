@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121259,
+  "bindType": 3,
+  "name": "The Homeowner's Crate",
+  "description": "This box is full of things helpful for owning and furnishing your home.",
+  "icon": "data/images/10/0_/et/quest_crate_001.png",
+  "trait": null,
+  "variantOf": null
+}

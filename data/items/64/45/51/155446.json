@@ -1,0 +1,9 @@
+{
+  "canonicalId": 155446,
+  "bindType": 2,
+  "name": "Daring Corsair's Amulet",
+  "description": "",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 22,
+  "variantOf": 155440
+}

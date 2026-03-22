@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192384,
+  "bindType": 2,
+  "name": "Forgotten Adventurer's Cuirass",
+  "description": "This heavy plate is fitting attire for the fledging journeys of a new adventurer.",
+  "icon": "data/images/a_/ts/eh/gear_breton_heavy_chest_a.png",
+  "trait": 6,
+  "variantOf": null
+}

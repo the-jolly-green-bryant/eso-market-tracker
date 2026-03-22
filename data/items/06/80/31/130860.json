@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130860,
+  "bindType": 2,
+  "name": "Fortified Brass Axe",
+  "description": "",
+  "icon": "data/images/d_/ex/ah/gear_breton_1haxe_d.png",
+  "trait": 5,
+  "variantOf": 130720
+}

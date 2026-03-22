@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214353,
+  "bindType": 3,
+  "name": "Vault of Veteran's Glory",
+  "description": "This container holds useful treasures normally only found during the Whitestrake's Mayhem.",
+  "icon": "data/images/10/0x/ob/housing_red_fur_vartgstrongbox001.png",
+  "trait": null,
+  "variantOf": null
+}

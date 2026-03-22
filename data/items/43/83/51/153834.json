@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153834,
+  "bindType": 2,
+  "name": "Aeonstone Weave",
+  "description": "Armor forged from aeonstone by the Order of the New Moon.",
+  "icon": "data/images/a_/ts/eh/gear_newmoonlgt_chest_a.png",
+  "trait": 4,
+  "variantOf": null
+}

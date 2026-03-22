@@ -1,0 +1,9 @@
+{
+  "canonicalId": 61015,
+  "bindType": 2,
+  "name": "Prismatic Blade",
+  "description": "The pure fire of Meridia's Gift emanates from within the blade. Just holding it in your hand makes the darkness retreat.",
+  "icon": "data/images/c_/dr/ow/gear_akaviri_1hsword_c.png",
+  "trait": 3,
+  "variantOf": null
+}

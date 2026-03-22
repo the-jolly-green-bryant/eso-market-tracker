@@ -1,0 +1,9 @@
+{
+  "canonicalId": 178496,
+  "bindType": 2,
+  "name": "Companion's Arsenal",
+  "description": "A collection of armor and other useful items for Companions.",
+  "icon": "data/images/xo/by/rl/smalljewelrybox.png",
+  "trait": null,
+  "variantOf": null
+}

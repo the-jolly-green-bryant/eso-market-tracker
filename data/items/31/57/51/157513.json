@@ -1,0 +1,9 @@
+{
+  "canonicalId": 157513,
+  "bindType": 2,
+  "name": "Solitude Locket",
+  "description": "This necklace bears a locket decorated with a wolf's head, the symbol of Solitude.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

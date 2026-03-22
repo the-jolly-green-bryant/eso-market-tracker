@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34296,
+  "bindType": 2,
+  "name": "Werewolf Hide Everblooded Dagger",
+  "description": "A weapon awarded for defeating the Red Rook Bandits' officer, Valenwe, at Cryptwatch Fort.",
+  "icon": "data/images/d_/re/gg/gear_breton_dagger_d.png",
+  "trait": 7,
+  "variantOf": null
+}

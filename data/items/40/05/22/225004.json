@@ -1,0 +1,9 @@
+{
+  "canonicalId": 225004,
+  "bindType": 2,
+  "name": "Night Market Consumables",
+  "description": "An assortment of new Consumables available for the Night Market update.",
+  "icon": "data/images/10/0_/re/quest_container_001.png",
+  "trait": null,
+  "variantOf": null
+}

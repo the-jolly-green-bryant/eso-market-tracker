@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135113,
+  "bindType": 3,
+  "name": "Bound Crown Repair Kit",
+  "description": "When used, this repair kit restores all your damaged equipment to its original condition.",
+  "icon": "data/images/20/0_/ti/store_repairkit_002.png",
+  "trait": null,
+  "variantOf": null
+}

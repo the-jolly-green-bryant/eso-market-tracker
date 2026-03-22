@@ -1,0 +1,9 @@
+{
+  "canonicalId": 123489,
+  "bindType": 2,
+  "name": "Coward's Gear Belt",
+  "description": "",
+  "icon": "data/images/a_/ts/ia/gear_ordinator_medium_waist_a.png",
+  "trait": 11,
+  "variantOf": null
+}

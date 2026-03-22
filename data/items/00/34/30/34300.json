@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34300,
+  "bindType": 2,
+  "name": "Odilon's Spectral Amulet of the Wyrd Tree",
+  "description": "A ghostly pendant awarded for defeating Odilon the ghost in Enduum.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 22,
+  "variantOf": null
+}

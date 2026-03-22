@@ -1,0 +1,9 @@
+{
+  "canonicalId": 81182,
+  "bindType": 3,
+  "name": "The Alchemist's Crate",
+  "description": "This box jangles with multitudinous vials of Water, Oil, and preserved Reagents.",
+  "icon": "data/images/10/0_/et/quest_crate_001.png",
+  "trait": null,
+  "variantOf": null
+}

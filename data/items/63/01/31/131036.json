@@ -1,0 +1,9 @@
+{
+  "canonicalId": 131036,
+  "bindType": 2,
+  "name": "Fortified Brass Mace",
+  "description": "",
+  "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
+  "trait": 25,
+  "variantOf": 130721
+}

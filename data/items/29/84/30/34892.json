@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34892,
+  "bindType": 2,
+  "name": "Miruin's Devastation of the Vampire's Cloak",
+  "description": "A weapon awarded for defeating the Montclair officer, Miruin Woodwalker, in the Erokii Ruins.",
+  "icon": "data/images/d_/dr/ow/gear_orc_2hsword_d.png",
+  "trait": 2,
+  "variantOf": null
+}

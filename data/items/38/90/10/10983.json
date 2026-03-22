@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10983,
+  "bindType": 2,
+  "name": "Tovisa's Dagger",
+  "description": "A beautiful dagger from Tovisa, given in thanks for killing the Hagravens who stole her sight.",
+  "icon": "data/images/d_/re/gg/gear_dunmer_dagger_d.png",
+  "trait": 10,
+  "variantOf": null
+}

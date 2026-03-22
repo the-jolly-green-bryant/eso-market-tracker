@@ -1,0 +1,9 @@
+{
+  "canonicalId": 161260,
+  "bindType": 2,
+  "name": "Stuhn's Ring",
+  "description": "",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 23,
+  "variantOf": 161256
+}

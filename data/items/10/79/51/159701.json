@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159701,
+  "bindType": 2,
+  "name": "Fire Staff of the Gray Host",
+  "description": "An enchanted shaft once used by the Gray Host and recovered from Tzinghalis's Sanctum.",
+  "icon": "data/images/c_/ff/at/gear_reach_staff_c.png",
+  "trait": 2,
+  "variantOf": null
+}

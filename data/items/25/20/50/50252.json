@@ -1,0 +1,9 @@
+{
+  "canonicalId": 50252,
+  "bindType": 2,
+  "name": "Helmet of the Spectre's Eye",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_medium_head_d.png",
+  "trait": 11,
+  "variantOf": 50349
+}

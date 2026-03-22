@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15527,
+  "bindType": 2,
+  "name": "The Hound's Helm",
+  "description": "While not shaped like an actual hound's head, this helm would provide excellent protection against one.",
+  "icon": "data/images/d_/da/eh/gear_bosmer_medium_head_d.png",
+  "trait": 4,
+  "variantOf": null
+}

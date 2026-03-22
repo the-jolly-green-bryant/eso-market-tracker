@@ -1,0 +1,9 @@
+{
+  "canonicalId": 178685,
+  "bindType": 3,
+  "name": "Bog Raider Set Box",
+  "description": "Contains 5 gear pieces from the Bog Raider set. Items will level lock to opening character.",
+  "icon": "data/images/xo/bt/fi/event_midyear_giftbox.png",
+  "trait": null,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214263,
+  "bindType": 3,
+  "name": "Pouch of Ill-Gotten Goods",
+  "description": "This pouch contains stolen goods from across Tamriel, intended for participants of the Crime Wave event.",
+  "icon": "data/images/30/0_/hc/justice_stolen_pouch_003.png",
+  "trait": null,
+  "variantOf": null
+}

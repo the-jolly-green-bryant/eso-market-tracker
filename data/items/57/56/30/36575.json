@@ -1,0 +1,9 @@
+{
+  "canonicalId": 36575,
+  "bindType": 2,
+  "name": "Targoth's Shield",
+  "description": "This simple shield was once wielded by Targoth, the Warcaller of the Stonewolves.",
+  "icon": "data/images/d_/dl/ei/gear_orc_shield_d.png",
+  "trait": 13,
+  "variantOf": null
+}

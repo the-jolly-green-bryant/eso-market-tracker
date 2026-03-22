@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7342,
+  "bindType": 2,
+  "name": "Dreamless Staff",
+  "description": "This staff is styled after one used by ancient court mages throughout High Rock.",
+  "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
+  "trait": 4,
+  "variantOf": null
+}

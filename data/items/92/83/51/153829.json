@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153829,
+  "bindType": 2,
+  "name": "Signet of the Dragonguard",
+  "description": "A ring given to the founding members of the new Dragonguard.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 23,
+  "variantOf": null
+}

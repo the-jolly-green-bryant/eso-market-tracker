@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126048,
+  "bindType": 2,
+  "name": "Warclaws Battle Bow",
+  "description": "A bow claimed from the Warclaws mercenaries at Kudanant Mine.",
+  "icon": "data/images/d_/wo/b_/gear_khajiit_bow_d.png",
+  "trait": 8,
+  "variantOf": null
+}

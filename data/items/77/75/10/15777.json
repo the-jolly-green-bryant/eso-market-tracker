@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15777,
+  "bindType": 2,
+  "name": "Soul-Meld Staff",
+  "description": "This staff was your reward for helping restore the Soul-Meld Mage at the Vile Laboratory.",
+  "icon": "data/images/d_/ff/at/gear_khajiit_staff_d.png",
+  "trait": 4,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135128,
+  "bindType": 3,
+  "name": "Bound Skill Respecification Scroll",
+  "description": "Using this scroll enables the selection of a different combination of skills and morphs, without costing you any gold.  This functionality now exists within the UI at no cost, and now you can sell this scroll to vendors for gold.",
+  "icon": "data/images/10/0_/ce/store_abilityrespec_001.png",
+  "trait": null,
+  "variantOf": null
+}

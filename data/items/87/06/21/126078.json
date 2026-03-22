@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126078,
+  "bindType": 2,
+  "name": "Telvanni Retainer's Ring",
+  "description": "You earned this ring by helping Sun-in-Shadow climb the ranks in House Telvanni.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 22,
+  "variantOf": null
+}

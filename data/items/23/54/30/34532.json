@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34532,
+  "bindType": 2,
+  "name": "Mal Sorra's Curse of Meridia",
+  "description": "An amulet awarded for defeating the wraith champion, Mal Sorra, in Mal Sorra's Tomb.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

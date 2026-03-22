@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42980,
+  "bindType": 2,
+  "name": "Sthortha's Hide Shield of Meridia",
+  "description": "A shield awarded for defeating the daedroth champion, Sthorha the Crazed.",
+  "icon": "data/images/c_/dl/ei/gear_daedric_shield_c.png",
+  "trait": 12,
+  "variantOf": null
+}

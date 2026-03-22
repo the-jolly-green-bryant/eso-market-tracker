@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43034,
+  "bindType": 2,
+  "name": "Rageclaw's Collar of Stendarr",
+  "description": "A necklace awarded for defeating the giant wolf, Rageclaw.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 22,
+  "variantOf": null
+}

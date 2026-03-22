@@ -1,0 +1,9 @@
+{
+  "canonicalId": 138789,
+  "bindType": 2,
+  "name": "Abyssal Necklace",
+  "description": "A coral necklace that is strangely cold to the touch.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

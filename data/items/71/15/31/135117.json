@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135117,
+  "bindType": 3,
+  "name": "Bound Crown Lesson: Riding Capacity",
+  "description": "Expands your character's inventory by 1 slot per lesson. Riding Capacity allows you to carry more items and takes effect on your character regardless of the mount you have set active. Your character's current Riding Capacity is 60/60.",
+  "icon": "data/images/yt/ic/ap/store_ridinglessons_capacity.png",
+  "trait": null,
+  "variantOf": null
+}

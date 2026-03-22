@@ -1,0 +1,9 @@
+{
+  "canonicalId": 138794,
+  "bindType": 2,
+  "name": "Forgotten Adventurer's Greaves",
+  "description": "Old greaves that have clearly seen many battles. Though dented and worn, they still offer some protection.",
+  "icon": "data/images/d_/sg/el/gear_altmer_heavy_legs_d.png",
+  "trait": 6,
+  "variantOf": null
+}

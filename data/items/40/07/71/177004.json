@@ -1,0 +1,9 @@
+{
+  "canonicalId": 177004,
+  "bindType": 2,
+  "name": "Companion's Dagger",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/re/gg/ad/companions_u30_equipment_dagger.png",
+  "trait": 41,
+  "variantOf": null
+}

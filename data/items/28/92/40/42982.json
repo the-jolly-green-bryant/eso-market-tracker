@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42982,
+  "bindType": 2,
+  "name": "Prisoner Zemarek's Visor",
+  "description": "A light head covering awarded for defeating the Dwarven centurion, Zemarek-thul.",
+  "icon": "data/images/d_/da/eh/gear_altmer_light_head_d.png",
+  "trait": 4,
+  "variantOf": null
+}

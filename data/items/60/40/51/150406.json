@@ -1,0 +1,9 @@
+{
+  "canonicalId": 150406,
+  "bindType": 2,
+  "name": "Sandstorm Mask",
+  "description": "Without suitable protection, even the strongest adventurers can succumb to the raking winds of an Anequina sandstorm.",
+  "icon": "data/images/a_/te/ml/gear_anequina_light_helmet_a.png",
+  "trait": 4,
+  "variantOf": null
+}

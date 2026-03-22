@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34622,
+  "bindType": 2,
+  "name": "Deathknight Aegis of the Dragon",
+  "description": "A shield awarded for defeating Deathknight Stormcrag in the cave known as Stormcrag Crypt.",
+  "icon": "data/images/d_/dl/ei/gear_nord_shield_d.png",
+  "trait": 13,
+  "variantOf": null
+}

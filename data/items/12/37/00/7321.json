@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7321,
+  "bindType": 2,
+  "name": "Arkay's Vambraces",
+  "description": "Alvaren awarded these Knight of Arkay gloves for recovering holy relics from across Rivenspire.",
+  "icon": "data/images/d_/sd/na/gear_breton_heavy_hands_d.png",
+  "trait": 10,
+  "variantOf": null
+}

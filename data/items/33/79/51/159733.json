@@ -1,0 +1,9 @@
+{
+  "canonicalId": 159733,
+  "bindType": 3,
+  "name": "Bloodknight Organ",
+  "description": "This cold organ bears no resemblance to anything found inside man or mer. It faintly pulses. Used for special experiments in Stone Garden.",
+  "icon": "data/images/1t/hg/in/item_u27_stonegarden_bloodknight1.png",
+  "trait": null,
+  "variantOf": null
+}

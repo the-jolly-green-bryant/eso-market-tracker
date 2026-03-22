@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134697,
+  "bindType": 2,
+  "name": "Staff of Forbidden Knowledge",
+  "description": "This sinister Daedric staff crackles with dark enchantments. A suitable reward for exploring the Traitor's Vault.",
+  "icon": "data/images/c_/ff/at/gear_daedric_staff_c.png",
+  "trait": 4,
+  "variantOf": null
+}

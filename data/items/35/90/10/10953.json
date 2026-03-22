@@ -1,0 +1,9 @@
+{
+  "canonicalId": 10953,
+  "bindType": 2,
+  "name": "Naked Nord's Pants",
+  "description": "You received these leggings after helping Norgred find his missing items.",
+  "icon": "data/images/d_/sg/el/gear_nord_light_legs_d.png",
+  "trait": 14,
+  "variantOf": null
+}

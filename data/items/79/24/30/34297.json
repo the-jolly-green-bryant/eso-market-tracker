@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34297,
+  "bindType": 2,
+  "name": "Stormcommander of the Wyrd Tree",
+  "description": "A weapon awarded for defeating the Red Rook Bandits' officer, Gaetane, in Ilessan Tower.",
+  "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
+  "trait": 2,
+  "variantOf": null
+}

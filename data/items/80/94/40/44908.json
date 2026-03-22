@@ -1,0 +1,9 @@
+{
+  "canonicalId": 44908,
+  "bindType": 2,
+  "name": "Pact Shoulder Guards",
+  "description": "Sturdy shoulder pieces designed for maximum protection. Awarded for recovering the amulets of the fallen in Trolhetta Cave.",
+  "icon": "data/images/d_/sr/ed/gear_nord_heavy_shoulders_d.png",
+  "trait": 11,
+  "variantOf": null
+}

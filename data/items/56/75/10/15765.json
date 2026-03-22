@@ -1,0 +1,9 @@
+{
+  "canonicalId": 15765,
+  "bindType": 2,
+  "name": "Ayleid's Hope",
+  "description": "King Dynar gave you this amulet for gathering the forces of the Mages Guild and the Fighters Guild in the Hollow City.",
+  "icon": "data/images/a_/kc/en/gear_altmer_neck_a.png",
+  "trait": 21,
+  "variantOf": null
+}

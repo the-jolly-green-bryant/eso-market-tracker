@@ -1,0 +1,9 @@
+{
+  "canonicalId": 70993,
+  "bindType": 2,
+  "name": "Tinker's Staff of Trouble",
+  "description": "You earned this staff by helping Kireth Vanos to corral a wayward Dwarven sphere. And her brother.",
+  "icon": "data/images/c_/ff/at/gear_dwarven_staff_c.png",
+  "trait": 6,
+  "variantOf": null
+}

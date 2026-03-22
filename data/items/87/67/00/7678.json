@@ -1,0 +1,9 @@
+{
+  "canonicalId": 7678,
+  "bindType": 2,
+  "name": "Rigurt's Robust Ring",
+  "description": "Rigurt the Brash, Master of Ceremonies for the Konunleikar, bestowed this ring for aiding with the party planning in Windhelm.",
+  "icon": "data/images/a_/gn/ir/gear_nord_ring_a.png",
+  "trait": 23,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 155735,
+  "bindType": 2,
+  "name": "Daring Corsair's Helmet",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_medium_head_d.png",
+  "trait": 6,
+  "variantOf": 155435
+}

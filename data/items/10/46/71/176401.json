@@ -1,0 +1,9 @@
+{
+  "canonicalId": 176401,
+  "bindType": 2,
+  "name": "Companion's Epaulets",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/th/gi/l_/companions_u30_equipment_shoulders_light.png",
+  "trait": 37,
+  "variantOf": null
+}

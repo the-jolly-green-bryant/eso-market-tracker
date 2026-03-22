@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23851,
+  "bindType": 2,
+  "name": "Staff of Nature's Accord",
+  "description": "This staff was bestowed for helping to restore Nature's Accord and keep the sigil out of Stormfist hands.",
+  "icon": "data/images/d_/ff/at/gear_nord_staff_d.png",
+  "trait": 1,
+  "variantOf": null
+}

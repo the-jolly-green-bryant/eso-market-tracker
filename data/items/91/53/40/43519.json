@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43519,
+  "bindType": 2,
+  "name": "Belt of Elastic Girth",
+  "description": "A versatile belt you earned by slaying Shadowfen beasts in an effort to complete a drunken bet between friends.",
+  "icon": "data/images/d_/ts/ia/gear_nord_light_waist_d.png",
+  "trait": 11,
+  "variantOf": null
+}

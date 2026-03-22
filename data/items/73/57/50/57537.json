@@ -1,0 +1,9 @@
+{
+  "canonicalId": 57537,
+  "bindType": 2,
+  "name": "Izad's Treasure",
+  "description": "The booty from a legendary pirate captain's haul included this golden bauble.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 10,
+  "variantOf": null
+}

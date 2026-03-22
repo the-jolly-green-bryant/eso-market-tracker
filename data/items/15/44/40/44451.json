@@ -1,0 +1,9 @@
+{
+  "canonicalId": 44451,
+  "bindType": 2,
+  "name": "Bleakrock Garrison Plate",
+  "description": "This chestplate marks its wearer as a stalwart protector of the Ebonheart Pact.",
+  "icon": "data/images/d_/ts/eh/gear_nord_heavy_chest_d.png",
+  "trait": 14,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 2559,
+  "bindType": 2,
+  "name": "Redoran Cuisses",
+  "description": "These cuisses were awarded for returning a fallen Redoran soldier's medallion to his retainer at Tal'Deic Fortress.",
+  "icon": "data/images/d_/sg/el/gear_dunmer_heavy_legs_d.png",
+  "trait": 12,
+  "variantOf": null
+}

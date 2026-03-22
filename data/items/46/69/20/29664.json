@@ -1,0 +1,9 @@
+{
+  "canonicalId": 29664,
+  "bindType": 2,
+  "name": "Bathrobe of Vigor",
+  "description": "This robe was your reward for helping the bathers taking advantage of the hot springs south of Wittestadr.",
+  "icon": "data/images/d_/eb/or/gear_nord_light_robe_d.png",
+  "trait": 17,
+  "variantOf": null
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 190932,
+  "bindType": 2,
+  "name": "Forgotten Adventurer's Shield",
+  "description": "A shield found in your strong box. The ravages of time may have tarnished this aegis, but it remains strong enough to deflect a golem's blows.",
+  "icon": "data/images/d_/dl/ei/gear_altmer_shield_d.png",
+  "trait": 6,
+  "variantOf": null
+}

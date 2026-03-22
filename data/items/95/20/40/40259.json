@@ -1,0 +1,9 @@
+{
+  "canonicalId": 40259,
+  "bindType": 2,
+  "name": "Spellbreaker's Staff",
+  "description": "Enchanted by Shalidor himself after his legendary First Era battle against the Rourken clan of Dwemer.",
+  "icon": "data/images/d_/ff/at/gear_nord_staff_d.png",
+  "trait": 1,
+  "variantOf": null
+}

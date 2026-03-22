@@ -1,0 +1,9 @@
+{
+  "canonicalId": 43582,
+  "bindType": 2,
+  "name": "Mourning Bow",
+  "description": "This filigreed bow feels damp to the touch.",
+  "icon": "data/images/d_/wo/b_/gear_altmer_bow_d.png",
+  "trait": 10,
+  "variantOf": null
+}

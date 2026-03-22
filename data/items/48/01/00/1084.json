@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1084,
+  "bindType": 2,
+  "name": "Lion Guard Gauntlets",
+  "description": "These heavy gloves were awarded for rescuing the Lion Guard scouts from Dominion forces at Farwatch Tower.",
+  "icon": "data/images/d_/sd/na/gear_breton_heavy_hands_d.png",
+  "trait": 14,
+  "variantOf": null
+}

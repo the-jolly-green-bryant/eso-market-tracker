@@ -1,0 +1,9 @@
+{
+  "canonicalId": 208138,
+  "bindType": 2,
+  "name": "Legion's Guardian",
+  "description": "This large shield bears the symbol of the Legion of the West Weald.",
+  "icon": "data/images/d_/dl/ei/gear_imperial_shield_d.png",
+  "trait": 11,
+  "variantOf": null
+}
