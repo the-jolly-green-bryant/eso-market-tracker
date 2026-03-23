@@ -1,7 +1,7 @@
 import 'dotenv/config'
 import { Results } from './results'
 import { images } from '@eso-market-tracker/database'
-import { logger } from '@eso-market-tracker/logging'
+import { logger, orThrow } from '@eso-market-tracker/logging'
 import pLimit from 'p-limit'
 import { insertItems } from '@eso-market-tracker/data'
 
@@ -16,10 +16,10 @@ export const getHtmlFromEndpoint = async (
     cookie: string
   }
 ): Promise<string> => {
-  const cookie = options?.cookie || process.env.UESP_COOKIE
-  if (!cookie) {
-    throw new Error('No UESP_COOKIE env defined')
-  }
+  const cookie =
+    options?.cookie ||
+    process.env.UESP_COOKIE ||
+    orThrow(new Error('No UESP_COOKIE env defined'))
 
   const res = await fetch(endpoint, {
     method: 'GET',
@@ -36,10 +36,7 @@ export const getHtmlFromEndpoint = async (
     },
   })
 
-  if (!res.ok) {
-    throw new Error(`Failed: ${res.status} ${res.statusText}`)
-  }
-
+  res.ok || orThrow(new Error(`Failed: ${res.status} ${res.statusText}`))
   return await res.text()
 }
 
@@ -61,10 +58,9 @@ export const processNextPage = async (
   lastResults?: Results,
   skipRecursion?: boolean
 ): Promise<Results> => {
-  if (lastResults && !lastResults.next) {
-    throw new Error('Next page was not found!')
-  }
-
+  ;(lastResults && lastResults.next) ||
+    !lastResults ||
+    orThrow(new Error('Next page was not found!'))
   const next = lastResults ? lastResults.next! : getEndpoint(0)
   const html = await getHtmlFromEndpoint(next)
   const results = Results.from(html)

@@ -1,4 +1,5 @@
 import { ItemMeta } from './items.types'
+import { orThrow } from '@eso-market-tracker/logging'
 
 /**
  * A class-like representation of an ESO item.
@@ -11,10 +12,8 @@ export const Item = {
       meta,
     }
 
-    if (Number.isNaN(item.id)) {
-      throw new Error(`item ${JSON.stringify(item)} is not a number!`)
-    }
-
+    Number.isInteger(item.id) ||
+      orThrow(new Error(`item ${JSON.stringify(item)} is not a number!`))
     return item
   },
 }

@@ -2,6 +2,7 @@ import * as cheerio from 'cheerio'
 import { CheerioAPI } from 'cheerio'
 import { getTraitIdFromString, Item } from '@eso-market-tracker/eso'
 import { Element } from 'domhandler'
+import { orThrow } from '@eso-market-tracker/logging'
 
 export const _getNthStringFromRow = (
   $: CheerioAPI,
@@ -20,11 +21,10 @@ export const _getNthStringFromRow = (
 
 export const _getIconFromRow = ($: CheerioAPI, el: Element) => {
   const imageUrl = $(el).find('> td:nth-of-type(4) img').attr('src')
-  if (!imageUrl || !imageUrl.length) {
-    throw new Error(`No image found for ${el}`)
-  }
+  ;(imageUrl && imageUrl.length) ||
+    orThrow(new Error(`No image found for ${el}`))
 
-  return (imageUrl.startsWith('//') ? 'https:' : '') + imageUrl
+  return (imageUrl!.startsWith('//') ? 'https:' : '') + imageUrl
 }
 
 const _getTraitFromRow = ($: CheerioAPI, el: Element) => {

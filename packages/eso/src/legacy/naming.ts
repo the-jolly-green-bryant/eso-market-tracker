@@ -5,12 +5,6 @@
  *  labels back into regular item names.
  */
 
-type NameToInternalOptions = {
-  trySkippingSetTransformation?: boolean
-  tryingLooseSetTransformation?: boolean
-  setItems?: ReadonlySet<string> | string[]
-}
-
 const TRAITS = [
   'divines',
   'training',
@@ -69,36 +63,23 @@ const DEFAULT_SET_ITEMS = new Set<string>([
 /**
  * Converts an ESO Market Tracker internal label to a fully qualified item name.
  * @param {string} itemName
- * @param {NameToInternalOptions} opts
  * @returns {string}
  */
-export function nameToInternal(
-  itemName: string,
-  opts: NameToInternalOptions = {}
-): string {
+export function nameToInternal(itemName: string): string {
   const {
     trySkippingSetTransformation = false,
     tryingLooseSetTransformation = false,
-    setItems = DEFAULT_SET_ITEMS,
-  } = opts
+  } = {} // We used to put opts here.
 
-  const SET_ITEMS =
-    setItems instanceof Set
-      ? setItems
-      : new Set<string>(
-          (setItems as string[]).map((s: string) => s.toLowerCase())
-        )
+  const SET_ITEMS = DEFAULT_SET_ITEMS
 
   // 1) normalize
   let label = itemName
     .toLowerCase()
     .trim()
     .replace(/\s{2,}/g, ' ')
-  label = label
     .replace('&', 'and')
-    .replace('.', '')
-    .replace('(', '')
-    .replace(')', '')
+    .replace(/[.()]/g, '')
 
   // 2) strip "style page" prefixes and variants
   // matches: "style page", common typos like "stlye page" via s[ti]yle, trailing colon, optional 0/1, and spaces
@@ -125,9 +106,9 @@ export function nameToInternal(
   label = label.replace(/(.* t[ri]easure map).*/g, '$1').trim()
 
   // 6) Song of Pelinal volumes: collapse to base title
-  if (label.includes('the song of pelinal volume')) {
-    label = 'the song of pelinal volume'
-  }
+  label = label.includes('the song of pelinal volume')
+    ? 'the song of pelinal volume'
+    : label
 
   // 7) "vivecs X of duality" -> "x of vivecs duality"
   label = label.replace(
@@ -202,237 +183,234 @@ export function nameToInternal(
   return label
 }
 
-// call earlier: displayName = displayName.toLowerCase().replace("acres tracking", "aeras tracking")
+const NON_EXISTANT_ITEMS = [
+  'alinor bookshelf polished',
+  'alinor display stand noble',
+  'apocrypha bed spiked',
+  'argonian bookshelf woven',
+  'ayleid bookshelf cluttered',
+  'base game treasure maps',
+  'base game treasure map',
+  'blackreach treasure map',
+  'blackwood ce treasure map',
+  'blueprint alinor bed polished',
+  'blueprint breton chamberstick tall',
+  'blueprint redguard urn sealed',
+  'bog raiders bracers',
+  'bog raiders breeches',
+  'bog raiders hat',
+  'bog raiders shoes',
+  'book stack levitating',
+  'breaching poison',
+  'brutality draining poison',
+  'clockwork dial calipers handheld',
+  'clockwork treasure map',
+  'cloudy damage health poison',
+  'cloudy gradual ravage health poison',
+  'cloudy hindering poison',
+  'common soul gem',
+  'common soul gem empty',
+  'conspicuous poison',
+  'cowardice poison',
+  'cyrodiils crest boots',
+  'damage health poison',
+  'damage magicka poison',
+  'dark ether',
+  'deadlands assassins girdle',
+  'defilers cuirass',
+  'design candles plate',
+  'design candles ritual set',
+  'design leyawiin meal lobster stew',
+  'diagram deadlands brazier bladed tall pillar',
+  'diagram dwarven mug plate',
+  'diagram indoril brazier noble',
+  'diagram pipe cap bolted',
+  'diagram redoran spittoon gilded',
+  'dish empty',
+  'dragonguard ring',
+  'dreamers belts',
+  'dreamers more',
+  'elsweyr bookcase elegant wooden',
+  'elsweyr bookshelf short elegant',
+  'elsweyr bookshelf wooden',
+  'elsweyr mirror carved wall',
+  'elsweyr pillow gold ruby throw',
+  'elsweyr treasure map',
+  'fine silk gloves',
+  'firelogs ashen',
+  'firesong circle style item',
+  'flowers netch cabbage stalks',
+  'frostbite arm cops',
+  'frostbite boots',
+  'frostbite cuirass',
+  'frostbite gauntlets',
+  'frostbite helm',
+  'frostbite helmet',
+  'frostbite pauldrons',
+  'hide grocers of health',
+  'hlaalu cabinet of drawers desk',
+  'imperial bed four poster',
+  'imperial divider curved',
+  'imperial divider folding',
+  'imperial nightstand scrollwork',
+  'khajiit bookshelf arched',
+  'khajiit red canopy',
+  'legion zero vigiles girdle',
+  'lemon flower sake',
+  'murkmire bookshelf',
+  'murkmire bookshelf full',
+  'murkmire bookshelf grand',
+  'mushrooms climbing ambershine',
+  'mushrooms tall puspocket',
+  'necrom desk elegant',
+  'necrom door patterned',
+  'night mother axe',
+  'night mother ice staff',
+  'night mother mace',
+  'night mother restoration staff',
+  'night mother shield',
+  'nord bookshelf alcove',
+  'nord sconce torch',
+  'offerings',
+  'old canis root',
+  'orcish bookshelf peaked',
+  'orsinium treasure map',
+  'overland treasure map',
+  'painting of arch silver',
+  'painting of khajiit arch gold',
+  'parcels wrapped',
+  'pattern argenton mat tidy reed',
+  'pattern argonian divider string',
+  'pattern book stack levitating',
+  'pattern high elf carpet mottled',
+  'pattern indoril banner viper',
+  'pattern murkmire lantern linked rings',
+  'pattern necrom runner narrow patterned',
+  'pattern redguard buffet oasis',
+  'pebble stacked desert',
+  'pattern elsweyr fountain four lions',
+  'plant golden lichen',
+  'plants swamp pitcher shoots',
+  'praxis argonian lira clawfoot',
+  'praxis ayleid bookcase short cluttered',
+  'praxis ayleid bookshelf cluttered',
+  'praxis clockwork sequence plaques unfolded',
+  'praxis eldtertide torus stone',
+  'praxis elsweyr bookshelf ancient stone tall',
+  'praxis firesong lava shelf short',
+  'praxis high eif lamppost stone',
+  'praxis markarth past stone wall',
+  'praxis murkmire bookshelf grand',
+  'rabbit gnocchi raga',
+  'ravaging belt',
+  'ravaging rattle axe',
+  'recipe hlaalu pumpkin risotto',
+  'recipe meaty garlic corn chowder',
+  'recipe psijic mages mazte',
+  'red beer stew',
+  'redguard buffet oasis',
+  'redguard divider gilded',
+  'redoran bench banded',
+  'rough black stone brick',
+  'runebox sword to the head adornment',
+  'sapling desert',
+  'sapling healthy forest',
+  'seaport fountain floral wall',
+  'seventh legion boots',
+  'shadow dancer hat',
+  'shrub blooming seabird',
+  'shrub blowing thistle',
+  'shrub glooming sunbird',
+  'shrubs dormont sunbird cluster',
+  'sithis the dread father',
+  'skeever kabob',
+  'skeever kebab',
+  'solitude bed long',
+  'solitude bed noble',
+  'solitude cabinet narrow open filled',
+  'solstheim elk and scuffle',
+  'statue of hircines bitter mercy',
+  'stones smooth massy',
+  'stony sliver',
+  'strifeswarm legplates of the sheik',
+  'strodes orcish coif of necropotence',
+  'summer sundas soup',
+  'tapestry of a foiled incarnate the warseeker',
+  'telvanni light organic azure',
+  'telvanni shelves orgonic',
+  'third house of hist sap shield',
+  'topiary paired cypress',
+  'topiary strong cypress',
+  'tree ancient fig',
+  'tree ferns cluster',
+  'tree heavy ash',
+  'tree strong olive',
+  'tree vibrant pink',
+  'tree whorled fig',
+  'trinimacs valor necklace',
+  'truly superb glyph of crushing',
+  'used bait',
+  'vampire fang',
+  'vampiric table vampiric',
+  'void essence',
+  'voliar meadery seal',
+  'witches torch wretched',
+  'witchs totem bear',
+  'writ voucher to gold',
+  'dwarven lamppost reachfolk adorned',
+  'ebon maul',
+  'kynmarchers cruelty amulet',
+  'diagram dwarven dinner bowl hearty stew',
+  'gt ebony ingot',
+  'praxis druidic stone oven',
+  'recipe bruised sweetmeats',
+  'recipe molten wor torte',
+  'sanded ash+b79331',
+  'telvanni peninsula treasure',
+  'treasure map',
+  'amino core full',
+  'attunable clothier station',
+  'blueprint elsweyr plate amber ceramic',
+  'blueprint elsweyr plate limber ceramic',
+  'bear totem balance',
+  'chokethorns shoulder',
+  'chokethorns mask',
+  'design common candle casting',
+  'design murkmire candle post timber',
+  'diagram dwarven relief connected circle',
+  'elsweyr carpet blossoms an blue',
+  'elsweyr curtain tied back blue',
+  'clan shatul gauntlets',
+  'cygnus irregulars greatsword',
+  'corruptions end greaves',
+  'evermore greaves',
+  'firsthold greaves',
+  'withering staff',
+  'langour of peryite shoes',
+  'faithfulness ring',
+  'solitude sword',
+  'crystal tower staff',
+  'defender cuirass',
+  'maw of the infernals mask',
+  'maw of the infernals shoulder',
+  'ritemasters memorial battle sword',
+  'tremorscales shoulder',
+  'tremorscales mask',
+  'balorghs shoulder',
+  'balorghs mask',
+  'nightflames mask',
+  'nightflames shoulder',
+]
 
 export const internalToName = (unflippedName: string): string => {
-  const name = unflippedName
+  let result = unflippedName
     .toLowerCase()
     .trim()
-    .replace(':', '')
-    .replace(',', '')
+    .replace(/[,:]/g, '')
     .replace(/\s+/gu, ' ')
-  let result = name
 
-  const nonExistantItems = [
-    'alinor bookshelf polished',
-    'alinor display stand noble',
-    'apocrypha bed spiked',
-    'argonian bookshelf woven',
-    'ayleid bookshelf cluttered',
-    'base game treasure maps',
-    'base game treasure map',
-    'blackreach treasure map',
-    'blackwood ce treasure map',
-    'blueprint alinor bed polished',
-    'blueprint breton chamberstick tall',
-    'blueprint redguard urn sealed',
-    'bog raiders bracers',
-    'bog raiders breeches',
-    'bog raiders hat',
-    'bog raiders shoes',
-    'book stack levitating',
-    'breaching poison',
-    'brutality draining poison',
-    'clockwork dial calipers handheld',
-    'clockwork treasure map',
-    'cloudy damage health poison',
-    'cloudy gradual ravage health poison',
-    'cloudy hindering poison',
-    'common soul gem',
-    'common soul gem empty',
-    'conspicuous poison',
-    'cowardice poison',
-    'cyrodiils crest boots',
-    'damage health poison',
-    'damage magicka poison',
-    'dark ether',
-    'deadlands assassins girdle',
-    'defilers cuirass',
-    'design candles plate',
-    'design candles ritual set',
-    'design leyawiin meal lobster stew',
-    'diagram deadlands brazier bladed tall pillar',
-    'diagram dwarven mug plate',
-    'diagram indoril brazier noble',
-    'diagram pipe cap bolted',
-    'diagram redoran spittoon gilded',
-    'dish empty',
-    'dragonguard ring',
-    'dreamers belts',
-    'dreamers more',
-    'elsweyr bookcase elegant wooden',
-    'elsweyr bookshelf short elegant',
-    'elsweyr bookshelf wooden',
-    'elsweyr mirror carved wall',
-    'elsweyr pillow gold ruby throw',
-    'elsweyr treasure map',
-    'fine silk gloves',
-    'firelogs ashen',
-    'firesong circle style item',
-    'flowers netch cabbage stalks',
-    'frostbite arm cops',
-    'frostbite boots',
-    'frostbite cuirass',
-    'frostbite gauntlets',
-    'frostbite helm',
-    'frostbite helmet',
-    'frostbite pauldrons',
-    'hide grocers of health',
-    'hlaalu cabinet of drawers desk',
-    'imperial bed four poster',
-    'imperial divider curved',
-    'imperial divider folding',
-    'imperial nightstand scrollwork',
-    'khajiit bookshelf arched',
-    'khajiit red canopy',
-    'legion zero vigiles girdle',
-    'lemon flower sake',
-    'murkmire bookshelf',
-    'murkmire bookshelf full',
-    'murkmire bookshelf grand',
-    'mushrooms climbing ambershine',
-    'mushrooms tall puspocket',
-    'necrom desk elegant',
-    'necrom door patterned',
-    'night mother axe',
-    'night mother ice staff',
-    'night mother mace',
-    'night mother restoration staff',
-    'night mother shield',
-    'nord bookshelf alcove',
-    'nord sconce torch',
-    'offerings',
-    'old canis root',
-    'orcish bookshelf peaked',
-    'orsinium treasure map',
-    'overland treasure map',
-    'painting of arch silver',
-    'painting of khajiit arch gold',
-    'parcels wrapped',
-    'pattern argenton mat tidy reed',
-    'pattern argonian divider string',
-    'pattern book stack levitating',
-    'pattern high elf carpet mottled',
-    'pattern indoril banner viper',
-    'pattern murkmire lantern linked rings',
-    'pattern necrom runner narrow patterned',
-    'pattern redguard buffet oasis',
-    'pebble stacked desert',
-    'pattern elsweyr fountain four lions',
-    'plant golden lichen',
-    'plants swamp pitcher shoots',
-    'praxis argonian lira clawfoot',
-    'praxis ayleid bookcase short cluttered',
-    'praxis ayleid bookshelf cluttered',
-    'praxis clockwork sequence plaques unfolded',
-    'praxis eldtertide torus stone',
-    'praxis elsweyr bookshelf ancient stone tall',
-    'praxis firesong lava shelf short',
-    'praxis high eif lamppost stone',
-    'praxis markarth past stone wall',
-    'praxis murkmire bookshelf grand',
-    'rabbit gnocchi raga',
-    'ravaging belt',
-    'ravaging rattle axe',
-    'recipe hlaalu pumpkin risotto',
-    'recipe meaty garlic corn chowder',
-    'recipe psijic mages mazte',
-    'red beer stew',
-    'redguard buffet oasis',
-    'redguard divider gilded',
-    'redoran bench banded',
-    'rough black stone brick',
-    'runebox sword to the head adornment',
-    'sapling desert',
-    'sapling healthy forest',
-    'seaport fountain floral wall',
-    'seventh legion boots',
-    'shadow dancer hat',
-    'shrub blooming seabird',
-    'shrub blowing thistle',
-    'shrub glooming sunbird',
-    'shrubs dormont sunbird cluster',
-    'sithis the dread father',
-    'skeever kabob',
-    'skeever kebab',
-    'solitude bed long',
-    'solitude bed noble',
-    'solitude cabinet narrow open filled',
-    'solstheim elk and scuffle',
-    'statue of hircines bitter mercy',
-    'stones smooth massy',
-    'stony sliver',
-    'strifeswarm legplates of the sheik',
-    'strodes orcish coif of necropotence',
-    'summer sundas soup',
-    'tapestry of a foiled incarnate the warseeker',
-    'telvanni light organic azure',
-    'telvanni shelves orgonic',
-    'third house of hist sap shield',
-    'topiary paired cypress',
-    'topiary strong cypress',
-    'tree ancient fig',
-    'tree ferns cluster',
-    'tree heavy ash',
-    'tree strong olive',
-    'tree vibrant pink',
-    'tree whorled fig',
-    'trinimacs valor necklace',
-    'truly superb glyph of crushing',
-    'used bait',
-    'vampire fang',
-    'vampiric table vampiric',
-    'void essence',
-    'voliar meadery seal',
-    'witches torch wretched',
-    'witchs totem bear',
-    'writ voucher to gold',
-    'dwarven lamppost reachfolk adorned',
-    'ebon maul',
-    'kynmarchers cruelty amulet',
-    'diagram dwarven dinner bowl hearty stew',
-    'gt ebony ingot',
-    'praxis druidic stone oven',
-    'recipe bruised sweetmeats',
-    'recipe molten wor torte',
-    'sanded ash+b79331',
-    'telvanni peninsula treasure',
-    'treasure map',
-    'amino core full',
-    'attunable clothier station',
-    'blueprint elsweyr plate amber ceramic',
-    'blueprint elsweyr plate limber ceramic',
-    'bear totem balance',
-    'chokethorns shoulder',
-    'chokethorns mask',
-    'design common candle casting',
-    'design murkmire candle post timber',
-    'diagram dwarven relief connected circle',
-    'elsweyr carpet blossoms an blue',
-    'elsweyr curtain tied back blue',
-    'clan shatul gauntlets',
-    'cygnus irregulars greatsword',
-    'corruptions end greaves',
-    'evermore greaves',
-    'firsthold greaves',
-    'withering staff',
-    'langour of peryite shoes',
-    'faithfulness ring',
-    'solitude sword',
-    'crystal tower staff',
-    'defender cuirass',
-    'maw of the infernals mask',
-    'maw of the infernals shoulder',
-    'ritemasters memorial battle sword',
-    'tremorscales shoulder',
-    'tremorscales mask',
-    'balorghs shoulder',
-    'balorghs mask',
-    'nightflames mask',
-    'nightflames shoulder',
-  ]
   if (
-    nonExistantItems.includes(result.toLowerCase()) ||
+    NON_EXISTANT_ITEMS.includes(result.toLowerCase()) ||
     result.includes('furnishing folio') ||
     result.includes('furnishers document') ||
     result.startsWith('category ') ||
@@ -693,7 +671,6 @@ export const internalToName = (unflippedName: string): string => {
     'nocturnals ploy',
     'oakfathers retribution',
     'winters respite',
-    // add more as needed...
   ])
 
   // Common ESO equipment pieces (multi-word first to avoid partial matches)
@@ -815,13 +792,11 @@ export const internalToName = (unflippedName: string): string => {
     'threads of war',
     'unchained aggressors',
   ]
-  for (const setName of setsToAmulet) {
-    if (!result.includes(setName)) {
-      continue
-    }
-
-    result = result.replace('necklace', 'amulet')
-  }
+  setsToAmulet
+    .filter((i) => result.includes(i))
+    .forEach(() => {
+      result = result.replace('necklace', 'amulet')
+    })
 
   const setsToSignet = [
     'baelborne',
@@ -831,13 +806,11 @@ export const internalToName = (unflippedName: string): string => {
     'nasss',
     'sancre tor',
   ]
-  for (const setName of setsToSignet) {
-    if (!result.includes(setName)) {
-      continue
-    }
-
-    result = result.replace('ring', 'signet')
-  }
+  setsToSignet
+    .filter((i) => result.includes(i))
+    .forEach(() => {
+      result = result.replace('ring', 'signet')
+    })
 
   const setsToBand = [
     'cathartic',
@@ -846,13 +819,11 @@ export const internalToName = (unflippedName: string): string => {
     'hists root',
     'prisoner cynhamouths undulating',
   ]
-  for (const setName of setsToBand) {
-    if (!result.includes(setName)) {
-      continue
-    }
-
-    result = result.replace('ring', 'band')
-  }
+  setsToBand
+    .filter((i) => result.includes(i))
+    .forEach(() => {
+      result = result.replace('ring', 'band')
+    })
 
   // core list (lowercase), source: UESP
   const craftingMotifs: [string, number][] = [
@@ -1070,16 +1041,14 @@ export const internalToName = (unflippedName: string): string => {
     'swarm mother',
     'tremorscale',
   ]
-  for (const styleName of styleNames) {
-    if (
-      !result.includes(styleName) ||
-      result == 'seventh legions ayleid breastplate'
-    ) {
-      continue
-    }
-
-    result = `style page ${result}`
-  }
+  styleNames
+    .filter(
+      (i) =>
+        result.includes(i) && result != 'seventh legions ayleid breastplate'
+    )
+    .forEach(() => {
+      result = `style page ${result}`
+    })
 
   if (result.startsWith('opal ')) {
     if (!result.includes('ilambris ')) {

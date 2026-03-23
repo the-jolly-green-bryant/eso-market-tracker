@@ -26,6 +26,7 @@ export default [
     },
 
     rules: {
+      '@typescript-eslint/no-unused-expressions': 'off',
       'jsdoc/require-jsdoc': [
         'error',
         {

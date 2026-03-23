@@ -156,6 +156,10 @@ importers:
         version: 4.1.0(vitest@4.1.0(@types/node@25.5.0)(vite@8.0.1(@types/node@25.5.0)))
 
   packages/eso:
+    dependencies:
+      '@eso-market-tracker/logging':
+        specifier: workspace:*
+        version: link:../logging
     devDependencies:
       '@vitest/coverage-v8':
         specifier: ^4.1.0

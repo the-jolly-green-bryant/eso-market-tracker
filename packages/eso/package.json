@@ -17,6 +17,9 @@
   "devDependencies": {
     "@vitest/coverage-v8": "^4.1.0"
   },
+  "dependencies": {
+    "@eso-market-tracker/logging": "workspace:*"
+  },
   "exports": {
     ".": "./src/index.ts"
   }
