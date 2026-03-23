@@ -1,0 +1,9 @@
+{
+  "canonicalId": 219748,
+  "name": "Runebox: Hagmatron's Body Marking",
+  "description": "Contains a Hagmatron's Body Marking. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
+  "icon": "data/images/em/ot/_d/item_collectible_runebound_tome.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

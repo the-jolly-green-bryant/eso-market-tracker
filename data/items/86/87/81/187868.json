@@ -1,0 +1,9 @@
+{
+  "canonicalId": 187868,
+  "name": "Ascendant Silence Painting, Metal",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0g/ni/housing_sys_inc_metalframepainting002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

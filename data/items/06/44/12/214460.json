@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214460,
+  "name": "Seahorse, Display",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/10/0e/sr/housing_sol_inc_foodseahorse001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

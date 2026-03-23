@@ -1,0 +1,9 @@
+{
+  "canonicalId": 223891,
+  "name": "Common Cargo, Floating Waterlogged",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0o/gr/housing_gen_exc_floatingcargo001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

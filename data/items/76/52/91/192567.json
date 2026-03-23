@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192567,
+  "name": "Fuchsia Hosta",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/ew/housing_veg_sys_greenhostaflower001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211572,
+  "name": "Imperial Tent, Large",
+  "description": "This is a large house item.",
+  "icon": "data/images/10/0t/xe/housing_imp_cmp_tentmagisext001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

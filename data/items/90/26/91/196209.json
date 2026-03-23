@@ -1,0 +1,9 @@
+{
+  "canonicalId": 196209,
+  "name": "Sarcophagus, Stone Lid",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/il/housing_cld_cem_tomblid001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

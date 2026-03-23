@@ -1,0 +1,9 @@
+{
+  "canonicalId": 220332,
+  "name": "Stone-Nest Bed, Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/eb/housing_sol_fur_ducbed001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

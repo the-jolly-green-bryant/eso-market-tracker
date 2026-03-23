@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191177,
+  "name": "Druidic Bed, Wood Single",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0w/ol/housing_sys_fur_drubedlow002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

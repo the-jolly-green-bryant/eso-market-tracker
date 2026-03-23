@@ -1,0 +1,9 @@
+{
+  "canonicalId": 198400,
+  "name": "Apocrypha Bed, Spiked Double",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0m/ui/housing_apc_fur_bedmedium001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

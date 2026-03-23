@@ -1,0 +1,9 @@
+{
+  "canonicalId": 220306,
+  "name": "Worm Cult Barrel, Closed",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/er/housing_wrm_fur_barrel001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

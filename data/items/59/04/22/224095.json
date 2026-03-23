@@ -1,0 +1,9 @@
+{
+  "canonicalId": 224095,
+  "name": "Antiweather Pylon",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/or/housing_bad_exc_farnightmarketweathercontrolrod001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

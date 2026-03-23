@@ -1,0 +1,9 @@
+{
+  "canonicalId": 182616,
+  "name": "Orcish Banner, Iron",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/en/housing_orc_lsb_ironorcbanner001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

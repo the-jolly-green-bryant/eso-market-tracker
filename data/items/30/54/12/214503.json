@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214503,
+  "name": "Sapling, Thatch Palm",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0m/la/housing_tre_sol_keythatchpalm005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

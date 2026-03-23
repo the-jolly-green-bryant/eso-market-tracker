@@ -1,0 +1,9 @@
+{
+  "canonicalId": 193800,
+  "name": "Falmer Tent, Conical",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0t/ne/housing_skr_str_fmrtent002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

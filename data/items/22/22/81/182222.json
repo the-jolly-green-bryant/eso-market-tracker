@@ -1,0 +1,9 @@
+{
+  "canonicalId": 182222,
+  "name": "Fargrave Counter, Merchant",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/la/housing_bad_exc_farmerchantstall001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

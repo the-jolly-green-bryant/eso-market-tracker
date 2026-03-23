@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211562,
+  "name": "Fabric Wall",
+  "description": "This is a large house item.",
+  "icon": "data/images/30/0s/ci/housing_bad_inc_farwallfabrics003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

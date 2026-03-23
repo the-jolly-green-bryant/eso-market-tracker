@@ -1,0 +1,9 @@
+{
+  "canonicalId": 224098,
+  "name": "Jump Pad, Decommissioned",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/ap/housing_bad_exc_farnightjumppad001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203151,
+  "name": "Falmer Gate, Stick",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/ta/housing_skr_str_fmrgate001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

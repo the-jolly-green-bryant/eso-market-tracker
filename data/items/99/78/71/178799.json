@@ -1,0 +1,9 @@
+{
+  "canonicalId": 178799,
+  "name": "Ruby Candlefly Gathering",
+  "description": "This is a standard house item.",
+  "icon": "data/images/de/r_/gu/housing_torchbug_red.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

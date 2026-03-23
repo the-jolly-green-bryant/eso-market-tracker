@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191171,
+  "name": "Druidic Dresser, Open Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/es/housing_sys_fur_drustonedresser001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

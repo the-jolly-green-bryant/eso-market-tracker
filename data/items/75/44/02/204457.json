@@ -1,0 +1,9 @@
+{
+  "canonicalId": 204457,
+  "name": "Pouch of Ill-Gotten Wealth",
+  "description": "A pouch of gems and coins taken by the corrupt merchant in the Rift, in exchange for healing goods of dubious quality.",
+  "icon": "data/images/10/0_/hc/justice_stolen_pouch_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

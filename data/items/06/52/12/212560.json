@@ -1,0 +1,9 @@
+{
+  "canonicalId": 212560,
+  "name": "Guardian Key, Replica",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/10/0y/ek/housing_uni_inc_guardiankey001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192576,
+  "name": "Druidic Totem, Animal",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0s/me/housing_nor_duc_animaltotems003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

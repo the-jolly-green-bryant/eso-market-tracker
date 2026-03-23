@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203595,
+  "name": "Vampiric Cage, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/ga/housing_skr_inc_vampirelabcage001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

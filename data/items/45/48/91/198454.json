@@ -1,0 +1,9 @@
+{
+  "canonicalId": 198454,
+  "name": "Necrom Planter, Tall",
+  "description": "This is a standard house item.",
+  "icon": "data/images/a1/00/eg/housing_tlv_inc_necvasesquarelarge001a.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

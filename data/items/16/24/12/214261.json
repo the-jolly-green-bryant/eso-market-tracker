@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214261,
+  "name": "Tips on Legerdemain",
+  "description": "When used, this item grants 40 points of Legerdemain XP. You cannot use this item if your Legerdemain level is 20.  You must be at least level 10 to use this item.",
+  "icon": "data/images/30/0_/me/quest_thievesguild_item_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

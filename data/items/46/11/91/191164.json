@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191164,
+  "name": "Druidic Bench, Ivy Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0h/cn/housing_sys_fur_drustonebench002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

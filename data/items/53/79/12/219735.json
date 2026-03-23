@@ -1,0 +1,9 @@
+{
+  "canonicalId": 219735,
+  "name": "Breton Spyglass",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0s/sa/housing_sys_inc_spyglass001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

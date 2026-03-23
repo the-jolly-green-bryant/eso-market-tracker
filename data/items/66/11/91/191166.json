@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191166,
+  "name": "Druidic Bench, Curved Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/ev/housing_sys_fur_drustonebenchcurved001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

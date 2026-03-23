@@ -1,0 +1,9 @@
+{
+  "canonicalId": 224093,
+  "name": "Incandescent Pod, Large",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/op/housing_veg_bad_nightmarketincandescentpod001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

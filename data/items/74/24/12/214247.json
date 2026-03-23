@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214247,
+  "name": "Coin Pile, Small",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/30/0k/ca/housing_gen_inc_coinseptimstack003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

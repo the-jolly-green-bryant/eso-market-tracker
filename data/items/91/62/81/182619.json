@@ -1,0 +1,9 @@
+{
+  "canonicalId": 182619,
+  "name": "Clockwork Altar, Devotional",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0r/at/housing_cwc_inc_devotionalaltar002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

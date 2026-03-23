@@ -1,0 +1,9 @@
+{
+  "canonicalId": 178463,
+  "name": "Scaly Cloth Scrap",
+  "description": "A fragment of cloth embedded with scales. If you collect 50 of these, you can create a Thrafey Debutante Gown. Use to advance the eponymous achievement.",
+  "icon": "data/images/ed/ih/_d/crafting_scraps_scaled_hide.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

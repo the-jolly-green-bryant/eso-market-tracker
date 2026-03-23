@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203600,
+  "name": "Scribing Altar",
+  "description": "No personal scholarium is complete without a working Scribing Altar! When placed in your home, it allows you to Scribe.",
+  "icon": "data/images/10/0o/bm/housing_sum_str_housingscribingaltarcombo001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

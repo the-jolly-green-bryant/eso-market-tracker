@@ -1,0 +1,9 @@
+{
+  "canonicalId": 219853,
+  "name": "Unidentified Alchemist Survey Report",
+  "description": "This envelope contains an Alchemist Survey Report.",
+  "icon": "data/images/nw/or/b_/item_u47_envelope_string_brown.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

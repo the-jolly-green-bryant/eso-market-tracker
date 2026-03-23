@@ -1,0 +1,9 @@
+{
+  "canonicalId": 223769,
+  "name": "Pact Cold Fire Trebuchet of Vengeance",
+  "description": "Creates a trebuchet weapon whose fireball causes Flame Damage to structures and foes.",
+  "icon": "data/images/te/hc/ub/ava_siege_weapon_darkanchor_bluefiretrebuchet.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

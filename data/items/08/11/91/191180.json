@@ -1,0 +1,9 @@
+{
+  "canonicalId": 191180,
+  "name": "Druidic Trunk, Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0g/lt/housing_sys_exc_drustonechestlg001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

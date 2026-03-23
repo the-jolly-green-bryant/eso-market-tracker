@@ -1,0 +1,9 @@
+{
+  "canonicalId": 204772,
+  "name": "Sawdust Pile, Logging",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/li/housing_chl_exc_loggingdebrispile001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

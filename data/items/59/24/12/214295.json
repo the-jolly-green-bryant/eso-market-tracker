@@ -1,0 +1,9 @@
+{
+  "canonicalId": 214295,
+  "name": "Workshop Furnishing Recipe Book",
+  "description": "A notebook kept by an allegedly unhinged tinkerer. Reading it teaches all Workshop Furniture Recipes.",
+  "icon": "data/images/3r/ol/oc/lore_book1_detail2_color3.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

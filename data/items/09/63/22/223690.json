@@ -1,0 +1,9 @@
+{
+  "canonicalId": 223690,
+  "name": "Covenant Oil Catapult of Vengeance",
+  "description": "Creates a catapult siege weapon that fires a jar of oil at its targets, ensnaring them and draining their Stamina.",
+  "icon": "data/images/30/0_/iu/ava_siege_ui_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

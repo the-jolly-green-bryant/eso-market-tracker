@@ -1,0 +1,9 @@
+{
+  "canonicalId": 217661,
+  "name": "Birdhouse, Cylindrical Mounted",
+  "description": "This is a standard house item.",
+  "icon": "data/images/80/0e/su/housing_gen_exc_birdhouse008.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

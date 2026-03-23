@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192395,
+  "name": "Flowers, Sunflower Patch",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0d/le/housing_veg_sys_sunflowerfield005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

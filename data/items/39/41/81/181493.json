@@ -1,0 +1,9 @@
+{
+  "canonicalId": 181493,
+  "name": "Vampiric Container, Congealed Liquid",
+  "description": "This is a small house item.",
+  "icon": "data/images/80/0r/aj/housing_skr_inc_vampirelabjar008.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

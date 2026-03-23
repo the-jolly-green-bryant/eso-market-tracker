@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211127,
+  "name": "Runebox: Plunder Blunder Memento",
+  "description": "Contains a Plunder Blunder Memento. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
+  "icon": "data/images/10/0_/hp/container_sealed_polymorph_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

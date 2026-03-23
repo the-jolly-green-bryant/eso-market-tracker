@@ -1,0 +1,9 @@
+{
+  "canonicalId": 218000,
+  "name": "Tide-Born Wall, Lattice",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0l/la/housing_sol_str_argintmediumwall002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

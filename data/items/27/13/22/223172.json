@@ -1,0 +1,9 @@
+{
+  "canonicalId": 223172,
+  "name": "Leaf Pile, Thatch Palm",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/li/housing_tre_sol_keythatchpalmdeadpile001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 197520,
+  "name": "Telvanni Box, Fungal",
+  "description": "This is a small house item.",
+  "icon": "data/images/20/0x/ob/housing_tlv_fur_smallbox002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

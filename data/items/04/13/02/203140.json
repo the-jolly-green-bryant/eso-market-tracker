@@ -1,0 +1,9 @@
+{
+  "canonicalId": 203140,
+  "name": "Orcish Banner, Golkarr",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/ra/housing_orc_lsb_wtgorcbannegolkarr001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

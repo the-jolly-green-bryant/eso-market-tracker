@@ -1,0 +1,9 @@
+{
+  "canonicalId": 196210,
+  "name": "Necrom Coffin",
+  "description": "This is a large house item.",
+  "icon": "data/images/10/0n/if/housing_tlv_exc_neccoffin001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

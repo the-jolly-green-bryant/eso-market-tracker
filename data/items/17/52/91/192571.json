@@ -1,0 +1,9 @@
+{
+  "canonicalId": 192571,
+  "name": "Grahtwood Banner, Hanging Inn",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0n/ni/housing_bos_lsb_nexusbannersinn001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

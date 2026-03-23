@@ -1,0 +1,9 @@
+{
+  "canonicalId": 220357,
+  "name": "Mammoth Grass, Patch",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0s/sa/housing_veg_sol_elephantgrass005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

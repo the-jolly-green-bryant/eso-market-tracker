@@ -1,0 +1,9 @@
+{
+  "canonicalId": 211374,
+  "name": "Wood Elf Beehive, Stump",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/vi/housing_bos_exc_housingbeehive001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

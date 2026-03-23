@@ -1,0 +1,9 @@
+{
+  "canonicalId": 223884,
+  "name": "Rock Altar, Spiked",
+  "description": "This is a standard house item.",
+  "icon": "data/images/ra/tl/ak/housing_gen_exc_primativerockaltar.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

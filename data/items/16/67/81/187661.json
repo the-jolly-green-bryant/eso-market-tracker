@@ -1,0 +1,9 @@
+{
+  "canonicalId": 187661,
+  "name": "Mage's Flame",
+  "description": "This is a standard house item.",
+  "icon": "data/images/em/al/f_/u34_housing_mages_flame.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

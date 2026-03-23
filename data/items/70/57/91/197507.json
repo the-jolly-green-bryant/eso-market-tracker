@@ -1,0 +1,9 @@
+{
+  "canonicalId": 197507,
+  "name": "Necrom Memorial, Small",
+  "description": "This is a standard house item.",
+  "icon": "data/images/40/0e/no/housing_tlv_cem_necgravestone004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}
