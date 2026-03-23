@@ -4,6 +4,7 @@ export default defineConfig({
   test: {
     exclude: ['**/dist/**', '**/node_modules/**'],
     coverage: {
+      enabled: true,
       provider: 'v8',
       reporter: ['text', 'html', 'json-summary'],
       reportsDirectory: './coverage',

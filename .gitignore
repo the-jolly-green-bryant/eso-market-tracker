@@ -7,6 +7,7 @@ lib
 tsconfig.tsbuildinfo
 .idea
 /coverage/
+/**/coverage/
 .env
 /data/test/
 /data/artifacts/data.sqlite
