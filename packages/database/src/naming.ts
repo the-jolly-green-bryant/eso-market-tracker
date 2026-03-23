@@ -21,3 +21,9 @@ export const getItemDirectory = (item: Item): string => {
 export const getItemPath = (item: Item) => {
   return `${getItemDirectory(item)}/${item.meta.canonicalId}.json`
 }
+
+export const getShardFromName = (value: string): string => {
+  const clean = value.toLowerCase().replace(/[^a-z0-9]/g, '') // remove folder-unsafe chars
+  const parts = clean.match(/.{1,4}/g)
+  return parts ? parts.join('/') : ''
+}

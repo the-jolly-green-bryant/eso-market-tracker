@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio'
-import { Item, getTraitIdFromString } from '@eso-market-tracker/eso'
 import { CheerioAPI } from 'cheerio'
+import { getTraitIdFromString, Item } from '@eso-market-tracker/eso'
 import { Element } from 'domhandler'
 
 export const _getNthStringFromRow = (
@@ -55,7 +55,7 @@ const _getItemsFromHtml = (html: string): Item[] => {
       })
     )
     // Filter out bind-on-pickup items.
-    .filter((i) => ![-1, 1, 4].includes(i.meta.bindType) && i.meta.name)
+    .filter((i) => ![1, 4].includes(i.meta.bindType) && i.meta.name)
 
   return rows.map((i) => {
     const variant = rows.find(
