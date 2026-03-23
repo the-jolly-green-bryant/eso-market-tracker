@@ -8,7 +8,7 @@ import { DatabaseSync } from 'node:sqlite'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const dbPath = path.join(__dirname, 'artifacts', 'data.sqlite')
-const db = new DatabaseSync(dbPath)
+export const db = new DatabaseSync(dbPath)
 
 const createSchema = () => {
   db.exec(`

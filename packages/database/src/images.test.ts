@@ -1,5 +1,5 @@
-import { describe, it, expect } from 'vitest'
-import { getOrDownloadImage } from './images'
+import { describe, expect, it } from 'vitest'
+import { getOrDownloadImage, getValidatedRequest } from './images'
 
 const SAMPLE_IMAGE =
   'https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_shield_b.png'
@@ -18,5 +18,11 @@ describe('images', async () => {
     await expect(
       async () => await getOrDownloadImage('https://placehold.co/')
     ).rejects.toThrow(/valid/)
+  })
+
+  it('handles failed fetches', async () => {
+    await expect(
+      async () => await getValidatedRequest('blah.comp')
+    ).rejects.toThrow(/failed/)
   })
 })
