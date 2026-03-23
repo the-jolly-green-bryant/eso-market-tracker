@@ -1,0 +1,9 @@
+{
+  "canonicalId": 40274,
+  "name": "Old Rice Mash",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "data/images/40/0_/da/crafting_components_bread_004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

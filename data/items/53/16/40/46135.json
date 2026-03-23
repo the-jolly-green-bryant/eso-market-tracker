@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46135,
+  "name": "Topgrain Hide",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "data/images/ll/ef/_e/crafting_hide_fell.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

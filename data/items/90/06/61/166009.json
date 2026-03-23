@@ -1,0 +1,9 @@
+{
+  "canonicalId": 166009,
+  "name": "Vampiric Rug, Triangular Sigil",
+  "description": "This is a standard house item.",
+  "icon": "data/images/70/0g/ur/housing_skr_inc_vampirerug007.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

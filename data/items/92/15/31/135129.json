@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135129,
+  "name": "Glyph of Health",
+  "description": "This glyph can be applied to any of your armor. Select the item and choose the enchant option.",
+  "icon": "data/images/ts/oo/bh/enchantment_armor_healthboost.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

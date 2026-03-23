@@ -1,0 +1,9 @@
+{
+  "canonicalId": 147589,
+  "name": "Dwarven Brazier, Open",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0a/re/housing_dwe_inc_braziera001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

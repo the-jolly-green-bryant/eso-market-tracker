@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23095,
+  "name": "Leather Scraps",
+  "description": "Ten of these items can be refined to make leather.",
+  "icon": "data/images/2r/_r/uf/crafting_leather_base_fur_r2.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

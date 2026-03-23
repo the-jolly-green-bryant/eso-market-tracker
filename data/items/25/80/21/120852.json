@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120852,
+  "name": "Holding Cell",
+  "description": "This is a large house item.",
+  "icon": "data/images/20/0e/ga/housing_gen_exc_cage002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

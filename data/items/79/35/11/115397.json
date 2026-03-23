@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115397,
+  "name": "Nord Chest, Latched",
+  "description": "This is a standard house item.",
+  "icon": "data/images/60/0t/se/housing_nor_duc_chest006.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

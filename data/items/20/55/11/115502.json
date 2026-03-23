@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115502,
+  "name": "Argonian Skull, Lizard",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0l/lu/housing_arg_exc_lizardskull001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

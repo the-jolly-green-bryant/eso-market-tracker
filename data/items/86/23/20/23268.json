@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23268,
+  "name": "Cloud Mist",
+  "description": "An ingredient for crafting Champion potions.",
+  "icon": "data/images/1r/_4/_r/crafting_potion_base_water_4_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

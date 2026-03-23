@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120877,
+  "name": "Gravestone, Cracked",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0e/gr/housing_bre_cem_tombstonelarge005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

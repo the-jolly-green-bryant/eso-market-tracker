@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33755,
+  "name": "Bananas",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/sa/na/na/crafting_bananas.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

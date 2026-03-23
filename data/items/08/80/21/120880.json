@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120880,
+  "name": "Tombstone, Engraved, Decorative",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0m/ui/housing_imp_cem_tombstonemedium001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

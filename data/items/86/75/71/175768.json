@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175768,
+  "name": "Dragonguard Brazier, Empty",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/ra/housing_els_lsb_sebraizerdragonguard001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

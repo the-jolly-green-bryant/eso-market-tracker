@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115579,
+  "name": "Wood Elf Cauldron, Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0n/or/housing_bos_cmp_cauldron001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

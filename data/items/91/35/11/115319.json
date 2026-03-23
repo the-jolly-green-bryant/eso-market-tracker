@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115319,
+  "name": "Dark Elf Counter, Corner",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0c/re/housing_dun_fur_counterc001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

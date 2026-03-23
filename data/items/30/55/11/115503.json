@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115503,
+  "name": "Argonian Bone Chimes",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0s/em/housing_arg_exc_windchimes001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

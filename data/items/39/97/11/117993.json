@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117993,
+  "name": "Rough Block, Stone Chunk",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0k/ci/housing_uni_str_spellcraftingruinwallbrick002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

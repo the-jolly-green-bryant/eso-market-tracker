@@ -1,0 +1,9 @@
+{
+  "canonicalId": 125528,
+  "name": "Dwarven Pipe Cap, Bolted",
+  "description": "This is a small house item.",
+  "icon": "data/images/pa/ce/pi/housing_dwe_duc_floorpipecap.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33772,
+  "name": "Coffee",
+  "description": "An ingredient for crafting beverages.",
+  "icon": "data/images/sn/ae/b_/crafting_coffee_beans.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117995,
+  "name": "Rough Block, Stone Brick",
+  "description": "This is a standard house item.",
+  "icon": "data/images/40/0k/ci/housing_uni_str_spellcraftingruinwallbrick004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

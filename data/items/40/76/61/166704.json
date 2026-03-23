@@ -1,0 +1,9 @@
+{
+  "canonicalId": 166704,
+  "name": "Cartographer's Boots",
+  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Boots collectible fragment.",
+  "icon": "data/images/te/ef/_s/quest_cartographers_feet.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

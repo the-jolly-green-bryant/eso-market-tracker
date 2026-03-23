@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118315,
+  "name": "Cask, Orange Dye",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0a/gr/housing_gen_crf_dyestationbarrellrga001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

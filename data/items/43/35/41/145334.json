@@ -1,0 +1,9 @@
+{
+  "canonicalId": 145334,
+  "name": "Murkmire Sarcophagus Lid",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/il/housing_arg_duc_sarcophaguslid001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

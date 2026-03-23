@@ -1,0 +1,9 @@
+{
+  "canonicalId": 5413,
+  "name": "Iron Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "data/images/2r/_n/or/crafting_ore_base_iron_r2.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118179,
+  "name": "Cured Meat Chunk",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/40/0s/kc/housing_bos_exc_meatchuncks004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

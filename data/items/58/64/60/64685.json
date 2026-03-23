@@ -1,0 +1,9 @@
+{
+  "canonicalId": 64685,
+  "name": "Ferrous Salts",
+  "description": "An ingredient for crafting in the Yokudan style.",
+  "icon": "data/images/st/la/s_/crafting_humanoid_daedra_void_salts.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

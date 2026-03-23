@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33754,
+  "name": "White Meat",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/ta/f_/la/crafting_critter_dom_animal_fat.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30165,
+  "name": "Nirnroot",
+  "description": "An ingredient for crafting potions.",
+  "icon": "data/images/1r/_t/oo/crafting_water_plant_nirnroot_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

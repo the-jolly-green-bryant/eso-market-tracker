@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118238,
+  "name": "Tools, Case",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0x/ob/housing_gen_crf_tablepropstoolbox001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

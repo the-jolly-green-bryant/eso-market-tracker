@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27975,
+  "name": "Covenant Lightning Ballista",
+  "description": "Creates a ballista siege weapon whose electrically charged bolt ensnares enemies and drains their Magicka.",
+  "icon": "data/images/10/0_/no/ava_siege_weapon_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

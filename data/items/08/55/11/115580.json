@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115580,
+  "name": "Wood Elf Tent, Sturdy",
+  "description": "This is a large house item.",
+  "icon": "data/images/20/0l/la/housing_bos_cmp_tentsmall002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

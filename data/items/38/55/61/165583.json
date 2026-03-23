@@ -1,0 +1,9 @@
+{
+  "canonicalId": 165583,
+  "name": "Vampiric Rug, Circular Sigil",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0g/ur/housing_skr_inc_vampirerug005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

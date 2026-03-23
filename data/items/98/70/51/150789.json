@@ -1,0 +1,9 @@
+{
+  "canonicalId": 150789,
+  "name": "Dragon's Bile",
+  "description": "The caustic bile of Dragons, of interest to alchemists.",
+  "icon": "data/images/el/ib/_s/crafting_dragons_bile.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

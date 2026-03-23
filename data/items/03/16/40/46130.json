@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46130,
+  "name": "Voidstone Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "data/images/en/ot/sd/crafting_ingot_voidstone.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

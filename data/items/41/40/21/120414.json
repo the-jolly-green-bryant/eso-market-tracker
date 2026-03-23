@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120414,
+  "name": "Breton Tankard, Empty",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/yt/pm/e_/housing_bre_inc_tankard002_empty.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

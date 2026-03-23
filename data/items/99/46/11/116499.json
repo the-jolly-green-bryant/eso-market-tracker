@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116499,
+  "name": "Orcish Statue, Strength",
+  "description": "This is a large house item.",
+  "icon": "data/images/20/0e/ut/housing_orc_exc_heavystatue002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

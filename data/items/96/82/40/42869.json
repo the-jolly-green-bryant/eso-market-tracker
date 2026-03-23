@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42869,
+  "name": "Worms, Saltwater Bait",
+  "description": "Bait best used for fishing in Saltwater.",
+  "icon": "data/images/sm/ro/w_/crafting_worms.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118053,
+  "name": "Common Campfire, Outdoor",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/eg/housing_bre_cmp_campfireringed001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

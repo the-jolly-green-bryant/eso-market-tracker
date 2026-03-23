@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118113,
+  "name": "Drumstick",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/10/0g/el/housing_bre_inc_turkeyleg001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23099,
+  "name": "Leather",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "data/images/3r/_r/eh/crafting_leather_base_boiled_leather_r3.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

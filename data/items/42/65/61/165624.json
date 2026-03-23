@@ -1,0 +1,9 @@
+{
+  "canonicalId": 165624,
+  "name": "Vampiric Brazier, Taloned",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/ei/housing_skr_inc_vampirebrazier001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

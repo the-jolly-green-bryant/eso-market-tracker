@@ -1,0 +1,9 @@
+{
+  "canonicalId": 151820,
+  "name": "Desert Grass, Tall",
+  "description": "This is a standard house item.",
+  "icon": "data/images/60/0s/sa/housing_veg_els_elephantgrass006.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

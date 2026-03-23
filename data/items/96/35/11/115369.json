@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115369,
+  "name": "Nord Torch, Triple",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/op/housing_nor_lsb_torchtripod001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 57587,
+  "name": "Dwemer Frame",
+  "description": "An ingredient for crafting in the Dwemer style.",
+  "icon": "data/images/eb/ut/_y/crafting_dwemer_shiny_tube.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

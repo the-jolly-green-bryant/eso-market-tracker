@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116381,
+  "name": "Orcish Sack, Grain",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/er/housing_orc_con_largebarrel001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

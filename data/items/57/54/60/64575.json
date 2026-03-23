@@ -1,0 +1,9 @@
+{
+  "canonicalId": 64575,
+  "name": "Planar Armor Scraps",
+  "description": "This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.",
+  "icon": "data/images/ro/mr/ar/quest_planararmor.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

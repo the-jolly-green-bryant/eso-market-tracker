@@ -1,0 +1,9 @@
+{
+  "canonicalId": 147595,
+  "name": "Alchemical Apparatus, Condenser",
+  "description": "This is a small house item.",
+  "icon": "data/images/30/0s/po/housing_vrd_inc_telalchemyprops003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

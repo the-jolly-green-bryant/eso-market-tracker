@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27048,
+  "name": "Metheglin",
+  "description": "An ingredient for crafting beverages.",
+  "icon": "data/images/40/0_/tl/crafting_components_malt_004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

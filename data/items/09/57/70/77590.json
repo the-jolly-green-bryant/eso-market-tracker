@@ -1,0 +1,9 @@
+{
+  "canonicalId": 77590,
+  "name": "Nightshade",
+  "description": "An ingredient for alchemy.",
+  "icon": "data/images/10/_e/da/crafting_nightshade_01.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

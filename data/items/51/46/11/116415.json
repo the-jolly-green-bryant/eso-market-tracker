@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116415,
+  "name": "Orcish Banner, Hammer Fist",
+  "description": "This is a large house item.",
+  "icon": "data/images/10/0r/en/housing_orc_lsb_wtgorcbanner001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

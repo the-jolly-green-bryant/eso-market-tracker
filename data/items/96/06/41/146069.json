@@ -1,0 +1,9 @@
+{
+  "canonicalId": 146069,
+  "name": "Target Voriplasm",
+  "description": "This is a large house item. This may be attacked and, when destroyed, will reform. This slime is equivalent to an exceptionally hardy veteran dungeon boss.",
+  "icon": "data/images/10/_m/sa/targetdummy_voriplasm_01.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

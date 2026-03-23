@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135159,
+  "name": "Pulverized Antimony",
+  "description": "Ten of these items can be refined into Antimony, which is used to make Jewelry with the Healthy Trait.",
+  "icon": "data/images/yn/om/it/jewelrycrafting_trait_raw_antimony.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

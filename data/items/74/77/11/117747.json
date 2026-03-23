@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117747,
+  "name": "Redguard Tankard, Empty",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/yt/pm/e_/housing_red_inc_vartankard002_empty.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

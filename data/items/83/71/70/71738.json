@@ -1,0 +1,9 @@
+{
+  "canonicalId": 71738,
+  "name": "Eagle Feather",
+  "description": "An ingredient for crafting in the Aldmeri Dominion style.",
+  "icon": "data/images/no/in/im/crafting_style_item_aldmeri_dominion.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

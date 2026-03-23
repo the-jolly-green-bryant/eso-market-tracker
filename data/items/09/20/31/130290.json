@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130290,
+  "name": "Stump, Rotten Hollow",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0p/mu/housing_tre_ded_mrkrottedstump002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

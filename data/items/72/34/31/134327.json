@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134327,
+  "name": "Clockwork Switch, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0l/la/housing_cwc_duc_controlpanelsmall002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

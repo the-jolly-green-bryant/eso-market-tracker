@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126562,
+  "name": "Dwarven Crystal Mechanism",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0d/na/housing_dwe_inc_crystalstand001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

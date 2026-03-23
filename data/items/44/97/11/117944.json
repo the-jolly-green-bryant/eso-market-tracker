@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117944,
+  "name": "Rough Fork, Common",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/10/0k/ro/housing_bre_inc_fork001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

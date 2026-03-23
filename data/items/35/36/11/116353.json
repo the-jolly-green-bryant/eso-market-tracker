@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116353,
+  "name": "Orcish Bedding, Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/eb/housing_orc_duc_wtgbed001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

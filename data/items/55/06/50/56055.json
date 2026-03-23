@@ -1,0 +1,9 @@
+{
+  "canonicalId": 56055,
+  "name": "Rawhide Bracers",
+  "description": "",
+  "icon": "data/images/d_/sd/na/gear_breton_medium_hands_d.png",
+  "trait": 25,
+  "variantOf": 55559,
+  "bindType": -1
+}

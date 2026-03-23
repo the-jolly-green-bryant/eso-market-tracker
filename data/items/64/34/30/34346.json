@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34346,
+  "name": "Ginkgo",
+  "description": "An ingredient for crafting beverages.",
+  "icon": "data/images/50/0_/ni/crafting_components_gin_005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

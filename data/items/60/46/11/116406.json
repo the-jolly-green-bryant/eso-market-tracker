@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116406,
+  "name": "Orcish Goblet, Stone",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0p/uc/housing_orc_inc_cup001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

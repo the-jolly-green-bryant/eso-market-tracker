@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134278,
+  "name": "Clockwork Alchemy Station",
+  "description": "When placed in your home, allows you to craft Alchemy items.",
+  "icon": "data/images/10/0g/ni/housing_cwc_crf_tablealchemycrafting001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

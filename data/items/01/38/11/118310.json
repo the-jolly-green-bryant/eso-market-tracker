@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118310,
+  "name": "Barrel, Green Dye",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0c/le/housing_gen_crf_dyestationbarrelc001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

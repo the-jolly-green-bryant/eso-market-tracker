@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27965,
+  "name": "Pact Meatbag Catapult",
+  "description": "Creates a catapult siege weapon that fires a bag of diseased meat at its targets.",
+  "icon": "data/images/30/0_/iu/ava_siege_ui_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

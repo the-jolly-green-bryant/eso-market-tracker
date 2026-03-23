@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33267,
+  "name": "Minor Soul Gem",
+  "description": "Used to fully charge weapons up to Level 19, and revive up to Level 19 players.",
+  "icon": "data/images/de/ll/if/soulgem_002_filled.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

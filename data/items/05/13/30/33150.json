@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33150,
+  "name": "Flint",
+  "description": "An ingredient for crafting in the Argonian style.",
+  "icon": "data/images/20/0_/f_/crafting_smith_potion_standard_f_002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

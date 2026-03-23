@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23143,
+  "name": "Iron Hide Scraps",
+  "description": "Ten of these items can be refined to make iron hide.",
+  "icon": "data/images/ed/ih/_n/crafting_scraps_iron_hide.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

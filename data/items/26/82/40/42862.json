@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42862,
+  "name": "Trodh",
+  "description": "A common fish found in foul waters. Use to filet for provisioning",
+  "icon": "data/images/hs/if/re/crafting_slaughterfish.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 76894,
+  "name": "Crafting Motif 38: Draugr Style",
+  "description": "Use to learn the Draugr crafting style. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Draugr Outfit Styles.",
+  "icon": "data/images/10/0_/ko/quest_book_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

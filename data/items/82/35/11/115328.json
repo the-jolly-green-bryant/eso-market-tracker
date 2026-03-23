@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115328,
+  "name": "Dark Elf Kettle Cooker",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/st/op/housing_dun_inc_meatpots02.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

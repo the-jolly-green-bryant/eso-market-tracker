@@ -1,0 +1,9 @@
+{
+  "canonicalId": 125601,
+  "name": "Mushroom, Stinkcap Sprout",
+  "description": "This is a standard house item.",
+  "icon": "data/images/31/0p/ac/housing_veg_fug_vrdinkcap013.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

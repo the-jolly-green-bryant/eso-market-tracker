@@ -1,0 +1,9 @@
+{
+  "canonicalId": 81995,
+  "name": "Oxblood Fungus Spore",
+  "description": "Ten of these items can be refined into Oxblood Fungus, which is used to make Minotaur equipment.",
+  "icon": "data/images/1r/_r/ua/crafting_style_item_minotaur_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

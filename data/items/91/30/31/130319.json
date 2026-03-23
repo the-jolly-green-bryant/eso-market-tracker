@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130319,
+  "name": "Crop, Wheat Stack",
+  "description": "This is a small house item.",
+  "icon": "data/images/70/0s/kl/housing_veg_crp_wheatstalks007.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

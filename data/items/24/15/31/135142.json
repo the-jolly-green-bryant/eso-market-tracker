@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135142,
+  "name": "Silver Ounce",
+  "description": "An ingredient for crafting jewelry.",
+  "icon": "data/images/de/ni/fe/crafting_silver_refined.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

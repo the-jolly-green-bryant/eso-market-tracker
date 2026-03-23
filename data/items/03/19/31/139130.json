@@ -1,0 +1,9 @@
+{
+  "canonicalId": 139130,
+  "name": "Saplings, Mangrove",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0e/vo/housing_tre_sum_redmangrove005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

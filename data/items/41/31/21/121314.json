@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121314,
+  "name": "Target Skeleton, Robust Humanoid",
+  "description": "This is a standard house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to an exceptionally hardy veteran dungeon boss.",
+  "icon": "data/images/10/_d/io/housing_targetdummy_robusthumanoid_01.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116420,
+  "name": "Orcish Throne, Pedestal",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/no/housing_orc_duc_wtgthrone001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118883,
+  "name": "Bone, Forearm",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0m/ra/housing_gen_exc_skeletonforearm001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

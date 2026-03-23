@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116412,
+  "name": "Orcish Brazier, Pedestal",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/cn/housing_orc_lsb_sconce001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 94120,
+  "name": "Imperial Rug, Stendarr",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0d/nu/housing_imp_inc_rugstendarrround003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

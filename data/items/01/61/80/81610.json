@@ -1,0 +1,9 @@
+{
+  "canonicalId": 81610,
+  "name": "Exemplary Nirnhoned Inferno Staff",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Inferno Staff.",
+  "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
+  "trait": 25,
+  "variantOf": null,
+  "bindType": -1
+}

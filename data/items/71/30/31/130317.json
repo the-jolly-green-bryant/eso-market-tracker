@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130317,
+  "name": "Pumpkin, Sickly",
+  "description": "This is a small house item.",
+  "icon": "data/images/20/0e/gr/housing_veg_crp_pumpkinlarge002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

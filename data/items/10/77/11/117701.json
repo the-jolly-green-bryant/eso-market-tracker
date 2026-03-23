@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117701,
+  "name": "Redguard Cup, Full",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/ll/uf/_1/housing_red_inc_varcup001_full.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

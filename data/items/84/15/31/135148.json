@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135148,
+  "name": "Ancient Iridium Plating",
+  "description": "Grants 10 Iridium Plating when claimed.",
+  "icon": "data/images/mu/id/ir/jewelrycrafting_booster_dingy_iridium.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

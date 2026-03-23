@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115518,
+  "name": "Argonian Mortar, Bone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0r/at/housing_arg_inc_mortar002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

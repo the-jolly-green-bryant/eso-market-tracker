@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23134,
+  "name": "Quicksilver Ore",
+  "description": "Ten of these items can be refined to make quicksilver ingots.",
+  "icon": "data/images/en/ot/sn/crafting_ore_moonstone.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

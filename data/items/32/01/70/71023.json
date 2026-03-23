@@ -1,0 +1,9 @@
+{
+  "canonicalId": 71023,
+  "name": "Invitation to Orsinium",
+  "description": "A letter from Forge-Mother Alga of Orsinium inviting you to help the king in Wrothgar.",
+  "icon": "data/images/10/0_/re/quest_letter_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

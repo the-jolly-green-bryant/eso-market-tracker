@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120831,
+  "name": "Blue Crystal Cluster",
+  "description": "This is a standard house item.",
+  "icon": "data/images/90/0_/sn/housing_cav_min_crystalformations_009.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

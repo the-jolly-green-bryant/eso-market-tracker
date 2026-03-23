@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118327,
+  "name": "Provisioning Station",
+  "description": "When placed in your home, allows you to craft Provisioning items.",
+  "icon": "data/images/10/0e/ri/housing_gen_crf_portablecampfire001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

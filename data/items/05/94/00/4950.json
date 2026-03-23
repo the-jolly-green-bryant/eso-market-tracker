@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4950,
+  "name": "Propylon Index ZTestContent",
+  "description": "Index for activating propylon obelisks",
+  "icon": "data/images/gn/is/si/icon_missing.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

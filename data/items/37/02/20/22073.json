@@ -1,0 +1,9 @@
+{
+  "canonicalId": 22073,
+  "name": "Stolen Goods",
+  "description": "This large bag is filled with pilfered items.",
+  "icon": "data/images/20/0_/re/quest_container_002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

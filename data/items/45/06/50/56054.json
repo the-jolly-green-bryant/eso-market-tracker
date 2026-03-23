@@ -1,0 +1,9 @@
+{
+  "canonicalId": 56054,
+  "name": "Rawhide Boots",
+  "description": "",
+  "icon": "data/images/d_/te/ef/gear_breton_medium_feet_d.png",
+  "trait": 25,
+  "variantOf": 55542,
+  "bindType": -1
+}

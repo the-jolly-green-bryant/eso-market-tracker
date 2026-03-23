@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117958,
+  "name": "Rough Crate, Empty",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0d/oo/housing_red_exc_varcargocratewood002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 45309,
+  "name": "Iron Greaves",
+  "description": "",
+  "icon": "data/images/d_/sg/el/gear_breton_heavy_legs_d.png",
+  "trait": 10,
+  "variantOf": 44978,
+  "bindType": -1
+}

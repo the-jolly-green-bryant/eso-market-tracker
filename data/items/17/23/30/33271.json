@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33271,
+  "name": "Soul Gem",
+  "description": "Used to revive players and companions, or to fully charge enchantments on weapons of any level.",
+  "icon": "data/images/de/ll/if/soulgem_006_filled.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

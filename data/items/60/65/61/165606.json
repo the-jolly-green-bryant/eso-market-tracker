@@ -1,0 +1,9 @@
+{
+  "canonicalId": 165606,
+  "name": "Vampiric Wall Mirror",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/la/housing_skr_fur_vampiremirrorwall001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115052,
+  "name": "Imperial Simple Lamppost",
+  "description": "This is a standard house item.",
+  "icon": "data/images/40/0t/so/housing_col_lsb_lamppost004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

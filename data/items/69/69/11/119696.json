@@ -1,0 +1,9 @@
+{
+  "canonicalId": 119696,
+  "name": "Master Alchemy Writ",
+  "description": "An exclusive, secret contract for a specific concoction.",
+  "icon": "data/images/ym/eh/cl/master_writ_alchemy.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

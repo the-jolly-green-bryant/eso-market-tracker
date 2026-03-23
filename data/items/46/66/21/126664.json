@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126664,
+  "name": "Dwarven Vase, Forged",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0e/sa/housing_dwe_inc_vase001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

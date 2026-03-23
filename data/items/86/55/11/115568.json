@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115568,
+  "name": "Wood Elf Basin, Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0n/is/housing_bos_str_fountainbasin001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

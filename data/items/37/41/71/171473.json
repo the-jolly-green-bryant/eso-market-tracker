@@ -1,0 +1,9 @@
+{
+  "canonicalId": 171473,
+  "name": "Runebox: Ebonheart Breton Terrier Pet",
+  "description": "Contains an Ebonheart Breton Terrier Pet. This container can be traded, mailed, and posted to Guild Banks and Guild Stores - however, once opened, the Runebox (and its contents) are bound to your account.",
+  "icon": "data/images/10/0_/hp/container_sealed_polymorph_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

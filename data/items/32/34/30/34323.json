@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34323,
+  "name": "Corn",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/nr/oc/_g/crafting_corn.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 151733,
+  "name": "Elsweyr Streetlight, Inlaid Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0t/hg/housing_els_str_wallpostlight001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115610,
+  "name": "Wood Elf Trough, Slop",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0s/ni/housing_bos_inc_beerfixins001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

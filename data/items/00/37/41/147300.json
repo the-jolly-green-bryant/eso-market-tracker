@@ -1,0 +1,9 @@
+{
+  "canonicalId": 147300,
+  "name": "Revelry Pie",
+  "description": "Join in the festivities by hurling your Alliance's pie at friends and enemies alike. What are you wearing for the Jester's Festival? Revelry pie!",
+  "icon": "data/images/ei/py/re/event_jestersfestival_revelerypie.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

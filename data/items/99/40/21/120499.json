@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120499,
+  "name": "Sapling, Tender Harvest",
+  "description": "This is a standard house item.",
+  "icon": "data/images/40/0_/sg/housing_veg_bsh_rift_smallsaplings_004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135150,
+  "name": "Ancient Chromium Plating",
+  "description": "Grants 10 Chromium Plating when claimed.",
+  "icon": "data/images/mu/im/or/jewelrycrafting_booster_dingy_chromium.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

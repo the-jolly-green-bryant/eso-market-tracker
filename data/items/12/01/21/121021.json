@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121021,
+  "name": "Plants, Dry Underbrush",
+  "description": "This is a small house item.",
+  "icon": "data/images/50/0r/et/housing_veg_bsh_sapling_cluster005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

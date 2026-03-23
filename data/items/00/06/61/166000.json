@@ -1,0 +1,9 @@
+{
+  "canonicalId": 166000,
+  "name": "Flower Patch, Hawkmoth Cabbage",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0a/na/housing_veg_skr_nicotiana005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

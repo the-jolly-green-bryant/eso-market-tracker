@@ -1,0 +1,9 @@
+{
+  "canonicalId": 114405,
+  "name": "High Elf Brazier, Winged",
+  "description": "This is a standard house item.",
+  "icon": "data/images/ti/l1/00/housing_alt_lsb_brazier001lit.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

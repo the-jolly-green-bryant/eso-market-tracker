@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116404,
+  "name": "Orcish Footlocker, Buckled",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0k/nu/housing_orc_fur_wtgtrunk001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

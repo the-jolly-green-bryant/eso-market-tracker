@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116421,
+  "name": "Orcish Throne, Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0e/no/housing_orc_duc_wtgthrone003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

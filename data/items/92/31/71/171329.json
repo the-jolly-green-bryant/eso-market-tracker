@@ -1,0 +1,9 @@
+{
+  "canonicalId": 171329,
+  "name": "Molten War Torte",
+  "description": "This consumable can be used only by players level 10 and above.",
+  "icon": "data/images/10/0_/do/ava_skill_boost_food_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

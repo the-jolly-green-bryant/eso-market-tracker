@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42875,
+  "name": "Chub, Saltwater Bait",
+  "description": "Found in foul water, best used for fishing in saltwater.",
+  "icon": "data/images/li/at/_h/crafting_critter_fish_tail.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

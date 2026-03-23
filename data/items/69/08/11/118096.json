@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118096,
+  "name": "Bread, Plain",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/20/0d/ae/housing_bre_inc_bread002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118901,
+  "name": "Sea Sponge",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0e/gn/housing_veg_aqa_seasponge001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

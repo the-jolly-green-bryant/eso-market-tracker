@@ -1,0 +1,9 @@
+{
+  "canonicalId": 75358,
+  "name": "Ichor",
+  "description": "An Ingredient for crafting level 10 poisons",
+  "icon": "data/images/2r/_2/_l/crafting_potion_base_oil_2_r2.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

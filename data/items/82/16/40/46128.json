@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46128,
+  "name": "Galatite Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "data/images/et/it/al/crafting_ingot_galatite.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

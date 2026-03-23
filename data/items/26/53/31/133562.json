@@ -1,0 +1,9 @@
+{
+  "canonicalId": 133562,
+  "name": "Clockerfish",
+  "description": "A fabricant fish. Use to harvest its curious meats for provisioning.",
+  "icon": "data/images/hs/if/_k/crafting_fishing_clockwork_fish.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

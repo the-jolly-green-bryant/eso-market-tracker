@@ -1,0 +1,9 @@
+{
+  "canonicalId": 87709,
+  "name": "Imperial Brazier, Spiked",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0r/ei/housing_cld_inc_brazier003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

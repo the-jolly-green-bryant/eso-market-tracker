@@ -1,0 +1,9 @@
+{
+  "canonicalId": 166701,
+  "name": "Cartographer's Vest",
+  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Coat collectible fragment.",
+  "icon": "data/images/ta/oc/_s/quest_cartographers_coat.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

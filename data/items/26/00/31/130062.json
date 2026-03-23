@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130062,
+  "name": "Scarab Elytra",
+  "description": "Ten of these items can be refined into Polished Scarab Elytra, which is used to make Redoran equipment.",
+  "icon": "data/images/1r/_n/ar/crafting_style_item_redoran_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

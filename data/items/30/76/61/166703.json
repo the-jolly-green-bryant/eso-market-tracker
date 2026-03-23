@@ -1,0 +1,9 @@
+{
+  "canonicalId": 166703,
+  "name": "Cartographer's Gloves",
+  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Gloves collectible fragment.",
+  "icon": "data/images/se/vo/lg/quest_cartographers_gloves.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118175,
+  "name": "Shutters, Hinged Lattice",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0m/ui/housing_red_str_varshuttersmedium005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

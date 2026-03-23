@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115360,
+  "name": "Nord Bench, Braced",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0h/cn/housing_nor_fur_bench001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

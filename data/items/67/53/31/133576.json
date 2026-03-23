@@ -1,0 +1,9 @@
+{
+  "canonicalId": 133576,
+  "name": "Transmute Station",
+  "description": "When placed in your home, allows you to transmute the traits on your items.",
+  "icon": "data/images/10/0t/ia/housing_cwc_crf_housingretrait001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

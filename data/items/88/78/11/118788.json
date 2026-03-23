@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118788,
+  "name": "Skeletal Remains, Prone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/ni/housing_coh_inc_skeletonsupine001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134276,
+  "name": "Clockwork Dye Station",
+  "description": "When placed in your home, allows you to dye your equipment and customize your outfits.",
+  "icon": "data/images/10/0n/oi/housing_cwc_crf_dyestation001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

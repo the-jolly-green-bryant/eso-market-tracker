@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134687,
+  "name": "Snake Fang",
+  "description": "An ingredient for crafting in the Tsaesci style.",
+  "icon": "data/images/sg/na/f_/crafting_lizard_fangs.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

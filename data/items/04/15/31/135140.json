@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135140,
+  "name": "Copper Ounce",
+  "description": "An ingredient for crafting jewelry.",
+  "icon": "data/images/de/ni/fe/crafting_copper_refined.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

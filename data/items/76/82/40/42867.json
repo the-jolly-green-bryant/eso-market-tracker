@@ -1,0 +1,9 @@
+{
+  "canonicalId": 42867,
+  "name": "Dhufish",
+  "description": "A common fish found in saltwater. Use to filet for provisioning.",
+  "icon": "data/images/ra/gn/ir/crafting_fishing_merringar.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

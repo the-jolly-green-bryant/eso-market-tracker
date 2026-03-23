@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23204,
+  "name": "Amethyst",
+  "description": "Can be used to enhance weapons.",
+  "icon": "data/images/3r/_t/sy/crafting_jewelry_base_amethyst_r3.png",
+  "trait": 2,
+  "variantOf": null,
+  "bindType": -1
+}

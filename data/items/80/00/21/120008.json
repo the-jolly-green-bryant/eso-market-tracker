@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120008,
+  "name": "Soul Gem, Lesser",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0r/es/housing_gen_inc_soulgemlesser001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

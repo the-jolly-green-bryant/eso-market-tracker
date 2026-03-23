@@ -1,0 +1,9 @@
+{
+  "canonicalId": 145456,
+  "name": "Plant, Hist Bulb",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0y/fa/housing_veg_fan_mrkhistleafy001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

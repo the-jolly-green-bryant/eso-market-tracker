@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23203,
+  "name": "Chysolite",
+  "description": "Can be used to enhance weapons.",
+  "icon": "data/images/80/0_/no/crafting_runecrafter_potion_008.png",
+  "trait": 1,
+  "variantOf": null,
+  "bindType": -1
+}

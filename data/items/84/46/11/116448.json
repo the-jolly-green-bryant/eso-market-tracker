@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116448,
+  "name": "Orcish Mug, Horn",
+  "description": "This is a small house item.",
+  "icon": "data/images/20/0e/no/housing_orc_inc_cupbone002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

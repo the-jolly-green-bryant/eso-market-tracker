@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34305,
+  "name": "Pumpkin",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/ni/kp/mu/crafting_pumpkin.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

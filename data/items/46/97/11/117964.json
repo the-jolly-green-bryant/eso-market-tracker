@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117964,
+  "name": "Rough Firepit, Doused",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0t/uo/housing_bre_cmp_campfireburntout001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

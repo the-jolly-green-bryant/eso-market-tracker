@@ -1,0 +1,9 @@
+{
+  "canonicalId": 119781,
+  "name": "Blacksmithing Station",
+  "description": "When placed in your home, allows you to craft Blacksmithing items.",
+  "icon": "data/images/10/0h/ti/housing_gen_crf_portableblacksmith001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

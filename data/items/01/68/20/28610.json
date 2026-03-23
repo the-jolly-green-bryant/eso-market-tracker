@@ -1,0 +1,9 @@
+{
+  "canonicalId": 28610,
+  "name": "Jazbay Grapes",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/se/pa/rg/crafting_grapes.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

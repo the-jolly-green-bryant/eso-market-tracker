@@ -1,0 +1,9 @@
+{
+  "canonicalId": 119822,
+  "name": "Attunable Woodworking Station",
+  "description": "Use when at an Item Set Crafting Station to create a woodworking station for that item set.",
+  "icon": "data/images/10/0g/ni/housing_gen_crf_portabletablewoodworking001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

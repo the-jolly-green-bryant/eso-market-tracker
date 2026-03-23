@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135144,
+  "name": "Electrum Ounce",
+  "description": "An ingredient for crafting jewelry.",
+  "icon": "data/images/de/ni/fe/crafting_electrum_refined.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134270,
+  "name": "Cave Deposit, Large Double-Sided",
+  "description": "This is a large house item.",
+  "icon": "data/images/20/0t/is/housing_orc_duc_mineraldeposit002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

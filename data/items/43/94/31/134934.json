@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134934,
+  "name": "Rocks, Basalt Chunks",
+  "description": "This is a standard house item.",
+  "icon": "data/images/60/0l/la/housing_rok_gry_mphsmall006.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

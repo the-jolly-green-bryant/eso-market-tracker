@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130078,
+  "name": "Soul Gem, Single",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/80/0m/eg/housing_cld_inc_soulgem008.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

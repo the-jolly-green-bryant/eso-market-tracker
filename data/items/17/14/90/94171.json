@@ -1,0 +1,9 @@
+{
+  "canonicalId": 94171,
+  "name": "Imperial Counter, Corner",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/en/housing_nib_fur_merchantcountercorner001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

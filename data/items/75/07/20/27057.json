@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27057,
+  "name": "Cheese",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/10/0_/ta/quest_trollfat_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

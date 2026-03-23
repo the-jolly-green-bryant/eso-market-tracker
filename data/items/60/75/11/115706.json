@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115706,
+  "name": "Khajiit Tile, Full Moons",
+  "description": "This is a small house item.",
+  "icon": "data/images/20/0e/li/housing_kha_exc_moontile002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

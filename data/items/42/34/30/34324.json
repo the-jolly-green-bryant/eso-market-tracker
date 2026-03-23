@@ -1,0 +1,9 @@
+{
+  "canonicalId": 34324,
+  "name": "Carrots",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/st/or/ra/crafting_carrots.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

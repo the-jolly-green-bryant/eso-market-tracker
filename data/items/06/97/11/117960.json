@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117960,
+  "name": "Rough Container, Cargo",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0g/ld/housing_red_exc_varcargocratewoodlg002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

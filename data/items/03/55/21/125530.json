@@ -1,0 +1,9 @@
+{
+  "canonicalId": 125530,
+  "name": "Dwarven Pipeline Cap, Sealed",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0p/ac/housing_dwe_duc_pipecap002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

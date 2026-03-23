@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118178,
+  "name": "Cured Meat Chunks",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0s/kc/housing_bos_exc_meatchuncks003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

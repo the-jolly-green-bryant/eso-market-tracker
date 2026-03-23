@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130058,
+  "name": "Raw Bonemold Resin",
+  "description": "Ten of these items can be refined into Refined Bonemold Resin, which is used to make Hlaalu equipment.",
+  "icon": "data/images/1r/_u/la/crafting_style_item_hlaalu_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

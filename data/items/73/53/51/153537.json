@@ -1,0 +1,9 @@
+{
+  "canonicalId": 153537,
+  "name": "Runebox: Siegemaster's Uniform",
+  "description": "Contains a Siegemaster's Uniform. This container can be traded, mailed, and posted to Guild Banks and Guild Stores - however, once opened, the Runebox (and its contents) are bound to your account.",
+  "icon": "data/images/10/0_/hp/container_sealed_polymorph_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

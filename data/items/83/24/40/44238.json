@@ -1,0 +1,9 @@
+{
+  "canonicalId": 44238,
+  "name": "Dominion Mage Mercenary Contract",
+  "description": "This contract grants you the services of a mercenary who will defend a location of your choice for a short period of time.",
+  "icon": "data/images/10/0_/se/notes_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

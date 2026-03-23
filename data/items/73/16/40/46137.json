@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46137,
+  "name": "Superb Hide",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "data/images/de/la/cs/crafting_hide_scaled.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

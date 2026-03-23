@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33255,
+  "name": "Moonstone",
+  "description": "An ingredient for crafting in the Khajiit style.",
+  "icon": "data/images/10/0_/se/crafting_smith_plug_sp_names_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

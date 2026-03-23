@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116484,
+  "name": "Orcish Funeral Pyre",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/ry/housing_orc_exc_funeralpyre001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

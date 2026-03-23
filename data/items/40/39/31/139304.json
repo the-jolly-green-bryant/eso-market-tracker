@@ -1,0 +1,9 @@
+{
+  "canonicalId": 139304,
+  "name": "Display Case, Specimen",
+  "description": "This is a standard house item.",
+  "icon": "data/images/70/0e/sa/housing_sum_inc_reliccase007.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

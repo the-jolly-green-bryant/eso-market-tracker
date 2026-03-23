@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117978,
+  "name": "Rough Rod, Fishing",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/or/housing_gen_exc_fishingrod001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

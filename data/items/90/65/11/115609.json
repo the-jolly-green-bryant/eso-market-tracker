@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115609,
+  "name": "Wood Elf Totem, Skull",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0m/et/housing_bos_exc_totem003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

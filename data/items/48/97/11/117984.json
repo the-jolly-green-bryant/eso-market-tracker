@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117984,
+  "name": "Rough Block, Dark Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0k/ci/housing_imp_duc_wallbrick002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

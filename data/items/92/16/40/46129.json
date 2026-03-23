@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46129,
+  "name": "Quicksilver Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "data/images/en/ot/sn/crafting_ingot_moonstone.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

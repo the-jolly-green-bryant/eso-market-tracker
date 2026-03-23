@@ -1,0 +1,9 @@
+{
+  "canonicalId": 145547,
+  "name": "Plant, Moorstalk Hive",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/vi/housing_cre_exc_mrkmoorhive001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

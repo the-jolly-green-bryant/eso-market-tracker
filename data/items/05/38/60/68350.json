@@ -1,0 +1,9 @@
+{
+  "canonicalId": 68350,
+  "name": "Cyan Tincture",
+  "description": "A potion of curious origin. Rumoured to aid spellcasting.",
+  "icon": "data/images/10/0_/en/quest_wine_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118060,
+  "name": "Sack of Grain",
+  "description": "This is a small house item.",
+  "icon": "data/images/70/0k/ca/housing_bre_con_sack007.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

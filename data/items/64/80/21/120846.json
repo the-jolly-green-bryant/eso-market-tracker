@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120846,
+  "name": "Dock Rope Wheel",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/ee/housing_bre_csb_ship001_ropewheel001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

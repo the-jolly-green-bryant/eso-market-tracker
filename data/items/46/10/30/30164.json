@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30164,
+  "name": "Columbine",
+  "description": "An ingredient for crafting potions.",
+  "icon": "data/images/1r/_e/ni/crafting_flower_columbine_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

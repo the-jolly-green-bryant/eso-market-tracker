@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46152,
+  "name": "Palladium",
+  "description": "An ingredient for crafting in the Ancient Elf style.",
+  "icon": "data/images/mu/id/al/crafting_ore_palladium.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

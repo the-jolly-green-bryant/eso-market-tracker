@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115422,
+  "name": "Nord Trunk, Buckled",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0t/se/housing_nor_duc_chest005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

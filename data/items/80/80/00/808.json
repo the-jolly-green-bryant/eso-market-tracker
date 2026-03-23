@@ -1,0 +1,9 @@
+{
+  "canonicalId": 808,
+  "name": "Iron Ore",
+  "description": "Ten of these items can be refined to make iron ingots.",
+  "icon": "data/images/1r/_n/or/crafting_ore_base_iron_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

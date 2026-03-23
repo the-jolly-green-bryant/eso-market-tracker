@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26962,
+  "name": "Old Pepper",
+  "description": "This item is no longer used in crafting, and should be sold.",
+  "icon": "data/images/30/0_/da/crafting_components_bread_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

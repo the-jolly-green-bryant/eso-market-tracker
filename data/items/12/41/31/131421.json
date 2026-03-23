@@ -1,0 +1,9 @@
+{
+  "canonicalId": 131421,
+  "name": "Saplings, Withered Thicket",
+  "description": "This is a standard house item.",
+  "icon": "data/images/40/0g/ni/housing_tre_ded_coldhsapling004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

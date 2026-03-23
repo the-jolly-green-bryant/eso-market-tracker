@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30357,
+  "name": "Lockpick",
+  "description": "Used to open many locked chests and doors. Expended upon use.",
+  "icon": "data/images/kc/ip/kc/lockpick.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

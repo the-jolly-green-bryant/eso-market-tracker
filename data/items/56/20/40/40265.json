@@ -1,0 +1,9 @@
+{
+  "canonicalId": 40265,
+  "name": "Old Wine Grapes",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "data/images/50/0_/ec/crafting_components_spice_005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

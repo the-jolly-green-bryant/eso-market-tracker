@@ -1,0 +1,9 @@
+{
+  "canonicalId": 131420,
+  "name": "Shrub, Glowing Thistle",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0h/su/housing_veg_bsh_thistlebush002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

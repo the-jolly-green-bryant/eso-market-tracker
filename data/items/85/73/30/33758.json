@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33758,
+  "name": "Potato",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/10/0_/ge/crafting_components_veg_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

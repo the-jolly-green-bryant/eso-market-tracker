@@ -1,0 +1,9 @@
+{
+  "canonicalId": 121522,
+  "name": "Pliant Ferrofungus",
+  "description": "Ten of these items can be refined into Wrought Ferrofungus, which is used to make Telvanni equipment.",
+  "icon": "data/images/1r/_i/nn/crafting_style_item_telvanni_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

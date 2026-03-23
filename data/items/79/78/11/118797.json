@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118797,
+  "name": "Skull, Dragon",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/lu/housing_gen_exc_dragonskull001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33220,
+  "name": "Raw Void Bloom",
+  "description": "Ten of these items can be refined to make void cloth.",
+  "icon": "data/images/mo/ol/bd/crafting_flower_voidbloom.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 171765,
+  "name": "Markarth Wall, Windowed Stone",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0w/od/housing_skr_str_markwindow002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

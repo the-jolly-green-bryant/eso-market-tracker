@@ -1,0 +1,9 @@
+{
+  "canonicalId": 51688,
+  "name": "Crafting Motif 14: Daedric Style",
+  "description": "Use to learn the Daedric crafting style. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Daedric Outfit Styles.",
+  "icon": "data/images/10/0_/ko/quest_book_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33260,
+  "name": "Petty Soul Gem (Empty)",
+  "description": "Used to capture Level 1 - 9 souls.",
+  "icon": "data/images/yt/pm/e_/soulgem_001_empty.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

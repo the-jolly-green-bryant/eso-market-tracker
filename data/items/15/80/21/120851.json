@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120851,
+  "name": "Gallows",
+  "description": "This is a large house item.",
+  "icon": "data/images/10/0d/et/housing_bre_exc_gibbetanimated001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 57717,
+  "name": "Exemplary Nirnhoned Robe",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Robe.",
+  "icon": "data/images/d_/eb/or/gear_breton_light_robe_d.png",
+  "trait": 25,
+  "variantOf": null,
+  "bindType": -1
+}

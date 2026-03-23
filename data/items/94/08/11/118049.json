@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118049,
+  "name": "Common Cage, Hunting",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/at/housing_red_exc_dbhcagemetal001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

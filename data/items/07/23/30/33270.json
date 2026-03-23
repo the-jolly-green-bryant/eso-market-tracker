@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33270,
+  "name": "Greater Soul Gem",
+  "description": "Used to fully charge weapons up to Level 49, and revive up to Level 49 players.",
+  "icon": "data/images/de/ll/if/soulgem_005_filled.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

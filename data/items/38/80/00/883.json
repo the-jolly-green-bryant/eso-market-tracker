@@ -1,0 +1,9 @@
+{
+  "canonicalId": 883,
+  "name": "Natural Water",
+  "description": "An Ingredient for crafting level 3 potions",
+  "icon": "data/images/10/0_/ro/crafting_forester_potion_vendor_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

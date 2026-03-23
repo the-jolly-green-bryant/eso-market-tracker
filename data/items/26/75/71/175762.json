@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175762,
+  "name": "Dwarven Hatch, Sealed",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/la/housing_dwe_inc_spiderhatchwall001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

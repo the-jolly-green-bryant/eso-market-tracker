@@ -1,0 +1,9 @@
+{
+  "canonicalId": 119680,
+  "name": "Master Blacksmithing Writ",
+  "description": "An exclusive, secret contract for heavy armor of rare quality.",
+  "icon": "data/images/gn/ih/ti/master_writ_blacksmithing.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

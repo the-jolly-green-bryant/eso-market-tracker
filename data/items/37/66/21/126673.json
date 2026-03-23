@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126673,
+  "name": "Dwarven Candles, Cup",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/20/0e/ta/housing_dwe_inc_candleplate002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

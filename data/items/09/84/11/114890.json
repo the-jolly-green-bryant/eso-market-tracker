@@ -1,0 +1,9 @@
+{
+  "canonicalId": 114890,
+  "name": "Bast",
+  "description": "Used in crafting cloth furniture.",
+  "icon": "data/images/re/bi/f_/crafting_furniture_base_bast_fiber.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134570,
+  "name": "Snow Pile",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/li/housing_orc_exc_bgsnowpile001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

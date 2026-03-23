@@ -1,0 +1,9 @@
+{
+  "canonicalId": 135156,
+  "name": "Antimony",
+  "description": "Can be used to enhance jewelry.",
+  "icon": "data/images/yn/om/it/jewelrycrafting_trait_refined_antimony.png",
+  "trait": 21,
+  "variantOf": null,
+  "bindType": -1
+}

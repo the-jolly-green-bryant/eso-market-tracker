@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118288,
+  "name": "Deer Carcass, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0s/sa/housing_orc_inc_deercarcass001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

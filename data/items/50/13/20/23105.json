@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23105,
+  "name": "Ebony Ore",
+  "description": "Ten of these items can be refined to make ebony ingots.",
+  "icon": "data/images/2r/_y/no/crafting_ore_base_ebony_r2.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

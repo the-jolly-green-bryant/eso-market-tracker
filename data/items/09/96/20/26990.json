@@ -1,0 +1,9 @@
+{
+  "canonicalId": 26990,
+  "name": "Old Glace Viande",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "data/images/40/0_/ep/consumable_potion_007_type_004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

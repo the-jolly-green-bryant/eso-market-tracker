@@ -1,0 +1,9 @@
+{
+  "canonicalId": 145491,
+  "name": "Static Pitcher",
+  "description": "This exotic plant emits electricity when approached, dealing Shock Damage and draining Magicka and Stamina from targets in the area.",
+  "icon": "data/images/50/0t/na/housing_veg_flr_mrkpitcherplant005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

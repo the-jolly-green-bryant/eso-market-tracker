@@ -1,0 +1,9 @@
+{
+  "canonicalId": 150669,
+  "name": "Chaurus Egg",
+  "description": "An ingredient for crafting potions.",
+  "icon": "data/images/sg/ge/_s/crafting_chaurus_eggs.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

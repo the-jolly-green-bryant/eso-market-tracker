@@ -1,0 +1,9 @@
+{
+  "canonicalId": 94116,
+  "name": "Imperial Cauldron, Pitch-Filled",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/io/housing_imp_exc_boilingoil001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 5820,
+  "name": "High Iron Ore",
+  "description": "Ten of these items can be refined to make steel ingots.",
+  "icon": "data/images/40/0_/tn/crafting_heavy_armor_component_004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

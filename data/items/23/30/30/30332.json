@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30332,
+  "name": "Book of Notes",
+  "description": "This bound notebook is filled with scrawls in an undecipherable hand.",
+  "icon": "data/images/30/0_/ko/quest_book_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120848,
+  "name": "Fishing Pole Rack",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/ae/housing_gen_exc_fishinggear001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

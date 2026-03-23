@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4570,
+  "name": "Pristine Water",
+  "description": "An Ingredient for crafting level 20 potions",
+  "icon": "data/images/3r/_2/_r/crafting_potion_base_water_2_r3.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

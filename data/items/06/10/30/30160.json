@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30160,
+  "name": "Bugloss",
+  "description": "An ingredient for crafting potions.",
+  "icon": "data/images/1r/_s/so/crafting_flower_vipers_bugloss_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

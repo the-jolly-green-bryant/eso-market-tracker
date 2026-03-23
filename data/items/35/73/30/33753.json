@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33753,
+  "name": "Fish",
+  "description": "An ingredient for crafting food.",
+  "icon": "data/images/te/ll/if/crafting_cooking_fish_fillet.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

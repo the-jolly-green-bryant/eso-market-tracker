@@ -1,0 +1,9 @@
+{
+  "canonicalId": 54180,
+  "name": "Mastic",
+  "description": "Improve quality from purple to gold.",
+  "icon": "data/images/ci/ts/am/crafting_wood_mastic.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

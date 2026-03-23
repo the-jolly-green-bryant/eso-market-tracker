@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126675,
+  "name": "Dwarven Candlestick, Laboratory",
+  "description": "This is a small house item.",
+  "icon": "data/images/20/0k/ci/housing_dwe_inc_candlestick002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

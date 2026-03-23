@@ -1,0 +1,9 @@
+{
+  "canonicalId": 82002,
+  "name": "Grinstones",
+  "description": "This item can only be found by deconstructing Grim Harlequin-style equipment.",
+  "icon": "data/images/2r/_n/iu/crafting_style_item_grim_harlequin_r2.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

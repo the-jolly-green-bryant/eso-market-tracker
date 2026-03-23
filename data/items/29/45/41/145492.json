@@ -1,0 +1,9 @@
+{
+  "canonicalId": 145492,
+  "name": "Gas Blossom",
+  "description": "This exotic plant sprays gas when approached, dealing Poison Damage to targets in the area.",
+  "icon": "data/images/30/0t/na/housing_veg_flr_mrktentacleplant003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

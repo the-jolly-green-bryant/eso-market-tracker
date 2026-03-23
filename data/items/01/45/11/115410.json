@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115410,
+  "name": "Nord Trestle, Tied",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0e/lt/housing_nor_fur_tabletrestle002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

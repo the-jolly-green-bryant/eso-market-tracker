@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33256,
+  "name": "Corundum",
+  "description": "An ingredient for crafting in the Nord style.",
+  "icon": "data/images/mu/dn/ur/crafting_metals_corundum.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

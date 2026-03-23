@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116463,
+  "name": "Orcish Brazier, Bordered",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/ei/housing_orc_lsb_wtgbrazier001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

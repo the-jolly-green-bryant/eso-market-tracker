@@ -1,0 +1,9 @@
+{
+  "canonicalId": 68353,
+  "name": "Green Tincture",
+  "description": "A potion of curious origin. Rumoured to aid fighting ability.",
+  "icon": "data/images/el/ib/_r/crafting_leather_bile.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

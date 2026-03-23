@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33261,
+  "name": "Minor Soul Gem (Empty)",
+  "description": "Used to capture Level 10 - 19 souls.",
+  "icon": "data/images/yt/pm/e_/soulgem_002_empty.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

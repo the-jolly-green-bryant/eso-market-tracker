@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120983,
+  "name": "Sapling, Mountain",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0e/er/housing_veg_bsh_craglornscrubtree002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

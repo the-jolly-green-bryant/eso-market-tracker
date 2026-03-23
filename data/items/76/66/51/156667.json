@@ -1,0 +1,9 @@
+{
+  "canonicalId": 156667,
+  "name": "Gate, Spiked Iron",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/lb/housing_coh_inc_gatedouble001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

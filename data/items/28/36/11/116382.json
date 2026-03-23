@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116382,
+  "name": "Orcish Sack, Flour",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/so/housing_orc_con_smallbarrelclose001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

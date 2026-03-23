@@ -1,0 +1,9 @@
+{
+  "canonicalId": 56060,
+  "name": "Maple Shield",
+  "description": "",
+  "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
+  "trait": 25,
+  "variantOf": 55571,
+  "bindType": -1
+}

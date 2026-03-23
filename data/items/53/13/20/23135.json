@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23135,
+  "name": "Voidstone Ore",
+  "description": "Ten of these items can be refined to make voidstone ingots.",
+  "icon": "data/images/en/ot/sd/crafting_ore_voidstone.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

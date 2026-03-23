@@ -1,0 +1,9 @@
+{
+  "canonicalId": 145387,
+  "name": "Murkmire Wall, Straight",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0t/hg/housing_arg_waf_mrkwallsmediumstraight001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

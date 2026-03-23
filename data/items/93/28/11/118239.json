@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118239,
+  "name": "Vial of Blood",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/10/0l/ai/housing_gen_exc_bloodvial001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

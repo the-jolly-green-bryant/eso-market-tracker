@@ -1,0 +1,9 @@
+{
+  "canonicalId": 139093,
+  "name": "Dwarven Centurion Hammer, Detached",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/em/housing_dwe_inc_centurionhammer001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

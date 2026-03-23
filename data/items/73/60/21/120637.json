@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120637,
+  "name": "Plant, Dry Spike",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0s/sa/housing_veg_bsh_shadowfenlggrass001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

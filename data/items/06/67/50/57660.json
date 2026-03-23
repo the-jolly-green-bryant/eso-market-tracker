@@ -1,0 +1,9 @@
+{
+  "canonicalId": 57660,
+  "name": "Spoiled Food",
+  "description": "Eating this food will make you momentarily sick.",
+  "icon": "data/images/30/0_/na/quest_monster_organ_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

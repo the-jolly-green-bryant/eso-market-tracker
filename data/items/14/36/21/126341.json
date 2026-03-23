@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126341,
+  "name": "Redoran Bed, Single",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0e/lg/housing_vrd_fur_hlabedsingle002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

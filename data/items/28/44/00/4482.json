@@ -1,0 +1,9 @@
+{
+  "canonicalId": 4482,
+  "name": "Calcinium Ore",
+  "description": "Ten of these items can be refined to make calcinium ingots.",
+  "icon": "data/images/mu/in/ic/crafting_ore_calcinium.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

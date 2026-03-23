@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46141,
+  "name": "Sanded Mahogany",
+  "description": "An ingredient for crafting wooden weapons and shields.",
+  "icon": "data/images/yn/ag/oh/crafting_wood_sanded_mahogany.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

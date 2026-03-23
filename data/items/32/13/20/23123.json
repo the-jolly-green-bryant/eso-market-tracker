@@ -1,0 +1,9 @@
+{
+  "canonicalId": 23123,
+  "name": "Sanded Yew",
+  "description": "An ingredient for crafting wooden weapons and shields.",
+  "icon": "data/images/3r/_w/ey/crafting_wood_base_yew_r3.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

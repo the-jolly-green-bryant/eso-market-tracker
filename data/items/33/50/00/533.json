@@ -1,0 +1,9 @@
+{
+  "canonicalId": 533,
+  "name": "Sanded Oak",
+  "description": "An ingredient for crafting wooden weapons and shields.",
+  "icon": "data/images/3r/_k/ao/crafting_wood_base_oak_r3.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

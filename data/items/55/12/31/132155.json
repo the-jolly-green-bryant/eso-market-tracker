@@ -1,0 +1,9 @@
+{
+  "canonicalId": 132155,
+  "name": "Witch's Torch, Wretched",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0h/cr/housing_cre_lsb_skulltorch001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115301,
+  "name": "Dark Elf Trestle, Scaled",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/lt/housing_dun_fur_tabletrestle001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

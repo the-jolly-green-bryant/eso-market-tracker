@@ -1,0 +1,9 @@
+{
+  "canonicalId": 114945,
+  "name": "Cherry Blossom Twig",
+  "description": "A consumable enchanted twig that showers another person with vibrant cherry blossoms.",
+  "icon": "data/images/hc/na/rb/event_jestersfestival_2016_cherry_blossom_branch.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

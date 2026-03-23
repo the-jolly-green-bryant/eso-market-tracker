@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117980,
+  "name": "Rough Firewood, Fireplace",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0e/ca/housing_gen_inc_fireplace003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

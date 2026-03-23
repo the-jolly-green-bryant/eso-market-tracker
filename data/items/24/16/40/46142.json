@@ -1,0 +1,9 @@
+{
+  "canonicalId": 46142,
+  "name": "Sanded Nightwood",
+  "description": "An ingredient for crafting wooden weapons and shields.",
+  "icon": "data/images/do/ow/th/crafting_wood_sanded_nightwood.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

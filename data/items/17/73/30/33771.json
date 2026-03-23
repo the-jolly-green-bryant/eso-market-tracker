@@ -1,0 +1,9 @@
+{
+  "canonicalId": 33771,
+  "name": "Jasmine",
+  "description": "An ingredient for crafting beverages.",
+  "icon": "data/images/30/0_/ro/crafting_smith_potion_vendor_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

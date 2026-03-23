@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115300,
+  "name": "Dark Elf Table, Tea",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0d/nr/housing_dun_fur_tablernd001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

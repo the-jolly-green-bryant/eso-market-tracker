@@ -1,0 +1,9 @@
+{
+  "canonicalId": 139652,
+  "name": "Exemplary Triune Ring",
+  "description": "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Triune Trait for Rings.",
+  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
+  "trait": 30,
+  "variantOf": null,
+  "bindType": -1
+}

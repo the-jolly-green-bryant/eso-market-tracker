@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118014,
+  "name": "Common Trough",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0h/gu/housing_bre_exc_trough001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

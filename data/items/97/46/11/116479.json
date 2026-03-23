@@ -1,0 +1,9 @@
+{
+  "canonicalId": 116479,
+  "name": "Orcish Candle, Offering",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0l/ob/housing_orc_lsb_wtgmalacathrefugesymbol001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

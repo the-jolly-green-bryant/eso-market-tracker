@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120882,
+  "name": "Tombstone, Small",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0y/ni/housing_imp_cem_tombstonetiny002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126120,
+  "name": "Daedric Base, Ashen",
+  "description": "This is a standard sized house item.",
+  "icon": "data/images/10/0e/sa/housing_dae_inc_ashstatueurnbase001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

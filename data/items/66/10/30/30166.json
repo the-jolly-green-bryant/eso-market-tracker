@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30166,
+  "name": "Water Hyacinth",
+  "description": "An ingredient for crafting potions.",
+  "icon": "data/images/1r/_h/tn/crafting_water_plant_water_hyacinth_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118131,
+  "name": "Pelt, Bear",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0g/ur/housing_orc_inc_peltrug003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

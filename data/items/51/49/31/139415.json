@@ -1,0 +1,9 @@
+{
+  "canonicalId": 139415,
+  "name": "Pulverized Dawn-Prism",
+  "description": "Ten of these items can be refined into a Dawn-Prism, which is used to make Jewelry with the Triune Trait.",
+  "icon": "data/images/re/tn/il/crafting_storm_elemental_glint_splinter.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 165582,
+  "name": "Vampiric Carpet, Sigil",
+  "description": "This is a standard house item.",
+  "icon": "data/images/40/0g/ur/housing_skr_inc_vampirerug004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

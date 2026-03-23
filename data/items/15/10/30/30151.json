@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30151,
+  "name": "Emetic Russula",
+  "description": "An ingredient for crafting potions.",
+  "icon": "data/images/1r/_a/lu/crafting_mushroom_emetic_russula_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

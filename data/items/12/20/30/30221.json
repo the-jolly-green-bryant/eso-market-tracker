@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30221,
+  "name": "Sardonyx",
+  "description": "Can be used to enhance armor.",
+  "icon": "data/images/2r/_x/yn/crafting_enchantment_base_sardonyx_r2.png",
+  "trait": 13,
+  "variantOf": null,
+  "bindType": -1
+}

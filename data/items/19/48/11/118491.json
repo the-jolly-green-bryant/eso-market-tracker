@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118491,
+  "name": "Scroll, Bound",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/20/0d/es/housing_bre_inc_scroll_closed002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

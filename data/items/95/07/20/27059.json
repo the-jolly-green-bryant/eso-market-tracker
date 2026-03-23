@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27059,
+  "name": "Bervez Juice",
+  "description": "An ingredient for crafting beverages.",
+  "icon": "data/images/30/0_/tl/crafting_components_malt_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

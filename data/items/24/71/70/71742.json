@@ -1,0 +1,9 @@
+{
+  "canonicalId": 71742,
+  "name": "Lion Fang",
+  "description": "An ingredient for crafting in the Daggerfall Covenant style.",
+  "icon": "data/images/tn/an/ev/crafting_style_item_daggerfall_covenant.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

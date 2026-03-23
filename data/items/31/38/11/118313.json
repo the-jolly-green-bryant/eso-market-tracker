@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118313,
+  "name": "Barrel, Yellow Dye",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0e/le/housing_gen_crf_dyestationbarrele001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

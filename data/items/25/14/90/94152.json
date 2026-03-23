@@ -1,0 +1,9 @@
+{
+  "canonicalId": 94152,
+  "name": "Imperial Lightpost, Single",
+  "description": "This is a standard house item.",
+  "icon": "data/images/50/0t/so/housing_nib_lsb_lamppost005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

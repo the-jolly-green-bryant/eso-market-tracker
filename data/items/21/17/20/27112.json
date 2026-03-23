@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27112,
+  "name": "Siege Repair Kit",
+  "description": "Repairs a Siege weapon for 20000 HP.",
+  "icon": "data/images/20/0_/tn/ava_siege_improvement_002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

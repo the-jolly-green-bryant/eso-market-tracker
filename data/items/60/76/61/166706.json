@@ -1,0 +1,9 @@
+{
+  "canonicalId": 166706,
+  "name": "Cartographer's Rucksack",
+  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Backpack collectible fragment.",
+  "icon": "data/images/kc/ap/kc/quest_cartographers_backpack.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

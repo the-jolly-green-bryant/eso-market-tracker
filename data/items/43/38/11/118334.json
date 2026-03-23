@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118334,
+  "name": "Cage, Wild Animal",
+  "description": "This is a large house item.",
+  "icon": "data/images/10/0e/ga/housing_gen_exc_cage001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

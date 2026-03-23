@@ -1,0 +1,9 @@
+{
+  "canonicalId": 30157,
+  "name": "Blessed Thistle",
+  "description": "An ingredient for crafting potions.",
+  "icon": "data/images/se/va/el/crafting_cloth_serrated_leaves.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

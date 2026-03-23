@@ -1,0 +1,9 @@
+{
+  "canonicalId": 77585,
+  "name": "Butterfly Wing",
+  "description": "An ingredient for alchemy.",
+  "icon": "data/images/gn/iw/_y/crafting_poisonmaking_reagent_butterfly_wing.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

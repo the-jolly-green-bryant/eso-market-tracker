@@ -1,0 +1,9 @@
+{
+  "canonicalId": 151674,
+  "name": "Elsweyr Stall Counter, Single",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0r/en/housing_els_exc_merchantcontainer001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 125603,
+  "name": "Mushroom, Stinkhorn Spore",
+  "description": "This is a tiny house item.",
+  "icon": "data/images/50/0n/ro/housing_veg_fug_vrdstinkhorn005.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

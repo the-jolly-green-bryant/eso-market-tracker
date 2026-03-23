@@ -1,0 +1,9 @@
+{
+  "canonicalId": 160541,
+  "name": "Outfit Station, Clockwork",
+  "description": "When placed in your home, allows you to dye your worn equipment and customize your outfits.",
+  "icon": "data/images/10/0e/yd/housing_gen_crf_portabletabledye001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

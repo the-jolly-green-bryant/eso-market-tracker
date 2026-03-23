@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115433,
+  "name": "Argonian Snakes on a Rope",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0s/ek/housing_arg_exc_hangingsnakes001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

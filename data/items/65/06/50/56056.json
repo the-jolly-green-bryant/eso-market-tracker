@@ -1,0 +1,9 @@
+{
+  "canonicalId": 56056,
+  "name": "Rawhide Helmet",
+  "description": "",
+  "icon": "data/images/d_/da/eh/gear_breton_medium_head_d.png",
+  "trait": 25,
+  "variantOf": 55555,
+  "bindType": -1
+}

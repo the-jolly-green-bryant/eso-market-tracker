@@ -1,0 +1,9 @@
+{
+  "canonicalId": 56038,
+  "name": "Iron Cuirass",
+  "description": "",
+  "icon": "data/images/d_/ts/eh/gear_breton_heavy_chest_d.png",
+  "trait": 25,
+  "variantOf": 55544,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 171479,
+  "name": "Sealed Fabrication Materials",
+  "description": "A capsule of components. Combining 10 materials will create a Microtized Verminous Fabricant pet.",
+  "icon": "data/images/10/0w/ol/quest_cwc_lsb_lightcapsulenoglow001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

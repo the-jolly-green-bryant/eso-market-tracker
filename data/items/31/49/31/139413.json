@@ -1,0 +1,9 @@
+{
+  "canonicalId": 139413,
+  "name": "Dibellium",
+  "description": "Can be used to enhance jewelry.",
+  "icon": "data/images/ni/t_/sl/crafting_metals_tin.png",
+  "trait": 29,
+  "variantOf": null,
+  "bindType": -1
+}

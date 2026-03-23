@@ -1,0 +1,9 @@
+{
+  "canonicalId": 120834,
+  "name": "Blue Flame Brazier",
+  "description": "This is a small house item.",
+  "icon": "data/images/20/0r/ei/housing_uni_inc_maelstrombrazier002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115200,
+  "name": "Breton Carpet, Dark",
+  "description": "This is a standard house item.",
+  "icon": "data/images/40/0g/ur/housing_bre_inc_rug004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

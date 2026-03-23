@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118317,
+  "name": "Cask, Green Dye",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0c/gr/housing_gen_crf_dyestationbarrellrgc001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

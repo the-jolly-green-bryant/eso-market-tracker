@@ -1,0 +1,9 @@
+{
+  "canonicalId": 521,
+  "name": "Rough Oak",
+  "description": "Ten of these items can be refined to make sanded oak.",
+  "icon": "data/images/1r/_k/ao/crafting_wood_base_oak_r1.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

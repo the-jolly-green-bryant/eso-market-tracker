@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118057,
+  "name": "Sack of Beans",
+  "description": "This is a small house item.",
+  "icon": "data/images/30/0k/ca/housing_bre_con_sack003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

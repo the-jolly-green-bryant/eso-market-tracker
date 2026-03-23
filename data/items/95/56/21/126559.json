@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126559,
+  "name": "Dwarven Schematics, Technical",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0a/ci/housing_dwe_inc_schematica001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

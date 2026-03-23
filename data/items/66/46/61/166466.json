@@ -1,0 +1,9 @@
+{
+  "canonicalId": 166466,
+  "name": "Stone Husk Fragment",
+  "description": "A shard from a stone husk. If you collected enough of these, you could assemble one of these vessels.",
+  "icon": "data/images/tn/em/ga/quest_stonehuskfragment.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

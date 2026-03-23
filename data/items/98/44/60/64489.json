@@ -1,0 +1,9 @@
+{
+  "canonicalId": 64489,
+  "name": "Rubedite Ingot",
+  "description": "An ingredient for crafting metal weapons and armor.",
+  "icon": "data/images/no/ri/_s/crafting_colossus_iron.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

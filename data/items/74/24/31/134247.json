@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134247,
+  "name": "Soul Gem Module, Experimental",
+  "description": "This is a small house item.",
+  "icon": "data/images/10/0r/eg/housing_cwc_inc_gemrecharger001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

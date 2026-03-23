@@ -1,0 +1,9 @@
+{
+  "canonicalId": 119682,
+  "name": "Master Woodworking Writ",
+  "description": "An exclusive, secret contract for a shield of rare quality.",
+  "icon": "data/images/gn/ik/ro/master_writ_woodworking.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

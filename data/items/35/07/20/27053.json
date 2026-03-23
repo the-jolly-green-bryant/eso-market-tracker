@@ -1,0 +1,9 @@
+{
+  "canonicalId": 27053,
+  "name": "Old Canis Root",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "data/images/20/0_/ni/crafting_components_gin_002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

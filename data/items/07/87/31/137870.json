@@ -1,0 +1,9 @@
+{
+  "canonicalId": 137870,
+  "name": "Jewelry Crafting Station",
+  "description": "When placed in your home, allows you to craft Jewelry Crafting items.",
+  "icon": "data/images/10/0y/rl/housing_gen_crf_portabletablejewelry001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

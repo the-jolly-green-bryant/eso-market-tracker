@@ -1,0 +1,9 @@
+{
+  "canonicalId": 114891,
+  "name": "Clean Pelt",
+  "description": "Used in crafting leather furniture.",
+  "icon": "data/images/tl/ep/_n/crafting_furniture_base_clean_pelt.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

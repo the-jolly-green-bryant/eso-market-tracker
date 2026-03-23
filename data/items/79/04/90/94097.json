@@ -1,0 +1,9 @@
+{
+  "canonicalId": 94097,
+  "name": "Imperial Bed, Bunk",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0k/nu/housing_nib_fur_bedbunk001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

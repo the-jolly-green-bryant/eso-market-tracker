@@ -1,0 +1,9 @@
+{
+  "canonicalId": 115586,
+  "name": "Wood Elf Bladder, Fermenting",
+  "description": "This is a standard house item.",
+  "icon": "data/images/20/0y/mm/housing_bos_inc_beertummy002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -1,0 +1,9 @@
+{
+  "canonicalId": 139660,
+  "name": "Exemplary Infused Necklace",
+  "description": "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Infused Trait for Necklaces.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": 4,
+  "variantOf": null,
+  "bindType": -1
+}

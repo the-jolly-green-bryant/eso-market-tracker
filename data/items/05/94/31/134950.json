@@ -1,0 +1,9 @@
+{
+  "canonicalId": 134950,
+  "name": "Mushrooms, Flapjack Stack",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0s/mo/housing_veg_fug_treemushrooms001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

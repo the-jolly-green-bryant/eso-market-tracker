@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118308,
+  "name": "Barrel, Orange Dye",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0a/le/housing_gen_crf_dyestationbarrela001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

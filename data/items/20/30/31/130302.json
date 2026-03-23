@@ -1,0 +1,9 @@
+{
+  "canonicalId": 130302,
+  "name": "Shrub, Burnt Brush",
+  "description": "This is a small house item.",
+  "icon": "data/images/40/0g/ni/housing_tre_ded_vrdburntsapling004.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

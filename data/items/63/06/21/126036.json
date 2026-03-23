@@ -1,0 +1,9 @@
+{
+  "canonicalId": 126036,
+  "name": "Target Centurion, Robust Refabricated",
+  "description": "This is a large house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to a veteran trial boss.",
+  "icon": "data/images/10/_s/so/targetdummy_centurionboss_01.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

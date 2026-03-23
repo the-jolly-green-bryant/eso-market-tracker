@@ -1,0 +1,9 @@
+{
+  "canonicalId": 171383,
+  "name": "Dwarven Broom, Restored",
+  "description": "This is a small house item.",
+  "icon": "data/images/20/0h/su/housing_skr_inc_markbrush002.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

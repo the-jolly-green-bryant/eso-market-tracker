@@ -1,0 +1,9 @@
+{
+  "canonicalId": 44877,
+  "name": "Common Repair Kit",
+  "description": "Repairs items of any level, but is less effective on items over Level 39.",
+  "icon": "data/images/10/0_/et/quest_crate_001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

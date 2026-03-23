@@ -1,0 +1,9 @@
+{
+  "canonicalId": 175797,
+  "name": "Companion Booster",
+  "description": "Unlocks all of your companion's skill lines and maxes out their experience.",
+  "icon": "data/images/30/0_/ko/quest_book_003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

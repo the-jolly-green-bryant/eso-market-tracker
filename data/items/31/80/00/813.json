@@ -1,0 +1,9 @@
+{
+  "canonicalId": 813,
+  "name": "Turquoise",
+  "description": "Can be used to enhance weapons.",
+  "icon": "data/images/3r/_e/si/crafting_jewelry_base_turquoise_r3.png",
+  "trait": 5,
+  "variantOf": null,
+  "bindType": -1
+}

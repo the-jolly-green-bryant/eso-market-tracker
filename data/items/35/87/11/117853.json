@@ -1,0 +1,9 @@
+{
+  "canonicalId": 117853,
+  "name": "Redguard Vial, Stained Glass",
+  "description": "This is a standard house item.",
+  "icon": "data/images/30/0e/lt/housing_red_inc_glassbottle003.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

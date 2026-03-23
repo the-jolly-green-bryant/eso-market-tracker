@@ -1,0 +1,9 @@
+{
+  "canonicalId": 118064,
+  "name": "Common Barrel, Dry",
+  "description": "This is a standard house item.",
+  "icon": "data/images/10/0l/er/housing_cav_min_barrel001.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}
