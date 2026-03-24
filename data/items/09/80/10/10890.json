@@ -4,6 +4,6 @@
   "description": "A little bit of giant wasp ichor still stains this armor. Consider it a badge of honor.",
   "icon": "data/images/d_/sg/el/gear_bosmer_medium_legs_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 3227652744,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "The hardiness of this belt is made to withstand the sharpness of troll claws.",
   "icon": "data/images/d_/ts/ia/gear_khajiit_heavy_waist_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3412787381,
   "bindType": 2
 }

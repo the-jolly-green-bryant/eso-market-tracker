@@ -4,6 +4,6 @@
   "description": "This helmet's interlocking metal plates provide excellent protection for the wearer's head.",
   "icon": "data/images/d_/da/eh/gear_redguard_heavy_head_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 2427309382,
   "bindType": 2
 }

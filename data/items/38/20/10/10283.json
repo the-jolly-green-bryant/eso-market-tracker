@@ -4,6 +4,6 @@
   "description": "Bequeathed by Tree-Minder Dreyapa for returning her tribe to the Hist after they were slaughtered by the Dominion.",
   "icon": "data/images/d_/ff/at/gear_argonian_staff_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2596429895,
   "bindType": 2
 }

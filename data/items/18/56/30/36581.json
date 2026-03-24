@@ -4,6 +4,6 @@
   "description": "Once Chief Tazgol learned of the relic's fate, you were granted this from his family's weapon hoard.",
   "icon": "data/images/c_/ex/ah/gear_primative_2haxe_c.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 1873704727,
   "bindType": 2
 }

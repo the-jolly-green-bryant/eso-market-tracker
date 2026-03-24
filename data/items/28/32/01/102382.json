@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/b_/wo/b_/gear_ancient_elf_bow_b.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 1612876657,
   "bindType": 2
 }

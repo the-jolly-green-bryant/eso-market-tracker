@@ -4,6 +4,6 @@
   "description": "Protective headgear used by the miners in Dusktown.",
   "icon": "data/images/d_/da/eh/gear_nord_medium_head_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 863273750,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Can be used to enhance jewelry.",
   "icon": "data/images/yn/om/it/jewelrycrafting_trait_refined_antimony.png",
   "trait": 21,
-  "variantOf": null,
+  "variantOf": 4003607376,
   "bindType": -1
 }

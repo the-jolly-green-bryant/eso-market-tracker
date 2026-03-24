@@ -4,6 +4,6 @@
   "description": "The treasure chest Igeke Rat-Bite hired you to retrieve was a disappointment, but he gave you this fine belt anyway.",
   "icon": "data/images/d_/ts/ia/gear_redguard_heavy_waist_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 973579247,
   "bindType": 2
 }

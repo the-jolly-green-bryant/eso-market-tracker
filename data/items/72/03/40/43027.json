@@ -4,6 +4,6 @@
   "description": "A ring awarded for defeating the giant guar, Bittergreen the Wild.",
   "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
   "trait": 21,
-  "variantOf": null,
+  "variantOf": 347964580,
   "bindType": 2
 }

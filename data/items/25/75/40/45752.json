@@ -4,6 +4,6 @@
   "description": "A mighty bow whose smooth lines bespeak great accuracy.",
   "icon": "data/images/d_/wo/b_/gear_bosmer_bow_d.png",
   "trait": 3,
-  "variantOf": null,
+  "variantOf": 3280598658,
   "bindType": 2
 }

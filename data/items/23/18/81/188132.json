@@ -4,6 +4,6 @@
   "description": "A blade that has been in Ilyes Maul's family for a long time. It was probably used by the ancient pirates of Ghost Haven Bay.",
   "icon": "data/images/a_/dr/ow/gear_bretonv2_sword_a.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 3166101280,
   "bindType": 2
 }

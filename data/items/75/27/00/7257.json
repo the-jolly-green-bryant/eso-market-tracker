@@ -4,6 +4,6 @@
   "description": "Gloves given for saving Garth from the spider cave.",
   "icon": "data/images/d_/sd/na/gear_breton_light_hands_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 840591586,
   "bindType": 2
 }

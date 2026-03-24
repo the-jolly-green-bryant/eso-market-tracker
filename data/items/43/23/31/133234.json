@@ -4,6 +4,6 @@
   "description": "The rich loam of the Everwound Wellspring is a rare and precious resource, and should be handled with gentle care.",
   "icon": "data/images/a_/sd/na/gear_apostle_light_hands_a.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 223351466,
   "bindType": 2
 }

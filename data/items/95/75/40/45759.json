@@ -4,6 +4,6 @@
   "description": "Crafted in Oblivion, this weapon's surface glistens with an evil sheen.",
   "icon": "data/images/d_/re/mm/gear_argonian_1hhammer_d.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 650230006,
   "bindType": 2
 }

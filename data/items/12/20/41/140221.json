@@ -4,6 +4,6 @@
   "description": "This light shirt is fitting attire for the fledging journeys of a new adventurer.",
   "icon": "data/images/a_/tr/ih/gear_altmer_light_shirt_a.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 2148794484,
   "bindType": 2
 }

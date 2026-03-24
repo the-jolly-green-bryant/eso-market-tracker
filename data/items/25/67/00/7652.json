@@ -4,6 +4,6 @@
   "description": "Something about this staff exudes a terrible chill that settles deep into the bones.",
   "icon": "data/images/d_/ff/at/gear_altmer_staff_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3570368918,
   "bindType": 2
 }

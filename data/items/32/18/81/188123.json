@@ -4,6 +4,6 @@
   "description": "Heavy boots, ideal for magma-hot environments and vulk'esh hunting expeditions.",
   "icon": "data/images/a_/te/ef/gear_annilarchch_heavy_feet_a.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 748914407,
   "bindType": 2
 }

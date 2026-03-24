@@ -4,6 +4,6 @@
   "description": "Can be used to enhance jewelry.",
   "icon": "data/images/cn/iz/_d/jewelrycrafting_trait_refined_zinc.png",
   "trait": 23,
-  "variantOf": null,
+  "variantOf": 893898207,
   "bindType": -1
 }

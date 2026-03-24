@@ -4,6 +4,6 @@
   "description": "Mamma Aralosi gave you this heavy cooking belt for reporting her son's fate in Lady Llarel's Shelter.",
   "icon": "data/images/d_/ts/ia/gear_dunmer_heavy_waist_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 141409635,
   "bindType": 2
 }

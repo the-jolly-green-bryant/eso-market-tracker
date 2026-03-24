@@ -4,6 +4,6 @@
   "description": "Llayne Sadri, Mouth of Mistress Dratha, gave you these epaulettes as a token of her mistress's gratitude.",
   "icon": "data/images/a_/sr/ed/gear_telvanni_light_shoulders_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3309150801,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "This belt was awarded for deciding the fate of the Mabrigash in the Vale of the Ghost Snake.",
   "icon": "data/images/d_/ts/ia/gear_dunmer_medium_waist_d.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 3178929227,
   "bindType": 2
 }

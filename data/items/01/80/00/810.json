@@ -4,6 +4,6 @@
   "description": "Can be used to enhance weapons.",
   "icon": "data/images/3r/_e/da/crafting_enchantment_base_jade_r3.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2267153551,
   "bindType": -1
 }

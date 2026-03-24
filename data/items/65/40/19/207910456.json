@@ -1,0 +1,9 @@
+{
+  "canonicalId": 207910456,
+  "name": "Companion's Girdle",
+  "description": "Only Companions may equip this item.",
+  "icon": "data/images/yv/ae/h_/companions_u30_equipment_belt_heavy.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": 2
+}

@@ -4,6 +4,6 @@
   "description": "Only Companions may equip this item.",
   "icon": "data/images/th/gi/l_/companions_u30_equipment_helm_light.png",
   "trait": 38,
-  "variantOf": null,
+  "variantOf": 372559274,
   "bindType": 2
 }

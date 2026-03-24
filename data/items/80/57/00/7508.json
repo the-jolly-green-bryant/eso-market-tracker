@@ -4,6 +4,6 @@
   "description": "This necklace is surprisingly heavy around your neck. It shimmers with magic.",
   "icon": "data/images/a_/kc/en/gear_redguard_neck_a.png",
   "trait": 21,
-  "variantOf": null,
+  "variantOf": 3595679882,
   "bindType": 2
 }

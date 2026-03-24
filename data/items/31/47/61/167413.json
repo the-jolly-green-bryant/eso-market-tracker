@@ -4,6 +4,6 @@
   "description": "The Reach leatherworkers of Markarth reserve sacred fox-hides for the swiftest and most cunning hunters.",
   "icon": "data/images/a_/sg/el/gear_waywardguardianmed_legs_a.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 2211347747,
   "bindType": 2
 }

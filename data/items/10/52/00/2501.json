@@ -4,6 +4,6 @@
   "description": "You earned this bow by dispensing justice to Watch Captain Rama, whose hatred of Goblins caused the deaths of many.",
   "icon": "data/images/d_/wo/b_/gear_breton_bow_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 1704919098,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Lady Laurent presented this evil-looking mace to you in token of your mad adventure in the shrine of Bal Fell.",
   "icon": "data/images/c_/re/mm/gear_imperialdaedric_1hhammer_c.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 280424092,
   "bindType": 2
 }

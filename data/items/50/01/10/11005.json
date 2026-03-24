@@ -4,6 +4,6 @@
   "description": "Given with gratitude by Thane Viri for returning the belongings of the Worm Cult's victims at Lost Prospect.",
   "icon": "data/images/d_/da/eh/gear_nord_medium_head_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 719495430,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Kunira-daro paid you for your light-fingered help with these high-quality gloves.",
   "icon": "data/images/d_/sd/na/gear_khajiit_light_hands_d.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 2630480312,
   "bindType": 2
 }

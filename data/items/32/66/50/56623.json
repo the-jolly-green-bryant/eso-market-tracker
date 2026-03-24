@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/da/eh/gear_breton_medium_head_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 1023147261,
   "bindType": 2
 }

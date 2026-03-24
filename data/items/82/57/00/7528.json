@@ -4,6 +4,6 @@
   "description": "This shield can't stop the dead from rising, but it can protect you from their wrath.",
   "icon": "data/images/d_/dl/ei/gear_redguard_shield_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 1815717090,
   "bindType": 2
 }

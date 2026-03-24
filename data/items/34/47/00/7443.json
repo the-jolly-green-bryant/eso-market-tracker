@@ -4,6 +4,6 @@
   "description": "A fine helm bequeathed by Drillk, supposedly the last Kothringi. That isn't the way he sees things, though.",
   "icon": "data/images/d_/da/eh/gear_altmer_medium_head_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 3056475391,
   "bindType": 2
 }

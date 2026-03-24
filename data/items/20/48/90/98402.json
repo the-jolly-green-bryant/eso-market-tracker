@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/ts/eh/gear_khajiit_heavy_chest_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 1168436275,
   "bindType": 2
 }

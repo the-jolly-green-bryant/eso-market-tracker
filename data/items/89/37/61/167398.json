@@ -4,6 +4,6 @@
   "description": "An enchanted shield from the vaults of Markarth, awarded to those who pledged themselves in defense of the Reach.",
   "icon": "data/images/a_/dl/ei/gear_arkthzand_shield_a.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3048853226,
   "bindType": 2
 }

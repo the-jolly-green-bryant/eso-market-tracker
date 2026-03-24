@@ -4,6 +4,6 @@
   "description": "Grulaz's troll-taming staff, awarded for returning her journal to Gothurg in Shornhelm.",
   "icon": "data/images/d_/ff/at/gear_orc_staff_d.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 2555336108,
   "bindType": 2
 }

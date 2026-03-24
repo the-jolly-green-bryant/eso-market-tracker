@@ -4,6 +4,6 @@
   "description": "This protective head covering was bestowed for aiding the vampires of Wittestadr.",
   "icon": "data/images/d_/da/eh/gear_nord_medium_head_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3970133321,
   "bindType": 2
 }

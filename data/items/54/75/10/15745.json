@@ -4,6 +4,6 @@
   "description": "Awarded by Grundskar for providing news about the fate of his cousin in Mal Sorra's Tomb.",
   "icon": "data/images/d_/sd/na/gear_nord_light_hands_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 3359949799,
   "bindType": 2
 }

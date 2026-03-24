@@ -4,6 +4,6 @@
   "description": "Hazak's clever alterations provide the hauberk's wearer with absolute freedom of movement.",
   "icon": "data/images/d_/ts/eh/gear_khajiit_medium_chest_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 513044898,
   "bindType": 2
 }

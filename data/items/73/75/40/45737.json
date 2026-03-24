@@ -4,6 +4,6 @@
   "description": "The pads on these boots grant improved traction on almost any surface.",
   "icon": "data/images/d_/te/ef/gear_nord_medium_feet_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 4078082941,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "A light head covering awarded for defeating the Dwarven centurion, Zemarek-thul.",
   "icon": "data/images/d_/da/eh/gear_altmer_light_head_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3365579727,
   "bindType": 2
 }

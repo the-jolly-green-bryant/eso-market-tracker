@@ -4,6 +4,6 @@
   "description": "This belt is gilded with stolen silver.",
   "icon": "data/images/d_/ts/ia/gear_redguard_medium_waist_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 1313781168,
   "bindType": 2
 }

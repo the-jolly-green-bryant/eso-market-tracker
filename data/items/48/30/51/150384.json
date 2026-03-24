@@ -4,6 +4,6 @@
   "description": "A Khajiiti hammer superbly balanced and weighted for smashing the undead.",
   "icon": "data/images/a_/ec/am/gear_pellitine_mace_a.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 2758040877,
   "bindType": 2
 }

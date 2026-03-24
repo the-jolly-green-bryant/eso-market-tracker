@@ -4,6 +4,6 @@
   "description": "This blade was your reward for defeating Giron and disrupting the Maulborn plot at Narsis.",
   "icon": "data/images/d_/dr/ow/gear_dunmer_1hsword_d.png",
   "trait": 3,
-  "variantOf": null,
+  "variantOf": 12704659,
   "bindType": 2
 }

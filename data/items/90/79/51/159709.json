@@ -4,6 +4,6 @@
   "description": "This Nordic armor was your reward for finding and returning mining samples.",
   "icon": "data/images/d_/sr/ed/gear_nord_heavy_shoulders_d.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 3874988405,
   "bindType": 2
 }

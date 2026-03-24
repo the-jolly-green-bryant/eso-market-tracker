@@ -4,6 +4,6 @@
   "description": "The senche-tiger, one of the most dangerous creatures on Tamriel, has hide which make excellent armor.",
   "icon": "data/images/d_/ts/ia/gear_khajiit_medium_waist_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3182924368,
   "bindType": 2
 }

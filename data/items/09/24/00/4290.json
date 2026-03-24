@@ -4,6 +4,6 @@
   "description": "This axe has dozens of tiny notches along the haft. A pair of fangs are fastened tightly to the grip.",
   "icon": "data/images/d_/ex/ah/gear_orc_1haxe_d.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 4228002571,
   "bindType": 2
 }

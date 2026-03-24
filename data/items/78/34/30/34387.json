@@ -4,6 +4,6 @@
   "description": "The leg guards worn by Keeper Cirion before he sacrificed himself to stop High Kinlord Rilis.",
   "icon": "data/images/d_/sg/el/gear_altmer_heavy_legs_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 3355329817,
   "bindType": 2
 }

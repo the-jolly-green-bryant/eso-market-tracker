@@ -4,6 +4,6 @@
   "description": "Dralnas awarded these medium-weight hand protectors for destroying the Anguish Gem and restoring his soul.",
   "icon": "data/images/d_/sd/na/gear_dunmer_medium_hands_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 4203785080,
   "bindType": 2
 }

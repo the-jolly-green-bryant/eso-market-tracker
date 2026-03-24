@@ -4,6 +4,6 @@
   "description": "Sela found this suspicious-looking mace in the Forgotten Crypts.",
   "icon": "data/images/d_/re/mm/gear_dunmer_1hhammer_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 1210479385,
   "bindType": 2
 }

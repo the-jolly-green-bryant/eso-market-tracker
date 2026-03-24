@@ -4,6 +4,6 @@
   "description": "Captain Mathias Etienne gifted this belt on behalf of the Wayrest Guard as thanks for dispatching the head of the Backstreet Gang.",
   "icon": "data/images/d_/ts/ia/gear_breton_heavy_waist_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3125881974,
   "bindType": 2
 }

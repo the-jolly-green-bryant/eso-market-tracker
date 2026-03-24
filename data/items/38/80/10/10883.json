@@ -4,6 +4,6 @@
   "description": "Veiled Heritance Champion Andur once used this weapon during the fight to protect the Court of the Wilderking.",
   "icon": "data/images/d_/dr/ow/gear_altmer_2hsword_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 2115413994,
   "bindType": 2
 }

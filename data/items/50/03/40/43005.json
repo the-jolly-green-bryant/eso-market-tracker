@@ -4,6 +4,6 @@
   "description": "This large leg bone crackles with energy.",
   "icon": "data/images/d_/ff/at/gear_bosmer_staff_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3657911689,
   "bindType": 2
 }

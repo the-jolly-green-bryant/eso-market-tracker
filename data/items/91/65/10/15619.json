@@ -4,6 +4,6 @@
   "description": "Father Quiston and Dame Valyrie bestowed this staff in thanks for your aid in putting Prince Adrien to rest.",
   "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 2992069545,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Only Companions may equip this item.",
   "icon": "data/images/dl/ei/hs/companions_u30_equipment_shield.png",
   "trait": 37,
-  "variantOf": null,
+  "variantOf": 2267500264,
   "bindType": 2
 }

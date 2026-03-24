@@ -4,6 +4,6 @@
   "description": "Its surface bears the scorched imprint of a Worm Cult mark—burned away, but not forgotten.",
   "icon": "data/images/a_/da/eh/gear_coldharbordominator_heavy_head_a.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 27450018,
   "bindType": 2
 }

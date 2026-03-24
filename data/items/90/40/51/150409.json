@@ -4,6 +4,6 @@
   "description": "The Khajiit don't have any guar-herding tradition to speak of, but perhaps Hadamnargo can start one.",
   "icon": "data/images/a_/re/dl/gear_pellitine_light_shoulder_a.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 3211283583,
   "bindType": 2
 }

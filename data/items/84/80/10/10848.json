@@ -4,6 +4,6 @@
   "description": "Sergeant Galandir presented these chausses to you for closing the Daedric portals to Moonhenge.",
   "icon": "data/images/d_/sg/el/gear_khajiit_heavy_legs_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 2988702866,
   "bindType": 2
 }

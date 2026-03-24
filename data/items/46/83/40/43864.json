@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/c_/sg/el/gear_breton_heavy_legs_c.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 1502658680,
   "bindType": 2
 }

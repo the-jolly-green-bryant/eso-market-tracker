@@ -4,6 +4,6 @@
   "description": "A heavily reinforced set of shoulder armor masterly crafted by the best smiths in Leyawiin for the Ivory Brigade militia.",
   "icon": "data/images/d_/sr/ed/gear_imperial_heavy_shoulders_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 2032177244,
   "bindType": 2
 }

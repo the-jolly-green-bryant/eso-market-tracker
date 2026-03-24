@@ -4,6 +4,6 @@
   "description": "Soft and well-worn, these boots are proofed against weather and hard roads.",
   "icon": "data/images/d_/te/ef/gear_imperial_medium_feet_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3775639385,
   "bindType": 2
 }

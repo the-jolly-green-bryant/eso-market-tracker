@@ -4,6 +4,6 @@
   "description": "This weapon was awarded for finding Recruit Gorak and helping him complete his mission in the swamps outside Aldcroft.",
   "icon": "data/images/d_/ex/ah/gear_breton_2haxe_d.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 4177088314,
   "bindType": 2
 }

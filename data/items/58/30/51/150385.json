@@ -4,6 +4,6 @@
   "description": "The adepts of the Desert Wind usually wield these balanced swords in pairs.",
   "icon": "data/images/a_/dr/ow/gear_anequina_sword_a.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 2589301948,
   "bindType": 2
 }

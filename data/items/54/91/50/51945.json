@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/ts/eh/gear_breton_medium_chest_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 1629499130,
   "bindType": 2
 }

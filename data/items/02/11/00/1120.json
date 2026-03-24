@@ -4,6 +4,6 @@
   "description": "This heavy belt was awarded for rescuing Lion Guard soldiers from the labyrinthine catacombs of Cath Bedraud.",
   "icon": "data/images/d_/ts/ia/gear_breton_heavy_waist_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 1306355263,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Heavy leggings awarded for defeating the daedroth trio led by the fearsome Nolagha.",
   "icon": "data/images/a_/sg/el/gear_daedric_heavy_legs_a.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 1556258055,
   "bindType": 2
 }

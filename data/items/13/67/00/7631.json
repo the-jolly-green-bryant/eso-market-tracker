@@ -4,6 +4,6 @@
   "description": "Though carefully cleaned, an odor of death still permeates these gloves.",
   "icon": "data/images/d_/sd/na/gear_altmer_light_hands_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 2492893894,
   "bindType": 2
 }

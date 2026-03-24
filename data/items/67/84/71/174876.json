@@ -4,6 +4,6 @@
   "description": "Once worn by the fabled Shadowscales, this tunic shows its wear and age from the many years it sat within Bloodrun Cave.",
   "icon": "data/images/a_/ts/eh/gear_darkbrotherhoodv2_medium_chest_a.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 2412001501,
   "bindType": 2
 }

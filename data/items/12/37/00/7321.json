@@ -4,6 +4,6 @@
   "description": "Alvaren awarded these Knight of Arkay gloves for recovering holy relics from across Rivenspire.",
   "icon": "data/images/d_/sd/na/gear_breton_heavy_hands_d.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 4028053627,
   "bindType": 2
 }

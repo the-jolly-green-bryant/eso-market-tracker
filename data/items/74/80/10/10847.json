@@ -4,6 +4,6 @@
   "description": "The marks on this worn harness prove it's been tested in battle.",
   "icon": "data/images/d_/ts/ia/gear_bosmer_medium_waist_d.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 3800825599,
   "bindType": 2
 }

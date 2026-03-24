@@ -4,6 +4,6 @@
   "description": "Though Bosmer in origin, this ring also incorporates Wood Orc motifs.",
   "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 1038350368,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Armor fit for the hero who aided soldiers at Boulderfall Pass against a Reachman attack. From Captain Jardirr herself.",
   "icon": "data/images/d_/ts/eh/gear_nord_heavy_chest_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 952332219,
   "bindType": 2
 }

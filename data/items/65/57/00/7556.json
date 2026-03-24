@@ -4,6 +4,6 @@
   "description": "It's probably just your imagination, but you always get a creepy-crawly sensation when you wear these gauntlets.",
   "icon": "data/images/d_/sd/na/gear_altmer_medium_hands_d.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 968065662,
   "bindType": 2
 }

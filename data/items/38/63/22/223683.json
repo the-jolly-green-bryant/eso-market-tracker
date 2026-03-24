@@ -4,6 +4,6 @@
   "description": "Once used to teach healing arts in a hall now scarred by Daedric flame, this staff was spared when all else burned.",
   "icon": "data/images/a_/ff/at/gear_coldharbourdominator_staff_a.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 3018980889,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Hat.",
   "icon": "data/images/d_/da/eh/gear_breton_light_head_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 2888512918,
   "bindType": -1
 }

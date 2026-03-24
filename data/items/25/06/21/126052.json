@@ -4,6 +4,6 @@
   "description": "Sun-in-Shadow gave you this staff for helping Eoki at Vassamsi Mine. Her relationship with Eoki will not be so easy to fix, however.",
   "icon": "data/images/a_/ff/at/gear_telvanni_staff_a.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 362543738,
   "bindType": 2
 }

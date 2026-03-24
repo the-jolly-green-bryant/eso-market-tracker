@@ -4,6 +4,6 @@
   "description": "The sturdy axe was obtained during the battles with the Graveborn.",
   "icon": "data/images/d_/ex/ah/gear_dunmer_2haxe_d.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 2825654560,
   "bindType": 2
 }

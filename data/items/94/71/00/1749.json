@@ -4,6 +4,6 @@
   "description": "These slippers vibrate softly when near sources of running water.",
   "icon": "data/images/d_/te/ef/gear_bosmer_light_feet_d.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 361973076,
   "bindType": 2
 }

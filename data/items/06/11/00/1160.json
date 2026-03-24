@@ -4,6 +4,6 @@
   "description": "Captain Farlivere awarded this medium armor for rescuing the noble hostages from the Red Rook Bandits.",
   "icon": "data/images/d_/ts/eh/gear_redguard_medium_chest_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 1040433150,
   "bindType": 2
 }

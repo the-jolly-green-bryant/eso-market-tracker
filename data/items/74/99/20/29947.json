@@ -4,6 +4,6 @@
   "description": "A bounty of heavy armor awarded for defeating Angof Gravesinger in Cath Bedraud.",
   "icon": "data/images/d_/ts/eh/gear_breton_heavy_chest_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 1642852488,
   "bindType": 2
 }

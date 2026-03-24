@@ -4,6 +4,6 @@
   "description": "A small note within this worn belt reads: \"To Stibbons, for five years of entirely adequate service. —Laurent\"",
   "icon": "data/images/d_/ts/ia/gear_breton_heavy_waist_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 1510655044,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "All that remains of the Hound is his collar.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 23,
-  "variantOf": null,
+  "variantOf": 3974182736,
   "bindType": 2
 }

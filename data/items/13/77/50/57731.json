@@ -4,6 +4,6 @@
   "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Belt.",
   "icon": "data/images/d_/ts/ia/gear_breton_medium_waist_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 1394063036,
   "bindType": -1
 }

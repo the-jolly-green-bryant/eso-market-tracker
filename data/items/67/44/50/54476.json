@@ -4,6 +4,6 @@
   "description": "A troll-smashed ring Gluineth gave you in thanks for leading her unharmed out of Troll's Toothpick.",
   "icon": "data/images/a_/gn/ir/gear_altmer_ring_a.png",
   "trait": 21,
-  "variantOf": null,
+  "variantOf": 972413794,
   "bindType": 2
 }

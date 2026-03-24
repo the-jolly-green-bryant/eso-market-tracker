@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/dl/ei/gear_bosmer_shield_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 3190913657,
   "bindType": 2
 }

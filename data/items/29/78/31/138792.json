@@ -4,6 +4,6 @@
   "description": "When introducing oneself to High Elven royalty, it is considered proper to wear pants.",
   "icon": "data/images/d_/sg/el/gear_altmer_light_legs_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 4002190337,
   "bindType": 2
 }

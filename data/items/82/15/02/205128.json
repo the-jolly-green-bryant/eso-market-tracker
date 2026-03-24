@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/ff/at/s_/gear_shardknight_staff.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 1567251822,
   "bindType": 2
 }

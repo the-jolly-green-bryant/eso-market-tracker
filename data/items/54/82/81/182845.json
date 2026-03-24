@@ -4,6 +4,6 @@
   "description": "The Anchorite rewarded this ring for helping her stop the Waking Flame from harming Fargrave.",
   "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 2526992075,
   "bindType": 2
 }

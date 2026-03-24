@@ -4,6 +4,6 @@
   "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Greatsword.",
   "icon": "data/images/d_/dr/ow/gear_breton_2hsword_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 2746808815,
   "bindType": -1
 }

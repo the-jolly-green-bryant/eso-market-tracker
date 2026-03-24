@@ -4,6 +4,6 @@
   "description": "A ceremonial sword worn by the Buoyant Armigers of Vivec.",
   "icon": "data/images/a_/dr/ow/gear_buoyantarmiger_1hsword_a.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 3894543145,
   "bindType": 2
 }

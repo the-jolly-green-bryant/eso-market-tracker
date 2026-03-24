@@ -4,6 +4,6 @@
   "description": "A staff crackling with energy found within Xynaa's chambers in the Deadlands.",
   "icon": "data/images/c_/ff/at/gear_daedric_staff_c.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 2026423317,
   "bindType": 2
 }

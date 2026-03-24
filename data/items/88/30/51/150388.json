@@ -4,6 +4,6 @@
   "description": "The Cygnus Irregulars may seem odd as Imperial soldiers go, but their weapons are second to none.",
   "icon": "data/images/d_/dr/ow/gear_imperial_2hsword_d.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 3054613970,
   "bindType": 2
 }

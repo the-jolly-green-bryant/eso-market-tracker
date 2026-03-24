@@ -4,6 +4,6 @@
   "description": "A gift from a Dufort captain in memory of the late map hunter, Ferone.",
   "icon": "data/images/d_/te/ef/gear_dunmer_medium_feet_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 3726836096,
   "bindType": 2
 }

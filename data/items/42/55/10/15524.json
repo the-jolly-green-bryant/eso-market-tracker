@@ -4,6 +4,6 @@
   "description": "A suitable outfit befitting the victor of the battle of Velyn Harbor.",
   "icon": "data/images/d_/eb/or/gear_bosmer_light_robe_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 3714947971,
   "bindType": 2
 }

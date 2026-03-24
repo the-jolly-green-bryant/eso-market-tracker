@@ -4,6 +4,6 @@
   "description": "Only Companions may equip this item.",
   "icon": "data/images/ff/at/so/companions_u30_equipment_infernostaff.png",
   "trait": 36,
-  "variantOf": null,
+  "variantOf": 1305872722,
   "bindType": 2
 }

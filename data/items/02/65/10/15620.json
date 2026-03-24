@@ -4,6 +4,6 @@
   "description": "You earned this armor by deciding the fate of Kerbol's Hollow, a hidden village of werewolves.",
   "icon": "data/images/d_/sg/el/gear_breton_medium_legs_d.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 4025085763,
   "bindType": 2
 }

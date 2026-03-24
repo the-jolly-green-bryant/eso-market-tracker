@@ -4,6 +4,6 @@
   "description": "The prized hatchet of a Reach beast-handler, often used to cleave sturdy branches for teething wolf pups.",
   "icon": "data/images/a_/ex/ah/gear_waywardguardian_1haxe_a.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 1597147935,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "The shoes of a Baandari trader whose travels came to an end in Bonerock Cavern.",
   "icon": "data/images/d_/te/ef/gear_khajiit_light_feet_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 1140068129,
   "bindType": 2
 }

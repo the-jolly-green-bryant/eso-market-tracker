@@ -4,6 +4,6 @@
   "description": "This Vampiric armor was your reward for finding and returning mining samples.",
   "icon": "data/images/ts/ia/w_/gear_blackreachexhvy_waist.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 509145550,
   "bindType": 2
 }

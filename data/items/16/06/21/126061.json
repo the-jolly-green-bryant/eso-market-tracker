@@ -4,6 +4,6 @@
   "description": "A fine Telvanni robe, which Sun-in-Shadow gave you in gratitude for your help in gaining her freedom.",
   "icon": "data/images/a_/eb/or/gear_telvanni_light_robe_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3557936433,
   "bindType": 2
 }

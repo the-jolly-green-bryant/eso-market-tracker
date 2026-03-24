@@ -4,6 +4,6 @@
   "description": "Imbued with some of the animal cruelty that comes from a life as a vampire and cultist.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 21,
-  "variantOf": null,
+  "variantOf": 3150141849,
   "bindType": 2
 }

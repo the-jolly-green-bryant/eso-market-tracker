@@ -4,6 +4,6 @@
   "description": "A delicate silver necklace. Ironically, this lucky pendant was likely stolen.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 21,
-  "variantOf": null,
+  "variantOf": 1600561428,
   "bindType": 2
 }

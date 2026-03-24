@@ -4,6 +4,6 @@
   "description": "A staff of familiar-looking wood. Perhaps given, or taken, from one of the cursed in Faun's Thicket.",
   "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 3241898063,
   "bindType": 2
 }

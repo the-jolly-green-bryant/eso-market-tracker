@@ -4,6 +4,6 @@
   "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Maul.",
   "icon": "data/images/d_/re/mm/gear_breton_2hhammer_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 3065846574,
   "bindType": -1
 }

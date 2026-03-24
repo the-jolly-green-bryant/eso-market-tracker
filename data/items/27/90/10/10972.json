@@ -4,6 +4,6 @@
   "description": "Free from the Worm Cult's chains, Valdur's spirit bestowed his shield on you and promised his aid.",
   "icon": "data/images/d_/dl/ei/gear_nord_shield_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 465805514,
   "bindType": 2
 }

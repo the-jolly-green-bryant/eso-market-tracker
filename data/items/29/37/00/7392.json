@@ -4,6 +4,6 @@
   "description": "Darj gave you this shield for returning the dead at Skyshroud Barrow to their rest.",
   "icon": "data/images/d_/dl/ei/gear_nord_shield_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 363627885,
   "bindType": 2
 }

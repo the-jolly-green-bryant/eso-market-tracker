@@ -4,6 +4,6 @@
   "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Greaves.",
   "icon": "data/images/d_/sg/el/gear_breton_heavy_legs_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 3191372072,
   "bindType": -1
 }

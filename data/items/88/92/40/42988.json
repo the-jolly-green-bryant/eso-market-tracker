@@ -4,6 +4,6 @@
   "description": "Once worn by Captain Blanchete himself, this helm has seen every shore in southern Tamriel.",
   "icon": "data/images/d_/da/eh/gear_altmer_heavy_head_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 583810716,
   "bindType": 2
 }

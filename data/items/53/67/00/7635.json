@@ -4,6 +4,6 @@
   "description": "Sewn into the hem of this robe are numerous runes meant to ward and bind spirits and Daedra.",
   "icon": "data/images/d_/eb/or/gear_altmer_light_robe_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 3938116991,
   "bindType": 2
 }

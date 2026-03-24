@@ -4,6 +4,6 @@
   "description": "This helmet is slightly translucent.",
   "icon": "data/images/d_/da/eh/gear_bosmer_light_head_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2396237466,
   "bindType": 2
 }

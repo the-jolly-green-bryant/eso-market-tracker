@@ -4,6 +4,6 @@
   "description": "A weapon awarded for defeating the troll leader, Grimtooth, in Crestshade Mine.",
   "icon": "data/images/d_/ex/ah/gear_orc_2haxe_d.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 429498171,
   "bindType": 2
 }

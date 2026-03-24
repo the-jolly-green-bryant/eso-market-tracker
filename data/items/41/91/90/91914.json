@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/dl/ei/gear_breton_shield_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 1331265700,
   "bindType": 2
 }

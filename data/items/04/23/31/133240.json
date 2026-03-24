@@ -4,6 +4,6 @@
   "description": "The Clockwork Apostles furnish their proctors with the most finely-crafted armor in the Clockwork City.",
   "icon": "data/images/a_/sd/na/gear_apostle_heavy_hands_a.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 1550092903,
   "bindType": 2
 }

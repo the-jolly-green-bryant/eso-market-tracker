@@ -4,6 +4,6 @@
   "description": "This shirt crackles when you touch it.",
   "icon": "data/images/d_/tr/ih/gear_breton_light_shirt_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 127589065,
   "bindType": 2
 }

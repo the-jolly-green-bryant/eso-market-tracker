@@ -4,6 +4,6 @@
   "description": "This weapon was awarded for aiding the survivors of the giant attack on Lower Yorgrim.",
   "icon": "data/images/d_/ex/ah/gear_nord_1haxe_d.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 3978061587,
   "bindType": 2
 }

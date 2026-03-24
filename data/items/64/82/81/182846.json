@@ -4,6 +4,6 @@
   "description": "Tufeh provided this necklace as compensation for helping her at the Brandfire Reformatory.",
   "icon": "data/images/a_/kc/en/gear_khajiit_neck_a.png",
   "trait": 32,
-  "variantOf": null,
+  "variantOf": 356741684,
   "bindType": 2
 }

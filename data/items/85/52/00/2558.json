@@ -4,6 +4,6 @@
   "description": "These boots were awarded for helping Scout Vartis discover the secret of the Orcs of Malak's Maw.",
   "icon": "data/images/d_/te/ef/gear_dunmer_light_feet_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 4118106071,
   "bindType": 2
 }

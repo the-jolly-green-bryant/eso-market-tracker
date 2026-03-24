@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/wo/b_/gear_khajiit_bow_d.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 3052291631,
   "bindType": 2
 }

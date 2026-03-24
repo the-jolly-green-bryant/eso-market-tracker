@@ -4,6 +4,6 @@
   "description": "A rough, heavy mining tool, turned into a weapon by hostile druids on Amenos.",
   "icon": "data/images/c_/re/mm/gear_reach_2hhammer_c.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 3762917796,
   "bindType": 2
 }

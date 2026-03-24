@@ -4,6 +4,6 @@
   "description": "Awarded for trudging across the battlefield to bandage Pact soldiers injured while fighting the Worm Cult.",
   "icon": "data/images/d_/te/ef/gear_argonian_heavy_feet_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3572783291,
   "bindType": 2
 }

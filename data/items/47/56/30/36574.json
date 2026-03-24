@@ -4,6 +4,6 @@
   "description": "The mace of a failed ruler, who fell into the clutches of necromancy.",
   "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 24273946,
   "bindType": 2
 }

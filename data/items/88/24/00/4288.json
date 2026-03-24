@@ -4,6 +4,6 @@
   "description": "This weapon was awarded for avenging the village of Silent Mire against the Renrijra pirates.",
   "icon": "data/images/d_/ex/ah/gear_argonian_1haxe_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 3736240029,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "This light armor was awarded for helping the wyresses save the villagers at Deleyn's Mill.",
   "icon": "data/images/d_/eb/or/gear_bosmer_light_robe_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2682055918,
   "bindType": 2
 }

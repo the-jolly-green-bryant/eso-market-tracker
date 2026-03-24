@@ -4,6 +4,6 @@
   "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Mace.",
   "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 2610585195,
   "bindType": -1
 }

@@ -4,6 +4,6 @@
   "description": "A Daedric weapon, received as payment for assisting Captain Genevé Delitian.",
   "icon": "data/images/a_/wo/b_/gear_coldharbourdominator_bow_a.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 370589079,
   "bindType": 2
 }

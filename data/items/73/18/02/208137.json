@@ -4,6 +4,6 @@
   "description": "An elaborate helm marking the wearer's favor in West Weald, this Legion helm stands tall on its owner's head.",
   "icon": "data/images/d_/da/eh/gear_imperial_heavy_head_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 4015056312,
   "bindType": 2
 }

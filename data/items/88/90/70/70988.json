@@ -4,6 +4,6 @@
   "description": "Awarded for helping Ashaka to find the ancient forge of Clan Morkul.",
   "icon": "data/images/a_/re/mm/gear_wrothgarorc_2hhammer_a.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 1162761680,
   "bindType": 2
 }

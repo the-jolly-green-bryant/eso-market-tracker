@@ -4,6 +4,6 @@
   "description": "For disrupting the Red Rook and Bloodthorn meeting at the Dwynnarth Ruins, these medium leggings were awarded.",
   "icon": "data/images/d_/sg/el/gear_breton_medium_legs_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 2253711595,
   "bindType": 2
 }

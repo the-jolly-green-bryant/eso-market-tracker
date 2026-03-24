@@ -4,6 +4,6 @@
   "description": "King Fahara'jad bestowed this mighty weapon as thanks for your restoration of the Ansei Wards.",
   "icon": "data/images/d_/dr/ow/gear_redguard_2hsword_d.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 4239715205,
   "bindType": 2
 }

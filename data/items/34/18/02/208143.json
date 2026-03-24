@@ -4,6 +4,6 @@
   "description": "A brutal-looking weapon, ideal for crushing skulls.",
   "icon": "data/images/d_/re/mm/gear_breton_2hhammer_d.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 3591787507,
   "bindType": 2
 }

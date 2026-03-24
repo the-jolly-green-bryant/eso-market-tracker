@@ -4,6 +4,6 @@
   "description": "Gifted to you by Arana, this silvered helm can turn back the sharpest blade, fang, or claw.",
   "icon": "data/images/a_/da/eh/gear_waywardguardianmed_head_a.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 1773189787,
   "bindType": 2
 }

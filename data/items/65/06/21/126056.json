@@ -4,6 +4,6 @@
   "description": "The Orc smuggler Nakhul gave you these heavy gauntlets for rescuing slaves hiding from the Camonna Tong.",
   "icon": "data/images/d_/sd/na/gear_orc_heavy_hands_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3289667876,
   "bindType": 2
 }

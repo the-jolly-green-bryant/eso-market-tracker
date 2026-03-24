@@ -4,6 +4,6 @@
   "description": "This piece of armor is creaky with rust, yet surprisingly functional.",
   "icon": "data/images/d_/ts/eh/gear_orc_medium_chest_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3571715779,
   "bindType": 2
 }

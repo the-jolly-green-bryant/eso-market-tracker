@@ -4,6 +4,6 @@
   "description": "Erranenen thanked you with this ring for winning back his prized lute in a game of riddles at the Hatching Pools.",
   "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
   "trait": 23,
-  "variantOf": null,
+  "variantOf": 3017314150,
   "bindType": 2
 }

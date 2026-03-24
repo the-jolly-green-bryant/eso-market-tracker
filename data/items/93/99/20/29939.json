@@ -4,6 +4,6 @@
   "description": "The haft of this axe was hewn from the finest Skyrim lumber.",
   "icon": "data/images/d_/ex/ah/gear_dunmer_2haxe_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 462758474,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Slightly leaf-shaped, this Wood Elf sword bears the symbol of the Recollection's leadership.",
   "icon": "data/images/d_/dr/ow/gear_bosmer_1hsword_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 2256164068,
   "bindType": 2
 }

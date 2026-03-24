@@ -4,6 +4,6 @@
   "description": "A special pair of shoal-tender gloves given as a show of trust and respect by the Tide-Born tribe.",
   "icon": "data/images/a_/sd/na/gear_argoniansolstice_light_hands_a.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 1958756282,
   "bindType": 2
 }

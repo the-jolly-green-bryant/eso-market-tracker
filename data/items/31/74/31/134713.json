@@ -4,6 +4,6 @@
   "description": "The Sapiarchy awarded you these epaulets in gratitude for investigating the murder of one of their own.",
   "icon": "data/images/a_/sr/ed/gear_sapiarch_light_shoulders_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 1327319816,
   "bindType": 2
 }

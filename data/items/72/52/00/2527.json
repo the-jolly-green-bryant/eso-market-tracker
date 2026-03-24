@@ -4,6 +4,6 @@
   "description": "Dame Dabienne of the Knights of the Flame was glad to be freed from the Koeglin Village stocks. She awarded you these gauntlets.",
   "icon": "data/images/d_/sd/na/gear_breton_heavy_hands_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3944623967,
   "bindType": 2
 }

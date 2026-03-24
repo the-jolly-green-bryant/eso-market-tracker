@@ -4,6 +4,6 @@
   "description": "This shield symbolized the steadfast protective nature of the legendary Argonian defenders, the Four Winds.",
   "icon": "data/images/d_/dl/ei/gear_argonian_shield_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 2644173434,
   "bindType": 2
 }

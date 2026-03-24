@@ -4,6 +4,6 @@
   "description": "A weapon awarded for defeating the Red Rook Bandits' officer, Valenwe, at Cryptwatch Fort.",
   "icon": "data/images/d_/re/gg/gear_breton_dagger_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 1011053489,
   "bindType": 2
 }

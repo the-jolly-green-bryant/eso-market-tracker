@@ -4,6 +4,6 @@
   "description": "Light hand coverings awarded for defeating the giant crocodile, Trapjaw.",
   "icon": "data/images/d_/sd/na/gear_breton_light_hands_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 2019653074,
   "bindType": 2
 }

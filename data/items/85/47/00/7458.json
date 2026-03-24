@@ -4,6 +4,6 @@
   "description": "Bestowed by the merchant Daeril for releasing the spirits of his companions, confined in crystals by the Worm Cult.",
   "icon": "data/images/d_/dr/ow/gear_altmer_1hsword_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 1260417980,
   "bindType": 2
 }

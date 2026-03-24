@@ -1,0 +1,9 @@
+{
+  "canonicalId": 3188419290,
+  "name": "Dwarven Brass Sallet",
+  "description": "A Dwemer helm found in the ruins of Rkindaleft.",
+  "icon": "data/images/a_/da/eh/gear_dwarven_medium_head_a.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": 2
+}

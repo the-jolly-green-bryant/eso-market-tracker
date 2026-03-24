@@ -4,6 +4,6 @@
   "description": "You defended Sea Keep from a Maormer siege. For your valor, you received this excellent Dominion armor.",
   "icon": "data/images/a_/ts/eh/gear_aldmeri_heavy_chest_a.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 1098913898,
   "bindType": 2
 }

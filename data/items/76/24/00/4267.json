@@ -4,6 +4,6 @@
   "description": "You received these gloves for helping resolve the situation between the Argonians and Betina Volek in Mournhold.",
   "icon": "data/images/d_/sd/na/gear_dunmer_light_hands_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 1455062250,
   "bindType": 2
 }

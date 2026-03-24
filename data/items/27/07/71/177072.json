@@ -4,6 +4,6 @@
   "description": "Only Companions may equip this item.",
   "icon": "data/images/dr/ow/s_/companions_u30_equipment_sword.png",
   "trait": 41,
-  "variantOf": null,
+  "variantOf": 225938398,
   "bindType": 2
 }

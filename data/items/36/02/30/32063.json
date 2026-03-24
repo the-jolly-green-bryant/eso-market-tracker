@@ -4,6 +4,6 @@
   "description": "This thick armor seems to have been designed specifically to deter a vampire's bite.",
   "icon": "data/images/d_/ts/eh/gear_bosmer_medium_chest_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 694674082,
   "bindType": 2
 }

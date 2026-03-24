@@ -4,6 +4,6 @@
   "description": "A ring with a hidden compartment for spices. Filled with a signature concoction containing, among other things, Volcanic Reaper Peppers.",
   "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 3950023745,
   "bindType": 2
 }

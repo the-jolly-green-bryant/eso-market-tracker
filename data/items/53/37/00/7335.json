@@ -4,6 +4,6 @@
   "description": "For helping the miner of Deepcrag Den, Boril Drelas gave you these gloves.",
   "icon": "data/images/a_/sd/na/gear_primative_medium_hands_a.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 1987055262,
   "bindType": 2
 }

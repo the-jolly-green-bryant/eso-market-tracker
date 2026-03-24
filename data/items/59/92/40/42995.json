@@ -4,6 +4,6 @@
   "description": "This breastplate is cool to the touch.",
   "icon": "data/images/d_/ts/eh/gear_breton_medium_chest_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 1847753590,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Gathering up cursed items does occasionally pay off! This buckle is polished to a mirror-sheen.",
   "icon": "data/images/d_/ts/ia/gear_nord_light_waist_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 2318787023,
   "bindType": 2
 }

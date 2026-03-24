@@ -4,6 +4,6 @@
   "description": "Embroidered with Psijic designs, this elegant robe is stronger than it appears.",
   "icon": "data/images/a_/eb/or/gear_psijicorder_light_robe_a.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 2263059370,
   "bindType": 2
 }

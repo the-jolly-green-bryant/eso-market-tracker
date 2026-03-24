@@ -4,6 +4,6 @@
   "description": "Bestowed by the Keeper of the Shell after you uncovered a Dominion poultice that destroys Hist trees.",
   "icon": "data/images/a_/kc/en/gear_argonian_neck_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 1021504612,
   "bindType": 2
 }

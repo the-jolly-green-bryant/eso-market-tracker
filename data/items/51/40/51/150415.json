@@ -4,6 +4,6 @@
   "description": "The Akaviri Potentate's peculiar armorsmithing practices changed the Imperial legions forever.",
   "icon": "data/images/a_/ts/ia/gear_akaviri_medium_waist_a.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3905422900,
   "bindType": 2
 }

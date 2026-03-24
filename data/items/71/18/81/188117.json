@@ -4,6 +4,6 @@
   "description": "Well-worn, comfortable boots made to tread the rocky coastlines of High Isle.",
   "icon": "data/images/te/ef/_2/gear_nordmedv2_feet.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 2868278590,
   "bindType": 2
 }

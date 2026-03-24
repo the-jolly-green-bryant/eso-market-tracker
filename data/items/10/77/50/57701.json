@@ -4,6 +4,6 @@
   "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Battle Axe.",
   "icon": "data/images/d_/ex/ah/gear_breton_2haxe_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 4111168663,
   "bindType": -1
 }

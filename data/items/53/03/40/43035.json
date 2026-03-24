@@ -4,6 +4,6 @@
   "description": "A weapon awarded for defeating the necromancer, Vivien Armene.",
   "icon": "data/images/d_/re/mm/gear_breton_1hhammer_d.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 3822380560,
   "bindType": 2
 }

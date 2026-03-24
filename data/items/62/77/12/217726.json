@@ -4,6 +4,6 @@
   "description": "A ring awarded to the \"Most Adored\" of the Blushing Brush.",
   "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 1597308189,
   "bindType": 2
 }

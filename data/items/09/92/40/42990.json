@@ -4,6 +4,6 @@
   "description": "The legends of fire-breathing snakes are just that, legends. Or so they say.",
   "icon": "data/images/d_/ff/at/gear_bosmer_staff_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 801475187,
   "bindType": 2
 }

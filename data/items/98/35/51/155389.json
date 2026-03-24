@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/a_/dl/ei/gear_dragonguard_shield_a.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 1895272503,
   "bindType": 2
 }

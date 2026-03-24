@@ -4,6 +4,6 @@
   "description": "The grip of this massive sword tingles at your touch. While holding it, you can always feel a fresh breeze.",
   "icon": "data/images/d_/dr/ow/gear_altmer_2hsword_d.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 734262026,
   "bindType": 2
 }

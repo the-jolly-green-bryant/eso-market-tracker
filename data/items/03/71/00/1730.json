@@ -4,6 +4,6 @@
   "description": "This peculiar crown looks too small to fit comfortably. When worn, the faint urge to dance is unrelenting.",
   "icon": "data/images/a_/da/eh/gear_daedric_light_head_a.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 1017611090,
   "bindType": 2
 }

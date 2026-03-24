@@ -4,6 +4,6 @@
   "description": "Kireth Vanos bestowed this staff for destroying the Daedric lenses and releasing her from the gallery at the Library of Dusk.",
   "icon": "data/images/c_/ff/at/gear_daedric_staff_c.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3135364225,
   "bindType": 2
 }

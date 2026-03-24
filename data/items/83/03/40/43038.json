@@ -4,6 +4,6 @@
   "description": "A ring awarded for defeating the giant sabre cat, Ammabani.",
   "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
   "trait": 23,
-  "variantOf": null,
+  "variantOf": 2902476775,
   "bindType": 2
 }

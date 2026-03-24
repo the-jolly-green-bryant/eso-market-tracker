@@ -4,6 +4,6 @@
   "description": "A reward from the Resolutes of Stendarr for cutting through Vila Theran's webs.",
   "icon": "data/images/d_/da/eh/gear_nord_light_head_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3013635617,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Mind your step around untrained dogs.",
   "icon": "data/images/a_/te/ef/gear_anequina_light_feet_a.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 1646612342,
   "bindType": 2
 }

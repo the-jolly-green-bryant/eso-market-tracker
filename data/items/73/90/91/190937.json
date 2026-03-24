@@ -4,6 +4,6 @@
   "description": "While it may not be as sharp as it once was, this Elven cleaver can still hew flesh, wood, and stone with brutal efficiency.",
   "icon": "data/images/d_/ex/ah/gear_altmer_2haxe_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 2869799547,
   "bindType": 2
 }

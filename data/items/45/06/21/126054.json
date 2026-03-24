@@ -4,6 +4,6 @@
   "description": "This ornate breastplate marks you as the Champion of Vivec, the Warrior-Poet of the Tribunal.",
   "icon": "data/images/a_/ts/eh/gear_buoyantarmiger_heavy_chest_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3876619747,
   "bindType": 2
 }

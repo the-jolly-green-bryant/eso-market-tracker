@@ -4,6 +4,6 @@
   "description": "Almalexia herself gave you this helm for defeating Vanus Sathram and saving the Tribunal Temple.",
   "icon": "data/images/d_/da/eh/gear_dunmer_medium_head_d.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 411175753,
   "bindType": 2
 }

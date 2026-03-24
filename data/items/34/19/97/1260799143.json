@@ -1,0 +1,9 @@
+{
+  "canonicalId": 1260799143,
+  "name": "Stirk Fellowship Greatsword",
+  "description": "A weapon awarded to members of the Stirk Fellowship for outstanding service.",
+  "icon": "data/images/a_/dr/ow/gear_fellowshipstirk_2hsword_a.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": 2
+}

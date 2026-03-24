@@ -4,6 +4,6 @@
   "description": "A medal of the highest honor bestowed by Queen Khamira for helping to save Elsweyr from a rage of Dragons.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 21,
-  "variantOf": null,
+  "variantOf": 2687199629,
   "bindType": 2
 }

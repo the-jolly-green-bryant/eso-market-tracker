@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/sd/na/gear_bosmer_heavy_hands_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 1456190180,
   "bindType": 2
 }

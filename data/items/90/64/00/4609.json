@@ -4,6 +4,6 @@
   "description": "In addition to pledging to build a statue in your honor, Ganise Nurin of Nurin Farm awarded this armor for saving her father from the Supernal Dreamers.",
   "icon": "data/images/d_/ts/eh/gear_breton_medium_chest_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 573026572,
   "bindType": 2
 }

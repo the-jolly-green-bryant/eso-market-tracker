@@ -4,6 +4,6 @@
   "description": "Svari, now a sage, gifted you her staff after you accompanied her to Fallowstone's shrines.",
   "icon": "data/images/d_/ff/at/gear_nord_staff_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2333573642,
   "bindType": 2
 }

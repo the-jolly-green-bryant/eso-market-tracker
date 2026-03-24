@@ -4,6 +4,6 @@
   "description": "You helped the bookseller Nammadin after he was attacked on the road to Orsinium.",
   "icon": "data/images/d_/sg/el/gear_orc_light_legs_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3873820913,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "This belt includes several inner pockets for holding coins and lockpicks.",
   "icon": "data/images/d_/ts/ia/gear_khajiit_medium_waist_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 1996443367,
   "bindType": 2
 }

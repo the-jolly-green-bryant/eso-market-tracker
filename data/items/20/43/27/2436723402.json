@@ -1,0 +1,9 @@
+{
+  "canonicalId": 2436723402,
+  "name": "Exemplary Harmony Necklace",
+  "description": "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Harmony Trait for Necklaces.",
+  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": -1
+}

@@ -4,6 +4,6 @@
   "description": "A shield scarred but made strong in the fires that ravaged South Guard.",
   "icon": "data/images/a_/dl/ei/gear_shieldsenchal_shield_a.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 1011001597,
   "bindType": 2
 }

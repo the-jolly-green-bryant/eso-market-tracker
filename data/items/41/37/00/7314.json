@@ -4,6 +4,6 @@
   "description": "A pendant bestowed by Constable Aguza for aiding the people of Fell's Run.",
   "icon": "data/images/20/0_/sd/quest_hands_002.png",
   "trait": 23,
-  "variantOf": null,
+  "variantOf": 2000859587,
   "bindType": 2
 }

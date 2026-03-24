@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/tr/ih/gear_argonian_light_shirt_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 1199550116,
   "bindType": 2
 }

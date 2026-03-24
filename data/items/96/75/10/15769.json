@@ -4,6 +4,6 @@
   "description": "You saved Stibbons from alluring Daedra, so he gave you the shirt off his back. Or one very much like it.",
   "icon": "data/images/d_/eb/or/gear_breton_light_robe_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3298939739,
   "bindType": 2
 }

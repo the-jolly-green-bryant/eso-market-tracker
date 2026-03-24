@@ -4,6 +4,6 @@
   "description": "This weapon smells vaguely of moon-sugar candy.",
   "icon": "data/images/d_/ex/ah/gear_khajiit_1haxe_d.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 3903532524,
   "bindType": 2
 }

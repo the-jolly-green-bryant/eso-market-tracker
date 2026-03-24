@@ -4,6 +4,6 @@
   "description": "A staff that signifies the sacrifice it took to see those in the Remnant of Argon reborn in the Hist.",
   "icon": "data/images/10/0r/ed/quest_murkmire_staff_rootmender001.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 3928853110,
   "bindType": 2
 }

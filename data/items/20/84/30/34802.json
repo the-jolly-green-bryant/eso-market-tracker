@@ -4,6 +4,6 @@
   "description": "The Colovian deserters that found their way to Fardir's Folly found the life of the brigand much to their liking.",
   "icon": "data/images/d_/ts/eh/gear_breton_heavy_chest_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 1895937278,
   "bindType": 2
 }

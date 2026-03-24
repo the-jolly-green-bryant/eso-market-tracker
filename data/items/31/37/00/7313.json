@@ -4,6 +4,6 @@
   "description": "Weapon received after dealing with the war criminal Althen at Sanguine Barrows.",
   "icon": "data/images/d_/re/mm/gear_breton_2hhammer_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 3647225132,
   "bindType": 2
 }

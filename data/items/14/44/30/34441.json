@@ -4,6 +4,6 @@
   "description": "The dead of Wansalen were tightly controlled, likely because of the numerous Daedric runes sewn at this kilt's hem.",
   "icon": "data/images/d_/sg/el/gear_altmer_light_legs_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 618248275,
   "bindType": 2
 }

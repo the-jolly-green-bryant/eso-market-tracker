@@ -4,6 +4,6 @@
   "description": "Thane Oda Wolf-Sister gave you these sandals for acquiring the vampire blood and aid of a Dreamwalker.",
   "icon": "data/images/d_/te/ef/gear_nord_light_feet_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 8033852,
   "bindType": 2
 }

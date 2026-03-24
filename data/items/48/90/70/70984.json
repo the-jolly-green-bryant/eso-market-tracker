@@ -4,6 +4,6 @@
   "description": "Earned by completing the Rites of Praise and Scorn in Old Orsinium. Malacath deems you worthy.",
   "icon": "data/images/a_/ex/ah/gear_malacath_1haxe_a.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 3555408413,
   "bindType": 2
 }

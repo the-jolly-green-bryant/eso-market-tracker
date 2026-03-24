@@ -4,6 +4,6 @@
   "description": "House Redoran invested a great deal of gold to weave these fine robes.",
   "icon": "data/images/d_/eb/or/gear_dunmer_light_robe_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 2933497453,
   "bindType": 2
 }

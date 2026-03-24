@@ -4,6 +4,6 @@
   "description": "A set of light shoulder armor found in the depths of the Glenbridge Xanmeer while helping save Lady Laurent's manservant, Stibbons, from a sorcerous voriplasm.",
   "icon": "data/images/a_/re/dl/gear_elderarg_light_shoulder_a.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 3938567067,
   "bindType": 2
 }

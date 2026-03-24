@@ -4,6 +4,6 @@
   "description": "Sir Hughes awarded one of his personal weapons for your discretion in investigating the meaning of Almandine.",
   "icon": "data/images/d_/ex/ah/gear_breton_1haxe_d.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 690892352,
   "bindType": 2
 }

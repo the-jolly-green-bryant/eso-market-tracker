@@ -4,6 +4,6 @@
   "description": "This crudely made chestpiece seems very sturdy, able to stand up to any attack.",
   "icon": "data/images/d_/ts/eh/gear_nord_medium_chest_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 2093875023,
   "bindType": 2
 }

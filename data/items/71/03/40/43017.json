@@ -4,6 +4,6 @@
   "description": "Blessed by the tribe's wise woman in the Cave of Memories.",
   "icon": "data/images/d_/sg/el/gear_bosmer_light_legs_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 723533578,
   "bindType": 2
 }

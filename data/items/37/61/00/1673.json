@@ -4,6 +4,6 @@
   "description": "There is a tiny etching of an ear on the back of this amulet. In dim light, the etching glows faintly.",
   "icon": "data/images/a_/kc/en/gear_altmer_neck_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 359992297,
   "bindType": 2
 }

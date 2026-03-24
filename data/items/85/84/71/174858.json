@@ -4,6 +4,6 @@
   "description": "Light foot coverings used by Argonian priests and recovered from the ruins of Xi-Tsei.",
   "icon": "data/images/d_/te/ef/gear_argonian_light_feet_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 3462528226,
   "bindType": 2
 }

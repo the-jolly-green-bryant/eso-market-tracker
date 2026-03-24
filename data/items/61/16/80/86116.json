@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/c_/ff/at/gear_primative_staff_c.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 1100715541,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/ec/am/_t/gear_shardknight_mace.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 1351115204,
   "bindType": 2
 }

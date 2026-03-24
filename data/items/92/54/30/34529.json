@@ -4,6 +4,6 @@
   "description": "A shield awarded for defeating the Dark Seducer champion, Nerazakan, in the Depraved Grotto.",
   "icon": "data/images/c_/dl/ei/gear_daedric_shield_c.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 1884625012,
   "bindType": 2
 }

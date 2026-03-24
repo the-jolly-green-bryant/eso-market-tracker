@@ -4,6 +4,6 @@
   "description": "A well-sewn embroidered vest, perfect for business dealings in Saintsport.",
   "icon": "data/images/d_/ts/eh/gear_redguard_medium_chest_d.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 1523889759,
   "bindType": 2
 }

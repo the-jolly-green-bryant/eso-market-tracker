@@ -4,6 +4,6 @@
   "description": "Contains 5 gear pieces from the Steadfast's Mettle set.",
   "icon": "data/images/xo/bt/fi/event_midyear_giftbox.png",
   "trait": 1,
-  "variantOf": null,
+  "variantOf": 1748203892,
   "bindType": 3
 }

@@ -4,6 +4,6 @@
   "description": "This light belt was awarded for helping the wyresses save the villagers at Deleyn's Mill.",
   "icon": "data/images/d_/ts/ia/gear_bosmer_light_waist_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 2089520165,
   "bindType": 2
 }

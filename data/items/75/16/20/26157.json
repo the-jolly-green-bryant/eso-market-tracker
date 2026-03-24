@@ -4,6 +4,6 @@
   "description": "This breezy sash flows and moves even when there's no wind.",
   "icon": "data/images/d_/ts/ia/gear_redguard_light_waist_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 997372629,
   "bindType": 2
 }

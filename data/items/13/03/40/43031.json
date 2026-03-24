@@ -4,6 +4,6 @@
   "description": "This belt creaks when bent.",
   "icon": "data/images/d_/ts/ia/gear_argonian_heavy_waist_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 130223867,
   "bindType": 2
 }

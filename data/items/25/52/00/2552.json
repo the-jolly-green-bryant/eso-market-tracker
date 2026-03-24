@@ -4,6 +4,6 @@
   "description": "These waterproof shoes were a gift from Captain Albert Marck in thanks for saving his crew from Ember-Eye slavers.",
   "icon": "data/images/d_/te/ef/gear_breton_light_feet_d.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 368811491,
   "bindType": 2
 }

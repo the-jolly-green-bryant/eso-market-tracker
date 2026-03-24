@@ -4,6 +4,6 @@
   "description": "The discarded appendages of one of Lord Seht's many failed prototypes.",
   "icon": "data/images/a_/sd/na/gear_dwarven_heavy_hands_a.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 2113668475,
   "bindType": 2
 }

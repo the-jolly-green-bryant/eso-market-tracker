@@ -4,6 +4,6 @@
   "description": "Payment for assisting Grasp-Kyn Zyr and the Grasp of the Stricture.",
   "icon": "data/images/a_/sr/ed/gear_daedric_heavy_shoulders_a.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3524478478,
   "bindType": 2
 }

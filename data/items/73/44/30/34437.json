@@ -4,6 +4,6 @@
   "description": "The Maormer raiders of Bewan used gear like this, all originally forged on their fog-choked home islands.",
   "icon": "data/images/d_/sg/el/gear_altmer_heavy_legs_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 1794570973,
   "bindType": 2
 }

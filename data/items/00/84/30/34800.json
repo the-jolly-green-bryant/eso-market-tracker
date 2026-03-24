@@ -4,6 +4,6 @@
   "description": "The pack at Weeping Wind cave originated elsewhere in Valenwood, but found the hunting in the March too good to pass up.",
   "icon": "data/images/d_/dr/ow/gear_bosmer_1hsword_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 130198531,
   "bindType": 2
 }

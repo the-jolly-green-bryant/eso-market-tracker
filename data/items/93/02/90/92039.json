@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 1822230059,
   "bindType": 2
 }

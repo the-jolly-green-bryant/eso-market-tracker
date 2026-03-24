@@ -4,6 +4,6 @@
   "description": "Spoils from Morthal Barrow, awarded for service to Hjaalmarch Hold.",
   "icon": "data/images/d_/ts/eh/gear_nord_heavy_chest_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 31664632,
   "bindType": 2
 }

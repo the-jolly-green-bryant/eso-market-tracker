@@ -4,6 +4,6 @@
   "description": "Age has reduced this staff's flames to embers. Even so, a well-placed fire bolt can still pack a punch.",
   "icon": "data/images/d_/ff/at/gear_khajiit_staff_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 3500656481,
   "bindType": 2
 }

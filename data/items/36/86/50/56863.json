@@ -4,6 +4,6 @@
   "description": "Can be used to enhance weapons.",
   "icon": "data/images/ts/ud/_x/crafting_potent_nirncrux_dust.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 2500063182,
   "bindType": -1
 }

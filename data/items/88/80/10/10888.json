@@ -4,6 +4,6 @@
   "description": "This girdle provides a sense of comfort and strength when you wear it around your waist.",
   "icon": "data/images/d_/ts/ia/gear_bosmer_heavy_waist_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 1493903605,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "The booty from a legendary pirate captain's haul included this golden bauble.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 848057206,
   "bindType": 2
 }

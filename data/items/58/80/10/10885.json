@@ -4,6 +4,6 @@
   "description": "A blade used to unite lovers, not separate them.",
   "icon": "data/images/d_/dr/ow/gear_argonian_1hsword_d.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 591631998,
   "bindType": 2
 }

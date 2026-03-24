@@ -4,6 +4,6 @@
   "description": "Ancient Nighthollow jewelers imbued this pendant with all the cruelty and avarice of their great clan—a perfect reflection of their thirst for power.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 2230502318,
   "bindType": 2
 }

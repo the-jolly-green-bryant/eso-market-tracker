@@ -4,6 +4,6 @@
   "description": "This shield bears an inscrutable insignia.",
   "icon": "data/images/d_/dl/ei/gear_dunmer_shield_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 1937734068,
   "bindType": 2
 }

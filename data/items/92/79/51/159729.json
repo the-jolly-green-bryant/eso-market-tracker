@@ -4,6 +4,6 @@
   "description": "A Dwarven staff designed to herd Dwarven Spiders, acquired in the Scraps.",
   "icon": "data/images/c_/ff/at/gear_dwarven_staff_c.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 2148016683,
   "bindType": 2
 }

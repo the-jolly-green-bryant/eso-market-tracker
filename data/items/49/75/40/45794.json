@@ -4,6 +4,6 @@
   "description": "A belt spun of spider silk. The patterns seem divinely influenced.",
   "icon": "data/images/d_/eb/or/gear_khajiit_light_robe_d.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 910764577,
   "bindType": 2
 }

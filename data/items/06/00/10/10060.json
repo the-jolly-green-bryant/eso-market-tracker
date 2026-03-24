@@ -4,6 +4,6 @@
   "description": "The Dreamwalker Stormy-Eyes gave you these protective gloves for aid provided to the Argonians of Darkwater Crossing.",
   "icon": "data/images/d_/sd/na/gear_argonian_medium_hands_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 3705727958,
   "bindType": 2
 }

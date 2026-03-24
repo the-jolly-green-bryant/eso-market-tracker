@@ -4,6 +4,6 @@
   "description": "Stained with the blood of a dozen sacrifices at the Shivering Shrine.",
   "icon": "data/images/d_/re/gg/gear_argonian_dagger_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 4201902930,
   "bindType": 2
 }

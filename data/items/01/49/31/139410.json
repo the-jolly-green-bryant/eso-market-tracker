@@ -4,6 +4,6 @@
   "description": "Can be used to enhance jewelry.",
   "icon": "data/images/60/0_/tn/crafting_runecrafter_armor_component_006.png",
   "trait": 32,
-  "variantOf": null,
+  "variantOf": 1802135158,
   "bindType": -1
 }

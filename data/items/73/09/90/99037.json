@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/ts/eh/gear_argonian_medium_chest_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 3326076255,
   "bindType": 2
 }

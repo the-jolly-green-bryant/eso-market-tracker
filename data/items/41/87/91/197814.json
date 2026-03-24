@@ -4,6 +4,6 @@
   "description": "A well-made piece of equipment scavenged from the body of an extraplanar intruder.",
   "icon": "data/images/a_/ts/ia/gear_armamentofthekindred_medium_waist_a.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 3317740895,
   "bindType": 2
 }

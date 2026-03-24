@@ -4,6 +4,6 @@
   "description": "These heavy leggings were awarded for helping the Lion Guard repel a Dominion attack at Farwatch Tower.",
   "icon": "data/images/d_/sg/el/gear_breton_heavy_legs_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 2556652276,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Taken up by a fallen hunter in the Brahma's Grove.",
   "icon": "data/images/d_/wo/b_/gear_dunmer_bow_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 1832608774,
   "bindType": 2
 }

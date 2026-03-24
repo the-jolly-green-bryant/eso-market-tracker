@@ -4,6 +4,6 @@
   "description": "Can be used to enhance jewelry.",
   "icon": "data/images/20/0_/tn/crafting_outfitter_plug_component_002.png",
   "trait": 28,
-  "variantOf": null,
+  "variantOf": 320904211,
   "bindType": -1
 }

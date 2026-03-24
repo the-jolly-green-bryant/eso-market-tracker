@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/wo/b_/gear_breton_bow_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 1800760434,
   "bindType": 2
 }

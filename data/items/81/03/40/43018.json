@@ -4,6 +4,6 @@
   "description": "Smells faintly of the tides around Matron's Clutch.",
   "icon": "data/images/d_/sg/el/gear_nord_medium_legs_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 3404429843,
   "bindType": 2
 }

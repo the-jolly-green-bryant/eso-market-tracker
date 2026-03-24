@@ -4,6 +4,6 @@
   "description": "This distinctive but not unpleasant odor permeating this armor is said to repel fleshflies.",
   "icon": "data/images/d_/eb/or/gear_khajiit_light_robe_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2805060869,
   "bindType": 2
 }

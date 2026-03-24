@@ -4,6 +4,6 @@
   "description": "A relic interred within the Ancestral Crypt. Disturbed by the dark magics of Mannimarco and once worn by a Sword Saint of old.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 23,
-  "variantOf": null,
+  "variantOf": 2280056549,
   "bindType": 2
 }

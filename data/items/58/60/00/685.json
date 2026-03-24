@@ -4,6 +4,6 @@
   "description": "For purging the Midnight Talisman and restoring its power, mage Gabrielle Benele awarded this healing staff.",
   "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 3784366229,
   "bindType": 2
 }

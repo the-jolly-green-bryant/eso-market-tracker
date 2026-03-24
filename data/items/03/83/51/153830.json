@@ -4,6 +4,6 @@
   "description": "A restored helmet found within the armory of the Dragonguard Sanctum.",
   "icon": "data/images/a_/da/eh/gear_dragonguardmed_head_a.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 3038330337,
   "bindType": 2
 }

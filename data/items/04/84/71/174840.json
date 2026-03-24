@@ -4,6 +4,6 @@
   "description": "Buried for who knows how long, the pirate captain's hammer still looks to be in perfect condition.",
   "icon": "data/images/d_/re/mm/gear_imperial_1hhammer_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 391880207,
   "bindType": 2
 }

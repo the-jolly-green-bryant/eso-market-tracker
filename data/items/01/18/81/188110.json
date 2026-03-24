@@ -4,6 +4,6 @@
   "description": "Crafted by a certain Khajiiti mage apprentice, this shock staff will be sure to have your fur standing on end.",
   "icon": "data/images/d_/ff/at/gear_khajiit_staff_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 544929137,
   "bindType": 2
 }

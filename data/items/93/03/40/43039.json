@@ -4,6 +4,6 @@
   "description": "A necklace awarded for defeating the giant snow bear, Beralagr.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 450262584,
   "bindType": 2
 }

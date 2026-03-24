@@ -4,6 +4,6 @@
   "description": "The Whispering Shadows cult that serves Nocturnal crafts its armor with threads of living shadow pulled from the streams of Evergloam.",
   "icon": "data/images/a_/ts/ia/gear_nocturnal_medium_waist_a.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 359599597,
   "bindType": 2
 }

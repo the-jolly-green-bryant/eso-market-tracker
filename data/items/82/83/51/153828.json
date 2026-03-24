@@ -4,6 +4,6 @@
   "description": "An ancient Dragonguard blade found among the ruins of the Dragonguard Sanctum. Whatever foundry produced it could likely be restored.",
   "icon": "data/images/a_/dr/ow/gear_dragonguard_sword_a.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 2086572424,
   "bindType": 2
 }

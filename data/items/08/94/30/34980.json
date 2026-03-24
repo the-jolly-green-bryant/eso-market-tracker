@@ -4,6 +4,6 @@
   "description": "Smells vaguely of the cabbage eaten by Goblins in Mephala's Nest.",
   "icon": "data/images/d_/da/eh/gear_bosmer_light_head_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 3680836462,
   "bindType": 2
 }

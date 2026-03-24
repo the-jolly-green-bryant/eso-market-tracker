@@ -4,6 +4,6 @@
   "description": "After you impressed the Nords of Geirmund's Hall with your mead tolerance and song, they knew these boots would fit you nicely.",
   "icon": "data/images/d_/te/ef/gear_nord_medium_feet_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 1450452690,
   "bindType": 2
 }

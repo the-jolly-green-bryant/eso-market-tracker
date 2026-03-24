@@ -4,6 +4,6 @@
   "description": "Ancient attire, discarded long ago and sealed away for centuries beneath Darkshade Caverns.",
   "icon": "data/images/a_/eb/or/gear_primative_light_robe_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2748716840,
   "bindType": 2
 }

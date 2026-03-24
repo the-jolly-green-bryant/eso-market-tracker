@@ -4,6 +4,6 @@
   "description": "For defeating Emperor Tarish-Zi at the Tombs of the Na-Totambu, Titus Valerius awarded you this ancient Yokudan greatsword.",
   "icon": "data/images/a_/dr/ow/gear_yokudan_2hsword_a.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 4239711244,
   "bindType": 2
 }

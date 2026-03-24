@@ -4,6 +4,6 @@
   "description": "These heavy Dwarven pauldrons rested in Markarth's vaults for centuries. Now, by the order of Ard Caddach, they belong to you—the hero of the Reach.",
   "icon": "data/images/a_/sr/ed/gear_arkthzand_heavy_shoulders_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 3019596029,
   "bindType": 2
 }

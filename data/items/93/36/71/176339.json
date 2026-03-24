@@ -4,6 +4,6 @@
   "description": "Only Companions may equip this item.",
   "icon": "data/images/mu/id/em/companions_u30_equipment_boots_medium.png",
   "trait": 36,
-  "variantOf": null,
+  "variantOf": 1593675402,
   "bindType": 2
 }

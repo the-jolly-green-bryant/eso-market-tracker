@@ -4,6 +4,6 @@
   "description": "Lady Eloise awarded this pendant for recovering her lockbox from the Red Rook Bandits.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 3328480332,
   "bindType": 2
 }

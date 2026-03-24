@@ -4,6 +4,6 @@
   "description": "Can be used to enhance jewelry.",
   "icon": "data/images/ms/ir/pn/jewelrycrafting_trait_refined_dawnprism.png",
   "trait": 30,
-  "variantOf": null,
+  "variantOf": 1065300151,
   "bindType": -1
 }

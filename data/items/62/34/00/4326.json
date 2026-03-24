@@ -4,6 +4,6 @@
   "description": "Aerona Berendas gave you this light headpiece for helping combat the Llodos plague in Quarantine Serk.",
   "icon": "data/images/d_/da/eh/gear_dunmer_light_head_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 679876041,
   "bindType": 2
 }

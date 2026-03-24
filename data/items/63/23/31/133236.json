@@ -4,6 +4,6 @@
   "description": "With all of the sparking, burning, and bladed objects in the Clockwork City, having good protection at knee level is considered essential.",
   "icon": "data/images/a_/sg/el/gear_apostle_heavy_legs_a.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 3712206627,
   "bindType": 2
 }

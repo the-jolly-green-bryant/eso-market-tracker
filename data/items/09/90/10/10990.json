@@ -4,6 +4,6 @@
   "description": "Fashioned for a true guard of the Thane after you protected her against Worm Cultists.",
   "icon": "data/images/d_/da/eh/gear_nord_heavy_head_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 2175377025,
   "bindType": 2
 }

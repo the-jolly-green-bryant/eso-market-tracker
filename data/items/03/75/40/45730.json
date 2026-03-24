@@ -4,6 +4,6 @@
   "description": "This headgear is warm to the touch, though the source of its heat is uncertain.",
   "icon": "data/images/d_/da/eh/gear_imperial_light_head_d.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 544535783,
   "bindType": 2
 }

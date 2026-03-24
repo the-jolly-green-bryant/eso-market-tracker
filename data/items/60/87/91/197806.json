@@ -4,6 +4,6 @@
   "description": "Sometimes the delicate devices of Apocrypha benefit from a sound hit with a blunt instrument.",
   "icon": "data/images/d_/re/mm/gear_khajiit_1hhammer_d.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 1251359003,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Can be used to enhance weapons.",
   "icon": "data/images/3r/_t/sy/crafting_jewelry_base_amethyst_r3.png",
   "trait": 2,
-  "variantOf": null,
+  "variantOf": 2874364994,
   "bindType": -1
 }

@@ -4,6 +4,6 @@
   "description": "Dro-Dara awarded these handcrafted robes as thanks for rescuing his retired adventuring party from the bandits looting his plantation.",
   "icon": "data/images/d_/eb/or/gear_argonian_light_robe_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2543847541,
   "bindType": 2
 }

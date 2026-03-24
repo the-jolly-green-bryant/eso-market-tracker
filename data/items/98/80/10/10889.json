@@ -4,6 +4,6 @@
   "description": "Holding this staff reminds you of Sumiril's story. Your mind feels keener.",
   "icon": "data/images/d_/ff/at/gear_altmer_staff_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 2073638013,
   "bindType": 2
 }

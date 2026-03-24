@@ -4,6 +4,6 @@
   "description": "As thanks for banishing the spirits of the infamous Three in Windshear Cave, the spirit of Sir Edain gifted you a trusty war belt he wore in life.",
   "icon": "data/images/d_/ts/ia/gear_breton_medium_waist_d.png",
   "trait": 14,
-  "variantOf": null,
+  "variantOf": 33397415,
   "bindType": 2
 }

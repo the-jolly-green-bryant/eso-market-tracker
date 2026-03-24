@@ -4,6 +4,6 @@
   "description": "This hammer was frost-forged for extra strength.",
   "icon": "data/images/d_/re/mm/gear_nord_1hhammer_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 232878314,
   "bindType": 2
 }

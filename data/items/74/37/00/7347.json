@@ -4,6 +4,6 @@
   "description": "Daedric script lines the inside of the shield. The acrid smell reminds you of the prison bars in Coldharbour.",
   "icon": "data/images/c_/dl/ei/gear_daedric_shield_c.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 407904116,
   "bindType": 2
 }

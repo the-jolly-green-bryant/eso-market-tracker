@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/a_/eb/or/gear_yokudan_light_robe_a.png",
   "trait": 12,
-  "variantOf": null,
+  "variantOf": 999557334,
   "bindType": 2
 }

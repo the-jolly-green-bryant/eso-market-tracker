@@ -4,6 +4,6 @@
   "description": "For helping the spirits of Westtry, the sword of Captain of the Guard Rosalind Milielle was awarded.",
   "icon": "data/images/d_/dr/ow/gear_breton_1hsword_d.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 629036954,
   "bindType": 2
 }

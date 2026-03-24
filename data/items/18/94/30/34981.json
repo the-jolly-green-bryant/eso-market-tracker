@@ -4,6 +4,6 @@
   "description": "Burnt and pitted from close-up combat in the depths of Hightide Hollow.",
   "icon": "data/images/d_/ff/at/gear_orc_staff_d.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 94107961,
   "bindType": 2
 }

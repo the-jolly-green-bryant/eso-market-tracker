@@ -4,6 +4,6 @@
   "description": "Crudely made but sharp enough to separate any enemy's head from their shoulders, this greataxe was a reward for your efforts in Undertow Cavern.",
   "icon": "data/images/a_/ex/ah/gear_minotaur_2haxe_a.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 1763608843,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "A reward from Vicecanon Servyna for helping One-Eye end the Dominion's trading in Shadowfen.",
   "icon": "data/images/d_/re/gg/gear_argonian_dagger_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 2287233683,
   "bindType": 2
 }

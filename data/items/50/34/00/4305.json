@@ -4,6 +4,6 @@
   "description": "This dagger was a gift given to you for aiding the House Hlaalu caravan against Dres raiders at the ruins of Mzithumz.",
   "icon": "data/images/d_/re/gg/gear_nord_dagger_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 3292040697,
   "bindType": 2
 }

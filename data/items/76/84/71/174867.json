@@ -4,6 +4,6 @@
   "description": "The helm traditionally worn by commanders of the Ivory Brigade brigadines assigned to the Borderwatch Garrison.",
   "icon": "data/images/d_/da/eh/gear_imperial_medium_head_d.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 785478793,
   "bindType": 2
 }

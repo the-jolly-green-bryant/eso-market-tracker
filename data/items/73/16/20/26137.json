@@ -4,6 +4,6 @@
   "description": "A memory of Daedric invaders, forged in their image.",
   "icon": "data/images/a_/da/eh/gear_daedric_heavy_head_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 598812853,
   "bindType": 2
 }

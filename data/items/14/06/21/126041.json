@@ -4,6 +4,6 @@
   "description": "An axe nearly as venomous as House Redoran's inner dealings. Naryu Virian gave it to you for protecting the Morag Tong's honor.",
   "icon": "data/images/a_/ex/ah/gear_moragtong_1haxe_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 4123716347,
   "bindType": 2
 }

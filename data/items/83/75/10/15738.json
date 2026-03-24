@@ -4,6 +4,6 @@
   "description": "King Dynar gave you this greatsword as a remembrance of companions who fell to the Planemeld.",
   "icon": "data/images/d_/dr/ow/gear_altmer_2hsword_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 3907008503,
   "bindType": 2
 }

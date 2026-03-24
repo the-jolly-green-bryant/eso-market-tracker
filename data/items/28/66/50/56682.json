@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/eb/or/gear_breton_light_robe_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 1611283338,
   "bindType": 2
 }

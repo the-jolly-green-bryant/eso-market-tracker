@@ -4,6 +4,6 @@
   "description": "Saving the Oathbreakers from the Worm Cult reaps a wondrous reward.",
   "icon": "data/images/a_/kc/en/gear_argonian_neck_a.png",
   "trait": 22,
-  "variantOf": null,
+  "variantOf": 2342168136,
   "bindType": 2
 }

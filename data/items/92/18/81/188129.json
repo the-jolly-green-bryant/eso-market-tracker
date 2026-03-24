@@ -4,6 +4,6 @@
   "description": "A precious amulet passed along in gratitude for your assistance in searching out a lost treasure.",
   "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 162291047,
   "bindType": 2
 }

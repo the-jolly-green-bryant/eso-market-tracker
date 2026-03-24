@@ -4,6 +4,6 @@
   "description": "These robes from Sanguine's Demesne smell of wine, but the show must go on!",
   "icon": "data/images/d_/eb/or/gear_argonian_light_robe_d.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 2586412645,
   "bindType": 2
 }

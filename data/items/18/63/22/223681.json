@@ -4,6 +4,6 @@
   "description": "Recovered from the depths of a forgotten chamber, this shield bears markings the researcher could not translate.",
   "icon": "data/images/a_/dl/ie/gear_argoniansolstice_sheild_a.png",
   "trait": 11,
-  "variantOf": null,
+  "variantOf": 1120593868,
   "bindType": 2
 }

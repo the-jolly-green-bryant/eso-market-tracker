@@ -4,6 +4,6 @@
   "description": "Who knows how long this sturdy jack gathered dust in a draugr-infested tomb?",
   "icon": "data/images/d_/ts/eh/gear_nord_medium_chest_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 3055947035,
   "bindType": 2
 }

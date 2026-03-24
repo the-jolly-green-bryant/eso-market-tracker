@@ -4,6 +4,6 @@
   "description": "Power emanates from these gloves, made from animal hide reinforced with metallic thread.",
   "icon": "data/images/d_/sd/na/gear_dunmer_medium_hands_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 352771518,
   "bindType": 2
 }

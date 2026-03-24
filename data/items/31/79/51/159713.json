@@ -4,6 +4,6 @@
   "description": "A scholar's gloves, awarded for aiding the Antiquarian, Yvara.",
   "icon": "data/images/d_/sd/na/gear_breton_light_hands_d.png",
   "trait": 6,
-  "variantOf": null,
+  "variantOf": 1468207336,
   "bindType": 2
 }

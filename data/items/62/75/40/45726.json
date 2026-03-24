@@ -4,6 +4,6 @@
   "description": "Razorback's carapace grants its wielder lightweight but sturdy protection.",
   "icon": "data/images/d_/dl/ei/gear_orc_shield_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 4123303048,
   "bindType": 2
 }

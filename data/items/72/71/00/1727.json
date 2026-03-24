@@ -4,6 +4,6 @@
   "description": "This bow is as light as it is deadly. It was made from wood freely given by Brackenleaf himself.",
   "icon": "data/images/d_/wo/b_/gear_bosmer_bow_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 1985884378,
   "bindType": 2
 }

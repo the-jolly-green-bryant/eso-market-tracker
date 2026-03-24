@@ -4,6 +4,6 @@
   "description": "Someone spent a great deal of time gathering and fashioning all this Kwama Cuttle into the shape of a shield.",
   "icon": "data/images/d_/dl/ei/gear_dunmer_shield_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 307633020,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "A handsome belt that would look good as part of some rough-and-ready wedding attire.",
   "icon": "data/images/d_/ts/ia/gear_nord_medium_waist_d.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 2549012339,
   "bindType": 2
 }

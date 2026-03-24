@@ -4,6 +4,6 @@
   "description": "Awarded for restoring Lord Vivec's power in time for him to stop the moonlet Baar Dau from crushing Vivec City.",
   "icon": "data/images/a_/da/eh/gear_buoyantarmiger_light_head_a.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 406627837,
   "bindType": 2
 }

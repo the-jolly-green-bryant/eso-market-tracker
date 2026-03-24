@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/a_/ts/eh/gear_abahswatch_medium_chest_a.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 15220000,
   "bindType": 2
 }

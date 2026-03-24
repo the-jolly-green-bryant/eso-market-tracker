@@ -4,6 +4,6 @@
   "description": "Now that its curse has been removed, this axe is safe to use.",
   "icon": "data/images/d_/ex/ah/gear_bosmer_1haxe_d.png",
   "trait": 5,
-  "variantOf": null,
+  "variantOf": 2326988521,
   "bindType": 2
 }

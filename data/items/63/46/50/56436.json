@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/d_/ts/ia/gear_breton_heavy_waist_d.png",
   "trait": 25,
-  "variantOf": null,
+  "variantOf": 3260211341,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "This antique weapon was bestowed for aid given to the ancient lords and ladies entombed within the Burial Mounds.",
   "icon": "data/images/d_/wo/b_/gear_breton_bow_d.png",
   "trait": 10,
-  "variantOf": null,
+  "variantOf": 922485310,
   "bindType": 2
 }

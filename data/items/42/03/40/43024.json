@@ -4,6 +4,6 @@
   "description": "A dagger awarded for defeating the giant troll, Sharpfang.",
   "icon": "data/images/d_/re/gg/gear_dunmer_dagger_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 25145870,
   "bindType": 2
 }

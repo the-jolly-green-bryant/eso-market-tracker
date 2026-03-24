@@ -4,6 +4,6 @@
   "description": "This weapon was awarded for setting the elemental guardians free from Angof's imprisoning spell.",
   "icon": "data/images/d_/re/mm/gear_bosmer_1hhammer_d.png",
   "trait": 9,
-  "variantOf": null,
+  "variantOf": 2877369913,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "Beautiful Telvanni gloves, awarded for paying Sun-in-Shadow's debt to Magister Gothren.",
   "icon": "data/images/a_/sd/na/gear_telvanni_light_hands_a.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 2026581950,
   "bindType": 2
 }

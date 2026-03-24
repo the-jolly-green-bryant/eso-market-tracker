@@ -4,6 +4,6 @@
   "description": "Taken from the Heritance in Del's Claim, this massive axe bears the maker's mark of Mathiisen.",
   "icon": "data/images/d_/ex/ah/gear_altmer_2haxe_d.png",
   "trait": 7,
-  "variantOf": null,
+  "variantOf": 3799730240,
   "bindType": 2
 }

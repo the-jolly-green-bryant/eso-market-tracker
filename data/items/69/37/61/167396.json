@@ -4,6 +4,6 @@
   "description": "A dagger recovered from the Reachwind Depths. Despite its age, the blade remains razor sharp.",
   "icon": "data/images/a_/re/gg/gear_arkthzand_dagger_a.png",
   "trait": 3,
-  "variantOf": null,
+  "variantOf": 1895446373,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "",
   "icon": "data/images/c_/dl/ei/gear_reach_shield_c.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 1090073863,
   "bindType": 2
 }

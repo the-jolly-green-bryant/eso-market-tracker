@@ -4,6 +4,6 @@
   "description": "A weapon awarded for defeating the Dominion officer, Sincano, in Silumm.",
   "icon": "data/images/d_/dr/ow/gear_altmer_2hsword_d.png",
   "trait": 3,
-  "variantOf": null,
+  "variantOf": 2838930062,
   "bindType": 2
 }

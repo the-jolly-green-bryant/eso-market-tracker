@@ -4,6 +4,6 @@
   "description": "The spirit of Queen Nurnhilde gave you this amulet for aid provided in the royal tombs beneath Fort Morvunskar.",
   "icon": "data/images/a_/kc/en/gear_nord_neck_a.png",
   "trait": 23,
-  "variantOf": null,
+  "variantOf": 265661809,
   "bindType": 2
 }

@@ -4,6 +4,6 @@
   "description": "A weapon awarded for defeating the vampire, Olveidi the Ratmaster.",
   "icon": "data/images/d_/wo/b_/gear_nord_bow_d.png",
   "trait": 3,
-  "variantOf": null,
+  "variantOf": 3549163530,
   "bindType": 2
 }

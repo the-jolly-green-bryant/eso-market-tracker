@@ -4,6 +4,6 @@
   "description": "You earned this Nord axe by scouring the mines at Shor's Stone and freeing miners from the Reach's grasp.",
   "icon": "data/images/d_/ex/ah/gear_nord_1haxe_d.png",
   "trait": 8,
-  "variantOf": null,
+  "variantOf": 3954563775,
   "bindType": 2
 }

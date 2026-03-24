@@ -4,6 +4,6 @@
   "description": "Rewarded for saving Nirn from the Daedric Prince, Mehrunes Dagon.",
   "icon": "data/images/a_/da/eh/gear_daedric_heavy_head_a.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 3855914074,
   "bindType": 2
 }

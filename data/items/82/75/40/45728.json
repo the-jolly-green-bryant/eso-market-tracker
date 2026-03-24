@@ -4,6 +4,6 @@
   "description": "Longfang's poison sacs have imbued this sword's blade with a toxic coating.",
   "icon": "data/images/d_/dr/ow/gear_khajiit_1hsword_d.png",
   "trait": 4,
-  "variantOf": null,
+  "variantOf": 2154127385,
   "bindType": 2
 }

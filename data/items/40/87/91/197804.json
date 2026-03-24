@@ -4,6 +4,6 @@
   "description": "An assassin's cast-off head covering. Naryu prefers to work with her hair blowing free.",
   "icon": "data/images/a_/da/eh/gear_moragtong_light_head_a.png",
   "trait": 18,
-  "variantOf": null,
+  "variantOf": 3159265631,
   "bindType": 2
 }

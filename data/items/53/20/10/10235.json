@@ -4,6 +4,6 @@
   "description": "These traveling breeches seem cool to the touch.",
   "icon": "data/images/d_/sg/el/gear_altmer_medium_legs_d.png",
   "trait": 13,
-  "variantOf": null,
+  "variantOf": 637633114,
   "bindType": 2
 }

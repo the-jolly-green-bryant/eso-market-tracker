@@ -1,0 +1,9 @@
+{
+  "canonicalId": 677242066,
+  "name": "Thalmor Helm",
+  "description": "Standard issue to the Dominion soldiers who guard Thalmor diplomats, these helms are crafted to be as comfortable as possible.",
+  "icon": "data/images/d_/da/eh/gear_altmer_heavy_head_d.png",
+  "trait": null,
+  "variantOf": null,
+  "bindType": 2
+}

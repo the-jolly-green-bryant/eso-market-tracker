@@ -4,6 +4,6 @@
   "description": "A belt that fastens nicely. Secured from Nimble-Knuckles for dealing with the strangler situation at Xal Ithix.",
   "icon": "data/images/d_/ts/ia/gear_argonian_heavy_waist_d.png",
   "trait": 17,
-  "variantOf": null,
+  "variantOf": 2709613729,
   "bindType": 2
 }
