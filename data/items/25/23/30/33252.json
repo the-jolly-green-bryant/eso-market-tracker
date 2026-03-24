@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33252,
-  "name": "Adamantite",
-  "description": "An ingredient for crafting in the High Elf style.",
-  "icon": "data/images/en/it/na/grafting_gems_adamantine.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 42868,
-  "name": "Longfin",
-  "description": "A common fish found in saltwater. Use to filet for provisioning.",
-  "icon": "data/images/ni/fg/no/crafting_fishing_longfin.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

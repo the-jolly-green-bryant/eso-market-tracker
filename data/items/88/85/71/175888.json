@@ -1,9 +1,0 @@
-{
-  "canonicalId": 175888,
-  "name": "Companion's Belt",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/mu/id/em/companions_u30_equipment_belt_medium.png",
-  "trait": 34,
-  "variantOf": 3536909992,
-  "bindType": 2
-}

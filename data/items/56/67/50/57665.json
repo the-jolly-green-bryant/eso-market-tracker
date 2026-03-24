@@ -1,9 +1,0 @@
-{
-  "canonicalId": 57665,
-  "name": "Dwemer Scrap",
-  "description": "Ten of these items can be refined into a Dwemer Frame, which is used to make Dwemer equipment.",
-  "icon": "data/images/pa/rc/s_/crafting_metals_dwarven_scrap.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

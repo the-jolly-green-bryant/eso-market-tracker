@@ -1,9 +1,0 @@
-{
-  "canonicalId": 176597,
-  "name": "Companion's Greaves",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/yv/ae/h_/companions_u30_equipment_pants_heavy.png",
-  "trait": 38,
-  "variantOf": 1189443108,
-  "bindType": 2
-}

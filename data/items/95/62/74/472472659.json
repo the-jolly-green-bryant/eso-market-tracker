@@ -1,9 +1,0 @@
-{
-  "canonicalId": 472472659,
-  "name": "Companion's Lightning Staff",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/ff/at/sg/companions_u30_equipment_lightningstaff.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 2
-}

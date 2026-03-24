@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135124,
-  "name": "Bound Instant All Research",
-  "description": "This item has no cooldown.",
-  "icon": "data/images/sn/oi/ss/crafting_researchscrolls_allprofessions.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

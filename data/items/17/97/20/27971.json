@@ -1,9 +1,0 @@
-{
-  "canonicalId": 27971,
-  "name": "Pact Firebolt Ballista",
-  "description": "Creates a ballista siege weapon whose bolt causes Flame Damage to structures and also damages foes over time.",
-  "icon": "data/images/10/0_/no/ava_siege_weapon_001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

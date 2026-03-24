@@ -1,9 +1,0 @@
-{
-  "canonicalId": 121020,
-  "name": "Plants, Sparse Underbrush",
-  "description": "This is a standard house item.",
-  "icon": "data/images/10/0r/et/housing_veg_bsh_sapling_cluster001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

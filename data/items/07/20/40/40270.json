@@ -1,9 +1,0 @@
-{
-  "canonicalId": 40270,
-  "name": "Old Corn Mash",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "data/images/40/0_/tl/crafting_components_malt_004.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

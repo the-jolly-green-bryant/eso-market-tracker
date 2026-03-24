@@ -1,9 +1,0 @@
-{
-  "canonicalId": 64504,
-  "name": "Ancestor Silk",
-  "description": "An ingredient for crafting cloth armor.",
-  "icon": "data/images/kl/is/re/crafting_cloth_base_harvestersilk.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

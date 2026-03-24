@@ -1,9 +1,0 @@
-{
-  "canonicalId": 27000,
-  "name": "Old Milled Flour",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "data/images/3r/_p/ac/crafting_mushroom_white_cap_r3.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

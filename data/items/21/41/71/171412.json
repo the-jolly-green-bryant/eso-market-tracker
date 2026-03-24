@@ -1,9 +1,0 @@
-{
-  "canonicalId": 171412,
-  "name": "Clockwork Switch, Rotary",
-  "description": "This is a standard house item.",
-  "icon": "data/images/10/0h/ct/housing_cwc_exc_vrdsentryswitch001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

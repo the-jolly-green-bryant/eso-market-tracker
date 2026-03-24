@@ -1,9 +1,0 @@
-{
-  "canonicalId": 139654,
-  "name": "Exemplary Infused Ring",
-  "description": "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Infused Trait for Rings.",
-  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
-  "trait": 4,
-  "variantOf": 479709900,
-  "bindType": -1
-}

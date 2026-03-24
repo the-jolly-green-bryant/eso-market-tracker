@@ -1,9 +1,0 @@
-{
-  "canonicalId": 217720,
-  "name": "Stirk Fellowship Armored Legplates",
-  "description": "Leg armor awarded by the Stirk Fellowship for outstanding service at Shor's Stand.",
-  "icon": "data/images/a_/sg/el/gear_fellowshipstirk_heavy_legs_a.png",
-  "trait": 13,
-  "variantOf": 2243342960,
-  "bindType": 2
-}

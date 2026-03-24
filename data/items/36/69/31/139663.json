@@ -1,9 +1,0 @@
-{
-  "canonicalId": 139663,
-  "name": "Exemplary Bloodthirsty Necklace",
-  "description": "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Bloodthirsty Trait for Necklaces.",
-  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
-  "trait": 31,
-  "variantOf": 1456295765,
-  "bindType": -1
-}

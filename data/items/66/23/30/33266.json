@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33266,
-  "name": "Petty Soul Gem",
-  "description": "Used to fully charge weapons up to Level 9, and revive up to Level 9 players.",
-  "icon": "data/images/de/ll/if/soulgem_001_filled.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

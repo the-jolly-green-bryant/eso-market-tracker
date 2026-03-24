@@ -1,9 +1,0 @@
-{
-  "canonicalId": 4280,
-  "name": "Ring of Remembrance",
-  "description": "This ring was given to you for returning Risa's amulet to her mother.",
-  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
-  "trait": 21,
-  "variantOf": 349799245,
-  "bindType": 2
-}

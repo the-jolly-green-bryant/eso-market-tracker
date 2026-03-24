@@ -1,9 +1,0 @@
-{
-  "canonicalId": 176159,
-  "name": "Companion's Boots",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/mu/id/em/companions_u30_equipment_boots_medium.png",
-  "trait": 35,
-  "variantOf": 1593675402,
-  "bindType": 2
-}

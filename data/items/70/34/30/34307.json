@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34307,
-  "name": "Radish",
-  "description": "An ingredient for crafting food.",
-  "icon": "data/images/hs/id/ar/crafting_radish.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

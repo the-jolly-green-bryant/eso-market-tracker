@@ -1,9 +1,0 @@
-{
-  "canonicalId": 96959,
-  "name": "Mud Ball",
-  "description": "A single gooey mud ball, ready for tossing at an unsuspecting target.",
-  "icon": "data/images/ga/b_/ll/collectible_memento_mudball_bag.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

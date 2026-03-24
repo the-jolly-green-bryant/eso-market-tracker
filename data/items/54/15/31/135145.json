@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135145,
-  "name": "Platinum Dust",
-  "description": "Ten of these items can be refined to make platinum ounces.",
-  "icon": "data/images/ts/ud/_m/crafting_platinum_dust.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

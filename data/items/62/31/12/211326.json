@@ -1,9 +1,0 @@
-{
-  "canonicalId": 211326,
-  "name": "Mundus Stone - the Lord",
-  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Lord.",
-  "icon": "data/images/70/0_/se/ability_mundusstones_007.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 1426538273,
-  "name": "Companion's Pauldrons",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/yv/ae/h_/companions_u30_equipment_shoulders_heavy.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 2
-}

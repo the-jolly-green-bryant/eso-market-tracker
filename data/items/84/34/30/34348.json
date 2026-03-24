@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34348,
-  "name": "Wheat",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "data/images/20/0_/da/crafting_components_bread_002.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

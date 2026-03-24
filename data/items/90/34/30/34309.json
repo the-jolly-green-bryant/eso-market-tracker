@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34309,
-  "name": "Beets",
-  "description": "An ingredient for crafting food.",
-  "icon": "data/images/st/ee/b_/crafting_beets.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

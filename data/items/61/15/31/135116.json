@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135116,
-  "name": "Bound Crown Lesson: Riding Stamina",
-  "description": "Increases your riding stamina by 1 per lesson. Riding Stamina helps prevent being dismounted, allows your mount to sprint longer, and takes effect on your character regardless of the mount set active. Your current Riding Stamina is 60/60.",
-  "icon": "data/images/an/im/at/store_ridinglessons_stamina.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

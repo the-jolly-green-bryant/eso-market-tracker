@@ -1,9 +1,0 @@
-{
-  "canonicalId": 177176,
-  "name": "Companion's Necklace",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/ec/al/kc/companions_u30_equipment_necklace.png",
-  "trait": 42,
-  "variantOf": 3416310833,
-  "bindType": 2
-}

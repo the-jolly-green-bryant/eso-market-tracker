@@ -1,9 +1,0 @@
-{
-  "canonicalId": 223694,
-  "name": "Dominion Scattershot Catapult of Vengeance",
-  "description": "Creates a catapult siege weapon whose mass of small rocks causes damage to foes in a wide area and applies a 20% damage taken debuff for 6 seconds.",
-  "icon": "data/images/30/0_/iu/ava_siege_ui_003.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

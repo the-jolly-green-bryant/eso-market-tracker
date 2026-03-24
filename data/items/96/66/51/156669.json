@@ -1,9 +1,0 @@
-{
-  "canonicalId": 156669,
-  "name": "Target Frost Atronach",
-  "description": "This is a standard house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to an exceptionally hardy veteran dungeon boss.",
-  "icon": "data/images/10/_h/ca/housing_targetdummy_frostatronach_01.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

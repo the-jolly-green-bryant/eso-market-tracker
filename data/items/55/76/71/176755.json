@@ -1,9 +1,0 @@
-{
-  "canonicalId": 176755,
-  "name": "Companion's Ice Staff",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/ff/at/st/companions_u30_equipment_froststaff.png",
-  "trait": 39,
-  "variantOf": 174536982,
-  "bindType": 2
-}

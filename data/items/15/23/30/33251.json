@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33251,
-  "name": "Molybdenum",
-  "description": "An ingredient for crafting in the Breton style.",
-  "icon": "data/images/mu/ne/db/crafting_metals_molybdenum.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

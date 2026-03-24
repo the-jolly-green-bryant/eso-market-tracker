@@ -1,9 +1,0 @@
-{
-  "canonicalId": 118330,
-  "name": "Enchanting Station",
-  "description": "When placed in your home, allows you to craft Enchantment items.",
-  "icon": "data/images/10/0r/et/housing_gen_crf_portabletableenchanter001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33768,
-  "name": "Comberry",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "data/images/se/ir/re/crafting_comberries.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135141,
-  "name": "Silver Dust",
-  "description": "Ten of these items can be refined to make silver ounces.",
-  "icon": "data/images/ts/ud/_r/crafting_silver_dust.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

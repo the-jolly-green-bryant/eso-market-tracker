@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34347,
-  "name": "Ginseng",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "data/images/gn/es/ni/crafting_ginseng.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

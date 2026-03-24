@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33268,
-  "name": "Lesser Soul Gem",
-  "description": "Used to fully charge weapons up to Level 29, and revive up to Level 29 players.",
-  "icon": "data/images/de/ll/if/soulgem_003_filled.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 4487,
-  "name": "Steel Ingot",
-  "description": "An ingredient for crafting metal weapons.",
-  "icon": "data/images/3r/_n/or/crafting_ore_base_high_iron_r3.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

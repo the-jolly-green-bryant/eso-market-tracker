@@ -1,9 +1,0 @@
-{
-  "canonicalId": 26999,
-  "name": "Old Meal",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "data/images/ne/ll/op/crafting_cloth_pollen.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

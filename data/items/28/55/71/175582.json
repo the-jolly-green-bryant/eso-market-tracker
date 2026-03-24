@@ -1,9 +1,0 @@
-{
-  "canonicalId": 175582,
-  "name": "Jester's Infinite Giftbox",
-  "description": "This box contains an infinite supply of Jester's Festival giftboxes.",
-  "icon": "data/images/xo/b_/tf/event_jestersfestival_2016_gift_box.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

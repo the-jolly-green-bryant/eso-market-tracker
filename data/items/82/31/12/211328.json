@@ -1,9 +1,0 @@
-{
-  "canonicalId": 211328,
-  "name": "Mundus Stone - The Ritual",
-  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Ritual.",
-  "icon": "data/images/01/0_/se/ability_mundusstones_010.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

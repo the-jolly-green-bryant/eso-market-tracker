@@ -1,9 +1,0 @@
-{
-  "canonicalId": 15659,
-  "name": "Heroes' Hatchet",
-  "description": "This axe serves as the final blessing earned from the Hall of Heroes in Bangkorai.",
-  "icon": "data/images/d_/ex/ah/gear_redguard_1haxe_d.png",
-  "trait": 1,
-  "variantOf": 11794241,
-  "bindType": 2
-}

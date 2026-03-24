@@ -1,9 +1,0 @@
-{
-  "canonicalId": 71584,
-  "name": "Potash",
-  "description": "An ingredient for crafting in the Malacath style.",
-  "icon": "data/images/ht/ac/al/crafting_style_item_malacath.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

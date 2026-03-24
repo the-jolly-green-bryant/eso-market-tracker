@@ -1,9 +1,0 @@
-{
-  "canonicalId": 214352,
-  "name": "Lockbox of New Life",
-  "description": "This container holds useful treasures normally only found during the New Life Festival.",
-  "icon": "data/images/10/0x/ob/housing_gen_inc_lockbox001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 27100,
-  "name": "Flour",
-  "description": "An ingredient for crafting food.",
-  "icon": "data/images/10/0_/ts/quest_dust_001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

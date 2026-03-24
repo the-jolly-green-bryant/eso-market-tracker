@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34301,
-  "name": "Ebon Bone Staff of the Wyrd Tree",
-  "description": "A weapon awarded for defeating the Ebon Lord in the Ebon Crypt.",
-  "icon": "data/images/d_/ff/at/gear_imperial_staff_d.png",
-  "trait": 2,
-  "variantOf": 3600124887,
-  "bindType": 2
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 81609,
-  "name": "Exemplary Nirnhoned Bow",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Bow.",
-  "icon": "data/images/d_/wo/b_/gear_breton_bow_d.png",
-  "trait": 25,
-  "variantOf": 4253926151,
-  "bindType": -1
-}

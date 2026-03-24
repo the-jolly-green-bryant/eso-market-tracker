@@ -1,9 +1,0 @@
-{
-  "canonicalId": 10315,
-  "name": "Dreamwalker Staff",
-  "description": "The Ternion High Priest awarded this staff for walking the Dreamstride at Mistwatch.",
-  "icon": "data/images/d_/ff/at/gear_nord_staff_d.png",
-  "trait": 4,
-  "variantOf": 720323712,
-  "bindType": 2
-}

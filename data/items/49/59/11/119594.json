@@ -1,9 +1,0 @@
-{
-  "canonicalId": 119594,
-  "name": "Attunable Blacksmithing Station",
-  "description": "Use when at an Item Set Crafting Station to create a blacksmithing station for that item set.",
-  "icon": "data/images/10/0h/ti/housing_gen_crf_portableblacksmith001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33257,
-  "name": "Manganese",
-  "description": "An ingredient for crafting in the Orc style.",
-  "icon": "data/images/es/en/ag/crafting_metals_manganese.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

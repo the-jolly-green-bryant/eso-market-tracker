@@ -1,9 +1,0 @@
-{
-  "canonicalId": 223692,
-  "name": "Thieves Guild Citation",
-  "description": "When used, this citation grants 5 points of Thieves Guild Reputation. You must already be a member of the Thieves Guild to use this item, and cannot use it if your Thieves Guild Rank is 12.",
-  "icon": "data/images/no/it/at/event_item_u49_thieves_guild_citation.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

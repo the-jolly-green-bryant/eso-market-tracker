@@ -1,9 +1,0 @@
-{
-  "canonicalId": 177003,
-  "name": "Companion's Bow",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/wo/b_/tn/companions_u30_equipment_bow.png",
-  "trait": 41,
-  "variantOf": 1197145747,
-  "bindType": 2
-}

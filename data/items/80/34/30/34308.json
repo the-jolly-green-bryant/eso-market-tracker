@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34308,
-  "name": "Melon",
-  "description": "An ingredient for crafting food.",
-  "icon": "data/images/ol/em/_g/crafting_melo.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

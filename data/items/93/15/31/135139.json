@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135139,
-  "name": "Copper Dust",
-  "description": "Ten of these items can be refined to make copper ounces.",
-  "icon": "data/images/ts/ud/_r/crafting_copper_dust.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

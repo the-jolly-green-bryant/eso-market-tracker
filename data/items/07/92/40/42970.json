@@ -1,9 +1,0 @@
-{
-  "canonicalId": 42970,
-  "name": "Darkblood Staff of the Vampire's Cloak",
-  "description": "A staff awarded for defeating the necromancer, Louna Darkblood.",
-  "icon": "data/images/d_/ff/at/gear_breton_staff_d.png",
-  "trait": 1,
-  "variantOf": 4184269873,
-  "bindType": 2
-}

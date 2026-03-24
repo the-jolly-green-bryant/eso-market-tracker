@@ -1,9 +1,0 @@
-{
-  "canonicalId": 23267,
-  "name": "Purified Water",
-  "description": "An Ingredient for crafting level 50 potions",
-  "icon": "data/images/3r/_3/_r/crafting_potion_base_water_3_r3.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

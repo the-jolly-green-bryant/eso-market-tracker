@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33752,
-  "name": "Red Meat",
-  "description": "An ingredient for crafting food.",
-  "icon": "data/images/30/0_/do/quest_food_003.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

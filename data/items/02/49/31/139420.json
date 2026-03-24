@@ -1,9 +1,0 @@
-{
-  "canonicalId": 139420,
-  "name": "Pulverized Slaughterstone",
-  "description": "Ten of these items can be refined into a Slaughterstone, which is used to make Jewelry with the Bloodthirsty Trait.",
-  "icon": "data/images/st/la/s_/crafting_undead_blood_salts.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

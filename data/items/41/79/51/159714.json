@@ -1,9 +1,0 @@
-{
-  "canonicalId": 159714,
-  "name": "Greymoor Skullcap",
-  "description": "Vampiric headgear acquired in Blackreach's Greymoor Keep.",
-  "icon": "data/images/te/ml/eh/gear_blackreachexlgt_helmet.png",
-  "trait": 14,
-  "variantOf": 4015888074,
-  "bindType": 2
-}

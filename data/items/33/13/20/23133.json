@@ -1,9 +1,0 @@
-{
-  "canonicalId": 23133,
-  "name": "Galatite Ore",
-  "description": "Ten of these items can be refined to make galatite ingots.",
-  "icon": "data/images/et/it/al/crafting_ore_galatite.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

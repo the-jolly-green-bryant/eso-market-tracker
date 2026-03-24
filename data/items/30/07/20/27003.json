@@ -1,9 +1,0 @@
-{
-  "canonicalId": 27003,
-  "name": "Old Baker's Flour",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "data/images/3r/_k/co/crafting_flower_ladys_smock_r3.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

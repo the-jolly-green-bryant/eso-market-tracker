@@ -1,9 +1,0 @@
-{
-  "canonicalId": 150670,
-  "name": "Vile Coagulant",
-  "description": "An ingredient for crafting potions.",
-  "icon": "data/images/al/ug/ao/crafting_vile_coagula.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

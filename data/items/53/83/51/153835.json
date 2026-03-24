@@ -1,9 +1,0 @@
-{
-  "canonicalId": 153835,
-  "name": "Dragonguard Battlemage Armor",
-  "description": "A set of armor found in the Dragonguard Sanctum.",
-  "icon": "data/images/a_/ts/eh/gear_dragonguardmed_chest_a.png",
-  "trait": 4,
-  "variantOf": 1171022530,
-  "bindType": 2
-}

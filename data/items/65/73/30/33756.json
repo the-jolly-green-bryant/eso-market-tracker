@@ -1,9 +1,0 @@
-{
-  "canonicalId": 33756,
-  "name": "Small Game",
-  "description": "An ingredient for crafting food.",
-  "icon": "data/images/em/ag/_l/crafting_u36_small_game.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

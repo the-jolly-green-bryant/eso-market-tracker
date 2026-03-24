@@ -1,9 +1,0 @@
-{
-  "canonicalId": 134245,
-  "name": "Mysterious Reward Box",
-  "description": "This box contains gifts from the Crown Store, found only during the 10 Million Stories event.",
-  "icon": "data/images/so/ro/bo/gift-box-ouroboros.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 223697,
-  "name": "Dominion Cold Fire Ballista of Vengeance",
-  "description": "Creates a ballista siege weapon whose bolt causes Flame Damage to structures and also damages foes over time.",
-  "icon": "data/images/at/si/ll/ava_siege_weapon_darkanchor_bluefireballista.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

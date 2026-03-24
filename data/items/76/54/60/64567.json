@@ -1,9 +1,0 @@
-{
-  "canonicalId": 64567,
-  "name": "Dark Ether",
-  "description": "This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.",
-  "icon": "data/images/re/ht/ek/quest_darkether.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

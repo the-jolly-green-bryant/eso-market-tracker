@@ -1,9 +1,0 @@
-{
-  "canonicalId": 176161,
-  "name": "Companion's Helm",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/yv/ae/h_/companions_u30_equipment_helm_heavy.png",
-  "trait": 35,
-  "variantOf": 122183665,
-  "bindType": 2
-}

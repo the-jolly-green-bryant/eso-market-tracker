@@ -1,9 +1,0 @@
-{
-  "canonicalId": 57713,
-  "name": "Exemplary Nirnhoned Helm",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Helm.",
-  "icon": "data/images/d_/da/eh/gear_breton_heavy_head_d.png",
-  "trait": 25,
-  "variantOf": 3043172725,
-  "bindType": -1
-}

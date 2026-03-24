@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34619,
-  "name": "Icehammer's Frigid Maul of Stendarr",
-  "description": "A weapon awarded for defeating the draugr, Thane Icehammer, in the cave known as Icehammer's Vault.",
-  "icon": "data/images/d_/re/mm/gear_nord_2hhammer_d.png",
-  "trait": 4,
-  "variantOf": 854949964,
-  "bindType": 2
-}

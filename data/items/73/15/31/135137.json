@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135137,
-  "name": "Pewter Dust",
-  "description": "Ten of these items can be refined to make pewter ounces.",
-  "icon": "data/images/ts/ud/_r/crafting_pewter_dust.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

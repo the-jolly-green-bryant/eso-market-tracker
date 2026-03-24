@@ -1,9 +1,0 @@
-{
-  "canonicalId": 120823,
-  "name": "Sigil Stand",
-  "description": "This is a standard house item.",
-  "icon": "data/images/10/0e/ni/housing_uni_inc_shrine001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

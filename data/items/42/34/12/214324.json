@@ -1,9 +1,0 @@
-{
-  "canonicalId": 214324,
-  "name": "Pact Ballista of Vengeance",
-  "description": "Creates a ballista siege weapon whose bolt causes great damage to structures and enemies.",
-  "icon": "data/images/10/0_/no/ava_siege_weapon_001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

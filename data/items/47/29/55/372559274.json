@@ -1,9 +1,0 @@
-{
-  "canonicalId": 372559274,
-  "name": "Companion's Hat",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/th/gi/l_/companions_u30_equipment_helm_light.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 2
-}

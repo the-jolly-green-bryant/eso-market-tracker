@@ -1,9 +1,0 @@
-{
-  "canonicalId": 176122,
-  "name": "Companion's Guards",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/mu/id/em/companions_u30_equipment_pants_medium.png",
-  "trait": 35,
-  "variantOf": 3155508463,
-  "bindType": 2
-}

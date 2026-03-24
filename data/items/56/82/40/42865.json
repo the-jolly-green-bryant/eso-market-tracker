@@ -1,9 +1,0 @@
-{
-  "canonicalId": 42865,
-  "name": "Salmon",
-  "description": "A common fish found in river waters. Use to filet for provisioning",
-  "icon": "data/images/no/ml/as/crafting_fishing_salmon.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

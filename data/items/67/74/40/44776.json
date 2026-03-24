@@ -1,9 +1,0 @@
-{
-  "canonicalId": 44776,
-  "name": "Pact Stone Trebuchet",
-  "description": "Creates a trebuchet weapon whose stones cause great damage to structures and foes.",
-  "icon": "data/images/50/0_/no/ava_siege_weapon_005.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

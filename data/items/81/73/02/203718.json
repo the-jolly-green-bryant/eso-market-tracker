@@ -1,9 +1,0 @@
-{
-  "canonicalId": 203718,
-  "name": "Undaunted Citation",
-  "description": "When used, this citation grants 15 points of Undaunted Reputation. You must already be a member of the Undaunted to use this item, and cannot use it if your Undaunted Rank is 10.",
-  "icon": "data/images/no/it/at/event_item_u49_undaunted_citation.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

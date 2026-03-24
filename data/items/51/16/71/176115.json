@@ -1,9 +1,0 @@
-{
-  "canonicalId": 176115,
-  "name": "Companion's Breeches",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/th/gi/l_/companions_u30_equipment_pants_light.png",
-  "trait": 35,
-  "variantOf": 695251480,
-  "bindType": 2
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 3290156994,
-  "name": "Companion's Jack",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/mu/id/em/companions_u30_equipment_chest_medium.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 2
-}

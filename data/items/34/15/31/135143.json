@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135143,
-  "name": "Electrum Dust",
-  "description": "Ten of these items can be refined to make electrum ounces.",
-  "icon": "data/images/ts/ud/_m/crafting_electrum_dust.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

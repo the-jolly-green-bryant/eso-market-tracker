@@ -1,9 +1,0 @@
-{
-  "canonicalId": 120802,
-  "name": "Shrine of Mara, Decorative",
-  "description": "This is a standard house item. This shrine is decorative and cannot be used for the Pledge of Mara.",
-  "icon": "data/images/20/0a/ra/housing_uni_inc_shrinemara002.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

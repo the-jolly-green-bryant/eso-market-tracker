@@ -1,9 +1,0 @@
-{
-  "canonicalId": 135158,
-  "name": "Pulverized Cobalt",
-  "description": "Ten of these items can be refined into Cobalt, which is used to make Jewelry with the Arcane Trait.",
-  "icon": "data/images/tl/ab/oc/jewelrycrafting_trait_raw_cobalt.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 119695,
-  "name": "Master Clothier Writ",
-  "description": "An exclusive, secret contract for leather armor of rare quality.",
-  "icon": "data/images/re/ih/to/master_writ_clothier.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

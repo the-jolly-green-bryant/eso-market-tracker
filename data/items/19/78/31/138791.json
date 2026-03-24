@@ -1,9 +1,0 @@
-{
-  "canonicalId": 138791,
-  "name": "Forgotten Adventurer's Bow",
-  "description": "A bow found in your strong box. Perhaps once it was a close companion, but it is beginning to show its age.",
-  "icon": "data/images/d_/wo/b_/gear_altmer_bow_d.png",
-  "trait": 6,
-  "variantOf": 2789972763,
-  "bindType": 2
-}

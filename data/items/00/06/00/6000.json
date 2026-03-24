@@ -1,9 +1,0 @@
-{
-  "canonicalId": 6000,
-  "name": "Dwarven Ingot",
-  "description": "An ingredient for crafting metal weapons.",
-  "icon": "data/images/10/0_/r_/crafting_smith_plug_standard_r_001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

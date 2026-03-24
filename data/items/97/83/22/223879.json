@@ -1,9 +1,0 @@
-{
-  "canonicalId": 223879,
-  "name": "Fabric Line",
-  "description": "This is a standard house item.",
-  "icon": "data/images/20/0c/ir/housing_els_exc_merchantrackfabric002.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

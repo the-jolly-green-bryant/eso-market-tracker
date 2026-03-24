@@ -1,9 +1,0 @@
-{
-  "canonicalId": 134329,
-  "name": "Clockwork Control Panel, Single",
-  "description": "This is a standard house item.",
-  "icon": "data/images/20/0h/ct/housing_cwc_duc_switch002.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

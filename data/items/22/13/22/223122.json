@@ -1,9 +1,0 @@
-{
-  "canonicalId": 223122,
-  "name": "Cyrodiil Repair Kit of Vengeance",
-  "description": "Repairs 5,000 points of damage to a door, 20,000 points of damage to siege weapons and forward camps, 5,000 points of damage to a keep wall, and 5,000 points to bridges and milegates every 3.5 seconds.",
-  "icon": "data/images/ti/kr/ia/u41_ava_unifiedrepairkit.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

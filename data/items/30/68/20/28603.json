@@ -1,9 +1,0 @@
-{
-  "canonicalId": 28603,
-  "name": "Tomato",
-  "description": "An ingredient for crafting food.",
-  "icon": "data/images/50/0_/ge/crafting_components_veg_005.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

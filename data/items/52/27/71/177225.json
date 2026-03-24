@@ -1,9 +1,0 @@
-{
-  "canonicalId": 177225,
-  "name": "Companion's Restoration Staff",
-  "description": "Only Companions may equip this item.",
-  "icon": "data/images/ff/at/so/companions_u30_equipment_restostaff.png",
-  "trait": 42,
-  "variantOf": 473828641,
-  "bindType": 2
-}

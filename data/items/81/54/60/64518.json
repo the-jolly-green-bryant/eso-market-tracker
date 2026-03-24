@@ -1,9 +1,0 @@
-{
-  "canonicalId": 64518,
-  "name": "Covenant Cold Stone Trebuchet",
-  "description": "Creates a trebuchet weapon whose stones cause great damage to structures and foes.",
-  "icon": "data/images/te/hc/ub/ava_siege_weapon_darkanchor_bluestonetrebuchet.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

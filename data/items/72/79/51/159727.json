@@ -1,9 +1,0 @@
-{
-  "canonicalId": 159727,
-  "name": "Deathstone Spiral",
-  "description": "A ring containing a Vampiric deathstone, found in Greymoor Keep.",
-  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
-  "trait": 23,
-  "variantOf": 3094825671,
-  "bindType": 2
-}

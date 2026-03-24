@@ -1,9 +1,0 @@
-{
-  "canonicalId": 64715,
-  "name": "Crafting Motif 19: Mercenary Style",
-  "description": "Use to learn the Mercenary crafting style. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Mercenary Outfit Styles.",
-  "icon": "data/images/10/0_/ko/quest_book_001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

@@ -1,9 +1,0 @@
-{
-  "canonicalId": 46133,
-  "name": "Silverweave",
-  "description": "An ingredient for crafting clothing.",
-  "icon": "data/images/ev/ae/wr/crafting_cloth_silverweave.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

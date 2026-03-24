@@ -1,9 +1,0 @@
-{
-  "canonicalId": 46127,
-  "name": "Calcinium Ingot",
-  "description": "An ingredient for crafting metal weapons.",
-  "icon": "data/images/mu/in/ic/crafting_ingot_calcinium.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

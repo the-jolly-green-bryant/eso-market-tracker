@@ -1,9 +1,0 @@
-{
-  "canonicalId": 120598,
-  "name": "Plants, Low Weeds",
-  "description": "This is a small house item.",
-  "icon": "data/images/se/va/el/housing_veg_bsh_greenshadegrassleaves.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

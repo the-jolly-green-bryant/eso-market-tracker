@@ -1,9 +1,0 @@
-{
-  "canonicalId": 139657,
-  "name": "Exemplary Bloodthirsty Ring",
-  "description": "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Bloodthirsty Trait for Rings.",
-  "icon": "data/images/a_/gn/ir/gear_breton_ring_a.png",
-  "trait": 31,
-  "variantOf": 3040955031,
-  "bindType": -1
-}

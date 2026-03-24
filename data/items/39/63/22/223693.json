@@ -1,9 +1,0 @@
-{
-  "canonicalId": 223693,
-  "name": "Daedric War Grab Bag",
-  "description": "This container awards Daedric War Spoils contents from years past which are no longer available.",
-  "icon": "data/images/ga/be/no/zonebag.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": 3
-}

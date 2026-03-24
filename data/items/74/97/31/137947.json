@@ -1,9 +1,0 @@
-{
-  "canonicalId": 137947,
-  "name": "Attunable Jewelry Crafting Station",
-  "description": "Use when at an Item Set Crafting Station to create a jewelry crafting station for that item set (requires Summerset access).",
-  "icon": "data/images/10/0y/rl/housing_gen_crf_portabletablejewelry001.png",
-  "trait": null,
-  "variantOf": null,
-  "bindType": -1
-}

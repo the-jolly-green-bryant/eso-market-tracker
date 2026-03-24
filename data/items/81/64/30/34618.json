@@ -1,9 +1,0 @@
-{
-  "canonicalId": 34618,
-  "name": "Chill Hollow Pendant of Stendarr",
-  "description": "A necklace awarded for defeating the frost atronach, Nomeg Chal, in the cave known as Chill Hollow.",
-  "icon": "data/images/a_/kc/en/gear_breton_neck_a.png",
-  "trait": 21,
-  "variantOf": 3042559990,
-  "bindType": 2
-}
