@@ -12,7 +12,7 @@ describe('observations-from-emt', async () => {
   it('has trait data', () => {
     expect(
       results.observations.filter(
-        (i) => i.item.meta.trait && i.item.meta.canonicalId == 4610
+        (i) => i.item.trait && i.item.meta.internalId == 4610
       ).length
     ).toBeGreaterThan(0)
   })

@@ -1,15 +1,19 @@
 import { ItemMeta } from './items.types'
-import { orThrow } from '@eso-market-tracker/logging'
+import { getIdFromName, orThrow } from '@eso-market-tracker/logging'
 
 /**
  * A class-like representation of an ESO item.
  */
 export type Item = ReturnType<(typeof Item)['from']>
 export const Item = {
-  from(meta: ItemMeta, additional?: { quality: number | null }) {
+  from(
+    meta: ItemMeta,
+    additional?: { quality?: number | null; trait?: number | null }
+  ) {
     const item = {
-      id: meta.variantOf ?? meta.canonicalId,
+      id: getIdFromName(meta.name),
       quality: additional?.quality ?? null,
+      trait: additional?.trait ?? null,
       meta,
     }
 

@@ -1,13 +1,13 @@
-import { describe, it, expect } from 'vitest'
+import { describe, expect, it } from 'vitest'
 import * as cheerio from 'cheerio'
-import { _getNthStringFromRow, _getIconFromRow } from './results'
+import { _getIconFromRow, _getNthStringFromRow } from './results'
 
 describe('imports', async () => {
   const $ = cheerio.load('<tr><td>test</td><td></td></tr>')
   const el = $('tr').toArray().at(0)!
 
   it('should fail if no image', async () => {
-    await expect(async () => await _getIconFromRow($, el)).rejects.toThrow()
+    await expect(async () => await _getIconFromRow($, el, 1)).rejects.toThrow()
   })
 
   it('should fail if no text', async () => {

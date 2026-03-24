@@ -13,51 +13,50 @@ export const db = new DatabaseSync(dbPath)
 const createSchema = async () => {
   db.exec(`
     CREATE TABLE IF NOT EXISTS items (
-      canonicalId INTEGER PRIMARY KEY NOT NULL,
+      internalId INTEGER PRIMARY KEY NOT NULL,
       name TEXT NOT NULL,
       description TEXT,
       icon TEXT,
-      trait INTEGER,
-      variantOf INTEGER,
-      bindType INTEGER
+      bindType INTEGER,
+      knownIds TEXT
     );
 
-    CREATE UNIQUE INDEX IF NOT EXISTS idx_items_shard_canonical_id
-      ON items (canonicalId);
+    CREATE UNIQUE INDEX IF NOT EXISTS idx_items_shard_internal_id
+      ON items (internalId);
   `)
 }
 
 export const insertItems = (items: Item[]) => {
+  if (!items.length) return
   const stmt = db.prepare(`
     INSERT INTO items (
-      canonicalId,
+      internalId,
       name,
       description,
       icon,
-      trait,
-      variantOf,
-      bindType
+      bindType,
+      knownIds
     ) VALUES (
-      @canonicalId,
+      @internalId,
       @name,
       @description,
       @icon,
-      @trait,
-      @variantOf,
-      @bindType
+      @bindType,
+      @knownIds
     )
-    ON CONFLICT(canonicalId) DO UPDATE SET
+    ON CONFLICT(internalId) DO UPDATE SET
       name = excluded.name,
       description = excluded.description,
       icon = excluded.icon,
-      trait = excluded.trait,
-      variantOf = excluded.variantOf,
-      bindType = excluded.bindType
+      bindType = excluded.bindType,
+      knownIds = excluded.knownIds
   `)
 
   db.exec('BEGIN')
   try {
-    items.forEach((i) => stmt.run(i.meta))
+    items.forEach((i) =>
+      stmt.run({ ...i.meta, knownIds: JSON.stringify(i.meta.knownIds) })
+    )
     db.exec('COMMIT')
   } catch (e) {
     db.exec('ROLLBACK')
@@ -110,7 +109,10 @@ export const flattenDatabase = async () => {
   const db = new DatabaseSync(dbPath)
   const stmt = db.prepare(`SELECT * FROM items`)
   for (const row of stmt.iterate()) {
-    const item = Item.from(row as ItemMeta)
+    const item = Item.from({
+      ...row,
+      knownIds: JSON.parse(row.knownIds as string),
+    } as ItemMeta)
     const targetPath = naming.getItemPath(item)
     await emtDatabase.writeToFile(item.meta, targetPath, {
       preservedKeys: ['variantOf'],

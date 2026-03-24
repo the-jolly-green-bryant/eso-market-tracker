@@ -1,10 +1,4 @@
-import {
-  getBaseItemAndTraitFromItem,
-  Item,
-  ItemMeta,
-  legacyNaming,
-  qualityLookup,
-} from '@eso-market-tracker/eso'
+import { getBaseItemAndTraitFromItem, Item, ItemMeta, legacyNaming, qualityLookup, } from '@eso-market-tracker/eso'
 import * as db from '@eso-market-tracker/data'
 import { orThrow } from '@eso-market-tracker/logging'
 
@@ -160,8 +154,10 @@ const getObservationsFromResults = (pageResults: EMTItem[]) => {
     k.historicalXboxStats.flatMap((i) =>
       qualityLookup
         .map((qualityLabel, index) => {
-          const item = Item.from(k.db, { quality: index || null })
-          item.meta.trait = item.meta.trait || k.trait || null
+          const item = Item.from(k.db, {
+            quality: index || null,
+            trait: k.trait || null,
+          })
 
           // Get our average unit price key such as `whiteAverageUnitPrice` or
           //  generically `averageUnitPrice`

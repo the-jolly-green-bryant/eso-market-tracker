@@ -1,8 +1,8 @@
 import * as cheerio from 'cheerio'
 import { CheerioAPI } from 'cheerio'
-import { getTraitIdFromString, Item } from '@eso-market-tracker/eso'
+import { Item } from '@eso-market-tracker/eso'
 import { Element } from 'domhandler'
-import { orThrow } from '@eso-market-tracker/logging'
+import { attempt, getIdFromName, orThrow } from '@eso-market-tracker/logging'
 
 export const _getNthStringFromRow = (
   $: CheerioAPI,
@@ -19,86 +19,76 @@ export const _getNthStringFromRow = (
   return text
 }
 
-export const _getIconFromRow = ($: CheerioAPI, el: Element) => {
-  const imageUrl = $(el).find('> td:nth-of-type(4) img').attr('src')
+export const _getIconFromRow = ($: CheerioAPI, el: Element, n: number) => {
+  const imageUrl = $(el).find(`> td:nth-of-type(${n}) img`).attr('src')
   ;(imageUrl && imageUrl.length) ||
     orThrow(new Error(`No image found for ${el}`))
 
   return (imageUrl!.startsWith('//') ? 'https:' : '') + imageUrl
 }
 
-const _getTraitFromRow = ($: CheerioAPI, el: Element) => {
-  const trait = $(el)
-    .find('> td:nth-of-type(9)')
-    .text()
-    .trim()
-    .replaceAll('Armor ', '')
-    .replaceAll('Weapon ', '')
-    .replaceAll('Jewelry ', '')
-    .toLowerCase()
-  return trait ? getTraitIdFromString(trait) : null
-}
-
-const hashString = (str: string): number => {
-  let hash = 0x811c9dc5
-
-  for (let i = 0; i < str.length; i++) {
-    hash ^= str.charCodeAt(i)
-    hash = Math.imul(hash, 0x01000193)
-  }
-
-  return hash >>> 0
-}
-
-const _getItemsFromHtml = (html: string): Item[] => {
+const _getMinedItemsFromHtml = (html: string): Item[] => {
   const $ = cheerio.load(html)
   const rows = $('table#esologtable > tbody > tr')
     .toArray()
-    .flatMap((el) =>
-      Item.from({
-        canonicalId: parseInt(_getNthStringFromRow($, el, 2)),
+    .flatMap((el) => {
+      const name = _getNthStringFromRow($, el, 3, { textIsOptional: true })
+      return Item.from({
+        internalId: getIdFromName(name),
         bindType: parseInt(_getNthStringFromRow($, el, 31)),
-        name: _getNthStringFromRow($, el, 3, { textIsOptional: true }),
+        name,
         description: _getNthStringFromRow($, el, 5, { textIsOptional: true }),
-        icon: _getIconFromRow($, el),
-        trait: _getTraitFromRow($, el),
-        variantOf: null, // Set in following loop.
+        icon: _getIconFromRow($, el, 4),
+        knownIds: [parseInt(_getNthStringFromRow($, el, 2))],
       })
-    )
+    })
     // Filter out bind-on-pickup items.
     .filter((i) => ![1, 4].includes(i.meta.bindType) && i.meta.name)
 
-  const results = rows.flatMap((i) => {
-    if (!i.meta.trait) {
-      return [i]
-    }
+  const merged = new Map<number, Item>()
+  rows.forEach((item) => {
+    const existing =
+      merged.get(item.meta.internalId) ||
+      merged.set(item.meta.internalId, item).get(item.meta.internalId)!
 
-    const variant = rows.find(
-      (v) =>
-        i.meta.trait &&
-        v.meta.name == i.meta.name &&
-        !v.meta.trait &&
-        v.meta.canonicalId != i.meta.canonicalId
+    existing.meta.knownIds = Array.from(
+      new Set([...existing.meta.knownIds, ...item.meta.knownIds])
     )
-    i.meta.variantOf = variant ? variant.id : null
-
-    // If we didn't find a base item, create one.
-    if (!i.meta.variantOf) {
-      const newV = Item.from({ ...i.meta })
-      newV.meta.trait = null
-      newV.meta.canonicalId = hashString(newV.meta.name)
-      newV.meta.variantOf = null
-      newV.id = newV.meta.canonicalId
-      i.meta.variantOf = newV.meta.canonicalId
-      return [i, newV]
-    }
-
-    return [i]
   })
 
-  return Array.from(
-    new Map(results.map((item) => [item.meta.canonicalId, item])).values()
-  )
+  return Array.from(merged.values())
+}
+
+const _getLootedItemsFromHtml = (html: string): Item[] => {
+  const $ = cheerio.load(html)
+  const rows = $('table#esologtable > tbody > tr')
+    .toArray()
+    .flatMap((el) => {
+      const name = _getNthStringFromRow($, el, 3, { textIsOptional: true })
+      return Item.from({
+        internalId: getIdFromName(name),
+        bindType: -1,
+        name,
+        description: '',
+        icon: attempt(() => _getIconFromRow($, el, 12), null),
+        knownIds: [parseInt(_getNthStringFromRow($, el, 2))],
+      })
+    })
+    // Filter out bind-on-pickup items.
+    .filter((i) => ![1, 4].includes(i.meta.bindType) && i.meta.name)
+
+  const merged = new Map<number, Item>()
+  rows.forEach((item) => {
+    const existing =
+      merged.get(item.meta.internalId) ||
+      merged.set(item.meta.internalId, item).get(item.meta.internalId)!
+
+    existing.meta.knownIds = Array.from(
+      new Set([...existing.meta.knownIds, ...item.meta.knownIds])
+    )
+  })
+
+  return Array.from(merged.values())
 }
 
 const _getNextEndpointFromHtml = (html: string): string | null => {
@@ -113,11 +103,24 @@ const _getNextEndpointFromHtml = (html: string): string | null => {
 /**
  * The parsed results of a page of data from the UESP data mining log.
  */
-export type Results = ReturnType<(typeof Results)['from']>
-export const Results = {
+export type MinedResults = ReturnType<(typeof MinedResults)['from']>
+export const MinedResults = {
   from(html: string) {
     return {
-      items: _getItemsFromHtml(html),
+      items: _getMinedItemsFromHtml(html),
+      next: _getNextEndpointFromHtml(html),
+    }
+  },
+}
+
+/**
+ * The parsed results of a page of data from the UESP looted items log.
+ */
+export type LootedResults = ReturnType<(typeof LootedResults)['from']>
+export const LootedResults = {
+  from(html: string) {
+    return {
+      items: _getLootedItemsFromHtml(html),
       next: _getNextEndpointFromHtml(html),
     }
   },

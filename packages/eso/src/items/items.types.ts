@@ -3,11 +3,10 @@
  *  to this item.
  */
 export type ItemMeta = {
-  canonicalId: number
-  variantOf: number | null
-  trait: number | null
+  internalId: number
   name: string
-  icon: string
+  icon: string | null
   description: string
   bindType: number
+  knownIds: number[]
 }
