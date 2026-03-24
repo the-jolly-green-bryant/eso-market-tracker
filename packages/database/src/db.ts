@@ -1,11 +1,14 @@
 import { fileURLToPath } from 'url'
 import path from 'path'
-import fs from 'fs'
+import fs from 'fs/promises'
+import pLimit from 'p-limit'
+
+export const throttleFileWrites = pLimit(128)
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-export const writeToFile = (
+export const writeToFile = async (
   o: Record<string, string | number | null>,
   targetPath: string,
   options?: { preservedKeys: string[] }
@@ -15,7 +18,7 @@ export const writeToFile = (
   const __filename = fileURLToPath(import.meta.url)
   const __dirname = path.dirname(__filename)
   const localPath = `${__dirname}/../../../${targetPath}`
-  const oldData = readFromFile(targetPath) || {}
+  const oldData = (await readFromFile(targetPath)) || {}
   const newData = {
     ...oldData,
     ...o,
@@ -26,27 +29,32 @@ export const writeToFile = (
     newData[key] = oldData[key] ?? newData[key]
   })
 
-  fs.mkdirSync(path.dirname(localPath), { recursive: true })
-  fs.writeFileSync(localPath, JSON.stringify(newData, null, 2))
+  await fs.mkdir(path.dirname(localPath), { recursive: true })
+  await fs.writeFile(localPath, JSON.stringify(newData, null, 2))
 }
 
-export const readFromFile = (
+export const readFromFile = async (
   targetPath: string
-): Record<string, string | number | null> | null => {
+): Promise<Record<string, string | number | null> | null> => {
   targetPath = targetPath.endsWith('.json') ? targetPath : `${targetPath}.json`
   const localPath = `${__dirname}/../../../${targetPath}`
-  if (!fs.existsSync(localPath)) {
+  try {
+    const raw = await fs.readFile(localPath, 'utf8')
+    return JSON.parse(raw)
+  } catch {
+    // If it couldn't be read for any reason, it couldn't be read.
     return null
   }
-
-  const raw = fs.readFileSync(localPath, 'utf8')
-  return JSON.parse(raw)
 }
 
-export const deleteFile = (targetPath: string) => {
+export const deleteFile = async (targetPath: string) => {
   const __filename = fileURLToPath(import.meta.url)
   const __dirname = path.dirname(__filename)
   const localPath = `${__dirname}/../../../${targetPath}`
-  if (!fs.existsSync(localPath)) return
-  fs.rmSync(localPath)
+  try {
+    await fs.rm(localPath)
+  } catch {
+    // We don't really care if this fails.
+    return
+  }
 }

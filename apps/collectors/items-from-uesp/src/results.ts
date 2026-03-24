@@ -39,6 +39,17 @@ const _getTraitFromRow = ($: CheerioAPI, el: Element) => {
   return trait ? getTraitIdFromString(trait) : null
 }
 
+const hashString = (str: string): number => {
+  let hash = 0x811c9dc5
+
+  for (let i = 0; i < str.length; i++) {
+    hash ^= str.charCodeAt(i)
+    hash = Math.imul(hash, 0x01000193)
+  }
+
+  return hash >>> 0
+}
+
 const _getItemsFromHtml = (html: string): Item[] => {
   const $ = cheerio.load(html)
   const rows = $('table#esologtable > tbody > tr')
@@ -57,7 +68,11 @@ const _getItemsFromHtml = (html: string): Item[] => {
     // Filter out bind-on-pickup items.
     .filter((i) => ![1, 4].includes(i.meta.bindType) && i.meta.name)
 
-  return rows.map((i) => {
+  const results = rows.flatMap((i) => {
+    if (!i.meta.trait) {
+      return [i]
+    }
+
     const variant = rows.find(
       (v) =>
         i.meta.trait &&
@@ -66,8 +81,24 @@ const _getItemsFromHtml = (html: string): Item[] => {
         v.meta.canonicalId != i.meta.canonicalId
     )
     i.meta.variantOf = variant ? variant.id : null
-    return i
+
+    // If we didn't find a base item, create one.
+    if (!i.meta.variantOf) {
+      const newV = Item.from({ ...i.meta })
+      newV.meta.trait = null
+      newV.meta.canonicalId = hashString(newV.meta.name)
+      newV.meta.variantOf = null
+      newV.id = newV.meta.canonicalId
+      i.meta.variantOf = newV.meta.canonicalId
+      return [i, newV]
+    }
+
+    return [i]
   })
+
+  return Array.from(
+    new Map(results.map((item) => [item.meta.canonicalId, item])).values()
+  )
 }
 
 const _getNextEndpointFromHtml = (html: string): string | null => {

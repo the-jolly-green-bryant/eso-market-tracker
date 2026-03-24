@@ -27,3 +27,22 @@ export const getShardFromName = (value: string): string => {
   const parts = clean.match(/.{1,4}/g)
   return parts ? parts.join('/') : ''
 }
+
+export const getQualifiedItem = (item: Item) => {
+  const traitId = item.meta.trait
+    ? item.meta.trait.toString().padStart(2, '0')
+    : '--'
+  const qualityId = item.quality
+    ? item.quality.toString().padStart(2, '0')
+    : '--'
+  return `${item.id}-${traitId}-${qualityId}`
+}
+
+export const getObservationPath = (item: Item, date: string) => {
+  const shard = getShardFromId(item.id) // Potentially has root item.
+  return (
+    `${ROOT_DIRECTORY}/observations/${shard}/${item.id}/` +
+    `${getQualifiedItem(item)}/` +
+    `${date.replaceAll('-', '/')}.json`
+  )
+}

@@ -150,6 +150,9 @@ importers:
       '@eso-market-tracker/eso':
         specifier: workspace:*
         version: link:../eso
+      p-limit:
+        specifier: ^7.3.0
+        version: 7.3.0
     devDependencies:
       '@vitest/coverage-v8':
         specifier: ^4.1.0

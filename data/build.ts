@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename)
 const dbPath = path.join(__dirname, 'artifacts', 'data.sqlite')
 export const db = new DatabaseSync(dbPath)
 
-const createSchema = () => {
+const createSchema = async () => {
   db.exec(`
     CREATE TABLE IF NOT EXISTS items (
       canonicalId INTEGER PRIMARY KEY NOT NULL,
@@ -66,8 +66,8 @@ export const insertItems = (items: Item[]) => {
 }
 
 export const buildDatabase = async () => {
-  createSchema()
-  const items = getItemsFromDirectory(path.join(__dirname, 'items'))
+  await createSchema()
+  const items = await getItemsFromDirectory(path.join(__dirname, 'items'))
   insertItems(items)
 }
 
@@ -87,18 +87,22 @@ const getFilesRecursively = (directory: string): string[] => {
   })
 }
 
-const getItemsFromDirectory = (directory: string): Item[] => {
+const getItemsFromDirectory = async (directory: string): Promise<Item[]> => {
   const filePaths = getFilesRecursively(directory)
-  return filePaths.map((filePath) => {
-    const relativePath = 'data/' + path.relative(__dirname, filePath)
-    const data = emtDatabase.readFromFile(relativePath)
+  return await Promise.all(
+    filePaths.map(async (filePath) =>
+      emtDatabase.throttleFileWrites(async () => {
+        const relativePath = 'data/' + path.relative(__dirname, filePath)
+        const data = await emtDatabase.readFromFile(relativePath)
 
-    if (!data) {
-      throw new Error(`Could not read item file: ${relativePath}`)
-    }
+        if (!data) {
+          throw new Error(`Could not read item file: ${relativePath}`)
+        }
 
-    return Item.from(data as ItemMeta)
-  })
+        return Item.from(data as ItemMeta)
+      })
+    )
+  )
 }
 
 export const flattenDatabase = async () => {
@@ -108,7 +112,7 @@ export const flattenDatabase = async () => {
   for (const row of stmt.iterate()) {
     const item = Item.from(row as ItemMeta)
     const targetPath = naming.getItemPath(item)
-    emtDatabase.writeToFile(item.meta, targetPath, {
+    await emtDatabase.writeToFile(item.meta, targetPath, {
       preservedKeys: ['variantOf'],
     })
   }

@@ -18,7 +18,8 @@
     "@vitest/coverage-v8": "^4.1.0"
   },
   "dependencies": {
-    "@eso-market-tracker/eso": "workspace:*"
+    "@eso-market-tracker/eso": "workspace:*",
+    "p-limit": "^7.3.0"
   },
   "exports": {
     ".": "./src/index.ts"
