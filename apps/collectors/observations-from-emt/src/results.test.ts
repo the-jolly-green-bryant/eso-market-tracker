@@ -1,10 +1,19 @@
-import { describe, it } from 'vitest'
+import { describe, expect, it } from 'vitest'
 import { Results } from './results'
 
 describe('observations-from-emt', async () => {
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const results = await Results.from(0, { limit: 10 })
-  it('converts internal to known names', () => {
-    // throw new Error('not implemented')
+  const results = await Results.from(15, { limit: 5 })
+  it('has quality data', () => {
+    expect(
+      results.observations.filter((i) => i.item.quality).length
+    ).toBeGreaterThan(0)
+  })
+
+  it('has trait data', () => {
+    expect(
+      results.observations.filter(
+        (i) => i.item.meta.trait && i.item.meta.canonicalId == 4610
+      ).length
+    ).toBeGreaterThan(0)
   })
 })

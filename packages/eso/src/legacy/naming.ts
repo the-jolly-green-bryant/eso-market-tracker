@@ -403,6 +403,16 @@ const NON_EXISTANT_ITEMS = [
 ]
 
 export const internalToName = (unflippedName: string): string => {
+  const knownMatches = [
+    ['akaviri war gauntlets', 'gauntlets of the akaviri war'],
+    ['alchemist necklace', 'amulet of the alchemist'],
+  ]
+  for (const name of knownMatches) {
+    if (unflippedName == name[0]) {
+      return name[1]
+    }
+  }
+
   let result = unflippedName
     .toLowerCase()
     .trim()
@@ -671,6 +681,9 @@ export const internalToName = (unflippedName: string): string => {
     'nocturnals ploy',
     'oakfathers retribution',
     'winters respite',
+    'agility',
+    'akatoshs law',
+    'akatoshs law',
   ])
 
   // Common ESO equipment pieces (multi-word first to avoid partial matches)
@@ -791,6 +804,8 @@ export const internalToName = (unflippedName: string): string => {
     'the birthsign',
     'threads of war',
     'unchained aggressors',
+    'adamant lurker',
+    'akatoshs law',
   ]
   setsToAmulet
     .filter((i) => result.includes(i))
@@ -834,6 +849,7 @@ export const internalToName = (unflippedName: string): string => {
     ['dwemer', 15],
     ['glass', 16],
     ['xivkyn', 17],
+    ['akaviri', 18],
     ['mercenary', 19],
     ['yokudan', 20],
     ['ancient orc', 21],
@@ -1040,11 +1056,14 @@ export const internalToName = (unflippedName: string): string => {
     'stormfist',
     'swarm mother',
     'tremorscale',
+    'abnur tharns',
   ]
   styleNames
     .filter(
       (i) =>
-        result.includes(i) && result != 'seventh legions ayleid breastplate'
+        result.includes(i) &&
+        result != 'seventh legions ayleid breastplate' &&
+        result != 'alliance banner bearers emblem'
     )
     .forEach(() => {
       result = `style page ${result}`
@@ -1067,6 +1086,44 @@ export const internalToName = (unflippedName: string): string => {
   if (result == 'bucket style page') {
     return 'style page bucket'
   }
+
+  result =
+    {
+      'agility axe': 'axe of agility',
+      'air arm cops': 'arm cops of the air',
+      'air axe': 'axe of the air',
+      'air battle axe': 'battle axe of the air',
+      ...Object.fromEntries(
+        [...DEFAULT_SET_ITEMS].map((item) => [
+          `air ${item}`,
+          `${item} of the air`,
+        ])
+      ),
+      ...Object.fromEntries(
+        [...DEFAULT_SET_ITEMS].map((item) => [
+          `alchemist ${item}`,
+          `${item} of the alchemist`,
+        ])
+      ),
+      ...Object.fromEntries(
+        [...DEFAULT_SET_ITEMS].map((item) => [
+          `akatoshs law ${item}`,
+          `${item} of akatoshs law`,
+        ])
+      ),
+      ...Object.fromEntries(
+        [...DEFAULT_SET_ITEMS].map((item) => [
+          `almalexias mercy ${item}`,
+          `${item} of almalexias mercy`,
+        ])
+      ),
+    }[result] || result
+
+  if (result.endsWith('treasure map')) {
+    result = result + ' i'
+  }
+
+  result = result.replace('alinor bookshelf', 'alinor bookcase')
 
   return result.replace(':', '').replace(',', '')
 }

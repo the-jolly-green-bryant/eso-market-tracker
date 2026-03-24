@@ -6,9 +6,10 @@ import { orThrow } from '@eso-market-tracker/logging'
  */
 export type Item = ReturnType<(typeof Item)['from']>
 export const Item = {
-  from(meta: ItemMeta) {
+  from(meta: ItemMeta, additional?: { quality: number | null }) {
     const item = {
       id: meta.variantOf ?? meta.canonicalId,
+      quality: additional?.quality ?? null,
       meta,
     }
 

@@ -1,3 +1,5 @@
+import { internalToName } from '../legacy/naming'
+
 const traitIndex: Record<string, number> = {
   powered: 1,
   charged: 2,
@@ -104,3 +106,22 @@ export const getTraitIdFromString = (trait: string) => traitIndex[trait]
 export const getTraitStringFromId = (id: number) => traitLookup.at(id)
 export const sanitizeTraitId = (id: number) =>
   getTraitIdFromString(`${getTraitStringFromId(id)}`)
+
+export const getBaseItemAndTraitFromItem = (name: string) => {
+  return (
+    (traitLookup
+      .filter(Boolean)
+      .map((trait) => {
+        trait = trait as string
+        const found = name.toLowerCase().endsWith(` ${trait}`)
+        return found
+          ? [
+              internalToName(name.replace(` ${trait}`, '')),
+              getTraitIdFromString(trait),
+            ]
+          : [null, null]
+      })
+      .filter((i) => i.at(0))
+      .at(0) as [string, string]) || [null, null]
+  )
+}

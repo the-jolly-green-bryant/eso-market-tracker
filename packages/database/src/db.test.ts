@@ -1,5 +1,5 @@
-import { describe, it, expect } from 'vitest'
-import { readFromFile, writeToFile, deleteFile } from './db'
+import { describe, expect, it } from 'vitest'
+import { deleteFile, readFromFile, writeToFile } from './db'
 
 describe('file writing', () => {
   const targetPath = 'data/test/test.json'
@@ -7,10 +7,13 @@ describe('file writing', () => {
 
   it('writes a file, preserving keys', async () => {
     const data = { blah: 'thing' }
-    writeToFile(data, targetPath)
-    expect(readFromFile(targetPath)).toEqual(data)
+    await writeToFile(data, targetPath)
+    expect(await readFromFile(targetPath)).toEqual(data)
     const data2 = { blah: 'thing2', blah2: 'thing3' }
-    writeToFile(data2, targetPath, { preservedKeys: ['blah'] })
-    expect(readFromFile(targetPath)).toEqual({ blah: 'thing', blah2: 'thing3' })
+    await writeToFile(data2, targetPath, { preservedKeys: ['blah'] })
+    expect(await readFromFile(targetPath)).toEqual({
+      blah: 'thing',
+      blah2: 'thing3',
+    })
   })
 })
