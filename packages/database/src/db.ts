@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 export const writeToFile = async (
-  o: Record<string, string | number | null>,
+  o: Record<string, string | number | number[] | null>,
   targetPath: string,
   options?: { preservedKeys: string[] }
 ) => {
@@ -35,7 +35,7 @@ export const writeToFile = async (
 
 export const readFromFile = async (
   targetPath: string
-): Promise<Record<string, string | number | null> | null> => {
+): Promise<Record<string, string | number | number[] | null> | null> => {
   targetPath = targetPath.endsWith('.json') ? targetPath : `${targetPath}.json`
   const localPath = `${__dirname}/../../../${targetPath}`
   try {

@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import fs from 'fs'
-import { Results } from './results'
-import { getHtmlFromEndpoint, processNextPage } from './index'
+import { MinedResults } from './results'
+import { getHtmlFromEndpoint, processNextPageOfMinedResults } from './index'
 
 const sampleHtml = fs.readFileSync(
   __dirname + '/../docs/sample-mined-item-summary.html',
@@ -9,10 +9,10 @@ const sampleHtml = fs.readFileSync(
 )
 
 describe('results', () => {
-  const results = Results.from(sampleHtml)
+  const results = MinedResults.from(sampleHtml)
 
   it('has parsed items', () => {
-    expect(results.items).toHaveLength(653) // Only unbound items
+    expect(results.items).toHaveLength(177) // Only unbound items
   })
 
   it('has a next url', () => {
@@ -23,10 +23,10 @@ describe('results', () => {
 })
 
 describe('crawler', async () => {
-  const results = await processNextPage(undefined, true)
+  const results = await processNextPageOfMinedResults(undefined, true)
 
   it('has results', () => {
-    expect(results.items).toHaveLength(878) // Only unbound items.
+    expect(results.items).toHaveLength(843) // Only unbound items.
   })
 
   it('has a next value', () => {
@@ -48,9 +48,9 @@ describe('fetching', async () => {
   })
 
   it('fails if no next page', async () => {
-    const results = Results.from(sampleHtml.replaceAll('Next', 'blah'))
+    const results = MinedResults.from(sampleHtml.replaceAll('Next', 'blah'))
     await expect(
-      async () => await processNextPage(results, true)
+      async () => await processNextPageOfMinedResults(results, true)
     ).rejects.toThrow(/page|found/)
   })
 })

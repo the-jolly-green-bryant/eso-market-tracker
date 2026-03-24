@@ -1,13 +1,19 @@
 import 'dotenv/config'
-import { Results } from './results'
+import { LootedResults, MinedResults } from './results'
 import { images } from '@eso-market-tracker/database'
 import { logger, orThrow } from '@eso-market-tracker/logging'
 import pLimit from 'p-limit'
 import { insertItems } from '@eso-market-tracker/data'
+import { Item } from '@eso-market-tracker/eso'
 
-const getEndpoint = (page: number | null) => {
+const getMinedEndpoint = (page: number | null) => {
   page = page ?? 0
   return `https://esolog.uesp.net/viewlog.php?start=${page * 1000}&record=minedItemSummary`
+}
+
+const getLootedEndpoint = (page: number | null) => {
+  page = page ?? 0
+  return `https://esolog.uesp.net/viewlog.php?start=${page * 1000}&record=item`
 }
 
 export const getHtmlFromEndpoint = async (
@@ -40,36 +46,54 @@ export const getHtmlFromEndpoint = async (
   return await res.text()
 }
 
-const processResults = async (results: Results) => {
+const processResultingItems = async (results: Item[]) => {
   const limit = pLimit(10)
   await Promise.all(
-    results.items.map(async (item) =>
+    results.map(async (item) =>
       limit(async () => {
+        insertItems([item])
         if (!item.meta.icon) return
         logger.info(`Saving image ${item.meta.icon}`)
         item.meta.icon = await images.getOrDownloadImage(item.meta.icon)
-        insertItems([item])
       })
     )
   )
 }
 
-export const processNextPage = async (
-  lastResults?: Results,
+export const processNextPageOfMinedResults = async (
+  lastMinedResults?: MinedResults,
   skipRecursion?: boolean
-): Promise<Results> => {
-  ;(lastResults && lastResults.next) ||
-    !lastResults ||
+): Promise<MinedResults> => {
+  ;(lastMinedResults && lastMinedResults.next) ||
+    !lastMinedResults ||
     orThrow(new Error('Next page was not found!'))
-  const next = lastResults ? lastResults.next! : getEndpoint(0)
+  const next = lastMinedResults ? lastMinedResults.next! : getMinedEndpoint(0)
   const html = await getHtmlFromEndpoint(next)
-  const results = Results.from(html)
-  await processResults(results)
-
-  // TODO - Do stuff
-  console.log(results)
+  const results = MinedResults.from(html)
+  await processResultingItems(results.items)
+  console.log('results', results)
 
   return !results || !results.next || skipRecursion
     ? results
-    : await processNextPage(results)
+    : await processNextPageOfMinedResults(results)
+}
+
+export const processNextPageOfLootedResults = async (
+  lastLootedResults?: LootedResults,
+  skipRecursion?: boolean
+): Promise<LootedResults> => {
+  ;(lastLootedResults && lastLootedResults.next) ||
+    !lastLootedResults ||
+    orThrow(new Error('Next page was not found!'))
+  const next = lastLootedResults
+    ? lastLootedResults.next!
+    : getLootedEndpoint(0)
+  const html = await getHtmlFromEndpoint(next)
+  const results = LootedResults.from(html)
+  await processResultingItems(results.items)
+  console.log('results', results)
+
+  return !results || !results.next || skipRecursion
+    ? results
+    : await processNextPageOfLootedResults(results)
 }

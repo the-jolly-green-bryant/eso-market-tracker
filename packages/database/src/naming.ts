@@ -14,12 +14,12 @@ export const getShardFromId = (id: number | string): string => {
 }
 
 export const getItemDirectory = (item: Item): string => {
-  const shard = getShardFromId(item.meta.canonicalId)
+  const shard = getShardFromId(item.id)
   return `${ROOT_DIRECTORY}/items/${shard}`
 }
 
 export const getItemPath = (item: Item) => {
-  return `${getItemDirectory(item)}/${item.meta.canonicalId}.json`
+  return `${getItemDirectory(item)}/${item.id}.json`
 }
 
 export const getShardFromName = (value: string): string => {
@@ -29,9 +29,7 @@ export const getShardFromName = (value: string): string => {
 }
 
 export const getQualifiedItem = (item: Item) => {
-  const traitId = item.meta.trait
-    ? item.meta.trait.toString().padStart(2, '0')
-    : '--'
+  const traitId = item.trait ? item.trait.toString().padStart(2, '0') : '--'
   const qualityId = item.quality
     ? item.quality.toString().padStart(2, '0')
     : '--'
