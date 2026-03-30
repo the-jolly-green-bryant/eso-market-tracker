@@ -2,15 +2,15 @@ import { describe, expect, it } from 'vitest'
 import { getOrDownloadImage, getValidatedRequest } from './images'
 
 const SAMPLE_IMAGE =
-  'https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_shield_b.png'
+  'https://yavuzceliker.github.io/sample-images/image-1021.jpg'
 
 describe('images', async () => {
   it('can download an image', async () => {
     expect(await getOrDownloadImage(SAMPLE_IMAGE)).toBe(
-      'data/images/b_/dl/ei/gear_ancient_elf_shield_b.png'
+      'data/images/12/01/-e/image-1021.jpg'
     )
     expect(await getOrDownloadImage(SAMPLE_IMAGE, { force: true })).toBe(
-      'data/images/b_/dl/ei/gear_ancient_elf_shield_b.png'
+      'data/images/12/01/-e/image-1021.jpg'
     )
   })
 
