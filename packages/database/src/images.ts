@@ -50,14 +50,14 @@ export const getOrDownloadImage = async (
   options?: { force: boolean }
 ) => {
   const force = options?.force ?? false
-  const r = await getValidatedRequest(url)
-  const filename = getFilenameFromDisposition(r) || getFilenameFromUrl(url)
+  const filename = getFilenameFromUrl(url)
   const targetPath = `${getImageDirectory(filename)}/${filename}`
   const __filename = fileURLToPath(import.meta.url)
   const __dirname = path.dirname(__filename)
   const localPath = `${__dirname}/../../../${targetPath}`
   logger.info(`Saving image ${filename} to ${__dirname} at ${localPath}`)
   if (force || !fs.existsSync(localPath)) {
+    const r = await getValidatedRequest(url)
     fs.mkdirSync(path.dirname(localPath), { recursive: true })
     const buffer = Buffer.from(await r.arrayBuffer())
     fs.writeFileSync(localPath, buffer)
