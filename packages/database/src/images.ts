@@ -3,6 +3,7 @@ import { ROOT_DIRECTORY } from './constants'
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { logger } from '@eso-market-tracker/logging'
 
 export const getValidatedRequest = async (
   url: string,
@@ -55,6 +56,7 @@ export const getOrDownloadImage = async (
   const __filename = fileURLToPath(import.meta.url)
   const __dirname = path.dirname(__filename)
   const localPath = `${__dirname}/../../../${targetPath}`
+  logger.info(`Saving image ${filename} to ${__dirname} at ${localPath}`)
   if (force || !fs.existsSync(localPath)) {
     fs.mkdirSync(path.dirname(localPath), { recursive: true })
     const buffer = Buffer.from(await r.arrayBuffer())
