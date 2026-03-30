@@ -5,6 +5,7 @@ import { logger, orThrow } from '@eso-market-tracker/logging'
 import pLimit from 'p-limit'
 import { insertItems } from '@eso-market-tracker/data'
 import { Item } from '@eso-market-tracker/eso'
+import * as self from './index'
 
 const getMinedEndpoint = (page: number | null) => {
   page = page ?? 0
@@ -69,7 +70,7 @@ export const processNextPageOfMinedResults = async (
     !lastMinedResults ||
     orThrow(new Error('Next page was not found!'))
   const next = lastMinedResults ? lastMinedResults.next! : getMinedEndpoint(0)
-  const html = await getHtmlFromEndpoint(next)
+  const html = await self.getHtmlFromEndpoint(next)
   const results = MinedResults.from(html)
   await processResultingItems(results.items)
   console.log('results', results)
@@ -89,7 +90,7 @@ export const processNextPageOfLootedResults = async (
   const next = lastLootedResults
     ? lastLootedResults.next!
     : getLootedEndpoint(0)
-  const html = await getHtmlFromEndpoint(next)
+  const html = await self.getHtmlFromEndpoint(next)
   const results = LootedResults.from(html)
   await processResultingItems(results.items)
   console.log('results', results)
