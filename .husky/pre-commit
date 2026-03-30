@@ -14,3 +14,4 @@ echo "Running tests..."
 
 echo "Running tests with coverage before push..."
 SKIP_SLOW_TESTS=1 pnpm run coverage
+sqlite3 data/artifacts/data.sqlite "VACUUM;"
