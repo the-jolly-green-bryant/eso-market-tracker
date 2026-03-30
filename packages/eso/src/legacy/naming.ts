@@ -80,7 +80,7 @@ const _getNormalizedName = (name: string) =>
   name
     .toLowerCase()
     .trim()
-    .replace(/[,:".()]/g, '')
+    .replace(/[,:".()/']/g, '')
     .replace(/\s+/gu, ' ')
 
 /**
@@ -151,8 +151,8 @@ export function nameToInternal(itemName: string): string {
     .replace(/blackreach\s+greymoor/g, 'greymoor')
     .replace(/blackreach\s+arkthzand/g, 'arkthzand')
     .replace(/\s{2,}/g, ' ')
-    .replace('dragoon jack ii', 'dragoon jack 2')
-    .replace('dragoon jack i', 'dragoon jack 1')
+    .replace(/dragoon jack ii$/, 'dragoon jack 2')
+    .replace(/dragoon jack i$/, 'dragoon jack 1')
     .trim()
 
   return label
@@ -470,8 +470,8 @@ export const _fixCommonTypos = (result: string) =>
     .replace('crocked', 'cracked')
     .replace('dark ell', 'dark elf')
     .replace('design candles group', 'design candle group')
-    .replace('dragoon jack i', 'dragoon jack 1')
-    .replace('dragoon jack ii', 'dragoon jack 2')
+    .replace(/dragoon jack i$/, 'dragoon jack 1')
+    .replace(/dragoon jack ii$/, 'dragoon jack 2')
     .replace('eider radish', 'eidar radish')
     .replace('fang cuirass', 'cuirass of the fang')
     .replace('fire pit brick', 'firepit brick')
@@ -1438,6 +1438,7 @@ const _replaceHyphens = (result: string) => {
 //  similarly named items.
 const KNOWN_MATCHES: Record<string, string> = {
   broom: 'style page broom',
+  'design grub kabobs': 'design grub kebabs',
   'daedric style': 'crafting motif 14 daedric style',
   'dead keeper shoulder': 'dead keeper shoulders',
   'solitude necklace': 'solitude locket',
@@ -1858,7 +1859,7 @@ const SETS_TO_AMULET = [
   "yandir's",
   "yolnahkriin's",
   "z'en",
-]
+].map((i) => _getNormalizedName(i))
 
 const SETS_TO_SIGNET = [
   'baelborne',
@@ -1877,7 +1878,7 @@ const SETS_TO_SIGNET = [
   'succession',
   'warlock',
   'worm',
-]
+].map((i) => _getNormalizedName(i))
 
 const SETS_TO_BAND = [
   'argonian tail',
@@ -1917,7 +1918,7 @@ const SETS_TO_BAND = [
   "tazkad's",
   "widow's",
   "zarukhair's",
-]
+].map((i) => _getNormalizedName(i))
 
 const SETS_TO_LOCKET = [
   'almalexias mercy',
@@ -2146,17 +2147,22 @@ const appendStylePage = (result: string) => {
   return result
 }
 
-const replaceStubbornResults = (result: string) =>
+const replaceAmpersands = (result: string) =>
   result
+    .replace('foxes and felines', 'foxes & felines')
+    .replace('hoops and holes', 'hoops & holes')
+    .replace('public and swe', 'public & swe')
+    .replace('guilds and glory', 'guilds & glory')
+    .replace('pranks and pleasures', 'pranks & pleasures')
+
+const replaceStubbornResults = (result: string) =>
+  replaceAmpersands(result)
     .replace(' choir ', ' chair ')
     .replace('alinor bookcase wall', 'alinor bookshelf wall')
     .replace('alinor bookshelf', 'alinor bookcase')
-    .replace('corpse burnt seated', 'corpse burned seated')
-    .replace('corpse burnt sprawled', 'corpse burned sprawled')
+    .replace(/corpse burnt (sprawled|seated)/, 'corpse burned $1')
     .replace('dawnwood serving', 'dawnwood  serving')
     .replace('elsweyr bookshelf wooden', 'elsweyr bookcase wooden')
-    .replace('foxes and felines', 'foxes & felines')
-    .replace('hoops and holes', 'hoops & holes')
     .replace(/poison [ivx]{1,3}/, 'poison i')
     .replace('polished dame', 'polished dome')
     .replace('tribute tapestry', 'tapestry')
@@ -2182,10 +2188,8 @@ const replaceStubbornResults = (result: string) =>
     .replace('pirate skeleton ', 'pirate skeletons ')
     .replace('gloamsedge arm cops', 'gloamsedge arm cop')
     .replace('gods blind me', 'gods-blind-me')
-    .replace('guilds and glory', 'guilds & glory')
     .replace('tablet vos-toh of dance', 'tablet  vos-toh of dance')
     .replace('animate the dead', 'animate-the-dead')
-    .replace('public and swe', 'public & swe')
     .replace(
       'lucent defensive spike straight',
       'lucent  defensive spike straight'
@@ -2195,13 +2199,11 @@ const replaceStubbornResults = (result: string) =>
     .replace('style page chitinous jack', 'style page  chitinous jack')
     .replace('soup and saltrice', 'soup-and-saltrice')
     .replace('leyawiin of night', 'leyawiin at night')
-    .replace('style page mighty chudans', 'style page mighty chudan')
     .replace('god and missing', 'god & missing')
     .replace(
-      'style page pirate skeletons mask',
-      'style page pirate skeleton mask'
+      /style page (pirate skeleton|nerieneth|velidreth|mighty chudan)s mask/,
+      'style page $1 mask'
     )
-    .replace('style page nerieneths mask', 'style page nerieneth mask')
     .replace('necklace of the pariah', 'locket of the pariah')
     .replace('ring of the pariah', 'signet of the pariah')
     .replace(
@@ -2213,17 +2215,41 @@ const replaceStubbornResults = (result: string) =>
     .replace('chicken and banana', 'chicken-and-banana')
     .replace('rithana di renada', 'rithana-di-renada')
     .replace('style page slimecraws shoulder', 'style page slimecraw shoulder')
-    .replace(/crafting motif 134 tide-born dagger$/, 'tide-born dagger')
     .replace(
       'crafting motif 134 tide-born egg-handling',
       'tide-born egg-handling'
     )
-    .replace(/crafting motif 134 tide-born helmet$/, 'tide-born helmet')
-    .replace(/crafting motif 134 tide-born shield$/, 'tide-born shield')
-    .replace('style page velidreths', 'style page velidreth')
-    .replace('pranks and pleasures', 'pranks & pleasures')
+    .replace(
+      /crafting motif 134 tide-born (helmet|shield|dagger)$/,
+      'tide-born $1'
+    )
     .replace('werewolf hide wolfs-head band', 'werewolf hide wolfs-head ring')
+    .replace('elsweyr door lunar reverance', 'elsweyr door lunar reverence')
+    .replace('green pact signet', 'ring of the green pact')
+    .replace(/(mammoth|radish|grub) kabobs/, '$1 kebabs')
 
+// In generating internal labels, we standardize various nouns to `ring` and
+//  `necklace`. We need to undo that here.
+const replaceGenerics = (result: string) => {
+  const _straightReplace = (set: string, before: string, after: string) => {
+    result = result.replace(
+      new RegExp(`(${set} ${before})(${TRAITS.join('|')})?`),
+      `${set} ${after}$2`
+    )
+    result = result == `${set} ${before}` ? `${set} ${after}` : result
+  }
+
+  // Fix Signets, Bands, Collars, Lockets
+  SETS_TO_SIGNET.forEach((i) => _straightReplace(i, 'ring', 'signet'))
+  SETS_TO_BAND.forEach((i) => _straightReplace(i, 'ring', 'band'))
+  SETS_TO_COLLAR.forEach((i) => _straightReplace(i, 'necklace', 'collar'))
+  SETS_TO_LOCKET.forEach((i) => _straightReplace(i, 'necklace', 'locket'))
+  SETS_TO_AMULET.forEach((i) => _straightReplace(i, 'necklace', 'amulet'))
+  return result
+}
+
+// Convert a given internal label into the real item name. Some internal labels
+//  match up against multiple items and are mapped to the preferred item.
 export const internalToName = (unflippedName: string): string => {
   if (unflippedName.toLowerCase().startsWith('bound ')) {
     return 'a savage ring'
@@ -2239,20 +2265,8 @@ export const internalToName = (unflippedName: string): string => {
   result = _checkForFakeItem(result)
   result = _fixCommonTypos(result)
 
-  const _straightReplace = (set: string, before: string, after: string) => {
-    result = result == `${set} ${before}` ? `${set} ${after}` : result
-  }
-
-  // Fix Signets, Bands, Collars, Lockets
-  SETS_TO_SIGNET.forEach((i) => _straightReplace(i, 'ring', 'signet'))
-  SETS_TO_BAND.forEach((i) => _straightReplace(i, 'ring', 'band'))
-  SETS_TO_COLLAR.forEach((i) => _straightReplace(i, 'necklace', 'collar'))
-  SETS_TO_LOCKET.forEach((i) => _straightReplace(i, 'necklace', 'locket'))
-  SETS_TO_AMULET.map((i) => i.replace("'", '')).forEach((i) =>
-    _straightReplace(i, 'necklace', 'amulet')
-  )
+  result = replaceGenerics(result)
   result = flipName(result)
-
   result = appendMotifNumbers(result)
   result = appendStylePage(result)
 

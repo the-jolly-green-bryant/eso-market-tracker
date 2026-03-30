@@ -8,6 +8,7 @@
 
 - We can collect PC salses data:
   https://esosales.uesp.net/viewSales.php?text=honey&level=&quality=&trait=&itemtype=&equiptype=&weapontype=&armortype=&timeperiod=0&saletype=all&server=EU
+  - We can also pull from Master Merchant
 
 - config prettier
 - observations to database
