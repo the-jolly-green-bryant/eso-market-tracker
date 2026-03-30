@@ -9,7 +9,12 @@ export const getValidatedRequest = async (
   options?: { validStatusCodes: number[] }
 ) => {
   const validStatusCodes = options?.validStatusCodes || [200]
-  const r = await fetch(url).catch((e) => {
+  const r = await fetch(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0',
+      Accept: 'image/*,*/*;q=0.8',
+    },
+  }).catch((e) => {
     throw new Error(`Fetch failed for ${url}`, { cause: e })
   })
 
