@@ -5,7 +5,9 @@ node_modules
 dist
 lib
 tsconfig.tsbuildinfo
-.idea
+.idea/*
+!.idea/dictionaries/
+!.idea/dictionaries/**
 /coverage/
 /**/coverage/
 .env

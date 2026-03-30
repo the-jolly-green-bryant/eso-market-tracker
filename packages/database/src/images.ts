@@ -50,12 +50,11 @@ export const getOrDownloadImage = async (
   const __filename = fileURLToPath(import.meta.url)
   const __dirname = path.dirname(__filename)
   const localPath = `${__dirname}/../../../${targetPath}`
-  if (!force && fs.existsSync(localPath)) {
-    return targetPath
+  if (force || !fs.existsSync(localPath)) {
+    fs.mkdirSync(path.dirname(localPath), { recursive: true })
+    const buffer = Buffer.from(await r.arrayBuffer())
+    fs.writeFileSync(localPath, buffer)
   }
 
-  fs.mkdirSync(path.dirname(localPath), { recursive: true })
-  const buffer = Buffer.from(await r.arrayBuffer())
-  fs.writeFileSync(localPath, buffer)
   return targetPath
 }

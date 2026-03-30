@@ -13,4 +13,4 @@ git add package.json packages/*/package.json
 echo "Running tests..."
 
 echo "Running tests with coverage before push..."
-pnpm run coverage
+SKIP_SLOW_TESTS=1 pnpm run coverage

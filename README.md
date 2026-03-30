@@ -21,13 +21,14 @@ The goal is to provide a **clean, reproducible, and well-tested data pipeline** 
 
 ESO Market Tracker is a **monorepo** containing multiple coordinated packages:
 
-| Package                           | Purpose                                                                                    |
-|-----------------------------------|--------------------------------------------------------------------------------------------|
-| `packages/database`               | Manages read/write into the static data structure                                          |
-| `packages/eso`                    | Contains logic specific to ESO and its system of IDs                                       |
-| `packages/logging`                | Handles routine logging and contains sundry helper functions                               |
-| `apps/collectors/items-from-uesp` | Pulls all items known to UESP into the database                                            |
-| `data`                            | Manages generating of database artifacts such as SQLite in addition to containing raw data |
+| Package                                 | Purpose                                                                                    |
+|-----------------------------------------|--------------------------------------------------------------------------------------------|
+| `packages/database`                     | Manages read/write into the static data structure                                          |
+| `packages/eso`                          | Contains logic specific to ESO and its system of IDs                                       |
+| `packages/logging`                      | Handles routine logging and contains sundry helper functions                               |
+| `apps/collectors/items-from-uesp`       | Pulls all items known to UESP into the database                                            |
+| `apps/collectors/observations-from-emt` | Pulls all item pricing data from legacy EMT.                                               |
+| `data`                                  | Manages generating of database artifacts such as SQLite in addition to containing raw data |
 
 The architecture intentionally keeps the **canonical dataset as flat files** rather than
 a traditional database so that the entire market history can be:
@@ -119,6 +120,10 @@ retired in favor of this data collection. It is retained for historical purposes
 All items are assigned an idempotent internal ID based on the item name. This allows us
 to group items regardless of level, quality, or trait. Trait and quality are then
 tracked at the observation level.
+
+### Observations
+
+Observations are point-in-time snapshots of item sale performance at the given time.
 
 ---
 

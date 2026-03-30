@@ -1,6 +1,12 @@
-import { getBaseItemAndTraitFromItem, Item, ItemMeta, legacyNaming, qualityLookup, } from '@eso-market-tracker/eso'
+import {
+  getBaseItemAndTraitFromItem,
+  Item,
+  ItemMeta,
+  legacyNaming,
+  qualityLookup,
+} from '@eso-market-tracker/eso'
 import * as db from '@eso-market-tracker/data'
-import { orThrow } from '@eso-market-tracker/logging'
+import { getIdFromName, orThrow } from '@eso-market-tracker/logging'
 
 const makeQuery = async (query: string) => {
   const endpoint = 'https://api.esomarkettracker.com/graphql/'
@@ -83,7 +89,16 @@ const getHistoricalItemData = async (slug: string) => {
 }
 
 const findItemByNameWithTraitFallback = (name: string) => {
-  const legacyName = legacyNaming.internalToName(name)
+  const legacyName = legacyNaming
+    .internalToName(name)
+    .replace('foxes felines', 'foxes  felines')
+  console.log(
+    'ash hopper',
+    getIdFromName('Elsweyr Door, Lunar Reverence'),
+    getIdFromName('elsweyr door lunar reverance'),
+    legacyName,
+    getIdFromName(legacyName)
+  )
   const item = db.findItemByName(legacyName)
   if (item) {
     return [item, null]
@@ -127,13 +142,13 @@ const getPageResults = async (offset: number, limit: number) => {
         ...i,
         name: legacyNaming.internalToName(i.label),
       }))
-      .filter((i: EMTItem) => i.name != 'a savage ring')
       .map(async (i: EMTItem) => {
         const [item, trait] = findItemByNameWithTraitFallback(i.name)
         return {
           ...i,
           db:
             item ||
+            i.name == 'a savage ring' ||
             orThrow(new Error(`No database object for ${JSON.stringify(i)}`)),
           trait,
           historicalXboxStats: await getHistoricalItemData(i.slug),
@@ -143,6 +158,17 @@ const getPageResults = async (offset: number, limit: number) => {
 }
 
 const isDefined = <T>(value: T | null | undefined): value is T => value != null
+
+const _getKeyForQualityData = (qualityLabel: string | null) =>
+  `${qualityLabel || ''}AverageUnitPrice`.replace(/^./, (c) =>
+    c.toLowerCase()
+  ) as
+    | 'averageUnitPrice'
+    | 'whiteAverageUnitPrice'
+    | 'greenAverageUnitPrice'
+    | 'blueAverageUnitPrice'
+    | 'purpleAverageUnitPrice'
+    | 'goldAverageUnitPrice'
 
 /**
  * For each item, we want to log an entry without quality, and then we want to
@@ -161,16 +187,7 @@ const getObservationsFromResults = (pageResults: EMTItem[]) => {
 
           // Get our average unit price key such as `whiteAverageUnitPrice` or
           //  generically `averageUnitPrice`
-          const key = `${qualityLabel || ''}AverageUnitPrice`.replace(
-            /^./,
-            (c) => c.toLowerCase()
-          ) as
-            | 'averageUnitPrice'
-            | 'whiteAverageUnitPrice'
-            | 'greenAverageUnitPrice'
-            | 'blueAverageUnitPrice'
-            | 'purpleAverageUnitPrice'
-            | 'goldAverageUnitPrice'
+          const key = _getKeyForQualityData(qualityLabel)
           const average = i[key]
           return average
             ? {
@@ -199,7 +216,9 @@ export const Results = {
   from: async (offset: number, options?: { limit: number }) => {
     const limit = options?.limit || 10
     const pageResults = await getPageResults(offset, limit)
-    const observations = getObservationsFromResults(pageResults)
+    const observations = getObservationsFromResults(
+      pageResults.filter((i: EMTItem) => i.name != 'a savage ring')
+    )
 
     return {
       pageResults,

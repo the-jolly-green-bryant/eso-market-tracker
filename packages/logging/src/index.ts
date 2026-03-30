@@ -1,3 +1,4 @@
+import './extensions/string'
 import pino from 'pino'
 
 export const logger = pino({
@@ -26,4 +27,15 @@ export const attempt = <T>(fn: () => T, fallback: T | null): T | null => {
   } catch {
     return fallback
   }
+}
+
+export const replaceAny = (
+  old: string,
+  needles: string[],
+  replacement: string
+) => {
+  needles.forEach((n) => {
+    old = old.replace(n, replacement)
+  })
+  return old
 }

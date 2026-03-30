@@ -114,9 +114,13 @@ export const getBaseItemAndTraitFromItem = (name: string) => {
       .map((trait) => {
         trait = trait as string
         const found = name.toLowerCase().endsWith(` ${trait}`)
+        const suffix = ` ${trait}`
+        const idx = name.lastIndexOf(suffix)
         return found
           ? [
-              internalToName(name.replace(` ${trait}`, '')),
+              internalToName(
+                name.slice(0, idx) + name.slice(idx + suffix.length)
+              ),
               getTraitIdFromString(trait),
             ]
           : [null, null]

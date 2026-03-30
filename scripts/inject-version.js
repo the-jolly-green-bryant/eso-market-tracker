@@ -21,6 +21,8 @@ function findPackageJsonFiles(dir) {
     if (
       entry.name === 'node_modules' ||
       entry.name === 'dist' ||
+      entry.name === 'observations' ||
+      entry.name === 'items' ||
       entry.name.startsWith('.')
     ) {
       continue

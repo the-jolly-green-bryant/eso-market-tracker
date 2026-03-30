@@ -1,9 +1,14 @@
 import { logger, orThrow } from './index'
-import { describe, expect, it } from 'vitest'
+import { describe, expect, it, vi } from 'vitest'
 
 describe('logging', () => {
   it('should work', async () => {
+    const spy = vi.spyOn(logger, 'warn').mockImplementation(() => {})
     logger.warn('Warning: logging')
+    expect(spy).toHaveBeenCalledTimes(1)
+
+    const [msg] = spy.mock.calls[0]
+    expect(msg).toMatch(/Warning: logging/)
   })
 })
 

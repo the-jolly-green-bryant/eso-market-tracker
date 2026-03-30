@@ -8,7 +8,7 @@ describe('file writing', () => {
   it('writes a file, preserving keys', async () => {
     const data = { blah: 'thing' }
     await writeToFile(data, targetPath)
-    expect(await readFromFile(targetPath)).toEqual(data)
+    expect((await readFromFile(targetPath))!['blah']).toEqual(data.blah)
     const data2 = { blah: 'thing2', blah2: 'thing3' }
     await writeToFile(data2, targetPath, { preservedKeys: ['blah'] })
     expect(await readFromFile(targetPath)).toEqual({

@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import { Results } from './results'
-import { db, naming } from '@eso-market-tracker/database'
+import { constants, db, naming } from '@eso-market-tracker/database'
 import { logger } from '@eso-market-tracker/logging'
 
 export const processPageOfData = async (
@@ -11,7 +11,11 @@ export const processPageOfData = async (
   await Promise.all(
     r.observations.map((i) => {
       db.throttleFileWrites(async () => {
-        const targetPath = naming.getObservationPath(i.item, i.stats.date)
+        const targetPath = naming.getObservationPath(
+          i.item,
+          i.stats.date,
+          constants.XBOX_NA
+        )
         logger.info(
           `Logging ${i.item.id} for ${i.stats.date} with offset ${offset}`
         )
