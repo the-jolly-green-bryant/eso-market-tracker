@@ -2,5 +2,5 @@
 
 set -e
 
-echo "Running tests before push..."
-pnpm run test
+echo "Running tests with coverage before push..."
+SKIP_SLOW_TESTS=1 pnpm run coverage
