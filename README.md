@@ -115,6 +115,9 @@ there is a new game release.
 The `apps/collectors/observations-from-emt` only needs to be run once as it will be
 retired in favor of this data collection. It is retained for historical purposes.
 
+The `apps/collectors/observations-from-tsc-web-app` can be run repeatedly, but data is
+slow to update on that platform, and other TSC services are fresher.
+
 ---
 
 ## Data Sourcing
@@ -127,6 +130,10 @@ sources which collect data directly from the game. Current sources include:
   impressive OCR engine that processed sales directly from video feeds, the Market
   Tracker has since been able to negotiate and navigate a direct connection to ESO's
   sales history.
+
+- **Tamriel Savings Co**. The TSC service is a long-standing service that originally
+  collected its data by hand. It has since updated its collection methods to be more
+  automated and less prone to human error.
 
 <!-- TODO - Update this as time goes on. -->
 

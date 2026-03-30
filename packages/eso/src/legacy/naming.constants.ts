@@ -471,6 +471,7 @@ export const CRAFTING_MOTIFS: [string, number][] = STYLE_BOOKS.concat([
   ['militant monk', 131],
   ['stirk fellowship', 132],
   ['coldharbour dominator', 133],
+  ['coldharbour dom', 133],
 
   ['tide born', 134],
   ['tide-born', 134],
@@ -1291,7 +1292,7 @@ export const SETS_TO_FLIP = SETS_TO_ADD_THE.concat([
   'shalidors curse',
   'sizzling',
   'syrabane',
-  'the morag tong',
+  'morag tong',
   'tonal dissonance',
   'torugs pact',
   'trials',

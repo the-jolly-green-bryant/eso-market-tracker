@@ -1,0 +1,30 @@
+{
+  "data": {
+    "data": [
+      {
+        "label": "companions cuirass vigorous",
+        "displayLabel": "Companions Cuirass Vigorous",
+        "slug": "companions-cuirass-vigorous",
+        "currentXboxStats": {
+          "date": "2025-10-23",
+          "commonUnitPriceRangeLower": 14000,
+          "commonUnitPriceRangeUpper": 22033,
+          "averageUnitPrice": 27982,
+          "minimumUnitPrice": 30,
+          "medianUnitPrice": 37725,
+          "maximumUnitPrice": 55000,
+          "commonQuantity": 1,
+          "totalSales": 1,
+          "recentSales": 0,
+          "totalUnitsSold": 11,
+          "whiteAverageUnitPrice": 0,
+          "greenAverageUnitPrice": 13607,
+          "blueAverageUnitPrice": 38434,
+          "purpleAverageUnitPrice": 0,
+          "goldAverageUnitPrice": 0,
+          "numberOfQualitiesTracked": 2
+        }
+      }
+    ]
+  }
+}
