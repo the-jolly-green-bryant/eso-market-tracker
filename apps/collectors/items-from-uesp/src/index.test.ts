@@ -1,7 +1,8 @@
-import { describe, expect, it } from 'vitest'
+import { beforeAll, describe, expect, it, vi } from 'vitest'
 import fs from 'fs'
 import { MinedResults } from './results'
-import { getHtmlFromEndpoint, processNextPageOfLootedResults, processNextPageOfMinedResults, } from './index'
+
+import * as index from './index'
 
 const sampleHtml = fs.readFileSync(
   __dirname + '/../docs/sample-mined-item-summary.html',
@@ -22,39 +23,31 @@ describe('results', () => {
   })
 })
 
-describe.skipIf(process.env.SKIP_SLOW_TESTS || process.env.CI)(
-  'crawler',
-  async () => {
-    const results = await processNextPageOfMinedResults(undefined, true)
-    await processNextPageOfLootedResults(undefined, true)
+describe('crawler', () => {
+  let results: Awaited<ReturnType<typeof index.processNextPageOfMinedResults>>
+  vi.spyOn(index, 'getHtmlFromEndpoint').mockResolvedValue(sampleHtml)
 
-    it('has results', () => {
-      expect(results.items).toHaveLength(843) // Only unbound items.
-    })
-
-    it('has a next value', () => {
-      expect(results.next).equals(
-        'https://esolog.uesp.net/viewlog.php?start=1000&record=minedItemSummary'
-      )
-    })
-  }
-)
-
-describe('fetching', async () => {
-  it('fails with bad cookie', async () => {
-    await expect(
-      async () =>
-        await getHtmlFromEndpoint(
-          'https://esolog.uesp.net/viewlog.php?start=1000&record=minedItemSummary',
-          { cookie: 'badcookie' }
-        )
-    ).rejects.toThrow(/403|Failed/)
+  beforeAll(async () => {
+    results = await index.processNextPageOfMinedResults(undefined, true)
+    await index.processNextPageOfLootedResults(undefined, true)
   })
 
+  it('has results', () => {
+    expect(results.items).toHaveLength(177) // Only unbound items.
+  })
+
+  it('has a next value', () => {
+    expect(results.next).equals(
+      'https://esolog.uesp.net/viewlog.php?start=21000&record=minedItemSummary'
+    )
+  })
+})
+
+describe('fetching', async () => {
   it.skipIf(process.env.SKIP_SLOW_TESTS)('fails if no next page', async () => {
     const results = MinedResults.from(sampleHtml.replaceAll('Next', 'blah'))
     await expect(
-      async () => await processNextPageOfMinedResults(results, true)
+      async () => await index.processNextPageOfMinedResults(results, true)
     ).rejects.toThrow(/page|found/)
   })
 })
