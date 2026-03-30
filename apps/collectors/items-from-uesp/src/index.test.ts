@@ -1,11 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import fs from 'fs'
 import { MinedResults } from './results'
-import {
-  getHtmlFromEndpoint,
-  processNextPageOfLootedResults,
-  processNextPageOfMinedResults,
-} from './index'
+import { getHtmlFromEndpoint, processNextPageOfLootedResults, processNextPageOfMinedResults, } from './index'
 
 const sampleHtml = fs.readFileSync(
   __dirname + '/../docs/sample-mined-item-summary.html',
@@ -26,20 +22,23 @@ describe('results', () => {
   })
 })
 
-describe.skipIf(process.env.SKIP_SLOW_TESTS)('crawler', async () => {
-  const results = await processNextPageOfMinedResults(undefined, true)
-  await processNextPageOfLootedResults(undefined, true)
+describe.skipIf(process.env.SKIP_SLOW_TESTS || process.env.CI)(
+  'crawler',
+  async () => {
+    const results = await processNextPageOfMinedResults(undefined, true)
+    await processNextPageOfLootedResults(undefined, true)
 
-  it('has results', () => {
-    expect(results.items).toHaveLength(843) // Only unbound items.
-  })
+    it('has results', () => {
+      expect(results.items).toHaveLength(843) // Only unbound items.
+    })
 
-  it('has a next value', () => {
-    expect(results.next).equals(
-      'https://esolog.uesp.net/viewlog.php?start=1000&record=minedItemSummary'
-    )
-  })
-})
+    it('has a next value', () => {
+      expect(results.next).equals(
+        'https://esolog.uesp.net/viewlog.php?start=1000&record=minedItemSummary'
+      )
+    })
+  }
+)
 
 describe('fetching', async () => {
   it('fails with bad cookie', async () => {
