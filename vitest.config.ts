@@ -4,9 +4,6 @@ export default defineConfig({
   test: {
     exclude: ['**/dist/**', '**/node_modules/**', 'data/**/**'],
     setupFiles: ['@eso-market-tracker/logging'],
-    pool: 'threads',
-    isolate: false,
-    fileParallelism: false,
     coverage: {
       enabled: true,
       provider: 'v8',

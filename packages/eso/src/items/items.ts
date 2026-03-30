@@ -22,3 +22,17 @@ export const Item = {
     return item
   },
 }
+
+/**
+ * A point-in-time observation of the value of a given item.
+ */
+export type ItemObservation = {
+  item: Item
+  stats: {
+    average: number
+    date: string
+    commonQuantity: number
+    minimum: number
+    maximum: number
+  }
+}

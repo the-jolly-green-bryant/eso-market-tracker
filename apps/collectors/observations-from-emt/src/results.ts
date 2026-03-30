@@ -7,8 +7,9 @@ import {
 } from '@eso-market-tracker/eso'
 import * as db from '@eso-market-tracker/data'
 import { getIdFromName, orThrow } from '@eso-market-tracker/logging'
+import * as self from './results'
 
-const makeQuery = async (query: string) => {
+export const makeQuery = async (query: string) => {
   const endpoint = 'https://api.esomarkettracker.com/graphql/'
   const r = await fetch(endpoint, {
     method: 'POST',
@@ -57,7 +58,7 @@ type EMTItem = {
   trait: number | null
 }
 
-const getHistoricalItemData = async (slug: string) => {
+export const getHistoricalItemData = async (slug: string) => {
   const payload = `query {
     data: tradableItem(slug: "${slug}") {
       label
@@ -85,7 +86,7 @@ const getHistoricalItemData = async (slug: string) => {
     }
   }`
 
-  return (await makeQuery(payload)).data.data.historicalXboxStats
+  return (await self.makeQuery(payload)).data.data.historicalXboxStats
 }
 
 const findItemByNameWithTraitFallback = (name: string) => {
@@ -108,7 +109,7 @@ const findItemByNameWithTraitFallback = (name: string) => {
   return [db.findItemByName(backupItemName || 'blah'), trait]
 }
 
-const getPageResults = async (offset: number, limit: number) => {
+export const getPageResults = async (offset: number, limit: number) => {
   const payload = `query {
     data: tradableItems(offset:${offset}, limit: ${limit}) {
       label
@@ -137,7 +138,7 @@ const getPageResults = async (offset: number, limit: number) => {
   }`
 
   return Promise.all(
-    (await makeQuery(payload)).data.data
+    (await self.makeQuery(payload)).data.data
       .map((i: EMTItem) => ({
         ...i,
         name: legacyNaming.internalToName(i.label),
@@ -151,7 +152,7 @@ const getPageResults = async (offset: number, limit: number) => {
             i.name == 'a savage ring' ||
             orThrow(new Error(`No database object for ${JSON.stringify(i)}`)),
           trait,
-          historicalXboxStats: await getHistoricalItemData(i.slug),
+          historicalXboxStats: await self.getHistoricalItemData(i.slug),
         }
       })
   )
@@ -175,7 +176,7 @@ const _getKeyForQualityData = (qualityLabel: string | null) =>
  *  log a result for each available quality. If the item has a trait, we want
  *  to log these results under the root item, not the canonical item.
  */
-const getObservationsFromResults = (pageResults: EMTItem[]) => {
+export const getObservationsFromResults = (pageResults: EMTItem[]) => {
   return pageResults.flatMap((k) =>
     k.historicalXboxStats.flatMap((i) =>
       qualityLookup
@@ -215,8 +216,8 @@ export type Results = ReturnType<(typeof Results)['from']>
 export const Results = {
   from: async (offset: number, options?: { limit: number }) => {
     const limit = options?.limit || 10
-    const pageResults = await getPageResults(offset, limit)
-    const observations = getObservationsFromResults(
+    const pageResults = await self.getPageResults(offset, limit)
+    const observations = self.getObservationsFromResults(
       pageResults.filter((i: EMTItem) => i.name != 'a savage ring')
     )
 

@@ -198,15 +198,12 @@ const NON_EXISTENT_ITEMS = [
   'calcinium sword of weapon damage',
   'chokethorns mask',
   'chokethorns shoulder',
-  'clan shatul gauntlets',
   'clockwork dial calipers handheld',
   'clockwork treasure map',
-  'coldharbour dom shoulders',
   'common soul gem empty',
   'common soul gem',
   'companions dog ger',
   'conspicuous poison',
-  'corruptions end greaves',
   'cowardice poison',
   'crystal tower staff',
   'cygnus irregulars greatsword',
@@ -234,7 +231,6 @@ const NON_EXISTENT_ITEMS = [
   'dreamers belts',
   'dreamers helmet',
   'dreamers more',
-  'dwarven lamppost reachfolk adorned',
   'ebon maul',
   'elsweyr bookcase elegant wooden',
   'elsweyr bookshelf short elegant',
@@ -245,12 +241,8 @@ const NON_EXISTENT_ITEMS = [
   'elsweyr pillow gold ruby throw',
   'elsweyr treasure map',
   'essence of weapon crit',
-  'evermore greaves',
-  'faithfulness ring',
   'fine silk gloves',
-  'firelogs ashen',
   'firesong circle style item',
-  'firsthold greaves',
   'flowers netch cabbage stalks',
   'formula telvanni sconce fungal standing',
   'frostbite arm cops',
@@ -317,8 +309,6 @@ const NON_EXISTENT_ITEMS = [
   'pattern redguard buffet oasis',
   'pebble stacked desert',
   'perditions wrath',
-  'plant golden lichen',
-  'plants swamp pitcher shoots',
   'potion of weapon crit',
   'potion of weapon power',
   'praxis argonian lira clawfoot',
@@ -393,36 +383,23 @@ const NON_EXISTENT_ITEMS = [
   'topiary paired cypress',
   'topiary strong cypress',
   'treasure map',
-  'tree ancient fig',
-  'tree banana',
-  'tree ferns cluster',
-  'tree heavy ash',
-  'tree sierra palm',
-  'tree strong olive',
-  'tree vibrant pink',
-  'tree whorled fig',
   'tremorscales mask',
   'tremorscales shoulder',
   'trinimacs valor necklace',
   'unknown craglorn weapon',
   'unrecognized wooden weapon',
-  'used bait',
   'vampire fang',
   'vampiric table vampiric',
   'void essence',
   'voliar meadery seal',
   'witches torch wretched',
   'witchs totem bear',
-  'withering staff',
   'writ voucher to gold',
 ]
 
 const _checkForFakeItem = (result: string) =>
   NON_EXISTENT_ITEMS.includes(result.toLowerCase()) ||
   result.endsWith(' poison') ||
-  result.endsWith(' repair kit') ||
-  result.endsWith(' soul gem empty') ||
-  result.endsWith(' soul gem') ||
   result.endsWith(' style item') ||
   result.includes(' mather ') ||
   result.includes(' romped ') ||
@@ -503,8 +480,8 @@ export const _fixCommonTypos = (result: string) =>
     .replace('part handing', 'port hunding')
     .replace('perpetual gloom', 'perpetual bloom')
     .replace('pirate skeletons', 'pirate skeleton')
-    .replace('reverances mandate', 'reverences mandate')
     .replace('reverence', 'reverance')
+    .replace('reverances mandate', 'reverences mandate')
     .replace('riekling totem skull', 'reikling totem skull')
     .replace('ring ring', 'signet ring')
     .replace('seed epaulets', 'seed epaulet')
@@ -1536,12 +1513,6 @@ const KNOWN_MATCHES: Record<string, string> = {
   ),
   ...Object.fromEntries(
     [...DEFAULT_SET_ITEMS].map((item) => [
-      `akatoshs law ${item}`,
-      `${item} of akatoshs law`,
-    ])
-  ),
-  ...Object.fromEntries(
-    [...DEFAULT_SET_ITEMS].map((item) => [
       `almalexias mercy ${item}`,
       `${item} of almalexias mercy`,
     ])
@@ -1628,6 +1599,7 @@ const SETS_TO_AMULET = [
   'corpseburster',
   'coup de grâce',
   'coup de gr�ce',
+  'coup de grace',
   'crimson',
   'critical riposte',
   'dark convergence',
@@ -1838,6 +1810,7 @@ const SETS_TO_AMULET = [
   "talfyg's",
   "tharriker's",
   "the kynmarcher's cruelty",
+  'kynmarchers cruelty',
   "the order's wrath",
   "thukhozod's",
   "thunder caller's",
@@ -2201,8 +2174,8 @@ const replaceStubbornResults = (result: string) =>
     .replace('leyawiin of night', 'leyawiin at night')
     .replace('god and missing', 'god & missing')
     .replace(
-      /style page (pirate skeleton|nerieneth|velidreth|mighty chudan)s mask/,
-      'style page $1 mask'
+      /style page (pirate skeleton|nerieneth|velidreth|mighty chudan)s (mask|shoulder)/,
+      'style page $1 $2'
     )
     .replace('necklace of the pariah', 'locket of the pariah')
     .replace('ring of the pariah', 'signet of the pariah')
@@ -2227,10 +2200,15 @@ const replaceStubbornResults = (result: string) =>
     .replace('elsweyr door lunar reverance', 'elsweyr door lunar reverence')
     .replace('green pact signet', 'ring of the green pact')
     .replace(/(mammoth|radish|grub) kabobs/, '$1 kebabs')
+    .replace('necklace of bones', 'collar of bones')
+    .replace('coup de grace', 'coup de grâce')
+    .replace('rageclaws necklace of stendarr', 'rageclaws collar of stendarr')
+    .replace('abnur tharns epaulets', 'style page abnur tharns epaulets')
 
 // In generating internal labels, we standardize various nouns to `ring` and
 //  `necklace`. We need to undo that here.
 const replaceGenerics = (result: string) => {
+  result = _getNormalizedName(result)
   const _straightReplace = (set: string, before: string, after: string) => {
     result = result.replace(
       new RegExp(`(${set} ${before})(${TRAITS.join('|')})?`),
@@ -2306,6 +2284,7 @@ export const internalToName = (unflippedName: string): string => {
       /vivecs (ice|inferno|lightning|restoration) of duality staff/,
       'vivecs $1 staff of duality'
     )
+    .replace('vivecs necklace of duality', 'vivecs amulet of duality')
 
   return result.replace(':', '').replace(',', '')
 }
