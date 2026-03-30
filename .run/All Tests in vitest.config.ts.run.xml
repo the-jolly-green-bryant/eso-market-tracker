@@ -5,7 +5,9 @@
     <node-options value=" --env-file=.env" />
     <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
     <working-dir value="$PROJECT_DIR$" />
-    <envs />
+    <envs>
+      <env name="SKIP_SLOW_TESTS" value="1"/>
+    </envs>
     <scope-kind value="ALL" />
     <method v="2" />
   </configuration>

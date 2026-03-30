@@ -4,14 +4,21 @@ import { fileURLToPath } from 'url'
 import path from 'path'
 import { db as emtDatabase, naming } from '@eso-market-tracker/database'
 import { DatabaseSync } from 'node:sqlite'
+import { logger } from '@eso-market-tracker/logging'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const dbPath = path.join(__dirname, 'artifacts', 'data.sqlite')
-export const db = new DatabaseSync(dbPath)
+let _db: DatabaseSync
+export const db = () => {
+  _db = _db || new DatabaseSync(dbPath)
+  _db.exec('PRAGMA busy_timeout = 5000')
+  return _db
+}
 
 const createSchema = async () => {
-  db.exec(`
+  const client = db()
+  client.exec(`
     CREATE TABLE IF NOT EXISTS items (
       internalId INTEGER PRIMARY KEY NOT NULL,
       name TEXT NOT NULL,
@@ -28,7 +35,8 @@ const createSchema = async () => {
 
 export const insertItems = (items: Item[]) => {
   if (!items.length) return
-  const stmt = db.prepare(`
+  const client = db()
+  const stmt = client.prepare(`
     INSERT INTO items (
       internalId,
       name,
@@ -52,14 +60,15 @@ export const insertItems = (items: Item[]) => {
       knownIds = excluded.knownIds
   `)
 
-  db.exec('BEGIN')
+  client.exec('BEGIN')
   try {
     items.forEach((i) =>
       stmt.run({ ...i.meta, knownIds: JSON.stringify(i.meta.knownIds) })
     )
-    db.exec('COMMIT')
+    client.exec('COMMIT')
   } catch (e) {
-    db.exec('ROLLBACK')
+    logger.error(e)
+    client.exec('ROLLBACK')
     throw e
   }
 }
@@ -104,10 +113,10 @@ const getItemsFromDirectory = async (directory: string): Promise<Item[]> => {
   )
 }
 
-export const flattenDatabase = async () => {
-  const dbPath = path.join(__dirname, 'artifacts', 'data.sqlite')
-  const db = new DatabaseSync(dbPath)
-  const stmt = db.prepare(`SELECT * FROM items`)
+export const flattenDatabase = async (ids?: number[]) => {
+  const stmt = db().prepare(
+    `SELECT * FROM items ${ids && 'WHERE internalId in (' + ids.join(', ') + ')'}`
+  )
   for (const row of stmt.iterate()) {
     const item = Item.from({
       ...row,

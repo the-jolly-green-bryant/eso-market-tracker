@@ -22,12 +22,6 @@ export const getItemPath = (item: Item) => {
   return `${getItemDirectory(item)}/${item.id}.json`
 }
 
-export const getShardFromName = (value: string): string => {
-  const clean = value.toLowerCase().replace(/[^a-z0-9]/g, '') // remove folder-unsafe chars
-  const parts = clean.match(/.{1,4}/g)
-  return parts ? parts.join('/') : ''
-}
-
 export const getQualifiedItem = (item: Item) => {
   const traitId = item.trait ? item.trait.toString().padStart(2, '0') : '--'
   const qualityId = item.quality
@@ -36,11 +30,15 @@ export const getQualifiedItem = (item: Item) => {
   return `${item.id}-${traitId}-${qualityId}`
 }
 
-export const getObservationPath = (item: Item, date: string) => {
+export const getObservationPath = (
+  item: Item,
+  date: string,
+  server: string
+) => {
   const shard = getShardFromId(item.id) // Potentially has root item.
   return (
     `${ROOT_DIRECTORY}/observations/${shard}/${item.id}/` +
-    `${getQualifiedItem(item)}/` +
+    `${getQualifiedItem(item)}/${server}/` +
     `${date.replaceAll('-', '/')}.json`
   )
 }

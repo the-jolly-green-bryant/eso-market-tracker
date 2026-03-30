@@ -1,0 +1,1906 @@
+[
+  {
+    "internalId": 4271710495,
+    "name": "High Elf Carpet, Rustic",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_rug003.png",
+    "bindType": -1,
+    "knownIds": "[114338]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "Aegis Caller's Belt",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "mother sorrow dagger",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "research scroll",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "bound research scroll",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "senche-lion tooth tail loop",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "vivecs axe of duality",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "armored gauntlets of the ivory brigade",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271769761,
+    "name": "style page dogs pauldron",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatchmed_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[1351258,1352304,1353915,1353948,1356254,1356316,1360335,1361693,1362364,1369685,1370202,1370833,1375543,1386545,1404944,1408464,1431089,1458974,1462827,1479183,1482613,1490962,1520447,1540532,1540534,1546881,1550900,1560546,1593497,1618244,1629062,1650663,1686791,1773053]"
+  },
+  {
+    "internalId": 4271773259,
+    "name": "Bound Style Page: Wormwrithe Dagger",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": 3,
+    "knownIds": "[212525]"
+  },
+  {
+    "internalId": 4271912311,
+    "name": "Moon Hunter Breeches",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_light_legs_a.png",
+    "bindType": -1,
+    "knownIds": "[1268490,1303094,1315488,1319505,1336245,1341977,1353140,1366195,1366716,1375978,1428940,1428949,1482169,1482216,1482384,1490974,1494625,1502436,1508728,1547405,1586763,1592410,1594852,1620382,1623929,1775031]"
+  },
+  {
+    "internalId": 4272201153,
+    "name": "Fellowship's Fortitude Gloves",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+    "bindType": 2,
+    "knownIds": "[216181,216216]"
+  },
+  {
+    "internalId": 4272601615,
+    "name": "Gloves of Almalexia's Mercy",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+    "bindType": 2,
+    "knownIds": "[91006,91027,91048,91069,91090,91111,91132,91153]"
+  },
+  {
+    "internalId": 4272764437,
+    "name": "Heem-Jas' Maul",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_2hhammer_a.png",
+    "bindType": -1,
+    "knownIds": "[928608,936910,1141128,1178239,1190144,1212815,1250752,1454749,1461812,1464104,1569155,1584520,1718020,1721528]"
+  },
+  {
+    "internalId": 4272782300,
+    "name": "Ice Staff of Trials",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[70099,70134,70169,70204,70239,70274]"
+  },
+  {
+    "internalId": 4272789495,
+    "name": "Bound Style Page: Eltheric Revenant Sash",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": 3,
+    "knownIds": "[203864]"
+  },
+  {
+    "internalId": 4272946088,
+    "name": "Crafting Motif 56: Apostle Shoulders",
+    "description": "Use to learn how to make Apostle Shoulders. Also teaches the equivalent Apostle Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_inc_scrollplate001.png",
+    "bindType": -1,
+    "knownIds": "[132561]"
+  },
+  {
+    "internalId": 4272997607,
+    "name": "Battle Axe of Vengeance Leech",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+    "bindType": 2,
+    "knownIds": "[92151,92164,92177,92190,92203,92216,92229,92242]"
+  },
+  {
+    "internalId": 4273103383,
+    "name": "Platform, Cut Stone",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_writhingplaneplatform001.png",
+    "bindType": -1,
+    "knownIds": "[220352]"
+  },
+  {
+    "internalId": 4273342463,
+    "name": "Tracker's Lash Sash",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+    "bindType": 2,
+    "knownIds": "[210385,210406,210427,210448,210469,210490,210511,210532]"
+  },
+  {
+    "internalId": 4273487517,
+    "name": "Dagger of the Song of Lamae",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+    "bindType": 2,
+    "knownIds": "[56634]"
+  },
+  {
+    "internalId": 4273558889,
+    "name": "Fargrave Bread, Round Loaves",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodbread001.png",
+    "bindType": -1,
+    "knownIds": "[182231]"
+  },
+  {
+    "internalId": 4273585425,
+    "name": "Ancient Dragonguard Jewelry",
+    "description": "A Crafted Armor set constructed in Tideholm.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+    "bindType": 2,
+    "knownIds": "[182856]"
+  },
+  {
+    "internalId": 4273657000,
+    "name": "Design: Khajiit Jug, Amber",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
+    "bindType": -1,
+    "knownIds": "[116106]"
+  },
+  {
+    "internalId": 4273759928,
+    "name": "Alchemical Nutrients",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
+    "bindType": -1,
+    "knownIds": "[1414451]"
+  },
+  {
+    "internalId": 4274079277,
+    "name": "Stone of Yansirramus",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png",
+    "bindType": -1,
+    "knownIds": "[1149301]"
+  },
+  {
+    "internalId": 4274278705,
+    "name": "Hammerdeath Arena Token",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png",
+    "bindType": -1,
+    "knownIds": "[539946]"
+  },
+  {
+    "internalId": 4274321905,
+    "name": "Telvanni Enforcer Maul",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hhammer_a.png",
+    "bindType": -1,
+    "knownIds": "[1632483,1735432]"
+  },
+  {
+    "internalId": 4274370914,
+    "name": "Knight-Errant's Girdle",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_heavy_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[941647,941649,948833,1064855,1065900,1065988,1075968,1089079,1090217,1139154,1140190,1173539,1175179,1182776,1212953,1223836,1232299,1246873,1255832,1276184,1282647,1357517,1358663,1358665,1380341,1382929,1386984,1388191,1399237,1431197,1432670,1456613,1456624,1465384,1466600,1476663,1479258,1481977,1494737,1506632,1521779,1521781,1530998,1543961,1550086,1550124,1550129,1551944,1553137,1559341,1583981,1603638,1624012,1649733,1649737,1735878]"
+  },
+  {
+    "internalId": 4274436761,
+    "name": "Rajhin's Mantle",
+    "description": "",
+    "icon": null,
+    "bindType": -1,
+    "knownIds": "[809497]"
+  },
+  {
+    "internalId": 4274439286,
+    "name": "Guide To the Daggerfall Covenant",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
+    "bindType": -1,
+    "knownIds": "[1140201]"
+  },
+  {
+    "internalId": 4274881280,
+    "name": "Innate Axiom Cuirass",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+    "bindType": 2,
+    "knownIds": "[130383,130418,130453,130488,130523,130558,130593,130628,130663,130698]"
+  },
+  {
+    "internalId": 4275124293,
+    "name": "devil ray",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_perch.png",
+    "bindType": -1,
+    "knownIds": "[378909]"
+  },
+  {
+    "internalId": 4275238290,
+    "name": "Style Page: Evergloam Champion Bow",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": -1,
+    "knownIds": "[182572]"
+  },
+  {
+    "internalId": 4275273973,
+    "name": "Hat of Bahraha's Curse",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_head_a.png",
+    "bindType": 2,
+    "knownIds": "[114604,114625]"
+  },
+  {
+    "internalId": 4275318417,
+    "name": "minnow",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
+    "bindType": -1,
+    "knownIds": "[378897]"
+  },
+  {
+    "internalId": 4275339012,
+    "name": "Azureblight Restoration Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_staff_a.png",
+    "bindType": -1,
+    "knownIds": "[1332029,1339647,1342194,1347959,1394976,1406047,1474176,1499189,1539980,1546656,1549100,1583637,1619977,1623111]"
+  },
+  {
+    "internalId": 4275399993,
+    "name": "Darkstride Belt",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_waist_a.png",
+    "bindType": 2,
+    "knownIds": "[85845,85865,85885,85905,85925,85965]"
+  },
+  {
+    "internalId": 4275612524,
+    "name": "Crafting Motif 24: Outlaw Shields",
+    "description": "Use to learn the Outlaw Shields. Also teaches the equivalent Outlaw Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[71533]"
+  },
+  {
+    "internalId": 4275828329,
+    "name": "Eyes of Mara Jewelry",
+    "description": "A Crafted Armor set constructed in Eyevea.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+    "bindType": 2,
+    "knownIds": "[182492]"
+  },
+  {
+    "internalId": 4275912040,
+    "name": "Elsweyr Winerack, Cane Mead",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_housingwinerack001.png",
+    "bindType": -1,
+    "knownIds": "[151714]"
+  },
+  {
+    "internalId": 4276024301,
+    "name": "Serano Ancestral Tomb Rubbing",
+    "description": "A rubbing containing a clue to help locate the lost Library of Andule. Bring it to Librarian Bradyn in Vivec City, in Vvardenfell.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+    "bindType": 3,
+    "knownIds": "[114317]"
+  },
+  {
+    "internalId": 4276227598,
+    "name": "Sparkly Hat Dazzler",
+    "description": "This unstable alchemical concoction creates a magnificent, sparkling jester's cap in the sky above you when used.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_dazzler_002.png",
+    "bindType": -1,
+    "knownIds": "[120891]"
+  },
+  {
+    "internalId": 4276310078,
+    "name": "Design: Wood Elf Bone Chimes",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
+    "bindType": -1,
+    "knownIds": "[115902]"
+  },
+  {
+    "internalId": 4276357988,
+    "name": "Style Page: Opal Engine Guardian Shoulder",
+    "description": "Use to learn the Opal Engine Guardian Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[153746]"
+  },
+  {
+    "internalId": 4276360503,
+    "name": "Wretched Vitality",
+    "description": "A Crafted Armor set constructed in the Deadlands.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+    "bindType": 2,
+    "knownIds": "[182736]"
+  },
+  {
+    "internalId": 4276577555,
+    "name": "ironhide bracers",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+    "bindType": -1,
+    "knownIds": "[405665,403177,448552,406361,403731,735601,417291,608552,460800,483684,478978,373947,515503,551360,551362,381181,374307,410930,732319,673602,405651,414156,497728,407998,415987,404136,447019,448424,448854,416576,491549,500296,406918,416567,405519,739224,452974,417286,411038,533678,417448,403720,427059,416247,498478,409473,478731,409686,499049,518255,428749,532981,608946,375486,534161,374843,493491,404034,541624,478867,479039,489548,801094,478533,460680,721106,495522,680036,533126,534575,445029,449794,590708,534095,693526,460321,713894,579804,374047,579787,374691,631373,793673,750413,750421,750519,750703,750698,406644,790083,786137,781350,838319,838322,838363,1065364,1586775,1597984,1631627,1631687,1631739,1631817,1631818,1631872,1654982,1737176,1737486,1743206,1745645,1746016,1747699,1757242]"
+  },
+  {
+    "internalId": 4276764594,
+    "name": "Curse-Eating Sword",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+    "bindType": 2,
+    "knownIds": "[90844,90865,90886,90907,90928,90949]"
+  },
+  {
+    "internalId": 4276799755,
+    "name": "Gauntlets of Bahraha's Curse",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_hands_a.png",
+    "bindType": 2,
+    "knownIds": "[199774,199775,199776,199777,199778]"
+  },
+  {
+    "internalId": 4276868899,
+    "name": "Mantle of Honor",
+    "description": "You feel the wisdom of Redguard heroes of old when you wear this stately mantle.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_shoulders_d.png",
+    "bindType": 2,
+    "knownIds": "[10086]"
+  },
+  {
+    "internalId": 4276899472,
+    "name": "Experimental Magma-Suit, Damaged",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
+    "bindType": -1,
+    "knownIds": "[495238]"
+  },
+  {
+    "internalId": 4276958880,
+    "name": "Fargrave Paper Lantern, Purple Flat",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farlanternhanging007.png",
+    "bindType": -1,
+    "knownIds": "[223866]"
+  },
+  {
+    "internalId": 4276970200,
+    "name": "Ice Staff of the Combat Physician",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+    "bindType": -1,
+    "knownIds": "[1066913,1198135,1201668,1202703,1236158,1281193,1286999,1292924,1363097,1393700,1525847,1545598,1594061,1605301,1610238,1649370,1681754,1686585,1731606,1759377]"
+  },
+  {
+    "internalId": 4276975250,
+    "name": "Porade",
+    "description": "Porade",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_046.png",
+    "bindType": -1,
+    "knownIds": "[45856]"
+  },
+  {
+    "internalId": 4277453761,
+    "name": "Blueprint: Solitude Bookcase, Narrow Noble",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
+    "bindType": -1,
+    "knownIds": "[166874]"
+  },
+  {
+    "internalId": 4277510540,
+    "name": "Lute of Blue Longing",
+    "description": "This lute is said to be cursed with the spirit of a queen betrayed in love. Bring this to the Bards College in Solitude, in Western Skyrim.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questluteofbluelonging001.png",
+    "bindType": 3,
+    "knownIds": "[156666]"
+  },
+  {
+    "internalId": 4277529686,
+    "name": "Firebrand Prayer Book",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
+    "bindType": -1,
+    "knownIds": "[926951,1543205]"
+  },
+  {
+    "internalId": 4277646251,
+    "name": "Molag Kena's Mask",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedclivia_head_a.png",
+    "bindType": -1,
+    "knownIds": "[912378,913232,918220,918265,936822,941124,947261,947740,1065919,1213482,1230422,1230517,1248767,1266192,1268348,1268369,1311407,1476145,1476149,1499980,1503645,1506091,1506424,1513082,1553478]"
+  },
+  {
+    "internalId": 4277689291,
+    "name": "Arm Cops of Torug's Pact",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+    "bindType": 2,
+    "knownIds": "[56520]"
+  },
+  {
+    "internalId": 4277892581,
+    "name": "Crafting Motif 129: Hircine Bloodhunter Daggers",
+    "description": "Use to learn how to make Hircine Bloodhunter Daggers. Also teaches the equivalent Hircine Bloodhunter Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[203840]"
+  },
+  {
+    "internalId": 4277914703,
+    "name": "Tormentor",
+    "description": "A Heavy Armor set found in Banished Cells.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+    "bindType": 2,
+    "knownIds": "[134102]"
+  },
+  {
+    "internalId": 4278078210,
+    "name": "Weapons: Ward of Cyrodiil",
+    "description": "A Medium Armor set found in Cyrodiil.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+    "bindType": 2,
+    "knownIds": "[150715]"
+  },
+  {
+    "internalId": 4278102480,
+    "name": "Tree, Lanky Poplar",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_nocpoplar001.png",
+    "bindType": -1,
+    "knownIds": "[125673]"
+  },
+  {
+    "internalId": 4278158266,
+    "name": "MONSTER: Earthgore",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+    "bindType": -1,
+    "knownIds": "[1164309]"
+  },
+  {
+    "internalId": 4278170642,
+    "name": "Undaunted Box: Exiled Redoubt",
+    "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+    "bindType": 3,
+    "knownIds": "[219752]"
+  },
+  {
+    "internalId": 4278180702,
+    "name": "Notade",
+    "description": "Notade",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_027.png",
+    "bindType": -1,
+    "knownIds": "[45818]"
+  },
+  {
+    "internalId": 4278199473,
+    "name": "Sword of Night's Silence",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+    "bindType": 2,
+    "knownIds": "[56175]"
+  },
+  {
+    "internalId": 4278206016,
+    "name": "Shore's Edge",
+    "description": "It is said the edge of this blade was honed on a type of whetstone found only in the Far Shores.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hsword_d.png",
+    "bindType": 2,
+    "knownIds": "[15624]"
+  },
+  {
+    "internalId": 4278471130,
+    "name": "Crafting Motif 59: Scalecaller Style",
+    "description": "Use to learn the Scalecaller crafting style. Also teaches the equivalent Scalecaller outfit styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+    "bindType": -1,
+    "knownIds": "[134771]"
+  },
+  {
+    "internalId": 4278599108,
+    "name": "Necklace of Varen's Legacy",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+    "bindType": 2,
+    "knownIds": "[139752,139842,139932,140022,140112,140202]"
+  },
+  {
+    "internalId": 4278989129,
+    "name": "Perfected Dolorous Gauntlets",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_hands_a.png",
+    "bindType": -1,
+    "knownIds": "[1759957,1763892,1764671,1771508,1772599]"
+  },
+  {
+    "internalId": 4279058619,
+    "name": "Maul of Drake's Rush",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_2hhammer_a.png",
+    "bindType": -1,
+    "knownIds": "[1417219,1417371,1422772,1508178,1508731,1544807,1547922,1568814,1605534,1623560]"
+  },
+  {
+    "internalId": 4279232091,
+    "name": "Crossroads Tavern Dice",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
+    "bindType": -1,
+    "knownIds": "[826102]"
+  },
+  {
+    "internalId": 4279233226,
+    "name": "Post, Skull",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_lsb_skullpole001.png",
+    "bindType": -1,
+    "knownIds": "[118784]"
+  },
+  {
+    "internalId": 4279302647,
+    "name": "Nix-Hound's Howl Bracers",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_medium_hands_a.png",
+    "bindType": -1,
+    "knownIds": "[1628766,1628916,1629538,1629584,1631240,1631878,1633668,1636232,1657971,1751257]"
+  },
+  {
+    "internalId": 4279322208,
+    "name": "Inferno Staff of Agility",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[69289,69302,69315,69328,69341,69354,69367,69380]"
+  },
+  {
+    "internalId": 4279353506,
+    "name": "Grisly Gourmet's Ice Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_staff_a.png",
+    "bindType": -1,
+    "knownIds": "[1519364,1528267,1564040,1568908,1583108,1680974]"
+  },
+  {
+    "internalId": 4279438604,
+    "name": "Jailbreaker Helmet",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_head_d.png",
+    "bindType": -1,
+    "knownIds": "[1423731,941063,943884,944118,944463,947323,947648,965502,980653,1040817,1066210,1069519,1077780,1078780,1084410,1084605,1094319,1096331,1123578,1149034,1157743,1158100,1186671,1189481,1190718,1192611,1194099,1206470,1210870,1211197,1215518,1233852,1246614,1324479,1349195,1349201,1358842,1375112,1377378,1380887,1381912,1388218,1388559,1392987,1398542,1400157,1432941,1433004,1445183,1450752,1452218,1452293,1454600,1474438,1483154,1483156,1484626,1485250,1485492,1490378,1509284,1536758,1572035,1612450,1618583,1621302,1683796,1687826,1727400,1727991,1748205,1749943,1753393]"
+  },
+  {
+    "internalId": 4279586782,
+    "name": "Dekeipa",
+    "description": "Dekeipa",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_017.png",
+    "bindType": -1,
+    "knownIds": "[45839]"
+  },
+  {
+    "internalId": 4279704344,
+    "name": "Solitude Bed, Rustic Cowhide Single",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bedsingle006.png",
+    "bindType": -1,
+    "knownIds": "[165745]"
+  },
+  {
+    "internalId": 4279734436,
+    "name": "Indoril Carpet, Vivec",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlarugvivec003.png",
+    "bindType": -1,
+    "knownIds": "[126541]"
+  },
+  {
+    "internalId": 4279794152,
+    "name": "Grapes and Ash Yam Falafel",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
+    "bindType": -1,
+    "knownIds": "[68249]"
+  },
+  {
+    "internalId": 4279801320,
+    "name": "Style Page: The Maelstrom's Sword",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": -1,
+    "knownIds": "[152139]"
+  },
+  {
+    "internalId": 4280064561,
+    "name": "Might of the Lost Legion Sabatons",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+    "bindType": 2,
+    "knownIds": "[143545,143600,143635,143670,143705,143740,143775,143810,143845,143880]"
+  },
+  {
+    "internalId": 4280192120,
+    "name": "Roguish Escape Draught",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_010_type_003.png",
+    "bindType": -1,
+    "knownIds": "[74729]"
+  },
+  {
+    "internalId": 4280219420,
+    "name": "Wood Elf Bowl, Striped",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_vasetabletop008.png",
+    "bindType": -1,
+    "knownIds": "[115602]"
+  },
+  {
+    "internalId": 4280249424,
+    "name": "Sixth House Incense of Toolwork",
+    "description": "This is one of seven parts of the Sixth House Robe Costume. Use to advance the eponymous achievement.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/fragment_costume_sixthhouse_incense.png",
+    "bindType": -1,
+    "knownIds": "[124669]"
+  },
+  {
+    "internalId": 4280604301,
+    "name": "Thieves Guild Coffer",
+    "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_chest001.png",
+    "bindType": 3,
+    "knownIds": "[203812]"
+  },
+  {
+    "internalId": 4280606559,
+    "name": "Titanborn's Lightning Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_icereachcoven_staff_a.png",
+    "bindType": -1,
+    "knownIds": "[1352134,1353826,1372122,1377691,1378270,1541405,1548921,1583559,1609401,1742195]"
+  },
+  {
+    "internalId": 4280674361,
+    "name": "Glass Eye of Distinction",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
+    "bindType": -1,
+    "knownIds": "[652639]"
+  },
+  {
+    "internalId": 4280801455,
+    "name": "Baelborne Signet",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+    "bindType": -1,
+    "knownIds": "[384635,392234,383373]"
+  },
+  {
+    "internalId": 4281410714,
+    "name": "Weighted Gambling Dice",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
+    "bindType": -1,
+    "knownIds": "[803226]"
+  },
+  {
+    "internalId": 4281442453,
+    "name": "Ashham's Breastplate of Cyrodiil's Crest",
+    "description": "Heavily ornamented and immensely strong, this breastplate imbues its wearer with a sense of immortality.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+    "bindType": 2,
+    "knownIds": "[45740]"
+  },
+  {
+    "internalId": 4281492905,
+    "name": "Late Hearthfire Vegetable Tart",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tart_002.png",
+    "bindType": -1,
+    "knownIds": "[68250]"
+  },
+  {
+    "internalId": 4281555387,
+    "name": "Tree, Large Water Chestnut",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_moneytree008.png",
+    "bindType": -1,
+    "knownIds": "[214504]"
+  },
+  {
+    "internalId": 4281620400,
+    "name": "Style Page: Dapper Daredevil Jerkin",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": -1,
+    "knownIds": "[219814]"
+  },
+  {
+    "internalId": 4281622988,
+    "name": "Royal Banner of Evermore",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_002.png",
+    "bindType": -1,
+    "knownIds": "[672633]"
+  },
+  {
+    "internalId": 4281658371,
+    "name": "Pauldron of Draugr Heritage",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_shoulders_a.png",
+    "bindType": 2,
+    "knownIds": "[101717,101737,101757,101777,101797,101817,101837,101857]"
+  },
+  {
+    "internalId": 4281708036,
+    "name": "Style Page: Y'ffre's Fallen-Wood Pauldron",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": -1,
+    "knownIds": "[199056]"
+  },
+  {
+    "internalId": 4281787159,
+    "name": "Solitude Bread, Partial Loaf",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_medbreadhalfloaf001.png",
+    "bindType": -1,
+    "knownIds": "[165799]"
+  },
+  {
+    "internalId": 4281974227,
+    "name": "Might of the Lost Legion Ice Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[143540,143595,143630,143665,143700,143735,143770,143805,143840,143875]"
+  },
+  {
+    "internalId": 4281992094,
+    "name": "High Isle Trapdoor, Turquoise",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinglighthousetrapdoor001.png",
+    "bindType": -1,
+    "knownIds": "[189498]"
+  },
+  {
+    "internalId": 4282012144,
+    "name": "quillfish",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
+    "bindType": -1,
+    "knownIds": "[521057]"
+  },
+  {
+    "internalId": 4282020431,
+    "name": "Unchained Aggressor's Breeches",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+    "bindType": 2,
+    "knownIds": "[158714,158769,158804,158839,158874,158909,158944,158979,159014,159049]"
+  },
+  {
+    "internalId": 4282038556,
+    "name": "Redguard Pillar, Tiered",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_housingvarhousemediumcolumn001.png",
+    "bindType": -1,
+    "knownIds": "[134922]"
+  },
+  {
+    "internalId": 4282226476,
+    "name": "dwarven cuirass of stamina",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+    "bindType": -1,
+    "knownIds": "[684181,763937,581906,690232,666312,545587,757980,481775,871892,1167503]"
+  },
+  {
+    "internalId": 4282241795,
+    "name": "Perfected Lokkestiiz's Axe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_axe_a.png",
+    "bindType": -1,
+    "knownIds": "[1365341,1374338,1629298,1679448,1683842]"
+  },
+  {
+    "internalId": 4282277969,
+    "name": "Jerkin of the Weald",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_light_chest_a.png",
+    "bindType": 2,
+    "knownIds": "[204902,204923,204944,204965,204986,205007,205028,205049]"
+  },
+  {
+    "internalId": 4282292423,
+    "name": "Pillar of Nirn Battle Axe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_2haxe_a.png",
+    "bindType": -1,
+    "knownIds": "[1194553,1225741,1286729,1400789,1515905,1531837,1544877,1562082,1581264,1583168,1594756,1600942,1606510,1638143]"
+  },
+  {
+    "internalId": 4282311729,
+    "name": "Seventh Legion's Axe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1haxe_d.png",
+    "bindType": 2,
+    "knownIds": "[100771,100791,100811,100831,100851,100871,100891,100911]"
+  },
+  {
+    "internalId": 4282539000,
+    "name": "Spattering Disjunction Amulet",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+    "bindType": -1,
+    "knownIds": "[1735225,1764484,1777156]"
+  },
+  {
+    "internalId": 4282908246,
+    "name": "Coldharbour's Favorite Jerkin",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+    "bindType": 2,
+    "knownIds": "[147973,148028,148063,148098,148133,148168,148203,148238,148273,148308]"
+  },
+  {
+    "internalId": 4283217451,
+    "name": "Necrom Hanging Flowers, Elegant",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_housingnecwallhookplanterhanging001.png",
+    "bindType": -1,
+    "knownIds": "[197504]"
+  },
+  {
+    "internalId": 4283402778,
+    "name": "Design: Redguard Pot, Mosaic",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
+    "bindType": -1,
+    "knownIds": "[119261]"
+  },
+  {
+    "internalId": 4283680227,
+    "name": "Blueprint: Redguard Shelf, Sturdy",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
+    "bindType": -1,
+    "knownIds": "[119148]"
+  },
+  {
+    "internalId": 4283759724,
+    "name": "Crafting Motif 52: Redoran Gloves",
+    "description": "Use to learn how to make Redoran Gloves. Also teaches the equivalent Redoran Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[130017]"
+  },
+  {
+    "internalId": 4283793081,
+    "name": "Mushroom, Tall Russet Chanterelle",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_giantchanterelle005.png",
+    "bindType": -1,
+    "knownIds": "[197638]"
+  },
+  {
+    "internalId": 4283921890,
+    "name": "Crafting Motif 23: Malacath Chests",
+    "description": "Use to learn how to make Malacath Chests. Also teaches the equivalent Malacath Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[71571]"
+  },
+  {
+    "internalId": 4283924709,
+    "name": "Helm of Imperial Physique",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_heavy_head_a.png",
+    "bindType": 2,
+    "knownIds": "[78957,78992,79027,79062,79097,79132,79167,79240]"
+  },
+  {
+    "internalId": 4284026618,
+    "name": "Ice Staff of the Willow's Path",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[56567]"
+  },
+  {
+    "internalId": 4284241643,
+    "name": "Restoration Staff of Oblivion's Foe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[56429]"
+  },
+  {
+    "internalId": 4284321664,
+    "name": "Mage's Rune",
+    "description": "",
+    "icon": null,
+    "bindType": -1,
+    "knownIds": "[791696]"
+  },
+  {
+    "internalId": 4284374937,
+    "name": "Pauldron of the Sergeant",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+    "bindType": 2,
+    "knownIds": "[89703,89723,89743,89763,89783]"
+  },
+  {
+    "internalId": 4284474047,
+    "name": "Blueprint: Colovian Roof Gable, Large",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
+    "bindType": -1,
+    "knownIds": "[211010]"
+  },
+  {
+    "internalId": 4284660526,
+    "name": "Amber Plasm Sash",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_light_waist_a.png",
+    "bindType": -1,
+    "knownIds": "[924911,935149,937487,943606,978731,1066571,1077257,1077259,1078897,1084070,1092518,1126937,1133991,1144522,1166600,1232561,1332332,1399880,1408701,1409221,1447341,1452590,1454746,1463902,1476189,1490184,1515750,1515756,1516934,1559330,1571424,1584515,1588759,1596620,1739758]"
+  },
+  {
+    "internalId": 4284660964,
+    "name": "Lucilla's Greatsword",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_2hsword_a.png",
+    "bindType": -1,
+    "knownIds": "[1748954,1751149,1751643,1756471]"
+  },
+  {
+    "internalId": 4284669187,
+    "name": "Psijic Lighting Globe, Small",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_ceplightsingle002.png",
+    "bindType": -1,
+    "knownIds": "[1260527]"
+  },
+  {
+    "internalId": 4284691603,
+    "name": "Mighty Glacier's Battle Axe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_2haxe_a.png",
+    "bindType": -1,
+    "knownIds": "[1304499,1304613,1365764,1386867,1448615,1452827,1541166,1543022,1619962,1620905,1637105]"
+  },
+  {
+    "internalId": 4284721163,
+    "name": "Bronze Windowsill Sundial",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png",
+    "bindType": -1,
+    "knownIds": "[419789]"
+  },
+  {
+    "internalId": 4284728086,
+    "name": "Crafting Motif 45: Mazzatun Maces",
+    "description": "Use to learn how to make Mazzatun Maces. Also teaches the equivalent Mazzatun Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[114961]"
+  },
+  {
+    "internalId": 4284803478,
+    "name": "Deadlands Brazier",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_dedwayshrinedungeon001.png",
+    "bindType": -1,
+    "knownIds": "[203593]"
+  },
+  {
+    "internalId": 4284923639,
+    "name": "Stuhn's Gauntlets",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+    "bindType": 2,
+    "knownIds": "[161291,161326,161361,161396,161431,161466,161501,161536,161571]"
+  },
+  {
+    "internalId": 4284943172,
+    "name": "Blackrose Shield",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_shield_a.png",
+    "bindType": -1,
+    "knownIds": "[1293135,1337318,1339046,1339613,1394098,1537474,1564499,1566561,1587961,1590841,1722437,1756764]"
+  },
+  {
+    "internalId": 4285031749,
+    "name": "Crafting Motif 36: Dark Brotherhood Helmets",
+    "description": "Use to learn how to make Dark Brotherhood Helmets. Also teaches the equivalent Dark Brotherhood Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[82062]"
+  },
+  {
+    "internalId": 4285136270,
+    "name": "Tide-Born Bracers",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+    "bindType": 2,
+    "knownIds": "[215509,215564,215599,215634,215669,215704,215739,215774,215809,215844]"
+  },
+  {
+    "internalId": 4285175297,
+    "name": "Barbel",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
+    "bindType": -1,
+    "knownIds": "[848598]"
+  },
+  {
+    "internalId": 4285231917,
+    "name": "Highland Sentinel Inferno Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[205906,205941,205976,206011,206046,206081,206116]"
+  },
+  {
+    "internalId": 4285282549,
+    "name": "Design: Solitude Stein, Rustic",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
+    "bindType": -1,
+    "knownIds": "[166952]"
+  },
+  {
+    "internalId": 4285370428,
+    "name": "Crafting Motif 18: Akaviri Gloves",
+    "description": "Use to learn how to make Akaviri Gloves. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Akaviri Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[57597]"
+  },
+  {
+    "internalId": 4285511941,
+    "name": "High Elf End Table, Winged",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tableend001.png",
+    "bindType": -1,
+    "knownIds": "[114391]"
+  },
+  {
+    "internalId": 4285607904,
+    "name": "Stuhn's Bracers",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+    "bindType": 2,
+    "knownIds": "[161306,161341,161376,161411,161446,161481,161516,161551,161586]"
+  },
+  {
+    "internalId": 4285655841,
+    "name": "Glorious Undaunted Box: The Cauldron",
+    "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+    "bindType": 3,
+    "knownIds": "[190201]"
+  },
+  {
+    "internalId": 4285673537,
+    "name": "Style Page: Iceheart's Shoulder",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[1286936]"
+  },
+  {
+    "internalId": 4285740158,
+    "name": "Smuggler's Luck Beads",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+    "bindType": -1,
+    "knownIds": "[1485784,1508766,1515940,1525262,1546407,1619717,1679576,1738054]"
+  },
+  {
+    "internalId": 4285766054,
+    "name": "Bound Gold Coast Spellcaster Elixir",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpotion_spellcaster.png",
+    "bindType": 3,
+    "knownIds": "[135125]"
+  },
+  {
+    "internalId": 4286009860,
+    "name": "Aerie's Cry Battle Axe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_2haxe.png",
+    "bindType": -1,
+    "knownIds": "[1726564,1726573,1779097]"
+  },
+  {
+    "internalId": 4286143844,
+    "name": "Galerion's Jerkin",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shirt_d.png",
+    "bindType": 2,
+    "knownIds": "[78108,78213]"
+  },
+  {
+    "internalId": 4286222688,
+    "name": "Deadlands Demolisher's Battle Axe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+    "bindType": 2,
+    "knownIds": "[179183,179238,179273,179308,179343,179378,179413,179448,179483,179518]"
+  },
+  {
+    "internalId": 4286246552,
+    "name": "Ivory Shoehorn",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_010.png",
+    "bindType": -1,
+    "knownIds": "[625434]"
+  },
+  {
+    "internalId": 4286249027,
+    "name": "nightwood lightning staff of shock",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": -1,
+    "knownIds": "[560063,650751,581745,606674,764436,520785,513244,625887,517992,689886,531930,527032,532883,700853,525178,519627,679032,425220,488184,631733,607465,583063,680361,800225,755169,760355,793805,793026,792091,777065,776438,881808,881819]"
+  },
+  {
+    "internalId": 4286289878,
+    "name": "Crafting Motif 54: Bloodforge Swords",
+    "description": "Use to learn how to make Bloodforge Swords. Also teaches the equivalent Bloodforge Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[132547]"
+  },
+  {
+    "internalId": 4286498714,
+    "name": "Jorvuld's Guidance Gloves",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_light_hands_a.png",
+    "bindType": -1,
+    "knownIds": "[1201609,1201815,1203397,1205940,1213359,1234791,1257714,1258714,1262274,1263356,1286807,1302919,1349365,1363852,1392928,1403523,1409397,1422892,1427757,1428431,1429968,1455009,1457431,1457436,1460120,1461208,1461231,1485376,1490143,1533946,1541215,1595180,1595280,1602790,1637089]"
+  },
+  {
+    "internalId": 4286510364,
+    "name": "Sturdy Leaf Shears",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
+    "bindType": -1,
+    "knownIds": "[1414188]"
+  },
+  {
+    "internalId": 4286675081,
+    "name": "Daedric Key, Coldharbour",
+    "description": "This is a tiny house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_con_keylrg001.png",
+    "bindType": -1,
+    "knownIds": "[151915]"
+  },
+  {
+    "internalId": 4286713545,
+    "name": "Gourmand's Mace",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1hhammer_a.png",
+    "bindType": 2,
+    "knownIds": "[190370,190391,190412,190433,190454,190475,190496,190517]"
+  },
+  {
+    "internalId": 4286728817,
+    "name": "Embershield Dagger",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_dagger_c.png",
+    "bindType": -1,
+    "knownIds": "[1085099,1089595,1125596,1144565,1175854,1248805,1368365,1395852,1500257,1543645,1544358,1547365,1553671,1566882,1581581,1585584,1602987,1603551,1621308,1643645,1645852,1727415,1735531]"
+  },
+  {
+    "internalId": 4286776656,
+    "name": "Plume Dazzler",
+    "description": "This unstable alchemical concoction creates two small plumes of sparks in front of you when used.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_dazzler_003.png",
+    "bindType": -1,
+    "knownIds": "[114947]"
+  },
+  {
+    "internalId": 4286936115,
+    "name": "Crafting Motif 16: Glass Chests",
+    "description": "Use to learn how to make Glass Chests. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Glass Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[64674]"
+  },
+  {
+    "internalId": 4286987957,
+    "name": "Nedic Banner, Ancestral",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_nedicbannerspirit001.png",
+    "bindType": -1,
+    "knownIds": "[198045]"
+  },
+  {
+    "internalId": 4287083174,
+    "name": "Lightning Staff of the Powerful Assault",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[117099,117119,117139,117159,117179,117199,117219,117239]"
+  },
+  {
+    "internalId": 4287167987,
+    "name": "Breton Mug, Empty",
+    "description": "This is a tiny house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_tankard001_empty.png",
+    "bindType": -1,
+    "knownIds": "[121054]"
+  },
+  {
+    "internalId": 4287363921,
+    "name": "galatite pauldron of stamina",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+    "bindType": -1,
+    "knownIds": "[713578,701263,501031,491506,732417,378235,478666,608589,541891,453803,713547,461457,739521,538963,505642,459896,788029,770543]"
+  },
+  {
+    "internalId": 4287398343,
+    "name": "Sash of Wretched Vitality",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+    "bindType": 2,
+    "knownIds": "[178958,178993,179028,179063,179098,179133,179168]"
+  },
+  {
+    "internalId": 4287437638,
+    "name": "Slimy Acidic Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+    "bindType": -1,
+    "knownIds": "[789960]"
+  },
+  {
+    "internalId": 4287469757,
+    "name": "Lightning Staff of Transmutation",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[199566,199567,199568,199569,199570]"
+  },
+  {
+    "internalId": 4287550749,
+    "name": "Enchanter Survey: Deshaan",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+    "bindType": -1,
+    "knownIds": "[459572]"
+  },
+  {
+    "internalId": 4287600947,
+    "name": "Hlaalu Table, Formal Floral",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_exttablerect001.png",
+    "bindType": -1,
+    "knownIds": "[126436]"
+  },
+  {
+    "internalId": 4287758611,
+    "name": "Tin of Wound Resin",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
+    "bindType": -1,
+    "knownIds": "[860312]"
+  },
+  {
+    "internalId": 4287782142,
+    "name": "slight glyph of increase physical harm",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increaseweapondamage.png",
+    "bindType": -1,
+    "knownIds": "[434837,1437818]"
+  },
+  {
+    "internalId": 4287876095,
+    "name": "Smuggler's Shield",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_d.png",
+    "bindType": 2,
+    "knownIds": "[100965,100986,101007,101028,101049,101070,101091,101112]"
+  },
+  {
+    "internalId": 4287888849,
+    "name": "Superb Glyph of Decrease Spell Harm",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png",
+    "bindType": -1,
+    "knownIds": "[1426596]"
+  },
+  {
+    "internalId": 4287966826,
+    "name": "Mace of Martial Knowledge",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1hhammer_a.png",
+    "bindType": 2,
+    "knownIds": "[95455,95476,95497,95518,95539,95560,95581,95602]"
+  },
+  {
+    "internalId": 4287988793,
+    "name": "Elsweyr Fountain, Four Lions",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_fountainset002.png",
+    "bindType": -1,
+    "knownIds": "[151768]"
+  },
+  {
+    "internalId": 4288029292,
+    "name": "Blueprint: Orcish Stool, Cabled",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
+    "bindType": -1,
+    "knownIds": "[119022]"
+  },
+  {
+    "internalId": 4288047711,
+    "name": "Jerkin of the Voidcaller",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_chest_a.png",
+    "bindType": 2,
+    "knownIds": "[167615,167636,167657,167678,167699,167720,167741,167762]"
+  },
+  {
+    "internalId": 4288350548,
+    "name": "Vampire Maxer",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
+    "bindType": -1,
+    "knownIds": "[114281]"
+  },
+  {
+    "internalId": 4288443522,
+    "name": "Telvanni End Table, Organic",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_telendtableorganic001.png",
+    "bindType": -1,
+    "knownIds": "[126425]"
+  },
+  {
+    "internalId": 4288486875,
+    "name": "Perfected Nahviintaas's Hat",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_light_helmet_a.png",
+    "bindType": -1,
+    "knownIds": "[1381104,1541302,1541311,1542074,1542078,1623266]"
+  },
+  {
+    "internalId": 4288728132,
+    "name": "Bound Style Page: Soulcleaver Greatsword",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": 3,
+    "knownIds": "[198986]"
+  },
+  {
+    "internalId": 4288818719,
+    "name": "Soul-Reave",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2haxe_b.png",
+    "bindType": -1,
+    "knownIds": "[764900,705753,829203,843944,937360,1067783,1212928,1249347,1471621,1510671,1570013]"
+  },
+  {
+    "internalId": 4288932584,
+    "name": "Thick Quill Pen",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
+    "bindType": -1,
+    "knownIds": "[810018]"
+  },
+  {
+    "internalId": 4289078025,
+    "name": "Clockwork Table, Beveled",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_table001.png",
+    "bindType": -1,
+    "knownIds": "[134343]"
+  },
+  {
+    "internalId": 4289142053,
+    "name": "|H0:collectible:6774|h|h",
+    "description": "",
+    "icon": null,
+    "bindType": -1,
+    "knownIds": "[1331170]"
+  },
+  {
+    "internalId": 4289180476,
+    "name": "axe of Twilight Remedy",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1haxe_e.png",
+    "bindType": -1,
+    "knownIds": "[1609900,1693183,1760661,1778319]"
+  },
+  {
+    "internalId": 4289228287,
+    "name": "Shrubs, Small Berry",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_sapling_cluster003.png",
+    "bindType": -1,
+    "knownIds": "[120720]"
+  },
+  {
+    "internalId": 4289512336,
+    "name": "Impractical Nasal Kerchief",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
+    "bindType": -1,
+    "knownIds": "[1179079]"
+  },
+  {
+    "internalId": 4289594003,
+    "name": "Tribunal Coffer",
+    "description": "This reward box might contain useful crafting materials, powerful Set Items, or even rarer treasures.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png",
+    "bindType": 3,
+    "knownIds": "[171476]"
+  },
+  {
+    "internalId": 4289640694,
+    "name": "Para Bellum Axe",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_1haxe_a.png",
+    "bindType": -1,
+    "knownIds": "[1268513,1315351,1331488,1347142,1373729,1406734,1465417,1515371,1689542]"
+  },
+  {
+    "internalId": 4289734032,
+    "name": "Undaunted Box: Fungal Grotto",
+    "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+    "bindType": 3,
+    "knownIds": "[190251]"
+  },
+  {
+    "internalId": 4289868195,
+    "name": "Dark Elf Flags, Hanging",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_houseflag001.png",
+    "bindType": -1,
+    "knownIds": "[115307]"
+  },
+  {
+    "internalId": 4290175241,
+    "name": "Cask of Summer Skooma",
+    "description": "",
+    "icon": null,
+    "bindType": -1,
+    "knownIds": "[860445]"
+  },
+  {
+    "internalId": 4290339405,
+    "name": "Vanus's Restoration Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_staff_a.png",
+    "bindType": 2,
+    "knownIds": "[135539,135560,135581,135602,135623,135644,135665,135686]"
+  },
+  {
+    "internalId": 4290570040,
+    "name": "Null Arca Shield",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_shield_a.png",
+    "bindType": -1,
+    "knownIds": "[1726313,1726422,1727028,1731949,1731962,1732820,1732942,1732952,1733260,1743002,1744471,1747249,1753347]"
+  },
+  {
+    "internalId": 4290622652,
+    "name": "Worm Cult Table, Wooden",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_barricadetable001.png",
+    "bindType": -1,
+    "knownIds": "[220273]"
+  },
+  {
+    "internalId": 4290675495,
+    "name": "Argonian Tablet, Vos-Toh of Song",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_vostohsithiscrests002.png",
+    "bindType": -1,
+    "knownIds": "[220339]"
+  },
+  {
+    "internalId": 4290677708,
+    "name": "Eye of the Grasp Shield",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_sheild_a.png",
+    "bindType": 2,
+    "knownIds": "[179959,179980,180001,180022,180043,180064,180085]"
+  },
+  {
+    "internalId": 4291088970,
+    "name": "Ring of Varen's Legacy",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+    "bindType": 2,
+    "knownIds": "[139710,139800,139890,139980,140070,140160]"
+  },
+  {
+    "internalId": 4291163049,
+    "name": "Elven Eyes, Elven Spies",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
+    "bindType": -1,
+    "knownIds": "[1199302]"
+  },
+  {
+    "internalId": 4291194934,
+    "name": "Jailbreaker Inferno Staff",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+    "bindType": -1,
+    "knownIds": "[936338,1149048,1166644,1187849,1195367,1199411,1206671,1235670,1305267,1311800,1315730,1336804,1355899,1388314,1393735,1409064,1418951,1451266,1465317,1486851,1514998,1540964,1547904,1551150,1552324,1569540,1585051,1626680,1685120,1718726,1725212,1750770]"
+  },
+  {
+    "internalId": 4291329799,
+    "name": "Runecarver's Blaze Greatsword",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_2hsword_a.png",
+    "bindType": -1,
+    "knownIds": "[1628817,1629565,1644469,1650447,1692200,1698856,1742558]"
+  },
+  {
+    "internalId": 4291507579,
+    "name": "Solitude Table, Circular Ornate Small",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tableroundsmallfancy001.png",
+    "bindType": -1,
+    "knownIds": "[165690]"
+  },
+  {
+    "internalId": 4291834545,
+    "name": "Numbing Needles",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
+    "bindType": -1,
+    "knownIds": "[1151133]"
+  },
+  {
+    "internalId": 4291869875,
+    "name": "Metallic: Muddy Puddle",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2612.png",
+    "bindType": -1,
+    "knownIds": "[1190398]"
+  },
+  {
+    "internalId": 4291897957,
+    "name": "Design: Dres Cup, Sujamma",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
+    "bindType": -1,
+    "knownIds": "[127007]"
+  },
+  {
+    "internalId": 4291987388,
+    "name": "Haj Mota Head, Wall Mount",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headhajmota001.png",
+    "bindType": -1,
+    "knownIds": "[118295]"
+  },
+  {
+    "internalId": 4292089622,
+    "name": "Ukaezai's Scalpel",
+    "description": "This sword emanates dark energy. When released, the hilt blackens the bearer's palms with greasy soot.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
+    "bindType": 2,
+    "knownIds": "[1674]"
+  },
+  {
+    "internalId": 4292095305,
+    "name": "Praxis: Ayleid Pedestal, Empty",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
+    "bindType": -1,
+    "knownIds": "[211414]"
+  },
+  {
+    "internalId": 4292183882,
+    "name": "Crafting Motif 88: Ancestral Orc Maces",
+    "description": "Use to learn how to make Ancestral Orc Maces. Also teaches the equivalent Ancestral Orc Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[160620]"
+  },
+  {
+    "internalId": 4292255166,
+    "name": "Rough Hatchet, Practical",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_axesmll001.png",
+    "bindType": -1,
+    "knownIds": "[117940]"
+  },
+  {
+    "internalId": 4292351046,
+    "name": "Deadlands Demolisher's Bracers",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+    "bindType": 2,
+    "knownIds": "[179210,179265,179300,179335,179370,179405,179440,179475,179510,179545]"
+  },
+  {
+    "internalId": 4292552044,
+    "name": "Necklace of the Sentry",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+    "bindType": 2,
+    "knownIds": "[93904]"
+  },
+  {
+    "internalId": 4292627270,
+    "name": "Glorious Undaunted Box: Veteran Bloodroot Forge",
+    "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+    "bindType": 3,
+    "knownIds": "[190145]"
+  },
+  {
+    "internalId": 4292689469,
+    "name": "Recipe: Curried Kwama Scrib Risotto",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+    "bindType": -1,
+    "knownIds": "[56974]"
+  },
+  {
+    "internalId": 4292802826,
+    "name": "Bound Style Page: Tree-Sap Legion Arm Cops",
+    "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
+    "bindType": 3,
+    "knownIds": "[203875]"
+  },
+  {
+    "internalId": 4292876611,
+    "name": "Weapons: Robes of Transmutation",
+    "description": "A Light Armor set found in Cyrodiil.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+    "bindType": 2,
+    "knownIds": "[150686]"
+  },
+  {
+    "internalId": 4292993696,
+    "name": "Mudcrab Corn Fritters",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fish_stick.png",
+    "bindType": -1,
+    "knownIds": "[33596]"
+  },
+  {
+    "internalId": 4293023957,
+    "name": "Vampiric Container, Yellow Liquid",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabflask001.png",
+    "bindType": -1,
+    "knownIds": "[181494]"
+  },
+  {
+    "internalId": 4293040000,
+    "name": "Tarragon Chicken",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_chicken.png",
+    "bindType": -1,
+    "knownIds": "[28301]"
+  },
+  {
+    "internalId": 4293097636,
+    "name": "Common Bucket, Basic",
+    "description": "This is a small house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_bucket001.png",
+    "bindType": -1,
+    "knownIds": "[118008]"
+  },
+  {
+    "internalId": 4293148698,
+    "name": "The Book of Dawn and Dusk",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png",
+    "bindType": -1,
+    "knownIds": "[1095930]"
+  },
+  {
+    "internalId": 4293227123,
+    "name": "Hat of Mending",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_head_a.png",
+    "bindType": -1,
+    "knownIds": "[941848,948689,949531,979649,1085651,1141120,1151044,1153911,1167297,1172958,1456020,1460525,1470103,1481874,1506867,1518493,1624220,1634027,1681647,1681649]"
+  },
+  {
+    "internalId": 4293274592,
+    "name": "Redguard Table, Formal",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varrectangulartablelarge003.png",
+    "bindType": -1,
+    "knownIds": "[117793]"
+  },
+  {
+    "internalId": 4293362784,
+    "name": "Druidic Wall, Stone",
+    "description": "This is a large house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutinteriorwall001.png",
+    "bindType": -1,
+    "knownIds": "[193827]"
+  },
+  {
+    "internalId": 4293404397,
+    "name": "Riekling Banner, Wolf Pelt",
+    "description": "This is a standard house item.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrdecorativehidedsnow001.png",
+    "bindType": -1,
+    "knownIds": "[156662]"
+  },
+  {
+    "internalId": 4293545907,
+    "name": "Crafting Motif 82: Icereach Coven Chests",
+    "description": "Use to learn how to make Icereach Coven Chests. Also teaches the equivalent Icereach Coven outfit styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[157522]"
+  },
+  {
+    "internalId": 4293846566,
+    "name": "Dust's Shadow",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png",
+    "bindType": -1,
+    "knownIds": "[1338205]"
+  },
+  {
+    "internalId": 4293993768,
+    "name": "Gauntlets of the Eyes of Mara",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+    "bindType": 2,
+    "knownIds": "[56747]"
+  },
+  {
+    "internalId": 4294086035,
+    "name": "Indeko",
+    "description": "Indeko",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_u26_components_runestones_063.png",
+    "bindType": -1,
+    "knownIds": "[166045]"
+  },
+  {
+    "internalId": 4294149551,
+    "name": "The Pincher",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_dagger_d.png",
+    "bindType": -1,
+    "knownIds": "[689159,622301,507896]"
+  },
+  {
+    "internalId": 4294289224,
+    "name": "Crafting Motif 130: Exile's Revenge Belts",
+    "description": "Use to learn how to make Exile's Revenge Belts. Also teaches the equivalent Exile's Revenge Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[211056]"
+  },
+  {
+    "internalId": 4294617956,
+    "name": "Alik'r Treasure Map III",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+    "bindType": -1,
+    "knownIds": "[43615]"
+  },
+  {
+    "internalId": 4294637058,
+    "name": "Cold Indoril Radish Tartlets",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tart_004.png",
+    "bindType": -1,
+    "knownIds": "[32118]"
+  },
+  {
+    "internalId": 4294678951,
+    "name": "Lightning Staff of Nikulas",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+    "bindType": 2,
+    "knownIds": "[85281,85301,85321,85341,85361,85381,85401]"
+  },
+  {
+    "internalId": 4294684870,
+    "name": "Noxiphilic Sanguivoria",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
+    "bindType": -1,
+    "knownIds": "[1134910]"
+  },
+  {
+    "internalId": 4294729166,
+    "name": "Crafting Motif 41: Celestial Maces",
+    "description": "Use to learn how to make Celestial Maces. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Celestial Outfit Styles.",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+    "bindType": -1,
+    "knownIds": "[82016]"
+  },
+  {
+    "internalId": 4294823215,
+    "name": "The Vicecanon's Necklace",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+    "bindType": 2,
+    "knownIds": "[78895,78897,78899]"
+  },
+  {
+    "internalId": 4294833418,
+    "name": "Palm Flask",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png",
+    "bindType": -1,
+    "knownIds": "[441618]"
+  },
+  {
+    "internalId": 4294923419,
+    "name": "Greatsword of the Trainee",
+    "description": "",
+    "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+    "bindType": 2,
+    "knownIds": "[95875,95975,96164,96248,96348]"
+  }
+]

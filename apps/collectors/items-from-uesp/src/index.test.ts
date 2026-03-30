@@ -1,7 +1,11 @@
 import { describe, expect, it } from 'vitest'
 import fs from 'fs'
 import { MinedResults } from './results'
-import { getHtmlFromEndpoint, processNextPageOfMinedResults } from './index'
+import {
+  getHtmlFromEndpoint,
+  processNextPageOfLootedResults,
+  processNextPageOfMinedResults,
+} from './index'
 
 const sampleHtml = fs.readFileSync(
   __dirname + '/../docs/sample-mined-item-summary.html',
@@ -22,8 +26,9 @@ describe('results', () => {
   })
 })
 
-describe('crawler', async () => {
+describe.skipIf(process.env.SKIP_SLOW_TESTS)('crawler', async () => {
   const results = await processNextPageOfMinedResults(undefined, true)
+  await processNextPageOfLootedResults(undefined, true)
 
   it('has results', () => {
     expect(results.items).toHaveLength(843) // Only unbound items.
@@ -47,7 +52,7 @@ describe('fetching', async () => {
     ).rejects.toThrow(/403|Failed/)
   })
 
-  it('fails if no next page', async () => {
+  it.skipIf(process.env.SKIP_SLOW_TESTS)('fails if no next page', async () => {
     const results = MinedResults.from(sampleHtml.replaceAll('Next', 'blah'))
     await expect(
       async () => await processNextPageOfMinedResults(results, true)
