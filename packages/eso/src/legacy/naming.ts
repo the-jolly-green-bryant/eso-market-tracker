@@ -1811,7 +1811,7 @@ const SETS_TO_AMULET = [
   "tharriker's",
   "the kynmarcher's cruelty",
   'kynmarchers cruelty',
-  "the order's wrath",
+  'orders wrath',
   "thukhozod's",
   "thunder caller's",
   "titanborn's",

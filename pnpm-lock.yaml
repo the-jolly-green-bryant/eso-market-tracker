@@ -123,6 +123,43 @@ importers:
         specifier: ^1.0.0
         version: 1.0.0
 
+  apps/collectors/observations-from-local-addons:
+    dependencies:
+      '@eso-market-tracker/data':
+        specifier: workspace:*
+        version: link:../../../data
+      '@eso-market-tracker/database':
+        specifier: workspace:*
+        version: link:../../../packages/database
+      '@eso-market-tracker/eso':
+        specifier: workspace:*
+        version: link:../../../packages/eso
+      '@eso-market-tracker/logging':
+        specifier: workspace:*
+        version: link:../../../packages/logging
+    devDependencies:
+      '@vitest/coverage-v8':
+        specifier: ^4.1.0
+        version: 4.1.0(vitest@4.1.0(@types/node@25.5.0)(vite@8.0.1(@types/node@25.5.0)))
+      cheerio:
+        specifier: ^1.2.0
+        version: 1.2.0
+      dotenv:
+        specifier: ^17.3.1
+        version: 17.3.1
+      eslint-plugin-sonarjs:
+        specifier: ^4.0.2
+        version: 4.0.2(eslint@10.0.3)
+      p-limit:
+        specifier: ^7.3.0
+        version: 7.3.0
+      playwright:
+        specifier: ^1.58.2
+        version: 1.58.2
+      sonarjs:
+        specifier: ^1.0.0
+        version: 1.0.0
+
   apps/collectors/observations-from-tsc-web-app:
     dependencies:
       '@eso-market-tracker/data':

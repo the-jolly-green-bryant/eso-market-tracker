@@ -19,6 +19,8 @@ export const db = () => {
 const createSchema = async () => {
   const client = db()
   client.exec(`
+    PRAGMA foreign_keys = ON;
+
     CREATE TABLE IF NOT EXISTS items (
       internalId INTEGER PRIMARY KEY NOT NULL,
       name TEXT NOT NULL,
@@ -30,7 +32,28 @@ const createSchema = async () => {
 
     CREATE UNIQUE INDEX IF NOT EXISTS idx_items_shard_internal_id
       ON items (internalId);
+      
+    CREATE TABLE IF NOT EXISTS item_known_ids (
+      knownId INTEGER NOT NULL,
+      internalId INTEGER NOT NULL,
+      PRIMARY KEY (knownId),
+      FOREIGN KEY (internalId) REFERENCES items(internalId) ON DELETE CASCADE
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_item_known_ids_internal_id
+      ON item_known_ids (internalId);
   `)
+}
+
+export const insertKnownId = (knownId: number, internalId: number) => {
+  const stmt = db().prepare(`
+    INSERT INTO item_known_ids (knownId, internalId)
+    VALUES (?, ?)
+    ON CONFLICT(knownId) DO UPDATE SET
+      internalId = excluded.internalId
+  `)
+
+  stmt.run(knownId, internalId)
 }
 
 export const insertItems = (items: Item[]) => {
@@ -62,9 +85,10 @@ export const insertItems = (items: Item[]) => {
 
   client.exec('BEGIN')
   try {
-    items.forEach((i) =>
+    items.forEach((i) => {
       stmt.run({ ...i.meta, knownIds: JSON.stringify(i.meta.knownIds) })
-    )
+      i.meta.knownIds.forEach((k) => insertKnownId(k, i.meta.internalId))
+    })
     client.exec('COMMIT')
   } catch (e) {
     logger.error(e)

@@ -6,7 +6,7 @@ import {
   qualityLookup,
 } from '@eso-market-tracker/eso'
 import * as db from '@eso-market-tracker/data'
-import { getIdFromName, orThrow } from '@eso-market-tracker/logging'
+import { orThrow } from '@eso-market-tracker/logging'
 import * as self from './results'
 
 export const makeQuery = async (query: string) => {
@@ -93,13 +93,7 @@ const findItemByNameWithTraitFallback = (name: string) => {
   const legacyName = legacyNaming
     .internalToName(name)
     .replace('foxes felines', 'foxes  felines')
-  console.log(
-    'ash hopper',
-    getIdFromName('Elsweyr Door, Lunar Reverence'),
-    getIdFromName('elsweyr door lunar reverance'),
-    legacyName,
-    getIdFromName(legacyName)
-  )
+
   const item = db.findItemByName(legacyName)
   if (item) {
     return [item, null]
