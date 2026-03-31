@@ -13,14 +13,20 @@ for (const [repoPath, platform] of [
   const commits = git
     .getHistoricalContentForRepo(repoPath!)
     .filter((i) => i.files.length)
-  const observations = await git.getObservationsFromCommit(commits.at(-1)!)
+
+  const targetCommit = commits.at(-1)
+  if (!targetCommit || !platform) {
+    throw new Error('Either commit or platform null!')
+  }
+
+  const observations = await git.getObservationsFromCommit(targetCommit)
   await Promise.all(
     observations.map((i) => {
       db.throttleFileWrites(async () => {
         const targetPath = naming.getObservationPath(
           i.item,
           i.stats.date,
-          platform!
+          platform
         )
         logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
         await db.writeToFile(i.stats, targetPath)
