@@ -1,2 +1,5 @@
 export const ROOT_DIRECTORY = 'data'
 export const XBOX_NA = 'xbox-na'
+export const XBOX_EU = 'xbox-eu'
+export const PS_NA = 'ps-na'
+export const PS_EU = 'ps-eu'
