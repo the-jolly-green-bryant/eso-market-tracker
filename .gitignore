@@ -13,5 +13,5 @@ tsconfig.tsbuildinfo
 .env
 /data/test/
 
-# Temporarily untrack data files. We'll commit in bulk at the end to speed up iteration.
-/data/observations/
+/data/observations/*
+!/data/observations/.gitkeep
