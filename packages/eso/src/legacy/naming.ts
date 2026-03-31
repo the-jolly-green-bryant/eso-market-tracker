@@ -163,6 +163,8 @@ export function nameToInternal(itemName: string): string {
 //  solely for testing purposes, artifacts of the days when data was collected
 //  via OCR, or perhaps were renamed on the game-front.
 const NON_EXISTENT_ITEMS = [
+  'tree banana',
+  'tree sierra palm',
   'alinor bookshelf polished',
   'alinor display stand noble',
   'amino core full',
@@ -1414,6 +1416,7 @@ const _replaceHyphens = (result: string) => {
 // Some of these are easier to hardcode so we can derive consistent rules for
 //  similarly named items.
 const KNOWN_MATCHES: Record<string, string> = {
+  'sancre tor ring': 'signet of sancre tor',
   broom: 'style page broom',
   'design grub kabobs': 'design grub kebabs',
   'daedric style': 'crafting motif 14 daedric style',
@@ -1683,12 +1686,12 @@ const SETS_TO_AMULET = [
   'the depths',
   'the gorethief',
   'the pestilent host',
-  'the radiant bastion',
+  'radiant bastion',
   'the ritualist',
   'the silver rose',
   'the turning tide',
-  'the voidcaller',
-  'the weald',
+  'voidcaller',
+  'weald',
   'threads of war',
   'three queens',
   'tide-born',

@@ -1,5 +1,6 @@
 import fs from 'fs'
-import { Item, ItemMeta } from '@eso-market-tracker/eso'
+import * as fsPromises from 'fs/promises'
+import { Item, ItemMeta, ItemObservation } from '@eso-market-tracker/eso'
 import { fileURLToPath } from 'url'
 import path from 'path'
 import { db as emtDatabase, naming } from '@eso-market-tracker/database'
@@ -97,14 +98,143 @@ export const insertItems = (items: Item[]) => {
   }
 }
 
+const _directoryExists = async (dir: string) => {
+  try {
+    // TODO - This is failing, it needs to be relative to the project root.
+    const fullPath = path
+      .resolve(process.cwd(), dir)
+      .replace('/data/data', '/data')
+    const stat = await fsPromises.stat(fullPath)
+    return stat.isDirectory()
+  } catch {
+    return false
+  }
+}
+
+const _getDirectories = async (dir: string): Promise<string[]> => {
+  const fullPath = path
+    .resolve(process.cwd(), dir)
+    .replace('/data/data', '/data')
+  const entries = await fsPromises.readdir(fullPath, { withFileTypes: true })
+
+  return entries
+    .filter((entry) => entry.isDirectory())
+    .map((entry) => entry.name)
+}
+
+const _getNestedFiles = (dir: string, baseDir = dir): string[] => {
+  const fullPath = path
+    .resolve(process.cwd(), dir)
+    .replace('/data/data', '/data')
+  const entries = fs.readdirSync(fullPath, { withFileTypes: true })
+
+  return entries.flatMap((entry) => {
+    const fullPath = path.join(dir, entry.name)
+
+    if (entry.isDirectory()) {
+      return getFilesRecursively(fullPath)
+    }
+
+    if (entry.isFile() && entry.name.endsWith('.json')) {
+      return [path.relative(baseDir, fullPath)]
+    }
+
+    return []
+  })
+}
+
+const buildPricingData = async (item: Item) => {
+  // TODO - Insert a function that pulls latest pricing data into the items
+  //  folder. We want to maintain discrete data for quality, trait, and the
+  //  platform. For each platform, if not available, use xboxna
+
+  const itemDirectory = naming.getItemDirectory(item)
+  const observationDirectory = `${itemDirectory.replace('items', 'observations')}/${item.id}`
+
+  // If the observation directory doesn't exist, we don't have any data for this
+  //  item.
+
+  if (!(await _directoryExists(observationDirectory))) {
+    return
+  }
+
+  // Get any folders in the observation directory. This will tell us what
+  //  variants we have access to.
+
+  const variants = await _getDirectories(observationDirectory)
+  variants.forEach(async (variantId) => {
+    const variantDirectory = `${observationDirectory}/${variantId}`
+    const platforms = await _getDirectories(variantDirectory)
+    platforms.forEach(async (p) => {
+      const platformDirectory = `${variantDirectory}/${p}`
+      const historicalDataPath = `${itemDirectory}/${variantId}.${p}.historical.json`
+      const rawOldData =
+        (await emtDatabase.readFromFile(historicalDataPath)) || {}
+      const oldData = (
+        Array.isArray(rawOldData)
+          ? rawOldData
+          : rawOldData
+            ? Object.values(rawOldData)
+            : []
+      ) as ItemObservation['stats'][]
+
+      // Get every relative path for files deeply nested in this directory.
+      const observations = oldData
+        .concat(
+          (await Promise.all(
+            _getNestedFiles(platformDirectory).map(
+              async (filePath) => await emtDatabase.readFromFile(filePath)
+            )
+          )) as ItemObservation['stats'][]
+        )
+        .filter((i) => i && i.maximum)
+        .sort((a, b) => a.date.localeCompare(b.date))
+
+      // Remove our duplicates.
+      const unique = Array.from(
+        new Map(observations.map((o) => [o.date, o])).values()
+      ) as ItemObservation['stats'][]
+
+      // Write everything out to the master history file.
+      await emtDatabase.deleteFile(historicalDataPath)
+      await emtDatabase.writeToFile(
+        { ...unique } as Record<number, Record<string, number | string | null>>,
+        historicalDataPath
+      )
+      logger.info(`Wrote to ${historicalDataPath}`)
+
+      // Write our latest entry to file.
+      if (unique.length) {
+        await emtDatabase.writeToFile(
+          unique.at(-1)!,
+          historicalDataPath.replace('historical', 'current')
+        )
+      }
+    })
+  })
+}
+
 export const buildDatabase = async () => {
   await createSchema()
   const items = await getItemsFromDirectory(path.join(__dirname, 'items'))
+  Promise.all(
+    items.map(async (i) => {
+      emtDatabase.throttleFileWrites(async () => {
+        await buildPricingData(i)
+      })
+    })
+  )
+
   insertItems(items)
+  // TODO - Update pricing information in database
 }
 
 const getFilesRecursively = (directory: string): string[] => {
-  const entries = fs.readdirSync(directory, { withFileTypes: true })
+  const readPath = path
+    .resolve(process.cwd(), directory)
+    .replace('/data/data', '/data')
+
+  const entries = fs.readdirSync(readPath, { withFileTypes: true })
   return entries.flatMap((entry) => {
     const fullPath = path.join(directory, entry.name)
     if (entry.isDirectory()) {
@@ -120,9 +250,11 @@ const getFilesRecursively = (directory: string): string[] => {
 }
 
 const getItemsFromDirectory = async (directory: string): Promise<Item[]> => {
-  const filePaths = getFilesRecursively(directory)
-  return await Promise.all(
-    filePaths.map(async (filePath) =>
+  const filePaths = getFilesRecursively(directory).filter(
+    (i) => !i.includes('.historical.') && !i.includes('.current.')
+  )
+  const items = await Promise.all(
+    filePaths.flatMap(async (filePath) =>
       emtDatabase.throttleFileWrites(async () => {
         const relativePath = 'data/' + path.relative(__dirname, filePath)
         const data = await emtDatabase.readFromFile(relativePath)
@@ -131,10 +263,16 @@ const getItemsFromDirectory = async (directory: string): Promise<Item[]> => {
           throw new Error(`Could not read item file: ${relativePath}`)
         }
 
-        return Item.from(data as ItemMeta)
+        if (!data.internalId) {
+          return []
+        }
+
+        return [Item.from(data as ItemMeta)]
       })
     )
   )
+
+  return items.flat()
 }
 
 export const flattenDatabase = async (ids?: number[]) => {

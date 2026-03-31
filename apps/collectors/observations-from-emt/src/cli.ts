@@ -2,4 +2,4 @@
 import 'dotenv/config'
 import { processPageOfData } from './index'
 
-await processPageOfData(14120, { limit: 10 })
+await processPageOfData(22700, { limit: 10 })

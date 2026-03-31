@@ -11,6 +11,7 @@
 
 ## Tuesday
 
-- Commit current work
-- Condense historical observations to ndjson, keep only most recent
+- Condense historical observations to current stats in the items directory
+  - This will require us making sure build database only grabs item json and not
+   the extra stuff 
 - TSCv2 Download

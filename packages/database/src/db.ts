@@ -3,13 +3,16 @@ import path from 'path'
 import fs from 'fs/promises'
 import pLimit from 'p-limit'
 
-export const throttleFileWrites = pLimit(128)
+export const throttleFileWrites = pLimit(32)
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 export const writeToFile = async (
-  o: Record<string, string | number | number[] | null>,
+  o: Record<
+    string | number,
+    string | number | number[] | null | Record<string, string | number | null>
+  >,
   targetPath: string,
   options?: { preservedKeys: string[] }
 ) => {

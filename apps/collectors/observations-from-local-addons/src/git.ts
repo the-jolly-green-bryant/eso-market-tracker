@@ -28,7 +28,9 @@ const _getProcessedPairs = async ([match, key, values]: [
 
     const item = Item.from(meta as unknown as ItemMeta)
     console.log('key', key, values)
-    const [average, minimum, maximum] = values.split(',').map(Number.parseInt)
+    const [average, minimum, maximum] = values
+      .split(',')
+      .map((i) => Number.parseInt(i))
     return [
       {
         item,
