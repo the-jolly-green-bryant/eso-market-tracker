@@ -1,0 +1,11 @@
+{
+  "internalId": 1328579094,
+  "name": "Old Clear-Eye Whiskey",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
+  "bindType": -1,
+  "knownIds": [
+    33951,
+    37836
+  ]
+}

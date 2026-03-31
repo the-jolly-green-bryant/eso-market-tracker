@@ -1,0 +1,17 @@
+{
+  "internalId": 2236595010,
+  "name": "Mad Tinkerer's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132865,
+    132886,
+    132907,
+    132928,
+    132949,
+    132970,
+    132991,
+    133012
+  ]
+}

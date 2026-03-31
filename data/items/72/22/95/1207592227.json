@@ -1,0 +1,17 @@
+{
+  "internalId": 1207592227,
+  "name": "Pauldron of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97610,
+    97630,
+    97650,
+    97670,
+    97690,
+    97710,
+    97730,
+    97750
+  ]
+}

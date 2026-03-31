@@ -1,0 +1,22 @@
+{
+  "internalId": 2406968930,
+  "name": "Azureblight Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1339652,
+    1342439,
+    1368896,
+    1371226,
+    1376921,
+    1415390,
+    1490656,
+    1560575,
+    1572699,
+    1573274,
+    1581827,
+    1583625,
+    1586211
+  ]
+}

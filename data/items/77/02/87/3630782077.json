@@ -1,0 +1,10 @@
+{
+  "internalId": 3630782077,
+  "name": "Crafting Motif 79: Refabricated Style",
+  "description": "Use to learn the Refabricated crafting style. Also teaches the equivalent Refabricated Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    130026
+  ]
+}

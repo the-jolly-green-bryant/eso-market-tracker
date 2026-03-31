@@ -1,0 +1,21 @@
+{
+  "internalId": 1289142076,
+  "name": "Hand of Glory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_hands_003.png",
+  "bindType": -1,
+  "knownIds": [
+    799915,
+    662994,
+    448024,
+    882096,
+    883491,
+    945273,
+    1067680,
+    1124120,
+    1124596,
+    1166700,
+    1207979,
+    1319418
+  ]
+}

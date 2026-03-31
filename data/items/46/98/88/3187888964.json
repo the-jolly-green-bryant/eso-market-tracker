@@ -1,0 +1,10 @@
+{
+  "internalId": 3187888964,
+  "name": "Solitude Counter, Rustic Bar Corner",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bar002.png",
+  "bindType": -1,
+  "knownIds": [
+    165739
+  ]
+}

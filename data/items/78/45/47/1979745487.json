@@ -1,0 +1,10 @@
+{
+  "internalId": 1979745487,
+  "name": "Wood Elf Hammock, Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_hammock001.png",
+  "bindType": -1,
+  "knownIds": [
+    115588
+  ]
+}

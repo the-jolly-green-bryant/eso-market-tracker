@@ -1,0 +1,14 @@
+{
+  "internalId": 1718773960,
+  "name": "Bracers of Bahraha's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199769,
+    199770,
+    199771,
+    199772,
+    199773
+  ]
+}

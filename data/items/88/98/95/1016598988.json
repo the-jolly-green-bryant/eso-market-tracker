@@ -1,0 +1,10 @@
+{
+  "internalId": 1016598988,
+  "name": "Alinor Wall, Stone Corner",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_waf_aldwallssmalllowcurve001.png",
+  "bindType": -1,
+  "knownIds": [
+    139188
+  ]
+}

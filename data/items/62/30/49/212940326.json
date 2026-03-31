@@ -1,0 +1,10 @@
+{
+  "internalId": 212940326,
+  "name": "Enchanting Station",
+  "description": "When placed in your home, allows you to craft Enchantment items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletableenchanter001.png",
+  "bindType": -1,
+  "knownIds": [
+    118330
+  ]
+}

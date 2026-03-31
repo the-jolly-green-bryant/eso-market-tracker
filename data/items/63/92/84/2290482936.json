@@ -1,0 +1,10 @@
+{
+  "internalId": 2290482936,
+  "name": "Imperial Carpet, Kyne",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_rugkynerectangular003.png",
+  "bindType": -1,
+  "knownIds": [
+    94092
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2534262946,
+  "name": "Fish, Medium",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varharborfishes004.png",
+  "bindType": -1,
+  "knownIds": [
+    118358
+  ]
+}

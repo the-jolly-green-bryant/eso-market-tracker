@@ -1,0 +1,15 @@
+{
+  "internalId": 2099814376,
+  "name": "Sabatons of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95326,
+    95346,
+    95366,
+    95386,
+    95406,
+    95426
+  ]
+}

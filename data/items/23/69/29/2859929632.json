@@ -1,0 +1,21 @@
+{
+  "internalId": 2859929632,
+  "name": "Nix-Hound's Howl Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_medium_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628846,
+    1629551,
+    1629630,
+    1630973,
+    1630986,
+    1632471,
+    1636237,
+    1642537,
+    1643098,
+    1660510,
+    1717702,
+    1760681
+  ]
+}

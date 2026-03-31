@@ -1,0 +1,10 @@
+{
+  "internalId": 2769271229,
+  "name": "Elsweyr Sand Meditation Ring, Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_sandringhousing001.png",
+  "bindType": -1,
+  "knownIds": [
+    151658
+  ]
+}

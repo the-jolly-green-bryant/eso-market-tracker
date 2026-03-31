@@ -1,0 +1,17 @@
+{
+  "internalId": 3841471502,
+  "name": "Systres' Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186258,
+    186278,
+    186298,
+    186318,
+    186338,
+    186358,
+    186378,
+    186398
+  ]
+}

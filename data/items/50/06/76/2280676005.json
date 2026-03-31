@@ -1,0 +1,17 @@
+{
+  "internalId": 2280676005,
+  "name": "dwarven helm of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    664377,
+    663085,
+    544787,
+    665773,
+    427169,
+    679515,
+    463268,
+    791354
+  ]
+}

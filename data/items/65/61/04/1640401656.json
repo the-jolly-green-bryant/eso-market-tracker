@@ -1,0 +1,17 @@
+{
+  "internalId": 1640401656,
+  "name": "Champion of the Hist Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142254,
+    142274,
+    142294,
+    142314,
+    142334,
+    142354,
+    142374,
+    142394
+  ]
+}

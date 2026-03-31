@@ -1,0 +1,10 @@
+{
+  "internalId": 808078841,
+  "name": "Spiteful Smiter",
+  "description": "Constructed of dark wood and green gems, this staff bristles with dark energy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208150
+  ]
+}

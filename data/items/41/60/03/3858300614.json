@@ -1,0 +1,10 @@
+{
+  "internalId": 3858300614,
+  "name": "Colovian Wardrobe, Rustic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_wardrobelow001.png",
+  "bindType": -1,
+  "knownIds": [
+    204641
+  ]
+}

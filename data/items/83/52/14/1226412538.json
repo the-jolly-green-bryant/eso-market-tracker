@@ -1,0 +1,10 @@
+{
+  "internalId": 1226412538,
+  "name": "Sip of Ravage Health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_015_type_001.png",
+  "bindType": -1,
+  "knownIds": [
+    44812
+  ]
+}

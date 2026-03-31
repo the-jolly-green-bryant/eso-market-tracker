@@ -1,0 +1,17 @@
+{
+  "internalId": 3924800367,
+  "name": "Spinner's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99664,
+    99685,
+    99706,
+    99727,
+    99748,
+    99769,
+    99790,
+    99811
+  ]
+}

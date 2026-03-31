@@ -1,0 +1,26 @@
+{
+  "internalId": 1598349736,
+  "name": "Dagger of Alkosh",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_dagger_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1063454,
+    1160097,
+    1198338,
+    1199387,
+    1391522,
+    1402441,
+    1413317,
+    1413980,
+    1415352,
+    1415353,
+    1415354,
+    1440437,
+    1530646,
+    1531078,
+    1609896,
+    1716099,
+    1761585
+  ]
+}

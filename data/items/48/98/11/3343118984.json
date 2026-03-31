@@ -1,0 +1,10 @@
+{
+  "internalId": 3343118984,
+  "name": "Solitude Candlestick, Horn",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_horncandle001.png",
+  "bindType": -1,
+  "knownIds": [
+    165639
+  ]
+}

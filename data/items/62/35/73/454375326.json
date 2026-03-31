@@ -1,0 +1,11 @@
+{
+  "internalId": 454375326,
+  "name": "Secret Small Heavy Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    55279,
+    55289
+  ]
+}

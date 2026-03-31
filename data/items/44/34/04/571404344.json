@@ -1,0 +1,15 @@
+{
+  "internalId": 571404344,
+  "name": "Necklace of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139741,
+    139831,
+    139921,
+    140011,
+    140101,
+    140191
+  ]
+}

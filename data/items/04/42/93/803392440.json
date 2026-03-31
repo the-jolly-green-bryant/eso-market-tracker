@@ -1,0 +1,10 @@
+{
+  "internalId": 803392440,
+  "name": "Worm Cult Chest, Small",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_smallbox003.png",
+  "bindType": -1,
+  "knownIds": [
+    220290
+  ]
+}

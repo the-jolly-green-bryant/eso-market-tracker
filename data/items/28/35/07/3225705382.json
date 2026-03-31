@@ -1,0 +1,16 @@
+{
+  "internalId": 3225705382,
+  "name": "Shield of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1543964,
+    1567286,
+    1567902,
+    1583112,
+    1630633,
+    1656757,
+    1679032
+  ]
+}

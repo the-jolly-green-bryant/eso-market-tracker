@@ -1,0 +1,16 @@
+{
+  "internalId": 2912879779,
+  "name": "Winterborn Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1182921,
+    1393734,
+    1401343,
+    1413330,
+    1419827,
+    1515530,
+    1591532
+  ]
+}

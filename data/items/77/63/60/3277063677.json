@@ -1,0 +1,10 @@
+{
+  "internalId": 3277063677,
+  "name": "Sunport Planter, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_housingfloorplanter001.png",
+  "bindType": -1,
+  "knownIds": [
+    214430
+  ]
+}

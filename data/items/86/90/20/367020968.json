@@ -1,0 +1,17 @@
+{
+  "internalId": 367020968,
+  "name": "Shoes of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    204898,
+    204919,
+    204940,
+    204961,
+    204982,
+    205003,
+    205024,
+    205045
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2700365514,
+  "name": "Yokudan Sarcophagus Lid, Gilded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_duc_sarcophagusbodytop001.png",
+  "bindType": -1,
+  "knownIds": [
+    184195
+  ]
+}

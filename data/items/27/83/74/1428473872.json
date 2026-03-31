@@ -1,0 +1,18 @@
+{
+  "internalId": 1428473872,
+  "name": "Deadly Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147367,
+    147374,
+    147381,
+    147388,
+    147395,
+    147402,
+    147409,
+    147416,
+    147423
+  ]
+}

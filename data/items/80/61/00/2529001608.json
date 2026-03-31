@@ -1,0 +1,18 @@
+{
+  "internalId": 2529001608,
+  "name": "Shoes of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_feet.png",
+  "bindType": 2,
+  "knownIds": [
+    160643,
+    160664,
+    160685,
+    160706,
+    160727,
+    160748,
+    160769,
+    160790,
+    160811
+  ]
+}

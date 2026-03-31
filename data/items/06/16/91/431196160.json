@@ -1,0 +1,17 @@
+{
+  "internalId": 431196160,
+  "name": "Ice Staff of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211592,
+    211613,
+    211634,
+    211655,
+    211676,
+    211697,
+    211718,
+    211739
+  ]
+}

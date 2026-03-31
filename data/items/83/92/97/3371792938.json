@@ -1,0 +1,10 @@
+{
+  "internalId": 3371792938,
+  "name": "Solitude Drying Rack, Stockfish",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_hangingfish001.png",
+  "bindType": -1,
+  "knownIds": [
+    165807
+  ]
+}

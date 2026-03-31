@@ -1,0 +1,10 @@
+{
+  "internalId": 3425854427,
+  "name": "High Elf Banner, Gilded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_thronebannerlong001.png",
+  "bindType": -1,
+  "knownIds": [
+    114422
+  ]
+}

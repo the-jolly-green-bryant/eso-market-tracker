@@ -1,0 +1,16 @@
+{
+  "internalId": 285397529,
+  "name": "Helm of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80413,
+    80433,
+    80453,
+    80473,
+    80505,
+    80525,
+    80545
+  ]
+}

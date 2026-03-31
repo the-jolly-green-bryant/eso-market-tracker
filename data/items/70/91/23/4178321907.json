@@ -1,0 +1,11 @@
+{
+  "internalId": 4178321907,
+  "name": "Master Clothier Writ",
+  "description": "An exclusive, secret contract for clothing of rare quality.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_clothier.png",
+  "bindType": -1,
+  "knownIds": [
+    121532,
+    121533
+  ]
+}

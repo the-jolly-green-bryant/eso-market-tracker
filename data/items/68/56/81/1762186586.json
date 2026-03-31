@@ -1,0 +1,17 @@
+{
+  "internalId": 1762186586,
+  "name": "Shalk's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_shield_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96601,
+    96621,
+    96641,
+    96661,
+    96681,
+    96701,
+    96721,
+    96741
+  ]
+}

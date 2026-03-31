@@ -1,0 +1,10 @@
+{
+  "internalId": 172788841,
+  "name": "Thunderous Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    55405
+  ]
+}

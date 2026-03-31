@@ -1,0 +1,10 @@
+{
+  "internalId": 3441225203,
+  "name": "War Maiden",
+  "description": "A Light Armor set found in Vvardenfell.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    127110
+  ]
+}

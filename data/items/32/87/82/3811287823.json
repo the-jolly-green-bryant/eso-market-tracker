@@ -1,0 +1,10 @@
+{
+  "internalId": 3811287823,
+  "name": "Cleft Striders",
+  "description": "Tightly sealed boots are important when moving through Evergloam, lest small Daedric creatures wriggle their way into the spaces between.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133235
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": 1845478742,
+  "name": "Flame Blossom Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1311451,
+    1372298,
+    1388779,
+    1388782,
+    1423295,
+    1451583,
+    1452544,
+    1465091,
+    1559421,
+    1602317,
+    1610455,
+    1623788,
+    1654522,
+    1750753,
+    1759653,
+    1773165
+  ]
+}

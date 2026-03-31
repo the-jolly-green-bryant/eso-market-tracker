@@ -1,0 +1,10 @@
+{
+  "internalId": 4286675081,
+  "name": "Daedric Key, Coldharbour",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_con_keylrg001.png",
+  "bindType": -1,
+  "knownIds": [
+    151915
+  ]
+}

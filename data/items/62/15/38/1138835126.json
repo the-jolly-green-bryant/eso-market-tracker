@@ -1,0 +1,10 @@
+{
+  "internalId": 1138835126,
+  "name": "Animal Bones, Gnawed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_horseskeletonpile001.png",
+  "bindType": -1,
+  "knownIds": [
+    141847
+  ]
+}

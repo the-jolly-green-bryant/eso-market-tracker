@@ -1,0 +1,22 @@
+{
+  "internalId": 3685146060,
+  "name": "Bow of Ursus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1268743,
+    1274607,
+    1292671,
+    1353680,
+    1376620,
+    1452316,
+    1559500,
+    1566865,
+    1630647,
+    1646473,
+    1687650,
+    1692040,
+    1697703
+  ]
+}

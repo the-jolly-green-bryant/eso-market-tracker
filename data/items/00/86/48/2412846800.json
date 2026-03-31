@@ -1,0 +1,10 @@
+{
+  "internalId": 2412846800,
+  "name": "Zeal Decorations, Coins",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealbannerline008.png",
+  "bindType": -1,
+  "knownIds": [
+    212552
+  ]
+}

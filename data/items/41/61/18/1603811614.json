@@ -1,0 +1,15 @@
+{
+  "internalId": 1603811614,
+  "name": "Necklace of the Night Mother",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139725,
+    139815,
+    139905,
+    139995,
+    140085,
+    140175
+  ]
+}

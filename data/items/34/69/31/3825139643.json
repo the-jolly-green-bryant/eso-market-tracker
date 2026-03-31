@@ -1,0 +1,14 @@
+{
+  "internalId": 3825139643,
+  "name": "Soulcleaver Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_2hmace.png",
+  "bindType": -1,
+  "knownIds": [
+    1680955,
+    1685427,
+    1717391,
+    1718029,
+    1720863
+  ]
+}

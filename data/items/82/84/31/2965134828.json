@@ -1,0 +1,11 @@
+{
+  "internalId": 2965134828,
+  "name": "Mage's Gorapple Porridge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_002.png",
+  "bindType": -1,
+  "knownIds": [
+    57099,
+    57621
+  ]
+}

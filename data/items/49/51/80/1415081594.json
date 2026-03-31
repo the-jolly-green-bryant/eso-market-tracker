@@ -1,0 +1,10 @@
+{
+  "internalId": 1415081594,
+  "name": "Wolf Head, Wall Mount",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headwolf001.png",
+  "bindType": -1,
+  "knownIds": [
+    118298
+  ]
+}

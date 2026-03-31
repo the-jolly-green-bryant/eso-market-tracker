@@ -1,0 +1,11 @@
+{
+  "internalId": 1651585618,
+  "name": "Brace of Time",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    478215,
+    649716
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1990603503,
+  "name": "Gladiator's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75396,
+    75431,
+    75466,
+    75501,
+    75536,
+    75571,
+    75606,
+    75641,
+    75676,
+    75711
+  ]
+}

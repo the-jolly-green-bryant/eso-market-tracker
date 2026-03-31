@@ -1,0 +1,10 @@
+{
+  "internalId": 1552104215,
+  "name": "Pactbreaker",
+  "description": "This axe's blade never dulls. Karthdar's citizens provided it to symbolically purge their town of items that offend the Green.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10272
+  ]
+}

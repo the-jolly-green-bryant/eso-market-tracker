@@ -1,0 +1,19 @@
+{
+  "internalId": 2969143498,
+  "name": "Greatsword of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75741,
+    75776,
+    75811,
+    75846,
+    75881,
+    75916,
+    75951,
+    75986,
+    76021,
+    76056
+  ]
+}

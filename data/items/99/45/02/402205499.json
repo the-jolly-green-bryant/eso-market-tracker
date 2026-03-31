@@ -1,0 +1,10 @@
+{
+  "internalId": 402205499,
+  "name": "Lire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_020.png",
+  "bindType": -1,
+  "knownIds": [
+    45845
+  ]
+}

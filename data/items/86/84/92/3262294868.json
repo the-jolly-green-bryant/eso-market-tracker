@@ -1,0 +1,10 @@
+{
+  "internalId": 3262294868,
+  "name": "Cured Meats",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_meatchuncks002.png",
+  "bindType": -1,
+  "knownIds": [
+    118177
+  ]
+}

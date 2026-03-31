@@ -1,0 +1,10 @@
+{
+  "internalId": 3156657469,
+  "name": "Skeletal Remains, Prone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_skeletonsupine001.png",
+  "bindType": -1,
+  "knownIds": [
+    118788
+  ]
+}

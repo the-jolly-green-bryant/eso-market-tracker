@@ -1,0 +1,19 @@
+{
+  "internalId": 2054450311,
+  "name": "Arm Cops of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75769,
+    75804,
+    75839,
+    75874,
+    75909,
+    75944,
+    75979,
+    76014,
+    76049,
+    76084
+  ]
+}

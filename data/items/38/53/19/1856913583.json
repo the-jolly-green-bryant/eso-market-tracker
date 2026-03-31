@@ -1,0 +1,10 @@
+{
+  "internalId": 1856913583,
+  "name": "Mushrooms, Poison Pax Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_malabaltorbigmushroomsfreestanding003.png",
+  "bindType": -1,
+  "knownIds": [
+    120532
+  ]
+}

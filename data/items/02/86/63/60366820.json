@@ -1,0 +1,11 @@
+{
+  "internalId": 60366820,
+  "name": "Crabclaw Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    448472,
+    493688
+  ]
+}

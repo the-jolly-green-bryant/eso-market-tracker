@@ -1,0 +1,22 @@
+{
+  "internalId": 383381057,
+  "name": "Plague Slinger Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1263357,
+    1286301,
+    1286755,
+    1365384,
+    1369366,
+    1402445,
+    1461177,
+    1463823,
+    1476614,
+    1559813,
+    1595275,
+    1633846,
+    1738390
+  ]
+}

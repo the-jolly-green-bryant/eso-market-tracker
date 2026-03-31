@@ -1,0 +1,10 @@
+{
+  "internalId": 4166622958,
+  "name": "Markarth Post, Stone Wall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_markwallmedcap001.png",
+  "bindType": -1,
+  "knownIds": [
+    171761
+  ]
+}

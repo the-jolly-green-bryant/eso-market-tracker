@@ -1,0 +1,11 @@
+{
+  "internalId": 1449575212,
+  "name": "Corpseburster Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729064,
+    1734353
+  ]
+}

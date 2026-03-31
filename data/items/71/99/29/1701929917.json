@@ -1,0 +1,13 @@
+{
+  "internalId": 1701929917,
+  "name": "Cuffed Boots",
+  "description": "Turn-cuffed boots made for heavy labor or travel.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    64033,
+    64034,
+    64035,
+    64036
+  ]
+}

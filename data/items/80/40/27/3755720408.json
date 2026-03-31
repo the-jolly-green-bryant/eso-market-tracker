@@ -1,0 +1,19 @@
+{
+  "internalId": 3755720408,
+  "name": "Bracers of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184801,
+    184856,
+    184891,
+    184926,
+    184961,
+    184996,
+    185031,
+    185066,
+    185101,
+    185136
+  ]
+}

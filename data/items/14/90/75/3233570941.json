@@ -1,0 +1,10 @@
+{
+  "internalId": 3233570941,
+  "name": "Leyawiin Turret, Castle",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastleturret001.png",
+  "bindType": -1,
+  "knownIds": [
+    181511
+  ]
+}

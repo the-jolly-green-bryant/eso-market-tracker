@@ -1,0 +1,13 @@
+{
+  "internalId": 855686568,
+  "name": "Indomitable Fury Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144003,
+    144024,
+    144045,
+    144066
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3775912436,
+  "name": "Coral Haj Mota Decoy",
+  "description": "A natural-made, but fragile, noisemaker that can mimic the sound of a Coral Haj Mota in the Systres Isles. Using 25 of these, along with 25 Coral Haj Mota Lures, will allure one to you. Use to advance the eponymous achievement.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gen_inc_emotewhistle001.png",
+  "bindType": -1,
+  "knownIds": [
+    188271
+  ]
+}

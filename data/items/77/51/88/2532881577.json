@@ -1,0 +1,10 @@
+{
+  "internalId": 2532881577,
+  "name": "Leyawiin Bookcase, Tall Filled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_housingleybookcasetallfilled001.png",
+  "bindType": -1,
+  "knownIds": [
+    175594
+  ]
+}

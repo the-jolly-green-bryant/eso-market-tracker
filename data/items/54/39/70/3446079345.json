@@ -1,0 +1,17 @@
+{
+  "internalId": 3446079345,
+  "name": "Hrothgar's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180778,
+    180798,
+    180818,
+    180838,
+    180858,
+    180878,
+    180898,
+    180918
+  ]
+}

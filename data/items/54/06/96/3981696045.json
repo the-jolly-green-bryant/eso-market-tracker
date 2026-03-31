@@ -1,0 +1,18 @@
+{
+  "internalId": 3981696045,
+  "name": "Senchal Defender's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldssenchalhvy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154854,
+    154874,
+    154894,
+    154914,
+    154934,
+    154954,
+    154974,
+    154994,
+    155014
+  ]
+}

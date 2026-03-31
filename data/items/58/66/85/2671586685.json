@@ -1,0 +1,19 @@
+{
+  "internalId": 2671586685,
+  "name": "Daring Corsair's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155413,
+    155468,
+    155503,
+    155538,
+    155573,
+    155608,
+    155643,
+    155678,
+    155713,
+    155748
+  ]
+}

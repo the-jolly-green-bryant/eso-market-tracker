@@ -1,0 +1,10 @@
+{
+  "internalId": 157589427,
+  "name": "Dark Elf Pot, Banded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_planters001.png",
+  "bindType": -1,
+  "knownIds": [
+    115329
+  ]
+}

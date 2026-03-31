@@ -1,0 +1,17 @@
+{
+  "internalId": 682230347,
+  "name": "Senche's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    81020,
+    81040,
+    81060,
+    81080,
+    81100,
+    81112,
+    81132,
+    81152
+  ]
+}

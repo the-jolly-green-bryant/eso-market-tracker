@@ -1,0 +1,19 @@
+{
+  "internalId": 630822,
+  "name": "Greaves of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179571,
+    179626,
+    179661,
+    179696,
+    179731,
+    179766,
+    179801,
+    179836,
+    179871,
+    179906
+  ]
+}

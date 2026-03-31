@@ -1,0 +1,17 @@
+{
+  "internalId": 3897279167,
+  "name": "Deadlands Assassin's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172134,
+    172154,
+    172174,
+    172194,
+    172214,
+    172234,
+    172254,
+    172274
+  ]
+}

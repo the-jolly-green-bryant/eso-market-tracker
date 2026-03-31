@@ -1,0 +1,11 @@
+{
+  "internalId": 2926580874,
+  "name": "MAELSTROM: Dual Wield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    932160,
+    1365821
+  ]
+}

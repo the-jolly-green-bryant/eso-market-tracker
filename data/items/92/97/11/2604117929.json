@@ -1,0 +1,10 @@
+{
+  "internalId": 2604117929,
+  "name": "Fiord's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100372
+  ]
+}

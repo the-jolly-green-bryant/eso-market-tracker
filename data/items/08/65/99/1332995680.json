@@ -1,0 +1,18 @@
+{
+  "internalId": 1332995680,
+  "name": "Senchal Defender's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldssenchalhvy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154855,
+    154875,
+    154895,
+    154915,
+    154935,
+    154955,
+    154975,
+    154995,
+    155015
+  ]
+}

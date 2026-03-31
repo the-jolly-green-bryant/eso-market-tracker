@@ -1,0 +1,18 @@
+{
+  "internalId": 2006042732,
+  "name": "Shared Burden Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215175,
+    215210,
+    215245,
+    215280,
+    215315,
+    215350,
+    215385,
+    215420,
+    215455
+  ]
+}

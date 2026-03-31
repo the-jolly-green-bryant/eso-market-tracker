@@ -1,0 +1,19 @@
+{
+  "internalId": 2035171091,
+  "name": "Ice Staff of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60655,
+    60690,
+    60725,
+    60760,
+    60795,
+    60830,
+    60865,
+    60900,
+    60935,
+    60970
+  ]
+}

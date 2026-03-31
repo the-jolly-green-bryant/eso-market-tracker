@@ -1,0 +1,10 @@
+{
+  "internalId": 2369051559,
+  "name": "Lantern, Stationary",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_lanternhanging001.png",
+  "bindType": -1,
+  "knownIds": [
+    118115
+  ]
+}

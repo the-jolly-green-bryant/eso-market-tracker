@@ -1,0 +1,10 @@
+{
+  "internalId": 985918012,
+  "name": "Reach Vine, Bloodroot Tendril",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_str_cruxvinesm004.png",
+  "bindType": -1,
+  "knownIds": [
+    131437
+  ]
+}

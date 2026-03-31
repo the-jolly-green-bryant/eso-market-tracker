@@ -1,0 +1,19 @@
+{
+  "internalId": 781690404,
+  "name": "Hat of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179577,
+    179632,
+    179667,
+    179702,
+    179737,
+    179772,
+    179807,
+    179842,
+    179877,
+    179912
+  ]
+}

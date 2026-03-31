@@ -1,0 +1,10 @@
+{
+  "internalId": 2394334753,
+  "name": "Shroud of the Resolute",
+  "description": "A reward from the Resolutes of Stendarr for cutting through Vila Theran's webs.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34385
+  ]
+}

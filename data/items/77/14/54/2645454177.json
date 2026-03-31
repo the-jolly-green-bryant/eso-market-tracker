@@ -1,0 +1,10 @@
+{
+  "internalId": 2645454177,
+  "name": "Rocks, Mossy Marsh Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_mrksmallcluster002.png",
+  "bindType": -1,
+  "knownIds": [
+    145424
+  ]
+}

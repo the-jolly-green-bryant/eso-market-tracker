@@ -1,0 +1,10 @@
+{
+  "internalId": 518748369,
+  "name": "Pulverized Zinc",
+  "description": "Ten of these items can be refined into Zinc, which is used to make Jewelry with the Robust Trait.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_trait_raw_zinc.png",
+  "bindType": -1,
+  "knownIds": [
+    135160
+  ]
+}

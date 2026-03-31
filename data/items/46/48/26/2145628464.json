@@ -1,0 +1,17 @@
+{
+  "internalId": 2145628464,
+  "name": "Lightning Staff of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    204894,
+    204915,
+    204936,
+    204957,
+    204978,
+    204999,
+    205020,
+    205041
+  ]
+}

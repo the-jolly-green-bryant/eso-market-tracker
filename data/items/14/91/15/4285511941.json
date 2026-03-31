@@ -1,0 +1,10 @@
+{
+  "internalId": 4285511941,
+  "name": "High Elf End Table, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tableend001.png",
+  "bindType": -1,
+  "knownIds": [
+    114391
+  ]
+}

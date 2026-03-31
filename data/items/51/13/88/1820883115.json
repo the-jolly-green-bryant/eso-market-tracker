@@ -1,0 +1,10 @@
+{
+  "internalId": 1820883115,
+  "name": "Wood Elf Throne, Vine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_hammock001.png",
+  "bindType": -1,
+  "knownIds": [
+    115620
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1908331902,
+  "name": "Inferno Staff of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116533,
+    116553,
+    116573,
+    116593,
+    116613,
+    116633,
+    116653,
+    116673
+  ]
+}

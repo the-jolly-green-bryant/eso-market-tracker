@@ -1,0 +1,17 @@
+{
+  "internalId": 3808597618,
+  "name": "Bloodthorn Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_2hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96403,
+    96424,
+    96445,
+    96466,
+    96487,
+    96508,
+    96529,
+    96550
+  ]
+}

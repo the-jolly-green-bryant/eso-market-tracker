@@ -1,0 +1,13 @@
+{
+  "internalId": 2174081497,
+  "name": "Marksman's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199426,
+    199427,
+    199428,
+    199429
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3509251993,
+  "name": "The Skald-King's Patty Melt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_003.png",
+  "bindType": -1,
+  "knownIds": [
+    57135,
+    57636
+  ]
+}

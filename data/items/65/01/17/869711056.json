@@ -1,0 +1,17 @@
+{
+  "internalId": 869711056,
+  "name": "Bow of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87756,
+    87769,
+    87782,
+    87795,
+    87808,
+    87821,
+    87834,
+    87847
+  ]
+}

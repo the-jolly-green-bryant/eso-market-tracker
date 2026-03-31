@@ -1,0 +1,10 @@
+{
+  "internalId": 661383741,
+  "name": "Alinor Fountain, Timeworn",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_fountainwall001.png",
+  "bindType": -1,
+  "knownIds": [
+    139266
+  ]
+}

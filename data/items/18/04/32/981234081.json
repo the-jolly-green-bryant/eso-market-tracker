@@ -1,0 +1,10 @@
+{
+  "internalId": 981234081,
+  "name": "Rebellion Mace",
+  "description": "This mace was soaked in the blood of countless oppressors.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7386
+  ]
+}

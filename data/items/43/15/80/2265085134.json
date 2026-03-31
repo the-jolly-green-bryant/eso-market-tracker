@@ -1,0 +1,18 @@
+{
+  "internalId": 2265085134,
+  "name": "ebon dagger of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    763428,
+    644398,
+    665161,
+    574221,
+    574228,
+    613568,
+    458390,
+    389145,
+    881950
+  ]
+}

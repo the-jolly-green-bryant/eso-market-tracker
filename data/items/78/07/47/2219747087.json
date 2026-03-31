@@ -1,0 +1,14 @@
+{
+  "internalId": 2219747087,
+  "name": "Wrathsun Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_1hdagger.png",
+  "bindType": -1,
+  "knownIds": [
+    1689578,
+    1692727,
+    1738898,
+    1760691,
+    1771460
+  ]
+}

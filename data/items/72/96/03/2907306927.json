@@ -1,0 +1,18 @@
+{
+  "internalId": 2907306927,
+  "name": "Lightning Staff of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86755,
+    86776,
+    86797,
+    86818,
+    86839,
+    86860,
+    86881,
+    86902,
+    86923
+  ]
+}

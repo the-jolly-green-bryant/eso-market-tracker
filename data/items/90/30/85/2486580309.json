@@ -1,0 +1,10 @@
+{
+  "internalId": 2486580309,
+  "name": "Assassin's Guile Heavy Armor",
+  "description": "A Crafted Armor set constructed in Vvardenfell.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182732
+  ]
+}

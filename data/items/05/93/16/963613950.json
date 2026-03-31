@@ -1,0 +1,16 @@
+{
+  "internalId": 963613950,
+  "name": "Bow of the Crimson Oath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_bow.png",
+  "bindType": -1,
+  "knownIds": [
+    1556066,
+    1577099,
+    1648763,
+    1656251,
+    1679533,
+    1680257,
+    1684163
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 3841147370,
+  "name": "steel helm of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    811545,
+    631997,
+    457290,
+    579011,
+    646863,
+    793782,
+    893867
+  ]
+}

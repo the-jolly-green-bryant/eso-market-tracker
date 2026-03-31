@@ -1,0 +1,17 @@
+{
+  "internalId": 3986838271,
+  "name": "Helm of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88367,
+    88387,
+    88407,
+    88427,
+    88447,
+    88467,
+    88487,
+    88507
+  ]
+}

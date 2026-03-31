@@ -1,0 +1,10 @@
+{
+  "internalId": 2614311196,
+  "name": "Moon-Sugar, Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_crp_moonsugar002.png",
+  "bindType": -1,
+  "knownIds": [
+    153659
+  ]
+}

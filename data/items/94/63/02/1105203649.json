@@ -1,0 +1,10 @@
+{
+  "internalId": 1105203649,
+  "name": "Clear Water",
+  "description": "An Ingredient for crafting level 10 potions",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_2_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    1187
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 1244707613,
+  "name": "Necklace of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139748,
+    139838,
+    139928,
+    140018,
+    140108,
+    140198
+  ]
+}

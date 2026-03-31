@@ -1,0 +1,10 @@
+{
+  "internalId": 3852610086,
+  "name": "Orcish Funeral Pyre",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_funeralpyre001.png",
+  "bindType": -1,
+  "knownIds": [
+    116484
+  ]
+}

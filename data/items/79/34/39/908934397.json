@@ -1,0 +1,11 @@
+{
+  "internalId": 908934397,
+  "name": "Shoes of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87386,
+    87449
+  ]
+}

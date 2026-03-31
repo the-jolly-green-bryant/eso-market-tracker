@@ -1,0 +1,19 @@
+{
+  "internalId": 2415646479,
+  "name": "Moondancer Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1322765,
+    1445438,
+    1448763,
+    1543053,
+    1560660,
+    1616826,
+    1626059,
+    1692064,
+    1719683,
+    1749872
+  ]
+}

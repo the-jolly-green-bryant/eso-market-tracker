@@ -1,0 +1,20 @@
+{
+  "internalId": 2019851241,
+  "name": "Galenwe's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_dagger_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1243879,
+    1254904,
+    1293451,
+    1324841,
+    1356099,
+    1454805,
+    1508054,
+    1559089,
+    1563309,
+    1609089,
+    1622561
+  ]
+}

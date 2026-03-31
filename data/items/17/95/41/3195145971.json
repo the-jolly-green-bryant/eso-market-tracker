@@ -1,0 +1,10 @@
+{
+  "internalId": 3195145971,
+  "name": "Solitude Runner, Grand Wolf's-Head Border",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_rughi002.png",
+  "bindType": -1,
+  "knownIds": [
+    165643
+  ]
+}

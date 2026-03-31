@@ -1,0 +1,14 @@
+{
+  "internalId": 622992311,
+  "name": "Restoration Staff of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75134,
+    75154,
+    75174,
+    75194,
+    75214
+  ]
+}

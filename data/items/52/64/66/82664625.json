@@ -1,0 +1,10 @@
+{
+  "internalId": 82664625,
+  "name": "Pit Daemon Mug",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesskullmug001.png",
+  "bindType": -1,
+  "knownIds": [
+    211538
+  ]
+}

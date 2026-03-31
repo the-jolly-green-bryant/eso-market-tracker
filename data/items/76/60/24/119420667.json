@@ -1,0 +1,10 @@
+{
+  "internalId": 119420667,
+  "name": "Shrub, Glowing Thistle",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_thistlebush002.png",
+  "bindType": -1,
+  "knownIds": [
+    131420
+  ]
+}

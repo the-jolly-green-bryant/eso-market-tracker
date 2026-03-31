@@ -1,0 +1,10 @@
+{
+  "internalId": 1018934235,
+  "name": "Carcass, Brown Hare",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_rabbit002.png",
+  "bindType": -1,
+  "knownIds": [
+    118287
+  ]
+}

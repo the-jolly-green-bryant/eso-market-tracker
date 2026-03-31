@@ -1,0 +1,17 @@
+{
+  "internalId": 1216487730,
+  "name": "Reactive Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117278,
+    117298,
+    117318,
+    117338,
+    117358,
+    117378,
+    117398,
+    117418
+  ]
+}

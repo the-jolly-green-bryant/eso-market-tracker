@@ -1,0 +1,14 @@
+{
+  "internalId": 2756249296,
+  "name": "Eternal Hunt Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72669,
+    72704,
+    72739,
+    72774,
+    72809
+  ]
+}

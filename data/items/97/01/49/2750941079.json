@@ -1,0 +1,10 @@
+{
+  "internalId": 2750941079,
+  "name": "Book Pile, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_libbookstack004.png",
+  "bindType": -1,
+  "knownIds": [
+    197545
+  ]
+}

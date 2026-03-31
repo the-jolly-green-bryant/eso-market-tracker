@@ -1,0 +1,19 @@
+{
+  "internalId": 3484776690,
+  "name": "Lightning Staff of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60656,
+    60691,
+    60726,
+    60761,
+    60796,
+    60831,
+    60866,
+    60901,
+    60936,
+    60971
+  ]
+}

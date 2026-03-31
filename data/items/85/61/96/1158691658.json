@@ -1,0 +1,10 @@
+{
+  "internalId": 1158691658,
+  "name": "Statue, Redguard's Respect",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_statue003.png",
+  "bindType": -1,
+  "knownIds": [
+    117867
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2425312480,
+  "name": "Commander's Signet of Salvation",
+  "description": "This ring bears the mark of one of high military rank.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    43008
+  ]
+}

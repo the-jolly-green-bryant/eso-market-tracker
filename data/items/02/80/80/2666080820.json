@@ -1,0 +1,19 @@
+{
+  "internalId": 2666080820,
+  "name": "Restoration Staff of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75747,
+    75782,
+    75817,
+    75852,
+    75887,
+    75922,
+    75957,
+    75992,
+    76027,
+    76062
+  ]
+}

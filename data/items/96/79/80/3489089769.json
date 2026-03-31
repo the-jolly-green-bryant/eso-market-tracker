@@ -1,0 +1,10 @@
+{
+  "internalId": 3489089769,
+  "name": "Tribunal Tablet of Almalexia",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_housingvivrelief002.png",
+  "bindType": -1,
+  "knownIds": [
+    126151
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3126421675,
+  "name": "Bow of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71820,
+    71855,
+    71890,
+    71925,
+    71960,
+    71995,
+    72030,
+    72065,
+    72100,
+    72135
+  ]
+}

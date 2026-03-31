@@ -1,0 +1,12 @@
+{
+  "internalId": 1834859177,
+  "name": "Maul of the Hunt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1259929,
+    1332375,
+    1540778
+  ]
+}

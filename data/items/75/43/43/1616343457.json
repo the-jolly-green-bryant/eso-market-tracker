@@ -1,0 +1,17 @@
+{
+  "internalId": 1616343457,
+  "name": "Gloves of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85095,
+    85116,
+    85137,
+    85158,
+    85179,
+    85200,
+    85221,
+    85242
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2124630268,
+  "name": "Dark Elf Wagon, Merchant",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_csb_cartcargo001.png",
+  "bindType": -1,
+  "knownIds": [
+    115289
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1605197093,
+  "name": "Jewelry Enchanter's Box",
+  "description": "Contains a large quantity of glyphs, solely for jewelry.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 3,
+  "knownIds": [
+    55841
+  ]
+}

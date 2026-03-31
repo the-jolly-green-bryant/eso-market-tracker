@@ -1,0 +1,15 @@
+{
+  "internalId": 3574829698,
+  "name": "Cuirass of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88586,
+    88606,
+    88626,
+    88646,
+    88666,
+    88686
+  ]
+}

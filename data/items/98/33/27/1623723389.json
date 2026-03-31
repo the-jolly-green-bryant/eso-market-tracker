@@ -1,0 +1,13 @@
+{
+  "internalId": 1623723389,
+  "name": "Adept Rider's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135946,
+    135981,
+    136016,
+    136051
+  ]
+}

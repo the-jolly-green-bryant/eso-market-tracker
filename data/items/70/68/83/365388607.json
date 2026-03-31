@@ -1,0 +1,17 @@
+{
+  "internalId": 365388607,
+  "name": "Swamp Raider's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98894,
+    98914,
+    98934,
+    98954,
+    98974,
+    98994,
+    99014,
+    99034
+  ]
+}

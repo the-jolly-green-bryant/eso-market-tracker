@@ -1,0 +1,17 @@
+{
+  "internalId": 306752074,
+  "name": "Gloves of Martial Knowledge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95469,
+    95490,
+    95511,
+    95532,
+    95553,
+    95574,
+    95595,
+    95616
+  ]
+}

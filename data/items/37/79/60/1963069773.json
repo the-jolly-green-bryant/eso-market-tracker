@@ -1,0 +1,10 @@
+{
+  "internalId": 1963069773,
+  "name": "Ysgramor's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101489
+  ]
+}

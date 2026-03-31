@@ -1,0 +1,10 @@
+{
+  "internalId": 2157948485,
+  "name": "Medium: Sithis' Touch",
+  "description": "An All Armor set found in Gold Coast.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    175535
+  ]
+}

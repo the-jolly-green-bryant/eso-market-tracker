@@ -1,0 +1,10 @@
+{
+  "internalId": 1928300874,
+  "name": "Redguard Spittoon, Gilded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargolddwemervase001.png",
+  "bindType": -1,
+  "knownIds": [
+    117742
+  ]
+}

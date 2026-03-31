@@ -1,0 +1,17 @@
+{
+  "internalId": 1862293260,
+  "name": "Helmet of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92829,
+    92849,
+    92869,
+    92889,
+    92909,
+    92929,
+    92949,
+    92969
+  ]
+}

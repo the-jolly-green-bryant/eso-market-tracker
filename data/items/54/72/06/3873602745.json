@@ -1,0 +1,12 @@
+{
+  "internalId": 3873602745,
+  "name": "Mace of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87394,
+    87415,
+    87436
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 2173104052,
+  "name": "Battle Axe of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168162,
+    168197,
+    168232,
+    168267,
+    168302,
+    168337
+  ]
+}

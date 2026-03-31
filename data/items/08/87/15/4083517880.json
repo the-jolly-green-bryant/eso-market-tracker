@@ -1,0 +1,10 @@
+{
+  "internalId": 4083517880,
+  "name": "Loop of the Magicka Furnace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    44159
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1537761031,
+  "name": "Tools of the Trapmaster Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1764841,
+    1773490
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2960466234,
+  "name": "Druidic Fence, Curved Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_druwallmedcurve002.png",
+  "bindType": -1,
+  "knownIds": [
+    193830
+  ]
+}

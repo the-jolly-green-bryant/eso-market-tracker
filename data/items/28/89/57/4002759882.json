@@ -1,0 +1,19 @@
+{
+  "internalId": 4002759882,
+  "name": "Clever Alchemist Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72142,
+    72177,
+    72212,
+    72247,
+    72282,
+    72317,
+    72352,
+    72387,
+    72422,
+    72457
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 491752437,
+  "name": "Greatsword of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88902,
+    88922,
+    88942,
+    88962,
+    88982,
+    89002,
+    89022,
+    89042
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1353907735,
+  "name": "Corpseburster Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729072,
+    1760450,
+    1771256
+  ]
+}

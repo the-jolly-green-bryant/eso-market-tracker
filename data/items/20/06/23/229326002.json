@@ -1,0 +1,10 @@
+{
+  "internalId": 229326002,
+  "name": "Cast-Off Iron Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    29995
+  ]
+}

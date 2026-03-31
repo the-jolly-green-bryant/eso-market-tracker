@@ -1,0 +1,10 @@
+{
+  "internalId": 519073668,
+  "name": "Alinor Rug, Alinor Seal",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_ruground001.png",
+  "bindType": -1,
+  "knownIds": [
+    139318
+  ]
+}

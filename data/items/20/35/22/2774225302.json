@@ -1,0 +1,10 @@
+{
+  "internalId": 2774225302,
+  "name": "Fire-Shaped Shadows Painting, Silver",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leymetalframepainting004.png",
+  "bindType": -1,
+  "knownIds": [
+    178446
+  ]
+}

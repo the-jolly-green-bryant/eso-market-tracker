@@ -1,0 +1,11 @@
+{
+  "internalId": 2295816989,
+  "name": "Bound Affix Script: Savagery and Prophecy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_savageprophecy.png",
+  "bindType": -1,
+  "knownIds": [
+    1719517,
+    1721209
+  ]
+}

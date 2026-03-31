@@ -1,0 +1,17 @@
+{
+  "internalId": 692924384,
+  "name": "Arkay's Charity Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213744,
+    213765,
+    213786,
+    213807,
+    213828,
+    213849,
+    213870,
+    213891
+  ]
+}

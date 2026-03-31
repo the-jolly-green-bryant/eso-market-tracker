@@ -1,0 +1,17 @@
+{
+  "internalId": 2968071095,
+  "name": "Epaulets of the Onslaught",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90628,
+    90649,
+    90670,
+    90691,
+    90712,
+    90733,
+    90754,
+    90775
+  ]
+}

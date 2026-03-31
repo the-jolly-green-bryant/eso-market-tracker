@@ -1,0 +1,13 @@
+{
+  "internalId": 2082846681,
+  "name": "Blackfeather Flight Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214167,
+    214187,
+    214207,
+    214227
+  ]
+}

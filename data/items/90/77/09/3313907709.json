@@ -1,0 +1,10 @@
+{
+  "internalId": 3313907709,
+  "name": "Fiord's Frigid Troll Bones",
+  "description": "A necklace awarded for defeating the troll champion, Frostbite Mangler, in the cave known as the Frigid Grotto.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    34621
+  ]
+}

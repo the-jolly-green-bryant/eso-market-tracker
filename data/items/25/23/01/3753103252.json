@@ -1,0 +1,10 @@
+{
+  "internalId": 3753103252,
+  "name": "Mourning Bow",
+  "description": "This filigreed bow feels damp to the touch.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43582
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1357256567,
+  "name": "Beacon of Oblivion Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1727351,
+    1753029,
+    1763308
+  ]
+}

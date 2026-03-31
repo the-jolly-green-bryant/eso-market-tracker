@@ -1,0 +1,10 @@
+{
+  "internalId": 2438453195,
+  "name": "Band of the Anchorite",
+  "description": "The Anchorite rewarded this ring for helping her stop the Waking Flame from harming Fargrave.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    182845
+  ]
+}

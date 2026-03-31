@@ -1,0 +1,10 @@
+{
+  "internalId": 2009058130,
+  "name": "Gauntlets of the First Titan",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    44270
+  ]
+}

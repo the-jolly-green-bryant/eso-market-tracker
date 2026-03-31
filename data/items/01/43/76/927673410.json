@@ -1,0 +1,16 @@
+{
+  "internalId": 927673410,
+  "name": "Greaves of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95309,
+    95329,
+    95349,
+    95369,
+    95389,
+    95409,
+    95429
+  ]
+}

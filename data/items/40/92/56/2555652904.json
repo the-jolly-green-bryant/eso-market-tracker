@@ -1,0 +1,17 @@
+{
+  "internalId": 2555652904,
+  "name": "Greaves of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116542,
+    116562,
+    116582,
+    116602,
+    116622,
+    116642,
+    116662,
+    116682
+  ]
+}

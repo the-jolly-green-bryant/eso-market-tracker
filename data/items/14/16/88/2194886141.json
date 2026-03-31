@@ -1,0 +1,19 @@
+{
+  "internalId": 2194886141,
+  "name": "Unchained Aggressor's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158694,
+    158749,
+    158784,
+    158819,
+    158854,
+    158889,
+    158924,
+    158959,
+    158994,
+    159029
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1182190008,
+  "name": "Greatsword of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90113,
+    90126,
+    90139,
+    90152,
+    90165,
+    90178,
+    90191,
+    90204
+  ]
+}

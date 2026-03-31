@@ -1,0 +1,19 @@
+{
+  "internalId": 4068892234,
+  "name": "Naga Shaman Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143191,
+    143246,
+    143281,
+    143316,
+    143351,
+    143386,
+    143421,
+    143456,
+    143491,
+    143526
+  ]
+}

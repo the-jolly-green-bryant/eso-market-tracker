@@ -1,0 +1,17 @@
+{
+  "internalId": 3897757531,
+  "name": "Jack of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93918,
+    93938,
+    93958,
+    93978,
+    93998,
+    94018,
+    94038,
+    94058
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 921408593,
+  "name": "Fern, Cyan Cluster",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_hrccyatheacooperiglow003.png",
+  "bindType": -1,
+  "knownIds": [
+    167345
+  ]
+}

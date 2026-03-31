@@ -1,0 +1,17 @@
+{
+  "internalId": 3168943875,
+  "name": "Ice Staff of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171959,
+    171980,
+    172001,
+    172022,
+    172043,
+    172064,
+    172085,
+    172106
+  ]
+}

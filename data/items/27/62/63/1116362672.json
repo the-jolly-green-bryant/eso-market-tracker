@@ -1,0 +1,10 @@
+{
+  "internalId": 1116362672,
+  "name": "ghoulfish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
+  "bindType": -1,
+  "knownIds": [
+    496268
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": 3897136110,
+  "name": "Pillager's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_lgt_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1586994,
+    1587333,
+    1593972,
+    1603663,
+    1606513,
+    1614615,
+    1619339,
+    1624844,
+    1626628,
+    1636379,
+    1639476,
+    1644234,
+    1764554
+  ]
+}

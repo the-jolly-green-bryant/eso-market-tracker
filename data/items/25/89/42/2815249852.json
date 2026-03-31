@@ -1,0 +1,17 @@
+{
+  "internalId": 2815249852,
+  "name": "Sword-Singer's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99301,
+    99321,
+    99341,
+    99361,
+    99381,
+    99401,
+    99421,
+    99441
+  ]
+}

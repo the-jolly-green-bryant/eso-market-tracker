@@ -1,0 +1,13 @@
+{
+  "internalId": 2186521136,
+  "name": "Shacklebreaker Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122471,
+    122506,
+    122541,
+    122576
+  ]
+}

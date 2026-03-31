@@ -1,0 +1,10 @@
+{
+  "internalId": 3897103128,
+  "name": "Razorback's Hide of Cyrodiil's Ward",
+  "description": "Razorback's carapace grants its wielder lightweight but sturdy protection.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45726
+  ]
+}

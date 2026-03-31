@@ -1,0 +1,10 @@
+{
+  "internalId": 2190189217,
+  "name": "Sip of Timidity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_018_type_001.png",
+  "bindType": -1,
+  "knownIds": [
+    158308
+  ]
+}

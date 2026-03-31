@@ -1,0 +1,10 @@
+{
+  "internalId": 1902564375,
+  "name": "High Isle Counter, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_countermidlong001.png",
+  "bindType": -1,
+  "knownIds": [
+    187827
+  ]
+}

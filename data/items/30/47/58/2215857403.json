@@ -1,0 +1,10 @@
+{
+  "internalId": 2215857403,
+  "name": "Insect Parts, River Bait",
+  "description": "Bait best used for fishing in River water.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_torchbug.png",
+  "bindType": -1,
+  "knownIds": [
+    42872
+  ]
+}

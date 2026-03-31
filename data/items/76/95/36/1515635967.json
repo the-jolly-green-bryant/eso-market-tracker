@@ -1,0 +1,10 @@
+{
+  "internalId": 1515635967,
+  "name": "Elsweyr Carpet, Sandflowers",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_rugmedium002.png",
+  "bindType": -1,
+  "knownIds": [
+    151750
+  ]
+}

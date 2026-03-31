@@ -1,0 +1,17 @@
+{
+  "internalId": 4015608029,
+  "name": "Sabatons of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99481,
+    99501,
+    99521,
+    99541,
+    99561,
+    99581,
+    99601,
+    99621
+  ]
+}

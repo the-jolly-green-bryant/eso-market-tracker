@@ -1,0 +1,10 @@
+{
+  "internalId": 2048892990,
+  "name": "Nesting Stones, Green",
+  "description": "This is a Standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_inferniumooze005.png",
+  "bindType": -1,
+  "knownIds": [
+    194420
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4213243999,
+  "name": "Bow of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211590,
+    211611,
+    211632,
+    211653,
+    211674,
+    211695,
+    211716,
+    211737
+  ]
+}

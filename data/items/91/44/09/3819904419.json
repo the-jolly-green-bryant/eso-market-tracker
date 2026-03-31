@@ -1,0 +1,17 @@
+{
+  "internalId": 3819904419,
+  "name": "Hrothgar's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180770,
+    180790,
+    180810,
+    180830,
+    180850,
+    180870,
+    180890,
+    180910
+  ]
+}

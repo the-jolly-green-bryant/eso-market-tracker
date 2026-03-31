@@ -1,0 +1,17 @@
+{
+  "internalId": 3913404074,
+  "name": "Pauldron of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88915,
+    88935,
+    88955,
+    88975,
+    88995,
+    89015,
+    89035,
+    89055
+  ]
+}

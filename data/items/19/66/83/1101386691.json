@@ -1,0 +1,10 @@
+{
+  "internalId": 1101386691,
+  "name": "Breton Trestle, Formal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_tabletressle001.png",
+  "bindType": -1,
+  "knownIds": [
+    115230
+  ]
+}

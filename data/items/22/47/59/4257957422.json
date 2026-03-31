@@ -1,0 +1,19 @@
+{
+  "internalId": 4257957422,
+  "name": "Fortified Brass Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130720,
+    130755,
+    130790,
+    130825,
+    130860,
+    130895,
+    130930,
+    130965,
+    131000,
+    131035
+  ]
+}

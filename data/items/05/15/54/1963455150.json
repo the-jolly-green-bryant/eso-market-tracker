@@ -1,0 +1,10 @@
+{
+  "internalId": 1963455150,
+  "name": "Boulder, Giant Mossy",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_mos_tanlgt004.png",
+  "bindType": -1,
+  "knownIds": [
+    120706
+  ]
+}

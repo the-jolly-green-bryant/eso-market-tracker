@@ -1,0 +1,18 @@
+{
+  "internalId": 3219000164,
+  "name": "Stuhn's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161286,
+    161321,
+    161356,
+    161391,
+    161426,
+    161461,
+    161496,
+    161531,
+    161566
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2314882954,
+  "name": "Coldharbour's Favorite Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147963,
+    148018,
+    148053,
+    148088,
+    148123,
+    148158,
+    148193,
+    148228,
+    148263,
+    148298
+  ]
+}

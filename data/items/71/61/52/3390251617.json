@@ -1,0 +1,13 @@
+{
+  "internalId": 3390251617,
+  "name": "Fingerless Gloves",
+  "description": "Made without fingers, for some reason.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    64077,
+    64078,
+    64079,
+    64080
+  ]
+}

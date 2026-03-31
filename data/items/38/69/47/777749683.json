@@ -1,0 +1,19 @@
+{
+  "internalId": 777749683,
+  "name": "Clever Alchemist Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72154,
+    72189,
+    72224,
+    72259,
+    72294,
+    72329,
+    72364,
+    72399,
+    72434,
+    72469
+  ]
+}

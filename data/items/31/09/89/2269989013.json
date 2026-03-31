@@ -1,0 +1,10 @@
+{
+  "internalId": 2269989013,
+  "name": "Mushroom, Nettlecap",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mphanemone003.png",
+  "bindType": -1,
+  "knownIds": [
+    139148
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4244038502,
+  "name": "Death-Dancer Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214697,
+    214717,
+    214737,
+    214757,
+    214777,
+    214797,
+    214817,
+    214837
+  ]
+}

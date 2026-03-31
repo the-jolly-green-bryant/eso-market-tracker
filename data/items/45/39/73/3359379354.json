@@ -1,0 +1,14 @@
+{
+  "internalId": 3359379354,
+  "name": "Gauntlets of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58643,
+    58664,
+    58685,
+    58706,
+    58727
+  ]
+}

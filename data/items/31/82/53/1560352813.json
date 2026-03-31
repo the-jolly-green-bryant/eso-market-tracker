@@ -1,0 +1,17 @@
+{
+  "internalId": 1560352813,
+  "name": "Reactive Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117286,
+    117306,
+    117326,
+    117346,
+    117366,
+    117386,
+    117406,
+    117426
+  ]
+}

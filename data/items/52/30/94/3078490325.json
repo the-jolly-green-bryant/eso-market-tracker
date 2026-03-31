@@ -1,0 +1,10 @@
+{
+  "internalId": 3078490325,
+  "name": "Daedric Light Pillar",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_column001.png",
+  "bindType": -1,
+  "knownIds": [
+    120863
+  ]
+}

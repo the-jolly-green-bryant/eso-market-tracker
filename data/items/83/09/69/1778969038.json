@@ -1,0 +1,10 @@
+{
+  "internalId": 1778969038,
+  "name": "Small Game",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_u36_small_game.png",
+  "bindType": -1,
+  "knownIds": [
+    33756
+  ]
+}

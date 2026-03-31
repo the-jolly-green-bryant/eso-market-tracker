@@ -1,0 +1,17 @@
+{
+  "internalId": 3215771728,
+  "name": "Ayleid Refuge Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205239,
+    205259,
+    205279,
+    205299,
+    205319,
+    205339,
+    205359,
+    205379
+  ]
+}

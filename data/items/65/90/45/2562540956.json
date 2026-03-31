@@ -1,0 +1,17 @@
+{
+  "internalId": 2562540956,
+  "name": "Senche's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    81017,
+    81037,
+    81057,
+    81077,
+    81097,
+    81109,
+    81129,
+    81149
+  ]
+}

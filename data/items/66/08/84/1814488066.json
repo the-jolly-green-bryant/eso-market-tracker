@@ -1,0 +1,10 @@
+{
+  "internalId": 1814488066,
+  "name": "Dawnwood Chair, Antlers",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_boschair001.png",
+  "bindType": -1,
+  "knownIds": [
+    204662
+  ]
+}

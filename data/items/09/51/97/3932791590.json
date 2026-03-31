@@ -1,0 +1,14 @@
+{
+  "internalId": 3932791590,
+  "name": "Soulcleaver Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_dagger.png",
+  "bindType": -1,
+  "knownIds": [
+    1695080,
+    1696800,
+    1702838,
+    1752113,
+    1775479
+  ]
+}

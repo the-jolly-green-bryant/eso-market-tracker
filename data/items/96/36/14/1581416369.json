@@ -1,0 +1,10 @@
+{
+  "internalId": 1581416369,
+  "name": "Dremora Plunder Skull, Lord Hollowjack",
+  "description": "This bucket contains items that many witches and warlocks would find of interest.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_dremora_skull_bucket.png",
+  "bindType": 3,
+  "knownIds": [
+    211125
+  ]
+}

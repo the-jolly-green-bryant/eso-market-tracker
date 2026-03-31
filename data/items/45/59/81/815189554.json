@@ -1,0 +1,10 @@
+{
+  "internalId": 815189554,
+  "name": "Staff of the Crystal Tower",
+  "description": "Sotha Sil himself bestowed this staff on you as a reward for stopping Nocturnal from reshaping reality.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    152150
+  ]
+}

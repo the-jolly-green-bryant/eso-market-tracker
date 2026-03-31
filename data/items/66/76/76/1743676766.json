@@ -1,0 +1,10 @@
+{
+  "internalId": 1743676766,
+  "name": "Saxhleel Champion",
+  "description": "A Heavy Armor set found in Rockgrove.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    173999
+  ]
+}

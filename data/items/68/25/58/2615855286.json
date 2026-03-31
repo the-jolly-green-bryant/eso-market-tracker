@@ -1,0 +1,10 @@
+{
+  "internalId": 2615855286,
+  "name": "Mantikora Horns, Wall Mount",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headmantikora002.png",
+  "bindType": -1,
+  "knownIds": [
+    118297
+  ]
+}

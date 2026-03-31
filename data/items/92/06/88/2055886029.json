@@ -1,0 +1,14 @@
+{
+  "internalId": 2055886029,
+  "name": "Beacon of Oblivion Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_sheild.png",
+  "bindType": -1,
+  "knownIds": [
+    1733738,
+    1742267,
+    1742270,
+    1746888,
+    1762821
+  ]
+}

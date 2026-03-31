@@ -1,0 +1,10 @@
+{
+  "internalId": 61164985,
+  "name": "Apocrypha Ink Bottle, Black",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_inkbottle001.png",
+  "bindType": -1,
+  "knownIds": [
+    198372
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1833612373,
+  "name": "Coward's Gear Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123365,
+    123385,
+    123405,
+    123425,
+    123445,
+    123465,
+    123485,
+    123505
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2840220968,
+  "name": "Greatsword of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131285,
+    131320,
+    131355,
+    131390
+  ]
+}

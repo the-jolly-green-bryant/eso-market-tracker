@@ -1,0 +1,13 @@
+{
+  "internalId": 1205953130,
+  "name": "Boots of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173462,
+    173497,
+    173532,
+    173567
+  ]
+}

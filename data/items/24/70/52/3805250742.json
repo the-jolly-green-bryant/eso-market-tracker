@@ -1,0 +1,10 @@
+{
+  "internalId": 3805250742,
+  "name": "Pelt, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_pelthanging002.png",
+  "bindType": -1,
+  "knownIds": [
+    118128
+  ]
+}

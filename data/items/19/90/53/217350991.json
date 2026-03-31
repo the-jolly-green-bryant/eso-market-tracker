@@ -1,0 +1,10 @@
+{
+  "internalId": 217350991,
+  "name": "Dres Bowl, Saltrice Mash",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlabowl003_full.png",
+  "bindType": -1,
+  "knownIds": [
+    126388
+  ]
+}

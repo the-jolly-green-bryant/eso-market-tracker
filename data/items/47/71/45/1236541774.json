@@ -1,0 +1,10 @@
+{
+  "internalId": 1236541774,
+  "name": "Weapons: Viper's Sting",
+  "description": "A Medium Armor set found in Fungal Grotto.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134142
+  ]
+}

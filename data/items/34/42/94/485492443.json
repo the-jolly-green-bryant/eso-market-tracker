@@ -1,0 +1,10 @@
+{
+  "internalId": 485492443,
+  "name": "Dwemerdark Signet",
+  "description": "A simple band made from Dwarven metal, it bears incomprehensible runes in the Dwemeris tongue.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    61007
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 203118369,
+  "name": "Robe of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180442,
+    180463,
+    180484,
+    180505,
+    180526,
+    180547,
+    180568,
+    180589
+  ]
+}

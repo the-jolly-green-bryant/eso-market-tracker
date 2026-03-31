@@ -1,0 +1,15 @@
+{
+  "internalId": 950576249,
+  "name": "Eternal Hunt Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72665,
+    72700,
+    72735,
+    72770,
+    72805,
+    72840
+  ]
+}

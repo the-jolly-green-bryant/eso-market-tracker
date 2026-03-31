@@ -1,0 +1,17 @@
+{
+  "internalId": 2943856202,
+  "name": "Breeches of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90244,
+    90265,
+    90286,
+    90307,
+    90328,
+    90349,
+    90370,
+    90391
+  ]
+}

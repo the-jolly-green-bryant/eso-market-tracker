@@ -1,0 +1,10 @@
+{
+  "internalId": 2160300494,
+  "name": "Odvild's Pendant",
+  "description": "This pendant is a parting gift from Odvild for saving her husband with a frostflower you plucked.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    10997
+  ]
+}

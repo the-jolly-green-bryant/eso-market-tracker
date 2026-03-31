@@ -1,0 +1,10 @@
+{
+  "internalId": 4144499667,
+  "name": "Journal Page",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    426400
+  ]
+}

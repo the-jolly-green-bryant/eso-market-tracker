@@ -1,0 +1,19 @@
+{
+  "internalId": 665700088,
+  "name": "Thunder Caller's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1517279,
+    1561803,
+    1568969,
+    1569763,
+    1580110,
+    1583083,
+    1653637,
+    1659443,
+    1716206,
+    1770595
+  ]
+}

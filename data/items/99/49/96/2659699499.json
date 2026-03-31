@@ -1,0 +1,10 @@
+{
+  "internalId": 2659699499,
+  "name": "Druidic Nook Wall, Long Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutinterioralcove002.png",
+  "bindType": -1,
+  "knownIds": [
+    193819
+  ]
+}

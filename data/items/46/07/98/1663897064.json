@@ -1,0 +1,10 @@
+{
+  "internalId": 1663897064,
+  "name": "Redguard Bin, Roped",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargobarrelsm002.png",
+  "bindType": -1,
+  "knownIds": [
+    117667
+  ]
+}

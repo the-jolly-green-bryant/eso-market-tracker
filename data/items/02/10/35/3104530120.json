@@ -1,0 +1,17 @@
+{
+  "internalId": 3104530120,
+  "name": "Pauldron of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89825,
+    89845,
+    89865,
+    89885,
+    89905,
+    89925,
+    89945,
+    89965
+  ]
+}

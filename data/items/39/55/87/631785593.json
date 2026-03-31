@@ -1,0 +1,17 @@
+{
+  "internalId": 631785593,
+  "name": "Wizard's Riposte Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123729,
+    123750,
+    123771,
+    123792,
+    123813,
+    123834,
+    123855,
+    123876
+  ]
+}

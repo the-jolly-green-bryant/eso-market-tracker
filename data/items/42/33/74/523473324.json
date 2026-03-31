@@ -1,0 +1,10 @@
+{
+  "internalId": 523473324,
+  "name": "A Study in Structure Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leywoodframepainting005.png",
+  "bindType": -1,
+  "knownIds": [
+    178444
+  ]
+}

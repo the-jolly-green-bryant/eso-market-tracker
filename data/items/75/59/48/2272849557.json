@@ -1,0 +1,17 @@
+{
+  "internalId": 2272849557,
+  "name": "Pauldron of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84543,
+    84563,
+    84583,
+    84603,
+    84623,
+    84643,
+    84663,
+    84683
+  ]
+}

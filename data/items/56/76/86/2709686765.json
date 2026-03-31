@@ -1,0 +1,24 @@
+{
+  "internalId": 2709686765,
+  "name": "Shield of Twilight Remedy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1131069,
+    1151156,
+    1159921,
+    1205090,
+    1350392,
+    1375332,
+    1391495,
+    1391521,
+    1406665,
+    1414117,
+    1440454,
+    1448844,
+    1600465,
+    1617351,
+    1716030
+  ]
+}

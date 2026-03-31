@@ -1,0 +1,12 @@
+{
+  "internalId": 3547503906,
+  "name": "Sip of Health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    54339,
+    54339,
+    27036
+  ]
+}

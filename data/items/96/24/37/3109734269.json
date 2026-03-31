@@ -1,0 +1,10 @@
+{
+  "internalId": 3109734269,
+  "name": "Indoril Runner, Sotha Sil",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlarugsothasil001.png",
+  "bindType": -1,
+  "knownIds": [
+    126546
+  ]
+}

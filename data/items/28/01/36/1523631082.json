@@ -1,0 +1,10 @@
+{
+  "internalId": 1523631082,
+  "name": "Breton Cart, Palanquin",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_palanquin001.png",
+  "bindType": -1,
+  "knownIds": [
+    115213
+  ]
+}

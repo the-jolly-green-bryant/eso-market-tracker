@@ -1,0 +1,17 @@
+{
+  "internalId": 3911265961,
+  "name": "Restoration Staff of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211594,
+    211615,
+    211636,
+    211657,
+    211678,
+    211699,
+    211720,
+    211741
+  ]
+}

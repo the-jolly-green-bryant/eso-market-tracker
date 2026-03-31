@@ -1,0 +1,14 @@
+{
+  "internalId": 2098632987,
+  "name": "Azureblight Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1341257,
+    1551809,
+    1622863,
+    1689754,
+    1778998
+  ]
+}

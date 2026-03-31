@@ -1,0 +1,10 @@
+{
+  "internalId": 1894545673,
+  "name": "Ancient Dwarven Chalice",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_027.png",
+  "bindType": -1,
+  "knownIds": [
+    815801
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1161954181,
+  "name": "Stygian Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102086,
+    102106,
+    102126,
+    102146,
+    102166,
+    102186,
+    102206,
+    102226
+  ]
+}

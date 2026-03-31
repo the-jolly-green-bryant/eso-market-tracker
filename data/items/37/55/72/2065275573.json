@@ -1,0 +1,10 @@
+{
+  "internalId": 2065275573,
+  "name": "Plague-Drenched Fabric",
+  "description": "Part of a Peryite cultist's robe. With enough of these, you could tailor your own.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_plaque_drenched_fabric.png",
+  "bindType": -1,
+  "knownIds": [
+    147930
+  ]
+}

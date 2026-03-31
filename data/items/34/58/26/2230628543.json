@@ -1,0 +1,10 @@
+{
+  "internalId": 2230628543,
+  "name": "Plant, Flowering Thorned Succulent",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_euphorbia009.png",
+  "bindType": -1,
+  "knownIds": [
+    151816
+  ]
+}

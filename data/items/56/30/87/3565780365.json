@@ -1,0 +1,10 @@
+{
+  "internalId": 3565780365,
+  "name": "Innate Axiom Weapons",
+  "description": "A Crafted Armor set constructed in Clockwork City.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182722
+  ]
+}

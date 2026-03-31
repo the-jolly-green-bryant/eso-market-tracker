@@ -1,0 +1,17 @@
+{
+  "internalId": 1833451612,
+  "name": "Bow of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74900,
+    74921,
+    74942,
+    74963,
+    74984,
+    75005,
+    75026,
+    75047
+  ]
+}

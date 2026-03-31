@@ -1,0 +1,10 @@
+{
+  "internalId": 1760937324,
+  "name": "Sapling, Royal Palm",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_royalpalm005.png",
+  "bindType": -1,
+  "knownIds": [
+    214507
+  ]
+}

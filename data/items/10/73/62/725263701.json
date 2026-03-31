@@ -1,0 +1,10 @@
+{
+  "internalId": 725263701,
+  "name": "Dragon Skeleton, Mid-Flight",
+  "description": "Finding an untouched burial mound is the easy part. Finding a crew that's willing to risk opening it is harder, and finding such a crew that knows the difference between when to use a pickaxe and when to use a brush … that's practically unheard of.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_housingbonedragon001.png",
+  "bindType": -1,
+  "knownIds": [
+    134856
+  ]
+}

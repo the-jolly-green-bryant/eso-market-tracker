@@ -1,0 +1,19 @@
+{
+  "internalId": 1604021080,
+  "name": "Druid's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185538,
+    185593,
+    185628,
+    185663,
+    185698,
+    185733,
+    185768,
+    185803,
+    185838,
+    185873
+  ]
+}

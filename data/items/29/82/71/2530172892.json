@@ -1,0 +1,17 @@
+{
+  "internalId": 2530172892,
+  "name": "Bright-Throat's Boast Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142611,
+    142632,
+    142653,
+    142674,
+    142695,
+    142716,
+    142737,
+    142758
+  ]
+}

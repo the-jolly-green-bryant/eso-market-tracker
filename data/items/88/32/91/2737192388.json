@@ -1,0 +1,19 @@
+{
+  "internalId": 2737192388,
+  "name": "Amulet of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    178842,
+    178844,
+    178846,
+    178848,
+    178850,
+    178852,
+    178854,
+    178856,
+    178858,
+    178860
+  ]
+}

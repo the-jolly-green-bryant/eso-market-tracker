@@ -1,0 +1,15 @@
+{
+  "internalId": 2298347563,
+  "name": "Shattered Fate Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194754,
+    194789,
+    194824,
+    194859,
+    194894,
+    194929
+  ]
+}

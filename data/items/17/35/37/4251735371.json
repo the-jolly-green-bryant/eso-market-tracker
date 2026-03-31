@@ -1,0 +1,15 @@
+{
+  "internalId": 4251735371,
+  "name": "Eternal Hunt Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72664,
+    72699,
+    72734,
+    72769,
+    72804,
+    72839
+  ]
+}

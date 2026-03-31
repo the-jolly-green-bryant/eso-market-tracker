@@ -1,0 +1,25 @@
+{
+  "internalId": 298339530,
+  "name": "Shield of the Eternal Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    965472,
+    1133567,
+    1140284,
+    1141157,
+    1141168,
+    1151087,
+    1199504,
+    1379200,
+    1474593,
+    1500000,
+    1516527,
+    1517537,
+    1526973,
+    1608729,
+    1610268,
+    1745252
+  ]
+}

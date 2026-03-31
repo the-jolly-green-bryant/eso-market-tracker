@@ -1,0 +1,10 @@
+{
+  "internalId": 2677293083,
+  "name": "Blobfin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_blobfish.png",
+  "bindType": -1,
+  "knownIds": [
+    1168083
+  ]
+}

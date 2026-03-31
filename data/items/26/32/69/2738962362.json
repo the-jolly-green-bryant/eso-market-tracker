@@ -1,0 +1,17 @@
+{
+  "internalId": 2738962362,
+  "name": "Darloc Brae's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_medium_shoulder_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149451,
+    149471,
+    149491,
+    149511,
+    149531,
+    149551,
+    149571,
+    149591
+  ]
+}

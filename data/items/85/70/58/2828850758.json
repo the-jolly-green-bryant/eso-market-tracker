@@ -1,0 +1,10 @@
+{
+  "internalId": 2828850758,
+  "name": "Argonian Skull, Complete",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_houseskullargonian001.png",
+  "bindType": -1,
+  "knownIds": [
+    134867
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3636691122,
+  "name": "Unflinching Ultimate Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219497,
+    219517,
+    219537,
+    219557,
+    219577,
+    219597,
+    219617,
+    219637
+  ]
+}

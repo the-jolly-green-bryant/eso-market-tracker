@@ -1,0 +1,10 @@
+{
+  "internalId": 2041430179,
+  "name": "Pedestal, Etched Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_inc_apexstonepedestal001.png",
+  "bindType": -1,
+  "knownIds": [
+    182615
+  ]
+}

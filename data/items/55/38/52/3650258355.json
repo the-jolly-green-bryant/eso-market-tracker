@@ -1,0 +1,29 @@
+{
+  "internalId": 3650258355,
+  "name": "Siroria's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_light_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1241790,
+    1243877,
+    1257652,
+    1260678,
+    1265546,
+    1276704,
+    1286783,
+    1343848,
+    1346637,
+    1386564,
+    1462196,
+    1484801,
+    1500564,
+    1514308,
+    1516231,
+    1537851,
+    1540584,
+    1543186,
+    1546360,
+    1601975
+  ]
+}

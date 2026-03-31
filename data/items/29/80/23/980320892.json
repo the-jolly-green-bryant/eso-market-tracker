@@ -1,0 +1,19 @@
+{
+  "internalId": 980320892,
+  "name": "Karth's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168395,
+    168450,
+    168485,
+    168520,
+    168555,
+    168590,
+    168625,
+    168660,
+    168695,
+    168730
+  ]
+}

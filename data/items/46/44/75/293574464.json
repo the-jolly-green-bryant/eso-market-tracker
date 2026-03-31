@@ -1,0 +1,10 @@
+{
+  "internalId": 293574464,
+  "name": "Daedric Books, Stacked",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookpile003.png",
+  "bindType": -1,
+  "knownIds": [
+    134266
+  ]
+}

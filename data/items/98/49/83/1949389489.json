@@ -1,0 +1,17 @@
+{
+  "internalId": 1949389489,
+  "name": "Spinner's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99660,
+    99681,
+    99702,
+    99723,
+    99744,
+    99765,
+    99786,
+    99807
+  ]
+}

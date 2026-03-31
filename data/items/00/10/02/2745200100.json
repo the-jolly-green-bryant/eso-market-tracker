@@ -1,0 +1,17 @@
+{
+  "internalId": 2745200100,
+  "name": "Restoration Staff of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84536,
+    84556,
+    84576,
+    84596,
+    84616,
+    84636,
+    84656,
+    84676
+  ]
+}

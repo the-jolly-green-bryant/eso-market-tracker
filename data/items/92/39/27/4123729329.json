@@ -1,0 +1,10 @@
+{
+  "internalId": 4123729329,
+  "name": "Azura's Vigilance",
+  "description": "Abbot Durak of Pariah Abbey awarded this staff for his rescue from the slumbering hold of Vaermina's cultists, the Supernal Dreamers.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2519
+  ]
+}

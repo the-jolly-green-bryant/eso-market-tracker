@@ -1,0 +1,10 @@
+{
+  "internalId": 1599182665,
+  "name": "Orcish Bar, Long Block",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgmerchantcounterlongclosed001.png",
+  "bindType": -1,
+  "knownIds": [
+    116361
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1613495611,
+  "name": "Dagger of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86569,
+    86589,
+    86609,
+    86629,
+    86649,
+    86669,
+    86689,
+    86709
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 782394585,
+  "name": "Ice Staff of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88178,
+    88198,
+    88218,
+    88238,
+    88258,
+    88278,
+    88298,
+    88318
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 633451977,
+  "name": "trifling glyph of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_shockessence.png",
+  "bindType": -1,
+  "knownIds": [
+    406793,
+    1129028,
+    1426849
+  ]
+}

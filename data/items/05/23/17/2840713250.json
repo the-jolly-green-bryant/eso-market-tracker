@@ -1,0 +1,19 @@
+{
+  "internalId": 2840713250,
+  "name": "Restoration Staff of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58187,
+    58222,
+    58257,
+    58292,
+    58327,
+    58362,
+    58397,
+    58432,
+    58467,
+    58502
+  ]
+}

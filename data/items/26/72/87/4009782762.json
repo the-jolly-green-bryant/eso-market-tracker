@@ -1,0 +1,19 @@
+{
+  "internalId": 4009782762,
+  "name": "Ancient Dragonguard's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155800,
+    155855,
+    155890,
+    155925,
+    155960,
+    155995,
+    156030,
+    156065,
+    156100,
+    156135
+  ]
+}

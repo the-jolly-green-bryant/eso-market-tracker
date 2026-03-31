@@ -1,0 +1,17 @@
+{
+  "internalId": 1455650906,
+  "name": "Senche's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    81022,
+    81042,
+    81062,
+    81082,
+    81102,
+    81114,
+    81134,
+    81154
+  ]
+}

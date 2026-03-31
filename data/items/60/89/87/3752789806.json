@@ -1,0 +1,14 @@
+{
+  "internalId": 3752789806,
+  "name": "Shattered Fate Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194765,
+    194800,
+    194835,
+    194870,
+    194905
+  ]
+}

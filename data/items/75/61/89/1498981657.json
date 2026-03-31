@@ -1,0 +1,10 @@
+{
+  "internalId": 1498981657,
+  "name": "Waking Flame's Bow of Rebellion",
+  "description": "Once wielded by a Waking Flame cultist, this bow represents the Dagonist belief in violent rebellion and destructive change.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_bow_c.png",
+  "bindType": 2,
+  "knownIds": [
+    174846
+  ]
+}

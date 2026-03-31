@@ -1,0 +1,10 @@
+{
+  "internalId": 4145081903,
+  "name": "minor Glyph of Potion Boost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_potionpotency.png",
+  "bindType": -1,
+  "knownIds": [
+    1689423
+  ]
+}

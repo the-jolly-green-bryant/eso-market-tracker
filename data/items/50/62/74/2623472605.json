@@ -1,0 +1,14 @@
+{
+  "internalId": 2623472605,
+  "name": "Mace of Fasalla's Guile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199230,
+    199231,
+    199232,
+    199233,
+    199234
+  ]
+}

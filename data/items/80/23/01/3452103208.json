@@ -1,0 +1,10 @@
+{
+  "internalId": 3452103208,
+  "name": "Hlaalu Jar, Garden Moss",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaurn002.png",
+  "bindType": -1,
+  "knownIds": [
+    126374
+  ]
+}

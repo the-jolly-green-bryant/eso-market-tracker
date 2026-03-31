@@ -1,0 +1,12 @@
+{
+  "internalId": 3209230405,
+  "name": "Shoes of Marauder's Haste",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155163,
+    155184,
+    155205
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2059122028,
+  "name": "Prisoner's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101888,
+    101909,
+    101930,
+    101951,
+    101972,
+    101993,
+    102014,
+    102035
+  ]
+}

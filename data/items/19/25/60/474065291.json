@@ -1,0 +1,17 @@
+{
+  "internalId": 474065291,
+  "name": "Robe of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78961,
+    78996,
+    79031,
+    79066,
+    79101,
+    79136,
+    79171,
+    79244
+  ]
+}

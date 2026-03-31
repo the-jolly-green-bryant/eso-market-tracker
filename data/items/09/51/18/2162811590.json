@@ -1,0 +1,10 @@
+{
+  "internalId": 2162811590,
+  "name": "Dining Furnishing Recipe Book",
+  "description": "Documents collected by a carpenter's apprentice. Reading this book teaches all Dining Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color4.png",
+  "bindType": -1,
+  "knownIds": [
+    214284
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2502917272,
+  "name": "Werewolf Hide Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    86018,
+    86038,
+    86058,
+    86078,
+    86098,
+    86118,
+    86138,
+    86158
+  ]
+}

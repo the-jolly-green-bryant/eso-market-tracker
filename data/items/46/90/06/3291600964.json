@@ -1,0 +1,17 @@
+{
+  "internalId": 3291600964,
+  "name": "Unflinching Ultimate Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219500,
+    219520,
+    219540,
+    219560,
+    219580,
+    219600,
+    219620,
+    219640
+  ]
+}

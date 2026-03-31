@@ -1,0 +1,10 @@
+{
+  "internalId": 2996332200,
+  "name": "Storm Staff of the Beekeeper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    42999
+  ]
+}

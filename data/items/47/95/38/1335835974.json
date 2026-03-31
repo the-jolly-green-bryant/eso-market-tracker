@@ -1,0 +1,30 @@
+{
+  "internalId": 1335835974,
+  "name": "Tribal Equipment Crate",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png",
+  "bindType": -1,
+  "knownIds": [
+    1267680,
+    1273844,
+    1274271,
+    1275373,
+    1275443,
+    1275456,
+    1276735,
+    1276745,
+    1278040,
+    1278073,
+    1278091,
+    1285088,
+    1285095,
+    1285107,
+    1285126,
+    1285136,
+    1285225,
+    1293401,
+    1352037,
+    1352078,
+    1359143
+  ]
+}

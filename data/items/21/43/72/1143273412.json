@@ -1,0 +1,10 @@
+{
+  "internalId": 1143273412,
+  "name": "Redoran Settee, Fungal Cushion",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabench001.png",
+  "bindType": -1,
+  "knownIds": [
+    126447
+  ]
+}

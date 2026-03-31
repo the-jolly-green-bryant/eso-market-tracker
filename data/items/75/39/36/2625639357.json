@@ -1,0 +1,10 @@
+{
+  "internalId": 2625639357,
+  "name": "Redguard Chandelier, Polished Grated",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varchadelier002.png",
+  "bindType": -1,
+  "knownIds": [
+    117822
+  ]
+}

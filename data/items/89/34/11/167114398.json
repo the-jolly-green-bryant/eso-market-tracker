@@ -1,0 +1,13 @@
+{
+  "internalId": 167114398,
+  "name": "Dreamer's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98046,
+    98067,
+    98088,
+    98109
+  ]
+}

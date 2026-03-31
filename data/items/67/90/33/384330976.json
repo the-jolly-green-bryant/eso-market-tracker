@@ -1,0 +1,17 @@
+{
+  "internalId": 384330976,
+  "name": "Hat of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78964,
+    78999,
+    79034,
+    79069,
+    79104,
+    79139,
+    79174,
+    79247
+  ]
+}

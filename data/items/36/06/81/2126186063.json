@@ -1,0 +1,19 @@
+{
+  "internalId": 2126186063,
+  "name": "Tarnished Nightmare Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_medium_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1702540,
+    1712849,
+    1720094,
+    1728769,
+    1731500,
+    1733015,
+    1746656,
+    1761605,
+    1768071,
+    1768072
+  ]
+}

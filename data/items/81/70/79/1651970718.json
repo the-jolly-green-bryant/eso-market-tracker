@@ -1,0 +1,10 @@
+{
+  "internalId": 1651970718,
+  "name": "Blade of the Ayleid King",
+  "description": "A blade used to unite lovers, not separate them.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10885
+  ]
+}

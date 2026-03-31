@@ -1,0 +1,10 @@
+{
+  "internalId": 3835334550,
+  "name": "Dawnwood Fence, Curved Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosfencecurvesmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    212396
+  ]
+}

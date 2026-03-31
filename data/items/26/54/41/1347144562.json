@@ -1,0 +1,10 @@
+{
+  "internalId": 1347144562,
+  "name": "Crafting Motif 119: Blessed Inheritor Legs",
+  "description": "Use to learn how to make Blessed Inheritor Legs. Also teaches the equivalent Blessed Inheritor Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    190915
+  ]
+}

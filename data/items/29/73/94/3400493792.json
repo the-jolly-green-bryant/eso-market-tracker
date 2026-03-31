@@ -1,0 +1,17 @@
+{
+  "internalId": 3400493792,
+  "name": "Breeches of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91199,
+    91220,
+    91241,
+    91262,
+    91283,
+    91304,
+    91325,
+    91346
+  ]
+}

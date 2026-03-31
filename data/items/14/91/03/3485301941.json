@@ -1,0 +1,21 @@
+{
+  "internalId": 3485301941,
+  "name": "Flame Blossom Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1177979,
+    1304250,
+    1419710,
+    1463881,
+    1493417,
+    1506131,
+    1553468,
+    1595341,
+    1613484,
+    1649073,
+    1654532,
+    1697082
+  ]
+}

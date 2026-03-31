@@ -1,0 +1,19 @@
+{
+  "internalId": 2912838357,
+  "name": "Assassin's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121564,
+    121599,
+    121634,
+    121669,
+    121704,
+    121739,
+    121774,
+    121809,
+    121844,
+    121879
+  ]
+}

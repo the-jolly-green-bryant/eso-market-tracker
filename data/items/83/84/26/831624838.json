@@ -1,0 +1,17 @@
+{
+  "internalId": 831624838,
+  "name": "Dagon's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1515437,
+    1560327,
+    1595241,
+    1606414,
+    1678533,
+    1686927,
+    1719426,
+    1765143
+  ]
+}

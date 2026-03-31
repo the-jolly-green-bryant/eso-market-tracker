@@ -1,0 +1,17 @@
+{
+  "internalId": 1471013345,
+  "name": "Axe of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92813,
+    92833,
+    92853,
+    92873,
+    92893,
+    92913,
+    92933,
+    92953
+  ]
+}

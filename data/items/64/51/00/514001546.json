@@ -1,0 +1,16 @@
+{
+  "internalId": 514001546,
+  "name": "Axe of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85635,
+    85656,
+    85677,
+    85698,
+    85719,
+    85740,
+    85761
+  ]
+}

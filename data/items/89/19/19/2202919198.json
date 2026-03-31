@@ -1,0 +1,13 @@
+{
+  "internalId": 2202919198,
+  "name": "Oodegu's Flamestick",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    399013,
+    415636,
+    447533,
+    494667
+  ]
+}

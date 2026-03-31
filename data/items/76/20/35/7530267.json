@@ -1,0 +1,19 @@
+{
+  "internalId": 7530267,
+  "name": "Axe of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71813,
+    71848,
+    71883,
+    71918,
+    71953,
+    71988,
+    72023,
+    72058,
+    72093,
+    72128
+  ]
+}

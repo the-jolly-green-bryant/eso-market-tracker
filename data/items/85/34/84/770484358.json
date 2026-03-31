@@ -1,0 +1,11 @@
+{
+  "internalId": 770484358,
+  "name": "Single Weapon Enchantment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    479964,
+    787084
+  ]
+}

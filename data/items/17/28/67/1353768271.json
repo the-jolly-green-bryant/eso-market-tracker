@@ -1,0 +1,17 @@
+{
+  "internalId": 1353768271,
+  "name": "Mace of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116526,
+    116546,
+    116566,
+    116586,
+    116606,
+    116626,
+    116646,
+    116666
+  ]
+}

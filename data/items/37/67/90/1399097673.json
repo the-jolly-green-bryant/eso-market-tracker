@@ -1,0 +1,14 @@
+{
+  "internalId": 1399097673,
+  "name": "Pyrebrand Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731400,
+    1733470,
+    1735270,
+    1761066,
+    1762304
+  ]
+}

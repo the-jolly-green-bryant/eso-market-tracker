@@ -1,0 +1,19 @@
+{
+  "internalId": 2556065135,
+  "name": "Jerkin of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168772,
+    168827,
+    168862,
+    168897,
+    168932,
+    168967,
+    169002,
+    169037,
+    169072,
+    169107
+  ]
+}

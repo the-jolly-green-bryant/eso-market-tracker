@@ -1,0 +1,10 @@
+{
+  "internalId": 1965207025,
+  "name": "Soul Gem",
+  "description": "Used to revive players and companions, or to fully charge enchantments on weapons of any level.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_006_filled.png",
+  "bindType": -1,
+  "knownIds": [
+    33271
+  ]
+}

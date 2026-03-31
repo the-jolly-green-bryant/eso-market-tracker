@@ -1,0 +1,13 @@
+{
+  "internalId": 2517966953,
+  "name": "Pyrebrand Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1727715,
+    1735242,
+    1736964,
+    1738336
+  ]
+}

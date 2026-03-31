@@ -1,0 +1,19 @@
+{
+  "internalId": 1039191408,
+  "name": "Karth's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    168409,
+    168411,
+    168413,
+    168415,
+    168417,
+    168419,
+    168421,
+    168423,
+    168425,
+    168427
+  ]
+}

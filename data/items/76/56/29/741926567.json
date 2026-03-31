@@ -1,0 +1,10 @@
+{
+  "internalId": 741926567,
+  "name": "Glass Style Motif Fragment",
+  "description": "This is a small part of a text that, when combined with others, can teach you about the Glass Style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_004.png",
+  "bindType": -1,
+  "knownIds": [
+    69432
+  ]
+}

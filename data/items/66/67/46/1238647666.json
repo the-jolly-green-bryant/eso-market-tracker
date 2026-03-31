@@ -1,0 +1,17 @@
+{
+  "internalId": 1238647666,
+  "name": "Mace of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84526,
+    84546,
+    84566,
+    84586,
+    84606,
+    84626,
+    84646,
+    84666
+  ]
+}

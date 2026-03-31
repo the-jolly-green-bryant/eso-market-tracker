@@ -1,0 +1,10 @@
+{
+  "internalId": 253162552,
+  "name": "Sanded Mahogany",
+  "description": "An ingredient for crafting wooden weapons and shields.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_sanded_mahogany.png",
+  "bindType": -1,
+  "knownIds": [
+    46141
+  ]
+}

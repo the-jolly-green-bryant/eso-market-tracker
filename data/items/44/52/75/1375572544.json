@@ -1,0 +1,17 @@
+{
+  "internalId": 1375572544,
+  "name": "Spriggan's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100607,
+    100627,
+    100647,
+    100667,
+    100687,
+    100707,
+    100727,
+    100747
+  ]
+}

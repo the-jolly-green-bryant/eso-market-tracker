@@ -1,0 +1,18 @@
+{
+  "internalId": 133805194,
+  "name": "Lightning Staff of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161018,
+    161038,
+    161058,
+    161078,
+    161098,
+    161118,
+    161138,
+    161158,
+    161178
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2502871534,
+  "name": "Azureblight Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1332032,
+    1345736,
+    1474180,
+    1484686,
+    1524765
+  ]
+}

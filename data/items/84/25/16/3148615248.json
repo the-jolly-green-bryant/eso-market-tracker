@@ -1,0 +1,15 @@
+{
+  "internalId": 3148615248,
+  "name": "Darkstride Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    85841,
+    85861,
+    85881,
+    85901,
+    85921,
+    85961
+  ]
+}

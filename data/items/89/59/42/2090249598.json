@@ -1,0 +1,14 @@
+{
+  "internalId": 2090249598,
+  "name": "Pelinal's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76287,
+    76322,
+    76357,
+    76392,
+    76427
+  ]
+}

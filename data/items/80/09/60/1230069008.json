@@ -1,0 +1,10 @@
+{
+  "internalId": 1230069008,
+  "name": "Imperial Statue, Monolith",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_cem_monolith001.png",
+  "bindType": -1,
+  "knownIds": [
+    94114
+  ]
+}

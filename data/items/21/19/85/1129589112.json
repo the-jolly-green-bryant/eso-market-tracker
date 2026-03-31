@@ -1,0 +1,17 @@
+{
+  "internalId": 1129589112,
+  "name": "Greaves of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89096,
+    89116,
+    89136,
+    89156,
+    89176,
+    89196,
+    89216,
+    89236
+  ]
+}

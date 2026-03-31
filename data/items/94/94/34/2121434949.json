@@ -1,0 +1,10 @@
+{
+  "internalId": 2121434949,
+  "name": "Heartless Widow's Locket",
+  "description": "Kinlady Ilunsare allowed you to keep her husband's magical locket after you found him dead. It meant nothing to her.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134723
+  ]
+}

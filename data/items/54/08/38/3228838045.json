@@ -1,0 +1,13 @@
+{
+  "internalId": 3228838045,
+  "name": "Dreamer's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98059,
+    98080,
+    98101,
+    98122
+  ]
+}

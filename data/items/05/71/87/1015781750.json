@@ -1,0 +1,10 @@
+{
+  "internalId": 1015781750,
+  "name": "Redguard Armchair, Cushioned",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_chair001.png",
+  "bindType": -1,
+  "knownIds": [
+    117711
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3636433511,
+  "name": "Umbral Edge Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_mace.png",
+  "bindType": -1,
+  "knownIds": [
+    1758739,
+    1778290
+  ]
+}

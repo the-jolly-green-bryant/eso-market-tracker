@@ -1,0 +1,10 @@
+{
+  "internalId": 3159579072,
+  "name": "Thin Rawhide",
+  "description": "Use for Crafting Armor and Weapons",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_medium_armor_standard_f_001.png",
+  "bindType": -1,
+  "knownIds": [
+    5405
+  ]
+}

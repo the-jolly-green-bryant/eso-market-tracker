@@ -1,0 +1,18 @@
+{
+  "internalId": 2371434236,
+  "name": "Mace of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_mace.png",
+  "bindType": 2,
+  "knownIds": [
+    160630,
+    160651,
+    160672,
+    160693,
+    160714,
+    160735,
+    160756,
+    160777,
+    160798
+  ]
+}

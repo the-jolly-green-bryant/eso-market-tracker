@@ -1,0 +1,15 @@
+{
+  "internalId": 1072526174,
+  "name": "Ring of Torug's Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139687,
+    139777,
+    139867,
+    139957,
+    140047,
+    140137
+  ]
+}

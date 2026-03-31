@@ -1,0 +1,11 @@
+{
+  "internalId": 2225310162,
+  "name": "Beacon of Oblivion Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_2hsword.png",
+  "bindType": -1,
+  "knownIds": [
+    1761055,
+    1776766
+  ]
+}

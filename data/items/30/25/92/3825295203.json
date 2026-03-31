@@ -1,0 +1,10 @@
+{
+  "internalId": 3825295203,
+  "name": "Shield of Night's Silence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    56207
+  ]
+}

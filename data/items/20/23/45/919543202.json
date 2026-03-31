@@ -1,0 +1,19 @@
+{
+  "internalId": 919543202,
+  "name": "Jailer's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1423111,
+    1547406,
+    1567841,
+    1571803,
+    1573822,
+    1624846,
+    1689580,
+    1731594,
+    1746063,
+    1774204
+  ]
+}

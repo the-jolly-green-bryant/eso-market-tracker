@@ -1,0 +1,10 @@
+{
+  "internalId": 4045972665,
+  "name": "Tide-Born Tool Rack, Fishing",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_argfishingpropsrack001.png",
+  "bindType": -1,
+  "knownIds": [
+    220326
+  ]
+}

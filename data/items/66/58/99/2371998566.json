@@ -1,0 +1,17 @@
+{
+  "internalId": 2371998566,
+  "name": "Werewolf Hide Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86025,
+    86045,
+    86065,
+    86085,
+    86105,
+    86125,
+    86145,
+    86165
+  ]
+}

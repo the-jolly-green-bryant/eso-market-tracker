@@ -1,0 +1,10 @@
+{
+  "internalId": 1716495000,
+  "name": "Mushroom, Giant Tanglestalk",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_housingsfmushrooms002.png",
+  "bindType": -1,
+  "knownIds": [
+    218013
+  ]
+}

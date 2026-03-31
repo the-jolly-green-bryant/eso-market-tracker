@@ -1,0 +1,19 @@
+{
+  "internalId": 2919679564,
+  "name": "Battle Axe of the Scathing Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_2haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1315864,
+    1345047,
+    1528898,
+    1550599,
+    1551785,
+    1565114,
+    1573588,
+    1585974,
+    1772732,
+    1780256
+  ]
+}

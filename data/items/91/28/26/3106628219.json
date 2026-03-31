@@ -1,0 +1,14 @@
+{
+  "internalId": 3106628219,
+  "name": "Eternal Hunt Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72693,
+    72728,
+    72763,
+    72798,
+    72833
+  ]
+}

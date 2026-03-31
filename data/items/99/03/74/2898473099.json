@@ -1,0 +1,17 @@
+{
+  "internalId": 2898473099,
+  "name": "Senche's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    81021,
+    81041,
+    81061,
+    81081,
+    81101,
+    81113,
+    81133,
+    81153
+  ]
+}

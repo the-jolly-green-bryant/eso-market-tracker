@@ -1,0 +1,14 @@
+{
+  "internalId": 2226441531,
+  "name": "Jack of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93068,
+    93088,
+    93108,
+    93128,
+    93148
+  ]
+}

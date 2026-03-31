@@ -1,0 +1,18 @@
+{
+  "internalId": 2619571884,
+  "name": "Gauntlets of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158386,
+    158421,
+    158456,
+    158491,
+    158526,
+    158561,
+    158596,
+    158631,
+    158666
+  ]
+}

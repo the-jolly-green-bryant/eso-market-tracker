@@ -1,0 +1,10 @@
+{
+  "internalId": 1358027211,
+  "name": "Apocrypha Bookcase, Tall Marble",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bookshelfmedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    197536
+  ]
+}

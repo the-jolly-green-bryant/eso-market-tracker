@@ -1,0 +1,19 @@
+{
+  "internalId": 2543054144,
+  "name": "Senche-Raht's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148327,
+    148382,
+    148417,
+    148452,
+    148487,
+    148522,
+    148557,
+    148592,
+    148627,
+    148662
+  ]
+}

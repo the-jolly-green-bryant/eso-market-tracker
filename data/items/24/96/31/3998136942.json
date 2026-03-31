@@ -1,0 +1,11 @@
+{
+  "internalId": 3998136942,
+  "name": "Protection-Reversing Poison I",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poison_002_violet_005.png",
+  "bindType": -1,
+  "knownIds": [
+    200471,
+    77597
+  ]
+}

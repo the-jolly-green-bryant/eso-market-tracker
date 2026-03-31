@@ -1,0 +1,17 @@
+{
+  "internalId": 4000961571,
+  "name": "Axe of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90991,
+    91012,
+    91033,
+    91054,
+    91075,
+    91096,
+    91117,
+    91138
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4004763917,
+  "name": "Crafting Motif 97: Wayward Guardian Bows",
+  "description": "Use to learn how to make Wayward Guardian Bows. Also teaches the equivalent Wayward Guardian Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167981
+  ]
+}

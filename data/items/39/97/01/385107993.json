@@ -1,0 +1,10 @@
+{
+  "internalId": 385107993,
+  "name": "Simple Blue Banner",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_blankbannerblue001.png",
+  "bindType": -1,
+  "knownIds": [
+    118067
+  ]
+}

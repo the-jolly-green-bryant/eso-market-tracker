@@ -1,0 +1,10 @@
+{
+  "internalId": 3775507230,
+  "name": "Nord Chair, Braced",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_chair001.png",
+  "bindType": -1,
+  "knownIds": [
+    115379
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3353720935,
+  "name": "Arm Cops of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98165,
+    98185,
+    98205,
+    98225,
+    98245,
+    98265,
+    98285,
+    98305
+  ]
+}

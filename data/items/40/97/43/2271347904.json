@@ -1,0 +1,17 @@
+{
+  "internalId": 2271347904,
+  "name": "Bracers of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93556,
+    93576,
+    93596,
+    93616,
+    93636,
+    93656,
+    93676,
+    93696
+  ]
+}

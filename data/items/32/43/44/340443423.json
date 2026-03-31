@@ -1,0 +1,19 @@
+{
+  "internalId": 340443423,
+  "name": "Nocturnal's Favored Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136430,
+    136465,
+    136500,
+    136535,
+    136570,
+    136605,
+    136640,
+    136675,
+    136710,
+    136745
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1601942622,
+  "name": "Boots of Clomping",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    589691,
+    745835,
+    871798
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1433271618,
+  "name": "Full Belly Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214873,
+    214893,
+    214913,
+    214933,
+    214953,
+    214973,
+    214993,
+    215013
+  ]
+}

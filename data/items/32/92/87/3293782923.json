@@ -1,0 +1,10 @@
+{
+  "internalId": 3293782923,
+  "name": "Fargrave Fish Pile, Deadlands Trout",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodfish002.png",
+  "bindType": -1,
+  "knownIds": [
+    182227
+  ]
+}

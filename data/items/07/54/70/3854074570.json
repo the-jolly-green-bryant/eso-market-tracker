@@ -1,0 +1,10 @@
+{
+  "internalId": 3854074570,
+  "name": "The High King's War Axe",
+  "description": "Presented by High King Emeric to you for service to the Daggerfall Covenant.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2544
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2212406653,
+  "name": "Lamp Knight's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213917,
+    213937,
+    213957,
+    213977,
+    213997,
+    214017,
+    214037,
+    214057
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3447636946,
+  "name": "Boulder, Moss Covered",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_greenshaderock011.png",
+  "bindType": -1,
+  "knownIds": [
+    120586
+  ]
+}

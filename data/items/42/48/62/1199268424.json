@@ -1,0 +1,10 @@
+{
+  "internalId": 1199268424,
+  "name": "Shipment of Cloth VII",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1309166
+  ]
+}

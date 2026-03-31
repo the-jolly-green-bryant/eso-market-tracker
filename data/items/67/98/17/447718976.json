@@ -1,0 +1,10 @@
+{
+  "internalId": 447718976,
+  "name": "Alinor Potted Plant, Twin Saplings",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_topiaryspiral002.png",
+  "bindType": -1,
+  "knownIds": [
+    139309
+  ]
+}

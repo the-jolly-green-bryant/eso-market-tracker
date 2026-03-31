@@ -1,0 +1,10 @@
+{
+  "internalId": 3670940151,
+  "name": "High Isle Table, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablemidmed001.png",
+  "bindType": -1,
+  "knownIds": [
+    187826
+  ]
+}

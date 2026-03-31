@@ -1,0 +1,13 @@
+{
+  "internalId": 1801602672,
+  "name": "Leki's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199341,
+    199342,
+    199343,
+    199344
+  ]
+}

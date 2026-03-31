@@ -1,0 +1,10 @@
+{
+  "internalId": 3214226672,
+  "name": "Monster: Slimecraw",
+  "description": "A Monster Mask set found in Veteran Wayrest Sewers I.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114270
+  ]
+}

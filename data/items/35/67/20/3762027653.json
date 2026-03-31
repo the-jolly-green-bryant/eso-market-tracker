@@ -1,0 +1,10 @@
+{
+  "internalId": 3762027653,
+  "name": "Redguard Vessel, Lacquered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_raincatcherurna001.png",
+  "bindType": -1,
+  "knownIds": [
+    117690
+  ]
+}

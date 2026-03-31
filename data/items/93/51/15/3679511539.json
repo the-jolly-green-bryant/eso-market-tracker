@@ -1,0 +1,10 @@
+{
+  "internalId": 3679511539,
+  "name": "Grimoire: Smash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_2hander.png",
+  "bindType": 3,
+  "knownIds": [
+    204487
+  ]
+}

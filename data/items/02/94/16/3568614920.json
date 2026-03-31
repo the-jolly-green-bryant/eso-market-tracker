@@ -1,0 +1,10 @@
+{
+  "internalId": 3568614920,
+  "name": "Ring of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    98145
+  ]
+}

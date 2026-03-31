@@ -1,0 +1,19 @@
+{
+  "internalId": 4016795073,
+  "name": "Helmet of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161626,
+    161681,
+    161716,
+    161751,
+    161786,
+    161821,
+    161856,
+    161891,
+    161926,
+    161961
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 4284923639,
+  "name": "Stuhn's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161291,
+    161326,
+    161361,
+    161396,
+    161431,
+    161466,
+    161501,
+    161536,
+    161571
+  ]
+}

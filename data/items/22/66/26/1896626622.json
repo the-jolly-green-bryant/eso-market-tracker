@@ -1,0 +1,10 @@
+{
+  "internalId": 1896626622,
+  "name": "Hlaalu Chest, Secure",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlatrunk002.png",
+  "bindType": -1,
+  "knownIds": [
+    126454
+  ]
+}

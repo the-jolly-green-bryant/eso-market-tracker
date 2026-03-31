@@ -1,0 +1,10 @@
+{
+  "internalId": 3950933322,
+  "name": "Stone Warrior's Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_betnikh_clenched_orc_fist.png",
+  "bindType": -1,
+  "knownIds": [
+    936587
+  ]
+}

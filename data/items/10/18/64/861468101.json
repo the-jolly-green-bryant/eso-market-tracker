@@ -1,0 +1,10 @@
+{
+  "internalId": 861468101,
+  "name": "Islander's Shawl",
+  "description": "A sun-beaten mantle commonly worn across High Isle.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    188118
+  ]
+}

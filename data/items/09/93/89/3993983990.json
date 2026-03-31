@@ -1,0 +1,10 @@
+{
+  "internalId": 3993983990,
+  "name": "Bloodroot Flux",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_dragonfire_dust.png",
+  "bindType": -1,
+  "knownIds": [
+    132620
+  ]
+}

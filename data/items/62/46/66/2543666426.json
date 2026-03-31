@@ -1,0 +1,10 @@
+{
+  "internalId": 2543666426,
+  "name": "Orcish Tapestry, Spear",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgtapestry004.png",
+  "bindType": -1,
+  "knownIds": [
+    116457
+  ]
+}

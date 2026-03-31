@@ -1,0 +1,19 @@
+{
+  "internalId": 1727441609,
+  "name": "Innate Axiom Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130379,
+    130414,
+    130449,
+    130484,
+    130519,
+    130554,
+    130589,
+    130624,
+    130659,
+    130694
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3254281275,
+  "name": "Forest Wraith's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192020,
+    192075,
+    192110,
+    192145,
+    192180,
+    192215,
+    192250,
+    192285,
+    192320,
+    192355
+  ]
+}

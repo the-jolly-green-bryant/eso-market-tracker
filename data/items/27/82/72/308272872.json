@@ -1,0 +1,12 @@
+{
+  "internalId": 308272872,
+  "name": "Ravenwatch Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    401802,
+    536426,
+    615011
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2719188859,
+  "name": "Wood Elf Censer, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_cmp_hangingpot001.png",
+  "bindType": -1,
+  "knownIds": [
+    115605
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1390781240,
+  "name": "Captain Voldar's Hammer",
+  "description": "Buried for who knows how long, the pirate captain's hammer still looks to be in perfect condition.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    174840
+  ]
+}

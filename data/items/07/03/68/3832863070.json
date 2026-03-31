@@ -1,0 +1,10 @@
+{
+  "internalId": 3832863070,
+  "name": "Horker Call Whistle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
+  "bindType": -1,
+  "knownIds": [
+    1383845
+  ]
+}

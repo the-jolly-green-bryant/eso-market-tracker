@@ -1,0 +1,17 @@
+{
+  "internalId": 3472265486,
+  "name": "Ice Staff of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84716,
+    84737,
+    84758,
+    84779,
+    84800,
+    84821,
+    84842,
+    84863
+  ]
+}

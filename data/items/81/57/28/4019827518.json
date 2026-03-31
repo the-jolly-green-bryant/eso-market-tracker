@@ -1,0 +1,10 @@
+{
+  "internalId": 4019827518,
+  "name": "Dragon's Treasure Trove",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_dragonloot001.png",
+  "bindType": -1,
+  "knownIds": [
+    153814
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3711577195,
+  "name": "Leki's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199391,
+    199392,
+    199393,
+    199394,
+    199395
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3175444502,
+  "name": "hide arm cops of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": -1,
+  "knownIds": [
+    728948,
+    757045,
+    445102,
+    651828,
+    412155,
+    789338,
+    787581,
+    786101
+  ]
+}

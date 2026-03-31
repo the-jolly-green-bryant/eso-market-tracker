@@ -1,0 +1,10 @@
+{
+  "internalId": 70301873,
+  "name": "Necrom Banner, Small Patterned",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necbannerhighe004.png",
+  "bindType": -1,
+  "knownIds": [
+    197740
+  ]
+}

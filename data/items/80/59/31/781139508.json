@@ -1,0 +1,21 @@
+{
+  "internalId": 781139508,
+  "name": "quicksilver greatsword of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    508163,
+    809510,
+    555061,
+    540819,
+    543162,
+    542424,
+    682262,
+    678306,
+    598144,
+    748935,
+    793737,
+    418578
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2023479609,
+  "name": "Specimen Jar, Spare Brain",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_jarbodyparts002.png",
+  "bindType": -1,
+  "knownIds": [
+    142004
+  ]
+}

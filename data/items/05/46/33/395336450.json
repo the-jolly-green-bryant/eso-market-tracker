@@ -1,0 +1,10 @@
+{
+  "internalId": 395336450,
+  "name": "Logs, Twice-Split",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_whitepinelogpile002.png",
+  "bindType": -1,
+  "knownIds": [
+    165810
+  ]
+}

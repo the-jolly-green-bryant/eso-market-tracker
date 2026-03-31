@@ -1,0 +1,10 @@
+{
+  "internalId": 2680667395,
+  "name": "Rough Oak",
+  "description": "Ten of these items can be refined to make sanded oak.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_base_oak_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    521
+  ]
+}

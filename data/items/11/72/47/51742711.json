@@ -1,0 +1,14 @@
+{
+  "internalId": 51742711,
+  "name": "Spell Parasite's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163284,
+    163319,
+    163354,
+    163389,
+    163424
+  ]
+}

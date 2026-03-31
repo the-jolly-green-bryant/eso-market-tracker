@@ -1,0 +1,11 @@
+{
+  "internalId": 2810375555,
+  "name": "Pink Profundity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
+  "bindType": -1,
+  "knownIds": [
+    34023,
+    37861
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3973955052,
+  "name": "Crafty Alfiq's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149252,
+    149273,
+    149294,
+    149315,
+    149336,
+    149357,
+    149378,
+    149399
+  ]
+}

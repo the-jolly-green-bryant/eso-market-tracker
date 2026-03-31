@@ -1,0 +1,17 @@
+{
+  "internalId": 2181475398,
+  "name": "Gloves of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91770,
+    91791,
+    91812,
+    91833,
+    91854,
+    91875,
+    91896,
+    91917
+  ]
+}

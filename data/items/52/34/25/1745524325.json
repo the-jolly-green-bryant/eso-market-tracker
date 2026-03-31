@@ -1,0 +1,17 @@
+{
+  "internalId": 1745524325,
+  "name": "Undertaker's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_hammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149061,
+    149081,
+    149101,
+    149121,
+    149141,
+    149161,
+    149181,
+    149201
+  ]
+}

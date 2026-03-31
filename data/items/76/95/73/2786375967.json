@@ -1,0 +1,10 @@
+{
+  "internalId": 2786375967,
+  "name": "Telvanni Painting, Classic Volcanic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_telpaintingamedorg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126468
+  ]
+}

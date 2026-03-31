@@ -1,0 +1,14 @@
+{
+  "internalId": 3520427103,
+  "name": "Grave-Stake Collector Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142999,
+    143034,
+    143069,
+    143104,
+    143139
+  ]
+}

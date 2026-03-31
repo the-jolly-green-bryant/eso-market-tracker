@@ -1,0 +1,10 @@
+{
+  "internalId": 2927238649,
+  "name": "Painting of Lakes, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_elegant004.png",
+  "bindType": -1,
+  "knownIds": [
+    118219
+  ]
+}

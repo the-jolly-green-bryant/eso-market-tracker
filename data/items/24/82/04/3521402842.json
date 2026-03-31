@@ -1,0 +1,18 @@
+{
+  "internalId": 3521402842,
+  "name": "Stuhn's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161308,
+    161343,
+    161378,
+    161413,
+    161448,
+    161483,
+    161518,
+    161553,
+    161588
+  ]
+}

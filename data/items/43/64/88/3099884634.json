@@ -1,0 +1,16 @@
+{
+  "internalId": 3099884634,
+  "name": "Highland Sentinel Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205904,
+    205939,
+    205974,
+    206009,
+    206044,
+    206079,
+    206114
+  ]
+}

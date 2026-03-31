@@ -1,0 +1,10 @@
+{
+  "internalId": 2150027805,
+  "name": "Breton Vase, Delicate",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_vase_medium002.png",
+  "bindType": -1,
+  "knownIds": [
+    115205
+  ]
+}

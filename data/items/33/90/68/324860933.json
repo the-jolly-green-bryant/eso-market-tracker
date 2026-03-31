@@ -1,0 +1,10 @@
+{
+  "internalId": 324860933,
+  "name": "Mountain Flower",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_mountain_flower_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    30163
+  ]
+}

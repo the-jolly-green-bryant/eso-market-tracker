@@ -1,0 +1,10 @@
+{
+  "internalId": 2682316,
+  "name": "Rosin",
+  "description": "Improve quality from blue to purple.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_rosin.png",
+  "bindType": -1,
+  "knownIds": [
+    54181
+  ]
+}

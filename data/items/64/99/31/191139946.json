@@ -1,0 +1,10 @@
+{
+  "internalId": 191139946,
+  "name": "Sapling, Summerset Spruce",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_ezosprucesapling002.png",
+  "bindType": -1,
+  "knownIds": [
+    139124
+  ]
+}

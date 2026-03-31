@@ -1,0 +1,11 @@
+{
+  "internalId": 1417772084,
+  "name": "Creepy Monkey Puppet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_brass_monkey.png",
+  "bindType": -1,
+  "knownIds": [
+    796286,
+    1424740
+  ]
+}

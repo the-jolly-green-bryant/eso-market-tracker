@@ -1,0 +1,19 @@
+{
+  "internalId": 1217317513,
+  "name": "Tharriker's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205426,
+    205481,
+    205516,
+    205551,
+    205586,
+    205621,
+    205656,
+    205691,
+    205726,
+    205761
+  ]
+}

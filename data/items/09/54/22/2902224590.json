@@ -1,0 +1,20 @@
+{
+  "internalId": 2902224590,
+  "name": "Ring of the Worm Cult",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    937263,
+    1079485,
+    1177833,
+    1223084,
+    1228871,
+    1289060,
+    1392620,
+    1484357,
+    1494155,
+    1550283,
+    1613923
+  ]
+}

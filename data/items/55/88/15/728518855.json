@@ -1,0 +1,10 @@
+{
+  "internalId": 728518855,
+  "name": "Solitude Meal, Rustic",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_kitchenplates002.png",
+  "bindType": -1,
+  "knownIds": [
+    165785
+  ]
+}

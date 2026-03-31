@@ -1,0 +1,11 @@
+{
+  "internalId": 2268298339,
+  "name": "Mulled Wine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_002.png",
+  "bindType": -1,
+  "knownIds": [
+    61053,
+    33969
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4188085433,
+  "name": "Tharriker's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205402,
+    205457,
+    205492,
+    205527,
+    205562,
+    205597,
+    205632,
+    205667,
+    205702,
+    205737
+  ]
+}

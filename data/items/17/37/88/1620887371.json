@@ -1,0 +1,17 @@
+{
+  "internalId": 1620887371,
+  "name": "Bow of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86570,
+    86590,
+    86610,
+    86630,
+    86650,
+    86670,
+    86690,
+    86710
+  ]
+}

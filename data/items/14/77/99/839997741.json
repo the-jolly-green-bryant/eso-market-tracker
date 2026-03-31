@@ -1,0 +1,19 @@
+{
+  "internalId": 839997741,
+  "name": "Sash of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185178,
+    185233,
+    185268,
+    185303,
+    185338,
+    185373,
+    185408,
+    185443,
+    185478,
+    185513
+  ]
+}

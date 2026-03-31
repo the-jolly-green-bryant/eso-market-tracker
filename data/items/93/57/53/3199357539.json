@@ -1,0 +1,10 @@
+{
+  "internalId": 3199357539,
+  "name": "Cask, Yellow Dye",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationbarrellrge001.png",
+  "bindType": -1,
+  "knownIds": [
+    118319
+  ]
+}

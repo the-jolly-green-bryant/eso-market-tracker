@@ -1,0 +1,10 @@
+{
+  "internalId": 3732414395,
+  "name": "Queensguard Ring",
+  "description": "This ring is only given to loyal agents of Queen Ayrenn for service and sacrifice.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    10919
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 981587556,
+  "name": "Miniature Garden, Bottled",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_telalchemyprops005.png",
+  "bindType": -1,
+  "knownIds": [
+    134920
+  ]
+}

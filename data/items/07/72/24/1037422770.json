@@ -1,0 +1,10 @@
+{
+  "internalId": 1037422770,
+  "name": "Forgotten Adventurer's Bow",
+  "description": "A bow found in your strong box. Perhaps once it was a close companion, but it is beginning to show its age.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    138791
+  ]
+}

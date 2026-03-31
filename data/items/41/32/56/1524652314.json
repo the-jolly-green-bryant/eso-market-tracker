@@ -1,0 +1,17 @@
+{
+  "internalId": 1524652314,
+  "name": "Sword of Willpower",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69173,
+    69186,
+    69199,
+    69212,
+    69225,
+    69238,
+    69251,
+    69264
+  ]
+}

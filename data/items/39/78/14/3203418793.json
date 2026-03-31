@@ -1,0 +1,19 @@
+{
+  "internalId": 3203418793,
+  "name": "Karth's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168387,
+    168442,
+    168477,
+    168512,
+    168547,
+    168582,
+    168617,
+    168652,
+    168687,
+    168722
+  ]
+}

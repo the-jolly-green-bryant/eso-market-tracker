@@ -1,0 +1,10 @@
+{
+  "internalId": 3495298554,
+  "name": "Gauntlets of the Ra Gada",
+  "description": "These gauntlets are freezing to the touch, as if you still grapple with the undead.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7520
+  ]
+}

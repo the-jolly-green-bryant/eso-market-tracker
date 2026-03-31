@@ -1,0 +1,10 @@
+{
+  "internalId": 344888937,
+  "name": "Bread, Plain",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_bread002.png",
+  "bindType": -1,
+  "knownIds": [
+    118096
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2792737765,
+  "name": "Inferno Staff of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91381,
+    91402,
+    91423,
+    91444,
+    91465,
+    91486,
+    91507,
+    91528
+  ]
+}

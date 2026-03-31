@@ -1,0 +1,15 @@
+{
+  "internalId": 1045624310,
+  "name": "Clever Alchemist Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139749,
+    139839,
+    139929,
+    140019,
+    140109,
+    140199
+  ]
+}

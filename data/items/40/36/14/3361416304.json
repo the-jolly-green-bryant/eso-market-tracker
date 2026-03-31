@@ -1,0 +1,10 @@
+{
+  "internalId": 3361416304,
+  "name": "Hammer, Forge",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_hammersmll001.png",
+  "bindType": -1,
+  "knownIds": [
+    118045
+  ]
+}

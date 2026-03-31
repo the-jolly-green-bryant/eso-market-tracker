@@ -1,0 +1,17 @@
+{
+  "internalId": 1523443089,
+  "name": "Sword of Cyrodiil's Ward",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93725,
+    93745,
+    93765,
+    93785,
+    93805,
+    93825,
+    93845,
+    93865
+  ]
+}

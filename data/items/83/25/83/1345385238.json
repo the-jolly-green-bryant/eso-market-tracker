@@ -1,0 +1,12 @@
+{
+  "internalId": 1345385238,
+  "name": "Aetheric Lancer Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1738535,
+    1743601,
+    1764585
+  ]
+}

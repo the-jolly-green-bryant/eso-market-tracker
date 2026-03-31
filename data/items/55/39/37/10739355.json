@@ -1,0 +1,18 @@
+{
+  "internalId": 10739355,
+  "name": "Tzogvin's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1305563,
+    1329307,
+    1440289,
+    1485985,
+    1543531,
+    1546478,
+    1546630,
+    1616522,
+    1715952
+  ]
+}

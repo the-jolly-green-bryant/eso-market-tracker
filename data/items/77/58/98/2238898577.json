@@ -1,0 +1,10 @@
+{
+  "internalId": 2238898577,
+  "name": "Flower Patch, Flame Lily",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_barbadoslily010.png",
+  "bindType": -1,
+  "knownIds": [
+    214481
+  ]
+}

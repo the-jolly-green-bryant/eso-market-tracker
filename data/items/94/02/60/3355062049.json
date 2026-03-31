@@ -1,0 +1,10 @@
+{
+  "internalId": 3355062049,
+  "name": "Desecration Treads",
+  "description": "Forged in the days of Rid-Thar, these boots show a level of skill rarely seen in Tamriel today.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10942
+  ]
+}

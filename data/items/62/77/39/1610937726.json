@@ -1,0 +1,17 @@
+{
+  "internalId": 1610937726,
+  "name": "Deadly Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87873,
+    87886,
+    87899,
+    87912,
+    87925,
+    87938,
+    87951,
+    87964
+  ]
+}

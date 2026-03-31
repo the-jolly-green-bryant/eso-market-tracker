@@ -1,0 +1,21 @@
+{
+  "internalId": 4165694160,
+  "name": "Death's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    813591,
+    585497,
+    800652,
+    874695,
+    939992,
+    979008,
+    1212503,
+    1212723,
+    1223068,
+    1428438,
+    1455036,
+    1545434
+  ]
+}

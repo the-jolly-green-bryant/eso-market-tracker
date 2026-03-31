@@ -1,0 +1,10 @@
+{
+  "internalId": 4149328609,
+  "name": "Glyph of Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_magickaboost.png",
+  "bindType": -1,
+  "knownIds": [
+    26582
+  ]
+}

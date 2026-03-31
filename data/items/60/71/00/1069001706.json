@@ -1,0 +1,31 @@
+{
+  "internalId": 1069001706,
+  "name": "Inventor's Guard Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_light_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1152675,
+    1152678,
+    1156289,
+    1159969,
+    1191141,
+    1234857,
+    1244629,
+    1251426,
+    1346186,
+    1369352,
+    1451957,
+    1451961,
+    1457659,
+    1457665,
+    1457666,
+    1460487,
+    1465124,
+    1481422,
+    1564305,
+    1592690,
+    1701761,
+    1717674
+  ]
+}

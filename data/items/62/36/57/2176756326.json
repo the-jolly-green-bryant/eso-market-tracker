@@ -1,0 +1,17 @@
+{
+  "internalId": 2176756326,
+  "name": "Jack of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96972,
+    96979,
+    96986,
+    96993,
+    97000,
+    97007,
+    97014,
+    97021
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1350077968,
+  "name": "Dark Elf Armchair, Angled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_chair002.png",
+  "bindType": -1,
+  "knownIds": [
+    115274
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2380732710,
+  "name": "Maul of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116529,
+    116549,
+    116569,
+    116589,
+    116609,
+    116629,
+    116649,
+    116669
+  ]
+}

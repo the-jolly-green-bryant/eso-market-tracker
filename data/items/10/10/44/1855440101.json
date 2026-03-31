@@ -1,0 +1,10 @@
+{
+  "internalId": 1855440101,
+  "name": "Moon Sentinel's Arc",
+  "description": "A mighty bow wielded by the ancient and mysterious Moon Sentinels on the Plane of Jode.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150390
+  ]
+}

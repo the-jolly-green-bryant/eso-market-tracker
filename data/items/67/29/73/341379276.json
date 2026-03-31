@@ -1,0 +1,14 @@
+{
+  "internalId": 341379276,
+  "name": "Shoes of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199880,
+    199881,
+    199882,
+    199883,
+    199884
+  ]
+}

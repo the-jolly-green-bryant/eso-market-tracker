@@ -1,0 +1,10 @@
+{
+  "internalId": 1492023062,
+  "name": "Galatite Manacles",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_collar_001.png",
+  "bindType": -1,
+  "knownIds": [
+    420033
+  ]
+}

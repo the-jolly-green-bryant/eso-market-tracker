@@ -1,0 +1,10 @@
+{
+  "internalId": 2552042731,
+  "name": "Symmetry of the Weald Gear",
+  "description": "Contains 5 gear pieces from the Symmetry of the Weald set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
+  "bindType": 3,
+  "knownIds": [
+    207957
+  ]
+}

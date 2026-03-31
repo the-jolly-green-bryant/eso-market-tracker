@@ -1,0 +1,10 @@
+{
+  "internalId": 3167587486,
+  "name": "Sigil, Julianos",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_shrinejulianos001.png",
+  "bindType": -1,
+  "knownIds": [
+    120818
+  ]
+}

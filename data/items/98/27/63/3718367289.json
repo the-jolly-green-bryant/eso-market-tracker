@@ -1,0 +1,22 @@
+{
+  "internalId": 3718367289,
+  "name": "Blood Moon Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1266398,
+    1300858,
+    1375939,
+    1397867,
+    1412385,
+    1423240,
+    1555905,
+    1583664,
+    1609872,
+    1636655,
+    1731763,
+    1762395,
+    1773552
+  ]
+}

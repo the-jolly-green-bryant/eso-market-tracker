@@ -1,0 +1,10 @@
+{
+  "internalId": 4222953445,
+  "name": "Boulder, Horizontal Sandstone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_housingmed001.png",
+  "bindType": -1,
+  "knownIds": [
+    214496
+  ]
+}

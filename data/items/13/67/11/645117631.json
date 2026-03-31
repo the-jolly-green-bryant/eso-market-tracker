@@ -1,0 +1,10 @@
+{
+  "internalId": 645117631,
+  "name": "Werewolf's Hide Razor",
+  "description": "A weapon awarded for defeating the Dominion officer, Sincano, in Silumm.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34298
+  ]
+}

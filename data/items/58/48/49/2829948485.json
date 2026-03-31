@@ -1,0 +1,20 @@
+{
+  "internalId": 2829948485,
+  "name": "Scorion's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackironlgt_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1517677,
+    1519490,
+    1537288,
+    1540071,
+    1540120,
+    1542661,
+    1545226,
+    1549866,
+    1559427,
+    1565064,
+    1593765
+  ]
+}

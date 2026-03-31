@@ -1,0 +1,19 @@
+{
+  "internalId": 1877185831,
+  "name": "Maul of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161599,
+    161654,
+    161689,
+    161724,
+    161759,
+    161794,
+    161829,
+    161864,
+    161899,
+    161934
+  ]
+}

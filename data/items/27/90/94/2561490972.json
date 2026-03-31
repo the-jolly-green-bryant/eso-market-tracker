@@ -1,0 +1,17 @@
+{
+  "internalId": 2561490972,
+  "name": "Sash of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211603,
+    211624,
+    211645,
+    211666,
+    211687,
+    211708,
+    211729,
+    211750
+  ]
+}

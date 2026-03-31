@@ -1,0 +1,17 @@
+{
+  "internalId": 4190256205,
+  "name": "Robe of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85093,
+    85114,
+    85135,
+    85156,
+    85177,
+    85198,
+    85219,
+    85240
+  ]
+}

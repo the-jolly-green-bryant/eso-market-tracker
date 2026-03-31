@@ -1,0 +1,10 @@
+{
+  "internalId": 671671400,
+  "name": "Old Thin Broth",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_1_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    26986
+  ]
+}

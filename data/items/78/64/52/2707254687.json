@@ -1,0 +1,20 @@
+{
+  "internalId": 2707254687,
+  "name": "dwarven axe of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    684731,
+    763936,
+    769249,
+    433778,
+    436337,
+    521746,
+    636514,
+    758001,
+    790966,
+    789713,
+    871606
+  ]
+}

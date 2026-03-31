@@ -1,0 +1,10 @@
+{
+  "internalId": 3203136183,
+  "name": "Redguard Awning, Wall",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varawninghigh002.png",
+  "bindType": -1,
+  "knownIds": [
+    134926
+  ]
+}

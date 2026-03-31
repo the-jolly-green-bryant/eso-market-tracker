@@ -1,0 +1,11 @@
+{
+  "internalId": 2981907179,
+  "name": "Mythic Items",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1491560,
+    1492196
+  ]
+}

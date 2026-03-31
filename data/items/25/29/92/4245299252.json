@@ -1,0 +1,17 @@
+{
+  "internalId": 4245299252,
+  "name": "Coward's Gear Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123364,
+    123384,
+    123404,
+    123424,
+    123444,
+    123464,
+    123484,
+    123504
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4102840147,
+  "name": "Stone-Nest Stairway, Wide",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_housingargstairs001.png",
+  "bindType": -1,
+  "knownIds": [
+    223834
+  ]
+}

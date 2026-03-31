@@ -1,0 +1,17 @@
+{
+  "internalId": 1828122035,
+  "name": "Ice Staff of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74902,
+    74923,
+    74944,
+    74965,
+    74986,
+    75007,
+    75028,
+    75049
+  ]
+}

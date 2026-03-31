@@ -1,0 +1,17 @@
+{
+  "internalId": 2014494799,
+  "name": "Hrothgar's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180780,
+    180800,
+    180820,
+    180840,
+    180860,
+    180880,
+    180900,
+    180920
+  ]
+}

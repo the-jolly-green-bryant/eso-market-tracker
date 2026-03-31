@@ -1,0 +1,10 @@
+{
+  "internalId": 3394302618,
+  "name": "High Elf Tapestry, Eagle",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_tapestry004.png",
+  "bindType": -1,
+  "knownIds": [
+    114400
+  ]
+}

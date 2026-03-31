@@ -1,0 +1,17 @@
+{
+  "internalId": 1238830703,
+  "name": "Lightning Staff of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80559,
+    80579,
+    80599,
+    80619,
+    80639,
+    80651,
+    80671,
+    80691
+  ]
+}

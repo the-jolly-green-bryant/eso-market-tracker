@@ -1,0 +1,12 @@
+{
+  "internalId": 86278039,
+  "name": "Battle Axe of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173471,
+    173506,
+    173541
+  ]
+}

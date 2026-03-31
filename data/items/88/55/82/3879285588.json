@@ -1,0 +1,19 @@
+{
+  "internalId": 3879285588,
+  "name": "Axe of Mephala's Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    924827,
+    1087911,
+    1097118,
+    1334149,
+    1337462,
+    1510685,
+    1578084,
+    1594927,
+    1655531,
+    1722940
+  ]
+}

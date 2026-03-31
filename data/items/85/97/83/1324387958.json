@@ -1,0 +1,17 @@
+{
+  "internalId": 1324387958,
+  "name": "Sabatons of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116539,
+    116559,
+    116579,
+    116599,
+    116619,
+    116639,
+    116659,
+    116679
+  ]
+}

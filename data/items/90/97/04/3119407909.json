@@ -1,0 +1,15 @@
+{
+  "internalId": 3119407909,
+  "name": "orichalc-steel greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    647735,
+    635706,
+    719413,
+    636042,
+    791159,
+    871659
+  ]
+}

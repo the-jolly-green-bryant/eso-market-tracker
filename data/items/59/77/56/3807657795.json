@@ -1,0 +1,17 @@
+{
+  "internalId": 3807657795,
+  "name": "Girdle of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101718,
+    101738,
+    101758,
+    101778,
+    101798,
+    101818,
+    101838,
+    101858
+  ]
+}

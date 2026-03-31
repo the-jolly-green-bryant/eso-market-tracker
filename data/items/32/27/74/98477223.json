@@ -1,0 +1,16 @@
+{
+  "internalId": 98477223,
+  "name": "Curse-Eating Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90827,
+    90848,
+    90869,
+    90890,
+    90911,
+    90932,
+    90953
+  ]
+}

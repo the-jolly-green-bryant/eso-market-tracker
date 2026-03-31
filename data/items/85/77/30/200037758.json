@@ -1,0 +1,17 @@
+{
+  "internalId": 200037758,
+  "name": "Sash of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100042,
+    100063,
+    100084,
+    100105,
+    100126,
+    100147,
+    100168,
+    100189
+  ]
+}

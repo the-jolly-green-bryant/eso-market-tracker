@@ -1,0 +1,17 @@
+{
+  "internalId": 540420945,
+  "name": "Systres' Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_sheild_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186259,
+    186279,
+    186299,
+    186319,
+    186339,
+    186359,
+    186379,
+    186399
+  ]
+}

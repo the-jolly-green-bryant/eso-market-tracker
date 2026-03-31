@@ -1,0 +1,16 @@
+{
+  "internalId": 1793067852,
+  "name": "Auroran's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1303536,
+    1549730,
+    1592424,
+    1594710,
+    1602065,
+    1622988,
+    1639819
+  ]
+}

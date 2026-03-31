@@ -1,0 +1,18 @@
+{
+  "internalId": 1958329203,
+  "name": "Xoryn's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_light_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1726327,
+    1733247,
+    1743037,
+    1750740,
+    1750803,
+    1755211,
+    1755448,
+    1758001,
+    1773595
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2554437545,
+  "name": "Ice Staff of the Voidcaller",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167606,
+    167627,
+    167648,
+    167669,
+    167690,
+    167711,
+    167732,
+    167753
+  ]
+}

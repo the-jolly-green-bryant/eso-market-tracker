@@ -1,0 +1,33 @@
+{
+  "internalId": 3024236315,
+  "name": "grand glyph of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_fireessence.png",
+  "bindType": -1,
+  "knownIds": [
+    765511,
+    450525,
+    407298,
+    460257,
+    452828,
+    364135,
+    460460,
+    407626,
+    631403,
+    479278,
+    479005,
+    375842,
+    375853,
+    383367,
+    509543,
+    363855,
+    520070,
+    409953,
+    495201,
+    1597995,
+    1631819,
+    1631857,
+    1654970,
+    1738979
+  ]
+}

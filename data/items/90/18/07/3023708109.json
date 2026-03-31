@@ -1,0 +1,22 @@
+{
+  "internalId": 3023708109,
+  "name": "Gossamer Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    919732,
+    937015,
+    938973,
+    994983,
+    1224103,
+    1277231,
+    1318695,
+    1343820,
+    1578078,
+    1594949,
+    1645072,
+    1680837,
+    1718786
+  ]
+}

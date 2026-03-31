@@ -1,0 +1,19 @@
+{
+  "internalId": 224451251,
+  "name": "Ice Staff of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161604,
+    161659,
+    161694,
+    161729,
+    161764,
+    161799,
+    161834,
+    161869,
+    161904,
+    161939
+  ]
+}

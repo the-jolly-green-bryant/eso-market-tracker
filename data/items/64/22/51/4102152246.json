@@ -1,0 +1,10 @@
+{
+  "internalId": 4102152246,
+  "name": "Crafting Motif 85: Greymoor Style",
+  "description": "Use to learn the Greymoor crafting style. Also teaches the equivalent Greymoor Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    160542
+  ]
+}

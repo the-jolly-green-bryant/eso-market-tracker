@@ -1,0 +1,10 @@
+{
+  "internalId": 3500485660,
+  "name": "Wood Elf Wall Hide, Spotted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrdecorativehided001.png",
+  "bindType": -1,
+  "knownIds": [
+    115576
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2100039876,
+  "name": "Beacon of Oblivion Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735595,
+    1742369,
+    1761552,
+    1763960,
+    1771459
+  ]
+}

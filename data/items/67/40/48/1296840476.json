@@ -1,0 +1,10 @@
+{
+  "internalId": 1296840476,
+  "name": "Plants, Swamp Pitcher Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdpitcherflowers005.png",
+  "bindType": -1,
+  "knownIds": [
+    125636
+  ]
+}

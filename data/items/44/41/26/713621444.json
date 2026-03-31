@@ -1,0 +1,17 @@
+{
+  "internalId": 713621444,
+  "name": "Rallying Cry Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183240,
+    183261,
+    183282,
+    183303,
+    183324,
+    183345,
+    183366,
+    183387
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 2167013881,
+  "name": "Stone-Talker's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1469317,
+    1472138,
+    1486205,
+    1492865,
+    1518682,
+    1522681,
+    1528230,
+    1543465,
+    1543535,
+    1582600,
+    1631035,
+    1643797
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 358440558,
+  "name": "Vivec's Battle Axe of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195766,
+    195787,
+    195808,
+    195829,
+    195850
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4082164580,
+  "name": "Full Belly Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214875,
+    214895,
+    214915,
+    214935,
+    214955,
+    214975,
+    214995,
+    215015
+  ]
+}

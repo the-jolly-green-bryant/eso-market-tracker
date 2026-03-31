@@ -1,0 +1,18 @@
+{
+  "internalId": 3927133079,
+  "name": "Shoes of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86759,
+    86780,
+    86801,
+    86822,
+    86843,
+    86864,
+    86885,
+    86906,
+    86927
+  ]
+}

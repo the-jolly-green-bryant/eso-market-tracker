@@ -1,0 +1,19 @@
+{
+  "internalId": 689835253,
+  "name": "Inferno Staff of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75744,
+    75779,
+    75814,
+    75849,
+    75884,
+    75919,
+    75954,
+    75989,
+    76024,
+    76059
+  ]
+}

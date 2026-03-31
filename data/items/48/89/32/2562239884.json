@@ -1,0 +1,11 @@
+{
+  "internalId": 2562239884,
+  "name": "Jerkin of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87390,
+    87453
+  ]
+}

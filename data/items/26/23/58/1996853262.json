@@ -1,0 +1,17 @@
+{
+  "internalId": 1996853262,
+  "name": "Plaguebreak Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180602,
+    180622,
+    180642,
+    180662,
+    180682,
+    180702,
+    180722,
+    180742
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 731644590,
+  "name": "Ravenwatch Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    402134,
+    550289,
+    616259
+  ]
+}

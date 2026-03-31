@@ -1,0 +1,14 @@
+{
+  "internalId": 3865214444,
+  "name": "Axe of the Hunt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1272775,
+    1530405,
+    1541832,
+    1693101,
+    1712781
+  ]
+}

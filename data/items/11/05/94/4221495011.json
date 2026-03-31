@@ -1,0 +1,16 @@
+{
+  "internalId": 4221495011,
+  "name": "Necklace of the Essence Thief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    981269,
+    1082715,
+    1083078,
+    1388906,
+    1421744,
+    1503631,
+    1507902
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 90843168,
+  "name": "Helm of House Selos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    577155,
+    423312,
+    451503,
+    747816,
+    747177,
+    809696,
+    790317
+  ]
+}

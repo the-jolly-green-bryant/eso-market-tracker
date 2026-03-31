@@ -1,0 +1,19 @@
+{
+  "internalId": 1689984480,
+  "name": "Innate Axiom Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130400,
+    130435,
+    130470,
+    130505,
+    130540,
+    130575,
+    130610,
+    130645,
+    130680,
+    130715
+  ]
+}

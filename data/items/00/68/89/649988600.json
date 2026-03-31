@@ -1,0 +1,10 @@
+{
+  "internalId": 649988600,
+  "name": "High Elf Trunk, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_treasurechest001.png",
+  "bindType": -1,
+  "knownIds": [
+    114358
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1944635473,
+  "name": "Mace of Transmutation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199586,
+    199587,
+    199588,
+    199589,
+    199590
+  ]
+}

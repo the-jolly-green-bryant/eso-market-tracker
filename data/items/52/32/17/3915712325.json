@@ -1,0 +1,10 @@
+{
+  "internalId": 3915712325,
+  "name": "Statue, Faith",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_exc_dbhstatuefaith001.png",
+  "bindType": -1,
+  "knownIds": [
+    120810
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 192788976,
+  "name": "Mushrooms, Glowing Sprawl",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_maltorshroomslgglw007.png",
+  "bindType": -1,
+  "knownIds": [
+    134970
+  ]
+}

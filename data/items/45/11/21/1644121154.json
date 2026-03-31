@@ -1,0 +1,10 @@
+{
+  "internalId": 1644121154,
+  "name": "Shipment of Birch",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    939699
+  ]
+}

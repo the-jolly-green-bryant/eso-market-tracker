@@ -1,0 +1,17 @@
+{
+  "internalId": 3510408894,
+  "name": "Afflicted Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89276,
+    89296,
+    89316,
+    89336,
+    89356,
+    89376,
+    89396,
+    89416
+  ]
+}

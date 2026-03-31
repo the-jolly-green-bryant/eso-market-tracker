@@ -1,0 +1,17 @@
+{
+  "internalId": 3202607675,
+  "name": "Plaguebreak Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180616,
+    180636,
+    180656,
+    180676,
+    180696,
+    180716,
+    180736,
+    180756
+  ]
+}

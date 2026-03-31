@@ -1,0 +1,29 @@
+{
+  "internalId": 1042188110,
+  "name": "The Thalmor Gavel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    583534,
+    589035,
+    793290,
+    876100,
+    1067374,
+    1157311,
+    1183021,
+    1203447,
+    1227735,
+    1287334,
+    1315049,
+    1317931,
+    1382783,
+    1475509,
+    1487642,
+    1565875,
+    1585310,
+    1627486,
+    1682252,
+    1774169
+  ]
+}

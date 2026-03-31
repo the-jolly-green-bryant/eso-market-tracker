@@ -1,0 +1,17 @@
+{
+  "internalId": 1090567591,
+  "name": "Ayleid Refuge Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_dagger.png",
+  "bindType": 2,
+  "knownIds": [
+    205228,
+    205248,
+    205268,
+    205288,
+    205308,
+    205328,
+    205348,
+    205368
+  ]
+}

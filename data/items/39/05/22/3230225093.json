@@ -1,0 +1,19 @@
+{
+  "internalId": 3230225093,
+  "name": "Threads of War Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206175,
+    206230,
+    206265,
+    206300,
+    206335,
+    206370,
+    206405,
+    206440,
+    206475,
+    206510
+  ]
+}

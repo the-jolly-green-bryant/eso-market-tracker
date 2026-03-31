@@ -1,0 +1,19 @@
+{
+  "internalId": 1250853301,
+  "name": "Unchained Aggressor's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158717,
+    158772,
+    158807,
+    158842,
+    158877,
+    158912,
+    158947,
+    158982,
+    159017,
+    159052
+  ]
+}

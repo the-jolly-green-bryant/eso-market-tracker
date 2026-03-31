@@ -1,0 +1,10 @@
+{
+  "internalId": 73345001,
+  "name": "Nord Bookcase, Alcove",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_bookcaselrg001.png",
+  "bindType": -1,
+  "knownIds": [
+    115400
+  ]
+}

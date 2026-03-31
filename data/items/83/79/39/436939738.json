@@ -1,0 +1,10 @@
+{
+  "internalId": 436939738,
+  "name": "High Elf Basin, Gilded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_flowerpotnodirt001.png",
+  "bindType": -1,
+  "knownIds": [
+    114334
+  ]
+}

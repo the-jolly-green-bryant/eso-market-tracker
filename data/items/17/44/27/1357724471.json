@@ -1,0 +1,17 @@
+{
+  "internalId": 1357724471,
+  "name": "Bow of Prayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90425,
+    90446,
+    90467,
+    90488,
+    90509,
+    90530,
+    90551,
+    90572
+  ]
+}

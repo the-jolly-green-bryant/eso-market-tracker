@@ -1,0 +1,10 @@
+{
+  "internalId": 3050933071,
+  "name": "Orange Tincture",
+  "description": "A potion of curious origin. Rumoured to aid detection.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_rajhins_cup.png",
+  "bindType": -1,
+  "knownIds": [
+    68354
+  ]
+}

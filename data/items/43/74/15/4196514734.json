@@ -1,0 +1,21 @@
+{
+  "internalId": 4196514734,
+  "name": "Shield of Spriggan's Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568067,
+    1570697,
+    1583891,
+    1598919,
+    1599991,
+    1602581,
+    1606837,
+    1611797,
+    1618062,
+    1634274,
+    1688266,
+    1754559
+  ]
+}

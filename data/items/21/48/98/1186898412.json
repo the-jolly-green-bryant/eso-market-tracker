@@ -1,0 +1,17 @@
+{
+  "internalId": 1186898412,
+  "name": "Shield of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89091,
+    89111,
+    89131,
+    89151,
+    89171,
+    89191,
+    89211,
+    89231
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 719611384,
+  "name": "Greaves of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204258,
+    204278,
+    204298,
+    204318,
+    204338,
+    204358,
+    204378,
+    204398
+  ]
+}

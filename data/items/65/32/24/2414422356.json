@@ -1,0 +1,10 @@
+{
+  "internalId": 2414422356,
+  "name": "Scuttlebloom",
+  "description": "Caught in the wild. This friendly scuttlebloom no longer panics when approached.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkspiderplant002.png",
+  "bindType": -1,
+  "knownIds": [
+    145595
+  ]
+}

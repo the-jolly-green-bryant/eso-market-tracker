@@ -1,0 +1,13 @@
+{
+  "internalId": 1646452551,
+  "name": "Adept Rider's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135944,
+    135979,
+    136014,
+    136049
+  ]
+}

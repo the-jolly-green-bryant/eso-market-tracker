@@ -1,0 +1,10 @@
+{
+  "internalId": 180791144,
+  "name": "Clam Gall",
+  "description": "An ingredient for alchemy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_sap.png",
+  "bindType": -1,
+  "knownIds": [
+    139020
+  ]
+}

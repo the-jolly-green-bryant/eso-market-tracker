@@ -1,0 +1,12 @@
+{
+  "internalId": 719986415,
+  "name": "Dauntless Combatant's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159356,
+    159391,
+    159426
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 2058861473,
+  "name": "Greatsword of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95317,
+    95337,
+    95357,
+    95377,
+    95397,
+    95417
+  ]
+}

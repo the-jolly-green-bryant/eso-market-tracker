@@ -1,0 +1,11 @@
+{
+  "internalId": 3426580931,
+  "name": "Bound Affix Script: Cowardice",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_cowardice.png",
+  "bindType": -1,
+  "knownIds": [
+    1719714,
+    1722517
+  ]
+}

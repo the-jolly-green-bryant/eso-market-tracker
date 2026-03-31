@@ -1,0 +1,10 @@
+{
+  "internalId": 2812927477,
+  "name": "Crafting Motif 94: Ancestral Reach Swords",
+  "description": "Use to learn how to make Ancestral Reach Swords. Also teaches the equivalent Ancestral Reach Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167284
+  ]
+}

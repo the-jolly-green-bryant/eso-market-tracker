@@ -1,0 +1,10 @@
+{
+  "internalId": 2868481539,
+  "name": "Child's Ambiguous Doll",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    795811
+  ]
+}

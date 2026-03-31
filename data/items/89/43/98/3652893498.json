@@ -1,0 +1,17 @@
+{
+  "internalId": 3652893498,
+  "name": "Mad Tinkerer's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132856,
+    132877,
+    132898,
+    132919,
+    132940,
+    132961,
+    132982,
+    133003
+  ]
+}

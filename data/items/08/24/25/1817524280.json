@@ -1,0 +1,10 @@
+{
+  "internalId": 1817524280,
+  "name": "Hosta, Orange",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_chl_greenhostaflowerorange001.png",
+  "bindType": -1,
+  "knownIds": [
+    211516
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 179921229,
+  "name": "Shield of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93917,
+    93937,
+    93957,
+    93977,
+    93997,
+    94017,
+    94037,
+    94057
+  ]
+}

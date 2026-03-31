@@ -1,0 +1,19 @@
+{
+  "internalId": 3872977453,
+  "name": "Restoration Staff of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71825,
+    71860,
+    71895,
+    71930,
+    71965,
+    72000,
+    72035,
+    72070,
+    72105,
+    72140
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2759015803,
+  "name": "Giant Clam, Ancient",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_geyserclam001.png",
+  "bindType": -1,
+  "knownIds": [
+    139060
+  ]
+}

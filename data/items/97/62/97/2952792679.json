@@ -1,0 +1,10 @@
+{
+  "internalId": 2952792679,
+  "name": "Falmer Gate, Stick",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrgate001.png",
+  "bindType": -1,
+  "knownIds": [
+    203151
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2999426084,
+  "name": "Fiord's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100363
+  ]
+}

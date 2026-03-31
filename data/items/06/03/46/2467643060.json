@@ -1,0 +1,12 @@
+{
+  "internalId": 2467643060,
+  "name": "Soulcleaver Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1689544,
+    1692772,
+    1723829
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1307266595,
+  "name": "Focus Script: Bleed Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_bleeding.png",
+  "bindType": -1,
+  "knownIds": [
+    204552
+  ]
+}

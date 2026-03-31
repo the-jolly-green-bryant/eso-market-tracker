@@ -1,0 +1,10 @@
+{
+  "internalId": 3033979390,
+  "name": "Abyssal Necklace",
+  "description": "A coral necklace that is strangely cold to the touch.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    138789
+  ]
+}

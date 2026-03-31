@@ -1,0 +1,10 @@
+{
+  "internalId": 1528396259,
+  "name": "Elsweyr Fish, Displayed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_fish001.png",
+  "bindType": -1,
+  "knownIds": [
+    151634
+  ]
+}

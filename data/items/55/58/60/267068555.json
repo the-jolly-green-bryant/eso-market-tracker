@@ -1,0 +1,14 @@
+{
+  "internalId": 267068555,
+  "name": "Grave-Stake Collector Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143006,
+    143041,
+    143076,
+    143111,
+    143146
+  ]
+}

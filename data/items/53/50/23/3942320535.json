@@ -1,0 +1,17 @@
+{
+  "internalId": 3942320535,
+  "name": "Camonna Tong Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195892,
+    195912,
+    195932,
+    195952,
+    195972,
+    195992,
+    196012,
+    196032
+  ]
+}

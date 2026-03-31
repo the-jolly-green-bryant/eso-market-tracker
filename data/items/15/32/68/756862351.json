@@ -1,0 +1,17 @@
+{
+  "internalId": 756862351,
+  "name": "Greatsword of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95650,
+    95670,
+    95690,
+    95710,
+    95730,
+    95750,
+    95770,
+    95790
+  ]
+}

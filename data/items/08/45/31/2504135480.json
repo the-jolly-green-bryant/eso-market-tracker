@@ -1,0 +1,10 @@
+{
+  "internalId": 2504135480,
+  "name": "Ring of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    90106
+  ]
+}

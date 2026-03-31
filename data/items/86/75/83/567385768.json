@@ -1,0 +1,10 @@
+{
+  "internalId": 567385768,
+  "name": "Harpy Totem, Feathered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_harpyscarecrow001.png",
+  "bindType": -1,
+  "knownIds": [
+    181543
+  ]
+}

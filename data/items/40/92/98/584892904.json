@@ -1,0 +1,17 @@
+{
+  "internalId": 584892904,
+  "name": "Storm Master's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1314087,
+    1408834,
+    1419271,
+    1526990,
+    1562871,
+    1598559,
+    1602487,
+    1626986
+  ]
+}

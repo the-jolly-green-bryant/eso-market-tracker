@@ -1,0 +1,10 @@
+{
+  "internalId": 927850904,
+  "name": "Leyawiin Wall, Wainscoted",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_housingleywallint001.png",
+  "bindType": -1,
+  "knownIds": [
+    181523
+  ]
+}

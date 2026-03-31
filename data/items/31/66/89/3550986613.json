@@ -1,0 +1,17 @@
+{
+  "internalId": 3550986613,
+  "name": "Hat of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98709,
+    98730,
+    98751,
+    98772,
+    98793,
+    98814,
+    98835,
+    98856
+  ]
+}

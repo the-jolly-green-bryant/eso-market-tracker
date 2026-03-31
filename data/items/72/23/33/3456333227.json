@@ -1,0 +1,29 @@
+{
+  "internalId": 3456333227,
+  "name": "Automated Defense Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_heavy_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1150889,
+    1154439,
+    1159836,
+    1168343,
+    1171943,
+    1182913,
+    1190490,
+    1354344,
+    1368050,
+    1399817,
+    1457671,
+    1462749,
+    1465142,
+    1537120,
+    1537868,
+    1540916,
+    1541554,
+    1560123,
+    1591074,
+    1697021
+  ]
+}

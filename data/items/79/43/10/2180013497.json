@@ -1,0 +1,17 @@
+{
+  "internalId": 2180013497,
+  "name": "Macabre Vintage Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205076,
+    205096,
+    205116,
+    205136,
+    205156,
+    205176,
+    205196,
+    205216
+  ]
+}

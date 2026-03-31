@@ -1,0 +1,16 @@
+{
+  "internalId": 3524612042,
+  "name": "Sithis' Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77302,
+    77337,
+    77372,
+    77407,
+    77442,
+    77477,
+    77512
+  ]
+}

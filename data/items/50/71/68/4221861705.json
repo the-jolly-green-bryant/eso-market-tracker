@@ -1,0 +1,10 @@
+{
+  "internalId": 4221861705,
+  "name": "A Guide to Dwemer Mega-Structures",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook003.png",
+  "bindType": -1,
+  "knownIds": [
+    126138
+  ]
+}

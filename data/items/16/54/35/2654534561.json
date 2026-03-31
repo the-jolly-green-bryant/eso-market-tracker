@@ -1,0 +1,17 @@
+{
+  "internalId": 2654534561,
+  "name": "Witchman's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_dagger_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101523,
+    101543,
+    101563,
+    101583,
+    101603,
+    101623,
+    101643,
+    101663
+  ]
+}

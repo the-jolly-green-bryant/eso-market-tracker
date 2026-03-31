@@ -1,0 +1,10 @@
+{
+  "internalId": 1730247069,
+  "name": "Seal of Clan Igrun, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_plateigronmetal001.png",
+  "bindType": -1,
+  "knownIds": [
+    134449
+  ]
+}

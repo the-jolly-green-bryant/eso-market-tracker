@@ -1,0 +1,10 @@
+{
+  "internalId": 38840451,
+  "name": "Pact's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    54452
+  ]
+}

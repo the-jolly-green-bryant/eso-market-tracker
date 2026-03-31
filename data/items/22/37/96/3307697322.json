@@ -1,0 +1,19 @@
+{
+  "internalId": 3307697322,
+  "name": "Battle Axe of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75739,
+    75774,
+    75809,
+    75844,
+    75879,
+    75914,
+    75949,
+    75984,
+    76019,
+    76054
+  ]
+}

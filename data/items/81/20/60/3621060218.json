@@ -1,0 +1,17 @@
+{
+  "internalId": 3621060218,
+  "name": "Galerion's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78057,
+    78092,
+    78127,
+    78162,
+    78197,
+    78232,
+    78267,
+    78302
+  ]
+}

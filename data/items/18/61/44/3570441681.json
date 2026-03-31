@@ -1,0 +1,19 @@
+{
+  "internalId": 3570441681,
+  "name": "Tharriker's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205418,
+    205473,
+    205508,
+    205543,
+    205578,
+    205613,
+    205648,
+    205683,
+    205718,
+    205753
+  ]
+}

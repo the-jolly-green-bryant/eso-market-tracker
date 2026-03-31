@@ -1,0 +1,10 @@
+{
+  "internalId": 2142639884,
+  "name": "Druidic Bed, Ivy Stone Double",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonebedsingle002.png",
+  "bindType": -1,
+  "knownIds": [
+    191173
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3595952428,
+  "name": "Bush, Flowering Ivy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_ivy_magicflowers01.png",
+  "bindType": -1,
+  "knownIds": [
+    182613
+  ]
+}

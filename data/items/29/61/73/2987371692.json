@@ -1,0 +1,17 @@
+{
+  "internalId": 2987371692,
+  "name": "Alessian Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88005,
+    88025,
+    88045,
+    88065,
+    88085,
+    88105,
+    88125,
+    88145
+  ]
+}

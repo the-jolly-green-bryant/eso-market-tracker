@@ -1,0 +1,10 @@
+{
+  "internalId": 3886776995,
+  "name": "Night Market Consumables",
+  "description": "An assortment of new Consumables available for the Night Market update.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    225004
+  ]
+}

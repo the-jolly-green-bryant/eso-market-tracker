@@ -1,0 +1,10 @@
+{
+  "internalId": 773390546,
+  "name": "Orcish Skull Goblet, Empty",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgskullcupempty001.png",
+  "bindType": -1,
+  "knownIds": [
+    116475
+  ]
+}

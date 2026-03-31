@@ -1,0 +1,10 @@
+{
+  "internalId": 1753002222,
+  "name": "Daedric Candles, Group",
+  "description": "This is a small sized house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candlesetblueflame002.png",
+  "bindType": -1,
+  "knownIds": [
+    126126
+  ]
+}

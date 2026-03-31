@@ -1,0 +1,19 @@
+{
+  "internalId": 780357283,
+  "name": "Telvanni Efficiency Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194955,
+    195010,
+    195045,
+    195080,
+    195115,
+    195150,
+    195185,
+    195220,
+    195255,
+    195290
+  ]
+}

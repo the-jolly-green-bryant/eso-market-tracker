@@ -1,0 +1,12 @@
+{
+  "internalId": 3925639674,
+  "name": "Crypt Jar",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_symbol_001.png",
+  "bindType": -1,
+  "knownIds": [
+    858196,
+    865358,
+    1324942
+  ]
+}

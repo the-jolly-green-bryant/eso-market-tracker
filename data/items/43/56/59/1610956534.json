@@ -1,0 +1,10 @@
+{
+  "internalId": 1610956534,
+  "name": "Sealed Imperial Summons",
+  "description": "This letter bears the seal of the Chancellor of the Elder Council in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
+  "bindType": 3,
+  "knownIds": [
+    145571
+  ]
+}

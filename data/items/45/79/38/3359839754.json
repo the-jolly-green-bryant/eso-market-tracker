@@ -1,0 +1,10 @@
+{
+  "internalId": 3359839754,
+  "name": "Surcoat of the Psijic Order",
+  "description": "Embroidered with Psijic designs, this elegant robe is stronger than it appears.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134707
+  ]
+}

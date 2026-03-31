@@ -1,0 +1,19 @@
+{
+  "internalId": 1730433687,
+  "name": "Tide-Born Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215502,
+    215557,
+    215592,
+    215627,
+    215662,
+    215697,
+    215732,
+    215767,
+    215802,
+    215837
+  ]
+}

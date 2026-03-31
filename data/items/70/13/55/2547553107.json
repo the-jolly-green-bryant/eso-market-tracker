@@ -1,0 +1,22 @@
+{
+  "internalId": 2547553107,
+  "name": "Bow of Succession",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1182313,
+    1255723,
+    1281241,
+    1332377,
+    1332799,
+    1370840,
+    1397176,
+    1415423,
+    1513179,
+    1515426,
+    1516579,
+    1583410,
+    1632573
+  ]
+}

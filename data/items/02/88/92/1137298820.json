@@ -1,0 +1,19 @@
+{
+  "internalId": 1137298820,
+  "name": "Greatsword of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185156,
+    185211,
+    185246,
+    185281,
+    185316,
+    185351,
+    185386,
+    185421,
+    185456,
+    185491
+  ]
+}

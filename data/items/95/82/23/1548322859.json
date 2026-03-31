@@ -1,0 +1,17 @@
+{
+  "internalId": 1548322859,
+  "name": "Full Belly Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214877,
+    214897,
+    214917,
+    214937,
+    214957,
+    214977,
+    214997,
+    215017
+  ]
+}

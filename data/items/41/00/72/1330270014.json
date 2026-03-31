@@ -1,0 +1,13 @@
+{
+  "internalId": 1330270014,
+  "name": "Test of Resolve Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1647315,
+    1761575,
+    1763845,
+    1770439
+  ]
+}

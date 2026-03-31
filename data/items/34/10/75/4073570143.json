@@ -1,0 +1,10 @@
+{
+  "internalId": 4073570143,
+  "name": "Baron Sorick's Pauldrons",
+  "description": "These pauldrons were a gift to the hero who exposed Baron Sorick's nefarious plot in Dreughside.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2474
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": 3208852610,
+  "name": "Ice Staff of Catalyst",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1380299,
+    1387734,
+    1398700,
+    1399862,
+    1412865,
+    1418434,
+    1529082,
+    1543175,
+    1559154,
+    1577356,
+    1619310,
+    1718151,
+    1731136,
+    1753146,
+    1773890,
+    1779696
+  ]
+}

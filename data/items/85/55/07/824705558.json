@@ -1,0 +1,19 @@
+{
+  "internalId": 824705558,
+  "name": "Gloves of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60667,
+    60702,
+    60737,
+    60772,
+    60807,
+    60842,
+    60877,
+    60912,
+    60947,
+    60982
+  ]
+}

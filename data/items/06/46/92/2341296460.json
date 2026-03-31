@@ -1,0 +1,12 @@
+{
+  "internalId": 2341296460,
+  "name": "Battle Axe of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99169,
+    99189,
+    99209
+  ]
+}

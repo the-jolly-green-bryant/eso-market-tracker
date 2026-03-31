@@ -1,0 +1,10 @@
+{
+  "internalId": 1114882082,
+  "name": "Redguard Vanity, Florid",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_dresser001.png",
+  "bindType": -1,
+  "knownIds": [
+    117713
+  ]
+}

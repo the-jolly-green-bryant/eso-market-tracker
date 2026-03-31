@@ -1,0 +1,13 @@
+{
+  "internalId": 703801052,
+  "name": "Restoration Staff of the Worm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77749,
+    77785,
+    77821,
+    77857
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 30909881,
+  "name": "Mace of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87501,
+    87521,
+    87541,
+    87561,
+    87581,
+    87601,
+    87621
+  ]
+}

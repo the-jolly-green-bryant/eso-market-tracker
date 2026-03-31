@@ -1,0 +1,10 @@
+{
+  "internalId": 1346938207,
+  "name": "Robes of Hist",
+  "description": "A Light Armor set found in Shadowfen.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114229
+  ]
+}

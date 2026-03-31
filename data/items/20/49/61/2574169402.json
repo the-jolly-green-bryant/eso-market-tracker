@@ -1,0 +1,10 @@
+{
+  "internalId": 2574169402,
+  "name": "Rubedite Ingot",
+  "description": "An ingredient for crafting metal weapons and armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_colossus_iron.png",
+  "bindType": -1,
+  "knownIds": [
+    64489
+  ]
+}

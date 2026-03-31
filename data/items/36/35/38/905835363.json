@@ -1,0 +1,10 @@
+{
+  "internalId": 905835363,
+  "name": "Crafting Motif 48: Ashlander Bows",
+  "description": "Use to learn how to make Ashlander Bows. Also teaches the equivalent Ashlander Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    124683
+  ]
+}

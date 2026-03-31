@@ -1,0 +1,17 @@
+{
+  "internalId": 2672952794,
+  "name": "Macabre Vintage Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_mace.png",
+  "bindType": 2,
+  "knownIds": [
+    205058,
+    205078,
+    205098,
+    205118,
+    205138,
+    205158,
+    205178,
+    205198
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 740611576,
+  "name": "Elsweyr Gate, Masterwork",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_waf_wallscitymediumportcullisgate001.png",
+  "bindType": -1,
+  "knownIds": [
+    153651
+  ]
+}

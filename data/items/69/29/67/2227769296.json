@@ -1,0 +1,22 @@
+{
+  "internalId": 2227769296,
+  "name": "Bone Pirate's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1169774,
+    1307107,
+    1343267,
+    1364178,
+    1401029,
+    1417742,
+    1479314,
+    1510825,
+    1536401,
+    1543890,
+    1573790,
+    1578146,
+    1592391
+  ]
+}

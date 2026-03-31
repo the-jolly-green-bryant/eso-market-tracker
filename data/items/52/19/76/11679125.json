@@ -1,0 +1,16 @@
+{
+  "internalId": 11679125,
+  "name": "Shield of Ursus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1305706,
+    1375937,
+    1402017,
+    1583668,
+    1642676,
+    1731757,
+    1764769
+  ]
+}

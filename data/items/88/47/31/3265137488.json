@@ -1,0 +1,19 @@
+{
+  "internalId": 3265137488,
+  "name": "Plague Slinger Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_2hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1314750,
+    1384673,
+    1410425,
+    1457435,
+    1564610,
+    1606532,
+    1634139,
+    1661300,
+    1741583,
+    1747658
+  ]
+}

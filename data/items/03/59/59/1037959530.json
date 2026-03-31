@@ -1,0 +1,10 @@
+{
+  "internalId": 1037959530,
+  "name": "Alinor Sarcophagus, Wedge",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_sarcophagus001.png",
+  "bindType": -1,
+  "knownIds": [
+    139182
+  ]
+}

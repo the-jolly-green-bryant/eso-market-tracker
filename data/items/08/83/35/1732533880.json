@@ -1,0 +1,10 @@
+{
+  "internalId": 1732533880,
+  "name": "Blood-Red Brogans",
+  "description": "You received these boots after resolving the vampire dilemma at the Orchard beyond the Chasm.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15773
+  ]
+}

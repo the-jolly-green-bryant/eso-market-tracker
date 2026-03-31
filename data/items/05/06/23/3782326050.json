@@ -1,0 +1,17 @@
+{
+  "internalId": 3782326050,
+  "name": "Sash of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91011,
+    91032,
+    91053,
+    91074,
+    91095,
+    91116,
+    91137,
+    91158
+  ]
+}

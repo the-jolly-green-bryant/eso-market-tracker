@@ -1,0 +1,19 @@
+{
+  "internalId": 523710717,
+  "name": "Clever Alchemist Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72149,
+    72184,
+    72219,
+    72254,
+    72289,
+    72324,
+    72359,
+    72394,
+    72429,
+    72464
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3623528694,
+  "name": "Epaulets of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70084,
+    70119,
+    70154,
+    70189,
+    70224,
+    70259
+  ]
+}

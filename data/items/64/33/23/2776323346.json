@@ -1,0 +1,10 @@
+{
+  "internalId": 2776323346,
+  "name": "Telvanni Lamp, Organic Amber",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_telfloorlampyellow001.png",
+  "bindType": -1,
+  "knownIds": [
+    126476
+  ]
+}

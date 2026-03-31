@@ -1,0 +1,17 @@
+{
+  "internalId": 725737323,
+  "name": "Defiler's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122986,
+    123006,
+    123026,
+    123046,
+    123066,
+    123086,
+    123106,
+    123126
+  ]
+}

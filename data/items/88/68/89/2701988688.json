@@ -1,0 +1,10 @@
+{
+  "internalId": 2701988688,
+  "name": "Runner of the Oasis, Faded",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugrunnerworn001.png",
+  "bindType": -1,
+  "knownIds": [
+    118156
+  ]
+}

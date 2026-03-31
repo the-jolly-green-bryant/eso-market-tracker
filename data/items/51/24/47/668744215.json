@@ -1,0 +1,17 @@
+{
+  "internalId": 668744215,
+  "name": "Spriggan's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100604,
+    100624,
+    100644,
+    100664,
+    100684,
+    100704,
+    100724,
+    100744
+  ]
+}

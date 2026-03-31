@@ -1,0 +1,10 @@
+{
+  "internalId": 4233056687,
+  "name": "Rough Firewood, Stack",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_logpilecut001.png",
+  "bindType": -1,
+  "knownIds": [
+    117982
+  ]
+}

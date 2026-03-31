@@ -1,0 +1,17 @@
+{
+  "internalId": 1944338367,
+  "name": "Smuggler's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100955,
+    100976,
+    100997,
+    101018,
+    101039,
+    101060,
+    101081,
+    101102
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3550802058,
+  "name": "Crafting Motif 39: Minotaur Bows",
+  "description": "Use to learn how to make Minotaur Bows. Also teaches the equivalent Minotaur Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    82075
+  ]
+}

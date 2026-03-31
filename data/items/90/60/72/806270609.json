@@ -1,0 +1,10 @@
+{
+  "internalId": 806270609,
+  "name": "Orthelos' Torchstaff",
+  "description": "This staff smolders brightly in the darkness. If kept alight for too long, the bearer begins to crave roasted acorns.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1666
+  ]
+}

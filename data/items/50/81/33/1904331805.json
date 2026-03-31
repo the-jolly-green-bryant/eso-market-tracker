@@ -1,0 +1,10 @@
+{
+  "internalId": 1904331805,
+  "name": "High Elf Counter, Block",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_countershort001.png",
+  "bindType": -1,
+  "knownIds": [
+    114383
+  ]
+}

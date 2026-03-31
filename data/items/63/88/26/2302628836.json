@@ -1,0 +1,19 @@
+{
+  "internalId": 2302628836,
+  "name": "Battle Axe of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185154,
+    185209,
+    185244,
+    185279,
+    185314,
+    185349,
+    185384,
+    185419,
+    185454,
+    185489
+  ]
+}

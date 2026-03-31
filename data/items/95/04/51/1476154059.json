@@ -1,0 +1,10 @@
+{
+  "internalId": 1476154059,
+  "name": "Focus Script: Dispel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_dispelled.png",
+  "bindType": -1,
+  "knownIds": [
+    204565
+  ]
+}

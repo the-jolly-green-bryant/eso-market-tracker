@@ -1,0 +1,15 @@
+{
+  "internalId": 360877054,
+  "name": "Knight Slayer Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123584,
+    123605,
+    123626,
+    123647,
+    123668,
+    123689
+  ]
+}

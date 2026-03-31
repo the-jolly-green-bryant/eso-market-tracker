@@ -1,0 +1,23 @@
+{
+  "internalId": 557808974,
+  "name": "Lucent Echoes Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719828,
+    1726328,
+    1727447,
+    1731561,
+    1732393,
+    1732698,
+    1734390,
+    1738278,
+    1738788,
+    1739949,
+    1740276,
+    1745734,
+    1754554,
+    1758388
+  ]
+}

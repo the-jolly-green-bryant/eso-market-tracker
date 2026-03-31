@@ -1,0 +1,10 @@
+{
+  "internalId": 2249005548,
+  "name": "Plant, Murkmire Snakevine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mrksnakeplant001.png",
+  "bindType": -1,
+  "knownIds": [
+    166001
+  ]
+}

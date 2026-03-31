@@ -1,0 +1,20 @@
+{
+  "internalId": 3548875831,
+  "name": "Ice Staff of Drake's Rush",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1416745,
+    1422768,
+    1422850,
+    1492797,
+    1544808,
+    1546598,
+    1553243,
+    1560409,
+    1606611,
+    1627662,
+    1747325
+  ]
+}

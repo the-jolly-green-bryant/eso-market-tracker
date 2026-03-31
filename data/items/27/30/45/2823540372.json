@@ -1,0 +1,13 @@
+{
+  "internalId": 2823540372,
+  "name": "Girdle of the Wyrd Tree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96870,
+    96890,
+    96910,
+    96930
+  ]
+}

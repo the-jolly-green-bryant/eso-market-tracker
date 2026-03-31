@@ -1,0 +1,10 @@
+{
+  "internalId": 2235774292,
+  "name": "Prismatic Greatblade",
+  "description": "The pure fire of Meridia's Gift emanates from within the blade. Just holding it in your hand makes the darkness retreat.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_2hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    61016
+  ]
+}

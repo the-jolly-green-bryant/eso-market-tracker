@@ -1,0 +1,10 @@
+{
+  "internalId": 2456551657,
+  "name": "Jester's Pavilion, Open",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_cmp_jestertents001.png",
+  "bindType": -1,
+  "knownIds": [
+    134959
+  ]
+}

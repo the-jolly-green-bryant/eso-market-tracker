@@ -1,0 +1,10 @@
+{
+  "internalId": 666580272,
+  "name": "Peaches, Bunch",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketproducepile003.png",
+  "bindType": -1,
+  "knownIds": [
+    118135
+  ]
+}

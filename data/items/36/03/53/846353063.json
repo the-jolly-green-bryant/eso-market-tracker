@@ -1,0 +1,14 @@
+{
+  "internalId": 846353063,
+  "name": "Eternal Hunt Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72690,
+    72725,
+    72760,
+    72795,
+    72830
+  ]
+}

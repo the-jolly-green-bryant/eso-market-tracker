@@ -1,0 +1,10 @@
+{
+  "internalId": 1975566600,
+  "name": "Cheeses of Tamriel",
+  "description": "Master Chef Gilbard Larocque's timeless treatise on cheeses across Tamriel, from Skyrim to Elsweyr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
+  "bindType": -1,
+  "knownIds": [
+    121046
+  ]
+}

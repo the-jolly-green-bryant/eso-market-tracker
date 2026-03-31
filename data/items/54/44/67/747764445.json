@@ -1,0 +1,17 @@
+{
+  "internalId": 747764445,
+  "name": "Shell Splitter Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194027,
+    194047,
+    194067,
+    194087,
+    194107,
+    194127,
+    194147,
+    194167
+  ]
+}

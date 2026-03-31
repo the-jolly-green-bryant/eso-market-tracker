@@ -1,0 +1,16 @@
+{
+  "internalId": 2637390280,
+  "name": "Greaves of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80414,
+    80434,
+    80454,
+    80474,
+    80506,
+    80526,
+    80546
+  ]
+}

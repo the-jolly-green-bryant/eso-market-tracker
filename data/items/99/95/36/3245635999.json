@@ -1,0 +1,19 @@
+{
+  "internalId": 3245635999,
+  "name": "Bow of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1518531,
+    1542361,
+    1567876,
+    1573375,
+    1573843,
+    1582367,
+    1583118,
+    1623938,
+    1680377,
+    1727086
+  ]
+}

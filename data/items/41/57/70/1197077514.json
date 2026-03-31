@@ -1,0 +1,10 @@
+{
+  "internalId": 1197077514,
+  "name": "Garnikh's Bite",
+  "description": "This axe is as worn and caustic as Garnikh himself. Tiny chunks of what may have once been a scalp are still stuck to the blade.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54866
+  ]
+}

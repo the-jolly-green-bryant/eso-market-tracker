@@ -1,0 +1,10 @@
+{
+  "internalId": 318397288,
+  "name": "Breton Sconce, Wall",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_canwallsimple001.png",
+  "bindType": -1,
+  "knownIds": [
+    115243
+  ]
+}

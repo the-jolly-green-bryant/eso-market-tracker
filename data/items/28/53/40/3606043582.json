@@ -1,0 +1,18 @@
+{
+  "internalId": 3606043582,
+  "name": "Azureblight Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_axe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1349488,
+    1401645,
+    1401998,
+    1489487,
+    1510153,
+    1543148,
+    1583619,
+    1617967,
+    1760791
+  ]
+}

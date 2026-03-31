@@ -1,0 +1,15 @@
+{
+  "internalId": 1012192909,
+  "name": "Icebound Vertebra",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_frost_blue_ice.png",
+  "bindType": -1,
+  "knownIds": [
+    792906,
+    827324,
+    834466,
+    1081809,
+    1143914,
+    1326775
+  ]
+}

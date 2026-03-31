@@ -1,0 +1,10 @@
+{
+  "internalId": 4098322724,
+  "name": "Plants, Hanging Pitcher Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdhangingpitcher003.png",
+  "bindType": -1,
+  "knownIds": [
+    125632
+  ]
+}

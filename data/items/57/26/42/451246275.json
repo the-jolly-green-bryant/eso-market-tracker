@@ -1,0 +1,10 @@
+{
+  "internalId": 451246275,
+  "name": "Signed Konunleikar Event Schedule",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_flag_001.png",
+  "bindType": -1,
+  "knownIds": [
+    804287
+  ]
+}

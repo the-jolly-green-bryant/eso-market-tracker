@@ -1,0 +1,10 @@
+{
+  "internalId": 739223683,
+  "name": "Turpen",
+  "description": "Improve quality from green to blue.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_turpen.png",
+  "bindType": -1,
+  "knownIds": [
+    54179
+  ]
+}

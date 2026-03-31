@@ -1,0 +1,10 @@
+{
+  "internalId": 1643855409,
+  "name": "Bronze",
+  "description": "An ingredient for crafting in the Barbaric style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_potion_standard_f_001.png",
+  "bindType": -1,
+  "knownIds": [
+    46149
+  ]
+}

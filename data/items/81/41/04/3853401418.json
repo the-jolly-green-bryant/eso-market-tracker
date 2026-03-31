@@ -1,0 +1,14 @@
+{
+  "internalId": 3853401418,
+  "name": "Ice Staff of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75132,
+    75152,
+    75172,
+    75192,
+    75212
+  ]
+}

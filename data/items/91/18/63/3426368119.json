@@ -1,0 +1,17 @@
+{
+  "internalId": 3426368119,
+  "name": "Smuggler's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100962,
+    100983,
+    101004,
+    101025,
+    101046,
+    101067,
+    101088,
+    101109
+  ]
+}

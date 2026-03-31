@@ -1,0 +1,14 @@
+{
+  "internalId": 1349042404,
+  "name": "Marksman's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199499,
+    199500,
+    199501,
+    199502,
+    199503
+  ]
+}

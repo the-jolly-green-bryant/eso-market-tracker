@@ -1,0 +1,19 @@
+{
+  "internalId": 4222765053,
+  "name": "Innate Axiom Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130396,
+    130431,
+    130466,
+    130501,
+    130536,
+    130571,
+    130606,
+    130641,
+    130676,
+    130711
+  ]
+}

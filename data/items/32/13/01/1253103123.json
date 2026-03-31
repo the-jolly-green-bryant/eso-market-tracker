@@ -1,0 +1,11 @@
+{
+  "internalId": 1253103123,
+  "name": "Spattering Disjunction Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1735176,
+    1777410
+  ]
+}

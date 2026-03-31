@@ -1,0 +1,18 @@
+{
+  "internalId": 4212616425,
+  "name": "Shoes of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97233,
+    97254,
+    97275,
+    97296,
+    97317,
+    97338,
+    97359,
+    97380,
+    97401
+  ]
+}

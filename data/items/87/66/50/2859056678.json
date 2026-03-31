@@ -1,0 +1,10 @@
+{
+  "internalId": 2859056678,
+  "name": "Argonian Mat, Rolled Reed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_inc_matreed002.png",
+  "bindType": -1,
+  "knownIds": [
+    115455
+  ]
+}

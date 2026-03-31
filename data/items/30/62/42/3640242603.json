@@ -1,0 +1,11 @@
+{
+  "internalId": 3640242603,
+  "name": "strong glyph of poison resist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_poisonresist.png",
+  "bindType": -1,
+  "knownIds": [
+    504993,
+    1445786
+  ]
+}

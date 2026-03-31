@@ -1,0 +1,17 @@
+{
+  "internalId": 744989020,
+  "name": "Wizard's Riposte Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123743,
+    123764,
+    123785,
+    123806,
+    123827,
+    123848,
+    123869,
+    123890
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 78056520,
+  "name": "Lightning Staff of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90118,
+    90131,
+    90144,
+    90157,
+    90170,
+    90183,
+    90196,
+    90209
+  ]
+}

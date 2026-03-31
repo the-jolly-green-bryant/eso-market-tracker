@@ -1,0 +1,17 @@
+{
+  "internalId": 1912547415,
+  "name": "Shoes of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211597,
+    211618,
+    211639,
+    211660,
+    211681,
+    211702,
+    211723,
+    211744
+  ]
+}

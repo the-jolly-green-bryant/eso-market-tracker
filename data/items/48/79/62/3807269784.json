@@ -1,0 +1,10 @@
+{
+  "internalId": 3807269784,
+  "name": "Grips of the Realmstrider",
+  "description": "Crafted for one who walks the skeins between planes, these gloves retain the touch of realms long departed.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223676
+  ]
+}

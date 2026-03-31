@@ -1,0 +1,17 @@
+{
+  "internalId": 3858073540,
+  "name": "Battle Axe of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114656,
+    114676,
+    114696,
+    114716,
+    114736,
+    114756,
+    114776,
+    114796
+  ]
+}

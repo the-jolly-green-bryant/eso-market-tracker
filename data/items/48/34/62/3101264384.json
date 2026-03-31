@@ -1,0 +1,13 @@
+{
+  "internalId": 3101264384,
+  "name": "Tarnished Nightmare Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1702846,
+    1729107,
+    1732146,
+    1779233
+  ]
+}

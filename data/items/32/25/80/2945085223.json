@@ -1,0 +1,19 @@
+{
+  "internalId": 2945085223,
+  "name": "Heartland Conqueror's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172842,
+    172897,
+    172932,
+    172967,
+    173002,
+    173037,
+    173072,
+    173107,
+    173142,
+    173177
+  ]
+}

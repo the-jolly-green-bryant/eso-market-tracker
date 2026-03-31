@@ -1,0 +1,10 @@
+{
+  "internalId": 8613290,
+  "name": "Dwarven Glass Armonica",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_emoteglassarmonica001.png",
+  "bindType": -1,
+  "knownIds": [
+    212378
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1666387315,
+  "name": "Netch Oil Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211924,
+    211944,
+    211964,
+    211984,
+    212004,
+    212024,
+    212044,
+    212064
+  ]
+}

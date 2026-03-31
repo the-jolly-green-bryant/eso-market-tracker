@@ -1,0 +1,10 @@
+{
+  "internalId": 788703727,
+  "name": "Fargrave Water Globules, Static",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farwallfloatingwater001.png",
+  "bindType": -1,
+  "knownIds": [
+    184098
+  ]
+}

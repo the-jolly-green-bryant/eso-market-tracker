@@ -1,0 +1,10 @@
+{
+  "internalId": 2944387207,
+  "name": "Acrobat's Boots",
+  "description": "Courtesy of the the Dancing Scrib carnival, these snug shoes provide excellent grip.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15578
+  ]
+}

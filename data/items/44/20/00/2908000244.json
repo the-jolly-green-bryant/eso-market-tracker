@@ -1,0 +1,10 @@
+{
+  "internalId": 2908000244,
+  "name": "Worm Cult Bench, Padded Backed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_benchhigh002.png",
+  "bindType": -1,
+  "knownIds": [
+    220308
+  ]
+}

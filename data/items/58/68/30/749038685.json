@@ -1,0 +1,17 @@
+{
+  "internalId": 749038685,
+  "name": "Inferno Staff of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117461,
+    117481,
+    117501,
+    117521,
+    117541,
+    117561,
+    117581,
+    117601
+  ]
+}

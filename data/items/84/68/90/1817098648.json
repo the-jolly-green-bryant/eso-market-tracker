@@ -1,0 +1,17 @@
+{
+  "internalId": 1817098648,
+  "name": "Sword of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80551,
+    80571,
+    80591,
+    80611,
+    80631,
+    80643,
+    80663,
+    80683
+  ]
+}

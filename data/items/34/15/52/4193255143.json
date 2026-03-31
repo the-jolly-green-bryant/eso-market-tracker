@@ -1,0 +1,10 @@
+{
+  "internalId": 4193255143,
+  "name": "Solitude Serving Pot, Vegetable Soup",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodsoupveg001.png",
+  "bindType": -1,
+  "knownIds": [
+    165790
+  ]
+}

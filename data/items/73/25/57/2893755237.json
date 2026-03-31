@@ -1,0 +1,10 @@
+{
+  "internalId": 2893755237,
+  "name": "Discarded Bonds of the Hatchling's Shell",
+  "description": "These metal bonds are strong but restricting.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43033
+  ]
+}

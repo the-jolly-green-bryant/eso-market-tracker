@@ -1,0 +1,10 @@
+{
+  "internalId": 793157680,
+  "name": "Crafting Motif 108: Fargrave Guardian Belts",
+  "description": "Use to learn how to make Fargrave Guardian Belts. Also teaches the equivalent Fargrave Guardian Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    178708
+  ]
+}

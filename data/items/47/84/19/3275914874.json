@@ -1,0 +1,10 @@
+{
+  "internalId": 3275914874,
+  "name": "Stone, Angled Grey",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_craglornsmall004.png",
+  "bindType": -1,
+  "knownIds": [
+    120967
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3864739857,
+  "name": "Carpet of the Sun, Faded Summer",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn001.png",
+  "bindType": -1,
+  "knownIds": [
+    118158
+  ]
+}

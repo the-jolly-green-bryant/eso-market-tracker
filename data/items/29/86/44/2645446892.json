@@ -1,0 +1,17 @@
+{
+  "internalId": 2645446892,
+  "name": "Battle Axe of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86193,
+    86214,
+    86235,
+    86256,
+    86277,
+    86298,
+    86319,
+    86340
+  ]
+}

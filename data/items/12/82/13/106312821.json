@@ -1,0 +1,10 @@
+{
+  "internalId": 106312821,
+  "name": "Recipe: Tonic of Portent Favor, Eyes Fragment",
+  "description": "One third of the Tonic of Portent Favor Recipe, only found while pledged to the Thousand Eyes faction. Other factions hold claim over the rest of the required recipe fragments.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_004.png",
+  "bindType": -1,
+  "knownIds": [
+    224841
+  ]
+}

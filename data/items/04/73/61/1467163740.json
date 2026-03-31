@@ -1,0 +1,17 @@
+{
+  "internalId": 1467163740,
+  "name": "Reactive Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117276,
+    117296,
+    117316,
+    117336,
+    117356,
+    117376,
+    117396,
+    117416
+  ]
+}

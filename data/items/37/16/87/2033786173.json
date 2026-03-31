@@ -1,0 +1,10 @@
+{
+  "internalId": 2033786173,
+  "name": "Hlaalu Nightstand, Formal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlanightstand002.png",
+  "bindType": -1,
+  "knownIds": [
+    126506
+  ]
+}

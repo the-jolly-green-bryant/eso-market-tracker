@@ -1,0 +1,17 @@
+{
+  "internalId": 620345010,
+  "name": "Hew and Sunder Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183420,
+    183440,
+    183460,
+    183480,
+    183500,
+    183520,
+    183540,
+    183560
+  ]
+}

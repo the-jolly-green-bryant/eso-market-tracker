@@ -1,0 +1,10 @@
+{
+  "internalId": 2885015969,
+  "name": "Hew's Bane Merchant's Basket",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketclothbasket001.png",
+  "bindType": -1,
+  "knownIds": [
+    121267
+  ]
+}

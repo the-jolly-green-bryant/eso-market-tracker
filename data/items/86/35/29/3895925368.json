@@ -1,0 +1,17 @@
+{
+  "internalId": 3895925368,
+  "name": "Warrior-Poet's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122615,
+    122635,
+    122655,
+    122675,
+    122695,
+    122715,
+    122735,
+    122755
+  ]
+}

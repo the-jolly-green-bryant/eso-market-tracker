@@ -1,0 +1,10 @@
+{
+  "internalId": 1268820683,
+  "name": "Alinor Sconce, Wrought Glass",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_altwallsconce002.png",
+  "bindType": -1,
+  "knownIds": [
+    139200
+  ]
+}

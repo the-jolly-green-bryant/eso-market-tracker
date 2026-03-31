@@ -1,0 +1,17 @@
+{
+  "internalId": 2372026772,
+  "name": "Champion of the Hist Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142251,
+    142271,
+    142291,
+    142311,
+    142331,
+    142351,
+    142371,
+    142391
+  ]
+}

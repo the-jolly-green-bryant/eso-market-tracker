@@ -1,0 +1,17 @@
+{
+  "internalId": 2463491263,
+  "name": "Titanborn's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_icereachcoven_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1368920,
+    1378220,
+    1378281,
+    1485018,
+    1541767,
+    1550151,
+    1569438,
+    1594619
+  ]
+}

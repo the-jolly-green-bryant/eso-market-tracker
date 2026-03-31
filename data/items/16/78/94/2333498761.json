@@ -1,0 +1,17 @@
+{
+  "internalId": 2333498761,
+  "name": "Rallying Cry Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183241,
+    183262,
+    183283,
+    183304,
+    183325,
+    183346,
+    183367,
+    183388
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3304787247,
+  "name": "Sharp-Arrow's Favorite",
+  "description": "A gift from Eveli Sharp-Arrow for helping to end the threat of Mehrunes Dagon's Ambitions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    182830
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 571657174,
+  "name": "Welkynar Style Motif Fragment",
+  "description": "This incomplete fragment of text discusses the Welkynar style. When you have ten of these, use a Welkynar Binding to create a random Welkynar style motif chapter.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_004.png",
+  "bindType": -1,
+  "knownIds": [
+    141737
+  ]
+}

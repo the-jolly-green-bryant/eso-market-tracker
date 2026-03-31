@@ -1,0 +1,10 @@
+{
+  "internalId": 3611545081,
+  "name": "Khajiit Rug, Sun",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_smallrug001.png",
+  "bindType": -1,
+  "knownIds": [
+    115701
+  ]
+}

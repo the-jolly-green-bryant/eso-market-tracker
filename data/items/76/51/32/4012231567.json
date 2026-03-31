@@ -1,0 +1,10 @@
+{
+  "internalId": 4012231567,
+  "name": "Flower, Healthy Purple Bat Bloom",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_vrdbatflower001.png",
+  "bindType": -1,
+  "knownIds": [
+    125547
+  ]
+}

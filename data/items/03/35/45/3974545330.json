@@ -1,0 +1,10 @@
+{
+  "internalId": 3974545330,
+  "name": "Mushrooms, Shadowpalm Cluster",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_mphpalmmushcluster002.png",
+  "bindType": -1,
+  "knownIds": [
+    139151
+  ]
+}

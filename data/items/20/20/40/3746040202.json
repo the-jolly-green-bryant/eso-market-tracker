@@ -1,0 +1,10 @@
+{
+  "internalId": 3746040202,
+  "name": "Velothi Painting, Classic Waterfall",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_paintingcmed001.png",
+  "bindType": -1,
+  "knownIds": [
+    126608
+  ]
+}

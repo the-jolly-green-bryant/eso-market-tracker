@@ -1,0 +1,10 @@
+{
+  "internalId": 3213511869,
+  "name": "Dark Elf Hook, Wall",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_wallhook001.png",
+  "bindType": -1,
+  "knownIds": [
+    115312
+  ]
+}

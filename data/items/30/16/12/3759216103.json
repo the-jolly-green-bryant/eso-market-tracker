@@ -1,0 +1,18 @@
+{
+  "internalId": 3759216103,
+  "name": "Ice Staff of the Turning Tide",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568198,
+    1577133,
+    1577407,
+    1595187,
+    1599994,
+    1621962,
+    1679619,
+    1763025,
+    1774046
+  ]
+}

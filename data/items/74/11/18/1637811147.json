@@ -1,0 +1,18 @@
+{
+  "internalId": 1637811147,
+  "name": "Lucent Echoes Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_heavy_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719651,
+    1727445,
+    1732491,
+    1732703,
+    1733149,
+    1750681,
+    1750801,
+    1757109,
+    1757725
+  ]
+}

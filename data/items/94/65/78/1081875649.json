@@ -1,0 +1,10 @@
+{
+  "internalId": 1081875649,
+  "name": "Worm Cult Specimen Jar, Brain",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_brainjar001.png",
+  "bindType": -1,
+  "knownIds": [
+    220321
+  ]
+}

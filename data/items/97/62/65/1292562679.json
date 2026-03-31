@@ -1,0 +1,10 @@
+{
+  "internalId": 1292562679,
+  "name": "Painting of Pasture, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_elegant002.png",
+  "bindType": -1,
+  "knownIds": [
+    118217
+  ]
+}

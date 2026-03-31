@@ -1,0 +1,10 @@
+{
+  "internalId": 3040289909,
+  "name": "Swamp Raider's Bile-Soaked Boots",
+  "description": "These boots have a thin coating of foul-smelling mucus.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34935
+  ]
+}

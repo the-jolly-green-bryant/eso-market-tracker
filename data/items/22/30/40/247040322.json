@@ -1,0 +1,10 @@
+{
+  "internalId": 247040322,
+  "name": "Necrom Funerary Pyre, Logs",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_necpyre001.png",
+  "bindType": -1,
+  "knownIds": [
+    198054
+  ]
+}

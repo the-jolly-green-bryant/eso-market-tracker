@@ -1,0 +1,20 @@
+{
+  "internalId": 4191747105,
+  "name": "Mace of Explosive Rebuke",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1401217,
+    1406476,
+    1410764,
+    1415882,
+    1539417,
+    1545980,
+    1550654,
+    1564902,
+    1599149,
+    1616021,
+    1648427
+  ]
+}

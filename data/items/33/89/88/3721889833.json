@@ -1,0 +1,10 @@
+{
+  "internalId": 3721889833,
+  "name": "Shield of the Phoenix",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117057
+  ]
+}

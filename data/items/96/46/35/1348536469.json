@@ -1,0 +1,10 @@
+{
+  "internalId": 1348536469,
+  "name": "Cured Kwama Leggings",
+  "description": "Hand-cured in the Kwama Mines of Senie, these leggings are extremely rugged.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70
+  ]
+}

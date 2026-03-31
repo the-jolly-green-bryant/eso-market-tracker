@@ -1,0 +1,19 @@
+{
+  "internalId": 4147034782,
+  "name": "Fortified Brass Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130750,
+    130785,
+    130820,
+    130855,
+    130890,
+    130925,
+    130960,
+    130995,
+    131030,
+    131065
+  ]
+}

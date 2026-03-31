@@ -1,0 +1,17 @@
+{
+  "internalId": 3409158520,
+  "name": "Bloodthorn Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96408,
+    96429,
+    96450,
+    96471,
+    96492,
+    96513,
+    96534,
+    96555
+  ]
+}

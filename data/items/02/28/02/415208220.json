@@ -1,0 +1,10 @@
+{
+  "internalId": 415208220,
+  "name": "Painting of the Arch, Silver",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_metalframepainting010.png",
+  "bindType": -1,
+  "knownIds": [
+    165845
+  ]
+}

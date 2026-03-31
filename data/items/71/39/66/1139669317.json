@@ -1,0 +1,16 @@
+{
+  "internalId": 1139669317,
+  "name": "Girdle of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168143,
+    168178,
+    168213,
+    168248,
+    168283,
+    168318,
+    168353
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2415344023,
+  "name": "Unleashed Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcticvampire_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1388366,
+    1413408,
+    1572206,
+    1583238,
+    1587537,
+    1588151,
+    1657258,
+    1694961
+  ]
+}

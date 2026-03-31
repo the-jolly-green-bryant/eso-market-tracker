@@ -1,0 +1,16 @@
+{
+  "internalId": 2462587709,
+  "name": "Restoration Staff of Nikulas",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85282,
+    85302,
+    85322,
+    85342,
+    85362,
+    85382,
+    85402
+  ]
+}

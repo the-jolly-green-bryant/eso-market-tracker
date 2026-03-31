@@ -1,0 +1,17 @@
+{
+  "internalId": 1979136444,
+  "name": "Greaves of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86580,
+    86600,
+    86620,
+    86640,
+    86660,
+    86680,
+    86700,
+    86720
+  ]
+}

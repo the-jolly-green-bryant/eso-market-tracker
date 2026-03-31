@@ -1,0 +1,17 @@
+{
+  "internalId": 157886058,
+  "name": "Alessian Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87996,
+    88016,
+    88036,
+    88056,
+    88076,
+    88096,
+    88116,
+    88136
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 3533751904,
+  "name": "Noxious Boulder Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_medium_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748606,
+    1748691,
+    1748936,
+    1748940,
+    1749064,
+    1749781,
+    1754072,
+    1754685,
+    1757728,
+    1757729,
+    1762336
+  ]
+}

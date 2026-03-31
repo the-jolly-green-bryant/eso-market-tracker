@@ -1,0 +1,10 @@
+{
+  "internalId": 1706507305,
+  "name": "Cage, Wild Animal",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_cage001.png",
+  "bindType": -1,
+  "knownIds": [
+    118334
+  ]
+}

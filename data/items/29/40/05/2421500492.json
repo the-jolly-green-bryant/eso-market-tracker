@@ -1,0 +1,19 @@
+{
+  "internalId": 2421500492,
+  "name": "Vastarie's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148700,
+    148755,
+    148790,
+    148825,
+    148860,
+    148895,
+    148930,
+    148965,
+    149000,
+    149035
+  ]
+}

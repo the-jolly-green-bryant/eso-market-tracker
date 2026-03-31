@@ -1,0 +1,10 @@
+{
+  "internalId": 2929624314,
+  "name": "Aspect of Mazzatun",
+  "description": "A Heavy Armor set found in Ruins of Mazzatun.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134225
+  ]
+}

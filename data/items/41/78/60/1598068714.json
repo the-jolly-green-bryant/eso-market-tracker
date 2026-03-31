@@ -1,0 +1,10 @@
+{
+  "internalId": 1598068714,
+  "name": "Clockwork Oscillator",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_dwemer_automata_gear_001.png",
+  "bindType": -1,
+  "knownIds": [
+    127105
+  ]
+}

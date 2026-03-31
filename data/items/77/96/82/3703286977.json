@@ -1,0 +1,10 @@
+{
+  "internalId": 3703286977,
+  "name": "Hedge, Dense High Wall",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_gchedges003.png",
+  "bindType": -1,
+  "knownIds": [
+    121026
+  ]
+}

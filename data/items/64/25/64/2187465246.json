@@ -1,0 +1,20 @@
+{
+  "internalId": 2187465246,
+  "name": "Test of Resolve Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1644214,
+    1647299,
+    1679960,
+    1685391,
+    1694957,
+    1698240,
+    1703246,
+    1717760,
+    1724216,
+    1736058,
+    1766193
+  ]
+}

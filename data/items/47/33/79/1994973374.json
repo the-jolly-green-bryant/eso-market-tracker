@@ -1,0 +1,19 @@
+{
+  "internalId": 1994973374,
+  "name": "Jerkin of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179579,
+    179634,
+    179669,
+    179704,
+    179739,
+    179774,
+    179809,
+    179844,
+    179879,
+    179914
+  ]
+}

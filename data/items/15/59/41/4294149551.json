@@ -1,0 +1,12 @@
+{
+  "internalId": 4294149551,
+  "name": "The Pincher",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    689159,
+    622301,
+    507896
+  ]
+}

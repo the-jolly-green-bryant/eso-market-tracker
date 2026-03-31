@@ -1,0 +1,13 @@
+{
+  "internalId": 1190560137,
+  "name": "Hircine's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77730,
+    77766,
+    77802,
+    77838
+  ]
+}

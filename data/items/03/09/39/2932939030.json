@@ -1,0 +1,10 @@
+{
+  "internalId": 2932939030,
+  "name": "Orcish Plate, Stone",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_plate001.png",
+  "bindType": -1,
+  "knownIds": [
+    116407
+  ]
+}

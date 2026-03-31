@@ -1,0 +1,17 @@
+{
+  "internalId": 3647778299,
+  "name": "Undertaker's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_heavy_helmet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149076,
+    149096,
+    149116,
+    149136,
+    149156,
+    149176,
+    149196,
+    149216
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3842909125,
+  "name": "Axe of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88897,
+    88917,
+    88937,
+    88957,
+    88977,
+    88997,
+    89017,
+    89037
+  ]
+}

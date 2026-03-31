@@ -1,0 +1,10 @@
+{
+  "internalId": 2642259450,
+  "name": "Necrom Firepit, Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necbrazierhighlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    197496
+  ]
+}

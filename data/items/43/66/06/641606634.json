@@ -1,0 +1,10 @@
+{
+  "internalId": 641606634,
+  "name": "Redguard Tuffet, Sands",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofapillowstool003.png",
+  "bindType": -1,
+  "knownIds": [
+    117887
+  ]
+}

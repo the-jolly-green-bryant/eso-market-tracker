@@ -1,0 +1,10 @@
+{
+  "internalId": 3275632227,
+  "name": "Inferno Staff of the Arena",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    56076
+  ]
+}

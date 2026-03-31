@@ -1,0 +1,17 @@
+{
+  "internalId": 1091272264,
+  "name": "Vanus's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_light_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135546,
+    135567,
+    135588,
+    135609,
+    135630,
+    135651,
+    135672,
+    135693
+  ]
+}

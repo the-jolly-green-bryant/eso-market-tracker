@@ -1,0 +1,10 @@
+{
+  "internalId": 1064205774,
+  "name": "Old Yokudan Coin Collection",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png",
+  "bindType": -1,
+  "knownIds": [
+    799067
+  ]
+}

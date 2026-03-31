@@ -1,0 +1,10 @@
+{
+  "internalId": 1357403459,
+  "name": "Fern Cluster, Healthy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_malabaltorfernclusterred001.png",
+  "bindType": -1,
+  "knownIds": [
+    120529
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1578020290,
+  "name": "Jester's Coffer",
+  "description": "\"Trust me kid, stealing from a Jester isn't worth your time. The last fool to try it is still picking the confetti out of his teeth.\"—Sharbzur, Midnight Union Bruiser",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_jesterjewelrybox001.png",
+  "bindType": -1,
+  "knownIds": [
+    134680
+  ]
+}

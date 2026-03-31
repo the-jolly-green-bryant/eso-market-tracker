@@ -1,0 +1,12 @@
+{
+  "internalId": 3150512321,
+  "name": "Dauntless Combatant's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159348,
+    159383,
+    159418
+  ]
+}

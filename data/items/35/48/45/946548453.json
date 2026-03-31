@@ -1,0 +1,20 @@
+{
+  "internalId": 946548453,
+  "name": "Inferno Staff of Kyne's Wind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1384197,
+    1389279,
+    1389292,
+    1391464,
+    1391465,
+    1422808,
+    1457387,
+    1509271,
+    1615753,
+    1726594,
+    1779056
+  ]
+}

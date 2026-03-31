@@ -1,0 +1,17 @@
+{
+  "internalId": 4138344111,
+  "name": "Siegemaster's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210710,
+    210730,
+    210750,
+    210770,
+    210790,
+    210810,
+    210830,
+    210850
+  ]
+}

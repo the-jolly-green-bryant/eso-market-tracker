@@ -1,0 +1,10 @@
+{
+  "internalId": 2523728066,
+  "name": "Murkmire Kiln, Ancient Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_str_mrkstoneforge001.png",
+  "bindType": -1,
+  "knownIds": [
+    145459
+  ]
+}

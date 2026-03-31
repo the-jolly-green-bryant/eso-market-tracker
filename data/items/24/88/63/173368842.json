@@ -1,0 +1,10 @@
+{
+  "internalId": 173368842,
+  "name": "Elsweyr Carpet, Blossoms on Blue",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_rugsmall005.png",
+  "bindType": -1,
+  "knownIds": [
+    151757
+  ]
+}

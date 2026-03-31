@@ -1,0 +1,10 @@
+{
+  "internalId": 635394695,
+  "name": "Rare Fossil",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gildedconch_001.png",
+  "bindType": -1,
+  "knownIds": [
+    969251
+  ]
+}

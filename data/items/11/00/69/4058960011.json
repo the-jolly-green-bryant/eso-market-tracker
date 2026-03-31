@@ -1,0 +1,17 @@
+{
+  "internalId": 4058960011,
+  "name": "Mace of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92149,
+    92162,
+    92175,
+    92188,
+    92201,
+    92214,
+    92227,
+    92240
+  ]
+}

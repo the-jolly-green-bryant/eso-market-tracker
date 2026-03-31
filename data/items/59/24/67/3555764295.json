@@ -1,0 +1,17 @@
+{
+  "internalId": 3555764295,
+  "name": "Restoration Staff of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88908,
+    88928,
+    88948,
+    88968,
+    88988,
+    89008,
+    89028,
+    89048
+  ]
+}

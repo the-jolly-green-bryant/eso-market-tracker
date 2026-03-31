@@ -1,0 +1,10 @@
+{
+  "internalId": 1875789492,
+  "name": "Leyawiin Armchair, Backless",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leybenchsmall001a.png",
+  "bindType": -1,
+  "knownIds": [
+    175623
+  ]
+}

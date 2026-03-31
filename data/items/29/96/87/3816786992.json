@@ -1,0 +1,19 @@
+{
+  "internalId": 3816786992,
+  "name": "Gauntlets of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121916,
+    121951,
+    121986,
+    122021,
+    122056,
+    122091,
+    122126,
+    122161,
+    122196,
+    122231
+  ]
+}

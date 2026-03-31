@@ -1,0 +1,17 @@
+{
+  "internalId": 1716396966,
+  "name": "Unflinching Ultimate Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219502,
+    219522,
+    219542,
+    219562,
+    219582,
+    219602,
+    219622,
+    219642
+  ]
+}

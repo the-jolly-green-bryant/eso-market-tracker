@@ -1,0 +1,20 @@
+{
+  "internalId": 3120890155,
+  "name": "Saxhleel Champion's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1486775,
+    1491351,
+    1521801,
+    1540784,
+    1551367,
+    1571480,
+    1600492,
+    1601953,
+    1639466,
+    1639468,
+    1751460
+  ]
+}

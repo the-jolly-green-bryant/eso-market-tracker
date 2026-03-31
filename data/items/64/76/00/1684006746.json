@@ -1,0 +1,17 @@
+{
+  "internalId": 1684006746,
+  "name": "War Maiden's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122807,
+    122828,
+    122849,
+    122870,
+    122891,
+    122912,
+    122933,
+    122954
+  ]
+}

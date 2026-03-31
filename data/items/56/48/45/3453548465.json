@@ -1,0 +1,16 @@
+{
+  "internalId": 3453548465,
+  "name": "Inferno Staff of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85643,
+    85664,
+    85685,
+    85706,
+    85727,
+    85748,
+    85769
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3128251501,
+  "name": "Gallery Furnishing Recipe Book",
+  "description": "Notes gathered by an avid visitor of museums. Reading this book teaches all Gallery Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color3.png",
+  "bindType": -1,
+  "knownIds": [
+    214285
+  ]
+}

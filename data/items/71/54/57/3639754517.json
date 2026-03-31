@@ -1,0 +1,17 @@
+{
+  "internalId": 3639754517,
+  "name": "Coward's Gear Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123356,
+    123376,
+    123396,
+    123416,
+    123436,
+    123456,
+    123476,
+    123496
+  ]
+}

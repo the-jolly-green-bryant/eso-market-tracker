@@ -1,0 +1,17 @@
+{
+  "internalId": 3864525394,
+  "name": "Jack of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189694,
+    189714,
+    189734,
+    189754,
+    189774,
+    189794,
+    189814,
+    189834
+  ]
+}

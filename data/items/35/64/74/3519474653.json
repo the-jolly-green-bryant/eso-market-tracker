@@ -1,0 +1,10 @@
+{
+  "internalId": 3519474653,
+  "name": "Shrub, Bitter Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_vrdbitterbrush006.png",
+  "bindType": -1,
+  "knownIds": [
+    125648
+  ]
+}

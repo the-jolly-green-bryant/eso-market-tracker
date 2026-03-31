@@ -1,0 +1,17 @@
+{
+  "internalId": 1369244582,
+  "name": "Old Growth Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191717,
+    191752,
+    191787,
+    191822,
+    191857,
+    191892,
+    191927,
+    191962
+  ]
+}

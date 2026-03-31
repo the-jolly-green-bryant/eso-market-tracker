@@ -1,0 +1,19 @@
+{
+  "internalId": 1123371874,
+  "name": "Nocturnal's Favored Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136445,
+    136480,
+    136515,
+    136550,
+    136585,
+    136620,
+    136655,
+    136690,
+    136725,
+    136760
+  ]
+}

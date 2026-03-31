@@ -1,0 +1,15 @@
+{
+  "internalId": 1712551291,
+  "name": "Auroran's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1308577,
+    1342942,
+    1420815,
+    1602365,
+    1627708,
+    1628024
+  ]
+}

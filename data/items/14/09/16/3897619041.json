@@ -1,0 +1,17 @@
+{
+  "internalId": 3897619041,
+  "name": "Lightning Staff of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92823,
+    92843,
+    92863,
+    92883,
+    92903,
+    92923,
+    92943,
+    92963
+  ]
+}

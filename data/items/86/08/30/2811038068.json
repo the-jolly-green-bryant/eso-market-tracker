@@ -1,0 +1,16 @@
+{
+  "internalId": 2811038068,
+  "name": "Maul of Phylactery's Grasp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600800,
+    1600885,
+    1602569,
+    1623930,
+    1660505,
+    1745371,
+    1768061
+  ]
+}

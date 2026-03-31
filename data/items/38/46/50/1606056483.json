@@ -1,0 +1,17 @@
+{
+  "internalId": 1606056483,
+  "name": "Restoration Staff of Oakfather's Retribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    203914,
+    203935,
+    203956,
+    203977,
+    203998,
+    204019,
+    204040,
+    204061
+  ]
+}

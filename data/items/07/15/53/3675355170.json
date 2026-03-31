@@ -1,0 +1,10 @@
+{
+  "internalId": 3675355170,
+  "name": "Redguard Hourglass of Desert Sands",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varhourglass001.png",
+  "bindType": -1,
+  "knownIds": [
+    117811
+  ]
+}

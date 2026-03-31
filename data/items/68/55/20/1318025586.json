@@ -1,0 +1,10 @@
+{
+  "internalId": 1318025586,
+  "name": "Wood Elf Cup, Chipped",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_vasetabletop004.png",
+  "bindType": -1,
+  "knownIds": [
+    115565
+  ]
+}

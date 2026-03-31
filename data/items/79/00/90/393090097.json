@@ -1,0 +1,11 @@
+{
+  "internalId": 393090097,
+  "name": "Mournhold Twister",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
+  "bindType": -1,
+  "knownIds": [
+    61070,
+    57184
+  ]
+}

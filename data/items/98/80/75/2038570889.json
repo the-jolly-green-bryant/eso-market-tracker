@@ -1,0 +1,10 @@
+{
+  "internalId": 2038570889,
+  "name": "Tool, Two-Person Crosscut Saw",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_lrgsaw001.png",
+  "bindType": -1,
+  "knownIds": [
+    153666
+  ]
+}

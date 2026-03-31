@@ -1,0 +1,19 @@
+{
+  "internalId": 540610198,
+  "name": "Skullmaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    581196,
+    785266,
+    948836,
+    1086195,
+    1311319,
+    1430251,
+    1455148,
+    1528941,
+    1543883,
+    1599405
+  ]
+}

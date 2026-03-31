@@ -1,0 +1,10 @@
+{
+  "internalId": 1222683350,
+  "name": "Imperial Divider, Curved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_screen002.png",
+  "bindType": -1,
+  "knownIds": [
+    94176
+  ]
+}

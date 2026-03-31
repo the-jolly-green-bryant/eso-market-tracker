@@ -1,0 +1,19 @@
+{
+  "internalId": 1911619016,
+  "name": "Forest Wraith's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192013,
+    192068,
+    192103,
+    192138,
+    192173,
+    192208,
+    192243,
+    192278,
+    192313,
+    192348
+  ]
+}

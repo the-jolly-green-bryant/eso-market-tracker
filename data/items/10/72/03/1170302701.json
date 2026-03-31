@@ -1,0 +1,17 @@
+{
+  "internalId": 1170302701,
+  "name": "Gourmand's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190372,
+    190393,
+    190414,
+    190435,
+    190456,
+    190477,
+    190498,
+    190519
+  ]
+}

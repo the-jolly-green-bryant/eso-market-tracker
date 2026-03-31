@@ -1,0 +1,20 @@
+{
+  "internalId": 3664617022,
+  "name": "False God's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1329688,
+    1342397,
+    1344182,
+    1413274,
+    1461066,
+    1476135,
+    1499749,
+    1548208,
+    1551504,
+    1564301,
+    1616469
+  ]
+}

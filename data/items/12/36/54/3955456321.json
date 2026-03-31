@@ -1,0 +1,13 @@
+{
+  "internalId": 3955456321,
+  "name": "Dagger of the Wyrd Tree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96857,
+    96877,
+    96897,
+    96917
+  ]
+}

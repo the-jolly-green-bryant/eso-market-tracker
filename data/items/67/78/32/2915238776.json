@@ -1,0 +1,10 @@
+{
+  "internalId": 2915238776,
+  "name": "Egg-Tender's Guard",
+  "description": "Vicecanon Servyna gave you these gloves for saving the eggs at the Hatching Pools in Shadowfen.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    22750
+  ]
+}

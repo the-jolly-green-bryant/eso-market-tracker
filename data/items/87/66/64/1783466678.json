@@ -1,0 +1,10 @@
+{
+  "internalId": 1783466678,
+  "name": "Crown Tri-Restoration Potion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpotion_trires.png",
+  "bindType": -1,
+  "knownIds": [
+    932411
+  ]
+}

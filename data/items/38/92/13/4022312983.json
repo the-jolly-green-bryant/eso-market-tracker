@@ -1,0 +1,14 @@
+{
+  "internalId": 4022312983,
+  "name": "Greaves of Bahraha's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199754,
+    199755,
+    199756,
+    199757,
+    199758
+  ]
+}

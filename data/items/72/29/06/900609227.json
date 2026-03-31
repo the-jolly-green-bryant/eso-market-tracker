@@ -1,0 +1,10 @@
+{
+  "internalId": 900609227,
+  "name": "Boulder, Vertical Sandstone",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_housinglg014.png",
+  "bindType": -1,
+  "knownIds": [
+    214495
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2805174035,
+  "name": "Ice Staff of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98520,
+    98540,
+    98560,
+    98580,
+    98600,
+    98620,
+    98640,
+    98660
+  ]
+}

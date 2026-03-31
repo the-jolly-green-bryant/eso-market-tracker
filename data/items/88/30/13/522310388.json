@@ -1,0 +1,17 @@
+{
+  "internalId": 522310388,
+  "name": "Dead-Water's Guile Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142432,
+    142452,
+    142472,
+    142492,
+    142512,
+    142532,
+    142552,
+    142572
+  ]
+}

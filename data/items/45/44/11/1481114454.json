@@ -1,0 +1,10 @@
+{
+  "internalId": 1481114454,
+  "name": "High Elf Lamp, Oil",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_lsb_oillamp001.png",
+  "bindType": -1,
+  "knownIds": [
+    114371
+  ]
+}

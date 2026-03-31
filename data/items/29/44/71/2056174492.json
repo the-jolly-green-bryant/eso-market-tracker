@@ -1,0 +1,17 @@
+{
+  "internalId": 2056174492,
+  "name": "Shield of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92825,
+    92845,
+    92865,
+    92885,
+    92905,
+    92925,
+    92945,
+    92965
+  ]
+}

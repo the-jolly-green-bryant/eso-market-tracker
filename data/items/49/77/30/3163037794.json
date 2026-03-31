@@ -1,0 +1,17 @@
+{
+  "internalId": 3163037794,
+  "name": "Champion of the Hist Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142244,
+    142264,
+    142284,
+    142304,
+    142324,
+    142344,
+    142364,
+    142384
+  ]
+}

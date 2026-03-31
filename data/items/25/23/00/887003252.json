@@ -1,0 +1,10 @@
+{
+  "internalId": 887003252,
+  "name": "Exemplary Nirnhoned Arm Cops",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Arm Cops.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": -1,
+  "knownIds": [
+    81634
+  ]
+}

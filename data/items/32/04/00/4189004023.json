@@ -1,0 +1,15 @@
+{
+  "internalId": 4189004023,
+  "name": "Jailer's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1287965,
+    1547734,
+    1594861,
+    1735409,
+    1756704,
+    1774998
+  ]
+}

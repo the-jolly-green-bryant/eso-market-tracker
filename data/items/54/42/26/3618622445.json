@@ -1,0 +1,10 @@
+{
+  "internalId": 3618622445,
+  "name": "Plant, White Flowered Lily Pads",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_waterlettuce002.png",
+  "bindType": -1,
+  "knownIds": [
+    181603
+  ]
+}

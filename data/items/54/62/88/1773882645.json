@@ -1,0 +1,10 @@
+{
+  "internalId": 1773882645,
+  "name": "Crafting Motif 77: Stags of Z'en Daggers",
+  "description": "Use to learn how to make Stags of Z'en Daggers. Also teaches the equivalent Stags of Z'en outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    156579
+  ]
+}

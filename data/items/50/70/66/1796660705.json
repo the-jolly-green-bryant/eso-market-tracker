@@ -1,0 +1,10 @@
+{
+  "internalId": 1796660705,
+  "name": "Riekling Banner, Boar Pelt",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrdecorativehidebsnow001.png",
+  "bindType": -1,
+  "knownIds": [
+    156663
+  ]
+}

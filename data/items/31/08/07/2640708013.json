@@ -1,0 +1,10 @@
+{
+  "internalId": 2640708013,
+  "name": "Exemplary Swift Necklace",
+  "description": "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Swift Trait for Necklaces.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    139661
+  ]
+}

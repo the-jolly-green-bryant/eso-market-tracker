@@ -1,0 +1,10 @@
+{
+  "internalId": 4088022548,
+  "name": "Plant Cluster, Tamanu",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_tamanucanopy001.png",
+  "bindType": -1,
+  "knownIds": [
+    220356
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3010460369,
+  "name": "Impregnable Armor Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125710,
+    125745,
+    125780,
+    125815,
+    125850,
+    125885,
+    125920,
+    125955
+  ]
+}

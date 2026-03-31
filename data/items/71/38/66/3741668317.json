@@ -1,0 +1,13 @@
+{
+  "internalId": 3741668317,
+  "name": "Restoration Staff of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95981,
+    96170,
+    96254,
+    96354
+  ]
+}

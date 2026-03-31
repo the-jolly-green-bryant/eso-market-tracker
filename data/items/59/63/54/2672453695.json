@@ -1,0 +1,14 @@
+{
+  "internalId": 2672453695,
+  "name": "Guards of the Undaunted Infiltrator",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58652,
+    58673,
+    58694,
+    58715,
+    58736
+  ]
+}

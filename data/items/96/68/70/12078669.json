@@ -1,0 +1,10 @@
+{
+  "internalId": 12078669,
+  "name": "Orcish Cauldron, Sealed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgurn002.png",
+  "bindType": -1,
+  "knownIds": [
+    116459
+  ]
+}

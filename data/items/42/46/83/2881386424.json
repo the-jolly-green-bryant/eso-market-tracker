@@ -1,0 +1,19 @@
+{
+  "internalId": 2881386424,
+  "name": "Senche-Raht's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148322,
+    148377,
+    148412,
+    148447,
+    148482,
+    148517,
+    148552,
+    148587,
+    148622,
+    148657
+  ]
+}

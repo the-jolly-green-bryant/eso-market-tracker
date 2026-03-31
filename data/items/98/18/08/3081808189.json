@@ -1,0 +1,17 @@
+{
+  "internalId": 3081808189,
+  "name": "Battalion Defender Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144849,
+    144869,
+    144889,
+    144909,
+    144929,
+    144949,
+    144969,
+    144989
+  ]
+}

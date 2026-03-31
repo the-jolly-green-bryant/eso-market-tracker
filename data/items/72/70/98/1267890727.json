@@ -1,0 +1,10 @@
+{
+  "internalId": 1267890727,
+  "name": "Bogstaff",
+  "description": "Bequeathed by Tree-Minder Dreyapa for returning her tribe to the Hist after they were slaughtered by the Dominion.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10283
+  ]
+}

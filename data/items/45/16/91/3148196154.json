@@ -1,0 +1,16 @@
+{
+  "internalId": 3148196154,
+  "name": "Highland Sentinel Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205916,
+    205951,
+    205986,
+    206021,
+    206056,
+    206091,
+    206126
+  ]
+}

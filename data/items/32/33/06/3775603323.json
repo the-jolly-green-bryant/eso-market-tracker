@@ -1,0 +1,18 @@
+{
+  "internalId": 3775603323,
+  "name": "Relequen's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_staff_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1369149,
+    1383397,
+    1383942,
+    1407352,
+    1452144,
+    1540126,
+    1584645,
+    1637101,
+    1745221
+  ]
+}

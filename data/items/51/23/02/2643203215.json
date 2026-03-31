@@ -1,0 +1,10 @@
+{
+  "internalId": 2643203215,
+  "name": "Forgotten Adventurer's Jerkin",
+  "description": "This light shirt is fitting attire for the fledging journeys of a new adventurer.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shirt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    140221
+  ]
+}

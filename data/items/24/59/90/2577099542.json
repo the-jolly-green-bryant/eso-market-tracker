@@ -1,0 +1,19 @@
+{
+  "internalId": 2577099542,
+  "name": "Chimera's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191246,
+    191301,
+    191336,
+    191371,
+    191406,
+    191441,
+    191476,
+    191511,
+    191546,
+    191581
+  ]
+}

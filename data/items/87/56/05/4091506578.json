@@ -1,0 +1,10 @@
+{
+  "internalId": 4091506578,
+  "name": "Vampiric Carpet, Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug003.png",
+  "bindType": -1,
+  "knownIds": [
+    165581
+  ]
+}

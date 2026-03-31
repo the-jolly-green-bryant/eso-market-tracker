@@ -1,0 +1,18 @@
+{
+  "internalId": 2426853598,
+  "name": "Stuhn's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161294,
+    161329,
+    161364,
+    161399,
+    161434,
+    161469,
+    161504,
+    161539,
+    161574
+  ]
+}

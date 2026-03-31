@@ -1,0 +1,10 @@
+{
+  "internalId": 1383084873,
+  "name": "Hlaalu Footlocker, Secure",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlatrunk001.png",
+  "bindType": -1,
+  "knownIds": [
+    126453
+  ]
+}

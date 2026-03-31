@@ -1,0 +1,21 @@
+{
+  "internalId": 507183138,
+  "name": "Clothier's Satchel (Leather) VI",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1304864,
+    1308440,
+    1326401,
+    1326520,
+    1328991,
+    1332247,
+    1343447,
+    1353363,
+    1416027,
+    1419867,
+    1420401,
+    1423082
+  ]
+}

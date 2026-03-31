@@ -1,0 +1,10 @@
+{
+  "internalId": 640373899,
+  "name": "Deadlands Wall, Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_dedwalllowstraight002.png",
+  "bindType": -1,
+  "knownIds": [
+    182278
+  ]
+}

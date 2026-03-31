@@ -1,0 +1,17 @@
+{
+  "internalId": 3280627614,
+  "name": "ebon dagger of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    763150,
+    373760,
+    743103,
+    528393,
+    711483,
+    648798,
+    613547,
+    645824
+  ]
+}

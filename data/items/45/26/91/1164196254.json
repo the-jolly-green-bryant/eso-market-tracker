@@ -1,0 +1,10 @@
+{
+  "internalId": 1164196254,
+  "name": "Longfang of Cyrodiil's Ward",
+  "description": "Longfang's poison sacs have imbued this sword's blade with a toxic coating.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45728
+  ]
+}

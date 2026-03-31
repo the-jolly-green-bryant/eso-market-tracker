@@ -1,0 +1,17 @@
+{
+  "internalId": 462805717,
+  "name": "Sabatons of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180278,
+    180298,
+    180318,
+    180338,
+    180358,
+    180378,
+    180398,
+    180418
+  ]
+}

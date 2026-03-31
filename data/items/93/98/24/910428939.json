@@ -1,0 +1,10 @@
+{
+  "internalId": 910428939,
+  "name": "High Isle Crab, Steamed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_crab001.png",
+  "bindType": -1,
+  "knownIds": [
+    187848
+  ]
+}

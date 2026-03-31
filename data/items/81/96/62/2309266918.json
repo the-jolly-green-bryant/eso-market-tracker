@@ -1,0 +1,10 @@
+{
+  "internalId": 2309266918,
+  "name": "Solitude Nightstand, Round",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tableroundsmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    165678
+  ]
+}

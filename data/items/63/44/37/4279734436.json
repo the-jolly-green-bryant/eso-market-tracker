@@ -1,0 +1,10 @@
+{
+  "internalId": 4279734436,
+  "name": "Indoril Carpet, Vivec",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlarugvivec003.png",
+  "bindType": -1,
+  "knownIds": [
+    126541
+  ]
+}

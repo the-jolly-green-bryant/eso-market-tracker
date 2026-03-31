@@ -1,0 +1,12 @@
+{
+  "internalId": 3247998850,
+  "name": "Impregnable Armor Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125690,
+    125692,
+    125694
+  ]
+}

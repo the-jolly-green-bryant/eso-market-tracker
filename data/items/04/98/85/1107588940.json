@@ -1,0 +1,10 @@
+{
+  "internalId": 1107588940,
+  "name": "Mushrooms, Ambershine Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_hrcbiolumshroom016.png",
+  "bindType": -1,
+  "knownIds": [
+    141846
+  ]
+}

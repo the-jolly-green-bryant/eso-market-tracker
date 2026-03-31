@@ -1,0 +1,17 @@
+{
+  "internalId": 2838621980,
+  "name": "Plaguebreak Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180603,
+    180623,
+    180643,
+    180663,
+    180683,
+    180703,
+    180723,
+    180743
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3076398420,
+  "name": "Heartland Conqueror's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172854,
+    172909,
+    172944,
+    172979,
+    173014,
+    173049,
+    173084,
+    173119,
+    173154,
+    173189
+  ]
+}

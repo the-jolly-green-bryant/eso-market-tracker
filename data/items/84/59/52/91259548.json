@@ -1,0 +1,17 @@
+{
+  "internalId": 91259548,
+  "name": "Lamp Knight's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213919,
+    213939,
+    213959,
+    213979,
+    213999,
+    214019,
+    214039,
+    214059
+  ]
+}

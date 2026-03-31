@@ -1,0 +1,17 @@
+{
+  "internalId": 2308882898,
+  "name": "Axe of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180264,
+    180284,
+    180304,
+    180324,
+    180344,
+    180364,
+    180384,
+    180404
+  ]
+}

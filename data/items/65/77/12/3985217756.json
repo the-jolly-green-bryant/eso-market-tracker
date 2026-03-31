@@ -1,0 +1,17 @@
+{
+  "internalId": 3985217756,
+  "name": "Lightning Staff of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86200,
+    86221,
+    86242,
+    86263,
+    86284,
+    86305,
+    86326,
+    86347
+  ]
+}

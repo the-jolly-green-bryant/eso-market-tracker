@@ -1,0 +1,10 @@
+{
+  "internalId": 3948153579,
+  "name": "Shipment of Fell Hide",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    940992
+  ]
+}

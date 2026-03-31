@@ -1,0 +1,17 @@
+{
+  "internalId": 4145090252,
+  "name": "Farstrider Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211772,
+    211792,
+    211812,
+    211832,
+    211852,
+    211872,
+    211892,
+    211912
+  ]
+}

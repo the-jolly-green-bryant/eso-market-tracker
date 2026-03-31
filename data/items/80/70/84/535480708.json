@@ -1,0 +1,10 @@
+{
+  "internalId": 535480708,
+  "name": "Argonian Pole, Split",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkdryingrack001.png",
+  "bindType": -1,
+  "knownIds": [
+    115439
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2726658669,
+  "name": "Ravenwatch Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    502169,
+    540618,
+    615406,
+    787938
+  ]
+}

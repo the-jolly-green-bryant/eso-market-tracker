@@ -1,0 +1,10 @@
+{
+  "internalId": 2223206550,
+  "name": "Book Pile, Spiral Levitating",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_bobbingbooks002.png",
+  "bindType": -1,
+  "knownIds": [
+    197746
+  ]
+}

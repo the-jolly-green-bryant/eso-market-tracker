@@ -1,0 +1,11 @@
+{
+  "internalId": 306663496,
+  "name": "Dragonguard Supply Cache",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1337436,
+    1337445
+  ]
+}

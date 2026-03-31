@@ -1,0 +1,18 @@
+{
+  "internalId": 1922499434,
+  "name": "Venomous Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    160831,
+    160851,
+    160871,
+    160891,
+    160911,
+    160931,
+    160951,
+    160971,
+    160991
+  ]
+}

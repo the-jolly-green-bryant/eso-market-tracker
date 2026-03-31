@@ -1,0 +1,15 @@
+{
+  "internalId": 2092954960,
+  "name": "Grave Guardian's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1354192,
+    1375547,
+    1560551,
+    1623254,
+    1684813,
+    1750189
+  ]
+}

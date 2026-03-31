@@ -1,0 +1,17 @@
+{
+  "internalId": 1596333611,
+  "name": "Battle Axe of Salvation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85456,
+    85476,
+    85496,
+    85516,
+    85536,
+    85556,
+    85576,
+    85596
+  ]
+}

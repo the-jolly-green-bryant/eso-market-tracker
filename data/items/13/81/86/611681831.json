@@ -1,0 +1,17 @@
+{
+  "internalId": 611681831,
+  "name": "Siegemaster's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210708,
+    210728,
+    210748,
+    210768,
+    210788,
+    210808,
+    210828,
+    210848
+  ]
+}

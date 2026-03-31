@@ -1,0 +1,10 @@
+{
+  "internalId": 3638851474,
+  "name": "The Shattering Sword",
+  "description": "Any blade forged upon this hilt is doomed to shatter within the most crucial time of a battle. Bring this to the Vault of Moawita in Summerset.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_b.png",
+  "bindType": 3,
+  "knownIds": [
+    133624
+  ]
+}

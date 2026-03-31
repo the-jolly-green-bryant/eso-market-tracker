@@ -1,0 +1,19 @@
+{
+  "internalId": 4198684625,
+  "name": "Forest Wraith's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192017,
+    192072,
+    192107,
+    192142,
+    192177,
+    192212,
+    192247,
+    192282,
+    192317,
+    192352
+  ]
+}

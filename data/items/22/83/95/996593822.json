@@ -1,0 +1,10 @@
+{
+  "internalId": 996593822,
+  "name": "Tree, Towering Fig",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_hircinetree005.png",
+  "bindType": -1,
+  "knownIds": [
+    141834
+  ]
+}

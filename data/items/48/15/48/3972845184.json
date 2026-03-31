@@ -1,0 +1,19 @@
+{
+  "internalId": 3972845184,
+  "name": "Coldharbour's Favorite Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147976,
+    148031,
+    148066,
+    148101,
+    148136,
+    148171,
+    148206,
+    148241,
+    148276,
+    148311
+  ]
+}

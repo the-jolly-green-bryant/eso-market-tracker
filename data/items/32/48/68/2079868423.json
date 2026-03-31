@@ -1,0 +1,10 @@
+{
+  "internalId": 2079868423,
+  "name": "Nickel",
+  "description": "An ingredient for crafting in the Imperial style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_heavy_armor_sp_names_001.png",
+  "bindType": -1,
+  "knownIds": [
+    33254
+  ]
+}

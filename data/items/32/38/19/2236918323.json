@@ -1,0 +1,17 @@
+{
+  "internalId": 2236918323,
+  "name": "Bog Raider's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172295,
+    172315,
+    172335,
+    172355,
+    172375,
+    172395,
+    172415,
+    172435
+  ]
+}

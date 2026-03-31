@@ -1,0 +1,17 @@
+{
+  "internalId": 1062640767,
+  "name": "Alessian Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87993,
+    88013,
+    88033,
+    88053,
+    88073,
+    88093,
+    88113,
+    88133
+  ]
+}

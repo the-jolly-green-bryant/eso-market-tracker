@@ -1,0 +1,10 @@
+{
+  "internalId": 1926355538,
+  "name": "Dessicated Belt of the Hatchling's Shell",
+  "description": "This belt creaks when bent.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43031
+  ]
+}

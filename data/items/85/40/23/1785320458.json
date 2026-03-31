@@ -1,0 +1,10 @@
+{
+  "internalId": 1785320458,
+  "name": "Crafting Motif 120: Scribes of Mora Chests",
+  "description": "Use to learn how to make Scribes of Mora Chests. Also teaches the equivalent Scribes of Mora Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    190894
+  ]
+}

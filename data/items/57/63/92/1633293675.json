@@ -1,0 +1,19 @@
+{
+  "internalId": 1633293675,
+  "name": "Heartland Conqueror's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172865,
+    172867,
+    172869,
+    172871,
+    172873,
+    172875,
+    172877,
+    172879,
+    172881,
+    172883
+  ]
+}

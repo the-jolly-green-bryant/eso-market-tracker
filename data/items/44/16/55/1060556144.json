@@ -1,0 +1,12 @@
+{
+  "internalId": 1060556144,
+  "name": "Lucilla's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748625,
+    1749753,
+    1753002
+  ]
+}

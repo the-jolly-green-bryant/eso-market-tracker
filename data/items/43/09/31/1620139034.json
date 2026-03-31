@@ -1,0 +1,10 @@
+{
+  "internalId": 1620139034,
+  "name": "Necrom Monolith, Stone",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_necmonolith04.png",
+  "bindType": -1,
+  "knownIds": [
+    198032
+  ]
+}

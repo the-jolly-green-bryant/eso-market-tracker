@@ -1,0 +1,10 @@
+{
+  "internalId": 3816965406,
+  "name": "Explorer's Boots",
+  "description": "Raynor cobbled these boots together from spare parts found during your exploration of the Clockwork City.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133239
+  ]
+}

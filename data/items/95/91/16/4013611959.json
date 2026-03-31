@@ -1,0 +1,10 @@
+{
+  "internalId": 4013611959,
+  "name": "Winter Ouroboros Wreath",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_winterourowreath001.png",
+  "bindType": -1,
+  "knownIds": [
+    146062
+  ]
+}

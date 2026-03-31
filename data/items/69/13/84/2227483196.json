@@ -1,0 +1,10 @@
+{
+  "internalId": 2227483196,
+  "name": "Necrom Roof, Domed",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_waf_housingneccitywallsdome001.png",
+  "bindType": -1,
+  "knownIds": [
+    198039
+  ]
+}

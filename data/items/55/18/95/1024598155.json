@@ -1,0 +1,19 @@
+{
+  "internalId": 1024598155,
+  "name": "Ancient Dragonguard's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155795,
+    155850,
+    155885,
+    155920,
+    155955,
+    155990,
+    156025,
+    156060,
+    156095,
+    156130
+  ]
+}

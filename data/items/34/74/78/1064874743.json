@@ -1,0 +1,19 @@
+{
+  "internalId": 1064874743,
+  "name": "Gladiator's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75389,
+    75424,
+    75459,
+    75494,
+    75529,
+    75564,
+    75599,
+    75634,
+    75669,
+    75704
+  ]
+}

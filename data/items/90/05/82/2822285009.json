@@ -1,0 +1,10 @@
+{
+  "internalId": 2822285009,
+  "name": "Rapport Decreaser",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersday_pie8.png",
+  "bindType": -1,
+  "knownIds": [
+    1635644
+  ]
+}

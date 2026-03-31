@@ -1,0 +1,10 @@
+{
+  "internalId": 2486528174,
+  "name": "Key to Inner Quarters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_key_003.png",
+  "bindType": -1,
+  "knownIds": [
+    219143
+  ]
+}

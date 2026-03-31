@@ -1,0 +1,10 @@
+{
+  "internalId": 1617521674,
+  "name": "Bound Focus Script: Taunt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_taunt.png",
+  "bindType": -1,
+  "knownIds": [
+    1721029
+  ]
+}

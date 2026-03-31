@@ -1,0 +1,19 @@
+{
+  "internalId": 1436678378,
+  "name": "Dagger of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161601,
+    161656,
+    161691,
+    161726,
+    161761,
+    161796,
+    161831,
+    161866,
+    161901,
+    161936
+  ]
+}

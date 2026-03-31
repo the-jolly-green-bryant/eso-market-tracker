@@ -1,0 +1,10 @@
+{
+  "internalId": 3776241758,
+  "name": "Boulder, Mossy Weathered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_mos_tanlgt005.png",
+  "bindType": -1,
+  "knownIds": [
+    120707
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1832529367,
+  "name": "Plant, Marsh Mani Flower",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkmaniflower001.png",
+  "bindType": -1,
+  "knownIds": [
+    145435
+  ]
+}

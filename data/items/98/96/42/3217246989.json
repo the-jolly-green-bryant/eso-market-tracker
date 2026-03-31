@@ -1,0 +1,10 @@
+{
+  "internalId": 3217246989,
+  "name": "Telvanni Table, Organic Grand",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_teltableorganic002.png",
+  "bindType": -1,
+  "knownIds": [
+    126430
+  ]
+}

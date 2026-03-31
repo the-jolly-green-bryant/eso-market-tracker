@@ -1,0 +1,17 @@
+{
+  "internalId": 1418402843,
+  "name": "Bow of High Isle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185916,
+    185937,
+    185958,
+    185979,
+    186000,
+    186021,
+    186042,
+    186063
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": 2574476299,
+  "name": "Grave Guardian's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1351256,
+    1354044,
+    1369700,
+    1370744,
+    1387526,
+    1431095,
+    1508412,
+    1526715,
+    1572073,
+    1583361,
+    1607954,
+    1622734,
+    1629051,
+    1686796,
+    1715791,
+    1758971
+  ]
+}

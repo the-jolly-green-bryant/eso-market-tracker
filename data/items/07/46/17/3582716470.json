@@ -1,0 +1,10 @@
+{
+  "internalId": 3582716470,
+  "name": "Manganese",
+  "description": "An ingredient for crafting in the Orc style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_metals_manganese.png",
+  "bindType": -1,
+  "knownIds": [
+    33257
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2381554915,
+  "name": "Bow of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80404,
+    80424,
+    80444,
+    80464,
+    80484,
+    80496,
+    80516,
+    80536
+  ]
+}

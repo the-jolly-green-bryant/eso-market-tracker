@@ -1,0 +1,10 @@
+{
+  "internalId": 2902218625,
+  "name": "Mushroom, Giant Glowtendril",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_skr_gianttendrilmushroom019.png",
+  "bindType": -1,
+  "knownIds": [
+    184200
+  ]
+}

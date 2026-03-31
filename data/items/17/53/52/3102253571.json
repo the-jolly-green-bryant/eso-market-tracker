@@ -1,0 +1,17 @@
+{
+  "internalId": 3102253571,
+  "name": "Gryphon's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hhammer_b.png",
+  "bindType": 2,
+  "knownIds": [
+    135347,
+    135367,
+    135387,
+    135407,
+    135427,
+    135447,
+    135467,
+    135487
+  ]
+}

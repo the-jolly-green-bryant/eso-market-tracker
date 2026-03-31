@@ -1,0 +1,10 @@
+{
+  "internalId": 1967076912,
+  "name": "Virane's Boots of Cyrodiil's Crest",
+  "description": "These boots served General Virane in life, though not well enough to prevent his death.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45747
+  ]
+}

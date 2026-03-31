@@ -1,0 +1,17 @@
+{
+  "internalId": 1337413960,
+  "name": "hide belt of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    581444,
+    699282,
+    614656,
+    375719,
+    437998,
+    793373,
+    790923,
+    787805
+  ]
+}

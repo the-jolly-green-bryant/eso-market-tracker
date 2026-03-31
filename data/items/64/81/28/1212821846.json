@@ -1,0 +1,19 @@
+{
+  "internalId": 1212821846,
+  "name": "Boots of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158345,
+    158400,
+    158435,
+    158470,
+    158505,
+    158540,
+    158575,
+    158610,
+    158645,
+    158680
+  ]
+}

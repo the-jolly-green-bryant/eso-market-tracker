@@ -1,0 +1,10 @@
+{
+  "internalId": 72245364,
+  "name": "Crystals, Midnight Cluster",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_mphsmallcrystal003.png",
+  "bindType": -1,
+  "knownIds": [
+    139143
+  ]
+}

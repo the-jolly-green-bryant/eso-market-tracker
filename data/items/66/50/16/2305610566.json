@@ -1,0 +1,14 @@
+{
+  "internalId": 2305610566,
+  "name": "Shattered Fate Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194785,
+    194820,
+    194855,
+    194890,
+    194925
+  ]
+}

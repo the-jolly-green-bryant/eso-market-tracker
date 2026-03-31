@@ -1,0 +1,13 @@
+{
+  "internalId": 3394365235,
+  "name": "Restoration Staff of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87383,
+    87404,
+    87425,
+    87446
+  ]
+}

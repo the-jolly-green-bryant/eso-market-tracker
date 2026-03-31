@@ -1,0 +1,10 @@
+{
+  "internalId": 2367801188,
+  "name": "Telvanni Candles, Fungal Group",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_candelabra001.png",
+  "bindType": -1,
+  "knownIds": [
+    197524
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2252724318,
+  "name": "Smuggler's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100960,
+    100981,
+    101002,
+    101023,
+    101044,
+    101065,
+    101086,
+    101107
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1980629982,
+  "name": "Hexos' Ward Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180106,
+    180126,
+    180146,
+    180166,
+    180186,
+    180206,
+    180226,
+    180246
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2103381750,
+  "name": "Colovian Keg, Wine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebarrelaging001.png",
+  "bindType": -1,
+  "knownIds": [
+    204732
+  ]
+}

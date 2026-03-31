@@ -1,0 +1,27 @@
+{
+  "internalId": 224082247,
+  "name": "Overwhelming Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1073606,
+    1083856,
+    1259143,
+    1286882,
+    1366214,
+    1384478,
+    1398557,
+    1399798,
+    1400917,
+    1412444,
+    1452247,
+    1456176,
+    1541818,
+    1560793,
+    1602493,
+    1606226,
+    1679551,
+    1718096
+  ]
+}

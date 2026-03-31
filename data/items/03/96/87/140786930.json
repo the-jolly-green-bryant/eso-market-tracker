@@ -1,0 +1,20 @@
+{
+  "internalId": 140786930,
+  "name": "Widowmaker Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1086905,
+    1145718,
+    1147300,
+    1150161,
+    1155835,
+    1193735,
+    1289801,
+    1539077,
+    1592429,
+    1752162,
+    1759630
+  ]
+}

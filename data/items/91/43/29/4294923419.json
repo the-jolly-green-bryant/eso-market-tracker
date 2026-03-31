@@ -1,0 +1,14 @@
+{
+  "internalId": 4294923419,
+  "name": "Greatsword of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95875,
+    95975,
+    96164,
+    96248,
+    96348
+  ]
+}

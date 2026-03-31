@@ -1,0 +1,17 @@
+{
+  "internalId": 1260360137,
+  "name": "Galerion's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78060,
+    78095,
+    78130,
+    78165,
+    78200,
+    78235,
+    78270,
+    78305
+  ]
+}

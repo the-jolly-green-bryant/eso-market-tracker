@@ -1,0 +1,17 @@
+{
+  "internalId": 1252199039,
+  "name": "Hexos' Ward Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180111,
+    180131,
+    180151,
+    180171,
+    180191,
+    180211,
+    180231,
+    180251
+  ]
+}

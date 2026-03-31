@@ -1,0 +1,19 @@
+{
+  "internalId": 4020824969,
+  "name": "Heartland Conqueror's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172845,
+    172900,
+    172935,
+    172970,
+    173005,
+    173040,
+    173075,
+    173110,
+    173145,
+    173180
+  ]
+}

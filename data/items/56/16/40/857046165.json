@@ -1,0 +1,17 @@
+{
+  "internalId": 857046165,
+  "name": "Restoration Staff of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95656,
+    95676,
+    95696,
+    95716,
+    95736,
+    95756,
+    95776,
+    95796
+  ]
+}

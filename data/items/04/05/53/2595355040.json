@@ -1,0 +1,10 @@
+{
+  "internalId": 2595355040,
+  "name": "Crafting Motif 123: Kindred's Concord Gloves",
+  "description": "Use to learn how to make Kindred's Concord Gloves. Also teaches the equivalent Kindred's Concord Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    194547
+  ]
+}

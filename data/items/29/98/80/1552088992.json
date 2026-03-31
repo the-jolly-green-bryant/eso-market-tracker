@@ -1,0 +1,17 @@
+{
+  "internalId": 1552088992,
+  "name": "Jack of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93372,
+    93392,
+    93412,
+    93432,
+    93452,
+    93472,
+    93492,
+    93512
+  ]
+}

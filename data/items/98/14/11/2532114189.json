@@ -1,0 +1,17 @@
+{
+  "internalId": 2532114189,
+  "name": "Lamp Knight's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213926,
+    213946,
+    213966,
+    213986,
+    214006,
+    214026,
+    214046,
+    214066
+  ]
+}

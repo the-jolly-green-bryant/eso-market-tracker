@@ -1,0 +1,19 @@
+{
+  "internalId": 2952806698,
+  "name": "Deadlands Demolisher's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179187,
+    179242,
+    179277,
+    179312,
+    179347,
+    179382,
+    179417,
+    179452,
+    179487,
+    179522
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 2024720552,
+  "name": "Auroran's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1304186,
+    1315741,
+    1392458,
+    1463805,
+    1545987,
+    1594803
+  ]
+}

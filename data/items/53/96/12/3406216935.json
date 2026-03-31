@@ -1,0 +1,10 @@
+{
+  "internalId": 3406216935,
+  "name": "Focus Script: Immobilize",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_immobilized.png",
+  "bindType": -1,
+  "knownIds": [
+    204563
+  ]
+}

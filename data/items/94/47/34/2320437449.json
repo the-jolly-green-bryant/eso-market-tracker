@@ -1,0 +1,10 @@
+{
+  "internalId": 2320437449,
+  "name": "Crafting Motif 110: Dreadsails Style",
+  "description": "Use to learn the Dreadsails crafting style. Also teaches the equivalent Dreadsails Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    181661
+  ]
+}

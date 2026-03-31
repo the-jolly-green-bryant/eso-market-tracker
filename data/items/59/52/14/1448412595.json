@@ -1,0 +1,17 @@
+{
+  "internalId": 1448412595,
+  "name": "Spinner's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99655,
+    99676,
+    99697,
+    99718,
+    99739,
+    99760,
+    99781,
+    99802
+  ]
+}

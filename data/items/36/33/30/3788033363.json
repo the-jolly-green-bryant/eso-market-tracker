@@ -1,0 +1,17 @@
+{
+  "internalId": 3788033363,
+  "name": "Restoration Staff of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89090,
+    89110,
+    89130,
+    89150,
+    89170,
+    89190,
+    89210,
+    89230
+  ]
+}

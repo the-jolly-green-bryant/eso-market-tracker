@@ -1,0 +1,15 @@
+{
+  "internalId": 1847272406,
+  "name": "Black Foundry Steel Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_heavy_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1768097,
+    1773017,
+    1773227,
+    1773309,
+    1774216,
+    1777339
+  ]
+}

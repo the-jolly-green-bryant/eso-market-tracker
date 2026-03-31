@@ -1,0 +1,10 @@
+{
+  "internalId": 3071668604,
+  "name": "Rotmeth Sandals",
+  "description": "These leather sandals were boiled in rotmeth. The tingling sensation they provide keeps the wearer alert.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54863
+  ]
+}

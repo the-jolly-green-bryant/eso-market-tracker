@@ -1,0 +1,19 @@
+{
+  "internalId": 4168542485,
+  "name": "Tharriker's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205412,
+    205467,
+    205502,
+    205537,
+    205572,
+    205607,
+    205642,
+    205677,
+    205712,
+    205747
+  ]
+}

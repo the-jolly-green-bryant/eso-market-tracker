@@ -1,0 +1,10 @@
+{
+  "internalId": 1201376322,
+  "name": "Dwarven Pipe Cap, Bolted",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_floorpipecap.png",
+  "bindType": -1,
+  "knownIds": [
+    125528
+  ]
+}

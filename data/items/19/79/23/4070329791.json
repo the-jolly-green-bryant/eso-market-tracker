@@ -1,0 +1,19 @@
+{
+  "internalId": 4070329791,
+  "name": "Telvanni Efficiency Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194949,
+    195004,
+    195039,
+    195074,
+    195109,
+    195144,
+    195179,
+    195214,
+    195249,
+    195284
+  ]
+}

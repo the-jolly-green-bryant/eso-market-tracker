@@ -1,0 +1,10 @@
+{
+  "internalId": 1848706033,
+  "name": "Mushrooms, Puspocket Group",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_smlundeadmushroom005.png",
+  "bindType": -1,
+  "knownIds": [
+    134909
+  ]
+}

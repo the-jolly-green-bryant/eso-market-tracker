@@ -1,0 +1,10 @@
+{
+  "internalId": 2243644517,
+  "name": "Colovian Counter, Bar",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_counterlonghigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    204656
+  ]
+}

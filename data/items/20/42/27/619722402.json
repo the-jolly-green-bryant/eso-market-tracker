@@ -1,0 +1,10 @@
+{
+  "internalId": 619722402,
+  "name": "Commander's Signet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    478759
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1502561320,
+  "name": "Restoration Staff of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59957,
+    59992,
+    60027,
+    60062,
+    60097,
+    60132,
+    60167,
+    60202,
+    60237,
+    60272
+  ]
+}

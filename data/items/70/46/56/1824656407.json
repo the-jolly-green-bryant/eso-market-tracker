@@ -1,0 +1,10 @@
+{
+  "internalId": 1824656407,
+  "name": "High Elf Chandelier, Winged",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_lsb_candlelabra001.png",
+  "bindType": -1,
+  "knownIds": [
+    114406
+  ]
+}

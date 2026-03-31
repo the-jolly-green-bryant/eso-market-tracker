@@ -1,0 +1,10 @@
+{
+  "internalId": 3208901818,
+  "name": "Indoril End Table, Rounded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlaendtable001.png",
+  "bindType": -1,
+  "knownIds": [
+    126416
+  ]
+}

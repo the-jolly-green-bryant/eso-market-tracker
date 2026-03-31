@@ -1,0 +1,19 @@
+{
+  "internalId": 2342651105,
+  "name": "Assassin's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121557,
+    121592,
+    121627,
+    121662,
+    121697,
+    121732,
+    121767,
+    121802,
+    121837,
+    121872
+  ]
+}

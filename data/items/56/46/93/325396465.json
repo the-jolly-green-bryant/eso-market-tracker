@@ -1,0 +1,17 @@
+{
+  "internalId": 325396465,
+  "name": "Deadlands Assassin's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172133,
+    172153,
+    172173,
+    172193,
+    172213,
+    172233,
+    172253,
+    172273
+  ]
+}

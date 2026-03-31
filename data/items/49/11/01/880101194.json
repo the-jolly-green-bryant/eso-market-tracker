@@ -1,0 +1,10 @@
+{
+  "internalId": 880101194,
+  "name": "Blueprint: Argonian Snakes in a Basket",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
+  "bindType": -1,
+  "knownIds": [
+    115760
+  ]
+}

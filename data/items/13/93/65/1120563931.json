@@ -1,0 +1,10 @@
+{
+  "internalId": 1120563931,
+  "name": "The Abbey Wall",
+  "description": "For exhibiting a healer's touch and saving her fellow spirit wardens around Pariah Abbey, Falice Menoit gifted you this shield.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    4608
+  ]
+}

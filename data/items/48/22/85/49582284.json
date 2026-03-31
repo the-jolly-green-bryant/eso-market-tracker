@@ -1,0 +1,10 @@
+{
+  "internalId": 49582284,
+  "name": "Artificer's Vestments",
+  "description": "Telenger himself inlaid enchantments on this garment, ensuring only the most powerful of spells can harm it.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10927
+  ]
+}

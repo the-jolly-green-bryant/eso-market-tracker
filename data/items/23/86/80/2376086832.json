@@ -1,0 +1,11 @@
+{
+  "internalId": 2376086832,
+  "name": "Mead De Menthe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_002.png",
+  "bindType": -1,
+  "knownIds": [
+    34011,
+    37849
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 439714246,
+  "name": "Reach Tent, Camp",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_cmp_reachtent001.png",
+  "bindType": -1,
+  "knownIds": [
+    132142
+  ]
+}

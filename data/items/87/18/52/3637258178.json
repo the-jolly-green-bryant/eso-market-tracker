@@ -1,0 +1,17 @@
+{
+  "internalId": 3637258178,
+  "name": "Spell Strategist Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144106,
+    144127,
+    144148,
+    144169,
+    144190,
+    144211,
+    144232,
+    144253
+  ]
+}

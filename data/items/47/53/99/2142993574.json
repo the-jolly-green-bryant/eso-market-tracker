@@ -1,0 +1,18 @@
+{
+  "internalId": 2142993574,
+  "name": "Scorion's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_shield.png",
+  "bindType": -1,
+  "knownIds": [
+    1542181,
+    1542663,
+    1553296,
+    1559558,
+    1566591,
+    1580205,
+    1678574,
+    1680007,
+    1715758
+  ]
+}

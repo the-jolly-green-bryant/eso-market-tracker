@@ -1,0 +1,10 @@
+{
+  "internalId": 2608884364,
+  "name": "Carcass, Grey Hare",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_rabbit001.png",
+  "bindType": -1,
+  "knownIds": [
+    118286
+  ]
+}

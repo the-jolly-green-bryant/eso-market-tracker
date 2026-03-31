@@ -1,0 +1,17 @@
+{
+  "internalId": 2823637220,
+  "name": "Sword of the Immortal Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1077456,
+    1262036,
+    1344557,
+    1392964,
+    1411958,
+    1578245,
+    1682629,
+    1750766
+  ]
+}

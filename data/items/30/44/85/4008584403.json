@@ -1,0 +1,17 @@
+{
+  "internalId": 4008584403,
+  "name": "Bow of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78913,
+    78948,
+    78983,
+    79018,
+    79053,
+    79088,
+    79123,
+    79158
+  ]
+}

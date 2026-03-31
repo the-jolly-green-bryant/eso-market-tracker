@@ -1,0 +1,11 @@
+{
+  "internalId": 2288563137,
+  "name": "Bile-Soaked Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    581055,
+    438672
+  ]
+}

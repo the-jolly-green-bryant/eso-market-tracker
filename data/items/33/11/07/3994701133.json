@@ -1,0 +1,14 @@
+{
+  "internalId": 3994701133,
+  "name": "Pelinal's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76262,
+    76297,
+    76332,
+    76367,
+    76402
+  ]
+}

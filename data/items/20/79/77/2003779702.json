@@ -1,0 +1,10 @@
+{
+  "internalId": 2003779702,
+  "name": "Transliminal Rupture",
+  "description": "Reality seems to warp and unravel at the edges of this dark fissure.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_fx_transliminalrupture.png",
+  "bindType": -1,
+  "knownIds": [
+    134255
+  ]
+}

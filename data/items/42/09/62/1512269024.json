@@ -1,0 +1,10 @@
+{
+  "internalId": 1512269024,
+  "name": "Unknown Enchanting Writ",
+  "description": "This box contains a Master Enchanting Writ.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_latched_box_tan.png",
+  "bindType": -1,
+  "knownIds": [
+    217920
+  ]
+}

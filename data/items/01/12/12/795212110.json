@@ -1,0 +1,19 @@
+{
+  "internalId": 795212110,
+  "name": "Guards of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168779,
+    168834,
+    168869,
+    168904,
+    168939,
+    168974,
+    169009,
+    169044,
+    169079,
+    169114
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2748643757,
+  "name": "Maul of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87753,
+    87766,
+    87779,
+    87792,
+    87805,
+    87818,
+    87831,
+    87844
+  ]
+}

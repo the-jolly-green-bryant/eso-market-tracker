@@ -1,0 +1,10 @@
+{
+  "internalId": 1197034928,
+  "name": "Dres Teapot, Ceramic",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlateapot001.png",
+  "bindType": -1,
+  "knownIds": [
+    126522
+  ]
+}

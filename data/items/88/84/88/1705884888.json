@@ -1,0 +1,17 @@
+{
+  "internalId": 1705884888,
+  "name": "Camonna Tong Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195890,
+    195910,
+    195930,
+    195950,
+    195970,
+    195990,
+    196010,
+    196030
+  ]
+}

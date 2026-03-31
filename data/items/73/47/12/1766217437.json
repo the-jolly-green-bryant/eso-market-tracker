@@ -1,0 +1,10 @@
+{
+  "internalId": 1766217437,
+  "name": "Firesong Lava Shelf, Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drulavatable001.png",
+  "bindType": -1,
+  "knownIds": [
+    191198
+  ]
+}

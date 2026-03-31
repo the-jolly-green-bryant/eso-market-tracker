@@ -1,0 +1,17 @@
+{
+  "internalId": 3324428214,
+  "name": "Three Queens Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214538,
+    214559,
+    214580,
+    214601,
+    214622,
+    214643,
+    214664,
+    214685
+  ]
+}

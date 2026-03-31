@@ -1,0 +1,22 @@
+{
+  "internalId": 3384900171,
+  "name": "Xoryn's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_light_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1726425,
+    1731794,
+    1731944,
+    1732610,
+    1733201,
+    1733203,
+    1734231,
+    1734232,
+    1734391,
+    1738562,
+    1743000,
+    1760753,
+    1763941
+  ]
+}

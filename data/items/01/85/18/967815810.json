@@ -1,0 +1,19 @@
+{
+  "internalId": 967815810,
+  "name": "Druid's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185537,
+    185592,
+    185627,
+    185662,
+    185697,
+    185732,
+    185767,
+    185802,
+    185837,
+    185872
+  ]
+}

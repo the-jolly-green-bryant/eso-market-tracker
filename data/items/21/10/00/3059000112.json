@@ -1,0 +1,11 @@
+{
+  "internalId": 3059000112,
+  "name": "Umbral Edge Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1727666,
+    1746426
+  ]
+}

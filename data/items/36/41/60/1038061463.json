@@ -1,0 +1,20 @@
+{
+  "internalId": 1038061463,
+  "name": "Vrol's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_bow.png",
+  "bindType": -1,
+  "knownIds": [
+    1413590,
+    1413701,
+    1429046,
+    1457388,
+    1539640,
+    1551644,
+    1563011,
+    1592922,
+    1615032,
+    1758523,
+    1765099
+  ]
+}

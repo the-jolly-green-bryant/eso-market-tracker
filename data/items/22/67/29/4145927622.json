@@ -1,0 +1,21 @@
+{
+  "internalId": 4145927622,
+  "name": "Lightning Staff of the Two-Fanged Snake",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1065162,
+    1073586,
+    1167924,
+    1174855,
+    1268495,
+    1488256,
+    1617344,
+    1658254,
+    1691581,
+    1745323,
+    1750754,
+    1750755
+  ]
+}

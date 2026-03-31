@@ -1,0 +1,13 @@
+{
+  "internalId": 3206973966,
+  "name": "Sabatons of the Wyrd Tree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96865,
+    96885,
+    96905,
+    96925
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2552522471,
+  "name": "Mysterious Reward Box",
+  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, gifts from the Crown Store.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+  "bindType": 3,
+  "knownIds": [
+    145490
+  ]
+}

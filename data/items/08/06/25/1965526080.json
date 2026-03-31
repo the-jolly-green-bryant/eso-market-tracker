@@ -1,0 +1,13 @@
+{
+  "internalId": 1965526080,
+  "name": "Shoes of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131301,
+    131336,
+    131371,
+    131406
+  ]
+}

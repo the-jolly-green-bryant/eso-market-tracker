@@ -1,0 +1,10 @@
+{
+  "internalId": 589099207,
+  "name": "Redoran Bed, Double Pillow",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabed007.png",
+  "bindType": -1,
+  "knownIds": [
+    126400
+  ]
+}

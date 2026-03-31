@@ -1,0 +1,10 @@
+{
+  "internalId": 3427582331,
+  "name": "Rough Candle, Tealight",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candlestickshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    117948
+  ]
+}

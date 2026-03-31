@@ -1,0 +1,18 @@
+{
+  "internalId": 3338976681,
+  "name": "Frozen Watcher's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1377386,
+    1421302,
+    1439509,
+    1594789,
+    1660483,
+    1697194,
+    1731846,
+    1734650,
+    1740167
+  ]
+}

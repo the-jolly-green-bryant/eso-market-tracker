@@ -1,0 +1,10 @@
+{
+  "internalId": 4153441754,
+  "name": "Coral Formation, Pillar Polyps",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_coraltree002.png",
+  "bindType": -1,
+  "knownIds": [
+    139078
+  ]
+}

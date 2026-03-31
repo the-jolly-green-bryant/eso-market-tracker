@@ -1,0 +1,19 @@
+{
+  "internalId": 1485638983,
+  "name": "Winterborn Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1254775,
+    1287420,
+    1388945,
+    1401341,
+    1408761,
+    1469677,
+    1516270,
+    1561520,
+    1578127,
+    1689683
+  ]
+}

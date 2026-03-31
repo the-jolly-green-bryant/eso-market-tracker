@@ -1,0 +1,10 @@
+{
+  "internalId": 1344235334,
+  "name": "Imperial Carpet, Stendarr",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_rugstendarrrectangular003.png",
+  "bindType": -1,
+  "knownIds": [
+    94093
+  ]
+}

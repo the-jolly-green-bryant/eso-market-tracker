@@ -1,0 +1,19 @@
+{
+  "internalId": 2687169374,
+  "name": "Karth's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168403,
+    168458,
+    168493,
+    168528,
+    168563,
+    168598,
+    168633,
+    168668,
+    168703,
+    168738
+  ]
+}

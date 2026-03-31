@@ -1,0 +1,17 @@
+{
+  "internalId": 3895361309,
+  "name": "Witchman's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101534,
+    101554,
+    101574,
+    101594,
+    101614,
+    101634,
+    101654,
+    101674
+  ]
+}

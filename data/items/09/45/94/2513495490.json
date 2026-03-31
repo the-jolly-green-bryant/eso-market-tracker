@@ -1,0 +1,10 @@
+{
+  "internalId": 2513495490,
+  "name": "Book Row, Decorative",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_row002.png",
+  "bindType": -1,
+  "knownIds": [
+    121045
+  ]
+}

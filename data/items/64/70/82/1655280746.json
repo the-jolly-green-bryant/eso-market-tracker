@@ -1,0 +1,17 @@
+{
+  "internalId": 1655280746,
+  "name": "Battalion Defender Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144842,
+    144862,
+    144882,
+    144902,
+    144922,
+    144942,
+    144962,
+    144982
+  ]
+}

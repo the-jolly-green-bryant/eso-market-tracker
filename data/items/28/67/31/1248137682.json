@@ -1,0 +1,17 @@
+{
+  "internalId": 1248137682,
+  "name": "Bog Raider's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172296,
+    172316,
+    172336,
+    172356,
+    172376,
+    172396,
+    172416,
+    172436
+  ]
+}

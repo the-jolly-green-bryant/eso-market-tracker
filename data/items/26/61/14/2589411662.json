@@ -1,0 +1,10 @@
+{
+  "internalId": 2589411662,
+  "name": "Bloodthorn Wyress Mantle",
+  "description": "This light armor was awarded for helping the wyresses save the villagers at Deleyn's Mill.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    29942
+  ]
+}

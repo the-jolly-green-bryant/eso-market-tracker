@@ -1,0 +1,10 @@
+{
+  "internalId": 1905967419,
+  "name": "Heavy Red Tincture",
+  "description": "A potion of curious origin. Rumoured to aid stealth and intrusion.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_deathbringer_facepaint.png",
+  "bindType": -1,
+  "knownIds": [
+    68356
+  ]
+}

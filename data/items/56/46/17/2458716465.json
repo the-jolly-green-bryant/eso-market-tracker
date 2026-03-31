@@ -1,0 +1,10 @@
+{
+  "internalId": 2458716465,
+  "name": "Gloves of the Ugly Mug",
+  "description": "The gloves of a Wood Elf thief make for a better trophy than King Kurog's favorite cup.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71006
+  ]
+}

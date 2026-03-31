@@ -1,0 +1,10 @@
+{
+  "internalId": 4141408474,
+  "name": "Trees, Paired Wax Palms",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_des_palm007.png",
+  "bindType": -1,
+  "knownIds": [
+    120475
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 254513415,
+  "name": "Bag of Letter Tiles",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
+  "bindType": -1,
+  "knownIds": [
+    809218
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2604887950,
+  "name": "Shattered Fate Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194784,
+    194819,
+    194854,
+    194889,
+    194924
+  ]
+}

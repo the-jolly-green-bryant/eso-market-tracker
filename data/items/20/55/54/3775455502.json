@@ -1,0 +1,10 @@
+{
+  "internalId": 3775455502,
+  "name": "Tree, Mountain Mahogany",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_mahogany005.png",
+  "bindType": -1,
+  "knownIds": [
+    165824
+  ]
+}

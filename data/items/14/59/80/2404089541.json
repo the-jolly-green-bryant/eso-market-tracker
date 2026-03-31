@@ -1,0 +1,10 @@
+{
+  "internalId": 2404089541,
+  "name": "The Stricture's Mantle",
+  "description": "Payment for assisting Grasp-Kyn Zyr and the Grasp of the Stricture.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    182835
+  ]
+}

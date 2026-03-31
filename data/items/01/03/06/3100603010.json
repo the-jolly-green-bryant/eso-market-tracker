@@ -1,0 +1,10 @@
+{
+  "internalId": 3100603010,
+  "name": "Amethyst Crystals, Small Teal Patch",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_blueamethyst003.png",
+  "bindType": -1,
+  "knownIds": [
+    220348
+  ]
+}

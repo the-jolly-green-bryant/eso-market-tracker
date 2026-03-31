@@ -1,0 +1,10 @@
+{
+  "internalId": 4027482580,
+  "name": "Limestone Border, Pebbles",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonesmooth012.png",
+  "bindType": -1,
+  "knownIds": [
+    139113
+  ]
+}

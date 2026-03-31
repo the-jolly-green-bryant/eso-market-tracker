@@ -1,0 +1,10 @@
+{
+  "internalId": 1179412475,
+  "name": "Nord Bookcase, Short Alcove",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_bookcasesm001.png",
+  "bindType": -1,
+  "knownIds": [
+    115378
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "internalId": 859665145,
+  "name": "Sword of the Worm Cult",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1082800,
+    1174160,
+    1205065,
+    1224086,
+    1377250,
+    1419804,
+    1486244,
+    1550899,
+    1565200,
+    1571467,
+    1593889,
+    1596169,
+    1698944,
+    1765665
+  ]
+}

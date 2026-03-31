@@ -1,0 +1,13 @@
+{
+  "internalId": 736910693,
+  "name": "Aetheric Lancer Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1738620,
+    1760757,
+    1762557,
+    1763579
+  ]
+}

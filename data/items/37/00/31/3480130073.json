@@ -1,0 +1,17 @@
+{
+  "internalId": 3480130073,
+  "name": "Maul of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101148,
+    101168,
+    101188,
+    101208,
+    101228,
+    101248,
+    101268,
+    101288
+  ]
+}

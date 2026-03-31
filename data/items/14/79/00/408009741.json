@@ -1,0 +1,18 @@
+{
+  "internalId": 408009741,
+  "name": "Shared Burden Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215188,
+    215223,
+    215258,
+    215293,
+    215328,
+    215363,
+    215398,
+    215433,
+    215468
+  ]
+}

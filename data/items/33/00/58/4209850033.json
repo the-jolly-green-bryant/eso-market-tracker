@@ -1,0 +1,10 @@
+{
+  "internalId": 4209850033,
+  "name": "Breton Counter, Cabinet",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_merchantcountersmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    115222
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 638983147,
+  "name": "Heartland Conqueror's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172839,
+    172894,
+    172929,
+    172964,
+    172999,
+    173034,
+    173069,
+    173104,
+    173139,
+    173174
+  ]
+}

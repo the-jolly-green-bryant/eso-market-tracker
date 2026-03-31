@@ -1,0 +1,10 @@
+{
+  "internalId": 3474859095,
+  "name": "Antique Map of Craglorn",
+  "description": "The cartographer who worked on this antique map detailed the dry wastelands of Lower Craglorn and mountainous regions of Upper Craglorn with a deft hand.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_mappropscraglornscroll001.png",
+  "bindType": -1,
+  "knownIds": [
+    165994
+  ]
+}

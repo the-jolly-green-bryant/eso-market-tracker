@@ -1,0 +1,10 @@
+{
+  "internalId": 2685746444,
+  "name": "Grimoire: Ulfsild's Contingency",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_magesguild.png",
+  "bindType": 3,
+  "knownIds": [
+    204493
+  ]
+}

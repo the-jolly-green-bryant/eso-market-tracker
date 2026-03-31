@@ -1,0 +1,10 @@
+{
+  "internalId": 1904310772,
+  "name": "Leather Scraps",
+  "description": "Ten of these items can be refined to make leather.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_fur_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    23095
+  ]
+}

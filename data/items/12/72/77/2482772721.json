@@ -1,0 +1,19 @@
+{
+  "internalId": 2482772721,
+  "name": "Clever Alchemist Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72147,
+    72182,
+    72217,
+    72252,
+    72287,
+    72322,
+    72357,
+    72392,
+    72427,
+    72462
+  ]
+}

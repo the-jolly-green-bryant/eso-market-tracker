@@ -1,0 +1,10 @@
+{
+  "internalId": 300926003,
+  "name": "Cassiterite Sand",
+  "description": "Ten of these items can be refined into Cassiterite, which is used to make Ancient Orc equipment.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ghost_inert_glow_dust.png",
+  "bindType": -1,
+  "knownIds": [
+    69556
+  ]
+}

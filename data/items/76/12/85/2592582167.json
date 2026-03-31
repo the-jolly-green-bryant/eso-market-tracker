@@ -1,0 +1,17 @@
+{
+  "internalId": 2592582167,
+  "name": "Battlefield Acrobat Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144288,
+    144308,
+    144328,
+    144348,
+    144368,
+    144388,
+    144408,
+    144428
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3974415660,
+  "name": "Lightning Staff of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58186,
+    58221,
+    58256,
+    58291,
+    58326,
+    58361,
+    58396,
+    58431,
+    58466,
+    58501
+  ]
+}

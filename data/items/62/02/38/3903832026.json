@@ -1,0 +1,17 @@
+{
+  "internalId": 3903832026,
+  "name": "Maul of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84711,
+    84732,
+    84753,
+    84774,
+    84795,
+    84816,
+    84837,
+    84858
+  ]
+}

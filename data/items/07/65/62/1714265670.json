@@ -1,0 +1,10 @@
+{
+  "internalId": 1714265670,
+  "name": "Dauntless Combatant Weapons",
+  "description": "A Crafted Armor set constructed in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182486
+  ]
+}

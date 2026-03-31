@@ -1,0 +1,10 @@
+{
+  "internalId": 2570106558,
+  "name": "Argonian Relic, Broken",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_statuerelic001.png",
+  "bindType": -1,
+  "knownIds": [
+    115542
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3134237891,
+  "name": "Inferno Staff of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93185,
+    93225,
+    93265,
+    93285
+  ]
+}

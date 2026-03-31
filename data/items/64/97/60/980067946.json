@@ -1,0 +1,10 @@
+{
+  "internalId": 980067946,
+  "name": "Elsweyr Shrine, Ancient Small",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_sesmallshrine002.png",
+  "bindType": -1,
+  "knownIds": [
+    153673
+  ]
+}

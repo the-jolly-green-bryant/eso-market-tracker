@@ -1,0 +1,17 @@
+{
+  "internalId": 2059450274,
+  "name": "Wizard's Riposte Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123740,
+    123761,
+    123782,
+    123803,
+    123824,
+    123845,
+    123866,
+    123887
+  ]
+}

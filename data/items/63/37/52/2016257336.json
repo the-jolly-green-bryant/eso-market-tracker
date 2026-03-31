@@ -1,0 +1,10 @@
+{
+  "internalId": 2016257336,
+  "name": "Orcish Divider, Folded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgscreen001.png",
+  "bindType": -1,
+  "knownIds": [
+    116440
+  ]
+}

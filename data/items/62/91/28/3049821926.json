@@ -1,0 +1,10 @@
+{
+  "internalId": 3049821926,
+  "name": "Argonian Rack, Woven",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkweaponrack002.png",
+  "bindType": -1,
+  "knownIds": [
+    120409
+  ]
+}

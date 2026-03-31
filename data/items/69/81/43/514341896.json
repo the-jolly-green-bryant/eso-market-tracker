@@ -1,0 +1,10 @@
+{
+  "internalId": 514341896,
+  "name": "Dark Elf Lantern, Hanging",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_lanternhanginginterior001.png",
+  "bindType": -1,
+  "knownIds": [
+    115314
+  ]
+}

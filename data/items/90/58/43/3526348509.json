@@ -1,0 +1,10 @@
+{
+  "internalId": 3526348509,
+  "name": "Ancient Map of Unknown Land",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
+  "bindType": -1,
+  "knownIds": [
+    495488
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2777749219,
+  "name": "Plaguebreak Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180618,
+    180638,
+    180658,
+    180678,
+    180698,
+    180718,
+    180738,
+    180758
+  ]
+}

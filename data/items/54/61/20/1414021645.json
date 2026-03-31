@@ -1,0 +1,15 @@
+{
+  "internalId": 1414021645,
+  "name": "Maligalig's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1602899,
+    1605751,
+    1608935,
+    1717096,
+    1727387,
+    1748551
+  ]
+}

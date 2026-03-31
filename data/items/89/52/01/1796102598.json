@@ -1,0 +1,17 @@
+{
+  "internalId": 1796102598,
+  "name": "Dagger of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88175,
+    88195,
+    88215,
+    88235,
+    88255,
+    88275,
+    88295,
+    88315
+  ]
+}

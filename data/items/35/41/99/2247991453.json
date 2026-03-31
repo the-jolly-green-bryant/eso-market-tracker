@@ -1,0 +1,19 @@
+{
+  "internalId": 2247991453,
+  "name": "Greatsword of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179559,
+    179614,
+    179649,
+    179684,
+    179719,
+    179754,
+    179789,
+    179824,
+    179859,
+    179894
+  ]
+}

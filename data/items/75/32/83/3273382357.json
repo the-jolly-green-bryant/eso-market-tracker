@@ -1,0 +1,14 @@
+{
+  "internalId": 3273382357,
+  "name": "Greatsword of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75128,
+    75148,
+    75168,
+    75188,
+    75208
+  ]
+}

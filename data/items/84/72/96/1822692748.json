@@ -1,0 +1,17 @@
+{
+  "internalId": 1822692748,
+  "name": "Plaguebreak Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180619,
+    180639,
+    180659,
+    180679,
+    180699,
+    180719,
+    180739,
+    180759
+  ]
+}

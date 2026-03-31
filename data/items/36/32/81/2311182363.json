@@ -1,0 +1,10 @@
+{
+  "internalId": 2311182363,
+  "name": "Platinum Dust",
+  "description": "Ten of these items can be refined to make platinum ounces.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_platinum_dust.png",
+  "bindType": -1,
+  "knownIds": [
+    135145
+  ]
+}

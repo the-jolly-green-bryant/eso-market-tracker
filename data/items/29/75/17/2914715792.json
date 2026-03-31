@@ -1,0 +1,17 @@
+{
+  "internalId": 2914715792,
+  "name": "Dagger of the Valiant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92637,
+    92657,
+    92677,
+    92697,
+    92717,
+    92737,
+    92757,
+    92777
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3827086007,
+  "name": "Fern, Hearty Autumn",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_palmbush001.png",
+  "bindType": -1,
+  "knownIds": [
+    120491
+  ]
+}

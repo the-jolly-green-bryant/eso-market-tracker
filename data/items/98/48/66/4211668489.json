@@ -1,0 +1,10 @@
+{
+  "internalId": 4211668489,
+  "name": "Telvanni Wardrobe, Fungal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_armoirehigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    197513
+  ]
+}

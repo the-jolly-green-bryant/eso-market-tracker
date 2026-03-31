@@ -1,0 +1,17 @@
+{
+  "internalId": 1785881957,
+  "name": "Mad Tinkerer's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132862,
+    132883,
+    132904,
+    132925,
+    132946,
+    132967,
+    132988,
+    133009
+  ]
+}

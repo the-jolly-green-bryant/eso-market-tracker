@@ -1,0 +1,10 @@
+{
+  "internalId": 1199641421,
+  "name": "Morkul's Mighty Mallet",
+  "description": "Awarded for helping Ashaka to find the ancient forge of Clan Morkul.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wrothgarorc_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    70988
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1265901879,
+  "name": "major glyph of decrease health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_decreasehealth.png",
+  "bindType": -1,
+  "knownIds": [
+    404615,
+    1447695
+  ]
+}

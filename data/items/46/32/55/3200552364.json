@@ -1,0 +1,20 @@
+{
+  "internalId": 3200552364,
+  "name": "Battle Axe of Twilight Remedy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2haxe_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1088463,
+    1094315,
+    1153067,
+    1157562,
+    1182113,
+    1197930,
+    1609901,
+    1637125,
+    1693184,
+    1715942,
+    1715984
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1998004884,
+  "name": "Arkay's Charity Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213739,
+    213760,
+    213781,
+    213802,
+    213823,
+    213844,
+    213865,
+    213886
+  ]
+}

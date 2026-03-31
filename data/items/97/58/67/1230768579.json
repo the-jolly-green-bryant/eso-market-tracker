@@ -1,0 +1,19 @@
+{
+  "internalId": 1230768579,
+  "name": "Sword of Twilight Remedy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1066793,
+    1322766,
+    1364897,
+    1422925,
+    1440439,
+    1560618,
+    1586026,
+    1653057,
+    1715899,
+    1716244
+  ]
+}

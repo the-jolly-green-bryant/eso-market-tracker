@@ -1,0 +1,19 @@
+{
+  "internalId": 2281886434,
+  "name": "Battle Axe of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60649,
+    60684,
+    60719,
+    60754,
+    60789,
+    60824,
+    60859,
+    60894,
+    60929,
+    60964
+  ]
+}

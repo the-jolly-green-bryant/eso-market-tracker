@@ -1,0 +1,19 @@
+{
+  "internalId": 1622349545,
+  "name": "Ancient Dragonguard's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155809,
+    155864,
+    155899,
+    155934,
+    155969,
+    156004,
+    156039,
+    156074,
+    156109,
+    156144
+  ]
+}

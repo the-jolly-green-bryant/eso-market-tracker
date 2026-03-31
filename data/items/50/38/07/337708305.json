@@ -1,0 +1,17 @@
+{
+  "internalId": 337708305,
+  "name": "Arm Cops of the Wilderqueen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97428,
+    97448,
+    97468,
+    97488,
+    97508,
+    97528,
+    97548,
+    97568
+  ]
+}

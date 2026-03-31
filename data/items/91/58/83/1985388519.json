@@ -1,0 +1,15 @@
+{
+  "internalId": 1985388519,
+  "name": "Knight Slayer Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123582,
+    123603,
+    123624,
+    123645,
+    123666,
+    123687
+  ]
+}

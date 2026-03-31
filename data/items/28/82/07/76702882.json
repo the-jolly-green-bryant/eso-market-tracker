@@ -1,0 +1,19 @@
+{
+  "internalId": 76702882,
+  "name": "New Moon Acolyte's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    156187,
+    156189,
+    156191,
+    156193,
+    156195,
+    156197,
+    156199,
+    156201,
+    156203,
+    156205
+  ]
+}

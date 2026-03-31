@@ -1,0 +1,19 @@
+{
+  "internalId": 759609792,
+  "name": "Chimera's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191249,
+    191304,
+    191339,
+    191374,
+    191409,
+    191444,
+    191479,
+    191514,
+    191549,
+    191584
+  ]
+}

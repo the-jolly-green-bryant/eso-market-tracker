@@ -1,0 +1,11 @@
+{
+  "internalId": 2664033942,
+  "name": "Nobility in Decay Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1678210,
+    1680908
+  ]
+}

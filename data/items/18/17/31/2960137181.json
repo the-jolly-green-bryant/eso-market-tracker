@@ -1,0 +1,17 @@
+{
+  "internalId": 2960137181,
+  "name": "Beekeeper's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98346,
+    98366,
+    98386,
+    98406,
+    98426,
+    98446,
+    98466,
+    98486
+  ]
+}

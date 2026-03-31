@@ -1,0 +1,19 @@
+{
+  "internalId": 2383809723,
+  "name": "Dagger of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71819,
+    71854,
+    71889,
+    71924,
+    71959,
+    71994,
+    72029,
+    72064,
+    72099,
+    72134
+  ]
+}

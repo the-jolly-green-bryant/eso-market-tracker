@@ -1,0 +1,17 @@
+{
+  "internalId": 2060374318,
+  "name": "Rallying Cry Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183256,
+    183277,
+    183298,
+    183319,
+    183340,
+    183361,
+    183382,
+    183403
+  ]
+}

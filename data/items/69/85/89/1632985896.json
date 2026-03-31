@@ -1,0 +1,17 @@
+{
+  "internalId": 1632985896,
+  "name": "Icy Conjuror's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1303813,
+    1304343,
+    1365773,
+    1543026,
+    1545859,
+    1561492,
+    1561734,
+    1564013
+  ]
+}

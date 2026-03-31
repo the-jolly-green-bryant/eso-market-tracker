@@ -1,0 +1,10 @@
+{
+  "internalId": 2896957395,
+  "name": "Alinor Amphora, Slender",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_aldmervase004.png",
+  "bindType": -1,
+  "knownIds": [
+    139273
+  ]
+}

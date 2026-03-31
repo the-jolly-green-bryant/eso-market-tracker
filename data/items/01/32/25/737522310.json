@@ -1,0 +1,10 @@
+{
+  "internalId": 737522310,
+  "name": "Bread, Braided",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_pastry001.png",
+  "bindType": -1,
+  "knownIds": [
+    118341
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalId": 4169487172,
+  "name": "Jolting Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    943109,
+    1305351,
+    1372213,
+    1463652,
+    1543768,
+    1547539,
+    1555175,
+    1587582,
+    1605717,
+    1624007,
+    1687942,
+    1716148,
+    1718097,
+    1751093,
+    1762553
+  ]
+}

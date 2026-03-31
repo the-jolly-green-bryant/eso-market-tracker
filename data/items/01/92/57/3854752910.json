@@ -1,0 +1,10 @@
+{
+  "internalId": 3854752910,
+  "name": "Daedric Platform, Sarcophagus",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_fur_sarcophagis001.png",
+  "bindType": -1,
+  "knownIds": [
+    126565
+  ]
+}

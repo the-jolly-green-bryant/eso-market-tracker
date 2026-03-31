@@ -1,0 +1,20 @@
+{
+  "internalId": 2029187405,
+  "name": "Caluurion's Legacy Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_axe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1259628,
+    1379962,
+    1515902,
+    1516376,
+    1520471,
+    1587587,
+    1588732,
+    1624884,
+    1637897,
+    1731702,
+    1778332
+  ]
+}

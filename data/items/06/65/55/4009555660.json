@@ -1,0 +1,11 @@
+{
+  "internalId": 4009555660,
+  "name": "Ethereal Key",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_ethereal.png",
+  "bindType": -1,
+  "knownIds": [
+    1588569,
+    1588725
+  ]
+}

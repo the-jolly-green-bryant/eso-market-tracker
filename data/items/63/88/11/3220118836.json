@@ -1,0 +1,13 @@
+{
+  "internalId": 3220118836,
+  "name": "Fledgling's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1749786,
+    1762682,
+    1762954,
+    1777485
+  ]
+}

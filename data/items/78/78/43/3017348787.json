@@ -1,0 +1,13 @@
+{
+  "internalId": 3017348787,
+  "name": "Forge Master's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    696922,
+    640211,
+    460779,
+    877528
+  ]
+}

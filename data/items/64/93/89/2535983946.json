@@ -1,0 +1,14 @@
+{
+  "internalId": 2535983946,
+  "name": "Moon Hunter Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1482096,
+    1526744,
+    1546738,
+    1572480,
+    1758559
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1152525619,
+  "name": "Corpseburster Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1750593,
+    1755022,
+    1759588,
+    1764361
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1629318629,
+  "name": "Crafting Motif 88: Ancestral Orc Chests",
+  "description": "Use to learn how to make Ancestral Orc Chests. Also teaches the equivalent Ancestral Orc outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    160615
+  ]
+}

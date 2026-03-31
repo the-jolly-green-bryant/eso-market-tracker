@@ -1,0 +1,18 @@
+{
+  "internalId": 163466139,
+  "name": "Deadly Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147365,
+    147372,
+    147379,
+    147386,
+    147393,
+    147400,
+    147407,
+    147414,
+    147421
+  ]
+}

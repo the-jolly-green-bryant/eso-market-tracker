@@ -1,0 +1,17 @@
+{
+  "internalId": 2812413588,
+  "name": "Gauntlets of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116540,
+    116560,
+    116580,
+    116600,
+    116620,
+    116640,
+    116660,
+    116680
+  ]
+}

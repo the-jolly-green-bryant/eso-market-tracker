@@ -1,0 +1,17 @@
+{
+  "internalId": 3953656048,
+  "name": "Mace of the Phoenix",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116899,
+    116920,
+    116941,
+    116962,
+    116983,
+    117004,
+    117025,
+    117046
+  ]
+}

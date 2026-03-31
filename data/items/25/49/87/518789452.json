@@ -1,0 +1,17 @@
+{
+  "internalId": 518789452,
+  "name": "Stygian Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102078,
+    102098,
+    102118,
+    102138,
+    102158,
+    102178,
+    102198,
+    102218
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3563941171,
+  "name": "Vastarie's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148710,
+    148765,
+    148800,
+    148835,
+    148870,
+    148905,
+    148940,
+    148975,
+    149010,
+    149045
+  ]
+}

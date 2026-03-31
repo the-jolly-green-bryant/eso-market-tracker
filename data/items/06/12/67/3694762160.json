@@ -1,0 +1,10 @@
+{
+  "internalId": 3694762160,
+  "name": "Welder's Greaves",
+  "description": "With all of the sparking, burning, and bladed objects in the Clockwork City, having good protection at knee level is considered essential.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133236
+  ]
+}

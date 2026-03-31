@@ -1,0 +1,10 @@
+{
+  "internalId": 3286712653,
+  "name": "Staff of Tonal Dissonance",
+  "description": "A Dwarven staff designed to manipulate the ancient tonal amplification devices found within Gloomreach.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167402
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1174323594,
+  "name": "Ice Staff of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100031,
+    100052,
+    100073,
+    100094,
+    100115,
+    100136,
+    100157,
+    100178
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4062790943,
+  "name": "Camonna Tong Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195887,
+    195907,
+    195927,
+    195947,
+    195967,
+    195987,
+    196007,
+    196027
+  ]
+}

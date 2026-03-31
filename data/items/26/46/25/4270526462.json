@@ -1,0 +1,12 @@
+{
+  "internalId": 4270526462,
+  "name": "Ring of the Ritualist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1416752,
+    1436730,
+    1473459
+  ]
+}

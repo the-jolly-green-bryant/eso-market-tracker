@@ -1,0 +1,19 @@
+{
+  "internalId": 3911408134,
+  "name": "Innate Axiom Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130373,
+    130408,
+    130443,
+    130478,
+    130513,
+    130548,
+    130583,
+    130618,
+    130653,
+    130688
+  ]
+}

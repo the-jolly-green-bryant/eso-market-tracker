@@ -1,0 +1,19 @@
+{
+  "internalId": 3322367031,
+  "name": "Shattered Fate Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    194597,
+    194599,
+    194601,
+    194603,
+    194605,
+    194607,
+    194609,
+    194611,
+    194613,
+    194615
+  ]
+}

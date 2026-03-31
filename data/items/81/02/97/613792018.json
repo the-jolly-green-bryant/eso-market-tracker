@@ -1,0 +1,10 @@
+{
+  "internalId": 613792018,
+  "name": "The Observer's Battle Boots",
+  "description": "This Daedric footwear was awarded for joining the Observer's game and choosing a side at the Cliffs of Failure.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    15741
+  ]
+}

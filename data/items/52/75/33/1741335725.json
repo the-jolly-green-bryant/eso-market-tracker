@@ -1,0 +1,18 @@
+{
+  "internalId": 1741335725,
+  "name": "Ice Staff of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161017,
+    161037,
+    161057,
+    161077,
+    161097,
+    161117,
+    161137,
+    161157,
+    161177
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3498488932,
+  "name": "Rough Broom, Practical",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_broom001.png",
+  "bindType": -1,
+  "knownIds": [
+    117941
+  ]
+}

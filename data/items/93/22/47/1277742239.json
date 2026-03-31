@@ -1,0 +1,10 @@
+{
+  "internalId": 1277742239,
+  "name": "Apocrypha Statue, Mouth of Mora",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_libstatuemonster002.png",
+  "bindType": -1,
+  "knownIds": [
+    196212
+  ]
+}

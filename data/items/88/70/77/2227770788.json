@@ -1,0 +1,17 @@
+{
+  "internalId": 2227770788,
+  "name": "Mace of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87750,
+    87763,
+    87776,
+    87789,
+    87802,
+    87815,
+    87828,
+    87841
+  ]
+}

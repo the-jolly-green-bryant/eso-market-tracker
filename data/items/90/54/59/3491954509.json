@@ -1,0 +1,10 @@
+{
+  "internalId": 3491954509,
+  "name": "Ayleid Bracket, Ornate Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_silornpuzzlepylon001.png",
+  "bindType": -1,
+  "knownIds": [
+    211372
+  ]
+}

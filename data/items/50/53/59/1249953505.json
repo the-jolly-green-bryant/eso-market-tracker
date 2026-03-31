@@ -1,0 +1,19 @@
+{
+  "internalId": 1249953505,
+  "name": "Senche-Raht's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148331,
+    148386,
+    148421,
+    148456,
+    148491,
+    148526,
+    148561,
+    148596,
+    148631,
+    148666
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4234813409,
+  "name": "Livewire Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132685,
+    132705,
+    132725,
+    132745,
+    132765,
+    132785,
+    132805,
+    132825
+  ]
+}

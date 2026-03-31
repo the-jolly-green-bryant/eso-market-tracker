@@ -1,0 +1,10 @@
+{
+  "internalId": 2136081843,
+  "name": "Crafting Motif 71: Coldsnap Legs",
+  "description": "Use to learn how to make Coldsnap Legs. Also teaches the equivalent Coldsnap outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    147675
+  ]
+}

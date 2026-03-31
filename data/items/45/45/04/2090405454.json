@@ -1,0 +1,10 @@
+{
+  "internalId": 2090405454,
+  "name": "Stygian Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102072
+  ]
+}

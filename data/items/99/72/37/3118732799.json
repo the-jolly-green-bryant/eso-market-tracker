@@ -1,0 +1,19 @@
+{
+  "internalId": 3118732799,
+  "name": "Tide-Born Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215504,
+    215559,
+    215594,
+    215629,
+    215664,
+    215699,
+    215734,
+    215769,
+    215804,
+    215839
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 135133944,
+  "name": "Redguard Wardrobe, Inlaid",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_wardrobe001.png",
+  "bindType": -1,
+  "knownIds": [
+    117733
+  ]
+}

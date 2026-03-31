@@ -1,0 +1,17 @@
+{
+  "internalId": 3988058005,
+  "name": "Helmet of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114669,
+    114689,
+    114709,
+    114729,
+    114749,
+    114769,
+    114789,
+    114809
+  ]
+}

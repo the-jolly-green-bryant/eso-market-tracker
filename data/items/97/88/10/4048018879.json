@@ -1,0 +1,10 @@
+{
+  "internalId": 4048018879,
+  "name": "Affix Script: Force",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_force.png",
+  "bindType": -1,
+  "knownIds": [
+    204606
+  ]
+}

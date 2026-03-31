@@ -1,0 +1,19 @@
+{
+  "internalId": 1482583634,
+  "name": "Hist Whisperer's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172479,
+    172534,
+    172569,
+    172604,
+    172639,
+    172674,
+    172709,
+    172744,
+    172779,
+    172814
+  ]
+}

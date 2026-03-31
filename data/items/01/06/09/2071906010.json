@@ -1,0 +1,19 @@
+{
+  "internalId": 2071906010,
+  "name": "Gladiator's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75395,
+    75430,
+    75465,
+    75500,
+    75535,
+    75570,
+    75605,
+    75640,
+    75675,
+    75710
+  ]
+}

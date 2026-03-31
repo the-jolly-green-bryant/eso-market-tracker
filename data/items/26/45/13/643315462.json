@@ -1,0 +1,14 @@
+{
+  "internalId": 643315462,
+  "name": "Inferno Staff of Transmutation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199556,
+    199557,
+    199558,
+    199559,
+    199560
+  ]
+}

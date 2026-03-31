@@ -1,0 +1,19 @@
+{
+  "internalId": 2429995722,
+  "name": "Axe of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161595,
+    161650,
+    161685,
+    161720,
+    161755,
+    161790,
+    161825,
+    161860,
+    161895,
+    161930
+  ]
+}

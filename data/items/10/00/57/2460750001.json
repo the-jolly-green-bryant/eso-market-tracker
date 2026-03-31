@@ -1,0 +1,10 @@
+{
+  "internalId": 2460750001,
+  "name": "Argonian Lights, Branch",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_treelight001.png",
+  "bindType": -1,
+  "knownIds": [
+    115534
+  ]
+}

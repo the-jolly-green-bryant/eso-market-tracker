@@ -1,0 +1,19 @@
+{
+  "internalId": 4282020431,
+  "name": "Unchained Aggressor's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158714,
+    158769,
+    158804,
+    158839,
+    158874,
+    158909,
+    158944,
+    158979,
+    159014,
+    159049
+  ]
+}

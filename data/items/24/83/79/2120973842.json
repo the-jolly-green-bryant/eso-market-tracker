@@ -1,0 +1,17 @@
+{
+  "internalId": 2120973842,
+  "name": "Hew and Sunder Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183413,
+    183433,
+    183453,
+    183473,
+    183493,
+    183513,
+    183533,
+    183553
+  ]
+}

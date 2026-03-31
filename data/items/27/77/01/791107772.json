@@ -1,0 +1,19 @@
+{
+  "internalId": 791107772,
+  "name": "Threads of War Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206161,
+    206216,
+    206251,
+    206286,
+    206321,
+    206356,
+    206391,
+    206426,
+    206461,
+    206496
+  ]
+}

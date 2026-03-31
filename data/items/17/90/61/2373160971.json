@@ -1,0 +1,17 @@
+{
+  "internalId": 2373160971,
+  "name": "Mara's Balm Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189851,
+    189871,
+    189891,
+    189911,
+    189931,
+    189951,
+    189971,
+    189991
+  ]
+}

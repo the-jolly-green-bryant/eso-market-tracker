@@ -1,0 +1,10 @@
+{
+  "internalId": 3854923434,
+  "name": "Crafting Motif 60: Worm Cult Shoulders",
+  "description": "Use to learn how to make Worm Cult Shoulders. Also teaches the equivalent Worm Cult Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    134751
+  ]
+}

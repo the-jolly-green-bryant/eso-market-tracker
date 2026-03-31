@@ -1,0 +1,10 @@
+{
+  "internalId": 235683039,
+  "name": "Redoran Trestle, Corridor",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlatable001.png",
+  "bindType": -1,
+  "knownIds": [
+    126404
+  ]
+}

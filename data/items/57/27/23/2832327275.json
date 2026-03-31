@@ -1,0 +1,11 @@
+{
+  "internalId": 2832327275,
+  "name": "Welkynar's Soaring Coffer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1242936,
+    1271747
+  ]
+}

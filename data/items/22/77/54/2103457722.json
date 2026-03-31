@@ -1,0 +1,17 @@
+{
+  "internalId": 2103457722,
+  "name": "Hrothgar's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180781,
+    180801,
+    180821,
+    180841,
+    180861,
+    180881,
+    180901,
+    180921
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1112996970,
+  "name": "Dagger of the Twin Sisters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92273,
+    92293,
+    92313,
+    92333,
+    92353,
+    92373,
+    92393,
+    92413
+  ]
+}

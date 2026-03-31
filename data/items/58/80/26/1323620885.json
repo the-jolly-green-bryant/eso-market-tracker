@@ -1,0 +1,10 @@
+{
+  "internalId": 1323620885,
+  "name": "Dawnwood Lantern String, Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_boshanginglanterns003.png",
+  "bindType": -1,
+  "knownIds": [
+    204687
+  ]
+}

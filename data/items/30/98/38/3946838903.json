@@ -1,0 +1,17 @@
+{
+  "internalId": 3946838903,
+  "name": "Hat of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171966,
+    171987,
+    172008,
+    172029,
+    172050,
+    172071,
+    172092,
+    172113
+  ]
+}

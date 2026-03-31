@@ -1,0 +1,11 @@
+{
+  "internalId": 2366223095,
+  "name": "Stockade",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_stockade001.png",
+  "bindType": -1,
+  "knownIds": [
+    120853,
+    118340
+  ]
+}

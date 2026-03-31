@@ -1,0 +1,10 @@
+{
+  "internalId": 1383607505,
+  "name": "Crafting Motif 126: Shardborn Style",
+  "description": "Use to learn the Shardborn crafting style. Also teaches the equivalent Shardborn Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    203360
+  ]
+}

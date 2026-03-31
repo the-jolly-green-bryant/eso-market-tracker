@@ -1,0 +1,17 @@
+{
+  "internalId": 3194942854,
+  "name": "Barkskin Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92464,
+    92484,
+    92504,
+    92524,
+    92544,
+    92564,
+    92584,
+    92604
+  ]
+}

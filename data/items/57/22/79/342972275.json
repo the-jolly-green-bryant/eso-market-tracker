@@ -1,0 +1,10 @@
+{
+  "internalId": 342972275,
+  "name": "Fargrave Canopy, Massive",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farcanopylargeclean003.png",
+  "bindType": -1,
+  "knownIds": [
+    184076
+  ]
+}

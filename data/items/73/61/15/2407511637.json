@@ -1,0 +1,17 @@
+{
+  "internalId": 2407511637,
+  "name": "Battle Axe of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88900,
+    88920,
+    88940,
+    88960,
+    88980,
+    89000,
+    89020,
+    89040
+  ]
+}

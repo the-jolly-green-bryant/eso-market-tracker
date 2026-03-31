@@ -1,0 +1,17 @@
+{
+  "internalId": 565298928,
+  "name": "Spell Strategist Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144103,
+    144124,
+    144145,
+    144166,
+    144187,
+    144208,
+    144229,
+    144250
+  ]
+}

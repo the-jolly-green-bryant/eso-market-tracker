@@ -1,0 +1,10 @@
+{
+  "internalId": 978031835,
+  "name": "Soul Gem, Grand",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_soulgemgrand001.png",
+  "bindType": -1,
+  "knownIds": [
+    121273
+  ]
+}

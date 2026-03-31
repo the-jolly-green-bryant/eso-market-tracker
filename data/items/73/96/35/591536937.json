@@ -1,0 +1,14 @@
+{
+  "internalId": 591536937,
+  "name": "Blackfeather Flight Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214154,
+    214174,
+    214194,
+    214214,
+    214234
+  ]
+}

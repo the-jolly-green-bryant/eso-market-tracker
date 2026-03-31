@@ -1,0 +1,19 @@
+{
+  "internalId": 4180211799,
+  "name": "Hist Whisperer's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172473,
+    172528,
+    172563,
+    172598,
+    172633,
+    172668,
+    172703,
+    172738,
+    172773,
+    172808
+  ]
+}

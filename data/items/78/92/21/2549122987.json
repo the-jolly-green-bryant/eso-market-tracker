@@ -1,0 +1,11 @@
+{
+  "internalId": 2549122987,
+  "name": "Dancing Grandma",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
+  "bindType": -1,
+  "knownIds": [
+    34065,
+    37856
+  ]
+}

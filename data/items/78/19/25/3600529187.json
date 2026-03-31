@@ -1,0 +1,15 @@
+{
+  "internalId": 3600529187,
+  "name": "Ring of Kagrenac's Hope",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139695,
+    139785,
+    139875,
+    139965,
+    140055,
+    140145
+  ]
+}

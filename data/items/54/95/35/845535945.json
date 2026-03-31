@@ -1,0 +1,13 @@
+{
+  "internalId": 845535945,
+  "name": "Indomitable Fury Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143987,
+    144008,
+    144029,
+    144050
+  ]
+}

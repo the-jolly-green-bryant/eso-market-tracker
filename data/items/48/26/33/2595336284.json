@@ -1,0 +1,10 @@
+{
+  "internalId": 2595336284,
+  "name": "Morihaus the Archer Tapestry, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrymorihausarcher001.png",
+  "bindType": -1,
+  "knownIds": [
+    204414
+  ]
+}

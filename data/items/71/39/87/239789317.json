@@ -1,0 +1,19 @@
+{
+  "internalId": 239789317,
+  "name": "Bone Pirate's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    941657,
+    1159997,
+    1162013,
+    1269201,
+    1407156,
+    1425037,
+    1463743,
+    1565403,
+    1569118,
+    1596767
+  ]
+}

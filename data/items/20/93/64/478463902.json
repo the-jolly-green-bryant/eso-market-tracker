@@ -1,0 +1,19 @@
+{
+  "internalId": 478463902,
+  "name": "Guards of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75768,
+    75803,
+    75838,
+    75873,
+    75908,
+    75943,
+    75978,
+    76013,
+    76048,
+    76083
+  ]
+}

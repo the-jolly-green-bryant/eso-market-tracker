@@ -1,0 +1,17 @@
+{
+  "internalId": 3797109216,
+  "name": "Mara's Balm Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189861,
+    189881,
+    189901,
+    189921,
+    189941,
+    189961,
+    189981,
+    190001
+  ]
+}

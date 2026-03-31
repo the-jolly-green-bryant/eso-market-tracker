@@ -1,0 +1,19 @@
+{
+  "internalId": 1170003911,
+  "name": "Gloves of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71809,
+    71844,
+    71879,
+    71914,
+    71949,
+    71984,
+    72019,
+    72054,
+    72089,
+    72124
+  ]
+}

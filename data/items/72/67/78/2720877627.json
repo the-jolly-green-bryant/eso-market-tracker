@@ -1,0 +1,15 @@
+{
+  "internalId": 2720877627,
+  "name": "Necklace of Shalidor's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139738,
+    139828,
+    139918,
+    140008,
+    140098,
+    140188
+  ]
+}

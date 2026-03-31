@@ -1,0 +1,10 @@
+{
+  "internalId": 3078948556,
+  "name": "Sip of Weapon Crit",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_012_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    30146
+  ]
+}

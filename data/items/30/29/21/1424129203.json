@@ -1,0 +1,10 @@
+{
+  "internalId": 1424129203,
+  "name": "Dres Table, Kitchen",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_exttable003.png",
+  "bindType": -1,
+  "knownIds": [
+    126402
+  ]
+}

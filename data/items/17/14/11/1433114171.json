@@ -1,0 +1,17 @@
+{
+  "internalId": 1433114171,
+  "name": "Girdle of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99486,
+    99506,
+    99526,
+    99546,
+    99566,
+    99586,
+    99606,
+    99626
+  ]
+}

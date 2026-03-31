@@ -1,0 +1,17 @@
+{
+  "internalId": 1200207625,
+  "name": "Ysgramor's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101328,
+    101349,
+    101370,
+    101391,
+    101412,
+    101433,
+    101454,
+    101475
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 265761603,
+  "name": "Elsweyr Fragrance Bottle, Moons-Blessed",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_perfumetrinket001.png",
+  "bindType": -1,
+  "knownIds": [
+    151892
+  ]
+}

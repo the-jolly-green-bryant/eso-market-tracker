@@ -1,0 +1,17 @@
+{
+  "internalId": 2497573787,
+  "name": "Galerion's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78059,
+    78094,
+    78129,
+    78164,
+    78199,
+    78234,
+    78269,
+    78304
+  ]
+}

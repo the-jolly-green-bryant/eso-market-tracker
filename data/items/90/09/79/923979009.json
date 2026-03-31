@@ -1,0 +1,10 @@
+{
+  "internalId": 923979009,
+  "name": "Pact Iceball Trebuchet",
+  "description": "Creates a trebuchet weapon whose iceball causes Frost Damage and ensnares players.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_005.png",
+  "bindType": -1,
+  "knownIds": [
+    44775
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3624111369,
+  "name": "Clan Murtag Leggings",
+  "description": "A gift from Sergeant Olfin for stopping the Ironhand Ogres from overtaking Shinji's Scarp.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15797
+  ]
+}

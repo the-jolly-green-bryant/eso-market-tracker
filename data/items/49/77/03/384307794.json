@@ -1,0 +1,10 @@
+{
+  "internalId": 384307794,
+  "name": "Ruby Candlefly Gathering",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_torchbug_red.png",
+  "bindType": -1,
+  "knownIds": [
+    178799
+  ]
+}

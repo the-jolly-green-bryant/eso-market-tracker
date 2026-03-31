@@ -1,0 +1,10 @@
+{
+  "internalId": 3664332164,
+  "name": "Crafting Motif 62: Sapiarch Maces",
+  "description": "Use to learn how to make Sapiarch Maces. Also teaches the equivalent Sapiarch Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    137930
+  ]
+}

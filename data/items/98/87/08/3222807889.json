@@ -1,0 +1,10 @@
+{
+  "internalId": 3222807889,
+  "name": "High Elf Brazier, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_lsb_brazier001lit.png",
+  "bindType": -1,
+  "knownIds": [
+    114405
+  ]
+}

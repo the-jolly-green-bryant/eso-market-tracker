@@ -1,0 +1,17 @@
+{
+  "internalId": 1370293090,
+  "name": "Lamp Knight's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213923,
+    213943,
+    213963,
+    213983,
+    214003,
+    214023,
+    214043,
+    214063
+  ]
+}

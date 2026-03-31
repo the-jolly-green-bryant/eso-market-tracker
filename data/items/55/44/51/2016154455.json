@@ -1,0 +1,10 @@
+{
+  "internalId": 2016154455,
+  "name": "Worm Cult Trunk, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_largechesthigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    220276
+  ]
+}

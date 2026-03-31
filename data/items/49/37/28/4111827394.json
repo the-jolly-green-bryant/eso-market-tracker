@@ -1,0 +1,10 @@
+{
+  "internalId": 4111827394,
+  "name": "Bound Instant All Research",
+  "description": "This item has no cooldown.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_researchscrolls_allprofessions.png",
+  "bindType": 3,
+  "knownIds": [
+    135124
+  ]
+}

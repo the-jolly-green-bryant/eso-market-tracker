@@ -1,0 +1,10 @@
+{
+  "internalId": 471128909,
+  "name": "Ruby",
+  "description": "Can be used to enhance weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_jewelry_base_ruby_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    4486
+  ]
+}

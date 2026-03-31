@@ -1,0 +1,24 @@
+{
+  "internalId": 3592469623,
+  "name": "Hulking Draugr's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    932373,
+    1210730,
+    1285930,
+    1334118,
+    1353783,
+    1393691,
+    1407824,
+    1457498,
+    1485182,
+    1547048,
+    1569942,
+    1592407,
+    1599667,
+    1602828,
+    1765822
+  ]
+}

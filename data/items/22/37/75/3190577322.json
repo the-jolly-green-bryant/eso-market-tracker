@@ -1,0 +1,21 @@
+{
+  "internalId": 3190577322,
+  "name": "Pillar of Nirn Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1178428,
+    1256502,
+    1286730,
+    1388851,
+    1490524,
+    1573665,
+    1600941,
+    1605647,
+    1608093,
+    1723956,
+    1731904,
+    1733691
+  ]
+}

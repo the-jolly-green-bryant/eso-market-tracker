@@ -1,0 +1,15 @@
+{
+  "internalId": 4174677792,
+  "name": "Ring of the Night Mother",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139683,
+    139773,
+    139863,
+    139953,
+    140043,
+    140133
+  ]
+}

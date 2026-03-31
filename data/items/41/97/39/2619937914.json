@@ -1,0 +1,17 @@
+{
+  "internalId": 2619937914,
+  "name": "Vampire Lord's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100415,
+    100436,
+    100457,
+    100478,
+    100499,
+    100520,
+    100541,
+    100562
+  ]
+}

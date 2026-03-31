@@ -1,0 +1,17 @@
+{
+  "internalId": 43314213,
+  "name": "Seventh Legion's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100781,
+    100801,
+    100821,
+    100841,
+    100861,
+    100881,
+    100901,
+    100921
+  ]
+}

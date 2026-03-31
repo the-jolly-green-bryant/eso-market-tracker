@@ -1,0 +1,19 @@
+{
+  "internalId": 242140266,
+  "name": "Daring Corsair's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155410,
+    155465,
+    155500,
+    155535,
+    155570,
+    155605,
+    155640,
+    155675,
+    155710,
+    155745
+  ]
+}

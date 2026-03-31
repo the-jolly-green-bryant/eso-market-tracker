@@ -1,0 +1,17 @@
+{
+  "internalId": 3509620724,
+  "name": "Snake in the Stars Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    193862,
+    193883,
+    193904,
+    193925,
+    193946,
+    193967,
+    193988,
+    194009
+  ]
+}

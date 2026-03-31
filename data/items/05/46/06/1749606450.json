@@ -1,0 +1,10 @@
+{
+  "internalId": 1749606450,
+  "name": "Prisoner Gnilokelo's Dread",
+  "description": "A staff awarded for defeating the Dremora terror mage, Gnilokelo, in the Cave of Trophies.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    34530
+  ]
+}

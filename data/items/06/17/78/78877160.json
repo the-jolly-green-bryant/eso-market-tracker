@@ -1,0 +1,17 @@
+{
+  "internalId": 78877160,
+  "name": "Gloom-Graced Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_heavy_hand_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135179,
+    135199,
+    135219,
+    135239,
+    135259,
+    135279,
+    135299,
+    135319
+  ]
+}

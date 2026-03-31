@@ -1,0 +1,13 @@
+{
+  "internalId": 152959316,
+  "name": "Greef",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_001.png",
+  "bindType": -1,
+  "knownIds": [
+    57155,
+    32111,
+    32111,
+    32111
+  ]
+}

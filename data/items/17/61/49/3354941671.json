@@ -1,0 +1,11 @@
+{
+  "internalId": 3354941671,
+  "name": "Carrot Cheesecake",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cake_004.png",
+  "bindType": -1,
+  "knownIds": [
+    37833,
+    28330
+  ]
+}

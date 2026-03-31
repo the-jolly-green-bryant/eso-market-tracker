@@ -1,0 +1,17 @@
+{
+  "internalId": 4006421621,
+  "name": "Sword of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hsword_b.png",
+  "bindType": 2,
+  "knownIds": [
+    87120,
+    87141,
+    87162,
+    87183,
+    87204,
+    87225,
+    87246,
+    87267
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 161242178,
+  "name": "Courser's Boots",
+  "description": "Soft and well-worn, these boots are proofed against weather and hard roads.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208130
+  ]
+}

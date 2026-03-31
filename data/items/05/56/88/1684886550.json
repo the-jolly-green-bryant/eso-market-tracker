@@ -1,0 +1,15 @@
+{
+  "internalId": 1684886550,
+  "name": "Gloves of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85650,
+    85671,
+    85692,
+    85713,
+    85734,
+    85776
+  ]
+}

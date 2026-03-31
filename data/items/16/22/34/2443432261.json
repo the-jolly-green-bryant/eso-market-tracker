@@ -1,0 +1,16 @@
+{
+  "internalId": 2443432261,
+  "name": "Curse-Eating Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90832,
+    90853,
+    90874,
+    90895,
+    90916,
+    90937,
+    90958
+  ]
+}

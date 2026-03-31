@@ -1,0 +1,13 @@
+{
+  "internalId": 3289183885,
+  "name": "Indomitable Fury Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143994,
+    144015,
+    144036,
+    144057
+  ]
+}

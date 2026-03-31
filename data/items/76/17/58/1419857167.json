@@ -1,0 +1,20 @@
+{
+  "internalId": 1419857167,
+  "name": "Z'en's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1353712,
+    1371225,
+    1394970,
+    1411985,
+    1560790,
+    1588514,
+    1588806,
+    1622879,
+    1629342,
+    1640710,
+    1687175
+  ]
+}

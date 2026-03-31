@@ -1,0 +1,19 @@
+{
+  "internalId": 473963054,
+  "name": "Daring Corsair's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155440,
+    155442,
+    155444,
+    155446,
+    155448,
+    155450,
+    155452,
+    155454,
+    155456,
+    155458
+  ]
+}

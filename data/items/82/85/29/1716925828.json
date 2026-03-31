@@ -1,0 +1,10 @@
+{
+  "internalId": 1716925828,
+  "name": "Redguard Bottle, Glowing",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_glassbottle001.png",
+  "bindType": -1,
+  "knownIds": [
+    199122
+  ]
+}

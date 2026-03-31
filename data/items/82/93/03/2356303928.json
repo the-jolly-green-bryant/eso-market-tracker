@@ -1,0 +1,17 @@
+{
+  "internalId": 2356303928,
+  "name": "Bow of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91380,
+    91401,
+    91422,
+    91443,
+    91464,
+    91485,
+    91506,
+    91527
+  ]
+}

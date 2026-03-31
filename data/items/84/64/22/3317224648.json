@@ -1,0 +1,17 @@
+{
+  "internalId": 3317224648,
+  "name": "Adamant Lurker Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    196039,
+    196059,
+    196079,
+    196099,
+    196119,
+    196139,
+    196159,
+    196179
+  ]
+}

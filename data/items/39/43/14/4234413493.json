@@ -1,0 +1,10 @@
+{
+  "internalId": 4234413493,
+  "name": "Dark Elf Wardrobe, Angled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_wardrobe001.png",
+  "bindType": -1,
+  "knownIds": [
+    115327
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1168014506,
+  "name": "Plague Doctor's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97039,
+    97059,
+    97079,
+    97099,
+    97119,
+    97139,
+    97159,
+    97179
+  ]
+}

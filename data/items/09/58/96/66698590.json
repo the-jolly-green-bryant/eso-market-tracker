@@ -1,0 +1,20 @@
+{
+  "internalId": 66698590,
+  "name": "Sash of the Depths",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_lgt_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1587002,
+    1593672,
+    1593734,
+    1601845,
+    1603452,
+    1608177,
+    1608944,
+    1608945,
+    1626527,
+    1716137,
+    1731687
+  ]
+}

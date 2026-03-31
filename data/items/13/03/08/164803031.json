@@ -1,0 +1,17 @@
+{
+  "internalId": 164803031,
+  "name": "Inferno Staff of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98519,
+    98539,
+    98559,
+    98579,
+    98599,
+    98619,
+    98639,
+    98659
+  ]
+}

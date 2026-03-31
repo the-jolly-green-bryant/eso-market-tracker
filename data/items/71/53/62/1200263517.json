@@ -1,0 +1,10 @@
+{
+  "internalId": 1200263517,
+  "name": "Critical Riposte (Crafted)",
+  "description": "An item set crafted in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    159517
+  ]
+}

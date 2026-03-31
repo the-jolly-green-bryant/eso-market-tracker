@@ -1,0 +1,10 @@
+{
+  "internalId": 251246387,
+  "name": "Longbow of Solitude",
+  "description": "This bow is one of the legendary Weapons of Solitude.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159700
+  ]
+}

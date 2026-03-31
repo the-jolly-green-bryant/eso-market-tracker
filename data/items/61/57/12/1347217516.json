@@ -1,0 +1,10 @@
+{
+  "internalId": 1347217516,
+  "name": "Solitude Table, Round",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tableroundlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    165676
+  ]
+}

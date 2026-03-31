@@ -1,0 +1,21 @@
+{
+  "internalId": 4284943172,
+  "name": "Blackrose Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1293135,
+    1337318,
+    1339046,
+    1339613,
+    1394098,
+    1537474,
+    1564499,
+    1566561,
+    1587961,
+    1590841,
+    1722437,
+    1756764
+  ]
+}

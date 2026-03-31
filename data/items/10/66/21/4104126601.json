@@ -1,0 +1,10 @@
+{
+  "internalId": 4104126601,
+  "name": "Breton Tapestry, Boughs",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_tapestry002.png",
+  "bindType": -1,
+  "knownIds": [
+    115239
+  ]
+}

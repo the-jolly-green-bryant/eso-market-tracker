@@ -1,0 +1,19 @@
+{
+  "internalId": 4173268680,
+  "name": "Vastarie's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148713,
+    148768,
+    148803,
+    148838,
+    148873,
+    148908,
+    148943,
+    148978,
+    149013,
+    149048
+  ]
+}

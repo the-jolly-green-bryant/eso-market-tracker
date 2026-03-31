@@ -1,0 +1,11 @@
+{
+  "internalId": 726221189,
+  "name": "Blind Path Induction Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719046,
+    1721724
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 965169341,
+  "name": "Arm Cops of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77094,
+    77114,
+    77134,
+    77154,
+    77174,
+    77194,
+    77214,
+    77234
+  ]
+}

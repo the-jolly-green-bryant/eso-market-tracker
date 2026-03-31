@@ -1,0 +1,17 @@
+{
+  "internalId": 86839676,
+  "name": "Mace of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98148,
+    98168,
+    98188,
+    98208,
+    98228,
+    98248,
+    98268,
+    98288
+  ]
+}

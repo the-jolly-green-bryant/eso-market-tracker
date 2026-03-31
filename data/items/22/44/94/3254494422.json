@@ -1,0 +1,10 @@
+{
+  "internalId": 3254494422,
+  "name": "Book of Poetry",
+  "description": "This bound collection of famous Breton sonnets has a partial copy of \"The Lusty Argonian Maid\" folded between two pages.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_002.png",
+  "bindType": -1,
+  "knownIds": [
+    30331
+  ]
+}

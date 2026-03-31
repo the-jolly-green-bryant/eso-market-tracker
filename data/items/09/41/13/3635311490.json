@@ -1,0 +1,10 @@
+{
+  "internalId": 3635311490,
+  "name": "Crafting Motif 132: Stirk Fellowship Shields",
+  "description": "Use to learn how to make Stirk Fellowship Shields. Also teaches the equivalent Stirk Fellowship Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    212095
+  ]
+}

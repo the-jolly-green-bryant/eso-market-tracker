@@ -1,0 +1,10 @@
+{
+  "internalId": 2764498106,
+  "name": "Covenant Cold Fire Ballista of Vengeance",
+  "description": "Creates a ballista siege weapon whose bolt causes Flame Damage to structures and also damages foes over time.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_darkanchor_bluefireballista.png",
+  "bindType": -1,
+  "knownIds": [
+    223770
+  ]
+}

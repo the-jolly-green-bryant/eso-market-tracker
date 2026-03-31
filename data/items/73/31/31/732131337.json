@@ -1,0 +1,15 @@
+{
+  "internalId": 732131337,
+  "name": "Ice Staff of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88582,
+    88602,
+    88622,
+    88642,
+    88662,
+    88682
+  ]
+}

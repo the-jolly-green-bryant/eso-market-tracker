@@ -1,0 +1,17 @@
+{
+  "internalId": 1529101111,
+  "name": "Helm of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88731,
+    88751,
+    88771,
+    88791,
+    88811,
+    88831,
+    88851,
+    88871
+  ]
+}

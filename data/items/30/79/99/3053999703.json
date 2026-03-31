@@ -1,0 +1,17 @@
+{
+  "internalId": 3053999703,
+  "name": "hickory shield of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    433316,
+    481720,
+    690324,
+    481798,
+    458929,
+    398731,
+    451979,
+    791529
+  ]
+}

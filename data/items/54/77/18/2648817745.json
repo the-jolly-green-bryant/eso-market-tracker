@@ -1,0 +1,10 @@
+{
+  "internalId": 2648817745,
+  "name": "Vase, Gilded Offering",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldaltmervase003.png",
+  "bindType": -1,
+  "knownIds": [
+    121052
+  ]
+}

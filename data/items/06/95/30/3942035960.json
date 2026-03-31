@@ -1,0 +1,10 @@
+{
+  "internalId": 3942035960,
+  "name": "Grass, Tall Bamboo Shoots",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_bamboogreen001.png",
+  "bindType": -1,
+  "knownIds": [
+    120749
+  ]
+}

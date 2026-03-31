@@ -1,0 +1,17 @@
+{
+  "internalId": 207354134,
+  "name": "Battle Axe of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84528,
+    84548,
+    84568,
+    84588,
+    84608,
+    84628,
+    84648,
+    84668
+  ]
+}

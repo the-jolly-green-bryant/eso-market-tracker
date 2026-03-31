@@ -1,0 +1,10 @@
+{
+  "internalId": 680298261,
+  "name": "Dried Fish Biscuits",
+  "description": "A tourist snack made on Khenarthi's Roost and in coastal towns, the perfect gift for a Khajiiti chaos mage. This gift for Ember is more appreciated when used during Hearts Week.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_ember.png",
+  "bindType": -1,
+  "knownIds": [
+    220265
+  ]
+}

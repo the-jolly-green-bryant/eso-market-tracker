@@ -1,0 +1,16 @@
+{
+  "internalId": 424735134,
+  "name": "Sithis' Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77279,
+    77314,
+    77349,
+    77384,
+    77419,
+    77454,
+    77489
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 550712240,
+  "name": "Gauntlets of Affliction",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    64749,
+    64756,
+    64785,
+    64792,
+    64821,
+    64828
+  ]
+}

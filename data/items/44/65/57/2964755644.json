@@ -1,0 +1,10 @@
+{
+  "internalId": 2964755644,
+  "name": "Crafting Motif 124: The Recollection Daggers",
+  "description": "Use to learn how to make the Recollection Daggers. Also teaches the equivalent the Recollection Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203188
+  ]
+}

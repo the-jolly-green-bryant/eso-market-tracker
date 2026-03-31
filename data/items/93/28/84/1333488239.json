@@ -1,0 +1,17 @@
+{
+  "internalId": 1333488239,
+  "name": "Arkay's Charity Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213754,
+    213775,
+    213796,
+    213817,
+    213838,
+    213859,
+    213880,
+    213901
+  ]
+}

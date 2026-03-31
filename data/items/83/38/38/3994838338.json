@@ -1,0 +1,28 @@
+{
+  "internalId": 3994838338,
+  "name": "Draugrkin Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1352307,
+    1353798,
+    1354061,
+    1357056,
+    1362368,
+    1382643,
+    1409693,
+    1409696,
+    1485202,
+    1540535,
+    1588822,
+    1618015,
+    1629063,
+    1633640,
+    1637762,
+    1649926,
+    1684525,
+    1697909,
+    1770412
+  ]
+}

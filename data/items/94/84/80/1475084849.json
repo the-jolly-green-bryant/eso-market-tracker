@@ -1,0 +1,10 @@
+{
+  "internalId": 1475084849,
+  "name": "Crab, Display",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_bluecrab001.png",
+  "bindType": -1,
+  "knownIds": [
+    214463
+  ]
+}

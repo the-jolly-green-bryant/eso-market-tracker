@@ -1,0 +1,10 @@
+{
+  "internalId": 426233957,
+  "name": "Redguard Candelabra, Practical",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varcandlelabralow003.png",
+  "bindType": -1,
+  "knownIds": [
+    117698
+  ]
+}

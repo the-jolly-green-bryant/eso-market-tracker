@@ -1,0 +1,19 @@
+{
+  "internalId": 3944763859,
+  "name": "Tharriker's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205420,
+    205475,
+    205510,
+    205545,
+    205580,
+    205615,
+    205650,
+    205685,
+    205720,
+    205755
+  ]
+}

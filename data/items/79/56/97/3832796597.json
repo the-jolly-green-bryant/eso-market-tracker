@@ -1,0 +1,17 @@
+{
+  "internalId": 3832796597,
+  "name": "Old Growth Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191705,
+    191740,
+    191775,
+    191810,
+    191845,
+    191880,
+    191915,
+    191950
+  ]
+}

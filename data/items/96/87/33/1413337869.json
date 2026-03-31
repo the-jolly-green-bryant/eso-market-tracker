@@ -1,0 +1,10 @@
+{
+  "internalId": 1413337869,
+  "name": "Empty Wine Bottle",
+  "description": "This wine bottle is empty.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_potion_003.png",
+  "bindType": -1,
+  "knownIds": [
+    30327
+  ]
+}

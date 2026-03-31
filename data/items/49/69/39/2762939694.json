@@ -1,0 +1,17 @@
+{
+  "internalId": 2762939694,
+  "name": "Macabre Vintage Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    205068,
+    205088,
+    205108,
+    205128,
+    205148,
+    205168,
+    205188,
+    205208
+  ]
+}

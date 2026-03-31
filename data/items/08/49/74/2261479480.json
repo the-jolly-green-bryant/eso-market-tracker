@@ -1,0 +1,19 @@
+{
+  "internalId": 2261479480,
+  "name": "Gladiator's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75411,
+    75446,
+    75481,
+    75516,
+    75551,
+    75586,
+    75621,
+    75656,
+    75691,
+    75726
+  ]
+}

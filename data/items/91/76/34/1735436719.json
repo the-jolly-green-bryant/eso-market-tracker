@@ -1,0 +1,17 @@
+{
+  "internalId": 1735436719,
+  "name": "Bog Raider's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172289,
+    172309,
+    172329,
+    172349,
+    172369,
+    172389,
+    172409,
+    172429
+  ]
+}

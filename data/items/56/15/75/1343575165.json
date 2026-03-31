@@ -1,0 +1,17 @@
+{
+  "internalId": 1343575165,
+  "name": "Shoes of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91196,
+    91217,
+    91238,
+    91259,
+    91280,
+    91301,
+    91322,
+    91343
+  ]
+}

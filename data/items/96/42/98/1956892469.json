@@ -1,0 +1,17 @@
+{
+  "internalId": 1956892469,
+  "name": "Shield of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194202,
+    194222,
+    194242,
+    194262,
+    194282,
+    194302,
+    194322,
+    194342
+  ]
+}

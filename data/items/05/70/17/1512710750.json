@@ -1,0 +1,21 @@
+{
+  "internalId": 1512710750,
+  "name": "Moondancer Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_e.png",
+  "bindType": -1,
+  "knownIds": [
+    949509,
+    1331726,
+    1391551,
+    1391554,
+    1508566,
+    1609412,
+    1614656,
+    1643791,
+    1660925,
+    1715983,
+    1749873,
+    1778318
+  ]
+}

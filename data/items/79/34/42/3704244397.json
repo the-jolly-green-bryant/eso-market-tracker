@@ -1,0 +1,17 @@
+{
+  "internalId": 3704244397,
+  "name": "Restoration Staff of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210549,
+    210569,
+    210589,
+    210609,
+    210629,
+    210649,
+    210669,
+    210689
+  ]
+}

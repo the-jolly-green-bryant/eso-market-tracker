@@ -1,0 +1,17 @@
+{
+  "internalId": 524245009,
+  "name": "Ice Staff of the Gorethief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    224385,
+    224420,
+    224455,
+    224490,
+    224525,
+    224560,
+    224595,
+    224630
+  ]
+}

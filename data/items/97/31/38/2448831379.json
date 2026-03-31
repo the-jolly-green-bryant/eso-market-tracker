@@ -1,0 +1,10 @@
+{
+  "internalId": 2448831379,
+  "name": "Crafting Motif 52: Redoran Style",
+  "description": "Use to learn the Redoran crafting style. Also teaches the equivalent Redoran Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    130010
+  ]
+}

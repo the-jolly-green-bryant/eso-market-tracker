@@ -1,0 +1,17 @@
+{
+  "internalId": 3995843818,
+  "name": "Shield of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88909,
+    88929,
+    88949,
+    88969,
+    88989,
+    89009,
+    89029,
+    89049
+  ]
+}

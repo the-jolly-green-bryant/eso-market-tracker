@@ -1,0 +1,17 @@
+{
+  "internalId": 1368570486,
+  "name": "Crafty Alfiq's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149248,
+    149269,
+    149290,
+    149311,
+    149332,
+    149353,
+    149374,
+    149395
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 2549008921,
+  "name": "Abyssal Brace Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1630283,
+    1630688,
+    1636241,
+    1636316,
+    1637849,
+    1640401,
+    1644432,
+    1644470,
+    1659278,
+    1732002,
+    1757594
+  ]
+}

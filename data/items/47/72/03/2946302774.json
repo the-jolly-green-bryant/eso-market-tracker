@@ -1,0 +1,14 @@
+{
+  "internalId": 2946302774,
+  "name": "Frozen Watcher's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1460069,
+    1594795,
+    1597217,
+    1731828,
+    1750819
+  ]
+}

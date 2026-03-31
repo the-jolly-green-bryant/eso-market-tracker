@@ -1,0 +1,19 @@
+{
+  "internalId": 580741249,
+  "name": "Daring Corsair's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155435,
+    155490,
+    155525,
+    155560,
+    155595,
+    155630,
+    155665,
+    155700,
+    155735,
+    155770
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 868187890,
+  "name": "Worm Cult Chair, Padded Double-Backed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_lowchair002.png",
+  "bindType": -1,
+  "knownIds": [
+    220312
+  ]
+}

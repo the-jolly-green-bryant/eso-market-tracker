@@ -1,0 +1,19 @@
+{
+  "internalId": 803985956,
+  "name": "Deadlands Demolisher's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179185,
+    179240,
+    179275,
+    179310,
+    179345,
+    179380,
+    179415,
+    179450,
+    179485,
+    179520
+  ]
+}

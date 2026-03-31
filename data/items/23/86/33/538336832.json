@@ -1,0 +1,23 @@
+{
+  "internalId": 538336832,
+  "name": "Sword of the Eternal Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1144804,
+    1148679,
+    1171907,
+    1242951,
+    1333388,
+    1345693,
+    1392487,
+    1405850,
+    1516607,
+    1542984,
+    1563343,
+    1595735,
+    1633848,
+    1740702
+  ]
+}

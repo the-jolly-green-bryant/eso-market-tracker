@@ -1,0 +1,19 @@
+{
+  "internalId": 418713970,
+  "name": "Unchained Aggressor's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158690,
+    158745,
+    158780,
+    158815,
+    158850,
+    158885,
+    158920,
+    158955,
+    158990,
+    159025
+  ]
+}

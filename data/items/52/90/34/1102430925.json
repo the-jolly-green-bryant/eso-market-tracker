@@ -1,0 +1,11 @@
+{
+  "internalId": 1102430925,
+  "name": "Soulcleaver Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1692956,
+    1702517
+  ]
+}

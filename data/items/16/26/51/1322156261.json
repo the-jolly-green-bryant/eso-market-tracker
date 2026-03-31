@@ -1,0 +1,11 @@
+{
+  "internalId": 1322156261,
+  "name": "Bound Signature Script: Leeching Thirst",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_livesteal.png",
+  "bindType": -1,
+  "knownIds": [
+    1719655,
+    1721015
+  ]
+}

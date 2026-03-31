@@ -1,0 +1,10 @@
+{
+  "internalId": 1039574035,
+  "name": "Death-Dancer Soul Slicer",
+  "description": "A sharp Tide-Born blade utilized in Death-Dancer rituals all across Solstice.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    217722
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1347307898,
+  "name": "Indoril Sconce, Temple",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlacandlesconce001.png",
+  "bindType": -1,
+  "knownIds": [
+    126490
+  ]
+}

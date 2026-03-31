@@ -1,0 +1,17 @@
+{
+  "internalId": 2910949711,
+  "name": "Hew and Sunder Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183414,
+    183434,
+    183454,
+    183474,
+    183494,
+    183514,
+    183534,
+    183554
+  ]
+}

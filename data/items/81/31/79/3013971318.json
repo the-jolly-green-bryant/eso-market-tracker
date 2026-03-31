@@ -1,0 +1,10 @@
+{
+  "internalId": 3013971318,
+  "name": "Breton Pew, Windowed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_benchpeasant001.png",
+  "bindType": -1,
+  "knownIds": [
+    115155
+  ]
+}

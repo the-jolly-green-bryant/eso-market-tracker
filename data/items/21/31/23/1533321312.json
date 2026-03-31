@@ -1,0 +1,10 @@
+{
+  "internalId": 1533321312,
+  "name": "Nord Urn, Braided",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_urn004.png",
+  "bindType": -1,
+  "knownIds": [
+    115398
+  ]
+}

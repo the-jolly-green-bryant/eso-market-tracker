@@ -1,0 +1,10 @@
+{
+  "internalId": 2968721586,
+  "name": "Necrom Incense Burner, Delicate Brass",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necincenseburner002.png",
+  "bindType": -1,
+  "knownIds": [
+    198450
+  ]
+}

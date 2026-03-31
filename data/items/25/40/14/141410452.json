@@ -1,0 +1,13 @@
+{
+  "internalId": 141410452,
+  "name": "Restoration Staff of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129589,
+    129601,
+    129613,
+    129625
+  ]
+}

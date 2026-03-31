@@ -1,0 +1,19 @@
+{
+  "internalId": 3383561914,
+  "name": "Karth's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168383,
+    168438,
+    168473,
+    168508,
+    168543,
+    168578,
+    168613,
+    168648,
+    168683,
+    168718
+  ]
+}

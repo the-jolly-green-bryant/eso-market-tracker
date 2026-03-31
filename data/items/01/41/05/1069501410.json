@@ -1,0 +1,10 @@
+{
+  "internalId": 1069501410,
+  "name": "Caravaner's Inferno Staff",
+  "description": "Age has reduced this staff's flames to embers. Even so, a well-placed fire bolt can still pack a punch.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    152247
+  ]
+}

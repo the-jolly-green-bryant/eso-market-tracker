@@ -1,0 +1,10 @@
+{
+  "internalId": 3135184404,
+  "name": "Breton Statue, Fighters Guild",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_run_fightersguildstatue001.png",
+  "bindType": -1,
+  "knownIds": [
+    115268
+  ]
+}

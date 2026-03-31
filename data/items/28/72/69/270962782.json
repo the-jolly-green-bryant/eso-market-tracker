@@ -1,0 +1,19 @@
+{
+  "internalId": 270962782,
+  "name": "Senche-Raht's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148349,
+    148404,
+    148439,
+    148474,
+    148509,
+    148544,
+    148579,
+    148614,
+    148649,
+    148684
+  ]
+}

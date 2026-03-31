@@ -1,0 +1,10 @@
+{
+  "internalId": 3857272099,
+  "name": "Cocoon, Skeleton",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_webbedprisoneropen001.png",
+  "bindType": -1,
+  "knownIds": [
+    139156
+  ]
+}

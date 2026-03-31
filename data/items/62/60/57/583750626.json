@@ -1,0 +1,15 @@
+{
+  "internalId": 583750626,
+  "name": "Knight Slayer Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123574,
+    123595,
+    123616,
+    123637,
+    123658,
+    123679
+  ]
+}

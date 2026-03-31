@@ -1,0 +1,13 @@
+{
+  "internalId": 4100257686,
+  "name": "Amulet of the Turning Tide",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1569378,
+    1577391,
+    1582632,
+    1727432
+  ]
+}

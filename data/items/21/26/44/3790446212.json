@@ -1,0 +1,10 @@
+{
+  "internalId": 3790446212,
+  "name": "Scepter of the Riekr King-Chief",
+  "description": "Once the symbol of power for an Orc chief, the scepter recently rested in the hands of the Riekr king-chief. Donate this to Curator Umutha and the House of Orsimer Glories in Orsinium.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_b.png",
+  "bindType": 3,
+  "knownIds": [
+    64593
+  ]
+}

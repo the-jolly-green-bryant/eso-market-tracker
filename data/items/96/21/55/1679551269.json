@@ -1,0 +1,10 @@
+{
+  "internalId": 1679551269,
+  "name": "Svari's Staff",
+  "description": "Svari, now a sage, gifted you her staff after you accompanied her to Fallowstone's shrines.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10150
+  ]
+}

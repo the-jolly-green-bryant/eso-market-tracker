@@ -1,0 +1,14 @@
+{
+  "internalId": 1466373812,
+  "name": "Eternal Hunt Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72682,
+    72717,
+    72752,
+    72787,
+    72822
+  ]
+}

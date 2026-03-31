@@ -1,0 +1,10 @@
+{
+  "internalId": 1509402810,
+  "name": "Shrine, Sithis Figure Anointed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_run_mrkwarningshrine003.png",
+  "bindType": -1,
+  "knownIds": [
+    145451
+  ]
+}

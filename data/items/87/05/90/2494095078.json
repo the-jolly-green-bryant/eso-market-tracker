@@ -1,0 +1,10 @@
+{
+  "internalId": 2494095078,
+  "name": "Indoril Banner, Almalexia",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlabanneralmalexia001.png",
+  "bindType": -1,
+  "knownIds": [
+    126553
+  ]
+}

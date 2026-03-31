@@ -1,0 +1,10 @@
+{
+  "internalId": 277988313,
+  "name": "Quicksilver Ore",
+  "description": "Ten of these items can be refined to make quicksilver ingots.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_moonstone.png",
+  "bindType": -1,
+  "knownIds": [
+    23134
+  ]
+}

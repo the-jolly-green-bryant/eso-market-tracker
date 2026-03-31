@@ -1,0 +1,17 @@
+{
+  "internalId": 761664559,
+  "name": "Ice Staff of the Twin Sisters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92276,
+    92296,
+    92316,
+    92336,
+    92356,
+    92376,
+    92396,
+    92416
+  ]
+}

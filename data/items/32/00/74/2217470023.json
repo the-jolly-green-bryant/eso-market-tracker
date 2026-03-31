@@ -1,0 +1,19 @@
+{
+  "internalId": 2217470023,
+  "name": "Gladiator's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75393,
+    75428,
+    75463,
+    75498,
+    75533,
+    75568,
+    75603,
+    75638,
+    75673,
+    75708
+  ]
+}

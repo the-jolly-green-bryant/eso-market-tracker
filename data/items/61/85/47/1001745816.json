@@ -1,0 +1,10 @@
+{
+  "internalId": 1001745816,
+  "name": "Statue, Pride of Alkosh Hero",
+  "description": "The Pride of Alkosh Hero brandishes an hourglass lantern while in a victory stance over a vanquished Dragon. The lantern shines forth with a warm glow, a bright beacon, or not at all—owner's choice!",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_sestatueprideofalkosh001.png",
+  "bindType": -1,
+  "knownIds": [
+    159439
+  ]
+}

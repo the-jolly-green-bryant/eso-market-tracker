@@ -1,0 +1,11 @@
+{
+  "internalId": 3838631785,
+  "name": "Sujamma",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_001.png",
+  "bindType": -1,
+  "knownIds": [
+    32105,
+    33959
+  ]
+}

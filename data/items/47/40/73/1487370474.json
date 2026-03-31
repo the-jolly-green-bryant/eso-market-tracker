@@ -1,0 +1,17 @@
+{
+  "internalId": 1487370474,
+  "name": "Greatsword of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101149,
+    101169,
+    101189,
+    101209,
+    101229,
+    101249,
+    101269,
+    101289
+  ]
+}

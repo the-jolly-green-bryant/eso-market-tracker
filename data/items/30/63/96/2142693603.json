@@ -1,0 +1,25 @@
+{
+  "internalId": 2142693603,
+  "name": "Maul of the Magicka Furnace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1179662,
+    1228825,
+    1230265,
+    1235308,
+    1311131,
+    1524979,
+    1556956,
+    1569930,
+    1571770,
+    1573095,
+    1582219,
+    1633894,
+    1661690,
+    1687799,
+    1715835,
+    1738524
+  ]
+}

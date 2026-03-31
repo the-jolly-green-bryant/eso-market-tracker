@@ -1,0 +1,10 @@
+{
+  "internalId": 250177557,
+  "name": "Banner of Vaermina",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannervaerminasmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    150774
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3829606589,
+  "name": "Sword of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129580,
+    129592,
+    129604,
+    129616
+  ]
+}

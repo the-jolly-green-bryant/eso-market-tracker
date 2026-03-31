@@ -1,0 +1,10 @@
+{
+  "internalId": 1850360534,
+  "name": "Elsweyr Trunk, Peaked Embellished",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_chest003.png",
+  "bindType": -1,
+  "knownIds": [
+    151707
+  ]
+}

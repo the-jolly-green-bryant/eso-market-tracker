@@ -1,0 +1,17 @@
+{
+  "internalId": 378700381,
+  "name": "Beekeeper's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98343,
+    98363,
+    98383,
+    98403,
+    98423,
+    98443,
+    98463,
+    98483
+  ]
+}

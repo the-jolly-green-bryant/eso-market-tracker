@@ -1,0 +1,17 @@
+{
+  "internalId": 3142518464,
+  "name": "Boots of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95659,
+    95679,
+    95699,
+    95719,
+    95739,
+    95759,
+    95779,
+    95799
+  ]
+}

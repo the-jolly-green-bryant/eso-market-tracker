@@ -1,0 +1,10 @@
+{
+  "internalId": 3762439968,
+  "name": "Falmer Fence, Reinforced",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrfence002.png",
+  "bindType": -1,
+  "knownIds": [
+    212576
+  ]
+}

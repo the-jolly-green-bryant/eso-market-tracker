@@ -1,0 +1,17 @@
+{
+  "internalId": 1086250361,
+  "name": "Hexos' Ward Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2med_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180112,
+    180132,
+    180152,
+    180172,
+    180192,
+    180212,
+    180232,
+    180252
+  ]
+}

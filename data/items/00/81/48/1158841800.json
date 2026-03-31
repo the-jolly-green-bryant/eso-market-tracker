@@ -1,0 +1,10 @@
+{
+  "internalId": 1158841800,
+  "name": "Cold Roast Corn",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_corn_002.png",
+  "bindType": -1,
+  "knownIds": [
+    30456
+  ]
+}

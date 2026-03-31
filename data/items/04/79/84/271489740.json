@@ -1,0 +1,24 @@
+{
+  "internalId": 271489740,
+  "name": "Band of the Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    642471,
+    576765,
+    676855,
+    375401,
+    809047,
+    833252,
+    872763,
+    939863,
+    978700,
+    1077988,
+    1362830,
+    1451235,
+    1472080,
+    1679742,
+    1753330
+  ]
+}

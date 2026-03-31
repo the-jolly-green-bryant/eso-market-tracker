@@ -1,0 +1,18 @@
+{
+  "internalId": 746095710,
+  "name": "Mace of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_hammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161009,
+    161029,
+    161049,
+    161069,
+    161089,
+    161109,
+    161129,
+    161149,
+    161169
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1518560645,
+  "name": "Dessicated Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    622803,
+    509070
+  ]
+}

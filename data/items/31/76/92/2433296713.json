@@ -1,0 +1,19 @@
+{
+  "internalId": 2433296713,
+  "name": "Keeper's Medallion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    696785,
+    576262,
+    460789,
+    819395,
+    781180,
+    943755,
+    1225171,
+    1261257,
+    1433002,
+    1566987
+  ]
+}

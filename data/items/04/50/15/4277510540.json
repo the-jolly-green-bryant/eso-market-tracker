@@ -1,0 +1,10 @@
+{
+  "internalId": 4277510540,
+  "name": "Lute of Blue Longing",
+  "description": "This lute is said to be cursed with the spirit of a queen betrayed in love. Bring this to the Bards College in Solitude, in Western Skyrim.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questluteofbluelonging001.png",
+  "bindType": 3,
+  "knownIds": [
+    156666
+  ]
+}

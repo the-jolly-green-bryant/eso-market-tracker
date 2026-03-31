@@ -1,0 +1,30 @@
+{
+  "internalId": 4139533072,
+  "name": "Unidentified Summerset Weapon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1240409,
+    1241148,
+    1259809,
+    1267030,
+    1267141,
+    1274814,
+    1279666,
+    1280475,
+    1280529,
+    1282989,
+    1283201,
+    1287662,
+    1287764,
+    1289478,
+    1290076,
+    1305530,
+    1309465,
+    1330706,
+    1366034,
+    1377470,
+    1382603
+  ]
+}

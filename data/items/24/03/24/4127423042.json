@@ -1,0 +1,13 @@
+{
+  "internalId": 4127423042,
+  "name": "Spell Parasite's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163291,
+    163326,
+    163361,
+    163396
+  ]
+}

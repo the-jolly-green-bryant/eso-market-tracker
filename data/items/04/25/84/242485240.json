@@ -1,0 +1,10 @@
+{
+  "internalId": 242485240,
+  "name": "Hlaalu Bookcase, Empty",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabookcase001.png",
+  "bindType": -1,
+  "knownIds": [
+    126499
+  ]
+}

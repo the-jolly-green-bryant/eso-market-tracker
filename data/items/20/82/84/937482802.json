@@ -1,0 +1,13 @@
+{
+  "internalId": 937482802,
+  "name": "Ebon Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77722,
+    77758,
+    77794,
+    77830
+  ]
+}

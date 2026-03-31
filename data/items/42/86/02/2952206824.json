@@ -1,0 +1,19 @@
+{
+  "internalId": 2952206824,
+  "name": "Tide-Born Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215485,
+    215540,
+    215575,
+    215610,
+    215645,
+    215680,
+    215715,
+    215750,
+    215785,
+    215820
+  ]
+}

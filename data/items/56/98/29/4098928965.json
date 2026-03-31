@@ -1,0 +1,10 @@
+{
+  "internalId": 4098928965,
+  "name": "Magister's Exquisite Gloves",
+  "description": "Beautiful Telvanni gloves, awarded for paying Sun-in-Shadow's debt to Magister Gothren.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126063
+  ]
+}

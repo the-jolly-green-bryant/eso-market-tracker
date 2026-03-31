@@ -1,0 +1,10 @@
+{
+  "internalId": 541560457,
+  "name": "Argonian Brazier, Mud",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mudlamp003.png",
+  "bindType": -1,
+  "knownIds": [
+    115533
+  ]
+}

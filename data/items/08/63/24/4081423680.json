@@ -1,0 +1,11 @@
+{
+  "internalId": 4081423680,
+  "name": "slight glyph of weakening",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_weakeningenchant.png",
+  "bindType": -1,
+  "knownIds": [
+    598471,
+    1437252
+  ]
+}

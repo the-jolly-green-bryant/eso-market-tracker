@@ -1,0 +1,10 @@
+{
+  "internalId": 1387895058,
+  "name": "Khajiit Sofa, Padded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_bench003.png",
+  "bindType": -1,
+  "knownIds": [
+    115699
+  ]
+}

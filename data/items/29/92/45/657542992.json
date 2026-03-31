@@ -1,0 +1,10 @@
+{
+  "internalId": 657542992,
+  "name": "Imperial Lantern, Wall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_lsb_lamphanginglitonly001.png",
+  "bindType": -1,
+  "knownIds": [
+    94109
+  ]
+}

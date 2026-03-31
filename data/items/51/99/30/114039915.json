@@ -1,0 +1,17 @@
+{
+  "internalId": 114039915,
+  "name": "Witch-Knight's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167784,
+    167804,
+    167824,
+    167844,
+    167864,
+    167884,
+    167904,
+    167924
+  ]
+}

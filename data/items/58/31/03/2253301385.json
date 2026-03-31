@@ -1,0 +1,10 @@
+{
+  "internalId": 2253301385,
+  "name": "Simple Bait",
+  "description": "General fishing Bait",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_fish_tail.png",
+  "bindType": -1,
+  "knownIds": [
+    42877
+  ]
+}

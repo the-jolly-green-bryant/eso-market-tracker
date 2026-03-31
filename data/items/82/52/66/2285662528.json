@@ -1,0 +1,17 @@
+{
+  "internalId": 2285662528,
+  "name": "Wizard's Riposte Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123731,
+    123752,
+    123773,
+    123794,
+    123815,
+    123836,
+    123857,
+    123878
+  ]
+}

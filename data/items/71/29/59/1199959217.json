@@ -1,0 +1,19 @@
+{
+  "internalId": 1199959217,
+  "name": "Epaulets of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60671,
+    60706,
+    60741,
+    60776,
+    60811,
+    60846,
+    60881,
+    60916,
+    60951,
+    60986
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1661050260,
+  "name": "Mota Fang",
+  "description": "This dagger was made from the actual fang of a great Shadowfen serpent.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7428
+  ]
+}

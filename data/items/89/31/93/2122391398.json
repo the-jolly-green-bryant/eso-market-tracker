@@ -1,0 +1,19 @@
+{
+  "internalId": 2122391398,
+  "name": "Cuirass of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161608,
+    161663,
+    161698,
+    161733,
+    161768,
+    161803,
+    161838,
+    161873,
+    161908,
+    161943
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1429542937,
+  "name": "Rathide Boots",
+  "description": "Adamir rewarded your grisly assistance reanimating dead rats with these oddly stylish boots.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10887
+  ]
+}

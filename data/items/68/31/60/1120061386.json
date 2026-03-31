@@ -1,0 +1,17 @@
+{
+  "internalId": 1120061386,
+  "name": "Breeches of Oakfather's Retribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    203920,
+    203941,
+    203962,
+    203983,
+    204004,
+    204025,
+    204046,
+    204067
+  ]
+}

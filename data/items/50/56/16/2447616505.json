@@ -1,0 +1,11 @@
+{
+  "internalId": 2447616505,
+  "name": "Covenant Forward Camp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_007.png",
+  "bindType": -1,
+  "knownIds": [
+    1161685,
+    1288381
+  ]
+}

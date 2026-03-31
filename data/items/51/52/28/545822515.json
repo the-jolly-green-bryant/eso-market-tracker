@@ -1,0 +1,10 @@
+{
+  "internalId": 545822515,
+  "name": "Rogue's Soot",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outlaw_styleitem.png",
+  "bindType": -1,
+  "knownIds": [
+    71538
+  ]
+}

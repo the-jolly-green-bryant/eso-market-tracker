@@ -1,0 +1,18 @@
+{
+  "internalId": 1723457633,
+  "name": "Grand Amnesty Edict",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_bounty_expunger_high.png",
+  "bindType": -1,
+  "knownIds": [
+    860343,
+    891068,
+    1091347,
+    1182510,
+    1204694,
+    1205735,
+    1233397,
+    1269235,
+    1330857
+  ]
+}

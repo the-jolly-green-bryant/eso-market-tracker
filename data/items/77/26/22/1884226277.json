@@ -1,0 +1,10 @@
+{
+  "internalId": 1884226277,
+  "name": "Malachite",
+  "description": "An ingredient for crafting in the Glass style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_base_malachite_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    64689
+  ]
+}

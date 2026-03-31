@@ -1,0 +1,10 @@
+{
+  "internalId": 328887585,
+  "name": "The Captain's Helm of the Veiled Heritance",
+  "description": "Once worn by Captain Blanchete himself, this helm has seen every shore in southern Tamriel.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    42988
+  ]
+}

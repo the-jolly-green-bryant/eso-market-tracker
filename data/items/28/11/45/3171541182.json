@@ -1,0 +1,17 @@
+{
+  "internalId": 3171541182,
+  "name": "Shalk's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96604,
+    96624,
+    96644,
+    96664,
+    96684,
+    96704,
+    96724,
+    96744
+  ]
+}

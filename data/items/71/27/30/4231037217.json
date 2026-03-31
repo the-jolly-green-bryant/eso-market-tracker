@@ -1,0 +1,13 @@
+{
+  "internalId": 4231037217,
+  "name": "Lightning Staff of the Wyrd Tree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96861,
+    96881,
+    96901,
+    96921
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2507846509,
+  "name": "The City of Necrom Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necwoodpictureframe011.png",
+  "bindType": -1,
+  "knownIds": [
+    197781
+  ]
+}

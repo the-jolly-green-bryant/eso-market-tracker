@@ -1,0 +1,17 @@
+{
+  "internalId": 3141630620,
+  "name": "Battle Axe of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171953,
+    171974,
+    171995,
+    172016,
+    172037,
+    172058,
+    172079,
+    172100
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2600873949,
+  "name": "Sanded Yew",
+  "description": "An ingredient for crafting wooden weapons and shields.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_base_yew_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    23123
+  ]
+}

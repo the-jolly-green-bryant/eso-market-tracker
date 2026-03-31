@@ -1,0 +1,10 @@
+{
+  "internalId": 897559457,
+  "name": "Velothi Mat, Prayer",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_rugprayer001.png",
+  "bindType": -1,
+  "knownIds": [
+    126764
+  ]
+}

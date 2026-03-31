@@ -1,0 +1,13 @@
+{
+  "internalId": 2892241226,
+  "name": "Blackfeather Flight Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214164,
+    214184,
+    214204,
+    214224
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3750130663,
+  "name": "Blunted Blades Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204080,
+    204100,
+    204120,
+    204140,
+    204160,
+    204180,
+    204200,
+    204220
+  ]
+}

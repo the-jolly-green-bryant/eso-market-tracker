@@ -1,0 +1,10 @@
+{
+  "internalId": 379046169,
+  "name": "Common Firepit, Piled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_campfiresimple002.png",
+  "bindType": -1,
+  "knownIds": [
+    118055
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 125158462,
+  "name": "Crafting Motif 89: Ancestral High Elf Maces",
+  "description": "Use to learn how to make Ancestral High Elf Maces. Also teaches the equivalent Ancestral High Elf Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    160603
+  ]
+}

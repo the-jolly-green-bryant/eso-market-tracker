@@ -1,0 +1,10 @@
+{
+  "internalId": 3648727885,
+  "name": "Apocrypha Tree, Teal Spiral",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_spiralplant003.png",
+  "bindType": -1,
+  "knownIds": [
+    198468
+  ]
+}

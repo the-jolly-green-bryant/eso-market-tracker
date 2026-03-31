@@ -1,0 +1,10 @@
+{
+  "internalId": 4033455282,
+  "name": "Alinor Bread Basket, Wrought Iron",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altsquarebowl001.png",
+  "bindType": -1,
+  "knownIds": [
+    139297
+  ]
+}

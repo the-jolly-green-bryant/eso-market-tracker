@@ -1,0 +1,10 @@
+{
+  "internalId": 96161776,
+  "name": "Cast-Off Greaves",
+  "description": "Dents and scratches cover these old metal greaves. Despite their age, they remain fairly sturdy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    157511
+  ]
+}

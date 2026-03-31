@@ -1,0 +1,19 @@
+{
+  "internalId": 221528215,
+  "name": "Axe of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121901,
+    121936,
+    121971,
+    122006,
+    122041,
+    122076,
+    122111,
+    122146,
+    122181,
+    122216
+  ]
+}

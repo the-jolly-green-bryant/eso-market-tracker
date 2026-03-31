@@ -1,0 +1,10 @@
+{
+  "internalId": 1700317278,
+  "name": "Recipe: Psijic Ambrosia, Fragment I",
+  "description": "This is the first of seven parts of the Psijic Ambrosia Recipe.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_004.png",
+  "bindType": -1,
+  "knownIds": [
+    64703
+  ]
+}

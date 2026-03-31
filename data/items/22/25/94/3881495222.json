@@ -1,0 +1,19 @@
+{
+  "internalId": 3881495222,
+  "name": "Might of the Lost Legion Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143561,
+    143616,
+    143651,
+    143686,
+    143721,
+    143756,
+    143791,
+    143826,
+    143861,
+    143896
+  ]
+}

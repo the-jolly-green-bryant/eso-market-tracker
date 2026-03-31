@@ -1,0 +1,10 @@
+{
+  "internalId": 2639646670,
+  "name": "Harbor Floats",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varharborfloat004.png",
+  "bindType": -1,
+  "knownIds": [
+    120850
+  ]
+}

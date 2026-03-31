@@ -1,0 +1,14 @@
+{
+  "internalId": 689449518,
+  "name": "Helm of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199820,
+    199821,
+    199822,
+    199823,
+    199824
+  ]
+}

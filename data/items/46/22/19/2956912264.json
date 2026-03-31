@@ -1,0 +1,17 @@
+{
+  "internalId": 2956912264,
+  "name": "Sword of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1517673,
+    1560693,
+    1568938,
+    1626871,
+    1680960,
+    1716158,
+    1748490,
+    1774185
+  ]
+}

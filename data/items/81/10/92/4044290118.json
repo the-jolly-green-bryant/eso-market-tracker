@@ -1,0 +1,17 @@
+{
+  "internalId": 4044290118,
+  "name": "Sword of Prayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90420,
+    90441,
+    90462,
+    90483,
+    90504,
+    90525,
+    90546,
+    90567
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1613104171,
+  "name": "Dark Elf Pillow, Body",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_pillow002.png",
+  "bindType": -1,
+  "knownIds": [
+    115298
+  ]
+}

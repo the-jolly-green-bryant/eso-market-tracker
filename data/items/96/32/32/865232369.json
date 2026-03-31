@@ -1,0 +1,11 @@
+{
+  "internalId": 865232369,
+  "name": "The Vicecanon's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78549,
+    78584
+  ]
+}

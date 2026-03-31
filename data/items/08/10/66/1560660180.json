@@ -1,0 +1,10 @@
+{
+  "internalId": 1560660180,
+  "name": "Glyph of Health",
+  "description": "This glyph can be applied to any of your armor. Select the item and choose the enchant option.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_healthboost.png",
+  "bindType": -1,
+  "knownIds": [
+    135129
+  ]
+}

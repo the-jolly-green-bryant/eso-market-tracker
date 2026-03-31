@@ -1,0 +1,10 @@
+{
+  "internalId": 2571887526,
+  "name": "Elsweyr Mirror, Carved Wall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_wallmirror001.png",
+  "bindType": -1,
+  "knownIds": [
+    151894
+  ]
+}

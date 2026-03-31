@@ -1,0 +1,10 @@
+{
+  "internalId": 1163961274,
+  "name": "Orcish Seal, Battle-Axe",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgpuzzleswitchsymbol002.png",
+  "bindType": -1,
+  "knownIds": [
+    156661
+  ]
+}

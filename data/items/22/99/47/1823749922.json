@@ -1,0 +1,19 @@
+{
+  "internalId": 1823749922,
+  "name": "Ancient Dragonguard's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155783,
+    155838,
+    155873,
+    155908,
+    155943,
+    155978,
+    156013,
+    156048,
+    156083,
+    156118
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1594614911,
+  "name": "Sabatons of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60659,
+    60694,
+    60729,
+    60764,
+    60799,
+    60834,
+    60869,
+    60904,
+    60939,
+    60974
+  ]
+}

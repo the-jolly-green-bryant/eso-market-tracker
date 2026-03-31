@@ -1,0 +1,13 @@
+{
+  "internalId": 3213719397,
+  "name": "trifling glyph of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_frostessence.png",
+  "bindType": -1,
+  "knownIds": [
+    546512,
+    516329,
+    1129561,
+    1426572
+  ]
+}

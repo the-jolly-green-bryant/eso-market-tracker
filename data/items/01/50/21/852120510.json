@@ -1,0 +1,10 @@
+{
+  "internalId": 852120510,
+  "name": "Kwama Mining Gloves",
+  "description": "For helping the miner of Deepcrag Den, Boril Drelas gave you these gloves.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    7335
+  ]
+}

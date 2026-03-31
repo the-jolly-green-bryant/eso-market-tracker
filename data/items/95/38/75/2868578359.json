@@ -1,0 +1,17 @@
+{
+  "internalId": 2868578359,
+  "name": "Mace of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86564,
+    86584,
+    86604,
+    86624,
+    86644,
+    86664,
+    86684,
+    86704
+  ]
+}

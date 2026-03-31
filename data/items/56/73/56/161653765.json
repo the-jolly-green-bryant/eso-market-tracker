@@ -1,0 +1,20 @@
+{
+  "internalId": 161653765,
+  "name": "Ansuul's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1645315,
+    1681067,
+    1689788,
+    1698533,
+    1698534,
+    1715923,
+    1764242,
+    1764474,
+    1765945,
+    1769931,
+    1774004
+  ]
+}

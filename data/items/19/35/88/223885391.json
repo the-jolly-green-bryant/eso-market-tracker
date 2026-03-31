@@ -1,0 +1,17 @@
+{
+  "internalId": 223885391,
+  "name": "Epaulets of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91774,
+    91795,
+    91816,
+    91837,
+    91858,
+    91879,
+    91900,
+    91921
+  ]
+}

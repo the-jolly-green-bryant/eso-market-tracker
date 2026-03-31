@@ -1,0 +1,17 @@
+{
+  "internalId": 3493014918,
+  "name": "Vanus's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135544,
+    135565,
+    135586,
+    135607,
+    135628,
+    135649,
+    135670,
+    135691
+  ]
+}

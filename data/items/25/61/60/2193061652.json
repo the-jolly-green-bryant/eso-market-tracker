@@ -1,0 +1,10 @@
+{
+  "internalId": 2193061652,
+  "name": "Rocks, Basalt Chunks",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_mphsmall006.png",
+  "bindType": -1,
+  "knownIds": [
+    134934
+  ]
+}

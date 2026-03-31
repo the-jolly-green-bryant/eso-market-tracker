@@ -1,0 +1,10 @@
+{
+  "internalId": 1698130537,
+  "name": "Nord Crockpot, Covered",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_inc_foodpotlrg002.png",
+  "bindType": -1,
+  "knownIds": [
+    115391
+  ]
+}

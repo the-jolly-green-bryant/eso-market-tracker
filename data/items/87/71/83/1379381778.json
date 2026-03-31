@@ -1,0 +1,10 @@
+{
+  "internalId": 1379381778,
+  "name": "Elsweyr Hand Mirror, Bronze Oval",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_handmirror001.png",
+  "bindType": -1,
+  "knownIds": [
+    151890
+  ]
+}

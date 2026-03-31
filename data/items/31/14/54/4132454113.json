@@ -1,0 +1,17 @@
+{
+  "internalId": 4132454113,
+  "name": "Hrothgar's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180783,
+    180803,
+    180823,
+    180843,
+    180863,
+    180883,
+    180903,
+    180923
+  ]
+}

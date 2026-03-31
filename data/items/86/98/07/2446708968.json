@@ -1,0 +1,11 @@
+{
+  "internalId": 2446708968,
+  "name": "Gloves of Bahraha's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114603,
+    114624
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 977488586,
+  "name": "Ayleid Remnant",
+  "description": "An object of indeterminate purpose that is clearly Ayleid in origin. Perhaps the researcher will know what to make of it",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_welkynd_001.png",
+  "bindType": -1,
+  "knownIds": [
+    207943
+  ]
+}

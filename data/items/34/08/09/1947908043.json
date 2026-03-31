@@ -1,0 +1,10 @@
+{
+  "internalId": 1947908043,
+  "name": "Vines, Volcanic Roses",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_ivydeadred002.png",
+  "bindType": -1,
+  "knownIds": [
+    125681
+  ]
+}

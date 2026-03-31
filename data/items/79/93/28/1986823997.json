@@ -1,0 +1,17 @@
+{
+  "internalId": 1986823997,
+  "name": "Battlefield Acrobat Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144296,
+    144316,
+    144336,
+    144356,
+    144376,
+    144396,
+    144416,
+    144436
+  ]
+}

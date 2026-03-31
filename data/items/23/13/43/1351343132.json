@@ -1,0 +1,10 @@
+{
+  "internalId": 1351343132,
+  "name": "Stirk Fellowship Battle Robes",
+  "description": "Robes awarded to members of the Stirk Fellowship for outstanding service.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    217714
+  ]
+}

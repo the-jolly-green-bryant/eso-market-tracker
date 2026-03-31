@@ -1,0 +1,10 @@
+{
+  "internalId": 3676613744,
+  "name": "Boulder, Volcanic Crag",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_vrdmed005.png",
+  "bindType": -1,
+  "knownIds": [
+    125482
+  ]
+}

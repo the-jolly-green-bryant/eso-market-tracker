@@ -1,0 +1,18 @@
+{
+  "internalId": 2694694334,
+  "name": "Dragonguard Elite's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155229,
+    155249,
+    155269,
+    155289,
+    155309,
+    155329,
+    155349,
+    155369,
+    155389
+  ]
+}

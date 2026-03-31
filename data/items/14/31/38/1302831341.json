@@ -1,0 +1,10 @@
+{
+  "internalId": 1302831341,
+  "name": "Fargrave Terrarium, Small Gas Blossom",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farterrariumcase007.png",
+  "bindType": -1,
+  "knownIds": [
+    182259
+  ]
+}

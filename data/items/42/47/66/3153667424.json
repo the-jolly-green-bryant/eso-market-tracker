@@ -1,0 +1,10 @@
+{
+  "internalId": 3153667424,
+  "name": "Stormfist's Holy Hammer of the Dragon",
+  "description": "A weapon awarded for defeating the Stormfist Brigade leader, Eorim the Hammer, in Old Sord's Cave.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34620
+  ]
+}

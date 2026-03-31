@@ -1,0 +1,10 @@
+{
+  "internalId": 3998695673,
+  "name": "Mummified Alfiq Parts",
+  "description": "Part of a mummified alfiq. With enough of these, you could build your own.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mummified_alfiq_parts.png",
+  "bindType": -1,
+  "knownIds": [
+    147929
+  ]
+}

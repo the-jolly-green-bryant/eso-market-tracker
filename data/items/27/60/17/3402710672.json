@@ -1,0 +1,19 @@
+{
+  "internalId": 3402710672,
+  "name": "Arm Cops of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121934,
+    121969,
+    122004,
+    122039,
+    122074,
+    122109,
+    122144,
+    122179,
+    122214,
+    122249
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1670818804,
+  "name": "Mushroom, Cave Bracket",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdhangingmushrooms002.png",
+  "bindType": -1,
+  "knownIds": [
+    125583
+  ]
+}

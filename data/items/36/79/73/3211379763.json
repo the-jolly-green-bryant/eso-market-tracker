@@ -1,0 +1,22 @@
+{
+  "internalId": 3211379763,
+  "name": "Abyssal Brace Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_heavy_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628779,
+    1628819,
+    1629569,
+    1629579,
+    1630284,
+    1633722,
+    1636275,
+    1637690,
+    1637727,
+    1642865,
+    1658356,
+    1658359,
+    1680151
+  ]
+}

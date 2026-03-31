@@ -1,0 +1,10 @@
+{
+  "internalId": 2094961423,
+  "name": "Scamp-Head Camp Alarm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_004.png",
+  "bindType": -1,
+  "knownIds": [
+    732717
+  ]
+}

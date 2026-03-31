@@ -1,0 +1,17 @@
+{
+  "internalId": 4151559171,
+  "name": "Axe of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78906,
+    78941,
+    78976,
+    79011,
+    79046,
+    79081,
+    79116,
+    79151
+  ]
+}

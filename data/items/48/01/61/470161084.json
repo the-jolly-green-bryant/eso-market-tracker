@@ -1,0 +1,19 @@
+{
+  "internalId": 470161084,
+  "name": "Sload's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136093,
+    136128,
+    136163,
+    136198,
+    136233,
+    136268,
+    136303,
+    136338,
+    136373,
+    136408
+  ]
+}

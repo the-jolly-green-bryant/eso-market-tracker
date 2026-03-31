@@ -1,0 +1,10 @@
+{
+  "internalId": 3989787661,
+  "name": "Ship's Sextant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
+  "bindType": -1,
+  "knownIds": [
+    901283
+  ]
+}

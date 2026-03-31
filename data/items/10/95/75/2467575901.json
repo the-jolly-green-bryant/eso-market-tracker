@@ -1,0 +1,19 @@
+{
+  "internalId": 2467575901,
+  "name": "Greatsword of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70654,
+    70689,
+    70724,
+    70759,
+    70794,
+    70829,
+    70864,
+    70899,
+    70934,
+    70969
+  ]
+}

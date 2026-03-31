@@ -1,0 +1,10 @@
+{
+  "internalId": 2215381635,
+  "name": "Wood Elf Rack, Brace",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_rackbrace001.png",
+  "bindType": -1,
+  "knownIds": [
+    115558
+  ]
+}

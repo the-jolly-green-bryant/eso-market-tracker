@@ -1,0 +1,19 @@
+{
+  "internalId": 333967141,
+  "name": "Druid's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185539,
+    185594,
+    185629,
+    185664,
+    185699,
+    185734,
+    185769,
+    185804,
+    185839,
+    185874
+  ]
+}

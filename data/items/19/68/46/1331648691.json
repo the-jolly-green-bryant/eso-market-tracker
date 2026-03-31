@@ -1,0 +1,19 @@
+{
+  "internalId": 1331648691,
+  "name": "Nocturnal's Favored Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136424,
+    136459,
+    136494,
+    136529,
+    136564,
+    136599,
+    136634,
+    136669,
+    136704,
+    136739
+  ]
+}

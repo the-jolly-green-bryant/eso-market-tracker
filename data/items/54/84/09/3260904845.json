@@ -1,0 +1,17 @@
+{
+  "internalId": 3260904845,
+  "name": "Deadlands Assassin's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1haxe_b.png",
+  "bindType": 2,
+  "knownIds": [
+    172123,
+    172143,
+    172163,
+    172183,
+    172203,
+    172223,
+    172243,
+    172263
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2031459843,
+  "name": "Heartsbold",
+  "description": "Simple in design, this amulet exudes a comforting warmth when worn.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    197802
+  ]
+}

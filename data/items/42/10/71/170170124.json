@@ -1,0 +1,17 @@
+{
+  "internalId": 170170124,
+  "name": "Lamp Knight's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213925,
+    213945,
+    213965,
+    213985,
+    214005,
+    214025,
+    214045,
+    214065
+  ]
+}

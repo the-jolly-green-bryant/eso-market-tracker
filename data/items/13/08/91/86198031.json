@@ -1,0 +1,19 @@
+{
+  "internalId": 86198031,
+  "name": "Sload's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136070,
+    136105,
+    136140,
+    136175,
+    136210,
+    136245,
+    136280,
+    136315,
+    136350,
+    136385
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3944865479,
+  "name": "Moon Hunter Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1480314,
+    1592409,
+    1594845,
+    1629215,
+    1658132,
+    1731696
+  ]
+}

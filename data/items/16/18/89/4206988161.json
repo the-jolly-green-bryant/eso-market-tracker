@@ -1,0 +1,11 @@
+{
+  "internalId": 4206988161,
+  "name": "Fledgling's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1754439,
+    1773405
+  ]
+}

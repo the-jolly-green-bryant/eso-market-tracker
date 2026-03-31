@@ -1,0 +1,24 @@
+{
+  "internalId": 2296010227,
+  "name": "Shield of Alkosh",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1066892,
+    1178320,
+    1190509,
+    1342868,
+    1368495,
+    1422897,
+    1497504,
+    1586023,
+    1609888,
+    1633938,
+    1633940,
+    1636171,
+    1643887,
+    1653058,
+    1742479
+  ]
+}

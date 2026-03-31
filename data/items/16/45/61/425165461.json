@@ -1,0 +1,10 @@
+{
+  "internalId": 425165461,
+  "name": "Velothi Shroud, Honor",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_tapestry004.png",
+  "bindType": -1,
+  "knownIds": [
+    126703
+  ]
+}

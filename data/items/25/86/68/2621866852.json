@@ -1,0 +1,17 @@
+{
+  "internalId": 2621866852,
+  "name": "Stygian Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102084,
+    102104,
+    102124,
+    102144,
+    102164,
+    102184,
+    102204,
+    102224
+  ]
+}

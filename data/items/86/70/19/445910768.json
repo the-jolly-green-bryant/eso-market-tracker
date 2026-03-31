@@ -1,0 +1,10 @@
+{
+  "internalId": 445910768,
+  "name": "Succulent Gravelclaw Meat",
+  "description": "Meat with a pleasant aroma that many wild predators find irresistable. Commonly used by hunters and trappers as bait.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_dom_animal_fat.png",
+  "bindType": -1,
+  "knownIds": [
+    81562
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1165503976,
+  "name": "Inferno Staff of High Isle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185917,
+    185938,
+    185959,
+    185980,
+    186001,
+    186022,
+    186043,
+    186064
+  ]
+}

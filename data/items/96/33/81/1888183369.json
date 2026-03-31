@@ -1,0 +1,10 @@
+{
+  "internalId": 1888183369,
+  "name": "Orcish Banner, Golkarr",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgorcbannegolkarr001.png",
+  "bindType": -1,
+  "knownIds": [
+    203140
+  ]
+}

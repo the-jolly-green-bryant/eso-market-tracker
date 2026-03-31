@@ -1,0 +1,17 @@
+{
+  "internalId": 3739162252,
+  "name": "Vampire Lord's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100407,
+    100428,
+    100449,
+    100470,
+    100491,
+    100512,
+    100533,
+    100554
+  ]
+}

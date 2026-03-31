@@ -1,0 +1,19 @@
+{
+  "internalId": 920883269,
+  "name": "Hat of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168770,
+    168825,
+    168860,
+    168895,
+    168930,
+    168965,
+    169000,
+    169035,
+    169070,
+    169105
+  ]
+}

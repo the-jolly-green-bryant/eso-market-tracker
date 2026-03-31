@@ -1,0 +1,17 @@
+{
+  "internalId": 1650051967,
+  "name": "Beekeeper's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98338,
+    98358,
+    98378,
+    98398,
+    98418,
+    98438,
+    98458,
+    98478
+  ]
+}

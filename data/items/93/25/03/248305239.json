@@ -1,0 +1,10 @@
+{
+  "internalId": 248305239,
+  "name": "Dark Elf Scouting Boots",
+  "description": "These boots were awarded for helping Scout Vartis discover the secret of the Orcs of Malak's Maw.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2558
+  ]
+}

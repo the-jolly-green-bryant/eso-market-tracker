@@ -1,0 +1,10 @@
+{
+  "internalId": 4082914964,
+  "name": "Crime Notice, Large",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_poster001.png",
+  "bindType": -1,
+  "knownIds": [
+    214244
+  ]
+}

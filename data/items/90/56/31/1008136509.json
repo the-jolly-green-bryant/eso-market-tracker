@@ -1,0 +1,11 @@
+{
+  "internalId": 1008136509,
+  "name": "Fredas Night Infusion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
+  "bindType": -1,
+  "knownIds": [
+    71251,
+    68261
+  ]
+}

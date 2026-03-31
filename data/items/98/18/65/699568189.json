@@ -1,0 +1,14 @@
+{
+  "internalId": 699568189,
+  "name": "Axe of Transmutation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199581,
+    199582,
+    199583,
+    199584,
+    199585
+  ]
+}

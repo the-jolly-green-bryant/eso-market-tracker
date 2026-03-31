@@ -1,0 +1,19 @@
+{
+  "internalId": 3816789266,
+  "name": "Mace of the Crimson Oath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_1hhammer.png",
+  "bindType": -1,
+  "knownIds": [
+    1542176,
+    1556047,
+    1559584,
+    1583569,
+    1583583,
+    1593767,
+    1633525,
+    1770842,
+    1773361,
+    1779013
+  ]
+}

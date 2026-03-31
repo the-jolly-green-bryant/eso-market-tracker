@@ -1,0 +1,25 @@
+{
+  "internalId": 2345549252,
+  "name": "galatite cuirass of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    717546,
+    404221,
+    611674,
+    551992,
+    747149,
+    493028,
+    409577,
+    491211,
+    493225,
+    540219,
+    499373,
+    492044,
+    408849,
+    792759,
+    779790,
+    838426
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2676770961,
+  "name": "Pelinal's Midyear Boon Box",
+  "description": "Supplies with a Surprise: Tel Var stones, useful items for the Alliance War, and a Random Rarity.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
+  "bindType": 3,
+  "knownIds": [
+    121526
+  ]
+}

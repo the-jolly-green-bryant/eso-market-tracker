@@ -1,0 +1,10 @@
+{
+  "internalId": 1566122355,
+  "name": "Woodhearth Breastplate",
+  "description": "Queen Ayrenn herself awarded this armor after you cleansed the corruption in Greenshade.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10900
+  ]
+}

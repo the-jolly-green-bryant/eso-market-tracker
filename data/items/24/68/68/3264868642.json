@@ -1,0 +1,11 @@
+{
+  "internalId": 3264868642,
+  "name": "Runebox: Thicketman Spectre Mask",
+  "description": "Contains a Thicketman Spectre Mask.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    167940,
+    128360
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1725343506,
+  "name": "Might of the Lost Legion Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143541,
+    143596,
+    143631,
+    143666,
+    143701,
+    143736,
+    143771,
+    143806,
+    143841,
+    143876
+  ]
+}

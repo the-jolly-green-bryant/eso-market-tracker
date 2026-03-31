@@ -1,0 +1,19 @@
+{
+  "internalId": 288654590,
+  "name": "Innate Axiom Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130376,
+    130411,
+    130446,
+    130481,
+    130516,
+    130551,
+    130586,
+    130621,
+    130656,
+    130691
+  ]
+}

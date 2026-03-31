@@ -1,0 +1,19 @@
+{
+  "internalId": 1976316568,
+  "name": "Mace of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185152,
+    185207,
+    185242,
+    185277,
+    185312,
+    185347,
+    185382,
+    185417,
+    185452,
+    185487
+  ]
+}

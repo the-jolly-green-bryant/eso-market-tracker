@@ -1,0 +1,15 @@
+{
+  "internalId": 3088509364,
+  "name": "Knight Slayer Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123577,
+    123598,
+    123619,
+    123640,
+    123661,
+    123682
+  ]
+}

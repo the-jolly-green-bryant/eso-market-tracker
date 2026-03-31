@@ -1,0 +1,10 @@
+{
+  "internalId": 623069841,
+  "name": "Redoran Cup, Mazte",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlacup001c_full.png",
+  "bindType": -1,
+  "knownIds": [
+    126528
+  ]
+}

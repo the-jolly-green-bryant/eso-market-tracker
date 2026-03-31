@@ -1,0 +1,11 @@
+{
+  "internalId": 1429315449,
+  "name": "Undaunted Plunder",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_strosmkai_open_treasure_chest.png",
+  "bindType": -1,
+  "knownIds": [
+    1084747,
+    1424674
+  ]
+}

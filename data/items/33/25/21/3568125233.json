@@ -1,0 +1,21 @@
+{
+  "internalId": 3568125233,
+  "name": "Ansuul's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_medium_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1648374,
+    1650475,
+    1652157,
+    1658321,
+    1679611,
+    1681063,
+    1697201,
+    1731875,
+    1758330,
+    1758535,
+    1766208,
+    1767938
+  ]
+}

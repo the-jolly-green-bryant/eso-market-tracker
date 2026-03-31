@@ -1,0 +1,10 @@
+{
+  "internalId": 2774386927,
+  "name": "Alinor Chalice, Silver Ornate",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altcup006.png",
+  "bindType": -1,
+  "knownIds": [
+    139293
+  ]
+}

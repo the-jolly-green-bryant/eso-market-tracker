@@ -1,0 +1,19 @@
+{
+  "internalId": 2993635004,
+  "name": "Fortified Brass Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130721,
+    130756,
+    130791,
+    130826,
+    130861,
+    130896,
+    130931,
+    130966,
+    131001,
+    131036
+  ]
+}

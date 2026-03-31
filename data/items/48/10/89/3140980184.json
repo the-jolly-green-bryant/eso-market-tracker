@@ -1,0 +1,10 @@
+{
+  "internalId": 3140980184,
+  "name": "Shrub, Autumn Forest",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_longbranchfall001.png",
+  "bindType": -1,
+  "knownIds": [
+    120717
+  ]
+}

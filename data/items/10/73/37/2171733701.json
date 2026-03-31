@@ -1,0 +1,10 @@
+{
+  "internalId": 2171733701,
+  "name": "Crafting Motif 118: House Mornard Shields",
+  "description": "Use to learn how to make House Mornard Shields. Also teaches the equivalent House Mornard Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    188335
+  ]
+}

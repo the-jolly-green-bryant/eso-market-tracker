@@ -1,0 +1,17 @@
+{
+  "internalId": 1411958989,
+  "name": "Ice Staff of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93550,
+    93570,
+    93590,
+    93610,
+    93630,
+    93650,
+    93670,
+    93690
+  ]
+}

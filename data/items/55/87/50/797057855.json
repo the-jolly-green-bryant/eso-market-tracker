@@ -1,0 +1,10 @@
+{
+  "internalId": 797057855,
+  "name": "Leyawiin Rug, Carmine Octad",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyrughi002.png",
+  "bindType": -1,
+  "knownIds": [
+    175607
+  ]
+}

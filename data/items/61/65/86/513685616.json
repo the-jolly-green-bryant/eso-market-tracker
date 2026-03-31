@@ -1,0 +1,19 @@
+{
+  "internalId": 513685616,
+  "name": "New Moon Acolyte's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156165,
+    156220,
+    156255,
+    156290,
+    156325,
+    156360,
+    156395,
+    156430,
+    156465,
+    156500
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 367434029,
+  "name": "Ring of the Song of Lamae",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139691,
+    139781,
+    139871,
+    139961,
+    140051,
+    140141
+  ]
+}

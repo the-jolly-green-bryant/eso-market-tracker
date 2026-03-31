@@ -1,0 +1,19 @@
+{
+  "internalId": 1587051378,
+  "name": "Axe of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60646,
+    60681,
+    60716,
+    60751,
+    60786,
+    60821,
+    60856,
+    60891,
+    60926,
+    60961
+  ]
+}

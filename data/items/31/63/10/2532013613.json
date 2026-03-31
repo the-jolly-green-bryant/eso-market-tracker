@@ -1,0 +1,10 @@
+{
+  "internalId": 2532013613,
+  "name": "Telvanni Streetlight, Organic Amber",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_telfloorlampyellow005.png",
+  "bindType": -1,
+  "knownIds": [
+    126477
+  ]
+}

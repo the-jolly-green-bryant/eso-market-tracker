@@ -1,0 +1,17 @@
+{
+  "internalId": 1514420731,
+  "name": "Soldier of Anguish Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144467,
+    144487,
+    144507,
+    144527,
+    144547,
+    144567,
+    144587,
+    144607
+  ]
+}

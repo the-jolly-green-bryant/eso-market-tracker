@@ -1,0 +1,10 @@
+{
+  "internalId": 901965066,
+  "name": "Perfect Metronome",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
+  "bindType": -1,
+  "knownIds": [
+    860041
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1849476449,
+  "name": "Crafty Alfiq's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149251,
+    149272,
+    149293,
+    149314,
+    149335,
+    149356,
+    149377,
+    149398
+  ]
+}

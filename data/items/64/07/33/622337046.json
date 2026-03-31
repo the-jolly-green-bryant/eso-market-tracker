@@ -1,0 +1,15 @@
+{
+  "internalId": 622337046,
+  "name": "Gauntlets of Nikulas",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85286,
+    85306,
+    85326,
+    85346,
+    85366,
+    85406
+  ]
+}

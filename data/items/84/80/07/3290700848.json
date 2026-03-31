@@ -1,0 +1,17 @@
+{
+  "internalId": 3290700848,
+  "name": "Soldier of Anguish Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144486,
+    144506,
+    144526,
+    144546,
+    144566,
+    144586,
+    144606,
+    144626
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3127678847,
+  "name": "Redguard Shelf, Barrel",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_merchantwinerack001.png",
+  "bindType": -1,
+  "knownIds": [
+    117716
+  ]
+}

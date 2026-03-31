@@ -1,0 +1,17 @@
+{
+  "internalId": 3199780203,
+  "name": "Spriggan's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100592,
+    100612,
+    100632,
+    100652,
+    100672,
+    100692,
+    100712,
+    100732
+  ]
+}

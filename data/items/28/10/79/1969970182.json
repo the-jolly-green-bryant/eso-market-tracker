@@ -1,0 +1,19 @@
+{
+  "internalId": 1969970182,
+  "name": "Mora Scribe's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719825,
+    1721161,
+    1722231,
+    1722473,
+    1731945,
+    1732303,
+    1749938,
+    1754959,
+    1761026,
+    1766186
+  ]
+}

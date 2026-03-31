@@ -1,0 +1,10 @@
+{
+  "internalId": 3843117164,
+  "name": "Log, Fallen Winter Pine",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_scotspinestump004.png",
+  "bindType": -1,
+  "knownIds": [
+    165817
+  ]
+}

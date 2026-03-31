@@ -1,0 +1,18 @@
+{
+  "internalId": 2774140010,
+  "name": "Deadly Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147369,
+    147376,
+    147383,
+    147390,
+    147397,
+    147404,
+    147411,
+    147418,
+    147425
+  ]
+}

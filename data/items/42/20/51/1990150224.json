@@ -1,0 +1,17 @@
+{
+  "internalId": 1990150224,
+  "name": "Shalk's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96593,
+    96613,
+    96633,
+    96653,
+    96673,
+    96693,
+    96713,
+    96733
+  ]
+}

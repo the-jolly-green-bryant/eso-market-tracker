@@ -1,0 +1,17 @@
+{
+  "internalId": 4156777324,
+  "name": "Sash of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180449,
+    180470,
+    180491,
+    180512,
+    180533,
+    180554,
+    180575,
+    180596
+  ]
+}

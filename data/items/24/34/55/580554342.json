@@ -1,0 +1,10 @@
+{
+  "internalId": 580554342,
+  "name": "Gravestone, Imp Engraving",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cem_tombstonelarge002.png",
+  "bindType": -1,
+  "knownIds": [
+    120876
+  ]
+}

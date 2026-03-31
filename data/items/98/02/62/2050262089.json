@@ -1,0 +1,10 @@
+{
+  "internalId": 2050262089,
+  "name": "High Isle Stairway, Tilework",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingstairsstraight001.png",
+  "bindType": -1,
+  "knownIds": [
+    189488
+  ]
+}

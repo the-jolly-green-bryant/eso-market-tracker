@@ -1,0 +1,18 @@
+{
+  "internalId": 1948643923,
+  "name": "Lightning Staff of Leeching",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1159265,
+    1189022,
+    1287027,
+    1400963,
+    1512364,
+    1550186,
+    1562191,
+    1580811,
+    1757842
+  ]
+}

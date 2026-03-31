@@ -1,0 +1,10 @@
+{
+  "internalId": 3522188205,
+  "name": "Celestial Mage's Gem",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1206976
+  ]
+}

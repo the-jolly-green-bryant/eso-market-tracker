@@ -1,0 +1,19 @@
+{
+  "internalId": 3505945942,
+  "name": "Sload's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136095,
+    136130,
+    136165,
+    136200,
+    136235,
+    136270,
+    136305,
+    136340,
+    136375,
+    136410
+  ]
+}

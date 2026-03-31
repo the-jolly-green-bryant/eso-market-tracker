@@ -1,0 +1,17 @@
+{
+  "internalId": 3797896928,
+  "name": "Gourmand's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190373,
+    190394,
+    190415,
+    190436,
+    190457,
+    190478,
+    190499,
+    190520
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3937617744,
+  "name": "Sabatons of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88911,
+    88931,
+    88951,
+    88971,
+    88991,
+    89011,
+    89031,
+    89051
+  ]
+}

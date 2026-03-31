@@ -1,0 +1,10 @@
+{
+  "internalId": 3428151120,
+  "name": "Valorous Pauldrons",
+  "description": "Ancient armor, smelling faintly of rot, found abandoned in the graveyard at Death's Valor Keep.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orcv2hvy_shoulder.png",
+  "bindType": 2,
+  "knownIds": [
+    188112
+  ]
+}

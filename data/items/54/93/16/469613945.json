@@ -1,0 +1,17 @@
+{
+  "internalId": 469613945,
+  "name": "Mace of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88898,
+    88918,
+    88938,
+    88958,
+    88978,
+    88998,
+    89018,
+    89038
+  ]
+}

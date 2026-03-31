@@ -1,0 +1,10 @@
+{
+  "internalId": 2617355909,
+  "name": "Banner, Furnishings",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_bannerhousingfurnishingvendor002.png",
+  "bindType": -1,
+  "knownIds": [
+    153699
+  ]
+}

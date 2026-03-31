@@ -1,0 +1,10 @@
+{
+  "internalId": 2917347088,
+  "name": "Redguard Amphora, Gilded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldflowerpot002.png",
+  "bindType": -1,
+  "knownIds": [
+    117901
+  ]
+}

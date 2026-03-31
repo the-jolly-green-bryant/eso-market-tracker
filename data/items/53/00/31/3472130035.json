@@ -1,0 +1,10 @@
+{
+  "internalId": 3472130035,
+  "name": "Writhing Haj Mota Scale",
+  "description": "Consume 25 Writhing Haj Mota Scales to unlock the Wormwrithe Haj Mota Hatchling achievement and the Wormwrithe Haj Mota Hatchling pet!",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_wrgbriarheartheartblue.png",
+  "bindType": -1,
+  "knownIds": [
+    219783
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2617325281,
+  "name": "Shield of the Wilderqueen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97442
+  ]
+}

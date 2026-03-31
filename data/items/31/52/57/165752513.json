@@ -1,0 +1,19 @@
+{
+  "internalId": 165752513,
+  "name": "Coldharbour's Favorite Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147978,
+    148033,
+    148068,
+    148103,
+    148138,
+    148173,
+    148208,
+    148243,
+    148278,
+    148313
+  ]
+}

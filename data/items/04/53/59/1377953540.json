@@ -1,0 +1,19 @@
+{
+  "internalId": 1377953540,
+  "name": "Olorime's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_staff_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1244049,
+    1283800,
+    1398323,
+    1409374,
+    1474701,
+    1514306,
+    1544829,
+    1566191,
+    1578688,
+    1618094
+  ]
+}

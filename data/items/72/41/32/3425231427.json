@@ -1,0 +1,14 @@
+{
+  "internalId": 3425231427,
+  "name": "Lightning Staff of Succession",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1384434,
+    1406855,
+    1516880,
+    1549510,
+    1654530
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1061630635,
+  "name": "Senche-Raht's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148336,
+    148391,
+    148426,
+    148461,
+    148496,
+    148531,
+    148566,
+    148601,
+    148636,
+    148671
+  ]
+}

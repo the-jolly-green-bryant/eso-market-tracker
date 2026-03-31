@@ -1,0 +1,17 @@
+{
+  "internalId": 283811219,
+  "name": "Wizard's Riposte Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123734,
+    123755,
+    123776,
+    123797,
+    123818,
+    123839,
+    123860,
+    123881
+  ]
+}

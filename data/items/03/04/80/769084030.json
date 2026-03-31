@@ -1,0 +1,23 @@
+{
+  "internalId": 769084030,
+  "name": "Unidentified Summerset Hand Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1240404,
+    1259603,
+    1266473,
+    1279537,
+    1280459,
+    1282928,
+    1288337,
+    1289151,
+    1309462,
+    1330472,
+    1339816,
+    1392010,
+    1408814,
+    1424360
+  ]
+}

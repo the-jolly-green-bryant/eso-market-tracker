@@ -1,0 +1,17 @@
+{
+  "internalId": 3213190391,
+  "name": "Axe of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92148,
+    92161,
+    92174,
+    92187,
+    92200,
+    92213,
+    92226,
+    92239
+  ]
+}

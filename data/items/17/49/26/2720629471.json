@@ -1,0 +1,17 @@
+{
+  "internalId": 2720629471,
+  "name": "Sword of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194192,
+    194212,
+    194232,
+    194252,
+    194272,
+    194292,
+    194312,
+    194332
+  ]
+}

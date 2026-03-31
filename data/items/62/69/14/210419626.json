@@ -1,0 +1,10 @@
+{
+  "internalId": 210419626,
+  "name": "Painting of Spring, Sturdy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_elegant001.png",
+  "bindType": -1,
+  "knownIds": [
+    118216
+  ]
+}

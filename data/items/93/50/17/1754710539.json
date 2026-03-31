@@ -1,0 +1,10 @@
+{
+  "internalId": 1754710539,
+  "name": "Rock, Gabbro Set",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_bad_smcluster002.png",
+  "bindType": -1,
+  "knownIds": [
+    181605
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1369207745,
+  "name": "Deadlands Demolisher's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179197,
+    179252,
+    179287,
+    179322,
+    179357,
+    179392,
+    179427,
+    179462,
+    179497,
+    179532
+  ]
+}

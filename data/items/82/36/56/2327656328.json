@@ -1,0 +1,20 @@
+{
+  "internalId": 2327656328,
+  "name": "Test of Resolve Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1647295,
+    1653048,
+    1655792,
+    1679601,
+    1685393,
+    1687024,
+    1698096,
+    1737470,
+    1758532,
+    1774054,
+    1774763
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2723725154,
+  "name": "Tree, Autumn Aspen",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_aspen005.png",
+  "bindType": -1,
+  "knownIds": [
+    204761
+  ]
+}

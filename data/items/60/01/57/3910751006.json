@@ -1,0 +1,11 @@
+{
+  "internalId": 3910751006,
+  "name": "Pirate's Jig Tonic",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33732,
+    37952
+  ]
+}

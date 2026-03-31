@@ -1,0 +1,19 @@
+{
+  "internalId": 1919561638,
+  "name": "Jack of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69585,
+    69620,
+    69655,
+    69690,
+    69725,
+    69760,
+    69795,
+    69830,
+    69865,
+    69900
+  ]
+}

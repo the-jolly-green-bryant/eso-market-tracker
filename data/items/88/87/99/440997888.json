@@ -1,0 +1,10 @@
+{
+  "internalId": 440997888,
+  "name": "Elsweyr Plinth, Ancient Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_roomfreestandingcolumnbased001.png",
+  "bindType": -1,
+  "knownIds": [
+    151627
+  ]
+}

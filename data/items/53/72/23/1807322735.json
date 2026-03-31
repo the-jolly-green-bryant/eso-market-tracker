@@ -1,0 +1,10 @@
+{
+  "internalId": 1807322735,
+  "name": "Shutters, Blue Hatch",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varshuttersmedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    118171
+  ]
+}

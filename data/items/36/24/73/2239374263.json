@@ -1,0 +1,17 @@
+{
+  "internalId": 2239374263,
+  "name": "Old Growth Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191713,
+    191748,
+    191783,
+    191818,
+    191853,
+    191888,
+    191923,
+    191958
+  ]
+}

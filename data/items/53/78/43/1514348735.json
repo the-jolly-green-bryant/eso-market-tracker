@@ -1,0 +1,13 @@
+{
+  "internalId": 1514348735,
+  "name": "Sword of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93077,
+    93097,
+    93117,
+    93137
+  ]
+}

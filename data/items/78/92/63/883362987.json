@@ -1,0 +1,13 @@
+{
+  "internalId": 883362987,
+  "name": "Indomitable Fury Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143998,
+    144019,
+    144040,
+    144061
+  ]
+}

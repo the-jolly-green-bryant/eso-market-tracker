@@ -1,0 +1,17 @@
+{
+  "internalId": 4238732143,
+  "name": "Impregnable Armor Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125724,
+    125759,
+    125794,
+    125829,
+    125864,
+    125899,
+    125934,
+    125969
+  ]
+}

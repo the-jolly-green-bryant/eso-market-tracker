@@ -1,0 +1,18 @@
+{
+  "internalId": 1925010280,
+  "name": "Robe of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_robe.png",
+  "bindType": 2,
+  "knownIds": [
+    160642,
+    160663,
+    160684,
+    160705,
+    160726,
+    160747,
+    160768,
+    160789,
+    160810
+  ]
+}

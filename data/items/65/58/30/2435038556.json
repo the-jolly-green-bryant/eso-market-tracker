@@ -1,0 +1,17 @@
+{
+  "internalId": 2435038556,
+  "name": "Beekeeper's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98332,
+    98352,
+    98372,
+    98392,
+    98412,
+    98432,
+    98452,
+    98472
+  ]
+}

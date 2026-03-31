@@ -1,0 +1,10 @@
+{
+  "internalId": 1855153678,
+  "name": "Elsweyr Bed, Quilted Double",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_bedlow002.png",
+  "bindType": -1,
+  "knownIds": [
+    151667
+  ]
+}

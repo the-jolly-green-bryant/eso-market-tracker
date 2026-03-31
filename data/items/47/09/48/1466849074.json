@@ -1,0 +1,10 @@
+{
+  "internalId": 1466849074,
+  "name": "Blueprint: Orcish Mug, Horn",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
+  "bindType": -1,
+  "knownIds": [
+    119100
+  ]
+}

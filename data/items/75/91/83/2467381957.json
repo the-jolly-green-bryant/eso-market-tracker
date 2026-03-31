@@ -1,0 +1,17 @@
+{
+  "internalId": 2467381957,
+  "name": "Witch-Knight's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167783,
+    167803,
+    167823,
+    167843,
+    167863,
+    167883,
+    167903,
+    167923
+  ]
+}

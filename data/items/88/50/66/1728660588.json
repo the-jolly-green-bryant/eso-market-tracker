@@ -1,0 +1,10 @@
+{
+  "internalId": 1728660588,
+  "name": "Imperial Lantern, Imperial City",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_lsb_iclampwall001.png",
+  "bindType": -1,
+  "knownIds": [
+    94160
+  ]
+}

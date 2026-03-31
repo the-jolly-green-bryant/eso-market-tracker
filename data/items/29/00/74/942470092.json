@@ -1,0 +1,10 @@
+{
+  "internalId": 942470092,
+  "name": "Crafting Motif 47: Buoyant Armiger Helmets",
+  "description": "Use to learn how to make Buoyant Armiger Helmets. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Buoyant Armiger Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    121324
+  ]
+}

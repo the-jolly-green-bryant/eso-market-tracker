@@ -1,0 +1,17 @@
+{
+  "internalId": 3479355771,
+  "name": "Plaguebreak Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180621,
+    180641,
+    180661,
+    180681,
+    180701,
+    180721,
+    180741,
+    180761
+  ]
+}

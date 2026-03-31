@@ -1,0 +1,17 @@
+{
+  "internalId": 1779181461,
+  "name": "Dagger of the Veiled Heritance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    94262,
+    94282,
+    94302,
+    94322,
+    94342,
+    94362,
+    94382,
+    94402
+  ]
+}

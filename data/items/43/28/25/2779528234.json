@@ -1,0 +1,10 @@
+{
+  "internalId": 2779528234,
+  "name": "Weapons: Desert Rose",
+  "description": "A Light Armor set found in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    150648
+  ]
+}

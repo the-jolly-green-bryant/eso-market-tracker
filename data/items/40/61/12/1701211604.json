@@ -1,0 +1,17 @@
+{
+  "internalId": 1701211604,
+  "name": "Fiord's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100213,
+    100233,
+    100253,
+    100273,
+    100293,
+    100313,
+    100333,
+    100353
+  ]
+}

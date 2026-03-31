@@ -1,0 +1,10 @@
+{
+  "internalId": 3788777872,
+  "name": "Coffin, Case",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cem_coffinmainwood001.png",
+  "bindType": -1,
+  "knownIds": [
+    118092
+  ]
+}

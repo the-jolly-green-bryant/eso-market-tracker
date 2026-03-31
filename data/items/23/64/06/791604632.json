@@ -1,0 +1,10 @@
+{
+  "internalId": 791604632,
+  "name": "Colovian Archway, Plaster",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousewallmiddlearch001.png",
+  "bindType": -1,
+  "knownIds": [
+    208092
+  ]
+}

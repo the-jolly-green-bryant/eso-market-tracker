@@ -1,0 +1,10 @@
+{
+  "internalId": 4032335702,
+  "name": "Redoran Incense Holder, Mesh",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaincenseburner002.png",
+  "bindType": -1,
+  "knownIds": [
+    126519
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3893120442,
+  "name": "Systres' Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_mace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186248,
+    186268,
+    186288,
+    186308,
+    186328,
+    186348,
+    186368,
+    186388
+  ]
+}

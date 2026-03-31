@@ -1,0 +1,10 @@
+{
+  "internalId": 1267748214,
+  "name": "Argonian Bookcase, Short Woven",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkshelf001.png",
+  "bindType": -1,
+  "knownIds": [
+    115473
+  ]
+}

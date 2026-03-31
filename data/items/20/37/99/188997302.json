@@ -1,0 +1,19 @@
+{
+  "internalId": 188997302,
+  "name": "Forest Wraith's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191995,
+    192050,
+    192085,
+    192120,
+    192155,
+    192190,
+    192225,
+    192260,
+    192295,
+    192330
+  ]
+}

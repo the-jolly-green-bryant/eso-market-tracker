@@ -1,0 +1,17 @@
+{
+  "internalId": 2263704188,
+  "name": "Swamp Raider's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98900,
+    98920,
+    98940,
+    98960,
+    98980,
+    99000,
+    99020,
+    99040
+  ]
+}

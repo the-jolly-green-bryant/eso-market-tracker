@@ -1,0 +1,10 @@
+{
+  "internalId": 1490463323,
+  "name": "Reed Felucca, Double Hulled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_csb_mrksled002.png",
+  "bindType": -1,
+  "knownIds": [
+    145437
+  ]
+}

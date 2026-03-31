@@ -1,0 +1,10 @@
+{
+  "internalId": 3609727408,
+  "name": "Flowers, Sunflower Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_sunflowerfield004.png",
+  "bindType": -1,
+  "knownIds": [
+    192396
+  ]
+}

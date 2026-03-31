@@ -1,0 +1,13 @@
+{
+  "internalId": 192210300,
+  "name": "Aetheric Lancer Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1733128,
+    1738684,
+    1760464,
+    1761328
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 434113249,
+  "name": "Murky Crystal",
+  "description": "A dulled crystal that looks like it can reflect light in short distances. Used around Shada's Tear for an unknown purpose.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gem_001.png",
+  "bindType": -1,
+  "knownIds": [
+    81236
+  ]
+}

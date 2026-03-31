@@ -1,0 +1,14 @@
+{
+  "internalId": 4004305429,
+  "name": "Wrathsun Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1692749,
+    1716150,
+    1737066,
+    1737602,
+    1764638
+  ]
+}

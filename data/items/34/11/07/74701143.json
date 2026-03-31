@@ -1,0 +1,15 @@
+{
+  "internalId": 74701143,
+  "name": "Polished Shell Shard",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_enchantment_base_amber_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    800376,
+    935592,
+    1091324,
+    1128148,
+    1226935,
+    1334111
+  ]
+}

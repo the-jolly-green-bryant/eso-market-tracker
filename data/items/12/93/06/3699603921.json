@@ -1,0 +1,19 @@
+{
+  "internalId": 3699603921,
+  "name": "Mace of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70651,
+    70686,
+    70721,
+    70756,
+    70791,
+    70826,
+    70861,
+    70896,
+    70931,
+    70966
+  ]
+}

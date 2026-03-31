@@ -1,0 +1,10 @@
+{
+  "internalId": 3660939073,
+  "name": "Orcish Mask, Decorative",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgsteelmask002.png",
+  "bindType": -1,
+  "knownIds": [
+    116488
+  ]
+}

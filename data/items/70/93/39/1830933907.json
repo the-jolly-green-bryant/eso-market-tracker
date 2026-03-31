@@ -1,0 +1,17 @@
+{
+  "internalId": 1830933907,
+  "name": "Shield of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101156,
+    101176,
+    101196,
+    101216,
+    101236,
+    101256,
+    101276,
+    101296
+  ]
+}

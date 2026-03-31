@@ -1,0 +1,30 @@
+{
+  "internalId": 2856461530,
+  "name": "Pirate Skeleton's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedpirateskeleton_shoulders_a.png",
+  "bindType": -1,
+  "knownIds": [
+    941698,
+    947642,
+    948635,
+    981086,
+    1066007,
+    1069398,
+    1082392,
+    1083111,
+    1205101,
+    1205107,
+    1205119,
+    1231834,
+    1232989,
+    1283899,
+    1286339,
+    1286758,
+    1480126,
+    1510989,
+    1511584,
+    1511656,
+    1577186
+  ]
+}

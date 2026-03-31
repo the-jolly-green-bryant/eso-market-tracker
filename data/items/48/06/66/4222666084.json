@@ -1,0 +1,17 @@
+{
+  "internalId": 4222666084,
+  "name": "Inferno Staff of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90235,
+    90256,
+    90277,
+    90298,
+    90319,
+    90340,
+    90361,
+    90382
+  ]
+}

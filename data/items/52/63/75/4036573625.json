@@ -1,0 +1,10 @@
+{
+  "internalId": 4036573625,
+  "name": "Breton Carpet, Full",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_rug001.png",
+  "bindType": -1,
+  "knownIds": [
+    115198
+  ]
+}

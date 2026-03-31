@@ -1,0 +1,10 @@
+{
+  "internalId": 3977572764,
+  "name": "Vines, Sun-Bronzed Ivy Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_sumivy001.png",
+  "bindType": -1,
+  "knownIds": [
+    141824
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3457182231,
+  "name": "Deathknight Aegis",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    511626,
+    463117
+  ]
+}

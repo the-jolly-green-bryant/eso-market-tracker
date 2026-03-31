@@ -1,0 +1,10 @@
+{
+  "internalId": 1237499505,
+  "name": "Klathzgar's Fingergloves",
+  "description": "The spirit of Princess Urenenya awarded these delicate gloves in thanks for freeing her soul. Perhaps she and Klathzgar will be reunited at last.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15662
+  ]
+}

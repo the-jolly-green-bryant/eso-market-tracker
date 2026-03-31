@@ -1,0 +1,21 @@
+{
+  "internalId": 1785883995,
+  "name": "Aegis Caller's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1388478,
+    1413566,
+    1500506,
+    1541580,
+    1547942,
+    1552583,
+    1590524,
+    1592446,
+    1617354,
+    1650667,
+    1777333,
+    1779128
+  ]
+}

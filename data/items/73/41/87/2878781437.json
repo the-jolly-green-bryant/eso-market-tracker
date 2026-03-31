@@ -1,0 +1,10 @@
+{
+  "internalId": 2878781437,
+  "name": "Decayed Shadowscale Tunic",
+  "description": "Once worn by the fabled Shadowscales, this tunic shows its wear and age from the many years it sat within Bloodrun Cave.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    174876
+  ]
+}

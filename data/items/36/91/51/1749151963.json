@@ -1,0 +1,10 @@
+{
+  "internalId": 1749151963,
+  "name": "Sunport Doorway, Interior",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingaltintwalldoor004.png",
+  "bindType": -1,
+  "knownIds": [
+    217980
+  ]
+}

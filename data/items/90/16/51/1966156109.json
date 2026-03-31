@@ -1,0 +1,16 @@
+{
+  "internalId": 1966156109,
+  "name": "Highland Sentinel Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205900,
+    205935,
+    205970,
+    206005,
+    206040,
+    206075,
+    206110
+  ]
+}

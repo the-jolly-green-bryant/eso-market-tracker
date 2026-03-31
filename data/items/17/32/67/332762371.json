@@ -1,0 +1,19 @@
+{
+  "internalId": 332762371,
+  "name": "Shield of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185163,
+    185218,
+    185253,
+    185288,
+    185323,
+    185358,
+    185393,
+    185428,
+    185463,
+    185498
+  ]
+}

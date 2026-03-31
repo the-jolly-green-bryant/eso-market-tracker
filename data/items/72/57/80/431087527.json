@@ -1,0 +1,10 @@
+{
+  "internalId": 431087527,
+  "name": "Plant, Canna Lily",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkcannalily002.png",
+  "bindType": -1,
+  "knownIds": [
+    145432
+  ]
+}

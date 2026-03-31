@@ -1,0 +1,17 @@
+{
+  "internalId": 972390448,
+  "name": "Enervating Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183583,
+    183603,
+    183623,
+    183643,
+    183663,
+    183683,
+    183703,
+    183723
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 405449421,
+  "name": "Siegemaster's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210719,
+    210739,
+    210759,
+    210779,
+    210799,
+    210819,
+    210839,
+    210859
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2268395319,
+  "name": "Tide-Born Bed, Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_fur_argbedhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    214377
+  ]
+}

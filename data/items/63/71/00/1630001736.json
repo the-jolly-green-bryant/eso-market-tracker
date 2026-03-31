@@ -1,0 +1,17 @@
+{
+  "internalId": 1630001736,
+  "name": "Hrothgar's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180786,
+    180806,
+    180826,
+    180846,
+    180866,
+    180886,
+    180906,
+    180926
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3211669572,
+  "name": "Mace of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_mace.png",
+  "bindType": 2,
+  "knownIds": [
+    204885,
+    204906,
+    204927,
+    204948,
+    204969,
+    204990,
+    205011,
+    205032
+  ]
+}

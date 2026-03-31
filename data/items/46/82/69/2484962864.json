@@ -1,0 +1,22 @@
+{
+  "internalId": 2484962864,
+  "name": "Lamia's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    937853,
+    1163105,
+    1170663,
+    1200970,
+    1318977,
+    1362911,
+    1391807,
+    1427782,
+    1447777,
+    1489623,
+    1525706,
+    1618390,
+    1640298
+  ]
+}

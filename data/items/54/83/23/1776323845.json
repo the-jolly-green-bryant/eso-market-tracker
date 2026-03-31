@@ -1,0 +1,14 @@
+{
+  "internalId": 1776323845,
+  "name": "Battle Axe of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87375,
+    87396,
+    87417,
+    87438,
+    87459
+  ]
+}

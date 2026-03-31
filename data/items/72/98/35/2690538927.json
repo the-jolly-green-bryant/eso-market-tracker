@@ -1,0 +1,10 @@
+{
+  "internalId": 2690538927,
+  "name": "Elsweyr Sarcophagus Lid, Ancient",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_sarcophaguslid001.png",
+  "bindType": -1,
+  "knownIds": [
+    151903
+  ]
+}

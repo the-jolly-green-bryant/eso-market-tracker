@@ -1,0 +1,17 @@
+{
+  "internalId": 2874665676,
+  "name": "Guards of the Wilderqueen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97427,
+    97447,
+    97467,
+    97487,
+    97507,
+    97527,
+    97547,
+    97567
+  ]
+}

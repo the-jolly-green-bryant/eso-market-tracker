@@ -1,0 +1,10 @@
+{
+  "internalId": 2836922922,
+  "name": "Trees, Fragile Autumn Birch",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_birchyellow003_small.png",
+  "bindType": -1,
+  "knownIds": [
+    121012
+  ]
+}

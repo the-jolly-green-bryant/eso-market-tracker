@@ -1,0 +1,17 @@
+{
+  "internalId": 794721728,
+  "name": "Lightning Staff of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87759,
+    87772,
+    87785,
+    87798,
+    87811,
+    87824,
+    87837,
+    87850
+  ]
+}

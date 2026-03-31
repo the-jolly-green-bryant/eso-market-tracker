@@ -1,0 +1,17 @@
+{
+  "internalId": 4176923867,
+  "name": "Mara's Balm Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189852,
+    189872,
+    189892,
+    189912,
+    189932,
+    189952,
+    189972,
+    189992
+  ]
+}

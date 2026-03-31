@@ -1,0 +1,10 @@
+{
+  "internalId": 2799744333,
+  "name": "Bloodthorn Bastion of the Dragon",
+  "description": "This shield was awarded for discovering Faolchu's weakness by visiting the past.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    471
+  ]
+}

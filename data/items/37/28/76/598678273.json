@@ -1,0 +1,10 @@
+{
+  "internalId": 598678273,
+  "name": "Crafting Motif 61: Psijic Gloves",
+  "description": "Use to learn how to make Psijic Gloves. Also teaches the equivalent Psijic Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    137858
+  ]
+}

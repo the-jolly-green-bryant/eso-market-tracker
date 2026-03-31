@@ -1,0 +1,17 @@
+{
+  "internalId": 2373755094,
+  "name": "Ice Staff of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88360,
+    88380,
+    88400,
+    88420,
+    88440,
+    88460,
+    88480,
+    88500
+  ]
+}

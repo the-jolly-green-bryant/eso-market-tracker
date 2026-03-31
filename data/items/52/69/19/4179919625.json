@@ -1,0 +1,20 @@
+{
+  "internalId": 4179919625,
+  "name": "Helm of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsrose_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1528252,
+    1540395,
+    1540618,
+    1567880,
+    1567947,
+    1573221,
+    1582636,
+    1584036,
+    1590667,
+    1630631,
+    1680376
+  ]
+}

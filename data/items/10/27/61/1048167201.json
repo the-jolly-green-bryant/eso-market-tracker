@@ -1,0 +1,17 @@
+{
+  "internalId": 1048167201,
+  "name": "Restoration Staff of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89818,
+    89838,
+    89858,
+    89878,
+    89898,
+    89918,
+    89938,
+    89958
+  ]
+}

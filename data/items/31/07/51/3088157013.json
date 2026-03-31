@@ -1,0 +1,13 @@
+{
+  "internalId": 3088157013,
+  "name": "Shacklebreaker Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122490,
+    122525,
+    122560,
+    122595
+  ]
+}

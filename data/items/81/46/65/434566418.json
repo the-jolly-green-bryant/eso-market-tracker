@@ -1,0 +1,11 @@
+{
+  "internalId": 434566418,
+  "name": "Sash of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87392,
+    87455
+  ]
+}

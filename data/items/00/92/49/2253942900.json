@@ -1,0 +1,10 @@
+{
+  "internalId": 2253942900,
+  "name": "Riekling Bonfire, Ceremonial",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrgiantbonfire001.png",
+  "bindType": -1,
+  "knownIds": [
+    134464
+  ]
+}

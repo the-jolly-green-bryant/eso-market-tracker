@@ -1,0 +1,10 @@
+{
+  "internalId": 271251471,
+  "name": "Nord Amphora, Glazed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_pot003.png",
+  "bindType": -1,
+  "knownIds": [
+    115374
+  ]
+}

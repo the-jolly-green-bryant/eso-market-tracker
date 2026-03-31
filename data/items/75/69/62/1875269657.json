@@ -1,0 +1,14 @@
+{
+  "internalId": 1875269657,
+  "name": "Hat of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87134,
+    87155,
+    87176,
+    87197,
+    87260
+  ]
+}

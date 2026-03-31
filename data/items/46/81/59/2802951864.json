@@ -1,0 +1,19 @@
+{
+  "internalId": 2802951864,
+  "name": "Helm of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59961,
+    59996,
+    60031,
+    60066,
+    60101,
+    60136,
+    60171,
+    60206,
+    60241,
+    60276
+  ]
+}

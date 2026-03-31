@@ -1,0 +1,17 @@
+{
+  "internalId": 556881739,
+  "name": "Sword of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171952,
+    171973,
+    171994,
+    172015,
+    172036,
+    172057,
+    172078,
+    172099
+  ]
+}

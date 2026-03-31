@@ -1,0 +1,16 @@
+{
+  "internalId": 2622961317,
+  "name": "Monolith of Storms Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1676610,
+    1677412,
+    1679874,
+    1685028,
+    1721523,
+    1761493,
+    1770894
+  ]
+}

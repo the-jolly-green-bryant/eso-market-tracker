@@ -1,0 +1,19 @@
+{
+  "internalId": 1275453995,
+  "name": "Fortified Brass Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130729,
+    130764,
+    130799,
+    130834,
+    130869,
+    130904,
+    130939,
+    130974,
+    131009,
+    131044
+  ]
+}

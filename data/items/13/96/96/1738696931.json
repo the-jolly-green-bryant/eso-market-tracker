@@ -1,0 +1,17 @@
+{
+  "internalId": 1738696931,
+  "name": "Dagger of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90233,
+    90254,
+    90275,
+    90296,
+    90317,
+    90338,
+    90359,
+    90380
+  ]
+}

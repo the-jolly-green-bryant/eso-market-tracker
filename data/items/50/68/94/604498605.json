@@ -1,0 +1,10 @@
+{
+  "internalId": 604498605,
+  "name": "Elsweyr Incense Burner, Tall Brass",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_incenseburner001.png",
+  "bindType": -1,
+  "knownIds": [
+    151661
+  ]
+}

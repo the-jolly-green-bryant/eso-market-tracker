@@ -1,0 +1,14 @@
+{
+  "internalId": 64208037,
+  "name": "Bow of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87379,
+    87400,
+    87421,
+    87442,
+    87463
+  ]
+}

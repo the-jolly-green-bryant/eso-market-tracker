@@ -1,0 +1,17 @@
+{
+  "internalId": 3579111115,
+  "name": "Battle Axe of Agility",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69284,
+    69297,
+    69310,
+    69323,
+    69336,
+    69349,
+    69362,
+    69375
+  ]
+}

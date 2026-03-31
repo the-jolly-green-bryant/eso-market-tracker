@@ -1,0 +1,15 @@
+{
+  "internalId": 1277305587,
+  "name": "Ice Furnace Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86395,
+    86415,
+    86435,
+    86455,
+    86475,
+    86515
+  ]
+}

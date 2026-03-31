@@ -1,0 +1,17 @@
+{
+  "internalId": 2570110091,
+  "name": "Spriggan's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100594,
+    100614,
+    100634,
+    100654,
+    100674,
+    100694,
+    100714,
+    100734
+  ]
+}

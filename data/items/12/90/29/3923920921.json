@@ -1,0 +1,10 @@
+{
+  "internalId": 3923920921,
+  "name": "Alchemical Resin",
+  "description": "Used in crafting alchemically treated furniture.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_furniture_base_alchemical_resin.png",
+  "bindType": -1,
+  "knownIds": [
+    114893
+  ]
+}

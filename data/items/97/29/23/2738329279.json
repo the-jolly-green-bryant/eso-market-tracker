@@ -1,0 +1,17 @@
+{
+  "internalId": 2738329279,
+  "name": "Vanus's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_2hsword_a_2.png",
+  "bindType": 2,
+  "knownIds": [
+    135533,
+    135554,
+    135575,
+    135596,
+    135617,
+    135638,
+    135659,
+    135680
+  ]
+}

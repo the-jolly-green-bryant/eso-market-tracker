@@ -1,0 +1,19 @@
+{
+  "internalId": 2001334297,
+  "name": "Innate Axiom Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130388,
+    130423,
+    130458,
+    130493,
+    130528,
+    130563,
+    130598,
+    130633,
+    130668,
+    130703
+  ]
+}

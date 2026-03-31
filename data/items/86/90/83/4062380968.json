@@ -1,0 +1,10 @@
+{
+  "internalId": 4062380968,
+  "name": "Crafting Motif 75: Sunspire Shoulders",
+  "description": "Use to learn how to make Sunspire Shoulders. Also teaches the equivalent Sunspire outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    147742
+  ]
+}

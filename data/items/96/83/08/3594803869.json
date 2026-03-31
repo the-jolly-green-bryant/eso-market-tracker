@@ -1,0 +1,16 @@
+{
+  "internalId": 3594803869,
+  "name": "Reawakened Hierophant Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1hsword.png",
+  "bindType": -1,
+  "knownIds": [
+    1691935,
+    1697280,
+    1716900,
+    1735235,
+    1756709,
+    1764485,
+    1774353
+  ]
+}

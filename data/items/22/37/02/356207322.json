@@ -1,0 +1,10 @@
+{
+  "internalId": 356207322,
+  "name": "Planed Maple",
+  "description": "Use for Crafting Armor and Weapons",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_weapon_component_006.png",
+  "bindType": -1,
+  "knownIds": [
+    5391
+  ]
+}

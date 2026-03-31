@@ -1,0 +1,10 @@
+{
+  "internalId": 100134707,
+  "name": "Sugar-Baron's Defender",
+  "description": "Bodyguards of the southern Anequina sugar-barons often carry heater shields like this.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150395
+  ]
+}

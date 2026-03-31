@@ -1,0 +1,17 @@
+{
+  "internalId": 3742509078,
+  "name": "Siegemaster's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210707,
+    210727,
+    210747,
+    210767,
+    210787,
+    210807,
+    210827,
+    210847
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1221737619,
+  "name": "Shoes of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96026,
+    96047,
+    96173
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 318404245,
+  "name": "Arm Cops of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114671,
+    114691,
+    114711,
+    114731,
+    114751,
+    114771,
+    114791,
+    114811
+  ]
+}

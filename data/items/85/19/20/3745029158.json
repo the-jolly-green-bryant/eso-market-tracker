@@ -1,0 +1,23 @@
+{
+  "internalId": 3745029158,
+  "name": "Fleshlinks",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    825478,
+    825439,
+    721972,
+    805446,
+    792755,
+    829283,
+    938865,
+    988077,
+    1286450,
+    1407285,
+    1452091,
+    1459333,
+    1503886,
+    1717720
+  ]
+}

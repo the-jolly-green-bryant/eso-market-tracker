@@ -1,0 +1,17 @@
+{
+  "internalId": 1128108066,
+  "name": "iron axe of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    591917,
+    550909,
+    414364,
+    433639,
+    578933,
+    643944,
+    461708,
+    786216
+  ]
+}

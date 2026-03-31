@@ -1,0 +1,10 @@
+{
+  "internalId": 1343148772,
+  "name": "Imperial Tapestry, Arkay",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_tapestryakatoshlargea003.png",
+  "bindType": -1,
+  "knownIds": [
+    94129
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1848636702,
+  "name": "Brain Broth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_potion_001.png",
+  "bindType": -1,
+  "knownIds": [
+    64266
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 1960670250,
+  "name": "Draugrkin Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1369688,
+    1369734,
+    1388477,
+    1406727,
+    1502426,
+    1572637,
+    1583757,
+    1633756,
+    1727362,
+    1770411,
+    1774183
+  ]
+}

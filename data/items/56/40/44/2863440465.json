@@ -1,0 +1,13 @@
+{
+  "internalId": 2863440465,
+  "name": "Greatsword of the Wyrd Tree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96856,
+    96876,
+    96896,
+    96916
+  ]
+}

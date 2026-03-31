@@ -1,0 +1,17 @@
+{
+  "internalId": 162017437,
+  "name": "Farstrider Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211767,
+    211787,
+    211807,
+    211827,
+    211847,
+    211867,
+    211887,
+    211907
+  ]
+}

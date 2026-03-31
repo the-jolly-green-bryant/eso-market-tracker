@@ -1,0 +1,16 @@
+{
+  "internalId": 1245621042,
+  "name": "Sithis' Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77288,
+    77323,
+    77358,
+    77393,
+    77428,
+    77463,
+    77498
+  ]
+}

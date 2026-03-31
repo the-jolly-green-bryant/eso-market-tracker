@@ -1,0 +1,18 @@
+{
+  "internalId": 3537984566,
+  "name": "Renald's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1337014,
+    1345700,
+    1345856,
+    1395046,
+    1522750,
+    1567767,
+    1570942,
+    1602185,
+    1622714
+  ]
+}

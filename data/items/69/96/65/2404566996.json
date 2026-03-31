@@ -1,0 +1,10 @@
+{
+  "internalId": 2404566996,
+  "name": "Grimoire: Shield Throw",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_1hander.png",
+  "bindType": 3,
+  "knownIds": [
+    204486
+  ]
+}

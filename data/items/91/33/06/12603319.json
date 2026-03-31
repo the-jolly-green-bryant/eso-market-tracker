@@ -1,0 +1,10 @@
+{
+  "internalId": 12603319,
+  "name": "Dawnwood Carving Knife, Bone",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosknife002.png",
+  "bindType": -1,
+  "knownIds": [
+    204753
+  ]
+}

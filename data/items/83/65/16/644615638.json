@@ -1,0 +1,10 @@
+{
+  "internalId": 644615638,
+  "name": "Shrub, Juniper Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_chl_juniper003.png",
+  "bindType": -1,
+  "knownIds": [
+    204765
+  ]
+}

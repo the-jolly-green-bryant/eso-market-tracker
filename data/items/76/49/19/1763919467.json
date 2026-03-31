@@ -1,0 +1,17 @@
+{
+  "internalId": 1763919467,
+  "name": "Death-Dancer Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214713,
+    214733,
+    214753,
+    214773,
+    214793,
+    214813,
+    214833,
+    214853
+  ]
+}

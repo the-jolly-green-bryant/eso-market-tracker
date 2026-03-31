@@ -1,0 +1,10 @@
+{
+  "internalId": 315122436,
+  "name": "Seashell, Pink Scallop",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_scallopshell001.png",
+  "bindType": -1,
+  "knownIds": [
+    118897
+  ]
+}

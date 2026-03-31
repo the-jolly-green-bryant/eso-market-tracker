@@ -1,0 +1,19 @@
+{
+  "internalId": 779508170,
+  "name": "Vrol's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1379485,
+    1381123,
+    1384996,
+    1387069,
+    1401928,
+    1615725,
+    1684829,
+    1746085,
+    1749927,
+    1752211
+  ]
+}

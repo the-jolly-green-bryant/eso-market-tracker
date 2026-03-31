@@ -1,0 +1,17 @@
+{
+  "internalId": 3805191682,
+  "name": "Gryphon's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hsword_b.png",
+  "bindType": 2,
+  "knownIds": [
+    135348,
+    135368,
+    135388,
+    135408,
+    135428,
+    135448,
+    135468,
+    135488
+  ]
+}

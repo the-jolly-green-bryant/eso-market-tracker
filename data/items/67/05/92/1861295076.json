@@ -1,0 +1,10 @@
+{
+  "internalId": 1861295076,
+  "name": "Dwemer Scrap",
+  "description": "Ten of these items can be refined into a Dwemer Frame, which is used to make Dwemer equipment.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_metals_dwarven_scrap.png",
+  "bindType": -1,
+  "knownIds": [
+    57665
+  ]
+}

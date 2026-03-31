@@ -1,0 +1,10 @@
+{
+  "internalId": 3957884530,
+  "name": "Breads, Assortment",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketbreadset001.png",
+  "bindType": -1,
+  "knownIds": [
+    118344
+  ]
+}

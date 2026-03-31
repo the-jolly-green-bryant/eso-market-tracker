@@ -1,0 +1,12 @@
+{
+  "internalId": 1726510018,
+  "name": "effusion of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    437883,
+    712858,
+    1425701
+  ]
+}

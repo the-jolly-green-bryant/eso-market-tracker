@@ -1,0 +1,10 @@
+{
+  "internalId": 2734279537,
+  "name": "Dark Elf Candle, Claw Base",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_altercandle001.png",
+  "bindType": -1,
+  "knownIds": [
+    115285
+  ]
+}

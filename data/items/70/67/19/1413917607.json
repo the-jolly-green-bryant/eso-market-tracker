@@ -1,0 +1,10 @@
+{
+  "internalId": 1413917607,
+  "name": "Thick Leather",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_topgrain_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    23100
+  ]
+}

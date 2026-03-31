@@ -1,0 +1,17 @@
+{
+  "internalId": 4243701389,
+  "name": "Battle Axe of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189684,
+    189704,
+    189724,
+    189744,
+    189764,
+    189784,
+    189804,
+    189824
+  ]
+}

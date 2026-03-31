@@ -1,0 +1,17 @@
+{
+  "internalId": 979688618,
+  "name": "Tracker's Lash Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210371,
+    210392,
+    210413,
+    210434,
+    210455,
+    210476,
+    210497,
+    210518
+  ]
+}

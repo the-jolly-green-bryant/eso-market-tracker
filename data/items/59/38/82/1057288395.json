@@ -1,0 +1,10 @@
+{
+  "internalId": 1057288395,
+  "name": "Blackreach Geode, Iridescent",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_skr_giantgeode005.png",
+  "bindType": -1,
+  "knownIds": [
+    167342
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1739135099,
+  "name": "Sithis' Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77287,
+    77322,
+    77357,
+    77392,
+    77427,
+    77462,
+    77497
+  ]
+}

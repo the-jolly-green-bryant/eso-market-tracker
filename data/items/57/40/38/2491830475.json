@@ -1,0 +1,17 @@
+{
+  "internalId": 2491830475,
+  "name": "Reactive Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117290,
+    117310,
+    117330,
+    117350,
+    117370,
+    117390,
+    117410,
+    117430
+  ]
+}

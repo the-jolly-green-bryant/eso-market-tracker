@@ -1,0 +1,10 @@
+{
+  "internalId": 4095572508,
+  "name": "Bad Man's Reaper",
+  "description": "Awarded for helping Eveline Vette face the monster she summoned at Bad Man's Hallows.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    212185
+  ]
+}

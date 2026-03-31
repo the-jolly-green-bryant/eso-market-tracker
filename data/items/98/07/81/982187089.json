@@ -1,0 +1,17 @@
+{
+  "internalId": 982187089,
+  "name": "Guards of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93376,
+    93396,
+    93416,
+    93436,
+    93456,
+    93476,
+    93496,
+    93516
+  ]
+}

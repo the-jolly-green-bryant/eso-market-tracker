@@ -1,0 +1,15 @@
+{
+  "internalId": 827795281,
+  "name": "Axe of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95312,
+    95332,
+    95352,
+    95372,
+    95392,
+    95412
+  ]
+}

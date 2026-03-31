@@ -1,0 +1,11 @@
+{
+  "internalId": 1077144107,
+  "name": "Telvanni Enforcer Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1636265,
+    1735442
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1370646725,
+  "name": "Ice Staff of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99175,
+    99195,
+    99215
+  ]
+}

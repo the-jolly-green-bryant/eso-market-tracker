@@ -1,0 +1,10 @@
+{
+  "internalId": 1121450928,
+  "name": "Hlaalu Bench, Mossy Cushion",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_extbench003.png",
+  "bindType": -1,
+  "knownIds": [
+    126444
+  ]
+}

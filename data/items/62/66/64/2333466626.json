@@ -1,0 +1,10 @@
+{
+  "internalId": 2333466626,
+  "name": "Crafting Motif 42: Hollowjack Staves",
+  "description": "Use to learn how to make Hollowjack Staves. Also teaches the equivalent Hollowjack Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    82035
+  ]
+}

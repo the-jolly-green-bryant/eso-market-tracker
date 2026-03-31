@@ -1,0 +1,10 @@
+{
+  "internalId": 3749581881,
+  "name": "Redguard Awning, Desert Flame",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varawninghigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    117764
+  ]
+}

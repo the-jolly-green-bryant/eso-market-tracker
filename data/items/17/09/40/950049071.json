@@ -1,0 +1,10 @@
+{
+  "internalId": 950049071,
+  "name": "Necrom Dresser, Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necdresserhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198443
+  ]
+}

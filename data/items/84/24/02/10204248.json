@@ -1,0 +1,10 @@
+{
+  "internalId": 10204248,
+  "name": "Wood Elf Divider, Stretched",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_roomdivider001.png",
+  "bindType": -1,
+  "knownIds": [
+    115559
+  ]
+}

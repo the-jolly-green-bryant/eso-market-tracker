@@ -1,0 +1,10 @@
+{
+  "internalId": 2513793499,
+  "name": "Reeh-La's Scaled Vest",
+  "description": "This Argonian armor was your reward for finding and returning mining samples.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159718
+  ]
+}

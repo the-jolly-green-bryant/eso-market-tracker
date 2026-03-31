@@ -1,0 +1,10 @@
+{
+  "internalId": 3686251596,
+  "name": "Solitude Lantern, Table",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_lanterntable001.png",
+  "bindType": -1,
+  "knownIds": [
+    165638
+  ]
+}

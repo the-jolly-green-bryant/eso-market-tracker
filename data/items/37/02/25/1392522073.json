@@ -1,0 +1,18 @@
+{
+  "internalId": 1392522073,
+  "name": "Dragonguard Elite's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_axe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155217,
+    155237,
+    155257,
+    155277,
+    155297,
+    155317,
+    155337,
+    155357,
+    155377
+  ]
+}

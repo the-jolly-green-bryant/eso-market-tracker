@@ -1,0 +1,17 @@
+{
+  "internalId": 2907486940,
+  "name": "Greatsword of the Voidcaller",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167602,
+    167623,
+    167644,
+    167665,
+    167686,
+    167707,
+    167728,
+    167749
+  ]
+}

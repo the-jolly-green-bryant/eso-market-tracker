@@ -1,0 +1,19 @@
+{
+  "internalId": 4164768269,
+  "name": "Tharriker's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205417,
+    205472,
+    205507,
+    205542,
+    205577,
+    205612,
+    205647,
+    205682,
+    205717,
+    205752
+  ]
+}

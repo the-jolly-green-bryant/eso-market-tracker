@@ -1,0 +1,10 @@
+{
+  "internalId": 658539268,
+  "name": "Wood Elf Cauldron, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_cmp_cauldron001.png",
+  "bindType": -1,
+  "knownIds": [
+    115579
+  ]
+}

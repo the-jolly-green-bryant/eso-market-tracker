@@ -1,0 +1,17 @@
+{
+  "internalId": 1407840036,
+  "name": "Shoes of the Voidcaller",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167611,
+    167632,
+    167653,
+    167674,
+    167695,
+    167716,
+    167737,
+    167758
+  ]
+}

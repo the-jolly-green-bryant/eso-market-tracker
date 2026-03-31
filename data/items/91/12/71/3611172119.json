@@ -1,0 +1,13 @@
+{
+  "internalId": 3611172119,
+  "name": "splendid glyph of absorb stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_staminaabsorption.png",
+  "bindType": -1,
+  "knownIds": [
+    459167,
+    572585,
+    1446365,
+    1521139
+  ]
+}

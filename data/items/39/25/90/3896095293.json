@@ -1,0 +1,18 @@
+{
+  "internalId": 3896095293,
+  "name": "Stuhn's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161300,
+    161335,
+    161370,
+    161405,
+    161440,
+    161475,
+    161510,
+    161545,
+    161580
+  ]
+}

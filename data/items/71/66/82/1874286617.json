@@ -1,0 +1,10 @@
+{
+  "internalId": 1874286617,
+  "name": "Clockwork Globe, Stand",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_smallglobe001.png",
+  "bindType": -1,
+  "knownIds": [
+    134426
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 378685773,
+  "name": "Indomitable Fury Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143997,
+    144018,
+    144039,
+    144060
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 2444828863,
+  "name": "Eye of the Grasp Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179952,
+    179973,
+    179994,
+    180015,
+    180036,
+    180057,
+    180078
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2417994345,
+  "name": "Scribes of Fate Item Sets",
+  "description": "A collection of armor, jewelry, and weapon sets from Scribes of Fate.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    190341
+  ]
+}

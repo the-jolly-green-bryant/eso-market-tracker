@@ -1,0 +1,13 @@
+{
+  "internalId": 4104790719,
+  "name": "Robe of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173453,
+    173488,
+    173523,
+    173558
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1426600909,
+  "name": "Breton Tablecloth, Blue",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_tablerunner001.png",
+  "bindType": -1,
+  "knownIds": [
+    115252
+  ]
+}

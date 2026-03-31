@@ -1,0 +1,14 @@
+{
+  "internalId": 1365370654,
+  "name": "Vivec's Bow of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195770,
+    195791,
+    195812,
+    195833,
+    195854
+  ]
+}

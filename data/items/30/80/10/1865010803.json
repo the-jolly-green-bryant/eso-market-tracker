@@ -1,0 +1,22 @@
+{
+  "internalId": 1865010803,
+  "name": "Dagger of Leeching",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_dagger__c.png",
+  "bindType": -1,
+  "knownIds": [
+    1096211,
+    1285912,
+    1312835,
+    1345058,
+    1373690,
+    1383869,
+    1532842,
+    1551589,
+    1552098,
+    1569691,
+    1594457,
+    1644085,
+    1693315
+  ]
+}

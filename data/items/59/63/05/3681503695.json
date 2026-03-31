@@ -1,0 +1,10 @@
+{
+  "internalId": 3681503695,
+  "name": "Garlic",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_spice_003.png",
+  "bindType": -1,
+  "knownIds": [
+    26954
+  ]
+}

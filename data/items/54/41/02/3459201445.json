@@ -1,0 +1,15 @@
+{
+  "internalId": 3459201445,
+  "name": "Inferno Staff of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88581,
+    88601,
+    88621,
+    88641,
+    88661,
+    88681
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3714599700,
+  "name": "Tombstone, Engraved, Order of the Hour",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_cem_tombstonemedium002.png",
+  "bindType": -1,
+  "knownIds": [
+    120881
+  ]
+}

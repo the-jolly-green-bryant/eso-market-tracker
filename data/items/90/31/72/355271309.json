@@ -1,0 +1,17 @@
+{
+  "internalId": 355271309,
+  "name": "Vampire Lord's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100412,
+    100433,
+    100454,
+    100475,
+    100496,
+    100517,
+    100538,
+    100559
+  ]
+}

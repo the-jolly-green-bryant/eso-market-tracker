@@ -1,0 +1,17 @@
+{
+  "internalId": 408380717,
+  "name": "Inferno Staff of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101707,
+    101727,
+    101747,
+    101767,
+    101787,
+    101807,
+    101827,
+    101847
+  ]
+}

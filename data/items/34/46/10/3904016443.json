@@ -1,0 +1,19 @@
+{
+  "internalId": 3904016443,
+  "name": "Battle Axe of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69602,
+    69637,
+    69672,
+    69707,
+    69742,
+    69777,
+    69812,
+    69847,
+    69882,
+    69917
+  ]
+}

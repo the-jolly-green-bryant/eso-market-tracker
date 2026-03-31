@@ -1,0 +1,10 @@
+{
+  "internalId": 2298624112,
+  "name": "Brotherhood Candelabra, Table",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_lsb_dbhcandlelabra001.png",
+  "bindType": -1,
+  "knownIds": [
+    120835
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 756743362,
+  "name": "Bal Foyen CE Treasure Map",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    609449
+  ]
+}

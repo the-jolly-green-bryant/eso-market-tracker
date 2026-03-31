@@ -1,0 +1,19 @@
+{
+  "internalId": 2694068982,
+  "name": "Might of the Lost Legion Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143531,
+    143586,
+    143621,
+    143656,
+    143691,
+    143726,
+    143761,
+    143796,
+    143831,
+    143866
+  ]
+}

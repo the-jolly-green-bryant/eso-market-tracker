@@ -1,0 +1,10 @@
+{
+  "internalId": 2936297221,
+  "name": "Vines, Dragonfire Ivy Climber",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_redivy001.png",
+  "bindType": -1,
+  "knownIds": [
+    151823
+  ]
+}

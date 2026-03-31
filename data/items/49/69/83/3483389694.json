@@ -1,0 +1,10 @@
+{
+  "internalId": 3483389694,
+  "name": "Spriggan's Lament",
+  "description": "Spriggans demonstrate a particular fear of this sharp blade.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    159693
+  ]
+}

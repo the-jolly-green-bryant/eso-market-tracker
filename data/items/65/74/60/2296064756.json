@@ -1,0 +1,23 @@
+{
+  "internalId": 2296064756,
+  "name": "Amber Plasm Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    944922,
+    1076021,
+    1142889,
+    1158633,
+    1173690,
+    1193968,
+    1410069,
+    1479146,
+    1541570,
+    1559333,
+    1569152,
+    1680637,
+    1689982,
+    1724237
+  ]
+}

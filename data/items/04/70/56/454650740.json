@@ -1,0 +1,17 @@
+{
+  "internalId": 454650740,
+  "name": "Inferno Staff of Oakfather's Retribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    203911,
+    203932,
+    203953,
+    203974,
+    203995,
+    204016,
+    204037,
+    204058
+  ]
+}

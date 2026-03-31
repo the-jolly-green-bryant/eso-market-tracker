@@ -1,0 +1,12 @@
+{
+  "internalId": 892819688,
+  "name": "draught of Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    431073,
+    690327,
+    1428100
+  ]
+}

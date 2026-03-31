@@ -1,0 +1,10 @@
+{
+  "internalId": 3129212498,
+  "name": "Recipe: Hunter's Pie",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    45941
+  ]
+}

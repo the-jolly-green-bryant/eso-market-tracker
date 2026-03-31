@@ -1,0 +1,10 @@
+{
+  "internalId": 3098471093,
+  "name": "Dubious Camoran Throne",
+  "description": "A dessert cocktail of jagga, rotmeth, and sweetbread puree. Definitely Green Pact compliant.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jester_fancystonewarejug.png",
+  "bindType": -1,
+  "knownIds": [
+    120763
+  ]
+}

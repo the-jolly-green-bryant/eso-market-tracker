@@ -1,0 +1,15 @@
+{
+  "internalId": 2649996564,
+  "name": "Greatsword of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    178971,
+    179006,
+    179041,
+    179076,
+    179111,
+    179146
+  ]
+}

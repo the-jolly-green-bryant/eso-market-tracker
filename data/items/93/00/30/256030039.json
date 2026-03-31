@@ -1,0 +1,10 @@
+{
+  "internalId": 256030039,
+  "name": "Oldgate Location Talisman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_bangkorai_imperial_coin.png",
+  "bindType": -1,
+  "knownIds": [
+    484148
+  ]
+}

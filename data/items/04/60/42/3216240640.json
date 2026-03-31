@@ -1,0 +1,16 @@
+{
+  "internalId": 3216240640,
+  "name": "Sithis' Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77299,
+    77334,
+    77369,
+    77404,
+    77439,
+    77474,
+    77509
+  ]
+}

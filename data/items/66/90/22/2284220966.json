@@ -1,0 +1,10 @@
+{
+  "internalId": 2284220966,
+  "name": "Orcish Coffer, Bolted",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgcoffer001.png",
+  "bindType": -1,
+  "knownIds": [
+    116431
+  ]
+}

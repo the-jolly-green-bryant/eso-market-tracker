@@ -1,0 +1,10 @@
+{
+  "internalId": 3752432735,
+  "name": "Quarantine Staff",
+  "description": "This staff of healing was awarded for helping the alchemist Nilyne create a plague suppressant at Quarantine Serk.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    4316
+  ]
+}

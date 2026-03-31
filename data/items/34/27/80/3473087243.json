@@ -1,0 +1,18 @@
+{
+  "internalId": 3473087243,
+  "name": "Ice Staff of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    160638,
+    160659,
+    160680,
+    160701,
+    160722,
+    160743,
+    160764,
+    160785,
+    160806
+  ]
+}

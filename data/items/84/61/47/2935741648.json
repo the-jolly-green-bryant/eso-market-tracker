@@ -1,0 +1,16 @@
+{
+  "internalId": 2935741648,
+  "name": "Highland Sentinel Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205908,
+    205943,
+    205978,
+    206013,
+    206048,
+    206083,
+    206118
+  ]
+}

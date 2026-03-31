@@ -1,0 +1,10 @@
+{
+  "internalId": 2165856106,
+  "name": "Dominion Meatbag Catapult of Vengeance",
+  "description": "Creates a catapult siege weapon that fires a bag of diseased meat at its targets.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_003.png",
+  "bindType": -1,
+  "knownIds": [
+    219145
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2653122256,
+  "name": "Telvanni Peninsula Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necwoodpictureframe007.png",
+  "bindType": -1,
+  "knownIds": [
+    197753
+  ]
+}

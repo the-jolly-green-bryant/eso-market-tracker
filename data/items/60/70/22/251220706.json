@@ -1,0 +1,17 @@
+{
+  "internalId": 251220706,
+  "name": "Spinner's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99657,
+    99678,
+    99699,
+    99720,
+    99741,
+    99762,
+    99783,
+    99804
+  ]
+}

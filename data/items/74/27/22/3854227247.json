@@ -1,0 +1,26 @@
+{
+  "internalId": 3854227247,
+  "name": "Slag Town Coffer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1172665,
+    1189706,
+    1231894,
+    1231896,
+    1231927,
+    1232200,
+    1232205,
+    1232406,
+    1322438,
+    1353091,
+    1355526,
+    1355610,
+    1364841,
+    1364855,
+    1384890,
+    1414839,
+    1420675
+  ]
+}

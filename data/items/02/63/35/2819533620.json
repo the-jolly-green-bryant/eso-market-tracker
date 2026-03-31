@@ -1,0 +1,19 @@
+{
+  "internalId": 2819533620,
+  "name": "Ancient Dragonguard's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155808,
+    155863,
+    155898,
+    155933,
+    155968,
+    156003,
+    156038,
+    156073,
+    156108,
+    156143
+  ]
+}

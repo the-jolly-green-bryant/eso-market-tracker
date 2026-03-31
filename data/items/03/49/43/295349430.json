@@ -1,0 +1,10 @@
+{
+  "internalId": 295349430,
+  "name": "Shutters, Hinged Lattice",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varshuttersmedium005.png",
+  "bindType": -1,
+  "knownIds": [
+    118175
+  ]
+}

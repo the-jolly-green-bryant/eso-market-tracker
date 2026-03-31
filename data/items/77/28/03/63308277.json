@@ -1,0 +1,10 @@
+{
+  "internalId": 63308277,
+  "name": "Crafting Motif 40: Order Hour Maces",
+  "description": "Use to learn how to make Order of the Hour Maces. Also teaches the equivalent Order Hour Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    82097
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 516421951,
+  "name": "Vastarie's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148694,
+    148749,
+    148784,
+    148819,
+    148854,
+    148889,
+    148924,
+    148959,
+    148994,
+    149029
+  ]
+}

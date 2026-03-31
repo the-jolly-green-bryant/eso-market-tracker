@@ -1,0 +1,10 @@
+{
+  "internalId": 3095618388,
+  "name": "Solitude Shed, Wood Lean-To",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_villagesideshed003.png",
+  "bindType": -1,
+  "knownIds": [
+    167324
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 3442966733,
+  "name": "Maul of the Worm Cult",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1087050,
+    1304525,
+    1372264,
+    1403354,
+    1510591,
+    1511034,
+    1523639,
+    1547372,
+    1601305,
+    1762064,
+    1762065
+  ]
+}

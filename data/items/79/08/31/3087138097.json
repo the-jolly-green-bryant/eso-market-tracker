@@ -1,0 +1,20 @@
+{
+  "internalId": 3087138097,
+  "name": "Ice Staff of Kyne's Wind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1373960,
+    1399940,
+    1409290,
+    1541626,
+    1559446,
+    1559927,
+    1615751,
+    1617730,
+    1677588,
+    1758530,
+    1761529
+  ]
+}

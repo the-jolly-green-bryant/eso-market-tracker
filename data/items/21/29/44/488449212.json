@@ -1,0 +1,17 @@
+{
+  "internalId": 488449212,
+  "name": "Highland Sentinel Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205884,
+    205919,
+    205954,
+    205989,
+    206024,
+    206059,
+    206094,
+    206129
+  ]
+}

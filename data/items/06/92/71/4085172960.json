@@ -1,0 +1,17 @@
+{
+  "internalId": 4085172960,
+  "name": "Battle Axe of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97595,
+    97615,
+    97635,
+    97655,
+    97675,
+    97695,
+    97715,
+    97735
+  ]
+}

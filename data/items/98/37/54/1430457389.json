@@ -1,0 +1,17 @@
+{
+  "internalId": 1430457389,
+  "name": "Sword of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91757,
+    91778,
+    91799,
+    91820,
+    91841,
+    91862,
+    91883,
+    91904
+  ]
+}

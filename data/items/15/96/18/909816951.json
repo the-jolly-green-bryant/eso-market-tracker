@@ -1,0 +1,10 @@
+{
+  "internalId": 909816951,
+  "name": "Staff of Withering",
+  "description": "This staff was made from a tree which once grew in Motalion Necropolis.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    26518
+  ]
+}

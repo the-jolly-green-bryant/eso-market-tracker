@@ -1,0 +1,16 @@
+{
+  "internalId": 2023884455,
+  "name": "Jailer's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1307825,
+    1482087,
+    1482188,
+    1497497,
+    1725617,
+    1744487,
+    1778605
+  ]
+}

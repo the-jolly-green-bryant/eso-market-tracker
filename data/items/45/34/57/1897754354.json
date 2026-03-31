@@ -1,0 +1,10 @@
+{
+  "internalId": 1897754354,
+  "name": "Plant, Green Water",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_bansouthbush001.png",
+  "bindType": -1,
+  "knownIds": [
+    120460
+  ]
+}

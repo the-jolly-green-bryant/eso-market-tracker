@@ -1,0 +1,17 @@
+{
+  "internalId": 831942749,
+  "name": "Pauldron of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98529,
+    98549,
+    98569,
+    98589,
+    98609,
+    98629,
+    98649,
+    98669
+  ]
+}

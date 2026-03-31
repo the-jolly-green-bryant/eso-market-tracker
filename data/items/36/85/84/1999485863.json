@@ -1,0 +1,10 @@
+{
+  "internalId": 1999485863,
+  "name": "Sapling, Galen Beech",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sys_carob006.png",
+  "bindType": -1,
+  "knownIds": [
+    192394
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 3366565185,
+  "name": "Belt of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    178965,
+    179000,
+    179035,
+    179070,
+    179105,
+    179140,
+    179175
+  ]
+}

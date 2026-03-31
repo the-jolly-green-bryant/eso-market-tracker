@@ -1,0 +1,10 @@
+{
+  "internalId": 780117121,
+  "name": "Elsweyr Post, Masonry Wall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_waf_wallsmediumdivider001.png",
+  "bindType": -1,
+  "knownIds": [
+    151764
+  ]
+}

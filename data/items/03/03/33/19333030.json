@@ -1,0 +1,17 @@
+{
+  "internalId": 19333030,
+  "name": "Death-Dancer Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214712,
+    214732,
+    214752,
+    214772,
+    214792,
+    214812,
+    214832,
+    214852
+  ]
+}

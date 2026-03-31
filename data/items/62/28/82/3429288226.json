@@ -1,0 +1,15 @@
+{
+  "internalId": 3429288226,
+  "name": "Ring of Orgnum's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139693,
+    139783,
+    139873,
+    139963,
+    140053,
+    140143
+  ]
+}

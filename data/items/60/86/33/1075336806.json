@@ -1,0 +1,17 @@
+{
+  "internalId": 1075336806,
+  "name": "Mace of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93906,
+    93926,
+    93946,
+    93966,
+    93986,
+    94006,
+    94026,
+    94046
+  ]
+}

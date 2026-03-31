@@ -1,0 +1,10 @@
+{
+  "internalId": 3890257452,
+  "name": "sawfish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
+  "bindType": -1,
+  "knownIds": [
+    497810
+  ]
+}

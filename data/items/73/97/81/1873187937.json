@@ -1,0 +1,19 @@
+{
+  "internalId": 1873187937,
+  "name": "Threads of War Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206158,
+    206213,
+    206248,
+    206283,
+    206318,
+    206353,
+    206388,
+    206423,
+    206458,
+    206493
+  ]
+}

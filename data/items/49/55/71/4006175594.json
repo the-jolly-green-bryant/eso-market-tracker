@@ -1,0 +1,14 @@
+{
+  "internalId": 4006175594,
+  "name": "Belt of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87519,
+    87539,
+    87559,
+    87579,
+    87639
+  ]
+}

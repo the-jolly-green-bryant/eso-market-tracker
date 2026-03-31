@@ -1,0 +1,10 @@
+{
+  "internalId": 2635952678,
+  "name": "Helm of the Schemer",
+  "description": "A token of gratitude from Kassandra for your heroic efforts in rescuing the kidnapped Cyrodillic Collections explorers.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    145542
+  ]
+}

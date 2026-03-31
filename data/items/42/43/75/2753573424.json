@@ -1,0 +1,19 @@
+{
+  "internalId": 2753573424,
+  "name": "Greaves of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69582,
+    69617,
+    69652,
+    69687,
+    69722,
+    69757,
+    69792,
+    69827,
+    69862,
+    69897
+  ]
+}

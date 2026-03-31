@@ -1,0 +1,19 @@
+{
+  "internalId": 958239633,
+  "name": "Bracers of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70637,
+    70672,
+    70707,
+    70742,
+    70777,
+    70812,
+    70847,
+    70882,
+    70917,
+    70952
+  ]
+}

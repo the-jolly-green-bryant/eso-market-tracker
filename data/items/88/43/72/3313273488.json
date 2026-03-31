@@ -1,0 +1,10 @@
+{
+  "internalId": 3313273488,
+  "name": "Crafting Motif 121: Clan Dreamcarver Chests",
+  "description": "Use to learn how to make Clan Dreamcarver Chests. Also teaches the equivalent Clan Dreamcarver Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    194497
+  ]
+}

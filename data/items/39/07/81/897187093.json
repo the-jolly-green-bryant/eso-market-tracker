@@ -1,0 +1,15 @@
+{
+  "internalId": 897187093,
+  "name": "Necklace of the Willow's Path",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139731,
+    139821,
+    139911,
+    140001,
+    140091,
+    140181
+  ]
+}

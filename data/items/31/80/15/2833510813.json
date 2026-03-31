@@ -1,0 +1,19 @@
+{
+  "internalId": 2833510813,
+  "name": "Seeker Synthesis Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195356,
+    195411,
+    195446,
+    195481,
+    195516,
+    195551,
+    195586,
+    195621,
+    195656,
+    195691
+  ]
+}

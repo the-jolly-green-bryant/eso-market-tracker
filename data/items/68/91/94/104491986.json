@@ -1,0 +1,17 @@
+{
+  "internalId": 104491986,
+  "name": "Dagger of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91761,
+    91782,
+    91803,
+    91824,
+    91845,
+    91866,
+    91887,
+    91908
+  ]
+}

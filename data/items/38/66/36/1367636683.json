@@ -1,0 +1,17 @@
+{
+  "internalId": 1367636683,
+  "name": "Reactive Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117280,
+    117300,
+    117320,
+    117340,
+    117360,
+    117380,
+    117400,
+    117420
+  ]
+}

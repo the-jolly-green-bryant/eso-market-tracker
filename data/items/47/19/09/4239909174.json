@@ -1,0 +1,19 @@
+{
+  "internalId": 4239909174,
+  "name": "Senche-Raht's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148335,
+    148390,
+    148425,
+    148460,
+    148495,
+    148530,
+    148565,
+    148600,
+    148635,
+    148670
+  ]
+}

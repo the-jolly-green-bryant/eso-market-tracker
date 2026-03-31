@@ -1,0 +1,21 @@
+{
+  "internalId": 4016349340,
+  "name": "Sword Dancer's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    941983,
+    1075771,
+    1230781,
+    1362820,
+    1379660,
+    1387331,
+    1387559,
+    1430811,
+    1452532,
+    1457075,
+    1643491,
+    1682420
+  ]
+}

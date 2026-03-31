@@ -1,0 +1,10 @@
+{
+  "internalId": 1192028118,
+  "name": "Dawnwood Basket, Square Leather",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosmerbasket001.png",
+  "bindType": -1,
+  "knownIds": [
+    211381
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2528221243,
+  "name": "Prowling Shadow Tapestry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryprowlingshadowsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    188280
+  ]
+}

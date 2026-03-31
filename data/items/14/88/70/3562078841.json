@@ -1,0 +1,10 @@
+{
+  "internalId": 3562078841,
+  "name": "Heloise's Staff of Necropotence",
+  "description": "Healer Heloise's staff, awarded for aiding the soldiers at Hinault Farm.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7292
+  ]
+}

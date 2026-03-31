@@ -1,0 +1,27 @@
+{
+  "internalId": 3411844904,
+  "name": "Lightning Staff of the Magicka Furnace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1154581,
+    1166345,
+    1175991,
+    1230268,
+    1287171,
+    1372340,
+    1402624,
+    1462571,
+    1552344,
+    1558530,
+    1561986,
+    1587697,
+    1605633,
+    1614576,
+    1656885,
+    1661605,
+    1685231,
+    1697425
+  ]
+}

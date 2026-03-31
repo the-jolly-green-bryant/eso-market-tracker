@@ -1,0 +1,17 @@
+{
+  "internalId": 4120154278,
+  "name": "Lightning Staff of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88179,
+    88199,
+    88219,
+    88239,
+    88259,
+    88279,
+    88299,
+    88319
+  ]
+}

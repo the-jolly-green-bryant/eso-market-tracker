@@ -1,0 +1,10 @@
+{
+  "internalId": 4175206759,
+  "name": "Apocrypha Lamp, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libcandlestandlarge002.png",
+  "bindType": -1,
+  "knownIds": [
+    198436
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3382155729,
+  "name": "Hat of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91771,
+    91792,
+    91813,
+    91834,
+    91855,
+    91876,
+    91897,
+    91918
+  ]
+}

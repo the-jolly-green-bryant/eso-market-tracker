@@ -1,0 +1,24 @@
+{
+  "internalId": 3222980710,
+  "name": "Jolting Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    944871,
+    948168,
+    1130791,
+    1233788,
+    1285188,
+    1399060,
+    1428516,
+    1444855,
+    1585836,
+    1613861,
+    1643197,
+    1686127,
+    1695032,
+    1718466,
+    1734622
+  ]
+}

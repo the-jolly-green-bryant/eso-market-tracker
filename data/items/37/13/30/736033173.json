@@ -1,0 +1,18 @@
+{
+  "internalId": 736033173,
+  "name": "orichalc girdle of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    736316,
+    635303,
+    736876,
+    684391,
+    517208,
+    871192,
+    871388,
+    871426,
+    893784
+  ]
+}

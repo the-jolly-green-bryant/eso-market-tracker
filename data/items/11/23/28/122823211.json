@@ -1,0 +1,22 @@
+{
+  "internalId": 122823211,
+  "name": "Shield of the Two-Fanged Snake",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1089097,
+    1089564,
+    1140919,
+    1157990,
+    1162456,
+    1169319,
+    1176043,
+    1546224,
+    1691583,
+    1691638,
+    1740305,
+    1745792,
+    1757032
+  ]
+}

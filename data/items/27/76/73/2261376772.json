@@ -1,0 +1,19 @@
+{
+  "internalId": 2261376772,
+  "name": "Breeches of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69597,
+    69632,
+    69667,
+    69702,
+    69737,
+    69772,
+    69807,
+    69842,
+    69877,
+    69912
+  ]
+}

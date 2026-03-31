@@ -1,0 +1,21 @@
+{
+  "internalId": 2140705605,
+  "name": "Draugr's Rest Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1310541,
+    1313497,
+    1329885,
+    1397247,
+    1415845,
+    1581619,
+    1594743,
+    1600983,
+    1606341,
+    1633843,
+    1640878,
+    1731195
+  ]
+}

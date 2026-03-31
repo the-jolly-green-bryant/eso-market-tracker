@@ -1,0 +1,17 @@
+{
+  "internalId": 3424052704,
+  "name": "Deadlands Assassin's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172125,
+    172145,
+    172165,
+    172185,
+    172205,
+    172225,
+    172245,
+    172265
+  ]
+}

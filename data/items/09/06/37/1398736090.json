@@ -1,0 +1,17 @@
+{
+  "internalId": 1398736090,
+  "name": "Battlefield Acrobat Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144287,
+    144307,
+    144327,
+    144347,
+    144367,
+    144387,
+    144407,
+    144427
+  ]
+}

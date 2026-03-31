@@ -1,0 +1,18 @@
+{
+  "internalId": 2317848188,
+  "name": "Webspinner's Brace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_shield_b.png",
+  "bindType": -1,
+  "knownIds": [
+    810730,
+    805339,
+    945615,
+    947435,
+    1201130,
+    1394641,
+    1423906,
+    1485258,
+    1504663
+  ]
+}

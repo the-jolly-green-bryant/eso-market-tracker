@@ -1,0 +1,10 @@
+{
+  "internalId": 2821725948,
+  "name": "Dibellan Statue, Flowers",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_dibellaflowerstatuestone001.png",
+  "bindType": -1,
+  "knownIds": [
+    218005
+  ]
+}

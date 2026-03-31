@@ -1,0 +1,10 @@
+{
+  "internalId": 2630566142,
+  "name": "Tribal Helm of the Defiler",
+  "description": "You earned this helm for slaying the \"Ruddy Man\" attacking pilgrims near Molag Mar, thus proving an Ashlander tribe's innocence.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlanderv_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126057
+  ]
+}

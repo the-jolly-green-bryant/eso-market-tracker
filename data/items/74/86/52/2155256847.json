@@ -1,0 +1,10 @@
+{
+  "internalId": 2155256847,
+  "name": "Fighters  Guild Citation",
+  "description": "When used, this citation grants 70 points of Fighters Guild Reputation. You must already be a member of the Fighters Guild to use this item, and cannot use it if your Fighters Guild Rank is 10.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_item_u49_fighters_guild_citation.png",
+  "bindType": -1,
+  "knownIds": [
+    203717
+  ]
+}

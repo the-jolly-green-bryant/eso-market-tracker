@@ -1,0 +1,10 @@
+{
+  "internalId": 3569353315,
+  "name": "Crafting Motif 50: Telvanni Maces",
+  "description": "Use to learn how to make Telvanni Maces. Also teaches the equivalent Telvanni Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    121342
+  ]
+}

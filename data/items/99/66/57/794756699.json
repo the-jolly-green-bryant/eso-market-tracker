@@ -1,0 +1,10 @@
+{
+  "internalId": 794756699,
+  "name": "Leyawiin Potted Plant, Aspen Sapling",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_housingleyplantpotaspentree001.png",
+  "bindType": -1,
+  "knownIds": [
+    175668
+  ]
+}

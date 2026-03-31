@@ -1,0 +1,10 @@
+{
+  "internalId": 740738835,
+  "name": "Crafting Motif 58: Fang Lair Gloves",
+  "description": "Use to learn how to make Fang Lair Gloves. Also teaches the equivalent Fang Lair Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    134762
+  ]
+}

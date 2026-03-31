@@ -1,0 +1,17 @@
+{
+  "internalId": 882205273,
+  "name": "Soulcleaver Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_sheild.png",
+  "bindType": -1,
+  "knownIds": [
+    1680264,
+    1691934,
+    1692148,
+    1692819,
+    1693020,
+    1693192,
+    1695134,
+    1718077
+  ]
+}

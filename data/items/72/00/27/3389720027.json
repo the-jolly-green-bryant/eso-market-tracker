@@ -1,0 +1,15 @@
+{
+  "internalId": 3389720027,
+  "name": "Automated Defense Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1159837,
+    1182339,
+    1346775,
+    1457668,
+    1458785,
+    1503955
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3794317357,
+  "name": "Flower, Stout Hibiscus",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_shadowfenbulbflower001.png",
+  "bindType": -1,
+  "knownIds": [
+    120579
+  ]
+}

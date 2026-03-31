@@ -1,0 +1,10 @@
+{
+  "internalId": 4277892581,
+  "name": "Crafting Motif 129: Hircine Bloodhunter Daggers",
+  "description": "Use to learn how to make Hircine Bloodhunter Daggers. Also teaches the equivalent Hircine Bloodhunter Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203840
+  ]
+}

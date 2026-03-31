@@ -1,0 +1,10 @@
+{
+  "internalId": 3760568885,
+  "name": "Redguard Counter, Grill",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varinthicounterstraight002.png",
+  "bindType": -1,
+  "knownIds": [
+    117828
+  ]
+}

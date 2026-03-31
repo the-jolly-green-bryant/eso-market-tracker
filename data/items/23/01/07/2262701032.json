@@ -1,0 +1,10 @@
+{
+  "internalId": 2262701032,
+  "name": "Jel Parchment",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkparchment001.png",
+  "bindType": -1,
+  "knownIds": [
+    145403
+  ]
+}

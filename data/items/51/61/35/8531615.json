@@ -1,0 +1,10 @@
+{
+  "internalId": 8531615,
+  "name": "Leyawiin Wall, Castle Door Arch",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastlewalldoorwayint003.png",
+  "bindType": -1,
+  "knownIds": [
+    181512
+  ]
+}

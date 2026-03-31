@@ -1,0 +1,17 @@
+{
+  "internalId": 2655490077,
+  "name": "Belt of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117108,
+    117128,
+    117148,
+    117168,
+    117188,
+    117208,
+    117228,
+    117248
+  ]
+}

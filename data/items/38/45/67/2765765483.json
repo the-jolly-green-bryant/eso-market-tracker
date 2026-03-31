@@ -1,0 +1,10 @@
+{
+  "internalId": 2765765483,
+  "name": "Redoran Spoon, Wooden",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlawooddinnerspoon001.png",
+  "bindType": -1,
+  "knownIds": [
+    126396
+  ]
+}

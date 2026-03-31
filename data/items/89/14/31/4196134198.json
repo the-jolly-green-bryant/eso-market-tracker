@@ -1,0 +1,10 @@
+{
+  "internalId": 4196134198,
+  "name": "Leyawiin Wall, Straight Garden",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleywalllowstraight001.png",
+  "bindType": -1,
+  "knownIds": [
+    181527
+  ]
+}

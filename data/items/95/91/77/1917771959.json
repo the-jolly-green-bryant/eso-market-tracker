@@ -1,0 +1,18 @@
+{
+  "internalId": 1917771959,
+  "name": "Hiti's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_icereachcoven_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1352144,
+    1402973,
+    1422029,
+    1490506,
+    1521768,
+    1547425,
+    1641636,
+    1643863,
+    1683850
+  ]
+}

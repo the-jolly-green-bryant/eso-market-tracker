@@ -1,0 +1,11 @@
+{
+  "internalId": 843882631,
+  "name": "Pact Fire Ballista",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1235953,
+    1282036
+  ]
+}

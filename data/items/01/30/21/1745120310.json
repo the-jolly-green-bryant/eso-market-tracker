@@ -1,0 +1,10 @@
+{
+  "internalId": 1745120310,
+  "name": "Ayleid Constellation Stele, The Warrior",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmallwarrior001.png",
+  "bindType": -1,
+  "knownIds": [
+    134471
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1173665370,
+  "name": "Battle Axe of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161011,
+    161031,
+    161051,
+    161071,
+    161091,
+    161111,
+    161131,
+    161151,
+    161171
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3353948334,
+  "name": "Fiord's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100218,
+    100238,
+    100258,
+    100278,
+    100298,
+    100318,
+    100338,
+    100358
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 837686102,
+  "name": "Elsweyr Bucket, Wooden",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_kitchenbucket001.png",
+  "bindType": -1,
+  "knownIds": [
+    151648
+  ]
+}

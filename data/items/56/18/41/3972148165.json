@@ -1,0 +1,23 @@
+{
+  "internalId": 3972148165,
+  "name": "Duneripper Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    980842,
+    1084468,
+    1253257,
+    1262474,
+    1367005,
+    1397954,
+    1509704,
+    1521278,
+    1565247,
+    1606474,
+    1643411,
+    1684492,
+    1688152,
+    1764753
+  ]
+}

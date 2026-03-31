@@ -1,0 +1,17 @@
+{
+  "internalId": 3801673529,
+  "name": "Bow of Willpower",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69178,
+    69191,
+    69204,
+    69217,
+    69230,
+    69243,
+    69256,
+    69269
+  ]
+}

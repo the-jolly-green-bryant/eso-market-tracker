@@ -1,0 +1,18 @@
+{
+  "internalId": 3912717267,
+  "name": "Lady Malygda's Mask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undladymalygda_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1588933,
+    1590384,
+    1591128,
+    1591173,
+    1591481,
+    1592626,
+    1592650,
+    1645576,
+    1658494
+  ]
+}

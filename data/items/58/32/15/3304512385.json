@@ -1,0 +1,17 @@
+{
+  "internalId": 3304512385,
+  "name": "Mace of Imperial Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89990,
+    90003,
+    90016,
+    90029,
+    90042,
+    90055,
+    90068,
+    90081
+  ]
+}

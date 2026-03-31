@@ -1,0 +1,17 @@
+{
+  "internalId": 3022688079,
+  "name": "Unflinching Ultimate Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219491,
+    219511,
+    219531,
+    219551,
+    219571,
+    219591,
+    219611,
+    219631
+  ]
+}

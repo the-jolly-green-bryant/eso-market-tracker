@@ -1,0 +1,19 @@
+{
+  "internalId": 997764290,
+  "name": "Innate Axiom Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130390,
+    130425,
+    130460,
+    130495,
+    130530,
+    130565,
+    130600,
+    130635,
+    130670,
+    130705
+  ]
+}

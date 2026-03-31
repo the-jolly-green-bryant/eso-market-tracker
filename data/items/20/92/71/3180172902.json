@@ -1,0 +1,20 @@
+{
+  "internalId": 3180172902,
+  "name": "Saxhleel Champion's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1479112,
+    1486729,
+    1528535,
+    1530007,
+    1539999,
+    1564063,
+    1584637,
+    1616536,
+    1678496,
+    1691951,
+    1731269
+  ]
+}

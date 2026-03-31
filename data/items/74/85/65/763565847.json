@@ -1,0 +1,10 @@
+{
+  "internalId": 763565847,
+  "name": "Sapling, Violet Leaning Summertide",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_wildbougainvilleapurple003.png",
+  "bindType": -1,
+  "knownIds": [
+    220361
+  ]
+}

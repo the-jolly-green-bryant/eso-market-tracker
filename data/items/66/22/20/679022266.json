@@ -1,0 +1,18 @@
+{
+  "internalId": 679022266,
+  "name": "Shield of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116719,
+    116740,
+    116761,
+    116782,
+    116803,
+    116824,
+    116845,
+    116866,
+    116887
+  ]
+}

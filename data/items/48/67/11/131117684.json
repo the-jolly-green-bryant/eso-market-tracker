@@ -1,0 +1,10 @@
+{
+  "internalId": 131117684,
+  "name": "Ritual Brazier, Gilded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varbrazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    134906
+  ]
+}

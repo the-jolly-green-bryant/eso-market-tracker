@@ -1,0 +1,10 @@
+{
+  "internalId": 2857000493,
+  "name": "Argonian Bone Chimes",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_windchimes001.png",
+  "bindType": -1,
+  "knownIds": [
+    115503
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3793534170,
+  "name": "Ansuul's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1645314,
+    1679603,
+    1745282,
+    1757969,
+    1766197,
+    1770441
+  ]
+}

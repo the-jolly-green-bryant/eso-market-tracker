@@ -1,0 +1,10 @@
+{
+  "internalId": 2962748727,
+  "name": "Embroidered Coin Purse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_generic_coinbag.png",
+  "bindType": -1,
+  "knownIds": [
+    902729
+  ]
+}

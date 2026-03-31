@@ -1,0 +1,10 @@
+{
+  "internalId": 2319832545,
+  "name": "Upstream Belt",
+  "description": "A belt that fastens nicely. Secured from Nimble-Knuckles for dealing with the strangler situation at Xal Ithix.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7465
+  ]
+}

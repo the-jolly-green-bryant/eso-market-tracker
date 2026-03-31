@@ -1,0 +1,10 @@
+{
+  "internalId": 4119807576,
+  "name": "Mushrooms, Puspocket Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_smlundeadmushroom003.png",
+  "bindType": -1,
+  "knownIds": [
+    134910
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3542436782,
+  "name": "Wizard's Riposte Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123742,
+    123763,
+    123784,
+    123805,
+    123826,
+    123847,
+    123868,
+    123889
+  ]
+}

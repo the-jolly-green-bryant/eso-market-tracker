@@ -1,0 +1,10 @@
+{
+  "internalId": 2859001421,
+  "name": "Solitude Stein, Rustic",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_steincup001.png",
+  "bindType": -1,
+  "knownIds": [
+    165805
+  ]
+}

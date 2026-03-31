@@ -1,0 +1,19 @@
+{
+  "internalId": 2798183390,
+  "name": "Gladiator's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75414,
+    75449,
+    75484,
+    75519,
+    75554,
+    75589,
+    75624,
+    75659,
+    75694,
+    75729
+  ]
+}

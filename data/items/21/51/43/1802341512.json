@@ -1,0 +1,15 @@
+{
+  "internalId": 1802341512,
+  "name": "Sabatons of Nikulas",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85285,
+    85305,
+    85325,
+    85345,
+    85365,
+    85405
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": 2066607191,
+  "name": "The Master's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1176720,
+    1179168,
+    1348333,
+    1348592,
+    1369550,
+    1371479,
+    1399197,
+    1418219,
+    1418224,
+    1480454,
+    1502636,
+    1504932,
+    1519327,
+    1571487,
+    1600735,
+    1607973
+  ]
+}

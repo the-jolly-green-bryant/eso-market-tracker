@@ -1,0 +1,10 @@
+{
+  "internalId": 2996544382,
+  "name": "Pircalmo's Rimestaff",
+  "description": "Despite the questionable skill of its enchanter, the spellwork on this staff is competently done.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10939
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 605427930,
+  "name": "Inferno Staff of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90999,
+    91020,
+    91041,
+    91062,
+    91083,
+    91104,
+    91125,
+    91146
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 423185581,
+  "name": "Highland Sentinel Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205888,
+    205923,
+    205958,
+    205993,
+    206028,
+    206063,
+    206098,
+    206133
+  ]
+}

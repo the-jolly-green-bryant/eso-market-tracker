@@ -1,0 +1,21 @@
+{
+  "internalId": 1580279118,
+  "name": "Greatsword of the Worm Cult",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1093077,
+    1194249,
+    1194936,
+    1286014,
+    1310025,
+    1531410,
+    1544372,
+    1559731,
+    1566057,
+    1573615,
+    1731848,
+    1765666
+  ]
+}

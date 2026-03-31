@@ -1,0 +1,25 @@
+{
+  "internalId": 3948919859,
+  "name": "Widowmaker Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_medium_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1494617,
+    1494619,
+    1512249,
+    1526637,
+    1539075,
+    1542475,
+    1549149,
+    1571062,
+    1571063,
+    1573641,
+    1578080,
+    1578087,
+    1588390,
+    1593192,
+    1594934,
+    1602199
+  ]
+}

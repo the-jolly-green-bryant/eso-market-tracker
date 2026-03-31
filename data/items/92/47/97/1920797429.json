@@ -1,0 +1,10 @@
+{
+  "internalId": 1920797429,
+  "name": "Crafting Motif 122: Dead Keeper Helmets",
+  "description": "Use to learn how to make Dead Keeper Helmets. Also teaches the equivalent Dead Keeper Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    194521
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4161507375,
+  "name": "Affix Script: Interrupt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_interrupt.png",
+  "bindType": -1,
+  "knownIds": [
+    204593
+  ]
+}

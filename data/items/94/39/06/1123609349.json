@@ -1,0 +1,10 @@
+{
+  "internalId": 1123609349,
+  "name": "Orcish Bedding, Fur",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgbed002.png",
+  "bindType": -1,
+  "knownIds": [
+    116354
+  ]
+}

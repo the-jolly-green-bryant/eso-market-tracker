@@ -1,0 +1,17 @@
+{
+  "internalId": 1636041635,
+  "name": "Dagger of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78912,
+    78947,
+    78982,
+    79017,
+    79052,
+    79087,
+    79122,
+    79157
+  ]
+}

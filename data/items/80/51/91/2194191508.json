@@ -1,0 +1,10 @@
+{
+  "internalId": 2194191508,
+  "name": "Worm Cult Dresser, Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_displaytablehigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    220277
+  ]
+}

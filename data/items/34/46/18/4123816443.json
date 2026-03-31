@@ -1,0 +1,17 @@
+{
+  "internalId": 4123816443,
+  "name": "Old Growth Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191720,
+    191755,
+    191790,
+    191825,
+    191860,
+    191895,
+    191930,
+    191965
+  ]
+}

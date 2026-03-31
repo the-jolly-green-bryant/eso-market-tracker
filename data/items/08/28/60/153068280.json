@@ -1,0 +1,28 @@
+{
+  "internalId": 153068280,
+  "name": "Inventor's Guard Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1159839,
+    1166986,
+    1389447,
+    1398344,
+    1399833,
+    1401227,
+    1403542,
+    1409026,
+    1490816,
+    1551626,
+    1567000,
+    1578564,
+    1592691,
+    1630993,
+    1734890,
+    1755901,
+    1757101,
+    1761023,
+    1776136
+  ]
+}

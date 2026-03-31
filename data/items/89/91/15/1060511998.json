@@ -1,0 +1,28 @@
+{
+  "internalId": 1060511998,
+  "name": "Hagraven's Garden Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1166179,
+    1166904,
+    1172868,
+    1294330,
+    1337924,
+    1361563,
+    1369521,
+    1385588,
+    1396877,
+    1397496,
+    1451578,
+    1520907,
+    1567742,
+    1583937,
+    1610123,
+    1613357,
+    1613360,
+    1654525,
+    1777356
+  ]
+}

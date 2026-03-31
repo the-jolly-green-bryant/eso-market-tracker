@@ -1,0 +1,10 @@
+{
+  "internalId": 3687946595,
+  "name": "Old Shank",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_potion_sp_names_002.png",
+  "bindType": -1,
+  "knownIds": [
+    34322
+  ]
+}

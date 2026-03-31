@@ -1,0 +1,10 @@
+{
+  "internalId": 329380172,
+  "name": "Opal Snuffbox",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_042.png",
+  "bindType": -1,
+  "knownIds": [
+    860206
+  ]
+}

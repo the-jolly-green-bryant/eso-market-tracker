@@ -1,0 +1,14 @@
+{
+  "internalId": 1863232024,
+  "name": "Robe of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87131,
+    87152,
+    87173,
+    87194,
+    87257
+  ]
+}

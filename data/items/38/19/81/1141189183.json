@@ -1,0 +1,16 @@
+{
+  "internalId": 1141189183,
+  "name": "Restoration Staff of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87511,
+    87531,
+    87551,
+    87571,
+    87591,
+    87611,
+    87631
+  ]
+}

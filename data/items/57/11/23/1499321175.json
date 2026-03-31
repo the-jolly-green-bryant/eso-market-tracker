@@ -1,0 +1,10 @@
+{
+  "internalId": 1499321175,
+  "name": "Elsweyr Sconce, Candle Carved",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_sconce003.png",
+  "bindType": -1,
+  "knownIds": [
+    151742
+  ]
+}

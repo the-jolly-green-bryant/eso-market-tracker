@@ -1,0 +1,17 @@
+{
+  "internalId": 3591480356,
+  "name": "Steadfast Hero Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144650,
+    144670,
+    144690,
+    144710,
+    144730,
+    144750,
+    144770,
+    144790
+  ]
+}

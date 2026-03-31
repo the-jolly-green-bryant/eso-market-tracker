@@ -1,0 +1,10 @@
+{
+  "internalId": 2963975468,
+  "name": "Targe of Foul Story",
+  "description": "Some books are dangerous. You won this Daedric shield by cleansing the Illumination Academy of a very unusual spirit.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_shield_c.png",
+  "bindType": 2,
+  "knownIds": [
+    134699
+  ]
+}

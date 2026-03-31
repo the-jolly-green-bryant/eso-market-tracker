@@ -1,0 +1,19 @@
+{
+  "internalId": 4117056438,
+  "name": "Naga Shaman Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143171,
+    143226,
+    143261,
+    143296,
+    143331,
+    143366,
+    143401,
+    143436,
+    143471,
+    143506
+  ]
+}

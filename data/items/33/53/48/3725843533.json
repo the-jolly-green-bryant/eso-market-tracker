@@ -1,0 +1,10 @@
+{
+  "internalId": 3725843533,
+  "name": "Colovian Planter, Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_planterboxdirtcluster001.png",
+  "bindType": -1,
+  "knownIds": [
+    204716
+  ]
+}

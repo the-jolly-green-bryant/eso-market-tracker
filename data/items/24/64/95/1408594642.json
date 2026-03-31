@@ -1,0 +1,19 @@
+{
+  "internalId": 1408594642,
+  "name": "garnet ring of reduce spell cost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    393914,
+    668245,
+    572180,
+    668209,
+    744274,
+    759390,
+    426836,
+    431818,
+    791854,
+    882093
+  ]
+}

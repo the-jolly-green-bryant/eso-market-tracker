@@ -1,0 +1,12 @@
+{
+  "internalId": 2274778333,
+  "name": "Pyrebrand Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731392,
+    1735190,
+    1736538
+  ]
+}

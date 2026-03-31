@@ -1,0 +1,10 @@
+{
+  "internalId": 59564303,
+  "name": "Plant Cluster, Bounteous Cardinal Flower",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkcardinalflower003.png",
+  "bindType": -1,
+  "knownIds": [
+    145429
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 593126754,
+  "name": "Breeches of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85097,
+    85118,
+    85139,
+    85160,
+    85181,
+    85202,
+    85223,
+    85244
+  ]
+}

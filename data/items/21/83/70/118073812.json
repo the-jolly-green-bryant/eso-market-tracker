@@ -1,0 +1,13 @@
+{
+  "internalId": 118073812,
+  "name": "Auroran's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1304178,
+    1370913,
+    1451798,
+    1451803
+  ]
+}

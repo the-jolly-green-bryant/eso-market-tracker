@@ -1,0 +1,10 @@
+{
+  "internalId": 932227967,
+  "name": "Colovian Jewelry Box, Noble",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_smallboxes005.png",
+  "bindType": -1,
+  "knownIds": [
+    204669
+  ]
+}

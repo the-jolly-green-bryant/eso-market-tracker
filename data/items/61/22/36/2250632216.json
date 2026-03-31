@@ -1,0 +1,15 @@
+{
+  "internalId": 2250632216,
+  "name": "Restoration Staff of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88584,
+    88604,
+    88624,
+    88644,
+    88664,
+    88684
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4192641851,
+  "name": "Rede",
+  "description": "Rede",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_038.png",
+  "bindType": -1,
+  "knownIds": [
+    45829
+  ]
+}

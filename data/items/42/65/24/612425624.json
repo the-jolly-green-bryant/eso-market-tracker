@@ -1,0 +1,19 @@
+{
+  "internalId": 612425624,
+  "name": "Ice Staff of the Pestilent Host",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1394174,
+    1404129,
+    1499826,
+    1545978,
+    1563038,
+    1588026,
+    1615391,
+    1636613,
+    1650547,
+    1697662
+  ]
+}

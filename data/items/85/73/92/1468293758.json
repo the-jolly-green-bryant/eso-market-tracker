@@ -1,0 +1,19 @@
+{
+  "internalId": 1468293758,
+  "name": "Seeker Synthesis Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195358,
+    195360,
+    195362,
+    195364,
+    195366,
+    195368,
+    195370,
+    195372,
+    195374,
+    195376
+  ]
+}

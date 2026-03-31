@@ -1,0 +1,17 @@
+{
+  "internalId": 1006563692,
+  "name": "Ravaging Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89454,
+    89474,
+    89494,
+    89514,
+    89534,
+    89554,
+    89574,
+    89594
+  ]
+}

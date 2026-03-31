@@ -1,0 +1,10 @@
+{
+  "internalId": 1928877866,
+  "name": "Dawnwood Vase, Leather",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bospitcher001.png",
+  "bindType": -1,
+  "knownIds": [
+    211389
+  ]
+}

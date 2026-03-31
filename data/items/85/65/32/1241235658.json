@@ -1,0 +1,19 @@
+{
+  "internalId": 1241235658,
+  "name": "Bow of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75743,
+    75778,
+    75813,
+    75848,
+    75883,
+    75918,
+    75953,
+    75988,
+    76023,
+    76058
+  ]
+}

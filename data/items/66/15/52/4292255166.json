@@ -1,0 +1,10 @@
+{
+  "internalId": 4292255166,
+  "name": "Rough Hatchet, Practical",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_axesmll001.png",
+  "bindType": -1,
+  "knownIds": [
+    117940
+  ]
+}

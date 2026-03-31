@@ -1,0 +1,10 @@
+{
+  "internalId": 1361729900,
+  "name": "Orcish Mirror, Peaked",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgmirror001.png",
+  "bindType": -1,
+  "knownIds": [
+    116471
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 234939581,
+  "name": "Sword of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101146,
+    101166,
+    101186,
+    101206,
+    101226,
+    101246,
+    101266,
+    101286
+  ]
+}

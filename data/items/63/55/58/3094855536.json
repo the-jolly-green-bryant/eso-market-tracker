@@ -1,0 +1,17 @@
+{
+  "internalId": 3094855536,
+  "name": "Afflicted Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89263,
+    89283,
+    89303,
+    89323,
+    89343,
+    89363,
+    89383,
+    89403
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1485917808,
+  "name": "Curse-Eating Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90839,
+    90860,
+    90881,
+    90902,
+    90923,
+    90944,
+    90965
+  ]
+}

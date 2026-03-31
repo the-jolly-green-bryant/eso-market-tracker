@@ -1,0 +1,10 @@
+{
+  "internalId": 1665364681,
+  "name": "Ancient Nord Runestone, Memorial",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_cem_housingstandingstone001.png",
+  "bindType": -1,
+  "knownIds": [
+    134862
+  ]
+}

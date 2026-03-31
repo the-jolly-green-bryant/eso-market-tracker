@@ -1,0 +1,10 @@
+{
+  "internalId": 131253678,
+  "name": "Tree, Petrified Ashen",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_coldharbor004.png",
+  "bindType": -1,
+  "knownIds": [
+    130279
+  ]
+}

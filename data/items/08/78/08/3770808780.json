@@ -1,0 +1,12 @@
+{
+  "internalId": 3770808780,
+  "name": "Justal's Falcon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
+  "bindType": -1,
+  "knownIds": [
+    484523,
+    734823,
+    805675
+  ]
+}

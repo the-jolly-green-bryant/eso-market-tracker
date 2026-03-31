@@ -1,0 +1,10 @@
+{
+  "internalId": 3931478636,
+  "name": "Sapling, Violet Branched Summertide",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_wildbougainvilleapurple001.png",
+  "bindType": -1,
+  "knownIds": [
+    220360
+  ]
+}

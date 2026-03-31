@@ -1,0 +1,19 @@
+{
+  "internalId": 3305942130,
+  "name": "Sload's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136076,
+    136111,
+    136146,
+    136181,
+    136216,
+    136251,
+    136286,
+    136321,
+    136356,
+    136391
+  ]
+}

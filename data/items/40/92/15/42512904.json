@@ -1,0 +1,19 @@
+{
+  "internalId": 42512904,
+  "name": "Guards of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185183,
+    185238,
+    185273,
+    185308,
+    185343,
+    185378,
+    185413,
+    185448,
+    185483,
+    185518
+  ]
+}

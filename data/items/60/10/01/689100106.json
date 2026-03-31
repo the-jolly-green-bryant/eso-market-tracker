@@ -1,0 +1,20 @@
+{
+  "internalId": 689100106,
+  "name": "Yandir's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1379370,
+    1403513,
+    1409539,
+    1413749,
+    1420450,
+    1509892,
+    1536950,
+    1614931,
+    1615743,
+    1635844,
+    1724220
+  ]
+}

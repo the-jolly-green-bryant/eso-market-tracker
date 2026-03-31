@@ -1,0 +1,15 @@
+{
+  "internalId": 2069287391,
+  "name": "Sword of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93179,
+    93199,
+    93219,
+    93239,
+    93259,
+    93299
+  ]
+}

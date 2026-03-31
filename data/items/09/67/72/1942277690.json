@@ -1,0 +1,17 @@
+{
+  "internalId": 1942277690,
+  "name": "Ravaging Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89450,
+    89470,
+    89490,
+    89510,
+    89530,
+    89550,
+    89570,
+    89590
+  ]
+}

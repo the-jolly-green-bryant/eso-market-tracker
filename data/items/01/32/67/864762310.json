@@ -1,0 +1,14 @@
+{
+  "internalId": 864762310,
+  "name": "ebon cuirass of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    595140,
+    644684,
+    686244,
+    733718,
+    1065587
+  ]
+}

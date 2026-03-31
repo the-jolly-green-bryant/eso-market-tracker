@@ -1,0 +1,11 @@
+{
+  "internalId": 4096773102,
+  "name": "Heroic Unity Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748621,
+    1751710
+  ]
+}

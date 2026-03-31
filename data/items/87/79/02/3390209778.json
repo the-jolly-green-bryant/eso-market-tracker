@@ -1,0 +1,10 @@
+{
+  "internalId": 3390209778,
+  "name": "Skyrim Beehive, Thatch",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_exc_beehive002.png",
+  "bindType": -1,
+  "knownIds": [
+    210883
+  ]
+}

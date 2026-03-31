@@ -1,0 +1,10 @@
+{
+  "internalId": 560000115,
+  "name": "Runebox: Daggerfall Covenant Banner Emote",
+  "description": "Contains a Daggerfall Covenant Banner Emote. This container can be traded, mailed, and posted to Guild Banks and Guild Stores - however, once opened, the Runebox (and its contents) are bound to your account.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    151932
+  ]
+}

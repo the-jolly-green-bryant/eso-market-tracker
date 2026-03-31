@@ -1,0 +1,10 @@
+{
+  "internalId": 2729688175,
+  "name": "Mundus Stone - the Thief",
+  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Thief.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ability_mundusstones_003.png",
+  "bindType": 3,
+  "knownIds": [
+    211323
+  ]
+}

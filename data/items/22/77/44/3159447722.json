@@ -1,0 +1,10 @@
+{
+  "internalId": 3159447722,
+  "name": "Stygian Marwoleath's Torment",
+  "description": "A ring awarded for defeating the powerful harvester, Marwoleath, in the cave known as the Wailing Maw.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    34527
+  ]
+}

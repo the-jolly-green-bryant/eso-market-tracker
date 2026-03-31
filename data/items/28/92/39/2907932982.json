@@ -1,0 +1,19 @@
+{
+  "internalId": 2907932982,
+  "name": "Epaulets of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71808,
+    71843,
+    71878,
+    71913,
+    71948,
+    71983,
+    72018,
+    72053,
+    72088,
+    72123
+  ]
+}

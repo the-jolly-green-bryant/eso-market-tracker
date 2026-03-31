@@ -1,0 +1,19 @@
+{
+  "internalId": 1923450893,
+  "name": "Sabatons of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75750,
+    75785,
+    75820,
+    75855,
+    75890,
+    75925,
+    75960,
+    75995,
+    76030,
+    76065
+  ]
+}

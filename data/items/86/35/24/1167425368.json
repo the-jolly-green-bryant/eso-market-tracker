@@ -1,0 +1,19 @@
+{
+  "internalId": 1167425368,
+  "name": "Shield of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70657,
+    70692,
+    70727,
+    70762,
+    70797,
+    70832,
+    70867,
+    70902,
+    70937,
+    70972
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 6980672,
+  "name": "Painting of Summerset Coast, Refined",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwood005.png",
+  "bindType": -1,
+  "knownIds": [
+    139073
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 998502238,
+  "name": "Ebon Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecallerbg_mace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    212259,
+    212261,
+    212281,
+    212289,
+    212324,
+    212331,
+    212338,
+    212339,
+    212346,
+    212347
+  ]
+}

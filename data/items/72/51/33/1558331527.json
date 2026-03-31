@@ -1,0 +1,10 @@
+{
+  "internalId": 1558331527,
+  "name": "Alinor Statue, Orator",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_statueb001.png",
+  "bindType": -1,
+  "knownIds": [
+    139325
+  ]
+}

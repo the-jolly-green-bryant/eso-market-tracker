@@ -1,0 +1,19 @@
+{
+  "internalId": 2118441661,
+  "name": "Maul of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75740,
+    75775,
+    75810,
+    75845,
+    75880,
+    75915,
+    75950,
+    75985,
+    76020,
+    76055
+  ]
+}

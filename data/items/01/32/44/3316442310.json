@@ -1,0 +1,17 @@
+{
+  "internalId": 3316442310,
+  "name": "Crafty Alfiq's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149253,
+    149274,
+    149295,
+    149316,
+    149337,
+    149358,
+    149379,
+    149400
+  ]
+}

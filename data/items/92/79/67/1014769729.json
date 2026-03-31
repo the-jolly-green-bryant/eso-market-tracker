@@ -1,0 +1,10 @@
+{
+  "internalId": 1014769729,
+  "name": "Crafting Motif 45: Mazzatun Swords",
+  "description": "Use to learn how to make Mazzatun Swords. Also teaches the equivalent Mazzatun Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    114965
+  ]
+}

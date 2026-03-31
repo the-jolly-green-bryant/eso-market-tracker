@@ -1,0 +1,17 @@
+{
+  "internalId": 3621368284,
+  "name": "Restoration Staff of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194201,
+    194221,
+    194241,
+    194261,
+    194281,
+    194301,
+    194321,
+    194341
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2473733449,
+  "name": "Plant, Scarlet Fleshfrond",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mphspikey003.png",
+  "bindType": -1,
+  "knownIds": [
+    139149
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 404501836,
+  "name": "Heroic Unity Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1749919,
+    1754430,
+    1754509,
+    1762324
+  ]
+}

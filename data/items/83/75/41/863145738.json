@@ -1,0 +1,14 @@
+{
+  "internalId": 863145738,
+  "name": "Grave-Stake Collector Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143009,
+    143044,
+    143079,
+    143114,
+    143149
+  ]
+}

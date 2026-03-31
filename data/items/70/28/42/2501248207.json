@@ -1,0 +1,10 @@
+{
+  "internalId": 2501248207,
+  "name": "Leyawiin Trousers, Strewn",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyflatdrapedpants001.png",
+  "bindType": -1,
+  "knownIds": [
+    175721
+  ]
+}

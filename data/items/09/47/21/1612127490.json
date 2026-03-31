@@ -1,0 +1,10 @@
+{
+  "internalId": 1612127490,
+  "name": "Great Blade of Thizzrini",
+  "description": "This sword bears the sigil of Thizzrini Arena, cleverly worked into it as a maker's mark.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54360
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1638823261,
+  "name": "Robe of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87385,
+    87448
+  ]
+}

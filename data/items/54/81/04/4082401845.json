@@ -1,0 +1,17 @@
+{
+  "internalId": 4082401845,
+  "name": "Girdle of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194209,
+    194229,
+    194249,
+    194269,
+    194289,
+    194309,
+    194329,
+    194349
+  ]
+}

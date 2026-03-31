@@ -1,0 +1,10 @@
+{
+  "internalId": 2945141074,
+  "name": "Matriarch Boots of Cyrodiil's Ward",
+  "description": "The pads on these boots grant improved traction on almost any surface.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45737
+  ]
+}

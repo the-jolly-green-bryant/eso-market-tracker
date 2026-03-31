@@ -1,0 +1,17 @@
+{
+  "internalId": 1938822549,
+  "name": "Bow of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89086,
+    89106,
+    89126,
+    89146,
+    89166,
+    89186,
+    89206,
+    89226
+  ]
+}

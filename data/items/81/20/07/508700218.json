@@ -1,0 +1,10 @@
+{
+  "internalId": 508700218,
+  "name": "Ra Gada Statue, Seated Lion Ibis",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varstatues001.png",
+  "bindType": -1,
+  "knownIds": [
+    156646
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3969869498,
+  "name": "Cuirass of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98524,
+    98544,
+    98564,
+    98584,
+    98604,
+    98624,
+    98644,
+    98664
+  ]
+}

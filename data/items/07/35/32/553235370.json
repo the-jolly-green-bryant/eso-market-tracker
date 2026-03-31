@@ -1,0 +1,17 @@
+{
+  "internalId": 553235370,
+  "name": "Alessian Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87989,
+    88009,
+    88029,
+    88049,
+    88069,
+    88089,
+    88109,
+    88129
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3788870638,
+  "name": "Liquid Silver",
+  "description": "A vial of heavy, viscous silver, cool to the touch and moving like a thing alive. Donate this to Curator Umutha and the House of Orsimer Glories in Orsinium.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_potion_003.png",
+  "bindType": 3,
+  "knownIds": [
+    64590
+  ]
+}

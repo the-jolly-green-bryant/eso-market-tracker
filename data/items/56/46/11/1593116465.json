@@ -1,0 +1,18 @@
+{
+  "internalId": 1593116465,
+  "name": "Galenwe's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_axe_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1288422,
+    1383396,
+    1384180,
+    1514895,
+    1515031,
+    1541564,
+    1558440,
+    1570988,
+    1640139
+  ]
+}

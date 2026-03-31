@@ -1,0 +1,10 @@
+{
+  "internalId": 3842001521,
+  "name": "Flowers, Lava Blooms",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdspikeyred001.png",
+  "bindType": -1,
+  "knownIds": [
+    125550
+  ]
+}

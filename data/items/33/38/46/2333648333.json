@@ -1,0 +1,12 @@
+{
+  "internalId": 2333648333,
+  "name": "Dauntless Combatant's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159354,
+    159389,
+    159424
+  ]
+}

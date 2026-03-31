@@ -1,0 +1,17 @@
+{
+  "internalId": 220182375,
+  "name": "full-leather bracers of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    758059,
+    544079,
+    663729,
+    686578,
+    544905,
+    431451,
+    436258,
+    791343
+  ]
+}

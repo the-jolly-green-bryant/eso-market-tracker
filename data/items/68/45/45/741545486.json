@@ -1,0 +1,17 @@
+{
+  "internalId": 741545486,
+  "name": "Cuirass of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101712,
+    101732,
+    101752,
+    101772,
+    101792,
+    101812,
+    101832,
+    101852
+  ]
+}

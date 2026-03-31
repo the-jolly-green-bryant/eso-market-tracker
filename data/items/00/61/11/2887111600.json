@@ -1,0 +1,10 @@
+{
+  "internalId": 2887111600,
+  "name": "Auric Tusk",
+  "description": "An ingredient for crafting in the Trinimac style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_trinimac.png",
+  "bindType": -1,
+  "knownIds": [
+    71582
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1771469481,
+  "name": "Soldier of Anguish Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144478,
+    144498,
+    144518,
+    144538,
+    144558,
+    144578,
+    144598,
+    144618
+  ]
+}

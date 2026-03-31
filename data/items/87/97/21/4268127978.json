@@ -1,0 +1,10 @@
+{
+  "internalId": 4268127978,
+  "name": "Covenant's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_bow_b.png",
+  "bindType": 2,
+  "knownIds": [
+    59727
+  ]
+}

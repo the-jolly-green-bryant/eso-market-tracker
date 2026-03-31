@@ -1,0 +1,17 @@
+{
+  "internalId": 786655845,
+  "name": "Maul of the Onslaught",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90613,
+    90634,
+    90655,
+    90676,
+    90697,
+    90718,
+    90739,
+    90760
+  ]
+}

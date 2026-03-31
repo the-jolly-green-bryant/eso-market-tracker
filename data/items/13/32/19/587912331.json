@@ -1,0 +1,19 @@
+{
+  "internalId": 587912331,
+  "name": "Shield of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59980,
+    60015,
+    60050,
+    60085,
+    60120,
+    60155,
+    60190,
+    60225,
+    60260,
+    60295
+  ]
+}

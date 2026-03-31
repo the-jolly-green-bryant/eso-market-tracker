@@ -1,0 +1,10 @@
+{
+  "internalId": 4108037967,
+  "name": "Deadlands Torture Rack",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedtorturerack002.png",
+  "bindType": -1,
+  "knownIds": [
+    181502
+  ]
+}

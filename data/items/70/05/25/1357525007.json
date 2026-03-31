@@ -1,0 +1,17 @@
+{
+  "internalId": 1357525007,
+  "name": "Dagger of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80555,
+    80575,
+    80595,
+    80615,
+    80635,
+    80647,
+    80667,
+    80687
+  ]
+}

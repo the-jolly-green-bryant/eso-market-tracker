@@ -1,0 +1,19 @@
+{
+  "internalId": 3103159688,
+  "name": "Deadlands Demolisher's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179216,
+    179218,
+    179220,
+    179222,
+    179224,
+    179226,
+    179228,
+    179230,
+    179232,
+    179234
+  ]
+}

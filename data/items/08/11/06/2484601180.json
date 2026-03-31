@@ -1,0 +1,20 @@
+{
+  "internalId": 2484601180,
+  "name": "Blood Moon Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1267521,
+    1270611,
+    1288947,
+    1403136,
+    1410102,
+    1481674,
+    1516468,
+    1525407,
+    1528299,
+    1528536,
+    1692627
+  ]
+}

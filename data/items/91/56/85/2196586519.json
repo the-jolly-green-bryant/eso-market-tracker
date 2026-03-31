@@ -1,0 +1,10 @@
+{
+  "internalId": 2196586519,
+  "name": "Pommel of Rahni'Za",
+  "description": "A broken blade meant to represent the spirit of Rahni'Za",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": -1,
+  "knownIds": [
+    81233
+  ]
+}

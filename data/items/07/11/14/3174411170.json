@@ -1,0 +1,10 @@
+{
+  "internalId": 3174411170,
+  "name": "Daggerfall Guard Captain's Whistle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_whistle_001.png",
+  "bindType": -1,
+  "knownIds": [
+    864701
+  ]
+}

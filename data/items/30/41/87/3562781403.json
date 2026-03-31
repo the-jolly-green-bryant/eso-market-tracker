@@ -1,0 +1,23 @@
+{
+  "internalId": 3562781403,
+  "name": "Stonekeeper's Mask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedstonekeeper_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1304614,
+    1307686,
+    1311538,
+    1331616,
+    1342901,
+    1347514,
+    1448886,
+    1451907,
+    1505061,
+    1505501,
+    1521971,
+    1546688,
+    1554051,
+    1620444
+  ]
+}

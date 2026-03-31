@@ -1,0 +1,17 @@
+{
+  "internalId": 1709731209,
+  "name": "Restoration Staff of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100033,
+    100054,
+    100075,
+    100096,
+    100117,
+    100138,
+    100159,
+    100180
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1595519116,
+  "name": "Stump, Old Maple",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_maplestump002.png",
+  "bindType": -1,
+  "knownIds": [
+    204771
+  ]
+}

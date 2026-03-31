@@ -1,0 +1,17 @@
+{
+  "internalId": 4035460862,
+  "name": "Alessian Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87991,
+    88011,
+    88031,
+    88051,
+    88071,
+    88091,
+    88111,
+    88131
+  ]
+}

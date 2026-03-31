@@ -1,0 +1,10 @@
+{
+  "internalId": 956296168,
+  "name": "Elsweyr Sconce, Candle Elegant",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_sconce001.png",
+  "bindType": -1,
+  "knownIds": [
+    151740
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 99620345,
+  "name": "Twilight Cantor Hymnal",
+  "description": "A silk-bound booklet of contemporary poetry and songs to be cherished by an old soul. This gift for Zerith-var is more appreciated when used during Hearts Week.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_zerith.png",
+  "bindType": -1,
+  "knownIds": [
+    220375
+  ]
+}

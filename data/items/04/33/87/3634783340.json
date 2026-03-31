@@ -1,0 +1,10 @@
+{
+  "internalId": 3634783340,
+  "name": "Vampire's Kiss Heavy Armor",
+  "description": "A Crafted Armor set constructed in Malabal Tor, Alik'r Desert, and Eastmarch.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182440
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 611353463,
+  "name": "Shornhelm Guard Sollerets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    502031,
+    540746,
+    615347
+  ]
+}

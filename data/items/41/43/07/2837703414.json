@@ -1,0 +1,10 @@
+{
+  "internalId": 2837703414,
+  "name": "Fell Hide Scraps",
+  "description": "Ten of these items can be refined to make fell hide.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_topgrain_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    23097
+  ]
+}

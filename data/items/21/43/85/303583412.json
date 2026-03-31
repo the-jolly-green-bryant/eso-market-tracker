@@ -1,0 +1,17 @@
+{
+  "internalId": 303583412,
+  "name": "Smuggler's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100956,
+    100977,
+    100998,
+    101019,
+    101040,
+    101061,
+    101082,
+    101103
+  ]
+}

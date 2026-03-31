@@ -1,0 +1,10 @@
+{
+  "internalId": 2465794262,
+  "name": "Fragment of the Maw",
+  "description": "Consume Fragment of the Maw, along with fragments of the Weald, the Fate-Eater, the Blind, the Storm, and Aggression, to unlock the Skill Stylist: Force Shock achievement and the Force Shock, Wildburn Skill Style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_gem_purple.png",
+  "bindType": 3,
+  "knownIds": [
+    211319
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 802634990,
+  "name": "Icewalker's Boots",
+  "description": "Magreta provided this footwear for bringing her news concerning her partner, Nelfthea.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159719
+  ]
+}

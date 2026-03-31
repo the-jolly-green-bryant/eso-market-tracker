@@ -1,0 +1,10 @@
+{
+  "internalId": 2555954180,
+  "name": "Hlaalu Wall Post, Sillar Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_waf_hlawallssmallpost001.png",
+  "bindType": -1,
+  "knownIds": [
+    125577
+  ]
+}

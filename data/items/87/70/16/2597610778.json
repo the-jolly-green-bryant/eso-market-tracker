@@ -1,0 +1,17 @@
+{
+  "internalId": 2597610778,
+  "name": "Enervating Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183594,
+    183614,
+    183634,
+    183654,
+    183674,
+    183694,
+    183714,
+    183734
+  ]
+}

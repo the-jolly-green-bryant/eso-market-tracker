@@ -1,0 +1,17 @@
+{
+  "internalId": 4142704792,
+  "name": "Axe of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98147,
+    98167,
+    98187,
+    98207,
+    98227,
+    98247,
+    98267,
+    98287
+  ]
+}

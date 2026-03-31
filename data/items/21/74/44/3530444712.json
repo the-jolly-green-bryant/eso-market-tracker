@@ -1,0 +1,10 @@
+{
+  "internalId": 3530444712,
+  "name": "Coral Spire, Sturdy",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_coral003.png",
+  "bindType": -1,
+  "knownIds": [
+    139327
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 38095787,
+  "name": "Barkskin Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92461,
+    92481,
+    92501,
+    92521,
+    92541,
+    92561,
+    92581,
+    92601
+  ]
+}

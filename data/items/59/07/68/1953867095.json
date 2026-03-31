@@ -1,0 +1,10 @@
+{
+  "internalId": 1953867095,
+  "name": "Daedric Chain, Segment",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_duc_shacklechain001.png",
+  "bindType": -1,
+  "knownIds": [
+    130067
+  ]
+}

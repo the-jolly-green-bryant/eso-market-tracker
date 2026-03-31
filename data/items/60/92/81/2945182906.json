@@ -1,0 +1,10 @@
+{
+  "internalId": 2945182906,
+  "name": "Apocrypha Specimen Jar, Nascent Creatia",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjardaedrababy002.png",
+  "bindType": -1,
+  "knownIds": [
+    198384
+  ]
+}

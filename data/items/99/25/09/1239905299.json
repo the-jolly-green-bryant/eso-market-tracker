@@ -1,0 +1,17 @@
+{
+  "internalId": 1239905299,
+  "name": "Maul of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93909,
+    93929,
+    93949,
+    93969,
+    93989,
+    94009,
+    94029,
+    94049
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1988197946,
+  "name": "Axe of the Worm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77738,
+    77774,
+    77810,
+    77846
+  ]
+}

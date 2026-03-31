@@ -1,0 +1,19 @@
+{
+  "internalId": 3821234041,
+  "name": "Tide-Born Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215493,
+    215548,
+    215583,
+    215618,
+    215653,
+    215688,
+    215723,
+    215758,
+    215793,
+    215828
+  ]
+}

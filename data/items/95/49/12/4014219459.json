@@ -1,0 +1,10 @@
+{
+  "internalId": 4014219459,
+  "name": "Elsweyr Bookshelf, Elegant Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_medbookcase001.png",
+  "bindType": -1,
+  "knownIds": [
+    151698
+  ]
+}

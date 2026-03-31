@@ -1,0 +1,20 @@
+{
+  "internalId": 2011521003,
+  "name": "Sword of the Scathing Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialerialdaedric_1hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1262342,
+    1303202,
+    1341263,
+    1378432,
+    1413489,
+    1533407,
+    1559484,
+    1562190,
+    1620227,
+    1649072,
+    1774049
+  ]
+}

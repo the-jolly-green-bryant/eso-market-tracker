@@ -1,0 +1,17 @@
+{
+  "internalId": 785913147,
+  "name": "Shield of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99479,
+    99499,
+    99519,
+    99539,
+    99559,
+    99579,
+    99599,
+    99619
+  ]
+}

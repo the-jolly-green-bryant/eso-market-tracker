@@ -1,0 +1,17 @@
+{
+  "internalId": 2233757069,
+  "name": "Plague Doctor's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97048,
+    97068,
+    97088,
+    97108,
+    97128,
+    97148,
+    97168,
+    97188
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2838935683,
+  "name": "Steadfast Hero Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144668,
+    144688,
+    144708,
+    144728,
+    144748,
+    144768,
+    144788,
+    144808
+  ]
+}

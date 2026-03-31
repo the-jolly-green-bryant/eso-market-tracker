@@ -1,0 +1,19 @@
+{
+  "internalId": 3331214681,
+  "name": "Gauntlets of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60660,
+    60695,
+    60730,
+    60765,
+    60800,
+    60835,
+    60870,
+    60905,
+    60940,
+    60975
+  ]
+}

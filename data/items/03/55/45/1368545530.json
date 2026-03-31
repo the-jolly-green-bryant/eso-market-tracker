@@ -1,0 +1,10 @@
+{
+  "internalId": 1368545530,
+  "name": "Mosaic Skill Shred",
+  "description": "Consume Mosaic Skill Shreds to unlock the Skill Stylist achievements that award Skill Styles for Grand Healing, Dawnbreaker, and Meteor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_echaterewool_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    207970
+  ]
+}

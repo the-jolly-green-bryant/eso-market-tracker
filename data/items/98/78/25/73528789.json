@@ -1,0 +1,18 @@
+{
+  "internalId": 73528789,
+  "name": "Gloves of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97234,
+    97255,
+    97276,
+    97297,
+    97318,
+    97339,
+    97360,
+    97381,
+    97402
+  ]
+}

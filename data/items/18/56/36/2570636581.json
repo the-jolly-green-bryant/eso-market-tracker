@@ -1,0 +1,10 @@
+{
+  "internalId": 2570636581,
+  "name": "Helm of Akatosh's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    44092
+  ]
+}

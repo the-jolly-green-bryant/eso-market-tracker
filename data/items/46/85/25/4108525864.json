@@ -1,0 +1,17 @@
+{
+  "internalId": 4108525864,
+  "name": "Old Growth Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191704,
+    191739,
+    191774,
+    191809,
+    191844,
+    191879,
+    191914,
+    191949
+  ]
+}

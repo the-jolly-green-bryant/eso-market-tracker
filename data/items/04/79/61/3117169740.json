@@ -1,0 +1,10 @@
+{
+  "internalId": 3117169740,
+  "name": "Rigurt's Spare Shirt",
+  "description": "This garment is well-tailored, but Rigurt really needs to learn that washing one's clothes isn't optional.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    150408
+  ]
+}

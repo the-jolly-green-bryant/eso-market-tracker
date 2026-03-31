@@ -1,0 +1,10 @@
+{
+  "internalId": 1311661238,
+  "name": "Petty Repair Kit",
+  "description": "Repairs items of any level, but is less effective on items over Level 9.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    44874
+  ]
+}

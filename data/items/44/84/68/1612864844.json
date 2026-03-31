@@ -1,0 +1,13 @@
+{
+  "internalId": 1612864844,
+  "name": "Briarheart Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129702,
+    129714,
+    129726,
+    129738
+  ]
+}

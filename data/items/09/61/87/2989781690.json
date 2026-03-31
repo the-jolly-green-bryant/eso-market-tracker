@@ -1,0 +1,11 @@
+{
+  "internalId": 2989781690,
+  "name": "Bound Focus Script: Flame Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_flame.png",
+  "bindType": -1,
+  "knownIds": [
+    1719536,
+    1720367
+  ]
+}

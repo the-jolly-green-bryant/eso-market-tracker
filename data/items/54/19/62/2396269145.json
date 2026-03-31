@@ -1,0 +1,10 @@
+{
+  "internalId": 2396269145,
+  "name": "Footstool, Block",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_choppingblock001.png",
+  "bindType": -1,
+  "knownIds": [
+    118013
+  ]
+}

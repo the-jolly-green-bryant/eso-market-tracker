@@ -1,0 +1,10 @@
+{
+  "internalId": 320241271,
+  "name": "Crafting Motif 85: Greymoor Gloves",
+  "description": "Use to learn how to make Greymoor Gloves. Also teaches the equivalent Greymoor Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    160549
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1969029490,
+  "name": "Druid's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185542,
+    185597,
+    185632,
+    185667,
+    185702,
+    185737,
+    185772,
+    185807,
+    185842,
+    185877
+  ]
+}

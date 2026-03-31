@@ -1,0 +1,17 @@
+{
+  "internalId": 534436852,
+  "name": "Lightning Staff of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114663,
+    114683,
+    114703,
+    114723,
+    114743,
+    114763,
+    114783,
+    114803
+  ]
+}

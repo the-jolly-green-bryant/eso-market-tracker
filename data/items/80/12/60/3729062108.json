@@ -1,0 +1,17 @@
+{
+  "internalId": 3729062108,
+  "name": "Mace of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91374,
+    91395,
+    91416,
+    91437,
+    91458,
+    91479,
+    91500,
+    91521
+  ]
+}

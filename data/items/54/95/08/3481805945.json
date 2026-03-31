@@ -1,0 +1,19 @@
+{
+  "internalId": 3481805945,
+  "name": "Ancient Dragonguard's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155801,
+    155856,
+    155891,
+    155926,
+    155961,
+    155996,
+    156031,
+    156066,
+    156101,
+    156136
+  ]
+}

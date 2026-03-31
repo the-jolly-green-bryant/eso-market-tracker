@@ -1,0 +1,10 @@
+{
+  "internalId": 4104162509,
+  "name": "Clockwork Alchemy Rack, Tubes",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_alchemyset001.png",
+  "bindType": -1,
+  "knownIds": [
+    134438
+  ]
+}

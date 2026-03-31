@@ -1,0 +1,10 @@
+{
+  "internalId": 3864352113,
+  "name": "Necrom Candle, Tall",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_neccandle006.png",
+  "bindType": -1,
+  "knownIds": [
+    198458
+  ]
+}

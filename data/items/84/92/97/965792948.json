@@ -1,0 +1,10 @@
+{
+  "internalId": 965792948,
+  "name": "Aldmeri Nautical Waystone",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_nauticalwaystone.png",
+  "bindType": -1,
+  "knownIds": [
+    1082027
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 543932043,
+  "name": "Reactive Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117279,
+    117299,
+    117319,
+    117339,
+    117359,
+    117379,
+    117399,
+    117419
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1762599641,
+  "name": "Plant, Dendritic Hist Bulb",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mrkhistleafy002.png",
+  "bindType": -1,
+  "knownIds": [
+    145455
+  ]
+}

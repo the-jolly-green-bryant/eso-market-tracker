@@ -1,0 +1,10 @@
+{
+  "internalId": 4226942381,
+  "name": "Elsweyr Meal, Root Vegetables",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_bowlwithfood002.png",
+  "bindType": -1,
+  "knownIds": [
+    151638
+  ]
+}

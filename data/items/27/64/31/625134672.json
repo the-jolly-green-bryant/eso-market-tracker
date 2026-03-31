@@ -1,0 +1,19 @@
+{
+  "internalId": 625134672,
+  "name": "Assassin's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121579,
+    121614,
+    121649,
+    121684,
+    121719,
+    121754,
+    121789,
+    121824,
+    121859,
+    121894
+  ]
+}

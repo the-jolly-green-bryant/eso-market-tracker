@@ -1,0 +1,22 @@
+{
+  "internalId": 3842809745,
+  "name": "inferior glyph of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_fireessence.png",
+  "bindType": -1,
+  "knownIds": [
+    530139,
+    389905,
+    590054,
+    629365,
+    546546,
+    731995,
+    591968,
+    412634,
+    786235,
+    1442592,
+    1619561,
+    1681577,
+    1706815
+  ]
+}

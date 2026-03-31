@@ -1,0 +1,10 @@
+{
+  "internalId": 376166355,
+  "name": "Druidic Wall Stone, Flame",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_drustoneplaque003.png",
+  "bindType": -1,
+  "knownIds": [
+    191192
+  ]
+}

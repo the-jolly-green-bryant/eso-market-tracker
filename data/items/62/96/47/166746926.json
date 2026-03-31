@@ -1,0 +1,10 @@
+{
+  "internalId": 166746926,
+  "name": "Wedding Blossoms, Peach",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_grahtwoodflower004.png",
+  "bindType": -1,
+  "knownIds": [
+    120799
+  ]
+}

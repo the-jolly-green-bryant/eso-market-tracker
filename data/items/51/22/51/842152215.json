@@ -1,0 +1,10 @@
+{
+  "internalId": 842152215,
+  "name": "Elsweyr Pot, Waves",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_smallpot001.png",
+  "bindType": -1,
+  "knownIds": [
+    151655
+  ]
+}

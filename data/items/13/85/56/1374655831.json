@@ -1,0 +1,19 @@
+{
+  "internalId": 1374655831,
+  "name": "Chimera's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191232,
+    191287,
+    191322,
+    191357,
+    191392,
+    191427,
+    191462,
+    191497,
+    191532,
+    191567
+  ]
+}

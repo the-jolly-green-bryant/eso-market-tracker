@@ -1,0 +1,17 @@
+{
+  "internalId": 3858699738,
+  "name": "Belt of Salvation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85472,
+    85492,
+    85512,
+    85532,
+    85552,
+    85572,
+    85592,
+    85612
+  ]
+}

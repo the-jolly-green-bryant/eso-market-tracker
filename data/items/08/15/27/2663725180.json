@@ -1,0 +1,10 @@
+{
+  "internalId": 2663725180,
+  "name": "Hourglass Banner, Akatosh",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhtapestryakatoshhourglasssm001.png",
+  "bindType": -1,
+  "knownIds": [
+    159451
+  ]
+}

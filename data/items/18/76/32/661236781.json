@@ -1,0 +1,10 @@
+{
+  "internalId": 661236781,
+  "name": "Coral-Smasher",
+  "description": "A rough, heavy mining tool, turned into a weapon by hostile druids on Amenos.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    188107
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4206122971,
+  "name": "Orcish Throne, Ancient",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_str_housingwtgthroneroomthrone001.png",
+  "bindType": -1,
+  "knownIds": [
+    134263
+  ]
+}

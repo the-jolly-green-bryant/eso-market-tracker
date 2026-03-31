@@ -1,0 +1,11 @@
+{
+  "internalId": 2237006240,
+  "name": "Monstrous Enamel Key",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_enamel.png",
+  "bindType": -1,
+  "knownIds": [
+    1578211,
+    1588701
+  ]
+}

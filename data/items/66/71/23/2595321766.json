@@ -1,0 +1,16 @@
+{
+  "internalId": 2595321766,
+  "name": "Arkasis's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1412866,
+    1522986,
+    1531521,
+    1562003,
+    1573846,
+    1604964,
+    1755815
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3034184890,
+  "name": "Perfectly Balanced Gyro",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dwemer_shiny_gear.png",
+  "bindType": -1,
+  "knownIds": [
+    806042,
+    664052,
+    883593,
+    933918,
+    1071748,
+    1223514,
+    1234174,
+    1257067,
+    1266741,
+    1323718
+  ]
+}

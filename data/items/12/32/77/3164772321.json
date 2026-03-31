@@ -1,0 +1,19 @@
+{
+  "internalId": 3164772321,
+  "name": "Breeches of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161619,
+    161674,
+    161709,
+    161744,
+    161779,
+    161814,
+    161849,
+    161884,
+    161919,
+    161954
+  ]
+}

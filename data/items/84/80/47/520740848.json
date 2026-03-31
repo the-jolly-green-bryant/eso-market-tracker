@@ -1,0 +1,10 @@
+{
+  "internalId": 520740848,
+  "name": "Flowers, Galen Sea Daffodil",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_seadaffodil011.png",
+  "bindType": -1,
+  "knownIds": [
+    192399
+  ]
+}

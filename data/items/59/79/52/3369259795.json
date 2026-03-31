@@ -1,0 +1,11 @@
+{
+  "internalId": 3369259795,
+  "name": "Flank Steak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_sirloin.png",
+  "bindType": -1,
+  "knownIds": [
+    37828,
+    42804
+  ]
+}

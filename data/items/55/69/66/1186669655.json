@@ -1,0 +1,10 @@
+{
+  "internalId": 1186669655,
+  "name": "Amethyst Crystals, Purple Patch",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_amethyst005.png",
+  "bindType": -1,
+  "knownIds": [
+    220347
+  ]
+}

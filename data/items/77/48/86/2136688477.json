@@ -1,0 +1,19 @@
+{
+  "internalId": 2136688477,
+  "name": "Assassin's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121583,
+    121618,
+    121653,
+    121688,
+    121723,
+    121758,
+    121793,
+    121828,
+    121863,
+    121898
+  ]
+}

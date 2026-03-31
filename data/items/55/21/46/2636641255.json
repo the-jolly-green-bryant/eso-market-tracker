@@ -1,0 +1,19 @@
+{
+  "internalId": 2636641255,
+  "name": "Deadlands Demolisher's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179205,
+    179260,
+    179295,
+    179330,
+    179365,
+    179400,
+    179435,
+    179470,
+    179505,
+    179540
+  ]
+}

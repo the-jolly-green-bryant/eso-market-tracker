@@ -1,0 +1,17 @@
+{
+  "internalId": 1623585031,
+  "name": "Bow of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92155,
+    92168,
+    92181,
+    92194,
+    92207,
+    92220,
+    92233,
+    92246
+  ]
+}

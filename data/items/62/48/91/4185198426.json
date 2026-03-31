@@ -1,0 +1,10 @@
+{
+  "internalId": 4185198426,
+  "name": "Tide-Born Basket, Shell-Topped",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argonianbasket003.png",
+  "bindType": -1,
+  "knownIds": [
+    214395
+  ]
+}

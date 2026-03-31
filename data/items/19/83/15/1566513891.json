@@ -1,0 +1,10 @@
+{
+  "internalId": 1566513891,
+  "name": "Redguard Bed, Wide Canopy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varbedcanopy001.png",
+  "bindType": -1,
+  "knownIds": [
+    117779
+  ]
+}

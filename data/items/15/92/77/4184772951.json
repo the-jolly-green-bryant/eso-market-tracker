@@ -1,0 +1,17 @@
+{
+  "internalId": 4184772951,
+  "name": "Mara's Balm Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189847,
+    189867,
+    189887,
+    189907,
+    189927,
+    189947,
+    189967,
+    189987
+  ]
+}

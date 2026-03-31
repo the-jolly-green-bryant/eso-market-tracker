@@ -1,0 +1,12 @@
+{
+  "internalId": 2239707776,
+  "name": "Bound Signature Script: Knight's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_shieldmastery.png",
+  "bindType": -1,
+  "knownIds": [
+    1719756,
+    1721172,
+    1721637
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 364505603,
+  "name": "Snake in the Stars Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    193856,
+    193877,
+    193898,
+    193919,
+    193940,
+    193961,
+    193982,
+    194003
+  ]
+}

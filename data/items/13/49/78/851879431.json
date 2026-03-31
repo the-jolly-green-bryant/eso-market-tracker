@@ -1,0 +1,19 @@
+{
+  "internalId": 851879431,
+  "name": "Vastarie's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148691,
+    148746,
+    148781,
+    148816,
+    148851,
+    148886,
+    148921,
+    148956,
+    148991,
+    149026
+  ]
+}

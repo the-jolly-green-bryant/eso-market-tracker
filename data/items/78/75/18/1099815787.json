@@ -1,0 +1,18 @@
+{
+  "internalId": 1099815787,
+  "name": "Robe of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158391,
+    158426,
+    158461,
+    158496,
+    158531,
+    158566,
+    158601,
+    158636,
+    158671
+  ]
+}

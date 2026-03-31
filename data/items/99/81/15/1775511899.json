@@ -1,0 +1,10 @@
+{
+  "internalId": 1775511899,
+  "name": "Rough Fork, Common",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_fork001.png",
+  "bindType": -1,
+  "knownIds": [
+    117944
+  ]
+}

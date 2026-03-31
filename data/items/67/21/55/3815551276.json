@@ -1,0 +1,11 @@
+{
+  "internalId": 3815551276,
+  "name": "Clarified Syrah Wine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
+  "bindType": -1,
+  "knownIds": [
+    32079,
+    28409
+  ]
+}

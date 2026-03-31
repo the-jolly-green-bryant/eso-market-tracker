@@ -1,0 +1,10 @@
+{
+  "internalId": 251446532,
+  "name": "Thousand Eyes Banner, Small Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farthousandeyesbannerhanging003.png",
+  "bindType": -1,
+  "knownIds": [
+    224092
+  ]
+}

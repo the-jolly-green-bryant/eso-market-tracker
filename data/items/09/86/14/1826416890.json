@@ -1,0 +1,10 @@
+{
+  "internalId": 1826416890,
+  "name": "Oathkeeper's Mace",
+  "description": "Carried by sworn protectors of the Fellowship, this mace symbolizes the vows made not to a place, but to the allies who march beside you.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223667
+  ]
+}

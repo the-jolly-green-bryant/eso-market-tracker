@@ -1,0 +1,10 @@
+{
+  "internalId": 2131847644,
+  "name": "Dawnwood Fork, Bone",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosfork001.png",
+  "bindType": -1,
+  "knownIds": [
+    204750
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 300191364,
+  "name": "Webs, Thick Sheet",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cav_mou_mphwebplane001.png",
+  "bindType": -1,
+  "knownIds": [
+    139157
+  ]
+}

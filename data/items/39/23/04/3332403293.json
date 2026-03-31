@@ -1,0 +1,17 @@
+{
+  "internalId": 3332403293,
+  "name": "Battle Axe of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93362,
+    93382,
+    93402,
+    93422,
+    93442,
+    93462,
+    93482,
+    93502
+  ]
+}

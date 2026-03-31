@@ -1,0 +1,18 @@
+{
+  "internalId": 359450065,
+  "name": "Shared Burden Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215173,
+    215208,
+    215243,
+    215278,
+    215313,
+    215348,
+    215383,
+    215418,
+    215453
+  ]
+}

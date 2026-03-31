@@ -1,0 +1,18 @@
+{
+  "internalId": 2245998766,
+  "name": "Shared Burden Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215174,
+    215209,
+    215244,
+    215279,
+    215314,
+    215349,
+    215384,
+    215419,
+    215454
+  ]
+}

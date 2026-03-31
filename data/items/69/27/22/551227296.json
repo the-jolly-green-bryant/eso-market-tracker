@@ -1,0 +1,22 @@
+{
+  "internalId": 551227296,
+  "name": "oak lightning staff of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    630221,
+    478209,
+    594906,
+    594824,
+    428197,
+    455941,
+    576039,
+    527688,
+    577116,
+    535142,
+    456850,
+    793554,
+    1065463
+  ]
+}

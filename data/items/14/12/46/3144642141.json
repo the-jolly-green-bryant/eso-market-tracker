@@ -1,0 +1,17 @@
+{
+  "internalId": 3144642141,
+  "name": "Adamant Lurker Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    196055,
+    196075,
+    196095,
+    196115,
+    196135,
+    196155,
+    196175,
+    196195
+  ]
+}

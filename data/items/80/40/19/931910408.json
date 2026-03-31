@@ -1,0 +1,12 @@
+{
+  "internalId": 931910408,
+  "name": "dram of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    377731,
+    723464,
+    1433237
+  ]
+}

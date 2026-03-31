@@ -1,0 +1,17 @@
+{
+  "internalId": 3169178962,
+  "name": "Gauntlets of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78956,
+    78991,
+    79026,
+    79061,
+    79096,
+    79131,
+    79166,
+    79239
+  ]
+}

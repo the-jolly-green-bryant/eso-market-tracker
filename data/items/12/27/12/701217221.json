@@ -1,0 +1,10 @@
+{
+  "internalId": 701217221,
+  "name": "Puddle, Wax",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_dlpdreughwax001.png",
+  "bindType": -1,
+  "knownIds": [
+    219741
+  ]
+}

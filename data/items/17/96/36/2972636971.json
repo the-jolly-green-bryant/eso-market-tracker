@@ -1,0 +1,17 @@
+{
+  "internalId": 2972636971,
+  "name": "Three Queens Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_sheild_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214536,
+    214557,
+    214578,
+    214599,
+    214620,
+    214641,
+    214662,
+    214683
+  ]
+}

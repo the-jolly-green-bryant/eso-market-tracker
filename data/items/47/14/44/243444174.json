@@ -1,0 +1,11 @@
+{
+  "internalId": 243444174,
+  "name": "average glyph of weapon damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_berserking.png",
+  "bindType": -1,
+  "knownIds": [
+    789421,
+    1437592
+  ]
+}

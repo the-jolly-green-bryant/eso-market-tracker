@@ -1,0 +1,10 @@
+{
+  "internalId": 3189973513,
+  "name": "Rawhide",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_medium_armor_standard_f_001.png",
+  "bindType": -1,
+  "knownIds": [
+    794
+  ]
+}

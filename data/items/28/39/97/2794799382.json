@@ -1,0 +1,10 @@
+{
+  "internalId": 2794799382,
+  "name": "A Clear Day in Colovia Painting, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_metalframepainting005.png",
+  "bindType": -1,
+  "knownIds": [
+    204807
+  ]
+}

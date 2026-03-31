@@ -1,0 +1,19 @@
+{
+  "internalId": 3109390909,
+  "name": "Sword of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58176,
+    58211,
+    58246,
+    58281,
+    58316,
+    58351,
+    58386,
+    58421,
+    58456,
+    58491
+  ]
+}

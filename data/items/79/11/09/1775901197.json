@@ -1,0 +1,10 @@
+{
+  "internalId": 1775901197,
+  "name": "Wood Elf Chair, Leather",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_chair001.png",
+  "bindType": -1,
+  "knownIds": [
+    115581
+  ]
+}

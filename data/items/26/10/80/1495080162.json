@@ -1,0 +1,11 @@
+{
+  "internalId": 1495080162,
+  "name": "Meady-Matey Infusion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wooden_flask_001.png",
+  "bindType": -1,
+  "knownIds": [
+    33708,
+    37928
+  ]
+}

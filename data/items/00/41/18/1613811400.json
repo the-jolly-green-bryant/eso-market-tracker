@@ -1,0 +1,20 @@
+{
+  "internalId": 1613811400,
+  "name": "Nahviintaas's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1341077,
+    1345651,
+    1365350,
+    1391700,
+    1393640,
+    1399201,
+    1443250,
+    1461060,
+    1504115,
+    1506321,
+    1616229
+  ]
+}

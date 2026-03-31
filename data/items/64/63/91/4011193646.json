@@ -1,0 +1,19 @@
+{
+  "internalId": 4011193646,
+  "name": "Unchained Aggressor's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158697,
+    158752,
+    158787,
+    158822,
+    158857,
+    158892,
+    158927,
+    158962,
+    158997,
+    159032
+  ]
+}

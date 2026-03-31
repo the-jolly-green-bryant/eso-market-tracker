@@ -1,0 +1,19 @@
+{
+  "internalId": 4078167922,
+  "name": "Restoration Staff of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184782,
+    184837,
+    184872,
+    184907,
+    184942,
+    184977,
+    185012,
+    185047,
+    185082,
+    185117
+  ]
+}

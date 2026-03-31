@@ -1,0 +1,18 @@
+{
+  "internalId": 3386149406,
+  "name": "Blooddrinker Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1170595,
+    1182706,
+    1388778,
+    1406606,
+    1452784,
+    1559415,
+    1595340,
+    1613480,
+    1654540
+  ]
+}

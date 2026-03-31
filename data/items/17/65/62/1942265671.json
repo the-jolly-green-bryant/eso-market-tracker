@@ -1,0 +1,16 @@
+{
+  "internalId": 1942265671,
+  "name": "Curse-Eating Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90835,
+    90856,
+    90877,
+    90898,
+    90919,
+    90940,
+    90961
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 2348283593,
+  "name": "Siren's Call",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": -1,
+  "knownIds": [
+    615983,
+    756501
+  ]
+}

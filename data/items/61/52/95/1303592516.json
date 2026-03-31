@@ -1,0 +1,19 @@
+{
+  "internalId": 1303592516,
+  "name": "Greatsword of Mephala's Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    919749,
+    934190,
+    1031576,
+    1086907,
+    1134905,
+    1193780,
+    1550271,
+    1660542,
+    1764584,
+    1764850
+  ]
+}

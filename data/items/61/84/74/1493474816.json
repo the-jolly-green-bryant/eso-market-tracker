@@ -1,0 +1,10 @@
+{
+  "internalId": 1493474816,
+  "name": "Nedic Orb, Ritual",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_brazierorb001.png",
+  "bindType": -1,
+  "knownIds": [
+    151951
+  ]
+}

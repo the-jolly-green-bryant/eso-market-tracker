@@ -1,0 +1,10 @@
+{
+  "internalId": 2699847058,
+  "name": "Daedric Chest, Sealed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_chest001.png",
+  "bindType": -1,
+  "knownIds": [
+    126569
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1238138746,
+  "name": "Pact's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_staff_b.png",
+  "bindType": 2,
+  "knownIds": [
+    55856
+  ]
+}

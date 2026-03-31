@@ -1,0 +1,10 @@
+{
+  "internalId": 1001449444,
+  "name": "King's Moot Talking Stick",
+  "description": "Awarded for your part in King Kurog's fall and victory over Forge-Mother Alga, the true power behind the throne.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wrothgarorc_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    70992
+  ]
+}

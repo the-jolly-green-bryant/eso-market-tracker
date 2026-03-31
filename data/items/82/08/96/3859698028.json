@@ -1,0 +1,20 @@
+{
+  "internalId": 3859698028,
+  "name": "hide arm cops of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": -1,
+  "knownIds": [
+    751741,
+    516420,
+    445766,
+    516114,
+    578543,
+    578999,
+    443103,
+    717130,
+    601350,
+    456274,
+    785612
+  ]
+}

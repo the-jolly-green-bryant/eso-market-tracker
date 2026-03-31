@@ -1,0 +1,23 @@
+{
+  "internalId": 1472006991,
+  "name": "Ice Staff of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    947797,
+    1154065,
+    1201132,
+    1228934,
+    1303364,
+    1381057,
+    1403707,
+    1510609,
+    1559258,
+    1570015,
+    1584069,
+    1586241,
+    1747221,
+    1765758
+  ]
+}

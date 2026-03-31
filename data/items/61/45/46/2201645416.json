@@ -1,0 +1,16 @@
+{
+  "internalId": 2201645416,
+  "name": "Knight Slayer Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123566,
+    123587,
+    123608,
+    123629,
+    123650,
+    123671,
+    123692
+  ]
+}

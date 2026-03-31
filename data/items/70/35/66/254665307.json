@@ -1,0 +1,16 @@
+{
+  "internalId": 254665307,
+  "name": "Curse-Eating Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90836,
+    90857,
+    90878,
+    90899,
+    90920,
+    90941,
+    90962
+  ]
+}

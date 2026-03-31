@@ -1,0 +1,19 @@
+{
+  "internalId": 3972169774,
+  "name": "Forest Wraith's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191998,
+    192053,
+    192088,
+    192123,
+    192158,
+    192193,
+    192228,
+    192263,
+    192298,
+    192333
+  ]
+}

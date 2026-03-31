@@ -1,0 +1,10 @@
+{
+  "internalId": 2674307456,
+  "name": "Guarblood Ring",
+  "description": "This ring pulsates with animal energy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    7417
+  ]
+}

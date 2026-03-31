@@ -1,0 +1,10 @@
+{
+  "internalId": 350849325,
+  "name": "Fargrave Clutter, Papers",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedpapers001.png",
+  "bindType": -1,
+  "knownIds": [
+    182217
+  ]
+}

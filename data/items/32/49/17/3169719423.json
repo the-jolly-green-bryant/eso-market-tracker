@@ -1,0 +1,17 @@
+{
+  "internalId": 3169719423,
+  "name": "Siegemaster's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210706,
+    210726,
+    210746,
+    210766,
+    210786,
+    210806,
+    210826,
+    210846
+  ]
+}

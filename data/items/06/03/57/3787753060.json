@@ -1,0 +1,12 @@
+{
+  "internalId": 3787753060,
+  "name": "Forgotten Adventurer's Strong Box",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1244446,
+    1245270,
+    1310394
+  ]
+}

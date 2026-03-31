@@ -1,0 +1,18 @@
+{
+  "internalId": 3793130246,
+  "name": "Frozen Watcher's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1304181,
+    1304255,
+    1305228,
+    1348600,
+    1405509,
+    1482253,
+    1577145,
+    1588025,
+    1713189
+  ]
+}

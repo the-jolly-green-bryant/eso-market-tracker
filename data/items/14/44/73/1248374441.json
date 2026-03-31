@@ -1,0 +1,12 @@
+{
+  "internalId": 1248374441,
+  "name": "Wyrd Branch",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    384682,
+    394153,
+    383916
+  ]
+}

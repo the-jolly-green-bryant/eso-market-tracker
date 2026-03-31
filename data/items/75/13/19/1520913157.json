@@ -1,0 +1,22 @@
+{
+  "internalId": 1520913157,
+  "name": "Gnarled Bear Claw",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_wild_animal_paws.png",
+  "bindType": -1,
+  "knownIds": [
+    812808,
+    795786,
+    578978,
+    874996,
+    938333,
+    938367,
+    938389,
+    1093040,
+    1148156,
+    1177634,
+    1228003,
+    1231402,
+    1320460
+  ]
+}

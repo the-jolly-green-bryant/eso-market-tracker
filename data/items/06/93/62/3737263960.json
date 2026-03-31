@@ -1,0 +1,20 @@
+{
+  "internalId": 3737263960,
+  "name": "Ophidian Ice Staff of Venom",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1151034,
+    1157944,
+    1190914,
+    1334665,
+    1345694,
+    1409185,
+    1441617,
+    1515084,
+    1608847,
+    1636149,
+    1773568
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1475142294,
+  "name": "Adept Rider's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135968,
+    136003,
+    136038
+  ]
+}

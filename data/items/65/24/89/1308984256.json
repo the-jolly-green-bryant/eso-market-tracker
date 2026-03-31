@@ -1,0 +1,17 @@
+{
+  "internalId": 1308984256,
+  "name": "Battalion Defender Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144838,
+    144858,
+    144878,
+    144898,
+    144918,
+    144938,
+    144958,
+    144978
+  ]
+}

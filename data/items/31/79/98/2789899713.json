@@ -1,0 +1,17 @@
+{
+  "internalId": 2789899713,
+  "name": "War Maiden's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122802,
+    122823,
+    122844,
+    122865,
+    122886,
+    122907,
+    122928,
+    122949
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3719261781,
+  "name": "Pyrebrand Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731401,
+    1735230,
+    1777363,
+    1778288
+  ]
+}

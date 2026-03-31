@@ -1,0 +1,10 @@
+{
+  "internalId": 927562206,
+  "name": "Argonian Fish in a Basket",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_basket003.png",
+  "bindType": -1,
+  "knownIds": [
+    120408
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2571378096,
+  "name": "Unflinching Ultimate Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219505,
+    219525,
+    219545,
+    219565,
+    219585,
+    219605,
+    219625,
+    219645
+  ]
+}

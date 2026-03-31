@@ -1,0 +1,10 @@
+{
+  "internalId": 4035016226,
+  "name": "Skull, Giant Mammoth",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_mammothskull001.png",
+  "bindType": -1,
+  "knownIds": [
+    118795
+  ]
+}

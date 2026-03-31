@@ -1,0 +1,17 @@
+{
+  "internalId": 1022168470,
+  "name": "Blessed Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102272,
+    102292,
+    102312,
+    102332,
+    102352,
+    102372,
+    102392,
+    102412
+  ]
+}

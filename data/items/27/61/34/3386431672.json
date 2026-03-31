@@ -1,0 +1,17 @@
+{
+  "internalId": 3386431672,
+  "name": "Bog Raider's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_hvy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172303,
+    172323,
+    172343,
+    172363,
+    172383,
+    172403,
+    172423,
+    172443
+  ]
+}

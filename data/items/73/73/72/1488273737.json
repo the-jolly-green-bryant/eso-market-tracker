@@ -1,0 +1,17 @@
+{
+  "internalId": 1488273737,
+  "name": "Seventh Legion's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100774,
+    100794,
+    100814,
+    100834,
+    100854,
+    100874,
+    100894,
+    100914
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1402802722,
+  "name": "Affix Script: Berserk",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_berserk.png",
+  "bindType": -1,
+  "knownIds": [
+    204599
+  ]
+}

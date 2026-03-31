@@ -1,0 +1,10 @@
+{
+  "internalId": 1457950829,
+  "name": "Hide Scraps",
+  "description": "Ten of these items can be refined to make hide.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_fur_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    4448
+  ]
+}

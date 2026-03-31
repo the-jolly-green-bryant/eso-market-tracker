@@ -1,0 +1,29 @@
+{
+  "internalId": 2105864297,
+  "name": "Hat of the Ritualist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_lgt_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1415850,
+    1418714,
+    1422363,
+    1436732,
+    1451153,
+    1464427,
+    1488513,
+    1512729,
+    1513791,
+    1515034,
+    1515435,
+    1517399,
+    1517400,
+    1517637,
+    1522315,
+    1558582,
+    1558657,
+    1595390,
+    1680763,
+    1756042
+  ]
+}

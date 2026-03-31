@@ -1,0 +1,10 @@
+{
+  "internalId": 1409673780,
+  "name": "Hollow Moon Cowl",
+  "description": "This cowl is difficult to see in poor light. It does not impede the wearer's field of view.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1664
+  ]
+}

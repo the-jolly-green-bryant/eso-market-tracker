@@ -1,0 +1,15 @@
+{
+  "internalId": 2828765441,
+  "name": "Pyrebrand Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_sheild.png",
+  "bindType": -1,
+  "knownIds": [
+    1731378,
+    1731382,
+    1742376,
+    1742377,
+    1756748,
+    1761056
+  ]
+}

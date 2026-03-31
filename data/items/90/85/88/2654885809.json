@@ -1,0 +1,15 @@
+{
+  "internalId": 2654885809,
+  "name": "Robe of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70082,
+    70117,
+    70152,
+    70187,
+    70222,
+    70257
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "internalId": 3089046965,
+  "name": "Inventor's Guard Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1173124,
+    1193603,
+    1194019,
+    1368052,
+    1396289,
+    1403496,
+    1458782,
+    1540914,
+    1541589,
+    1551172,
+    1578624,
+    1628190,
+    1697022,
+    1761051
+  ]
+}

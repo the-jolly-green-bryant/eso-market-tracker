@@ -1,0 +1,18 @@
+{
+  "internalId": 278707750,
+  "name": "Sabatons of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158385,
+    158420,
+    158455,
+    158490,
+    158525,
+    158560,
+    158595,
+    158630,
+    158665
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3876602393,
+  "name": "Forest Wraith's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192000,
+    192055,
+    192090,
+    192125,
+    192160,
+    192195,
+    192230,
+    192265,
+    192300,
+    192335
+  ]
+}

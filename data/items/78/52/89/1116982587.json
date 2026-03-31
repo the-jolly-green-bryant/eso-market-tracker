@@ -1,0 +1,21 @@
+{
+  "internalId": 1116982587,
+  "name": "Soul-Siphon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_dagger_b.png",
+  "bindType": -1,
+  "knownIds": [
+    824671,
+    820114,
+    604935,
+    842386,
+    918322,
+    941880,
+    1206234,
+    1273080,
+    1392611,
+    1421689,
+    1463873,
+    1550880
+  ]
+}

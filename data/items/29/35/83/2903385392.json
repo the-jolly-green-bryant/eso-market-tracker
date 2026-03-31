@@ -1,0 +1,17 @@
+{
+  "internalId": 2903385392,
+  "name": "Vanguard's Challenge Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123172,
+    123192,
+    123212,
+    123232,
+    123252,
+    123272,
+    123292,
+    123312
+  ]
+}

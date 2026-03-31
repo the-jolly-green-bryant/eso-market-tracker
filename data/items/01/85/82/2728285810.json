@@ -1,0 +1,17 @@
+{
+  "internalId": 2728285810,
+  "name": "Axe of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93905,
+    93925,
+    93945,
+    93965,
+    93985,
+    94005,
+    94025,
+    94045
+  ]
+}

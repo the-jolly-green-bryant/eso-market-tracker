@@ -1,0 +1,17 @@
+{
+  "internalId": 4045512690,
+  "name": "Lightning Staff of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93915,
+    93935,
+    93955,
+    93975,
+    93995,
+    94015,
+    94035,
+    94055
+  ]
+}

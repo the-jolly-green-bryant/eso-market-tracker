@@ -1,0 +1,13 @@
+{
+  "internalId": 912343147,
+  "name": "Blackfeather Flight Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214162,
+    214182,
+    214202,
+    214222
+  ]
+}

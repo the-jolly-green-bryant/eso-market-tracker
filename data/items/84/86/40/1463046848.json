@@ -1,0 +1,10 @@
+{
+  "internalId": 1463046848,
+  "name": "Ysgramor's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101325
+  ]
+}

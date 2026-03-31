@@ -1,0 +1,16 @@
+{
+  "internalId": 1278596862,
+  "name": "Inferno Staff of Succession",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1190540,
+    1214848,
+    1303222,
+    1416799,
+    1419390,
+    1583556,
+    1610917
+  ]
+}

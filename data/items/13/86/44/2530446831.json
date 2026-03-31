@@ -1,0 +1,17 @@
+{
+  "internalId": 2530446831,
+  "name": "Axe of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80549,
+    80569,
+    80589,
+    80609,
+    80629,
+    80641,
+    80661,
+    80681
+  ]
+}

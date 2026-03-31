@@ -1,0 +1,17 @@
+{
+  "internalId": 1554963679,
+  "name": "Stygian Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_medium_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102091,
+    102111,
+    102131,
+    102151,
+    102171,
+    102191,
+    102211,
+    102231
+  ]
+}

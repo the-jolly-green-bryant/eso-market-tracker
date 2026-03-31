@@ -1,0 +1,10 @@
+{
+  "internalId": 2188446553,
+  "name": "Bound Focus Script: Restore Resources",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_resourcerestore.png",
+  "bindType": -1,
+  "knownIds": [
+    1721099
+  ]
+}

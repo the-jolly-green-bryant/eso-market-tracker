@@ -1,0 +1,10 @@
+{
+  "internalId": 296753424,
+  "name": "Merchant's Levy Tassel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_adornment_001.png",
+  "bindType": -1,
+  "knownIds": [
+    815880
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1722418018,
+  "name": "Cuirass of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99480,
+    99500,
+    99520,
+    99540,
+    99560,
+    99580,
+    99600,
+    99620
+  ]
+}

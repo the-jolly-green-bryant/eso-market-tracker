@@ -1,0 +1,10 @@
+{
+  "internalId": 2647728905,
+  "name": "Cloudrest Clarified Coffee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_vendor_fuel_wine_001.png",
+  "bindType": -1,
+  "knownIds": [
+    68272
+  ]
+}

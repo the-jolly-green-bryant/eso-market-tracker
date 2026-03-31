@@ -1,0 +1,10 @@
+{
+  "internalId": 34242367,
+  "name": "Ring of the Ancient Mariner",
+  "description": "A ring given by a sea captain lost during the events of the All Flags Navy to their heart-broken beloved.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    188122
+  ]
+}

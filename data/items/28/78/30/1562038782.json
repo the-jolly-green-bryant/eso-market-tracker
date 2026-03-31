@@ -1,0 +1,11 @@
+{
+  "internalId": 1562038782,
+  "name": "Blind Path Induction Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1718008,
+    1727681
+  ]
+}

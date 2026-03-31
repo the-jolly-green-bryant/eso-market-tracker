@@ -1,0 +1,21 @@
+{
+  "internalId": 307575735,
+  "name": "Ophidian Lightning Staff of Venom",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1130125,
+    1171598,
+    1180676,
+    1257685,
+    1396303,
+    1396305,
+    1412905,
+    1506771,
+    1541456,
+    1578131,
+    1678520,
+    1686356
+  ]
+}

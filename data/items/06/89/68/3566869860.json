@@ -1,0 +1,20 @@
+{
+  "internalId": 3566869860,
+  "name": "Gem of Curses",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    819580,
+    806009,
+    705749,
+    829262,
+    836269,
+    942268,
+    1159791,
+    1460725,
+    1466611,
+    1470433,
+    1650758
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 40488655,
+  "name": "Hexos' Ward Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_med_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180113,
+    180133,
+    180153,
+    180173,
+    180193,
+    180213,
+    180233,
+    180253
+  ]
+}

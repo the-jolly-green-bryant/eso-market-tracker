@@ -1,0 +1,19 @@
+{
+  "internalId": 3129727014,
+  "name": "Bracers of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161625,
+    161680,
+    161715,
+    161750,
+    161785,
+    161820,
+    161855,
+    161890,
+    161925,
+    161960
+  ]
+}

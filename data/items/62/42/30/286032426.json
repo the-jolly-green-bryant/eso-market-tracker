@@ -1,0 +1,10 @@
+{
+  "internalId": 286032426,
+  "name": "Markarth Floor, Circular",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markrugmediumround001.png",
+  "bindType": -1,
+  "knownIds": [
+    171755
+  ]
+}

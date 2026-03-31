@@ -1,0 +1,13 @@
+{
+  "internalId": 542012541,
+  "name": "Spell Power Cure Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    938833,
+    942201,
+    1455825,
+    1492465
+  ]
+}

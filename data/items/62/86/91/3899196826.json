@@ -1,0 +1,10 @@
+{
+  "internalId": 3899196826,
+  "name": "Druidic Gourd Bird Feeder",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drugourdbirdfeeder001.png",
+  "bindType": -1,
+  "knownIds": [
+    191203
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3386895931,
+  "name": "Necklace of Oblivion's Foe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139727,
+    139817,
+    139907,
+    139997,
+    140087,
+    140177
+  ]
+}

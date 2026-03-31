@@ -1,0 +1,10 @@
+{
+  "internalId": 1324762756,
+  "name": "Dawnwood Container, Crow",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bossmallstoragecontainer002.png",
+  "bindType": -1,
+  "knownIds": [
+    211392
+  ]
+}

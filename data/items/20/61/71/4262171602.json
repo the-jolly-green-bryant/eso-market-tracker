@@ -1,0 +1,16 @@
+{
+  "internalId": 4262171602,
+  "name": "Master Architect Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1150884,
+    1164301,
+    1190493,
+    1461927,
+    1461936,
+    1465129,
+    1717968
+  ]
+}

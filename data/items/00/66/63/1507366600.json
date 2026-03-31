@@ -1,0 +1,10 @@
+{
+  "internalId": 1507366600,
+  "name": "Box of Assorted Stolen Shiny Trinkets",
+  "description": "None of these items are worth more than a handful of coins but they're all shiny, and they're all stolen. This gift for Ember is more appreciated when used during Hearts Week.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_ember.png",
+  "bindType": -1,
+  "knownIds": [
+    220264
+  ]
+}

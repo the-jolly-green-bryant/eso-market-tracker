@@ -1,0 +1,10 @@
+{
+  "internalId": 3514385826,
+  "name": "Acanthia's Arm of Cyrodiil's Light",
+  "description": "This unique bow is made from an unknown hardwood and requires great strength to wield.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45724
+  ]
+}

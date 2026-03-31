@@ -1,0 +1,10 @@
+{
+  "internalId": 738747476,
+  "name": "Weapons: Shadow / Red Mountain",
+  "description": "A Medium Armor set found in Stonefalls.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134036
+  ]
+}

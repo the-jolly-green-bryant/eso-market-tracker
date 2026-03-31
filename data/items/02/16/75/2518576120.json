@@ -1,0 +1,10 @@
+{
+  "internalId": 2518576120,
+  "name": "Dark Elf Stool, Angled",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_stool001.png",
+  "bindType": -1,
+  "knownIds": [
+    115299
+  ]
+}

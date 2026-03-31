@@ -1,0 +1,17 @@
+{
+  "internalId": 2909064723,
+  "name": "Stygian Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102085,
+    102105,
+    102125,
+    102145,
+    102165,
+    102185,
+    102205,
+    102225
+  ]
+}

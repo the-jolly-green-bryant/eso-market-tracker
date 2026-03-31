@@ -1,0 +1,10 @@
+{
+  "internalId": 3954733361,
+  "name": "slight Glyph of Absorb Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_magickaabsorbtion.png",
+  "bindType": -1,
+  "knownIds": [
+    1426691
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4083472290,
+  "name": "Orcish Figurine, Bear",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgceramicanimal002.png",
+  "bindType": -1,
+  "knownIds": [
+    167348
+  ]
+}

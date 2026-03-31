@@ -1,0 +1,17 @@
+{
+  "internalId": 2163655091,
+  "name": "Eagle Eye Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183205,
+    183209,
+    183213,
+    183217,
+    183221,
+    183225,
+    183229,
+    183233
+  ]
+}

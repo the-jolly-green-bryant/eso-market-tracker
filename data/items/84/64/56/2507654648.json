@@ -1,0 +1,10 @@
+{
+  "internalId": 2507654648,
+  "name": "Sapling, White Pine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_whitepinesnowy009.png",
+  "bindType": -1,
+  "knownIds": [
+    165819
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2547601794,
+  "name": "Maul of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87376,
+    87397,
+    87418,
+    87439,
+    87460
+  ]
+}

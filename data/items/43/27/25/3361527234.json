@@ -1,0 +1,17 @@
+{
+  "internalId": 3361527234,
+  "name": "Inferno Staff of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88723,
+    88743,
+    88763,
+    88783,
+    88803,
+    88823,
+    88843,
+    88863
+  ]
+}

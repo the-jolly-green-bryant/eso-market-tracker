@@ -1,0 +1,17 @@
+{
+  "internalId": 71246035,
+  "name": "Mace of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211584,
+    211605,
+    211626,
+    211647,
+    211668,
+    211689,
+    211710,
+    211731
+  ]
+}

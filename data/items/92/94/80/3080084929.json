@@ -1,0 +1,10 @@
+{
+  "internalId": 3080084929,
+  "name": "Systres' Scowl Set Box",
+  "description": "Contains 5 gear pieces from the Systres' Scowl set. Items will level lock to opening character.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
+  "bindType": 3,
+  "knownIds": [
+    188260
+  ]
+}

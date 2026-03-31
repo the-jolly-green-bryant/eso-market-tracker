@@ -1,0 +1,10 @@
+{
+  "internalId": 3496291100,
+  "name": "Ordinator Rerebrace",
+  "description": "You received this rerebrace for stopping the shipments of Llodos Plague from leaving the Obsidian Gorge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7324
+  ]
+}

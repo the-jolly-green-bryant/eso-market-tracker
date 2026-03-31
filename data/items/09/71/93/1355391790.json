@@ -1,0 +1,11 @@
+{
+  "internalId": 1355391790,
+  "name": "Pact's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_1haxe_b.png",
+  "bindType": 2,
+  "knownIds": [
+    55861,
+    55862
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 2755045834,
+  "name": "Spattering Disjunction Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735121,
+    1741618,
+    1777378
+  ]
+}

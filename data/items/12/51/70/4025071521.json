@@ -1,0 +1,15 @@
+{
+  "internalId": 4025071521,
+  "name": "Shield of Mending",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1566551,
+    1566553,
+    1610320,
+    1637183,
+    1716002,
+    1740342
+  ]
+}

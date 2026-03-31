@@ -1,0 +1,17 @@
+{
+  "internalId": 3422890539,
+  "name": "Stygian Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102087,
+    102107,
+    102127,
+    102147,
+    102167,
+    102187,
+    102207,
+    102227
+  ]
+}

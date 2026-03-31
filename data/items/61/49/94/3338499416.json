@@ -1,0 +1,10 @@
+{
+  "internalId": 3338499416,
+  "name": "Elsweyr Meal, Hearty Noodles",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_bowlwithfood001.png",
+  "bindType": -1,
+  "knownIds": [
+    151633
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1520810441,
+  "name": "trifling glyph of poison",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_poisonessence.png",
+  "bindType": -1,
+  "knownIds": [
+    389982,
+    1426318
+  ]
+}

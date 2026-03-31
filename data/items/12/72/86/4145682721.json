@@ -1,0 +1,10 @@
+{
+  "internalId": 4145682721,
+  "name": "River Betty",
+  "description": "A common fish found in river waters. Use to filet for provisioning",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
+  "bindType": -1,
+  "knownIds": [
+    42866
+  ]
+}

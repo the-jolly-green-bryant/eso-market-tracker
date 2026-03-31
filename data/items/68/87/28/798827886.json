@@ -1,0 +1,10 @@
+{
+  "internalId": 798827886,
+  "name": "Trader's Signet",
+  "description": "This ring was allegedly worn by a merchant who was sponsored by Sotha Sil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    29938
+  ]
+}

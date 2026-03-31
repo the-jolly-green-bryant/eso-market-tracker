@@ -1,0 +1,10 @@
+{
+  "internalId": 4111769590,
+  "name": "Blue Crystal Cluster, Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cav_min_crystalformations_010.png",
+  "bindType": -1,
+  "knownIds": [
+    139101
+  ]
+}

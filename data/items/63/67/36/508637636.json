@@ -1,0 +1,19 @@
+{
+  "internalId": 508637636,
+  "name": "Amulet of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    168035,
+    168037,
+    168039,
+    168041,
+    168043,
+    168045,
+    168047,
+    168049,
+    168051,
+    168053
+  ]
+}

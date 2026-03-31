@@ -1,0 +1,19 @@
+{
+  "internalId": 3656726148,
+  "name": "Deadlands Demolisher's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179181,
+    179236,
+    179271,
+    179306,
+    179341,
+    179376,
+    179411,
+    179446,
+    179481,
+    179516
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3950220022,
+  "name": "Bow of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88176,
+    88196,
+    88216,
+    88236,
+    88256,
+    88276,
+    88296,
+    88316
+  ]
+}

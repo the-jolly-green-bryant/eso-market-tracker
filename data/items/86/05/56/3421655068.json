@@ -1,0 +1,18 @@
+{
+  "internalId": 3421655068,
+  "name": "Z'en's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1343371,
+    1402641,
+    1409068,
+    1409107,
+    1560394,
+    1567721,
+    1595223,
+    1732756,
+    1742407
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 668284625,
+  "name": "Sword of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168749,
+    168804,
+    168839,
+    168874,
+    168909,
+    168944,
+    168979,
+    169014,
+    169049,
+    169084
+  ]
+}

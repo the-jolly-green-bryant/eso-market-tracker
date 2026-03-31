@@ -1,0 +1,10 @@
+{
+  "internalId": 325213379,
+  "name": "Crafting Motif 98: House Hexos Legs",
+  "description": "Use to learn how to make House Hexos Legs. Also teaches the equivalent House Hexos Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    170140
+  ]
+}

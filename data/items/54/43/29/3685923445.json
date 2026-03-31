@@ -1,0 +1,17 @@
+{
+  "internalId": 3685923445,
+  "name": "Battle Axe of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89082,
+    89102,
+    89122,
+    89142,
+    89162,
+    89182,
+    89202,
+    89222
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 3269367583,
+  "name": "Ring of the Lunar Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    948705,
+    1168983,
+    1198111,
+    1350391,
+    1447040,
+    1482832,
+    1508569
+  ]
+}

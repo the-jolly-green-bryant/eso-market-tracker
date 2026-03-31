@@ -1,0 +1,17 @@
+{
+  "internalId": 2255040907,
+  "name": "Coup De Grâce Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219335,
+    219355,
+    219375,
+    219395,
+    219415,
+    219435,
+    219455,
+    219475
+  ]
+}

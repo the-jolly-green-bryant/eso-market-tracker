@@ -1,0 +1,15 @@
+{
+  "internalId": 102853176,
+  "name": "Ring of Night's Silence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139678,
+    139768,
+    139858,
+    139948,
+    140038,
+    140128
+  ]
+}

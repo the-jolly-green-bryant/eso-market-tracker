@@ -1,0 +1,19 @@
+{
+  "internalId": 3146559053,
+  "name": "Assassin's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121558,
+    121593,
+    121628,
+    121663,
+    121698,
+    121733,
+    121768,
+    121803,
+    121838,
+    121873
+  ]
+}

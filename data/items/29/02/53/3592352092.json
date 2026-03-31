@@ -1,0 +1,10 @@
+{
+  "internalId": 3592352092,
+  "name": "Bush, Vibrant Barberry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_deshaanrockbush001.png",
+  "bindType": -1,
+  "knownIds": [
+    120567
+  ]
+}

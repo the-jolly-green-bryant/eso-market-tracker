@@ -1,0 +1,10 @@
+{
+  "internalId": 2994055902,
+  "name": "Shelf, Folded Laundry",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_housingwallshelflow001.png",
+  "bindType": -1,
+  "knownIds": [
+    203147
+  ]
+}

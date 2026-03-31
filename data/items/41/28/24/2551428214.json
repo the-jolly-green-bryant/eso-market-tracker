@@ -1,0 +1,17 @@
+{
+  "internalId": 2551428214,
+  "name": "Swamp Raider's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98898,
+    98918,
+    98938,
+    98958,
+    98978,
+    98998,
+    99018,
+    99038
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2290592783,
+  "name": "Camonna Tong Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195889,
+    195909,
+    195929,
+    195949,
+    195969,
+    195989,
+    196009,
+    196029
+  ]
+}

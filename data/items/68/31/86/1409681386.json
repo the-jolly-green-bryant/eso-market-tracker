@@ -1,0 +1,17 @@
+{
+  "internalId": 1409681386,
+  "name": "Warrior-Poet's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122622,
+    122642,
+    122662,
+    122682,
+    122702,
+    122722,
+    122742,
+    122762
+  ]
+}

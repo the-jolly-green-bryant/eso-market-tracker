@@ -1,0 +1,19 @@
+{
+  "internalId": 4205807425,
+  "name": "New Moon Acolyte's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156154,
+    156209,
+    156244,
+    156279,
+    156314,
+    156349,
+    156384,
+    156419,
+    156454,
+    156489
+  ]
+}

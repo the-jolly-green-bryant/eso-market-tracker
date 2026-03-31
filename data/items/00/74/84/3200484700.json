@@ -1,0 +1,17 @@
+{
+  "internalId": 3200484700,
+  "name": "Seventh Legion's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100775,
+    100795,
+    100815,
+    100835,
+    100855,
+    100875,
+    100895,
+    100915
+  ]
+}

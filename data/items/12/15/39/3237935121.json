@@ -1,0 +1,17 @@
+{
+  "internalId": 3237935121,
+  "name": "Ice Staff of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91382,
+    91403,
+    91424,
+    91445,
+    91466,
+    91487,
+    91508,
+    91529
+  ]
+}

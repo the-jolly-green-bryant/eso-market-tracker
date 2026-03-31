@@ -1,0 +1,10 @@
+{
+  "internalId": 413719144,
+  "name": "Khajiit Wardrobe, Arched",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_wardrobemoving001.png",
+  "bindType": -1,
+  "knownIds": [
+    115690
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2926090641,
+  "name": "Helm of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89823,
+    89843,
+    89863,
+    89883,
+    89903,
+    89923,
+    89943,
+    89963
+  ]
+}

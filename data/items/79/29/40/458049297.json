@@ -1,0 +1,10 @@
+{
+  "internalId": 458049297,
+  "name": "Sip of Ravage Spell Protection",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_018_type_001.png",
+  "bindType": -1,
+  "knownIds": [
+    44821
+  ]
+}

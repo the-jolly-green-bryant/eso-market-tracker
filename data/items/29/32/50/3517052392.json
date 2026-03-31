@@ -1,0 +1,12 @@
+{
+  "internalId": 3517052392,
+  "name": "Briarheart Band",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    71259,
+    71277,
+    71295
+  ]
+}

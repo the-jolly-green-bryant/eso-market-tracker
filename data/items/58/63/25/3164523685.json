@@ -1,0 +1,13 @@
+{
+  "internalId": 3164523685,
+  "name": "Briarheart Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_bow_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129705,
+    129717,
+    129729,
+    129741
+  ]
+}

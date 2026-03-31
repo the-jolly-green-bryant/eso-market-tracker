@@ -1,0 +1,17 @@
+{
+  "internalId": 2252502075,
+  "name": "Restoration Staff of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93370,
+    93390,
+    93410,
+    93430,
+    93450,
+    93470,
+    93490,
+    93510
+  ]
+}

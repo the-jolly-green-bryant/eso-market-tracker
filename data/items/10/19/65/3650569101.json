@@ -1,0 +1,13 @@
+{
+  "internalId": 3650569101,
+  "name": "Shacklebreaker Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122469,
+    122504,
+    122539,
+    122574
+  ]
+}

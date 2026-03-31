@@ -1,0 +1,10 @@
+{
+  "internalId": 3949699629,
+  "name": "High Elf Statue, Base",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_exc_altmerbase001.png",
+  "bindType": -1,
+  "knownIds": [
+    114418
+  ]
+}

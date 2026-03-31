@@ -1,0 +1,17 @@
+{
+  "internalId": 3177165627,
+  "name": "Shoes of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90241,
+    90262,
+    90283,
+    90304,
+    90325,
+    90346,
+    90367,
+    90388
+  ]
+}

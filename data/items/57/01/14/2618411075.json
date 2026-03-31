@@ -1,0 +1,17 @@
+{
+  "internalId": 2618411075,
+  "name": "Battle Axe of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80400,
+    80420,
+    80440,
+    80460,
+    80480,
+    80492,
+    80512,
+    80532
+  ]
+}

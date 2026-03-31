@@ -1,0 +1,17 @@
+{
+  "internalId": 3613124997,
+  "name": "Axe of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85080,
+    85101,
+    85122,
+    85143,
+    85164,
+    85185,
+    85206,
+    85227
+  ]
+}

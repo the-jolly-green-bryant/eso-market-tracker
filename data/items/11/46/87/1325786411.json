@@ -1,0 +1,17 @@
+{
+  "internalId": 1325786411,
+  "name": "Sabatons of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194204,
+    194224,
+    194244,
+    194264,
+    194284,
+    194304,
+    194324,
+    194344
+  ]
+}

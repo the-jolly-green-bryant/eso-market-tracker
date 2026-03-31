@@ -1,0 +1,10 @@
+{
+  "internalId": 1854393999,
+  "name": "Daedric Urn, Ashen",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_ashstatueurn001.png",
+  "bindType": -1,
+  "knownIds": [
+    126124
+  ]
+}

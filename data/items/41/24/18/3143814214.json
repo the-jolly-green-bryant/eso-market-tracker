@@ -1,0 +1,19 @@
+{
+  "internalId": 3143814214,
+  "name": "Molag Kena's Touch",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    814216,
+    793158,
+    792837,
+    1073550,
+    1130691,
+    1173722,
+    1261406,
+    1373915,
+    1499981,
+    1534317
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3084452500,
+  "name": "Argonian Counter, Long",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_merchanttable001.png",
+  "bindType": -1,
+  "knownIds": [
+    115438
+  ]
+}

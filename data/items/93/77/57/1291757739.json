@@ -1,0 +1,10 @@
+{
+  "internalId": 1291757739,
+  "name": "Deadlands Cage, Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedcage002.png",
+  "bindType": -1,
+  "knownIds": [
+    187795
+  ]
+}

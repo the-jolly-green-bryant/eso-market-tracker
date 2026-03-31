@@ -1,0 +1,19 @@
+{
+  "internalId": 1735743517,
+  "name": "Senche-Raht's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148348,
+    148403,
+    148438,
+    148473,
+    148508,
+    148543,
+    148578,
+    148613,
+    148648,
+    148683
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 927973130,
+  "name": "Lightning Staff of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85645,
+    85666,
+    85687,
+    85708,
+    85729,
+    85750,
+    85771
+  ]
+}

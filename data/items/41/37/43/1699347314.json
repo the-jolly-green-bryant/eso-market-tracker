@@ -1,0 +1,19 @@
+{
+  "internalId": 1699347314,
+  "name": "Guards of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59977,
+    60012,
+    60047,
+    60082,
+    60117,
+    60152,
+    60187,
+    60222,
+    60257,
+    60292
+  ]
+}

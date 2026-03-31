@@ -1,0 +1,15 @@
+{
+  "internalId": 2040800531,
+  "name": "Ring of the Imperium",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    943835,
+    1075835,
+    1082701,
+    1381933,
+    1442762,
+    1455822
+  ]
+}

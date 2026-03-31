@@ -1,0 +1,13 @@
+{
+  "internalId": 601824292,
+  "name": "Briarheart Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129707,
+    129719,
+    129731,
+    129743
+  ]
+}

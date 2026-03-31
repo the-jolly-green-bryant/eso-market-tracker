@@ -1,0 +1,12 @@
+{
+  "internalId": 663982081,
+  "name": "Tribal Treasure Crate",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png",
+  "bindType": -1,
+  "knownIds": [
+    1268043,
+    1275446,
+    1285228
+  ]
+}

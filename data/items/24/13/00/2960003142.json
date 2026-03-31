@@ -1,0 +1,10 @@
+{
+  "internalId": 2960003142,
+  "name": "Rough Hay Bed, Sloppy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_minbedding002.png",
+  "bindType": -1,
+  "knownIds": [
+    117975
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 335885592,
+  "name": "Ancient Nord Bookcase, Wide",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_shelflarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    134873
+  ]
+}

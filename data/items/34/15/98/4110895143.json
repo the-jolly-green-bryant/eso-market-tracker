@@ -1,0 +1,19 @@
+{
+  "internalId": 4110895143,
+  "name": "Bracers of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71801,
+    71836,
+    71871,
+    71906,
+    71941,
+    71976,
+    72011,
+    72046,
+    72081,
+    72116
+  ]
+}

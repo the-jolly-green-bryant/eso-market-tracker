@@ -1,0 +1,17 @@
+{
+  "internalId": 1663122404,
+  "name": "Robe of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86203,
+    86224,
+    86245,
+    86266,
+    86287,
+    86308,
+    86329,
+    86350
+  ]
+}

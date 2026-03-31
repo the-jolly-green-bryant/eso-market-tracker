@@ -1,0 +1,10 @@
+{
+  "internalId": 551281443,
+  "name": "Elsweyr Armchair, Elegant Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_chairhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    151689
+  ]
+}

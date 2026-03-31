@@ -1,0 +1,19 @@
+{
+  "internalId": 2948580990,
+  "name": "Greatsword of the Ritualist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1420567,
+    1527559,
+    1558173,
+    1559681,
+    1559691,
+    1563563,
+    1595378,
+    1595728,
+    1680622,
+    1719439
+  ]
+}

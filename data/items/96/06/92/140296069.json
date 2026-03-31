@@ -1,0 +1,10 @@
+{
+  "internalId": 140296069,
+  "name": "Crafting Motif 100: True-Sworn Shoulders",
+  "description": "Use to learn how to make True-Sworn Shoulders. Also teaches the equivalent True-Sworn Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    171563
+  ]
+}

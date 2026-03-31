@@ -1,0 +1,10 @@
+{
+  "internalId": 1367149594,
+  "name": "Necrom Wall, Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_waf_housingneccitywallsshortinner002.png",
+  "bindType": -1,
+  "knownIds": [
+    198037
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2964682833,
+  "name": "Tharriker's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205405,
+    205460,
+    205495,
+    205530,
+    205565,
+    205600,
+    205635,
+    205670,
+    205705,
+    205740
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1340820031,
+  "name": "Tree, Great Snowy White Pine",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_whitepinesnowy006.png",
+  "bindType": -1,
+  "knownIds": [
+    167295
+  ]
+}

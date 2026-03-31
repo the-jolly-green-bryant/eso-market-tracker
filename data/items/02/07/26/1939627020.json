@@ -1,0 +1,10 @@
+{
+  "internalId": 1939627020,
+  "name": "Fragment of Hircine",
+  "description": "Consume Fragment of Hircine, along with fragments of the Bad Man, the Ascendant, the Wolf-Father, and the Crucible, to unlock the Skill Stylist: Roar achievement and the Roar, Verdant Green Skill Style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_scrap_greybrown.png",
+  "bindType": 3,
+  "knownIds": [
+    211163
+  ]
+}

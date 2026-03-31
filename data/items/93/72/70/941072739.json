@@ -1,0 +1,17 @@
+{
+  "internalId": 941072739,
+  "name": "Farstrider Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211773,
+    211793,
+    211813,
+    211833,
+    211853,
+    211873,
+    211893,
+    211913
+  ]
+}

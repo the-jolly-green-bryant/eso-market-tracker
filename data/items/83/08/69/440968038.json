@@ -1,0 +1,17 @@
+{
+  "internalId": 440968038,
+  "name": "Shield of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211595,
+    211616,
+    211637,
+    211658,
+    211679,
+    211700,
+    211721,
+    211742
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1925551547,
+  "name": "Jackdaw's Galoshes",
+  "description": "These fine boots are much lighter than they appear. They keep the wearer's feet completely dry.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1713
+  ]
+}

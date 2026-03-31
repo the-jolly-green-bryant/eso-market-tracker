@@ -1,0 +1,17 @@
+{
+  "internalId": 856774694,
+  "name": "Axe of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84525,
+    84545,
+    84565,
+    84585,
+    84605,
+    84625,
+    84645,
+    84665
+  ]
+}

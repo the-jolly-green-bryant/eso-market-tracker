@@ -1,0 +1,11 @@
+{
+  "internalId": 3407263790,
+  "name": "Spicy Beet Salad",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_002.png",
+  "bindType": -1,
+  "knownIds": [
+    37935,
+    28309
+  ]
+}

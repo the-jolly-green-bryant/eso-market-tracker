@@ -1,0 +1,10 @@
+{
+  "internalId": 4201880142,
+  "name": "Brotherhood Column, Ornate",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_dbhsancrmcolumn001.png",
+  "bindType": -1,
+  "knownIds": [
+    134946
+  ]
+}

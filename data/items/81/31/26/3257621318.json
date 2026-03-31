@@ -1,0 +1,10 @@
+{
+  "internalId": 3257621318,
+  "name": "Crafting Motif 113: Steadfast Society Helmets",
+  "description": "Use to learn how to make Steadfast Society Helmets. Also teaches the equivalent Steadfast Society Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    182545
+  ]
+}

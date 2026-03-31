@@ -1,0 +1,10 @@
+{
+  "internalId": 1036129416,
+  "name": "Imperial Tent, Meeting",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_cmp_tentmagislg001.png",
+  "bindType": -1,
+  "knownIds": [
+    211573
+  ]
+}

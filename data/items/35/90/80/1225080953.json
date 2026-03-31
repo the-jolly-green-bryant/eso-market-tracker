@@ -1,0 +1,10 @@
+{
+  "internalId": 1225080953,
+  "name": "Vampiric Wall Mirror",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampiremirrorwall001.png",
+  "bindType": -1,
+  "knownIds": [
+    165606
+  ]
+}

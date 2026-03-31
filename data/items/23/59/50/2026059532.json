@@ -1,0 +1,10 @@
+{
+  "internalId": 2026059532,
+  "name": "Crafting Motif 129: Hircine Bloodhunter Helmets",
+  "description": "Use to learn how to make Hircine Bloodhunter Helmets. Also teaches the equivalent Hircine Bloodhunter Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203842
+  ]
+}

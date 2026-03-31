@@ -1,0 +1,17 @@
+{
+  "internalId": 1549130896,
+  "name": "Belt of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96978,
+    96985,
+    96992,
+    96999,
+    97006,
+    97013,
+    97020,
+    97027
+  ]
+}

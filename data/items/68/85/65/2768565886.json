@@ -1,0 +1,10 @@
+{
+  "internalId": 2768565886,
+  "name": "Silverweave",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_silverweave.png",
+  "bindType": -1,
+  "knownIds": [
+    46133
+  ]
+}

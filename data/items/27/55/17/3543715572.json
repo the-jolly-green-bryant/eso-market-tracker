@@ -1,0 +1,11 @@
+{
+  "internalId": 3543715572,
+  "name": "Legionary Key",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_legionary.png",
+  "bindType": -1,
+  "knownIds": [
+    1588596,
+    1588789
+  ]
+}

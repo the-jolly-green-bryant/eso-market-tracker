@@ -1,0 +1,10 @@
+{
+  "internalId": 349840364,
+  "name": "Yokudan Sarcophagus",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_duc_sarcophagusbase001.png",
+  "bindType": -1,
+  "knownIds": [
+    120856
+  ]
+}

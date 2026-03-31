@@ -1,0 +1,19 @@
+{
+  "internalId": 2279868133,
+  "name": "Assassin's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121556,
+    121591,
+    121626,
+    121661,
+    121696,
+    121731,
+    121766,
+    121801,
+    121836,
+    121871
+  ]
+}

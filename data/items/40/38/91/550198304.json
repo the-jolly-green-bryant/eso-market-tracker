@@ -1,0 +1,10 @@
+{
+  "internalId": 550198304,
+  "name": "Bound Gold Coast Trapping Poison",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpoison_trapping.png",
+  "bindType": 3,
+  "knownIds": [
+    135122
+  ]
+}

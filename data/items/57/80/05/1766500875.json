@@ -1,0 +1,12 @@
+{
+  "internalId": 1766500875,
+  "name": "Template",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": -1,
+  "knownIds": [
+    224662,
+    224663,
+    224664
+  ]
+}

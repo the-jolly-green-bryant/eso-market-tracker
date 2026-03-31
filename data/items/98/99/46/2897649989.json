@@ -1,0 +1,17 @@
+{
+  "internalId": 2897649989,
+  "name": "Boots of Cyrodiil's Ward",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93737,
+    93757,
+    93777,
+    93797,
+    93817,
+    93837,
+    93857,
+    93877
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 4023126351,
+  "name": "Shield of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129895,
+    129896,
+    129897,
+    129898
+  ]
+}

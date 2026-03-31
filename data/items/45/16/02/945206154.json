@@ -1,0 +1,10 @@
+{
+  "internalId": 945206154,
+  "name": "Ritual Shard",
+  "description": "A stone plate covered in ritual scrawl.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_argonian_seal.png",
+  "bindType": 2,
+  "knownIds": [
+    45771
+  ]
+}

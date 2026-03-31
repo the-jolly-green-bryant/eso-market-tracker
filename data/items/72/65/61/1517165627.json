@@ -1,0 +1,19 @@
+{
+  "internalId": 1517165627,
+  "name": "Tide-Born Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215498,
+    215553,
+    215588,
+    215623,
+    215658,
+    215693,
+    215728,
+    215763,
+    215798,
+    215833
+  ]
+}

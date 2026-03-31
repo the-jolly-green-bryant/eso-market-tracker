@@ -1,0 +1,10 @@
+{
+  "internalId": 4239672415,
+  "name": "Orcish Stein, Horn",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_cupbone001.png",
+  "bindType": -1,
+  "knownIds": [
+    116447
+  ]
+}

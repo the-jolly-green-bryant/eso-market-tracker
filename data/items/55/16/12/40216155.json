@@ -1,0 +1,17 @@
+{
+  "internalId": 40216155,
+  "name": "Hew and Sunder Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183428,
+    183448,
+    183468,
+    183488,
+    183508,
+    183528,
+    183548,
+    183568
+  ]
+}

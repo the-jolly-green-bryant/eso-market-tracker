@@ -1,0 +1,10 @@
+{
+  "internalId": 986526247,
+  "name": "Elsweyr Desk, Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_desk001.png",
+  "bindType": -1,
+  "knownIds": [
+    151716
+  ]
+}

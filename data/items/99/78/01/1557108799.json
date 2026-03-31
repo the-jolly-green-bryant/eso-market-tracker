@@ -1,0 +1,10 @@
+{
+  "internalId": 1557108799,
+  "name": "Stained Glass of Stendarr",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowstendarr001.png",
+  "bindType": -1,
+  "knownIds": [
+    181480
+  ]
+}

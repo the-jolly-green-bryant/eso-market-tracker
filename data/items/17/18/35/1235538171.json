@@ -1,0 +1,13 @@
+{
+  "internalId": 1235538171,
+  "name": "Spell Parasite's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163292,
+    163327,
+    163362,
+    163397
+  ]
+}

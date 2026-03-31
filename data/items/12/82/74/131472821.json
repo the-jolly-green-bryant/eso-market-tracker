@@ -1,0 +1,19 @@
+{
+  "internalId": 131472821,
+  "name": "Ancient Dragonguard's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155787,
+    155842,
+    155877,
+    155912,
+    155947,
+    155982,
+    156017,
+    156052,
+    156087,
+    156122
+  ]
+}

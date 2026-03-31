@@ -1,0 +1,17 @@
+{
+  "internalId": 2462267512,
+  "name": "Full Belly Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214862,
+    214882,
+    214902,
+    214922,
+    214942,
+    214962,
+    214982,
+    215002
+  ]
+}

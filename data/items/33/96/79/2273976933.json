@@ -1,0 +1,17 @@
+{
+  "internalId": 2273976933,
+  "name": "Maul of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180268,
+    180288,
+    180308,
+    180328,
+    180348,
+    180368,
+    180388,
+    180408
+  ]
+}

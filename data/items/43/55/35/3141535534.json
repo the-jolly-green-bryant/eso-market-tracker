@@ -1,0 +1,21 @@
+{
+  "internalId": 3141535534,
+  "name": "Abyssal Brace Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_heavy_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628777,
+    1628815,
+    1629545,
+    1629807,
+    1630043,
+    1630075,
+    1630341,
+    1637714,
+    1637717,
+    1647953,
+    1650448,
+    1693524
+  ]
+}

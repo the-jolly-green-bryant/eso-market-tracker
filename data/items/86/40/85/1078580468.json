@@ -1,0 +1,19 @@
+{
+  "internalId": 1078580468,
+  "name": "Jerkin of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70643,
+    70678,
+    70713,
+    70748,
+    70783,
+    70818,
+    70853,
+    70888,
+    70923,
+    70958
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": 4003531071,
+  "name": "rawhide bracers of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    699225,
+    550830,
+    668363,
+    629960,
+    431583,
+    629882,
+    477713,
+    629717,
+    541573,
+    590016,
+    413753,
+    794425,
+    789973,
+    786218,
+    838358,
+    1128741,
+    1129340
+  ]
+}

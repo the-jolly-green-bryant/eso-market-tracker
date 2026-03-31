@@ -1,0 +1,10 @@
+{
+  "internalId": 1201361742,
+  "name": "Plant, Red Sister Ti",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrksistertiflower003.png",
+  "bindType": -1,
+  "knownIds": [
+    145464
+  ]
+}

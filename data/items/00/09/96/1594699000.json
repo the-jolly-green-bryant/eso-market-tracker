@@ -1,0 +1,13 @@
+{
+  "internalId": 1594699000,
+  "name": "Dagger of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131286,
+    131321,
+    131356,
+    131391
+  ]
+}

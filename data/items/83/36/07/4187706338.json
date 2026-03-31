@@ -1,0 +1,22 @@
+{
+  "internalId": 4187706338,
+  "name": "Ophidian Shield of Venom",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1138890,
+    1160035,
+    1178327,
+    1190919,
+    1192476,
+    1361448,
+    1381137,
+    1423333,
+    1470117,
+    1601028,
+    1621270,
+    1691941,
+    1744418
+  ]
+}

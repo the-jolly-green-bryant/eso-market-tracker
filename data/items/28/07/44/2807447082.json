@@ -1,0 +1,17 @@
+{
+  "internalId": 2807447082,
+  "name": "Vanus's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135537,
+    135558,
+    135579,
+    135600,
+    135621,
+    135642,
+    135663,
+    135684
+  ]
+}

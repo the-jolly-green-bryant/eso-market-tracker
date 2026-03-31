@@ -1,0 +1,10 @@
+{
+  "internalId": 1246759486,
+  "name": "Tide-Born Basket, Rope-Handled",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argonianbasket002.png",
+  "bindType": -1,
+  "knownIds": [
+    214394
+  ]
+}

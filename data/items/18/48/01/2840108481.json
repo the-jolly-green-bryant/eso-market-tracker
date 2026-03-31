@@ -1,0 +1,17 @@
+{
+  "internalId": 2840108481,
+  "name": "Livewire Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132682,
+    132702,
+    132722,
+    132742,
+    132762,
+    132782,
+    132802,
+    132822
+  ]
+}

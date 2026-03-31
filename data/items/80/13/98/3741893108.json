@@ -1,0 +1,20 @@
+{
+  "internalId": 3741893108,
+  "name": "Dagger of Mephala's Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1083076,
+    1084808,
+    1084809,
+    1130521,
+    1512256,
+    1594940,
+    1597324,
+    1602411,
+    1602812,
+    1700966,
+    1724186
+  ]
+}

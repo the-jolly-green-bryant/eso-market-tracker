@@ -1,0 +1,10 @@
+{
+  "internalId": 1179050837,
+  "name": "Fargrave Flags, String",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_housingfarhangingfabricbridge001.png",
+  "bindType": -1,
+  "knownIds": [
+    182214
+  ]
+}

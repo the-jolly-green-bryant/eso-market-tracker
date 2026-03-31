@@ -1,0 +1,10 @@
+{
+  "internalId": 3993130022,
+  "name": "Gorethief Heavy Armor",
+  "description": "An All Weights Armor set found in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    224659
+  ]
+}

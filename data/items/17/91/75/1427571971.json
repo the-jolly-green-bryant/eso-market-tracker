@@ -1,0 +1,21 @@
+{
+  "internalId": 1427571971,
+  "name": "Prismatic Long Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_bow_c.png",
+  "bindType": -1,
+  "knownIds": [
+    795713,
+    690317,
+    743585,
+    830205,
+    1134088,
+    1134089,
+    1321790,
+    1321792,
+    1322050,
+    1322053,
+    1551838,
+    1551840
+  ]
+}

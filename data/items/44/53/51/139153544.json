@@ -1,0 +1,19 @@
+{
+  "internalId": 139153544,
+  "name": "Naga Shaman Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143162,
+    143217,
+    143252,
+    143287,
+    143322,
+    143357,
+    143392,
+    143427,
+    143462,
+    143497
+  ]
+}

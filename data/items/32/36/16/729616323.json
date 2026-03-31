@@ -1,0 +1,21 @@
+{
+  "internalId": 729616323,
+  "name": "Adventurer's Lost Medallion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    423515,
+    631283,
+    378328,
+    808207,
+    793527,
+    1079076,
+    1085633,
+    1450589,
+    1452025,
+    1552279,
+    1643497,
+    1728305
+  ]
+}

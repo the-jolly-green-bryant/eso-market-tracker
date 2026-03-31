@@ -1,0 +1,10 @@
+{
+  "internalId": 3360313718,
+  "name": "Crafting Motif 79: Refabricated Swords",
+  "description": "Use to learn how to make Refabricated Swords. Also teaches the equivalent Refabricated Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    130040
+  ]
+}

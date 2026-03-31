@@ -1,0 +1,13 @@
+{
+  "internalId": 3793841037,
+  "name": "Shacklebreaker Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122486,
+    122521,
+    122556,
+    122591
+  ]
+}

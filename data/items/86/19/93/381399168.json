@@ -1,0 +1,10 @@
+{
+  "internalId": 381399168,
+  "name": "Wood Elf Pedestal, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_weddinghandped001.png",
+  "bindType": -1,
+  "knownIds": [
+    115623
+  ]
+}

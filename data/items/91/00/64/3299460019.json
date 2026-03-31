@@ -1,0 +1,19 @@
+{
+  "internalId": 3299460019,
+  "name": "Shield of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168759,
+    168814,
+    168849,
+    168884,
+    168919,
+    168954,
+    168989,
+    169024,
+    169059,
+    169094
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 634693202,
+  "name": "Potato",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_veg_001.png",
+  "bindType": -1,
+  "knownIds": [
+    33758
+  ]
+}

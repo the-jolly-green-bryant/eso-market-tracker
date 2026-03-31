@@ -1,0 +1,13 @@
+{
+  "internalId": 3533904370,
+  "name": "Greatsword of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129643,
+    129655,
+    129667,
+    129679
+  ]
+}

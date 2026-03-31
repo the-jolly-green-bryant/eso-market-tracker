@@ -1,0 +1,10 @@
+{
+  "internalId": 1874436550,
+  "name": "Covenant Stone Trebuchet",
+  "description": "Creates a trebuchet weapon whose stones cause great damage to structures and foes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_005.png",
+  "bindType": -1,
+  "knownIds": [
+    44772
+  ]
+}

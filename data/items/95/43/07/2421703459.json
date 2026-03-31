@@ -1,0 +1,10 @@
+{
+  "internalId": 2421703459,
+  "name": "Crafting Motif 116: Drowned Mariner Gloves",
+  "description": "Use to learn how to make Drowned Mariner Gloves. Also teaches the equivalent Drowned Mariner Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    187769
+  ]
+}

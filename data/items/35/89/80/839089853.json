@@ -1,0 +1,11 @@
+{
+  "internalId": 839089853,
+  "name": "Unexplained Metal Weapon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54776,
+    54781
+  ]
+}

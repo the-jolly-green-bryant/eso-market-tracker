@@ -1,0 +1,17 @@
+{
+  "internalId": 1092266005,
+  "name": "Bright-Throat's Boast Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142607,
+    142628,
+    142649,
+    142670,
+    142691,
+    142712,
+    142733,
+    142754
+  ]
+}

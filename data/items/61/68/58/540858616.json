@@ -1,0 +1,10 @@
+{
+  "internalId": 540858616,
+  "name": "manefish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_perch.png",
+  "bindType": -1,
+  "knownIds": [
+    380719
+  ]
+}

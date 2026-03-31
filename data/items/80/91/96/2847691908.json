@@ -1,0 +1,27 @@
+{
+  "internalId": 2847691908,
+  "name": "Battle Axe of the Infallible Aether",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1138774,
+    1140669,
+    1169004,
+    1257664,
+    1262064,
+    1342813,
+    1342814,
+    1357813,
+    1384422,
+    1391525,
+    1442534,
+    1459103,
+    1469120,
+    1517442,
+    1538970,
+    1630652,
+    1739736,
+    1778708
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalId": 1795235757,
+  "name": "Dagger of the Eternal Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1077143,
+    1171874,
+    1178689,
+    1179422,
+    1249845,
+    1341569,
+    1402647,
+    1516615,
+    1526980,
+    1565060,
+    1569448,
+    1590357,
+    1620137,
+    1716281,
+    1734326
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3609236900,
+  "name": "Tharriker's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205393,
+    205448,
+    205483,
+    205518,
+    205553,
+    205588,
+    205623,
+    205658,
+    205693,
+    205728
+  ]
+}

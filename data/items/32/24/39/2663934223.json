@@ -1,0 +1,19 @@
+{
+  "internalId": 2663934223,
+  "name": "Clever Alchemist Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72155,
+    72190,
+    72225,
+    72260,
+    72295,
+    72330,
+    72365,
+    72400,
+    72435,
+    72470
+  ]
+}

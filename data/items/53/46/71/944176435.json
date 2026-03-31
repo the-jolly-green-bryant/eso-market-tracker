@@ -1,0 +1,18 @@
+{
+  "internalId": 944176435,
+  "name": "Restoration Staff of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97230,
+    97251,
+    97272,
+    97293,
+    97314,
+    97335,
+    97356,
+    97377,
+    97398
+  ]
+}

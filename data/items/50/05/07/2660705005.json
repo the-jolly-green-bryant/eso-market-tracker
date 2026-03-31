@@ -1,0 +1,17 @@
+{
+  "internalId": 2660705005,
+  "name": "Breeches of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91963,
+    91984,
+    92005,
+    92026,
+    92047,
+    92068,
+    92089,
+    92110
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2629859516,
+  "name": "Snow Bear Glow-Wine",
+  "description": "A hearty mulled wine enjoyed during the New Life Festival. This Nord drink is always served piping hot.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_ice_bear_wine.png",
+  "bindType": -1,
+  "knownIds": [
+    112440
+  ]
+}

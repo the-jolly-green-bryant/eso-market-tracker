@@ -1,0 +1,27 @@
+{
+  "internalId": 2695706802,
+  "name": "Axe of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    979010,
+    1083027,
+    1123643,
+    1285906,
+    1339748,
+    1388570,
+    1401501,
+    1409202,
+    1412859,
+    1446182,
+    1492264,
+    1503625,
+    1510603,
+    1609497,
+    1729103,
+    1731850,
+    1756273,
+    1764311
+  ]
+}

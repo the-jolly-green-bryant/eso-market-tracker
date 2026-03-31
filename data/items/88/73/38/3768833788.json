@@ -1,0 +1,22 @@
+{
+  "internalId": 3768833788,
+  "name": "rawhide bracers of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    407848,
+    539156,
+    396381,
+    629687,
+    426845,
+    599891,
+    426876,
+    363894,
+    399567,
+    476491,
+    461608,
+    462801,
+    576096
+  ]
+}

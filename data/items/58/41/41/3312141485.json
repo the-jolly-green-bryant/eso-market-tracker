@@ -1,0 +1,10 @@
+{
+  "internalId": 3312141485,
+  "name": "Wolfsbane Incense",
+  "description": "An ingredient for crafting in the Skinchanger style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_wolfsbane_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    96388
+  ]
+}

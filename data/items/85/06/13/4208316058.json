@@ -1,0 +1,17 @@
+{
+  "internalId": 4208316058,
+  "name": "Steadfast Hero Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144662,
+    144682,
+    144702,
+    144722,
+    144742,
+    144762,
+    144782,
+    144802
+  ]
+}

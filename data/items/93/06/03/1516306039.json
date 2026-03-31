@@ -1,0 +1,17 @@
+{
+  "internalId": 1516306039,
+  "name": "Unflinching Ultimate Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219498,
+    219518,
+    219538,
+    219558,
+    219578,
+    219598,
+    219618,
+    219638
+  ]
+}

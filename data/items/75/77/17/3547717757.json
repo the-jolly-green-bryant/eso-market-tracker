@@ -1,0 +1,17 @@
+{
+  "internalId": 3547717757,
+  "name": "Tracker's Lash Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210367,
+    210388,
+    210409,
+    210430,
+    210451,
+    210472,
+    210493,
+    210514
+  ]
+}

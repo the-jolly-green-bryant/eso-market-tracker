@@ -1,0 +1,10 @@
+{
+  "internalId": 1679042413,
+  "name": "Argonian Post, Rough",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_waf_fencepost01.png",
+  "bindType": -1,
+  "knownIds": [
+    115453
+  ]
+}

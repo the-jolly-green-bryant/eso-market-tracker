@@ -1,0 +1,15 @@
+{
+  "internalId": 1402363743,
+  "name": "steel gauntlets of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    717931,
+    434582,
+    463724,
+    614903,
+    793343,
+    790924
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3678552322,
+  "name": "Restoration Staff of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91384,
+    91405,
+    91426,
+    91447,
+    91468,
+    91489,
+    91510,
+    91531
+  ]
+}

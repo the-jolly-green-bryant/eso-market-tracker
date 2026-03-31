@@ -1,0 +1,10 @@
+{
+  "internalId": 1002331155,
+  "name": "Fang-Furl Contraband Boots",
+  "description": "One of several contraband items smuggled by the Fang-Furl gang into Blackwood, these boots fell into your possession while helping the Happy Averno Shipping Company.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    174865
+  ]
+}

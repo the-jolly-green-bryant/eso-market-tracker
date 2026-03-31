@@ -1,0 +1,10 @@
+{
+  "internalId": 2559021537,
+  "name": "High Elf Bookcase, Verdant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_cabinet004.png",
+  "bindType": -1,
+  "knownIds": [
+    116346
+  ]
+}

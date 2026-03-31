@@ -1,0 +1,10 @@
+{
+  "internalId": 925964763,
+  "name": "Saplings, Highland Cluster",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_greenshdsaplings002.png",
+  "bindType": -1,
+  "knownIds": [
+    120592
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 2339561495,
+  "name": "Z'en's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1380105,
+    1401611,
+    1409463,
+    1476626,
+    1484582,
+    1550756,
+    1633661,
+    1689823,
+    1722828
+  ]
+}

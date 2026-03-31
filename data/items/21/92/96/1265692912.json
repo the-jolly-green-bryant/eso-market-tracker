@@ -1,0 +1,19 @@
+{
+  "internalId": 1265692912,
+  "name": "Telvanni Efficiency Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194967,
+    195022,
+    195057,
+    195092,
+    195127,
+    195162,
+    195197,
+    195232,
+    195267,
+    195302
+  ]
+}

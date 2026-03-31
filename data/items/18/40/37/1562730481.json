@@ -1,0 +1,10 @@
+{
+  "internalId": 1562730481,
+  "name": "Rekura",
+  "description": "Rekura",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_029.png",
+  "bindType": -1,
+  "knownIds": [
+    45815
+  ]
+}

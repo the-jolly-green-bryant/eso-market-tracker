@@ -1,0 +1,10 @@
+{
+  "internalId": 3399557439,
+  "name": "Sip of Speed",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_010_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    27041
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1229673980,
+  "name": "Pauldron of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88733,
+    88753,
+    88773,
+    88793,
+    88813,
+    88833,
+    88853,
+    88873
+  ]
+}

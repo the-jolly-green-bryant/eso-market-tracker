@@ -1,0 +1,10 @@
+{
+  "internalId": 2371525045,
+  "name": "Steadfast's Mettle Set Box",
+  "description": "Contains 5 gear pieces from the Steadfast's Mettle set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
+  "bindType": 3,
+  "knownIds": [
+    188259
+  ]
+}

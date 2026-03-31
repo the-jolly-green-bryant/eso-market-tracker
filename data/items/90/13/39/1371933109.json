@@ -1,0 +1,19 @@
+{
+  "internalId": 1371933109,
+  "name": "Inferno Staff of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185159,
+    185214,
+    185249,
+    185284,
+    185319,
+    185354,
+    185389,
+    185424,
+    185459,
+    185494
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1399976345,
+  "name": "Shalk's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96590,
+    96610,
+    96630,
+    96650,
+    96670,
+    96690,
+    96710,
+    96730
+  ]
+}

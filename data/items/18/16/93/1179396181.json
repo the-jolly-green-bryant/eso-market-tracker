@@ -1,0 +1,17 @@
+{
+  "internalId": 1179396181,
+  "name": "Maul of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117457,
+    117477,
+    117497,
+    117517,
+    117537,
+    117557,
+    117577,
+    117597
+  ]
+}

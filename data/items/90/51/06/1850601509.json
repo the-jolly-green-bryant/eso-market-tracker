@@ -1,0 +1,11 @@
+{
+  "internalId": 1850601509,
+  "name": "Jubilee Cake Voucher",
+  "description": "Good for one special-occasion cake from the renowned baker, Chef Donolon. Use to start the chef's quest. Look for Donolon's bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_crimson_ticket.png",
+  "bindType": 3,
+  "knownIds": [
+    147518,
+    73871
+  ]
+}

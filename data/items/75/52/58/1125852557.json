@@ -1,0 +1,19 @@
+{
+  "internalId": 1125852557,
+  "name": "Dagger of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70655,
+    70690,
+    70725,
+    70760,
+    70795,
+    70830,
+    70865,
+    70900,
+    70935,
+    70970
+  ]
+}

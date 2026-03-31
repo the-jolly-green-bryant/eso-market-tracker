@@ -1,0 +1,12 @@
+{
+  "internalId": 2029482945,
+  "name": "Mace of Marauder's Haste",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_mace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155150,
+    155171,
+    155192
+  ]
+}

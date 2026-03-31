@@ -1,0 +1,10 @@
+{
+  "internalId": 200664072,
+  "name": "Crafting Motif 55: Dreadhorn Bows",
+  "description": "Use to learn how to make Dreadhorn Bows. Also teaches the equivalent Dreadhorn Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    132569
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4132625743,
+  "name": "Plants, Low Weeds",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_greenshadegrassleaves.png",
+  "bindType": -1,
+  "knownIds": [
+    120598
+  ]
+}

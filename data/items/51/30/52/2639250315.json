@@ -1,0 +1,13 @@
+{
+  "internalId": 2639250315,
+  "name": "Lightning Staff of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95980,
+    96169,
+    96253,
+    96353
+  ]
+}

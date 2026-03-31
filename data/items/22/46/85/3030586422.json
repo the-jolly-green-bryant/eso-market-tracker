@@ -1,0 +1,17 @@
+{
+  "internalId": 3030586422,
+  "name": "Jerkin of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85098,
+    85119,
+    85140,
+    85161,
+    85182,
+    85203,
+    85224,
+    85245
+  ]
+}

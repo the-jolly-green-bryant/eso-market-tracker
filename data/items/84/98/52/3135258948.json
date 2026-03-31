@@ -1,0 +1,10 @@
+{
+  "internalId": 3135258948,
+  "name": "Winter Festival Hearthfire",
+  "description": "When placed in your home, allows you to craft Provisioning items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holidayhearthlogs001.png",
+  "bindType": -1,
+  "knownIds": [
+    146050
+  ]
+}

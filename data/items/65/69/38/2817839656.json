@@ -1,0 +1,10 @@
+{
+  "internalId": 2817839656,
+  "name": "Weapons: New Moon Acolyte",
+  "description": "A crafted set found in Southern Elsweyr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    156531
+  ]
+}

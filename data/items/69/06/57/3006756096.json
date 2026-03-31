@@ -1,0 +1,17 @@
+{
+  "internalId": 3006756096,
+  "name": "Sabatons of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78955,
+    78990,
+    79025,
+    79060,
+    79095,
+    79130,
+    79165,
+    79238
+  ]
+}

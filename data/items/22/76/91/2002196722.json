@@ -1,0 +1,13 @@
+{
+  "internalId": 2002196722,
+  "name": "Stuhn's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161268,
+    161270,
+    161272,
+    161274
+  ]
+}

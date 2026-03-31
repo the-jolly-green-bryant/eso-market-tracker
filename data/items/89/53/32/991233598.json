@@ -1,0 +1,10 @@
+{
+  "internalId": 991233598,
+  "name": "Hlaalu Box, Trinket",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlasmallstorage003.png",
+  "bindType": -1,
+  "knownIds": [
+    126535
+  ]
+}

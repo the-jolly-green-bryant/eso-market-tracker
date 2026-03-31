@@ -1,0 +1,10 @@
+{
+  "internalId": 57868082,
+  "name": "Boots of Redistribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60639
+  ]
+}

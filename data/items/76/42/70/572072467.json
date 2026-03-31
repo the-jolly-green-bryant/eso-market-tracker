@@ -1,0 +1,20 @@
+{
+  "internalId": 572072467,
+  "name": "Blackrose Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_1hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1276526,
+    1339045,
+    1351755,
+    1384781,
+    1411301,
+    1411302,
+    1540572,
+    1564415,
+    1566560,
+    1659786,
+    1776765
+  ]
+}

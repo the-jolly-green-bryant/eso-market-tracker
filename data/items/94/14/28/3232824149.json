@@ -1,0 +1,10 @@
+{
+  "internalId": 3232824149,
+  "name": "Tear-Stained Staff of the War Maiden",
+  "description": "Sun-in-Shadow gave you this staff for helping Eoki at Vassamsi Mine. Her relationship with Eoki will not be so easy to fix, however.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126052
+  ]
+}

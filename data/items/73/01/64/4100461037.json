@@ -1,0 +1,17 @@
+{
+  "internalId": 4100461037,
+  "name": "Gloves of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84722,
+    84743,
+    84764,
+    84785,
+    84806,
+    84827,
+    84848,
+    84869
+  ]
+}

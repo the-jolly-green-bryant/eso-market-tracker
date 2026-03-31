@@ -1,0 +1,10 @@
+{
+  "internalId": 1549433813,
+  "name": "Flower, Towering Purple Bat Bloom",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_vrdbatflower004.png",
+  "bindType": -1,
+  "knownIds": [
+    125548
+  ]
+}

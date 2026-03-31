@@ -1,0 +1,10 @@
+{
+  "internalId": 1566374384,
+  "name": "Apocrypha Desk, Marble",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_deskmedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    197537
+  ]
+}

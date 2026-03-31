@@ -1,0 +1,10 @@
+{
+  "internalId": 2447802502,
+  "name": "Beets",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beets.png",
+  "bindType": -1,
+  "knownIds": [
+    34309
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1084430864,
+  "name": "Greaves of the Wolf-Father",
+  "description": "A set of lycanthropic leggings, in thanks for saving a werewolf's mother.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15540
+  ]
+}

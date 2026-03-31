@@ -1,0 +1,13 @@
+{
+  "internalId": 1856587316,
+  "name": "Kraglen's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1533966,
+    1594986,
+    1677526,
+    1723015
+  ]
+}

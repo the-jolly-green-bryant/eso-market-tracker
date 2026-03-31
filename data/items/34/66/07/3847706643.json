@@ -1,0 +1,10 @@
+{
+  "internalId": 3847706643,
+  "name": "Bat Bloom",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mphclusterbatflower002.png",
+  "bindType": -1,
+  "knownIds": [
+    120888
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3336258019,
+  "name": "Despair",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    820120,
+    689390,
+    488099,
+    800654,
+    947693,
+    1081973,
+    1445909,
+    1455074
+  ]
+}

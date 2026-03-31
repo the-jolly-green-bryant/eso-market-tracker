@@ -1,0 +1,18 @@
+{
+  "internalId": 1661939452,
+  "name": "Stone-Talker's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1467244,
+    1472547,
+    1514268,
+    1528233,
+    1529922,
+    1539995,
+    1621086,
+    1731691,
+    1761578
+  ]
+}

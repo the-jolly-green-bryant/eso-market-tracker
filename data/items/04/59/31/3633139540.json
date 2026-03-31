@@ -1,0 +1,10 @@
+{
+  "internalId": 3633139540,
+  "name": "Apocrypha Desk, Intricate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_deskhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198410
+  ]
+}

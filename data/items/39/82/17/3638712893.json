@@ -1,0 +1,22 @@
+{
+  "internalId": 3638712893,
+  "name": "Storm Master's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    942496,
+    1073611,
+    1172344,
+    1177131,
+    1314650,
+    1317435,
+    1415624,
+    1446661,
+    1471376,
+    1523006,
+    1524820,
+    1531993,
+    1585387
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3374076326,
+  "name": "Sword of Unfathomable Darkness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133043,
+    133063,
+    133083,
+    133103,
+    133123,
+    133143,
+    133163,
+    133183
+  ]
+}

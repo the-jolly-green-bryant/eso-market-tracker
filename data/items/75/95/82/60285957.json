@@ -1,0 +1,17 @@
+{
+  "internalId": 60285957,
+  "name": "Battle Axe of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78611,
+    78646,
+    78681,
+    78716,
+    78751,
+    78786,
+    78821,
+    78856
+  ]
+}

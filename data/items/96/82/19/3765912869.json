@@ -1,0 +1,17 @@
+{
+  "internalId": 3765912869,
+  "name": "Greatsword of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78613,
+    78648,
+    78683,
+    78718,
+    78753,
+    78788,
+    78823,
+    78858
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1804818010,
+  "name": "Elsweyr Rack, Poles",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_merchantrack001.png",
+  "bindType": -1,
+  "knownIds": [
+    151805
+  ]
+}

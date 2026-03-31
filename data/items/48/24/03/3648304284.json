@@ -1,0 +1,19 @@
+{
+  "internalId": 3648304284,
+  "name": "Jack of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179582,
+    179637,
+    179672,
+    179707,
+    179742,
+    179777,
+    179812,
+    179847,
+    179882,
+    179917
+  ]
+}

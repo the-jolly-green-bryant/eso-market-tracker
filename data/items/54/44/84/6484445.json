@@ -1,0 +1,11 @@
+{
+  "internalId": 6484445,
+  "name": "Everfrost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_009.png",
+  "bindType": -1,
+  "knownIds": [
+    947137,
+    1317472
+  ]
+}

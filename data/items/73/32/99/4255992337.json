@@ -1,0 +1,19 @@
+{
+  "internalId": 4255992337,
+  "name": "Hat of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184794,
+    184849,
+    184884,
+    184919,
+    184954,
+    184989,
+    185024,
+    185059,
+    185094,
+    185129
+  ]
+}

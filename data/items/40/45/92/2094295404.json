@@ -1,0 +1,10 @@
+{
+  "internalId": 2094295404,
+  "name": "Velothi Shroud, Nerevar",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_tapestry010.png",
+  "bindType": -1,
+  "knownIds": [
+    126753
+  ]
+}

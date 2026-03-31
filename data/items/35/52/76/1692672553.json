@@ -1,0 +1,10 @@
+{
+  "internalId": 1692672553,
+  "name": "Crafting Motif 107: Annihilarch's Chosen Shoulders",
+  "description": "Use to learn how to make Annihilarch's Chosen Shoulders. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    178540
+  ]
+}

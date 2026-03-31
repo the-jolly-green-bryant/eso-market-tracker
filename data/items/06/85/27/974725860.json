@@ -1,0 +1,21 @@
+{
+  "internalId": 974725860,
+  "name": "Frozen Watcher's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1347258,
+    1378836,
+    1396280,
+    1410451,
+    1413527,
+    1455779,
+    1558669,
+    1581616,
+    1605820,
+    1734206,
+    1752988,
+    1774058
+  ]
+}

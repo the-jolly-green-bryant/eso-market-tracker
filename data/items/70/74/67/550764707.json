@@ -1,0 +1,12 @@
+{
+  "internalId": 550764707,
+  "name": "Girdle of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99185,
+    99205,
+    99225
+  ]
+}

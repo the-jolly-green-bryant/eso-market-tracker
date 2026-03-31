@@ -1,0 +1,10 @@
+{
+  "internalId": 2123290041,
+  "name": "Hlaalu Armchair, Polished",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_extchair004.png",
+  "bindType": -1,
+  "knownIds": [
+    126451
+  ]
+}

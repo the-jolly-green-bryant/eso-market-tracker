@@ -1,0 +1,16 @@
+{
+  "internalId": 233668328,
+  "name": "Clothier's Satchel (Leather) VIII",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1324232,
+    1333528,
+    1333539,
+    1356773,
+    1356994,
+    1357459,
+    1397106
+  ]
+}

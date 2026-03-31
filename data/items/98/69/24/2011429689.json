@@ -1,0 +1,24 @@
+{
+  "internalId": 2011429689,
+  "name": "Staff of the Banished",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    574166,
+    696948,
+    576293,
+    581576,
+    578275,
+    693948,
+    805199,
+    829054,
+    895430,
+    937424,
+    947328,
+    1077800,
+    1481748,
+    1519753,
+    1598213
+  ]
+}

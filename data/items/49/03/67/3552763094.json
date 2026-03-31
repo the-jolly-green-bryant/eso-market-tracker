@@ -1,0 +1,10 @@
+{
+  "internalId": 3552763094,
+  "name": "Breton Bench, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_bench002.png",
+  "bindType": -1,
+  "knownIds": [
+    115183
+  ]
+}

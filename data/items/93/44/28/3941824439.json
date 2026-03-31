@@ -1,0 +1,17 @@
+{
+  "internalId": 3941824439,
+  "name": "Maul of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76920,
+    76940,
+    76960,
+    76980,
+    77000,
+    77020,
+    77040,
+    77060
+  ]
+}

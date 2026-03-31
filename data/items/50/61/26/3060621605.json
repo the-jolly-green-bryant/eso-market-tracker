@@ -1,0 +1,20 @@
+{
+  "internalId": 3060621605,
+  "name": "Lucent Echoes Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1722058,
+    1722485,
+    1723232,
+    1731654,
+    1732418,
+    1733075,
+    1733318,
+    1753355,
+    1757652,
+    1760400,
+    1761047
+  ]
+}

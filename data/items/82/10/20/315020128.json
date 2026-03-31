@@ -1,0 +1,20 @@
+{
+  "internalId": 315020128,
+  "name": "Glacial Guardian's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568387,
+    1569636,
+    1569997,
+    1577420,
+    1595420,
+    1622315,
+    1642741,
+    1689830,
+    1728864,
+    1732177,
+    1748552
+  ]
+}

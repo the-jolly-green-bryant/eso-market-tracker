@@ -1,0 +1,17 @@
+{
+  "internalId": 128274002,
+  "name": "Lightning Staff of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180274,
+    180294,
+    180314,
+    180334,
+    180354,
+    180374,
+    180394,
+    180414
+  ]
+}

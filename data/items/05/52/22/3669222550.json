@@ -1,0 +1,14 @@
+{
+  "internalId": 3669222550,
+  "name": "Grave-Stake Collector Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142995,
+    143030,
+    143065,
+    143100,
+    143135
+  ]
+}

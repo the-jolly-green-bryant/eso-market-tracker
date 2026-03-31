@@ -1,0 +1,10 @@
+{
+  "internalId": 3200863596,
+  "name": "Bloodstone",
+  "description": "Can be used to enhance armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_enchantment_baxe_bloodstone_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    30219
+  ]
+}

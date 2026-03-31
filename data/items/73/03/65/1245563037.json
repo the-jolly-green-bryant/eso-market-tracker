@@ -1,0 +1,23 @@
+{
+  "internalId": 1245563037,
+  "name": "Draugr's Rest Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1171896,
+    1182329,
+    1247817,
+    1370106,
+    1372948,
+    1520965,
+    1561737,
+    1567824,
+    1600928,
+    1640852,
+    1642367,
+    1728921,
+    1728924,
+    1733073
+  ]
+}

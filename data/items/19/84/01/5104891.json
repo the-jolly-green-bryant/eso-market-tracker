@@ -1,0 +1,19 @@
+{
+  "internalId": 5104891,
+  "name": "Deadlands Demolisher's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179204,
+    179259,
+    179294,
+    179329,
+    179364,
+    179399,
+    179434,
+    179469,
+    179504,
+    179539
+  ]
+}

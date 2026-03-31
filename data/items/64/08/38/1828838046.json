@@ -1,0 +1,19 @@
+{
+  "internalId": 1828838046,
+  "name": "Telvanni Efficiency Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194950,
+    195005,
+    195040,
+    195075,
+    195110,
+    195145,
+    195180,
+    195215,
+    195250,
+    195285
+  ]
+}

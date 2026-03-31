@@ -1,0 +1,28 @@
+{
+  "internalId": 3035878189,
+  "name": "Lightning Staff of the Lich",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lich_staff_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1170365,
+    1179842,
+    1209031,
+    1281116,
+    1281243,
+    1292585,
+    1334203,
+    1342892,
+    1408504,
+    1424057,
+    1464780,
+    1492987,
+    1508195,
+    1547846,
+    1549732,
+    1566125,
+    1621972,
+    1697497,
+    1750963
+  ]
+}

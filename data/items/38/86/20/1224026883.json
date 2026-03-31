@@ -1,0 +1,15 @@
+{
+  "internalId": 1224026883,
+  "name": "Shield of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_shield_b.png",
+  "bindType": 2,
+  "knownIds": [
+    87130,
+    87151,
+    87172,
+    87193,
+    87256,
+    87277
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 163754304,
+  "name": "Red Asp Head Potion Opener",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
+  "bindType": -1,
+  "knownIds": [
+    652864
+  ]
+}

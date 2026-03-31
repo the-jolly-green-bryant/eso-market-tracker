@@ -1,0 +1,10 @@
+{
+  "internalId": 2590023907,
+  "name": "Staff of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43787
+  ]
+}

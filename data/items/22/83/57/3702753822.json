@@ -1,0 +1,19 @@
+{
+  "internalId": 3702753822,
+  "name": "Dauntless Combatant's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    159100,
+    159102,
+    159104,
+    159106,
+    159108,
+    159110,
+    159112,
+    159114,
+    159116,
+    159118
+  ]
+}

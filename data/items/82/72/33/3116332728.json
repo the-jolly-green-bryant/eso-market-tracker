@@ -1,0 +1,10 @@
+{
+  "internalId": 3116332728,
+  "name": "Crimson Shard of Moonshadow",
+  "description": "This is a small sized house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_crgmagecrystal001.png",
+  "bindType": -1,
+  "knownIds": [
+    126119
+  ]
+}

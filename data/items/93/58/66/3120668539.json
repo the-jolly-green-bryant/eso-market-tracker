@@ -1,0 +1,19 @@
+{
+  "internalId": 3120668539,
+  "name": "Spell Parasite's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    163092,
+    163094,
+    163096,
+    163098,
+    163100,
+    163102,
+    163104,
+    163106,
+    163108,
+    163110
+  ]
+}

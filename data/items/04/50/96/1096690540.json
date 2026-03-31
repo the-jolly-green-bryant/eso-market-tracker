@@ -1,0 +1,10 @@
+{
+  "internalId": 1096690540,
+  "name": "Shapeshift Slayer",
+  "description": "This weapon smells vaguely of moon-sugar candy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10225
+  ]
+}

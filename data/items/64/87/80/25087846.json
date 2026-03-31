@@ -1,0 +1,19 @@
+{
+  "internalId": 25087846,
+  "name": "Battle Axe of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59949,
+    59984,
+    60019,
+    60054,
+    60089,
+    60124,
+    60159,
+    60194,
+    60229,
+    60264
+  ]
+}

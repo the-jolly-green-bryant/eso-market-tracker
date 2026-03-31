@@ -1,0 +1,13 @@
+{
+  "internalId": 3110358706,
+  "name": "Spell Parasite's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163301,
+    163336,
+    163371,
+    163406
+  ]
+}

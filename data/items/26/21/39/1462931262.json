@@ -1,0 +1,10 @@
+{
+  "internalId": 1462931262,
+  "name": "Redoran End Table, Sanded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlaendtable002.png",
+  "bindType": -1,
+  "knownIds": [
+    126417
+  ]
+}

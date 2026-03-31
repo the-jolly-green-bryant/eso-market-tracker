@@ -1,0 +1,14 @@
+{
+  "internalId": 1626129621,
+  "name": "Bracers of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70112,
+    70147,
+    70182,
+    70217,
+    70252
+  ]
+}

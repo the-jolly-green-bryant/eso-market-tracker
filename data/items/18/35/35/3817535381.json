@@ -1,0 +1,19 @@
+{
+  "internalId": 3817535381,
+  "name": "Druid's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185565,
+    185620,
+    185655,
+    185690,
+    185725,
+    185760,
+    185795,
+    185830,
+    185865,
+    185900
+  ]
+}

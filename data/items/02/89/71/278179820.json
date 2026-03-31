@@ -1,0 +1,13 @@
+{
+  "internalId": 278179820,
+  "name": "Ring of the Scathing Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    947631,
+    952303,
+    1445500,
+    1451051
+  ]
+}

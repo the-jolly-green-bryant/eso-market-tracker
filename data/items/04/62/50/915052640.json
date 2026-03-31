@@ -1,0 +1,19 @@
+{
+  "internalId": 915052640,
+  "name": "Naga Shaman Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    143196,
+    143198,
+    143200,
+    143202,
+    143204,
+    143206,
+    143208,
+    143210,
+    143212,
+    143214
+  ]
+}

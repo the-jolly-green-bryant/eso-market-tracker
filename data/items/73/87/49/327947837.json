@@ -1,0 +1,19 @@
+{
+  "internalId": 327947837,
+  "name": "Greaves of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161612,
+    161667,
+    161702,
+    161737,
+    161772,
+    161807,
+    161842,
+    161877,
+    161912,
+    161947
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 770505955,
+  "name": "Dead-Water's Guile Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_1hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142421,
+    142441,
+    142461,
+    142481,
+    142501,
+    142521,
+    142541,
+    142561
+  ]
+}

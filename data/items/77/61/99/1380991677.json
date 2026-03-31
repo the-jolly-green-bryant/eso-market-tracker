@@ -1,0 +1,12 @@
+{
+  "internalId": 1380991677,
+  "name": "Exotic Wooden Weapon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54735,
+    54740,
+    54745
+  ]
+}

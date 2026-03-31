@@ -1,0 +1,10 @@
+{
+  "internalId": 4018047,
+  "name": "Stale Radish",
+  "description": "A common food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_stems.png",
+  "bindType": -1,
+  "knownIds": [
+    30588
+  ]
+}

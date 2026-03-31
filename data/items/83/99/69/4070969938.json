@@ -1,0 +1,18 @@
+{
+  "internalId": 4070969938,
+  "name": "Apocryphal Inspiration Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628640,
+    1628833,
+    1630071,
+    1630275,
+    1636345,
+    1637686,
+    1681909,
+    1683519,
+    1687099
+  ]
+}

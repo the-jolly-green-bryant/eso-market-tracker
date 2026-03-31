@@ -1,0 +1,10 @@
+{
+  "internalId": 755712994,
+  "name": "Palm, Blooming Tropical",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_u36mediumleafy005.png",
+  "bindType": -1,
+  "knownIds": [
+    193791
+  ]
+}

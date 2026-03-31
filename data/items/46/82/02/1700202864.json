@@ -1,0 +1,16 @@
+{
+  "internalId": 1700202864,
+  "name": "Gossamer Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1163379,
+    1195320,
+    1224104,
+    1602415,
+    1684171,
+    1686923,
+    1735417
+  ]
+}

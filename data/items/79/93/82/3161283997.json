@@ -1,0 +1,10 @@
+{
+  "internalId": 3161283997,
+  "name": "Markarth Archway, Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_markwalkwaycap001.png",
+  "bindType": -1,
+  "knownIds": [
+    171773
+  ]
+}

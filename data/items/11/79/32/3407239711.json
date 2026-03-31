@@ -1,0 +1,13 @@
+{
+  "internalId": 3407239711,
+  "name": "Shock Master's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    912379,
+    918247,
+    926623,
+    926701
+  ]
+}

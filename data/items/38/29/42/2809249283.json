@@ -1,0 +1,18 @@
+{
+  "internalId": 2809249283,
+  "name": "Stuhn's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161303,
+    161338,
+    161373,
+    161408,
+    161443,
+    161478,
+    161513,
+    161548,
+    161583
+  ]
+}

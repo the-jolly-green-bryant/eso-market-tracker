@@ -1,0 +1,15 @@
+{
+  "internalId": 1739751241,
+  "name": "Ironblood Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1455448,
+    1588035,
+    1594757,
+    1637859,
+    1659248,
+    1732296
+  ]
+}

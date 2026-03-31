@@ -1,0 +1,18 @@
+{
+  "internalId": 1710423756,
+  "name": "Stuhn's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161283,
+    161318,
+    161353,
+    161388,
+    161423,
+    161458,
+    161493,
+    161528,
+    161563
+  ]
+}

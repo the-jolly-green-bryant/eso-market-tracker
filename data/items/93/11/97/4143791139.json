@@ -1,0 +1,23 @@
+{
+  "internalId": 4143791139,
+  "name": "Null Arca Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719721,
+    1720059,
+    1723234,
+    1726412,
+    1726426,
+    1732326,
+    1732392,
+    1732691,
+    1741711,
+    1754954,
+    1763942,
+    1776172,
+    1779626,
+    1780016
+  ]
+}

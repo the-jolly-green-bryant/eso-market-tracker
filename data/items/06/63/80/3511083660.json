@@ -1,0 +1,14 @@
+{
+  "internalId": 3511083660,
+  "name": "Greaves of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75140,
+    75160,
+    75180,
+    75200,
+    75220
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2639909432,
+  "name": "Altmer Stable, Summerset",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_housingaltstable001.png",
+  "bindType": -1,
+  "knownIds": [
+    203584
+  ]
+}

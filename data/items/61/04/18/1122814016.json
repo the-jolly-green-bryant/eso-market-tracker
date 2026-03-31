@@ -1,0 +1,14 @@
+{
+  "internalId": 1122814016,
+  "name": "Pelinal's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76275,
+    76310,
+    76345,
+    76380,
+    76415
+  ]
+}

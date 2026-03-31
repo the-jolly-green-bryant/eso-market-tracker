@@ -1,0 +1,10 @@
+{
+  "internalId": 518228565,
+  "name": "Tree, Dagger Bark",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_des_joshuatree001.png",
+  "bindType": -1,
+  "knownIds": [
+    159457
+  ]
+}

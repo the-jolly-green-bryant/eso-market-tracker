@@ -1,0 +1,10 @@
+{
+  "internalId": 3300347933,
+  "name": "Crafting Motif 126: Shardborn Shoulders",
+  "description": "Use to learn how to make Shardborn Shoulders. Also teaches the equivalent Shardborn Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203372
+  ]
+}

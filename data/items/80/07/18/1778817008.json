@@ -1,0 +1,14 @@
+{
+  "internalId": 1778817008,
+  "name": "Spell Parasite's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163276,
+    163311,
+    163346,
+    163381,
+    163416
+  ]
+}

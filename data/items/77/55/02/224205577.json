@@ -1,0 +1,10 @@
+{
+  "internalId": 224205577,
+  "name": "greater Glyph of Weapon Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_berserking.png",
+  "bindType": -1,
+  "knownIds": [
+    1439408
+  ]
+}

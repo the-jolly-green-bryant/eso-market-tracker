@@ -1,0 +1,10 @@
+{
+  "internalId": 845763693,
+  "name": "Deer Carcass, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_deercarcass001.png",
+  "bindType": -1,
+  "knownIds": [
+    118288
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3020589964,
+  "name": "Greatsword of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86195,
+    86216,
+    86237,
+    86258,
+    86279,
+    86300,
+    86321,
+    86342
+  ]
+}

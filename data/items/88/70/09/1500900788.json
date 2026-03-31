@@ -1,0 +1,17 @@
+{
+  "internalId": 1500900788,
+  "name": "quicksilver greatsword of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    598459,
+    758834,
+    598162,
+    797246,
+    797206,
+    794038,
+    418472,
+    773937
+  ]
+}

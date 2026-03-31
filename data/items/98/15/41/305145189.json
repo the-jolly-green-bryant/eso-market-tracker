@@ -1,0 +1,10 @@
+{
+  "internalId": 305145189,
+  "name": "Flowers, Poinsettia",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_poinsettiabush002.png",
+  "bindType": -1,
+  "knownIds": [
+    214480
+  ]
+}

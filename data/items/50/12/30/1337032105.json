@@ -1,0 +1,10 @@
+{
+  "internalId": 1337032105,
+  "name": "Spider Cultist Cowl",
+  "description": "A Light Armor set found in Fungal Grotto.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114148
+  ]
+}

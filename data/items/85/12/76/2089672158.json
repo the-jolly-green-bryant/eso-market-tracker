@@ -1,0 +1,19 @@
+{
+  "internalId": 2089672158,
+  "name": "Yandir's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2hmace.png",
+  "bindType": -1,
+  "knownIds": [
+    1387477,
+    1387535,
+    1387703,
+    1391426,
+    1409541,
+    1484929,
+    1490430,
+    1490431,
+    1626793,
+    1652024
+  ]
+}

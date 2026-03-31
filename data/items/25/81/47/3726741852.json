@@ -1,0 +1,17 @@
+{
+  "internalId": 3726741852,
+  "name": "Inferno Staff of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210546,
+    210566,
+    210586,
+    210606,
+    210626,
+    210646,
+    210666,
+    210686
+  ]
+}

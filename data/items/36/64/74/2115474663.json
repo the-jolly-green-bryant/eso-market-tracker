@@ -1,0 +1,10 @@
+{
+  "internalId": 2115474663,
+  "name": "Necrom Crematory, Furnace",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_necfuneralpyre001.png",
+  "bindType": -1,
+  "knownIds": [
+    198010
+  ]
+}

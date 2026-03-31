@@ -1,0 +1,17 @@
+{
+  "internalId": 1389413296,
+  "name": "Epaulets of Prayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90437,
+    90458,
+    90479,
+    90500,
+    90521,
+    90542,
+    90563,
+    90584
+  ]
+}

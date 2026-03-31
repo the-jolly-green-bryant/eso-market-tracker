@@ -1,0 +1,19 @@
+{
+  "internalId": 3185125660,
+  "name": "New Moon Acolyte's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156159,
+    156214,
+    156249,
+    156284,
+    156319,
+    156354,
+    156389,
+    156424,
+    156459,
+    156494
+  ]
+}

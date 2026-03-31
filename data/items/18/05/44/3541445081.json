@@ -1,0 +1,22 @@
+{
+  "internalId": 3541445081,
+  "name": "Shield of Drake's Rush",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1417174,
+    1418996,
+    1419281,
+    1453108,
+    1493984,
+    1508831,
+    1508862,
+    1508919,
+    1541750,
+    1544840,
+    1551428,
+    1591526,
+    1626948
+  ]
+}

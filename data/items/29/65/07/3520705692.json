@@ -1,0 +1,18 @@
+{
+  "internalId": 3520705692,
+  "name": "Girdle of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158390,
+    158425,
+    158460,
+    158495,
+    158530,
+    158565,
+    158600,
+    158635,
+    158670
+  ]
+}

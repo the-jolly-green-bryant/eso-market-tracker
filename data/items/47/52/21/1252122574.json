@@ -1,0 +1,19 @@
+{
+  "internalId": 1252122574,
+  "name": "Hat of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69591,
+    69626,
+    69661,
+    69696,
+    69731,
+    69766,
+    69801,
+    69836,
+    69871,
+    69906
+  ]
+}

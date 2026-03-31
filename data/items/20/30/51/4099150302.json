@@ -1,0 +1,15 @@
+{
+  "internalId": 4099150302,
+  "name": "Lady Malygda's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undladymalygda_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1650397,
+    1750130,
+    1761476,
+    1775573,
+    1775971,
+    1778388
+  ]
+}

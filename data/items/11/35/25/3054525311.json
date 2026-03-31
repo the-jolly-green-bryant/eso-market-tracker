@@ -1,0 +1,22 @@
+{
+  "internalId": 3054525311,
+  "name": "Pillar of Nirn Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1189935,
+    1395285,
+    1418266,
+    1442100,
+    1478938,
+    1485918,
+    1545250,
+    1588041,
+    1588430,
+    1589294,
+    1589296,
+    1590116,
+    1659244
+  ]
+}

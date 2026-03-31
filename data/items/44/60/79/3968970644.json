@@ -1,0 +1,10 @@
+{
+  "internalId": 3968970644,
+  "name": "Caravaner's Greaves",
+  "description": "Dents and scratches cover these old metal greaves. Despite their age, they remain fairly sturdy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    152246
+  ]
+}

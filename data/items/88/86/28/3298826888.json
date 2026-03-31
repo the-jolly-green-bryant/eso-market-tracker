@@ -1,0 +1,19 @@
+{
+  "internalId": 3298826888,
+  "name": "Moon Hunter Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_1hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1306457,
+    1341979,
+    1482232,
+    1594850,
+    1605676,
+    1658018,
+    1712981,
+    1731590,
+    1732143,
+    1744486
+  ]
+}

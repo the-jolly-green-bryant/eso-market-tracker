@@ -1,0 +1,11 @@
+{
+  "internalId": 1889373692,
+  "name": "slight glyph of health recovery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_healthregen.png",
+  "bindType": -1,
+  "knownIds": [
+    455849,
+    1436765
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3834349376,
+  "name": "Restoration Staff of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168758,
+    168813,
+    168848,
+    168883,
+    168918,
+    168953,
+    168988,
+    169023,
+    169058,
+    169093
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4248024997,
+  "name": "Cured Meat Pile",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_meatchuncks005.png",
+  "bindType": -1,
+  "knownIds": [
+    118180
+  ]
+}

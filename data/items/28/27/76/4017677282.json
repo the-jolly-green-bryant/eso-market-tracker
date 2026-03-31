@@ -1,0 +1,17 @@
+{
+  "internalId": 4017677282,
+  "name": "Belt of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210557,
+    210577,
+    210597,
+    210617,
+    210637,
+    210657,
+    210677,
+    210697
+  ]
+}

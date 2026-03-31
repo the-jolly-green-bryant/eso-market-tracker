@@ -1,0 +1,10 @@
+{
+  "internalId": 3582544605,
+  "name": "Topgrain Hide Scraps",
+  "description": "Ten of these items can be refined to make topgrain hide.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_scraps_fell.png",
+  "bindType": -1,
+  "knownIds": [
+    23142
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3142750042,
+  "name": "Scaly Durzog Hide",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_hide_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    408559,
+    576387,
+    554542,
+    923139,
+    1162250,
+    1227866,
+    1233629,
+    1255920,
+    1277771,
+    1318165
+  ]
+}

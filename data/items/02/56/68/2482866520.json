@@ -1,0 +1,10 @@
+{
+  "internalId": 2482866520,
+  "name": "Parcels, Wrapped",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargogoods001.png",
+  "bindType": -1,
+  "knownIds": [
+    121049
+  ]
+}

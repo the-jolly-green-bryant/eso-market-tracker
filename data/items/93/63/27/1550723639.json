@@ -1,0 +1,12 @@
+{
+  "internalId": 1550723639,
+  "name": "Soulcleaver Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1692848,
+    1715940,
+    1725665
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1047268924,
+  "name": "An Alfiq in Skingrad Painting, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_metalframepainting001.png",
+  "bindType": -1,
+  "knownIds": [
+    204803
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1523175836,
+  "name": "Basalt-Blooded Warrior Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_sheild.png",
+  "bindType": -1,
+  "knownIds": [
+    1689534,
+    1691833,
+    1696804,
+    1697286,
+    1718111,
+    1718846,
+    1757899,
+    1777494
+  ]
+}

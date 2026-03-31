@@ -1,0 +1,19 @@
+{
+  "internalId": 4246121388,
+  "name": "Unchained Aggressor's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    158726,
+    158728,
+    158730,
+    158732,
+    158734,
+    158736,
+    158738,
+    158740,
+    158742,
+    158744
+  ]
+}

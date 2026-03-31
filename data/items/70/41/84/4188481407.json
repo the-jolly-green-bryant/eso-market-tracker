@@ -1,0 +1,10 @@
+{
+  "internalId": 4188481407,
+  "name": "Orichalcum Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_base_iron_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    23107
+  ]
+}

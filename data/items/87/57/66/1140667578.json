@@ -1,0 +1,17 @@
+{
+  "internalId": 1140667578,
+  "name": "Pauldrons of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_heavy_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167450,
+    167470,
+    167490,
+    167510,
+    167530,
+    167550,
+    167570,
+    167590
+  ]
+}

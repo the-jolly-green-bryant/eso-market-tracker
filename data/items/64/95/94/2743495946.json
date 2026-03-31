@@ -1,0 +1,19 @@
+{
+  "internalId": 2743495946,
+  "name": "Forest Wraith's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192024,
+    192079,
+    192114,
+    192149,
+    192184,
+    192219,
+    192254,
+    192289,
+    192324,
+    192359
+  ]
+}

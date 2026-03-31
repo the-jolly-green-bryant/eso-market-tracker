@@ -1,0 +1,10 @@
+{
+  "internalId": 1011149551,
+  "name": "Calcinium Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ingot_calcinium.png",
+  "bindType": -1,
+  "knownIds": [
+    46127
+  ]
+}

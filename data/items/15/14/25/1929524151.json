@@ -1,0 +1,11 @@
+{
+  "internalId": 1929524151,
+  "name": "Mate Infusion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
+  "bindType": -1,
+  "knownIds": [
+    61046,
+    34035
+  ]
+}

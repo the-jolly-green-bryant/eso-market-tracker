@@ -1,0 +1,10 @@
+{
+  "internalId": 979356815,
+  "name": "Druidic Chair, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonechair001.png",
+  "bindType": -1,
+  "knownIds": [
+    191167
+  ]
+}

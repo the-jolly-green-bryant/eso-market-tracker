@@ -1,0 +1,17 @@
+{
+  "internalId": 803613905,
+  "name": "Jerkin of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91964,
+    91985,
+    92006,
+    92027,
+    92048,
+    92069,
+    92090,
+    92111
+  ]
+}

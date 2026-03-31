@@ -1,0 +1,10 @@
+{
+  "internalId": 592166586,
+  "name": "Iron Chest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    55453
+  ]
+}

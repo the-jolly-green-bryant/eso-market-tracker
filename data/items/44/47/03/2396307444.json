@@ -1,0 +1,10 @@
+{
+  "internalId": 2396307444,
+  "name": "Sailor's Blade",
+  "description": "This dagger is sharper than it looks. You earned it by freeing Peras's shipmates from the slavers of Crimson Cove.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    212183
+  ]
+}

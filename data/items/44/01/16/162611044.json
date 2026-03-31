@@ -1,0 +1,10 @@
+{
+  "internalId": 162611044,
+  "name": "Goblin Bedding, Leather",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_gobsleepingbag001.png",
+  "bindType": -1,
+  "knownIds": [
+    223883
+  ]
+}

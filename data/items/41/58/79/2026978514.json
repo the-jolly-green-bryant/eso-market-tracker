@@ -1,0 +1,19 @@
+{
+  "internalId": 2026978514,
+  "name": "Daring Corsair's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155426,
+    155481,
+    155516,
+    155551,
+    155586,
+    155621,
+    155656,
+    155691,
+    155726,
+    155761
+  ]
+}

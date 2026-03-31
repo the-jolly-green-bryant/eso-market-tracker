@@ -1,0 +1,17 @@
+{
+  "internalId": 526689884,
+  "name": "leather bracers of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    438504,
+    642749,
+    615308,
+    719366,
+    616253,
+    792417,
+    871390,
+    871788
+  ]
+}

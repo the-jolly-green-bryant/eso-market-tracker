@@ -1,0 +1,10 @@
+{
+  "internalId": 419248977,
+  "name": "Jewelry: Hand of Mephala",
+  "description": "A Heavy Armor set found in Cradle of Shadows.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134200
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 830872272,
+  "name": "Ansuul's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1681066,
+    1687081,
+    1716038,
+    1717328,
+    1761574,
+    1764470,
+    1764499,
+    1770393,
+    1777324
+  ]
+}

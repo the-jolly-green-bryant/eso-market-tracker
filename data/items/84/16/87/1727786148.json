@@ -1,0 +1,17 @@
+{
+  "internalId": 1727786148,
+  "name": "Coward's Gear Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123358,
+    123378,
+    123398,
+    123418,
+    123438,
+    123458,
+    123478,
+    123498
+  ]
+}

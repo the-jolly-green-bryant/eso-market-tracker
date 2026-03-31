@@ -1,0 +1,17 @@
+{
+  "internalId": 2343976343,
+  "name": "Battle Axe of Prayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90421,
+    90442,
+    90463,
+    90484,
+    90505,
+    90526,
+    90547,
+    90568
+  ]
+}

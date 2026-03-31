@@ -1,0 +1,10 @@
+{
+  "internalId": 411416285,
+  "name": "Slimy Acidic Staff of the Hatchling's Shell",
+  "description": "This staff is covered in unremovable goo.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43028
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 2481242109,
+  "name": "Dagger of the Pestilent Host",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1400003,
+    1401260,
+    1419195,
+    1588446,
+    1600077,
+    1615486,
+    1645454,
+    1724077,
+    1745574
+  ]
+}

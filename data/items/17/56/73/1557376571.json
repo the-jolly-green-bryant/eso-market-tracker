@@ -1,0 +1,10 @@
+{
+  "internalId": 1557376571,
+  "name": "Crafting Motif 93: Ancestral Breton Helmets",
+  "description": "Use to learn how to make Ancestral Breton Helmets. Also teaches the equivalent Ancestral Breton Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167198
+  ]
+}

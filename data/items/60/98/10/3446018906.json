@@ -1,0 +1,17 @@
+{
+  "internalId": 3446018906,
+  "name": "Coward's Gear Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123369,
+    123389,
+    123409,
+    123429,
+    123449,
+    123469,
+    123489,
+    123509
+  ]
+}

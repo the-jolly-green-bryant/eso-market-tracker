@@ -1,0 +1,12 @@
+{
+  "internalId": 2476785975,
+  "name": "Bow of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173475,
+    173510,
+    173545
+  ]
+}

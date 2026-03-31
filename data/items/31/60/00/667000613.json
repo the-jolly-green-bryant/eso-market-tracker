@@ -1,0 +1,18 @@
+{
+  "internalId": 667000613,
+  "name": "Galenwe's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_staff_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1274821,
+    1276519,
+    1305638,
+    1409303,
+    1495305,
+    1538050,
+    1565670,
+    1570985,
+    1601997
+  ]
+}

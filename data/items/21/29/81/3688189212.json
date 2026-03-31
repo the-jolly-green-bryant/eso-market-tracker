@@ -1,0 +1,19 @@
+{
+  "internalId": 3688189212,
+  "name": "Telvanni Efficiency Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194968,
+    195023,
+    195058,
+    195093,
+    195128,
+    195163,
+    195198,
+    195233,
+    195268,
+    195303
+  ]
+}

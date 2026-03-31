@@ -1,0 +1,17 @@
+{
+  "internalId": 2741133927,
+  "name": "Winterborn Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1287409,
+    1302836,
+    1332374,
+    1371409,
+    1404148,
+    1406718,
+    1583914,
+    1751333
+  ]
+}

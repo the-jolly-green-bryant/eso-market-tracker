@@ -1,0 +1,13 @@
+{
+  "internalId": 918775507,
+  "name": "leather belt of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    612478,
+    483941,
+    792426,
+    791236
+  ]
+}

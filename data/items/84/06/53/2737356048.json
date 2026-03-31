@@ -1,0 +1,17 @@
+{
+  "internalId": 2737356048,
+  "name": "Maul of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78910,
+    78945,
+    78980,
+    79015,
+    79050,
+    79085,
+    79120,
+    79155
+  ]
+}

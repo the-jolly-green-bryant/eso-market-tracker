@@ -1,0 +1,17 @@
+{
+  "internalId": 1781117339,
+  "name": "Maul of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167436,
+    167456,
+    167476,
+    167496,
+    167516,
+    167536,
+    167556,
+    167576
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 2210074584,
+  "name": "Hag Fen Pumpkin Pie",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_open_top_pie.png",
+  "bindType": -1,
+  "knownIds": [
+    57112,
+    57622
+  ]
+}

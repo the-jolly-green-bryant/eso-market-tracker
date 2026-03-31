@@ -1,0 +1,10 @@
+{
+  "internalId": 2386586183,
+  "name": "Imperial Pillar, Chipped",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_exc_iccolumn002.png",
+  "bindType": -1,
+  "knownIds": [
+    94194
+  ]
+}

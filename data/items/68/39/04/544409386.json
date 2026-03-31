@@ -1,0 +1,10 @@
+{
+  "internalId": 544409386,
+  "name": "Staff of the Silent Root",
+  "description": "Fashioned from the wood of a Hist that speaks no more, this staff carries a quiet, watchful power.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223672
+  ]
+}

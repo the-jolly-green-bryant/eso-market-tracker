@@ -1,0 +1,10 @@
+{
+  "internalId": 1921954512,
+  "name": "Serpent Column, Right",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_duc_columnsnake002.png",
+  "bindType": -1,
+  "knownIds": [
+    210880
+  ]
+}

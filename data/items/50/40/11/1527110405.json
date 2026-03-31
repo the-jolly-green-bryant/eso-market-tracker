@@ -1,0 +1,10 @@
+{
+  "internalId": 1527110405,
+  "name": "Ewer of Everything Else",
+  "description": "This jug contains a daunting variety of potentially useful items and collectible unlocks. Exercise caution, lest you lose track of time sorting through its contents.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jug_001.png",
+  "bindType": 3,
+  "knownIds": [
+    207995
+  ]
+}

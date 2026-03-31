@@ -1,0 +1,17 @@
+{
+  "internalId": 3022414996,
+  "name": "Macabre Vintage Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    205067,
+    205087,
+    205107,
+    205127,
+    205147,
+    205167,
+    205187,
+    205207
+  ]
+}

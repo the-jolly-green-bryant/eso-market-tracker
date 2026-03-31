@@ -1,0 +1,10 @@
+{
+  "internalId": 1782503044,
+  "name": "Rock, Jagged Algae Coated",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_mrksmall003.png",
+  "bindType": -1,
+  "knownIds": [
+    120726
+  ]
+}

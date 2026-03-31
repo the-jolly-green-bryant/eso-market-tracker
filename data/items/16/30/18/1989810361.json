@@ -1,0 +1,10 @@
+{
+  "internalId": 1989810361,
+  "name": "Breton Rug, Starburst",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_rug002.png",
+  "bindType": -1,
+  "knownIds": [
+    115199
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 1583723314,
+  "name": "Spellshredder Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219198,
+    219219,
+    219240,
+    219261,
+    219282,
+    219303
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1218570464,
+  "name": "Alinor Archway, Timeworn",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonedecorative001.png",
+  "bindType": -1,
+  "knownIds": [
+    139175
+  ]
+}

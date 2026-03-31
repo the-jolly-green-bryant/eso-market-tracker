@@ -1,0 +1,17 @@
+{
+  "internalId": 94754336,
+  "name": "Battle Axe of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    97777,
+    97797,
+    97817,
+    97837,
+    97857,
+    97877,
+    97897,
+    97917
+  ]
+}

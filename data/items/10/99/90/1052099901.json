@@ -1,0 +1,16 @@
+{
+  "internalId": 1052099901,
+  "name": "Sithis' Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77282,
+    77317,
+    77352,
+    77387,
+    77422,
+    77457,
+    77492
+  ]
+}

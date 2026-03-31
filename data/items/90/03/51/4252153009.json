@@ -1,0 +1,24 @@
+{
+  "internalId": 4252153009,
+  "name": "Necklace of the Netch's Touch",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    978928,
+    1067779,
+    1092222,
+    1168925,
+    1170609,
+    1189958,
+    1199765,
+    1357860,
+    1446441,
+    1456369,
+    1612647,
+    1623827,
+    1645465,
+    1691429,
+    1762925
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1861798207,
+  "name": "Shield of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91385,
+    91406,
+    91427,
+    91448,
+    91469,
+    91490,
+    91511,
+    91532
+  ]
+}

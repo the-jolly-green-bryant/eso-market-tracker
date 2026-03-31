@@ -1,0 +1,17 @@
+{
+  "internalId": 2688883408,
+  "name": "Dagger of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_dagger.png",
+  "bindType": 2,
+  "knownIds": [
+    204890,
+    204911,
+    204932,
+    204953,
+    204974,
+    204995,
+    205016,
+    205037
+  ]
+}

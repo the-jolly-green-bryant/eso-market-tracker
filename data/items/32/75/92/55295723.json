@@ -1,0 +1,16 @@
+{
+  "internalId": 55295723,
+  "name": "Nix-Hound's Howl Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1630982,
+    1636365,
+    1648233,
+    1655474,
+    1691804,
+    1735354,
+    1752858
+  ]
+}

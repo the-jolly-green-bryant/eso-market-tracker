@@ -1,0 +1,21 @@
+{
+  "internalId": 4086394697,
+  "name": "Hex Siphoner's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1394252,
+    1394305,
+    1402989,
+    1406255,
+    1526849,
+    1540381,
+    1568216,
+    1593966,
+    1595799,
+    1599319,
+    1614753,
+    1648031
+  ]
+}

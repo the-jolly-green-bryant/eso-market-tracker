@@ -1,0 +1,19 @@
+{
+  "internalId": 157578344,
+  "name": "Jerkin of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69593,
+    69628,
+    69663,
+    69698,
+    69733,
+    69768,
+    69803,
+    69838,
+    69873,
+    69908
+  ]
+}

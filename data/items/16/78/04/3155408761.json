@@ -1,0 +1,10 @@
+{
+  "internalId": 3155408761,
+  "name": "Vampiric Lightpost, Azure Single",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_vampirelightposta001.png",
+  "bindType": -1,
+  "knownIds": [
+    181490
+  ]
+}

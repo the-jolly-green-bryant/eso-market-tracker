@@ -1,0 +1,15 @@
+{
+  "internalId": 772211048,
+  "name": "Grave-Stake Collector Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142984,
+    143019,
+    143054,
+    143089,
+    143124,
+    143159
+  ]
+}

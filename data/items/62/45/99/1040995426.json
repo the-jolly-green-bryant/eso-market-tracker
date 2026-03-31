@@ -1,0 +1,20 @@
+{
+  "internalId": 1040995426,
+  "name": "Blood Moon Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_1hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1261680,
+    1335819,
+    1397741,
+    1397833,
+    1421382,
+    1512760,
+    1556209,
+    1570849,
+    1582198,
+    1610115,
+    1619503
+  ]
+}

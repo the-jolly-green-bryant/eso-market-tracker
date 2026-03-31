@@ -1,0 +1,17 @@
+{
+  "internalId": 1359738905,
+  "name": "Bright-Throat's Boast Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142602,
+    142623,
+    142644,
+    142665,
+    142686,
+    142707,
+    142728,
+    142749
+  ]
+}

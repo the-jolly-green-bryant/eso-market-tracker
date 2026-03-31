@@ -1,0 +1,10 @@
+{
+  "internalId": 2914291877,
+  "name": "Garland of Undaunted Trophies",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedhangingtrophy001.png",
+  "bindType": -1,
+  "knownIds": [
+    208114
+  ]
+}

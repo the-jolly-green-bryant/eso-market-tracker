@@ -1,0 +1,19 @@
+{
+  "internalId": 1540704324,
+  "name": "Helm of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75752,
+    75787,
+    75822,
+    75857,
+    75892,
+    75927,
+    75962,
+    75997,
+    76032,
+    76067
+  ]
+}

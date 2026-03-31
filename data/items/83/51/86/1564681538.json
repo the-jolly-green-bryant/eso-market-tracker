@@ -1,0 +1,10 @@
+{
+  "internalId": 1564681538,
+  "name": "Deadly Strike",
+  "description": "A Medium Armor set found in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    150644
+  ]
+}

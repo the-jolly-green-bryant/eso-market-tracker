@@ -1,0 +1,17 @@
+{
+  "internalId": 1642857512,
+  "name": "Lamp Knight's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213913,
+    213933,
+    213953,
+    213973,
+    213993,
+    214013,
+    214033,
+    214053
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1195759253,
+  "name": "Tribal Spaulders Crate",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png",
+  "bindType": -1,
+  "knownIds": [
+    1268036,
+    1275330,
+    1278078,
+    1285141
+  ]
+}

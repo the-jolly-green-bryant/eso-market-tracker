@@ -1,0 +1,11 @@
+{
+  "internalId": 3462569768,
+  "name": "Iridium Grains",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_raw_iridium.png",
+  "bindType": -1,
+  "knownIds": [
+    1240322,
+    1424957
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 267249891,
+  "name": "Death-Dancer Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214716,
+    214736,
+    214756,
+    214776,
+    214796,
+    214816,
+    214836,
+    214856
+  ]
+}

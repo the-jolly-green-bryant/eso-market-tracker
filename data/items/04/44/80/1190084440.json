@@ -1,0 +1,10 @@
+{
+  "internalId": 1190084440,
+  "name": "Apocrypha Book Piles, Floating",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_libbooksfloating001.png",
+  "bindType": -1,
+  "knownIds": [
+    198440
+  ]
+}

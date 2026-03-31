@@ -1,0 +1,19 @@
+{
+  "internalId": 1869170845,
+  "name": "Bow of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179561,
+    179616,
+    179651,
+    179686,
+    179721,
+    179756,
+    179791,
+    179826,
+    179861,
+    179896
+  ]
+}

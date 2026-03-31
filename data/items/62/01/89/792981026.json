@@ -1,0 +1,16 @@
+{
+  "internalId": 792981026,
+  "name": "Fleshsear",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hsword_b.png",
+  "bindType": -1,
+  "knownIds": [
+    582004,
+    792858,
+    942216,
+    1067784,
+    1357666,
+    1435058,
+    1509060
+  ]
+}

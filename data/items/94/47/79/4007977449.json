@@ -1,0 +1,10 @@
+{
+  "internalId": 4007977449,
+  "name": "Orcish Dresser, Open",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgshelves001.png",
+  "bindType": -1,
+  "knownIds": [
+    116398
+  ]
+}

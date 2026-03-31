@@ -1,0 +1,19 @@
+{
+  "internalId": 3914496573,
+  "name": "Daring Corsair's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155406,
+    155461,
+    155496,
+    155531,
+    155566,
+    155601,
+    155636,
+    155671,
+    155706,
+    155741
+  ]
+}

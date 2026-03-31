@@ -1,0 +1,10 @@
+{
+  "internalId": 3611469846,
+  "name": "Waterlogged Note",
+  "description": "This particular note has been rendered illegible, but maybe you can find one that's still readable along the shores of Summerset.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    138786
+  ]
+}

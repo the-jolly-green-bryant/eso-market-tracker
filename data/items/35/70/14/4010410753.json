@@ -1,0 +1,17 @@
+{
+  "internalId": 4010410753,
+  "name": "Mace of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88716,
+    88736,
+    88756,
+    88776,
+    88796,
+    88816,
+    88836,
+    88856
+  ]
+}

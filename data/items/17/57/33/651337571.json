@@ -1,0 +1,10 @@
+{
+  "internalId": 651337571,
+  "name": "Dark Elf Thurible, Caged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_altincensebrn002.png",
+  "bindType": -1,
+  "knownIds": [
+    115335
+  ]
+}

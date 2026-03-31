@@ -1,0 +1,10 @@
+{
+  "internalId": 3629201234,
+  "name": "Staff of Adroitness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43929
+  ]
+}

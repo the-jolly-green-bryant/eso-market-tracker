@@ -1,0 +1,17 @@
+{
+  "internalId": 1739663727,
+  "name": "Lightning Staff of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211593,
+    211614,
+    211635,
+    211656,
+    211677,
+    211698,
+    211719,
+    211740
+  ]
+}

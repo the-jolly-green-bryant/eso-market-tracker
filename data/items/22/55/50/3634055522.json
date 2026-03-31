@@ -1,0 +1,19 @@
+{
+  "internalId": 3634055522,
+  "name": "Bracers of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59975,
+    60010,
+    60045,
+    60080,
+    60115,
+    60150,
+    60185,
+    60220,
+    60255,
+    60290
+  ]
+}

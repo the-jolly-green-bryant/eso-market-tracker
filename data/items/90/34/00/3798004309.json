@@ -1,0 +1,10 @@
+{
+  "internalId": 3798004309,
+  "name": "Vines, Snow Lillies Climber",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_whiteflowerivy004.png",
+  "bindType": -1,
+  "knownIds": [
+    181611
+  ]
+}

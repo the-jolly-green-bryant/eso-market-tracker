@@ -1,0 +1,17 @@
+{
+  "internalId": 1323669767,
+  "name": "Restoration Staff of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91193,
+    91214,
+    91235,
+    91256,
+    91277,
+    91298,
+    91319,
+    91340
+  ]
+}

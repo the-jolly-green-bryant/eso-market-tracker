@@ -1,0 +1,10 @@
+{
+  "internalId": 3314434390,
+  "name": "New Life Snowmortal, Argonian",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_snowman003.png",
+  "bindType": -1,
+  "knownIds": [
+    146058
+  ]
+}

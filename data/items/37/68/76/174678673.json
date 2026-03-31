@@ -1,0 +1,20 @@
+{
+  "internalId": 174678673,
+  "name": "Frozen Watcher's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1308676,
+    1310207,
+    1340875,
+    1347252,
+    1374368,
+    1413339,
+    1455777,
+    1542976,
+    1602898,
+    1679881,
+    1761770
+  ]
+}

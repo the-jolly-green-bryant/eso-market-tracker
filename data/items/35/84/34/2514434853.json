@@ -1,0 +1,10 @@
+{
+  "internalId": 2514434853,
+  "name": "Mythic Items (Blackwood)",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1492158
+  ]
+}

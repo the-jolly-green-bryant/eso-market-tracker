@@ -1,0 +1,26 @@
+{
+  "internalId": 3935353802,
+  "name": "War Machine Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1182336,
+    1194020,
+    1339039,
+    1346195,
+    1346781,
+    1403385,
+    1403509,
+    1403510,
+    1415231,
+    1455752,
+    1458784,
+    1460480,
+    1490824,
+    1540595,
+    1551739,
+    1697023,
+    1734788
+  ]
+}

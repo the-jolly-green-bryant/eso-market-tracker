@@ -1,0 +1,17 @@
+{
+  "internalId": 1754219156,
+  "name": "Shalk's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96603,
+    96623,
+    96643,
+    96663,
+    96683,
+    96703,
+    96723,
+    96743
+  ]
+}

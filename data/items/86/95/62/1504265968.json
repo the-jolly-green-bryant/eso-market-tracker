@@ -1,0 +1,19 @@
+{
+  "internalId": 1504265968,
+  "name": "Lightning Staff of Drake's Rush",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1422770,
+    1422846,
+    1508749,
+    1509169,
+    1543468,
+    1547925,
+    1549180,
+    1593102,
+    1593990,
+    1679000
+  ]
+}

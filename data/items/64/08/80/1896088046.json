@@ -1,0 +1,17 @@
+{
+  "internalId": 1896088046,
+  "name": "Lightning Staff of Martial Knowledge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95464,
+    95485,
+    95506,
+    95527,
+    95548,
+    95569,
+    95590,
+    95611
+  ]
+}

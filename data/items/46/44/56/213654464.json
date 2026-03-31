@@ -1,0 +1,21 @@
+{
+  "internalId": 213654464,
+  "name": "Lightning Staff of Mazzatun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    928471,
+    981225,
+    1077985,
+    1121335,
+    1529820,
+    1531861,
+    1569161,
+    1595217,
+    1613322,
+    1630674,
+    1642644,
+    1724863
+  ]
+}

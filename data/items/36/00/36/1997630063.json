@@ -1,0 +1,10 @@
+{
+  "internalId": 1997630063,
+  "name": "Columbine",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_columbine_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    30164
+  ]
+}

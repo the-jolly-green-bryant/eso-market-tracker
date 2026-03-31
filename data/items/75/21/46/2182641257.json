@@ -1,0 +1,18 @@
+{
+  "internalId": 2182641257,
+  "name": "Restoration Staff of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86756,
+    86777,
+    86798,
+    86819,
+    86840,
+    86861,
+    86882,
+    86903,
+    86924
+  ]
+}

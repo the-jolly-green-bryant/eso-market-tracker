@@ -1,0 +1,10 @@
+{
+  "internalId": 1297020984,
+  "name": "Lantern, Ship Captain's",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_csb_shiplanterns001.png",
+  "bindType": -1,
+  "knownIds": [
+    118908
+  ]
+}

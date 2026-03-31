@@ -1,0 +1,10 @@
+{
+  "internalId": 1013403364,
+  "name": "Dwemer Frame",
+  "description": "An ingredient for crafting in the Dwemer style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dwemer_shiny_tube.png",
+  "bindType": -1,
+  "knownIds": [
+    57587
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1033140238,
+  "name": "Pauldron of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70104,
+    70139,
+    70174,
+    70209,
+    70244
+  ]
+}

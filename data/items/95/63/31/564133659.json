@@ -1,0 +1,13 @@
+{
+  "internalId": 564133659,
+  "name": "Spell Parasite's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163290,
+    163325,
+    163360,
+    163395
+  ]
+}

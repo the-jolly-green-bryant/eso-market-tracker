@@ -1,0 +1,10 @@
+{
+  "internalId": 3770158634,
+  "name": "Crystals, Crimson Spikes",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_mphblackcrystal013.png",
+  "bindType": -1,
+  "knownIds": [
+    139142
+  ]
+}

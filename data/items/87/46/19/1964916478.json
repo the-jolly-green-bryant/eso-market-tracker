@@ -1,0 +1,17 @@
+{
+  "internalId": 1964916478,
+  "name": "Restoration Staff of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    204895,
+    204916,
+    204937,
+    204958,
+    204979,
+    205000,
+    205021,
+    205042
+  ]
+}

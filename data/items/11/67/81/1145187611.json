@@ -1,0 +1,19 @@
+{
+  "internalId": 1145187611,
+  "name": "Tide-Born Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215487,
+    215542,
+    215577,
+    215612,
+    215647,
+    215682,
+    215717,
+    215752,
+    215787,
+    215822
+  ]
+}

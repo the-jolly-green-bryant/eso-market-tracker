@@ -1,0 +1,17 @@
+{
+  "internalId": 82737692,
+  "name": "Battlefield Acrobat Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144297,
+    144317,
+    144337,
+    144357,
+    144377,
+    144397,
+    144417,
+    144437
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 2123812435,
+  "name": "Ring of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    79186,
+    79188,
+    79190
+  ]
+}

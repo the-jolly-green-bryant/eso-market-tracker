@@ -1,0 +1,19 @@
+{
+  "internalId": 571474687,
+  "name": "Sload's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136087,
+    136122,
+    136157,
+    136192,
+    136227,
+    136262,
+    136297,
+    136332,
+    136367,
+    136402
+  ]
+}

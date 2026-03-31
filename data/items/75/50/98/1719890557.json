@@ -1,0 +1,19 @@
+{
+  "internalId": 1719890557,
+  "name": "Coldharbour's Favorite Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147969,
+    148024,
+    148059,
+    148094,
+    148129,
+    148164,
+    148199,
+    148234,
+    148269,
+    148304
+  ]
+}

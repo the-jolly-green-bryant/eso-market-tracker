@@ -1,0 +1,10 @@
+{
+  "internalId": 1593952973,
+  "name": "Goblet, Wine",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_wineglass001.png",
+  "bindType": -1,
+  "knownIds": [
+    118342
+  ]
+}

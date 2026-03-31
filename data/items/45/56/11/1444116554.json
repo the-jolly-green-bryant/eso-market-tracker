@@ -1,0 +1,10 @@
+{
+  "internalId": 1444116554,
+  "name": "Telvanni Box, Fungal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_smallbox002.png",
+  "bindType": -1,
+  "knownIds": [
+    197520
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 863201057,
+  "name": "Lucent Echoes Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1720434,
+    1722483,
+    1722875,
+    1732037,
+    1732685,
+    1732854,
+    1734234,
+    1742301,
+    1750890,
+    1755195
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1137111562,
+  "name": "Shared Burden Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215165,
+    215200,
+    215235,
+    215270,
+    215305,
+    215340,
+    215375,
+    215410,
+    215445
+  ]
+}

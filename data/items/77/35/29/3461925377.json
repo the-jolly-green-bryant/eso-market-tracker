@@ -1,0 +1,17 @@
+{
+  "internalId": 3461925377,
+  "name": "Stygian Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102077,
+    102097,
+    102117,
+    102137,
+    102157,
+    102177,
+    102197,
+    102217
+  ]
+}

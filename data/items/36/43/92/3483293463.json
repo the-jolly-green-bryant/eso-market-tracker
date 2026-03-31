@@ -1,0 +1,12 @@
+{
+  "internalId": 3483293463,
+  "name": "Pyrebrand Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731395,
+    1735213,
+    1777384
+  ]
+}

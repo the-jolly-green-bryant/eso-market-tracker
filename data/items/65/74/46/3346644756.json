@@ -1,0 +1,10 @@
+{
+  "internalId": 3346644756,
+  "name": "Iron Cross, Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_ironcrosslg001.png",
+  "bindType": -1,
+  "knownIds": [
+    120825
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1356635677,
+  "name": "Savage Werewolf's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_2hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1418338,
+    1481440,
+    1482402,
+    1584273,
+    1594847,
+    1659402,
+    1718276,
+    1732122,
+    1749080,
+    1778598
+  ]
+}

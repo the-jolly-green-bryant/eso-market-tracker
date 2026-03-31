@@ -1,0 +1,19 @@
+{
+  "internalId": 3064472980,
+  "name": "Druid's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185561,
+    185616,
+    185651,
+    185686,
+    185721,
+    185756,
+    185791,
+    185826,
+    185861,
+    185896
+  ]
+}

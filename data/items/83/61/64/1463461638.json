@@ -1,0 +1,10 @@
+{
+  "internalId": 1463461638,
+  "name": "Imperial Simple Lamppost",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_lsb_lamppost004.png",
+  "bindType": -1,
+  "knownIds": [
+    115052
+  ]
+}

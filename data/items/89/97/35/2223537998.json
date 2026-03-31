@@ -1,0 +1,17 @@
+{
+  "internalId": 2223537998,
+  "name": "Sword of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86565,
+    86585,
+    86605,
+    86625,
+    86645,
+    86665,
+    86685,
+    86705
+  ]
+}

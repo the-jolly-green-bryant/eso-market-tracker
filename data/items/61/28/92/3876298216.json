@@ -1,0 +1,10 @@
+{
+  "internalId": 3876298216,
+  "name": "Solitude Trestle, Ornate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tabletrestlefancy002.png",
+  "bindType": -1,
+  "knownIds": [
+    165693
+  ]
+}

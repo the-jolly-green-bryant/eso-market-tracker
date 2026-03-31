@@ -1,0 +1,19 @@
+{
+  "internalId": 2908597355,
+  "name": "Deadlands Demolisher's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179192,
+    179247,
+    179282,
+    179317,
+    179352,
+    179387,
+    179422,
+    179457,
+    179492,
+    179527
+  ]
+}

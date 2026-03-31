@@ -1,0 +1,10 @@
+{
+  "internalId": 56174598,
+  "name": "Velothi Shroud, Mourning",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_tapestry006.png",
+  "bindType": -1,
+  "knownIds": [
+    126572
+  ]
+}

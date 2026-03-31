@@ -1,0 +1,18 @@
+{
+  "internalId": 1650042209,
+  "name": "Shared Burden Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215177,
+    215212,
+    215247,
+    215282,
+    215317,
+    215352,
+    215387,
+    215422,
+    215457
+  ]
+}

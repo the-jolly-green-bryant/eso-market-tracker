@@ -1,0 +1,12 @@
+{
+  "internalId": 1704000707,
+  "name": "Corpseburster Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729086,
+    1750595,
+    1764538
+  ]
+}

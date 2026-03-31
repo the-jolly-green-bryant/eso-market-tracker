@@ -1,0 +1,10 @@
+{
+  "internalId": 1037865037,
+  "name": "Ayleid Grate, Intricate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_housinggrate001.png",
+  "bindType": -1,
+  "knownIds": [
+    212406
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3888383960,
+  "name": "Rough Block, Woodcutter's",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_logsplitting001.png",
+  "bindType": -1,
+  "knownIds": [
+    117961
+  ]
+}

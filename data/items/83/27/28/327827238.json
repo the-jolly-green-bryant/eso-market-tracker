@@ -1,0 +1,10 @@
+{
+  "internalId": 327827238,
+  "name": "Vines, Draped Ivy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_ivy004.png",
+  "bindType": -1,
+  "knownIds": [
+    120645
+  ]
+}

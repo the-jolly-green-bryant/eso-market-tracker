@@ -1,0 +1,17 @@
+{
+  "internalId": 1832435027,
+  "name": "Netch Oil Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211931,
+    211951,
+    211971,
+    211991,
+    212011,
+    212031,
+    212051,
+    212071
+  ]
+}

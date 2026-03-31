@@ -1,0 +1,17 @@
+{
+  "internalId": 1547865540,
+  "name": "Netch Oil Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211938,
+    211958,
+    211978,
+    211998,
+    212018,
+    212038,
+    212058,
+    212078
+  ]
+}

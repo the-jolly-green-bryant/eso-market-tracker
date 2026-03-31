@@ -1,0 +1,17 @@
+{
+  "internalId": 2484913323,
+  "name": "Coup De Grâce Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219339,
+    219359,
+    219379,
+    219399,
+    219419,
+    219439,
+    219459,
+    219479
+  ]
+}

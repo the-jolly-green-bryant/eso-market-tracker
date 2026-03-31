@@ -1,0 +1,19 @@
+{
+  "internalId": 985402276,
+  "name": "Blooddrinker Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1179696,
+    1197773,
+    1265496,
+    1292666,
+    1346313,
+    1486143,
+    1595356,
+    1613337,
+    1642589,
+    1743953
+  ]
+}

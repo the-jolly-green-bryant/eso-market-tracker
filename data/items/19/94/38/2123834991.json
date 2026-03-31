@@ -1,0 +1,17 @@
+{
+  "internalId": 2123834991,
+  "name": "Plaguebreak Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180620,
+    180640,
+    180660,
+    180680,
+    180700,
+    180720,
+    180740,
+    180760
+  ]
+}

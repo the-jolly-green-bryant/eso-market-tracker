@@ -1,0 +1,14 @@
+{
+  "internalId": 3869877512,
+  "name": "Jack of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87513,
+    87533,
+    87553,
+    87573,
+    87633
+  ]
+}

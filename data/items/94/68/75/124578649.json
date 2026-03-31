@@ -1,0 +1,10 @@
+{
+  "internalId": 124578649,
+  "name": "Stone Husk Fragment",
+  "description": "A shard from a stone husk. If you collected enough of these, you could assemble one of these vessels.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stonehuskfragment.png",
+  "bindType": -1,
+  "knownIds": [
+    166466
+  ]
+}

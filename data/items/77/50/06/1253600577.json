@@ -1,0 +1,10 @@
+{
+  "internalId": 1253600577,
+  "name": "Staff of the Spirit Within",
+  "description": "Calming spirits inhabit this gnarled staff, summoned to service by High Shaman Glynroch.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167400
+  ]
+}

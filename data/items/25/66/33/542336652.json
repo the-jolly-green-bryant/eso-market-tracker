@@ -1,0 +1,10 @@
+{
+  "internalId": 542336652,
+  "name": "Colovian Incense Burner, Metal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_incenseburner002.png",
+  "bindType": -1,
+  "knownIds": [
+    204720
+  ]
+}

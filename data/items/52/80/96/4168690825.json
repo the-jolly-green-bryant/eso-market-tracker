@@ -1,0 +1,17 @@
+{
+  "internalId": 4168690825,
+  "name": "Livewire Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132672,
+    132692,
+    132712,
+    132732,
+    132752,
+    132772,
+    132792,
+    132812
+  ]
+}

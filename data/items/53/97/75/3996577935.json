@@ -1,0 +1,18 @@
+{
+  "internalId": 3996577935,
+  "name": "Senchal Defender's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154845,
+    154865,
+    154885,
+    154905,
+    154925,
+    154945,
+    154965,
+    154985,
+    155005
+  ]
+}

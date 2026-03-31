@@ -1,0 +1,17 @@
+{
+  "internalId": 1340754111,
+  "name": "Full Belly Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214866,
+    214886,
+    214906,
+    214926,
+    214946,
+    214966,
+    214986,
+    215006
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3219446759,
+  "name": "Seeker Synthesis Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195326,
+    195381,
+    195416,
+    195451,
+    195486,
+    195521,
+    195556,
+    195591,
+    195626,
+    195661
+  ]
+}

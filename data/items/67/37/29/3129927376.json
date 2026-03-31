@@ -1,0 +1,10 @@
+{
+  "internalId": 3129927376,
+  "name": "Master Tracker's Bow",
+  "description": "After hunting the white senche, tracking other prey with this bow in hand should be easy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10895
+  ]
+}

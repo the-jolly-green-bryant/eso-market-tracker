@@ -1,0 +1,17 @@
+{
+  "internalId": 103447363,
+  "name": "Netch Oil Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211927,
+    211947,
+    211967,
+    211987,
+    212007,
+    212027,
+    212047,
+    212067
+  ]
+}

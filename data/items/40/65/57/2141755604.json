@@ -1,0 +1,19 @@
+{
+  "internalId": 2141755604,
+  "name": "Gladiator's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75419,
+    75454,
+    75489,
+    75524,
+    75559,
+    75594,
+    75629,
+    75664,
+    75699,
+    75734
+  ]
+}

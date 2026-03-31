@@ -1,0 +1,11 @@
+{
+  "internalId": 2819395954,
+  "name": "Serpent's Coiled Coffer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1143851,
+    1254913
+  ]
+}

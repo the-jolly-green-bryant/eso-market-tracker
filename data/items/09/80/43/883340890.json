@@ -1,0 +1,10 @@
+{
+  "internalId": 883340890,
+  "name": "Mushroom, Stinkhorn Spore",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdstinkhorn005.png",
+  "bindType": -1,
+  "knownIds": [
+    125603
+  ]
+}

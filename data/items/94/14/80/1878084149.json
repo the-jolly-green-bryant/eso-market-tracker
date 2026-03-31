@@ -1,0 +1,15 @@
+{
+  "internalId": 1878084149,
+  "name": "Necklace of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139755,
+    139845,
+    139935,
+    140025,
+    140115,
+    140205
+  ]
+}

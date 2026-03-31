@@ -1,0 +1,17 @@
+{
+  "internalId": 4096308623,
+  "name": "Dagger of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1519365,
+    1582504,
+    1583097,
+    1584043,
+    1586162,
+    1588786,
+    1680609,
+    1680878
+  ]
+}

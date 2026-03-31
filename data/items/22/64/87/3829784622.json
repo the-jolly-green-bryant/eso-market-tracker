@@ -1,0 +1,22 @@
+{
+  "internalId": 3829784622,
+  "name": "superb glyph of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_magickaboost.png",
+  "bindType": -1,
+  "knownIds": [
+    687684,
+    687925,
+    725031,
+    734743,
+    710234,
+    687589,
+    726116,
+    723659,
+    793276,
+    1622774,
+    1633481,
+    1655820,
+    1753769
+  ]
+}

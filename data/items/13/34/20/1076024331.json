@@ -1,0 +1,10 @@
+{
+  "internalId": 1076024331,
+  "name": "Hew and Sunder",
+  "description": "A Medium Armor set found in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    183571
+  ]
+}

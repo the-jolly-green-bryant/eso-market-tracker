@@ -1,0 +1,10 @@
+{
+  "internalId": 4268129678,
+  "name": "Fragment of the Crucible",
+  "description": "Consume Fragment of the Crucible, along with fragments of Hircine, the Bad Man, the Wolf-Father, and the Ascendant, to unlock the Skill Stylist: Roar achievement and the Roar, Verdant Green Skill Style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_scrap_redblack.png",
+  "bindType": 3,
+  "knownIds": [
+    211166
+  ]
+}

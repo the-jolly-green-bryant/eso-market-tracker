@@ -1,0 +1,11 @@
+{
+  "internalId": 1005896539,
+  "name": "Dominion's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_1haxe_b.png",
+  "bindType": 2,
+  "knownIds": [
+    55870,
+    55871
+  ]
+}

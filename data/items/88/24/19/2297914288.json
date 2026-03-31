@@ -1,0 +1,10 @@
+{
+  "internalId": 2297914288,
+  "name": "Basket of Gourds",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_baskettall002.png",
+  "bindType": -1,
+  "knownIds": [
+    118189
+  ]
+}

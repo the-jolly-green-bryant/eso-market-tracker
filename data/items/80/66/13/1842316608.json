@@ -1,0 +1,19 @@
+{
+  "internalId": 1842316608,
+  "name": "Daring Corsair's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155411,
+    155466,
+    155501,
+    155536,
+    155571,
+    155606,
+    155641,
+    155676,
+    155711,
+    155746
+  ]
+}

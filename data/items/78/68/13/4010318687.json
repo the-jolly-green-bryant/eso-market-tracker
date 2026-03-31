@@ -1,0 +1,19 @@
+{
+  "internalId": 4010318687,
+  "name": "Deadlands Demolisher's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179206,
+    179261,
+    179296,
+    179331,
+    179366,
+    179401,
+    179436,
+    179471,
+    179506,
+    179541
+  ]
+}

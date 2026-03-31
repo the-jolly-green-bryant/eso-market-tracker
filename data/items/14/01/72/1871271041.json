@@ -1,0 +1,10 @@
+{
+  "internalId": 1871271041,
+  "name": "Dawnwood Container, Turtle",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bossmallstoragecontainer003.png",
+  "bindType": -1,
+  "knownIds": [
+    211393
+  ]
+}

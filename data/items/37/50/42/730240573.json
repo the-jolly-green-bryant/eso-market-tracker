@@ -1,0 +1,13 @@
+{
+  "internalId": 730240573,
+  "name": "Bound Signature Script: Crusader's Defiance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_breaksnare.png",
+  "bindType": -1,
+  "knownIds": [
+    1719386,
+    1719682,
+    1721475,
+    1721625
+  ]
+}

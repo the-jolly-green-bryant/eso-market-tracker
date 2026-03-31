@@ -1,0 +1,19 @@
+{
+  "internalId": 339394065,
+  "name": "Seeker Synthesis Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195345,
+    195400,
+    195435,
+    195470,
+    195505,
+    195540,
+    195575,
+    195610,
+    195645,
+    195680
+  ]
+}

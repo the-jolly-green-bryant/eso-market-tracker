@@ -1,0 +1,18 @@
+{
+  "internalId": 1238109458,
+  "name": "dwarven gauntlets of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    602416,
+    482093,
+    436318,
+    384415,
+    664365,
+    684131,
+    700389,
+    666515,
+    788916
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2614391187,
+  "name": "Ravenwatch Staff of the Vampire's Cloak",
+  "description": "Gwendis wanted you to have Verandis' staff for standing with him at the Doomcrag.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7318
+  ]
+}

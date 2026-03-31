@@ -1,0 +1,10 @@
+{
+  "internalId": 3456537788,
+  "name": "Apocrypha Specimen Jar, Centipede",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarcentipedes002.png",
+  "bindType": -1,
+  "knownIds": [
+    198383
+  ]
+}

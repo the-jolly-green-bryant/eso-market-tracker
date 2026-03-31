@@ -1,0 +1,10 @@
+{
+  "internalId": 4036269360,
+  "name": "High Isle Tapestry, Seaside Tourney",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_tapestry001.png",
+  "bindType": -1,
+  "knownIds": [
+    189468
+  ]
+}

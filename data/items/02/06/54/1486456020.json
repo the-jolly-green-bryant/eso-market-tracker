@@ -1,0 +1,12 @@
+{
+  "internalId": 1486456020,
+  "name": "Corpseburster Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_1hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729061,
+    1755220,
+    1776767
+  ]
+}

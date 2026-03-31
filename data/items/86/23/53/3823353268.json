@@ -1,0 +1,16 @@
+{
+  "internalId": 3823353268,
+  "name": "Curse-Eating Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90838,
+    90859,
+    90880,
+    90901,
+    90922,
+    90943,
+    90964
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 637209785,
+  "name": "New Moon Acolyte's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156161,
+    156216,
+    156251,
+    156286,
+    156321,
+    156356,
+    156391,
+    156426,
+    156461,
+    156496
+  ]
+}

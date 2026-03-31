@@ -1,0 +1,18 @@
+{
+  "internalId": 2496184954,
+  "name": "Z'en's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1402481,
+    1410116,
+    1488914,
+    1491089,
+    1545014,
+    1560586,
+    1586210,
+    1586215,
+    1616714
+  ]
+}

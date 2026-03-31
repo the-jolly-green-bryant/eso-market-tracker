@@ -1,0 +1,17 @@
+{
+  "internalId": 3026283963,
+  "name": "Spriggan's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100599,
+    100619,
+    100639,
+    100659,
+    100679,
+    100699,
+    100719,
+    100739
+  ]
+}

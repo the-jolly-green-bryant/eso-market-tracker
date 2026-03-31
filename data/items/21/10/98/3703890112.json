@@ -1,0 +1,17 @@
+{
+  "internalId": 3703890112,
+  "name": "Bow of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_bow_c.png",
+  "bindType": 2,
+  "knownIds": [
+    97781,
+    97801,
+    97821,
+    97841,
+    97861,
+    97881,
+    97901,
+    97921
+  ]
+}

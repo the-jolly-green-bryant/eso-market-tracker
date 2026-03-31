@@ -1,0 +1,19 @@
+{
+  "internalId": 596559849,
+  "name": "Ancient Dragonguard's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155804,
+    155859,
+    155894,
+    155929,
+    155964,
+    155999,
+    156034,
+    156069,
+    156104,
+    156139
+  ]
+}

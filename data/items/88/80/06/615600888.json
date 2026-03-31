@@ -1,0 +1,10 @@
+{
+  "internalId": 615600888,
+  "name": "Saplings, Autumn Cluster",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_sapling_cluster003.png",
+  "bindType": -1,
+  "knownIds": [
+    120716
+  ]
+}

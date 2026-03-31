@@ -1,0 +1,10 @@
+{
+  "internalId": 2674626147,
+  "name": "High Isle Table, Compass Rose",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablehighlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    187824
+  ]
+}

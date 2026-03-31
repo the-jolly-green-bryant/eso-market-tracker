@@ -1,0 +1,16 @@
+{
+  "internalId": 3083717992,
+  "name": "Crimson Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcticvampire_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1414080,
+    1519516,
+    1548359,
+    1588528,
+    1625277,
+    1631647,
+    1658695
+  ]
+}

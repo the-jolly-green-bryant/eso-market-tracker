@@ -1,0 +1,10 @@
+{
+  "internalId": 912610141,
+  "name": "Shrub, Mountain Thistle",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_cyrodiilnorthdeadbush002.png",
+  "bindType": -1,
+  "knownIds": [
+    132212
+  ]
+}

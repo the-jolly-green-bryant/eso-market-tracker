@@ -1,0 +1,17 @@
+{
+  "internalId": 1665508737,
+  "name": "Breeches of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86207,
+    86228,
+    86249,
+    86270,
+    86291,
+    86312,
+    86333,
+    86354
+  ]
+}

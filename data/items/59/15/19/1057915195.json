@@ -1,0 +1,10 @@
+{
+  "internalId": 1057915195,
+  "name": "Post, Skulls",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_lsb_skullpole002.png",
+  "bindType": -1,
+  "knownIds": [
+    118785
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2598294460,
+  "name": "Blunted Blades Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204091,
+    204111,
+    204131,
+    204151,
+    204171,
+    204191,
+    204211,
+    204231
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2218511654,
+  "name": "Grimspike Pauldrons",
+  "description": "Constructed from the mandibles of a giant spider, this shoulder armor provides resistance to all venoms.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208133
+  ]
+}

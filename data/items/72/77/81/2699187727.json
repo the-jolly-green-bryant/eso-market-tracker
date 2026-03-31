@@ -1,0 +1,17 @@
+{
+  "internalId": 2699187727,
+  "name": "Afflicted Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89272,
+    89292,
+    89312,
+    89332,
+    89352,
+    89372,
+    89392,
+    89412
+  ]
+}

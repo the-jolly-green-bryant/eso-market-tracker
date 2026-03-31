@@ -1,0 +1,17 @@
+{
+  "internalId": 587598008,
+  "name": "Greatsword of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98698,
+    98719,
+    98740,
+    98761,
+    98782,
+    98803,
+    98824,
+    98845
+  ]
+}

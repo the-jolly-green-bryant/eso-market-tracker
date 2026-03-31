@@ -1,0 +1,17 @@
+{
+  "internalId": 2174001574,
+  "name": "Lightning Staff of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84535,
+    84555,
+    84575,
+    84595,
+    84615,
+    84635,
+    84655,
+    84675
+  ]
+}

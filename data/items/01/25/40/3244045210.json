@@ -1,0 +1,15 @@
+{
+  "internalId": 3244045210,
+  "name": "Breeches of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59139,
+    59160,
+    59181,
+    59202,
+    59223,
+    59244
+  ]
+}

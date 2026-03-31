@@ -1,0 +1,10 @@
+{
+  "internalId": 3779026918,
+  "name": "Barkbite Breastplate",
+  "description": "This heavy breastplate is incredibly sturdy. Its simple construction shows the great skill of Barkbite smiths.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1783
+  ]
+}

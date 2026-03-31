@@ -1,0 +1,18 @@
+{
+  "internalId": 2772529485,
+  "name": "Deadly Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147368,
+    147375,
+    147382,
+    147389,
+    147396,
+    147403,
+    147410,
+    147417,
+    147424
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2921405466,
+  "name": "Shacklebreaker Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122472,
+    122507,
+    122542,
+    122577
+  ]
+}

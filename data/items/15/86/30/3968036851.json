@@ -1,0 +1,17 @@
+{
+  "internalId": 3968036851,
+  "name": "Hrothgar's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180773,
+    180793,
+    180813,
+    180833,
+    180853,
+    180873,
+    180893,
+    180913
+  ]
+}

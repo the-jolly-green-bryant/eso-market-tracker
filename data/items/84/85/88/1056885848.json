@@ -1,0 +1,17 @@
+{
+  "internalId": 1056885848,
+  "name": "Bog Raider's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_hvy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172307,
+    172327,
+    172347,
+    172367,
+    172387,
+    172407,
+    172427,
+    172447
+  ]
+}

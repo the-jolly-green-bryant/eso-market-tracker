@@ -1,0 +1,10 @@
+{
+  "internalId": 3690162048,
+  "name": "Limestone Retaining Wall, Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonestack004.png",
+  "bindType": -1,
+  "knownIds": [
+    139115
+  ]
+}

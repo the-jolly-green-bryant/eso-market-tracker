@@ -1,0 +1,31 @@
+{
+  "internalId": 3878155078,
+  "name": "Shoes of the Ritualist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_lgt_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1415808,
+    1416429,
+    1416711,
+    1421759,
+    1422749,
+    1423243,
+    1431306,
+    1445721,
+    1458674,
+    1478676,
+    1483439,
+    1488452,
+    1497460,
+    1512737,
+    1512744,
+    1521669,
+    1522314,
+    1529899,
+    1539924,
+    1559692,
+    1560803,
+    1595249
+  ]
+}

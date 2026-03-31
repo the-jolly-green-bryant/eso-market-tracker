@@ -1,0 +1,17 @@
+{
+  "internalId": 826542289,
+  "name": "Inferno Staff of Martial Knowledge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95462,
+    95483,
+    95504,
+    95525,
+    95546,
+    95567,
+    95588,
+    95609
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 2140956279,
+  "name": "Venomous Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    160840,
+    160860,
+    160880,
+    160900,
+    160920,
+    160940,
+    160960,
+    160980,
+    161000
+  ]
+}

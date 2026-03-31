@@ -1,0 +1,19 @@
+{
+  "internalId": 1947089590,
+  "name": "Mace of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60647,
+    60682,
+    60717,
+    60752,
+    60787,
+    60822,
+    60857,
+    60892,
+    60927,
+    60962
+  ]
+}

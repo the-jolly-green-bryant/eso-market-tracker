@@ -1,0 +1,13 @@
+{
+  "internalId": 1614907937,
+  "name": "Draugr's Rest Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1170521,
+    1189078,
+    1486000,
+    1545245
+  ]
+}

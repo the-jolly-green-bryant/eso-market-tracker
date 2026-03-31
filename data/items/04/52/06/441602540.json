@@ -1,0 +1,15 @@
+{
+  "internalId": 441602540,
+  "name": "Pyrebrand Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_bow.png",
+  "bindType": -1,
+  "knownIds": [
+    1735165,
+    1736539,
+    1736634,
+    1742374,
+    1745658,
+    1770937
+  ]
+}

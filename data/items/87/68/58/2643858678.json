@@ -1,0 +1,10 @@
+{
+  "internalId": 2643858678,
+  "name": "effusion of Potent Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1501824
+  ]
+}

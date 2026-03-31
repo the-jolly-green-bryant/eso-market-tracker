@@ -1,0 +1,17 @@
+{
+  "internalId": 1329910301,
+  "name": "Lightning Staff of Endurance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69071,
+    69084,
+    69097,
+    69110,
+    69123,
+    69136,
+    69149,
+    69162
+  ]
+}

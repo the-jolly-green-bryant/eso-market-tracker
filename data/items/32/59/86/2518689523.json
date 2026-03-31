@@ -1,0 +1,17 @@
+{
+  "internalId": 2518689523,
+  "name": "Gauntlets of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97607,
+    97627,
+    97647,
+    97667,
+    97687,
+    97707,
+    97727,
+    97747
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1788287593,
+  "name": "Coward's Gear Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123351,
+    123371,
+    123391,
+    123411,
+    123431,
+    123451,
+    123471,
+    123491
+  ]
+}

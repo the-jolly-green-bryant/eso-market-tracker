@@ -1,0 +1,10 @@
+{
+  "internalId": 3362595386,
+  "name": "Elsweyr Curtains, Tied-Back Blue",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_drapes002.png",
+  "bindType": -1,
+  "knownIds": [
+    151678
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2949067857,
+  "name": "Bracers of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96974,
+    96981,
+    96988,
+    96995,
+    97002,
+    97009,
+    97016,
+    97023
+  ]
+}

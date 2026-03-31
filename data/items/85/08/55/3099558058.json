@@ -1,0 +1,10 @@
+{
+  "internalId": 3099558058,
+  "name": "Ring of Sanctuary",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    44206
+  ]
+}

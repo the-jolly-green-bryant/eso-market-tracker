@@ -1,0 +1,17 @@
+{
+  "internalId": 3271462862,
+  "name": "Mara's Balm Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189855,
+    189875,
+    189895,
+    189915,
+    189935,
+    189955,
+    189975,
+    189995
+  ]
+}

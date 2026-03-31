@@ -1,0 +1,10 @@
+{
+  "internalId": 3503081416,
+  "name": "Elsweyr Meal, Sweet Stew",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_bowlwithfood003.png",
+  "bindType": -1,
+  "knownIds": [
+    151640
+  ]
+}

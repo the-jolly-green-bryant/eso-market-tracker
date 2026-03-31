@@ -1,0 +1,19 @@
+{
+  "internalId": 3784738260,
+  "name": "Ancient Dragonguard's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155791,
+    155846,
+    155881,
+    155916,
+    155951,
+    155986,
+    156021,
+    156056,
+    156091,
+    156126
+  ]
+}

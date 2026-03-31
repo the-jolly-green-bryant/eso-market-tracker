@@ -1,0 +1,10 @@
+{
+  "internalId": 4007013037,
+  "name": "Redguard Decanter, Glass",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_glassbottle001.png",
+  "bindType": -1,
+  "knownIds": [
+    117851
+  ]
+}

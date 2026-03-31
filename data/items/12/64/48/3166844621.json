@@ -1,0 +1,11 @@
+{
+  "internalId": 3166844621,
+  "name": "Ansuul's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1691678,
+    1763844
+  ]
+}

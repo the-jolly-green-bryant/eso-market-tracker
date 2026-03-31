@@ -1,0 +1,10 @@
+{
+  "internalId": 651188327,
+  "name": "House Cousin's Helm",
+  "description": "This helm makes the wearer want to stand straight and proud.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7387
+  ]
+}

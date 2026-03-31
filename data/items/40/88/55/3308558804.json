@@ -1,0 +1,11 @@
+{
+  "internalId": 3308558804,
+  "name": "Pan-Fried Trout",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_004.png",
+  "bindType": -1,
+  "knownIds": [
+    32089,
+    28386
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3984702145,
+  "name": "Maul of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93545,
+    93565,
+    93585,
+    93605,
+    93625,
+    93645
+  ]
+}

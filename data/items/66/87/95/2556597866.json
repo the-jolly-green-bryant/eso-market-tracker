@@ -1,0 +1,10 @@
+{
+  "internalId": 2556597866,
+  "name": "Coldharbour Crate, Black Soul Gem",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_con_crategems001.png",
+  "bindType": -1,
+  "knownIds": [
+    134274
+  ]
+}

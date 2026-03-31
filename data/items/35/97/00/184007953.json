@@ -1,0 +1,13 @@
+{
+  "internalId": 184007953,
+  "name": "Hat of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129858,
+    129866,
+    129874,
+    129882
+  ]
+}

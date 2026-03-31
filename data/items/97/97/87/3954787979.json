@@ -1,0 +1,17 @@
+{
+  "internalId": 3954787979,
+  "name": "Shield of the Voidcaller",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167609,
+    167630,
+    167651,
+    167672,
+    167693,
+    167714,
+    167735,
+    167756
+  ]
+}

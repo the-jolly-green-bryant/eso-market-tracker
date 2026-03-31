@@ -1,0 +1,10 @@
+{
+  "internalId": 4068135736,
+  "name": "Hlaalu Cabinet, Open",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabookcasehng002.png",
+  "bindType": -1,
+  "knownIds": [
+    126408
+  ]
+}

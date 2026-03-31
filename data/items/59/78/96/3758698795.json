@@ -1,0 +1,20 @@
+{
+  "internalId": 3758698795,
+  "name": "Relequen's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_2haxe_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1248662,
+    1262351,
+    1288433,
+    1347909,
+    1364574,
+    1468445,
+    1558437,
+    1600459,
+    1601999,
+    1691645,
+    1765101
+  ]
+}

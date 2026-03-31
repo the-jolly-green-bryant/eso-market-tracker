@@ -1,0 +1,15 @@
+{
+  "internalId": 593826837,
+  "name": "Necklace of Death's Wind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139718,
+    139808,
+    139898,
+    139988,
+    140078,
+    140168
+  ]
+}

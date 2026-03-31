@@ -1,0 +1,12 @@
+{
+  "internalId": 3949331738,
+  "name": "Spattering Disjunction Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735251,
+    1773391,
+    1773955
+  ]
+}

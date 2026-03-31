@@ -1,0 +1,10 @@
+{
+  "internalId": 4094327584,
+  "name": "Winter Festival Hearth",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holidayhearth001.png",
+  "bindType": -1,
+  "knownIds": [
+    146049
+  ]
+}

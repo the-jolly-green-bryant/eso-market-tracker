@@ -1,0 +1,10 @@
+{
+  "internalId": 2360714877,
+  "name": "Horn, Display, Huge",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_largehorn001.png",
+  "bindType": -1,
+  "knownIds": [
+    118283
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1378991421,
+  "name": "High Elf Dresser, Corner",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_cabinetcorner001.png",
+  "bindType": -1,
+  "knownIds": [
+    114379
+  ]
+}

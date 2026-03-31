@@ -1,0 +1,19 @@
+{
+  "internalId": 1783442753,
+  "name": "Lightning Staff of Sul-Xan's Torment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1471934,
+    1493917,
+    1517665,
+    1539946,
+    1550110,
+    1581708,
+    1593774,
+    1678743,
+    1718250,
+    1770180
+  ]
+}

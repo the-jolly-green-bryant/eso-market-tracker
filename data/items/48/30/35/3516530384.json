@@ -1,0 +1,17 @@
+{
+  "internalId": 3516530384,
+  "name": "Lightning Staff of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    97784,
+    97804,
+    97824,
+    97844,
+    97864,
+    97884,
+    97904,
+    97924
+  ]
+}

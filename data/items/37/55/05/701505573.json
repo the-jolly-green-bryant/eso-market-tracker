@@ -1,0 +1,10 @@
+{
+  "internalId": 701505573,
+  "name": "Desecrated Grave Soil",
+  "description": "An ingredient for crafting in the Worm Cult style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_ash_001.png",
+  "bindType": -1,
+  "knownIds": [
+    134798
+  ]
+}

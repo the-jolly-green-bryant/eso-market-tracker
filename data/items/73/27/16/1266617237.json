@@ -1,0 +1,10 @@
+{
+  "internalId": 1266617237,
+  "name": "Draws-The-Sap Dagger",
+  "description": "Kamax-Ei entrusted this dagger to you after you saved Hissmir from being captured by the Dominion.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7445
+  ]
+}

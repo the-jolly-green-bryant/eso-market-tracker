@@ -1,0 +1,10 @@
+{
+  "internalId": 2431788777,
+  "name": "Anniversary Jubilee Gift (Tamriel)",
+  "description": "This box contains a variety of crafting-related materials, rarely including an Outfit Style Page featuring any of the Five Companions' distinctive fashion. This week's Gift Box comes from completing any Daily quest.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+  "bindType": 3,
+  "knownIds": [
+    147434
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1506069735,
+  "name": "Smuggler's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100961,
+    100982,
+    101003,
+    101024,
+    101045,
+    101066,
+    101087,
+    101108
+  ]
+}

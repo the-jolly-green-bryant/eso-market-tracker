@@ -1,0 +1,17 @@
+{
+  "internalId": 2999778147,
+  "name": "Maul of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90112,
+    90125,
+    90138,
+    90151,
+    90164,
+    90177,
+    90190,
+    90203
+  ]
+}

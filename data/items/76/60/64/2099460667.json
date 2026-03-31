@@ -1,0 +1,19 @@
+{
+  "internalId": 2099460667,
+  "name": "Tharriker's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205421,
+    205476,
+    205511,
+    205546,
+    205581,
+    205616,
+    205651,
+    205686,
+    205721,
+    205756
+  ]
+}

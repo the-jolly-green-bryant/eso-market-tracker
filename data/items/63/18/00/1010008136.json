@@ -1,0 +1,18 @@
+{
+  "internalId": 1010008136,
+  "name": "Ice Staff of True-Sworn Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1493107,
+    1512931,
+    1541121,
+    1561270,
+    1566838,
+    1569013,
+    1570025,
+    1580137,
+    1722502
+  ]
+}

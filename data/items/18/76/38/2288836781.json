@@ -1,0 +1,10 @@
+{
+  "internalId": 2288836781,
+  "name": "Coral Shelf, Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_coralflatcluster002.png",
+  "bindType": -1,
+  "knownIds": [
+    139108
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 2135223197,
+  "name": "Ring of the Spectre's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139686,
+    139776,
+    139866,
+    139956,
+    140046,
+    140136
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1623540761,
+  "name": "The Vicecanon's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78570,
+    78605
+  ]
+}

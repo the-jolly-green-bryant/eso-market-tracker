@@ -1,0 +1,10 @@
+{
+  "internalId": 3428879074,
+  "name": "A Bent Silver Ring",
+  "description": "A troll-smashed ring Gluineth gave you in thanks for leading her unharmed out of Troll's Toothpick.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    54476
+  ]
+}

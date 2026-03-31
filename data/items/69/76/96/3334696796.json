@@ -1,0 +1,16 @@
+{
+  "internalId": 3334696796,
+  "name": "Arkasis's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1410024,
+    1506348,
+    1560384,
+    1561736,
+    1659344,
+    1677577,
+    1779676
+  ]
+}

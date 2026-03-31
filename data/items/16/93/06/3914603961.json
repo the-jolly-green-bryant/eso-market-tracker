@@ -1,0 +1,10 @@
+{
+  "internalId": 3914603961,
+  "name": "Orcish Tapestry, Heroes",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgtapestry002.png",
+  "bindType": -1,
+  "knownIds": [
+    116455
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3790696486,
+  "name": "Lunar Reflector, Dormant",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_moonreflector001.png",
+  "bindType": -1,
+  "knownIds": [
+    175769
+  ]
+}

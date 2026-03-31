@@ -1,0 +1,10 @@
+{
+  "internalId": 1995364563,
+  "name": "ladyfish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
+  "bindType": -1,
+  "knownIds": [
+    381808
+  ]
+}

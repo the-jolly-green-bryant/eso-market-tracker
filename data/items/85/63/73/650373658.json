@@ -1,0 +1,11 @@
+{
+  "internalId": 650373658,
+  "name": "Clothier's Tape",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_equipment_001.png",
+  "bindType": -1,
+  "knownIds": [
+    861085,
+    1424739
+  ]
+}

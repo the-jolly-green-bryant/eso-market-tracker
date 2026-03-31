@@ -1,0 +1,17 @@
+{
+  "internalId": 3244338512,
+  "name": "Seventh Legion's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100779,
+    100799,
+    100819,
+    100839,
+    100859,
+    100879,
+    100899,
+    100919
+  ]
+}

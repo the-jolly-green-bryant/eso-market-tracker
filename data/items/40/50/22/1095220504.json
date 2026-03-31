@@ -1,0 +1,22 @@
+{
+  "internalId": 1095220504,
+  "name": "Shield of Sul-Xan's Torment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1476999,
+    1487394,
+    1490211,
+    1508205,
+    1517221,
+    1519195,
+    1529910,
+    1537419,
+    1624918,
+    1636930,
+    1639410,
+    1641050,
+    1679544
+  ]
+}

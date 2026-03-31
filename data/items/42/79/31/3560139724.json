@@ -1,0 +1,10 @@
+{
+  "internalId": 3560139724,
+  "name": "Makkoma",
+  "description": "Makkoma",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_022.png",
+  "bindType": -1,
+  "knownIds": [
+    45835
+  ]
+}

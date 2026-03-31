@@ -1,0 +1,18 @@
+{
+  "internalId": 1993582028,
+  "name": "Greatsword of Ursus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1289406,
+    1368337,
+    1401852,
+    1500351,
+    1562093,
+    1566070,
+    1569581,
+    1598382,
+    1731725
+  ]
+}

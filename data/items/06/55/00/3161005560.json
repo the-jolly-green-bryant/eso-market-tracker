@@ -1,0 +1,17 @@
+{
+  "internalId": 3161005560,
+  "name": "Maul of Agility",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69285,
+    69298,
+    69311,
+    69324,
+    69337,
+    69350,
+    69363,
+    69376
+  ]
+}

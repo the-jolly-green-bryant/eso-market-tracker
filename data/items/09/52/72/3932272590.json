@@ -1,0 +1,10 @@
+{
+  "internalId": 3932272590,
+  "name": "Aldmion's Amulet",
+  "description": "Imbued with some of the animal cruelty that comes from a life as a vampire and cultist.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    27272
+  ]
+}

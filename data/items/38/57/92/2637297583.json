@@ -1,0 +1,19 @@
+{
+  "internalId": 2637297583,
+  "name": "Karth's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168398,
+    168453,
+    168488,
+    168523,
+    168558,
+    168593,
+    168628,
+    168663,
+    168698,
+    168733
+  ]
+}

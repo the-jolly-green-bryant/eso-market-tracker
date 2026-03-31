@@ -1,0 +1,17 @@
+{
+  "internalId": 3424344877,
+  "name": "Enervating Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183578,
+    183598,
+    183618,
+    183638,
+    183658,
+    183678,
+    183698,
+    183718
+  ]
+}

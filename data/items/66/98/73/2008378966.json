@@ -1,0 +1,10 @@
+{
+  "internalId": 2008378966,
+  "name": "Sigil, Dibella",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_shrinedibella001.png",
+  "bindType": -1,
+  "knownIds": [
+    120817
+  ]
+}

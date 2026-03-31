@@ -1,0 +1,13 @@
+{
+  "internalId": 186005050,
+  "name": "Dagger of the Sergeant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89711,
+    89731,
+    89751,
+    89771
+  ]
+}

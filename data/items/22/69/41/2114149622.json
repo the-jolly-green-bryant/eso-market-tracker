@@ -1,0 +1,10 @@
+{
+  "internalId": 2114149622,
+  "name": "Boulder, Coldharbour Fan",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_coldharbor001.png",
+  "bindType": -1,
+  "knownIds": [
+    130273
+  ]
+}

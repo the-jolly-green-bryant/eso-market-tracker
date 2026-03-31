@@ -1,0 +1,10 @@
+{
+  "internalId": 1791663860,
+  "name": "Redguard Keg, Hefty",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargobarrelwine001.png",
+  "bindType": -1,
+  "knownIds": [
+    117708
+  ]
+}

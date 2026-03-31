@@ -1,0 +1,18 @@
+{
+  "internalId": 443548599,
+  "name": "Inferno Staff of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    160637,
+    160658,
+    160679,
+    160700,
+    160721,
+    160742,
+    160763,
+    160784,
+    160805
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2850734352,
+  "name": "Dark Elf Basin, Ringed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_flowerpotsh001.png",
+  "bindType": -1,
+  "knownIds": [
+    115280
+  ]
+}

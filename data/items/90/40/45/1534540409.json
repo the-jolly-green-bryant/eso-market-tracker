@@ -1,0 +1,15 @@
+{
+  "internalId": 1534540409,
+  "name": "Lightning Staff of Permafrost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1292284,
+    1392994,
+    1404136,
+    1489131,
+    1515622,
+    1689963
+  ]
+}

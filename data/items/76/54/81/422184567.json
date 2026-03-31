@@ -1,0 +1,15 @@
+{
+  "internalId": 422184567,
+  "name": "Necklace of the Song of Lamae",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139733,
+    139823,
+    139913,
+    140003,
+    140093,
+    140183
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 4207662375,
+  "name": "Spell Parasite's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163288,
+    163323,
+    163358,
+    163393
+  ]
+}

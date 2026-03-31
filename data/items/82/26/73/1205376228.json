@@ -1,0 +1,10 @@
+{
+  "internalId": 1205376228,
+  "name": "Necrom Planter, Small",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necchestsmall001a.png",
+  "bindType": -1,
+  "knownIds": [
+    198449
+  ]
+}

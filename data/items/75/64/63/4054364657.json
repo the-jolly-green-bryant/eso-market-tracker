@@ -1,0 +1,10 @@
+{
+  "internalId": 4054364657,
+  "name": "Fargrave Book Stack, Levitating",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farfloatingbookstack003.png",
+  "bindType": -1,
+  "knownIds": [
+    182225
+  ]
+}

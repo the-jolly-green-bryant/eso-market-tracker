@@ -1,0 +1,10 @@
+{
+  "internalId": 2276353051,
+  "name": "Tree, Towering Cypress",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkcypress004.png",
+  "bindType": -1,
+  "knownIds": [
+    121287
+  ]
+}

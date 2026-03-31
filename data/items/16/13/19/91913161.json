@@ -1,0 +1,19 @@
+{
+  "internalId": 91913161,
+  "name": "Innate Axiom Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130378,
+    130413,
+    130448,
+    130483,
+    130518,
+    130553,
+    130588,
+    130623,
+    130658,
+    130693
+  ]
+}

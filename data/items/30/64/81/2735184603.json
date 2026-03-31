@@ -1,0 +1,19 @@
+{
+  "internalId": 2735184603,
+  "name": "Bow of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69606,
+    69641,
+    69676,
+    69711,
+    69746,
+    69781,
+    69816,
+    69851,
+    69886,
+    69921
+  ]
+}

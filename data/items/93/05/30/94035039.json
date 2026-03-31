@@ -1,0 +1,10 @@
+{
+  "internalId": 94035039,
+  "name": "Plants, Cerulean Spadeleaf Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_hrcelephantearplant003.png",
+  "bindType": -1,
+  "knownIds": [
+    141753
+  ]
+}

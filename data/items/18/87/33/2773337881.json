@@ -1,0 +1,10 @@
+{
+  "internalId": 2773337881,
+  "name": "Hakoshae Lantern, Linked Rings",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_akavirilantern001.png",
+  "bindType": -1,
+  "knownIds": [
+    151745
+  ]
+}

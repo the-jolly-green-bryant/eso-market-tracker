@@ -1,0 +1,10 @@
+{
+  "internalId": 1938179914,
+  "name": "Ayleid Table, Carved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_altar001.png",
+  "bindType": -1,
+  "knownIds": [
+    130209
+  ]
+}

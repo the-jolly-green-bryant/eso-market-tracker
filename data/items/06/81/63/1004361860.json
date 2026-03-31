@@ -1,0 +1,10 @@
+{
+  "internalId": 1004361860,
+  "name": "Sapling, Lanky Ash",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_grahtwoodsaplings001.png",
+  "bindType": -1,
+  "knownIds": [
+    120607
+  ]
+}

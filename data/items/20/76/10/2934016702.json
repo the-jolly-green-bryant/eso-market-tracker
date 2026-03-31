@@ -1,0 +1,17 @@
+{
+  "internalId": 2934016702,
+  "name": "Rallying Cry Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183257,
+    183278,
+    183299,
+    183320,
+    183341,
+    183362,
+    183383,
+    183404
+  ]
+}

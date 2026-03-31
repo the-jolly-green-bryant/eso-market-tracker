@@ -1,0 +1,10 @@
+{
+  "internalId": 594640240,
+  "name": "Elsweyr Pot, Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_largepot001.png",
+  "bindType": -1,
+  "knownIds": [
+    151652
+  ]
+}

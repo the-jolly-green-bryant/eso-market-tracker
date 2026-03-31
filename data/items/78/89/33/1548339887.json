@@ -1,0 +1,17 @@
+{
+  "internalId": 1548339887,
+  "name": "Netch Oil Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211922,
+    211942,
+    211962,
+    211982,
+    212002,
+    212022,
+    212042,
+    212062
+  ]
+}

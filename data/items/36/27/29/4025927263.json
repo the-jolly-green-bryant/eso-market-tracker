@@ -1,0 +1,19 @@
+{
+  "internalId": 4025927263,
+  "name": "Yandir's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_dagger.png",
+  "bindType": -1,
+  "knownIds": [
+    1381091,
+    1411529,
+    1413649,
+    1517973,
+    1551643,
+    1614981,
+    1615029,
+    1622654,
+    1652025,
+    1779055
+  ]
+}

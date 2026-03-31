@@ -1,0 +1,19 @@
+{
+  "internalId": 3758126340,
+  "name": "Lightning Staff of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184781,
+    184836,
+    184871,
+    184906,
+    184941,
+    184976,
+    185011,
+    185046,
+    185081,
+    185116
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3231252755,
+  "name": "Ring of Summerset's Champion",
+  "description": "A plain silver band bestowed by Razum-dar on behalf of Queen Ayrenn, in token of your heroic actions across Summerset.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134722
+  ]
+}

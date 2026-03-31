@@ -1,0 +1,10 @@
+{
+  "internalId": 64288329,
+  "name": "Clockwork Piston, Miniature",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_kwamapedestalkeypiston001.png",
+  "bindType": -1,
+  "knownIds": [
+    134412
+  ]
+}

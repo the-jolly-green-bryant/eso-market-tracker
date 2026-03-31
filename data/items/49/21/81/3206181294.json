@@ -1,0 +1,10 @@
+{
+  "internalId": 3206181294,
+  "name": "Target Skeleton, Robust Khajiit",
+  "description": "This is a standard house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to an exceptionally hardy veteran dungeon boss.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_targetdummy_robustkhajiit_01.png",
+  "bindType": -1,
+  "knownIds": [
+    121399
+  ]
+}

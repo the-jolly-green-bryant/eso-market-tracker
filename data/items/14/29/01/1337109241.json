@@ -1,0 +1,19 @@
+{
+  "internalId": 1337109241,
+  "name": "Ice Staff of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168756,
+    168811,
+    168846,
+    168881,
+    168916,
+    168951,
+    168986,
+    169021,
+    169056,
+    169091
+  ]
+}

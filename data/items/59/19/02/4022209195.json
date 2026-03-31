@@ -1,0 +1,10 @@
+{
+  "internalId": 4022209195,
+  "name": "Pact's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_1hsword_b.png",
+  "bindType": 2,
+  "knownIds": [
+    55859
+  ]
+}

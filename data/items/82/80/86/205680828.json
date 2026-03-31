@@ -1,0 +1,10 @@
+{
+  "internalId": 205680828,
+  "name": "Bowfin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_salmon.png",
+  "bindType": -1,
+  "knownIds": [
+    1274031
+  ]
+}

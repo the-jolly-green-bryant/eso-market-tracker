@@ -1,0 +1,17 @@
+{
+  "internalId": 629074302,
+  "name": "Hat of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100038,
+    100059,
+    100080,
+    100101,
+    100122,
+    100143,
+    100164,
+    100185
+  ]
+}

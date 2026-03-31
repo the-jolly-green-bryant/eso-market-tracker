@@ -1,0 +1,10 @@
+{
+  "internalId": 3433439637,
+  "name": "Souvenir Cyrodiil Hammer Head",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_013.png",
+  "bindType": -1,
+  "knownIds": [
+    405740
+  ]
+}

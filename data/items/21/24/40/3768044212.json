@@ -1,0 +1,10 @@
+{
+  "internalId": 3768044212,
+  "name": "Nightshade Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    44222
+  ]
+}

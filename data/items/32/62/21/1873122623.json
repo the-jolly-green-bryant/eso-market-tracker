@@ -1,0 +1,10 @@
+{
+  "internalId": 1873122623,
+  "name": "Infused Buckler",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    631850
+  ]
+}

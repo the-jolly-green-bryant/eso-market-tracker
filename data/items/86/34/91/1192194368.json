@@ -1,0 +1,17 @@
+{
+  "internalId": 1192194368,
+  "name": "Coward's Gear Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123352,
+    123372,
+    123392,
+    123412,
+    123432,
+    123452,
+    123472,
+    123492
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2245059012,
+  "name": "Deadlands Assassin's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172131,
+    172151,
+    172171,
+    172191,
+    172211,
+    172231,
+    172251,
+    172271
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4056336622,
+  "name": "Cynric's Heavy Shield",
+  "description": "An ancient shield once wielded by the honorable Sir Cynric, guardian of Garick's Rest.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daggerfall_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    188103
+  ]
+}

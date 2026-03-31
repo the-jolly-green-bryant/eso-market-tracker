@@ -1,0 +1,18 @@
+{
+  "internalId": 2547046578,
+  "name": "Treasure Hunter's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_1hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1152972,
+    1395178,
+    1440259,
+    1547747,
+    1573774,
+    1627636,
+    1644729,
+    1648411,
+    1758645
+  ]
+}

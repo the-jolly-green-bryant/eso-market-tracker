@@ -1,0 +1,19 @@
+{
+  "internalId": 4012847822,
+  "name": "Shared Burden Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    215135,
+    215137,
+    215139,
+    215141,
+    215143,
+    215145,
+    215147,
+    215149,
+    215151,
+    215153
+  ]
+}

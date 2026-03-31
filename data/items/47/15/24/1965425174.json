@@ -1,0 +1,10 @@
+{
+  "internalId": 1965425174,
+  "name": "Plums, Bunch",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketproducepile001.png",
+  "bindType": -1,
+  "knownIds": [
+    118133
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1409749114,
+  "name": "Battlefield Acrobat Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144294,
+    144314,
+    144334,
+    144354,
+    144374,
+    144394,
+    144414,
+    144434
+  ]
+}

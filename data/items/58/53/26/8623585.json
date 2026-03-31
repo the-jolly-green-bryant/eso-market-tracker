@@ -1,0 +1,19 @@
+{
+  "internalId": 8623585,
+  "name": "Unchained Aggressor's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158705,
+    158760,
+    158795,
+    158830,
+    158865,
+    158900,
+    158935,
+    158970,
+    159005,
+    159040
+  ]
+}

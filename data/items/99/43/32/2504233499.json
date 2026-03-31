@@ -1,0 +1,17 @@
+{
+  "internalId": 2504233499,
+  "name": "Arkay's Charity Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213750,
+    213771,
+    213792,
+    213813,
+    213834,
+    213855,
+    213876,
+    213897
+  ]
+}

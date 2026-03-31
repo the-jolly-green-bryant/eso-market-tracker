@@ -1,0 +1,19 @@
+{
+  "internalId": 120538103,
+  "name": "Clever Alchemist Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72157,
+    72192,
+    72227,
+    72262,
+    72297,
+    72332,
+    72367,
+    72402,
+    72437,
+    72472
+  ]
+}

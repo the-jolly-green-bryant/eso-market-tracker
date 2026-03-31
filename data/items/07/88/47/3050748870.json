@@ -1,0 +1,10 @@
+{
+  "internalId": 3050748870,
+  "name": "Kraglen's Howl",
+  "description": "A Medium Armor set found in Stone Garden.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    167307
+  ]
+}

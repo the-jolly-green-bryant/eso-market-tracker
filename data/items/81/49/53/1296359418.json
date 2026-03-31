@@ -1,0 +1,19 @@
+{
+  "internalId": 1296359418,
+  "name": "Jack of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121929,
+    121964,
+    121999,
+    122034,
+    122069,
+    122104,
+    122139,
+    122174,
+    122209,
+    122244
+  ]
+}

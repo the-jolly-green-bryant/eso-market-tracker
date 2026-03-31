@@ -1,0 +1,10 @@
+{
+  "internalId": 3775741604,
+  "name": "Crafting Motif 22: Trinimac Daggers",
+  "description": "Use to learn how to make Trinimac Daggers. Also teaches the equivalent Trinimac Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    71556
+  ]
+}

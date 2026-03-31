@@ -1,0 +1,10 @@
+{
+  "internalId": 314234994,
+  "name": "Crafting Motif 124: The Recollection Style",
+  "description": "Use to learn the Recollection crafting style. Also teaches the equivalent the Recollection Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    203182
+  ]
+}

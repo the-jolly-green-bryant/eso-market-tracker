@@ -1,0 +1,22 @@
+{
+  "internalId": 1260905592,
+  "name": "Battle Axe of Mending",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1131187,
+    1191839,
+    1211165,
+    1311941,
+    1419242,
+    1538969,
+    1577457,
+    1610105,
+    1622141,
+    1693419,
+    1739735,
+    1751262,
+    1777439
+  ]
+}

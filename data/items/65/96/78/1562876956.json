@@ -1,0 +1,11 @@
+{
+  "internalId": 1562876956,
+  "name": "Axe of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99186,
+    99206
+  ]
+}

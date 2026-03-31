@@ -1,0 +1,13 @@
+{
+  "internalId": 3571697741,
+  "name": "Ring of the Pestilent Host",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1395185,
+    1398497,
+    1455859,
+    1456765
+  ]
+}

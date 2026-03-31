@@ -1,0 +1,19 @@
+{
+  "internalId": 3157949625,
+  "name": "Karth's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168390,
+    168445,
+    168480,
+    168515,
+    168550,
+    168585,
+    168620,
+    168655,
+    168690,
+    168725
+  ]
+}

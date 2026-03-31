@@ -1,0 +1,10 @@
+{
+  "internalId": 74567807,
+  "name": "Mushroom, Netch Shield Platform",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdmushroom001.png",
+  "bindType": -1,
+  "knownIds": [
+    125593
+  ]
+}

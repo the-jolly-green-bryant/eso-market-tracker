@@ -1,0 +1,10 @@
+{
+  "internalId": 1911876764,
+  "name": "Grimoire: Trample",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_assault.png",
+  "bindType": 3,
+  "knownIds": [
+    204495
+  ]
+}

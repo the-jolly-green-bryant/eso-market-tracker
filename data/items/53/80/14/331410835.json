@@ -1,0 +1,10 @@
+{
+  "internalId": 331410835,
+  "name": "Luminous Ink",
+  "description": "Used to scribe scripts onto grimoires.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_ink.png",
+  "bindType": -1,
+  "knownIds": [
+    204881
+  ]
+}

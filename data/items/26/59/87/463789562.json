@@ -1,0 +1,10 @@
+{
+  "internalId": 463789562,
+  "name": "Elsweyr Platform, Wooden Small",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_aqueductcanalcover001.png",
+  "bindType": -1,
+  "knownIds": [
+    151774
+  ]
+}

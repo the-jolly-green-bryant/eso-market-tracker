@@ -1,0 +1,17 @@
+{
+  "internalId": 1642470191,
+  "name": "Pauldron of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88187,
+    88207,
+    88227,
+    88247,
+    88267,
+    88287,
+    88307,
+    88327
+  ]
+}

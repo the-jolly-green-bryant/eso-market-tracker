@@ -1,0 +1,10 @@
+{
+  "internalId": 1142191937,
+  "name": "Vale's Legacy Leggings",
+  "description": "These surprisingly comfortable leggings were a gift for protecting the Fading Tree in the Shrouded Hollow.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10879
+  ]
+}

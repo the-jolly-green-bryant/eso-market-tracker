@@ -1,0 +1,11 @@
+{
+  "internalId": 598019631,
+  "name": "Grand Soul Gem",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_006_filled.png",
+  "bindType": -1,
+  "knownIds": [
+    364044,
+    687229
+  ]
+}

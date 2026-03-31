@@ -1,0 +1,19 @@
+{
+  "internalId": 3833829833,
+  "name": "Mace of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179555,
+    179610,
+    179645,
+    179680,
+    179715,
+    179750,
+    179785,
+    179820,
+    179855,
+    179890
+  ]
+}

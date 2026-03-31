@@ -1,0 +1,15 @@
+{
+  "internalId": 2880078090,
+  "name": "Glacial Guardian's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1569182,
+    1595430,
+    1602269,
+    1605758,
+    1623875,
+    1761079
+  ]
+}

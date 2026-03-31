@@ -1,0 +1,10 @@
+{
+  "internalId": 1514602165,
+  "name": "Oranu's Tapestry Piece",
+  "description": "A stolen scrap from a priceless Khajiit tapestry. Return this to Bebbia Sleek-Fur in Senchal Palace, in Southern Elsweyr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_void.png",
+  "bindType": 3,
+  "knownIds": [
+    151943
+  ]
+}

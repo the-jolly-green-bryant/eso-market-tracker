@@ -1,0 +1,19 @@
+{
+  "internalId": 1350623230,
+  "name": "Sash of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70646,
+    70681,
+    70716,
+    70751,
+    70786,
+    70821,
+    70856,
+    70891,
+    70926,
+    70961
+  ]
+}

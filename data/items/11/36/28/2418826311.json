@@ -1,0 +1,19 @@
+{
+  "internalId": 2418826311,
+  "name": "Bow of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121908,
+    121943,
+    121978,
+    122013,
+    122048,
+    122083,
+    122118,
+    122153,
+    122188,
+    122223
+  ]
+}

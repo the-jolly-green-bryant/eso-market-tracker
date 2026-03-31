@@ -1,0 +1,10 @@
+{
+  "internalId": 3001894707,
+  "name": "Alinor Maple, Large Red",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_japanesemaplered006.png",
+  "bindType": -1,
+  "knownIds": [
+    203585
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4260447748,
+  "name": "Sload's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136101,
+    136136,
+    136171,
+    136206,
+    136241,
+    136276,
+    136311,
+    136346,
+    136381,
+    136416
+  ]
+}

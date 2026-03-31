@@ -1,0 +1,10 @@
+{
+  "internalId": 4253084024,
+  "name": "Possessed Shred",
+  "description": "Consume 10 Possessed Shreds to unlock the Haunted By Netches achievement and the Witches Festival Ghost Netch Pet!",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_echaterewool_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    199137
+  ]
+}

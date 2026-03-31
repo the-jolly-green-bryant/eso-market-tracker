@@ -1,0 +1,14 @@
+{
+  "internalId": 3693516428,
+  "name": "Battle Axe of Vicious Death",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199698,
+    199699,
+    199700,
+    199701,
+    199702
+  ]
+}

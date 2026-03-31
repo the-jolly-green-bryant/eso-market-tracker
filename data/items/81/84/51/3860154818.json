@@ -1,0 +1,10 @@
+{
+  "internalId": 3860154818,
+  "name": "Jewelry: Knight-Errant's Mail",
+  "description": "A Heavy Armor set found in Blackheart Haven.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114215
+  ]
+}

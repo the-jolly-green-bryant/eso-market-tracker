@@ -1,0 +1,17 @@
+{
+  "internalId": 1248708607,
+  "name": "Restoration Staff of the Dreugh King Slayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80871,
+    80891,
+    80911,
+    80931,
+    80951,
+    80963,
+    80983,
+    81003
+  ]
+}

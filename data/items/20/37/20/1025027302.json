@@ -1,0 +1,10 @@
+{
+  "internalId": 1025027302,
+  "name": "Khajiit Bed, Canopy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_bedcanopy001.png",
+  "bindType": -1,
+  "knownIds": [
+    115682
+  ]
+}

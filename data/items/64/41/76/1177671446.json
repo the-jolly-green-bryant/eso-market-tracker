@@ -1,0 +1,11 @@
+{
+  "internalId": 1177671446,
+  "name": "Corpseburster Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1736625,
+    1743189
+  ]
+}

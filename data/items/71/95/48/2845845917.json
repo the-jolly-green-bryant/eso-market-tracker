@@ -1,0 +1,10 @@
+{
+  "internalId": 2845845917,
+  "name": "High Elf Cabinet, Corner",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_countercorner001.png",
+  "bindType": -1,
+  "knownIds": [
+    114384
+  ]
+}

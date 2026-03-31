@@ -1,0 +1,10 @@
+{
+  "internalId": 2524457361,
+  "name": "Khaj Rawlith Crescent of the Smuggler",
+  "description": "Found in the ruins beneath Fort Grimwatch, this is a relic of ancient times.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10921
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2237935738,
+  "name": "Deadlands Assassin's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172142,
+    172162,
+    172182,
+    172202,
+    172222,
+    172242,
+    172262,
+    172282
+  ]
+}

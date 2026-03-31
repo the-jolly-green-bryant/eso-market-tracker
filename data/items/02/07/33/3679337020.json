@@ -1,0 +1,10 @@
+{
+  "internalId": 3679337020,
+  "name": "Scrimshaw, Ancient Vessel",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshaw005.png",
+  "bindType": -1,
+  "knownIds": [
+    139256
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1302144677,
+  "name": "Coldharbour's Favorite Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147961,
+    148016,
+    148051,
+    148086,
+    148121,
+    148156,
+    148191,
+    148226,
+    148261,
+    148296
+  ]
+}

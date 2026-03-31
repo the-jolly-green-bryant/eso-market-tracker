@@ -1,0 +1,16 @@
+{
+  "internalId": 3536861274,
+  "name": "Bow of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85642,
+    85663,
+    85684,
+    85705,
+    85726,
+    85747,
+    85768
+  ]
+}

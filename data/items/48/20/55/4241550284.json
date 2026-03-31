@@ -1,0 +1,13 @@
+{
+  "internalId": 4241550284,
+  "name": "Shacklebreaker Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122474,
+    122509,
+    122544,
+    122579
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2522701265,
+  "name": "Plaguebreak Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180606,
+    180626,
+    180646,
+    180666,
+    180686,
+    180706,
+    180726,
+    180746
+  ]
+}

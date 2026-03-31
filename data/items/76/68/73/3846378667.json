@@ -1,0 +1,17 @@
+{
+  "internalId": 3846378667,
+  "name": "Ice Staff of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84534,
+    84554,
+    84574,
+    84594,
+    84614,
+    84634,
+    84654,
+    84674
+  ]
+}

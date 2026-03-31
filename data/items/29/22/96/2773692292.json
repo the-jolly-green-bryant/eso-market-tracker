@@ -1,0 +1,10 @@
+{
+  "internalId": 2773692292,
+  "name": "Argonian Tablet, Vos-Toh of Death",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housingsol_inc_vostohsithiscrests003.png",
+  "bindType": -1,
+  "knownIds": [
+    220340
+  ]
+}

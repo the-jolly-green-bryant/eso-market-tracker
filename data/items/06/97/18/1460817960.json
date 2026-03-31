@@ -1,0 +1,10 @@
+{
+  "internalId": 1460817960,
+  "name": "Crown Soul Gem",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_soulgem_001.png",
+  "bindType": -1,
+  "knownIds": [
+    932361
+  ]
+}

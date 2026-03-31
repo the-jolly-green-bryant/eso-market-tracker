@@ -1,0 +1,16 @@
+{
+  "internalId": 441938907,
+  "name": "Knight Slayer Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123569,
+    123590,
+    123611,
+    123632,
+    123653,
+    123674,
+    123695
+  ]
+}

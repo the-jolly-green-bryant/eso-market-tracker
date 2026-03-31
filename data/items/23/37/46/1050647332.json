@@ -1,0 +1,19 @@
+{
+  "internalId": 1050647332,
+  "name": "Chimera's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191256,
+    191311,
+    191346,
+    191381,
+    191416,
+    191451,
+    191486,
+    191521,
+    191556,
+    191591
+  ]
+}

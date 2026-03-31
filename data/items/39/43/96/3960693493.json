@@ -1,0 +1,10 @@
+{
+  "internalId": 3960693493,
+  "name": "Hlaalu Rack, Barrel",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlamerchantcaskstand001.png",
+  "bindType": -1,
+  "knownIds": [
+    126343
+  ]
+}

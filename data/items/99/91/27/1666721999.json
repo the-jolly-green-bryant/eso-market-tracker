@@ -1,0 +1,17 @@
+{
+  "internalId": 1666721999,
+  "name": "Inferno Staff of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    204892,
+    204913,
+    204934,
+    204955,
+    204976,
+    204997,
+    205018,
+    205039
+  ]
+}

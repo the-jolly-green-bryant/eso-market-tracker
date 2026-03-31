@@ -1,0 +1,18 @@
+{
+  "internalId": 2603718110,
+  "name": "Jack of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158399,
+    158434,
+    158469,
+    158504,
+    158539,
+    158574,
+    158609,
+    158644,
+    158679
+  ]
+}

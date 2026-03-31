@@ -1,0 +1,17 @@
+{
+  "internalId": 387940281,
+  "name": "Afflicted Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89274,
+    89294,
+    89314,
+    89334,
+    89354,
+    89374,
+    89394,
+    89414
+  ]
+}

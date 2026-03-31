@@ -1,0 +1,20 @@
+{
+  "internalId": 2173666495,
+  "name": "Maul of the Scathing Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_2hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1189101,
+    1303324,
+    1333899,
+    1398099,
+    1402142,
+    1407820,
+    1532843,
+    1585950,
+    1592556,
+    1689977,
+    1773941
+  ]
+}

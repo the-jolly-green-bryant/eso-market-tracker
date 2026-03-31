@@ -1,0 +1,17 @@
+{
+  "internalId": 2748674347,
+  "name": "Battle Axe of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86566,
+    86586,
+    86606,
+    86626,
+    86646,
+    86666,
+    86686,
+    86706
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 825477389,
+  "name": "Breeches of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171967,
+    171988,
+    172009,
+    172030,
+    172051,
+    172072,
+    172093,
+    172114
+  ]
+}

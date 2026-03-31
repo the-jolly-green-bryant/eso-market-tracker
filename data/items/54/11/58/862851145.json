@@ -1,0 +1,10 @@
+{
+  "internalId": 862851145,
+  "name": "Bandit Note",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_001.png",
+  "bindType": -1,
+  "knownIds": [
+    393304
+  ]
+}

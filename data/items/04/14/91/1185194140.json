@@ -1,0 +1,10 @@
+{
+  "internalId": 1185194140,
+  "name": "Hew's Bane Bed, Royal",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_royalbed001.png",
+  "bindType": -1,
+  "knownIds": [
+    120803
+  ]
+}

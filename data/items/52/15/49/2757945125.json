@@ -1,0 +1,19 @@
+{
+  "internalId": 2757945125,
+  "name": "Robe of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179574,
+    179629,
+    179664,
+    179699,
+    179734,
+    179769,
+    179804,
+    179839,
+    179874,
+    179909
+  ]
+}

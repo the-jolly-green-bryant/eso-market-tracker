@@ -1,0 +1,10 @@
+{
+  "internalId": 986535799,
+  "name": "Redguard Couch, Padded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_bench001.png",
+  "bindType": -1,
+  "knownIds": [
+    117709
+  ]
+}

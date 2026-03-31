@@ -1,0 +1,16 @@
+{
+  "internalId": 4088124321,
+  "name": "Highland Sentinel Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205917,
+    205952,
+    205987,
+    206022,
+    206057,
+    206092,
+    206127
+  ]
+}

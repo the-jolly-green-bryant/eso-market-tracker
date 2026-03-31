@@ -1,0 +1,17 @@
+{
+  "internalId": 434960658,
+  "name": "Dagger of the Gorethief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    224382,
+    224417,
+    224452,
+    224487,
+    224522,
+    224557,
+    224592,
+    224627
+  ]
+}

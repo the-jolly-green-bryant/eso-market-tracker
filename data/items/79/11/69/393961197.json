@@ -1,0 +1,13 @@
+{
+  "internalId": 393961197,
+  "name": "serum of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    375078,
+    699516,
+    1433166,
+    1573022
+  ]
+}

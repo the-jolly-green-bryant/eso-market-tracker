@@ -1,0 +1,11 @@
+{
+  "internalId": 3374951248,
+  "name": "Sweetroll",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketsweetroll001.png",
+  "bindType": -1,
+  "knownIds": [
+    118355,
+    57151
+  ]
+}

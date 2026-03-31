@@ -1,0 +1,10 @@
+{
+  "internalId": 1677855810,
+  "name": "Clockwork Illuminator, Solitary Capsule",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_lsb_lightcapsule001.png",
+  "bindType": -1,
+  "knownIds": [
+    134368
+  ]
+}

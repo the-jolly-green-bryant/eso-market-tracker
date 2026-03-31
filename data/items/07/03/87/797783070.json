@@ -1,0 +1,19 @@
+{
+  "internalId": 797783070,
+  "name": "Coldharbour's Favorite Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147960,
+    148015,
+    148050,
+    148085,
+    148120,
+    148155,
+    148190,
+    148225,
+    148260,
+    148295
+  ]
+}

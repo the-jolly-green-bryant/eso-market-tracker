@@ -1,0 +1,11 @@
+{
+  "internalId": 2688252534,
+  "name": "Rimmen Raisin Cookies",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cookie_004.png",
+  "bindType": -1,
+  "knownIds": [
+    57083,
+    37961
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 97041712,
+  "name": "Alinor Bed, Canopy Full",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_bed004.png",
+  "bindType": -1,
+  "knownIds": [
+    139214
+  ]
+}

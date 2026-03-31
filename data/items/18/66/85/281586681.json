@@ -1,0 +1,17 @@
+{
+  "internalId": 281586681,
+  "name": "Coward's Gear Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123367,
+    123387,
+    123407,
+    123427,
+    123447,
+    123467,
+    123487,
+    123507
+  ]
+}

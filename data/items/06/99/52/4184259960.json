@@ -1,0 +1,10 @@
+{
+  "internalId": 4184259960,
+  "name": "High Elf Bench, Covered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_bench001.png",
+  "bindType": -1,
+  "knownIds": [
+    114375
+  ]
+}

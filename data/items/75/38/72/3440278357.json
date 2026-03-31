@@ -1,0 +1,17 @@
+{
+  "internalId": 3440278357,
+  "name": "Maul of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97596,
+    97616,
+    97636,
+    97656,
+    97676,
+    97696,
+    97716,
+    97736
+  ]
+}

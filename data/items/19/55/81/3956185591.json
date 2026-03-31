@@ -1,0 +1,22 @@
+{
+  "internalId": 3956185591,
+  "name": "Renald's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1361369,
+    1371218,
+    1387662,
+    1398358,
+    1400760,
+    1421231,
+    1543931,
+    1553720,
+    1582592,
+    1594588,
+    1622885,
+    1687233,
+    1779615
+  ]
+}

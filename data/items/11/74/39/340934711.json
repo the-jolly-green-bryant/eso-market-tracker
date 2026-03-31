@@ -1,0 +1,19 @@
+{
+  "internalId": 340934711,
+  "name": "Dagger of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121907,
+    121942,
+    121977,
+    122012,
+    122047,
+    122082,
+    122117,
+    122152,
+    122187,
+    122222
+  ]
+}

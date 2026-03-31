@@ -1,0 +1,10 @@
+{
+  "internalId": 2300894451,
+  "name": "Breton Bed, Four-Poster",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_bedelegant001.png",
+  "bindType": -1,
+  "knownIds": [
+    115180
+  ]
+}

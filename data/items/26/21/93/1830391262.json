@@ -1,0 +1,13 @@
+{
+  "internalId": 1830391262,
+  "name": "Blackfeather Flight Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214165,
+    214185,
+    214205,
+    214225
+  ]
+}

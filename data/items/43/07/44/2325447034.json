@@ -1,0 +1,10 @@
+{
+  "internalId": 2325447034,
+  "name": "Bala's Engagement Chain",
+  "description": "This necklace imbues its wearer with better health and a more positive mental outlook.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    7383
+  ]
+}

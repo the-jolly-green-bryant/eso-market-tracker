@@ -1,0 +1,17 @@
+{
+  "internalId": 3891248692,
+  "name": "Inferno Staff of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80557,
+    80577,
+    80597,
+    80617,
+    80637,
+    80649,
+    80669,
+    80689
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 218954730,
+  "name": "Necrom Chandelier, Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necchandelier003.png",
+  "bindType": -1,
+  "knownIds": [
+    197692
+  ]
+}

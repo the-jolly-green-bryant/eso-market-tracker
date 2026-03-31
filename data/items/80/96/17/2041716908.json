@@ -1,0 +1,14 @@
+{
+  "internalId": 2041716908,
+  "name": "Corpseburster Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729065,
+    1729073,
+    1729078,
+    1739150,
+    1752930
+  ]
+}

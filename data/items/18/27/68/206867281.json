@@ -1,0 +1,10 @@
+{
+  "internalId": 206867281,
+  "name": "Rough Axe, Practical",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_axe001.png",
+  "bindType": -1,
+  "knownIds": [
+    117939
+  ]
+}

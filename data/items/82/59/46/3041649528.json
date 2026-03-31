@@ -1,0 +1,10 @@
+{
+  "internalId": 3041649528,
+  "name": "Mushrooms, Climbing Aether Cup",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_hrcbiolumshroom006.png",
+  "bindType": -1,
+  "knownIds": [
+    141757
+  ]
+}

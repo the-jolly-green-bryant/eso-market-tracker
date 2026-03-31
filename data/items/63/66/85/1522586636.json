@@ -1,0 +1,11 @@
+{
+  "internalId": 1522586636,
+  "name": "Dauntless Combatant's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159377,
+    159412
+  ]
+}

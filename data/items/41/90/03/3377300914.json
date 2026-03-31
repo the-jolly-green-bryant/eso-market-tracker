@@ -1,0 +1,12 @@
+{
+  "internalId": 3377300914,
+  "name": "Adept Rider's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135963,
+    135998,
+    136033
+  ]
+}

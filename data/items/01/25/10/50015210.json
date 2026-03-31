@@ -1,0 +1,16 @@
+{
+  "internalId": 50015210,
+  "name": "Dro'zakar's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1353026,
+    1495022,
+    1510095,
+    1582893,
+    1583605,
+    1596435,
+    1779623
+  ]
+}

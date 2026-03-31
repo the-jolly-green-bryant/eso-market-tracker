@@ -1,0 +1,19 @@
+{
+  "internalId": 3049534783,
+  "name": "Unchained Aggressor's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158719,
+    158774,
+    158809,
+    158844,
+    158879,
+    158914,
+    158949,
+    158984,
+    159019,
+    159054
+  ]
+}

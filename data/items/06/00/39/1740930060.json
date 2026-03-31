@@ -1,0 +1,10 @@
+{
+  "internalId": 1740930060,
+  "name": "Bound Style Page: Hungering Void Battle Axe",
+  "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": 3,
+  "knownIds": [
+    171439
+  ]
+}

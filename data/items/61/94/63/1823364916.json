@@ -1,0 +1,10 @@
+{
+  "internalId": 1823364916,
+  "name": "Ginkgo",
+  "description": "An ingredient for crafting beverages.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_gin_005.png",
+  "bindType": -1,
+  "knownIds": [
+    34346
+  ]
+}

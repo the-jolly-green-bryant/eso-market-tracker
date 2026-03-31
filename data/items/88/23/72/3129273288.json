@@ -1,0 +1,14 @@
+{
+  "internalId": 3129273288,
+  "name": "Grave-Stake Collector Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142998,
+    143033,
+    143068,
+    143103,
+    143138
+  ]
+}

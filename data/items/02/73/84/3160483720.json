@@ -1,0 +1,17 @@
+{
+  "internalId": 3160483720,
+  "name": "Jack of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95658,
+    95678,
+    95698,
+    95718,
+    95738,
+    95758,
+    95778,
+    95798
+  ]
+}

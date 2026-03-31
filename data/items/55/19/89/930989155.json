@@ -1,0 +1,17 @@
+{
+  "internalId": 930989155,
+  "name": "Smuggler's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100971,
+    100992,
+    101013,
+    101034,
+    101055,
+    101076,
+    101097,
+    101118
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1112135431,
+  "name": "Game",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_vendor_fuel_meat_001.png",
+  "bindType": -1,
+  "knownIds": [
+    28609
+  ]
+}

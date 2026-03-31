@@ -1,0 +1,13 @@
+{
+  "internalId": 3082731841,
+  "name": "Aegis Caller's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1351144,
+    1356262,
+    1356411,
+    1380008
+  ]
+}

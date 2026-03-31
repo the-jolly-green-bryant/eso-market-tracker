@@ -1,0 +1,10 @@
+{
+  "internalId": 1492210495,
+  "name": "Fire-Quencher's Staff",
+  "description": "This druidic staff exudes a chilling aura, capable of calming the fiery eruptions of High Isle.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    188131
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3518320541,
+  "name": "Pyrebrand Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_shoulders_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731383,
+    1733538,
+    1738631,
+    1746561,
+    1777501
+  ]
+}

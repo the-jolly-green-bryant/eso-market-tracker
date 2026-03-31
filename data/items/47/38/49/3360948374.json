@@ -1,0 +1,10 @@
+{
+  "internalId": 3360948374,
+  "name": "Elsweyr Platform, Wooden Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_merchantdeck001.png",
+  "bindType": -1,
+  "knownIds": [
+    151773
+  ]
+}

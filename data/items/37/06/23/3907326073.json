@@ -1,0 +1,19 @@
+{
+  "internalId": 3907326073,
+  "name": "Might of the Lost Legion Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143558,
+    143613,
+    143648,
+    143683,
+    143718,
+    143753,
+    143788,
+    143823,
+    143858,
+    143893
+  ]
+}

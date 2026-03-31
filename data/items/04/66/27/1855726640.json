@@ -1,0 +1,17 @@
+{
+  "internalId": 1855726640,
+  "name": "Pauldron of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78626,
+    78661,
+    78696,
+    78731,
+    78766,
+    78801,
+    78836,
+    78871
+  ]
+}

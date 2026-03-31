@@ -1,0 +1,17 @@
+{
+  "internalId": 728107123,
+  "name": "Boots of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93919,
+    93939,
+    93959,
+    93979,
+    93999,
+    94019,
+    94039,
+    94059
+  ]
+}

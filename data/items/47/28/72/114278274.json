@@ -1,0 +1,10 @@
+{
+  "internalId": 114278274,
+  "name": "White Cap",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mushroom_white_cap_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    30154
+  ]
+}

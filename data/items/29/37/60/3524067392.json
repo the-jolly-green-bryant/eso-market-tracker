@@ -1,0 +1,17 @@
+{
+  "internalId": 3524067392,
+  "name": "Greatsword of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167437,
+    167457,
+    167477,
+    167497,
+    167517,
+    167537,
+    167557,
+    167577
+  ]
+}

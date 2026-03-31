@@ -1,0 +1,18 @@
+{
+  "internalId": 1064248159,
+  "name": "Greatsword of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86750,
+    86771,
+    86792,
+    86813,
+    86834,
+    86855,
+    86876,
+    86897,
+    86918
+  ]
+}

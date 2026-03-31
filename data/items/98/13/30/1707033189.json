@@ -1,0 +1,17 @@
+{
+  "internalId": 1707033189,
+  "name": "Full Belly Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214864,
+    214884,
+    214904,
+    214924,
+    214944,
+    214964,
+    214984,
+    215004
+  ]
+}

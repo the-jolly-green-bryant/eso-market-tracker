@@ -1,0 +1,10 @@
+{
+  "internalId": 659253502,
+  "name": "Elsweyr Pillow, Gold-Ruby Roll",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_longroundpillow001.png",
+  "bindType": -1,
+  "knownIds": [
+    151898
+  ]
+}

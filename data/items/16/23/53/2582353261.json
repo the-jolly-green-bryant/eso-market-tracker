@@ -1,0 +1,19 @@
+{
+  "internalId": 2582353261,
+  "name": "Daring Corsair's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155438,
+    155493,
+    155528,
+    155563,
+    155598,
+    155633,
+    155668,
+    155703,
+    155738,
+    155773
+  ]
+}

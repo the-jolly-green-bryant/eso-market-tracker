@@ -1,0 +1,10 @@
+{
+  "internalId": 4221321442,
+  "name": "Reach Totem, Twig Symbol",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc__icereachwitchsymbol001.png",
+  "bindType": -1,
+  "knownIds": [
+    198058
+  ]
+}

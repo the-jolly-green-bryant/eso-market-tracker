@@ -1,0 +1,11 @@
+{
+  "internalId": 1432751883,
+  "name": "Ring of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    116519,
+    116523
+  ]
+}

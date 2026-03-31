@@ -1,0 +1,10 @@
+{
+  "internalId": 3856298410,
+  "name": "Weapons: Ysgramor's Birthright",
+  "description": "A Light Armor set found in The Rift.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114147
+  ]
+}

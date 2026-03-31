@@ -1,0 +1,10 @@
+{
+  "internalId": 227276057,
+  "name": "Thunderbug Carapace Bugslayer",
+  "description": "This dagger still has remnants of insect ichor on the blade.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34755
+  ]
+}

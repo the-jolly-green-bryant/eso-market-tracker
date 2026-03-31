@@ -1,0 +1,13 @@
+{
+  "internalId": 3285700403,
+  "name": "Maul of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93079,
+    93099,
+    93119,
+    93139
+  ]
+}

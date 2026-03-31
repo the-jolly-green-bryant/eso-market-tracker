@@ -1,0 +1,10 @@
+{
+  "internalId": 2554293200,
+  "name": "Alinor Meal, Complete Setting",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_tablesetting003.png",
+  "bindType": -1,
+  "knownIds": [
+    139287
+  ]
+}

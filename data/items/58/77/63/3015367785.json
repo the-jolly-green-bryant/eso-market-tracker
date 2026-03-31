@@ -1,0 +1,10 @@
+{
+  "internalId": 3015367785,
+  "name": "Dark Elf Bed, Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_singlebed001.png",
+  "bindType": -1,
+  "knownIds": [
+    115276
+  ]
+}

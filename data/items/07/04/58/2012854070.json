@@ -1,0 +1,19 @@
+{
+  "internalId": 2012854070,
+  "name": "Might of the Lost Legion Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    143567,
+    143569,
+    143571,
+    143573,
+    143575,
+    143577,
+    143579,
+    143581,
+    143583,
+    143585
+  ]
+}

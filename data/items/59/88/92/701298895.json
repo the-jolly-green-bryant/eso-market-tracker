@@ -1,0 +1,10 @@
+{
+  "internalId": 701298895,
+  "name": "Breton Amphora, Ceramic",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_urnmediumnodirt001.png",
+  "bindType": -1,
+  "knownIds": [
+    115172
+  ]
+}

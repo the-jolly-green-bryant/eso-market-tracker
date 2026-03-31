@@ -1,0 +1,19 @@
+{
+  "internalId": 3998894905,
+  "name": "Arm Cops of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60678,
+    60713,
+    60748,
+    60783,
+    60818,
+    60853,
+    60888,
+    60923,
+    60958,
+    60993
+  ]
+}

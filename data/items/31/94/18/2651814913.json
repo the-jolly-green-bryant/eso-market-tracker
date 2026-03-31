@@ -1,0 +1,10 @@
+{
+  "internalId": 2651814913,
+  "name": "Runebox: Gloam Gryphon Fledgling",
+  "description": "Contains a Gloam Gryphon Fledgling Pet. This container can be traded, mailed, and posted to Guild Banks and Guild Stores - however, once opened, the Runebox (and its contents) are bound to your account.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    182591
+  ]
+}

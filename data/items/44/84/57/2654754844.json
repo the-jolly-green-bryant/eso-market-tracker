@@ -1,0 +1,10 @@
+{
+  "internalId": 2654754844,
+  "name": "High Elf Desk, Regal Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_desk001.png",
+  "bindType": -1,
+  "knownIds": [
+    114385
+  ]
+}

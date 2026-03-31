@@ -1,0 +1,10 @@
+{
+  "internalId": 3830745940,
+  "name": "Basin of the Divines",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_templebasin001.png",
+  "bindType": -1,
+  "knownIds": [
+    134832
+  ]
+}

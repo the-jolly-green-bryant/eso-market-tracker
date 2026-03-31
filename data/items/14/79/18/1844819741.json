@@ -1,0 +1,17 @@
+{
+  "internalId": 1844819741,
+  "name": "Darloc Brae's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149443,
+    149463,
+    149483,
+    149503,
+    149523,
+    149543,
+    149563,
+    149583
+  ]
+}

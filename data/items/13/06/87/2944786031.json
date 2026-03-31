@@ -1,0 +1,17 @@
+{
+  "internalId": 2944786031,
+  "name": "Belt of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93560,
+    93580,
+    93600,
+    93620,
+    93640,
+    93660,
+    93680,
+    93700
+  ]
+}

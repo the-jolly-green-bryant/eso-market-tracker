@@ -1,0 +1,10 @@
+{
+  "internalId": 2480710066,
+  "name": "Fern, Dead",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rift_ferns002.png",
+  "bindType": -1,
+  "knownIds": [
+    120496
+  ]
+}

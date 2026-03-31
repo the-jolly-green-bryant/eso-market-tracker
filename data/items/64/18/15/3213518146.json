@@ -1,0 +1,17 @@
+{
+  "internalId": 3213518146,
+  "name": "Girdle of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78960,
+    78995,
+    79030,
+    79065,
+    79100,
+    79135,
+    79170,
+    79243
+  ]
+}

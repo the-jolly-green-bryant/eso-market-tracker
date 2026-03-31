@@ -1,0 +1,17 @@
+{
+  "internalId": 1445806789,
+  "name": "Inferno Staff of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99475,
+    99495,
+    99515,
+    99535,
+    99555,
+    99575,
+    99595,
+    99615
+  ]
+}

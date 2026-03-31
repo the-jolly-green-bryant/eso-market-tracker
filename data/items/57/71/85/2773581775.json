@@ -1,0 +1,15 @@
+{
+  "internalId": 2773581775,
+  "name": "Inferno Staff of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168167,
+    168202,
+    168237,
+    168272,
+    168307,
+    168342
+  ]
+}

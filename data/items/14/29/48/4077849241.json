@@ -1,0 +1,10 @@
+{
+  "internalId": 4077849241,
+  "name": "Breton Bookcase, Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_bookcasetall002.png",
+  "bindType": -1,
+  "knownIds": [
+    115158
+  ]
+}

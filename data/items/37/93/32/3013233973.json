@@ -1,0 +1,10 @@
+{
+  "internalId": 3013233973,
+  "name": "Ring of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    91180
+  ]
+}

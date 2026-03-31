@@ -1,0 +1,11 @@
+{
+  "internalId": 554967050,
+  "name": "Pyrebrand Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_mace.png",
+  "bindType": -1,
+  "knownIds": [
+    1735250,
+    1779077
+  ]
+}

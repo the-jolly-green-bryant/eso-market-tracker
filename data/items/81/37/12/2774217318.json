@@ -1,0 +1,17 @@
+{
+  "internalId": 2774217318,
+  "name": "Maul of Endurance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69065,
+    69078,
+    69091,
+    69104,
+    69117,
+    69130,
+    69143,
+    69156
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2901803909,
+  "name": "Unknown Blacksmithing Writ",
+  "description": "This box contains a Master Blacksmithing Writ.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_latched_box_tan.png",
+  "bindType": -1,
+  "knownIds": [
+    217917
+  ]
+}

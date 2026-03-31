@@ -1,0 +1,18 @@
+{
+  "internalId": 2838200955,
+  "name": "Draugrkin Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1357055,
+    1358243,
+    1391540,
+    1408476,
+    1462826,
+    1583777,
+    1585251,
+    1605734,
+    1620206
+  ]
+}

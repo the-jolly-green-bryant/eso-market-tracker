@@ -1,0 +1,10 @@
+{
+  "internalId": 3680624721,
+  "name": "Lucent Crystal Shards, Small Spiral",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_chl_spiralmirrorshards005.png",
+  "bindType": -1,
+  "knownIds": [
+    206543
+  ]
+}

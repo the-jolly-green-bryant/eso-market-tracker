@@ -1,0 +1,13 @@
+{
+  "internalId": 987262907,
+  "name": "Soulcleaver Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1692724,
+    1727877,
+    1756479,
+    1777537
+  ]
+}

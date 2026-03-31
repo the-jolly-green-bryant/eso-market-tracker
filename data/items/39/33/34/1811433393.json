@@ -1,0 +1,10 @@
+{
+  "internalId": 1811433393,
+  "name": "Jewelry: Titanborn Strength",
+  "description": "A Medium Armor set found in Icereach.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    157227
+  ]
+}

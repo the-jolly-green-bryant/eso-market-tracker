@@ -1,0 +1,13 @@
+{
+  "internalId": 3296207817,
+  "name": "Inferno Staff of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129586,
+    129598,
+    129610,
+    129622
+  ]
+}

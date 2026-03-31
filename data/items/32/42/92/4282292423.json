@@ -1,0 +1,23 @@
+{
+  "internalId": 4282292423,
+  "name": "Pillar of Nirn Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1194553,
+    1225741,
+    1286729,
+    1400789,
+    1515905,
+    1531837,
+    1544877,
+    1562082,
+    1581264,
+    1583168,
+    1594756,
+    1600942,
+    1606510,
+    1638143
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3935181603,
+  "name": "Vest of Long Sight",
+  "description": "A suitable outfit befitting the victor of the battle of Velyn Harbor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15524
+  ]
+}

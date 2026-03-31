@@ -1,0 +1,10 @@
+{
+  "internalId": 1396996253,
+  "name": "Crafting Motif 107: Annihilarch's Chosen Style",
+  "description": "Use to learn the Annihilarch's Chosen crafting style. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    178528
+  ]
+}

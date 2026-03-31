@@ -1,0 +1,17 @@
+{
+  "internalId": 2049011291,
+  "name": "Dagger of Salvation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85459,
+    85479,
+    85499,
+    85519,
+    85539,
+    85559,
+    85579,
+    85599
+  ]
+}

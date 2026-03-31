@@ -1,0 +1,17 @@
+{
+  "internalId": 968871588,
+  "name": "Systres' Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_axe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186247,
+    186267,
+    186287,
+    186307,
+    186327,
+    186347,
+    186367,
+    186387
+  ]
+}

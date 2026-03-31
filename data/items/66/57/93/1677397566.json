@@ -1,0 +1,19 @@
+{
+  "internalId": 1677397566,
+  "name": "Telvanni Efficiency Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194969,
+    195024,
+    195059,
+    195094,
+    195129,
+    195164,
+    195199,
+    195234,
+    195269,
+    195304
+  ]
+}

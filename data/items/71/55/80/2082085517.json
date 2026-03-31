@@ -1,0 +1,17 @@
+{
+  "internalId": 2082085517,
+  "name": "Rallying Cry Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183239,
+    183260,
+    183281,
+    183302,
+    183323,
+    183344,
+    183365,
+    183386
+  ]
+}

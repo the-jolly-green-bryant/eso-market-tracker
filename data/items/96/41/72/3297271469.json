@@ -1,0 +1,10 @@
+{
+  "internalId": 3297271469,
+  "name": "Shipment of Voidstone Ingots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    937831
+  ]
+}

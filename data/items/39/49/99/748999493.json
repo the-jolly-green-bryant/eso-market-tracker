@@ -1,0 +1,10 @@
+{
+  "internalId": 748999493,
+  "name": "Elsweyr Chest, Red Gilded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_chest004.png",
+  "bindType": -1,
+  "knownIds": [
+    151708
+  ]
+}

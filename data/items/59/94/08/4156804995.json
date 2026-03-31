@@ -1,0 +1,10 @@
+{
+  "internalId": 4156804995,
+  "name": "Ayleid Cage, Hanging",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_lanternhangingc001.png",
+  "bindType": -1,
+  "knownIds": [
+    130213
+  ]
+}

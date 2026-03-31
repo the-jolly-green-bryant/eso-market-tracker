@@ -1,0 +1,10 @@
+{
+  "internalId": 1703267551,
+  "name": "Necrom Table, Elegant Round",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_nectablehighround001.png",
+  "bindType": -1,
+  "knownIds": [
+    198446
+  ]
+}

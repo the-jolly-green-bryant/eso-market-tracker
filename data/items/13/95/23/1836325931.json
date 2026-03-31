@@ -1,0 +1,10 @@
+{
+  "internalId": 1836325931,
+  "name": "Nord Shed Painting, Unfinished",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_u48unfinishedpainting001.png",
+  "bindType": -1,
+  "knownIds": [
+    223175
+  ]
+}

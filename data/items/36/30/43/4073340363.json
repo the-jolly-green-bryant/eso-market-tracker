@@ -1,0 +1,10 @@
+{
+  "internalId": 4073340363,
+  "name": "Boulder, Small Limestone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_limestonesmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    187779
+  ]
+}

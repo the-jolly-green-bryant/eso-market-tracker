@@ -1,0 +1,17 @@
+{
+  "internalId": 4272601615,
+  "name": "Gloves of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91006,
+    91027,
+    91048,
+    91069,
+    91090,
+    91111,
+    91132,
+    91153
+  ]
+}

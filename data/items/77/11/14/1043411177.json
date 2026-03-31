@@ -1,0 +1,10 @@
+{
+  "internalId": 1043411177,
+  "name": "Bladebearer Edge",
+  "description": "A gift from the Dremora clan, the Bladebearers, for helping to rescue their captive warriors from Fort Grief.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    182826
+  ]
+}

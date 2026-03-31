@@ -1,0 +1,14 @@
+{
+  "internalId": 2600310996,
+  "name": "Draugrkin Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1351246,
+    1369693,
+    1408461,
+    1452254,
+    1520445
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3926124615,
+  "name": "Redguard Caravan, Cargo",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_csb_varmerchantcart001.png",
+  "bindType": -1,
+  "knownIds": [
+    117769
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 2973899514,
+  "name": "Telvanni Enforcer Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1724729,
+    1735362
+  ]
+}

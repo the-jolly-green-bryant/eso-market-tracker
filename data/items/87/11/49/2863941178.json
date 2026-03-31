@@ -1,0 +1,10 @@
+{
+  "internalId": 2863941178,
+  "name": "Plant, Rosetted Sundew",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_vrddroseraordensis001.png",
+  "bindType": -1,
+  "knownIds": [
+    125628
+  ]
+}

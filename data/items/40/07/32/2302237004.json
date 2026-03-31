@@ -1,0 +1,12 @@
+{
+  "internalId": 2302237004,
+  "name": "Sash of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96032,
+    96053,
+    96179
+  ]
+}

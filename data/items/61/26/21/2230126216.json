@@ -1,0 +1,10 @@
+{
+  "internalId": 2230126216,
+  "name": "Druidic Tapestry, Woven",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_druwallhanging001.png",
+  "bindType": -1,
+  "knownIds": [
+    191189
+  ]
+}

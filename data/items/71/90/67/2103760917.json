@@ -1,0 +1,14 @@
+{
+  "internalId": 2103760917,
+  "name": "Maligalig's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1583871,
+    1608903,
+    1617365,
+    1649133,
+    1739805
+  ]
+}

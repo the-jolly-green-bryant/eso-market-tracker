@@ -1,0 +1,19 @@
+{
+  "internalId": 1170096046,
+  "name": "Daring Corsair's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155439,
+    155441,
+    155443,
+    155445,
+    155447,
+    155449,
+    155451,
+    155453,
+    155455,
+    155457
+  ]
+}

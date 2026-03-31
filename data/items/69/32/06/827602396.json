@@ -1,0 +1,10 @@
+{
+  "internalId": 827602396,
+  "name": "Tool, Sickle",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_sickle001.png",
+  "bindType": -1,
+  "knownIds": [
+    153663
+  ]
+}

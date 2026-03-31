@@ -1,0 +1,13 @@
+{
+  "internalId": 181163494,
+  "name": "Robe of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129855,
+    129863,
+    129871,
+    129879
+  ]
+}

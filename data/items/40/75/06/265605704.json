@@ -1,0 +1,18 @@
+{
+  "internalId": 265605704,
+  "name": "Dragonguard Elite's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155225,
+    155245,
+    155265,
+    155285,
+    155305,
+    155325,
+    155345,
+    155365,
+    155385
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2243915849,
+  "name": "Crafting Motif 110: Dreadsails Legs",
+  "description": "Use to learn how to make Dreadsails Legs. Also teaches the equivalent Dreadsails Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    181670
+  ]
+}

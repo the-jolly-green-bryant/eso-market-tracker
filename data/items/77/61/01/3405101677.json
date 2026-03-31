@@ -1,0 +1,20 @@
+{
+  "internalId": 3405101677,
+  "name": "Pearlescent Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1592768,
+    1601601,
+    1622583,
+    1627960,
+    1650319,
+    1691641,
+    1691642,
+    1739406,
+    1739407,
+    1739880,
+    1777400
+  ]
+}

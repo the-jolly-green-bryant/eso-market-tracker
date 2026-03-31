@@ -1,0 +1,19 @@
+{
+  "internalId": 1185938140,
+  "name": "Gladiator's Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75404,
+    75439,
+    75474,
+    75509,
+    75544,
+    75579,
+    75614,
+    75649,
+    75684,
+    75719
+  ]
+}

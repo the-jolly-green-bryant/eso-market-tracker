@@ -1,0 +1,17 @@
+{
+  "internalId": 2150095337,
+  "name": "Greatsword of Permafrost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1226089,
+    1332382,
+    1366229,
+    1408899,
+    1469290,
+    1561397,
+    1651294,
+    1692631
+  ]
+}

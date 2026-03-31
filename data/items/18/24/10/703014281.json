@@ -1,0 +1,19 @@
+{
+  "internalId": 703014281,
+  "name": "Assassin's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121551,
+    121586,
+    121621,
+    121656,
+    121691,
+    121726,
+    121761,
+    121796,
+    121831,
+    121866
+  ]
+}

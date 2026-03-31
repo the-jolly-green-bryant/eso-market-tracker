@@ -1,0 +1,10 @@
+{
+  "internalId": 3919901162,
+  "name": "Common Cargo Crate, Dry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cav_min_cratelarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    118065
+  ]
+}

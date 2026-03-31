@@ -1,0 +1,17 @@
+{
+  "internalId": 715526676,
+  "name": "Hat of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85096,
+    85117,
+    85138,
+    85159,
+    85180,
+    85201,
+    85222,
+    85243
+  ]
+}

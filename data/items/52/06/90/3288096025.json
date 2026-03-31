@@ -1,0 +1,10 @@
+{
+  "internalId": 3288096025,
+  "name": "Crafting Motif 135: Black Soul Gem Style",
+  "description": "Use to learn the Black Soul Gem crafting style. Also teaches the equivalent Black Soul Gem Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    212424
+  ]
+}

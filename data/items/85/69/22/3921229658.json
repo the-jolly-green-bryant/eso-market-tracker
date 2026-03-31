@@ -1,0 +1,17 @@
+{
+  "internalId": 3921229658,
+  "name": "Afflicted Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89273,
+    89293,
+    89313,
+    89333,
+    89353,
+    89373,
+    89393,
+    89413
+  ]
+}

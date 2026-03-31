@@ -1,0 +1,17 @@
+{
+  "internalId": 1670247974,
+  "name": "Livewire Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132668,
+    132688,
+    132708,
+    132728,
+    132748,
+    132768,
+    132788,
+    132808
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2391999102,
+  "name": "Shalidor's Curse Heavy Armor",
+  "description": "A Crafted Armor set constructed in Eyevea.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182648
+  ]
+}

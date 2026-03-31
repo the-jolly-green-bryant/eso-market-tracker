@@ -1,0 +1,19 @@
+{
+  "internalId": 3381625436,
+  "name": "Telvanni Efficiency Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194961,
+    195016,
+    195051,
+    195086,
+    195121,
+    195156,
+    195191,
+    195226,
+    195261,
+    195296
+  ]
+}

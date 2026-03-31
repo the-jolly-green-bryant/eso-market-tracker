@@ -1,0 +1,17 @@
+{
+  "internalId": 1311257482,
+  "name": "Boots of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92827,
+    92847,
+    92867,
+    92887,
+    92907,
+    92927,
+    92947,
+    92967
+  ]
+}

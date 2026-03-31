@@ -1,0 +1,17 @@
+{
+  "internalId": 3890640341,
+  "name": "Greatsword of Oakfather's Retribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    203908,
+    203929,
+    203950,
+    203971,
+    203992,
+    204013,
+    204034,
+    204055
+  ]
+}

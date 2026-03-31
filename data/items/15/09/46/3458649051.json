@@ -1,0 +1,10 @@
+{
+  "internalId": 3458649051,
+  "name": "Khajiit Tent, Storage",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_cmp_tentmediummerchant002.png",
+  "bindType": -1,
+  "knownIds": [
+    115674
+  ]
+}

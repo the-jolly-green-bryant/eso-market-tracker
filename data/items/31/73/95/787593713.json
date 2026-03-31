@@ -1,0 +1,10 @@
+{
+  "internalId": 787593713,
+  "name": "Pillow, Faded Red",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillowworn002.png",
+  "bindType": -1,
+  "knownIds": [
+    118249
+  ]
+}

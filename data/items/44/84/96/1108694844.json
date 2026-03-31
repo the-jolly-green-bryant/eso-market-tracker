@@ -1,0 +1,17 @@
+{
+  "internalId": 1108694844,
+  "name": "Gloves of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91388,
+    91409,
+    91430,
+    91451,
+    91472,
+    91493,
+    91514,
+    91535
+  ]
+}

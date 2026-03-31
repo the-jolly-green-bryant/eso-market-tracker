@@ -1,0 +1,15 @@
+{
+  "internalId": 3984011223,
+  "name": "Sandals of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    65074,
+    65104,
+    65134,
+    65142,
+    65172,
+    65180
+  ]
+}

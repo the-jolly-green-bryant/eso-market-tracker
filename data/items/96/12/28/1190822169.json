@@ -1,0 +1,11 @@
+{
+  "internalId": 1190822169,
+  "name": "Aether Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    860750,
+    940453
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1940582478,
+  "name": "Hrothgar's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180769,
+    180789,
+    180809,
+    180829,
+    180849,
+    180869,
+    180889,
+    180909
+  ]
+}

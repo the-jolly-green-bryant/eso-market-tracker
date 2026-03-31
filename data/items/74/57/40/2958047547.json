@@ -1,0 +1,19 @@
+{
+  "internalId": 2958047547,
+  "name": "Clever Alchemist Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72171,
+    72206,
+    72241,
+    72276,
+    72311,
+    72346,
+    72381,
+    72416,
+    72451,
+    72486
+  ]
+}

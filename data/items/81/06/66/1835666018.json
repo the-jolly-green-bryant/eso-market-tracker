@@ -1,0 +1,10 @@
+{
+  "internalId": 1835666018,
+  "name": "Apocrypha Specimen Jar, Brains",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarbrains001.png",
+  "bindType": -1,
+  "knownIds": [
+    198382
+  ]
+}

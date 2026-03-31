@@ -1,0 +1,10 @@
+{
+  "internalId": 4085617067,
+  "name": "Stone Garden Vat, Alchemized Durzog",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_duc_largetankdurzog001.png",
+  "bindType": -1,
+  "knownIds": [
+    171400
+  ]
+}

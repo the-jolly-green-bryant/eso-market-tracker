@@ -1,0 +1,17 @@
+{
+  "internalId": 1993911394,
+  "name": "Gloom-Graced Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_satff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135172,
+    135192,
+    135212,
+    135232,
+    135252,
+    135272,
+    135292,
+    135312
+  ]
+}

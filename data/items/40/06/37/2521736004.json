@@ -1,0 +1,10 @@
+{
+  "internalId": 2521736004,
+  "name": "Survey Reports - Craglorn",
+  "description": "A compendium of every survey report recorded in Craglorn.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": 3,
+  "knownIds": [
+    181472
+  ]
+}

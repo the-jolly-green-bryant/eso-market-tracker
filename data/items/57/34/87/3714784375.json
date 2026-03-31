@@ -1,0 +1,10 @@
+{
+  "internalId": 3714784375,
+  "name": "Redguard Tent, Starry",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varawning006.png",
+  "bindType": -1,
+  "knownIds": [
+    117824
+  ]
+}

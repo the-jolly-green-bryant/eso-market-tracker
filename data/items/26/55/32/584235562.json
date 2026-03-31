@@ -1,0 +1,28 @@
+{
+  "internalId": 584235562,
+  "name": "Sunderflame Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    978476,
+    1083316,
+    1087626,
+    1157654,
+    1185171,
+    1223976,
+    1254284,
+    1287724,
+    1344075,
+    1379983,
+    1423757,
+    1546015,
+    1559290,
+    1559595,
+    1623195,
+    1629081,
+    1640697,
+    1733908,
+    1745610
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2647449793,
+  "name": "Steadfast Hero Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144663,
+    144683,
+    144703,
+    144723,
+    144743,
+    144763,
+    144783,
+    144803
+  ]
+}

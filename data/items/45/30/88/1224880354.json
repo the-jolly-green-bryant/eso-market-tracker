@@ -1,0 +1,10 @@
+{
+  "internalId": 1224880354,
+  "name": "Diminished Aetherial Dust",
+  "description": "Though Aetherial Dust can be used to open a person's eyes to untold experiences, its powers weaken over time. However, this Diminished Aetherial Dust still can be employed to craft standard Aetherial Ambrosia.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ghost_inert_glow_dust.png",
+  "bindType": -1,
+  "knownIds": [
+    120078
+  ]
+}

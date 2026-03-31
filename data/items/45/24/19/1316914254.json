@@ -1,0 +1,10 @@
+{
+  "internalId": 1316914254,
+  "name": "Ichor",
+  "description": "An Ingredient for crafting level 10 poisons",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_oil_2_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    75358
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2618360189,
+  "name": "Perfected Lucent Echoes",
+  "description": "A Heavy Armor set found in Lucent Citadel.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    207804
+  ]
+}

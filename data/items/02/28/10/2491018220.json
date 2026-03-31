@@ -1,0 +1,10 @@
+{
+  "internalId": 2491018220,
+  "name": "Sword-Singer's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99317
+  ]
+}

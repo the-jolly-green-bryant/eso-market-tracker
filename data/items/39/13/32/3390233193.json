@@ -1,0 +1,10 @@
+{
+  "internalId": 3390233193,
+  "name": "Blacksmithing Station",
+  "description": "When placed in your home, allows you to craft Blacksmithing items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portableblacksmith001.png",
+  "bindType": -1,
+  "knownIds": [
+    119781
+  ]
+}

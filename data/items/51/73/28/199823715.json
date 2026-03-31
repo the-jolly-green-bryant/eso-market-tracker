@@ -1,0 +1,10 @@
+{
+  "internalId": 199823715,
+  "name": "Gas Blossom",
+  "description": "This exotic plant sprays gas when approached, dealing Poison Damage to targets in the area.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrktentacleplant003.png",
+  "bindType": -1,
+  "knownIds": [
+    145492
+  ]
+}

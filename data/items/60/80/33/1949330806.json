@@ -1,0 +1,16 @@
+{
+  "internalId": 1949330806,
+  "name": "Dagger of the Turning Tide",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568132,
+    1583876,
+    1603537,
+    1605596,
+    1623503,
+    1685414,
+    1778002
+  ]
+}

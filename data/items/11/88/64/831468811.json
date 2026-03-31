@@ -1,0 +1,10 @@
+{
+  "internalId": 831468811,
+  "name": "Mother Lightning's Spur",
+  "description": "This hammer is only heavy when sheathed. It crackles and seems to lose half its weight in the bearer's hand.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1788
+  ]
+}

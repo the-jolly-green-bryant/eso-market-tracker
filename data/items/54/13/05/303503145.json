@@ -1,0 +1,14 @@
+{
+  "internalId": 303503145,
+  "name": "Reflected Fury Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1728772,
+    1735335,
+    1750846,
+    1762905,
+    1764403
+  ]
+}

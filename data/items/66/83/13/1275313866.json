@@ -1,0 +1,10 @@
+{
+  "internalId": 1275313866,
+  "name": "New Moon Acolyte Weapons",
+  "description": "A Crafted Armor set constructed in Southern Elsweyr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182851
+  ]
+}

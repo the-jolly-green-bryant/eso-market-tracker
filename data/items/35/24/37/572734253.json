@@ -1,0 +1,17 @@
+{
+  "internalId": 572734253,
+  "name": "Vampire Lord's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100405,
+    100426,
+    100447,
+    100468,
+    100489,
+    100510,
+    100531,
+    100552
+  ]
+}

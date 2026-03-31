@@ -1,0 +1,10 @@
+{
+  "internalId": 135562905,
+  "name": "Silver Dawn Sabatons",
+  "description": "Armor that once belonged to a werewolf-hunting knight.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71013
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 75066003,
+  "name": "Dres Cauldron, Floral Banded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlabucket001.png",
+  "bindType": -1,
+  "knownIds": [
+    126381
+  ]
+}

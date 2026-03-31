@@ -1,0 +1,10 @@
+{
+  "internalId": 1392314764,
+  "name": "Tovisa's Dagger",
+  "description": "A beautiful dagger from Tovisa, given in thanks for killing the Hagravens who stole her sight.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10983
+  ]
+}

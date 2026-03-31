@@ -1,0 +1,19 @@
+{
+  "internalId": 3329392340,
+  "name": "Sload's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136091,
+    136126,
+    136161,
+    136196,
+    136231,
+    136266,
+    136301,
+    136336,
+    136371,
+    136406
+  ]
+}

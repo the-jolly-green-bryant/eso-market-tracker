@@ -1,0 +1,17 @@
+{
+  "internalId": 1298349898,
+  "name": "Gloom-Graced Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135168,
+    135188,
+    135208,
+    135228,
+    135248,
+    135268,
+    135288,
+    135308
+  ]
+}

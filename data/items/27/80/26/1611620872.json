@@ -1,0 +1,10 @@
+{
+  "internalId": 1611620872,
+  "name": "Elkhorn Coral, Sturdy Branching",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_elkhorncoral005.png",
+  "bindType": -1,
+  "knownIds": [
+    214520
+  ]
+}

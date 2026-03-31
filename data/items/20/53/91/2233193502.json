@@ -1,0 +1,26 @@
+{
+  "internalId": 2233193502,
+  "name": "Daedroth Tooth Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    823130,
+    585377,
+    577245,
+    805205,
+    804014,
+    831045,
+    850396,
+    941652,
+    1066931,
+    1083271,
+    1135106,
+    1154673,
+    1170671,
+    1423997,
+    1446487,
+    1561776,
+    1594874
+  ]
+}

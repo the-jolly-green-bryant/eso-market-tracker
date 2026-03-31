@@ -1,0 +1,19 @@
+{
+  "internalId": 2230924177,
+  "name": "Inferno Staff of Alkosh",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1179426,
+    1190512,
+    1195820,
+    1404003,
+    1406639,
+    1411506,
+    1539137,
+    1616364,
+    1626091,
+    1746031
+  ]
+}

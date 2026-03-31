@@ -1,0 +1,17 @@
+{
+  "internalId": 322096738,
+  "name": "Werewolf Hide Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    86019,
+    86039,
+    86059,
+    86079,
+    86099,
+    86119,
+    86139,
+    86159
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": 3159336604,
+  "name": "Automated Defense Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1275176,
+    1345739,
+    1346776,
+    1368055,
+    1403538,
+    1412286,
+    1414058,
+    1423195,
+    1470318,
+    1541556,
+    1551629,
+    1626079,
+    1630257,
+    1724230,
+    1731965,
+    1770858,
+    1776616
+  ]
+}

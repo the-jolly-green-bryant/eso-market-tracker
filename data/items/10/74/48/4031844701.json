@@ -1,0 +1,14 @@
+{
+  "internalId": 4031844701,
+  "name": "Glacial Guardian's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1571335,
+    1595096,
+    1605703,
+    1639408,
+    1732195
+  ]
+}

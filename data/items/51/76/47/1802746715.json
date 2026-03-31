@@ -1,0 +1,10 @@
+{
+  "internalId": 1802746715,
+  "name": "Mushroom, Buttercake",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_pagoda002.png",
+  "bindType": -1,
+  "knownIds": [
+    125581
+  ]
+}

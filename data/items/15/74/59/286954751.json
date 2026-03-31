@@ -1,0 +1,19 @@
+{
+  "internalId": 286954751,
+  "name": "Jailer's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1302794,
+    1345312,
+    1491157,
+    1587918,
+    1594718,
+    1599751,
+    1631090,
+    1693178,
+    1729142,
+    1758225
+  ]
+}

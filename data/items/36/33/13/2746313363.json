@@ -1,0 +1,21 @@
+{
+  "internalId": 2746313363,
+  "name": "Rattlecage Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_dagger_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1083069,
+    1196414,
+    1212516,
+    1232972,
+    1353887,
+    1371720,
+    1510672,
+    1550804,
+    1564068,
+    1587518,
+    1615469,
+    1731933
+  ]
+}

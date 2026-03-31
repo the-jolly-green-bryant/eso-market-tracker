@@ -1,0 +1,10 @@
+{
+  "internalId": 3385127321,
+  "name": "Hlaalu Mirror, Standing",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlamirror001.png",
+  "bindType": -1,
+  "knownIds": [
+    126442
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2483527875,
+  "name": "Nocturnal's Favored Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136422,
+    136457,
+    136492,
+    136527,
+    136562,
+    136597,
+    136632,
+    136667,
+    136702,
+    136737
+  ]
+}

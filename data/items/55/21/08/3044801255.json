@@ -1,0 +1,20 @@
+{
+  "internalId": 3044801255,
+  "name": "Noxious Boulder Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_medium_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748655,
+    1748689,
+    1748913,
+    1748986,
+    1749063,
+    1749785,
+    1751702,
+    1754508,
+    1754588,
+    1754594,
+    1777486
+  ]
+}

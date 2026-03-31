@@ -1,0 +1,10 @@
+{
+  "internalId": 3682341162,
+  "name": "Common Basket, Open",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_basketopen001.png",
+  "bindType": -1,
+  "knownIds": [
+    118006
+  ]
+}

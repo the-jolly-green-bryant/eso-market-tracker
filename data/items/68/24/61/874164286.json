@@ -1,0 +1,10 @@
+{
+  "internalId": 874164286,
+  "name": "Hlaalu Carpet, Garden Moss",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaruglarge002.png",
+  "bindType": -1,
+  "knownIds": [
+    126362
+  ]
+}

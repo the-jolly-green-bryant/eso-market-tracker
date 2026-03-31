@@ -1,0 +1,19 @@
+{
+  "internalId": 3500481960,
+  "name": "Unchained Aggressor's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    158725,
+    158727,
+    158729,
+    158731,
+    158733,
+    158735,
+    158737,
+    158739,
+    158741,
+    158743
+  ]
+}

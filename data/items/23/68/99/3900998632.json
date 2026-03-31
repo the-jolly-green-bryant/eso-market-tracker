@@ -1,0 +1,10 @@
+{
+  "internalId": 3900998632,
+  "name": "Dragonfruit, Wax",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkfruit001.png",
+  "bindType": -1,
+  "knownIds": [
+    145356
+  ]
+}

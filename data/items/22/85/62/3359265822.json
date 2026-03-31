@@ -1,0 +1,17 @@
+{
+  "internalId": 3359265822,
+  "name": "Battle Axe of Martial Knowledge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95457,
+    95478,
+    95499,
+    95520,
+    95541,
+    95562,
+    95583,
+    95604
+  ]
+}

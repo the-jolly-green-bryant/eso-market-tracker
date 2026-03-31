@@ -1,0 +1,18 @@
+{
+  "internalId": 3952554879,
+  "name": "Sword of the Magicka Furnace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1256678,
+    1290722,
+    1430554,
+    1501347,
+    1583616,
+    1588629,
+    1592395,
+    1605695,
+    1683967
+  ]
+}

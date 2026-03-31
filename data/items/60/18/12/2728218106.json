@@ -1,0 +1,14 @@
+{
+  "internalId": 2728218106,
+  "name": "Greaves of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70107,
+    70142,
+    70177,
+    70212,
+    70247
+  ]
+}

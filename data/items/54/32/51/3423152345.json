@@ -1,0 +1,14 @@
+{
+  "internalId": 3423152345,
+  "name": "Marksman's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199459,
+    199460,
+    199461,
+    199462,
+    199463
+  ]
+}

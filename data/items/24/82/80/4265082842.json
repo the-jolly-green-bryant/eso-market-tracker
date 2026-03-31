@@ -1,0 +1,11 @@
+{
+  "internalId": 4265082842,
+  "name": "Roast Venison",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_001.png",
+  "bindType": -1,
+  "knownIds": [
+    37924,
+    28289
+  ]
+}

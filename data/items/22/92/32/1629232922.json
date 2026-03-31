@@ -1,0 +1,19 @@
+{
+  "internalId": 1629232922,
+  "name": "Assassin's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121575,
+    121610,
+    121645,
+    121680,
+    121715,
+    121750,
+    121785,
+    121820,
+    121855,
+    121890
+  ]
+}

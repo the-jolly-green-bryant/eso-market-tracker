@@ -1,0 +1,17 @@
+{
+  "internalId": 2381668510,
+  "name": "Defiler's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122998,
+    123018,
+    123038,
+    123058,
+    123078,
+    123098,
+    123118,
+    123138
+  ]
+}

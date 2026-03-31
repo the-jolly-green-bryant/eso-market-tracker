@@ -1,0 +1,21 @@
+{
+  "internalId": 655180484,
+  "name": "Bracers of Gryphon's Reprisal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruth_med_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1567949,
+    1568159,
+    1571524,
+    1577428,
+    1578040,
+    1578041,
+    1595423,
+    1603464,
+    1605677,
+    1606838,
+    1610583,
+    1689235
+  ]
+}

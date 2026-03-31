@@ -1,0 +1,17 @@
+{
+  "internalId": 3068250573,
+  "name": "Mace of Willpower",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69172,
+    69185,
+    69198,
+    69211,
+    69224,
+    69237,
+    69250,
+    69263
+  ]
+}

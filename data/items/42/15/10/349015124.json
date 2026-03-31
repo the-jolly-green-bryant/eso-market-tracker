@@ -1,0 +1,10 @@
+{
+  "internalId": 349015124,
+  "name": "Elsweyr Bed, Rumpled Quilted Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_bedlowmessy001.png",
+  "bindType": -1,
+  "knownIds": [
+    151668
+  ]
+}

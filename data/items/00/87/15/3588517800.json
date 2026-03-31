@@ -1,0 +1,19 @@
+{
+  "internalId": 3588517800,
+  "name": "Coldharbour's Favorite Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147956,
+    148011,
+    148046,
+    148081,
+    148116,
+    148151,
+    148186,
+    148221,
+    148256,
+    148291
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1808991068,
+  "name": "Apocrypha Bookcase, Intricate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bookshelfhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198422
+  ]
+}

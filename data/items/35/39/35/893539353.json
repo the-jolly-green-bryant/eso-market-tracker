@@ -1,0 +1,19 @@
+{
+  "internalId": 893539353,
+  "name": "New Moon Acolyte's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156160,
+    156215,
+    156250,
+    156285,
+    156320,
+    156355,
+    156390,
+    156425,
+    156460,
+    156495
+  ]
+}

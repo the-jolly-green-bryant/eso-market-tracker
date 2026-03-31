@@ -1,0 +1,17 @@
+{
+  "internalId": 1431868624,
+  "name": "Greatsword of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87754,
+    87767,
+    87780,
+    87793,
+    87806,
+    87819,
+    87832,
+    87845
+  ]
+}

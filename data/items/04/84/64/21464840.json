@@ -1,0 +1,10 @@
+{
+  "internalId": 21464840,
+  "name": "Indoril Tapestry, House",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_housebannerindoril001.png",
+  "bindType": -1,
+  "knownIds": [
+    126776
+  ]
+}

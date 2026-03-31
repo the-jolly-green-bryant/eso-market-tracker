@@ -1,0 +1,10 @@
+{
+  "internalId": 3756108955,
+  "name": "Orcish Burial Urn, Exhumed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgembeddedskeleton007.png",
+  "bindType": -1,
+  "knownIds": [
+    134835
+  ]
+}

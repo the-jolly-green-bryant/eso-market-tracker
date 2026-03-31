@@ -1,0 +1,13 @@
+{
+  "internalId": 1249684466,
+  "name": "Greaves of Fasalla's Guile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199151,
+    199152,
+    199153,
+    199154
+  ]
+}

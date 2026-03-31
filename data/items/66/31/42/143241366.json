@@ -1,0 +1,10 @@
+{
+  "internalId": 143241366,
+  "name": "Oranges, Bunch",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketproducepile004.png",
+  "bindType": -1,
+  "knownIds": [
+    118136
+  ]
+}

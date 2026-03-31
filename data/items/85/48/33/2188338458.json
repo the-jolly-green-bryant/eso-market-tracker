@@ -1,0 +1,17 @@
+{
+  "internalId": 2188338458,
+  "name": "Impregnable Armor Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125716,
+    125751,
+    125786,
+    125821,
+    125856,
+    125891,
+    125926,
+    125961
+  ]
+}

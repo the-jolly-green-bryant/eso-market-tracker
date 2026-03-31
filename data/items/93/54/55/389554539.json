@@ -1,0 +1,18 @@
+{
+  "internalId": 389554539,
+  "name": "Girdle of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhosthvy_belt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161027,
+    161047,
+    161067,
+    161087,
+    161107,
+    161127,
+    161147,
+    161167,
+    161187
+  ]
+}

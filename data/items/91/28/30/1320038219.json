@@ -1,0 +1,10 @@
+{
+  "internalId": 1320038219,
+  "name": "Pickled Fish and Mushrooms",
+  "description": "What started off as a rank odor from this serving of food is beginning to grow on you. That would be the fungus.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": -1,
+  "knownIds": [
+    16288
+  ]
+}

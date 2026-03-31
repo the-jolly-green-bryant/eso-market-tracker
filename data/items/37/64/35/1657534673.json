@@ -1,0 +1,11 @@
+{
+  "internalId": 1657534673,
+  "name": "Soul-Shriven Sandals",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    35032,
+    35036
+  ]
+}

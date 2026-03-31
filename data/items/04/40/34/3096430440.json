@@ -1,0 +1,10 @@
+{
+  "internalId": 3096430440,
+  "name": "Guardians' Girdle",
+  "description": "This girdle provides a sense of comfort and strength when you wear it around your waist.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10888
+  ]
+}

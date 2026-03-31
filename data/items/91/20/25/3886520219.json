@@ -1,0 +1,16 @@
+{
+  "internalId": 3886520219,
+  "name": "Sithis' Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77283,
+    77318,
+    77353,
+    77388,
+    77423,
+    77458,
+    77493
+  ]
+}

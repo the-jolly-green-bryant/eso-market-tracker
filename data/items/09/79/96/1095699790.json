@@ -1,0 +1,17 @@
+{
+  "internalId": 1095699790,
+  "name": "Inferno Staff of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89815,
+    89835,
+    89855,
+    89875,
+    89895,
+    89915,
+    89935,
+    89955
+  ]
+}

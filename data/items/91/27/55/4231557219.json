@@ -1,0 +1,10 @@
+{
+  "internalId": 4231557219,
+  "name": "Divines and Deities",
+  "description": "A mysterious tome containing all of the books in the Divines and Deities collection.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png",
+  "bindType": 3,
+  "knownIds": [
+    199944
+  ]
+}

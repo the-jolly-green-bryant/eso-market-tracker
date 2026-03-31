@@ -1,0 +1,10 @@
+{
+  "internalId": 3957842418,
+  "name": "Stone of Instant Inspiration",
+  "description": "Meant solely for testing. Grants full skill ranks in all crafting disciplines.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
+  "bindType": -1,
+  "knownIds": [
+    75329
+  ]
+}

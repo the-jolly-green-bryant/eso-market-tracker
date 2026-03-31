@@ -1,0 +1,17 @@
+{
+  "internalId": 2123906110,
+  "name": "Seventh Legion's Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100789,
+    100809,
+    100829,
+    100849,
+    100869,
+    100889,
+    100909,
+    100929
+  ]
+}

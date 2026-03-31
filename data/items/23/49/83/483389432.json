@@ -1,0 +1,10 @@
+{
+  "internalId": 483389432,
+  "name": "Shrine of Mara, Decorative",
+  "description": "This is a standard house item. This shrine is decorative and cannot be used for the Pledge of Mara.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_shrinemara002.png",
+  "bindType": -1,
+  "knownIds": [
+    120802
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4071686111,
+  "name": "Impregnable Armor Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125719,
+    125754,
+    125789,
+    125824,
+    125859,
+    125894,
+    125929,
+    125964
+  ]
+}

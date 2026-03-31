@@ -1,0 +1,19 @@
+{
+  "internalId": 1105643065,
+  "name": "Helmet of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60676,
+    60711,
+    60746,
+    60781,
+    60816,
+    60851,
+    60886,
+    60921,
+    60956,
+    60991
+  ]
+}

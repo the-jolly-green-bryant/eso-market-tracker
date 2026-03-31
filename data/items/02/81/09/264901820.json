@@ -1,0 +1,18 @@
+{
+  "internalId": 264901820,
+  "name": "Sash of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116727,
+    116748,
+    116769,
+    116790,
+    116811,
+    116832,
+    116853,
+    116874,
+    116895
+  ]
+}

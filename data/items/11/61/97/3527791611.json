@@ -1,0 +1,10 @@
+{
+  "internalId": 3527791611,
+  "name": "Pennant, Undaunted",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_undauntedbannersmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    118776
+  ]
+}

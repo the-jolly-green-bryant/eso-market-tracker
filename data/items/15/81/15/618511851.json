@@ -1,0 +1,10 @@
+{
+  "internalId": 618511851,
+  "name": "Lucent  Defensive Spike, Straight",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_mirrorfarroofspikesmiddle001.png",
+  "bindType": -1,
+  "knownIds": [
+    211403
+  ]
+}

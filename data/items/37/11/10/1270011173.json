@@ -1,0 +1,17 @@
+{
+  "internalId": 1270011173,
+  "name": "Dagger of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91188,
+    91209,
+    91230,
+    91251,
+    91272,
+    91293,
+    91314,
+    91335
+  ]
+}

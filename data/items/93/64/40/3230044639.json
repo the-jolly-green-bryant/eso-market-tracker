@@ -1,0 +1,10 @@
+{
+  "internalId": 3230044639,
+  "name": "Storm Lord Banner, Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikescrownflagshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    211524
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2230015568,
+  "name": "Hist Whisperer's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172478,
+    172533,
+    172568,
+    172603,
+    172638,
+    172673,
+    172708,
+    172743,
+    172778,
+    172813
+  ]
+}

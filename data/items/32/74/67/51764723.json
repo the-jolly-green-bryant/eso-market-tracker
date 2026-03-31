@@ -1,0 +1,11 @@
+{
+  "internalId": 51764723,
+  "name": "major glyph of absorb stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_staminaabsorption.png",
+  "bindType": -1,
+  "knownIds": [
+    418172,
+    1444751
+  ]
+}

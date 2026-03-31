@@ -1,0 +1,17 @@
+{
+  "internalId": 2109956356,
+  "name": "Seventh Legion's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100773,
+    100793,
+    100813,
+    100833,
+    100853,
+    100873,
+    100893,
+    100913
+  ]
+}

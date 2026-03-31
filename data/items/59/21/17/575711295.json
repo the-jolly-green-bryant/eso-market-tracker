@@ -1,0 +1,18 @@
+{
+  "internalId": 575711295,
+  "name": "Moon Hunter Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1313167,
+    1347898,
+    1402961,
+    1418428,
+    1491159,
+    1593458,
+    1594858,
+    1630967,
+    1718277
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1884808091,
+  "name": "Battle Axe of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100025,
+    100046,
+    100067,
+    100088,
+    100109,
+    100130,
+    100151,
+    100172
+  ]
+}

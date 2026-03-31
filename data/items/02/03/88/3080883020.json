@@ -1,0 +1,19 @@
+{
+  "internalId": 3080883020,
+  "name": "Vastarie's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148722,
+    148777,
+    148812,
+    148847,
+    148882,
+    148917,
+    148952,
+    148987,
+    149022,
+    149057
+  ]
+}

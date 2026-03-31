@@ -1,0 +1,17 @@
+{
+  "internalId": 3072908067,
+  "name": "Enervating Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183591,
+    183611,
+    183631,
+    183651,
+    183671,
+    183691,
+    183711,
+    183731
+  ]
+}

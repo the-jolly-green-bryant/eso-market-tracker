@@ -1,0 +1,12 @@
+{
+  "internalId": 792891045,
+  "name": "Ring of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78900,
+    78902,
+    78904
+  ]
+}

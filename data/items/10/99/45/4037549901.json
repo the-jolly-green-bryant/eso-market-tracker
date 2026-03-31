@@ -1,0 +1,24 @@
+{
+  "internalId": 4037549901,
+  "name": "Overwhelming Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1305318,
+    1317361,
+    1339692,
+    1388427,
+    1456061,
+    1494854,
+    1509837,
+    1536976,
+    1543770,
+    1568884,
+    1573321,
+    1602713,
+    1610099,
+    1698887,
+    1726974
+  ]
+}

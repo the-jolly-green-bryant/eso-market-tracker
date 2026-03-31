@@ -1,0 +1,13 @@
+{
+  "internalId": 3034725600,
+  "name": "Draugrkin Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1370228,
+    1370359,
+    1490964,
+    1510736
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2975119102,
+  "name": "Crafting Motif 23: Malacath Swords",
+  "description": "Use to learn how to make Malacath Swords. Also teaches the equivalent Malacath Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    71580
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3269502821,
+  "name": "slight glyph of increase magical harm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasespelldamage.png",
+  "bindType": -1,
+  "knownIds": [
+    521966,
+    1436862
+  ]
+}

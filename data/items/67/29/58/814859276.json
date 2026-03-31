@@ -1,0 +1,10 @@
+{
+  "internalId": 814859276,
+  "name": "Windcaller's Sash",
+  "description": "This breezy sash flows and moves even when there's no wind.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    26157
+  ]
+}

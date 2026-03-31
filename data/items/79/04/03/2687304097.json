@@ -1,0 +1,11 @@
+{
+  "internalId": 2687304097,
+  "name": "Vvardenfell Ash Yam Loaf",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_french_loaf.png",
+  "bindType": -1,
+  "knownIds": [
+    32154,
+    33915
+  ]
+}

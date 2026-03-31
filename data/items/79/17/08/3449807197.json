@@ -1,0 +1,10 @@
+{
+  "internalId": 3449807197,
+  "name": "Wood Elf Bedding, Scattered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_bedding003.png",
+  "bindType": -1,
+  "knownIds": [
+    115571
+  ]
+}

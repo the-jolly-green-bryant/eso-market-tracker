@@ -1,0 +1,11 @@
+{
+  "internalId": 4057798464,
+  "name": "Roast Corn",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_002.png",
+  "bindType": -1,
+  "knownIds": [
+    30444,
+    33813
+  ]
+}

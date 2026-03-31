@@ -1,0 +1,21 @@
+{
+  "internalId": 179315352,
+  "name": "Null Arca Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_mediuam_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1721160,
+    1726308,
+    1726410,
+    1726431,
+    1726453,
+    1727034,
+    1732794,
+    1732796,
+    1732943,
+    1735316,
+    1754955,
+    1758537
+  ]
+}

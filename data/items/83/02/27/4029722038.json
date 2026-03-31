@@ -1,0 +1,30 @@
+{
+  "internalId": 4029722038,
+  "name": "Bow of the Two-Fanged Snake",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    948672,
+    965528,
+    979664,
+    979665,
+    1083824,
+    1126879,
+    1144559,
+    1166139,
+    1191049,
+    1194181,
+    1202410,
+    1277188,
+    1364833,
+    1390477,
+    1515190,
+    1586616,
+    1608069,
+    1610336,
+    1682630,
+    1719432,
+    1770398
+  ]
+}

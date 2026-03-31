@@ -1,0 +1,10 @@
+{
+  "internalId": 1943668900,
+  "name": "Staff of Secundus",
+  "description": "Grandeya Nuwarrah of Hallin's Stand gave you this staff for defeating the city's Imperial occupiers.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15658
+  ]
+}

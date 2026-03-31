@@ -1,0 +1,15 @@
+{
+  "internalId": 3480768480,
+  "name": "Mace of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    178967,
+    179002,
+    179037,
+    179072,
+    179107,
+    179142
+  ]
+}

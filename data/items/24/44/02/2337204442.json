@@ -1,0 +1,10 @@
+{
+  "internalId": 2337204442,
+  "name": "Bottle, Poison Elixir",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_poiscontainer004.png",
+  "bindType": -1,
+  "knownIds": [
+    118303
+  ]
+}

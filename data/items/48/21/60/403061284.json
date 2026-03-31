@@ -1,0 +1,19 @@
+{
+  "internalId": 403061284,
+  "name": "Tide-Born Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215490,
+    215545,
+    215580,
+    215615,
+    215650,
+    215685,
+    215720,
+    215755,
+    215790,
+    215825
+  ]
+}

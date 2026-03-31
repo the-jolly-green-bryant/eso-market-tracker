@@ -1,0 +1,10 @@
+{
+  "internalId": 1472066522,
+  "name": "Greaves of Evermore",
+  "description": "The grieving Queen Arzhela awarded these greaves for your service to a city caught between invading Reachmen and Imperials.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15617
+  ]
+}

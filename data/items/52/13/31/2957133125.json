@@ -1,0 +1,20 @@
+{
+  "internalId": 2957133125,
+  "name": "Dolorous Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1756368,
+    1756396,
+    1756840,
+    1758847,
+    1760669,
+    1764284,
+    1765301,
+    1770304,
+    1771192,
+    1771200,
+    1773958
+  ]
+}

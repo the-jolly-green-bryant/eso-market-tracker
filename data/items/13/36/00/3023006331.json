@@ -1,0 +1,15 @@
+{
+  "internalId": 3023006331,
+  "name": "Ice Furnace Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86398,
+    86418,
+    86438,
+    86458,
+    86478,
+    86518
+  ]
+}

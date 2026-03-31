@@ -1,0 +1,19 @@
+{
+  "internalId": 1521347444,
+  "name": "Tharriker's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205403,
+    205458,
+    205493,
+    205528,
+    205563,
+    205598,
+    205633,
+    205668,
+    205703,
+    205738
+  ]
+}

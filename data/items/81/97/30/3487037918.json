@@ -1,0 +1,16 @@
+{
+  "internalId": 3487037918,
+  "name": "Maul of Catalyst",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1379267,
+    1380267,
+    1394962,
+    1396048,
+    1524521,
+    1617888,
+    1723012
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "internalId": 804266921,
+  "name": "Spell Power Cure Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    981297,
+    981455,
+    1065868,
+    1073359,
+    1073522,
+    1172404,
+    1172715,
+    1200304,
+    1214571,
+    1330289,
+    1335178,
+    1337418,
+    1431426,
+    1493674,
+    1512581,
+    1521253,
+    1528911,
+    1558521,
+    1591485,
+    1591613,
+    1622326,
+    1657006,
+    1717219,
+    1762544
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 273051408,
+  "name": "Soldier of Anguish Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144479,
+    144499,
+    144519,
+    144539,
+    144559,
+    144579,
+    144599,
+    144619
+  ]
+}

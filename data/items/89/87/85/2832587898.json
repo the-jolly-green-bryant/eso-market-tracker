@@ -1,0 +1,16 @@
+{
+  "internalId": 2832587898,
+  "name": "Sithis' Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77290,
+    77325,
+    77360,
+    77395,
+    77430,
+    77465,
+    77500
+  ]
+}

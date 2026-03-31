@@ -1,0 +1,17 @@
+{
+  "internalId": 2789005581,
+  "name": "Hexos' Ward Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180103,
+    180123,
+    180143,
+    180163,
+    180183,
+    180203,
+    180223,
+    180243
+  ]
+}

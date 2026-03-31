@@ -1,0 +1,17 @@
+{
+  "internalId": 3143065152,
+  "name": "Enervating Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183576,
+    183596,
+    183616,
+    183636,
+    183656,
+    183676,
+    183696,
+    183716
+  ]
+}

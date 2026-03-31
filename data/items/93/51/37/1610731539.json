@@ -1,0 +1,18 @@
+{
+  "internalId": 1610731539,
+  "name": "Stuhn's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161280,
+    161315,
+    161350,
+    161385,
+    161420,
+    161455,
+    161490,
+    161525,
+    161560
+  ]
+}

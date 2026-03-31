@@ -1,0 +1,19 @@
+{
+  "internalId": 1548939513,
+  "name": "Threads of War Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    206189,
+    206191,
+    206193,
+    206195,
+    206197,
+    206199,
+    206201,
+    206203,
+    206205,
+    206207
+  ]
+}

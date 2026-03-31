@@ -1,0 +1,17 @@
+{
+  "internalId": 4058584057,
+  "name": "Epaulets of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_light_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86209,
+    86230,
+    86251,
+    86272,
+    86293,
+    86314,
+    86335,
+    86356
+  ]
+}

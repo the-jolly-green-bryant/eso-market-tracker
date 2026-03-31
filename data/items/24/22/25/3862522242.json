@@ -1,0 +1,19 @@
+{
+  "internalId": 3862522242,
+  "name": "Tide-Born Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215486,
+    215541,
+    215576,
+    215611,
+    215646,
+    215681,
+    215716,
+    215751,
+    215786,
+    215821
+  ]
+}

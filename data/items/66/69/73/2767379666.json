@@ -1,0 +1,17 @@
+{
+  "internalId": 2767379666,
+  "name": "Axe of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77076,
+    77096,
+    77116,
+    77136,
+    77156,
+    77176,
+    77196,
+    77216
+  ]
+}

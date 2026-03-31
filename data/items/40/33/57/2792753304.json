@@ -1,0 +1,14 @@
+{
+  "internalId": 2792753304,
+  "name": "Burning Daedroth Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_snake_eyes.png",
+  "bindType": -1,
+  "knownIds": [
+    456974,
+    458320,
+    871719,
+    878801,
+    1324977
+  ]
+}

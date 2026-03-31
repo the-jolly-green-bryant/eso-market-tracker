@@ -1,0 +1,10 @@
+{
+  "internalId": 4016625181,
+  "name": "Alinor Boat, Unfinished",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_varboatconstruct001.png",
+  "bindType": -1,
+  "knownIds": [
+    203588
+  ]
+}

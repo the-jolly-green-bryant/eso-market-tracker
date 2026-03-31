@@ -1,0 +1,17 @@
+{
+  "internalId": 4257807428,
+  "name": "Wizard's Riposte Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123732,
+    123753,
+    123774,
+    123795,
+    123816,
+    123837,
+    123858,
+    123879
+  ]
+}

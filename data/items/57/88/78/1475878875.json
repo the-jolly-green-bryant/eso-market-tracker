@@ -1,0 +1,10 @@
+{
+  "internalId": 1475878875,
+  "name": "Propylon Index ZTestContent",
+  "description": "Index for activating propylon obelisks",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": -1,
+  "knownIds": [
+    4950
+  ]
+}

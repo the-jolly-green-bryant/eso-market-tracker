@@ -1,0 +1,14 @@
+{
+  "internalId": 863568959,
+  "name": "Spellshredder Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219217,
+    219238,
+    219259,
+    219280,
+    219301
+  ]
+}

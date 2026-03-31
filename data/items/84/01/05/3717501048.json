@@ -1,0 +1,10 @@
+{
+  "internalId": 3717501048,
+  "name": "Hlaalu Well, Covered Sillar Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_hlawell004.png",
+  "bindType": -1,
+  "knownIds": [
+    125580
+  ]
+}

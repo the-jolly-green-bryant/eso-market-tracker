@@ -1,0 +1,10 @@
+{
+  "internalId": 2027301467,
+  "name": "Scrimshaw, Octopus",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshaw004.png",
+  "bindType": -1,
+  "knownIds": [
+    139255
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3385956065,
+  "name": "Maul of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91759,
+    91780,
+    91801,
+    91822,
+    91843,
+    91864,
+    91885,
+    91906
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1963858523,
+  "name": "Macabre Vintage Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205070,
+    205090,
+    205110,
+    205130,
+    205150,
+    205170,
+    205190,
+    205210
+  ]
+}

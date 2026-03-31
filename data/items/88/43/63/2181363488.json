@@ -1,0 +1,10 @@
+{
+  "internalId": 2181363488,
+  "name": "Flowers, Golden Prairie",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_yellowflower001.png",
+  "bindType": -1,
+  "knownIds": [
+    121001
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 918416012,
+  "name": "Threads of War Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206167,
+    206222,
+    206257,
+    206292,
+    206327,
+    206362,
+    206397,
+    206432,
+    206467,
+    206502
+  ]
+}

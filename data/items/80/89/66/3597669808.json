@@ -1,0 +1,17 @@
+{
+  "internalId": 3597669808,
+  "name": "Enervating Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183586,
+    183606,
+    183626,
+    183646,
+    183666,
+    183686,
+    183706,
+    183726
+  ]
+}

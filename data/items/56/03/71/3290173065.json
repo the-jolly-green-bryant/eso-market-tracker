@@ -1,0 +1,10 @@
+{
+  "internalId": 3290173065,
+  "name": "Sip of Spell Protection",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_004_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    44814
+  ]
+}

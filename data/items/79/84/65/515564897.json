@@ -1,0 +1,20 @@
+{
+  "internalId": 515564897,
+  "name": "Lightning Staff of True-Sworn Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1493364,
+    1506845,
+    1509167,
+    1541076,
+    1541168,
+    1560905,
+    1588380,
+    1603616,
+    1611876,
+    1715990,
+    1773193
+  ]
+}

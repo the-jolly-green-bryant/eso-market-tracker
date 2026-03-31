@@ -1,0 +1,10 @@
+{
+  "internalId": 3301176669,
+  "name": "Barrel, Pink Dye",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationbarrelb001.png",
+  "bindType": -1,
+  "knownIds": [
+    118309
+  ]
+}

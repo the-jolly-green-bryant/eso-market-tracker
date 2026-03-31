@@ -1,0 +1,10 @@
+{
+  "internalId": 3128418150,
+  "name": "Grease",
+  "description": "An Ingredient for crafting level 3 poisons",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_1_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    75357
+  ]
+}

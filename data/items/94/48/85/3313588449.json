@@ -1,0 +1,10 @@
+{
+  "internalId": 3313588449,
+  "name": "Mushroom, Gilled Mauve Dusk",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_pinkknight004.png",
+  "bindType": -1,
+  "knownIds": [
+    197635
+  ]
+}

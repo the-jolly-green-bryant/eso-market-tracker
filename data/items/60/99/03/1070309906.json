@@ -1,0 +1,14 @@
+{
+  "internalId": 1070309906,
+  "name": "Defiled Dragon's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1332134,
+    1340808,
+    1451483,
+    1512791,
+    1683298
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 364119515,
+  "name": "Alessian Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87988,
+    88008,
+    88028,
+    88048,
+    88068,
+    88088,
+    88108,
+    88128
+  ]
+}

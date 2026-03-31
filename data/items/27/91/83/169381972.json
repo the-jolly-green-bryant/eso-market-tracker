@@ -1,0 +1,19 @@
+{
+  "internalId": 169381972,
+  "name": "Assassin's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121555,
+    121590,
+    121625,
+    121660,
+    121695,
+    121730,
+    121765,
+    121800,
+    121835,
+    121870
+  ]
+}

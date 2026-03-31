@@ -1,0 +1,24 @@
+{
+  "internalId": 1675162487,
+  "name": "The Maelstrom's Perfected Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dwarvenscavenged_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1366198,
+    1366581,
+    1378700,
+    1388425,
+    1388432,
+    1415437,
+    1435019,
+    1465418,
+    1491573,
+    1510421,
+    1512141,
+    1515264,
+    1515541,
+    1517410,
+    1530236
+  ]
+}

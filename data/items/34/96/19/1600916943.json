@@ -1,0 +1,14 @@
+{
+  "internalId": 1600916943,
+  "name": "Shattered Fate Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194777,
+    194812,
+    194847,
+    194882,
+    194917
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": 1211483597,
+  "name": "Ironblood Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1173152,
+    1174205,
+    1201343,
+    1376022,
+    1404101,
+    1545071,
+    1551616,
+    1560866,
+    1564145,
+    1600996,
+    1603603,
+    1605639,
+    1613328,
+    1742475,
+    1749304,
+    1778678
+  ]
+}

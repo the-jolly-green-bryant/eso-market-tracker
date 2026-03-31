@@ -1,0 +1,10 @@
+{
+  "internalId": 4258861641,
+  "name": "Ayleid Flooring, Round",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_platformround001.png",
+  "bindType": -1,
+  "knownIds": [
+    212411
+  ]
+}

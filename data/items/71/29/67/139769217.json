@@ -1,0 +1,22 @@
+{
+  "internalId": 139769217,
+  "name": "Automated Defense Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1182283,
+    1249020,
+    1292640,
+    1304276,
+    1346170,
+    1396327,
+    1540596,
+    1598364,
+    1619153,
+    1622341,
+    1631013,
+    1761540,
+    1764521
+  ]
+}

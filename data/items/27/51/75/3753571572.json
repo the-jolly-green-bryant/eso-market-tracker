@@ -1,0 +1,19 @@
+{
+  "internalId": 3753571572,
+  "name": "Robe of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58174,
+    58203,
+    58238,
+    58273,
+    58308,
+    58343,
+    58378,
+    58413,
+    58448,
+    58483
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 710243748,
+  "name": "Wood Elf Table, Formal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_table002.png",
+  "bindType": -1,
+  "knownIds": [
+    115583
+  ]
+}

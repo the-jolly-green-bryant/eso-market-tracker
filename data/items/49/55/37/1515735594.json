@@ -1,0 +1,14 @@
+{
+  "internalId": 1515735594,
+  "name": "Dagger of the Undaunted Unweaver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_dagger_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1570938,
+    1574596,
+    1603690,
+    1745420,
+    1750854
+  ]
+}

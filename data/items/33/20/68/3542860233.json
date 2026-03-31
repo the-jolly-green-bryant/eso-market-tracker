@@ -1,0 +1,10 @@
+{
+  "internalId": 3542860233,
+  "name": "Armored Gauntlets of the Ivory Brigade",
+  "description": "A pair of armored gauntlets engraved with Leyawiin's crest for use by the Ivory Brigade militia.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    174852
+  ]
+}

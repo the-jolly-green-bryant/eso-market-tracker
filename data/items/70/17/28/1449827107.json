@@ -1,0 +1,17 @@
+{
+  "internalId": 1449827107,
+  "name": "Death-Dancer Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214706,
+    214726,
+    214746,
+    214766,
+    214786,
+    214806,
+    214826,
+    214846
+  ]
+}

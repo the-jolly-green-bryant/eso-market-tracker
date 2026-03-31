@@ -1,0 +1,10 @@
+{
+  "internalId": 438466730,
+  "name": "Apocrypha Plant, Crimson Succulent",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_chromaticvines003.png",
+  "bindType": -1,
+  "knownIds": [
+    203137
+  ]
+}

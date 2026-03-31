@@ -1,0 +1,10 @@
+{
+  "internalId": 2753186594,
+  "name": "Tile, Constellation",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_duc_constellationblockds001.png",
+  "bindType": -1,
+  "knownIds": [
+    118744
+  ]
+}

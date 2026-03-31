@@ -1,0 +1,10 @@
+{
+  "internalId": 2239392006,
+  "name": "High Elf Counter, Long Cabinet",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_counterlong001.png",
+  "bindType": -1,
+  "knownIds": [
+    116340
+  ]
+}

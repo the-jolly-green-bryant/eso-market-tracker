@@ -1,0 +1,10 @@
+{
+  "internalId": 2993060258,
+  "name": "Heartwood",
+  "description": "Used in crafting wooden furniture.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_furniture_base_heartwood.png",
+  "bindType": -1,
+  "knownIds": [
+    114895
+  ]
+}

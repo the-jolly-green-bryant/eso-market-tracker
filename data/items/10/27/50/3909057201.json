@@ -1,0 +1,17 @@
+{
+  "internalId": 3909057201,
+  "name": "Old Growth Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191715,
+    191750,
+    191785,
+    191820,
+    191855,
+    191890,
+    191925,
+    191960
+  ]
+}

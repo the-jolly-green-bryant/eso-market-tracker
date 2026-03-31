@@ -1,0 +1,15 @@
+{
+  "internalId": 1083056915,
+  "name": "Necklace of Alessia's Bulwark",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139734,
+    139824,
+    139914,
+    140004,
+    140094,
+    140184
+  ]
+}

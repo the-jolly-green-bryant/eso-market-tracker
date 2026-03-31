@@ -1,0 +1,17 @@
+{
+  "internalId": 512536943,
+  "name": "Shield of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88181,
+    88201,
+    88221,
+    88241,
+    88261,
+    88281,
+    88301,
+    88321
+  ]
+}

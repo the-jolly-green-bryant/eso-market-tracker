@@ -1,0 +1,19 @@
+{
+  "internalId": 1856090057,
+  "name": "Druid's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185562,
+    185617,
+    185652,
+    185687,
+    185722,
+    185757,
+    185792,
+    185827,
+    185862,
+    185897
+  ]
+}

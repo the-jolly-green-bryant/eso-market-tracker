@@ -1,0 +1,10 @@
+{
+  "internalId": 2363798379,
+  "name": "Fern, Cyan",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_hrccyatheacooperiglow002.png",
+  "bindType": -1,
+  "knownIds": [
+    153689
+  ]
+}

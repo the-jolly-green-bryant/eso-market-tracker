@@ -1,0 +1,16 @@
+{
+  "internalId": 2026130197,
+  "name": "Hulking Draugr's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1623975,
+    1626545,
+    1647204,
+    1686480,
+    1731836,
+    1766021,
+    1779164
+  ]
+}

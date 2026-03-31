@@ -1,0 +1,10 @@
+{
+  "internalId": 1487914005,
+  "name": "Fargrave Tomato Bunch",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodtomatopile001.png",
+  "bindType": -1,
+  "knownIds": [
+    182299
+  ]
+}

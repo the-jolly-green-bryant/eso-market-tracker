@@ -1,0 +1,20 @@
+{
+  "internalId": 4288818719,
+  "name": "Soul-Reave",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2haxe_b.png",
+  "bindType": -1,
+  "knownIds": [
+    764900,
+    705753,
+    829203,
+    843944,
+    937360,
+    1067783,
+    1212928,
+    1249347,
+    1471621,
+    1510671,
+    1570013
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3972652997,
+  "name": "Forest Wraith's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192015,
+    192070,
+    192105,
+    192140,
+    192175,
+    192210,
+    192245,
+    192280,
+    192315,
+    192350
+  ]
+}

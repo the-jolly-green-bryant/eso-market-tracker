@@ -1,0 +1,17 @@
+{
+  "internalId": 2235274716,
+  "name": "Gloves of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91961,
+    91982,
+    92003,
+    92024,
+    92045,
+    92066,
+    92087,
+    92108
+  ]
+}

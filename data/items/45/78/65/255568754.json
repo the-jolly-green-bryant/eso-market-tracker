@@ -1,0 +1,17 @@
+{
+  "internalId": 255568754,
+  "name": "Plaguebreak Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180609,
+    180629,
+    180649,
+    180669,
+    180689,
+    180709,
+    180729,
+    180749
+  ]
+}

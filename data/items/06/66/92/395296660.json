@@ -1,0 +1,18 @@
+{
+  "internalId": 395296660,
+  "name": "Stuhn's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161276,
+    161311,
+    161346,
+    161381,
+    161416,
+    161451,
+    161486,
+    161521,
+    161556
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3389474422,
+  "name": "panacea of Potent Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    1742451
+  ]
+}

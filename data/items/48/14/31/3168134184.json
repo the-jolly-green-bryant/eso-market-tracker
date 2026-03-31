@@ -1,0 +1,16 @@
+{
+  "internalId": 3168134184,
+  "name": "hide jack of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    427643,
+    457223,
+    578519,
+    434028,
+    793363,
+    789480,
+    789340
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1969848735,
+  "name": "Alessian Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87997,
+    88017,
+    88037,
+    88057,
+    88077,
+    88097,
+    88117,
+    88137
+  ]
+}

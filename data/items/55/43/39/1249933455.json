@@ -1,0 +1,10 @@
+{
+  "internalId": 1249933455,
+  "name": "Fragment of the Winterbourne",
+  "description": "Consume Fragment of the Winterbourne, along with fragments of the Obsidian Scar, the Exarch, the Black Maw, and the Thorn, to unlock the Skill Stylist: Silver Bolts achievement and the Silver Bolts, Vibrant Yellow Skill Style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_crystal_blue.png",
+  "bindType": 3,
+  "knownIds": [
+    211161
+  ]
+}

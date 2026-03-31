@@ -1,0 +1,10 @@
+{
+  "internalId": 348638806,
+  "name": "Frost Mirriam",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_plant_creature_vines.png",
+  "bindType": -1,
+  "knownIds": [
+    26802
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 627280371,
+  "name": "Ravaging Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89452,
+    89472,
+    89492,
+    89512,
+    89532,
+    89552,
+    89572,
+    89592
+  ]
+}

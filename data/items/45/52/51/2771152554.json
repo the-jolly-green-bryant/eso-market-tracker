@@ -1,0 +1,10 @@
+{
+  "internalId": 2771152554,
+  "name": "Floating Apocrypha Bookcase, Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_housingbookcasefloating001.png",
+  "bindType": -1,
+  "knownIds": [
+    198403
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2366585726,
+  "name": "Champion of the Hist Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_1hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142239,
+    142259,
+    142279,
+    142299,
+    142319,
+    142339,
+    142359,
+    142379
+  ]
+}

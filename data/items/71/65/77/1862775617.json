@@ -1,0 +1,17 @@
+{
+  "internalId": 1862775617,
+  "name": "Afflicted Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89271,
+    89291,
+    89311,
+    89331,
+    89351,
+    89371,
+    89391,
+    89411
+  ]
+}

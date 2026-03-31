@@ -1,0 +1,10 @@
+{
+  "internalId": 2148528550,
+  "name": "Raincatcher Pantaloons",
+  "description": "These pantaloons are slightly water-repellant to make working in the Rain Catcher Fields easier.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7524
+  ]
+}

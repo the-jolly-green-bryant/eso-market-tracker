@@ -1,0 +1,10 @@
+{
+  "internalId": 1451931536,
+  "name": "Sapling, Young Scrub",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_craglornscrubtree001.png",
+  "bindType": -1,
+  "knownIds": [
+    120553
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 2486066682,
+  "name": "Knight Slayer Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123567,
+    123588,
+    123609,
+    123630,
+    123651,
+    123672,
+    123693
+  ]
+}

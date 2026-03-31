@@ -1,0 +1,13 @@
+{
+  "internalId": 1934998704,
+  "name": "Shacklebreaker Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122468,
+    122503,
+    122538,
+    122573
+  ]
+}

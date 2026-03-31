@@ -1,0 +1,10 @@
+{
+  "internalId": 1009059474,
+  "name": "High Elf Shelf, Long",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_wallshelf001.png",
+  "bindType": -1,
+  "knownIds": [
+    114332
+  ]
+}

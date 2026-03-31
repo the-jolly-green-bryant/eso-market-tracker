@@ -1,0 +1,10 @@
+{
+  "internalId": 211034266,
+  "name": "Swordmaster's Shoulderplates",
+  "description": "The sigil of Thizzrini, a mark of a true champion, is used as a maker's mark in the neck of this armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54359
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 780647956,
+  "name": "Beekeeper's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98335,
+    98355,
+    98375,
+    98395,
+    98415,
+    98435,
+    98455,
+    98475
+  ]
+}

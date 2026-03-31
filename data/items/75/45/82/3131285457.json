@@ -1,0 +1,15 @@
+{
+  "internalId": 3131285457,
+  "name": "Automated Defense Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1150114,
+    1166843,
+    1347057,
+    1458775,
+    1460482,
+    1468492
+  ]
+}

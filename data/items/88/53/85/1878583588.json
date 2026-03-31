@@ -1,0 +1,17 @@
+{
+  "internalId": 1878583588,
+  "name": "Maul of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85084,
+    85105,
+    85126,
+    85147,
+    85168,
+    85189,
+    85210,
+    85231
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1674337342,
+  "name": "Eye of the Grasp Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_2hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179951,
+    179972,
+    179993,
+    180014,
+    180035,
+    180056,
+    180077
+  ]
+}

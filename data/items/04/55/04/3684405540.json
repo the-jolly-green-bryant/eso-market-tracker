@@ -1,0 +1,17 @@
+{
+  "internalId": 3684405540,
+  "name": "Livewire Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132669,
+    132689,
+    132709,
+    132729,
+    132749,
+    132769,
+    132789,
+    132809
+  ]
+}

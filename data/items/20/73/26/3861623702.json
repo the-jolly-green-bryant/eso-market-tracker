@@ -1,0 +1,11 @@
+{
+  "internalId": 3861623702,
+  "name": "Covenant Frost Lancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_frost.png",
+  "bindType": -1,
+  "knownIds": [
+    1378361,
+    1529471
+  ]
+}

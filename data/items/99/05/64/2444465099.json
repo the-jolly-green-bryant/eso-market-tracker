@@ -1,0 +1,17 @@
+{
+  "internalId": 2444465099,
+  "name": "Soldier of Anguish Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144474,
+    144494,
+    144514,
+    144534,
+    144554,
+    144574,
+    144594,
+    144614
+  ]
+}

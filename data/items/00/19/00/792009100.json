@@ -1,0 +1,10 @@
+{
+  "internalId": 792009100,
+  "name": "Deadlands Brazier, Bladed Pillar",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedpillarbrazierfire004.png",
+  "bindType": -1,
+  "knownIds": [
+    175717
+  ]
+}

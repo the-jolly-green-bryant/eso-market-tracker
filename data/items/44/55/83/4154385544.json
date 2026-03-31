@@ -1,0 +1,18 @@
+{
+  "internalId": 4154385544,
+  "name": "Gossamer Winglet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_flying_insect_bug_wings.png",
+  "bindType": -1,
+  "knownIds": [
+    817258,
+    517173,
+    854063,
+    1090157,
+    1153239,
+    1207783,
+    1265150,
+    1285056,
+    1325266
+  ]
+}

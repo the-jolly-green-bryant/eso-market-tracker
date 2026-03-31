@@ -1,0 +1,19 @@
+{
+  "internalId": 3946661043,
+  "name": "Girdle of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168766,
+    168821,
+    168856,
+    168891,
+    168926,
+    168961,
+    168996,
+    169031,
+    169066,
+    169101
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4042113823,
+  "name": "Crafting Motif 121: Clan Dreamcarver Style",
+  "description": "Use to learn the Clan Dreamcarver crafting style. Also teaches the equivalent Clan Dreamcarver Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    194492
+  ]
+}

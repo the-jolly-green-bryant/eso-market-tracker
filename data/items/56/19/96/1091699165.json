@@ -1,0 +1,10 @@
+{
+  "internalId": 1091699165,
+  "name": "Solitude Wine Rack, Noble Full",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingfancywinerackfilled001.png",
+  "bindType": -1,
+  "knownIds": [
+    165703
+  ]
+}

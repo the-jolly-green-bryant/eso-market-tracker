@@ -1,0 +1,10 @@
+{
+  "internalId": 3720939041,
+  "name": "Vampiric Trunk, Polished Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_vampirechest002.png",
+  "bindType": -1,
+  "knownIds": [
+    165609
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 4180305885,
+  "name": "Leviathan Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_dagger_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1753335,
+    1753984,
+    1766115,
+    1773940
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2328689492,
+  "name": "Cabinet, Poisonmaker's",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_poismedicinecabinet001.png",
+  "bindType": -1,
+  "knownIds": [
+    118305
+  ]
+}

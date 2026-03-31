@@ -1,0 +1,15 @@
+{
+  "internalId": 3391792638,
+  "name": "Breeches of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70087,
+    70122,
+    70157,
+    70192,
+    70227,
+    70262
+  ]
+}

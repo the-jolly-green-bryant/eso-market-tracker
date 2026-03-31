@@ -1,0 +1,17 @@
+{
+  "internalId": 2223169098,
+  "name": "Thunderbug's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99840,
+    99860,
+    99880,
+    99900,
+    99920,
+    99940,
+    99960,
+    99980
+  ]
+}

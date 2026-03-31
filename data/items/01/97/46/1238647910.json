@@ -1,0 +1,11 @@
+{
+  "internalId": 1238647910,
+  "name": "Eidar Radish Salad",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33496,
+    37947
+  ]
+}

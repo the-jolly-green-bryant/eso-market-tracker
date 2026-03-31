@@ -1,0 +1,19 @@
+{
+  "internalId": 2099817899,
+  "name": "Gloves of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121923,
+    121958,
+    121993,
+    122028,
+    122063,
+    122098,
+    122133,
+    122168,
+    122203,
+    122238
+  ]
+}

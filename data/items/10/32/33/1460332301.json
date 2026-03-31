@@ -1,0 +1,19 @@
+{
+  "internalId": 1460332301,
+  "name": "Axe of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179554,
+    179609,
+    179644,
+    179679,
+    179714,
+    179749,
+    179784,
+    179819,
+    179854,
+    179889
+  ]
+}

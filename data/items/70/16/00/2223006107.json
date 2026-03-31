@@ -1,0 +1,10 @@
+{
+  "internalId": 2223006107,
+  "name": "Elsweyr Armchair, Low-Backed Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_chairmed001.png",
+  "bindType": -1,
+  "knownIds": [
+    151692
+  ]
+}

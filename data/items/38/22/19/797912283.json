@@ -1,0 +1,10 @@
+{
+  "internalId": 797912283,
+  "name": "High Isle Brazier, Bowl",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_lsb_brazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    187841
+  ]
+}

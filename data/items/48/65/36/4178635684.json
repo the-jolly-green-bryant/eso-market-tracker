@@ -1,0 +1,16 @@
+{
+  "internalId": 4178635684,
+  "name": "Sithis' Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77275,
+    77310,
+    77345,
+    77380,
+    77415,
+    77450,
+    77485
+  ]
+}

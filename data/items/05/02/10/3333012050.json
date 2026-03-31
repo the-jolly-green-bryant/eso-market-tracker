@@ -1,0 +1,10 @@
+{
+  "internalId": 3333012050,
+  "name": "Solitude Nightstand, Noble",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_endtablefancy005.png",
+  "bindType": -1,
+  "knownIds": [
+    165700
+  ]
+}

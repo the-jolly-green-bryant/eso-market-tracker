@@ -1,0 +1,10 @@
+{
+  "internalId": 753790150,
+  "name": "Orcish Carpet, Blood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgrug001.png",
+  "bindType": -1,
+  "knownIds": [
+    116512
+  ]
+}

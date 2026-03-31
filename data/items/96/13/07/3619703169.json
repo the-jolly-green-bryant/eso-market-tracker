@@ -1,0 +1,10 @@
+{
+  "internalId": 3619703169,
+  "name": "Elsweyr Statue, Shrine Lion",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_shrinelion001.png",
+  "bindType": -1,
+  "knownIds": [
+    153654
+  ]
+}

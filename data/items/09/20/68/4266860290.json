@@ -1,0 +1,13 @@
+{
+  "internalId": 4266860290,
+  "name": "Gloves of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129857,
+    129865,
+    129873,
+    129881
+  ]
+}

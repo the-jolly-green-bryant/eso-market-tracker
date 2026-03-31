@@ -1,0 +1,10 @@
+{
+  "internalId": 332722314,
+  "name": "Crafting Motif 12: Barbaric Style",
+  "description": "Use to learn the Barbaric crafting style. Requires Rank 7 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Barbaric Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    51565
+  ]
+}

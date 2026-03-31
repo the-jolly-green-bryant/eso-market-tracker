@@ -1,0 +1,16 @@
+{
+  "internalId": 4287398343,
+  "name": "Sash of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    178958,
+    178993,
+    179028,
+    179063,
+    179098,
+    179133,
+    179168
+  ]
+}

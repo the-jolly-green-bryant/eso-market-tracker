@@ -1,0 +1,10 @@
+{
+  "internalId": 1855295009,
+  "name": "Redguard Throw Pillow, Sands",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofapillowlarge003.png",
+  "bindType": -1,
+  "knownIds": [
+    117886
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3611757326,
+  "name": "Pyrebrand Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_2hsword.png",
+  "bindType": -1,
+  "knownIds": [
+    1735170,
+    1738629,
+    1745664,
+    1780000
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3630515620,
+  "name": "Ebon Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactebonyheavy_legs_.png",
+  "bindType": 2,
+  "knownIds": [
+    77608,
+    77663
+  ]
+}

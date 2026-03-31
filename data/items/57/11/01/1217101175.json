@@ -1,0 +1,10 @@
+{
+  "internalId": 1217101175,
+  "name": "The Inescapable Helm",
+  "description": "Many have died wearing it, not because of its ineffectiveness but rather because of its curse. Only in death is this miraculous helm unbound from its wearer's head. Bring this to the Vault of Moawita in Summerset.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_head_c.png",
+  "bindType": 3,
+  "knownIds": [
+    133614
+  ]
+}

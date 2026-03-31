@@ -1,0 +1,19 @@
+{
+  "internalId": 3831945758,
+  "name": "Heartland Conqueror's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172838,
+    172893,
+    172928,
+    172963,
+    172998,
+    173033,
+    173068,
+    173103,
+    173138,
+    173173
+  ]
+}

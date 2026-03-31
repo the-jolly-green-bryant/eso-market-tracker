@@ -1,0 +1,19 @@
+{
+  "internalId": 670076172,
+  "name": "Jerkin of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121926,
+    121961,
+    121996,
+    122031,
+    122066,
+    122101,
+    122136,
+    122171,
+    122206,
+    122241
+  ]
+}

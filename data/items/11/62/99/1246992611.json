@@ -1,0 +1,10 @@
+{
+  "internalId": 1246992611,
+  "name": "Redguard Trunk, Bolted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varshortchest001.png",
+  "bindType": -1,
+  "knownIds": [
+    117730
+  ]
+}

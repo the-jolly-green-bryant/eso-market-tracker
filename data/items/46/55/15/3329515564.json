@@ -1,0 +1,19 @@
+{
+  "internalId": 3329515564,
+  "name": "Scorion's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackironlgt_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1517288,
+    1536937,
+    1536940,
+    1540423,
+    1542177,
+    1552379,
+    1559868,
+    1583729,
+    1646519,
+    1649081
+  ]
+}

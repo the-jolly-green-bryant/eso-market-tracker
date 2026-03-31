@@ -1,0 +1,10 @@
+{
+  "internalId": 340549134,
+  "name": "Rock Wing Skin Belt of Cyrodiil's Ward",
+  "description": "Metal and hide strands interweave to give this belt unusual strength and flexibility.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45757
+  ]
+}

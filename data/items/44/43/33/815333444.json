@@ -1,0 +1,11 @@
+{
+  "internalId": 815333444,
+  "name": "Lucilla's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_mace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1750880,
+    1751609
+  ]
+}

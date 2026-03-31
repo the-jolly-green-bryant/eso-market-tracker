@@ -1,0 +1,10 @@
+{
+  "internalId": 2157024935,
+  "name": "Argonian Totem of the Snake",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_dreamcatcher002.png",
+  "bindType": -1,
+  "knownIds": [
+    115501
+  ]
+}

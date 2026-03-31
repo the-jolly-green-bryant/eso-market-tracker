@@ -1,0 +1,10 @@
+{
+  "internalId": 2983267498,
+  "name": "Target Wraith-of-Crows",
+  "description": "This is a large house item. This may be attacked and, when destroyed, will regenerate. This wraith is equivalent to an exceptionally hardy veteran dungeon boss.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/targetdummy_wraitofcrows.png",
+  "bindType": -1,
+  "knownIds": [
+    141778
+  ]
+}

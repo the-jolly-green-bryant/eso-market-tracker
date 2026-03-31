@@ -1,0 +1,17 @@
+{
+  "internalId": 710213452,
+  "name": "Hew and Sunder Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183429,
+    183449,
+    183469,
+    183489,
+    183509,
+    183529,
+    183549,
+    183569
+  ]
+}

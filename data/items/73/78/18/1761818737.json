@@ -1,0 +1,10 @@
+{
+  "internalId": 1761818737,
+  "name": "Seal of Clan Shatul, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_plateshatulmetal001.png",
+  "bindType": -1,
+  "knownIds": [
+    134455
+  ]
+}

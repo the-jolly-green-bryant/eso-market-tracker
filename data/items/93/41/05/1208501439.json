@@ -1,0 +1,19 @@
+{
+  "internalId": 1208501439,
+  "name": "Test of Resolve Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1650336,
+    1652163,
+    1652230,
+    1660563,
+    1702530,
+    1716662,
+    1758374,
+    1765946,
+    1773336,
+    1773963
+  ]
+}

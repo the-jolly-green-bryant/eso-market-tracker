@@ -1,0 +1,10 @@
+{
+  "internalId": 1415187129,
+  "name": "Ancient Yokudan Chalice",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_goblet_001.png",
+  "bindType": -1,
+  "knownIds": [
+    925280
+  ]
+}

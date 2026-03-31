@@ -1,0 +1,17 @@
+{
+  "internalId": 941096571,
+  "name": "Mace of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91565,
+    91586,
+    91607,
+    91628,
+    91649,
+    91670,
+    91691,
+    91712
+  ]
+}

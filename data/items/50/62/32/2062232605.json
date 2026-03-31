@@ -1,0 +1,19 @@
+{
+  "internalId": 2062232605,
+  "name": "Gladiator's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75397,
+    75432,
+    75467,
+    75502,
+    75537,
+    75572,
+    75607,
+    75642,
+    75677,
+    75712
+  ]
+}

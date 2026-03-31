@@ -1,0 +1,13 @@
+{
+  "internalId": 12780958,
+  "name": "Pyrebrand Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_dagger.png",
+  "bindType": -1,
+  "knownIds": [
+    1735258,
+    1739135,
+    1742379,
+    1745657
+  ]
+}

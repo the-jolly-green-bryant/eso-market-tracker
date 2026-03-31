@@ -1,0 +1,15 @@
+{
+  "internalId": 79766433,
+  "name": "Bow of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95319,
+    95339,
+    95359,
+    95379,
+    95399,
+    95419
+  ]
+}

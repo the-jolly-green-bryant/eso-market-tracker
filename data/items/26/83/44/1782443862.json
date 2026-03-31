@@ -1,0 +1,10 @@
+{
+  "internalId": 1782443862,
+  "name": "High Isle Bookcase, Carved Filled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_housingbookcasehigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    187839
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1011378406,
+  "name": "Craglorn Urn, Standing",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_con_chestc001.png",
+  "bindType": -1,
+  "knownIds": [
+    120841
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 2510956700,
+  "name": "Tribunal Rug",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necrug003.png",
+  "bindType": -1,
+  "knownIds": [
+    197713,
+    119911
+  ]
+}

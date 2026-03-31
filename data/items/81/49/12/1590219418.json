@@ -1,0 +1,17 @@
+{
+  "internalId": 1590219418,
+  "name": "Inferno Staff of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78617,
+    78652,
+    78687,
+    78722,
+    78757,
+    78792,
+    78827,
+    78862
+  ]
+}

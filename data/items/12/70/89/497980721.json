@@ -1,0 +1,10 @@
+{
+  "internalId": 497980721,
+  "name": "Fragment of the Vents",
+  "description": "Consume Fragment of the Vents, along with fragments of the Sunspire, the Martyr, the Forgotten, the Baron, and Ash, to unlock the Skill Stylist: Puncture achievement and the Puncture, Lavaburst Skill Style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_shard_redorange.png",
+  "bindType": 3,
+  "knownIds": [
+    211310
+  ]
+}

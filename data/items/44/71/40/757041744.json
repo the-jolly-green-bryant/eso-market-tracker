@@ -1,0 +1,17 @@
+{
+  "internalId": 757041744,
+  "name": "Pauldron of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86581,
+    86601,
+    86621,
+    86641,
+    86661,
+    86681,
+    86701,
+    86721
+  ]
+}

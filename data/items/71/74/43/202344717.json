@@ -1,0 +1,11 @@
+{
+  "internalId": 202344717,
+  "name": "Baked Apples",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_apples.png",
+  "bindType": -1,
+  "knownIds": [
+    33837,
+    37823
+  ]
+}

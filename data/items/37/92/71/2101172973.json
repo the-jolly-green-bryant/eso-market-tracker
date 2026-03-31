@@ -1,0 +1,10 @@
+{
+  "internalId": 2101172973,
+  "name": "Filtered Water",
+  "description": "An Ingredient for crafting level 40 potions",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_3_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    23266
+  ]
+}

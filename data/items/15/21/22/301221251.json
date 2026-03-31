@@ -1,0 +1,15 @@
+{
+  "internalId": 301221251,
+  "name": "Greatsword of Phylactery's Grasp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600818,
+    1605732,
+    1660504,
+    1679709,
+    1685518,
+    1717607
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3582300991,
+  "name": "Thunderbug's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99848,
+    99868,
+    99888,
+    99908,
+    99928,
+    99948,
+    99968,
+    99988
+  ]
+}

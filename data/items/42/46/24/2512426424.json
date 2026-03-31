@@ -1,0 +1,10 @@
+{
+  "internalId": 2512426424,
+  "name": "Elsweyr Cloth, Rolled",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_clothrolls001.png",
+  "bindType": -1,
+  "knownIds": [
+    151895
+  ]
+}

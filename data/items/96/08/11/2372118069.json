@@ -1,0 +1,10 @@
+{
+  "internalId": 2372118069,
+  "name": "Alinor Easel, Carved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_artisteasel001.png",
+  "bindType": -1,
+  "knownIds": [
+    184100
+  ]
+}

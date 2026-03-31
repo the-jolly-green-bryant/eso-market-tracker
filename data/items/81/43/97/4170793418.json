@@ -1,0 +1,14 @@
+{
+  "internalId": 4170793418,
+  "name": "Helm of Bahraha's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199809,
+    199810,
+    199811,
+    199812,
+    199813
+  ]
+}

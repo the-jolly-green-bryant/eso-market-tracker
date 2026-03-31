@@ -1,0 +1,17 @@
+{
+  "internalId": 3581067500,
+  "name": "Arkay's Charity Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213749,
+    213770,
+    213791,
+    213812,
+    213833,
+    213854,
+    213875,
+    213896
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3776782749,
+  "name": "Helm of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71791,
+    71826,
+    71861,
+    71896,
+    71931,
+    71966,
+    72001,
+    72036,
+    72071,
+    72106
+  ]
+}

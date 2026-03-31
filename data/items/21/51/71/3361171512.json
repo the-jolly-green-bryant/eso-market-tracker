@@ -1,0 +1,17 @@
+{
+  "internalId": 3361171512,
+  "name": "Spinner's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99661,
+    99682,
+    99703,
+    99724,
+    99745,
+    99766,
+    99787,
+    99808
+  ]
+}

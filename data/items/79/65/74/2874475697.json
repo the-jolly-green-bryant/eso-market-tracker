@@ -1,0 +1,17 @@
+{
+  "internalId": 2874475697,
+  "name": "Highland Sentinel Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205894,
+    205929,
+    205964,
+    205999,
+    206034,
+    206069,
+    206104,
+    206139
+  ]
+}

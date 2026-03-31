@@ -1,0 +1,10 @@
+{
+  "internalId": 1327614570,
+  "name": "Elsweyr Dome Architecture Painting, Gold",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_metalframepainting005.png",
+  "bindType": -1,
+  "knownIds": [
+    165833
+  ]
+}

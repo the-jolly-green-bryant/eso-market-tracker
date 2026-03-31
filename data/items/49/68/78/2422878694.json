@@ -1,0 +1,10 @@
+{
+  "internalId": 2422878694,
+  "name": "Lamellar War Belt",
+  "description": "You earned this reliable war belt by investigating the murders on Frostmoon Farmstead.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    44909
+  ]
+}

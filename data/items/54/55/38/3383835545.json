@@ -1,0 +1,19 @@
+{
+  "internalId": 3383835545,
+  "name": "Sword of Kyne's Wind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_sword.png",
+  "bindType": -1,
+  "knownIds": [
+    1368128,
+    1382991,
+    1384233,
+    1409623,
+    1413738,
+    1602799,
+    1727021,
+    1737520,
+    1770341,
+    1777387
+  ]
+}

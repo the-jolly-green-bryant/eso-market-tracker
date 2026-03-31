@@ -1,0 +1,11 @@
+{
+  "internalId": 2365995604,
+  "name": "Icy Conjurer's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1606564,
+    1623299
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "internalId": 3887261376,
+  "name": "Mallet of the Devourer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hhammer_b.png",
+  "bindType": -1,
+  "knownIds": [
+    816463,
+    813780,
+    477910,
+    583801,
+    829964,
+    835864,
+    856548,
+    875558,
+    875583,
+    1077262,
+    1090672,
+    1404555,
+    1447714,
+    1470065
+  ]
+}

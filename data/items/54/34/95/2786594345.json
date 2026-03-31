@@ -1,0 +1,10 @@
+{
+  "internalId": 2786594345,
+  "name": "Pact Mage Mercenary Contract",
+  "description": "This contract grants you the services of a mercenary who will defend a location of your choice for a short period of time.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_001.png",
+  "bindType": -1,
+  "knownIds": [
+    44240
+  ]
+}

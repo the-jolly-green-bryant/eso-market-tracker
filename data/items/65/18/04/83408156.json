@@ -1,0 +1,10 @@
+{
+  "internalId": 83408156,
+  "name": "Sentinel's Longbow",
+  "description": "This bow was awarded for deciding the fate of the Viridian Sentinel in the wilds of Bangkorai.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15610
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 778726144,
+  "name": "Spell Parasite's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163299,
+    163334,
+    163369,
+    163404
+  ]
+}

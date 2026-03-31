@@ -1,0 +1,10 @@
+{
+  "internalId": 3825350423,
+  "name": "Rough Maple",
+  "description": "Ten of these items can be refined to make sanded maple.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_weapon_component_004.png",
+  "bindType": -1,
+  "knownIds": [
+    802
+  ]
+}

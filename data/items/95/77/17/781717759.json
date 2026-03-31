@@ -1,0 +1,13 @@
+{
+  "internalId": 781717759,
+  "name": "Adept Rider's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135941,
+    135976,
+    136011,
+    136046
+  ]
+}

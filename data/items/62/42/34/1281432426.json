@@ -1,0 +1,21 @@
+{
+  "internalId": 1281432426,
+  "name": "Pillar of Nirn Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1201278,
+    1372211,
+    1372943,
+    1375853,
+    1545247,
+    1558377,
+    1589372,
+    1616114,
+    1628207,
+    1637792,
+    1640796,
+    1731987
+  ]
+}

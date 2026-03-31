@@ -1,0 +1,14 @@
+{
+  "internalId": 858916358,
+  "name": "Axe of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88593,
+    88613,
+    88633,
+    88653,
+    88673
+  ]
+}

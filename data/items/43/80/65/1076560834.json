@@ -1,0 +1,10 @@
+{
+  "internalId": 1076560834,
+  "name": "Sash of the Subservient",
+  "description": "The filigree etched on the clasp of this sash depicts countless world-weary faces.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    197803
+  ]
+}

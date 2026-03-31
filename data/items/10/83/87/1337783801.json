@@ -1,0 +1,33 @@
+{
+  "internalId": 1337783801,
+  "name": "Shield of the Undaunted Unweaver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_shield_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1065902,
+    1085164,
+    1153762,
+    1175181,
+    1231246,
+    1277129,
+    1283291,
+    1306709,
+    1337821,
+    1370963,
+    1406514,
+    1415597,
+    1550175,
+    1553144,
+    1559323,
+    1562033,
+    1573791,
+    1574488,
+    1581184,
+    1584257,
+    1587877,
+    1591214,
+    1603683,
+    1770001
+  ]
+}

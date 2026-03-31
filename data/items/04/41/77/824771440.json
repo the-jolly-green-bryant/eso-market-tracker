@@ -1,0 +1,18 @@
+{
+  "internalId": 824771440,
+  "name": "Greaves of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158388,
+    158423,
+    158458,
+    158493,
+    158528,
+    158563,
+    158598,
+    158633,
+    158668
+  ]
+}

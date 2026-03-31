@@ -1,0 +1,19 @@
+{
+  "internalId": 3731504118,
+  "name": "Gladiator's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75394,
+    75429,
+    75464,
+    75499,
+    75534,
+    75569,
+    75604,
+    75639,
+    75674,
+    75709
+  ]
+}

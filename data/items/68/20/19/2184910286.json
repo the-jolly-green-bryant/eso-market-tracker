@@ -1,0 +1,19 @@
+{
+  "internalId": 2184910286,
+  "name": "Vastarie's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148716,
+    148771,
+    148806,
+    148841,
+    148876,
+    148911,
+    148946,
+    148981,
+    149016,
+    149051
+  ]
+}

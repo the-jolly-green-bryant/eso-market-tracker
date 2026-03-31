@@ -1,0 +1,14 @@
+{
+  "internalId": 1945384700,
+  "name": "Boots of the Undaunted Infiltrator",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58653,
+    58674,
+    58695,
+    58716,
+    58737
+  ]
+}

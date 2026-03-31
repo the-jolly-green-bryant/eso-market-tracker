@@ -1,0 +1,17 @@
+{
+  "internalId": 3744204644,
+  "name": "Mace of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97593,
+    97613,
+    97633,
+    97653,
+    97673,
+    97693,
+    97713,
+    97733
+  ]
+}

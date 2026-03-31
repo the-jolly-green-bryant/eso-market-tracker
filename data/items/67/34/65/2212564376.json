@@ -1,0 +1,17 @@
+{
+  "internalId": 2212564376,
+  "name": "Battle Axe of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98696,
+    98717,
+    98738,
+    98759,
+    98780,
+    98801,
+    98822,
+    98843
+  ]
+}

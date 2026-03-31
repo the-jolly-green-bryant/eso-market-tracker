@@ -1,0 +1,10 @@
+{
+  "internalId": 1745922264,
+  "name": "Bruk'ra Fragment",
+  "description": "This fragment of an ancient mural depicts the kingdom of Bruk'ra, known for its river-trade. Return it to the House of Histories in Riverhold, in Northern Elsweyr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_elsweyr_khaijit_mural_frament.png",
+  "bindType": 3,
+  "knownIds": [
+    147531
+  ]
+}

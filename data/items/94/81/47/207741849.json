@@ -1,0 +1,10 @@
+{
+  "internalId": 207741849,
+  "name": "Club of the Nord Cultural Exchange",
+  "description": "Rigurt the Brash gave you this blunt instrument in thanks for helping him arrange an audience with the Proxy Queen.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    134688
+  ]
+}

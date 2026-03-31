@@ -1,0 +1,17 @@
+{
+  "internalId": 1343329340,
+  "name": "Shield of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88727,
+    88747,
+    88767,
+    88787,
+    88807,
+    88827,
+    88847,
+    88867
+  ]
+}

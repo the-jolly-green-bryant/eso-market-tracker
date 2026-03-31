@@ -1,0 +1,18 @@
+{
+  "internalId": 2661368370,
+  "name": "Ice Staff of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86754,
+    86775,
+    86796,
+    86817,
+    86838,
+    86859,
+    86880,
+    86901,
+    86922
+  ]
+}

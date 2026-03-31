@@ -1,0 +1,10 @@
+{
+  "internalId": 159802863,
+  "name": "Sir Hughes' Axe",
+  "description": "Sir Hughes awarded one of his personal weapons for your discretion in investigating the meaning of Almandine.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2502
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4275912040,
+  "name": "Elsweyr Winerack, Cane Mead",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_housingwinerack001.png",
+  "bindType": -1,
+  "knownIds": [
+    151714
+  ]
+}

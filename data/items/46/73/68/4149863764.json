@@ -1,0 +1,14 @@
+{
+  "internalId": 4149863764,
+  "name": "Shattered Fate Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194769,
+    194804,
+    194839,
+    194874,
+    194909
+  ]
+}

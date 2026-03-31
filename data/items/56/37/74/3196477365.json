@@ -1,0 +1,10 @@
+{
+  "internalId": 3196477365,
+  "name": "Vat, Paper Pulp",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_papermakingcauldron001.png",
+  "bindType": -1,
+  "knownIds": [
+    198430
+  ]
+}

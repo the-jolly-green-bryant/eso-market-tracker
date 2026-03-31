@@ -1,0 +1,17 @@
+{
+  "internalId": 3371425498,
+  "name": "Cuirass of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76929,
+    76949,
+    76969,
+    76989,
+    77009,
+    77029,
+    77049,
+    77069
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2429076400,
+  "name": "Helm of the Sergeant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89701,
+    89721,
+    89741,
+    89761,
+    89781
+  ]
+}

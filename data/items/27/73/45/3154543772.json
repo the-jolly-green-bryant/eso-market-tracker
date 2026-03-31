@@ -1,0 +1,10 @@
+{
+  "internalId": 3154543772,
+  "name": "Stairway, Reclaimed Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_scaffoldbalconystairshalf001.png",
+  "bindType": -1,
+  "knownIds": [
+    198474
+  ]
+}

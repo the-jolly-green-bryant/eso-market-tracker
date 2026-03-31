@@ -1,0 +1,18 @@
+{
+  "internalId": 2321919779,
+  "name": "Spinner's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99659,
+    99680,
+    99701,
+    99722,
+    99743,
+    99764,
+    99785,
+    99806,
+    99827
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2260408554,
+  "name": "Witch-Knight's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167780,
+    167800,
+    167820,
+    167840,
+    167860,
+    167880,
+    167900,
+    167920
+  ]
+}

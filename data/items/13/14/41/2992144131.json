@@ -1,0 +1,19 @@
+{
+  "internalId": 2992144131,
+  "name": "Arm Cops of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168780,
+    168835,
+    168870,
+    168905,
+    168940,
+    168975,
+    169010,
+    169045,
+    169080,
+    169115
+  ]
+}

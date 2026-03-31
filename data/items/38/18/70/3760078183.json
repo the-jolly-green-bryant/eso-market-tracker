@@ -1,0 +1,10 @@
+{
+  "internalId": 3760078183,
+  "name": "Steak, Display",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_steak001.png",
+  "bindType": -1,
+  "knownIds": [
+    118111
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1990243108,
+  "name": "Pauldron of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116543,
+    116563,
+    116583,
+    116603,
+    116623,
+    116643,
+    116663,
+    116683
+  ]
+}

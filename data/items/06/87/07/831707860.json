@@ -1,0 +1,11 @@
+{
+  "internalId": 831707860,
+  "name": "Pumpkin Cheesecake",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cake_005.png",
+  "bindType": -1,
+  "knownIds": [
+    37835,
+    42807
+  ]
+}

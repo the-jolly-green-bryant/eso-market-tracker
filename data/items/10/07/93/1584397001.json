@@ -1,0 +1,20 @@
+{
+  "internalId": 1584397001,
+  "name": "Girdle of the Crimson Oath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackironhvy_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1520839,
+    1525508,
+    1528437,
+    1529128,
+    1536936,
+    1544308,
+    1550738,
+    1551568,
+    1556044,
+    1563228,
+    1563568
+  ]
+}

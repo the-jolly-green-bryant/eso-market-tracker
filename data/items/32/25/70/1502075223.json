@@ -1,0 +1,19 @@
+{
+  "internalId": 1502075223,
+  "name": "Threads of War Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206164,
+    206219,
+    206254,
+    206289,
+    206324,
+    206359,
+    206394,
+    206429,
+    206464,
+    206499
+  ]
+}

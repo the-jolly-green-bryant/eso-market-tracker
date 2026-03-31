@@ -1,0 +1,17 @@
+{
+  "internalId": 4129741443,
+  "name": "Ravaging Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89451,
+    89471,
+    89491,
+    89511,
+    89531,
+    89551,
+    89571,
+    89591
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 892008544,
+  "name": "Imperial Footlocker, Scrollwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_trunk001.png",
+  "bindType": -1,
+  "knownIds": [
+    94182
+  ]
+}

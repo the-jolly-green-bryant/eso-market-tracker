@@ -1,0 +1,15 @@
+{
+  "internalId": 4212790439,
+  "name": "Restoration Staff of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70101,
+    70136,
+    70171,
+    70206,
+    70241,
+    70276
+  ]
+}

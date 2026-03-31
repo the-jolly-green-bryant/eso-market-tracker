@@ -1,0 +1,10 @@
+{
+  "internalId": 688333343,
+  "name": "Dried Blood",
+  "description": "Ten of these items can be refined into Tainted Blood, which is used to make Assassins League equipment.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_assassins_league_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    76911
+  ]
+}

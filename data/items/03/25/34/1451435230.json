@@ -1,0 +1,19 @@
+{
+  "internalId": 1451435230,
+  "name": "Breeches of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71811,
+    71846,
+    71881,
+    71916,
+    71951,
+    71986,
+    72021,
+    72056,
+    72091,
+    72126
+  ]
+}

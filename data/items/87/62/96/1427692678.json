@@ -1,0 +1,10 @@
+{
+  "internalId": 1427692678,
+  "name": "Crafting Motif 112: Syrabanic Marine Gloves",
+  "description": "Use to learn how to make Syrabanic Marine Gloves. Also teaches the equivalent Syrabanic Marine Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    182527
+  ]
+}

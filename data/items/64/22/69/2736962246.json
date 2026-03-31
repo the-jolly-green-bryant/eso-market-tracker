@@ -1,0 +1,17 @@
+{
+  "internalId": 2736962246,
+  "name": "Ayleid Refuge Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hmace.png",
+  "bindType": 2,
+  "knownIds": [
+    205226,
+    205246,
+    205266,
+    205286,
+    205306,
+    205326,
+    205346,
+    205366
+  ]
+}

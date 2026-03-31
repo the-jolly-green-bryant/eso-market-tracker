@@ -1,0 +1,17 @@
+{
+  "internalId": 3082797341,
+  "name": "Tracker's Lash Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210373,
+    210394,
+    210415,
+    210436,
+    210457,
+    210478,
+    210499,
+    210520
+  ]
+}

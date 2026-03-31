@@ -1,0 +1,19 @@
+{
+  "internalId": 2004001275,
+  "name": "Gauntlets of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59960,
+    59995,
+    60030,
+    60065,
+    60100,
+    60135,
+    60170,
+    60205,
+    60240,
+    60275
+  ]
+}

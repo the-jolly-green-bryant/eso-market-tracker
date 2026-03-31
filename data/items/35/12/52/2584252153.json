@@ -1,0 +1,17 @@
+{
+  "internalId": 2584252153,
+  "name": "Vanguard's Challenge Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123173,
+    123193,
+    123213,
+    123233,
+    123253,
+    123273,
+    123293,
+    123313
+  ]
+}

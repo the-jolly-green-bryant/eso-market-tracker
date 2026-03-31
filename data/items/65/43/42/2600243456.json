@@ -1,0 +1,15 @@
+{
+  "internalId": 2600243456,
+  "name": "Adept Rider's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139761,
+    139851,
+    139941,
+    140031,
+    140121,
+    140211
+  ]
+}

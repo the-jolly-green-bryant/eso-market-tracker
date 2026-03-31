@@ -1,0 +1,19 @@
+{
+  "internalId": 630342007,
+  "name": "Heroic Unity Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_heavy_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748593,
+    1749053,
+    1749783,
+    1749902,
+    1750883,
+    1751707,
+    1753006,
+    1754500,
+    1754586,
+    1762331
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4172413615,
+  "name": "Canopy, Netted",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_harborcanopyfreestandingsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    184197
+  ]
+}

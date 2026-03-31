@@ -1,0 +1,17 @@
+{
+  "internalId": 1655253153,
+  "name": "Mace of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189682,
+    189702,
+    189722,
+    189742,
+    189762,
+    189782,
+    189802,
+    189822
+  ]
+}

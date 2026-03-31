@@ -1,0 +1,19 @@
+{
+  "internalId": 828958071,
+  "name": "Girdle of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75755,
+    75790,
+    75825,
+    75860,
+    75895,
+    75930,
+    75965,
+    76000,
+    76035,
+    76070
+  ]
+}

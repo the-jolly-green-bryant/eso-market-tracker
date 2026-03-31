@@ -1,0 +1,10 @@
+{
+  "internalId": 2993386884,
+  "name": "Colovian Rug, Fallen Leaves",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_lowrug004.png",
+  "bindType": -1,
+  "knownIds": [
+    204673
+  ]
+}

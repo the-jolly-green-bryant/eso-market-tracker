@@ -1,0 +1,13 @@
+{
+  "internalId": 1238928185,
+  "name": "Spattering Disjunction Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_2hmace.png",
+  "bindType": -1,
+  "knownIds": [
+    1735126,
+    1754247,
+    1762388,
+    1774354
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3696766721,
+  "name": "Lamp Knight's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213918,
+    213938,
+    213958,
+    213978,
+    213998,
+    214018,
+    214038,
+    214058
+  ]
+}

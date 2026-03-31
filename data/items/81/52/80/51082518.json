@@ -1,0 +1,17 @@
+{
+  "internalId": 51082518,
+  "name": "Hew and Sunder Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183424,
+    183444,
+    183464,
+    183484,
+    183504,
+    183524,
+    183544,
+    183564
+  ]
+}

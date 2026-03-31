@@ -1,0 +1,21 @@
+{
+  "internalId": 3750223112,
+  "name": "Greatsword of Sheer Venom",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1096300,
+    1232040,
+    1235996,
+    1359383,
+    1499783,
+    1528080,
+    1586539,
+    1593820,
+    1605637,
+    1617994,
+    1679667,
+    1690034
+  ]
+}

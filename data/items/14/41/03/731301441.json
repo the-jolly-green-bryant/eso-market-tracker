@@ -1,0 +1,10 @@
+{
+  "internalId": 731301441,
+  "name": "Leyawiin Wall Mirror, Silver",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leymirror002.png",
+  "bindType": -1,
+  "knownIds": [
+    175654
+  ]
+}

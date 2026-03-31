@@ -1,0 +1,15 @@
+{
+  "internalId": 753114507,
+  "name": "Umbral Edge Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1744183,
+    1754805,
+    1758746,
+    1762400,
+    1778291,
+    1778550
+  ]
+}

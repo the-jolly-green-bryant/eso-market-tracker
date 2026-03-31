@@ -1,0 +1,17 @@
+{
+  "internalId": 1420519639,
+  "name": "Jack of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117102,
+    117122,
+    117142,
+    117162,
+    117182,
+    117202,
+    117222,
+    117242
+  ]
+}

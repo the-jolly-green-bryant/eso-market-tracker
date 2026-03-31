@@ -1,0 +1,15 @@
+{
+  "internalId": 2463468249,
+  "name": "Ring of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139703,
+    139793,
+    139883,
+    139973,
+    140063,
+    140153
+  ]
+}

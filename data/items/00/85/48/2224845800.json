@@ -1,0 +1,15 @@
+{
+  "internalId": 2224845800,
+  "name": "Spellshredder Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219199,
+    219220,
+    219241,
+    219262,
+    219283,
+    219304
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2325275365,
+  "name": "Bloodthorn Bloodcaller Clogs",
+  "description": "Light footwear awarded for defeating the Bloodthorn necromancer, Grivier Bloodcaller.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    42961
+  ]
+}

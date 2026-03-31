@@ -1,0 +1,10 @@
+{
+  "internalId": 3987909650,
+  "name": "Chef's Apron",
+  "description": "Mamma Aralosi gave you this heavy cooking belt for reporting her son's fate in Lady Llarel's Shelter.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    6896
+  ]
+}

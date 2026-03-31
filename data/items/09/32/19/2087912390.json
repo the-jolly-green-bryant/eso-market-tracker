@@ -1,0 +1,10 @@
+{
+  "internalId": 2087912390,
+  "name": "Blessed Seed",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_corrupted_seed.png",
+  "bindType": -1,
+  "knownIds": [
+    892986
+  ]
+}

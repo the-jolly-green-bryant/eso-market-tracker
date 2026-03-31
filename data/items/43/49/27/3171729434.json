@@ -1,0 +1,10 @@
+{
+  "internalId": 3171729434,
+  "name": "Firesong Bookcase, Tall Lava",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drulavashelvestall001.png",
+  "bindType": -1,
+  "knownIds": [
+    191197
+  ]
+}

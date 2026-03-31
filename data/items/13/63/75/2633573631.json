@@ -1,0 +1,10 @@
+{
+  "internalId": 2633573631,
+  "name": "Dominion's Choker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    59939
+  ]
+}

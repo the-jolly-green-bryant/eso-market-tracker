@@ -1,0 +1,10 @@
+{
+  "internalId": 1798544703,
+  "name": "Tree, Leaning Palm",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_des_palm002.png",
+  "bindType": -1,
+  "knownIds": [
+    120470
+  ]
+}

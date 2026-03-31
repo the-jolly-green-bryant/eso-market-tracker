@@ -1,0 +1,10 @@
+{
+  "internalId": 1579956602,
+  "name": "High Elf Dresser, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_dresser001.png",
+  "bindType": -1,
+  "knownIds": [
+    114386
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 491212672,
+  "name": "Murkmire Desk, Engraved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_desk001.png",
+  "bindType": -1,
+  "knownIds": [
+    145323
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1185407721,
+  "name": "Baandari Lunar Compass",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_lunarcompass_icon.png",
+  "bindType": -1,
+  "knownIds": [
+    151589
+  ]
+}

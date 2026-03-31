@@ -1,0 +1,10 @@
+{
+  "internalId": 3520488195,
+  "name": "Chysolite",
+  "description": "Can be used to enhance weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_potion_008.png",
+  "bindType": -1,
+  "knownIds": [
+    23203
+  ]
+}

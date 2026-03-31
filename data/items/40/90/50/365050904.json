@@ -1,0 +1,10 @@
+{
+  "internalId": 365050904,
+  "name": "Book of Notes",
+  "description": "This bound notebook is filled with scrawls in an undecipherable hand.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
+  "bindType": -1,
+  "knownIds": [
+    30332
+  ]
+}

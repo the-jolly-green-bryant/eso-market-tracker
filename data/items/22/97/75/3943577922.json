@@ -1,0 +1,19 @@
+{
+  "internalId": 3943577922,
+  "name": "Epaulets of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179580,
+    179635,
+    179670,
+    179705,
+    179740,
+    179775,
+    179810,
+    179845,
+    179880,
+    179915
+  ]
+}

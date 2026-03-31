@@ -1,0 +1,10 @@
+{
+  "internalId": 865408587,
+  "name": "Crafting Motif 42: Hollowjack Style",
+  "description": "Use to learn the Hollowjack crafting style. Also teaches the equivalent Hollowjack Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    82022
+  ]
+}

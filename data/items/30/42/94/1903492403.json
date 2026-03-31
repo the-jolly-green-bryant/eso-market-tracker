@@ -1,0 +1,18 @@
+{
+  "internalId": 1903492403,
+  "name": "Shared Burden Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215169,
+    215204,
+    215239,
+    215274,
+    215309,
+    215344,
+    215379,
+    215414,
+    215449
+  ]
+}

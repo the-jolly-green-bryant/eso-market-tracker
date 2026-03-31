@@ -1,0 +1,16 @@
+{
+  "internalId": 3219454776,
+  "name": "Gloves of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168146,
+    168181,
+    168216,
+    168251,
+    168286,
+    168321,
+    168356
+  ]
+}

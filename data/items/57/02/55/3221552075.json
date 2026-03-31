@@ -1,0 +1,20 @@
+{
+  "internalId": 3221552075,
+  "name": "Cuirass of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsrose_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1525477,
+    1525478,
+    1525505,
+    1530980,
+    1541334,
+    1561758,
+    1561921,
+    1562096,
+    1564039,
+    1567917,
+    1659439
+  ]
+}

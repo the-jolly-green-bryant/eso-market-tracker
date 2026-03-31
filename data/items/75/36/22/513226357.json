@@ -1,0 +1,17 @@
+{
+  "internalId": 513226357,
+  "name": "Steadfast Hero Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144664,
+    144684,
+    144704,
+    144724,
+    144744,
+    144764,
+    144784,
+    144804
+  ]
+}

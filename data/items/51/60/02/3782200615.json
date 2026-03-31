@@ -1,0 +1,10 @@
+{
+  "internalId": 3782200615,
+  "name": "High Isle Wardrobe, Compass Rose",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_cabinethigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    187818
+  ]
+}

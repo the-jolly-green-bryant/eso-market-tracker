@@ -1,0 +1,11 @@
+{
+  "internalId": 4052270201,
+  "name": "Fledgling's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1750886,
+    1751979
+  ]
+}

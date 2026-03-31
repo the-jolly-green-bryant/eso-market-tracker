@@ -1,0 +1,16 @@
+{
+  "internalId": 1027392300,
+  "name": "Boots of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80563,
+    80583,
+    80603,
+    80623,
+    80655,
+    80675,
+    80695
+  ]
+}

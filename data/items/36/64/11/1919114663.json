@@ -1,0 +1,10 @@
+{
+  "internalId": 1919114663,
+  "name": "Worm Cult Chair, Padded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_chairhigh003.png",
+  "bindType": -1,
+  "knownIds": [
+    220309
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 473371994,
+  "name": "Darkstride Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    85827,
+    85847,
+    85867,
+    85887,
+    85907,
+    85927,
+    85947
+  ]
+}

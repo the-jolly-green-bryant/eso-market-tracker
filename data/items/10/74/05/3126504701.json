@@ -1,0 +1,16 @@
+{
+  "internalId": 3126504701,
+  "name": "Restoration Staff of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86947,
+    86967,
+    86987,
+    87007,
+    87027,
+    87047,
+    87067
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1989854689,
+  "name": "Ice Staff of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99476,
+    99496,
+    99516,
+    99536,
+    99556,
+    99576,
+    99596,
+    99616
+  ]
+}

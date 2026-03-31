@@ -1,0 +1,19 @@
+{
+  "internalId": 1762327614,
+  "name": "Tide-Born Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215500,
+    215555,
+    215590,
+    215625,
+    215660,
+    215695,
+    215730,
+    215765,
+    215800,
+    215835
+  ]
+}

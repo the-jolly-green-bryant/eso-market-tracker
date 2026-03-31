@@ -1,0 +1,19 @@
+{
+  "internalId": 2622323843,
+  "name": "Tharriker's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205397,
+    205452,
+    205487,
+    205522,
+    205557,
+    205592,
+    205627,
+    205662,
+    205697,
+    205732
+  ]
+}

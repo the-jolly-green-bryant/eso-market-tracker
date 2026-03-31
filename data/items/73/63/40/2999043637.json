@@ -1,0 +1,16 @@
+{
+  "internalId": 2999043637,
+  "name": "Sithis' Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77276,
+    77311,
+    77346,
+    77381,
+    77416,
+    77451,
+    77486
+  ]
+}

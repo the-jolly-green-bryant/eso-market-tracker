@@ -1,0 +1,20 @@
+{
+  "internalId": 331703435,
+  "name": "Lightning Staff of Spriggan's Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1569746,
+    1574006,
+    1588819,
+    1598917,
+    1603535,
+    1606429,
+    1620089,
+    1623978,
+    1679617,
+    1749039,
+    1751272
+  ]
+}

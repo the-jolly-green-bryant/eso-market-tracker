@@ -1,0 +1,11 @@
+{
+  "internalId": 1777197720,
+  "name": "Epaulets of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87391,
+    87454
+  ]
+}

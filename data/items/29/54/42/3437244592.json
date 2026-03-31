@@ -1,0 +1,17 @@
+{
+  "internalId": 3437244592,
+  "name": "Axe of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_axe.png",
+  "bindType": 2,
+  "knownIds": [
+    204884,
+    204905,
+    204926,
+    204947,
+    204968,
+    204989,
+    205010,
+    205031
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 1861284285,
+  "name": "Vivec's Hat of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195758,
+    195779,
+    195800,
+    195821,
+    195842,
+    195863
+  ]
+}

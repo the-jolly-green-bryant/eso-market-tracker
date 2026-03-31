@@ -1,0 +1,17 @@
+{
+  "internalId": 506146363,
+  "name": "Shoes of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91005,
+    91026,
+    91047,
+    91068,
+    91089,
+    91110,
+    91131,
+    91152
+  ]
+}

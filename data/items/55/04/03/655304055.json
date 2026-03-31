@@ -1,0 +1,10 @@
+{
+  "internalId": 655304055,
+  "name": "Nord Cauldron, Glazed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_pot001.png",
+  "bindType": -1,
+  "knownIds": [
+    115372
+  ]
+}

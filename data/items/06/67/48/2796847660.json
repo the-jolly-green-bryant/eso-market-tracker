@@ -1,0 +1,17 @@
+{
+  "internalId": 2796847660,
+  "name": "Gauntlets of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88730,
+    88750,
+    88770,
+    88790,
+    88810,
+    88830,
+    88850,
+    88870
+  ]
+}

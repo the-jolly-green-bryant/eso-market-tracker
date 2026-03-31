@@ -1,0 +1,17 @@
+{
+  "internalId": 2419157350,
+  "name": "Thunderbug's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    99856,
+    99876,
+    99896,
+    99916,
+    99936,
+    99956,
+    99976,
+    99996
+  ]
+}

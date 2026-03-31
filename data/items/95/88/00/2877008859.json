@@ -1,0 +1,30 @@
+{
+  "internalId": 2877008859,
+  "name": "grand glyph of reduce feat cost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_reducefeatcosts.png",
+  "bindType": -1,
+  "knownIds": [
+    499353,
+    429353,
+    375603,
+    374618,
+    502096,
+    492551,
+    496045,
+    579790,
+    505522,
+    479413,
+    494175,
+    739351,
+    384792,
+    493150,
+    461285,
+    1631746,
+    1631752,
+    1631885,
+    1654991,
+    1654997,
+    1757299
+  ]
+}

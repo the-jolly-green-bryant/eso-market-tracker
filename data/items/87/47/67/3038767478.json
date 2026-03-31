@@ -1,0 +1,10 @@
+{
+  "internalId": 3038767478,
+  "name": "Elsweyr Candle, Saucer",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_candleholder001.png",
+  "bindType": -1,
+  "knownIds": [
+    151739
+  ]
+}

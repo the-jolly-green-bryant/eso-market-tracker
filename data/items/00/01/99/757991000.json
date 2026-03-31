@@ -1,0 +1,19 @@
+{
+  "internalId": 757991000,
+  "name": "Fortified Brass Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130726,
+    130761,
+    130796,
+    130831,
+    130866,
+    130901,
+    130936,
+    130971,
+    131006,
+    131041
+  ]
+}

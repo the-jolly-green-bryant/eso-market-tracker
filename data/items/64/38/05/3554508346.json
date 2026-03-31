@@ -1,0 +1,17 @@
+{
+  "internalId": 3554508346,
+  "name": "Ice Staff of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116534,
+    116554,
+    116574,
+    116594,
+    116614,
+    116634,
+    116654,
+    116674
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3286417773,
+  "name": "Golden Goblet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_027.png",
+  "bindType": -1,
+  "knownIds": [
+    552628
+  ]
+}

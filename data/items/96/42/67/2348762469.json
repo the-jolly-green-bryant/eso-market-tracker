@@ -1,0 +1,19 @@
+{
+  "internalId": 2348762469,
+  "name": "Sabatons of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168761,
+    168816,
+    168851,
+    168886,
+    168921,
+    168956,
+    168991,
+    169026,
+    169061,
+    169096
+  ]
+}

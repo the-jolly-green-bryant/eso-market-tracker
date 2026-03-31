@@ -1,0 +1,10 @@
+{
+  "internalId": 4021984646,
+  "name": "Illuminated Halosaur",
+  "description": "An abyssal fish. Use to filet for provisioning.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_illuminatedhalosaur.png",
+  "bindType": -1,
+  "knownIds": [
+    198300
+  ]
+}

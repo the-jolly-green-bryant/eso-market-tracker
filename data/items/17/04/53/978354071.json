@@ -1,0 +1,10 @@
+{
+  "internalId": 978354071,
+  "name": "Buoyant Armiger's Brogans",
+  "description": "You traveled all over Vvardenfell in Lord Vivec's service. It seems fitting that he rewarded you with a good pair of boots.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_buoyantarmiger_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126055
+  ]
+}

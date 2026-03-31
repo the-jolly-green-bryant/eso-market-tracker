@@ -1,0 +1,13 @@
+{
+  "internalId": 2988431214,
+  "name": "Axe of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129578,
+    129590,
+    129602,
+    129614
+  ]
+}

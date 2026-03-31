@@ -1,0 +1,10 @@
+{
+  "internalId": 320826326,
+  "name": "LeBlanc's Walking Shoes",
+  "description": "Guy LeBlanc awarded this light footwear for saving his sister and the other women from the Bloodthorn cultists in Hag Fen.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1098
+  ]
+}

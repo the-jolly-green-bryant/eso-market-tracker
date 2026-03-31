@@ -1,0 +1,13 @@
+{
+  "internalId": 3585541249,
+  "name": "Dreamer's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98058,
+    98079,
+    98100,
+    98121
+  ]
+}

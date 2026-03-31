@@ -1,0 +1,17 @@
+{
+  "internalId": 3360355443,
+  "name": "Bog Raider's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172291,
+    172311,
+    172331,
+    172351,
+    172371,
+    172391,
+    172411,
+    172431
+  ]
+}

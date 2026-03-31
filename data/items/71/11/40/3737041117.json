@@ -1,0 +1,17 @@
+{
+  "internalId": 3737041117,
+  "name": "Spell Strategist Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144100,
+    144121,
+    144142,
+    144163,
+    144184,
+    144205,
+    144226,
+    144247
+  ]
+}

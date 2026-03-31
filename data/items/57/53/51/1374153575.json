@@ -1,0 +1,17 @@
+{
+  "internalId": 1374153575,
+  "name": "Battle Axe of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91567,
+    91588,
+    91609,
+    91630,
+    91651,
+    91672,
+    91693,
+    91714
+  ]
+}

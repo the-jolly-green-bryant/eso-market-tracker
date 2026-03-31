@@ -1,0 +1,10 @@
+{
+  "internalId": 2311736273,
+  "name": "High Isle Door, Turquoise",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinghousedoor002.png",
+  "bindType": -1,
+  "knownIds": [
+    189496
+  ]
+}

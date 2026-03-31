@@ -1,0 +1,10 @@
+{
+  "internalId": 4128273553,
+  "name": "Minecart Track, Straight Short",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_min_minecarttrackstraightshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    211122
+  ]
+}

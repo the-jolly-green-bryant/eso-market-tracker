@@ -1,0 +1,18 @@
+{
+  "internalId": 2809266320,
+  "name": "Greatsword of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_2hsword.png",
+  "bindType": 2,
+  "knownIds": [
+    160634,
+    160655,
+    160676,
+    160697,
+    160718,
+    160739,
+    160760,
+    160781,
+    160802
+  ]
+}

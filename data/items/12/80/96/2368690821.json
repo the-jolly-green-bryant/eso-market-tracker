@@ -1,0 +1,15 @@
+{
+  "internalId": 2368690821,
+  "name": "Spellshredder Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219201,
+    219222,
+    219243,
+    219264,
+    219285,
+    219306
+  ]
+}

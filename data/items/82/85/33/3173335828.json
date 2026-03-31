@@ -1,0 +1,10 @@
+{
+  "internalId": 3173335828,
+  "name": "Forgotten Adventurer's Restoration Staff",
+  "description": "A mage's staff found in your strong box. Soothing energy leaks from the cracks and whorls of this aged staff. It should mend most wounds well enough.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    190929
+  ]
+}

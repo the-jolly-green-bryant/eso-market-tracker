@@ -1,0 +1,22 @@
+{
+  "internalId": 2712410556,
+  "name": "Battle Axe of the Hunt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1258233,
+    1331855,
+    1343975,
+    1375680,
+    1393722,
+    1395481,
+    1419267,
+    1513225,
+    1515692,
+    1544523,
+    1598348,
+    1627921,
+    1693531
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1329038778,
+  "name": "Crafting Motif 89: Ancestral High Elf Legs",
+  "description": "Use to learn how to make Ancestral High Elf Legs. Also teaches the equivalent Ancestral High Elf Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    160602
+  ]
+}

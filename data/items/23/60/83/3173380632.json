@@ -1,0 +1,15 @@
+{
+  "internalId": 3173380632,
+  "name": "Ulfnor's Favor Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1233896,
+    1370196,
+    1388968,
+    1434432,
+    1516602,
+    1555853
+  ]
+}

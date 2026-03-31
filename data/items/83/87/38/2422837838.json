@@ -1,0 +1,19 @@
+{
+  "internalId": 2422837838,
+  "name": "Forest Wraith's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192014,
+    192069,
+    192104,
+    192139,
+    192174,
+    192209,
+    192244,
+    192279,
+    192314,
+    192349
+  ]
+}

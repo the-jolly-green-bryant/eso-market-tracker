@@ -1,0 +1,17 @@
+{
+  "internalId": 3962016787,
+  "name": "Maul of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86194,
+    86215,
+    86236,
+    86257,
+    86278,
+    86299,
+    86320,
+    86341
+  ]
+}

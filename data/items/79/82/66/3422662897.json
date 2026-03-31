@@ -1,0 +1,10 @@
+{
+  "internalId": 3422662897,
+  "name": "average Glyph of Absorb Stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_staminaabsorption.png",
+  "bindType": -1,
+  "knownIds": [
+    1442119
+  ]
+}

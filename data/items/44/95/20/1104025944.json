@@ -1,0 +1,10 @@
+{
+  "internalId": 1104025944,
+  "name": "Mortal Chill",
+  "description": "Ice staves are favored by the Keepers of the Dead when dealing with unruly ancestor spirits.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    197794
+  ]
+}

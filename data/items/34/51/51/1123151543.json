@@ -1,0 +1,10 @@
+{
+  "internalId": 1123151543,
+  "name": "Kaderi",
+  "description": "Kaderi",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_011.png",
+  "bindType": -1,
+  "knownIds": [
+    45849
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3665867550,
+  "name": "Plaque, Bolted Deer Antlers",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vartrophyantlers002.png",
+  "bindType": -1,
+  "knownIds": [
+    120420
+  ]
+}

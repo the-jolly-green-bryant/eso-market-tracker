@@ -1,0 +1,19 @@
+{
+  "internalId": 1877673050,
+  "name": "Clever Alchemist Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72170,
+    72205,
+    72240,
+    72275,
+    72310,
+    72345,
+    72380,
+    72415,
+    72450,
+    72485
+  ]
+}

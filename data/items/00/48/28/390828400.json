@@ -1,0 +1,17 @@
+{
+  "internalId": 390828400,
+  "name": "Systres' Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_hvy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186260,
+    186280,
+    186300,
+    186320,
+    186340,
+    186360,
+    186380,
+    186400
+  ]
+}

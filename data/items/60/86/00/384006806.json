@@ -1,0 +1,10 @@
+{
+  "internalId": 384006806,
+  "name": "Crafting Motif 55: Dreadhorn Style",
+  "description": "Use to learn the Dreadhorn crafting style. Also teaches the equivalent Dreadhorn Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    132565
+  ]
+}

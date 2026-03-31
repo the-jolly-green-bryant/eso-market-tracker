@@ -1,0 +1,11 @@
+{
+  "internalId": 4028092023,
+  "name": "Enlightenment Tea",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
+  "bindType": -1,
+  "knownIds": [
+    33678,
+    37945
+  ]
+}

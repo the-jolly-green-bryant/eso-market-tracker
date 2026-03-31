@@ -1,0 +1,17 @@
+{
+  "internalId": 3775490607,
+  "name": "Farstrider Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211762,
+    211782,
+    211802,
+    211822,
+    211842,
+    211862,
+    211882,
+    211902
+  ]
+}

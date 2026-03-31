@@ -1,0 +1,19 @@
+{
+  "internalId": 542340501,
+  "name": "Karth's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168401,
+    168456,
+    168491,
+    168526,
+    168561,
+    168596,
+    168631,
+    168666,
+    168701,
+    168736
+  ]
+}

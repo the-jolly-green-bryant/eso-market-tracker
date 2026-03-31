@@ -1,0 +1,14 @@
+{
+  "internalId": 1582249940,
+  "name": "Gloves of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87133,
+    87154,
+    87175,
+    87196,
+    87259
+  ]
+}

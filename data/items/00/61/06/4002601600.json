@@ -1,0 +1,15 @@
+{
+  "internalId": 4002601600,
+  "name": "Battle Axe of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93220,
+    93240,
+    93260,
+    93280,
+    93300,
+    93320
+  ]
+}

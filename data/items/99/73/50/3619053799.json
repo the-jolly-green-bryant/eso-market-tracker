@@ -1,0 +1,10 @@
+{
+  "internalId": 3619053799,
+  "name": "Dwarven Gear",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dwemer_shiny_gear.png",
+  "bindType": -1,
+  "knownIds": [
+    54386
+  ]
+}

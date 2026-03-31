@@ -1,0 +1,17 @@
+{
+  "internalId": 1211599319,
+  "name": "Spriggan's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100590,
+    100610,
+    100630,
+    100650,
+    100670,
+    100690,
+    100710,
+    100730
+  ]
+}

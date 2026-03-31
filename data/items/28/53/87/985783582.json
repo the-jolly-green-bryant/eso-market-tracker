@@ -1,0 +1,17 @@
+{
+  "internalId": 985783582,
+  "name": "Maul of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89083,
+    89103,
+    89123,
+    89143,
+    89163,
+    89183,
+    89203,
+    89223
+  ]
+}

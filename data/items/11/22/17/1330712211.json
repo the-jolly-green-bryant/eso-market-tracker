@@ -1,0 +1,17 @@
+{
+  "internalId": 1330712211,
+  "name": "Girdle of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101163,
+    101183,
+    101203,
+    101223,
+    101243,
+    101263,
+    101283,
+    101303
+  ]
+}

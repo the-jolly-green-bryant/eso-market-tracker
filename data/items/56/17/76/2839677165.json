@@ -1,0 +1,16 @@
+{
+  "internalId": 2839677165,
+  "name": "Thunder Caller's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1567918,
+    1582502,
+    1584028,
+    1659437,
+    1659438,
+    1680963,
+    1765993
+  ]
+}

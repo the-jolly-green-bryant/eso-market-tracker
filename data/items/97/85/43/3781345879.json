@@ -1,0 +1,19 @@
+{
+  "internalId": 3781345879,
+  "name": "Telvanni Efficiency Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194947,
+    195002,
+    195037,
+    195072,
+    195107,
+    195142,
+    195177,
+    195212,
+    195247,
+    195282
+  ]
+}

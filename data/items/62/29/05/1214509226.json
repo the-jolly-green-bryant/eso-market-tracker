@@ -1,0 +1,19 @@
+{
+  "internalId": 1214509226,
+  "name": "Gossamer Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    924523,
+    1122326,
+    1166148,
+    1191161,
+    1584156,
+    1593194,
+    1594944,
+    1614604,
+    1633667,
+    1660539
+  ]
+}

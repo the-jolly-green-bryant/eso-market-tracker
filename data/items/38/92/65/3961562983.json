@@ -1,0 +1,10 @@
+{
+  "internalId": 3961562983,
+  "name": "Riddles of the Rithana-Di-Renada",
+  "description": "Supposedly penned by a Shadow of Rajhin, these cryptic clues point the way to the missing pieces of the Rithana-di-Renada.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    147927
+  ]
+}

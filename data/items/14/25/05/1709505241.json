@@ -1,0 +1,10 @@
+{
+  "internalId": 1709505241,
+  "name": "Flower Patch, Summertide",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_bougainvillea010.png",
+  "bindType": -1,
+  "knownIds": [
+    217630
+  ]
+}

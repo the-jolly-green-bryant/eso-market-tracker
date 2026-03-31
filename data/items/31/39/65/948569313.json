@@ -1,0 +1,18 @@
+{
+  "internalId": 948569313,
+  "name": "Old Growth Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191699,
+    191734,
+    191769,
+    191804,
+    191839,
+    191874,
+    191909,
+    191944,
+    191979
+  ]
+}

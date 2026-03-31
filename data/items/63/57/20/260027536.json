@@ -1,0 +1,19 @@
+{
+  "internalId": 260027536,
+  "name": "Daring Corsair's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155404,
+    155459,
+    155494,
+    155529,
+    155564,
+    155599,
+    155634,
+    155669,
+    155704,
+    155739
+  ]
+}

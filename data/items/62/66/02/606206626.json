@@ -1,0 +1,10 @@
+{
+  "internalId": 606206626,
+  "name": "Vampiric Lamp, Amber Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelablampstanding001.png",
+  "bindType": -1,
+  "knownIds": [
+    165621
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 617829386,
+  "name": "Sithis' Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77286,
+    77321,
+    77356,
+    77391,
+    77426,
+    77461,
+    77496
+  ]
+}

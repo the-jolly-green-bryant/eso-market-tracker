@@ -1,0 +1,22 @@
+{
+  "internalId": 1651788829,
+  "name": "Stone-Talker's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_lgt_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1465034,
+    1467172,
+    1468563,
+    1471864,
+    1471883,
+    1477578,
+    1479011,
+    1483224,
+    1502388,
+    1522318,
+    1539965,
+    1558389,
+    1750995
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3859645295,
+  "name": "Farstrider Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211766,
+    211786,
+    211806,
+    211826,
+    211846,
+    211866,
+    211886,
+    211906
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3267995359,
+  "name": "Crafting Motif 28: Ra Gada Bows",
+  "description": "Use to learn how to make Ra Gada Bows. Also teaches the equivalent Ra Gada Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    71676
+  ]
+}

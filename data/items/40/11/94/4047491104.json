@@ -1,0 +1,16 @@
+{
+  "internalId": 4047491104,
+  "name": "Bracers of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    178961,
+    178996,
+    179031,
+    179066,
+    179101,
+    179136,
+    179171
+  ]
+}

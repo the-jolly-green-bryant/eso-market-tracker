@@ -1,0 +1,11 @@
+{
+  "internalId": 3870669352,
+  "name": "Fellowship's Fortitude Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    216173,
+    216208
+  ]
+}

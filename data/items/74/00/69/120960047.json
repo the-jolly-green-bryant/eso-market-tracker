@@ -1,0 +1,14 @@
+{
+  "internalId": 120960047,
+  "name": "Leniency Edict",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_bounty_expunger_medium.png",
+  "bindType": -1,
+  "knownIds": [
+    860551,
+    910796,
+    1058719,
+    1402047,
+    1422210
+  ]
+}

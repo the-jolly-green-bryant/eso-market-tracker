@@ -1,0 +1,10 @@
+{
+  "internalId": 41279317,
+  "name": "Rotmeth Grips",
+  "description": "These gloves, while comfortable, reek of Wood Elf libations.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    150405
+  ]
+}

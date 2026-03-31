@@ -1,0 +1,10 @@
+{
+  "internalId": 425620486,
+  "name": "Metal Decanter",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
+  "bindType": -1,
+  "knownIds": [
+    816249
+  ]
+}

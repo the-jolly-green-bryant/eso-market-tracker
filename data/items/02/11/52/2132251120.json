@@ -1,0 +1,14 @@
+{
+  "internalId": 2132251120,
+  "name": "Shield of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75135,
+    75155,
+    75175,
+    75195,
+    75215
+  ]
+}

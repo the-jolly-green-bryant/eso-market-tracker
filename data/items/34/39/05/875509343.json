@@ -1,0 +1,10 @@
+{
+  "internalId": 875509343,
+  "name": "Apocrypha Divider, Spiked",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/apc_fur_dividermedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    198412
+  ]
+}

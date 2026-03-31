@@ -1,0 +1,17 @@
+{
+  "internalId": 3985830848,
+  "name": "Gloves of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74908,
+    74929,
+    74950,
+    74971,
+    74992,
+    75013,
+    75034,
+    75055
+  ]
+}

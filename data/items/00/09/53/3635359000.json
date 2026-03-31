@@ -1,0 +1,18 @@
+{
+  "internalId": 3635359000,
+  "name": "Battle Axe of the Magicka Furnace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1327864,
+    1393632,
+    1401931,
+    1417645,
+    1588019,
+    1600120,
+    1606506,
+    1614311,
+    1770668
+  ]
+}

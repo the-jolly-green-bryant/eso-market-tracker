@@ -1,0 +1,27 @@
+{
+  "internalId": 50342158,
+  "name": "Blooddrinker Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1167303,
+    1169014,
+    1174904,
+    1189071,
+    1198234,
+    1201233,
+    1315755,
+    1331759,
+    1404613,
+    1443829,
+    1474798,
+    1479104,
+    1479105,
+    1508408,
+    1608102,
+    1654508,
+    1749082,
+    1774392
+  ]
+}

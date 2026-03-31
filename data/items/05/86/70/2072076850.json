@@ -1,0 +1,10 @@
+{
+  "internalId": 2072076850,
+  "name": "Bounty Sheet: Imperial Man",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_wantedposterscrollmale001.png",
+  "bindType": -1,
+  "knownIds": [
+    118714
+  ]
+}

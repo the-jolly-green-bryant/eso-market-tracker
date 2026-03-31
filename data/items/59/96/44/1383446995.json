@@ -1,0 +1,17 @@
+{
+  "internalId": 1383446995,
+  "name": "Widowmaker Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    942036,
+    1257621,
+    1308884,
+    1493038,
+    1593496,
+    1606267,
+    1735343,
+    1752161
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1448485971,
+  "name": "Dark Elf Tomb Marker, Velas",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_exc_ttombmarkerdrevelas001.png",
+  "bindType": -1,
+  "knownIds": [
+    166003
+  ]
+}

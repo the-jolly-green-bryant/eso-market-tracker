@@ -1,0 +1,17 @@
+{
+  "internalId": 1711880401,
+  "name": "Ice Staff of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101708,
+    101728,
+    101748,
+    101768,
+    101788,
+    101808,
+    101828,
+    101848
+  ]
+}

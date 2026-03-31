@@ -1,0 +1,15 @@
+{
+  "internalId": 3734482882,
+  "name": "Necklace of Twilight's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139719,
+    139809,
+    139899,
+    139989,
+    140079,
+    140169
+  ]
+}

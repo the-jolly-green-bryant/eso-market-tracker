@@ -1,0 +1,10 @@
+{
+  "internalId": 3222759925,
+  "name": "Undertaker Set Box",
+  "description": "Contains 5 gear pieces from the Call of the Undertaker set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
+  "bindType": 3,
+  "knownIds": [
+    153618
+  ]
+}

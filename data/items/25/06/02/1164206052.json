@@ -1,0 +1,21 @@
+{
+  "internalId": 1164206052,
+  "name": "Hollowfang Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1332127,
+    1345661,
+    1395047,
+    1409079,
+    1413353,
+    1510087,
+    1543927,
+    1543930,
+    1553475,
+    1563647,
+    1622883,
+    1626514
+  ]
+}

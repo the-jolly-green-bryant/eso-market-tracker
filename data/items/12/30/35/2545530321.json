@@ -1,0 +1,18 @@
+{
+  "internalId": 2545530321,
+  "name": "Shield of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_shield.png",
+  "bindType": 2,
+  "knownIds": [
+    160641,
+    160662,
+    160683,
+    160704,
+    160725,
+    160746,
+    160767,
+    160788,
+    160809
+  ]
+}

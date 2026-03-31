@@ -1,0 +1,10 @@
+{
+  "internalId": 1588350281,
+  "name": "Redeemed Hand Axe",
+  "description": "Now that its curse has been removed, this axe is safe to use.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10911
+  ]
+}

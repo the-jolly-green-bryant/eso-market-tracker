@@ -1,0 +1,17 @@
+{
+  "internalId": 1089117126,
+  "name": "Blessed Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102274,
+    102294,
+    102314,
+    102334,
+    102354,
+    102374,
+    102394,
+    102414
+  ]
+}

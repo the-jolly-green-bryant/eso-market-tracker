@@ -1,0 +1,10 @@
+{
+  "internalId": 3038413735,
+  "name": "Orc Skull, Complete",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletonorcskull001.png",
+  "bindType": -1,
+  "knownIds": [
+    134869
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2818293683,
+  "name": "Sload's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136097,
+    136132,
+    136167,
+    136202,
+    136237,
+    136272,
+    136307,
+    136342,
+    136377,
+    136412
+  ]
+}

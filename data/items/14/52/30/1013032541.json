@@ -1,0 +1,17 @@
+{
+  "internalId": 1013032541,
+  "name": "Shalk's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96592,
+    96612,
+    96632,
+    96652,
+    96672,
+    96692,
+    96712,
+    96732
+  ]
+}

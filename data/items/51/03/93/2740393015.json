@@ -1,0 +1,18 @@
+{
+  "internalId": 2740393015,
+  "name": "Recovery Convergence Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1756215,
+    1756910,
+    1758677,
+    1759958,
+    1760668,
+    1761523,
+    1773340,
+    1777319,
+    1778925
+  ]
+}

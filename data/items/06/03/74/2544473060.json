@@ -1,0 +1,11 @@
+{
+  "internalId": 2544473060,
+  "name": "Spattering Disjunction Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735224,
+    1737596
+  ]
+}

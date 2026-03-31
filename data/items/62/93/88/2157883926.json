@@ -1,0 +1,17 @@
+{
+  "internalId": 2157883926,
+  "name": "Shield of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95657,
+    95677,
+    95697,
+    95717,
+    95737,
+    95757,
+    95777,
+    95797
+  ]
+}

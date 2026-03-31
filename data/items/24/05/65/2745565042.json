@@ -1,0 +1,10 @@
+{
+  "internalId": 2745565042,
+  "name": "Dusant's Antique Dagger",
+  "description": "The ghost of Richard Dusant awarded this ancient blade for discovering the treasure of Dresan Keep.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1096
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1460484499,
+  "name": "Senchal Defender's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldssenchalhvy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154851,
+    154871,
+    154891,
+    154911,
+    154931,
+    154951,
+    154971,
+    154991,
+    155011
+  ]
+}

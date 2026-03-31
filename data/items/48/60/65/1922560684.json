@@ -1,0 +1,17 @@
+{
+  "internalId": 1922560684,
+  "name": "hide helmet of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    712658,
+    457057,
+    579017,
+    793455,
+    788317,
+    788312,
+    786220,
+    1129047
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2750570694,
+  "name": "Lightning Staff of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98521,
+    98541,
+    98561,
+    98581,
+    98601,
+    98621,
+    98641,
+    98661
+  ]
+}

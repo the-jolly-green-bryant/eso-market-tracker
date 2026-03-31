@@ -1,0 +1,17 @@
+{
+  "internalId": 3304600669,
+  "name": "Arm Cops of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93923,
+    93943,
+    93963,
+    93983,
+    94003,
+    94023,
+    94043,
+    94063
+  ]
+}

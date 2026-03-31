@@ -1,0 +1,11 @@
+{
+  "internalId": 1678612964,
+  "name": "Fledgling's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748657,
+    1754686
+  ]
+}

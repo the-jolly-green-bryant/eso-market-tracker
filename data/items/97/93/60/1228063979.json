@@ -1,0 +1,19 @@
+{
+  "internalId": 1228063979,
+  "name": "Druid's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185548,
+    185603,
+    185638,
+    185673,
+    185708,
+    185743,
+    185778,
+    185813,
+    185848,
+    185883
+  ]
+}

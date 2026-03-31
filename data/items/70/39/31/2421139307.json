@@ -1,0 +1,13 @@
+{
+  "internalId": 2421139307,
+  "name": "Telvanni Enforcer Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1629552,
+    1634237,
+    1748802,
+    1760413
+  ]
+}

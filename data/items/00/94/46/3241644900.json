@@ -1,0 +1,13 @@
+{
+  "internalId": 3241644900,
+  "name": "Kinras's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1415835,
+    1415953,
+    1452046,
+    1492790
+  ]
+}

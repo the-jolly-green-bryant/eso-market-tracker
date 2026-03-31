@@ -1,0 +1,17 @@
+{
+  "internalId": 2151315127,
+  "name": "Plague Doctor's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97044,
+    97064,
+    97084,
+    97104,
+    97124,
+    97144,
+    97164,
+    97184
+  ]
+}

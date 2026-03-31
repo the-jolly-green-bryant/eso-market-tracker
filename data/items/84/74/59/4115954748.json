@@ -1,0 +1,10 @@
+{
+  "internalId": 4115954748,
+  "name": "Wood Carving, Cat",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingscat001.png",
+  "bindType": -1,
+  "knownIds": [
+    197730
+  ]
+}

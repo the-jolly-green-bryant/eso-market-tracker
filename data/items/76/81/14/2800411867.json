@@ -1,0 +1,16 @@
+{
+  "internalId": 2800411867,
+  "name": "Battle Axe of Catalyst",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1394959,
+    1399042,
+    1594988,
+    1617922,
+    1687277,
+    1718787,
+    1758339
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1449090024,
+  "name": "trifling glyph of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_fireessence.png",
+  "bindType": -1,
+  "knownIds": [
+    590021,
+    529388,
+    410854,
+    1438732
+  ]
+}

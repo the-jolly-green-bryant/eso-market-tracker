@@ -1,0 +1,10 @@
+{
+  "internalId": 1582642247,
+  "name": "Crafting Motif 62: Sapiarch Chests",
+  "description": "Use to learn how to make Sapiarch Chests. Also teaches the equivalent Sapiarch Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    137925
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4219294846,
+  "name": "Hexos' Ward Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180109,
+    180129,
+    180149,
+    180169,
+    180189,
+    180209,
+    180229,
+    180249
+  ]
+}

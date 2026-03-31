@@ -1,0 +1,13 @@
+{
+  "internalId": 4003687273,
+  "name": "Dreamer's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98048,
+    98069,
+    98090,
+    98111
+  ]
+}

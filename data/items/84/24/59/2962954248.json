@@ -1,0 +1,10 @@
+{
+  "internalId": 2962954248,
+  "name": "Barrel of Rare Fish, Eastmarch",
+  "description": "Rare fish found in the waters of Eastmarch.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png",
+  "bindType": 3,
+  "knownIds": [
+    199909
+  ]
+}

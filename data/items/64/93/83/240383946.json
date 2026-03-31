@@ -1,0 +1,17 @@
+{
+  "internalId": 240383946,
+  "name": "Blunted Blades Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204081,
+    204101,
+    204121,
+    204141,
+    204161,
+    204181,
+    204201,
+    204221
+  ]
+}

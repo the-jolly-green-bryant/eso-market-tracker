@@ -1,0 +1,10 @@
+{
+  "internalId": 1533062477,
+  "name": "Imperial Well, Arched",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_wellmedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    94153
+  ]
+}

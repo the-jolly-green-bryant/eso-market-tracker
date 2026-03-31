@@ -1,0 +1,10 @@
+{
+  "internalId": 23467201,
+  "name": "Royal Masquerade Invitation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
+  "bindType": -1,
+  "knownIds": [
+    860315
+  ]
+}

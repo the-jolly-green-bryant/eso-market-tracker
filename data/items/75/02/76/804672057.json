@@ -1,0 +1,10 @@
+{
+  "internalId": 804672057,
+  "name": "Orcish Trunk, Buckled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_con_wtgdunchest002.png",
+  "bindType": -1,
+  "knownIds": [
+    116417
+  ]
+}

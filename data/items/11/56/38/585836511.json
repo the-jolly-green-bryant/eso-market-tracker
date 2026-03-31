@@ -1,0 +1,10 @@
+{
+  "internalId": 585836511,
+  "name": "Sword-Singer's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99331
+  ]
+}

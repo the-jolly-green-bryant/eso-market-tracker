@@ -1,0 +1,19 @@
+{
+  "internalId": 2757802922,
+  "name": "Vastarie's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148697,
+    148752,
+    148787,
+    148822,
+    148857,
+    148892,
+    148927,
+    148962,
+    148997,
+    149032
+  ]
+}

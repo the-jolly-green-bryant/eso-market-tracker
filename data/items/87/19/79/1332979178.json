@@ -1,0 +1,10 @@
+{
+  "internalId": 1332979178,
+  "name": "Elsweyr Curtains, Flat Panel Maroon",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_drapes001.png",
+  "bindType": -1,
+  "knownIds": [
+    151677
+  ]
+}

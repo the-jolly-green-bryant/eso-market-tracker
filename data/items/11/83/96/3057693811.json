@@ -1,0 +1,10 @@
+{
+  "internalId": 3057693811,
+  "name": "Pact Signet",
+  "description": "After you gathered Graveborn hearts to research their rituals, Belron thanked you with this reliable ring.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    10996
+  ]
+}

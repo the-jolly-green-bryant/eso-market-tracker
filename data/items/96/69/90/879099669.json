@@ -1,0 +1,19 @@
+{
+  "internalId": 879099669,
+  "name": "Daring Corsair's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155416,
+    155471,
+    155506,
+    155541,
+    155576,
+    155611,
+    155646,
+    155681,
+    155716,
+    155751
+  ]
+}

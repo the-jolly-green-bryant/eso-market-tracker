@@ -1,0 +1,17 @@
+{
+  "internalId": 735208200,
+  "name": "Sword of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86938,
+    86958,
+    86978,
+    86998,
+    87018,
+    87038,
+    87058,
+    87078
+  ]
+}

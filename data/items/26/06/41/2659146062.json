@@ -1,0 +1,17 @@
+{
+  "internalId": 2659146062,
+  "name": "Spriggan's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100598,
+    100618,
+    100638,
+    100658,
+    100678,
+    100698,
+    100718,
+    100738
+  ]
+}

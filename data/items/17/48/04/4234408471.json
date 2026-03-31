@@ -1,0 +1,10 @@
+{
+  "internalId": 4234408471,
+  "name": "Steel Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_base_high_iron_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    4487
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1377675600,
+  "name": "Storm Lord Wreath",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holwhitestrikewreath002.png",
+  "bindType": -1,
+  "knownIds": [
+    211521
+  ]
+}

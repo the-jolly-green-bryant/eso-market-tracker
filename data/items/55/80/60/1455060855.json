@@ -1,0 +1,17 @@
+{
+  "internalId": 1455060855,
+  "name": "Thunderbug's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_shield_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99852,
+    99872,
+    99892,
+    99912,
+    99932,
+    99952,
+    99972,
+    99992
+  ]
+}

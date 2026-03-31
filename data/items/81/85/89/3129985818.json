@@ -1,0 +1,10 @@
+{
+  "internalId": 3129985818,
+  "name": "Crafting Motif 58: Fang Lair Style",
+  "description": "Use to learn the Fang Lair crafting style. Also teaches the equivalent Fang Lair Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    134755
+  ]
+}

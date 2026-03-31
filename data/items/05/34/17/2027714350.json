@@ -1,0 +1,26 @@
+{
+  "internalId": 2027714350,
+  "name": "Hulking Draugr's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1234640,
+    1254304,
+    1258261,
+    1277427,
+    1367715,
+    1394798,
+    1497863,
+    1502842,
+    1550341,
+    1573707,
+    1599245,
+    1601860,
+    1685519,
+    1686824,
+    1734781,
+    1765804,
+    1773331
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 653757246,
+  "name": "Dominion Lightning Ballista",
+  "description": "Creates a ballista siege weapon whose electrically charged bolt ensnares enemies and drains their Magicka.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png",
+  "bindType": -1,
+  "knownIds": [
+    27973
+  ]
+}

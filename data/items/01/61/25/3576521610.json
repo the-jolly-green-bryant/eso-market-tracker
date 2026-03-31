@@ -1,0 +1,17 @@
+{
+  "internalId": 3576521610,
+  "name": "Death-Dancer Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214704,
+    214724,
+    214744,
+    214764,
+    214784,
+    214804,
+    214824,
+    214844
+  ]
+}

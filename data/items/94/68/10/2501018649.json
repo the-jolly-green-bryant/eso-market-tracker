@@ -1,0 +1,10 @@
+{
+  "internalId": 2501018649,
+  "name": "Bananas",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bananas.png",
+  "bindType": -1,
+  "knownIds": [
+    33755
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 625184106,
+  "name": "Apocrypha Stool, Intricate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_stoolhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198418
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2992015681,
+  "name": "Aeonstone Weave",
+  "description": "Armor forged from aeonstone by the Order of the New Moon.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_newmoonlgt_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    153834
+  ]
+}

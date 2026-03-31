@@ -1,0 +1,17 @@
+{
+  "internalId": 628784545,
+  "name": "Greaves of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84542,
+    84562,
+    84582,
+    84602,
+    84622,
+    84642,
+    84662,
+    84682
+  ]
+}

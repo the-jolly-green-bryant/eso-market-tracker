@@ -1,0 +1,19 @@
+{
+  "internalId": 432102181,
+  "name": "Might of the Lost Legion Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143546,
+    143601,
+    143636,
+    143671,
+    143706,
+    143741,
+    143776,
+    143811,
+    143846,
+    143881
+  ]
+}

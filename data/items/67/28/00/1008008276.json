@@ -1,0 +1,18 @@
+{
+  "internalId": 1008008276,
+  "name": "Inferno Staff of the Pestilent Host",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1395201,
+    1527468,
+    1531639,
+    1536360,
+    1562253,
+    1593414,
+    1615494,
+    1648453,
+    1720484
+  ]
+}

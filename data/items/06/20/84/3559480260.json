@@ -1,0 +1,10 @@
+{
+  "internalId": 3559480260,
+  "name": "Glyph of Frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_frostessence.png",
+  "bindType": -1,
+  "knownIds": [
+    5365
+  ]
+}

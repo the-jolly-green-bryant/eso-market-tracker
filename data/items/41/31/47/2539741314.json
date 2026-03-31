@@ -1,0 +1,19 @@
+{
+  "internalId": 2539741314,
+  "name": "Threads of War Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206165,
+    206220,
+    206255,
+    206290,
+    206325,
+    206360,
+    206395,
+    206430,
+    206465,
+    206500
+  ]
+}

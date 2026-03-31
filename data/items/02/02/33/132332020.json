@@ -1,0 +1,17 @@
+{
+  "internalId": 132332020,
+  "name": "Dead-Water's Guile Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142439,
+    142459,
+    142479,
+    142499,
+    142519,
+    142539,
+    142559,
+    142579
+  ]
+}

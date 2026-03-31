@@ -1,0 +1,20 @@
+{
+  "internalId": 2948017216,
+  "name": "Ophidian Sword of Venom",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1126944,
+    1160015,
+    1171594,
+    1383391,
+    1392839,
+    1411471,
+    1456810,
+    1518520,
+    1542989,
+    1610269,
+    1777366
+  ]
+}

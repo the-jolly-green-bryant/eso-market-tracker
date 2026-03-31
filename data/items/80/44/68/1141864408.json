@@ -1,0 +1,12 @@
+{
+  "internalId": 1141864408,
+  "name": "Exotic Metal Weapon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54736,
+    54741,
+    54746
+  ]
+}

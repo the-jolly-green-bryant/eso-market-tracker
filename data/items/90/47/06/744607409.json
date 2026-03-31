@@ -1,0 +1,10 @@
+{
+  "internalId": 744607409,
+  "name": "Crafting Motif 72: Meridian Legs",
+  "description": "Use to learn how to make Meridian Legs. Also teaches the equivalent Meridian outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    147691
+  ]
+}

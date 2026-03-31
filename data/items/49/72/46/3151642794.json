@@ -1,0 +1,10 @@
+{
+  "internalId": 3151642794,
+  "name": "Jewelry: Unleashed Terror",
+  "description": "A Medium Armor set found in Castle Thorn.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    164671
+  ]
+}

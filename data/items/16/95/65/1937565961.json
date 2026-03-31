@@ -1,0 +1,10 @@
+{
+  "internalId": 1937565961,
+  "name": "Redguard Lantern, Caged",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varlanternsitting001.png",
+  "bindType": -1,
+  "knownIds": [
+    117859
+  ]
+}

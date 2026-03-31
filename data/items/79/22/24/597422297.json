@@ -1,0 +1,16 @@
+{
+  "internalId": 597422297,
+  "name": "Shield of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93189,
+    93209,
+    93229,
+    93269,
+    93289,
+    93309,
+    93329
+  ]
+}

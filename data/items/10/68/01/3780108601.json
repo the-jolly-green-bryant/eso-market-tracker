@@ -1,0 +1,10 @@
+{
+  "internalId": 3780108601,
+  "name": "Shrub Cluster, Snowswept",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_wrothgarevergreensnowclst002.png",
+  "bindType": -1,
+  "knownIds": [
+    134566
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 519378265,
+  "name": "Bone, Left Hand",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletonhand001.png",
+  "bindType": -1,
+  "knownIds": [
+    118884
+  ]
+}

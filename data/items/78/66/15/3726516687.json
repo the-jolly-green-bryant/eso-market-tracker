@@ -1,0 +1,10 @@
+{
+  "internalId": 3726516687,
+  "name": "Sunderflame",
+  "description": "A Medium Armor set found in City of Ash.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134120
+  ]
+}

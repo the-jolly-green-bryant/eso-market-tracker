@@ -1,0 +1,10 @@
+{
+  "internalId": 1422925545,
+  "name": "Powdered Mother of Pearl",
+  "description": "An ingredient for alchemy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_celestial_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    139019
+  ]
+}

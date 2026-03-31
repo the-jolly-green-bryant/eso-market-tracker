@@ -1,0 +1,12 @@
+{
+  "internalId": 3543620945,
+  "name": "Soulcleaver Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1680953,
+    1683255,
+    1720859
+  ]
+}

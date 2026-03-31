@@ -1,0 +1,10 @@
+{
+  "internalId": 3823045401,
+  "name": "Solitude Trunk, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_chest003.png",
+  "bindType": -1,
+  "knownIds": [
+    165713
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 390756064,
+  "name": "Shattered Fate Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194774,
+    194809,
+    194844,
+    194879,
+    194914
+  ]
+}

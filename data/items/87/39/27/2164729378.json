@@ -1,0 +1,17 @@
+{
+  "internalId": 2164729378,
+  "name": "Camonna Tong Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195888,
+    195908,
+    195928,
+    195948,
+    195968,
+    195988,
+    196008,
+    196028
+  ]
+}

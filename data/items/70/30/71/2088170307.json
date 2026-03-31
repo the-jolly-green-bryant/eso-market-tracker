@@ -1,0 +1,17 @@
+{
+  "internalId": 2088170307,
+  "name": "Reactive Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117289,
+    117309,
+    117329,
+    117349,
+    117369,
+    117389,
+    117409,
+    117429
+  ]
+}

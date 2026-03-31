@@ -1,0 +1,17 @@
+{
+  "internalId": 3073388005,
+  "name": "Enervating Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183588,
+    183608,
+    183628,
+    183648,
+    183668,
+    183688,
+    183708,
+    183728
+  ]
+}

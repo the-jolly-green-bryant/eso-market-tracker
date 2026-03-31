@@ -1,0 +1,16 @@
+{
+  "internalId": 3900816302,
+  "name": "Darkstride Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    85837,
+    85857,
+    85877,
+    85897,
+    85917,
+    85937,
+    85957
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3177784023,
+  "name": "Arkay's Charity Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213756,
+    213777,
+    213798,
+    213819,
+    213840,
+    213861,
+    213882,
+    213903
+  ]
+}

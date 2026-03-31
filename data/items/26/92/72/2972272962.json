@@ -1,0 +1,19 @@
+{
+  "internalId": 2972272962,
+  "name": "Druid's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185549,
+    185604,
+    185639,
+    185674,
+    185709,
+    185744,
+    185779,
+    185814,
+    185849,
+    185884
+  ]
+}

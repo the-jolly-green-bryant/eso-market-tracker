@@ -1,0 +1,10 @@
+{
+  "internalId": 3829052256,
+  "name": "Bone, Pelvis",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletonpelvis001.png",
+  "bindType": -1,
+  "knownIds": [
+    118889
+  ]
+}

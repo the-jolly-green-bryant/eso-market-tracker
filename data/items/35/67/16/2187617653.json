@@ -1,0 +1,17 @@
+{
+  "internalId": 2187617653,
+  "name": "Ansuul's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_medium_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1644249,
+    1645319,
+    1654101,
+    1660564,
+    1672211,
+    1679964,
+    1687079,
+    1724210
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 525546959,
+  "name": "Gryphon's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_bow_b.png",
+  "bindType": 2,
+  "knownIds": [
+    135353,
+    135373,
+    135393,
+    135413,
+    135433,
+    135453,
+    135473,
+    135493
+  ]
+}

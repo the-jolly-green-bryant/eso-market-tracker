@@ -1,0 +1,10 @@
+{
+  "internalId": 4132238326,
+  "name": "Hlaalu Trader's Belt",
+  "description": "This belt includes several inner pockets for holding coins and lockpicks.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7405
+  ]
+}

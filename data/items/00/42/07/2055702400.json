@@ -1,0 +1,17 @@
+{
+  "internalId": 2055702400,
+  "name": "Siegemaster's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210720,
+    210740,
+    210760,
+    210780,
+    210800,
+    210820,
+    210840,
+    210860
+  ]
+}

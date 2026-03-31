@@ -1,0 +1,19 @@
+{
+  "internalId": 2012202016,
+  "name": "Tide-Born Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    215515,
+    215517,
+    215519,
+    215521,
+    215523,
+    215525,
+    215527,
+    215529,
+    215531,
+    215533
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 85829592,
+  "name": "Tree, Robust Fig",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_hircinetree003.png",
+  "bindType": -1,
+  "knownIds": [
+    141832
+  ]
+}

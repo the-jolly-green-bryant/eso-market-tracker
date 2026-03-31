@@ -1,0 +1,19 @@
+{
+  "internalId": 208236289,
+  "name": "Threads of War Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206185,
+    206240,
+    206275,
+    206310,
+    206345,
+    206380,
+    206415,
+    206450,
+    206485,
+    206520
+  ]
+}

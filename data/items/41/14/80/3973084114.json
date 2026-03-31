@@ -1,0 +1,10 @@
+{
+  "internalId": 3973084114,
+  "name": "Elsweyr Cupboard, Elegant Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_lowbookcase002.png",
+  "bindType": -1,
+  "knownIds": [
+    151702
+  ]
+}

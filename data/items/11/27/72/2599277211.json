@@ -1,0 +1,17 @@
+{
+  "internalId": 2599277211,
+  "name": "Lightning Staff of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86573,
+    86593,
+    86613,
+    86633,
+    86653,
+    86673,
+    86693,
+    86713
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4223412954,
+  "name": "Ancient Nord Greatsword",
+  "description": "An old iron greatsword, battleworn and near to rust. Still, the once remarkable craftsmanship makes for a weapon ready to defend once more.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    157514
+  ]
+}

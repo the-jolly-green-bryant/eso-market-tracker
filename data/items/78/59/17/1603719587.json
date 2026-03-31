@@ -1,0 +1,17 @@
+{
+  "internalId": 1603719587,
+  "name": "Lightning Staff of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91001,
+    91022,
+    91043,
+    91064,
+    91085,
+    91106,
+    91127,
+    91148
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1536908349,
+  "name": "Innate Axiom Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130394,
+    130429,
+    130464,
+    130499,
+    130534,
+    130569,
+    130604,
+    130639,
+    130674,
+    130709
+  ]
+}

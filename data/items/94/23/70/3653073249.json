@@ -1,0 +1,10 @@
+{
+  "internalId": 3653073249,
+  "name": "Rough Hickory",
+  "description": "Ten of these items can be refined to make sanded hickory.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_base_hickory_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    23118
+  ]
+}

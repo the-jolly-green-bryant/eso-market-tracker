@@ -1,0 +1,13 @@
+{
+  "internalId": 3054587981,
+  "name": "Shacklebreaker Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122470,
+    122505,
+    122540,
+    122575
+  ]
+}

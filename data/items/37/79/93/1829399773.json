@@ -1,0 +1,13 @@
+{
+  "internalId": 1829399773,
+  "name": "Briarheart Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129699,
+    129711,
+    129723,
+    129735
+  ]
+}

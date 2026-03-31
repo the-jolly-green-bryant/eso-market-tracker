@@ -1,0 +1,11 @@
+{
+  "internalId": 1383720296,
+  "name": "The Vicecanon's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78548,
+    78583
+  ]
+}

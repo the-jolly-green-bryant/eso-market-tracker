@@ -1,0 +1,10 @@
+{
+  "internalId": 3996318191,
+  "name": "Stump, Rotten Hollow",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_mrkrottedstump002.png",
+  "bindType": -1,
+  "knownIds": [
+    130290
+  ]
+}

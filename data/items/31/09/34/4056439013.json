@@ -1,0 +1,10 @@
+{
+  "internalId": 4056439013,
+  "name": "Vambrace of Sorrow",
+  "description": "A piece of ancient Orcish armor Lady Laurent found in the shrines of Wrothgar's most dangerous mountain.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wrothgarorc_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    70999
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4183928983,
+  "name": "Jewelry: Flame Blossom",
+  "description": "A Light Armor set found in Bloodroot Forge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134191
+  ]
+}

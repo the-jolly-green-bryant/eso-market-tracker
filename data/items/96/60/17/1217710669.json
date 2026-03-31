@@ -1,0 +1,10 @@
+{
+  "internalId": 1217710669,
+  "name": "Dark Elf Rack, Barrel",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_barrelrack001.png",
+  "bindType": -1,
+  "knownIds": [
+    115273
+  ]
+}

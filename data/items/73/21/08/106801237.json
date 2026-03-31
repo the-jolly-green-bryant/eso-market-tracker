@@ -1,0 +1,10 @@
+{
+  "internalId": 106801237,
+  "name": "Centurion's Helm",
+  "description": "An elaborate helm marking the wearer's favor in West Weald, this Legion helm stands tall on its owner's head.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208137
+  ]
+}

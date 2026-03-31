@@ -1,0 +1,20 @@
+{
+  "internalId": 3509322886,
+  "name": "Inferno Staff of Sul-Xan's Torment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1508510,
+    1529929,
+    1529948,
+    1539967,
+    1540771,
+    1542293,
+    1616844,
+    1626619,
+    1659334,
+    1748575,
+    1772811
+  ]
+}

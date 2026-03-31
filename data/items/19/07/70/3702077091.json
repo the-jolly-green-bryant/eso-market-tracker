@@ -1,0 +1,10 @@
+{
+  "internalId": 3702077091,
+  "name": "Imperial Writ of Loyalty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1382166
+  ]
+}

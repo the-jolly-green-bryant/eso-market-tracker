@@ -1,0 +1,16 @@
+{
+  "internalId": 2591881382,
+  "name": "Girdle of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95311,
+    95331,
+    95351,
+    95371,
+    95391,
+    95411,
+    95431
+  ]
+}

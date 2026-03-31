@@ -1,0 +1,19 @@
+{
+  "internalId": 447583287,
+  "name": "New Moon Acolyte's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156166,
+    156221,
+    156256,
+    156291,
+    156326,
+    156361,
+    156396,
+    156431,
+    156466,
+    156501
+  ]
+}

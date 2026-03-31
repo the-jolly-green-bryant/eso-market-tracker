@@ -1,0 +1,17 @@
+{
+  "internalId": 1571472839,
+  "name": "Ill Omen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_bow_b.png",
+  "bindType": -1,
+  "knownIds": [
+    813605,
+    582021,
+    792867,
+    938762,
+    1087687,
+    1229357,
+    1510595,
+    1514997
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1770860355,
+  "name": "solution of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    434409,
+    689945,
+    1431896
+  ]
+}

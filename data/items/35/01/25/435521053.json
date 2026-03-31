@@ -1,0 +1,17 @@
+{
+  "internalId": 435521053,
+  "name": "Sash of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91393,
+    91414,
+    91435,
+    91456,
+    91477,
+    91498,
+    91519,
+    91540
+  ]
+}

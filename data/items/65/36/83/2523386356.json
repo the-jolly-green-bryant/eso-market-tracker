@@ -1,0 +1,13 @@
+{
+  "internalId": 2523386356,
+  "name": "Robe of Vicious Death",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199640,
+    199641,
+    199642,
+    199643
+  ]
+}

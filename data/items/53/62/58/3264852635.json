@@ -1,0 +1,17 @@
+{
+  "internalId": 3264852635,
+  "name": "Mace of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210539,
+    210559,
+    210579,
+    210599,
+    210619,
+    210639,
+    210659,
+    210679
+  ]
+}

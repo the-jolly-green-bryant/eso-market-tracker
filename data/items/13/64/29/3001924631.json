@@ -1,0 +1,28 @@
+{
+  "internalId": 3001924631,
+  "name": "Treasure Hunter's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1124637,
+    1193335,
+    1194023,
+    1198826,
+    1367250,
+    1391868,
+    1399841,
+    1400467,
+    1401628,
+    1434058,
+    1561773,
+    1579855,
+    1601110,
+    1604711,
+    1606467,
+    1620027,
+    1626428,
+    1650147,
+    1769995
+  ]
+}

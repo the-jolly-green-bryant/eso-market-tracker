@@ -1,0 +1,10 @@
+{
+  "internalId": 2621119089,
+  "name": "Necklace of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    91563
+  ]
+}

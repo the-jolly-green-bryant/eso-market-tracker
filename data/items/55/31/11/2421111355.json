@@ -1,0 +1,10 @@
+{
+  "internalId": 2421111355,
+  "name": "Mages Guild Stained Glass",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_windowmagesguildhousing001.png",
+  "bindType": -1,
+  "knownIds": [
+    187660
+  ]
+}

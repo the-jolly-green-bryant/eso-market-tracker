@@ -1,0 +1,19 @@
+{
+  "internalId": 2930688261,
+  "name": "Ice Staff of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58185,
+    58220,
+    58255,
+    58290,
+    58325,
+    58360,
+    58395,
+    58430,
+    58465,
+    58500
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1046298765,
+  "name": "Crafting Motif 81: New Moon Priest Gloves",
+  "description": "Use to learn how to make New Moon Priest Gloves. Also teaches the equivalent New Moon Priest Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    156615
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2608094871,
+  "name": "Helmet of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184802,
+    184857,
+    184892,
+    184927,
+    184962,
+    184997,
+    185032,
+    185067,
+    185102,
+    185137
+  ]
+}

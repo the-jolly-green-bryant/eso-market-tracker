@@ -1,0 +1,19 @@
+{
+  "internalId": 3217099797,
+  "name": "Druid's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185533,
+    185588,
+    185623,
+    185658,
+    185693,
+    185728,
+    185763,
+    185798,
+    185833,
+    185868
+  ]
+}

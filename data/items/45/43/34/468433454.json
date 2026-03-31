@@ -1,0 +1,10 @@
+{
+  "internalId": 468433454,
+  "name": "Imperial Nightstand, Scrollwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_nightstand001.png",
+  "bindType": -1,
+  "knownIds": [
+    94174
+  ]
+}

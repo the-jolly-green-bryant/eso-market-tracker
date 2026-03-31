@@ -1,0 +1,19 @@
+{
+  "internalId": 3296027684,
+  "name": "Hist Whisperer's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172457,
+    172512,
+    172547,
+    172582,
+    172617,
+    172652,
+    172687,
+    172722,
+    172757,
+    172792
+  ]
+}

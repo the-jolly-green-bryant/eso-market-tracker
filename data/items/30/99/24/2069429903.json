@@ -1,0 +1,10 @@
+{
+  "internalId": 2069429903,
+  "name": "Joint Salve Jar",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
+  "bindType": -1,
+  "knownIds": [
+    828105
+  ]
+}

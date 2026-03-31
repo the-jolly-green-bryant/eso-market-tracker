@@ -1,0 +1,10 @@
+{
+  "internalId": 2890057677,
+  "name": "Breton Armoire, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_wardrobe001.png",
+  "bindType": -1,
+  "knownIds": [
+    115232
+  ]
+}

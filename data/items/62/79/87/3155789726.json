@@ -1,0 +1,19 @@
+{
+  "internalId": 3155789726,
+  "name": "Gloves of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168769,
+    168824,
+    168859,
+    168894,
+    168929,
+    168964,
+    168999,
+    169034,
+    169069,
+    169104
+  ]
+}

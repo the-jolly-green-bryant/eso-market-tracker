@@ -1,0 +1,10 @@
+{
+  "internalId": 2978480046,
+  "name": "Indoril Cannister, Trinket",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlasmallstorage002.png",
+  "bindType": -1,
+  "knownIds": [
+    126533
+  ]
+}

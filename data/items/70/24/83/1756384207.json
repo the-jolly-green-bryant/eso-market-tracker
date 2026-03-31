@@ -1,0 +1,19 @@
+{
+  "internalId": 1756384207,
+  "name": "Unchained Aggressor's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158692,
+    158747,
+    158782,
+    158817,
+    158852,
+    158887,
+    158922,
+    158957,
+    158992,
+    159027
+  ]
+}

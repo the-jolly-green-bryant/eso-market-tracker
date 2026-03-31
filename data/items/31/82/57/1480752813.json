@@ -1,0 +1,23 @@
+{
+  "internalId": 1480752813,
+  "name": "War Machine Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1275174,
+    1368054,
+    1378414,
+    1381247,
+    1384012,
+    1406812,
+    1461931,
+    1475995,
+    1540510,
+    1544948,
+    1578629,
+    1634205,
+    1656521,
+    1717970
+  ]
+}

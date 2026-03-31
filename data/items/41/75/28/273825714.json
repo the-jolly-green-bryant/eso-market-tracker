@@ -1,0 +1,10 @@
+{
+  "internalId": 273825714,
+  "name": "Chapeau of Revels",
+  "description": "A flamboyant cap that conceals your features. Performers in the House of Reveries prefer anonymity.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_aldmeri_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134710
+  ]
+}

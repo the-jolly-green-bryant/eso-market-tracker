@@ -1,0 +1,10 @@
+{
+  "internalId": 1217329356,
+  "name": "Affix Script: Brutality and Sorcery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_brutalitysorcery.png",
+  "bindType": -1,
+  "knownIds": [
+    204600
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1165903460,
+  "name": "Leyawiin Platter, Seafood",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenplatter001.png",
+  "bindType": -1,
+  "knownIds": [
+    175689
+  ]
+}

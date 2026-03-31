@@ -1,0 +1,13 @@
+{
+  "internalId": 1119836139,
+  "name": "Recovery Convergence Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1756313,
+    1756656,
+    1757615,
+    1765304
+  ]
+}

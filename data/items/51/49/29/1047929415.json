@@ -1,0 +1,10 @@
+{
+  "internalId": 1047929415,
+  "name": "Leyawiin Jewelry Box, Iron Octopus",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybox002.png",
+  "bindType": -1,
+  "knownIds": [
+    175629
+  ]
+}

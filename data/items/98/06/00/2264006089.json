@@ -1,0 +1,10 @@
+{
+  "internalId": 2264006089,
+  "name": "Horned Owl Feathers",
+  "description": "Consume 10 Horned Owl Feathers to unlock the What A Hoot! achievement and the Witches Festival Senchal Horned Owl Pet!",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_wyrdpuzzlefeather001.png",
+  "bindType": -1,
+  "knownIds": [
+    211128
+  ]
+}

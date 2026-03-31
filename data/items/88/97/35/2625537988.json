@@ -1,0 +1,21 @@
+{
+  "internalId": 2625537988,
+  "name": "Ring of Mephala's Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    928421,
+    928512,
+    943647,
+    1079100,
+    1123354,
+    1133917,
+    1165333,
+    1175336,
+    1424016,
+    1494637,
+    1505738,
+    1655536
+  ]
+}

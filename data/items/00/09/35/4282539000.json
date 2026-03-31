@@ -1,0 +1,12 @@
+{
+  "internalId": 4282539000,
+  "name": "Spattering Disjunction Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735225,
+    1764484,
+    1777156
+  ]
+}

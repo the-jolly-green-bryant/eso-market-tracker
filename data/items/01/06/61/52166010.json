@@ -1,0 +1,17 @@
+{
+  "internalId": 52166010,
+  "name": "Shared Burden Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215192,
+    215227,
+    215262,
+    215297,
+    215332,
+    215367,
+    215402,
+    215437
+  ]
+}

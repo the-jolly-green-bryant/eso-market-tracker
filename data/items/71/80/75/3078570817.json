@@ -1,0 +1,10 @@
+{
+  "internalId": 3078570817,
+  "name": "Lionbanner Buckler of the Sun",
+  "description": "Scarred from battle, taken from the commander in Softloam Cavern.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34982
+  ]
+}

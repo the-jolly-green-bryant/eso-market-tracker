@@ -1,0 +1,11 @@
+{
+  "internalId": 3237595359,
+  "name": "Covenant Fire Ballista",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1232736,
+    1288880
+  ]
+}

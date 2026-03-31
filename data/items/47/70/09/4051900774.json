@@ -1,0 +1,10 @@
+{
+  "internalId": 4051900774,
+  "name": "Leyawiin Laundry, Stack",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyfoldedclothes003.png",
+  "bindType": -1,
+  "knownIds": [
+    175653
+  ]
+}

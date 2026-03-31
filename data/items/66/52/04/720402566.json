@@ -1,0 +1,10 @@
+{
+  "internalId": 720402566,
+  "name": "Jaera",
+  "description": "Jaera",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_042.png",
+  "bindType": -1,
+  "knownIds": [
+    45810
+  ]
+}

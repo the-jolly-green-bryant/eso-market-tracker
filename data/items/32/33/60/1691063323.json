@@ -1,0 +1,10 @@
+{
+  "internalId": 1691063323,
+  "name": "minor Glyph of Bashing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasebashdamage.png",
+  "bindType": -1,
+  "knownIds": [
+    1689484
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2413571784,
+  "name": "Ice Staff of Phylactery's Grasp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600806,
+    1602568,
+    1641739,
+    1652140,
+    1779662
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 473888728,
+  "name": "Draoife Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190719,
+    190739,
+    190759,
+    190779,
+    190799,
+    190819,
+    190839,
+    190859
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1826369332,
+  "name": "Master Provisioning Writ",
+  "description": "An exclusive, secret contract for victuals of rare quality.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_provisioning.png",
+  "bindType": -1,
+  "knownIds": [
+    119693
+  ]
+}

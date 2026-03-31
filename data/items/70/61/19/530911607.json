@@ -1,0 +1,10 @@
+{
+  "internalId": 530911607,
+  "name": "Fargrave Flag, Regular",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farhangingfabric004.png",
+  "bindType": -1,
+  "knownIds": [
+    182218
+  ]
+}

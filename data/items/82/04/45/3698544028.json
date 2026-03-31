@@ -1,0 +1,17 @@
+{
+  "internalId": 3698544028,
+  "name": "Mace of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    97775,
+    97795,
+    97815,
+    97835,
+    97855,
+    97875,
+    97895,
+    97915
+  ]
+}

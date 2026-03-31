@@ -1,0 +1,19 @@
+{
+  "internalId": 408092652,
+  "name": "Ironblood Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1164318,
+    1383031,
+    1452168,
+    1512681,
+    1526959,
+    1561472,
+    1594744,
+    1652401,
+    1696690,
+    1742402
+  ]
+}

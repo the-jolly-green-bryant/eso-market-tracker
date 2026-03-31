@@ -1,0 +1,10 @@
+{
+  "internalId": 925638281,
+  "name": "Aquarium, Large Abecean Coral",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_housingu33t5crateaquarium001.png",
+  "bindType": -1,
+  "knownIds": [
+    184072
+  ]
+}

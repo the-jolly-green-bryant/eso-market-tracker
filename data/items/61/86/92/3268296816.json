@@ -1,0 +1,10 @@
+{
+  "internalId": 3268296816,
+  "name": "Crafting Motif 68: Honor Guard Maces",
+  "description": "Use to learn how to make Honor Guard Maces. Also teaches the equivalent Honor Guard outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    142196
+  ]
+}

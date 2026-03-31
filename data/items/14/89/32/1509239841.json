@@ -1,0 +1,11 @@
+{
+  "internalId": 1509239841,
+  "name": "Unexplained Large Medium Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54611,
+    54621
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2519017616,
+  "name": "Breton Streetlight, Full Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_postlight004.png",
+  "bindType": -1,
+  "knownIds": [
+    115247
+  ]
+}

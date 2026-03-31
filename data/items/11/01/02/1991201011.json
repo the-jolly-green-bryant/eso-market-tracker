@@ -1,0 +1,10 @@
+{
+  "internalId": 1991201011,
+  "name": "Platform, Floating Dock",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_dockfloating001.png",
+  "bindType": -1,
+  "knownIds": [
+    156650
+  ]
+}

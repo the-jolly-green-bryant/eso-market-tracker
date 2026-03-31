@@ -1,0 +1,17 @@
+{
+  "internalId": 547593089,
+  "name": "Battle Axe of Unfathomable Darkness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133044,
+    133064,
+    133084,
+    133104,
+    133124,
+    133144,
+    133164,
+    133184
+  ]
+}

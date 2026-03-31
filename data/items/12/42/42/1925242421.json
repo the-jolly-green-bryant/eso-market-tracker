@@ -1,0 +1,13 @@
+{
+  "internalId": 1925242421,
+  "name": "Belt of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1650368,
+    1660314,
+    1739259,
+    1755825
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 50048950,
+  "name": "Tapestry of Namira",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannernamira001.png",
+  "bindType": -1,
+  "knownIds": [
+    147600
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2205856363,
+  "name": "Crafting Motif 81: New Moon Priest Shields",
+  "description": "Use to learn how to make New Moon Priest Shields. Also teaches the equivalent New Moon Priest Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    156619
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2365877705,
+  "name": "Gourmand's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190383,
+    190404,
+    190425,
+    190446,
+    190467,
+    190488,
+    190509,
+    190530
+  ]
+}

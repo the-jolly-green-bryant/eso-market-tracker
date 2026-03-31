@@ -1,0 +1,10 @@
+{
+  "internalId": 3599485772,
+  "name": "Bound Focus Script: Generate Ultimate",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_gainultimate.png",
+  "bindType": -1,
+  "knownIds": [
+    1719715
+  ]
+}

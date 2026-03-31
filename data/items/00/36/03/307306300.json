@@ -1,0 +1,19 @@
+{
+  "internalId": 307306300,
+  "name": "Shoes of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185172,
+    185227,
+    185262,
+    185297,
+    185332,
+    185367,
+    185402,
+    185437,
+    185472,
+    185507
+  ]
+}

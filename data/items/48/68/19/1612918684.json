@@ -1,0 +1,10 @@
+{
+  "internalId": 1612918684,
+  "name": "Tin of High Isle Taffy",
+  "description": "A sweet little reminder of home for a knight on errantry. This gift for Isobel is more appreciated when used during Hearts Week.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_isobel.png",
+  "bindType": -1,
+  "knownIds": [
+    220371
+  ]
+}

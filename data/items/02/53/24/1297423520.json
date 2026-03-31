@@ -1,0 +1,17 @@
+{
+  "internalId": 1297423520,
+  "name": "Bow of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_bow.png",
+  "bindType": 2,
+  "knownIds": [
+    204891,
+    204912,
+    204933,
+    204954,
+    204975,
+    204996,
+    205017,
+    205038
+  ]
+}

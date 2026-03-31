@@ -1,0 +1,17 @@
+{
+  "internalId": 312594137,
+  "name": "Macabre Vintage Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    205066,
+    205086,
+    205106,
+    205126,
+    205146,
+    205166,
+    205186,
+    205206
+  ]
+}

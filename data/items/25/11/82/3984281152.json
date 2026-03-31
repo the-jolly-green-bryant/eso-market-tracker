@@ -1,0 +1,23 @@
+{
+  "internalId": 3984281152,
+  "name": "Axe of Mazzatun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    935156,
+    1092829,
+    1129969,
+    1170775,
+    1187665,
+    1191166,
+    1365295,
+    1378794,
+    1490187,
+    1561265,
+    1587662,
+    1629367,
+    1724236,
+    1741603
+  ]
+}

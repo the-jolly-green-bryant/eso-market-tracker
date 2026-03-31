@@ -1,0 +1,14 @@
+{
+  "internalId": 100450040,
+  "name": "Spellshredder Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219213,
+    219234,
+    219255,
+    219276,
+    219297
+  ]
+}

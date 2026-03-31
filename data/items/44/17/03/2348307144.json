@@ -1,0 +1,10 @@
+{
+  "internalId": 2348307144,
+  "name": "Ayleid Partition, Arched",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_doordroom001.png",
+  "bindType": -1,
+  "knownIds": [
+    193801
+  ]
+}

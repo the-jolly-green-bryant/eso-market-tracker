@@ -1,0 +1,10 @@
+{
+  "internalId": 1124677223,
+  "name": "Scrimshaw, Sea Monster",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshaw001.png",
+  "bindType": -1,
+  "knownIds": [
+    139253
+  ]
+}

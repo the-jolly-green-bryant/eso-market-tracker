@@ -1,0 +1,17 @@
+{
+  "internalId": 1890215570,
+  "name": "Webcutter",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    841714,
+    932846,
+    1034174,
+    1069517,
+    1246029,
+    1464455,
+    1493393,
+    1580116
+  ]
+}

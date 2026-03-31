@@ -1,0 +1,10 @@
+{
+  "internalId": 1189551426,
+  "name": "Battle-Scarred Epaulets",
+  "description": "For saving those left of his fallen companions, Snorrvild rewarded you with these shoulder pieces.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    44913
+  ]
+}

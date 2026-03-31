@@ -1,0 +1,10 @@
+{
+  "internalId": 3118917868,
+  "name": "Colovian Wall, Small Plaster",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousewallmiddlestraighthalf001.png",
+  "bindType": -1,
+  "knownIds": [
+    208085
+  ]
+}

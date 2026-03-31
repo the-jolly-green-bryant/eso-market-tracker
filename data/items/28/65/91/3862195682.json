@@ -1,0 +1,10 @@
+{
+  "internalId": 3862195682,
+  "name": "Redguard Trellis, Peaked",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_vartrellis001.png",
+  "bindType": -1,
+  "knownIds": [
+    134923
+  ]
+}

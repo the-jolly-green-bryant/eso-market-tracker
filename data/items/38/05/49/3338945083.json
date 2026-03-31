@@ -1,0 +1,19 @@
+{
+  "internalId": 3338945083,
+  "name": "full-leather guards of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": -1,
+  "knownIds": [
+    545300,
+    685879,
+    521734,
+    483473,
+    481980,
+    712818,
+    581913,
+    544499,
+    483560,
+    1065594
+  ]
+}

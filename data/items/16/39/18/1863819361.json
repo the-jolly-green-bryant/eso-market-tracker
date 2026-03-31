@@ -1,0 +1,19 @@
+{
+  "internalId": 1863819361,
+  "name": "Guards of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70639,
+    70674,
+    70709,
+    70744,
+    70779,
+    70814,
+    70849,
+    70884,
+    70919,
+    70954
+  ]
+}

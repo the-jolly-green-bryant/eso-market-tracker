@@ -1,0 +1,10 @@
+{
+  "internalId": 2968649467,
+  "name": "Ahknara's Silent Slippers",
+  "description": "These slippers are made from flexible Duneripper hide gathered in the Alik'r Desert.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7410
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3642071970,
+  "name": "Vampiric Bookcase, Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirebookcase002.png",
+  "bindType": -1,
+  "knownIds": [
+    165591
+  ]
+}

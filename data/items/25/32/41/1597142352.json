@@ -1,0 +1,17 @@
+{
+  "internalId": 1597142352,
+  "name": "Steadfast Hero Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144655,
+    144675,
+    144695,
+    144715,
+    144735,
+    144755,
+    144775,
+    144795
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1169773702,
+  "name": "Phoenix Moth Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190548,
+    190568,
+    190588,
+    190608,
+    190628,
+    190648,
+    190668,
+    190688
+  ]
+}

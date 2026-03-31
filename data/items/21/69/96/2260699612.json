@@ -1,0 +1,19 @@
+{
+  "internalId": 2260699612,
+  "name": "Bow of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58182,
+    58217,
+    58252,
+    58287,
+    58322,
+    58357,
+    58392,
+    58427,
+    58462,
+    58497
+  ]
+}

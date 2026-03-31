@@ -1,0 +1,10 @@
+{
+  "internalId": 139733987,
+  "name": "Mushroom, Young Erupted Stinkcap",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdinkcap008.png",
+  "bindType": -1,
+  "knownIds": [
+    125605
+  ]
+}

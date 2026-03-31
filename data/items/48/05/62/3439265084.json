@@ -1,0 +1,17 @@
+{
+  "internalId": 3439265084,
+  "name": "Girdle of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88734,
+    88754,
+    88774,
+    88794,
+    88814,
+    88834,
+    88854,
+    88874
+  ]
+}

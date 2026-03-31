@@ -1,0 +1,13 @@
+{
+  "internalId": 604355677,
+  "name": "Cuirass of Fasalla's Guile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199167,
+    199168,
+    199169,
+    199170
+  ]
+}

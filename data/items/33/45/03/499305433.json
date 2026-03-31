@@ -1,0 +1,10 @@
+{
+  "internalId": 499305433,
+  "name": "Argonian Shelf, Woven",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkshelf003.png",
+  "bindType": -1,
+  "knownIds": [
+    115475
+  ]
+}

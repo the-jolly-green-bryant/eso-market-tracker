@@ -1,0 +1,16 @@
+{
+  "internalId": 3373021643,
+  "name": "iron axe of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    412456,
+    757517,
+    417769,
+    389301,
+    600255,
+    389282,
+    426780
+  ]
+}

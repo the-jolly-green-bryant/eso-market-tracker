@@ -1,0 +1,10 @@
+{
+  "internalId": 3705268973,
+  "name": "Crafting Motif 73: Anequina Style",
+  "description": "Use to learn the Anequina crafting style. Also teaches the equivalent Anequina outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    147698
+  ]
+}

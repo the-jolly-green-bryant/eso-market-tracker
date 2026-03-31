@@ -1,0 +1,17 @@
+{
+  "internalId": 1340996204,
+  "name": "Wizard's Riposte Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123727,
+    123748,
+    123769,
+    123790,
+    123811,
+    123832,
+    123853,
+    123874
+  ]
+}

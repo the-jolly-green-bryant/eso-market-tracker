@@ -1,0 +1,15 @@
+{
+  "internalId": 1235228347,
+  "name": "Azureblight Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1484690,
+    1605786,
+    1613740,
+    1760101,
+    1761919,
+    1774043
+  ]
+}

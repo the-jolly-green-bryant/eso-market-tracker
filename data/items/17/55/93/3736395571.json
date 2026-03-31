@@ -1,0 +1,13 @@
+{
+  "internalId": 3736395571,
+  "name": "Ebon Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77724,
+    77760,
+    77796,
+    77832
+  ]
+}

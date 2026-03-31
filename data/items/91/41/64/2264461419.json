@@ -1,0 +1,10 @@
+{
+  "internalId": 2264461419,
+  "name": "Band of the Companions",
+  "description": "The inner edge of this ring bears runes, one for each member of the original Five Companions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    44996
+  ]
+}

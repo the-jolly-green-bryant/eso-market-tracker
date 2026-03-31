@@ -1,0 +1,11 @@
+{
+  "internalId": 4237810904,
+  "name": "Worm Cult Scroll, Unfinished",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_scroll001.png",
+  "bindType": -1,
+  "knownIds": [
+    219728,
+    220323
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2167108449,
+  "name": "Dark Elf Trestle, Scaled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_tabletrestle001.png",
+  "bindType": -1,
+  "knownIds": [
+    115301
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3989417512,
+  "name": "Focus Script: Damage Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_damageshield.png",
+  "bindType": -1,
+  "knownIds": [
+    204568
+  ]
+}

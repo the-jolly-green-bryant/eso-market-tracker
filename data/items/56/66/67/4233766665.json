@@ -1,0 +1,19 @@
+{
+  "internalId": 4233766665,
+  "name": "Hist Whisperer's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172485,
+    172540,
+    172575,
+    172610,
+    172645,
+    172680,
+    172715,
+    172750,
+    172785,
+    172820
+  ]
+}

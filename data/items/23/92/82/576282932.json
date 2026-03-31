@@ -1,0 +1,10 @@
+{
+  "internalId": 576282932,
+  "name": "Orcish Desk, Engraved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgdesk001.png",
+  "bindType": -1,
+  "knownIds": [
+    116394
+  ]
+}

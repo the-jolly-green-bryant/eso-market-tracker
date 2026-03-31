@@ -1,0 +1,10 @@
+{
+  "internalId": 1954980218,
+  "name": "Breton Sconce, Floor",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candleshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    115240
+  ]
+}

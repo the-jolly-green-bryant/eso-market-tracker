@@ -1,0 +1,10 @@
+{
+  "internalId": 2801816126,
+  "name": "Indoril Streetlight, Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_postlight003.png",
+  "bindType": -1,
+  "knownIds": [
+    126558
+  ]
+}

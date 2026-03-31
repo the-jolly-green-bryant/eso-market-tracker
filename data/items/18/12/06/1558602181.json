@@ -1,0 +1,10 @@
+{
+  "internalId": 1558602181,
+  "name": "Seabeast's Ribcage",
+  "description": "Worn but well-crafted armor taken from a fallen jailer at Whalefall.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nordhvyv2_chest.png",
+  "bindType": 2,
+  "knownIds": [
+    188111
+  ]
+}

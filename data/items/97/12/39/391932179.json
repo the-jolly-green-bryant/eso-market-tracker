@@ -1,0 +1,19 @@
+{
+  "internalId": 391932179,
+  "name": "Clever Alchemist Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72173,
+    72208,
+    72243,
+    72278,
+    72313,
+    72348,
+    72383,
+    72418,
+    72453,
+    72488
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2434755430,
+  "name": "Argonian Totem of Skulls",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_dreamcatcher001.png",
+  "bindType": -1,
+  "knownIds": [
+    115543
+  ]
+}

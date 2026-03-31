@@ -1,0 +1,10 @@
+{
+  "internalId": 1092864693,
+  "name": "Alliance Standard-Bearer's Emblem",
+  "description": "When you have ten of these Emblems: use a Standard-Bearer's License, purchased from Predicant Maera during Whitestrake's Mayhem, to create a Runebox. You may only earn one Alliance Standard-Bearer's Emblem per day.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_token_of_meridia.png",
+  "bindType": -1,
+  "knownIds": [
+    151930
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalId": 1729144595,
+  "name": "Draugrkin Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1353779,
+    1353937,
+    1371395,
+    1371396,
+    1379737,
+    1393066,
+    1482855,
+    1482933,
+    1546901,
+    1550652,
+    1560553,
+    1583781,
+    1618247,
+    1761596,
+    1775528
+  ]
+}

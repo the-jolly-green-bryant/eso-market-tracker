@@ -1,0 +1,10 @@
+{
+  "internalId": 2660679786,
+  "name": "Orcish Table, Block",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgtable001.png",
+  "bindType": -1,
+  "knownIds": [
+    116355
+  ]
+}

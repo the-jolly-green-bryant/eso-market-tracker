@@ -1,0 +1,10 @@
+{
+  "internalId": 2765508016,
+  "name": "Senche Hide Girdle",
+  "description": "The senche-tiger, one of the most dangerous creatures on Tamriel, has hide which make excellent armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10916
+  ]
+}

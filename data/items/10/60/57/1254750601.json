@@ -1,0 +1,17 @@
+{
+  "internalId": 1254750601,
+  "name": "Greatsword of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180434,
+    180455,
+    180476,
+    180497,
+    180518,
+    180539,
+    180560,
+    180581
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1324466304,
+  "name": "Grave-Stake Collector Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143012,
+    143047,
+    143082,
+    143117,
+    143152
+  ]
+}

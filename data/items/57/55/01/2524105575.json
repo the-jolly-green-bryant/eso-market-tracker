@@ -1,0 +1,17 @@
+{
+  "internalId": 2524105575,
+  "name": "Helmet of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98163,
+    98183,
+    98203,
+    98223,
+    98243,
+    98263,
+    98283,
+    98303
+  ]
+}

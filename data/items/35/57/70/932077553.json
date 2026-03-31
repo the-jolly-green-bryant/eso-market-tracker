@@ -1,0 +1,10 @@
+{
+  "internalId": 932077553,
+  "name": "Darkstride High King's Shield",
+  "description": "High King Emeric bestowed this shield for defeating Montclair's forces in Shornhelm.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    26579
+  ]
+}

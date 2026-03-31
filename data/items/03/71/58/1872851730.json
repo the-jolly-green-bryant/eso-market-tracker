@@ -1,0 +1,10 @@
+{
+  "internalId": 1872851730,
+  "name": "Sanguine Rose Pendant",
+  "description": "A glimmering pendant, bestowed upon those who triumph in the grand festivities and revels dedicated to Sanguine, the Daedric Prince of Pleasure.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_murkmire_argonian_charm_necklace.png",
+  "bindType": 2,
+  "knownIds": [
+    217724
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1787058469,
+  "name": "Lightning Staff of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75133,
+    75153,
+    75173,
+    75193,
+    75213
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 4255309422,
+  "name": "Fledgling's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1751701,
+    1754592,
+    1761610,
+    1774737
+  ]
+}

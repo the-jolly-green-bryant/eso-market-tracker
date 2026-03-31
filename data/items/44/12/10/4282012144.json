@@ -1,0 +1,10 @@
+{
+  "internalId": 4282012144,
+  "name": "quillfish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
+  "bindType": -1,
+  "knownIds": [
+    521057
+  ]
+}

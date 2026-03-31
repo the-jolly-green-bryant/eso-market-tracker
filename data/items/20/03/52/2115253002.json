@@ -1,0 +1,19 @@
+{
+  "internalId": 2115253002,
+  "name": "Tharriker's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205425,
+    205480,
+    205515,
+    205550,
+    205585,
+    205620,
+    205655,
+    205690,
+    205725,
+    205760
+  ]
+}

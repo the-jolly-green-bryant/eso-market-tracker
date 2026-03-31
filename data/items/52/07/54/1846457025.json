@@ -1,0 +1,10 @@
+{
+  "internalId": 1846457025,
+  "name": "Cave Deposit, Spire",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_mphstalag007.png",
+  "bindType": -1,
+  "knownIds": [
+    134941
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2489465293,
+  "name": "Mundus Stone - the Lover",
+  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Lover.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ability_mundusstones_011.png",
+  "bindType": 3,
+  "knownIds": [
+    211329
+  ]
+}

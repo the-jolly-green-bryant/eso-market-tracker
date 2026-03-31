@@ -1,0 +1,20 @@
+{
+  "internalId": 1514665277,
+  "name": "leather guards of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": -1,
+  "knownIds": [
+    643425,
+    642886,
+    523599,
+    462473,
+    550482,
+    789986,
+    871387,
+    871581,
+    871805,
+    871807,
+    893802
+  ]
+}

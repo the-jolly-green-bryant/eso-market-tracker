@@ -1,0 +1,16 @@
+{
+  "internalId": 2332335162,
+  "name": "Battle Axe of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85638,
+    85659,
+    85680,
+    85701,
+    85722,
+    85743,
+    85764
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1575201042,
+  "name": "Pillager's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1586991,
+    1587499,
+    1599421,
+    1633825,
+    1657978,
+    1697778,
+    1731686,
+    1770077,
+    1776381,
+    1777369
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 264296621,
+  "name": "Druid's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185560,
+    185615,
+    185650,
+    185685,
+    185720,
+    185755,
+    185790,
+    185825,
+    185860,
+    185895
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2949537611,
+  "name": "Greatsword of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86568,
+    86588,
+    86608,
+    86628,
+    86648,
+    86668,
+    86688,
+    86708
+  ]
+}

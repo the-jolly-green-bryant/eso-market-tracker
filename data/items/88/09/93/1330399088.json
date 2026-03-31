@@ -1,0 +1,10 @@
+{
+  "internalId": 1330399088,
+  "name": "Starmetal",
+  "description": "An ingredient for crafting in the Redguard style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_medium_armor_sp_names_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33258
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2552563992,
+  "name": "Steel Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    5370,
+    5389,
+    5402,
+    26574
+  ]
+}

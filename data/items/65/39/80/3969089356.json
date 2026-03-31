@@ -1,0 +1,10 @@
+{
+  "internalId": 3969089356,
+  "name": "Magnus' Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    56319
+  ]
+}

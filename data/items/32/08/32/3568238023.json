@@ -1,0 +1,16 @@
+{
+  "internalId": 3568238023,
+  "name": "Hat of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    178954,
+    178989,
+    179024,
+    179059,
+    179094,
+    179129,
+    179164
+  ]
+}

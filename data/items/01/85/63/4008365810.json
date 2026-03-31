@@ -1,0 +1,11 @@
+{
+  "internalId": 4008365810,
+  "name": "major glyph of increase physical harm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increaseweapondamage.png",
+  "bindType": -1,
+  "knownIds": [
+    380329,
+    1486536
+  ]
+}

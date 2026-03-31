@@ -1,0 +1,10 @@
+{
+  "internalId": 3986815831,
+  "name": "Dencent Family Heirloom",
+  "description": "Alexia Dencent bestowed this ring for aiding her outside Aldcroft.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    1121
+  ]
+}

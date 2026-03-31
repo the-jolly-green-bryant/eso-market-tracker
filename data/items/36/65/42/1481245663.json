@@ -1,0 +1,22 @@
+{
+  "internalId": 1481245663,
+  "name": "Vrol's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_dagger.png",
+  "bindType": -1,
+  "knownIds": [
+    1383917,
+    1387068,
+    1389253,
+    1395219,
+    1413746,
+    1416072,
+    1458952,
+    1549526,
+    1560706,
+    1614496,
+    1615239,
+    1745726,
+    1777464
+  ]
+}

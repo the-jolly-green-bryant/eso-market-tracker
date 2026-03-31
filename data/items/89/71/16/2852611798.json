@@ -1,0 +1,10 @@
+{
+  "internalId": 2852611798,
+  "name": "Dawnwood Container, Metal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bossmallstoragecontainer001.png",
+  "bindType": -1,
+  "knownIds": [
+    211391
+  ]
+}

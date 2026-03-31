@@ -1,0 +1,10 @@
+{
+  "internalId": 2859294496,
+  "name": "Crafting Motif 28: Ra Gada Gloves",
+  "description": "Use to learn how to make Ra Gada Gloves. Also teaches the equivalent Ra Gada Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    71679
+  ]
+}

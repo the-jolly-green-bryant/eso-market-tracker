@@ -1,0 +1,18 @@
+{
+  "internalId": 280492811,
+  "name": "leather boots of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    689313,
+    635715,
+    635680,
+    659682,
+    635213,
+    438103,
+    705166,
+    615457,
+    871430
+  ]
+}

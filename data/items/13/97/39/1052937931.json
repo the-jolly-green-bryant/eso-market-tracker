@@ -1,0 +1,17 @@
+{
+  "internalId": 1052937931,
+  "name": "Dead-Water's Guile Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142437,
+    142457,
+    142477,
+    142497,
+    142517,
+    142537,
+    142557,
+    142577
+  ]
+}

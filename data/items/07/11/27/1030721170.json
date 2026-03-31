@@ -1,0 +1,17 @@
+{
+  "internalId": 1030721170,
+  "name": "Inferno Staff of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86571,
+    86591,
+    86611,
+    86631,
+    86651,
+    86671,
+    86691,
+    86711
+  ]
+}

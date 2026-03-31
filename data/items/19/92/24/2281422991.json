@@ -1,0 +1,22 @@
+{
+  "internalId": 2281422991,
+  "name": "Widowmaker Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1190349,
+    1354215,
+    1398590,
+    1400588,
+    1539079,
+    1561120,
+    1573643,
+    1619875,
+    1629654,
+    1639259,
+    1679840,
+    1687213,
+    1722161
+  ]
+}

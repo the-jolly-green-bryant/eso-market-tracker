@@ -1,0 +1,11 @@
+{
+  "internalId": 2225598824,
+  "name": "Ebon Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_dagger_b.png",
+  "bindType": 2,
+  "knownIds": [
+    212282,
+    212290
+  ]
+}

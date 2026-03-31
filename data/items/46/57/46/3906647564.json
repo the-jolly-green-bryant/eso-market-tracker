@@ -1,0 +1,17 @@
+{
+  "internalId": 3906647564,
+  "name": "Arm Cops of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92831,
+    92851,
+    92871,
+    92891,
+    92911,
+    92931,
+    92951,
+    92971
+  ]
+}

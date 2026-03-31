@@ -1,0 +1,17 @@
+{
+  "internalId": 2921356941,
+  "name": "Smuggler's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100957,
+    100978,
+    100999,
+    101020,
+    101041,
+    101062,
+    101083,
+    101104
+  ]
+}

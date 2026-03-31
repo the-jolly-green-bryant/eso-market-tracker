@@ -1,0 +1,10 @@
+{
+  "internalId": 3666344352,
+  "name": "Leyawiin Tapestry, Hunting Party",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_tapestrylarge003.png",
+  "bindType": -1,
+  "knownIds": [
+    181504
+  ]
+}

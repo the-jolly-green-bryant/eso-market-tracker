@@ -1,0 +1,10 @@
+{
+  "internalId": 2325882582,
+  "name": "Worm Cult Mill, Grinding",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_miningmill001.png",
+  "bindType": -1,
+  "knownIds": [
+    220305
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": 3529417456,
+  "name": "Imperial Warhammer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_2hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    814235,
+    787994,
+    837717,
+    899576,
+    944310,
+    1074692,
+    1157580,
+    1187845,
+    1230509,
+    1233865,
+    1338451,
+    1378925,
+    1406963,
+    1461723,
+    1500162,
+    1509195,
+    1699210,
+    1731520
+  ]
+}

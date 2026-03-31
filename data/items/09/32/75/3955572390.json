@@ -1,0 +1,10 @@
+{
+  "internalId": 3955572390,
+  "name": "Camonna Tong",
+  "description": "A Medium Armor set found in the Telvanni Peninsula.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    196033
+  ]
+}

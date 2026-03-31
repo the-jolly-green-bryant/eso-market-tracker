@@ -1,0 +1,13 @@
+{
+  "internalId": 1084175847,
+  "name": "Ice Staff of the Sergeant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89714,
+    89734,
+    89754,
+    89774
+  ]
+}

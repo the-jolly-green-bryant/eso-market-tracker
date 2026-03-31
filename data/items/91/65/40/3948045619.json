@@ -1,0 +1,19 @@
+{
+  "internalId": 3948045619,
+  "name": "Seeker Synthesis Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195339,
+    195394,
+    195429,
+    195464,
+    195499,
+    195534,
+    195569,
+    195604,
+    195639,
+    195674
+  ]
+}

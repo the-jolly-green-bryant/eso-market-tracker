@@ -1,0 +1,19 @@
+{
+  "internalId": 35971406,
+  "name": "Tharriker's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205411,
+    205466,
+    205501,
+    205536,
+    205571,
+    205606,
+    205641,
+    205676,
+    205711,
+    205746
+  ]
+}

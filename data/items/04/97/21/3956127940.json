@@ -1,0 +1,10 @@
+{
+  "internalId": 3956127940,
+  "name": "Necromancer's Skullcap",
+  "description": "White and seemingly made of bone, this skullcap would be intimidating in any company.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    208153
+  ]
+}

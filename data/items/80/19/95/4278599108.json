@@ -1,0 +1,15 @@
+{
+  "internalId": 4278599108,
+  "name": "Necklace of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139752,
+    139842,
+    139932,
+    140022,
+    140112,
+    140202
+  ]
+}

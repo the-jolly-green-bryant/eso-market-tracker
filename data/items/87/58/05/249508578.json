@@ -1,0 +1,10 @@
+{
+  "internalId": 249508578,
+  "name": "The Chimera Tapestry, Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrychimeralarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    192402
+  ]
+}

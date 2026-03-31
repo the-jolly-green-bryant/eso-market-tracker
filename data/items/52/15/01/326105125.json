@@ -1,0 +1,11 @@
+{
+  "internalId": 326105125,
+  "name": "Seaflower Tea",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
+  "bindType": -1,
+  "knownIds": [
+    61048,
+    34005
+  ]
+}

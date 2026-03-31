@@ -1,0 +1,10 @@
+{
+  "internalId": 382728261,
+  "name": "Deep Folk Shortblade",
+  "description": "A dagger recovered from the Reachwind Depths. Despite its age, the blade remains razor sharp.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167396
+  ]
+}

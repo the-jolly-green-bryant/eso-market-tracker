@@ -1,0 +1,10 @@
+{
+  "internalId": 432319679,
+  "name": "Nesting Boulder, Green",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_inferniumooze006.png",
+  "bindType": -1,
+  "knownIds": [
+    194421
+  ]
+}

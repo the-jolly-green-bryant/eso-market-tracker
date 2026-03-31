@@ -1,0 +1,10 @@
+{
+  "internalId": 2290019931,
+  "name": "Imperial Bookcase, Scrollwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_bookcasetall001.png",
+  "bindType": -1,
+  "knownIds": [
+    94137
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3350200413,
+  "name": "Dagger of Transmutation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199591,
+    199592,
+    199593,
+    199594,
+    199595
+  ]
+}

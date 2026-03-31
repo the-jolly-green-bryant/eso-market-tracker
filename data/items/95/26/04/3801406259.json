@@ -1,0 +1,17 @@
+{
+  "internalId": 3801406259,
+  "name": "Bow of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204248,
+    204268,
+    204288,
+    204308,
+    204328,
+    204348,
+    204368,
+    204388
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 2759594283,
+  "name": "Sithis' Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77521,
+    77523,
+    77525
+  ]
+}

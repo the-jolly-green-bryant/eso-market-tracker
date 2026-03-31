@@ -1,0 +1,18 @@
+{
+  "internalId": 1127345371,
+  "name": "Pillar of Nirn Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1173154,
+    1397245,
+    1397299,
+    1589368,
+    1594751,
+    1600970,
+    1608091,
+    1621873,
+    1725432
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "internalId": 3791699238,
+  "name": "Renald's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1332122,
+    1374389,
+    1400740,
+    1409078,
+    1440325,
+    1501247,
+    1543304,
+    1581484,
+    1590501,
+    1622286,
+    1622891,
+    1643861,
+    1682738,
+    1753525
+  ]
+}

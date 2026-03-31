@@ -1,0 +1,10 @@
+{
+  "internalId": 2125371210,
+  "name": "Dawnwood Lantern, Table",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_bostablelight002.png",
+  "bindType": -1,
+  "knownIds": [
+    204684
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1520633345,
+  "name": "Mace of Endurance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69062,
+    69075,
+    69088,
+    69101,
+    69114,
+    69127,
+    69140,
+    69153
+  ]
+}

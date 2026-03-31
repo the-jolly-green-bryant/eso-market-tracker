@@ -1,0 +1,16 @@
+{
+  "internalId": 2520669289,
+  "name": "Frozen Watcher's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1567823,
+    1586233,
+    1594800,
+    1616242,
+    1659365,
+    1735385,
+    1777327
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 210135734,
+  "name": "Exemplary Nirnhoned Sash",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Sash.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    81628
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3765348686,
+  "name": "Imperial Well, Covered",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_welllarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    94187
+  ]
+}

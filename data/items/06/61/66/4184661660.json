@@ -1,0 +1,10 @@
+{
+  "internalId": 4184661660,
+  "name": "Argonian Seat of Honor",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_leaderseat002.png",
+  "bindType": -1,
+  "knownIds": [
+    115516
+  ]
+}

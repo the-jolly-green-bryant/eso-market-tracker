@@ -1,0 +1,10 @@
+{
+  "internalId": 2540095949,
+  "name": "Runebox: Juggler's Knives",
+  "description": "Contains Juggler's Knives. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    96393
+  ]
+}

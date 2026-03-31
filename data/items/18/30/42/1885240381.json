@@ -1,0 +1,10 @@
+{
+  "internalId": 1885240381,
+  "name": "Craglorn Relief, Serpent",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_inc_carvedsnake001.png",
+  "bindType": -1,
+  "knownIds": [
+    139104
+  ]
+}

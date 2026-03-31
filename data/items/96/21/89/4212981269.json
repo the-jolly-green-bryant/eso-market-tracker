@@ -1,0 +1,17 @@
+{
+  "internalId": 4212981269,
+  "name": "Werewolf Hide Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    86016,
+    86036,
+    86056,
+    86076,
+    86096,
+    86116,
+    86136,
+    86156
+  ]
+}

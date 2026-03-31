@@ -1,0 +1,10 @@
+{
+  "internalId": 1615368692,
+  "name": "Yngrel's Mitts",
+  "description": "A trophy of your victory over Yngrel the Bloody, taken after you confronted him at Northwind Mine.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10988
+  ]
+}

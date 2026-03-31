@@ -1,0 +1,19 @@
+{
+  "internalId": 4279058619,
+  "name": "Maul of Drake's Rush",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1417219,
+    1417371,
+    1422772,
+    1508178,
+    1508731,
+    1544807,
+    1547922,
+    1568814,
+    1605534,
+    1623560
+  ]
+}

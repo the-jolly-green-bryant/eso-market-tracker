@@ -1,0 +1,17 @@
+{
+  "internalId": 2398105258,
+  "name": "Battle Axe of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194193,
+    194213,
+    194233,
+    194253,
+    194273,
+    194293,
+    194313,
+    194333
+  ]
+}

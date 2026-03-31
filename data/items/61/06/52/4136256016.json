@@ -1,0 +1,17 @@
+{
+  "internalId": 4136256016,
+  "name": "Old Growth Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191711,
+    191746,
+    191781,
+    191816,
+    191851,
+    191886,
+    191921,
+    191956
+  ]
+}

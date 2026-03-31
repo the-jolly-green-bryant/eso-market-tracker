@@ -1,0 +1,10 @@
+{
+  "internalId": 3515848013,
+  "name": "Leyawiin Censer, Iron Stand",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyincenseburner001.png",
+  "bindType": -1,
+  "knownIds": [
+    175659
+  ]
+}

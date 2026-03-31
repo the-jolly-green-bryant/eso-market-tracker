@@ -1,0 +1,10 @@
+{
+  "internalId": 551678183,
+  "name": "Ra Gada Statue, Battlemage",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varstatuesarmorlit001.png",
+  "bindType": -1,
+  "knownIds": [
+    134843
+  ]
+}

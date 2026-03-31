@@ -1,0 +1,17 @@
+{
+  "internalId": 757442106,
+  "name": "Mace of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98512,
+    98532,
+    98552,
+    98572,
+    98592,
+    98612,
+    98632,
+    98652
+  ]
+}

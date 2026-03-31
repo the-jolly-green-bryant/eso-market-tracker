@@ -1,0 +1,17 @@
+{
+  "internalId": 2270671986,
+  "name": "Champion of the Hist Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142241,
+    142261,
+    142281,
+    142301,
+    142321,
+    142341,
+    142361,
+    142381
+  ]
+}

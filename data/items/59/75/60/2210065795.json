@@ -1,0 +1,17 @@
+{
+  "internalId": 2210065795,
+  "name": "Livewire Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132687,
+    132707,
+    132727,
+    132747,
+    132767,
+    132787,
+    132807,
+    132827
+  ]
+}

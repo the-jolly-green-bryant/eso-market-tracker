@@ -1,0 +1,15 @@
+{
+  "internalId": 1509103516,
+  "name": "Mace of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93178,
+    93218,
+    93238,
+    93258,
+    93278,
+    93298
+  ]
+}

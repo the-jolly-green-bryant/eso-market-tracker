@@ -1,0 +1,15 @@
+{
+  "internalId": 397872100,
+  "name": "trifling glyph of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_magickaboost.png",
+  "bindType": -1,
+  "knownIds": [
+    413945,
+    529706,
+    590035,
+    450157,
+    529700,
+    412410
+  ]
+}

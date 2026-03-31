@@ -1,0 +1,14 @@
+{
+  "internalId": 3662897158,
+  "name": "Bracers of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93070,
+    93090,
+    93110,
+    93130,
+    93150
+  ]
+}

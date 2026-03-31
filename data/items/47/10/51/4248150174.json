@@ -1,0 +1,17 @@
+{
+  "internalId": 4248150174,
+  "name": "Prisoner's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101889,
+    101910,
+    101931,
+    101952,
+    101973,
+    101994,
+    102015,
+    102036
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3153088065,
+  "name": "Adept Rider's Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135945,
+    135980,
+    136015,
+    136050
+  ]
+}

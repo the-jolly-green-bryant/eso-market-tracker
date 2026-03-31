@@ -1,0 +1,10 @@
+{
+  "internalId": 1420013113,
+  "name": "Fragment of the Baron",
+  "description": "Consume Fragment of the Baron, along with fragments of the Vents, the Martyr, the Forgotten, the Sunspire, and Ash, to unlock the Skill Stylist: Puncture achievement and the Puncture, Lavaburst Skill Style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_shard_whitered.png",
+  "bindType": 3,
+  "knownIds": [
+    211311
+  ]
+}

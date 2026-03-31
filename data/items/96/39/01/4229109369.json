@@ -1,0 +1,10 @@
+{
+  "internalId": 4229109369,
+  "name": "Breton Terrier Mammoth Bone",
+  "description": "A tasty bone, perfect for gnawing. Collect 10 of these to attract a Breton Terrier pet.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_skeleton_arm_bone_001.png",
+  "bindType": -1,
+  "knownIds": [
+    171469
+  ]
+}

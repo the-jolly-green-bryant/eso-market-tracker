@@ -1,0 +1,10 @@
+{
+  "internalId": 129536877,
+  "name": "Fell's Run Hero Necklace of the Vampire's Cloak",
+  "description": "A pendant bestowed by Constable Aguza for aiding the people of Fell's Run.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_hands_002.png",
+  "bindType": 2,
+  "knownIds": [
+    7314
+  ]
+}

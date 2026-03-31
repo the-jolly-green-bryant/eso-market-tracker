@@ -1,0 +1,10 @@
+{
+  "internalId": 3870187473,
+  "name": "Nord Chandelier, Antler",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_chandelier001.png",
+  "bindType": -1,
+  "knownIds": [
+    115416
+  ]
+}

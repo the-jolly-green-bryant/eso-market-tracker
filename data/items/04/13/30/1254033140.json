@@ -1,0 +1,10 @@
+{
+  "internalId": 1254033140,
+  "name": "Argonian Totem, Frilled Skull",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_lizardtotem002.png",
+  "bindType": -1,
+  "knownIds": [
+    115463
+  ]
+}

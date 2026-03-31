@@ -1,0 +1,10 @@
+{
+  "internalId": 1249210257,
+  "name": "Serpentguard Rider Tapestry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryserpentguardridersmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    188284
+  ]
+}

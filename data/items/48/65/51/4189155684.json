@@ -1,0 +1,10 @@
+{
+  "internalId": 4189155684,
+  "name": "Collected Wanted Poster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_wantedposterxed001.png",
+  "bindType": -1,
+  "knownIds": [
+    120855
+  ]
+}

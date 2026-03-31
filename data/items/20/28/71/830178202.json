@@ -1,0 +1,19 @@
+{
+  "internalId": 830178202,
+  "name": "Storm-Cursed Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568214,
+    1570689,
+    1570711,
+    1599986,
+    1605589,
+    1615124,
+    1677731,
+    1724201,
+    1765815,
+    1772293
+  ]
+}

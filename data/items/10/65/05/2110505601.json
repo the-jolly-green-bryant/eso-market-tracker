@@ -1,0 +1,10 @@
+{
+  "internalId": 2110505601,
+  "name": "Veteran's Warhammer",
+  "description": "Battered from long use in the border wars between the Wood Elves and the Khajiit, there is fight in this weapon.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10932
+  ]
+}

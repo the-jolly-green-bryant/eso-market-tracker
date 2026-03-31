@@ -1,0 +1,18 @@
+{
+  "internalId": 570081038,
+  "name": "Tzogvin's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1326894,
+    1409139,
+    1561451,
+    1562001,
+    1587745,
+    1639390,
+    1731234,
+    1742988,
+    1763307
+  ]
+}

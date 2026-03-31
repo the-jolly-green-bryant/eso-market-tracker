@@ -1,0 +1,17 @@
+{
+  "internalId": 231848599,
+  "name": "Soldier of Anguish Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144468,
+    144488,
+    144508,
+    144528,
+    144548,
+    144568,
+    144588,
+    144608
+  ]
+}

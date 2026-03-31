@@ -1,0 +1,10 @@
+{
+  "internalId": 132910067,
+  "name": "Ironthread",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_ironthread.png",
+  "bindType": -1,
+  "knownIds": [
+    46132
+  ]
+}

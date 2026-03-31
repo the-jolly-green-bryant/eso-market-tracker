@@ -1,0 +1,12 @@
+{
+  "internalId": 2537795670,
+  "name": "lesser glyph of frost resist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_frostresist.png",
+  "bindType": -1,
+  "knownIds": [
+    450836,
+    1438621,
+    1579834
+  ]
+}

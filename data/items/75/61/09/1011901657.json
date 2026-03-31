@@ -1,0 +1,10 @@
+{
+  "internalId": 1011901657,
+  "name": "Elsweyr Lantern, Hanging Twist",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_lantern001.png",
+  "bindType": -1,
+  "knownIds": [
+    151737
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3046388707,
+  "name": "Looter's Helm",
+  "description": "A helm fit for ruin-rummaging. Zahra gave it to you after you helped her nab the Crown of Ascension.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43524
+  ]
+}

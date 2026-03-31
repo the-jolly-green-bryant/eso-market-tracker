@@ -1,0 +1,13 @@
+{
+  "internalId": 301314581,
+  "name": "Lightning Staff of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87382,
+    87403,
+    87424,
+    87445
+  ]
+}

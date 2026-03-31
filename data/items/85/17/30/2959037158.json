@@ -1,0 +1,10 @@
+{
+  "internalId": 2959037158,
+  "name": "Construct's Nullification Staff",
+  "description": "A nullification staff of Dwemer make, but with curious clockwork augments. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_exc_museumfactotemstaff.png",
+  "bindType": 3,
+  "knownIds": [
+    129913
+  ]
+}

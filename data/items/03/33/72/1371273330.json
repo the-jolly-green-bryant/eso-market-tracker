@@ -1,0 +1,17 @@
+{
+  "internalId": 1371273330,
+  "name": "Eagle Eye Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183206,
+    183210,
+    183214,
+    183218,
+    183222,
+    183226,
+    183230,
+    183234
+  ]
+}

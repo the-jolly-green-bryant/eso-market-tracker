@@ -1,0 +1,23 @@
+{
+  "internalId": 86633002,
+  "name": "Caluurion's Legacy Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1264656,
+    1264679,
+    1265442,
+    1306192,
+    1314156,
+    1347871,
+    1365311,
+    1403559,
+    1463586,
+    1494859,
+    1526703,
+    1625337,
+    1691621,
+    1764932
+  ]
+}

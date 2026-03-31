@@ -1,0 +1,10 @@
+{
+  "internalId": 3259112987,
+  "name": "Gruznak's Chestplate",
+  "description": "You earned this chestpiece by defeating Gruznak the Impatient at Malak's Maw.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    4323
+  ]
+}

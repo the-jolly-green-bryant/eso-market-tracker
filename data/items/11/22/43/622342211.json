@@ -1,0 +1,10 @@
+{
+  "internalId": 622342211,
+  "name": "Scavenged Intruder's Severer",
+  "description": "A well-made piece of equipment scavenged from the body of an extraplanar intruder.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_armamentofthekindred_2sword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    197817
+  ]
+}

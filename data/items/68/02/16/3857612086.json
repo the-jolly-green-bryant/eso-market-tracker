@@ -1,0 +1,10 @@
+{
+  "internalId": 3857612086,
+  "name": "Redoran Incense Holder, Ceramic Pan",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaincensedish001.png",
+  "bindType": -1,
+  "knownIds": [
+    126378
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2414233150,
+  "name": "Fiord's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100359
+  ]
+}

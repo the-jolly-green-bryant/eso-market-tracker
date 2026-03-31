@@ -1,0 +1,17 @@
+{
+  "internalId": 3103089567,
+  "name": "Bow of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80556,
+    80576,
+    80596,
+    80616,
+    80636,
+    80648,
+    80668,
+    80688
+  ]
+}

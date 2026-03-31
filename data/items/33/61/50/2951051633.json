@@ -1,0 +1,19 @@
+{
+  "internalId": 2951051633,
+  "name": "Test of Resolve Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_heavy_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1644301,
+    1645316,
+    1647243,
+    1652164,
+    1652233,
+    1661538,
+    1694955,
+    1698241,
+    1731453,
+    1756939
+  ]
+}

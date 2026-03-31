@@ -1,0 +1,15 @@
+{
+  "internalId": 1833365035,
+  "name": "Pillager's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1586987,
+    1595462,
+    1610018,
+    1621088,
+    1751654,
+    1773409
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": 1434002246,
+  "name": "Ophidian Inferno Staff of Celerity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1144520,
+    1152749,
+    1322140,
+    1365334,
+    1373464,
+    1393683,
+    1586610,
+    1601865,
+    1608722,
+    1641809,
+    1754539,
+    1765315,
+    1779082
+  ]
+}

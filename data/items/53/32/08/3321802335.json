@@ -1,0 +1,18 @@
+{
+  "internalId": 3321802335,
+  "name": "Shared Burden Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215181,
+    215216,
+    215251,
+    215286,
+    215321,
+    215356,
+    215391,
+    215426,
+    215461
+  ]
+}

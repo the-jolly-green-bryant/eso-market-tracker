@@ -1,0 +1,17 @@
+{
+  "internalId": 3766471361,
+  "name": "steel dagger of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    757101,
+    594830,
+    651817,
+    794408,
+    789559,
+    871170,
+    893869,
+    1128833
+  ]
+}

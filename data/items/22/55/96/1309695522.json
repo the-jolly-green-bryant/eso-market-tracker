@@ -1,0 +1,17 @@
+{
+  "internalId": 1309695522,
+  "name": "Jack of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92826,
+    92846,
+    92866,
+    92886,
+    92906,
+    92926,
+    92946,
+    92966
+  ]
+}

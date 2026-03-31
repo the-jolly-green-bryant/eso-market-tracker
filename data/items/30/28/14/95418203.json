@@ -1,0 +1,10 @@
+{
+  "internalId": 95418203,
+  "name": "Mushrooms, Glowing Field",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_maltorshroomslgglw006.png",
+  "bindType": -1,
+  "knownIds": [
+    134947
+  ]
+}

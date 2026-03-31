@@ -1,0 +1,10 @@
+{
+  "internalId": 4098400397,
+  "name": "Tree, Gentle Weeping Willow",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_mrkuplandwillow001.png",
+  "bindType": -1,
+  "knownIds": [
+    120736
+  ]
+}

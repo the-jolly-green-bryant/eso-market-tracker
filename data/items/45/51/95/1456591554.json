@@ -1,0 +1,10 @@
+{
+  "internalId": 1456591554,
+  "name": "Khajiit Monkey Call",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_whistle_001.png",
+  "bindType": -1,
+  "knownIds": [
+    403209
+  ]
+}

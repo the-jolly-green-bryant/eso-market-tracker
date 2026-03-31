@@ -1,0 +1,10 @@
+{
+  "internalId": 3646674537,
+  "name": "Alchemist's Audacious Alembic",
+  "description": "This container holds many, many, MANY potions and poisons. Do not shake.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsalchemy002.png",
+  "bindType": 3,
+  "knownIds": [
+    134669
+  ]
+}

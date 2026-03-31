@@ -1,0 +1,19 @@
+{
+  "internalId": 2935026212,
+  "name": "Sash of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179581,
+    179636,
+    179671,
+    179706,
+    179741,
+    179776,
+    179811,
+    179846,
+    179881,
+    179916
+  ]
+}

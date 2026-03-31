@@ -1,0 +1,10 @@
+{
+  "internalId": 3583028221,
+  "name": "Band of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    55899
+  ]
+}

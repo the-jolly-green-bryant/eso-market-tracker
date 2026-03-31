@@ -1,0 +1,10 @@
+{
+  "internalId": 1645212086,
+  "name": "Elsweyr Tapestry, Amber Vines",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_tapestry002.png",
+  "bindType": -1,
+  "knownIds": [
+    151759
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1431726775,
+  "name": "Mace of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158372,
+    158407,
+    158442,
+    158477,
+    158512,
+    158547,
+    158582,
+    158617,
+    158652
+  ]
+}

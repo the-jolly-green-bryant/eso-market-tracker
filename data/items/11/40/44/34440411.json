@@ -1,0 +1,19 @@
+{
+  "internalId": 34440411,
+  "name": "Telvanni Efficiency Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194964,
+    195019,
+    195054,
+    195089,
+    195124,
+    195159,
+    195194,
+    195229,
+    195264,
+    195299
+  ]
+}

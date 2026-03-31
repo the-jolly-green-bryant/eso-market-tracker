@@ -1,0 +1,10 @@
+{
+  "internalId": 1139897256,
+  "name": "Argonian Bowl, Wooden",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkbowl001.png",
+  "bindType": -1,
+  "knownIds": [
+    115445
+  ]
+}

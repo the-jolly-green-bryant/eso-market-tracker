@@ -1,0 +1,15 @@
+{
+  "internalId": 3649160605,
+  "name": "steel dagger of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    456987,
+    632337,
+    634023,
+    595777,
+    789487,
+    777752
+  ]
+}

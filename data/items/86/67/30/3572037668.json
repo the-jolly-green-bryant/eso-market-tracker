@@ -1,0 +1,10 @@
+{
+  "internalId": 3572037668,
+  "name": "Dres Cup, Mazte",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlacup002_full.png",
+  "bindType": -1,
+  "knownIds": [
+    126351
+  ]
+}

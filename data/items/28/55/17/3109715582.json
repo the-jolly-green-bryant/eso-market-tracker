@@ -1,0 +1,10 @@
+{
+  "internalId": 3109715582,
+  "name": "Redguard Urn, Star",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varhangingplanter003.png",
+  "bindType": -1,
+  "knownIds": [
+    117725
+  ]
+}

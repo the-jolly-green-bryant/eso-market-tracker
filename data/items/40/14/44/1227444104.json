@@ -1,0 +1,10 @@
+{
+  "internalId": 1227444104,
+  "name": "Rock, Gabbro Boulder Cluster",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_bad_smcluster001.png",
+  "bindType": -1,
+  "knownIds": [
+    181606
+  ]
+}

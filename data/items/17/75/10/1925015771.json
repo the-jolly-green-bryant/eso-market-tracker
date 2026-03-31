@@ -1,0 +1,19 @@
+{
+  "internalId": 1925015771,
+  "name": "Tide-Born Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215481,
+    215536,
+    215571,
+    215606,
+    215641,
+    215676,
+    215711,
+    215746,
+    215781,
+    215816
+  ]
+}

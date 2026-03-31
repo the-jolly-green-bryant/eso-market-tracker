@@ -1,0 +1,10 @@
+{
+  "internalId": 1328263940,
+  "name": "dram of Potent Health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1546432
+  ]
+}

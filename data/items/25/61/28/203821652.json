@@ -1,0 +1,17 @@
+{
+  "internalId": 203821652,
+  "name": "Plaguebreak Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180613,
+    180633,
+    180653,
+    180673,
+    180693,
+    180713,
+    180733,
+    180753
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3354324391,
+  "name": "Crafting Motif 106: Silver Rose Staves",
+  "description": "Use to learn how to make Silver Rose Staves. Also teaches the equivalent Silver Rose Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    178517
+  ]
+}

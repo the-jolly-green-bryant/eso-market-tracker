@@ -1,0 +1,10 @@
+{
+  "internalId": 3691837963,
+  "name": "Leyawiin at Night Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leywoodframepainting008.png",
+  "bindType": -1,
+  "knownIds": [
+    178445
+  ]
+}

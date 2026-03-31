@@ -1,0 +1,17 @@
+{
+  "internalId": 4151975561,
+  "name": "Shield of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76924,
+    76944,
+    76964,
+    76984,
+    77004,
+    77024,
+    77044,
+    77064
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2147490866,
+  "name": "Vampiric Divider, Ornate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampireroomdivider001.png",
+  "bindType": -1,
+  "knownIds": [
+    165607
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4204536771,
+  "name": "Restoration Staff of the Veiled Heritance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    94267,
+    94287,
+    94307,
+    94327,
+    94347,
+    94367,
+    94387,
+    94407
+  ]
+}

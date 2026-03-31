@@ -1,0 +1,10 @@
+{
+  "internalId": 25540919,
+  "name": "Stalhrim Shard",
+  "description": "This magic-imbued ice-mineral is used to craft items in the Stalhrim Frostcaster style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_stalhrim_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    114283
+  ]
+}

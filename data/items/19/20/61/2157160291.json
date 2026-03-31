@@ -1,0 +1,10 @@
+{
+  "internalId": 2157160291,
+  "name": "Telvanni Painting, Classic Forest",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_telpaintingbmedorg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126469
+  ]
+}

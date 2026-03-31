@@ -1,0 +1,19 @@
+{
+  "internalId": 2578974431,
+  "name": "Vastarie's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148698,
+    148753,
+    148788,
+    148823,
+    148858,
+    148893,
+    148928,
+    148963,
+    148998,
+    149033
+  ]
+}

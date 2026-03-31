@@ -1,0 +1,10 @@
+{
+  "internalId": 3593160407,
+  "name": "Redoran Bed, Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabedsingle002.png",
+  "bindType": -1,
+  "knownIds": [
+    126341
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 321800831,
+  "name": "Ebon Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactebonyheavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77604,
+    77659
+  ]
+}

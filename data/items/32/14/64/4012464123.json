@@ -1,0 +1,12 @@
+{
+  "internalId": 4012464123,
+  "name": "Noxious Boulder Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748917,
+    1749181,
+    1749782
+  ]
+}

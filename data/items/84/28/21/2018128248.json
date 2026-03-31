@@ -1,0 +1,10 @@
+{
+  "internalId": 2018128248,
+  "name": "Leyawiin Lightpost, Ornate",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylightpostb001.png",
+  "bindType": -1,
+  "knownIds": [
+    181508
+  ]
+}

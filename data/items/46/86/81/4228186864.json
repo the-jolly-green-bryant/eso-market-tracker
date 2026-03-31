@@ -1,0 +1,14 @@
+{
+  "internalId": 4228186864,
+  "name": "Girdle of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75142,
+    75162,
+    75182,
+    75202,
+    75222
+  ]
+}

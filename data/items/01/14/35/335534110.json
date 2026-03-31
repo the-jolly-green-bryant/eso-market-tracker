@@ -1,0 +1,19 @@
+{
+  "internalId": 335534110,
+  "name": "Tharriker's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205398,
+    205453,
+    205488,
+    205523,
+    205558,
+    205593,
+    205628,
+    205663,
+    205698,
+    205733
+  ]
+}

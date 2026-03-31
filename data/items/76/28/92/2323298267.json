@@ -1,0 +1,10 @@
+{
+  "internalId": 2323298267,
+  "name": "Imperial Pedestal, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_waf_wallssmallpost001.png",
+  "bindType": -1,
+  "knownIds": [
+    94112
+  ]
+}

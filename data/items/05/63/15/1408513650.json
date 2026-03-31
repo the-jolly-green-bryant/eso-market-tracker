@@ -1,0 +1,17 @@
+{
+  "internalId": 1408513650,
+  "name": "Steadfast's Mettle Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186087,
+    186107,
+    186127,
+    186147,
+    186167,
+    186187,
+    186207,
+    186227
+  ]
+}

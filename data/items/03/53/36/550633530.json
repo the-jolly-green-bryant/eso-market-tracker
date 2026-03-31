@@ -1,0 +1,17 @@
+{
+  "internalId": 550633530,
+  "name": "Snake in the Stars Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    193853,
+    193874,
+    193895,
+    193916,
+    193937,
+    193958,
+    193979,
+    194000
+  ]
+}

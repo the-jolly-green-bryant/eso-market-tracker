@@ -1,0 +1,17 @@
+{
+  "internalId": 2207784512,
+  "name": "Battalion Defender Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144841,
+    144861,
+    144881,
+    144901,
+    144921,
+    144941,
+    144961,
+    144981
+  ]
+}

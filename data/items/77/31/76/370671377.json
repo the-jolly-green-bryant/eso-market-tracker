@@ -1,0 +1,10 @@
+{
+  "internalId": 370671377,
+  "name": "Galatite Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ingot_galatite.png",
+  "bindType": -1,
+  "knownIds": [
+    46128
+  ]
+}

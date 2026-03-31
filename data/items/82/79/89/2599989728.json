@@ -1,0 +1,18 @@
+{
+  "internalId": 2599989728,
+  "name": "Shared Burden Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215164,
+    215199,
+    215234,
+    215269,
+    215304,
+    215339,
+    215374,
+    215409,
+    215444
+  ]
+}

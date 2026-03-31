@@ -1,0 +1,25 @@
+{
+  "internalId": 2734858048,
+  "name": "Clothier's Satchel (Cloth) VII",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
+  "bindType": -1,
+  "knownIds": [
+    801179,
+    1159616,
+    1168750,
+    1256539,
+    1261642,
+    1262903,
+    1263075,
+    1267328,
+    1279527,
+    1282549,
+    1283637,
+    1329034,
+    1331398,
+    1332053,
+    1405770,
+    1540746
+  ]
+}

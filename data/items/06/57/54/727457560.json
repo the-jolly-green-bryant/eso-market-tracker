@@ -1,0 +1,22 @@
+{
+  "internalId": 727457560,
+  "name": "Battle Axe of Alkosh",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2haxe_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1133300,
+    1190502,
+    1194079,
+    1342866,
+    1349446,
+    1405978,
+    1409255,
+    1440492,
+    1610328,
+    1617352,
+    1627667,
+    1749874,
+    1775190
+  ]
+}

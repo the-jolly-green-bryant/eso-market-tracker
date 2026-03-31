@@ -1,0 +1,28 @@
+{
+  "internalId": 2048165597,
+  "name": "Draugr's Rest Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_bow_a.png.png",
+  "bindType": -1,
+  "knownIds": [
+    1181087,
+    1189813,
+    1190945,
+    1194059,
+    1334598,
+    1347993,
+    1374280,
+    1384667,
+    1516351,
+    1526970,
+    1531840,
+    1549193,
+    1560153,
+    1561751,
+    1567733,
+    1578176,
+    1605638,
+    1640788,
+    1778677
+  ]
+}

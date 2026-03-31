@@ -1,0 +1,10 @@
+{
+  "internalId": 901983271,
+  "name": "Nedic Skull Relief, Half",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_inc_doorhalf001.png",
+  "bindType": -1,
+  "knownIds": [
+    181540
+  ]
+}

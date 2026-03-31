@@ -1,0 +1,10 @@
+{
+  "internalId": 2072513428,
+  "name": "Nord Lantern, Cage",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_lanterncandle001.png",
+  "bindType": -1,
+  "knownIds": [
+    115356
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 3492303302,
+  "name": "Bow of the Turning Tide",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568974,
+    1569096,
+    1569398,
+    1573583,
+    1581043,
+    1619545,
+    1620080,
+    1646527,
+    1687162
+  ]
+}

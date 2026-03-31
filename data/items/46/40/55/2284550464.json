@@ -1,0 +1,17 @@
+{
+  "internalId": 2284550464,
+  "name": "Thunderbug's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99851,
+    99871,
+    99891,
+    99911,
+    99931,
+    99951,
+    99971,
+    99991
+  ]
+}

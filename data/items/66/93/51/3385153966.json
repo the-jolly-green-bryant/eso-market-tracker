@@ -1,0 +1,10 @@
+{
+  "internalId": 3385153966,
+  "name": "Scion of Giovesse Breastplate",
+  "description": "A chestpiece once worn by the Scion of Giovesse and presented to you for your efforts exploring the haunted Castle Giovesse.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    174850
+  ]
+}

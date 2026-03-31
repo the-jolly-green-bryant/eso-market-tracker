@@ -1,0 +1,14 @@
+{
+  "internalId": 1126020883,
+  "name": "Breeches of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87135,
+    87156,
+    87177,
+    87198,
+    87261
+  ]
+}

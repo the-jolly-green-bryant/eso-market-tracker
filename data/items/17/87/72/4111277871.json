@@ -1,0 +1,10 @@
+{
+  "internalId": 4111277871,
+  "name": "Pillow Roll, Faded Yellow",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofapillowcylinderworn003.png",
+  "bindType": -1,
+  "knownIds": [
+    118258
+  ]
+}

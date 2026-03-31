@@ -1,0 +1,11 @@
+{
+  "internalId": 2916370116,
+  "name": "Telvanni Enforcer Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1629536,
+    1631925
+  ]
+}

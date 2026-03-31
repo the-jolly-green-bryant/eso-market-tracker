@@ -1,0 +1,28 @@
+{
+  "internalId": 3849623169,
+  "name": "Leviathan Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1146123,
+    1159952,
+    1177895,
+    1191122,
+    1262395,
+    1293616,
+    1319475,
+    1335523,
+    1342891,
+    1353728,
+    1388466,
+    1404389,
+    1514819,
+    1548183,
+    1552412,
+    1594406,
+    1604749,
+    1620559,
+    1764294
+  ]
+}

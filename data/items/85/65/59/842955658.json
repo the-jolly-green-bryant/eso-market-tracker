@@ -1,0 +1,10 @@
+{
+  "internalId": 842955658,
+  "name": "Deadlands Demolisher Light Armor",
+  "description": "A Crafted Armor set constructed in the Deadlands.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182743
+  ]
+}

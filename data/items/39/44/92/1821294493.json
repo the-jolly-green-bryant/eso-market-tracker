@@ -1,0 +1,10 @@
+{
+  "internalId": 1821294493,
+  "name": "Boulder, Lunar Spire",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_medvariant003.png",
+  "bindType": -1,
+  "knownIds": [
+    151852
+  ]
+}

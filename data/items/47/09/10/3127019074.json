@@ -1,0 +1,10 @@
+{
+  "internalId": 3127019074,
+  "name": "Grave-Stake, Large Skull",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkburialstick002.png",
+  "bindType": -1,
+  "knownIds": [
+    145440
+  ]
+}

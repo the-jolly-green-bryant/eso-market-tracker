@@ -1,0 +1,10 @@
+{
+  "internalId": 1429935511,
+  "name": "High Elf Medal, Winged",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_str_wallseal001.png",
+  "bindType": -1,
+  "knownIds": [
+    114413
+  ]
+}

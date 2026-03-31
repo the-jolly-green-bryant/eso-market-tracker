@@ -1,0 +1,19 @@
+{
+  "internalId": 881637425,
+  "name": "Gloves of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70645,
+    70680,
+    70715,
+    70750,
+    70785,
+    70820,
+    70855,
+    70890,
+    70925,
+    70960
+  ]
+}

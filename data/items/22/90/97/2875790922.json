@@ -1,0 +1,10 @@
+{
+  "internalId": 2875790922,
+  "name": "Sealed Urn",
+  "description": "This rusty urn clearly originated in Coldharbour. It has been tightly sealed. Your name is burned into the side.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54986
+  ]
+}

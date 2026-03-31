@@ -1,0 +1,13 @@
+{
+  "internalId": 3388093697,
+  "name": "Maul of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129582,
+    129594,
+    129606,
+    129618
+  ]
+}

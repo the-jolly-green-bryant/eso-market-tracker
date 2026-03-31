@@ -1,0 +1,10 @@
+{
+  "internalId": 3861807572,
+  "name": "Thespian's Ring",
+  "description": "I won't tell you, I'll show you! That's the essence of storytelling. Show, don't tell. - Sheogorath",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    61012
+  ]
+}

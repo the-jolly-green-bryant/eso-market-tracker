@@ -1,0 +1,10 @@
+{
+  "internalId": 987264839,
+  "name": "Solitude Serving Basket, Wicker",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodboweals001.png",
+  "bindType": -1,
+  "knownIds": [
+    165768
+  ]
+}

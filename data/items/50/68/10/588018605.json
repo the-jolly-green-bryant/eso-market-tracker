@@ -1,0 +1,10 @@
+{
+  "internalId": 588018605,
+  "name": "Venomdream Cuirass",
+  "description": "The highest-ranking Hidden Kindred receive armor bearing the benedictions of Vaermina and Peryite.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_armamentkindred_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    197797
+  ]
+}

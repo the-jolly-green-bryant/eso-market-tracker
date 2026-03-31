@@ -1,0 +1,13 @@
+{
+  "internalId": 302085421,
+  "name": "Marksman's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199450,
+    199451,
+    199452,
+    199453
+  ]
+}

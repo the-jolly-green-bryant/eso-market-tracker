@@ -1,0 +1,17 @@
+{
+  "internalId": 1025271206,
+  "name": "Thunderbug's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_bow_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99847,
+    99867,
+    99887,
+    99907,
+    99927,
+    99947,
+    99967,
+    99987
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3630603445,
+  "name": "Daring Corsair's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155437,
+    155492,
+    155527,
+    155562,
+    155597,
+    155632,
+    155667,
+    155702,
+    155737,
+    155772
+  ]
+}

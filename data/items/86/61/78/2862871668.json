@@ -1,0 +1,14 @@
+{
+  "internalId": 2862871668,
+  "name": "Pelinal's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76270,
+    76305,
+    76340,
+    76375,
+    76410
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4141274957,
+  "name": "Orcish Brazier, Bordered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgbrazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    116463
+  ]
+}

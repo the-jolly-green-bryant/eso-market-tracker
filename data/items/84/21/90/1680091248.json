@@ -1,0 +1,10 @@
+{
+  "internalId": 1680091248,
+  "name": "A Cheap Trinket",
+  "description": "A tarnished ring earned for reuniting a scholar and his guide in the spider-infested caverns of the Sunken Road in Bangkorai.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    15616
+  ]
+}

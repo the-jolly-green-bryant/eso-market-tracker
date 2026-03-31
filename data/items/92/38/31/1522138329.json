@@ -1,0 +1,28 @@
+{
+  "internalId": 1522138329,
+  "name": "Blood Moon Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1264456,
+    1268269,
+    1282312,
+    1286477,
+    1293395,
+    1300854,
+    1320081,
+    1435272,
+    1449902,
+    1460996,
+    1526647,
+    1566877,
+    1569582,
+    1570853,
+    1630649,
+    1736563,
+    1746726,
+    1750402,
+    1769972
+  ]
+}

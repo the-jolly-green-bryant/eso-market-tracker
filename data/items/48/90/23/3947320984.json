@@ -1,0 +1,10 @@
+{
+  "internalId": 3947320984,
+  "name": "Beets, Display",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_horizbeets001.png",
+  "bindType": -1,
+  "knownIds": [
+    118001
+  ]
+}

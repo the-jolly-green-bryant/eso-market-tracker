@@ -1,0 +1,14 @@
+{
+  "internalId": 2444463050,
+  "name": "Shield of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87512,
+    87532,
+    87552,
+    87572,
+    87632
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 1591045467,
+  "name": "Draugrkin Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1370365,
+    1411757,
+    1462819,
+    1462825,
+    1482016,
+    1520459,
+    1525849,
+    1569233,
+    1583768,
+    1629109,
+    1684488,
+    1698450
+  ]
+}

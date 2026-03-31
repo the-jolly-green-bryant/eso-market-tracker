@@ -1,0 +1,19 @@
+{
+  "internalId": 366854919,
+  "name": "Girdle of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184790,
+    184845,
+    184880,
+    184915,
+    184950,
+    184985,
+    185020,
+    185055,
+    185090,
+    185125
+  ]
+}

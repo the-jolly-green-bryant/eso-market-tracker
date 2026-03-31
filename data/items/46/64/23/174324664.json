@@ -1,0 +1,17 @@
+{
+  "internalId": 174324664,
+  "name": "Netch Oil Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211936,
+    211956,
+    211976,
+    211996,
+    212016,
+    212036,
+    212056,
+    212076
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 3268343296,
+  "name": "Mace of Mephala's Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1082787,
+    1123684,
+    1304550,
+    1454619,
+    1512254,
+    1545977,
+    1594942,
+    1697258,
+    1735344
+  ]
+}

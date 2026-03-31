@@ -1,0 +1,10 @@
+{
+  "internalId": 1664374362,
+  "name": "Dark Elf Carpet, Fungal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_rug002.png",
+  "bindType": -1,
+  "knownIds": [
+    115310
+  ]
+}

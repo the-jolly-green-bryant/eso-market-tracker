@@ -1,0 +1,17 @@
+{
+  "internalId": 4195471566,
+  "name": "Impregnable Armor Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125711,
+    125746,
+    125781,
+    125816,
+    125851,
+    125886,
+    125921,
+    125956
+  ]
+}

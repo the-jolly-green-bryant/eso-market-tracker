@@ -1,0 +1,22 @@
+{
+  "internalId": 3661121937,
+  "name": "Thunder Caller's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1561922,
+    1568900,
+    1570979,
+    1582405,
+    1583082,
+    1583096,
+    1584020,
+    1590675,
+    1654887,
+    1717050,
+    1727310,
+    1772622,
+    1779737
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3060323237,
+  "name": "Bushes, Withered Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_mphdead001.png",
+  "bindType": -1,
+  "knownIds": [
+    183198,
+    134942
+  ]
+}

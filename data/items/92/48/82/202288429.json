@@ -1,0 +1,10 @@
+{
+  "internalId": 202288429,
+  "name": "Argonian Cage, Rat",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_smallcage002.png",
+  "bindType": -1,
+  "knownIds": [
+    115464
+  ]
+}

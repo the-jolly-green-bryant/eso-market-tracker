@@ -1,0 +1,12 @@
+{
+  "internalId": 1506031940,
+  "name": "Reflected Fury Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731438,
+    1746480,
+    1779216
+  ]
+}

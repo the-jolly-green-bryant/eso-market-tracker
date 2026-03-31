@@ -1,0 +1,10 @@
+{
+  "internalId": 4012966066,
+  "name": "Weapons: Oblivion's Edge",
+  "description": "A Medium Armor set found in Vaults of Madness.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134169
+  ]
+}

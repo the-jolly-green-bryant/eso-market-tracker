@@ -1,0 +1,10 @@
+{
+  "internalId": 2162667637,
+  "name": "Fisher's Catch of the Day Rack",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varharborfishrack001.png",
+  "bindType": -1,
+  "knownIds": [
+    121268
+  ]
+}

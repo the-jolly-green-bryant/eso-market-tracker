@@ -1,0 +1,10 @@
+{
+  "internalId": 1017373298,
+  "name": "Deadlands Curtains, Closed",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedcurtains001.png",
+  "bindType": -1,
+  "knownIds": [
+    182245
+  ]
+}

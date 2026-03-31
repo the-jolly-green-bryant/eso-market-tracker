@@ -1,0 +1,10 @@
+{
+  "internalId": 831972866,
+  "name": "Solitude Wardrobe, Rustic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_armoir001.png",
+  "bindType": -1,
+  "knownIds": [
+    165683
+  ]
+}

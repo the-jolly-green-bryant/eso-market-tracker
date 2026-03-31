@@ -1,0 +1,17 @@
+{
+  "internalId": 2921171516,
+  "name": "Battle Axe of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117456,
+    117476,
+    117496,
+    117516,
+    117536,
+    117556,
+    117576,
+    117596
+  ]
+}

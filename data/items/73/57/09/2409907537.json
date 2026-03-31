@@ -1,0 +1,10 @@
+{
+  "internalId": 2409907537,
+  "name": "Wood Elf Banner, Mages Guild",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_lsb_nexusbannersmages001.png",
+  "bindType": -1,
+  "knownIds": [
+    203146
+  ]
+}

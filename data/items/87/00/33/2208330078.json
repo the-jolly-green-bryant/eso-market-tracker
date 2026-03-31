@@ -1,0 +1,19 @@
+{
+  "internalId": 2208330078,
+  "name": "Hat of the Depths",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_lgt_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1586998,
+    1593656,
+    1601853,
+    1601981,
+    1604843,
+    1608875,
+    1610341,
+    1618288,
+    1623580,
+    1624840
+  ]
+}

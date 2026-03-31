@@ -1,0 +1,10 @@
+{
+  "internalId": 928725470,
+  "name": "Shipment of Voidcloth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    942421
+  ]
+}

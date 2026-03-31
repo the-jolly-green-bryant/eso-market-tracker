@@ -1,0 +1,17 @@
+{
+  "internalId": 1099854786,
+  "name": "Dagger of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101705,
+    101725,
+    101745,
+    101765,
+    101785,
+    101805,
+    101825,
+    101845
+  ]
+}

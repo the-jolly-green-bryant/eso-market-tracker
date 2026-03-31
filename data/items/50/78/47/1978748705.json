@@ -1,0 +1,19 @@
+{
+  "internalId": 1978748705,
+  "name": "Daring Corsair's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155428,
+    155483,
+    155518,
+    155553,
+    155588,
+    155623,
+    155658,
+    155693,
+    155728,
+    155763
+  ]
+}

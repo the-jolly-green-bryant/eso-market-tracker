@@ -1,0 +1,14 @@
+{
+  "internalId": 4132774962,
+  "name": "Eternal Hunt Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72672,
+    72707,
+    72742,
+    72777,
+    72812
+  ]
+}

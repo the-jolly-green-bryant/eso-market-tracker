@@ -1,0 +1,10 @@
+{
+  "internalId": 2167337074,
+  "name": "Crafting Motif 133: Coldharbour Dominator Style",
+  "description": "Use to learn the Coldharbour Dominator crafting style. Also teaches the equivalent Coldharbour Dominator Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    212101
+  ]
+}

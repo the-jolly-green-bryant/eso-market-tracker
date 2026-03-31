@@ -1,0 +1,14 @@
+{
+  "internalId": 1760836300,
+  "name": "Shield of Transmutation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199571,
+    199572,
+    199573,
+    199574,
+    199575
+  ]
+}

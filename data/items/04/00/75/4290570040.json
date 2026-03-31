@@ -1,0 +1,22 @@
+{
+  "internalId": 4290570040,
+  "name": "Null Arca Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1726313,
+    1726422,
+    1727028,
+    1731949,
+    1731962,
+    1732820,
+    1732942,
+    1732952,
+    1733260,
+    1743002,
+    1744471,
+    1747249,
+    1753347
+  ]
+}

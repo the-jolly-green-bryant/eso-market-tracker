@@ -1,0 +1,10 @@
+{
+  "internalId": 3206835567,
+  "name": "Champion's Cuirass",
+  "description": "By slaying ancient Redguard foes in HoonDing's Watch, you earned this trusty armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7552
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 4291088970,
+  "name": "Ring of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139710,
+    139800,
+    139890,
+    139980,
+    140070,
+    140160
+  ]
+}

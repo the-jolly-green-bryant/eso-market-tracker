@@ -1,0 +1,10 @@
+{
+  "internalId": 2550967918,
+  "name": "Colovian Well, Destroyed Dawnwood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_wellovergrowth002.png",
+  "bindType": -1,
+  "knownIds": [
+    217941
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2442540531,
+  "name": "Might of the Lost Legion Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143560,
+    143615,
+    143650,
+    143685,
+    143720,
+    143755,
+    143790,
+    143825,
+    143860,
+    143895
+  ]
+}

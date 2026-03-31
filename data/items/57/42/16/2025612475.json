@@ -1,0 +1,17 @@
+{
+  "internalId": 2025612475,
+  "name": "Maul of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194194,
+    194214,
+    194234,
+    194254,
+    194274,
+    194294,
+    194314,
+    194334
+  ]
+}

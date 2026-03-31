@@ -1,0 +1,19 @@
+{
+  "internalId": 335746210,
+  "name": "Tharriker's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205428,
+    205430,
+    205432,
+    205434,
+    205436,
+    205438,
+    205440,
+    205442,
+    205444,
+    205446
+  ]
+}

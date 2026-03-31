@@ -1,0 +1,18 @@
+{
+  "internalId": 1266313263,
+  "name": "Bow of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116714,
+    116735,
+    116756,
+    116777,
+    116798,
+    116819,
+    116840,
+    116861,
+    116882
+  ]
+}

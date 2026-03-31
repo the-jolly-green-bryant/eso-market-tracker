@@ -1,0 +1,10 @@
+{
+  "internalId": 4163352975,
+  "name": "Hist-Dooka Tablet",
+  "description": "A large stone tablet that represents the fifth month of the Argonian year, otherwise known as Mature Hist. Bring it to the Xinchei-Konu Monument calendar in Murkmire.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_arg_run_mrkfloorcalendarpanel001.png",
+  "bindType": 3,
+  "knownIds": [
+    141722
+  ]
+}

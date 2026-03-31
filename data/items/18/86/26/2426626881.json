@@ -1,0 +1,17 @@
+{
+  "internalId": 2426626881,
+  "name": "Mace of Glory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1284156,
+    1339087,
+    1366699,
+    1366749,
+    1419529,
+    1515553,
+    1523516,
+    1537575
+  ]
+}

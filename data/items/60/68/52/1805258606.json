@@ -1,0 +1,12 @@
+{
+  "internalId": 1805258606,
+  "name": "Sharpfang's Jagged Blade",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    397820,
+    506660,
+    783385
+  ]
+}

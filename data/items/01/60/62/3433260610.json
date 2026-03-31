@@ -1,0 +1,10 @@
+{
+  "internalId": 3433260610,
+  "name": "Weapons: Mother's Sorrow",
+  "description": "A Light Armor set found in Deshaan.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114143
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3438539989,
+  "name": "Common Trough",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_trough001.png",
+  "bindType": -1,
+  "knownIds": [
+    118014
+  ]
+}

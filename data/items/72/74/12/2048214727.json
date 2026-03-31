@@ -1,0 +1,19 @@
+{
+  "internalId": 2048214727,
+  "name": "Inferno Staff of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60654,
+    60689,
+    60724,
+    60759,
+    60794,
+    60829,
+    60864,
+    60899,
+    60934,
+    60969
+  ]
+}

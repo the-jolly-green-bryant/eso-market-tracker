@@ -1,0 +1,17 @@
+{
+  "internalId": 2999466061,
+  "name": "Lightning Staff of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93369,
+    93389,
+    93409,
+    93429,
+    93449,
+    93469,
+    93489,
+    93509
+  ]
+}

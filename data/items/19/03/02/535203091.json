@@ -1,0 +1,19 @@
+{
+  "internalId": 535203091,
+  "name": "Daring Corsair's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155419,
+    155474,
+    155509,
+    155544,
+    155579,
+    155614,
+    155649,
+    155684,
+    155719,
+    155754
+  ]
+}

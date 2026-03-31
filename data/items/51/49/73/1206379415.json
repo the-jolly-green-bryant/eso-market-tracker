@@ -1,0 +1,19 @@
+{
+  "internalId": 1206379415,
+  "name": "Arm Cops of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184804,
+    184859,
+    184894,
+    184929,
+    184964,
+    184999,
+    185034,
+    185069,
+    185104,
+    185139
+  ]
+}

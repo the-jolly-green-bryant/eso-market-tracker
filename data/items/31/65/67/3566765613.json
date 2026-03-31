@@ -1,0 +1,17 @@
+{
+  "internalId": 3566765613,
+  "name": "Wizard's Riposte Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123728,
+    123749,
+    123770,
+    123791,
+    123812,
+    123833,
+    123854,
+    123875
+  ]
+}

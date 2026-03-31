@@ -1,0 +1,11 @@
+{
+  "internalId": 3191871810,
+  "name": "Honeyberry Tea",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_006.png",
+  "bindType": -1,
+  "knownIds": [
+    32080,
+    28449
+  ]
+}

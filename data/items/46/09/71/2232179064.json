@@ -1,0 +1,18 @@
+{
+  "internalId": 2232179064,
+  "name": "Inferno Staff of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97227,
+    97248,
+    97269,
+    97290,
+    97311,
+    97332,
+    97353,
+    97374,
+    97395
+  ]
+}

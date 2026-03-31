@@ -1,0 +1,17 @@
+{
+  "internalId": 3132032929,
+  "name": "Witchman's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101520,
+    101540,
+    101560,
+    101580,
+    101600,
+    101620,
+    101640,
+    101660
+  ]
+}

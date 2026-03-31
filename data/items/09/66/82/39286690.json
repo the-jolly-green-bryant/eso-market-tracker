@@ -1,0 +1,17 @@
+{
+  "internalId": 39286690,
+  "name": "Shield of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92160,
+    92173,
+    92186,
+    92199,
+    92212,
+    92225,
+    92238,
+    92251
+  ]
+}

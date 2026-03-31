@@ -1,0 +1,10 @@
+{
+  "internalId": 3725137158,
+  "name": "Serpent-Rider Spaulders of the Twin Sisters",
+  "description": "Bearing the maker's mark of a Sea Elf leatherworker, this shoulder armor displays the scars of the fight for Greenwater Cove.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7588
+  ]
+}

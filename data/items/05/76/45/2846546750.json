@@ -1,0 +1,10 @@
+{
+  "internalId": 2846546750,
+  "name": "Chillwind Chitinous Gauntlets",
+  "description": "Armor given as a reward for helping Hamvir save his sister.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    159720
+  ]
+}

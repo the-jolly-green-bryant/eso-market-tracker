@@ -1,0 +1,10 @@
+{
+  "internalId": 3182707947,
+  "name": "Fungus, Gloomspore Ghost",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_skr_nidiformiswavehousing004.png",
+  "bindType": -1,
+  "knownIds": [
+    159438
+  ]
+}

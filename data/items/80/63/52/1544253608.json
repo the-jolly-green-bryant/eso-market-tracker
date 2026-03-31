@@ -1,0 +1,16 @@
+{
+  "internalId": 1544253608,
+  "name": "Knight Slayer Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123568,
+    123589,
+    123610,
+    123631,
+    123652,
+    123673,
+    123694
+  ]
+}

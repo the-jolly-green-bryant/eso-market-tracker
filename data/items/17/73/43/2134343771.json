@@ -1,0 +1,14 @@
+{
+  "internalId": 2134343771,
+  "name": "Eternal Hunt Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72695,
+    72730,
+    72765,
+    72800,
+    72835
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1457060996,
+  "name": "Ice Staff of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88906,
+    88926,
+    88946,
+    88966,
+    88986,
+    89006,
+    89026,
+    89046
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1216542113,
+  "name": "Sithis' Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77291,
+    77326,
+    77361,
+    77396,
+    77431,
+    77466,
+    77501
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3711930544,
+  "name": "Gold Undaunted Key",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_key_003.png",
+  "bindType": -1,
+  "knownIds": [
+    392625
+  ]
+}

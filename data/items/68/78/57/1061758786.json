@@ -1,0 +1,13 @@
+{
+  "internalId": 1061758786,
+  "name": "Lightning Staff of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129648,
+    129660,
+    129672,
+    129684
+  ]
+}

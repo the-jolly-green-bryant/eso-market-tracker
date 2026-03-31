@@ -1,0 +1,17 @@
+{
+  "internalId": 4056202668,
+  "name": "Witch-Knight's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167771,
+    167791,
+    167811,
+    167831,
+    167851,
+    167871,
+    167891,
+    167911
+  ]
+}

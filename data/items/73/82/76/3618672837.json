@@ -1,0 +1,17 @@
+{
+  "internalId": 3618672837,
+  "name": "Blessed Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1haxe_b.png",
+  "bindType": 2,
+  "knownIds": [
+    102255,
+    102275,
+    102295,
+    102315,
+    102335,
+    102355,
+    102375,
+    102395
+  ]
+}

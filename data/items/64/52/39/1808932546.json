@@ -1,0 +1,10 @@
+{
+  "internalId": 1808932546,
+  "name": "Nisswo Prayer Boots",
+  "description": "Light foot coverings used by Argonian priests and recovered from the ruins of Xi-Tsei.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    174858
+  ]
+}

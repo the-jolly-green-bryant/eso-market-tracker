@@ -1,0 +1,17 @@
+{
+  "internalId": 2938485609,
+  "name": "Gourmand's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190374,
+    190395,
+    190416,
+    190437,
+    190458,
+    190479,
+    190500,
+    190521
+  ]
+}

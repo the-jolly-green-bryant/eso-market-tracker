@@ -1,0 +1,10 @@
+{
+  "internalId": 1744504801,
+  "name": "Lost Knife Mining Brace",
+  "description": "Tridi gave you this medium-weight belt for intercepting the Stormfist courier and protecting the miners of Lost Knife Cave.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    29988
+  ]
+}

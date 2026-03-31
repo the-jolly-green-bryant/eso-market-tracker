@@ -1,0 +1,11 @@
+{
+  "internalId": 1799962189,
+  "name": "Dauntless Combatant's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159372,
+    159407
+  ]
+}

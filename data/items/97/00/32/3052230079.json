@@ -1,0 +1,17 @@
+{
+  "internalId": 3052230079,
+  "name": "Arm Cops of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93559,
+    93579,
+    93599,
+    93619,
+    93639,
+    93659,
+    93679,
+    93699
+  ]
+}

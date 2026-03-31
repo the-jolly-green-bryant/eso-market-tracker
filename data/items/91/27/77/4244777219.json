@@ -1,0 +1,10 @@
+{
+  "internalId": 4244777219,
+  "name": "Redoran Stool, Fungal Cushion",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlachair001.png",
+  "bindType": -1,
+  "knownIds": [
+    126449
+  ]
+}

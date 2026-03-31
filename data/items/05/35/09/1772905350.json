@@ -1,0 +1,17 @@
+{
+  "internalId": 1772905350,
+  "name": "Jerkin of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180447,
+    180468,
+    180489,
+    180510,
+    180531,
+    180552,
+    180573,
+    180594
+  ]
+}

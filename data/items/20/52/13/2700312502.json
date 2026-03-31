@@ -1,0 +1,17 @@
+{
+  "internalId": 2700312502,
+  "name": "Restoration Staff of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98704,
+    98725,
+    98746,
+    98767,
+    98788,
+    98809,
+    98830,
+    98851
+  ]
+}

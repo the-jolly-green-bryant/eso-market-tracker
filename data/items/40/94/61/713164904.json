@@ -1,0 +1,19 @@
+{
+  "internalId": 713164904,
+  "name": "Assassin's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121574,
+    121609,
+    121644,
+    121679,
+    121714,
+    121749,
+    121784,
+    121819,
+    121854,
+    121889
+  ]
+}

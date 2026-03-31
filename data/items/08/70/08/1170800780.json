@@ -1,0 +1,17 @@
+{
+  "internalId": 1170800780,
+  "name": "Warrior-Poet's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122617,
+    122637,
+    122657,
+    122677,
+    122697,
+    122717,
+    122737,
+    122757
+  ]
+}

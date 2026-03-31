@@ -1,0 +1,10 @@
+{
+  "internalId": 4096493607,
+  "name": "Elsweyr Candle, Column",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_floorlamp001.png",
+  "bindType": -1,
+  "knownIds": [
+    151736
+  ]
+}

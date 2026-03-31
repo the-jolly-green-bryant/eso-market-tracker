@@ -1,0 +1,17 @@
+{
+  "internalId": 3731940853,
+  "name": "Steadfast's Mettle Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186090,
+    186110,
+    186130,
+    186150,
+    186170,
+    186190,
+    186210,
+    186230
+  ]
+}

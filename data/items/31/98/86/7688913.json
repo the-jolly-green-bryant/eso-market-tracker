@@ -1,0 +1,17 @@
+{
+  "internalId": 7688913,
+  "name": "Coward's Gear Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123360,
+    123380,
+    123400,
+    123420,
+    123440,
+    123460,
+    123480,
+    123500
+  ]
+}

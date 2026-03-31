@@ -1,0 +1,17 @@
+{
+  "internalId": 519263554,
+  "name": "Coup De Grâce Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219333,
+    219353,
+    219373,
+    219393,
+    219413,
+    219433,
+    219453,
+    219473
+  ]
+}

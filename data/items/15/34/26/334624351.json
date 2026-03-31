@@ -1,0 +1,18 @@
+{
+  "internalId": 334624351,
+  "name": "Stuhn's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161293,
+    161328,
+    161363,
+    161398,
+    161433,
+    161468,
+    161503,
+    161538,
+    161573
+  ]
+}

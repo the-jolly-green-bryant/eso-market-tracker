@@ -1,0 +1,10 @@
+{
+  "internalId": 502392821,
+  "name": "Dres Bowl, Serving",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlabowl001.png",
+  "bindType": -1,
+  "knownIds": [
+    126347
+  ]
+}

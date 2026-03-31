@@ -1,0 +1,10 @@
+{
+  "internalId": 1056154229,
+  "name": "Leyawiin Jewelry Box, Gilded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybox001.png",
+  "bindType": -1,
+  "knownIds": [
+    175628
+  ]
+}

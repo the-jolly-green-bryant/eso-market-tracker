@@ -1,0 +1,10 @@
+{
+  "internalId": 3007170025,
+  "name": "Post, Barnacle Covered",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_dockpilling001.png",
+  "bindType": -1,
+  "knownIds": [
+    120700
+  ]
+}

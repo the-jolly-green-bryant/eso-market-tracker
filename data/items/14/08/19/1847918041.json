@@ -1,0 +1,19 @@
+{
+  "internalId": 1847918041,
+  "name": "Aegis Caller's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1362366,
+    1369720,
+    1387686,
+    1397962,
+    1402816,
+    1421379,
+    1499260,
+    1508411,
+    1560815,
+    1593463
+  ]
+}

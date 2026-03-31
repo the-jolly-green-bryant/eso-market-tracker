@@ -1,0 +1,19 @@
+{
+  "internalId": 3628348090,
+  "name": "Sword of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70650,
+    70685,
+    70720,
+    70755,
+    70790,
+    70825,
+    70860,
+    70895,
+    70930,
+    70965
+  ]
+}

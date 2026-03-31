@@ -1,0 +1,10 @@
+{
+  "internalId": 426096568,
+  "name": "Ravenwatch Mask",
+  "description": "Adusa-daro awarded this House Ravenwatch head covering for exposing the spy in Shornhelm.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7304
+  ]
+}

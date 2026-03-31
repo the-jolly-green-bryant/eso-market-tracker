@@ -1,0 +1,13 @@
+{
+  "internalId": 432760333,
+  "name": "Arm Cops of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131313,
+    131348,
+    131383,
+    131418
+  ]
+}

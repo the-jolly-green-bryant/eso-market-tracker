@@ -1,0 +1,17 @@
+{
+  "internalId": 4189688988,
+  "name": "Inferno Staff of Phylactery's Grasp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600796,
+    1602701,
+    1605687,
+    1623478,
+    1685517,
+    1731569,
+    1740272,
+    1751424
+  ]
+}

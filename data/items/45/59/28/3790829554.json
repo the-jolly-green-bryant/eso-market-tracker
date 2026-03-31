@@ -1,0 +1,17 @@
+{
+  "internalId": 3790829554,
+  "name": "Snake in the Stars Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    193865,
+    193886,
+    193907,
+    193928,
+    193949,
+    193970,
+    193991,
+    194012
+  ]
+}

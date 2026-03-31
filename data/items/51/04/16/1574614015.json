@@ -1,0 +1,11 @@
+{
+  "internalId": 1574614015,
+  "name": "Imperial Disguise",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    538375,
+    1456215
+  ]
+}

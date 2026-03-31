@@ -1,0 +1,11 @@
+{
+  "internalId": 1429642865,
+  "name": "Ebon Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactebonyheavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77607,
+    77662
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 75820239,
+  "name": "Z'en's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1412814,
+    1413383,
+    1493932,
+    1583634,
+    1622314,
+    1622970,
+    1629343
+  ]
+}

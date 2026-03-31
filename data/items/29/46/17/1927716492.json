@@ -1,0 +1,10 @@
+{
+  "internalId": 1927716492,
+  "name": "Colovian Window, Rectangular",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housingwallwindowinsertwood005.png",
+  "bindType": -1,
+  "knownIds": [
+    208095
+  ]
+}

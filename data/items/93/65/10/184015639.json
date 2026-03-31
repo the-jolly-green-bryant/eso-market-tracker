@@ -1,0 +1,16 @@
+{
+  "internalId": 184015639,
+  "name": "Curse-Eating Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90831,
+    90852,
+    90873,
+    90894,
+    90915,
+    90936,
+    90957
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 2119294136,
+  "name": "Xoryn's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_light_robe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719822,
+    1720431,
+    1726349,
+    1731787,
+    1732382,
+    1733152,
+    1742300,
+    1755194,
+    1757737,
+    1763935,
+    1777133
+  ]
+}

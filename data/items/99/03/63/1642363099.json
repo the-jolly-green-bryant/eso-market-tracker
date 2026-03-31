@@ -1,0 +1,17 @@
+{
+  "internalId": 1642363099,
+  "name": "Gloves of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91579,
+    91600,
+    91621,
+    91642,
+    91663,
+    91684,
+    91705,
+    91726
+  ]
+}

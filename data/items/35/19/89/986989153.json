@@ -1,0 +1,10 @@
+{
+  "internalId": 986989153,
+  "name": "Flowers, Reed Mace",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_reedmace002.png",
+  "bindType": -1,
+  "knownIds": [
+    175767
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 85559435,
+  "name": "Plaguebreak Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180604,
+    180624,
+    180644,
+    180664,
+    180684,
+    180704,
+    180724,
+    180744
+  ]
+}

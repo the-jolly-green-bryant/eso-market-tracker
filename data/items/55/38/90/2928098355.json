@@ -1,0 +1,10 @@
+{
+  "internalId": 2928098355,
+  "name": "Hat of the Magicka Furnace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    44153
+  ]
+}

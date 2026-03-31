@@ -1,0 +1,29 @@
+{
+  "internalId": 2414855648,
+  "name": "Shoes of Mending",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    941566,
+    945627,
+    980519,
+    1079179,
+    1085183,
+    1085223,
+    1143926,
+    1148656,
+    1226385,
+    1366010,
+    1484637,
+    1514329,
+    1544446,
+    1563344,
+    1602150,
+    1602908,
+    1634033,
+    1652073,
+    1658287,
+    1753408
+  ]
+}

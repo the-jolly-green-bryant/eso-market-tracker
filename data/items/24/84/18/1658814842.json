@@ -1,0 +1,10 @@
+{
+  "internalId": 1658814842,
+  "name": "High Elf Table, Winged Kitchen",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tablesquare001.png",
+  "bindType": -1,
+  "knownIds": [
+    114393
+  ]
+}

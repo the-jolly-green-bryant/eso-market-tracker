@@ -1,0 +1,15 @@
+{
+  "internalId": 1596228607,
+  "name": "Eye of the Grasp Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_axe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179968,
+    179989,
+    180010,
+    180031,
+    180052,
+    180073
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4137088973,
+  "name": "Enervating Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183585,
+    183605,
+    183625,
+    183645,
+    183665,
+    183685,
+    183705,
+    183725
+  ]
+}

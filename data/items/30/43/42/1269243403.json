@@ -1,0 +1,14 @@
+{
+  "internalId": 1269243403,
+  "name": "Pyrebrand Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731402,
+    1738628,
+    1751502,
+    1759467,
+    1779068
+  ]
+}

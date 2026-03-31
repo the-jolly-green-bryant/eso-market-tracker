@@ -1,0 +1,10 @@
+{
+  "internalId": 2396276260,
+  "name": "Knight Commander Tapestry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryknightcommandersmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    188278
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3929122093,
+  "name": "Crafting Motif 102: Sul-Xan Bows",
+  "description": "Use to learn how to make Sul-Xan Bows. Also teaches the equivalent Sul-Xan Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    171916
+  ]
+}

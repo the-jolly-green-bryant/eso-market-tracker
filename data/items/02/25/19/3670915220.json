@@ -1,0 +1,10 @@
+{
+  "internalId": 3670915220,
+  "name": "Dawnwood Firepit, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_cmp_boscookingfirepit001.png",
+  "bindType": -1,
+  "knownIds": [
+    211375
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1241954278,
+  "name": "Sload's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136071,
+    136106,
+    136141,
+    136176,
+    136211,
+    136246,
+    136281,
+    136316,
+    136351,
+    136386
+  ]
+}

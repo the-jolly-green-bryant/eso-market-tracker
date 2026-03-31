@@ -1,0 +1,14 @@
+{
+  "internalId": 3434945378,
+  "name": "Spell Parasite's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163281,
+    163316,
+    163351,
+    163386,
+    163421
+  ]
+}

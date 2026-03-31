@@ -1,0 +1,10 @@
+{
+  "internalId": 2815904269,
+  "name": "Telvanni Retainer's Ring",
+  "description": "You earned this ring by helping Sun-in-Shadow climb the ranks in House Telvanni.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126078
+  ]
+}

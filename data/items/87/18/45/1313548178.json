@@ -1,0 +1,10 @@
+{
+  "internalId": 1313548178,
+  "name": "Solitude Brazier, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_brazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    167302
+  ]
+}

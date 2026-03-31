@@ -1,0 +1,15 @@
+{
+  "internalId": 2598002898,
+  "name": "Greaves of Nikulas",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85288,
+    85308,
+    85328,
+    85348,
+    85368,
+    85408
+  ]
+}

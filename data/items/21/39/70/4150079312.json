@@ -1,0 +1,17 @@
+{
+  "internalId": 4150079312,
+  "name": "Impregnable Armor Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125700,
+    125735,
+    125770,
+    125805,
+    125840,
+    125875,
+    125910,
+    125945
+  ]
+}

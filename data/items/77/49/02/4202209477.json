@@ -1,0 +1,10 @@
+{
+  "internalId": 4202209477,
+  "name": "Alinor Candelabra, Wrought Iron",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_candelabra001.png",
+  "bindType": -1,
+  "knownIds": [
+    139205
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 937136809,
+  "name": "Rallying Cry Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183244,
+    183265,
+    183286,
+    183307,
+    183328,
+    183349,
+    183370,
+    183391
+  ]
+}

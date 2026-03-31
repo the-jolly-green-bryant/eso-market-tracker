@@ -1,0 +1,19 @@
+{
+  "internalId": 3758571156,
+  "name": "Hist Whisperer's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172464,
+    172519,
+    172554,
+    172589,
+    172624,
+    172659,
+    172694,
+    172729,
+    172764,
+    172799
+  ]
+}

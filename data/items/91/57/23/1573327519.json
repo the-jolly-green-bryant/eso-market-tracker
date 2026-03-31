@@ -1,0 +1,17 @@
+{
+  "internalId": 1573327519,
+  "name": "Plague Doctor's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97047,
+    97067,
+    97087,
+    97107,
+    97127,
+    97147,
+    97167,
+    97187
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1829024423,
+  "name": "Breeches of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75760,
+    75795,
+    75830,
+    75865,
+    75900,
+    75935,
+    75970,
+    76005,
+    76040,
+    76075
+  ]
+}

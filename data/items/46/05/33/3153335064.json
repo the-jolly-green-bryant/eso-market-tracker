@@ -1,0 +1,17 @@
+{
+  "internalId": 3153335064,
+  "name": "Sword of Explosive Rebuke",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1416185,
+    1417804,
+    1542387,
+    1562115,
+    1593950,
+    1615120,
+    1645360,
+    1690108
+  ]
+}

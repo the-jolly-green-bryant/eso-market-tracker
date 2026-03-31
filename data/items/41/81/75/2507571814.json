@@ -1,0 +1,17 @@
+{
+  "internalId": 2507571814,
+  "name": "Belt of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93378,
+    93398,
+    93418,
+    93438,
+    93458,
+    93478,
+    93498,
+    93518
+  ]
+}

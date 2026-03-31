@@ -1,0 +1,17 @@
+{
+  "internalId": 2671414962,
+  "name": "Sword of Endurance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69063,
+    69076,
+    69089,
+    69102,
+    69115,
+    69128,
+    69141,
+    69154
+  ]
+}

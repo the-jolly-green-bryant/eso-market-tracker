@@ -1,0 +1,10 @@
+{
+  "internalId": 342701778,
+  "name": "Joke Popper Parts",
+  "description": "Consuming 5 of these will grant you the \"Jester's Festival Joke Popper\" Achievement and Memento.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_metals_dwarven_scrap.png",
+  "bindType": -1,
+  "knownIds": [
+    147659
+  ]
+}

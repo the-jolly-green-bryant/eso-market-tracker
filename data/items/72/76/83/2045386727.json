@@ -1,0 +1,12 @@
+{
+  "internalId": 2045386727,
+  "name": "Aetheric Lancer Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1755110,
+    1755810,
+    1779096
+  ]
+}

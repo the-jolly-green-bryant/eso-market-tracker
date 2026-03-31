@@ -1,0 +1,32 @@
+{
+  "internalId": 3270264167,
+  "name": "Battle Axe of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_2haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    938844,
+    1078031,
+    1190258,
+    1230631,
+    1247509,
+    1335440,
+    1349368,
+    1353186,
+    1397400,
+    1400605,
+    1401031,
+    1419766,
+    1424004,
+    1424162,
+    1426212,
+    1458015,
+    1509152,
+    1541843,
+    1593726,
+    1603123,
+    1603185,
+    1619530,
+    1684723
+  ]
+}

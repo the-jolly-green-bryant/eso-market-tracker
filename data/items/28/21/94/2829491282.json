@@ -1,0 +1,11 @@
+{
+  "internalId": 2829491282,
+  "name": "Remnant of Deception",
+  "description": "Consume 25 Remnants of Deception, along with 25 Remnants of Cruelty, to unlock the Echo of the Abolisher achievement and the Echo of the Abolisher Memento!",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_vrdglasscrystal013.png",
+  "bindType": -1,
+  "knownIds": [
+    217924,
+    207814
+  ]
+}

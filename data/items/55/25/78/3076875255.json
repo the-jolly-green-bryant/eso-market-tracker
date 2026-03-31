@@ -1,0 +1,10 @@
+{
+  "internalId": 3076875255,
+  "name": "Wood Elf Bar, Drying",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_rackbar003.png",
+  "bindType": -1,
+  "knownIds": [
+    115556
+  ]
+}

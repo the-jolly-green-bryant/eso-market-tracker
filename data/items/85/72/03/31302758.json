@@ -1,0 +1,10 @@
+{
+  "internalId": 31302758,
+  "name": "Pit Daemon Rug, Vertical",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesskullrectenglerug001.png",
+  "bindType": -1,
+  "knownIds": [
+    211540
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 3786747226,
+  "name": "Staff of the Grove",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    792168,
+    856128,
+    856560,
+    1087154,
+    1135995,
+    1178600,
+    1190295,
+    1317296,
+    1418560,
+    1465389,
+    1509129,
+    1684633
+  ]
+}

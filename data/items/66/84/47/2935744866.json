@@ -1,0 +1,16 @@
+{
+  "internalId": 2935744866,
+  "name": "Helm of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168140,
+    168175,
+    168210,
+    168245,
+    168280,
+    168315,
+    168350
+  ]
+}

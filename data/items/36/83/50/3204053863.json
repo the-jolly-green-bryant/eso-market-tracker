@@ -1,0 +1,19 @@
+{
+  "internalId": 3204053863,
+  "name": "Cuirass of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71792,
+    71827,
+    71862,
+    71897,
+    71932,
+    71967,
+    72002,
+    72037,
+    72072,
+    72107
+  ]
+}

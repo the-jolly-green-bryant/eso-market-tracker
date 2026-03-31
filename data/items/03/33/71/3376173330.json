@@ -1,0 +1,26 @@
+{
+  "internalId": 3376173330,
+  "name": "grand glyph of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_frostessence.png",
+  "bindType": -1,
+  "knownIds": [
+    498986,
+    551823,
+    410055,
+    461392,
+    375844,
+    363812,
+    374891,
+    788040,
+    1596533,
+    1631836,
+    1631854,
+    1631871,
+    1654987,
+    1754356,
+    1757231,
+    1757272,
+    1757292
+  ]
+}

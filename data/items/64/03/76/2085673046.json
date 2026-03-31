@@ -1,0 +1,11 @@
+{
+  "internalId": 2085673046,
+  "name": "Stonehulk Domination Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1765199,
+    1770283
+  ]
+}

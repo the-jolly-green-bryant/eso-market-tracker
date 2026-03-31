@@ -1,0 +1,10 @@
+{
+  "internalId": 3055833073,
+  "name": "Elsweyr Pot, Floral",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_mediumpot002.png",
+  "bindType": -1,
+  "knownIds": [
+    151654
+  ]
+}

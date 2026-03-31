@@ -1,0 +1,19 @@
+{
+  "internalId": 2516776082,
+  "name": "Fortified Brass Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130727,
+    130762,
+    130797,
+    130832,
+    130867,
+    130902,
+    130937,
+    130972,
+    131007,
+    131042
+  ]
+}

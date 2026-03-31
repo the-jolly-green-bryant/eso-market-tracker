@@ -1,0 +1,19 @@
+{
+  "internalId": 827147898,
+  "name": "Assassin's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121582,
+    121617,
+    121652,
+    121687,
+    121722,
+    121757,
+    121792,
+    121827,
+    121862,
+    121897
+  ]
+}

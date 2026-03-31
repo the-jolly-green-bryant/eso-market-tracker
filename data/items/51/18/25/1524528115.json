@@ -1,0 +1,17 @@
+{
+  "internalId": 1524528115,
+  "name": "Bow of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90998,
+    91019,
+    91040,
+    91061,
+    91082,
+    91103,
+    91124,
+    91145
+  ]
+}

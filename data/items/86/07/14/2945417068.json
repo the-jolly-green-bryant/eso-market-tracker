@@ -1,0 +1,13 @@
+{
+  "internalId": 2945417068,
+  "name": "Indomitable Fury Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143996,
+    144017,
+    144038,
+    144059
+  ]
+}

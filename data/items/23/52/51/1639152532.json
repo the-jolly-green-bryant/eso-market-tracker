@@ -1,0 +1,17 @@
+{
+  "internalId": 1639152532,
+  "name": "Elegant Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80710,
+    80731,
+    80752,
+    80773,
+    80794,
+    80806,
+    80827,
+    80848
+  ]
+}

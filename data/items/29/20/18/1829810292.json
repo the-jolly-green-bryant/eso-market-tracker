@@ -1,0 +1,18 @@
+{
+  "internalId": 1829810292,
+  "name": "steel sword of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    434088,
+    411454,
+    434682,
+    551924,
+    576304,
+    793941,
+    411667,
+    642686,
+    789869
+  ]
+}

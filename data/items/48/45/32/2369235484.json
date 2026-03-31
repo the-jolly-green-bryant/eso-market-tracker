@@ -1,0 +1,10 @@
+{
+  "internalId": 2369235484,
+  "name": "Crafting Motif 80: Shield of Senchal Gloves",
+  "description": "Use to learn how to make Shield of Senchal Gloves. Also teaches the equivalent Shield of Senchal outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    156634
+  ]
+}

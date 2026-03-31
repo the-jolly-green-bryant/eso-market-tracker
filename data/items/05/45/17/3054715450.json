@@ -1,0 +1,10 @@
+{
+  "internalId": 3054715450,
+  "name": "Breton Street Post, Plain",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_postemptybaseless004.png",
+  "bindType": -1,
+  "knownIds": [
+    115209
+  ]
+}

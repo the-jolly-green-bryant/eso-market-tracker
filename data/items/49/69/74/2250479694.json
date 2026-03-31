@@ -1,0 +1,10 @@
+{
+  "internalId": 2250479694,
+  "name": "Knife, Carving",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsknife001.png",
+  "bindType": -1,
+  "knownIds": [
+    118121
+  ]
+}

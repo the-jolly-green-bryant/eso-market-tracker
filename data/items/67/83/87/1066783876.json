@@ -1,0 +1,19 @@
+{
+  "internalId": 1066783876,
+  "name": "Sload's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136079,
+    136114,
+    136149,
+    136184,
+    136219,
+    136254,
+    136289,
+    136324,
+    136359,
+    136394
+  ]
+}

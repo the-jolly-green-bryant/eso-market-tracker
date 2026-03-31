@@ -1,0 +1,17 @@
+{
+  "internalId": 3571545384,
+  "name": "Lightning Staff of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98703,
+    98724,
+    98745,
+    98766,
+    98787,
+    98808,
+    98829,
+    98850
+  ]
+}

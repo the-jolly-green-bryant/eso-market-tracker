@@ -1,0 +1,14 @@
+{
+  "internalId": 1770173466,
+  "name": "Blood Moon Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1266394,
+    1290358,
+    1532209,
+    1628088,
+    1633561
+  ]
+}

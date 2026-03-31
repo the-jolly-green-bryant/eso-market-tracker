@@ -1,0 +1,17 @@
+{
+  "internalId": 725076452,
+  "name": "Maul of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210542,
+    210562,
+    210582,
+    210602,
+    210622,
+    210642,
+    210662,
+    210682
+  ]
+}

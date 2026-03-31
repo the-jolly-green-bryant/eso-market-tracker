@@ -1,0 +1,19 @@
+{
+  "internalId": 1928161100,
+  "name": "Boots of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71804,
+    71839,
+    71874,
+    71909,
+    71944,
+    71979,
+    72014,
+    72049,
+    72084,
+    72119
+  ]
+}

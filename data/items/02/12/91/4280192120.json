@@ -1,0 +1,10 @@
+{
+  "internalId": 4280192120,
+  "name": "Roguish Escape Draught",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_010_type_003.png",
+  "bindType": -1,
+  "knownIds": [
+    74729
+  ]
+}

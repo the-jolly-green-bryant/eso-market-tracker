@@ -1,0 +1,15 @@
+{
+  "internalId": 3327274047,
+  "name": "Winterborn Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1406414,
+    1420530,
+    1420811,
+    1465604,
+    1517125,
+    1610722
+  ]
+}

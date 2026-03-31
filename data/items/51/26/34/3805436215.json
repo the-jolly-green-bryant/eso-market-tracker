@@ -1,0 +1,12 @@
+{
+  "internalId": 3805436215,
+  "name": "Greatsword of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173473,
+    173508,
+    173543
+  ]
+}

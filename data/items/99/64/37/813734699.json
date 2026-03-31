@@ -1,0 +1,10 @@
+{
+  "internalId": 813734699,
+  "name": "Recipe: Mage's Mead",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    45624
+  ]
+}

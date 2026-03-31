@@ -1,0 +1,10 @@
+{
+  "internalId": 1244476635,
+  "name": "Colovian Lamp, Brass",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_lamp001.png",
+  "bindType": -1,
+  "knownIds": [
+    204677
+  ]
+}

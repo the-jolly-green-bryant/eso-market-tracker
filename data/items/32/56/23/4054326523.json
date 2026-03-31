@@ -1,0 +1,15 @@
+{
+  "internalId": 4054326523,
+  "name": "Eternal Hunt Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139708,
+    139798,
+    139888,
+    139978,
+    140068,
+    140158
+  ]
+}

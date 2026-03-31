@@ -1,0 +1,11 @@
+{
+  "internalId": 2768229319,
+  "name": "Wrathsun Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1689590,
+    1690281
+  ]
+}

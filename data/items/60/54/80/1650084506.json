@@ -1,0 +1,10 @@
+{
+  "internalId": 1650084506,
+  "name": "Apocrypha Specimen Jar, Abyssal Eel",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjareel001.png",
+  "bindType": -1,
+  "knownIds": [
+    198385
+  ]
+}

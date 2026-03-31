@@ -1,0 +1,19 @@
+{
+  "internalId": 2989293694,
+  "name": "Unchained Aggressor's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158706,
+    158761,
+    158796,
+    158831,
+    158866,
+    158901,
+    158936,
+    158971,
+    159006,
+    159041
+  ]
+}

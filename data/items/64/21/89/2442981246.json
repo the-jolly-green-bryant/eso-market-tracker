@@ -1,0 +1,17 @@
+{
+  "internalId": 2442981246,
+  "name": "Plaguebreak Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180617,
+    180637,
+    180657,
+    180677,
+    180697,
+    180717,
+    180737,
+    180757
+  ]
+}

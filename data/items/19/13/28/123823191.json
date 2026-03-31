@@ -1,0 +1,10 @@
+{
+  "internalId": 123823191,
+  "name": "Affix Script: Enervation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_enervation.png",
+  "bindType": -1,
+  "knownIds": [
+    204610
+  ]
+}

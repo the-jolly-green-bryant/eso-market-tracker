@@ -1,0 +1,19 @@
+{
+  "internalId": 3302216263,
+  "name": "Chimera's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191242,
+    191297,
+    191332,
+    191367,
+    191402,
+    191437,
+    191472,
+    191507,
+    191542,
+    191577
+  ]
+}

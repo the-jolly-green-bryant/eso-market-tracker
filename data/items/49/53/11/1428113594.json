@@ -1,0 +1,10 @@
+{
+  "internalId": 1428113594,
+  "name": "Necrom Vase, Small Square Floral",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necvasesquaresmall001a.png",
+  "bindType": -1,
+  "knownIds": [
+    198455
+  ]
+}

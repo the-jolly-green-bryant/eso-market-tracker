@@ -1,0 +1,16 @@
+{
+  "internalId": 3891740994,
+  "name": "Ice Furnace Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86384,
+    86404,
+    86424,
+    86444,
+    86464,
+    86484,
+    86504
+  ]
+}

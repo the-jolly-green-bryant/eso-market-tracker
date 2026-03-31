@@ -1,0 +1,10 @@
+{
+  "internalId": 4072097087,
+  "name": "Fire of Shazah's Wisdom",
+  "description": "Formed from planar dream-stuff, this staff embodies the wisdom and intelligence of the Champion Shazah.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54365
+  ]
+}

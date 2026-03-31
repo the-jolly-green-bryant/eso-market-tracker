@@ -1,0 +1,16 @@
+{
+  "internalId": 3867429244,
+  "name": "Eye of the Grasp Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179964,
+    179985,
+    180006,
+    180027,
+    180048,
+    180069,
+    180090
+  ]
+}

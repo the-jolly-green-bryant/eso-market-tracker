@@ -1,0 +1,17 @@
+{
+  "internalId": 3419720288,
+  "name": "Battle Axe of Cyrodiil's Ward",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93726,
+    93746,
+    93766,
+    93786,
+    93806,
+    93826,
+    93846,
+    93866
+  ]
+}

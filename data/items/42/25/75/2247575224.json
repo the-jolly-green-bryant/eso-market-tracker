@@ -1,0 +1,10 @@
+{
+  "internalId": 2247575224,
+  "name": "High Isle Fountain, Wall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_fountainwall001.png",
+  "bindType": -1,
+  "knownIds": [
+    191188
+  ]
+}

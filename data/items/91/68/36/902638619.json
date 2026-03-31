@@ -1,0 +1,18 @@
+{
+  "internalId": 902638619,
+  "name": "Gauntlets of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhosthvy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161023,
+    161043,
+    161063,
+    161083,
+    161103,
+    161123,
+    161143,
+    161163,
+    161183
+  ]
+}

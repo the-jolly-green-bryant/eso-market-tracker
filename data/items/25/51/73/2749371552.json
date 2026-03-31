@@ -1,0 +1,10 @@
+{
+  "internalId": 2749371552,
+  "name": "Map-Hunter's Forest Boots",
+  "description": "A gift from a Dufort captain in memory of the late map hunter, Ferone.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    188127
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 136210168,
+  "name": "Jar, Pink Dye",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationjarb001.png",
+  "bindType": -1,
+  "knownIds": [
+    118321
+  ]
+}

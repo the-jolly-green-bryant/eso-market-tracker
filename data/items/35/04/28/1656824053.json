@@ -1,0 +1,10 @@
+{
+  "internalId": 1656824053,
+  "name": "Maul of the Fallen Comrade",
+  "description": "Rewarded for Famia's rescue after Kassandra's betrayal and conspiracy with Whiptail.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_2hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    145543
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1613287313,
+  "name": "Berrymead Tonic",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png",
+  "bindType": -1,
+  "knownIds": [
+    61054,
+    28505
+  ]
+}

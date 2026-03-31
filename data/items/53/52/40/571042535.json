@@ -1,0 +1,10 @@
+{
+  "internalId": 571042535,
+  "name": "Brotherhood Tapestry",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhsantuarytap001.png",
+  "bindType": -1,
+  "knownIds": [
+    121271
+  ]
+}

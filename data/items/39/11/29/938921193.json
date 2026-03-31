@@ -1,0 +1,10 @@
+{
+  "internalId": 938921193,
+  "name": "Redguard End Table, Inlaid",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_squaretable001.png",
+  "bindType": -1,
+  "knownIds": [
+    117850
+  ]
+}

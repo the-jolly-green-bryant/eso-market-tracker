@@ -1,0 +1,17 @@
+{
+  "internalId": 2702361194,
+  "name": "Draoife Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190711,
+    190731,
+    190751,
+    190771,
+    190791,
+    190811,
+    190831,
+    190851
+  ]
+}

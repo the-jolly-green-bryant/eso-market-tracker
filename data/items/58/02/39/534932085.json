@@ -1,0 +1,10 @@
+{
+  "internalId": 534932085,
+  "name": "High Isle Bench, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_benchmid001.png",
+  "bindType": -1,
+  "knownIds": [
+    187830
+  ]
+}

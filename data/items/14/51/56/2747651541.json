@@ -1,0 +1,10 @@
+{
+  "internalId": 2747651541,
+  "name": "Siege Repair Kit",
+  "description": "Repairs a Siege weapon for 20000 HP.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_improvement_002.png",
+  "bindType": -1,
+  "knownIds": [
+    27112
+  ]
+}

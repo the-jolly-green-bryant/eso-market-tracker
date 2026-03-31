@@ -1,0 +1,10 @@
+{
+  "internalId": 1811488344,
+  "name": "Crafting Motif 59: Scalecaller Maces",
+  "description": "Use to learn how to make Scalecaller Maces. Also teaches the equivalent Scalecaller outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    134781
+  ]
+}

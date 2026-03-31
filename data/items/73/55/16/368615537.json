@@ -1,0 +1,17 @@
+{
+  "internalId": 368615537,
+  "name": "Mace of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89080,
+    89100,
+    89120,
+    89140,
+    89160,
+    89180,
+    89200,
+    89220
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 410761897,
+  "name": "Grinstones",
+  "description": "This item can only be found by deconstructing Grim Harlequin-style equipment.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_grim_harlequin_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    82002
+  ]
+}

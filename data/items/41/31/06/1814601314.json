@@ -1,0 +1,17 @@
+{
+  "internalId": 1814601314,
+  "name": "Bow of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91762,
+    91783,
+    91804,
+    91825,
+    91846,
+    91867,
+    91888,
+    91909
+  ]
+}

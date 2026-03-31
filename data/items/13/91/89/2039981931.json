@@ -1,0 +1,18 @@
+{
+  "internalId": 2039981931,
+  "name": "Stuhn's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161304,
+    161339,
+    161374,
+    161409,
+    161444,
+    161479,
+    161514,
+    161549,
+    161584
+  ]
+}

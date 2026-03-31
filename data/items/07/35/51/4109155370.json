@@ -1,0 +1,10 @@
+{
+  "internalId": 4109155370,
+  "name": "Focus Script: Magic Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_magicka.png",
+  "bindType": -1,
+  "knownIds": [
+    204553
+  ]
+}

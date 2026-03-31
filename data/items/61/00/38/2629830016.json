@@ -1,0 +1,10 @@
+{
+  "internalId": 2629830016,
+  "name": "Shadow's Hood",
+  "description": "An assassin's cast-off head covering. Naryu prefers to work with her hair blowing free.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moragtong_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    197804
+  ]
+}

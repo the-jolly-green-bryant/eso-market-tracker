@@ -1,0 +1,14 @@
+{
+  "internalId": 2744669401,
+  "name": "Girdle of the Sergeant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89704,
+    89724,
+    89744,
+    89764,
+    89784
+  ]
+}

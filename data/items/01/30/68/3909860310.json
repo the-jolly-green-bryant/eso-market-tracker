@@ -1,0 +1,16 @@
+{
+  "internalId": 3909860310,
+  "name": "Sithis' Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_light_shirt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77296,
+    77331,
+    77366,
+    77401,
+    77436,
+    77471,
+    77506
+  ]
+}

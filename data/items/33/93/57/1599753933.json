@@ -1,0 +1,11 @@
+{
+  "internalId": 1599753933,
+  "name": "Garlic Pumpkin Seeds",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33490,
+    37943
+  ]
+}

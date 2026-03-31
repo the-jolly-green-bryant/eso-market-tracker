@@ -1,0 +1,17 @@
+{
+  "internalId": 2809015406,
+  "name": "Highland Sentinel Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205895,
+    205930,
+    205965,
+    206000,
+    206035,
+    206070,
+    206105,
+    206140
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1909978767,
+  "name": "Scion's Throne Painting, Wood",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting013.png",
+  "bindType": -1,
+  "knownIds": [
+    166449
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 5973936,
+  "name": "Redguard Throw Pillow, Desert Flame",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofapillowlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    117848
+  ]
+}

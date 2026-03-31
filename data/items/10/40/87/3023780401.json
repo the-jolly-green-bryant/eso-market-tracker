@@ -1,0 +1,13 @@
+{
+  "internalId": 3023780401,
+  "name": "Greaves of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129779,
+    129786,
+    129793,
+    129800
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": 1124412330,
+  "name": "Bracers of the Two-Fanged Snake",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_medium_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    948686,
+    949588,
+    965526,
+    980510,
+    1089095,
+    1121441,
+    1143848,
+    1154540,
+    1190928,
+    1329805,
+    1518879,
+    1541941,
+    1550839,
+    1566567,
+    1599908,
+    1608063
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2216362282,
+  "name": "Bulwark of Markarth",
+  "description": "An enchanted shield from the vaults of Markarth, awarded to those who pledged themselves in defense of the Reach.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167398
+  ]
+}

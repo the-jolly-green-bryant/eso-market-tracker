@@ -1,0 +1,10 @@
+{
+  "internalId": 374403295,
+  "name": "Dull Sphalerite",
+  "description": "Ten of these items can be refined into Lustrous Sphalerite, which is used to make Militant Ordinator equipment.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_militant_ordinator_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    121523
+  ]
+}

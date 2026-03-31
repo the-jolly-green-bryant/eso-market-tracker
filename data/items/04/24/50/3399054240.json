@@ -1,0 +1,17 @@
+{
+  "internalId": 3399054240,
+  "name": "Battle Axe of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167435,
+    167455,
+    167475,
+    167495,
+    167515,
+    167535,
+    167555,
+    167575
+  ]
+}

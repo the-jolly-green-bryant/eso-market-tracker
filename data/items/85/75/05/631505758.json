@@ -1,0 +1,17 @@
+{
+  "internalId": 631505758,
+  "name": "Sword-Singer's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99289,
+    99309,
+    99329,
+    99349,
+    99369,
+    99389,
+    99409,
+    99429
+  ]
+}

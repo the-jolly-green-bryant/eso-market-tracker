@@ -1,0 +1,16 @@
+{
+  "internalId": 1872105354,
+  "name": "Gauntlets of the Dreugh King Slayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80875,
+    80895,
+    80915,
+    80935,
+    80967,
+    80987,
+    81007
+  ]
+}

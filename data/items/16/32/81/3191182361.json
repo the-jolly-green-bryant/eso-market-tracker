@@ -1,0 +1,10 @@
+{
+  "internalId": 3191182361,
+  "name": "Light of the Twin Ambitions",
+  "description": "A beautifully carved staff found within the Doomvault Capraxus, where you encountered the twin Ambitions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    174848
+  ]
+}

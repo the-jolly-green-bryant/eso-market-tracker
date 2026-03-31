@@ -1,0 +1,27 @@
+{
+  "internalId": 1080335828,
+  "name": "Lightning Staff of the Infallible Aether",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1089300,
+    1140224,
+    1146075,
+    1191629,
+    1262165,
+    1283821,
+    1310789,
+    1314877,
+    1357810,
+    1389619,
+    1396784,
+    1413864,
+    1486474,
+    1499996,
+    1515109,
+    1518761,
+    1610318,
+    1636960
+  ]
+}

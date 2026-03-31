@@ -1,0 +1,13 @@
+{
+  "internalId": 1146799876,
+  "name": "Helm of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129778,
+    129785,
+    129792,
+    129799
+  ]
+}

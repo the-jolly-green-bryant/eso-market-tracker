@@ -1,0 +1,10 @@
+{
+  "internalId": 444396485,
+  "name": "Gold Drakes, Pristine",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_coinstack004.png",
+  "bindType": -1,
+  "knownIds": [
+    134882
+  ]
+}

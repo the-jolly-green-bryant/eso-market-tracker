@@ -1,0 +1,19 @@
+{
+  "internalId": 3540742536,
+  "name": "Gloves of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58170,
+    58206,
+    58241,
+    58276,
+    58311,
+    58346,
+    58381,
+    58416,
+    58451,
+    58486
+  ]
+}

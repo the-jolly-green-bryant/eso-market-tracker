@@ -1,0 +1,11 @@
+{
+  "internalId": 1470138048,
+  "name": "Unfathomable Small Heavy Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    55299,
+    55309
+  ]
+}

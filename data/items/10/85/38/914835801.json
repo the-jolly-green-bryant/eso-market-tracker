@@ -1,0 +1,10 @@
+{
+  "internalId": 914835801,
+  "name": "Esoteric Parchment",
+  "description": "An unnerving sheet of parchment covered in twisted scratching that seem to writhe just beneath the page's surface.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png",
+  "bindType": -1,
+  "knownIds": [
+    197632
+  ]
+}

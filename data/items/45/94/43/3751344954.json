@@ -1,0 +1,10 @@
+{
+  "internalId": 3751344954,
+  "name": "Sash of the Psijic Order",
+  "description": "A mage's belt awarded by the Psijic Order for your help in solving the mystery at the Monastery of Serene Harmony.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134714
+  ]
+}

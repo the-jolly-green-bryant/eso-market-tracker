@@ -1,0 +1,17 @@
+{
+  "internalId": 238495057,
+  "name": "Ravaging Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89457,
+    89477,
+    89497,
+    89517,
+    89537,
+    89557,
+    89577,
+    89597
+  ]
+}

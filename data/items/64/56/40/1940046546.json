@@ -1,0 +1,19 @@
+{
+  "internalId": 1940046546,
+  "name": "Heartland Conqueror's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172843,
+    172898,
+    172933,
+    172968,
+    173003,
+    173038,
+    173073,
+    173108,
+    173143,
+    173178
+  ]
+}

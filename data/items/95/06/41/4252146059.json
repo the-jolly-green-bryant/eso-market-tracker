@@ -1,0 +1,18 @@
+{
+  "internalId": 4252146059,
+  "name": "Venomous Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    160829,
+    160849,
+    160869,
+    160889,
+    160909,
+    160929,
+    160949,
+    160969,
+    160989
+  ]
+}

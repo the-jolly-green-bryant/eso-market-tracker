@@ -1,0 +1,30 @@
+{
+  "internalId": 2585234514,
+  "name": "Burning Spellweave Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_dagger_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1082872,
+    1089646,
+    1128216,
+    1146128,
+    1165681,
+    1178608,
+    1182874,
+    1286978,
+    1288182,
+    1319709,
+    1365743,
+    1386954,
+    1478165,
+    1494960,
+    1563381,
+    1569109,
+    1642951,
+    1692913,
+    1693570,
+    1728868,
+    1732123
+  ]
+}

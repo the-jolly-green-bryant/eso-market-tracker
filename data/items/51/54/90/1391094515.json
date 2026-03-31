@@ -1,0 +1,17 @@
+{
+  "internalId": 1391094515,
+  "name": "Helm of the Veiled Heritance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    94272,
+    94292,
+    94312,
+    94332,
+    94352,
+    94372,
+    94392,
+    94412
+  ]
+}

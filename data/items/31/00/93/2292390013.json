@@ -1,0 +1,17 @@
+{
+  "internalId": 2292390013,
+  "name": "Maul of the Gorethief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    224380,
+    224415,
+    224450,
+    224485,
+    224520,
+    224555,
+    224590,
+    224625
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "internalId": 3497940525,
+  "name": "Tribal Armor Crate",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png",
+  "bindType": -1,
+  "knownIds": [
+    1274042,
+    1274055,
+    1274395,
+    1275289,
+    1275462,
+    1350891,
+    1351395,
+    1351974,
+    1352040,
+    1355200,
+    1355223,
+    1357589,
+    1360086,
+    1360094,
+    1420644
+  ]
+}

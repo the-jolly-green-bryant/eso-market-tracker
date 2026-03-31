@@ -1,0 +1,16 @@
+{
+  "internalId": 1747478600,
+  "name": "Eye of the Grasp Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179965,
+    179986,
+    180007,
+    180028,
+    180049,
+    180070,
+    180091
+  ]
+}

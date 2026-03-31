@@ -1,0 +1,17 @@
+{
+  "internalId": 2051299139,
+  "name": "Dagger of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204247,
+    204267,
+    204287,
+    204307,
+    204327,
+    204347,
+    204367,
+    204387
+  ]
+}

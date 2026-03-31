@@ -1,0 +1,14 @@
+{
+  "internalId": 4058056092,
+  "name": "Ice Staff of Fasalla's Guile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199190,
+    199191,
+    199192,
+    199193,
+    199194
+  ]
+}

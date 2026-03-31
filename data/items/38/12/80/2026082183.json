@@ -1,0 +1,17 @@
+{
+  "internalId": 2026082183,
+  "name": "Inferno Staff of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91954,
+    91975,
+    91996,
+    92017,
+    92038,
+    92059,
+    92080,
+    92101
+  ]
+}

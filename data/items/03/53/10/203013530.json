@@ -1,0 +1,19 @@
+{
+  "internalId": 203013530,
+  "name": "Senche-Raht's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148344,
+    148399,
+    148434,
+    148469,
+    148504,
+    148539,
+    148574,
+    148609,
+    148644,
+    148679
+  ]
+}

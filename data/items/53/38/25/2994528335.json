@@ -1,0 +1,10 @@
+{
+  "internalId": 2994528335,
+  "name": "Mushrooms, Climbing Ambershine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_hrcbiolumshroom007.png",
+  "bindType": -1,
+  "knownIds": [
+    141845
+  ]
+}

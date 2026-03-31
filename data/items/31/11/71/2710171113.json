@@ -1,0 +1,10 @@
+{
+  "internalId": 2710171113,
+  "name": "Elsweyr Gazebo, Ancient Stone",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_gazebo001.png",
+  "bindType": -1,
+  "knownIds": [
+    151857
+  ]
+}

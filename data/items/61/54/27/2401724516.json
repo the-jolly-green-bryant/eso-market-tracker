@@ -1,0 +1,10 @@
+{
+  "internalId": 2401724516,
+  "name": "Hlaalu's Protection",
+  "description": "For uncovering evidence linking disappearances to the Llodos plague in Narsis, Councilor Ralden rewarded you with this mace.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    4309
+  ]
+}

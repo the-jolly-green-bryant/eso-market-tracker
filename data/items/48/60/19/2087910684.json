@@ -1,0 +1,10 @@
+{
+  "internalId": 2087910684,
+  "name": "Exemplary Nirnhoned Shield",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Shield.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    81636
+  ]
+}

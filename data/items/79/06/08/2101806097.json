@@ -1,0 +1,18 @@
+{
+  "internalId": 2101806097,
+  "name": "Axe of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97219,
+    97240,
+    97261,
+    97282,
+    97303,
+    97324,
+    97345,
+    97366,
+    97387
+  ]
+}

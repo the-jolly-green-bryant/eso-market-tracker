@@ -1,0 +1,20 @@
+{
+  "internalId": 2610127388,
+  "name": "Aproned Kilt and Trousers",
+  "description": "An aproned kilt and trousers, durably made.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    63934,
+    63935,
+    63936,
+    63937,
+    63938,
+    63939,
+    63940,
+    63941,
+    63942,
+    63943,
+    63944
+  ]
+}

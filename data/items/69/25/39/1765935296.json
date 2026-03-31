@@ -1,0 +1,17 @@
+{
+  "internalId": 1765935296,
+  "name": "Spriggan's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100605,
+    100625,
+    100645,
+    100665,
+    100685,
+    100705,
+    100725,
+    100745
+  ]
+}

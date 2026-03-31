@@ -1,0 +1,18 @@
+{
+  "internalId": 701191272,
+  "name": "Jerkin of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158396,
+    158431,
+    158466,
+    158501,
+    158536,
+    158571,
+    158606,
+    158641,
+    158676
+  ]
+}

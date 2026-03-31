@@ -1,0 +1,10 @@
+{
+  "internalId": 2640004571,
+  "name": "Dathieu's Traitorous Axe of the Vampire's Cloak",
+  "description": "For listening to his tale and ending Ranser's curse, General Dathieu awarded the axe that killed the mad king.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7294
+  ]
+}

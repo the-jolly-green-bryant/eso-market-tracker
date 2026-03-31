@@ -1,0 +1,10 @@
+{
+  "internalId": 2479790110,
+  "name": "Tide-Born Pitcher, Stone",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_vasefilled001.png",
+  "bindType": -1,
+  "knownIds": [
+    214422
+  ]
+}

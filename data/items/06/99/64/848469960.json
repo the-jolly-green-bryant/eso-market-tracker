@@ -1,0 +1,17 @@
+{
+  "internalId": 848469960,
+  "name": "Mace of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86191,
+    86212,
+    86233,
+    86254,
+    86275,
+    86296,
+    86317,
+    86338
+  ]
+}

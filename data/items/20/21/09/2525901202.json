@@ -1,0 +1,10 @@
+{
+  "internalId": 2525901202,
+  "name": "Wood Elf Rack, Dried Fish",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_rack001.png",
+  "bindType": -1,
+  "knownIds": [
+    115627
+  ]
+}

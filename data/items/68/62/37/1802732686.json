@@ -1,0 +1,10 @@
+{
+  "internalId": 1802732686,
+  "name": "Deadlands Lightning Rod, Spike",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_sllightningrod002.png",
+  "bindType": -1,
+  "knownIds": [
+    182256
+  ]
+}

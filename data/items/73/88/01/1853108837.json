@@ -1,0 +1,10 @@
+{
+  "internalId": 1853108837,
+  "name": "Monster: Pirate Skeleton",
+  "description": "A Monster Mask set found in Veteran Blackheart Haven.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114265
+  ]
+}

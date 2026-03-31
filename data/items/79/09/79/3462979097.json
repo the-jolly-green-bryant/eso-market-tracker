@@ -1,0 +1,10 @@
+{
+  "internalId": 3462979097,
+  "name": "High Isle Trunk, Ornate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_chesthigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    187836
+  ]
+}

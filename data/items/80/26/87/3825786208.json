@@ -1,0 +1,10 @@
+{
+  "internalId": 3825786208,
+  "name": "High Elf Streetlight, Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_str_milemarker001.png",
+  "bindType": -1,
+  "knownIds": [
+    114412
+  ]
+}

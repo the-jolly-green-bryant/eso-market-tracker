@@ -1,0 +1,10 @@
+{
+  "internalId": 383970844,
+  "name": "Blade of the Rawlith Khaj",
+  "description": "The adepts of the Desert Wind usually wield these balanced swords in pairs.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_sword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150385
+  ]
+}

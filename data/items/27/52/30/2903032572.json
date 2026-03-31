@@ -1,0 +1,19 @@
+{
+  "internalId": 2903032572,
+  "name": "Sload's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136086,
+    136121,
+    136156,
+    136191,
+    136226,
+    136261,
+    136296,
+    136331,
+    136366,
+    136401
+  ]
+}

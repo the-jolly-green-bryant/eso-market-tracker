@@ -1,0 +1,16 @@
+{
+  "internalId": 2683250298,
+  "name": "Girdle of the Dreugh King Slayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80879,
+    80899,
+    80919,
+    80939,
+    80971,
+    80991,
+    81011
+  ]
+}

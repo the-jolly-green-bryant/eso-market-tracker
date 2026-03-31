@@ -1,0 +1,31 @@
+{
+  "internalId": 979641563,
+  "name": "voidsteel pauldron of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": -1,
+  "knownIds": [
+    580181,
+    610409,
+    683200,
+    601798,
+    600449,
+    509714,
+    632837,
+    605255,
+    765806,
+    682969,
+    488350,
+    584570,
+    573810,
+    598734,
+    792491,
+    792064,
+    792028,
+    790068,
+    788186,
+    787188,
+    780423,
+    914270
+  ]
+}

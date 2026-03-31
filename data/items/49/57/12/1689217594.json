@@ -1,0 +1,19 @@
+{
+  "internalId": 1689217594,
+  "name": "Seeker Synthesis Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195333,
+    195388,
+    195423,
+    195458,
+    195493,
+    195528,
+    195563,
+    195598,
+    195633,
+    195668
+  ]
+}

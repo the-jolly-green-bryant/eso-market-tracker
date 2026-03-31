@@ -1,0 +1,10 @@
+{
+  "internalId": 2483880172,
+  "name": "Neutral Crafted Sets",
+  "description": "Crafted Sets found in neutral or contested zones in Tamriel.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182335
+  ]
+}

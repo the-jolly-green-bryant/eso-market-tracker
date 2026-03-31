@@ -1,0 +1,20 @@
+{
+  "internalId": 1276081269,
+  "name": "Primal Sproutling",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_005.png",
+  "bindType": -1,
+  "knownIds": [
+    818360,
+    720191,
+    757853,
+    589452,
+    895158,
+    929051,
+    929065,
+    936687,
+    946902,
+    1136284,
+    1318332
+  ]
+}

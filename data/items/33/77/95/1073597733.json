@@ -1,0 +1,10 @@
+{
+  "internalId": 1073597733,
+  "name": "Elkhorn Coral, Verdant Sapling",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_elkhorncavecoral003.png",
+  "bindType": -1,
+  "knownIds": [
+    189473
+  ]
+}

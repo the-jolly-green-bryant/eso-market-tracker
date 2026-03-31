@@ -1,0 +1,10 @@
+{
+  "internalId": 3995753190,
+  "name": "Sip of Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_014_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    77600
+  ]
+}

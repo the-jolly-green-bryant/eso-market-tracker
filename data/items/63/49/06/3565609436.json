@@ -1,0 +1,19 @@
+{
+  "internalId": 3565609436,
+  "name": "Greatsword of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58180,
+    58215,
+    58250,
+    58285,
+    58320,
+    58355,
+    58390,
+    58425,
+    58460,
+    58495
+  ]
+}

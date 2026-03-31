@@ -1,0 +1,17 @@
+{
+  "internalId": 3035363088,
+  "name": "Ice Staff of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210547,
+    210567,
+    210587,
+    210607,
+    210627,
+    210647,
+    210667,
+    210687
+  ]
+}

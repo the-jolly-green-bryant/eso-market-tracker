@@ -1,0 +1,10 @@
+{
+  "internalId": 3439218466,
+  "name": "High Isle Stool, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_stoolmid001.png",
+  "bindType": -1,
+  "knownIds": [
+    187828
+  ]
+}

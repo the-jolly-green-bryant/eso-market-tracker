@@ -1,0 +1,13 @@
+{
+  "internalId": 1399545058,
+  "name": "Briarheart Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_snowreach_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129818,
+    129825,
+    129832,
+    129839
+  ]
+}

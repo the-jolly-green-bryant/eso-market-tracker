@@ -1,0 +1,19 @@
+{
+  "internalId": 1236625060,
+  "name": "Mora Scribe's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719488,
+    1720413,
+    1722870,
+    1722871,
+    1732824,
+    1733066,
+    1738759,
+    1744458,
+    1750859,
+    1757037
+  ]
+}

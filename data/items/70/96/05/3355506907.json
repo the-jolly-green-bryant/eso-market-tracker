@@ -1,0 +1,17 @@
+{
+  "internalId": 3355506907,
+  "name": "Smuggler's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100969,
+    100990,
+    101011,
+    101032,
+    101053,
+    101074,
+    101095,
+    101116
+  ]
+}

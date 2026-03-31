@@ -1,0 +1,10 @@
+{
+  "internalId": 4199444631,
+  "name": "Elsweyr Wall, Rough Wooden",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_wallwood001.png",
+  "bindType": -1,
+  "knownIds": [
+    151775
+  ]
+}

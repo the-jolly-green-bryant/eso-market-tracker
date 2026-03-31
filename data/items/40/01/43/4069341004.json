@@ -1,0 +1,17 @@
+{
+  "internalId": 4069341004,
+  "name": "Greaves of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78625,
+    78660,
+    78695,
+    78730,
+    78765,
+    78800,
+    78835,
+    78870
+  ]
+}

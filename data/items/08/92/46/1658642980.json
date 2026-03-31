@@ -1,0 +1,17 @@
+{
+  "internalId": 1658642980,
+  "name": "Snake in the Stars Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    193852,
+    193873,
+    193894,
+    193915,
+    193936,
+    193957,
+    193978,
+    193999
+  ]
+}

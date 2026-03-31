@@ -1,0 +1,19 @@
+{
+  "internalId": 1091764862,
+  "name": "Maul of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69603,
+    69638,
+    69673,
+    69708,
+    69743,
+    69778,
+    69813,
+    69848,
+    69883,
+    69918
+  ]
+}

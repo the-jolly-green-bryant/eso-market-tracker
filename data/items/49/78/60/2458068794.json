@@ -1,0 +1,10 @@
+{
+  "internalId": 2458068794,
+  "name": "High Elf Wine Pot",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_housingwinestovecombo001.png",
+  "bindType": -1,
+  "knownIds": [
+    193804
+  ]
+}

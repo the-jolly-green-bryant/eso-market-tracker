@@ -1,0 +1,10 @@
+{
+  "internalId": 4268242299,
+  "name": "Breton Chair, Slatted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_chairlow001.png",
+  "bindType": -1,
+  "knownIds": [
+    115159
+  ]
+}

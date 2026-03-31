@@ -1,0 +1,10 @@
+{
+  "internalId": 990849025,
+  "name": "Brotherhood Stained Glass Window",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_str_dbstainedglasswinsanctuary001.png",
+  "bindType": -1,
+  "knownIds": [
+    120837
+  ]
+}

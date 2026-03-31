@@ -1,0 +1,19 @@
+{
+  "internalId": 419312347,
+  "name": "Greatsword of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69604,
+    69639,
+    69674,
+    69709,
+    69744,
+    69779,
+    69814,
+    69849,
+    69884,
+    69919
+  ]
+}

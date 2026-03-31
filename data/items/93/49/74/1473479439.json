@@ -1,0 +1,18 @@
+{
+  "internalId": 1473479439,
+  "name": "Inferno Staff of Ursus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1268268,
+    1287703,
+    1304679,
+    1370282,
+    1462157,
+    1555903,
+    1570860,
+    1603278,
+    1691651
+  ]
+}

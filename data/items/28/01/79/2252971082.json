@@ -1,0 +1,10 @@
+{
+  "internalId": 2252971082,
+  "name": "Workshop Furnishing Recipe Book",
+  "description": "A notebook kept by an allegedly unhinged tinkerer. Reading it teaches all Workshop Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color3.png",
+  "bindType": -1,
+  "knownIds": [
+    214295
+  ]
+}

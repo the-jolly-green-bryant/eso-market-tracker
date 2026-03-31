@@ -1,0 +1,18 @@
+{
+  "internalId": 3631121041,
+  "name": "Draugr's Rest Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1225252,
+    1247825,
+    1314076,
+    1374446,
+    1452167,
+    1594745,
+    1601315,
+    1613380,
+    1633849
+  ]
+}

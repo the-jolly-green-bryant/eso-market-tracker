@@ -1,0 +1,10 @@
+{
+  "internalId": 242586796,
+  "name": "Velothi Tapestry, Waterfall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_tapestryclrg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126606
+  ]
+}

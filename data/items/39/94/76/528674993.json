@@ -1,0 +1,17 @@
+{
+  "internalId": 528674993,
+  "name": "Highland Sentinel Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205889,
+    205924,
+    205959,
+    205994,
+    206029,
+    206064,
+    206099,
+    206134
+  ]
+}

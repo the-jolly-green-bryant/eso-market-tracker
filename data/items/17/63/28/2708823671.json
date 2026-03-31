@@ -1,0 +1,10 @@
+{
+  "internalId": 2708823671,
+  "name": "Crafting Motif 15: Dwemer Boots",
+  "description": "Use to learn how to make Dwemer Boots. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Dwemer Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    57575
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1582054043,
+  "name": "Swamp Raider's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98899,
+    98919,
+    98939,
+    98959,
+    98979,
+    98999,
+    99019,
+    99039
+  ]
+}

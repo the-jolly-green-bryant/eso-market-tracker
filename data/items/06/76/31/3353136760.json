@@ -1,0 +1,10 @@
+{
+  "internalId": 3353136760,
+  "name": "Spirit Warden's Gloves",
+  "description": "You earned these gloves by slaying the Daedric spirit of Vaermina residing inside Master Muzgu at Moonlit Maw.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    4607
+  ]
+}

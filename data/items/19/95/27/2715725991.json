@@ -1,0 +1,12 @@
+{
+  "internalId": 2715725991,
+  "name": "Sip of Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    54340,
+    54340,
+    27037
+  ]
+}

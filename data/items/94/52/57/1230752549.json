@@ -1,0 +1,10 @@
+{
+  "internalId": 1230752549,
+  "name": "Worm Cult Stool, Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_lowstoolsquare001.png",
+  "bindType": -1,
+  "knownIds": [
+    220314
+  ]
+}

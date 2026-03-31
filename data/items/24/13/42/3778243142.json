@@ -1,0 +1,25 @@
+{
+  "internalId": 3778243142,
+  "name": "iron girdle of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    437572,
+    373938,
+    600237,
+    449461,
+    591946,
+    399539,
+    439882,
+    589605,
+    433214,
+    439842,
+    393714,
+    791841,
+    789192,
+    788260,
+    1065439,
+    1129149
+  ]
+}

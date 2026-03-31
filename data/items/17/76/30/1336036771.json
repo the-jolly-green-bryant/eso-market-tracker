@@ -1,0 +1,20 @@
+{
+  "internalId": 1336036771,
+  "name": "Lightning Staff of the Immortal Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    949589,
+    1126883,
+    1146134,
+    1158369,
+    1162638,
+    1162657,
+    1393191,
+    1486506,
+    1550838,
+    1689796,
+    1754628
+  ]
+}

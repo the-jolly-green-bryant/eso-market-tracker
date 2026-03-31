@@ -1,0 +1,10 @@
+{
+  "internalId": 3441624190,
+  "name": "Jewelry: Inventor's Guard",
+  "description": "A Light Armor set found in the Halls of Fabrication Trial.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    127129
+  ]
+}

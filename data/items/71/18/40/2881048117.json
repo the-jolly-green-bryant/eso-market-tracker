@@ -1,0 +1,17 @@
+{
+  "internalId": 2881048117,
+  "name": "Unflinching Ultimate Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219506,
+    219526,
+    219546,
+    219566,
+    219586,
+    219606,
+    219626,
+    219646
+  ]
+}

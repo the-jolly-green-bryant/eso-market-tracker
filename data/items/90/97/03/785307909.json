@@ -1,0 +1,10 @@
+{
+  "internalId": 785307909,
+  "name": "Breton Candelabra, Formal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_cansmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    115242
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1480229288,
+  "name": "Jewelry: Immortal Warrior",
+  "description": "A Heavy Armor set found in the Sanctum Ophidia Trial.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114254
+  ]
+}

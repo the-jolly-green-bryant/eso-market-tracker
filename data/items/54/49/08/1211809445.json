@@ -1,0 +1,11 @@
+{
+  "internalId": 1211809445,
+  "name": "Iron Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_shoulders_d.png",
+  "bindType": -1,
+  "knownIds": [
+    71513,
+    71514
+  ]
+}

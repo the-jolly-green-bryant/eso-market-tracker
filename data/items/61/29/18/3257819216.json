@@ -1,0 +1,16 @@
+{
+  "internalId": 3257819216,
+  "name": "Greatsword of Grave Inevitability",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600783,
+    1600840,
+    1601005,
+    1619548,
+    1735408,
+    1760379,
+    1760665
+  ]
+}

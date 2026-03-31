@@ -1,0 +1,10 @@
+{
+  "internalId": 2031070040,
+  "name": "Elsweyr Table, Low",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ls_fur_tableshortmed001.png",
+  "bindType": -1,
+  "knownIds": [
+    151719
+  ]
+}

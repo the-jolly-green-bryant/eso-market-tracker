@@ -1,0 +1,17 @@
+{
+  "internalId": 1931373694,
+  "name": "Old Growth Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191726,
+    191761,
+    191796,
+    191831,
+    191866,
+    191901,
+    191936,
+    191971
+  ]
+}

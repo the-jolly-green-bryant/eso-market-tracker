@@ -1,0 +1,14 @@
+{
+  "internalId": 766113730,
+  "name": "Eternal Hunt Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72692,
+    72727,
+    72762,
+    72797,
+    72832
+  ]
+}

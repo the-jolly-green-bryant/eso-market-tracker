@@ -1,0 +1,10 @@
+{
+  "internalId": 761943890,
+  "name": "Crafting Motif 45: Mazzatun Axes",
+  "description": "Use to learn how to make Mazzatun Axes. Also teaches the equivalent Mazzatun Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    114952
+  ]
+}

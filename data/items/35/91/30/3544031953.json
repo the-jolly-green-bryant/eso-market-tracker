@@ -1,0 +1,10 @@
+{
+  "internalId": 3544031953,
+  "name": "dram of Potent Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1550518
+  ]
+}

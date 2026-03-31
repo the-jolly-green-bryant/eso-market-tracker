@@ -1,0 +1,10 @@
+{
+  "internalId": 2597115954,
+  "name": "Daedric Sarcophagus, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_sarcophagus001.png",
+  "bindType": -1,
+  "knownIds": [
+    153676
+  ]
+}

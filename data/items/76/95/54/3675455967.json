@@ -1,0 +1,17 @@
+{
+  "internalId": 3675455967,
+  "name": "Sword-Singer's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99290,
+    99310,
+    99330,
+    99350,
+    99370,
+    99390,
+    99410,
+    99430
+  ]
+}

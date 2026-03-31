@@ -1,0 +1,19 @@
+{
+  "internalId": 643205124,
+  "name": "Vastarie's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148703,
+    148758,
+    148793,
+    148828,
+    148863,
+    148898,
+    148933,
+    148968,
+    149003,
+    149038
+  ]
+}

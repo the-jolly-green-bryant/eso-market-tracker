@@ -1,0 +1,16 @@
+{
+  "internalId": 3838711464,
+  "name": "Aether Ring of Strategy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    940356,
+    948670,
+    1143849,
+    1329811,
+    1460559,
+    1463558,
+    1593762
+  ]
+}

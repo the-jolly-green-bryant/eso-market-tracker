@@ -1,0 +1,10 @@
+{
+  "internalId": 2582144106,
+  "name": "Fabricant Shrub, Copper",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_clkredscrub001.png",
+  "bindType": -1,
+  "knownIds": [
+    134315
+  ]
+}

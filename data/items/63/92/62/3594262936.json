@@ -1,0 +1,19 @@
+{
+  "internalId": 3594262936,
+  "name": "Pauldron of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70629,
+    70664,
+    70699,
+    70734,
+    70769,
+    70804,
+    70839,
+    70874,
+    70909,
+    70944
+  ]
+}

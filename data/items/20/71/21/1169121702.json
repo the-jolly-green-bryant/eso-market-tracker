@@ -1,0 +1,10 @@
+{
+  "internalId": 1169121702,
+  "name": "Indoril Incense, Burning",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaincenseburning001.png",
+  "bindType": -1,
+  "knownIds": [
+    126481
+  ]
+}

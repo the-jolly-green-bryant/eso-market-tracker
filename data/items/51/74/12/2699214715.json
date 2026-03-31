@@ -1,0 +1,10 @@
+{
+  "internalId": 2699214715,
+  "name": "Tomb Marker, Ra Gada",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_cem_yukodantombdoors003.png",
+  "bindType": -1,
+  "knownIds": [
+    217585
+  ]
+}

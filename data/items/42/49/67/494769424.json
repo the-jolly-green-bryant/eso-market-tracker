@@ -1,0 +1,10 @@
+{
+  "internalId": 494769424,
+  "name": "Rough Crate, Empty",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargocratewood002.png",
+  "bindType": -1,
+  "knownIds": [
+    117958
+  ]
+}

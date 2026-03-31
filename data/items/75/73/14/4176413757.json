@@ -1,0 +1,10 @@
+{
+  "internalId": 4176413757,
+  "name": "Leyawiin Carpet, Small Worn",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyruglo003.png",
+  "bindType": -1,
+  "knownIds": [
+    175725
+  ]
+}

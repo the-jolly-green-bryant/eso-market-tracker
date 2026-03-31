@@ -1,0 +1,10 @@
+{
+  "internalId": 1665456835,
+  "name": "Crafting Motif 22: Trinimac Chests",
+  "description": "Use to learn how to make Trinimac Chests. Also teaches the equivalent Trinimac Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    71555
+  ]
+}

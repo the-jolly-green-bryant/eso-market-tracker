@@ -1,0 +1,10 @@
+{
+  "internalId": 3955444009,
+  "name": "Deadlands Sconce, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedsconcelarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    182240
+  ]
+}

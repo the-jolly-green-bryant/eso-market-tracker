@@ -1,0 +1,10 @@
+{
+  "internalId": 3275200804,
+  "name": "Table, Carved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_fur_tablea001.png",
+  "bindType": -1,
+  "knownIds": [
+    118117
+  ]
+}

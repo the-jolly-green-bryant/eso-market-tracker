@@ -1,0 +1,10 @@
+{
+  "internalId": 2991648284,
+  "name": "Necrom Window, Framed Exterior",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_housingnecwindowhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198034
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2283197571,
+  "name": "Lightning Staff of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78951,
+    78986,
+    79021,
+    79056,
+    79091,
+    79126,
+    79161,
+    79220
+  ]
+}

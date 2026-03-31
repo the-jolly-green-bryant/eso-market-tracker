@@ -1,0 +1,10 @@
+{
+  "internalId": 3333994641,
+  "name": "Sparky Stick of Zapping",
+  "description": "Crafted by a certain Khajiiti mage apprentice, this shock staff will be sure to have your fur standing on end.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    188110
+  ]
+}

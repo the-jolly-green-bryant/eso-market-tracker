@@ -1,0 +1,10 @@
+{
+  "internalId": 648806669,
+  "name": "Crafting Motif 48: Ashlander Maces",
+  "description": "Use to learn how to make Ashlander Maces. Also teaches the equivalent Ashlander Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    124689
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3003980892,
+  "name": "Charred Battle Trophy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shield_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1398974
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2300196606,
+  "name": "Jorunn's Commendation",
+  "description": "A necklace from King Jorunn that honors your efforts in clearing Trolhetta Cave of the Worm Cult.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    11000
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3748817061,
+  "name": "Jerkin of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60670,
+    60705,
+    60740,
+    60775,
+    60810,
+    60845,
+    60880,
+    60915,
+    60950,
+    60985
+  ]
+}

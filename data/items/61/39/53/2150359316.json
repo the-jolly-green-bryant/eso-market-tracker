@@ -1,0 +1,19 @@
+{
+  "internalId": 2150359316,
+  "name": "Ancient Dragonguard's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155799,
+    155854,
+    155889,
+    155924,
+    155959,
+    155994,
+    156029,
+    156064,
+    156099,
+    156134
+  ]
+}

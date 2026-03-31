@@ -1,0 +1,17 @@
+{
+  "internalId": 2025834880,
+  "name": "Greatsword of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97597,
+    97617,
+    97637,
+    97657,
+    97677,
+    97697,
+    97717,
+    97737
+  ]
+}

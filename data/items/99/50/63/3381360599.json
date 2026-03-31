@@ -1,0 +1,16 @@
+{
+  "internalId": 3381360599,
+  "name": "Curse-Eating Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90826,
+    90847,
+    90868,
+    90889,
+    90910,
+    90931,
+    90952
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 144452735,
+  "name": "Ice Staff of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129647,
+    129659,
+    129671,
+    129683
+  ]
+}

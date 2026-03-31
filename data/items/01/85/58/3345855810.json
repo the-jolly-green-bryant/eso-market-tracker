@@ -1,0 +1,10 @@
+{
+  "internalId": 3345855810,
+  "name": "Skald-King's Favor",
+  "description": "Prince Irnskar awarded this heavy helm for aiding Jorunn the Skald-King's war council at Fort Amol.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7674
+  ]
+}

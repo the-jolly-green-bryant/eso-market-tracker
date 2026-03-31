@@ -1,0 +1,19 @@
+{
+  "internalId": 3813171255,
+  "name": "Might of the Lost Legion Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143556,
+    143611,
+    143646,
+    143681,
+    143716,
+    143751,
+    143786,
+    143821,
+    143856,
+    143891
+  ]
+}

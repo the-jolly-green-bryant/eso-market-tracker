@@ -1,0 +1,27 @@
+{
+  "internalId": 1006935297,
+  "name": "Embershield Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    978494,
+    1067654,
+    1089834,
+    1213855,
+    1328756,
+    1338501,
+    1352702,
+    1373351,
+    1423996,
+    1439235,
+    1442480,
+    1456104,
+    1462000,
+    1463137,
+    1518383,
+    1610879,
+    1618315,
+    1716015
+  ]
+}

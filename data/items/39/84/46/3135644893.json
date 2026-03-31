@@ -1,0 +1,17 @@
+{
+  "internalId": 3135644893,
+  "name": "Battalion Defender Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144839,
+    144859,
+    144879,
+    144899,
+    144919,
+    144939,
+    144959,
+    144979
+  ]
+}

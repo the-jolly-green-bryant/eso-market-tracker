@@ -1,0 +1,19 @@
+{
+  "internalId": 375280620,
+  "name": "Karth's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168405,
+    168460,
+    168495,
+    168530,
+    168565,
+    168600,
+    168635,
+    168670,
+    168705,
+    168740
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3476474408,
+  "name": "Elsweyr Bed, Elegant Double",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_bedmed002.png",
+  "bindType": -1,
+  "knownIds": [
+    151671
+  ]
+}

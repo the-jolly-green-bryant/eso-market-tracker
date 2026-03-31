@@ -1,0 +1,15 @@
+{
+  "internalId": 3500792310,
+  "name": "Sabatons of Affliction",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    64748,
+    64755,
+    64784,
+    64791,
+    64820,
+    64827
+  ]
+}

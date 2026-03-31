@@ -1,0 +1,17 @@
+{
+  "internalId": 394795083,
+  "name": "Greatsword of Salvation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85458,
+    85478,
+    85498,
+    85518,
+    85538,
+    85558,
+    85578,
+    85598
+  ]
+}

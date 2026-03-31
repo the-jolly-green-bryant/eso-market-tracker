@@ -1,0 +1,17 @@
+{
+  "internalId": 4221067657,
+  "name": "Bow of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180436,
+    180457,
+    180478,
+    180499,
+    180520,
+    180541,
+    180562,
+    180583
+  ]
+}

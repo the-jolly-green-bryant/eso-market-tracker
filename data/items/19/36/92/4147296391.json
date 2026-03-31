@@ -1,0 +1,11 @@
+{
+  "internalId": 4147296391,
+  "name": "Dauntless Combatant's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159368,
+    159403
+  ]
+}

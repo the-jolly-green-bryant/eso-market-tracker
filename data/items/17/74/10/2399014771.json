@@ -1,0 +1,17 @@
+{
+  "internalId": 2399014771,
+  "name": "Mace of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80550,
+    80570,
+    80590,
+    80610,
+    80630,
+    80642,
+    80662,
+    80682
+  ]
+}

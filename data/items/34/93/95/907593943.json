@@ -1,0 +1,14 @@
+{
+  "internalId": 907593943,
+  "name": "Bow of the Red Mountain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    84965,
+    84985,
+    85005,
+    85025,
+    85045
+  ]
+}

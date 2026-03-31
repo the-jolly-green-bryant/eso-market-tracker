@@ -1,0 +1,10 @@
+{
+  "internalId": 3946487391,
+  "name": "Stone, Nirncrux-Laden",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_earthbonesmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    167343
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 1303618345,
+  "name": "Stone-Talker's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_lgt_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1465030,
+    1471863,
+    1479113,
+    1486196,
+    1488318,
+    1522971,
+    1544902,
+    1564061,
+    1679299,
+    1687090,
+    1689547
+  ]
+}

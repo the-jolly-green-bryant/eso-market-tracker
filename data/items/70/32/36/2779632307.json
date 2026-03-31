@@ -1,0 +1,16 @@
+{
+  "internalId": 2779632307,
+  "name": "Sword of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91969,
+    91990,
+    92011,
+    92032,
+    92053,
+    92074,
+    92095
+  ]
+}

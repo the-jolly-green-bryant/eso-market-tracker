@@ -1,0 +1,19 @@
+{
+  "internalId": 1924036660,
+  "name": "Druid's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185544,
+    185599,
+    185634,
+    185669,
+    185704,
+    185739,
+    185774,
+    185809,
+    185844,
+    185879
+  ]
+}

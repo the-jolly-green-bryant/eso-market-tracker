@@ -1,0 +1,19 @@
+{
+  "internalId": 67238812,
+  "name": "Sload's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136082,
+    136117,
+    136152,
+    136187,
+    136222,
+    136257,
+    136292,
+    136327,
+    136362,
+    136397
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3345650264,
+  "name": "Gloom-Graced Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_heavy_shoulder_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135182,
+    135202,
+    135222,
+    135242,
+    135262,
+    135282,
+    135302,
+    135322
+  ]
+}

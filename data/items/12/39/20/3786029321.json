@@ -1,0 +1,17 @@
+{
+  "internalId": 3786029321,
+  "name": "Axe of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84707,
+    84728,
+    84749,
+    84770,
+    84791,
+    84812,
+    84833,
+    84854
+  ]
+}

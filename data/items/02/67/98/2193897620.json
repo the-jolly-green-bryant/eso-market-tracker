@@ -1,0 +1,10 @@
+{
+  "internalId": 2193897620,
+  "name": "Telvanni Sofa, Organic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_telchairorganic004.png",
+  "bindType": -1,
+  "knownIds": [
+    126422
+  ]
+}

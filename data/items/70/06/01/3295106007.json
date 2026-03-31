@@ -1,0 +1,19 @@
+{
+  "internalId": 3295106007,
+  "name": "Helmet of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58160,
+    58195,
+    58230,
+    58265,
+    58300,
+    58335,
+    58370,
+    58405,
+    58440,
+    58475
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2884510424,
+  "name": "Sword of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211585,
+    211606,
+    211627,
+    211648,
+    211669,
+    211690,
+    211711,
+    211732
+  ]
+}

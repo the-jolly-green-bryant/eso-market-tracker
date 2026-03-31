@@ -1,0 +1,10 @@
+{
+  "internalId": 2584278593,
+  "name": "Alinor Windowbox, Blue Wisteria",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_housingplanter001.png",
+  "bindType": -1,
+  "knownIds": [
+    139311
+  ]
+}

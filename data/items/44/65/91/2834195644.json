@@ -1,0 +1,10 @@
+{
+  "internalId": 2834195644,
+  "name": "High Elf Bowl, Serving",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_bowl001.png",
+  "bindType": -1,
+  "knownIds": [
+    114395
+  ]
+}

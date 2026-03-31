@@ -1,0 +1,10 @@
+{
+  "internalId": 3645027776,
+  "name": "Indoril Box, Trinket",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlasmallstorage004.png",
+  "bindType": -1,
+  "knownIds": [
+    126532
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3003958321,
+  "name": "Gloom-Graced Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_satff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135175,
+    135195,
+    135215,
+    135235,
+    135255,
+    135275,
+    135295,
+    135315
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2677153422,
+  "name": "Soldier of Anguish Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144476,
+    144496,
+    144516,
+    144536,
+    144556,
+    144576,
+    144596,
+    144616
+  ]
+}

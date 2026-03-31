@@ -1,0 +1,19 @@
+{
+  "internalId": 3522664441,
+  "name": "Jack of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59973,
+    60008,
+    60043,
+    60078,
+    60113,
+    60148,
+    60183,
+    60218,
+    60253,
+    60288
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 139144126,
+  "name": "Gryphon's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135360,
+    135380,
+    135400,
+    135420,
+    135440,
+    135460,
+    135480,
+    135500
+  ]
+}

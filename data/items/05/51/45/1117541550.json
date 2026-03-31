@@ -1,0 +1,10 @@
+{
+  "internalId": 1117541550,
+  "name": "Vvardenfell Anemone, Strong",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_forestanemone003.png",
+  "bindType": -1,
+  "knownIds": [
+    126612
+  ]
+}

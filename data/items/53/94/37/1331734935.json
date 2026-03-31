@@ -1,0 +1,10 @@
+{
+  "internalId": 1331734935,
+  "name": "Mara's Breath",
+  "description": "Reverent prayers to the wife of Akatosh imbue this staff with an air of cheerful grace.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54361
+  ]
+}

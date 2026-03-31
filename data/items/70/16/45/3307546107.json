@@ -1,0 +1,19 @@
+{
+  "internalId": 3307546107,
+  "name": "Breeches of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59969,
+    60004,
+    60039,
+    60074,
+    60109,
+    60144,
+    60179,
+    60214,
+    60249,
+    60284
+  ]
+}

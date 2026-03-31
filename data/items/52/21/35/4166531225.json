@@ -1,0 +1,17 @@
+{
+  "internalId": 4166531225,
+  "name": "Sword of the Gorethief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    224378,
+    224413,
+    224448,
+    224483,
+    224518,
+    224553,
+    224588,
+    224623
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2780184362,
+  "name": "Elsweyr Platform, Stepped",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_roomraisedwalkwaycorner003.png",
+  "bindType": -1,
+  "knownIds": [
+    151769
+  ]
+}

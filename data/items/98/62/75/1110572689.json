@@ -1,0 +1,19 @@
+{
+  "internalId": 1110572689,
+  "name": "Tide-Born Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215506,
+    215561,
+    215596,
+    215631,
+    215666,
+    215701,
+    215736,
+    215771,
+    215806,
+    215841
+  ]
+}

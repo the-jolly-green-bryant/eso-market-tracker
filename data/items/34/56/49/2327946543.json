@@ -1,0 +1,16 @@
+{
+  "internalId": 2327946543,
+  "name": "steel greaves of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": -1,
+  "knownIds": [
+    634039,
+    457384,
+    575300,
+    463729,
+    411387,
+    441657,
+    455027
+  ]
+}

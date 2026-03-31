@@ -1,0 +1,11 @@
+{
+  "internalId": 1681275793,
+  "name": "Yellow Goblin Tonic",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_001.png",
+  "bindType": -1,
+  "knownIds": [
+    34041,
+    37832
+  ]
+}

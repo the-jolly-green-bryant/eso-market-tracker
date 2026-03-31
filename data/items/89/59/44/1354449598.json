@@ -1,0 +1,10 @@
+{
+  "internalId": 1354449598,
+  "name": "Stone, Slanted Lichen",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_auridonsmall005.png",
+  "bindType": -1,
+  "knownIds": [
+    120655
+  ]
+}

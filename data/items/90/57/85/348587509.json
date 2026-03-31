@@ -1,0 +1,17 @@
+{
+  "internalId": 348587509,
+  "name": "Bloodthorn Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96406,
+    96427,
+    96448,
+    96469,
+    96490,
+    96511,
+    96532,
+    96553
+  ]
+}

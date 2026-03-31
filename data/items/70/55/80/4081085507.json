@@ -1,0 +1,18 @@
+{
+  "internalId": 4081085507,
+  "name": "Shared Burden Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215171,
+    215206,
+    215241,
+    215276,
+    215311,
+    215346,
+    215381,
+    215416,
+    215451
+  ]
+}

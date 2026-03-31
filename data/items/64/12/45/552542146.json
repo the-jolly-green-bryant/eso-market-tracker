@@ -1,0 +1,15 @@
+{
+  "internalId": 552542146,
+  "name": "Spellshredder Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219203,
+    219224,
+    219245,
+    219266,
+    219287,
+    219308
+  ]
+}

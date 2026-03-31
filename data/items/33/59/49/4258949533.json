@@ -1,0 +1,10 @@
+{
+  "internalId": 4258949533,
+  "name": "Wayrest Guard's Cincture",
+  "description": "Captain Mathias Etienne gifted this belt on behalf of the Wayrest Guard as thanks for dispatching the head of the Backstreet Gang.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    6873
+  ]
+}

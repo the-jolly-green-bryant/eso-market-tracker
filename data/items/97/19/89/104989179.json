@@ -1,0 +1,10 @@
+{
+  "internalId": 104989179,
+  "name": "Druidic Bookcase, Short Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustoneshelves001.png",
+  "bindType": -1,
+  "knownIds": [
+    191170
+  ]
+}

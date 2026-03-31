@@ -1,0 +1,17 @@
+{
+  "internalId": 3490736610,
+  "name": "Werewolf Hide Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_2haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    86011,
+    86031,
+    86051,
+    86071,
+    86091,
+    86111,
+    86131,
+    86151
+  ]
+}

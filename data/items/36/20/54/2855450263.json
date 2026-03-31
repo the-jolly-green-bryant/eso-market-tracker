@@ -1,0 +1,10 @@
+{
+  "internalId": 2855450263,
+  "name": "Antlers, Wall Mount",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headantlers001.png",
+  "bindType": -1,
+  "knownIds": [
+    118290
+  ]
+}

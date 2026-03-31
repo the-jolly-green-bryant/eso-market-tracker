@@ -1,0 +1,13 @@
+{
+  "internalId": 941753748,
+  "name": "Shield of the Wyrd Tree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96863,
+    96883,
+    96903,
+    96923
+  ]
+}

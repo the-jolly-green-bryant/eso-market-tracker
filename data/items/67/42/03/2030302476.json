@@ -1,0 +1,10 @@
+{
+  "internalId": 2030302476,
+  "name": "Wood Elf Canopy, Spine",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_str_stablecanopy001.png",
+  "bindType": -1,
+  "knownIds": [
+    115618
+  ]
+}

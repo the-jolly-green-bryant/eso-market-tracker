@@ -1,0 +1,14 @@
+{
+  "internalId": 3245479280,
+  "name": "Blood Moon Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1264451,
+    1375938,
+    1418483,
+    1435277,
+    1500445
+  ]
+}

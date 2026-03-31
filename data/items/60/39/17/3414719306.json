@@ -1,0 +1,19 @@
+{
+  "internalId": 3414719306,
+  "name": "Daring Corsair's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155422,
+    155477,
+    155512,
+    155547,
+    155582,
+    155617,
+    155652,
+    155687,
+    155722,
+    155757
+  ]
+}

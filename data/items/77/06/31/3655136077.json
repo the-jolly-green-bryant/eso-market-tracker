@@ -1,0 +1,10 @@
+{
+  "internalId": 3655136077,
+  "name": "Black Forge Blade",
+  "description": "You were given this blade for exploring the Black Forge and restoring the great mage, Vanus Galerion.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    15727
+  ]
+}

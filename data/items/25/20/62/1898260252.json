@@ -1,0 +1,10 @@
+{
+  "internalId": 1898260252,
+  "name": "Soiled Linens",
+  "description": "These linens are soiled with sweat and blood.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    30329
+  ]
+}

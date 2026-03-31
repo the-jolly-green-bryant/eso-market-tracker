@@ -1,0 +1,16 @@
+{
+  "internalId": 3943384039,
+  "name": "Eye of the Grasp Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179960,
+    179981,
+    180002,
+    180023,
+    180044,
+    180065,
+    180086
+  ]
+}

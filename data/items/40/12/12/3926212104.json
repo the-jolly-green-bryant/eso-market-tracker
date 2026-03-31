@@ -1,0 +1,10 @@
+{
+  "internalId": 3926212104,
+  "name": "Dominion Battering Ram",
+  "description": "Creates a battering ram which can be used to destroy doors.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_004.png",
+  "bindType": -1,
+  "knownIds": [
+    27136
+  ]
+}

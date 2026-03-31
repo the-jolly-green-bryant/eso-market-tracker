@@ -1,0 +1,10 @@
+{
+  "internalId": 4152574489,
+  "name": "Serpentskin Gloves",
+  "description": "No matter how hot it gets, these gloves stay cool and supple on your hands.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7519
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 689384300,
+  "name": "Hlaalu Stairs, Sillar Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_waf_hlasidewalkstairs001.png",
+  "bindType": -1,
+  "knownIds": [
+    125570
+  ]
+}

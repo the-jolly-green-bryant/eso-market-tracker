@@ -1,0 +1,19 @@
+{
+  "internalId": 2899995462,
+  "name": "Gloves of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161617,
+    161672,
+    161707,
+    161742,
+    161777,
+    161812,
+    161847,
+    161882,
+    161917,
+    161952
+  ]
+}

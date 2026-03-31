@@ -1,0 +1,17 @@
+{
+  "internalId": 3870254761,
+  "name": "Three Queens Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214528,
+    214549,
+    214570,
+    214591,
+    214612,
+    214633,
+    214654,
+    214675
+  ]
+}

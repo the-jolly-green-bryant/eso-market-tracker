@@ -1,0 +1,17 @@
+{
+  "internalId": 785247550,
+  "name": "Ice Staff of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189690,
+    189710,
+    189730,
+    189750,
+    189770,
+    189790,
+    189810,
+    189830
+  ]
+}

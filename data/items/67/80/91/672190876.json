@@ -1,0 +1,18 @@
+{
+  "internalId": 672190876,
+  "name": "Shield of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158383,
+    158418,
+    158453,
+    158488,
+    158523,
+    158558,
+    158593,
+    158628,
+    158663
+  ]
+}

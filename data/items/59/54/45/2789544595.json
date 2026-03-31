@@ -1,0 +1,10 @@
+{
+  "internalId": 2789544595,
+  "name": "Vampiric Sideboard, Racks",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirewinerack001.png",
+  "bindType": -1,
+  "knownIds": [
+    165585
+  ]
+}

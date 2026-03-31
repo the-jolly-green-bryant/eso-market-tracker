@@ -1,0 +1,19 @@
+{
+  "internalId": 1549901765,
+  "name": "Coldharbour's Favorite Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    147984,
+    147986,
+    147988,
+    147990,
+    147992,
+    147994,
+    147996,
+    147998,
+    148000,
+    148002
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 3688600331,
+  "name": "Shoes of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158392,
+    158427,
+    158462,
+    158497,
+    158532,
+    158567,
+    158602,
+    158637,
+    158672
+  ]
+}

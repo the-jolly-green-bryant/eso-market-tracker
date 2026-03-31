@@ -1,0 +1,14 @@
+{
+  "internalId": 1240660447,
+  "name": "Shattered Fate Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194760,
+    194795,
+    194830,
+    194865,
+    194900
+  ]
+}

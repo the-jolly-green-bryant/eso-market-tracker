@@ -1,0 +1,15 @@
+{
+  "internalId": 2829812850,
+  "name": "Spellshredder Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219197,
+    219218,
+    219239,
+    219260,
+    219281,
+    219302
+  ]
+}

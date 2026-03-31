@@ -1,0 +1,10 @@
+{
+  "internalId": 3951823713,
+  "name": "Druidic End Table, Ivy Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustoneendtable001.png",
+  "bindType": -1,
+  "knownIds": [
+    191168
+  ]
+}

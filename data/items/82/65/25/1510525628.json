@@ -1,0 +1,10 @@
+{
+  "internalId": 1510525628,
+  "name": "Imperial Throne of the Bay",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_throne001.png",
+  "bindType": -1,
+  "knownIds": [
+    94181
+  ]
+}

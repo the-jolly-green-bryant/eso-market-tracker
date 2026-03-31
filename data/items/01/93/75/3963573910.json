@@ -1,0 +1,24 @@
+{
+  "internalId": 3963573910,
+  "name": "Stonekeeper's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedstonekeeper_shoulders_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1308275,
+    1310110,
+    1328260,
+    1335451,
+    1336768,
+    1348946,
+    1361708,
+    1400800,
+    1445781,
+    1514867,
+    1526793,
+    1552451,
+    1561953,
+    1569943,
+    1606484
+  ]
+}

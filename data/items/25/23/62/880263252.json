@@ -1,0 +1,16 @@
+{
+  "internalId": 880263252,
+  "name": "Recipe: Deregulated Mushroom Stew",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1170992,
+    1279462,
+    1282768,
+    1322394,
+    1353086,
+    1355481,
+    1388864
+  ]
+}

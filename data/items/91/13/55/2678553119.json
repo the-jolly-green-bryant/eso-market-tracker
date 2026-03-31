@@ -1,0 +1,14 @@
+{
+  "internalId": 2678553119,
+  "name": "Grave-Stake Collector Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143008,
+    143043,
+    143078,
+    143113,
+    143148
+  ]
+}

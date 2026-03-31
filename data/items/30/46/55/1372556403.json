@@ -1,0 +1,17 @@
+{
+  "internalId": 1372556403,
+  "name": "Bracers of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95660,
+    95680,
+    95700,
+    95720,
+    95740,
+    95760,
+    95780,
+    95800
+  ]
+}

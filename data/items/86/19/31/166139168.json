@@ -1,0 +1,10 @@
+{
+  "internalId": 166139168,
+  "name": "Daedric Rune ZTestContent",
+  "description": "This rune radiates with Daedric magic",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": -1,
+  "knownIds": [
+    5159
+  ]
+}

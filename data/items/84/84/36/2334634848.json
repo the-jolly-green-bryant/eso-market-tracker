@@ -1,0 +1,13 @@
+{
+  "internalId": 2334634848,
+  "name": "Blackfeather Flight Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214168,
+    214188,
+    214208,
+    214228
+  ]
+}

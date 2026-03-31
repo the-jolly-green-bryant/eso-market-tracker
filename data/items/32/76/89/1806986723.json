@@ -1,0 +1,17 @@
+{
+  "internalId": 1806986723,
+  "name": "Dagger of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86942,
+    86962,
+    86982,
+    87002,
+    87022,
+    87042,
+    87062,
+    87082
+  ]
+}

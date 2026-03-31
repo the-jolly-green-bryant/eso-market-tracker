@@ -1,0 +1,20 @@
+{
+  "internalId": 3330946113,
+  "name": "Boots of Rushing Agony",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1519301,
+    1520837,
+    1556049,
+    1556054,
+    1559589,
+    1559630,
+    1559642,
+    1565377,
+    1574240,
+    1600404,
+    1624036
+  ]
+}

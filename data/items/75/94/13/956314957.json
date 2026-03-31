@@ -1,0 +1,10 @@
+{
+  "internalId": 956314957,
+  "name": "Crafting Motif 91: Hazardous Alchemy Shoulders",
+  "description": "Use to learn how to make Hazardous Alchemy Shoulders. Also teaches the equivalent Hazardous Alchemy Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167001
+  ]
+}

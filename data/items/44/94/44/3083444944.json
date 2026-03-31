@@ -1,0 +1,10 @@
+{
+  "internalId": 3083444944,
+  "name": "Reforged Blade of the Rahni'Za",
+  "description": "A blade meant to represent the trials of Rahni'Za. Present it to the trial master after the Final Trial.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hsword_e.png",
+  "bindType": -1,
+  "knownIds": [
+    81238
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 472444174,
+  "name": "Meridia's Healing Rod",
+  "description": "A staff of healing, awarded for service to Meridia's priests at the Kilkreath Temple.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    159702
+  ]
+}

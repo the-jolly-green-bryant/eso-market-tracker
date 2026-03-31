@@ -1,0 +1,25 @@
+{
+  "internalId": 2297712050,
+  "name": "Ring of the Risen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    571572,
+    574465,
+    576463,
+    417217,
+    579065,
+    805281,
+    829450,
+    856473,
+    884639,
+    1069451,
+    1131114,
+    1180840,
+    1284341,
+    1429319,
+    1459403,
+    1596835
+  ]
+}

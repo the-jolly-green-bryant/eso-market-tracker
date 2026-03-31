@@ -1,0 +1,14 @@
+{
+  "internalId": 334659079,
+  "name": "Eternal Hunt Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72667,
+    72702,
+    72737,
+    72772,
+    72807
+  ]
+}

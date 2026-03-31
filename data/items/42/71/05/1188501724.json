@@ -1,0 +1,10 @@
+{
+  "internalId": 1188501724,
+  "name": "Potash",
+  "description": "An ingredient for crafting in the Malacath style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_malacath.png",
+  "bindType": -1,
+  "knownIds": [
+    71584
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 3516205848,
+  "name": "Greatsword of Gryphon's Reprisal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1578042,
+    1595406,
+    1601025,
+    1602889,
+    1617974,
+    1650391,
+    1757749
+  ]
+}

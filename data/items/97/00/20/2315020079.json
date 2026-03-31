@@ -1,0 +1,12 @@
+{
+  "internalId": 2315020079,
+  "name": "Exotic Small Light Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54534,
+    54544,
+    54554
+  ]
+}

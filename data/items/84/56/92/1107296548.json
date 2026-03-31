@@ -1,0 +1,10 @@
+{
+  "internalId": 1107296548,
+  "name": "Runebox: Arena Gladiator Helm",
+  "description": "Contains an Arena Gladiator Helm. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    138784
+  ]
+}

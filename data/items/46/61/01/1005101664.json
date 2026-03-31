@@ -1,0 +1,18 @@
+{
+  "internalId": 1005101664,
+  "name": "Flame Blossom Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1205660,
+    1225582,
+    1359611,
+    1559412,
+    1595247,
+    1602333,
+    1603274,
+    1716342,
+    1747635
+  ]
+}

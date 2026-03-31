@@ -1,0 +1,10 @@
+{
+  "internalId": 2389326638,
+  "name": "Wood Elf Urn, Deer",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_vasemedium003.png",
+  "bindType": -1,
+  "knownIds": [
+    115563
+  ]
+}

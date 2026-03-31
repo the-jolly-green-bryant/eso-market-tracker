@@ -1,0 +1,10 @@
+{
+  "internalId": 1105193397,
+  "name": "Redguard Carpet, Oasis",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    117854
+  ]
+}

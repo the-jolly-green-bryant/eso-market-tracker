@@ -1,0 +1,10 @@
+{
+  "internalId": 2705442143,
+  "name": "Orcish Hutch, Engraved",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgcabinettall001.png",
+  "bindType": -1,
+  "knownIds": [
+    116430
+  ]
+}

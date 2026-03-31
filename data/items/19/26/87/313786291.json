@@ -1,0 +1,10 @@
+{
+  "internalId": 313786291,
+  "name": "Base Game Achievement Furnishings: Aldmeri",
+  "description": "This Crate contains all of the base game Aldmeri Dominion Achievement Furnishings.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": 3,
+  "knownIds": [
+    214267
+  ]
+}

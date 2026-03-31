@@ -1,0 +1,19 @@
+{
+  "internalId": 2228832209,
+  "name": "Maul of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59950,
+    59985,
+    60020,
+    60055,
+    60090,
+    60125,
+    60160,
+    60195,
+    60230,
+    60265
+  ]
+}

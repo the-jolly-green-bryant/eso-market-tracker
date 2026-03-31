@@ -1,0 +1,10 @@
+{
+  "internalId": 2872479665,
+  "name": "Leyawiin Stairway, Wooden",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leycellarstairs003.png",
+  "bindType": -1,
+  "knownIds": [
+    181518
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": 1440769847,
+  "name": "Maul of the Infallible Aether",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1123393,
+    1138933,
+    1182760,
+    1254944,
+    1255857,
+    1262106,
+    1387454,
+    1442738,
+    1514341,
+    1516515,
+    1541948,
+    1561333,
+    1567789,
+    1578025,
+    1581707,
+    1615041,
+    1743073,
+    1745315
+  ]
+}

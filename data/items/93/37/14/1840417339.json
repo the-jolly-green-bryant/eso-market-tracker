@@ -1,0 +1,19 @@
+{
+  "internalId": 1840417339,
+  "name": "New Moon Acolyte's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156180,
+    156235,
+    156270,
+    156305,
+    156340,
+    156375,
+    156410,
+    156445,
+    156480,
+    156515
+  ]
+}

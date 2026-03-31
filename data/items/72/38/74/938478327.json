@@ -1,0 +1,18 @@
+{
+  "internalId": 938478327,
+  "name": "Roaring Opportunist's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_dagger.png",
+  "bindType": -1,
+  "knownIds": [
+    1384722,
+    1386902,
+    1455741,
+    1484932,
+    1615247,
+    1615570,
+    1745727,
+    1746269,
+    1778251
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1433852576,
+  "name": "Hat of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97235,
+    97256,
+    97277,
+    97298,
+    97319,
+    97340,
+    97361,
+    97382,
+    97403
+  ]
+}

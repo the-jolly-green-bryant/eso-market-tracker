@@ -1,0 +1,28 @@
+{
+  "internalId": 49284989,
+  "name": "The Master's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_e.png",
+  "bindType": -1,
+  "knownIds": [
+    876430,
+    1075874,
+    1075963,
+    1085752,
+    1131182,
+    1145525,
+    1166977,
+    1198204,
+    1366810,
+    1367507,
+    1378990,
+    1395922,
+    1397493,
+    1477935,
+    1505543,
+    1519050,
+    1565676,
+    1607827,
+    1631355
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 999124154,
+  "name": "Farstrider Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211758,
+    211778,
+    211798,
+    211818,
+    211838,
+    211858,
+    211878,
+    211898
+  ]
+}

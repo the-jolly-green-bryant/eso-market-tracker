@@ -1,0 +1,10 @@
+{
+  "internalId": 835143403,
+  "name": "Dawnwood Bedding, Skins",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosmerbeds001.png",
+  "bindType": -1,
+  "knownIds": [
+    204670
+  ]
+}

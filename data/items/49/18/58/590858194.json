@@ -1,0 +1,15 @@
+{
+  "internalId": 590858194,
+  "name": "Necklace of the Code",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139746,
+    139836,
+    139926,
+    140016,
+    140106,
+    140196
+  ]
+}

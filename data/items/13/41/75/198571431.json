@@ -1,0 +1,10 @@
+{
+  "internalId": 198571431,
+  "name": "Crofter's Corslet",
+  "description": "In addition to pledging to build a statue in your honor, Ganise Nurin of Nurin Farm awarded this armor for saving her father from the Supernal Dreamers.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    4609
+  ]
+}

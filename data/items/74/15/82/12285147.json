@@ -1,0 +1,11 @@
+{
+  "internalId": 12285147,
+  "name": "Fellowship's Fortitude Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    216170,
+    216205
+  ]
+}

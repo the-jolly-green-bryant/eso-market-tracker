@@ -1,0 +1,20 @@
+{
+  "internalId": 625717683,
+  "name": "Azureblight Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1340980,
+    1345728,
+    1374552,
+    1415280,
+    1418346,
+    1474184,
+    1488928,
+    1524268,
+    1561812,
+    1572529,
+    1765566
+  ]
+}

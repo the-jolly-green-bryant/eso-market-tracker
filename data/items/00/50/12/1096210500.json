@@ -1,0 +1,10 @@
+{
+  "internalId": 1096210500,
+  "name": "Alliance Crafted Sets",
+  "description": "Crafted Sets found in Alliance controlled zones in Tamriel.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182334
+  ]
+}

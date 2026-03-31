@@ -1,0 +1,10 @@
+{
+  "internalId": 914341554,
+  "name": "Argonian Lamppost",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklamppole001.png",
+  "bindType": -1,
+  "knownIds": [
+    115493
+  ]
+}

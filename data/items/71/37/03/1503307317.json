@@ -1,0 +1,10 @@
+{
+  "internalId": 1503307317,
+  "name": "Nereid's Slippers",
+  "description": "These slippers vibrate softly when near sources of running water.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1749
+  ]
+}

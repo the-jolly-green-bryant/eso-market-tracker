@@ -1,0 +1,17 @@
+{
+  "internalId": 2563098050,
+  "name": "Bloodthorn Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96409,
+    96430,
+    96451,
+    96472,
+    96493,
+    96514,
+    96535,
+    96556
+  ]
+}

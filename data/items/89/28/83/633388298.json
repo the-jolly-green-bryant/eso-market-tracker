@@ -1,0 +1,19 @@
+{
+  "internalId": 633388298,
+  "name": "Amulet of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161631,
+    161633,
+    161635,
+    161637,
+    161639,
+    161641,
+    161643,
+    161645,
+    161647,
+    161649
+  ]
+}

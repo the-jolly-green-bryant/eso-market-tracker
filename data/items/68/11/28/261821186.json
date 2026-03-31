@@ -1,0 +1,18 @@
+{
+  "internalId": 261821186,
+  "name": "Senchal Defender's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154847,
+    154867,
+    154887,
+    154907,
+    154927,
+    154947,
+    154967,
+    154987,
+    155007
+  ]
+}

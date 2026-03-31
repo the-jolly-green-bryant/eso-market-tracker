@@ -1,0 +1,20 @@
+{
+  "internalId": 4157102740,
+  "name": "Maul of Explosive Rebuke",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1395191,
+    1402576,
+    1417354,
+    1456763,
+    1543081,
+    1563040,
+    1593987,
+    1615116,
+    1648450,
+    1661365,
+    1722211
+  ]
+}

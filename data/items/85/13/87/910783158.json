@@ -1,0 +1,10 @@
+{
+  "internalId": 910783158,
+  "name": "Yokudan Sarcophagus Base, Gilded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_duc_sarcophagusbodybottom001.png",
+  "bindType": -1,
+  "knownIds": [
+    193805
+  ]
+}

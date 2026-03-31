@@ -1,0 +1,21 @@
+{
+  "internalId": 1206861126,
+  "name": "War Machine Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1257694,
+    1396291,
+    1396335,
+    1400301,
+    1404341,
+    1414134,
+    1470321,
+    1544886,
+    1601562,
+    1631305,
+    1634233,
+    1761543
+  ]
+}

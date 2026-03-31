@@ -1,0 +1,10 @@
+{
+  "internalId": 653477996,
+  "name": "Nord Trunk, Faded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_chest003.png",
+  "bindType": -1,
+  "knownIds": [
+    115371
+  ]
+}

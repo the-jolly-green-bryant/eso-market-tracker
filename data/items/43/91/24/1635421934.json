@@ -1,0 +1,10 @@
+{
+  "internalId": 1635421934,
+  "name": "Orcish Sideboard, Engraved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgcabinet001.png",
+  "bindType": -1,
+  "knownIds": [
+    116428
+  ]
+}

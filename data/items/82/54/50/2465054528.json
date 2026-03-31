@@ -1,0 +1,17 @@
+{
+  "internalId": 2465054528,
+  "name": "Gauntlets of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78623,
+    78658,
+    78693,
+    78728,
+    78763,
+    78798,
+    78833,
+    78868
+  ]
+}

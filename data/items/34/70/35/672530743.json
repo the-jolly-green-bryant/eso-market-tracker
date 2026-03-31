@@ -1,0 +1,11 @@
+{
+  "internalId": 672530743,
+  "name": "Gossamer Mazte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
+  "bindType": -1,
+  "knownIds": [
+    33957,
+    37842
+  ]
+}

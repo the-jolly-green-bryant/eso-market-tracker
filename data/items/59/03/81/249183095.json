@@ -1,0 +1,10 @@
+{
+  "internalId": 249183095,
+  "name": "Stones, Granite Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_eastmarchsmall007.png",
+  "bindType": -1,
+  "knownIds": [
+    132220
+  ]
+}

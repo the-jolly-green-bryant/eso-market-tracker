@@ -1,0 +1,10 @@
+{
+  "internalId": 3700520148,
+  "name": "The Pincher of Hist Sap",
+  "description": "This dagger looks to be made from the pincher of a giant insect.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34936
+  ]
+}

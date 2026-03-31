@@ -1,0 +1,19 @@
+{
+  "internalId": 1102531583,
+  "name": "Telvanni Efficiency Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    194978,
+    194980,
+    194982,
+    194984,
+    194986,
+    194988,
+    194990,
+    194992,
+    194994,
+    194996
+  ]
+}

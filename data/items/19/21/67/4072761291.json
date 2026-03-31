@@ -1,0 +1,10 @@
+{
+  "internalId": 4072761291,
+  "name": "Ring of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86561
+  ]
+}

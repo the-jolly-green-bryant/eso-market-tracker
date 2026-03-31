@@ -1,0 +1,10 @@
+{
+  "internalId": 653339704,
+  "name": "Antique Map of Coldharbour",
+  "description": "One might question the sanity of the cartographer of this map, but according to experts in planar travel, it's remarkably accurate.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_mappropscoldharborscroll001.png",
+  "bindType": -1,
+  "knownIds": [
+    165993
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4095386215,
+  "name": "Mushroom, Sturdy Milkcap",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdmedmush001.png",
+  "bindType": -1,
+  "knownIds": [
+    125604
+  ]
+}

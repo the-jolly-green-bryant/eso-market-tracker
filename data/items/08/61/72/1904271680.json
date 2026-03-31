@@ -1,0 +1,13 @@
+{
+  "internalId": 1904271680,
+  "name": "Leki's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199349,
+    199350,
+    199351,
+    199352
+  ]
+}

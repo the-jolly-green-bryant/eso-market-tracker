@@ -1,0 +1,11 @@
+{
+  "internalId": 2767617711,
+  "name": "Dominion Frost Lancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_frost.png",
+  "bindType": -1,
+  "knownIds": [
+    1392493,
+    1525473
+  ]
+}

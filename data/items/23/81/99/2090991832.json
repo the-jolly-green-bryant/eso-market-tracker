@@ -1,0 +1,12 @@
+{
+  "internalId": 2090991832,
+  "name": "Axe of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131315,
+    131350,
+    131385
+  ]
+}

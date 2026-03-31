@@ -1,0 +1,10 @@
+{
+  "internalId": 2498863438,
+  "name": "Meip",
+  "description": "Meip",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_021.png",
+  "bindType": -1,
+  "knownIds": [
+    45840
+  ]
+}

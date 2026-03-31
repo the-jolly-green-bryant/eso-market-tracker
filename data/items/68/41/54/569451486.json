@@ -1,0 +1,10 @@
+{
+  "internalId": 569451486,
+  "name": "Hlaalu Pauldrons",
+  "description": "For investigating Maulborn activities in Narsis, Varon Davel gave you these pauldrons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7327
+  ]
+}

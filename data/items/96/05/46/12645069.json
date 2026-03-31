@@ -1,0 +1,10 @@
+{
+  "internalId": 12645069,
+  "name": "Painting of High Elf Tower, Refined",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwood003.png",
+  "bindType": -1,
+  "knownIds": [
+    139071
+  ]
+}

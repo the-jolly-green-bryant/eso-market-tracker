@@ -1,0 +1,10 @@
+{
+  "internalId": 3866750946,
+  "name": "Worm Cult Cage, Closed",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_str_cage001.png",
+  "bindType": -1,
+  "knownIds": [
+    217584
+  ]
+}

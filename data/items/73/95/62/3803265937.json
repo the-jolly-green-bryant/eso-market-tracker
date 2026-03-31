@@ -1,0 +1,17 @@
+{
+  "internalId": 3803265937,
+  "name": "Boots of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98161,
+    98181,
+    98201,
+    98221,
+    98241,
+    98261,
+    98281,
+    98301
+  ]
+}

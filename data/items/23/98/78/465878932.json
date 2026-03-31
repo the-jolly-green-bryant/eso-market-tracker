@@ -1,0 +1,19 @@
+{
+  "internalId": 465878932,
+  "name": "Vastarie's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148707,
+    148762,
+    148797,
+    148832,
+    148867,
+    148902,
+    148937,
+    148972,
+    149007,
+    149042
+  ]
+}

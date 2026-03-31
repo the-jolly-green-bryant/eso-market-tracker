@@ -1,0 +1,17 @@
+{
+  "internalId": 4150271726,
+  "name": "Gloves of the Onslaught",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90624,
+    90645,
+    90666,
+    90687,
+    90708,
+    90729,
+    90750,
+    90771
+  ]
+}

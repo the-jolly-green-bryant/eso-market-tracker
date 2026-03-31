@@ -1,0 +1,10 @@
+{
+  "internalId": 1357929008,
+  "name": "Mushrooms, Flapjack Stack",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_treemushrooms001.png",
+  "bindType": -1,
+  "knownIds": [
+    134950
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3854609859,
+  "name": "Dres Carpet, Fertile Peat",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaruglarge003.png",
+  "bindType": -1,
+  "knownIds": [
+    126363
+  ]
+}

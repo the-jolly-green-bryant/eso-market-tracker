@@ -1,0 +1,20 @@
+{
+  "internalId": 3308983145,
+  "name": "Scorion's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_dagger.png",
+  "bindType": -1,
+  "knownIds": [
+    1540075,
+    1542185,
+    1556889,
+    1560690,
+    1623950,
+    1626003,
+    1651310,
+    1679672,
+    1731345,
+    1749942,
+    1752313
+  ]
+}

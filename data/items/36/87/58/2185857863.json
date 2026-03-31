@@ -1,0 +1,19 @@
+{
+  "internalId": 2185857863,
+  "name": "Shield of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58183,
+    58218,
+    58253,
+    58288,
+    58323,
+    58358,
+    58393,
+    58428,
+    58463,
+    58498
+  ]
+}

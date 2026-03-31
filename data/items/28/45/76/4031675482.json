@@ -1,0 +1,17 @@
+{
+  "internalId": 4031675482,
+  "name": "Plaguebreak Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180612,
+    180632,
+    180652,
+    180672,
+    180692,
+    180712,
+    180732,
+    180752
+  ]
+}

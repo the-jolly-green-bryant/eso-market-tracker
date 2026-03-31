@@ -1,0 +1,19 @@
+{
+  "internalId": 768088085,
+  "name": "Jack of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75764,
+    75799,
+    75834,
+    75869,
+    75904,
+    75939,
+    75974,
+    76009,
+    76044,
+    76079
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2539796002,
+  "name": "Flowers, Blue Starbloom",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_bosmersacredplant001.png",
+  "bindType": -1,
+  "knownIds": [
+    134830
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1211883043,
+  "name": "Liberator's Spaulders",
+  "description": "General Thoda rewarded your efforts to stop the Imperials in Satakalaam with this armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10087
+  ]
+}

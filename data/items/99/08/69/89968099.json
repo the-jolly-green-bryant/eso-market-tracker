@@ -1,0 +1,10 @@
+{
+  "internalId": 89968099,
+  "name": "Orcish Cabinet, Bedside",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgdressershort001.png",
+  "bindType": -1,
+  "knownIds": [
+    116435
+  ]
+}

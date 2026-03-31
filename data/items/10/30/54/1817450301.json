@@ -1,0 +1,10 @@
+{
+  "internalId": 1817450301,
+  "name": "Leyawiin Bed, Formal Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leybedsmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    175599
+  ]
+}

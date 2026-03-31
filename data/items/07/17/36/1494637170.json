@@ -1,0 +1,19 @@
+{
+  "internalId": 1494637170,
+  "name": "New Moon Acolyte's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156172,
+    156227,
+    156262,
+    156297,
+    156332,
+    156367,
+    156402,
+    156437,
+    156472,
+    156507
+  ]
+}

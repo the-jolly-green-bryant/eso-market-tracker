@@ -1,0 +1,13 @@
+{
+  "internalId": 579148347,
+  "name": "Aetheric Lancer Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1738633,
+    1739141,
+    1761512,
+    1763235
+  ]
+}

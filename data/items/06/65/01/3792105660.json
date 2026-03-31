@@ -1,0 +1,18 @@
+{
+  "internalId": 3792105660,
+  "name": "Hat of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116723,
+    116744,
+    116765,
+    116786,
+    116807,
+    116828,
+    116849,
+    116870,
+    116891
+  ]
+}

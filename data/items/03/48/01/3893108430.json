@@ -1,0 +1,19 @@
+{
+  "internalId": 3893108430,
+  "name": "Robe of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59965,
+    60000,
+    60035,
+    60070,
+    60105,
+    60140,
+    60175,
+    60210,
+    60245,
+    60280
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2739649081,
+  "name": "Bloodthorn Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96415,
+    96436,
+    96457,
+    96478,
+    96499,
+    96520,
+    96541,
+    96562
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 348963640,
+  "name": "Robe of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91959,
+    91980,
+    92001,
+    92022,
+    92043,
+    92064,
+    92085,
+    92106
+  ]
+}

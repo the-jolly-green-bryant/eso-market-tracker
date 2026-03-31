@@ -1,0 +1,13 @@
+{
+  "internalId": 3035791262,
+  "name": "Mace of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129639,
+    129651,
+    129663,
+    129675
+  ]
+}

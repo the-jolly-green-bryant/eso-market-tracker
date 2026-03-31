@@ -1,0 +1,10 @@
+{
+  "internalId": 693248183,
+  "name": "Diagnan Hauberk",
+  "description": "The historian Sharela gave you this Yokudan jerkin for resolving a scholarly dispute over who is buried in Honor's Rest.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    71004
+  ]
+}

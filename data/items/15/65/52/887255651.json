@@ -1,0 +1,17 @@
+{
+  "internalId": 887255651,
+  "name": "Ring of Leeching",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1081683,
+    1087151,
+    1130609,
+    1132190,
+    1173325,
+    1443043,
+    1443727,
+    1596369
+  ]
+}

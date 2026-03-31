@@ -1,0 +1,14 @@
+{
+  "internalId": 3826243615,
+  "name": "leather bracers of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    549560,
+    616192,
+    615868,
+    719301,
+    871801
+  ]
+}

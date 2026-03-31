@@ -1,0 +1,10 @@
+{
+  "internalId": 144870262,
+  "name": "Painting of Great Ruins, Bolted",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varpuzzlepaintings004.png",
+  "bindType": -1,
+  "knownIds": [
+    118268
+  ]
+}

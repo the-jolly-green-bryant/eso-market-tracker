@@ -1,0 +1,10 @@
+{
+  "internalId": 104928297,
+  "name": "Redguard Bowl, Hanging Star",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varhangingplanter001.png",
+  "bindType": -1,
+  "knownIds": [
+    117724
+  ]
+}

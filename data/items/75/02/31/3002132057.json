@@ -1,0 +1,15 @@
+{
+  "internalId": 3002132057,
+  "name": "Greatsword of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70094,
+    70129,
+    70164,
+    70199,
+    70234,
+    70269
+  ]
+}

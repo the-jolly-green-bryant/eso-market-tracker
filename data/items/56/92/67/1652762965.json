@@ -1,0 +1,14 @@
+{
+  "internalId": 1652762965,
+  "name": "Battle Axe of Glory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1190954,
+    1262471,
+    1303591,
+    1548188,
+    1693104
+  ]
+}

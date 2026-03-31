@@ -1,0 +1,10 @@
+{
+  "internalId": 681910842,
+  "name": "Ritual Stone, Dibella",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_sigilstonedibella001.png",
+  "bindType": -1,
+  "knownIds": [
+    134905
+  ]
+}

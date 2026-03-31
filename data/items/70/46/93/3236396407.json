@@ -1,0 +1,10 @@
+{
+  "internalId": 3236396407,
+  "name": "Argonian Banner, Half Hands",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_longbannerset002.png",
+  "bindType": -1,
+  "knownIds": [
+    115527
+  ]
+}

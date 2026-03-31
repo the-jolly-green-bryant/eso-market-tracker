@@ -1,0 +1,10 @@
+{
+  "internalId": 858053213,
+  "name": "Orcish Wagon, Merchant",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_csb_wtgcart004.png",
+  "bindType": -1,
+  "knownIds": [
+    141758
+  ]
+}

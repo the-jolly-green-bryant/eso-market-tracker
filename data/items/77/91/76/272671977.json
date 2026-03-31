@@ -1,0 +1,17 @@
+{
+  "internalId": 272671977,
+  "name": "Crafty Alfiq's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149254,
+    149275,
+    149296,
+    149317,
+    149338,
+    149359,
+    149380,
+    149401
+  ]
+}

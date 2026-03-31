@@ -1,0 +1,13 @@
+{
+  "internalId": 1732176984,
+  "name": "Sabatons of Fasalla's Guile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199147,
+    199148,
+    199149,
+    199150
+  ]
+}

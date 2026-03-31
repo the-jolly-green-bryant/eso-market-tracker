@@ -1,0 +1,10 @@
+{
+  "internalId": 3995529379,
+  "name": "Attunable Woodworking Station",
+  "description": "Use when at an Item Set Crafting Station to create a woodworking station for that item set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletablewoodworking001.png",
+  "bindType": -1,
+  "knownIds": [
+    119822
+  ]
+}

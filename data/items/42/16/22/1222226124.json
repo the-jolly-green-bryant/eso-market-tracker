@@ -1,0 +1,22 @@
+{
+  "internalId": 1222226124,
+  "name": "Draugr's Rest Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1266560,
+    1294344,
+    1345135,
+    1374424,
+    1398699,
+    1540855,
+    1564239,
+    1594505,
+    1595130,
+    1600985,
+    1624088,
+    1636125,
+    1742457
+  ]
+}

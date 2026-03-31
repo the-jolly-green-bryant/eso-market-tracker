@@ -1,0 +1,10 @@
+{
+  "internalId": 3411163576,
+  "name": "Rough Knife, Butcher",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_butcherknife001.png",
+  "bindType": -1,
+  "knownIds": [
+    117942
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2098139171,
+  "name": "Runner of the Sun, Faded",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugrunnerworn002.png",
+  "bindType": -1,
+  "knownIds": [
+    118157
+  ]
+}

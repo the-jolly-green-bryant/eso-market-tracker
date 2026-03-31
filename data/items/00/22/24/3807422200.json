@@ -1,0 +1,14 @@
+{
+  "internalId": 3807422200,
+  "name": "Soulcleaver Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1692300,
+    1697539,
+    1738579,
+    1745954,
+    1760474
+  ]
+}

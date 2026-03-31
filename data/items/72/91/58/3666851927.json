@@ -1,0 +1,20 @@
+{
+  "internalId": 3666851927,
+  "name": "Necklace of the Lich",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    942302,
+    947407,
+    1172444,
+    1198978,
+    1261010,
+    1449077,
+    1470663,
+    1500515,
+    1559314,
+    1573284,
+    1593929
+  ]
+}

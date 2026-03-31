@@ -1,0 +1,17 @@
+{
+  "internalId": 304488221,
+  "name": "Shield of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171962,
+    171983,
+    172004,
+    172025,
+    172046,
+    172067,
+    172088,
+    172109
+  ]
+}

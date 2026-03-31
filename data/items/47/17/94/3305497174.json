@@ -1,0 +1,17 @@
+{
+  "internalId": 3305497174,
+  "name": "Ysgramor's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101332,
+    101353,
+    101374,
+    101395,
+    101416,
+    101437,
+    101458,
+    101479
+  ]
+}

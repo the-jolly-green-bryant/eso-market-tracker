@@ -1,0 +1,10 @@
+{
+  "internalId": 724512282,
+  "name": "Netch-Hunter's Bow of the Red Mountain",
+  "description": "Taken up by a fallen hunter in the Brahma's Grove.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43020
+  ]
+}

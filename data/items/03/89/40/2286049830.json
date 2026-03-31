@@ -1,0 +1,10 @@
+{
+  "internalId": 2286049830,
+  "name": "Elsweyr Bed, Rumpled Elegant Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_bedmedmessy001.png",
+  "bindType": -1,
+  "knownIds": [
+    151672
+  ]
+}

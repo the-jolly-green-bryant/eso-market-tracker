@@ -1,0 +1,12 @@
+{
+  "internalId": 3104111155,
+  "name": "Lionbanner Buckler",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    714545,
+    618878,
+    495119
+  ]
+}

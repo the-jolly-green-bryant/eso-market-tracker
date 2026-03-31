@@ -1,0 +1,13 @@
+{
+  "internalId": 3483137164,
+  "name": "splendid glyph of weapon damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_berserking.png",
+  "bindType": -1,
+  "knownIds": [
+    597354,
+    498902,
+    1428614,
+    1446640
+  ]
+}

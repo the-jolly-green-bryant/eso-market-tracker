@@ -1,0 +1,17 @@
+{
+  "internalId": 2912993367,
+  "name": "Winterborn Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1369050,
+    1371150,
+    1388417,
+    1406442,
+    1515217,
+    1517547,
+    1519266,
+    1690962
+  ]
+}

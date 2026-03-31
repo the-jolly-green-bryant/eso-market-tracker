@@ -1,0 +1,10 @@
+{
+  "internalId": 451407783,
+  "name": "Khralek's Anguish",
+  "description": "You received this staff after defeating Khralek gro-Vortag and aiding the Dark Elf spirits at Malak's Maw.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7328
+  ]
+}

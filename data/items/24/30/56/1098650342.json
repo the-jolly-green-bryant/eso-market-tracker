@@ -1,0 +1,13 @@
+{
+  "internalId": 1098650342,
+  "name": "Aetheric Lancer Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1738542,
+    1754382,
+    1760052,
+    1760735
+  ]
+}

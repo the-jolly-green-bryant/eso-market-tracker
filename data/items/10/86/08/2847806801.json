@@ -1,0 +1,10 @@
+{
+  "internalId": 2847806801,
+  "name": "Elsweyr Cup of Rice, Gilded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_cupwithfood001.png",
+  "bindType": -1,
+  "knownIds": [
+    151644
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1165124048,
+  "name": "Pelinal's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76269,
+    76304,
+    76339,
+    76374,
+    76409
+  ]
+}

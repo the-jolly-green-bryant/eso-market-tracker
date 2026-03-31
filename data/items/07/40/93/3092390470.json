@@ -1,0 +1,19 @@
+{
+  "internalId": 3092390470,
+  "name": "Telvanni Efficiency Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194956,
+    195011,
+    195046,
+    195081,
+    195116,
+    195151,
+    195186,
+    195221,
+    195256,
+    195291
+  ]
+}

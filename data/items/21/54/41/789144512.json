@@ -1,0 +1,10 @@
+{
+  "internalId": 789144512,
+  "name": "Petals, Large Blanket",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_petalcarpet002.png",
+  "bindType": -1,
+  "knownIds": [
+    156772
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3858371751,
+  "name": "Guards of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158348,
+    158403,
+    158438,
+    158473,
+    158508,
+    158543,
+    158578,
+    158613,
+    158648,
+    158683
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3054099648,
+  "name": "Shacklebreaker Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122477,
+    122512,
+    122547,
+    122582
+  ]
+}

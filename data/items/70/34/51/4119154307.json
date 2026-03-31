@@ -1,0 +1,17 @@
+{
+  "internalId": 4119154307,
+  "name": "Draoife Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190710,
+    190730,
+    190750,
+    190770,
+    190790,
+    190810,
+    190830,
+    190850
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3500152989,
+  "name": "Common Campfire, Outdoor",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_campfireringed001.png",
+  "bindType": -1,
+  "knownIds": [
+    118053
+  ]
+}

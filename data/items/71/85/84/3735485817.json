@@ -1,0 +1,10 @@
+{
+  "internalId": 3735485817,
+  "name": "Painting of Gryphon Nest, Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwood001.png",
+  "bindType": -1,
+  "knownIds": [
+    139069
+  ]
+}

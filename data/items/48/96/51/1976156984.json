@@ -1,0 +1,10 @@
+{
+  "internalId": 1976156984,
+  "name": "Murkmire Candle, Bone Squat",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklampbonecandle001.png",
+  "bindType": -1,
+  "knownIds": [
+    145371
+  ]
+}

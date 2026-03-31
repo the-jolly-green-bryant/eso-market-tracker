@@ -1,0 +1,19 @@
+{
+  "internalId": 1559908134,
+  "name": "Assassin's Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121569,
+    121604,
+    121639,
+    121674,
+    121709,
+    121744,
+    121779,
+    121814,
+    121849,
+    121884
+  ]
+}

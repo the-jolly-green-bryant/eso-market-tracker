@@ -1,0 +1,17 @@
+{
+  "internalId": 2730487380,
+  "name": "Impregnable Armor Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125698,
+    125733,
+    125768,
+    125803,
+    125838,
+    125873,
+    125908,
+    125943
+  ]
+}

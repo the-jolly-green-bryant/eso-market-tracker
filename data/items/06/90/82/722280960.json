@@ -1,0 +1,19 @@
+{
+  "internalId": 722280960,
+  "name": "Clever Alchemist Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72169,
+    72204,
+    72239,
+    72274,
+    72309,
+    72344,
+    72379,
+    72414,
+    72449,
+    72484
+  ]
+}

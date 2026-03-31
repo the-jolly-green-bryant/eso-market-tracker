@@ -1,0 +1,17 @@
+{
+  "internalId": 3228518151,
+  "name": "Greatsword of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91569,
+    91590,
+    91611,
+    91632,
+    91653,
+    91674,
+    91695,
+    91716
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1170921403,
+  "name": "Mara's Balm Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189846,
+    189866,
+    189886,
+    189906,
+    189926,
+    189946,
+    189966,
+    189986
+  ]
+}

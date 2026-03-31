@@ -1,0 +1,19 @@
+{
+  "internalId": 1048258940,
+  "name": "Telvanni Efficiency Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194957,
+    195012,
+    195047,
+    195082,
+    195117,
+    195152,
+    195187,
+    195222,
+    195257,
+    195292
+  ]
+}

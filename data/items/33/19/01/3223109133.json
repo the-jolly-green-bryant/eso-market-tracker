@@ -1,0 +1,18 @@
+{
+  "internalId": 3223109133,
+  "name": "Telvanni Enforcer Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_heavy_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628760,
+    1628805,
+    1629033,
+    1629627,
+    1636989,
+    1695202,
+    1734364,
+    1757576,
+    1771286
+  ]
+}

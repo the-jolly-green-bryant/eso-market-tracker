@@ -1,0 +1,17 @@
+{
+  "internalId": 2010544031,
+  "name": "Hew and Sunder Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183418,
+    183438,
+    183458,
+    183478,
+    183498,
+    183518,
+    183538,
+    183558
+  ]
+}

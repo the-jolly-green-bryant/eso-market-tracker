@@ -1,0 +1,13 @@
+{
+  "internalId": 765480129,
+  "name": "full-leather boots of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    690392,
+    463024,
+    481783,
+    644809
+  ]
+}

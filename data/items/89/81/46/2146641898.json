@@ -1,0 +1,17 @@
+{
+  "internalId": 2146641898,
+  "name": "Girdle of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88916,
+    88936,
+    88956,
+    88976,
+    88996,
+    89016,
+    89036,
+    89056
+  ]
+}

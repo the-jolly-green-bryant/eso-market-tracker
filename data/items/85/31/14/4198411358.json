@@ -1,0 +1,13 @@
+{
+  "internalId": 4198411358,
+  "name": "serum of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    375076,
+    744493,
+    1433043,
+    1554189
+  ]
+}

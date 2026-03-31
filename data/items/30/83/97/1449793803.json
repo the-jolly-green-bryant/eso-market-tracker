@@ -1,0 +1,17 @@
+{
+  "internalId": 1449793803,
+  "name": "Livewire Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132680,
+    132700,
+    132720,
+    132740,
+    132760,
+    132780,
+    132800,
+    132820
+  ]
+}

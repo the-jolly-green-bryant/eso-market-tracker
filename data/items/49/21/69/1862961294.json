@@ -1,0 +1,13 @@
+{
+  "internalId": 1862961294,
+  "name": "Mace of the Worm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77739,
+    77775,
+    77811,
+    77847
+  ]
+}

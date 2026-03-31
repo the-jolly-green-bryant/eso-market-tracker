@@ -1,0 +1,16 @@
+{
+  "internalId": 1081361720,
+  "name": "Maul of Nikulas",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85275,
+    85295,
+    85315,
+    85335,
+    85355,
+    85375,
+    85395
+  ]
+}

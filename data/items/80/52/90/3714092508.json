@@ -1,0 +1,10 @@
+{
+  "internalId": 3714092508,
+  "name": "Murkmire Bonding Chimes, Domed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkbondingchimes004.png",
+  "bindType": -1,
+  "knownIds": [
+    145360
+  ]
+}

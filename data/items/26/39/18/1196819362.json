@@ -1,0 +1,12 @@
+{
+  "internalId": 1196819362,
+  "name": "Unidentified Bloodroot Forge Armaments",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1166160,
+    1172914,
+    1205467
+  ]
+}

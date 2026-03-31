@@ -1,0 +1,17 @@
+{
+  "internalId": 1764616171,
+  "name": "Lightning Staff of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100032,
+    100053,
+    100074,
+    100095,
+    100116,
+    100137,
+    100158,
+    100179
+  ]
+}

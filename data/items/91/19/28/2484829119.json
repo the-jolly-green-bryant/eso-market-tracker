@@ -1,0 +1,10 @@
+{
+  "internalId": 2484829119,
+  "name": "Common Pot, Cooking",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_cookingpot001.png",
+  "bindType": -1,
+  "knownIds": [
+    118025
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1171131463,
+  "name": "Barkskin Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92467,
+    92487,
+    92507,
+    92527,
+    92547,
+    92567,
+    92587,
+    92607
+  ]
+}

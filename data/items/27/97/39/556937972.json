@@ -1,0 +1,19 @@
+{
+  "internalId": 556937972,
+  "name": "Sload's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136098,
+    136133,
+    136168,
+    136203,
+    136238,
+    136273,
+    136308,
+    136343,
+    136378,
+    136413
+  ]
+}

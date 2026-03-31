@@ -1,0 +1,17 @@
+{
+  "internalId": 3913070707,
+  "name": "Arkay's Charity Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213740,
+    213761,
+    213782,
+    213803,
+    213824,
+    213845,
+    213866,
+    213887
+  ]
+}

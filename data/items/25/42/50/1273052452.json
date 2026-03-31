@@ -1,0 +1,17 @@
+{
+  "internalId": 1273052452,
+  "name": "Warrior-Poet's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122623,
+    122643,
+    122663,
+    122683,
+    122703,
+    122723,
+    122743,
+    122763
+  ]
+}

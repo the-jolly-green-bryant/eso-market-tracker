@@ -1,0 +1,10 @@
+{
+  "internalId": 1270580782,
+  "name": "Library Furnishing Recipe Book",
+  "description": "Notes collated by an enthusiastic scholar. Reading this book teaches all Library Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color1.png",
+  "bindType": -1,
+  "knownIds": [
+    214287
+  ]
+}

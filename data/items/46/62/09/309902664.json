@@ -1,0 +1,10 @@
+{
+  "internalId": 309902664,
+  "name": "Aurbic Amber",
+  "description": "Can be used to enhance jewelry.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_enchantment_base_jade_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    139411
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1274052351,
+  "name": "Amber Plasm Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1180007,
+    1262336,
+    1345717,
+    1495458,
+    1522448,
+    1553278,
+    1559512,
+    1565978,
+    1593483,
+    1758026
+  ]
+}

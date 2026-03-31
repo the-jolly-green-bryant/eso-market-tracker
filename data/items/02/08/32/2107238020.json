@@ -1,0 +1,13 @@
+{
+  "internalId": 2107238020,
+  "name": "Adept Rider's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135943,
+    135978,
+    136013,
+    136048
+  ]
+}

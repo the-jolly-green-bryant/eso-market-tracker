@@ -1,0 +1,10 @@
+{
+  "internalId": 1581212515,
+  "name": "Band of Woven Fates",
+  "description": "The ring's band is composed of multiple, interwoven threads.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    208135
+  ]
+}

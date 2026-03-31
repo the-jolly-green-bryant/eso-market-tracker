@@ -1,0 +1,14 @@
+{
+  "internalId": 3606303542,
+  "name": "Vivec's Dagger of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195769,
+    195790,
+    195811,
+    195832,
+    195853
+  ]
+}

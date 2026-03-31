@@ -1,0 +1,10 @@
+{
+  "internalId": 3412172029,
+  "name": "Apocrypha Plant, Chromatic Succulent",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_chromaticspikeplant004.png",
+  "bindType": -1,
+  "knownIds": [
+    198464
+  ]
+}

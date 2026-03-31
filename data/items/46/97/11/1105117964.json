@@ -1,0 +1,19 @@
+{
+  "internalId": 1105117964,
+  "name": "Clever Alchemist Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72175,
+    72210,
+    72245,
+    72280,
+    72315,
+    72350,
+    72385,
+    72420,
+    72455,
+    72490
+  ]
+}

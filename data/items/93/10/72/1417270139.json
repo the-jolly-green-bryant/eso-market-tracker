@@ -1,0 +1,19 @@
+{
+  "internalId": 1417270139,
+  "name": "Druid's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185546,
+    185601,
+    185636,
+    185671,
+    185706,
+    185741,
+    185776,
+    185811,
+    185846,
+    185881
+  ]
+}

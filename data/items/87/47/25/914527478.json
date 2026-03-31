@@ -1,0 +1,10 @@
+{
+  "internalId": 914527478,
+  "name": "Band of Zenithar",
+  "description": "Engraved with a symbol of an anvil, this ring signifies its bearer as one who has accomplished great toil in Zenithar's name.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    174873
+  ]
+}

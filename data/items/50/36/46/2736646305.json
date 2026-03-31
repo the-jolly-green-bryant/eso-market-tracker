@@ -1,0 +1,19 @@
+{
+  "internalId": 2736646305,
+  "name": "Fortified Brass Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130747,
+    130782,
+    130817,
+    130852,
+    130887,
+    130922,
+    130957,
+    130992,
+    131027,
+    131062
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3856613622,
+  "name": "Battle Axe of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88576,
+    88596,
+    88616,
+    88636,
+    88656,
+    88676
+  ]
+}

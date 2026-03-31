@@ -1,0 +1,10 @@
+{
+  "internalId": 1278758904,
+  "name": "Redguard Colonnade, Mosaic",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varcolonnaderoof001.png",
+  "bindType": -1,
+  "knownIds": [
+    203587
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 305978887,
+  "name": "Defiler's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122992,
+    123012,
+    123032,
+    123052,
+    123072,
+    123092,
+    123112,
+    123132
+  ]
+}

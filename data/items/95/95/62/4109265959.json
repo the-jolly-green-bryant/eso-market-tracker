@@ -1,0 +1,17 @@
+{
+  "internalId": 4109265959,
+  "name": "Systres' Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_hvy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186262,
+    186282,
+    186302,
+    186322,
+    186342,
+    186362,
+    186382,
+    186402
+  ]
+}

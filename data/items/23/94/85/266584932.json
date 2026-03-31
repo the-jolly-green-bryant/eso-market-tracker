@@ -1,0 +1,17 @@
+{
+  "internalId": 266584932,
+  "name": "Restoration Staff of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98522,
+    98542,
+    98562,
+    98582,
+    98602,
+    98622,
+    98642,
+    98662
+  ]
+}

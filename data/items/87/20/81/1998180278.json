@@ -1,0 +1,14 @@
+{
+  "internalId": 1998180278,
+  "name": "Jorvuld's Guidance Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1201601,
+    1211533,
+    1434374,
+    1451873,
+    1560437
+  ]
+}

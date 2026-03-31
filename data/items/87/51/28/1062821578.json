@@ -1,0 +1,10 @@
+{
+  "internalId": 1062821578,
+  "name": "Crafting Motif 44: Silken Ring Shields",
+  "description": "Use to learn how to make Silken Ring Shields. Also teaches the equivalent Silken Ring Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    114978
+  ]
+}

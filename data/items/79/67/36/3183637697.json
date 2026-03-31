@@ -1,0 +1,17 @@
+{
+  "internalId": 3183637697,
+  "name": "Mace of the Dreugh King Slayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80861,
+    80881,
+    80901,
+    80921,
+    80941,
+    80953,
+    80973,
+    80993
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1609479340,
+  "name": "Swamp Raider's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98903,
+    98923,
+    98943,
+    98963,
+    98983,
+    99003,
+    99023,
+    99043
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 4134759644,
+  "name": "Dagger of Twilight Remedy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_dagger_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1167750,
+    1172047,
+    1262414,
+    1343936,
+    1384412,
+    1391552,
+    1409257,
+    1423029,
+    1560667,
+    1616828,
+    1701842
+  ]
+}

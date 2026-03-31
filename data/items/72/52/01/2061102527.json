@@ -1,0 +1,20 @@
+{
+  "internalId": 2061102527,
+  "name": "Sword of Drake's Rush",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1417199,
+    1422800,
+    1508930,
+    1509212,
+    1514671,
+    1528107,
+    1528873,
+    1566843,
+    1570019,
+    1614022,
+    1749933
+  ]
+}

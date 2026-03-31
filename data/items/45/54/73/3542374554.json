@@ -1,0 +1,10 @@
+{
+  "internalId": 3542374554,
+  "name": "Druidic Bookcase, Tall Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustoneshelvestall001.png",
+  "bindType": -1,
+  "knownIds": [
+    191169
+  ]
+}

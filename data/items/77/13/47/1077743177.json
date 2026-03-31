@@ -1,0 +1,17 @@
+{
+  "internalId": 1077743177,
+  "name": "Restoration Staff of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80560,
+    80580,
+    80600,
+    80620,
+    80640,
+    80652,
+    80672,
+    80692
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2617300977,
+  "name": "Bow of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92820,
+    92840,
+    92860,
+    92880,
+    92900,
+    92920,
+    92940,
+    92960
+  ]
+}

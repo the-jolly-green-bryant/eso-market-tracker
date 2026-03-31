@@ -1,0 +1,17 @@
+{
+  "internalId": 811825454,
+  "name": "Galerion's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78058,
+    78093,
+    78128,
+    78163,
+    78198,
+    78233,
+    78268,
+    78303
+  ]
+}

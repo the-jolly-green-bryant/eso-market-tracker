@@ -1,0 +1,20 @@
+{
+  "internalId": 1698450306,
+  "name": "Aegis Caller's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_hammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1402815,
+    1412799,
+    1438353,
+    1462832,
+    1502422,
+    1560444,
+    1677475,
+    1695192,
+    1750411,
+    1773056,
+    1774062
+  ]
+}

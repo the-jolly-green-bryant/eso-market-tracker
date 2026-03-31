@@ -1,0 +1,18 @@
+{
+  "internalId": 706448000,
+  "name": "Axe of Kyne's Wind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_axe.png",
+  "bindType": -1,
+  "knownIds": [
+    1385049,
+    1386486,
+    1413694,
+    1413713,
+    1476846,
+    1550835,
+    1615726,
+    1617676,
+    1724219
+  ]
+}

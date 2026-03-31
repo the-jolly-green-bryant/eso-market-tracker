@@ -1,0 +1,17 @@
+{
+  "internalId": 395150026,
+  "name": "Restoration Staff of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90119,
+    90132,
+    90145,
+    90158,
+    90171,
+    90184,
+    90197,
+    90210
+  ]
+}

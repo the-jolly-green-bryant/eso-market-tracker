@@ -1,0 +1,10 @@
+{
+  "internalId": 2808377535,
+  "name": "Stirk Fellowship Padded Shoulderguards",
+  "description": "Shoulderguards awarded to members of the Stirk Fellowship for outstanding service.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_medium_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    217715
+  ]
+}

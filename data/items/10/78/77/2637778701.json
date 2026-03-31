@@ -1,0 +1,17 @@
+{
+  "internalId": 2637778701,
+  "name": "Blessed Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_dagger_b.png",
+  "bindType": 2,
+  "knownIds": [
+    102261,
+    102281,
+    102301,
+    102321,
+    102341,
+    102361,
+    102381,
+    102401
+  ]
+}

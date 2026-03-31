@@ -1,0 +1,12 @@
+{
+  "internalId": 3616613549,
+  "name": "Dagger of Marauder's Haste",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155155,
+    155176,
+    155197
+  ]
+}

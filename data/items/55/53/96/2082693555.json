@@ -1,0 +1,15 @@
+{
+  "internalId": 2082693555,
+  "name": "Bracers of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59256,
+    59277,
+    59298,
+    59319,
+    59340,
+    59361
+  ]
+}

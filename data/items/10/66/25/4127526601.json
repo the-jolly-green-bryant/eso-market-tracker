@@ -1,0 +1,14 @@
+{
+  "internalId": 4127526601,
+  "name": "Pelinal's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76264,
+    76299,
+    76334,
+    76369,
+    76404
+  ]
+}

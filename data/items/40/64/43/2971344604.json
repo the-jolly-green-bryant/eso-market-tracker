@@ -1,0 +1,10 @@
+{
+  "internalId": 2971344604,
+  "name": "Crafting Motif 36: Dark Brotherhood Axes",
+  "description": "Use to learn how to make Dark Brotherhood Axes. Also teaches the equivalent Dark Brotherhood Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    82055
+  ]
+}

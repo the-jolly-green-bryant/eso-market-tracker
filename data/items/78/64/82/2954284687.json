@@ -1,0 +1,10 @@
+{
+  "internalId": 2954284687,
+  "name": "Vampiric Alchemy Rack, Tubes",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabtesttubes001.png",
+  "bindType": -1,
+  "knownIds": [
+    181498
+  ]
+}

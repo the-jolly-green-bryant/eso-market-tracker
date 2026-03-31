@@ -1,0 +1,18 @@
+{
+  "internalId": 461361890,
+  "name": "Venomous Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    160837,
+    160857,
+    160877,
+    160897,
+    160917,
+    160937,
+    160957,
+    160977,
+    160997
+  ]
+}

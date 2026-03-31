@@ -1,0 +1,10 @@
+{
+  "internalId": 1596086537,
+  "name": "Crafting Motif 97: Wayward Guardian Boots",
+  "description": "Use to learn how to make Wayward Guardian Boots. Also teaches the equivalent Wayward Guardian Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167980
+  ]
+}

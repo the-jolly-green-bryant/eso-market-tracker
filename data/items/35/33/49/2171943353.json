@@ -1,0 +1,17 @@
+{
+  "internalId": 2171943353,
+  "name": "Shalk's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96602,
+    96622,
+    96642,
+    96662,
+    96682,
+    96702,
+    96722,
+    96742
+  ]
+}

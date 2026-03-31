@@ -1,0 +1,17 @@
+{
+  "internalId": 1854360323,
+  "name": "Smuggler's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100972,
+    100993,
+    101014,
+    101035,
+    101056,
+    101077,
+    101098,
+    101119
+  ]
+}

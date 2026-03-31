@@ -1,0 +1,19 @@
+{
+  "internalId": 1999050593,
+  "name": "Innate Axiom Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130382,
+    130417,
+    130452,
+    130487,
+    130522,
+    130557,
+    130592,
+    130627,
+    130662,
+    130697
+  ]
+}

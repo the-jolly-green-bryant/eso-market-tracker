@@ -1,0 +1,10 @@
+{
+  "internalId": 2315321980,
+  "name": "Solitude Sconce, Wolf's-Head Lantern",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_lanternhanging001.png",
+  "bindType": -1,
+  "knownIds": [
+    165630
+  ]
+}

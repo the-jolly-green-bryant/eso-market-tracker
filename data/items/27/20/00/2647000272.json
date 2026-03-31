@@ -1,0 +1,10 @@
+{
+  "internalId": 2647000272,
+  "name": "Regulus",
+  "description": "Used in crafting metal furniture.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_furniture_base_regulus.png",
+  "bindType": -1,
+  "knownIds": [
+    114889
+  ]
+}

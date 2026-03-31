@@ -1,0 +1,17 @@
+{
+  "internalId": 2618945061,
+  "name": "Jerkin of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_shirt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74911,
+    74932,
+    74953,
+    74974,
+    74995,
+    75016,
+    75037,
+    75058
+  ]
+}

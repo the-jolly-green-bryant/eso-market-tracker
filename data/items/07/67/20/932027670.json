@@ -1,0 +1,14 @@
+{
+  "internalId": 932027670,
+  "name": "Reawakened Hierophant Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1hmace.png",
+  "bindType": -1,
+  "knownIds": [
+    1689587,
+    1716901,
+    1735196,
+    1754248,
+    1764544
+  ]
+}

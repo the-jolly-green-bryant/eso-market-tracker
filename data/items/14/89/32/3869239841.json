@@ -1,0 +1,21 @@
+{
+  "internalId": 3869239841,
+  "name": "Olorime's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_axe_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1285985,
+    1370479,
+    1371944,
+    1375843,
+    1409308,
+    1460493,
+    1464772,
+    1558054,
+    1558431,
+    1719460,
+    1724847,
+    1748963
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3658705940,
+  "name": "Corpseburster Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1736260,
+    1775088
+  ]
+}

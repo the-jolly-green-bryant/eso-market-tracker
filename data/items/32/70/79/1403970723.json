@@ -1,0 +1,13 @@
+{
+  "internalId": 1403970723,
+  "name": "Ebon Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77719,
+    77755,
+    77791,
+    77827
+  ]
+}

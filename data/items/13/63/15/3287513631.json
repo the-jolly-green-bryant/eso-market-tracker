@@ -1,0 +1,13 @@
+{
+  "internalId": 3287513631,
+  "name": "Breeches of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129859,
+    129867,
+    129875,
+    129883
+  ]
+}

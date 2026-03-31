@@ -1,0 +1,13 @@
+{
+  "internalId": 222630232,
+  "name": "Lightning Staff of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131290,
+    131325,
+    131360,
+    131395
+  ]
+}

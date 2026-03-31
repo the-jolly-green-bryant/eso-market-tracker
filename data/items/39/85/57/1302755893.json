@@ -1,0 +1,10 @@
+{
+  "internalId": 1302755893,
+  "name": "Minecart Track, Sloped Up",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_min_minecarttrackslopeupsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    211120
+  ]
+}

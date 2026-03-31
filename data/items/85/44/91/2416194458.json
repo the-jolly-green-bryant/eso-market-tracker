@@ -1,0 +1,17 @@
+{
+  "internalId": 2416194458,
+  "name": "Enervating Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183587,
+    183607,
+    183627,
+    183647,
+    183667,
+    183687,
+    183707,
+    183727
+  ]
+}

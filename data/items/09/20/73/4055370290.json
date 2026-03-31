@@ -1,0 +1,17 @@
+{
+  "internalId": 4055370290,
+  "name": "Greatsword of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101704,
+    101724,
+    101744,
+    101764,
+    101784,
+    101804,
+    101824,
+    101844
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 212176501,
+  "name": "Tomb Keeper's Breeches",
+  "description": "Bailiff Erator gave you these enchanted breeches in thanks for dealing with the spirit of Lauriel in the Direnni Acropolis.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134711
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3666313533,
+  "name": "Hlaalu Stool, Mossy Cushion",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_extchair001.png",
+  "bindType": -1,
+  "knownIds": [
+    126445
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1442057067,
+  "name": "Pirate Disguise",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    402148,
+    1430236
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 674740612,
+  "name": "Hlaalu Tapestry, Floral",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlatapestryplain001.png",
+  "bindType": -1,
+  "knownIds": [
+    126365
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3482935382,
+  "name": "Restoration Staff of Cyrodiil's Ward",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93734,
+    93754,
+    93774,
+    93794,
+    93814,
+    93834,
+    93854,
+    93874
+  ]
+}

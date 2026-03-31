@@ -1,0 +1,10 @@
+{
+  "internalId": 2187078637,
+  "name": "Hlaalu Gong",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlagong001.png",
+  "bindType": -1,
+  "knownIds": [
+    134738
+  ]
+}

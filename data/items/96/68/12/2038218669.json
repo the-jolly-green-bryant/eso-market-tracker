@@ -1,0 +1,17 @@
+{
+  "internalId": 2038218669,
+  "name": "Death-Dancer Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214710,
+    214730,
+    214750,
+    214770,
+    214790,
+    214810,
+    214830,
+    214850
+  ]
+}

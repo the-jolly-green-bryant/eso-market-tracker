@@ -1,0 +1,17 @@
+{
+  "internalId": 1037315377,
+  "name": "Sword of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88171,
+    88191,
+    88211,
+    88231,
+    88251,
+    88271,
+    88291,
+    88311
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1099056855,
+  "name": "major glyph of bashing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasebashdamage.png",
+  "bindType": -1,
+  "knownIds": [
+    540410,
+    1446670
+  ]
+}

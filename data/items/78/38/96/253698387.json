@@ -1,0 +1,10 @@
+{
+  "internalId": 253698387,
+  "name": "Crafting Motif 51: Hlaalu Chests",
+  "description": "Use to learn how to make Hlaalu Chests. Also teaches the equivalent Hlaalu Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    129999
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 599206197,
+  "name": "Innate Axiom Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130393,
+    130428,
+    130463,
+    130498,
+    130533,
+    130568,
+    130603,
+    130638,
+    130673,
+    130708
+  ]
+}

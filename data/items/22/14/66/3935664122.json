@@ -1,0 +1,10 @@
+{
+  "internalId": 3935664122,
+  "name": "Lime, Display",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_foodlime001.png",
+  "bindType": -1,
+  "knownIds": [
+    214474
+  ]
+}

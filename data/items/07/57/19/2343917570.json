@@ -1,0 +1,17 @@
+{
+  "internalId": 2343917570,
+  "name": "Cuirass of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88182,
+    88202,
+    88222,
+    88242,
+    88262,
+    88282,
+    88302,
+    88322
+  ]
+}

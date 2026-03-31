@@ -1,0 +1,17 @@
+{
+  "internalId": 2608559749,
+  "name": "Werewolf Hide Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    86010,
+    86030,
+    86050,
+    86070,
+    86090,
+    86110,
+    86130,
+    86150
+  ]
+}

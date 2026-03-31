@@ -1,0 +1,15 @@
+{
+  "internalId": 2497647280,
+  "name": "Knight Slayer Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123579,
+    123600,
+    123621,
+    123642,
+    123663,
+    123684
+  ]
+}

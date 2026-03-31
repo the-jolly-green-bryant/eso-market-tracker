@@ -1,0 +1,10 @@
+{
+  "internalId": 1527607472,
+  "name": "Crafting Motif 80: Shield of Senchal Helmets",
+  "description": "Use to learn how to make Shield of Senchal Helmets. Also teaches the equivalent Shield of Senchal outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    156635
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 2589394627,
+  "name": "Null Arca Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719482,
+    1720426,
+    1723241,
+    1723245,
+    1731272,
+    1732426,
+    1732888,
+    1740312,
+    1754152,
+    1756906,
+    1763890,
+    1778715
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 505547194,
+  "name": "Arkay's Charity Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213745,
+    213766,
+    213787,
+    213808,
+    213829,
+    213850,
+    213871,
+    213892
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2229542457,
+  "name": "ebon sword of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    481671,
+    574216,
+    660746,
+    786447
+  ]
+}

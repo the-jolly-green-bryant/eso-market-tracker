@@ -1,0 +1,10 @@
+{
+  "internalId": 1853944668,
+  "name": "Imperial Cupboard, Scrollwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_cupboard001.png",
+  "bindType": -1,
+  "knownIds": [
+    94142
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 243255602,
+  "name": "Sash of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121928,
+    121963,
+    121998,
+    122033,
+    122068,
+    122103,
+    122138,
+    122173,
+    122208,
+    122243
+  ]
+}

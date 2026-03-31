@@ -1,0 +1,10 @@
+{
+  "internalId": 2922471540,
+  "name": "Crafting Motif 71: Coldsnap Gloves",
+  "description": "Use to learn how to make Coldsnap Gloves. Also teaches the equivalent Coldsnap outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    147673
+  ]
+}

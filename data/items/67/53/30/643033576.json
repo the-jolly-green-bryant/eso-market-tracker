@@ -1,0 +1,17 @@
+{
+  "internalId": 643033576,
+  "name": "Steadfast's Mettle Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186089,
+    186109,
+    186129,
+    186149,
+    186169,
+    186189,
+    186209,
+    186229
+  ]
+}

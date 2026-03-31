@@ -1,0 +1,19 @@
+{
+  "internalId": 4080839708,
+  "name": "Deadlands Demolisher's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179191,
+    179246,
+    179281,
+    179316,
+    179351,
+    179386,
+    179421,
+    179456,
+    179491,
+    179526
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": 543980447,
+  "name": "oak shield of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    399931,
+    478248,
+    581183,
+    437679,
+    411779,
+    455399,
+    456608,
+    516398,
+    431009,
+    426278,
+    601268,
+    717933,
+    440932,
+    757179,
+    647042,
+    631582,
+    788345,
+    1128987
+  ]
+}

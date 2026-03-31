@@ -1,0 +1,17 @@
+{
+  "internalId": 3864449036,
+  "name": "Restoration Staff of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117100,
+    117120,
+    117140,
+    117160,
+    117180,
+    117200,
+    117220,
+    117240
+  ]
+}

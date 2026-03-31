@@ -1,0 +1,13 @@
+{
+  "internalId": 696782715,
+  "name": "Blackfeather Flight Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214159,
+    214179,
+    214199,
+    214219
+  ]
+}

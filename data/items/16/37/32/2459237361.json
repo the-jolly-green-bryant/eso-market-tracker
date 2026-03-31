@@ -1,0 +1,10 @@
+{
+  "internalId": 2459237361,
+  "name": "Footman's Fortune",
+  "description": "A Heavy Armor set found in Dragonstar Arena.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    138753
+  ]
+}

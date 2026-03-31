@@ -1,0 +1,17 @@
+{
+  "internalId": 2114795067,
+  "name": "Greatsword of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100027,
+    100048,
+    100069,
+    100090,
+    100111,
+    100132,
+    100153,
+    100174
+  ]
+}

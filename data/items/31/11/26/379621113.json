@@ -1,0 +1,18 @@
+{
+  "internalId": 379621113,
+  "name": "Deadly Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147371,
+    147378,
+    147385,
+    147392,
+    147399,
+    147406,
+    147413,
+    147420,
+    147427
+  ]
+}

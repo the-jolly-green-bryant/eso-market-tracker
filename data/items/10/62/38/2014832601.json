@@ -1,0 +1,10 @@
+{
+  "internalId": 2014832601,
+  "name": "Voljar Meadery Seal",
+  "description": "This ring was awarded for being a friend to Haraldar and the mead makers of Voljar's Meadery in their time of troubles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    7668
+  ]
+}

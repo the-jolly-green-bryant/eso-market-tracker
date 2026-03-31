@@ -1,0 +1,10 @@
+{
+  "internalId": 1711784201,
+  "name": "Woodworking Planer, Simple",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_wineplanerknife001.png",
+  "bindType": -1,
+  "knownIds": [
+    204739
+  ]
+}

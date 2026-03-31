@@ -1,0 +1,15 @@
+{
+  "internalId": 1511706024,
+  "name": "Ice Furnace Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86397,
+    86417,
+    86437,
+    86457,
+    86477,
+    86517
+  ]
+}

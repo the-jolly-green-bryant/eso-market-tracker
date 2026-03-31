@@ -1,0 +1,19 @@
+{
+  "internalId": 3205359750,
+  "name": "Assassin's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121576,
+    121611,
+    121646,
+    121681,
+    121716,
+    121751,
+    121786,
+    121821,
+    121856,
+    121891
+  ]
+}

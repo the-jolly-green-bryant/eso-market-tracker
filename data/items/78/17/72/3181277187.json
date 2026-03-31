@@ -1,0 +1,19 @@
+{
+  "internalId": 3181277187,
+  "name": "Girdle of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185170,
+    185225,
+    185260,
+    185295,
+    185330,
+    185365,
+    185400,
+    185435,
+    185470,
+    185505
+  ]
+}

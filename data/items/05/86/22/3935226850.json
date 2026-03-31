@@ -1,0 +1,10 @@
+{
+  "internalId": 3935226850,
+  "name": "Dunmeri Battle Sling",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png",
+  "bindType": -1,
+  "knownIds": [
+    815802
+  ]
+}

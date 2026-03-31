@@ -1,0 +1,10 @@
+{
+  "internalId": 2277579922,
+  "name": "Redguard Vase, Lacquered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_con_trapvase002.png",
+  "bindType": -1,
+  "knownIds": [
+    117704
+  ]
+}

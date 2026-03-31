@@ -1,0 +1,10 @@
+{
+  "internalId": 4010302819,
+  "name": "Wood Elf Pedestal, Engraved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_str_colum001.png",
+  "bindType": -1,
+  "knownIds": [
+    115567
+  ]
+}

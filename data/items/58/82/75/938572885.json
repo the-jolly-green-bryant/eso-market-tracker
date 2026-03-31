@@ -1,0 +1,10 @@
+{
+  "internalId": 938572885,
+  "name": "Darloc Brae Set Box",
+  "description": "Contains 5 gear pieces from the Vesture of Darloc Brae set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
+  "bindType": 3,
+  "knownIds": [
+    153617
+  ]
+}

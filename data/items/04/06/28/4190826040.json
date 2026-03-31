@@ -1,0 +1,26 @@
+{
+  "internalId": 4190826040,
+  "name": "Betrayer's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    405329,
+    820808,
+    813579,
+    858646,
+    1084554,
+    1135907,
+    1190861,
+    1275108,
+    1318942,
+    1377543,
+    1392895,
+    1446354,
+    1482535,
+    1495122,
+    1524143,
+    1632403,
+    1682932
+  ]
+}

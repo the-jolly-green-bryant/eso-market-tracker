@@ -1,0 +1,12 @@
+{
+  "internalId": 2490823068,
+  "name": "Lightning Staff of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99176,
+    99196,
+    99216
+  ]
+}

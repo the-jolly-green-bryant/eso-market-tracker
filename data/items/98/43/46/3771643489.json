@@ -1,0 +1,10 @@
+{
+  "internalId": 3771643489,
+  "name": "Orcish Table, Grand Furs",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgtablewideb002.png",
+  "bindType": -1,
+  "knownIds": [
+    134267
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4080703404,
+  "name": "Assassin's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121560,
+    121595,
+    121630,
+    121665,
+    121700,
+    121735,
+    121770,
+    121805,
+    121840,
+    121875
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 4194283048,
+  "name": "Axe of Mending",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    980520,
+    1144834,
+    1208523,
+    1378929,
+    1398907,
+    1580237,
+    1608659
+  ]
+}

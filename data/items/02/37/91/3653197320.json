@@ -1,0 +1,10 @@
+{
+  "internalId": 3653197320,
+  "name": "Pedestal, Dark Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_scalecallerorbstand001.png",
+  "bindType": -1,
+  "knownIds": [
+    156656
+  ]
+}

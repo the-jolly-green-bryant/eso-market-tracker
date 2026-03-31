@@ -1,0 +1,17 @@
+{
+  "internalId": 1150931264,
+  "name": "Ice Staff of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180438,
+    180459,
+    180480,
+    180501,
+    180522,
+    180543,
+    180564,
+    180585
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3124319935,
+  "name": "Skeletal Remains, Orc Prone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletonorc002.png",
+  "bindType": -1,
+  "knownIds": [
+    118794
+  ]
+}

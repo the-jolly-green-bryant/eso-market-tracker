@@ -1,0 +1,19 @@
+{
+  "internalId": 1847233390,
+  "name": "Fortified Brass Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130741,
+    130776,
+    130811,
+    130846,
+    130881,
+    130916,
+    130951,
+    130986,
+    131021,
+    131056
+  ]
+}

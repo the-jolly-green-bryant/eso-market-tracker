@@ -1,0 +1,17 @@
+{
+  "internalId": 1365912069,
+  "name": "Blunted Blades Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204088,
+    204108,
+    204128,
+    204148,
+    204168,
+    204188,
+    204208,
+    204228
+  ]
+}

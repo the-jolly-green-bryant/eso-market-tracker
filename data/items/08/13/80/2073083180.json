@@ -1,0 +1,17 @@
+{
+  "internalId": 2073083180,
+  "name": "Siegemaster's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210722,
+    210742,
+    210762,
+    210782,
+    210802,
+    210822,
+    210842,
+    210862
+  ]
+}

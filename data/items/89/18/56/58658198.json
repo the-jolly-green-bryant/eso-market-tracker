@@ -1,0 +1,10 @@
+{
+  "internalId": 58658198,
+  "name": "Sargos' Vestments of Cyrodiil's Light",
+  "description": "The intricate patterns woven into this material suggest master craftmanship.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45739
+  ]
+}

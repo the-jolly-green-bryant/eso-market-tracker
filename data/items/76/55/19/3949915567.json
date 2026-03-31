@@ -1,0 +1,10 @@
+{
+  "internalId": 3949915567,
+  "name": "Ring of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    117633
+  ]
+}

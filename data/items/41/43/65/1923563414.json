@@ -1,0 +1,10 @@
+{
+  "internalId": 1923563414,
+  "name": "Crafting Motif 128: Lucent Sentinel Staves",
+  "description": "Use to learn how to make Lucent Sentinel Staves. Also teaches the equivalent Lucent Sentinel Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203505
+  ]
+}

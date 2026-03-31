@@ -1,0 +1,15 @@
+{
+  "internalId": 1961898378,
+  "name": "Adept Rider's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139760,
+    139850,
+    139940,
+    140030,
+    140120,
+    140210
+  ]
+}

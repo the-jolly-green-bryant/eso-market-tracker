@@ -1,0 +1,10 @@
+{
+  "internalId": 2095456231,
+  "name": "Amethyst Crystals, Teal Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_blueamethyst006.png",
+  "bindType": -1,
+  "knownIds": [
+    220349
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2549658740,
+  "name": "Undaunted Citation",
+  "description": "When used, this citation grants 15 points of Undaunted Reputation. You must already be a member of the Undaunted to use this item, and cannot use it if your Undaunted Rank is 10.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_item_u49_undaunted_citation.png",
+  "bindType": -1,
+  "knownIds": [
+    203718
+  ]
+}

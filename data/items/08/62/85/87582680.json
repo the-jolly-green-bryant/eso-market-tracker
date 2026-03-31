@@ -1,0 +1,13 @@
+{
+  "internalId": 87582680,
+  "name": "Pillager's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1603665,
+    1640982,
+    1642844,
+    1691885
+  ]
+}

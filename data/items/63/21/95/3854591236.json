@@ -1,0 +1,10 @@
+{
+  "internalId": 3854591236,
+  "name": "Dwarven Throne, Conduit",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_housingrkindeleftthrone005.png",
+  "bindType": -1,
+  "knownIds": [
+    147578
+  ]
+}

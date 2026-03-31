@@ -1,0 +1,10 @@
+{
+  "internalId": 363934835,
+  "name": "Dawnwood Knife, Bone",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosknife003.png",
+  "bindType": -1,
+  "knownIds": [
+    204751
+  ]
+}

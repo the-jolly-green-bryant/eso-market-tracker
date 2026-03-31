@@ -1,0 +1,12 @@
+{
+  "internalId": 1956241412,
+  "name": "Pyrebrand Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1735149,
+    1757900,
+    1761567
+  ]
+}

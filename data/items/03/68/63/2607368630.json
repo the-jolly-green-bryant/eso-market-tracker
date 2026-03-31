@@ -1,0 +1,15 @@
+{
+  "internalId": 2607368630,
+  "name": "Necklace of Night's Silence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139720,
+    139810,
+    139900,
+    139990,
+    140080,
+    140170
+  ]
+}

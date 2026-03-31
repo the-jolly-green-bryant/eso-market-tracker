@@ -1,0 +1,11 @@
+{
+  "internalId": 2994183056,
+  "name": "Unfathomable 1H Weapon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    55304,
+    55314
+  ]
+}

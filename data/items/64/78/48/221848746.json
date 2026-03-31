@@ -1,0 +1,18 @@
+{
+  "internalId": 221848746,
+  "name": "Storm-Cursed Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568181,
+    1569554,
+    1580620,
+    1583698,
+    1614060,
+    1623899,
+    1685206,
+    1760642,
+    1774450
+  ]
+}

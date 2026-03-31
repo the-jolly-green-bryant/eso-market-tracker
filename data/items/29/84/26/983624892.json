@@ -1,0 +1,13 @@
+{
+  "internalId": 983624892,
+  "name": "Hircine's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77737,
+    77773,
+    77809,
+    77845
+  ]
+}

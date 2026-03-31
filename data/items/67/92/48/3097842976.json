@@ -1,0 +1,10 @@
+{
+  "internalId": 3097842976,
+  "name": "Imperial Wardrobe, Scrollwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_wardrobe001.png",
+  "bindType": -1,
+  "knownIds": [
+    94183
+  ]
+}

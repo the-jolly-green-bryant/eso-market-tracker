@@ -1,0 +1,10 @@
+{
+  "internalId": 217020539,
+  "name": "Tree, Young Charred Oak",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_bad_deadlands008.png",
+  "bindType": -1,
+  "knownIds": [
+    181589
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2584517531,
+  "name": "Alinor Pedestal, Shrine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_shrinepedestal001.png",
+  "bindType": -1,
+  "knownIds": [
+    145477
+  ]
+}

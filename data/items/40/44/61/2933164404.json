@@ -1,0 +1,14 @@
+{
+  "internalId": 2933164404,
+  "name": "Inferno Staff of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95878,
+    95978,
+    96167,
+    96251,
+    96351
+  ]
+}

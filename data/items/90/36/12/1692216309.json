@@ -1,0 +1,10 @@
+{
+  "internalId": 1692216309,
+  "name": "Falmer Hut, Long",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrhut002.png",
+  "bindType": -1,
+  "knownIds": [
+    193799
+  ]
+}

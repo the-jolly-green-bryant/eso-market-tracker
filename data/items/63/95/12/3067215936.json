@@ -1,0 +1,14 @@
+{
+  "internalId": 3067215936,
+  "name": "Eternal Hunt Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72670,
+    72705,
+    72740,
+    72775,
+    72810
+  ]
+}

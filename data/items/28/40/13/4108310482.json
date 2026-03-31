@@ -1,0 +1,10 @@
+{
+  "internalId": 4108310482,
+  "name": "Graven Deep Item Sets",
+  "description": "A collection of armor, jewelry and weapon sets from Graven Deep.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    190342
+  ]
+}

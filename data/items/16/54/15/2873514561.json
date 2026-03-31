@@ -1,0 +1,10 @@
+{
+  "internalId": 2873514561,
+  "name": "Crafting Motif 64: Pyandonean Gloves",
+  "description": "Use to learn how to make Pyandonean Gloves. Also teaches the equivalent Pyandonean outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    140435
+  ]
+}

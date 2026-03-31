@@ -1,0 +1,19 @@
+{
+  "internalId": 3157380012,
+  "name": "Axe of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58175,
+    58210,
+    58245,
+    58280,
+    58315,
+    58350,
+    58385,
+    58420,
+    58455,
+    58490
+  ]
+}

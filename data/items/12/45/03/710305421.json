@@ -1,0 +1,19 @@
+{
+  "internalId": 710305421,
+  "name": "Assassin's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121561,
+    121596,
+    121631,
+    121666,
+    121701,
+    121736,
+    121771,
+    121806,
+    121841,
+    121876
+  ]
+}

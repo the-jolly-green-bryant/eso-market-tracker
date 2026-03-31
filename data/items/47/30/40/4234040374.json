@@ -1,0 +1,16 @@
+{
+  "internalId": 4234040374,
+  "name": "Mace of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85636,
+    85657,
+    85678,
+    85699,
+    85720,
+    85741,
+    85762
+  ]
+}

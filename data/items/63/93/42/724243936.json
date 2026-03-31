@@ -1,0 +1,16 @@
+{
+  "internalId": 724243936,
+  "name": "Tribal Boot Crate",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png",
+  "bindType": -1,
+  "knownIds": [
+    1267679,
+    1274052,
+    1278068,
+    1285105,
+    1351087,
+    1351912,
+    1405654
+  ]
+}

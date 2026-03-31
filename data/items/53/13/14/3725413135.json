@@ -1,0 +1,18 @@
+{
+  "internalId": 3725413135,
+  "name": "Runecarver's Blaze Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1630044,
+    1630285,
+    1633687,
+    1636276,
+    1656789,
+    1677672,
+    1680130,
+    1692890,
+    1752409
+  ]
+}

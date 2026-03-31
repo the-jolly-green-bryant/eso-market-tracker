@@ -1,0 +1,18 @@
+{
+  "internalId": 3424675703,
+  "name": "Blackrose Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1306089,
+    1339027,
+    1339068,
+    1350007,
+    1460797,
+    1510111,
+    1551680,
+    1658240,
+    1771269
+  ]
+}

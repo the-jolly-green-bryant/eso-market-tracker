@@ -1,0 +1,10 @@
+{
+  "internalId": 3625105357,
+  "name": "Tool, Pitchfork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_pitchfork001.png",
+  "bindType": -1,
+  "knownIds": [
+    153664
+  ]
+}

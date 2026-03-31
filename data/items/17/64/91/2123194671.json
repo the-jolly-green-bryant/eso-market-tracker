@@ -1,0 +1,10 @@
+{
+  "internalId": 2123194671,
+  "name": "Glorious Dread Cellar Coffer",
+  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/undaunted_bigcoffer.png",
+  "bindType": 3,
+  "knownIds": [
+    203570
+  ]
+}

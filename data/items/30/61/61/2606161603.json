@@ -1,0 +1,10 @@
+{
+  "internalId": 2606161603,
+  "name": "Nord Chair, Lattice",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_chair002.png",
+  "bindType": -1,
+  "knownIds": [
+    115401
+  ]
+}

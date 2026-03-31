@@ -1,0 +1,17 @@
+{
+  "internalId": 2710518505,
+  "name": "Seventh Legion's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100777,
+    100797,
+    100817,
+    100837,
+    100857,
+    100877,
+    100897,
+    100917
+  ]
+}

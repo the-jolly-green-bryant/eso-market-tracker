@@ -1,0 +1,17 @@
+{
+  "internalId": 3392761428,
+  "name": "Senche's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    81023,
+    81043,
+    81063,
+    81083,
+    81103,
+    81115,
+    81135,
+    81155
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 455907769,
+  "name": "Affix Script: Defile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_defile.png",
+  "bindType": -1,
+  "knownIds": [
+    204614
+  ]
+}

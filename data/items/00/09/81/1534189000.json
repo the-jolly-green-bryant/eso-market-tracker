@@ -1,0 +1,11 @@
+{
+  "internalId": 1534189000,
+  "name": "Bruma Jugged Rabbit",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33801,
+    37960
+  ]
+}

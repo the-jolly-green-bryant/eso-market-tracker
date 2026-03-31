@@ -1,0 +1,16 @@
+{
+  "internalId": 1661875304,
+  "name": "Sithis' Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77285,
+    77320,
+    77355,
+    77390,
+    77425,
+    77460,
+    77495
+  ]
+}

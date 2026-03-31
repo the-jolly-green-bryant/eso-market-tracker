@@ -1,0 +1,10 @@
+{
+  "internalId": 2235856578,
+  "name": "Buoyant Armiger's Chapeau",
+  "description": "Awarded for restoring Lord Vivec's power in time for him to stop the moonlet Baar Dau from crushing Vivec City.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_buoyantarmiger_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126064
+  ]
+}

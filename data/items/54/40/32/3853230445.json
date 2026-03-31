@@ -1,0 +1,10 @@
+{
+  "internalId": 3853230445,
+  "name": "Welkynar Binding",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_motif_binding_welkynar.png",
+  "bindType": -1,
+  "knownIds": [
+    141736
+  ]
+}

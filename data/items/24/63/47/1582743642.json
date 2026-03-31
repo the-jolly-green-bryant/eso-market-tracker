@@ -1,0 +1,16 @@
+{
+  "internalId": 1582743642,
+  "name": "Greatsword of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85640,
+    85661,
+    85682,
+    85703,
+    85724,
+    85745,
+    85766
+  ]
+}

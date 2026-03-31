@@ -1,0 +1,21 @@
+{
+  "internalId": 4185133071,
+  "name": "Xoryn's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1720058,
+    1720493,
+    1726318,
+    1732383,
+    1732533,
+    1732613,
+    1732671,
+    1733153,
+    1733204,
+    1761525,
+    1761526,
+    1763839
+  ]
+}

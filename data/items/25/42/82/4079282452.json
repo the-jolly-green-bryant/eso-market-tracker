@@ -1,0 +1,19 @@
+{
+  "internalId": 4079282452,
+  "name": "Tide-Born Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    215514,
+    215516,
+    215518,
+    215520,
+    215522,
+    215524,
+    215526,
+    215528,
+    215530,
+    215532
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2690246000,
+  "name": "Naeraizozan's Band of Hist Sap",
+  "description": "This ring causes pain in the hand it is worn upon.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    34934
+  ]
+}

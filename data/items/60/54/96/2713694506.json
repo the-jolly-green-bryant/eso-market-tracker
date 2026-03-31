@@ -1,0 +1,11 @@
+{
+  "internalId": 2713694506,
+  "name": "Pumpkin Puree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_002.png",
+  "bindType": -1,
+  "knownIds": [
+    30449,
+    28366
+  ]
+}

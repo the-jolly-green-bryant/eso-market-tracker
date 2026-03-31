@@ -1,0 +1,18 @@
+{
+  "internalId": 3038872822,
+  "name": "Tzogvin's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1308554,
+    1311998,
+    1409040,
+    1541141,
+    1637007,
+    1715980,
+    1731992,
+    1732254,
+    1758471
+  ]
+}

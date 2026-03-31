@@ -1,0 +1,10 @@
+{
+  "internalId": 3723055634,
+  "name": "Solitude Frying Pan, Long-Handled",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_fryingpan001.png",
+  "bindType": -1,
+  "knownIds": [
+    165778
+  ]
+}

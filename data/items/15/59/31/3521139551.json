@@ -1,0 +1,10 @@
+{
+  "internalId": 3521139551,
+  "name": "Necromancer's Brazier, Flame",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_fngnecrobrazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    134836
+  ]
+}

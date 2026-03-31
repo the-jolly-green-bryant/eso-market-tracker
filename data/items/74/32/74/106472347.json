@@ -1,0 +1,17 @@
+{
+  "internalId": 106472347,
+  "name": "Ravaging Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89455,
+    89475,
+    89495,
+    89515,
+    89535,
+    89555,
+    89575,
+    89595
+  ]
+}

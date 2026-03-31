@@ -1,0 +1,17 @@
+{
+  "internalId": 1866419508,
+  "name": "Lost Hatchet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_1haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    818262,
+    813655,
+    722447,
+    826789,
+    828891,
+    829364,
+    838135,
+    918225
+  ]
+}

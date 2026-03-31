@@ -1,0 +1,19 @@
+{
+  "internalId": 1459079753,
+  "name": "Cuirass of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179567,
+    179622,
+    179657,
+    179692,
+    179727,
+    179762,
+    179797,
+    179832,
+    179867,
+    179902
+  ]
+}

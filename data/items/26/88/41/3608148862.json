@@ -1,0 +1,17 @@
+{
+  "internalId": 3608148862,
+  "name": "Hew and Sunder Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183419,
+    183439,
+    183459,
+    183479,
+    183499,
+    183519,
+    183539,
+    183559
+  ]
+}

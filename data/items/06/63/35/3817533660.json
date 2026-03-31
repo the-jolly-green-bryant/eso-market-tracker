@@ -1,0 +1,22 @@
+{
+  "internalId": 3817533660,
+  "name": "Mace of Mazzatun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    926557,
+    934336,
+    1084481,
+    1178274,
+    1399666,
+    1495496,
+    1517856,
+    1571425,
+    1595092,
+    1605795,
+    1651987,
+    1690036,
+    1724191
+  ]
+}

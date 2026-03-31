@@ -1,0 +1,10 @@
+{
+  "internalId": 4247337949,
+  "name": "Redoran Table, Formal Turtle",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlatablerect002.png",
+  "bindType": -1,
+  "knownIds": [
+    126438
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3915784588,
+  "name": "Crafting Motif 122: Dead Keeper Daggers",
+  "description": "Use to learn how to make Dead Keeper Daggers. Also teaches the equivalent Dead Keeper Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    194519
+  ]
+}

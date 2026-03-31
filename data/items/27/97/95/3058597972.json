@@ -1,0 +1,15 @@
+{
+  "internalId": 3058597972,
+  "name": "ebon sword of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    763166,
+    394931,
+    487858,
+    645268,
+    665245,
+    458774
+  ]
+}

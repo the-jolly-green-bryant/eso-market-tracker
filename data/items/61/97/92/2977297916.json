@@ -1,0 +1,18 @@
+{
+  "internalId": 2977297916,
+  "name": "Lightning Staff of Ursus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1304691,
+    1401329,
+    1402981,
+    1481671,
+    1531850,
+    1537645,
+    1566876,
+    1572383,
+    1583660
+  ]
+}

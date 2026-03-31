@@ -1,0 +1,13 @@
+{
+  "internalId": 1349982432,
+  "name": "Adept Rider's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135948,
+    135983,
+    136018,
+    136053
+  ]
+}

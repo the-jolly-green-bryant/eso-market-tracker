@@ -1,0 +1,19 @@
+{
+  "internalId": 2440521411,
+  "name": "Robe of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71806,
+    71841,
+    71876,
+    71911,
+    71946,
+    71981,
+    72016,
+    72051,
+    72086,
+    72121
+  ]
+}

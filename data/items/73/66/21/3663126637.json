@@ -1,0 +1,17 @@
+{
+  "internalId": 3663126637,
+  "name": "Battle Axe of Endurance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69064,
+    69077,
+    69090,
+    69103,
+    69116,
+    69129,
+    69142,
+    69155
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3034481010,
+  "name": "Hakra's Cuisses",
+  "description": "Hakra thanked you for freeing her from the Worm Cult with these greaves. Spirits like her won't need them.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10976
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 819020076,
+  "name": "Systres Brazier, Cold-Flame",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_milemarker001.png",
+  "bindType": -1,
+  "knownIds": [
+    196205
+  ]
+}

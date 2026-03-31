@@ -1,0 +1,10 @@
+{
+  "internalId": 1121181775,
+  "name": "Winter Squash, Display",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_crp_pumpkinsmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    117998
+  ]
+}

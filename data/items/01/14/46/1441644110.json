@@ -1,0 +1,28 @@
+{
+  "internalId": 1441644110,
+  "name": "Restoration Staff of the Hunt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1190025,
+    1253292,
+    1254794,
+    1274065,
+    1284087,
+    1292484,
+    1327836,
+    1349216,
+    1397167,
+    1412313,
+    1502471,
+    1507674,
+    1515540,
+    1515693,
+    1516580,
+    1519173,
+    1537125,
+    1583861,
+    1751560
+  ]
+}

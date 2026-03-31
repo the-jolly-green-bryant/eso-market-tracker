@@ -1,0 +1,10 @@
+{
+  "internalId": 2555384685,
+  "name": "Redguard Well, Covered",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varwellmedium002.png",
+  "bindType": -1,
+  "knownIds": [
+    117699
+  ]
+}

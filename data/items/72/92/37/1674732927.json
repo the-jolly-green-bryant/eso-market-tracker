@@ -1,0 +1,10 @@
+{
+  "internalId": 1674732927,
+  "name": "Wardrobe of Monster Mask Outfits IV",
+  "description": "An decorative wardrobe containing many collectible Outfit Styles. If you know all available Outfit Styles already, this container does nothing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_wardrobe001.png",
+  "bindType": 3,
+  "knownIds": [
+    214330
+  ]
+}

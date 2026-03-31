@@ -1,0 +1,10 @@
+{
+  "internalId": 3841489913,
+  "name": "Apocrypha Dresser, Intricate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_dresserhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198413
+  ]
+}

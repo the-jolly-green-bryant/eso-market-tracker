@@ -1,0 +1,18 @@
+{
+  "internalId": 1316839372,
+  "name": "Greatsword of Twilight Remedy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hsword_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1089279,
+    1376898,
+    1376901,
+    1401442,
+    1422891,
+    1688501,
+    1693190,
+    1701657,
+    1749876
+  ]
+}

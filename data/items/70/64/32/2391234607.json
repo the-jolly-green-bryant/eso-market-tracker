@@ -1,0 +1,10 @@
+{
+  "internalId": 2391234607,
+  "name": "Tree, Ancient Rotten",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_marsh003.png",
+  "bindType": -1,
+  "knownIds": [
+    130315
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 2632373464,
+  "name": "Venison Pasty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
+  "bindType": -1,
+  "knownIds": [
+    61039,
+    61039,
+    28398
+  ]
+}

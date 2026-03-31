@@ -1,0 +1,19 @@
+{
+  "internalId": 2599377320,
+  "name": "Naga Shaman Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143166,
+    143221,
+    143256,
+    143291,
+    143326,
+    143361,
+    143396,
+    143431,
+    143466,
+    143501
+  ]
+}

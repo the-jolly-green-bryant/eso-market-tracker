@@ -1,0 +1,10 @@
+{
+  "internalId": 1211509047,
+  "name": "Murkmire Ramp, Reed",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_str_mrkrampshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    145384
+  ]
+}

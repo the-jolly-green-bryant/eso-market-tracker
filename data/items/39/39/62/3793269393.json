@@ -1,0 +1,10 @@
+{
+  "internalId": 3793269393,
+  "name": "Flower, Grandmother Hibiscus",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_shadowfenconeflower001.png",
+  "bindType": -1,
+  "knownIds": [
+    120502
+  ]
+}

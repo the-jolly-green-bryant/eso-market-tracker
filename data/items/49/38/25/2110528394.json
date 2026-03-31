@@ -1,0 +1,18 @@
+{
+  "internalId": 2110528394,
+  "name": "Axe of the Undaunted Unweaver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_1haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1153970,
+    1274334,
+    1353766,
+    1404472,
+    1509163,
+    1580807,
+    1593697,
+    1603640,
+    1619547
+  ]
+}

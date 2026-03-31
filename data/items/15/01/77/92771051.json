@@ -1,0 +1,19 @@
+{
+  "internalId": 92771051,
+  "name": "Fortified Brass Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130728,
+    130763,
+    130798,
+    130833,
+    130868,
+    130903,
+    130938,
+    130973,
+    131008,
+    131043
+  ]
+}

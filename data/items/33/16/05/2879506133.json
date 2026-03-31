@@ -1,0 +1,17 @@
+{
+  "internalId": 2879506133,
+  "name": "Girdle of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84544,
+    84564,
+    84584,
+    84604,
+    84624,
+    84644,
+    84664,
+    84684
+  ]
+}

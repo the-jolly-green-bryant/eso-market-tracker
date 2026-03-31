@@ -1,0 +1,10 @@
+{
+  "internalId": 856125474,
+  "name": "Rough Sack, Burlap",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_sackpotatoes001.png",
+  "bindType": -1,
+  "knownIds": [
+    117938
+  ]
+}

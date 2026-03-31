@@ -1,0 +1,11 @@
+{
+  "internalId": 2833984261,
+  "name": "Bound Affix Script: Off Balance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_offbalance.png",
+  "bindType": -1,
+  "knownIds": [
+    1720793,
+    1725181
+  ]
+}

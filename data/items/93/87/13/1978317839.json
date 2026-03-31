@@ -1,0 +1,14 @@
+{
+  "internalId": 1978317839,
+  "name": "Dragonguard Banner",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_bannerdragonguardmedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    1331211,
+    1345768,
+    1347228,
+    1399625,
+    1413428
+  ]
+}

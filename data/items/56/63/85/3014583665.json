@@ -1,0 +1,16 @@
+{
+  "internalId": 3014583665,
+  "name": "fell boots of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    664562,
+    613486,
+    459329,
+    458254,
+    794879,
+    789721,
+    786837
+  ]
+}

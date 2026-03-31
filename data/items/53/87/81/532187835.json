@@ -1,0 +1,17 @@
+{
+  "internalId": 532187835,
+  "name": "Inferno Staff of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93913,
+    93933,
+    93953,
+    93973,
+    93993,
+    94013,
+    94033,
+    94053
+  ]
+}

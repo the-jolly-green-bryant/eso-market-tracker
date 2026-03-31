@@ -1,0 +1,10 @@
+{
+  "internalId": 2919433562,
+  "name": "Indoril Tapestry, Almalexia",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlatapestryalmalexia001.png",
+  "bindType": -1,
+  "knownIds": [
+    126550
+  ]
+}

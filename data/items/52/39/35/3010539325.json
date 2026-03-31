@@ -1,0 +1,10 @@
+{
+  "internalId": 3010539325,
+  "name": "Cyrodiil Sets",
+  "description": "This container holds a collection of armor, jewelry and weapons found in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    150618
+  ]
+}

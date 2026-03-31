@@ -1,0 +1,10 @@
+{
+  "internalId": 1012040357,
+  "name": "Plaque, Bordered Deer Antlers",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_trophy_antlers002.png",
+  "bindType": -1,
+  "knownIds": [
+    118278
+  ]
+}

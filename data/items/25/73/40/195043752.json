@@ -1,0 +1,10 @@
+{
+  "internalId": 195043752,
+  "name": "Rough Crate, Reinforced",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_crate002.png",
+  "bindType": -1,
+  "knownIds": [
+    117929
+  ]
+}

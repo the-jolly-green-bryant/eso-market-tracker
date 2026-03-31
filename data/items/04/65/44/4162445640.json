@@ -1,0 +1,10 @@
+{
+  "internalId": 4162445640,
+  "name": "Colovian Grape Vines, Long",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_waf_grapevines002.png",
+  "bindType": -1,
+  "knownIds": [
+    204729
+  ]
+}

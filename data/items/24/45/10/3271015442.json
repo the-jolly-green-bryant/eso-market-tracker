@@ -1,0 +1,10 @@
+{
+  "internalId": 3271015442,
+  "name": "Flash Powder",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_minerals_001.png",
+  "bindType": -1,
+  "knownIds": [
+    30403
+  ]
+}

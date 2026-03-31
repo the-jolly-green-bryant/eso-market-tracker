@@ -1,0 +1,17 @@
+{
+  "internalId": 3988465669,
+  "name": "Sabatons of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97606,
+    97626,
+    97646,
+    97666,
+    97686,
+    97706,
+    97726,
+    97746
+  ]
+}

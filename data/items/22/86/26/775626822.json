@@ -1,0 +1,17 @@
+{
+  "internalId": 775626822,
+  "name": "Dagger of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76922,
+    76942,
+    76962,
+    76982,
+    77002,
+    77022,
+    77042,
+    77062
+  ]
+}

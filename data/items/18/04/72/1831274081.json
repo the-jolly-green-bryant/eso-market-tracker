@@ -1,0 +1,30 @@
+{
+  "internalId": 1831274081,
+  "name": "oak shield of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    702202,
+    457445,
+    581160,
+    478258,
+    671223,
+    456853,
+    457268,
+    646941,
+    440660,
+    454531,
+    699392,
+    580254,
+    615193,
+    433603,
+    405790,
+    579012,
+    475225,
+    788887,
+    786095,
+    785627,
+    1128973
+  ]
+}

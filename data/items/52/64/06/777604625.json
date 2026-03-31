@@ -1,0 +1,15 @@
+{
+  "internalId": 777604625,
+  "name": "Whitestrake's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139679,
+    139769,
+    139859,
+    139949,
+    140039,
+    140129
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 794705839,
+  "name": "Rough Platform, Stage",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_platform001.png",
+  "bindType": -1,
+  "knownIds": [
+    117950
+  ]
+}

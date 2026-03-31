@@ -1,0 +1,10 @@
+{
+  "internalId": 3873536949,
+  "name": "Necrom Bowl, Elegant",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necvaseroundsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    197503
+  ]
+}

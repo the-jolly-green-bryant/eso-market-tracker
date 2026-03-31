@@ -1,0 +1,13 @@
+{
+  "internalId": 3760466215,
+  "name": "Test of Resolve Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1647505,
+    1656514,
+    1748556,
+    1777435
+  ]
+}

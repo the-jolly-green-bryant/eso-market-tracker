@@ -1,0 +1,17 @@
+{
+  "internalId": 1062908208,
+  "name": "Battle Axe of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87752,
+    87765,
+    87778,
+    87791,
+    87804,
+    87817,
+    87830,
+    87843
+  ]
+}

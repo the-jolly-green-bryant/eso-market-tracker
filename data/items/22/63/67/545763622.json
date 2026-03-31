@@ -1,0 +1,12 @@
+{
+  "internalId": 545763622,
+  "name": "Dreamer's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98064,
+    98085,
+    98106
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3349965283,
+  "name": "Glowing Remnant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_spirit_001.png",
+  "bindType": -1,
+  "knownIds": [
+    817088,
+    911575,
+    924787,
+    946432,
+    1091375,
+    1091615,
+    1170081,
+    1320702
+  ]
+}

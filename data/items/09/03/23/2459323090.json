@@ -1,0 +1,10 @@
+{
+  "internalId": 2459323090,
+  "name": "The Amulet of Eyevea",
+  "description": "Imbued in long-lost Eyevea, the ancient sanctuary of the Tamriel Mages Guild.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    61010
+  ]
+}

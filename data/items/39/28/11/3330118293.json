@@ -1,0 +1,23 @@
+{
+  "internalId": 3330118293,
+  "name": "Spell Power Cure Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_2haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    941896,
+    981082,
+    1087739,
+    1167910,
+    1345658,
+    1384704,
+    1418794,
+    1463771,
+    1523961,
+    1563404,
+    1610282,
+    1626249,
+    1631962,
+    1752115
+  ]
+}

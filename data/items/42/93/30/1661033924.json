@@ -1,0 +1,13 @@
+{
+  "internalId": 1661033924,
+  "name": "Nobility in Decay Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1678274,
+    1692150,
+    1721735,
+    1752168
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3109182844,
+  "name": "Karth's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168374,
+    168429,
+    168464,
+    168499,
+    168534,
+    168569,
+    168604,
+    168639,
+    168674,
+    168709
+  ]
+}

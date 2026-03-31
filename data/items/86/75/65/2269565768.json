@@ -1,0 +1,10 @@
+{
+  "internalId": 2269565768,
+  "name": "Solitude Trough, Empty",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_crate001.png",
+  "bindType": -1,
+  "knownIds": [
+    165687
+  ]
+}

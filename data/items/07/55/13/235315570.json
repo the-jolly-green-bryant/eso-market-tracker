@@ -1,0 +1,10 @@
+{
+  "internalId": 235315570,
+  "name": "Reveler's Robes",
+  "description": "These robes from Sanguine's Demesne smell of wine, but the show must go on!",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    212194
+  ]
+}

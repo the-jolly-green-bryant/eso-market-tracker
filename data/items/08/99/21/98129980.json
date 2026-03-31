@@ -1,0 +1,17 @@
+{
+  "internalId": 98129980,
+  "name": "Highland Sentinel Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205893,
+    205928,
+    205963,
+    205998,
+    206033,
+    206068,
+    206103,
+    206138
+  ]
+}

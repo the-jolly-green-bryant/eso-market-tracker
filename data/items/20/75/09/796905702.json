@@ -1,0 +1,17 @@
+{
+  "internalId": 796905702,
+  "name": "Vanus's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135536,
+    135557,
+    135578,
+    135599,
+    135620,
+    135641,
+    135662,
+    135683
+  ]
+}

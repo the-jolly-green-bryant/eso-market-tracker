@@ -1,0 +1,10 @@
+{
+  "internalId": 4187562087,
+  "name": "Imperial Rug, Dibella",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhrugdibellaroundflower001.png",
+  "bindType": -1,
+  "knownIds": [
+    94190
+  ]
+}

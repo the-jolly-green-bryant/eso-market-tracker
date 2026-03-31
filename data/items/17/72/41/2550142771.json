@@ -1,0 +1,17 @@
+{
+  "internalId": 2550142771,
+  "name": "Ayleid Refuge Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_mace.png",
+  "bindType": 2,
+  "knownIds": [
+    205223,
+    205243,
+    205263,
+    205283,
+    205303,
+    205323,
+    205343,
+    205363
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 865618927,
+  "name": "Apocrypha Plant, Feather Fern Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_featherplant007.png",
+  "bindType": -1,
+  "knownIds": [
+    198465
+  ]
+}

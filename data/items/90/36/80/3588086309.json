@@ -1,0 +1,10 @@
+{
+  "internalId": 3588086309,
+  "name": "Weapons: Storm Knight's Plate",
+  "description": "A Heavy Armor set found in Stormhaven.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134051
+  ]
+}

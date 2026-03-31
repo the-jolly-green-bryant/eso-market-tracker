@@ -1,0 +1,10 @@
+{
+  "internalId": 1048717757,
+  "name": "Indoril Tapestry, Sotha Sil",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlatapestrysothasil001.png",
+  "bindType": -1,
+  "knownIds": [
+    126551
+  ]
+}

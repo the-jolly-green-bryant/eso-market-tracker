@@ -1,0 +1,19 @@
+{
+  "internalId": 480963463,
+  "name": "Pauldron of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58155,
+    58190,
+    58225,
+    58260,
+    58295,
+    58330,
+    58365,
+    58400,
+    58435,
+    58470
+  ]
+}

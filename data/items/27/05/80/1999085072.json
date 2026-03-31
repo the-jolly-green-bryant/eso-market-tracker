@@ -1,0 +1,19 @@
+{
+  "internalId": 1999085072,
+  "name": "Heartland Conqueror's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172853,
+    172908,
+    172943,
+    172978,
+    173013,
+    173048,
+    173083,
+    173118,
+    173153,
+    173188
+  ]
+}

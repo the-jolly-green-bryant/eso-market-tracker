@@ -1,0 +1,10 @@
+{
+  "internalId": 1334627465,
+  "name": "Pie Dish, Display",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_servingdish001_full.png",
+  "bindType": -1,
+  "knownIds": [
+    118196
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 698845398,
+  "name": "Guards of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93072,
+    93092,
+    93112,
+    93132,
+    93152
+  ]
+}

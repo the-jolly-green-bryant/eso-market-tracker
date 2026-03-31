@@ -1,0 +1,10 @@
+{
+  "internalId": 2687169886,
+  "name": "Argonian Dried Leaves",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_hangningleaves001.png",
+  "bindType": -1,
+  "knownIds": [
+    115434
+  ]
+}

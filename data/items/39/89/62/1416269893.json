@@ -1,0 +1,13 @@
+{
+  "internalId": 1416269893,
+  "name": "Pauldron of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_heavy_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129780,
+    129787,
+    129794,
+    129801
+  ]
+}

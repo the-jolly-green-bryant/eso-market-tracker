@@ -1,0 +1,10 @@
+{
+  "internalId": 1569140785,
+  "name": "Elsweyr Lantern, Metal Ring",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_lantern002.png",
+  "bindType": -1,
+  "knownIds": [
+    151738
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 190889865,
+  "name": "Grave Guardian's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1440304,
+    1570866,
+    1583772,
+    1596429,
+    1629077,
+    1716006,
+    1750188
+  ]
+}

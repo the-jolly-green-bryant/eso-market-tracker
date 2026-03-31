@@ -1,0 +1,19 @@
+{
+  "internalId": 3134027001,
+  "name": "Fortified Brass Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130737,
+    130772,
+    130807,
+    130842,
+    130877,
+    130912,
+    130947,
+    130982,
+    131017,
+    131052
+  ]
+}

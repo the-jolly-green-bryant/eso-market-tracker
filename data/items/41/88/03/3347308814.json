@@ -1,0 +1,10 @@
+{
+  "internalId": 3347308814,
+  "name": "Apocrypha Lamp, Floor",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libcandlestandlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    197848
+  ]
+}

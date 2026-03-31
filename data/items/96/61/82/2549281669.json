@@ -1,0 +1,11 @@
+{
+  "internalId": 2549281669,
+  "name": "Pillager's Band",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1586956,
+    1593735
+  ]
+}

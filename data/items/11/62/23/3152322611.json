@@ -1,0 +1,10 @@
+{
+  "internalId": 3152322611,
+  "name": "Breton Dresser, Open",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_shelveslong001.png",
+  "bindType": -1,
+  "knownIds": [
+    115163
+  ]
+}

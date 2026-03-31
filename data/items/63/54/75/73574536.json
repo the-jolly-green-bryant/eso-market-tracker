@@ -1,0 +1,17 @@
+{
+  "internalId": 73574536,
+  "name": "Shield of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189693,
+    189713,
+    189733,
+    189753,
+    189773,
+    189793,
+    189813,
+    189833
+  ]
+}

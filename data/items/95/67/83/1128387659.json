@@ -1,0 +1,11 @@
+{
+  "internalId": 1128387659,
+  "name": "Runebox: Scarecrow Spectre Mask",
+  "description": "Contains a Scarecrow Spectre Mask.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    167938,
+    83517
+  ]
+}

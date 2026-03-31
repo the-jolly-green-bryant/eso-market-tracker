@@ -1,0 +1,10 @@
+{
+  "internalId": 1863519242,
+  "name": "Tombstone, Engraved, Decorative",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_cem_tombstonemedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    120880
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2620596300,
+  "name": "Might of the Lost Legion Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    143566,
+    143568,
+    143570,
+    143572,
+    143574,
+    143576,
+    143578,
+    143580,
+    143582,
+    143584
+  ]
+}

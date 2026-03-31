@@ -1,0 +1,15 @@
+{
+  "internalId": 2752696447,
+  "name": "Breeches of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85652,
+    85673,
+    85694,
+    85715,
+    85736,
+    85778
+  ]
+}

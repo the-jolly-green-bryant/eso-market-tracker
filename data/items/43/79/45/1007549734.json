@@ -1,0 +1,15 @@
+{
+  "internalId": 1007549734,
+  "name": "Vivec's Shoes of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195756,
+    195777,
+    195798,
+    195819,
+    195840,
+    195861
+  ]
+}

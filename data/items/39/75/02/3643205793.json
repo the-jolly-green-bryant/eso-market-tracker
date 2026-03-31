@@ -1,0 +1,11 @@
+{
+  "internalId": 3643205793,
+  "name": "Dragonstar Enforcer Badge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_adornment_001.png",
+  "bindType": -1,
+  "knownIds": [
+    383160,
+    1513687
+  ]
+}

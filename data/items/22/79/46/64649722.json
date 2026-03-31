@@ -1,0 +1,19 @@
+{
+  "internalId": 64649722,
+  "name": "Bow of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168754,
+    168809,
+    168844,
+    168879,
+    168914,
+    168949,
+    168984,
+    169019,
+    169054,
+    169089
+  ]
+}

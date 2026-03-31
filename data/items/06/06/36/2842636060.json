@@ -1,0 +1,23 @@
+{
+  "internalId": 2842636060,
+  "name": "Blooddrinker Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1175742,
+    1262113,
+    1286945,
+    1387680,
+    1389455,
+    1452781,
+    1465095,
+    1587922,
+    1595214,
+    1602280,
+    1692914,
+    1738512,
+    1743882,
+    1752944
+  ]
+}

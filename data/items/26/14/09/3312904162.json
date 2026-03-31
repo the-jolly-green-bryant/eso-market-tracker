@@ -1,0 +1,19 @@
+{
+  "internalId": 3312904162,
+  "name": "Chimera's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191241,
+    191296,
+    191331,
+    191366,
+    191401,
+    191436,
+    191471,
+    191506,
+    191541,
+    191576
+  ]
+}

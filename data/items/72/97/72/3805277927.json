@@ -1,0 +1,18 @@
+{
+  "internalId": 3805277927,
+  "name": "Senchal Defender's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154848,
+    154868,
+    154888,
+    154908,
+    154928,
+    154948,
+    154968,
+    154988,
+    155008
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1584229235,
+  "name": "Gloom-Graced Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135169,
+    135189,
+    135209,
+    135229,
+    135249,
+    135269,
+    135289,
+    135309
+  ]
+}

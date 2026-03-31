@@ -1,0 +1,10 @@
+{
+  "internalId": 3712979125,
+  "name": "Bound Crown Repair Kit",
+  "description": "When used, this repair kit restores all your damaged equipment to its original condition.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_repairkit_002.png",
+  "bindType": 3,
+  "knownIds": [
+    135113
+  ]
+}

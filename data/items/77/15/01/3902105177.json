@@ -1,0 +1,17 @@
+{
+  "internalId": 3902105177,
+  "name": "Ice Staff of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117462,
+    117482,
+    117502,
+    117522,
+    117542,
+    117562,
+    117582,
+    117602
+  ]
+}

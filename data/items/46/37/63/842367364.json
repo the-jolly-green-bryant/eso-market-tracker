@@ -1,0 +1,17 @@
+{
+  "internalId": 842367364,
+  "name": "Epaulets of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100041,
+    100062,
+    100083,
+    100104,
+    100125,
+    100146,
+    100167,
+    100188
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2884303684,
+  "name": "Argonian Mat, Reed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_inc_matreed003.png",
+  "bindType": -1,
+  "knownIds": [
+    115456
+  ]
+}

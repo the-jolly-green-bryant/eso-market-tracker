@@ -1,0 +1,10 @@
+{
+  "internalId": 3884416410,
+  "name": "Nord Chest, Latched",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_chest006.png",
+  "bindType": -1,
+  "knownIds": [
+    115397
+  ]
+}

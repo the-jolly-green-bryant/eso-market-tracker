@@ -1,0 +1,10 @@
+{
+  "internalId": 1857750691,
+  "name": "slight Glyph of Hardening",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png",
+  "bindType": -1,
+  "knownIds": [
+    1436690
+  ]
+}

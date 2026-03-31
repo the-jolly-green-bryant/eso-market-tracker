@@ -1,0 +1,10 @@
+{
+  "internalId": 4139508337,
+  "name": "The Deception of Light Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting006.png",
+  "bindType": -1,
+  "knownIds": [
+    166442
+  ]
+}

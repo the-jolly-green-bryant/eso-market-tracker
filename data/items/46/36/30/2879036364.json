@@ -1,0 +1,18 @@
+{
+  "internalId": 2879036364,
+  "name": "Old Growth Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191695,
+    191730,
+    191765,
+    191800,
+    191835,
+    191870,
+    191905,
+    191940,
+    191975
+  ]
+}

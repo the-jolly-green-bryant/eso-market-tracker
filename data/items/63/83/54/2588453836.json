@@ -1,0 +1,19 @@
+{
+  "internalId": 2588453836,
+  "name": "Chimera's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191247,
+    191302,
+    191337,
+    191372,
+    191407,
+    191442,
+    191477,
+    191512,
+    191547,
+    191582
+  ]
+}

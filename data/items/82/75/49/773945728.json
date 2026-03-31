@@ -1,0 +1,12 @@
+{
+  "internalId": 773945728,
+  "name": "Mace of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99167,
+    99187,
+    99207
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 4021207029,
+  "name": "Spellshredder Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219200,
+    219221,
+    219242,
+    219263,
+    219284,
+    219305
+  ]
+}

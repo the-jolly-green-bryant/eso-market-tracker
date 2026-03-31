@@ -1,0 +1,19 @@
+{
+  "internalId": 3618424835,
+  "name": "Innate Axiom Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130397,
+    130432,
+    130467,
+    130502,
+    130537,
+    130572,
+    130607,
+    130642,
+    130677,
+    130712
+  ]
+}

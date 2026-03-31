@@ -1,0 +1,10 @@
+{
+  "internalId": 3139065025,
+  "name": "Necrom Vase, Elegant Rounded Floral",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necvaseroundtall001a.png",
+  "bindType": -1,
+  "knownIds": [
+    197501
+  ]
+}

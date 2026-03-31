@@ -1,0 +1,19 @@
+{
+  "internalId": 4078429611,
+  "name": "Fortified Brass Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130722,
+    130757,
+    130792,
+    130827,
+    130862,
+    130897,
+    130932,
+    130967,
+    131002,
+    131037
+  ]
+}

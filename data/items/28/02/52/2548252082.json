@@ -1,0 +1,17 @@
+{
+  "internalId": 2548252082,
+  "name": "Lamp Knight's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213930,
+    213950,
+    213970,
+    213990,
+    214010,
+    214030,
+    214050,
+    214070
+  ]
+}

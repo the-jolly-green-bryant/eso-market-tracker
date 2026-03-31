@@ -1,0 +1,12 @@
+{
+  "internalId": 4294823215,
+  "name": "The Vicecanon's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78895,
+    78897,
+    78899
+  ]
+}

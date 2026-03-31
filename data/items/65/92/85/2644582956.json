@@ -1,0 +1,10 @@
+{
+  "internalId": 2644582956,
+  "name": "Ayleid Stairs, Tall",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_housingwalltranspitstairs002.png",
+  "bindType": -1,
+  "knownIds": [
+    212407
+  ]
+}

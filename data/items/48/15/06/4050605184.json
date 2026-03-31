@@ -1,0 +1,10 @@
+{
+  "internalId": 4050605184,
+  "name": "Plant, Flytrap",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_mrkvenflytraplarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    145474
+  ]
+}

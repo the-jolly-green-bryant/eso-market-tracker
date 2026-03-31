@@ -1,0 +1,10 @@
+{
+  "internalId": 296828182,
+  "name": "Leyawiin Plate, Utensils",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplateempty001.png",
+  "bindType": -1,
+  "knownIds": [
+    175687
+  ]
+}

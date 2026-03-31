@@ -1,0 +1,10 @@
+{
+  "internalId": 2065703069,
+  "name": "Sixth West Weald Bounty Box",
+  "description": "This Offering contains a bevy of loot. There are 6 Offerings in total, and you may open them at your leisure.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+  "bindType": 3,
+  "knownIds": [
+    207955
+  ]
+}

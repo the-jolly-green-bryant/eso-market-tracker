@@ -1,0 +1,10 @@
+{
+  "internalId": 2328825157,
+  "name": "Apocrypha Sconce, Cylindrical",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_liblantern001.png",
+  "bindType": -1,
+  "knownIds": [
+    197539
+  ]
+}

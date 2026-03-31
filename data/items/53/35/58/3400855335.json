@@ -1,0 +1,10 @@
+{
+  "internalId": 3400855335,
+  "name": "Maul of the Phoenix",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117049
+  ]
+}

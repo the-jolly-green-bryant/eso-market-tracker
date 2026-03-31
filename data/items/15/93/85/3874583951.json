@@ -1,0 +1,10 @@
+{
+  "internalId": 3874583951,
+  "name": "Hakoshae Pillar, Wooden Hooked",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_akaviripost001.png",
+  "bindType": -1,
+  "knownIds": [
+    151763
+  ]
+}

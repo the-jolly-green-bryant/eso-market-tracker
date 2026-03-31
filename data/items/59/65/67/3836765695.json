@@ -1,0 +1,17 @@
+{
+  "internalId": 3836765695,
+  "name": "Prisoner's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101884,
+    101905,
+    101926,
+    101947,
+    101968,
+    101989,
+    102010,
+    102031
+  ]
+}

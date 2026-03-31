@@ -1,0 +1,17 @@
+{
+  "internalId": 2072486420,
+  "name": "Guards of Cyrodiil's Ward",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93740,
+    93760,
+    93780,
+    93800,
+    93820,
+    93840,
+    93860,
+    93880
+  ]
+}

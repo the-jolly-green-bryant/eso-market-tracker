@@ -1,0 +1,10 @@
+{
+  "internalId": 4186390406,
+  "name": "Redguard Candlestick, Polished",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varcandlelabra001.png",
+  "bindType": -1,
+  "knownIds": [
+    117753
+  ]
+}

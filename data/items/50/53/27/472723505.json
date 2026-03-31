@@ -1,0 +1,10 @@
+{
+  "internalId": 472723505,
+  "name": "Fargrave Colonnade Hall",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farcolonnade001.png",
+  "bindType": -1,
+  "knownIds": [
+    184079
+  ]
+}

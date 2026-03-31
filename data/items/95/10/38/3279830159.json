@@ -1,0 +1,17 @@
+{
+  "internalId": 3279830159,
+  "name": "Cuirass of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78954,
+    78989,
+    79024,
+    79059,
+    79094,
+    79129,
+    79164,
+    79237
+  ]
+}

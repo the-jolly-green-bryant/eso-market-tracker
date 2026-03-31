@@ -1,0 +1,10 @@
+{
+  "internalId": 1842815641,
+  "name": "Redguard Amphora, Polished",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_duc_yokudanamphora001.png",
+  "bindType": -1,
+  "knownIds": [
+    117706
+  ]
+}

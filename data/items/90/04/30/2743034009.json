@@ -1,0 +1,17 @@
+{
+  "internalId": 2743034009,
+  "name": "Ravaging Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89447,
+    89467,
+    89487,
+    89507,
+    89527,
+    89547,
+    89567,
+    89587
+  ]
+}

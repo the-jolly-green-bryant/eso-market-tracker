@@ -1,0 +1,19 @@
+{
+  "internalId": 661469882,
+  "name": "Assassin's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121566,
+    121601,
+    121636,
+    121671,
+    121706,
+    121741,
+    121776,
+    121811,
+    121846,
+    121881
+  ]
+}

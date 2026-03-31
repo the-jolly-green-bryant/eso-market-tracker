@@ -1,0 +1,13 @@
+{
+  "internalId": 2919327486,
+  "name": "Bow of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129585,
+    129597,
+    129609,
+    129621
+  ]
+}

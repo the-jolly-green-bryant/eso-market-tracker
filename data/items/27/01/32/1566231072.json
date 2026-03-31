@@ -1,0 +1,10 @@
+{
+  "internalId": 1566231072,
+  "name": "Thunderbug Carapace Boots of Clomping",
+  "description": "These boots seem to shake the ground as they fall.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34756
+  ]
+}

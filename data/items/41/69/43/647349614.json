@@ -1,0 +1,17 @@
+{
+  "internalId": 647349614,
+  "name": "Greatsword of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99472,
+    99492,
+    99512,
+    99532,
+    99552,
+    99572,
+    99592,
+    99612
+  ]
+}

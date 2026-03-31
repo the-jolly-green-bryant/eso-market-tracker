@@ -1,0 +1,17 @@
+{
+  "internalId": 411955950,
+  "name": "Blunted Blades Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204093,
+    204113,
+    204133,
+    204153,
+    204173,
+    204193,
+    204213,
+    204233
+  ]
+}

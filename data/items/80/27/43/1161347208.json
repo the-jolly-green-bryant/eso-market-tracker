@@ -1,0 +1,17 @@
+{
+  "internalId": 1161347208,
+  "name": "Shield of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88363,
+    88383,
+    88403,
+    88423,
+    88443,
+    88463,
+    88483,
+    88503
+  ]
+}

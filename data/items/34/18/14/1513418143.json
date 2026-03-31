@@ -1,0 +1,11 @@
+{
+  "internalId": 1513418143,
+  "name": "Secret Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    55286,
+    55296
+  ]
+}

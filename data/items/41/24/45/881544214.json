@@ -1,0 +1,10 @@
+{
+  "internalId": 881544214,
+  "name": "Solitude Table, Square Ornate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tablesmallfancy001.png",
+  "bindType": -1,
+  "knownIds": [
+    165692
+  ]
+}

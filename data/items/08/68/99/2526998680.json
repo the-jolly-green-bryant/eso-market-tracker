@@ -1,0 +1,10 @@
+{
+  "internalId": 2526998680,
+  "name": "Dagon Morag",
+  "description": "Also known as 'The Unbound Blade,' this sword was forged using a bonespur from the great Brother of Strife, Balreth.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7384
+  ]
+}

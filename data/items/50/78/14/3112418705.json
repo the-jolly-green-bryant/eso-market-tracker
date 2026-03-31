@@ -1,0 +1,17 @@
+{
+  "internalId": 3112418705,
+  "name": "Mad Tinkerer's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_shoulder_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132869,
+    132890,
+    132911,
+    132932,
+    132953,
+    132974,
+    132995,
+    133016
+  ]
+}

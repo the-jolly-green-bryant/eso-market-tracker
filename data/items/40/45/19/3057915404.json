@@ -1,0 +1,10 @@
+{
+  "internalId": 3057915404,
+  "name": "Fiord's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100360
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 3222616697,
+  "name": "beech shield of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    736812,
+    763905,
+    438302,
+    616338,
+    423236,
+    635737,
+    657747,
+    788892,
+    871686,
+    893839,
+    1129321
+  ]
+}

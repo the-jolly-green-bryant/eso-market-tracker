@@ -1,0 +1,10 @@
+{
+  "internalId": 605486421,
+  "name": "Baked Potato, Display",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_potato001.png",
+  "bindType": -1,
+  "knownIds": [
+    118108
+  ]
+}

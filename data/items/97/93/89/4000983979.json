@@ -1,0 +1,10 @@
+{
+  "internalId": 4000983979,
+  "name": "Bag of Jubilee Yesteryear",
+  "description": "Relive (or experience for the first time) the memories of Jubilees past with this bag containing style pages and other ephemera found in previous Anniversary Jubilees.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/zonebag.png",
+  "bindType": 3,
+  "knownIds": [
+    183895
+  ]
+}

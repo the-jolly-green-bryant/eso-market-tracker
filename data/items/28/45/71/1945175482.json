@@ -1,0 +1,17 @@
+{
+  "internalId": 1945175482,
+  "name": "Sabatons of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88365,
+    88385,
+    88405,
+    88425,
+    88445,
+    88465,
+    88485,
+    88505
+  ]
+}

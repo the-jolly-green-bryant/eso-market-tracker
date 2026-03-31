@@ -1,0 +1,17 @@
+{
+  "internalId": 3152591999,
+  "name": "Gourmand's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190380,
+    190401,
+    190422,
+    190443,
+    190464,
+    190485,
+    190506,
+    190527
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 3853745102,
+  "name": "Kinras's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1421645,
+    1509227,
+    1512930,
+    1513127,
+    1519279,
+    1540923,
+    1541163,
+    1545994,
+    1552151,
+    1570057,
+    1596240,
+    1659444
+  ]
+}

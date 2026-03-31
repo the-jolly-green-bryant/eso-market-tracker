@@ -1,0 +1,17 @@
+{
+  "internalId": 4142585652,
+  "name": "Restoration Staff of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99478,
+    99498,
+    99518,
+    99538,
+    99558,
+    99578,
+    99598,
+    99618
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3705639073,
+  "name": "Thane-Guard's Helm",
+  "description": "Fashioned for a true guard of the Thane after you protected her against Worm Cultists.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10990
+  ]
+}

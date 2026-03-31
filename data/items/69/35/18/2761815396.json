@@ -1,0 +1,10 @@
+{
+  "internalId": 2761815396,
+  "name": "Hircine's Boon",
+  "description": "You proved yourself a formidable hunter and returned Fallen Grotto to the wyrd. Hircine himself awarded you this bone-adorned shoulder armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15604
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": 2493106214,
+  "name": "Pillar of Nirn Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1342013,
+    1343716,
+    1361432,
+    1376928,
+    1540951,
+    1578171,
+    1594754,
+    1602503,
+    1602829,
+    1621907,
+    1622035,
+    1637941,
+    1736319
+  ]
+}

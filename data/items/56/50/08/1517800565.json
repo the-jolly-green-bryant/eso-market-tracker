@@ -1,0 +1,19 @@
+{
+  "internalId": 1517800565,
+  "name": "Crimson Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcticvampire_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1392464,
+    1416619,
+    1487305,
+    1586747,
+    1595061,
+    1617836,
+    1623865,
+    1677907,
+    1702263,
+    1732238
+  ]
+}

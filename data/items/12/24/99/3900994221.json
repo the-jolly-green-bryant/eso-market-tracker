@@ -1,0 +1,10 @@
+{
+  "internalId": 3900994221,
+  "name": "Bookbinding Kit",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png",
+  "bindType": -1,
+  "knownIds": [
+    902565
+  ]
+}

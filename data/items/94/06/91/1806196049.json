@@ -1,0 +1,11 @@
+{
+  "internalId": 1806196049,
+  "name": "Shield of the Worm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77658,
+    77713
+  ]
+}

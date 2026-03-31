@@ -1,0 +1,12 @@
+{
+  "internalId": 3901613693,
+  "name": "Greatsword of Marauder's Haste",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155154,
+    155175,
+    155196
+  ]
+}

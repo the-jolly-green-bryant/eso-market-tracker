@@ -1,0 +1,19 @@
+{
+  "internalId": 893102735,
+  "name": "Clothier's Satchel I",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
+  "bindType": -1,
+  "knownIds": [
+    389988,
+    745340,
+    749625,
+    750312,
+    789193,
+    786876,
+    786219,
+    786072,
+    784875,
+    783161
+  ]
+}

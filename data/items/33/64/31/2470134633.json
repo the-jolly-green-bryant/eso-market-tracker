@@ -1,0 +1,23 @@
+{
+  "internalId": 2470134633,
+  "name": "Vykosa's Mask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undvykosa_helmet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1268731,
+    1341980,
+    1347845,
+    1347851,
+    1375980,
+    1417945,
+    1480472,
+    1481433,
+    1482173,
+    1482392,
+    1484463,
+    1484682,
+    1491053,
+    1491057
+  ]
+}

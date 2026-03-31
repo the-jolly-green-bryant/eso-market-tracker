@@ -1,0 +1,24 @@
+{
+  "internalId": 4187442221,
+  "name": "Automated Defense Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1161224,
+    1161266,
+    1171105,
+    1198189,
+    1232480,
+    1386595,
+    1399907,
+    1403540,
+    1414057,
+    1479354,
+    1504945,
+    1542403,
+    1559741,
+    1565129,
+    1630256
+  ]
+}

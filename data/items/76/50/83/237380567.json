@@ -1,0 +1,12 @@
+{
+  "internalId": 237380567,
+  "name": "Exotic Equipment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54518,
+    54519,
+    54520
+  ]
+}

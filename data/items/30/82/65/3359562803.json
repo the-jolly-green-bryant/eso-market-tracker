@@ -1,0 +1,10 @@
+{
+  "internalId": 3359562803,
+  "name": "Voidwalker's Grips",
+  "description": "Light but protective gloves suitable for handling unstable magical forces. Awarded for aiding the Ravenwatch in uncovering Rada al-Saran's plans.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167422
+  ]
+}

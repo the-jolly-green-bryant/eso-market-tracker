@@ -1,0 +1,17 @@
+{
+  "internalId": 1965979004,
+  "name": "Sword of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92150,
+    92163,
+    92176,
+    92189,
+    92202,
+    92215,
+    92228,
+    92241
+  ]
+}

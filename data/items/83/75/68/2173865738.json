@@ -1,0 +1,19 @@
+{
+  "internalId": 2173865738,
+  "name": "Yandir's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_sword.png",
+  "bindType": -1,
+  "knownIds": [
+    1387071,
+    1387122,
+    1389281,
+    1391467,
+    1402879,
+    1413709,
+    1615031,
+    1617660,
+    1628032,
+    1733947
+  ]
+}

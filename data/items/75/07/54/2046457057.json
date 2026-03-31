@@ -1,0 +1,10 @@
+{
+  "internalId": 2046457057,
+  "name": "Spiderstaff of the Green Pact",
+  "description": "This staff is covered with a sticky coating.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34664
+  ]
+}

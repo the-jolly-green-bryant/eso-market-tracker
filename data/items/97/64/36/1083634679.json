@@ -1,0 +1,17 @@
+{
+  "internalId": 1083634679,
+  "name": "Shield of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180276,
+    180296,
+    180316,
+    180336,
+    180356,
+    180376,
+    180396,
+    180416
+  ]
+}

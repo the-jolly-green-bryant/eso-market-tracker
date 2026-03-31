@@ -1,0 +1,12 @@
+{
+  "internalId": 66016792,
+  "name": "Exotic 1H Weapon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54535,
+    54545,
+    54555
+  ]
+}

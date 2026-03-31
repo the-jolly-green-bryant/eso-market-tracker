@@ -1,0 +1,16 @@
+{
+  "internalId": 2666610406,
+  "name": "Eye of the Grasp Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179955,
+    179976,
+    179997,
+    180018,
+    180039,
+    180060,
+    180081
+  ]
+}

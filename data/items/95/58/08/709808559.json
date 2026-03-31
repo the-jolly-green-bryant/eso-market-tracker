@@ -1,0 +1,10 @@
+{
+  "internalId": 709808559,
+  "name": "Mushrooms, Auridon Group",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_malabaltorglowmushrooms002.png",
+  "bindType": -1,
+  "knownIds": [
+    119589
+  ]
+}

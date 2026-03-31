@@ -1,0 +1,20 @@
+{
+  "internalId": 274003113,
+  "name": "dwarven greaves of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": -1,
+  "knownIds": [
+    579892,
+    431149,
+    521637,
+    743547,
+    435663,
+    450935,
+    702306,
+    791298,
+    786428,
+    871881,
+    1065392
+  ]
+}

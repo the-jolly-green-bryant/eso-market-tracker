@@ -1,0 +1,16 @@
+{
+  "internalId": 1592327572,
+  "name": "Wrathsun Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shoulders_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1678183,
+    1689961,
+    1691018,
+    1721556,
+    1751203,
+    1755321,
+    1757180
+  ]
+}

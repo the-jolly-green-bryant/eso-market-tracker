@@ -1,0 +1,17 @@
+{
+  "internalId": 812038109,
+  "name": "Plague Slinger Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_axe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1463779,
+    1473914,
+    1568745,
+    1595270,
+    1605811,
+    1628070,
+    1630971,
+    1747664
+  ]
+}

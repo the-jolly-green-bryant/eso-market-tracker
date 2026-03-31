@@ -1,0 +1,10 @@
+{
+  "internalId": 1489241013,
+  "name": "Elsweyr Sugar Bowl, Gilded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_cup002.png",
+  "bindType": -1,
+  "knownIds": [
+    151645
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 662786209,
+  "name": "Soulcleaver Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1680263,
+    1702326,
+    1777086
+  ]
+}

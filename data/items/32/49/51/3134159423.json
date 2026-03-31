@@ -1,0 +1,10 @@
+{
+  "internalId": 3134159423,
+  "name": "Magister's Elegant Boots",
+  "description": "An excellent pair of boots that once belonged to Sun-in-Shadow's enemy, Ralasa Delvi. She won't be needing them anymore.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126070
+  ]
+}

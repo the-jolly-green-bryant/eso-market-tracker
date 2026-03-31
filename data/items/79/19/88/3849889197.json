@@ -1,0 +1,19 @@
+{
+  "internalId": 3849889197,
+  "name": "Ice Staff of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59955,
+    59990,
+    60025,
+    60060,
+    60095,
+    60130,
+    60165,
+    60200,
+    60235,
+    60270
+  ]
+}

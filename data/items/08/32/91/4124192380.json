@@ -1,0 +1,10 @@
+{
+  "internalId": 4124192380,
+  "name": "Ravenwatch Rerebraces",
+  "description": "Adusa-daro awarded these House Ravenwatch shoulder pads for obtaining the assassin's list of targets.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7267
+  ]
+}

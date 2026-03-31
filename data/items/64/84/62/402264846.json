@@ -1,0 +1,10 @@
+{
+  "internalId": 402264846,
+  "name": "Spindle, Bookbinding Thread",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_papermakingyarnroll001.png",
+  "bindType": -1,
+  "knownIds": [
+    198433
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 612516558,
+  "name": "Colovian Curtains, Ivory",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_curtain008.png",
+  "bindType": -1,
+  "knownIds": [
+    204721
+  ]
+}

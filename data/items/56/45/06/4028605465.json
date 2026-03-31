@@ -1,0 +1,14 @@
+{
+  "internalId": 4028605465,
+  "name": "Sash of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87138,
+    87159,
+    87180,
+    87201,
+    87264
+  ]
+}

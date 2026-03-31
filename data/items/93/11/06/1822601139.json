@@ -1,0 +1,10 @@
+{
+  "internalId": 1822601139,
+  "name": "Hedge, Small Horseshoe",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_auridonhedge001.png",
+  "bindType": -1,
+  "knownIds": [
+    120671
+  ]
+}

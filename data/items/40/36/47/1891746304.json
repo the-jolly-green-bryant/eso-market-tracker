@@ -1,0 +1,10 @@
+{
+  "internalId": 1891746304,
+  "name": "Mushrooms, Ambershine Ring",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_hrcbiolumshroom018.png",
+  "bindType": -1,
+  "knownIds": [
+    197839
+  ]
+}

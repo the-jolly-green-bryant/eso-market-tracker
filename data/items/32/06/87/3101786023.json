@@ -1,0 +1,27 @@
+{
+  "internalId": 3101786023,
+  "name": "Treasure Hunter's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_dagger_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1069256,
+    1083713,
+    1209094,
+    1233189,
+    1334581,
+    1391435,
+    1484130,
+    1546492,
+    1567773,
+    1586770,
+    1602145,
+    1624018,
+    1660495,
+    1686637,
+    1727918,
+    1736573,
+    1744881,
+    1765893
+  ]
+}

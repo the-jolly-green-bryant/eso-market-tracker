@@ -1,0 +1,19 @@
+{
+  "internalId": 3949363576,
+  "name": "Heartland Conqueror's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172855,
+    172910,
+    172945,
+    172980,
+    173015,
+    173050,
+    173085,
+    173120,
+    173155,
+    173190
+  ]
+}

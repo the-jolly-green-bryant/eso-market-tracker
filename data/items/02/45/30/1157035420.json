@@ -1,0 +1,10 @@
+{
+  "internalId": 1157035420,
+  "name": "Ayleid Constellation Stele, The Atronach",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmallatronarch001.png",
+  "bindType": -1,
+  "knownIds": [
+    141769
+  ]
+}

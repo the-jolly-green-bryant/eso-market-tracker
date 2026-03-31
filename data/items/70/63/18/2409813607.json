@@ -1,0 +1,10 @@
+{
+  "internalId": 2409813607,
+  "name": "Nord Candle, Antler",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_candlelg001.png",
+  "bindType": -1,
+  "knownIds": [
+    115415
+  ]
+}

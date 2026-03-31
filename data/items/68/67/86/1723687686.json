@@ -1,0 +1,10 @@
+{
+  "internalId": 1723687686,
+  "name": "Mushroom, Tall Green Morel Pair",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_tlvmorel005.png",
+  "bindType": -1,
+  "knownIds": [
+    198473
+  ]
+}

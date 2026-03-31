@@ -1,0 +1,19 @@
+{
+  "internalId": 535325450,
+  "name": "Seeker Synthesis Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195325,
+    195380,
+    195415,
+    195450,
+    195485,
+    195520,
+    195555,
+    195590,
+    195625,
+    195660
+  ]
+}

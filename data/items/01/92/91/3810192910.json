@@ -1,0 +1,10 @@
+{
+  "internalId": 3810192910,
+  "name": "Solitude Wall, Low Curved Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwalllowcurve002.png",
+  "bindType": -1,
+  "knownIds": [
+    167312
+  ]
+}

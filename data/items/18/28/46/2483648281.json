@@ -1,0 +1,17 @@
+{
+  "internalId": 2483648281,
+  "name": "Thunder Caller's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1542863,
+    1562159,
+    1573183,
+    1583055,
+    1583071,
+    1619542,
+    1680904,
+    1731190
+  ]
+}

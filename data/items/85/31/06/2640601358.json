@@ -1,0 +1,19 @@
+{
+  "internalId": 2640601358,
+  "name": "Forest Wraith's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192003,
+    192058,
+    192093,
+    192128,
+    192163,
+    192198,
+    192233,
+    192268,
+    192303,
+    192338
+  ]
+}

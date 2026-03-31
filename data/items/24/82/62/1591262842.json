@@ -1,0 +1,10 @@
+{
+  "internalId": 1591262842,
+  "name": "Orcish Counter, Island Stall",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_csb_wtgmerchantstallstand003.png",
+  "bindType": -1,
+  "knownIds": [
+    116351
+  ]
+}

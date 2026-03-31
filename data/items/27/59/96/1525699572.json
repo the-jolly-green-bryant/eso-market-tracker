@@ -1,0 +1,10 @@
+{
+  "internalId": 1525699572,
+  "name": "Radish, Wax",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_radish001.png",
+  "bindType": -1,
+  "knownIds": [
+    118031
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4060817620,
+  "name": "Pewter Ounce",
+  "description": "An ingredient for crafting jewelry.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_pewter_refined.png",
+  "bindType": -1,
+  "knownIds": [
+    135138
+  ]
+}

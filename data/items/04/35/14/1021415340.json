@@ -1,0 +1,17 @@
+{
+  "internalId": 1021415340,
+  "name": "Plague Doctor's Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97055,
+    97075,
+    97095,
+    97115,
+    97135,
+    97155,
+    97175,
+    97195
+  ]
+}

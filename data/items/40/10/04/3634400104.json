@@ -1,0 +1,19 @@
+{
+  "internalId": 3634400104,
+  "name": "full-leather helmet of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    684166,
+    544222,
+    435053,
+    544670,
+    436341,
+    545364,
+    436692,
+    664030,
+    521648,
+    481919
+  ]
+}

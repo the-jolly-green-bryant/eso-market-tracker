@@ -1,0 +1,19 @@
+{
+  "internalId": 3916975589,
+  "name": "Heroic Unity Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_heavy_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748615,
+    1748929,
+    1748942,
+    1749075,
+    1749408,
+    1749811,
+    1751975,
+    1754428,
+    1754504,
+    1762952
+  ]
+}

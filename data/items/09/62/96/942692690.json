@@ -1,0 +1,10 @@
+{
+  "internalId": 942692690,
+  "name": "Honey Dipper, Wooden",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_honeydipper001.png",
+  "bindType": -1,
+  "knownIds": [
+    204746
+  ]
+}

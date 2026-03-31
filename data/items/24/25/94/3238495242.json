@@ -1,0 +1,10 @@
+{
+  "internalId": 3238495242,
+  "name": "Thief-God's Pants",
+  "description": "Silken fabric and a snug fit makes these pants perfect for skulking.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150407
+  ]
+}

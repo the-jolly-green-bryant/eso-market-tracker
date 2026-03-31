@@ -1,0 +1,17 @@
+{
+  "internalId": 2929732470,
+  "name": "Shield of Agility",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69293,
+    69306,
+    69319,
+    69332,
+    69345,
+    69358,
+    69371,
+    69384
+  ]
+}

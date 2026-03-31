@@ -1,0 +1,10 @@
+{
+  "internalId": 3873409914,
+  "name": "Legion's Cleaver",
+  "description": "Worn and well-used, this heavy blade bears the symbol of the Legion of the West Weald.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208148
+  ]
+}

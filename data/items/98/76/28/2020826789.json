@@ -1,0 +1,17 @@
+{
+  "internalId": 2020826789,
+  "name": "Werewolf Hide Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    86017,
+    86037,
+    86057,
+    86077,
+    86097,
+    86117,
+    86137,
+    86157
+  ]
+}

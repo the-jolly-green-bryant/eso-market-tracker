@@ -1,0 +1,17 @@
+{
+  "internalId": 3737976450,
+  "name": "Mace of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88170,
+    88190,
+    88210,
+    88230,
+    88250,
+    88270,
+    88290,
+    88310
+  ]
+}

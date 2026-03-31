@@ -1,0 +1,19 @@
+{
+  "internalId": 3000450055,
+  "name": "iron cuirass of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    529338,
+    593720,
+    390279,
+    535553,
+    432973,
+    749637,
+    389582,
+    393612,
+    1128641,
+    1128704
+  ]
+}

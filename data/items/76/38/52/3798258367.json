@@ -1,0 +1,10 @@
+{
+  "internalId": 3798258367,
+  "name": "Orcish Sack, Flour",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_con_smallbarrelclose001.png",
+  "bindType": -1,
+  "knownIds": [
+    116382
+  ]
+}

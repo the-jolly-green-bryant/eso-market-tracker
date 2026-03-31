@@ -1,0 +1,10 @@
+{
+  "internalId": 3429308309,
+  "name": "Fabricant Shrub, Gold",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_clkleafy003.png",
+  "bindType": -1,
+  "knownIds": [
+    134314
+  ]
+}

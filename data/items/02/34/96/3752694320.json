@@ -1,0 +1,10 @@
+{
+  "internalId": 3752694320,
+  "name": "Tide-Born Tapestry, Snake",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argpaintingpoleframe002.png",
+  "bindType": -1,
+  "knownIds": [
+    214370
+  ]
+}

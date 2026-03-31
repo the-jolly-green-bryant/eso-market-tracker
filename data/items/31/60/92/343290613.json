@@ -1,0 +1,20 @@
+{
+  "internalId": 343290613,
+  "name": "Lucent Echoes Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719827,
+    1720499,
+    1722858,
+    1722866,
+    1723238,
+    1731995,
+    1732040,
+    1732800,
+    1732818,
+    1758233,
+    1771257
+  ]
+}

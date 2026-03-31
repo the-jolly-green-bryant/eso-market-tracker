@@ -1,0 +1,23 @@
+{
+  "internalId": 3831291688,
+  "name": "Mighty Glacier's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1305139,
+    1307774,
+    1342327,
+    1342329,
+    1345745,
+    1406029,
+    1409039,
+    1494910,
+    1499017,
+    1509330,
+    1594527,
+    1636902,
+    1677435,
+    1743023
+  ]
+}

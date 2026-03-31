@@ -1,0 +1,10 @@
+{
+  "internalId": 1646435812,
+  "name": "Mortar and Pestle",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_poismortarandpestal001.png",
+  "bindType": -1,
+  "knownIds": [
+    118306
+  ]
+}

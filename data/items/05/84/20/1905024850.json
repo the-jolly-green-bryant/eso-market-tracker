@@ -1,0 +1,19 @@
+{
+  "internalId": 1905024850,
+  "name": "Telvanni Efficiency Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194951,
+    195006,
+    195041,
+    195076,
+    195111,
+    195146,
+    195181,
+    195216,
+    195251,
+    195286
+  ]
+}

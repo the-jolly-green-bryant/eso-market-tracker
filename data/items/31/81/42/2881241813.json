@@ -1,0 +1,10 @@
+{
+  "internalId": 2881241813,
+  "name": "Wood Elf Pitcher, Painted",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_vasesmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    115596
+  ]
+}

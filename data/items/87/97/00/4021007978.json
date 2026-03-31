@@ -1,0 +1,10 @@
+{
+  "internalId": 4021007978,
+  "name": "Crafting Motif 125: Blind Path Cultist Swords",
+  "description": "Use to learn how to make Blind Path Cultist Swords. Also teaches the equivalent Blind Path Cultist Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203228
+  ]
+}

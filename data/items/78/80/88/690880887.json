@@ -1,0 +1,14 @@
+{
+  "internalId": 690880887,
+  "name": "Eternal Hunt Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72678,
+    72713,
+    72748,
+    72783,
+    72818
+  ]
+}

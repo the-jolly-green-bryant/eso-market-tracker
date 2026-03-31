@@ -1,0 +1,18 @@
+{
+  "internalId": 1568826828,
+  "name": "Maul of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116711,
+    116732,
+    116753,
+    116774,
+    116795,
+    116816,
+    116837,
+    116858,
+    116879
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 2932124098,
+  "name": "Mermaid Whiskey",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_002.png",
+  "bindType": -1,
+  "knownIds": [
+    61051,
+    33630
+  ]
+}

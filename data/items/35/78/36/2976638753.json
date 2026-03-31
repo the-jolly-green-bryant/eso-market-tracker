@@ -1,0 +1,10 @@
+{
+  "internalId": 2976638753,
+  "name": "Bush, Mountain Scrub",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rmdryscrubbush004.png",
+  "bindType": -1,
+  "knownIds": [
+    120511
+  ]
+}

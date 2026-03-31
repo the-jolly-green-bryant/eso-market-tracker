@@ -1,0 +1,10 @@
+{
+  "internalId": 1574789413,
+  "name": "Crystals, Midnight Bloom",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_mphsmallcrystal008.png",
+  "bindType": -1,
+  "knownIds": [
+    139146
+  ]
+}

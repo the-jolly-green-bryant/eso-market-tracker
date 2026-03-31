@@ -1,0 +1,17 @@
+{
+  "internalId": 2043090755,
+  "name": "Gloom-Graced Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135171,
+    135191,
+    135211,
+    135231,
+    135251,
+    135271,
+    135291,
+    135311
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2622719930,
+  "name": "General Vette's Greatsword",
+  "description": "This greatsword was wielded by the ruthless Covenant Commander who attacked Bleakrock.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    44460
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1420408364,
+  "name": "Worm Cult Decor, Crystal Skeleton",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_pillarcrystal001.png",
+  "bindType": -1,
+  "knownIds": [
+    220271
+  ]
+}

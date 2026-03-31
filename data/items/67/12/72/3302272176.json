@@ -1,0 +1,10 @@
+{
+  "internalId": 3302272176,
+  "name": "Edora",
+  "description": "Edora",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_043.png",
+  "bindType": -1,
+  "knownIds": [
+    45809
+  ]
+}

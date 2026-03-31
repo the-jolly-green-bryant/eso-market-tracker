@@ -1,0 +1,10 @@
+{
+  "internalId": 2043818926,
+  "name": "Fish, Bass",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_fish002.png",
+  "bindType": -1,
+  "knownIds": [
+    118338
+  ]
+}

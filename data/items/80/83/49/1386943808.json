@@ -1,0 +1,19 @@
+{
+  "internalId": 1386943808,
+  "name": "Nocturnal's Favored Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136443,
+    136478,
+    136513,
+    136548,
+    136583,
+    136618,
+    136653,
+    136688,
+    136723,
+    136758
+  ]
+}

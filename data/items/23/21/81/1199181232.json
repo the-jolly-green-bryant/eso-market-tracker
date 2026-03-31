@@ -1,0 +1,10 @@
+{
+  "internalId": 1199181232,
+  "name": "Redguard Satchel, Heavy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbackpack001.png",
+  "bindType": -1,
+  "knownIds": [
+    117739
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 3459511723,
+  "name": "Adept Rider's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135966,
+    136001,
+    136036
+  ]
+}

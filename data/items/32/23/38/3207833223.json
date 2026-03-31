@@ -1,0 +1,10 @@
+{
+  "internalId": 3207833223,
+  "name": "Rough Firewood, Smoldering",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_fireplace004.png",
+  "bindType": -1,
+  "knownIds": [
+    117981
+  ]
+}

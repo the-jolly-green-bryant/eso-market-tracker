@@ -1,0 +1,17 @@
+{
+  "internalId": 3337884431,
+  "name": "Farstrider Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211756,
+    211776,
+    211796,
+    211816,
+    211836,
+    211856,
+    211876,
+    211896
+  ]
+}

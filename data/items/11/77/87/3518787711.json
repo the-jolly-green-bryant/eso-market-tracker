@@ -1,0 +1,16 @@
+{
+  "internalId": 3518787711,
+  "name": "ebon dagger of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    613599,
+    376412,
+    711415,
+    440980,
+    646197,
+    794808,
+    1065584
+  ]
+}

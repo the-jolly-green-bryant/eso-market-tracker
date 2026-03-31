@@ -1,0 +1,12 @@
+{
+  "internalId": 1050588353,
+  "name": "Bound Signature Script: Thief's Swiftness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_mobility.png",
+  "bindType": -1,
+  "knownIds": [
+    1719747,
+    1721500,
+    1721984
+  ]
+}

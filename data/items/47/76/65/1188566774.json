@@ -1,0 +1,17 @@
+{
+  "internalId": 1188566774,
+  "name": "Battle Axe of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76919,
+    76939,
+    76959,
+    76979,
+    76999,
+    77019,
+    77039,
+    77059
+  ]
+}

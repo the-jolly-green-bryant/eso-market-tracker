@@ -1,0 +1,10 @@
+{
+  "internalId": 4013243290,
+  "name": "Khajiit Statue, Guardian",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_exc_guardianlion001.png",
+  "bindType": -1,
+  "knownIds": [
+    115698
+  ]
+}

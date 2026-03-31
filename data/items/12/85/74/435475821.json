@@ -1,0 +1,17 @@
+{
+  "internalId": 435475821,
+  "name": "Blunted Blades Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204085,
+    204105,
+    204125,
+    204145,
+    204165,
+    204185,
+    204205,
+    204225
+  ]
+}

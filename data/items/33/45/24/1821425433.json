@@ -1,0 +1,10 @@
+{
+  "internalId": 1821425433,
+  "name": "Forgotten Adventurer's Greaves",
+  "description": "When introducing oneself to High Elven royalty, it is considered proper to wear pants.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    192383
+  ]
+}

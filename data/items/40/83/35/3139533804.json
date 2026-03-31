@@ -1,0 +1,16 @@
+{
+  "internalId": 3139533804,
+  "name": "Ice Staff of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87509,
+    87529,
+    87549,
+    87569,
+    87589,
+    87609,
+    87629
+  ]
+}

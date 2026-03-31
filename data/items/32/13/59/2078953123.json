@@ -1,0 +1,10 @@
+{
+  "internalId": 2078953123,
+  "name": "Vvardenfell Coral Plant, Strong",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_forestcoralplant001.png",
+  "bindType": -1,
+  "knownIds": [
+    126610
+  ]
+}

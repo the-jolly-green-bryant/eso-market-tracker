@@ -1,0 +1,17 @@
+{
+  "internalId": 3864471809,
+  "name": "Enervating Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183595,
+    183615,
+    183635,
+    183655,
+    183675,
+    183695,
+    183715,
+    183735
+  ]
+}

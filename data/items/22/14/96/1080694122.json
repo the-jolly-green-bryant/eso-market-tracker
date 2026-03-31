@@ -1,0 +1,11 @@
+{
+  "internalId": 1080694122,
+  "name": "Serpent's Flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    525583,
+    605190
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3900803075,
+  "name": "Helmet of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168778,
+    168833,
+    168868,
+    168903,
+    168938,
+    168973,
+    169008,
+    169043,
+    169078,
+    169113
+  ]
+}

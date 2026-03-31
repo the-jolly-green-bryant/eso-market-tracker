@@ -1,0 +1,10 @@
+{
+  "internalId": 2223474950,
+  "name": "Daedra Dossier: Cold-Flame Atronach",
+  "description": "Being an autobiographical account of Denogorath the Dread Archivist's quest to bring the Cold-Flame Atronach's chilling beauty to Coldharbour.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookopen001.png",
+  "bindType": -1,
+  "knownIds": [
+    134257
+  ]
+}

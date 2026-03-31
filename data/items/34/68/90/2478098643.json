@@ -1,0 +1,12 @@
+{
+  "internalId": 2478098643,
+  "name": "Charged Loop",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    823047,
+    813963,
+    802964
+  ]
+}

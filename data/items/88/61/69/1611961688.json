@@ -1,0 +1,17 @@
+{
+  "internalId": 1611961688,
+  "name": "Helmet of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189697,
+    189717,
+    189737,
+    189757,
+    189777,
+    189797,
+    189817,
+    189837
+  ]
+}

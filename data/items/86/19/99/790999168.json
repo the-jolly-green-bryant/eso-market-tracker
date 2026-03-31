@@ -1,0 +1,10 @@
+{
+  "internalId": 790999168,
+  "name": "Redguard Nightstand, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varendtable001.png",
+  "bindType": -1,
+  "knownIds": [
+    117683
+  ]
+}

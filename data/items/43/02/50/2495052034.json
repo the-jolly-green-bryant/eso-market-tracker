@@ -1,0 +1,17 @@
+{
+  "internalId": 2495052034,
+  "name": "Battle Axe of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77079,
+    77099,
+    77119,
+    77139,
+    77159,
+    77179,
+    77199,
+    77219
+  ]
+}

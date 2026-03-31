@@ -1,0 +1,23 @@
+{
+  "internalId": 3808205344,
+  "name": "Duneripper Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    945401,
+    1083708,
+    1134773,
+    1171924,
+    1173964,
+    1187048,
+    1210492,
+    1524565,
+    1548225,
+    1550505,
+    1573664,
+    1588474,
+    1688199,
+    1753024
+  ]
+}

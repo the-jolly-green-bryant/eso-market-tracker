@@ -1,0 +1,14 @@
+{
+  "internalId": 3326011280,
+  "name": "Greatsword of Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199318,
+    199319,
+    199320,
+    199321,
+    199322
+  ]
+}

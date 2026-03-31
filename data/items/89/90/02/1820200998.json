@@ -1,0 +1,17 @@
+{
+  "internalId": 1820200998,
+  "name": "Old Growth Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191719,
+    191754,
+    191789,
+    191824,
+    191859,
+    191894,
+    191929,
+    191964
+  ]
+}

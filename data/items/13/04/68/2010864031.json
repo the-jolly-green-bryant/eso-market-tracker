@@ -1,0 +1,19 @@
+{
+  "internalId": 2010864031,
+  "name": "Coldharbour's Favorite Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147966,
+    148021,
+    148056,
+    148091,
+    148126,
+    148161,
+    148196,
+    148231,
+    148266,
+    148301
+  ]
+}

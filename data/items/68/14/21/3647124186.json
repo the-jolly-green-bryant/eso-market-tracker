@@ -1,0 +1,16 @@
+{
+  "internalId": 3647124186,
+  "name": "Sithis' Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_medium_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77304,
+    77339,
+    77374,
+    77409,
+    77444,
+    77479,
+    77514
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1000912215,
+  "name": "Shalk's Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96605,
+    96625,
+    96645,
+    96665,
+    96685,
+    96705,
+    96725,
+    96745
+  ]
+}

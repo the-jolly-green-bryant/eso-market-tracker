@@ -1,0 +1,17 @@
+{
+  "internalId": 2870823404,
+  "name": "Lightning Staff of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74903,
+    74924,
+    74945,
+    74966,
+    74987,
+    75008,
+    75029,
+    75050
+  ]
+}

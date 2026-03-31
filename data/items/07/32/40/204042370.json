@@ -1,0 +1,17 @@
+{
+  "internalId": 204042370,
+  "name": "Inferno Staff of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92821,
+    92841,
+    92861,
+    92881,
+    92901,
+    92921,
+    92941,
+    92961
+  ]
+}

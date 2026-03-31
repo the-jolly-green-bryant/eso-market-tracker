@@ -1,0 +1,19 @@
+{
+  "internalId": 3433385866,
+  "name": "Axe of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168747,
+    168802,
+    168837,
+    168872,
+    168907,
+    168942,
+    168977,
+    169012,
+    169047,
+    169082
+  ]
+}

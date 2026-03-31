@@ -1,0 +1,11 @@
+{
+  "internalId": 2544578142,
+  "name": "Unexplained Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54617,
+    54627
+  ]
+}

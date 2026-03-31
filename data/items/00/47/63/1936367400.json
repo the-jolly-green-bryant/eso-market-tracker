@@ -1,0 +1,10 @@
+{
+  "internalId": 1936367400,
+  "name": "Orcish Bookcase, Engraved",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgbookshelf002.png",
+  "bindType": -1,
+  "knownIds": [
+    116390
+  ]
+}

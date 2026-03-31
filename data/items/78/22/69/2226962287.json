@@ -1,0 +1,10 @@
+{
+  "internalId": 2226962287,
+  "name": "Nord Bellows, Fireplace",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_inc_bellow001.png",
+  "bindType": -1,
+  "knownIds": [
+    115412
+  ]
+}

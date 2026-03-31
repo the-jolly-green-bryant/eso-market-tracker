@@ -1,0 +1,18 @@
+{
+  "internalId": 2674963609,
+  "name": "Plague Slinger Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_mace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1208713,
+    1286136,
+    1322568,
+    1349362,
+    1461180,
+    1470072,
+    1490121,
+    1595268,
+    1692163
+  ]
+}

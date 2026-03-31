@@ -1,0 +1,10 @@
+{
+  "internalId": 3734758048,
+  "name": "Ysgramor's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101487
+  ]
+}

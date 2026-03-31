@@ -1,0 +1,10 @@
+{
+  "internalId": 2400633348,
+  "name": "Ayleid Bench, Carved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_bencha001.png",
+  "bindType": -1,
+  "knownIds": [
+    130208
+  ]
+}

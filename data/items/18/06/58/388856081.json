@@ -1,0 +1,10 @@
+{
+  "internalId": 388856081,
+  "name": "Indoril Banner, Sotha Sil",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlabannersothasil001.png",
+  "bindType": -1,
+  "knownIds": [
+    126554
+  ]
+}

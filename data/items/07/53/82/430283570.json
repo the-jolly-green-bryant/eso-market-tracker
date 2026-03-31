@@ -1,0 +1,27 @@
+{
+  "internalId": 430283570,
+  "name": "Duneripper Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_shield_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1155856,
+    1170445,
+    1209213,
+    1257810,
+    1258064,
+    1308683,
+    1416069,
+    1469880,
+    1489165,
+    1521276,
+    1573571,
+    1605715,
+    1610206,
+    1641435,
+    1643401,
+    1682649,
+    1684493,
+    1697939
+  ]
+}

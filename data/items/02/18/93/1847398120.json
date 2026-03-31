@@ -1,0 +1,10 @@
+{
+  "internalId": 1847398120,
+  "name": "Apocrypha Platform, Green Lattice Tile",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_duc_libroomceilinghallcombined001.png",
+  "bindType": -1,
+  "knownIds": [
+    203296
+  ]
+}

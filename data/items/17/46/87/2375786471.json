@@ -1,0 +1,10 @@
+{
+  "internalId": 2375786471,
+  "name": "Dawnwood Sconce, Wall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_boswallsconce001.png",
+  "bindType": -1,
+  "knownIds": [
+    204689
+  ]
+}

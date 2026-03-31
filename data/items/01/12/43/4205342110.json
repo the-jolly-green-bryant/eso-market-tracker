@@ -1,0 +1,10 @@
+{
+  "internalId": 4205342110,
+  "name": "Dwemer Coin Collection",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png",
+  "bindType": -1,
+  "knownIds": [
+    804483
+  ]
+}

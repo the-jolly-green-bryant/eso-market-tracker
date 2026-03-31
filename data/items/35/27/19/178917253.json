@@ -1,0 +1,16 @@
+{
+  "internalId": 178917253,
+  "name": "Ice Furnace Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86390,
+    86410,
+    86430,
+    86450,
+    86470,
+    86490,
+    86510
+  ]
+}

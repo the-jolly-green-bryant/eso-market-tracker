@@ -1,0 +1,15 @@
+{
+  "internalId": 742918066,
+  "name": "Necklace of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139740,
+    139830,
+    139920,
+    140010,
+    140100,
+    140190
+  ]
+}

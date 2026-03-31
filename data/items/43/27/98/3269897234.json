@@ -1,0 +1,18 @@
+{
+  "internalId": 3269897234,
+  "name": "Savage Werewolf's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1310060,
+    1525571,
+    1593473,
+    1594842,
+    1628085,
+    1659854,
+    1660446,
+    1731585,
+    1774206
+  ]
+}

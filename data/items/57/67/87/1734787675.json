@@ -1,0 +1,17 @@
+{
+  "internalId": 1734787675,
+  "name": "Lightning Staff of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116535,
+    116555,
+    116575,
+    116595,
+    116615,
+    116635,
+    116655,
+    116675
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 2791588855,
+  "name": "Senchal Defender's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_axe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154838,
+    154858,
+    154878,
+    154898,
+    154918,
+    154938,
+    154958,
+    154978,
+    154998
+  ]
+}

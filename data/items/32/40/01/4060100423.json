@@ -1,0 +1,17 @@
+{
+  "internalId": 4060100423,
+  "name": "Mace of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86937,
+    86957,
+    86977,
+    86997,
+    87017,
+    87037,
+    87057,
+    87077
+  ]
+}

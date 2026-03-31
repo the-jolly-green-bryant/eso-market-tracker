@@ -1,0 +1,10 @@
+{
+  "internalId": 1689409751,
+  "name": "Breton Mirror, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_mirror001.png",
+  "bindType": -1,
+  "knownIds": [
+    115223
+  ]
+}

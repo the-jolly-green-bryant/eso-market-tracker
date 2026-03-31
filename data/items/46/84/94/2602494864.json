@@ -1,0 +1,18 @@
+{
+  "internalId": 2602494864,
+  "name": "Siroria's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_shield_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1311419,
+    1361858,
+    1386563,
+    1422651,
+    1477699,
+    1543957,
+    1558381,
+    1600736,
+    1660557
+  ]
+}

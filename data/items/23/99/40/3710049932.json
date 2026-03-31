@@ -1,0 +1,17 @@
+{
+  "internalId": 3710049932,
+  "name": "Alessian Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87999,
+    88019,
+    88039,
+    88059,
+    88079,
+    88099,
+    88119,
+    88139
+  ]
+}

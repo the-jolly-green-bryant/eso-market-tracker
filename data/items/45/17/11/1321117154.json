@@ -1,0 +1,10 @@
+{
+  "internalId": 1321117154,
+  "name": "Pyandonean War Fleet Tapestry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrypyandoneanwarfleetsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    188282
+  ]
+}

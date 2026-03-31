@@ -1,0 +1,10 @@
+{
+  "internalId": 3888986362,
+  "name": "Ring of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161006
+  ]
+}

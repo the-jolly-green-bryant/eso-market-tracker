@@ -1,0 +1,17 @@
+{
+  "internalId": 1250674128,
+  "name": "Mace of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114654,
+    114674,
+    114694,
+    114714,
+    114734,
+    114754,
+    114774,
+    114794
+  ]
+}

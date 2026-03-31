@@ -1,0 +1,17 @@
+{
+  "internalId": 3904650827,
+  "name": "Vampire Lord's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100409,
+    100430,
+    100451,
+    100472,
+    100493,
+    100514,
+    100535,
+    100556
+  ]
+}

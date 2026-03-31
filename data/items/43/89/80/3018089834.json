@@ -1,0 +1,10 @@
+{
+  "internalId": 3018089834,
+  "name": "Stone of Instant Knowledge",
+  "description": "Meant solely for testing. Grants full knowledge of all Motifs, and then some.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
+  "bindType": -1,
+  "knownIds": [
+    79308
+  ]
+}

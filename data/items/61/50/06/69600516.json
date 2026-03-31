@@ -1,0 +1,10 @@
+{
+  "internalId": 69600516,
+  "name": "Elsweyr Cart, Moons-Blessed",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_csb_merchantcarthousing001.png",
+  "bindType": -1,
+  "knownIds": [
+    153660
+  ]
+}

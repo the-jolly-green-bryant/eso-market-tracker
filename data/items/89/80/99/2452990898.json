@@ -1,0 +1,17 @@
+{
+  "internalId": 2452990898,
+  "name": "Ravaging Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89453,
+    89473,
+    89493,
+    89513,
+    89533,
+    89553,
+    89573,
+    89593
+  ]
+}

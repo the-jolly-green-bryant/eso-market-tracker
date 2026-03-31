@@ -1,0 +1,19 @@
+{
+  "internalId": 2562769562,
+  "name": "Shoes of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60666,
+    60701,
+    60736,
+    60771,
+    60806,
+    60841,
+    60876,
+    60911,
+    60946,
+    60981
+  ]
+}

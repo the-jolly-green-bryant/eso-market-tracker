@@ -1,0 +1,19 @@
+{
+  "internalId": 781592490,
+  "name": "Greaves of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71796,
+    71831,
+    71866,
+    71901,
+    71936,
+    71971,
+    72006,
+    72041,
+    72076,
+    72111
+  ]
+}

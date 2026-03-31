@@ -1,0 +1,17 @@
+{
+  "internalId": 2492419587,
+  "name": "Battlefield Acrobat Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144302,
+    144322,
+    144342,
+    144362,
+    144382,
+    144402,
+    144422,
+    144442
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1069670545,
+  "name": "Fledgling's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748598,
+    1748920,
+    1754512
+  ]
+}

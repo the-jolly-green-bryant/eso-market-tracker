@@ -1,0 +1,15 @@
+{
+  "internalId": 762463535,
+  "name": "Ring of the Eyes of Mara",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139694,
+    139784,
+    139874,
+    139964,
+    140054,
+    140144
+  ]
+}

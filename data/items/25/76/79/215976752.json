@@ -1,0 +1,20 @@
+{
+  "internalId": 215976752,
+  "name": "Unidentified Sithis' Touch Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    895968,
+    922045,
+    1095002,
+    1125632,
+    1145078,
+    1145495,
+    1205707,
+    1209068,
+    1328450,
+    1391132,
+    1393329
+  ]
+}

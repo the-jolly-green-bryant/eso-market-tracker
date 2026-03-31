@@ -1,0 +1,17 @@
+{
+  "internalId": 3331815495,
+  "name": "Mace of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100023,
+    100044,
+    100065,
+    100086,
+    100107,
+    100128,
+    100149,
+    100170
+  ]
+}

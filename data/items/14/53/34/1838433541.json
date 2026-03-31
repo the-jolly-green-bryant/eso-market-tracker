@@ -1,0 +1,11 @@
+{
+  "internalId": 1838433541,
+  "name": "Bastian's Potion Supply Box",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_unique_db_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1593387,
+    1738009
+  ]
+}

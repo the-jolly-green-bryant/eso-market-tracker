@@ -1,0 +1,17 @@
+{
+  "internalId": 2535134913,
+  "name": "Sword of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117455,
+    117475,
+    117495,
+    117515,
+    117535,
+    117555,
+    117575,
+    117595
+  ]
+}

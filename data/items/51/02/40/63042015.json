@@ -1,0 +1,10 @@
+{
+  "internalId": 63042015,
+  "name": "Dock Bell, Mounted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_dockbell001.png",
+  "bindType": -1,
+  "knownIds": [
+    194534
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2859950978,
+  "name": "Fargrave Wall, Garden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_farwallsmallstraight001.png",
+  "bindType": -1,
+  "knownIds": [
+    184094
+  ]
+}

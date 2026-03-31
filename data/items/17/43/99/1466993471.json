@@ -1,0 +1,10 @@
+{
+  "internalId": 1466993471,
+  "name": "Orcish Strongbox, Buckled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_con_wtgdunchest001.png",
+  "bindType": -1,
+  "knownIds": [
+    116416
+  ]
+}

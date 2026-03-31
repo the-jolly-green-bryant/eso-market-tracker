@@ -1,0 +1,10 @@
+{
+  "internalId": 1500330356,
+  "name": "Pigment Bowl, Blue Large",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_artistpaintbowll004.png",
+  "bindType": -1,
+  "knownIds": [
+    214438
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 878516824,
+  "name": "Jewelry: Grisly Gourmet",
+  "description": "A Medium Armor set found in the Red Petal Bastion.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    178397
+  ]
+}

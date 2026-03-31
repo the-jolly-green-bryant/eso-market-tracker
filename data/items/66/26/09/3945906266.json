@@ -1,0 +1,19 @@
+{
+  "internalId": 3945906266,
+  "name": "Bow of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161602,
+    161657,
+    161692,
+    161727,
+    161762,
+    161797,
+    161832,
+    161867,
+    161902,
+    161937
+  ]
+}

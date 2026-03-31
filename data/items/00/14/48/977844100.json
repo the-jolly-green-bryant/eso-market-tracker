@@ -1,0 +1,15 @@
+{
+  "internalId": 977844100,
+  "name": "Dagger of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93587,
+    93607,
+    93627,
+    93647,
+    93667,
+    93687
+  ]
+}

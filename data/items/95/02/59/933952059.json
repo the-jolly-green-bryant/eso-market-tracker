@@ -1,0 +1,10 @@
+{
+  "internalId": 933952059,
+  "name": "Dreamless Staff",
+  "description": "This staff is styled after one used by ancient court mages throughout High Rock.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7342
+  ]
+}

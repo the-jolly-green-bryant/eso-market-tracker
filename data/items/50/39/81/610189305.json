@@ -1,0 +1,10 @@
+{
+  "internalId": 610189305,
+  "name": "Plant Cluster, Spadeleaf",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkelephantearplant008.png",
+  "bindType": -1,
+  "knownIds": [
+    145557
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3849346807,
+  "name": "Daring Corsair's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155408,
+    155463,
+    155498,
+    155533,
+    155568,
+    155603,
+    155638,
+    155673,
+    155708,
+    155743
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1842591286,
+  "name": "Imperial Fountain of the Bay",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_fountain001.png",
+  "bindType": -1,
+  "knownIds": [
+    94200
+  ]
+}

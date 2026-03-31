@@ -1,0 +1,17 @@
+{
+  "internalId": 1511809013,
+  "name": "Champion of the Hist Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142247,
+    142267,
+    142287,
+    142307,
+    142327,
+    142347,
+    142367,
+    142387
+  ]
+}

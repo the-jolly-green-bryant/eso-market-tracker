@@ -1,0 +1,10 @@
+{
+  "internalId": 145251280,
+  "name": "Skull Candles, Triple",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_dedskullcandle001.png",
+  "bindType": -1,
+  "knownIds": [
+    187788
+  ]
+}

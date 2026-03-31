@@ -1,0 +1,10 @@
+{
+  "internalId": 3048803885,
+  "name": "Colovian Wine Bottle, Single",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebottlelarge005.png",
+  "bindType": -1,
+  "knownIds": [
+    204707
+  ]
+}

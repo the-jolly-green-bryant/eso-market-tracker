@@ -1,0 +1,10 @@
+{
+  "internalId": 1318674117,
+  "name": "Statue, Light",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_exc_dbhstatuelight001.png",
+  "bindType": -1,
+  "knownIds": [
+    120812
+  ]
+}

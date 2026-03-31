@@ -1,0 +1,17 @@
+{
+  "internalId": 927414120,
+  "name": "Deadlands Assassin's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172132,
+    172152,
+    172172,
+    172192,
+    172212,
+    172232,
+    172252,
+    172272
+  ]
+}

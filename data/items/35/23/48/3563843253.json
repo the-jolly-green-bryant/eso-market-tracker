@@ -1,0 +1,14 @@
+{
+  "internalId": 3563843253,
+  "name": "Gauntlets of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199855,
+    199856,
+    199857,
+    199858,
+    199859
+  ]
+}

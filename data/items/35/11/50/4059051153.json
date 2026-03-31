@@ -1,0 +1,22 @@
+{
+  "internalId": 4059051153,
+  "name": "Aether Lightning Staff of Destruction",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1151031,
+    1257608,
+    1283995,
+    1387453,
+    1414070,
+    1418207,
+    1485035,
+    1515706,
+    1516222,
+    1550976,
+    1634021,
+    1738706,
+    1749397
+  ]
+}

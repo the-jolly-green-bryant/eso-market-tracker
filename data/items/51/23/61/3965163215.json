@@ -1,0 +1,19 @@
+{
+  "internalId": 3965163215,
+  "name": "Clever Alchemist Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72158,
+    72193,
+    72228,
+    72263,
+    72298,
+    72333,
+    72368,
+    72403,
+    72438,
+    72473
+  ]
+}

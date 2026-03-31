@@ -1,0 +1,10 @@
+{
+  "internalId": 2731109305,
+  "name": "Stone Carving, Tribunal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsstone005.png",
+  "bindType": -1,
+  "knownIds": [
+    197738
+  ]
+}

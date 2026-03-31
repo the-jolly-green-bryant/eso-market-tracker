@@ -1,0 +1,10 @@
+{
+  "internalId": 580271271,
+  "name": "Investigator's Burden",
+  "description": "Mizzik's heart is in the right place, even if his stomach isn't.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150396
+  ]
+}

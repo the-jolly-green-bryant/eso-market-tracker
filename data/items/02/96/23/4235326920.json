@@ -1,0 +1,17 @@
+{
+  "internalId": 4235326920,
+  "name": "Inferno Staff of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88905,
+    88925,
+    88945,
+    88965,
+    88985,
+    89005,
+    89025,
+    89045
+  ]
+}

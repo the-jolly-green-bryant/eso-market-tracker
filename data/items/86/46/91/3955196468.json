@@ -1,0 +1,10 @@
+{
+  "internalId": 3955196468,
+  "name": "Companion's Arsenal",
+  "description": "A collection of armor and other useful items for Companions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/smalljewelrybox.png",
+  "bindType": 2,
+  "knownIds": [
+    178496
+  ]
+}

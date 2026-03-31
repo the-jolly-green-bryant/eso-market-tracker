@@ -1,0 +1,19 @@
+{
+  "internalId": 2157371845,
+  "name": "New Moon Acolyte's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156175,
+    156230,
+    156265,
+    156300,
+    156335,
+    156370,
+    156405,
+    156440,
+    156475,
+    156510
+  ]
+}

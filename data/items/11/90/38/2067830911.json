@@ -1,0 +1,17 @@
+{
+  "internalId": 2067830911,
+  "name": "Old Growth Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191718,
+    191753,
+    191788,
+    191823,
+    191858,
+    191893,
+    191928,
+    191963
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 4042420195,
+  "name": "Scorion's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1542189,
+    1549548,
+    1551566,
+    1559521,
+    1593769,
+    1593993,
+    1598502,
+    1606427,
+    1623999,
+    1680258,
+    1749973
+  ]
+}

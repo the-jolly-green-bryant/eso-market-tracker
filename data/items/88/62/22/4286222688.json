@@ -1,0 +1,19 @@
+{
+  "internalId": 4286222688,
+  "name": "Deadlands Demolisher's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179183,
+    179238,
+    179273,
+    179308,
+    179343,
+    179378,
+    179413,
+    179448,
+    179483,
+    179518
+  ]
+}

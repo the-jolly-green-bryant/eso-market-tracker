@@ -1,0 +1,10 @@
+{
+  "internalId": 2539412980,
+  "name": "Breton Stool, Padded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_stool001.png",
+  "bindType": -1,
+  "knownIds": [
+    115227
+  ]
+}

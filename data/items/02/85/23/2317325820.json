@@ -1,0 +1,19 @@
+{
+  "internalId": 2317325820,
+  "name": "Karth's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168378,
+    168433,
+    168468,
+    168503,
+    168538,
+    168573,
+    168608,
+    168643,
+    168678,
+    168713
+  ]
+}

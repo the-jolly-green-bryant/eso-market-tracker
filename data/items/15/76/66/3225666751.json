@@ -1,0 +1,17 @@
+{
+  "internalId": 3225666751,
+  "name": "Renald's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1351183,
+    1396549,
+    1525415,
+    1543518,
+    1623145,
+    1629258,
+    1642260,
+    1758828
+  ]
+}

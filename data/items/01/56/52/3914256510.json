@@ -1,0 +1,10 @@
+{
+  "internalId": 3914256510,
+  "name": "Skingrad Banner",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_skgbanner002.png",
+  "bindType": -1,
+  "knownIds": [
+    212214
+  ]
+}

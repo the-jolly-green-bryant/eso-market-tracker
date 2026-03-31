@@ -1,0 +1,10 @@
+{
+  "internalId": 2796726894,
+  "name": "Crafting Motif 56: Apostle Legs",
+  "description": "Use to learn how to make Apostle Legs. Also teaches the equivalent Apostle Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_inc_scrollplate001.png",
+  "bindType": -1,
+  "knownIds": [
+    132558
+  ]
+}

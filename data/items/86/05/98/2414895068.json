@@ -1,0 +1,28 @@
+{
+  "internalId": 2414895068,
+  "name": "Shield of Leeching",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_shield__c.png",
+  "bindType": -1,
+  "knownIds": [
+    1157974,
+    1158556,
+    1166817,
+    1189801,
+    1193588,
+    1315863,
+    1337951,
+    1364707,
+    1382244,
+    1383883,
+    1407819,
+    1443024,
+    1533406,
+    1573586,
+    1588936,
+    1591453,
+    1604891,
+    1691910,
+    1697070
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 1097945136,
+  "name": "Storm-Cursed Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1569722,
+    1576236,
+    1579968,
+    1600332,
+    1600441,
+    1602113,
+    1615073,
+    1617418,
+    1619924,
+    1724199,
+    1759682
+  ]
+}

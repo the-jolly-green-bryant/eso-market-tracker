@@ -1,0 +1,17 @@
+{
+  "internalId": 1046444592,
+  "name": "Guards of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93558,
+    93578,
+    93598,
+    93618,
+    93638,
+    93658,
+    93678,
+    93698
+  ]
+}

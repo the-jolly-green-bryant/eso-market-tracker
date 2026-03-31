@@ -1,0 +1,20 @@
+{
+  "internalId": 1917258350,
+  "name": "Bracers of Rushing Agony",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1517926,
+    1519274,
+    1528089,
+    1528438,
+    1529757,
+    1541813,
+    1542173,
+    1551564,
+    1560687,
+    1583586,
+    1679171
+  ]
+}

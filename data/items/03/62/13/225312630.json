@@ -1,0 +1,17 @@
+{
+  "internalId": 225312630,
+  "name": "Adamant Lurker Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    196048,
+    196068,
+    196088,
+    196108,
+    196128,
+    196148,
+    196168,
+    196188
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1541777018,
+  "name": "Solitude Bookcase, Narrow Backless",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bookshelffancy004.png",
+  "bindType": -1,
+  "knownIds": [
+    165731
+  ]
+}

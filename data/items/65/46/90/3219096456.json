@@ -1,0 +1,10 @@
+{
+  "internalId": 3219096456,
+  "name": "High Isle Caravel, Miniature",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_csb_pirateshipbottle001.png",
+  "bindType": -1,
+  "knownIds": [
+    189472
+  ]
+}

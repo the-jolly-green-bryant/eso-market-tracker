@@ -1,0 +1,10 @@
+{
+  "internalId": 4038625993,
+  "name": "Crafting Motif 117: Firesong Axes",
+  "description": "Use to learn how to make Firesong Axes. Also teaches the equivalent Firesong Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    188308
+  ]
+}

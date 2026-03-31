@@ -1,0 +1,10 @@
+{
+  "internalId": 1304910770,
+  "name": "Hearth Recipe Book",
+  "description": "Scrawlings amassed by a storied chef. Reading this book teaches all Hearth Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color1.png",
+  "bindType": -1,
+  "knownIds": [
+    214286
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2113246498,
+  "name": "Robe of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75756,
+    75791,
+    75826,
+    75861,
+    75896,
+    75931,
+    75966,
+    76001,
+    76036,
+    76071
+  ]
+}

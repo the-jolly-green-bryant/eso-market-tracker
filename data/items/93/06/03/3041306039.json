@@ -1,0 +1,11 @@
+{
+  "internalId": 3041306039,
+  "name": "Corpseburster Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1753762,
+    1764557
+  ]
+}

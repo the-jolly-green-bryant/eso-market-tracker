@@ -1,0 +1,10 @@
+{
+  "internalId": 2803453630,
+  "name": "Bittergreen's Scale of Mother's Sorrow",
+  "description": "A ring awarded for defeating the giant guar, Bittergreen the Wild.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    43027
+  ]
+}

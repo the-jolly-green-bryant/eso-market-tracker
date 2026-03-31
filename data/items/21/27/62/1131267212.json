@@ -1,0 +1,10 @@
+{
+  "internalId": 1131267212,
+  "name": "Hourglass of Perceived Time",
+  "description": "When activated, this hourglass changes the user's perspective of time. Hours can appear to last days, days can go by in a mere blink. Due to its misuse as a torture device, the secrets of activating its powers remain hidden. Bring this to the Vault of Moaw",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_hourglass001.png",
+  "bindType": 3,
+  "knownIds": [
+    133620
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 730971960,
+  "name": "Stirk Fellowship Firestorm Staff",
+  "description": "How this valuable Stirk Fellowship gear wound up in a pirate's possession is unknown, but it's all yours now.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    217721
+  ]
+}

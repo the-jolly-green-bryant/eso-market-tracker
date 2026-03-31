@@ -1,0 +1,10 @@
+{
+  "internalId": 824589567,
+  "name": "Rocks, Sintered Column",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_clcsinteredruins006.png",
+  "bindType": -1,
+  "knownIds": [
+    134294
+  ]
+}

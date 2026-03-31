@@ -1,0 +1,10 @@
+{
+  "internalId": 1043315062,
+  "name": "Redguard Fence, Wooden",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_housingvarhouselowrailingst003.png",
+  "bindType": -1,
+  "knownIds": [
+    159462
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1926836334,
+  "name": "Wood Elf Bar, Long",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_rackbar002.png",
+  "bindType": -1,
+  "knownIds": [
+    115555
+  ]
+}

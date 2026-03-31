@@ -1,0 +1,12 @@
+{
+  "internalId": 2704063454,
+  "name": "Welkynar's Grounded Coffer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1240247,
+    1268278,
+    1407034
+  ]
+}

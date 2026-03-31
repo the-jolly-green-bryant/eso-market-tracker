@@ -1,0 +1,19 @@
+{
+  "internalId": 1807202660,
+  "name": "Innate Axiom Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130380,
+    130415,
+    130450,
+    130485,
+    130520,
+    130555,
+    130590,
+    130625,
+    130660,
+    130695
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4281974227,
+  "name": "Might of the Lost Legion Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143540,
+    143595,
+    143630,
+    143665,
+    143700,
+    143735,
+    143770,
+    143805,
+    143840,
+    143875
+  ]
+}

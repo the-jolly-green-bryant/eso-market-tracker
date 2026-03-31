@@ -1,0 +1,10 @@
+{
+  "internalId": 617323314,
+  "name": "Tankard of Undaunted Victory, Green",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedmugs001.png",
+  "bindType": -1,
+  "knownIds": [
+    208108
+  ]
+}

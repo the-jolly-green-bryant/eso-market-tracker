@@ -1,0 +1,11 @@
+{
+  "internalId": 3378037300,
+  "name": "Bound Affix Script: Resolve",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_resolve.png",
+  "bindType": -1,
+  "knownIds": [
+    1720792,
+    1725180
+  ]
+}

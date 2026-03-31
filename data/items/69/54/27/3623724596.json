@@ -1,0 +1,17 @@
+{
+  "internalId": 3623724596,
+  "name": "Necklace of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    941793,
+    1079541,
+    1206245,
+    1261428,
+    1461869,
+    1510576,
+    1536777,
+    1755830
+  ]
+}

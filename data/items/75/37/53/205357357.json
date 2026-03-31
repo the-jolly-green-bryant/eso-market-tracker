@@ -1,0 +1,10 @@
+{
+  "internalId": 205357357,
+  "name": "Corking Hammer, Metal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winecorkinghammer001.png",
+  "bindType": -1,
+  "knownIds": [
+    204742
+  ]
+}

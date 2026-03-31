@@ -1,0 +1,15 @@
+{
+  "internalId": 372957636,
+  "name": "Shattered Fate Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194753,
+    194788,
+    194823,
+    194858,
+    194893,
+    194928
+  ]
+}

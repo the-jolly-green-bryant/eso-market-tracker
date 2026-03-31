@@ -1,0 +1,11 @@
+{
+  "internalId": 1262566559,
+  "name": "Flamedancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    584745,
+    836207
+  ]
+}

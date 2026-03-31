@@ -1,0 +1,17 @@
+{
+  "internalId": 367352669,
+  "name": "Mace of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180430,
+    180451,
+    180472,
+    180493,
+    180514,
+    180535,
+    180556,
+    180577
+  ]
+}

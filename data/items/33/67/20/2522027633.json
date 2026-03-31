@@ -1,0 +1,14 @@
+{
+  "internalId": 2522027633,
+  "name": "Sword of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88595,
+    88615,
+    88635,
+    88655,
+    88675
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 615031566,
+  "name": "Camonna Tong Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195880,
+    195900,
+    195920,
+    195940,
+    195960,
+    195980,
+    196000,
+    196020
+  ]
+}

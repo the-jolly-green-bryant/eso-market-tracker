@@ -1,0 +1,10 @@
+{
+  "internalId": 2350409399,
+  "name": "Medley of Meticulous Mementos III",
+  "description": "An elaborate chest containing many collectible Mementos.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_con_housingchest004.png",
+  "bindType": 3,
+  "knownIds": [
+    204529
+  ]
+}

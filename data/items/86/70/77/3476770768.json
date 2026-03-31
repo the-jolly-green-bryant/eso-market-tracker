@@ -1,0 +1,26 @@
+{
+  "internalId": 3476770768,
+  "name": "Jolting Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_dagger_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1092824,
+    1282132,
+    1343351,
+    1372352,
+    1376527,
+    1534201,
+    1564895,
+    1577543,
+    1596617,
+    1602495,
+    1605762,
+    1623316,
+    1644905,
+    1691710,
+    1728295,
+    1758168,
+    1779458
+  ]
+}

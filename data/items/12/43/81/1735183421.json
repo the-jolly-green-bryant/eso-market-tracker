@@ -1,0 +1,15 @@
+{
+  "internalId": 1735183421,
+  "name": "Maul of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88577,
+    88597,
+    88617,
+    88637,
+    88657,
+    88677
+  ]
+}

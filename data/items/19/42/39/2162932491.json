@@ -1,0 +1,13 @@
+{
+  "internalId": 2162932491,
+  "name": "Spell Parasite's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163293,
+    163328,
+    163363,
+    163398
+  ]
+}

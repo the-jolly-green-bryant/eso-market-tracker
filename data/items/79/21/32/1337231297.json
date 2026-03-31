@@ -1,0 +1,10 @@
+{
+  "internalId": 1337231297,
+  "name": "Crafting Motif 50: Telvanni Boots",
+  "description": "Use to learn how to make Telvanni Boots. Also teaches the equivalent Telvanni Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    121335
+  ]
+}

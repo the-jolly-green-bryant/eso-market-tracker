@@ -1,0 +1,10 @@
+{
+  "internalId": 2255528927,
+  "name": "Cast-Off Bow",
+  "description": "This bow may have served you well in the past, but it's beginning to show its age.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    157508
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": 3468819213,
+  "name": "Earthgore Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_ironatronach_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1175741,
+    1179357,
+    1189280,
+    1196423,
+    1198220,
+    1236062,
+    1272435,
+    1292667,
+    1304249,
+    1305547,
+    1310422,
+    1329146,
+    1387683,
+    1452269,
+    1464534,
+    1474800,
+    1505026
+  ]
+}

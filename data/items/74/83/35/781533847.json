@@ -1,0 +1,17 @@
+{
+  "internalId": 781533847,
+  "name": "Mace of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90228,
+    90249,
+    90270,
+    90291,
+    90312,
+    90333,
+    90354,
+    90375
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2952688256,
+  "name": "Beekeeper's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98340,
+    98360,
+    98380,
+    98400,
+    98420,
+    98440,
+    98460,
+    98480
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4100058523,
+  "name": "Jerkin of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91391,
+    91412,
+    91433,
+    91454,
+    91475,
+    91496,
+    91517,
+    91538
+  ]
+}

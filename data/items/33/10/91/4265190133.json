@@ -1,0 +1,10 @@
+{
+  "internalId": 4265190133,
+  "name": "Manor-Owner's Deeds",
+  "description": "This envelope contains the deeds to three of the finest homesteads in all of Tamriel: Serenity Falls Estate, Daggerfall Overlook, and Ebonheart Chateau.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
+  "bindType": 3,
+  "knownIds": [
+    121257
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1007397480,
+  "name": "Minnow, Lake Bait",
+  "description": "Found in saltwater, best used for fishing in lake water.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
+  "bindType": -1,
+  "knownIds": [
+    42876
+  ]
+}

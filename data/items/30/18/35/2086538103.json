@@ -1,0 +1,19 @@
+{
+  "internalId": 2086538103,
+  "name": "Naga Shaman Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143180,
+    143235,
+    143270,
+    143305,
+    143340,
+    143375,
+    143410,
+    143445,
+    143480,
+    143515
+  ]
+}

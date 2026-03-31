@@ -1,0 +1,19 @@
+{
+  "internalId": 2649718179,
+  "name": "Reflected Fury Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpathcultist_hvy_head.png",
+  "bindType": -1,
+  "knownIds": [
+    1704095,
+    1712848,
+    1716275,
+    1720053,
+    1720143,
+    1728778,
+    1733059,
+    1738392,
+    1749046,
+    1769983
+  ]
+}

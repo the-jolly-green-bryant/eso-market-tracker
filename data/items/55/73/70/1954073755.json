@@ -1,0 +1,14 @@
+{
+  "internalId": 1954073755,
+  "name": "Bow of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95877,
+    95977,
+    96166,
+    96250,
+    96350
+  ]
+}

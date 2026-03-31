@@ -1,0 +1,17 @@
+{
+  "internalId": 1164964376,
+  "name": "Lightning Staff of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98157,
+    98177,
+    98197,
+    98217,
+    98237,
+    98257,
+    98277,
+    98297
+  ]
+}

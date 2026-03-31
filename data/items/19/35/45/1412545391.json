@@ -1,0 +1,10 @@
+{
+  "internalId": 1412545391,
+  "name": "Flaming Oil",
+  "description": "Very effective weapon against Rams and players operating a Ram.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_002.png",
+  "bindType": -1,
+  "knownIds": [
+    30359
+  ]
+}

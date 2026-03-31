@@ -1,0 +1,10 @@
+{
+  "internalId": 1560487254,
+  "name": "Hlaalu Towels, Folded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaknapkinstack001.png",
+  "bindType": -1,
+  "knownIds": [
+    126382
+  ]
+}

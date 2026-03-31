@@ -1,0 +1,19 @@
+{
+  "internalId": 1354577629,
+  "name": "Greaves of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60662,
+    60697,
+    60732,
+    60767,
+    60802,
+    60837,
+    60872,
+    60907,
+    60942,
+    60977
+  ]
+}

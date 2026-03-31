@@ -1,0 +1,17 @@
+{
+  "internalId": 917037484,
+  "name": "Swamp Raider's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98896,
+    98916,
+    98936,
+    98956,
+    98976,
+    98996,
+    99016,
+    99036
+  ]
+}

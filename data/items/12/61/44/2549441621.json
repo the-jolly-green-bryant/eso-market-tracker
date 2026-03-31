@@ -1,0 +1,19 @@
+{
+  "internalId": 2549441621,
+  "name": "Jack of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185179,
+    185234,
+    185269,
+    185304,
+    185339,
+    185374,
+    185409,
+    185444,
+    185479,
+    185514
+  ]
+}

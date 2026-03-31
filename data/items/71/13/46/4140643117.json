@@ -1,0 +1,10 @@
+{
+  "internalId": 4140643117,
+  "name": "Orcish Bar, Long Branded Block",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgmerchantcounterlong001.png",
+  "bindType": -1,
+  "knownIds": [
+    116395
+  ]
+}

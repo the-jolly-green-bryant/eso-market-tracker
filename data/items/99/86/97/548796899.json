@@ -1,0 +1,20 @@
+{
+  "internalId": 548796899,
+  "name": "Greatsword of Leeching",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1171967,
+    1189102,
+    1398708,
+    1400593,
+    1414063,
+    1533403,
+    1557002,
+    1581611,
+    1594494,
+    1595729,
+    1757191
+  ]
+}

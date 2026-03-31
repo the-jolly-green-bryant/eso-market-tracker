@@ -1,0 +1,10 @@
+{
+  "internalId": 2519585531,
+  "name": "Boulder, Snowswept Crag",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_wgrmedsnow003.png",
+  "bindType": -1,
+  "knownIds": [
+    134575
+  ]
+}

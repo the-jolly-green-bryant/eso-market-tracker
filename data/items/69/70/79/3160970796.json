@@ -1,0 +1,10 @@
+{
+  "internalId": 3160970796,
+  "name": "Invitation to Morrowind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_001.png",
+  "bindType": 3,
+  "knownIds": [
+    127108
+  ]
+}

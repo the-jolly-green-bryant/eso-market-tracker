@@ -1,0 +1,17 @@
+{
+  "internalId": 2999825784,
+  "name": "Witch-Knight's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167773,
+    167793,
+    167813,
+    167833,
+    167853,
+    167873,
+    167893,
+    167913
+  ]
+}

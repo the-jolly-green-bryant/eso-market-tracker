@@ -1,0 +1,15 @@
+{
+  "internalId": 3509675849,
+  "name": "Sword of Scavenging Demise",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1506811,
+    1602882,
+    1660482,
+    1765157,
+    1777302,
+    1778720
+  ]
+}

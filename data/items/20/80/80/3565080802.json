@@ -1,0 +1,17 @@
+{
+  "internalId": 3565080802,
+  "name": "Greatsword of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93910,
+    93930,
+    93950,
+    93970,
+    93990,
+    94010,
+    94030,
+    94050
+  ]
+}

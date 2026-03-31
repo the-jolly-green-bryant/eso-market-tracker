@@ -1,0 +1,17 @@
+{
+  "internalId": 2647435466,
+  "name": "Battle Axe of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101147,
+    101167,
+    101187,
+    101207,
+    101227,
+    101247,
+    101267,
+    101287
+  ]
+}

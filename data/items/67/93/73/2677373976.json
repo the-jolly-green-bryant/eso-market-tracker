@@ -1,0 +1,16 @@
+{
+  "internalId": 2677373976,
+  "name": "Ring of Mending",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    937703,
+    1089928,
+    1140281,
+    1470104,
+    1474596,
+    1516529,
+    1634038
+  ]
+}

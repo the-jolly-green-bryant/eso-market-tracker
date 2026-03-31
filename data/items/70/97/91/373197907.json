@@ -1,0 +1,13 @@
+{
+  "internalId": 373197907,
+  "name": "Jack of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131308,
+    131343,
+    131378,
+    131413
+  ]
+}

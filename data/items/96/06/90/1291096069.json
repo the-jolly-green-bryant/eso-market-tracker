@@ -1,0 +1,23 @@
+{
+  "internalId": 1291096069,
+  "name": "oak bow of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": -1,
+  "knownIds": [
+    412082,
+    459618,
+    434696,
+    408549,
+    630305,
+    600997,
+    717157,
+    793811,
+    793780,
+    793340,
+    789400,
+    787582,
+    786083,
+    777709
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3230325226,
+  "name": "Heartland Conqueror's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172857,
+    172912,
+    172947,
+    172982,
+    173017,
+    173052,
+    173087,
+    173122,
+    173157,
+    173192
+  ]
+}

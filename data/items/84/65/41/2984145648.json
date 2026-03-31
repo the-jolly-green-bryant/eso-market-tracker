@@ -1,0 +1,17 @@
+{
+  "internalId": 2984145648,
+  "name": "Elegant Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80709,
+    80730,
+    80751,
+    80772,
+    80793,
+    80805,
+    80826,
+    80847
+  ]
+}

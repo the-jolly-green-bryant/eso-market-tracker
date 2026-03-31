@@ -1,0 +1,13 @@
+{
+  "internalId": 1476055268,
+  "name": "Undaunted Coffer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    815812,
+    793569,
+    570999,
+    885219
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2273786875,
+  "name": "Cold Fish",
+  "description": "A common food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_fish.png",
+  "bindType": -1,
+  "knownIds": [
+    30589
+  ]
+}

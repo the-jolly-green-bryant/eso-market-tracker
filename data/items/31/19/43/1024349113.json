@@ -1,0 +1,13 @@
+{
+  "internalId": 1024349113,
+  "name": "Heloise's Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    411288,
+    535947,
+    614723,
+    787929
+  ]
+}

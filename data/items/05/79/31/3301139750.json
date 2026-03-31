@@ -1,0 +1,19 @@
+{
+  "internalId": 3301139750,
+  "name": "Arkasis's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1383558,
+    1395737,
+    1410502,
+    1494630,
+    1554063,
+    1560634,
+    1573895,
+    1617849,
+    1631508,
+    1779698
+  ]
+}

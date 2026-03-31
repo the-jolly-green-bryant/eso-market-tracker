@@ -1,0 +1,10 @@
+{
+  "internalId": 2766424833,
+  "name": "Apocrypha Nightstand, Marble",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_nightstandmedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    197542
+  ]
+}

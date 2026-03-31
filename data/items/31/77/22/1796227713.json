@@ -1,0 +1,10 @@
+{
+  "internalId": 1796227713,
+  "name": "Dungeon-Delving Brigandine",
+  "description": "This brigandine was given to you for helping Raynor Vanos locate his sister Kireth in the Mzulft ruins.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7672
+  ]
+}

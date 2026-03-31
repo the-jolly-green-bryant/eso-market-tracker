@@ -1,0 +1,19 @@
+{
+  "internalId": 4176601739,
+  "name": "Nocturnal's Favored Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136438,
+    136473,
+    136508,
+    136543,
+    136578,
+    136613,
+    136648,
+    136683,
+    136718,
+    136753
+  ]
+}

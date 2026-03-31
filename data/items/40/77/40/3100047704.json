@@ -1,0 +1,16 @@
+{
+  "internalId": 3100047704,
+  "name": "Unleashed Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcticvampire_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1400755,
+    1400759,
+    1401431,
+    1511154,
+    1558446,
+    1588136,
+    1765850
+  ]
+}

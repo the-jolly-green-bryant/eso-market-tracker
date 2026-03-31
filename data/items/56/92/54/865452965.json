@@ -1,0 +1,17 @@
+{
+  "internalId": 865452965,
+  "name": "Undertaker's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149073,
+    149093,
+    149113,
+    149133,
+    149153,
+    149173,
+    149193,
+    149213
+  ]
+}

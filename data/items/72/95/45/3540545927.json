@@ -1,0 +1,19 @@
+{
+  "internalId": 3540545927,
+  "name": "Aether Ring of Destruction",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    940466,
+    941859,
+    1354168,
+    1407025,
+    1456045,
+    1460544,
+    1517630,
+    1634018,
+    1656605,
+    1658312
+  ]
+}

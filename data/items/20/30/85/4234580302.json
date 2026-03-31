@@ -1,0 +1,10 @@
+{
+  "internalId": 4234580302,
+  "name": "Velothi Candle, Mourning",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlacandlesolo001.png",
+  "bindType": -1,
+  "knownIds": [
+    126573
+  ]
+}

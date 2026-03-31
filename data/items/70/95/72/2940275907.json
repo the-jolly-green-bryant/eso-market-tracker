@@ -1,0 +1,19 @@
+{
+  "internalId": 2940275907,
+  "name": "Karth's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168385,
+    168440,
+    168475,
+    168510,
+    168545,
+    168580,
+    168615,
+    168650,
+    168685,
+    168720
+  ]
+}

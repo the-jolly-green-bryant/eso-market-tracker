@@ -1,0 +1,19 @@
+{
+  "internalId": 4049600886,
+  "name": "Clever Alchemist Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72151,
+    72186,
+    72221,
+    72256,
+    72291,
+    72326,
+    72361,
+    72396,
+    72431,
+    72466
+  ]
+}

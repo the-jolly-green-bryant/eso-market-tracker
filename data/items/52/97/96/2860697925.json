@@ -1,0 +1,10 @@
+{
+  "internalId": 2860697925,
+  "name": "Cyrodiil Repair Kit",
+  "description": "Repairs 5,000 points of damage to a door, 20,000 points of damage to siege weapons and forward camps, 5,000 points of damage to a keep wall, and 5,000 points to bridges and milegates.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u41_ava_unifiedrepairkit.png",
+  "bindType": -1,
+  "knownIds": [
+    204483
+  ]
+}

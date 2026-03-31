@@ -1,0 +1,19 @@
+{
+  "internalId": 620063212,
+  "name": "Telvanni Efficiency Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194975,
+    195030,
+    195065,
+    195100,
+    195135,
+    195170,
+    195205,
+    195240,
+    195275,
+    195310
+  ]
+}

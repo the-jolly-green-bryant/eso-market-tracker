@@ -1,0 +1,19 @@
+{
+  "internalId": 241755749,
+  "name": "Hist Whisperer's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172487,
+    172542,
+    172577,
+    172612,
+    172647,
+    172682,
+    172717,
+    172752,
+    172787,
+    172822
+  ]
+}

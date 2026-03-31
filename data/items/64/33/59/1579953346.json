@@ -1,0 +1,10 @@
+{
+  "internalId": 1579953346,
+  "name": "Stone, Slanted Mossy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_shadowfensmall003.png",
+  "bindType": -1,
+  "knownIds": [
+    120628
+  ]
+}

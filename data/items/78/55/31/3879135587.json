@@ -1,0 +1,15 @@
+{
+  "internalId": 3879135587,
+  "name": "Lucilla's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1747865,
+    1748650,
+    1749073,
+    1749426,
+    1753992,
+    1780129
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3101761137,
+  "name": "Senche-Raht's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148319,
+    148374,
+    148409,
+    148444,
+    148479,
+    148514,
+    148549,
+    148584,
+    148619,
+    148654
+  ]
+}

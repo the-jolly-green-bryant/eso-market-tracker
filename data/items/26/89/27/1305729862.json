@@ -1,0 +1,10 @@
+{
+  "internalId": 1305729862,
+  "name": "Argonian Egg, Rough",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_egg001.png",
+  "bindType": -1,
+  "knownIds": [
+    115538
+  ]
+}

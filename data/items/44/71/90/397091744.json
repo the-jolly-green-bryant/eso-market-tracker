@@ -1,0 +1,23 @@
+{
+  "internalId": 397091744,
+  "name": "Shield of Succession",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1214202,
+    1259928,
+    1343516,
+    1383480,
+    1402794,
+    1406438,
+    1406758,
+    1408903,
+    1488999,
+    1519101,
+    1538007,
+    1592912,
+    1609979,
+    1655445
+  ]
+}

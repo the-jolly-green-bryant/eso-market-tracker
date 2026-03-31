@@ -1,0 +1,10 @@
+{
+  "internalId": 1063349948,
+  "name": "Orcish Counter, Corner",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgmerchantcounter45001.png",
+  "bindType": -1,
+  "knownIds": [
+    116436
+  ]
+}

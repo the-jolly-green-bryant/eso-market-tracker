@@ -1,0 +1,20 @@
+{
+  "internalId": 3823494221,
+  "name": "Fledgling's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonklgt_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748604,
+    1748682,
+    1749903,
+    1752050,
+    1754074,
+    1754590,
+    1754683,
+    1762681,
+    1765786,
+    1774584,
+    1779982
+  ]
+}

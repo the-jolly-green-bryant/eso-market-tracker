@@ -1,0 +1,20 @@
+{
+  "internalId": 2972280511,
+  "name": "Renald's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1340951,
+    1417078,
+    1511159,
+    1542819,
+    1543924,
+    1573538,
+    1622305,
+    1631146,
+    1648569,
+    1764810,
+    1771372
+  ]
+}

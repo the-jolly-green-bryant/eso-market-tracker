@@ -1,0 +1,10 @@
+{
+  "internalId": 4061548680,
+  "name": "Runebox: Plant Yourself",
+  "description": "Contains a Plant Yourself Emote. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_collectible_runebound_tome.png",
+  "bindType": -1,
+  "knownIds": [
+    212179
+  ]
+}

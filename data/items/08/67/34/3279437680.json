@@ -1,0 +1,13 @@
+{
+  "internalId": 3279437680,
+  "name": "Marksman's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199438,
+    199439,
+    199440,
+    199441
+  ]
+}

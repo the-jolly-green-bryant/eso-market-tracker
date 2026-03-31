@@ -1,0 +1,10 @@
+{
+  "internalId": 3322435274,
+  "name": "Elsweyr Tower, Ancient Huge",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_setower001.png",
+  "bindType": -1,
+  "knownIds": [
+    153674
+  ]
+}

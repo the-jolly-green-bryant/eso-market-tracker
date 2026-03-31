@@ -1,0 +1,17 @@
+{
+  "internalId": 3717170956,
+  "name": "Lightning Staff of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171960,
+    171981,
+    172002,
+    172023,
+    172044,
+    172065,
+    172086,
+    172107
+  ]
+}

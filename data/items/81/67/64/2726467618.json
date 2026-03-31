@@ -1,0 +1,22 @@
+{
+  "internalId": 2726467618,
+  "name": "iron axe of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    462597,
+    629725,
+    572249,
+    431589,
+    599885,
+    399007,
+    406824,
+    529978,
+    592563,
+    794484,
+    794423,
+    790328,
+    786819
+  ]
+}

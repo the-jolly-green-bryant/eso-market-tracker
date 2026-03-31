@@ -1,0 +1,10 @@
+{
+  "internalId": 1862550149,
+  "name": "Bound Focus Script: Pull",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_pull.png",
+  "bindType": -1,
+  "knownIds": [
+    1719680
+  ]
+}

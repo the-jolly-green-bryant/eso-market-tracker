@@ -1,0 +1,11 @@
+{
+  "internalId": 3625667880,
+  "name": "Order's Wrath Medium Armor",
+  "description": "A Crafted Armor set constructed in High Isle.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    184222,
+    185143
+  ]
+}

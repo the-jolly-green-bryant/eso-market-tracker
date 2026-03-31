@@ -1,0 +1,19 @@
+{
+  "internalId": 2282141661,
+  "name": "Ancient Dragonguard's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155790,
+    155845,
+    155880,
+    155915,
+    155950,
+    155985,
+    156020,
+    156055,
+    156090,
+    156125
+  ]
+}

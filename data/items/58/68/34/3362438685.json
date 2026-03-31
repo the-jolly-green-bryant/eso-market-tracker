@@ -1,0 +1,10 @@
+{
+  "internalId": 3362438685,
+  "name": "Elsweyr Fragrance Bottle, Moonlit Tryst",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_perfumetrinket002.png",
+  "bindType": -1,
+  "knownIds": [
+    151893
+  ]
+}

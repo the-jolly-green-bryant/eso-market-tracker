@@ -1,0 +1,16 @@
+{
+  "internalId": 1558650755,
+  "name": "Guards of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80566,
+    80586,
+    80606,
+    80626,
+    80658,
+    80678,
+    80698
+  ]
+}

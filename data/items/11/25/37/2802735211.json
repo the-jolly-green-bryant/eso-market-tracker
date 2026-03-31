@@ -1,0 +1,18 @@
+{
+  "internalId": 2802735211,
+  "name": "Shield of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161020,
+    161040,
+    161060,
+    161080,
+    161100,
+    161120,
+    161140,
+    161160,
+    161180
+  ]
+}

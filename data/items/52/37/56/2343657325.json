@@ -1,0 +1,19 @@
+{
+  "internalId": 2343657325,
+  "name": "Hat of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75759,
+    75794,
+    75829,
+    75864,
+    75899,
+    75934,
+    75969,
+    76004,
+    76039,
+    76074
+  ]
+}

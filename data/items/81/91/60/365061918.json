@@ -1,0 +1,10 @@
+{
+  "internalId": 365061918,
+  "name": "Crafting Motif 23: Malacath Shields",
+  "description": "Use to learn how to make Malacath Shields. Also teaches the equivalent Malacath Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    71577
+  ]
+}

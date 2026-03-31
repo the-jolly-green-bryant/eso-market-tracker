@@ -1,0 +1,19 @@
+{
+  "internalId": 3400538914,
+  "name": "Fortified Brass Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130733,
+    130768,
+    130803,
+    130838,
+    130873,
+    130908,
+    130943,
+    130978,
+    131013,
+    131048
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3000756969,
+  "name": "Sailor's Hatchet",
+  "description": "Initials on the handle hint at ports visited by this blade's former owner.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7587
+  ]
+}

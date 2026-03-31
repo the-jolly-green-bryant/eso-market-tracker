@@ -1,0 +1,17 @@
+{
+  "internalId": 3819365506,
+  "name": "Warrior-Poet's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122619,
+    122639,
+    122659,
+    122679,
+    122699,
+    122719,
+    122739,
+    122759
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2524838730,
+  "name": "Coward's Gear Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123362,
+    123382,
+    123402,
+    123422,
+    123442,
+    123462,
+    123482,
+    123502
+  ]
+}

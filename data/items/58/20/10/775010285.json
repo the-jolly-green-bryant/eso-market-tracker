@@ -1,0 +1,19 @@
+{
+  "internalId": 775010285,
+  "name": "New Moon Acolyte's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156183,
+    156238,
+    156273,
+    156308,
+    156343,
+    156378,
+    156413,
+    156448,
+    156483,
+    156518
+  ]
+}

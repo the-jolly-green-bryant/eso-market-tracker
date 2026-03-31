@@ -1,0 +1,17 @@
+{
+  "internalId": 3081720843,
+  "name": "Dagger of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100028,
+    100049,
+    100070,
+    100091,
+    100112,
+    100133,
+    100154,
+    100175
+  ]
+}

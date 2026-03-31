@@ -1,0 +1,11 @@
+{
+  "internalId": 1905829085,
+  "name": "Vivec's Gingergreen Chai",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
+  "bindType": -1,
+  "knownIds": [
+    61060,
+    57160
+  ]
+}

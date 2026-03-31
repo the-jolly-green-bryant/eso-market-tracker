@@ -1,0 +1,11 @@
+{
+  "internalId": 3114464074,
+  "name": "Daedric Embers Key",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_embers.png",
+  "bindType": -1,
+  "knownIds": [
+    1588573,
+    1588771
+  ]
+}

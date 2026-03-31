@@ -1,0 +1,10 @@
+{
+  "internalId": 2515885744,
+  "name": "Belt of the Waylaid Traveler of Salvation",
+  "description": "This belt is gilded with stolen silver.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43007
+  ]
+}

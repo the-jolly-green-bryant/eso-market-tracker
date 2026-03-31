@@ -1,0 +1,14 @@
+{
+  "internalId": 1581219663,
+  "name": "Jerkin of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_shirt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87136,
+    87157,
+    87178,
+    87199,
+    87262
+  ]
+}

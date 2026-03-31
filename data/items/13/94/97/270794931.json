@@ -1,0 +1,12 @@
+{
+  "internalId": 270794931,
+  "name": "Gauntlets of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99181,
+    99201,
+    99221
+  ]
+}

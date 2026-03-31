@@ -1,0 +1,19 @@
+{
+  "internalId": 2264235714,
+  "name": "silverweave hat of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    607854,
+    421731,
+    507148,
+    507166,
+    633824,
+    751566,
+    480389,
+    794039,
+    781196,
+    881706
+  ]
+}

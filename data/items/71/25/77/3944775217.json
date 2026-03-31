@@ -1,0 +1,17 @@
+{
+  "internalId": 3944775217,
+  "name": "Belt of the Twin Sisters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92286,
+    92306,
+    92326,
+    92346,
+    92366,
+    92386,
+    92406,
+    92426
+  ]
+}

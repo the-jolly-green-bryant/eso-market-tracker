@@ -1,0 +1,16 @@
+{
+  "internalId": 2707294812,
+  "name": "Robe of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168144,
+    168179,
+    168214,
+    168249,
+    168284,
+    168319,
+    168354
+  ]
+}

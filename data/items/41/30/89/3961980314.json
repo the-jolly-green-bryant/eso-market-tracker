@@ -1,0 +1,19 @@
+{
+  "internalId": 3961980314,
+  "name": "Naga Shaman Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    143197,
+    143199,
+    143201,
+    143203,
+    143205,
+    143207,
+    143209,
+    143211,
+    143213,
+    143215
+  ]
+}

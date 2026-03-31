@@ -1,0 +1,17 @@
+{
+  "internalId": 3049667950,
+  "name": "Bow of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99474,
+    99494,
+    99514,
+    99534,
+    99554,
+    99574,
+    99594,
+    99614
+  ]
+}

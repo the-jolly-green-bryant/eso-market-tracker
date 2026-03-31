@@ -1,0 +1,10 @@
+{
+  "internalId": 3985802858,
+  "name": "Stump, Fetid Swamp",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_mrkrottedstump001.png",
+  "bindType": -1,
+  "knownIds": [
+    130292
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 456368720,
+  "name": "Shield of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87384,
+    87447
+  ]
+}

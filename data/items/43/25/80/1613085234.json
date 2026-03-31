@@ -1,0 +1,17 @@
+{
+  "internalId": 1613085234,
+  "name": "Soldier of Anguish Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144481,
+    144501,
+    144521,
+    144541,
+    144561,
+    144581,
+    144601,
+    144621
+  ]
+}

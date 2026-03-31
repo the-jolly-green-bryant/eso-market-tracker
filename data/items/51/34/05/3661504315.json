@@ -1,0 +1,17 @@
+{
+  "internalId": 3661504315,
+  "name": "Warrior-Poet's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122621,
+    122641,
+    122661,
+    122681,
+    122701,
+    122721,
+    122741,
+    122761
+  ]
+}

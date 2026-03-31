@@ -1,0 +1,10 @@
+{
+  "internalId": 647799804,
+  "name": "Jewelry: Powerful Assault",
+  "description": "A Medium Armor set purchased in Imperial City with Tel Var Stones.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134637
+  ]
+}

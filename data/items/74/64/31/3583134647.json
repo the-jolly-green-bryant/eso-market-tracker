@@ -1,0 +1,10 @@
+{
+  "internalId": 3583134647,
+  "name": "Imperial Chair, Scrollwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_chair001.png",
+  "bindType": -1,
+  "knownIds": [
+    94165
+  ]
+}

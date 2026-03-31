@@ -1,0 +1,22 @@
+{
+  "internalId": 2344173280,
+  "name": "iron greaves of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": -1,
+  "knownIds": [
+    398859,
+    530154,
+    477704,
+    690761,
+    450178,
+    426711,
+    539202,
+    412443,
+    389124,
+    403500,
+    437571,
+    426862,
+    1128697
+  ]
+}

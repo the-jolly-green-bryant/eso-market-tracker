@@ -1,0 +1,14 @@
+{
+  "internalId": 3626120148,
+  "name": "Battle Axe of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93584,
+    93604,
+    93624,
+    93664,
+    93684
+  ]
+}

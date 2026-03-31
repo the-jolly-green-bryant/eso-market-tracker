@@ -1,0 +1,19 @@
+{
+  "internalId": 3628664604,
+  "name": "Sabatons of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71797,
+    71832,
+    71867,
+    71902,
+    71937,
+    71972,
+    72007,
+    72042,
+    72077,
+    72112
+  ]
+}

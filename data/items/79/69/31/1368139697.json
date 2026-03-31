@@ -1,0 +1,19 @@
+{
+  "internalId": 1368139697,
+  "name": "Null Arca Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719647,
+    1726347,
+    1726416,
+    1731957,
+    1732411,
+    1732520,
+    1744358,
+    1744423,
+    1747446,
+    1749565
+  ]
+}

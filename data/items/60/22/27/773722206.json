@@ -1,0 +1,17 @@
+{
+  "internalId": 773722206,
+  "name": "Restoration Staff of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114664,
+    114684,
+    114704,
+    114724,
+    114744,
+    114764,
+    114784,
+    114804
+  ]
+}

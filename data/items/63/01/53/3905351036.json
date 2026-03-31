@@ -1,0 +1,11 @@
+{
+  "internalId": 3905351036,
+  "name": "Staff of Fulmination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    581118,
+    834741
+  ]
+}

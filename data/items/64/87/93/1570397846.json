@@ -1,0 +1,10 @@
+{
+  "internalId": 1570397846,
+  "name": "Pyandonean Bottle",
+  "description": "A curious glass bottle, snagged by your fishing line in Summerset. It sounds like there's something inside.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_bre_inc_elixir001.png",
+  "bindType": -1,
+  "knownIds": [
+    140443
+  ]
+}

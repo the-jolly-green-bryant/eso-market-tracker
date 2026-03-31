@@ -1,0 +1,10 @@
+{
+  "internalId": 2013848790,
+  "name": "Bloodthorn Baelborne Signet",
+  "description": "This signet ring was awarded for resolving the curse of Baelborne Rock.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    29943
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3812407124,
+  "name": "Fern, Budding Forest",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_malabaltorfern004.png",
+  "bindType": -1,
+  "knownIds": [
+    120640
+  ]
+}

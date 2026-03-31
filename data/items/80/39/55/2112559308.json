@@ -1,0 +1,10 @@
+{
+  "internalId": 2112559308,
+  "name": "Hlaalu Dresser, Scroll Rack",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlawinerack001.png",
+  "bindType": -1,
+  "knownIds": [
+    126496
+  ]
+}

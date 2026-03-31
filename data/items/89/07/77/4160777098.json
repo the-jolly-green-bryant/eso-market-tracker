@@ -1,0 +1,29 @@
+{
+  "internalId": 4160777098,
+  "name": "Enchanter's Coffer VIII",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    822582,
+    442704,
+    1133389,
+    1133783,
+    1192493,
+    1208296,
+    1211004,
+    1235167,
+    1264978,
+    1336548,
+    1337051,
+    1337431,
+    1338685,
+    1338924,
+    1339147,
+    1339336,
+    1339761,
+    1366432,
+    1368562,
+    1418291
+  ]
+}

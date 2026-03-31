@@ -1,0 +1,10 @@
+{
+  "internalId": 1547676683,
+  "name": "Kagouti Slayer Medallion of Mother's Sorrow",
+  "description": "A necklace awarded for defeating the giant kagouti, Short-Tusk.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    43022
+  ]
+}

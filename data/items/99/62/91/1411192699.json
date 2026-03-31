@@ -1,0 +1,17 @@
+{
+  "internalId": 1411192699,
+  "name": "Epaulets of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98712,
+    98733,
+    98754,
+    98775,
+    98796,
+    98817,
+    98838,
+    98859
+  ]
+}

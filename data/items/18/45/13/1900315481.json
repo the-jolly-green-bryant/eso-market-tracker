@@ -1,0 +1,10 @@
+{
+  "internalId": 1900315481,
+  "name": "Cloudrest Golden Ale",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
+  "bindType": -1,
+  "knownIds": [
+    28411
+  ]
+}

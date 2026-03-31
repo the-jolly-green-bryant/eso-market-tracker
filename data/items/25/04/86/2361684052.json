@@ -1,0 +1,17 @@
+{
+  "internalId": 2361684052,
+  "name": "Restoration Staff of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180275,
+    180295,
+    180315,
+    180335,
+    180355,
+    180375,
+    180395,
+    180415
+  ]
+}

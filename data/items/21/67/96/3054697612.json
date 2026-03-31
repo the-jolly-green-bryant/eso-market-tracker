@@ -1,0 +1,10 @@
+{
+  "internalId": 3054697612,
+  "name": "Statue, Vampiric Sovereign",
+  "description": "The vile enchantments placed upon this statue make it a grim reminder of a vampire's power. Whether cloaked in bats, imbued with dark energies, or wreathed in flame, weak-hearted mortals will never forget the sight of it.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_housingvampirelordstatue001.png",
+  "bindType": -1,
+  "knownIds": [
+    165991
+  ]
+}

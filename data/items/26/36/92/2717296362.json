@@ -1,0 +1,13 @@
+{
+  "internalId": 2717296362,
+  "name": "Stuhn's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161269,
+    161271,
+    161273,
+    161275
+  ]
+}

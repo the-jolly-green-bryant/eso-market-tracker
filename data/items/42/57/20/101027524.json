@@ -1,0 +1,17 @@
+{
+  "internalId": 101027524,
+  "name": "Boots of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210552,
+    210572,
+    210592,
+    210612,
+    210632,
+    210652,
+    210672,
+    210692
+  ]
+}

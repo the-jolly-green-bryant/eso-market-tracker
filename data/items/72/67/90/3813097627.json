@@ -1,0 +1,21 @@
+{
+  "internalId": 3813097627,
+  "name": "Dagon's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1421639,
+    1475763,
+    1517428,
+    1539927,
+    1547525,
+    1561775,
+    1595251,
+    1596418,
+    1629449,
+    1677869,
+    1677944,
+    1679124
+  ]
+}

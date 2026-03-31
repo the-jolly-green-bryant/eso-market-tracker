@@ -1,0 +1,17 @@
+{
+  "internalId": 2469151612,
+  "name": "War Maiden's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122794,
+    122815,
+    122836,
+    122857,
+    122878,
+    122899,
+    122920,
+    122941
+  ]
+}

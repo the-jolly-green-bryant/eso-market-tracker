@@ -1,0 +1,17 @@
+{
+  "internalId": 1810473393,
+  "name": "Maul of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    97778,
+    97798,
+    97818,
+    97838,
+    97858,
+    97878,
+    97898,
+    97918
+  ]
+}

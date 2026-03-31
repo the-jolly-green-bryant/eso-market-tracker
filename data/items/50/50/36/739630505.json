@@ -1,0 +1,10 @@
+{
+  "internalId": 739630505,
+  "name": "Red Diamond Seal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_honorguard.png",
+  "bindType": -1,
+  "knownIds": [
+    147288
+  ]
+}

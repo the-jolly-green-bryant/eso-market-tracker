@@ -1,0 +1,17 @@
+{
+  "internalId": 2083015629,
+  "name": "Greatsword of the Pestilent Host",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1394257,
+    1396250,
+    1402970,
+    1410760,
+    1558040,
+    1616013,
+    1648428,
+    1655680
+  ]
+}

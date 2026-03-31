@@ -1,0 +1,10 @@
+{
+  "internalId": 1817825579,
+  "name": "Vampiric Lab Jar, Large",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabjar001.png",
+  "bindType": -1,
+  "knownIds": [
+    181499
+  ]
+}

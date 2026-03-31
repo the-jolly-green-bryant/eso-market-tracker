@@ -1,0 +1,17 @@
+{
+  "internalId": 3524465034,
+  "name": "Restoration Staff of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167443,
+    167463,
+    167483,
+    167503,
+    167523,
+    167543,
+    167563,
+    167583
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 567582067,
+  "name": "Foolkiller's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1416433,
+    1416747,
+    1504669,
+    1559732,
+    1560423,
+    1569605,
+    1593476,
+    1593485,
+    1595376,
+    1719422
+  ]
+}

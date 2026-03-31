@@ -1,0 +1,16 @@
+{
+  "internalId": 1281965096,
+  "name": "Sithis' Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77280,
+    77315,
+    77350,
+    77385,
+    77420,
+    77455,
+    77490
+  ]
+}

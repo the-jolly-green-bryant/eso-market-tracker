@@ -1,0 +1,10 @@
+{
+  "internalId": 1795480102,
+  "name": "Leg Guards of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    44063
+  ]
+}

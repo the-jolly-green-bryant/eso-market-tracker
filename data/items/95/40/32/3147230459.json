@@ -1,0 +1,12 @@
+{
+  "internalId": 3147230459,
+  "name": "Traug's Arrow Flinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
+  "bindType": -1,
+  "knownIds": [
+    521376,
+    792193,
+    791570
+  ]
+}

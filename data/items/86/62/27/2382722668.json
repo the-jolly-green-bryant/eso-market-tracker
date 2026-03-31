@@ -1,0 +1,17 @@
+{
+  "internalId": 2382722668,
+  "name": "Rallying Cry Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183258,
+    183279,
+    183300,
+    183321,
+    183342,
+    183363,
+    183384,
+    183405
+  ]
+}

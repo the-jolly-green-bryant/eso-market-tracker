@@ -1,0 +1,19 @@
+{
+  "internalId": 497723696,
+  "name": "New Moon Acolyte's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156182,
+    156237,
+    156272,
+    156307,
+    156342,
+    156377,
+    156412,
+    156447,
+    156482,
+    156517
+  ]
+}

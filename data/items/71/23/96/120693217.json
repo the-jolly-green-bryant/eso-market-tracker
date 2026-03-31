@@ -1,0 +1,10 @@
+{
+  "internalId": 120693217,
+  "name": "Painting of a Desert, Refined",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_plain008.png",
+  "bindType": -1,
+  "knownIds": [
+    118145
+  ]
+}

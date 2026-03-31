@@ -1,0 +1,10 @@
+{
+  "internalId": 3347041529,
+  "name": "Common Barrel, Dry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cav_min_barrel001.png",
+  "bindType": -1,
+  "knownIds": [
+    118064
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 1511198820,
+  "name": "Hex Siphoner's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1394075,
+    1395184,
+    1395442,
+    1395444,
+    1395445,
+    1398710,
+    1500014,
+    1552116,
+    1563024,
+    1615112,
+    1645346,
+    1702339
+  ]
+}

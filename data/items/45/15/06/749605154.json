@@ -1,0 +1,10 @@
+{
+  "internalId": 749605154,
+  "name": "Sip of Rejuvenation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_007_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    54859
+  ]
+}

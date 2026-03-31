@@ -1,0 +1,16 @@
+{
+  "internalId": 3704041357,
+  "name": "Bow of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87507,
+    87527,
+    87547,
+    87567,
+    87587,
+    87607,
+    87627
+  ]
+}

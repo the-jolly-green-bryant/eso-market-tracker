@@ -1,0 +1,17 @@
+{
+  "internalId": 2322635061,
+  "name": "Lightning Staff of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88725,
+    88745,
+    88765,
+    88785,
+    88805,
+    88825,
+    88845,
+    88865
+  ]
+}

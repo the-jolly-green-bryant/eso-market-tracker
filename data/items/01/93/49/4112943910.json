@@ -1,0 +1,25 @@
+{
+  "internalId": 4112943910,
+  "name": "Blood Moon Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1315576,
+    1385579,
+    1388027,
+    1402015,
+    1418485,
+    1452317,
+    1561723,
+    1570841,
+    1592946,
+    1610120,
+    1713062,
+    1715917,
+    1731760,
+    1732758,
+    1775196,
+    1778644
+  ]
+}

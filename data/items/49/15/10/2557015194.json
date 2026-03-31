@@ -1,0 +1,17 @@
+{
+  "internalId": 2557015194,
+  "name": "Maul of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189685,
+    189705,
+    189725,
+    189745,
+    189765,
+    189785,
+    189805,
+    189825
+  ]
+}

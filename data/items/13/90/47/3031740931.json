@@ -1,0 +1,17 @@
+{
+  "internalId": 3031740931,
+  "name": "Arkay's Charity Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213746,
+    213767,
+    213788,
+    213809,
+    213830,
+    213851,
+    213872,
+    213893
+  ]
+}

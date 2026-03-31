@@ -1,0 +1,10 @@
+{
+  "internalId": 1434190267,
+  "name": "Cake, Anniversary",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_cakeanniversarystand002.png",
+  "bindType": -1,
+  "knownIds": [
+    118240
+  ]
+}

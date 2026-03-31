@@ -1,0 +1,10 @@
+{
+  "internalId": 3158498811,
+  "name": "Nord Table, Formal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_tablerectangle002.png",
+  "bindType": -1,
+  "knownIds": [
+    115408
+  ]
+}

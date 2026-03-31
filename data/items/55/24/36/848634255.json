@@ -1,0 +1,19 @@
+{
+  "internalId": 848634255,
+  "name": "Nocturnal's Favored Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136449,
+    136484,
+    136519,
+    136554,
+    136589,
+    136624,
+    136659,
+    136694,
+    136729,
+    136764
+  ]
+}

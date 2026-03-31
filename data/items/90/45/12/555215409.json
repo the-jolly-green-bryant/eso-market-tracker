@@ -1,0 +1,19 @@
+{
+  "internalId": 555215409,
+  "name": "Seeker Synthesis Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195346,
+    195401,
+    195436,
+    195471,
+    195506,
+    195541,
+    195576,
+    195611,
+    195646,
+    195681
+  ]
+}

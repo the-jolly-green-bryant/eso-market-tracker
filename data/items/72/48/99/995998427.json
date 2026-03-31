@@ -1,0 +1,15 @@
+{
+  "internalId": 995998427,
+  "name": "Vivec's Jerkin of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195760,
+    195781,
+    195802,
+    195823,
+    195844,
+    195865
+  ]
+}

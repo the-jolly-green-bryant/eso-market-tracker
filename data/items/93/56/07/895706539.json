@@ -1,0 +1,17 @@
+{
+  "internalId": 895706539,
+  "name": "Ice Staff of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76926,
+    76946,
+    76966,
+    76986,
+    77006,
+    77026,
+    77046,
+    77066
+  ]
+}

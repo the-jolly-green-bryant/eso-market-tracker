@@ -1,0 +1,10 @@
+{
+  "internalId": 3788272550,
+  "name": "Plant, Paired Verdant Hosta",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_auridongreenhosta_005.png",
+  "bindType": -1,
+  "knownIds": [
+    121035
+  ]
+}

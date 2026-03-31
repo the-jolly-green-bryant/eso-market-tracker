@@ -1,0 +1,10 @@
+{
+  "internalId": 3673291100,
+  "name": "Strap of Mist Evasion",
+  "description": "Bestowed by Imperials for helping clear the poison gas they dumped in Shadowfen's swamps.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43523
+  ]
+}

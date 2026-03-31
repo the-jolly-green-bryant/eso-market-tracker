@@ -1,0 +1,10 @@
+{
+  "internalId": 3380671936,
+  "name": "Trollslayer's Girdle",
+  "description": "The hardiness of this belt is made to withstand the sharpness of troll claws.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10943
+  ]
+}

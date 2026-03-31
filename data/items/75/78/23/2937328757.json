@@ -1,0 +1,16 @@
+{
+  "internalId": 2937328757,
+  "name": "Shield of Gryphon's Reprisal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600007,
+    1608933,
+    1621319,
+    1696478,
+    1733125,
+    1739781,
+    1756512
+  ]
+}

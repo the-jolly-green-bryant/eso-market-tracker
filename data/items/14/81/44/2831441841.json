@@ -1,0 +1,15 @@
+{
+  "internalId": 2831441841,
+  "name": "Ring of Alessia's Bulwark",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139692,
+    139782,
+    139872,
+    139962,
+    140052,
+    140142
+  ]
+}

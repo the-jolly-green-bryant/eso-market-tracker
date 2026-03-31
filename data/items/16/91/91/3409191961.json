@@ -1,0 +1,17 @@
+{
+  "internalId": 3409191961,
+  "name": "Vanguard's Challenge Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123181,
+    123201,
+    123221,
+    123241,
+    123261,
+    123281,
+    123301,
+    123321
+  ]
+}

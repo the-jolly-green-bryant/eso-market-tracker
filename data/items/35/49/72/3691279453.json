@@ -1,0 +1,10 @@
+{
+  "internalId": 3691279453,
+  "name": "Redguard Vase, Baroque",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varvase002.png",
+  "bindType": -1,
+  "knownIds": [
+    117813
+  ]
+}

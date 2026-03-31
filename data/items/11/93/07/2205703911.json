@@ -1,0 +1,10 @@
+{
+  "internalId": 2205703911,
+  "name": "Plant, Star Blossom",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkstarblossom005.png",
+  "bindType": -1,
+  "knownIds": [
+    145430
+  ]
+}

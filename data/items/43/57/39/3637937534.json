@@ -1,0 +1,11 @@
+{
+  "internalId": 3637937534,
+  "name": "Blackmarrow Banner",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_fngnecrobanner001.png",
+  "bindType": -1,
+  "knownIds": [
+    1492063,
+    1603997
+  ]
+}

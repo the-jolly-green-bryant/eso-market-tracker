@@ -1,0 +1,15 @@
+{
+  "internalId": 4224630775,
+  "name": "Restoration Staff of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95323,
+    95343,
+    95363,
+    95383,
+    95403,
+    95423
+  ]
+}

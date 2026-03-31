@@ -1,0 +1,19 @@
+{
+  "internalId": 729773517,
+  "name": "Vastarie's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148706,
+    148761,
+    148796,
+    148831,
+    148866,
+    148901,
+    148936,
+    148971,
+    149006,
+    149041
+  ]
+}

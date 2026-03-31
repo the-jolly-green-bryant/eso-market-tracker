@@ -1,0 +1,17 @@
+{
+  "internalId": 3661213752,
+  "name": "Greatsword of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91378,
+    91399,
+    91420,
+    91441,
+    91462,
+    91483,
+    91504,
+    91525
+  ]
+}

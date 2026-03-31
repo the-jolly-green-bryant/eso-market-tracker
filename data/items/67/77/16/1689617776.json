@@ -1,0 +1,17 @@
+{
+  "internalId": 1689617776,
+  "name": "Mace of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117454,
+    117474,
+    117494,
+    117514,
+    117534,
+    117554,
+    117574,
+    117594
+  ]
+}

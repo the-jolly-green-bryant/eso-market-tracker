@@ -1,0 +1,15 @@
+{
+  "internalId": 2147646724,
+  "name": "Ice Staff of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95321,
+    95341,
+    95361,
+    95381,
+    95401,
+    95421
+  ]
+}

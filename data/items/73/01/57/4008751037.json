@@ -1,0 +1,10 @@
+{
+  "internalId": 4008751037,
+  "name": "Frost-Cursed Staff",
+  "description": "Maxten Favrete, the ice necromancer, wielded this staff in Verglas Hollow.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    159728
+  ]
+}

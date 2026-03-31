@@ -1,0 +1,17 @@
+{
+  "internalId": 2285055596,
+  "name": "Gourmand's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190385,
+    190406,
+    190427,
+    190448,
+    190469,
+    190490,
+    190511,
+    190532
+  ]
+}

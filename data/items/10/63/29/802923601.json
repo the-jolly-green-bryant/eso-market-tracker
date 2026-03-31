@@ -1,0 +1,17 @@
+{
+  "internalId": 802923601,
+  "name": "Draoife Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_shoulder_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190725,
+    190745,
+    190765,
+    190785,
+    190805,
+    190825,
+    190845,
+    190865
+  ]
+}

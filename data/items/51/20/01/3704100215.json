@@ -1,0 +1,19 @@
+{
+  "internalId": 3704100215,
+  "name": "Gauntlets of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58156,
+    58191,
+    58226,
+    58261,
+    58296,
+    58331,
+    58366,
+    58401,
+    58436,
+    58471
+  ]
+}

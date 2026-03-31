@@ -1,0 +1,17 @@
+{
+  "internalId": 1940753382,
+  "name": "Coup De Grâce Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219338,
+    219358,
+    219378,
+    219398,
+    219418,
+    219438,
+    219458,
+    219478
+  ]
+}

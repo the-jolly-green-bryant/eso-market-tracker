@@ -1,0 +1,21 @@
+{
+  "internalId": 1087774053,
+  "name": "Plague Slinger Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1333349,
+    1406007,
+    1406458,
+    1463776,
+    1563601,
+    1595269,
+    1613895,
+    1631092,
+    1716322,
+    1747659,
+    1750787,
+    1774947
+  ]
+}

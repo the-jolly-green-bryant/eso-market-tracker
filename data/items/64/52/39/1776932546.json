@@ -1,0 +1,10 @@
+{
+  "internalId": 1776932546,
+  "name": "Indoril Carpet, Grand Vivec",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlarugvivec004.png",
+  "bindType": -1,
+  "knownIds": [
+    126538
+  ]
+}

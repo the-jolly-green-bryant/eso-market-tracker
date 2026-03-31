@@ -1,0 +1,19 @@
+{
+  "internalId": 1564940623,
+  "name": "Shattered Fate Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    194598,
+    194600,
+    194602,
+    194604,
+    194606,
+    194608,
+    194610,
+    194612,
+    194614,
+    194616
+  ]
+}

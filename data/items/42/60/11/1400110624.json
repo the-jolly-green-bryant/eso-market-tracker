@@ -1,0 +1,10 @@
+{
+  "internalId": 1400110624,
+  "name": "Blue Flame Candles",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candlesetblueflame001.png",
+  "bindType": -1,
+  "knownIds": [
+    120830
+  ]
+}

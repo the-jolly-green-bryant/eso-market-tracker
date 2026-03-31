@@ -1,0 +1,17 @@
+{
+  "internalId": 3866209645,
+  "name": "Steadfast's Mettle Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186094,
+    186114,
+    186134,
+    186154,
+    186174,
+    186194,
+    186214,
+    186234
+  ]
+}

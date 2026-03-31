@@ -1,0 +1,16 @@
+{
+  "internalId": 3404417215,
+  "name": "Bone Pirate's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    978595,
+    1200256,
+    1525552,
+    1549046,
+    1596745,
+    1632934,
+    1632944
+  ]
+}

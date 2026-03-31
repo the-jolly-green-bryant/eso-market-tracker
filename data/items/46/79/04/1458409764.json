@@ -1,0 +1,10 @@
+{
+  "internalId": 1458409764,
+  "name": "Leyawiin Bed, Formal Double",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leybedlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    175598
+  ]
+}

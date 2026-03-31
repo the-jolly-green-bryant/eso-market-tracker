@@ -1,0 +1,17 @@
+{
+  "internalId": 3356319062,
+  "name": "Battle Axe of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98514,
+    98534,
+    98554,
+    98574,
+    98594,
+    98614,
+    98634,
+    98654
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 4009500694,
+  "name": "Greatsword of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88578,
+    88598,
+    88618,
+    88638,
+    88658,
+    88678
+  ]
+}

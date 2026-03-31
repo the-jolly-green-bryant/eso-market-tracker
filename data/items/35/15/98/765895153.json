@@ -1,0 +1,10 @@
+{
+  "internalId": 765895153,
+  "name": "Indomitable Fury Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    143901
+  ]
+}

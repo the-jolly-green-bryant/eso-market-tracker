@@ -1,0 +1,23 @@
+{
+  "internalId": 725006471,
+  "name": "Windwhisper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "bindType": -1,
+  "knownIds": [
+    822018,
+    577048,
+    772773,
+    844967,
+    1067229,
+    1077840,
+    1314664,
+    1315099,
+    1408405,
+    1428535,
+    1444140,
+    1471346,
+    1584943,
+    1655431
+  ]
+}

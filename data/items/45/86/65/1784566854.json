@@ -1,0 +1,18 @@
+{
+  "internalId": 1784566854,
+  "name": "Venomous Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_sword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    160825,
+    160845,
+    160865,
+    160885,
+    160905,
+    160925,
+    160945,
+    160965,
+    160985
+  ]
+}

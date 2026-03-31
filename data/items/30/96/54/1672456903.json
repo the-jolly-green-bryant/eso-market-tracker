@@ -1,0 +1,10 @@
+{
+  "internalId": 1672456903,
+  "name": "Red Mist Blooming Painting, Brass",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting002.png",
+  "bindType": -1,
+  "knownIds": [
+    166438
+  ]
+}

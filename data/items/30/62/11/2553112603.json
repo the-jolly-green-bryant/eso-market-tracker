@@ -1,0 +1,19 @@
+{
+  "internalId": 2553112603,
+  "name": "Karth's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168402,
+    168457,
+    168492,
+    168527,
+    168562,
+    168597,
+    168632,
+    168667,
+    168702,
+    168737
+  ]
+}

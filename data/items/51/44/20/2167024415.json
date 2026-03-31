@@ -1,0 +1,10 @@
+{
+  "internalId": 2167024415,
+  "name": "Leyawiin Hearth, Carved Wood",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leyfireplace002.png",
+  "bindType": -1,
+  "knownIds": [
+    181505
+  ]
+}

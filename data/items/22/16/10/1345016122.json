@@ -1,0 +1,19 @@
+{
+  "internalId": 1345016122,
+  "name": "Breeches of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179578,
+    179633,
+    179668,
+    179703,
+    179738,
+    179773,
+    179808,
+    179843,
+    179878,
+    179913
+  ]
+}

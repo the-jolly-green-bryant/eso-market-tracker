@@ -1,0 +1,10 @@
+{
+  "internalId": 3908998690,
+  "name": "Canopied Felucca, Double Hulled",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_csb_mrkbarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    145436
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1789539287,
+  "name": "Leyawiin Bookcase, Narrow",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leybookcasetall002.png",
+  "bindType": -1,
+  "knownIds": [
+    175595
+  ]
+}

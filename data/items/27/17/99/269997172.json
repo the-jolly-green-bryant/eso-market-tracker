@@ -1,0 +1,17 @@
+{
+  "internalId": 269997172,
+  "name": "Systres' Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186257,
+    186277,
+    186297,
+    186317,
+    186337,
+    186357,
+    186377,
+    186397
+  ]
+}

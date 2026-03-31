@@ -1,0 +1,17 @@
+{
+  "internalId": 2503650899,
+  "name": "Moondancer Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2haxe_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1121143,
+    1361783,
+    1391488,
+    1415355,
+    1423032,
+    1634266,
+    1715900,
+    1719740
+  ]
+}

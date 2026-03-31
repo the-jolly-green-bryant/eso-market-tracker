@@ -1,0 +1,18 @@
+{
+  "internalId": 2040366741,
+  "name": "Senchal Defender's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154849,
+    154869,
+    154889,
+    154909,
+    154929,
+    154949,
+    154969,
+    154989,
+    155009
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3879315658,
+  "name": "Maul of the Storm Knight",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86567,
+    86587,
+    86607,
+    86627,
+    86647,
+    86667,
+    86687,
+    86707
+  ]
+}

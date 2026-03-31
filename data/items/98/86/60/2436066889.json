@@ -1,0 +1,17 @@
+{
+  "internalId": 2436066889,
+  "name": "Witchman's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101517,
+    101537,
+    101557,
+    101577,
+    101597,
+    101617,
+    101637,
+    101657
+  ]
+}

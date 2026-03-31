@@ -1,0 +1,18 @@
+{
+  "internalId": 1783446212,
+  "name": "Dragonguard Elite's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_2hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155221,
+    155241,
+    155261,
+    155281,
+    155301,
+    155321,
+    155341,
+    155361,
+    155381
+  ]
+}

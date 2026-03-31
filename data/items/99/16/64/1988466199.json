@@ -1,0 +1,17 @@
+{
+  "internalId": 1988466199,
+  "name": "Spell Strategist Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144105,
+    144126,
+    144147,
+    144168,
+    144189,
+    144210,
+    144231,
+    144252
+  ]
+}

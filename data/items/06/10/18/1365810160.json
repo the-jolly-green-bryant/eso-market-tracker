@@ -1,0 +1,16 @@
+{
+  "internalId": 1365810160,
+  "name": "steel dagger of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    406892,
+    441044,
+    579038,
+    433564,
+    449316,
+    789624,
+    788318
+  ]
+}

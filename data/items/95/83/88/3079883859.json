@@ -1,0 +1,13 @@
+{
+  "internalId": 3079883859,
+  "name": "Corpseburster Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1746902,
+    1752110,
+    1752929,
+    1764552
+  ]
+}

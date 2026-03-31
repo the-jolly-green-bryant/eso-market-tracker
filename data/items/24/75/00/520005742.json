@@ -1,0 +1,17 @@
+{
+  "internalId": 520005742,
+  "name": "Ice Staff of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91000,
+    91021,
+    91042,
+    91063,
+    91084,
+    91105,
+    91126,
+    91147
+  ]
+}

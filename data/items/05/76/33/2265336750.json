@@ -1,0 +1,24 @@
+{
+  "internalId": 2265336750,
+  "name": "Second Skin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_fish_scales.png",
+  "bindType": -1,
+  "knownIds": [
+    804107,
+    791340,
+    873434,
+    895025,
+    944155,
+    1129542,
+    1157690,
+    1161980,
+    1163850,
+    1211122,
+    1231662,
+    1235782,
+    1235884,
+    1272534,
+    1322479
+  ]
+}

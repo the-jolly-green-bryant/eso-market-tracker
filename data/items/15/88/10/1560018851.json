@@ -1,0 +1,20 @@
+{
+  "internalId": 1560018851,
+  "name": "Lucilla's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_heavy_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748622,
+    1748996,
+    1749328,
+    1749752,
+    1750833,
+    1751662,
+    1753001,
+    1761503,
+    1764256,
+    1765618,
+    1779969
+  ]
+}

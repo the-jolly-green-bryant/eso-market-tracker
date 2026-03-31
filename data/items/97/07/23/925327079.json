@@ -1,0 +1,17 @@
+{
+  "internalId": 925327079,
+  "name": "Treasure Hunter's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_1haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1324894,
+    1546752,
+    1561078,
+    1571396,
+    1588055,
+    1622480,
+    1685376,
+    1750791
+  ]
+}

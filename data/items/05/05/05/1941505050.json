@@ -1,0 +1,14 @@
+{
+  "internalId": 1941505050,
+  "name": "Belt of the Undaunted Infiltrator",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58651,
+    58672,
+    58693,
+    58714,
+    58735
+  ]
+}

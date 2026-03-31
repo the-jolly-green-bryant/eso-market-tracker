@@ -1,0 +1,17 @@
+{
+  "internalId": 1386550642,
+  "name": "Ysgramor's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101327,
+    101348,
+    101369,
+    101390,
+    101411,
+    101432,
+    101453,
+    101474
+  ]
+}

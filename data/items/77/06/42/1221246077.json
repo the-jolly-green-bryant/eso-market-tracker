@@ -1,0 +1,10 @@
+{
+  "internalId": 1221246077,
+  "name": "Stale Sweetroll",
+  "description": "A common food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_sweet_roll.png",
+  "bindType": -1,
+  "knownIds": [
+    74721
+  ]
+}

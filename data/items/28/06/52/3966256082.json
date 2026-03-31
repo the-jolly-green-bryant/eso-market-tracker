@@ -1,0 +1,16 @@
+{
+  "internalId": 3966256082,
+  "name": "Curse-Eating Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90830,
+    90851,
+    90872,
+    90893,
+    90914,
+    90935,
+    90956
+  ]
+}

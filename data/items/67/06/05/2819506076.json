@@ -1,0 +1,17 @@
+{
+  "internalId": 2819506076,
+  "name": "Old Growth Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191710,
+    191745,
+    191780,
+    191815,
+    191850,
+    191885,
+    191920,
+    191955
+  ]
+}

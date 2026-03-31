@@ -1,0 +1,16 @@
+{
+  "internalId": 1522710541,
+  "name": "Duneripper Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_dagger_c.png",
+  "bindType": -1,
+  "knownIds": [
+    943287,
+    1172056,
+    1335437,
+    1409018,
+    1562101,
+    1573768,
+    1686780
+  ]
+}

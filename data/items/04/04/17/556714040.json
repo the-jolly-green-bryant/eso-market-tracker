@@ -1,0 +1,17 @@
+{
+  "internalId": 556714040,
+  "name": "Gauntlets of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88366,
+    88386,
+    88406,
+    88426,
+    88446,
+    88466,
+    88486,
+    88506
+  ]
+}

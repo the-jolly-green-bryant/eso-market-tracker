@@ -1,0 +1,20 @@
+{
+  "internalId": 1625722606,
+  "name": "Scorion's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackironlgt_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1517681,
+    1542662,
+    1544309,
+    1544310,
+    1556872,
+    1556888,
+    1559516,
+    1583854,
+    1626121,
+    1678738,
+    1771578
+  ]
+}

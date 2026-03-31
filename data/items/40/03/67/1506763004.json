@@ -1,0 +1,17 @@
+{
+  "internalId": 1506763004,
+  "name": "Ayleid Refuge Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205237,
+    205257,
+    205277,
+    205297,
+    205317,
+    205337,
+    205357,
+    205377
+  ]
+}

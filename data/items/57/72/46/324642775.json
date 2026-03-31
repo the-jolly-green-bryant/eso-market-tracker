@@ -1,0 +1,10 @@
+{
+  "internalId": 324642775,
+  "name": "Stone-Nest Gazebo, Temple",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_run_housingarggazebo001.png",
+  "bindType": -1,
+  "knownIds": [
+    223827
+  ]
+}

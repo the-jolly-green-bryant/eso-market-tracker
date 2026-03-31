@@ -1,0 +1,10 @@
+{
+  "internalId": 355354659,
+  "name": "Riekr Wrecker",
+  "description": "This axe may be old, but it's sharp and it's big enough to cut a Goblin in two. It'll do.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wrothgarorc_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    70987
+  ]
+}

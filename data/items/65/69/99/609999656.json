@@ -1,0 +1,10 @@
+{
+  "internalId": 609999656,
+  "name": "Breton Bed, Bunk",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_bedbunk001.png",
+  "bindType": -1,
+  "knownIds": [
+    115153
+  ]
+}

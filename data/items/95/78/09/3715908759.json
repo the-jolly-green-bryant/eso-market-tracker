@@ -1,0 +1,17 @@
+{
+  "internalId": 3715908759,
+  "name": "Impregnable Armor Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125704,
+    125739,
+    125774,
+    125809,
+    125844,
+    125879,
+    125914,
+    125949
+  ]
+}

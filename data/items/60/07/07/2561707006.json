@@ -1,0 +1,11 @@
+{
+  "internalId": 2561707006,
+  "name": "Sweet Slaughterfish Tea",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_006.png",
+  "bindType": -1,
+  "knownIds": [
+    61055,
+    57159
+  ]
+}

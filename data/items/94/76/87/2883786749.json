@@ -1,0 +1,10 @@
+{
+  "internalId": 2883786749,
+  "name": "Carpet of the Mirage, Faded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn005.png",
+  "bindType": -1,
+  "knownIds": [
+    118161
+  ]
+}

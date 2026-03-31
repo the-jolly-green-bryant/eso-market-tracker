@@ -1,0 +1,10 @@
+{
+  "internalId": 1564307423,
+  "name": "Runebox: Dwarven Theodolite Pet",
+  "description": "Contains a Dwarven Theodolite Pet. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    124658
+  ]
+}

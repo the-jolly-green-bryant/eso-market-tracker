@@ -1,0 +1,11 @@
+{
+  "internalId": 1490447136,
+  "name": "Kazpian's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1757986,
+    1759962
+  ]
+}

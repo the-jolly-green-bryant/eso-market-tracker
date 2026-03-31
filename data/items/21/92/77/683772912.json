@@ -1,0 +1,14 @@
+{
+  "internalId": 683772912,
+  "name": "Battle Axe of Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199323,
+    199324,
+    199325,
+    199326,
+    199327
+  ]
+}

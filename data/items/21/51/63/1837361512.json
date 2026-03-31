@@ -1,0 +1,10 @@
+{
+  "internalId": 1837361512,
+  "name": "Necrom Shelf, Elegant Small",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necwallshelfhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198447
+  ]
+}

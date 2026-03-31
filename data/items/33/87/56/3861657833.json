@@ -1,0 +1,10 @@
+{
+  "internalId": 3861657833,
+  "name": "The Black Dagger of Cyrodiil's Crest",
+  "description": "The Black Dagger's unusually sharp edge easily slices through most armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45727
+  ]
+}

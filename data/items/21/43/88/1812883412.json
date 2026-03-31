@@ -1,0 +1,18 @@
+{
+  "internalId": 1812883412,
+  "name": "Senchal Defender's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154850,
+    154870,
+    154890,
+    154910,
+    154930,
+    154950,
+    154970,
+    154990,
+    155010
+  ]
+}

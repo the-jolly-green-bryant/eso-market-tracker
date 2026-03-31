@@ -1,0 +1,17 @@
+{
+  "internalId": 3953711525,
+  "name": "Gauntlets of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84540,
+    84560,
+    84580,
+    84600,
+    84620,
+    84640,
+    84660,
+    84680
+  ]
+}

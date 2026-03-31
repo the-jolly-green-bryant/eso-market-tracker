@@ -1,0 +1,10 @@
+{
+  "internalId": 4112558526,
+  "name": "Orcish Effigy, Mammoth",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgceramicanimal001.png",
+  "bindType": -1,
+  "knownIds": [
+    116473
+  ]
+}

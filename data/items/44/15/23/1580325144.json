@@ -1,0 +1,10 @@
+{
+  "internalId": 1580325144,
+  "name": "Argonian Canopy, Frilled",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_cmp_leanto001.png",
+  "bindType": -1,
+  "knownIds": [
+    115495
+  ]
+}

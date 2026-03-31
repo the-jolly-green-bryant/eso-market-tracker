@@ -1,0 +1,10 @@
+{
+  "internalId": 3898766872,
+  "name": "Crafting Stations",
+  "description": "This helpful chest contains Grand Master Crafting Stations, as well as a number of unattuned stations.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_gjadils_chest.png",
+  "bindType": 3,
+  "knownIds": [
+    203833
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1010026223,
+  "name": "Vykand's Soulfury Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1764866,
+    1780249
+  ]
+}

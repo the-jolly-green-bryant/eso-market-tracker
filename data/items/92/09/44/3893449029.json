@@ -1,0 +1,19 @@
+{
+  "internalId": 3893449029,
+  "name": "Shoes of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179575,
+    179630,
+    179665,
+    179700,
+    179735,
+    179770,
+    179805,
+    179840,
+    179875,
+    179910
+  ]
+}

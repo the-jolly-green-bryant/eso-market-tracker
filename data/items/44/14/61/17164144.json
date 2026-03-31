@@ -1,0 +1,17 @@
+{
+  "internalId": 17164144,
+  "name": "Spriggan's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100608,
+    100628,
+    100648,
+    100668,
+    100688,
+    100708,
+    100728,
+    100748
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4210332462,
+  "name": "Draoife Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190709,
+    190729,
+    190749,
+    190769,
+    190789,
+    190809,
+    190829,
+    190849
+  ]
+}

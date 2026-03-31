@@ -1,0 +1,17 @@
+{
+  "internalId": 2758075418,
+  "name": "Spriggan's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100597,
+    100617,
+    100637,
+    100657,
+    100677,
+    100697,
+    100717,
+    100737
+  ]
+}

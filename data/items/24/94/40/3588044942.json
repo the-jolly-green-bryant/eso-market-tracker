@@ -1,0 +1,17 @@
+{
+  "internalId": 3588044942,
+  "name": "Winterborn Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1290391,
+    1290799,
+    1392962,
+    1491503,
+    1533131,
+    1550486,
+    1582947,
+    1603605
+  ]
+}

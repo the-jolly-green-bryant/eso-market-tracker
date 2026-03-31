@@ -1,0 +1,17 @@
+{
+  "internalId": 4155912346,
+  "name": "Seventh Legion's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100788,
+    100808,
+    100828,
+    100848,
+    100868,
+    100888,
+    100908,
+    100928
+  ]
+}

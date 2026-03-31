@@ -1,0 +1,10 @@
+{
+  "internalId": 2142092502,
+  "name": "Redoran Carpet, Volcanic Ash",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaruglarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    126361
+  ]
+}

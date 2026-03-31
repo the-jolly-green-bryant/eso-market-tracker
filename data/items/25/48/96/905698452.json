@@ -1,0 +1,11 @@
+{
+  "internalId": 905698452,
+  "name": "Saltrice",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_plant_creature_seeds_001.png",
+  "bindType": -1,
+  "knownIds": [
+    27063,
+    28625
+  ]
+}

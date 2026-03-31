@@ -1,0 +1,10 @@
+{
+  "internalId": 1495132246,
+  "name": "Fargrave Bread, Various Loaves",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodbread002.png",
+  "bindType": -1,
+  "knownIds": [
+    182296
+  ]
+}

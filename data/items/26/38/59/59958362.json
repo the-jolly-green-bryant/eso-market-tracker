@@ -1,0 +1,19 @@
+{
+  "internalId": 59958362,
+  "name": "Battle Axe of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168750,
+    168805,
+    168840,
+    168875,
+    168910,
+    168945,
+    168980,
+    169015,
+    169050,
+    169085
+  ]
+}

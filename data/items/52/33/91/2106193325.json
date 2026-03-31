@@ -1,0 +1,10 @@
+{
+  "internalId": 2106193325,
+  "name": "Imperial Table, Dining",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_tablepeasantrect001.png",
+  "bindType": -1,
+  "knownIds": [
+    94147
+  ]
+}

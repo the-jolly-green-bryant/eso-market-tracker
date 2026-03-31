@@ -1,0 +1,10 @@
+{
+  "internalId": 3961062091,
+  "name": "Mushrooms, Assorted Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_mushroompixiecup001.png",
+  "bindType": -1,
+  "knownIds": [
+    134951
+  ]
+}

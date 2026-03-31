@@ -1,0 +1,23 @@
+{
+  "internalId": 3805672348,
+  "name": "Restoration Staff of the Crimson Oath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1529763,
+    1541815,
+    1559519,
+    1572646,
+    1577343,
+    1583855,
+    1583856,
+    1593787,
+    1621982,
+    1646517,
+    1649784,
+    1687275,
+    1742225,
+    1750790
+  ]
+}

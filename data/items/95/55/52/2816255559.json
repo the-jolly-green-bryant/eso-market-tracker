@@ -1,0 +1,19 @@
+{
+  "internalId": 2816255559,
+  "name": "Girdle of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58157,
+    58192,
+    58227,
+    58262,
+    58297,
+    58332,
+    58367,
+    58402,
+    58437,
+    58472
+  ]
+}

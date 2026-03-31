@@ -1,0 +1,17 @@
+{
+  "internalId": 1596566043,
+  "name": "Phoenix Moth Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190546,
+    190566,
+    190586,
+    190606,
+    190626,
+    190646,
+    190666,
+    190686
+  ]
+}

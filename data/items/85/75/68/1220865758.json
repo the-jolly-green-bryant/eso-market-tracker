@@ -1,0 +1,19 @@
+{
+  "internalId": 1220865758,
+  "name": "Sword of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121903,
+    121938,
+    121973,
+    122008,
+    122043,
+    122078,
+    122113,
+    122148,
+    122183,
+    122218
+  ]
+}

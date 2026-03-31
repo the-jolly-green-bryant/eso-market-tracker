@@ -1,0 +1,17 @@
+{
+  "internalId": 2142762204,
+  "name": "Greatsword of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117458,
+    117478,
+    117498,
+    117518,
+    117538,
+    117558,
+    117578,
+    117598
+  ]
+}

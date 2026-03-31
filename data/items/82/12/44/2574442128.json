@@ -1,0 +1,17 @@
+{
+  "internalId": 2574442128,
+  "name": "Hexos' Ward Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180100,
+    180120,
+    180140,
+    180160,
+    180180,
+    180200,
+    180220,
+    180240
+  ]
+}

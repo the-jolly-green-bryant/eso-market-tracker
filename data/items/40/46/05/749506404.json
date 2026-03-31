@@ -1,0 +1,17 @@
+{
+  "internalId": 749506404,
+  "name": "Lightning Staff of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93551,
+    93571,
+    93591,
+    93611,
+    93631,
+    93651,
+    93671,
+    93691
+  ]
+}

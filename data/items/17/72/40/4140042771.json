@@ -1,0 +1,10 @@
+{
+  "internalId": 4140042771,
+  "name": "Alinor Pot, Limestone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonedecorative009.png",
+  "bindType": -1,
+  "knownIds": [
+    139282
+  ]
+}

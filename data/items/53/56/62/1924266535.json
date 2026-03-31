@@ -1,0 +1,13 @@
+{
+  "internalId": 1924266535,
+  "name": "Vandorallen's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748678,
+    1752049,
+    1757683,
+    1765620
+  ]
+}

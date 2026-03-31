@@ -1,0 +1,23 @@
+{
+  "internalId": 2979817401,
+  "name": "Maul of Alkosh",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hhammer_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1274581,
+    1351753,
+    1396661,
+    1413570,
+    1414396,
+    1508570,
+    1626061,
+    1633170,
+    1715941,
+    1718653,
+    1743492,
+    1758601,
+    1760405,
+    1779099
+  ]
+}

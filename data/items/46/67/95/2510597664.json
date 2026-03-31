@@ -1,0 +1,11 @@
+{
+  "internalId": 2510597664,
+  "name": "Dreugh Spit",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_001.png",
+  "bindType": -1,
+  "knownIds": [
+    61066,
+    57175
+  ]
+}

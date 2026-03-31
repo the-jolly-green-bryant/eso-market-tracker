@@ -1,0 +1,12 @@
+{
+  "internalId": 164392933,
+  "name": "Investigator's Uniform",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    559261,
+    796007,
+    788329
+  ]
+}

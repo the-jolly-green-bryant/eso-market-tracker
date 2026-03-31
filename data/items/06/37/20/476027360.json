@@ -1,0 +1,17 @@
+{
+  "internalId": 476027360,
+  "name": "Dagger of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87755,
+    87768,
+    87781,
+    87794,
+    87807,
+    87820,
+    87833,
+    87846
+  ]
+}

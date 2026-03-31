@@ -1,0 +1,10 @@
+{
+  "internalId": 2595638989,
+  "name": "Minecart, Empty",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_csb_minecart001.png",
+  "bindType": -1,
+  "knownIds": [
+    118119
+  ]
+}

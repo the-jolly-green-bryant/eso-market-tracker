@@ -1,0 +1,10 @@
+{
+  "internalId": 786761109,
+  "name": "Apocrypha Pipe, Medium",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_chrpipesmallgreen004.png",
+  "bindType": -1,
+  "knownIds": [
+    203206
+  ]
+}

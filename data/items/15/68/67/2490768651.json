@@ -1,0 +1,17 @@
+{
+  "internalId": 2490768651,
+  "name": "Battalion Defender Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144845,
+    144865,
+    144885,
+    144905,
+    144925,
+    144945,
+    144965,
+    144985
+  ]
+}

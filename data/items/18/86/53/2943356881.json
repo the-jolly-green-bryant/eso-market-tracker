@@ -1,0 +1,10 @@
+{
+  "internalId": 2943356881,
+  "name": "Banker's Sign, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_signgeneral001.png",
+  "bindType": -1,
+  "knownIds": [
+    134429
+  ]
+}

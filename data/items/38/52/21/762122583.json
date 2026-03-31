@@ -1,0 +1,17 @@
+{
+  "internalId": 762122583,
+  "name": "Swamp Raider's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98891,
+    98911,
+    98931,
+    98951,
+    98971,
+    98991,
+    99011,
+    99031
+  ]
+}

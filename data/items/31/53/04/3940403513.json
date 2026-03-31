@@ -1,0 +1,10 @@
+{
+  "internalId": 3940403513,
+  "name": "Battered Crown",
+  "description": "A battered crown. Most of the filth has been wiped away.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_004.png",
+  "bindType": -1,
+  "knownIds": [
+    33347
+  ]
+}

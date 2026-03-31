@@ -1,0 +1,11 @@
+{
+  "internalId": 51028930,
+  "name": "Servant's Outfit",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    859002,
+    1464955
+  ]
+}

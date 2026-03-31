@@ -1,0 +1,10 @@
+{
+  "internalId": 1524514356,
+  "name": "Legionary Greaves",
+  "description": "Made to support legionaries who stand long watches, these greaves provide protection and comfort.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208149
+  ]
+}

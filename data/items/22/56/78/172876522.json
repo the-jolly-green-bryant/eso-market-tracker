@@ -1,0 +1,18 @@
+{
+  "internalId": 172876522,
+  "name": "Gossamer Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    921482,
+    1067668,
+    1232747,
+    1400587,
+    1547773,
+    1561119,
+    1578079,
+    1616467,
+    1746754
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 765139569,
+  "name": "Barrel, Yellow Dye",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationbarrele001.png",
+  "bindType": -1,
+  "knownIds": [
+    118313
+  ]
+}

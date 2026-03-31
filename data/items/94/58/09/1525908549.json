@@ -1,0 +1,17 @@
+{
+  "internalId": 1525908549,
+  "name": "Ayleid Refuge Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
+  "bindType": 2,
+  "knownIds": [
+    205233,
+    205253,
+    205273,
+    205293,
+    205313,
+    205333,
+    205353,
+    205373
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3574523963,
+  "name": "Chicken and Biscuits",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_chicken.png",
+  "bindType": -1,
+  "knownIds": [
+    32113,
+    33563
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2982298437,
+  "name": "Rocks, Sintered Pile",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_clcsinteredruinssmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    134295
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1355198762,
+  "name": "Bow of the Onslaught",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90616,
+    90637,
+    90658,
+    90679,
+    90700,
+    90721,
+    90742,
+    90763
+  ]
+}

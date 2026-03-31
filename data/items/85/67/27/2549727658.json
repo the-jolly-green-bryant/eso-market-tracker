@@ -1,0 +1,17 @@
+{
+  "internalId": 2549727658,
+  "name": "Fiord's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100214,
+    100234,
+    100254,
+    100274,
+    100294,
+    100314,
+    100334,
+    100354
+  ]
+}

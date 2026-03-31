@@ -1,0 +1,19 @@
+{
+  "internalId": 2952471593,
+  "name": "Gloves of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179576,
+    179631,
+    179666,
+    179701,
+    179736,
+    179771,
+    179806,
+    179841,
+    179876,
+    179911
+  ]
+}

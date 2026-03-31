@@ -1,0 +1,10 @@
+{
+  "internalId": 1591399584,
+  "name": "Plant, Corrupted Fanik Goc",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_fanikgoccorrupted002.png",
+  "bindType": -1,
+  "knownIds": [
+    223171
+  ]
+}

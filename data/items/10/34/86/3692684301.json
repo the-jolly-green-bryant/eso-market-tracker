@@ -1,0 +1,18 @@
+{
+  "internalId": 3692684301,
+  "name": "Old Growth Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191697,
+    191732,
+    191767,
+    191802,
+    191837,
+    191872,
+    191907,
+    191942,
+    191977
+  ]
+}

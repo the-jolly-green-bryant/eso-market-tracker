@@ -1,0 +1,27 @@
+{
+  "internalId": 232027218,
+  "name": "Dagger of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1082797,
+    1163266,
+    1186632,
+    1192653,
+    1201126,
+    1228809,
+    1234388,
+    1261459,
+    1363099,
+    1466618,
+    1485003,
+    1493912,
+    1508337,
+    1510722,
+    1550294,
+    1599597,
+    1615471,
+    1717906
+  ]
+}

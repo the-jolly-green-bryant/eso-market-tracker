@@ -1,0 +1,17 @@
+{
+  "internalId": 127506353,
+  "name": "Highland Sentinel Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205887,
+    205922,
+    205957,
+    205992,
+    206027,
+    206062,
+    206097,
+    206132
+  ]
+}

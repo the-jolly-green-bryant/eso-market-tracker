@@ -1,0 +1,17 @@
+{
+  "internalId": 2351596103,
+  "name": "Mad Tinkerer's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132854,
+    132875,
+    132896,
+    132917,
+    132938,
+    132959,
+    132980,
+    133001
+  ]
+}

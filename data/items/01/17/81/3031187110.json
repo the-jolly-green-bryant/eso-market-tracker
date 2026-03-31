@@ -1,0 +1,10 @@
+{
+  "internalId": 3031187110,
+  "name": "Nord Cart, Cargo",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_csb_cartcargo001.png",
+  "bindType": -1,
+  "knownIds": [
+    115370
+  ]
+}

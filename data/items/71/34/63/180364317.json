@@ -1,0 +1,10 @@
+{
+  "internalId": 180364317,
+  "name": "Trees, Paired Evergreens",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_cragmountain005.png",
+  "bindType": -1,
+  "knownIds": [
+    120550
+  ]
+}

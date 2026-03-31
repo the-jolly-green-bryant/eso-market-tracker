@@ -1,0 +1,14 @@
+{
+  "internalId": 3716005814,
+  "name": "Shattered Fate Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194771,
+    194806,
+    194841,
+    194876,
+    194911
+  ]
+}

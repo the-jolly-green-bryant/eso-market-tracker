@@ -1,0 +1,10 @@
+{
+  "internalId": 2485743371,
+  "name": "Old Imperial Flour",
+  "description": "This item is no longer used in crafting, and can be sold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_dragonthorn_r3.png",
+  "bindType": 2,
+  "knownIds": [
+    27004
+  ]
+}

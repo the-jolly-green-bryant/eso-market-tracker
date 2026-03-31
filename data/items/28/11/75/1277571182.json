@@ -1,0 +1,10 @@
+{
+  "internalId": 1277571182,
+  "name": "Tree, Twisted Banyan",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkbanyan006.png",
+  "bindType": -1,
+  "knownIds": [
+    120742
+  ]
+}

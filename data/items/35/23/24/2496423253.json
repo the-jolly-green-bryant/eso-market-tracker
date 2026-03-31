@@ -1,0 +1,10 @@
+{
+  "internalId": 2496423253,
+  "name": "Coldharbour Glowstalk, Towering",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_chlightstalk001.png",
+  "bindType": -1,
+  "knownIds": [
+    130281
+  ]
+}

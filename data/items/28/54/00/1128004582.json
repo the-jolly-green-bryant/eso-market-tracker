@@ -1,0 +1,16 @@
+{
+  "internalId": 1128004582,
+  "name": "Inventor's Guard Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1149965,
+    1154446,
+    1343311,
+    1455757,
+    1461934,
+    1462754,
+    1717964
+  ]
+}

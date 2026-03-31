@@ -1,0 +1,17 @@
+{
+  "internalId": 1520884158,
+  "name": "Restoration Staff of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117464,
+    117484,
+    117504,
+    117524,
+    117544,
+    117564,
+    117584,
+    117604
+  ]
+}

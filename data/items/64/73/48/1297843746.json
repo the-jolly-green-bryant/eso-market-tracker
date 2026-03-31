@@ -1,0 +1,10 @@
+{
+  "internalId": 1297843746,
+  "name": "Crafting Motif 66: Silver Dawn Axes",
+  "description": "Use to learn how to make Silver Dawn Axes. Also teaches the equivalent Silver Dawn outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    140479
+  ]
+}

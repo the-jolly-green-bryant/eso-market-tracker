@@ -1,0 +1,17 @@
+{
+  "internalId": 3048405621,
+  "name": "Sword of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    97776,
+    97796,
+    97816,
+    97836,
+    97856,
+    97876,
+    97896,
+    97916
+  ]
+}

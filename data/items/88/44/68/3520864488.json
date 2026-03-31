@@ -1,0 +1,10 @@
+{
+  "internalId": 3520864488,
+  "name": "Plants, Scarlet Sawleaf",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_mphleafy001.png",
+  "bindType": -1,
+  "knownIds": [
+    139147
+  ]
+}

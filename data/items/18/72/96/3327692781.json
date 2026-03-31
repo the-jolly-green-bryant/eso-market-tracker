@@ -1,0 +1,10 @@
+{
+  "internalId": 3327692781,
+  "name": "Prismatic Longbow",
+  "description": "The pure fire of Meridia's Gift emanates from within the bow. Just holding it in your hand makes the darkness retreat.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_bow_c.png",
+  "bindType": 2,
+  "knownIds": [
+    61017
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 965574050,
+  "name": "Tapestry of Peryite",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannerperyite001.png",
+  "bindType": -1,
+  "knownIds": [
+    134854
+  ]
+}

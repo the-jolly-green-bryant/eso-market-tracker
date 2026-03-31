@@ -1,0 +1,10 @@
+{
+  "internalId": 2442594870,
+  "name": "Darkwater Hand Warmers",
+  "description": "The Dreamwalker Stormy-Eyes gave you these protective gloves for aid provided to the Argonians of Darkwater Crossing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10060
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3513549230,
+  "name": "Princess's Delight",
+  "description": "A butterfly shaped puff pastry stuffed with apples and … well, magic?",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jester_butterflytartlet.png",
+  "bindType": -1,
+  "knownIds": [
+    120436
+  ]
+}

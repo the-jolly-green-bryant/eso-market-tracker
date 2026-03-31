@@ -1,0 +1,19 @@
+{
+  "internalId": 2187492868,
+  "name": "Draugr's Rest Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1173463,
+    1418281,
+    1544880,
+    1562841,
+    1600969,
+    1624085,
+    1639260,
+    1725439,
+    1731644,
+    1731839
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1423933216,
+  "name": "Crafting Motif 52: Redoran Helmets",
+  "description": "Use to learn how to make Redoran Helmets. Also teaches the equivalent Redoran Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    130018
+  ]
+}

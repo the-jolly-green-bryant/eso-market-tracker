@@ -1,0 +1,16 @@
+{
+  "internalId": 819360626,
+  "name": "Ice Furnace Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86386,
+    86406,
+    86426,
+    86446,
+    86466,
+    86486,
+    86506
+  ]
+}

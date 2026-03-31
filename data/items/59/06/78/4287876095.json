@@ -1,0 +1,17 @@
+{
+  "internalId": 4287876095,
+  "name": "Smuggler's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100965,
+    100986,
+    101007,
+    101028,
+    101049,
+    101070,
+    101091,
+    101112
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3914113105,
+  "name": "Fargrave Pennants, String",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farbannerline004.png",
+  "bindType": -1,
+  "knownIds": [
+    182216
+  ]
+}

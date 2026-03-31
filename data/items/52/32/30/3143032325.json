@@ -1,0 +1,17 @@
+{
+  "internalId": 3143032325,
+  "name": "Dagger of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89085,
+    89105,
+    89125,
+    89145,
+    89165,
+    89185,
+    89205,
+    89225
+  ]
+}

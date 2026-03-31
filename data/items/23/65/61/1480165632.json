@@ -1,0 +1,11 @@
+{
+  "internalId": 1480165632,
+  "name": "Clawed Key",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_clawed.png",
+  "bindType": -1,
+  "knownIds": [
+    1588567,
+    1590539
+  ]
+}

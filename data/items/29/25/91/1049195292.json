@@ -1,0 +1,17 @@
+{
+  "internalId": 1049195292,
+  "name": "Sword of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95647,
+    95667,
+    95687,
+    95707,
+    95727,
+    95747,
+    95767,
+    95787
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2813073805,
+  "name": "Nord Shelf, Braced",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_wallshelf002.png",
+  "bindType": -1,
+  "knownIds": [
+    115364
+  ]
+}

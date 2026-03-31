@@ -1,0 +1,22 @@
+{
+  "internalId": 2443357701,
+  "name": "War Machine Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1194202,
+    1257161,
+    1384703,
+    1386597,
+    1399839,
+    1400827,
+    1474604,
+    1544888,
+    1551623,
+    1551686,
+    1565132,
+    1601422,
+    1603574
+  ]
+}

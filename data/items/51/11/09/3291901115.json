@@ -1,0 +1,19 @@
+{
+  "internalId": 3291901115,
+  "name": "Heartland Conqueror's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172832,
+    172887,
+    172922,
+    172957,
+    172992,
+    173027,
+    173062,
+    173097,
+    173132,
+    173167
+  ]
+}

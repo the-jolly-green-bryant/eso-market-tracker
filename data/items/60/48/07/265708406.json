@@ -1,0 +1,10 @@
+{
+  "internalId": 265708406,
+  "name": "Druidic Table, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonetableround001.png",
+  "bindType": -1,
+  "knownIds": [
+    191182
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1274671802,
+  "name": "Bushes, Swordgrass Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_ababuttongrass005.png",
+  "bindType": -1,
+  "knownIds": [
+    134930
+  ]
+}

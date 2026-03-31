@@ -1,0 +1,24 @@
+{
+  "internalId": 2202640897,
+  "name": "Battle Axe of the Advancing Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1125121,
+    1131100,
+    1242957,
+    1262167,
+    1363805,
+    1376971,
+    1393032,
+    1415339,
+    1486469,
+    1531394,
+    1542988,
+    1567066,
+    1760676,
+    1766203,
+    1773566
+  ]
+}

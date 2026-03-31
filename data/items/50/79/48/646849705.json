@@ -1,0 +1,17 @@
+{
+  "internalId": 646849705,
+  "name": "War Maiden's Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_shirt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122812,
+    122833,
+    122854,
+    122875,
+    122896,
+    122917,
+    122938,
+    122959
+  ]
+}

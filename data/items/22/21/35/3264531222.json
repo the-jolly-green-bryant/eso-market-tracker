@@ -1,0 +1,12 @@
+{
+  "internalId": 3264531222,
+  "name": "Undiscovered Accessory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54568,
+    54578,
+    54588
+  ]
+}

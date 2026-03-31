@@ -1,0 +1,19 @@
+{
+  "internalId": 419257640,
+  "name": "Guards of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184803,
+    184858,
+    184893,
+    184928,
+    184963,
+    184998,
+    185033,
+    185068,
+    185103,
+    185138
+  ]
+}

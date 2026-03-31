@@ -1,0 +1,17 @@
+{
+  "internalId": 1303789083,
+  "name": "Galerion's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78048,
+    78083,
+    78118,
+    78153,
+    78188,
+    78223,
+    78258,
+    78293
+  ]
+}

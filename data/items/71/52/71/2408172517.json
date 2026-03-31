@@ -1,0 +1,17 @@
+{
+  "internalId": 2408172517,
+  "name": "Prisoner's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101902,
+    101923,
+    101944,
+    101965,
+    101986,
+    102007,
+    102028,
+    102049
+  ]
+}

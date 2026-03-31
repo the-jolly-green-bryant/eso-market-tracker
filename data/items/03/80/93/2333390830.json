@@ -1,0 +1,19 @@
+{
+  "internalId": 2333390830,
+  "name": "Xoryn's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719485,
+    1719829,
+    1731632,
+    1731998,
+    1732522,
+    1732568,
+    1743008,
+    1755199,
+    1766198,
+    1767964
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1333228364,
+  "name": "Blessed Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    102263,
+    102283,
+    102303,
+    102323,
+    102343,
+    102363,
+    102383,
+    102403
+  ]
+}

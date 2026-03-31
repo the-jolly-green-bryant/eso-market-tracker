@@ -1,0 +1,10 @@
+{
+  "internalId": 1117399721,
+  "name": "Elsweyr Brazier, Massive",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_brazierlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    151731
+  ]
+}

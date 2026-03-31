@@ -1,0 +1,11 @@
+{
+  "internalId": 3441820266,
+  "name": "Runebox: Hollowjack Spectre Mask",
+  "description": "Contains a Hollowjack Spectre Mask.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    167939,
+    128359
+  ]
+}

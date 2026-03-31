@@ -1,0 +1,10 @@
+{
+  "internalId": 1765145962,
+  "name": "Colovian Medallion, Grape",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housemedallion003.png",
+  "bindType": -1,
+  "knownIds": [
+    211568
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1418607734,
+  "name": "Elsweyr Public Safety Pamphlet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1326309
+  ]
+}

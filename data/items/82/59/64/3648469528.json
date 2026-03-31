@@ -1,0 +1,19 @@
+{
+  "internalId": 3648469528,
+  "name": "Mace of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184772,
+    184827,
+    184862,
+    184897,
+    184932,
+    184967,
+    185002,
+    185037,
+    185072,
+    185107
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1655824131,
+  "name": "Deadlands Bookcase, Ashen",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedlowbookshelf001.png",
+  "bindType": -1,
+  "knownIds": [
+    175710
+  ]
+}

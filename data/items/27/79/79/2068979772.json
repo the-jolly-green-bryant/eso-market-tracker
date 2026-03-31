@@ -1,0 +1,13 @@
+{
+  "internalId": 2068979772,
+  "name": "Indomitable Fury Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143989,
+    144010,
+    144031,
+    144052
+  ]
+}

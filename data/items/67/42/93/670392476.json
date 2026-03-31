@@ -1,0 +1,10 @@
+{
+  "internalId": 670392476,
+  "name": "Vampiric Bookcase, Arched Filled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingvampirebookcasefilled001.png",
+  "bindType": -1,
+  "knownIds": [
+    165590
+  ]
+}

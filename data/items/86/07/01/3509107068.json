@@ -1,0 +1,17 @@
+{
+  "internalId": 3509107068,
+  "name": "Death-Dancer Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214708,
+    214728,
+    214748,
+    214768,
+    214788,
+    214808,
+    214828,
+    214848
+  ]
+}

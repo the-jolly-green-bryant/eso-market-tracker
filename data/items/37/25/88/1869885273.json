@@ -1,0 +1,11 @@
+{
+  "internalId": 1869885273,
+  "name": "Whiterun Cheese-Baked Trout",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_fish.png",
+  "bindType": -1,
+  "knownIds": [
+    33484,
+    37942
+  ]
+}

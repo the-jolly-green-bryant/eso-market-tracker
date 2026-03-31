@@ -1,0 +1,10 @@
+{
+  "internalId": 4271153692,
+  "name": "Greatshield of Bangkorai",
+  "description": "Etched along all its edges are the coats of arms for both King Eamond and Queen Arzhela of Evermore.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15600
+  ]
+}

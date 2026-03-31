@@ -1,0 +1,10 @@
+{
+  "internalId": 3229305730,
+  "name": "Essentia of the Hatchling's Shell",
+  "description": "This necklace seems to draw life energy from the very space around it.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    34933
+  ]
+}

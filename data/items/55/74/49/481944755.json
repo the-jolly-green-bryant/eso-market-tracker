@@ -1,0 +1,17 @@
+{
+  "internalId": 481944755,
+  "name": "Vanus's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_light_hand_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135543,
+    135564,
+    135585,
+    135606,
+    135627,
+    135648,
+    135669,
+    135690
+  ]
+}

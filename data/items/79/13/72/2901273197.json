@@ -1,0 +1,22 @@
+{
+  "internalId": 2901273197,
+  "name": "Sword of Alkosh",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_e.png",
+  "bindType": -1,
+  "knownIds": [
+    934946,
+    1096342,
+    1138898,
+    1174839,
+    1394207,
+    1560624,
+    1609897,
+    1643789,
+    1689972,
+    1742477,
+    1746466,
+    1758603,
+    1775191
+  ]
+}

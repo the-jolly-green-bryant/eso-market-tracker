@@ -1,0 +1,19 @@
+{
+  "internalId": 365383784,
+  "name": "Helmet of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70634,
+    70669,
+    70704,
+    70739,
+    70774,
+    70809,
+    70844,
+    70879,
+    70914,
+    70949
+  ]
+}

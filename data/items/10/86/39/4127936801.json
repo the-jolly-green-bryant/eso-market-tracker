@@ -1,0 +1,10 @@
+{
+  "internalId": 4127936801,
+  "name": "High Isle Mirror, Standing",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_mirrorhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    187858
+  ]
+}

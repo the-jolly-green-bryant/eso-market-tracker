@@ -1,0 +1,19 @@
+{
+  "internalId": 1640359576,
+  "name": "Cuirass of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184784,
+    184839,
+    184874,
+    184909,
+    184944,
+    184979,
+    185014,
+    185049,
+    185084,
+    185119
+  ]
+}

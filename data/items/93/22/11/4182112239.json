@@ -1,0 +1,18 @@
+{
+  "internalId": 4182112239,
+  "name": "Hat of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_helmet.png",
+  "bindType": 2,
+  "knownIds": [
+    160645,
+    160666,
+    160687,
+    160708,
+    160729,
+    160750,
+    160771,
+    160792,
+    160813
+  ]
+}

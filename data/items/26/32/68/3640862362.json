@@ -1,0 +1,10 @@
+{
+  "internalId": 3640862362,
+  "name": "Blackfeather Flamestaff",
+  "description": "A smoldering staff Telbaril Oran found near the mysterious Crow's Wood.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    212192
+  ]
+}

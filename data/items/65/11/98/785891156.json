@@ -1,0 +1,10 @@
+{
+  "internalId": 785891156,
+  "name": "Crafting Motif 31: Skinchanger Shoulders",
+  "description": "Use to learn how to make Skinchanger Shoulders. Also teaches the equivalent Skinchanger Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    73866
+  ]
+}

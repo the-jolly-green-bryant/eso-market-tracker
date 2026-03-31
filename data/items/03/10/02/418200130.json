@@ -1,0 +1,19 @@
+{
+  "internalId": 418200130,
+  "name": "Unchained Aggressor's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158720,
+    158775,
+    158810,
+    158845,
+    158880,
+    158915,
+    158950,
+    158985,
+    159020,
+    159055
+  ]
+}

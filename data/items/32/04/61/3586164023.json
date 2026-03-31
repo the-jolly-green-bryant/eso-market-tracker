@@ -1,0 +1,10 @@
+{
+  "internalId": 3586164023,
+  "name": "Dres Cannister, Portable",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlacanister001.png",
+  "bindType": -1,
+  "knownIds": [
+    126349
+  ]
+}

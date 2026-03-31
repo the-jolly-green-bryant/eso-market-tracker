@@ -1,0 +1,17 @@
+{
+  "internalId": 202891834,
+  "name": "Lightning Staff of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194200,
+    194220,
+    194240,
+    194260,
+    194280,
+    194300,
+    194320,
+    194340
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2715865133,
+  "name": "Jack of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168775,
+    168830,
+    168865,
+    168900,
+    168935,
+    168970,
+    169005,
+    169040,
+    169075,
+    169110
+  ]
+}

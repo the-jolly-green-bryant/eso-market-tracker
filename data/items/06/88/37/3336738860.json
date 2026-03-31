@@ -1,0 +1,18 @@
+{
+  "internalId": 3336738860,
+  "name": "Restoration Staff of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161019,
+    161039,
+    161059,
+    161079,
+    161099,
+    161119,
+    161139,
+    161159,
+    161179
+  ]
+}

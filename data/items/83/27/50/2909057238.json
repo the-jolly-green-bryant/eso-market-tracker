@@ -1,0 +1,23 @@
+{
+  "internalId": 2909057238,
+  "name": "The Master's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1075819,
+    1078977,
+    1082499,
+    1144553,
+    1257206,
+    1366180,
+    1369848,
+    1402969,
+    1477945,
+    1505460,
+    1508084,
+    1513272,
+    1565680,
+    1610181
+  ]
+}

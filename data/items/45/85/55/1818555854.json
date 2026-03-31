@@ -1,0 +1,10 @@
+{
+  "internalId": 1818555854,
+  "name": "Rewoven Khajiiti Tapestry",
+  "description": "A replica of the Rewoven Tapestry depicting the various furstocks of Khajiit.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": 2,
+  "knownIds": [
+    153841
+  ]
+}

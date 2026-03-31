@@ -1,0 +1,30 @@
+{
+  "internalId": 3480814170,
+  "name": "Automated Defense Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_heavy_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1152750,
+    1161264,
+    1168027,
+    1168033,
+    1172069,
+    1346178,
+    1346785,
+    1346793,
+    1403495,
+    1414902,
+    1460469,
+    1460472,
+    1461918,
+    1463668,
+    1479338,
+    1517948,
+    1537119,
+    1540522,
+    1546332,
+    1551162,
+    1717954
+  ]
+}

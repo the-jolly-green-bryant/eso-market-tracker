@@ -1,0 +1,16 @@
+{
+  "internalId": 2472527093,
+  "name": "Ice Furnace Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86389,
+    86409,
+    86429,
+    86449,
+    86469,
+    86489,
+    86509
+  ]
+}

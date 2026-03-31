@@ -1,0 +1,10 @@
+{
+  "internalId": 1215708036,
+  "name": "Crafting Motif 89: Ancestral High Elf Style",
+  "description": "Use to learn the Ancestral High Elf crafting style. Also teaches the equivalent Ancestral High Elf Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    160593
+  ]
+}

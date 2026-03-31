@@ -1,0 +1,19 @@
+{
+  "internalId": 2010422990,
+  "name": "Mace of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75737,
+    75772,
+    75807,
+    75842,
+    75877,
+    75912,
+    75947,
+    75982,
+    76017,
+    76052
+  ]
+}

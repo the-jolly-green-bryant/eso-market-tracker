@@ -1,0 +1,10 @@
+{
+  "internalId": 3709578014,
+  "name": "Anesthetizer Coil",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ring_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1175388
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2640513289,
+  "name": "Girdle of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60664,
+    60699,
+    60734,
+    60769,
+    60804,
+    60839,
+    60874,
+    60909,
+    60944,
+    60979
+  ]
+}

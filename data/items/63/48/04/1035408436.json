@@ -1,0 +1,11 @@
+{
+  "internalId": 1035408436,
+  "name": "Shoes of Bahraha's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114602,
+    114623
+  ]
+}

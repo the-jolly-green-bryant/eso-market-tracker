@@ -1,0 +1,17 @@
+{
+  "internalId": 1115429441,
+  "name": "Restoration Staff of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91575,
+    91596,
+    91617,
+    91638,
+    91659,
+    91680,
+    91701,
+    91722
+  ]
+}

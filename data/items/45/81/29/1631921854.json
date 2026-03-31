@@ -1,0 +1,17 @@
+{
+  "internalId": 1631921854,
+  "name": "Wizard's Riposte Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shirt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123741,
+    123762,
+    123783,
+    123804,
+    123825,
+    123846,
+    123867,
+    123888
+  ]
+}

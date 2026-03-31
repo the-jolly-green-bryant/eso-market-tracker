@@ -1,0 +1,10 @@
+{
+  "internalId": 1281776842,
+  "name": "Redguard Fence, Brass Capped",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_waf_varwallssmalldouble002.png",
+  "bindType": -1,
+  "knownIds": [
+    134924
+  ]
+}

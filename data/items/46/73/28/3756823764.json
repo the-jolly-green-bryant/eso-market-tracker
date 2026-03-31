@@ -1,0 +1,17 @@
+{
+  "internalId": 3756823764,
+  "name": "Hrothgar's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180784,
+    180804,
+    180824,
+    180844,
+    180864,
+    180884,
+    180904,
+    180924
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 593383014,
+  "name": "Pauldron of Nikulas",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85289,
+    85309,
+    85329,
+    85349,
+    85369,
+    85409
+  ]
+}

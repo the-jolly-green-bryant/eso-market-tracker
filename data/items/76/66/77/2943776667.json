@@ -1,0 +1,21 @@
+{
+  "internalId": 2943776667,
+  "name": "Relequen's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_dagger_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1256773,
+    1259111,
+    1286294,
+    1289659,
+    1372093,
+    1554976,
+    1558385,
+    1567777,
+    1601541,
+    1609626,
+    1616237,
+    1737094
+  ]
+}

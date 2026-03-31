@@ -1,0 +1,10 @@
+{
+  "internalId": 3367422717,
+  "name": "Murkmire Candle, Bone Tall",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklampbonecandle003.png",
+  "bindType": -1,
+  "knownIds": [
+    145370
+  ]
+}

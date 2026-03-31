@@ -1,0 +1,17 @@
+{
+  "internalId": 2310876032,
+  "name": "Tracker's Lash Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210372,
+    210393,
+    210414,
+    210435,
+    210456,
+    210477,
+    210498,
+    210519
+  ]
+}

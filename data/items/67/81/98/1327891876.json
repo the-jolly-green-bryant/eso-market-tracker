@@ -1,0 +1,19 @@
+{
+  "internalId": 1327891876,
+  "name": "New Moon Acolyte's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156152,
+    156207,
+    156242,
+    156277,
+    156312,
+    156347,
+    156382,
+    156417,
+    156452,
+    156487
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1616635286,
+  "name": "Crackling Lodestone",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_storm_elemental_shock_ball.png",
+  "bindType": -1,
+  "knownIds": [
+    869701,
+    878323,
+    1234211,
+    1317668
+  ]
+}

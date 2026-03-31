@@ -1,0 +1,17 @@
+{
+  "internalId": 1804577881,
+  "name": "Lightning Staff of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180439,
+    180460,
+    180481,
+    180502,
+    180523,
+    180544,
+    180565,
+    180586
+  ]
+}

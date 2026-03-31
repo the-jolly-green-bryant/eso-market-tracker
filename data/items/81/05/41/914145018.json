@@ -1,0 +1,10 @@
+{
+  "internalId": 914145018,
+  "name": "Apocrypha Mirror, Intricate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_mirrorhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    203282
+  ]
+}

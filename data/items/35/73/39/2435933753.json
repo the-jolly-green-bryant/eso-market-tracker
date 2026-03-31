@@ -1,0 +1,10 @@
+{
+  "internalId": 2435933753,
+  "name": "Solitude Bookcase, Noble Cabinet",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_armoirfancy002.png",
+  "bindType": -1,
+  "knownIds": [
+    165723
+  ]
+}

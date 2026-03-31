@@ -1,0 +1,19 @@
+{
+  "internalId": 321423049,
+  "name": "Jack of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184799,
+    184854,
+    184889,
+    184924,
+    184959,
+    184994,
+    185029,
+    185064,
+    185099,
+    185134
+  ]
+}

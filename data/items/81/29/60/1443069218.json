@@ -1,0 +1,10 @@
+{
+  "internalId": 1443069218,
+  "name": "Letter Sealed with Red Wax",
+  "description": "A mysterious letter sealed with red wax",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_001.png",
+  "bindType": -1,
+  "knownIds": [
+    28133
+  ]
+}

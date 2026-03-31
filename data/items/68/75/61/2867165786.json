@@ -1,0 +1,10 @@
+{
+  "internalId": 2867165786,
+  "name": "Common Candles, Pair",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candleset003.png",
+  "bindType": -1,
+  "knownIds": [
+    118037
+  ]
+}

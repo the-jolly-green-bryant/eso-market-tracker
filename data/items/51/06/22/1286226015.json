@@ -1,0 +1,10 @@
+{
+  "internalId": 1286226015,
+  "name": "Redguard Bed, Full",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varbedsmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    117676
+  ]
+}

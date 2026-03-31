@@ -1,0 +1,17 @@
+{
+  "internalId": 3257282952,
+  "name": "Girdle of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88370,
+    88390,
+    88410,
+    88430,
+    88450,
+    88470,
+    88490,
+    88510
+  ]
+}

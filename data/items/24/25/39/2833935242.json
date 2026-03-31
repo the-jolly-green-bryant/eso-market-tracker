@@ -1,0 +1,10 @@
+{
+  "internalId": 2833935242,
+  "name": "Orcrest Quarantine Spaulders",
+  "description": "When you are up to your arms in the sick and the dead, these provide good protection.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_medium_shoulder_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150416
+  ]
+}

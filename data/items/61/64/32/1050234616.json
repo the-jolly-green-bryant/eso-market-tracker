@@ -1,0 +1,13 @@
+{
+  "internalId": 1050234616,
+  "name": "Vateshran's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1406761,
+    1415226,
+    1499375,
+    1615398
+  ]
+}

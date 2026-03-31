@@ -1,0 +1,17 @@
+{
+  "internalId": 1019973474,
+  "name": "Three Queens Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214534,
+    214555,
+    214576,
+    214597,
+    214618,
+    214639,
+    214660,
+    214681
+  ]
+}

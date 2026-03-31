@@ -1,0 +1,10 @@
+{
+  "internalId": 1695785722,
+  "name": "Pewter Dust",
+  "description": "Ten of these items can be refined to make pewter ounces.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_pewter_dust.png",
+  "bindType": -1,
+  "knownIds": [
+    135137
+  ]
+}

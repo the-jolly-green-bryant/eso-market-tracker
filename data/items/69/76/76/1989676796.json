@@ -1,0 +1,18 @@
+{
+  "internalId": 1989676796,
+  "name": "Savage Werewolf's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1268332,
+    1401768,
+    1482176,
+    1491026,
+    1494626,
+    1594841,
+    1626865,
+    1642557,
+    1732121
+  ]
+}

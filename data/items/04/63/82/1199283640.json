@@ -1,0 +1,10 @@
+{
+  "internalId": 1199283640,
+  "name": "Weapons: Aegis Caller",
+  "description": "A Medium Armor set found in Unhallowed Grave.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    157912
+  ]
+}

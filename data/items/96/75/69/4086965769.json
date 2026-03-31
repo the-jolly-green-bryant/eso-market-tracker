@@ -1,0 +1,19 @@
+{
+  "internalId": 4086965769,
+  "name": "Shield of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60680,
+    60715,
+    60750,
+    60785,
+    60820,
+    60855,
+    60890,
+    60925,
+    60960,
+    60995
+  ]
+}

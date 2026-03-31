@@ -1,0 +1,18 @@
+{
+  "internalId": 3268619840,
+  "name": "Storm-Cursed Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_axe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1569387,
+    1592450,
+    1605632,
+    1619456,
+    1636716,
+    1677730,
+    1686787,
+    1702509,
+    1776340
+  ]
+}

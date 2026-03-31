@@ -1,0 +1,10 @@
+{
+  "internalId": 2651449432,
+  "name": "Crafting Motif 134: Tide-Born Axes",
+  "description": "Use to learn how to make Tide-Born Axes. Also teaches the equivalent Tide-Born Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    212119
+  ]
+}

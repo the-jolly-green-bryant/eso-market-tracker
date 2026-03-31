@@ -1,0 +1,14 @@
+{
+  "internalId": 266260790,
+  "name": "Vivec's Greatsword of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195768,
+    195789,
+    195810,
+    195831,
+    195852
+  ]
+}

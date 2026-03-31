@@ -1,0 +1,14 @@
+{
+  "internalId": 3830710183,
+  "name": "Eternal Hunt Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72676,
+    72711,
+    72746,
+    72781,
+    72816
+  ]
+}

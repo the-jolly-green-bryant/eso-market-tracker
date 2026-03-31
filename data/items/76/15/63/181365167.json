@@ -1,0 +1,10 @@
+{
+  "internalId": 181365167,
+  "name": "Solstice Bismuth, Deposit II",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_bismuthxs002.png",
+  "bindType": -1,
+  "knownIds": [
+    214479
+  ]
+}

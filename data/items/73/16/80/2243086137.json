@@ -1,0 +1,11 @@
+{
+  "internalId": 2243086137,
+  "name": "Tawny Port",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
+  "bindType": -1,
+  "knownIds": [
+    32085,
+    28413
+  ]
+}

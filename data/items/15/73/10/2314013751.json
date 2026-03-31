@@ -1,0 +1,15 @@
+{
+  "internalId": 2314013751,
+  "name": "Necklace of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139745,
+    139835,
+    139925,
+    140015,
+    140105,
+    140195
+  ]
+}

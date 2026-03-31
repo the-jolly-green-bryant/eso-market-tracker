@@ -1,0 +1,17 @@
+{
+  "internalId": 4102529438,
+  "name": "Ice Staff of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78618,
+    78653,
+    78688,
+    78723,
+    78758,
+    78793,
+    78828,
+    78863
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1342711102,
+  "name": "Fellowship's Fortitude Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    216193,
+    216228
+  ]
+}

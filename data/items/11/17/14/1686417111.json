@@ -1,0 +1,16 @@
+{
+  "internalId": 1686417111,
+  "name": "Ophidian Ring of Celerity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    943791,
+    943794,
+    1142494,
+    1334634,
+    1506764,
+    1506766,
+    1518890
+  ]
+}

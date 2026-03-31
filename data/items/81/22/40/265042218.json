@@ -1,0 +1,20 @@
+{
+  "internalId": 265042218,
+  "name": "Wolfpack Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    825021,
+    584870,
+    773438,
+    940022,
+    940866,
+    1208880,
+    1440310,
+    1447919,
+    1532084,
+    1533110,
+    1623652
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2970649785,
+  "name": "Alinor Desk, Polished",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_desk001.png",
+  "bindType": -1,
+  "knownIds": [
+    139229
+  ]
+}

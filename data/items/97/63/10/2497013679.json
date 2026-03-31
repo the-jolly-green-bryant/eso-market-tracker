@@ -1,0 +1,10 @@
+{
+  "internalId": 2497013679,
+  "name": "Alinor Statue, Kinlord",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_statuea001.png",
+  "bindType": -1,
+  "knownIds": [
+    139324
+  ]
+}

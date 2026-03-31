@@ -1,0 +1,19 @@
+{
+  "internalId": 1192042718,
+  "name": "Gauntlets of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71794,
+    71829,
+    71864,
+    71899,
+    71934,
+    71969,
+    72004,
+    72039,
+    72074,
+    72109
+  ]
+}

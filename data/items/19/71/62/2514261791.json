@@ -1,0 +1,17 @@
+{
+  "internalId": 2514261791,
+  "name": "Draoife Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190708,
+    190728,
+    190748,
+    190768,
+    190788,
+    190808,
+    190828,
+    190848
+  ]
+}

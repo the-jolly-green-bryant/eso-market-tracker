@@ -1,0 +1,17 @@
+{
+  "internalId": 3691608801,
+  "name": "Spell Strategist Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144101,
+    144122,
+    144143,
+    144164,
+    144185,
+    144206,
+    144227,
+    144248
+  ]
+}

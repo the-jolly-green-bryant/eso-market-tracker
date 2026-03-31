@@ -1,0 +1,19 @@
+{
+  "internalId": 1628404447,
+  "name": "Sload's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136074,
+    136109,
+    136144,
+    136179,
+    136214,
+    136249,
+    136284,
+    136319,
+    136354,
+    136389
+  ]
+}

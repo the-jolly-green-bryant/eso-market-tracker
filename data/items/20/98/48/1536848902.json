@@ -1,0 +1,11 @@
+{
+  "internalId": 1536848902,
+  "name": "Umbral Edge Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_sword.png",
+  "bindType": -1,
+  "knownIds": [
+    1764534,
+    1775471
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 408566519,
+  "name": "Blessed Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102254
+  ]
+}

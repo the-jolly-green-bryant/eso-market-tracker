@@ -1,0 +1,18 @@
+{
+  "internalId": 110640459,
+  "name": "Gloves of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86760,
+    86781,
+    86802,
+    86823,
+    86844,
+    86865,
+    86886,
+    86907,
+    86928
+  ]
+}

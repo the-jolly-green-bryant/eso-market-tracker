@@ -1,0 +1,16 @@
+{
+  "internalId": 2136554856,
+  "name": "Battle Axe of Sheer Venom",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_2haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1121875,
+    1286269,
+    1428884,
+    1528076,
+    1590229,
+    1602162,
+    1732179
+  ]
+}

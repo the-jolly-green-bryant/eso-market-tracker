@@ -1,0 +1,21 @@
+{
+  "internalId": 1973526160,
+  "name": "Unleashed Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcticvampire_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1398146,
+    1401414,
+    1415693,
+    1435605,
+    1443588,
+    1482813,
+    1587551,
+    1588720,
+    1595056,
+    1606604,
+    1746038,
+    1762377
+  ]
+}

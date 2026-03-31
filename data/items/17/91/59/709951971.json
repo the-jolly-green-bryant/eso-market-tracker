@@ -1,0 +1,10 @@
+{
+  "internalId": 709951971,
+  "name": "Tuffet, Faded Yellow",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofapillowstoolworn003.png",
+  "bindType": -1,
+  "knownIds": [
+    118264
+  ]
+}

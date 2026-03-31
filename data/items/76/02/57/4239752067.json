@@ -1,0 +1,17 @@
+{
+  "internalId": 4239752067,
+  "name": "Hexos' Ward Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_med_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180117,
+    180137,
+    180157,
+    180177,
+    180197,
+    180217,
+    180237,
+    180257
+  ]
+}

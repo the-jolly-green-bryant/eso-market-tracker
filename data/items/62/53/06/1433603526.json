@@ -1,0 +1,13 @@
+{
+  "internalId": 1433603526,
+  "name": "Mace of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93076,
+    93096,
+    93116,
+    93136
+  ]
+}

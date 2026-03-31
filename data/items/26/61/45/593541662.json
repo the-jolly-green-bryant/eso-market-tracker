@@ -1,0 +1,17 @@
+{
+  "internalId": 593541662,
+  "name": "Vanguard's Challenge Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123183,
+    123203,
+    123223,
+    123243,
+    123263,
+    123283,
+    123303,
+    123323
+  ]
+}

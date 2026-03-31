@@ -1,0 +1,16 @@
+{
+  "internalId": 2578239340,
+  "name": "Cyrodilic Collections Daily Contract Recompense",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png",
+  "bindType": -1,
+  "knownIds": [
+    1257997,
+    1272067,
+    1272174,
+    1272326,
+    1291963,
+    1291973,
+    1291997
+  ]
+}

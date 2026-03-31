@@ -1,0 +1,10 @@
+{
+  "internalId": 1023381508,
+  "name": "Justice Longbow",
+  "description": "The streets of Bergama are safe again. With this bow, you can keep it that way.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7530
+  ]
+}

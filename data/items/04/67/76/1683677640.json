@@ -1,0 +1,14 @@
+{
+  "internalId": 1683677640,
+  "name": "Soulcleaver Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1676614,
+    1697530,
+    1716102,
+    1721732,
+    1745957
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1407023374,
+  "name": "General Malgoth's War Harness",
+  "description": "The marks on this worn harness prove it's been tested in battle.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10847
+  ]
+}

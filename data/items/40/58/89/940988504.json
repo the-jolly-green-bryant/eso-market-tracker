@@ -1,0 +1,10 @@
+{
+  "internalId": 940988504,
+  "name": "Bergama Warning Fire",
+  "description": "A seasonal drink enjoyed during the New Life Festival. This Redguard drink is served piping hot, and sharpens the imbiber's wits rather than dulls them.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_warning_fire.png",
+  "bindType": -1,
+  "knownIds": [
+    112426
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 346125322,
+  "name": "Witchman's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_medium_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101535,
+    101555,
+    101575,
+    101595,
+    101615,
+    101635,
+    101655,
+    101675
+  ]
+}

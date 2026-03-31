@@ -1,0 +1,14 @@
+{
+  "internalId": 2348926640,
+  "name": "Pauldron of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75141,
+    75161,
+    75181,
+    75201,
+    75221
+  ]
+}

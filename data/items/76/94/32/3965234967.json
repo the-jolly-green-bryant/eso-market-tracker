@@ -1,0 +1,18 @@
+{
+  "internalId": 3965234967,
+  "name": "Shield of Rushing Agony",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_shield.png",
+  "bindType": -1,
+  "knownIds": [
+    1517284,
+    1524640,
+    1561714,
+    1561870,
+    1565059,
+    1566216,
+    1583589,
+    1603457,
+    1678575
+  ]
+}

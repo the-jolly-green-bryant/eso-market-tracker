@@ -1,0 +1,19 @@
+{
+  "internalId": 1494008659,
+  "name": "Belt of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168781,
+    168836,
+    168871,
+    168906,
+    168941,
+    168976,
+    169011,
+    169046,
+    169081,
+    169116
+  ]
+}

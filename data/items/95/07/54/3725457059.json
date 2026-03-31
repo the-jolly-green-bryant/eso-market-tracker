@@ -1,0 +1,19 @@
+{
+  "internalId": 3725457059,
+  "name": "Gauntlets of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168762,
+    168817,
+    168852,
+    168887,
+    168922,
+    168957,
+    168992,
+    169027,
+    169062,
+    169097
+  ]
+}

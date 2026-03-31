@@ -1,0 +1,10 @@
+{
+  "internalId": 758051397,
+  "name": "Falmer Fence, Stick",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrfence001.png",
+  "bindType": -1,
+  "knownIds": [
+    203150
+  ]
+}

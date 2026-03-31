@@ -1,0 +1,10 @@
+{
+  "internalId": 3863677026,
+  "name": "Flower Patch, Hawkmoth Cabbage",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_skr_nicotiana005.png",
+  "bindType": -1,
+  "knownIds": [
+    166000
+  ]
+}

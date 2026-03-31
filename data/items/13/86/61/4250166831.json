@@ -1,0 +1,17 @@
+{
+  "internalId": 4250166831,
+  "name": "Defiler's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122995,
+    123015,
+    123035,
+    123055,
+    123075,
+    123095,
+    123115,
+    123135
+  ]
+}

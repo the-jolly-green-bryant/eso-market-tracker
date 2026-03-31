@@ -1,0 +1,10 @@
+{
+  "internalId": 3984930543,
+  "name": "Dwarven Ingot",
+  "description": "An ingredient for crafting metal weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_plug_standard_r_001.png",
+  "bindType": -1,
+  "knownIds": [
+    6000
+  ]
+}

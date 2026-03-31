@@ -1,0 +1,14 @@
+{
+  "internalId": 664743011,
+  "name": "Eternal Hunt Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72687,
+    72722,
+    72757,
+    72792,
+    72827
+  ]
+}

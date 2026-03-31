@@ -1,0 +1,17 @@
+{
+  "internalId": 1856581460,
+  "name": "Deadly Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87878,
+    87891,
+    87904,
+    87917,
+    87930,
+    87943,
+    87956,
+    87969
+  ]
+}

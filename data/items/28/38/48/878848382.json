@@ -1,0 +1,11 @@
+{
+  "internalId": 878848382,
+  "name": "potion of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    431241,
+    720510
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": 1520127718,
+  "name": "Lamia's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    938136,
+    1257529,
+    1261060,
+    1283331,
+    1310230,
+    1345365,
+    1368943,
+    1387032,
+    1397755,
+    1419875,
+    1431229,
+    1444719,
+    1501865,
+    1509859,
+    1519735,
+    1549108,
+    1549740,
+    1571677,
+    1715793
+  ]
+}

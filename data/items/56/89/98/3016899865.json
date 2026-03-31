@@ -1,0 +1,11 @@
+{
+  "internalId": 3016899865,
+  "name": "Shipment of Leather X",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1424809,
+    1303402
+  ]
+}

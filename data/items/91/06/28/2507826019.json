@@ -1,0 +1,18 @@
+{
+  "internalId": 2507826019,
+  "name": "Mighty Glacier's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1371210,
+    1378733,
+    1384191,
+    1394032,
+    1451906,
+    1500373,
+    1564016,
+    1620451,
+    1756490
+  ]
+}

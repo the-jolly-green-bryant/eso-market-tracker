@@ -1,0 +1,10 @@
+{
+  "internalId": 630183509,
+  "name": "Crafting Motif 68: Honor Guard Staves",
+  "description": "Use to learn how to make Honor Guard Staves. Also teaches the equivalent Honor Guard outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    142199
+  ]
+}

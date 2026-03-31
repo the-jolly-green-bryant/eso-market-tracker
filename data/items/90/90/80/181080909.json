@@ -1,0 +1,10 @@
+{
+  "internalId": 181080909,
+  "name": "Valdur's Shield",
+  "description": "Free from the Worm Cult's chains, Valdur's spirit bestowed his shield on you and promised his aid.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10972
+  ]
+}

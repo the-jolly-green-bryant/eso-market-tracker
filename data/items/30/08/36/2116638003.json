@@ -1,0 +1,10 @@
+{
+  "internalId": 2116638003,
+  "name": "Jute",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_standard_r_001.png",
+  "bindType": -1,
+  "knownIds": [
+    811
+  ]
+}

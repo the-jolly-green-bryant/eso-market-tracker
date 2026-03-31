@@ -1,0 +1,17 @@
+{
+  "internalId": 3729452490,
+  "name": "Robe of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91768,
+    91789,
+    91810,
+    91831,
+    91852,
+    91873,
+    91894,
+    91915
+  ]
+}

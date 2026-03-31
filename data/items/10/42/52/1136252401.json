@@ -1,0 +1,10 @@
+{
+  "internalId": 1136252401,
+  "name": "Rough Nightwood",
+  "description": "Ten of these items can be refined to make sanded nightwood.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_rough_nightwood.png",
+  "bindType": -1,
+  "knownIds": [
+    23138
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3628663221,
+  "name": "Lion Guard Great Helm",
+  "description": "You received this helmet from General Gautier of the Lion Guard for assisting with the first push to retake Camlorn.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1127
+  ]
+}

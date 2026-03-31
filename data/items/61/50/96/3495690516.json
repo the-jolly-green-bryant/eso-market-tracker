@@ -1,0 +1,17 @@
+{
+  "internalId": 3495690516,
+  "name": "Witchman's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101521,
+    101541,
+    101561,
+    101581,
+    101601,
+    101621,
+    101641,
+    101661
+  ]
+}

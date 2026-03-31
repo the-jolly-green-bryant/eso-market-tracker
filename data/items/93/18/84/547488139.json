@@ -1,0 +1,10 @@
+{
+  "internalId": 547488139,
+  "name": "Colovian Gate, Fortified",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_waf_doorgate001.png",
+  "bindType": -1,
+  "knownIds": [
+    218006
+  ]
+}

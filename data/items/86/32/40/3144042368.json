@@ -1,0 +1,10 @@
+{
+  "internalId": 3144042368,
+  "name": "Elsweyr Shelf, Elegant Wall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_wallshelf003.png",
+  "bindType": -1,
+  "knownIds": [
+    151710
+  ]
+}

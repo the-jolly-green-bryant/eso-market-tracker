@@ -1,0 +1,19 @@
+{
+  "internalId": 2541128573,
+  "name": "Coldharbour's Favorite Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147955,
+    148010,
+    148045,
+    148080,
+    148115,
+    148150,
+    148185,
+    148220,
+    148255,
+    148290
+  ]
+}

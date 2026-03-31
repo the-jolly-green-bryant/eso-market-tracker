@@ -1,0 +1,19 @@
+{
+  "internalId": 1006667345,
+  "name": "Threads of War Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206166,
+    206221,
+    206256,
+    206291,
+    206326,
+    206361,
+    206396,
+    206431,
+    206466,
+    206501
+  ]
+}

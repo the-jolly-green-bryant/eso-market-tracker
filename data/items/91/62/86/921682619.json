@@ -1,0 +1,17 @@
+{
+  "internalId": 921682619,
+  "name": "Alessian Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88000,
+    88020,
+    88040,
+    88060,
+    88080,
+    88100,
+    88120,
+    88140
+  ]
+}

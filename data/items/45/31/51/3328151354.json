@@ -1,0 +1,17 @@
+{
+  "internalId": 3328151354,
+  "name": "Witchman's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101533,
+    101553,
+    101573,
+    101593,
+    101613,
+    101633,
+    101653,
+    101673
+  ]
+}

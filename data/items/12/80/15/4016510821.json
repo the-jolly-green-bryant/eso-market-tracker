@@ -1,0 +1,10 @@
+{
+  "internalId": 4016510821,
+  "name": "Ayleid Sconce, Tall Floor",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_inc_crystalsconcelarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    212574
+  ]
+}

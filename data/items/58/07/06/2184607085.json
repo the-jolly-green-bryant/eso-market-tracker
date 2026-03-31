@@ -1,0 +1,10 @@
+{
+  "internalId": 2184607085,
+  "name": "Dark Elf Runner, Bordered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_rugplain001.png",
+  "bindType": -1,
+  "knownIds": [
+    115281
+  ]
+}

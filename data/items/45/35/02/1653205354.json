@@ -1,0 +1,10 @@
+{
+  "internalId": 1653205354,
+  "name": "Pulverized Aurbic Amber",
+  "description": "Ten of these items can be refined into Aurbic Amber, which is used to make Jewelry with the Infused Trait.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_wormwood_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    139417
+  ]
+}

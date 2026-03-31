@@ -1,0 +1,19 @@
+{
+  "internalId": 1685323501,
+  "name": "Lightning Staff of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70660,
+    70695,
+    70730,
+    70765,
+    70800,
+    70835,
+    70870,
+    70905,
+    70940,
+    70975
+  ]
+}

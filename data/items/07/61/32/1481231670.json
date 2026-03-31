@@ -1,0 +1,10 @@
+{
+  "internalId": 1481231670,
+  "name": "Crafting Motif 32: Abah's Watch Axes",
+  "description": "Use to learn how to make Abah's Watch Axes. Also teaches the equivalent Abah's Watch Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    74540
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 53054577,
+  "name": "Rock, Jagged Lichen",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_mrksmall005.png",
+  "bindType": -1,
+  "knownIds": [
+    120728
+  ]
+}

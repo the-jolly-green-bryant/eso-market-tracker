@@ -1,0 +1,14 @@
+{
+  "internalId": 2937222976,
+  "name": "Umbral Edge Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_sheild.png",
+  "bindType": -1,
+  "knownIds": [
+    1736488,
+    1749324,
+    1762415,
+    1764395,
+    1774805
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 329589065,
+  "name": "Poacher's Grips",
+  "description": "No beast can escape the vise-like grip of these gauntlets.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150398
+  ]
+}

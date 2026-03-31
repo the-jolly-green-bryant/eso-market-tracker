@@ -1,0 +1,17 @@
+{
+  "internalId": 1120409762,
+  "name": "Battle Axe of the Gorethief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    224379,
+    224414,
+    224449,
+    224484,
+    224519,
+    224554,
+    224589,
+    224624
+  ]
+}

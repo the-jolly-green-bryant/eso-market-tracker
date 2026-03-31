@@ -1,0 +1,10 @@
+{
+  "internalId": 3556065312,
+  "name": "Weapons: Rattlecage",
+  "description": "A Heavy Armor set found in Vaults of Madness.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114219
+  ]
+}

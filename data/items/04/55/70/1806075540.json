@@ -1,0 +1,10 @@
+{
+  "internalId": 1806075540,
+  "name": "Jester's Infinite Giftbox",
+  "description": "This box contains an infinite supply of Jester's Festival giftboxes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_gift_box.png",
+  "bindType": 3,
+  "knownIds": [
+    175582
+  ]
+}

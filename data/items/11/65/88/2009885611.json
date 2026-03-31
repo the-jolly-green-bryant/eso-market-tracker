@@ -1,0 +1,10 @@
+{
+  "internalId": 2009885611,
+  "name": "Reachmen Cage, Sturdy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_reachcage001.png",
+  "bindType": -1,
+  "knownIds": [
+    130221
+  ]
+}

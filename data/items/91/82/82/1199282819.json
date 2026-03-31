@@ -1,0 +1,11 @@
+{
+  "internalId": 1199282819,
+  "name": "Mythic Items (Markarth)",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1410746,
+    1492159
+  ]
+}

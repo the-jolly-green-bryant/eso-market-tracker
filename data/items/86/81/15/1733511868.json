@@ -1,0 +1,17 @@
+{
+  "internalId": 1733511868,
+  "name": "Battle Axe of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74896,
+    74917,
+    74938,
+    74959,
+    74980,
+    75001,
+    75022,
+    75043
+  ]
+}

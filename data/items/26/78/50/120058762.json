@@ -1,0 +1,10 @@
+{
+  "internalId": 120058762,
+  "name": "Potato, Wax",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgpotato001.png",
+  "bindType": -1,
+  "knownIds": [
+    118047
+  ]
+}

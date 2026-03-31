@@ -1,0 +1,10 @@
+{
+  "internalId": 765568792,
+  "name": "Alchemy Station",
+  "description": "When placed in your home, allows you to craft Alchemy items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletablealchemy001.png",
+  "bindType": -1,
+  "knownIds": [
+    118328
+  ]
+}

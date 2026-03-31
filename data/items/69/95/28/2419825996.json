@@ -1,0 +1,10 @@
+{
+  "internalId": 2419825996,
+  "name": "Ysgramor's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101483
+  ]
+}

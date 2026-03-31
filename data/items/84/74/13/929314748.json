@@ -1,0 +1,17 @@
+{
+  "internalId": 929314748,
+  "name": "Belt of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92832,
+    92852,
+    92872,
+    92892,
+    92912,
+    92932,
+    92952,
+    92972
+  ]
+}

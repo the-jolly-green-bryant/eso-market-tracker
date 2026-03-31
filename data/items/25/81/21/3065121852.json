@@ -1,0 +1,19 @@
+{
+  "internalId": 3065121852,
+  "name": "Seeker Synthesis Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195343,
+    195398,
+    195433,
+    195468,
+    195503,
+    195538,
+    195573,
+    195608,
+    195643,
+    195678
+  ]
+}

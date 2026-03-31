@@ -1,0 +1,10 @@
+{
+  "internalId": 538412642,
+  "name": "Leyawiin Merchant Stall, Portable",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_csb_leymerchantcartopen001.png",
+  "bindType": -1,
+  "knownIds": [
+    175693
+  ]
+}

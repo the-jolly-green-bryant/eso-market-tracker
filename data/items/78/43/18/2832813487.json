@@ -1,0 +1,17 @@
+{
+  "internalId": 2832813487,
+  "name": "Greaves of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101161,
+    101181,
+    101201,
+    101221,
+    101241,
+    101261,
+    101281,
+    101301
+  ]
+}

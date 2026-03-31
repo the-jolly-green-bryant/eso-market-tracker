@@ -1,0 +1,19 @@
+{
+  "internalId": 3746664061,
+  "name": "Innate Axiom Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130401,
+    130436,
+    130471,
+    130506,
+    130541,
+    130576,
+    130611,
+    130646,
+    130681,
+    130716
+  ]
+}

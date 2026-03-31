@@ -1,0 +1,10 @@
+{
+  "internalId": 1084034228,
+  "name": "Crafting Motif 82: Icereach Coven Axes",
+  "description": "Use to learn how to make Icereach Coven Axes. Also teaches the equivalent Icereach Coven outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    157518
+  ]
+}

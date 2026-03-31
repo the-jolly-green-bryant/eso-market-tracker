@@ -1,0 +1,10 @@
+{
+  "internalId": 133888695,
+  "name": "Orcish Banner, Worn",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgorcbanner002.png",
+  "bindType": -1,
+  "knownIds": [
+    116375
+  ]
+}

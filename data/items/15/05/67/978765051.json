@@ -1,0 +1,19 @@
+{
+  "internalId": 978765051,
+  "name": "Epaulets of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168773,
+    168828,
+    168863,
+    168898,
+    168933,
+    168968,
+    169003,
+    169038,
+    169073,
+    169108
+  ]
+}

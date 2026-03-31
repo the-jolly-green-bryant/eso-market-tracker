@@ -1,0 +1,10 @@
+{
+  "internalId": 636213819,
+  "name": "Orcish Ledger of Significant Grudges",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    860510
+  ]
+}

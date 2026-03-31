@@ -1,0 +1,10 @@
+{
+  "internalId": 1050852838,
+  "name": "Figurine, The Sea-Monster's Surprise",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_smallstatue001.png",
+  "bindType": -1,
+  "knownIds": [
+    139248
+  ]
+}

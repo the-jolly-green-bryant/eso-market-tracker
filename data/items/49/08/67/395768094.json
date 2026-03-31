@@ -1,0 +1,19 @@
+{
+  "internalId": 395768094,
+  "name": "Sabatons of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70633,
+    70668,
+    70703,
+    70738,
+    70773,
+    70808,
+    70843,
+    70878,
+    70913,
+    70948
+  ]
+}

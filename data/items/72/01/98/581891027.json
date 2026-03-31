@@ -1,0 +1,10 @@
+{
+  "internalId": 581891027,
+  "name": "Sailcutter Dagger",
+  "description": "A reward from Vicecanon Servyna for helping One-Eye end the Dominion's trading in Shadowfen.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10324
+  ]
+}

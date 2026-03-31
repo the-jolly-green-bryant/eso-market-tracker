@@ -1,0 +1,10 @@
+{
+  "internalId": 1780374253,
+  "name": "Shipment of Silver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1241205
+  ]
+}

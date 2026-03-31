@@ -1,0 +1,11 @@
+{
+  "internalId": 3636029697,
+  "name": "Fellowship's Fortitude Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    216189,
+    216224
+  ]
+}

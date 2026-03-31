@@ -1,0 +1,11 @@
+{
+  "internalId": 2159302732,
+  "name": "Charred Bone Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    396017,
+    775523
+  ]
+}

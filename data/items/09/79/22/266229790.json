@@ -1,0 +1,10 @@
+{
+  "internalId": 266229790,
+  "name": "Fargrave Terrarium, Watcher",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farcreaturewatcher001.png",
+  "bindType": -1,
+  "knownIds": [
+    182287
+  ]
+}

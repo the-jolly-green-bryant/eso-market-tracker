@@ -1,0 +1,17 @@
+{
+  "internalId": 2946416519,
+  "name": "Unflinching Ultimate Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219494,
+    219514,
+    219534,
+    219554,
+    219574,
+    219594,
+    219614,
+    219634
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4082900927,
+  "name": "Jerkin of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59970,
+    60005,
+    60040,
+    60075,
+    60110,
+    60145,
+    60180,
+    60215,
+    60250,
+    60285
+  ]
+}

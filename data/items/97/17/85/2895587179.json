@@ -1,0 +1,19 @@
+{
+  "internalId": 2895587179,
+  "name": "Sword of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60648,
+    60683,
+    60718,
+    60753,
+    60788,
+    60823,
+    60858,
+    60893,
+    60928,
+    60963
+  ]
+}

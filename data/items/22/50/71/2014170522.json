@@ -1,0 +1,14 @@
+{
+  "internalId": 2014170522,
+  "name": "Sword of the Depths",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1601991,
+    1609588,
+    1626531,
+    1651992,
+    1771076
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3904085053,
+  "name": "Reach Grinding Stones, Nirncrux",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_inc_grindingstone001.png",
+  "bindType": -1,
+  "knownIds": [
+    139105
+  ]
+}

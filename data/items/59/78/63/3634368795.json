@@ -1,0 +1,19 @@
+{
+  "internalId": 3634368795,
+  "name": "Fortified Brass Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130754,
+    130789,
+    130824,
+    130859,
+    130894,
+    130929,
+    130964,
+    130999,
+    131034,
+    131069
+  ]
+}

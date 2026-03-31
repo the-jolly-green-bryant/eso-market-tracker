@@ -1,0 +1,10 @@
+{
+  "internalId": 3997791491,
+  "name": "Leyawiin Lamp, Oil",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylantern004.png",
+  "bindType": -1,
+  "knownIds": [
+    175644
+  ]
+}

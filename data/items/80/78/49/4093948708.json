@@ -1,0 +1,16 @@
+{
+  "internalId": 4093948708,
+  "name": "Eye of the Grasp Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179966,
+    179987,
+    180008,
+    180029,
+    180050,
+    180071,
+    180092
+  ]
+}

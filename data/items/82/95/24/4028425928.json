@@ -1,0 +1,10 @@
+{
+  "internalId": 4028425928,
+  "name": "Telvanni Painting, Oversized Volcanic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_telpaintingalrgorg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126462
+  ]
+}

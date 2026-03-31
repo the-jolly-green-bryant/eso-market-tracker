@@ -1,0 +1,10 @@
+{
+  "internalId": 2611109833,
+  "name": "Wedding Curtain",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varweddingprops002.png",
+  "bindType": -1,
+  "knownIds": [
+    120800
+  ]
+}

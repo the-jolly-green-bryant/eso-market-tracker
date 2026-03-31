@@ -1,0 +1,17 @@
+{
+  "internalId": 845062687,
+  "name": "Gryphon's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2haxe_b.png",
+  "bindType": 2,
+  "knownIds": [
+    135349,
+    135369,
+    135389,
+    135409,
+    135429,
+    135449,
+    135469,
+    135489
+  ]
+}

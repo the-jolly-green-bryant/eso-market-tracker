@@ -1,0 +1,14 @@
+{
+  "internalId": 2165257422,
+  "name": "Girdle of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70106,
+    70141,
+    70176,
+    70211,
+    70246
+  ]
+}

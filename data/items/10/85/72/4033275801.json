@@ -1,0 +1,10 @@
+{
+  "internalId": 4033275801,
+  "name": "Crafting Motif 31: Skinchanger Chests",
+  "description": "Use to learn how to make Skinchanger Chests. Also teaches the equivalent Skinchanger Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    73859
+  ]
+}

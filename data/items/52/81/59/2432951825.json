@@ -1,0 +1,10 @@
+{
+  "internalId": 2432951825,
+  "name": "Caliginous Bristleworm",
+  "description": "An abyssal fish. Use to filet for provisioning.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_caliginousbristleworm.png",
+  "bindType": -1,
+  "knownIds": [
+    198301
+  ]
+}

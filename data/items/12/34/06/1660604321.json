@@ -1,0 +1,11 @@
+{
+  "internalId": 1660604321,
+  "name": "Unidentified Accessory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    44787,
+    44798
+  ]
+}

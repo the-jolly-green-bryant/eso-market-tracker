@@ -1,0 +1,10 @@
+{
+  "internalId": 3572669722,
+  "name": "High Elf Lamppost, Spiked",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_lsb_lamppost002.png",
+  "bindType": -1,
+  "knownIds": [
+    114370
+  ]
+}

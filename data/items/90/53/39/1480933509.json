@@ -1,0 +1,23 @@
+{
+  "internalId": 1480933509,
+  "name": "Olorime's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_bow_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1257751,
+    1257756,
+    1272812,
+    1274823,
+    1363806,
+    1372182,
+    1412380,
+    1451391,
+    1488324,
+    1536329,
+    1593999,
+    1600515,
+    1610464,
+    1616236
+  ]
+}

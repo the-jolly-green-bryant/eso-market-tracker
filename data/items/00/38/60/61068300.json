@@ -1,0 +1,10 @@
+{
+  "internalId": 61068300,
+  "name": "Dreadfang's Bite of Cyrodiil's Crest",
+  "description": "This blade reeks of foulness.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45793
+  ]
+}

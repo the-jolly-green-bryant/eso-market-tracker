@@ -1,0 +1,10 @@
+{
+  "internalId": 1953946079,
+  "name": "Antiweather Pylon",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farnightmarketweathercontrolrod001.png",
+  "bindType": -1,
+  "knownIds": [
+    224095
+  ]
+}

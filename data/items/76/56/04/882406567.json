@@ -1,0 +1,20 @@
+{
+  "internalId": 882406567,
+  "name": "Nix-Hound's Howl Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_medium_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1629035,
+    1629585,
+    1630838,
+    1634209,
+    1634239,
+    1636234,
+    1642984,
+    1649946,
+    1695203,
+    1735438,
+    1757577
+  ]
+}

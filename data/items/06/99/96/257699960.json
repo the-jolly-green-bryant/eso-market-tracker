@@ -1,0 +1,14 @@
+{
+  "internalId": 257699960,
+  "name": "Sabatons of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58646,
+    58667,
+    58688,
+    58709,
+    58730
+  ]
+}

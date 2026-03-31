@@ -1,0 +1,10 @@
+{
+  "internalId": 1071483808,
+  "name": "Gabrielle's Staff of Healing",
+  "description": "For purging the Midnight Talisman and restoring its power, mage Gabrielle Benele awarded this healing staff.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    685
+  ]
+}

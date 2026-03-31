@@ -1,0 +1,17 @@
+{
+  "internalId": 1870421206,
+  "name": "Restoration Staff of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    97785,
+    97805,
+    97825,
+    97845,
+    97865,
+    97885,
+    97905,
+    97925
+  ]
+}

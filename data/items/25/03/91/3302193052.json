@@ -1,0 +1,18 @@
+{
+  "internalId": 3302193052,
+  "name": "Dragonguard Elite's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155226,
+    155246,
+    155266,
+    155286,
+    155306,
+    155326,
+    155346,
+    155366,
+    155386
+  ]
+}

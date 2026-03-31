@@ -1,0 +1,10 @@
+{
+  "internalId": 4096790442,
+  "name": "Boulder, Large Mossy Limestone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_junglelimestonemedhousing007.png",
+  "bindType": -1,
+  "knownIds": [
+    187780
+  ]
+}

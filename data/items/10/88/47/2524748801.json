@@ -1,0 +1,10 @@
+{
+  "internalId": 2524748801,
+  "name": "Tree, Engulfing Termite Mound",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_els_zebrawood011.png",
+  "bindType": -1,
+  "knownIds": [
+    151812
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3985400766,
+  "name": "Pauldron of Fasalla's Guile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199163,
+    199164,
+    199165,
+    199166
+  ]
+}

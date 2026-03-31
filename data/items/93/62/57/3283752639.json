@@ -1,0 +1,10 @@
+{
+  "internalId": 3283752639,
+  "name": "Crafting Motif 125: Blind Path Cultist Maces",
+  "description": "Use to learn how to make Blind Path Cultist Maces. Also teaches the equivalent Blind Path Cultist Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203224
+  ]
+}

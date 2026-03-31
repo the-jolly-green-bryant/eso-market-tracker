@@ -1,0 +1,30 @@
+{
+  "internalId": 116519650,
+  "name": "Automated Defense Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_heavy_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1152679,
+    1152763,
+    1157399,
+    1168216,
+    1182282,
+    1254266,
+    1254681,
+    1346161,
+    1346187,
+    1378740,
+    1457676,
+    1459992,
+    1468480,
+    1470314,
+    1504220,
+    1517949,
+    1559769,
+    1564213,
+    1565128,
+    1630237,
+    1717656
+  ]
+}

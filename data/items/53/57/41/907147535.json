@@ -1,0 +1,19 @@
+{
+  "internalId": 907147535,
+  "name": "Inferno Staff of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161603,
+    161658,
+    161693,
+    161728,
+    161763,
+    161798,
+    161833,
+    161868,
+    161903,
+    161938
+  ]
+}

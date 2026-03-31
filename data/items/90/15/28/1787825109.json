@@ -1,0 +1,22 @@
+{
+  "internalId": 1787825109,
+  "name": "leather helmet of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    483875,
+    616076,
+    647919,
+    461983,
+    517214,
+    439618,
+    635780,
+    792947,
+    785673,
+    871351,
+    871713,
+    871747,
+    871755
+  ]
+}

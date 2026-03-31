@@ -1,0 +1,17 @@
+{
+  "internalId": 608249139,
+  "name": "Gloves of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211598,
+    211619,
+    211640,
+    211661,
+    211682,
+    211703,
+    211724,
+    211745
+  ]
+}

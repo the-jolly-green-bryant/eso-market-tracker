@@ -1,0 +1,10 @@
+{
+  "internalId": 3968345364,
+  "name": "Imperial Trestle, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_tablepeasanttressle001.png",
+  "bindType": -1,
+  "knownIds": [
+    94148
+  ]
+}

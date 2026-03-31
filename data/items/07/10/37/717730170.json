@@ -1,0 +1,19 @@
+{
+  "internalId": 717730170,
+  "name": "Forest Wraith's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    192028,
+    192030,
+    192032,
+    192034,
+    192036,
+    192038,
+    192040,
+    192042,
+    192044,
+    192046
+  ]
+}

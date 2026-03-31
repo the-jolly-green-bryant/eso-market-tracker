@@ -1,0 +1,18 @@
+{
+  "internalId": 1090364744,
+  "name": "Epaulets of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86764,
+    86785,
+    86806,
+    86827,
+    86848,
+    86869,
+    86890,
+    86911,
+    86932
+  ]
+}

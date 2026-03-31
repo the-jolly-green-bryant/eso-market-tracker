@@ -1,0 +1,10 @@
+{
+  "internalId": 923672934,
+  "name": "Deer Head, Wall Mount",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_trophy_deer001.png",
+  "bindType": -1,
+  "knownIds": [
+    118279
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4059198547,
+  "name": "Argonian Table, Rough",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_table001.png",
+  "bindType": -1,
+  "knownIds": [
+    115442
+  ]
+}

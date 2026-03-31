@@ -1,0 +1,19 @@
+{
+  "internalId": 2725466135,
+  "name": "Heartland Conqueror's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172861,
+    172916,
+    172951,
+    172986,
+    173021,
+    173056,
+    173091,
+    173126,
+    173161,
+    173196
+  ]
+}

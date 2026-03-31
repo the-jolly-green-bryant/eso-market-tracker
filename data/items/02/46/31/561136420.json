@@ -1,0 +1,10 @@
+{
+  "internalId": 561136420,
+  "name": "Grass, Wispy Plume Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_grasstallthin006.png",
+  "bindType": -1,
+  "knownIds": [
+    212578
+  ]
+}

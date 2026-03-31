@@ -1,0 +1,19 @@
+{
+  "internalId": 33418617,
+  "name": "Hist Whisperer's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172477,
+    172532,
+    172567,
+    172602,
+    172637,
+    172672,
+    172707,
+    172742,
+    172777,
+    172812
+  ]
+}

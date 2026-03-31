@@ -1,0 +1,17 @@
+{
+  "internalId": 773809922,
+  "name": "Inferno Staff of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204249,
+    204269,
+    204289,
+    204309,
+    204329,
+    204349,
+    204369,
+    204389
+  ]
+}

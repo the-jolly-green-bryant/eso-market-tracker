@@ -1,0 +1,17 @@
+{
+  "internalId": 2143056070,
+  "name": "Dagger of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84531,
+    84551,
+    84571,
+    84591,
+    84611,
+    84631,
+    84651,
+    84671
+  ]
+}

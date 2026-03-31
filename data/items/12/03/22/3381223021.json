@@ -1,0 +1,10 @@
+{
+  "internalId": 3381223021,
+  "name": "Leyawiin Pitcher, Cracked",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenlopot001.png",
+  "bindType": -1,
+  "knownIds": [
+    175661
+  ]
+}

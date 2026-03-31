@@ -1,0 +1,19 @@
+{
+  "internalId": 3426999014,
+  "name": "Sload's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136081,
+    136116,
+    136151,
+    136186,
+    136221,
+    136256,
+    136291,
+    136326,
+    136361,
+    136396
+  ]
+}

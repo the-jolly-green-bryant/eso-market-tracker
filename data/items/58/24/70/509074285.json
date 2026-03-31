@@ -1,0 +1,16 @@
+{
+  "internalId": 509074285,
+  "name": "Ring of the Essence Thief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    941937,
+    952434,
+    978624,
+    1122209,
+    1132114,
+    1447650,
+    1490676
+  ]
+}

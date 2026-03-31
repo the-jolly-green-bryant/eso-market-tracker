@@ -1,0 +1,17 @@
+{
+  "internalId": 3146862454,
+  "name": "Jerkin of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90245,
+    90266,
+    90287,
+    90308,
+    90329,
+    90350,
+    90371,
+    90392
+  ]
+}

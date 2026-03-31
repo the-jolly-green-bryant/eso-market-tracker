@@ -1,0 +1,17 @@
+{
+  "internalId": 4241331090,
+  "name": "Battle Axe of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101702,
+    101722,
+    101742,
+    101762,
+    101782,
+    101802,
+    101822,
+    101842
+  ]
+}

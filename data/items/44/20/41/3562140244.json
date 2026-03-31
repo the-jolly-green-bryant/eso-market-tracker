@@ -1,0 +1,10 @@
+{
+  "internalId": 3562140244,
+  "name": "Crown Mimic Stone",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafing_universal_item.png",
+  "bindType": -1,
+  "knownIds": [
+    932413
+  ]
+}

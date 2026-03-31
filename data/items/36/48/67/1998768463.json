@@ -1,0 +1,22 @@
+{
+  "internalId": 1998768463,
+  "name": "Sword of the Undaunted Unweaver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_1hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1073372,
+    1140988,
+    1234763,
+    1328772,
+    1364165,
+    1401018,
+    1525566,
+    1553148,
+    1559351,
+    1568276,
+    1573785,
+    1593797,
+    1641634
+  ]
+}

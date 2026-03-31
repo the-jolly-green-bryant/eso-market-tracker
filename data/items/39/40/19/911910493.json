@@ -1,0 +1,10 @@
+{
+  "internalId": 911910493,
+  "name": "Light: Bahraha's Curse",
+  "description": "An All Armor set found in Hew's Bane.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    175553
+  ]
+}

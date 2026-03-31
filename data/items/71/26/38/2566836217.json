@@ -1,0 +1,10 @@
+{
+  "internalId": 2566836217,
+  "name": "Nirnroot Wine",
+  "description": "This is an obsolete item. It no longer has any in-game value and is safe to destroy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wine_003.png",
+  "bindType": -1,
+  "knownIds": [
+    43517
+  ]
+}

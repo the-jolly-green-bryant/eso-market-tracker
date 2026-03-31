@@ -1,0 +1,14 @@
+{
+  "internalId": 3165166539,
+  "name": "Grave-Stake Collector Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143007,
+    143042,
+    143077,
+    143112,
+    143147
+  ]
+}

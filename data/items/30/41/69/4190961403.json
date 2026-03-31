@@ -1,0 +1,10 @@
+{
+  "internalId": 4190961403,
+  "name": "Redoran Cup, Empty",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlacup001c_empty.png",
+  "bindType": -1,
+  "knownIds": [
+    126527
+  ]
+}

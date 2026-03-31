@@ -1,0 +1,10 @@
+{
+  "internalId": 1386983561,
+  "name": "Redguard Brazier, Robust",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varbrazier002.png",
+  "bindType": -1,
+  "knownIds": [
+    117752
+  ]
+}

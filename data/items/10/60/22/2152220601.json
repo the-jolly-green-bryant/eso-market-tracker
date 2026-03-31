@@ -1,0 +1,17 @@
+{
+  "internalId": 2152220601,
+  "name": "Battle Axe of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88354,
+    88374,
+    88394,
+    88414,
+    88434,
+    88454,
+    88474,
+    88494
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 798980279,
+  "name": "Blackrose Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1275207,
+    1345686,
+    1371424,
+    1416202,
+    1494324,
+    1514050,
+    1552107,
+    1658416,
+    1660553,
+    1774706
+  ]
+}

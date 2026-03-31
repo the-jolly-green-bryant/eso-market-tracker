@@ -1,0 +1,10 @@
+{
+  "internalId": 3496985654,
+  "name": "Coral Spire, Branched",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_coral006.png",
+  "bindType": -1,
+  "knownIds": [
+    139328
+  ]
+}

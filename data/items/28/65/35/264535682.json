@@ -1,0 +1,10 @@
+{
+  "internalId": 264535682,
+  "name": "Breton Table, Dining",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_tablepeasantrect001.png",
+  "bindType": -1,
+  "knownIds": [
+    115165
+  ]
+}

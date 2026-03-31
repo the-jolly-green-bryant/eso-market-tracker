@@ -1,0 +1,17 @@
+{
+  "internalId": 2372763112,
+  "name": "Dagger of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90114,
+    90127,
+    90140,
+    90153,
+    90166,
+    90179,
+    90192,
+    90205
+  ]
+}

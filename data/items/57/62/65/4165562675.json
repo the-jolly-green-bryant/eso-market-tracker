@@ -1,0 +1,17 @@
+{
+  "internalId": 4165562675,
+  "name": "Inferno Staff of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194198,
+    194218,
+    194238,
+    194258,
+    194278,
+    194298,
+    194318,
+    194338
+  ]
+}

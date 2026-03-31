@@ -1,0 +1,10 @@
+{
+  "internalId": 1171268929,
+  "name": "Stone of Tusenend",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png",
+  "bindType": -1,
+  "knownIds": [
+    1149298
+  ]
+}

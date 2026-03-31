@@ -1,0 +1,23 @@
+{
+  "internalId": 474087891,
+  "name": "Rattlecage Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    937374,
+    1086204,
+    1214903,
+    1233605,
+    1393652,
+    1401036,
+    1463878,
+    1532262,
+    1565112,
+    1607940,
+    1620054,
+    1679880,
+    1725222,
+    1779185
+  ]
+}

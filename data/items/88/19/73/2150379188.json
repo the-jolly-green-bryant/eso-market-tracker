@@ -1,0 +1,19 @@
+{
+  "internalId": 2150379188,
+  "name": "Chimera's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191244,
+    191299,
+    191334,
+    191369,
+    191404,
+    191439,
+    191474,
+    191509,
+    191544,
+    191579
+  ]
+}

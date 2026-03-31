@@ -1,0 +1,16 @@
+{
+  "internalId": 3127302235,
+  "name": "Corpseburster Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729062,
+    1729077,
+    1729084,
+    1750025,
+    1751205,
+    1760431,
+    1779066
+  ]
+}

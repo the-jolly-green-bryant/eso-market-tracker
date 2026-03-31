@@ -1,0 +1,19 @@
+{
+  "internalId": 1530052716,
+  "name": "Chimera's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191251,
+    191306,
+    191341,
+    191376,
+    191411,
+    191446,
+    191481,
+    191516,
+    191551,
+    191586
+  ]
+}

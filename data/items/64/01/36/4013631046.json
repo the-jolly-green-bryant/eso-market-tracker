@@ -1,0 +1,17 @@
+{
+  "internalId": 4013631046,
+  "name": "Sword of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92815,
+    92835,
+    92855,
+    92875,
+    92895,
+    92915,
+    92935,
+    92955
+  ]
+}

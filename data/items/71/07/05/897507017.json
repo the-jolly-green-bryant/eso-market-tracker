@@ -1,0 +1,17 @@
+{
+  "internalId": 897507017,
+  "name": "Restoration Staff of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90238,
+    90259,
+    90280,
+    90301,
+    90322,
+    90343,
+    90364,
+    90385
+  ]
+}

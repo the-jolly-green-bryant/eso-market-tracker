@@ -1,0 +1,16 @@
+{
+  "internalId": 1696723908,
+  "name": "Sithis' Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77298,
+    77333,
+    77368,
+    77403,
+    77438,
+    77473,
+    77508
+  ]
+}

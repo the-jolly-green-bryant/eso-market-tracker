@@ -1,0 +1,17 @@
+{
+  "internalId": 683056404,
+  "name": "Jerkin of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91200,
+    91221,
+    91242,
+    91263,
+    91284,
+    91305,
+    91326,
+    91347
+  ]
+}

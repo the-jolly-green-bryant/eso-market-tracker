@@ -1,0 +1,19 @@
+{
+  "internalId": 1414794894,
+  "name": "Telvanni Efficiency Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194971,
+    195026,
+    195061,
+    195096,
+    195131,
+    195166,
+    195201,
+    195236,
+    195271,
+    195306
+  ]
+}

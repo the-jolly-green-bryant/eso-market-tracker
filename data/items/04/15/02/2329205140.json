@@ -1,0 +1,10 @@
+{
+  "internalId": 2329205140,
+  "name": "Redguard Dome, Mosaic",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_waf_housingvarcitywalldividerdome001.png",
+  "bindType": -1,
+  "knownIds": [
+    203135
+  ]
+}

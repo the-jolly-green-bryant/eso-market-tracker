@@ -1,0 +1,25 @@
+{
+  "internalId": 232656115,
+  "name": "Mace of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_1hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1064996,
+    1130251,
+    1176055,
+    1184479,
+    1199446,
+    1281481,
+    1376158,
+    1404581,
+    1498347,
+    1514752,
+    1546754,
+    1551938,
+    1560399,
+    1619537,
+    1653854,
+    1738484
+  ]
+}

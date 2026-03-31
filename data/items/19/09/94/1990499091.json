@@ -1,0 +1,11 @@
+{
+  "internalId": 1990499091,
+  "name": "Master Blacksmithing Writ",
+  "description": "An exclusive, secret contract for a weapon of rare quality.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_blacksmithing.png",
+  "bindType": -1,
+  "knownIds": [
+    121527,
+    121529
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2453328452,
+  "name": "Coldharbour's Favorite Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147975,
+    148030,
+    148065,
+    148100,
+    148135,
+    148170,
+    148205,
+    148240,
+    148275,
+    148310
+  ]
+}

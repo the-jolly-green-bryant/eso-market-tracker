@@ -1,0 +1,10 @@
+{
+  "internalId": 3739884565,
+  "name": "Hallin's War Belt",
+  "description": "A gift from the people of Hallin's Stand for liberating Grandeya Nuwarrah and sparking the resistance against Imperial occupation.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    26163
+  ]
+}

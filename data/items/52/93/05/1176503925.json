@@ -1,0 +1,17 @@
+{
+  "internalId": 1176503925,
+  "name": "Epaulets of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91965,
+    91986,
+    92007,
+    92028,
+    92049,
+    92070,
+    92091,
+    92112
+  ]
+}

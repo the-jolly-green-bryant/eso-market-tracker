@@ -1,0 +1,10 @@
+{
+  "internalId": 3256035335,
+  "name": "Sandgrubber Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    560049
+  ]
+}

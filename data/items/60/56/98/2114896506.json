@@ -1,0 +1,10 @@
+{
+  "internalId": 2114896506,
+  "name": "Apocrypha Ink Pestle, Black",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_mortarpestle001.png",
+  "bindType": -1,
+  "knownIds": [
+    198380
+  ]
+}

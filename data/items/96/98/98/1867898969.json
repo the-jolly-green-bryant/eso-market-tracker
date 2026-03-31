@@ -1,0 +1,13 @@
+{
+  "internalId": 1867898969,
+  "name": "Briarheart Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_dagger_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129704,
+    129716,
+    129728,
+    129740
+  ]
+}

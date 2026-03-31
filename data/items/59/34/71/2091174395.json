@@ -1,0 +1,31 @@
+{
+  "internalId": 2091174395,
+  "name": "iron greatsword of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    594481,
+    668398,
+    432066,
+    430586,
+    463760,
+    690760,
+    412617,
+    412459,
+    390382,
+    412342,
+    702119,
+    433929,
+    539163,
+    461840,
+    432123,
+    591951,
+    607590,
+    592609,
+    794428,
+    477643,
+    1065481,
+    1128900
+  ]
+}

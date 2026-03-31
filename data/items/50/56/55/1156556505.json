@@ -1,0 +1,17 @@
+{
+  "internalId": 1156556505,
+  "name": "Ice Staff of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98702,
+    98723,
+    98744,
+    98765,
+    98786,
+    98807,
+    98828,
+    98849
+  ]
+}

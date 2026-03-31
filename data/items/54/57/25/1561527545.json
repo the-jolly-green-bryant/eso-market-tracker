@@ -1,0 +1,13 @@
+{
+  "internalId": 1561527545,
+  "name": "Nedras' Journal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    632320,
+    616320,
+    395556,
+    1092643
+  ]
+}

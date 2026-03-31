@@ -1,0 +1,19 @@
+{
+  "internalId": 294193410,
+  "name": "Greatsword of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60651,
+    60686,
+    60721,
+    60756,
+    60791,
+    60826,
+    60861,
+    60896,
+    60931,
+    60966
+  ]
+}

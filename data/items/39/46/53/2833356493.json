@@ -1,0 +1,10 @@
+{
+  "internalId": 2833356493,
+  "name": "Pumpkin, Frail",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_crp_pumpkinlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    130316
+  ]
+}

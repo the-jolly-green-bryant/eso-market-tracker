@@ -1,0 +1,14 @@
+{
+  "internalId": 3311145481,
+  "name": "Breeches of the Undaunted Unweaver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58659,
+    58680,
+    58701,
+    58722,
+    58743
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2978973801,
+  "name": "Signaling Sun Dial",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png",
+  "bindType": -1,
+  "knownIds": [
+    707361
+  ]
+}

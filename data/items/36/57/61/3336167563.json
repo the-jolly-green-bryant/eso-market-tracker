@@ -1,0 +1,10 @@
+{
+  "internalId": 3336167563,
+  "name": "Elsweyr Vessel, Umber Embellished",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_smallbox001.png",
+  "bindType": -1,
+  "knownIds": [
+    151663
+  ]
+}

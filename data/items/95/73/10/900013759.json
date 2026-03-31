@@ -1,0 +1,10 @@
+{
+  "internalId": 900013759,
+  "name": "Redguard Vase, Golden",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldvase003.png",
+  "bindType": -1,
+  "knownIds": [
+    145470
+  ]
+}

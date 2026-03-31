@@ -1,0 +1,10 @@
+{
+  "internalId": 4155303913,
+  "name": "Time Buckler of the Green Pact",
+  "description": "This shield shimmers with faint purple light.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34663
+  ]
+}

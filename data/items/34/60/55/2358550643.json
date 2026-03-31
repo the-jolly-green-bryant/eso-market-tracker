@@ -1,0 +1,11 @@
+{
+  "internalId": 2358550643,
+  "name": "Mammoth Snout Pie",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
+  "bindType": -1,
+  "knownIds": [
+    32155,
+    33903
+  ]
+}

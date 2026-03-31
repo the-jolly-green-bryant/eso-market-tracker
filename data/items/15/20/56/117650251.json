@@ -1,0 +1,17 @@
+{
+  "internalId": 117650251,
+  "name": "Inferno Staff of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86198,
+    86219,
+    86240,
+    86261,
+    86282,
+    86303,
+    86324,
+    86345
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 117901442,
+  "name": "Token of Root Sunder",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_corrupted_seed.png",
+  "bindType": -1,
+  "knownIds": [
+    820660,
+    571274,
+    757030
+  ]
+}

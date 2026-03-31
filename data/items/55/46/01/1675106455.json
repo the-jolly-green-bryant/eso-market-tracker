@@ -1,0 +1,17 @@
+{
+  "internalId": 1675106455,
+  "name": "Shared Burden Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215193,
+    215228,
+    215263,
+    215298,
+    215333,
+    215368,
+    215403,
+    215438
+  ]
+}

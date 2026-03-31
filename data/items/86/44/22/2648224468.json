@@ -1,0 +1,17 @@
+{
+  "internalId": 2648224468,
+  "name": "Deadlands Assassin's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172137,
+    172157,
+    172177,
+    172197,
+    172217,
+    172237,
+    172257,
+    172277
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 220174221,
+  "name": "Dragonguard Elite's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155234,
+    155254,
+    155274,
+    155294,
+    155314,
+    155334,
+    155354,
+    155374,
+    155394
+  ]
+}

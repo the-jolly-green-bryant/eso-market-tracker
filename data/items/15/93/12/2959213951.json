@@ -1,0 +1,17 @@
+{
+  "internalId": 2959213951,
+  "name": "Gauntlets of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88184,
+    88204,
+    88224,
+    88244,
+    88264,
+    88284,
+    88304,
+    88324
+  ]
+}

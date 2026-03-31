@@ -1,0 +1,10 @@
+{
+  "internalId": 867289055,
+  "name": "Nord Hutch, Rough",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_cupboard001.png",
+  "bindType": -1,
+  "knownIds": [
+    115353
+  ]
+}

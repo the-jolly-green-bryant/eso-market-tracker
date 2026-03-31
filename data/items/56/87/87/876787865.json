@@ -1,0 +1,10 @@
+{
+  "internalId": 876787865,
+  "name": "Bush, Flowering Scrub",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_craglornscrub001.png",
+  "bindType": -1,
+  "knownIds": [
+    120552
+  ]
+}

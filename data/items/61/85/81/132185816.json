@@ -1,0 +1,16 @@
+{
+  "internalId": 132185816,
+  "name": "Sithis' Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77294,
+    77329,
+    77364,
+    77399,
+    77434,
+    77469,
+    77504
+  ]
+}

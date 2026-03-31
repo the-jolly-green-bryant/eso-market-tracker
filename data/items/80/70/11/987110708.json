@@ -1,0 +1,13 @@
+{
+  "internalId": 987110708,
+  "name": "Xanmeer Genesis Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223410,
+    223445,
+    223480,
+    223515
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3267081133,
+  "name": "Pebble, Stacked Mossy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_shadowfensmall006.png",
+  "bindType": -1,
+  "knownIds": [
+    120631
+  ]
+}

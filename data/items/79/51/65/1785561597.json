@@ -1,0 +1,17 @@
+{
+  "internalId": 1785561597,
+  "name": "Shield of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91958,
+    91979,
+    92000,
+    92021,
+    92042,
+    92063,
+    92084,
+    92105
+  ]
+}

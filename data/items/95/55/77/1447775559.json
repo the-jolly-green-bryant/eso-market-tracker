@@ -1,0 +1,18 @@
+{
+  "internalId": 1447775559,
+  "name": "Renald's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1360778,
+    1360978,
+    1411978,
+    1543869,
+    1567832,
+    1573754,
+    1577106,
+    1593204,
+    1620875
+  ]
+}

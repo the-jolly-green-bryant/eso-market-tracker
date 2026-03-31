@@ -1,0 +1,19 @@
+{
+  "internalId": 480062037,
+  "name": "Telvanni Efficiency Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194960,
+    195015,
+    195050,
+    195085,
+    195120,
+    195155,
+    195190,
+    195225,
+    195260,
+    195295
+  ]
+}

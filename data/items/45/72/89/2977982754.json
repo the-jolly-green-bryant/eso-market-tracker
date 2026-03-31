@@ -1,0 +1,10 @@
+{
+  "internalId": 2977982754,
+  "name": "Amethyst",
+  "description": "Can be used to enhance weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_jewelry_base_amethyst_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    23204
+  ]
+}

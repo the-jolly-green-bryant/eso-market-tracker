@@ -1,0 +1,16 @@
+{
+  "internalId": 3407685448,
+  "name": "Knight Slayer Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123564,
+    123585,
+    123606,
+    123627,
+    123648,
+    123669,
+    123690
+  ]
+}

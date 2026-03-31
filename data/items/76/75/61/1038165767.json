@@ -1,0 +1,17 @@
+{
+  "internalId": 1038165767,
+  "name": "Hexos' Ward Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_med_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180118,
+    180138,
+    180158,
+    180178,
+    180198,
+    180218,
+    180238,
+    180258
+  ]
+}

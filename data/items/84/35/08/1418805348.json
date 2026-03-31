@@ -1,0 +1,10 @@
+{
+  "internalId": 1418805348,
+  "name": "Focus Script: Trauma",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_trauma.png",
+  "bindType": -1,
+  "knownIds": [
+    204557
+  ]
+}

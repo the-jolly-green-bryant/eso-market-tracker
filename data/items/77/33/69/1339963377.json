@@ -1,0 +1,10 @@
+{
+  "internalId": 1339963377,
+  "name": "Flower Patch, Glowstalks",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_chlightstalk008.png",
+  "bindType": -1,
+  "knownIds": [
+    131422
+  ]
+}

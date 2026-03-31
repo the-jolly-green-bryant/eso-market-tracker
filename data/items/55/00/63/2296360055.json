@@ -1,0 +1,10 @@
+{
+  "internalId": 2296360055,
+  "name": "Vvardenfell Mushrooms, Bloodtooth",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdbloodtooth003.png",
+  "bindType": -1,
+  "knownIds": [
+    126589
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3124324860,
+  "name": "Sphinxblade Hatchet",
+  "description": "A holdover from the days when Sphinxmoth was a true garrison, the bite on this axe is as sharp as the day it was forged.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54362
+  ]
+}

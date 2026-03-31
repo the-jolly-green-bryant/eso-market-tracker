@@ -1,0 +1,24 @@
+{
+  "internalId": 3901131686,
+  "name": "Overwhelming Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    944010,
+    1340762,
+    1384646,
+    1397767,
+    1414241,
+    1443813,
+    1527084,
+    1552134,
+    1570827,
+    1573569,
+    1602710,
+    1602716,
+    1605771,
+    1660802,
+    1724299
+  ]
+}

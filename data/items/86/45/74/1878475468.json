@@ -1,0 +1,19 @@
+{
+  "internalId": 1878475468,
+  "name": "Keeper's Insignia",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    581600,
+    813805,
+    800512,
+    844407,
+    1077779,
+    1157813,
+    1164145,
+    1261325,
+    1443754,
+    1452347
+  ]
+}

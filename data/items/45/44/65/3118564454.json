@@ -1,0 +1,10 @@
+{
+  "internalId": 3118564454,
+  "name": "Plant, Marsh Aloe",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkaloeflower005.png",
+  "bindType": -1,
+  "knownIds": [
+    145453
+  ]
+}

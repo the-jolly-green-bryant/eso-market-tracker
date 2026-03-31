@@ -1,0 +1,20 @@
+{
+  "internalId": 503719422,
+  "name": "Pillar of Nirn Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1280128,
+    1310540,
+    1349491,
+    1544505,
+    1564142,
+    1582070,
+    1600938,
+    1640794,
+    1659307,
+    1680608,
+    1746935
+  ]
+}

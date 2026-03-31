@@ -1,0 +1,15 @@
+{
+  "internalId": 575732935,
+  "name": "Ring of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139713,
+    139803,
+    139893,
+    139983,
+    140073,
+    140163
+  ]
+}

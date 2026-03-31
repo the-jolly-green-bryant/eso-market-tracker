@@ -1,0 +1,10 @@
+{
+  "internalId": 4288443522,
+  "name": "Telvanni End Table, Organic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_telendtableorganic001.png",
+  "bindType": -1,
+  "knownIds": [
+    126425
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3140502558,
+  "name": "Jerkin of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116725,
+    116746,
+    116767,
+    116788,
+    116809,
+    116830,
+    116851,
+    116872
+  ]
+}

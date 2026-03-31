@@ -1,0 +1,13 @@
+{
+  "internalId": 3305255594,
+  "name": "Bow of the Worm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77745,
+    77781,
+    77817,
+    77853
+  ]
+}

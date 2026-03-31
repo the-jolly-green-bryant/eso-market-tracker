@@ -1,0 +1,17 @@
+{
+  "internalId": 2201738235,
+  "name": "Mace of Prayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90419,
+    90440,
+    90461,
+    90482,
+    90503,
+    90524,
+    90545,
+    90566
+  ]
+}

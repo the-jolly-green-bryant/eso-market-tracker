@@ -1,0 +1,10 @@
+{
+  "internalId": 2016248778,
+  "name": "Orsinium Sarcophagus, Warrior's",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgsarcophagus002.png",
+  "bindType": -1,
+  "knownIds": [
+    132152
+  ]
+}

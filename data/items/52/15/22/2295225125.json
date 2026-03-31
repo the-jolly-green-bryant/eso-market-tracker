@@ -1,0 +1,24 @@
+{
+  "internalId": 2295225125,
+  "name": "Gossamer Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    936996,
+    979061,
+    1069346,
+    1123192,
+    1134005,
+    1147303,
+    1165255,
+    1276402,
+    1388606,
+    1420438,
+    1538784,
+    1605642,
+    1722937,
+    1764583,
+    1776956
+  ]
+}

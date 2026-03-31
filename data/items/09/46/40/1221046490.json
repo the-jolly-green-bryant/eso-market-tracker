@@ -1,0 +1,14 @@
+{
+  "internalId": 1221046490,
+  "name": "Grave-Stake Collector Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142990,
+    143025,
+    143060,
+    143095,
+    143130
+  ]
+}

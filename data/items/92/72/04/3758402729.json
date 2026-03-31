@@ -1,0 +1,10 @@
+{
+  "internalId": 3758402729,
+  "name": "Crafting Motif 113: Steadfast Society Style",
+  "description": "Use to learn the Steadfast Society crafting style. Also teaches the equivalent Steadfast Society Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    182537
+  ]
+}

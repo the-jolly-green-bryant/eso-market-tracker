@@ -1,0 +1,10 @@
+{
+  "internalId": 1267059730,
+  "name": "Leyawiin Platform, Narrow Steps",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastleplatformstairsint001.png",
+  "bindType": -1,
+  "knownIds": [
+    181531
+  ]
+}

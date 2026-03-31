@@ -1,0 +1,17 @@
+{
+  "internalId": 3828889936,
+  "name": "Battle Axe of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2haxe_b.png",
+  "bindType": 2,
+  "knownIds": [
+    87121,
+    87142,
+    87163,
+    87184,
+    87205,
+    87226,
+    87247,
+    87268
+  ]
+}

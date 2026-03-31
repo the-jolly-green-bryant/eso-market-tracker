@@ -1,0 +1,19 @@
+{
+  "internalId": 2720726025,
+  "name": "Druid's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185550,
+    185605,
+    185640,
+    185675,
+    185710,
+    185745,
+    185780,
+    185815,
+    185850,
+    185885
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1346114906,
+  "name": "Soldier of Anguish Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144475,
+    144495,
+    144515,
+    144535,
+    144555,
+    144575,
+    144595,
+    144615
+  ]
+}

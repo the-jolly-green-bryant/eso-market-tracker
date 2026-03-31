@@ -1,0 +1,17 @@
+{
+  "internalId": 2392428094,
+  "name": "Macabre Vintage Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hsword.png",
+  "bindType": 2,
+  "knownIds": [
+    205062,
+    205082,
+    205102,
+    205122,
+    205142,
+    205162,
+    205182,
+    205202
+  ]
+}

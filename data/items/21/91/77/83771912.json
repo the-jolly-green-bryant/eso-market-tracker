@@ -1,0 +1,10 @@
+{
+  "internalId": 83771912,
+  "name": "Argonian Rack, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_dryingrack001.png",
+  "bindType": -1,
+  "knownIds": [
+    115430
+  ]
+}

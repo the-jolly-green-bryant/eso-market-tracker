@@ -1,0 +1,10 @@
+{
+  "internalId": 4252606242,
+  "name": "Redguard Tapestry, Starry",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varawningstandaloneside001.png",
+  "bindType": -1,
+  "knownIds": [
+    117861
+  ]
+}

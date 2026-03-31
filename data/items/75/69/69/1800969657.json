@@ -1,0 +1,19 @@
+{
+  "internalId": 1800969657,
+  "name": "dwarven greatsword of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    603168,
+    462891,
+    663940,
+    671938,
+    487775,
+    482104,
+    454942,
+    762939,
+    636695,
+    871912
+  ]
+}

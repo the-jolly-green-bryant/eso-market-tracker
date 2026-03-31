@@ -1,0 +1,10 @@
+{
+  "internalId": 10213474,
+  "name": "Silver Ounce",
+  "description": "An ingredient for crafting jewelry.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_silver_refined.png",
+  "bindType": -1,
+  "knownIds": [
+    135142
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 2577815637,
+  "name": "Sourflower Tea",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_003.png",
+  "bindType": -1,
+  "knownIds": [
+    32086,
+    28453
+  ]
+}

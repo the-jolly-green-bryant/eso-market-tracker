@@ -1,0 +1,10 @@
+{
+  "internalId": 798200795,
+  "name": "Breton Shelf, Scrolled",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_wallshelf001.png",
+  "bindType": -1,
+  "knownIds": [
+    115196
+  ]
+}

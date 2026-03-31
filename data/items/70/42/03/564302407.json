@@ -1,0 +1,10 @@
+{
+  "internalId": 564302407,
+  "name": "Alinor Goblet, Simple",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altcup001.png",
+  "bindType": -1,
+  "knownIds": [
+    139288
+  ]
+}

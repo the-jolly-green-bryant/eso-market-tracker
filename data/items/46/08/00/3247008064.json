@@ -1,0 +1,17 @@
+{
+  "internalId": 3247008064,
+  "name": "Bow of the Valiant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92638,
+    92658,
+    92678,
+    92698,
+    92718,
+    92738,
+    92758,
+    92778
+  ]
+}

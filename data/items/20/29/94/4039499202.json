@@ -1,0 +1,13 @@
+{
+  "internalId": 4039499202,
+  "name": "Axe of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129638,
+    129650,
+    129662,
+    129674
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2351346183,
+  "name": "Inferno Staff of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84533,
+    84553,
+    84573,
+    84593,
+    84613,
+    84633,
+    84653,
+    84673
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2433371700,
+  "name": "Alchemist's Best Satchel",
+  "description": "Contains a full stack of some of the best potions available.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 3,
+  "knownIds": [
+    55843
+  ]
+}

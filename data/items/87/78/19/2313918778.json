@@ -1,0 +1,10 @@
+{
+  "internalId": 2313918778,
+  "name": "Giant-Friend",
+  "description": "The mysterious Aspera gave you this bow for helping the giants drive Lob the Cleaver and the Stormfists out of Cradlecrush.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7705
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1191037758,
+  "name": "Brands of Imperium",
+  "description": "A Heavy Armor set found in White-Gold Tower.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134231
+  ]
+}

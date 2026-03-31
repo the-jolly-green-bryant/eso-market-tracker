@@ -1,0 +1,19 @@
+{
+  "internalId": 2217138099,
+  "name": "Karth's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168397,
+    168452,
+    168487,
+    168522,
+    168557,
+    168592,
+    168627,
+    168662,
+    168697,
+    168732
+  ]
+}

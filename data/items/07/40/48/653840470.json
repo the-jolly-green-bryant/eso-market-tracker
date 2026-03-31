@@ -1,0 +1,17 @@
+{
+  "internalId": 653840470,
+  "name": "Bog Raider's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172297,
+    172317,
+    172337,
+    172357,
+    172377,
+    172397,
+    172417,
+    172437
+  ]
+}

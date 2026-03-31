@@ -1,0 +1,17 @@
+{
+  "internalId": 123584097,
+  "name": "Mace of Oakfather's Retribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    203904,
+    203925,
+    203946,
+    203967,
+    203988,
+    204009,
+    204030,
+    204051
+  ]
+}

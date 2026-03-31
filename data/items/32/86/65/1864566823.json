@@ -1,0 +1,10 @@
+{
+  "internalId": 1864566823,
+  "name": "Crafting Motif 67: Welkynar Maces",
+  "description": "Use to learn how to make Welkynar Maces. Also teaches the equivalent Welkynar outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    140506
+  ]
+}

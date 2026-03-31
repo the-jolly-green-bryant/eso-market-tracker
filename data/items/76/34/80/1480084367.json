@@ -1,0 +1,17 @@
+{
+  "internalId": 1480084367,
+  "name": "Maul of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74897,
+    74918,
+    74939,
+    74960,
+    74981,
+    75002,
+    75023,
+    75044
+  ]
+}

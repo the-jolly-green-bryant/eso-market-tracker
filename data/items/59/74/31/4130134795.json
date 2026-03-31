@@ -1,0 +1,13 @@
+{
+  "internalId": 4130134795,
+  "name": "Umbral Edge Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_axe.png",
+  "bindType": -1,
+  "knownIds": [
+    1753218,
+    1764526,
+    1770589,
+    1775227
+  ]
+}

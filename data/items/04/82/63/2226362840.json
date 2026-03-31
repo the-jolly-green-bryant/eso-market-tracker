@@ -1,0 +1,17 @@
+{
+  "internalId": 2226362840,
+  "name": "Ice Staff of the Veiled Heritance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    94265,
+    94285,
+    94305,
+    94325,
+    94345,
+    94365,
+    94385,
+    94405
+  ]
+}

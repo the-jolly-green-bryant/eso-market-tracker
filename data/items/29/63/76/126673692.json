@@ -1,0 +1,17 @@
+{
+  "internalId": 126673692,
+  "name": "Senche's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    81013,
+    81033,
+    81053,
+    81073,
+    81093,
+    81105,
+    81125,
+    81145
+  ]
+}

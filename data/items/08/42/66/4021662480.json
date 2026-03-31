@@ -1,0 +1,17 @@
+{
+  "internalId": 4021662480,
+  "name": "Battalion Defender Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144831,
+    144851,
+    144871,
+    144891,
+    144911,
+    144931,
+    144951,
+    144971
+  ]
+}

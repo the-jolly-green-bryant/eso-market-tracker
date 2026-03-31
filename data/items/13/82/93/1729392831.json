@@ -1,0 +1,17 @@
+{
+  "internalId": 1729392831,
+  "name": "Vanus's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135534,
+    135555,
+    135576,
+    135597,
+    135618,
+    135639,
+    135660,
+    135681
+  ]
+}

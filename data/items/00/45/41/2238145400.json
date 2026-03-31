@@ -1,0 +1,10 @@
+{
+  "internalId": 2238145400,
+  "name": "Barefoot Breton's Shoes",
+  "description": "Footwear received after helping Parquier find his missing items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    26133
+  ]
+}

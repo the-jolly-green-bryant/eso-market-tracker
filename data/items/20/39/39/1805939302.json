@@ -1,0 +1,10 @@
+{
+  "internalId": 1805939302,
+  "name": "Leyawiin Wall, Wooden Half",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leywall003.png",
+  "bindType": -1,
+  "knownIds": [
+    181522
+  ]
+}

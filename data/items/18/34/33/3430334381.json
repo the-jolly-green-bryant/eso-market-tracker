@@ -1,0 +1,15 @@
+{
+  "internalId": 3430334381,
+  "name": "Helm of Affliction",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    64750,
+    64757,
+    64786,
+    64793,
+    64822,
+    64829
+  ]
+}

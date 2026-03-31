@@ -1,0 +1,17 @@
+{
+  "internalId": 2680850293,
+  "name": "Blunted Blades Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204090,
+    204110,
+    204130,
+    204150,
+    204170,
+    204190,
+    204210,
+    204230
+  ]
+}

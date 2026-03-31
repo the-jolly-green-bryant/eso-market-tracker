@@ -1,0 +1,12 @@
+{
+  "internalId": 3539070777,
+  "name": "Spattering Disjunction Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735146,
+    1764339,
+    1764542
+  ]
+}

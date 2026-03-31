@@ -1,0 +1,10 @@
+{
+  "internalId": 3915163969,
+  "name": "Orsinium Statue, Head",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_str_stoneheadmoving001.png",
+  "bindType": -1,
+  "knownIds": [
+    132148
+  ]
+}

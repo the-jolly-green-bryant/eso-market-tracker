@@ -1,0 +1,22 @@
+{
+  "internalId": 2340504770,
+  "name": "Grave Guardian's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1354207,
+    1356315,
+    1383632,
+    1387726,
+    1547859,
+    1568538,
+    1593484,
+    1623255,
+    1684131,
+    1693467,
+    1715995,
+    1715996,
+    1718061
+  ]
+}

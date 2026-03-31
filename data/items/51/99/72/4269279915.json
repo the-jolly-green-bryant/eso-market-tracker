@@ -1,0 +1,11 @@
+{
+  "internalId": 4269279915,
+  "name": "Rimmen Sour Bock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
+  "bindType": -1,
+  "knownIds": [
+    61067,
+    57182
+  ]
+}

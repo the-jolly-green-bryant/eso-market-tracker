@@ -1,0 +1,18 @@
+{
+  "internalId": 1264634674,
+  "name": "Jorvuld's Guidance Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1254842,
+    1340729,
+    1412180,
+    1467124,
+    1544031,
+    1581560,
+    1595285,
+    1624903,
+    1691970
+  ]
+}

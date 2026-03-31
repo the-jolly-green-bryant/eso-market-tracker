@@ -1,0 +1,17 @@
+{
+  "internalId": 3777111989,
+  "name": "Mace of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92814,
+    92834,
+    92854,
+    92874,
+    92894,
+    92914,
+    92934,
+    92954
+  ]
+}

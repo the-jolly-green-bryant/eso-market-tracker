@@ -1,0 +1,10 @@
+{
+  "internalId": 218352573,
+  "name": "Arsonist's Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    800511
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1200594163,
+  "name": "Khajiit Barstool, Padded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_stool002.png",
+  "bindType": -1,
+  "knownIds": [
+    115678
+  ]
+}

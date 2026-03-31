@@ -1,0 +1,10 @@
+{
+  "internalId": 2937829350,
+  "name": "Clockwork Somnolostation, Octet",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_evilgardenmachine001.png",
+  "bindType": -1,
+  "knownIds": [
+    134337
+  ]
+}

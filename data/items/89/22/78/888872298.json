@@ -1,0 +1,17 @@
+{
+  "internalId": 888872298,
+  "name": "Deadlands Assassin's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_shield_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172135,
+    172155,
+    172175,
+    172195,
+    172215,
+    172235,
+    172255,
+    172275
+  ]
+}

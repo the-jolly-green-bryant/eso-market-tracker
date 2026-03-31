@@ -1,0 +1,14 @@
+{
+  "internalId": 195434089,
+  "name": "Vivec's Ice Staff of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195772,
+    195793,
+    195814,
+    195835,
+    195856
+  ]
+}

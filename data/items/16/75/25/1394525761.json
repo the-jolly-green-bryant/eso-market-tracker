@@ -1,0 +1,10 @@
+{
+  "internalId": 1394525761,
+  "name": "Velothi Panels, Waterfall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_paintingclrg002.png",
+  "bindType": -1,
+  "knownIds": [
+    126598
+  ]
+}

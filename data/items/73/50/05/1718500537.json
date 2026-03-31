@@ -1,0 +1,12 @@
+{
+  "internalId": 1718500537,
+  "name": "Soulcleaver Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_sword.png",
+  "bindType": -1,
+  "knownIds": [
+    1696799,
+    1723052,
+    1732001
+  ]
+}

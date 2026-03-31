@@ -1,0 +1,29 @@
+{
+  "internalId": 550938727,
+  "name": "Ice Staff of the Magicka Furnace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1192199,
+    1205156,
+    1210712,
+    1228508,
+    1290649,
+    1290696,
+    1314640,
+    1346354,
+    1372339,
+    1401511,
+    1449515,
+    1565215,
+    1573699,
+    1587507,
+    1588014,
+    1602806,
+    1624800,
+    1632176,
+    1697331,
+    1747857
+  ]
+}

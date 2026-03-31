@@ -1,0 +1,14 @@
+{
+  "internalId": 3529537292,
+  "name": "Shattered Fate Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194776,
+    194811,
+    194846,
+    194881,
+    194916
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2180340298,
+  "name": "Diamond's Victory",
+  "description": "A Crafted Armor set constructed in Blackwood.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182894
+  ]
+}

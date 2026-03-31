@@ -1,0 +1,11 @@
+{
+  "internalId": 3613596157,
+  "name": "Pickled Carrot Slurry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_stew_001.png",
+  "bindType": -1,
+  "knownIds": [
+    57629,
+    43124
+  ]
+}

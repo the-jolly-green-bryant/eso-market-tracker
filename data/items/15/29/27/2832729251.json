@@ -1,0 +1,17 @@
+{
+  "internalId": 2832729251,
+  "name": "Impregnable Armor Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125721,
+    125756,
+    125791,
+    125826,
+    125861,
+    125896,
+    125931,
+    125966
+  ]
+}

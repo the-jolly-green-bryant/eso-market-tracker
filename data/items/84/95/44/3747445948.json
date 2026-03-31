@@ -1,0 +1,17 @@
+{
+  "internalId": 3747445948,
+  "name": "Phoenix Moth Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190542,
+    190562,
+    190582,
+    190602,
+    190622,
+    190642,
+    190662,
+    190682
+  ]
+}

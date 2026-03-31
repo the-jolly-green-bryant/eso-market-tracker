@@ -1,0 +1,17 @@
+{
+  "internalId": 981282788,
+  "name": "Three Queens Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214529,
+    214550,
+    214571,
+    214592,
+    214613,
+    214634,
+    214655,
+    214676
+  ]
+}

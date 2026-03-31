@@ -1,0 +1,10 @@
+{
+  "internalId": 796988584,
+  "name": "Dawn-Prism",
+  "description": "Can be used to enhance jewelry.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_trait_refined_dawnprism.png",
+  "bindType": -1,
+  "knownIds": [
+    139409
+  ]
+}

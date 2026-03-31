@@ -1,0 +1,10 @@
+{
+  "internalId": 1620780867,
+  "name": "Nedic Banner, Forest",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_nedicbannerwood001.png",
+  "bindType": -1,
+  "knownIds": [
+    198046
+  ]
+}

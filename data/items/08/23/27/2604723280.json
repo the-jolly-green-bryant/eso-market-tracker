@@ -1,0 +1,10 @@
+{
+  "internalId": 2604723280,
+  "name": "Redguard Pillow Roll, Oasis",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofapillowcylinder002.png",
+  "bindType": -1,
+  "knownIds": [
+    117776
+  ]
+}

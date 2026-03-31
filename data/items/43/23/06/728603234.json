@@ -1,0 +1,17 @@
+{
+  "internalId": 728603234,
+  "name": "Belt of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78940,
+    78975,
+    79010,
+    79045,
+    79080,
+    79115,
+    79150,
+    79185
+  ]
+}

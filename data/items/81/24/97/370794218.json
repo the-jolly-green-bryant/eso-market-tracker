@@ -1,0 +1,10 @@
+{
+  "internalId": 370794218,
+  "name": "Valenwood Heartleaf",
+  "description": "A souvenir of the Shrine of the Green Lady, the most sacred site in Deepwoods.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    15579
+  ]
+}

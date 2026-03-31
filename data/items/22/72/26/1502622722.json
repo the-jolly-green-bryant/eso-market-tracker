@@ -1,0 +1,10 @@
+{
+  "internalId": 1502622722,
+  "name": "Redguard Censer, Hanging Bulb",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketbrasshanging001.png",
+  "bindType": -1,
+  "knownIds": [
+    121051
+  ]
+}

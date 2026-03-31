@@ -1,0 +1,17 @@
+{
+  "internalId": 3787934339,
+  "name": "Foolkiller's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1422110,
+    1508342,
+    1517603,
+    1560433,
+    1593486,
+    1678966,
+    1779451,
+    1779460
+  ]
+}

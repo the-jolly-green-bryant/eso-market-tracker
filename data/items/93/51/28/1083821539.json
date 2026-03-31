@@ -1,0 +1,11 @@
+{
+  "internalId": 1083821539,
+  "name": "Portable Chamber Pot",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png",
+  "bindType": -1,
+  "knownIds": [
+    796511,
+    1424741
+  ]
+}

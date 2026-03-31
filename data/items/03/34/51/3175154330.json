@@ -1,0 +1,17 @@
+{
+  "internalId": 3175154330,
+  "name": "Mara's Balm Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189854,
+    189874,
+    189894,
+    189914,
+    189934,
+    189954,
+    189974,
+    189994
+  ]
+}

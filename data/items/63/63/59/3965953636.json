@@ -1,0 +1,17 @@
+{
+  "internalId": 3965953636,
+  "name": "Ayleid Refuge Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_sheild.png",
+  "bindType": 2,
+  "knownIds": [
+    205234,
+    205254,
+    205274,
+    205294,
+    205314,
+    205334,
+    205354,
+    205374
+  ]
+}

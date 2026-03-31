@@ -1,0 +1,22 @@
+{
+  "internalId": 3449414539,
+  "name": "full-leather helmet of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    477859,
+    665920,
+    661693,
+    684161,
+    427531,
+    545120,
+    481922,
+    673474,
+    791357,
+    786422,
+    871891,
+    871960,
+    1065389
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2772314690,
+  "name": "Arch to Ayleid Mysteries Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_woodframepaintinggiant01.png",
+  "bindType": -1,
+  "knownIds": [
+    204804
+  ]
+}

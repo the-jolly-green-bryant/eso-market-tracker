@@ -1,0 +1,13 @@
+{
+  "internalId": 1260331963,
+  "name": "Blackfeather Flight Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    214163,
+    214183,
+    214203,
+    214223
+  ]
+}

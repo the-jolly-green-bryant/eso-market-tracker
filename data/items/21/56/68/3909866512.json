@@ -1,0 +1,17 @@
+{
+  "internalId": 3909866512,
+  "name": "Witchman's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101530,
+    101550,
+    101570,
+    101590,
+    101610,
+    101630,
+    101650,
+    101670
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3224985988,
+  "name": "Greaves of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88368,
+    88388,
+    88408,
+    88428,
+    88448,
+    88468,
+    88488,
+    88508
+  ]
+}

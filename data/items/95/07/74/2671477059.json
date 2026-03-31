@@ -1,0 +1,16 @@
+{
+  "internalId": 2671477059,
+  "name": "Lightning Staff of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86946,
+    86966,
+    86986,
+    87006,
+    87026,
+    87046,
+    87066
+  ]
+}

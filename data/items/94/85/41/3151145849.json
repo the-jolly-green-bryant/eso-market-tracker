@@ -1,0 +1,14 @@
+{
+  "internalId": 3151145849,
+  "name": "Marksman's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199464,
+    199465,
+    199466,
+    199467,
+    199468
+  ]
+}

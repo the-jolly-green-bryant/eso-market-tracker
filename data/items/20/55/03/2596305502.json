@@ -1,0 +1,17 @@
+{
+  "internalId": 2596305502,
+  "name": "Darloc Brae's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149452,
+    149472,
+    149492,
+    149512,
+    149532,
+    149552,
+    149572,
+    149592
+  ]
+}

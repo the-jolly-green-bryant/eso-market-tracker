@@ -1,0 +1,17 @@
+{
+  "internalId": 3343369791,
+  "name": "Steadfast's Mettle Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186086,
+    186106,
+    186126,
+    186146,
+    186166,
+    186186,
+    186206,
+    186226
+  ]
+}

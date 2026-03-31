@@ -1,0 +1,10 @@
+{
+  "internalId": 1408478630,
+  "name": "Painting of Palms, Sturdy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_elegant008.png",
+  "bindType": -1,
+  "knownIds": [
+    118223
+  ]
+}

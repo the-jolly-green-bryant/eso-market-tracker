@@ -1,0 +1,19 @@
+{
+  "internalId": 1772636742,
+  "name": "Trappings of Invigoration Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1206587,
+    1212841,
+    1336207,
+    1365308,
+    1365310,
+    1380783,
+    1512287,
+    1529885,
+    1659467,
+    1749321
+  ]
+}

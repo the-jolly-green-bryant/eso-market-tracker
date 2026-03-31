@@ -1,0 +1,10 @@
+{
+  "internalId": 1891682771,
+  "name": "Wine Glass Harp, Sanguine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_u46sanguineglassharp001.png",
+  "bindType": -1,
+  "knownIds": [
+    220345
+  ]
+}

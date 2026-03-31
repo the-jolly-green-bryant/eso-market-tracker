@@ -1,0 +1,20 @@
+{
+  "internalId": 3445261047,
+  "name": "rubedite helm of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    696869,
+    687367,
+    692596,
+    709262,
+    766262,
+    698380,
+    792832,
+    792742,
+    786198,
+    772573,
+    772557
+  ]
+}

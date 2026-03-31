@@ -1,0 +1,19 @@
+{
+  "internalId": 633692599,
+  "name": "Ring of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    173238,
+    173240,
+    173242,
+    173244,
+    173246,
+    173248,
+    173250,
+    173252,
+    173254,
+    173256
+  ]
+}

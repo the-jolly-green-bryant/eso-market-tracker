@@ -1,0 +1,17 @@
+{
+  "internalId": 4263353530,
+  "name": "Inferno Staff of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91572,
+    91593,
+    91614,
+    91635,
+    91656,
+    91677,
+    91698,
+    91719
+  ]
+}

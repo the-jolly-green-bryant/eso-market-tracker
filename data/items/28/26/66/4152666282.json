@@ -1,0 +1,11 @@
+{
+  "internalId": 4152666282,
+  "name": "Runebox: Pumpkin Spectre Mask",
+  "description": "Contains a Pumpkin Spectre Mask.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
+  "bindType": -1,
+  "knownIds": [
+    167937,
+    83516
+  ]
+}

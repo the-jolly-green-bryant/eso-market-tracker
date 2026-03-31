@@ -1,0 +1,11 @@
+{
+  "internalId": 922183020,
+  "name": "Nut Brown Ale",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
+  "bindType": -1,
+  "knownIds": [
+    30438,
+    28401
+  ]
+}

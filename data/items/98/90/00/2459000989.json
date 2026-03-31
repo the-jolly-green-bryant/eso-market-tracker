@@ -1,0 +1,17 @@
+{
+  "internalId": 2459000989,
+  "name": "War Maiden's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122810,
+    122831,
+    122852,
+    122873,
+    122894,
+    122915,
+    122936,
+    122957
+  ]
+}

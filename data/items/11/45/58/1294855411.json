@@ -1,0 +1,10 @@
+{
+  "internalId": 1294855411,
+  "name": "Redguard Canopy, Dawn",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varawning005.png",
+  "bindType": -1,
+  "knownIds": [
+    117767
+  ]
+}

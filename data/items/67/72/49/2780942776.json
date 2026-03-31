@@ -1,0 +1,17 @@
+{
+  "internalId": 2780942776,
+  "name": "Plaguebreak Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180608,
+    180628,
+    180648,
+    180668,
+    180688,
+    180708,
+    180728,
+    180748
+  ]
+}

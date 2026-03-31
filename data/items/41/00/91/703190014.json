@@ -1,0 +1,15 @@
+{
+  "internalId": 703190014,
+  "name": "Eternal Hunt Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72663,
+    72698,
+    72733,
+    72768,
+    72803,
+    72838
+  ]
+}

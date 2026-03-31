@@ -1,0 +1,10 @@
+{
+  "internalId": 1232360521,
+  "name": "Crafting Motif 98: House Hexos Daggers",
+  "description": "Use to learn how to make House Hexos Daggers. Also teaches the equivalent House Hexos Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    170137
+  ]
+}

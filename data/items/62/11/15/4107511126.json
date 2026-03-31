@@ -1,0 +1,17 @@
+{
+  "internalId": 4107511126,
+  "name": "Macabre Vintage Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2haxe.png",
+  "bindType": 2,
+  "knownIds": [
+    205060,
+    205080,
+    205100,
+    205120,
+    205140,
+    205160,
+    205180,
+    205200
+  ]
+}

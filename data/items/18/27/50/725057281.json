@@ -1,0 +1,10 @@
+{
+  "internalId": 725057281,
+  "name": "Leyawiin Palisade, Reinforced",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_leypalisadewallfull002.png",
+  "bindType": -1,
+  "knownIds": [
+    175727
+  ]
+}

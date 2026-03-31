@@ -1,0 +1,17 @@
+{
+  "internalId": 1736700758,
+  "name": "Netch Oil Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211930,
+    211950,
+    211970,
+    211990,
+    212010,
+    212030,
+    212050,
+    212070
+  ]
+}

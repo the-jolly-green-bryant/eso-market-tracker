@@ -1,0 +1,10 @@
+{
+  "internalId": 1586596979,
+  "name": "Daedric War Grab Bag",
+  "description": "This container awards Daedric War Spoils contents from years past which are no longer available.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/zonebag.png",
+  "bindType": 3,
+  "knownIds": [
+    223693
+  ]
+}

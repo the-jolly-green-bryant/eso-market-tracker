@@ -1,0 +1,15 @@
+{
+  "internalId": 602717917,
+  "name": "Ring of Shalidor's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139696,
+    139786,
+    139876,
+    139966,
+    140056,
+    140146
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2469989316,
+  "name": "Barkskin Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92450,
+    92470,
+    92490,
+    92510,
+    92530,
+    92550,
+    92570,
+    92590
+  ]
+}

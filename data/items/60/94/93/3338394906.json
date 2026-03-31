@@ -1,0 +1,10 @@
+{
+  "internalId": 3338394906,
+  "name": "Crafting Motif 63: Dremora Style",
+  "description": "Use to learn the Dremora crafting style. Also teaches the equivalent Dremora outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    140444
+  ]
+}

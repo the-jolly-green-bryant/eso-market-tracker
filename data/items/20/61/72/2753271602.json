@@ -1,0 +1,17 @@
+{
+  "internalId": 2753271602,
+  "name": "Ancient Great Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    573986,
+    793197,
+    1165076,
+    1166964,
+    1376092,
+    1455454,
+    1544530,
+    1716969
+  ]
+}

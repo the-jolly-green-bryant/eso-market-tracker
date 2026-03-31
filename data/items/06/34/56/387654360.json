@@ -1,0 +1,15 @@
+{
+  "internalId": 387654360,
+  "name": "Innate Axiom Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139757,
+    139847,
+    139937,
+    140027,
+    140117,
+    140207
+  ]
+}

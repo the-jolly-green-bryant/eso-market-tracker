@@ -1,0 +1,18 @@
+{
+  "internalId": 3292007625,
+  "name": "Stuhn's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161285,
+    161320,
+    161355,
+    161390,
+    161425,
+    161460,
+    161495,
+    161530,
+    161565
+  ]
+}

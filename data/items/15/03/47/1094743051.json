@@ -1,0 +1,17 @@
+{
+  "internalId": 1094743051,
+  "name": "Axe of High Isle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_axe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185909,
+    185930,
+    185951,
+    185972,
+    185993,
+    186014,
+    186035,
+    186056
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 379355143,
+  "name": "Belt of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117472,
+    117492,
+    117512,
+    117532,
+    117552,
+    117572,
+    117592,
+    117612
+  ]
+}

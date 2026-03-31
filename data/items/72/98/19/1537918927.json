@@ -1,0 +1,10 @@
+{
+  "internalId": 1537918927,
+  "name": "Solitude Pew, Sturdy Long",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bench001.png",
+  "bindType": -1,
+  "knownIds": [
+    165663
+  ]
+}

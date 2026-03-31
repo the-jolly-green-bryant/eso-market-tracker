@@ -1,0 +1,28 @@
+{
+  "internalId": 2003574576,
+  "name": "Bow of Kyne's Wind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_bow.png",
+  "bindType": -1,
+  "knownIds": [
+    1372323,
+    1379312,
+    1381055,
+    1383866,
+    1391479,
+    1406561,
+    1409213,
+    1413589,
+    1413703,
+    1413727,
+    1426285,
+    1457383,
+    1469475,
+    1566970,
+    1615749,
+    1617827,
+    1622600,
+    1716175,
+    1764158
+  ]
+}

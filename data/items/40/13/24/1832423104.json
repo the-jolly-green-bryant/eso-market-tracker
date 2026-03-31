@@ -1,0 +1,17 @@
+{
+  "internalId": 1832423104,
+  "name": "Helmet of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96975,
+    96982,
+    96989,
+    96996,
+    97003,
+    97010,
+    97017,
+    97024
+  ]
+}

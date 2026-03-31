@@ -1,0 +1,10 @@
+{
+  "internalId": 1771881813,
+  "name": "Darkstride Silverhoof Loop",
+  "description": "A ring received for saving the villagers of Silverhoof Vale.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    7300
+  ]
+}

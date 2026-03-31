@@ -1,0 +1,17 @@
+{
+  "internalId": 698772580,
+  "name": "Barkskin Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92454,
+    92474,
+    92494,
+    92514,
+    92534,
+    92554,
+    92574,
+    92594
+  ]
+}

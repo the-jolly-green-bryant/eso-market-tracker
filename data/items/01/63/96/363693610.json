@@ -1,0 +1,13 @@
+{
+  "internalId": 363693610,
+  "name": "Shacklebreaker Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122466,
+    122501,
+    122536,
+    122571
+  ]
+}

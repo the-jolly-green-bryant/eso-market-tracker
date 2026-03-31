@@ -1,0 +1,17 @@
+{
+  "internalId": 2333963756,
+  "name": "Test of Resolve Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1647278,
+    1689790,
+    1691677,
+    1717631,
+    1719456,
+    1769915,
+    1771361,
+    1773983
+  ]
+}

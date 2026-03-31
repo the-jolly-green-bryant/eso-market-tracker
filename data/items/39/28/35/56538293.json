@@ -1,0 +1,17 @@
+{
+  "internalId": 56538293,
+  "name": "Impregnable Armor Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125709,
+    125744,
+    125779,
+    125814,
+    125849,
+    125884,
+    125919,
+    125954
+  ]
+}

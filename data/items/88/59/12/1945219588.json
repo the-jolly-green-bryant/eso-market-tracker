@@ -1,0 +1,10 @@
+{
+  "internalId": 1945219588,
+  "name": "Redguard Slices, Wax",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_grilledmeats001.png",
+  "bindType": -1,
+  "knownIds": [
+    117804
+  ]
+}

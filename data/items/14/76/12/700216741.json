@@ -1,0 +1,10 @@
+{
+  "internalId": 700216741,
+  "name": "Kagrenac's Hope Light Armor",
+  "description": "A Crafted Armor set constructed in the Earth Forge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182496
+  ]
+}

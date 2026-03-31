@@ -1,0 +1,15 @@
+{
+  "internalId": 2887928685,
+  "name": "Mace of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95313,
+    95333,
+    95353,
+    95373,
+    95393,
+    95413
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1307680957,
+  "name": "Iron Hands",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    55454
+  ]
+}

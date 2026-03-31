@@ -1,0 +1,17 @@
+{
+  "internalId": 2356999988,
+  "name": "Hexos' Ward Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180102,
+    180122,
+    180142,
+    180162,
+    180182,
+    180202,
+    180222,
+    180242
+  ]
+}

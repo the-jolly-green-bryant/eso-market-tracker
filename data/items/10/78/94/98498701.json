@@ -1,0 +1,10 @@
+{
+  "internalId": 98498701,
+  "name": "High Isle Stool, Cushioned",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_stoolhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    187831
+  ]
+}

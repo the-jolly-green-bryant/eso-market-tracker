@@ -1,0 +1,17 @@
+{
+  "internalId": 2714343848,
+  "name": "Hrothgar's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180782,
+    180802,
+    180822,
+    180842,
+    180862,
+    180882,
+    180902,
+    180922
+  ]
+}

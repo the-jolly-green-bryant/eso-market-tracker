@@ -1,0 +1,14 @@
+{
+  "internalId": 3071608196,
+  "name": "Pelinal's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76263,
+    76298,
+    76333,
+    76368,
+    76403
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1102799685,
+  "name": "Ansei Greatsword",
+  "description": "King Fahara'jad bestowed this mighty weapon as thanks for your restoration of the Ansei Wards.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7533
+  ]
+}

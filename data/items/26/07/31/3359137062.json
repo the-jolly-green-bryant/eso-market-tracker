@@ -1,0 +1,17 @@
+{
+  "internalId": 3359137062,
+  "name": "Axe of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117089,
+    117109,
+    117129,
+    117149,
+    117169,
+    117189,
+    117209,
+    117229
+  ]
+}

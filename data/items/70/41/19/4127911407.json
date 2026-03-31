@@ -1,0 +1,10 @@
+{
+  "internalId": 4127911407,
+  "name": "Plant, Marsh Palm",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_mrkpalmfern004.png",
+  "bindType": -1,
+  "knownIds": [
+    145413
+  ]
+}

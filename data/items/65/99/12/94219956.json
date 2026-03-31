@@ -1,0 +1,19 @@
+{
+  "internalId": 94219956,
+  "name": "Karth's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168384,
+    168439,
+    168474,
+    168509,
+    168544,
+    168579,
+    168614,
+    168649,
+    168684,
+    168719
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3026178379,
+  "name": "Deadlands Tapestry, Long",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedtapestry006.png",
+  "bindType": -1,
+  "knownIds": [
+    182246
+  ]
+}

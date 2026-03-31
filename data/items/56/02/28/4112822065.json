@@ -1,0 +1,10 @@
+{
+  "internalId": 4112822065,
+  "name": "Robe of Ambition",
+  "description": "A fine Telvanni robe, which Sun-in-Shadow gave you in gratitude for your help in gaining her freedom.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126061
+  ]
+}

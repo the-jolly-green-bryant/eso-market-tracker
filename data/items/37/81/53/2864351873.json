@@ -1,0 +1,14 @@
+{
+  "internalId": 2864351873,
+  "name": "Marksman's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199514,
+    199515,
+    199516,
+    199517,
+    199518
+  ]
+}

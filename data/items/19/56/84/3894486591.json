@@ -1,0 +1,17 @@
+{
+  "internalId": 3894486591,
+  "name": "Bloodthorn Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96402,
+    96423,
+    96444,
+    96465,
+    96486,
+    96507,
+    96528,
+    96549
+  ]
+}

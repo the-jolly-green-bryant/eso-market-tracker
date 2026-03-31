@@ -1,0 +1,10 @@
+{
+  "internalId": 39564221,
+  "name": "Jewelry: Widowmaker",
+  "description": "A Medium Armor set found in Cradle of Shadows.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134203
+  ]
+}

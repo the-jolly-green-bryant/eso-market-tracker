@@ -1,0 +1,11 @@
+{
+  "internalId": 444354339,
+  "name": "Embossed Chasses",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_legs_d.png",
+  "bindType": -1,
+  "knownIds": [
+    586146,
+    663285
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2829856825,
+  "name": "Ritual Stone, Hircine",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_hircinealtar002.png",
+  "bindType": -1,
+  "knownIds": [
+    141838
+  ]
+}

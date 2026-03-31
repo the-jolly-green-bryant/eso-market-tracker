@@ -1,0 +1,17 @@
+{
+  "internalId": 2401269010,
+  "name": "Tracker's Lash Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210380,
+    210401,
+    210422,
+    210443,
+    210464,
+    210485,
+    210506,
+    210527
+  ]
+}

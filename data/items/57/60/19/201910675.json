@@ -1,0 +1,10 @@
+{
+  "internalId": 201910675,
+  "name": "Amulet of the Alchemist",
+  "description": "This necklace tingles a little when you hold it, as if it's been infused with alchemical power.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    10839
+  ]
+}

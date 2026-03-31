@@ -1,0 +1,15 @@
+{
+  "internalId": 1249063670,
+  "name": "Wrathsun Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1678267,
+    1689571,
+    1702330,
+    1702342,
+    1716164,
+    1761114
+  ]
+}

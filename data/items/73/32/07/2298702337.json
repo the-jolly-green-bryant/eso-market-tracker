@@ -1,0 +1,10 @@
+{
+  "internalId": 2298702337,
+  "name": "Venerable Dragonguard Bow",
+  "description": "An intricately carved bow perfect for hunting Dragons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    153831
+  ]
+}

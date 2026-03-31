@@ -1,0 +1,10 @@
+{
+  "internalId": 1950466605,
+  "name": "Colovian Mirror, Wall",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_mirrorwall002.png",
+  "bindType": -1,
+  "knownIds": [
+    204725
+  ]
+}

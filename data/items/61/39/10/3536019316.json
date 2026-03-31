@@ -1,0 +1,16 @@
+{
+  "internalId": 3536019316,
+  "name": "Sword of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87502,
+    87522,
+    87542,
+    87562,
+    87582,
+    87602,
+    87622
+  ]
+}

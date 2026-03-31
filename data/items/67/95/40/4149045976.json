@@ -1,0 +1,12 @@
+{
+  "internalId": 4149045976,
+  "name": "Beacon of Oblivion Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_axe.png",
+  "bindType": -1,
+  "knownIds": [
+    1727352,
+    1733737,
+    1740357
+  ]
+}

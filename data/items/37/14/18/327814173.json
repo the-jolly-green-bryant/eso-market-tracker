@@ -1,0 +1,18 @@
+{
+  "internalId": 327814173,
+  "name": "hide jack of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    457308,
+    768953,
+    521930,
+    524221,
+    601414,
+    717962,
+    457091,
+    457267,
+    594748
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1349385462,
+  "name": "Icy Conjurer's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1589906,
+    1629434,
+    1677223,
+    1688203,
+    1741885,
+    1742989,
+    1746232
+  ]
+}

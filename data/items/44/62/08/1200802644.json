@@ -1,0 +1,13 @@
+{
+  "internalId": 1200802644,
+  "name": "Briarheart Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129700,
+    129712,
+    129724,
+    129736
+  ]
+}

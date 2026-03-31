@@ -1,0 +1,18 @@
+{
+  "internalId": 3373330101,
+  "name": "Battle Axe of Explosive Rebuke",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1401861,
+    1410761,
+    1417516,
+    1526622,
+    1568230,
+    1588884,
+    1616020,
+    1685667,
+    1702335
+  ]
+}

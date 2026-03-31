@@ -1,0 +1,14 @@
+{
+  "internalId": 1066727434,
+  "name": "Helmet of the Undaunted Infiltrator",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58648,
+    58669,
+    58690,
+    58711,
+    58732
+  ]
+}

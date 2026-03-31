@@ -1,0 +1,10 @@
+{
+  "internalId": 2070281057,
+  "name": "Argonian Gravestick",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_gravestick001.png",
+  "bindType": -1,
+  "knownIds": [
+    115544
+  ]
+}

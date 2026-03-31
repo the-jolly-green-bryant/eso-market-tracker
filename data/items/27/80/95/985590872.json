@@ -1,0 +1,17 @@
+{
+  "internalId": 985590872,
+  "name": "Gauntlets of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89822,
+    89842,
+    89862,
+    89882,
+    89902,
+    89922,
+    89942,
+    89962
+  ]
+}

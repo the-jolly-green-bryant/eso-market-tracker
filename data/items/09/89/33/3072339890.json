@@ -1,0 +1,10 @@
+{
+  "internalId": 3072339890,
+  "name": "Ring of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101697
+  ]
+}

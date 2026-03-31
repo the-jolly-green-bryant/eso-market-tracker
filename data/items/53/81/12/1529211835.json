@@ -1,0 +1,10 @@
+{
+  "internalId": 1529211835,
+  "name": "Crafting Motif 40: Order Hour Bows",
+  "description": "Use to learn how to make Order of the Hour Bows. Also teaches the equivalent Order Hour Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    82091
+  ]
+}

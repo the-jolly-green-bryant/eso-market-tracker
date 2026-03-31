@@ -1,0 +1,14 @@
+{
+  "internalId": 3530749552,
+  "name": "Spell Parasite's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163285,
+    163320,
+    163355,
+    163390,
+    163425
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1316719544,
+  "name": "Champion of the Hist Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142245,
+    142265,
+    142285,
+    142305,
+    142325,
+    142345,
+    142365,
+    142385
+  ]
+}

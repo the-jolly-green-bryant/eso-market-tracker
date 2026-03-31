@@ -1,0 +1,10 @@
+{
+  "internalId": 3870025692,
+  "name": "Banana, Wax",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_bananas001.png",
+  "bindType": -1,
+  "knownIds": [
+    118021
+  ]
+}

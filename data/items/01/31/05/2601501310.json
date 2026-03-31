@@ -1,0 +1,10 @@
+{
+  "internalId": 2601501310,
+  "name": "Elsweyr Bookcase, Elegant Wooden Full",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_housingmedbookcase001.png",
+  "bindType": -1,
+  "knownIds": [
+    151699
+  ]
+}

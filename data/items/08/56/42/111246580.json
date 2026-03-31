@@ -1,0 +1,17 @@
+{
+  "internalId": 111246580,
+  "name": "Helm of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98527,
+    98547,
+    98567,
+    98587,
+    98607,
+    98627,
+    98647,
+    98667
+  ]
+}

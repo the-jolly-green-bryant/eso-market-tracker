@@ -1,0 +1,17 @@
+{
+  "internalId": 2352858909,
+  "name": "Highland Sentinel Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205897,
+    205932,
+    205967,
+    206002,
+    206037,
+    206072,
+    206107,
+    206142
+  ]
+}

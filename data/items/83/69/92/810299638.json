@@ -1,0 +1,13 @@
+{
+  "internalId": 810299638,
+  "name": "Adept Rider's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135949,
+    135984,
+    136019,
+    136054
+  ]
+}

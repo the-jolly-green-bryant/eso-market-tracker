@@ -1,0 +1,20 @@
+{
+  "internalId": 1081072791,
+  "name": "trifling glyph of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_healthboost.png",
+  "bindType": -1,
+  "knownIds": [
+    629325,
+    529322,
+    529330,
+    412402,
+    549527,
+    412352,
+    529373,
+    412413,
+    759448,
+    1624042,
+    1740264
+  ]
+}

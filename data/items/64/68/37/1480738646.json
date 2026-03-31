@@ -1,0 +1,10 @@
+{
+  "internalId": 1480738646,
+  "name": "Robust Plant Clippings",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plants_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1414135
+  ]
+}

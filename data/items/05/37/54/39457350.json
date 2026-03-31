@@ -1,0 +1,17 @@
+{
+  "internalId": 39457350,
+  "name": "Helm of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97608,
+    97628,
+    97648,
+    97668,
+    97688,
+    97708,
+    97728,
+    97748
+  ]
+}

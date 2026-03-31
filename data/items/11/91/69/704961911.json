@@ -1,0 +1,15 @@
+{
+  "internalId": 704961911,
+  "name": "Knight Slayer Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123583,
+    123604,
+    123625,
+    123646,
+    123667,
+    123688
+  ]
+}

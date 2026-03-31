@@ -1,0 +1,13 @@
+{
+  "internalId": 2499933055,
+  "name": "Test of Resolve Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1679614,
+    1718127,
+    1766196,
+    1779104
+  ]
+}

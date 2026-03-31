@@ -1,0 +1,14 @@
+{
+  "internalId": 2082462978,
+  "name": "Mace of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88594,
+    88614,
+    88634,
+    88654,
+    88674
+  ]
+}

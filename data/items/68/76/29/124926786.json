@@ -1,0 +1,10 @@
+{
+  "internalId": 124926786,
+  "name": "Saplings, Burnt Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_vrdburntsapling001.png",
+  "bindType": -1,
+  "knownIds": [
+    130300
+  ]
+}

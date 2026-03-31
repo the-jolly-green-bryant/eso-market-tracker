@@ -1,0 +1,17 @@
+{
+  "internalId": 1315867189,
+  "name": "Boots of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117467,
+    117487,
+    117507,
+    117527,
+    117547,
+    117567,
+    117587,
+    117607
+  ]
+}

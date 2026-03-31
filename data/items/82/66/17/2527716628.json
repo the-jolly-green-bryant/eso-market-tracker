@@ -1,0 +1,10 @@
+{
+  "internalId": 2527716628,
+  "name": "Exemplary Nirnhoned Gauntlets",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Gauntlets.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    81616
+  ]
+}

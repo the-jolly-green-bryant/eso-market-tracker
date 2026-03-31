@@ -1,0 +1,10 @@
+{
+  "internalId": 3765808965,
+  "name": "Stablemaster's Sign, Small",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_smlsignstable001.png",
+  "bindType": -1,
+  "knownIds": [
+    134433
+  ]
+}

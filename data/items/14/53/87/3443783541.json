@@ -1,0 +1,17 @@
+{
+  "internalId": 3443783541,
+  "name": "Witchman's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101518,
+    101538,
+    101558,
+    101578,
+    101598,
+    101618,
+    101638,
+    101658
+  ]
+}

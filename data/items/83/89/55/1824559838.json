@@ -1,0 +1,10 @@
+{
+  "internalId": 1824559838,
+  "name": "Shrubs, Dormant Sunbird Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_caesalpinia007.png",
+  "bindType": -1,
+  "knownIds": [
+    141818
+  ]
+}

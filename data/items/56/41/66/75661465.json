@@ -1,0 +1,19 @@
+{
+  "internalId": 75661465,
+  "name": "Hist Whisperer's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172490,
+    172492,
+    172494,
+    172496,
+    172498,
+    172500,
+    172502,
+    172504,
+    172506,
+    172508
+  ]
+}

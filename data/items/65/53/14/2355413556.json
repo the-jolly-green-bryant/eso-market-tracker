@@ -1,0 +1,10 @@
+{
+  "internalId": 2355413556,
+  "name": "New Life Festival Scroll",
+  "description": "A simple map directs revelers to Breda, a New Life Herald in Eastmarch. A small note reads: \"All are welcome to celebrate the New Life Festival!\"",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_recipe.png",
+  "bindType": 3,
+  "knownIds": [
+    95268
+  ]
+}

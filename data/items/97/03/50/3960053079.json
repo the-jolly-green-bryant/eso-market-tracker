@@ -1,0 +1,10 @@
+{
+  "internalId": 3960053079,
+  "name": "Crafting Motif 55: Dreadhorn Gloves",
+  "description": "Use to learn how to make Dreadhorn Gloves. Also teaches the equivalent Dreadhorn Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    132572
+  ]
+}

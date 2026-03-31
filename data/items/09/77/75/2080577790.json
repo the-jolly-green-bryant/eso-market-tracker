@@ -1,0 +1,23 @@
+{
+  "internalId": 2080577790,
+  "name": "Knife of Shadows",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    824655,
+    526384,
+    574628,
+    576880,
+    809043,
+    830846,
+    886762,
+    941602,
+    1003959,
+    1328383,
+    1391691,
+    1424369,
+    1504069,
+    1545464
+  ]
+}

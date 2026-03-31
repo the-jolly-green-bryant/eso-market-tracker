@@ -1,0 +1,10 @@
+{
+  "internalId": 749119396,
+  "name": "Rough Plank, Long",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varwalkwayboards001.png",
+  "bindType": -1,
+  "knownIds": [
+    117986
+  ]
+}

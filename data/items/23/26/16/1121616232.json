@@ -1,0 +1,19 @@
+{
+  "internalId": 1121616232,
+  "name": "Bracers of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58163,
+    58198,
+    58233,
+    58268,
+    58303,
+    58338,
+    58373,
+    58408,
+    58443,
+    58478
+  ]
+}

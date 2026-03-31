@@ -1,0 +1,10 @@
+{
+  "internalId": 675858769,
+  "name": "Riekr Tent, Snowy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_cmp_reikertentsnow001.png",
+  "bindType": -1,
+  "knownIds": [
+    182628
+  ]
+}

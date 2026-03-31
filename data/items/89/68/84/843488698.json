@@ -1,0 +1,10 @@
+{
+  "internalId": 843488698,
+  "name": "Elsweyr Gong, Ornate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_gong001.png",
+  "bindType": -1,
+  "knownIds": [
+    159440
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 742031995,
+  "name": "Marksman's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199446,
+    199447,
+    199448,
+    199449
+  ]
+}

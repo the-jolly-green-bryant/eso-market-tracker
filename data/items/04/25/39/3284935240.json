@@ -1,0 +1,13 @@
+{
+  "internalId": 3284935240,
+  "name": "Greaves of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173450,
+    173485,
+    173520,
+    173555
+  ]
+}

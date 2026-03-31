@@ -1,0 +1,17 @@
+{
+  "internalId": 1583958399,
+  "name": "Battle Axe of the Viper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80552,
+    80572,
+    80592,
+    80612,
+    80632,
+    80644,
+    80664,
+    80684
+  ]
+}

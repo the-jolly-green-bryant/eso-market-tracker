@@ -1,0 +1,10 @@
+{
+  "internalId": 2314846847,
+  "name": "Ayleid Refuge Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205221
+  ]
+}

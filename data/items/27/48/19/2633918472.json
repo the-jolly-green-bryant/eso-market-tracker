@@ -1,0 +1,17 @@
+{
+  "internalId": 2633918472,
+  "name": "Netch Oil Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211933,
+    211953,
+    211973,
+    211993,
+    212013,
+    212033,
+    212053,
+    212073
+  ]
+}

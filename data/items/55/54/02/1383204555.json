@@ -1,0 +1,10 @@
+{
+  "internalId": 1383204555,
+  "name": "Cowl of the Chronicle",
+  "description": "Within the folds of this well-made hood you can still hear the whispers of Y'ffre's Chronicle echoing in your ears.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_light_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    191219
+  ]
+}

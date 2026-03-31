@@ -1,0 +1,15 @@
+{
+  "internalId": 1077861332,
+  "name": "full-leather boots of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    676877,
+    636373,
+    612773,
+    517508,
+    871880,
+    1065430
+  ]
+}

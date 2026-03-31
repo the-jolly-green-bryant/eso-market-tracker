@@ -1,0 +1,19 @@
+{
+  "internalId": 3067010683,
+  "name": "Sload's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136089,
+    136124,
+    136159,
+    136194,
+    136229,
+    136264,
+    136299,
+    136334,
+    136369,
+    136404
+  ]
+}

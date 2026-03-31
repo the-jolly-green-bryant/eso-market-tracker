@@ -1,0 +1,19 @@
+{
+  "internalId": 1330391811,
+  "name": "Ring of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    158351,
+    158353,
+    158355,
+    158357,
+    158359,
+    158361,
+    158363,
+    158365,
+    158367,
+    158369
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 52084555,
+  "name": "Steadfast Hero Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144667,
+    144687,
+    144707,
+    144727,
+    144747,
+    144767,
+    144787,
+    144807
+  ]
+}

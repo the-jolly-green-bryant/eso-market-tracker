@@ -1,0 +1,19 @@
+{
+  "internalId": 1037165801,
+  "name": "Fortified Brass Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130734,
+    130769,
+    130804,
+    130839,
+    130874,
+    130909,
+    130944,
+    130979,
+    131014,
+    131049
+  ]
+}

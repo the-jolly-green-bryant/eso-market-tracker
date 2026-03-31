@@ -1,0 +1,19 @@
+{
+  "internalId": 1107404649,
+  "name": "Sash of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58171,
+    58207,
+    58242,
+    58277,
+    58312,
+    58347,
+    58382,
+    58417,
+    58452,
+    58487
+  ]
+}

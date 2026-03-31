@@ -1,0 +1,10 @@
+{
+  "internalId": 3724746969,
+  "name": "Statue of Hircine's Bitter Mercy",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_str_hircinestatue001.png",
+  "bindType": -1,
+  "knownIds": [
+    141853
+  ]
+}

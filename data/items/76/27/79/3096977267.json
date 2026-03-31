@@ -1,0 +1,28 @@
+{
+  "internalId": 3096977267,
+  "name": "Elsweyr Dragon Hunter's Coffer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1325792,
+    1326460,
+    1326536,
+    1326918,
+    1327167,
+    1327185,
+    1327241,
+    1327353,
+    1327996,
+    1328021,
+    1328308,
+    1328499,
+    1329923,
+    1336654,
+    1336785,
+    1337504,
+    1349158,
+    1349166,
+    1350505
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1036330796,
+  "name": "iron gauntlets of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    399529,
+    399807,
+    431836,
+    433614,
+    486672,
+    643956,
+    791710,
+    791668
+  ]
+}

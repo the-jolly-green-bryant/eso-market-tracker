@@ -1,0 +1,19 @@
+{
+  "internalId": 1165881266,
+  "name": "Coral Riptide Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_sheild_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1591090,
+    1593696,
+    1600197,
+    1600502,
+    1603324,
+    1603339,
+    1610345,
+    1627684,
+    1632570,
+    1757978
+  ]
+}

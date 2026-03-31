@@ -1,0 +1,20 @@
+{
+  "internalId": 1239289991,
+  "name": "Black-Glove Grounding Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_remembrance_heavy_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1701673,
+    1701683,
+    1702085,
+    1703864,
+    1716247,
+    1717149,
+    1717160,
+    1717169,
+    1717213,
+    1724926,
+    1735355
+  ]
+}

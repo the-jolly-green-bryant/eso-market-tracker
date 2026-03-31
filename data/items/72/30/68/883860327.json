@@ -1,0 +1,10 @@
+{
+  "internalId": 883860327,
+  "name": "High Elf Sconce, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_lsb_wallsconce001.png",
+  "bindType": -1,
+  "knownIds": [
+    114410
+  ]
+}

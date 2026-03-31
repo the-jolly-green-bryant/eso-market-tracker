@@ -1,0 +1,21 @@
+{
+  "internalId": 3508360226,
+  "name": "dwarven greaves of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": -1,
+  "knownIds": [
+    684164,
+    710536,
+    444442,
+    743899,
+    436315,
+    451892,
+    747394,
+    757855,
+    748312,
+    744851,
+    762970,
+    794358
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1288648701,
+  "name": "Battalion Defender Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144840,
+    144860,
+    144880,
+    144900,
+    144920,
+    144940,
+    144960,
+    144980
+  ]
+}

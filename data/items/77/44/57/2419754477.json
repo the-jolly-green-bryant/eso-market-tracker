@@ -1,0 +1,10 @@
+{
+  "internalId": 2419754477,
+  "name": "Plant, Galen Palm Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_u36smallleafy004.png",
+  "bindType": -1,
+  "knownIds": [
+    193792
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 1603565557,
+  "name": "Ring of Hunding's Rage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139690,
+    139780,
+    139870,
+    139960,
+    140050,
+    140140
+  ]
+}

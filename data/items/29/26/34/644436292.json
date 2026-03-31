@@ -1,0 +1,10 @@
+{
+  "internalId": 644436292,
+  "name": "Reach Briarheart, Corpse Blue",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_wrgbriarheartheartblue.png",
+  "bindType": -1,
+  "knownIds": [
+    139106
+  ]
+}

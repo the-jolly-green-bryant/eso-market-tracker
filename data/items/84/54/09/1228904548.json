@@ -1,0 +1,21 @@
+{
+  "internalId": 1228904548,
+  "name": "Thunder Caller's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsroselgt_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1540397,
+    1540398,
+    1540400,
+    1542408,
+    1562158,
+    1567794,
+    1583085,
+    1583094,
+    1584021,
+    1584034,
+    1680946,
+    1772625
+  ]
+}

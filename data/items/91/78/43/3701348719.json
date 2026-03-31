@@ -1,0 +1,10 @@
+{
+  "internalId": 3701348719,
+  "name": "Jewelry: Reflected Fury",
+  "description": "A Heavy Armor set found in Bedlam Veil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    203033
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1118783399,
+  "name": "Affix Script: Evasion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_evasion.png",
+  "bindType": -1,
+  "knownIds": [
+    204597
+  ]
+}

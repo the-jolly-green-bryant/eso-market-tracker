@@ -1,0 +1,10 @@
+{
+  "internalId": 1363330838,
+  "name": "Ashlander Cup, Mazte",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlacup001_full.png",
+  "bindType": -1,
+  "knownIds": [
+    126392
+  ]
+}

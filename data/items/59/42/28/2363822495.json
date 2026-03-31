@@ -1,0 +1,17 @@
+{
+  "internalId": 2363822495,
+  "name": "Unflinching Ultimate Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219495,
+    219515,
+    219535,
+    219555,
+    219575,
+    219595,
+    219615,
+    219635
+  ]
+}

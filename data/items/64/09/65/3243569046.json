@@ -1,0 +1,17 @@
+{
+  "internalId": 3243569046,
+  "name": "Galerion's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78050,
+    78085,
+    78120,
+    78155,
+    78190,
+    78225,
+    78260,
+    78295
+  ]
+}

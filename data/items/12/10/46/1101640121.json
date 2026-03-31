@@ -1,0 +1,20 @@
+{
+  "internalId": 1101640121,
+  "name": "Olorime's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_dagger_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1260684,
+    1332388,
+    1343665,
+    1380043,
+    1411986,
+    1536479,
+    1537220,
+    1540146,
+    1558382,
+    1619455,
+    1691644
+  ]
+}

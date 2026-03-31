@@ -1,0 +1,17 @@
+{
+  "internalId": 3667382755,
+  "name": "Shoes of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100036,
+    100057,
+    100078,
+    100099,
+    100120,
+    100141,
+    100162,
+    100183
+  ]
+}

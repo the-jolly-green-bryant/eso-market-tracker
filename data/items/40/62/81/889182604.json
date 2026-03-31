@@ -1,0 +1,17 @@
+{
+  "internalId": 889182604,
+  "name": "Lightning Staff of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117463,
+    117483,
+    117503,
+    117523,
+    117543,
+    117563,
+    117583,
+    117603
+  ]
+}

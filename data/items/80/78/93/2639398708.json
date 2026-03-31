@@ -1,0 +1,17 @@
+{
+  "internalId": 2639398708,
+  "name": "Inferno Staff of Imperial Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89997,
+    90010,
+    90023,
+    90036,
+    90049,
+    90062,
+    90075,
+    90088
+  ]
+}

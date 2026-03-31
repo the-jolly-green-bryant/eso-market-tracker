@@ -1,0 +1,14 @@
+{
+  "internalId": 1793929490,
+  "name": "Grave-Stake Collector Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142994,
+    143029,
+    143064,
+    143099,
+    143134
+  ]
+}

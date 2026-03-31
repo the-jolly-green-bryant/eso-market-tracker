@@ -1,0 +1,10 @@
+{
+  "internalId": 2983329,
+  "name": "Executioner's Helm",
+  "description": "An assassin's helm, given to you by Veya Releth for your part in looking into her brother Ulran's death.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moragtong_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126072
+  ]
+}

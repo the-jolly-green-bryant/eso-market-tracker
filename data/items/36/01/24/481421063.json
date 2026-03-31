@@ -1,0 +1,19 @@
+{
+  "internalId": 481421063,
+  "name": "Widowmaker Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1078945,
+    1175348,
+    1286738,
+    1303240,
+    1310798,
+    1594951,
+    1595725,
+    1680876,
+    1735272,
+    1774798
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3305510501,
+  "name": "Alabaster Honey Rum",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
+  "bindType": -1,
+  "knownIds": [
+    57200,
+    57642
+  ]
+}

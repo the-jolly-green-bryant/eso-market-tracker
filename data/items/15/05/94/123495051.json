@@ -1,0 +1,10 @@
+{
+  "internalId": 123495051,
+  "name": "Enchanter Survey: Wrothgar II",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    796914
+  ]
+}

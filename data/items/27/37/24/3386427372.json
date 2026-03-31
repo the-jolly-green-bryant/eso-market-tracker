@@ -1,0 +1,26 @@
+{
+  "internalId": 3386427372,
+  "name": "Vrol's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_shield.png",
+  "bindType": -1,
+  "knownIds": [
+    1387120,
+    1389262,
+    1389263,
+    1391463,
+    1413675,
+    1413695,
+    1413717,
+    1446986,
+    1468463,
+    1539641,
+    1581684,
+    1615054,
+    1615238,
+    1615832,
+    1630351,
+    1645243,
+    1760656
+  ]
+}

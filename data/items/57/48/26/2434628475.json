@@ -1,0 +1,25 @@
+{
+  "internalId": 2434628475,
+  "name": "Maul of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1078917,
+    1082308,
+    1087688,
+    1171866,
+    1307590,
+    1352172,
+    1376762,
+    1543356,
+    1564135,
+    1564316,
+    1571469,
+    1573446,
+    1579287,
+    1622199,
+    1750179,
+    1772328
+  ]
+}

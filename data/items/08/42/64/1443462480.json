@@ -1,0 +1,15 @@
+{
+  "internalId": 1443462480,
+  "name": "Bracers of Toxic Defiance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    883842,
+    913987,
+    917740,
+    918023,
+    918519,
+    928631
+  ]
+}

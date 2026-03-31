@@ -1,0 +1,10 @@
+{
+  "internalId": 1502425693,
+  "name": "Argonian Skull, Lizard",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_lizardskull001.png",
+  "bindType": -1,
+  "knownIds": [
+    115502
+  ]
+}

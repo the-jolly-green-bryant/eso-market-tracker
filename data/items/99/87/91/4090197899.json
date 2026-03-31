@@ -1,0 +1,17 @@
+{
+  "internalId": 4090197899,
+  "name": "Crafty Alfiq's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_2hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149246,
+    149267,
+    149288,
+    149309,
+    149330,
+    149351,
+    149372,
+    149393
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1273883866,
+  "name": "Pulverized Dibellium",
+  "description": "Ten of these items can be refined into Dibellium, which is used to make Jewelry with the Harmony Trait.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_potion_014.png",
+  "bindType": -1,
+  "knownIds": [
+    139419
+  ]
+}

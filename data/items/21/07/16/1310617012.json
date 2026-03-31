@@ -1,0 +1,23 @@
+{
+  "internalId": 1310617012,
+  "name": "Tempestshield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_shield_b.png",
+  "bindType": -1,
+  "knownIds": [
+    581730,
+    792765,
+    786193,
+    1082398,
+    1090001,
+    1172622,
+    1230234,
+    1423848,
+    1434270,
+    1443808,
+    1487379,
+    1584932,
+    1687935,
+    1702780
+  ]
+}

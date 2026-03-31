@@ -1,0 +1,28 @@
+{
+  "internalId": 14241555,
+  "name": "Belt of Alkosh",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dromathra_medium_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    934225,
+    934939,
+    1063351,
+    1066790,
+    1094314,
+    1121445,
+    1189985,
+    1198335,
+    1336254,
+    1440440,
+    1440466,
+    1446996,
+    1448755,
+    1464402,
+    1464403,
+    1512994,
+    1560659,
+    1586022,
+    1600462
+  ]
+}

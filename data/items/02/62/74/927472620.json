@@ -1,0 +1,10 @@
+{
+  "internalId": 927472620,
+  "name": "Redguard Well, Arched",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varwellmedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    117755
+  ]
+}

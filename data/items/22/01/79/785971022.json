@@ -1,0 +1,17 @@
+{
+  "internalId": 785971022,
+  "name": "Sword of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88353,
+    88373,
+    88393,
+    88413,
+    88433,
+    88453,
+    88473,
+    88493
+  ]
+}

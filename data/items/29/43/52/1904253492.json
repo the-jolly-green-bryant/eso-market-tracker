@@ -1,0 +1,10 @@
+{
+  "internalId": 1904253492,
+  "name": "Flowers, Netch Cabbage",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdsymplocarpus002.png",
+  "bindType": -1,
+  "knownIds": [
+    125551
+  ]
+}

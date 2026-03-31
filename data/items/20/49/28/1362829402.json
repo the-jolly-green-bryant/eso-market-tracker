@@ -1,0 +1,11 @@
+{
+  "internalId": 1362829402,
+  "name": "Music Box, the Merry Meadmaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_musicboxbardscollege001.png",
+  "bindType": -1,
+  "knownIds": [
+    1365186,
+    1374926
+  ]
+}

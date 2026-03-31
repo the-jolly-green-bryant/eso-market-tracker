@@ -1,0 +1,17 @@
+{
+  "internalId": 1159595317,
+  "name": "Shell Splitter Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194037,
+    194057,
+    194077,
+    194097,
+    194117,
+    194137,
+    194157,
+    194177
+  ]
+}

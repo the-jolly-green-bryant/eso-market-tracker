@@ -1,0 +1,10 @@
+{
+  "internalId": 2663123545,
+  "name": "Boulder, Jagged Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_skr_sm002.png",
+  "bindType": -1,
+  "knownIds": [
+    167294
+  ]
+}

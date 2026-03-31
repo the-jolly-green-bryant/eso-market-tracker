@@ -1,0 +1,14 @@
+{
+  "internalId": 3022322836,
+  "name": "Aegis Caller's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1351265,
+    1363730,
+    1369705,
+    1370779,
+    1377782
+  ]
+}

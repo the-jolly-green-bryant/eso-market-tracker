@@ -1,0 +1,14 @@
+{
+  "internalId": 662295883,
+  "name": "Eternal Hunt Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72688,
+    72723,
+    72758,
+    72793,
+    72828
+  ]
+}

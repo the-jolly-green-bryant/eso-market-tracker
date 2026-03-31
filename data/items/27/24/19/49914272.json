@@ -1,0 +1,17 @@
+{
+  "internalId": 49914272,
+  "name": "Deadlands Assassin's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172127,
+    172147,
+    172167,
+    172187,
+    172207,
+    172227,
+    172247,
+    172267
+  ]
+}

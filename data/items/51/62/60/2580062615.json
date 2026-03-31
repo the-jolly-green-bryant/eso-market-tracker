@@ -1,0 +1,17 @@
+{
+  "internalId": 2580062615,
+  "name": "Dead-Water's Guile Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142420,
+    142440,
+    142460,
+    142480,
+    142500,
+    142520,
+    142540,
+    142560
+  ]
+}

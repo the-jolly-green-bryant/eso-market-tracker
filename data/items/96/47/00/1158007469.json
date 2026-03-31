@@ -1,0 +1,19 @@
+{
+  "internalId": 1158007469,
+  "name": "Seeker Synthesis Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195330,
+    195385,
+    195420,
+    195455,
+    195490,
+    195525,
+    195560,
+    195595,
+    195630,
+    195665
+  ]
+}

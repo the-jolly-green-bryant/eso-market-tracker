@@ -1,0 +1,17 @@
+{
+  "internalId": 1738262883,
+  "name": "Livewire Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132677,
+    132697,
+    132717,
+    132737,
+    132757,
+    132777,
+    132797,
+    132817
+  ]
+}

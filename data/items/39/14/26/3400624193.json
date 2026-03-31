@@ -1,0 +1,19 @@
+{
+  "internalId": 3400624193,
+  "name": "Threads of War Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206154,
+    206209,
+    206244,
+    206279,
+    206314,
+    206349,
+    206384,
+    206419,
+    206454,
+    206489
+  ]
+}

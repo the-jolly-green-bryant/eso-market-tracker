@@ -1,0 +1,17 @@
+{
+  "internalId": 2082381235,
+  "name": "Greaves of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_heavy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180281,
+    180301,
+    180321,
+    180341,
+    180361,
+    180381,
+    180401,
+    180421
+  ]
+}

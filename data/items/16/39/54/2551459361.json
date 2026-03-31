@@ -1,0 +1,17 @@
+{
+  "internalId": 2551459361,
+  "name": "Bow of Unfathomable Darkness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133048,
+    133068,
+    133088,
+    133108,
+    133128,
+    133148,
+    133168,
+    133188
+  ]
+}

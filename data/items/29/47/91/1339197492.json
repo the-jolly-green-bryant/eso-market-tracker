@@ -1,0 +1,17 @@
+{
+  "internalId": 1339197492,
+  "name": "Cuirass of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167445,
+    167465,
+    167485,
+    167505,
+    167525,
+    167545,
+    167565,
+    167585
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 302377806,
+  "name": "Shield of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95862,
+    95982,
+    96024,
+    96171,
+    96355
+  ]
+}

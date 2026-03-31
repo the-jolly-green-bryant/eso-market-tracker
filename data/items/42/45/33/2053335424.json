@@ -1,0 +1,10 @@
+{
+  "internalId": 2053335424,
+  "name": "Crown Lesson: Riding Stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_ridinglessons_stamina.png",
+  "bindType": -1,
+  "knownIds": [
+    932410
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 3172219860,
+  "name": "Lightning Staff of Mephala's Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1077755,
+    1096280,
+    1118994,
+    1391267,
+    1392969,
+    1466652,
+    1597322,
+    1602827,
+    1630642,
+    1748577,
+    1749085
+  ]
+}

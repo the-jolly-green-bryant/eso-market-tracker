@@ -1,0 +1,10 @@
+{
+  "internalId": 10754999,
+  "name": "Leyawiin Meal, Octopus",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenhiplate005.png",
+  "bindType": -1,
+  "knownIds": [
+    175680
+  ]
+}

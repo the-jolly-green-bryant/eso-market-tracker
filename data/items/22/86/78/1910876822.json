@@ -1,0 +1,17 @@
+{
+  "internalId": 1910876822,
+  "name": "Battlefield Acrobat Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144293,
+    144313,
+    144333,
+    144353,
+    144373,
+    144393,
+    144413,
+    144433
+  ]
+}

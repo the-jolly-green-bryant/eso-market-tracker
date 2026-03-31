@@ -1,0 +1,25 @@
+{
+  "internalId": 1338086054,
+  "name": "Moon Hunter Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1268493,
+    1274798,
+    1302777,
+    1345816,
+    1364892,
+    1375979,
+    1375991,
+    1380096,
+    1482207,
+    1484461,
+    1491060,
+    1567837,
+    1573761,
+    1620467,
+    1750400,
+    1765062
+  ]
+}

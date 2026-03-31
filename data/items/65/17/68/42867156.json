@@ -1,0 +1,17 @@
+{
+  "internalId": 42867156,
+  "name": "Plague Doctor's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97056,
+    97076,
+    97096,
+    97116,
+    97136,
+    97156,
+    97176,
+    97196
+  ]
+}

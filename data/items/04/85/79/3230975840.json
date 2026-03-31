@@ -1,0 +1,14 @@
+{
+  "internalId": 3230975840,
+  "name": "Inferno Staff of Fasalla's Guile",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199185,
+    199186,
+    199187,
+    199188,
+    199189
+  ]
+}

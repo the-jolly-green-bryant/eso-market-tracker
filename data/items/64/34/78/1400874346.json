@@ -1,0 +1,11 @@
+{
+  "internalId": 1400874346,
+  "name": "Camlorn Pork Sausage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potato.png",
+  "bindType": -1,
+  "knownIds": [
+    33873,
+    37864
+  ]
+}

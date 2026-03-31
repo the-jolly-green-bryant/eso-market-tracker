@@ -1,0 +1,10 @@
+{
+  "internalId": 1861292630,
+  "name": "Elsweyr Barstool, Elegant Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_stool001.png",
+  "bindType": -1,
+  "knownIds": [
+    151693
+  ]
+}

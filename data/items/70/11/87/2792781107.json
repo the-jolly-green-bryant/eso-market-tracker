@@ -1,0 +1,10 @@
+{
+  "internalId": 2792781107,
+  "name": "Dominion Firepot Trebuchet",
+  "description": "Creates a trebuchet weapon whose fireball causes Flame Damage to structures and foes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_005.png",
+  "bindType": -1,
+  "knownIds": [
+    27105
+  ]
+}

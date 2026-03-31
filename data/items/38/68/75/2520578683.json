@@ -1,0 +1,10 @@
+{
+  "internalId": 2520578683,
+  "name": "Naga Shaman Weapons",
+  "description": "A Crafted Armor set constructed in Murkmire.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182801
+  ]
+}

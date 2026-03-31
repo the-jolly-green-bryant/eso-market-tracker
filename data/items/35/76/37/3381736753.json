@@ -1,0 +1,15 @@
+{
+  "internalId": 3381736753,
+  "name": "Necklace of Redistribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139742,
+    139832,
+    139922,
+    140012,
+    140102,
+    140192
+  ]
+}

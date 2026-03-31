@@ -1,0 +1,10 @@
+{
+  "internalId": 3713792234,
+  "name": "Death Skeleton, Robed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": -1,
+  "knownIds": [
+    132166
+  ]
+}

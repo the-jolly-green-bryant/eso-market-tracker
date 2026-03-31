@@ -1,0 +1,19 @@
+{
+  "internalId": 303145447,
+  "name": "Mace of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71815,
+    71850,
+    71885,
+    71920,
+    71955,
+    71990,
+    72025,
+    72060,
+    72095,
+    72130
+  ]
+}

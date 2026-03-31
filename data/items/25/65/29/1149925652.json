@@ -1,0 +1,10 @@
+{
+  "internalId": 1149925652,
+  "name": "Breton Streetlight, Arched Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_postlight002.png",
+  "bindType": -1,
+  "knownIds": [
+    115210
+  ]
+}

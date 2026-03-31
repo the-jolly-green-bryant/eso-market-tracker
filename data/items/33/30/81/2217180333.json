@@ -1,0 +1,14 @@
+{
+  "internalId": 2217180333,
+  "name": "Greatsword of Transmutation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199611,
+    199612,
+    199613,
+    199614,
+    199615
+  ]
+}

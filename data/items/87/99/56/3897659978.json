@@ -1,0 +1,19 @@
+{
+  "internalId": 3897659978,
+  "name": "Coldharbour's Favorite Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147979,
+    148034,
+    148069,
+    148104,
+    148139,
+    148174,
+    148209,
+    148244,
+    148279,
+    148314
+  ]
+}

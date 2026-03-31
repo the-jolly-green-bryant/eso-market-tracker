@@ -1,0 +1,10 @@
+{
+  "internalId": 580185611,
+  "name": "Stuffed Rat Carcass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_critter_001.png",
+  "bindType": -1,
+  "knownIds": [
+    653285
+  ]
+}

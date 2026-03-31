@@ -1,0 +1,10 @@
+{
+  "internalId": 2892076159,
+  "name": "Plant, Squat Jungle Leaf",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_bigleafyplantreapers001.png",
+  "bindType": -1,
+  "knownIds": [
+    120560
+  ]
+}

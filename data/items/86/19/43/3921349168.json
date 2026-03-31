@@ -1,0 +1,10 @@
+{
+  "internalId": 3921349168,
+  "name": "Redoran Mantle Cloth, Crimson Coverlet",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlatablerunner004.png",
+  "bindType": -1,
+  "knownIds": [
+    126460
+  ]
+}

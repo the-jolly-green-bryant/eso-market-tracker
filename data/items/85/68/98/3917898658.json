@@ -1,0 +1,10 @@
+{
+  "internalId": 3917898658,
+  "name": "Cartographer's Vest",
+  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Coat collectible fragment.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_coat.png",
+  "bindType": -1,
+  "knownIds": [
+    166701
+  ]
+}

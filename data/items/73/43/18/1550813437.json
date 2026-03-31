@@ -1,0 +1,25 @@
+{
+  "internalId": 1550813437,
+  "name": "Battle Axe of the Eternal Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1144832,
+    1168140,
+    1186579,
+    1271771,
+    1331579,
+    1397300,
+    1414065,
+    1461018,
+    1469117,
+    1512516,
+    1518877,
+    1578239,
+    1588922,
+    1610331,
+    1716284,
+    1741727
+  ]
+}

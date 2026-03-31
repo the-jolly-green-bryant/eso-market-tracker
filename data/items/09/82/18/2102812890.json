@@ -1,0 +1,19 @@
+{
+  "internalId": 2102812890,
+  "name": "Ring of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161630,
+    161632,
+    161634,
+    161636,
+    161638,
+    161640,
+    161642,
+    161644,
+    161646,
+    161648
+  ]
+}

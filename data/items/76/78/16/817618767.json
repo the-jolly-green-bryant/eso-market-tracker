@@ -1,0 +1,10 @@
+{
+  "internalId": 817618767,
+  "name": "Imperial Shrine of the Bay",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_cathedralaltar001.png",
+  "bindType": -1,
+  "knownIds": [
+    94197
+  ]
+}

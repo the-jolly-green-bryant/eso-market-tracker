@@ -1,0 +1,14 @@
+{
+  "internalId": 2654363598,
+  "name": "Marksman's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199454,
+    199455,
+    199456,
+    199457,
+    199458
+  ]
+}

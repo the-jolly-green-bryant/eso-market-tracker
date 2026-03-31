@@ -1,0 +1,10 @@
+{
+  "internalId": 4205960154,
+  "name": "Staff of Nature's Accord",
+  "description": "This staff was bestowed for helping to restore Nature's Accord and keep the sigil out of Stormfist hands.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    23851
+  ]
+}

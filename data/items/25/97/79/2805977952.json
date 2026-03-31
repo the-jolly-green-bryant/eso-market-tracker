@@ -1,0 +1,17 @@
+{
+  "internalId": 2805977952,
+  "name": "Old Growth Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191729,
+    191764,
+    191799,
+    191834,
+    191869,
+    191904,
+    191939,
+    191974
+  ]
+}

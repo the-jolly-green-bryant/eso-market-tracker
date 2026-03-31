@@ -1,0 +1,23 @@
+{
+  "internalId": 3262624875,
+  "name": "Beastmaster's Crop",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    793712,
+    877833,
+    878727,
+    944416,
+    1085732,
+    1274311,
+    1337760,
+    1390014,
+    1454714,
+    1504426,
+    1515929,
+    1573517,
+    1631570,
+    1735974
+  ]
+}

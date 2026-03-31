@@ -1,0 +1,30 @@
+{
+  "internalId": 4111627125,
+  "name": "War Machine Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_medium_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1147662,
+    1159841,
+    1163405,
+    1200216,
+    1245362,
+    1246345,
+    1251422,
+    1346783,
+    1346787,
+    1347375,
+    1450989,
+    1455737,
+    1468487,
+    1475984,
+    1475992,
+    1479345,
+    1504217,
+    1540593,
+    1544951,
+    1581699,
+    1717671
+  ]
+}

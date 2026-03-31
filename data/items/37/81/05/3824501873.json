@@ -1,0 +1,10 @@
+{
+  "internalId": 3824501873,
+  "name": "Tree, Braided Dawnwood",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_bosovergrowthtree007.png",
+  "bindType": -1,
+  "knownIds": [
+    217939
+  ]
+}

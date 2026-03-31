@@ -1,0 +1,10 @@
+{
+  "internalId": 2890894496,
+  "name": "Affix Script: Maim",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_maim.png",
+  "bindType": -1,
+  "knownIds": [
+    204608
+  ]
+}

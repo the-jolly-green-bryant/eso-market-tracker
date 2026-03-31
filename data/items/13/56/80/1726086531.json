@@ -1,0 +1,15 @@
+{
+  "internalId": 1726086531,
+  "name": "Bow of Phylactery's Grasp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600641,
+    1605612,
+    1606445,
+    1739676,
+    1740271,
+    1759389
+  ]
+}

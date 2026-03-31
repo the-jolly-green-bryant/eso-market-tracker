@@ -1,0 +1,17 @@
+{
+  "internalId": 3745794811,
+  "name": "Soldier of Anguish Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144477,
+    144497,
+    144517,
+    144537,
+    144557,
+    144577,
+    144597,
+    144617
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3145810939,
+  "name": "Boots of the Twin Sisters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92281,
+    92301,
+    92321,
+    92341,
+    92361,
+    92381,
+    92401,
+    92421
+  ]
+}

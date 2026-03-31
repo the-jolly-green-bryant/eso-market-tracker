@@ -1,0 +1,15 @@
+{
+  "internalId": 2132674345,
+  "name": "Axe of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70089,
+    70124,
+    70159,
+    70194,
+    70229,
+    70264
+  ]
+}

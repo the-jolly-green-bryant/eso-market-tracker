@@ -1,0 +1,15 @@
+{
+  "internalId": 3575931210,
+  "name": "Pewter Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    139402,
+    139403,
+    139404,
+    139405,
+    139406,
+    139407
+  ]
+}

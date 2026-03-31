@@ -1,0 +1,10 @@
+{
+  "internalId": 3376777780,
+  "name": "Traitor's Flame",
+  "description": "This utilitarian staff is like the ones used by the warmages of the First Auridon Marines.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7598
+  ]
+}

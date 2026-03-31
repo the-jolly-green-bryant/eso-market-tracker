@@ -1,0 +1,18 @@
+{
+  "internalId": 2784682630,
+  "name": "Sash of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158398,
+    158433,
+    158468,
+    158503,
+    158538,
+    158573,
+    158608,
+    158643,
+    158678
+  ]
+}

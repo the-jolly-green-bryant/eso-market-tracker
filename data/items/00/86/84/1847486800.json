@@ -1,0 +1,10 @@
+{
+  "internalId": 1847486800,
+  "name": "Alinor Bowl, Carved Wood",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altwoodenbowl001.png",
+  "bindType": -1,
+  "knownIds": [
+    139299
+  ]
+}

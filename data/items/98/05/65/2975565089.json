@@ -1,0 +1,12 @@
+{
+  "internalId": 2975565089,
+  "name": "House Dorell Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    402090,
+    542449,
+    615899
+  ]
+}

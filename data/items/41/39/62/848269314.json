@@ -1,0 +1,19 @@
+{
+  "internalId": 848269314,
+  "name": "Maul of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121905,
+    121940,
+    121975,
+    122010,
+    122045,
+    122080,
+    122115,
+    122150,
+    122185,
+    122220
+  ]
+}

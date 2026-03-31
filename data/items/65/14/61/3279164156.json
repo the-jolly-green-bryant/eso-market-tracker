@@ -1,0 +1,19 @@
+{
+  "internalId": 3279164156,
+  "name": "Heartland Conqueror's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172846,
+    172901,
+    172936,
+    172971,
+    173006,
+    173041,
+    173076,
+    173111,
+    173146,
+    173181
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2149396046,
+  "name": "Alliance Banner-Bearer's Emblem",
+  "description": "When you have ten of these Emblems: use a Banner-Bearer's Shield or Banner-Bearer's Staff License, purchased from Predicant Maera during Whitestrake's Mayhem, to create a Style Page for a shield or staff outfit style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_token_of_meridia.png",
+  "bindType": -1,
+  "knownIds": [
+    175533
+  ]
+}

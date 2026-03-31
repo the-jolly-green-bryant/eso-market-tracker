@@ -1,0 +1,10 @@
+{
+  "internalId": 3994105679,
+  "name": "Ruckus Banner, Large Hanging",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farruckusbannerhanging003.png",
+  "bindType": -1,
+  "knownIds": [
+    224088
+  ]
+}

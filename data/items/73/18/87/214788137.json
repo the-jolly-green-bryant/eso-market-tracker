@@ -1,0 +1,10 @@
+{
+  "internalId": 214788137,
+  "name": "Nord Desk, Tied",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_desk001.png",
+  "bindType": -1,
+  "knownIds": [
+    115404
+  ]
+}

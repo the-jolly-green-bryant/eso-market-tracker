@@ -1,0 +1,10 @@
+{
+  "internalId": 1994446510,
+  "name": "Dark Elf Tomb Marker, Sarano",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_exc_tombmarkerredsarano001.png",
+  "bindType": -1,
+  "knownIds": [
+    166002
+  ]
+}

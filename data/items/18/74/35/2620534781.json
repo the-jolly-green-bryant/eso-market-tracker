@@ -1,0 +1,19 @@
+{
+  "internalId": 2620534781,
+  "name": "steel helm of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    517148,
+    751738,
+    601301,
+    516183,
+    790958,
+    789683,
+    789494,
+    786186,
+    1129065,
+    1129195
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2408021112,
+  "name": "Grave-Stake Collector Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143001,
+    143036,
+    143071,
+    143106,
+    143141
+  ]
+}

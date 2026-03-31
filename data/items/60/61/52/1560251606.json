@@ -1,0 +1,19 @@
+{
+  "internalId": 1560251606,
+  "name": "Druid's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185563,
+    185618,
+    185653,
+    185688,
+    185723,
+    185758,
+    185793,
+    185828,
+    185863,
+    185898
+  ]
+}

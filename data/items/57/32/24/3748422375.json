@@ -1,0 +1,21 @@
+{
+  "internalId": 3748422375,
+  "name": "Pillager's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_lgt_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1587677,
+    1592766,
+    1592850,
+    1593690,
+    1596992,
+    1596995,
+    1601273,
+    1601984,
+    1626530,
+    1626535,
+    1658013,
+    1693422
+  ]
+}

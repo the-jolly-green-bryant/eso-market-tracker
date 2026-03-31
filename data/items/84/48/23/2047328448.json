@@ -1,0 +1,16 @@
+{
+  "internalId": 2047328448,
+  "name": "Mara's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    814217,
+    812049,
+    722530,
+    826803,
+    837643,
+    838146,
+    888134
+  ]
+}

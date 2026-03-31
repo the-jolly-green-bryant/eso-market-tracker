@@ -1,0 +1,18 @@
+{
+  "internalId": 109518917,
+  "name": "Senchal Defender's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldssenchalhvy_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154856,
+    154876,
+    154896,
+    154916,
+    154936,
+    154956,
+    154976,
+    154996,
+    155016
+  ]
+}

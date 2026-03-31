@@ -1,0 +1,10 @@
+{
+  "internalId": 1995491405,
+  "name": "Alinor Streetlight, Wrought Iron",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_lamppostlit002.png",
+  "bindType": -1,
+  "knownIds": [
+    139212
+  ]
+}

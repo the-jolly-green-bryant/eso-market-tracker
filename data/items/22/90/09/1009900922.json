@@ -1,0 +1,12 @@
+{
+  "internalId": 1009900922,
+  "name": "Nix-Hound's Howl Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1691802,
+    1697482,
+    1774393
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1038066799,
+  "name": "Grave-Stake Collector Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142987,
+    143022,
+    143057,
+    143092,
+    143127
+  ]
+}

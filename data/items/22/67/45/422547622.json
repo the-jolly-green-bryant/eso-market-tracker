@@ -1,0 +1,17 @@
+{
+  "internalId": 422547622,
+  "name": "Axe of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76916,
+    76936,
+    76956,
+    76976,
+    76996,
+    77016,
+    77036,
+    77056
+  ]
+}

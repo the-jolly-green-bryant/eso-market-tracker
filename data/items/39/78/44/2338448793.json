@@ -1,0 +1,24 @@
+{
+  "internalId": 2338448793,
+  "name": "Bone Pirate's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1082991,
+    1155701,
+    1227126,
+    1349369,
+    1395915,
+    1398190,
+    1519598,
+    1559324,
+    1589094,
+    1596794,
+    1603685,
+    1619506,
+    1627650,
+    1690023,
+    1726071
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2054746459,
+  "name": "Alinor Amphora, Portrait",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_aldmervase002.png",
+  "bindType": -1,
+  "knownIds": [
+    139375
+  ]
+}

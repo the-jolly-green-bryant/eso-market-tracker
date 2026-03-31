@@ -1,0 +1,11 @@
+{
+  "internalId": 3837123344,
+  "name": "Grilled Hare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poultry.png",
+  "bindType": -1,
+  "knownIds": [
+    30447,
+    28362
+  ]
+}

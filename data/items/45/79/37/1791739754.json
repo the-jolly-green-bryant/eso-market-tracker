@@ -1,0 +1,18 @@
+{
+  "internalId": 1791739754,
+  "name": "Stuhn's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161277,
+    161312,
+    161347,
+    161382,
+    161417,
+    161452,
+    161487,
+    161522,
+    161557
+  ]
+}

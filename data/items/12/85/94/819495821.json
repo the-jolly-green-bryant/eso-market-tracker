@@ -1,0 +1,10 @@
+{
+  "internalId": 819495821,
+  "name": "Druidic Throne, Y'ffre's Bloom",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_druidgrowingchair001.png",
+  "bindType": -1,
+  "knownIds": [
+    193808
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 1977520655,
+  "name": "Strange Large Light Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54593,
+    54603
+  ]
+}

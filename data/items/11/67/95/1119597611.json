@@ -1,0 +1,18 @@
+{
+  "internalId": 1119597611,
+  "name": "Ophidian Greatsword of Celerity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1081571,
+    1191039,
+    1395553,
+    1409351,
+    1581722,
+    1610332,
+    1619199,
+    1620115,
+    1691579
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 309780836,
+  "name": "Redguard Couch, Slatted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varbench001.png",
+  "bindType": -1,
+  "knownIds": [
+    117780
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1474000310,
+  "name": "High Elf Divider, Carved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_foldingscreen002.png",
+  "bindType": -1,
+  "knownIds": [
+    114388
+  ]
+}

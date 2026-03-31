@@ -1,0 +1,10 @@
+{
+  "internalId": 2447942166,
+  "name": "Firesong Sculpture, Archdruid's Staff",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_lavamonolith006.png",
+  "bindType": -1,
+  "knownIds": [
+    193844
+  ]
+}

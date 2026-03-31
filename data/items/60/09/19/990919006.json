@@ -1,0 +1,17 @@
+{
+  "internalId": 990919006,
+  "name": "Axe of the Order of Diagna",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99467,
+    99487,
+    99507,
+    99527,
+    99547,
+    99567,
+    99587,
+    99607
+  ]
+}

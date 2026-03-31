@@ -1,0 +1,10 @@
+{
+  "internalId": 2225609134,
+  "name": "Auridon Fern, Squat",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_malabaltorfern004.png",
+  "bindType": -1,
+  "knownIds": [
+    119586
+  ]
+}

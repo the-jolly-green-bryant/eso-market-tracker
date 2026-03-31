@@ -1,0 +1,10 @@
+{
+  "internalId": 849710102,
+  "name": "Deadlands Table, Long Etched",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedhighlargetable001.png",
+  "bindType": -1,
+  "knownIds": [
+    182253
+  ]
+}

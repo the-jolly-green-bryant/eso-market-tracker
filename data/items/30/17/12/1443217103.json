@@ -1,0 +1,14 @@
+{
+  "internalId": 1443217103,
+  "name": "Shield of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93573,
+    93593,
+    93633,
+    93673,
+    93693
+  ]
+}

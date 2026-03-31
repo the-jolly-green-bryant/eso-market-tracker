@@ -1,0 +1,19 @@
+{
+  "internalId": 400991286,
+  "name": "Coldharbour's Favorite Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147974,
+    148029,
+    148064,
+    148099,
+    148134,
+    148169,
+    148204,
+    148239,
+    148274,
+    148309
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 567092513,
+  "name": "Shared Burden Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215185,
+    215220,
+    215255,
+    215290,
+    215325,
+    215360,
+    215395,
+    215430,
+    215465
+  ]
+}

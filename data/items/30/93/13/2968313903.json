@@ -1,0 +1,10 @@
+{
+  "internalId": 2968313903,
+  "name": "Alinor Brazier, Hanging Coals",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_chandelier001.png",
+  "bindType": -1,
+  "knownIds": [
+    139210
+  ]
+}

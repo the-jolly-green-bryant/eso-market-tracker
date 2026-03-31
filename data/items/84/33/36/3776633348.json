@@ -1,0 +1,10 @@
+{
+  "internalId": 3776633348,
+  "name": "Redguard Tapestry, Oasis",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_tapestrylarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    117808
+  ]
+}

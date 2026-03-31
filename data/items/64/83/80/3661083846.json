@@ -1,0 +1,10 @@
+{
+  "internalId": 3661083846,
+  "name": "Vines, Flowering Wyrdbloom",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_wyrdflowercluster04.png",
+  "bindType": -1,
+  "knownIds": [
+    167346
+  ]
+}

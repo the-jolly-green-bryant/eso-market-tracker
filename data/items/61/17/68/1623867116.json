@@ -1,0 +1,17 @@
+{
+  "internalId": 1623867116,
+  "name": "Sword of the Dreugh King Slayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80862,
+    80882,
+    80902,
+    80922,
+    80942,
+    80954,
+    80974,
+    80994
+  ]
+}

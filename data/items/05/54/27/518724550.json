@@ -1,0 +1,19 @@
+{
+  "internalId": 518724550,
+  "name": "Druid's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185566,
+    185568,
+    185570,
+    185572,
+    185574,
+    185576,
+    185578,
+    185580,
+    185582,
+    185584
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 2922780099,
+  "name": "Apocryphal Inspiration Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628795,
+    1636442,
+    1637705,
+    1637722,
+    1642692,
+    1643955,
+    1647325,
+    1734988,
+    1762725
+  ]
+}

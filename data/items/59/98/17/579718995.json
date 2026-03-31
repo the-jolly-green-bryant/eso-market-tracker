@@ -1,0 +1,10 @@
+{
+  "internalId": 579718995,
+  "name": "Honey Jar, Sealed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_honeyjar002.png",
+  "bindType": -1,
+  "knownIds": [
+    204704
+  ]
+}

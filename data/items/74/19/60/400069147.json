@@ -1,0 +1,14 @@
+{
+  "internalId": 400069147,
+  "name": "Aetheric Lancer Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_1hmace.png",
+  "bindType": -1,
+  "knownIds": [
+    1745943,
+    1756575,
+    1762303,
+    1771088,
+    1774806
+  ]
+}

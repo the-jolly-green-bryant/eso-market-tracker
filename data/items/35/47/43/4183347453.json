@@ -1,0 +1,10 @@
+{
+  "internalId": 4183347453,
+  "name": "Shepherd's Blade",
+  "description": "A salt-stained blade from High Isle, most likely used to defend the lives of a beloved flock.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    188124
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3196134472,
+  "name": "Smuggler's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100964,
+    100985,
+    101006,
+    101027,
+    101048,
+    101069,
+    101090,
+    101111
+  ]
+}

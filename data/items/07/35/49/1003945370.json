@@ -1,0 +1,12 @@
+{
+  "internalId": 1003945370,
+  "name": "Black-Glove Grounding Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_mace.png",
+  "bindType": -1,
+  "knownIds": [
+    1702140,
+    1717192,
+    1760679
+  ]
+}

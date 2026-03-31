@@ -1,0 +1,11 @@
+{
+  "internalId": 144363749,
+  "name": "Puckermint Tea",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_002.png",
+  "bindType": -1,
+  "knownIds": [
+    32134,
+    28469
+  ]
+}

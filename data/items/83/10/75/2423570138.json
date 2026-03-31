@@ -1,0 +1,12 @@
+{
+  "internalId": 2423570138,
+  "name": "Dauntless Combatant's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159347,
+    159382,
+    159417
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2525868562,
+  "name": "Redoran Incense Holder, Curved",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaincenseburner001.png",
+  "bindType": -1,
+  "knownIds": [
+    126352
+  ]
+}

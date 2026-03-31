@@ -1,0 +1,14 @@
+{
+  "internalId": 1045076201,
+  "name": "Gauntlets of the Sergeant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89700,
+    89720,
+    89740,
+    89760,
+    89780
+  ]
+}

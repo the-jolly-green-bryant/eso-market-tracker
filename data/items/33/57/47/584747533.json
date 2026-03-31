@@ -1,0 +1,17 @@
+{
+  "internalId": 584747533,
+  "name": "Witchman's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_bow_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101524,
+    101544,
+    101564,
+    101584,
+    101604,
+    101624,
+    101644,
+    101664
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2183964986,
+  "name": "Skald-King's War Plackart",
+  "description": "For helping Jorunn the Skald-King's council of war take place at Jorunn's Stand, this heavy armor was bestowed.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7664
+  ]
+}

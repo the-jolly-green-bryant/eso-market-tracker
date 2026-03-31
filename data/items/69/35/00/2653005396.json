@@ -1,0 +1,19 @@
+{
+  "internalId": 2653005396,
+  "name": "Naga Shaman Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143167,
+    143222,
+    143257,
+    143292,
+    143327,
+    143362,
+    143397,
+    143432,
+    143467,
+    143502
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 2287053804,
+  "name": "Necklace of Torug's Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139729,
+    139819,
+    139909,
+    139999,
+    140089,
+    140179
+  ]
+}

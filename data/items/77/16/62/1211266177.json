@@ -1,0 +1,17 @@
+{
+  "internalId": 1211266177,
+  "name": "Shield of Grave Inevitability",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600822,
+    1610362,
+    1629446,
+    1735381,
+    1739098,
+    1740275,
+    1765919,
+    1765970
+  ]
+}

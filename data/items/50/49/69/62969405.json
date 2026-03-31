@@ -1,0 +1,10 @@
+{
+  "internalId": 62969405,
+  "name": "Cask, Orange Dye",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationbarrellrga001.png",
+  "bindType": -1,
+  "knownIds": [
+    118315
+  ]
+}

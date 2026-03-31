@@ -1,0 +1,17 @@
+{
+  "internalId": 2294318957,
+  "name": "Belt of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77095,
+    77115,
+    77135,
+    77155,
+    77175,
+    77195,
+    77215,
+    77235
+  ]
+}

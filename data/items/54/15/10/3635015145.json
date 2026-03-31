@@ -1,0 +1,17 @@
+{
+  "internalId": 3635015145,
+  "name": "Inferno Staff of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91763,
+    91784,
+    91805,
+    91826,
+    91847,
+    91868,
+    91889,
+    91910
+  ]
+}

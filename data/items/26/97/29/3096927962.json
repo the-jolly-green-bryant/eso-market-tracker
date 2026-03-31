@@ -1,0 +1,10 @@
+{
+  "internalId": 3096927962,
+  "name": "Play Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_sword_002.png",
+  "bindType": -1,
+  "knownIds": [
+    799574
+  ]
+}

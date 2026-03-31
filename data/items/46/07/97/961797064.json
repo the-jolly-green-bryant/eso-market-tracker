@@ -1,0 +1,10 @@
+{
+  "internalId": 961797064,
+  "name": "Gibbet, Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_gibbetanimated001.png",
+  "bindType": -1,
+  "knownIds": [
+    118192
+  ]
+}

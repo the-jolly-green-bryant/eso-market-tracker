@@ -1,0 +1,10 @@
+{
+  "internalId": 843776199,
+  "name": "Nedic Stand, Ritual",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_brazierwithorb001.png",
+  "bindType": -1,
+  "knownIds": [
+    151952
+  ]
+}

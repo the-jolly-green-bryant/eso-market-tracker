@@ -1,0 +1,10 @@
+{
+  "internalId": 4201526271,
+  "name": "Candle Set, Ritual",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candleset004.png",
+  "bindType": -1,
+  "knownIds": [
+    118198
+  ]
+}

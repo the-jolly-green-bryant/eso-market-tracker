@@ -1,0 +1,19 @@
+{
+  "internalId": 4087104079,
+  "name": "Seeker Synthesis Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195349,
+    195404,
+    195439,
+    195474,
+    195509,
+    195544,
+    195579,
+    195614,
+    195649,
+    195684
+  ]
+}

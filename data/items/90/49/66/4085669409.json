@@ -1,0 +1,17 @@
+{
+  "internalId": 4085669409,
+  "name": "Greaves of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194207,
+    194227,
+    194247,
+    194267,
+    194287,
+    194307,
+    194327,
+    194347
+  ]
+}

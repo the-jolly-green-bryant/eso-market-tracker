@@ -1,0 +1,19 @@
+{
+  "internalId": 3787964741,
+  "name": "Hist Whisperer's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172465,
+    172520,
+    172555,
+    172590,
+    172625,
+    172660,
+    172695,
+    172730,
+    172765,
+    172800
+  ]
+}

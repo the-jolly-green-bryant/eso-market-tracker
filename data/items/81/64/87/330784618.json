@@ -1,0 +1,17 @@
+{
+  "internalId": 330784618,
+  "name": "Barkskin Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92456,
+    92476,
+    92496,
+    92516,
+    92536,
+    92556,
+    92576,
+    92596
+  ]
+}

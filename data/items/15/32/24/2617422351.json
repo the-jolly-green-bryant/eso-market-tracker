@@ -1,0 +1,10 @@
+{
+  "internalId": 2617422351,
+  "name": "Tower Sentinel Brigandine",
+  "description": "The elegant cuirass of the warriors who guard the Crystal Tower, your reward for defending the Sapiarchs from a Daedric attack.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sapiarch_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134715
+  ]
+}

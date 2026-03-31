@@ -1,0 +1,10 @@
+{
+  "internalId": 707298715,
+  "name": "Branch, Sturdy Burnt",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_vrdlimberpine_branch001.png",
+  "bindType": -1,
+  "knownIds": [
+    130295
+  ]
+}

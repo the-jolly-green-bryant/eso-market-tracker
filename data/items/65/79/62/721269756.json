@@ -1,0 +1,10 @@
+{
+  "internalId": 721269756,
+  "name": "Druidic Table, Wood",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablemidround001.png",
+  "bindType": -1,
+  "knownIds": [
+    191176
+  ]
+}

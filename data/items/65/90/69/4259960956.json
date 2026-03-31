@@ -1,0 +1,19 @@
+{
+  "internalId": 4259960956,
+  "name": "Coldharbour's Favorite Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147957,
+    148012,
+    148047,
+    148082,
+    148117,
+    148152,
+    148187,
+    148222,
+    148257,
+    148292
+  ]
+}

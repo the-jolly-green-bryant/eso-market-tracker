@@ -1,0 +1,10 @@
+{
+  "internalId": 2423139259,
+  "name": "Macabre Vintage Gear",
+  "description": "Contains 5 gear pieces from the Macabre Vintage set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
+  "bindType": 3,
+  "knownIds": [
+    207958
+  ]
+}

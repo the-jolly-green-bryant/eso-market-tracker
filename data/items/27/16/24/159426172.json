@@ -1,0 +1,17 @@
+{
+  "internalId": 159426172,
+  "name": "Helm of the Gorethief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    224392,
+    224427,
+    224462,
+    224497,
+    224532,
+    224567,
+    224602,
+    224637
+  ]
+}

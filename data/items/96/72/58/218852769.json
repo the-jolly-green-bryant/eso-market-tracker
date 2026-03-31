@@ -1,0 +1,10 @@
+{
+  "internalId": 218852769,
+  "name": "Craglorn Coffer, Ornate",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_con_cheste001.png",
+  "bindType": -1,
+  "knownIds": [
+    120840
+  ]
+}

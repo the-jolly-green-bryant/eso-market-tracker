@@ -1,0 +1,10 @@
+{
+  "internalId": 148876447,
+  "name": "Argonian Bench, Woven",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkbench001.png",
+  "bindType": -1,
+  "knownIds": [
+    115470
+  ]
+}

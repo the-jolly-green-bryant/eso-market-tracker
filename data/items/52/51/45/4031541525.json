@@ -1,0 +1,20 @@
+{
+  "internalId": 4031541525,
+  "name": "Galenwe's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_bow_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1245475,
+    1286993,
+    1305152,
+    1377490,
+    1452143,
+    1454799,
+    1477694,
+    1500565,
+    1636943,
+    1725950,
+    1777079
+  ]
+}

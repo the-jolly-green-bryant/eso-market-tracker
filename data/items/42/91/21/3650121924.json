@@ -1,0 +1,10 @@
+{
+  "internalId": 3650121924,
+  "name": "Crafting Motif 63: Dremora Axes",
+  "description": "Use to learn how to make Dremora Axes. Also teaches the equivalent Dremora outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    140445
+  ]
+}

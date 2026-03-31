@@ -1,0 +1,19 @@
+{
+  "internalId": 4202189294,
+  "name": "Karth's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168373,
+    168428,
+    168463,
+    168498,
+    168533,
+    168568,
+    168603,
+    168638,
+    168673,
+    168708
+  ]
+}

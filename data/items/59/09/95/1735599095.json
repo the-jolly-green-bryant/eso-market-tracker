@@ -1,0 +1,10 @@
+{
+  "internalId": 1735599095,
+  "name": "Apocrypha Wall, Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_duc_stonewallmiddle004.png",
+  "bindType": -1,
+  "knownIds": [
+    203304
+  ]
+}

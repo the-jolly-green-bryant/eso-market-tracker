@@ -1,0 +1,10 @@
+{
+  "internalId": 1134125778,
+  "name": "Fretfish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_longfin.png",
+  "bindType": -1,
+  "knownIds": [
+    1395387
+  ]
+}

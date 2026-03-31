@@ -1,0 +1,10 @@
+{
+  "internalId": 518027041,
+  "name": "Elsweyr Fabric, Hanging Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_merchantrackfabric005.png",
+  "bindType": -1,
+  "knownIds": [
+    151680
+  ]
+}

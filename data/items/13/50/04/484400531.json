@@ -1,0 +1,17 @@
+{
+  "internalId": 484400531,
+  "name": "Shield of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98705,
+    98726,
+    98747,
+    98768,
+    98789,
+    98810,
+    98831,
+    98852
+  ]
+}

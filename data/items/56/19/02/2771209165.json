@@ -1,0 +1,10 @@
+{
+  "internalId": 2771209165,
+  "name": "Druidic Gourd Candle, Hanging",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drugourdhanginglong001.png",
+  "bindType": -1,
+  "knownIds": [
+    191201
+  ]
+}

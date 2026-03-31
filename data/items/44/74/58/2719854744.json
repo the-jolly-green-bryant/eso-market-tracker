@@ -1,0 +1,10 @@
+{
+  "internalId": 2719854744,
+  "name": "Boulder, Granite Cap",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_em_flatrock002.png",
+  "bindType": -1,
+  "knownIds": [
+    132215
+  ]
+}

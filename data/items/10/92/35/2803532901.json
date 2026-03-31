@@ -1,0 +1,17 @@
+{
+  "internalId": 2803532901,
+  "name": "Afflicted Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89267,
+    89287,
+    89307,
+    89327,
+    89347,
+    89367,
+    89387,
+    89407
+  ]
+}

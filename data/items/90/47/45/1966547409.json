@@ -1,0 +1,11 @@
+{
+  "internalId": 1966547409,
+  "name": "Acai Tonic Infusion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
+  "bindType": -1,
+  "knownIds": [
+    61043,
+    33696
+  ]
+}

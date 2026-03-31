@@ -1,0 +1,10 @@
+{
+  "internalId": 1780512029,
+  "name": "Abyss-Drenched Folio Volume",
+  "description": "A dripping packet, snagged by your fishing line. It sounds like something is inside.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_half_digested_document_pouch.png",
+  "bindType": -1,
+  "knownIds": [
+    197853
+  ]
+}

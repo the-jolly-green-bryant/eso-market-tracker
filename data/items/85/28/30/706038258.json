@@ -1,0 +1,14 @@
+{
+  "internalId": 706038258,
+  "name": "Pelinal's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76280,
+    76315,
+    76350,
+    76385,
+    76420
+  ]
+}

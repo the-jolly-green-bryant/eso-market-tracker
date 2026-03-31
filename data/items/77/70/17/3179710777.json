@@ -1,0 +1,10 @@
+{
+  "internalId": 3179710777,
+  "name": "Redguard Armchair, Starry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varchair001.png",
+  "bindType": -1,
+  "knownIds": [
+    117787
+  ]
+}

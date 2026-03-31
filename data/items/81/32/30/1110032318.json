@@ -1,0 +1,22 @@
+{
+  "internalId": 1110032318,
+  "name": "Ulfnor's Favor Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1401101,
+    1517266,
+    1526706,
+    1540467,
+    1551756,
+    1613743,
+    1615384,
+    1731429,
+    1738727,
+    1749322,
+    1763406,
+    1770390,
+    1774039
+  ]
+}

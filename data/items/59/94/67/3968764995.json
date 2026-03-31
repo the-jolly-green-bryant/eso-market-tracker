@@ -1,0 +1,21 @@
+{
+  "internalId": 3968764995,
+  "name": "Rattlecage Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1159874,
+    1391204,
+    1504134,
+    1510720,
+    1542210,
+    1573620,
+    1579931,
+    1586243,
+    1620446,
+    1637901,
+    1649106,
+    1731932
+  ]
+}

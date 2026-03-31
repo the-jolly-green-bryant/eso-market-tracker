@@ -1,0 +1,10 @@
+{
+  "internalId": 1516804686,
+  "name": "Outfit Station",
+  "description": "When placed in your home, allows you to dye your worn equipment and customize your outfits.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_transmogtable001.png",
+  "bindType": -1,
+  "knownIds": [
+    134675
+  ]
+}

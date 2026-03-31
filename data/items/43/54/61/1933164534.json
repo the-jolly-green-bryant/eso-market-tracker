@@ -1,0 +1,23 @@
+{
+  "internalId": 1933164534,
+  "name": "Hulking Draugr's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1231411,
+    1287806,
+    1396274,
+    1408731,
+    1408738,
+    1455439,
+    1555698,
+    1566947,
+    1573705,
+    1588639,
+    1605691,
+    1628138,
+    1628139,
+    1763074
+  ]
+}

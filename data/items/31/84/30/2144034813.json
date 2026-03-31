@@ -1,0 +1,10 @@
+{
+  "internalId": 2144034813,
+  "name": "Pumpkin, Display",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_crp_pumpkinsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    117997
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1627892866,
+  "name": "Greatsword of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93080,
+    93100,
+    93120,
+    93140
+  ]
+}

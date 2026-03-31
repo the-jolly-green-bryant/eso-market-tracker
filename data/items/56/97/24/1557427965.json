@@ -1,0 +1,17 @@
+{
+  "internalId": 1557427965,
+  "name": "Wizard's Riposte Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123724,
+    123745,
+    123766,
+    123787,
+    123808,
+    123829,
+    123850,
+    123871
+  ]
+}

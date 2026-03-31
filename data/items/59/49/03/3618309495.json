@@ -1,0 +1,19 @@
+{
+  "internalId": 3618309495,
+  "name": "Fortified Brass Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130746,
+    130781,
+    130816,
+    130851,
+    130886,
+    130921,
+    130956,
+    130991,
+    131026,
+    131061
+  ]
+}

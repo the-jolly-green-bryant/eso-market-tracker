@@ -1,0 +1,13 @@
+{
+  "internalId": 2713298107,
+  "name": "Yandir's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_mace.png",
+  "bindType": -1,
+  "knownIds": [
+    1539646,
+    1615052,
+    1615680,
+    1615831
+  ]
+}

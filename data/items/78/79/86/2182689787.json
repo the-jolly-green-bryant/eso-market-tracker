@@ -1,0 +1,15 @@
+{
+  "internalId": 2182689787,
+  "name": "Cat's Claw",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_claw_003.png",
+  "bindType": -1,
+  "knownIds": [
+    483724,
+    1079053,
+    1228207,
+    1250635,
+    1286097,
+    1319708
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 304417209,
+  "name": "Hat of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85651,
+    85672,
+    85693,
+    85714,
+    85735,
+    85777
+  ]
+}

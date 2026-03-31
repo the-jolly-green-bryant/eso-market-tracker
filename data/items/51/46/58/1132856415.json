@@ -1,0 +1,17 @@
+{
+  "internalId": 1132856415,
+  "name": "Boots of the Valiant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92645,
+    92665,
+    92685,
+    92705,
+    92725,
+    92745,
+    92765,
+    92785
+  ]
+}

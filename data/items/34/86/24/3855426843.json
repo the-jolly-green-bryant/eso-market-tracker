@@ -1,0 +1,19 @@
+{
+  "internalId": 3855426843,
+  "name": "Heartland Conqueror's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172834,
+    172889,
+    172924,
+    172959,
+    172994,
+    173029,
+    173064,
+    173099,
+    173134,
+    173169
+  ]
+}

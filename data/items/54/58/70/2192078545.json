@@ -1,0 +1,17 @@
+{
+  "internalId": 2192078545,
+  "name": "Gloves of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91197,
+    91218,
+    91239,
+    91260,
+    91281,
+    91302,
+    91323,
+    91344
+  ]
+}

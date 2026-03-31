@@ -1,0 +1,10 @@
+{
+  "internalId": 1319341101,
+  "name": "Redoran Steamer, Iron",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlasteamer001.png",
+  "bindType": -1,
+  "knownIds": [
+    126523
+  ]
+}

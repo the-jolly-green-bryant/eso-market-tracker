@@ -1,0 +1,10 @@
+{
+  "internalId": 2449987376,
+  "name": "Alinor Greenhouse, Summer",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_altgreenhouse001.png",
+  "bindType": -1,
+  "knownIds": [
+    151859
+  ]
+}

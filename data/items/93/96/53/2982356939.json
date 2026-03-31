@@ -1,0 +1,10 @@
+{
+  "internalId": 2982356939,
+  "name": "Ogre Biter's Shell of Cyrodiil's Crest",
+  "description": "Insect carapaces reinforce the metal-and-leather structure of this unique shield.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45754
+  ]
+}

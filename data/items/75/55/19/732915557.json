@@ -1,0 +1,13 @@
+{
+  "internalId": 732915557,
+  "name": "Shacklebreaker Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122473,
+    122508,
+    122543,
+    122578
+  ]
+}

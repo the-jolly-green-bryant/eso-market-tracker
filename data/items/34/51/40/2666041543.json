@@ -1,0 +1,14 @@
+{
+  "internalId": 2666041543,
+  "name": "Cuirass of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86949,
+    86969,
+    86989,
+    87009,
+    87069
+  ]
+}

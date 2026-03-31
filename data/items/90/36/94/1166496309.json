@@ -1,0 +1,19 @@
+{
+  "internalId": 1166496309,
+  "name": "Hist Whisperer's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172462,
+    172517,
+    172552,
+    172587,
+    172622,
+    172657,
+    172692,
+    172727,
+    172762,
+    172797
+  ]
+}

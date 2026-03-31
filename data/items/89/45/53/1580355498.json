@@ -1,0 +1,15 @@
+{
+  "internalId": 1580355498,
+  "name": "Darkstride Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    85843,
+    85863,
+    85883,
+    85903,
+    85923,
+    85963
+  ]
+}

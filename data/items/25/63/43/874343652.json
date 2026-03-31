@@ -1,0 +1,19 @@
+{
+  "internalId": 874343652,
+  "name": "Clever Alchemist Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72159,
+    72194,
+    72229,
+    72264,
+    72299,
+    72334,
+    72369,
+    72404,
+    72439,
+    72474
+  ]
+}

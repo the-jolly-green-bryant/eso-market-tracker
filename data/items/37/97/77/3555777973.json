@@ -1,0 +1,19 @@
+{
+  "internalId": 3555777973,
+  "name": "Helm of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121917,
+    121952,
+    121987,
+    122022,
+    122057,
+    122092,
+    122127,
+    122162,
+    122197,
+    122232
+  ]
+}

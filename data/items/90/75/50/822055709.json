@@ -1,0 +1,17 @@
+{
+  "internalId": 822055709,
+  "name": "Girdle of the Vampire's Cloak",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98530,
+    98550,
+    98570,
+    98590,
+    98610,
+    98630,
+    98650,
+    98670
+  ]
+}

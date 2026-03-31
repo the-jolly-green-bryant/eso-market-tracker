@@ -1,0 +1,12 @@
+{
+  "internalId": 2024767691,
+  "name": "Xanmeer Genesis Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223430,
+    223465,
+    223500
+  ]
+}

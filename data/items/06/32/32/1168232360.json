@@ -1,0 +1,20 @@
+{
+  "internalId": 1168232360,
+  "name": "Draugrkin Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1357057,
+    1402810,
+    1408473,
+    1458976,
+    1537583,
+    1588375,
+    1617999,
+    1618232,
+    1629092,
+    1652115,
+    1676776
+  ]
+}

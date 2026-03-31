@@ -1,0 +1,10 @@
+{
+  "internalId": 3972679306,
+  "name": "Solitude Tray, Fresh Eel",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodplateeals001.png",
+  "bindType": -1,
+  "knownIds": [
+    165782
+  ]
+}

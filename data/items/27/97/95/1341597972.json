@@ -1,0 +1,10 @@
+{
+  "internalId": 1341597972,
+  "name": "Dawnwood Ramp, Straight",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_boshouseramp002.png",
+  "bindType": -1,
+  "knownIds": [
+    212399
+  ]
+}

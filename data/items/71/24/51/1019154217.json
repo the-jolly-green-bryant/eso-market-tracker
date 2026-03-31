@@ -1,0 +1,10 @@
+{
+  "internalId": 1019154217,
+  "name": "Charging Chestpiece of Syrabane",
+  "description": "This shirt crackles when you touch it.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    34662
+  ]
+}

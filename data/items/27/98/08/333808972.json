@@ -1,0 +1,15 @@
+{
+  "internalId": 333808972,
+  "name": "Ring of Twilight Remedy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    949606,
+    1189986,
+    1197929,
+    1440430,
+    1448742,
+    1448841
+  ]
+}

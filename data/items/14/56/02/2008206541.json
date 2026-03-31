@@ -1,0 +1,21 @@
+{
+  "internalId": 2008206541,
+  "name": "Galenwe's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_mace_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1262285,
+    1274498,
+    1353178,
+    1365475,
+    1407033,
+    1419763,
+    1493301,
+    1527603,
+    1602010,
+    1605606,
+    1622669,
+    1742081
+  ]
+}

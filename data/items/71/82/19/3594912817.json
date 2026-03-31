@@ -1,0 +1,13 @@
+{
+  "internalId": 3594912817,
+  "name": "Adept Rider's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135961,
+    135996,
+    136031,
+    136066
+  ]
+}

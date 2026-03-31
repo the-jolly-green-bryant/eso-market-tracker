@@ -1,0 +1,14 @@
+{
+  "internalId": 861863680,
+  "name": "Pyrebrand Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1732959,
+    1735851,
+    1736632,
+    1759482,
+    1761061
+  ]
+}

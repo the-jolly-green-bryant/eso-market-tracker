@@ -1,0 +1,17 @@
+{
+  "internalId": 1568147263,
+  "name": "Maul of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84529,
+    84549,
+    84569,
+    84589,
+    84609,
+    84629,
+    84649,
+    84669
+  ]
+}

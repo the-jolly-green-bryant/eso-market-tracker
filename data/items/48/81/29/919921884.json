@@ -1,0 +1,10 @@
+{
+  "internalId": 919921884,
+  "name": "Small Compass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_compass.png",
+  "bindType": -1,
+  "knownIds": [
+    415027
+  ]
+}

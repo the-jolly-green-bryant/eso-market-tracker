@@ -1,0 +1,10 @@
+{
+  "internalId": 1340340958,
+  "name": "Weapons: Ayleid Refuge",
+  "description": "A Heavy Armor set found in West Weald.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    205383
+  ]
+}

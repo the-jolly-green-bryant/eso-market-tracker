@@ -1,0 +1,17 @@
+{
+  "internalId": 71865486,
+  "name": "Battlefield Acrobat Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144289,
+    144309,
+    144329,
+    144349,
+    144369,
+    144389,
+    144409,
+    144429
+  ]
+}

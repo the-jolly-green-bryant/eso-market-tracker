@@ -1,0 +1,10 @@
+{
+  "internalId": 957583810,
+  "name": "Covenant Brigand Mercenary Contract",
+  "description": "This contract grants you the services of a mercenary who will defend a location of your choice for a short period of time.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_002.png",
+  "bindType": -1,
+  "knownIds": [
+    43568
+  ]
+}

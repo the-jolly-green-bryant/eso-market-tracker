@@ -1,0 +1,19 @@
+{
+  "internalId": 3236822611,
+  "name": "Tide-Born Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215491,
+    215546,
+    215581,
+    215616,
+    215651,
+    215686,
+    215721,
+    215756,
+    215791,
+    215826
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4172662247,
+  "name": "Sload's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136088,
+    136123,
+    136158,
+    136193,
+    136228,
+    136263,
+    136298,
+    136333,
+    136368,
+    136403
+  ]
+}

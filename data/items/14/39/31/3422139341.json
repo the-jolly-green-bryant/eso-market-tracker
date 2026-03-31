@@ -1,0 +1,17 @@
+{
+  "internalId": 3422139341,
+  "name": "Seventh Legion's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100772,
+    100792,
+    100812,
+    100832,
+    100852,
+    100872,
+    100892,
+    100912
+  ]
+}

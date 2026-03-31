@@ -1,0 +1,10 @@
+{
+  "internalId": 2079915052,
+  "name": "Noellaume Family Heirloom",
+  "description": "Lady Eloise awarded this pendant for recovering her lockbox from the Red Rook Bandits.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    1102
+  ]
+}

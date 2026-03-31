@@ -1,0 +1,18 @@
+{
+  "internalId": 508415231,
+  "name": "Lightning Staff of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116717,
+    116738,
+    116759,
+    116780,
+    116801,
+    116822,
+    116843,
+    116864,
+    116885
+  ]
+}

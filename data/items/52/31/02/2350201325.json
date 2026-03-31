@@ -1,0 +1,10 @@
+{
+  "internalId": 2350201325,
+  "name": "Elsweyr Platform, Ancient Rectangular",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_seplatformwide001.png",
+  "bindType": -1,
+  "knownIds": [
+    153671
+  ]
+}

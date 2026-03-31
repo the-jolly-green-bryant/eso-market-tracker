@@ -1,0 +1,10 @@
+{
+  "internalId": 1848346725,
+  "name": "Sailor's Warning Festival Grog",
+  "description": "This potent drink is one of the few banned by all fleets in Tamriel. Though a spilled mug doesn't actually strip tar from a ship's deck, it is absolutely capable of removing rational thought from those who imbibe it.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
+  "bindType": -1,
+  "knownIds": [
+    112441
+  ]
+}

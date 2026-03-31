@@ -1,0 +1,12 @@
+{
+  "internalId": 2322807563,
+  "name": "Xanmeer Genesis Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223426,
+    223461,
+    223496
+  ]
+}

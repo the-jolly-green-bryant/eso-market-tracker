@@ -1,0 +1,10 @@
+{
+  "internalId": 1720018809,
+  "name": "Solitude Wall, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumstraight002.png",
+  "bindType": -1,
+  "knownIds": [
+    167313
+  ]
+}

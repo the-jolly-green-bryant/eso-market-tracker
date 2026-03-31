@@ -1,0 +1,10 @@
+{
+  "internalId": 3604004213,
+  "name": "Stool, Carved",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_fur_spellcraftingstool001.png",
+  "bindType": -1,
+  "knownIds": [
+    117991
+  ]
+}

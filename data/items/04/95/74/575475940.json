@@ -1,0 +1,10 @@
+{
+  "internalId": 575475940,
+  "name": "Alinor Shrine, Trinimac",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_trinimacshrine001.png",
+  "bindType": -1,
+  "knownIds": [
+    145476
+  ]
+}

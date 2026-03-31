@@ -1,0 +1,16 @@
+{
+  "internalId": 2534684886,
+  "name": "Darkstride Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    85829,
+    85849,
+    85869,
+    85889,
+    85909,
+    85929,
+    85949
+  ]
+}

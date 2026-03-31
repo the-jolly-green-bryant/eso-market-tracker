@@ -1,0 +1,13 @@
+{
+  "internalId": 4265086248,
+  "name": "Bow of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131287,
+    131322,
+    131357,
+    131392
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3353062365,
+  "name": "Imperial Brazier, Caged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_duc_icundergroundbrazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    94156
+  ]
+}

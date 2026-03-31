@@ -1,0 +1,10 @@
+{
+  "internalId": 3623477196,
+  "name": "Chair, Love-Blessed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_fur_heartsdaychair001.png",
+  "bindType": -1,
+  "knownIds": [
+    156765
+  ]
+}

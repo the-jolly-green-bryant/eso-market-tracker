@@ -1,0 +1,14 @@
+{
+  "internalId": 2148731950,
+  "name": "Gauntlets of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86951,
+    86971,
+    86991,
+    87011,
+    87071
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 2108693722,
+  "name": "Unidentified Enchantment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    938924,
+    1230955,
+    1329114,
+    1357230,
+    1387545,
+    1387777
+  ]
+}

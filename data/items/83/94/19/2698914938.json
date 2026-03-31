@@ -1,0 +1,10 @@
+{
+  "internalId": 2698914938,
+  "name": "meal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_pollen.png",
+  "bindType": -1,
+  "knownIds": [
+    871318
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2118853673,
+  "name": "Sash of Martial Knowledge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95474,
+    95495,
+    95516,
+    95537,
+    95558,
+    95579,
+    95600,
+    95621
+  ]
+}

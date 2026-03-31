@@ -1,0 +1,19 @@
+{
+  "internalId": 2706908032,
+  "name": "Thunder Caller's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1573304,
+    1583088,
+    1583121,
+    1583817,
+    1680610,
+    1680883,
+    1722541,
+    1737540,
+    1765952,
+    1772623
+  ]
+}

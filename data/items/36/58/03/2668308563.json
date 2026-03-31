@@ -1,0 +1,29 @@
+{
+  "internalId": 2668308563,
+  "name": "Spelunker's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_1hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    941666,
+    1066334,
+    1138979,
+    1166386,
+    1253707,
+    1310239,
+    1387268,
+    1399478,
+    1401687,
+    1424120,
+    1494034,
+    1563764,
+    1565972,
+    1605254,
+    1606214,
+    1619012,
+    1621296,
+    1652418,
+    1720836,
+    1728867
+  ]
+}

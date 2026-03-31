@@ -1,0 +1,10 @@
+{
+  "internalId": 502918143,
+  "name": "Wood Elf Barrel, Ceramic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_barrel001.png",
+  "bindType": -1,
+  "knownIds": [
+    115584
+  ]
+}

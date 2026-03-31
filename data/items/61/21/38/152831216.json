@@ -1,0 +1,19 @@
+{
+  "internalId": 152831216,
+  "name": "Ulfnor's Favor Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_mace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1207071,
+    1250095,
+    1264655,
+    1290583,
+    1361951,
+    1371175,
+    1403561,
+    1559269,
+    1594737,
+    1743594
+  ]
+}

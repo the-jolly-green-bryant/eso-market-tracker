@@ -1,0 +1,10 @@
+{
+  "internalId": 2334497073,
+  "name": "Orcish Bas-Relief, Sword",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_housingbasrelief002.png",
+  "bindType": -1,
+  "knownIds": [
+    134261
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2368942036,
+  "name": "Jhunal the Rune God",
+  "description": "A text about Jhunal, the ancient Nord god of knowledge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    159495
+  ]
+}

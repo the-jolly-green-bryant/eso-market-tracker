@@ -1,0 +1,11 @@
+{
+  "internalId": 1378064944,
+  "name": "Busy Bee Brew",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_001.png",
+  "bindType": -1,
+  "knownIds": [
+    61052,
+    28501
+  ]
+}

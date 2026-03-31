@@ -1,0 +1,10 @@
+{
+  "internalId": 2652537551,
+  "name": "Orcish Lantern, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_lanternhanging001.png",
+  "bindType": -1,
+  "knownIds": [
+    116411
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 548726305,
+  "name": "Bound Focus Script: Disease Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_disease.png",
+  "bindType": -1,
+  "knownIds": [
+    1719378,
+    1721121
+  ]
+}

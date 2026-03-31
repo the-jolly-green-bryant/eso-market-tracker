@@ -1,0 +1,10 @@
+{
+  "internalId": 3084475300,
+  "name": "Apocrypha Chandelier, Diffusers",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libchandelier001.png",
+  "bindType": -1,
+  "knownIds": [
+    198437
+  ]
+}

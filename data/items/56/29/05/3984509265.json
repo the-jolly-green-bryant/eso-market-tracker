@@ -1,0 +1,19 @@
+{
+  "internalId": 3984509265,
+  "name": "Assassin's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121581,
+    121616,
+    121651,
+    121686,
+    121721,
+    121756,
+    121791,
+    121826,
+    121861,
+    121896
+  ]
+}

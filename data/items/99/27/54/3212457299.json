@@ -1,0 +1,10 @@
+{
+  "internalId": 3212457299,
+  "name": "Rough Block, Stone Chunk",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_str_spellcraftingruinwallbrick002.png",
+  "bindType": -1,
+  "knownIds": [
+    117993
+  ]
+}

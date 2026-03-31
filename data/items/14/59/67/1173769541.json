@@ -1,0 +1,13 @@
+{
+  "internalId": 1173769541,
+  "name": "Shacklebreaker Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122494,
+    122529,
+    122564,
+    122599
+  ]
+}

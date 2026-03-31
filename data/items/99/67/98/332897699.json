@@ -1,0 +1,17 @@
+{
+  "internalId": 332897699,
+  "name": "Barkskin Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92463,
+    92483,
+    92503,
+    92523,
+    92543,
+    92563,
+    92583,
+    92603
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 969453059,
+  "name": "Ice Staff of the Valiant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92640,
+    92660,
+    92680,
+    92700,
+    92720,
+    92740,
+    92760,
+    92780
+  ]
+}

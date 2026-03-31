@@ -1,0 +1,10 @@
+{
+  "internalId": 3554806659,
+  "name": "Elsweyr Tapestry, Water Flowers",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_tapestry001.png",
+  "bindType": -1,
+  "knownIds": [
+    151758
+  ]
+}

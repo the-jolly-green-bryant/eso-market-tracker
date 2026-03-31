@@ -1,0 +1,16 @@
+{
+  "internalId": 3435165477,
+  "name": "Sithis' Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77284,
+    77319,
+    77354,
+    77389,
+    77424,
+    77459,
+    77494
+  ]
+}

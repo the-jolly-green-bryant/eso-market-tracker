@@ -1,0 +1,10 @@
+{
+  "internalId": 866494747,
+  "name": "Sip of Spell Power",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_006_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    30145
+  ]
+}

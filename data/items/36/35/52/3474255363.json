@@ -1,0 +1,13 @@
+{
+  "internalId": 3474255363,
+  "name": "Sword of the Worm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77740,
+    77776,
+    77812,
+    77848
+  ]
+}

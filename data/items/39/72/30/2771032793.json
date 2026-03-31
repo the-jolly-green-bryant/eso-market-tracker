@@ -1,0 +1,18 @@
+{
+  "internalId": 2771032793,
+  "name": "Stuhn's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161309,
+    161344,
+    161379,
+    161414,
+    161449,
+    161484,
+    161519,
+    161554,
+    161589
+  ]
+}

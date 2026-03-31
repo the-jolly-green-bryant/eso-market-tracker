@@ -1,0 +1,18 @@
+{
+  "internalId": 1432999471,
+  "name": "Axe of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86745,
+    86766,
+    86787,
+    86808,
+    86829,
+    86850,
+    86871,
+    86892,
+    86913
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 702978033,
+  "name": "Cuirass of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78621,
+    78656,
+    78691,
+    78726,
+    78761,
+    78796,
+    78831,
+    78866
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 1999687285,
+  "name": "Pangrit Denmother's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600836,
+    1642727,
+    1643934,
+    1739067,
+    1747661,
+    1760433
+  ]
+}

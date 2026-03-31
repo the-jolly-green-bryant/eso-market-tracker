@@ -1,0 +1,10 @@
+{
+  "internalId": 222966609,
+  "name": "Leyawiin Chandelier, Twin Lanterns",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leychandelier003.png",
+  "bindType": -1,
+  "knownIds": [
+    175648
+  ]
+}

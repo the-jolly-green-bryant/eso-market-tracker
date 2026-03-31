@@ -1,0 +1,19 @@
+{
+  "internalId": 3923797763,
+  "name": "Deadlands Demolisher's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179214,
+    179269,
+    179304,
+    179339,
+    179374,
+    179409,
+    179444,
+    179479,
+    179514,
+    179549
+  ]
+}

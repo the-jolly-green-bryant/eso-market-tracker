@@ -1,0 +1,10 @@
+{
+  "internalId": 4111754876,
+  "name": "Indoril Pyrostaff",
+  "description": "Legend says this staff was once used to smite an Akaviri Warlord.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    29936
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3289516101,
+  "name": "Crafting Motif 97: Wayward Guardian Legs",
+  "description": "Use to learn how to make Wayward Guardian Legs. Also teaches the equivalent Wayward Guardian Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167986
+  ]
+}

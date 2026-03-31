@@ -1,0 +1,10 @@
+{
+  "internalId": 1811099936,
+  "name": "Scampstamper Sabatons",
+  "description": "The soles of these sabatons were magically hardened.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148
+  ]
+}

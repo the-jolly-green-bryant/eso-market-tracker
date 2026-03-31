@@ -1,0 +1,10 @@
+{
+  "internalId": 2847018435,
+  "name": "Witches Totem, Gnarled Vines and Skull",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_reachmantotem002.png",
+  "bindType": -1,
+  "knownIds": [
+    130340
+  ]
+}

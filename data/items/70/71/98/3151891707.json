@@ -1,0 +1,10 @@
+{
+  "internalId": 3151891707,
+  "name": "Wood Elf Fish Dish",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_plate004.png",
+  "bindType": -1,
+  "knownIds": [
+    115614
+  ]
+}

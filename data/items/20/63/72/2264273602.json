@@ -1,0 +1,10 @@
+{
+  "internalId": 2264273602,
+  "name": "Enemies Explode",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33434
+  ]
+}

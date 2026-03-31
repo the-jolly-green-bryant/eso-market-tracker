@@ -1,0 +1,10 @@
+{
+  "internalId": 4012999235,
+  "name": "High Elf Bed, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_bedsingle002.png",
+  "bindType": -1,
+  "knownIds": [
+    114417
+  ]
+}

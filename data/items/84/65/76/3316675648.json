@@ -1,0 +1,17 @@
+{
+  "internalId": 3316675648,
+  "name": "Shield of Endurance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69073,
+    69086,
+    69099,
+    69112,
+    69125,
+    69138,
+    69151,
+    69164
+  ]
+}

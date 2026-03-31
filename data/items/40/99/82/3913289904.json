@@ -1,0 +1,13 @@
+{
+  "internalId": 3913289904,
+  "name": "Gloves of Vicious Death",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199628,
+    199629,
+    199630,
+    199631
+  ]
+}

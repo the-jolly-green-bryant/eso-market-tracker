@@ -1,0 +1,17 @@
+{
+  "internalId": 2329170952,
+  "name": "Lightning Staff of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91383,
+    91404,
+    91425,
+    91446,
+    91467,
+    91488,
+    91509,
+    91530
+  ]
+}

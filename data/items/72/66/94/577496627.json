@@ -1,0 +1,15 @@
+{
+  "internalId": 577496627,
+  "name": "Curse-Eating Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90843,
+    90864,
+    90885,
+    90906,
+    90927,
+    90948
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3971182127,
+  "name": "Exemplary Nirnhoned Axe",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Axe.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    81602
+  ]
+}

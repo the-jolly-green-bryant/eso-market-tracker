@@ -1,0 +1,15 @@
+{
+  "internalId": 3929056703,
+  "name": "Ring of the Willow's Path",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139689,
+    139779,
+    139869,
+    139959,
+    140049,
+    140139
+  ]
+}

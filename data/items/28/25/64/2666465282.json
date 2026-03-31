@@ -1,0 +1,10 @@
+{
+  "internalId": 2666465282,
+  "name": "Daedric Brazier, Standing",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_candelabrar002.png",
+  "bindType": -1,
+  "knownIds": [
+    126698
+  ]
+}

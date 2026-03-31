@@ -1,0 +1,10 @@
+{
+  "internalId": 690423932,
+  "name": "Keep Wall Masonry Repair Kit",
+  "description": "Repairs 5,000 points of damage to a keep wall.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_heavy_armor_sp_names_001.png",
+  "bindType": -1,
+  "knownIds": [
+    27138
+  ]
+}

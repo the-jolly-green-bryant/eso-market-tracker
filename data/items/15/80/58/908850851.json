@@ -1,0 +1,11 @@
+{
+  "internalId": 908850851,
+  "name": "Abomination's Bulwark",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    411681,
+    619503
+  ]
+}

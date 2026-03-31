@@ -1,0 +1,17 @@
+{
+  "internalId": 3606292527,
+  "name": "Impregnable Armor Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125714,
+    125749,
+    125784,
+    125819,
+    125854,
+    125889,
+    125924,
+    125959
+  ]
+}

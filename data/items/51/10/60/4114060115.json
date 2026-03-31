@@ -1,0 +1,15 @@
+{
+  "internalId": 4114060115,
+  "name": "Tools of the Trapmaster Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1764832,
+    1765148,
+    1765631,
+    1779993,
+    1779996,
+    1780264
+  ]
+}

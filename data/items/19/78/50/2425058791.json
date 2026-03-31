@@ -1,0 +1,16 @@
+{
+  "internalId": 2425058791,
+  "name": "Dagon's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cauldron_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1560331,
+    1595374,
+    1595399,
+    1678177,
+    1680877,
+    1719440,
+    1758347
+  ]
+}

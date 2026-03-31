@@ -1,0 +1,16 @@
+{
+  "internalId": 3898420989,
+  "name": "Sithis' Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77292,
+    77327,
+    77362,
+    77397,
+    77432,
+    77467,
+    77502
+  ]
+}

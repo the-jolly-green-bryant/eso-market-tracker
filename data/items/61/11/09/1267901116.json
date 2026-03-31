@@ -1,0 +1,21 @@
+{
+  "internalId": 1267901116,
+  "name": "Xoryn's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1723260,
+    1732344,
+    1732853,
+    1732887,
+    1733504,
+    1739950,
+    1741810,
+    1749653,
+    1751952,
+    1757198,
+    1763867,
+    1778593
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 459752023,
+  "name": "Runecarver's Blaze Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1630277,
+    1636352,
+    1637718,
+    1640833,
+    1645255,
+    1650450,
+    1661362,
+    1703904,
+    1724183
+  ]
+}

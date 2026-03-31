@@ -1,0 +1,10 @@
+{
+  "internalId": 3114493528,
+  "name": "Flower Patch, Violets",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_abalavenderphlox006.png",
+  "bindType": -1,
+  "knownIds": [
+    121006
+  ]
+}

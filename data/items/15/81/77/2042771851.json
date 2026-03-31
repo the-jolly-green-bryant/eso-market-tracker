@@ -1,0 +1,10 @@
+{
+  "internalId": 2042771851,
+  "name": "Redguard Bench, Padded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varbench003.png",
+  "bindType": -1,
+  "knownIds": [
+    117781
+  ]
+}

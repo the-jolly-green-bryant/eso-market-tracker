@@ -1,0 +1,10 @@
+{
+  "internalId": 587453632,
+  "name": "Pulverized Titanium",
+  "description": "Ten of these items can be refined into Titanium, which is used to make Jewelry with the Protective Trait.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_armor_component_005.png",
+  "bindType": -1,
+  "knownIds": [
+    139416
+  ]
+}

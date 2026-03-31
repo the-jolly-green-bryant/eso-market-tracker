@@ -1,0 +1,10 @@
+{
+  "internalId": 3217946210,
+  "name": "Unknown Provisioning Writ",
+  "description": "This box contains a Master Provisioning Writ.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_latched_box_tan.png",
+  "bindType": -1,
+  "knownIds": [
+    217921
+  ]
+}

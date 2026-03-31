@@ -1,0 +1,17 @@
+{
+  "internalId": 2826220099,
+  "name": "Coup De Grâce Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219325,
+    219345,
+    219365,
+    219385,
+    219405,
+    219425,
+    219445,
+    219465
+  ]
+}

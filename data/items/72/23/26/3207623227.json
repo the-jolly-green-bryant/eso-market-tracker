@@ -1,0 +1,10 @@
+{
+  "internalId": 3207623227,
+  "name": "Shornhelm Guard Baldric",
+  "description": "A belt given for recruiting soldiers at Hoarfrost Downs.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7320
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 573105852,
+  "name": "Steadfast Hero Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144660,
+    144680,
+    144700,
+    144720,
+    144740,
+    144760,
+    144780,
+    144800
+  ]
+}

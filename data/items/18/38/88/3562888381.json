@@ -1,0 +1,10 @@
+{
+  "internalId": 3562888381,
+  "name": "Fargrave Defensive Spike, Corner",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farroofspikescorner001.png",
+  "bindType": -1,
+  "knownIds": [
+    184086
+  ]
+}

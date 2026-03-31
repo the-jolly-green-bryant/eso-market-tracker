@@ -1,0 +1,10 @@
+{
+  "internalId": 312989465,
+  "name": "Box of Grapes",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketproduce005.png",
+  "bindType": -1,
+  "knownIds": [
+    118353
+  ]
+}

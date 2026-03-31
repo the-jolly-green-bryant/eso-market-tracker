@@ -1,0 +1,10 @@
+{
+  "internalId": 27035376,
+  "name": "Solstice Shell, Fossilized Nautilus",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_shellxsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    214452
+  ]
+}

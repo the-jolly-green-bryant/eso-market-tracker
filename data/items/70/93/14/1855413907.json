@@ -1,0 +1,17 @@
+{
+  "internalId": 1855413907,
+  "name": "Draoife Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hpusemornard_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190712,
+    190732,
+    190752,
+    190772,
+    190792,
+    190812,
+    190832,
+    190852
+  ]
+}

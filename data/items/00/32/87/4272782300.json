@@ -1,0 +1,15 @@
+{
+  "internalId": 4272782300,
+  "name": "Ice Staff of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70099,
+    70134,
+    70169,
+    70204,
+    70239,
+    70274
+  ]
+}

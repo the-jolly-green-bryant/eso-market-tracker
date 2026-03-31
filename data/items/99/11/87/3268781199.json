@@ -1,0 +1,10 @@
+{
+  "internalId": 3268781199,
+  "name": "Tree, Ancient Fig",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_hircinetree004.png",
+  "bindType": -1,
+  "knownIds": [
+    141833
+  ]
+}

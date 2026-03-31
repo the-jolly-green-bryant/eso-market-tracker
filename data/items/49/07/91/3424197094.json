@@ -1,0 +1,10 @@
+{
+  "internalId": 3424197094,
+  "name": "Lion Guard Battle Staff",
+  "description": "For bringing proof of the Red Rook Bandits collaborating with the Bloodthorn cultists, you were given this battle staff.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1124
+  ]
+}

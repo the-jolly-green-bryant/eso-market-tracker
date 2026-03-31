@@ -1,0 +1,17 @@
+{
+  "internalId": 2293831487,
+  "name": "Hexos' Ward Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180101,
+    180121,
+    180141,
+    180161,
+    180181,
+    180201,
+    180221,
+    180241
+  ]
+}

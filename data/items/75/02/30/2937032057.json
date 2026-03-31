@@ -1,0 +1,10 @@
+{
+  "internalId": 2937032057,
+  "name": "Jewelry: Undaunted Infiltrator",
+  "description": "A Medium Armor set found in Arx Corinium.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134098
+  ]
+}

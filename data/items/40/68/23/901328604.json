@@ -1,0 +1,17 @@
+{
+  "internalId": 901328604,
+  "name": "Ice Staff of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93368,
+    93388,
+    93408,
+    93428,
+    93448,
+    93468,
+    93488,
+    93508
+  ]
+}

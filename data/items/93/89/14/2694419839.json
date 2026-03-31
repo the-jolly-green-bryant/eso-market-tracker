@@ -1,0 +1,13 @@
+{
+  "internalId": 2694419839,
+  "name": "Pyrebrand Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1731394,
+    1731397,
+    1735257,
+    1777414
+  ]
+}

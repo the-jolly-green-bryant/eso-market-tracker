@@ -1,0 +1,10 @@
+{
+  "internalId": 3511343279,
+  "name": "Funerary Offering, Ribbon",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsribbon003.png",
+  "bindType": -1,
+  "knownIds": [
+    197733
+  ]
+}

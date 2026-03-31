@@ -1,0 +1,19 @@
+{
+  "internalId": 1689555893,
+  "name": "Ancient Dragonguard's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155780,
+    155835,
+    155870,
+    155905,
+    155940,
+    155975,
+    156010,
+    156045,
+    156080,
+    156115
+  ]
+}

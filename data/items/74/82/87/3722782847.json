@@ -1,0 +1,10 @@
+{
+  "internalId": 3722782847,
+  "name": "Redguard Mat, Sunset",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmall009.png",
+  "bindType": -1,
+  "knownIds": [
+    117736
+  ]
+}

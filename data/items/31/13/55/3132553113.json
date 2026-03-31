@@ -1,0 +1,19 @@
+{
+  "internalId": 3132553113,
+  "name": "New Moon Acolyte's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156181,
+    156236,
+    156271,
+    156306,
+    156341,
+    156376,
+    156411,
+    156446,
+    156481,
+    156516
+  ]
+}

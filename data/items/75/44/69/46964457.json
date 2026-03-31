@@ -1,0 +1,10 @@
+{
+  "internalId": 46964457,
+  "name": "Banner of Hermaeus Mora",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannerhermaeusmorasmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    147636
+  ]
+}

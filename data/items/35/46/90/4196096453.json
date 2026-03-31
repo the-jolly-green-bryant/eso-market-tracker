@@ -1,0 +1,10 @@
+{
+  "internalId": 4196096453,
+  "name": "Covenant Scattershot Catapult",
+  "description": "Creates a catapult siege weapon whose mass of small rocks causes damage to foes in a wide area and applies a 20% damage taken debuff for 6 seconds.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_003.png",
+  "bindType": -1,
+  "knownIds": [
+    44773
+  ]
+}

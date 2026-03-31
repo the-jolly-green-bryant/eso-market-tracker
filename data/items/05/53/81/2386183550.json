@@ -1,0 +1,10 @@
+{
+  "internalId": 2386183550,
+  "name": "Crafting Motif 67: Welkynar Helmets",
+  "description": "Use to learn how to make Welkynar Helmets. Also teaches the equivalent Welkynar outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    140504
+  ]
+}

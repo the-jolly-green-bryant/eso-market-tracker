@@ -1,0 +1,19 @@
+{
+  "internalId": 2114978312,
+  "name": "Renald's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_hammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1353864,
+    1372916,
+    1400922,
+    1451208,
+    1459730,
+    1529630,
+    1562754,
+    1623979,
+    1755962,
+    1779625
+  ]
+}

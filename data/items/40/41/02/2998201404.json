@@ -1,0 +1,10 @@
+{
+  "internalId": 2998201404,
+  "name": "Tava's Mercy",
+  "description": "This staff emanates a sense of gratitude, perhaps stemming from your restoration of the High Temple's relics.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    26155
+  ]
+}

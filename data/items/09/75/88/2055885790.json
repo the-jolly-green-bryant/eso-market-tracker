@@ -1,0 +1,10 @@
+{
+  "internalId": 2055885790,
+  "name": "Jazbay Grapes",
+  "description": "An ingredient for crafting food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_grapes.png",
+  "bindType": -1,
+  "knownIds": [
+    28610
+  ]
+}

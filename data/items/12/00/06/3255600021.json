@@ -1,0 +1,10 @@
+{
+  "internalId": 3255600021,
+  "name": "stock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_1_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    871314
+  ]
+}

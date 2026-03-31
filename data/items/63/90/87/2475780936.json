@@ -1,0 +1,17 @@
+{
+  "internalId": 2475780936,
+  "name": "Vampire Lord's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100414,
+    100435,
+    100456,
+    100477,
+    100498,
+    100519,
+    100540,
+    100561
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 3712817506,
+  "name": "Pyrebrand Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735132,
+    1761054
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 483199974,
+  "name": "Simple Abacus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_abacus_001.png",
+  "bindType": -1,
+  "knownIds": [
+    795610
+  ]
+}

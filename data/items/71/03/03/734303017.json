@@ -1,0 +1,10 @@
+{
+  "internalId": 734303017,
+  "name": "Alinor Wall Mirror, Verdant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_mirror003.png",
+  "bindType": -1,
+  "knownIds": [
+    139239
+  ]
+}

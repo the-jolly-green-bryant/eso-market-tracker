@@ -1,0 +1,19 @@
+{
+  "internalId": 607517585,
+  "name": "Restoration Staff of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69611,
+    69646,
+    69681,
+    69716,
+    69751,
+    69786,
+    69821,
+    69856,
+    69891,
+    69926
+  ]
+}

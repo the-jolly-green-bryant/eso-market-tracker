@@ -1,0 +1,10 @@
+{
+  "internalId": 1961474302,
+  "name": "Leyawiin Cabinet, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowcabinet001.png",
+  "bindType": -1,
+  "knownIds": [
+    175588
+  ]
+}

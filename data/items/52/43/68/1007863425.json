@@ -1,0 +1,17 @@
+{
+  "internalId": 1007863425,
+  "name": "Phoenix Moth Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190550,
+    190570,
+    190590,
+    190610,
+    190630,
+    190650,
+    190670,
+    190690
+  ]
+}

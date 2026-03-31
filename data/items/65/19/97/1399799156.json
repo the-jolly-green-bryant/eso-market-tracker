@@ -1,0 +1,10 @@
+{
+  "internalId": 1399799156,
+  "name": "Saint Pelin Leggings",
+  "description": "Knight Commander Cheryline awarded this armor as thanks for defending Martyr's Crossing and helping make peace with the Baandari.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15599
+  ]
+}

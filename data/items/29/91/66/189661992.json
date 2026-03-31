@@ -1,0 +1,19 @@
+{
+  "internalId": 189661992,
+  "name": "Nocturnal's Favored Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136435,
+    136470,
+    136505,
+    136540,
+    136575,
+    136610,
+    136645,
+    136680,
+    136715,
+    136750
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4272997607,
+  "name": "Battle Axe of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92151,
+    92164,
+    92177,
+    92190,
+    92203,
+    92216,
+    92229,
+    92242
+  ]
+}

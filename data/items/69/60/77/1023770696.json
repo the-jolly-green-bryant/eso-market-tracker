@@ -1,0 +1,15 @@
+{
+  "internalId": 1023770696,
+  "name": "Abyssal Brace Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1630078,
+    1630289,
+    1644435,
+    1647326,
+    1649124,
+    1768083
+  ]
+}

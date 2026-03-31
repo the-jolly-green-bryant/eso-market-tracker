@@ -1,0 +1,10 @@
+{
+  "internalId": 1588753014,
+  "name": "Unknown Alchemy Writ",
+  "description": "This box contains a Master Alchemy Writ.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_latched_box_tan.png",
+  "bindType": -1,
+  "knownIds": [
+    217922
+  ]
+}

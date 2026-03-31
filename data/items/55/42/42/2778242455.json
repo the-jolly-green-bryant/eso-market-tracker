@@ -1,0 +1,10 @@
+{
+  "internalId": 2778242455,
+  "name": "PVP Furnishing Crate 2",
+  "description": "This Crate contains 40 PVP furnishings.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": 3,
+  "knownIds": [
+    192460
+  ]
+}

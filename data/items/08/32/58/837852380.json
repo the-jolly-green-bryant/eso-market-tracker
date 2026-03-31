@@ -1,0 +1,17 @@
+{
+  "internalId": 837852380,
+  "name": "Bow of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117460,
+    117480,
+    117500,
+    117520,
+    117540,
+    117560,
+    117580,
+    117600
+  ]
+}

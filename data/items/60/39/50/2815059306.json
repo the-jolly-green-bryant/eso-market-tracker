@@ -1,0 +1,10 @@
+{
+  "internalId": 2815059306,
+  "name": "Shoulderpads of the Faithful",
+  "description": "For finding his lost betrothed, Laurosse presented you these lightweight shoulderpads.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15775
+  ]
+}

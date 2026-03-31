@@ -1,0 +1,18 @@
+{
+  "internalId": 2116893266,
+  "name": "Claymore of the Crucible",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    825035,
+    463275,
+    823757,
+    878733,
+    1142056,
+    1233574,
+    1401486,
+    1477632,
+    1501691
+  ]
+}

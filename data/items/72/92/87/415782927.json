@@ -1,0 +1,12 @@
+{
+  "internalId": 415782927,
+  "name": "Icy Conjurer's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1620442,
+    1622577,
+    1758827
+  ]
+}

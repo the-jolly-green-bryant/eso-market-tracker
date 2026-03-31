@@ -1,0 +1,19 @@
+{
+  "internalId": 297685287,
+  "name": "Karth's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168396,
+    168451,
+    168486,
+    168521,
+    168556,
+    168591,
+    168626,
+    168661,
+    168696,
+    168731
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1694431107,
+  "name": "Pillager's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_sheild_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1592987,
+    1601594,
+    1601992,
+    1630659,
+    1643882,
+    1652184,
+    1740265,
+    1758781,
+    1777370
+  ]
+}

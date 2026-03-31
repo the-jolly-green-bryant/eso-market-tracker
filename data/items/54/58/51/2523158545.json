@@ -1,0 +1,17 @@
+{
+  "internalId": 2523158545,
+  "name": "Rage of the Ursauk Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1602345,
+    1605684,
+    1609026,
+    1610388,
+    1650814,
+    1653604,
+    1653615,
+    1678404
+  ]
+}

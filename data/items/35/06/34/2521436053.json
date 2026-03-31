@@ -1,0 +1,10 @@
+{
+  "internalId": 2521436053,
+  "name": "Colovian Bookshelf, Noble Filled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bookcasehighfilled002.png",
+  "bindType": -1,
+  "knownIds": [
+    204639
+  ]
+}

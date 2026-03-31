@@ -1,0 +1,17 @@
+{
+  "internalId": 4052542691,
+  "name": "Girdle of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97611,
+    97631,
+    97651,
+    97671,
+    97691,
+    97711,
+    97731,
+    97751
+  ]
+}

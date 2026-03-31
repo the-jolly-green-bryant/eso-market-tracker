@@ -1,0 +1,17 @@
+{
+  "internalId": 4173254171,
+  "name": "Boots of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77090,
+    77110,
+    77130,
+    77150,
+    77170,
+    77190,
+    77210,
+    77230
+  ]
+}

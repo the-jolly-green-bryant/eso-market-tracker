@@ -1,0 +1,16 @@
+{
+  "internalId": 1205467285,
+  "name": "Gauntlets of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168139,
+    168174,
+    168209,
+    168244,
+    168279,
+    168314,
+    168349
+  ]
+}

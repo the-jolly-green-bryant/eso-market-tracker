@@ -1,0 +1,10 @@
+{
+  "internalId": 4054385060,
+  "name": "Alinor Candles, Stand",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_candlestand002.png",
+  "bindType": -1,
+  "knownIds": [
+    139209
+  ]
+}

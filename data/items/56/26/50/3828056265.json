@@ -1,0 +1,16 @@
+{
+  "internalId": 3828056265,
+  "name": "Talfyg's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcticvampire_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1410292,
+    1499429,
+    1531140,
+    1587541,
+    1588170,
+    1595059,
+    1765588
+  ]
+}

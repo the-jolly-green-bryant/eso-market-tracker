@@ -1,0 +1,14 @@
+{
+  "internalId": 1513711210,
+  "name": "Corpseburster Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729070,
+    1751640,
+    1760423,
+    1771330,
+    1777278
+  ]
+}

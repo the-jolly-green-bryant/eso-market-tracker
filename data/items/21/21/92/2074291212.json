@@ -1,0 +1,10 @@
+{
+  "internalId": 2074291212,
+  "name": "Hist Whisperer",
+  "description": "A Crafted Armor set constructed in Blackwood.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182906
+  ]
+}

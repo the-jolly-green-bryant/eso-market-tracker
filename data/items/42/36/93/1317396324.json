@@ -1,0 +1,10 @@
+{
+  "internalId": 1317396324,
+  "name": "Idylls of Gideon Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_woodframepainting001.png",
+  "bindType": -1,
+  "knownIds": [
+    178442
+  ]
+}

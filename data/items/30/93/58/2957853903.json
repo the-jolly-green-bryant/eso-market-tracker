@@ -1,0 +1,10 @@
+{
+  "internalId": 2957853903,
+  "name": "High Elf Tapestry, Gilded",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_tapestry005.png",
+  "bindType": -1,
+  "knownIds": [
+    114424
+  ]
+}

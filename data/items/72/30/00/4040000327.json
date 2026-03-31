@@ -1,0 +1,19 @@
+{
+  "internalId": 4040000327,
+  "name": "Aether Shield of Strategy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1087781,
+    1089137,
+    1096557,
+    1115880,
+    1121415,
+    1131094,
+    1569452,
+    1740656,
+    1750764,
+    1760137
+  ]
+}

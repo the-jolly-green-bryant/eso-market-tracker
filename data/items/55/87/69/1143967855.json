@@ -1,0 +1,12 @@
+{
+  "internalId": 1143967855,
+  "name": "Bound Focus Script: Poison Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_poison.png",
+  "bindType": -1,
+  "knownIds": [
+    1719359,
+    1721987,
+    1722516
+  ]
+}

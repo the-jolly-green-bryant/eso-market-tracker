@@ -1,0 +1,12 @@
+{
+  "internalId": 3384342036,
+  "name": "Heroic Unity Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748684,
+    1754598,
+    1765790
+  ]
+}

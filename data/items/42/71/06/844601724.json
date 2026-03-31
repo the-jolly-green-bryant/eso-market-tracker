@@ -1,0 +1,17 @@
+{
+  "internalId": 844601724,
+  "name": "Farstrider Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211775,
+    211795,
+    211815,
+    211835,
+    211855,
+    211875,
+    211895,
+    211915
+  ]
+}

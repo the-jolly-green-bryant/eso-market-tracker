@@ -1,0 +1,17 @@
+{
+  "internalId": 1989682662,
+  "name": "Mace of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91756,
+    91777,
+    91798,
+    91819,
+    91840,
+    91861,
+    91882,
+    91903
+  ]
+}

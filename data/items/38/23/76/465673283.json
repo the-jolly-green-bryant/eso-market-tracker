@@ -1,0 +1,19 @@
+{
+  "internalId": 465673283,
+  "name": "Naga Shaman Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143184,
+    143239,
+    143274,
+    143309,
+    143344,
+    143379,
+    143414,
+    143449,
+    143484,
+    143519
+  ]
+}

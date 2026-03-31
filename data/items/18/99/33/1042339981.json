@@ -1,0 +1,10 @@
+{
+  "internalId": 1042339981,
+  "name": "Winemaking Cork, Metal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebottlecork001.png",
+  "bindType": -1,
+  "knownIds": [
+    204744
+  ]
+}

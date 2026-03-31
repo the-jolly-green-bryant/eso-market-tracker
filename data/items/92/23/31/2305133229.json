@@ -1,0 +1,10 @@
+{
+  "internalId": 2305133229,
+  "name": "Sword of Sizzling",
+  "description": "A blade that crackles with the power of lightning. Is that thunder you hear?",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15539
+  ]
+}

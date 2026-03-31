@@ -1,0 +1,13 @@
+{
+  "internalId": 1967808477,
+  "name": "Girdle of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131299,
+    131334,
+    131369,
+    131404
+  ]
+}

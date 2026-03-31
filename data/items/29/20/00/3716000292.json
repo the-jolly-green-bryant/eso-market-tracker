@@ -1,0 +1,17 @@
+{
+  "internalId": 3716000292,
+  "name": "Steadfast's Mettle Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_-steadfast_med_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186097,
+    186117,
+    186137,
+    186157,
+    186177,
+    186197,
+    186217,
+    186237
+  ]
+}

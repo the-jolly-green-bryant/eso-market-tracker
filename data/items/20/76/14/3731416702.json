@@ -1,0 +1,10 @@
+{
+  "internalId": 3731416702,
+  "name": "Chicken Dinner, Display",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_plate001_full.png",
+  "bindType": -1,
+  "knownIds": [
+    118061
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3927233330,
+  "name": "Tide-Born Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215495,
+    215550,
+    215585,
+    215620,
+    215655,
+    215690,
+    215725,
+    215760,
+    215795,
+    215830
+  ]
+}

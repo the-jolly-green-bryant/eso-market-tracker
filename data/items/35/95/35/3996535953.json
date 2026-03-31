@@ -1,0 +1,19 @@
+{
+  "internalId": 3996535953,
+  "name": "Bow of Sul-Xan's Torment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1469324,
+    1490621,
+    1526611,
+    1529959,
+    1529989,
+    1548113,
+    1563485,
+    1623624,
+    1636170,
+    1679542
+  ]
+}

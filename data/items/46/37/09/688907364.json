@@ -1,0 +1,10 @@
+{
+  "internalId": 688907364,
+  "name": "Lucent Defensive Spike, Corner",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_mirrorfarroofspikescorner001.png",
+  "bindType": -1,
+  "knownIds": [
+    211401
+  ]
+}

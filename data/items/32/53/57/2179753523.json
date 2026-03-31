@@ -1,0 +1,19 @@
+{
+  "internalId": 2179753523,
+  "name": "Aether Battle Axe of Destruction",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1153999,
+    1159957,
+    1170503,
+    1304782,
+    1327135,
+    1396664,
+    1400427,
+    1442539,
+    1517445,
+    1744412
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2519874374,
+  "name": "Swamp Raider's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98892,
+    98912,
+    98932,
+    98952,
+    98972,
+    98992,
+    99012,
+    99032
+  ]
+}

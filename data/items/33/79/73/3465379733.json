@@ -1,0 +1,12 @@
+{
+  "internalId": 3465379733,
+  "name": "Undiscovered Small Medium Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54562,
+    54572,
+    54582
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1859775886,
+  "name": "Dro'zakar's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1345712,
+    1353791,
+    1484798,
+    1504270
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 555991707,
+  "name": "Leyawiin Fountain, Round Grand",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leyfountaincircle001.png",
+  "bindType": -1,
+  "knownIds": [
+    181532
+  ]
+}

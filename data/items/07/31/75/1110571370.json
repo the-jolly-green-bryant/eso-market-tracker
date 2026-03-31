@@ -1,0 +1,10 @@
+{
+  "internalId": 1110571370,
+  "name": "Plant, Golden Lichen",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_vrdgoldenlichen001.png",
+  "bindType": -1,
+  "knownIds": [
+    125618
+  ]
+}

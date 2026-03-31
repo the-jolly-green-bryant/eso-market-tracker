@@ -1,0 +1,17 @@
+{
+  "internalId": 2294032155,
+  "name": "Jack of the Wilderqueen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97423,
+    97443,
+    97463,
+    97483,
+    97503,
+    97523,
+    97543,
+    97563
+  ]
+}

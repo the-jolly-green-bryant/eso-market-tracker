@@ -1,0 +1,17 @@
+{
+  "internalId": 1486699842,
+  "name": "Shield of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210550,
+    210570,
+    210590,
+    210610,
+    210630,
+    210650,
+    210670,
+    210690
+  ]
+}

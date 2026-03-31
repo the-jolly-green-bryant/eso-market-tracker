@@ -1,0 +1,15 @@
+{
+  "internalId": 2876499632,
+  "name": "Lightning Staff of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93187,
+    93227,
+    93247,
+    93287,
+    93307,
+    93327
+  ]
+}

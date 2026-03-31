@@ -1,0 +1,10 @@
+{
+  "internalId": 2703318819,
+  "name": "Seaworthy Shoes",
+  "description": "These waterproof shoes were a gift from Captain Albert Marck in thanks for saving his crew from Ember-Eye slavers.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2552
+  ]
+}

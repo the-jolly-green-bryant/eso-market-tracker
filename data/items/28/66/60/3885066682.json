@@ -1,0 +1,10 @@
+{
+  "internalId": 3885066682,
+  "name": "Brotherhood Candelabra, Floor",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_lsb_dbhcandlelabra003.png",
+  "bindType": -1,
+  "knownIds": [
+    120836
+  ]
+}

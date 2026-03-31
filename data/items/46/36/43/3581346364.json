@@ -1,0 +1,12 @@
+{
+  "internalId": 3581346364,
+  "name": "Soulcleaver Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1696805,
+    1750024,
+    1776859
+  ]
+}

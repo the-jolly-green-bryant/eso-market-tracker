@@ -1,0 +1,10 @@
+{
+  "internalId": 2178885513,
+  "name": "Transplanting Pot",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plants_001.png",
+  "bindType": -1,
+  "knownIds": [
+    858955
+  ]
+}

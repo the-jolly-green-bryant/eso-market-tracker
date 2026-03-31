@@ -1,0 +1,19 @@
+{
+  "internalId": 900072014,
+  "name": "Skoria's Charred Claymore",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    825053,
+    813965,
+    813932,
+    770587,
+    941770,
+    1130025,
+    1130660,
+    1434334,
+    1466023,
+    1547522
+  ]
+}

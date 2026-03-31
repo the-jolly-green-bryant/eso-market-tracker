@@ -1,0 +1,17 @@
+{
+  "internalId": 2828172423,
+  "name": "Siegemaster's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210713,
+    210733,
+    210753,
+    210773,
+    210793,
+    210813,
+    210833,
+    210853
+  ]
+}

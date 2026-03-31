@@ -1,0 +1,10 @@
+{
+  "internalId": 1717611453,
+  "name": "Crafting Motif 105: Crimson Oath Shields",
+  "description": "Use to learn how to make Crimson Oath Shields. Also teaches the equivalent Crimson Oath Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    176068
+  ]
+}

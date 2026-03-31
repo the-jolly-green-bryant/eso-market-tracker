@@ -1,0 +1,10 @@
+{
+  "internalId": 1043950821,
+  "name": "House Volorus Signet Ring",
+  "description": "An ancient and rusted ring pitted with years of neglect. The faded sigil of the largely forgotten noble house Volorus dominates the face.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    191216
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 2994828285,
+  "name": "Gladiator's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139751,
+    139841,
+    139931,
+    140021,
+    140111,
+    140201
+  ]
+}

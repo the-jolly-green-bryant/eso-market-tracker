@@ -1,0 +1,10 @@
+{
+  "internalId": 3609922929,
+  "name": "Breton Cart, Wheelbarrow",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_pushcart001.png",
+  "bindType": -1,
+  "knownIds": [
+    115152
+  ]
+}

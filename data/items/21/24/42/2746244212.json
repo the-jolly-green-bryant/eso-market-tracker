@@ -1,0 +1,17 @@
+{
+  "internalId": 2746244212,
+  "name": "Prisoner's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101885,
+    101906,
+    101927,
+    101948,
+    101969,
+    101990,
+    102011,
+    102032
+  ]
+}

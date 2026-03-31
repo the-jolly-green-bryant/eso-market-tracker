@@ -1,0 +1,10 @@
+{
+  "internalId": 2203777582,
+  "name": "Shutters, Blue Slatted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varshuttersmedium002.png",
+  "bindType": -1,
+  "knownIds": [
+    118172
+  ]
+}

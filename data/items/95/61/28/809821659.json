@@ -1,0 +1,17 @@
+{
+  "internalId": 809821659,
+  "name": "Bracers of Shared Pain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210553,
+    210573,
+    210593,
+    210613,
+    210633,
+    210653,
+    210673,
+    210693
+  ]
+}

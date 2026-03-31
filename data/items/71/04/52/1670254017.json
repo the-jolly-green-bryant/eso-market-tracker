@@ -1,0 +1,17 @@
+{
+  "internalId": 1670254017,
+  "name": "Bog Raider's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_hvy_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172306,
+    172326,
+    172346,
+    172366,
+    172386,
+    172406,
+    172426,
+    172446
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3407490806,
+  "name": "Maul of the Red Mountain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    84982,
+    85002,
+    85022,
+    85042
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3206083860,
+  "name": "Ayleid Constellation Stele, The Lady",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmalllady001.png",
+  "bindType": -1,
+  "knownIds": [
+    141767
+  ]
+}

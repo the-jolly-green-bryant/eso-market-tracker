@@ -1,0 +1,10 @@
+{
+  "internalId": 3670076325,
+  "name": "Nord Banner, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_inc_tapestry001.png",
+  "bindType": -1,
+  "knownIds": [
+    115413
+  ]
+}

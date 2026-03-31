@@ -1,0 +1,22 @@
+{
+  "internalId": 3787570289,
+  "name": "Storm-Cursed Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_krakenlight_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568128,
+    1568904,
+    1569572,
+    1570701,
+    1573836,
+    1580618,
+    1583881,
+    1583885,
+    1584076,
+    1592440,
+    1593651,
+    1728676,
+    1758338
+  ]
+}

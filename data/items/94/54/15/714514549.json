@@ -1,0 +1,19 @@
+{
+  "internalId": 714514549,
+  "name": "Chimera's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191243,
+    191298,
+    191333,
+    191368,
+    191403,
+    191438,
+    191473,
+    191508,
+    191543,
+    191578
+  ]
+}

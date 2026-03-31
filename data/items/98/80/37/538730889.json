@@ -1,0 +1,17 @@
+{
+  "internalId": 538730889,
+  "name": "Deadlands Assassin's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172124,
+    172144,
+    172164,
+    172184,
+    172204,
+    172224,
+    172244,
+    172264
+  ]
+}

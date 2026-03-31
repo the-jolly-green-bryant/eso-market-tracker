@@ -1,0 +1,10 @@
+{
+  "internalId": 2723676860,
+  "name": "Common Bookrest, Practical",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_bookstand001.png",
+  "bindType": -1,
+  "knownIds": [
+    118039
+  ]
+}

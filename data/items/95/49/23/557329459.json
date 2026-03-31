@@ -1,0 +1,10 @@
+{
+  "internalId": 557329459,
+  "name": "Perfected Vestment of Olorime",
+  "description": "A Light Armor set found in the Cloudrest Trial.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    139040
+  ]
+}

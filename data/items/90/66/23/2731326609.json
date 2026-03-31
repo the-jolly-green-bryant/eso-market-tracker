@@ -1,0 +1,10 @@
+{
+  "internalId": 2731326609,
+  "name": "Worm Cult Ceiling, Spiked Molding",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_housingceilingcornerout001.png",
+  "bindType": -1,
+  "knownIds": [
+    223752
+  ]
+}

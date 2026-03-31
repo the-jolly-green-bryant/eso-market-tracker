@@ -1,0 +1,14 @@
+{
+  "internalId": 855406702,
+  "name": "Maul of Transmutation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199606,
+    199607,
+    199608,
+    199609,
+    199610
+  ]
+}

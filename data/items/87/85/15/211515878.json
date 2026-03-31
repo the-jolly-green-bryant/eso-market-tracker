@@ -1,0 +1,14 @@
+{
+  "internalId": 211515878,
+  "name": "Perfected Test of Resolve Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_heavy_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1644210,
+    1647272,
+    1652190,
+    1717322,
+    1745281
+  ]
+}

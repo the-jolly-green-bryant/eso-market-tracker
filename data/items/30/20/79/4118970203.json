@@ -1,0 +1,10 @@
+{
+  "internalId": 4118970203,
+  "name": "Crafting Motif 121: Clan Dreamcarver Axes",
+  "description": "Use to learn how to make Clan Dreamcarver Axes. Also teaches the equivalent Clan Dreamcarver Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    194493
+  ]
+}

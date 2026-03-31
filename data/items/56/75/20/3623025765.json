@@ -1,0 +1,17 @@
+{
+  "internalId": 3623025765,
+  "name": "Highland Sentinel Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205896,
+    205931,
+    205966,
+    206001,
+    206036,
+    206071,
+    206106,
+    206141
+  ]
+}

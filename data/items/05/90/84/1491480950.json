@@ -1,0 +1,10 @@
+{
+  "internalId": 1491480950,
+  "name": "Quentyn's Cleaver",
+  "description": "A powerful axe, once wielded by a Fighters Guild comrade turned traitor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviriv2_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    188106
+  ]
+}

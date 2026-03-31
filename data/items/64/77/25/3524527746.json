@@ -1,0 +1,30 @@
+{
+  "internalId": 3524527746,
+  "name": "Girdle of the Lunar Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dromathra_heavy_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    943681,
+    949610,
+    965511,
+    980810,
+    1077150,
+    1156517,
+    1164923,
+    1165639,
+    1193907,
+    1201310,
+    1395227,
+    1447008,
+    1448747,
+    1476853,
+    1497507,
+    1511920,
+    1512997,
+    1550789,
+    1560664,
+    1637128,
+    1689970
+  ]
+}

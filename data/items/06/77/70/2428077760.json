@@ -1,0 +1,14 @@
+{
+  "internalId": 2428077760,
+  "name": "Spell Parasite's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163271,
+    163306,
+    163341,
+    163376,
+    163411
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3128851978,
+  "name": "Greatsword of Scavenging Demise",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1439504,
+    1499364,
+    1602351,
+    1761772
+  ]
+}

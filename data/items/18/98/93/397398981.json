@@ -1,0 +1,17 @@
+{
+  "internalId": 397398981,
+  "name": "Battle Axe of Beckoning Steel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88718,
+    88738,
+    88758,
+    88778,
+    88798,
+    88818,
+    88838,
+    88858
+  ]
+}

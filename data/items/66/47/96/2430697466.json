@@ -1,0 +1,12 @@
+{
+  "internalId": 2430697466,
+  "name": "Sword of Catalyst",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1559792,
+    1594993,
+    1677818
+  ]
+}

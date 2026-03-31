@@ -1,0 +1,17 @@
+{
+  "internalId": 3845396293,
+  "name": "Vampire Lord's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100403,
+    100424,
+    100445,
+    100466,
+    100487,
+    100508,
+    100529,
+    100550
+  ]
+}

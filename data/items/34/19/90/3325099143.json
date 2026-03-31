@@ -1,0 +1,10 @@
+{
+  "internalId": 3325099143,
+  "name": "Witches Bones, Offering",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_hagravenskullpile001.png",
+  "bindType": -1,
+  "knownIds": [
+    130338
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2180397314,
+  "name": "Breeches of High Isle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185926,
+    185947,
+    185968,
+    185989,
+    186010,
+    186031,
+    186052,
+    186073
+  ]
+}

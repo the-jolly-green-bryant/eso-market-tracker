@@ -1,0 +1,10 @@
+{
+  "internalId": 134153532,
+  "name": "Colovian Shelf, Noble",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_wallshelfhigh002.png",
+  "bindType": -1,
+  "knownIds": [
+    204644
+  ]
+}

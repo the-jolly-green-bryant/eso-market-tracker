@@ -1,0 +1,10 @@
+{
+  "internalId": 3819173366,
+  "name": "Luminous Russula",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mushroom_luminous_russula_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    30155
+  ]
+}

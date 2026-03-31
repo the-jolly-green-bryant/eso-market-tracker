@@ -1,0 +1,13 @@
+{
+  "internalId": 2488269283,
+  "name": "Gloves of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173455,
+    173490,
+    173525,
+    173560
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3591745850,
+  "name": "Tea Table, Carved",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_fur_spellcraftingstand001.png",
+  "bindType": -1,
+  "knownIds": [
+    117990
+  ]
+}

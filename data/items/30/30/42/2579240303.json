@@ -1,0 +1,13 @@
+{
+  "internalId": 2579240303,
+  "name": "Wrathsun Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_1haxe.png",
+  "bindType": -1,
+  "knownIds": [
+    1688364,
+    1697575,
+    1744238,
+    1762387
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2520948574,
+  "name": "Dreamer's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98051,
+    98072,
+    98093,
+    98114
+  ]
+}

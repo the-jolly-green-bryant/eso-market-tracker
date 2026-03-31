@@ -1,0 +1,17 @@
+{
+  "internalId": 3594783974,
+  "name": "Impregnable Armor Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125708,
+    125743,
+    125778,
+    125813,
+    125848,
+    125883,
+    125918,
+    125953
+  ]
+}

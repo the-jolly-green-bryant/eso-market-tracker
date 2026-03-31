@@ -1,0 +1,11 @@
+{
+  "internalId": 3183912790,
+  "name": "Red Rye Beer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33600,
+    37914
+  ]
+}

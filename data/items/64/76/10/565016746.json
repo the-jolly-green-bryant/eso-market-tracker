@@ -1,0 +1,10 @@
+{
+  "internalId": 565016746,
+  "name": "Crafting Motif 87: Ancestral Nord Style",
+  "description": "Use to learn the Ancestral Nord crafting style. Also teaches the equivalent Ancestral Nord Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    160576
+  ]
+}

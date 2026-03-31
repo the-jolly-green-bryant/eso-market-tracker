@@ -1,0 +1,14 @@
+{
+  "internalId": 996990854,
+  "name": "Aetheric Lancer Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1745895,
+    1750590,
+    1755809,
+    1773444,
+    1776857
+  ]
+}

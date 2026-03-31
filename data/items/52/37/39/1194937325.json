@@ -1,0 +1,10 @@
+{
+  "internalId": 1194937325,
+  "name": "Curse-Breaker's Boots",
+  "description": "Hopefully these shoes will keep you safe from the cursed sword you found in Ancestor's Landing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54633
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4162258233,
+  "name": "Snake in the Stars Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    193861,
+    193882,
+    193903,
+    193924,
+    193945,
+    193966,
+    193987,
+    194008
+  ]
+}

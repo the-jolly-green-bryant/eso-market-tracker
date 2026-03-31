@@ -1,0 +1,17 @@
+{
+  "internalId": 4163082355,
+  "name": "Full Belly Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214876,
+    214896,
+    214916,
+    214936,
+    214956,
+    214976,
+    214996,
+    215016
+  ]
+}

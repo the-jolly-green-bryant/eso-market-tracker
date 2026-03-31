@@ -1,0 +1,19 @@
+{
+  "internalId": 324740867,
+  "name": "Gladiator's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75408,
+    75443,
+    75478,
+    75513,
+    75548,
+    75583,
+    75618,
+    75653,
+    75688,
+    75723
+  ]
+}

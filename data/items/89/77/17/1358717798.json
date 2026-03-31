@@ -1,0 +1,17 @@
+{
+  "internalId": 1358717798,
+  "name": "Ice Staff of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91573,
+    91594,
+    91615,
+    91636,
+    91657,
+    91678,
+    91699,
+    91720
+  ]
+}

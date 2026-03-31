@@ -1,0 +1,10 @@
+{
+  "internalId": 3534999453,
+  "name": "Shadow Over Necrom Painting",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necwoodpictureframe010.png",
+  "bindType": -1,
+  "knownIds": [
+    197755
+  ]
+}

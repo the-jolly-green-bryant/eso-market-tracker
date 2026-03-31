@@ -1,0 +1,19 @@
+{
+  "internalId": 2549408442,
+  "name": "New Moon Acolyte's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156153,
+    156208,
+    156243,
+    156278,
+    156313,
+    156348,
+    156383,
+    156418,
+    156453,
+    156488
+  ]
+}

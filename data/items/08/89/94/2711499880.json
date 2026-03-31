@@ -1,0 +1,17 @@
+{
+  "internalId": 2711499880,
+  "name": "Sword of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85082,
+    85103,
+    85124,
+    85145,
+    85166,
+    85187,
+    85208,
+    85229
+  ]
+}

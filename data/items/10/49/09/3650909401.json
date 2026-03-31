@@ -1,0 +1,10 @@
+{
+  "internalId": 3650909401,
+  "name": "Necrom Bed, Elegant Double",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbedhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    197486
+  ]
+}

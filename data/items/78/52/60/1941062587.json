@@ -1,0 +1,17 @@
+{
+  "internalId": 1941062587,
+  "name": "Lightning Staff of Agility",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69291,
+    69304,
+    69317,
+    69330,
+    69343,
+    69356,
+    69369,
+    69382
+  ]
+}

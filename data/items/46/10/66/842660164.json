@@ -1,0 +1,19 @@
+{
+  "internalId": 842660164,
+  "name": "Nocturnal's Favored Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136434,
+    136469,
+    136504,
+    136539,
+    136574,
+    136609,
+    136644,
+    136679,
+    136714,
+    136749
+  ]
+}

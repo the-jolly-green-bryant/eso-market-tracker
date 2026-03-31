@@ -1,0 +1,10 @@
+{
+  "internalId": 1459915982,
+  "name": "Ordinator Chausses",
+  "description": "You received these chausses for defeating Merdyndril, the creator of the Llodos plague, at the Obsidian Gorge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7326
+  ]
+}

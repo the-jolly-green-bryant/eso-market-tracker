@@ -1,0 +1,10 @@
+{
+  "internalId": 717380563,
+  "name": "Druidic Platform, Curved Stone Edge",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_druplatformcorner001.png",
+  "bindType": -1,
+  "knownIds": [
+    193836
+  ]
+}

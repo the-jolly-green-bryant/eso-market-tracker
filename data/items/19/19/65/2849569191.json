@@ -1,0 +1,16 @@
+{
+  "internalId": 2849569191,
+  "name": "Ectoplasmic Discharge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_spirit_001.png",
+  "bindType": -1,
+  "knownIds": [
+    811959,
+    827392,
+    937940,
+    1210390,
+    1273648,
+    1282897,
+    1325048
+  ]
+}

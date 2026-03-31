@@ -1,0 +1,10 @@
+{
+  "internalId": 2168624109,
+  "name": "Hlaalu Well, Braced Sillar Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_hlawell003.png",
+  "bindType": -1,
+  "knownIds": [
+    125579
+  ]
+}

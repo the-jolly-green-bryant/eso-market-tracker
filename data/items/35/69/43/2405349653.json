@@ -1,0 +1,19 @@
+{
+  "internalId": 2405349653,
+  "name": "New Moon Acolyte's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156171,
+    156226,
+    156261,
+    156296,
+    156331,
+    156366,
+    156401,
+    156436,
+    156471,
+    156506
+  ]
+}

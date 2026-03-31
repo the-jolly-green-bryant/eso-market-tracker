@@ -1,0 +1,10 @@
+{
+  "internalId": 2527825100,
+  "name": "Crafting Motif 21: Ancient Orc Bows",
+  "description": "Use to learn how to make Ancient Orc Bows. Also teaches the equivalent Ancient Orc Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    69531
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 124737661,
+  "name": "Undertaker's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149067,
+    149087,
+    149107,
+    149127,
+    149147,
+    149167,
+    149187,
+    149207
+  ]
+}

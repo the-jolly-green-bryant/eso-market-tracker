@@ -1,0 +1,10 @@
+{
+  "internalId": 1743662997,
+  "name": "Coral Formation, Bulwark",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_coraltree001.png",
+  "bindType": -1,
+  "knownIds": [
+    139077
+  ]
+}

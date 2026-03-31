@@ -1,0 +1,10 @@
+{
+  "internalId": 3632402415,
+  "name": "Sip of Invisibility",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_011_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    44715
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 312205494,
+  "name": "Gem of Rahni'Za",
+  "description": "A broken blade meant to represent the spirit of Rahni'Za.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
+  "bindType": -1,
+  "knownIds": [
+    81235
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 528640970,
+  "name": "Ashur's Spare Axe",
+  "description": "The blade and haft are worn but well maintained, in spite of years of service.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moragtong_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    197811
+  ]
+}

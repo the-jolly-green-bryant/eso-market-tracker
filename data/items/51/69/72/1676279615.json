@@ -1,0 +1,10 @@
+{
+  "internalId": 1676279615,
+  "name": "Rock, Jagged Craggy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_craglornsmall003.png",
+  "bindType": -1,
+  "knownIds": [
+    120539
+  ]
+}

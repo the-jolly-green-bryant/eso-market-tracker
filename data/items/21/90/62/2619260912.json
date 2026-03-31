@@ -1,0 +1,10 @@
+{
+  "internalId": 2619260912,
+  "name": "Amulet of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    204883
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1128302430,
+  "name": "Bracers of the Twin Sisters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92282,
+    92302,
+    92322,
+    92342,
+    92362,
+    92382,
+    92402,
+    92422
+  ]
+}

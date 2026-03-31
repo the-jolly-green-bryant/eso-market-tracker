@@ -1,0 +1,17 @@
+{
+  "internalId": 1634467521,
+  "name": "Restoration Staff of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116536,
+    116556,
+    116576,
+    116596,
+    116616,
+    116636,
+    116656,
+    116676
+  ]
+}

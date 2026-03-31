@@ -1,0 +1,20 @@
+{
+  "internalId": 1841741894,
+  "name": "Fulminating Chestplate",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    819430,
+    813961,
+    811062,
+    828426,
+    948874,
+    1079595,
+    1130657,
+    1432956,
+    1434330,
+    1558400,
+    1633513
+  ]
+}

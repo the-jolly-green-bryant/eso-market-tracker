@@ -1,0 +1,10 @@
+{
+  "internalId": 1561811689,
+  "name": "Furnisher's Materials Crate",
+  "description": "This box is full of materials used to create furniture.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": 3,
+  "knownIds": [
+    121255
+  ]
+}

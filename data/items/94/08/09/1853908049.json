@@ -1,0 +1,10 @@
+{
+  "internalId": 1853908049,
+  "name": "Scimitar of Suffering",
+  "description": "First Mate Elvira Derre gave you this swashbuckling sword for saving her crew from Ma'jhad Kha, leader of the Ember-Eye slavers.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    6872
+  ]
+}

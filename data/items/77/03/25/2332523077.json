@@ -1,0 +1,10 @@
+{
+  "internalId": 2332523077,
+  "name": "Hlaalu Bath Tub, Masterwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_housinghlabath002.png",
+  "bindType": -1,
+  "knownIds": [
+    132162
+  ]
+}

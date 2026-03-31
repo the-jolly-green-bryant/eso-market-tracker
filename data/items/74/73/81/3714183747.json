@@ -1,0 +1,17 @@
+{
+  "internalId": 3714183747,
+  "name": "Bog Raider's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    172294,
+    172314,
+    172334,
+    172354,
+    172374,
+    172394,
+    172414,
+    172434
+  ]
+}

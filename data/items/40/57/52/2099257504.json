@@ -1,0 +1,10 @@
+{
+  "internalId": 2099257504,
+  "name": "Leyawiin Pitcher, Elegant",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenlopot002.png",
+  "bindType": -1,
+  "knownIds": [
+    175662
+  ]
+}

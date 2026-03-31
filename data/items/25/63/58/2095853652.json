@@ -1,0 +1,10 @@
+{
+  "internalId": 2095853652,
+  "name": "Inferno Staff of the Ascendant Magus",
+  "description": "The Ascendant Magus's personal spellstaff, it still carries a resonant shadow of his zealous power.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    188109
+  ]
+}

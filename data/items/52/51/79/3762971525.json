@@ -1,0 +1,16 @@
+{
+  "internalId": 3762971525,
+  "name": "Highland Sentinel Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205910,
+    205945,
+    205980,
+    206015,
+    206050,
+    206085,
+    206120
+  ]
+}

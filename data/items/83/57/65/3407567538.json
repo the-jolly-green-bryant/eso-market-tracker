@@ -1,0 +1,19 @@
+{
+  "internalId": 3407567538,
+  "name": "Coldharbour's Favorite Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147965,
+    148020,
+    148055,
+    148090,
+    148125,
+    148160,
+    148195,
+    148230,
+    148265,
+    148300
+  ]
+}

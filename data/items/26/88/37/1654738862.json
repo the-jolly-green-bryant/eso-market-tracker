@@ -1,0 +1,18 @@
+{
+  "internalId": 1654738862,
+  "name": "Inferno Staff of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86753,
+    86774,
+    86795,
+    86816,
+    86837,
+    86858,
+    86879,
+    86900,
+    86921
+  ]
+}

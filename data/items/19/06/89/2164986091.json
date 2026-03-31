@@ -1,0 +1,12 @@
+{
+  "internalId": 2164986091,
+  "name": "Sword Of The Infallible Aether",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1643885,
+    1733103,
+    1753410
+  ]
+}

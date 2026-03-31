@@ -1,0 +1,10 @@
+{
+  "internalId": 2422072280,
+  "name": "Antler Coral, Glowing Short Crimson",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_housingvivecscoral001.png",
+  "bindType": -1,
+  "knownIds": [
+    214514
+  ]
+}

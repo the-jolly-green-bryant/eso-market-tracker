@@ -1,0 +1,23 @@
+{
+  "internalId": 2198013448,
+  "name": "Draugr's Rest Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1165724,
+    1165851,
+    1226082,
+    1374274,
+    1374506,
+    1496386,
+    1544879,
+    1561917,
+    1583613,
+    1619487,
+    1624093,
+    1640795,
+    1725422,
+    1733516
+  ]
+}

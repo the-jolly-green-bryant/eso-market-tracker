@@ -1,0 +1,21 @@
+{
+  "internalId": 454048074,
+  "name": "Aether Sword of Destruction",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1390310,
+    1394153,
+    1395928,
+    1419321,
+    1420973,
+    1515707,
+    1516513,
+    1571602,
+    1639983,
+    1719704,
+    1720022,
+    1745253
+  ]
+}

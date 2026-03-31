@@ -1,0 +1,10 @@
+{
+  "internalId": 748236342,
+  "name": "Fabricant Shrubs, Beryl",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_clkleafy001.png",
+  "bindType": -1,
+  "knownIds": [
+    134313
+  ]
+}

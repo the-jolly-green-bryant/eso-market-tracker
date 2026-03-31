@@ -1,0 +1,20 @@
+{
+  "internalId": 4211890568,
+  "name": "steel helm of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    437926,
+    632410,
+    579046,
+    615396,
+    793932,
+    793882,
+    793468,
+    788349,
+    786082,
+    783444,
+    1129181
+  ]
+}

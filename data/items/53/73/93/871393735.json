@@ -1,0 +1,17 @@
+{
+  "internalId": 871393735,
+  "name": "Thunderbug's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99842,
+    99862,
+    99882,
+    99902,
+    99922,
+    99942,
+    99962,
+    99982
+  ]
+}

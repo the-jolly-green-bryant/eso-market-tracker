@@ -1,0 +1,17 @@
+{
+  "internalId": 2767265968,
+  "name": "Impregnable Armor Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125696,
+    125731,
+    125766,
+    125801,
+    125836,
+    125871,
+    125906,
+    125941
+  ]
+}

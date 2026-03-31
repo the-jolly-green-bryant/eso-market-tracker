@@ -1,0 +1,17 @@
+{
+  "internalId": 2244028596,
+  "name": "Epaulets of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91010,
+    91031,
+    91052,
+    91073,
+    91094,
+    91115,
+    91136,
+    91157
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2968472110,
+  "name": "Crown Lesson: Riding Speed",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_ridinglessons_speed.png",
+  "bindType": -1,
+  "knownIds": [
+    804537
+  ]
+}

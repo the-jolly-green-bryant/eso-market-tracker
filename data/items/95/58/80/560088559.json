@@ -1,0 +1,10 @@
+{
+  "internalId": 560088559,
+  "name": "Worm Cult Ballista, Decommissioned",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_ballista002.png",
+  "bindType": -1,
+  "knownIds": [
+    223180
+  ]
+}

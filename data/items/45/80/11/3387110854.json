@@ -1,0 +1,10 @@
+{
+  "internalId": 3387110854,
+  "name": "Plant, Redtop Grass",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_switchgrass001.png",
+  "bindType": -1,
+  "knownIds": [
+    139066
+  ]
+}

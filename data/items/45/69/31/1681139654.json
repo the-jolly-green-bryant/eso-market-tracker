@@ -1,0 +1,17 @@
+{
+  "internalId": 1681139654,
+  "name": "Lamp Knight's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213929,
+    213949,
+    213969,
+    213989,
+    214009,
+    214029,
+    214049,
+    214069
+  ]
+}

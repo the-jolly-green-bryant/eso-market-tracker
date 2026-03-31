@@ -1,0 +1,19 @@
+{
+  "internalId": 600439688,
+  "name": "Ancient Dragonguard's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155788,
+    155843,
+    155878,
+    155913,
+    155948,
+    155983,
+    156018,
+    156053,
+    156088,
+    156123
+  ]
+}

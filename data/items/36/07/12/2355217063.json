@@ -1,0 +1,10 @@
+{
+  "internalId": 2355217063,
+  "name": "Hedge, Overgrown Long",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_ivycastaimpass005.png",
+  "bindType": -1,
+  "knownIds": [
+    139128
+  ]
+}

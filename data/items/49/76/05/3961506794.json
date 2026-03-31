@@ -1,0 +1,10 @@
+{
+  "internalId": 3961506794,
+  "name": "Tree, Dead Marsh",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_marsh002.png",
+  "bindType": -1,
+  "knownIds": [
+    130310
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 470132274,
+  "name": "Dagger of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93081,
+    93101,
+    93121,
+    93141
+  ]
+}

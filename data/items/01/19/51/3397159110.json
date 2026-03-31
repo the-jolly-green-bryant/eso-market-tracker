@@ -1,0 +1,17 @@
+{
+  "internalId": 3397159110,
+  "name": "War Maiden's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122809,
+    122830,
+    122851,
+    122872,
+    122893,
+    122914,
+    122935,
+    122956
+  ]
+}

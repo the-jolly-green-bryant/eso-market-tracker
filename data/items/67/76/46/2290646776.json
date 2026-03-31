@@ -1,0 +1,10 @@
+{
+  "internalId": 2290646776,
+  "name": "Colovian Trim, Short Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousewallmiddlestraightshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    208088
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 4174874398,
+  "name": "Curse-Eating Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90829,
+    90850,
+    90871,
+    90892,
+    90913,
+    90934,
+    90955
+  ]
+}

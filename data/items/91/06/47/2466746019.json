@@ -1,0 +1,10 @@
+{
+  "internalId": 2466746019,
+  "name": "Dawnwood Cup, Wine",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_boscupwine002.png",
+  "bindType": -1,
+  "knownIds": [
+    204711
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 435977510,
+  "name": "Arkay's Charity Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213752,
+    213773,
+    213794,
+    213815,
+    213836,
+    213857,
+    213878,
+    213899
+  ]
+}

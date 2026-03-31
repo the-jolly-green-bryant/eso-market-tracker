@@ -1,0 +1,18 @@
+{
+  "internalId": 97444487,
+  "name": "Sword of the Crimson Oath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_1hsword.png",
+  "bindType": -1,
+  "knownIds": [
+    1526792,
+    1556064,
+    1559579,
+    1569920,
+    1577101,
+    1623483,
+    1713128,
+    1742087,
+    1765834
+  ]
+}

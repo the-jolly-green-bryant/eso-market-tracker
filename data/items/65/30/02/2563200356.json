@@ -1,0 +1,10 @@
+{
+  "internalId": 2563200356,
+  "name": "Waxed Clothier's Parcel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
+  "bindType": -1,
+  "knownIds": [
+    1244548
+  ]
+}

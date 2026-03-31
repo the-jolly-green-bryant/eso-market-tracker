@@ -1,0 +1,10 @@
+{
+  "internalId": 547349254,
+  "name": "Cart, Sided",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_cartempty001.png",
+  "bindType": -1,
+  "knownIds": [
+    118090
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 2146778956,
+  "name": "Ring of Ursus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1267519,
+    1274735,
+    1318683,
+    1512759,
+    1520885
+  ]
+}

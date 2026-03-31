@@ -1,0 +1,10 @@
+{
+  "internalId": 3283403726,
+  "name": "Gauntlets of Clan Shatul",
+  "description": "Ancient Orcish gauntlets. A token of Rogzesh's gratitude for looking into Chief Ozgor's death.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wrothgarorc_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    71014
+  ]
+}

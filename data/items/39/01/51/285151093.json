@@ -1,0 +1,17 @@
+{
+  "internalId": 285151093,
+  "name": "Bow of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85087,
+    85108,
+    85129,
+    85150,
+    85171,
+    85192,
+    85213,
+    85234
+  ]
+}

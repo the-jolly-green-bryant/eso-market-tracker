@@ -1,0 +1,21 @@
+{
+  "internalId": 3884563528,
+  "name": "Shield of the Depths",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_sheild_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600483,
+    1601952,
+    1626534,
+    1633777,
+    1633950,
+    1650316,
+    1655697,
+    1716139,
+    1738798,
+    1762356,
+    1771075,
+    1777398
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1551446448,
+  "name": "Masted Behemoth Painting, Wood",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_woodframepainting010.png",
+  "bindType": -1,
+  "knownIds": [
+    187874
+  ]
+}

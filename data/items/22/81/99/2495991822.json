@@ -1,0 +1,14 @@
+{
+  "internalId": 2495991822,
+  "name": "Jack of the Red Mountain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    84971,
+    84991,
+    85011,
+    85031,
+    85051
+  ]
+}

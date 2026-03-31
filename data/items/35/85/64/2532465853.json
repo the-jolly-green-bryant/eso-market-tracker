@@ -1,0 +1,10 @@
+{
+  "internalId": 2532465853,
+  "name": "Crozier of St. Pelin",
+  "description": "Father Quiston and Dame Valyrie bestowed this staff in thanks for your aid in putting Prince Adrien to rest.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15619
+  ]
+}

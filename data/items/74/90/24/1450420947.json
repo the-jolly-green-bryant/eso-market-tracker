@@ -1,0 +1,10 @@
+{
+  "internalId": 1450420947,
+  "name": "Stonebinder's Bulwark",
+  "description": "Recovered from the depths of a forgotten chamber, this shield bears markings the researcher could not translate.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_sheild_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223681
+  ]
+}

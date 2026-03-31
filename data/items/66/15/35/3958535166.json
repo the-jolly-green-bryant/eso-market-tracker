@@ -1,0 +1,10 @@
+{
+  "internalId": 3958535166,
+  "name": "Figurine, The Taming of the Gryphon",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_smallstatue002.png",
+  "bindType": -1,
+  "knownIds": [
+    139249
+  ]
+}

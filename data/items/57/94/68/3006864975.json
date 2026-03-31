@@ -1,0 +1,17 @@
+{
+  "internalId": 3006864975,
+  "name": "fell belt of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    763116,
+    644264,
+    685722,
+    459099,
+    523959,
+    484351,
+    733724,
+    788874
+  ]
+}

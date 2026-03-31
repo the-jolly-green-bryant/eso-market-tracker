@@ -1,0 +1,17 @@
+{
+  "internalId": 26195220,
+  "name": "War Maiden's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122801,
+    122822,
+    122843,
+    122864,
+    122885,
+    122906,
+    122927,
+    122948
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 4285607904,
+  "name": "Stuhn's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161306,
+    161341,
+    161376,
+    161411,
+    161446,
+    161481,
+    161516,
+    161551,
+    161586
+  ]
+}

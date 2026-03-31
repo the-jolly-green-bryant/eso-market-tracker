@@ -1,0 +1,17 @@
+{
+  "internalId": 718548573,
+  "name": "Shared Burden Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215191,
+    215226,
+    215261,
+    215296,
+    215331,
+    215366,
+    215401,
+    215436
+  ]
+}

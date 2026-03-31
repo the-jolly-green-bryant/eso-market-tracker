@@ -1,0 +1,10 @@
+{
+  "internalId": 2474211311,
+  "name": "Scrimshaw Jewelry Box, Vineyard",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_decorbox003.png",
+  "bindType": -1,
+  "knownIds": [
+    139251
+  ]
+}

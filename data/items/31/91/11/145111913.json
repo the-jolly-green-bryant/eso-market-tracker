@@ -1,0 +1,10 @@
+{
+  "internalId": 145111913,
+  "name": "Fiord's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100367
+  ]
+}

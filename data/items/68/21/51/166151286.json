@@ -1,0 +1,10 @@
+{
+  "internalId": 166151286,
+  "name": "Solitude Locket",
+  "description": "This necklace bears a locket decorated with a wolf's head, the symbol of Solitude.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    157513
+  ]
+}

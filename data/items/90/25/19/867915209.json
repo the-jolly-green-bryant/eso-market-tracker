@@ -1,0 +1,20 @@
+{
+  "internalId": 867915209,
+  "name": "Bonebound Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    822376,
+    581991,
+    941881,
+    1132195,
+    1187402,
+    1449907,
+    1487384,
+    1494757,
+    1619044,
+    1660318,
+    1701006
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": 250628051,
+  "name": "Areldur's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    822893,
+    587155,
+    754956,
+    675404,
+    624265,
+    577949,
+    578286,
+    641898,
+    939931,
+    941751,
+    1081360,
+    1157448,
+    1157742,
+    1158186,
+    1215095,
+    1261253,
+    1435236,
+    1485328
+  ]
+}

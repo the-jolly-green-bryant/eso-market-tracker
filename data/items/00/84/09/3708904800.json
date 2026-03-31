@@ -1,0 +1,16 @@
+{
+  "internalId": 3708904800,
+  "name": "Maul of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87504,
+    87524,
+    87544,
+    87564,
+    87584,
+    87604,
+    87624
+  ]
+}

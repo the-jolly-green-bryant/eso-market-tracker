@@ -1,0 +1,12 @@
+{
+  "internalId": 3388583633,
+  "name": "Dauntless Combatant's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159355,
+    159390,
+    159425
+  ]
+}

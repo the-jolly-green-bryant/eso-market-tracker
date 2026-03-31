@@ -1,0 +1,13 @@
+{
+  "internalId": 3483404112,
+  "name": "Hircine's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77732,
+    77768,
+    77804,
+    77840
+  ]
+}

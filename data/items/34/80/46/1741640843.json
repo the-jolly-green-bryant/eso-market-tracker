@@ -1,0 +1,17 @@
+{
+  "internalId": 1741640843,
+  "name": "Plaguebreak Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180611,
+    180631,
+    180651,
+    180671,
+    180691,
+    180711,
+    180731,
+    180751
+  ]
+}

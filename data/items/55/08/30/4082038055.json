@@ -1,0 +1,17 @@
+{
+  "internalId": 4082038055,
+  "name": "Ice Staff of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93914,
+    93934,
+    93954,
+    93974,
+    93994,
+    94014,
+    94034,
+    94054
+  ]
+}

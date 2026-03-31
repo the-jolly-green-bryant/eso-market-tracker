@@ -1,0 +1,19 @@
+{
+  "internalId": 3095184604,
+  "name": "Unchained Aggressor's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158696,
+    158751,
+    158786,
+    158821,
+    158856,
+    158891,
+    158926,
+    158961,
+    158996,
+    159031
+  ]
+}

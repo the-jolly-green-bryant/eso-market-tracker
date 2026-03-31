@@ -1,0 +1,10 @@
+{
+  "internalId": 208631684,
+  "name": "Claudette's Fingers of Cyrodiil's Light",
+  "description": "A faint shimmer on the surface of these gloves hints at their magical enhancements.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45738
+  ]
+}

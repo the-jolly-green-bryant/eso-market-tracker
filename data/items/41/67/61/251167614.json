@@ -1,0 +1,10 @@
+{
+  "internalId": 251167614,
+  "name": "Ring of the Furious One",
+  "description": "You earned this ring as a reward for dealing with a relic of Malacath.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    71019
+  ]
+}

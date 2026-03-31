@@ -1,0 +1,16 @@
+{
+  "internalId": 1512987569,
+  "name": "Moondancer Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    980815,
+    1058922,
+    1179879,
+    1376902,
+    1440448,
+    1445439,
+    1454567
+  ]
+}

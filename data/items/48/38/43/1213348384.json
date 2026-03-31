@@ -1,0 +1,17 @@
+{
+  "internalId": 1213348384,
+  "name": "Barkskin Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92452,
+    92472,
+    92492,
+    92512,
+    92532,
+    92552,
+    92572,
+    92592
+  ]
+}

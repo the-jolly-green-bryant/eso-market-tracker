@@ -1,0 +1,14 @@
+{
+  "internalId": 2227383503,
+  "name": "Wrathsun Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1689574,
+    1695074,
+    1717376,
+    1738635,
+    1775228
+  ]
+}

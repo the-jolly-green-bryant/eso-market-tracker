@@ -1,0 +1,17 @@
+{
+  "internalId": 2494448512,
+  "name": "Dagger of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91952,
+    91973,
+    91994,
+    92015,
+    92036,
+    92057,
+    92078,
+    92099
+  ]
+}

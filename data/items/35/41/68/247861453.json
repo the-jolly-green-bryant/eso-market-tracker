@@ -1,0 +1,19 @@
+{
+  "internalId": 247861453,
+  "name": "Seeker Synthesis Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195324,
+    195379,
+    195414,
+    195449,
+    195484,
+    195519,
+    195554,
+    195589,
+    195624,
+    195659
+  ]
+}

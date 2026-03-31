@@ -1,0 +1,17 @@
+{
+  "internalId": 2030001817,
+  "name": "Deadly Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87877,
+    87890,
+    87903,
+    87916,
+    87929,
+    87942,
+    87955,
+    87968
+  ]
+}

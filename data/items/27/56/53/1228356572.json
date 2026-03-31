@@ -1,0 +1,17 @@
+{
+  "internalId": 1228356572,
+  "name": "Mace of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90109,
+    90122,
+    90135,
+    90148,
+    90161,
+    90174,
+    90187,
+    90200
+  ]
+}

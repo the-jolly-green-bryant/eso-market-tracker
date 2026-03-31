@@ -1,0 +1,10 @@
+{
+  "internalId": 1742306778,
+  "name": "Target Bone Goliath, Reanimated",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_targetdummy_bonegoliath_01.png",
+  "bindType": -1,
+  "knownIds": [
+    1335930
+  ]
+}

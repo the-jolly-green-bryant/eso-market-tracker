@@ -1,0 +1,17 @@
+{
+  "internalId": 2164033955,
+  "name": "Breeches of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98710,
+    98731,
+    98752,
+    98773,
+    98794,
+    98815,
+    98836,
+    98857
+  ]
+}

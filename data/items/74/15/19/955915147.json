@@ -1,0 +1,10 @@
+{
+  "internalId": 955915147,
+  "name": "Redguard Goblet, Full",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoblet001_full.png",
+  "bindType": -1,
+  "knownIds": [
+    117741
+  ]
+}

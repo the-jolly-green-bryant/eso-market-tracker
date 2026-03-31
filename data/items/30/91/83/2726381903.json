@@ -1,0 +1,10 @@
+{
+  "internalId": 2726381903,
+  "name": "Bush, Sea Lavender",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_sealavenderbush001.png",
+  "bindType": -1,
+  "knownIds": [
+    214487
+  ]
+}

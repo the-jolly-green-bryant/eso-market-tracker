@@ -1,0 +1,17 @@
+{
+  "internalId": 494364150,
+  "name": "Battle Axe of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117092,
+    117112,
+    117132,
+    117152,
+    117172,
+    117192,
+    117212,
+    117232
+  ]
+}

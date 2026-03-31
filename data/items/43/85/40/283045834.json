@@ -1,0 +1,10 @@
+{
+  "internalId": 283045834,
+  "name": "Fargrave Paper Lantern, Green Round",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farlanternhanging005.png",
+  "bindType": -1,
+  "knownIds": [
+    223859
+  ]
+}

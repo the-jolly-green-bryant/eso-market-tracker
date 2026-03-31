@@ -1,0 +1,10 @@
+{
+  "internalId": 1561879344,
+  "name": "Alinor Fence, Tall Long",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_waf_altwallsmediumstraightnocapdouble001.png",
+  "bindType": -1,
+  "knownIds": [
+    139194
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3966985344,
+  "name": "Threads of War Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206180,
+    206235,
+    206270,
+    206305,
+    206340,
+    206375,
+    206410,
+    206445,
+    206480,
+    206515
+  ]
+}

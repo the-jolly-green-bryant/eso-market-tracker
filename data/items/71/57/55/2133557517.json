@@ -1,0 +1,10 @@
+{
+  "internalId": 2133557517,
+  "name": "Reachfolk Banner, Moonburst",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_reachbanners003.png",
+  "bindType": -1,
+  "knownIds": [
+    167344
+  ]
+}

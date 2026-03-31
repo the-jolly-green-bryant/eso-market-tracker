@@ -1,0 +1,19 @@
+{
+  "internalId": 1628171690,
+  "name": "Girdle of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179573,
+    179628,
+    179663,
+    179698,
+    179733,
+    179768,
+    179803,
+    179838,
+    179873,
+    179908
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "internalId": 3435570905,
+  "name": "Fang of the Lamia Queen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": -1,
+  "knownIds": [
+    845778,
+    856273,
+    877658,
+    1136093,
+    1152889,
+    1377932,
+    1390120,
+    1418885,
+    1432843,
+    1469412,
+    1521590,
+    1524037,
+    1644129,
+    1750320
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1387494571,
+  "name": "Belt of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59979,
+    60014,
+    60049,
+    60084,
+    60119,
+    60154,
+    60189,
+    60224,
+    60259,
+    60294
+  ]
+}

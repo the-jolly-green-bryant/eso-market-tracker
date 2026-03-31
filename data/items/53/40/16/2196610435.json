@@ -1,0 +1,17 @@
+{
+  "internalId": 2196610435,
+  "name": "Unflinching Ultimate Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219501,
+    219521,
+    219541,
+    219561,
+    219581,
+    219601,
+    219621,
+    219641
+  ]
+}

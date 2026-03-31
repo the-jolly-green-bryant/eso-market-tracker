@@ -1,0 +1,17 @@
+{
+  "internalId": 2234524840,
+  "name": "Undertaker's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149068,
+    149088,
+    149108,
+    149128,
+    149148,
+    149168,
+    149188,
+    149208
+  ]
+}

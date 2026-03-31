@@ -1,0 +1,12 @@
+{
+  "internalId": 1955390630,
+  "name": "Covenant Fire Lancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_flame.png",
+  "bindType": -1,
+  "knownIds": [
+    1374565,
+    1499581,
+    1635655
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3591680070,
+  "name": "Elsweyr Shrine, Ancient Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_seshrine001.png",
+  "bindType": -1,
+  "knownIds": [
+    153672
+  ]
+}

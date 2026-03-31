@@ -1,0 +1,17 @@
+{
+  "internalId": 4256501667,
+  "name": "Axe of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204241,
+    204261,
+    204281,
+    204301,
+    204321,
+    204341,
+    204361,
+    204381
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1336827247,
+  "name": "Curse-Eating Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90824,
+    90845,
+    90866,
+    90887,
+    90908,
+    90929,
+    90950
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2650337600,
+  "name": "Crafty Alfiq's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149256,
+    149277,
+    149298,
+    149319,
+    149340,
+    149361,
+    149382,
+    149403
+  ]
+}

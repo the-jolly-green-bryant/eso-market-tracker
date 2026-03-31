@@ -1,0 +1,14 @@
+{
+  "internalId": 2877626204,
+  "name": "Grave Guardian's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1353674,
+    1363874,
+    1408429,
+    1455867,
+    1619320
+  ]
+}

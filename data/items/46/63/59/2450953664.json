@@ -1,0 +1,17 @@
+{
+  "internalId": 2450953664,
+  "name": "Dagger of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_dagger_b.png",
+  "bindType": 2,
+  "knownIds": [
+    87124,
+    87145,
+    87166,
+    87187,
+    87208,
+    87229,
+    87250,
+    87271
+  ]
+}

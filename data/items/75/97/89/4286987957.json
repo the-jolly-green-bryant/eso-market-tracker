@@ -1,0 +1,10 @@
+{
+  "internalId": 4286987957,
+  "name": "Nedic Banner, Ancestral",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_nedicbannerspirit001.png",
+  "bindType": -1,
+  "knownIds": [
+    198045
+  ]
+}

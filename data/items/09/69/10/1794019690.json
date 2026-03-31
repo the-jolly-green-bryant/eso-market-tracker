@@ -1,0 +1,23 @@
+{
+  "internalId": 1794019690,
+  "name": "oak shield of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    433060,
+    632372,
+    452882,
+    459586,
+    631646,
+    704726,
+    457292,
+    614728,
+    793356,
+    789381,
+    786644,
+    786084,
+    786080,
+    1129346
+  ]
+}

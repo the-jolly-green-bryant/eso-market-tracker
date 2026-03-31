@@ -1,0 +1,17 @@
+{
+  "internalId": 4053486147,
+  "name": "Robe of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100035,
+    100056,
+    100077,
+    100098,
+    100119,
+    100140,
+    100161,
+    100182
+  ]
+}

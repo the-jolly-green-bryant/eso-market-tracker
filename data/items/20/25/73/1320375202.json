@@ -1,0 +1,17 @@
+{
+  "internalId": 1320375202,
+  "name": "Sword of Sul-Xan's Torment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1491348,
+    1518690,
+    1520862,
+    1521858,
+    1529836,
+    1624143,
+    1626663,
+    1627686
+  ]
+}

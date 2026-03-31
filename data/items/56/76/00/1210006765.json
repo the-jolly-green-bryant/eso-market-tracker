@@ -1,0 +1,11 @@
+{
+  "internalId": 1210006765,
+  "name": "strong glyph of magicka recovery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_magickaregen.png",
+  "bindType": -1,
+  "knownIds": [
+    414008,
+    1445754
+  ]
+}

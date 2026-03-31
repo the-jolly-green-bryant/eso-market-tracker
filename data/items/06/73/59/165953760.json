@@ -1,0 +1,17 @@
+{
+  "internalId": 165953760,
+  "name": "Shell Splitter Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194032,
+    194052,
+    194072,
+    194092,
+    194112,
+    194132,
+    194152,
+    194172
+  ]
+}

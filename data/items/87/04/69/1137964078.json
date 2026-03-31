@@ -1,0 +1,17 @@
+{
+  "internalId": 1137964078,
+  "name": "Swamp Raider's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98897,
+    98917,
+    98937,
+    98957,
+    98977,
+    98997,
+    99017,
+    99037
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3879859888,
+  "name": "Mad Tinkerer's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132857,
+    132878,
+    132899,
+    132920,
+    132941,
+    132962,
+    132983,
+    133004
+  ]
+}

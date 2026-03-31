@@ -1,0 +1,10 @@
+{
+  "internalId": 23508176,
+  "name": "Crafting Motif 92: Ancestral Akaviri Maces",
+  "description": "Use to learn how to make Ancestral Akaviri Maces. Also teaches the equivalent Ancestral Akaviri Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167183
+  ]
+}

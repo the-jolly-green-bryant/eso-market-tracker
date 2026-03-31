@@ -1,0 +1,19 @@
+{
+  "internalId": 1931131273,
+  "name": "Sabatons of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58159,
+    58194,
+    58229,
+    58264,
+    58299,
+    58334,
+    58369,
+    58404,
+    58439,
+    58474
+  ]
+}

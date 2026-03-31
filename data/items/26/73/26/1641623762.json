@@ -1,0 +1,10 @@
+{
+  "internalId": 1641623762,
+  "name": "Fabricant Tree, Decorative Brass",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_clkscrubtree002.png",
+  "bindType": -1,
+  "knownIds": [
+    134389
+  ]
+}

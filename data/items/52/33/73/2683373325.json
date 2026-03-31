@@ -1,0 +1,13 @@
+{
+  "internalId": 2683373325,
+  "name": "Helmet of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131311,
+    131346,
+    131381,
+    131416
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2781730211,
+  "name": "Ebon Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77720,
+    77756,
+    77792,
+    77828
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 642460215,
+  "name": "Leyawiin Lamp, Stationary",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leytablelamp001.png",
+  "bindType": -1,
+  "knownIds": [
+    175638
+  ]
+}

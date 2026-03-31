@@ -1,0 +1,18 @@
+{
+  "internalId": 2640890301,
+  "name": "Reflected Fury Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpathcultist_hvy_chest.png",
+  "bindType": -1,
+  "knownIds": [
+    1720362,
+    1721546,
+    1726444,
+    1728771,
+    1731607,
+    1733061,
+    1760790,
+    1762904,
+    1764400
+  ]
+}

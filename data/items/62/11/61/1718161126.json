@@ -1,0 +1,10 @@
+{
+  "internalId": 1718161126,
+  "name": "Courtyard Furnishing Recipe Book",
+  "description": "Techniques put to pen by a sculptor. Reading this book teaches all Courtyard Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color5.png",
+  "bindType": -1,
+  "knownIds": [
+    214283
+  ]
+}

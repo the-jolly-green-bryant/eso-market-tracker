@@ -1,0 +1,14 @@
+{
+  "internalId": 3869325921,
+  "name": "Grave-Stake Collector Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142997,
+    143032,
+    143067,
+    143102,
+    143137
+  ]
+}

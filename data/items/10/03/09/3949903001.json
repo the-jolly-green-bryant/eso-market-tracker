@@ -1,0 +1,10 @@
+{
+  "internalId": 3949903001,
+  "name": "Colovian Lamppost, Arched",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_lightpost001.png",
+  "bindType": -1,
+  "knownIds": [
+    204682
+  ]
+}

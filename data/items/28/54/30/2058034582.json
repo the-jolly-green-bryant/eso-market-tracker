@@ -1,0 +1,17 @@
+{
+  "internalId": 2058034582,
+  "name": "Helmet of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93375,
+    93395,
+    93415,
+    93435,
+    93455,
+    93475,
+    93495,
+    93515
+  ]
+}

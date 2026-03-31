@@ -1,0 +1,24 @@
+{
+  "internalId": 1253978261,
+  "name": "dwarven greatsword of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    603281,
+    684754,
+    636177,
+    671337,
+    743655,
+    458170,
+    543852,
+    451098,
+    463067,
+    667764,
+    644794,
+    522307,
+    794362,
+    791554,
+    786285
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 3555782904,
+  "name": "Ice Staff of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71823,
+    71858,
+    71893,
+    71928,
+    71963,
+    71998,
+    72033,
+    72068,
+    72103,
+    72138
+  ]
+}

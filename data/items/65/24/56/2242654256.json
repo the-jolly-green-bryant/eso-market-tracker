@@ -1,0 +1,10 @@
+{
+  "internalId": 2242654256,
+  "name": "Jewelry: Vicious Serpent",
+  "description": "A Medium Armor set found in the three Craglorn Trials.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134603
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2972389531,
+  "name": "Eaglebanner Longbow",
+  "description": "Queen Ayrenn herself has tuned and tightened the bowstring on this weapon, ensuring every arrow flies straight and true.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    29542
+  ]
+}

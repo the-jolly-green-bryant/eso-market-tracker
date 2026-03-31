@@ -1,0 +1,10 @@
+{
+  "internalId": 875146675,
+  "name": "Y'ffre's Falling Leaves, Autumn",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u35_furnishing_fallingleaves.png",
+  "bindType": -1,
+  "knownIds": [
+    188344
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1072289713,
+  "name": "Arm Cops of the Valiant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92649,
+    92669,
+    92689,
+    92709,
+    92729,
+    92749,
+    92769,
+    92789
+  ]
+}

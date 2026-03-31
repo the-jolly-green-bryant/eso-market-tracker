@@ -1,0 +1,17 @@
+{
+  "internalId": 1789123086,
+  "name": "Selene's Scepter",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    819858,
+    1064742,
+    1157235,
+    1228719,
+    1477506,
+    1487263,
+    1702227,
+    1763782
+  ]
+}

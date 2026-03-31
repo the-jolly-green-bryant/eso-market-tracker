@@ -1,0 +1,17 @@
+{
+  "internalId": 968272464,
+  "name": "Livewire Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132674,
+    132694,
+    132714,
+    132734,
+    132754,
+    132774,
+    132794,
+    132814
+  ]
+}

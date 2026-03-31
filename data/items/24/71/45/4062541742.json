@@ -1,0 +1,17 @@
+{
+  "internalId": 4062541742,
+  "name": "Steadfast's Mettle Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186083,
+    186103,
+    186123,
+    186143,
+    186163,
+    186183,
+    186203,
+    186223
+  ]
+}

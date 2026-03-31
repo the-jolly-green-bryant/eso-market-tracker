@@ -1,0 +1,24 @@
+{
+  "internalId": 693131443,
+  "name": "Ancient Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    588873,
+    458865,
+    828289,
+    829785,
+    845107,
+    887279,
+    939966,
+    1163382,
+    1175874,
+    1283536,
+    1311240,
+    1452360,
+    1469881,
+    1529374,
+    1550007
+  ]
+}

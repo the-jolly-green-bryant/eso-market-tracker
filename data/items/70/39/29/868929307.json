@@ -1,0 +1,10 @@
+{
+  "internalId": 868929307,
+  "name": "Knight Commander Tapestry, Large",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryknightcommanderlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    188279
+  ]
+}

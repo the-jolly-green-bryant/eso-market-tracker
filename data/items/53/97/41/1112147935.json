@@ -1,0 +1,17 @@
+{
+  "internalId": 1112147935,
+  "name": "Maul of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91950,
+    91971,
+    91992,
+    92013,
+    92034,
+    92055,
+    92076,
+    92097
+  ]
+}

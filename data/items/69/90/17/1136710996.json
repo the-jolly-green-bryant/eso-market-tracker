@@ -1,0 +1,17 @@
+{
+  "internalId": 1136710996,
+  "name": "Afflicted Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89269,
+    89289,
+    89309,
+    89329,
+    89349,
+    89369,
+    89389,
+    89409
+  ]
+}

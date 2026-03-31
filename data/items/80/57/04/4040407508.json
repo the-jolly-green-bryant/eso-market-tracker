@@ -1,0 +1,10 @@
+{
+  "internalId": 4040407508,
+  "name": "Cast-Off Breeches",
+  "description": "These trousers are comfortable enough, but the threadbare knees need patching.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    157509
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2925809953,
+  "name": "Fire Drake Shield",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holwhitestrikeshield003.png",
+  "bindType": -1,
+  "knownIds": [
+    211519
+  ]
+}

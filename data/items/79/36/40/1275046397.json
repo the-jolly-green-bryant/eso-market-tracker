@@ -1,0 +1,10 @@
+{
+  "internalId": 1275046397,
+  "name": "High Elf Candelabra, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_lsb_tablecandlelabra001.png",
+  "bindType": -1,
+  "knownIds": [
+    114409
+  ]
+}

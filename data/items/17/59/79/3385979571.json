@@ -1,0 +1,19 @@
+{
+  "internalId": 3385979571,
+  "name": "Pauldrons of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179572,
+    179627,
+    179662,
+    179697,
+    179732,
+    179767,
+    179802,
+    179837,
+    179872,
+    179907
+  ]
+}

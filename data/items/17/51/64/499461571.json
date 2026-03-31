@@ -1,0 +1,11 @@
+{
+  "internalId": 499461571,
+  "name": "Sea Viper Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    483878,
+    1447077
+  ]
+}

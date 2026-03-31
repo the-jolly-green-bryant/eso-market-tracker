@@ -1,0 +1,10 @@
+{
+  "internalId": 3839456164,
+  "name": "Solitude Strongbox, Iron Hunt Relief",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_chest002.png",
+  "bindType": -1,
+  "knownIds": [
+    165712
+  ]
+}

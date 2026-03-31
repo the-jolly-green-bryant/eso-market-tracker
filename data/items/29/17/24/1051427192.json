@@ -1,0 +1,19 @@
+{
+  "internalId": 1051427192,
+  "name": "Tide-Born Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215482,
+    215537,
+    215572,
+    215607,
+    215642,
+    215677,
+    215712,
+    215747,
+    215782,
+    215817
+  ]
+}

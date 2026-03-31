@@ -1,0 +1,10 @@
+{
+  "internalId": 1214842825,
+  "name": "Elsweyr Streetlight, Inlaid Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_wallpostlight001.png",
+  "bindType": -1,
+  "knownIds": [
+    151733
+  ]
+}

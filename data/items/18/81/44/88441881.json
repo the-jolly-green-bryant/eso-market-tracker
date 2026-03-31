@@ -1,0 +1,10 @@
+{
+  "internalId": 88441881,
+  "name": "Ayleids' Coat of Memories",
+  "description": "King Dynar gave you this armor as a reward for freeing him from the binding darkness of the Lightless Oubliette.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15768
+  ]
+}

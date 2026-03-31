@@ -1,0 +1,10 @@
+{
+  "internalId": 1644537762,
+  "name": "Daedric Altar, Four Alcoves",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_pedestalshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    153675
+  ]
+}

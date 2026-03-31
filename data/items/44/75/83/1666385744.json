@@ -1,0 +1,10 @@
+{
+  "internalId": 1666385744,
+  "name": "Rigurt's Belt of Courtship",
+  "description": "A handsome belt that would look good as part of some rough-and-ready wedding attire.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71018
+  ]
+}

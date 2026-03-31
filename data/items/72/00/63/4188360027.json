@@ -1,0 +1,21 @@
+{
+  "internalId": 4188360027,
+  "name": "Shoes of the Depths",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_lgt_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1587498,
+    1587500,
+    1587679,
+    1593777,
+    1593973,
+    1600446,
+    1600486,
+    1601139,
+    1603450,
+    1619241,
+    1652247,
+    1776382
+  ]
+}

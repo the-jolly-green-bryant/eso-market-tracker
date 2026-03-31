@@ -1,0 +1,17 @@
+{
+  "internalId": 2897193570,
+  "name": "Old Growth Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191714,
+    191749,
+    191784,
+    191819,
+    191854,
+    191889,
+    191924,
+    191959
+  ]
+}

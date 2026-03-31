@@ -1,0 +1,10 @@
+{
+  "internalId": 4090070714,
+  "name": "Sip of Potent Health",
+  "description": "Bastian's methods help you identify that some potions are a bit stronger than others.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    176041
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 3495482289,
+  "name": "Dagger of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97225,
+    97246,
+    97267,
+    97288,
+    97309,
+    97330,
+    97351,
+    97372,
+    97393
+  ]
+}

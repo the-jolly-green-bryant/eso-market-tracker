@@ -1,0 +1,19 @@
+{
+  "internalId": 108677462,
+  "name": "Senche-Raht's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148333,
+    148388,
+    148423,
+    148458,
+    148493,
+    148528,
+    148563,
+    148598,
+    148633,
+    148668
+  ]
+}

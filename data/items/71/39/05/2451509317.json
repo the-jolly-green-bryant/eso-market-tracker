@@ -1,0 +1,17 @@
+{
+  "internalId": 2451509317,
+  "name": "Bow of the Dreugh King Slayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80867,
+    80887,
+    80907,
+    80927,
+    80947,
+    80959,
+    80979,
+    80999
+  ]
+}

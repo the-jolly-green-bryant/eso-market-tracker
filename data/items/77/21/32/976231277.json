@@ -1,0 +1,15 @@
+{
+  "internalId": 976231277,
+  "name": "Spellshredder Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219204,
+    219225,
+    219246,
+    219267,
+    219288,
+    219309
+  ]
+}

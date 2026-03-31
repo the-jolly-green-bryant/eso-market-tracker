@@ -1,0 +1,10 @@
+{
+  "internalId": 1669424974,
+  "name": "Daedric Brazier, Table",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_braziertabletop001.png",
+  "bindType": -1,
+  "knownIds": [
+    126699
+  ]
+}

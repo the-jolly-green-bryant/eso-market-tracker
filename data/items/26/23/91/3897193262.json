@@ -1,0 +1,10 @@
+{
+  "internalId": 3897193262,
+  "name": "Night-Grog",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
+  "bindType": -1,
+  "knownIds": [
+    33977
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1644190969,
+  "name": "Orcish Throne, Engraved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgthrone004.png",
+  "bindType": -1,
+  "knownIds": [
+    116422
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1341192581,
+  "name": "Crafting Motif 57: Ebonshadow Maces",
+  "description": "Use to learn how to make Ebonshadow Maces. Also teaches the equivalent Ebonshadow Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    132591
+  ]
+}

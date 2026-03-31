@@ -1,0 +1,17 @@
+{
+  "internalId": 3814585284,
+  "name": "Shoes of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171964,
+    171985,
+    172006,
+    172027,
+    172048,
+    172069,
+    172090,
+    172111
+  ]
+}

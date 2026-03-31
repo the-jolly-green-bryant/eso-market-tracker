@@ -1,0 +1,10 @@
+{
+  "internalId": 126697225,
+  "name": "Rock, Craggy Rubble",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_craglornsmall003b.png",
+  "bindType": -1,
+  "knownIds": [
+    120966
+  ]
+}

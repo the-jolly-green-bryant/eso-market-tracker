@@ -1,0 +1,13 @@
+{
+  "internalId": 2607495559,
+  "name": "Spell Parasite's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163300,
+    163335,
+    163370,
+    163405
+  ]
+}

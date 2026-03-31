@@ -1,0 +1,10 @@
+{
+  "internalId": 3471980118,
+  "name": "Aetherial Dust",
+  "description": "This incredibly rare and valuable ingredient can be used to open a person's eyes to untold experiences — if properly prepared by the most skilled and knowledgeable of crafters.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ghost_vital_glow_dust.png",
+  "bindType": -1,
+  "knownIds": [
+    115026
+  ]
+}

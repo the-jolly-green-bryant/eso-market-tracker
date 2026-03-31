@@ -1,0 +1,10 @@
+{
+  "internalId": 654880238,
+  "name": "Colovian Cheese Rack, Rustic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_cheeserackfilled001.png",
+  "bindType": -1,
+  "knownIds": [
+    204645
+  ]
+}

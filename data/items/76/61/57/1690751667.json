@@ -1,0 +1,17 @@
+{
+  "internalId": 1690751667,
+  "name": "Galerion's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78068,
+    78103,
+    78138,
+    78173,
+    78208,
+    78243,
+    78278,
+    78313
+  ]
+}

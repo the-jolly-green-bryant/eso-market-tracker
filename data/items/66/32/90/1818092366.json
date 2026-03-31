@@ -1,0 +1,17 @@
+{
+  "internalId": 1818092366,
+  "name": "Restoration Staff of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74904,
+    74925,
+    74946,
+    74967,
+    74988,
+    75009,
+    75030,
+    75051
+  ]
+}

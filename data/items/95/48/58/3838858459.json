@@ -1,0 +1,10 @@
+{
+  "internalId": 3838858459,
+  "name": "Soul Gem, Single",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_soulgem008.png",
+  "bindType": -1,
+  "knownIds": [
+    130078
+  ]
+}

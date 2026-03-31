@@ -1,0 +1,10 @@
+{
+  "internalId": 3697297835,
+  "name": "Gauntlets of the Houndsworn",
+  "description": "Forged to weather fang, flame, and claw, these gauntlets were given in thanks by a vampire hunter whose Daedric hound would have died without you.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223686
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 2598626170,
+  "name": "Moondancer Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hhammer_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1160093,
+    1194166,
+    1391586,
+    1395235,
+    1537623,
+    1609405,
+    1626087,
+    1631506,
+    1693185,
+    1715985,
+    1756023
+  ]
+}

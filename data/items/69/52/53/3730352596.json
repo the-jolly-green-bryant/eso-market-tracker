@@ -1,0 +1,10 @@
+{
+  "internalId": 3730352596,
+  "name": "Crafting Motif 16: Glass Daggers",
+  "description": "Use to learn how to make Glass Daggers. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Glass Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    64675
+  ]
+}

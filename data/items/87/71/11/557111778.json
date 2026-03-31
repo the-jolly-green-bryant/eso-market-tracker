@@ -1,0 +1,10 @@
+{
+  "internalId": 557111778,
+  "name": "Plaque, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headplaque001.png",
+  "bindType": -1,
+  "knownIds": [
+    118125
+  ]
+}

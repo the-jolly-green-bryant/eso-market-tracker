@@ -1,0 +1,10 @@
+{
+  "internalId": 460252430,
+  "name": "Breton Medallion, Lion",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_lionhead001.png",
+  "bindType": -1,
+  "knownIds": [
+    115256
+  ]
+}

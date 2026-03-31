@@ -1,0 +1,17 @@
+{
+  "internalId": 2999492966,
+  "name": "Vateshran's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1401263,
+    1401864,
+    1419340,
+    1476201,
+    1538775,
+    1615496,
+    1645363,
+    1676651
+  ]
+}

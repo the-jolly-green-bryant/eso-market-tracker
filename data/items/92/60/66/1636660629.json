@@ -1,0 +1,10 @@
+{
+  "internalId": 1636660629,
+  "name": "Nord Crockpot, Carrot Soup",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_inc_foodpotlrg001.png",
+  "bindType": -1,
+  "knownIds": [
+    115390
+  ]
+}

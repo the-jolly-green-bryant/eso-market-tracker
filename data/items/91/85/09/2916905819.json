@@ -1,0 +1,10 @@
+{
+  "internalId": 2916905819,
+  "name": "Velothi Altar, Small",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_sconce002.png",
+  "bindType": -1,
+  "knownIds": [
+    189476
+  ]
+}

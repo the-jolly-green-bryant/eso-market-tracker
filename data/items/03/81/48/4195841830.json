@@ -1,0 +1,17 @@
+{
+  "internalId": 4195841830,
+  "name": "Steadfast Hero Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144649,
+    144669,
+    144689,
+    144709,
+    144729,
+    144749,
+    144769,
+    144789
+  ]
+}

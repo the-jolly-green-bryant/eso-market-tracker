@@ -1,0 +1,14 @@
+{
+  "internalId": 1303863317,
+  "name": "Sword of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93543,
+    93563,
+    93583,
+    93623,
+    93663
+  ]
+}

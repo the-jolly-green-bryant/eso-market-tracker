@@ -1,0 +1,19 @@
+{
+  "internalId": 3549908709,
+  "name": "Senche-Raht's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148321,
+    148376,
+    148411,
+    148446,
+    148481,
+    148516,
+    148551,
+    148586,
+    148621,
+    148656
+  ]
+}

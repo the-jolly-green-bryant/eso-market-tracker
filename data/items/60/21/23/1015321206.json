@@ -1,0 +1,17 @@
+{
+  "internalId": 1015321206,
+  "name": "Crafty Alfiq's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149247,
+    149268,
+    149289,
+    149310,
+    149331,
+    149352,
+    149373,
+    149394
+  ]
+}

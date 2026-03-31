@@ -1,0 +1,17 @@
+{
+  "internalId": 348442008,
+  "name": "Blessed Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hsword_b.png",
+  "bindType": 2,
+  "knownIds": [
+    102257,
+    102277,
+    102297,
+    102317,
+    102337,
+    102357,
+    102377,
+    102397
+  ]
+}

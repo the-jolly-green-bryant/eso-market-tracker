@@ -1,0 +1,10 @@
+{
+  "internalId": 1153736373,
+  "name": "Witches Totem, Antler Charms",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_reachantlertotem001.png",
+  "bindType": -1,
+  "knownIds": [
+    130334
+  ]
+}

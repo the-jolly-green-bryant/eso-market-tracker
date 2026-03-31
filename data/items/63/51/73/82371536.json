@@ -1,0 +1,17 @@
+{
+  "internalId": 82371536,
+  "name": "Mara's Balm Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189858,
+    189878,
+    189898,
+    189918,
+    189938,
+    189958,
+    189978,
+    189998
+  ]
+}

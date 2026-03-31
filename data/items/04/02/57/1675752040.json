@@ -1,0 +1,17 @@
+{
+  "internalId": 1675752040,
+  "name": "Impregnable Armor Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125727,
+    125762,
+    125797,
+    125832,
+    125867,
+    125902,
+    125937,
+    125972
+  ]
+}

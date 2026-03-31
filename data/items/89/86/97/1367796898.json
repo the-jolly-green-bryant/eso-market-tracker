@@ -1,0 +1,17 @@
+{
+  "internalId": 1367796898,
+  "name": "Bow of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77083,
+    77103,
+    77123,
+    77143,
+    77163,
+    77183,
+    77203,
+    77223
+  ]
+}

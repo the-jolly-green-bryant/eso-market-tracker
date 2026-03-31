@@ -1,0 +1,18 @@
+{
+  "internalId": 876466275,
+  "name": "Mighty Glacier's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1504200,
+    1559544,
+    1561445,
+    1572555,
+    1676808,
+    1694803,
+    1734199,
+    1744364,
+    1746234
+  ]
+}

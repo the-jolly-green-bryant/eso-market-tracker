@@ -1,0 +1,10 @@
+{
+  "internalId": 2793076088,
+  "name": "Grass, Drying Bamboo Shoots",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_bamboogreen002.png",
+  "bindType": -1,
+  "knownIds": [
+    120750
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3310272471,
+  "name": "Fargrave Stall, Bone Merchant",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farmerchantstalldragonbone001.png",
+  "bindType": -1,
+  "knownIds": [
+    192568
+  ]
+}

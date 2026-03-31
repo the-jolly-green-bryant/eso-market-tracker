@@ -1,0 +1,10 @@
+{
+  "internalId": 659804349,
+  "name": "Gauntlets of the Forest Protector",
+  "description": "These gauntlets from Indaenir have a fine layer of dirt from the corrupted Eldest in the finger joints.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10912
+  ]
+}

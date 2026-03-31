@@ -1,0 +1,10 @@
+{
+  "internalId": 3112606746,
+  "name": "Ayleid Constellation Stele, The Lover",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmalllover001.png",
+  "bindType": -1,
+  "knownIds": [
+    141768
+  ]
+}

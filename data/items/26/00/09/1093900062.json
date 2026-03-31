@@ -1,0 +1,19 @@
+{
+  "internalId": 1093900062,
+  "name": "Highland Sentinel Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205808,
+    205810,
+    205812,
+    205814,
+    205816,
+    205818,
+    205820,
+    205822,
+    205824,
+    205826
+  ]
+}

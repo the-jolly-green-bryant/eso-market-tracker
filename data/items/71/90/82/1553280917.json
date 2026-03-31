@@ -1,0 +1,10 @@
+{
+  "internalId": 1553280917,
+  "name": "Stone, Smooth Mossy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_shadowfensmall004.png",
+  "bindType": -1,
+  "knownIds": [
+    120629
+  ]
+}

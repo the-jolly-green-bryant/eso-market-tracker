@@ -1,0 +1,16 @@
+{
+  "internalId": 3320185784,
+  "name": "Ironblood Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_falkreath_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1387297,
+    1562984,
+    1586676,
+    1600936,
+    1629058,
+    1725447,
+    1773943
+  ]
+}

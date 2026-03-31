@@ -1,0 +1,19 @@
+{
+  "internalId": 4061032133,
+  "name": "Ancient Dragonguard's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155786,
+    155841,
+    155876,
+    155911,
+    155946,
+    155981,
+    156016,
+    156051,
+    156086,
+    156121
+  ]
+}

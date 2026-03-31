@@ -1,0 +1,10 @@
+{
+  "internalId": 1184334247,
+  "name": "Wood Elf Stool, Leather",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_chairnoback001.png",
+  "bindType": -1,
+  "knownIds": [
+    115550
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 439323520,
+  "name": "Bound Signature Script: Anchorite's Potency",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_giveultimate.png",
+  "bindType": -1,
+  "knownIds": [
+    1719496,
+    1720998
+  ]
+}

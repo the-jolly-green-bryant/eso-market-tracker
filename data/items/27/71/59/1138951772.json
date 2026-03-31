@@ -1,0 +1,10 @@
+{
+  "internalId": 1138951772,
+  "name": "guts",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_vertebrate_guts.png",
+  "bindType": -1,
+  "knownIds": [
+    363982
+  ]
+}

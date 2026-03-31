@@ -1,0 +1,10 @@
+{
+  "internalId": 3043058435,
+  "name": "Redguard Bed, Wide Lattice",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillowbed002.png",
+  "bindType": -1,
+  "knownIds": [
+    117843
+  ]
+}

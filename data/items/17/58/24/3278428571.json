@@ -1,0 +1,20 @@
+{
+  "internalId": 3278428571,
+  "name": "Mora Scribe's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_light_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1719666,
+    1726423,
+    1731631,
+    1731634,
+    1732386,
+    1732884,
+    1733063,
+    1744425,
+    1754478,
+    1758231,
+    1761020
+  ]
+}

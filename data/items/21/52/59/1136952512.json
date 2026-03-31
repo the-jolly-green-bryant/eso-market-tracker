@@ -1,0 +1,15 @@
+{
+  "internalId": 1136952512,
+  "name": "Savage Werewolf's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_1hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1484672,
+    1491012,
+    1605674,
+    1658141,
+    1728995,
+    1731586
+  ]
+}

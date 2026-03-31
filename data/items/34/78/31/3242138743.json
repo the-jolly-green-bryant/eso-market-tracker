@@ -1,0 +1,19 @@
+{
+  "internalId": 3242138743,
+  "name": "Shield of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75748,
+    75783,
+    75818,
+    75853,
+    75888,
+    75923,
+    75958,
+    75993,
+    76028,
+    76063
+  ]
+}

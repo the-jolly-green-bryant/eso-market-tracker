@@ -1,0 +1,10 @@
+{
+  "internalId": 1878308307,
+  "name": "Druidic Gourd Candles, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drumonolithgourd001.png",
+  "bindType": -1,
+  "knownIds": [
+    191162
+  ]
+}

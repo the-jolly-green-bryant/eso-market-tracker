@@ -1,0 +1,10 @@
+{
+  "internalId": 3918189566,
+  "name": "Murkmire Totem, Wolf-Lizard",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkwolftotem001.png",
+  "bindType": -1,
+  "knownIds": [
+    145548
+  ]
+}

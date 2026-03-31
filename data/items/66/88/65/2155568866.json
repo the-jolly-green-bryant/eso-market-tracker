@@ -1,0 +1,13 @@
+{
+  "internalId": 2155568866,
+  "name": "Battle Axe of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93078,
+    93098,
+    93118,
+    93138
+  ]
+}

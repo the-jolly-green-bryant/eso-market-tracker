@@ -1,0 +1,17 @@
+{
+  "internalId": 1219858996,
+  "name": "Inferno Staff of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180437,
+    180458,
+    180479,
+    180500,
+    180521,
+    180542,
+    180563,
+    180584
+  ]
+}

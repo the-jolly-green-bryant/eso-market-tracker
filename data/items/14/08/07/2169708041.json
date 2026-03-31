@@ -1,0 +1,23 @@
+{
+  "internalId": 2169708041,
+  "name": "Aegis of Ash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    813573,
+    804509,
+    581440,
+    836170,
+    903061,
+    943075,
+    1069385,
+    1283928,
+    1435283,
+    1474765,
+    1522732,
+    1524136,
+    1524452,
+    1682001
+  ]
+}

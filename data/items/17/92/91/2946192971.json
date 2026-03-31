@@ -1,0 +1,17 @@
+{
+  "internalId": 2946192971,
+  "name": "Soldier of Anguish Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144472,
+    144492,
+    144512,
+    144532,
+    144552,
+    144572,
+    144592,
+    144612
+  ]
+}

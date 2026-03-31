@@ -1,0 +1,16 @@
+{
+  "internalId": 217313529,
+  "name": "Axe of Permafrost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1378699,
+    1406883,
+    1419859,
+    1548178,
+    1583837,
+    1598713,
+    1690596
+  ]
+}

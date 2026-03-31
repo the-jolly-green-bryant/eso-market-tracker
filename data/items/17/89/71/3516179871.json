@@ -1,0 +1,10 @@
+{
+  "internalId": 3516179871,
+  "name": "The Costumer's Wardrobe",
+  "description": "This box jostles with many Costumes, Hats, Polymorphs, and Skins.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_shehai_essence_box.png",
+  "bindType": 3,
+  "knownIds": [
+    81181
+  ]
+}

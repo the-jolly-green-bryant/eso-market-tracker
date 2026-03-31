@@ -1,0 +1,14 @@
+{
+  "internalId": 1057365577,
+  "name": "Spell Parasite's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163270,
+    163305,
+    163340,
+    163375,
+    163410
+  ]
+}

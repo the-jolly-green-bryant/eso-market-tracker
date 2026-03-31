@@ -1,0 +1,11 @@
+{
+  "internalId": 853598670,
+  "name": "Rabbit Pasty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
+  "bindType": -1,
+  "knownIds": [
+    37834,
+    28334
+  ]
+}

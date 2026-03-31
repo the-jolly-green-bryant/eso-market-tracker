@@ -1,0 +1,10 @@
+{
+  "internalId": 3594565445,
+  "name": "Dark Ether",
+  "description": "This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_darkether.png",
+  "bindType": -1,
+  "knownIds": [
+    64567
+  ]
+}

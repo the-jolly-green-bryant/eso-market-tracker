@@ -1,0 +1,10 @@
+{
+  "internalId": 2790222475,
+  "name": "Elsweyr Pillar, Ancient Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_roomfreestandingcolumn001.png",
+  "bindType": -1,
+  "knownIds": [
+    151628
+  ]
+}

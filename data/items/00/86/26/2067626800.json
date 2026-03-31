@@ -1,0 +1,17 @@
+{
+  "internalId": 2067626800,
+  "name": "Bracers of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117468,
+    117488,
+    117508,
+    117528,
+    117548,
+    117568,
+    117588,
+    117608
+  ]
+}

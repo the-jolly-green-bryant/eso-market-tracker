@@ -1,0 +1,10 @@
+{
+  "internalId": 255536188,
+  "name": "Recipe: Fried Green Tomatoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    45922
+  ]
+}

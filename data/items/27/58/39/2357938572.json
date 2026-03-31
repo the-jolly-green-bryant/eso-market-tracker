@@ -1,0 +1,17 @@
+{
+  "internalId": 2357938572,
+  "name": "Plague Doctor's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97049,
+    97069,
+    97089,
+    97109,
+    97129,
+    97149,
+    97169,
+    97189
+  ]
+}

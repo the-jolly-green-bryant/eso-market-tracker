@@ -1,0 +1,10 @@
+{
+  "internalId": 3459134895,
+  "name": "Blade of the Warrior-Poet",
+  "description": "In gratitude for recovering his stolen divine energy from the Clockwork City, Lord Vivec rewarded you with one of his favorite swords.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_buoyantarmiger_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126043
+  ]
+}

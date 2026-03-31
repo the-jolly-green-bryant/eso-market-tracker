@@ -1,0 +1,19 @@
+{
+  "internalId": 3496506104,
+  "name": "Belt of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70638,
+    70673,
+    70708,
+    70743,
+    70778,
+    70813,
+    70848,
+    70883,
+    70918,
+    70953
+  ]
+}

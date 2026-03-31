@@ -1,0 +1,17 @@
+{
+  "internalId": 709743671,
+  "name": "Galerion's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78049,
+    78084,
+    78119,
+    78154,
+    78189,
+    78224,
+    78259,
+    78294
+  ]
+}

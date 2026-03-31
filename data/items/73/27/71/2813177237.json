@@ -1,0 +1,10 @@
+{
+  "internalId": 2813177237,
+  "name": "Tree, Marsh Cypress",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_mrkgrassland002.png",
+  "bindType": -1,
+  "knownIds": [
+    145421
+  ]
+}

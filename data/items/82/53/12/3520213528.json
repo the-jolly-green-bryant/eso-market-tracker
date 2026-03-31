@@ -1,0 +1,10 @@
+{
+  "internalId": 3520213528,
+  "name": "Merchant's Favor Ring",
+  "description": "Left behind to buy your silence by an Argonian merchant who spread too many rumors.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    10333
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2465630313,
+  "name": "Vampire Lord's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100398,
+    100419,
+    100440,
+    100461,
+    100482,
+    100503,
+    100524,
+    100545
+  ]
+}

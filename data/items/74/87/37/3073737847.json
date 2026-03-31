@@ -1,0 +1,17 @@
+{
+  "internalId": 3073737847,
+  "name": "Hew and Sunder Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183421,
+    183441,
+    183461,
+    183481,
+    183501,
+    183521,
+    183541,
+    183561
+  ]
+}

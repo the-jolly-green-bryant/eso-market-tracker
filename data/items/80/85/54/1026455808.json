@@ -1,0 +1,10 @@
+{
+  "internalId": 1026455808,
+  "name": "Wood Elf Counter, Long Leather",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_counter001.png",
+  "bindType": -1,
+  "knownIds": [
+    115551
+  ]
+}

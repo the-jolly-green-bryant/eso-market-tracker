@@ -1,0 +1,17 @@
+{
+  "internalId": 3058166456,
+  "name": "Witchman's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101525,
+    101545,
+    101565,
+    101585,
+    101605,
+    101625,
+    101645,
+    101665
+  ]
+}

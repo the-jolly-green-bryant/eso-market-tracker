@@ -1,0 +1,10 @@
+{
+  "internalId": 1760012455,
+  "name": "Stained Alchemy Smock",
+  "description": "Let this smock serve as a reminder that it's rarely a good idea to harass a talented alchemist.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_shirt_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126066
+  ]
+}

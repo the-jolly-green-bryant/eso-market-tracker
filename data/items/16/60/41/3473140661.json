@@ -1,0 +1,17 @@
+{
+  "internalId": 3473140661,
+  "name": "Greatsword of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91187,
+    91208,
+    91229,
+    91250,
+    91271,
+    91292,
+    91313,
+    91334
+  ]
+}

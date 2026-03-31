@@ -1,0 +1,17 @@
+{
+  "internalId": 2602939008,
+  "name": "Coup De Grâce Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219326,
+    219346,
+    219366,
+    219386,
+    219406,
+    219426,
+    219446,
+    219466
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4003395212,
+  "name": "Guards of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98164,
+    98184,
+    98204,
+    98224,
+    98244,
+    98264,
+    98284,
+    98304
+  ]
+}

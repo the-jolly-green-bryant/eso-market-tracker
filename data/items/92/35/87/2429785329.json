@@ -1,0 +1,15 @@
+{
+  "internalId": 2429785329,
+  "name": "Darkstride Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    85838,
+    85858,
+    85878,
+    85898,
+    85918,
+    85958
+  ]
+}

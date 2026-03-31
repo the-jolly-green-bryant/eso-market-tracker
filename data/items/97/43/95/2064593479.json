@@ -1,0 +1,10 @@
+{
+  "internalId": 2064593479,
+  "name": "Alinor Pedestal, Timeworn",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonestack009.png",
+  "bindType": -1,
+  "knownIds": [
+    139177
+  ]
+}

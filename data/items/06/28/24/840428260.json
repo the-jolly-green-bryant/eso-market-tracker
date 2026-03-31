@@ -1,0 +1,19 @@
+{
+  "internalId": 840428260,
+  "name": "Inferno Staff of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71822,
+    71857,
+    71892,
+    71927,
+    71962,
+    71997,
+    72032,
+    72067,
+    72102,
+    72137
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3989187730,
+  "name": "Moonhenge Chausses",
+  "description": "Sergeant Galandir presented these chausses to you for closing the Daedric portals to Moonhenge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10848
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2820149095,
+  "name": "Lightning Staff of Prayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90428,
+    90449,
+    90470,
+    90491,
+    90512,
+    90533,
+    90554,
+    90575
+  ]
+}

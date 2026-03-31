@@ -1,0 +1,17 @@
+{
+  "internalId": 1908774576,
+  "name": "Maul of High Isle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_2hmace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185913,
+    185934,
+    185955,
+    185976,
+    185997,
+    186018,
+    186039,
+    186060
+  ]
+}

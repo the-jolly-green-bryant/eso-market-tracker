@@ -1,0 +1,10 @@
+{
+  "internalId": 29217331,
+  "name": "Tree, Giant Cypress",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkcypress001.png",
+  "bindType": -1,
+  "knownIds": [
+    121286
+  ]
+}

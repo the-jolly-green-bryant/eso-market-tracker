@@ -1,0 +1,15 @@
+{
+  "internalId": 2038293028,
+  "name": "Tools of the Trapmaster Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1764938,
+    1764939,
+    1765197,
+    1771679,
+    1771680,
+    1779136
+  ]
+}

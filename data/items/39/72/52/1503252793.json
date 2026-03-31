@@ -1,0 +1,10 @@
+{
+  "internalId": 1503252793,
+  "name": "Orcish Cabinet, Engraved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgcabinetshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    116429
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 375543879,
+  "name": "Stones, Granite Pair",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_eastmarchsmall011.png",
+  "bindType": -1,
+  "knownIds": [
+    132218
+  ]
+}

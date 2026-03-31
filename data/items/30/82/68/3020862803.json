@@ -1,0 +1,10 @@
+{
+  "internalId": 3020862803,
+  "name": "Leyawiin Counter, Long",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leycounterlong001.png",
+  "bindType": -1,
+  "knownIds": [
+    175587
+  ]
+}

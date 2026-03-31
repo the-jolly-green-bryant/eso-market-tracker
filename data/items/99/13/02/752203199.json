@@ -1,0 +1,11 @@
+{
+  "internalId": 752203199,
+  "name": "Mora Scribe's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1723235,
+    1732564
+  ]
+}

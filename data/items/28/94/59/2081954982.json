@@ -1,0 +1,17 @@
+{
+  "internalId": 2081954982,
+  "name": "Hew and Sunder Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183415,
+    183435,
+    183455,
+    183475,
+    183495,
+    183515,
+    183535,
+    183555
+  ]
+}

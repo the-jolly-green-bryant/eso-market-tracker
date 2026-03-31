@@ -1,0 +1,17 @@
+{
+  "internalId": 3369161976,
+  "name": "Bloodthorn Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96398,
+    96419,
+    96440,
+    96461,
+    96482,
+    96503,
+    96524,
+    96545
+  ]
+}

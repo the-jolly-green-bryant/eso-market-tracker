@@ -1,0 +1,12 @@
+{
+  "internalId": 1472358634,
+  "name": "Lucilla's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1750906,
+    1757681,
+    1763409
+  ]
+}

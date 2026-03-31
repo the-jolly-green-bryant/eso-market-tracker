@@ -1,0 +1,10 @@
+{
+  "internalId": 422632416,
+  "name": "Plants, Lava Pitcher Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdpitcherflowers002.png",
+  "bindType": -1,
+  "knownIds": [
+    125634
+  ]
+}

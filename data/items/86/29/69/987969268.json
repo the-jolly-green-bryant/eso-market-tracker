@@ -1,0 +1,11 @@
+{
+  "internalId": 987969268,
+  "name": "Rye-In-Your-Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_001.png",
+  "bindType": -1,
+  "knownIds": [
+    32133,
+    28429
+  ]
+}

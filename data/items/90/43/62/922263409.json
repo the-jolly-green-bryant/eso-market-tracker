@@ -1,0 +1,10 @@
+{
+  "internalId": 922263409,
+  "name": "Firesong Sculpture, Arch",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_lavamonolith001.png",
+  "bindType": -1,
+  "knownIds": [
+    193840
+  ]
+}

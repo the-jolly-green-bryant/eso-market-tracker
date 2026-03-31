@@ -1,0 +1,17 @@
+{
+  "internalId": 568023290,
+  "name": "Gossamer Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    926879,
+    928417,
+    1099696,
+    1563529,
+    1602410,
+    1614606,
+    1623953,
+    1659274
+  ]
+}

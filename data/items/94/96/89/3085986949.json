@@ -1,0 +1,12 @@
+{
+  "internalId": 3085986949,
+  "name": "Corpseburster Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729067,
+    1736598,
+    1745684
+  ]
+}

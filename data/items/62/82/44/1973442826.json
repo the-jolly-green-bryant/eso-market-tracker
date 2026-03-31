@@ -1,0 +1,15 @@
+{
+  "internalId": 1973442826,
+  "name": "Belt of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59257,
+    59278,
+    59299,
+    59320,
+    59341,
+    59362
+  ]
+}

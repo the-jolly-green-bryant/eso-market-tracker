@@ -1,0 +1,17 @@
+{
+  "internalId": 1328284871,
+  "name": "Plague Doctor's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97040,
+    97060,
+    97080,
+    97100,
+    97120,
+    97140,
+    97160,
+    97180
+  ]
+}

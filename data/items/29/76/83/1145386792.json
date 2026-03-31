@@ -1,0 +1,10 @@
+{
+  "internalId": 1145386792,
+  "name": "Venerable Dragonguard Sword",
+  "description": "An ancient Dragonguard blade found among the ruins of the Dragonguard Sanctum. Whatever foundry produced it could likely be restored.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_sword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    153828
+  ]
+}

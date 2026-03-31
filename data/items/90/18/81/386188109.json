@@ -1,0 +1,20 @@
+{
+  "internalId": 386188109,
+  "name": "Lucent Echoes Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1720063,
+    1722484,
+    1727442,
+    1732489,
+    1732930,
+    1738755,
+    1745258,
+    1754714,
+    1760752,
+    1763896,
+    1766199
+  ]
+}

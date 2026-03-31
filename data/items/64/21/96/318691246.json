@@ -1,0 +1,17 @@
+{
+  "internalId": 318691246,
+  "name": "Bloodthorn Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96399,
+    96420,
+    96441,
+    96462,
+    96483,
+    96504,
+    96525,
+    96546
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2142542475,
+  "name": "Mara's Balm Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189853,
+    189873,
+    189893,
+    189913,
+    189933,
+    189953,
+    189973,
+    189993
+  ]
+}

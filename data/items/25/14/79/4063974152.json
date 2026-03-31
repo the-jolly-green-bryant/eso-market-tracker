@@ -1,0 +1,10 @@
+{
+  "internalId": 4063974152,
+  "name": "Redguard Pillow, Florid Flames",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillow006.png",
+  "bindType": -1,
+  "knownIds": [
+    117841
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2735855103,
+  "name": "Alessian Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87985
+  ]
+}

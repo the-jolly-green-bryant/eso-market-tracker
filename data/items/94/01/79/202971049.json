@@ -1,0 +1,10 @@
+{
+  "internalId": 202971049,
+  "name": "Elsweyr Wagon Wheel, Ironshod",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_csb_cartwheel001.png",
+  "bindType": -1,
+  "knownIds": [
+    151803
+  ]
+}

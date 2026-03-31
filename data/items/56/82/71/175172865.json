@@ -1,0 +1,10 @@
+{
+  "internalId": 175172865,
+  "name": "Battleaxe of Medrike",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    44265
+  ]
+}

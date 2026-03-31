@@ -1,0 +1,17 @@
+{
+  "internalId": 3173751094,
+  "name": "Defiler's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122993,
+    123013,
+    123033,
+    123053,
+    123073,
+    123093,
+    123113,
+    123133
+  ]
+}

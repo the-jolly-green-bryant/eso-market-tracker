@@ -1,0 +1,19 @@
+{
+  "internalId": 2172335873,
+  "name": "Automated Defense Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clockwork_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1378467,
+    1400823,
+    1414128,
+    1461932,
+    1462753,
+    1630262,
+    1701743,
+    1723347,
+    1770210,
+    1774778
+  ]
+}

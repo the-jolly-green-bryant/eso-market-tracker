@@ -1,0 +1,24 @@
+{
+  "internalId": 3375803001,
+  "name": "inferior glyph of reduce feat cost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_reducefeatcosts.png",
+  "bindType": -1,
+  "knownIds": [
+    530183,
+    712950,
+    476402,
+    591050,
+    390276,
+    550732,
+    791657,
+    1487582,
+    1495171,
+    1496080,
+    1520212,
+    1547605,
+    1632237,
+    1646413,
+    1753192
+  ]
+}

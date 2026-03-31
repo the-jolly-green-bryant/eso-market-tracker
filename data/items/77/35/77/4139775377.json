@@ -1,0 +1,17 @@
+{
+  "internalId": 4139775377,
+  "name": "Boots of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    97788,
+    97808,
+    97828,
+    97848,
+    97868,
+    97888,
+    97908,
+    97928
+  ]
+}

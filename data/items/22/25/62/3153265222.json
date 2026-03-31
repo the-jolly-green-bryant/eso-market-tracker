@@ -1,0 +1,20 @@
+{
+  "internalId": 3153265222,
+  "name": "Inert Egg",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_food_002.png",
+  "bindType": -1,
+  "knownIds": [
+    820199,
+    791267,
+    854005,
+    894127,
+    914046,
+    1076940,
+    1158961,
+    1212744,
+    1228630,
+    1286820,
+    1327909
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2333428465,
+  "name": "Battle Axe of True-Sworn Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1416013,
+    1489505,
+    1492594,
+    1538083,
+    1541088,
+    1550633,
+    1565834,
+    1570027,
+    1593992,
+    1601045
+  ]
+}

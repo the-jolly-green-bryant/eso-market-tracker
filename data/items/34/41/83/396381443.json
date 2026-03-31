@@ -1,0 +1,19 @@
+{
+  "internalId": 396381443,
+  "name": "Nocturnal's Favored Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136417,
+    136452,
+    136487,
+    136522,
+    136557,
+    136592,
+    136627,
+    136662,
+    136697,
+    136732
+  ]
+}

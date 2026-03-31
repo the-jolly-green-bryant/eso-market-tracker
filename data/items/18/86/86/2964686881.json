@@ -1,0 +1,10 @@
+{
+  "internalId": 2964686881,
+  "name": "Soul Gem, Lesser",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_soulgemlesser001.png",
+  "bindType": -1,
+  "knownIds": [
+    120008
+  ]
+}

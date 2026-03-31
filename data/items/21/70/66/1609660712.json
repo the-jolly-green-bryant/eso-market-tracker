@@ -1,0 +1,17 @@
+{
+  "internalId": 1609660712,
+  "name": "Ice Staff of Oakfather's Retribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    203912,
+    203933,
+    203954,
+    203975,
+    203996,
+    204017,
+    204038,
+    204059
+  ]
+}

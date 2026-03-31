@@ -1,0 +1,10 @@
+{
+  "internalId": 3914342301,
+  "name": "Flowers, Yellow Oleander Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_yellowoleander005.png",
+  "bindType": -1,
+  "knownIds": [
+    139347
+  ]
+}

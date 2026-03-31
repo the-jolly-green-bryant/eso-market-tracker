@@ -1,0 +1,25 @@
+{
+  "internalId": 968980973,
+  "name": "Greatsword of the Essence Thief",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    943831,
+    981260,
+    1065971,
+    1128238,
+    1263466,
+    1282379,
+    1303361,
+    1345664,
+    1514937,
+    1556860,
+    1561743,
+    1562077,
+    1573676,
+    1620004,
+    1622296,
+    1715789
+  ]
+}

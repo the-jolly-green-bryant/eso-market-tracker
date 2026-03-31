@@ -1,0 +1,12 @@
+{
+  "internalId": 213493004,
+  "name": "Apocryphal Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628822,
+    1628925,
+    1683543
+  ]
+}

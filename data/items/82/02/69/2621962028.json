@@ -1,0 +1,10 @@
+{
+  "internalId": 2621962028,
+  "name": "Daedric Chandelier, Spiked",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_lantern001.png",
+  "bindType": -1,
+  "knownIds": [
+    126571
+  ]
+}

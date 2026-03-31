@@ -1,0 +1,10 @@
+{
+  "internalId": 1942878095,
+  "name": "Jump Pad, Decommissioned",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farnightjumppad001.png",
+  "bindType": -1,
+  "knownIds": [
+    224098
+  ]
+}

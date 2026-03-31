@@ -1,0 +1,13 @@
+{
+  "internalId": 437004616,
+  "name": "Adept Rider's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135957,
+    135992,
+    136027,
+    136062
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 266771156,
+  "name": "Pauldron of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80415,
+    80435,
+    80455,
+    80475,
+    80507,
+    80527,
+    80547
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 2624289710,
+  "name": "splendid glyph of decrease physical harm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasephysicaldamage.png",
+  "bindType": -1,
+  "knownIds": [
+    540138,
+    446141,
+    1441396,
+    1446608
+  ]
+}

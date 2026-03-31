@@ -1,0 +1,10 @@
+{
+  "internalId": 2169107898,
+  "name": "Apocrypha Specimen Jar, Scorpion",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarscorpion001.png",
+  "bindType": -1,
+  "knownIds": [
+    198387
+  ]
+}

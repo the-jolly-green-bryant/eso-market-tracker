@@ -1,0 +1,17 @@
+{
+  "internalId": 3971826131,
+  "name": "Inferno Staff of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114661,
+    114681,
+    114701,
+    114721,
+    114741,
+    114761,
+    114781,
+    114801
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1128079015,
+  "name": "Ritemaster's Bond Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628808,
+    1631246,
+    1642538,
+    1691801,
+    1701707
+  ]
+}

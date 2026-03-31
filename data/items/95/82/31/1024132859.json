@@ -1,0 +1,10 @@
+{
+  "internalId": 1024132859,
+  "name": "Boulder, Volcanic Column",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_vrdlavacolumn004.png",
+  "bindType": -1,
+  "knownIds": [
+    125481
+  ]
+}

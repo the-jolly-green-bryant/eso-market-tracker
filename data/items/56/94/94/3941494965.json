@@ -1,0 +1,17 @@
+{
+  "internalId": 3941494965,
+  "name": "Glacial Guardian's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1573623,
+    1579752,
+    1605764,
+    1606270,
+    1622086,
+    1622316,
+    1655441,
+    1716004
+  ]
+}

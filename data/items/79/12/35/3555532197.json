@@ -1,0 +1,18 @@
+{
+  "internalId": 3555532197,
+  "name": "Treasure Hunter's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1084503,
+    1133892,
+    1198774,
+    1331786,
+    1493028,
+    1493627,
+    1532081,
+    1537247,
+    1556464
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2015787627,
+  "name": "Karth's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168392,
+    168447,
+    168482,
+    168517,
+    168552,
+    168587,
+    168622,
+    168657,
+    168692,
+    168727
+  ]
+}

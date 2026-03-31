@@ -1,0 +1,14 @@
+{
+  "internalId": 3449409140,
+  "name": "superb glyph of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_staminaboost.png",
+  "bindType": -1,
+  "knownIds": [
+    742257,
+    1598168,
+    1633469,
+    1633475,
+    1703790
+  ]
+}

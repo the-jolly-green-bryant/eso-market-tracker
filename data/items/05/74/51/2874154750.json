@@ -1,0 +1,27 @@
+{
+  "internalId": 2874154750,
+  "name": "Overwhelming Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    944897,
+    1073442,
+    1158162,
+    1272524,
+    1408418,
+    1417696,
+    1419010,
+    1424249,
+    1455466,
+    1470157,
+    1471337,
+    1531270,
+    1532003,
+    1602976,
+    1616925,
+    1621211,
+    1734573,
+    1735918
+  ]
+}

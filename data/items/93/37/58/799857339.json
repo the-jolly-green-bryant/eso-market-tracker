@@ -1,0 +1,19 @@
+{
+  "internalId": 799857339,
+  "name": "Seeker Synthesis Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195336,
+    195391,
+    195426,
+    195461,
+    195496,
+    195531,
+    195566,
+    195601,
+    195636,
+    195671
+  ]
+}

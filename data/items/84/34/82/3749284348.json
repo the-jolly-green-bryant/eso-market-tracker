@@ -1,0 +1,10 @@
+{
+  "internalId": 3749284348,
+  "name": "Leyawiin Plates, Stack",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplateempty004.png",
+  "bindType": -1,
+  "knownIds": [
+    175688
+  ]
+}

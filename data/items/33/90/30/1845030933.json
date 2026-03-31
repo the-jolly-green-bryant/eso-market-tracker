@@ -1,0 +1,10 @@
+{
+  "internalId": 1845030933,
+  "name": "Crafting Motif 31: Skinchanger Gloves",
+  "description": "Use to learn how to make Skinchanger Gloves. Also teaches the equivalent Skinchanger Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    73861
+  ]
+}

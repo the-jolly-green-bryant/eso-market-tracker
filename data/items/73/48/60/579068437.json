@@ -1,0 +1,17 @@
+{
+  "internalId": 579068437,
+  "name": "Gourmand's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190382,
+    190403,
+    190424,
+    190445,
+    190466,
+    190487,
+    190508,
+    190529
+  ]
+}

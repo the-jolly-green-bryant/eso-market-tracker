@@ -1,0 +1,10 @@
+{
+  "internalId": 517045920,
+  "name": "Figurine, The Dragon's Glare",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_smallstatue003.png",
+  "bindType": -1,
+  "knownIds": [
+    141831
+  ]
+}

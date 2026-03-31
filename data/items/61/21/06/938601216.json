@@ -1,0 +1,12 @@
+{
+  "internalId": 938601216,
+  "name": "Xanmeer Genesis Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223432,
+    223467,
+    223502
+  ]
+}

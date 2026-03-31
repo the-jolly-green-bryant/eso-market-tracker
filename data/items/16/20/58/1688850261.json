@@ -1,0 +1,18 @@
+{
+  "internalId": 1688850261,
+  "name": "Restoration Staff of Spriggan's Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1587913,
+    1603471,
+    1614558,
+    1619348,
+    1633095,
+    1686738,
+    1727435,
+    1757855,
+    1764473
+  ]
+}

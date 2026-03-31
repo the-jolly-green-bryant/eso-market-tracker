@@ -1,0 +1,17 @@
+{
+  "internalId": 1764526700,
+  "name": "Breeches of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91008,
+    91029,
+    91050,
+    91071,
+    91092,
+    91113,
+    91134,
+    91155
+  ]
+}

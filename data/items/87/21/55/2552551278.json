@@ -1,0 +1,13 @@
+{
+  "internalId": 2552551278,
+  "name": "trifling glyph of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_staminaboost.png",
+  "bindType": -1,
+  "knownIds": [
+    499541,
+    546446,
+    548242,
+    549780
+  ]
+}

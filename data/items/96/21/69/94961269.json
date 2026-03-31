@@ -1,0 +1,10 @@
+{
+  "internalId": 94961269,
+  "name": "Light Cyrodiil Sets",
+  "description": "The Light Armor item sets, found in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    181632
+  ]
+}

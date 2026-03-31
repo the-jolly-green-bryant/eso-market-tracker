@@ -1,0 +1,10 @@
+{
+  "internalId": 224296511,
+  "name": "Carapace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_chitinous_sturdy_carapace.png",
+  "bindType": -1,
+  "knownIds": [
+    54382
+  ]
+}

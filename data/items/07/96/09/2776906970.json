@@ -1,0 +1,10 @@
+{
+  "internalId": 2776906970,
+  "name": "Dungeon Sets",
+  "description": "This container holds a collection of armor, jewelry and weapons found in Group Dungeons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114279
+  ]
+}

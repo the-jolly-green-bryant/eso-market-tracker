@@ -1,0 +1,17 @@
+{
+  "internalId": 2873651632,
+  "name": "Maul of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92152,
+    92165,
+    92178,
+    92191,
+    92204,
+    92217,
+    92230,
+    92243
+  ]
+}

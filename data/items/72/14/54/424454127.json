@@ -1,0 +1,18 @@
+{
+  "internalId": 424454127,
+  "name": "Sword of the Turning Tide",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_sword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568185,
+    1573582,
+    1581380,
+    1598922,
+    1603594,
+    1605618,
+    1648197,
+    1691721,
+    1724202
+  ]
+}

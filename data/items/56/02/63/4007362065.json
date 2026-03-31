@@ -1,0 +1,17 @@
+{
+  "internalId": 4007362065,
+  "name": "Helmet of the Wilderqueen",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97426,
+    97446,
+    97466,
+    97486,
+    97506,
+    97526,
+    97546,
+    97566
+  ]
+}

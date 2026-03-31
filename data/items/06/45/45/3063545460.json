@@ -1,0 +1,17 @@
+{
+  "internalId": 3063545460,
+  "name": "Vampire Lord's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100418,
+    100439,
+    100460,
+    100481,
+    100502,
+    100523,
+    100544,
+    100565
+  ]
+}

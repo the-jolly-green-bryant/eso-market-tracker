@@ -1,0 +1,10 @@
+{
+  "internalId": 3704529659,
+  "name": "Briarheart Tree, Replica",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_wrgbriarheart001.png",
+  "bindType": -1,
+  "knownIds": [
+    132156
+  ]
+}

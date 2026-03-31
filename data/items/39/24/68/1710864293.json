@@ -1,0 +1,10 @@
+{
+  "internalId": 1710864293,
+  "name": "Bound Affix Script: Lifesteal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_lifesteal.png",
+  "bindType": -1,
+  "knownIds": [
+    1722143
+  ]
+}

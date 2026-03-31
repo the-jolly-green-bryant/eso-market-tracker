@@ -1,0 +1,17 @@
+{
+  "internalId": 2427066781,
+  "name": "Sword of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98149,
+    98169,
+    98189,
+    98209,
+    98229,
+    98249,
+    98269,
+    98289
+  ]
+}

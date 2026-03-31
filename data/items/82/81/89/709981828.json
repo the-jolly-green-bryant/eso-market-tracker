@@ -1,0 +1,19 @@
+{
+  "internalId": 709981828,
+  "name": "Scorion's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_1hsword.png",
+  "bindType": -1,
+  "knownIds": [
+    1559577,
+    1559667,
+    1565065,
+    1569929,
+    1646518,
+    1685001,
+    1689193,
+    1717074,
+    1745690,
+    1750538
+  ]
+}

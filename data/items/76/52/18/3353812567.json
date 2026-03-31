@@ -1,0 +1,10 @@
+{
+  "internalId": 3353812567,
+  "name": "Nord Bench, Braced",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_bench001.png",
+  "bindType": -1,
+  "knownIds": [
+    115360
+  ]
+}

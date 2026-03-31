@@ -1,0 +1,13 @@
+{
+  "internalId": 2944464144,
+  "name": "Bound Signature Script: Fencer's Parry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_bladeturn.png",
+  "bindType": -1,
+  "knownIds": [
+    1719662,
+    1720140,
+    1720988,
+    1721618
+  ]
+}

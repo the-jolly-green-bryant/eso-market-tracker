@@ -1,0 +1,17 @@
+{
+  "internalId": 2373930321,
+  "name": "Elegant Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80701,
+    80722,
+    80743,
+    80764,
+    80785,
+    80797,
+    80818,
+    80839
+  ]
+}

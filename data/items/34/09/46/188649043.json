@@ -1,0 +1,30 @@
+{
+  "internalId": 188649043,
+  "name": "Sunderflame Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1073591,
+    1169329,
+    1196836,
+    1341045,
+    1361818,
+    1399538,
+    1401969,
+    1443143,
+    1452372,
+    1456153,
+    1539650,
+    1565485,
+    1566085,
+    1586645,
+    1599259,
+    1625787,
+    1647442,
+    1689173,
+    1689183,
+    1746828,
+    1759650
+  ]
+}

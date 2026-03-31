@@ -1,0 +1,17 @@
+{
+  "internalId": 2833113447,
+  "name": "Blessed Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    102266,
+    102286,
+    102306,
+    102326,
+    102346,
+    102366,
+    102386,
+    102406
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2849258164,
+  "name": "Draugr Bane",
+  "description": "A gift from Nivene Orthil in thanks for seeing her drunken friends through the Hall of the Dead.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    212195
+  ]
+}

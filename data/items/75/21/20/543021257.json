@@ -1,0 +1,18 @@
+{
+  "internalId": 543021257,
+  "name": "Pauldrons of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsrose_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1518445,
+    1537770,
+    1543962,
+    1560692,
+    1568899,
+    1582498,
+    1595454,
+    1685165,
+    1691408
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4164099444,
+  "name": "Crafting Motif 83: Pyre Watch Chests",
+  "description": "Use to learn how to make Pyre Watch Chests. Also teaches the equivalent Pyre Watch outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    158296
+  ]
+}

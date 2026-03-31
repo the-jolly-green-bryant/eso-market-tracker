@@ -1,0 +1,20 @@
+{
+  "internalId": 2891965063,
+  "name": "Ice Staff of Mending",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1081569,
+    1085143,
+    1131189,
+    1276020,
+    1318702,
+    1460532,
+    1494550,
+    1611713,
+    1620113,
+    1691938,
+    1753244
+  ]
+}

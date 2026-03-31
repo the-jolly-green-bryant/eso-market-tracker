@@ -1,0 +1,27 @@
+{
+  "internalId": 2565279008,
+  "name": "Inferno Staff of the Lunar Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1077243,
+    1154871,
+    1166897,
+    1199435,
+    1343748,
+    1350979,
+    1371437,
+    1382998,
+    1505622,
+    1505624,
+    1524233,
+    1578334,
+    1644227,
+    1686870,
+    1691929,
+    1701701,
+    1746032,
+    1750693
+  ]
+}

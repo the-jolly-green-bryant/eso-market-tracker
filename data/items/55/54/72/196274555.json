@@ -1,0 +1,12 @@
+{
+  "internalId": 196274555,
+  "name": "Ring of Spriggan's Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568975,
+    1569357,
+    1727437
+  ]
+}

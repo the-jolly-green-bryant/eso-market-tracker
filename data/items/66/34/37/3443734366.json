@@ -1,0 +1,17 @@
+{
+  "internalId": 3443734366,
+  "name": "Afflicted Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89278,
+    89298,
+    89318,
+    89338,
+    89358,
+    89378,
+    89398,
+    89418
+  ]
+}

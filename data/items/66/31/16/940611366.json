@@ -1,0 +1,10 @@
+{
+  "internalId": 940611366,
+  "name": "Angler's Knife Set",
+  "description": "Featuring a fillet knife so honed that it can scale, skin, and bone an entire stack of fish with a single swipe. This gift for Sharp-as-Night is more appreciated when used during Hearts Week.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_sharp.png",
+  "bindType": -1,
+  "knownIds": [
+    219875
+  ]
+}

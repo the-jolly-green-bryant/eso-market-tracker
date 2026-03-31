@@ -1,0 +1,10 @@
+{
+  "internalId": 2072198147,
+  "name": "Hedge, Green Short",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_auridonhedge002.png",
+  "bindType": -1,
+  "knownIds": [
+    120672
+  ]
+}

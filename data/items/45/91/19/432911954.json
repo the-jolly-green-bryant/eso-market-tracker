@@ -1,0 +1,19 @@
+{
+  "internalId": 432911954,
+  "name": "Clever Alchemist Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72174,
+    72209,
+    72244,
+    72279,
+    72314,
+    72349,
+    72384,
+    72419,
+    72454,
+    72489
+  ]
+}

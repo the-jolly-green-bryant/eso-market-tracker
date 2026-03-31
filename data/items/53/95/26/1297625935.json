@@ -1,0 +1,10 @@
+{
+  "internalId": 1297625935,
+  "name": "Crafting Motif 34: Assassins League Boots",
+  "description": "Use to learn how to make Assassins League Boots. Also teaches the equivalent Assassins League Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    76881
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 193300887,
+  "name": "Galerion's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78070,
+    78105,
+    78140,
+    78175,
+    78210,
+    78245,
+    78280,
+    78315
+  ]
+}

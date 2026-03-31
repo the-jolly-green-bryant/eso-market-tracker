@@ -1,0 +1,17 @@
+{
+  "internalId": 656600272,
+  "name": "Blunted Blades Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204083,
+    204103,
+    204123,
+    204143,
+    204163,
+    204183,
+    204203,
+    204223
+  ]
+}

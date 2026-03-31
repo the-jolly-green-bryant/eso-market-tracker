@@ -1,0 +1,10 @@
+{
+  "internalId": 3536584876,
+  "name": "Bathrobe of Vigor",
+  "description": "This robe was your reward for helping the bathers taking advantage of the hot springs south of Wittestadr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    29664
+  ]
+}

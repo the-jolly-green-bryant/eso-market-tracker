@@ -1,0 +1,11 @@
+{
+  "internalId": 619244036,
+  "name": "Corpseburster Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1740749,
+    1763208
+  ]
+}

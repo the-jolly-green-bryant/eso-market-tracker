@@ -1,0 +1,10 @@
+{
+  "internalId": 4069693534,
+  "name": "Alyxe's Rancid Pants",
+  "description": "Whatever is caked into the material will require powerful magic to remove.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1743
+  ]
+}

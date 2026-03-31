@@ -1,0 +1,17 @@
+{
+  "internalId": 2753335086,
+  "name": "Maul of Stendarr",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100026,
+    100047,
+    100068,
+    100089,
+    100110,
+    100131,
+    100152,
+    100173
+  ]
+}

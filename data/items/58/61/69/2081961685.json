@@ -1,0 +1,10 @@
+{
+  "internalId": 2081961685,
+  "name": "Meenai-Shai's Quill Sharpener",
+  "description": "A well-honed dagger, lovingly maintained. Blotches of ink line its edge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    197801
+  ]
+}

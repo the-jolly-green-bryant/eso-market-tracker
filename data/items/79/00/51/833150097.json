@@ -1,0 +1,19 @@
+{
+  "internalId": 833150097,
+  "name": "Blind Path Induction Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_light_head_b.png",
+  "bindType": -1,
+  "knownIds": [
+    1702543,
+    1702845,
+    1716268,
+    1721526,
+    1721721,
+    1725583,
+    1726446,
+    1735333,
+    1738506,
+    1743512
+  ]
+}

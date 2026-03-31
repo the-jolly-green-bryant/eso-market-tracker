@@ -1,0 +1,10 @@
+{
+  "internalId": 854774887,
+  "name": "Hunter's Skullcap",
+  "description": "For hunting down the wispmother that killed her friends, Elaldor presented you this cap.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10905
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 772605661,
+  "name": "Shield of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131292,
+    131327,
+    131362,
+    131397
+  ]
+}

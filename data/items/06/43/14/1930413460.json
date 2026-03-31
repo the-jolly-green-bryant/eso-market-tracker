@@ -1,0 +1,10 @@
+{
+  "internalId": 1930413460,
+  "name": "Common Lantern, Hanging",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_lanterninterior001.png",
+  "bindType": -1,
+  "knownIds": [
+    118041
+  ]
+}

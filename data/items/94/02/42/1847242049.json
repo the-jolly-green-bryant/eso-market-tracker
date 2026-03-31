@@ -1,0 +1,17 @@
+{
+  "internalId": 1847242049,
+  "name": "Shalk's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96599,
+    96619,
+    96639,
+    96659,
+    96679,
+    96699,
+    96719,
+    96739
+  ]
+}

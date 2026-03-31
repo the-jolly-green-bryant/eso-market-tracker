@@ -1,0 +1,17 @@
+{
+  "internalId": 647116962,
+  "name": "Inferno Staff of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84715,
+    84736,
+    84757,
+    84778,
+    84799,
+    84820,
+    84841,
+    84862
+  ]
+}

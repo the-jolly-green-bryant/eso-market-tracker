@@ -1,0 +1,10 @@
+{
+  "internalId": 3107232305,
+  "name": "West Weald Adventures Painting, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_metalframepaintinggiant002.png",
+  "bindType": -1,
+  "knownIds": [
+    204808
+  ]
+}

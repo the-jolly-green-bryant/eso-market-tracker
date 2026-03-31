@@ -1,0 +1,10 @@
+{
+  "internalId": 1343464769,
+  "name": "Clockwork Wall Machinery, Arched",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_str_inlayedmachinery005.png",
+  "bindType": -1,
+  "knownIds": [
+    134375
+  ]
+}

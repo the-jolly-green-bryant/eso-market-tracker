@@ -1,0 +1,16 @@
+{
+  "internalId": 754789147,
+  "name": "Maul of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93201,
+    93221,
+    93241,
+    93261,
+    93281,
+    93301,
+    93321
+  ]
+}

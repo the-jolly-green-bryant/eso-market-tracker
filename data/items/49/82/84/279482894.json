@@ -1,0 +1,19 @@
+{
+  "internalId": 279482894,
+  "name": "Relequen's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_staff_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1242945,
+    1275384,
+    1352951,
+    1397764,
+    1416428,
+    1550548,
+    1558384,
+    1560077,
+    1586117,
+    1629115
+  ]
+}

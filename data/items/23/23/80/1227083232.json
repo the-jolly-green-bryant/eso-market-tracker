@@ -1,0 +1,14 @@
+{
+  "internalId": 1227083232,
+  "name": "Gauntlets of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75138,
+    75158,
+    75178,
+    75198,
+    75218
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2462614064,
+  "name": "Assassin's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121580,
+    121615,
+    121650,
+    121685,
+    121720,
+    121755,
+    121790,
+    121825,
+    121860,
+    121895
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2383982059,
+  "name": "Clever Alchemist Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72161,
+    72196,
+    72231,
+    72266,
+    72301,
+    72336,
+    72371,
+    72406,
+    72441,
+    72476
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2078264569,
+  "name": "Lady's Smock",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_potion_sp_names_001.png",
+  "bindType": -1,
+  "knownIds": [
+    30158
+  ]
+}

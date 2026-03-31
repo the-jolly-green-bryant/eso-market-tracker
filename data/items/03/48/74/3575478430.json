@@ -1,0 +1,17 @@
+{
+  "internalId": 3575478430,
+  "name": "Mace of the Twin Sisters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92268,
+    92288,
+    92308,
+    92328,
+    92348,
+    92368,
+    92388,
+    92408
+  ]
+}

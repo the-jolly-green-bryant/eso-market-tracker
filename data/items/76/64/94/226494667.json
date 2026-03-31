@@ -1,0 +1,17 @@
+{
+  "internalId": 226494667,
+  "name": "Barkskin Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92465,
+    92485,
+    92505,
+    92525,
+    92545,
+    92565,
+    92585,
+    92605
+  ]
+}

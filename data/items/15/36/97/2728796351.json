@@ -1,0 +1,10 @@
+{
+  "internalId": 2728796351,
+  "name": "Khajiit Counter, Faded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_counter001.png",
+  "bindType": -1,
+  "knownIds": [
+    115659
+  ]
+}

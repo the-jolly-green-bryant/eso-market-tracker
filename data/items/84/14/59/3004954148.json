@@ -1,0 +1,10 @@
+{
+  "internalId": 3004954148,
+  "name": "Redguard Streetlamps, Full",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_postlight005.png",
+  "bindType": -1,
+  "knownIds": [
+    117818
+  ]
+}

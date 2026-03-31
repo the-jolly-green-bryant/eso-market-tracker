@@ -1,0 +1,17 @@
+{
+  "internalId": 652210463,
+  "name": "Axe of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95645,
+    95665,
+    95685,
+    95705,
+    95725,
+    95745,
+    95765,
+    95785
+  ]
+}

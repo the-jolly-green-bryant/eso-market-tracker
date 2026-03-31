@@ -1,0 +1,15 @@
+{
+  "internalId": 1902845373,
+  "name": "Necklace of Kagrenac's Hope",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139737,
+    139827,
+    139917,
+    140007,
+    140097,
+    140187
+  ]
+}

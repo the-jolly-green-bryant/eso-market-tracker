@@ -1,0 +1,14 @@
+{
+  "internalId": 2243126614,
+  "name": "Vivec's Lightning Staff of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195773,
+    195794,
+    195815,
+    195836,
+    195857
+  ]
+}

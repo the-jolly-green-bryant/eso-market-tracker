@@ -1,0 +1,18 @@
+{
+  "internalId": 1005990987,
+  "name": "Venomous Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    160833,
+    160853,
+    160873,
+    160893,
+    160913,
+    160933,
+    160953,
+    160973,
+    160993
+  ]
+}

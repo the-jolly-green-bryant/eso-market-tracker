@@ -14,5 +14,4 @@ tsconfig.tsbuildinfo
 /data/test/
 
 # Temporarily untrack data files. We'll commit in bulk at the end to speed up iteration.
-/data/items/
 /data/observations/

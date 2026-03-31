@@ -1,0 +1,13 @@
+{
+  "internalId": 2463293011,
+  "name": "serum of Magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    375077,
+    731892,
+    1433137,
+    1546377
+  ]
+}

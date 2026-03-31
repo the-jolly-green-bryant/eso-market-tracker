@@ -1,0 +1,10 @@
+{
+  "internalId": 2588578643,
+  "name": "Fountain, Wolf Head",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_str_housingfountain001.png",
+  "bindType": -1,
+  "knownIds": [
+    204630
+  ]
+}

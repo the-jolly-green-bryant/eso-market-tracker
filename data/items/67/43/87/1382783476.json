@@ -1,0 +1,18 @@
+{
+  "internalId": 1382783476,
+  "name": "steel sword of frost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    375726,
+    408574,
+    606857,
+    432283,
+    456141,
+    793513,
+    789724,
+    777663,
+    1128939
+  ]
+}

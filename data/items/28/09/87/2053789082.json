@@ -1,0 +1,17 @@
+{
+  "internalId": 2053789082,
+  "name": "Tracker's Lash Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210368,
+    210389,
+    210410,
+    210431,
+    210452,
+    210473,
+    210494,
+    210515
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1121367390,
+  "name": "Dwarven Table, Granite Kitchen",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_marktableroundlarge002.png",
+  "bindType": -1,
+  "knownIds": [
+    171370
+  ]
+}

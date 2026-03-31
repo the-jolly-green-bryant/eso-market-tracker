@@ -1,0 +1,10 @@
+{
+  "internalId": 2307889142,
+  "name": "Chromium Plating",
+  "description": "Improve quality from purple to gold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_refined_chromium.png",
+  "bindType": -1,
+  "knownIds": [
+    203634
+  ]
+}

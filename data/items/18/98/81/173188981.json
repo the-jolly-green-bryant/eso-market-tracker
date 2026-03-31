@@ -1,0 +1,13 @@
+{
+  "internalId": 173188981,
+  "name": "Briarheart Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129708,
+    129720,
+    129732,
+    129744
+  ]
+}

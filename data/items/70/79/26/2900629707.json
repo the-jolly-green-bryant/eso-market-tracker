@@ -1,0 +1,10 @@
+{
+  "internalId": 2900629707,
+  "name": "Hat of the Arena",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    56095
+  ]
+}

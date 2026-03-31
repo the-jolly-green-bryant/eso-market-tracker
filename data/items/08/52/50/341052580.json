@@ -1,0 +1,10 @@
+{
+  "internalId": 341052580,
+  "name": "Necrom Urn, Brushed Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necurnshigh002.png",
+  "bindType": -1,
+  "knownIds": [
+    218019
+  ]
+}

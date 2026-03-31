@@ -1,0 +1,16 @@
+{
+  "internalId": 2706165191,
+  "name": "Treasure Hunter's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    945353,
+    1064056,
+    1283539,
+    1318770,
+    1457450,
+    1502408,
+    1754347
+  ]
+}

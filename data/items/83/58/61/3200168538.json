@@ -1,0 +1,22 @@
+{
+  "internalId": 3200168538,
+  "name": "Ring of the Undaunted Unweaver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1078028,
+    1140191,
+    1154515,
+    1175129,
+    1180239,
+    1280555,
+    1357526,
+    1380343,
+    1426188,
+    1444700,
+    1452586,
+    1494739,
+    1599407
+  ]
+}

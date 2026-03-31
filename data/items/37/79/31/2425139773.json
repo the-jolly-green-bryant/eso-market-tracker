@@ -1,0 +1,20 @@
+{
+  "internalId": 2425139773,
+  "name": "Maligalig's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruth_lgt_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568391,
+    1569099,
+    1570176,
+    1577594,
+    1582940,
+    1595257,
+    1595307,
+    1595425,
+    1600006,
+    1603596,
+    1717095
+  ]
+}

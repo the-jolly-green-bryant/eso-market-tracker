@@ -1,0 +1,19 @@
+{
+  "internalId": 2621261690,
+  "name": "New Moon Acolyte's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    156188,
+    156190,
+    156192,
+    156194,
+    156196,
+    156198,
+    156200,
+    156202,
+    156204,
+    156206
+  ]
+}

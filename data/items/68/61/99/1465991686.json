@@ -1,0 +1,10 @@
+{
+  "internalId": 1465991686,
+  "name": "Dark Elf Carpet, Mottled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_rugplain002.png",
+  "bindType": -1,
+  "knownIds": [
+    115282
+  ]
+}

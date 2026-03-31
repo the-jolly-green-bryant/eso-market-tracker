@@ -1,0 +1,18 @@
+{
+  "internalId": 919434497,
+  "name": "Bow of a Mother's Sorrow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97226,
+    97247,
+    97268,
+    97289,
+    97310,
+    97331,
+    97352,
+    97373,
+    97394
+  ]
+}

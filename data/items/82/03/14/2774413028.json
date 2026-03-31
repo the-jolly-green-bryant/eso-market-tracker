@@ -1,0 +1,17 @@
+{
+  "internalId": 2774413028,
+  "name": "Death-Dancer Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214714,
+    214734,
+    214754,
+    214774,
+    214794,
+    214814,
+    214834,
+    214854
+  ]
+}

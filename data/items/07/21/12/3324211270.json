@@ -1,0 +1,10 @@
+{
+  "internalId": 3324211270,
+  "name": "The Keep Painting, Brass",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting009.png",
+  "bindType": -1,
+  "knownIds": [
+    166445
+  ]
+}

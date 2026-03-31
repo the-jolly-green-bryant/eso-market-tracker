@@ -1,0 +1,10 @@
+{
+  "internalId": 23447911,
+  "name": "Suthay Statue, Nimble Bishop",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_reliefsuthay001.png",
+  "bindType": -1,
+  "knownIds": [
+    151829
+  ]
+}

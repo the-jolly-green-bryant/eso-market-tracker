@@ -1,0 +1,10 @@
+{
+  "internalId": 173156016,
+  "name": "Bone Pirate's Tatters",
+  "description": "A Medium Armor set found in Blackheart Haven.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114187
+  ]
+}

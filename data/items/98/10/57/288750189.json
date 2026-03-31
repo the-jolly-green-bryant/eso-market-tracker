@@ -1,0 +1,15 @@
+{
+  "internalId": 288750189,
+  "name": "Sabatons of the Heartland",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88587,
+    88607,
+    88627,
+    88647,
+    88667,
+    88687
+  ]
+}

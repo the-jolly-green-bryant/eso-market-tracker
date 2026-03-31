@@ -1,0 +1,10 @@
+{
+  "internalId": 3781521819,
+  "name": "Orcish Bunkbed, Leather",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgbunkbed001.png",
+  "bindType": -1,
+  "knownIds": [
+    116391
+  ]
+}

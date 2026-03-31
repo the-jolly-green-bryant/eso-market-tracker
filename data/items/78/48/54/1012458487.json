@@ -1,0 +1,10 @@
+{
+  "internalId": 1012458487,
+  "name": "Agarabug's Broadsword",
+  "description": "This mighty blade belonged to an Orc warrior who was lost long ago in Rkindaleft.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wrothgarorc_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    70989
+  ]
+}

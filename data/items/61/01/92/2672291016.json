@@ -1,0 +1,10 @@
+{
+  "internalId": 2672291016,
+  "name": "Cursed Fang of Sithis",
+  "description": "You earned this cursed dagger by seeing to the recovery of the second Fang of Sithis at Sunscale Strand.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    22747
+  ]
+}

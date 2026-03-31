@@ -1,0 +1,10 @@
+{
+  "internalId": 580146536,
+  "name": "Pebble, Smooth Grey",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_bangkoraismall005.png",
+  "bindType": -1,
+  "knownIds": [
+    120452
+  ]
+}

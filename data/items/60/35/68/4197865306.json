@@ -1,0 +1,10 @@
+{
+  "internalId": 4197865306,
+  "name": "Solitude Archway, Stone",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumgate001.png",
+  "bindType": -1,
+  "knownIds": [
+    167316
+  ]
+}

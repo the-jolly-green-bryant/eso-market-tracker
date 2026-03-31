@@ -1,0 +1,17 @@
+{
+  "internalId": 3832243459,
+  "name": "Coup De Grâce Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219337,
+    219357,
+    219377,
+    219397,
+    219417,
+    219437,
+    219457,
+    219477
+  ]
+}

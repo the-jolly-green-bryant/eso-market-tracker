@@ -1,0 +1,13 @@
+{
+  "internalId": 4063895761,
+  "name": "Adept Rider's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135956,
+    135991,
+    136026,
+    136061
+  ]
+}

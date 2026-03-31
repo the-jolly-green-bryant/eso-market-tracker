@@ -1,0 +1,10 @@
+{
+  "internalId": 4025190064,
+  "name": "Axe of the Arena",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    56069
+  ]
+}

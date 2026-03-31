@@ -1,0 +1,10 @@
+{
+  "internalId": 1412066948,
+  "name": "High Elf Tapestry, Rustic",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_tapestry003.png",
+  "bindType": -1,
+  "knownIds": [
+    114339
+  ]
+}

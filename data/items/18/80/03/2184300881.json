@@ -1,0 +1,10 @@
+{
+  "internalId": 2184300881,
+  "name": "Dark Elf Counter, Corner",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_counterc001.png",
+  "bindType": -1,
+  "knownIds": [
+    115319
+  ]
+}

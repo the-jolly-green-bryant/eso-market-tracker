@@ -1,0 +1,17 @@
+{
+  "internalId": 2853178355,
+  "name": "Greatsword of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90996,
+    91017,
+    91038,
+    91059,
+    91080,
+    91101,
+    91122,
+    91143
+  ]
+}

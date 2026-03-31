@@ -1,0 +1,19 @@
+{
+  "internalId": 2075758104,
+  "name": "Karth's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168379,
+    168434,
+    168469,
+    168504,
+    168539,
+    168574,
+    168609,
+    168644,
+    168679,
+    168714
+  ]
+}

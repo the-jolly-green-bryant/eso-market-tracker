@@ -1,0 +1,17 @@
+{
+  "internalId": 748537049,
+  "name": "Greatsword of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84712,
+    84733,
+    84754,
+    84775,
+    84796,
+    84817,
+    84838,
+    84859
+  ]
+}

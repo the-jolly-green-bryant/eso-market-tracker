@@ -1,0 +1,18 @@
+{
+  "internalId": 3133520772,
+  "name": "Kraglen's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_northlandsalch_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1381065,
+    1381646,
+    1506844,
+    1563624,
+    1617866,
+    1657168,
+    1677511,
+    1697208,
+    1698516
+  ]
+}

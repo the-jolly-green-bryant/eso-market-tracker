@@ -1,0 +1,17 @@
+{
+  "internalId": 1823549962,
+  "name": "Maul of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204245,
+    204265,
+    204285,
+    204305,
+    204325,
+    204345,
+    204365,
+    204385
+  ]
+}

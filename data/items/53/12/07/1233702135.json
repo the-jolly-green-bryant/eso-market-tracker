@@ -1,0 +1,18 @@
+{
+  "internalId": 1233702135,
+  "name": "The Master's Perfected Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1haxe_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1408884,
+    1441758,
+    1544683,
+    1546430,
+    1547726,
+    1566815,
+    1695142,
+    1697260,
+    1720502
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1467234081,
+  "name": "Girdle of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    178950,
+    178985,
+    179020,
+    179055,
+    179090,
+    179125,
+    179160
+  ]
+}

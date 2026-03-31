@@ -1,0 +1,15 @@
+{
+  "internalId": 1319865668,
+  "name": "Fortified Brass Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139716,
+    139806,
+    139896,
+    139986,
+    140076,
+    140166
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 497335146,
+  "name": "Stonegrinder's Dagger",
+  "description": "Gifted for quelling the rampaging Goblins at Mud Tree Mine and rescuing the miners trapped inside.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10318
+  ]
+}

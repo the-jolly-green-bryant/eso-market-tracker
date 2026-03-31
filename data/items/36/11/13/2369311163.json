@@ -1,0 +1,10 @@
+{
+  "internalId": 2369311163,
+  "name": "Tempering Alloy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tempering_alloy.png",
+  "bindType": -1,
+  "knownIds": [
+    54173
+  ]
+}

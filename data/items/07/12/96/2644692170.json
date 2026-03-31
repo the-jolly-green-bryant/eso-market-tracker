@@ -1,0 +1,23 @@
+{
+  "internalId": 2644692170,
+  "name": "quicksilver helm of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": -1,
+  "knownIds": [
+    534805,
+    418713,
+    651523,
+    421618,
+    508726,
+    606180,
+    809652,
+    809525,
+    496893,
+    559141,
+    536417,
+    569454,
+    606887,
+    782552
+  ]
+}

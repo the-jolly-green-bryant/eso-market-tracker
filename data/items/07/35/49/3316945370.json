@@ -1,0 +1,13 @@
+{
+  "internalId": 3316945370,
+  "name": "Inferno Staff of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87380,
+    87401,
+    87422,
+    87443
+  ]
+}

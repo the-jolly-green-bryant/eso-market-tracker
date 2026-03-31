@@ -1,0 +1,17 @@
+{
+  "internalId": 436047791,
+  "name": "Blessed Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102271,
+    102291,
+    102311,
+    102331,
+    102351,
+    102371,
+    102391,
+    102411
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 167568380,
+  "name": "Mat of the Sunrise, Faded",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn010.png",
+  "bindType": -1,
+  "knownIds": [
+    118165
+  ]
+}

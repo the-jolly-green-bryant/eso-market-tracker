@@ -1,0 +1,30 @@
+{
+  "internalId": 11203551,
+  "name": "Ulfnor's Favor Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1212829,
+    1222620,
+    1225190,
+    1227816,
+    1254815,
+    1257707,
+    1290584,
+    1375882,
+    1403926,
+    1451611,
+    1463584,
+    1463591,
+    1516366,
+    1516494,
+    1520793,
+    1556241,
+    1594683,
+    1616063,
+    1620268,
+    1625336,
+    1746306
+  ]
+}

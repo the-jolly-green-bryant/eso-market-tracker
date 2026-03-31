@@ -1,0 +1,18 @@
+{
+  "internalId": 2749488183,
+  "name": "Ophidian Dagger of Celerity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1076794,
+    1153908,
+    1324878,
+    1395263,
+    1481872,
+    1599999,
+    1612748,
+    1691886,
+    1745320
+  ]
+}

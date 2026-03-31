@@ -1,0 +1,20 @@
+{
+  "internalId": 1016376886,
+  "name": "Mace of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1082764,
+    1164741,
+    1224087,
+    1249743,
+    1389352,
+    1500439,
+    1510675,
+    1523638,
+    1547873,
+    1571912,
+    1729105
+  ]
+}

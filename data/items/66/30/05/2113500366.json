@@ -1,0 +1,21 @@
+{
+  "internalId": 2113500366,
+  "name": "Aegis Caller's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1361938,
+    1363728,
+    1369218,
+    1369901,
+    1388030,
+    1406773,
+    1486427,
+    1590483,
+    1602165,
+    1605468,
+    1682489,
+    1716906
+  ]
+}

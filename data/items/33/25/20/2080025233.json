@@ -1,0 +1,12 @@
+{
+  "internalId": 2080025233,
+  "name": "Toxin Satchel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
+  "bindType": -1,
+  "knownIds": [
+    1149249,
+    1759234,
+    1760058
+  ]
+}

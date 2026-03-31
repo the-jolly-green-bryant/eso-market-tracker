@@ -1,0 +1,10 @@
+{
+  "internalId": 1151937774,
+  "name": "Sigil of House Dres",
+  "description": "This amulet hums with restrained power.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    1258
+  ]
+}

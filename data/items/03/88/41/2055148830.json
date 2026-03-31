@@ -1,0 +1,10 @@
+{
+  "internalId": 2055148830,
+  "name": "Glass Crystal, Opaque Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_housingvrdglasscrystal014.png",
+  "bindType": -1,
+  "knownIds": [
+    198042
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1378553160,
+  "name": "High Isle Platform, Tilework",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingfloorceiling001.png",
+  "bindType": -1,
+  "knownIds": [
+    189502
+  ]
+}

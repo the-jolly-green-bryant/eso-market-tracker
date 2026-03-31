@@ -1,0 +1,10 @@
+{
+  "internalId": 8184993,
+  "name": "Khajiit Tile, Waning Moons",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_exc_moontile004.png",
+  "bindType": -1,
+  "knownIds": [
+    115708
+  ]
+}

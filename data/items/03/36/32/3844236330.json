@@ -1,0 +1,17 @@
+{
+  "internalId": 3844236330,
+  "name": "Mad Tinkerer's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132855,
+    132876,
+    132897,
+    132918,
+    132939,
+    132960,
+    132981,
+    133002
+  ]
+}

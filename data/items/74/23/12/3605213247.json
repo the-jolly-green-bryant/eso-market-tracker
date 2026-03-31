@@ -1,0 +1,17 @@
+{
+  "internalId": 3605213247,
+  "name": "Helmet of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    97790,
+    97810,
+    97830,
+    97850,
+    97870,
+    97890,
+    97910,
+    97930
+  ]
+}

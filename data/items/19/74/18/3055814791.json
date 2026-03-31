@@ -1,0 +1,19 @@
+{
+  "internalId": 3055814791,
+  "name": "Innate Axiom Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130384,
+    130419,
+    130454,
+    130489,
+    130524,
+    130559,
+    130594,
+    130629,
+    130664,
+    130699
+  ]
+}

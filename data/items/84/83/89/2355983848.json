@@ -1,0 +1,10 @@
+{
+  "internalId": 2355983848,
+  "name": "Seashell, Sandcake",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_sanddollar001.png",
+  "bindType": -1,
+  "knownIds": [
+    118896
+  ]
+}

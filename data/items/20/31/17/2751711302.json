@@ -1,0 +1,19 @@
+{
+  "internalId": 2751711302,
+  "name": "Telvanni Efficiency Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194946,
+    195001,
+    195036,
+    195071,
+    195106,
+    195141,
+    195176,
+    195211,
+    195246,
+    195281
+  ]
+}

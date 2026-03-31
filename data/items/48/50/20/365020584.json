@@ -1,0 +1,10 @@
+{
+  "internalId": 365020584,
+  "name": "Gravestone, Broken",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cem_tombstonelargebroken002.png",
+  "bindType": -1,
+  "knownIds": [
+    145317
+  ]
+}

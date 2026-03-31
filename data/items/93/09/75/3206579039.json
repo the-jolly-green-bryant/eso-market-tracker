@@ -1,0 +1,13 @@
+{
+  "internalId": 3206579039,
+  "name": "Vrol's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1367578,
+    1383145,
+    1426305,
+    1442014
+  ]
+}

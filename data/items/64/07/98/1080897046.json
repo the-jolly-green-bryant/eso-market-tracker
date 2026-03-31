@@ -1,0 +1,10 @@
+{
+  "internalId": 1080897046,
+  "name": "Crafting Motif 21: Ancient Orc Boots",
+  "description": "Use to learn how to make Ancient Orc Boots. Also teaches the equivalent Ancient Orc Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    69530
+  ]
+}

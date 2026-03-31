@@ -1,0 +1,10 @@
+{
+  "internalId": 936437763,
+  "name": "Mundane Rune",
+  "description": "Used in crafting stone furniture.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_furniture_base_mundante_rune.png",
+  "bindType": -1,
+  "knownIds": [
+    114892
+  ]
+}

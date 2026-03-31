@@ -1,0 +1,10 @@
+{
+  "internalId": 2948498166,
+  "name": "Telvanni Spellhood",
+  "description": "This hood was woven with the finest silks of Vvardenfell.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1530
+  ]
+}

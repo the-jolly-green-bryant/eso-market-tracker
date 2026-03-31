@@ -1,0 +1,17 @@
+{
+  "internalId": 2342748304,
+  "name": "Shoes of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98707,
+    98728,
+    98749,
+    98770,
+    98791,
+    98812,
+    98833,
+    98854
+  ]
+}

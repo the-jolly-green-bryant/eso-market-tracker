@@ -1,0 +1,19 @@
+{
+  "internalId": 3505946251,
+  "name": "Chimera's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191254,
+    191309,
+    191344,
+    191379,
+    191414,
+    191449,
+    191484,
+    191519,
+    191554,
+    191589
+  ]
+}

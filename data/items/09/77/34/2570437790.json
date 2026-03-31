@@ -1,0 +1,10 @@
+{
+  "internalId": 2570437790,
+  "name": "Imperial Medallion, Crest",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_exc_hookpoint001.png",
+  "bindType": -1,
+  "knownIds": [
+    94157
+  ]
+}

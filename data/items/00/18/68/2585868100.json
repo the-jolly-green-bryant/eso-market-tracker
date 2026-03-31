@@ -1,0 +1,10 @@
+{
+  "internalId": 2585868100,
+  "name": "Sealing Wax",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png",
+  "bindType": -1,
+  "knownIds": [
+    459756
+  ]
+}

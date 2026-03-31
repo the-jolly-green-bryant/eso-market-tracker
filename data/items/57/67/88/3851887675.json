@@ -1,0 +1,18 @@
+{
+  "internalId": 3851887675,
+  "name": "Dragonguard Elite's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155228,
+    155248,
+    155268,
+    155288,
+    155308,
+    155328,
+    155348,
+    155368,
+    155388
+  ]
+}

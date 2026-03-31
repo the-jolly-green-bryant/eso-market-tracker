@@ -1,0 +1,10 @@
+{
+  "internalId": 1635980569,
+  "name": "Orcish Vessel, Sealed Ceramic",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgpottery001.png",
+  "bindType": -1,
+  "knownIds": [
+    116409
+  ]
+}

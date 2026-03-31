@@ -1,0 +1,10 @@
+{
+  "internalId": 1484278413,
+  "name": "New Life Snowmortal, Khajiit",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_snowman002.png",
+  "bindType": -1,
+  "knownIds": [
+    146059
+  ]
+}

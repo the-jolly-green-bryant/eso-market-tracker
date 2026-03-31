@@ -1,0 +1,10 @@
+{
+  "internalId": 352946959,
+  "name": "Reward Box: Imperial City",
+  "description": "This box contains a selection of the rewards available to adventurers within Imperial City.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+  "bindType": 3,
+  "knownIds": [
+    153534
+  ]
+}

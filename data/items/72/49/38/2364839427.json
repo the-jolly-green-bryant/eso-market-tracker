@@ -1,0 +1,19 @@
+{
+  "internalId": 2364839427,
+  "name": "Fortified Brass Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130732,
+    130767,
+    130802,
+    130837,
+    130872,
+    130907,
+    130942,
+    130977,
+    131012,
+    131047
+  ]
+}

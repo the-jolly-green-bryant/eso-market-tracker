@@ -1,0 +1,11 @@
+{
+  "internalId": 1161702827,
+  "name": "Noxious Boulder Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748943,
+    1754433
+  ]
+}

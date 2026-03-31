@@ -1,0 +1,10 @@
+{
+  "internalId": 3238211575,
+  "name": "Crafting Motif 39: Minotaur Staves",
+  "description": "Use to learn how to make Minotaur Staves. Also teaches the equivalent Minotaur Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    82084
+  ]
+}

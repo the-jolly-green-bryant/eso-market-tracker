@@ -1,0 +1,17 @@
+{
+  "internalId": 1756109774,
+  "name": "Sword of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91566,
+    91587,
+    91608,
+    91629,
+    91650,
+    91671,
+    91692,
+    91713
+  ]
+}

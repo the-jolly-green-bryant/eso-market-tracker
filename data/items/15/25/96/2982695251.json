@@ -1,0 +1,21 @@
+{
+  "internalId": 2982695251,
+  "name": "Reaper's Choker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    477333,
+    814384,
+    805278,
+    771702,
+    831364,
+    856471,
+    937858,
+    1093982,
+    1232752,
+    1455895,
+    1481702,
+    1679773
+  ]
+}

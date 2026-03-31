@@ -1,0 +1,15 @@
+{
+  "internalId": 2899505124,
+  "name": "Wrathsun Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1695071,
+    1716166,
+    1716645,
+    1720858,
+    1721564,
+    1757904
+  ]
+}

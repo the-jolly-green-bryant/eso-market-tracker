@@ -1,0 +1,17 @@
+{
+  "internalId": 501741686,
+  "name": "Farstrider Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211764,
+    211784,
+    211804,
+    211824,
+    211844,
+    211864,
+    211884,
+    211904
+  ]
+}

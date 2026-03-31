@@ -1,0 +1,19 @@
+{
+  "internalId": 3692082236,
+  "name": "Daring Corsair's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155417,
+    155472,
+    155507,
+    155542,
+    155577,
+    155612,
+    155647,
+    155682,
+    155717,
+    155752
+  ]
+}

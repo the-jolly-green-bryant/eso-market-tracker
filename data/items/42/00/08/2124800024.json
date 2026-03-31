@@ -1,0 +1,17 @@
+{
+  "internalId": 2124800024,
+  "name": "Battle Axe of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91376,
+    91397,
+    91418,
+    91439,
+    91460,
+    91481,
+    91502,
+    91523
+  ]
+}

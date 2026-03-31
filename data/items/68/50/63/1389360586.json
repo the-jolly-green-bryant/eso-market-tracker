@@ -1,0 +1,19 @@
+{
+  "internalId": 1389360586,
+  "name": "Assassin's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121584,
+    121619,
+    121654,
+    121689,
+    121724,
+    121759,
+    121794,
+    121829,
+    121864,
+    121899
+  ]
+}

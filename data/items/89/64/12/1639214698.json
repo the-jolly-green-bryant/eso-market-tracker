@@ -1,0 +1,10 @@
+{
+  "internalId": 1639214698,
+  "name": "Ayleid Doorway, Tall Arched",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_run_housingcloudedwellfiller001.png",
+  "bindType": -1,
+  "knownIds": [
+    203582
+  ]
+}

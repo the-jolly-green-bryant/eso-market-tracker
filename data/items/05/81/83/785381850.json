@@ -1,0 +1,15 @@
+{
+  "internalId": 785381850,
+  "name": "Ring of Hist Bark",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139688,
+    139778,
+    139868,
+    139958,
+    140048,
+    140138
+  ]
+}

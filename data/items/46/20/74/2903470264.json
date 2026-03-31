@@ -1,0 +1,17 @@
+{
+  "internalId": 2903470264,
+  "name": "Bow of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98700,
+    98721,
+    98742,
+    98763,
+    98784,
+    98805,
+    98826,
+    98847
+  ]
+}

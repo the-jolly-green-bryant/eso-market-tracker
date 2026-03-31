@@ -1,0 +1,18 @@
+{
+  "internalId": 906129842,
+  "name": "Blackrose Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1337316,
+    1392430,
+    1392431,
+    1411296,
+    1493876,
+    1538799,
+    1538830,
+    1566562,
+    1736400
+  ]
+}

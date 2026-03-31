@@ -1,0 +1,13 @@
+{
+  "internalId": 761323034,
+  "name": "Arkasis's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1378502,
+    1378516,
+    1456818,
+    1559148
+  ]
+}

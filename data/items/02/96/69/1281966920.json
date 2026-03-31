@@ -1,0 +1,17 @@
+{
+  "internalId": 1281966920,
+  "name": "Impregnable Armor Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125717,
+    125752,
+    125787,
+    125822,
+    125857,
+    125892,
+    125927,
+    125962
+  ]
+}

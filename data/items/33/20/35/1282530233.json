@@ -1,0 +1,15 @@
+{
+  "internalId": 1282530233,
+  "name": "Darkstride Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    85840,
+    85860,
+    85880,
+    85900,
+    85920,
+    85960
+  ]
+}

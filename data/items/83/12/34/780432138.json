@@ -1,0 +1,10 @@
+{
+  "internalId": 780432138,
+  "name": "Northern Elsweyr Crafted Sets",
+  "description": "Crafted Armor sets constructed in the Elsweyr Chapter.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182465
+  ]
+}

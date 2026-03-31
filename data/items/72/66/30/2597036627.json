@@ -1,0 +1,17 @@
+{
+  "internalId": 2597036627,
+  "name": "Gauntlets of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101714,
+    101734,
+    101754,
+    101774,
+    101794,
+    101814,
+    101834,
+    101854
+  ]
+}

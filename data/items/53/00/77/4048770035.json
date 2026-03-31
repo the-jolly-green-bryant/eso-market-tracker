@@ -1,0 +1,17 @@
+{
+  "internalId": 4048770035,
+  "name": "Restoration Staff of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78620,
+    78655,
+    78690,
+    78725,
+    78760,
+    78795,
+    78830,
+    78865
+  ]
+}

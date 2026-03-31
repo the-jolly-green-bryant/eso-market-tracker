@@ -1,0 +1,10 @@
+{
+  "internalId": 3674223211,
+  "name": "Dres Tapestry, House",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_housebannerdres001.png",
+  "bindType": -1,
+  "knownIds": [
+    126774
+  ]
+}

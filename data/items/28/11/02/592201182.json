@@ -1,0 +1,19 @@
+{
+  "internalId": 592201182,
+  "name": "Sload's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136094,
+    136129,
+    136164,
+    136199,
+    136234,
+    136269,
+    136304,
+    136339,
+    136374,
+    136409
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2925982120,
+  "name": "Gloves of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86205,
+    86226,
+    86247,
+    86268,
+    86289,
+    86310,
+    86331,
+    86352
+  ]
+}

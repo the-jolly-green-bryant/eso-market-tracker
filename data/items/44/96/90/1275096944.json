@@ -1,0 +1,25 @@
+{
+  "internalId": 1275096944,
+  "name": "Gossamer Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    928453,
+    981496,
+    1129985,
+    1227148,
+    1286308,
+    1313652,
+    1342441,
+    1361909,
+    1376167,
+    1510622,
+    1571066,
+    1583940,
+    1594956,
+    1616041,
+    1724187,
+    1776957
+  ]
+}

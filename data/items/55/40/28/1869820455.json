@@ -1,0 +1,11 @@
+{
+  "internalId": 1869820455,
+  "name": "Baked Potato",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potato.png",
+  "bindType": -1,
+  "knownIds": [
+    37917,
+    28354
+  ]
+}

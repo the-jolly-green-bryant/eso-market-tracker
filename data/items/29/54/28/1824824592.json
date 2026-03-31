@@ -1,0 +1,10 @@
+{
+  "internalId": 1824824592,
+  "name": "Khajiit Jug, Amber",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_jugs001.png",
+  "bindType": -1,
+  "knownIds": [
+    115662
+  ]
+}

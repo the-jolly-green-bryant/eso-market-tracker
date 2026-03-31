@@ -1,0 +1,17 @@
+{
+  "internalId": 3818604102,
+  "name": "War Maiden's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122800,
+    122821,
+    122842,
+    122863,
+    122884,
+    122905,
+    122926,
+    122947
+  ]
+}

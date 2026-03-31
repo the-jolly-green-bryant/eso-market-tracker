@@ -1,0 +1,17 @@
+{
+  "internalId": 2160437945,
+  "name": "steel sword of flame",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": -1,
+  "knownIds": [
+    578541,
+    756901,
+    521892,
+    376122,
+    789460,
+    788885,
+    787802,
+    777774
+  ]
+}

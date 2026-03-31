@@ -1,0 +1,10 @@
+{
+  "internalId": 2708218459,
+  "name": "Ratsplatter",
+  "description": "This hammer has unrecognizable gristle caked on its head.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43577
+  ]
+}

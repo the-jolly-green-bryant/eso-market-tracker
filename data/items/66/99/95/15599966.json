@@ -1,0 +1,14 @@
+{
+  "internalId": 15599966,
+  "name": "Marksman's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_abahswatch_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199494,
+    199495,
+    199496,
+    199497,
+    199498
+  ]
+}

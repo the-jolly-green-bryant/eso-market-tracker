@@ -1,0 +1,19 @@
+{
+  "internalId": 273776445,
+  "name": "Might of the Lost Legion Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143559,
+    143614,
+    143649,
+    143684,
+    143719,
+    143754,
+    143789,
+    143824,
+    143859,
+    143894
+  ]
+}

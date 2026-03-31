@@ -1,0 +1,11 @@
+{
+  "internalId": 1414037785,
+  "name": "Port Hunding Cheese Fries",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fish_stick.png",
+  "bindType": -1,
+  "knownIds": [
+    32088,
+    28382
+  ]
+}

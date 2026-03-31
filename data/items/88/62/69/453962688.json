@@ -1,0 +1,18 @@
+{
+  "internalId": 453962688,
+  "name": "Dagger of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_dagger.png",
+  "bindType": 2,
+  "knownIds": [
+    160635,
+    160656,
+    160677,
+    160698,
+    160719,
+    160740,
+    160761,
+    160782,
+    160803
+  ]
+}

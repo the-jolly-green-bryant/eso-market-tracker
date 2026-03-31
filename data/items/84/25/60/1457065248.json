@@ -1,0 +1,13 @@
+{
+  "internalId": 1457065248,
+  "name": "Robe of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131300,
+    131335,
+    131370,
+    131405
+  ]
+}

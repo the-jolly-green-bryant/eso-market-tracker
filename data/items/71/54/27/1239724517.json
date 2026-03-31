@@ -1,0 +1,17 @@
+{
+  "internalId": 1239724517,
+  "name": "Restoration Staff of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91002,
+    91023,
+    91044,
+    91065,
+    91086,
+    91107,
+    91128,
+    91149
+  ]
+}

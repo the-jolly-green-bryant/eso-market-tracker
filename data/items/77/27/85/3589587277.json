@@ -1,0 +1,19 @@
+{
+  "internalId": 3589587277,
+  "name": "Amulet of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179590,
+    179592,
+    179594,
+    179596,
+    179598,
+    179600,
+    179602,
+    179604,
+    179606,
+    179608
+  ]
+}

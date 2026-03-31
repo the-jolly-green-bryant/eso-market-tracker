@@ -1,0 +1,22 @@
+{
+  "internalId": 2926373715,
+  "name": "Greatsword of Succession",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1250447,
+    1291594,
+    1328836,
+    1368478,
+    1391718,
+    1519373,
+    1539750,
+    1573830,
+    1615035,
+    1655467,
+    1689684,
+    1691276,
+    1692298
+  ]
+}

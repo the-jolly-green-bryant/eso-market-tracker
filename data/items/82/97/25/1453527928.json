@@ -1,0 +1,19 @@
+{
+  "internalId": 1453527928,
+  "name": "Assassin's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121559,
+    121594,
+    121629,
+    121664,
+    121699,
+    121734,
+    121769,
+    121804,
+    121839,
+    121874
+  ]
+}

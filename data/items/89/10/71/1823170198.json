@@ -1,0 +1,22 @@
+{
+  "internalId": 1823170198,
+  "name": "Gauntlets of the Silver Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsrose_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1518526,
+    1528254,
+    1540399,
+    1541333,
+    1560735,
+    1561919,
+    1577472,
+    1582365,
+    1584040,
+    1623935,
+    1637788,
+    1679454,
+    1686746
+  ]
+}

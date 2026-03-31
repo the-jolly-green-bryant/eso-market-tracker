@@ -1,0 +1,17 @@
+{
+  "internalId": 3399034493,
+  "name": "Shell Splitter Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194033,
+    194053,
+    194073,
+    194093,
+    194113,
+    194133,
+    194153,
+    194173
+  ]
+}

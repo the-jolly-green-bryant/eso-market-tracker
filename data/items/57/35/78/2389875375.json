@@ -1,0 +1,10 @@
+{
+  "internalId": 2389875375,
+  "name": "Target Skeleton, Robust Argonian",
+  "description": "This is a standard house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to an exceptionally hardy veteran dungeon boss.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_targetdummy_robustargonian_01.png",
+  "bindType": -1,
+  "knownIds": [
+    121400
+  ]
+}

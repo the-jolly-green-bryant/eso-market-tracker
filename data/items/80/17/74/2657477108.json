@@ -1,0 +1,19 @@
+{
+  "internalId": 2657477108,
+  "name": "Might of the Lost Legion Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143532,
+    143587,
+    143622,
+    143657,
+    143692,
+    143727,
+    143762,
+    143797,
+    143832,
+    143867
+  ]
+}

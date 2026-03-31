@@ -1,0 +1,10 @@
+{
+  "internalId": 2756111960,
+  "name": "Target Centurion, Lambent",
+  "description": "This is a large house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to a normal mode trial boss.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/targetdummy_centurionminiboss_crown_01.png",
+  "bindType": -1,
+  "knownIds": [
+    126037
+  ]
+}

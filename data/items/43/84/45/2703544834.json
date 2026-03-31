@@ -1,0 +1,10 @@
+{
+  "internalId": 2703544834,
+  "name": "Basket of Apples, Full",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_basketapples002.png",
+  "bindType": -1,
+  "knownIds": [
+    118187
+  ]
+}

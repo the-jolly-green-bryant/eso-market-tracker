@@ -1,0 +1,17 @@
+{
+  "internalId": 4174209906,
+  "name": "Dagger of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77082,
+    77102,
+    77122,
+    77142,
+    77162,
+    77182,
+    77202,
+    77222
+  ]
+}

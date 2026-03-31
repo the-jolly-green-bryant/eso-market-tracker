@@ -1,0 +1,19 @@
+{
+  "internalId": 3214370977,
+  "name": "Naga Shaman Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143189,
+    143244,
+    143279,
+    143314,
+    143349,
+    143384,
+    143419,
+    143454,
+    143489,
+    143524
+  ]
+}

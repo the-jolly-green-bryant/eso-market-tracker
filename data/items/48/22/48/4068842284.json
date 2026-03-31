@@ -1,0 +1,14 @@
+{
+  "internalId": 4068842284,
+  "name": "Grave-Stake Collector Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143011,
+    143046,
+    143081,
+    143116,
+    143151
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1008642658,
+  "name": "The Shivering Cheese",
+  "description": "When you're not looking at it, this wheel of cheese quivers and trembles—but as soon as you look, it's stopped. It's not doing it now, oh, no, it's too clever for that. But just turn your head for a moment, and … ah ha!",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_cheesewheel001.png",
+  "bindType": -1,
+  "knownIds": [
+    130191
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 337040291,
+  "name": "Rallying Cry Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183249,
+    183270,
+    183291,
+    183312,
+    183333,
+    183354,
+    183375,
+    183396
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 770642066,
+  "name": "Crafting Motif 131: Militant Monk Swords",
+  "description": "Use to learn how to make Militant Monk Swords. Also teaches the equivalent Militant Monk Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    211085
+  ]
+}

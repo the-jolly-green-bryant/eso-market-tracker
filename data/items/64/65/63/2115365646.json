@@ -1,0 +1,10 @@
+{
+  "internalId": 2115365646,
+  "name": "Keg",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_keg001.png",
+  "bindType": -1,
+  "knownIds": [
+    118093
+  ]
+}

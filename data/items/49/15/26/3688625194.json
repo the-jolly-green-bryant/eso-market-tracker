@@ -1,0 +1,17 @@
+{
+  "internalId": 3688625194,
+  "name": "Macabre Vintage Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205074,
+    205094,
+    205114,
+    205134,
+    205154,
+    205174,
+    205194,
+    205214
+  ]
+}

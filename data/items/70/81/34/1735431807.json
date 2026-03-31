@@ -1,0 +1,17 @@
+{
+  "internalId": 1735431807,
+  "name": "Hexos' Ward Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_med_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180115,
+    180135,
+    180155,
+    180175,
+    180195,
+    180215,
+    180235,
+    180255
+  ]
+}

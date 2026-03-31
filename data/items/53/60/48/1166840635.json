@@ -1,0 +1,17 @@
+{
+  "internalId": 1166840635,
+  "name": "Spinner's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99662,
+    99683,
+    99704,
+    99725,
+    99746,
+    99767,
+    99788,
+    99809
+  ]
+}

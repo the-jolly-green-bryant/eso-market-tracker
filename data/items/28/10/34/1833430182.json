@@ -1,0 +1,17 @@
+{
+  "internalId": 1833430182,
+  "name": "Guards of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77093,
+    77113,
+    77133,
+    77153,
+    77173,
+    77193,
+    77213,
+    77233
+  ]
+}

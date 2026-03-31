@@ -1,0 +1,17 @@
+{
+  "internalId": 2656984183,
+  "name": "Gloves of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90242,
+    90263,
+    90284,
+    90305,
+    90326,
+    90347,
+    90368,
+    90389
+  ]
+}

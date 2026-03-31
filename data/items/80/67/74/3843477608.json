@@ -1,0 +1,17 @@
+{
+  "internalId": 3843477608,
+  "name": "Smuggler's Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100966,
+    100987,
+    101008,
+    101029,
+    101050,
+    101071,
+    101092,
+    101113
+  ]
+}

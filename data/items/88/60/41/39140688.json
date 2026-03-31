@@ -1,0 +1,10 @@
+{
+  "internalId": 39140688,
+  "name": "Khajiit Candle-Filled Lamp",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_candle001.png",
+  "bindType": -1,
+  "knownIds": [
+    115711
+  ]
+}

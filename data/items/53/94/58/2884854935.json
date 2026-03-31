@@ -1,0 +1,17 @@
+{
+  "internalId": 2884854935,
+  "name": "Inferno Staff of The Shadow Dancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    74901,
+    74922,
+    74943,
+    74964,
+    74985,
+    75006,
+    75027,
+    75048
+  ]
+}

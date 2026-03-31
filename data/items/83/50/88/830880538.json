@@ -1,0 +1,17 @@
+{
+  "internalId": 830880538,
+  "name": "Deadly Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87869,
+    87882,
+    87895,
+    87908,
+    87921,
+    87934,
+    87947,
+    87960
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4243523274,
+  "name": "Druid's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185553,
+    185608,
+    185643,
+    185678,
+    185713,
+    185748,
+    185783,
+    185818,
+    185853,
+    185888
+  ]
+}

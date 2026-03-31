@@ -1,0 +1,17 @@
+{
+  "internalId": 2846012491,
+  "name": "Sabatons of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167446,
+    167466,
+    167486,
+    167506,
+    167526,
+    167546,
+    167566,
+    167586
+  ]
+}

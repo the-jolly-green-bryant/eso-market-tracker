@@ -1,0 +1,11 @@
+{
+  "internalId": 2288201725,
+  "name": "Kerks' Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_shoulders_d.png",
+  "bindType": -1,
+  "knownIds": [
+    760576,
+    605327
+  ]
+}

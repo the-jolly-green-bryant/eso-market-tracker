@@ -1,0 +1,10 @@
+{
+  "internalId": 907502156,
+  "name": "Leyawiin Cupboard, Formal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leycabinetshort002.png",
+  "bindType": -1,
+  "knownIds": [
+    175584
+  ]
+}

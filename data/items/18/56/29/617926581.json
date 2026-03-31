@@ -1,0 +1,13 @@
+{
+  "internalId": 617926581,
+  "name": "Gauntlets of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129777,
+    129784,
+    129791,
+    129798
+  ]
+}

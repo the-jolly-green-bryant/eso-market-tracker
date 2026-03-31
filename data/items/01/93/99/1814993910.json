@@ -1,0 +1,11 @@
+{
+  "internalId": 1814993910,
+  "name": "Bound Affix Script: Magickasteal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_magickasteal.png",
+  "bindType": -1,
+  "knownIds": [
+    1719357,
+    1719738
+  ]
+}

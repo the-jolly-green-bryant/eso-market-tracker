@@ -1,0 +1,10 @@
+{
+  "internalId": 2046501009,
+  "name": "Truffle Identification Card",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_argonian_seal.png",
+  "bindType": -1,
+  "knownIds": [
+    796295
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1416091810,
+  "name": "Ayleid Constellation Stele, The Mage",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmallmage001.png",
+  "bindType": -1,
+  "knownIds": [
+    134469
+  ]
+}

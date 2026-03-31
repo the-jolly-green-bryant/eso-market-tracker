@@ -1,0 +1,17 @@
+{
+  "internalId": 2125733334,
+  "name": "Shared Burden Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215190,
+    215225,
+    215260,
+    215295,
+    215330,
+    215365,
+    215400,
+    215435
+  ]
+}

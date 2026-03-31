@@ -1,0 +1,17 @@
+{
+  "internalId": 2937622567,
+  "name": "Mace of Agility",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69282,
+    69295,
+    69308,
+    69321,
+    69334,
+    69347,
+    69360,
+    69373
+  ]
+}

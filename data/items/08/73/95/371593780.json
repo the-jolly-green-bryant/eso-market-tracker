@@ -1,0 +1,17 @@
+{
+  "internalId": 371593780,
+  "name": "Rallying Cry Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183247,
+    183268,
+    183289,
+    183310,
+    183331,
+    183352,
+    183373,
+    183394
+  ]
+}

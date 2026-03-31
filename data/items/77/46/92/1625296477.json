@@ -1,0 +1,10 @@
+{
+  "internalId": 1625296477,
+  "name": "Riverhold Dragonfeller",
+  "description": "There are few deeds more legendary than felling a Dragon.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150386
+  ]
+}

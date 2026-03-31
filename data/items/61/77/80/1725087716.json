@@ -1,0 +1,17 @@
+{
+  "internalId": 1725087716,
+  "name": "Cuirass of the Green Pact",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97605,
+    97625,
+    97645,
+    97665,
+    97685,
+    97705,
+    97725,
+    97745
+  ]
+}

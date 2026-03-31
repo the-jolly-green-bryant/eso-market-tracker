@@ -1,0 +1,19 @@
+{
+  "internalId": 3281898111,
+  "name": "Epaulets of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75762,
+    75797,
+    75832,
+    75867,
+    75902,
+    75937,
+    75972,
+    76007,
+    76042,
+    76077
+  ]
+}

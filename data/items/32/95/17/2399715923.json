@@ -1,0 +1,10 @@
+{
+  "internalId": 2399715923,
+  "name": "Mushroom, Huge Chanterelle",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_giantmushroom010.png",
+  "bindType": -1,
+  "knownIds": [
+    120574
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3124800743,
+  "name": "Bush, Sharp Underbrush",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_redthistle005.png",
+  "bindType": -1,
+  "knownIds": [
+    181597
+  ]
+}

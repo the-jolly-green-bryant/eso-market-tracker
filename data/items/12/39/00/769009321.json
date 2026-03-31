@@ -1,0 +1,19 @@
+{
+  "internalId": 769009321,
+  "name": "Epaulets of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161621,
+    161676,
+    161711,
+    161746,
+    161781,
+    161816,
+    161851,
+    161886,
+    161921,
+    161956
+  ]
+}

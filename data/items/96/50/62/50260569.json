@@ -1,0 +1,12 @@
+{
+  "internalId": 50260569,
+  "name": "Beacon of Oblivion Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735597,
+    1763224,
+    1775474
+  ]
+}

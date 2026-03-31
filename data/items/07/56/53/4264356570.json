@@ -1,0 +1,19 @@
+{
+  "internalId": 4264356570,
+  "name": "Seeker Synthesis Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195328,
+    195383,
+    195418,
+    195453,
+    195488,
+    195523,
+    195558,
+    195593,
+    195628,
+    195663
+  ]
+}

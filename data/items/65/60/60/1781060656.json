@@ -1,0 +1,11 @@
+{
+  "internalId": 1781060656,
+  "name": "Strange 1H Weapon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54595,
+    54605
+  ]
+}

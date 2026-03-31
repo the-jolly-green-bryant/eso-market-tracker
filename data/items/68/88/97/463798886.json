@@ -1,0 +1,10 @@
+{
+  "internalId": 463798886,
+  "name": "Storm Lord Mug",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikescrownmug001.png",
+  "bindType": -1,
+  "knownIds": [
+    211525
+  ]
+}

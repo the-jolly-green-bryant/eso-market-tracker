@@ -1,0 +1,17 @@
+{
+  "internalId": 3987270929,
+  "name": "Ice Staff of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180273,
+    180293,
+    180313,
+    180333,
+    180353,
+    180373,
+    180393,
+    180413
+  ]
+}

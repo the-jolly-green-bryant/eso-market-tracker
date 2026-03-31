@@ -1,0 +1,10 @@
+{
+  "internalId": 732945523,
+  "name": "Bowl of Guts",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkbowlfull002.png",
+  "bindType": -1,
+  "knownIds": [
+    145350
+  ]
+}

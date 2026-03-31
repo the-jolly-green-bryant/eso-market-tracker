@@ -1,0 +1,17 @@
+{
+  "internalId": 3343391420,
+  "name": "Battalion Defender Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144844,
+    144864,
+    144884,
+    144904,
+    144924,
+    144944,
+    144964,
+    144984
+  ]
+}

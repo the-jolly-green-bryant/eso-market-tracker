@@ -1,0 +1,17 @@
+{
+  "internalId": 305022619,
+  "name": "Belt of Cyrodiil's Ward",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93742,
+    93762,
+    93782,
+    93802,
+    93822,
+    93842,
+    93862,
+    93882
+  ]
+}

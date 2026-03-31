@@ -1,0 +1,10 @@
+{
+  "internalId": 4174107140,
+  "name": "Naked Nord's Pants",
+  "description": "You received these leggings after helping Norgred find his missing items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10953
+  ]
+}

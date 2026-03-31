@@ -1,0 +1,11 @@
+{
+  "internalId": 699672854,
+  "name": "Ring of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    117087,
+    117637
+  ]
+}

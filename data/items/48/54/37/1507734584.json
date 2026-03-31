@@ -1,0 +1,10 @@
+{
+  "internalId": 1507734584,
+  "name": "Grove-Keeper's Greaves",
+  "description": "Sturdy leather armor crafted by the Stonelore Druids as a gift from a grateful circle.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    188116
+  ]
+}

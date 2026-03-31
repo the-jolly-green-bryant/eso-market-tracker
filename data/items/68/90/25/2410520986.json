@@ -1,0 +1,17 @@
+{
+  "internalId": 2410520986,
+  "name": "Bloodthorn Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    96413,
+    96434,
+    96455,
+    96476,
+    96497,
+    96518,
+    96539,
+    96560
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3858034144,
+  "name": "Spell Parasite's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163286,
+    163321,
+    163356,
+    163391,
+    163426
+  ]
+}

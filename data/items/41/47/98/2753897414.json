@@ -1,0 +1,10 @@
+{
+  "internalId": 2753897414,
+  "name": "Rocks, Coldharbour Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_coldharbor_grp003.png",
+  "bindType": -1,
+  "knownIds": [
+    130276
+  ]
+}

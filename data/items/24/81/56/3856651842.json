@@ -1,0 +1,10 @@
+{
+  "internalId": 3856651842,
+  "name": "Master Weapons, Perfected",
+  "description": "This container holds a collection of Perfected weapons found in Dragonstar Arena.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    166707
+  ]
+}

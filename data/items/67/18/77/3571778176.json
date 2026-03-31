@@ -1,0 +1,10 @@
+{
+  "internalId": 3571778176,
+  "name": "Sotha Sil, The Clockwork God",
+  "description": "A colossal and masterfully sculpted monument, depicting the Clockwork God in all his splendor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_str_sothasilstatue001.png",
+  "bindType": -1,
+  "knownIds": [
+    134249
+  ]
+}

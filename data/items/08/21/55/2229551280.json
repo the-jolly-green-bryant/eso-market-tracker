@@ -1,0 +1,16 @@
+{
+  "internalId": 2229551280,
+  "name": "Battle Axe of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91970,
+    91991,
+    92012,
+    92033,
+    92054,
+    92075,
+    92096
+  ]
+}

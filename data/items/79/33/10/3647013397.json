@@ -1,0 +1,19 @@
+{
+  "internalId": 3647013397,
+  "name": "Maul of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168751,
+    168806,
+    168841,
+    168876,
+    168911,
+    168946,
+    168981,
+    169016,
+    169051,
+    169086
+  ]
+}

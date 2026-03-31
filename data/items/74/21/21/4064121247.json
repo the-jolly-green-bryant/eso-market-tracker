@@ -1,0 +1,19 @@
+{
+  "internalId": 4064121247,
+  "name": "Tide-Born Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215512,
+    215567,
+    215602,
+    215637,
+    215672,
+    215707,
+    215742,
+    215777,
+    215812,
+    215847
+  ]
+}

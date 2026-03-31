@@ -1,0 +1,14 @@
+{
+  "internalId": 2530038174,
+  "name": "Maul of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75127,
+    75147,
+    75167,
+    75187,
+    75207
+  ]
+}

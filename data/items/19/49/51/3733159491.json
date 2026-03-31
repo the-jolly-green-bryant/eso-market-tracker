@@ -1,0 +1,17 @@
+{
+  "internalId": 3733159491,
+  "name": "Lightning Staff of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90237,
+    90258,
+    90279,
+    90300,
+    90321,
+    90342,
+    90363,
+    90384
+  ]
+}

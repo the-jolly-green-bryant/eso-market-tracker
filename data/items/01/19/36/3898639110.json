@@ -1,0 +1,19 @@
+{
+  "internalId": 3898639110,
+  "name": "Greatsword of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59951,
+    59986,
+    60021,
+    60056,
+    60091,
+    60126,
+    60161,
+    60196,
+    60231,
+    60266
+  ]
+}

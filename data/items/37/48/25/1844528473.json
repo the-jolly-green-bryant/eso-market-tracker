@@ -1,0 +1,10 @@
+{
+  "internalId": 1844528473,
+  "name": "Riekling Pelt, Boar",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrboarrugsnow001.png",
+  "bindType": -1,
+  "knownIds": [
+    134458
+  ]
+}

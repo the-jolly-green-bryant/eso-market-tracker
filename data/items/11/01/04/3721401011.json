@@ -1,0 +1,13 @@
+{
+  "internalId": 3721401011,
+  "name": "Recovery Convergence Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_robe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1756657,
+    1756909,
+    1770209,
+    1771337
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 1078625083,
+  "name": "Ice Staff of Ursus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1282699,
+    1286480,
+    1302928,
+    1335716,
+    1419360,
+    1487468,
+    1561720,
+    1583651,
+    1598373,
+    1598705,
+    1610013,
+    1731759
+  ]
+}

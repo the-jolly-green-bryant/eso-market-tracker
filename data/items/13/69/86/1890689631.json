@@ -1,0 +1,19 @@
+{
+  "internalId": 1890689631,
+  "name": "Aether Sword of Strategy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_celestial_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1123688,
+    1124674,
+    1169079,
+    1348001,
+    1401922,
+    1493637,
+    1493638,
+    1639980,
+    1693464,
+    1757033
+  ]
+}

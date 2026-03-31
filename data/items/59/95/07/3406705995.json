@@ -1,0 +1,19 @@
+{
+  "internalId": 3406705995,
+  "name": "Mace of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121902,
+    121937,
+    121972,
+    122007,
+    122042,
+    122077,
+    122112,
+    122147,
+    122182,
+    122217
+  ]
+}

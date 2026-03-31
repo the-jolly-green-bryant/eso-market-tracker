@@ -1,0 +1,10 @@
+{
+  "internalId": 3473188113,
+  "name": "Stibbons's Fancy Epaulettes of Necropotence",
+  "description": "Shoulder protection awarded for helping Lady Laurent and Stibbons recover the Emerald Chalice at Breagha-Fin.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7315
+  ]
+}

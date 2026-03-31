@@ -1,0 +1,10 @@
+{
+  "internalId": 1807074523,
+  "name": "Funerary Urn, Broken",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_tomburnbroken003.png",
+  "bindType": -1,
+  "knownIds": [
+    181534
+  ]
+}

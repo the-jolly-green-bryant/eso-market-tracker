@@ -1,0 +1,10 @@
+{
+  "internalId": 1186694669,
+  "name": "Heritance Gauntlets",
+  "description": "Symbols of the Veiled Heritance, bitter opponents to Queen Ayrenn's rule, are hidden on the gauntlets' inner lining.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7602
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 64724470,
+  "name": "Armor, Jewelry and Weapons",
+  "description": "A collection of armor, jewelry and weapon sets from across Tamriel.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    175074
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1222045908,
+  "name": "Grave-Stake, Large Serpent",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkburialstick004.png",
+  "bindType": -1,
+  "knownIds": [
+    145441
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1604209148,
+  "name": "Necromancer's Spire, Alcove",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_fngnecrostone002.png",
+  "bindType": -1,
+  "knownIds": [
+    134838
+  ]
+}

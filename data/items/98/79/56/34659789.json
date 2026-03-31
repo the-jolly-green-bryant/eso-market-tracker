@@ -1,0 +1,17 @@
+{
+  "internalId": 34659789,
+  "name": "Helmet of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117105,
+    117125,
+    117145,
+    117165,
+    117185,
+    117205,
+    117225,
+    117245
+  ]
+}

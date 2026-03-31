@@ -1,0 +1,10 @@
+{
+  "internalId": 542412296,
+  "name": "Penitents' Fists",
+  "description": "Rewarded for investigating the Blood Pit and learning more about the Riven Cataclyst.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    182837
+  ]
+}

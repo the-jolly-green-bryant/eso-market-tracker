@@ -1,0 +1,19 @@
+{
+  "internalId": 345511857,
+  "name": "Coldharbour's Favorite Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147954,
+    148009,
+    148044,
+    148079,
+    148114,
+    148149,
+    148184,
+    148219,
+    148254,
+    148289
+  ]
+}

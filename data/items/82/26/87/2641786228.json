@@ -1,0 +1,18 @@
+{
+  "internalId": 2641786228,
+  "name": "Scorion's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1517678,
+    1525657,
+    1544111,
+    1559871,
+    1583588,
+    1593768,
+    1648989,
+    1718044,
+    1771317
+  ]
+}

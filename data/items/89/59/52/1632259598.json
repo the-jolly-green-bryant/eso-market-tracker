@@ -1,0 +1,10 @@
+{
+  "internalId": 1632259598,
+  "name": "Dark Elf Candle, Votive Tray",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_multicandle001.png",
+  "bindType": -1,
+  "knownIds": [
+    115340
+  ]
+}

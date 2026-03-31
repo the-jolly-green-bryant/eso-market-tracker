@@ -1,0 +1,17 @@
+{
+  "internalId": 430389820,
+  "name": "Battle Axe of the Voidcaller",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167600,
+    167621,
+    167642,
+    167663,
+    167684,
+    167705,
+    167726,
+    167747
+  ]
+}

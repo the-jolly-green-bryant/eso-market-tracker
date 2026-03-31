@@ -1,0 +1,11 @@
+{
+  "internalId": 2401005221,
+  "name": "Dauntless Combatant's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159376,
+    159411
+  ]
+}

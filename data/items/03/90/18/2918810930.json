@@ -1,0 +1,10 @@
+{
+  "internalId": 2918810930,
+  "name": "Telvanni Painting, Oversized Valley",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_telpaintingclrgorg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126464
+  ]
+}

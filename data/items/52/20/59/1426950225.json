@@ -1,0 +1,11 @@
+{
+  "internalId": 1426950225,
+  "name": "trifling glyph of bashing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasebashdamage.png",
+  "bindType": -1,
+  "knownIds": [
+    390502,
+    1436100
+  ]
+}

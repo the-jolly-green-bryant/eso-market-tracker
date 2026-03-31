@@ -1,0 +1,17 @@
+{
+  "internalId": 999480570,
+  "name": "Lightning Staff of the Onslaught",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90619,
+    90640,
+    90661,
+    90682,
+    90703,
+    90724,
+    90745,
+    90766
+  ]
+}

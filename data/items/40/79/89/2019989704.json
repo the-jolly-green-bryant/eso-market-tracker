@@ -1,0 +1,15 @@
+{
+  "internalId": 2019989704,
+  "name": "Boots of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59259,
+    59280,
+    59301,
+    59322,
+    59343,
+    59364
+  ]
+}

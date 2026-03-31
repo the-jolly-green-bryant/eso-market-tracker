@@ -1,0 +1,10 @@
+{
+  "internalId": 810249795,
+  "name": "Bush, Desert Scrub",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_bangkoraiisouthscrubtree003.png",
+  "bindType": -1,
+  "knownIds": [
+    120449
+  ]
+}

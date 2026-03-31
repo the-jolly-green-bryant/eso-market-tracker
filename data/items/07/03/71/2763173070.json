@@ -1,0 +1,10 @@
+{
+  "internalId": 2763173070,
+  "name": "Undying Light Painting, Silver",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leymetalframepainting010.png",
+  "bindType": -1,
+  "knownIds": [
+    178448
+  ]
+}

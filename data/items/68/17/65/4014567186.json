@@ -1,0 +1,17 @@
+{
+  "internalId": 4014567186,
+  "name": "Dagger of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93911,
+    93931,
+    93951,
+    93971,
+    93991,
+    94011,
+    94031,
+    94051
+  ]
+}

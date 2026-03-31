@@ -1,0 +1,14 @@
+{
+  "internalId": 4070471456,
+  "name": "Hanu's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1274736,
+    1384695,
+    1520924,
+    1521308,
+    1654691
+  ]
+}

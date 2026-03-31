@@ -1,0 +1,19 @@
+{
+  "internalId": 4223072873,
+  "name": "Hist Whisperer's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172458,
+    172513,
+    172548,
+    172583,
+    172618,
+    172653,
+    172688,
+    172723,
+    172758,
+    172793
+  ]
+}

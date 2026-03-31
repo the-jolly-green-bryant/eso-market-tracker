@@ -1,0 +1,10 @@
+{
+  "internalId": 1004812453,
+  "name": "Horn, Display, Cracked",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_muslegionhorn001.png",
+  "bindType": -1,
+  "knownIds": [
+    118284
+  ]
+}

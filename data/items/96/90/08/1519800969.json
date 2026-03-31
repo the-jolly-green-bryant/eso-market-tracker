@@ -1,0 +1,10 @@
+{
+  "internalId": 1519800969,
+  "name": "lamprey",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
+  "bindType": -1,
+  "knownIds": [
+    383893
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 3763762301,
+  "name": "Stuhn's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161307,
+    161342,
+    161377,
+    161412,
+    161447,
+    161482,
+    161517,
+    161552,
+    161587
+  ]
+}

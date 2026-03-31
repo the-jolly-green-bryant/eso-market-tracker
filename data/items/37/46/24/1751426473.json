@@ -1,0 +1,10 @@
+{
+  "internalId": 1751426473,
+  "name": "Tree, Sturdy Jungle",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_auridonjungletree005.png",
+  "bindType": -1,
+  "knownIds": [
+    120670
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4192864241,
+  "name": "Elsweyr Tent, Open",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_tent001.png",
+  "bindType": -1,
+  "knownIds": [
+    151684
+  ]
+}

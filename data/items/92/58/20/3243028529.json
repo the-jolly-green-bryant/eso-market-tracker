@@ -1,0 +1,19 @@
+{
+  "internalId": 3243028529,
+  "name": "Belt of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161629,
+    161684,
+    161719,
+    161754,
+    161789,
+    161824,
+    161859,
+    161894,
+    161929,
+    161964
+  ]
+}

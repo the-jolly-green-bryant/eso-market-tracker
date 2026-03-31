@@ -1,0 +1,19 @@
+{
+  "internalId": 4097766158,
+  "name": "Maul of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70653,
+    70688,
+    70723,
+    70758,
+    70793,
+    70828,
+    70863,
+    70898,
+    70933,
+    70968
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 3040796419,
+  "name": "Rattlecage Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1545436,
+    1614942,
+    1619059
+  ]
+}

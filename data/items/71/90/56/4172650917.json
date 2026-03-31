@@ -1,0 +1,17 @@
+{
+  "internalId": 4172650917,
+  "name": "Maul of Hist Sap",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98697,
+    98718,
+    98739,
+    98760,
+    98781,
+    98802,
+    98823,
+    98844
+  ]
+}

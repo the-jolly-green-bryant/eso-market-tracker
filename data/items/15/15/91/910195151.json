@@ -1,0 +1,10 @@
+{
+  "internalId": 910195151,
+  "name": "Dark Elf Tent, Multiroom",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_cmp_militarytentslarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    198007
+  ]
+}

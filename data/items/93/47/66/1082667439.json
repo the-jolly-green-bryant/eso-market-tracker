@@ -1,0 +1,13 @@
+{
+  "internalId": 1082667439,
+  "name": "Shacklebreaker Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122488,
+    122523,
+    122558,
+    122593
+  ]
+}

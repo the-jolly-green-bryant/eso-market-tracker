@@ -1,0 +1,17 @@
+{
+  "internalId": 2914159436,
+  "name": "Darloc Brae's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_sword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149435,
+    149455,
+    149475,
+    149495,
+    149515,
+    149535,
+    149555,
+    149575
+  ]
+}

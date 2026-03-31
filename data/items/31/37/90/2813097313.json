@@ -1,0 +1,11 @@
+{
+  "internalId": 2813097313,
+  "name": "Ice Staff of Bahraha's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114597,
+    114618
+  ]
+}

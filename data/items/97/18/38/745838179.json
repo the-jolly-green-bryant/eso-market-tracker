@@ -1,0 +1,10 @@
+{
+  "internalId": 745838179,
+  "name": "Flowers, Opposing Purple Bat Blooms",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_vrdclusterbatflower001.png",
+  "bindType": -1,
+  "knownIds": [
+    125554
+  ]
+}

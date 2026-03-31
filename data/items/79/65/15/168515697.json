@@ -1,0 +1,10 @@
+{
+  "internalId": 168515697,
+  "name": "Mushrooms, Sporous Browncap",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_malabaltorglowmushrooms001.png",
+  "bindType": -1,
+  "knownIds": [
+    134952
+  ]
+}

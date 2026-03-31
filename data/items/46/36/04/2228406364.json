@@ -1,0 +1,11 @@
+{
+  "internalId": 2228406364,
+  "name": "Boots of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96237,
+    96357
+  ]
+}

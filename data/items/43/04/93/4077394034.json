@@ -1,0 +1,18 @@
+{
+  "internalId": 4077394034,
+  "name": "Shared Burden Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215176,
+    215211,
+    215246,
+    215281,
+    215316,
+    215351,
+    215386,
+    215421,
+    215456
+  ]
+}

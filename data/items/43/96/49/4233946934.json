@@ -1,0 +1,19 @@
+{
+  "internalId": 4233946934,
+  "name": "Cuirass of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60658,
+    60693,
+    60728,
+    60763,
+    60798,
+    60833,
+    60868,
+    60903,
+    60938,
+    60973
+  ]
+}

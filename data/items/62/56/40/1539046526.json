@@ -1,0 +1,12 @@
+{
+  "internalId": 1539046526,
+  "name": "Aetheric Lancer Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1738540,
+    1760463,
+    1760687
+  ]
+}

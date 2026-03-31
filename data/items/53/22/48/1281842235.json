@@ -1,0 +1,10 @@
+{
+  "internalId": 1281842235,
+  "name": "Jewelry: Vanguard's Challenge",
+  "description": "A Heavy Armor set purchased in Morrowind's Battleground Camp.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    127133
+  ]
+}

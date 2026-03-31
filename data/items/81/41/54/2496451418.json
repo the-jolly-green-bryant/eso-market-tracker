@@ -1,0 +1,17 @@
+{
+  "internalId": 2496451418,
+  "name": "Ice Staff of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91191,
+    91212,
+    91233,
+    91254,
+    91275,
+    91296,
+    91317,
+    91338
+  ]
+}

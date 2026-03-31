@@ -1,0 +1,12 @@
+{
+  "internalId": 2159059205,
+  "name": "Dauntless Combatant's Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159362,
+    159397,
+    159432
+  ]
+}

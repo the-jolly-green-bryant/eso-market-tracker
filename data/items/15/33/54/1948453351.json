@@ -1,0 +1,19 @@
+{
+  "internalId": 1948453351,
+  "name": "Tide-Born Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215505,
+    215560,
+    215595,
+    215630,
+    215665,
+    215700,
+    215735,
+    215770,
+    215805,
+    215840
+  ]
+}

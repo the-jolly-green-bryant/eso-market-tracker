@@ -1,0 +1,17 @@
+{
+  "internalId": 9775547,
+  "name": "Restoration Staff of Willpower",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69182,
+    69195,
+    69208,
+    69221,
+    69234,
+    69247,
+    69260,
+    69273
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4106084741,
+  "name": "Services Furnishing Recipe Book",
+  "description": "A book written by a battlemage in charge of logistics. Reading it teaches all Services Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color2.png",
+  "bindType": -1,
+  "knownIds": [
+    214291
+  ]
+}

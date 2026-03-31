@@ -1,0 +1,10 @@
+{
+  "internalId": 1419514797,
+  "name": "Privateer Clogs",
+  "description": "Captain One-Eye gave you these clogs for defeating the Admiral and determining the fate of the Crown of Bones.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15730
+  ]
+}

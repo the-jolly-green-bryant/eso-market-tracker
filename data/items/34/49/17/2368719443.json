@@ -1,0 +1,17 @@
+{
+  "internalId": 2368719443,
+  "name": "Fiord's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100217,
+    100237,
+    100257,
+    100277,
+    100297,
+    100317,
+    100337,
+    100357
+  ]
+}

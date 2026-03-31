@@ -1,0 +1,17 @@
+{
+  "internalId": 162294822,
+  "name": "Plague Doctor's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97045,
+    97065,
+    97085,
+    97105,
+    97125,
+    97145,
+    97165,
+    97185
+  ]
+}

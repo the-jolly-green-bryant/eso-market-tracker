@@ -1,0 +1,10 @@
+{
+  "internalId": 167482848,
+  "name": "Rock, Slanted Weathered",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_malabaltorsmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    120638
+  ]
+}

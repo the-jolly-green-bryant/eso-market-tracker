@@ -1,0 +1,10 @@
+{
+  "internalId": 1413364487,
+  "name": "Necrom Brazier, Elegant Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_standingbrazier002.png",
+  "bindType": -1,
+  "knownIds": [
+    197840
+  ]
+}

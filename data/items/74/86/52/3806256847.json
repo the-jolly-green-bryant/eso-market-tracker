@@ -1,0 +1,10 @@
+{
+  "internalId": 3806256847,
+  "name": "mudfish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
+  "bindType": -1,
+  "knownIds": [
+    572133
+  ]
+}

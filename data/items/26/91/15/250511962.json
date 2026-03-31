@@ -1,0 +1,17 @@
+{
+  "internalId": 250511962,
+  "name": "Gauntlets of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88912,
+    88932,
+    88952,
+    88972,
+    88992,
+    89012,
+    89032,
+    89052
+  ]
+}

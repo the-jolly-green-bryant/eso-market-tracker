@@ -1,0 +1,10 @@
+{
+  "internalId": 3065714203,
+  "name": "Reach Totem, Gathered Staves",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_witchpikestaffgroup002.png",
+  "bindType": -1,
+  "knownIds": [
+    217589
+  ]
+}

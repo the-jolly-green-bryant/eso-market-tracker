@@ -1,0 +1,10 @@
+{
+  "internalId": 2179619724,
+  "name": "Colovian Lattice, Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhwoodlattice001.png",
+  "bindType": -1,
+  "knownIds": [
+    218007
+  ]
+}

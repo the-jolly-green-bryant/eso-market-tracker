@@ -1,0 +1,11 @@
+{
+  "internalId": 3315514115,
+  "name": "Steamed Radishes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
+  "bindType": -1,
+  "knownIds": [
+    37827,
+    28325
+  ]
+}

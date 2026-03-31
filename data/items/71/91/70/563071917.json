@@ -1,0 +1,10 @@
+{
+  "internalId": 563071917,
+  "name": "Alinor Divider, Polished",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_screen002.png",
+  "bindType": -1,
+  "knownIds": [
+    139261
+  ]
+}

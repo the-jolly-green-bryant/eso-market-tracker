@@ -1,0 +1,19 @@
+{
+  "internalId": 2126409086,
+  "name": "Daring Corsair's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155436,
+    155491,
+    155526,
+    155561,
+    155596,
+    155631,
+    155666,
+    155701,
+    155736,
+    155771
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3741508104,
+  "name": "Pelinal's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76255,
+    76290,
+    76325,
+    76360,
+    76395,
+    76430
+  ]
+}

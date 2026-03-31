@@ -1,0 +1,17 @@
+{
+  "internalId": 2790553793,
+  "name": "Ice Staff of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87758,
+    87771,
+    87784,
+    87797,
+    87810,
+    87823,
+    87836,
+    87849
+  ]
+}

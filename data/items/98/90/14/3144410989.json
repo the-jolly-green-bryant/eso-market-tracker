@@ -1,0 +1,17 @@
+{
+  "internalId": 3144410989,
+  "name": "leather belt of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    438940,
+    680974,
+    647439,
+    789904,
+    789859,
+    786950,
+    871415,
+    1167462
+  ]
+}

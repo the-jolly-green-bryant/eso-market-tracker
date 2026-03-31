@@ -1,0 +1,13 @@
+{
+  "internalId": 125027425,
+  "name": "Greaves of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131297,
+    131332,
+    131367,
+    131402
+  ]
+}

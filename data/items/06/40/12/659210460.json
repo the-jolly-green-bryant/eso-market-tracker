@@ -1,0 +1,18 @@
+{
+  "internalId": 659210460,
+  "name": "Gloves of Winter's Respite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_hands.png",
+  "bindType": 2,
+  "knownIds": [
+    160644,
+    160665,
+    160686,
+    160707,
+    160728,
+    160749,
+    160770,
+    160791,
+    160812
+  ]
+}

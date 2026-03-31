@@ -1,0 +1,10 @@
+{
+  "internalId": 326649852,
+  "name": "Rock, Volcanic Chunk",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_vrdlavacolumn002.png",
+  "bindType": -1,
+  "knownIds": [
+    125638
+  ]
+}

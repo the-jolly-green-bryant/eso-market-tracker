@@ -1,0 +1,13 @@
+{
+  "internalId": 3429871043,
+  "name": "Bracers of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173463,
+    173498,
+    173533,
+    173568
+  ]
+}

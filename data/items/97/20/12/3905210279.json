@@ -1,0 +1,10 @@
+{
+  "internalId": 3905210279,
+  "name": "Telvanni Painting, Modest Volcanic",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_telpaintingasmlorg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126465
+  ]
+}

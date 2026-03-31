@@ -1,0 +1,15 @@
+{
+  "internalId": 1542055917,
+  "name": "Cuirass of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95325,
+    95345,
+    95365,
+    95385,
+    95405,
+    95425
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 953955857,
+  "name": "Sash of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184798,
+    184853,
+    184888,
+    184923,
+    184958,
+    184993,
+    185028,
+    185063,
+    185098,
+    185133
+  ]
+}

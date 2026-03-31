@@ -1,0 +1,17 @@
+{
+  "internalId": 2626927184,
+  "name": "War Maiden's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122808,
+    122829,
+    122850,
+    122871,
+    122892,
+    122913,
+    122934,
+    122955
+  ]
+}

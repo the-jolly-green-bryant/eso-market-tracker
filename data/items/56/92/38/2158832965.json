@@ -1,0 +1,14 @@
+{
+  "internalId": 2158832965,
+  "name": "Dagger of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75129,
+    75149,
+    75169,
+    75189,
+    75209
+  ]
+}

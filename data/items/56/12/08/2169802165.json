@@ -1,0 +1,10 @@
+{
+  "internalId": 2169802165,
+  "name": "Eastmarch Lore",
+  "description": "A mysterious tome containing all of the books in the Eastmarch Lore collection.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png",
+  "bindType": 3,
+  "knownIds": [
+    199947
+  ]
+}

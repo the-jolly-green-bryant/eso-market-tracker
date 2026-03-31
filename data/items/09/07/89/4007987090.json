@@ -1,0 +1,17 @@
+{
+  "internalId": 4007987090,
+  "name": "Crafty Alfiq's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_mace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149243,
+    149264,
+    149285,
+    149306,
+    149327,
+    149348,
+    149369,
+    149390
+  ]
+}

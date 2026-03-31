@@ -1,0 +1,10 @@
+{
+  "internalId": 2071955215,
+  "name": "Thugrub's Bane of Syrabane",
+  "description": "Flames lick the blade of this massive sword.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    42996
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3552134788,
+  "name": "Grave-Stake Collector Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143003,
+    143038,
+    143073,
+    143108,
+    143143
+  ]
+}

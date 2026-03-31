@@ -1,0 +1,10 @@
+{
+  "internalId": 1300909851,
+  "name": "Elsweyr Lightpost, Ancient Tall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_wallpostlight002.png",
+  "bindType": -1,
+  "knownIds": [
+    151734
+  ]
+}

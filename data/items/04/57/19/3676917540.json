@@ -1,0 +1,10 @@
+{
+  "internalId": 3676917540,
+  "name": "Velothi Altar, Sacrificial",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_sarcophagus002.png",
+  "bindType": -1,
+  "knownIds": [
+    126579
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3005163884,
+  "name": "Brass Oil Lamp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png",
+  "bindType": -1,
+  "knownIds": [
+    798524
+  ]
+}

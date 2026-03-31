@@ -1,0 +1,10 @@
+{
+  "internalId": 1980779251,
+  "name": "Tree, Towering Royal Pine",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_scotspine008.png",
+  "bindType": -1,
+  "knownIds": [
+    167291
+  ]
+}

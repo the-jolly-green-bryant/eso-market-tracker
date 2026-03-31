@@ -1,0 +1,17 @@
+{
+  "internalId": 3273640287,
+  "name": "Swamp Raider's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98884,
+    98904,
+    98924,
+    98944,
+    98964,
+    98984,
+    99004,
+    99024
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2260818393,
+  "name": "Inferno Staff of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59954,
+    59989,
+    60024,
+    60059,
+    60094,
+    60129,
+    60164,
+    60199,
+    60234,
+    60269
+  ]
+}

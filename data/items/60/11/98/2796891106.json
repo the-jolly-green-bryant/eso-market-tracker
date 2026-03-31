@@ -1,0 +1,10 @@
+{
+  "internalId": 2796891106,
+  "name": "Hlaalu Lantern, Hanging Paper",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlalamppost002.png",
+  "bindType": -1,
+  "knownIds": [
+    125565
+  ]
+}

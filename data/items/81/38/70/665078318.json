@@ -1,0 +1,10 @@
+{
+  "internalId": 665078318,
+  "name": "Argonian Tarp, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_waterscoop002.png",
+  "bindType": -1,
+  "knownIds": [
+    115437
+  ]
+}

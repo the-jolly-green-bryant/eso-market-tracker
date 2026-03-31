@@ -1,0 +1,10 @@
+{
+  "internalId": 2692868362,
+  "name": "Orcish Brazier, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgbrazierdungeon001.png",
+  "bindType": -1,
+  "knownIds": [
+    116464
+  ]
+}

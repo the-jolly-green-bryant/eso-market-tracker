@@ -1,0 +1,10 @@
+{
+  "internalId": 1416850869,
+  "name": "Murkmire Candlepost, Timber",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklampfloorpylon001.png",
+  "bindType": -1,
+  "knownIds": [
+    145367
+  ]
+}

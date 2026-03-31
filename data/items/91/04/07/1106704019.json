@@ -1,0 +1,12 @@
+{
+  "internalId": 1106704019,
+  "name": "drippings",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_trollfat_001.png",
+  "bindType": -1,
+  "knownIds": [
+    815865,
+    871250,
+    871320
+  ]
+}

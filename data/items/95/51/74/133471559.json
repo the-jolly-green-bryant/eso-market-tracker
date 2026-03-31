@@ -1,0 +1,19 @@
+{
+  "internalId": 133471559,
+  "name": "Chain of the Coven",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    580546,
+    641083,
+    770939,
+    1130490,
+    1224303,
+    1265515,
+    1275026,
+    1470408,
+    1475242,
+    1547081
+  ]
+}

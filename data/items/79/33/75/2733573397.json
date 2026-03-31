@@ -1,0 +1,15 @@
+{
+  "internalId": 2733573397,
+  "name": "Mace of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70091,
+    70126,
+    70161,
+    70196,
+    70231,
+    70266
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 3705084161,
+  "name": "Flame Blossom Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1167226,
+    1200373,
+    1201199,
+    1346389,
+    1387467,
+    1415358,
+    1595245,
+    1602340,
+    1613335,
+    1659289,
+    1715834
+  ]
+}

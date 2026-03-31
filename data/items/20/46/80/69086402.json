@@ -1,0 +1,17 @@
+{
+  "internalId": 69086402,
+  "name": "Galerion's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78071,
+    78106,
+    78141,
+    78176,
+    78211,
+    78246,
+    78281,
+    78316
+  ]
+}

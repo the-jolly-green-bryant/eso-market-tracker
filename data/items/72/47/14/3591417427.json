@@ -1,0 +1,10 @@
+{
+  "internalId": 3591417427,
+  "name": "Redguard Mug, Full",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vartankard001_full.png",
+  "bindType": -1,
+  "knownIds": [
+    117746
+  ]
+}

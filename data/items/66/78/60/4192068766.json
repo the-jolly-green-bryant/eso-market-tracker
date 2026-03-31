@@ -1,0 +1,19 @@
+{
+  "internalId": 4192068766,
+  "name": "Hist Whisperer's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172481,
+    172536,
+    172571,
+    172606,
+    172641,
+    172676,
+    172711,
+    172746,
+    172781,
+    172816
+  ]
+}

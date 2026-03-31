@@ -1,0 +1,22 @@
+{
+  "internalId": 4243048015,
+  "name": "Grobull's Charge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    475075,
+    578389,
+    808883,
+    805238,
+    829810,
+    835657,
+    856409,
+    943995,
+    1063954,
+    1278005,
+    1358389,
+    1456372,
+    1478501
+  ]
+}

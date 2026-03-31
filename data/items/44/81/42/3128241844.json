@@ -1,0 +1,12 @@
+{
+  "internalId": 3128241844,
+  "name": "Corpseburster Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1742770,
+    1762413,
+    1763703
+  ]
+}

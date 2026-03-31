@@ -1,0 +1,10 @@
+{
+  "internalId": 621980050,
+  "name": "Solitude Service Tankard",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1384980
+  ]
+}

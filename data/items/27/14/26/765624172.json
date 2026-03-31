@@ -1,0 +1,17 @@
+{
+  "internalId": 765624172,
+  "name": "Undertaker's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_sword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149062,
+    149082,
+    149102,
+    149122,
+    149142,
+    149162,
+    149182,
+    149202
+  ]
+}

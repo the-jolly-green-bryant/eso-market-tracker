@@ -1,0 +1,10 @@
+{
+  "internalId": 2981198148,
+  "name": "Brass Warning Whistle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_whistle_001.png",
+  "bindType": -1,
+  "knownIds": [
+    809063
+  ]
+}

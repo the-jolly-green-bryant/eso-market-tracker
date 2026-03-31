@@ -1,0 +1,10 @@
+{
+  "internalId": 1059933150,
+  "name": "Werewolf Hide Daggerfall Guard Tabard",
+  "description": "Captain Farlivere awarded this medium armor for rescuing the noble hostages from the Red Rook Bandits.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1160
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2169957959,
+  "name": "Crafting Motif 76: Dragonguard Helmets",
+  "description": "Use to learn how to make Dragonguard Helmets. Also teaches the equivalent Dragonguard outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    156563
+  ]
+}

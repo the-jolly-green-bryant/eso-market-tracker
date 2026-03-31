@@ -1,0 +1,10 @@
+{
+  "internalId": 897343245,
+  "name": "Iron Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2hvy_head.png",
+  "bindType": -1,
+  "knownIds": [
+    175741
+  ]
+}

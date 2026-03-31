@@ -1,0 +1,21 @@
+{
+  "internalId": 3604181303,
+  "name": "yew shield of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    522816,
+    623532,
+    685271,
+    623556,
+    484410,
+    665169,
+    452100,
+    763141,
+    794832,
+    685603,
+    788875,
+    786343
+  ]
+}

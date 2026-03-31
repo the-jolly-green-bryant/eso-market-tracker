@@ -1,0 +1,10 @@
+{
+  "internalId": 2484040994,
+  "name": "Dwarven Lamppost, Reachfolk Adorned",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markreachlamppost001.png",
+  "bindType": -1,
+  "knownIds": [
+    210882
+  ]
+}

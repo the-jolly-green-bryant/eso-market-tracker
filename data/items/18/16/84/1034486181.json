@@ -1,0 +1,17 @@
+{
+  "internalId": 1034486181,
+  "name": "Witchman's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hsword_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101522,
+    101542,
+    101562,
+    101582,
+    101602,
+    101622,
+    101642,
+    101662
+  ]
+}

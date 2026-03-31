@@ -1,0 +1,17 @@
+{
+  "internalId": 3779199815,
+  "name": "Mace of Salvation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85454,
+    85474,
+    85494,
+    85514,
+    85534,
+    85554,
+    85574,
+    85594
+  ]
+}

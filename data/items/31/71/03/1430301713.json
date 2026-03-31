@@ -1,0 +1,19 @@
+{
+  "internalId": 1430301713,
+  "name": "Duneripper Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_2hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1064539,
+    1272231,
+    1340794,
+    1367500,
+    1386779,
+    1434055,
+    1573744,
+    1599388,
+    1703041,
+    1760918
+  ]
+}

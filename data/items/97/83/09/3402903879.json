@@ -1,0 +1,13 @@
+{
+  "internalId": 3402903879,
+  "name": "Shacklebreaker Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122489,
+    122524,
+    122559,
+    122594
+  ]
+}

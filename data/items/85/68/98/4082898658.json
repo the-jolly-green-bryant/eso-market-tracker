@@ -1,0 +1,10 @@
+{
+  "internalId": 4082898658,
+  "name": "Bush, Summerset Spruce",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_ezobush001.png",
+  "bindType": -1,
+  "knownIds": [
+    139122
+  ]
+}

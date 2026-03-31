@@ -1,0 +1,10 @@
+{
+  "internalId": 3881295919,
+  "name": "River's Journey Painting, Silver",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_metalframepainting007.png",
+  "bindType": -1,
+  "knownIds": [
+    165843
+  ]
+}

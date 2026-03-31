@@ -1,0 +1,22 @@
+{
+  "internalId": 1833799268,
+  "name": "Hanu's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1274610,
+    1288940,
+    1303068,
+    1305194,
+    1325091,
+    1372888,
+    1570845,
+    1570910,
+    1582883,
+    1643514,
+    1649115,
+    1731755,
+    1746623
+  ]
+}

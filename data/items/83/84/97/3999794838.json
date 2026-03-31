@@ -1,0 +1,17 @@
+{
+  "internalId": 3999794838,
+  "name": "Bow of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76923,
+    76943,
+    76963,
+    76983,
+    77003,
+    77023,
+    77043,
+    77063
+  ]
+}

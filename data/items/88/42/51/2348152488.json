@@ -1,0 +1,17 @@
+{
+  "internalId": 2348152488,
+  "name": "Stygian Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102079,
+    102099,
+    102119,
+    102139,
+    102159,
+    102179,
+    102199,
+    102219
+  ]
+}

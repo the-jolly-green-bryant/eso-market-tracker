@@ -1,0 +1,10 @@
+{
+  "internalId": 1448758181,
+  "name": "Reach Totem, Twig Crescent",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_icereachwitchsymbol002.png",
+  "bindType": -1,
+  "knownIds": [
+    204634
+  ]
+}

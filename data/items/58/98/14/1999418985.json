@@ -1,0 +1,23 @@
+{
+  "internalId": 1999418985,
+  "name": "Telvanni Enforcer Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_heavy_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628915,
+    1629583,
+    1629621,
+    1629628,
+    1630328,
+    1632480,
+    1633682,
+    1636360,
+    1658662,
+    1680633,
+    1695204,
+    1718228,
+    1732925,
+    1734920
+  ]
+}

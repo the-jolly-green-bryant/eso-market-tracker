@@ -1,0 +1,16 @@
+{
+  "internalId": 2730721765,
+  "name": "Belt of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168158,
+    168193,
+    168228,
+    168263,
+    168298,
+    168333,
+    168368
+  ]
+}

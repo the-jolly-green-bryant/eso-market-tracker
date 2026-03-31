@@ -1,0 +1,10 @@
+{
+  "internalId": 3034277686,
+  "name": "Traveler's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    166034
+  ]
+}

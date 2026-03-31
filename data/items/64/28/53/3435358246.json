@@ -1,0 +1,16 @@
+{
+  "internalId": 3435358246,
+  "name": "Greatsword of Stone's Accord",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1602522,
+    1609024,
+    1650311,
+    1738290,
+    1739016,
+    1745912,
+    1765861
+  ]
+}

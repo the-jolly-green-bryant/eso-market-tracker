@@ -1,0 +1,15 @@
+{
+  "internalId": 1796740319,
+  "name": "Heroic Unity Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_heavy_legs_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1747850,
+    1749411,
+    1749778,
+    1751981,
+    1758520,
+    1765785
+  ]
+}

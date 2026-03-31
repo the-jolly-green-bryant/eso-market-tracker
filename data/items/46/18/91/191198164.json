@@ -1,0 +1,17 @@
+{
+  "internalId": 191198164,
+  "name": "Renald's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1345866,
+    1373435,
+    1374396,
+    1411486,
+    1573756,
+    1620881,
+    1629262,
+    1647407
+  ]
+}

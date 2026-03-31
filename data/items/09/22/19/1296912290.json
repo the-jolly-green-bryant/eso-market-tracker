@@ -1,0 +1,17 @@
+{
+  "internalId": 1296912290,
+  "name": "Afflicted Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89279,
+    89299,
+    89319,
+    89339,
+    89359,
+    89379,
+    89399,
+    89419
+  ]
+}

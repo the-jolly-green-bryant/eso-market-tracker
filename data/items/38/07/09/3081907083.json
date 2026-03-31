@@ -1,0 +1,14 @@
+{
+  "internalId": 3081907083,
+  "name": "Leki's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199401,
+    199402,
+    199403,
+    199404,
+    199405
+  ]
+}

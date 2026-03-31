@@ -1,0 +1,17 @@
+{
+  "internalId": 3258104132,
+  "name": "Camonna Tong Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195876,
+    195896,
+    195916,
+    195936,
+    195956,
+    195976,
+    195996,
+    196016
+  ]
+}

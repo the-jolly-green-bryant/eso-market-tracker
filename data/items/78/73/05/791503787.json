@@ -1,0 +1,10 @@
+{
+  "internalId": 791503787,
+  "name": "Orcish Gazebo, Orsinium",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_wtggazebo001.png",
+  "bindType": -1,
+  "knownIds": [
+    141759
+  ]
+}

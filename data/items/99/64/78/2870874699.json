@@ -1,0 +1,10 @@
+{
+  "internalId": 2870874699,
+  "name": "Candle, Group",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candleset002.png",
+  "bindType": -1,
+  "knownIds": [
+    118114
+  ]
+}

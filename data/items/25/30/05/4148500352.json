@@ -1,0 +1,10 @@
+{
+  "internalId": 4148500352,
+  "name": "Sunport Staircase, Curved",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_housingaltinthighsidestaircase001.png",
+  "bindType": -1,
+  "knownIds": [
+    218004
+  ]
+}

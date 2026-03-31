@@ -1,0 +1,15 @@
+{
+  "internalId": 620810417,
+  "name": "Assassin's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139712,
+    139802,
+    139892,
+    139982,
+    140072,
+    140162
+  ]
+}

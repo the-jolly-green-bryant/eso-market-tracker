@@ -1,0 +1,17 @@
+{
+  "internalId": 2603168236,
+  "name": "Greaves of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89824,
+    89844,
+    89864,
+    89884,
+    89904,
+    89924,
+    89944,
+    89964
+  ]
+}

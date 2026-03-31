@@ -1,0 +1,10 @@
+{
+  "internalId": 1502997165,
+  "name": "Rough Tray, Sturdy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_cratesmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    117932
+  ]
+}

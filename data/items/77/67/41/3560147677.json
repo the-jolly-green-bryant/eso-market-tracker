@@ -1,0 +1,10 @@
+{
+  "internalId": 3560147677,
+  "name": "Plant, Hefty Elkhorn",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_vrdelkhorn002.png",
+  "bindType": -1,
+  "knownIds": [
+    125620
+  ]
+}

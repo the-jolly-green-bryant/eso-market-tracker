@@ -1,0 +1,10 @@
+{
+  "internalId": 310490579,
+  "name": "Crafting Motif 124: The Recollection Swords",
+  "description": "Use to learn how to make the Recollection Swords. Also teaches the equivalent the Recollection Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    203196
+  ]
+}

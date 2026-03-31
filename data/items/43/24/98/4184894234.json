@@ -1,0 +1,19 @@
+{
+  "internalId": 4184894234,
+  "name": "Lightning Staff of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75746,
+    75781,
+    75816,
+    75851,
+    75886,
+    75921,
+    75956,
+    75991,
+    76026,
+    76061
+  ]
+}

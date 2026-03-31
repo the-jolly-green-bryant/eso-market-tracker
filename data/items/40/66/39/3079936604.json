@@ -1,0 +1,25 @@
+{
+  "internalId": 3079936604,
+  "name": "inferior glyph of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_healthboost.png",
+  "bindType": -1,
+  "knownIds": [
+    413419,
+    413104,
+    407149,
+    393669,
+    390055,
+    1432895,
+    1456911,
+    1489690,
+    1489697,
+    1489701,
+    1495868,
+    1632223,
+    1644541,
+    1646117,
+    1687342,
+    1760517
+  ]
+}

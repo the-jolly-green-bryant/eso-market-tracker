@@ -1,0 +1,10 @@
+{
+  "internalId": 310179166,
+  "name": "Seal of Clan Fharun, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_puzzledoorplatefharhun001.png",
+  "bindType": -1,
+  "knownIds": [
+    134443
+  ]
+}

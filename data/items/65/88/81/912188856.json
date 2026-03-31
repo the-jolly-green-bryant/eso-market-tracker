@@ -1,0 +1,19 @@
+{
+  "internalId": 912188856,
+  "name": "Nocturnal's Favored Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136448,
+    136483,
+    136518,
+    136553,
+    136588,
+    136623,
+    136658,
+    136693,
+    136728,
+    136763
+  ]
+}

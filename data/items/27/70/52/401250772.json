@@ -1,0 +1,13 @@
+{
+  "internalId": 401250772,
+  "name": "Hiti's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1353830,
+    1371133,
+    1481718,
+    1549230
+  ]
+}

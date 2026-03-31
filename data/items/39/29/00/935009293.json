@@ -1,0 +1,19 @@
+{
+  "internalId": 935009293,
+  "name": "Forest Wraith's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192016,
+    192071,
+    192106,
+    192141,
+    192176,
+    192211,
+    192246,
+    192281,
+    192316,
+    192351
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1758360235,
+  "name": "Breton Bench, Plain",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_benchpeasant002.png",
+  "bindType": -1,
+  "knownIds": [
+    115156
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 992852003,
+  "name": "Fortified Brass Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130738,
+    130773,
+    130808,
+    130843,
+    130878,
+    130913,
+    130948,
+    130983,
+    131018,
+    131053
+  ]
+}

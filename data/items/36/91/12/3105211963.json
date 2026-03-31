@@ -1,0 +1,11 @@
+{
+  "internalId": 3105211963,
+  "name": "Belt of Vaulting",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    714768,
+    419552
+  ]
+}

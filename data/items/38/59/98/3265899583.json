@@ -1,0 +1,16 @@
+{
+  "internalId": 3265899583,
+  "name": "Knight Slayer Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123570,
+    123591,
+    123612,
+    123633,
+    123654,
+    123675,
+    123696
+  ]
+}

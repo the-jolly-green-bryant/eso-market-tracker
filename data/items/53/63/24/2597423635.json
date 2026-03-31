@@ -1,0 +1,10 @@
+{
+  "internalId": 2597423635,
+  "name": "Elsweyr Cart, Masterwork",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_csb_merchantcartopen002.png",
+  "bindType": -1,
+  "knownIds": [
+    153653
+  ]
+}

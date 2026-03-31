@@ -1,0 +1,17 @@
+{
+  "internalId": 3749249464,
+  "name": "Bow of Ancient Grace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90115,
+    90128,
+    90141,
+    90154,
+    90167,
+    90180,
+    90193,
+    90206
+  ]
+}

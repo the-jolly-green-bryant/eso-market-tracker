@@ -1,0 +1,16 @@
+{
+  "internalId": 333507268,
+  "name": "Gauntlets of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80412,
+    80432,
+    80452,
+    80472,
+    80504,
+    80524,
+    80544
+  ]
+}

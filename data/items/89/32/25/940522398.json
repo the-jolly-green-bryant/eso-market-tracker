@@ -1,0 +1,19 @@
+{
+  "internalId": 940522398,
+  "name": "Draugrkin Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_axe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1455866,
+    1564910,
+    1583778,
+    1598363,
+    1618237,
+    1686797,
+    1698512,
+    1716000,
+    1750808,
+    1759204
+  ]
+}

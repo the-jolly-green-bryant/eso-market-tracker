@@ -1,0 +1,20 @@
+{
+  "internalId": 2082356629,
+  "name": "Enchanter's Coffer V",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1233584,
+    1246515,
+    1260198,
+    1279140,
+    1282725,
+    1283123,
+    1313314,
+    1398757,
+    1399077,
+    1400887,
+    1404932
+  ]
+}

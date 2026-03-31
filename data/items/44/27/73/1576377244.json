@@ -1,0 +1,13 @@
+{
+  "internalId": 1576377244,
+  "name": "Maul of Permafrost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1275140,
+    1402199,
+    1518257,
+    1541013
+  ]
+}

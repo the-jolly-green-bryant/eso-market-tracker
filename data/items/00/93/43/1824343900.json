@@ -1,0 +1,10 @@
+{
+  "internalId": 1824343900,
+  "name": "Imperial Chest, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_chest001.png",
+  "bindType": -1,
+  "knownIds": [
+    94140
+  ]
+}

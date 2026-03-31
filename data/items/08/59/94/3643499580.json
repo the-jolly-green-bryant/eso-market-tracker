@@ -1,0 +1,13 @@
+{
+  "internalId": 3643499580,
+  "name": "Pillager's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_mace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1587682,
+    1627685,
+    1651991,
+    1657979
+  ]
+}

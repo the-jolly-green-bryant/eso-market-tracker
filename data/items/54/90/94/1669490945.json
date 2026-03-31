@@ -1,0 +1,10 @@
+{
+  "internalId": 1669490945,
+  "name": "Redguard Lamp, Oil",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_oillamp001.png",
+  "bindType": -1,
+  "knownIds": [
+    117835
+  ]
+}

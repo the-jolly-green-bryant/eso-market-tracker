@@ -1,0 +1,19 @@
+{
+  "internalId": 1244358436,
+  "name": "Shirt of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58168,
+    58204,
+    58239,
+    58274,
+    58309,
+    58344,
+    58379,
+    58414,
+    58449,
+    58484
+  ]
+}

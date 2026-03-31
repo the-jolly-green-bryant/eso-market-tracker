@@ -1,0 +1,10 @@
+{
+  "internalId": 2827831432,
+  "name": "Plant, Pineapple",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_pineapplebush002.png",
+  "bindType": -1,
+  "knownIds": [
+    214485
+  ]
+}

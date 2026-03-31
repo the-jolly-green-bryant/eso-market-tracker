@@ -1,0 +1,10 @@
+{
+  "internalId": 2870234983,
+  "name": "High Elf Basin, Standing",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_planternodirt001.png",
+  "bindType": -1,
+  "knownIds": [
+    114397
+  ]
+}

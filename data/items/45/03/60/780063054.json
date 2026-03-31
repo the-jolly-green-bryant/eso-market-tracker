@@ -1,0 +1,19 @@
+{
+  "internalId": 780063054,
+  "name": "New Moon Acolyte's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156170,
+    156225,
+    156260,
+    156295,
+    156330,
+    156365,
+    156400,
+    156435,
+    156470,
+    156505
+  ]
+}

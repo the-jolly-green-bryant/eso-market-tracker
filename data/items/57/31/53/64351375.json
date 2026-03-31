@@ -1,0 +1,10 @@
+{
+  "internalId": 64351375,
+  "name": "Nord Nightstand, Rough",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_endtable001.png",
+  "bindType": -1,
+  "knownIds": [
+    115355
+  ]
+}

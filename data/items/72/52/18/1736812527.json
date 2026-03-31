@@ -1,0 +1,19 @@
+{
+  "internalId": 1736812527,
+  "name": "Telvanni Efficiency Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194945,
+    195000,
+    195035,
+    195070,
+    195105,
+    195140,
+    195175,
+    195210,
+    195245,
+    195280
+  ]
+}

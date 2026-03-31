@@ -1,0 +1,11 @@
+{
+  "internalId": 496511513,
+  "name": "Croc Hunter's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
+  "bindType": -1,
+  "knownIds": [
+    604807,
+    792269
+  ]
+}

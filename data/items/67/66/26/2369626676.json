@@ -1,0 +1,19 @@
+{
+  "internalId": 2369626676,
+  "name": "Gladiator's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75412,
+    75447,
+    75482,
+    75517,
+    75552,
+    75587,
+    75622,
+    75657,
+    75692,
+    75727
+  ]
+}

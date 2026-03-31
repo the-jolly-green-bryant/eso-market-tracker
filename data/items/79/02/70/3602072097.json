@@ -1,0 +1,17 @@
+{
+  "internalId": 3602072097,
+  "name": "Netch Oil Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211932,
+    211952,
+    211972,
+    211992,
+    212012,
+    212032,
+    212052,
+    212072
+  ]
+}

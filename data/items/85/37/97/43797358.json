@@ -1,0 +1,14 @@
+{
+  "internalId": 43797358,
+  "name": "Marksman's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199504,
+    199505,
+    199506,
+    199507,
+    199508
+  ]
+}

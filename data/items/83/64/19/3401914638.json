@@ -1,0 +1,11 @@
+{
+  "internalId": 3401914638,
+  "name": "Pauldron of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95868,
+    95988
+  ]
+}

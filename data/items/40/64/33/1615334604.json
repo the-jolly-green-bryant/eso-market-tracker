@@ -1,0 +1,17 @@
+{
+  "internalId": 1615334604,
+  "name": "Lamp Knight's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213924,
+    213944,
+    213964,
+    213984,
+    214004,
+    214024,
+    214044,
+    214064
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": 2583741961,
+  "name": "Longclaw's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png",
+  "bindType": -1,
+  "knownIds": [
+    378355,
+    581908,
+    810589,
+    805057,
+    875813,
+    895073,
+    936181,
+    980475,
+    1233922,
+    1311267,
+    1407267,
+    1454739,
+    1457772,
+    1526553,
+    1556563,
+    1631682
+  ]
+}

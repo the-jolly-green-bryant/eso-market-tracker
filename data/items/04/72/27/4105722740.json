@@ -1,0 +1,19 @@
+{
+  "internalId": 4105722740,
+  "name": "New Moon Acolyte's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156162,
+    156217,
+    156252,
+    156287,
+    156322,
+    156357,
+    156392,
+    156427,
+    156462,
+    156497
+  ]
+}

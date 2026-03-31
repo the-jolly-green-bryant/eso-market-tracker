@@ -1,0 +1,10 @@
+{
+  "internalId": 2139037320,
+  "name": "Secret Ointment Jar",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
+  "bindType": -1,
+  "knownIds": [
+    846143
+  ]
+}

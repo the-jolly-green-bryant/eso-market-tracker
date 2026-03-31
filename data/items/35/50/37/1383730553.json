@@ -1,0 +1,10 @@
+{
+  "internalId": 1383730553,
+  "name": "Corgrad Heirloom Belt",
+  "description": "An ancient belt Faidur found in the half-drowned ruins of Corgrad.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    134719
+  ]
+}

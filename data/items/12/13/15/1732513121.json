@@ -1,0 +1,10 @@
+{
+  "internalId": 1732513121,
+  "name": "Daedric Turret, Flame Tower",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_duc_dedflametowerturret001.png",
+  "bindType": -1,
+  "knownIds": [
+    196207
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2036131141,
+  "name": "Greatsword of the Veiled Heritance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    94261,
+    94281,
+    94301,
+    94321,
+    94341,
+    94361,
+    94381,
+    94401
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 25253428,
+  "name": "Amulet of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185187,
+    185189,
+    185191,
+    185193,
+    185195,
+    185197,
+    185199,
+    185201,
+    185203,
+    185205
+  ]
+}

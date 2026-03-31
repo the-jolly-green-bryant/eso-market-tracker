@@ -1,0 +1,17 @@
+{
+  "internalId": 4182226607,
+  "name": "Sabatons of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84539,
+    84559,
+    84579,
+    84599,
+    84619,
+    84639,
+    84659,
+    84679
+  ]
+}

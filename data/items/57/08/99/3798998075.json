@@ -1,0 +1,10 @@
+{
+  "internalId": 3798998075,
+  "name": "Crafting Motif 58: Fang Lair Swords",
+  "description": "Use to learn how to make Fang Lair Swords. Also teaches the equivalent Fang Lair Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    134769
+  ]
+}

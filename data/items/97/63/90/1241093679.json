@@ -1,0 +1,13 @@
+{
+  "internalId": 1241093679,
+  "name": "splendid glyph of stamina recovery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png",
+  "bindType": -1,
+  "knownIds": [
+    573548,
+    526794,
+    1459697,
+    1549989
+  ]
+}

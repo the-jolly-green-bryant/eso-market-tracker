@@ -1,0 +1,24 @@
+{
+  "internalId": 525804183,
+  "name": "Bracers of Phylactery's Grasp",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_medium_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600589,
+    1600788,
+    1600820,
+    1600879,
+    1602531,
+    1602766,
+    1603178,
+    1606910,
+    1616167,
+    1619550,
+    1629483,
+    1629494,
+    1633862,
+    1657043,
+    1679708
+  ]
+}

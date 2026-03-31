@@ -1,0 +1,10 @@
+{
+  "internalId": 481685118,
+  "name": "Limestone Stairway, Natural",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonestairs002.png",
+  "bindType": -1,
+  "knownIds": [
+    139117
+  ]
+}

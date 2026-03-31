@@ -1,0 +1,10 @@
+{
+  "internalId": 121662046,
+  "name": "Aldmeri Exile's Shield",
+  "description": "The ravages of time may have tarnished this aegis, but it remains strong enough to deflect a golem's blows.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2_shield.png",
+  "bindType": -1,
+  "knownIds": [
+    171936
+  ]
+}

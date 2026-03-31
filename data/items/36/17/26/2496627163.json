@@ -1,0 +1,10 @@
+{
+  "internalId": 2496627163,
+  "name": "Swamp Jelly Fine-Mesh Net",
+  "description": "This is one of seven parts of the Swamp Jelly Runebox.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png",
+  "bindType": -1,
+  "knownIds": [
+    141742
+  ]
+}

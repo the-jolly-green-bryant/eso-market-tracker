@@ -1,0 +1,10 @@
+{
+  "internalId": 3851658799,
+  "name": "Display Case, Specimen",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_reliccase007.png",
+  "bindType": -1,
+  "knownIds": [
+    139304
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3667103235,
+  "name": "Telvanni Shelves, Organic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_telshelvesorganic002.png",
+  "bindType": -1,
+  "knownIds": [
+    126427
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1805094170,
+  "name": "Song of Lamae Light Armor",
+  "description": "A Crafted Armor set constructed in Malabal Tor, Alik'r Desert, and Eastmarch.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182420
+  ]
+}

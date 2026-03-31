@@ -1,0 +1,18 @@
+{
+  "internalId": 1435866446,
+  "name": "The Master's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hhammer_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1196520,
+    1385565,
+    1423722,
+    1506259,
+    1507667,
+    1525438,
+    1572661,
+    1631703,
+    1685201
+  ]
+}

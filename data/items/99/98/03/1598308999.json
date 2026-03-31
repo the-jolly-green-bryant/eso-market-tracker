@@ -1,0 +1,10 @@
+{
+  "internalId": 1598308999,
+  "name": "Velothi Painting, Oversized Waterfall",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_paintingclrg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126607
+  ]
+}

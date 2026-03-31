@@ -1,0 +1,18 @@
+{
+  "internalId": 1120034439,
+  "name": "Stuhn's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161290,
+    161325,
+    161360,
+    161395,
+    161430,
+    161465,
+    161500,
+    161535,
+    161570
+  ]
+}

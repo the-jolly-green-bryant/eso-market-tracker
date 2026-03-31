@@ -1,0 +1,12 @@
+{
+  "internalId": 2611439882,
+  "name": "Dreamer's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98062,
+    98083,
+    98104
+  ]
+}

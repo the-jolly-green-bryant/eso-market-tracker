@@ -1,0 +1,12 @@
+{
+  "internalId": 1007873881,
+  "name": "Necklace of Agility",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    69386,
+    69388,
+    69390
+  ]
+}

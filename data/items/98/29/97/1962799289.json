@@ -1,0 +1,13 @@
+{
+  "internalId": 1962799289,
+  "name": "Briarheart Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_2haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129701,
+    129713,
+    129725,
+    129737
+  ]
+}

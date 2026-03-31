@@ -1,0 +1,10 @@
+{
+  "internalId": 3157031868,
+  "name": "Common Crate, Fabric Bolts",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketclothrollset001.png",
+  "bindType": -1,
+  "knownIds": [
+    192579
+  ]
+}

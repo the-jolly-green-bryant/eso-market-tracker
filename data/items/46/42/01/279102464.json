@@ -1,0 +1,10 @@
+{
+  "internalId": 279102464,
+  "name": "Hlaalu Councilor Tapestry",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryhlaalucouncilorsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    188276
+  ]
+}

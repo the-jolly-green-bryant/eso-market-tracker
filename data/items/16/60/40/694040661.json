@@ -1,0 +1,14 @@
+{
+  "internalId": 694040661,
+  "name": "Pearlescent Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_mace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1636229,
+    1652129,
+    1699129,
+    1744465,
+    1764502
+  ]
+}

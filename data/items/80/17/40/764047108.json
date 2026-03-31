@@ -1,0 +1,17 @@
+{
+  "internalId": 764047108,
+  "name": "Sword of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93361,
+    93381,
+    93401,
+    93421,
+    93441,
+    93461,
+    93481,
+    93501
+  ]
+}

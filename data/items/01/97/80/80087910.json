@@ -1,0 +1,10 @@
+{
+  "internalId": 80087910,
+  "name": "Weapons: Briarheart",
+  "description": "A Medium Armor set found in Wrothgar.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134066
+  ]
+}

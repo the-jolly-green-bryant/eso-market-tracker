@@ -1,0 +1,18 @@
+{
+  "internalId": 2424148851,
+  "name": "Mighty Glacier's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1404570,
+    1409144,
+    1448606,
+    1526899,
+    1558543,
+    1560817,
+    1561482,
+    1639812,
+    1695094
+  ]
+}

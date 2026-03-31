@@ -1,0 +1,10 @@
+{
+  "internalId": 2015781897,
+  "name": "Lighting Furnishing Recipe Book",
+  "description": "This book is a collection of notes from a lampmaker, and reading it teaches all Lighting Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color5.png",
+  "bindType": -1,
+  "knownIds": [
+    214288
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1529264886,
+  "name": "Cured Meat Hock",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_meatchuncks006.png",
+  "bindType": -1,
+  "knownIds": [
+    118181
+  ]
+}

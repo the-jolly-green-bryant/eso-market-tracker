@@ -1,0 +1,13 @@
+{
+  "internalId": 2497463585,
+  "name": "Indomitable Fury Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143993,
+    144014,
+    144035,
+    144056
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4199414109,
+  "name": "Defiler's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122996,
+    123016,
+    123036,
+    123056,
+    123076,
+    123096,
+    123116,
+    123136
+  ]
+}

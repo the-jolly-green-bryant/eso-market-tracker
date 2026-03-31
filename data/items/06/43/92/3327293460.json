@@ -1,0 +1,17 @@
+{
+  "internalId": 3327293460,
+  "name": "Ravaging Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89444,
+    89464,
+    89484,
+    89504,
+    89524,
+    89544,
+    89564,
+    89584
+  ]
+}

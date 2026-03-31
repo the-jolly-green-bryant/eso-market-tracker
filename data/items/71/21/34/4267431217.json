@@ -1,0 +1,16 @@
+{
+  "internalId": 4267431217,
+  "name": "Sithis' Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77277,
+    77312,
+    77347,
+    77382,
+    77417,
+    77452,
+    77487
+  ]
+}

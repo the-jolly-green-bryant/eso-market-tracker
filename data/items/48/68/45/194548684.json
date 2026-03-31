@@ -1,0 +1,10 @@
+{
+  "internalId": 194548684,
+  "name": "Rigurt's Cultural Coif",
+  "description": "Rigurt the Brash gave you this coif for assisting the Nord Cultural Exchange in Mournhold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    4306
+  ]
+}

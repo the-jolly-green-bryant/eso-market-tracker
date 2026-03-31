@@ -1,0 +1,10 @@
+{
+  "internalId": 3152961639,
+  "name": "Solitude Bed, Rustic Bearskin Double",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_beddouble004.png",
+  "bindType": -1,
+  "knownIds": [
+    165741
+  ]
+}

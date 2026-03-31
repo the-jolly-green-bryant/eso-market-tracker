@@ -1,0 +1,17 @@
+{
+  "internalId": 3957897572,
+  "name": "Jerkin of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86763,
+    86784,
+    86805,
+    86826,
+    86847,
+    86868,
+    86889,
+    86910
+  ]
+}

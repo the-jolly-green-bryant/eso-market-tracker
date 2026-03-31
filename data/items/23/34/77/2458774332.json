@@ -1,0 +1,18 @@
+{
+  "internalId": 2458774332,
+  "name": "Helm of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhosthvy_helmet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161024,
+    161044,
+    161064,
+    161084,
+    161104,
+    161124,
+    161144,
+    161164,
+    161184
+  ]
+}

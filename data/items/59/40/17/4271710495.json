@@ -1,0 +1,10 @@
+{
+  "internalId": 4271710495,
+  "name": "High Elf Carpet, Rustic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_rug003.png",
+  "bindType": -1,
+  "knownIds": [
+    114338
+  ]
+}

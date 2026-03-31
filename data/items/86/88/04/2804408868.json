@@ -1,0 +1,17 @@
+{
+  "internalId": 2804408868,
+  "name": "Crafty Alfiq's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149249,
+    149270,
+    149291,
+    149312,
+    149333,
+    149354,
+    149375,
+    149396
+  ]
+}

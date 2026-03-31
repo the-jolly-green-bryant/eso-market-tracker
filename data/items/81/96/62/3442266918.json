@@ -1,0 +1,17 @@
+{
+  "internalId": 3442266918,
+  "name": "Ice Staff of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204250,
+    204270,
+    204290,
+    204310,
+    204330,
+    204350,
+    204370,
+    204390
+  ]
+}

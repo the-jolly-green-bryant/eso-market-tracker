@@ -1,0 +1,10 @@
+{
+  "internalId": 1817790800,
+  "name": "Inspired Cowl",
+  "description": "Wearing this cowl instills a sense of freedom. Your fate is yours alone to decide.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7526
+  ]
+}

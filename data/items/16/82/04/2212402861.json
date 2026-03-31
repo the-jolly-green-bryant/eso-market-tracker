@@ -1,0 +1,10 @@
+{
+  "internalId": 2212402861,
+  "name": "Indoril Runner, Vivec",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlarugvivec001.png",
+  "bindType": -1,
+  "knownIds": [
+    126547
+  ]
+}

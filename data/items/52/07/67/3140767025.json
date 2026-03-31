@@ -1,0 +1,10 @@
+{
+  "internalId": 3140767025,
+  "name": "Merchant's Waistband",
+  "description": "Meant for a traveler's protection, the waistband is nevertheless attractive and can be worn on all occasions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208151
+  ]
+}

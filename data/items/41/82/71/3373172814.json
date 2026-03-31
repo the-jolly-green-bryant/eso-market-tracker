@@ -1,0 +1,13 @@
+{
+  "internalId": 3373172814,
+  "name": "Shacklebreaker Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    122493,
+    122528,
+    122563,
+    122598
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1076273001,
+  "name": "Fargrave Counter, Merchant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farmerchantstall001.png",
+  "bindType": -1,
+  "knownIds": [
+    182222
+  ]
+}

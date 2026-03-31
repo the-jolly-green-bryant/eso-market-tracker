@@ -1,0 +1,10 @@
+{
+  "internalId": 1675532616,
+  "name": "Mages Guild Citation",
+  "description": "When used, this citation grants 15 points of Mages Guild Reputation. You must already be a member of the Mages Guild to use this item, and cannot use it if your Mages Guild Rank is 10.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_item_u49_mages_guild_citation.png",
+  "bindType": -1,
+  "knownIds": [
+    203716
+  ]
+}

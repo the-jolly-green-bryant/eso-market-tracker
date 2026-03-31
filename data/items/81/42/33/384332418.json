@@ -1,0 +1,10 @@
+{
+  "internalId": 384332418,
+  "name": "Bound Crown Lethal Poison",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpoison_lethal.png",
+  "bindType": 3,
+  "knownIds": [
+    135121
+  ]
+}

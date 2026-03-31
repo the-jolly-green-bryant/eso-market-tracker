@@ -1,0 +1,17 @@
+{
+  "internalId": 1336883649,
+  "name": "Mace of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93360,
+    93380,
+    93400,
+    93420,
+    93440,
+    93460,
+    93480,
+    93500
+  ]
+}

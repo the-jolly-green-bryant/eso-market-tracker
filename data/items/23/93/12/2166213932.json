@@ -1,0 +1,17 @@
+{
+  "internalId": 2166213932,
+  "name": "Eagle Eye Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183207,
+    183211,
+    183215,
+    183219,
+    183223,
+    183227,
+    183231,
+    183235
+  ]
+}

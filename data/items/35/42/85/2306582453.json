@@ -1,0 +1,13 @@
+{
+  "internalId": 2306582453,
+  "name": "Dagger of Destruction Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87378,
+    87399,
+    87420,
+    87441
+  ]
+}

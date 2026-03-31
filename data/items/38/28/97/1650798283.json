@@ -1,0 +1,11 @@
+{
+  "internalId": 1650798283,
+  "name": "Bound Signature Script: Sage's Remedy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_healovertime.png",
+  "bindType": -1,
+  "knownIds": [
+    1720791,
+    1725179
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3463901842,
+  "name": "Nobility in Decay Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1687204,
+    1718828,
+    1720862,
+    1755045
+  ]
+}

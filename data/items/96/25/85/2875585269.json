@@ -1,0 +1,14 @@
+{
+  "internalId": 2875585269,
+  "name": "Reawakened Hierophant Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_shield.png",
+  "bindType": -1,
+  "knownIds": [
+    1683232,
+    1716867,
+    1717388,
+    1720479,
+    1735245
+  ]
+}

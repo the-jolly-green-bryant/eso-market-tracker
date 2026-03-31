@@ -1,0 +1,24 @@
+{
+  "internalId": 4197501684,
+  "name": "Roaring Opportunist's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_shield.png",
+  "bindType": -1,
+  "knownIds": [
+    1388394,
+    1389307,
+    1391425,
+    1395937,
+    1404501,
+    1409542,
+    1411602,
+    1467052,
+    1559925,
+    1601126,
+    1615246,
+    1622656,
+    1683359,
+    1746081,
+    1779057
+  ]
+}

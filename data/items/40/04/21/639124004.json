@@ -1,0 +1,10 @@
+{
+  "internalId": 639124004,
+  "name": "Seal of Clan Tumnosh, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_puzzledoorplatetumnosh001.png",
+  "bindType": -1,
+  "knownIds": [
+    134452
+  ]
+}

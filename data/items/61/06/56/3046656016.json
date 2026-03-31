@@ -1,0 +1,10 @@
+{
+  "internalId": 3046656016,
+  "name": "Treva's Bow",
+  "description": "Left behind by Grandfather Treva for freeing him and his farmhands' spirits from the Worm Cult.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10974
+  ]
+}

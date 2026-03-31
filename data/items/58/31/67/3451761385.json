@@ -1,0 +1,16 @@
+{
+  "internalId": 3451761385,
+  "name": "Maul of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85639,
+    85660,
+    85681,
+    85702,
+    85723,
+    85744,
+    85765
+  ]
+}

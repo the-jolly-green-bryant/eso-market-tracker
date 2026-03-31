@@ -1,0 +1,10 @@
+{
+  "internalId": 3592206056,
+  "name": "Ferrous Salts",
+  "description": "An ingredient for crafting in the Yokudan style.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_humanoid_daedra_void_salts.png",
+  "bindType": -1,
+  "knownIds": [
+    64685
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1792719412,
+  "name": "Axe of the Phoenix",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116898,
+    116919,
+    116940,
+    116961,
+    116982,
+    117003,
+    117024,
+    117045
+  ]
+}

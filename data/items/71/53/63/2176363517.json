@@ -1,0 +1,10 @@
+{
+  "internalId": 2176363517,
+  "name": "Lilytongue",
+  "description": "An exquisite harp of Altmer design that dates from the First Era. Bring this to the Bards College in Solitude, in Western Skyrim.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_fiirgarion_harp.png",
+  "bindType": 3,
+  "knownIds": [
+    156800
+  ]
+}

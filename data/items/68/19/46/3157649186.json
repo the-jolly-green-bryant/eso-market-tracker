@@ -1,0 +1,11 @@
+{
+  "internalId": 3157649186,
+  "name": "Greaves of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95867,
+    95987
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 314111384,
+  "name": "Jewelry: Bog Raider",
+  "description": "A Heavy Armor set found in Blackwood.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    172450
+  ]
+}

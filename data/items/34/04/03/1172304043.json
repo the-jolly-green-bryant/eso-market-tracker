@@ -1,0 +1,19 @@
+{
+  "internalId": 1172304043,
+  "name": "Greatsword of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71818,
+    71853,
+    71888,
+    71923,
+    71958,
+    71993,
+    72028,
+    72063,
+    72098,
+    72133
+  ]
+}

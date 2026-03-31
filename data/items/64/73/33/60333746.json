@@ -1,0 +1,11 @@
+{
+  "internalId": 60333746,
+  "name": "Noxious Boulder Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1748685,
+    1754501
+  ]
+}

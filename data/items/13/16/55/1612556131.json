@@ -1,0 +1,10 @@
+{
+  "internalId": 1612556131,
+  "name": "Unidentified Phoenix Item",
+  "description": "This box contains an Superior-quality item of the Phoenix item set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    212382
+  ]
+}

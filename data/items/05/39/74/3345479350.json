@@ -1,0 +1,13 @@
+{
+  "internalId": 3345479350,
+  "name": "Sword of Leeching",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialerialdaedric_1hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1078955,
+    1144349,
+    1156974,
+    1533426
+  ]
+}

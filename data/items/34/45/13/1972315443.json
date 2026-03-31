@@ -1,0 +1,10 @@
+{
+  "internalId": 1972315443,
+  "name": "Bag of Veteran's Glory",
+  "description": "This weathered sack contains Whitestrake's Mayhem rewards from years past which are no longer available through any other means.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/zonebag.png",
+  "bindType": 3,
+  "knownIds": [
+    192613
+  ]
+}

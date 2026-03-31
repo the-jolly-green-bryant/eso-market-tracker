@@ -1,0 +1,19 @@
+{
+  "internalId": 4130501350,
+  "name": "Mace of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161596,
+    161651,
+    161686,
+    161721,
+    161756,
+    161791,
+    161826,
+    161861,
+    161896,
+    161931
+  ]
+}

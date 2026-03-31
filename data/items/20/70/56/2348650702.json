@@ -1,0 +1,11 @@
+{
+  "internalId": 2348650702,
+  "name": "Fledgling's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1751989,
+    1762332
+  ]
+}

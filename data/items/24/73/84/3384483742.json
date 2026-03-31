@@ -1,0 +1,10 @@
+{
+  "internalId": 3384483742,
+  "name": "Pathwalker's Shield",
+  "description": "The light of Jone and Jode seems to flow from every scar on this shield's surface.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    27215
+  ]
+}

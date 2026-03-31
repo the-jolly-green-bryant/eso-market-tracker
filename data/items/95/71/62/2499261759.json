@@ -1,0 +1,17 @@
+{
+  "internalId": 2499261759,
+  "name": "Battle Axe of Bulwark Ruination",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211586,
+    211607,
+    211628,
+    211649,
+    211670,
+    211691,
+    211712,
+    211733
+  ]
+}

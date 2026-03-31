@@ -1,0 +1,10 @@
+{
+  "internalId": 2159549225,
+  "name": "Mage's Regret",
+  "description": "Mercano's old dagger practically oozes with regret. What did he use it for?",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10840
+  ]
+}

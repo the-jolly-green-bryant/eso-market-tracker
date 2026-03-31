@@ -1,0 +1,19 @@
+{
+  "internalId": 2601632070,
+  "name": "Seeker Synthesis Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195323,
+    195378,
+    195413,
+    195448,
+    195483,
+    195518,
+    195553,
+    195588,
+    195623,
+    195658
+  ]
+}

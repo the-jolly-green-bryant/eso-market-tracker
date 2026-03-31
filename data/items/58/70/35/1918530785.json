@@ -1,0 +1,14 @@
+{
+  "internalId": 1918530785,
+  "name": "Heroic Unity Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1749056,
+    1749822,
+    1754596,
+    1758015,
+    1762976
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": 777063564,
+  "name": "Dro'zakar's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1390719,
+    1421230,
+    1422466,
+    1484796,
+    1543234,
+    1605459,
+    1621106,
+    1624701,
+    1640032,
+    1654413,
+    1723644,
+    1750729,
+    1764898
+  ]
+}

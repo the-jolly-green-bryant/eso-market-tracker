@@ -1,0 +1,19 @@
+{
+  "internalId": 2445215513,
+  "name": "Heartland Conqueror's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172840,
+    172895,
+    172930,
+    172965,
+    173000,
+    173035,
+    173070,
+    173105,
+    173140,
+    173175
+  ]
+}

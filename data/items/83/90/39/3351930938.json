@@ -1,0 +1,18 @@
+{
+  "internalId": 3351930938,
+  "name": "Greatsword of Rushing Agony",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_2hsword.png",
+  "bindType": -1,
+  "knownIds": [
+    1525659,
+    1556142,
+    1565054,
+    1582192,
+    1624011,
+    1680796,
+    1691884,
+    1715781,
+    1733743
+  ]
+}

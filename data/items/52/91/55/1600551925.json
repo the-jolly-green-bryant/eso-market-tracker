@@ -1,0 +1,10 @@
+{
+  "internalId": 1600551925,
+  "name": "Breton Divider, Folded Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_screen001.png",
+  "bindType": -1,
+  "knownIds": [
+    115225
+  ]
+}

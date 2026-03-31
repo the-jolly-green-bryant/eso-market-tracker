@@ -1,0 +1,17 @@
+{
+  "internalId": 1603670689,
+  "name": "Shell Splitter Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194041,
+    194061,
+    194081,
+    194101,
+    194121,
+    194141,
+    194161,
+    194181
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 1143230715,
+  "name": "Xanmeer Genesis Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223425,
+    223460,
+    223495
+  ]
+}

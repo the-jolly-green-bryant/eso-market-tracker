@@ -1,0 +1,11 @@
+{
+  "internalId": 351820941,
+  "name": "greater glyph of absorb health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_healthabsorbtion.png",
+  "bindType": -1,
+  "knownIds": [
+    535006,
+    1446892
+  ]
+}

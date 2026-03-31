@@ -1,0 +1,31 @@
+{
+  "internalId": 2595766609,
+  "name": "Corseted Long Dress",
+  "description": "A low-cut corseted dress.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
+  "bindType": -1,
+  "knownIds": [
+    64187,
+    64188,
+    64189,
+    64190,
+    64191,
+    64192,
+    64193,
+    64194,
+    64195,
+    64196,
+    64197,
+    64198,
+    64199,
+    64200,
+    64201,
+    64202,
+    64203,
+    64204,
+    64205,
+    64206,
+    64207,
+    64208
+  ]
+}

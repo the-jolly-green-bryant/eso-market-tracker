@@ -1,0 +1,13 @@
+{
+  "internalId": 1910932164,
+  "name": "Hircine's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77731,
+    77767,
+    77803,
+    77839
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 697915570,
+  "name": "Shield of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85092,
+    85113,
+    85134,
+    85155,
+    85176,
+    85197,
+    85218,
+    85239
+  ]
+}

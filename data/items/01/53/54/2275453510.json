@@ -1,0 +1,10 @@
+{
+  "internalId": 2275453510,
+  "name": "Spiritmender's Staff",
+  "description": "This staff is imbued with the strength of scores of restful spirits.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    29940
+  ]
+}

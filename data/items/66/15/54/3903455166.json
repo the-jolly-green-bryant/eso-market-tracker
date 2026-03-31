@@ -1,0 +1,17 @@
+{
+  "internalId": 3903455166,
+  "name": "Gossamer Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    919733,
+    921712,
+    934577,
+    1145782,
+    1205450,
+    1375255,
+    1460959,
+    1474646
+  ]
+}

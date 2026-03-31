@@ -1,0 +1,17 @@
+{
+  "internalId": 2829867198,
+  "name": "Cuirass of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180277,
+    180297,
+    180317,
+    180337,
+    180357,
+    180377,
+    180397,
+    180417
+  ]
+}

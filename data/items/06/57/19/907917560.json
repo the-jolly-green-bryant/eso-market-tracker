@@ -1,0 +1,19 @@
+{
+  "internalId": 907917560,
+  "name": "Hist Whisperer's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172483,
+    172538,
+    172573,
+    172608,
+    172643,
+    172678,
+    172713,
+    172748,
+    172783,
+    172818
+  ]
+}

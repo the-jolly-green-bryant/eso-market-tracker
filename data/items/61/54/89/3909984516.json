@@ -1,0 +1,11 @@
+{
+  "internalId": 3909984516,
+  "name": "Apple-Bobbing Poise Guide",
+  "description": "This is one of seven parts of the Apple-Bobbing Cauldron Runebox.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail4_color3.png",
+  "bindType": -1,
+  "knownIds": [
+    153490,
+    141912
+  ]
+}

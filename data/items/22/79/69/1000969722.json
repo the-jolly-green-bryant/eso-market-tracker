@@ -1,0 +1,15 @@
+{
+  "internalId": 1000969722,
+  "name": "Helmet of the Undaunted Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59254,
+    59275,
+    59296,
+    59317,
+    59338,
+    59359
+  ]
+}

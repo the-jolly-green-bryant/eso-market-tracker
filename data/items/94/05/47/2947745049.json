@@ -1,0 +1,18 @@
+{
+  "internalId": 2947745049,
+  "name": "Plague Slinger Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1476606,
+    1476616,
+    1490119,
+    1595277,
+    1691971,
+    1712925,
+    1731286,
+    1731920,
+    1747654
+  ]
+}

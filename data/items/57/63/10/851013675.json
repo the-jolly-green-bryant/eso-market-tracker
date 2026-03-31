@@ -1,0 +1,14 @@
+{
+  "internalId": 851013675,
+  "name": "Shattered Fate Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194779,
+    194814,
+    194849,
+    194884,
+    194919
+  ]
+}

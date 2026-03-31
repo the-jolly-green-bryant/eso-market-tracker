@@ -1,0 +1,19 @@
+{
+  "internalId": 127078191,
+  "name": "Ancient Dragonguard's Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    155806,
+    155861,
+    155896,
+    155931,
+    155966,
+    156001,
+    156036,
+    156071,
+    156106,
+    156141
+  ]
+}

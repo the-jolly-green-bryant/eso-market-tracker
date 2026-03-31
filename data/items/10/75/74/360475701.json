@@ -1,0 +1,12 @@
+{
+  "internalId": 360475701,
+  "name": "Nose Shackle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_001.png",
+  "bindType": -1,
+  "knownIds": [
+    804034,
+    1148403,
+    1319137
+  ]
+}

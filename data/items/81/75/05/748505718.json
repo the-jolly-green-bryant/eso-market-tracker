@@ -1,0 +1,24 @@
+{
+  "internalId": 748505718,
+  "name": "Unleashed Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcticvampire_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1379822,
+    1388812,
+    1392454,
+    1408850,
+    1409982,
+    1497325,
+    1572093,
+    1588721,
+    1595075,
+    1617655,
+    1632186,
+    1659398,
+    1696560,
+    1716097,
+    1779230
+  ]
+}

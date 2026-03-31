@@ -1,0 +1,17 @@
+{
+  "internalId": 3638776820,
+  "name": "Telvanni Enforcer Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628774,
+    1634243,
+    1636350,
+    1636364,
+    1724593,
+    1734366,
+    1747685,
+    1768068
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 2480754888,
+  "name": "Guards of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168156,
+    168191,
+    168226,
+    168261,
+    168296,
+    168331,
+    168366
+  ]
+}

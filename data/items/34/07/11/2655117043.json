@@ -1,0 +1,17 @@
+{
+  "internalId": 2655117043,
+  "name": "Inferno Staff of the Twin Sisters",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92275,
+    92295,
+    92315,
+    92335,
+    92355,
+    92375,
+    92395,
+    92415
+  ]
+}

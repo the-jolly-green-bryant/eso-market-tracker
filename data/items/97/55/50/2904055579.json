@@ -1,0 +1,10 @@
+{
+  "internalId": 2904055579,
+  "name": "High Elf Armoire, Winged",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_cabinet001.png",
+  "bindType": -1,
+  "knownIds": [
+    114377
+  ]
+}

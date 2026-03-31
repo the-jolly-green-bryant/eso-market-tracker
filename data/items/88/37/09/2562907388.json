@@ -1,0 +1,16 @@
+{
+  "internalId": 2562907388,
+  "name": "Sithis' Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77281,
+    77316,
+    77351,
+    77386,
+    77421,
+    77456,
+    77491
+  ]
+}

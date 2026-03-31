@@ -1,0 +1,10 @@
+{
+  "internalId": 920568665,
+  "name": "Kyne's Honor",
+  "description": "You received this amulet for helping Captain Alhana and her soldiers at Kynesgrove.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    7727
+  ]
+}

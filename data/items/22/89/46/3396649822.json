@@ -1,0 +1,10 @@
+{
+  "internalId": 3396649822,
+  "name": "Crafting Motif 49: Militant Ordinator Legs",
+  "description": "Use to learn how to make Militant Ordinator Legs. Requires Rank 8 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Militant Ordinator Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    121357
+  ]
+}

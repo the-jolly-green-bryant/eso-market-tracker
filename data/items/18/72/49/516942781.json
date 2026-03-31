@@ -1,0 +1,17 @@
+{
+  "internalId": 516942781,
+  "name": "Lightning Staff of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189691,
+    189711,
+    189731,
+    189751,
+    189771,
+    189791,
+    189811,
+    189831
+  ]
+}

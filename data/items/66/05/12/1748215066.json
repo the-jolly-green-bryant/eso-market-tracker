@@ -1,0 +1,10 @@
+{
+  "internalId": 1748215066,
+  "name": "Stone, Angled Mossy",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_mrksmall004.png",
+  "bindType": -1,
+  "knownIds": [
+    120727
+  ]
+}

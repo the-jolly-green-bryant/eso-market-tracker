@@ -1,0 +1,10 @@
+{
+  "internalId": 1280558802,
+  "name": "Redguard Mat, Desert Sun",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmall003.png",
+  "bindType": -1,
+  "knownIds": [
+    117762
+  ]
+}

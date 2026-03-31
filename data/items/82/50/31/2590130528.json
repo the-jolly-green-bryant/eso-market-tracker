@@ -1,0 +1,17 @@
+{
+  "internalId": 2590130528,
+  "name": "Ravaging Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89449,
+    89469,
+    89489,
+    89509,
+    89529,
+    89549,
+    89569,
+    89589
+  ]
+}

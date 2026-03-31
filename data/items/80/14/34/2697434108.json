@@ -1,0 +1,23 @@
+{
+  "internalId": 2697434108,
+  "name": "Spell Power Cure Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    981195,
+    1082997,
+    1089696,
+    1159660,
+    1172722,
+    1261486,
+    1268343,
+    1303358,
+    1493648,
+    1504399,
+    1602726,
+    1626604,
+    1641268,
+    1755836
+  ]
+}

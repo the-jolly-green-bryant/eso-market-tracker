@@ -1,0 +1,10 @@
+{
+  "internalId": 1552602048,
+  "name": "Construct's Spine",
+  "description": "A metal spine with several interconnected metal dics, belonging to a humanoid construct. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_vvardenfell_saint_felms_finger.png",
+  "bindType": 3,
+  "knownIds": [
+    129906
+  ]
+}

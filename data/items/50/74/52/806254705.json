@@ -1,0 +1,10 @@
+{
+  "internalId": 806254705,
+  "name": "Scale Model Dominion Catapult",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_003.png",
+  "bindType": -1,
+  "knownIds": [
+    1095244
+  ]
+}

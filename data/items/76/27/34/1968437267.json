@@ -1,0 +1,10 @@
+{
+  "internalId": 1968437267,
+  "name": "Druidic Chandelier, Firesong",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_druflamechandelier002.png",
+  "bindType": -1,
+  "knownIds": [
+    191200
+  ]
+}

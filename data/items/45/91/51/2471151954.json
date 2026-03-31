@@ -1,0 +1,10 @@
+{
+  "internalId": 2471151954,
+  "name": "Overwhelming Surge",
+  "description": "A Light Armor set found in Tempest Island.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134162
+  ]
+}

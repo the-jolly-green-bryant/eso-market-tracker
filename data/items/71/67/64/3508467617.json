@@ -1,0 +1,10 @@
+{
+  "internalId": 3508467617,
+  "name": "Leyawiin Chandelier, Grand Brass",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leychandelier001.png",
+  "bindType": -1,
+  "knownIds": [
+    175646
+  ]
+}

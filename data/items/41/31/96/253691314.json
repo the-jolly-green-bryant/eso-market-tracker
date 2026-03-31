@@ -1,0 +1,10 @@
+{
+  "internalId": 253691314,
+  "name": "High Isle Wardrobe, Rustic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_cabinetlow001.png",
+  "bindType": -1,
+  "knownIds": [
+    187819
+  ]
+}

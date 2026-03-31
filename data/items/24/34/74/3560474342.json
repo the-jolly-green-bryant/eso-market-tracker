@@ -1,0 +1,17 @@
+{
+  "internalId": 3560474342,
+  "name": "Dead-Water's Guile Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142433,
+    142453,
+    142473,
+    142493,
+    142513,
+    142533,
+    142553,
+    142573
+  ]
+}

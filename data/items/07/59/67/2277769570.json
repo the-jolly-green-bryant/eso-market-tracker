@@ -1,0 +1,17 @@
+{
+  "internalId": 2277769570,
+  "name": "Sabatons of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78622,
+    78657,
+    78692,
+    78727,
+    78762,
+    78797,
+    78832,
+    78867
+  ]
+}

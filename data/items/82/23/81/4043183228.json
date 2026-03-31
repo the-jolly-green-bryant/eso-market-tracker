@@ -1,0 +1,10 @@
+{
+  "internalId": 4043183228,
+  "name": "Bat Swarm, Domesticated",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/u35_furnishing_bats.png",
+  "bindType": -1,
+  "knownIds": [
+    188342
+  ]
+}

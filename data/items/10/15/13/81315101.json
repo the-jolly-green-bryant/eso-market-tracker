@@ -1,0 +1,10 @@
+{
+  "internalId": 81315101,
+  "name": "Bound Focus Script: Mitigation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_bonusarmor.png",
+  "bindType": -1,
+  "knownIds": [
+    1719621
+  ]
+}

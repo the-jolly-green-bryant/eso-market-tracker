@@ -1,0 +1,10 @@
+{
+  "internalId": 3941854988,
+  "name": "Voidstone Ore",
+  "description": "Ten of these items can be refined to make voidstone ingots.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_voidstone.png",
+  "bindType": -1,
+  "knownIds": [
+    23135
+  ]
+}

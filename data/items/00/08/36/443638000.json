@@ -1,0 +1,10 @@
+{
+  "internalId": 443638000,
+  "name": "Necrom Roof, Gable",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_housingneccityroofceiling002.png",
+  "bindType": -1,
+  "knownIds": [
+    198023
+  ]
+}

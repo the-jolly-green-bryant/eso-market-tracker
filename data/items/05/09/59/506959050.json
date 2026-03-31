@@ -1,0 +1,19 @@
+{
+  "internalId": 506959050,
+  "name": "Nocturnal's Favored Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136440,
+    136475,
+    136510,
+    136545,
+    136580,
+    136615,
+    136650,
+    136685,
+    136720,
+    136755
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 4279302647,
+  "name": "Nix-Hound's Howl Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_medium_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1628766,
+    1628916,
+    1629538,
+    1629584,
+    1631240,
+    1631878,
+    1633668,
+    1636232,
+    1657971,
+    1751257
+  ]
+}

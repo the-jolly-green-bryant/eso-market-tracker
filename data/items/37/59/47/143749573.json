@@ -1,0 +1,19 @@
+{
+  "internalId": 143749573,
+  "name": "Tharriker's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205416,
+    205471,
+    205506,
+    205541,
+    205576,
+    205611,
+    205646,
+    205681,
+    205716,
+    205751
+  ]
+}

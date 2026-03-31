@@ -1,0 +1,19 @@
+{
+  "internalId": 3389076980,
+  "name": "Test of Resolve Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_heavy_shoulders_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1644220,
+    1644877,
+    1647503,
+    1650470,
+    1652150,
+    1652162,
+    1657176,
+    1686731,
+    1716198,
+    1717325
+  ]
+}

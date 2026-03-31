@@ -1,0 +1,17 @@
+{
+  "internalId": 28819164,
+  "name": "Bracers of Night Terror",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    97789,
+    97809,
+    97829,
+    97849,
+    97869,
+    97889,
+    97909,
+    97929
+  ]
+}

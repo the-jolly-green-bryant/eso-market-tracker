@@ -1,0 +1,17 @@
+{
+  "internalId": 2825540198,
+  "name": "Inferno Staff of Glory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1291450,
+    1331420,
+    1384490,
+    1399083,
+    1525457,
+    1551778,
+    1583916,
+    1690265
+  ]
+}

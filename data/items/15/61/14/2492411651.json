@@ -1,0 +1,10 @@
+{
+  "internalId": 2492411651,
+  "name": "Log, Rotten Bog",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_mrkrottenlog001.png",
+  "bindType": -1,
+  "knownIds": [
+    130286
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2482629674,
+  "name": "Maul of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92817,
+    92837,
+    92857,
+    92877,
+    92897,
+    92917,
+    92937,
+    92957
+  ]
+}

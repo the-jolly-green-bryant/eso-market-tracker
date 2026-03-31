@@ -1,0 +1,16 @@
+{
+  "internalId": 1138151091,
+  "name": "Eye of the Grasp Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    179962,
+    179983,
+    180004,
+    180025,
+    180046,
+    180067,
+    180088
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3781263757,
+  "name": "Sabatons of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88183,
+    88203,
+    88223,
+    88243,
+    88263,
+    88283,
+    88303,
+    88323
+  ]
+}

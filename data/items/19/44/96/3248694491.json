@@ -1,0 +1,17 @@
+{
+  "internalId": 3248694491,
+  "name": "Witch-Knight's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167772,
+    167792,
+    167812,
+    167832,
+    167852,
+    167872,
+    167892,
+    167912
+  ]
+}

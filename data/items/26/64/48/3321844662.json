@@ -1,0 +1,10 @@
+{
+  "internalId": 3321844662,
+  "name": "Elsweyr Spice Display, Saffron Red",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_housingmerchantspices003.png",
+  "bindType": -1,
+  "knownIds": [
+    151651
+  ]
+}

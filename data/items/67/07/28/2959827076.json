@@ -1,0 +1,11 @@
+{
+  "internalId": 2959827076,
+  "name": "Magdelena's Ancient Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    503429,
+    756514
+  ]
+}

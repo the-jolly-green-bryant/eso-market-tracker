@@ -1,0 +1,10 @@
+{
+  "internalId": 2534014336,
+  "name": "Dwarven Puzzle Cube, Lady Ascendant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_duc_dwemerpuzzleswitch001.png",
+  "bindType": -1,
+  "knownIds": [
+    204633
+  ]
+}

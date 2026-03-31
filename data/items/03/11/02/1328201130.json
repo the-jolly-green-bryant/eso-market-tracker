@@ -1,0 +1,11 @@
+{
+  "internalId": 1328201130,
+  "name": "Languor of Peryite Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189639,
+    189660
+  ]
+}

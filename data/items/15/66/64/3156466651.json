@@ -1,0 +1,14 @@
+{
+  "internalId": 3156466651,
+  "name": "Epaulets of the Healer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_light_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    87137,
+    87158,
+    87179,
+    87200,
+    87263
+  ]
+}

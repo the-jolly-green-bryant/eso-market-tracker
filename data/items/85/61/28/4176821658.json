@@ -1,0 +1,17 @@
+{
+  "internalId": 4176821658,
+  "name": "Livewire Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132681,
+    132701,
+    132721,
+    132741,
+    132761,
+    132781,
+    132801,
+    132821
+  ]
+}

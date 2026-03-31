@@ -1,0 +1,15 @@
+{
+  "internalId": 1000341080,
+  "name": "Magnus' Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139682,
+    139772,
+    139862,
+    139952,
+    140042,
+    140132
+  ]
+}

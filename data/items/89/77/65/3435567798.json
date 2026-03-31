@@ -1,0 +1,17 @@
+{
+  "internalId": 3435567798,
+  "name": "Inferno Staff of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89087,
+    89107,
+    89127,
+    89147,
+    89167,
+    89187,
+    89207,
+    89227
+  ]
+}

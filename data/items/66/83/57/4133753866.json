@@ -1,0 +1,19 @@
+{
+  "internalId": 4133753866,
+  "name": "Lightning Staff of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168757,
+    168812,
+    168847,
+    168882,
+    168917,
+    168952,
+    168987,
+    169022,
+    169057,
+    169092
+  ]
+}

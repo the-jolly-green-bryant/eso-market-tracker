@@ -1,0 +1,17 @@
+{
+  "internalId": 3131001512,
+  "name": "Spell Strategist Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144098,
+    144119,
+    144140,
+    144161,
+    144182,
+    144203,
+    144224,
+    144245
+  ]
+}

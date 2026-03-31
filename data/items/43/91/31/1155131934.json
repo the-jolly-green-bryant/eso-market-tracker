@@ -1,0 +1,17 @@
+{
+  "internalId": 1155131934,
+  "name": "Dead-Water's Guile Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142434,
+    142454,
+    142474,
+    142494,
+    142514,
+    142534,
+    142554,
+    142574
+  ]
+}

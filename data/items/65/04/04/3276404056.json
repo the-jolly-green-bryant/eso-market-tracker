@@ -1,0 +1,17 @@
+{
+  "internalId": 3276404056,
+  "name": "Gloves of Frostbite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    171965,
+    171986,
+    172007,
+    172028,
+    172049,
+    172070,
+    172091,
+    172112
+  ]
+}

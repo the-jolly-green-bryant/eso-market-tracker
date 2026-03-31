@@ -1,0 +1,10 @@
+{
+  "internalId": 2647480104,
+  "name": "Flowering Gorse, Orange",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_gorseorange007.png",
+  "bindType": -1,
+  "knownIds": [
+    214483
+  ]
+}

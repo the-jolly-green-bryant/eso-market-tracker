@@ -1,0 +1,17 @@
+{
+  "internalId": 3790362320,
+  "name": "Bow of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91953,
+    91974,
+    91995,
+    92016,
+    92037,
+    92058,
+    92079,
+    92100
+  ]
+}

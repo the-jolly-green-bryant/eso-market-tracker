@@ -1,0 +1,26 @@
+{
+  "internalId": 3232412130,
+  "name": "Mace of the Worm Cult",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1195044,
+    1226499,
+    1260082,
+    1348988,
+    1365239,
+    1412333,
+    1460766,
+    1510653,
+    1545425,
+    1569951,
+    1619197,
+    1623744,
+    1636190,
+    1636465,
+    1637853,
+    1766015,
+    1772508
+  ]
+}

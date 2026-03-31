@@ -1,0 +1,10 @@
+{
+  "internalId": 90825745,
+  "name": "Hakoshae Hook, Block",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_akavirihook001.png",
+  "bindType": -1,
+  "knownIds": [
+    151762
+  ]
+}

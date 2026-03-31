@@ -1,0 +1,10 @@
+{
+  "internalId": 3606013334,
+  "name": "Crafting Motif 73: Anequina Shields",
+  "description": "Use to learn how to make Anequina Shields. Also teaches the equivalent Anequina outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    147709
+  ]
+}

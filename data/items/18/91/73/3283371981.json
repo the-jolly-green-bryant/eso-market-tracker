@@ -1,0 +1,17 @@
+{
+  "internalId": 3283371981,
+  "name": "Storm-Cursed Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1573592,
+    1580630,
+    1588046,
+    1594400,
+    1605543,
+    1614559,
+    1724190,
+    1739248
+  ]
+}

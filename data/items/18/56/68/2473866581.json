@@ -1,0 +1,17 @@
+{
+  "internalId": 2473866581,
+  "name": "Wizard's Riposte Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123737,
+    123758,
+    123779,
+    123800,
+    123821,
+    123842,
+    123863,
+    123884
+  ]
+}

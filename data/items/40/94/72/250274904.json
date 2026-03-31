@@ -1,0 +1,17 @@
+{
+  "internalId": 250274904,
+  "name": "Plague Doctor's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    97054,
+    97074,
+    97094,
+    97114,
+    97134,
+    97154,
+    97174,
+    97194
+  ]
+}

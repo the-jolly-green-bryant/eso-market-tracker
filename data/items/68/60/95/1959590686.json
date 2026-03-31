@@ -1,0 +1,17 @@
+{
+  "internalId": 1959590686,
+  "name": "Impregnable Armor Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125705,
+    125740,
+    125775,
+    125810,
+    125845,
+    125880,
+    125915,
+    125950
+  ]
+}

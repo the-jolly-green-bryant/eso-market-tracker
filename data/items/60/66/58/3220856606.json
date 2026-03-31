@@ -1,0 +1,10 @@
+{
+  "internalId": 3220856606,
+  "name": "Dark Brotherhood Citation",
+  "description": "When used, this citation grants 5 points of Dark Brotherhood Reputation. You must already be a member of the Dark Brotherhood to use this item, and you cannot use it if your Dark Brotherhood Rank is 12.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_item_u49_dark_brotherhood_citation.png",
+  "bindType": -1,
+  "knownIds": [
+    223691
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4291987388,
+  "name": "Haj Mota Head, Wall Mount",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headhajmota001.png",
+  "bindType": -1,
+  "knownIds": [
+    118295
+  ]
+}

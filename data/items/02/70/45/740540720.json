@@ -1,0 +1,17 @@
+{
+  "internalId": 740540720,
+  "name": "Ice Staff of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90236,
+    90257,
+    90278,
+    90299,
+    90320,
+    90341,
+    90362,
+    90383
+  ]
+}

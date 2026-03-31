@@ -1,0 +1,10 @@
+{
+  "internalId": 3703443080,
+  "name": "Mirrormoor Glass Harp",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_emoteu44glassharp001.png",
+  "bindType": -1,
+  "knownIds": [
+    212588
+  ]
+}

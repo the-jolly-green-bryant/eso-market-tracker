@@ -1,0 +1,17 @@
+{
+  "internalId": 2258037080,
+  "name": "Maul of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93363,
+    93383,
+    93403,
+    93423,
+    93443,
+    93463,
+    93483,
+    93503
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 207693910,
+  "name": "Wrathsun Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1688301,
+    1691027,
+    1692693,
+    1695072,
+    1717359,
+    1732210,
+    1760484
+  ]
+}

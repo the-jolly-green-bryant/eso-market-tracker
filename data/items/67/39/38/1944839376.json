@@ -1,0 +1,19 @@
+{
+  "internalId": 1944839376,
+  "name": "Seeker Synthesis Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195329,
+    195384,
+    195419,
+    195454,
+    195489,
+    195524,
+    195559,
+    195594,
+    195629,
+    195664
+  ]
+}

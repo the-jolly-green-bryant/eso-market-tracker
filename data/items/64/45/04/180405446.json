@@ -1,0 +1,16 @@
+{
+  "internalId": 180405446,
+  "name": "Stone-Talker's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1471881,
+    1492276,
+    1592925,
+    1611841,
+    1680643,
+    1756287,
+    1765941
+  ]
+}

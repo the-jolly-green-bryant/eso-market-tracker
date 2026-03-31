@@ -1,0 +1,17 @@
+{
+  "internalId": 4130958183,
+  "name": "Ice Staff of Syvarra's Scales",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    114662,
+    114682,
+    114702,
+    114722,
+    114742,
+    114762,
+    114782,
+    114802
+  ]
+}

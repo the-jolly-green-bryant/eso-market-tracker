@@ -1,0 +1,10 @@
+{
+  "internalId": 3270160566,
+  "name": "Flax",
+  "description": "An ingredient for crafting clothing.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_flax_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    4463
+  ]
+}

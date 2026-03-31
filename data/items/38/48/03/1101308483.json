@@ -1,0 +1,10 @@
+{
+  "internalId": 1101308483,
+  "name": "Style Page: Eldertide Pauldrons",
+  "description": "Use to learn the Eldertide Pauldrons Outfit Style. This page is consumed when read, granting you the account-wide Collectible.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    192470
+  ]
+}

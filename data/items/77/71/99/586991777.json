@@ -1,0 +1,17 @@
+{
+  "internalId": 586991777,
+  "name": "Spell Strategist Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144099,
+    144120,
+    144141,
+    144162,
+    144183,
+    144204,
+    144225,
+    144246
+  ]
+}

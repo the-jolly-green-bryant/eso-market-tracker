@@ -1,0 +1,10 @@
+{
+  "internalId": 3223888808,
+  "name": "Solitude Hammer, Simple",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_toolhammer001.png",
+  "bindType": -1,
+  "knownIds": [
+    165747
+  ]
+}

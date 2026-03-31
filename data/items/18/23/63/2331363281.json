@@ -1,0 +1,12 @@
+{
+  "internalId": 2331363281,
+  "name": "Restoration Staff of Diamond's Victory",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    173479,
+    173514,
+    173549
+  ]
+}

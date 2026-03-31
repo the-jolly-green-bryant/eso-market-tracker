@@ -1,0 +1,10 @@
+{
+  "internalId": 1766402078,
+  "name": "Kelp, Small Pile",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_kelp_pile002.png",
+  "bindType": -1,
+  "knownIds": [
+    120754
+  ]
+}

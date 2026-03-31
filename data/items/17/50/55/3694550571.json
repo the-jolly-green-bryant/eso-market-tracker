@@ -1,0 +1,10 @@
+{
+  "internalId": 3694550571,
+  "name": "Cold Comfort",
+  "description": "A crystal staff seemingly made of unmelting ice, this weapon bites the hands of all but its wielder with everlasting cold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    208140
+  ]
+}

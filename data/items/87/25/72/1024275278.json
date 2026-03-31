@@ -1,0 +1,15 @@
+{
+  "internalId": 1024275278,
+  "name": "Tools of the Trapmaster Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1765149,
+    1770597,
+    1771160,
+    1771171,
+    1773021,
+    1779923
+  ]
+}

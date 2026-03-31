@@ -1,0 +1,10 @@
+{
+  "internalId": 2111342373,
+  "name": "Flat Nut Brown Ale",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_002.png",
+  "bindType": -1,
+  "knownIds": [
+    30450
+  ]
+}

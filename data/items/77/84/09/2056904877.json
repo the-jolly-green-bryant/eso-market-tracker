@@ -1,0 +1,10 @@
+{
+  "internalId": 2056904877,
+  "name": "Painting of Creek, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_elegant003.png",
+  "bindType": -1,
+  "knownIds": [
+    118218
+  ]
+}

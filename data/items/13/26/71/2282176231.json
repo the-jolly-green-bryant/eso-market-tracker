@@ -1,0 +1,10 @@
+{
+  "internalId": 2282176231,
+  "name": "Elsweyr Door, Lunar Reverence",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_facademoondoor001.png",
+  "bindType": -1,
+  "knownIds": [
+    198049
+  ]
+}

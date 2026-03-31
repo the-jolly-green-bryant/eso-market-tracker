@@ -1,0 +1,17 @@
+{
+  "internalId": 4073791,
+  "name": "Thunderbug's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99849,
+    99869,
+    99889,
+    99909,
+    99929,
+    99949,
+    99969,
+    99989
+  ]
+}

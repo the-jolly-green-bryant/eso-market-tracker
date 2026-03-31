@@ -1,0 +1,17 @@
+{
+  "internalId": 3075081727,
+  "name": "Vanus's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_axe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135528,
+    135549,
+    135570,
+    135591,
+    135612,
+    135633,
+    135654,
+    135675
+  ]
+}

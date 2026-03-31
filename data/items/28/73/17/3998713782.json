@@ -1,0 +1,10 @@
+{
+  "internalId": 3998713782,
+  "name": "Bone, Left Calf",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletontibia001.png",
+  "bindType": -1,
+  "knownIds": [
+    118893
+  ]
+}

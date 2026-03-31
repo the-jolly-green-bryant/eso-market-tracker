@@ -1,0 +1,10 @@
+{
+  "internalId": 3681615283,
+  "name": "Stone, Lava-Etched",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_drufsrune002.png",
+  "bindType": -1,
+  "knownIds": [
+    193811
+  ]
+}

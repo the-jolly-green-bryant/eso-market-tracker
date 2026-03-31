@@ -1,0 +1,13 @@
+{
+  "internalId": 1605636517,
+  "name": "Adept Rider's Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135953,
+    135988,
+    136023,
+    136058
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2790161517,
+  "name": "Solitude Chandelier, Horns",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_hornchandelierlong001.png",
+  "bindType": -1,
+  "knownIds": [
+    165628
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": 2567306446,
+  "name": "Savage Werewolf's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1280402,
+    1284924,
+    1291767,
+    1480319,
+    1491049,
+    1495098,
+    1566023,
+    1624034,
+    1637880,
+    1642262,
+    1716094,
+    1752908,
+    1768003
+  ]
+}

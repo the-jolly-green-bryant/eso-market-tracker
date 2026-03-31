@@ -1,0 +1,19 @@
+{
+  "internalId": 1218741001,
+  "name": "Bracers of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179584,
+    179639,
+    179674,
+    179709,
+    179744,
+    179779,
+    179814,
+    179849,
+    179884,
+    179919
+  ]
+}

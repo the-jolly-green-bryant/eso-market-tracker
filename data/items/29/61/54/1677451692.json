@@ -1,0 +1,11 @@
+{
+  "internalId": 1677451692,
+  "name": "Shipment of Ingots X",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1424814,
+    1303397
+  ]
+}

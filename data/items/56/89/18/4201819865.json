@@ -1,0 +1,17 @@
+{
+  "internalId": 4201819865,
+  "name": "Axe of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180429,
+    180450,
+    180471,
+    180492,
+    180513,
+    180534,
+    180555,
+    180576
+  ]
+}

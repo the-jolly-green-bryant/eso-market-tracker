@@ -1,0 +1,17 @@
+{
+  "internalId": 1661083859,
+  "name": "Livewire Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132676,
+    132696,
+    132716,
+    132736,
+    132756,
+    132776,
+    132796,
+    132816
+  ]
+}

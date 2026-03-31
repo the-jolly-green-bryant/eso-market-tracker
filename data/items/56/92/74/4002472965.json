@@ -1,0 +1,10 @@
+{
+  "internalId": 4002472965,
+  "name": "Dock Rope Wheel",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_ship001_ropewheel001.png",
+  "bindType": -1,
+  "knownIds": [
+    120846
+  ]
+}

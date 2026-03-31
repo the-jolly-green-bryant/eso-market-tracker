@@ -1,0 +1,15 @@
+{
+  "internalId": 1295884958,
+  "name": "Fortified Brass Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139758,
+    139848,
+    139938,
+    140028,
+    140118,
+    140208
+  ]
+}

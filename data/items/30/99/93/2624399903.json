@@ -1,0 +1,17 @@
+{
+  "internalId": 2624399903,
+  "name": "Steadfast's Mettle Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_-steadfast_med_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186095,
+    186115,
+    186135,
+    186155,
+    186175,
+    186195,
+    186215,
+    186235
+  ]
+}

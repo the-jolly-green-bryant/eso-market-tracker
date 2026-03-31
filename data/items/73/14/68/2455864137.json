@@ -1,0 +1,17 @@
+{
+  "internalId": 2455864137,
+  "name": "Axe of Willpower",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69171,
+    69184,
+    69197,
+    69210,
+    69223,
+    69236,
+    69249,
+    69262
+  ]
+}

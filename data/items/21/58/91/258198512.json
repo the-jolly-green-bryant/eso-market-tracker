@@ -1,0 +1,14 @@
+{
+  "internalId": 258198512,
+  "name": "Eternal Hunt Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72675,
+    72710,
+    72745,
+    72780,
+    72815
+  ]
+}

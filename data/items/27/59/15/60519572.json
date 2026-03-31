@@ -1,0 +1,17 @@
+{
+  "internalId": 60519572,
+  "name": "Afflicted Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89275,
+    89295,
+    89315,
+    89335,
+    89355,
+    89375,
+    89395,
+    89415
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 2812537308,
+  "name": "Test of Resolve Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1644213,
+    1652165
+  ]
+}

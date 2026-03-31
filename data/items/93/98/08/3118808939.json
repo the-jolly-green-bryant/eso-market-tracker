@@ -1,0 +1,10 @@
+{
+  "internalId": 3118808939,
+  "name": "Jewelry: Perfected Eye of Nahviintaas",
+  "description": "A Light Armor set found in the Sunspire Trial.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    151961
+  ]
+}

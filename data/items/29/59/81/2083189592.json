@@ -1,0 +1,10 @@
+{
+  "internalId": 2083189592,
+  "name": "Hlaalu Dresser, Open",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabookcaseshort001.png",
+  "bindType": -1,
+  "knownIds": [
+    126407
+  ]
+}

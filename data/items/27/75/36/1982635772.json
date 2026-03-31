@@ -1,0 +1,19 @@
+{
+  "internalId": 1982635772,
+  "name": "Hist Whisperer's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172459,
+    172514,
+    172549,
+    172584,
+    172619,
+    172654,
+    172689,
+    172724,
+    172759,
+    172794
+  ]
+}

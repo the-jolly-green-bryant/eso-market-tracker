@@ -1,0 +1,17 @@
+{
+  "internalId": 1109589579,
+  "name": "Death-Dancer Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_sheild_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214709,
+    214729,
+    214749,
+    214769,
+    214789,
+    214809,
+    214829,
+    214849
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1872870212,
+  "name": "Orcish Cupboards, Peaked",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgcupboard001.png",
+  "bindType": -1,
+  "knownIds": [
+    116432
+  ]
+}

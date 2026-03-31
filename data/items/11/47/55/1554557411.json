@@ -1,0 +1,19 @@
+{
+  "internalId": 1554557411,
+  "name": "Might of the Lost Legion Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143539,
+    143594,
+    143629,
+    143664,
+    143699,
+    143734,
+    143769,
+    143804,
+    143839,
+    143874
+  ]
+}

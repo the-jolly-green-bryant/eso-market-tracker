@@ -1,0 +1,17 @@
+{
+  "internalId": 583448539,
+  "name": "War Maiden's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122814,
+    122835,
+    122856,
+    122877,
+    122898,
+    122919,
+    122940,
+    122961
+  ]
+}

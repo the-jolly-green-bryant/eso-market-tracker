@@ -1,0 +1,19 @@
+{
+  "internalId": 2171066314,
+  "name": "Amulet of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    168783,
+    168785,
+    168787,
+    168789,
+    168791,
+    168793,
+    168795,
+    168797,
+    168799,
+    168801
+  ]
+}

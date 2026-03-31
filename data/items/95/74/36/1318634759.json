@@ -1,0 +1,10 @@
+{
+  "internalId": 1318634759,
+  "name": "Stinkhorn",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mushroom_stinkhorn_cap_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    30149
+  ]
+}

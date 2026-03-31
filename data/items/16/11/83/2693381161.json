@@ -1,0 +1,10 @@
+{
+  "internalId": 2693381161,
+  "name": "Boots of the Seventh Legion",
+  "description": "A gift from the Red Asp, in thanks for your service to the people of Hallin's Stand.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15602
+  ]
+}

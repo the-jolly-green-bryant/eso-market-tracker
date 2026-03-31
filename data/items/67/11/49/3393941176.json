@@ -1,0 +1,23 @@
+{
+  "internalId": 3393941176,
+  "name": "hide boots of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    738946,
+    463687,
+    478317,
+    456236,
+    432537,
+    455218,
+    456039,
+    763770,
+    475265,
+    455772,
+    437960,
+    457214,
+    651833,
+    789621
+  ]
+}

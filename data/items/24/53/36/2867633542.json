@@ -1,0 +1,10 @@
+{
+  "internalId": 2867633542,
+  "name": "Leg Guards of Loyalty",
+  "description": "After you retrieved Lady Laurent's tools, Stibbons thanked you with this armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54634
+  ]
+}

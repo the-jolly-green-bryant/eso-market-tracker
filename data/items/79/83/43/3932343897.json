@@ -1,0 +1,10 @@
+{
+  "internalId": 3932343897,
+  "name": "Nord Rug, Bearskin",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_inc_bearrug001.png",
+  "bindType": -1,
+  "knownIds": [
+    115411
+  ]
+}

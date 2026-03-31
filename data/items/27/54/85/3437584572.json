@@ -1,0 +1,19 @@
+{
+  "internalId": 3437584572,
+  "name": "Greaves of Morkuldin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70632,
+    70667,
+    70702,
+    70737,
+    70772,
+    70807,
+    70842,
+    70877,
+    70912,
+    70947
+  ]
+}

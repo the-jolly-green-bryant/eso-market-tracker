@@ -1,0 +1,19 @@
+{
+  "internalId": 2863926346,
+  "name": "Restoration Staff of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185162,
+    185217,
+    185252,
+    185287,
+    185322,
+    185357,
+    185392,
+    185427,
+    185462,
+    185497
+  ]
+}

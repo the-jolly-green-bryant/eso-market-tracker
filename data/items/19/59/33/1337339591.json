@@ -1,0 +1,10 @@
+{
+  "internalId": 1337339591,
+  "name": "Breton Chest, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_chest001.png",
+  "bindType": -1,
+  "knownIds": [
+    115186
+  ]
+}

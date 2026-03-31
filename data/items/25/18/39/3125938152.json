@@ -1,0 +1,10 @@
+{
+  "internalId": 3125938152,
+  "name": "High Isle Goblet, Empty",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_cluttercup_001.png",
+  "bindType": -1,
+  "knownIds": [
+    187863
+  ]
+}

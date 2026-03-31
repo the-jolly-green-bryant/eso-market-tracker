@@ -1,0 +1,10 @@
+{
+  "internalId": 2018360233,
+  "name": "Supernal Reverie Staff",
+  "description": "Ingrid Vanne gave you this staff for saving her daughter from becoming the vessel of Kynreeve Ykal, the Omen of Deception.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2503
+  ]
+}

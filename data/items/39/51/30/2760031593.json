@@ -1,0 +1,10 @@
+{
+  "internalId": 2760031593,
+  "name": "Noble Standing Cauldron",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_cauldronlarge002.png",
+  "bindType": -1,
+  "knownIds": [
+    118183
+  ]
+}

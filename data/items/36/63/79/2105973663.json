@@ -1,0 +1,10 @@
+{
+  "internalId": 2105973663,
+  "name": "Craglorn Display Case, Sealed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_fur_displaycase001.png",
+  "bindType": -1,
+  "knownIds": [
+    139103
+  ]
+}

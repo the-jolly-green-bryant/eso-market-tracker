@@ -1,0 +1,18 @@
+{
+  "internalId": 1176934242,
+  "name": "Blind Path Induction Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_light_hands_b.png",
+  "bindType": -1,
+  "knownIds": [
+    1701665,
+    1702847,
+    1703823,
+    1716266,
+    1718005,
+    1720095,
+    1735459,
+    1736100,
+    1741698
+  ]
+}

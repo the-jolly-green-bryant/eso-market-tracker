@@ -1,0 +1,17 @@
+{
+  "internalId": 2126537684,
+  "name": "Restoration Staff of the Onslaught",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90620,
+    90641,
+    90662,
+    90683,
+    90704,
+    90725,
+    90746,
+    90767
+  ]
+}

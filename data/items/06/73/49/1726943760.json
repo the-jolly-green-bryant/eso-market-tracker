@@ -1,0 +1,10 @@
+{
+  "internalId": 1726943760,
+  "name": "Elsweyr Brush, Head",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_hairbrush002.png",
+  "bindType": -1,
+  "knownIds": [
+    151888
+  ]
+}

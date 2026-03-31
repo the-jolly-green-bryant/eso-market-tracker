@@ -1,0 +1,10 @@
+{
+  "internalId": 1827774795,
+  "name": "Plant, Bramblebrush",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_spartinaalterniflorathorns002.png",
+  "bindType": -1,
+  "knownIds": [
+    145417
+  ]
+}

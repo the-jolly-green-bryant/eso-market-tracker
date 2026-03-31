@@ -1,0 +1,17 @@
+{
+  "internalId": 597971187,
+  "name": "Ravaging Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89445,
+    89465,
+    89485,
+    89505,
+    89525,
+    89545,
+    89565,
+    89585
+  ]
+}

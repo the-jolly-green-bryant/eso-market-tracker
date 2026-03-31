@@ -1,0 +1,17 @@
+{
+  "internalId": 2222614719,
+  "name": "Helmet of Kyne's Kiss",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93557,
+    93577,
+    93597,
+    93617,
+    93637,
+    93657,
+    93677,
+    93697
+  ]
+}

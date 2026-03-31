@@ -1,0 +1,10 @@
+{
+  "internalId": 899179741,
+  "name": "Deadlands Candleholder, Etched",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedtablelamp001.png",
+  "bindType": -1,
+  "knownIds": [
+    182239
+  ]
+}

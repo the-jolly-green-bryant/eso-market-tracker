@@ -1,0 +1,10 @@
+{
+  "internalId": 3828838565,
+  "name": "Forge-Blind Drops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_potion_003.png",
+  "bindType": -1,
+  "knownIds": [
+    862927
+  ]
+}

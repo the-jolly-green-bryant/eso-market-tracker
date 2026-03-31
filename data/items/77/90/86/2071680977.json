@@ -1,0 +1,10 @@
+{
+  "internalId": 2071680977,
+  "name": "Saplings, Burnt Sparse",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_vrdburntsapling002.png",
+  "bindType": -1,
+  "knownIds": [
+    130301
+  ]
+}

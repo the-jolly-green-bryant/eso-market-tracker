@@ -1,0 +1,18 @@
+{
+  "internalId": 2936959842,
+  "name": "Roaring Opportunist's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_sword.png",
+  "bindType": -1,
+  "knownIds": [
+    1381818,
+    1389229,
+    1410062,
+    1551645,
+    1614982,
+    1615053,
+    1615452,
+    1683361,
+    1774808
+  ]
+}

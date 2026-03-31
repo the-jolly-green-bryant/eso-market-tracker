@@ -1,0 +1,17 @@
+{
+  "internalId": 173959920,
+  "name": "Restoration Staff of Durok's Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88180,
+    88200,
+    88220,
+    88240,
+    88260,
+    88280,
+    88300,
+    88320
+  ]
+}

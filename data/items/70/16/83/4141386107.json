@@ -1,0 +1,10 @@
+{
+  "internalId": 4141386107,
+  "name": "Seal of Hleran",
+  "description": "An heirloom from the Hleran family tomb, awarded for uncovering the family's onetime alliance with the Ashlanders of Ald'ruhn.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126079
+  ]
+}

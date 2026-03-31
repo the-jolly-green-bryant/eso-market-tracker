@@ -1,0 +1,19 @@
+{
+  "internalId": 3285029143,
+  "name": "Vastarie's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    148724,
+    148726,
+    148728,
+    148730,
+    148732,
+    148734,
+    148736,
+    148738,
+    148740,
+    148742
+  ]
+}

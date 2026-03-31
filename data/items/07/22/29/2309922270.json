@@ -1,0 +1,16 @@
+{
+  "internalId": 2309922270,
+  "name": "Sabatons of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80411,
+    80431,
+    80451,
+    80471,
+    80503,
+    80523,
+    80543
+  ]
+}

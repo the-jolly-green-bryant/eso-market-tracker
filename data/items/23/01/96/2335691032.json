@@ -1,0 +1,15 @@
+{
+  "internalId": 2335691032,
+  "name": "Inferno Staff of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70098,
+    70133,
+    70168,
+    70203,
+    70238,
+    70273
+  ]
+}

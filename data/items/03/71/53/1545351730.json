@@ -1,0 +1,17 @@
+{
+  "internalId": 1545351730,
+  "name": "Blessed Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_shield_b.png",
+  "bindType": 2,
+  "knownIds": [
+    102267,
+    102287,
+    102307,
+    102327,
+    102347,
+    102367,
+    102387,
+    102407
+  ]
+}

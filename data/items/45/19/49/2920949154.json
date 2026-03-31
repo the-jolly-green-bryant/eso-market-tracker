@@ -1,0 +1,10 @@
+{
+  "internalId": 2920949154,
+  "name": "Dungeon-Delving Staff",
+  "description": "Kireth Vanos bestowed this staff for destroying the Daedric lenses and releasing her from the gallery at the Library of Dusk.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    15742
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2236213777,
+  "name": "Ingested Hammer of Cyrodiil's Light",
+  "description": "Crafted in Oblivion, this weapon's surface glistens with an evil sheen.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    45759
+  ]
+}

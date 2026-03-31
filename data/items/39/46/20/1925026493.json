@@ -1,0 +1,10 @@
+{
+  "internalId": 1925026493,
+  "name": "Worm Cult Bookcase, Filled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_housingbookcasehigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    220274
+  ]
+}

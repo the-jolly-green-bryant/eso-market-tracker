@@ -1,0 +1,19 @@
+{
+  "internalId": 3668091033,
+  "name": "Boots of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58166,
+    58201,
+    58236,
+    58271,
+    58306,
+    58341,
+    58376,
+    58411,
+    58446,
+    58481
+  ]
+}

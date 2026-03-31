@@ -1,0 +1,17 @@
+{
+  "internalId": 3861483850,
+  "name": "Ice Staff of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89088,
+    89108,
+    89128,
+    89148,
+    89168,
+    89188,
+    89208,
+    89228
+  ]
+}

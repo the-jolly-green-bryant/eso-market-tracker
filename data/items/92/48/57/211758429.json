@@ -1,0 +1,10 @@
+{
+  "internalId": 211758429,
+  "name": "Imperial Well, Grated",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_wellsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    94111
+  ]
+}

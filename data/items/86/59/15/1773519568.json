@@ -1,0 +1,17 @@
+{
+  "internalId": 1773519568,
+  "name": "Coup De Grâce Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219329,
+    219349,
+    219369,
+    219389,
+    219409,
+    219429,
+    219449,
+    219469
+  ]
+}

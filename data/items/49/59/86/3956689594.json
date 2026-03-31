@@ -1,0 +1,10 @@
+{
+  "internalId": 3956689594,
+  "name": "Gennove's Blade",
+  "description": "For aiding the Hinault family, Jowan awarded his father's sword.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7293
+  ]
+}

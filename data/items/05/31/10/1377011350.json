@@ -1,0 +1,21 @@
+{
+  "internalId": 1377011350,
+  "name": "Amber Plasm Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_mazzatun_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1084103,
+    1124934,
+    1303239,
+    1343261,
+    1534485,
+    1577556,
+    1577563,
+    1595330,
+    1605727,
+    1677866,
+    1683250,
+    1692195
+  ]
+}

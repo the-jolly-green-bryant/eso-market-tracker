@@ -1,0 +1,10 @@
+{
+  "internalId": 929559981,
+  "name": "Limestone Border, Stones",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonesmooth007.png",
+  "bindType": -1,
+  "knownIds": [
+    139111
+  ]
+}

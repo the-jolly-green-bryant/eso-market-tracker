@@ -1,0 +1,10 @@
+{
+  "internalId": 3912762701,
+  "name": "Weapons: Systres' Scowl",
+  "description": "A Heavy Armor set found in High Isle.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    186408
+  ]
+}

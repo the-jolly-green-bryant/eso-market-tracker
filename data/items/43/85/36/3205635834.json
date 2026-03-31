@@ -1,0 +1,19 @@
+{
+  "internalId": 3205635834,
+  "name": "Coldharbour's Favorite Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147967,
+    148022,
+    148057,
+    148092,
+    148127,
+    148162,
+    148197,
+    148232,
+    148267,
+    148302
+  ]
+}

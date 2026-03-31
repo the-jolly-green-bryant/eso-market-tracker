@@ -1,0 +1,19 @@
+{
+  "internalId": 952627424,
+  "name": "Ice Staff of Iron Flask",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179563,
+    179618,
+    179653,
+    179688,
+    179723,
+    179758,
+    179793,
+    179828,
+    179863,
+    179898
+  ]
+}

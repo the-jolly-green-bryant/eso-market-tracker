@@ -1,0 +1,27 @@
+{
+  "internalId": 3382391933,
+  "name": "grand glyph of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_staminaboost.png",
+  "bindType": -1,
+  "knownIds": [
+    374200,
+    450564,
+    407403,
+    374330,
+    375571,
+    436979,
+    479298,
+    410052,
+    373865,
+    374863,
+    461247,
+    493739,
+    384841,
+    461424,
+    384850,
+    461427,
+    1618746,
+    1757283
+  ]
+}

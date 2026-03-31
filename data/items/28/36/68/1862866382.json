@@ -1,0 +1,17 @@
+{
+  "internalId": 1862866382,
+  "name": "Siegemaster's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210711,
+    210731,
+    210751,
+    210771,
+    210791,
+    210811,
+    210831,
+    210851
+  ]
+}

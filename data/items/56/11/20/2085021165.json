@@ -1,0 +1,17 @@
+{
+  "internalId": 2085021165,
+  "name": "Coward's Gear Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123350,
+    123370,
+    123390,
+    123410,
+    123430,
+    123450,
+    123470,
+    123490
+  ]
+}

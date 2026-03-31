@@ -1,0 +1,27 @@
+{
+  "internalId": 88280524,
+  "name": "Gloves of Mending",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_hands_a.png",
+  "bindType": -1,
+  "knownIds": [
+    945629,
+    965449,
+    1077141,
+    1135121,
+    1148680,
+    1182048,
+    1190468,
+    1199431,
+    1424684,
+    1310792,
+    1442741,
+    1460535,
+    1518496,
+    1526523,
+    1526981,
+    1581719,
+    1588519,
+    1608727
+  ]
+}

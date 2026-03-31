@@ -1,0 +1,19 @@
+{
+  "internalId": 867244155,
+  "name": "Might of the Lost Legion Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143543,
+    143598,
+    143633,
+    143668,
+    143703,
+    143738,
+    143773,
+    143808,
+    143843,
+    143878
+  ]
+}

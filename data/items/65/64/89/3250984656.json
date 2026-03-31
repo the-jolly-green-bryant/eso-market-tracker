@@ -1,0 +1,16 @@
+{
+  "internalId": 3250984656,
+  "name": "Test of Resolve Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1644979,
+    1656515,
+    1660152,
+    1760700,
+    1764750,
+    1769925,
+    1774816
+  ]
+}

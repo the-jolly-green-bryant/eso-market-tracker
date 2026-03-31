@@ -1,0 +1,14 @@
+{
+  "internalId": 3186629883,
+  "name": "Belt of Bahraha's Curse",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    199759,
+    199760,
+    199761,
+    199762,
+    199763
+  ]
+}

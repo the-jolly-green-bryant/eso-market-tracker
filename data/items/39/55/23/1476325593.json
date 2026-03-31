@@ -1,0 +1,19 @@
+{
+  "internalId": 1476325593,
+  "name": "Senche-Raht's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148328,
+    148383,
+    148418,
+    148453,
+    148488,
+    148523,
+    148558,
+    148593,
+    148628,
+    148663
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 3538569687,
+  "name": "Lokkestiiz's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_hammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1329595,
+    1329755,
+    1342401,
+    1350966,
+    1373469,
+    1419284,
+    1517403,
+    1571587,
+    1584607,
+    1594013,
+    1715860
+  ]
+}

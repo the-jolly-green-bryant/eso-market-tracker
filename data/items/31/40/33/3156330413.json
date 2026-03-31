@@ -1,0 +1,10 @@
+{
+  "internalId": 3156330413,
+  "name": "Vampiric Carpet, Sigil",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug004.png",
+  "bindType": -1,
+  "knownIds": [
+    165582
+  ]
+}

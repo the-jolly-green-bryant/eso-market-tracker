@@ -1,0 +1,17 @@
+{
+  "internalId": 108062419,
+  "name": "Pauldron of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101162,
+    101182,
+    101202,
+    101222,
+    101242,
+    101262,
+    101282,
+    101302
+  ]
+}

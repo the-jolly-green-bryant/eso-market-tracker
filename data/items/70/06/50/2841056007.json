@@ -1,0 +1,10 @@
+{
+  "internalId": 2841056007,
+  "name": "Wildur's Oath-Ring",
+  "description": "Instead of love, this ring represents Sarveeyah at-Wildur's freedom from an arranged marriage.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    7515
+  ]
+}

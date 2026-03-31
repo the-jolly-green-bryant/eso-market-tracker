@@ -1,0 +1,10 @@
+{
+  "internalId": 3910143597,
+  "name": "Orcish Urn, Honor's Rest",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_honorsresturn002.png",
+  "bindType": -1,
+  "knownIds": [
+    116486
+  ]
+}

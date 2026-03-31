@@ -1,0 +1,15 @@
+{
+  "internalId": 2285639631,
+  "name": "Vivec's Epaulets of Duality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195761,
+    195782,
+    195803,
+    195824,
+    195845,
+    195866
+  ]
+}

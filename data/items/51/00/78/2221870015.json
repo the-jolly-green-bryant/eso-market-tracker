@@ -1,0 +1,10 @@
+{
+  "internalId": 2221870015,
+  "name": "Battle Minstrel's Mantle",
+  "description": "Minstrel Idria bestowed this light shoulder armor for recovering her lute, F'lah, from the Grotto of Depravity.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15744
+  ]
+}

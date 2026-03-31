@@ -1,0 +1,10 @@
+{
+  "internalId": 3665772905,
+  "name": "Weapons: Spell Parasite",
+  "description": "A crafted set found in Greymoor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    163439
+  ]
+}

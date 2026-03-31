@@ -1,0 +1,17 @@
+{
+  "internalId": 2445055305,
+  "name": "Rallying Cry Robe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183251,
+    183272,
+    183293,
+    183314,
+    183335,
+    183356,
+    183377,
+    183398
+  ]
+}

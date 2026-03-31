@@ -1,0 +1,10 @@
+{
+  "internalId": 230303035,
+  "name": "Khajiit Scholar's Vestments",
+  "description": "Somehow, you can see Rajhin smile in your mind's eye whenever you touch the fabric.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150403
+  ]
+}

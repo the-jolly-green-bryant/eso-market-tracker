@@ -1,0 +1,13 @@
+{
+  "internalId": 3546159860,
+  "name": "Restoration Staff of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129649,
+    129661,
+    129673,
+    129685
+  ]
+}

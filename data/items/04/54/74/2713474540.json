@@ -1,0 +1,10 @@
+{
+  "internalId": 2713474540,
+  "name": "Mushrooms, Gilled Dusk Cluster",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_pinkknight007.png",
+  "bindType": -1,
+  "knownIds": [
+    198472
+  ]
+}

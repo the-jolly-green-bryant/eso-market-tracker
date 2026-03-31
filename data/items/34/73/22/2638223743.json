@@ -1,0 +1,23 @@
+{
+  "internalId": 2638223743,
+  "name": "The Maelstrom's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dwarvenscavenged_2haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    926036,
+    1197959,
+    1293939,
+    1302837,
+    1331372,
+    1368479,
+    1389028,
+    1393723,
+    1406080,
+    1515136,
+    1515834,
+    1516272,
+    1552372,
+    1751591
+  ]
+}

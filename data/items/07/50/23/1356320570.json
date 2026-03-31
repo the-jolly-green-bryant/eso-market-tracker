@@ -1,0 +1,10 @@
+{
+  "internalId": 1356320570,
+  "name": "Clockwork Blacksmithing Station",
+  "description": "When placed in your home, allows you to craft Blacksmithing items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_tableblacksmith001.png",
+  "bindType": -1,
+  "knownIds": [
+    134279
+  ]
+}

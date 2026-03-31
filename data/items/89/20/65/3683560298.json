@@ -1,0 +1,14 @@
+{
+  "internalId": 3683560298,
+  "name": "ebon gauntlets of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": -1,
+  "knownIds": [
+    373719,
+    458456,
+    545645,
+    623377,
+    664540
+  ]
+}

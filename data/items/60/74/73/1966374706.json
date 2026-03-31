@@ -1,0 +1,10 @@
+{
+  "internalId": 1966374706,
+  "name": "Crafting Motif 135: Black Soul Gem Shields",
+  "description": "Use to learn how to make Black Soul Gem Shields. Also teaches the equivalent Black Soul Gem Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    212435
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 218094789,
+  "name": "Telvanni Efficiency Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194953,
+    195008,
+    195043,
+    195078,
+    195113,
+    195148,
+    195183,
+    195218,
+    195253,
+    195288
+  ]
+}

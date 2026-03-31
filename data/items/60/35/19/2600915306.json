@@ -1,0 +1,19 @@
+{
+  "internalId": 2600915306,
+  "name": "Innate Axiom Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130371,
+    130406,
+    130441,
+    130476,
+    130511,
+    130546,
+    130581,
+    130616,
+    130651,
+    130686
+  ]
+}

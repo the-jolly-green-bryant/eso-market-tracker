@@ -1,0 +1,10 @@
+{
+  "internalId": 2387660563,
+  "name": "Orzorga's Blood Price Pie",
+  "description": "A pie of stewed blood and minced heart, among other things. Served cold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
+  "bindType": -1,
+  "knownIds": [
+    71058
+  ]
+}

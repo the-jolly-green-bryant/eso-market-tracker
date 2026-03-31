@@ -1,0 +1,10 @@
+{
+  "internalId": 1657675036,
+  "name": "Exemplary Nirnhoned Belt",
+  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Belt.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    81635
+  ]
+}

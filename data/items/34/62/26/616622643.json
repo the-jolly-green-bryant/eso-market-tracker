@@ -1,0 +1,13 @@
+{
+  "internalId": 616622643,
+  "name": "Inferno Staff of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131288,
+    131323,
+    131358,
+    131393
+  ]
+}

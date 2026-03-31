@@ -1,0 +1,16 @@
+{
+  "internalId": 3291905424,
+  "name": "Battle Axe of Kyne's Wind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2haxe.png",
+  "bindType": -1,
+  "knownIds": [
+    1391427,
+    1402677,
+    1460860,
+    1469476,
+    1615244,
+    1778250,
+    1779059
+  ]
+}

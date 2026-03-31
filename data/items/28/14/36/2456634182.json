@@ -1,0 +1,10 @@
+{
+  "internalId": 2456634182,
+  "name": "Painting of Autumn, Bolted",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varpuzzlepaintings003.png",
+  "bindType": -1,
+  "knownIds": [
+    118267
+  ]
+}

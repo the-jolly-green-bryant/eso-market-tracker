@@ -1,0 +1,10 @@
+{
+  "internalId": 3521157963,
+  "name": "Rite of the Scion",
+  "description": "Use to read.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    44873
+  ]
+}

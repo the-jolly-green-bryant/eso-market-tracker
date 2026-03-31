@@ -1,0 +1,17 @@
+{
+  "internalId": 3005979502,
+  "name": "Lamp Knight's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213927,
+    213947,
+    213967,
+    213987,
+    214007,
+    214027,
+    214047,
+    214067
+  ]
+}

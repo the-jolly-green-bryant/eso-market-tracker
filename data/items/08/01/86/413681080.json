@@ -1,0 +1,17 @@
+{
+  "internalId": 413681080,
+  "name": "Inferno Staff of Vengeance Leech",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92156,
+    92169,
+    92182,
+    92195,
+    92208,
+    92221,
+    92234,
+    92247
+  ]
+}

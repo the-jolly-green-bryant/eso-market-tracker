@@ -1,0 +1,12 @@
+{
+  "internalId": 267942018,
+  "name": "philter of health",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    373417,
+    710565,
+    1432149
+  ]
+}

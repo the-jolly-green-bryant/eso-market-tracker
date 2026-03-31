@@ -1,0 +1,17 @@
+{
+  "internalId": 828761914,
+  "name": "Shield of Salvation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85465,
+    85485,
+    85505,
+    85525,
+    85545,
+    85565,
+    85585,
+    85605
+  ]
+}

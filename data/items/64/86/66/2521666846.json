@@ -1,0 +1,10 @@
+{
+  "internalId": 2521666846,
+  "name": "Crafting Motif 38: Draugr Chests",
+  "description": "Use to learn how to make Draugr Chests. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Draugr Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    76899
+  ]
+}

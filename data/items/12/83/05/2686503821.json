@@ -1,0 +1,17 @@
+{
+  "internalId": 2686503821,
+  "name": "Gossamer Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kothringi_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1337910,
+    1381241,
+    1475466,
+    1494636,
+    1513260,
+    1527707,
+    1549150,
+    1684167
+  ]
+}

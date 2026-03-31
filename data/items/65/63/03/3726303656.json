@@ -1,0 +1,19 @@
+{
+  "internalId": 3726303656,
+  "name": "Nocturnal's Favored Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136450,
+    136485,
+    136520,
+    136555,
+    136590,
+    136625,
+    136660,
+    136695,
+    136730,
+    136765
+  ]
+}

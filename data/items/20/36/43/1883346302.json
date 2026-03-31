@@ -1,0 +1,10 @@
+{
+  "internalId": 1883346302,
+  "name": "Ayleid Window, Turquoise Glass",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_inc_ayliedlens003.png",
+  "bindType": -1,
+  "knownIds": [
+    212558
+  ]
+}

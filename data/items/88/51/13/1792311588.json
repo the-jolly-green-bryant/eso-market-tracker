@@ -1,0 +1,17 @@
+{
+  "internalId": 1792311588,
+  "name": "Undertaker's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_2hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149064,
+    149084,
+    149104,
+    149124,
+    149144,
+    149164,
+    149184,
+    149204
+  ]
+}

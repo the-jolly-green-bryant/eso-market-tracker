@@ -1,0 +1,10 @@
+{
+  "internalId": 1099662827,
+  "name": "Storm Lord Rug, Round",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikescrowncirclerug001.png",
+  "bindType": -1,
+  "knownIds": [
+    211523
+  ]
+}

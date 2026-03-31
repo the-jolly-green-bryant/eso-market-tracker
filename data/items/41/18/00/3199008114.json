@@ -1,0 +1,10 @@
+{
+  "internalId": 3199008114,
+  "name": "Crag Salmon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_salmon.png",
+  "bindType": -1,
+  "knownIds": [
+    801354
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2607648499,
+  "name": "Suite Furnishing Recipe Book",
+  "description": "A carpenter's treatise. Reading it teaches all Suite Furniture Recipes.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color5.png",
+  "bindType": -1,
+  "knownIds": [
+    214293
+  ]
+}

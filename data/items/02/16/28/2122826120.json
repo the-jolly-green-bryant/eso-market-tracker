@@ -1,0 +1,10 @@
+{
+  "internalId": 2122826120,
+  "name": "Dwarven End Table, Columnar Granite",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markendtable002.png",
+  "bindType": -1,
+  "knownIds": [
+    171372
+  ]
+}

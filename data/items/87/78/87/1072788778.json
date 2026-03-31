@@ -1,0 +1,17 @@
+{
+  "internalId": 1072788778,
+  "name": "Maul of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88355,
+    88375,
+    88395,
+    88415,
+    88435,
+    88455,
+    88475,
+    88495
+  ]
+}

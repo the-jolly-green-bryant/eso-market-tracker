@@ -1,0 +1,10 @@
+{
+  "internalId": 504145852,
+  "name": "Apocrypha Chair, Intricate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_chairhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    198409
+  ]
+}

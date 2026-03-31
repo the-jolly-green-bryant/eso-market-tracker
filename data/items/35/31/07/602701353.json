@@ -1,0 +1,10 @@
+{
+  "internalId": 602701353,
+  "name": "Breton Stall, Merchant",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_merchantstandhigh002.png",
+  "bindType": -1,
+  "knownIds": [
+    115151
+  ]
+}

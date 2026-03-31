@@ -1,0 +1,10 @@
+{
+  "internalId": 3219173558,
+  "name": "Auridon Mushrooms, Cluster",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_maltormushroomssmallcluster002.png",
+  "bindType": -1,
+  "knownIds": [
+    119588
+  ]
+}

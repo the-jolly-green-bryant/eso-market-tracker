@@ -1,0 +1,10 @@
+{
+  "internalId": 2369137602,
+  "name": "Ancient Orcish Sarcophagus Lid",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgsarcophaguslid001.png",
+  "bindType": -1,
+  "knownIds": [
+    134446
+  ]
+}

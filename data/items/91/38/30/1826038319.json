@@ -1,0 +1,17 @@
+{
+  "internalId": 1826038319,
+  "name": "Breeches of Alteration Mastery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91390,
+    91411,
+    91432,
+    91453,
+    91474,
+    91495,
+    91516,
+    91537
+  ]
+}

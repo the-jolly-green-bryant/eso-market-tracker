@@ -1,0 +1,10 @@
+{
+  "internalId": 2958969299,
+  "name": "Leyawiin Firepit, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leyfirepit001.png",
+  "bindType": -1,
+  "knownIds": [
+    175645
+  ]
+}

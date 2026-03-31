@@ -1,0 +1,17 @@
+{
+  "internalId": 2083710732,
+  "name": "Girdle of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204260,
+    204280,
+    204300,
+    204320,
+    204340,
+    204360,
+    204380,
+    204400
+  ]
+}

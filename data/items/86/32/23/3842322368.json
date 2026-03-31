@@ -1,0 +1,14 @@
+{
+  "internalId": 3842322368,
+  "name": "Restoration Staff of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93066,
+    93086,
+    93106,
+    93126,
+    93146
+  ]
+}

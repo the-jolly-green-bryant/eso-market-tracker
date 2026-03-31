@@ -1,0 +1,10 @@
+{
+  "internalId": 1589116270,
+  "name": "Barkbite Greaves",
+  "description": "This plate armor was made by Wood Orc smiths. It is thick, heavy, and well-constructed.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1697
+  ]
+}

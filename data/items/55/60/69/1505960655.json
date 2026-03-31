@@ -1,0 +1,10 @@
+{
+  "internalId": 1505960655,
+  "name": "Plant, Rafflesia",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkrafflesia001.png",
+  "bindType": -1,
+  "knownIds": [
+    145433
+  ]
+}

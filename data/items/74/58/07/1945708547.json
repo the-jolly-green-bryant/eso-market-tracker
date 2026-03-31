@@ -1,0 +1,10 @@
+{
+  "internalId": 1945708547,
+  "name": "Orcish Banner, Iron",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_ironorcbanner001.png",
+  "bindType": -1,
+  "knownIds": [
+    182616
+  ]
+}

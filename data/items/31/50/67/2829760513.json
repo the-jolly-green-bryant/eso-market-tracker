@@ -1,0 +1,10 @@
+{
+  "internalId": 2829760513,
+  "name": "Restored Dragonguard Helm",
+  "description": "A restored helmet found within the armory of the Dragonguard Sanctum.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    153830
+  ]
+}

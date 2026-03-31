@@ -1,0 +1,18 @@
+{
+  "internalId": 3457881740,
+  "name": "Dragonguard Elite's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_sword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    155219,
+    155239,
+    155259,
+    155279,
+    155299,
+    155319,
+    155339,
+    155359,
+    155379
+  ]
+}

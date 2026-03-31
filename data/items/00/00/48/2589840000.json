@@ -1,0 +1,19 @@
+{
+  "internalId": 2589840000,
+  "name": "Tide-Born Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215497,
+    215552,
+    215587,
+    215622,
+    215657,
+    215692,
+    215727,
+    215762,
+    215797,
+    215832
+  ]
+}

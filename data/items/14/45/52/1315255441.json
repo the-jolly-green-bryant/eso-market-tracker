@@ -1,0 +1,14 @@
+{
+  "internalId": 1315255441,
+  "name": "Shield of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93067,
+    93087,
+    93107,
+    93127,
+    93147
+  ]
+}

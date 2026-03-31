@@ -1,0 +1,19 @@
+{
+  "internalId": 284918484,
+  "name": "Battle Axe of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184774,
+    184829,
+    184864,
+    184899,
+    184934,
+    184969,
+    185004,
+    185039,
+    185074,
+    185109
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "internalId": 531306306,
+  "name": "Icy Conjurer's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1588491,
+    1741888
+  ]
+}

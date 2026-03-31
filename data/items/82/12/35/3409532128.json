@@ -1,0 +1,10 @@
+{
+  "internalId": 3409532128,
+  "name": "Inscribed Shard",
+  "description": "A stone fragment with a portion of an inscribed design. If you collect 50 of these, you can create a replica Zenithar Adytum Gate. Use to advance the eponymous achievement.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_moonrock001.png",
+  "bindType": -1,
+  "knownIds": [
+    178462
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 438553106,
+  "name": "Malacath, God of Oaths and Curses",
+  "description": "This imposing, rough-hewn monument offers a simple admonition: cross an Orc at your peril.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_exc_malacathstatue001.png",
+  "bindType": -1,
+  "knownIds": [
+    134259
+  ]
+}

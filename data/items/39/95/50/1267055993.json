@@ -1,0 +1,17 @@
+{
+  "internalId": 1267055993,
+  "name": "Gourmand's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190376,
+    190397,
+    190418,
+    190439,
+    190460,
+    190481,
+    190502,
+    190523
+  ]
+}

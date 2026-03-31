@@ -1,0 +1,12 @@
+{
+  "internalId": 3714909036,
+  "name": "Greatsword of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99171,
+    99191,
+    99211
+  ]
+}

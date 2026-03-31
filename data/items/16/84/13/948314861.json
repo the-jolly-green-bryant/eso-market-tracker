@@ -1,0 +1,17 @@
+{
+  "internalId": 948314861,
+  "name": "Dagger of the Morag Tong",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93365,
+    93385,
+    93405,
+    93425,
+    93445,
+    93465,
+    93485,
+    93505
+  ]
+}

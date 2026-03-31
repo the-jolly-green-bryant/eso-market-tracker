@@ -1,0 +1,17 @@
+{
+  "internalId": 1739735989,
+  "name": "Thunderbug's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_2hhammer_c.png",
+  "bindType": 2,
+  "knownIds": [
+    99844,
+    99864,
+    99884,
+    99904,
+    99924,
+    99944,
+    99964,
+    99984
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2528663821,
+  "name": "Mace of Unfathomable Darkness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_1hhammer_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133042,
+    133062,
+    133082,
+    133102,
+    133122,
+    133142,
+    133162,
+    133182
+  ]
+}

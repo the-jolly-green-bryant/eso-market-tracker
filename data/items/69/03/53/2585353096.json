@@ -1,0 +1,17 @@
+{
+  "internalId": 2585353096,
+  "name": "Robe of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_light_robe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    204897,
+    204918,
+    204939,
+    204960,
+    204981,
+    205002,
+    205023,
+    205044
+  ]
+}

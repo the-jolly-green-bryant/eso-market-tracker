@@ -1,0 +1,10 @@
+{
+  "internalId": 2999129848,
+  "name": "Recipe: Psijic Ambrosia, Fragment IV",
+  "description": "This is the fourth of seven parts of the Psijic Ambrosia Recipe.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_004.png",
+  "bindType": -1,
+  "knownIds": [
+    64706
+  ]
+}

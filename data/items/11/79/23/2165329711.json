@@ -1,0 +1,17 @@
+{
+  "internalId": 2165329711,
+  "name": "Bow of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89814,
+    89834,
+    89854,
+    89874,
+    89894,
+    89914,
+    89934,
+    89954
+  ]
+}

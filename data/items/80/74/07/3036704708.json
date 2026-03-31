@@ -1,0 +1,11 @@
+{
+  "internalId": 3036704708,
+  "name": "The Vicecanon's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78547,
+    78582
+  ]
+}

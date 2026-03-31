@@ -1,0 +1,17 @@
+{
+  "internalId": 3772160983,
+  "name": "Helmet of the Shield Breaker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117469,
+    117489,
+    117509,
+    117529,
+    117549,
+    117569,
+    117589,
+    117609
+  ]
+}

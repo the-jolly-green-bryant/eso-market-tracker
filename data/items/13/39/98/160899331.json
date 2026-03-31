@@ -1,0 +1,10 @@
+{
+  "internalId": 160899331,
+  "name": "High Elf Bench, Curved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_bench002.png",
+  "bindType": -1,
+  "knownIds": [
+    114374
+  ]
+}

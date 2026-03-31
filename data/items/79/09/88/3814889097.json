@@ -1,0 +1,10 @@
+{
+  "internalId": 3814889097,
+  "name": "Colovian Medallion, Diamond",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housemedallion001.png",
+  "bindType": -1,
+  "knownIds": [
+    211567
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2392311218,
+  "name": "Tool, Harvest Scythe",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_scythe001.png",
+  "bindType": -1,
+  "knownIds": [
+    130322
+  ]
+}

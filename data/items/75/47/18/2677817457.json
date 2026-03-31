@@ -1,0 +1,19 @@
+{
+  "internalId": 2677817457,
+  "name": "Fortified Brass Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130724,
+    130759,
+    130794,
+    130829,
+    130864,
+    130899,
+    130934,
+    130969,
+    131004,
+    131039
+  ]
+}

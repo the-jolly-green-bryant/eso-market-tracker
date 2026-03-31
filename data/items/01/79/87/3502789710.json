@@ -1,0 +1,19 @@
+{
+  "internalId": 3502789710,
+  "name": "Cuirass of Varen's Legacy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75749,
+    75784,
+    75819,
+    75854,
+    75889,
+    75924,
+    75959,
+    75994,
+    76029,
+    76064
+  ]
+}

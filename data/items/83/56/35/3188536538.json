@@ -1,0 +1,10 @@
+{
+  "internalId": 3188536538,
+  "name": "Bound Signature Script: Warrior's Opportunity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_opportunism.png",
+  "bindType": -1,
+  "knownIds": [
+    1720930
+  ]
+}

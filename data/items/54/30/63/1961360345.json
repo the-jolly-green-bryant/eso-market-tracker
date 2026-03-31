@@ -1,0 +1,17 @@
+{
+  "internalId": 1961360345,
+  "name": "Wizard's Riposte Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123726,
+    123747,
+    123768,
+    123789,
+    123810,
+    123831,
+    123852,
+    123873
+  ]
+}

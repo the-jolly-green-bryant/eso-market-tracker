@@ -1,0 +1,10 @@
+{
+  "internalId": 487473332,
+  "name": "Redguard Candelabra, Twisted",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varcandlelabra002.png",
+  "bindType": -1,
+  "knownIds": [
+    117819
+  ]
+}

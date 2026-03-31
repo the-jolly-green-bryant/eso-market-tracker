@@ -1,0 +1,11 @@
+{
+  "internalId": 3003834198,
+  "name": "Orcish Bookcase, Peaked",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgbookcase001.png",
+  "bindType": -1,
+  "knownIds": [
+    116426,
+    116427
+  ]
+}

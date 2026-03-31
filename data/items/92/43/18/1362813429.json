@@ -1,0 +1,11 @@
+{
+  "internalId": 1362813429,
+  "name": "Pearlescent Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1587501,
+    1601141
+  ]
+}

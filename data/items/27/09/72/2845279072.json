@@ -1,0 +1,12 @@
+{
+  "internalId": 2845279072,
+  "name": "Ice Staff of Permafrost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1392871,
+    1517408,
+    1543683
+  ]
+}

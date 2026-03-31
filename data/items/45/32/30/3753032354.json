@@ -1,0 +1,10 @@
+{
+  "internalId": 3753032354,
+  "name": "Aggrieved Greaves",
+  "description": "Dark Elf armor, acquired while assisting the famed adventurer, Narsis Dren.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    159708
+  ]
+}

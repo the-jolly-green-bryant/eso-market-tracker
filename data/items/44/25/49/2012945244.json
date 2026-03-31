@@ -1,0 +1,15 @@
+{
+  "internalId": 2012945244,
+  "name": "Wrathsun Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shield.png",
+  "bindType": -1,
+  "knownIds": [
+    1678247,
+    1685451,
+    1689925,
+    1692906,
+    1697569,
+    1702260
+  ]
+}

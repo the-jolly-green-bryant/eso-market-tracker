@@ -1,0 +1,10 @@
+{
+  "internalId": 1264911486,
+  "name": "Common Quill, Feather",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_quill001.png",
+  "bindType": -1,
+  "knownIds": [
+    118063
+  ]
+}

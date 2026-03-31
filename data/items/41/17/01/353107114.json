@@ -1,0 +1,10 @@
+{
+  "internalId": 353107114,
+  "name": "Daegonite Jerkin",
+  "description": "In the Khajiiti pantheon, Mehrunes Dagon is simply known as 'Merrunz' and is pictured as a destructive kitten. Not unlike standard kittens.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150411
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3703636617,
+  "name": "Beekeeper's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98344,
+    98364,
+    98384,
+    98404,
+    98424,
+    98444,
+    98464,
+    98484
+  ]
+}

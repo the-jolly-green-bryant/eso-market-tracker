@@ -1,0 +1,10 @@
+{
+  "internalId": 1907537001,
+  "name": "Fargrave Wall, Exterior",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farcollonadewall004.png",
+  "bindType": -1,
+  "knownIds": [
+    184078
+  ]
+}

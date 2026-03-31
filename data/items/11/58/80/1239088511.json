@@ -1,0 +1,21 @@
+{
+  "internalId": 1239088511,
+  "name": "Stone Husk's Guise",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undstonehusk_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1378538,
+    1378811,
+    1379461,
+    1381066,
+    1381110,
+    1395738,
+    1460032,
+    1487069,
+    1560652,
+    1569786,
+    1593742,
+    1627616
+  ]
+}

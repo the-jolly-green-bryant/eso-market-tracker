@@ -1,0 +1,17 @@
+{
+  "internalId": 1375791030,
+  "name": "Systres' Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186250,
+    186270,
+    186290,
+    186310,
+    186330,
+    186350,
+    186370,
+    186390
+  ]
+}

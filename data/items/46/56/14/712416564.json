@@ -1,0 +1,10 @@
+{
+  "internalId": 712416564,
+  "name": "Knavish Mucking Boots",
+  "description": "Ingride Vanne was so thankful to be awoken from the Supernal Dreamers's slumber that she gave you these hardy boots.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    2504
+  ]
+}

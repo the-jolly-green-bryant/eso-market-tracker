@@ -1,0 +1,10 @@
+{
+  "internalId": 3572831550,
+  "name": "Tree, Sturdy Young Birch",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_birch003.png",
+  "bindType": -1,
+  "knownIds": [
+    120709
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3071073875,
+  "name": "Old Bone's Shivering Timber",
+  "description": "For reassembling the living skeleton called Bosun Bones of the Lost Fleet, this weapon was awarded.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    15739
+  ]
+}

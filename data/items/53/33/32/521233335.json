@@ -1,0 +1,18 @@
+{
+  "internalId": 521233335,
+  "name": "Shared Burden Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    215182,
+    215217,
+    215252,
+    215287,
+    215322,
+    215357,
+    215392,
+    215427,
+    215462
+  ]
+}

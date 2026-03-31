@@ -1,0 +1,10 @@
+{
+  "internalId": 996626951,
+  "name": "Apocrypha Sconce, Diffuser",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_liblantern002.png",
+  "bindType": -1,
+  "knownIds": [
+    198438
+  ]
+}

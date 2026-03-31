@@ -1,0 +1,10 @@
+{
+  "internalId": 13925622,
+  "name": "Alinor Bed, Noble Full",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_bed003.png",
+  "bindType": -1,
+  "knownIds": [
+    139213
+  ]
+}

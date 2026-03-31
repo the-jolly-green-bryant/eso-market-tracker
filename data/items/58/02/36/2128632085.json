@@ -1,0 +1,10 @@
+{
+  "internalId": 2128632085,
+  "name": "Vvardenfell Glowstalk, Sprout",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_lightstalk004.png",
+  "bindType": -1,
+  "knownIds": [
+    126587
+  ]
+}

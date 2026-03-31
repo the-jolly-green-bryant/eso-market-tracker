@@ -1,0 +1,13 @@
+{
+  "internalId": 2236244183,
+  "name": "Greatsword of the Red Mountain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    84983,
+    85003,
+    85023,
+    85043
+  ]
+}

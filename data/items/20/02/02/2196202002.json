@@ -1,0 +1,10 @@
+{
+  "internalId": 2196202002,
+  "name": "Affix Script: Mangle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_mangle.png",
+  "bindType": -1,
+  "knownIds": [
+    204611
+  ]
+}

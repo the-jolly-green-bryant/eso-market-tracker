@@ -1,0 +1,10 @@
+{
+  "internalId": 2293196457,
+  "name": "Solitude Bench, Sturdy Long",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bench002.png",
+  "bindType": -1,
+  "knownIds": [
+    165664
+  ]
+}

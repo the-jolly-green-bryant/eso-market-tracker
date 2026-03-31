@@ -1,0 +1,17 @@
+{
+  "internalId": 4158625406,
+  "name": "Maul of the Noble Duelist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91186,
+    91207,
+    91228,
+    91249,
+    91270,
+    91291,
+    91312,
+    91333
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "internalId": 3724057765,
+  "name": "Yenadar's Journal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    821424,
+    425030,
+    943439
+  ]
+}

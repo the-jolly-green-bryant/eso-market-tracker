@@ -1,0 +1,15 @@
+{
+  "internalId": 2557455923,
+  "name": "Pelinal's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139753,
+    139843,
+    139933,
+    140023,
+    140113,
+    140203
+  ]
+}

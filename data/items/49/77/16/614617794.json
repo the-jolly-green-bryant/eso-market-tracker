@@ -1,0 +1,17 @@
+{
+  "internalId": 614617794,
+  "name": "Galerion's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78075,
+    78110,
+    78145,
+    78180,
+    78215,
+    78250,
+    78285,
+    78320
+  ]
+}

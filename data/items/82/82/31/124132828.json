@@ -1,0 +1,17 @@
+{
+  "internalId": 124132828,
+  "name": "Restoration Staff of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77088,
+    77108,
+    77128,
+    77148,
+    77168,
+    77188,
+    77208,
+    77228
+  ]
+}

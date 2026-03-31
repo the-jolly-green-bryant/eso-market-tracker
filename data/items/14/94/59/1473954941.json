@@ -1,0 +1,15 @@
+{
+  "internalId": 1473954941,
+  "name": "Yew Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    212268,
+    212274,
+    212296,
+    212302,
+    212310,
+    212317
+  ]
+}

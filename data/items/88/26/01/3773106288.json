@@ -1,0 +1,17 @@
+{
+  "internalId": 3773106288,
+  "name": "Restoration Staff of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91766,
+    91787,
+    91808,
+    91829,
+    91850,
+    91871,
+    91892,
+    91913
+  ]
+}

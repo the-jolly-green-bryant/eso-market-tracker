@@ -1,0 +1,10 @@
+{
+  "internalId": 3399628223,
+  "name": "Leyawiin Sconce, Gilded Lantern",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leyhanginglantern001.png",
+  "bindType": -1,
+  "knownIds": [
+    175635
+  ]
+}

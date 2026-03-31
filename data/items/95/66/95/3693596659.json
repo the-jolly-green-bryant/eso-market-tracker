@@ -1,0 +1,19 @@
+{
+  "internalId": 3693596659,
+  "name": "Chimera's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191245,
+    191300,
+    191335,
+    191370,
+    191405,
+    191440,
+    191475,
+    191510,
+    191545,
+    191580
+  ]
+}

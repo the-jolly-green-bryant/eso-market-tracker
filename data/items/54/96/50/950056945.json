@@ -1,0 +1,10 @@
+{
+  "internalId": 950056945,
+  "name": "Belt of Notched Memories",
+  "description": "Neria Lerano gave you this well-used Hlaalu girdle to thank you for your help in creating her father's memory stone.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    126060
+  ]
+}

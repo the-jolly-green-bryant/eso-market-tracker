@@ -1,0 +1,16 @@
+{
+  "internalId": 2665604171,
+  "name": "Frozen Watcher's Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1353733,
+    1371274,
+    1418063,
+    1602879,
+    1603563,
+    1731627,
+    1735380
+  ]
+}

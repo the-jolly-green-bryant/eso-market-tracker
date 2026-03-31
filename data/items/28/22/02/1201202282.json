@@ -1,0 +1,15 @@
+{
+  "internalId": 1201202282,
+  "name": "steel maul of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    595206,
+    535039,
+    757908,
+    432480,
+    601299,
+    1065462
+  ]
+}

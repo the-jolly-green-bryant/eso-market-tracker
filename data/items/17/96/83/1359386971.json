@@ -1,0 +1,10 @@
+{
+  "internalId": 1359386971,
+  "name": "Witches Skull, Horned Ram",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_ramskull001.png",
+  "bindType": -1,
+  "knownIds": [
+    130328
+  ]
+}

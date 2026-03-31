@@ -1,0 +1,10 @@
+{
+  "internalId": 863043532,
+  "name": "Spring-Loaded Infusion",
+  "description": "Brewed from potable liquids in the Clockwork City. Probably volatile, and quite eye-opening.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
+  "bindType": -1,
+  "knownIds": [
+    133555
+  ]
+}

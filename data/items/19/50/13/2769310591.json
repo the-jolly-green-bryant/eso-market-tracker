@@ -1,0 +1,20 @@
+{
+  "internalId": 2769310591,
+  "name": "dwarven sabatons of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    710737,
+    451880,
+    747743,
+    758002,
+    463182,
+    684856,
+    444299,
+    579201,
+    686043,
+    791353,
+    791345
+  ]
+}

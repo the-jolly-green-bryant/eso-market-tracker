@@ -1,0 +1,16 @@
+{
+  "internalId": 3264653093,
+  "name": "Reawakened Hierophant Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1692715,
+    1696803,
+    1717363,
+    1721715,
+    1734798,
+    1774347,
+    1776707
+  ]
+}

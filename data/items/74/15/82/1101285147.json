@@ -1,0 +1,10 @@
+{
+  "internalId": 1101285147,
+  "name": "Gravestone, Clover Engraving",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cem_tombstonelarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    120875
+  ]
+}

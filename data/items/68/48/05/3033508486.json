@@ -1,0 +1,19 @@
+{
+  "internalId": 3033508486,
+  "name": "Inferno Staff of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69608,
+    69643,
+    69678,
+    69713,
+    69748,
+    69783,
+    69818,
+    69853,
+    69888,
+    69923
+  ]
+}

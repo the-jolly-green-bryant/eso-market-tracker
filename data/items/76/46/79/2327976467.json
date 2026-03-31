@@ -1,0 +1,10 @@
+{
+  "internalId": 2327976467,
+  "name": "Royal Staff of Anequina",
+  "description": "Anequina is at peace once more, through great effort and bloodshed.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150391
+  ]
+}

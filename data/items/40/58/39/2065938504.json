@@ -1,0 +1,17 @@
+{
+  "internalId": 2065938504,
+  "name": "Old Growth Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191706,
+    191741,
+    191776,
+    191811,
+    191846,
+    191881,
+    191916,
+    191951
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1119119272,
+  "name": "Smuggler's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100968,
+    100989,
+    101010,
+    101031,
+    101052,
+    101073,
+    101094,
+    101115
+  ]
+}

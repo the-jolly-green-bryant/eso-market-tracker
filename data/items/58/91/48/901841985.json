@@ -1,0 +1,17 @@
+{
+  "internalId": 901841985,
+  "name": "Gloves of Oakfather's Retribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    203918,
+    203939,
+    203960,
+    203981,
+    204002,
+    204023,
+    204044,
+    204065
+  ]
+}

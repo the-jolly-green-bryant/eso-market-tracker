@@ -1,0 +1,19 @@
+{
+  "internalId": 2548103215,
+  "name": "Gladiator's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75391,
+    75426,
+    75461,
+    75496,
+    75531,
+    75566,
+    75601,
+    75636,
+    75671,
+    75706
+  ]
+}

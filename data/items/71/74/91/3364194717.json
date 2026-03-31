@@ -1,0 +1,17 @@
+{
+  "internalId": 3364194717,
+  "name": "Blunted Blades Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204095,
+    204115,
+    204135,
+    204155,
+    204175,
+    204195,
+    204215,
+    204235
+  ]
+}

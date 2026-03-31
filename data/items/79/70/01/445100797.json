@@ -1,0 +1,10 @@
+{
+  "internalId": 445100797,
+  "name": "Bound Focus Script: Shock Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_shock.png",
+  "bindType": -1,
+  "knownIds": [
+    1719509
+  ]
+}

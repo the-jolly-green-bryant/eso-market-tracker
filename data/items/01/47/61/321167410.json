@@ -1,0 +1,15 @@
+{
+  "internalId": 321167410,
+  "name": "Necklace of the Arena",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139739,
+    139829,
+    139919,
+    140009,
+    140099,
+    140189
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3106651633,
+  "name": "Attunable Clothing Station",
+  "description": "Use when at an Item Set Crafting Station to create a clothing station for that item set.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletableleatherworking001.png",
+  "bindType": -1,
+  "knownIds": [
+    119821
+  ]
+}

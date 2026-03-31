@@ -1,0 +1,11 @@
+{
+  "internalId": 1073218873,
+  "name": "Arenthian Brandy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
+  "bindType": -1,
+  "knownIds": [
+    57641,
+    33652
+  ]
+}

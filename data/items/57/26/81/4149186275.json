@@ -1,0 +1,12 @@
+{
+  "internalId": 4149186275,
+  "name": "Pauldron of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99184,
+    99204,
+    99224
+  ]
+}

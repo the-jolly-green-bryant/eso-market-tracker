@@ -1,0 +1,10 @@
+{
+  "internalId": 3872985115,
+  "name": "Common Pack, Satchel",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_backpacknostraps001.png",
+  "bindType": -1,
+  "knownIds": [
+    118020
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3564049847,
+  "name": "Alessian Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87994,
+    88014,
+    88034,
+    88054,
+    88074,
+    88094,
+    88114,
+    88134
+  ]
+}

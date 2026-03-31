@@ -1,0 +1,17 @@
+{
+  "internalId": 1994962102,
+  "name": "Bow of the Dragon",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84532,
+    84552,
+    84572,
+    84592,
+    84612,
+    84632,
+    84652,
+    84672
+  ]
+}

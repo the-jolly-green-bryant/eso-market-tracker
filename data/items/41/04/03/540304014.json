@@ -1,0 +1,16 @@
+{
+  "internalId": 540304014,
+  "name": "oak ice staff of shock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    434606,
+    456174,
+    580250,
+    377185,
+    377203,
+    437059,
+    580586
+  ]
+}

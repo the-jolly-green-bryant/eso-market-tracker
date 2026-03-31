@@ -1,0 +1,18 @@
+{
+  "internalId": 2326140990,
+  "name": "Stuhn's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161287,
+    161322,
+    161357,
+    161392,
+    161427,
+    161462,
+    161497,
+    161532,
+    161567
+  ]
+}

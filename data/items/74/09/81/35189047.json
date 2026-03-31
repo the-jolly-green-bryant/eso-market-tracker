@@ -1,0 +1,10 @@
+{
+  "internalId": 35189047,
+  "name": "Flavorless Paste",
+  "description": "A thick yet rheumy substance produced within the Clockwork City. Though quite filling, and rather healthy, it is food devoid of pleasure.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_trollfat_001.png",
+  "bindType": -1,
+  "knownIds": [
+    132530
+  ]
+}

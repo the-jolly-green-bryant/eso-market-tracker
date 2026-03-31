@@ -1,0 +1,10 @@
+{
+  "internalId": 2202332258,
+  "name": "Dark Elf Lightpost, Single",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_post001.png",
+  "bindType": -1,
+  "knownIds": [
+    120985
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4071203207,
+  "name": "Hew and Sunder Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183417,
+    183437,
+    183457,
+    183477,
+    183497,
+    183517,
+    183537,
+    183557
+  ]
+}

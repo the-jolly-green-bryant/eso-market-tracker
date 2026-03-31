@@ -1,0 +1,15 @@
+{
+  "internalId": 1352135889,
+  "name": "Lightning Staff of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95322,
+    95342,
+    95362,
+    95382,
+    95402,
+    95422
+  ]
+}

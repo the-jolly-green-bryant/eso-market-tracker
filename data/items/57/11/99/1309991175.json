@@ -1,0 +1,10 @@
+{
+  "internalId": 1309991175,
+  "name": "Crafting Motif 75: Sunspire Staves",
+  "description": "Use to learn how to make Sunspire Staves. Also teaches the equivalent Sunspire outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    147743
+  ]
+}

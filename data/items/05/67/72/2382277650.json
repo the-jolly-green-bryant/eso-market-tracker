@@ -1,0 +1,12 @@
+{
+  "internalId": 2382277650,
+  "name": "solution of stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
+  "bindType": -1,
+  "knownIds": [
+    434411,
+    689937,
+    1431906
+  ]
+}

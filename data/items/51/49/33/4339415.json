@@ -1,0 +1,17 @@
+{
+  "internalId": 4339415,
+  "name": "Restoration Staff of Endurance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69072,
+    69085,
+    69098,
+    69111,
+    69124,
+    69137,
+    69150,
+    69163
+  ]
+}

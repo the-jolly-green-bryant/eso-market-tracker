@@ -1,0 +1,10 @@
+{
+  "internalId": 2072161399,
+  "name": "Breton Vase, Glazed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_vasesmallnodirt001.png",
+  "bindType": -1,
+  "knownIds": [
+    115204
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1024303875,
+  "name": "Echatere Horns, Wall Mount",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headexcatere002.png",
+  "bindType": -1,
+  "knownIds": [
+    118294
+  ]
+}

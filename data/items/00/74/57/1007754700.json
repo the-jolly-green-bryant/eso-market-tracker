@@ -1,0 +1,10 @@
+{
+  "internalId": 1007754700,
+  "name": "Foozle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
+  "bindType": -1,
+  "knownIds": [
+    27194
+  ]
+}

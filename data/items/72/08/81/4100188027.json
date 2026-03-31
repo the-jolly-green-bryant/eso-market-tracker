@@ -1,0 +1,19 @@
+{
+  "internalId": 4100188027,
+  "name": "Tzogvin's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1406525,
+    1432753,
+    1452794,
+    1482963,
+    1531729,
+    1579955,
+    1594499,
+    1636353,
+    1676847,
+    1773206
+  ]
+}

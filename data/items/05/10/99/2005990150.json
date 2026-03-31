@@ -1,0 +1,19 @@
+{
+  "internalId": 2005990150,
+  "name": "Bow of the Noble's Conquest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    59953,
+    59988,
+    60023,
+    60058,
+    60093,
+    60128,
+    60163,
+    60198,
+    60233,
+    60268
+  ]
+}

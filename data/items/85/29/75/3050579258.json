@@ -1,0 +1,10 @@
+{
+  "internalId": 3050579258,
+  "name": "ice fish",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
+  "bindType": -1,
+  "knownIds": [
+    440455
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1494822993,
+  "name": "Battle Axe of The Shadow Walker",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92816,
+    92836,
+    92856,
+    92876,
+    92896,
+    92916,
+    92936,
+    92956
+  ]
+}

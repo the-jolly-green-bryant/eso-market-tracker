@@ -1,0 +1,14 @@
+{
+  "internalId": 3975813992,
+  "name": "Sword of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95872,
+    95972,
+    96161,
+    96245,
+    96345
+  ]
+}

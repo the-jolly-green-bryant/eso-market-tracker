@@ -1,0 +1,10 @@
+{
+  "internalId": 3565936071,
+  "name": "Telvanni Doorframe, Round",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_telsimpledoorframe002.png",
+  "bindType": -1,
+  "knownIds": [
+    198041
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 967781643,
+  "name": "Farstrider Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211771,
+    211791,
+    211811,
+    211831,
+    211851,
+    211871,
+    211891,
+    211911
+  ]
+}

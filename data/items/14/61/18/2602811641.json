@@ -1,0 +1,17 @@
+{
+  "internalId": 2602811641,
+  "name": "Steadfast's Mettle Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_-steadfast_med_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186098,
+    186118,
+    186138,
+    186158,
+    186178,
+    186198,
+    186218,
+    186238
+  ]
+}

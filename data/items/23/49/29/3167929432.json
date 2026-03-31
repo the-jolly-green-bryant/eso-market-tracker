@@ -1,0 +1,17 @@
+{
+  "internalId": 3167929432,
+  "name": "Shoes of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91960,
+    91981,
+    92002,
+    92023,
+    92044,
+    92065,
+    92086,
+    92107
+  ]
+}

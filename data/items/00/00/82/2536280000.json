@@ -1,0 +1,14 @@
+{
+  "internalId": 2536280000,
+  "name": "Eternal Hunt Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72668,
+    72703,
+    72738,
+    72773,
+    72808
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2867720789,
+  "name": "Kitten Moppet, Love-Blessed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_stuffedanimal002.png",
+  "bindType": -1,
+  "knownIds": [
+    156770
+  ]
+}

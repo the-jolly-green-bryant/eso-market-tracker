@@ -1,0 +1,12 @@
+{
+  "internalId": 1186589548,
+  "name": "Bow of the Hatchling's Shell",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99173,
+    99193,
+    99213
+  ]
+}

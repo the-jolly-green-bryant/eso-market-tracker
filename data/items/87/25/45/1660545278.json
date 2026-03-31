@@ -1,0 +1,10 @@
+{
+  "internalId": 1660545278,
+  "name": "Crafting Motif 2: Dark Elf Style",
+  "description": "Use to learn the Dark Elf crafting style. Requires Rank 1 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Dark Elf Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    27245
+  ]
+}

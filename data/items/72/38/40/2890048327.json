@@ -1,0 +1,22 @@
+{
+  "internalId": 2890048327,
+  "name": "Greatsword of the Vicious Ophidian",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1086106,
+    1089927,
+    1096468,
+    1144060,
+    1294356,
+    1389267,
+    1406551,
+    1512605,
+    1513635,
+    1515705,
+    1518899,
+    1634143,
+    1770397
+  ]
+}

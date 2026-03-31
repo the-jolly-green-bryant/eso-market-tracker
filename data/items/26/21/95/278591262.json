@@ -1,0 +1,10 @@
+{
+  "internalId": 278591262,
+  "name": "Sentinel's Lash",
+  "description": "The Wailing Prison's jailers once used this soot-stained bow to keep unruly Soul Shriven in line.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54982
+  ]
+}

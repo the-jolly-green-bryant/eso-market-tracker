@@ -1,0 +1,10 @@
+{
+  "internalId": 3888649451,
+  "name": "Druidic Game, Marble Maze",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_drumarblegame001.png",
+  "bindType": -1,
+  "knownIds": [
+    191206
+  ]
+}

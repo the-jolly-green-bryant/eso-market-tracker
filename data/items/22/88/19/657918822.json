@@ -1,0 +1,10 @@
+{
+  "internalId": 657918822,
+  "name": "Stained Glass of Arkay",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowarkay001.png",
+  "bindType": -1,
+  "knownIds": [
+    181482
+  ]
+}

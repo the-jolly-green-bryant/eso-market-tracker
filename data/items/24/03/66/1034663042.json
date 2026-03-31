@@ -1,0 +1,10 @@
+{
+  "internalId": 1034663042,
+  "name": "Dark Elf Kettle Cooker",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_meatpots02.png",
+  "bindType": -1,
+  "knownIds": [
+    115328
+  ]
+}

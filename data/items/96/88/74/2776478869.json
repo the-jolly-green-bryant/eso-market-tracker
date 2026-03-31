@@ -1,0 +1,19 @@
+{
+  "internalId": 2776478869,
+  "name": "Ice Staff of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184780,
+    184835,
+    184870,
+    184905,
+    184940,
+    184975,
+    185010,
+    185045,
+    185080,
+    185115
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 31402062,
+  "name": "New Moon Acolyte's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156174,
+    156229,
+    156264,
+    156299,
+    156334,
+    156369,
+    156404,
+    156439,
+    156474,
+    156509
+  ]
+}

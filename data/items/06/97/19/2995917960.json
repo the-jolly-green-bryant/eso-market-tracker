@@ -1,0 +1,10 @@
+{
+  "internalId": 2995917960,
+  "name": "strong Glyph of Weapon Damage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_berserking.png",
+  "bindType": -1,
+  "knownIds": [
+    1445652
+  ]
+}

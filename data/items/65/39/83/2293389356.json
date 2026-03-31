@@ -1,0 +1,10 @@
+{
+  "internalId": 2293389356,
+  "name": "Argonian Basket, Closed",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_basket001.png",
+  "bindType": -1,
+  "knownIds": [
+    115459
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4111318214,
+  "name": "Ayleid Refuge Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205236,
+    205256,
+    205276,
+    205296,
+    205316,
+    205336,
+    205356,
+    205376
+  ]
+}

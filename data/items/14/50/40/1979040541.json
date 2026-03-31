@@ -1,0 +1,19 @@
+{
+  "internalId": 1979040541,
+  "name": "Naga Shaman Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143178,
+    143233,
+    143268,
+    143303,
+    143338,
+    143373,
+    143408,
+    143443,
+    143478,
+    143513
+  ]
+}

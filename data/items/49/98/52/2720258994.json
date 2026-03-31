@@ -1,0 +1,10 @@
+{
+  "internalId": 2720258994,
+  "name": "Curious Container",
+  "description": "What's in this box? …Don't worry about it.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+  "bindType": 3,
+  "knownIds": [
+    159469
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 1148924282,
+  "name": "Ancient Imperial Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    588475,
+    574866,
+    811704,
+    895444,
+    1177438,
+    1209204,
+    1387199,
+    1450975,
+    1573746,
+    1644191,
+    1685375
+  ]
+}

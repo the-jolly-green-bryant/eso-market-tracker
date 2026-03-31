@@ -1,0 +1,10 @@
+{
+  "internalId": 1033259323,
+  "name": "Velothi Painting, Oversized Volcano",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_paintingalrg001.png",
+  "bindType": -1,
+  "knownIds": [
+    126597
+  ]
+}

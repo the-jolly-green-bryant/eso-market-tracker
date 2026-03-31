@@ -1,0 +1,10 @@
+{
+  "internalId": 2583741688,
+  "name": "Boulder, Granite Slab",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_em_flatrock003.png",
+  "bindType": -1,
+  "knownIds": [
+    132214
+  ]
+}

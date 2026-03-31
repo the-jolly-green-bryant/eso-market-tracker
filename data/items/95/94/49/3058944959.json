@@ -1,0 +1,11 @@
+{
+  "internalId": 3058944959,
+  "name": "Unexplained Large Heavy Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54609,
+    54619
+  ]
+}

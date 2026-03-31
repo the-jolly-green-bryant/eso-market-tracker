@@ -1,0 +1,10 @@
+{
+  "internalId": 2937291519,
+  "name": "Eavesdropping Earhorn",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png",
+  "bindType": -1,
+  "knownIds": [
+    902567
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1742472582,
+  "name": "Soulcleaver Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1680605,
+    1689568,
+    1697473,
+    1702346,
+    1720477
+  ]
+}

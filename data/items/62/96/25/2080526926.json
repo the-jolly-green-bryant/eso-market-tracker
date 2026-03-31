@@ -1,0 +1,17 @@
+{
+  "internalId": 2080526926,
+  "name": "Systres' Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_hvy_shoulder_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186265,
+    186285,
+    186305,
+    186325,
+    186345,
+    186365,
+    186385,
+    186405
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 862258626,
+  "name": "Daleforge Pauldrons",
+  "description": "The Orc clan that forged this armor is long gone, but its sturdy workmanship survives.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    197809
+  ]
+}

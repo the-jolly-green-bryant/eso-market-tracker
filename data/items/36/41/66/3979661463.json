@@ -1,0 +1,21 @@
+{
+  "internalId": 3979661463,
+  "name": "Ice Staff of the Undaunted Unweaver",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    944047,
+    1224770,
+    1262358,
+    1313595,
+    1342788,
+    1393073,
+    1481983,
+    1507900,
+    1603321,
+    1726072,
+    1736703,
+    1761329
+  ]
+}

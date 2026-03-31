@@ -1,0 +1,10 @@
+{
+  "internalId": 1299139783,
+  "name": "Crystals, Midnight Tower",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_mphsmallcrystal006.png",
+  "bindType": -1,
+  "knownIds": [
+    139145
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "internalId": 1468870045,
+  "name": "Dagger of the Archer's Mind",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87506,
+    87526,
+    87546,
+    87566,
+    87586,
+    87606,
+    87626
+  ]
+}

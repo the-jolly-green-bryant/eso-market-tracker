@@ -1,0 +1,19 @@
+{
+  "internalId": 3988084303,
+  "name": "Z'en's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1343372,
+    1364197,
+    1367742,
+    1371223,
+    1374551,
+    1548999,
+    1550795,
+    1573272,
+    1573662,
+    1676602
+  ]
+}

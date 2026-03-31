@@ -1,0 +1,17 @@
+{
+  "internalId": 2645107717,
+  "name": "Ice Staff of the Ranger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98156,
+    98176,
+    98196,
+    98216,
+    98236,
+    98256,
+    98276,
+    98296
+  ]
+}

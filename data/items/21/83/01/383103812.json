@@ -1,0 +1,19 @@
+{
+  "internalId": 383103812,
+  "name": "Amulet of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    184807,
+    184809,
+    184811,
+    184813,
+    184815,
+    184817,
+    184819,
+    184821,
+    184823,
+    184825
+  ]
+}

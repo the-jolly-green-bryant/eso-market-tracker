@@ -1,0 +1,10 @@
+{
+  "internalId": 1152132305,
+  "name": "High Isle Dresser, Carved",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_dresserhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    187851
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 1039081573,
+  "name": "Siegemaster's Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    210721,
+    210741,
+    210761,
+    210781,
+    210801,
+    210821,
+    210841,
+    210861
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1534191465,
+  "name": "Elsweyr Half-Rug, Sandflowers",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_ruground002.png",
+  "bindType": -1,
+  "knownIds": [
+    151752
+  ]
+}

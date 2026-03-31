@@ -1,0 +1,10 @@
+{
+  "internalId": 912527559,
+  "name": "Redguard Pot, Hanging Brushed",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_flowerpotsm001.png",
+  "bindType": -1,
+  "knownIds": [
+    117688
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3977854613,
+  "name": "Pelinal's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76268,
+    76303,
+    76338,
+    76373,
+    76408
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 61253422,
+  "name": "Sabatons of Mother's Embrace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    75137,
+    75157,
+    75177,
+    75197,
+    75217
+  ]
+}

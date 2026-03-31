@@ -1,0 +1,10 @@
+{
+  "internalId": 4149276926,
+  "name": "Fargrave Switch Plate, Red",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farstomppad001.png",
+  "bindType": -1,
+  "knownIds": [
+    224101
+  ]
+}

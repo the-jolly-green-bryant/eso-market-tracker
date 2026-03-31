@@ -1,0 +1,10 @@
+{
+  "internalId": 2571377017,
+  "name": "Solstice Shell, Fossilized Turritella",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_shellxsmall002.png",
+  "bindType": -1,
+  "knownIds": [
+    214453
+  ]
+}

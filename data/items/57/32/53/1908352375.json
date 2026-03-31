@@ -1,0 +1,10 @@
+{
+  "internalId": 1908352375,
+  "name": "Matchmaker's Slippers",
+  "description": "Perhaps wearing these slippers will help you find your own match.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10907
+  ]
+}

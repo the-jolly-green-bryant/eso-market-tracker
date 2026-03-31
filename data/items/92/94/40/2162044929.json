@@ -1,0 +1,10 @@
+{
+  "internalId": 2162044929,
+  "name": "Redguard Cupboard, Lattice",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_cupboard001.png",
+  "bindType": -1,
+  "knownIds": [
+    117712
+  ]
+}

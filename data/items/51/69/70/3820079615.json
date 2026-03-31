@@ -1,0 +1,21 @@
+{
+  "internalId": 3820079615,
+  "name": "Deeproot Zeal Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_heavy_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600627,
+    1602509,
+    1603305,
+    1603311,
+    1605723,
+    1606344,
+    1606423,
+    1606967,
+    1610419,
+    1650479,
+    1680037,
+    1732220
+  ]
+}

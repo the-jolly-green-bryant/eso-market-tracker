@@ -1,0 +1,13 @@
+{
+  "internalId": 299756064,
+  "name": "Briarheart Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    129706,
+    129718,
+    129730,
+    129742
+  ]
+}

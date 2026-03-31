@@ -1,0 +1,19 @@
+{
+  "internalId": 194999676,
+  "name": "Shoes of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184792,
+    184847,
+    184882,
+    184917,
+    184952,
+    184987,
+    185022,
+    185057,
+    185092,
+    185127
+  ]
+}

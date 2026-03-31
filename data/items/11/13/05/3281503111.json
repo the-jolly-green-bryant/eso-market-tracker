@@ -1,0 +1,18 @@
+{
+  "internalId": 3281503111,
+  "name": "Senchal Defender's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_2hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    154843,
+    154863,
+    154883,
+    154903,
+    154923,
+    154943,
+    154963,
+    154983,
+    155003
+  ]
+}

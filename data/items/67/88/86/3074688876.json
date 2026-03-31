@@ -1,0 +1,10 @@
+{
+  "internalId": 3074688876,
+  "name": "Plant, Young Marshfrond",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkmoorslow002.png",
+  "bindType": -1,
+  "knownIds": [
+    145418
+  ]
+}

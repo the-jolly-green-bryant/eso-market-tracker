@@ -1,0 +1,19 @@
+{
+  "internalId": 1042093324,
+  "name": "Gladiator's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75410,
+    75445,
+    75480,
+    75515,
+    75550,
+    75585,
+    75620,
+    75655,
+    75690,
+    75725
+  ]
+}

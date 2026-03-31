@@ -1,0 +1,17 @@
+{
+  "internalId": 116987010,
+  "name": "Sword of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89081,
+    89101,
+    89121,
+    89141,
+    89161,
+    89181,
+    89201,
+    89221
+  ]
+}

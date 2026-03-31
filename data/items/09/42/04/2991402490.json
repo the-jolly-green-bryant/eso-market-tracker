@@ -1,0 +1,17 @@
+{
+  "internalId": 2991402490,
+  "name": "Undertaker's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149079,
+    149099,
+    149119,
+    149139,
+    149159,
+    149179,
+    149199,
+    149219
+  ]
+}

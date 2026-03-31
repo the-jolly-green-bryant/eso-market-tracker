@@ -1,0 +1,19 @@
+{
+  "internalId": 2569221518,
+  "name": "Chimera's Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191240,
+    191295,
+    191330,
+    191365,
+    191400,
+    191435,
+    191470,
+    191505,
+    191540,
+    191575
+  ]
+}

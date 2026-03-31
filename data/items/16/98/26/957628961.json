@@ -1,0 +1,19 @@
+{
+  "internalId": 957628961,
+  "name": "Seeker Synthesis Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195341,
+    195396,
+    195431,
+    195466,
+    195501,
+    195536,
+    195571,
+    195606,
+    195641,
+    195676
+  ]
+}

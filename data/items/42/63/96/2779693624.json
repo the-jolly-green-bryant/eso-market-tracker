@@ -1,0 +1,13 @@
+{
+  "internalId": 2779693624,
+  "name": "Adept Rider's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135940,
+    135975,
+    136010,
+    136045
+  ]
+}

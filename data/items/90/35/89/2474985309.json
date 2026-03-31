@@ -1,0 +1,17 @@
+{
+  "internalId": 2474985309,
+  "name": "Helmet of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93921,
+    93941,
+    93961,
+    93981,
+    94001,
+    94021,
+    94041,
+    94061
+  ]
+}

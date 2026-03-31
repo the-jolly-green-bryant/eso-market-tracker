@@ -1,0 +1,10 @@
+{
+  "internalId": 525243517,
+  "name": "Solitude Rug, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_rughi005.png",
+  "bindType": -1,
+  "knownIds": [
+    165646
+  ]
+}

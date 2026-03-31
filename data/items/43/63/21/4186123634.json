@@ -1,0 +1,17 @@
+{
+  "internalId": 4186123634,
+  "name": "Shield of High Isle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    185921,
+    185942,
+    185963,
+    185984,
+    186005,
+    186026,
+    186047,
+    186068
+  ]
+}

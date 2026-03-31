@@ -1,0 +1,17 @@
+{
+  "internalId": 441950322,
+  "name": "Ice Staff of the Knightmare",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80406,
+    80426,
+    80446,
+    80466,
+    80486,
+    80498,
+    80518,
+    80538
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3642566987,
+  "name": "Barrel, Orange Dye",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationbarrela001.png",
+  "bindType": -1,
+  "knownIds": [
+    118308
+  ]
+}

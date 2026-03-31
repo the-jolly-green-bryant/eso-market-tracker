@@ -1,0 +1,16 @@
+{
+  "internalId": 2288983949,
+  "name": "Vengeance",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    824692,
+    913153,
+    942221,
+    1179436,
+    1460902,
+    1524592,
+    1543355
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2418357046,
+  "name": "Ring of the Two-Fanged Snake",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    945361,
+    980826,
+    1147310,
+    1444336,
+    1499973,
+    1518812,
+    1633988,
+    1652090
+  ]
+}

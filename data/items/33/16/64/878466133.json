@@ -1,0 +1,17 @@
+{
+  "internalId": 878466133,
+  "name": "Reflected Fury Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1715727,
+    1716271,
+    1718764,
+    1725585,
+    1728543,
+    1731499,
+    1747681,
+    1768076
+  ]
+}

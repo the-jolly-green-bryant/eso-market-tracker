@@ -1,0 +1,10 @@
+{
+  "internalId": 2418321049,
+  "name": "High Isle Bed, Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_bedlow002.png",
+  "bindType": -1,
+  "knownIds": [
+    187817
+  ]
+}

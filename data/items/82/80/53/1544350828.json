@@ -1,0 +1,10 @@
+{
+  "internalId": 1544350828,
+  "name": "Privacy Disc",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_alchemical_device.png",
+  "bindType": -1,
+  "knownIds": [
+    1352272
+  ]
+}

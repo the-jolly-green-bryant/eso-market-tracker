@@ -1,0 +1,19 @@
+{
+  "internalId": 2127572163,
+  "name": "Deadlands Demolisher's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179189,
+    179244,
+    179279,
+    179314,
+    179349,
+    179384,
+    179419,
+    179454,
+    179489,
+    179524
+  ]
+}

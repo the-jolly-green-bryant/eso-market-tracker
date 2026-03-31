@@ -1,0 +1,10 @@
+{
+  "internalId": 3257039552,
+  "name": "Jewelry: Dro'Zakar's Claws",
+  "description": "A Medium Armor set found in Moongrave Fane.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    153765
+  ]
+}

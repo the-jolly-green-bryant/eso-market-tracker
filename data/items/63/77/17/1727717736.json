@@ -1,0 +1,17 @@
+{
+  "internalId": 1727717736,
+  "name": "Beekeeper's Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98334,
+    98354,
+    98374,
+    98394,
+    98414,
+    98434,
+    98454,
+    98474
+  ]
+}

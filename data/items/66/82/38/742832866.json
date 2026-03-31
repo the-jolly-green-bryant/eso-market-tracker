@@ -1,0 +1,19 @@
+{
+  "internalId": 742832866,
+  "name": "Winterborn Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1273628,
+    1331487,
+    1388422,
+    1388508,
+    1464603,
+    1515261,
+    1648460,
+    1692628,
+    1693079,
+    1736635
+  ]
+}

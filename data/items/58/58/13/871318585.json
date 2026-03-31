@@ -1,0 +1,17 @@
+{
+  "internalId": 871318585,
+  "name": "Deadlands Assassin's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_bow_c.png",
+  "bindType": 2,
+  "knownIds": [
+    172130,
+    172150,
+    172170,
+    172190,
+    172210,
+    172230,
+    172250,
+    172270
+  ]
+}

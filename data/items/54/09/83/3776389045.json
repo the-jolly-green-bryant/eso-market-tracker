@@ -1,0 +1,14 @@
+{
+  "internalId": 3776389045,
+  "name": "Bile Gilt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_004.png",
+  "bindType": -1,
+  "knownIds": [
+    814563,
+    811805,
+    835224,
+    928258,
+    1320705
+  ]
+}

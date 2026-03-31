@@ -1,0 +1,10 @@
+{
+  "internalId": 3587676551,
+  "name": "Ancient Nord Funerary Jar, Dragon Crest",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_urn006.png",
+  "bindType": -1,
+  "knownIds": [
+    134878
+  ]
+}

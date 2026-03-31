@@ -1,0 +1,10 @@
+{
+  "internalId": 2862686371,
+  "name": "High Elf Pot, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_cookingcauldron001.png",
+  "bindType": -1,
+  "knownIds": [
+    114396
+  ]
+}

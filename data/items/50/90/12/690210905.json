@@ -1,0 +1,10 @@
+{
+  "internalId": 690210905,
+  "name": "Breton Table, Round",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_tableround001.png",
+  "bindType": -1,
+  "knownIds": [
+    115194
+  ]
+}

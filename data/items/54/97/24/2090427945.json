@@ -1,0 +1,10 @@
+{
+  "internalId": 2090427945,
+  "name": "Boulder, Lunar Spine",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_moonrock001.png",
+  "bindType": -1,
+  "knownIds": [
+    151851
+  ]
+}

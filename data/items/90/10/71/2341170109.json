@@ -1,0 +1,17 @@
+{
+  "internalId": 2341170109,
+  "name": "Helmet of Flanking",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77092,
+    77112,
+    77132,
+    77152,
+    77172,
+    77192,
+    77212,
+    77232
+  ]
+}

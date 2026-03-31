@@ -1,0 +1,16 @@
+{
+  "internalId": 3961717174,
+  "name": "Hanu's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1274605,
+    1285999,
+    1507920,
+    1568852,
+    1570840,
+    1634293,
+    1718807
+  ]
+}

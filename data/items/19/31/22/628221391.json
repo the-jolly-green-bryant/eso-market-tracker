@@ -1,0 +1,11 @@
+{
+  "internalId": 628221391,
+  "name": "Shimmerene Tonic",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_001.png",
+  "bindType": -1,
+  "knownIds": [
+    61065,
+    28517
+  ]
+}

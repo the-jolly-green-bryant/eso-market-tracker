@@ -1,0 +1,17 @@
+{
+  "internalId": 2827101499,
+  "name": "Warrior-Poet's Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122631,
+    122651,
+    122671,
+    122691,
+    122711,
+    122731,
+    122751,
+    122771
+  ]
+}

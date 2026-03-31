@@ -1,0 +1,10 @@
+{
+  "internalId": 2264204116,
+  "name": "Fargrave Window, Medallion",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farwindowhighintcapped002.png",
+  "bindType": -1,
+  "knownIds": [
+    184092
+  ]
+}

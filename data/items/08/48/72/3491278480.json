@@ -1,0 +1,17 @@
+{
+  "internalId": 3491278480,
+  "name": "Rallying Cry Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183246,
+    183267,
+    183288,
+    183309,
+    183330,
+    183351,
+    183372,
+    183393
+  ]
+}

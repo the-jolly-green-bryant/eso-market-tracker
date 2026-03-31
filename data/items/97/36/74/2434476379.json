@@ -1,0 +1,19 @@
+{
+  "internalId": 2434476379,
+  "name": "Fortified Brass Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130749,
+    130784,
+    130819,
+    130854,
+    130889,
+    130924,
+    130959,
+    130994,
+    131029,
+    131064
+  ]
+}

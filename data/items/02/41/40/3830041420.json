@@ -1,0 +1,15 @@
+{
+  "internalId": 3830041420,
+  "name": "Pearlescent Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1593660,
+    1609589,
+    1634271,
+    1764500,
+    1767986,
+    1771265
+  ]
+}

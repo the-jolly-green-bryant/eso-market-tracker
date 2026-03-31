@@ -1,0 +1,10 @@
+{
+  "internalId": 4289868195,
+  "name": "Dark Elf Flags, Hanging",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_houseflag001.png",
+  "bindType": -1,
+  "knownIds": [
+    115307
+  ]
+}

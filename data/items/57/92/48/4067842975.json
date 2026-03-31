@@ -1,0 +1,17 @@
+{
+  "internalId": 4067842975,
+  "name": "Impregnable Armor Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125707,
+    125742,
+    125777,
+    125812,
+    125847,
+    125882,
+    125917,
+    125952
+  ]
+}

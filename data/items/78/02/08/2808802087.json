@@ -1,0 +1,19 @@
+{
+  "internalId": 2808802087,
+  "name": "New Moon Acolyte's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156167,
+    156222,
+    156257,
+    156292,
+    156327,
+    156362,
+    156397,
+    156432,
+    156467,
+    156502
+  ]
+}

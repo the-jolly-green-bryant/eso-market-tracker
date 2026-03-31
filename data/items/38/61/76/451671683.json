@@ -1,0 +1,10 @@
+{
+  "internalId": 451671683,
+  "name": "Ayleid Column, Short",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_housingcolumnbasesm001.png",
+  "bindType": -1,
+  "knownIds": [
+    212403
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3046845741,
+  "name": "Bloodthorn Brooch",
+  "description": "Jewelry awarded for defeating the Bloodthorn zombie lord, Asard the Putrid.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    42959
+  ]
+}

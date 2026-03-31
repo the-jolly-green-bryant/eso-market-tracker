@@ -1,0 +1,19 @@
+{
+  "internalId": 3733878644,
+  "name": "Fortified Brass Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130731,
+    130766,
+    130801,
+    130836,
+    130871,
+    130906,
+    130941,
+    130976,
+    131011,
+    131046
+  ]
+}

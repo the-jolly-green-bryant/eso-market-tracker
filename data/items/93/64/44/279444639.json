@@ -1,0 +1,10 @@
+{
+  "internalId": 279444639,
+  "name": "Cyrodiil Treasure Hunter's Parcel",
+  "description": "This container holds a selection of treasure maps, to be put to the test by would-be treasure hunters.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_scrolls_of_oath.png",
+  "bindType": 2,
+  "knownIds": [
+    175055
+  ]
+}

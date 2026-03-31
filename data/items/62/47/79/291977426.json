@@ -1,0 +1,17 @@
+{
+  "internalId": 291977426,
+  "name": "Epaulets of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90246,
+    90267,
+    90288,
+    90309,
+    90330,
+    90351,
+    90372,
+    90393
+  ]
+}

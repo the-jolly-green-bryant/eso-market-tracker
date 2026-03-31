@@ -1,0 +1,10 @@
+{
+  "internalId": 498203596,
+  "name": "Murkmire Brazier, Shell",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklampshell001.png",
+  "bindType": -1,
+  "knownIds": [
+    145365
+  ]
+}

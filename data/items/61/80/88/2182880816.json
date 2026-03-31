@@ -1,0 +1,15 @@
+{
+  "internalId": 2182880816,
+  "name": "Dolorous Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_2hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1756247,
+    1760652,
+    1770206,
+    1771503,
+    1773342,
+    1779801
+  ]
+}

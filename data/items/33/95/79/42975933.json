@@ -1,0 +1,11 @@
+{
+  "internalId": 42975933,
+  "name": "Chicken Breast",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_chicken.png",
+  "bindType": -1,
+  "knownIds": [
+    30446,
+    33819
+  ]
+}

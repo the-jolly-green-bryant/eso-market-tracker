@@ -1,0 +1,17 @@
+{
+  "internalId": 1048921671,
+  "name": "Gauntlets of the Kynmarcher's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180279,
+    180299,
+    180319,
+    180339,
+    180359,
+    180379,
+    180399,
+    180419
+  ]
+}

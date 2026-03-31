@@ -1,0 +1,29 @@
+{
+  "internalId": 3870467012,
+  "name": "Small Laundered Shipment",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    858976,
+    887980,
+    890983,
+    892538,
+    907247,
+    934628,
+    1058735,
+    1089407,
+    1091148,
+    1091309,
+    1145111,
+    1145143,
+    1154079,
+    1205846,
+    1214189,
+    1226635,
+    1327411,
+    1330636,
+    1364995,
+    1403156
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1067167608,
+  "name": "Crop, Wheat Stack",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_crp_wheatstalks007.png",
+  "bindType": -1,
+  "knownIds": [
+    130319
+  ]
+}

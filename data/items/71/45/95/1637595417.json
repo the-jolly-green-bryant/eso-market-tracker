@@ -1,0 +1,24 @@
+{
+  "internalId": 1637595417,
+  "name": "Bone Pirate's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1340774,
+    1340785,
+    1343142,
+    1349737,
+    1361456,
+    1379411,
+    1388178,
+    1545528,
+    1550423,
+    1565358,
+    1579495,
+    1606281,
+    1610441,
+    1637940,
+    1762379
+  ]
+}

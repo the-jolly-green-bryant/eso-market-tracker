@@ -1,0 +1,23 @@
+{
+  "internalId": 2108543861,
+  "name": "Winterborn Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1170239,
+    1194698,
+    1254779,
+    1272808,
+    1283516,
+    1291468,
+    1339801,
+    1391346,
+    1391592,
+    1406411,
+    1407318,
+    1418143,
+    1443011,
+    1598356
+  ]
+}

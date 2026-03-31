@@ -1,0 +1,16 @@
+{
+  "internalId": 33252353,
+  "name": "Sithis' Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77293,
+    77328,
+    77363,
+    77398,
+    77433,
+    77468,
+    77503
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 3633109724,
+  "name": "Ritemaster's Bond Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1629043,
+    1636246,
+    1636991,
+    1735371
+  ]
+}

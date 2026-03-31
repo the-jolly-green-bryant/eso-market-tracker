@@ -1,0 +1,19 @@
+{
+  "internalId": 2753638372,
+  "name": "Telvanni Efficiency Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194954,
+    195009,
+    195044,
+    195079,
+    195114,
+    195149,
+    195184,
+    195219,
+    195254,
+    195289
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2251427628,
+  "name": "Maul of the Footman",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86940,
+    86960,
+    86980,
+    87000,
+    87020,
+    87040,
+    87060,
+    87080
+  ]
+}

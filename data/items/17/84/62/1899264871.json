@@ -1,0 +1,16 @@
+{
+  "internalId": 1899264871,
+  "name": "Boots of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168153,
+    168188,
+    168223,
+    168258,
+    168293,
+    168328,
+    168363
+  ]
+}

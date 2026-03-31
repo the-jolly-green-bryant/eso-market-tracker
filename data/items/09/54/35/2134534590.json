@@ -1,0 +1,19 @@
+{
+  "internalId": 2134534590,
+  "name": "Mace of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168748,
+    168803,
+    168838,
+    168873,
+    168908,
+    168943,
+    168978,
+    169013,
+    169048,
+    169083
+  ]
+}

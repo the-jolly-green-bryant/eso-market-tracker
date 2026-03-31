@@ -1,0 +1,10 @@
+{
+  "internalId": 3810223632,
+  "name": "Plant Cluster, Palmetto",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_palmetto005.png",
+  "bindType": -1,
+  "knownIds": [
+    153681
+  ]
+}

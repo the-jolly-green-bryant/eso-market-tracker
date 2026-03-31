@@ -1,0 +1,13 @@
+{
+  "internalId": 209543371,
+  "name": "Hat of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131303,
+    131338,
+    131373,
+    131408
+  ]
+}

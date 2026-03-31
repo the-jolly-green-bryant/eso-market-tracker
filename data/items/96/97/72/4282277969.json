@@ -1,0 +1,17 @@
+{
+  "internalId": 4282277969,
+  "name": "Jerkin of the Weald",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_light_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    204902,
+    204923,
+    204944,
+    204965,
+    204986,
+    205007,
+    205028,
+    205049
+  ]
+}

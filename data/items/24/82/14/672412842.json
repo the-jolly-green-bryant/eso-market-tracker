@@ -1,0 +1,17 @@
+{
+  "internalId": 672412842,
+  "name": "Enervating Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183581,
+    183601,
+    183621,
+    183641,
+    183661,
+    183681,
+    183701,
+    183721
+  ]
+}

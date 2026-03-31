@@ -1,0 +1,10 @@
+{
+  "internalId": 2263676639,
+  "name": "Wabbajack",
+  "description": "The Wabbajack.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_magesguild_wabbajack.png",
+  "bindType": 3,
+  "knownIds": [
+    33235
+  ]
+}

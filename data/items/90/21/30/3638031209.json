@@ -1,0 +1,17 @@
+{
+  "internalId": 3638031209,
+  "name": "Spriggan's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    100600,
+    100620,
+    100640,
+    100660,
+    100680,
+    100700,
+    100720,
+    100740
+  ]
+}

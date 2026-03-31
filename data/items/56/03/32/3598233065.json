@@ -1,0 +1,19 @@
+{
+  "internalId": 3598233065,
+  "name": "Maligalig's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruth_lgt_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1568027,
+    1568169,
+    1571492,
+    1574162,
+    1577414,
+    1595407,
+    1601020,
+    1603465,
+    1610029,
+    1655439
+  ]
+}

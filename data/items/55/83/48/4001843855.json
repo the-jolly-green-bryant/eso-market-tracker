@@ -1,0 +1,17 @@
+{
+  "internalId": 4001843855,
+  "name": "Gloom-Graced Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135177,
+    135197,
+    135217,
+    135237,
+    135257,
+    135277,
+    135297,
+    135317
+  ]
+}

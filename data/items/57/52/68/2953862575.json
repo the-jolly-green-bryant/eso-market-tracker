@@ -1,0 +1,10 @@
+{
+  "internalId": 2953862575,
+  "name": "Silver Kettle, Masterworked",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_teapot001.png",
+  "bindType": -1,
+  "knownIds": [
+    147592
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3976730222,
+  "name": "Inferno Staff of the Red Mountain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    84966,
+    84986,
+    85006,
+    85026,
+    85046
+  ]
+}

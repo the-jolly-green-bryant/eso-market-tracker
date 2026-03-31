@@ -1,0 +1,10 @@
+{
+  "internalId": 2555218225,
+  "name": "Khajiit Urn, Amber",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_vase003.png",
+  "bindType": -1,
+  "knownIds": [
+    115695
+  ]
+}

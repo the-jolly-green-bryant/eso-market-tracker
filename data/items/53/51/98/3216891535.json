@@ -1,0 +1,12 @@
+{
+  "internalId": 3216891535,
+  "name": "Wrathsun Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_2hsword.png",
+  "bindType": -1,
+  "knownIds": [
+    1696570,
+    1720386,
+    1779526
+  ]
+}

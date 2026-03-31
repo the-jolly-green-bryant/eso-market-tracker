@@ -1,0 +1,10 @@
+{
+  "internalId": 1894302388,
+  "name": "The Spinner's Weave",
+  "description": "This elegant cowl smells faintly of lilacs. The pleasant scent helps the wearer concentrate amidst chaotic surroundings.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54865
+  ]
+}

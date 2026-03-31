@@ -1,0 +1,17 @@
+{
+  "internalId": 508197704,
+  "name": "Spinner's Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    99666,
+    99687,
+    99708,
+    99729,
+    99750,
+    99771,
+    99792,
+    99813
+  ]
+}

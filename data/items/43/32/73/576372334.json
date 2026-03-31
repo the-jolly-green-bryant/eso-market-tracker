@@ -1,0 +1,19 @@
+{
+  "internalId": 576372334,
+  "name": "Gladiator's Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    75400,
+    75435,
+    75470,
+    75505,
+    75540,
+    75575,
+    75610,
+    75645,
+    75680,
+    75715
+  ]
+}

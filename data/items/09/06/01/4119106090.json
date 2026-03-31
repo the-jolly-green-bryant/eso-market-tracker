@@ -1,0 +1,10 @@
+{
+  "internalId": 4119106090,
+  "name": "Gardening Gloves",
+  "description": "The rich loam of the Everwound Wellspring is a rare and precious resource, and should be handled with gentle care.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133234
+  ]
+}

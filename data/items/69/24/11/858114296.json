@@ -1,0 +1,10 @@
+{
+  "internalId": 858114296,
+  "name": "Morrowind Vambraces",
+  "description": "Dralnas awarded these medium-weight hand protectors for destroying the Anguish Gem and restoring his soul.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15746
+  ]
+}

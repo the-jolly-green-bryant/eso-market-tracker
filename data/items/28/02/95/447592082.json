@@ -1,0 +1,10 @@
+{
+  "internalId": 447592082,
+  "name": "Orcish Desk with Furs",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgdeska001.png",
+  "bindType": -1,
+  "knownIds": [
+    116433
+  ]
+}

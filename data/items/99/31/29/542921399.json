@@ -1,0 +1,15 @@
+{
+  "internalId": 542921399,
+  "name": "Ice Staff of the Hawk's Eye",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93206,
+    93226,
+    93246,
+    93286,
+    93306,
+    93326
+  ]
+}

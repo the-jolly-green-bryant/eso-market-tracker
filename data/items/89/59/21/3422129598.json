@@ -1,0 +1,10 @@
+{
+  "internalId": 3422129598,
+  "name": "Pact Frost Lancer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_frost.png",
+  "bindType": -1,
+  "knownIds": [
+    1370416
+  ]
+}

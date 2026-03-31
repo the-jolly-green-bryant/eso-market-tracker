@@ -1,0 +1,17 @@
+{
+  "internalId": 2349466811,
+  "name": "Sword of the Powerful Assault",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117091,
+    117111,
+    117131,
+    117151,
+    117171,
+    117191,
+    117211,
+    117231
+  ]
+}

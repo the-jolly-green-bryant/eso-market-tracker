@@ -1,0 +1,22 @@
+{
+  "internalId": 2110825866,
+  "name": "Hex Siphoner's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1402987,
+    1411083,
+    1475854,
+    1476562,
+    1509303,
+    1538768,
+    1538773,
+    1558015,
+    1563030,
+    1615119,
+    1632474,
+    1658627,
+    1658630
+  ]
+}

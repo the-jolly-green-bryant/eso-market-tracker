@@ -1,0 +1,16 @@
+{
+  "internalId": 1258906628,
+  "name": "Hagraven's Garden Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1235071,
+    1388777,
+    1551042,
+    1552054,
+    1593471,
+    1623791,
+    1774830
+  ]
+}

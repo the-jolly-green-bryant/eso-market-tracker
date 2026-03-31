@@ -1,0 +1,24 @@
+{
+  "internalId": 1079320174,
+  "name": "Rattlecage Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1131065,
+    1144069,
+    1150402,
+    1228897,
+    1350056,
+    1400583,
+    1401003,
+    1413969,
+    1510581,
+    1510716,
+    1532904,
+    1538323,
+    1544430,
+    1545422,
+    1764930
+  ]
+}

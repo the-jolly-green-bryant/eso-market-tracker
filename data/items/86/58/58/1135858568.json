@@ -1,0 +1,10 @@
+{
+  "internalId": 1135858568,
+  "name": "Murkmire Sconce, Shell",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklampwallbrazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    145364
+  ]
+}

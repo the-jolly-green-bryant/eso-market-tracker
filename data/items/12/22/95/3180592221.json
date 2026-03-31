@@ -1,0 +1,10 @@
+{
+  "internalId": 3180592221,
+  "name": "Necrom Bench, Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbenchhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    197492
+  ]
+}

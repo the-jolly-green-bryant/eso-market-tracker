@@ -1,0 +1,10 @@
+{
+  "internalId": 3429138409,
+  "name": "Carpet Roll, Sunset",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketclothroll002.png",
+  "bindType": -1,
+  "knownIds": [
+    118151
+  ]
+}

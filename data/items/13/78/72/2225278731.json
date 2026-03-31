@@ -1,0 +1,14 @@
+{
+  "internalId": 2225278731,
+  "name": "Axe of the Trainee",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    95870,
+    95970,
+    96159,
+    96243,
+    96343
+  ]
+}

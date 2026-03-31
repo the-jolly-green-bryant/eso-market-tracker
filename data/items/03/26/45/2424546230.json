@@ -1,0 +1,10 @@
+{
+  "internalId": 2424546230,
+  "name": "Necrom Brazier, Tall Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_standingbrazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    198461
+  ]
+}

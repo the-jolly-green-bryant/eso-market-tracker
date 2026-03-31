@@ -1,0 +1,10 @@
+{
+  "internalId": 69462912,
+  "name": "Twice-Born Star Medium Armor",
+  "description": "A Crafted Armor set constructed in Craglorn.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182659
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2559213774,
+  "name": "Leyawiin Nightstand, Formal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leytableend001.png",
+  "bindType": -1,
+  "knownIds": [
+    175619
+  ]
+}

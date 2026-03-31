@@ -1,0 +1,19 @@
+{
+  "internalId": 3470436249,
+  "name": "Forest Wraith's Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    192026,
+    192081,
+    192116,
+    192151,
+    192186,
+    192221,
+    192256,
+    192291,
+    192326,
+    192361
+  ]
+}

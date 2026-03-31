@@ -1,0 +1,17 @@
+{
+  "internalId": 644004829,
+  "name": "Warrior-Poet's Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_heavy_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122627,
+    122647,
+    122667,
+    122687,
+    122707,
+    122727,
+    122747,
+    122767
+  ]
+}

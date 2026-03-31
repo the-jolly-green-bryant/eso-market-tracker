@@ -1,0 +1,10 @@
+{
+  "internalId": 3174189745,
+  "name": "Pitch",
+  "description": "Improve quality from white to green.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_weapon_vendor_component_002.png",
+  "bindType": -1,
+  "knownIds": [
+    54178
+  ]
+}

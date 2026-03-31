@@ -1,0 +1,10 @@
+{
+  "internalId": 1741927167,
+  "name": "Solitude Tent, Open",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_cmp_tentmerchant002.png",
+  "bindType": -1,
+  "knownIds": [
+    167325
+  ]
+}

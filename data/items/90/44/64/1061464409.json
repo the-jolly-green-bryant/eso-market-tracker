@@ -1,0 +1,11 @@
+{
+  "internalId": 1061464409,
+  "name": "Flat Mazte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
+  "bindType": -1,
+  "knownIds": [
+    32145,
+    37872
+  ]
+}

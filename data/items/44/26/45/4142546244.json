@@ -1,0 +1,10 @@
+{
+  "internalId": 4142546244,
+  "name": "Scrib Jelly",
+  "description": "An ingredient for alchemy.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_scrib_jelly.png",
+  "bindType": -1,
+  "knownIds": [
+    77589
+  ]
+}

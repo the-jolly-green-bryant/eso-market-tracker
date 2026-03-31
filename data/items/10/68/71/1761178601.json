@@ -1,0 +1,15 @@
+{
+  "internalId": 1761178601,
+  "name": "Hanu's Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_1hsword_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1348195,
+    1355841,
+    1531851,
+    1566873,
+    1583649,
+    1680468
+  ]
+}

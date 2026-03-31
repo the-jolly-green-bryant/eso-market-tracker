@@ -1,0 +1,10 @@
+{
+  "internalId": 3741058700,
+  "name": "Kagrenac's Hope Jewelry",
+  "description": "A Crafted Armor set constructed in the Earth Forge.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182499
+  ]
+}

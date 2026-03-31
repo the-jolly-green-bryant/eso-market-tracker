@@ -1,0 +1,17 @@
+{
+  "internalId": 1703548343,
+  "name": "Unflinching Ultimate Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219493,
+    219513,
+    219533,
+    219553,
+    219573,
+    219593,
+    219613,
+    219633
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3330243899,
+  "name": "Redguard Wedding Planter",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_housingvarboxplantercombo006.png",
+  "bindType": -1,
+  "knownIds": [
+    218017
+  ]
+}

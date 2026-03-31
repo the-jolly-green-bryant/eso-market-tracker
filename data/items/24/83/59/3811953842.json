@@ -1,0 +1,18 @@
+{
+  "internalId": 3811953842,
+  "name": "Old Growth Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    191701,
+    191736,
+    191771,
+    191806,
+    191841,
+    191876,
+    191911,
+    191946,
+    191981
+  ]
+}

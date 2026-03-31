@@ -1,0 +1,18 @@
+{
+  "internalId": 3740607471,
+  "name": "Dagger of the Lunar Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_dagger_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1096438,
+    1172048,
+    1200207,
+    1454579,
+    1686869,
+    1715986,
+    1716161,
+    1741785,
+    1757614
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1060896942,
+  "name": "Stones, Granite Group",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_eastmarchsmall008.png",
+  "bindType": -1,
+  "knownIds": [
+    132219
+  ]
+}

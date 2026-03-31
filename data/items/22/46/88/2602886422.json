@@ -1,0 +1,10 @@
+{
+  "internalId": 2602886422,
+  "name": "Tree, Withered Marsh",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_marsh007.png",
+  "bindType": -1,
+  "knownIds": [
+    130314
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1343598202,
+  "name": "Queen's Own Cuirass",
+  "description": "This chestpiece bears the markings of the Queen's Own Navy. It is lightweight enough that one could swim while wearing it.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    43580
+  ]
+}

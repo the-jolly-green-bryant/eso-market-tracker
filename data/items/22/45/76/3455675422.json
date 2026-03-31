@@ -1,0 +1,10 @@
+{
+  "internalId": 3455675422,
+  "name": "Solitude Table, Rustic",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tablerectangle001.png",
+  "bindType": -1,
+  "knownIds": [
+    165674
+  ]
+}

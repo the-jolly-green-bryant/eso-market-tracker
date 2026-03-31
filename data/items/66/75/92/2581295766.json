@@ -1,0 +1,12 @@
+{
+  "internalId": 2581295766,
+  "name": "Silverhoof Loop",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    411358,
+    539808,
+    615174
+  ]
+}

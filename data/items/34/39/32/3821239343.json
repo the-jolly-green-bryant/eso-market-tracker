@@ -1,0 +1,10 @@
+{
+  "internalId": 3821239343,
+  "name": "Redguard Armchair, Slatted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varchair002.png",
+  "bindType": -1,
+  "knownIds": [
+    117679
+  ]
+}

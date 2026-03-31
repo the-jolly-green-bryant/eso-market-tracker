@@ -1,0 +1,19 @@
+{
+  "internalId": 3320200037,
+  "name": "Sload's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136078,
+    136113,
+    136148,
+    136183,
+    136218,
+    136253,
+    136288,
+    136323,
+    136358,
+    136393
+  ]
+}

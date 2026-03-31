@@ -1,0 +1,19 @@
+{
+  "internalId": 146148717,
+  "name": "Seeker Synthesis Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    195331,
+    195386,
+    195421,
+    195456,
+    195491,
+    195526,
+    195561,
+    195596,
+    195631,
+    195666
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 946888230,
+  "name": "Lightning Staff of Morihaus",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    76927,
+    76947,
+    76967,
+    76987,
+    77007,
+    77027,
+    77047,
+    77067
+  ]
+}

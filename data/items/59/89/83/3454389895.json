@@ -1,0 +1,19 @@
+{
+  "internalId": 3454389895,
+  "name": "Greaves of Aetherial Ascension",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168764,
+    168819,
+    168854,
+    168889,
+    168924,
+    168959,
+    168994,
+    169029,
+    169064,
+    169099
+  ]
+}

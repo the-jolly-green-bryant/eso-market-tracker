@@ -1,0 +1,10 @@
+{
+  "internalId": 1681427446,
+  "name": "Ice Staff of Redistribution",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60620
+  ]
+}

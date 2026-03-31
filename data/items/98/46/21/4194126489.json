@@ -1,0 +1,10 @@
+{
+  "internalId": 4194126489,
+  "name": "Xanmeer Genesis Jewelry",
+  "description": "An All Weights Armor set found in Solstice.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    223565
+  ]
+}

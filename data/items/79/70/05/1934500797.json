@@ -1,0 +1,16 @@
+{
+  "internalId": 1934500797,
+  "name": "Epaulets of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168150,
+    168185,
+    168220,
+    168255,
+    168290,
+    168325,
+    168360
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 2217670310,
+  "name": "Jolting Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1140143,
+    1177142,
+    1193984,
+    1194103,
+    1527448,
+    1562155,
+    1579413,
+    1602496,
+    1605739,
+    1626780,
+    1626781
+  ]
+}

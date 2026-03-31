@@ -1,0 +1,15 @@
+{
+  "internalId": 2362404087,
+  "name": "Aetheric Lancer Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_bow.png",
+  "bindType": -1,
+  "knownIds": [
+    1738622,
+    1756480,
+    1757178,
+    1759589,
+    1760666,
+    1777071
+  ]
+}

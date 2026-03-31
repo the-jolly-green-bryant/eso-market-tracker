@@ -1,0 +1,10 @@
+{
+  "internalId": 769500502,
+  "name": "Plant, Pearlwort",
+  "description": "This is a tiny house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_seapearlwort005.png",
+  "bindType": -1,
+  "knownIds": [
+    139085
+  ]
+}

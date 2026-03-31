@@ -1,0 +1,15 @@
+{
+  "internalId": 2046454969,
+  "name": "Battle Axe of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70092,
+    70127,
+    70162,
+    70197,
+    70232,
+    70267
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 231993030,
+  "name": "Indomitable Fury Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143984,
+    144005,
+    144026,
+    144047,
+    144068
+  ]
+}

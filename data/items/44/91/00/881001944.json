@@ -1,0 +1,14 @@
+{
+  "internalId": 881001944,
+  "name": "Eternal Hunt Epaulets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72683,
+    72718,
+    72753,
+    72788,
+    72823
+  ]
+}

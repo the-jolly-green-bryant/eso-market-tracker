@@ -1,0 +1,10 @@
+{
+  "internalId": 2313279856,
+  "name": "Solitude Mirror, Noble Full-Length",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_mirrorfancy001.png",
+  "bindType": -1,
+  "knownIds": [
+    165704
+  ]
+}

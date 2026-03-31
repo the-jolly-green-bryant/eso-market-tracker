@@ -1,0 +1,10 @@
+{
+  "internalId": 733378933,
+  "name": "Alinor Carpet, Verdant",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_rugrectangular001.png",
+  "bindType": -1,
+  "knownIds": [
+    139316
+  ]
+}

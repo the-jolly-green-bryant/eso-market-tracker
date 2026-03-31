@@ -1,0 +1,10 @@
+{
+  "internalId": 3081821330,
+  "name": "Breton Footlocker, Knotwork",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_trunk001.png",
+  "bindType": -1,
+  "knownIds": [
+    115231
+  ]
+}

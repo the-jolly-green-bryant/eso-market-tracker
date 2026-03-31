@@ -1,0 +1,10 @@
+{
+  "internalId": 1865189059,
+  "name": "Statue of Malacath, Orc-Father",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_exc_housingstatuemalacath002.png",
+  "bindType": -1,
+  "knownIds": [
+    134475
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3892619489,
+  "name": "Epic Bard's Cowl",
+  "description": "Passed down through Valencia's family, this simple garment retains the glamor of its association to that legendary bard.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54366
+  ]
+}

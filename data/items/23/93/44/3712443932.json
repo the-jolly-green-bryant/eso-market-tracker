@@ -1,0 +1,17 @@
+{
+  "internalId": 3712443932,
+  "name": "Restoration Staff of the Sentry",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93916,
+    93936,
+    93956,
+    93976,
+    93996,
+    94016,
+    94036,
+    94056
+  ]
+}

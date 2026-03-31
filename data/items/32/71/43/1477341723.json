@@ -1,0 +1,10 @@
+{
+  "internalId": 1477341723,
+  "name": "Elsweyr Plate, Rough",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_plate001.png",
+  "bindType": -1,
+  "knownIds": [
+    151630
+  ]
+}

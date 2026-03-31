@@ -1,0 +1,10 @@
+{
+  "internalId": 3339546648,
+  "name": "Crafting Motif 88: Ancestral Orc Style",
+  "description": "Use to learn the Ancestral Orc crafting style. Also teaches the equivalent Ancestral Orc Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    160610
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3959981961,
+  "name": "Statue, Kaalgrontiid's Ascent",
+  "description": "This statue of the mighty Dragon Kaalgrontiid shows him ascending majestically and breathing flame, frost, lightning, and even aeonfire from his position of dominance.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_sestatuedemonspire001.png",
+  "bindType": -1,
+  "knownIds": [
+    156645
+  ]
+}

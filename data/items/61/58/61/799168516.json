@@ -1,0 +1,15 @@
+{
+  "internalId": 799168516,
+  "name": "Necklace of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139743,
+    139833,
+    139923,
+    140013,
+    140103,
+    140193
+  ]
+}

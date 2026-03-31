@@ -1,0 +1,14 @@
+{
+  "internalId": 710991427,
+  "name": "Grave-Stake Collector Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142986,
+    143021,
+    143056,
+    143091,
+    143126
+  ]
+}

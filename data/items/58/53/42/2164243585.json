@@ -1,0 +1,16 @@
+{
+  "internalId": 2164243585,
+  "name": "Deeproot Zeal Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600741,
+    1602871,
+    1605549,
+    1610420,
+    1650231,
+    1739845,
+    1776448
+  ]
+}

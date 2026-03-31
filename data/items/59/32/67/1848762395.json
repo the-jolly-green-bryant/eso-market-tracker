@@ -1,0 +1,10 @@
+{
+  "internalId": 1848762395,
+  "name": "Epaulets of Shadow",
+  "description": "Shoulder armor with the distinct aura of Nocturnal, the Daedric Prince of Shadow.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    174869
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3918541499,
+  "name": "Forgotten Adventurer's Belt",
+  "description": "Not much more than a rough strip of leather to hold your tattered outfit together.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190935
+  ]
+}

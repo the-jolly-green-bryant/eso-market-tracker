@@ -1,0 +1,10 @@
+{
+  "internalId": 3394814544,
+  "name": "Boulder, Flat Lichen",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_auridonsmall001.png",
+  "bindType": -1,
+  "knownIds": [
+    120652
+  ]
+}

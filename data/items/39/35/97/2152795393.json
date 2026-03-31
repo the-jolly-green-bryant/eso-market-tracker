@@ -1,0 +1,10 @@
+{
+  "internalId": 2152795393,
+  "name": "Rocks, Jagged Set",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_deshaansmall008.png",
+  "bindType": -1,
+  "knownIds": [
+    120572
+  ]
+}

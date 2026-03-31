@@ -1,0 +1,10 @@
+{
+  "internalId": 1893823064,
+  "name": "Apocrypha Bed, Marble Twin",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bedmedium002.png",
+  "bindType": -1,
+  "knownIds": [
+    197543
+  ]
+}

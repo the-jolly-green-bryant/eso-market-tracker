@@ -1,0 +1,19 @@
+{
+  "internalId": 2205979846,
+  "name": "Vastarie's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148715,
+    148770,
+    148805,
+    148840,
+    148875,
+    148910,
+    148945,
+    148980,
+    149015,
+    149050
+  ]
+}

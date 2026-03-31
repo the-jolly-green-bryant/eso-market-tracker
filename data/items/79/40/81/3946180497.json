@@ -1,0 +1,17 @@
+{
+  "internalId": 3946180497,
+  "name": "Inferno Staff of Soulshine",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101152,
+    101172,
+    101192,
+    101212,
+    101232,
+    101252,
+    101272,
+    101292
+  ]
+}

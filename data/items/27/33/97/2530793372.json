@@ -1,0 +1,10 @@
+{
+  "internalId": 2530793372,
+  "name": "Redoran Tray, Floral",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaplatter001.png",
+  "bindType": -1,
+  "knownIds": [
+    126524
+  ]
+}

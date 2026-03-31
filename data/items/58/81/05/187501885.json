@@ -1,0 +1,17 @@
+{
+  "internalId": 187501885,
+  "name": "Vanguard's Challenge Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123168,
+    123188,
+    123208,
+    123228,
+    123248,
+    123268,
+    123288,
+    123308
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2189341477,
+  "name": "Colovian Curtains, Sage",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_curtain004.png",
+  "bindType": -1,
+  "knownIds": [
+    204722
+  ]
+}

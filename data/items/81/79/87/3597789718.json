@@ -1,0 +1,16 @@
+{
+  "internalId": 3597789718,
+  "name": "Maul of Succession",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1182320,
+    1407343,
+    1408764,
+    1525416,
+    1541907,
+    1598357,
+    1693530
+  ]
+}

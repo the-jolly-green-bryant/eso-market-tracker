@@ -1,0 +1,14 @@
+{
+  "internalId": 1677373531,
+  "name": "Leki's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    199411,
+    199412,
+    199413,
+    199414,
+    199415
+  ]
+}

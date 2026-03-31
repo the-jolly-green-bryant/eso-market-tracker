@@ -1,0 +1,13 @@
+{
+  "internalId": 1475240158,
+  "name": "Battle Axe of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129581,
+    129593,
+    129605,
+    129617
+  ]
+}

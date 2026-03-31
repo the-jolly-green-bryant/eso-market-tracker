@@ -1,0 +1,17 @@
+{
+  "internalId": 2443097678,
+  "name": "Stygian Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    102088,
+    102108,
+    102128,
+    102148,
+    102168,
+    102188,
+    102208,
+    102228
+  ]
+}

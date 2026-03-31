@@ -1,0 +1,10 @@
+{
+  "internalId": 1767815690,
+  "name": "Solitude Carpet, Wolf's-Head Border",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_rughi004.png",
+  "bindType": -1,
+  "knownIds": [
+    165645
+  ]
+}

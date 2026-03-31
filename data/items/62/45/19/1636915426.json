@@ -1,0 +1,11 @@
+{
+  "internalId": 1636915426,
+  "name": "strong glyph of crushing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_reducearmor.png",
+  "bindType": -1,
+  "knownIds": [
+    379072,
+    1445694
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 3577701586,
+  "name": "Netch Oil Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    211929,
+    211949,
+    211969,
+    211989,
+    212009,
+    212029,
+    212049,
+    212069
+  ]
+}

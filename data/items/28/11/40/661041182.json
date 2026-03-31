@@ -1,0 +1,13 @@
+{
+  "internalId": 661041182,
+  "name": "Cuirass of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_heavy_chest_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129775,
+    129782,
+    129789,
+    129796
+  ]
+}

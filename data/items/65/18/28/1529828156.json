@@ -1,0 +1,10 @@
+{
+  "internalId": 1529828156,
+  "name": "Apocrypha Dresser, Spiked",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_dressermedium001.png",
+  "bindType": -1,
+  "knownIds": [
+    198414
+  ]
+}

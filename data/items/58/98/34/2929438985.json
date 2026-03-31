@@ -1,0 +1,10 @@
+{
+  "internalId": 2929438985,
+  "name": "Dres Cup, Empty Greef",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlacup001a_empty.png",
+  "bindType": -1,
+  "knownIds": [
+    126389
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1173224271,
+  "name": "Deadlands Armoire, Etched",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedhigharmoire001.png",
+  "bindType": -1,
+  "knownIds": [
+    182248
+  ]
+}

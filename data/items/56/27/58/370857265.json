@@ -1,0 +1,10 @@
+{
+  "internalId": 370857265,
+  "name": "Sandwalker's War Boots",
+  "description": "It seems Musi's skeletal owner has no need of these boots anymore, so they're yours.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    54635
+  ]
+}

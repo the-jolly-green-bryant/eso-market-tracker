@@ -1,0 +1,17 @@
+{
+  "internalId": 3195839881,
+  "name": "Lightning Staff of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84717,
+    84738,
+    84759,
+    84780,
+    84801,
+    84822,
+    84843,
+    84864
+  ]
+}

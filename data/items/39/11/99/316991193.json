@@ -1,0 +1,19 @@
+{
+  "internalId": 316991193,
+  "name": "Druid's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185554,
+    185609,
+    185644,
+    185679,
+    185714,
+    185749,
+    185784,
+    185819,
+    185854,
+    185889
+  ]
+}

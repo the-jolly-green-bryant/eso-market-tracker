@@ -1,0 +1,10 @@
+{
+  "internalId": 591115305,
+  "name": "Redguard Nightstand, Bolted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varendtable002.png",
+  "bindType": -1,
+  "knownIds": [
+    117791
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4019480293,
+  "name": "Blunted Blades Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204094,
+    204114,
+    204134,
+    204154,
+    204174,
+    204194,
+    204214,
+    204234
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 531568018,
+  "name": "Sword of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158373,
+    158408,
+    158443,
+    158478,
+    158513,
+    158548,
+    158583,
+    158618,
+    158653
+  ]
+}

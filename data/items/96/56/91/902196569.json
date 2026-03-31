@@ -1,0 +1,11 @@
+{
+  "internalId": 902196569,
+  "name": "Corpseburster Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_2hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1729081,
+    1777277
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": 2018454289,
+  "name": "Bow of True-Sworn Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackdrakevilla_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1418698,
+    1422792,
+    1422847,
+    1449947,
+    1489518,
+    1493675,
+    1500247,
+    1508928,
+    1513122,
+    1537691,
+    1540936,
+    1573669,
+    1726927
+  ]
+}

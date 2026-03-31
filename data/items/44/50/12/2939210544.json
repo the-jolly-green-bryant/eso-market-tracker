@@ -1,0 +1,11 @@
+{
+  "internalId": 2939210544,
+  "name": "Languor of Peryite Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189641,
+    189662
+  ]
+}

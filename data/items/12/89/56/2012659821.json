@@ -1,0 +1,10 @@
+{
+  "internalId": 2012659821,
+  "name": "Dark Elf Dresser, Angled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_bookcases001.png",
+  "bindType": -1,
+  "knownIds": [
+    115291
+  ]
+}

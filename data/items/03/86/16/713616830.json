@@ -1,0 +1,14 @@
+{
+  "internalId": 713616830,
+  "name": "Pelinal's Pauldron",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76279,
+    76314,
+    76349,
+    76384,
+    76419
+  ]
+}

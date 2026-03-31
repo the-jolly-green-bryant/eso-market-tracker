@@ -1,0 +1,17 @@
+{
+  "internalId": 3159132368,
+  "name": "Dagger of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_dagger_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167438,
+    167458,
+    167478,
+    167498,
+    167518,
+    167538,
+    167558,
+    167578
+  ]
+}

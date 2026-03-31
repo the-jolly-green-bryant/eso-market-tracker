@@ -1,0 +1,19 @@
+{
+  "internalId": 3861503332,
+  "name": "Greaves of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121918,
+    121953,
+    121988,
+    122023,
+    122058,
+    122093,
+    122128,
+    122163,
+    122198,
+    122233
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3457220967,
+  "name": "Storm Master's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1178283,
+    1236133,
+    1455566,
+    1456055,
+    1550083,
+    1683983
+  ]
+}

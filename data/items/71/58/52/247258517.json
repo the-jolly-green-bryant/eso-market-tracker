@@ -1,0 +1,17 @@
+{
+  "internalId": 247258517,
+  "name": "Greatsword of Truth",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89084,
+    89104,
+    89124,
+    89144,
+    89164,
+    89184,
+    89204,
+    89224
+  ]
+}

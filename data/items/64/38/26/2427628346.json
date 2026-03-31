@@ -1,0 +1,13 @@
+{
+  "internalId": 2427628346,
+  "name": "Aegis Caller's Ring",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1351145,
+    1352381,
+    1451926,
+    1463844
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2917640798,
+  "name": "Boots of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69590,
+    69625,
+    69660,
+    69695,
+    69730,
+    69765,
+    69800,
+    69835,
+    69870,
+    69905
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 303821822,
+  "name": "Highland Sentinel Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    205809,
+    205811,
+    205813,
+    205815,
+    205817,
+    205819,
+    205821,
+    205823,
+    205825,
+    205827
+  ]
+}

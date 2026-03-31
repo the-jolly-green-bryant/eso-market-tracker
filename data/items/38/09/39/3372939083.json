@@ -1,0 +1,12 @@
+{
+  "internalId": 3372939083,
+  "name": "Xanmeer Genesis Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223228,
+    223230,
+    223232
+  ]
+}

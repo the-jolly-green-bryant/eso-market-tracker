@@ -1,0 +1,13 @@
+{
+  "internalId": 1867753911,
+  "name": "Battle Axe of the Red Mountain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_2haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    84981,
+    85001,
+    85021,
+    85041
+  ]
+}

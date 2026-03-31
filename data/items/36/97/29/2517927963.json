@@ -1,0 +1,17 @@
+{
+  "internalId": 2517927963,
+  "name": "Undertaker's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    149071,
+    149091,
+    149111,
+    149131,
+    149151,
+    149171,
+    149191,
+    149211
+  ]
+}

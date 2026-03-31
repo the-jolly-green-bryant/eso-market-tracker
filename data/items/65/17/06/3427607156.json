@@ -1,0 +1,10 @@
+{
+  "internalId": 3427607156,
+  "name": "Cathay-Raht Statue, Warrior",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_statuecathayraht001.png",
+  "bindType": -1,
+  "knownIds": [
+    151835
+  ]
+}

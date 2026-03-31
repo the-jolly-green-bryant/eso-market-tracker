@@ -1,0 +1,10 @@
+{
+  "internalId": 1708946678,
+  "name": "Crafting Motif 60: Worm Cult Style",
+  "description": "Use to learn the Worm Cult crafting style. Also teaches the equivalent Worm Cult Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    134739
+  ]
+}

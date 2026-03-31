@@ -1,0 +1,17 @@
+{
+  "internalId": 1170031370,
+  "name": "Blunted Blades Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204079,
+    204099,
+    204119,
+    204139,
+    204159,
+    204179,
+    204199,
+    204219
+  ]
+}

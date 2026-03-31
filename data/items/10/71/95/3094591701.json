@@ -1,0 +1,17 @@
+{
+  "internalId": 3094591701,
+  "name": "Dagger of the Dreugh King Slayer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    80866,
+    80886,
+    80906,
+    80926,
+    80946,
+    80958,
+    80978,
+    80998
+  ]
+}

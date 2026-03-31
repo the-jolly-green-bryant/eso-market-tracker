@@ -1,0 +1,11 @@
+{
+  "internalId": 1166723080,
+  "name": "Ritemaster's Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1629632,
+    1636992
+  ]
+}

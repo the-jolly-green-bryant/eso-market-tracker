@@ -1,0 +1,10 @@
+{
+  "internalId": 3381718938,
+  "name": "Mad Architect's Medallion, Diamond",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_floordiamond001.png",
+  "bindType": -1,
+  "knownIds": [
+    171831
+  ]
+}

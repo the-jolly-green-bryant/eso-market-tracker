@@ -1,0 +1,17 @@
+{
+  "internalId": 3198246456,
+  "name": "Restoration Staff of Draugr Heritage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101710,
+    101730,
+    101750,
+    101770,
+    101790,
+    101810,
+    101830,
+    101850
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 1808579367,
+  "name": "Spell Parasite's Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163282,
+    163317,
+    163352,
+    163387,
+    163422
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 660448607,
+  "name": "Tree, Strong Cypress",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkcypress008.png",
+  "bindType": -1,
+  "knownIds": [
+    120743
+  ]
+}

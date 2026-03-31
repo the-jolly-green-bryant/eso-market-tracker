@@ -1,0 +1,10 @@
+{
+  "internalId": 2195377780,
+  "name": "Apocrypha Wardrobe, Spiked",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_wardrobemedium002.png",
+  "bindType": -1,
+  "knownIds": [
+    198426
+  ]
+}

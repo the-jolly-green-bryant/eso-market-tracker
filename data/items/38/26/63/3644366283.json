@@ -1,0 +1,10 @@
+{
+  "internalId": 3644366283,
+  "name": "Dark Staff of the War Maiden",
+  "description": "A fiery staff of Daedric origin. Mistress Dratha gave it to you in payment for helping her bargain for immortality.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    126049
+  ]
+}

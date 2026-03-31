@@ -1,0 +1,17 @@
+{
+  "internalId": 2813605112,
+  "name": "Steadfast's Mettle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_1haxe_a.png",
+  "bindType": 2,
+  "knownIds": [
+    186082,
+    186102,
+    186122,
+    186142,
+    186162,
+    186182,
+    186202,
+    186222
+  ]
+}

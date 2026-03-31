@@ -1,0 +1,18 @@
+{
+  "internalId": 2054365855,
+  "name": "Dagger of Meritorious Service",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116713,
+    116734,
+    116755,
+    116776,
+    116797,
+    116818,
+    116839,
+    116860,
+    116881
+  ]
+}

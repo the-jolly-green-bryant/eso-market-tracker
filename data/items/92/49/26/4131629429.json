@@ -1,0 +1,10 @@
+{
+  "internalId": 4131629429,
+  "name": "High Isle Nightstand, Ornate",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_endtablehigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    187838
+  ]
+}

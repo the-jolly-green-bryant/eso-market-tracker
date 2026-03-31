@@ -1,0 +1,10 @@
+{
+  "internalId": 3674027839,
+  "name": "Leyawiin Bench, Cushioned",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leybenchlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    175624
+  ]
+}

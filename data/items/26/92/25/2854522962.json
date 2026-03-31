@@ -1,0 +1,17 @@
+{
+  "internalId": 2854522962,
+  "name": "Epaulets of Dark Convergence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180448,
+    180469,
+    180490,
+    180511,
+    180532,
+    180553,
+    180574,
+    180595
+  ]
+}

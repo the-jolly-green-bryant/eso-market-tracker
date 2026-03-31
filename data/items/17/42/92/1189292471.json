@@ -1,0 +1,19 @@
+{
+  "internalId": 1189292471,
+  "name": "Breeches of the Order's Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    184795,
+    184850,
+    184885,
+    184920,
+    184955,
+    184990,
+    185025,
+    185060,
+    185095,
+    185130
+  ]
+}

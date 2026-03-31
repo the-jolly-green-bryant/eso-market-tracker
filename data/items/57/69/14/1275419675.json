@@ -1,0 +1,17 @@
+{
+  "internalId": 1275419675,
+  "name": "Vanus's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_mace_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135529,
+    135550,
+    135571,
+    135592,
+    135613,
+    135634,
+    135655,
+    135676
+  ]
+}

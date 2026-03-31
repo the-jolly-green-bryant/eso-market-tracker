@@ -1,0 +1,10 @@
+{
+  "internalId": 102263471,
+  "name": "Leyawiin Tapestry, Fleet",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_tapestrylarge009.png",
+  "bindType": -1,
+  "knownIds": [
+    175605
+  ]
+}

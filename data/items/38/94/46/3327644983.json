@@ -1,0 +1,10 @@
+{
+  "internalId": 3327644983,
+  "name": "Dragon's Blood",
+  "description": "The smoldering blood of Dragons, of interest to alchemists.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dragons_blood.png",
+  "bindType": -1,
+  "knownIds": [
+    150731
+  ]
+}

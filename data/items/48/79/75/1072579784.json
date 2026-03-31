@@ -1,0 +1,10 @@
+{
+  "internalId": 1072579784,
+  "name": "Tree, Healthy Privet",
+  "description": "This is a huge house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_rmplainstree003.png",
+  "bindType": -1,
+  "knownIds": [
+    120519
+  ]
+}

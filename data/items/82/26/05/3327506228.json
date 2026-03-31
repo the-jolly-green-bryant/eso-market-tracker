@@ -1,0 +1,17 @@
+{
+  "internalId": 3327506228,
+  "name": "Vanguard's Challenge Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    123176,
+    123196,
+    123216,
+    123236,
+    123256,
+    123276,
+    123296,
+    123316
+  ]
+}

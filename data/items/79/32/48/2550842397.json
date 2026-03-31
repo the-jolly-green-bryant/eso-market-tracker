@@ -1,0 +1,15 @@
+{
+  "internalId": 2550842397,
+  "name": "Ring of the Eternal Yokeda",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    939314,
+    1096467,
+    1147309,
+    1441622,
+    1441653,
+    1444762
+  ]
+}

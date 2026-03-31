@@ -1,0 +1,14 @@
+{
+  "internalId": 3727678229,
+  "name": "Shattered Fate Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194768,
+    194803,
+    194838,
+    194873,
+    194908
+  ]
+}

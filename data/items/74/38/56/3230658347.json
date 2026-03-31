@@ -1,0 +1,10 @@
+{
+  "internalId": 3230658347,
+  "name": "Crafting Motif 65: Huntsman Helmets",
+  "description": "Use to learn how to make Huntsman Helmets. Also teaches the equivalent Huntsman outfit styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    140470
+  ]
+}

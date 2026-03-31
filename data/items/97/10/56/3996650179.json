@@ -1,0 +1,10 @@
+{
+  "internalId": 3996650179,
+  "name": "Crafting Motif 45: Mazzatun Shields",
+  "description": "Use to learn how to make Mazzatun Shields. Also teaches the equivalent Mazzatun Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    114962
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1111332964,
+  "name": "Apocrypha Brazier, Stone Marker",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_libgraveyardmarker001.png",
+  "bindType": -1,
+  "knownIds": [
+    212580
+  ]
+}

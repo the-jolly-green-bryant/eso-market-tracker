@@ -1,0 +1,10 @@
+{
+  "internalId": 2606089603,
+  "name": "Crafting Motif 40: Order Hour Boots",
+  "description": "Use to learn how to make Order of the Hour Boots. Also teaches the equivalent Order Hour Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    82090
+  ]
+}

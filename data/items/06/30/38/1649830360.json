@@ -1,0 +1,10 @@
+{
+  "internalId": 1649830360,
+  "name": "Necrom Candle, Elegant",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_neccandle002.png",
+  "bindType": -1,
+  "knownIds": [
+    198457
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 464083866,
+  "name": "Apocrypha Specimen Jar, Spider",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarspider002.png",
+  "bindType": -1,
+  "knownIds": [
+    198389
+  ]
+}

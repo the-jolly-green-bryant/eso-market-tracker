@@ -1,0 +1,10 @@
+{
+  "internalId": 469360452,
+  "name": "Wood Elf Rack, Single",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_rack001.png",
+  "bindType": -1,
+  "knownIds": [
+    115590
+  ]
+}

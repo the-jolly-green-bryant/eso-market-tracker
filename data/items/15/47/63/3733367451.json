@@ -1,0 +1,11 @@
+{
+  "internalId": 3733367451,
+  "name": "Colovian Amber Ale",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
+  "bindType": -1,
+  "knownIds": [
+    61057,
+    57161
+  ]
+}

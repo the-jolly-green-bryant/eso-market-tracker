@@ -1,0 +1,18 @@
+{
+  "internalId": 2265716750,
+  "name": "Siroria's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_staff_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1256490,
+    1256779,
+    1283801,
+    1422652,
+    1464344,
+    1495297,
+    1548205,
+    1558430,
+    1622280
+  ]
+}

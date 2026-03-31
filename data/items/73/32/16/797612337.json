@@ -1,0 +1,19 @@
+{
+  "internalId": 797612337,
+  "name": "Coldharbour's Favorite Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    147951,
+    148006,
+    148041,
+    148076,
+    148111,
+    148146,
+    148181,
+    148216,
+    148251,
+    148286
+  ]
+}

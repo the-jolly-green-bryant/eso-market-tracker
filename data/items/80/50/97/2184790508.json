@@ -1,0 +1,10 @@
+{
+  "internalId": 2184790508,
+  "name": "Crafting Motif 30: Morag Tong Style",
+  "description": "Use to learn the Morag Tong crafting style. Also teaches the equivalent Morag Tong Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    73838
+  ]
+}

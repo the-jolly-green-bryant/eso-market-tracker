@@ -1,0 +1,10 @@
+{
+  "internalId": 3433787453,
+  "name": "Old Aldmeri Orphan Gruel",
+  "description": "A porridge traditionally served during the New Life Festival. As porridge goes, this High Elf meal is surprisingly tasty.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_orphanage_gruel.png",
+  "bindType": -1,
+  "knownIds": [
+    112435
+  ]
+}

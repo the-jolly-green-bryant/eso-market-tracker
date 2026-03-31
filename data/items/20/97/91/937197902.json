@@ -1,0 +1,17 @@
+{
+  "internalId": 937197902,
+  "name": "Dead-Water's Guile Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142428,
+    142448,
+    142468,
+    142488,
+    142508,
+    142528,
+    142548,
+    142568
+  ]
+}

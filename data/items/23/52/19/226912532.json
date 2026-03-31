@@ -1,0 +1,10 @@
+{
+  "internalId": 226912532,
+  "name": "Sweetsilver Pendant",
+  "description": "A delicate silver necklace. Ironically, this lucky pendant was likely stolen.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    152248
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1590335071,
+  "name": "Greaves of Eternal Vigor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhosthvy_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    161025,
+    161045,
+    161065,
+    161085,
+    161105,
+    161125,
+    161145,
+    161165,
+    161185
+  ]
+}

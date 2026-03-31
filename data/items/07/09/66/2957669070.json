@@ -1,0 +1,17 @@
+{
+  "internalId": 2957669070,
+  "name": "Reactive Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    117271,
+    117291,
+    117311,
+    117331,
+    117351,
+    117371,
+    117391,
+    117411
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 284993022,
+  "name": "Folding Pocket Rule",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_flute.png",
+  "bindType": -1,
+  "knownIds": [
+    979596
+  ]
+}

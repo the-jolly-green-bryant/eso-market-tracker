@@ -1,0 +1,10 @@
+{
+  "internalId": 1723755048,
+  "name": "Elsweyr Couch, Elegant Wooden",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_bench001.png",
+  "bindType": -1,
+  "knownIds": [
+    151839
+  ]
+}

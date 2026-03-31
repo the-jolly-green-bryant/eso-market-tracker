@@ -1,0 +1,33 @@
+{
+  "internalId": 3615421783,
+  "name": "Maw of the Infernal's Hat",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_daedroth_head_a.png",
+  "bindType": -1,
+  "knownIds": [
+    810975,
+    781215,
+    864924,
+    870687,
+    895432,
+    1078782,
+    1079118,
+    1082554,
+    1084606,
+    1159899,
+    1208412,
+    1243525,
+    1268318,
+    1285531,
+    1305708,
+    1305836,
+    1373456,
+    1377340,
+    1435249,
+    1468937,
+    1483157,
+    1485252,
+    1492941,
+    1519754
+  ]
+}

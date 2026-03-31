@@ -1,0 +1,17 @@
+{
+  "internalId": 1338791135,
+  "name": "Ice Staff of the Radiant Bastion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    167441,
+    167461,
+    167481,
+    167501,
+    167521,
+    167541,
+    167561,
+    167581
+  ]
+}

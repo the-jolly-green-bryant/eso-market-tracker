@@ -1,0 +1,17 @@
+{
+  "internalId": 35000114,
+  "name": "Arkay's Charity Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213748,
+    213769,
+    213790,
+    213811,
+    213832,
+    213853,
+    213874,
+    213895
+  ]
+}

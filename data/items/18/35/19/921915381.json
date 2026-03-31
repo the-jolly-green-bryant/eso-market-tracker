@@ -1,0 +1,10 @@
+{
+  "internalId": 921915381,
+  "name": "Plants, Sparse Underbrush",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_sapling_cluster001.png",
+  "bindType": -1,
+  "knownIds": [
+    121020
+  ]
+}

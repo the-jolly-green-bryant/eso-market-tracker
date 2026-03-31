@@ -1,0 +1,11 @@
+{
+  "internalId": 1146379761,
+  "name": "Strange Medium Armor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": -1,
+  "knownIds": [
+    54763,
+    54768
+  ]
+}

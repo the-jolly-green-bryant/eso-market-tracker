@@ -1,0 +1,10 @@
+{
+  "internalId": 3859520098,
+  "name": "Crafting Motif 32: Abah's Watch Bows",
+  "description": "Use to learn how to make Abah's Watch Bows. Also teaches the equivalent Abah's Watch Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    74543
+  ]
+}

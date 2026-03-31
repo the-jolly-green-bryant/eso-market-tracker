@@ -1,0 +1,11 @@
+{
+  "internalId": 2777881689,
+  "name": "Corpseburster Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_waist_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735310,
+    1743623
+  ]
+}

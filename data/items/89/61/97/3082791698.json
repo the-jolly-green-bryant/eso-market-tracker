@@ -1,0 +1,14 @@
+{
+  "internalId": 3082791698,
+  "name": "trifling glyph of reduce feat cost",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_reducefeatcosts.png",
+  "bindType": -1,
+  "knownIds": [
+    413947,
+    549503,
+    393601,
+    541457,
+    1427644
+  ]
+}

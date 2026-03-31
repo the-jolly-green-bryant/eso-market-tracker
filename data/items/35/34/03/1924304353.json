@@ -1,0 +1,17 @@
+{
+  "internalId": 1924304353,
+  "name": "Bracers of Nocturnal's Ploy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    189696,
+    189716,
+    189736,
+    189756,
+    189776,
+    189796,
+    189816,
+    189836
+  ]
+}

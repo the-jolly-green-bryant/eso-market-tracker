@@ -1,0 +1,17 @@
+{
+  "internalId": 3250068149,
+  "name": "Moon Hunter Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_silverdawn_2hmace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1310680,
+    1494628,
+    1540834,
+    1603052,
+    1692014,
+    1697721,
+    1735342,
+    1774997
+  ]
+}

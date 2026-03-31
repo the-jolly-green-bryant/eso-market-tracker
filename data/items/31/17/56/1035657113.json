@@ -1,0 +1,10 @@
+{
+  "internalId": 1035657113,
+  "name": "Ashlander Axe",
+  "description": "Salt water has slightly corroded the blade of this axe, but it's still razor-sharp.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    7548
+  ]
+}

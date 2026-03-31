@@ -1,0 +1,17 @@
+{
+  "internalId": 4195674647,
+  "name": "Shell Splitter Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194029,
+    194049,
+    194069,
+    194089,
+    194109,
+    194129,
+    194149,
+    194169
+  ]
+}

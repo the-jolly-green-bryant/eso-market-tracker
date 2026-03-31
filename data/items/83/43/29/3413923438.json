@@ -1,0 +1,11 @@
+{
+  "internalId": 3413923438,
+  "name": "Apple-Bobbing Stale Creek Water",
+  "description": "This is one of seven parts of the Apple-Bobbing Cauldron Runebox.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_5_r2.png",
+  "bindType": -1,
+  "knownIds": [
+    153489,
+    141911
+  ]
+}

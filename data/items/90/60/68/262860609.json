@@ -1,0 +1,17 @@
+{
+  "internalId": 262860609,
+  "name": "Draoife Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    190723,
+    190743,
+    190763,
+    190783,
+    190803,
+    190823,
+    190843,
+    190863
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "internalId": 3212589822,
+  "name": "Pyrebrand Pauldrons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_shoulders_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1735117,
+    1736962,
+    1753931,
+    1754584,
+    1777499
+  ]
+}

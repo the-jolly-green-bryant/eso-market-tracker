@@ -1,0 +1,10 @@
+{
+  "internalId": 2562965048,
+  "name": "Wood Elf Bedding, Padded",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_bedding001.png",
+  "bindType": -1,
+  "knownIds": [
+    115619
+  ]
+}

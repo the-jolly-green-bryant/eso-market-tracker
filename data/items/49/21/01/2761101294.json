@@ -1,0 +1,17 @@
+{
+  "internalId": 2761101294,
+  "name": "Deadly Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87879,
+    87892,
+    87905,
+    87918,
+    87931,
+    87944,
+    87957,
+    87970
+  ]
+}

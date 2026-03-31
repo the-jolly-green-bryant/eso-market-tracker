@@ -1,0 +1,10 @@
+{
+  "internalId": 1595643888,
+  "name": "Glow Bush, Purple",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mphpurpglowbush001.png",
+  "bindType": -1,
+  "knownIds": [
+    120889
+  ]
+}

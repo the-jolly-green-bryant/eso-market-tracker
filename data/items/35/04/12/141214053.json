@@ -1,0 +1,17 @@
+{
+  "internalId": 141214053,
+  "name": "Shell Splitter Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194039,
+    194059,
+    194079,
+    194099,
+    194119,
+    194139,
+    194159,
+    194179
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2140727940,
+  "name": "Kedeko",
+  "description": "Kedeko",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_052.png",
+  "bindType": -1,
+  "knownIds": [
+    45828
+  ]
+}

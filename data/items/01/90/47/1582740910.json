@@ -1,0 +1,14 @@
+{
+  "internalId": 1582740910,
+  "name": "Spellshredder Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    219214,
+    219235,
+    219256,
+    219277,
+    219298
+  ]
+}

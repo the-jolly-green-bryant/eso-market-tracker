@@ -1,0 +1,13 @@
+{
+  "internalId": 1015509030,
+  "name": "Inferno Staff of the Wyrd Tree",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    96859,
+    96879,
+    96899,
+    96919
+  ]
+}

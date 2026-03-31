@@ -1,0 +1,10 @@
+{
+  "internalId": 3595069652,
+  "name": "Tree, Mossy Swamp",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_treehenge_tree003.png",
+  "bindType": -1,
+  "knownIds": [
+    120525
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 1698923824,
+  "name": "Venomous Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_helmet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    160839,
+    160859,
+    160879,
+    160899,
+    160919,
+    160939,
+    160959,
+    160979,
+    160999
+  ]
+}

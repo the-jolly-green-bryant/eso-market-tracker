@@ -1,0 +1,13 @@
+{
+  "internalId": 3636096546,
+  "name": "Beacon of Oblivion Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1733750,
+    1742276,
+    1742277,
+    1751535
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2418413517,
+  "name": "Vastarie's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148699,
+    148754,
+    148789,
+    148824,
+    148859,
+    148894,
+    148929,
+    148964,
+    148999,
+    149034
+  ]
+}

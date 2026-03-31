@@ -1,0 +1,15 @@
+{
+  "internalId": 873312761,
+  "name": "Ring of Oblivion's Foe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139685,
+    139775,
+    139865,
+    139955,
+    140045,
+    140135
+  ]
+}

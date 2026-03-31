@@ -1,0 +1,18 @@
+{
+  "internalId": 2575537408,
+  "name": "Stuhn's Cuirass",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161289,
+    161324,
+    161359,
+    161394,
+    161429,
+    161464,
+    161499,
+    161534,
+    161569
+  ]
+}

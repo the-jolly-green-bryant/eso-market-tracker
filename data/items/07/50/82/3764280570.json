@@ -1,0 +1,10 @@
+{
+  "internalId": 3764280570,
+  "name": "Orcish Trunk, Heavy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgchest001.png",
+  "bindType": -1,
+  "knownIds": [
+    116393
+  ]
+}

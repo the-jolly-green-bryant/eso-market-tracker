@@ -1,0 +1,17 @@
+{
+  "internalId": 1985074246,
+  "name": "Defiler's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_medium_feet_a.png",
+  "bindType": 2,
+  "knownIds": [
+    122999,
+    123019,
+    123039,
+    123059,
+    123079,
+    123099,
+    123119,
+    123139
+  ]
+}

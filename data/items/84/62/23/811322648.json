@@ -1,0 +1,17 @@
+{
+  "internalId": 811322648,
+  "name": "Belt of Unfathomable Darkness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_medium_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133060,
+    133080,
+    133100,
+    133120,
+    133140,
+    133160,
+    133180,
+    133200
+  ]
+}

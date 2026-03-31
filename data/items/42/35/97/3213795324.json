@@ -1,0 +1,26 @@
+{
+  "internalId": 3213795324,
+  "name": "Lamia's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": -1,
+  "knownIds": [
+    1158976,
+    1226779,
+    1352796,
+    1371369,
+    1379405,
+    1398558,
+    1398591,
+    1409367,
+    1466287,
+    1502082,
+    1508649,
+    1520939,
+    1542064,
+    1610485,
+    1729128,
+    1741906,
+    1755980
+  ]
+}

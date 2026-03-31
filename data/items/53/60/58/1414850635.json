@@ -1,0 +1,22 @@
+{
+  "internalId": 1414850635,
+  "name": "Grothdarr's Fist",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hhammer_b.png",
+  "bindType": -1,
+  "knownIds": [
+    824678,
+    815293,
+    559297,
+    545644,
+    793630,
+    856786,
+    941788,
+    1159414,
+    1206209,
+    1470181,
+    1545413,
+    1632015,
+    1637655
+  ]
+}

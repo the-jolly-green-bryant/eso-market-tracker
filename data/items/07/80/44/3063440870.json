@@ -1,0 +1,11 @@
+{
+  "internalId": 3063440870,
+  "name": "Bloodcaller Clogs",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": -1,
+  "knownIds": [
+    699922,
+    794704
+  ]
+}

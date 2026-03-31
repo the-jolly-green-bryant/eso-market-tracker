@@ -1,0 +1,17 @@
+{
+  "internalId": 3847636153,
+  "name": "Full Belly Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_heavy_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214881,
+    214901,
+    214921,
+    214941,
+    214961,
+    214981,
+    215001,
+    215021
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 665500505,
+  "name": "Shipment of Copper",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1240884
+  ]
+}

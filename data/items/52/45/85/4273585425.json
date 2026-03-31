@@ -1,0 +1,10 @@
+{
+  "internalId": 4273585425,
+  "name": "Ancient Dragonguard Jewelry",
+  "description": "A Crafted Armor set constructed in Tideholm.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182856
+  ]
+}

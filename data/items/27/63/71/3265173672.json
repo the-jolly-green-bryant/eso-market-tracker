@@ -1,0 +1,19 @@
+{
+  "internalId": 3265173672,
+  "name": "Hist Whisperer's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    172484,
+    172539,
+    172574,
+    172609,
+    172644,
+    172679,
+    172714,
+    172749,
+    172784,
+    172819
+  ]
+}

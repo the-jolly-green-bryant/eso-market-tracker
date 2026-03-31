@@ -1,0 +1,16 @@
+{
+  "internalId": 325481568,
+  "name": "Highland Sentinel Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205898,
+    205933,
+    205968,
+    206003,
+    206038,
+    206073,
+    206108
+  ]
+}

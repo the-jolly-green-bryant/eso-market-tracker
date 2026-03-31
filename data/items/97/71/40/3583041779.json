@@ -1,0 +1,20 @@
+{
+  "internalId": 3583041779,
+  "name": "Boots of Gryphon's Reprisal",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruth_med_feet_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1567928,
+    1568156,
+    1573621,
+    1576223,
+    1576224,
+    1601264,
+    1605756,
+    1608932,
+    1620458,
+    1642739,
+    1650234
+  ]
+}

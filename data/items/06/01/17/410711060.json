@@ -1,0 +1,11 @@
+{
+  "internalId": 410711060,
+  "name": "trifling glyph of foulness",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_diseaseessence.png",
+  "bindType": -1,
+  "knownIds": [
+    529419,
+    1426672
+  ]
+}

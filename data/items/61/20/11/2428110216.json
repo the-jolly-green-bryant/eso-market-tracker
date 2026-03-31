@@ -1,0 +1,10 @@
+{
+  "internalId": 2428110216,
+  "name": "Painting of Sinkhole, Refined",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwood007.png",
+  "bindType": -1,
+  "knownIds": [
+    139075
+  ]
+}

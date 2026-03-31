@@ -1,0 +1,17 @@
+{
+  "internalId": 3177676719,
+  "name": "Mad Tinkerer's Sash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_waist_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132870,
+    132891,
+    132912,
+    132933,
+    132954,
+    132975,
+    132996,
+    133017
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2310409462,
+  "name": "Mace of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194191,
+    194211,
+    194231,
+    194251,
+    194271,
+    194291,
+    194311,
+    194331
+  ]
+}

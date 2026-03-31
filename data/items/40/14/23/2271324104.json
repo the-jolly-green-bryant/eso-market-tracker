@@ -1,0 +1,11 @@
+{
+  "internalId": 2271324104,
+  "name": "Ginger Wheat Beer",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_002.png",
+  "bindType": -1,
+  "knownIds": [
+    33963,
+    37848
+  ]
+}

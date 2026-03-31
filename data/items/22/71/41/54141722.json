@@ -1,0 +1,10 @@
+{
+  "internalId": 54141722,
+  "name": "Haj Mota Shell, Wall Mount",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_hajmotashell001.png",
+  "bindType": -1,
+  "knownIds": [
+    118289
+  ]
+}

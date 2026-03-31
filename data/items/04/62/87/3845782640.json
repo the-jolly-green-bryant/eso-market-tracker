@@ -1,0 +1,14 @@
+{
+  "internalId": 3845782640,
+  "name": "Mace of the Scathing Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_1hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1166876,
+    1258240,
+    1343676,
+    1359385,
+    1526563
+  ]
+}

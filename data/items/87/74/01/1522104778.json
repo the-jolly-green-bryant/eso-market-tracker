@@ -1,0 +1,10 @@
+{
+  "internalId": 1522104778,
+  "name": "Seal of Clan Morkul, Stone",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_puzzledoorplatemorkul001.png",
+  "bindType": -1,
+  "knownIds": [
+    134450
+  ]
+}

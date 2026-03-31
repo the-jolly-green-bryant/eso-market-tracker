@@ -1,0 +1,10 @@
+{
+  "internalId": 179263107,
+  "name": "Dark Elf Incense Burner",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_censer_001.png",
+  "bindType": -1,
+  "knownIds": [
+    804491
+  ]
+}

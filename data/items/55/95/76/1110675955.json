@@ -1,0 +1,10 @@
+{
+  "internalId": 1110675955,
+  "name": "Recipe: Cardiac Arrest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
+  "bindType": -1,
+  "knownIds": [
+    45621
+  ]
+}

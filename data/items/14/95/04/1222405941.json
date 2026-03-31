@@ -1,0 +1,13 @@
+{
+  "internalId": 1222405941,
+  "name": "Ice Staff of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    129587,
+    129599,
+    129611,
+    129623
+  ]
+}

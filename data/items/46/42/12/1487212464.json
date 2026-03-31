@@ -1,0 +1,10 @@
+{
+  "internalId": 1487212464,
+  "name": "Mundus Stone - the Steed",
+  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Steed.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/ability_mundusstones_006.png",
+  "bindType": 3,
+  "knownIds": [
+    211325
+  ]
+}

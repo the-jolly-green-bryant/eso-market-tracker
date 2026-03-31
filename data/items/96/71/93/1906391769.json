@@ -1,0 +1,19 @@
+{
+  "internalId": 1906391769,
+  "name": "Old Growth Amulet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    191648,
+    191650,
+    191652,
+    191654,
+    191656,
+    191658,
+    191660,
+    191662,
+    191664,
+    191666
+  ]
+}

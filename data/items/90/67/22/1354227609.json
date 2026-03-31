@@ -1,0 +1,17 @@
+{
+  "internalId": 1354227609,
+  "name": "Maligalig's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1584512,
+    1595403,
+    1596426,
+    1605755,
+    1753766,
+    1761101,
+    1761556,
+    1774008
+  ]
+}

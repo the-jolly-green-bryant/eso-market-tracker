@@ -1,0 +1,11 @@
+{
+  "internalId": 3426751205,
+  "name": "trifling glyph of absorb stamina",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_staminaabsorption.png",
+  "bindType": -1,
+  "knownIds": [
+    787362,
+    1426569
+  ]
+}

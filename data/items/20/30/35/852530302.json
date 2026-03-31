@@ -1,0 +1,12 @@
+{
+  "internalId": 852530302,
+  "name": "Ring of Trinimac's Valor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    71258,
+    71276,
+    71294
+  ]
+}

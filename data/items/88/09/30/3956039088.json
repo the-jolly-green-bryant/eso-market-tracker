@@ -1,0 +1,10 @@
+{
+  "internalId": 3956039088,
+  "name": "Servo-Splint",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_dwarven_tuner.png",
+  "bindType": -1,
+  "knownIds": [
+    1270600
+  ]
+}

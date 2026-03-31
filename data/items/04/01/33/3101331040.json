@@ -1,0 +1,10 @@
+{
+  "internalId": 3101331040,
+  "name": "Mammoth Band of the Dragon",
+  "description": "A ring awarded for defeating the giant mammoth, Mannskadi.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    43037
+  ]
+}

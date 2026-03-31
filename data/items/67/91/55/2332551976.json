@@ -1,0 +1,17 @@
+{
+  "internalId": 2332551976,
+  "name": "Full Belly Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_heavy_head_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214878,
+    214898,
+    214918,
+    214938,
+    214958,
+    214978,
+    214998,
+    215018
+  ]
+}

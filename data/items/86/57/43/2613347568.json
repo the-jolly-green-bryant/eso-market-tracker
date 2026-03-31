@@ -1,0 +1,17 @@
+{
+  "internalId": 2613347568,
+  "name": "Ice Staff of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85089,
+    85110,
+    85131,
+    85152,
+    85173,
+    85194,
+    85215,
+    85236
+  ]
+}

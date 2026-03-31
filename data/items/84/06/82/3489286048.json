@@ -1,0 +1,10 @@
+{
+  "internalId": 3489286048,
+  "name": "Leyawiin Windowbox, Yellow Daisies",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leydetachableplantershousing001.png",
+  "bindType": -1,
+  "knownIds": [
+    175773
+  ]
+}

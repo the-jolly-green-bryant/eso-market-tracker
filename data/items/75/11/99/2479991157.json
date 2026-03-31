@@ -1,0 +1,10 @@
+{
+  "internalId": 2479991157,
+  "name": "Druidic Wind Chimes, Stone",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_druwindchimes001.png",
+  "bindType": -1,
+  "knownIds": [
+    191199
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 3741757809,
+  "name": "yew shield of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": -1,
+  "knownIds": [
+    481691,
+    743218,
+    427179,
+    487821,
+    523256,
+    623549,
+    623403,
+    794760,
+    786433
+  ]
+}

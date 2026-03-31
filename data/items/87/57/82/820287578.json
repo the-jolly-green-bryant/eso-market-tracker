@@ -1,0 +1,10 @@
+{
+  "internalId": 820287578,
+  "name": "Fargrave Gems, Levitating",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farfloatingsoulgems001.png",
+  "bindType": -1,
+  "knownIds": [
+    182226
+  ]
+}

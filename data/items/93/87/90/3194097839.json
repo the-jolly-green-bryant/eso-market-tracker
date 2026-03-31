@@ -1,0 +1,17 @@
+{
+  "internalId": 3194097839,
+  "name": "Camonna Tong Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_1hsword_a.png",
+  "bindType": 2,
+  "knownIds": [
+    195875,
+    195895,
+    195915,
+    195935,
+    195955,
+    195975,
+    195995,
+    196015
+  ]
+}

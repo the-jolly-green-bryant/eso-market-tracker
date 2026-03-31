@@ -1,0 +1,10 @@
+{
+  "internalId": 804466029,
+  "name": "Leyawiin Rug, Worn",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyruglo002.png",
+  "bindType": -1,
+  "knownIds": [
+    175724
+  ]
+}

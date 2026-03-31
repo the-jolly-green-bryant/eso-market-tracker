@@ -1,0 +1,10 @@
+{
+  "internalId": 3032574740,
+  "name": "Redguard Chandelier, Dark",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varchadelier003.png",
+  "bindType": -1,
+  "knownIds": [
+    117910
+  ]
+}

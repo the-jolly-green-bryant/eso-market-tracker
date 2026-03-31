@@ -1,0 +1,17 @@
+{
+  "internalId": 2495963898,
+  "name": "Sabatons of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    204255,
+    204275,
+    204295,
+    204315,
+    204335,
+    204355,
+    204375,
+    204395
+  ]
+}

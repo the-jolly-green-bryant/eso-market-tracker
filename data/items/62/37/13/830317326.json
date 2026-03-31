@@ -1,0 +1,19 @@
+{
+  "internalId": 830317326,
+  "name": "Tharriker's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205404,
+    205459,
+    205494,
+    205529,
+    205564,
+    205599,
+    205634,
+    205669,
+    205704,
+    205739
+  ]
+}

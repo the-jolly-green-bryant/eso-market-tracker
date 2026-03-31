@@ -1,0 +1,10 @@
+{
+  "internalId": 3776677911,
+  "name": "Weapons: Dagon's Dominion",
+  "description": "A Medium Armor set found in The Cauldron.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    171070
+  ]
+}

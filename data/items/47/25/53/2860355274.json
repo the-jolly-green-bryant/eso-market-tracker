@@ -1,0 +1,11 @@
+{
+  "internalId": 2860355274,
+  "name": "Cheese Pork Schnitzel",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
+  "bindType": -1,
+  "knownIds": [
+    32107,
+    33861
+  ]
+}

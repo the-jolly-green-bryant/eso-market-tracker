@@ -1,0 +1,10 @@
+{
+  "internalId": 1647101998,
+  "name": "Ceremonial Decanter",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
+  "bindType": -1,
+  "knownIds": [
+    826169
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 249042792,
+  "name": "Inferno Staff of the Air",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95653,
+    95673,
+    95693,
+    95713,
+    95733,
+    95753,
+    95773,
+    95793
+  ]
+}

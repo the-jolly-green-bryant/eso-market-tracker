@@ -1,0 +1,10 @@
+{
+  "internalId": 1527210451,
+  "name": "Belt of the Bad Performance",
+  "description": "This belt twitches slightly when objects are thrown at its wearer.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    1758
+  ]
+}

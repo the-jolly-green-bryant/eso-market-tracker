@@ -1,0 +1,17 @@
+{
+  "internalId": 945059564,
+  "name": "Witchman's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101526,
+    101546,
+    101566,
+    101586,
+    101606,
+    101626,
+    101646,
+    101666
+  ]
+}

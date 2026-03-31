@@ -1,0 +1,10 @@
+{
+  "internalId": 1219291721,
+  "name": "Registrar's Legwrap",
+  "description": "Apostle garb is stiff and inflexible, much like the Apostles themselves.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    133227
+  ]
+}

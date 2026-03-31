@@ -1,0 +1,10 @@
+{
+  "internalId": 2102240013,
+  "name": "Great Axe of the Titanborn",
+  "description": "Runes along the blade sing of the Titanborn clan legacy. The deeds of Lyris' father are the last that will be engraved here.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    61020
+  ]
+}

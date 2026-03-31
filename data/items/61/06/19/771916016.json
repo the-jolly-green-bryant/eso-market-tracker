@@ -1,0 +1,10 @@
+{
+  "internalId": 771916016,
+  "name": "Desert Grass, Patch",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_elephantgrass009.png",
+  "bindType": -1,
+  "knownIds": [
+    151821
+  ]
+}

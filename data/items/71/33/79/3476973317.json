@@ -1,0 +1,17 @@
+{
+  "internalId": 3476973317,
+  "name": "Ice Staff of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91764,
+    91785,
+    91806,
+    91827,
+    91848,
+    91869,
+    91890,
+    91911
+  ]
+}

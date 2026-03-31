@@ -1,0 +1,19 @@
+{
+  "internalId": 1755567894,
+  "name": "Guards of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161627,
+    161682,
+    161717,
+    161752,
+    161787,
+    161822,
+    161857,
+    161892,
+    161927,
+    161962
+  ]
+}

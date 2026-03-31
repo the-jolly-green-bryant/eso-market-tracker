@@ -1,0 +1,17 @@
+{
+  "internalId": 3427249841,
+  "name": "Battalion Defender Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144850,
+    144870,
+    144890,
+    144910,
+    144930,
+    144950,
+    144970,
+    144990
+  ]
+}

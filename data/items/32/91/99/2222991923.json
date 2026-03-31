@@ -1,0 +1,26 @@
+{
+  "internalId": 2222991923,
+  "name": "Moondancer Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_e.png",
+  "bindType": -1,
+  "knownIds": [
+    1123139,
+    1166403,
+    1174860,
+    1179427,
+    1189993,
+    1375329,
+    1388388,
+    1414115,
+    1506442,
+    1616361,
+    1639331,
+    1690268,
+    1715849,
+    1715909,
+    1743173,
+    1761584,
+    1779100
+  ]
+}

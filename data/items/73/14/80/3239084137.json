@@ -1,0 +1,12 @@
+{
+  "internalId": 3239084137,
+  "name": "Daggerfall Guard Tabard",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png",
+  "bindType": -1,
+  "knownIds": [
+    390189,
+    394037,
+    505704
+  ]
+}

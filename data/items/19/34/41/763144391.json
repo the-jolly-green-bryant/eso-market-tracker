@@ -1,0 +1,10 @@
+{
+  "internalId": 763144391,
+  "name": "Argonian Trunk, Sturdy",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkchest001.png",
+  "bindType": -1,
+  "knownIds": [
+    115472
+  ]
+}

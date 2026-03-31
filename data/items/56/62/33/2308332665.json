@@ -1,0 +1,17 @@
+{
+  "internalId": 2308332665,
+  "name": "Pangrit Denmother's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600769,
+    1606916,
+    1610063,
+    1616168,
+    1652135,
+    1739657,
+    1747676,
+    1771009
+  ]
+}

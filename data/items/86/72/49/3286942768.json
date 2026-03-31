@@ -1,0 +1,17 @@
+{
+  "internalId": 3286942768,
+  "name": "Mad Tinkerer's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    132860,
+    132881,
+    132902,
+    132923,
+    132944,
+    132965,
+    132986,
+    133007
+  ]
+}

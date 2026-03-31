@@ -1,0 +1,14 @@
+{
+  "internalId": 2127451313,
+  "name": "Belt of the Crusader",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    93074,
+    93094,
+    93114,
+    93134,
+    93154
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2174996881,
+  "name": "Assassin's Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121573,
+    121608,
+    121643,
+    121678,
+    121713,
+    121748,
+    121783,
+    121818,
+    121853,
+    121888
+  ]
+}

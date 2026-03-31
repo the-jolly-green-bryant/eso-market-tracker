@@ -1,0 +1,17 @@
+{
+  "internalId": 1721370043,
+  "name": "Three Queens Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    214541,
+    214562,
+    214583,
+    214604,
+    214625,
+    214646,
+    214667,
+    214688
+  ]
+}

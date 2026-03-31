@@ -1,0 +1,17 @@
+{
+  "internalId": 3412155019,
+  "name": "Greatsword of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116530,
+    116550,
+    116570,
+    116590,
+    116610,
+    116630,
+    116650,
+    116670
+  ]
+}

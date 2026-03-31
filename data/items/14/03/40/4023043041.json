@@ -1,0 +1,10 @@
+{
+  "internalId": 4023043041,
+  "name": "Crafting Motif 91: Hazardous Alchemy Axes",
+  "description": "Use to learn how to make Hazardous Alchemy Axes. Also teaches the equivalent Hazardous Alchemy Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    166990
+  ]
+}

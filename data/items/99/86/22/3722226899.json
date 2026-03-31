@@ -1,0 +1,10 @@
+{
+  "internalId": 3722226899,
+  "name": "Old Orsinium Blood Soup",
+  "description": "Made with the very finest of meats, bloods, and meats and bloods.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_003.png",
+  "bindType": -1,
+  "knownIds": [
+    64470
+  ]
+}

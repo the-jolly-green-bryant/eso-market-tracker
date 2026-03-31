@@ -1,0 +1,10 @@
+{
+  "internalId": 1761950532,
+  "name": "Orichalcum Ore",
+  "description": "Ten of these items can be refined to make orichalcum ingots.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_heavy_armor_sp_names_001.png",
+  "bindType": -1,
+  "knownIds": [
+    23103
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 4281555387,
+  "name": "Tree, Large Water Chestnut",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_moneytree008.png",
+  "bindType": -1,
+  "knownIds": [
+    214504
+  ]
+}

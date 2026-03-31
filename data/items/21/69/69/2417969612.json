@@ -1,0 +1,17 @@
+{
+  "internalId": 2417969612,
+  "name": "Breeches of the Arch-Mage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91581,
+    91602,
+    91623,
+    91644,
+    91665,
+    91686,
+    91707,
+    91728
+  ]
+}

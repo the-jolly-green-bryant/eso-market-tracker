@@ -1,0 +1,17 @@
+{
+  "internalId": 2189294567,
+  "name": "Ice Staff of Akatosh's Law",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    194199,
+    194219,
+    194239,
+    194259,
+    194279,
+    194299,
+    194319,
+    194339
+  ]
+}

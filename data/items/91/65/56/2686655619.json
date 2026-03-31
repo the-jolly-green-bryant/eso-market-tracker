@@ -1,0 +1,10 @@
+{
+  "internalId": 2686655619,
+  "name": "Gold Coast Draining Poison",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpoison_draining.png",
+  "bindType": -1,
+  "knownIds": [
+    1309706
+  ]
+}

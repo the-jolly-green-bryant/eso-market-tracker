@@ -1,0 +1,17 @@
+{
+  "internalId": 1175534430,
+  "name": "Battle Axe of the Crimson Oath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_2haxe.png",
+  "bindType": -1,
+  "knownIds": [
+    1552093,
+    1565063,
+    1574238,
+    1579737,
+    1621975,
+    1679207,
+    1716033,
+    1773888
+  ]
+}

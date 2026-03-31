@@ -1,0 +1,10 @@
+{
+  "internalId": 2029021610,
+  "name": "Leyawiin Wall, Windowed Castle",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastlewallwindowint001.png",
+  "bindType": -1,
+  "knownIds": [
+    181517
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2486118989,
+  "name": "Recollection's Fang",
+  "description": "Slightly leaf-shaped, this Wood Elf sword bears the symbol of the Recollection's leadership.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    208139
+  ]
+}

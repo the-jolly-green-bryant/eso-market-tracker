@@ -1,0 +1,10 @@
+{
+  "internalId": 2193580062,
+  "name": "Plant, Red Aloe",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_aloesucculent002.png",
+  "bindType": -1,
+  "knownIds": [
+    120621
+  ]
+}

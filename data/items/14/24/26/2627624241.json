@@ -1,0 +1,10 @@
+{
+  "internalId": 2627624241,
+  "name": "Crafting Motif 33: Thieves Guild Chests",
+  "description": "Use to learn how to make Thieves Guild Chests. Also teaches the equivalent Thieves Guild Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    74560
+  ]
+}

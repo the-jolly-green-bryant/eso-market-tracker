@@ -1,0 +1,19 @@
+{
+  "internalId": 1424129162,
+  "name": "Nocturnal's Favored Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136431,
+    136466,
+    136501,
+    136536,
+    136571,
+    136606,
+    136641,
+    136676,
+    136711,
+    136746
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 976506145,
+  "name": "Apocrypha Stele, Tablet",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_stonetablet003.png",
+  "bindType": -1,
+  "knownIds": [
+    198398
+  ]
+}

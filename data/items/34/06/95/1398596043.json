@@ -1,0 +1,19 @@
+{
+  "internalId": 1398596043,
+  "name": "Cuirass of Daedric Trickery",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    121914,
+    121949,
+    121984,
+    122019,
+    122054,
+    122089,
+    122124,
+    122159,
+    122194,
+    122229
+  ]
+}

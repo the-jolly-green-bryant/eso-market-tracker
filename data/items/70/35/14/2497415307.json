@@ -1,0 +1,10 @@
+{
+  "internalId": 2497415307,
+  "name": "Decorative Wax",
+  "description": "Used in crafting decorative food or finishing touches.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_furniture_base_decorative_wax.png",
+  "bindType": -1,
+  "knownIds": [
+    114894
+  ]
+}

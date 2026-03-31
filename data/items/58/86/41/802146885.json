@@ -1,0 +1,10 @@
+{
+  "internalId": 802146885,
+  "name": "Plants, Glasswort Patch",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_salicornia010.png",
+  "bindType": -1,
+  "knownIds": [
+    139083
+  ]
+}

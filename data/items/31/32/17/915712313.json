@@ -1,0 +1,10 @@
+{
+  "internalId": 915712313,
+  "name": "Staff of the Reclaimed Lesson",
+  "description": "Once used to teach healing arts in a hall now scarred by Daedric flame, this staff was spared when all else burned.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    223683
+  ]
+}

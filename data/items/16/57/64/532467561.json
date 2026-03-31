@@ -1,0 +1,17 @@
+{
+  "internalId": 532467561,
+  "name": "Lightning Staff of Cyrodiil's Crest",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88361,
+    88381,
+    88401,
+    88421,
+    88441,
+    88461,
+    88481,
+    88501
+  ]
+}

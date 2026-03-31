@@ -1,0 +1,10 @@
+{
+  "internalId": 2057451685,
+  "name": "Snow Bear's Fang of Stendarr",
+  "description": "A necklace awarded for defeating the giant snow bear, Beralagr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    43039
+  ]
+}

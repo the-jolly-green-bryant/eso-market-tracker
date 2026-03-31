@@ -1,0 +1,10 @@
+{
+  "internalId": 1265010662,
+  "name": "Redguard Bookcase, Piled",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varbookcasecombined002.png",
+  "bindType": -1,
+  "knownIds": [
+    117785
+  ]
+}

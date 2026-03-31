@@ -1,0 +1,19 @@
+{
+  "internalId": 1656745556,
+  "name": "Restoration Staff of the Armor Master",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    60657,
+    60692,
+    60727,
+    60762,
+    60797,
+    60832,
+    60867,
+    60902,
+    60937,
+    60972
+  ]
+}

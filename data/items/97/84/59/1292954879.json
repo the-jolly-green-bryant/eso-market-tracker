@@ -1,0 +1,17 @@
+{
+  "internalId": 1292954879,
+  "name": "Guards of Imperial Physique",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_legs_a.png",
+  "bindType": 2,
+  "knownIds": [
+    78938,
+    78973,
+    79008,
+    79043,
+    79078,
+    79113,
+    79148,
+    79183
+  ]
+}

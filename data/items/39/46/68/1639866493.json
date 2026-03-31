@@ -1,0 +1,10 @@
+{
+  "internalId": 1639866493,
+  "name": "Colovian Mirror, Standing",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_mirrorstanding001.png",
+  "bindType": -1,
+  "knownIds": [
+    208119
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 3418999932,
+  "name": "Mushroom, Brown Gilled",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_malabaltorglowmushrooms002.png",
+  "bindType": -1,
+  "knownIds": [
+    120642
+  ]
+}

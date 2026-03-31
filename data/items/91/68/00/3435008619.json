@@ -1,0 +1,10 @@
+{
+  "internalId": 3435008619,
+  "name": "Fire Drake Mug",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesdragonmug001.png",
+  "bindType": -1,
+  "knownIds": [
+    211532
+  ]
+}

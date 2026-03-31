@@ -1,0 +1,19 @@
+{
+  "internalId": 270086192,
+  "name": "Sword of Tava's Favor",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    71814,
+    71849,
+    71884,
+    71919,
+    71954,
+    71989,
+    72024,
+    72059,
+    72094,
+    72129
+  ]
+}

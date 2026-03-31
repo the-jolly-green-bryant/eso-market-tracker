@@ -1,0 +1,17 @@
+{
+  "internalId": 993600008,
+  "name": "Prisoner's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    101893,
+    101914,
+    101935,
+    101956,
+    101977,
+    101998,
+    102019,
+    102040
+  ]
+}

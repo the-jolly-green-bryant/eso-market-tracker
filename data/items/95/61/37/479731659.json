@@ -1,0 +1,19 @@
+{
+  "internalId": 479731659,
+  "name": "Naga Shaman Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143194,
+    143249,
+    143284,
+    143319,
+    143354,
+    143389,
+    143424,
+    143459,
+    143494,
+    143529
+  ]
+}

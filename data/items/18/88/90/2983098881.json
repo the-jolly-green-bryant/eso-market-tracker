@@ -1,0 +1,13 @@
+{
+  "internalId": 2983098881,
+  "name": "Dreamer's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98052,
+    98073,
+    98094,
+    98115
+  ]
+}

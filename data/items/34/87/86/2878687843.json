@@ -1,0 +1,19 @@
+{
+  "internalId": 2878687843,
+  "name": "Deadlands Demolisher's Boots",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    179209,
+    179264,
+    179299,
+    179334,
+    179369,
+    179404,
+    179439,
+    179474,
+    179509,
+    179544
+  ]
+}

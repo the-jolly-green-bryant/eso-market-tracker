@@ -1,0 +1,16 @@
+{
+  "internalId": 4294678951,
+  "name": "Lightning Staff of Nikulas",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85281,
+    85301,
+    85321,
+    85341,
+    85361,
+    85381,
+    85401
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "internalId": 3116892148,
+  "name": "Shacklebreaker Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139756,
+    139846,
+    139936,
+    140026,
+    140116,
+    140206
+  ]
+}

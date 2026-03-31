@@ -1,0 +1,10 @@
+{
+  "internalId": 346627368,
+  "name": "Dockside Painting, Silver",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_metalframepainting004.png",
+  "bindType": -1,
+  "knownIds": [
+    165842
+  ]
+}

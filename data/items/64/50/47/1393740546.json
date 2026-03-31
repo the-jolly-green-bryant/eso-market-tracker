@@ -1,0 +1,10 @@
+{
+  "internalId": 1393740546,
+  "name": "Dreugh Wax",
+  "description": "Improve quality from purple to gold.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_potion_014.png",
+  "bindType": -1,
+  "knownIds": [
+    54177
+  ]
+}

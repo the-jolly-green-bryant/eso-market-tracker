@@ -1,0 +1,15 @@
+{
+  "internalId": 1623291302,
+  "name": "Shield of the Fire",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_shield_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95324,
+    95344,
+    95364,
+    95384,
+    95404,
+    95424
+  ]
+}

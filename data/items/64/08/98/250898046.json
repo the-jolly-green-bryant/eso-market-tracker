@@ -1,0 +1,10 @@
+{
+  "internalId": 250898046,
+  "name": "Telvanni Door, Round",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_housingtelsimpledoor001.png",
+  "bindType": -1,
+  "knownIds": [
+    198040
+  ]
+}

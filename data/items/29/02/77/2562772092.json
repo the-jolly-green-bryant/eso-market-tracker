@@ -1,0 +1,17 @@
+{
+  "internalId": 2562772092,
+  "name": "Spell Strategist Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144102,
+    144123,
+    144144,
+    144165,
+    144186,
+    144207,
+    144228,
+    144249
+  ]
+}

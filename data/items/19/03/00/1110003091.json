@@ -1,0 +1,18 @@
+{
+  "internalId": 1110003091,
+  "name": "Hollowfang Maul",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_2hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1346573,
+    1398318,
+    1398876,
+    1411492,
+    1549155,
+    1566966,
+    1582593,
+    1602770,
+    1629261
+  ]
+}

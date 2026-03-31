@@ -1,0 +1,10 @@
+{
+  "internalId": 1435268621,
+  "name": "Telvanni Table, Round Fungal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_tableround001.png",
+  "bindType": -1,
+  "knownIds": [
+    197519
+  ]
+}

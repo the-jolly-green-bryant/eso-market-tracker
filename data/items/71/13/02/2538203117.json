@@ -1,0 +1,19 @@
+{
+  "internalId": 2538203117,
+  "name": "Tharriker's Helmet",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205424,
+    205479,
+    205514,
+    205549,
+    205584,
+    205619,
+    205654,
+    205689,
+    205724,
+    205759
+  ]
+}

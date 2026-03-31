@@ -1,0 +1,16 @@
+{
+  "internalId": 365443864,
+  "name": "Bracers of Red Eagle's Fury",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    168154,
+    168189,
+    168224,
+    168259,
+    168294,
+    168329,
+    168364
+  ]
+}

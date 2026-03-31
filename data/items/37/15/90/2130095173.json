@@ -1,0 +1,10 @@
+{
+  "internalId": 2130095173,
+  "name": "Imperial Pedestal, Chiseled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_str_ichouserailingcap001.png",
+  "bindType": -1,
+  "knownIds": [
+    94161
+  ]
+}

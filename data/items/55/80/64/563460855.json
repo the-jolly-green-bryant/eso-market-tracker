@@ -1,0 +1,17 @@
+{
+  "internalId": 563460855,
+  "name": "Vanus's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_bow_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135535,
+    135556,
+    135577,
+    135598,
+    135619,
+    135640,
+    135661,
+    135682
+  ]
+}

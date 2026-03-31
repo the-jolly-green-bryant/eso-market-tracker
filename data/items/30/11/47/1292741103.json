@@ -1,0 +1,10 @@
+{
+  "internalId": 1292741103,
+  "name": "Broken Shovel",
+  "description": "This shovel is broken off at the haft.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_tools_001.png",
+  "bindType": -1,
+  "knownIds": [
+    30328
+  ]
+}

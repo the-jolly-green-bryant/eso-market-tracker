@@ -1,0 +1,10 @@
+{
+  "internalId": 725363492,
+  "name": "Great Axe of the Crescent Moon",
+  "description": "Found in the wake of the Colovian occupation. Kazirra believes it may have been looted from a Khajiiti tomb.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    10239
+  ]
+}

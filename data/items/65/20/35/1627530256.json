@@ -1,0 +1,10 @@
+{
+  "internalId": 1627530256,
+  "name": "Portal Seed",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
+  "bindType": -1,
+  "knownIds": [
+    864040
+  ]
+}

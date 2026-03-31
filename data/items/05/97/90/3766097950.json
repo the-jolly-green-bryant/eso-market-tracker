@@ -1,0 +1,10 @@
+{
+  "internalId": 3766097950,
+  "name": "Weapons: Crimson Oath's Rive",
+  "description": "A Heavy Armor set found in the Dread Cellar.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    177555
+  ]
+}

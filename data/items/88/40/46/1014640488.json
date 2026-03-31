@@ -1,0 +1,10 @@
+{
+  "internalId": 1014640488,
+  "name": "Spinner's Sea Tamer's Torc",
+  "description": "The torc feels warm against one's skin, no matter the weather.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    43004
+  ]
+}

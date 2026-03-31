@@ -1,0 +1,17 @@
+{
+  "internalId": 3505578609,
+  "name": "Mace of the Harbinger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78609,
+    78644,
+    78679,
+    78714,
+    78749,
+    78784,
+    78819,
+    78854
+  ]
+}

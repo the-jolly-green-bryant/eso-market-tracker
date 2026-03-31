@@ -1,0 +1,10 @@
+{
+  "internalId": 967423454,
+  "name": "Basin of Loss",
+  "description": "This ancient font serves as a repository for centuries of vampiric ichor. When placed in a home, Vampires may offer their essence to the fountain and reduce their Vampirism Stage by 1.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_housingvampirefountain001.png",
+  "bindType": -1,
+  "knownIds": [
+    165578
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 1552990882,
+  "name": "Ring of Oblivion",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    937370,
+    942787,
+    1212947,
+    1244487,
+    1396022,
+    1461894,
+    1486087,
+    1499535,
+    1501153,
+    1508810,
+    1632032
+  ]
+}

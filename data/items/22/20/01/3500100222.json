@@ -1,0 +1,10 @@
+{
+  "internalId": 3500100222,
+  "name": "Manual of Factotum Tipping",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1270602
+  ]
+}

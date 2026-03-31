@@ -1,0 +1,10 @@
+{
+  "internalId": 1178482581,
+  "name": "Crafting Motif 54: Bloodforge Axes",
+  "description": "Use to learn how to make Bloodforge Axes. Also teaches the equivalent Bloodforge Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    132534
+  ]
+}

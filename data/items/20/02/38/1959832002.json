@@ -1,0 +1,27 @@
+{
+  "internalId": 1959832002,
+  "name": "Spell Power Cure Jerkin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_light_shirt_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1334103,
+    1337889,
+    1452134,
+    1459377,
+    1459875,
+    1505523,
+    1507911,
+    1507914,
+    1512414,
+    1514384,
+    1519741,
+    1527475,
+    1539134,
+    1554156,
+    1590213,
+    1602396,
+    1621968,
+    1751178
+  ]
+}

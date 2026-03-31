@@ -1,0 +1,10 @@
+{
+  "internalId": 3988380359,
+  "name": "Solitude Fireplace, Kitchen",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_solitudefireplacekitchen001.png",
+  "bindType": -1,
+  "knownIds": [
+    167323
+  ]
+}

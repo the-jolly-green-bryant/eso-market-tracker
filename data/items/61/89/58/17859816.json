@@ -1,0 +1,10 @@
+{
+  "internalId": 17859816,
+  "name": "Merchant's Sign, Large",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_signbank001.png",
+  "bindType": -1,
+  "knownIds": [
+    134428
+  ]
+}

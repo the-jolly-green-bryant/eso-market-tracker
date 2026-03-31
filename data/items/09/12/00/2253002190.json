@@ -1,0 +1,17 @@
+{
+  "internalId": 2253002190,
+  "name": "Witchman's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_shield_c.png",
+  "bindType": 2,
+  "knownIds": [
+    101529,
+    101549,
+    101569,
+    101589,
+    101609,
+    101629,
+    101649,
+    101669
+  ]
+}

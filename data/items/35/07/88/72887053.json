@@ -1,0 +1,10 @@
+{
+  "internalId": 72887053,
+  "name": "Cauldron, Covered",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_cauldrontopped001.png",
+  "bindType": -1,
+  "knownIds": [
+    118088
+  ]
+}

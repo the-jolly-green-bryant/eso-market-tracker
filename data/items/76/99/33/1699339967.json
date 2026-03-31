@@ -1,0 +1,14 @@
+{
+  "internalId": 1699339967,
+  "name": "Titanborn's Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_icereachcoven_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1365608,
+    1550152,
+    1594447,
+    1594635,
+    1645620
+  ]
+}

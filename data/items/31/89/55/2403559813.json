@@ -1,0 +1,10 @@
+{
+  "internalId": 2403559813,
+  "name": "Breton Coffer, Knotwork",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_coffer001.png",
+  "bindType": -1,
+  "knownIds": [
+    115219
+  ]
+}

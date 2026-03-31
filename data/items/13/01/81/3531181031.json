@@ -1,0 +1,10 @@
+{
+  "internalId": 3531181031,
+  "name": "Redguard Pillow, Oasis",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillow004.png",
+  "bindType": -1,
+  "knownIds": [
+    117774
+  ]
+}

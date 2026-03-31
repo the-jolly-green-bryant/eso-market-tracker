@@ -1,0 +1,10 @@
+{
+  "internalId": 619947941,
+  "name": "Crafting Motif 23: Malacath Style",
+  "description": "Use to learn the Malacath crafting style. Also teaches the equivalent Malacath Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
+  "bindType": -1,
+  "knownIds": [
+    71566
+  ]
+}

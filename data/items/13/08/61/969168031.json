@@ -1,0 +1,10 @@
+{
+  "internalId": 969168031,
+  "name": "Elsweyr Bookcase, Short Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_widebookcase001.png",
+  "bindType": -1,
+  "knownIds": [
+    151700
+  ]
+}

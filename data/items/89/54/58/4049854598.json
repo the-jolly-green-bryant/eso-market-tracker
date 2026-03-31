@@ -1,0 +1,10 @@
+{
+  "internalId": 4049854598,
+  "name": "Dawnwood Meal, Flan",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosplateflan001.png",
+  "bindType": -1,
+  "knownIds": [
+    204702
+  ]
+}

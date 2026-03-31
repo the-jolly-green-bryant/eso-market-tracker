@@ -1,0 +1,19 @@
+{
+  "internalId": 2400657937,
+  "name": "Grave-Stake Collector Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    142827,
+    142829,
+    142831,
+    142833,
+    142835,
+    142837,
+    142839,
+    142841,
+    142843,
+    142845
+  ]
+}

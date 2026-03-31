@@ -1,0 +1,17 @@
+{
+  "internalId": 3164451225,
+  "name": "Rallying Cry Gloves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    183253,
+    183274,
+    183295,
+    183316,
+    183337,
+    183358,
+    183379,
+    183400
+  ]
+}

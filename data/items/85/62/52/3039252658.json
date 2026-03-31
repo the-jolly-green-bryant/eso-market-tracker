@@ -1,0 +1,17 @@
+{
+  "internalId": 3039252658,
+  "name": "Hexos' Ward Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_med_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    180114,
+    180134,
+    180154,
+    180174,
+    180194,
+    180214,
+    180234,
+    180254
+  ]
+}

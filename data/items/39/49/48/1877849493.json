@@ -1,0 +1,17 @@
+{
+  "internalId": 1877849493,
+  "name": "Inferno Staff of the Potentates",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    87757,
+    87770,
+    87783,
+    87796,
+    87809,
+    87822,
+    87835,
+    87848
+  ]
+}

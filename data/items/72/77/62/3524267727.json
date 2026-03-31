@@ -1,0 +1,17 @@
+{
+  "internalId": 3524267727,
+  "name": "Hat of the Swift",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91962,
+    91983,
+    92004,
+    92025,
+    92046,
+    92067,
+    92088,
+    92109
+  ]
+}

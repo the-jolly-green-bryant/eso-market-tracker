@@ -1,0 +1,10 @@
+{
+  "internalId": 1659001732,
+  "name": "Shipment of Thick Leather",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
+  "bindType": -1,
+  "knownIds": [
+    948948
+  ]
+}

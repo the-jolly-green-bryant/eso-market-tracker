@@ -1,0 +1,19 @@
+{
+  "internalId": 514771657,
+  "name": "Naga Shaman Gauntlets",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143176,
+    143231,
+    143266,
+    143301,
+    143336,
+    143371,
+    143406,
+    143441,
+    143476,
+    143511
+  ]
+}

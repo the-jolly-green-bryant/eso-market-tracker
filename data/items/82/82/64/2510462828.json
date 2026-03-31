@@ -1,0 +1,19 @@
+{
+  "internalId": 2510462828,
+  "name": "Epaulets of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69594,
+    69629,
+    69664,
+    69699,
+    69734,
+    69769,
+    69804,
+    69839,
+    69874,
+    69909
+  ]
+}

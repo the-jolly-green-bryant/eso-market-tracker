@@ -1,0 +1,22 @@
+{
+  "internalId": 778105805,
+  "name": "Bow of the Pestilent Host",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_bow_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1398572,
+    1402885,
+    1402988,
+    1406257,
+    1416412,
+    1547083,
+    1558041,
+    1600712,
+    1615022,
+    1643133,
+    1650530,
+    1661297,
+    1676644
+  ]
+}

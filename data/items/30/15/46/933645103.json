@@ -1,0 +1,19 @@
+{
+  "internalId": 933645103,
+  "name": "Unchained Aggressor's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158702,
+    158757,
+    158792,
+    158827,
+    158862,
+    158897,
+    158932,
+    158967,
+    159002,
+    159037
+  ]
+}

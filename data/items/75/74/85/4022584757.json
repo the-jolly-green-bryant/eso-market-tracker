@@ -1,0 +1,10 @@
+{
+  "internalId": 4022584757,
+  "name": "Skein-Woven Grips",
+  "description": "Though made in the Khajiiti style, the cloth and leather components seem to consist of spider silk and supple chitin.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    150413
+  ]
+}

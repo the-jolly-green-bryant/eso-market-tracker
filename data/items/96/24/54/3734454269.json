@@ -1,0 +1,14 @@
+{
+  "internalId": 3734454269,
+  "name": "Spattering Disjunction Jack",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1732209,
+    1735139,
+    1751320,
+    1771261,
+    1775084
+  ]
+}

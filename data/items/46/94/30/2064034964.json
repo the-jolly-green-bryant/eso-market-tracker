@@ -1,0 +1,10 @@
+{
+  "internalId": 2064034964,
+  "name": "Elsweyr Trunk, Peaked Floral",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_chest002.png",
+  "bindType": -1,
+  "knownIds": [
+    151706
+  ]
+}

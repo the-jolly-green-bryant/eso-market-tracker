@@ -1,0 +1,11 @@
+{
+  "internalId": 517178030,
+  "name": "Sload Slime",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_001.png",
+  "bindType": -1,
+  "knownIds": [
+    57186,
+    57652
+  ]
+}

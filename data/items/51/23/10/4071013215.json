@@ -1,0 +1,10 @@
+{
+  "internalId": 4071013215,
+  "name": "Blessing of the Potentates",
+  "description": "An armorless set found in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    150634
+  ]
+}

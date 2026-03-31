@@ -1,0 +1,15 @@
+{
+  "internalId": 2530206600,
+  "name": "Grave-Stake Collector Belt",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    142985,
+    143020,
+    143055,
+    143090,
+    143125,
+    143160
+  ]
+}

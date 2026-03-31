@@ -1,0 +1,10 @@
+{
+  "internalId": 3971276661,
+  "name": "Galerion's Revenge",
+  "description": "A Light Armor set purchased in Imperial City with Tel Var Stones.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    134652
+  ]
+}

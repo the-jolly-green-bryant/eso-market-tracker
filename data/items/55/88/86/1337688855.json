@@ -1,0 +1,10 @@
+{
+  "internalId": 1337688855,
+  "name": "Noble's Chalice of Wine",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_goblet002_full.png",
+  "bindType": -1,
+  "knownIds": [
+    120411
+  ]
+}

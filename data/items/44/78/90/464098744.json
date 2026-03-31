@@ -1,0 +1,10 @@
+{
+  "internalId": 464098744,
+  "name": "Oversized Souvenir Coin",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png",
+  "bindType": -1,
+  "knownIds": [
+    840721
+  ]
+}

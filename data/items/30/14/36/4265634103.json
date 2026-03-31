@@ -1,0 +1,17 @@
+{
+  "internalId": 4265634103,
+  "name": "Beekeeper's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    98341,
+    98361,
+    98381,
+    98401,
+    98421,
+    98441,
+    98461,
+    98481
+  ]
+}

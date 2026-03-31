@@ -1,0 +1,19 @@
+{
+  "internalId": 3693866503,
+  "name": "Cuirass of Julianos",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    69578,
+    69613,
+    69648,
+    69683,
+    69718,
+    69753,
+    69788,
+    69823,
+    69858,
+    69893
+  ]
+}

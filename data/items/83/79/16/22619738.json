@@ -1,0 +1,19 @@
+{
+  "internalId": 22619738,
+  "name": "Might of the Lost Legion Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143547,
+    143602,
+    143637,
+    143672,
+    143707,
+    143742,
+    143777,
+    143812,
+    143847,
+    143882
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 4290339405,
+  "name": "Vanus's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    135539,
+    135560,
+    135581,
+    135602,
+    135623,
+    135644,
+    135665,
+    135686
+  ]
+}

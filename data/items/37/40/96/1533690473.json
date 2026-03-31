@@ -1,0 +1,32 @@
+{
+  "internalId": 1533690473,
+  "name": "The Asylum's Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_factotum_gear_factotum_shield_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1177878,
+    1177883,
+    1179263,
+    1180648,
+    1182216,
+    1182714,
+    1275179,
+    1286201,
+    1383483,
+    1402456,
+    1405987,
+    1406045,
+    1511440,
+    1513406,
+    1520943,
+    1531721,
+    1536742,
+    1550844,
+    1560120,
+    1579625,
+    1619463,
+    1633859,
+    1727343
+  ]
+}

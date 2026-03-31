@@ -1,0 +1,10 @@
+{
+  "internalId": 808045120,
+  "name": "Green Gardener's Booties",
+  "description": "You earned these sturdy boots by removing the stranglers infesting Vinafwe's garden.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    134708
+  ]
+}

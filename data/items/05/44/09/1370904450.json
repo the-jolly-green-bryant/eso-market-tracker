@@ -1,0 +1,15 @@
+{
+  "internalId": 1370904450,
+  "name": "Shoes of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85649,
+    85670,
+    85691,
+    85712,
+    85733,
+    85775
+  ]
+}

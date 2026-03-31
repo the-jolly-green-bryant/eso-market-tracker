@@ -1,0 +1,10 @@
+{
+  "internalId": 3565126477,
+  "name": "Leyawiin Wall Mirror, Lacquered Frame",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leymirror003.png",
+  "bindType": -1,
+  "knownIds": [
+    175655
+  ]
+}

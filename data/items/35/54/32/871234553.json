@@ -1,0 +1,13 @@
+{
+  "internalId": 871234553,
+  "name": "Spell Parasite's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    163298,
+    163333,
+    163368,
+    163403
+  ]
+}

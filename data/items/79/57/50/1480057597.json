@@ -1,0 +1,13 @@
+{
+  "internalId": 1480057597,
+  "name": "Belt of Mechanical Acuity",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    131314,
+    131349,
+    131384,
+    131419
+  ]
+}

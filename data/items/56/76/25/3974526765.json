@@ -1,0 +1,10 @@
+{
+  "internalId": 3974526765,
+  "name": "Druidic Sculpture, Sphere",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drumonolithstickballlarge001.png",
+  "bindType": -1,
+  "knownIds": [
+    191160
+  ]
+}

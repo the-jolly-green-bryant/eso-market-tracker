@@ -1,0 +1,10 @@
+{
+  "internalId": 3010340979,
+  "name": "Dark Elf Nightstand, Angled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_nighstand001.png",
+  "bindType": -1,
+  "knownIds": [
+    115321
+  ]
+}

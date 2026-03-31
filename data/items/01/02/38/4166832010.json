@@ -1,0 +1,10 @@
+{
+  "internalId": 4166832010,
+  "name": "Brotherhood Brazier, Wrought Iron",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_lsb_dbhbrazier001.png",
+  "bindType": -1,
+  "knownIds": [
+    134972
+  ]
+}

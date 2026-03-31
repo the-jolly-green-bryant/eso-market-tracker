@@ -1,0 +1,18 @@
+{
+  "internalId": 3520529521,
+  "name": "Pauldrons of Critical Riposte",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
+  "bindType": 2,
+  "knownIds": [
+    158389,
+    158424,
+    158459,
+    158494,
+    158529,
+    158564,
+    158599,
+    158634,
+    158669
+  ]
+}

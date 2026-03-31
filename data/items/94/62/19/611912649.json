@@ -1,0 +1,10 @@
+{
+  "internalId": 611912649,
+  "name": "Fire Opal",
+  "description": "Can be used to enhance weapons.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_enchantment_base_fire_opal_r3.png",
+  "bindType": -1,
+  "knownIds": [
+    23149
+  ]
+}

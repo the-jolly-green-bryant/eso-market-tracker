@@ -1,0 +1,10 @@
+{
+  "internalId": 1912635882,
+  "name": "Worm Cult Mirror, Metal",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_wallmirrorhigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    220285
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1509605928,
+  "name": "Cuirass of the Twice-Born Star",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    58154,
+    58189,
+    58224,
+    58259,
+    58294,
+    58329,
+    58364,
+    58399,
+    58434,
+    58469
+  ]
+}

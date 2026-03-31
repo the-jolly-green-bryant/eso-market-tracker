@@ -1,0 +1,17 @@
+{
+  "internalId": 3835677060,
+  "name": "Ysgramor's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    101333,
+    101354,
+    101375,
+    101396,
+    101417,
+    101438,
+    101459,
+    101480
+  ]
+}

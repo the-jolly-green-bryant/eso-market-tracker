@@ -1,0 +1,10 @@
+{
+  "internalId": 1029509958,
+  "name": "Plant Cluster, Wilted Hist Bulb",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mrkhistleafy004.png",
+  "bindType": -1,
+  "knownIds": [
+    145465
+  ]
+}

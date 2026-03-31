@@ -1,0 +1,13 @@
+{
+  "internalId": 3356062522,
+  "name": "Wrathsun Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1688355,
+    1695083,
+    1753764,
+    1757635
+  ]
+}

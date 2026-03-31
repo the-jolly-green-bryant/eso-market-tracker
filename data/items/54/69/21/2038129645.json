@@ -1,0 +1,25 @@
+{
+  "internalId": 2038129645,
+  "name": "Vrol's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1375814,
+    1379311,
+    1384198,
+    1388396,
+    1411628,
+    1413739,
+    1413752,
+    1468470,
+    1469471,
+    1546082,
+    1615265,
+    1615273,
+    1648201,
+    1683360,
+    1746270,
+    1753905
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": 506038783,
+  "name": "Vrol's Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
+  "bindType": -1,
+  "knownIds": [
+    1381054,
+    1384265,
+    1386381,
+    1449109,
+    1541635,
+    1592923,
+    1605486,
+    1679945,
+    1717164,
+    1752119,
+    1760653
+  ]
+}

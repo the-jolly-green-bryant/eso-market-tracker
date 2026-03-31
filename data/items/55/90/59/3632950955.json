@@ -1,0 +1,10 @@
+{
+  "internalId": 3632950955,
+  "name": "Shadowy Creatia",
+  "description": "An undiluted splinter of the creatia that formed Evergloam.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/death_recap_void_aoe.png",
+  "bindType": -1,
+  "knownIds": [
+    204460
+  ]
+}

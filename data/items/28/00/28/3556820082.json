@@ -1,0 +1,10 @@
+{
+  "internalId": 3556820082,
+  "name": "Homeowner's Deeds (Large)",
+  "description": "This envelope contains the deeds to Large-sized dwellings throughout Tamriel.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
+  "bindType": 3,
+  "knownIds": [
+    121264
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2122054644,
+  "name": "Orcish Bowl, Stone",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_bowl002.png",
+  "bindType": -1,
+  "knownIds": [
+    116405
+  ]
+}

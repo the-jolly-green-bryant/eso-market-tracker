@@ -1,0 +1,10 @@
+{
+  "internalId": 1180208031,
+  "name": "Imperial Tapestry, Dibella",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhtapestrydibellaflowerlg001.png",
+  "bindType": -1,
+  "knownIds": [
+    94191
+  ]
+}

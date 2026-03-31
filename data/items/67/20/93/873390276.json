@@ -1,0 +1,20 @@
+{
+  "internalId": 873390276,
+  "name": "quicksilver girdle of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    418831,
+    608372,
+    809540,
+    809486,
+    419379,
+    594577,
+    480318,
+    460102,
+    558508,
+    797219,
+    792999
+  ]
+}

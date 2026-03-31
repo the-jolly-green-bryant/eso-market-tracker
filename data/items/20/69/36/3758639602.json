@@ -1,0 +1,17 @@
+{
+  "internalId": 3758639602,
+  "name": "Sword of the Black Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    116527,
+    116547,
+    116567,
+    116587,
+    116607,
+    116627,
+    116647,
+    116667
+  ]
+}

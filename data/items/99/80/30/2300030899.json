@@ -1,0 +1,10 @@
+{
+  "internalId": 2300030899,
+  "name": "Ring of Baan Dar's Blessing",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    204239
+  ]
+}

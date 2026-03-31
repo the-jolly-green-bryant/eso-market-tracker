@@ -1,0 +1,17 @@
+{
+  "internalId": 3135969647,
+  "name": "Ice Staff of the Withered Hand",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    86199,
+    86220,
+    86241,
+    86262,
+    86283,
+    86304,
+    86325,
+    86346
+  ]
+}

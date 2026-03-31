@@ -1,0 +1,10 @@
+{
+  "internalId": 2497386529,
+  "name": "Crumpled Letter",
+  "description": "The writing on this note is obscured with blood.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    30330
+  ]
+}

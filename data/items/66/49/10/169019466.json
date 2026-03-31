@@ -1,0 +1,10 @@
+{
+  "internalId": 169019466,
+  "name": "Dark Elf Desk, Angled",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_desk001.png",
+  "bindType": -1,
+  "knownIds": [
+    115296
+  ]
+}

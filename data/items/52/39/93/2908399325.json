@@ -1,0 +1,17 @@
+{
+  "internalId": 2908399325,
+  "name": "Shalk's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1haxe_c.png",
+  "bindType": 2,
+  "knownIds": [
+    96589,
+    96609,
+    96629,
+    96649,
+    96669,
+    96689,
+    96709,
+    96729
+  ]
+}

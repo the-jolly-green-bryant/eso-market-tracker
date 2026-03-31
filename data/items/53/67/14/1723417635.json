@@ -1,0 +1,13 @@
+{
+  "internalId": 1723417635,
+  "name": "Maul of the Sergeant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89709,
+    89729,
+    89749,
+    89769
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1463671422,
+  "name": "Robe of Stone's Accord",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_light_robe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1600632,
+    1602343,
+    1603623,
+    1647124,
+    1680038,
+    1694959,
+    1738751,
+    1738998,
+    1743690,
+    1745910
+  ]
+}

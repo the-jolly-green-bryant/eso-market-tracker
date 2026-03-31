@@ -1,0 +1,10 @@
+{
+  "internalId": 2987042257,
+  "name": "Jewelry Crafting Station",
+  "description": "When placed in your home, allows you to craft Jewelry Crafting items.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletablejewelry001.png",
+  "bindType": -1,
+  "knownIds": [
+    137870
+  ]
+}

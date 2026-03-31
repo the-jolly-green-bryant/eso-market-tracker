@@ -1,0 +1,10 @@
+{
+  "internalId": 314590555,
+  "name": "Redguard Pillow, Florid Sands",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillow005.png",
+  "bindType": -1,
+  "knownIds": [
+    117882
+  ]
+}

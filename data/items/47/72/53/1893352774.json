@@ -1,0 +1,10 @@
+{
+  "internalId": 1893352774,
+  "name": "Indoril Footlocker, Fortified",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlastrongbox002.png",
+  "bindType": -1,
+  "knownIds": [
+    126373
+  ]
+}

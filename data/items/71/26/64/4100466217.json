@@ -1,0 +1,19 @@
+{
+  "internalId": 4100466217,
+  "name": "Mace of the Pestilent Host",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_1hhammer_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1394084,
+    1400027,
+    1505845,
+    1539016,
+    1568220,
+    1598613,
+    1616027,
+    1645345,
+    1687164,
+    1771517
+  ]
+}

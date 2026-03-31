@@ -1,0 +1,10 @@
+{
+  "internalId": 2691511147,
+  "name": "Corkscrew, Metal",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winecorkscrew002.png",
+  "bindType": -1,
+  "knownIds": [
+    204745
+  ]
+}

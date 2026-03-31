@@ -1,0 +1,11 @@
+{
+  "internalId": 3358271171,
+  "name": "strong glyph of poison",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_poisonessence.png",
+  "bindType": -1,
+  "knownIds": [
+    415414,
+    1445807
+  ]
+}

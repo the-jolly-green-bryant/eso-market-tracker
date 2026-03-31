@@ -1,0 +1,17 @@
+{
+  "internalId": 4058975956,
+  "name": "Arkay's Charity Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    213743,
+    213764,
+    213785,
+    213806,
+    213827,
+    213848,
+    213869,
+    213890
+  ]
+}

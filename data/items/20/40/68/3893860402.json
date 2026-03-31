@@ -1,0 +1,14 @@
+{
+  "internalId": 3893860402,
+  "name": "Ice Staff of the Red Mountain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    84967,
+    84987,
+    85007,
+    85027,
+    85047
+  ]
+}

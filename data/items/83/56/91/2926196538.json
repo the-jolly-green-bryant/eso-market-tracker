@@ -1,0 +1,10 @@
+{
+  "internalId": 2926196538,
+  "name": "Weapons: Archer's Mind",
+  "description": "A Medium Armor set found in Dragonstar Arena.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    138752
+  ]
+}

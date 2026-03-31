@@ -1,0 +1,10 @@
+{
+  "internalId": 3654156594,
+  "name": "Hakeijo",
+  "description": "Hakeijo",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_058.png",
+  "bindType": -1,
+  "knownIds": [
+    68342
+  ]
+}

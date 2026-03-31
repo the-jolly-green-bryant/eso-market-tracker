@@ -1,0 +1,10 @@
+{
+  "internalId": 2650670299,
+  "name": "Merethic Restorative Resin",
+  "description": "This ancient Elven formula, recently reconstituted by the Mages Guild, mystically restores even the most brittle and tattered parchment, making it legible again and enabling its binding into books.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_daedric_whispers_phial.png",
+  "bindType": -1,
+  "knownIds": [
+    69434
+  ]
+}

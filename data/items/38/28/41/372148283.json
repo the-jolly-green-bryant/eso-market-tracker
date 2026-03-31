@@ -1,0 +1,16 @@
+{
+  "internalId": 372148283,
+  "name": "Highland Sentinel Sabatons",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205912,
+    205947,
+    205982,
+    206017,
+    206052,
+    206087,
+    206122
+  ]
+}

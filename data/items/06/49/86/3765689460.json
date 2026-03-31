@@ -1,0 +1,12 @@
+{
+  "internalId": 3765689460,
+  "name": "King Deleyn's Longbow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": -1,
+  "knownIds": [
+    430847,
+    396172,
+    517780
+  ]
+}

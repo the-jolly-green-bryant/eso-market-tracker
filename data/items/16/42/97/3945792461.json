@@ -1,0 +1,19 @@
+{
+  "internalId": 3945792461,
+  "name": "Sabatons of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185165,
+    185220,
+    185255,
+    185290,
+    185325,
+    185360,
+    185395,
+    185430,
+    185465,
+    185500
+  ]
+}

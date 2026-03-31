@@ -1,0 +1,17 @@
+{
+  "internalId": 3858925267,
+  "name": "Battle Axe of the Desert Rose",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    90230,
+    90251,
+    90272,
+    90293,
+    90314,
+    90335,
+    90356,
+    90377
+  ]
+}

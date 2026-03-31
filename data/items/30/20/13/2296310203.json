@@ -1,0 +1,15 @@
+{
+  "internalId": 2296310203,
+  "name": "Assassin's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139754,
+    139844,
+    139934,
+    140024,
+    140114,
+    140204
+  ]
+}

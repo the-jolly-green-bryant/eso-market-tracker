@@ -1,0 +1,11 @@
+{
+  "internalId": 2181683324,
+  "name": "Bound Affix Script: Brittle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_brittle.png",
+  "bindType": -1,
+  "knownIds": [
+    1719694,
+    1720342
+  ]
+}

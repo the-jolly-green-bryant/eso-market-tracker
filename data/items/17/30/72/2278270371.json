@@ -1,0 +1,19 @@
+{
+  "internalId": 2278270371,
+  "name": "Belt of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185185,
+    185240,
+    185275,
+    185310,
+    185345,
+    185380,
+    185415,
+    185450,
+    185485,
+    185520
+  ]
+}

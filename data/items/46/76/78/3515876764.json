@@ -1,0 +1,17 @@
+{
+  "internalId": 3515876764,
+  "name": "Snake in the Stars Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    193859,
+    193880,
+    193901,
+    193922,
+    193943,
+    193964,
+    193985,
+    194006
+  ]
+}

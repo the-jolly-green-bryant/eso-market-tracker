@@ -1,0 +1,25 @@
+{
+  "internalId": 3760506804,
+  "name": "Winterborn Shield",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_shield_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1226474,
+    1230645,
+    1254797,
+    1290320,
+    1291748,
+    1331382,
+    1331854,
+    1418655,
+    1420555,
+    1494415,
+    1513224,
+    1515545,
+    1521911,
+    1539442,
+    1553426,
+    1690894
+  ]
+}

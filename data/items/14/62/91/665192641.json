@@ -1,0 +1,10 @@
+{
+  "internalId": 665192641,
+  "name": "Unchained Aggressor Heavy Armor",
+  "description": "A Crafted Armor set constructed in Cyrodiil.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182666
+  ]
+}

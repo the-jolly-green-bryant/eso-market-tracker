@@ -1,0 +1,12 @@
+{
+  "internalId": 224965706,
+  "name": "Locket of the Pariah",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    71270,
+    71288,
+    71306
+  ]
+}

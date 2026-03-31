@@ -1,0 +1,10 @@
+{
+  "internalId": 1305009732,
+  "name": "Orcish Table with Fur",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgtablelargea001.png",
+  "bindType": -1,
+  "knownIds": [
+    116442
+  ]
+}

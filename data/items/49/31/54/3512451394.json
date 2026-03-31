@@ -1,0 +1,17 @@
+{
+  "internalId": 3512451394,
+  "name": "Battle Axe of Cyrodiil's Light",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91758,
+    91779,
+    91800,
+    91821,
+    91842,
+    91863,
+    91884,
+    91905
+  ]
+}

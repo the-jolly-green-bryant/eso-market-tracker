@@ -1,0 +1,14 @@
+{
+  "internalId": 4149541374,
+  "name": "Gauntlets of Trials",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
+  "bindType": 2,
+  "knownIds": [
+    70105,
+    70140,
+    70175,
+    70210,
+    70245
+  ]
+}

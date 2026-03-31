@@ -1,0 +1,10 @@
+{
+  "internalId": 1681058009,
+  "name": "Nord Brazier, Hanging",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_lantern001.png",
+  "bindType": -1,
+  "knownIds": [
+    115419
+  ]
+}

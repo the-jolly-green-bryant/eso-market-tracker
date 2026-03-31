@@ -1,0 +1,10 @@
+{
+  "internalId": 2627600906,
+  "name": "Bugloss",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_vipers_bugloss_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    30160
+  ]
+}

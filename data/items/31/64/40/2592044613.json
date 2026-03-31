@@ -1,0 +1,13 @@
+{
+  "internalId": 2592044613,
+  "name": "Necklace of Leeching",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1031552,
+    1172031,
+    1499780,
+    1500527
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2190089876,
+  "name": "Ring of Wretched Vitality",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    178841,
+    178843,
+    178845,
+    178847,
+    178849,
+    178851,
+    178853,
+    178855,
+    178857,
+    178859
+  ]
+}

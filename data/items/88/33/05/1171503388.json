@@ -1,0 +1,19 @@
+{
+  "internalId": 1171503388,
+  "name": "Tharriker's Bow",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    205400,
+    205455,
+    205490,
+    205525,
+    205560,
+    205595,
+    205630,
+    205665,
+    205700,
+    205735
+  ]
+}

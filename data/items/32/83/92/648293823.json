@@ -1,0 +1,15 @@
+{
+  "internalId": 648293823,
+  "name": "Necklace of Hunding's Rage",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": 2,
+  "knownIds": [
+    139732,
+    139822,
+    139912,
+    140002,
+    140092,
+    140182
+  ]
+}

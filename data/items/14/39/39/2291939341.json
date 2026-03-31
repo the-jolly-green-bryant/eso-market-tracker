@@ -1,0 +1,10 @@
+{
+  "internalId": 2291939341,
+  "name": "Crafting Motif 52: Redoran Maces",
+  "description": "Use to learn how to make Redoran Maces. Also teaches the equivalent Redoran Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    130020
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 69009313,
+  "name": "House Tirethi Signet Band",
+  "description": "A ring worn by members of the prestigious Dunmeri House, Terithi, received for your assistance at the ruins of Veyond.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": 2,
+  "knownIds": [
+    174871
+  ]
+}

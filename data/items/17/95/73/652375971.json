@@ -1,0 +1,17 @@
+{
+  "internalId": 652375971,
+  "name": "Epaulets of Martial Knowledge",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_light_shoulders_a.png",
+  "bindType": 2,
+  "knownIds": [
+    95473,
+    95494,
+    95515,
+    95536,
+    95557,
+    95578,
+    95599,
+    95620
+  ]
+}

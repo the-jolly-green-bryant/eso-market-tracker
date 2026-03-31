@@ -1,0 +1,10 @@
+{
+  "internalId": 4215426844,
+  "name": "Breton Rack, Barrel",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_merchantcaskstand001.png",
+  "bindType": -1,
+  "knownIds": [
+    115162
+  ]
+}

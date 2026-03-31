@@ -1,0 +1,13 @@
+{
+  "internalId": 382575432,
+  "name": "Azureblight Dagger",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_dagger_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1374540,
+    1544870,
+    1623130,
+    1641569
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 1562342482,
+  "name": "Nocturnal's Favored Inferno Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    136425,
+    136460,
+    136495,
+    136530,
+    136565,
+    136600,
+    136635,
+    136670,
+    136705,
+    136740
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 2067460172,
+  "name": "Hew's Bane Lantern",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_lanterninterior001.png",
+  "bindType": -1,
+  "knownIds": [
+    121266
+  ]
+}

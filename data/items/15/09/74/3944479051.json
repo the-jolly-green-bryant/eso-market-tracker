@@ -1,0 +1,10 @@
+{
+  "internalId": 3944479051,
+  "name": "Imperial Banner, Dibella",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhtapestrydibellaflowersm001.png",
+  "bindType": -1,
+  "knownIds": [
+    94192
+  ]
+}

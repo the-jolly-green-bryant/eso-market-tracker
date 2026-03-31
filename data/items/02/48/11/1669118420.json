@@ -1,0 +1,10 @@
+{
+  "internalId": 1669118420,
+  "name": "Vampiric Column, Ancient",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_vamproomcolumnsingle002.png",
+  "bindType": -1,
+  "knownIds": [
+    166452
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 206546770,
+  "name": "Impregnable Armor Bracers",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_hands_a.png",
+  "bindType": 2,
+  "knownIds": [
+    125725,
+    125760,
+    125795,
+    125830,
+    125865,
+    125900,
+    125935,
+    125970
+  ]
+}

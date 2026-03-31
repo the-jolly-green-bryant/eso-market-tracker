@@ -1,0 +1,10 @@
+{
+  "internalId": 2234312887,
+  "name": "Coldharbour's Favorite Medium Armor",
+  "description": "A Crafted Armor set constructed in Northern Elsweyr.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    182804
+  ]
+}

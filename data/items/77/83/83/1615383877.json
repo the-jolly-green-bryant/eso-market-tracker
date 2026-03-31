@@ -1,0 +1,15 @@
+{
+  "internalId": 1615383877,
+  "name": "Pelinal's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    76258,
+    76293,
+    76328,
+    76363,
+    76398,
+    76433
+  ]
+}

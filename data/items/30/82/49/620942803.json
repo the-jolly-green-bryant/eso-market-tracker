@@ -1,0 +1,17 @@
+{
+  "internalId": 620942803,
+  "name": "Ravaging Girdle",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89462,
+    89482,
+    89502,
+    89522,
+    89542,
+    89562,
+    89582,
+    89602
+  ]
+}

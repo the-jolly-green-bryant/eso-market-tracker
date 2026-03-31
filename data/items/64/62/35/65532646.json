@@ -1,0 +1,10 @@
+{
+  "internalId": 65532646,
+  "name": "Jewelry: Medusa",
+  "description": "A Heavy Armor set found in Arx Corinium.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    114212
+  ]
+}

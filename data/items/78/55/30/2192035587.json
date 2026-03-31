@@ -1,0 +1,17 @@
+{
+  "internalId": 2192035587,
+  "name": "Mace of Elf Bane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89808,
+    89828,
+    89848,
+    89868,
+    89888,
+    89908,
+    89928,
+    89948
+  ]
+}

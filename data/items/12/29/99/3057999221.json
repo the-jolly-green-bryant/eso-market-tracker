@@ -1,0 +1,10 @@
+{
+  "internalId": 3057999221,
+  "name": "Dwarven Table Lamp, Polished Dome",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_marklamp001.png",
+  "bindType": -1,
+  "knownIds": [
+    171338
+  ]
+}

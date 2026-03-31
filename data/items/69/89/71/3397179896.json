@@ -1,0 +1,10 @@
+{
+  "internalId": 3397179896,
+  "name": "Rough Firewood, Fireplace",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_fireplace003.png",
+  "bindType": -1,
+  "knownIds": [
+    117980
+  ]
+}

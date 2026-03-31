@@ -1,0 +1,10 @@
+{
+  "internalId": 1686245654,
+  "name": "Cuirass of the Defender",
+  "description": "Captain Eugien Gaercroft secured an alliance with the Glenmoril Wyrd at the cost of his daughter, Isabeth. For your help, he awarded this armor.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    15606
+  ]
+}

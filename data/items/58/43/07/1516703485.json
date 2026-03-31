@@ -1,0 +1,10 @@
+{
+  "internalId": 1516703485,
+  "name": "Gonfalon Colossus Painting, Wood",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_woodpaintinglarge005.png",
+  "bindType": -1,
+  "knownIds": [
+    187876
+  ]
+}

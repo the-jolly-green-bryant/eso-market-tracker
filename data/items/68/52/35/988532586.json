@@ -1,0 +1,10 @@
+{
+  "internalId": 988532586,
+  "name": "Necrom Chest, Elegant",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necchesthigh001.png",
+  "bindType": -1,
+  "knownIds": [
+    197485
+  ]
+}

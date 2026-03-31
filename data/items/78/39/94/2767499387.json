@@ -1,0 +1,10 @@
+{
+  "internalId": 2767499387,
+  "name": "Bright Crystal",
+  "description": "A bright crystal that looks like it can reflect light in long distances. Used around Shada's Tear for an unknown purpose.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gem_001.png",
+  "bindType": -1,
+  "knownIds": [
+    81237
+  ]
+}

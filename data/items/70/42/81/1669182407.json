@@ -1,0 +1,16 @@
+{
+  "internalId": 1669182407,
+  "name": "Ring of the Vicious Ophidian",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
+  "bindType": -1,
+  "knownIds": [
+    965471,
+    1122101,
+    1122105,
+    1441630,
+    1442544,
+    1493837,
+    1658281
+  ]
+}

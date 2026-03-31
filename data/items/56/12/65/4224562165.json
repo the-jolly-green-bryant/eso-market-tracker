@@ -1,0 +1,17 @@
+{
+  "internalId": 4224562165,
+  "name": "Bow of the Juggernaut",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
+  "bindType": 2,
+  "knownIds": [
+    88904,
+    88924,
+    88944,
+    88964,
+    88984,
+    89004,
+    89024,
+    89044
+  ]
+}

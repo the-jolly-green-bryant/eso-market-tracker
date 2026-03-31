@@ -1,0 +1,10 @@
+{
+  "internalId": 2572069689,
+  "name": "Crusty Bread",
+  "description": "A common food.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_food_004.png",
+  "bindType": -1,
+  "knownIds": [
+    94211
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "internalId": 2718030447,
+  "name": "New Moon Acolyte's Greaves",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    156169,
+    156224,
+    156259,
+    156294,
+    156329,
+    156364,
+    156399,
+    156434,
+    156469,
+    156504
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "internalId": 1722189923,
+  "name": "Hircine's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_staff_a.png",
+  "bindType": 2,
+  "knownIds": [
+    77735,
+    77771,
+    77807,
+    77843
+  ]
+}

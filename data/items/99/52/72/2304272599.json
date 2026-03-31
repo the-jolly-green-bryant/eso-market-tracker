@@ -1,0 +1,10 @@
+{
+  "internalId": 2304272599,
+  "name": "Alinor Sconce, Candles",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_candleholderwall001.png",
+  "bindType": -1,
+  "knownIds": [
+    139206
+  ]
+}

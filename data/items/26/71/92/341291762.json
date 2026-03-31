@@ -1,0 +1,10 @@
+{
+  "internalId": 341291762,
+  "name": "Cushion, Faded Yellow",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofapillowlargeworn003.png",
+  "bindType": -1,
+  "knownIds": [
+    118261
+  ]
+}

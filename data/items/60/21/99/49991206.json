@@ -1,0 +1,17 @@
+{
+  "internalId": 49991206,
+  "name": "Sword Dancer's Necklace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
+  "bindType": -1,
+  "knownIds": [
+    940028,
+    947621,
+    1064673,
+    1422290,
+    1447920,
+    1449178,
+    1484448,
+    1612041
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 837945013,
+  "name": "Rug of the Undaunted, Rectangular",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holundrug002.png",
+  "bindType": -1,
+  "knownIds": [
+    208112
+  ]
+}

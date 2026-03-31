@@ -1,0 +1,10 @@
+{
+  "internalId": 740716060,
+  "name": "Solitude Wardrobe, Noble",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_armoirfancy001.png",
+  "bindType": -1,
+  "knownIds": [
+    165696
+  ]
+}

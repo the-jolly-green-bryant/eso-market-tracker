@@ -1,0 +1,12 @@
+{
+  "internalId": 1926124835,
+  "name": "Caravaner's Strong Box",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
+  "bindType": -1,
+  "knownIds": [
+    1316042,
+    1316145,
+    1317539
+  ]
+}

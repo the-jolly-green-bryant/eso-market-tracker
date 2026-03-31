@@ -1,0 +1,10 @@
+{
+  "internalId": 2467315173,
+  "name": "Branch, Curved Burnt",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_vrdlimberpine_branch003.png",
+  "bindType": -1,
+  "knownIds": [
+    130293
+  ]
+}

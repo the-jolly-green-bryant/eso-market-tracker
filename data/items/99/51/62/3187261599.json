@@ -1,0 +1,19 @@
+{
+  "internalId": 3187261599,
+  "name": "Threads of War Helm",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    206169,
+    206224,
+    206259,
+    206294,
+    206329,
+    206364,
+    206399,
+    206434,
+    206469,
+    206504
+  ]
+}

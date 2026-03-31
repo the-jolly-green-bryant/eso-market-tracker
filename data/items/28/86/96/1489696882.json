@@ -1,0 +1,10 @@
+{
+  "internalId": 1489696882,
+  "name": "Mammoth Cheese, Mastercrafted",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_mammothcheesesack001.png",
+  "bindType": -1,
+  "knownIds": [
+    132163
+  ]
+}

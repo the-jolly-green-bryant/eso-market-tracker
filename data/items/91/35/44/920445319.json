@@ -1,0 +1,10 @@
+{
+  "internalId": 920445319,
+  "name": "Zeal Decorations, Pennants Long",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealbannerline005.png",
+  "bindType": -1,
+  "knownIds": [
+    212549
+  ]
+}

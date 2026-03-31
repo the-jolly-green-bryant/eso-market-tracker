@@ -1,0 +1,10 @@
+{
+  "internalId": 2236924693,
+  "name": "Namira's Rot",
+  "description": "An ingredient for crafting potions.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mushroom_namiras_rot_r1.png",
+  "bindType": -1,
+  "knownIds": [
+    30153
+  ]
+}

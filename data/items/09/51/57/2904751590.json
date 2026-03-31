@@ -1,0 +1,11 @@
+{
+  "internalId": 2904751590,
+  "name": "Daedric Shackles Key",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_shackles.png",
+  "bindType": -1,
+  "knownIds": [
+    1578195,
+    1578213
+  ]
+}

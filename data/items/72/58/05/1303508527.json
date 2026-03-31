@@ -1,0 +1,15 @@
+{
+  "internalId": 1303508527,
+  "name": "Shield of the Warlock",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85647,
+    85668,
+    85689,
+    85710,
+    85731,
+    85773
+  ]
+}

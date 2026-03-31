@@ -1,0 +1,17 @@
+{
+  "internalId": 599508269,
+  "name": "Greatsword of Imperial Wrath",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    89994,
+    90007,
+    90020,
+    90033,
+    90046,
+    90059,
+    90072,
+    90085
+  ]
+}

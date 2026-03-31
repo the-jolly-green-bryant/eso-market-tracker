@@ -1,0 +1,19 @@
+{
+  "internalId": 58864438,
+  "name": "Nightcaller",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hhammer_d.png",
+  "bindType": -1,
+  "knownIds": [
+    475693,
+    676864,
+    579772,
+    812874,
+    1064665,
+    1131080,
+    1390394,
+    1423908,
+    1523965,
+    1536564
+  ]
+}

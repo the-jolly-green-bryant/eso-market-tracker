@@ -1,0 +1,17 @@
+{
+  "internalId": 4090632717,
+  "name": "Mace of the Sun",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    84708,
+    84729,
+    84750,
+    84771,
+    84792,
+    84813,
+    84834,
+    84855
+  ]
+}

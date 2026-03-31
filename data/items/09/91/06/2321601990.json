@@ -1,0 +1,17 @@
+{
+  "internalId": 2321601990,
+  "name": "Hrothgar's Ice Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    180776,
+    180796,
+    180816,
+    180836,
+    180856,
+    180876,
+    180896,
+    180916
+  ]
+}

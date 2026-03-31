@@ -1,0 +1,10 @@
+{
+  "internalId": 173269502,
+  "name": "Leyawiin Bookcase, Grand Filled",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylargebookshelves002.png",
+  "bindType": -1,
+  "knownIds": [
+    175597
+  ]
+}

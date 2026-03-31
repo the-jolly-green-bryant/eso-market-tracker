@@ -1,0 +1,11 @@
+{
+  "internalId": 3042394849,
+  "name": "Soulcleaver Arm Cops",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_shoulder_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1692794,
+    1717411
+  ]
+}

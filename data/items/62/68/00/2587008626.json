@@ -1,0 +1,13 @@
+{
+  "internalId": 2587008626,
+  "name": "Adept Rider's Guards",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    135959,
+    135994,
+    136029,
+    136064
+  ]
+}

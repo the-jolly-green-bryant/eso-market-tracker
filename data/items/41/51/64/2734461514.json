@@ -1,0 +1,10 @@
+{
+  "internalId": 2734461514,
+  "name": "Crafting Motif 97: Wayward Guardian Chests",
+  "description": "Use to learn how to make Wayward Guardian Chests. Also teaches the equivalent Wayward Guardian Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    167982
+  ]
+}

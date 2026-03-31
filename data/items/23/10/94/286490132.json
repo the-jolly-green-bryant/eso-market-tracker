@@ -1,0 +1,17 @@
+{
+  "internalId": 286490132,
+  "name": "Sash of Syrabane",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85100,
+    85121,
+    85142,
+    85163,
+    85184,
+    85205,
+    85226,
+    85247
+  ]
+}

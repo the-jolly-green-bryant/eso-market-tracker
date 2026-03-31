@@ -1,0 +1,10 @@
+{
+  "internalId": 921154187,
+  "name": "Nix-Hound Leash",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
+  "bindType": -1,
+  "knownIds": [
+    496580
+  ]
+}

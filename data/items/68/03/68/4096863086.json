@@ -1,0 +1,13 @@
+{
+  "internalId": 4096863086,
+  "name": "Spider's Crown",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_teeth_001.png",
+  "bindType": -1,
+  "knownIds": [
+    550842,
+    787419,
+    860061,
+    1347438
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "internalId": 1005604676,
+  "name": "Rajhin's Sugar Claws",
+  "description": "A mischievous dessert enjoyed during the New Life Festival. This Khajiit treat is more moon-sugar than pastry.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_sugar_claws.png",
+  "bindType": -1,
+  "knownIds": [
+    112438
+  ]
+}

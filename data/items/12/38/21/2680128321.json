@@ -1,0 +1,10 @@
+{
+  "internalId": 2680128321,
+  "name": "Leyawiin Alcove, Castle",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leycellarendcap001.png",
+  "bindType": -1,
+  "knownIds": [
+    181516
+  ]
+}

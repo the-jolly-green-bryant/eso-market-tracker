@@ -1,0 +1,17 @@
+{
+  "internalId": 3319640996,
+  "name": "Guards of the Valiant",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    92648,
+    92668,
+    92688,
+    92708,
+    92728,
+    92748,
+    92768,
+    92788
+  ]
+}

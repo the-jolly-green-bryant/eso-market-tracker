@@ -1,0 +1,18 @@
+{
+  "internalId": 2353986272,
+  "name": "Shield of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_shield_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86757,
+    86778,
+    86799,
+    86820,
+    86841,
+    86862,
+    86883,
+    86904,
+    86925
+  ]
+}

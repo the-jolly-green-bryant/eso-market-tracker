@@ -1,0 +1,31 @@
+{
+  "internalId": 175803016,
+  "name": "ironthread sash of magicka",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": -1,
+  "knownIds": [
+    445980,
+    717846,
+    490595,
+    478915,
+    384852,
+    732294,
+    378182,
+    426611,
+    499151,
+    631262,
+    611587,
+    736191,
+    495267,
+    533892,
+    583933,
+    694060,
+    541759,
+    737317,
+    793687,
+    785965,
+    838310,
+    1065270
+  ]
+}

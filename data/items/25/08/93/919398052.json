@@ -1,0 +1,10 @@
+{
+  "internalId": 919398052,
+  "name": "Fern, Lush",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_greenshade_ferns002.png",
+  "bindType": -1,
+  "knownIds": [
+    120595
+  ]
+}

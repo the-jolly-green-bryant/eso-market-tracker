@@ -1,0 +1,19 @@
+{
+  "internalId": 2330958007,
+  "name": "Sash of Dragon's Appetite",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
+  "bindType": 2,
+  "knownIds": [
+    161622,
+    161677,
+    161712,
+    161747,
+    161782,
+    161817,
+    161852,
+    161887,
+    161922,
+    161957
+  ]
+}

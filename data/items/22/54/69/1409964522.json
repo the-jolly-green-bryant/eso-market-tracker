@@ -1,0 +1,10 @@
+{
+  "internalId": 1409964522,
+  "name": "Gilding Salts",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_humanoid_daedra_fire_salts.png",
+  "bindType": -1,
+  "knownIds": [
+    156571
+  ]
+}

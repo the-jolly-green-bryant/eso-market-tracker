@@ -1,0 +1,18 @@
+{
+  "internalId": 2434861091,
+  "name": "Mighty Glacier's Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_1haxe_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1342076,
+    1378785,
+    1402826,
+    1561438,
+    1561446,
+    1565882,
+    1594502,
+    1622578,
+    1755936
+  ]
+}

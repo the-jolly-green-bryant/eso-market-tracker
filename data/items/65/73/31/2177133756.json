@@ -1,0 +1,10 @@
+{
+  "internalId": 2177133756,
+  "name": "Crafting Motif 133: Coldharbour Dominator Daggers",
+  "description": "Use to learn how to make Coldharbour Dominator Daggers. Also teaches the equivalent Coldharbour Dominator Outfit Styles.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
+  "bindType": -1,
+  "knownIds": [
+    212107
+  ]
+}

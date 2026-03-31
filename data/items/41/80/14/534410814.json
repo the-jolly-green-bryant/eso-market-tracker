@@ -1,0 +1,19 @@
+{
+  "internalId": 534410814,
+  "name": "Innate Axiom Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    130381,
+    130416,
+    130451,
+    130486,
+    130521,
+    130556,
+    130591,
+    130626,
+    130661,
+    130696
+  ]
+}

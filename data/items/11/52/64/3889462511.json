@@ -1,0 +1,10 @@
+{
+  "internalId": 3889462511,
+  "name": "Anniversary Jubilee Gift (Crafting)",
+  "description": "This box contains a variety of crafting-related materials, rarely including an Outfit Style Page featuring the Prophet's distinctive fashion. This week's Gift Box comes from completing Crafting Writ Daily Quests.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
+  "bindType": 3,
+  "knownIds": [
+    147430
+  ]
+}

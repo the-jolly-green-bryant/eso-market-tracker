@@ -1,0 +1,10 @@
+{
+  "internalId": 3474478191,
+  "name": "Tongs, Forge",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_tongs001.png",
+  "bindType": -1,
+  "knownIds": [
+    118046
+  ]
+}

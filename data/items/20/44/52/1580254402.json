@@ -1,0 +1,17 @@
+{
+  "internalId": 1580254402,
+  "name": "Steadfast Hero Lightning Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    144659,
+    144679,
+    144699,
+    144719,
+    144739,
+    144759,
+    144779,
+    144799
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2427443832,
+  "name": "Jack of Salvation",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_chest_d.png",
+  "bindType": 2,
+  "knownIds": [
+    85466,
+    85486,
+    85506,
+    85526,
+    85546,
+    85566,
+    85586,
+    85606
+  ]
+}

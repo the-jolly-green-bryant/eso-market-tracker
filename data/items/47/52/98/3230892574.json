@@ -1,0 +1,10 @@
+{
+  "internalId": 3230892574,
+  "name": "Weapons: Coward's Gear",
+  "description": "A Medium Armor set purchased in Morrowind's Battleground Camp.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
+  "bindType": 2,
+  "knownIds": [
+    127137
+  ]
+}

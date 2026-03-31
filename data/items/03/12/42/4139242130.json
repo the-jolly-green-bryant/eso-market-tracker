@@ -1,0 +1,10 @@
+{
+  "internalId": 4139242130,
+  "name": "Redoran Table Runner, Gilded Ochre",
+  "description": "This is a small house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlatablerunner005.png",
+  "bindType": -1,
+  "knownIds": [
+    126459
+  ]
+}

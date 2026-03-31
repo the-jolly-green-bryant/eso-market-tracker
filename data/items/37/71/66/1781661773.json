@@ -1,0 +1,10 @@
+{
+  "internalId": 1781661773,
+  "name": "Coral Formation, Heart",
+  "description": "This is a large house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_coralmed001.png",
+  "bindType": -1,
+  "knownIds": [
+    139329
+  ]
+}

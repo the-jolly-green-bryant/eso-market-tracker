@@ -1,0 +1,19 @@
+{
+  "internalId": 1873959151,
+  "name": "Vastarie's Shoes",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
+  "bindType": 2,
+  "knownIds": [
+    148709,
+    148764,
+    148799,
+    148834,
+    148869,
+    148904,
+    148939,
+    148974,
+    149009,
+    149044
+  ]
+}

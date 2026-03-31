@@ -1,0 +1,18 @@
+{
+  "internalId": 1278382287,
+  "name": "Dagger of Necropotence",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
+  "bindType": 2,
+  "knownIds": [
+    86751,
+    86772,
+    86793,
+    86814,
+    86835,
+    86856,
+    86877,
+    86898,
+    86919
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "internalId": 151947909,
+  "name": "Lightning Staff of Explosive Rebuke",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_staff_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1399995,
+    1402991,
+    1417853,
+    1531635,
+    1568225,
+    1580641,
+    1600560,
+    1615495,
+    1645455,
+    1722854,
+    1752997,
+    1754906
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": 3755981094,
+  "name": "Storm-Cursed Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kraken_mace_a.png",
+  "bindType": -1,
+  "knownIds": [
+    1573726,
+    1581044,
+    1589092,
+    1603688,
+    1606368,
+    1610194,
+    1624002,
+    1743113,
+    1747601
+  ]
+}

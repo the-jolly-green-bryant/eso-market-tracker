@@ -1,0 +1,11 @@
+{
+  "internalId": 3541401442,
+  "name": "Bound Signature Script: Anchorite's Cruelty",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_soulcollapse.png",
+  "bindType": -1,
+  "knownIds": [
+    1721017,
+    1722072
+  ]
+}

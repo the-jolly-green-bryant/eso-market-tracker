@@ -1,0 +1,11 @@
+{
+  "internalId": 644231359,
+  "name": "The Vicecanon's Restoration Staff",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
+  "bindType": 2,
+  "knownIds": [
+    78550,
+    78585
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "internalId": 2789395234,
+  "name": "Hat of Almalexia's Mercy",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
+  "bindType": 2,
+  "knownIds": [
+    91007,
+    91028,
+    91049,
+    91070,
+    91091,
+    91112,
+    91133,
+    91154
+  ]
+}

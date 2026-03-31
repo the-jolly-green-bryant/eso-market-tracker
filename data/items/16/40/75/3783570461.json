@@ -1,0 +1,19 @@
+{
+  "internalId": 3783570461,
+  "name": "Maul of Serpent's Disdain",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
+  "bindType": 2,
+  "knownIds": [
+    185155,
+    185210,
+    185245,
+    185280,
+    185315,
+    185350,
+    185385,
+    185420,
+    185455,
+    185490
+  ]
+}

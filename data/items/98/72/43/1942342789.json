@@ -1,0 +1,31 @@
+{
+  "internalId": 1942342789,
+  "name": "Burning Spellweave Sword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1067766,
+    1076122,
+    1096185,
+    1136623,
+    1172307,
+    1178603,
+    1182194,
+    1198614,
+    1215179,
+    1311928,
+    1401807,
+    1418872,
+    1423296,
+    1502134,
+    1556028,
+    1556716,
+    1569108,
+    1587758,
+    1620010,
+    1632781,
+    1679051,
+    1765060
+  ]
+}

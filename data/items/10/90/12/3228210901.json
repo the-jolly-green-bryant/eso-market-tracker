@@ -1,0 +1,29 @@
+{
+  "internalId": 3228210901,
+  "name": "Storm Master's Battle Axe",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2haxe_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1078421,
+    1174810,
+    1190327,
+    1193931,
+    1391104,
+    1444857,
+    1493087,
+    1530285,
+    1569211,
+    1573813,
+    1577915,
+    1578294,
+    1584555,
+    1585844,
+    1596616,
+    1602497,
+    1602709,
+    1620831,
+    1646944,
+    1708629
+  ]
+}

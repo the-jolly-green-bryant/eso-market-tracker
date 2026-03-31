@@ -1,0 +1,19 @@
+{
+  "internalId": 3801236980,
+  "name": "Clever Alchemist Greatsword",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
+  "bindType": 2,
+  "knownIds": [
+    72168,
+    72203,
+    72238,
+    72273,
+    72308,
+    72343,
+    72378,
+    72413,
+    72448,
+    72483
+  ]
+}

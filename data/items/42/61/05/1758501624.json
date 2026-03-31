@@ -1,0 +1,14 @@
+{
+  "internalId": 1758501624,
+  "name": "Grave-Stake Collector Breeches",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
+  "bindType": 2,
+  "knownIds": [
+    143010,
+    143045,
+    143080,
+    143115,
+    143150
+  ]
+}

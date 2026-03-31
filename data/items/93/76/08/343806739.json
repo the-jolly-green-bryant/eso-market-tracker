@@ -1,0 +1,10 @@
+{
+  "internalId": 343806739,
+  "name": "Coldharbour Gravestone, Etched",
+  "description": "This is a standard house item.",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_cem_tombdoor001.png",
+  "bindType": -1,
+  "knownIds": [
+    204626
+  ]
+}

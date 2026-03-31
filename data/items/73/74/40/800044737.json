@@ -1,0 +1,25 @@
+{
+  "internalId": 800044737,
+  "name": "Storm Master's Mace",
+  "description": "",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hhammer_c.png",
+  "bindType": -1,
+  "knownIds": [
+    1193665,
+    1197009,
+    1207163,
+    1213131,
+    1336899,
+    1412793,
+    1433943,
+    1545686,
+    1549848,
+    1573428,
+    1573817,
+    1577913,
+    1617425,
+    1691557,
+    1726980,
+    1772688
+  ]
+}
