@@ -29,9 +29,11 @@ ESO Market Tracker is a **monorepo** containing multiple coordinated packages:
 | &nbsp;&nbsp;`eso`                               | Contains logic specific to ESO and its system of IDs                                       |
 | &nbsp;&nbsp;`logging`                           | Handles routine logging and contains sundry helper functions                               |
 | `apps/`                                         | Serve or manage data in various ways.                                                      |
-| &nbsp;&nbsp;`collectors/`                       | Ingest data from various sources.                                                          |
-| &nbsp;&nbsp;&nbsp;&nbsp;`items-from-uesp`       | Pulls all items known to UESP into the database                                            |
-| &nbsp;&nbsp;&nbsp;&nbsp;`observations-from-emt` | Pulls all item pricing data from legacy EMT.                                               |
+| &nbsp;&nbsp;`collectors/`                       | Ingest data from various sources and push it into the data directory.                      |
+| &nbsp;&nbsp;&nbsp;&nbsp;`items-from-uesp`       | Pulls all items known to UESP into the database. (As Needed)                               |
+| &nbsp;&nbsp;&nbsp;&nbsp;`observations-from-emt` | Pulls all item pricing data from legacy EMT. (One-time)                                    |
+| &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-local-addons` | Pulls all pricing data from legacy addons. (One-time)                                      |
+| &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-tsc-web-app` | Pulls pricing data from the legacy TSC web app. (One-time)                                 |
 | `data`                                          | Manages generating of database artifacts such as SQLite in addition to containing raw data |
 
 The architecture intentionally keeps the **canonical dataset as flat files** rather than
@@ -106,7 +108,11 @@ Search and indexing layers operate on top of this canonical dataset.
 
 ---
 
-## Data Collection Practices
+## Data Collection & Management
+
+### Collectors
+
+Collectors ingest data from various sources and pipes it into the flat file system.
 
 The `apps/collectors/items-from-uesp` collector pulls in new item baesd on data mining
 and should be run whenever one can reasonably expect new items to exist, such as when
@@ -117,6 +123,14 @@ retired in favor of this data collection. It is retained for historical purposes
 
 The `apps/collectors/observations-from-tsc-web-app` can be run repeatedly, but data is
 slow to update on that platform, and other TSC services are fresher.
+
+### Builder
+
+The `data` package compiles the flat file system into easily accessible artifacts.
+
+### Deployments
+
+Deployments take the collected data and serve it in various fashions.
 
 ---
 
