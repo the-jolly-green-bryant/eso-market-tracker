@@ -1,0 +1,114 @@
+{
+  "0": {
+    "average": 20,
+    "date": "2025-07-26",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 20
+  },
+  "1": {
+    "average": 230,
+    "date": "2025-08-08",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "2": {
+    "average": 230,
+    "date": "2025-08-10",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "3": {
+    "average": 230,
+    "date": "2025-08-11",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "4": {
+    "average": 230,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "5": {
+    "average": 230,
+    "date": "2025-08-19",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "6": {
+    "average": 230,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "7": {
+    "average": 61,
+    "date": "2025-09-02",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "8": {
+    "average": 61,
+    "date": "2025-09-04",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "9": {
+    "average": 61,
+    "date": "2025-09-18",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "10": {
+    "average": 61,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "11": {
+    "average": 61,
+    "date": "2025-09-27",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "12": {
+    "average": 61,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "13": {
+    "average": 180,
+    "date": "2025-10-05",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "14": {
+    "average": 180,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  },
+  "15": {
+    "average": 180,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 18,
+    "maximum": 231
+  }
+}

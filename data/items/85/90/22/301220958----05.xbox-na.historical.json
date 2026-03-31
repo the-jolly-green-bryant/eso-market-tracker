@@ -1,0 +1,44 @@
+{
+  "0": {
+    "average": 780909,
+    "date": "2025-08-21",
+    "commonQuantity": 1,
+    "minimum": 709917,
+    "maximum": 780909
+  },
+  "1": {
+    "average": 553079,
+    "date": "2025-08-26",
+    "commonQuantity": 1,
+    "minimum": 500000,
+    "maximum": 780909
+  },
+  "2": {
+    "average": 553079,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 500000,
+    "maximum": 780909
+  },
+  "3": {
+    "average": 976074,
+    "date": "2025-09-04",
+    "commonQuantity": 1,
+    "minimum": 500000,
+    "maximum": 1099999
+  },
+  "4": {
+    "average": 1195960,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 500000,
+    "maximum": 1210000
+  },
+  "5": {
+    "average": 1195960,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 500000,
+    "maximum": 1210000
+  }
+}

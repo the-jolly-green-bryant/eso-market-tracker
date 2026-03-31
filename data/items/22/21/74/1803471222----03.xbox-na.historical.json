@@ -1,0 +1,107 @@
+{
+  "0": {
+    "average": 11000,
+    "date": "2025-07-29",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 11000
+  },
+  "1": {
+    "average": 11000,
+    "date": "2025-08-14",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 11000
+  },
+  "2": {
+    "average": 11000,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 11000
+  },
+  "3": {
+    "average": 11000,
+    "date": "2025-08-21",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 11000
+  },
+  "4": {
+    "average": 9941,
+    "date": "2025-08-26",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 11000
+  },
+  "5": {
+    "average": 9941,
+    "date": "2025-08-28",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 11000
+  },
+  "6": {
+    "average": 9941,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 11000
+  },
+  "7": {
+    "average": 9941,
+    "date": "2025-09-04",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 11000
+  },
+  "8": {
+    "average": 9941,
+    "date": "2025-09-18",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 11000
+  },
+  "9": {
+    "average": 15273,
+    "date": "2025-09-27",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 16533
+  },
+  "10": {
+    "average": 13267,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 16533
+  },
+  "11": {
+    "average": 12528,
+    "date": "2025-10-05",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 16533
+  },
+  "12": {
+    "average": 11727,
+    "date": "2025-10-15",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 16533
+  },
+  "13": {
+    "average": 11727,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 16533
+  },
+  "14": {
+    "average": 11727,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 9000,
+    "maximum": 16533
+  }
+}

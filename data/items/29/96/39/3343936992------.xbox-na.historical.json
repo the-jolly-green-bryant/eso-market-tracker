@@ -1,0 +1,16 @@
+{
+  "0": {
+    "average": 2270,
+    "date": "2026-02-16",
+    "commonQuantity": 1,
+    "minimum": 800,
+    "maximum": 5500
+  },
+  "1": {
+    "date": "2026-02-24",
+    "average": 2270,
+    "minimum": 1270,
+    "maximum": 3012,
+    "commonQuantity": 1
+  }
+}

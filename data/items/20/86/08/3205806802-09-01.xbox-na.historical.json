@@ -1,0 +1,219 @@
+{
+  "0": {
+    "average": 324,
+    "date": "2024-11-15",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 385
+  },
+  "1": {
+    "average": 275,
+    "date": "2025-07-29",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 385
+  },
+  "2": {
+    "average": 275,
+    "date": "2025-07-31",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 385
+  },
+  "3": {
+    "average": 275,
+    "date": "2025-08-01",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 444
+  },
+  "4": {
+    "average": 292,
+    "date": "2025-08-02",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 550
+  },
+  "5": {
+    "average": 300,
+    "date": "2025-08-04",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 550
+  },
+  "6": {
+    "average": 366,
+    "date": "2025-08-08",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "7": {
+    "average": 372,
+    "date": "2025-08-09",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "8": {
+    "average": 370,
+    "date": "2025-08-10",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "9": {
+    "average": 364,
+    "date": "2025-08-11",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "10": {
+    "average": 368,
+    "date": "2025-08-12",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "11": {
+    "average": 369,
+    "date": "2025-08-14",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "12": {
+    "average": 356,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "13": {
+    "average": 357,
+    "date": "2025-08-19",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "14": {
+    "average": 389,
+    "date": "2025-08-21",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "15": {
+    "average": 347,
+    "date": "2025-08-23",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "16": {
+    "average": 322,
+    "date": "2025-08-26",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "17": {
+    "average": 304,
+    "date": "2025-08-28",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "18": {
+    "average": 322,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1760
+  },
+  "19": {
+    "average": 321,
+    "date": "2025-08-31",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1199
+  },
+  "20": {
+    "average": 322,
+    "date": "2025-09-02",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1199
+  },
+  "21": {
+    "average": 322,
+    "date": "2025-09-04",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1199
+  },
+  "22": {
+    "average": 368,
+    "date": "2025-09-18",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1199
+  },
+  "23": {
+    "average": 373,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1199
+  },
+  "24": {
+    "average": 313,
+    "date": "2025-09-27",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1199
+  },
+  "25": {
+    "average": 313,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1192
+  },
+  "26": {
+    "average": 306,
+    "date": "2025-10-05",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1192
+  },
+  "27": {
+    "average": 296,
+    "date": "2025-10-15",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1192
+  },
+  "28": {
+    "average": 300,
+    "date": "2025-10-23",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1192
+  },
+  "29": {
+    "average": 346,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1192
+  },
+  "30": {
+    "average": 346,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 81,
+    "maximum": 1192
+  }
+}

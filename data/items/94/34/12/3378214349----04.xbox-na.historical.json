@@ -1,0 +1,905 @@
+{
+  "0": {
+    "average": 121000,
+    "date": "2023-09-18",
+    "commonQuantity": 1,
+    "minimum": 40000,
+    "maximum": 121000
+  },
+  "1": {
+    "average": 121000,
+    "date": "2023-09-23",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "2": {
+    "average": 121000,
+    "date": "2023-09-30",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "3": {
+    "average": 121000,
+    "date": "2023-10-03",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "4": {
+    "average": 121000,
+    "date": "2023-10-06",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "5": {
+    "average": 121000,
+    "date": "2023-10-09",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "6": {
+    "average": 121000,
+    "date": "2023-10-14",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "7": {
+    "average": 121000,
+    "date": "2023-10-17",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "8": {
+    "average": 121000,
+    "date": "2023-10-20",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "9": {
+    "average": 121000,
+    "date": "2023-10-24",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "10": {
+    "average": 121000,
+    "date": "2023-10-28",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "11": {
+    "average": 121000,
+    "date": "2023-11-01",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "12": {
+    "average": 121000,
+    "date": "2023-11-04",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "13": {
+    "average": 121000,
+    "date": "2023-11-07",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "14": {
+    "average": 121000,
+    "date": "2023-11-11",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "15": {
+    "average": 121000,
+    "date": "2023-11-18",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "16": {
+    "average": 121000,
+    "date": "2023-11-22",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "17": {
+    "average": 121000,
+    "date": "2023-11-25",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "18": {
+    "average": 121000,
+    "date": "2023-11-29",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "19": {
+    "average": 121000,
+    "date": "2023-12-02",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "20": {
+    "average": 121000,
+    "date": "2023-12-06",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "21": {
+    "average": 121000,
+    "date": "2023-12-09",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "22": {
+    "average": 121000,
+    "date": "2023-12-14",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "23": {
+    "average": 121000,
+    "date": "2023-12-16",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "24": {
+    "average": 121000,
+    "date": "2023-12-21",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "25": {
+    "average": 121000,
+    "date": "2023-12-23",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "26": {
+    "average": 121000,
+    "date": "2023-12-28",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "27": {
+    "average": 121000,
+    "date": "2024-01-01",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "28": {
+    "average": 121000,
+    "date": "2024-01-03",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 121000
+  },
+  "29": {
+    "average": 140798,
+    "date": "2024-01-06",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 140800
+  },
+  "30": {
+    "average": 140798,
+    "date": "2024-01-12",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 140800
+  },
+  "31": {
+    "average": 140798,
+    "date": "2024-01-20",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 140800
+  },
+  "32": {
+    "average": 140798,
+    "date": "2024-01-26",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 140800
+  },
+  "33": {
+    "average": 140798,
+    "date": "2024-02-03",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 140800
+  },
+  "34": {
+    "average": 140798,
+    "date": "2024-02-10",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 140800
+  },
+  "35": {
+    "average": 140798,
+    "date": "2024-02-17",
+    "commonQuantity": 1,
+    "minimum": 110000,
+    "maximum": 140800
+  },
+  "36": {
+    "average": 91770,
+    "date": "2024-02-23",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "37": {
+    "average": 91770,
+    "date": "2024-02-28",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "38": {
+    "average": 91770,
+    "date": "2024-03-02",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "39": {
+    "average": 91770,
+    "date": "2024-03-06",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "40": {
+    "average": 91770,
+    "date": "2024-03-13",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "41": {
+    "average": 91770,
+    "date": "2024-03-20",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "42": {
+    "average": 91770,
+    "date": "2024-03-25",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "43": {
+    "average": 91770,
+    "date": "2024-03-27",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "44": {
+    "average": 91770,
+    "date": "2024-03-29",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "45": {
+    "average": 91770,
+    "date": "2024-03-31",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "46": {
+    "average": 91770,
+    "date": "2024-04-02",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "47": {
+    "average": 91770,
+    "date": "2024-04-05",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "48": {
+    "average": 91770,
+    "date": "2024-04-07",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "49": {
+    "average": 91770,
+    "date": "2024-04-10",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "50": {
+    "average": 91770,
+    "date": "2024-04-13",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "51": {
+    "average": 91770,
+    "date": "2024-04-16",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "52": {
+    "average": 91770,
+    "date": "2024-04-19",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "53": {
+    "average": 91770,
+    "date": "2024-04-23",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "54": {
+    "average": 91770,
+    "date": "2024-04-26",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "55": {
+    "average": 91770,
+    "date": "2024-04-29",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "56": {
+    "average": 91770,
+    "date": "2024-05-02",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "57": {
+    "average": 91770,
+    "date": "2024-05-05",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "58": {
+    "average": 91770,
+    "date": "2024-05-08",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "59": {
+    "average": 91770,
+    "date": "2024-05-11",
+    "commonQuantity": 1,
+    "minimum": 60039,
+    "maximum": 140800
+  },
+  "60": {
+    "average": 91770,
+    "date": "2024-05-15",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "61": {
+    "average": 75945,
+    "date": "2024-05-19",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "62": {
+    "average": 75945,
+    "date": "2024-05-20",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "63": {
+    "average": 75945,
+    "date": "2024-05-25",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "64": {
+    "average": 75945,
+    "date": "2024-05-26",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "65": {
+    "average": 75945,
+    "date": "2024-05-28",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "66": {
+    "average": 75945,
+    "date": "2024-05-29",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "67": {
+    "average": 75945,
+    "date": "2024-06-01",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "68": {
+    "average": 75945,
+    "date": "2024-06-02",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "69": {
+    "average": 75945,
+    "date": "2024-06-05",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "70": {
+    "average": 75945,
+    "date": "2024-06-06",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "71": {
+    "average": 75945,
+    "date": "2024-06-08",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "72": {
+    "average": 75945,
+    "date": "2024-06-11",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "73": {
+    "average": 75945,
+    "date": "2024-06-12",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "74": {
+    "average": 75945,
+    "date": "2024-06-15",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "75": {
+    "average": 75945,
+    "date": "2024-06-17",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "76": {
+    "average": 75945,
+    "date": "2024-06-18",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "77": {
+    "average": 75945,
+    "date": "2024-06-19",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "78": {
+    "average": 75945,
+    "date": "2024-06-20",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "79": {
+    "average": 75945,
+    "date": "2024-06-21",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "80": {
+    "average": 75945,
+    "date": "2024-06-23",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "81": {
+    "average": 75945,
+    "date": "2024-06-26",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "82": {
+    "average": 75945,
+    "date": "2024-06-29",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "83": {
+    "average": 75945,
+    "date": "2024-07-03",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "84": {
+    "average": 75945,
+    "date": "2024-07-06",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "85": {
+    "average": 75945,
+    "date": "2024-07-07",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "86": {
+    "average": 75945,
+    "date": "2024-07-10",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "87": {
+    "average": 75945,
+    "date": "2024-07-13",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "88": {
+    "average": 75945,
+    "date": "2024-07-17",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "89": {
+    "average": 75945,
+    "date": "2024-07-18",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "90": {
+    "average": 75945,
+    "date": "2024-07-21",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "91": {
+    "average": 75945,
+    "date": "2024-07-24",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "92": {
+    "average": 75945,
+    "date": "2024-07-27",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "93": {
+    "average": 75945,
+    "date": "2024-08-01",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "94": {
+    "average": 75945,
+    "date": "2024-08-02",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "95": {
+    "average": 75945,
+    "date": "2024-08-07",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "96": {
+    "average": 75945,
+    "date": "2024-08-14",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "97": {
+    "average": 75945,
+    "date": "2024-08-15",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "98": {
+    "average": 75945,
+    "date": "2024-08-24",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "99": {
+    "average": 75945,
+    "date": "2024-08-31",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "100": {
+    "average": 75945,
+    "date": "2024-09-07",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "101": {
+    "average": 75945,
+    "date": "2024-09-14",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "102": {
+    "average": 75945,
+    "date": "2024-09-21",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "103": {
+    "average": 75945,
+    "date": "2024-09-22",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "104": {
+    "average": 75945,
+    "date": "2024-09-28",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "105": {
+    "average": 75945,
+    "date": "2024-10-05",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "106": {
+    "average": 75945,
+    "date": "2024-10-12",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "107": {
+    "average": 75945,
+    "date": "2024-10-19",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "108": {
+    "average": 75945,
+    "date": "2024-10-26",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "109": {
+    "average": 75945,
+    "date": "2024-11-01",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "110": {
+    "average": 75945,
+    "date": "2024-11-02",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "111": {
+    "average": 75945,
+    "date": "2024-11-14",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "112": {
+    "average": 75945,
+    "date": "2024-11-15",
+    "commonQuantity": 1,
+    "minimum": 99636,
+    "maximum": 109600
+  },
+  "113": {
+    "average": 123672,
+    "date": "2025-07-26",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "114": {
+    "average": 123672,
+    "date": "2025-07-31",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "115": {
+    "average": 123672,
+    "date": "2025-08-01",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "116": {
+    "average": 123672,
+    "date": "2025-08-02",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "117": {
+    "average": 123672,
+    "date": "2025-08-05",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "118": {
+    "average": 123672,
+    "date": "2025-08-08",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "119": {
+    "average": 123672,
+    "date": "2025-08-11",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "120": {
+    "average": 123672,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "121": {
+    "average": 123672,
+    "date": "2025-08-19",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "122": {
+    "average": 123672,
+    "date": "2025-08-26",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "123": {
+    "average": 123672,
+    "date": "2025-08-28",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "124": {
+    "average": 123672,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "125": {
+    "average": 123672,
+    "date": "2025-09-27",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "126": {
+    "average": 123672,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "127": {
+    "average": 123672,
+    "date": "2025-10-23",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  },
+  "128": {
+    "average": 123672,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 60000,
+    "maximum": 140800
+  }
+}

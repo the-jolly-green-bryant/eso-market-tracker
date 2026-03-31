@@ -1,0 +1,37 @@
+{
+  "0": {
+    "average": 990,
+    "date": "2023-08-13",
+    "commonQuantity": 200,
+    "minimum": 7,
+    "maximum": 110
+  },
+  "1": {
+    "average": 990,
+    "date": "2023-08-18",
+    "commonQuantity": 200,
+    "minimum": 7,
+    "maximum": 110
+  },
+  "2": {
+    "average": 990,
+    "date": "2023-08-22",
+    "commonQuantity": 200,
+    "minimum": 7,
+    "maximum": 66
+  },
+  "3": {
+    "average": 990,
+    "date": "2023-08-25",
+    "commonQuantity": 200,
+    "minimum": 3,
+    "maximum": 109
+  },
+  "4": {
+    "average": 990,
+    "date": "2023-09-06",
+    "commonQuantity": 200,
+    "minimum": 5,
+    "maximum": 990
+  }
+}

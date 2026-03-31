@@ -1,0 +1,219 @@
+{
+  "0": {
+    "average": 266,
+    "date": "2024-11-15",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 426
+  },
+  "1": {
+    "average": 258,
+    "date": "2025-07-29",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 471
+  },
+  "2": {
+    "average": 256,
+    "date": "2025-07-31",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 471
+  },
+  "3": {
+    "average": 253,
+    "date": "2025-08-01",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 471
+  },
+  "4": {
+    "average": 320,
+    "date": "2025-08-02",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 691
+  },
+  "5": {
+    "average": 353,
+    "date": "2025-08-05",
+    "commonQuantity": 1,
+    "minimum": 169,
+    "maximum": 691
+  },
+  "6": {
+    "average": 384,
+    "date": "2025-08-08",
+    "commonQuantity": 1,
+    "minimum": 169,
+    "maximum": 770
+  },
+  "7": {
+    "average": 379,
+    "date": "2025-08-09",
+    "commonQuantity": 1,
+    "minimum": 169,
+    "maximum": 770
+  },
+  "8": {
+    "average": 374,
+    "date": "2025-08-10",
+    "commonQuantity": 1,
+    "minimum": 169,
+    "maximum": 911
+  },
+  "9": {
+    "average": 354,
+    "date": "2025-08-11",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "10": {
+    "average": 330,
+    "date": "2025-08-12",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "11": {
+    "average": 311,
+    "date": "2025-08-14",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "12": {
+    "average": 308,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "13": {
+    "average": 307,
+    "date": "2025-08-19",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "14": {
+    "average": 304,
+    "date": "2025-08-21",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "15": {
+    "average": 274,
+    "date": "2025-08-23",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "16": {
+    "average": 315,
+    "date": "2025-08-26",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "17": {
+    "average": 323,
+    "date": "2025-08-28",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "18": {
+    "average": 336,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 100,
+    "maximum": 911
+  },
+  "19": {
+    "average": 319,
+    "date": "2025-08-31",
+    "commonQuantity": 1,
+    "minimum": 160,
+    "maximum": 801
+  },
+  "20": {
+    "average": 317,
+    "date": "2025-09-02",
+    "commonQuantity": 1,
+    "minimum": 160,
+    "maximum": 801
+  },
+  "21": {
+    "average": 317,
+    "date": "2025-09-04",
+    "commonQuantity": 1,
+    "minimum": 160,
+    "maximum": 801
+  },
+  "22": {
+    "average": 350,
+    "date": "2025-09-18",
+    "commonQuantity": 1,
+    "minimum": 160,
+    "maximum": 801
+  },
+  "23": {
+    "average": 302,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 160,
+    "maximum": 801
+  },
+  "24": {
+    "average": 293,
+    "date": "2025-09-27",
+    "commonQuantity": 1,
+    "minimum": 160,
+    "maximum": 801
+  },
+  "25": {
+    "average": 317,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 160,
+    "maximum": 801
+  },
+  "26": {
+    "average": 342,
+    "date": "2025-10-05",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 801
+  },
+  "27": {
+    "average": 359,
+    "date": "2025-10-15",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 581
+  },
+  "28": {
+    "average": 360,
+    "date": "2025-10-23",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 574
+  },
+  "29": {
+    "average": 440,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 1021
+  },
+  "30": {
+    "average": 430,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 1021
+  }
+}

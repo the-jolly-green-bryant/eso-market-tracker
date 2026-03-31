@@ -1,0 +1,37 @@
+{
+  "0": {
+    "average": 105,
+    "date": "2025-08-31",
+    "commonQuantity": 1,
+    "minimum": 31,
+    "maximum": 176
+  },
+  "1": {
+    "average": 105,
+    "date": "2025-09-18",
+    "commonQuantity": 1,
+    "minimum": 31,
+    "maximum": 176
+  },
+  "2": {
+    "average": 105,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 31,
+    "maximum": 176
+  },
+  "3": {
+    "average": 105,
+    "date": "2025-10-05",
+    "commonQuantity": 1,
+    "minimum": 31,
+    "maximum": 176
+  },
+  "4": {
+    "average": 105,
+    "date": "2025-10-23",
+    "commonQuantity": 1,
+    "minimum": 31,
+    "maximum": 176
+  }
+}

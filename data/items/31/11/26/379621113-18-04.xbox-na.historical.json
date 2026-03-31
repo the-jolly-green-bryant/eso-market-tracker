@@ -1,0 +1,107 @@
+{
+  "0": {
+    "average": 64900,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 59000,
+    "maximum": 64900
+  },
+  "1": {
+    "average": 64900,
+    "date": "2025-08-23",
+    "commonQuantity": 1,
+    "minimum": 59000,
+    "maximum": 64900
+  },
+  "2": {
+    "average": 64900,
+    "date": "2025-08-26",
+    "commonQuantity": 1,
+    "minimum": 49000,
+    "maximum": 64900
+  },
+  "3": {
+    "average": 54034,
+    "date": "2025-08-28",
+    "commonQuantity": 1,
+    "minimum": 49000,
+    "maximum": 64900
+  },
+  "4": {
+    "average": 53944,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 49000,
+    "maximum": 64900
+  },
+  "5": {
+    "average": 38912,
+    "date": "2025-09-02",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "6": {
+    "average": 38912,
+    "date": "2025-09-04",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "7": {
+    "average": 48044,
+    "date": "2025-09-18",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "8": {
+    "average": 48044,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "9": {
+    "average": 57824,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "10": {
+    "average": 46665,
+    "date": "2025-10-05",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "11": {
+    "average": 53819,
+    "date": "2025-10-15",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "12": {
+    "average": 57253,
+    "date": "2025-10-23",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "13": {
+    "average": 57253,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  },
+  "14": {
+    "average": 57253,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 10000,
+    "maximum": 110000
+  }
+}

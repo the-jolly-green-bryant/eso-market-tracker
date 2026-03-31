@@ -1,0 +1,114 @@
+{
+  "0": {
+    "average": 58,
+    "date": "2024-08-14",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "1": {
+    "average": 58,
+    "date": "2024-08-24",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "2": {
+    "average": 58,
+    "date": "2024-08-31",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "3": {
+    "average": 58,
+    "date": "2024-09-07",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "4": {
+    "average": 58,
+    "date": "2024-09-14",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "5": {
+    "average": 58,
+    "date": "2024-09-21",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "6": {
+    "average": 58,
+    "date": "2024-09-28",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "7": {
+    "average": 58,
+    "date": "2024-10-05",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "8": {
+    "average": 58,
+    "date": "2024-10-12",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "9": {
+    "average": 58,
+    "date": "2024-10-19",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "10": {
+    "average": 58,
+    "date": "2024-10-26",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "11": {
+    "average": 58,
+    "date": "2024-11-01",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "12": {
+    "average": 58,
+    "date": "2024-11-14",
+    "commonQuantity": 1,
+    "minimum": 53,
+    "maximum": 58
+  },
+  "13": {
+    "average": 1252,
+    "date": "2024-11-15",
+    "commonQuantity": 1,
+    "minimum": 1138,
+    "maximum": 1252
+  },
+  "14": {
+    "average": 207,
+    "date": "2026-02-16",
+    "commonQuantity": 2,
+    "minimum": 9,
+    "maximum": 1003
+  },
+  "15": {
+    "date": "2026-02-24",
+    "average": 207,
+    "minimum": 9,
+    "maximum": 1003,
+    "commonQuantity": 1
+  }
+}

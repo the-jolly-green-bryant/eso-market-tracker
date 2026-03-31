@@ -1,0 +1,121 @@
+{
+  "0": {
+    "average": 328,
+    "date": "2024-11-15",
+    "commonQuantity": 1,
+    "minimum": 241,
+    "maximum": 330
+  },
+  "1": {
+    "average": 381,
+    "date": "2025-07-29",
+    "commonQuantity": 1,
+    "minimum": 241,
+    "maximum": 397
+  },
+  "2": {
+    "average": 381,
+    "date": "2025-08-01",
+    "commonQuantity": 1,
+    "minimum": 241,
+    "maximum": 397
+  },
+  "3": {
+    "average": 381,
+    "date": "2025-08-02",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 397
+  },
+  "4": {
+    "average": 150,
+    "date": "2025-08-05",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 397
+  },
+  "5": {
+    "average": 379,
+    "date": "2025-08-08",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "6": {
+    "average": 379,
+    "date": "2025-08-09",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "7": {
+    "average": 379,
+    "date": "2025-08-12",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "8": {
+    "average": 379,
+    "date": "2025-08-14",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "9": {
+    "average": 379,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "10": {
+    "average": 379,
+    "date": "2025-08-21",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "11": {
+    "average": 379,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "12": {
+    "average": 379,
+    "date": "2025-09-02",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "13": {
+    "average": 379,
+    "date": "2025-09-04",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "14": {
+    "average": 379,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "15": {
+    "average": 379,
+    "date": "2025-10-15",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  },
+  "16": {
+    "average": 379,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 21,
+    "maximum": 573
+  }
+}

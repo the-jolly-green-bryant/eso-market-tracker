@@ -1,0 +1,107 @@
+{
+  "0": {
+    "average": 363,
+    "date": "2024-11-15",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 363
+  },
+  "1": {
+    "average": 36047,
+    "date": "2025-08-08",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "2": {
+    "average": 36091,
+    "date": "2025-08-11",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "3": {
+    "average": 36091,
+    "date": "2025-08-12",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "4": {
+    "average": 36091,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "5": {
+    "average": 35644,
+    "date": "2025-08-19",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "6": {
+    "average": 35644,
+    "date": "2025-08-23",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "7": {
+    "average": 35644,
+    "date": "2025-08-28",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "8": {
+    "average": 35644,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 36121
+  },
+  "9": {
+    "average": 39678,
+    "date": "2025-09-02",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 43777
+  },
+  "10": {
+    "average": 39678,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 43777
+  },
+  "11": {
+    "average": 33552,
+    "date": "2025-09-27",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 43777
+  },
+  "12": {
+    "average": 33552,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 43777
+  },
+  "13": {
+    "average": 33552,
+    "date": "2025-10-15",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 43777
+  },
+  "14": {
+    "average": 44216,
+    "date": "2025-11-02",
+    "commonQuantity": 1,
+    "minimum": 330,
+    "maximum": 52800
+  }
+}

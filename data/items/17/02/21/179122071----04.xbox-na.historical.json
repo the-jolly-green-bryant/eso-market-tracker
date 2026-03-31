@@ -1,0 +1,107 @@
+{
+  "0": {
+    "average": 38119,
+    "date": "2025-07-26",
+    "commonQuantity": 1,
+    "minimum": 34654,
+    "maximum": 38119
+  },
+  "1": {
+    "average": 43991,
+    "date": "2025-08-10",
+    "commonQuantity": 1,
+    "minimum": 34654,
+    "maximum": 44000
+  },
+  "2": {
+    "average": 43991,
+    "date": "2025-08-16",
+    "commonQuantity": 1,
+    "minimum": 34654,
+    "maximum": 44000
+  },
+  "3": {
+    "average": 43991,
+    "date": "2025-08-19",
+    "commonQuantity": 1,
+    "minimum": 34654,
+    "maximum": 44000
+  },
+  "4": {
+    "average": 32871,
+    "date": "2025-08-21",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "5": {
+    "average": 30708,
+    "date": "2025-08-23",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "6": {
+    "average": 30708,
+    "date": "2025-08-26",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "7": {
+    "average": 30708,
+    "date": "2025-08-30",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "8": {
+    "average": 30708,
+    "date": "2025-09-02",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "9": {
+    "average": 30708,
+    "date": "2025-09-18",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "10": {
+    "average": 30708,
+    "date": "2025-09-20",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "11": {
+    "average": 30708,
+    "date": "2025-10-02",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "12": {
+    "average": 30708,
+    "date": "2025-10-05",
+    "commonQuantity": 1,
+    "minimum": 25000,
+    "maximum": 44000
+  },
+  "13": {
+    "average": 24185,
+    "date": "2025-10-23",
+    "commonQuantity": 1,
+    "minimum": 20000,
+    "maximum": 44000
+  },
+  "14": {
+    "average": 24185,
+    "date": "2025-11-13",
+    "commonQuantity": 1,
+    "minimum": 20000,
+    "maximum": 44000
+  }
+}
