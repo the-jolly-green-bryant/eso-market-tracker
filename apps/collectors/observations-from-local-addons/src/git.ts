@@ -78,8 +78,20 @@ type Commit = {
  * @returns {Commit[]}
  */
 export const getHistoricalContentForRepo = (repoPath: string): Commit[] => {
-  throw new Error(`repoPath: ${repoPath}}`)
   repoPath || orThrow(new Error('Repo path was not provided!'))
+  const topLevel = execFileSync('git', ['rev-parse', '--show-toplevel'], {
+    cwd: repoPath,
+    encoding: 'utf8',
+  }).trim()
+
+  const gitDir = execFileSync('git', ['rev-parse', '--git-dir'], {
+    cwd: repoPath,
+    encoding: 'utf8',
+  }).trim()
+
+  console.log({ repoPath, topLevel, gitDir })
+  throw new Error()
+
   const commits = execFileSync('git', ['rev-list', '--all'], {
     cwd: repoPath,
     encoding: 'utf8',
