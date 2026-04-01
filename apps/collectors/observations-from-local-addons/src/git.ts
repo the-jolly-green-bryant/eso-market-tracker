@@ -81,6 +81,7 @@ export const getHistoricalContentForRepo = (repoPath: string): Commit[] => {
   const commits = execFileSync('git', ['rev-list', '--all'], {
     cwd: repoPath,
     encoding: 'utf8',
+    maxBuffer: 1024 * 1024 * 50,
   })
     .toString()
     .trim()
