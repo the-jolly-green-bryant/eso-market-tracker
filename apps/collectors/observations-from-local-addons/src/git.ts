@@ -1,5 +1,5 @@
 import { execFileSync } from 'node:child_process'
-import { orThrow } from '@eso-market-tracker/logging'
+import { logger, orThrow } from '@eso-market-tracker/logging'
 import { findItemByName, findItemByGameId } from '@eso-market-tracker/data'
 import { Item, ItemMeta, ItemObservation } from '@eso-market-tracker/eso'
 
@@ -100,11 +100,13 @@ export const getHistoricalContentForRepo = (repoPath: string): Commit[] => {
     .split('\n')
 
   return commits.map((hash) => {
+    logger.info(`hash: ${hash}`)
     const results = execFileSync(
       'git',
       ['ls-tree', '-r', '--name-only', hash],
       {
         cwd: repoPath,
+        env: gitEnv(),
         encoding: 'utf8',
         maxBuffer: 1000 * 1024 * 1024,
       }
@@ -121,6 +123,7 @@ export const getHistoricalContentForRepo = (repoPath: string): Commit[] => {
             ['show', `${hash}:${repoPath.split('/').slice(-1)}/${filePath}`],
             {
               cwd: repoPath,
+              env: gitEnv(),
               encoding: 'utf8',
               maxBuffer: 10 * 1024 * 1024,
             }
