@@ -9,9 +9,7 @@
 - observations to database
 - rename logging to common
 
-## Tuesday
+## Next Up
 
-- Condense historical observations to current stats in the items directory
-  - This will require us making sure build database only grabs item json and not
-   the extra stuff 
-- TSCv2 Download
+- Current sales data to database and updated when built (not historical)
+- TSCv2 Download & Parsing
