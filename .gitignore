@@ -15,3 +15,5 @@ tsconfig.tsbuildinfo
 
 /data/observations/*
 !/data/observations/.gitkeep
+/data/artifacts/*
+!/data/artifacts/.gitkeep
