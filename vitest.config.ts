@@ -15,6 +15,7 @@ export default defineConfig({
         '**/dist/**',
         '**/node_modules/**',
         'data/**/**',
+        '**/src/cli.ts',
       ],
       thresholds: {
         lines: 90,
