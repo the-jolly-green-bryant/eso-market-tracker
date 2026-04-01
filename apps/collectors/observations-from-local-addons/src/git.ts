@@ -78,6 +78,7 @@ type Commit = {
  * @returns {Commit[]}
  */
 export const getHistoricalContentForRepo = (repoPath: string): Commit[] => {
+  throw new Error(`repoPath: ${repoPath}}`)
   repoPath || orThrow(new Error('Repo path was not provided!'))
   const commits = execFileSync('git', ['rev-list', '--all'], {
     cwd: repoPath,
