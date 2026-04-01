@@ -1,6 +1,6 @@
 {
   "name": "eso-market-tracker",
-  "version": "2026.03.31+80725dbd8d",
+  "version": "2026.04.01+0b9a9f9771",
   "description": "An open source pricing database for Elder Scrolls Online and the spiritual successor to ESO Market Tracker.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,8 +8,8 @@
   "scripts": {
     "build": "pnpm run inject-version && pnpm run test && pnpm -r build",
     "clean": "pnpm -r clean",
-    "test": "pnpm -r test",
-    "coverage": "pnpm exec vitest run --coverage",
+    "test": "pnpm vitest run",
+    "coverage": "pnpm vitest run --coverage",
     "inject-version": "node scripts/inject-version.js",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
