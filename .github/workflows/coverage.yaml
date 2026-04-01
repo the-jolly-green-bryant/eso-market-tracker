@@ -33,6 +33,7 @@ jobs:
         run: pnpm run coverage
         env:
           UESP_COOKIE: ${{ secrets.UESP_COOKIE }}
+          CI: 'true'
 
       - name: Extract total line coverage
         run: |
