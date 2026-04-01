@@ -71,6 +71,16 @@ type Commit = {
   files: { path: string; content: string }[]
 }
 
+const gitEnv = () => {
+  const env = { ...process.env }
+  delete env.GIT_DIR
+  delete env.GIT_WORK_TREE
+  delete env.GIT_INDEX_FILE
+  delete env.GIT_PREFIX
+  delete env.GIT_COMMON_DIR
+  return env
+}
+
 /**
  * Returns full history of text files for a local repo.
  *
@@ -81,6 +91,7 @@ export const getHistoricalContentForRepo = (repoPath: string): Commit[] => {
   repoPath || orThrow(new Error('Repo path was not provided!'))
   const commits = execFileSync('git', ['rev-list', '--all'], {
     cwd: repoPath,
+    env: gitEnv(),
     encoding: 'utf8',
     maxBuffer: 1000 * 1024 * 1024,
   })

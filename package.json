@@ -1,6 +1,6 @@
 {
   "name": "eso-market-tracker",
-  "version": "2026.04.01+36c929efc3",
+  "version": "2026.04.01+d9830e0cdc",
   "description": "An open source pricing database for Elder Scrolls Online and the spiritual successor to ESO Market Tracker.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
