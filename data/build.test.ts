@@ -1,7 +1,9 @@
-import { describe, it } from 'vitest'
+import { describe, it, expect } from 'vitest'
 import { flattenDatabase, insertItems } from './build'
 import { Item } from '@eso-market-tracker/eso'
 import { getIdFromName } from '@eso-market-tracker/logging'
+import { lookupIdInUESP } from './index'
+import fs from 'fs'
 
 const MISSING_ITEMS = [
   'cloudy damage health poison',
@@ -142,8 +144,14 @@ const MISSING_ITEMS = [
 )
 
 describe('build', () => {
+  it.skipIf(process.env.SKIP_SLOW_TESTS)('can find traits', async () => {
+    const [_item, traitName] = await lookupIdInUESP(179608)
+    expect(traitName).toEqual('protective')
+  })
+
   it.skipIf(process.env.SKIP_SLOW_TESTS)('can insert', async () => {
-    insertItems(MISSING_ITEMS)
-    flattenDatabase(MISSING_ITEMS.map((i) => i.id))
+    await insertItems(MISSING_ITEMS)
+    await flattenDatabase(MISSING_ITEMS.map((i) => i.id))
+    expect(fs.existsSync('./index/traits.json')).toBe(true)
   })
 })

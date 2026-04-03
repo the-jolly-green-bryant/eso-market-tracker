@@ -1,0 +1,33 @@
+{
+  "name": "@eso-market-tracker/observatiosn-from-tsc2",
+  "version": "0.0.1",
+  "description": "Imports snapshot sales data from the current TSC addon.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "pnpm run test && tsc -p tsconfig.json",
+    "clean": "rm -rf dist",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1",
+    "eslint-plugin-sonarjs": "^4.0.2",
+    "p-limit": "^7.3.0",
+    "playwright": "^1.58.2",
+    "sonarjs": "^1.0.0"
+  },
+  "dependencies": {
+    "@eso-market-tracker/data": "workspace:*",
+    "@eso-market-tracker/database": "workspace:*",
+    "@eso-market-tracker/eso": "workspace:*",
+    "@eso-market-tracker/logging": "workspace:*",
+    "wasmoon": "^1.16.0"
+  }
+}

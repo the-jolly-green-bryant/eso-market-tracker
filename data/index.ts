@@ -1,10 +1,15 @@
-import { Item, ItemMeta } from '@eso-market-tracker/eso'
+import { Item, ItemMeta, TRAITS, NO_KNOWN_TRAIT } from '@eso-market-tracker/eso'
 
 export * from './build'
 import { db } from './build'
-import { getIdFromName, orThrow } from '@eso-market-tracker/logging'
+import { getIdFromName, logger, orThrow } from '@eso-market-tracker/logging'
 import * as database from '@eso-market-tracker/database'
 import * as cheerio from 'cheerio'
+import * as raw from './index/traits.json'
+export const TRAIT_INDEX = raw as unknown as Record<
+  number,
+  [number, number | null]
+>
 
 export const findItemByName = (name: string) => {
   const normalized = getIdFromName(name)
@@ -19,7 +24,9 @@ export const findItemByName = (name: string) => {
   return stmt.get(normalized) as unknown as ItemMeta | null
 }
 
-export const findItemByGameId = async (id: number) => {
+export const findItemByGameId = async (
+  id: number
+): Promise<ItemMeta | null> => {
   const stmt = db().prepare(`
     SELECT items.*
     FROM items
@@ -29,13 +36,14 @@ export const findItemByGameId = async (id: number) => {
     LIMIT 1
   `)
 
-  const local = stmt.get(id)
+  const local = stmt.get(id) as unknown as ItemMeta | null
 
   if (local) {
     return local
   }
 
-  return await lookupIdInUESP(id)
+  const [item, _] = await lookupIdInUESP(id)
+  return item
 }
 
 export const _queryUESP = async (
@@ -49,6 +57,7 @@ export const _queryUESP = async (
     process.env.UESP_COOKIE ||
     orThrow(new Error('No UESP_COOKIE env defined'))
 
+  logger.info(`Endpoint: ${endpoint}`)
   const res = await fetch(endpoint, {
     method: 'GET',
     headers: {
@@ -70,31 +79,44 @@ export const _queryUESP = async (
   return await res.text()
 }
 
-const lookupIdInUESP = async (id: number) => {
+export const lookupIdInUESP = async (
+  id: number
+): Promise<[ItemMeta, string | null]> => {
   const r = await _queryUESP(
     `https://esolog.uesp.net/itemSearch.php?version=&text=${id}&level=&quality=&trait=&itemtype=&equiptype=&weapontype=&armortype=&enchant=&effect=&style=`
   )
 
   const $ = cheerio.load(r)
   const itemName = $(`a[itemid="${id}"]`).text().trim()
-  const item = findItemByName(itemName)
+  const item =
+    findItemByName(itemName) ||
+    orThrow(new Error(`Couldn't find item with id ${id}`))
+
+  const el = $(`a[itemid="${id}"]`).nextAll('.esois_itemdata').first()
+  const description = $(el).text()
+  const traitRegEx = new RegExp(`, (${TRAITS.join('|')}),`)
+  const trait = description.toLowerCase().match(traitRegEx)?.[1] ?? null
 
   // Update our item so we don't need to do this lookup again.
-  if (item) {
-    // TODO - We could move this to the item class as a function.
-    const targetPath = database.naming.getItemPath(Item.from(item))
-    const oldData = (await database.db.readFromFile(
-      targetPath
-    )) as ItemMeta | null
-    await database.db.writeToFile(
-      {
-        ...oldData,
-        knownIds: oldData!.knownIds.concat([id]),
-      },
-      targetPath
+  // TODO - We could move this to the item class as a function.
+  const targetPath = database.naming.getItemPath(Item.from(item))
+  const oldData = (await database.db.readFromFile(
+    targetPath
+  )) as ItemMeta | null
+
+  if (!oldData) {
+    throw new Error(
+      `Didn't find old data when there should be! ${JSON.stringify(item)} at ${targetPath}`
     )
-    console.log('thing')
   }
 
-  return item
+  await database.db.writeToFile(
+    {
+      ...oldData,
+      knownIds: oldData!.knownIds.concat([id]),
+    },
+    targetPath
+  )
+  console.log('thing')
+  return [item, trait]
 }

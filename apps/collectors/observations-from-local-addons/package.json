@@ -1,7 +1,7 @@
 {
-  "name": "@eso-market-tracker/observatiosn-from-emt",
+  "name": "@eso-market-tracker/observatiosn-from-local-addons",
   "version": "0.0.1",
-  "description": "Imports historical sales data from esomarkettracker.com.",
+  "description": "Imports sales data from old TSC addons.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "ISC",
