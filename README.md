@@ -34,6 +34,7 @@ ESO Market Tracker is a **monorepo** containing multiple coordinated packages:
 | &nbsp;&nbsp;&nbsp;&nbsp;`observations-from-emt` | Pulls all item pricing data from legacy EMT. (One-time)                                    |
 | &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-local-addons` | Pulls all pricing data from legacy addons. (One-time)                                      |
 | &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-tsc-web-app` | Pulls pricing data from the legacy TSC web app. (One-time)                                 |
+| &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-tsc2` | Pulls pricing data from the current TSC2 addon. (Recurring, Idempotent)|
 | `data`                                          | Manages generating of database artifacts such as SQLite in addition to containing raw data |
 
 The architecture intentionally keeps the **canonical dataset as flat files** rather than

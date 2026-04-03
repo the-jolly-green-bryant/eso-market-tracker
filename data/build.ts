@@ -1,11 +1,18 @@
 import fs from 'fs'
 import * as fsPromises from 'fs/promises'
-import { Item, ItemMeta, ItemObservation } from '@eso-market-tracker/eso'
+import {
+  getTraitIdFromString,
+  Item,
+  ItemMeta,
+  ItemObservation,
+  NO_KNOWN_TRAIT,
+} from '@eso-market-tracker/eso'
 import { fileURLToPath } from 'url'
 import path from 'path'
 import { db as emtDatabase, naming } from '@eso-market-tracker/database'
 import { DatabaseSync } from 'node:sqlite'
 import { logger } from '@eso-market-tracker/logging'
+import { lookupIdInUESP, TRAIT_INDEX } from './index'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -37,6 +44,7 @@ const createSchema = async () => {
     CREATE TABLE IF NOT EXISTS item_known_ids (
       knownId INTEGER NOT NULL,
       internalId INTEGER NOT NULL,
+      traitId INTEGER,
       PRIMARY KEY (knownId),
       FOREIGN KEY (internalId) REFERENCES items(internalId) ON DELETE CASCADE
     );
@@ -46,18 +54,49 @@ const createSchema = async () => {
   `)
 }
 
-export const insertKnownId = (knownId: number, internalId: number) => {
+export const insertKnownId = async (
+  knownId: number,
+  internalId: number
+): Promise<void> => {
+  let traitId: number | null =
+    (TRAIT_INDEX as unknown as Record<number, [number, number]>)[knownId]?.at(
+      1
+    ) ??
+    (
+      db()
+        .prepare(
+          `
+      SELECT traitId
+      FROM item_known_ids
+      WHERE knownId = ?
+    `
+        )
+        .get(knownId) as { traitId: number | null } | undefined
+    )?.traitId ??
+    null
+
+  // Only query UESP if we do not already know the trait.
+  if (traitId == null) {
+    const [_item, traitName] = await lookupIdInUESP(knownId)
+    traitId = traitName ? getTraitIdFromString(traitName) : NO_KNOWN_TRAIT
+  }
+
+  logger.info(
+    `knownId=${knownId}, internalId=${internalId}, traitId=${traitId}`
+  )
+
   const stmt = db().prepare(`
-    INSERT INTO item_known_ids (knownId, internalId)
-    VALUES (?, ?)
+    INSERT INTO item_known_ids (knownId, internalId, traitId)
+    VALUES (?, ?, ?)
     ON CONFLICT(knownId) DO UPDATE SET
-      internalId = excluded.internalId
+        internalId = excluded.internalId,
+        traitId = COALESCE(item_known_ids.traitId, excluded.traitId)
   `)
 
-  stmt.run(knownId, internalId)
+  stmt.run(knownId, internalId, traitId)
 }
 
-export const insertItems = (items: Item[]) => {
+export const insertItems = async (items: Item[]) => {
   if (!items.length) return
   const client = db()
   const stmt = client.prepare(`
@@ -84,13 +123,17 @@ export const insertItems = (items: Item[]) => {
       knownIds = excluded.knownIds
   `)
 
-  client.exec('BEGIN')
   try {
-    items.forEach((i) => {
+    for (const i of items) {
+      client.exec('BEGIN')
+      logger.info(`Inserting ${JSON.stringify(i.meta)}`)
       stmt.run({ ...i.meta, knownIds: JSON.stringify(i.meta.knownIds) })
-      i.meta.knownIds.forEach((k) => insertKnownId(k, i.meta.internalId))
-    })
-    client.exec('COMMIT')
+      for (const k of i.meta.knownIds) {
+        await insertKnownId(k, i.meta.internalId)
+      }
+
+      client.exec('COMMIT')
+    }
   } catch (e) {
     logger.error(e)
     client.exec('ROLLBACK')
@@ -225,7 +268,7 @@ export const buildDatabase = async () => {
     })
   )
 
-  insertItems(items)
+  await insertItems(items)
   // TODO - Update pricing information in database
 }
 
@@ -289,4 +332,19 @@ export const flattenDatabase = async (ids?: number[]) => {
       preservedKeys: ['variantOf'],
     })
   }
+
+  const indexPath = 'data/index/traits.json'
+  const index = ((await emtDatabase.readFromFile(indexPath)) ?? {}) as Record<
+    number,
+    (number | null)[]
+  >
+  const traitStatement = db().prepare(`SELECT * FROM item_known_ids`)
+  for (const row of traitStatement.iterate()) {
+    index[row.knownId as number] = [
+      row.internalId as number,
+      row.traitId as number | null,
+    ]
+  }
+
+  await emtDatabase.writeToFile(index, indexPath)
 }

@@ -2,6 +2,7 @@ import { fileURLToPath } from 'url'
 import path from 'path'
 import fs from 'fs/promises'
 import pLimit from 'p-limit'
+import { logger } from '@eso-market-tracker/logging'
 
 export const throttleFileWrites = pLimit(32)
 
@@ -11,7 +12,11 @@ const __dirname = path.dirname(__filename)
 export const writeToFile = async (
   o: Record<
     string | number,
-    string | number | number[] | null | Record<string, string | number | null>
+    | string
+    | number
+    | (number | null)[]
+    | null
+    | Record<string, string | number | null>
   >,
   targetPath: string,
   options?: { preservedKeys: string[] }
@@ -41,6 +46,7 @@ export const readFromFile = async (
 ): Promise<Record<string, string | number | number[] | null> | null> => {
   targetPath = targetPath.endsWith('.json') ? targetPath : `${targetPath}.json`
   const localPath = `${__dirname}/../../../${targetPath}`
+  logger.info(`Reading from local path ${localPath}`)
   try {
     const raw = await fs.readFile(localPath, 'utf8')
     return JSON.parse(raw)

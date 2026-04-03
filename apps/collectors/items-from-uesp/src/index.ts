@@ -53,7 +53,7 @@ const processResultingItems = async (results: Item[]) => {
   await Promise.all(
     results.map(async (item) =>
       limit(async () => {
-        insertItems([item])
+        await insertItems([item])
         if (!item.meta.icon) return
         logger.info(`Saving image ${item.meta.icon}`)
         item.meta.icon = await images.getOrDownloadImage(item.meta.icon)

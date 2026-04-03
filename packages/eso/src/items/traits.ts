@@ -1,6 +1,6 @@
 import { internalToName } from '../legacy/naming'
 
-const traitIndex: Record<string, number> = {
+export const traitIndex: Record<string, number> = {
   powered: 1,
   charged: 2,
   precise: 3,
@@ -36,6 +36,8 @@ const traitIndex: Record<string, number> = {
   bolstered: 41,
   vigorous: 42,
 }
+
+export const TRAITS = Object.keys(traitIndex)
 
 const traitLookup = [
   null,
@@ -102,7 +104,8 @@ const traitLookup = [
   'vigorous', // 60,
 ]
 
-export const getTraitIdFromString = (trait: string) => traitIndex[trait]
+export const getTraitIdFromString = (trait: string) =>
+  traitIndex[trait.toLowerCase()]
 export const getTraitStringFromId = (id: number) => traitLookup.at(id)
 export const sanitizeTraitId = (id: number) =>
   getTraitIdFromString(`${getTraitStringFromId(id)}`)

@@ -1,7 +1,7 @@
 {
-  "name": "@eso-market-tracker/observatiosn-from-local-addons",
+  "name": "@eso-market-tracker/observatiosn-from-tsc2",
   "version": "0.0.1",
-  "description": "Imports sales data from old TSC addons.",
+  "description": "Imports snapshot sales data from the current TSC addon.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "ISC",
@@ -27,6 +27,7 @@
     "@eso-market-tracker/data": "workspace:*",
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
-    "@eso-market-tracker/logging": "workspace:*"
+    "@eso-market-tracker/logging": "workspace:*",
+    "wasmoon": "^1.16.0"
   }
 }
