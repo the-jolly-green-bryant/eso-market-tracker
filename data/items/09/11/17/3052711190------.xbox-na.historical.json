@@ -98,6 +98,13 @@
     "maximum": 92
   },
   "14": {
+    "average": 929,
+    "date": "2026-02-16",
+    "commonQuantity": 1,
+    "minimum": 284,
+    "maximum": 2500
+  },
+  "15": {
     "date": "2026-02-24",
     "average": 929,
     "minimum": 727,

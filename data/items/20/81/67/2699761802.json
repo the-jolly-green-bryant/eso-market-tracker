@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_metals_argentum.png",
   "bindType": -1,
   "knownIds": [
+    46150,
     46150
   ]
 }

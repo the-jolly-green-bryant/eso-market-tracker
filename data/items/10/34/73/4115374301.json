@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_statuseffect.png",
   "bindType": -1,
   "knownIds": [
+    204577,
     204577
   ]
 }

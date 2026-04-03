@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_chest_d.png",
   "bindType": 2,
   "knownIds": [
+    10980,
     10980
   ]
 }

@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_pollen.png",
   "bindType": -1,
   "knownIds": [
+    26999,
     26999
   ]
 }

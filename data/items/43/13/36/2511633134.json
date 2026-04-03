@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_waist_d.png",
   "bindType": 2,
   "knownIds": [
+    29990,
     29990
   ]
 }

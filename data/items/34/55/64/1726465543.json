@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ingot_voidstone.png",
   "bindType": -1,
   "knownIds": [
+    46130,
     46130
   ]
 }

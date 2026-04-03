@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_taunt.png",
   "bindType": -1,
   "knownIds": [
+    204560,
     204560
   ]
 }

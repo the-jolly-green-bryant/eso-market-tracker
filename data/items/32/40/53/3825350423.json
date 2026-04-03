@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_weapon_component_004.png",
   "bindType": -1,
   "knownIds": [
+    802,
     802
   ]
 }

@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_dagger_d.png",
   "bindType": 2,
   "knownIds": [
+    150389,
     150389
   ]
 }

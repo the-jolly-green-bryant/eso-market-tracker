@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/item_collectible_runebound_tome.png",
   "bindType": -1,
   "knownIds": [
+    212199,
     212199
   ]
 }

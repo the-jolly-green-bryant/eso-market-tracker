@@ -7,6 +7,13 @@
     "maximum": 115
   },
   "1": {
+    "average": 433,
+    "date": "2026-02-16",
+    "commonQuantity": 1,
+    "minimum": 400,
+    "maximum": 500
+  },
+  "2": {
     "date": "2026-02-24",
     "average": 433,
     "minimum": 400,

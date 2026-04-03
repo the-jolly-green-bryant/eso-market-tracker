@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stardew.png",
   "bindType": -1,
   "knownIds": [
+    64500,
     64500
   ]
 }

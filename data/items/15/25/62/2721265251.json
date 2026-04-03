@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_factotumarm_001.png",
   "bindType": 3,
   "knownIds": [
+    129901,
     129901
   ]
 }

@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_staffdestro.png",
   "bindType": 3,
   "knownIds": [
+    204488,
     204488
   ]
 }

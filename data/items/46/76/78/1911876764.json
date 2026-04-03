@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_assault.png",
   "bindType": 3,
   "knownIds": [
+    204495,
     204495
   ]
 }

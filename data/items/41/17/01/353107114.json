@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_chest_a.png",
   "bindType": 2,
   "knownIds": [
+    150411,
     150411
   ]
 }

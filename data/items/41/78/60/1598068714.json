@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_dwemer_automata_gear_001.png",
   "bindType": -1,
   "knownIds": [
+    127105,
     127105
   ]
 }

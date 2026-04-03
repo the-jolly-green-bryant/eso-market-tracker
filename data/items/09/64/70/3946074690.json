@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/zonebag.png",
   "bindType": 3,
   "knownIds": [
+    203575,
     203575
   ]
 }

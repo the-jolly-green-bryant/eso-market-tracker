@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_dualwield.png",
   "bindType": 3,
   "knownIds": [
+    204490,
     204490
   ]
 }

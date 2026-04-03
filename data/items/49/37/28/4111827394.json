@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_researchscrolls_allprofessions.png",
   "bindType": 3,
   "knownIds": [
+    135124,
     135124
   ]
 }

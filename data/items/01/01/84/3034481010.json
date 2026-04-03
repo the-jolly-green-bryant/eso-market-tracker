@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_legs_d.png",
   "bindType": 2,
   "knownIds": [
+    10976,
     10976
   ]
 }

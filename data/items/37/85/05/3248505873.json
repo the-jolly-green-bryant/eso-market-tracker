@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_seacucumber.png",
   "bindType": -1,
   "knownIds": [
+    100395,
     100395
   ]
 }

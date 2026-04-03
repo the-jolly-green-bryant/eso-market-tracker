@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_healthboost.png",
   "bindType": -1,
   "knownIds": [
+    135129,
     135129
   ]
 }

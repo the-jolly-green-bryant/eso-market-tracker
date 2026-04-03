@@ -5,6 +5,7 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_logo.png",
   "bindType": 2,
   "knownIds": [
+    1078,
     1078
   ]
 }
