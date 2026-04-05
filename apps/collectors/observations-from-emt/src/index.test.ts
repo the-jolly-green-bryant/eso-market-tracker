@@ -13,7 +13,7 @@ describe('ObservationsFromEmt', () => {
       sampleHistory,
     ])
     await processPageOfData(0, { skipRecursion: true })
-    expect(spy).toHaveBeenCalledTimes(3)
+    expect(spy).toHaveBeenCalledTimes(6)
 
     const [msg] = spy.mock.calls[0]
     expect(msg).toMatch(/with offset/)

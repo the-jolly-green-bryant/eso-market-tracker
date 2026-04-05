@@ -145,8 +145,8 @@ const MISSING_ITEMS = [
 
 describe('build', () => {
   it.skipIf(process.env.SKIP_SLOW_TESTS)('can find traits', async () => {
-    const [_item, traitName] = await lookupIdInUESP(179608)
-    expect(traitName).toEqual('protective')
+    const [_item, traitName] = await lookupIdInUESP(871293)
+    expect(traitName).toEqual('defending')
   })
 
   it.skipIf(process.env.SKIP_SLOW_TESTS)('can insert', async () => {

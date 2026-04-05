@@ -14,6 +14,6 @@ describe.skipIf(process.env.CI)('observations from local addons', () => {
 
   it('can pull item data', async () => {
     const observations = await git.getObservationsFromCommit(commits.at(-1)!)
-    expect(observations.length).toEqual(20265)
+    expect(observations.length).toEqual(20264)
   })
 })

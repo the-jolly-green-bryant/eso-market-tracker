@@ -7,6 +7,10 @@ import { insertItems } from '@eso-market-tracker/data'
 import { Item } from '@eso-market-tracker/eso'
 import * as self from './index'
 
+type CrawlerOptions = {
+  maxWrites?: number
+}
+
 const getMinedEndpoint = (page: number | null) => {
   page = page ?? 0
   return `https://esolog.uesp.net/viewlog.php?start=${page * 1000}&record=minedItemSummary`
@@ -48,23 +52,30 @@ export const getHtmlFromEndpoint = async (
   return await res.text()
 }
 
-const processResultingItems = async (results: Item[]) => {
-  const limit = pLimit(10)
+const processResultingItems = async (
+  results: [Item, [number, number, number | null]][],
+  options?: CrawlerOptions
+) => {
+  const limit = pLimit(1)
   await Promise.all(
-    results.map(async (item) =>
-      limit(async () => {
-        await insertItems([item])
-        if (!item.meta.icon) return
-        logger.info(`Saving image ${item.meta.icon}`)
-        item.meta.icon = await images.getOrDownloadImage(item.meta.icon)
-      })
-    )
+    results
+      .slice(0, options?.maxWrites ?? results.length)
+      .map((i) => i[0])
+      .map(async (item) =>
+        limit(async () => {
+          await insertItems([item], { skipInsertingTraits: true })
+          if (!item.meta.icon) return
+          logger.info(`Saving image ${item.meta.icon}`)
+          item.meta.icon = await images.getOrDownloadImage(item.meta.icon)
+        })
+      )
   )
 }
 
 export const processNextPageOfMinedResults = async (
   lastMinedResults?: MinedResults,
-  skipRecursion?: boolean
+  skipRecursion?: boolean,
+  options?: CrawlerOptions
 ): Promise<MinedResults> => {
   ;(lastMinedResults && lastMinedResults.next) ||
     !lastMinedResults ||
@@ -72,7 +83,7 @@ export const processNextPageOfMinedResults = async (
   const next = lastMinedResults ? lastMinedResults.next! : getMinedEndpoint(0)
   const html = await self.getHtmlFromEndpoint(next)
   const results = MinedResults.from(html)
-  await processResultingItems(results.items)
+  await processResultingItems(results.items, options)
   console.log('results', results)
 
   return !results || !results.next || skipRecursion
@@ -82,7 +93,8 @@ export const processNextPageOfMinedResults = async (
 
 export const processNextPageOfLootedResults = async (
   lastLootedResults?: LootedResults,
-  skipRecursion?: boolean
+  skipRecursion?: boolean,
+  options?: CrawlerOptions
 ): Promise<LootedResults> => {
   ;(lastLootedResults && lastLootedResults.next) ||
     !lastLootedResults ||
@@ -92,7 +104,7 @@ export const processNextPageOfLootedResults = async (
     : getLootedEndpoint(0)
   const html = await self.getHtmlFromEndpoint(next)
   const results = LootedResults.from(html)
-  await processResultingItems(results.items)
+  await processResultingItems(results.items, options)
   console.log('results', results)
 
   return !results || !results.next || skipRecursion

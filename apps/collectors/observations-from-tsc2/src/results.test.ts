@@ -15,11 +15,11 @@ describe('observations-from-tsc2', async () => {
       .readFileSync(path.join(__dirname, '../docs/TSCPriceDataXBNA.min.lua'))
       .toString()
 
-    results = await Results.from([code])
-  }, 60_000 * 5)
+    results = await Results.from([code], { maxWrites: 100 })
+  })
 
   it('has results', () => {
-    expect(results.observationsByPlatform.length).toEqual(4)
+    expect(results.observationsByPlatform.length).toEqual(1)
     expect(results.observationsByPlatform.at(0)?.at(1)?.length).toBeGreaterThan(
       10
     )

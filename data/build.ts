@@ -13,6 +13,7 @@ import { db as emtDatabase, naming } from '@eso-market-tracker/database'
 import { DatabaseSync } from 'node:sqlite'
 import { logger } from '@eso-market-tracker/logging'
 import { lookupIdInUESP, TRAIT_INDEX } from './index'
+import pLimit from 'p-limit'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -58,6 +59,10 @@ export const insertKnownId = async (
   knownId: number,
   internalId: number
 ): Promise<void> => {
+  if ([82016, 157522].includes(knownId)) {
+    return
+  }
+
   let traitId: number | null =
     (TRAIT_INDEX as unknown as Record<number, [number, number]>)[knownId]?.at(
       1
@@ -96,7 +101,10 @@ export const insertKnownId = async (
   stmt.run(knownId, internalId, traitId)
 }
 
-export const insertItems = async (items: Item[]) => {
+export const insertItems = async (
+  items: Item[],
+  options?: { skipInsertingTraits?: boolean }
+) => {
   if (!items.length) return
   const client = db()
   const stmt = client.prepare(`
@@ -123,21 +131,33 @@ export const insertItems = async (items: Item[]) => {
       knownIds = excluded.knownIds
   `)
 
-  try {
-    for (const i of items) {
-      client.exec('BEGIN')
-      logger.info(`Inserting ${JSON.stringify(i.meta)}`)
-      stmt.run({ ...i.meta, knownIds: JSON.stringify(i.meta.knownIds) })
-      for (const k of i.meta.knownIds) {
-        await insertKnownId(k, i.meta.internalId)
-      }
+  const BATCH_SIZE = 50
+  const limit = pLimit(10)
+  for (let i = 0; i < items.length; i += BATCH_SIZE) {
+    client.exec('BEGIN')
+    const batch = items.slice(i, i + BATCH_SIZE)
+    await Promise.all(
+      batch.map((item) =>
+        limit(async () => {
+          stmt.run({
+            ...item.meta,
+            knownIds: JSON.stringify(item.meta.knownIds),
+          })
 
-      client.exec('COMMIT')
-    }
-  } catch (e) {
-    logger.error(e)
-    client.exec('ROLLBACK')
-    throw e
+          if (options?.skipInsertingTraits) {
+            return
+          }
+
+          const uniqueKnownIds = [...new Set(item.meta.knownIds)]
+          for (const k of uniqueKnownIds) {
+            await insertKnownId(k, item.meta.internalId)
+          }
+        })
+      )
+    )
+
+    // 👇 this is your "after batch"
+    client.exec('COMMIT')
   }
 }
 
@@ -315,7 +335,7 @@ const getItemsFromDirectory = async (directory: string): Promise<Item[]> => {
     )
   )
 
-  return items.flat()
+  return items.flat().sort((a, b) => b.id - a.id)
 }
 
 export const flattenDatabase = async (ids?: number[]) => {
