@@ -38,6 +38,16 @@ const parseRawData = (rawData: TSCAppData) => ({
 
 const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
   const data = parseRawData(rawData)
+  const match = rawData.NestedDataSets.find(
+    (i) => i.Name === 'Updates'
+  )!.DataSet.match(/\b(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})\b/)!
+
+  const [month, day, yearRaw] = match.slice(1)
+
+  const year = yearRaw.length === 2 ? `20${yearRaw}` : yearRaw
+
+  const date = `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`
+
   return data.NestedDataSets.at(0)
     ?.data!.data.filter(
       (row: string[11]) =>
@@ -51,14 +61,7 @@ const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
         ),
         stats: {
           average: parseInt(row[3]),
-          date: rawData.NestedDataSets.filter((i) => i.Name == 'Updates')
-            .at(0)!
-            .DataSet.match(/\b(\d{1,2})\/(\d{1,2})\/(\d{4})\b/)!
-            .slice(1)
-            .reduce(
-              (_, __, ___, arr) =>
-                `${arr[2]}-${arr[0].padStart(2, '0')}-${arr[1].padStart(2, '0')}`
-            )!,
+          date,
           commonQuantity: parseInt(row[7]),
           minimum: parseInt(row[4].replace(/(.*) - .*/, '$1')),
           maximum: parseInt(row[4].replace(/.* - (.*)/, '$1')),
