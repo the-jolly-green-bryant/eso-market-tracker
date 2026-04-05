@@ -736,16 +736,30 @@
   },
   "105": {
     "average": 321,
-    "date": "2026-02-16",
+    "date": "2025-12-06",
     "commonQuantity": 1,
     "minimum": 59,
     "maximum": 884
   },
   "106": {
+    "average": 321,
+    "date": "2026-02-16",
+    "commonQuantity": 1,
+    "minimum": 59,
+    "maximum": 884
+  },
+  "107": {
     "date": "2026-02-24",
     "average": 321,
     "minimum": 59,
     "maximum": 884,
     "commonQuantity": 1
+  },
+  "108": {
+    "average": 321,
+    "date": "2026-03-29",
+    "commonQuantity": 1,
+    "minimum": 59,
+    "maximum": 884
   }
 }

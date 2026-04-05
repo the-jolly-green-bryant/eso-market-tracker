@@ -3869,5 +3869,12 @@
     "minimum": 17300,
     "maximum": 18300,
     "commonQuantity": 1
+  },
+  "553": {
+    "average": 17700,
+    "date": "2026-03-29",
+    "commonQuantity": 1,
+    "minimum": 17300,
+    "maximum": 18300
   }
 }

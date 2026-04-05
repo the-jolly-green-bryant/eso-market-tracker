@@ -12,5 +12,12 @@
     "minimum": 1999,
     "maximum": 1999,
     "commonQuantity": 1
+  },
+  "2": {
+    "average": 1999,
+    "date": "2026-03-29",
+    "commonQuantity": 1,
+    "minimum": 1999,
+    "maximum": 1999
   }
 }

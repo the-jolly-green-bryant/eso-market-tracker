@@ -4562,5 +4562,12 @@
     "minimum": 5963,
     "maximum": 11000,
     "commonQuantity": 1
+  },
+  "652": {
+    "average": 9498,
+    "date": "2026-03-29",
+    "commonQuantity": 1,
+    "minimum": 7000,
+    "maximum": 10527
   }
 }

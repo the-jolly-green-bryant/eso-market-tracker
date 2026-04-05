@@ -3582,5 +3582,12 @@
     "minimum": 150,
     "maximum": 600,
     "commonQuantity": 1
+  },
+  "512": {
+    "average": 360,
+    "date": "2026-03-29",
+    "commonQuantity": 1,
+    "minimum": 150,
+    "maximum": 600
   }
 }

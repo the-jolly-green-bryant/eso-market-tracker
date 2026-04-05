@@ -89,5 +89,12 @@
     "minimum": 15,
     "maximum": 15,
     "commonQuantity": 1
+  },
+  "13": {
+    "average": 15,
+    "date": "2026-03-29",
+    "commonQuantity": 9,
+    "minimum": 15,
+    "maximum": 15
   }
 }

@@ -1170,16 +1170,30 @@
   },
   "167": {
     "average": 1763,
-    "date": "2026-02-16",
+    "date": "2025-12-06",
     "commonQuantity": 1,
     "minimum": 91,
     "maximum": 5434
   },
   "168": {
+    "average": 1763,
+    "date": "2026-02-16",
+    "commonQuantity": 1,
+    "minimum": 91,
+    "maximum": 5434
+  },
+  "169": {
     "date": "2026-02-24",
     "average": 1763,
     "minimum": 91,
     "maximum": 5434,
     "commonQuantity": 1
+  },
+  "170": {
+    "average": 1763,
+    "date": "2026-03-29",
+    "commonQuantity": 1,
+    "minimum": 91,
+    "maximum": 5434
   }
 }
