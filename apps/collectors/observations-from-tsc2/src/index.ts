@@ -45,23 +45,25 @@ export const getAddonData = async () => {
   })
 }
 
-export const collectObservations = async () => {
+export const collectObservations = async (options?: { maxWrites?: number }) => {
   const rawData = await self.getAddonData()
-  const r = await Results.from(rawData)
+  const r = await Results.from(rawData, options)
   await Promise.all(
     r.observationsByPlatform.map(([platform, observations]) =>
-      observations.map((i) => {
-        db.throttleFileWrites(async () => {
-          logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
-          const targetPath = naming.getObservationPath(
-            i.item,
-            i.stats.date,
-            platform
-          )
-          logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
-          await db.writeToFile(i.stats, targetPath)
+      observations
+        .slice(0, options?.maxWrites ?? observations.length)
+        .map((i) => {
+          db.throttleFileWrites(async () => {
+            logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
+            const targetPath = naming.getObservationPath(
+              i.item,
+              i.stats.date,
+              platform
+            )
+            logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
+            await db.writeToFile(i.stats, targetPath)
+          })
         })
-      })
     )
   )
 }

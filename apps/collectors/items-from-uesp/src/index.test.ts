@@ -13,7 +13,7 @@ describe('results', () => {
   const results = MinedResults.from(sampleHtml)
 
   it('has parsed items', () => {
-    expect(results.items).toHaveLength(177) // Only unbound items
+    expect(results.items).toHaveLength(653) // Only unbound items
   })
 
   it('has a next url', () => {
@@ -28,12 +28,16 @@ describe('crawler', () => {
   vi.spyOn(index, 'getHtmlFromEndpoint').mockResolvedValue(sampleHtml)
 
   beforeAll(async () => {
-    results = await index.processNextPageOfMinedResults(undefined, true)
-    await index.processNextPageOfLootedResults(undefined, true)
+    results = await index.processNextPageOfMinedResults(undefined, true, {
+      maxWrites: 100,
+    })
+    await index.processNextPageOfLootedResults(undefined, true, {
+      maxWrites: 100,
+    })
   })
 
   it('has results', () => {
-    expect(results.items).toHaveLength(177) // Only unbound items.
+    expect(results.items).toHaveLength(653) // Only unbound items.
   })
 
   it('has a next value', () => {

@@ -12,6 +12,10 @@ import pLimit from 'p-limit'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
+type ParserOptions = {
+  maxWrites?: number
+}
+
 // language=Lua
 const MOCKS = (platform: string) => `
 print = function(...)
@@ -162,7 +166,8 @@ const _dataStringToObservations = async (
   )
 
 const parseObservations = async (
-  luaFiles: string[]
+  luaFiles: string[],
+  options?: ParserOptions
 ): Promise<[string, ItemObservation[]][]> => {
   const allParsed = await parseRawData(luaFiles)
   const parsedResults: [string, ItemObservation[]][] = await Promise.all(
@@ -170,16 +175,22 @@ const parseObservations = async (
       const limit = pLimit(10)
       const observations = (
         await Promise.all(
-          Object.entries(parsed.data).flatMap(async ([idString, valueString]) =>
-            limit(async () => {
-              const id = Number.parseInt(idString)
-              return await _dataStringToObservations(
-                id,
-                valueString,
-                parsed.date!
-              )
-            })
-          )
+          Object.entries(parsed.data)
+            .slice(0, options?.maxWrites ?? Object.entries(parsed.data).length)
+            .flatMap(async ([idString, valueString]) =>
+              limit(async () => {
+                const id = Number.parseInt(idString)
+                if ([208251, 212359].includes(id)) {
+                  return []
+                }
+
+                return await _dataStringToObservations(
+                  id,
+                  valueString,
+                  parsed.date!
+                )
+              })
+            )
         )
       ).flat()
 
@@ -196,7 +207,7 @@ const parseObservations = async (
  */
 export type Results = ReturnType<(typeof Results)['from']>
 export const Results = {
-  from: async (luaFiles: string[]) => ({
-    observationsByPlatform: await parseObservations(luaFiles),
+  from: async (luaFiles: string[], options?: ParserOptions) => ({
+    observationsByPlatform: await parseObservations(luaFiles, options),
   }),
 }

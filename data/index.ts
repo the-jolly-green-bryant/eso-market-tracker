@@ -83,18 +83,21 @@ export const lookupIdInUESP = async (
   id: number
 ): Promise<[ItemMeta, string | null]> => {
   const r = await _queryUESP(
-    `https://esolog.uesp.net/itemSearch.php?version=&text=${id}&level=&quality=&trait=&itemtype=&equiptype=&weapontype=&armortype=&enchant=&effect=&style=`
+    `https://esolog.uesp.net/viewlog.php?action=view&record=item&id=${id}`
   )
 
+  if (r.includes('Failed to retrieve record from database')) {
+    return [null!, null]
+  }
+
   const $ = cheerio.load(r)
-  const itemName = $(`a[itemid="${id}"]`).text().trim()
+  const itemName = $('th:contains("name")').next('td').text().trim()
   const item =
     findItemByName(itemName) ||
     orThrow(new Error(`Couldn't find item with id ${id}`))
 
-  const el = $(`a[itemid="${id}"]`).nextAll('.esois_itemdata').first()
-  const description = $(el).text()
-  const traitRegEx = new RegExp(`, (${TRAITS.join('|')}),`)
+  const description = $('th:contains("trait")').next('td').text().trim()
+  const traitRegEx = new RegExp(` (${TRAITS.join('|')})$`)
   const trait = description.toLowerCase().match(traitRegEx)?.[1] ?? null
 
   // Update our item so we don't need to do this lookup again.

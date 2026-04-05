@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio'
 import { CheerioAPI } from 'cheerio'
-import { Item } from '@eso-market-tracker/eso'
+import { getTraitIdFromString, Item, TRAITS } from '@eso-market-tracker/eso'
 import { Element } from 'domhandler'
 import { attempt, getIdFromName, orThrow } from '@eso-market-tracker/logging'
 
@@ -27,68 +27,70 @@ export const _getIconFromRow = ($: CheerioAPI, el: Element, n: number) => {
   return (imageUrl!.startsWith('//') ? 'https:' : '') + imageUrl
 }
 
-const _getMinedItemsFromHtml = (html: string): Item[] => {
-  const $ = cheerio.load(html)
-  const rows = $('table#esologtable > tbody > tr')
-    .toArray()
-    .flatMap((el) => {
-      const name = _getNthStringFromRow($, el, 3, { textIsOptional: true })
-      return Item.from({
-        internalId: getIdFromName(name),
-        bindType: parseInt(_getNthStringFromRow($, el, 31)),
-        name,
-        description: _getNthStringFromRow($, el, 5, { textIsOptional: true }),
-        icon: _getIconFromRow($, el, 4),
-        knownIds: [parseInt(_getNthStringFromRow($, el, 2))],
-      })
-    })
-    // Filter out bind-on-pickup items.
-    .filter((i) => ![1, 4].includes(i.meta.bindType) && i.meta.name)
-
-  const merged = new Map<number, Item>()
-  rows.forEach((item) => {
-    const existing =
-      merged.get(item.meta.internalId) ||
-      merged.set(item.meta.internalId, item).get(item.meta.internalId)!
-
-    existing.meta.knownIds = Array.from(
-      new Set([...existing.meta.knownIds, ...item.meta.knownIds])
-    )
-  })
-
-  return Array.from(merged.values())
+const _traitFromRow = ($: CheerioAPI, el: Element) => {
+  const traitCell = $(el).find(`> td:nth-of-type(9)`).text().trim()
+  const traitMatch = traitCell
+    .toLowerCase()
+    .match(new RegExp(`(${TRAITS.join('|')})`))
+  return traitMatch ? getTraitIdFromString(traitMatch.at(1)!) : null
 }
 
-const _getLootedItemsFromHtml = (html: string): Item[] => {
+const _getMinedItemsFromHtml = (
+  html: string
+): [Item, [number, number, number | null]][] => {
   const $ = cheerio.load(html)
   const rows = $('table#esologtable > tbody > tr')
     .toArray()
-    .flatMap((el) => {
+    .map((el): [Item, [number, number, number | null]] => {
       const name = _getNthStringFromRow($, el, 3, { textIsOptional: true })
-      return Item.from({
-        internalId: getIdFromName(name),
-        bindType: -1,
-        name,
-        description: '',
-        icon: attempt(() => _getIconFromRow($, el, 12), null),
-        knownIds: [parseInt(_getNthStringFromRow($, el, 2))],
-      })
+      const internalId = getIdFromName(name)
+      const traitId = _traitFromRow($, el)
+      const gameId = parseInt(_getNthStringFromRow($, el, 2))
+      return [
+        Item.from({
+          internalId: internalId,
+          bindType: parseInt(_getNthStringFromRow($, el, 31)),
+          name,
+          description: _getNthStringFromRow($, el, 5, { textIsOptional: true }),
+          icon: _getIconFromRow($, el, 4),
+          knownIds: [gameId],
+        }),
+        [gameId, internalId, traitId],
+      ]
     })
     // Filter out bind-on-pickup items.
-    .filter((i) => ![1, 4].includes(i.meta.bindType) && i.meta.name)
+    .filter((i) => ![1, 4].includes(i[0].meta.bindType) && i[0].meta.name)
 
-  const merged = new Map<number, Item>()
-  rows.forEach((item) => {
-    const existing =
-      merged.get(item.meta.internalId) ||
-      merged.set(item.meta.internalId, item).get(item.meta.internalId)!
+  return rows
+}
 
-    existing.meta.knownIds = Array.from(
-      new Set([...existing.meta.knownIds, ...item.meta.knownIds])
-    )
-  })
+const _getLootedItemsFromHtml = (
+  html: string
+): [Item, [number, number, number | null]][] => {
+  const $ = cheerio.load(html)
+  const rows = $('table#esologtable > tbody > tr')
+    .toArray()
+    .map((el): [Item, [number, number, number | null]] => {
+      const name = _getNthStringFromRow($, el, 3, { textIsOptional: true })
+      const internalId = getIdFromName(name)
+      const traitId = _traitFromRow($, el)
+      const gameId = parseInt(_getNthStringFromRow($, el, 2))
+      return [
+        Item.from({
+          internalId,
+          bindType: -1,
+          name,
+          description: '',
+          icon: attempt(() => _getIconFromRow($, el, 12), null),
+          knownIds: [gameId],
+        }),
+        [gameId, internalId, traitId],
+      ]
+    })
+    // Filter out bind-on-pickup items.
+    .filter((i) => ![1, 4].includes(i[0].meta.bindType) && i[0].meta.name)
 
-  return Array.from(merged.values())
+  return rows
 }
 
 const _getNextEndpointFromHtml = (html: string): string | null => {
