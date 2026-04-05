@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
   "bindType": 2,
   "knownIds": [
-    85081,
-    85102,
-    85123,
-    85144,
-    85165,
-    85186,
-    85207,
     85228
   ]
 }

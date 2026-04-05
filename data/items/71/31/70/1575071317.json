@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
   "bindType": 2,
   "knownIds": [
-    210377,
-    210398,
-    210419,
-    210440,
-    210461,
-    210482,
-    210503,
     210524
   ]
 }

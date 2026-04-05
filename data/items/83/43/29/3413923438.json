@@ -5,7 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_5_r2.png",
   "bindType": -1,
   "knownIds": [
-    153489,
-    141911
+    153489
   ]
 }

@@ -5,7 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
   "bindType": -1,
   "knownIds": [
-    61036,
-    28513
+    61036
   ]
 }

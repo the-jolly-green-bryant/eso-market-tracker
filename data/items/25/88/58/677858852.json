@@ -2,12 +2,9 @@
   "internalId": 677858852,
   "name": "Homespun Robe",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_lgt_robe_a.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_robe_a.png",
   "bindType": 2,
   "knownIds": [
-    178751,
-    178774,
-    178751,
     178774
   ]
 }

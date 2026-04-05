@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
   "bindType": 2,
   "knownIds": [
-    139721,
-    139811,
-    139901,
-    139991,
-    140081,
     140171
   ]
 }

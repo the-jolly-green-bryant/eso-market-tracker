@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hsword_b.png",
   "bindType": 2,
   "knownIds": [
-    102260,
-    102280,
-    102300,
-    102320,
-    102340,
-    102360,
-    102380,
     102400
   ]
 }

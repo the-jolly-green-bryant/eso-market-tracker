@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_dagger_c.png",
   "bindType": 2,
   "knownIds": [
-    96595,
-    96615,
-    96635,
-    96655,
-    96675,
-    96695,
-    96715,
     96735
   ]
 }

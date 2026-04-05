@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_medium_head_a.png",
   "bindType": 2,
   "knownIds": [
-    123001,
-    123021,
-    123041,
-    123061,
-    123081,
-    123101,
-    123121,
     123141
   ]
 }

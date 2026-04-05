@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
   "bindType": 2,
   "knownIds": [
-    88722,
-    88742,
-    88762,
-    88782,
-    88802,
-    88822,
-    88842,
     88862
   ]
 }

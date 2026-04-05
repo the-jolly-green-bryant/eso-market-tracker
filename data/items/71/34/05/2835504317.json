@@ -5,15 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
   "bindType": 2,
   "knownIds": [
-    172460,
-    172515,
-    172550,
-    172585,
-    172620,
-    172655,
-    172690,
-    172725,
-    172760,
     172795
   ]
 }

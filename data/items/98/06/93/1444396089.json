@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_axe_a.png",
   "bindType": 2,
   "knownIds": [
-    149060,
-    149080,
-    149100,
-    149120,
-    149140,
-    149160,
-    149180,
     149200
   ]
 }

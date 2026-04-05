@@ -2,11 +2,9 @@
   "internalId": 3974757851,
   "name": "Worm Cult Sconce, Jaw",
   "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_sconce002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
   "bindType": -1,
   "knownIds": [
-    219729,
-    220300,
-    219729
+    220300
   ]
 }

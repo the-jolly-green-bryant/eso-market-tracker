@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_1hsword_a.png",
   "bindType": 2,
   "knownIds": [
-    102075,
-    102095,
-    102115,
-    102135,
-    102155,
-    102175,
-    102195,
     102215
   ]
 }

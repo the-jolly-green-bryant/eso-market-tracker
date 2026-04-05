@@ -5,15 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
   "bindType": 2,
   "knownIds": [
-    136080,
-    136115,
-    136150,
-    136185,
-    136220,
-    136255,
-    136290,
-    136325,
-    136360,
     136395
   ]
 }

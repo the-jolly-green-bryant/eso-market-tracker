@@ -61,5 +61,12 @@
     "commonQuantity": 1,
     "minimum": 2023,
     "maximum": 4425
+  },
+  "9": {
+    "average": 2000,
+    "date": "2025-12-06",
+    "commonQuantity": 1,
+    "minimum": 2000,
+    "maximum": 2000
   }
 }

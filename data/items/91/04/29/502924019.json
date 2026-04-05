@@ -2,22 +2,9 @@
   "internalId": 502924019,
   "name": "Iron Cuirass",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_heavy_chest_a.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ysgramor_chest_a.png",
   "bindType": 2,
   "knownIds": [
-    212229,
-    212258,
-    212267,
-    212273,
-    212280,
-    212288,
-    212295,
-    212301,
-    212309,
-    212316,
-    212323,
-    212330,
-    212337,
     212345
   ]
 }

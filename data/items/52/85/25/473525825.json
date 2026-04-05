@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
   "bindType": 2,
   "knownIds": [
-    100401,
-    100422,
-    100443,
-    100464,
-    100485,
-    100506,
-    100527,
     100548
   ]
 }

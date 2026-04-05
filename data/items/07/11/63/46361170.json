@@ -2,12 +2,9 @@
   "internalId": 46361170,
   "name": "Yerba Zinger Tonic",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
   "bindType": -1,
   "knownIds": [
-    34053,
-    37844,
-    34053,
     37844
   ]
 }

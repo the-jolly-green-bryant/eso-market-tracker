@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_waist_d.png",
   "bindType": 2,
   "knownIds": [
-    85290,
-    85310,
-    85330,
-    85350,
-    85370,
     85410
   ]
 }

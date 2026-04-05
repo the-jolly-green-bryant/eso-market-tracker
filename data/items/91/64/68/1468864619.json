@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hhammer_d.png",
   "bindType": 2,
   "knownIds": [
-    101330,
-    101351,
-    101372,
-    101393,
-    101414,
-    101435,
-    101456,
     101477
   ]
 }

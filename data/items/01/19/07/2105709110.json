@@ -2,12 +2,9 @@
   "internalId": 2105709110,
   "name": "Green Scourgut Tea",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
   "bindType": -1,
   "knownIds": [
-    33666,
-    37933,
-    33666,
     37933
   ]
 }

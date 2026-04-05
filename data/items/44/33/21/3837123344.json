@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poultry.png",
   "bindType": -1,
   "knownIds": [
-    30447,
-    28362,
-    30447,
-    28362
+    30447
   ]
 }

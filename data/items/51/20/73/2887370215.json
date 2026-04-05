@@ -2,12 +2,9 @@
   "internalId": 2887370215,
   "name": "Stale Cheese Pork Schnitzel",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_003.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
   "bindType": -1,
   "knownIds": [
-    32095,
-    37804,
-    32095,
     37804
   ]
 }

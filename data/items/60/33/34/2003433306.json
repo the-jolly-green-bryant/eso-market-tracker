@@ -5,7 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_pot_pie.png",
   "bindType": -1,
   "knownIds": [
-    32083,
-    28374
+    32083
   ]
 }

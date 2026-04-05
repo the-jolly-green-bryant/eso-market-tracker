@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_chest_d.png",
   "bindType": 2,
   "knownIds": [
-    80410,
-    80430,
-    80450,
-    80470,
-    80502,
-    80522,
     80542
   ]
 }

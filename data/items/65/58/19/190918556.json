@@ -2,10 +2,9 @@
   "internalId": 190918556,
   "name": "Spiceberry Chai",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_006.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
   "bindType": -1,
   "knownIds": [
-    33684,
     37951
   ]
 }

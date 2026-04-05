@@ -2,18 +2,9 @@
   "internalId": 1863904448,
   "name": "Iron Greaves",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_heavy_legs_a.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_legionzero_legs_a.png",
   "bindType": 2,
   "knownIds": [
-    212228,
-    212257,
-    212279,
-    212287,
-    212308,
-    212315,
-    212322,
-    212329,
-    212336,
     212344
   ]
 }

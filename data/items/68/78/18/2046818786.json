@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hhammer_d.png",
   "bindType": 2,
   "knownIds": [
-    99468,
-    99488,
-    99508,
-    99528,
-    99548,
-    99568,
-    99588,
     99608
   ]
 }

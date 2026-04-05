@@ -1,13 +1,10 @@
 {
   "internalId": 3291429396,
   "name": "Imperial Charity Writ",
-  "description": "A request for supplies made using the blacksmithing skill for refugees of the Three Banners War. Once accepted, this contract cannot be traded or sold. Each Imperial Charity Writ completed will provide a reward, for use or trade.",
+  "description": "A request for supplies made using the clothier skill for refugees of the Three Banners War. Once accepted, this contract cannot be traded or sold. Each Imperial Charity Writ completed will provide a reward, for use or trade.",
   "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ-newlife.png",
   "bindType": -1,
   "knownIds": [
-    167169,
-    167170,
-    167171,
     167172
   ]
 }

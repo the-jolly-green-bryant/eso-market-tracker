@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    213920,
-    213940,
-    213960,
-    213980,
-    214000,
-    214020,
-    214040,
     214060
   ]
 }

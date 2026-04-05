@@ -194,5 +194,12 @@
     "commonQuantity": 1,
     "minimum": 2000,
     "maximum": 2200
+  },
+  "28": {
+    "average": 1937,
+    "date": "2025-12-06",
+    "commonQuantity": 1,
+    "minimum": 183,
+    "maximum": 10183
   }
 }

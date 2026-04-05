@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
   "bindType": 2,
   "knownIds": [
-    85835,
-    85855,
-    85875,
-    85895,
-    85915,
-    85935,
     85955
   ]
 }

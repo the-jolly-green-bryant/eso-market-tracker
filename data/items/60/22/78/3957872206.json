@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2haxe_d.png",
   "bindType": 2,
   "knownIds": [
-    99470,
-    99490,
-    99510,
-    99530,
-    99550,
-    99570,
-    99590,
     99610
   ]
 }

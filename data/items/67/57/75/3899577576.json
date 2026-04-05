@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
   "bindType": 2,
   "knownIds": [
-    98150,
-    98170,
-    98190,
-    98210,
-    98230,
-    98250,
-    98270,
     98290
   ]
 }

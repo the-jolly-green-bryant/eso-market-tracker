@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_legs_d.png",
   "bindType": 2,
   "knownIds": [
-    100606,
-    100626,
-    100646,
-    100666,
-    100686,
-    100706,
-    100726,
     100746
   ]
 }

@@ -2,10 +2,9 @@
   "internalId": 3934387557,
   "name": "Curried Kwama Scrib Risotto",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_001.png",
   "bindType": -1,
   "knownIds": [
-    57111,
     57628
   ]
 }

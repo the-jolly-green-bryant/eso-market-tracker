@@ -2,12 +2,9 @@
   "internalId": 1438099730,
   "name": "Kelp Kaveh",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_wine_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
   "bindType": -1,
   "knownIds": [
-    33714,
-    37934,
-    33714,
     37934
   ]
 }

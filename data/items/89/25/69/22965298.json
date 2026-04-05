@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_heavy_chest_a.png",
   "bindType": 2,
   "knownIds": [
-    122625,
-    122645,
-    122665,
-    122685,
-    122705,
-    122725,
-    122745,
     122765
   ]
 }

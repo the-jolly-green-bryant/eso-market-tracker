@@ -2,10 +2,9 @@
   "internalId": 447623227,
   "name": "Ginseng Sling",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
   "bindType": -1,
   "knownIds": [
-    33726,
     37946
   ]
 }

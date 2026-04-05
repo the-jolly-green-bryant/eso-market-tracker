@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_head_d.png",
   "bindType": 2,
   "knownIds": [
-    99182,
-    99202,
-    99222,
-    99182,
-    99202,
     99222
   ]
 }

@@ -2,12 +2,9 @@
   "internalId": 4026242325,
   "name": "Treacleberry Tea",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_003.png",
   "bindType": -1,
   "knownIds": [
-    33672,
-    37939,
-    33672,
     37939
   ]
 }

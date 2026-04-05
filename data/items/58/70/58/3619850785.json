@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_heavy_head_a.png",
   "bindType": 2,
   "knownIds": [
-    135180,
-    135200,
-    135220,
-    135240,
-    135260,
-    135280,
-    135300,
     135320
   ]
 }

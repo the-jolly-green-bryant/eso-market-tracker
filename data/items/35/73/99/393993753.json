@@ -2,12 +2,9 @@
   "internalId": 393993753,
   "name": "Soul-Shriven Shirt",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_chest_a.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_chest_b.png",
   "bindType": -1,
   "knownIds": [
-    35029,
-    35034,
-    35029,
     35034
   ]
 }

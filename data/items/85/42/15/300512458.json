@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_staff_a.png",
   "bindType": 2,
   "knownIds": [
-    86201,
-    86222,
-    86243,
-    86264,
-    86285,
-    86306,
-    86327,
     86348
   ]
 }

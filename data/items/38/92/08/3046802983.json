@@ -2,24 +2,9 @@
   "internalId": 3046802983,
   "name": "Sword of the Twin Sisters",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
   "bindType": 2,
   "knownIds": [
-    92269,
-    92289,
-    92309,
-    92329,
-    92349,
-    92369,
-    92389,
-    92409,
-    92269,
-    92289,
-    92309,
-    92329,
-    92349,
-    92369,
-    92389,
     92409
   ]
 }

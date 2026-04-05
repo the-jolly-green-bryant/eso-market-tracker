@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
   "bindType": 2,
   "knownIds": [
-    98511,
-    98531,
-    98551,
-    98571,
-    98591,
-    98611,
-    98631,
     98651
   ]
 }

@@ -2,10 +2,9 @@
   "internalId": 465010249,
   "name": "Seaberry Tonic",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
   "bindType": -1,
   "knownIds": [
-    33738,
     37958
   ]
 }

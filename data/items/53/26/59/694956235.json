@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_hands_d.png",
   "bindType": 2,
   "knownIds": [
-    99482,
-    99502,
-    99522,
-    99542,
-    99562,
-    99582,
-    99602,
     99622
   ]
 }

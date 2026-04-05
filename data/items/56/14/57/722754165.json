@@ -5,14 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_sword_a.png",
   "bindType": 2,
   "knownIds": [
-    161010,
-    161030,
-    161050,
-    161070,
-    161090,
-    161110,
-    161130,
-    161150,
     161170
   ]
 }

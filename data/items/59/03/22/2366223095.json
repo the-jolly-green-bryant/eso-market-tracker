@@ -5,7 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_stockade001.png",
   "bindType": -1,
   "knownIds": [
-    120853,
-    118340
+    120853
   ]
 }

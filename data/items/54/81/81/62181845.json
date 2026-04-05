@@ -5,10 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_bow_a.png",
   "bindType": 2,
   "knownIds": [
-    75130,
-    75150,
-    75170,
-    75190,
     75210
   ]
 }

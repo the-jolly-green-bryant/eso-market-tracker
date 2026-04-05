@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
   "bindType": 2,
   "knownIds": [
-    99850,
-    99870,
-    99890,
-    99910,
-    99930,
-    99950,
-    99970,
     99990
   ]
 }

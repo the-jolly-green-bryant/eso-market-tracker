@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    85280,
-    85300,
-    85320,
-    85340,
-    85360,
-    85380,
     85400
   ]
 }

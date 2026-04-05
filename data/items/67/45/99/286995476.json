@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_heavy_legs_a.png",
   "bindType": 2,
   "knownIds": [
-    135181,
-    135201,
-    135221,
-    135241,
-    135261,
-    135281,
-    135301,
     135321
   ]
 }

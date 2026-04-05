@@ -2,12 +2,9 @@
   "internalId": 431216912,
   "name": "Melon-Chevre Salad",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_003.png",
   "bindType": -1,
   "knownIds": [
-    32156,
-    33927,
-    32156,
     33927
   ]
 }

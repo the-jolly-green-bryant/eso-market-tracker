@@ -5,8 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
   "bindType": 2,
   "knownIds": [
-    99172,
-    99192,
     99212
   ]
 }

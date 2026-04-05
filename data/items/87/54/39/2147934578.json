@@ -2,10 +2,9 @@
   "internalId": 2147934578,
   "name": "Worm Cult Lamp, Jaw",
   "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_lamp004.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
   "bindType": -1,
   "knownIds": [
-    219732,
     220297
   ]
 }

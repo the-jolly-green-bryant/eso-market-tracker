@@ -2,24 +2,9 @@
   "internalId": 1449491674,
   "name": "Greatsword of the Twin Sisters",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
   "bindType": 2,
   "knownIds": [
-    92272,
-    92292,
-    92312,
-    92332,
-    92352,
-    92372,
-    92392,
-    92412,
-    92272,
-    92292,
-    92312,
-    92332,
-    92352,
-    92372,
-    92392,
     92412
   ]
 }

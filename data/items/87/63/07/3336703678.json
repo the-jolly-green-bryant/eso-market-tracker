@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_legs_a.png",
   "bindType": 2,
   "knownIds": [
-    123185,
-    123205,
-    123225,
-    123245,
-    123265,
-    123285,
-    123305,
     123325
   ]
 }

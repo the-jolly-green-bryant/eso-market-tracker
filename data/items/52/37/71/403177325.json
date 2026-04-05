@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    85464,
-    85484,
-    85504,
-    85524,
-    85544,
-    85564,
-    85584,
     85604
   ]
 }

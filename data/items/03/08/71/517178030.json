@@ -2,12 +2,9 @@
   "internalId": 517178030,
   "name": "Sload Slime",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_002.png",
   "bindType": -1,
   "knownIds": [
-    57186,
-    57652,
-    57186,
     57652
   ]
 }

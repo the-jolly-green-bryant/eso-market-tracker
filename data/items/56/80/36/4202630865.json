@@ -1,11 +1,10 @@
 {
   "internalId": 4202630865,
   "name": "Master Woodworking Writ",
-  "description": "An exclusive, secret contract for a wooden weapon of rare quality.",
+  "description": "An exclusive, secret contract for a shield of rare quality.",
   "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_woodworking.png",
   "bindType": -1,
   "knownIds": [
-    121530,
     121531
   ]
 }

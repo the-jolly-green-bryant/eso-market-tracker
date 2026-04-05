@@ -2,10 +2,9 @@
   "internalId": 3505804209,
   "name": "Crystal Clarity",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_001.png",
   "bindType": -1,
   "knownIds": [
-    34071,
     37862
   ]
 }

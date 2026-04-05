@@ -2,11 +2,9 @@
   "internalId": 1799882242,
   "name": "Worm Cult Papers, Scattered",
   "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_necromancerpagepile002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
   "bindType": -1,
   "knownIds": [
-    219727,
-    220318,
-    219727
+    220318
   ]
 }

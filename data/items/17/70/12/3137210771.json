@@ -2,24 +2,9 @@
   "internalId": 3137210771,
   "name": "Jack of the Twin Sisters",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_chest_d.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
   "bindType": 2,
   "knownIds": [
-    92280,
-    92300,
-    92320,
-    92340,
-    92360,
-    92380,
-    92400,
-    92420,
-    92280,
-    92300,
-    92320,
-    92340,
-    92360,
-    92380,
-    92400,
     92420
   ]
 }

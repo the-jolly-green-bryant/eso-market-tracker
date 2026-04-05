@@ -2,12 +2,9 @@
   "internalId": 3346581240,
   "name": "Athlete's Guzzle",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_002.png",
   "bindType": -1,
   "knownIds": [
-    32159,
-    34059,
-    32159,
     34059
   ]
 }

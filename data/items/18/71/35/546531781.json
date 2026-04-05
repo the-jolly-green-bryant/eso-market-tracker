@@ -2,12 +2,9 @@
   "internalId": 546531781,
   "name": "Torval Mint Tea",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
   "bindType": -1,
   "knownIds": [
-    34017,
-    37855,
-    34017,
     37855
   ]
 }

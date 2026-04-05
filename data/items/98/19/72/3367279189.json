@@ -2,10 +2,9 @@
   "internalId": 3367279189,
   "name": "Yew Shield",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecallerbg_shield_a.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_shield_c.png",
   "bindType": 2,
   "knownIds": [
-    212260,
     212262
   ]
 }

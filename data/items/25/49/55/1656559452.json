@@ -2,12 +2,9 @@
   "internalId": 1656559452,
   "name": "Carpet of the Desert Flame, Faded",
   "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn006.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsquareworn002.png",
   "bindType": -1,
   "knownIds": [
-    118162,
-    118167,
-    118162,
     118167
   ]
 }

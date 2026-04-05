@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2haxe_d.png",
   "bindType": 2,
   "knownIds": [
-    80863,
-    80883,
-    80903,
-    80923,
-    80943,
-    80955,
-    80975,
     80995
   ]
 }

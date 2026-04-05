@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_dagger_a.png",
   "bindType": 2,
   "knownIds": [
-    95651,
-    95671,
-    95691,
-    95711,
-    95731,
-    95751,
-    95771,
     95791
   ]
 }

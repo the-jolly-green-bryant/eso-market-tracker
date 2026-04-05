@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
   "bindType": 2,
   "knownIds": [
-    210378,
-    210399,
-    210420,
-    210441,
-    210462,
-    210483,
-    210504,
     210525
   ]
 }

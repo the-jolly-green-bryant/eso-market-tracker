@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
   "bindType": 2,
   "knownIds": [
-    139680,
-    139770,
-    139860,
-    139950,
-    140040,
     140130
   ]
 }

@@ -2,11 +2,9 @@
   "internalId": 3984510389,
   "name": "Stir-Fried Garlic Beef",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
   "bindType": -1,
   "knownIds": [
-    33849,
-    37792,
     37840
   ]
 }

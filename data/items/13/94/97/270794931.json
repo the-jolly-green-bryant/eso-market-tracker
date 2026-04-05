@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_hands_d.png",
   "bindType": 2,
   "knownIds": [
-    99181,
-    99201,
-    99221,
-    99181,
-    99201,
     99221
   ]
 }

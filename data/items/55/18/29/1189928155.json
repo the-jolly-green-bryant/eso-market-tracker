@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_hands_d.png",
   "bindType": 2,
   "knownIds": [
-    99300,
-    99320,
-    99340,
-    99360,
-    99380,
-    99400,
-    99420,
     99440
   ]
 }

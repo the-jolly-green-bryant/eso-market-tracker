@@ -2,12 +2,9 @@
   "internalId": 1195251340,
   "name": "Redoran Peppered Melon",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fruit_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_004.png",
   "bindType": -1,
   "knownIds": [
-    32108,
-    33552,
-    32108,
     33552
   ]
 }

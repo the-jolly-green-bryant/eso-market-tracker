@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_legs_a.png",
   "bindType": 2,
   "knownIds": [
-    101716,
-    101736,
-    101756,
-    101776,
-    101796,
-    101816,
-    101836,
     101856
   ]
 }

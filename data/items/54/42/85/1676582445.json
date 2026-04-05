@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    98895,
-    98915,
-    98935,
-    98955,
-    98975,
-    98995,
-    99015,
     99035
   ]
 }

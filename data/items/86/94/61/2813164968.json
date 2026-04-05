@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_head_a.png",
   "bindType": 2,
   "knownIds": [
-    101715,
-    101735,
-    101755,
-    101775,
-    101795,
-    101815,
-    101835,
     101855
   ]
 }

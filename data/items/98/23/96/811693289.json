@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    98155,
-    98175,
-    98195,
-    98215,
-    98235,
-    98255,
-    98275,
     98295
   ]
 }

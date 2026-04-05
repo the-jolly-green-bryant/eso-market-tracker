@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
   "bindType": 3,
   "knownIds": [
-    192495,
-    192499,
-    192495,
     192499
   ]
 }

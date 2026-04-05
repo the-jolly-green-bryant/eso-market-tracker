@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hhammer_a.png",
   "bindType": 2,
   "knownIds": [
-    123578,
-    123599,
-    123620,
-    123641,
-    123662,
     123683
   ]
 }

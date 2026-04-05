@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    80869,
-    80889,
-    80909,
-    80929,
-    80949,
-    80961,
-    80981,
     81001
   ]
 }

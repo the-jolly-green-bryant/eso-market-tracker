@@ -2,10 +2,9 @@
   "internalId": 121201486,
   "name": "Mint Chai",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
   "bindType": -1,
   "knownIds": [
-    33648,
     37915
   ]
 }

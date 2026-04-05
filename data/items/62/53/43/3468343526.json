@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_head_a.png",
   "bindType": 2,
   "knownIds": [
-    95661,
-    95681,
-    95701,
-    95721,
-    95741,
-    95761,
-    95781,
     95801
   ]
 }

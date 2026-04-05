@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
   "bindType": 2,
   "knownIds": [
-    80708,
-    80729,
-    80750,
-    80771,
-    80792,
-    80804,
-    80825,
     80846
   ]
 }

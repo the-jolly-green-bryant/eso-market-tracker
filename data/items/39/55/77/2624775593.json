@@ -2,12 +2,9 @@
   "internalId": 2624775593,
   "name": "Nereid Wine",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_002.png",
   "bindType": -1,
   "knownIds": [
-    33975,
-    37860,
-    33975,
     37860
   ]
 }

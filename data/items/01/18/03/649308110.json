@@ -2,24 +2,9 @@
   "internalId": 649308110,
   "name": "Guards of the Twin Sisters",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_legs_d.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
   "bindType": 2,
   "knownIds": [
-    92284,
-    92304,
-    92324,
-    92344,
-    92364,
-    92384,
-    92404,
-    92424,
-    92284,
-    92304,
-    92324,
-    92344,
-    92364,
-    92384,
-    92404,
     92424
   ]
 }

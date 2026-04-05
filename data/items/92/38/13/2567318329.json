@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_waist_d.png",
   "bindType": 2,
   "knownIds": [
-    86400,
-    86420,
-    86440,
-    86460,
-    86480,
     86520
   ]
 }

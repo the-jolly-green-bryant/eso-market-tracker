@@ -2,12 +2,9 @@
   "internalId": 554164202,
   "name": "Solstheim Elk and Scuttle",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_003.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_001.png",
   "bindType": -1,
   "knownIds": [
-    32161,
-    33921,
-    32161,
     33921
   ]
 }

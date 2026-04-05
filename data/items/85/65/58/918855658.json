@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_sword_a.png",
   "bindType": 2,
   "knownIds": [
-    135530,
-    135551,
-    135572,
-    135593,
-    135614,
-    135635,
-    135656,
     135677
   ]
 }

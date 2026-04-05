@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_2hhammer_a.png",
   "bindType": 2,
   "knownIds": [
-    129642,
-    129654,
-    129666,
     129678
   ]
 }

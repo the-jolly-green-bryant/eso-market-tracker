@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2hhammer_a.png",
   "bindType": 2,
   "knownIds": [
-    85830,
-    85850,
-    85870,
-    85890,
-    85910,
-    85930,
     85950
   ]
 }

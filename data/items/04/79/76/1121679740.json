@@ -2,12 +2,9 @@
   "internalId": 1121679740,
   "name": "Spiced Mazte",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_wine_002.png",
   "bindType": -1,
   "knownIds": [
-    33636,
-    37950,
-    33636,
     37950
   ]
 }

@@ -2,10 +2,9 @@
   "internalId": 3840208896,
   "name": "Black Coffee",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_003.png",
   "bindType": -1,
   "knownIds": [
-    33702,
     37922
   ]
 }

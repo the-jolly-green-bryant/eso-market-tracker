@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_sheild.png",
   "bindType": 2,
   "knownIds": [
-    205069,
-    205089,
-    205109,
-    205129,
-    205149,
-    205169,
-    205189,
     205209
   ]
 }

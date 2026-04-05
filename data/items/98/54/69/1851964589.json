@@ -2,10 +2,9 @@
   "internalId": 1851964589,
   "name": "Deshaan Honeydew Hors D'oeuvres",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fruit_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fruit_001.png",
   "bindType": -1,
   "knownIds": [
-    33855,
     37841
   ]
 }

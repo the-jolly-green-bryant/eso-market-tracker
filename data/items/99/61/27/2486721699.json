@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hmace.png",
   "bindType": 2,
   "knownIds": [
-    205061,
-    205081,
-    205101,
-    205121,
-    205141,
-    205161,
-    205181,
     205201
   ]
 }

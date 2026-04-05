@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    99477,
-    99497,
-    99517,
-    99537,
-    99557,
-    99577,
-    99597,
     99617
   ]
 }

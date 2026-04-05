@@ -2,12 +2,9 @@
   "internalId": 673727503,
   "name": "Nocturnal's Everblack Coffee",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
   "bindType": -1,
   "knownIds": [
-    57207,
-    57654,
-    57207,
     57654
   ]
 }

@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_bow_a.png",
   "bindType": 2,
   "knownIds": [
-    77721,
-    77757,
-    77793,
     77829
   ]
 }

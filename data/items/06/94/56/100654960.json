@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
   "bindType": 2,
   "knownIds": [
-    15770,
-    15772,
-    15770,
     15772
   ]
 }

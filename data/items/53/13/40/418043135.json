@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
   "bindType": 2,
   "knownIds": [
-    123565,
-    123586,
-    123607,
-    123628,
-    123649,
-    123670,
     123691
   ]
 }

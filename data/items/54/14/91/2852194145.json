@@ -5,15 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
   "bindType": 2,
   "knownIds": [
-    168400,
-    168455,
-    168490,
-    168525,
-    168560,
-    168595,
-    168630,
-    168665,
-    168700,
     168735
   ]
 }

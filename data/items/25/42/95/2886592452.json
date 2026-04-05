@@ -2,12 +2,9 @@
   "internalId": 2886592452,
   "name": "Pellitine Tomato Rice",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_002.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_001.png",
   "bindType": -1,
   "knownIds": [
-    37847,
-    42814,
-    37847,
     42814
   ]
 }

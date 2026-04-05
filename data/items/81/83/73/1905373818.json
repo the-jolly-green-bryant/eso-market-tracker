@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
   "bindType": 2,
   "knownIds": [
-    90434,
-    90455,
-    90476,
-    90497,
-    90518,
-    90539,
-    90560,
     90581
   ]
 }

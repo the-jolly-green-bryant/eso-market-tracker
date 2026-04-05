@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
   "bindType": 2,
   "knownIds": [
-    204082,
-    204102,
-    204122,
-    204142,
-    204162,
-    204182,
-    204202,
     204222
   ]
 }

@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png",
   "bindType": 2,
   "knownIds": [
-    123175,
-    123195,
-    123215,
-    123235,
-    123255,
-    123275,
-    123295,
     123315
   ]
 }

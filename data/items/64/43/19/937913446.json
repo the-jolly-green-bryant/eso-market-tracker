@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_heavy_shoulders_a.png",
   "bindType": 2,
   "knownIds": [
-    95310,
-    95330,
-    95350,
-    95370,
-    95390,
-    95410,
     95430
   ]
 }

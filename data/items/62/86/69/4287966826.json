@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1hhammer_a.png",
   "bindType": 2,
   "knownIds": [
-    95455,
-    95476,
-    95497,
-    95518,
-    95539,
-    95560,
-    95581,
     95602
   ]
 }

@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
   "bindType": 2,
   "knownIds": [
-    135356,
-    135376,
-    135396,
-    135416,
-    135436,
-    135456,
-    135476,
     135496
   ]
 }

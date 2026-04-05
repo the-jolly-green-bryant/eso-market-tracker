@@ -2,12 +2,9 @@
   "internalId": 3196773680,
   "name": "Pirate Queen Mint Tea",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png",
   "bindType": -1,
   "knownIds": [
-    57204,
-    57648,
-    57204,
     57648
   ]
 }

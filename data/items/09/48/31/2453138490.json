@@ -2,24 +2,9 @@
   "internalId": 2453138490,
   "name": "Battle Axe of the Twin Sisters",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
   "bindType": 2,
   "knownIds": [
-    92270,
-    92290,
-    92310,
-    92330,
-    92350,
-    92370,
-    92390,
-    92410,
-    92270,
-    92290,
-    92310,
-    92330,
-    92350,
-    92370,
-    92390,
     92410
   ]
 }

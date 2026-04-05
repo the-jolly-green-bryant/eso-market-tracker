@@ -2,22 +2,9 @@
   "internalId": 931247126,
   "name": "Iron Sabatons",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_heavy_feet_a.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_gladiatormd_hvy_feet_a.png",
   "bindType": 2,
   "knownIds": [
-    212227,
-    212256,
-    212266,
-    212272,
-    212278,
-    212286,
-    212294,
-    212300,
-    212307,
-    212314,
-    212321,
-    212328,
-    212335,
     212343
   ]
 }

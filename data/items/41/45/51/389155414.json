@@ -2,12 +2,9 @@
   "internalId": 389155414,
   "name": "Roasted Beet and Millet Salad",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_003.png",
   "bindType": -1,
   "knownIds": [
-    37863,
-    42796,
-    37863,
     42796
   ]
 }

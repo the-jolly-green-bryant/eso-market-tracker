@@ -5,10 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_staff_a.png",
   "bindType": 2,
   "knownIds": [
-    84968,
-    84988,
-    85008,
-    85028,
     85048
   ]
 }

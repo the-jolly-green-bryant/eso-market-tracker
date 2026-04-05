@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_staff_a.png",
   "bindType": 2,
   "knownIds": [
-    180108,
-    180128,
-    180148,
-    180168,
-    180188,
-    180208,
-    180228,
     180248
   ]
 }

@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
   "bindType": 2,
   "knownIds": [
-    96855,
-    96875,
-    96895,
     96915
   ]
 }

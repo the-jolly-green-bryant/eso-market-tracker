@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
   "bindType": -1,
   "knownIds": [
-    37827,
-    28325,
-    37827,
-    28325
+    37827
   ]
 }

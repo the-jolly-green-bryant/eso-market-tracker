@@ -5,10 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
   "bindType": 2,
   "knownIds": [
-    143002,
-    143037,
-    143072,
-    143107,
     143142
   ]
 }

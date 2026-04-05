@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_bow_a.png",
   "bindType": 2,
   "knownIds": [
-    102080,
-    102100,
-    102120,
-    102140,
-    102160,
-    102180,
-    102200,
     102220
   ]
 }

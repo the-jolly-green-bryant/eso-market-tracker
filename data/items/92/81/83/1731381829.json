@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_shield_a.png",
   "bindType": 2,
   "knownIds": [
-    114665,
-    114685,
-    114705,
-    114725,
-    114745,
-    114765,
-    114785,
     114805
   ]
 }

@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
   "bindType": 2,
   "knownIds": [
-    117090,
-    117110,
-    117130,
-    117150,
-    117170,
-    117190,
-    117210,
     117230
   ]
 }

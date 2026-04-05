@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    100963,
-    100984,
-    101005,
-    101026,
-    101047,
-    101068,
-    101089,
     101110
   ]
 }

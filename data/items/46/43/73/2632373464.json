@@ -5,10 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
   "bindType": -1,
   "knownIds": [
-    61039,
-    61039,
-    28398,
-    61039,
-    28398
+    61039
   ]
 }

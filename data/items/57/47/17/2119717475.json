@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
   "bindType": 2,
   "knownIds": [
-    100782,
-    100802,
-    100822,
-    100842,
-    100862,
-    100882,
-    100902,
     100922
   ]
 }

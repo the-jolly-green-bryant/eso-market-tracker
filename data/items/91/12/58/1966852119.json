@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
   "bindType": 2,
   "knownIds": [
-    98159,
-    98179,
-    98199,
-    98219,
-    98239,
-    98259,
-    98279,
     98299
   ]
 }

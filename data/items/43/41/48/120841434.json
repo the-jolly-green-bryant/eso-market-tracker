@@ -2,24 +2,9 @@
   "internalId": 120841434,
   "name": "Bow of the Twin Sisters",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
   "bindType": 2,
   "knownIds": [
-    92274,
-    92294,
-    92314,
-    92334,
-    92354,
-    92374,
-    92394,
-    92414,
-    92274,
-    92294,
-    92314,
-    92334,
-    92354,
-    92374,
-    92394,
     92414
   ]
 }

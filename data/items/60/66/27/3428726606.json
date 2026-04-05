@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_dagger.png",
   "bindType": 2,
   "knownIds": [
-    205063,
-    205083,
-    205103,
-    205123,
-    205143,
-    205163,
-    205183,
     205203
   ]
 }

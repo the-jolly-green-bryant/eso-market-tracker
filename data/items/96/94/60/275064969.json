@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
   "bindType": 2,
   "knownIds": [
-    80707,
-    80728,
-    80749,
-    80770,
-    80791,
-    80803,
-    80824,
     80845
   ]
 }

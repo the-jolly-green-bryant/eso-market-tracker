@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
   "bindType": 2,
   "knownIds": [
-    102081,
-    102101,
-    102121,
-    102141,
-    102161,
-    102181,
-    102201,
     102221
   ]
 }

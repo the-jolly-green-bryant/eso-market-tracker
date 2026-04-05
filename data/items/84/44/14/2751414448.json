@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
   "bindType": 2,
   "knownIds": [
-    78056,
-    78091,
-    78126,
-    78161,
-    78196,
-    78231,
-    78266,
     78301
   ]
 }

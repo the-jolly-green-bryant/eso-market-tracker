@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hsword_a.png",
   "bindType": 2,
   "knownIds": [
-    95459,
-    95480,
-    95501,
-    95522,
-    95543,
-    95564,
-    95585,
     95606
   ]
 }

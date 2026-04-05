@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_waist_d.png",
   "bindType": 2,
   "knownIds": [
-    98166,
-    98186,
-    98206,
-    98226,
-    98246,
-    98266,
-    98286,
     98306
   ]
 }

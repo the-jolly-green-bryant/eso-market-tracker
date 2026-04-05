@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_bow_a.png",
   "bindType": 2,
   "knownIds": [
-    95652,
-    95672,
-    95692,
-    95712,
-    95732,
-    95752,
-    95772,
     95792
   ]
 }

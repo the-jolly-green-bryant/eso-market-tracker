@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
   "bindType": 2,
   "knownIds": [
-    123178,
-    123198,
-    123218,
-    123238,
-    123258,
-    123278,
-    123298,
     123318
   ]
 }

@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_sheild_a.png",
   "bindType": 2,
   "knownIds": [
-    179959,
-    179980,
-    180001,
-    180022,
-    180043,
-    180064,
     180085
   ]
 }

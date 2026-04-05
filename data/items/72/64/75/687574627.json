@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_head_d.png",
   "bindType": 2,
   "knownIds": [
-    100787,
-    100807,
-    100827,
-    100847,
-    100867,
-    100887,
-    100907,
     100927
   ]
 }

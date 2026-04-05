@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_shield_d.png",
   "bindType": 2,
   "knownIds": [
-    85283,
-    85303,
-    85323,
-    85343,
-    85363,
     85403
   ]
 }

@@ -5,11 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
   "bindType": 2,
   "knownIds": [
-    70085,
-    70120,
-    70155,
-    70190,
-    70225,
     70260
   ]
 }

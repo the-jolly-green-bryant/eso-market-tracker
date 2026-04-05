@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1haxe_d.png",
   "bindType": 2,
   "knownIds": [
-    100771,
-    100791,
-    100811,
-    100831,
-    100851,
-    100871,
-    100891,
     100911
   ]
 }

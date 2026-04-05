@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
   "bindType": 2,
   "knownIds": [
-    98045,
-    98066,
-    98087,
     98108
   ]
 }

@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_staff_c.png",
   "bindType": 2,
   "knownIds": [
-    96600,
-    96620,
-    96640,
-    96660,
-    96680,
-    96700,
-    96720,
     96740
   ]
 }

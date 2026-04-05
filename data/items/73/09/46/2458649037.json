@@ -2,10 +2,9 @@
   "internalId": 2458649037,
   "name": "Bitter Tea",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_003.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_002.png",
   "bindType": -1,
   "knownIds": [
-    33654,
     37921
   ]
 }

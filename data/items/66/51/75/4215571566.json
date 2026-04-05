@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_waist_d.png",
   "bindType": 2,
   "knownIds": [
-    80568,
-    80588,
-    80608,
-    80628,
-    80660,
-    80680,
     80700
   ]
 }

@@ -2,12 +2,9 @@
   "internalId": 1683937242,
   "name": "Sorry, Honey Lager",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
   "bindType": -1,
   "knownIds": [
-    33642,
-    37956,
-    33642,
     37956
   ]
 }

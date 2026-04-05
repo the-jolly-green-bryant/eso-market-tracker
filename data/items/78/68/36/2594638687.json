@@ -5,14 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
   "bindType": 2,
   "knownIds": [
-    86752,
-    86773,
-    86794,
-    86815,
-    86836,
-    86857,
-    86878,
-    86899,
     86920
   ]
 }

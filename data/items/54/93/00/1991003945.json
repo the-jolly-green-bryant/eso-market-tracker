@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
   "bindType": 2,
   "knownIds": [
-    97782,
-    97802,
-    97822,
-    97842,
-    97862,
-    97882,
-    97902,
     97922
   ]
 }

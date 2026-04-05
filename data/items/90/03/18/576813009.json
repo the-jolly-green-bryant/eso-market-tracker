@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hsword_d.png",
   "bindType": 2,
   "knownIds": [
-    98695,
-    98716,
-    98737,
-    98758,
-    98779,
-    98800,
-    98821,
     98842
   ]
 }

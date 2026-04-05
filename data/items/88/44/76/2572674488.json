@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_dagger_d.png",
   "bindType": 2,
   "knownIds": [
-    81018,
-    81038,
-    81058,
-    81078,
-    81098,
-    81110,
-    81130,
     81150
   ]
 }

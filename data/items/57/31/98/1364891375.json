@@ -5,12 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_head_d.png",
   "bindType": 2,
   "knownIds": [
-    80876,
-    80896,
-    80916,
-    80936,
-    80968,
-    80988,
     81008
   ]
 }

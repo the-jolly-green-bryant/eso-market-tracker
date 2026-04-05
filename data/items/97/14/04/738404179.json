@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_legs_d.png",
   "bindType": 2,
   "knownIds": [
-    99302,
-    99322,
-    99342,
-    99362,
-    99382,
-    99402,
-    99422,
     99442
   ]
 }

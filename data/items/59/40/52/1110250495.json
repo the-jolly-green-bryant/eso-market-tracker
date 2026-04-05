@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_1hhammer_a.png",
   "bindType": 2,
   "knownIds": [
-    135165,
-    135185,
-    135205,
-    135225,
-    135245,
-    135265,
-    135285,
     135305
   ]
 }

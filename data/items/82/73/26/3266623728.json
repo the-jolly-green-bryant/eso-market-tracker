@@ -5,13 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_medium_feet_a.png",
   "bindType": 2,
   "knownIds": [
-    101531,
-    101551,
-    101571,
-    101591,
-    101611,
-    101631,
-    101651,
     101671
   ]
 }

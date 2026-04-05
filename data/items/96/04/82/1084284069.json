@@ -5,9 +5,6 @@
   "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_1haxe_a.png",
   "bindType": 2,
   "knownIds": [
-    75143,
-    75163,
-    75183,
     75203
   ]
 }

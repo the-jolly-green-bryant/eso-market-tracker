@@ -2,12 +2,9 @@
   "internalId": 2230166783,
   "name": "Hare in Garlic Sauce",
   "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_003.png",
+  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_001.png",
   "bindType": -1,
   "knownIds": [
-    32131,
-    33581,
-    32131,
     33581
   ]
 }
