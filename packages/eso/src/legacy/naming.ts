@@ -200,7 +200,6 @@ const NON_EXISTENT_ITEMS = [
   'calcinium sword of weapon damage',
   'chokethorns mask',
   'chokethorns shoulder',
-  'clockwork dial calipers handheld',
   'clockwork treasure map',
   'common soul gem empty',
   'common soul gem',
