@@ -63,8 +63,8 @@ export const getAppData = async () => {
 
 export const collectObservations = async () => {
   const rawData = await self.getAppData()
-  const r = await Results.from(rawData)
-  await Promise.all(
+  logger.info('Collected Web app data')
+  return Results.from(rawData).then((r) =>
     r.observations.map((i) => {
       db.throttleFileWrites(async () => {
         logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
@@ -74,7 +74,8 @@ export const collectObservations = async () => {
           constants.XBOX_NA
         )
         logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
-        await db.writeToFile(i.stats, targetPath)
+        const writeDone = db.writeToFile(i.stats, targetPath)
+        return Promise.all([writeDone])
       })
     })
   )

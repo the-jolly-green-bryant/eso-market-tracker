@@ -5,11 +5,18 @@ import { db } from './build'
 import { getIdFromName, logger, orThrow } from '@eso-market-tracker/logging'
 import * as database from '@eso-market-tracker/database'
 import * as cheerio from 'cheerio'
-import * as raw from './index/traits.json'
-export const TRAIT_INDEX = raw as unknown as Record<
-  number,
-  [number, number | null]
->
+
+let _TRAIT_INDEX: Record<number, [number, number | null]>
+
+export const TRAIT_INDEX = async (): Promise<
+  Record<number, [number, number | null]>
+> => {
+  if (_TRAIT_INDEX) return _TRAIT_INDEX
+
+  const mod = await import('./index/traits.json')
+  _TRAIT_INDEX = mod.default as Record<number, [number, number | null]>
+  return _TRAIT_INDEX
+}
 
 export const findItemByName = (name: string) => {
   const normalized = getIdFromName(name)

@@ -26,7 +26,8 @@
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
     "@eso-market-tracker/logging": "workspace:*",
-    "better-sqlite3": "^12.8.0"
+    "better-sqlite3": "^12.8.0",
+    "fast-glob": "^3.3.3"
   },
   "exports": {
     ".": "./index.ts"

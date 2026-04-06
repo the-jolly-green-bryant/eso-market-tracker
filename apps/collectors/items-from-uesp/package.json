@@ -26,5 +26,8 @@
     "@eso-market-tracker/eso": "workspace:*",
     "@eso-market-tracker/logging": "workspace:*",
     "@eso-market-tracker/data": "workspace:*"
+  },
+  "exports": {
+    ".": "./src/index.ts"
   }
 }

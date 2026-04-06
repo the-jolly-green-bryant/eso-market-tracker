@@ -45,23 +45,27 @@ const getImageDirectory = (filename: string) => {
   return `${ROOT_DIRECTORY}/images/${shard}`
 }
 
-export const getOrDownloadImage = async (
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+
+export const getOrDownloadImage = (
   url: string,
   options?: { force: boolean }
 ) => {
   const force = options?.force ?? false
   const filename = getFilenameFromUrl(url)
   const targetPath = `${getImageDirectory(filename)}/${filename}`
-  const __filename = fileURLToPath(import.meta.url)
-  const __dirname = path.dirname(__filename)
   const localPath = `${__dirname}/../../../${targetPath}`
   logger.info(`Saving image ${filename} to ${__dirname} at ${localPath}`)
-  if (force || !fs.existsSync(localPath)) {
-    const r = await getValidatedRequest(url)
-    fs.mkdirSync(path.dirname(localPath), { recursive: true })
-    const buffer = Buffer.from(await r.arrayBuffer())
-    fs.writeFileSync(localPath, buffer)
-  }
+
+  // Download our image or not, we don't care.
+  ;(force || !fs.existsSync(localPath)) &&
+    void (async () => {
+      const r = await getValidatedRequest(url)
+      fs.mkdirSync(path.dirname(localPath), { recursive: true })
+      const buffer = Buffer.from(await r.arrayBuffer())
+      fs.writeFileSync(localPath, buffer)
+    })()
 
   return targetPath
 }

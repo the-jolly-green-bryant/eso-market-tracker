@@ -1,4 +1,5 @@
-import fs from 'fs'
+import fs from 'node:fs'
+import fg from 'fast-glob'
 import * as fsPromises from 'fs/promises'
 import {
   getTraitIdFromString,
@@ -29,7 +30,7 @@ export const db = () => {
   return _db
 }
 
-const createSchema = async () => {
+const createSchema = () => {
   const client = db()
   client.exec(`
     PRAGMA foreign_keys = ON;
@@ -68,9 +69,7 @@ export const insertKnownId = async (
   }
 
   let traitId: number | null =
-    (TRAIT_INDEX as unknown as Record<number, [number, number]>)[knownId]?.at(
-      1
-    ) ??
+    (await TRAIT_INDEX())[knownId]?.at(1) ??
     (
       db()
         .prepare(
@@ -137,32 +136,37 @@ export const insertItems = async (
 
   const BATCH_SIZE = 50
   const limit = pLimit(10)
+  client.exec('BEGIN')
+  const batchesDone = []
   for (let i = 0; i < items.length; i += BATCH_SIZE) {
-    client.exec('BEGIN')
     const batch = items.slice(i, i + BATCH_SIZE)
-    await Promise.all(
-      batch.map((item) =>
-        limit(async () => {
-          stmt.run({
-            ...item.meta,
-            knownIds: JSON.stringify(item.meta.knownIds),
-          })
-
-          if (options?.skipInsertingTraits) {
-            return
-          }
-
-          const uniqueKnownIds = [...new Set(item.meta.knownIds)]
-          for (const k of uniqueKnownIds) {
-            await insertKnownId(k, item.meta.internalId)
-          }
+    const batchesEntered = batch.map((item) =>
+      limit(async () => {
+        stmt.run({
+          ...item.meta,
+          knownIds: JSON.stringify(item.meta.knownIds),
         })
-      )
+
+        if (options?.skipInsertingTraits) {
+          return
+        }
+
+        const uniqueKnownIds = [...new Set(item.meta.knownIds)]
+        const knownIdsEntered = uniqueKnownIds.map(async (k) =>
+          insertKnownId(k, item.meta.internalId)
+        )
+
+        return Promise.all(knownIdsEntered)
+      })
     )
 
-    // 👇 this is your "after batch"
-    client.exec('COMMIT')
+    batchesDone.push(Promise.all(batchesEntered))
   }
+
+  return Promise.all(batchesDone).then(() => {
+    client.exec('COMMIT')
+    console.log('All inserted items committed.')
+  })
 }
 
 const _directoryExists = async (dir: string) => {
@@ -303,9 +307,14 @@ const buildPricingData = async (item: Item) => {
   ).flat()
 }
 
-export const buildDatabase = async () => {
-  await createSchema()
+export const buildDatabase = async (options?: {
+  skipInsertingTraits?: boolean
+}) => {
+  createSchema()
+  logger.info('Created Schema')
   const items = await getItemsFromDirectory(path.join(__dirname, 'items'))
+  const insertingDone = insertItems(items, options)
+  logger.info('Grabbed Items')
   const pairs = (
     await Promise.all(
       items.map((i) =>
@@ -313,12 +322,15 @@ export const buildDatabase = async () => {
       )
     )
   ).flat()
+  logger.info('Built pricing data')
 
   // Log pricing to master file for quicker building.
   const pricing = Object.fromEntries(pairs)
   const indexPath = 'data/index/master-pricing.json'
-  await emtDatabase.writeToFile(pricing, indexPath)
-  await insertItems(items)
+  const pricingDone = emtDatabase
+    .writeToFile(pricing, indexPath)
+    .then(() => logger.info('Pricing Data Saved'))
+  return Promise.all([insertingDone, pricingDone])
 }
 
 const getFilesRecursively = (directory: string): string[] => {
@@ -342,58 +354,71 @@ const getFilesRecursively = (directory: string): string[] => {
 }
 
 const getItemsFromDirectory = async (directory: string): Promise<Item[]> => {
-  const filePaths = getFilesRecursively(directory).filter(
-    (i) => !i.includes('.historical.') && !i.includes('.current.')
-  )
-  const items = await Promise.all(
-    filePaths.flatMap(async (filePath) =>
-      emtDatabase.throttleFileWrites(async () => {
-        const relativePath = 'data/' + path.relative(__dirname, filePath)
-        const data = await emtDatabase.readFromFile(relativePath)
+  const filePaths = await fg([
+    `${directory}/**/*.json`,
+    `!${directory}/**/*.historical.json`,
+    `!${directory}/**/*.current.json`,
+  ])
 
-        if (!data) {
-          throw new Error(`Could not read item file: ${relativePath}`)
-        }
+  const itemsRetrieved = filePaths.map(async (filePath) => {
+    const data = JSON.parse(await fs.promises.readFile(filePath, 'utf8'))
 
-        if (!data.internalId) {
-          return []
-        }
+    if (!data || !data.internalId) {
+      throw new Error(`Could not read item file: ${filePath}`)
+    }
 
-        return [Item.from(data as ItemMeta)]
-      })
-    )
-  )
+    return Item.from(data as ItemMeta)
+  })
 
-  return items.flat().sort((a, b) => b.id - a.id)
+  return Promise.all(itemsRetrieved)
 }
 
-export const flattenDatabase = async (ids?: number[]) => {
-  const stmt = db().prepare(
-    `SELECT * FROM items ${ids && 'WHERE internalId in (' + ids.join(', ') + ')'}`
-  )
+const _writeItems = async (ids?: number[]) => {
+  const sql =
+    ids && ids.length > 0
+      ? `SELECT * FROM items WHERE internalId IN (${ids.join(', ')})`
+      : `SELECT * FROM items`
+
+  const stmt = db().prepare(sql)
+  logger.info('Preparing to write items.')
+  const writes: Promise<void>[] = []
   for (const row of stmt.iterate()) {
     const item = Item.from({
       ...row,
       knownIds: JSON.parse(row.knownIds as string),
     } as ItemMeta)
     const targetPath = naming.getItemPath(item)
-    await emtDatabase.writeToFile(item.meta, targetPath, {
-      preservedKeys: ['variantOf'],
-    })
+    writes.push(emtDatabase.writeToFile(item.meta, targetPath))
   }
 
+  logger.info('Starting to write items.')
+  return Promise.all(writes).then(() =>
+    logger.info('Completed all item writes!')
+  )
+}
+
+export const flattenDatabase = async (ids?: number[]) => {
+  const writesDone = _writeItems(ids)
   const indexPath = 'data/index/traits.json'
-  const index = ((await emtDatabase.readFromFile(indexPath)) ?? {}) as Record<
+  const index = ((await TRAIT_INDEX()) || {}) as Record<
     number,
     (number | null)[]
   >
+  logger.info('Preparing to write traits.')
   const traitStatement = db().prepare(`SELECT * FROM item_known_ids`)
-  for (const row of traitStatement.iterate()) {
-    index[row.knownId as number] = [
-      row.internalId as number,
-      row.traitId as number | null,
+  logger.info('Pulled traits.')
+  const traitEntries = traitStatement.all().map((row) => {
+    return [
+      row.knownId as number,
+      [row.internalId as number, row.traitId as number | null],
     ]
-  }
+  })
 
-  await emtDatabase.writeToFile(index, indexPath)
+  const indexWriteDone = emtDatabase.writeToFile(
+    { ...index, ...Object.fromEntries(traitEntries) },
+    indexPath
+  )
+  logger.info('Wrote traits.')
+
+  return Promise.all([indexWriteDone, writesDone])
 }

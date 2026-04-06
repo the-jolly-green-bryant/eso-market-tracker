@@ -1,5 +1,5 @@
 {
-  "name": "@eso-market-tracker/observatiosn-from-tsc2",
+  "name": "@eso-market-tracker/observations-from-tsc2",
   "version": "0.0.1",
   "description": "Imports snapshot sales data from the current TSC addon.",
   "main": "dist/index.js",
@@ -29,5 +29,8 @@
     "@eso-market-tracker/eso": "workspace:*",
     "@eso-market-tracker/logging": "workspace:*",
     "wasmoon": "^1.16.0"
+  },
+  "exports": {
+    ".": "./src/index.ts"
   }
 }
