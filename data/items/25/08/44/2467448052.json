@@ -1,10 +1,1 @@
-{
-  "internalId": 2467448052,
-  "name": "Crafting Motif 116: Drowned Mariner Daggers",
-  "description": "Use to learn how to make Drowned Mariner Daggers. Also teaches the equivalent Drowned Mariner Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    187768
-  ]
-}
+{"internalId":2467448052,"name":"Crafting Motif 116: Drowned Mariner Daggers","description":"Use to learn how to make Drowned Mariner Daggers. Also teaches the equivalent Drowned Mariner Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[187768]}

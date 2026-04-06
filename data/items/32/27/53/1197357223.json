@@ -1,10 +1,1 @@
-{
-  "internalId": 1197357223,
-  "name": "Fig Slicer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    825934
-  ]
-}
+{"internalId":1197357223,"name":"Fig Slicer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[825934]}

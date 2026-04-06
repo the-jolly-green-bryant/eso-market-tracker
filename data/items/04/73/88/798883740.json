@@ -1,10 +1,1 @@
-{
-  "internalId": 798883740,
-  "name": "Gryphon's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135504
-  ]
-}
+{"internalId":798883740,"name":"Gryphon's Arm Cops","description":"","icon":"data/images/a_/sr/ed/gear_ancient_elf_medium_shoulders_a.png","bindType":2,"knownIds":[135504]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1870656835,
-  "name": "Congealed Bravil Millet Muffin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_muffin.png",
-  "bindType": -1,
-  "knownIds": [
-    37883
-  ]
-}
+{"internalId":1870656835,"name":"Congealed Bravil Millet Muffin","description":"","icon":"data/images/ni/ff/um/crafting_cooking_muffin.png","bindType":-1,"knownIds":[37883]}

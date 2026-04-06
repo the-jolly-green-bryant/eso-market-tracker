@@ -1,10 +1,1 @@
-{
-  "internalId": 732612726,
-  "name": "Banner, Jester's Standard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_jesterbanner001.png",
-  "bindType": -1,
-  "knownIds": [
-    1121591
-  ]
-}
+{"internalId":732612726,"name":"Banner, Jester's Standard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_jesterbanner001.png","bindType":-1,"knownIds":[1121591]}

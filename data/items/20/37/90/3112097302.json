@@ -1,10 +1,1 @@
-{
-  "internalId": 3112097302,
-  "name": "Pile of Particular Polymorphs",
-  "description": "An elaborate chest containing many collectible Polymorphs.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_chestsmall001.png",
-  "bindType": 3,
-  "knownIds": [
-    194473
-  ]
-}
+{"internalId":3112097302,"name":"Pile of Particular Polymorphs","description":"An elaborate chest containing many collectible Polymorphs.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_chestsmall001.png","bindType":3,"knownIds":[194473]}

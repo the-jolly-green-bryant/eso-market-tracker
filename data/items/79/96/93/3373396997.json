@@ -1,10 +1,1 @@
-{
-  "internalId": 3373396997,
-  "name": "Coral Shelf, Flat",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_coralflat002.png",
-  "bindType": -1,
-  "knownIds": [
-    139107
-  ]
-}
+{"internalId":3373396997,"name":"Coral Shelf, Flat","description":"This is a large house item.","icon":"data/images/20/0t/al/housing_rok_sum_coralflat002.png","bindType":-1,"knownIds":[139107]}

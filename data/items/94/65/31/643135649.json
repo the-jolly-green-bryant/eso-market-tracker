@@ -1,10 +1,1 @@
-{
-  "internalId": 643135649,
-  "name": "Axe of the Wyrd Tree",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    96911
-  ]
-}
+{"internalId":643135649,"name":"Axe of the Wyrd Tree","description":"","icon":"data/images/d_/ex/ah/gear_bosmer_1haxe_d.png","bindType":2,"knownIds":[96911]}

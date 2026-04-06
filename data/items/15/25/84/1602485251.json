@@ -1,10 +1,1 @@
-{
-  "internalId": 1602485251,
-  "name": "Knight Slayer Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123698
-  ]
-}
+{"internalId":1602485251,"name":"Knight Slayer Epaulets","description":"","icon":"data/images/a_/sr/ed/gear_ordinator_light_shoulders_a.png","bindType":2,"knownIds":[123698]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2420660019,
-  "name": "Skyrim Animal Carvings",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366520
-  ]
-}
+{"internalId":2420660019,"name":"Skyrim Animal Carvings","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1366520]}

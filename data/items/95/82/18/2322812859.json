@@ -1,10 +1,1 @@
-{
-  "internalId": 2322812859,
-  "name": "Mace of Meritorious Service",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    116876
-  ]
-}
+{"internalId":2322812859,"name":"Mace of Meritorious Service","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[116876]}

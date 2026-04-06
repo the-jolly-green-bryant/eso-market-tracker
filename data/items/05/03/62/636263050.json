@@ -1,13 +1,1 @@
-{
-  "internalId": 636263050,
-  "name": "Planar Key",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_planar.png",
-  "bindType": -1,
-  "knownIds": [
-    1588587,
-    1589384,
-    1588587,
-    1589384
-  ]
-}
+{"internalId":636263050,"name":"Planar Key","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_planar.png","bindType":-1,"knownIds":[1588587,1589384,1588587,1589384]}

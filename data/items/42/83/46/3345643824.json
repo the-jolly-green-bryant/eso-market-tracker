@@ -1,10 +1,1 @@
-{
-  "internalId": 3345643824,
-  "name": "Aquilarios Quizzing Glass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1306838
-  ]
-}
+{"internalId":3345643824,"name":"Aquilarios Quizzing Glass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[1306838]}

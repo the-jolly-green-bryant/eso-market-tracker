@@ -1,10 +1,1 @@
-{
-  "internalId": 546137614,
-  "name": "Mud Sack Pillow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1270657
-  ]
-}
+{"internalId":546137614,"name":"Mud Sack Pillow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[1270657]}

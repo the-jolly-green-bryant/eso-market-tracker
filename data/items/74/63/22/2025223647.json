@@ -1,10 +1,1 @@
-{
-  "internalId": 2025223647,
-  "name": "Telvanni Planter, Fungal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_housinghighplanter001.png",
-  "bindType": -1,
-  "knownIds": [
-    197521
-  ]
-}
+{"internalId":2025223647,"name":"Telvanni Planter, Fungal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_housinghighplanter001.png","bindType":-1,"knownIds":[197521]}

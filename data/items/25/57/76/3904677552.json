@@ -1,10 +1,1 @@
-{
-  "internalId": 3904677552,
-  "name": "Spell Parasite's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    163423
-  ]
-}
+{"internalId":3904677552,"name":"Spell Parasite's Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":2,"knownIds":[163423]}

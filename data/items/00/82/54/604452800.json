@@ -1,10 +1,1 @@
-{
-  "internalId": 604452800,
-  "name": "Dagger of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199307
-  ]
-}
+{"internalId":604452800,"name":"Dagger of Fury","description":"","icon":"data/images/a_/re/gg/gear_abahswatch_dagger_a.png","bindType":2,"knownIds":[79818]}

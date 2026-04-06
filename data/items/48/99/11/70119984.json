@@ -1,10 +1,1 @@
-{
-  "internalId": 70119984,
-  "name": "Clockwork Workbench, Spacious",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_tableworkbench001.png",
-  "bindType": -1,
-  "knownIds": [
-    134393
-  ]
-}
+{"internalId":70119984,"name":"Clockwork Workbench, Spacious","description":"This is a large house item.","icon":"data/images/10/0h/cn/housing_cwc_fur_tableworkbench001.png","bindType":-1,"knownIds":[134393]}

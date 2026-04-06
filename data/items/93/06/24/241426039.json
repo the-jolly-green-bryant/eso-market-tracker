@@ -1,10 +1,1 @@
-{
-  "internalId": 241426039,
-  "name": "Axe of the Arch-Mage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    91711
-  ]
-}
+{"internalId":241426039,"name":"Axe of the Arch-Mage","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[91711]}

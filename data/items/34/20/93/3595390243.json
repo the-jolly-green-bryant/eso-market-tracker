@@ -1,10 +1,1 @@
-{
-  "internalId": 3595390243,
-  "name": "Exemplary Nirnhoned Gloves",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Gloves.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81623
-  ]
-}
+{"internalId":3595390243,"name":"Exemplary Nirnhoned Gloves","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Gloves.","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":-1,"knownIds":[81623]}

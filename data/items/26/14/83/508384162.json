@@ -1,10 +1,1 @@
-{
-  "internalId": 508384162,
-  "name": "Pattern: Wood Elf Canopy, Braced",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    115884
-  ]
-}
+{"internalId":508384162,"name":"Pattern: Wood Elf Canopy, Braced","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[115884]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3484956062,
-  "name": "Tharriker's Strike Medium Armor",
-  "description": "A Crafted Armor set constructed in West Weald.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    205765
-  ]
-}
+{"internalId":3484956062,"name":"Tharriker's Strike Medium Armor","description":"A Crafted Armor set constructed in West Weald.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[205765]}

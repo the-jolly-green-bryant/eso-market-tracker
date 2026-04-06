@@ -1,10 +1,1 @@
-{
-  "internalId": 3212340012,
-  "name": "1001 Guar Enchantments",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150918
-  ]
-}
+{"internalId":3212340012,"name":"1001 Guar Enchantments","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[1150918]}

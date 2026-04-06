@@ -1,10 +1,1 @@
-{
-  "internalId": 1764189258,
-  "name": "Formula: Colovian Window, Rectangular",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    211022
-  ]
-}
+{"internalId":1764189258,"name":"Formula: Colovian Window, Rectangular","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[211022]}

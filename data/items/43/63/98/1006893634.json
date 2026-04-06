@@ -1,10 +1,1 @@
-{
-  "internalId": 1006893634,
-  "name": "Antler Coral, Glowing Broad Crimson",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_housingvivecscoral004.png",
-  "bindType": -1,
-  "knownIds": [
-    214515
-  ]
-}
+{"internalId":1006893634,"name":"Antler Coral, Glowing Broad Crimson","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_housingvivecscoral004.png","bindType":-1,"knownIds":[214515]}

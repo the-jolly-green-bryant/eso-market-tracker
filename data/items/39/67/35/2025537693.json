@@ -1,10 +1,1 @@
-{
-  "internalId": 2025537693,
-  "name": "catfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
-  "bindType": -1,
-  "knownIds": [
-    497609
-  ]
-}
+{"internalId":2025537693,"name":"catfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png","bindType":-1,"knownIds":[497609]}

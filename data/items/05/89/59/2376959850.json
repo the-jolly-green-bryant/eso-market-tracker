@@ -1,10 +1,1 @@
-{
-  "internalId": 2376959850,
-  "name": "Redguard Vessel, Gilded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldraincatcherurna001.png",
-  "bindType": -1,
-  "knownIds": [
-    117903
-  ]
-}
+{"internalId":2376959850,"name":"Redguard Vessel, Gilded","description":"This is a standard house item.","icon":"data/images/10/0a/nr/housing_red_inc_vargoldraincatcherurna001.png","bindType":-1,"knownIds":[117903]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3554959233,
-  "name": "Sacrificial Sithis Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mehrunesrazor_base.png",
-  "bindType": -1,
-  "knownIds": [
-    1291671
-  ]
-}
+{"internalId":3554959233,"name":"Sacrificial Sithis Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mehrunesrazor_base.png","bindType":-1,"knownIds":[1291671]}

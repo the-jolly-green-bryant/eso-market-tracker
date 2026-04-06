@@ -1,10 +1,1 @@
-{
-  "internalId": 4105824962,
-  "name": "Breeches of a Mother's Sorrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97404
-  ]
-}
+{"internalId":4105824962,"name":"Breeches of a Mother's Sorrow","description":"","icon":"data/images/d_/sg/el/gear_argonian_light_legs_d.png","bindType":2,"knownIds":[97404]}

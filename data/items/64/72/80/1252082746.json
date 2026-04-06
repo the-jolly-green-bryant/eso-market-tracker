@@ -1,10 +1,1 @@
-{
-  "internalId": 1252082746,
-  "name": "Infused Buckler of the Order of Diagna",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42951
-  ]
-}
+{"internalId":1252082746,"name":"Infused Buckler of the Order of Diagna","description":"","icon":"data/images/d_/dl/ei/gear_redguard_shield_d.png","bindType":2,"knownIds":[42951]}

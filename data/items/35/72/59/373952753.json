@@ -1,10 +1,1 @@
-{
-  "internalId": 373952753,
-  "name": "Aldmeri Exile's Dagger",
-  "description": "Centuries of neglect have robbed this blade of its luster, but in the right hands it can still draw blood.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    174877
-  ]
-}
+{"internalId":373952753,"name":"Aldmeri Exile's Dagger","description":"Centuries of neglect have robbed this blade of its luster, but in the right hands it can still draw blood.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2_dagger.png","bindType":-1,"knownIds":[174877]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3255728001,
-  "name": "salt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_spice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    871321
-  ]
-}
+{"internalId":3255728001,"name":"salt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_components_spice_001.png","bindType":-1,"knownIds":[871321]}

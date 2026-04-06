@@ -1,17 +1,1 @@
-{
-  "internalId": 1480531184,
-  "name": "Hiti's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1351153,
-    1372130,
-    1451255,
-    1508954,
-    1351153,
-    1372130,
-    1451255,
-    1508954
-  ]
-}
+{"internalId":1480531184,"name":"Hiti's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1351153,1372130,1451255,1508954,1351153,1372130,1451255,1508954]}

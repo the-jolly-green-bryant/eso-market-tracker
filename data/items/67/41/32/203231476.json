@@ -1,10 +1,1 @@
-{
-  "internalId": 203231476,
-  "name": "Solitude Well, Noble",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_solitudewell001.png",
-  "bindType": -1,
-  "knownIds": [
-    171406
-  ]
-}
+{"internalId":203231476,"name":"Solitude Well, Noble","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_solitudewell001.png","bindType":-1,"knownIds":[171406]}

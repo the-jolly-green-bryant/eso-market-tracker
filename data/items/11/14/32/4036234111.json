@@ -1,10 +1,1 @@
-{
-  "internalId": 4036234111,
-  "name": "Crest of the Welkynar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1341513
-  ]
-}
+{"internalId":4036234111,"name":"Crest of the Welkynar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_002.png","bindType":-1,"knownIds":[1341513]}

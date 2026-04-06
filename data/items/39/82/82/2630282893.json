@@ -1,10 +1,1 @@
-{
-  "internalId": 2630282893,
-  "name": "Pattern: Redguard Bed, Wide Grand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119183
-  ]
-}
+{"internalId":2630282893,"name":"Pattern: Redguard Bed, Wide Grand","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[119183]}

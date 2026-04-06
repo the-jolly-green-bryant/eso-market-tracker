@@ -1,10 +1,1 @@
-{
-  "internalId": 4104144650,
-  "name": "Kwama Warrior Plush",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1147694
-  ]
-}
+{"internalId":4104144650,"name":"Kwama Warrior Plush","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[1147694]}

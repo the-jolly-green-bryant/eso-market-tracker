@@ -1,10 +1,1 @@
-{
-  "internalId": 1156319571,
-  "name": "Living With Lycanthropy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png",
-  "bindType": -1,
-  "knownIds": [
-    1095900
-  ]
-}
+{"internalId":1156319571,"name":"Living With Lycanthropy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png","bindType":-1,"knownIds":[1095900]}

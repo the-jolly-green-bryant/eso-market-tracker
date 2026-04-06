@@ -1,10 +1,1 @@
-{
-  "internalId": 2459810986,
-  "name": "Hat of the Eyes of Mara",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56755
-  ]
-}
+{"internalId":2459810986,"name":"Hat of the Eyes of Mara","description":"","icon":"data/images/d_/da/eh/gear_breton_light_head_d.png","bindType":2,"knownIds":[56755]}

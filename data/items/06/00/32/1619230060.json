@@ -1,10 +1,1 @@
-{
-  "internalId": 1619230060,
-  "name": "Hearthfire Harvest Pilaf Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    734730
-  ]
-}
+{"internalId":1619230060,"name":"Hearthfire Harvest Pilaf Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[734730]}

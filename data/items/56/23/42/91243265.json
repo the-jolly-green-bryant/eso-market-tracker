@@ -1,10 +1,1 @@
-{
-  "internalId": 91243265,
-  "name": "Sailor's \"Dancing Maiden\" Statuette",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    652946
-  ]
-}
+{"internalId":91243265,"name":"Sailor's \"Dancing Maiden\" Statuette","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[652946]}

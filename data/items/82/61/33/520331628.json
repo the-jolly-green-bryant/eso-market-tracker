@@ -1,10 +1,1 @@
-{
-  "internalId": 520331628,
-  "name": "Iron Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2hvy_waist.png",
-  "bindType": -1,
-  "knownIds": [
-    175753
-  ]
-}
+{"internalId":520331628,"name":"Iron Girdle","description":"","icon":"data/images/a_/ts/ia/gear_breton_heavy_waist_a.png","bindType":-1,"knownIds":[76866]}

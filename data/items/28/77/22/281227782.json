@@ -1,10 +1,1 @@
-{
-  "internalId": 281227782,
-  "name": "average Glyph of Flame Resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_fireresist.png",
-  "bindType": -1,
-  "knownIds": [
-    1465441
-  ]
-}
+{"internalId":281227782,"name":"average Glyph of Flame Resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_fireresist.png","bindType":-1,"knownIds":[1465441]}

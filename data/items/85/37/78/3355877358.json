@@ -1,10 +1,1 @@
-{
-  "internalId": 3355877358,
-  "name": "Common Basket, Closed",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_basketclosed001.png",
-  "bindType": -1,
-  "knownIds": [
-    118004
-  ]
-}
+{"internalId":3355877358,"name":"Common Basket, Closed","description":"This is a small house item.","icon":"data/images/10/0d/es/housing_bre_con_basketclosed001.png","bindType":-1,"knownIds":[118004]}

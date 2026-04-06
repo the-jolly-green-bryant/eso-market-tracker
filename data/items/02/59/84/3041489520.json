@@ -1,10 +1,1 @@
-{
-  "internalId": 3041489520,
-  "name": "Necrom Banner, Narrow Bronze-Stitched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necbannerlowd003.png",
-  "bindType": -1,
-  "knownIds": [
-    197742
-  ]
-}
+{"internalId":3041489520,"name":"Necrom Banner, Narrow Bronze-Stitched","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necbannerlowd003.png","bindType":-1,"knownIds":[197742]}

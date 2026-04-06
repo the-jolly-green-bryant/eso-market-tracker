@@ -1,10 +1,1 @@
-{
-  "internalId": 2306164387,
-  "name": "Jack of Flanking",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77229
-  ]
-}
+{"internalId":2306164387,"name":"Jack of Flanking","description":"","icon":"data/images/a_/ts/eh/gear_ooth_medium_chest_a.png","bindType":2,"knownIds":[77229]}

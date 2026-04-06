@@ -1,10 +1,1 @@
-{
-  "internalId": 2674752568,
-  "name": "Elsweyr Foot Bridge, Masonry",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_roombridge001.png",
-  "bindType": -1,
-  "knownIds": [
-    151772
-  ]
-}
+{"internalId":2674752568,"name":"Elsweyr Foot Bridge, Masonry","description":"This is a large house item.","icon":"data/images/10/0e/gd/housing_els_duc_roombridge001.png","bindType":-1,"knownIds":[151772]}

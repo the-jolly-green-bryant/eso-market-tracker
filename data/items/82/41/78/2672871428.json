@@ -1,17 +1,1 @@
-{
-  "internalId": 2672871428,
-  "name": "Vrol's Perfected Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_shield.png",
-  "bindType": -1,
-  "knownIds": [
-    1565162,
-    1620131,
-    1630360,
-    1684955,
-    1565162,
-    1620131,
-    1630360,
-    1684955
-  ]
-}
+{"internalId":2672871428,"name":"Vrol's Perfected Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_shield.png","bindType":-1,"knownIds":[1565162,1620131,1630360,1684955,1565162,1620131,1630360,1684955]}

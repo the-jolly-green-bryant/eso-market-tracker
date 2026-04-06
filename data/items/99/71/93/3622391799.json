@@ -1,17 +1,1 @@
-{
-  "internalId": 3622391799,
-  "name": "Reawakened Hierophant Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678325,
-    1696588,
-    1715934,
-    1716919,
-    1678325,
-    1696588,
-    1715934,
-    1716919
-  ]
-}
+{"internalId":3622391799,"name":"Reawakened Hierophant Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png","bindType":-1,"knownIds":[1678325,1696588,1715934,1716919,1678325,1696588,1715934,1716919]}

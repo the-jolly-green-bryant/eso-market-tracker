@@ -1,10 +1,1 @@
-{
-  "internalId": 446297096,
-  "name": "Imperial Loosejaw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    950363
-  ]
-}
+{"internalId":446297096,"name":"Imperial Loosejaw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[950363]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 3185704286,
-  "name": "Perfected Nahviintaas's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1371806,
-    1376977,
-    1391442,
-    1548232,
-    1371806,
-    1376977,
-    1391442,
-    1548232
-  ]
-}
+{"internalId":3185704286,"name":"Perfected Nahviintaas's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_bow_a.png","bindType":-1,"knownIds":[1371806,1376977,1391442,1548232,1371806,1376977,1391442,1548232]}

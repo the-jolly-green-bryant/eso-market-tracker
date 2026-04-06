@@ -1,10 +1,1 @@
-{
-  "internalId": 1224144668,
-  "name": "Greaves of the Unassailable",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_goldensaint_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44147
-  ]
-}
+{"internalId":1224144668,"name":"Greaves of the Unassailable","description":"","icon":"data/images/a_/sg/el/gear_goldensaint_legs_a.png","bindType":2,"knownIds":[44147]}

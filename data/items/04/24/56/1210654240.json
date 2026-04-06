@@ -1,13 +1,1 @@
-{
-  "internalId": 1210654240,
-  "name": "Indecipherable Metallic Book",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    809981,
-    1544590,
-    809981,
-    1544590
-  ]
-}
+{"internalId":1210654240,"name":"Indecipherable Metallic Book","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[809981,1544590,809981,1544590]}

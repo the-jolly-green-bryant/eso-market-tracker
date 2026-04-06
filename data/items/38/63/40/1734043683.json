@@ -1,10 +1,1 @@
-{
-  "internalId": 1734043683,
-  "name": "Crafting Motif 128: Lucent Sentinel Axes",
-  "description": "Use to learn how to make Lucent Sentinel Axes. Also teaches the equivalent Lucent Sentinel Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203493
-  ]
-}
+{"internalId":1734043683,"name":"Crafting Motif 128: Lucent Sentinel Axes","description":"Use to learn how to make Lucent Sentinel Axes. Also teaches the equivalent Lucent Sentinel Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203493]}

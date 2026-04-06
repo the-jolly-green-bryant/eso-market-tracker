@@ -1,10 +1,1 @@
-{
-  "internalId": 3708228610,
-  "name": "Druid's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185871
-  ]
-}
+{"internalId":3708228610,"name":"Druid's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":2,"knownIds":[185871]}

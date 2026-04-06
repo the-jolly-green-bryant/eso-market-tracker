@@ -1,10 +1,1 @@
-{
-  "internalId": 819963675,
-  "name": "Velvet Bedroll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    812720
-  ]
-}
+{"internalId":819963675,"name":"Velvet Bedroll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[812720]}

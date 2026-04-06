@@ -1,10 +1,1 @@
-{
-  "internalId": 1265723086,
-  "name": "Hlaalu Shed, Open",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_hlabalcony002.png",
-  "bindType": -1,
-  "knownIds": [
-    125567
-  ]
-}
+{"internalId":1265723086,"name":"Hlaalu Shed, Open","description":"This is a large house item.","icon":"data/images/20/0y/no/housing_vrd_str_hlabalcony002.png","bindType":-1,"knownIds":[125567]}

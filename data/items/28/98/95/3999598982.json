@@ -1,10 +1,1 @@
-{
-  "internalId": 3999598982,
-  "name": "High King's Nose Warmer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_echaterewool_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    1241432
-  ]
-}
+{"internalId":3999598982,"name":"High King's Nose Warmer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_echaterewool_r1.png","bindType":-1,"knownIds":[1241432]}

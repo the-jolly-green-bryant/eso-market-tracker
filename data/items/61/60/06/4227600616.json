@@ -1,10 +1,1 @@
-{
-  "internalId": 4227600616,
-  "name": "Ice Furnace Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86508
-  ]
-}
+{"internalId":4227600616,"name":"Ice Furnace Bow","description":"","icon":"data/images/d_/wo/b_/gear_redguard_bow_d.png","bindType":2,"knownIds":[86508]}

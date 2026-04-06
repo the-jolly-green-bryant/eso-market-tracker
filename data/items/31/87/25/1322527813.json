@@ -1,10 +1,1 @@
-{
-  "internalId": 1322527813,
-  "name": "Focus Script: Knockback",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_knockback.png",
-  "bindType": -1,
-  "knownIds": [
-    204561
-  ]
-}
+{"internalId":1322527813,"name":"Focus Script: Knockback","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_knockback.png","bindType":-1,"knownIds":[204561]}

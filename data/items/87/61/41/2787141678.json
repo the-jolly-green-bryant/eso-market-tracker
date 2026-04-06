@@ -1,17 +1,1 @@
-{
-  "internalId": 2787141678,
-  "name": "Nix-Hound's Howl Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1630972,
-    1732173,
-    1735347,
-    1751526,
-    1630972,
-    1732173,
-    1735347,
-    1751526
-  ]
-}
+{"internalId":2787141678,"name":"Nix-Hound's Howl Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png","bindType":-1,"knownIds":[1630972,1732173,1735347,1751526,1630972,1732173,1735347,1751526]}

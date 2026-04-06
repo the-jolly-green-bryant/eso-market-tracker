@@ -1,15 +1,1 @@
-{
-  "internalId": 748918148,
-  "name": "Roksa the Warped Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undnixox_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1628812,
-    1629589,
-    1630983,
-    1628812,
-    1629589,
-    1630983
-  ]
-}
+{"internalId":748918148,"name":"Roksa the Warped Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undnixox_head_a.png","bindType":-1,"knownIds":[1628812,1629589,1630983,1628812,1629589,1630983]}

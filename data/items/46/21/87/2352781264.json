@@ -1,10 +1,1 @@
-{
-  "internalId": 2352781264,
-  "name": "Murkmire Hunting Lure, Grisly",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_huntinglure002.png",
-  "bindType": -1,
-  "knownIds": [
-    145550
-  ]
-}
+{"internalId":2352781264,"name":"Murkmire Hunting Lure, Grisly","description":"This is a standard house item.","icon":"data/images/20/0e/ru/housing_arg_exc_huntinglure002.png","bindType":-1,"knownIds":[145550]}

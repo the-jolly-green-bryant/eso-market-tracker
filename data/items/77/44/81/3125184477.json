@@ -1,10 +1,1 @@
-{
-  "internalId": 3125184477,
-  "name": "Grass, Twin Bamboo Shoots",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_bamboogreen003.png",
-  "bindType": -1,
-  "knownIds": [
-    120751
-  ]
-}
+{"internalId":3125184477,"name":"Grass, Twin Bamboo Shoots","description":"This is a large house item.","icon":"data/images/30/0n/ee/housing_veg_aqa_bamboogreen003.png","bindType":-1,"knownIds":[120751]}

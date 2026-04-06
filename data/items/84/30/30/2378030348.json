@@ -1,10 +1,1 @@
-{
-  "internalId": 2378030348,
-  "name": "Blueprint: Necrom Counter, Cabinet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    197562
-  ]
-}
+{"internalId":2378030348,"name":"Blueprint: Necrom Counter, Cabinet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[197562]}

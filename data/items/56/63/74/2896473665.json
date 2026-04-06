@@ -1,10 +1,1 @@
-{
-  "internalId": 2896473665,
-  "name": "Disposable Swallower's Sword",
-  "description": "This false sword is made from spun sugar. It rapidly dissolves after a single use. Though intended for beginner sword-swallowers, no particular skill is needed beyond the ability to open one's mouth.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/collectible_memento_swallowable_sword.png",
-  "bindType": -1,
-  "knownIds": [
-    96955
-  ]
-}
+{"internalId":2896473665,"name":"Disposable Swallower's Sword","description":"This false sword is made from spun sugar. It rapidly dissolves after a single use. Though intended for beginner sword-swallowers, no particular skill is needed beyond the ability to open one's mouth.","icon":"data/images/dr/ow/s_/collectible_memento_swallowable_sword.png","bindType":-1,"knownIds":[96955]}

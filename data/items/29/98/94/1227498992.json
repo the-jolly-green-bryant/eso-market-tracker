@@ -1,10 +1,1 @@
-{
-  "internalId": 1227498992,
-  "name": "Elsweyr Well, Covered",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_well001.png",
-  "bindType": -1,
-  "knownIds": [
-    159442
-  ]
-}
+{"internalId":1227498992,"name":"Elsweyr Well, Covered","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_str_well001.png","bindType":-1,"knownIds":[159442]}

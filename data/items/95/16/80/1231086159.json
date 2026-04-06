@@ -1,10 +1,1 @@
-{
-  "internalId": 1231086159,
-  "name": "Sanded Oak",
-  "description": "An ingredient for crafting wooden weapons and shields.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_base_oak_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    533
-  ]
-}
+{"internalId":1231086159,"name":"Sanded Oak","description":"An ingredient for crafting wooden weapons and shields.","icon":"data/images/3r/_k/ao/crafting_wood_base_oak_r3.png","bindType":-1,"knownIds":[533]}

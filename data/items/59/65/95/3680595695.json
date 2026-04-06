@@ -1,10 +1,1 @@
-{
-  "internalId": 3680595695,
-  "name": "Crawler Tube",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    838782
-  ]
-}
+{"internalId":3680595695,"name":"Crawler Tube","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[838782]}

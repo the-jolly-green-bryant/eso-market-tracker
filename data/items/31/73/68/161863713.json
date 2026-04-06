@@ -1,10 +1,1 @@
-{
-  "internalId": 161863713,
-  "name": "Impresario's Group Repair Kit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1492094
-  ]
-}
+{"internalId":161863713,"name":"Impresario's Group Repair Kit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1492094]}

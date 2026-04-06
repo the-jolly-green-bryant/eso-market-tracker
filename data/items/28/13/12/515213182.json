@@ -1,10 +1,1 @@
-{
-  "internalId": 515213182,
-  "name": "Highland Sentinel Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206128
-  ]
-}
+{"internalId":515213182,"name":"Highland Sentinel Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png","bindType":2,"knownIds":[206128]}

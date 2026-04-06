@@ -1,10 +1,1 @@
-{
-  "internalId": 2405611751,
-  "name": "Undertaker Set Fragment 9",
-  "description": "This is one of nine parts of the Undertaker Gear Set Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_factotumhand_001.png",
-  "bindType": -1,
-  "knownIds": [
-    153718
-  ]
-}
+{"internalId":2405611751,"name":"Undertaker Set Fragment 9","description":"This is one of nine parts of the Undertaker Gear Set Runebox.","icon":"data/images/10/0_/dn/quest_factotumhand_001.png","bindType":-1,"knownIds":[153718]}

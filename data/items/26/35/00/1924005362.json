@@ -1,10 +1,1 @@
-{
-  "internalId": 1924005362,
-  "name": "Vested Shirt and Cuffs",
-  "description": "A respectable shirt with matching vest and cuffs.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63768
-  ]
-}
+{"internalId":1924005362,"name":"Vested Shirt and Cuffs","description":"A respectable shirt with matching vest and cuffs.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63768]}

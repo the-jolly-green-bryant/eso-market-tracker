@@ -1,13 +1,1 @@
-{
-  "internalId": 1096387541,
-  "name": "greater glyph of crushing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_reducearmor.png",
-  "bindType": -1,
-  "knownIds": [
-    461135,
-    1446898,
-    461135,
-    1446898
-  ]
-}
+{"internalId":1096387541,"name":"greater glyph of crushing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_reducearmor.png","bindType":-1,"knownIds":[461135,1446898,461135,1446898]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4013651758,
-  "name": "Solitude Bench, Rustic Long",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bench005.png",
-  "bindType": -1,
-  "knownIds": [
-    165667
-  ]
-}
+{"internalId":4013651758,"name":"Solitude Bench, Rustic Long","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bench005.png","bindType":-1,"knownIds":[165667]}

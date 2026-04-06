@@ -1,10 +1,1 @@
-{
-  "internalId": 58120801,
-  "name": "Kitten Moppet, Heart's Promise",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_stuffedanimal001.png",
-  "bindType": -1,
-  "knownIds": [
-    156769
-  ]
-}
+{"internalId":58120801,"name":"Kitten Moppet, Heart's Promise","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_stuffedanimal001.png","bindType":-1,"knownIds":[156769]}

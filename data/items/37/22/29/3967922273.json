@@ -1,10 +1,1 @@
-{
-  "internalId": 3967922273,
-  "name": "Four-Eye Grog",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
-  "bindType": -1,
-  "knownIds": [
-    37926
-  ]
-}
+{"internalId":3967922273,"name":"Four-Eye Grog","description":"","icon":"data/images/30/0_/re/crafting_beer_003.png","bindType":-1,"knownIds":[37926]}

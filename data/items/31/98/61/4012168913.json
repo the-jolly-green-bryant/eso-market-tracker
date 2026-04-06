@@ -1,13 +1,1 @@
-{
-  "internalId": 4012168913,
-  "name": "Pact Forward Camp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_008.png",
-  "bindType": -1,
-  "knownIds": [
-    1162136,
-    1288384,
-    1162136,
-    1288384
-  ]
-}
+{"internalId":4012168913,"name":"Pact Forward Camp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_008.png","bindType":-1,"knownIds":[1162136,1288384,1162136,1288384]}

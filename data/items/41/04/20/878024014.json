@@ -1,10 +1,1 @@
-{
-  "internalId": 878024014,
-  "name": "Diagram: Hakoshae Pillar, Wooden Hooked",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    152107
-  ]
-}
+{"internalId":878024014,"name":"Diagram: Hakoshae Pillar, Wooden Hooked","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[152107]}

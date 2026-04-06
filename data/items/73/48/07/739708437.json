@@ -1,10 +1,1 @@
-{
-  "internalId": 739708437,
-  "name": "Shipment of Maple",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936451
-  ]
-}
+{"internalId":739708437,"name":"Shipment of Maple","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[936451]}

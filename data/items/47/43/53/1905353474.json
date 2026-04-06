@@ -1,10 +1,1 @@
-{
-  "internalId": 1905353474,
-  "name": "Ayleid Bench, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_fur_benchstone002.png",
-  "bindType": -1,
-  "knownIds": [
-    211361
-  ]
-}
+{"internalId":1905353474,"name":"Ayleid Bench, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_fur_benchstone002.png","bindType":-1,"knownIds":[211361]}

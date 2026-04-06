@@ -1,10 +1,1 @@
-{
-  "internalId": 3240996278,
-  "name": "Cuirass of the Yokeda",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_heavy_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    861158
-  ]
-}
+{"internalId":3240996278,"name":"Cuirass of the Yokeda","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_heavy_chest_a.png","bindType":-1,"knownIds":[861158]}

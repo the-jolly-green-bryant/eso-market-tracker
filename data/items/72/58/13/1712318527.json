@@ -1,15 +1,1 @@
-{
-  "internalId": 1712318527,
-  "name": "Finvir's Trinket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": -1,
-  "knownIds": [
-    378180,
-    814699,
-    807538,
-    378180,
-    814699,
-    807538
-  ]
-}
+{"internalId":1712318527,"name":"Finvir's Trinket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":-1,"knownIds":[378180,814699,807538,378180,814699,807538]}

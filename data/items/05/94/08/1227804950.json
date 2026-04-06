@@ -1,10 +1,1 @@
-{
-  "internalId": 1227804950,
-  "name": "Cache of Forbidden Fruits",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1364624
-  ]
-}
+{"internalId":1227804950,"name":"Cache of Forbidden Fruits","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[1364624]}

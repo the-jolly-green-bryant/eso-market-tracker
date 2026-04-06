@@ -1,10 +1,1 @@
-{
-  "internalId": 2682937593,
-  "name": "Rough Clothesline, Half",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_clotheslinemd001.png",
-  "bindType": -1,
-  "knownIds": [
-    117970
-  ]
-}
+{"internalId":2682937593,"name":"Rough Clothesline, Half","description":"This is a standard house item.","icon":"data/images/10/0d/me/housing_bre_exc_clotheslinemd001.png","bindType":-1,"knownIds":[117970]}

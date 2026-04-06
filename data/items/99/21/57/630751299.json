@@ -1,10 +1,1 @@
-{
-  "internalId": 630751299,
-  "name": "Leyawiin Basket, Hamper Tall",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybasket001.png",
-  "bindType": -1,
-  "knownIds": [
-    175656
-  ]
-}
+{"internalId":630751299,"name":"Leyawiin Basket, Hamper Tall","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybasket001.png","bindType":-1,"knownIds":[175656]}

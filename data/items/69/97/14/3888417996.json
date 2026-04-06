@@ -1,15 +1,1 @@
-{
-  "internalId": 3888417996,
-  "name": "Aetheric Lancer Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1746758,
-    1754229,
-    1773864,
-    1746758,
-    1754229,
-    1773864
-  ]
-}
+{"internalId":3888417996,"name":"Aetheric Lancer Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_waist_a.png","bindType":-1,"knownIds":[1746758,1754229,1773864,1746758,1754229,1773864]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2939243190,
-  "name": "Quartermaster's Secret",
-  "description": "This belt is warm to the touch. A secret compartment within appears large enough to hold three small vials.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1733
-  ]
-}
+{"internalId":2939243190,"name":"Quartermaster's Secret","description":"This belt is warm to the touch. A secret compartment within appears large enough to hold three small vials.","icon":"data/images/d_/ts/ia/gear_dunmer_light_waist_d.png","bindType":2,"knownIds":[1733]}

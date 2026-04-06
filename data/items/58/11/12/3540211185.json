@@ -1,10 +1,1 @@
-{
-  "internalId": 3540211185,
-  "name": "Tree, Murkmire Ossuary",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_mrksithisshrine001.png",
-  "bindType": -1,
-  "knownIds": [
-    153694
-  ]
-}
+{"internalId":3540211185,"name":"Tree, Murkmire Ossuary","description":"This is a large house item.","icon":"data/images/10/0e/ni/housing_tre_fan_mrksithisshrine001.png","bindType":-1,"knownIds":[153694]}

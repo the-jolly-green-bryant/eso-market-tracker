@@ -1,10 +1,1 @@
-{
-  "internalId": 133918137,
-  "name": "Griskild's Tenderizer",
-  "description": "Lady Laurent presented this evil-looking mace to you in token of your mad adventure in the shrine of Bal Fell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_1hhammer_c.png",
-  "bindType": 2,
-  "knownIds": [
-    126042
-  ]
-}
+{"internalId":133918137,"name":"Griskild's Tenderizer","description":"Lady Laurent presented this evil-looking mace to you in token of your mad adventure in the shrine of Bal Fell.","icon":"data/images/c_/re/mm/gear_imperialdaedric_1hhammer_c.png","bindType":2,"knownIds":[126042]}

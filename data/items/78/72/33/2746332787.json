@@ -1,10 +1,1 @@
-{
-  "internalId": 2746332787,
-  "name": "Recipe: Cyrodilic Cornbread",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45958
-  ]
-}
+{"internalId":2746332787,"name":"Recipe: Cyrodilic Cornbread","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45958]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1159514900,
-  "name": "Shield of the Knightmare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80541
-  ]
-}
+{"internalId":1159514900,"name":"Shield of the Knightmare","description":"","icon":"data/images/d_/dl/ei/gear_bosmer_shield_d.png","bindType":2,"knownIds":[80541]}

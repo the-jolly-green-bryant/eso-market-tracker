@@ -1,10 +1,1 @@
-{
-  "internalId": 202500575,
-  "name": "Worm Cult Rug, Red",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_ruglarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    220287
-  ]
-}
+{"internalId":202500575,"name":"Worm Cult Rug, Red","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_ruglarge002.png","bindType":-1,"knownIds":[220287]}

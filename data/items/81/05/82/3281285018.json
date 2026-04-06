@@ -1,10 +1,1 @@
-{
-  "internalId": 3281285018,
-  "name": "On the Nature of Coldharbour",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199296
-  ]
-}
+{"internalId":3281285018,"name":"On the Nature of Coldharbour","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1199296]}

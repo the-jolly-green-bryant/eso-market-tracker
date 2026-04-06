@@ -1,10 +1,1 @@
-{
-  "internalId": 2212406653,
-  "name": "Lamp Knight's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    214057
-  ]
-}
+{"internalId":2212406653,"name":"Lamp Knight's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[214057]}

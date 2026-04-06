@@ -1,10 +1,1 @@
-{
-  "internalId": 971743085,
-  "name": "Brass Hourglass Alarm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png",
-  "bindType": -1,
-  "knownIds": [
-    892831
-  ]
-}
+{"internalId":971743085,"name":"Brass Hourglass Alarm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png","bindType":-1,"knownIds":[892831]}

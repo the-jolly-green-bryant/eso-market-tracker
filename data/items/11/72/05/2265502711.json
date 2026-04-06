@@ -1,15 +1,1 @@
-{
-  "internalId": 2265502711,
-  "name": "Dolorous Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756382,
-    1756431,
-    1771297,
-    1756382,
-    1756431,
-    1771297
-  ]
-}
+{"internalId":2265502711,"name":"Dolorous Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png","bindType":-1,"knownIds":[1756382,1756431,1771297,1756382,1756431,1771297]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1199322755,
-  "name": "Crafter's Limitless Library Volume IV",
-  "description": "Within this book is the knowledge of Crafting Motifs from Necrom and beyond that you do not yet know - but none that you already do. If you know all available crafting styles already, this book does nothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/divineslore_book9.png",
-  "bindType": 3,
-  "knownIds": [
-    204548
-  ]
-}
+{"internalId":1199322755,"name":"Crafter's Limitless Library Volume IV","description":"Within this book is the knowledge of Crafting Motifs from Necrom and beyond that you do not yet know - but none that you already do. If you know all available crafting styles already, this book does nothing.","icon":"https://esoicons.uesp.net/esoui/art/icons/divineslore_book9.png","bindType":3,"knownIds":[204548]}

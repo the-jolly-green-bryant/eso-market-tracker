@@ -1,15 +1,1 @@
-{
-  "internalId": 2038510755,
-  "name": "Pyrebrand Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735152,
-    1736947,
-    1771255,
-    1735152,
-    1736947,
-    1771255
-  ]
-}
+{"internalId":2038510755,"name":"Pyrebrand Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png","bindType":-1,"knownIds":[1735152,1736947,1771255,1735152,1736947,1771255]}

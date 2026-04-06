@@ -1,10 +1,1 @@
-{
-  "internalId": 695983031,
-  "name": "Affix Script: Protection",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_protection.png",
-  "bindType": -1,
-  "knownIds": [
-    204602
-  ]
-}
+{"internalId":695983031,"name":"Affix Script: Protection","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_protection.png","bindType":-1,"knownIds":[204602]}

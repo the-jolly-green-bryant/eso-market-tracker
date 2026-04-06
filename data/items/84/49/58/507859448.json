@@ -1,10 +1,1 @@
-{
-  "internalId": 507859448,
-  "name": "Style Page: Maw of the Infernal's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1392699
-  ]
-}
+{"internalId":507859448,"name":"Style Page: Maw of the Infernal's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1392699]}

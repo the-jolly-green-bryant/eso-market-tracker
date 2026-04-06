@@ -1,10 +1,1 @@
-{
-  "internalId": 3093594972,
-  "name": "Design: Dres Cup, Mazte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    127011
-  ]
-}
+{"internalId":3093594972,"name":"Design: Dres Cup, Mazte","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[127011]}

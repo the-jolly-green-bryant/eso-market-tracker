@@ -1,10 +1,1 @@
-{
-  "internalId": 1494445327,
-  "name": "Crafting Motif 77: Stags of Z'en Style",
-  "description": "Use to learn the Stags of Z'en crafting style. Also teaches the equivalent Stags of Z'en outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    156573
-  ]
-}
+{"internalId":1494445327,"name":"Crafting Motif 77: Stags of Z'en Style","description":"Use to learn the Stags of Z'en crafting style. Also teaches the equivalent Stags of Z'en outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[156573]}

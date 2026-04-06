@@ -1,10 +1,1 @@
-{
-  "internalId": 3826390137,
-  "name": "Sluthrug's Hunger Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1701677
-  ]
-}
+{"internalId":3826390137,"name":"Sluthrug's Hunger Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1701677]}

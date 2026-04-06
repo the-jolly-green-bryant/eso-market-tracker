@@ -1,10 +1,1 @@
-{
-  "internalId": 1611766675,
-  "name": "An Illustrated Guide to Flowers and Their Meanings",
-  "description": "Discover the symbolic meanings and hidden secrets of Tamriel's flowers in this visual guide. Complete with illustrations by famed artist, Amralith Honeyed-Breeze. This gift for Tanlorin is more appreciated when used during Hearts Week.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_tanlorin.png",
-  "bindType": -1,
-  "knownIds": [
-    220372
-  ]
-}
+{"internalId":1611766675,"name":"An Illustrated Guide to Flowers and Their Meanings","description":"Discover the symbolic meanings and hidden secrets of Tamriel's flowers in this visual guide. Complete with illustrations by famed artist, Amralith Honeyed-Breeze. This gift for Tanlorin is more appreciated when used during Hearts Week.","icon":"https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_tanlorin.png","bindType":-1,"knownIds":[220372]}

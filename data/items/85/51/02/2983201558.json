@@ -1,10 +1,1 @@
-{
-  "internalId": 2983201558,
-  "name": "Praxis: Apocrypha Obelisk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    203336
-  ]
-}
+{"internalId":2983201558,"name":"Praxis: Apocrypha Obelisk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[203336]}

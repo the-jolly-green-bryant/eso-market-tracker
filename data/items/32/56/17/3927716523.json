@@ -1,10 +1,1 @@
-{
-  "internalId": 3927716523,
-  "name": "Inferno Staff of the Pariah",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129682
-  ]
-}
+{"internalId":3927716523,"name":"Inferno Staff of the Pariah","description":"","icon":"data/images/a_/ff/at/gear_malacath_staff_a.png","bindType":2,"knownIds":[129682]}

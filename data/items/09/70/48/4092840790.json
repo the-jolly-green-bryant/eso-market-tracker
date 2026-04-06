@@ -1,15 +1,1 @@
-{
-  "internalId": 4092840790,
-  "name": "Monolith of Storms Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1679290,
-    1679928,
-    1763277,
-    1679290,
-    1679928,
-    1763277
-  ]
-}
+{"internalId":4092840790,"name":"Monolith of Storms Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_legs_a.png","bindType":-1,"knownIds":[1679290,1679928,1763277,1679290,1679928,1763277]}

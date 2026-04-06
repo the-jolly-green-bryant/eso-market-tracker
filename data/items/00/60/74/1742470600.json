@@ -1,10 +1,1 @@
-{
-  "internalId": 1742470600,
-  "name": "High Elf Trestle, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tabletrestle003.png",
-  "bindType": -1,
-  "knownIds": [
-    114331
-  ]
-}
+{"internalId":1742470600,"name":"High Elf Trestle, Sturdy","description":"This is a standard house item.","icon":"data/images/30/0e/lt/housing_alt_fur_tabletrestle003.png","bindType":-1,"knownIds":[114331]}

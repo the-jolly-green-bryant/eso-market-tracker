@@ -1,10 +1,1 @@
-{
-  "internalId": 348096595,
-  "name": "Auroran Dust",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_auroran_dust.png",
-  "bindType": -1,
-  "knownIds": [
-    151908
-  ]
-}
+{"internalId":348096595,"name":"Auroran Dust","description":"","icon":"data/images/ts/ud/_n/crafting_auroran_dust.png","bindType":-1,"knownIds":[151908]}

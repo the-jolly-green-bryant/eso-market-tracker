@@ -1,10 +1,1 @@
-{
-  "internalId": 3905763568,
-  "name": "Venomous Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161001
-  ]
-}
+{"internalId":3905763568,"name":"Venomous Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_shoulders_a.png","bindType":2,"knownIds":[161001]}

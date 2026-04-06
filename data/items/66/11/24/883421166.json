@@ -1,10 +1,1 @@
-{
-  "internalId": 883421166,
-  "name": "Five Claws Cards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png",
-  "bindType": -1,
-  "knownIds": [
-    509470
-  ]
-}
+{"internalId":883421166,"name":"Five Claws Cards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png","bindType":-1,"knownIds":[509470]}

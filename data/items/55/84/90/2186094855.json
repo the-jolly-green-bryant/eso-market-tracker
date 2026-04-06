@@ -1,10 +1,1 @@
-{
-  "internalId": 2186094855,
-  "name": "Factotum Arm, Obsolete",
-  "description": "Thick corrosion at the joints makes this arm thoroughly useless.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_exc_junkpile002.png",
-  "bindType": -1,
-  "knownIds": [
-    134405
-  ]
-}
+{"internalId":2186094855,"name":"Factotum Arm, Obsolete","description":"Thick corrosion at the joints makes this arm thoroughly useless.","icon":"data/images/20/0e/li/housing_cwc_exc_junkpile002.png","bindType":-1,"knownIds":[134405]}

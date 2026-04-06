@@ -1,13 +1,1 @@
-{
-  "internalId": 930122360,
-  "name": "Poisoned Blood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_bloodvial001.png",
-  "bindType": -1,
-  "knownIds": [
-    1131073,
-    1153392,
-    1131073,
-    1153392
-  ]
-}
+{"internalId":930122360,"name":"Poisoned Blood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_bloodvial001.png","bindType":-1,"knownIds":[1131073,1153392,1131073,1153392]}

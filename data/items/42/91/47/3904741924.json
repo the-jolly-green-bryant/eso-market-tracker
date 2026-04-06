@@ -1,10 +1,1 @@
-{
-  "internalId": 3904741924,
-  "name": "Praxis: Argonian Mortar and Pestle, Bone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    115809
-  ]
-}
+{"internalId":3904741924,"name":"Praxis: Argonian Mortar and Pestle, Bone","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[115809]}

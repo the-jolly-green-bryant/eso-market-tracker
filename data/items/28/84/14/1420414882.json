@@ -1,10 +1,1 @@
-{
-  "internalId": 1420414882,
-  "name": "Systres' Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186245
-  ]
-}
+{"internalId":1420414882,"name":"Systres' Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[186245]}

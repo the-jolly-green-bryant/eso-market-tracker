@@ -1,10 +1,1 @@
-{
-  "internalId": 184300305,
-  "name": "Mace of Mother's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    75204
-  ]
-}
+{"internalId":184300305,"name":"Mace of Mother's Embrace","description":"","icon":"data/images/a_/re/mm/gear_thievesguildv2_1hhammer_a.png","bindType":2,"knownIds":[75204]}

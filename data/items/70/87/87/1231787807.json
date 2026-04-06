@@ -1,10 +1,1 @@
-{
-  "internalId": 1231787807,
-  "name": "Diagram: Colovian Lantern, Hanging",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    207865
-  ]
-}
+{"internalId":1231787807,"name":"Diagram: Colovian Lantern, Hanging","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[207865]}

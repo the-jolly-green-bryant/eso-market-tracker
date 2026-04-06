@@ -1,10 +1,1 @@
-{
-  "internalId": 986899682,
-  "name": "Chaurus Egg, Dormant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_exc_chaurusqueen001.png",
-  "bindType": -1,
-  "knownIds": [
-    166027
-  ]
-}
+{"internalId":986899682,"name":"Chaurus Egg, Dormant","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_exc_chaurusqueen001.png","bindType":-1,"knownIds":[166027]}

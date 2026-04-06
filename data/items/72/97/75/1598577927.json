@@ -1,10 +1,1 @@
-{
-  "internalId": 1598577927,
-  "name": "Letter, Personal",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png",
-  "bindType": -1,
-  "knownIds": [
-    118487
-  ]
-}
+{"internalId":1598577927,"name":"Letter, Personal","description":"This is a tiny house item.","icon":"data/images/10/0r/ep/housing_bre_inc_paper001.png","bindType":-1,"knownIds":[118487]}

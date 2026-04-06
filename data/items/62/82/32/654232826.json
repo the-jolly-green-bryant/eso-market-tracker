@@ -1,10 +1,1 @@
-{
-  "internalId": 654232826,
-  "name": "Design: Fish, Medium",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119542
-  ]
-}
+{"internalId":654232826,"name":"Design: Fish, Medium","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119542]}

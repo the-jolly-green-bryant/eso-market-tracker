@@ -1,10 +1,1 @@
-{
-  "internalId": 85804985,
-  "name": "Skald-King Jinx Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    801123
-  ]
-}
+{"internalId":85804985,"name":"Skald-King Jinx Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[801123]}

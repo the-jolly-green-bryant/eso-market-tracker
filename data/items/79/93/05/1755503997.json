@@ -1,10 +1,1 @@
-{
-  "internalId": 1755503997,
-  "name": "Woodworker Survey: Stonefalls",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    815626
-  ]
-}
+{"internalId":1755503997,"name":"Woodworker Survey: Stonefalls","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[815626]}

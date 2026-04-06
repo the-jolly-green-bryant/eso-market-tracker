@@ -1,10 +1,1 @@
-{
-  "internalId": 3173842634,
-  "name": "Old Growth Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191973
-  ]
-}
+{"internalId":3173842634,"name":"Old Growth Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[191973]}

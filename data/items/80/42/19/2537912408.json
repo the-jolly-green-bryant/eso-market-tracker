@@ -1,10 +1,1 @@
-{
-  "internalId": 2537912408,
-  "name": "Off-Balance Decanter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1212533
-  ]
-}
+{"internalId":2537912408,"name":"Off-Balance Decanter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[1212533]}

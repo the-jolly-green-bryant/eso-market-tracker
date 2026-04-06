@@ -1,10 +1,1 @@
-{
-  "internalId": 4142557592,
-  "name": "Barrel, Green Dye",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationbarrelc001.png",
-  "bindType": -1,
-  "knownIds": [
-    118310
-  ]
-}
+{"internalId":4142557592,"name":"Barrel, Green Dye","description":"This is a standard house item.","icon":"data/images/10/0c/le/housing_gen_crf_dyestationbarrelc001.png","bindType":-1,"knownIds":[118310]}

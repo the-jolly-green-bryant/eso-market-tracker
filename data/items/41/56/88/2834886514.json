@@ -1,10 +1,1 @@
-{
-  "internalId": 2834886514,
-  "name": "Apocrypha Ink Pestle, Green",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_mortarpestle002.png",
-  "bindType": -1,
-  "knownIds": [
-    198381
-  ]
-}
+{"internalId":2834886514,"name":"Apocrypha Ink Pestle, Green","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_mortarpestle002.png","bindType":-1,"knownIds":[198381]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1479856961,
-  "name": "Orcish Mug, Horn",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_cupbone002.png",
-  "bindType": -1,
-  "knownIds": [
-    116448
-  ]
-}
+{"internalId":1479856961,"name":"Orcish Mug, Horn","description":"This is a small house item.","icon":"data/images/20/0e/no/housing_orc_inc_cupbone002.png","bindType":-1,"knownIds":[116448]}

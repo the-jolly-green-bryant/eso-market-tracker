@@ -1,10 +1,1 @@
-{
-  "internalId": 2837295740,
-  "name": "Indoril Inks: The Art of Dunmer Tattooing",
-  "description": "A book Bastian has been hoping to find for a long time. This gift is more appreciated when used during Hearts Week.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_bastian.png",
-  "bindType": -1,
-  "knownIds": [
-    220260
-  ]
-}
+{"internalId":2837295740,"name":"Indoril Inks: The Art of Dunmer Tattooing","description":"A book Bastian has been hoping to find for a long time. This gift is more appreciated when used during Hearts Week.","icon":"https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_bastian.png","bindType":-1,"knownIds":[220260]}

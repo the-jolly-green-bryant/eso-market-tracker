@@ -1,10 +1,1 @@
-{
-  "internalId": 3259184308,
-  "name": "Covenant Commemorative Saucer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1225186
-  ]
-}
+{"internalId":3259184308,"name":"Covenant Commemorative Saucer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1225186]}

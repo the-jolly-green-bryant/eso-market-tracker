@@ -1,10 +1,1 @@
-{
-  "internalId": 1659169031,
-  "name": "Ayleid Flooring, Stone Small",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingquadblock001.png",
-  "bindType": -1,
-  "knownIds": [
-    212412
-  ]
-}
+{"internalId":1659169031,"name":"Ayleid Flooring, Stone Small","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingquadblock001.png","bindType":-1,"knownIds":[212412]}

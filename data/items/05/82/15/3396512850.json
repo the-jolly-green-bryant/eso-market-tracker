@@ -1,10 +1,1 @@
-{
-  "internalId": 3396512850,
-  "name": "Sea Snake Fang",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_seaserpentfang.png",
-  "bindType": -1,
-  "knownIds": [
-    160575
-  ]
-}
+{"internalId":3396512850,"name":"Sea Snake Fang","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_seaserpentfang.png","bindType":-1,"knownIds":[160575]}

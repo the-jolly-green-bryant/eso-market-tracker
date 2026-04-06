@@ -1,10 +1,1 @@
-{
-  "internalId": 1507740540,
-  "name": "Holding Cell",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_cage002.png",
-  "bindType": -1,
-  "knownIds": [
-    120852
-  ]
-}
+{"internalId":1507740540,"name":"Holding Cell","description":"This is a large house item.","icon":"data/images/20/0e/ga/housing_gen_exc_cage002.png","bindType":-1,"knownIds":[120852]}

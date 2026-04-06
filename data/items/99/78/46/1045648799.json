@@ -1,10 +1,1 @@
-{
-  "internalId": 1045648799,
-  "name": "Netch Oil Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212074
-  ]
-}
+{"internalId":1045648799,"name":"Netch Oil Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_chest_a.png","bindType":2,"knownIds":[212074]}

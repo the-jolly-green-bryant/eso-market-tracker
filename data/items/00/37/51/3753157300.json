@@ -1,10 +1,1 @@
-{
-  "internalId": 3753157300,
-  "name": "Breton Tapestry, Vines",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_tapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    115253
-  ]
-}
+{"internalId":3753157300,"name":"Breton Tapestry, Vines","description":"This is a standard house item.","icon":"data/images/10/0y/rt/housing_bre_inc_tapestry001.png","bindType":-1,"knownIds":[115253]}

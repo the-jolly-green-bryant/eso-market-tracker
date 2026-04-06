@@ -1,10 +1,1 @@
-{
-  "internalId": 2962532328,
-  "name": "Bloodsport Pass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1362614
-  ]
-}
+{"internalId":2962532328,"name":"Bloodsport Pass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_003.png","bindType":-1,"knownIds":[1362614]}

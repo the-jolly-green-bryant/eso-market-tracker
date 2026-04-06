@@ -1,15 +1,1 @@
-{
-  "internalId": 773437016,
-  "name": "Waterlogged Strong Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1146705,
-    1147211,
-    1201729,
-    1146705,
-    1147211,
-    1201729
-  ]
-}
+{"internalId":773437016,"name":"Waterlogged Strong Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[1146705,1147211,1201729,1146705,1147211,1201729]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2956973525,
-  "name": "Attunable Clothier Station, Bound",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletableleatherworking001.png",
-  "bindType": -1,
-  "knownIds": [
-    1335925
-  ]
-}
+{"internalId":2956973525,"name":"Attunable Clothier Station, Bound","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletableleatherworking001.png","bindType":-1,"knownIds":[1335925]}

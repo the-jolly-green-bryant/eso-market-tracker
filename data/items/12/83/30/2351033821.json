@@ -1,10 +1,1 @@
-{
-  "internalId": 2351033821,
-  "name": "Leyawiin Table, Sturdy Square",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowtablesquarelarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    175613
-  ]
-}
+{"internalId":2351033821,"name":"Leyawiin Table, Sturdy Square","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowtablesquarelarge001.png","bindType":-1,"knownIds":[175613]}

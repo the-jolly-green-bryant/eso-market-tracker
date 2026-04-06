@@ -1,10 +1,1 @@
-{
-  "internalId": 671238916,
-  "name": "Dressmaker's Sewing Mannequin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1193573
-  ]
-}
+{"internalId":671238916,"name":"Dressmaker's Sewing Mannequin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png","bindType":-1,"knownIds":[1193573]}

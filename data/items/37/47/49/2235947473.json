@@ -1,10 +1,1 @@
-{
-  "internalId": 2235947473,
-  "name": "Grahtwood CE Treasure Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    682245
-  ]
-}
+{"internalId":2235947473,"name":"Grahtwood CE Treasure Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[682245]}

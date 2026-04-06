@@ -1,10 +1,1 @@
-{
-  "internalId": 1825257533,
-  "name": "Unstable Element Staff of the Fire",
-  "description": "An inferno staff touched by the power of the Flame Monarch herself, won in Balamath.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    81312
-  ]
-}
+{"internalId":1825257533,"name":"Unstable Element Staff of the Fire","description":"An inferno staff touched by the power of the Flame Monarch herself, won in Balamath.","icon":"data/images/a_/ff/at/gear_yokudan_staff_a.png","bindType":2,"knownIds":[81312]}

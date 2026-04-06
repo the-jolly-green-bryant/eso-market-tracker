@@ -1,10 +1,1 @@
-{
-  "internalId": 3556091010,
-  "name": "Umbral Edge Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_2hmace.png",
-  "bindType": -1,
-  "knownIds": [
-    1771293
-  ]
-}
+{"internalId":3556091010,"name":"Umbral Edge Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_2hmace.png","bindType":-1,"knownIds":[1771293]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1093463056,
-  "name": "Pirate Skeleton Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedpirateskeleton_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1696491,
-    1725833,
-    1696491,
-    1725833
-  ]
-}
+{"internalId":1093463056,"name":"Pirate Skeleton Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedpirateskeleton_shoulders_a.png","bindType":-1,"knownIds":[1696491,1725833,1696491,1725833]}

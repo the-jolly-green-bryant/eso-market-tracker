@@ -1,10 +1,1 @@
-{
-  "internalId": 3454107370,
-  "name": "Dragonguard Elite's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155393
-  ]
-}
+{"internalId":3454107370,"name":"Dragonguard Elite's Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_head_a.png","bindType":2,"knownIds":[155393]}

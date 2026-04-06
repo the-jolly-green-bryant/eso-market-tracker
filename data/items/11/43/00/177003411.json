@@ -1,10 +1,1 @@
-{
-  "internalId": 177003411,
-  "name": "Vine Curtain, Festive Flowers",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_abawed004.png",
-  "bindType": -1,
-  "knownIds": [
-    134897
-  ]
-}
+{"internalId":177003411,"name":"Vine Curtain, Festive Flowers","description":"This is a standard house item.","icon":"data/images/40/0d/ew/housing_veg_flr_abawed004.png","bindType":-1,"knownIds":[134897]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 229692969,
-  "name": "Undiscovered Metal Weapon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54761
-  ]
-}
+{"internalId":229692969,"name":"Undiscovered Metal Weapon","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[54761]}

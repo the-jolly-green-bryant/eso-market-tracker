@@ -1,10 +1,1 @@
-{
-  "internalId": 846162819,
-  "name": "Cuirass of Elf Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89960
-  ]
-}
+{"internalId":846162819,"name":"Cuirass of Elf Bane","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[89960]}

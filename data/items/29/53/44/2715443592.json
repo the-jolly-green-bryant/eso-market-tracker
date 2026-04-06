@@ -1,10 +1,1 @@
-{
-  "internalId": 2715443592,
-  "name": "Kyne's Token",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_kynes_talisman.png",
-  "bindType": -1,
-  "knownIds": [
-    1087268
-  ]
-}
+{"internalId":2715443592,"name":"Kyne's Token","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_kynes_talisman.png","bindType":-1,"knownIds":[1087268]}

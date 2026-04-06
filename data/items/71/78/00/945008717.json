@@ -1,10 +1,1 @@
-{
-  "internalId": 945008717,
-  "name": "Eye of the Grasp Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180084
-  ]
-}
+{"internalId":945008717,"name":"Eye of the Grasp Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_staff_a.png","bindType":2,"knownIds":[180084]}

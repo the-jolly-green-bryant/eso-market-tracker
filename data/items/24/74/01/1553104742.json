@@ -1,10 +1,1 @@
-{
-  "internalId": 1553104742,
-  "name": "Fragment of Ash",
-  "description": "Consume Fragment of Ash, along with fragments of the Vents, the Martyr, the Forgotten, the Baron, and the Sunspire, to unlock the Skill Stylist: Puncture achievement and the Puncture, Lavaburst Skill Style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_u42_shattered_shard_fragment.png",
-  "bindType": 3,
-  "knownIds": [
-    211312
-  ]
-}
+{"internalId":1553104742,"name":"Fragment of Ash","description":"Consume Fragment of Ash, along with fragments of the Vents, the Martyr, the Forgotten, the Baron, and the Sunspire, to unlock the Skill Stylist: Puncture achievement and the Puncture, Lavaburst Skill Style.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_u42_shattered_shard_fragment.png","bindType":3,"knownIds":[211312]}

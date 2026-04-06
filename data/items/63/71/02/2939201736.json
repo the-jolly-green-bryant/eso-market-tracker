@@ -1,10 +1,1 @@
-{
-  "internalId": 2939201736,
-  "name": "False Drum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_drum.png",
-  "bindType": -1,
-  "knownIds": [
-    1281323
-  ]
-}
+{"internalId":2939201736,"name":"False Drum","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_drum.png","bindType":-1,"knownIds":[1281323]}

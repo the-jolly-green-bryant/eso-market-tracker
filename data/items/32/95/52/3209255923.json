@@ -1,10 +1,1 @@
-{
-  "internalId": 3209255923,
-  "name": "Shield of the Man-Bull",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_shield_c.png",
-  "bindType": -1,
-  "knownIds": [
-    855482
-  ]
-}
+{"internalId":3209255923,"name":"Shield of the Man-Bull","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_shield_c.png","bindType":-1,"knownIds":[855482]}

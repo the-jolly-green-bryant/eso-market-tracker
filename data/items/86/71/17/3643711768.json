@@ -1,10 +1,1 @@
-{
-  "internalId": 3643711768,
-  "name": "Fiord's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    100212
-  ]
-}
+{"internalId":3643711768,"name":"Fiord's Necklace","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[100212]}

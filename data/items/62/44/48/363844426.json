@@ -1,10 +1,1 @@
-{
-  "internalId": 363844426,
-  "name": "Crafting Motif 81: New Moon Priest Axes",
-  "description": "Use to learn how to make New Moon Priest Axes. Also teaches the equivalent New Moon Priest Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156609
-  ]
-}
+{"internalId":363844426,"name":"Crafting Motif 81: New Moon Priest Axes","description":"Use to learn how to make New Moon Priest Axes. Also teaches the equivalent New Moon Priest Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156609]}

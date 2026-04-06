@@ -1,10 +1,1 @@
-{
-  "internalId": 2426972848,
-  "name": "Deadlands Demolisher's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179521
-  ]
-}
+{"internalId":2426972848,"name":"Deadlands Demolisher's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[179521]}

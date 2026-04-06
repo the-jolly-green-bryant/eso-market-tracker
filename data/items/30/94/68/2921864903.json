@@ -1,10 +1,1 @@
-{
-  "internalId": 2921864903,
-  "name": "Porcelain Teapot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    374218
-  ]
-}
+{"internalId":2921864903,"name":"Porcelain Teapot","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[374218]}

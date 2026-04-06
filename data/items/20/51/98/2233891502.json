@@ -1,10 +1,1 @@
-{
-  "internalId": 2233891502,
-  "name": "Design: Colovian Tray, Honeycomb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    207884
-  ]
-}
+{"internalId":2233891502,"name":"Design: Colovian Tray, Honeycomb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[207884]}

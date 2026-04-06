@@ -1,10 +1,1 @@
-{
-  "internalId": 860468407,
-  "name": "Cuirass of the Storm Knight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86716
-  ]
-}
+{"internalId":860468407,"name":"Cuirass of the Storm Knight","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[86716]}

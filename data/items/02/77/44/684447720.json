@@ -1,17 +1,1 @@
-{
-  "internalId": 684447720,
-  "name": "Lightning Staff of Gryphon's Reprisal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1577412,
-    1580220,
-    1601271,
-    1776244,
-    1577412,
-    1580220,
-    1601271,
-    1776244
-  ]
-}
+{"internalId":684447720,"name":"Lightning Staff of Gryphon's Reprisal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_staff_a.png","bindType":-1,"knownIds":[1577412,1580220,1601271,1776244,1577412,1580220,1601271,1776244]}

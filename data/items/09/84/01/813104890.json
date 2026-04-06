@@ -1,10 +1,1 @@
-{
-  "internalId": 813104890,
-  "name": "Dark Elf Candelabra, Angled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_candelabra001.png",
-  "bindType": -1,
-  "knownIds": [
-    115339
-  ]
-}
+{"internalId":813104890,"name":"Dark Elf Candelabra, Angled","description":"This is a standard house item.","icon":"data/images/10/0a/rb/housing_dun_lsb_candelabra001.png","bindType":-1,"knownIds":[115339]}

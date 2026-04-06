@@ -1,10 +1,1 @@
-{
-  "internalId": 181500217,
-  "name": "Shipment of Leather",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936668
-  ]
-}
+{"internalId":181500217,"name":"Shipment of Leather","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[936668]}

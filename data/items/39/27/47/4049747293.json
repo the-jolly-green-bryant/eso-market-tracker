@@ -1,10 +1,1 @@
-{
-  "internalId": 4049747293,
-  "name": "Darloc Brae's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149580
-  ]
-}
+{"internalId":4049747293,"name":"Darloc Brae's Bow","description":"","icon":"data/images/a_/wo/b_/gear_anequina_bow_a.png","bindType":2,"knownIds":[149580]}

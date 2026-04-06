@@ -1,10 +1,1 @@
-{
-  "internalId": 4001988096,
-  "name": "Recipe: Ginger Wheat Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45993
-  ]
-}
+{"internalId":4001988096,"name":"Recipe: Ginger Wheat Beer","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45993]}

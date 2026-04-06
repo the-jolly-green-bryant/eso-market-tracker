@@ -1,10 +1,1 @@
-{
-  "internalId": 3019273033,
-  "name": "Wool-Filled Pillow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403744
-  ]
-}
+{"internalId":3019273033,"name":"Wool-Filled Pillow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[403744]}

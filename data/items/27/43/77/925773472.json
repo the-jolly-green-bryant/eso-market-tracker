@@ -1,10 +1,1 @@
-{
-  "internalId": 925773472,
-  "name": "Worm Cult Lever, Metal Gate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_gatelever001.png",
-  "bindType": -1,
-  "knownIds": [
-    220303
-  ]
-}
+{"internalId":925773472,"name":"Worm Cult Lever, Metal Gate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_gatelever001.png","bindType":-1,"knownIds":[220303]}

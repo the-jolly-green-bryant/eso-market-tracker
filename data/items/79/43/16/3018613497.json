@@ -1,10 +1,1 @@
-{
-  "internalId": 3018613497,
-  "name": "Argonian Shell Vise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1270658
-  ]
-}
+{"internalId":3018613497,"name":"Argonian Shell Vise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[1270658]}

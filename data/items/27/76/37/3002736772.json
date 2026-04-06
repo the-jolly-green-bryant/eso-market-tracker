@@ -1,10 +1,1 @@
-{
-  "internalId": 3002736772,
-  "name": "Glow Stick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_daedricembers.png",
-  "bindType": -1,
-  "knownIds": [
-    860076
-  ]
-}
+{"internalId":3002736772,"name":"Glow Stick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_daedricembers.png","bindType":-1,"knownIds":[860076]}

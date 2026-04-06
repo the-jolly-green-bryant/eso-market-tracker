@@ -1,10 +1,1 @@
-{
-  "internalId": 277277168,
-  "name": "Seal of Clan Fharun, Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_platefharhunmetal001.png",
-  "bindType": -1,
-  "knownIds": [
-    134448
-  ]
-}
+{"internalId":277277168,"name":"Seal of Clan Fharun, Metal","description":"This is a standard house item.","icon":"data/images/10/0l/at/housing_orc_duc_platefharhunmetal001.png","bindType":-1,"knownIds":[134448]}

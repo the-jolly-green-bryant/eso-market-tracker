@@ -1,10 +1,1 @@
-{
-  "internalId": 1121919102,
-  "name": "Ice Staff of Prayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90574
-  ]
-}
+{"internalId":1121919102,"name":"Ice Staff of Prayer","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[90574]}

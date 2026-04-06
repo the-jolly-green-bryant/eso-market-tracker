@@ -1,10 +1,1 @@
-{
-  "internalId": 1442658901,
-  "name": "Ring of Oakfather's Retribution",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    203901
-  ]
-}
+{"internalId":1442658901,"name":"Ring of Oakfather's Retribution","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[203901]}

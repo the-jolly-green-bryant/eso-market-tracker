@@ -1,10 +1,1 @@
-{
-  "internalId": 4284803478,
-  "name": "Deadlands Brazier",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_dedwayshrinedungeon001.png",
-  "bindType": -1,
-  "knownIds": [
-    203593
-  ]
-}
+{"internalId":4284803478,"name":"Deadlands Brazier","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_dedwayshrinedungeon001.png","bindType":-1,"knownIds":[203593]}

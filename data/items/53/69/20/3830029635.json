@@ -1,17 +1,1 @@
-{
-  "internalId": 3830029635,
-  "name": "splendid glyph of hardening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png",
-  "bindType": -1,
-  "knownIds": [
-    541797,
-    498871,
-    1446703,
-    1446720,
-    541797,
-    498871,
-    1446703,
-    1446720
-  ]
-}
+{"internalId":3830029635,"name":"splendid glyph of hardening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png","bindType":-1,"knownIds":[541797,498871,1446703,1446720,541797,498871,1446703,1446720]}

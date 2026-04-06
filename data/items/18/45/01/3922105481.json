@@ -1,10 +1,1 @@
-{
-  "internalId": 3922105481,
-  "name": "Ring of Grounding",
-  "description": "After a few shocking events, you earned this ring for helping Gathotar catch wamasu lightning.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    29963
-  ]
-}
+{"internalId":3922105481,"name":"Ring of Grounding","description":"After a few shocking events, you earned this ring for helping Gathotar catch wamasu lightning.","icon":"data/images/a_/gn/ir/gear_argonian_ring_a.png","bindType":2,"knownIds":[29963]}

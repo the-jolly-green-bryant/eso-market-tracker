@@ -1,10 +1,1 @@
-{
-  "internalId": 362202764,
-  "name": "Antler Coral, Stout Crimson",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_vivecscoral006.png",
-  "bindType": -1,
-  "knownIds": [
-    145473
-  ]
-}
+{"internalId":362202764,"name":"Antler Coral, Stout Crimson","description":"This is a large house item.","icon":"data/images/60/0l/ar/housing_tre_fan_vivecscoral006.png","bindType":-1,"knownIds":[145473]}

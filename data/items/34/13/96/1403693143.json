@@ -1,10 +1,1 @@
-{
-  "internalId": 1403693143,
-  "name": "Weapons: Hide of Morihaus",
-  "description": "A Heavy Armor set found in Gold Coast.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134063
-  ]
-}
+{"internalId":1403693143,"name":"Weapons: Hide of Morihaus","description":"A Heavy Armor set found in Gold Coast.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134063]}

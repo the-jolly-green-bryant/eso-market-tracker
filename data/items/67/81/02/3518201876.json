@@ -1,10 +1,1 @@
-{
-  "internalId": 3518201876,
-  "name": "Gryphon's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_shield_b.png",
-  "bindType": 2,
-  "knownIds": [
-    135498
-  ]
-}
+{"internalId":3518201876,"name":"Gryphon's Shield","description":"","icon":"data/images/b_/dl/ei/gear_ancient_elf_shield_b.png","bindType":2,"knownIds":[135498]}

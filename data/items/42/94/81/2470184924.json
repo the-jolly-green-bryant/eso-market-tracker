@@ -1,10 +1,1 @@
-{
-  "internalId": 2470184924,
-  "name": "Colovian Wine Barrel, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebarrellarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    204730
-  ]
-}
+{"internalId":2470184924,"name":"Colovian Wine Barrel, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebarrellarge001.png","bindType":-1,"knownIds":[204730]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3024715017,
-  "name": "A Warm Welcome Awaits Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting001.png",
-  "bindType": -1,
-  "knownIds": [
-    165836
-  ]
-}
+{"internalId":3024715017,"name":"A Warm Welcome Awaits Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting001.png","bindType":-1,"knownIds":[165836]}

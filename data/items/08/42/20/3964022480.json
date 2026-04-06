@@ -1,10 +1,1 @@
-{
-  "internalId": 3964022480,
-  "name": "Essence of the Rift",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804489
-  ]
-}
+{"internalId":3964022480,"name":"Essence of the Rift","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[804489]}

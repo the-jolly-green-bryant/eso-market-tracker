@@ -1,13 +1,1 @@
-{
-  "internalId": 2245585018,
-  "name": "Aether Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    570998,
-    940451,
-    570998,
-    940451
-  ]
-}
+{"internalId":2245585018,"name":"Aether Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_hands_a.png","bindType":-1,"knownIds":[570998,940451,570998,940451]}

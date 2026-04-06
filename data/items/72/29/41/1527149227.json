@@ -1,15 +1,1 @@
-{
-  "internalId": 1527149227,
-  "name": "Perfected Null Arca Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1733082,
-    1749842,
-    1764520,
-    1733082,
-    1749842,
-    1764520
-  ]
-}
+{"internalId":1527149227,"name":"Perfected Null Arca Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2haxe_a.png","bindType":-1,"knownIds":[1733082,1749842,1764520,1733082,1749842,1764520]}

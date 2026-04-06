@@ -1,10 +1,1 @@
-{
-  "internalId": 3188629514,
-  "name": "Wyrd Sister Door Stops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_vine_shard_001.png",
-  "bindType": -1,
-  "knownIds": [
-    935328
-  ]
-}
+{"internalId":3188629514,"name":"Wyrd Sister Door Stops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_vine_shard_001.png","bindType":-1,"knownIds":[935328]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2020806402,
-  "name": "Gold Coast Trading Signet Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ring_001.png",
-  "bindType": -1,
-  "knownIds": [
-    899125
-  ]
-}
+{"internalId":2020806402,"name":"Gold Coast Trading Signet Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ring_001.png","bindType":-1,"knownIds":[899125]}

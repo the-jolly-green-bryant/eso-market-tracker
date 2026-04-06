@@ -1,10 +1,1 @@
-{
-  "internalId": 1272530613,
-  "name": "Plant, Harrada Root",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_deadlandsharradaroot003.png",
-  "bindType": -1,
-  "knownIds": [
-    181595
-  ]
-}
+{"internalId":1272530613,"name":"Plant, Harrada Root","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_deadlandsharradaroot003.png","bindType":-1,"knownIds":[181595]}

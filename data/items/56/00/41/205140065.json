@@ -1,10 +1,1 @@
-{
-  "internalId": 205140065,
-  "name": "Recipe: Flowing Bowl Green Port",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68225
-  ]
-}
+{"internalId":205140065,"name":"Recipe: Flowing Bowl Green Port","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68225]}

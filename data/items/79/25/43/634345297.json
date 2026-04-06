@@ -1,10 +1,1 @@
-{
-  "internalId": 634345297,
-  "name": "Dawnwood Container, Bone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_boscrate002.png",
-  "bindType": -1,
-  "knownIds": [
-    211380
-  ]
-}
+{"internalId":634345297,"name":"Dawnwood Container, Bone","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_boscrate002.png","bindType":-1,"knownIds":[211380]}

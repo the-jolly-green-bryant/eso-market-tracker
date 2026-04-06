@@ -1,10 +1,1 @@
-{
-  "internalId": 798808280,
-  "name": "Alchemist Survey: Stonefalls",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    530110
-  ]
-}
+{"internalId":798808280,"name":"Alchemist Survey: Stonefalls","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[530110]}

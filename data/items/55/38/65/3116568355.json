@@ -1,10 +1,1 @@
-{
-  "internalId": 3116568355,
-  "name": "Pattern: Indoril Runner, Sotha Sil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    127038
-  ]
-}
+{"internalId":3116568355,"name":"Pattern: Indoril Runner, Sotha Sil","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[127038]}

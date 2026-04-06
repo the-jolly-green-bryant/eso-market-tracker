@@ -1,11 +1,1 @@
-{
-  "internalId": 4171272981,
-  "name": "Drinking Fabricant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mounted_flightless_bird.png",
-  "bindType": -1,
-  "knownIds": [
-    1196642,
-    1196642
-  ]
-}
+{"internalId":4171272981,"name":"Drinking Fabricant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mounted_flightless_bird.png","bindType":-1,"knownIds":[1196642,1196642]}

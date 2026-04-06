@@ -1,10 +1,1 @@
-{
-  "internalId": 3344361501,
-  "name": "Companion's Jack",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_chest_medium.png",
-  "bindType": 2,
-  "knownIds": [
-    177199
-  ]
-}
+{"internalId":3344361501,"name":"Companion's Jack","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_chest_medium.png","bindType":2,"knownIds":[177199]}

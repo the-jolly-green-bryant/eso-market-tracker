@@ -1,10 +1,1 @@
-{
-  "internalId": 3953245696,
-  "name": "Camonna Tong Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196014
-  ]
-}
+{"internalId":3953245696,"name":"Camonna Tong Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_1hhammer_a.png","bindType":2,"knownIds":[196014]}

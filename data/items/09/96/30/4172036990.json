@@ -1,11 +1,1 @@
-{
-  "internalId": 4172036990,
-  "name": "Cage Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    824211,
-    824211
-  ]
-}
+{"internalId":4172036990,"name":"Cage Key","description":"","icon":null,"bindType":-1,"knownIds":[824211,824211]}

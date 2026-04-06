@@ -1,10 +1,1 @@
-{
-  "internalId": 19350265,
-  "name": "Elsweyr Meal, Roasted Chicken Pieces",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_platewithfood001.png",
-  "bindType": -1,
-  "knownIds": [
-    151631
-  ]
-}
+{"internalId":19350265,"name":"Elsweyr Meal, Roasted Chicken Pieces","description":"This is a small house item.","icon":"data/images/10/0d/oo/housing_els_inc_platewithfood001.png","bindType":-1,"knownIds":[151631]}

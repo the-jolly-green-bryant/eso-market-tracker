@@ -1,10 +1,1 @@
-{
-  "internalId": 2917374629,
-  "name": "Necklace of Akatosh's Blessing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44097
-  ]
-}
+{"internalId":2917374629,"name":"Necklace of Akatosh's Blessing","description":"","icon":"data/images/a_/kc/en/gear_nord_neck_a.png","bindType":2,"knownIds":[44097]}

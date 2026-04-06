@@ -1,10 +1,1 @@
-{
-  "internalId": 658300235,
-  "name": "Champion of the Hist Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142395
-  ]
-}
+{"internalId":658300235,"name":"Champion of the Hist Greaves","description":"","icon":"data/images/a_/sg/el/gear_elderarg_heavy_legs_a.png","bindType":2,"knownIds":[142395]}

@@ -1,14 +1,1 @@
-{
-  "internalId": 3579775798,
-  "name": "Basalt-Blooded Warrior Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678224,
-    1683506,
-    1692306,
-    1692407,
-    1716047
-  ]
-}
+{"internalId":3579775798,"name":"Basalt-Blooded Warrior Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png","bindType":-1,"knownIds":[1678224,1683506,1692306,1692407,1716047]}

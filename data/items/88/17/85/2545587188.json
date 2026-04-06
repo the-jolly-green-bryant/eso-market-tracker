@@ -1,10 +1,1 @@
-{
-  "internalId": 2545587188,
-  "name": "Jewelry: Coup De Grâce",
-  "description": "A Medium Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    219485
-  ]
-}
+{"internalId":2545587188,"name":"Jewelry: Coup De Grâce","description":"A Medium Armor set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[219485]}

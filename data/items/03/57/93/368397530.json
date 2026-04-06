@@ -1,10 +1,1 @@
-{
-  "internalId": 368397530,
-  "name": "Formula: Orcish Mirror, Peaked",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    119121
-  ]
-}
+{"internalId":368397530,"name":"Formula: Orcish Mirror, Peaked","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[119121]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2560195138,
-  "name": "Stygian Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102220
-  ]
-}
+{"internalId":2560195138,"name":"Stygian Bow","description":"","icon":"data/images/a_/wo/b_/gear_draugr_bow_a.png","bindType":2,"knownIds":[102220]}

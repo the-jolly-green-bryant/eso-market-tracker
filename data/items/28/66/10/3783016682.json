@@ -1,10 +1,1 @@
-{
-  "internalId": 3783016682,
-  "name": "Wood Elf Spoon, Decorative",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_spoon001.png",
-  "bindType": -1,
-  "knownIds": [
-    115578
-  ]
-}
+{"internalId":3783016682,"name":"Wood Elf Spoon, Decorative","description":"This is a small house item.","icon":"data/images/10/0n/oo/housing_bos_inc_spoon001.png","bindType":-1,"knownIds":[115578]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3775557355,
-  "name": "Nix-Hound's Howl Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735361,
-    1738502,
-    1765989,
-    1735361,
-    1738502,
-    1765989
-  ]
-}
+{"internalId":3775557355,"name":"Nix-Hound's Howl Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hsword_a.png","bindType":-1,"knownIds":[1735361,1738502,1765989,1735361,1738502,1765989]}

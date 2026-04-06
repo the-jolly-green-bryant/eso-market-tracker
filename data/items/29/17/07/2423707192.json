@@ -1,10 +1,1 @@
-{
-  "internalId": 2423707192,
-  "name": "Blueprint: Murkmire Wall, Corner Curve",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    146009
-  ]
-}
+{"internalId":2423707192,"name":"Blueprint: Murkmire Wall, Corner Curve","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[146009]}

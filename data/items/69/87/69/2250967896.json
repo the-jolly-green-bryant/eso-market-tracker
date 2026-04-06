@@ -1,10 +1,1 @@
-{
-  "internalId": 2250967896,
-  "name": "Bone Carving Tools",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    420963
-  ]
-}
+{"internalId":2250967896,"name":"Bone Carving Tools","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[420963]}

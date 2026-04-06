@@ -1,10 +1,1 @@
-{
-  "internalId": 2599906516,
-  "name": "Simple Gray Banner",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_blankbannergray001.png",
-  "bindType": -1,
-  "knownIds": [
-    118069
-  ]
-}
+{"internalId":2599906516,"name":"Simple Gray Banner","description":"This is a large house item.","icon":"data/images/10/0y/ar/housing_gen_lsb_blankbannergray001.png","bindType":-1,"knownIds":[118069]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2398790093,
-  "name": "Redguard Tent, Rounded Blue",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_cmp_tentset005.png",
-  "bindType": -1,
-  "knownIds": [
-    156649
-  ]
-}
+{"internalId":2398790093,"name":"Redguard Tent, Rounded Blue","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_cmp_tentset005.png","bindType":-1,"knownIds":[156649]}

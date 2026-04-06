@@ -1,10 +1,1 @@
-{
-  "internalId": 1174403444,
-  "name": "Ladies Durzog Skin Purse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    830604
-  ]
-}
+{"internalId":1174403444,"name":"Ladies Durzog Skin Purse","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[830604]}

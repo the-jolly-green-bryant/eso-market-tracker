@@ -1,10 +1,1 @@
-{
-  "internalId": 2361747089,
-  "name": "Trees, Paired Wrothgar Pine",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_wrothgarpinehousing001.png",
-  "bindType": -1,
-  "knownIds": [
-    159459
-  ]
-}
+{"internalId":2361747089,"name":"Trees, Paired Wrothgar Pine","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_wrothgarpinehousing001.png","bindType":-1,"knownIds":[159459]}

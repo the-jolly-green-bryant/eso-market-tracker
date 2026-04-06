@@ -1,10 +1,1 @@
-{
-  "internalId": 4153284105,
-  "name": "Sword of the Potentates",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87842
-  ]
-}
+{"internalId":4153284105,"name":"Sword of the Potentates","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[87842]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3409691556,
-  "name": "average Glyph of Decrease Physical Harm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasephysicaldamage.png",
-  "bindType": -1,
-  "knownIds": [
-    1445991
-  ]
-}
+{"internalId":3409691556,"name":"average Glyph of Decrease Physical Harm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasephysicaldamage.png","bindType":-1,"knownIds":[1445991]}

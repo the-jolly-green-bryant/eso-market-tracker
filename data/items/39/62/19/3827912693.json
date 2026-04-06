@@ -1,10 +1,1 @@
-{
-  "internalId": 3827912693,
-  "name": "Ice Furnace Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86519
-  ]
-}
+{"internalId":3827912693,"name":"Ice Furnace Pauldron","description":"","icon":"data/images/d_/sr/ed/gear_redguard_heavy_shoulders_d.png","bindType":2,"knownIds":[86519]}

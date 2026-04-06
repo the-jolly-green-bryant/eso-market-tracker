@@ -1,10 +1,1 @@
-{
-  "internalId": 3203086910,
-  "name": "High Isle Treasure Map III",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    187673
-  ]
-}
+{"internalId":3203086910,"name":"High Isle Treasure Map III","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[187673]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1274295276,
-  "name": "Tree, Tall Autumn Conical Cypress",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_italiancypress003.png",
-  "bindType": -1,
-  "knownIds": [
-    204764
-  ]
-}
+{"internalId":1274295276,"name":"Tree, Tall Autumn Conical Cypress","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_italiancypress003.png","bindType":-1,"knownIds":[204764]}

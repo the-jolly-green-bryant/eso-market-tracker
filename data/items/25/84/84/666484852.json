@@ -1,10 +1,1 @@
-{
-  "internalId": 666484852,
-  "name": "Blueprint: Horn, Ritual",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119490
-  ]
-}
+{"internalId":666484852,"name":"Blueprint: Horn, Ritual","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[119490]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 186889626,
-  "name": "Karthwatch Walking Boots",
-  "description": "Boots once worn by the soldiers of Karthwatch, awarded for helping the town's survivors.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159705
-  ]
-}
+{"internalId":186889626,"name":"Karthwatch Walking Boots","description":"Boots once worn by the soldiers of Karthwatch, awarded for helping the town's survivors.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_feet_d.png","bindType":2,"knownIds":[159705]}

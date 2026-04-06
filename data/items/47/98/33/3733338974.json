@@ -1,10 +1,1 @@
-{
-  "internalId": 3733338974,
-  "name": "Horse-Folk of Silverhoof",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1418327
-  ]
-}
+{"internalId":3733338974,"name":"Horse-Folk of Silverhoof","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1418327]}

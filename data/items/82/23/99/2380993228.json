@@ -1,10 +1,1 @@
-{
-  "internalId": 2380993228,
-  "name": "Dwarven Lamp, Cylinder Cage",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markhanginglanterns002.png",
-  "bindType": -1,
-  "knownIds": [
-    171334
-  ]
-}
+{"internalId":2380993228,"name":"Dwarven Lamp, Cylinder Cage","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markhanginglanterns002.png","bindType":-1,"knownIds":[171334]}

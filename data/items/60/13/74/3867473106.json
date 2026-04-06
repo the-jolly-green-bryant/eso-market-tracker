@@ -1,10 +1,1 @@
-{
-  "internalId": 3867473106,
-  "name": "Necklace of Alteration Mastery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    91372
-  ]
-}
+{"internalId":3867473106,"name":"Necklace of Alteration Mastery","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[91372]}

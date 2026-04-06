@@ -1,10 +1,1 @@
-{
-  "internalId": 1418837203,
-  "name": "Leyawiin Doorway, Wooden Frame",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leydoorwayint002.png",
-  "bindType": -1,
-  "knownIds": [
-    181519
-  ]
-}
+{"internalId":1418837203,"name":"Leyawiin Doorway, Wooden Frame","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leydoorwayint002.png","bindType":-1,"knownIds":[181519]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2280934151,
-  "name": "Crafting Motif 96: Arkthzand Armory Axes",
-  "description": "Use to learn how to make Arkthzand Armory Axes. Also teaches the equivalent Arkthzand Armory Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167961
-  ]
-}
+{"internalId":2280934151,"name":"Crafting Motif 96: Arkthzand Armory Axes","description":"Use to learn how to make Arkthzand Armory Axes. Also teaches the equivalent Arkthzand Armory Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167961]}

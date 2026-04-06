@@ -1,10 +1,1 @@
-{
-  "internalId": 2008330782,
-  "name": "Mundus Stone - the Lord",
-  "description": "A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Lord.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ability_mundusstones_007.png",
-  "bindType": 3,
-  "knownIds": [
-    211326
-  ]
-}
+{"internalId":2008330782,"name":"Mundus Stone - the Lord","description":"A fragment of a Mundus Stone. When used will remove all existing Mundus Stone buffs and grant The Lord.","icon":"https://esoicons.uesp.net/esoui/art/icons/ability_mundusstones_007.png","bindType":3,"knownIds":[211326]}

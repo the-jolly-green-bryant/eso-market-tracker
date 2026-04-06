@@ -1,10 +1,1 @@
-{
-  "internalId": 3412311595,
-  "name": "pufferfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    521103
-  ]
-}
+{"internalId":3412311595,"name":"pufferfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[521103]}

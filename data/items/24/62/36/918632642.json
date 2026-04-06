@@ -1,10 +1,1 @@
-{
-  "internalId": 918632642,
-  "name": "Corn Flower",
-  "description": "An ingredient for crafting potions.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_corn_flower_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    30161
-  ]
-}
+{"internalId":918632642,"name":"Corn Flower","description":"An ingredient for crafting potions.","icon":"data/images/1r/_r/ew/crafting_flower_corn_flower_r1.png","bindType":-1,"knownIds":[30161]}

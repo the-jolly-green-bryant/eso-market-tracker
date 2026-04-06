@@ -1,11 +1,1 @@
-{
-  "internalId": 4254158508,
-  "name": "Stout Grass Rope",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    377638,
-    377638
-  ]
-}
+{"internalId":4254158508,"name":"Stout Grass Rope","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png","bindType":-1,"knownIds":[377638,377638]}

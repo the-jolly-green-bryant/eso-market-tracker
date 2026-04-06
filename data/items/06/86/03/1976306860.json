@@ -1,10 +1,1 @@
-{
-  "internalId": 1976306860,
-  "name": "Druidic Dresser, Open Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonedresser001.png",
-  "bindType": -1,
-  "knownIds": [
-    191171
-  ]
-}
+{"internalId":1976306860,"name":"Druidic Dresser, Open Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonedresser001.png","bindType":-1,"knownIds":[191171]}

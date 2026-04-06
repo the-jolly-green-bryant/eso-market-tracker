@@ -1,10 +1,1 @@
-{
-  "internalId": 4203962279,
-  "name": "Stibbons's Slime-Covered Spaulders",
-  "description": "A set of light shoulder armor found in the depths of the Glenbridge Xanmeer while helping save Lady Laurent's manservant, Stibbons, from a sorcerous voriplasm.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_light_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    174862
-  ]
-}
+{"internalId":4203962279,"name":"Stibbons's Slime-Covered Spaulders","description":"A set of light shoulder armor found in the depths of the Glenbridge Xanmeer while helping save Lady Laurent's manservant, Stibbons, from a sorcerous voriplasm.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_light_shoulder_a.png","bindType":2,"knownIds":[174862]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1753291360,
-  "name": "Murkmire Spice Grinder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    655190
-  ]
-}
+{"internalId":1753291360,"name":"Murkmire Spice Grinder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[655190]}

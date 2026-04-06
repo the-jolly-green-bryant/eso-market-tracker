@@ -1,10 +1,1 @@
-{
-  "internalId": 1324679720,
-  "name": "Pearly White Tooth Veneer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1384938
-  ]
-}
+{"internalId":1324679720,"name":"Pearly White Tooth Veneer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1384938]}

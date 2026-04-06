@@ -1,10 +1,1 @@
-{
-  "internalId": 2604359565,
-  "name": "Portent of Wealth",
-  "description": "An ingredient for the Tonic of Portent Favor found while pledged to the Glittering Goad Faction.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_gem_orange.png",
-  "bindType": -1,
-  "knownIds": [
-    224837
-  ]
-}
+{"internalId":2604359565,"name":"Portent of Wealth","description":"An ingredient for the Tonic of Portent Favor found while pledged to the Glittering Goad Faction.","icon":"data/images/eg/na/ro/item_u44_gem_orange.png","bindType":-1,"knownIds":[224837]}

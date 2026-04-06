@@ -1,10 +1,1 @@
-{
-  "internalId": 1966700273,
-  "name": "Dagger of Unfathomable Darkness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133187
-  ]
-}
+{"internalId":1966700273,"name":"Dagger of Unfathomable Darkness","description":"","icon":"data/images/a_/re/gg/gear_nocturnal_dagger_a.png","bindType":2,"knownIds":[133187]}

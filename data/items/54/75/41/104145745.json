@@ -1,10 +1,1 @@
-{
-  "internalId": 104145745,
-  "name": "Dwarven Piston Cylinder",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_housingpiston001.png",
-  "bindType": -1,
-  "knownIds": [
-    125537
-  ]
-}
+{"internalId":104145745,"name":"Dwarven Piston Cylinder","description":"This is a standard house item.","icon":"data/images/10/0n/ot/housing_dwe_duc_housingpiston001.png","bindType":-1,"knownIds":[125537]}

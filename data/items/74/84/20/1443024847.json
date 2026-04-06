@@ -1,10 +1,1 @@
-{
-  "internalId": 1443024847,
-  "name": "Grothdarr Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedfleshatronach_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720023
-  ]
-}
+{"internalId":1443024847,"name":"Grothdarr Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedfleshatronach_shoulders_a.png","bindType":-1,"knownIds":[1720023]}

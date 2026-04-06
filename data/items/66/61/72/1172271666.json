@@ -1,10 +1,1 @@
-{
-  "internalId": 1172271666,
-  "name": "Rough Tarp, Oversized",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_shantytarplarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    117966
-  ]
-}
+{"internalId":1172271666,"name":"Rough Tarp, Oversized","description":"This is a standard house item.","icon":"data/images/10/0e/gr/housing_bre_cmp_shantytarplarge001.png","bindType":-1,"knownIds":[117966]}

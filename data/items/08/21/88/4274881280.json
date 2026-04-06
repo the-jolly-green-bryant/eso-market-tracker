@@ -1,10 +1,1 @@
-{
-  "internalId": 4274881280,
-  "name": "Innate Axiom Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    130698
-  ]
-}
+{"internalId":4274881280,"name":"Innate Axiom Cuirass","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[130698]}

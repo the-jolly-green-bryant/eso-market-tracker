@@ -1,10 +1,1 @@
-{
-  "internalId": 1245321104,
-  "name": "Prowling Shadow Tapestry, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryprowlingshadowlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    188281
-  ]
-}
+{"internalId":1245321104,"name":"Prowling Shadow Tapestry, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryprowlingshadowlarge001.png","bindType":-1,"knownIds":[188281]}

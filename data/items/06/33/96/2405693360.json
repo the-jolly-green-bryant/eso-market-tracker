@@ -1,10 +1,1 @@
-{
-  "internalId": 2405693360,
-  "name": "Colovian Wine, Basketed",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winewickerbottle005.png",
-  "bindType": -1,
-  "knownIds": [
-    204709
-  ]
-}
+{"internalId":2405693360,"name":"Colovian Wine, Basketed","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winewickerbottle005.png","bindType":-1,"knownIds":[204709]}

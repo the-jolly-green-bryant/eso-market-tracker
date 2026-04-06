@@ -1,10 +1,1 @@
-{
-  "internalId": 218094738,
-  "name": "Nord Drinking Drum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    1369580
-  ]
-}
+{"internalId":218094738,"name":"Nord Drinking Drum","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[1369580]}

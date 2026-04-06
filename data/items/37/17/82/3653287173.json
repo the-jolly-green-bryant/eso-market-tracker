@@ -1,10 +1,1 @@
-{
-  "internalId": 3653287173,
-  "name": "Wasp Netting",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png",
-  "bindType": -1,
-  "knownIds": [
-    420799
-  ]
-}
+{"internalId":3653287173,"name":"Wasp Netting","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png","bindType":-1,"knownIds":[420799]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2026814173,
-  "name": "Slow-Running Hourglass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png",
-  "bindType": -1,
-  "knownIds": [
-    497195
-  ]
-}
+{"internalId":2026814173,"name":"Slow-Running Hourglass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png","bindType":-1,"knownIds":[497195]}

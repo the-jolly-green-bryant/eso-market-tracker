@@ -1,10 +1,1 @@
-{
-  "internalId": 2481524859,
-  "name": "Raw Spidersilk",
-  "description": "Ten of these items can be refined to make spidersilk.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_standard_f_004.png",
-  "bindType": -1,
-  "knownIds": [
-    23130
-  ]
-}
+{"internalId":2481524859,"name":"Raw Spidersilk","description":"Ten of these items can be refined to make spidersilk.","icon":"data/images/40/0_/f_/crafting_light_armor_standard_f_004.png","bindType":-1,"knownIds":[23130]}

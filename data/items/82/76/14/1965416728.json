@@ -1,10 +1,1 @@
-{
-  "internalId": 1965416728,
-  "name": "Gloves of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167759
-  ]
-}
+{"internalId":1965416728,"name":"Gloves of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_hands_a.png","bindType":2,"knownIds":[167759]}

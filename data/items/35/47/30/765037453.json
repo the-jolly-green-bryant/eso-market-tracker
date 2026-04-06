@@ -1,10 +1,1 @@
-{
-  "internalId": 765037453,
-  "name": "Pattern: Wood Elf Tapestry, Vine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115898
-  ]
-}
+{"internalId":765037453,"name":"Pattern: Wood Elf Tapestry, Vine","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115898]}

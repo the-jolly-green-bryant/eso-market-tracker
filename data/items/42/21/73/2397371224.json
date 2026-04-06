@@ -1,13 +1,1 @@
-{
-  "internalId": 2397371224,
-  "name": "slight glyph of flame resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_fireresist.png",
-  "bindType": -1,
-  "knownIds": [
-    751107,
-    1445351,
-    751107,
-    1445351
-  ]
-}
+{"internalId":2397371224,"name":"slight glyph of flame resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_fireresist.png","bindType":-1,"knownIds":[751107,1445351,751107,1445351]}

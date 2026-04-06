@@ -1,10 +1,1 @@
-{
-  "internalId": 3756159137,
-  "name": "Solitude Post, Stone Wall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumpost001.png",
-  "bindType": -1,
-  "knownIds": [
-    167315
-  ]
-}
+{"internalId":3756159137,"name":"Solitude Post, Stone Wall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumpost001.png","bindType":-1,"knownIds":[167315]}

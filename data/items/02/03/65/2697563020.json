@@ -1,10 +1,1 @@
-{
-  "internalId": 2697563020,
-  "name": "Lingweloce",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png",
-  "bindType": -1,
-  "knownIds": [
-    1241099
-  ]
-}
+{"internalId":2697563020,"name":"Lingweloce","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png","bindType":-1,"knownIds":[1241099]}

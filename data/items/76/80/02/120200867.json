@@ -1,10 +1,1 @@
-{
-  "internalId": 120200867,
-  "name": "Battalion Defender Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144988
-  ]
-}
+{"internalId":120200867,"name":"Battalion Defender Greaves","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[144988]}

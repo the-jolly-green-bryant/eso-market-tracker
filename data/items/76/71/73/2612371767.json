@@ -1,10 +1,1 @@
-{
-  "internalId": 2612371767,
-  "name": "Corn Pads",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
-  "bindType": -1,
-  "knownIds": [
-    863469
-  ]
-}
+{"internalId":2612371767,"name":"Corn Pads","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png","bindType":-1,"knownIds":[863469]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1515967731,
-  "name": "Crafting Motif 98: House Hexos Boots",
-  "description": "Use to learn how to make House Hexos Boots. Also teaches the equivalent House Hexos Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    170134
-  ]
-}
+{"internalId":1515967731,"name":"Crafting Motif 98: House Hexos Boots","description":"Use to learn how to make House Hexos Boots. Also teaches the equivalent House Hexos Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[170134]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2981128297,
-  "name": "Siren's Call of Necropotence",
-  "description": "A bow awarded for defeating the Nereid, Desuuga the Siren.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42973
-  ]
-}
+{"internalId":2981128297,"name":"Siren's Call of Necropotence","description":"A bow awarded for defeating the Nereid, Desuuga the Siren.","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[42973]}

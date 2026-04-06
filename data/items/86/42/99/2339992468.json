@@ -1,10 +1,1 @@
-{
-  "internalId": 2339992468,
-  "name": "Unidentified Jewelry Crafter Survey Report",
-  "description": "This envelope contains a Crafter Survey Report.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_envelope_string_brown.png",
-  "bindType": -1,
-  "knownIds": [
-    219854
-  ]
-}
+{"internalId":2339992468,"name":"Unidentified Jewelry Crafter Survey Report","description":"This envelope contains a Crafter Survey Report.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u47_envelope_string_brown.png","bindType":-1,"knownIds":[219854]}

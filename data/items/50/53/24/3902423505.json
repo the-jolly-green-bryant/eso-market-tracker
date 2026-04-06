@@ -1,10 +1,1 @@
-{
-  "internalId": 3902423505,
-  "name": "Cloudkeeper's Cap",
-  "description": "For one who walked above the clouds at Forelhost and recovered a shard of Ysgramor's axe Wuuthrad.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    11008
-  ]
-}
+{"internalId":3902423505,"name":"Cloudkeeper's Cap","description":"For one who walked above the clouds at Forelhost and recovered a shard of Ysgramor's axe Wuuthrad.","icon":"data/images/d_/da/eh/gear_nord_light_head_d.png","bindType":2,"knownIds":[11008]}

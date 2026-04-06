@@ -1,10 +1,1 @@
-{
-  "internalId": 2713414758,
-  "name": "Belly-Scales of the Viper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56876
-  ]
-}
+{"internalId":2713414758,"name":"Belly-Scales of the Viper","description":"","icon":"data/images/d_/ts/eh/gear_argonian_medium_chest_d.png","bindType":2,"knownIds":[56876]}

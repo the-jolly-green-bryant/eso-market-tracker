@@ -1,10 +1,1 @@
-{
-  "internalId": 3361174086,
-  "name": "Inferno Staff of Mother's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    75211
-  ]
-}
+{"internalId":3361174086,"name":"Inferno Staff of Mother's Embrace","description":"","icon":"data/images/a_/ff/at/gear_thievesguildv2_staff_a.png","bindType":2,"knownIds":[75211]}

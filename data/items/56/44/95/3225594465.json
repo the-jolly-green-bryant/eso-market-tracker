@@ -1,10 +1,1 @@
-{
-  "internalId": 3225594465,
-  "name": "Praxis: Argonian Relic, Serpent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    115814
-  ]
-}
+{"internalId":3225594465,"name":"Praxis: Argonian Relic, Serpent","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[115814]}

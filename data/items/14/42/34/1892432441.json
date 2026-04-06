@@ -1,10 +1,1 @@
-{
-  "internalId": 1892432441,
-  "name": "Apocrypha Tree, Branched Green Spore",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_sporetree003.png",
-  "bindType": -1,
-  "knownIds": [
-    198469
-  ]
-}
+{"internalId":1892432441,"name":"Apocrypha Tree, Branched Green Spore","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_sporetree003.png","bindType":-1,"knownIds":[198469]}

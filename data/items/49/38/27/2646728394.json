@@ -1,10 +1,1 @@
-{
-  "internalId": 2646728394,
-  "name": "Bottle, Wine",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_wine001.png",
-  "bindType": -1,
-  "knownIds": [
-    118197
-  ]
-}
+{"internalId":2646728394,"name":"Bottle, Wine","description":"This is a tiny house item.","icon":"data/images/10/0e/ni/housing_bre_inc_wine001.png","bindType":-1,"knownIds":[118197]}

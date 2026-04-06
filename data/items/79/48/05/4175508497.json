@@ -1,10 +1,1 @@
-{
-  "internalId": 4175508497,
-  "name": "Breton Pitcher, Clay",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_pitcher002.png",
-  "bindType": -1,
-  "knownIds": [
-    120413
-  ]
-}
+{"internalId":4175508497,"name":"Breton Pitcher, Clay","description":"This is a small house item.","icon":"data/images/20/0r/eh/housing_bre_inc_pitcher002.png","bindType":-1,"knownIds":[120413]}

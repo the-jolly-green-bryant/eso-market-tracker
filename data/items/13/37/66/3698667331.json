@@ -1,10 +1,1 @@
-{
-  "internalId": 3698667331,
-  "name": "Design: Redguard Pot, Capped",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    119131
-  ]
-}
+{"internalId":3698667331,"name":"Design: Redguard Pot, Capped","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[119131]}

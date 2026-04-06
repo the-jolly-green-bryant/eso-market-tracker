@@ -1,10 +1,1 @@
-{
-  "internalId": 340980804,
-  "name": "Druidic Pillar, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_druwallmedpost001.png",
-  "bindType": -1,
-  "knownIds": [
-    193822
-  ]
-}
+{"internalId":340980804,"name":"Druidic Pillar, Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_druwallmedpost001.png","bindType":-1,"knownIds":[193822]}

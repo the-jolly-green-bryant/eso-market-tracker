@@ -1,10 +1,1 @@
-{
-  "internalId": 1761863579,
-  "name": "Mother Mara's Savory Rabbit Stew Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    442666
-  ]
-}
+{"internalId":1761863579,"name":"Mother Mara's Savory Rabbit Stew Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[442666]}

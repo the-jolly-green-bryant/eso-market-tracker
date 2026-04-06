@@ -1,10 +1,1 @@
-{
-  "internalId": 3910751006,
-  "name": "Pirate's Jig Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37952
-  ]
-}
+{"internalId":3910751006,"name":"Pirate's Jig Tonic","description":"","icon":"data/images/20/0_/el/crafting_stoneware_bottle_002.png","bindType":-1,"knownIds":[37952]}

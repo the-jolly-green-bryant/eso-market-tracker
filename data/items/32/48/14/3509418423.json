@@ -1,10 +1,1 @@
-{
-  "internalId": 3509418423,
-  "name": "Redguard Carpet, Dunes",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsquare002.png",
-  "bindType": -1,
-  "knownIds": [
-    117737
-  ]
-}
+{"internalId":3509418423,"name":"Redguard Carpet, Dunes","description":"This is a standard house item.","icon":"data/images/20/0e/ra/housing_red_inc_rugsquare002.png","bindType":-1,"knownIds":[117737]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 265464948,
-  "name": "Lightning Staff of Serpent's Disdain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185496
-  ]
-}
+{"internalId":265464948,"name":"Lightning Staff of Serpent's Disdain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[185496]}

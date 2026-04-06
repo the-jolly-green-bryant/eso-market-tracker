@@ -1,10 +1,1 @@
-{
-  "internalId": 1094155561,
-  "name": "Redguard Nightstand, Florid",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_nightstand001.png",
-  "bindType": -1,
-  "knownIds": [
-    117717
-  ]
-}
+{"internalId":1094155561,"name":"Redguard Nightstand, Florid","description":"This is a standard house item.","icon":"data/images/10/0d/na/housing_red_fur_nightstand001.png","bindType":-1,"knownIds":[117717]}

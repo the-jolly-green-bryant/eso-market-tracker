@@ -1,10 +1,1 @@
-{
-  "internalId": 3400624193,
-  "name": "Threads of War Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206489
-  ]
-}
+{"internalId":3400624193,"name":"Threads of War Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[206489]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2978221761,
-  "name": "Banner, Packs",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_bannervendormerchantmed001.png",
-  "bindType": -1,
-  "knownIds": [
-    153700
-  ]
-}
+{"internalId":2978221761,"name":"Banner, Packs","description":"This is a standard house item.","icon":"data/images/10/0d/em/housing_gen_lsb_bannervendormerchantmed001.png","bindType":-1,"knownIds":[153700]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2235227590,
-  "name": "Alinor Column, Slender Timeworn",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_hallpartscollar001.png",
-  "bindType": -1,
-  "knownIds": [
-    139179
-  ]
-}
+{"internalId":2235227590,"name":"Alinor Column, Slender Timeworn","description":"This is a large house item.","icon":"data/images/10/0r/al/housing_sum_duc_hallpartscollar001.png","bindType":-1,"knownIds":[139179]}

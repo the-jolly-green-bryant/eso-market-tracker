@@ -1,10 +1,1 @@
-{
-  "internalId": 3645668914,
-  "name": "Fabricant Trees, Clustered Maple",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_clkhighrock004.png",
-  "bindType": -1,
-  "knownIds": [
-    134307
-  ]
-}
+{"internalId":3645668914,"name":"Fabricant Trees, Clustered Maple","description":"This is a large house item.","icon":"data/images/40/0k/co/housing_tre_fan_clkhighrock004.png","bindType":-1,"knownIds":[134307]}

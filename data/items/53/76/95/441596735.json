@@ -1,10 +1,1 @@
-{
-  "internalId": 441596735,
-  "name": "Deadlands Lightning Rod, Crescent",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_sllightningrod005.png",
-  "bindType": -1,
-  "knownIds": [
-    182255
-  ]
-}
+{"internalId":441596735,"name":"Deadlands Lightning Rod, Crescent","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_sllightningrod005.png","bindType":-1,"knownIds":[182255]}

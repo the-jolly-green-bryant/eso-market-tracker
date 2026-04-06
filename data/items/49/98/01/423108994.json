@@ -1,10 +1,1 @@
-{
-  "internalId": 423108994,
-  "name": "Greaves of Corruption's End",
-  "description": "A parting gift from Tree-Minder Nexith after you helped him get rid of the Daedric Miasma in Xal Ithix.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7462
-  ]
-}
+{"internalId":423108994,"name":"Greaves of Corruption's End","description":"A parting gift from Tree-Minder Nexith after you helped him get rid of the Daedric Miasma in Xal Ithix.","icon":"data/images/d_/sg/el/gear_altmer_heavy_legs_d.png","bindType":2,"knownIds":[7462]}

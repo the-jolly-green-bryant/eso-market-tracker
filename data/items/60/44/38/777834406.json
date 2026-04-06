@@ -1,17 +1,1 @@
-{
-  "internalId": 777834406,
-  "name": "Langour of Peryite Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1608685,
-    1612097,
-    1629504,
-    1641374,
-    1608685,
-    1612097,
-    1629504,
-    1641374
-  ]
-}
+{"internalId":777834406,"name":"Langour of Peryite Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":-1,"knownIds":[1608685,1612097,1629504,1641374,1608685,1612097,1629504,1641374]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1432571189,
-  "name": "Iceheart Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedatronach_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1689662,
-    1715745,
-    1689662,
-    1715745
-  ]
-}
+{"internalId":1432571189,"name":"Iceheart Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedatronach_shoulders_a.png","bindType":-1,"knownIds":[1689662,1715745,1689662,1715745]}

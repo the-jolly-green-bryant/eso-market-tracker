@@ -1,10 +1,1 @@
-{
-  "internalId": 2731605600,
-  "name": "Pattern: Tide-Born Basket, Shell-Topped",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    217525
-  ]
-}
+{"internalId":2731605600,"name":"Pattern: Tide-Born Basket, Shell-Topped","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[217525]}

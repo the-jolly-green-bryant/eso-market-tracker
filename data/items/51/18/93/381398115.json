@@ -1,10 +1,1 @@
-{
-  "internalId": 381398115,
-  "name": "Imperial Banner, Kyne",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_tapestrykynemediuma003.png",
-  "bindType": -1,
-  "knownIds": [
-    94095
-  ]
-}
+{"internalId":381398115,"name":"Imperial Banner, Kyne","description":"This is a large house item.","icon":"data/images/30/0a/mu/housing_imp_inc_tapestrykynemediuma003.png","bindType":-1,"knownIds":[94095]}

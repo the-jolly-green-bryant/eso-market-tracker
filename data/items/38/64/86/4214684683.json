@@ -1,11 +1,1 @@
-{
-  "internalId": 4214684683,
-  "name": "Shipment of Cloth I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1303604,
-    1303604
-  ]
-}
+{"internalId":4214684683,"name":"Shipment of Cloth I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1303604,1303604]}

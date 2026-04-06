@@ -1,10 +1,1 @@
-{
-  "internalId": 1616641918,
-  "name": "Breton Vase, Ceramic",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_vasemediumnodirt001.png",
-  "bindType": -1,
-  "knownIds": [
-    115173
-  ]
-}
+{"internalId":1616641918,"name":"Breton Vase, Ceramic","description":"This is a small house item.","icon":"data/images/10/0t/ri/housing_bre_inc_vasemediumnodirt001.png","bindType":-1,"knownIds":[115173]}

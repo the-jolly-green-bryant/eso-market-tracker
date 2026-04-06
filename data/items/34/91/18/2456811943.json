@@ -1,10 +1,1 @@
-{
-  "internalId": 2456811943,
-  "name": "Sword-Singer's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99428
-  ]
-}
+{"internalId":2456811943,"name":"Sword-Singer's Battle Axe","description":"","icon":"data/images/d_/ex/ah/gear_redguard_2haxe_d.png","bindType":2,"knownIds":[99428]}

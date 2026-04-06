@@ -1,10 +1,1 @@
-{
-  "internalId": 2243662647,
-  "name": "Tracker's Lash Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    210516
-  ]
-}
+{"internalId":2243662647,"name":"Tracker's Lash Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[210516]}

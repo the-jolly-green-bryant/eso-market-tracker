@@ -1,13 +1,1 @@
-{
-  "internalId": 983952524,
-  "name": "Black Gem Monstrosity's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764844,
-    1766006,
-    1764844,
-    1766006
-  ]
-}
+{"internalId":983952524,"name":"Black Gem Monstrosity's Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_shoulder_a.png","bindType":-1,"knownIds":[1764844,1766006,1764844,1766006]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2525911566,
-  "name": "Meridia's Charm of the Dawn",
-  "description": "Meridia created this token from the first light of dawn at the height of summer.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54729
-  ]
-}
+{"internalId":2525911566,"name":"Meridia's Charm of the Dawn","description":"Meridia created this token from the first light of dawn at the height of summer.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[54729]}

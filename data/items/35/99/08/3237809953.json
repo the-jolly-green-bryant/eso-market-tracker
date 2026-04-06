@@ -1,10 +1,1 @@
-{
-  "internalId": 3237809953,
-  "name": "Skull, Dragon",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_dragonskull001.png",
-  "bindType": -1,
-  "knownIds": [
-    118797
-  ]
-}
+{"internalId":3237809953,"name":"Skull, Dragon","description":"This is a standard house item.","icon":"data/images/10/0l/lu/housing_gen_exc_dragonskull001.png","bindType":-1,"knownIds":[118797]}

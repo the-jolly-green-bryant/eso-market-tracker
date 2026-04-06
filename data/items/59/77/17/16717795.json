@@ -1,10 +1,1 @@
-{
-  "internalId": 16717795,
-  "name": "Errinorne Valet's Two-Way Hand Mirror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mirror_001.png",
-  "bindType": -1,
-  "knownIds": [
-    732852
-  ]
-}
+{"internalId":16717795,"name":"Errinorne Valet's Two-Way Hand Mirror","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mirror_001.png","bindType":-1,"knownIds":[732852]}

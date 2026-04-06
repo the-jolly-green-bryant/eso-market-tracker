@@ -1,10 +1,1 @@
-{
-  "internalId": 2661760696,
-  "name": "Dragon Priest Frieze: Restoration",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_housingwtgdpfriezec001.png",
-  "bindType": -1,
-  "knownIds": [
-    134859
-  ]
-}
+{"internalId":2661760696,"name":"Dragon Priest Frieze: Restoration","description":"This is a large house item.","icon":"data/images/10/0c/ez/housing_nor_duc_housingwtgdpfriezec001.png","bindType":-1,"knownIds":[134859]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3280052963,
-  "name": "Nordic Night Candle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    660427
-  ]
-}
+{"internalId":3280052963,"name":"Nordic Night Candle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[660427]}

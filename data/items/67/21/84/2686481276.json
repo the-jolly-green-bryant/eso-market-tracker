@@ -1,10 +1,1 @@
-{
-  "internalId": 2686481276,
-  "name": "Three Queens Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214522
-  ]
-}
+{"internalId":2686481276,"name":"Three Queens Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[214522]}

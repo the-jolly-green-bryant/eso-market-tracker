@@ -1,10 +1,1 @@
-{
-  "internalId": 1654286611,
-  "name": "Trees, Crooked Swamp",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_auridonmediumtree004.png",
-  "bindType": -1,
-  "knownIds": [
-    120659
-  ]
-}
+{"internalId":1654286611,"name":"Trees, Crooked Swamp","description":"This is a huge house item.","icon":"data/images/40/0e/er/housing_tre_dec_auridonmediumtree004.png","bindType":-1,"knownIds":[120659]}

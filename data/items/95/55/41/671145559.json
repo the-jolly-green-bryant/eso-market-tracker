@@ -1,10 +1,1 @@
-{
-  "internalId": 671145559,
-  "name": "Solitude Melting Pot, Double Boiler",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_meltingpot001.png",
-  "bindType": -1,
-  "knownIds": [
-    165777
-  ]
-}
+{"internalId":671145559,"name":"Solitude Melting Pot, Double Boiler","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_meltingpot001.png","bindType":-1,"knownIds":[165777]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4224680393,
-  "name": "Leyawiin Basket, Open",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybasket004.png",
-  "bindType": -1,
-  "knownIds": [
-    175658
-  ]
-}
+{"internalId":4224680393,"name":"Leyawiin Basket, Open","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybasket004.png","bindType":-1,"knownIds":[175658]}

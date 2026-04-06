@@ -1,10 +1,1 @@
-{
-  "internalId": 1629349853,
-  "name": "Praxis: Redoran Jar, Jazbay",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    127066
-  ]
-}
+{"internalId":1629349853,"name":"Praxis: Redoran Jar, Jazbay","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[127066]}

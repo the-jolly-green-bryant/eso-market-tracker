@@ -1,10 +1,1 @@
-{
-  "internalId": 3434951799,
-  "name": "Nappy the Nix-Hound",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1147293
-  ]
-}
+{"internalId":3434951799,"name":"Nappy the Nix-Hound","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[1147293]}

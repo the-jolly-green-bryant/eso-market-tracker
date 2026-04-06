@@ -1,10 +1,1 @@
-{
-  "internalId": 153620078,
-  "name": "Argonian Bookshelf, Woven",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkshelf001.png",
-  "bindType": -1,
-  "knownIds": [
-    1130643
-  ]
-}
+{"internalId":153620078,"name":"Argonian Bookshelf, Woven","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkshelf001.png","bindType":-1,"knownIds":[1130643]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2646034704,
-  "name": "Wasp-Wing Betrothal Veil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    694761
-  ]
-}
+{"internalId":2646034704,"name":"Wasp-Wing Betrothal Veil","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[694761]}

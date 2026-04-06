@@ -1,10 +1,1 @@
-{
-  "internalId": 3979440839,
-  "name": "Covenant's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54418
-  ]
-}
+{"internalId":3979440839,"name":"Covenant's Arm Cops","description":"","icon":"data/images/a_/sr/ed/gear_akaviri_medium_shoulders_a.png","bindType":2,"knownIds":[54418]}

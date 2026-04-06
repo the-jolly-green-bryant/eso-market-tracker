@@ -1,10 +1,1 @@
-{
-  "internalId": 2567765861,
-  "name": "Kagouti Tusk Drinking Cups",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    497120
-  ]
-}
+{"internalId":2567765861,"name":"Kagouti Tusk Drinking Cups","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[497120]}

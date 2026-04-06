@@ -1,10 +1,1 @@
-{
-  "internalId": 3523199598,
-  "name": "enriched scuttle scramble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_undead_vampire_dust.png",
-  "bindType": -1,
-  "knownIds": [
-    871319
-  ]
-}
+{"internalId":3523199598,"name":"enriched scuttle scramble","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_undead_vampire_dust.png","bindType":-1,"knownIds":[871319]}

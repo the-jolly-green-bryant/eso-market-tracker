@@ -1,10 +1,1 @@
-{
-  "internalId": 2749338842,
-  "name": "Piece of A Dwemer Construct",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_dwarven_tuner.png",
-  "bindType": -1,
-  "knownIds": [
-    867258
-  ]
-}
+{"internalId":2749338842,"name":"Piece of A Dwemer Construct","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_dwarven_tuner.png","bindType":-1,"knownIds":[867258]}

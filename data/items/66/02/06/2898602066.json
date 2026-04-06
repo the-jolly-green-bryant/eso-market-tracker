@@ -1,17 +1,1 @@
-{
-  "internalId": 2898602066,
-  "name": "Yandir's Perfected Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_sword.png",
-  "bindType": -1,
-  "knownIds": [
-    1413757,
-    1643924,
-    1650329,
-    1779715,
-    1413757,
-    1643924,
-    1650329,
-    1779715
-  ]
-}
+{"internalId":2898602066,"name":"Yandir's Perfected Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_sword.png","bindType":-1,"knownIds":[1413757,1643924,1650329,1779715,1413757,1643924,1650329,1779715]}

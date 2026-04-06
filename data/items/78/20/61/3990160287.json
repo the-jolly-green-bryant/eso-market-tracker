@@ -1,13 +1,1 @@
-{
-  "internalId": 3990160287,
-  "name": "Bugslayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
-  "bindType": -1,
-  "knownIds": [
-    764825,
-    600072,
-    764825,
-    600072
-  ]
-}
+{"internalId":3990160287,"name":"Bugslayer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png","bindType":-1,"knownIds":[764825,600072,764825,600072]}

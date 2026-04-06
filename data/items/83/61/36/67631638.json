@@ -1,10 +1,1 @@
-{
-  "internalId": 67631638,
-  "name": "Murkmire Brazier, Engraved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_brazier001.png",
-  "bindType": -1,
-  "knownIds": [
-    145330
-  ]
-}
+{"internalId":67631638,"name":"Murkmire Brazier, Engraved","description":"This is a standard house item.","icon":"data/images/10/0r/ei/housing_arg_duc_brazier001.png","bindType":-1,"knownIds":[145330]}

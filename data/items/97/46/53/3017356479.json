@@ -1,10 +1,1 @@
-{
-  "internalId": 3017356479,
-  "name": "Soul-Shriven Pants",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    35031
-  ]
-}
+{"internalId":3017356479,"name":"Soul-Shriven Pants","description":"","icon":"data/images/a_/sg/el/gear_soulshriven_legs_a.png","bindType":-1,"knownIds":[35031]}

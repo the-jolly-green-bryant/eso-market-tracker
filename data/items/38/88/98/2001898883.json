@@ -1,10 +1,1 @@
-{
-  "internalId": 2001898883,
-  "name": "Plant, Galen Agave",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_agave001.png",
-  "bindType": -1,
-  "knownIds": [
-    192398
-  ]
-}
+{"internalId":2001898883,"name":"Plant, Galen Agave","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_agave001.png","bindType":-1,"knownIds":[192398]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 4263798739,
-  "name": "Null Arca Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720430,
-    1732546,
-    1720430,
-    1732546,
-    1720430,
-    1732546
-  ]
-}
+{"internalId":4263798739,"name":"Null Arca Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1720430,1732546,1720430,1732546,1720430,1732546]}

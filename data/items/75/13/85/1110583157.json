@@ -1,10 +1,1 @@
-{
-  "internalId": 1110583157,
-  "name": "Dwarven Pew, Ornate Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbench004.png",
-  "bindType": -1,
-  "knownIds": [
-    171343
-  ]
-}
+{"internalId":1110583157,"name":"Dwarven Pew, Ornate Polished","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbench004.png","bindType":-1,"knownIds":[171343]}

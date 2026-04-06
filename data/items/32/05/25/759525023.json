@@ -1,10 +1,1 @@
-{
-  "internalId": 759525023,
-  "name": "Covenant's Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54423
-  ]
-}
+{"internalId":759525023,"name":"Covenant's Hat","description":"","icon":"data/images/a_/da/eh/gear_akaviri_light_head_a.png","bindType":2,"knownIds":[54423]}

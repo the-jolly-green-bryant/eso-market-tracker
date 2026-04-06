@@ -1,10 +1,1 @@
-{
-  "internalId": 3687186582,
-  "name": "Bow of the Powerful Assault",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    117236
-  ]
-}
+{"internalId":3687186582,"name":"Bow of the Powerful Assault","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[117236]}

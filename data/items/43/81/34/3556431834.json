@@ -1,14 +1,1 @@
-{
-  "internalId": 3556431834,
-  "name": "Perfected Maul of Bahsei's Mania",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1490886,
-    1565195,
-    1581714,
-    1680142,
-    1696477
-  ]
-}
+{"internalId":3556431834,"name":"Perfected Maul of Bahsei's Mania","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_2hhammer_a.png","bindType":-1,"knownIds":[1490886,1565195,1581714,1680142,1696477]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1211899555,
-  "name": "Ambritt's Iceflame",
-  "description": "A dagger recovered from the Icereach Coven witch, Sister Ambritt.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_dagger_c.png",
-  "bindType": 2,
-  "knownIds": [
-    159699
-  ]
-}
+{"internalId":1211899555,"name":"Ambritt's Iceflame","description":"A dagger recovered from the Icereach Coven witch, Sister Ambritt.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_reach_dagger_c.png","bindType":2,"knownIds":[159699]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3688615331,
-  "name": "Forgotten Adventurer's Shield",
-  "description": "A shield found in your strong box. The ravages of time may have tarnished this aegis, but it remains strong enough to deflect a golem's blows.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    190932
-  ]
-}
+{"internalId":3688615331,"name":"Forgotten Adventurer's Shield","description":"A shield found in your strong box. The ravages of time may have tarnished this aegis, but it remains strong enough to deflect a golem's blows.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png","bindType":2,"knownIds":[190932]}

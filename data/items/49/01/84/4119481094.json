@@ -1,10 +1,1 @@
-{
-  "internalId": 4119481094,
-  "name": "Laboratory Instruments",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabtoolkit001.png",
-  "bindType": -1,
-  "knownIds": [
-    171829
-  ]
-}
+{"internalId":4119481094,"name":"Laboratory Instruments","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabtoolkit001.png","bindType":-1,"knownIds":[171829]}

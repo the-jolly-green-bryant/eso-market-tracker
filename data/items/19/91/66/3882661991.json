@@ -1,10 +1,1 @@
-{
-  "internalId": 3882661991,
-  "name": "orichalc-steel sword of shock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    871795
-  ]
-}
+{"internalId":3882661991,"name":"orichalc-steel sword of shock","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png","bindType":-1,"knownIds":[871795]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3429600458,
-  "name": "Glassblowing Shears, Metal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_glassblowingshears001.png",
-  "bindType": -1,
-  "knownIds": [
-    204741
-  ]
-}
+{"internalId":3429600458,"name":"Glassblowing Shears, Metal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_glassblowingshears001.png","bindType":-1,"knownIds":[204741]}

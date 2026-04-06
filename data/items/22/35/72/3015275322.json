@@ -1,15 +1,1 @@
-{
-  "internalId": 3015275322,
-  "name": "Red Rook Ailettes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    431006,
-    398000,
-    520291,
-    431006,
-    398000,
-    520291
-  ]
-}
+{"internalId":3015275322,"name":"Red Rook Ailettes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png","bindType":-1,"knownIds":[431006,398000,520291,431006,398000,520291]}

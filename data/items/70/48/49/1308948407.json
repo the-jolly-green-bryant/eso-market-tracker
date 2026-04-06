@@ -1,10 +1,1 @@
-{
-  "internalId": 1308948407,
-  "name": "Column, Ossuary",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_duc_columnmedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    145483
-  ]
-}
+{"internalId":1308948407,"name":"Column, Ossuary","description":"This is a large house item.","icon":"data/images/10/0m/ui/housing_coh_duc_columnmedium001.png","bindType":-1,"knownIds":[145483]}

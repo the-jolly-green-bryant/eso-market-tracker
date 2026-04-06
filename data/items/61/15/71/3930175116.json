@@ -1,10 +1,1 @@
-{
-  "internalId": 3930175116,
-  "name": "Transmute Station",
-  "description": "When placed in your home, allows you to transmute the traits on your items.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_housingretrait001.png",
-  "bindType": -1,
-  "knownIds": [
-    133576
-  ]
-}
+{"internalId":3930175116,"name":"Transmute Station","description":"When placed in your home, allows you to transmute the traits on your items.","icon":"data/images/10/0t/ia/housing_cwc_crf_housingretrait001.png","bindType":-1,"knownIds":[133576]}

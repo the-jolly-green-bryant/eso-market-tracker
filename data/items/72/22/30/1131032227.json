@@ -1,10 +1,1 @@
-{
-  "internalId": 1131032227,
-  "name": "Diagram: Redguard Brazier, Enchanted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    119288
-  ]
-}
+{"internalId":1131032227,"name":"Diagram: Redguard Brazier, Enchanted","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[119288]}

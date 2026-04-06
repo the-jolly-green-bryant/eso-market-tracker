@@ -1,10 +1,1 @@
-{
-  "internalId": 3927133079,
-  "name": "Shoes of Necropotence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86927
-  ]
-}
+{"internalId":3927133079,"name":"Shoes of Necropotence","description":"","icon":"data/images/d_/te/ef/gear_argonian_light_feet_d.png","bindType":2,"knownIds":[86927]}

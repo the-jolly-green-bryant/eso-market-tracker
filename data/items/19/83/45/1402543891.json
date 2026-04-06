@@ -1,10 +1,1 @@
-{
-  "internalId": 1402543891,
-  "name": "Wood Elf Tent, Frame",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_cmp_tentsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    115606
-  ]
-}
+{"internalId":1402543891,"name":"Wood Elf Tent, Frame","description":"This is a large house item.","icon":"data/images/10/0l/la/housing_bos_cmp_tentsmall001.png","bindType":-1,"knownIds":[115606]}

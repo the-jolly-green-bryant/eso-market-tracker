@@ -1,10 +1,1 @@
-{
-  "internalId": 213679042,
-  "name": "Gryphon's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    135495
-  ]
-}
+{"internalId":213679042,"name":"Gryphon's Ice Staff","description":"","icon":"data/images/c_/ff/at/gear_ancient_elf_staff_c.png","bindType":2,"knownIds":[135495]}

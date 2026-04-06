@@ -1,10 +1,1 @@
-{
-  "internalId": 2571296162,
-  "name": "Wood Elf Cup, Striped",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_vasetabletop005.png",
-  "bindType": -1,
-  "knownIds": [
-    115566
-  ]
-}
+{"internalId":2571296162,"name":"Wood Elf Cup, Striped","description":"This is a small house item.","icon":"data/images/50/0p/ot/housing_bos_inc_vasetabletop005.png","bindType":-1,"knownIds":[115566]}

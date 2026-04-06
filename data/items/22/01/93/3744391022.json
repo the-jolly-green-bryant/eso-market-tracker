@@ -1,10 +1,1 @@
-{
-  "internalId": 3744391022,
-  "name": "Jakarn's Machete",
-  "description": "Jakarn's heavy blade, useful in cutting through tricky social situations.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7358
-  ]
-}
+{"internalId":3744391022,"name":"Jakarn's Machete","description":"Jakarn's heavy blade, useful in cutting through tricky social situations.","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[7358]}

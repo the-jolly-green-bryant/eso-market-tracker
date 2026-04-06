@@ -1,10 +1,1 @@
-{
-  "internalId": 281294781,
-  "name": "Fargrave Paper Lantern, Red Flat",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farlanternhanging010.png",
-  "bindType": -1,
-  "knownIds": [
-    223862
-  ]
-}
+{"internalId":281294781,"name":"Fargrave Paper Lantern, Red Flat","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farlanternhanging010.png","bindType":-1,"knownIds":[223862]}

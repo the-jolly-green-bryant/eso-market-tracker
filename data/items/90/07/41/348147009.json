@@ -1,10 +1,1 @@
-{
-  "internalId": 348147009,
-  "name": "Affix Script: Off Balance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_offbalance.png",
-  "bindType": -1,
-  "knownIds": [
-    204592
-  ]
-}
+{"internalId":348147009,"name":"Affix Script: Off Balance","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_offbalance.png","bindType":-1,"knownIds":[204592]}

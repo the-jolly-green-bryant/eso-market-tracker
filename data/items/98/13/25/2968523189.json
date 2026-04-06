@@ -1,10 +1,1 @@
-{
-  "internalId": 2968523189,
-  "name": "Crimson Kerchief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1272799
-  ]
-}
+{"internalId":2968523189,"name":"Crimson Kerchief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png","bindType":-1,"knownIds":[1272799]}

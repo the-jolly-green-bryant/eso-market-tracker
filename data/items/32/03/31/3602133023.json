@@ -1,17 +1,1 @@
-{
-  "internalId": 3602133023,
-  "name": "Ulfnor's Favor Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_sword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1314152,
-    1526697,
-    1593205,
-    1605777,
-    1624346,
-    1723588,
-    1731233,
-    1747457
-  ]
-}
+{"internalId":3602133023,"name":"Ulfnor's Favor Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_sword_a.png","bindType":-1,"knownIds":[1314152,1526697,1593205,1605777,1624346,1723588,1731233,1747457]}

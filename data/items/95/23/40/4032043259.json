@@ -1,10 +1,1 @@
-{
-  "internalId": 4032043259,
-  "name": "Tree, Tiered Pink Cherry",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_auridonbonsai006.png",
-  "bindType": -1,
-  "knownIds": [
-    120665
-  ]
-}
+{"internalId":4032043259,"name":"Tree, Tiered Pink Cherry","description":"This is a huge house item.","icon":"data/images/60/0i/as/housing_tre_fan_auridonbonsai006.png","bindType":-1,"knownIds":[120665]}

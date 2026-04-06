@@ -1,10 +1,1 @@
-{
-  "internalId": 1448124388,
-  "name": "Aetheric Lancer Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1741646
-  ]
-}
+{"internalId":1448124388,"name":"Aetheric Lancer Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shoulders_a.png","bindType":-1,"knownIds":[1741646]}

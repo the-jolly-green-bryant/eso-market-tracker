@@ -1,10 +1,1 @@
-{
-  "internalId": 3233008916,
-  "name": "Dwarven Boiler, Central",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_pipeboiler001.png",
-  "bindType": -1,
-  "knownIds": [
-    125510
-  ]
-}
+{"internalId":3233008916,"name":"Dwarven Boiler, Central","description":"This is a large house item.","icon":"data/images/10/0r/el/housing_dwe_duc_pipeboiler001.png","bindType":-1,"knownIds":[125510]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2916050749,
-  "name": "False Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    860591
-  ]
-}
+{"internalId":2916050749,"name":"False Eye","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[860591]}

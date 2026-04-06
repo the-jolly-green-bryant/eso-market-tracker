@@ -1,10 +1,1 @@
-{
-  "internalId": 1097672275,
-  "name": "Coup De Grâce Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219471
-  ]
-}
+{"internalId":1097672275,"name":"Coup De Grâce Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[219471]}

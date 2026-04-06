@@ -1,10 +1,1 @@
-{
-  "internalId": 6533880,
-  "name": "Leyawiin Table, Formal Grand",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leytablerectlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    175617
-  ]
-}
+{"internalId":6533880,"name":"Leyawiin Table, Formal Grand","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leytablerectlarge001.png","bindType":-1,"knownIds":[175617]}

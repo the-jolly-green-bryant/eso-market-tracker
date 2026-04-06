@@ -1,10 +1,1 @@
-{
-  "internalId": 962222956,
-  "name": "Death Skeleton, Shrouded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
-  "bindType": -1,
-  "knownIds": [
-    132197
-  ]
-}
+{"internalId":962222956,"name":"Death Skeleton, Shrouded","description":"This is a standard house item.","icon":"data/images/gn/is/si/icon_missing.png","bindType":-1,"knownIds":[132197]}

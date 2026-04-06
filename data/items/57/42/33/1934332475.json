@@ -1,10 +1,1 @@
-{
-  "internalId": 1934332475,
-  "name": "Assassin's Guile Jewelry",
-  "description": "A Crafted Armor set constructed in Vvardenfell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182733
-  ]
-}
+{"internalId":1934332475,"name":"Assassin's Guile Jewelry","description":"A Crafted Armor set constructed in Vvardenfell.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182733]}

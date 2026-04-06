@@ -1,10 +1,1 @@
-{
-  "internalId": 2978395056,
-  "name": "Gloves of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199854
-  ]
-}
+{"internalId":2978395056,"name":"Gloves of Syvarra's Scales","description":"","icon":"data/images/a_/sd/na/gear_ancientyokudan_light_hands_a.png","bindType":2,"knownIds":[72966]}

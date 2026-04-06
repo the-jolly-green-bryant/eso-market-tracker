@@ -1,10 +1,1 @@
-{
-  "internalId": 2948997635,
-  "name": "Praxis: High Elf Desk, Regal Winged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    118928
-  ]
-}
+{"internalId":2948997635,"name":"Praxis: High Elf Desk, Regal Winged","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[118928]}

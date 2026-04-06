@@ -1,10 +1,1 @@
-{
-  "internalId": 3012324438,
-  "name": "Steadfast Healer's Gloves",
-  "description": "Delicate gloves for deft fingers, used by the master healers of the Society of the Steadfast.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    188119
-  ]
-}
+{"internalId":3012324438,"name":"Steadfast Healer's Gloves","description":"Delicate gloves for deft fingers, used by the master healers of the Society of the Steadfast.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_hands_a.png","bindType":2,"knownIds":[188119]}

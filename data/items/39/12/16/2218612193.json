@@ -1,10 +1,1 @@
-{
-  "internalId": 2218612193,
-  "name": "Innate Axiom Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    130710
-  ]
-}
+{"internalId":2218612193,"name":"Innate Axiom Jerkin","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[130710]}

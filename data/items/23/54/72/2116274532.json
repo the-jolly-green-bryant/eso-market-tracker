@@ -1,10 +1,1 @@
-{
-  "internalId": 2116274532,
-  "name": "Slave Sandals",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_npcbandit_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    121549
-  ]
-}
+{"internalId":2116274532,"name":"Slave Sandals","description":"","icon":"data/images/a_/te/ef/gear_npcbandit_feet_a.png","bindType":-1,"knownIds":[121549]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1032151980,
-  "name": "Mace of Hist Sap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98841
-  ]
-}
+{"internalId":1032151980,"name":"Mace of Hist Sap","description":"","icon":"data/images/d_/re/mm/gear_argonian_1hhammer_d.png","bindType":2,"knownIds":[98841]}

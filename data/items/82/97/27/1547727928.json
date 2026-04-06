@@ -1,10 +1,1 @@
-{
-  "internalId": 1547727928,
-  "name": "Vanguard's Challenge Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123317
-  ]
-}
+{"internalId":1547727928,"name":"Vanguard's Challenge Ice Staff","description":"","icon":"data/images/a_/ff/at/gear_ordinator_staff_a.png","bindType":2,"knownIds":[123317]}

@@ -1,12 +1,1 @@
-{
-  "internalId": 4291834545,
-  "name": "Numbing Needles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1151133,
-    1151133,
-    1151133
-  ]
-}
+{"internalId":4291834545,"name":"Numbing Needles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[1151133,1151133,1151133]}

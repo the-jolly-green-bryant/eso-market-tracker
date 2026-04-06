@@ -1,10 +1,1 @@
-{
-  "internalId": 2525168083,
-  "name": "Blueprint: Leyawiin Bench, Sturdy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    175957
-  ]
-}
+{"internalId":2525168083,"name":"Blueprint: Leyawiin Bench, Sturdy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[175957]}

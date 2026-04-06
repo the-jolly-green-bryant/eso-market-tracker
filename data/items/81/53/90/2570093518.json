@@ -1,10 +1,1 @@
-{
-  "internalId": 2570093518,
-  "name": "Wood Elf Skull and Bones",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_totem004.png",
-  "bindType": -1,
-  "knownIds": [
-    115625
-  ]
-}
+{"internalId":2570093518,"name":"Wood Elf Skull and Bones","description":"This is a standard house item.","icon":"data/images/40/0m/et/housing_bos_exc_totem004.png","bindType":-1,"knownIds":[115625]}

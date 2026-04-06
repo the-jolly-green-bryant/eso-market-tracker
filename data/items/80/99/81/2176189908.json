@@ -1,10 +1,1 @@
-{
-  "internalId": 2176189908,
-  "name": "Deadlands Archway",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_dedwallmedgate001.png",
-  "bindType": -1,
-  "knownIds": [
-    182276
-  ]
-}
+{"internalId":2176189908,"name":"Deadlands Archway","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_dedwallmedgate001.png","bindType":-1,"knownIds":[182276]}

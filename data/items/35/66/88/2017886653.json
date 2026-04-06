@@ -1,10 +1,1 @@
-{
-  "internalId": 2017886653,
-  "name": "Hackwing Weather Vane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1268247
-  ]
-}
+{"internalId":2017886653,"name":"Hackwing Weather Vane","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[1268247]}

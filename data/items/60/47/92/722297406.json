@@ -1,10 +1,1 @@
-{
-  "internalId": 722297406,
-  "name": "Crafting Motif 102: Sul-Xan Gloves",
-  "description": "Use to learn how to make Sul-Xan Gloves. Also teaches the equivalent Sul-Xan Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171919
-  ]
-}
+{"internalId":722297406,"name":"Crafting Motif 102: Sul-Xan Gloves","description":"Use to learn how to make Sul-Xan Gloves. Also teaches the equivalent Sul-Xan Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171919]}

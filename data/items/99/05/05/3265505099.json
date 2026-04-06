@@ -1,10 +1,1 @@
-{
-  "internalId": 3265505099,
-  "name": "greater glyph of shielding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasebashblockcost.png",
-  "bindType": -1,
-  "knownIds": [
-    514612
-  ]
-}
+{"internalId":3265505099,"name":"greater glyph of shielding","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasebashblockcost.png","bindType":-1,"knownIds":[514612]}

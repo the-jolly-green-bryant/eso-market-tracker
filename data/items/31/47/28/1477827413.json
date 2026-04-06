@@ -1,10 +1,1 @@
-{
-  "internalId": 1477827413,
-  "name": "Hide Parasol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1163809
-  ]
-}
+{"internalId":1477827413,"name":"Hide Parasol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png","bindType":-1,"knownIds":[1163809]}

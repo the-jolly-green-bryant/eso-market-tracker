@@ -1,10 +1,1 @@
-{
-  "internalId": 2453323437,
-  "name": "Pact Scattershot Catapult",
-  "description": "Creates a catapult siege weapon whose mass of small rocks causes damage to foes in a wide area and applies a 20% damage taken debuff for 6 seconds.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_003.png",
-  "bindType": -1,
-  "knownIds": [
-    44777
-  ]
-}
+{"internalId":2453323437,"name":"Pact Scattershot Catapult","description":"Creates a catapult siege weapon whose mass of small rocks causes damage to foes in a wide area and applies a 20% damage taken debuff for 6 seconds.","icon":"data/images/30/0_/iu/ava_siege_ui_003.png","bindType":-1,"knownIds":[44777]}

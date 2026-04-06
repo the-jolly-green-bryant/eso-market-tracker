@@ -1,10 +1,1 @@
-{
-  "internalId": 3270650987,
-  "name": "Saplings, Mangrove",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_redmangrove005.png",
-  "bindType": -1,
-  "knownIds": [
-    139130
-  ]
-}
+{"internalId":3270650987,"name":"Saplings, Mangrove","description":"This is a standard house item.","icon":"data/images/50/0e/vo/housing_tre_sum_redmangrove005.png","bindType":-1,"knownIds":[139130]}

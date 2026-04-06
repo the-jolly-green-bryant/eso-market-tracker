@@ -1,10 +1,1 @@
-{
-  "internalId": 437176115,
-  "name": "Winged Auri-El",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1290263
-  ]
-}
+{"internalId":437176115,"name":"Winged Auri-El","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1290263]}

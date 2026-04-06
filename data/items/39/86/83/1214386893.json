@@ -1,10 +1,1 @@
-{
-  "internalId": 1214386893,
-  "name": "Sanded Hickory",
-  "description": "An ingredient for crafting wooden weapons and shields.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_base_hickory_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    23122
-  ]
-}
+{"internalId":1214386893,"name":"Sanded Hickory","description":"An ingredient for crafting wooden weapons and shields.","icon":"data/images/3r/_y/ro/crafting_wood_base_hickory_r3.png","bindType":-1,"knownIds":[23122]}

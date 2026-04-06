@@ -1,10 +1,1 @@
-{
-  "internalId": 4140636694,
-  "name": "Rootsong Amulet",
-  "description": "The chain of this necklace look like the interwoven roots of the Treehenge.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    15543
-  ]
-}
+{"internalId":4140636694,"name":"Rootsong Amulet","description":"The chain of this necklace look like the interwoven roots of the Treehenge.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[15543]}

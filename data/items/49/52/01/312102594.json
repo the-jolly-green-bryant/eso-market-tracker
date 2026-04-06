@@ -1,10 +1,1 @@
-{
-  "internalId": 312102594,
-  "name": "Stormhold Baked Bananas",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33587
-  ]
-}
+{"internalId":312102594,"name":"Stormhold Baked Bananas","description":"","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[33587]}

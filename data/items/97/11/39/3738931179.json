@@ -1,10 +1,1 @@
-{
-  "internalId": 3738931179,
-  "name": "Greatsword of Agility",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    69377
-  ]
-}
+{"internalId":3738931179,"name":"Greatsword of Agility","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[69377]}

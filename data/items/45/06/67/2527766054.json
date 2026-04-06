@@ -1,13 +1,1 @@
-{
-  "internalId": 2527766054,
-  "name": "Bound Affix Script: Berserk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_berserk.png",
-  "bindType": -1,
-  "knownIds": [
-    1719712,
-    1722244,
-    1719712,
-    1722244
-  ]
-}
+{"internalId":2527766054,"name":"Bound Affix Script: Berserk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_berserk.png","bindType":-1,"knownIds":[1719712,1722244,1719712,1722244]}

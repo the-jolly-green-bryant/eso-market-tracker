@@ -1,10 +1,1 @@
-{
-  "internalId": 634585695,
-  "name": "Ulthorn's Regret",
-  "description": "All that remains of the Hound is his collar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    15548
-  ]
-}
+{"internalId":634585695,"name":"Ulthorn's Regret","description":"All that remains of the Hound is his collar.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[15548]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 2628094041,
-  "name": "Deeproot Zeal Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600649,
-    1605683,
-    1600649,
-    1605683
-  ]
-}
+{"internalId":2628094041,"name":"Deeproot Zeal Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1600649,1605683,1600649,1605683]}

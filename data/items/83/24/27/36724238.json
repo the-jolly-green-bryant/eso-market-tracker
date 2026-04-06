@@ -1,10 +1,1 @@
-{
-  "internalId": 36724238,
-  "name": "Telvanni Chest, Fungal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_highchestsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    197518
-  ]
-}
+{"internalId":36724238,"name":"Telvanni Chest, Fungal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_highchestsmall001.png","bindType":-1,"knownIds":[197518]}

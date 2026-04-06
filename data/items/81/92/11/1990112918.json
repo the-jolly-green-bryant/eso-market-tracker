@@ -1,10 +1,1 @@
-{
-  "internalId": 1990112918,
-  "name": "Glittering Goad Banner, Small Hanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farglitteringgoadbannerhanging002.png",
-  "bindType": -1,
-  "knownIds": [
-    224090
-  ]
-}
+{"internalId":1990112918,"name":"Glittering Goad Banner, Small Hanging","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farglitteringgoadbannerhanging002.png","bindType":-1,"knownIds":[224090]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 564894549,
-  "name": "Cuirass of Cyrodiil's Crest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    88504
-  ]
-}
+{"internalId":564894549,"name":"Cuirass of Cyrodiil's Crest","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[88504]}

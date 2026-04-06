@@ -1,10 +1,1 @@
-{
-  "internalId": 1599813796,
-  "name": "Jar of Scrib",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804214
-  ]
-}
+{"internalId":1599813796,"name":"Jar of Scrib","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[804214]}

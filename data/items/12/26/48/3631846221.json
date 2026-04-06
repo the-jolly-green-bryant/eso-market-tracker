@@ -1,15 +1,1 @@
-{
-  "internalId": 3631846221,
-  "name": "Blind Path Induction Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1701669,
-    1741696,
-    1772340,
-    1701669,
-    1741696,
-    1772340
-  ]
-}
+{"internalId":3631846221,"name":"Blind Path Induction Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1hsword_a.png","bindType":-1,"knownIds":[1701669,1741696,1772340,1701669,1741696,1772340]}

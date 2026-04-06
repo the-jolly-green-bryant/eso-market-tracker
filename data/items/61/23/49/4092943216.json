@@ -1,10 +1,1 @@
-{
-  "internalId": 4092943216,
-  "name": "Vampiric Drapes, Tall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampiredrape001.png",
-  "bindType": -1,
-  "knownIds": [
-    165615
-  ]
-}
+{"internalId":4092943216,"name":"Vampiric Drapes, Tall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampiredrape001.png","bindType":-1,"knownIds":[165615]}

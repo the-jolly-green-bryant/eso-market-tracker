@@ -1,15 +1,1 @@
-{
-  "internalId": 1321512863,
-  "name": "Beacon of Oblivion Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_2hmace.png",
-  "bindType": -1,
-  "knownIds": [
-    1729098,
-    1739138,
-    1742329,
-    1729098,
-    1739138,
-    1742329
-  ]
-}
+{"internalId":1321512863,"name":"Beacon of Oblivion Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_2hmace.png","bindType":-1,"knownIds":[1729098,1739138,1742329,1729098,1739138,1742329]}

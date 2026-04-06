@@ -1,10 +1,1 @@
-{
-  "internalId": 2969163932,
-  "name": "Imperial Shelf, Wall",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_wallshelf001.png",
-  "bindType": -1,
-  "knownIds": [
-    94108
-  ]
-}
+{"internalId":2969163932,"name":"Imperial Shelf, Wall","description":"This is a small house item.","icon":"data/images/10/0f/le/housing_nib_fur_wallshelf001.png","bindType":-1,"knownIds":[94108]}

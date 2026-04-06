@@ -1,10 +1,1 @@
-{
-  "internalId": 3463831932,
-  "name": "Tuneless Harp of Fiirgarion the Bard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_fiirgarion_harp.png",
-  "bindType": -1,
-  "knownIds": [
-    860360
-  ]
-}
+{"internalId":3463831932,"name":"Tuneless Harp of Fiirgarion the Bard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_fiirgarion_harp.png","bindType":-1,"knownIds":[860360]}

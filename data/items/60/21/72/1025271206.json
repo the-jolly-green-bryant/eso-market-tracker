@@ -1,10 +1,1 @@
-{
-  "internalId": 1025271206,
-  "name": "Thunderbug's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_bow_c.png",
-  "bindType": 2,
-  "knownIds": [
-    99987
-  ]
-}
+{"internalId":1025271206,"name":"Thunderbug's Bow","description":"","icon":"data/images/c_/wo/b_/gear_primative_bow_c.png","bindType":2,"knownIds":[99987]}

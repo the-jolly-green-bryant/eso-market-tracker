@@ -1,10 +1,1 @@
-{
-  "internalId": 707243764,
-  "name": "Formula: Indoril Streetlight, Brick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    127087
-  ]
-}
+{"internalId":707243764,"name":"Formula: Indoril Streetlight, Brick","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[127087]}

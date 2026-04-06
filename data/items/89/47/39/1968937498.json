@@ -1,10 +1,1 @@
-{
-  "internalId": 1968937498,
-  "name": "House Tamrith Holy Symbol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    481178
-  ]
-}
+{"internalId":1968937498,"name":"House Tamrith Holy Symbol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png","bindType":-1,"knownIds":[481178]}

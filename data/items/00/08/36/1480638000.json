@@ -1,10 +1,1 @@
-{
-  "internalId": 1480638000,
-  "name": "Hearts Week Decor, Long Floral Dangle",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekgarland007.png",
-  "bindType": -1,
-  "knownIds": [
-    223850
-  ]
-}
+{"internalId":1480638000,"name":"Hearts Week Decor, Long Floral Dangle","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekgarland007.png","bindType":-1,"knownIds":[223850]}

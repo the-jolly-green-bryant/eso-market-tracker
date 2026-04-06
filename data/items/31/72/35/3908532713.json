@@ -1,10 +1,1 @@
-{
-  "internalId": 3908532713,
-  "name": "Mara's Balm Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189997
-  ]
-}
+{"internalId":3908532713,"name":"Mara's Balm Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[189997]}

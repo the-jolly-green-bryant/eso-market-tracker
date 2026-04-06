@@ -1,10 +1,1 @@
-{
-  "internalId": 3893409734,
-  "name": "Praxis: Elsweyr Pot, Floral",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    151999
-  ]
-}
+{"internalId":3893409734,"name":"Praxis: Elsweyr Pot, Floral","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[151999]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 314562034,
-  "name": "Diagram: Dwarven Pew, Refined",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    126866
-  ]
-}
+{"internalId":314562034,"name":"Diagram: Dwarven Pew, Refined","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[126866]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 727839530,
-  "name": "Vampiric Bookcase, Tall Filled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingvampirebookcasefilled002.png",
-  "bindType": -1,
-  "knownIds": [
-    165592
-  ]
-}
+{"internalId":727839530,"name":"Vampiric Bookcase, Tall Filled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingvampirebookcasefilled002.png","bindType":-1,"knownIds":[165592]}

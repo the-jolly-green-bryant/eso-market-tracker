@@ -1,10 +1,1 @@
-{
-  "internalId": 3132052757,
-  "name": "Shipment of Superb Hide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    942154
-  ]
-}
+{"internalId":3132052757,"name":"Shipment of Superb Hide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[942154]}

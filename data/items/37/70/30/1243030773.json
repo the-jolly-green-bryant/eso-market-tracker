@@ -1,10 +1,1 @@
-{
-  "internalId": 1243030773,
-  "name": "gar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    605679
-  ]
-}
+{"internalId":1243030773,"name":"gar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[605679]}

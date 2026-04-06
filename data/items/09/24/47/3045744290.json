@@ -1,10 +1,1 @@
-{
-  "internalId": 3045744290,
-  "name": "Surilie Grapes",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_berry_004.png",
-  "bindType": -1,
-  "knownIds": [
-    34345
-  ]
-}
+{"internalId":3045744290,"name":"Surilie Grapes","description":"An ingredient for crafting beverages.","icon":"data/images/40/0_/yr/crafting_components_berry_004.png","bindType":-1,"knownIds":[34345]}

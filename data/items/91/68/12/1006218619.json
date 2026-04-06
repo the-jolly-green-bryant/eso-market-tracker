@@ -1,10 +1,1 @@
-{
-  "internalId": 1006218619,
-  "name": "Heem-Jas' Retribution",
-  "description": "A Medium Armor set found in Ruins of Mazzatun.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134228
-  ]
-}
+{"internalId":1006218619,"name":"Heem-Jas' Retribution","description":"A Medium Armor set found in Ruins of Mazzatun.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134228]}

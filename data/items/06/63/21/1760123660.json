@@ -1,10 +1,1 @@
-{
-  "internalId": 1760123660,
-  "name": "Keeneye Belt",
-  "description": "The Eyes of the Queen use highly specialized gear. This belt, for example, has a small pouch secreted behind the buckle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7604
-  ]
-}
+{"internalId":1760123660,"name":"Keeneye Belt","description":"The Eyes of the Queen use highly specialized gear. This belt, for example, has a small pouch secreted behind the buckle.","icon":"data/images/d_/ts/ia/gear_altmer_medium_waist_d.png","bindType":2,"knownIds":[7604]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1537187043,
-  "name": "Dwarven Bookcase, Granite",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbookshelf001.png",
-  "bindType": -1,
-  "knownIds": [
-    171379
-  ]
-}
+{"internalId":1537187043,"name":"Dwarven Bookcase, Granite","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbookshelf001.png","bindType":-1,"knownIds":[171379]}

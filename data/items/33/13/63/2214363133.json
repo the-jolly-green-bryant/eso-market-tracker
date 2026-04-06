@@ -1,10 +1,1 @@
-{
-  "internalId": 2214363133,
-  "name": "Gems",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    802689
-  ]
-}
+{"internalId":2214363133,"name":"Gems","description":"","icon":null,"bindType":-1,"knownIds":[802689]}

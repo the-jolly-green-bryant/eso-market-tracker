@@ -1,10 +1,1 @@
-{
-  "internalId": 2407147320,
-  "name": "Psijic Table, Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_ceptablesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    1262133
-  ]
-}
+{"internalId":2407147320,"name":"Psijic Table, Small","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_ceptablesmall001.png","bindType":-1,"knownIds":[1262133]}

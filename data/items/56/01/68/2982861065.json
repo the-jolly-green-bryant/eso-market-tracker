@@ -1,10 +1,1 @@
-{
-  "internalId": 2982861065,
-  "name": "Adamant Lurker Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196193
-  ]
-}
+{"internalId":2982861065,"name":"Adamant Lurker Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_hands_a.png","bindType":2,"knownIds":[196193]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4220109570,
-  "name": "Argonian Darkwood Tabletop",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png",
-  "bindType": -1,
-  "knownIds": [
-    672528,
-    672528
-  ]
-}
+{"internalId":4220109570,"name":"Argonian Darkwood Tabletop","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png","bindType":-1,"knownIds":[672528,672528]}

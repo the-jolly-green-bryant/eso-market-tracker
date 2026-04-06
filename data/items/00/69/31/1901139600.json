@@ -1,10 +1,1 @@
-{
-  "internalId": 1901139600,
-  "name": "Pauldrons of Aetherial Ascension",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    169100
-  ]
-}
+{"internalId":1901139600,"name":"Pauldrons of Aetherial Ascension","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png","bindType":2,"knownIds":[169100]}

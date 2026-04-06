@@ -1,10 +1,1 @@
-{
-  "internalId": 2300911970,
-  "name": "Enchanter Survey: Coldharbour II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801177
-  ]
-}
+{"internalId":2300911970,"name":"Enchanter Survey: Coldharbour II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[801177]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1889333268,
-  "name": "Ivory Abacus Rod",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    901383
-  ]
-}
+{"internalId":1889333268,"name":"Ivory Abacus Rod","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[901383]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3357530713,
-  "name": "Blackreach Gate, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_blackreachgate001.png",
-  "bindType": -1,
-  "knownIds": [
-    187793
-  ]
-}
+{"internalId":3357530713,"name":"Blackreach Gate, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_blackreachgate001.png","bindType":-1,"knownIds":[187793]}

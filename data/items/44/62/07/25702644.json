@@ -1,10 +1,1 @@
-{
-  "internalId": 25702644,
-  "name": "Common Soul Gem",
-  "description": "Used to fully charge weapons up to Level 39, and revive up to Level 39 players.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_004_filled.png",
-  "bindType": -1,
-  "knownIds": [
-    33269
-  ]
-}
+{"internalId":25702644,"name":"Common Soul Gem","description":"Used to fully charge weapons up to Level 39, and revive up to Level 39 players.","icon":"data/images/de/ll/if/soulgem_004_filled.png","bindType":-1,"knownIds":[33269]}

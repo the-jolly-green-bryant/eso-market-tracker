@@ -1,10 +1,1 @@
-{
-  "internalId": 2554109448,
-  "name": "Coldharbour Bookcase, Filled Wide",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_duc_bookcaseprop003.png",
-  "bindType": -1,
-  "knownIds": [
-    134253
-  ]
-}
+{"internalId":2554109448,"name":"Coldharbour Bookcase, Filled Wide","description":"This is a large house item.","icon":"data/images/30/0p/or/housing_cld_duc_bookcaseprop003.png","bindType":-1,"knownIds":[134253]}

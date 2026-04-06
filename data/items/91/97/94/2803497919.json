@@ -1,10 +1,1 @@
-{
-  "internalId": 2803497919,
-  "name": "Diagram: Clockwork Crate, Large Closed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    134491
-  ]
-}
+{"internalId":2803497919,"name":"Diagram: Clockwork Crate, Large Closed","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[134491]}

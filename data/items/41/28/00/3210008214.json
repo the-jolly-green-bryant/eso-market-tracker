@@ -1,10 +1,1 @@
-{
-  "internalId": 3210008214,
-  "name": "Snow Pile",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_bgsnowpile001.png",
-  "bindType": -1,
-  "knownIds": [
-    134570
-  ]
-}
+{"internalId":3210008214,"name":"Snow Pile","description":"This is a standard house item.","icon":"data/images/10/0e/li/housing_orc_exc_bgsnowpile001.png","bindType":-1,"knownIds":[134570]}

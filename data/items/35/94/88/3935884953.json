@@ -1,10 +1,1 @@
-{
-  "internalId": 3935884953,
-  "name": "Phoenix Moth Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190684
-  ]
-}
+{"internalId":3935884953,"name":"Phoenix Moth Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1hsword_a.png","bindType":2,"knownIds":[190684]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2048126714,
-  "name": "Ultimate Riverhold Beef Pasty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_pot_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    43089
-  ]
-}
+{"internalId":2048126714,"name":"Ultimate Riverhold Beef Pasty","description":"","icon":"data/images/ei/p_/to/crafting_cooking_pot_pie.png","bindType":-1,"knownIds":[43089]}

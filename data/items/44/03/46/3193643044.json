@@ -1,15 +1,1 @@
-{
-  "internalId": 3193643044,
-  "name": "Basalt-Blooded Warrior Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678208,
-    1697285,
-    1715840,
-    1678208,
-    1697285,
-    1715840
-  ]
-}
+{"internalId":3193643044,"name":"Basalt-Blooded Warrior Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png","bindType":-1,"knownIds":[1678208,1697285,1715840,1678208,1697285,1715840]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3196875276,
-  "name": "Style Page: Fanged Worm Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1246379
-  ]
-}
+{"internalId":3196875276,"name":"Style Page: Fanged Worm Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1246379]}

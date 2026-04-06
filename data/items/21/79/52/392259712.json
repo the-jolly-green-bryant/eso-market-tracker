@@ -1,10 +1,1 @@
-{
-  "internalId": 392259712,
-  "name": "Great Harbingers of the Companions",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png",
-  "bindType": -1,
-  "knownIds": [
-    1199228
-  ]
-}
+{"internalId":392259712,"name":"Great Harbingers of the Companions","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png","bindType":-1,"knownIds":[1199228]}

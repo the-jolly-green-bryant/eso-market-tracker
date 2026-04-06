@@ -1,10 +1,1 @@
-{
-  "internalId": 4176967316,
-  "name": "Old Growth Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191970
-  ]
-}
+{"internalId":4176967316,"name":"Old Growth Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png","bindType":2,"knownIds":[191970]}

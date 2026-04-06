@@ -1,10 +1,1 @@
-{
-  "internalId": 3029536548,
-  "name": "\"Sheep, Sheep, Goat\" Game",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png",
-  "bindType": -1,
-  "knownIds": [
-    652682
-  ]
-}
+{"internalId":3029536548,"name":"\"Sheep, Sheep, Goat\" Game","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png","bindType":-1,"knownIds":[652682]}

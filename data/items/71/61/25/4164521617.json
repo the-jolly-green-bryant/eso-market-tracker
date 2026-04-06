@@ -1,10 +1,1 @@
-{
-  "internalId": 4164521617,
-  "name": "Jerkin of Red Eagle's Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168359
-  ]
-}
+{"internalId":4164521617,"name":"Jerkin of Red Eagle's Fury","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[168359]}

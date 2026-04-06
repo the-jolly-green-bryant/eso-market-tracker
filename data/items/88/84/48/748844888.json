@@ -1,10 +1,1 @@
-{
-  "internalId": 748844888,
-  "name": "Crafting Motif 115: Y'ffre's Will Staves",
-  "description": "Use to learn how to make Y'ffre's Will Staves. Also teaches the equivalent Y'ffre's Will Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    187741
-  ]
-}
+{"internalId":748844888,"name":"Crafting Motif 115: Y'ffre's Will Staves","description":"Use to learn how to make Y'ffre's Will Staves. Also teaches the equivalent Y'ffre's Will Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[187741]}

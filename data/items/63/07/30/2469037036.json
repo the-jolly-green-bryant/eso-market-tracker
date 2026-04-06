@@ -1,10 +1,1 @@
-{
-  "internalId": 2469037036,
-  "name": "HEAVY: Encratis's Behemoth (Head)",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1411452
-  ]
-}
+{"internalId":2469037036,"name":"HEAVY: Encratis's Behemoth (Head)","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1411452]}

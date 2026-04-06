@@ -1,10 +1,1 @@
-{
-  "internalId": 3962439226,
-  "name": "Breton Bed, Single",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_bedtwin001.png",
-  "bindType": -1,
-  "knownIds": [
-    115154
-  ]
-}
+{"internalId":3962439226,"name":"Breton Bed, Single","description":"This is a standard house item.","icon":"data/images/10/0n/iw/housing_bre_fur_bedtwin001.png","bindType":-1,"knownIds":[115154]}

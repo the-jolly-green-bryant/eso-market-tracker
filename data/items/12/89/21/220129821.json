@@ -1,10 +1,1 @@
-{
-  "internalId": 220129821,
-  "name": "Scorion's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1536941
-  ]
-}
+{"internalId":220129821,"name":"Scorion's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1536941]}

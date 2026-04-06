@@ -1,10 +1,1 @@
-{
-  "internalId": 2090772812,
-  "name": "Tarnished Nightmare Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1716065
-  ]
-}
+{"internalId":2090772812,"name":"Tarnished Nightmare Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1716065]}

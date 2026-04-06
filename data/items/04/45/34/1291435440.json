@@ -1,10 +1,1 @@
-{
-  "internalId": 1291435440,
-  "name": "Necrom Urn, Blue Elegant",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necurnsmiddle002.png",
-  "bindType": -1,
-  "knownIds": [
-    198056
-  ]
-}
+{"internalId":1291435440,"name":"Necrom Urn, Blue Elegant","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necurnsmiddle002.png","bindType":-1,"knownIds":[198056]}

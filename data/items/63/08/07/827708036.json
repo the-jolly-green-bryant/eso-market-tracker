@@ -1,10 +1,1 @@
-{
-  "internalId": 827708036,
-  "name": "Fisherman's Tackle Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    896894
-  ]
-}
+{"internalId":827708036,"name":"Fisherman's Tackle Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[896894]}

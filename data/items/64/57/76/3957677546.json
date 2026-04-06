@@ -1,10 +1,1 @@
-{
-  "internalId": 3957677546,
-  "name": "Shadowfen Lore",
-  "description": "A mysterious tome containing all of the books in the Shadowfen Lore collection.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png",
-  "bindType": 3,
-  "knownIds": [
-    199960
-  ]
-}
+{"internalId":3957677546,"name":"Shadowfen Lore","description":"A mysterious tome containing all of the books in the Shadowfen Lore collection.","icon":"https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png","bindType":3,"knownIds":[199960]}

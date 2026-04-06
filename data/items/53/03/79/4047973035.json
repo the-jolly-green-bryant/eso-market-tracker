@@ -1,10 +1,1 @@
-{
-  "internalId": 4047973035,
-  "name": "Undaunted Box: Bedlam Veil",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    211113
-  ]
-}
+{"internalId":4047973035,"name":"Undaunted Box: Bedlam Veil","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[211113]}

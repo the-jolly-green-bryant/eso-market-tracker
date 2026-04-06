@@ -1,10 +1,1 @@
-{
-  "internalId": 76740229,
-  "name": "Design: Argonian Skull, Lizard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    115794
-  ]
-}
+{"internalId":76740229,"name":"Design: Argonian Skull, Lizard","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[115794]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3785399922,
-  "name": "Colovian Floor, Small Dual-Sided",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housinginthousefloorsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    208082
-  ]
-}
+{"internalId":3785399922,"name":"Colovian Floor, Small Dual-Sided","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housinginthousefloorsmall001.png","bindType":-1,"knownIds":[208082]}

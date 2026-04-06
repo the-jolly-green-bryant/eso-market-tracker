@@ -1,10 +1,1 @@
-{
-  "internalId": 3968221314,
-  "name": "Ornate Ink Blotter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png",
-  "bindType": -1,
-  "knownIds": [
-    818698
-  ]
-}
+{"internalId":3968221314,"name":"Ornate Ink Blotter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png","bindType":-1,"knownIds":[818698]}

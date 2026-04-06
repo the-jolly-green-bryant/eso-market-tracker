@@ -1,10 +1,1 @@
-{
-  "internalId": 3503580206,
-  "name": "Kuta",
-  "description": "Kuta",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45854
-  ]
-}
+{"internalId":3503580206,"name":"Kuta","description":"Kuta","icon":"data/images/10/0_/se/crafting_components_runestones_001.png","bindType":-1,"knownIds":[45854]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3566693623,
-  "name": "Druidic Wind Chimes, Gourd",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drugourdhanginglong002.png",
-  "bindType": -1,
-  "knownIds": [
-    191202
-  ]
-}
+{"internalId":3566693623,"name":"Druidic Wind Chimes, Gourd","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drugourdhanginglong002.png","bindType":-1,"knownIds":[191202]}

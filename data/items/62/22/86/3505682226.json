@@ -1,14 +1,1 @@
-{
-  "internalId": 3505682226,
-  "name": "ebonthread epaulets of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    485208,
-    376373,
-    685280,
-    711396,
-    743182
-  ]
-}
+{"internalId":3505682226,"name":"ebonthread epaulets of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png","bindType":-1,"knownIds":[485208,376373,685280,711396,743182]}

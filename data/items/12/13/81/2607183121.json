@@ -1,15 +1,1 @@
-{
-  "internalId": 2607183121,
-  "name": "Pyrebrand Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_sword.png",
-  "bindType": -1,
-  "knownIds": [
-    1735231,
-    1745710,
-    1777497,
-    1735231,
-    1745710,
-    1777497
-  ]
-}
+{"internalId":2607183121,"name":"Pyrebrand Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_sword.png","bindType":-1,"knownIds":[1735231,1745710,1777497,1735231,1745710,1777497]}

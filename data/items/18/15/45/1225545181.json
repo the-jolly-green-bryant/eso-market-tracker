@@ -1,10 +1,1 @@
-{
-  "internalId": 1225545181,
-  "name": "Bone Basting Brush",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hairbrush.png",
-  "bindType": -1,
-  "knownIds": [
-    1336946
-  ]
-}
+{"internalId":1225545181,"name":"Bone Basting Brush","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hairbrush.png","bindType":-1,"knownIds":[1336946]}

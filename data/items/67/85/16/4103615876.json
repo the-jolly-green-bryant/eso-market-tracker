@@ -1,10 +1,1 @@
-{
-  "internalId": 4103615876,
-  "name": "Bow of Serpent's Disdain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185493
-  ]
-}
+{"internalId":4103615876,"name":"Bow of Serpent's Disdain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png","bindType":2,"knownIds":[185493]}

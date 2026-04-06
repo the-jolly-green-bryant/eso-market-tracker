@@ -1,10 +1,1 @@
-{
-  "internalId": 2033968223,
-  "name": "Innate Axiom Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    130702
-  ]
-}
+{"internalId":2033968223,"name":"Innate Axiom Greaves","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[130702]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3244823355,
-  "name": "Ayleid Stairs, Short",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingstair006.png",
-  "bindType": -1,
-  "knownIds": [
-    212414
-  ]
-}
+{"internalId":3244823355,"name":"Ayleid Stairs, Short","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingstair006.png","bindType":-1,"knownIds":[212414]}

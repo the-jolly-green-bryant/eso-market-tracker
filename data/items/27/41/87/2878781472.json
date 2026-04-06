@@ -1,10 +1,1 @@
-{
-  "internalId": 2878781472,
-  "name": "Witch-Knight's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167769
-  ]
-}
+{"internalId":2878781472,"name":"Witch-Knight's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[167769]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 51228090,
-  "name": "Apocrypha Bed, Spiked Double",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bedmedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    198400
-  ]
-}
+{"internalId":51228090,"name":"Apocrypha Bed, Spiked Double","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bedmedium001.png","bindType":-1,"knownIds":[198400]}

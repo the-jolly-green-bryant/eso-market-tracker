@@ -1,10 +1,1 @@
-{
-  "internalId": 1568638928,
-  "name": "Unity Philtre",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coronation_decanter_of_prince-naemon.png",
-  "bindType": -1,
-  "knownIds": [
-    1273893
-  ]
-}
+{"internalId":1568638928,"name":"Unity Philtre","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coronation_decanter_of_prince-naemon.png","bindType":-1,"knownIds":[1273893]}

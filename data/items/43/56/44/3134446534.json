@@ -1,10 +1,1 @@
-{
-  "internalId": 3134446534,
-  "name": "Greaves of the Dreugh King Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    81009
-  ]
-}
+{"internalId":3134446534,"name":"Greaves of the Dreugh King Slayer","description":"","icon":"data/images/d_/sg/el/gear_dunmer_heavy_legs_d.png","bindType":2,"knownIds":[81009]}

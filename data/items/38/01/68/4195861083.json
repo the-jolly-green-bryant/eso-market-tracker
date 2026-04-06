@@ -1,10 +1,1 @@
-{
-  "internalId": 4195861083,
-  "name": "Blueprint: Paintbrush, Wide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    219697
-  ]
-}
+{"internalId":4195861083,"name":"Blueprint: Paintbrush, Wide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[219697]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 164556372,
-  "name": "Maul of Iron Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179893
-  ]
-}
+{"internalId":164556372,"name":"Maul of Iron Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[179893]}

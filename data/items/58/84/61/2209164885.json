@@ -1,10 +1,1 @@
-{
-  "internalId": 2209164885,
-  "name": "Essence of Potent Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    1463459
-  ]
-}
+{"internalId":2209164885,"name":"Essence of Potent Magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png","bindType":-1,"knownIds":[1463459]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3121950069,
-  "name": "Sash of Hist Sap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98860
-  ]
-}
+{"internalId":3121950069,"name":"Sash of Hist Sap","description":"","icon":"data/images/d_/ts/ia/gear_argonian_light_waist_d.png","bindType":2,"knownIds":[98860]}

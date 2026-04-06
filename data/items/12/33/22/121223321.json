@@ -1,10 +1,1 @@
-{
-  "internalId": 121223321,
-  "name": "Minecart Track, Sloped Left",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_min_minecarttrackslopecurve001.png",
-  "bindType": -1,
-  "knownIds": [
-    211117
-  ]
-}
+{"internalId":121223321,"name":"Minecart Track, Sloped Left","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_min_minecarttrackslopecurve001.png","bindType":-1,"knownIds":[211117]}

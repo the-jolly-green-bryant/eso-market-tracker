@@ -1,10 +1,1 @@
-{
-  "internalId": 703504410,
-  "name": "Blueprint: Necrom Table, Elegant Round",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    198533
-  ]
-}
+{"internalId":703504410,"name":"Blueprint: Necrom Table, Elegant Round","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[198533]}

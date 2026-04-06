@@ -1,10 +1,1 @@
-{
-  "internalId": 857348172,
-  "name": "Maormer Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
-  "bindType": -1,
-  "knownIds": [
-    32128
-  ]
-}
+{"internalId":857348172,"name":"Maormer Tea","description":"","icon":"data/images/40/0_/ae/crafting_tea_004.png","bindType":-1,"knownIds":[32128]}

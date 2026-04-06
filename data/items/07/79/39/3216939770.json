@@ -1,10 +1,1 @@
-{
-  "internalId": 3216939770,
-  "name": "Weapons: Undaunted Bastion",
-  "description": "A Heavy Armor set found in Elden Hollow.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134136
-  ]
-}
+{"internalId":3216939770,"name":"Weapons: Undaunted Bastion","description":"A Heavy Armor set found in Elden Hollow.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134136]}

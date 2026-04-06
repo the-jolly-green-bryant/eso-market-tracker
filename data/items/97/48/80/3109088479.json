@@ -1,13 +1,1 @@
-{
-  "internalId": 3109088479,
-  "name": "ebonthread shoes of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    623736,
-    881952,
-    623736,
-    881952
-  ]
-}
+{"internalId":3109088479,"name":"ebonthread shoes of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png","bindType":-1,"knownIds":[623736,881952,623736,881952]}

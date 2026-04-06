@@ -1,15 +1,1 @@
-{
-  "internalId": 989136538,
-  "name": "Ritemaster's Bond Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_1hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1628850,
-    1649944,
-    1754929,
-    1628850,
-    1649944,
-    1754929
-  ]
-}
+{"internalId":989136538,"name":"Ritemaster's Bond Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_1hsword_a.png","bindType":-1,"knownIds":[1628850,1649944,1754929,1628850,1649944,1754929]}

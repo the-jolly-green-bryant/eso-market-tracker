@@ -1,10 +1,1 @@
-{
-  "internalId": 1401413095,
-  "name": "Belt of the Twice-Born Star",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    58479
-  ]
-}
+{"internalId":1401413095,"name":"Belt of the Twice-Born Star","description":"","icon":"data/images/d_/ts/ia/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[58479]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3700406782,
-  "name": "Elsweyr Sarcophagus Lid, Lunar Champion",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_sarcophagus003.png",
-  "bindType": -1,
-  "knownIds": [
-    151856
-  ]
-}
+{"internalId":3700406782,"name":"Elsweyr Sarcophagus Lid, Lunar Champion","description":"This is a standard house item.","icon":"data/images/30/0s/ug/housing_els_str_sarcophagus003.png","bindType":-1,"knownIds":[151856]}

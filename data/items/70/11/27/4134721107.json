@@ -1,10 +1,1 @@
-{
-  "internalId": 4134721107,
-  "name": "Helm of the Ash'abah",
-  "description": "For walking the path of the first Ash'abah, Talia granted you this helm.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7529
-  ]
-}
+{"internalId":4134721107,"name":"Helm of the Ash'abah","description":"For walking the path of the first Ash'abah, Talia granted you this helm.","icon":"data/images/d_/da/eh/gear_redguard_heavy_head_d.png","bindType":2,"knownIds":[7529]}

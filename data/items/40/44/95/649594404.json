@@ -1,10 +1,1 @@
-{
-  "internalId": 649594404,
-  "name": "Stone-Nest Seed Doll, Fish",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkseeddollfish001.png",
-  "bindType": -1,
-  "knownIds": [
-    220330
-  ]
-}
+{"internalId":649594404,"name":"Stone-Nest Seed Doll, Fish","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkseeddollfish001.png","bindType":-1,"knownIds":[220330]}

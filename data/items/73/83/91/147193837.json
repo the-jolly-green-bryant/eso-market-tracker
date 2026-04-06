@@ -1,10 +1,1 @@
-{
-  "internalId": 147193837,
-  "name": "Praxis: Alinor Potted Plant, Twin Saplings",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    139631
-  ]
-}
+{"internalId":147193837,"name":"Praxis: Alinor Potted Plant, Twin Saplings","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[139631]}

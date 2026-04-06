@@ -1,10 +1,1 @@
-{
-  "internalId": 2202935383,
-  "name": "Wedding Planter, Octagonal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_housingvarboxplantergroup001.png",
-  "bindType": -1,
-  "knownIds": [
-    203134
-  ]
-}
+{"internalId":2202935383,"name":"Wedding Planter, Octagonal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_housingvarboxplantergroup001.png","bindType":-1,"knownIds":[203134]}

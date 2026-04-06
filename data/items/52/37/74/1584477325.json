@@ -1,10 +1,1 @@
-{
-  "internalId": 1584477325,
-  "name": "Combination Letter Opener and Rodent Skewer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    830914
-  ]
-}
+{"internalId":1584477325,"name":"Combination Letter Opener and Rodent Skewer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png","bindType":-1,"knownIds":[830914]}

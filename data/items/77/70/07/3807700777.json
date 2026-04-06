@@ -1,10 +1,1 @@
-{
-  "internalId": 3807700777,
-  "name": "Darkstride Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85964
-  ]
-}
+{"internalId":3807700777,"name":"Darkstride Arm Cops","description":"","icon":"data/images/a_/sr/ed/gear_thievesguildv2_medium_shoulders_a.png","bindType":2,"knownIds":[85964]}

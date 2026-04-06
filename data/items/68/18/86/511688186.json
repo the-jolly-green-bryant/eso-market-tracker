@@ -1,10 +1,1 @@
-{
-  "internalId": 511688186,
-  "name": "Tattered Flag",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_003.png",
-  "bindType": -1,
-  "knownIds": [
-    920926
-  ]
-}
+{"internalId":511688186,"name":"Tattered Flag","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_003.png","bindType":-1,"knownIds":[920926]}

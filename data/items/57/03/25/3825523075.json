@@ -1,10 +1,1 @@
-{
-  "internalId": 3825523075,
-  "name": "Fur Goop",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1313150
-  ]
-}
+{"internalId":3825523075,"name":"Fur Goop","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[1313150]}

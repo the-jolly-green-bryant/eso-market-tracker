@@ -1,10 +1,1 @@
-{
-  "internalId": 3771085829,
-  "name": "Totemic Skull Pillar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1380789
-  ]
-}
+{"internalId":3771085829,"name":"Totemic Skull Pillar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png","bindType":-1,"knownIds":[1380789]}

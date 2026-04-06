@@ -1,10 +1,1 @@
-{
-  "internalId": 2589517955,
-  "name": "Smith's Detailing Pad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1093488
-  ]
-}
+{"internalId":2589517955,"name":"Smith's Detailing Pad","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[1093488]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 526606185,
-  "name": "BLACKROSE: Destruction Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1411294
-  ]
-}
+{"internalId":526606185,"name":"BLACKROSE: Destruction Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1411294]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1713755467,
-  "name": "High Isle Walkway, Curved Castle",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castlefoundationcornerthin001.png",
-  "bindType": -1,
-  "knownIds": [
-    189485
-  ]
-}
+{"internalId":1713755467,"name":"High Isle Walkway, Curved Castle","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castlefoundationcornerthin001.png","bindType":-1,"knownIds":[189485]}

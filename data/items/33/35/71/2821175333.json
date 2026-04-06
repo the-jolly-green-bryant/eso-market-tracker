@@ -1,10 +1,1 @@
-{
-  "internalId": 2821175333,
-  "name": "Aunt Alessia's Pork Chops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_sirloin.png",
-  "bindType": -1,
-  "knownIds": [
-    33804
-  ]
-}
+{"internalId":2821175333,"name":"Aunt Alessia's Pork Chops","description":"","icon":"data/images/ni/ol/ri/crafting_cooking_grilled_sirloin.png","bindType":-1,"knownIds":[33804]}

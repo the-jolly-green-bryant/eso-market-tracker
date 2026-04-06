@@ -1,10 +1,1 @@
-{
-  "internalId": 378293748,
-  "name": "Apple Mashed Potatoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33511
-  ]
-}
+{"internalId":378293748,"name":"Apple Mashed Potatoes","description":"","icon":"data/images/10/0_/lw/crafting_bowl_001.png","bindType":-1,"knownIds":[33511]}

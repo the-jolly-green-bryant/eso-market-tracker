@@ -1,10 +1,1 @@
-{
-  "internalId": 2355512310,
-  "name": "Elsweyr Moon Reflection Tower, Base",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_run_housingmoontower001.png",
-  "bindType": -1,
-  "knownIds": [
-    189478
-  ]
-}
+{"internalId":2355512310,"name":"Elsweyr Moon Reflection Tower, Base","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_kha_run_housingmoontower001.png","bindType":-1,"knownIds":[189478]}

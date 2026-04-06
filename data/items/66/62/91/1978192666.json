@@ -1,10 +1,1 @@
-{
-  "internalId": 1978192666,
-  "name": "Solitude Streetlight, Paired",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_lightpost002.png",
-  "bindType": -1,
-  "knownIds": [
-    165847
-  ]
-}
+{"internalId":1978192666,"name":"Solitude Streetlight, Paired","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_lightpost002.png","bindType":-1,"knownIds":[165847]}

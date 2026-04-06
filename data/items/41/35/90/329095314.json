@@ -1,10 +1,1 @@
-{
-  "internalId": 329095314,
-  "name": "Pattern: Apocrypha Book Piles, Floating",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    198527
-  ]
-}
+{"internalId":329095314,"name":"Pattern: Apocrypha Book Piles, Floating","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[198527]}

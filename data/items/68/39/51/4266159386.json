@@ -1,12 +1,1 @@
-{
-  "internalId": 4266159386,
-  "name": "Golden Gwendariel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1241071,
-    1241071,
-    1241071
-  ]
-}
+{"internalId":4266159386,"name":"Golden Gwendariel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[1241071,1241071,1241071]}

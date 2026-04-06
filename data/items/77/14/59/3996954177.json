@@ -1,10 +1,1 @@
-{
-  "internalId": 3996954177,
-  "name": "Clerk's Gull-Feather Quill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403657
-  ]
-}
+{"internalId":3996954177,"name":"Clerk's Gull-Feather Quill","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[403657]}

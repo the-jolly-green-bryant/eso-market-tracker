@@ -1,10 +1,1 @@
-{
-  "internalId": 1304362053,
-  "name": "Superb Glyph of Magicka Recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_magickaregen.png",
-  "bindType": -1,
-  "knownIds": [
-    1426550
-  ]
-}
+{"internalId":1304362053,"name":"Superb Glyph of Magicka Recovery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_magickaregen.png","bindType":-1,"knownIds":[1426550]}

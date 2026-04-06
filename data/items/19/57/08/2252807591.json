@@ -1,10 +1,1 @@
-{
-  "internalId": 2252807591,
-  "name": "Blueprint: Redguard End Table, Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119297
-  ]
-}
+{"internalId":2252807591,"name":"Blueprint: Redguard End Table, Tea","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[119297]}

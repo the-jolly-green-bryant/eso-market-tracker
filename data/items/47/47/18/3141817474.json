@@ -1,10 +1,1 @@
-{
-  "internalId": 3141817474,
-  "name": "Blueprint: Redguard Caravan, Cargo",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119228
-  ]
-}
+{"internalId":3141817474,"name":"Blueprint: Redguard Caravan, Cargo","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[119228]}

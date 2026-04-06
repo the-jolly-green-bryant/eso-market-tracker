@@ -1,10 +1,1 @@
-{
-  "internalId": 3601596856,
-  "name": "Shattered Fate Light Armor",
-  "description": "A Crafted Armor set constructed in the Telvanni Peninsula.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    194933
-  ]
-}
+{"internalId":3601596856,"name":"Shattered Fate Light Armor","description":"A Crafted Armor set constructed in the Telvanni Peninsula.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[194933]}

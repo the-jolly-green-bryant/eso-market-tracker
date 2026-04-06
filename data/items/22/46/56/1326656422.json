@@ -1,10 +1,1 @@
-{
-  "internalId": 1326656422,
-  "name": "Tapestry of a Failed Incarnate, The Fool",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_incarnatestapestries003.png",
-  "bindType": -1,
-  "knownIds": [
-    165998
-  ]
-}
+{"internalId":1326656422,"name":"Tapestry of a Failed Incarnate, The Fool","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_incarnatestapestries003.png","bindType":-1,"knownIds":[165998]}

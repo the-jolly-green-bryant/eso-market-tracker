@@ -1,10 +1,1 @@
-{
-  "internalId": 130952059,
-  "name": "Recipe: Orcish Bratwurst on Bun",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56999
-  ]
-}
+{"internalId":130952059,"name":"Recipe: Orcish Bratwurst on Bun","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56999]}

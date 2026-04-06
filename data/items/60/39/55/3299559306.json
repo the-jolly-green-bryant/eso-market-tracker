@@ -1,10 +1,1 @@
-{
-  "internalId": 3299559306,
-  "name": "Formula: Worm Cult Apparatus, Condenser",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    223622
-  ]
-}
+{"internalId":3299559306,"name":"Formula: Worm Cult Apparatus, Condenser","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[223622]}

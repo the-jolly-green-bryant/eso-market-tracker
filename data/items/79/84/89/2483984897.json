@@ -1,10 +1,1 @@
-{
-  "internalId": 2483984897,
-  "name": "Ra Gada Guardian Statue, Winged Bull",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varstatues003.png",
-  "bindType": -1,
-  "knownIds": [
-    134888
-  ]
-}
+{"internalId":2483984897,"name":"Ra Gada Guardian Statue, Winged Bull","description":"This is a large house item.","icon":"data/images/30/0s/eu/housing_red_run_varstatues003.png","bindType":-1,"knownIds":[134888]}

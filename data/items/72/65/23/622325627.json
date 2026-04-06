@@ -1,10 +1,1 @@
-{
-  "internalId": 622325627,
-  "name": "Stygian Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102222
-  ]
-}
+{"internalId":622325627,"name":"Stygian Ice Staff","description":"","icon":"data/images/a_/ff/at/gear_draugr_staff_a.png","bindType":2,"knownIds":[102222]}

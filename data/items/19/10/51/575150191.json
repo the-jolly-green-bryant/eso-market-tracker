@@ -1,10 +1,1 @@
-{
-  "internalId": 575150191,
-  "name": "Alinor Ancestor Clock, Celestial",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altclock001.png",
-  "bindType": -1,
-  "knownIds": [
-    139091
-  ]
-}
+{"internalId":575150191,"name":"Alinor Ancestor Clock, Celestial","description":"This is a standard house item.","icon":"data/images/10/0k/co/housing_sum_inc_altclock001.png","bindType":-1,"knownIds":[139091]}

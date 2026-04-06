@@ -1,10 +1,1 @@
-{
-  "internalId": 2383216990,
-  "name": "Crafting Motif 51: Hlaalu Shoulders",
-  "description": "Use to learn how to make Hlaalu Shoulders. Also teaches the equivalent Hlaalu Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    130006
-  ]
-}
+{"internalId":2383216990,"name":"Crafting Motif 51: Hlaalu Shoulders","description":"Use to learn how to make Hlaalu Shoulders. Also teaches the equivalent Hlaalu Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[130006]}

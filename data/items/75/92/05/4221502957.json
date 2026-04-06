@@ -1,11 +1,1 @@
-{
-  "internalId": 4221502957,
-  "name": "Bop-A-Barbarian",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1373853,
-    1373853
-  ]
-}
+{"internalId":4221502957,"name":"Bop-A-Barbarian","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[1373853,1373853]}

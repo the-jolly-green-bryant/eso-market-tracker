@@ -1,10 +1,1 @@
-{
-  "internalId": 620549446,
-  "name": "Antique Map of Western Skyrim",
-  "description": "Explore the regions of Western Skyrim with this masterful map. Elevations, waterways, and roads may be a tad out of date.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_skr_inc_mappropsskyrimquestscroll001.png",
-  "bindType": -1,
-  "knownIds": [
-    165992
-  ]
-}
+{"internalId":620549446,"name":"Antique Map of Western Skyrim","description":"Explore the regions of Western Skyrim with this masterful map. Elevations, waterways, and roads may be a tad out of date.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_skr_inc_mappropsskyrimquestscroll001.png","bindType":-1,"knownIds":[165992]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 969458515,
-  "name": "Ring of Vampire's Kiss",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140131
-  ]
-}
+{"internalId":969458515,"name":"Ring of Vampire's Kiss","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140131]}

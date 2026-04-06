@@ -1,10 +1,1 @@
-{
-  "internalId": 4173009222,
-  "name": "Orcish Throne, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgthrone003.png",
-  "bindType": -1,
-  "knownIds": [
-    116421
-  ]
-}
+{"internalId":4173009222,"name":"Orcish Throne, Stone","description":"This is a standard house item.","icon":"data/images/30/0e/no/housing_orc_duc_wtgthrone003.png","bindType":-1,"knownIds":[116421]}

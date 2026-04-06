@@ -1,10 +1,1 @@
-{
-  "internalId": 929200424,
-  "name": "Druidic Meditation Stones, Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drustonestacknomoss001.png",
-  "bindType": -1,
-  "knownIds": [
-    191161
-  ]
-}
+{"internalId":929200424,"name":"Druidic Meditation Stones, Tall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drustonestacknomoss001.png","bindType":-1,"knownIds":[191161]}

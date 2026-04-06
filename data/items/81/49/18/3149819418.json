@@ -1,10 +1,1 @@
-{
-  "internalId": 3149819418,
-  "name": "Praxis: Solitude Wall, Low Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    167354
-  ]
-}
+{"internalId":3149819418,"name":"Praxis: Solitude Wall, Low Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[167354]}

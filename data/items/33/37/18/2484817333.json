@@ -1,10 +1,1 @@
-{
-  "internalId": 2484817333,
-  "name": "Deadlight Raiment",
-  "description": "Awarded for stopping Sister Celdina in Deadlight.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    182838
-  ]
-}
+{"internalId":2484817333,"name":"Deadlight Raiment","description":"Awarded for stopping Sister Celdina in Deadlight.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_medium_chest_d.png","bindType":2,"knownIds":[182838]}

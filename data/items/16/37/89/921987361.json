@@ -1,17 +1,1 @@
-{
-  "internalId": 921987361,
-  "name": "orichalc-steel battle axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    647748,
-    791012,
-    871799,
-    1065395,
-    647748,
-    791012,
-    871799,
-    1065395
-  ]
-}
+{"internalId":921987361,"name":"orichalc-steel battle axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":-1,"knownIds":[647748,791012,871799,1065395,647748,791012,871799,1065395]}

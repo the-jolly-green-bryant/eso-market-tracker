@@ -1,10 +1,1 @@
-{
-  "internalId": 931247126,
-  "name": "Iron Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_gladiatormd_hvy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212343
-  ]
-}
+{"internalId":931247126,"name":"Iron Sabatons","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150808]}

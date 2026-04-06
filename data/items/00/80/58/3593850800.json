@@ -1,10 +1,1 @@
-{
-  "internalId": 3593850800,
-  "name": "Shield of the Noble Duelist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    91341
-  ]
-}
+{"internalId":3593850800,"name":"Shield of the Noble Duelist","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[91341]}

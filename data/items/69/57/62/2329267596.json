@@ -1,10 +1,1 @@
-{
-  "internalId": 2329267596,
-  "name": "Apocrypha Podium, Candlelit",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bookpedestal001.png",
-  "bindType": -1,
-  "knownIds": [
-    197846
-  ]
-}
+{"internalId":2329267596,"name":"Apocrypha Podium, Candlelit","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bookpedestal001.png","bindType":-1,"knownIds":[197846]}

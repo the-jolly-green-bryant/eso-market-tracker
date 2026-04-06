@@ -1,10 +1,1 @@
-{
-  "internalId": 377700503,
-  "name": "Tool, Hoe",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_hoe001.png",
-  "bindType": -1,
-  "knownIds": [
-    153665
-  ]
-}
+{"internalId":377700503,"name":"Tool, Hoe","description":"This is a standard house item.","icon":"data/images/10/0e/oh/housing_bre_exc_hoe001.png","bindType":-1,"knownIds":[153665]}

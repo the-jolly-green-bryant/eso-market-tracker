@@ -1,10 +1,1 @@
-{
-  "internalId": 36584691,
-  "name": "Reach Briarheart, Blood Red",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_wrgbriarheartheartred.png",
-  "bindType": -1,
-  "knownIds": [
-    132144
-  ]
-}
+{"internalId":36584691,"name":"Reach Briarheart, Blood Red","description":"This is a tiny house item.","icon":"data/images/de/rt/ra/housing_tre_fan_wrgbriarheartheartred.png","bindType":-1,"knownIds":[132144]}

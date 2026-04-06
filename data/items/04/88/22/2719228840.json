@@ -1,10 +1,1 @@
-{
-  "internalId": 2719228840,
-  "name": "Hive Seed",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    817111
-  ]
-}
+{"internalId":2719228840,"name":"Hive Seed","description":"","icon":null,"bindType":-1,"knownIds":[817111]}

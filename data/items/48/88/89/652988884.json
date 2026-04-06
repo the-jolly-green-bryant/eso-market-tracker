@@ -1,10 +1,1 @@
-{
-  "internalId": 652988884,
-  "name": "Knights of Saint Pelin Saddle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_saddle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1277748
-  ]
-}
+{"internalId":652988884,"name":"Knights of Saint Pelin Saddle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_saddle_001.png","bindType":-1,"knownIds":[1277748]}

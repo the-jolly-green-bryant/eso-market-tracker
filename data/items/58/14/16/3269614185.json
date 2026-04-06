@@ -1,10 +1,1 @@
-{
-  "internalId": 3269614185,
-  "name": "Recipe: Crystal Clarity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46047
-  ]
-}
+{"internalId":3269614185,"name":"Recipe: Crystal Clarity","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46047]}

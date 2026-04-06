@@ -1,10 +1,1 @@
-{
-  "internalId": 3811146070,
-  "name": "Recipe: Spicy Beet Salad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45920
-  ]
-}
+{"internalId":3811146070,"name":"Recipe: Spicy Beet Salad","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45920]}

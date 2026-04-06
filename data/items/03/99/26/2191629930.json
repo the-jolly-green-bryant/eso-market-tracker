@@ -1,10 +1,1 @@
-{
-  "internalId": 2191629930,
-  "name": "Pattern: Argonian Canopy, Frilled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115787
-  ]
-}
+{"internalId":2191629930,"name":"Pattern: Argonian Canopy, Frilled","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115787]}

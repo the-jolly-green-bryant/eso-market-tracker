@@ -1,10 +1,1 @@
-{
-  "internalId": 2995475994,
-  "name": "Breton Pummel-Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png",
-  "bindType": -1,
-  "knownIds": [
-    796972
-  ]
-}
+{"internalId":2995475994,"name":"Breton Pummel-Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png","bindType":-1,"knownIds":[796972]}

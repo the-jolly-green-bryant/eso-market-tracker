@@ -1,10 +1,1 @@
-{
-  "internalId": 3858342195,
-  "name": "Restoration Staff of the Spectre's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56464
-  ]
-}
+{"internalId":3858342195,"name":"Restoration Staff of the Spectre's Eye","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[56464]}

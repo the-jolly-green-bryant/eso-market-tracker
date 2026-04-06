@@ -1,13 +1,1 @@
-{
-  "internalId": 462336422,
-  "name": "Ring of Stone's Accord",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600647,
-    1603308,
-    1600647,
-    1603308
-  ]
-}
+{"internalId":462336422,"name":"Ring of Stone's Accord","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1600647,1603308,1600647,1603308]}

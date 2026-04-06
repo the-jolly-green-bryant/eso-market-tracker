@@ -1,13 +1,1 @@
-{
-  "internalId": 3992888109,
-  "name": "Perfected Pearlescent Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1587078,
-    1601031,
-    1587078,
-    1601031
-  ]
-}
+{"internalId":3992888109,"name":"Perfected Pearlescent Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1587078,1601031,1587078,1601031]}

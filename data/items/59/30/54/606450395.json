@@ -1,10 +1,1 @@
-{
-  "internalId": 606450395,
-  "name": "Diagram: Cage Wall, Gated",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    219769
-  ]
-}
+{"internalId":606450395,"name":"Diagram: Cage Wall, Gated","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[219769]}

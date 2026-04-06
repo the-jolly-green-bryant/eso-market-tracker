@@ -1,10 +1,1 @@
-{
-  "internalId": 1974292759,
-  "name": "Limb-Render of the Senche",
-  "description": "A stout blade left behind by miners fleeing Kuna's Delve, it now bears the same name as the troll's alpha leader.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34798
-  ]
-}
+{"internalId":1974292759,"name":"Limb-Render of the Senche","description":"A stout blade left behind by miners fleeing Kuna's Delve, it now bears the same name as the troll's alpha leader.","icon":"data/images/d_/dr/ow/gear_khajiit_2hsword_d.png","bindType":2,"knownIds":[34798]}

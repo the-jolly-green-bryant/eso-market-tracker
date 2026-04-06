@@ -1,10 +1,1 @@
-{
-  "internalId": 678444506,
-  "name": "Rock, Gabbro Boulder",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_bad_small001.png",
-  "bindType": -1,
-  "knownIds": [
-    181600
-  ]
-}
+{"internalId":678444506,"name":"Rock, Gabbro Boulder","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_bad_small001.png","bindType":-1,"knownIds":[181600]}

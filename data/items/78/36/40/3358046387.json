@@ -1,15 +1,1 @@
-{
-  "internalId": 3358046387,
-  "name": "Vykand's Soulfury Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgemmed_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764865,
-    1765208,
-    1771309,
-    1764865,
-    1765208,
-    1771309
-  ]
-}
+{"internalId":3358046387,"name":"Vykand's Soulfury Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgemmed_shoulders_a.png","bindType":-1,"knownIds":[1764865,1765208,1771309,1764865,1765208,1771309]}

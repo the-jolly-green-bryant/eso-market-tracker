@@ -1,10 +1,1 @@
-{
-  "internalId": 1470718993,
-  "name": "Jack of the Twice-Born Star",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    58476
-  ]
-}
+{"internalId":1470718993,"name":"Jack of the Twice-Born Star","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[58476]}

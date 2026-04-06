@@ -1,10 +1,1 @@
-{
-  "internalId": 1179660722,
-  "name": "Honor of the Steadfast",
-  "description": "A medal presented by the Society of the Steadfast in thanks for heroism on High Isle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    188121
-  ]
-}
+{"internalId":1179660722,"name":"Honor of the Steadfast","description":"A medal presented by the Society of the Steadfast in thanks for heroism on High Isle.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[188121]}

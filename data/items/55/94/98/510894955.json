@@ -1,10 +1,1 @@
-{
-  "internalId": 510894955,
-  "name": "Prosecutorial Emblem of Merit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1371775
-  ]
-}
+{"internalId":510894955,"name":"Prosecutorial Emblem of Merit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png","bindType":-1,"knownIds":[1371775]}

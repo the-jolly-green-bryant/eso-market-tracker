@@ -1,10 +1,1 @@
-{
-  "internalId": 3785582537,
-  "name": "Faithful Greaves",
-  "description": "Worn by the most faithful of the lunar clergy, blessed by the light of Jone and Jode.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10931
-  ]
-}
+{"internalId":3785582537,"name":"Faithful Greaves","description":"Worn by the most faithful of the lunar clergy, blessed by the light of Jone and Jode.","icon":"data/images/d_/sg/el/gear_khajiit_heavy_legs_d.png","bindType":2,"knownIds":[10931]}

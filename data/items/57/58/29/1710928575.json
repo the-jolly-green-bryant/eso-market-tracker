@@ -1,10 +1,1 @@
-{
-  "internalId": 1710928575,
-  "name": "Knight Slayer Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123681
-  ]
-}
+{"internalId":1710928575,"name":"Knight Slayer Sword","description":"","icon":"data/images/a_/dr/ow/gear_ordinator_1hsword_a.png","bindType":2,"knownIds":[123681]}

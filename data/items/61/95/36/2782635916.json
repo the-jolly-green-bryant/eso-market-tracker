@@ -1,10 +1,1 @@
-{
-  "internalId": 2782635916,
-  "name": "Necklace of Flanking",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77519
-  ]
-}
+{"internalId":2782635916,"name":"Necklace of Flanking","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[77519]}

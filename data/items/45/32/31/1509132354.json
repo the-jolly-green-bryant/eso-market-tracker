@@ -1,10 +1,1 @@
-{
-  "internalId": 1509132354,
-  "name": "Phoenix Moth Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190683
-  ]
-}
+{"internalId":1509132354,"name":"Phoenix Moth Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1hhammer_a.png","bindType":2,"knownIds":[190683]}

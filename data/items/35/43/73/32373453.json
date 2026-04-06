@@ -1,10 +1,1 @@
-{
-  "internalId": 32373453,
-  "name": "Crafting Motif 105: Crimson Oath Helmets",
-  "description": "Use to learn how to make Crimson Oath Helmets. Also teaches the equivalent Crimson Oath Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    176065
-  ]
-}
+{"internalId":32373453,"name":"Crafting Motif 105: Crimson Oath Helmets","description":"Use to learn how to make Crimson Oath Helmets. Also teaches the equivalent Crimson Oath Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[176065]}

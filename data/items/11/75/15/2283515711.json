@@ -1,10 +1,1 @@
-{
-  "internalId": 2283515711,
-  "name": "Diagram: Solitude Cauldron, Hanging",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    166922
-  ]
-}
+{"internalId":2283515711,"name":"Diagram: Solitude Cauldron, Hanging","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[166922]}

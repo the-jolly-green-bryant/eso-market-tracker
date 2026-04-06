@@ -1,10 +1,1 @@
-{
-  "internalId": 2162395565,
-  "name": "Smuggler's Gloves of Three Mercies",
-  "description": "These finely crafted, waterproof gloves were made for the Queen of Three Mercies.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43012
-  ]
-}
+{"internalId":2162395565,"name":"Smuggler's Gloves of Three Mercies","description":"These finely crafted, waterproof gloves were made for the Queen of Three Mercies.","icon":"data/images/d_/sd/na/gear_dunmer_light_hands_d.png","bindType":2,"knownIds":[43012]}

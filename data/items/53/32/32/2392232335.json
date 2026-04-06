@@ -1,10 +1,1 @@
-{
-  "internalId": 2392232335,
-  "name": "Praxis: Alinor Fountain, Four-Way Timeworn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    139588
-  ]
-}
+{"internalId":2392232335,"name":"Praxis: Alinor Fountain, Four-Way Timeworn","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[139588]}

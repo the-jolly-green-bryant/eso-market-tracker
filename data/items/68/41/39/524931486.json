@@ -1,10 +1,1 @@
-{
-  "internalId": 524931486,
-  "name": "Nord Pot, Stew",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_inc_foodpotsm002.png",
-  "bindType": -1,
-  "knownIds": [
-    115366
-  ]
-}
+{"internalId":524931486,"name":"Nord Pot, Stew","description":"This is a small house item.","icon":"data/images/20/0m/st/housing_nor_inc_foodpotsm002.png","bindType":-1,"knownIds":[115366]}

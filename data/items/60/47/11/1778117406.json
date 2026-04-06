@@ -1,10 +1,1 @@
-{
-  "internalId": 1778117406,
-  "name": "Shipment of Ingots V",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1308014
-  ]
-}
+{"internalId":1778117406,"name":"Shipment of Ingots V","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1308014]}

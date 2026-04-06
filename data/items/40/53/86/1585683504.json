@@ -1,10 +1,1 @@
-{
-  "internalId": 1585683504,
-  "name": "Weapons: Arkasis's Genius",
-  "description": "A Heavy Armor set found in Stone Garden.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    165419
-  ]
-}
+{"internalId":1585683504,"name":"Weapons: Arkasis's Genius","description":"A Heavy Armor set found in Stone Garden.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[165419]}

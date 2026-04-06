@@ -1,10 +1,1 @@
-{
-  "internalId": 1397205901,
-  "name": "Necrom Counter, Cabinet",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_neccounterhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    197494
-  ]
-}
+{"internalId":1397205901,"name":"Necrom Counter, Cabinet","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_neccounterhigh001.png","bindType":-1,"knownIds":[197494]}

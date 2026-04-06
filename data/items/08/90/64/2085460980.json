@@ -1,10 +1,1 @@
-{
-  "internalId": 2085460980,
-  "name": "Matching Silver Spice Shakers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1078374
-  ]
-}
+{"internalId":2085460980,"name":"Matching Silver Spice Shakers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[1078374]}

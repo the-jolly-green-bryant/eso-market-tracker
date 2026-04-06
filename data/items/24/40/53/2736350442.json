@@ -1,10 +1,1 @@
-{
-  "internalId": 2736350442,
-  "name": "Crafting Motif 91: Hazardous Alchemy Gloves",
-  "description": "Use to learn how to make Hazardous Alchemy Gloves. Also teaches the equivalent Hazardous Alchemy Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    166996
-  ]
-}
+{"internalId":2736350442,"name":"Crafting Motif 91: Hazardous Alchemy Gloves","description":"Use to learn how to make Hazardous Alchemy Gloves. Also teaches the equivalent Hazardous Alchemy Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[166996]}

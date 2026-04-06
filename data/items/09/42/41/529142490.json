@@ -1,10 +1,1 @@
-{
-  "internalId": 529142490,
-  "name": "Blueprint: Colovian Chest, Rustic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    207851
-  ]
-}
+{"internalId":529142490,"name":"Blueprint: Colovian Chest, Rustic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[207851]}

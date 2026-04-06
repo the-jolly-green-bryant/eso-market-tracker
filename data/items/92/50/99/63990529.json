@@ -1,10 +1,1 @@
-{
-  "internalId": 63990529,
-  "name": "Crafting Motif 44: Silken Ring Style",
-  "description": "Use to learn the Silken Ring crafting style. Also teaches the equivalent Silken Ring Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    114967
-  ]
-}
+{"internalId":63990529,"name":"Crafting Motif 44: Silken Ring Style","description":"Use to learn the Silken Ring crafting style. Also teaches the equivalent Silken Ring Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[114967]}

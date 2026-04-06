@@ -1,10 +1,1 @@
-{
-  "internalId": 2894535457,
-  "name": "Blueprint: Colovian Shelf, Rustic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    207827
-  ]
-}
+{"internalId":2894535457,"name":"Blueprint: Colovian Shelf, Rustic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[207827]}

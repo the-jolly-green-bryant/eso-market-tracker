@@ -1,10 +1,1 @@
-{
-  "internalId": 1398432474,
-  "name": "Praxis: Clockwork Mortar and Pestle, Sintered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    134524
-  ]
-}
+{"internalId":1398432474,"name":"Praxis: Clockwork Mortar and Pestle, Sintered","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[134524]}

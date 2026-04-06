@@ -1,10 +1,1 @@
-{
-  "internalId": 3969225120,
-  "name": "Hlaalu Boxes, Compact",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlasmallstorage001.png",
-  "bindType": -1,
-  "knownIds": [
-    126831
-  ]
-}
+{"internalId":3969225120,"name":"Hlaalu Boxes, Compact","description":"This is a tiny house item.","icon":"data/images/10/0e/ga/housing_vrd_inc_hlasmallstorage001.png","bindType":-1,"knownIds":[126831]}

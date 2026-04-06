@@ -1,10 +1,1 @@
-{
-  "internalId": 818515418,
-  "name": "Hubalajad Palace Kitchen Key",
-  "description": "An elaborate ivory key.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_key_004.png",
-  "bindType": -1,
-  "knownIds": [
-    71314
-  ]
-}
+{"internalId":818515418,"name":"Hubalajad Palace Kitchen Key","description":"An elaborate ivory key.","icon":"data/images/40/0_/ye/quest_key_004.png","bindType":-1,"knownIds":[71314]}

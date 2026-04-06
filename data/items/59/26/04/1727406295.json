@@ -1,10 +1,1 @@
-{
-  "internalId": 1727406295,
-  "name": "Ayleid Refuge Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hsword.png",
-  "bindType": 2,
-  "knownIds": [
-    205367
-  ]
-}
+{"internalId":1727406295,"name":"Ayleid Refuge Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hsword.png","bindType":2,"knownIds":[205367]}

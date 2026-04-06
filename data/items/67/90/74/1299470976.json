@@ -1,10 +1,1 @@
-{
-  "internalId": 1299470976,
-  "name": "Coward's Gear Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123494
-  ]
-}
+{"internalId":1299470976,"name":"Coward's Gear Maul","description":"","icon":"data/images/a_/re/mm/gear_ordinator_2hhammer_a.png","bindType":2,"knownIds":[123494]}

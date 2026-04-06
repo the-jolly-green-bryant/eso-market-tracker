@@ -1,10 +1,1 @@
-{
-  "internalId": 2316252134,
-  "name": "Silken Arm-Sling",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png",
-  "bindType": -1,
-  "knownIds": [
-    415028
-  ]
-}
+{"internalId":2316252134,"name":"Silken Arm-Sling","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png","bindType":-1,"knownIds":[415028]}

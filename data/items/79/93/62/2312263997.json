@@ -1,10 +1,1 @@
-{
-  "internalId": 2312263997,
-  "name": "Petal From the Sanguine Rose",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_sanguine_rose_petal.png",
-  "bindType": -1,
-  "knownIds": [
-    1170064
-  ]
-}
+{"internalId":2312263997,"name":"Petal From the Sanguine Rose","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_sanguine_rose_petal.png","bindType":-1,"knownIds":[1170064]}

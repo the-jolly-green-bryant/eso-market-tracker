@@ -1,10 +1,1 @@
-{
-  "internalId": 1140468373,
-  "name": "Dauntless Combatant's Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159428
-  ]
-}
+{"internalId":1140468373,"name":"Dauntless Combatant's Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[159428]}

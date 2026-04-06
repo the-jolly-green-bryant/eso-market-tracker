@@ -1,10 +1,1 @@
-{
-  "internalId": 4101754015,
-  "name": "Minor Soul Gem (Empty)",
-  "description": "Used to capture Level 10 - 19 souls.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_002_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    33261
-  ]
-}
+{"internalId":4101754015,"name":"Minor Soul Gem (Empty)","description":"Used to capture Level 10 - 19 souls.","icon":"data/images/yt/pm/e_/soulgem_002_empty.png","bindType":-1,"knownIds":[33261]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1541916046,
-  "name": "Galerion's Spare Staff",
-  "description": "The great mage, Vanus Galerion, gave you this staff for helping him destroy the Great Shackle and weaken the Planemeld.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15728
-  ]
-}
+{"internalId":1541916046,"name":"Galerion's Spare Staff","description":"The great mage, Vanus Galerion, gave you this staff for helping him destroy the Great Shackle and weaken the Planemeld.","icon":"data/images/d_/ff/at/gear_altmer_staff_d.png","bindType":2,"knownIds":[15728]}

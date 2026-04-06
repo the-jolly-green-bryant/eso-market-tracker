@@ -1,10 +1,1 @@
-{
-  "internalId": 371538661,
-  "name": "Spider Egg",
-  "description": "An ingredient for alchemy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_spider_egg.png",
-  "bindType": -1,
-  "knownIds": [
-    77584
-  ]
-}
+{"internalId":371538661,"name":"Spider Egg","description":"An ingredient for alchemy.","icon":"data/images/gg/e_/re/crafting_poisonmaking_reagent_spider_egg.png","bindType":-1,"knownIds":[77584]}

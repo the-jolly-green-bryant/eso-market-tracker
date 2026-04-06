@@ -1,10 +1,1 @@
-{
-  "internalId": 1651389713,
-  "name": "Plant Cluster, Maroon Aloe",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_deadlandsredaloecluster001.png",
-  "bindType": -1,
-  "knownIds": [
-    181596
-  ]
-}
+{"internalId":1651389713,"name":"Plant Cluster, Maroon Aloe","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_deadlandsredaloecluster001.png","bindType":-1,"knownIds":[181596]}

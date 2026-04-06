@@ -1,10 +1,1 @@
-{
-  "internalId": 2097600043,
-  "name": "Alinor Tapestry, Royal Gryphons",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_tapestry003.png",
-  "bindType": -1,
-  "knownIds": [
-    139323
-  ]
-}
+{"internalId":2097600043,"name":"Alinor Tapestry, Royal Gryphons","description":"This is a standard house item.","icon":"data/images/30/0y/rt/housing_sum_inc_tapestry003.png","bindType":-1,"knownIds":[139323]}

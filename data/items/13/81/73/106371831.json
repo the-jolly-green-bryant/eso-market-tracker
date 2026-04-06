@@ -1,10 +1,1 @@
-{
-  "internalId": 106371831,
-  "name": "Nord Warrior Potato Porridge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_002.png",
-  "bindType": -1,
-  "knownIds": [
-    61085
-  ]
-}
+{"internalId":106371831,"name":"Nord Warrior Potato Porridge","description":"","icon":"data/images/20/0_/we/crafting_stew_002.png","bindType":-1,"knownIds":[61085]}

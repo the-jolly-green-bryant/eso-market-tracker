@@ -1,10 +1,1 @@
-{
-  "internalId": 2732638836,
-  "name": "Sapling, Petrified Ashen",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_coldharbor007.png",
-  "bindType": -1,
-  "knownIds": [
-    130280
-  ]
-}
+{"internalId":2732638836,"name":"Sapling, Petrified Ashen","description":"This is a large house item.","icon":"data/images/70/0r/ob/housing_tre_ded_coldharbor007.png","bindType":-1,"knownIds":[130280]}

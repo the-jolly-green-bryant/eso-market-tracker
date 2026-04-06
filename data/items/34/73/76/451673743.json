@@ -1,10 +1,1 @@
-{
-  "internalId": 451673743,
-  "name": "Hearts Week Wreath, Floral",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekwreath001.png",
-  "bindType": -1,
-  "knownIds": [
-    223851
-  ]
-}
+{"internalId":451673743,"name":"Hearts Week Wreath, Floral","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekwreath001.png","bindType":-1,"knownIds":[223851]}

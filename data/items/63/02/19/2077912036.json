@@ -1,10 +1,1 @@
-{
-  "internalId": 2077912036,
-  "name": "Tonsil Tingle Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
-  "bindType": -1,
-  "knownIds": [
-    32081
-  ]
-}
+{"internalId":2077912036,"name":"Tonsil Tingle Tonic","description":"","icon":"data/images/20/0_/st/crafting_spirits_002.png","bindType":-1,"knownIds":[32081]}

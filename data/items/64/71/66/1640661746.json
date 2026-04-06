@@ -1,10 +1,1 @@
-{
-  "internalId": 1640661746,
-  "name": "Jewelry: Systres' Scowl",
-  "description": "A Heavy Armor set found in High Isle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    186409
-  ]
-}
+{"internalId":1640661746,"name":"Jewelry: Systres' Scowl","description":"A Heavy Armor set found in High Isle.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[186409]}

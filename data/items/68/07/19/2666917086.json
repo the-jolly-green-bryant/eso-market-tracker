@@ -1,17 +1,1 @@
-{
-  "internalId": 2666917086,
-  "name": "High King's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    401739,
-    536005,
-    614862,
-    787953,
-    401739,
-    536005,
-    614862,
-    787953
-  ]
-}
+{"internalId":2666917086,"name":"High King's Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":-1,"knownIds":[401739,536005,614862,787953,401739,536005,614862,787953]}

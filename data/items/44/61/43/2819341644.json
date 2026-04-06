@@ -1,10 +1,1 @@
-{
-  "internalId": 2819341644,
-  "name": "Pirates of the Abecean",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png",
-  "bindType": -1,
-  "knownIds": [
-    1199282
-  ]
-}
+{"internalId":2819341644,"name":"Pirates of the Abecean","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png","bindType":-1,"knownIds":[1199282]}

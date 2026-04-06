@@ -1,10 +1,1 @@
-{
-  "internalId": 3954472359,
-  "name": "Cartographer's Tricorn",
-  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Belt collectible fragment.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_belt.png",
-  "bindType": -1,
-  "knownIds": [
-    166705
-  ]
-}
+{"internalId":3954472359,"name":"Cartographer's Tricorn","description":"Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Belt collectible fragment.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_belt.png","bindType":-1,"knownIds":[166705]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3051341298,
-  "name": "Tenarr Zalviit Pauldrons",
-  "description": "Tenarr Zalviit is Ta'agra for 'Night Stalkers.'",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_heavy_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    150401
-  ]
-}
+{"internalId":3051341298,"name":"Tenarr Zalviit Pauldrons","description":"Tenarr Zalviit is Ta'agra for 'Night Stalkers.'","icon":"data/images/a_/re/dl/gear_pellitine_heavy_shoulder_a.png","bindType":2,"knownIds":[150401]}

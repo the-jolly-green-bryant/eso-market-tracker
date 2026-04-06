@@ -1,10 +1,1 @@
-{
-  "internalId": 3725073302,
-  "name": "Savory-Sweet Fried Kale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57133
-  ]
-}
+{"internalId":3725073302,"name":"Savory-Sweet Fried Kale","description":"","icon":"data/images/20/0_/te/crafting_skillet_002.png","bindType":-1,"knownIds":[57133]}

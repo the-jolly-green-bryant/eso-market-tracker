@@ -1,10 +1,1 @@
-{
-  "internalId": 1185024605,
-  "name": "Glorious Undaunted Box: Veteran Ruins of Mazzatun",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    190142
-  ]
-}
+{"internalId":1185024605,"name":"Glorious Undaunted Box: Veteran Ruins of Mazzatun","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[190142]}

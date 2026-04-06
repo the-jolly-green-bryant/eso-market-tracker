@@ -1,10 +1,1 @@
-{
-  "internalId": 4061034598,
-  "name": "Blacksmith Survey: Alik'r",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    963191
-  ]
-}
+{"internalId":4061034598,"name":"Blacksmith Survey: Alik'r","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[963191]}

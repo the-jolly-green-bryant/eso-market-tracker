@@ -1,10 +1,1 @@
-{
-  "internalId": 2147776879,
-  "name": "Fabricant Tree, Gnarled Cypress",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_clkcypress004.png",
-  "bindType": -1,
-  "knownIds": [
-    134306
-  ]
-}
+{"internalId":2147776879,"name":"Fabricant Tree, Gnarled Cypress","description":"This is a large house item.","icon":"data/images/40/0s/se/housing_tre_fan_clkcypress004.png","bindType":-1,"knownIds":[134306]}

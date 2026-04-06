@@ -1,10 +1,1 @@
-{
-  "internalId": 2495556481,
-  "name": "Bloodfed Rose",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_sanguine_rose_petal.png",
-  "bindType": -1,
-  "knownIds": [
-    1366223
-  ]
-}
+{"internalId":2495556481,"name":"Bloodfed Rose","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_sanguine_rose_petal.png","bindType":-1,"knownIds":[1366223]}

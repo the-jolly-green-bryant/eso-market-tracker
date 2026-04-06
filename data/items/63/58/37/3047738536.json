@@ -1,10 +1,1 @@
-{
-  "internalId": 3047738536,
-  "name": "Moonprowler's Musk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1335885
-  ]
-}
+{"internalId":3047738536,"name":"Moonprowler's Musk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[1335885]}

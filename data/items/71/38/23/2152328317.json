@@ -1,10 +1,1 @@
-{
-  "internalId": 2152328317,
-  "name": "Rough Spear, Fishing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_fishingspear001.png",
-  "bindType": -1,
-  "knownIds": [
-    117979
-  ]
-}
+{"internalId":2152328317,"name":"Rough Spear, Fishing","description":"This is a standard house item.","icon":"data/images/10/0r/ae/housing_gen_exc_fishingspear001.png","bindType":-1,"knownIds":[117979]}

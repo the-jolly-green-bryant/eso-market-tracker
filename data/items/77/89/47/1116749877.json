@@ -1,10 +1,1 @@
-{
-  "internalId": 1116749877,
-  "name": "Sandstone Guard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54996
-  ]
-}
+{"internalId":1116749877,"name":"Sandstone Guard","description":"","icon":"data/images/a_/dl/ei/gear_yokudan_shield_a.png","bindType":2,"knownIds":[54996]}

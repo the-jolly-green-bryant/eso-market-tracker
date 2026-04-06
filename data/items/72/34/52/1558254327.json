@@ -1,10 +1,1 @@
-{
-  "internalId": 1558254327,
-  "name": "Dead-Water's Guile Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142566
-  ]
-}
+{"internalId":1558254327,"name":"Dead-Water's Guile Dagger","description":"","icon":"data/images/a_/re/gg/gear_deadwater_dagger_a.png","bindType":2,"knownIds":[142566]}

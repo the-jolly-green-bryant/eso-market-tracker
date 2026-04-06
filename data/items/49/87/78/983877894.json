@@ -1,10 +1,1 @@
-{
-  "internalId": 983877894,
-  "name": "Mother Ciannait Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undciannait_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1755922
-  ]
-}
+{"internalId":983877894,"name":"Mother Ciannait Pauldron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undciannait_shoulders_a.png","bindType":-1,"knownIds":[1755922]}

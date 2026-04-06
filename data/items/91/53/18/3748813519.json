@@ -1,10 +1,1 @@
-{
-  "internalId": 3748813519,
-  "name": "Wooden Guar Pull-Toy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    805853
-  ]
-}
+{"internalId":3748813519,"name":"Wooden Guar Pull-Toy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png","bindType":-1,"knownIds":[805853]}

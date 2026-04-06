@@ -1,10 +1,1 @@
-{
-  "internalId": 216031030,
-  "name": "Elsweyr Rug, Sandflowers",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_ruground001.png",
-  "bindType": -1,
-  "knownIds": [
-    151751
-  ]
-}
+{"internalId":216031030,"name":"Elsweyr Rug, Sandflowers","description":"This is a standard house item.","icon":"data/images/10/0d/nu/housing_els_inc_ruground001.png","bindType":-1,"knownIds":[151751]}

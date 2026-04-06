@@ -1,10 +1,1 @@
-{
-  "internalId": 2215287748,
-  "name": "Formula: Dawnwood Fence, Curved Long",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    212591
-  ]
-}
+{"internalId":2215287748,"name":"Formula: Dawnwood Fence, Curved Long","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[212591]}

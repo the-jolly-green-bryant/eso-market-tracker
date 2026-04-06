@@ -1,10 +1,1 @@
-{
-  "internalId": 640157105,
-  "name": "Praxis: Murkmire Shrine, Sithis Coiled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    145967
-  ]
-}
+{"internalId":640157105,"name":"Praxis: Murkmire Shrine, Sithis Coiled","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[145967]}

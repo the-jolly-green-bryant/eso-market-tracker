@@ -1,10 +1,1 @@
-{
-  "internalId": 1956856997,
-  "name": "Greatsword of Destruction Mastery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87461
-  ]
-}
+{"internalId":1956856997,"name":"Greatsword of Destruction Mastery","description":"","icon":"data/images/d_/dr/ow/gear_altmer_2hsword_d.png","bindType":2,"knownIds":[87461]}

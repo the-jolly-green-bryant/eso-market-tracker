@@ -1,13 +1,1 @@
-{
-  "internalId": 4035654000,
-  "name": "average glyph of foulness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_diseaseessence.png",
-  "bindType": -1,
-  "knownIds": [
-    481615,
-    1473962,
-    481615,
-    1473962
-  ]
-}
+{"internalId":4035654000,"name":"average glyph of foulness","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_diseaseessence.png","bindType":-1,"knownIds":[481615,1473962,481615,1473962]}

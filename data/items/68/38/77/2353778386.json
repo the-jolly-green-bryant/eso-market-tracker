@@ -1,10 +1,1 @@
-{
-  "internalId": 2353778386,
-  "name": "Praxis: Stone Carving, Orb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    197768
-  ]
-}
+{"internalId":2353778386,"name":"Praxis: Stone Carving, Orb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[197768]}

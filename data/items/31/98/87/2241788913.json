@@ -1,10 +1,1 @@
-{
-  "internalId": 2241788913,
-  "name": "Rabbit Loin with Bitter Greens",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_sirloin.png",
-  "bindType": -1,
-  "knownIds": [
-    33409
-  ]
-}
+{"internalId":2241788913,"name":"Rabbit Loin with Bitter Greens","description":"","icon":"data/images/ni/ol/ri/crafting_cooking_grilled_sirloin.png","bindType":-1,"knownIds":[33409]}

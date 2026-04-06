@@ -1,10 +1,1 @@
-{
-  "internalId": 310669209,
-  "name": "Runebox: Soul-Shriven Skin",
-  "description": "Contains a Soul-Shriven Skin. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
-  "bindType": -1,
-  "knownIds": [
-    137963
-  ]
-}
+{"internalId":310669209,"name":"Runebox: Soul-Shriven Skin","description":"Contains a Soul-Shriven Skin. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.","icon":"data/images/10/0_/hp/container_sealed_polymorph_001.png","bindType":-1,"knownIds":[137963]}

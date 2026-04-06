@@ -1,10 +1,1 @@
-{
-  "internalId": 1979988198,
-  "name": "Jewelry Crafting Survey: Coldharbour II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240412
-  ]
-}
+{"internalId":1979988198,"name":"Jewelry Crafting Survey: Coldharbour II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1240412]}

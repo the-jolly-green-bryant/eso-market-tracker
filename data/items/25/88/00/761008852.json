@@ -1,10 +1,1 @@
-{
-  "internalId": 761008852,
-  "name": "Jester's Day Dribble Tankard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png",
-  "bindType": -1,
-  "knownIds": [
-    594023
-  ]
-}
+{"internalId":761008852,"name":"Jester's Day Dribble Tankard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png","bindType":-1,"knownIds":[594023]}

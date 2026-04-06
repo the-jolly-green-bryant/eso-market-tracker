@@ -1,15 +1,1 @@
-{
-  "internalId": 1160245223,
-  "name": "Jerall Mountains Warchief's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_highborngallant_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1693560,
-    1693561,
-    1693562,
-    1693560,
-    1693561,
-    1693562
-  ]
-}
+{"internalId":1160245223,"name":"Jerall Mountains Warchief's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_highborngallant_head_a.png","bindType":-1,"knownIds":[1693560,1693561,1693562,1693560,1693561,1693562]}

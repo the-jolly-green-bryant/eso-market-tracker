@@ -1,10 +1,1 @@
-{
-  "internalId": 4023288303,
-  "name": "Bizarre Daedric Text",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    403715
-  ]
-}
+{"internalId":4023288303,"name":"Bizarre Daedric Text","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[403715]}

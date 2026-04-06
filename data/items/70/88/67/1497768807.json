@@ -1,10 +1,1 @@
-{
-  "internalId": 1497768807,
-  "name": "Common Wheelbarrow, Flat",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_wheelbarrelflatbed001.png",
-  "bindType": -1,
-  "knownIds": [
-    118015
-  ]
-}
+{"internalId":1497768807,"name":"Common Wheelbarrow, Flat","description":"This is a small house item.","icon":"data/images/10/0d/eb/housing_bre_exc_wheelbarrelflatbed001.png","bindType":-1,"knownIds":[118015]}

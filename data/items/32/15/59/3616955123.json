@@ -1,10 +1,1 @@
-{
-  "internalId": 3616955123,
-  "name": "Leyawiin Divider, Octopus",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_screen002.png",
-  "bindType": -1,
-  "knownIds": [
-    175650
-  ]
-}
+{"internalId":3616955123,"name":"Leyawiin Divider, Octopus","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_screen002.png","bindType":-1,"knownIds":[175650]}

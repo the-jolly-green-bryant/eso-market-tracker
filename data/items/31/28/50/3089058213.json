@@ -1,10 +1,1 @@
-{
-  "internalId": 3089058213,
-  "name": "Unflinching Ultimate Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219639
-  ]
-}
+{"internalId":3089058213,"name":"Unflinching Ultimate Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[219639]}

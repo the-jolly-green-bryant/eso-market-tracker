@@ -1,10 +1,1 @@
-{
-  "internalId": 1467234081,
-  "name": "Girdle of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179160
-  ]
-}
+{"internalId":1467234081,"name":"Girdle of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[179160]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4176936490,
-  "name": "Singing Echo Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1321370,
-    1321370
-  ]
-}
+{"internalId":4176936490,"name":"Singing Echo Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[1321370,1321370]}

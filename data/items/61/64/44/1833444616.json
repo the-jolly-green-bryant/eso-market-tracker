@@ -1,10 +1,1 @@
-{
-  "internalId": 1833444616,
-  "name": "Rajhin the Ragged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1315903
-  ]
-}
+{"internalId":1833444616,"name":"Rajhin the Ragged","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[1315903]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 190902572,
-  "name": "Leyawiin Wardrobe, Formal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leycabinet003.png",
-  "bindType": -1,
-  "knownIds": [
-    175591
-  ]
-}
+{"internalId":190902572,"name":"Leyawiin Wardrobe, Formal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leycabinet003.png","bindType":-1,"knownIds":[175591]}

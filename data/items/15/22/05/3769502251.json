@@ -1,10 +1,1 @@
-{
-  "internalId": 3769502251,
-  "name": "Praxis: Argonian Censer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    115812
-  ]
-}
+{"internalId":3769502251,"name":"Praxis: Argonian Censer","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[115812]}

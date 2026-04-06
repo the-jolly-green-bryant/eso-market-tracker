@@ -1,17 +1,1 @@
-{
-  "internalId": 2219942421,
-  "name": "Icy Conjurer's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1605816,
-    1650346,
-    1763997,
-    1779109,
-    1605816,
-    1650346,
-    1763997,
-    1779109
-  ]
-}
+{"internalId":2219942421,"name":"Icy Conjurer's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png","bindType":-1,"knownIds":[1605816,1650346,1763997,1779109,1605816,1650346,1763997,1779109]}

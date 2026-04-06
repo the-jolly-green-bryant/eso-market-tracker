@@ -1,10 +1,1 @@
-{
-  "internalId": 2566974782,
-  "name": "Papa's Backscratcher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    533776
-  ]
-}
+{"internalId":2566974782,"name":"Papa's Backscratcher","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hhammer_d.png","bindType":-1,"knownIds":[533776]}

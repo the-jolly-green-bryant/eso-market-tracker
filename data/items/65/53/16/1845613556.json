@@ -1,10 +1,1 @@
-{
-  "internalId": 1845613556,
-  "name": "Clockwork Barrel, Sealed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_con_cargobarrel001.png",
-  "bindType": -1,
-  "knownIds": [
-    134316
-  ]
-}
+{"internalId":1845613556,"name":"Clockwork Barrel, Sealed","description":"This is a standard house item.","icon":"data/images/10/0l/er/housing_cwc_con_cargobarrel001.png","bindType":-1,"knownIds":[134316]}

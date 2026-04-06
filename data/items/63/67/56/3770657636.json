@@ -1,10 +1,1 @@
-{
-  "internalId": 3770657636,
-  "name": "Crafting Motif 113: Steadfast Society Staves",
-  "description": "Use to learn how to make Steadfast Society Staves. Also teaches the equivalent Steadfast Society Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    182550
-  ]
-}
+{"internalId":3770657636,"name":"Crafting Motif 113: Steadfast Society Staves","description":"Use to learn how to make Steadfast Society Staves. Also teaches the equivalent Steadfast Society Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[182550]}

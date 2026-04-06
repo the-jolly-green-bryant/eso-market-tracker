@@ -1,10 +1,1 @@
-{
-  "internalId": 3348829364,
-  "name": "Crafting Motif 87: Ancestral Nord Daggers",
-  "description": "Use to learn how to make Ancestral Nord Daggers. Also teaches the equivalent Ancestral Nord Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160582
-  ]
-}
+{"internalId":3348829364,"name":"Crafting Motif 87: Ancestral Nord Daggers","description":"Use to learn how to make Ancestral Nord Daggers. Also teaches the equivalent Ancestral Nord Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160582]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4107714321,
-  "name": "Bog Raider's Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_hvy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172444
-  ]
-}
+{"internalId":4107714321,"name":"Bog Raider's Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_hvy_head_a.png","bindType":2,"knownIds":[172444]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3259014673,
-  "name": "Brass Calipers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stinger_001.png",
-  "bindType": -1,
-  "knownIds": [
-    775674
-  ]
-}
+{"internalId":3259014673,"name":"Brass Calipers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stinger_001.png","bindType":-1,"knownIds":[775674]}

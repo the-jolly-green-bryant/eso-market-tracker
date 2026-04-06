@@ -1,10 +1,1 @@
-{
-  "internalId": 3068213816,
-  "name": "Diagram: Statue, Bronze Tentacle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png",
-  "bindType": -1,
-  "knownIds": [
-    194397
-  ]
-}
+{"internalId":3068213816,"name":"Diagram: Statue, Bronze Tentacle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png","bindType":-1,"knownIds":[194397]}

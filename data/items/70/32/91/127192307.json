@@ -1,10 +1,1 @@
-{
-  "internalId": 127192307,
-  "name": "Folding Lean-To",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tent_001.png",
-  "bindType": -1,
-  "knownIds": [
-    859005
-  ]
-}
+{"internalId":127192307,"name":"Folding Lean-To","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tent_001.png","bindType":-1,"knownIds":[859005]}

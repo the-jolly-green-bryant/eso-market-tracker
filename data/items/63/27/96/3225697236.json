@@ -1,10 +1,1 @@
-{
-  "internalId": 3225697236,
-  "name": "Dragonguard Elite",
-  "description": "A Medium Armor set found in Southern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    155397
-  ]
-}
+{"internalId":3225697236,"name":"Dragonguard Elite","description":"A Medium Armor set found in Southern Elsweyr.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[155397]}

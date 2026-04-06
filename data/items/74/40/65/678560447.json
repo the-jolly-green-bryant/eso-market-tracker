@@ -1,10 +1,1 @@
-{
-  "internalId": 678560447,
-  "name": "High Elf Bookcase, Short Verdant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_bookcaseshort001.png",
-  "bindType": -1,
-  "knownIds": [
-    116339
-  ]
-}
+{"internalId":678560447,"name":"High Elf Bookcase, Short Verdant","description":"This is a standard house item.","icon":"data/images/10/0t/ro/housing_alt_fur_bookcaseshort001.png","bindType":-1,"knownIds":[116339]}

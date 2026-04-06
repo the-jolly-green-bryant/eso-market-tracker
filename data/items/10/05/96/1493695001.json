@@ -1,10 +1,1 @@
-{
-  "internalId": 1493695001,
-  "name": "Deadlands Assassin's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172280
-  ]
-}
+{"internalId":1493695001,"name":"Deadlands Assassin's Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_legs_a.png","bindType":2,"knownIds":[172280]}

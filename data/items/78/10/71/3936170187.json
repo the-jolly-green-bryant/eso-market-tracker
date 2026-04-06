@@ -1,10 +1,1 @@
-{
-  "internalId": 3936170187,
-  "name": "Clockwork Junk Heap, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_exc_rubblepile002.png",
-  "bindType": -1,
-  "knownIds": [
-    134390
-  ]
-}
+{"internalId":3936170187,"name":"Clockwork Junk Heap, Large","description":"This is a large house item.","icon":"data/images/20/0e/li/housing_cwc_exc_rubblepile002.png","bindType":-1,"knownIds":[134390]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1980527685,
-  "name": "Diagram: Worm Cult Decor, Skeleton",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    223572
-  ]
-}
+{"internalId":1980527685,"name":"Diagram: Worm Cult Decor, Skeleton","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[223572]}

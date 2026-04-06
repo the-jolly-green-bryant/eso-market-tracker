@@ -1,10 +1,1 @@
-{
-  "internalId": 3946469411,
-  "name": "Flowers, Snowspray",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_u36largeleafy008.png",
-  "bindType": -1,
-  "knownIds": [
-    203590
-  ]
-}
+{"internalId":3946469411,"name":"Flowers, Snowspray","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_u36largeleafy008.png","bindType":-1,"knownIds":[203590]}

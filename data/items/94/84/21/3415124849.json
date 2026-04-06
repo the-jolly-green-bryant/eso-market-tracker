@@ -1,13 +1,1 @@
-{
-  "internalId": 3415124849,
-  "name": "trifling glyph of hardening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png",
-  "bindType": -1,
-  "knownIds": [
-    403879,
-    1426574,
-    403879,
-    1426574
-  ]
-}
+{"internalId":3415124849,"name":"trifling glyph of hardening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png","bindType":-1,"knownIds":[403879,1426574,403879,1426574]}

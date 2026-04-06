@@ -1,10 +1,1 @@
-{
-  "internalId": 3342792883,
-  "name": "Ra Gada Funerary Statue, Gilded Ibis",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varheronstatue001.png",
-  "bindType": -1,
-  "knownIds": [
-    134885
-  ]
-}
+{"internalId":3342792883,"name":"Ra Gada Funerary Statue, Gilded Ibis","description":"This is a standard house item.","icon":"data/images/10/0e/ut/housing_red_run_varheronstatue001.png","bindType":-1,"knownIds":[134885]}

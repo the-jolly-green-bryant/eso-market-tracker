@@ -1,10 +1,1 @@
-{
-  "internalId": 2260522500,
-  "name": "Ring of Serpent's Disdain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    185204
-  ]
-}
+{"internalId":2260522500,"name":"Ring of Serpent's Disdain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[185204]}

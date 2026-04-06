@@ -1,10 +1,1 @@
-{
-  "internalId": 4096754148,
-  "name": "Grimoire: Soul Burst",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_soulmagic2.png",
-  "bindType": 3,
-  "knownIds": [
-    204492
-  ]
-}
+{"internalId":4096754148,"name":"Grimoire: Soul Burst","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_grimoire_soulmagic2.png","bindType":3,"knownIds":[204492]}

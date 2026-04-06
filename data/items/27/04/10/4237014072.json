@@ -1,10 +1,1 @@
-{
-  "internalId": 4237014072,
-  "name": "Jewelry: Destruction Mastery",
-  "description": "A Light Armor set found in Dragonstar Arena.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    138760
-  ]
-}
+{"internalId":4237014072,"name":"Jewelry: Destruction Mastery","description":"A Light Armor set found in Dragonstar Arena.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[138760]}

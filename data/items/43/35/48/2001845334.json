@@ -1,10 +1,1 @@
-{
-  "internalId": 2001845334,
-  "name": "Limestone Shelf, Curved",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestoneflat002.png",
-  "bindType": -1,
-  "knownIds": [
-    139109
-  ]
-}
+{"internalId":2001845334,"name":"Limestone Shelf, Curved","description":"This is a large house item.","icon":"data/images/20/0t/al/housing_rok_sum_limestoneflat002.png","bindType":-1,"knownIds":[139109]}

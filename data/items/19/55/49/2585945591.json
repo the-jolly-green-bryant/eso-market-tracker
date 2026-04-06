@@ -1,10 +1,1 @@
-{
-  "internalId": 2585945591,
-  "name": "Common Post, Sign Holder",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_wallbracketplaque001.png",
-  "bindType": -1,
-  "knownIds": [
-    118044
-  ]
-}
+{"internalId":2585945591,"name":"Common Post, Sign Holder","description":"This is a standard house item.","icon":"data/images/10/0e/uq/housing_gen_lsb_wallbracketplaque001.png","bindType":-1,"knownIds":[118044]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 723227680,
-  "name": "Flame-Kissed Shield",
-  "description": "A shield scarred but made strong in the fires that ravaged South Guard.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    153840
-  ]
-}
+{"internalId":723227680,"name":"Flame-Kissed Shield","description":"A shield scarred but made strong in the fires that ravaged South Guard.","icon":"data/images/a_/dl/ei/gear_shieldsenchal_shield_a.png","bindType":2,"knownIds":[153840]}

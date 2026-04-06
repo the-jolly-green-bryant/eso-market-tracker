@@ -1,13 +1,1 @@
-{
-  "internalId": 884227379,
-  "name": "Buzzing Spine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_storm_elemental_jolt_stone_001.png",
-  "bindType": -1,
-  "knownIds": [
-    865232,
-    1350062,
-    865232,
-    1350062
-  ]
-}
+{"internalId":884227379,"name":"Buzzing Spine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/monster_storm_elemental_jolt_stone_001.png","bindType":-1,"knownIds":[865232,1350062,865232,1350062]}

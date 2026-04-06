@@ -1,10 +1,1 @@
-{
-  "internalId": 2137436154,
-  "name": "Clever Man's Skull Awl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385129
-  ]
-}
+{"internalId":2137436154,"name":"Clever Man's Skull Awl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1385129]}

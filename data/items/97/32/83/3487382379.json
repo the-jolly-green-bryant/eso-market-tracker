@@ -1,10 +1,1 @@
-{
-  "internalId": 3487382379,
-  "name": "Crafting Motif 122: Dead Keeper Chests",
-  "description": "Use to learn how to make Dead Keeper Chests. Also teaches the equivalent Dead Keeper Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    194518
-  ]
-}
+{"internalId":3487382379,"name":"Crafting Motif 122: Dead Keeper Chests","description":"Use to learn how to make Dead Keeper Chests. Also teaches the equivalent Dead Keeper Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[194518]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3027755933,
-  "name": "Recipe: Sourflower Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45999
-  ]
-}
+{"internalId":3027755933,"name":"Recipe: Sourflower Tea","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45999]}

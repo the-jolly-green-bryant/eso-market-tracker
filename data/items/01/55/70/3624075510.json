@@ -1,10 +1,1 @@
-{
-  "internalId": 3624075510,
-  "name": "Robhir's Soles",
-  "description": "These were supposed to go to Robhir, but he didn't survive. And Madam Whim hates for anything to go to waste.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    182840
-  ]
-}
+{"internalId":3624075510,"name":"Robhir's Soles","description":"These were supposed to go to Robhir, but he didn't survive. And Madam Whim hates for anything to go to waste.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_feet_a.png","bindType":2,"knownIds":[182840]}

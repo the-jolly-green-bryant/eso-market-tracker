@@ -1,10 +1,1 @@
-{
-  "internalId": 4173376494,
-  "name": "Pelinal's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76426
-  ]
-}
+{"internalId":4173376494,"name":"Pelinal's Jerkin","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[76426]}

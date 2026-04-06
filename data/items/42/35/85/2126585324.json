@@ -1,10 +1,1 @@
-{
-  "internalId": 2126585324,
-  "name": "Light Recycler",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1356096
-  ]
-}
+{"internalId":2126585324,"name":"Light Recycler","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[1356096]}

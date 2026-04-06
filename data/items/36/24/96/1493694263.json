@@ -1,10 +1,1 @@
-{
-  "internalId": 1493694263,
-  "name": "Banner, Crafting",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgorcbannerclana005.png",
-  "bindType": -1,
-  "knownIds": [
-    118079
-  ]
-}
+{"internalId":1493694263,"name":"Banner, Crafting","description":"This is a large house item.","icon":"data/images/50/0a/na/housing_orc_lsb_wtgorcbannerclana005.png","bindType":-1,"knownIds":[118079]}

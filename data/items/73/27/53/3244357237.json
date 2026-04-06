@@ -1,10 +1,1 @@
-{
-  "internalId": 3244357237,
-  "name": "Crafting Motif 99: Waking Flame Maces",
-  "description": "Use to learn how to make Waking Flame Maces. Also teaches the equivalent Waking Flame Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171590
-  ]
-}
+{"internalId":3244357237,"name":"Crafting Motif 99: Waking Flame Maces","description":"Use to learn how to make Waking Flame Maces. Also teaches the equivalent Waking Flame Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171590]}

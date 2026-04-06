@@ -1,10 +1,1 @@
-{
-  "internalId": 39742388,
-  "name": "Pickaxe",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    816043
-  ]
-}
+{"internalId":39742388,"name":"Pickaxe","description":"","icon":null,"bindType":-1,"knownIds":[816043]}

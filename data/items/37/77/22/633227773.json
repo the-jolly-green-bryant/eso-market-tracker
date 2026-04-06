@@ -1,10 +1,1 @@
-{
-  "internalId": 633227773,
-  "name": "Shared Burden Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215442
-  ]
-}
+{"internalId":633227773,"name":"Shared Burden Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[215442]}

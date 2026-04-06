@@ -1,10 +1,1 @@
-{
-  "internalId": 1068794287,
-  "name": "Dwemer Inquiries Volume III",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook004.png",
-  "bindType": -1,
-  "knownIds": [
-    1236559
-  ]
-}
+{"internalId":1068794287,"name":"Dwemer Inquiries Volume III","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook004.png","bindType":-1,"knownIds":[1236559]}

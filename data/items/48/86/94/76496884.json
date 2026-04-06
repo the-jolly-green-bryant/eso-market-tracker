@@ -1,10 +1,1 @@
-{
-  "internalId": 76496884,
-  "name": "Praxis: Elsweyr Brazier, Massive",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    152075
-  ]
-}
+{"internalId":76496884,"name":"Praxis: Elsweyr Brazier, Massive","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[152075]}

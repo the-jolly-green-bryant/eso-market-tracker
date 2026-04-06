@@ -1,10 +1,1 @@
-{
-  "internalId": 3071216837,
-  "name": "Design: Fargrave Sausages",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    182945
-  ]
-}
+{"internalId":3071216837,"name":"Design: Fargrave Sausages","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[182945]}

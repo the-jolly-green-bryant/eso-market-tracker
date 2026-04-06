@@ -1,10 +1,1 @@
-{
-  "internalId": 3724269494,
-  "name": "Measuring Strap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_equipment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    426860
-  ]
-}
+{"internalId":3724269494,"name":"Measuring Strap","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_equipment_001.png","bindType":-1,"knownIds":[426860]}

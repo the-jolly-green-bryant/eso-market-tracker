@@ -1,10 +1,1 @@
-{
-  "internalId": 1170304794,
-  "name": "Colovian Bench, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_benchlargehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    204660
-  ]
-}
+{"internalId":1170304794,"name":"Colovian Bench, Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_benchlargehigh001.png","bindType":-1,"knownIds":[204660]}

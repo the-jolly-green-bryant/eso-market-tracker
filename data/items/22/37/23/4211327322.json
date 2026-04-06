@@ -1,10 +1,1 @@
-{
-  "internalId": 4211327322,
-  "name": "Crafting Motif 20: Yokudan Legs",
-  "description": "Use to learn how to make Yokudan Legs. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Yokudan Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57614
-  ]
-}
+{"internalId":4211327322,"name":"Crafting Motif 20: Yokudan Legs","description":"Use to learn how to make Yokudan Legs. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Yokudan Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[57614]}

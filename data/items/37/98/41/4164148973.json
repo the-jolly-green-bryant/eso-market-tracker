@@ -1,10 +1,1 @@
-{
-  "internalId": 4164148973,
-  "name": "Crafting Motif 73: Anequina Bows",
-  "description": "Use to learn how to make Anequina Bows. Also teaches the equivalent Anequina outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    147702
-  ]
-}
+{"internalId":4164148973,"name":"Crafting Motif 73: Anequina Bows","description":"Use to learn how to make Anequina Bows. Also teaches the equivalent Anequina outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[147702]}

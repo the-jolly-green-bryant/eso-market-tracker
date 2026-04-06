@@ -1,10 +1,1 @@
-{
-  "internalId": 3306040045,
-  "name": "Orsinium Treasure Map I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    800346
-  ]
-}
+{"internalId":3306040045,"name":"Orsinium Treasure Map I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[800346]}

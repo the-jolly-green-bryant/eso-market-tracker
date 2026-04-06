@@ -1,10 +1,1 @@
-{
-  "internalId": 11246027,
-  "name": "Crafting Motif 103: Black Fin Legion Style",
-  "description": "Use to learn the Black Fin Legion crafting style. Also teaches the equivalent Black Fin Legion Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    171878
-  ]
-}
+{"internalId":11246027,"name":"Crafting Motif 103: Black Fin Legion Style","description":"Use to learn the Black Fin Legion crafting style. Also teaches the equivalent Black Fin Legion Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[171878]}

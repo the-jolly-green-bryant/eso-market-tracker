@@ -1,10 +1,1 @@
-{
-  "internalId": 1094248737,
-  "name": "Jewelry: Mara's Balm",
-  "description": "A Heavy Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    190008
-  ]
-}
+{"internalId":1094248737,"name":"Jewelry: Mara's Balm","description":"A Heavy Armor set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[190008]}

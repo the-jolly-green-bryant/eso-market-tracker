@@ -1,10 +1,1 @@
-{
-  "internalId": 3584868937,
-  "name": "Flowers, Lizard Tail",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_anemopsis003.png",
-  "bindType": -1,
-  "knownIds": [
-    139065
-  ]
-}
+{"internalId":3584868937,"name":"Flowers, Lizard Tail","description":"This is a small house item.","icon":"data/images/30/0s/is/housing_veg_sum_anemopsis003.png","bindType":-1,"knownIds":[139065]}

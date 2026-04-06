@@ -1,10 +1,1 @@
-{
-  "internalId": 3817520415,
-  "name": "Caravaner's Leg Guards",
-  "description": "Long days in the sun have taken their toll on these stiff leather guards.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    152245
-  ]
-}
+{"internalId":3817520415,"name":"Caravaner's Leg Guards","description":"Long days in the sun have taken their toll on these stiff leather guards.","icon":"data/images/d_/sg/el/gear_khajiit_medium_legs_d.png","bindType":2,"knownIds":[152245]}

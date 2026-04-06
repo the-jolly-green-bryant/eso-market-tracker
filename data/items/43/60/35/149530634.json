@@ -1,10 +1,1 @@
-{
-  "internalId": 149530634,
-  "name": "Sweet Dune Gnocchi Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    792957
-  ]
-}
+{"internalId":149530634,"name":"Sweet Dune Gnocchi Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[792957]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3735696109,
-  "name": "Greaves of the Sergeant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89782
-  ]
-}
+{"internalId":3735696109,"name":"Greaves of the Sergeant","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[89782]}

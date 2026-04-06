@@ -1,17 +1,1 @@
-{
-  "internalId": 354670476,
-  "name": "Xoryn's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1721158,
-    1722225,
-    1721158,
-    1722225,
-    1721158,
-    1722225,
-    1721158,
-    1722225
-  ]
-}
+{"internalId":354670476,"name":"Xoryn's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1721158,1722225,1721158,1722225,1721158,1722225,1721158,1722225]}

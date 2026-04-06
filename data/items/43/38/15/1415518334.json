@@ -1,10 +1,1 @@
-{
-  "internalId": 1415518334,
-  "name": "Crafty Alfiq's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149392
-  ]
-}
+{"internalId":1415518334,"name":"Crafty Alfiq's Battle Axe","description":"","icon":"data/images/a_/ex/ah/gear_pellitine_2haxe_a.png","bindType":2,"knownIds":[149392]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 389554539,
-  "name": "Girdle of Eternal Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhosthvy_belt_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161187
-  ]
-}
+{"internalId":389554539,"name":"Girdle of Eternal Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_greyhosthvy_belt_a.png","bindType":2,"knownIds":[161187]}

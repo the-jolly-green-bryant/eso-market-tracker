@@ -1,10 +1,1 @@
-{
-  "internalId": 1147425915,
-  "name": "Sip of Ravage Armor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_021_type_001.png",
-  "bindType": -1,
-  "knownIds": [
-    27040
-  ]
-}
+{"internalId":1147425915,"name":"Sip of Ravage Armor","description":"","icon":"data/images/10/0_/ep/consumable_potion_021_type_001.png","bindType":-1,"knownIds":[27040]}

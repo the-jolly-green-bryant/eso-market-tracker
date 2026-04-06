@@ -1,11 +1,1 @@
-{
-  "internalId": 4233367371,
-  "name": "Tortoiseshell Monocle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    809319,
-    809319
-  ]
-}
+{"internalId":4233367371,"name":"Tortoiseshell Monocle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[809319,809319]}

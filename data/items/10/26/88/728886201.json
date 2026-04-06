@@ -1,10 +1,1 @@
-{
-  "internalId": 728886201,
-  "name": "Mirrormoor Threads, Wide Column",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_itheliaskystrings009.png",
-  "bindType": -1,
-  "knownIds": [
-    212205
-  ]
-}
+{"internalId":728886201,"name":"Mirrormoor Threads, Wide Column","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_itheliaskystrings009.png","bindType":-1,"knownIds":[212205]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 440446847,
-  "name": "Greaves of Draugr Heritage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101856
-  ]
-}
+{"internalId":440446847,"name":"Greaves of Draugr Heritage","description":"","icon":"data/images/a_/sg/el/gear_draugr_heavy_legs_a.png","bindType":2,"knownIds":[101856]}

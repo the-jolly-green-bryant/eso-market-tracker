@@ -1,10 +1,1 @@
-{
-  "internalId": 971569454,
-  "name": "Fargrave Switch Plate, Green",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farstomppad002.png",
-  "bindType": -1,
-  "knownIds": [
-    224102
-  ]
-}
+{"internalId":971569454,"name":"Fargrave Switch Plate, Green","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farstomppad002.png","bindType":-1,"knownIds":[224102]}

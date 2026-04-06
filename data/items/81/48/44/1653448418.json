@@ -1,10 +1,1 @@
-{
-  "internalId": 1653448418,
-  "name": "Simple Feather Lure",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    549479
-  ]
-}
+{"internalId":1653448418,"name":"Simple Feather Lure","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[549479]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 692615700,
-  "name": "Shoes of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199639
-  ]
-}
+{"internalId":692615700,"name":"Shoes of Vicious Death","description":"","icon":"data/images/a_/te/ef/gear_abahswatch_light_feet_a.png","bindType":2,"knownIds":[79825]}

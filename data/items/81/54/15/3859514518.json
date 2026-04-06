@@ -1,10 +1,1 @@
-{
-  "internalId": 3859514518,
-  "name": "Carnaval Fan",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_u45dancefanemote001.png",
-  "bindType": -1,
-  "knownIds": [
-    219742
-  ]
-}
+{"internalId":3859514518,"name":"Carnaval Fan","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_u45dancefanemote001.png","bindType":-1,"knownIds":[219742]}

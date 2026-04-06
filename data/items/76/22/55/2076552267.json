@@ -1,17 +1,1 @@
-{
-  "internalId": 2076552267,
-  "name": "Relequen's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1245485,
-    1373701,
-    1460490,
-    1466323,
-    1245485,
-    1373701,
-    1460490,
-    1466323
-  ]
-}
+{"internalId":2076552267,"name":"Relequen's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1245485,1373701,1460490,1466323,1245485,1373701,1460490,1466323]}

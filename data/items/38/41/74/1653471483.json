@@ -1,10 +1,1 @@
-{
-  "internalId": 1653471483,
-  "name": "Design: Orcish Bowl, Buffed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    119103
-  ]
-}
+{"internalId":1653471483,"name":"Design: Orcish Bowl, Buffed","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[119103]}

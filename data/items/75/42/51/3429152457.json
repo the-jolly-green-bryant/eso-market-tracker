@@ -1,10 +1,1 @@
-{
-  "internalId": 3429152457,
-  "name": "General Serien's Orders",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    792511
-  ]
-}
+{"internalId":3429152457,"name":"General Serien's Orders","description":"","icon":null,"bindType":-1,"knownIds":[792511]}

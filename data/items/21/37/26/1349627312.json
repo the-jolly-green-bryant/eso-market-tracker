@@ -1,17 +1,1 @@
-{
-  "internalId": 1349627312,
-  "name": "Nix-Hound's Howl Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_shield_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1633673,
-    1636327,
-    1636936,
-    1735439,
-    1633673,
-    1636327,
-    1636936,
-    1735439
-  ]
-}
+{"internalId":1349627312,"name":"Nix-Hound's Howl Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_shield_a.png","bindType":-1,"knownIds":[1633673,1636327,1636936,1735439,1633673,1636327,1636936,1735439]}

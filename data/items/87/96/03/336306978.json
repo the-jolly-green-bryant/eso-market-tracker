@@ -1,10 +1,1 @@
-{
-  "internalId": 336306978,
-  "name": "Silver Shoehorn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_carved_wooden_leg.png",
-  "bindType": -1,
-  "knownIds": [
-    1243907
-  ]
-}
+{"internalId":336306978,"name":"Silver Shoehorn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_carved_wooden_leg.png","bindType":-1,"knownIds":[1243907]}

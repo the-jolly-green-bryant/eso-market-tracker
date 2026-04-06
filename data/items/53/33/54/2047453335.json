@@ -1,10 +1,1 @@
-{
-  "internalId": 2047453335,
-  "name": "Diagram: Dwarven Boiler, Central",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    126861
-  ]
-}
+{"internalId":2047453335,"name":"Diagram: Dwarven Boiler, Central","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[126861]}

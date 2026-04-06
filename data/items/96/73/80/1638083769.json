@@ -1,10 +1,1 @@
-{
-  "internalId": 1638083769,
-  "name": "Lesser Soul Gem",
-  "description": "Used to fully charge weapons up to Level 29, and revive up to Level 29 players.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_003_filled.png",
-  "bindType": -1,
-  "knownIds": [
-    33268
-  ]
-}
+{"internalId":1638083769,"name":"Lesser Soul Gem","description":"Used to fully charge weapons up to Level 29, and revive up to Level 29 players.","icon":"data/images/de/ll/if/soulgem_003_filled.png","bindType":-1,"knownIds":[33268]}

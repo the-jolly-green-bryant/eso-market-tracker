@@ -1,11 +1,1 @@
-{
-  "internalId": 4171159171,
-  "name": "Stonekeeper Guise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedstonekeeper_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1676647,
-    1676647
-  ]
-}
+{"internalId":4171159171,"name":"Stonekeeper Guise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedstonekeeper_head_a.png","bindType":-1,"knownIds":[1676647,1676647]}

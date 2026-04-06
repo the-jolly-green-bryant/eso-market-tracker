@@ -1,10 +1,1 @@
-{
-  "internalId": 3454784229,
-  "name": "Steadfast's Mettle Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186224
-  ]
-}
+{"internalId":3454784229,"name":"Steadfast's Mettle Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_1hsword_a.png","bindType":2,"knownIds":[186224]}

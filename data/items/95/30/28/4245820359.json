@@ -1,11 +1,1 @@
-{
-  "internalId": 4245820359,
-  "name": "Shipment of Orichalcum Ingots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936143,
-    936143
-  ]
-}
+{"internalId":4245820359,"name":"Shipment of Orichalcum Ingots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[936143,936143]}

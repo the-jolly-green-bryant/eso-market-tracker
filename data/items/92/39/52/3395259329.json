@@ -1,10 +1,1 @@
-{
-  "internalId": 3395259329,
-  "name": "Phoenix Moth Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_medium_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190700
-  ]
-}
+{"internalId":3395259329,"name":"Phoenix Moth Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_medium_shoulder_a.png","bindType":2,"knownIds":[190700]}

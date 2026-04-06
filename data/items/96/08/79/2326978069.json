@@ -1,15 +1,1 @@
-{
-  "internalId": 2326978069,
-  "name": "Yokudan Totem",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_symbol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    821954,
-    378044,
-    806006,
-    821954,
-    378044,
-    806006
-  ]
-}
+{"internalId":2326978069,"name":"Yokudan Totem","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_symbol_001.png","bindType":-1,"knownIds":[821954,378044,806006,821954,378044,806006]}

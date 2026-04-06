@@ -1,10 +1,1 @@
-{
-  "internalId": 2811652888,
-  "name": "Bound Style Page: Black Gem Monstrosity Shoulder",
-  "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": 3,
-  "knownIds": [
-    212543
-  ]
-}
+{"internalId":2811652888,"name":"Bound Style Page: Black Gem Monstrosity Shoulder","description":"Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":3,"knownIds":[212543]}

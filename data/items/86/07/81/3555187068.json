@@ -1,10 +1,1 @@
-{
-  "internalId": 3555187068,
-  "name": "Murkmire Tapestry, Hist Gathering",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrktapestryclean002.png",
-  "bindType": -1,
-  "knownIds": [
-    145390
-  ]
-}
+{"internalId":3555187068,"name":"Murkmire Tapestry, Hist Gathering","description":"This is a standard house item.","icon":"data/images/20/0n/ae/housing_arg_inc_mrktapestryclean002.png","bindType":-1,"knownIds":[145390]}

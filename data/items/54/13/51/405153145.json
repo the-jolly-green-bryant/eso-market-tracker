@@ -1,10 +1,1 @@
-{
-  "internalId": 405153145,
-  "name": "Unidentified Powerful Assault Item",
-  "description": "This box contains an Superior-quality item of the Powerful Assault item set.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    212383
-  ]
-}
+{"internalId":405153145,"name":"Unidentified Powerful Assault Item","description":"This box contains an Superior-quality item of the Powerful Assault item set.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[212383]}

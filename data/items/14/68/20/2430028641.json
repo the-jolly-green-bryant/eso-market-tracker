@@ -1,10 +1,1 @@
-{
-  "internalId": 2430028641,
-  "name": "Velothi Travel Breeches",
-  "description": "Fashioned in a traditional dark elven style. Combat-ready travel-wear, just in case.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    126014
-  ]
-}
+{"internalId":2430028641,"name":"Velothi Travel Breeches","description":"Fashioned in a traditional dark elven style. Combat-ready travel-wear, just in case.","icon":"data/images/d_/sg/el/gear_dunmer_light_legs_d.png","bindType":2,"knownIds":[126014]}

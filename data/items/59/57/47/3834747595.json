@@ -1,10 +1,1 @@
-{
-  "internalId": 3834747595,
-  "name": "Arkay's Charity Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    213902
-  ]
-}
+{"internalId":3834747595,"name":"Arkay's Charity Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[213902]}

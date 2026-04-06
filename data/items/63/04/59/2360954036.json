@@ -1,10 +1,1 @@
-{
-  "internalId": 2360954036,
-  "name": "Elemental Essence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_dust_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54385
-  ]
-}
+{"internalId":2360954036,"name":"Elemental Essence","description":"","icon":"data/images/10/0_/ts/quest_dust_001.png","bindType":-1,"knownIds":[54385]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2438560354,
-  "name": "Lake Chub",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    811707
-  ]
-}
+{"internalId":2438560354,"name":"Lake Chub","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[811707]}

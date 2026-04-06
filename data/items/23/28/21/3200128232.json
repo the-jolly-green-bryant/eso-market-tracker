@@ -1,10 +1,1 @@
-{
-  "internalId": 3200128232,
-  "name": "Necrom Candle, Large Square",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingscandles001.png",
-  "bindType": -1,
-  "knownIds": [
-    197728
-  ]
-}
+{"internalId":3200128232,"name":"Necrom Candle, Large Square","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingscandles001.png","bindType":-1,"knownIds":[197728]}

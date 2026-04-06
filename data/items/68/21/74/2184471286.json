@@ -1,10 +1,1 @@
-{
-  "internalId": 2184471286,
-  "name": "Indoril Brazier, Knotwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlabraizer001.png",
-  "bindType": -1,
-  "knownIds": [
-    126367
-  ]
-}
+{"internalId":2184471286,"name":"Indoril Brazier, Knotwork","description":"This is a standard house item.","icon":"data/images/10/0r/ez/housing_vrd_lsb_hlabraizer001.png","bindType":-1,"knownIds":[126367]}

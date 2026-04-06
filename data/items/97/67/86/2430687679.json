@@ -1,10 +1,1 @@
-{
-  "internalId": 2430687679,
-  "name": "Honeycomb Checkers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385044
-  ]
-}
+{"internalId":2430687679,"name":"Honeycomb Checkers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png","bindType":-1,"knownIds":[1385044]}

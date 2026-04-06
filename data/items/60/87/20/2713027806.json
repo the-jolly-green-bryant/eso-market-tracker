@@ -1,10 +1,1 @@
-{
-  "internalId": 2713027806,
-  "name": "Pattern: Apocrypha Book Pile, Medium",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    198515
-  ]
-}
+{"internalId":2713027806,"name":"Pattern: Apocrypha Book Pile, Medium","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[198515]}

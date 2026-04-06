@@ -1,10 +1,1 @@
-{
-  "internalId": 2299683477,
-  "name": "Bright-Throat Ridge Chimes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1275940
-  ]
-}
+{"internalId":2299683477,"name":"Bright-Throat Ridge Chimes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[1275940]}

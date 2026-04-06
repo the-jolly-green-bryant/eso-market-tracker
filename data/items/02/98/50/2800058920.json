@@ -1,10 +1,1 @@
-{
-  "internalId": 2800058920,
-  "name": "orichalc-steel axe of shock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    656742
-  ]
-}
+{"internalId":2800058920,"name":"orichalc-steel axe of shock","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":-1,"knownIds":[656742]}

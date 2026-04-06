@@ -1,10 +1,1 @@
-{
-  "internalId": 2450032637,
-  "name": "Orcish Bucket, Cistern",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_con_wtgcisternbucket001.png",
-  "bindType": -1,
-  "knownIds": [
-    116384
-  ]
-}
+{"internalId":2450032637,"name":"Orcish Bucket, Cistern","description":"This is a standard house item.","icon":"data/images/10/0t/ek/housing_orc_con_wtgcisternbucket001.png","bindType":-1,"knownIds":[116384]}

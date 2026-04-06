@@ -1,10 +1,1 @@
-{
-  "internalId": 537270524,
-  "name": "Shoes of Red Eagle's Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168355
-  ]
-}
+{"internalId":537270524,"name":"Shoes of Red Eagle's Fury","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png","bindType":2,"knownIds":[168355]}

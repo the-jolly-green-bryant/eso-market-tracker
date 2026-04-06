@@ -1,10 +1,1 @@
-{
-  "internalId": 2811577897,
-  "name": "Deadlands Assassin's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hsword_c.png",
-  "bindType": 2,
-  "knownIds": [
-    172268
-  ]
-}
+{"internalId":2811577897,"name":"Deadlands Assassin's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_2hsword_c.png","bindType":2,"knownIds":[172268]}

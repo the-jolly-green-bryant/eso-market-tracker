@@ -1,10 +1,1 @@
-{
-  "internalId": 1158532770,
-  "name": "Ancient Dragonguard's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156119
-  ]
-}
+{"internalId":1158532770,"name":"Ancient Dragonguard's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[156119]}

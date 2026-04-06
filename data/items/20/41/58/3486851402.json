@@ -1,10 +1,1 @@
-{
-  "internalId": 3486851402,
-  "name": "Steadfast Hero Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144796
-  ]
-}
+{"internalId":3486851402,"name":"Steadfast Hero Bow","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[144796]}

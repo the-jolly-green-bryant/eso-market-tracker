@@ -1,10 +1,1 @@
-{
-  "internalId": 3190837897,
-  "name": "Ravager",
-  "description": "A Heavy Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    150678
-  ]
-}
+{"internalId":3190837897,"name":"Ravager","description":"A Heavy Armor set found in Cyrodiil.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[150678]}

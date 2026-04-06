@@ -1,10 +1,1 @@
-{
-  "internalId": 2089628360,
-  "name": "Oyster Shell Goblet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1243427
-  ]
-}
+{"internalId":2089628360,"name":"Oyster Shell Goblet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[1243427]}

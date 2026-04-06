@@ -1,10 +1,1 @@
-{
-  "internalId": 1115565516,
-  "name": "Pattern: Orcish Tapestry, Spear",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    121209
-  ]
-}
+{"internalId":1115565516,"name":"Pattern: Orcish Tapestry, Spear","description":"","icon":"data/images/5_/re/ih/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[121209]}

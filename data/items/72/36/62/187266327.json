@@ -1,10 +1,1 @@
-{
-  "internalId": 187266327,
-  "name": "Bug Rendering Pot and Skimmer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pot_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150980
-  ]
-}
+{"internalId":187266327,"name":"Bug Rendering Pot and Skimmer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pot_001.png","bindType":-1,"knownIds":[1150980]}

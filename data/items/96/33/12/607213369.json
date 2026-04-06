@@ -1,10 +1,1 @@
-{
-  "internalId": 607213369,
-  "name": "Obsidian Night-Spectacles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863873
-  ]
-}
+{"internalId":607213369,"name":"Obsidian Night-Spectacles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[863873]}

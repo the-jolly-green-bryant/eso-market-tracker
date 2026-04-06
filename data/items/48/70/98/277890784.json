@@ -1,10 +1,1 @@
-{
-  "internalId": 277890784,
-  "name": "Praxis: Stone-Nest Floor, Temple Tile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    223911
-  ]
-}
+{"internalId":277890784,"name":"Praxis: Stone-Nest Floor, Temple Tile","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[223911]}

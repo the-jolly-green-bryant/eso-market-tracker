@@ -1,10 +1,1 @@
-{
-  "internalId": 2443116020,
-  "name": "Khajiit Bedding, Padded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgbedflipped001.png",
-  "bindType": -1,
-  "knownIds": [
-    115653
-  ]
-}
+{"internalId":2443116020,"name":"Khajiit Bedding, Padded","description":"This is a standard house item.","icon":"data/images/10/0d/ep/housing_orc_duc_wtgbedflipped001.png","bindType":-1,"knownIds":[115653]}

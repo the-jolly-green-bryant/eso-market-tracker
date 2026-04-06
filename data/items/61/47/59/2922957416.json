@@ -1,10 +1,1 @@
-{
-  "internalId": 2922957416,
-  "name": "Druid's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185876
-  ]
-}
+{"internalId":2922957416,"name":"Druid's Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[185876]}

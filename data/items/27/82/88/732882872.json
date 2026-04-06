@@ -1,13 +1,1 @@
-{
-  "internalId": 732882872,
-  "name": "Perfected Pillager's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1586398,
-    1599871,
-    1586398,
-    1599871
-  ]
-}
+{"internalId":732882872,"name":"Perfected Pillager's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1586398,1599871,1586398,1599871]}

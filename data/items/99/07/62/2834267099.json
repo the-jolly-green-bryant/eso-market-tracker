@@ -1,15 +1,1 @@
-{
-  "internalId": 2834267099,
-  "name": "Bonesnap Binding Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_welkynd_001.png",
-  "bindType": -1,
-  "knownIds": [
-    818865,
-    376988,
-    748947,
-    818865,
-    376988,
-    748947
-  ]
-}
+{"internalId":2834267099,"name":"Bonesnap Binding Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_welkynd_001.png","bindType":-1,"knownIds":[818865,376988,748947,818865,376988,748947]}

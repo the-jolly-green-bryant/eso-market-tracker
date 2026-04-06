@@ -1,10 +1,1 @@
-{
-  "internalId": 3172435540,
-  "name": "Shattered Fate Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194931
-  ]
-}
+{"internalId":3172435540,"name":"Shattered Fate Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[194931]}

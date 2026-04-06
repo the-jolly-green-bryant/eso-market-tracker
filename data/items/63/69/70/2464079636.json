@@ -1,10 +1,1 @@
-{
-  "internalId": 2464079636,
-  "name": "Gryphon's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135505
-  ]
-}
+{"internalId":2464079636,"name":"Gryphon's Belt","description":"","icon":"data/images/a_/ts/ia/gear_ancient_elf_medium_waist_a.png","bindType":2,"knownIds":[135505]}

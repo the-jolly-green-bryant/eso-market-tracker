@@ -1,11 +1,1 @@
-{
-  "internalId": 4162058152,
-  "name": "Red Rook Keyring",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    818484,
-    818484
-  ]
-}
+{"internalId":4162058152,"name":"Red Rook Keyring","description":"","icon":null,"bindType":-1,"knownIds":[818484,818484]}

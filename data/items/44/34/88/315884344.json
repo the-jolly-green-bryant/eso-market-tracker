@@ -1,10 +1,1 @@
-{
-  "internalId": 315884344,
-  "name": "Sketch: Alinor Chalice, Ornate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_3.png",
-  "bindType": -1,
-  "knownIds": [
-    139615
-  ]
-}
+{"internalId":315884344,"name":"Sketch: Alinor Chalice, Ornate","description":"","icon":"data/images/3_/yr/le/crafting_planfurniture_jewelry_3.png","bindType":-1,"knownIds":[139615]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1249285741,
-  "name": "Pattern: Dawnwood Box, Gift",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    211450
-  ]
-}
+{"internalId":1249285741,"name":"Pattern: Dawnwood Box, Gift","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[211450]}

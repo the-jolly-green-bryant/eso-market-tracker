@@ -1,10 +1,1 @@
-{
-  "internalId": 3791574181,
-  "name": "Praxis: Hlaalu Salt Lamp, Enchanted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    147655
-  ]
-}
+{"internalId":3791574181,"name":"Praxis: Hlaalu Salt Lamp, Enchanted","description":"","icon":"data/images/5g/ni/tn/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[147655]}

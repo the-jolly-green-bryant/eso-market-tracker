@@ -1,10 +1,1 @@
-{
-  "internalId": 776728780,
-  "name": "Framed Snowflake Display",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    383789
-  ]
-}
+{"internalId":776728780,"name":"Framed Snowflake Display","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[383789]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 2482310956,
-  "name": "Perfected Yolnahkriin's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1346797,
-    1677639,
-    1677642,
-    1720135,
-    1346797,
-    1677639,
-    1677642,
-    1720135
-  ]
-}
+{"internalId":2482310956,"name":"Perfected Yolnahkriin's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_dagger_a.png","bindType":-1,"knownIds":[1346797,1677639,1677642,1720135,1346797,1677639,1677642,1720135]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 991667697,
-  "name": "Inferno Staff of the Twice-Born Star",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    58499
-  ]
-}
+{"internalId":991667697,"name":"Inferno Staff of the Twice-Born Star","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[58499]}

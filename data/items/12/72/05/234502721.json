@@ -1,10 +1,1 @@
-{
-  "internalId": 234502721,
-  "name": "Pebble, Stacked Desert",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_alikirsmall005.png",
-  "bindType": -1,
-  "knownIds": [
-    120466
-  ]
-}
+{"internalId":234502721,"name":"Pebble, Stacked Desert","description":"This is a small house item.","icon":"data/images/50/0l/la/housing_rok_tan_alikirsmall005.png","bindType":-1,"knownIds":[120466]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3631086830,
-  "name": "Enchanter Survey: Reaper's March",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    642042
-  ]
-}
+{"internalId":3631086830,"name":"Enchanter Survey: Reaper's March","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[642042]}

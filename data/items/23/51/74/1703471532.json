@@ -1,10 +1,1 @@
-{
-  "internalId": 1703471532,
-  "name": "Solitude Breakfast, Sausages and Ham",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_platefoodbreakfast003.png",
-  "bindType": -1,
-  "knownIds": [
-    165796
-  ]
-}
+{"internalId":1703471532,"name":"Solitude Breakfast, Sausages and Ham","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_platefoodbreakfast003.png","bindType":-1,"knownIds":[165796]}

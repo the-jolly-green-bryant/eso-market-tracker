@@ -1,10 +1,1 @@
-{
-  "internalId": 903854105,
-  "name": "Gloves of Destruction Mastery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87450
-  ]
-}
+{"internalId":903854105,"name":"Gloves of Destruction Mastery","description":"","icon":"data/images/d_/sd/na/gear_altmer_light_hands_d.png","bindType":2,"knownIds":[87450]}

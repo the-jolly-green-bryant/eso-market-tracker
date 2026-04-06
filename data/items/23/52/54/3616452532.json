@@ -1,10 +1,1 @@
-{
-  "internalId": 3616452532,
-  "name": "Companion's Guards",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_pants_medium.png",
-  "bindType": 2,
-  "knownIds": [
-    177202
-  ]
-}
+{"internalId":3616452532,"name":"Companion's Guards","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_pants_medium.png","bindType":2,"knownIds":[177202]}

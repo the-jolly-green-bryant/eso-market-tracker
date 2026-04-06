@@ -1,10 +1,1 @@
-{
-  "internalId": 3565673999,
-  "name": "Invocation of Azura",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1248592
-  ]
-}
+{"internalId":3565673999,"name":"Invocation of Azura","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1248592]}

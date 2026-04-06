@@ -1,10 +1,1 @@
-{
-  "internalId": 813833060,
-  "name": "fortified scuttle baguette",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_french_loaf.png",
-  "bindType": -1,
-  "knownIds": [
-    871322
-  ]
-}
+{"internalId":813833060,"name":"fortified scuttle baguette","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_french_loaf.png","bindType":-1,"knownIds":[871322]}

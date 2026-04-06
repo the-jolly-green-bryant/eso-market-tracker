@@ -1,10 +1,1 @@
-{
-  "internalId": 143799269,
-  "name": "Inferno Staff of the Gorethief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    224629
-  ]
-}
+{"internalId":143799269,"name":"Inferno Staff of the Gorethief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[224629]}

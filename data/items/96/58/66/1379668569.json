@@ -1,17 +1,1 @@
-{
-  "internalId": 1379668569,
-  "name": "Monolith of Storms Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1677002,
-    1679845,
-    1681052,
-    1690510,
-    1677002,
-    1679845,
-    1681052,
-    1690510
-  ]
-}
+{"internalId":1379668569,"name":"Monolith of Storms Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_head_a.png","bindType":-1,"knownIds":[1677002,1679845,1681052,1690510,1677002,1679845,1681052,1690510]}

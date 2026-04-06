@@ -1,10 +1,1 @@
-{
-  "internalId": 2855029781,
-  "name": "Design: Goblet, Wine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119526
-  ]
-}
+{"internalId":2855029781,"name":"Design: Goblet, Wine","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119526]}

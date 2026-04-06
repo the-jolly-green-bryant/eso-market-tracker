@@ -1,10 +1,1 @@
-{
-  "internalId": 3767707828,
-  "name": "Blueprint: Elsweyr Bookshelf, Wooden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    1327244
-  ]
-}
+{"internalId":3767707828,"name":"Blueprint: Elsweyr Bookshelf, Wooden","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[1327244]}

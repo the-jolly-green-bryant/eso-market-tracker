@@ -1,10 +1,1 @@
-{
-  "internalId": 1126068910,
-  "name": "Alinor Amphora, Embossed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_aldmervase006.png",
-  "bindType": -1,
-  "knownIds": [
-    139275
-  ]
-}
+{"internalId":1126068910,"name":"Alinor Amphora, Embossed","description":"This is a standard house item.","icon":"data/images/60/0e/sa/housing_sum_duc_aldmervase006.png","bindType":-1,"knownIds":[139275]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3753872788,
-  "name": "Fat Sleeper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_swamp_fish_bluegill.png",
-  "bindType": -1,
-  "knownIds": [
-    1283346
-  ]
-}
+{"internalId":3753872788,"name":"Fat Sleeper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_swamp_fish_bluegill.png","bindType":-1,"knownIds":[1283346]}

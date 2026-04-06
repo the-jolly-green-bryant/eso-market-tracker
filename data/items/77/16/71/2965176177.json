@@ -1,10 +1,1 @@
-{
-  "internalId": 2965176177,
-  "name": "Tapestry, Love-Blessed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_heartsdaytapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    156774
-  ]
-}
+{"internalId":2965176177,"name":"Tapestry, Love-Blessed","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_heartsdaytapestry001.png","bindType":-1,"knownIds":[156774]}

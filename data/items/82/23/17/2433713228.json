@@ -1,10 +1,1 @@
-{
-  "internalId": 2433713228,
-  "name": "Style Page: Rkindaleft Dwarven Battle Axe",
-  "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    170149
-  ]
-}
+{"internalId":2433713228,"name":"Style Page: Rkindaleft Dwarven Battle Axe","description":"Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[170149]}

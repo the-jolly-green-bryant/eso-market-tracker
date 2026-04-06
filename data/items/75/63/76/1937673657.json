@@ -1,10 +1,1 @@
-{
-  "internalId": 1937673657,
-  "name": "Systres' Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186396
-  ]
-}
+{"internalId":1937673657,"name":"Systres' Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_staff_a.png","bindType":2,"knownIds":[186396]}

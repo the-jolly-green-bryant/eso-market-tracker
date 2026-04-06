@@ -1,10 +1,1 @@
-{
-  "internalId": 78704410,
-  "name": "Murkmire Dish, Geometric Pattern",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_bowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    141922
-  ]
-}
+{"internalId":78704410,"name":"Murkmire Dish, Geometric Pattern","description":"This is a small house item.","icon":"data/images/20/0l/wo/housing_arg_duc_bowl002.png","bindType":-1,"knownIds":[141922]}

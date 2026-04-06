@@ -1,10 +1,1 @@
-{
-  "internalId": 2848679541,
-  "name": "Bow of Hunding's Rage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56600
-  ]
-}
+{"internalId":2848679541,"name":"Bow of Hunding's Rage","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[56600]}

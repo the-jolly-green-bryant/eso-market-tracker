@@ -1,10 +1,1 @@
-{
-  "internalId": 3542037230,
-  "name": "Hagraven Cauldron, Ritual",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_cmp_cauldron001.png",
-  "bindType": -1,
-  "knownIds": [
-    130320
-  ]
-}
+{"internalId":3542037230,"name":"Hagraven Cauldron, Ritual","description":"This is a standard house item.","icon":"data/images/10/0n/or/housing_bos_cmp_cauldron001.png","bindType":-1,"knownIds":[130320]}

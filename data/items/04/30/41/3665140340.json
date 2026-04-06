@@ -1,10 +1,1 @@
-{
-  "internalId": 3665140340,
-  "name": "Blueprint: Leyawiin Wagon, Covered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    176022
-  ]
-}
+{"internalId":3665140340,"name":"Blueprint: Leyawiin Wagon, Covered","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[176022]}

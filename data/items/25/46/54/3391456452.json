@@ -1,10 +1,1 @@
-{
-  "internalId": 3391456452,
-  "name": "Redear Sunfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_perch.png",
-  "bindType": -1,
-  "knownIds": [
-    1273847
-  ]
-}
+{"internalId":3391456452,"name":"Redear Sunfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_perch.png","bindType":-1,"knownIds":[1273847]}

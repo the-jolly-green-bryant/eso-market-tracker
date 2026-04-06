@@ -1,10 +1,1 @@
-{
-  "internalId": 62644796,
-  "name": "Serpent's Disdain Weapons",
-  "description": "A Crafted Armor set constructed in High Isle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    185525
-  ]
-}
+{"internalId":62644796,"name":"Serpent's Disdain Weapons","description":"A Crafted Armor set constructed in High Isle.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[185525]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1271344008,
-  "name": "Crafting Motif 16: Glass Maces",
-  "description": "Use to learn how to make Glass Maces. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Glass Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    64679
-  ]
-}
+{"internalId":1271344008,"name":"Crafting Motif 16: Glass Maces","description":"Use to learn how to make Glass Maces. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Glass Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[64679]}

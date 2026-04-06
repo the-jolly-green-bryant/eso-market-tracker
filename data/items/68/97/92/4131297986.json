@@ -1,10 +1,1 @@
-{
-  "internalId": 4131297986,
-  "name": "Dark Elf Trunk, Buckled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_trunk001.png",
-  "bindType": -1,
-  "knownIds": [
-    115326
-  ]
-}
+{"internalId":4131297986,"name":"Dark Elf Trunk, Buckled","description":"This is a standard house item.","icon":"data/images/10/0k/nu/housing_dun_fur_trunk001.png","bindType":-1,"knownIds":[115326]}

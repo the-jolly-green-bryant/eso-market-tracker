@@ -1,10 +1,1 @@
-{
-  "internalId": 2759928021,
-  "name": "Survey Reports - Grahtwood",
-  "description": "A compendium of every survey report recorded in Grahtwood.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": 3,
-  "knownIds": [
-    181457
-  ]
-}
+{"internalId":2759928021,"name":"Survey Reports - Grahtwood","description":"A compendium of every survey report recorded in Grahtwood.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":3,"knownIds":[181457]}

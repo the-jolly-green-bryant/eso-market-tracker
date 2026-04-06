@@ -1,10 +1,1 @@
-{
-  "internalId": 3842248022,
-  "name": "Darkening: Dark of the Moons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_dec153.png",
-  "bindType": 3,
-  "knownIds": [
-    135120
-  ]
-}
+{"internalId":3842248022,"name":"Darkening: Dark of the Moons","description":"","icon":"data/images/35/1c/ed/dyestamp_dec153.png","bindType":3,"knownIds":[135120]}

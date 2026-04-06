@@ -1,10 +1,1 @@
-{
-  "internalId": 2513716942,
-  "name": "Diagram: Bowl, Serving",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    119387
-  ]
-}
+{"internalId":2513716942,"name":"Diagram: Bowl, Serving","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[119387]}

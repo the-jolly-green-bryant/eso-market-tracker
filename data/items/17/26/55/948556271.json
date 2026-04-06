@@ -1,15 +1,1 @@
-{
-  "internalId": 948556271,
-  "name": "hide arm cops of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    440420,
-    459393,
-    457171,
-    440420,
-    459393,
-    457171
-  ]
-}
+{"internalId":948556271,"name":"hide arm cops of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png","bindType":-1,"knownIds":[440420,459393,457171,440420,459393,457171]}

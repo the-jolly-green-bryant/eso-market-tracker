@@ -1,10 +1,1 @@
-{
-  "internalId": 2809876735,
-  "name": "Maul of Winter's Respite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_2hmace.png",
-  "bindType": 2,
-  "knownIds": [
-    160801
-  ]
-}
+{"internalId":2809876735,"name":"Maul of Winter's Respite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_2hmace.png","bindType":2,"knownIds":[160801]}

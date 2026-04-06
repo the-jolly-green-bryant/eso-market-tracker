@@ -1,10 +1,1 @@
-{
-  "internalId": 1729911324,
-  "name": "Pouch of Progression Purveyance",
-  "description": "This small leather pouch contains many items that can improve your skill and ability.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": 3,
-  "knownIds": [
-    134670
-  ]
-}
+{"internalId":1729911324,"name":"Pouch of Progression Purveyance","description":"This small leather pouch contains many items that can improve your skill and ability.","icon":"data/images/30/0_/hc/justice_stolen_pouch_003.png","bindType":3,"knownIds":[134670]}

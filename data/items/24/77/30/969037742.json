@@ -1,10 +1,1 @@
-{
-  "internalId": 969037742,
-  "name": "Rawhide Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2med_head.png",
-  "bindType": -1,
-  "knownIds": [
-    175740
-  ]
-}
+{"internalId":969037742,"name":"Rawhide Helmet","description":"","icon":"data/images/d_/da/eh/gear_redguard_medium_head_d.png","bindType":-1,"knownIds":[64635]}

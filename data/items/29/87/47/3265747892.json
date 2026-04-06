@@ -1,15 +1,1 @@
-{
-  "internalId": 3265747892,
-  "name": "Ansuul's Perfected Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1717756,
-    1756988,
-    1773985,
-    1717756,
-    1756988,
-    1773985
-  ]
-}
+{"internalId":3265747892,"name":"Ansuul's Perfected Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png","bindType":-1,"knownIds":[1717756,1756988,1773985,1717756,1756988,1773985]}

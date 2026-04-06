@@ -1,10 +1,1 @@
-{
-  "internalId": 4110779409,
-  "name": "Ashlander Nix-Hound Chili Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484949
-  ]
-}
+{"internalId":4110779409,"name":"Ashlander Nix-Hound Chili Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[484949]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3656352134,
-  "name": "Cold Borscht",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_006.png",
-  "bindType": -1,
-  "knownIds": [
-    37875
-  ]
-}
+{"internalId":3656352134,"name":"Cold Borscht","description":"","icon":"data/images/60/0_/pu/crafting_soup_006.png","bindType":-1,"knownIds":[37875]}

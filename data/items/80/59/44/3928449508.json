@@ -1,10 +1,1 @@
-{
-  "internalId": 3928449508,
-  "name": "Shornhelm Triumvirate Swear Jar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    640704
-  ]
-}
+{"internalId":3928449508,"name":"Shornhelm Triumvirate Swear Jar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[640704]}

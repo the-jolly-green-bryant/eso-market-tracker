@@ -1,10 +1,1 @@
-{
-  "internalId": 835055474,
-  "name": "Orcish Candle, Offering",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgmalacathrefugesymbol001.png",
-  "bindType": -1,
-  "knownIds": [
-    116479
-  ]
-}
+{"internalId":835055474,"name":"Orcish Candle, Offering","description":"This is a small house item.","icon":"data/images/10/0l/ob/housing_orc_lsb_wtgmalacathrefugesymbol001.png","bindType":-1,"knownIds":[116479]}

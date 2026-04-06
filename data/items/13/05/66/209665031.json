@@ -1,10 +1,1 @@
-{
-  "internalId": 209665031,
-  "name": "Trees, Young Snowy White Pine Cluster",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_skr_whitepinebushsnowy004.png",
-  "bindType": -1,
-  "knownIds": [
-    167297
-  ]
-}
+{"internalId":209665031,"name":"Trees, Young Snowy White Pine Cluster","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_skr_whitepinebushsnowy004.png","bindType":-1,"knownIds":[167297]}

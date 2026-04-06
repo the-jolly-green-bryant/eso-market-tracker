@@ -1,10 +1,1 @@
-{
-  "internalId": 48536758,
-  "name": "Thunderbug's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    99990
-  ]
-}
+{"internalId":48536758,"name":"Thunderbug's Lightning Staff","description":"","icon":"data/images/c_/ff/at/gear_primative_staff_c.png","bindType":2,"knownIds":[99990]}

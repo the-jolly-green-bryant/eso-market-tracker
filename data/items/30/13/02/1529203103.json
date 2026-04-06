@@ -1,10 +1,1 @@
-{
-  "internalId": 1529203103,
-  "name": "Redguard Candleholder, Practical",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varcandlelabralow002.png",
-  "bindType": -1,
-  "knownIds": [
-    117697
-  ]
-}
+{"internalId":1529203103,"name":"Redguard Candleholder, Practical","description":"This is a small house item.","icon":"data/images/20/0w/ol/housing_red_lsb_varcandlelabralow002.png","bindType":-1,"knownIds":[117697]}

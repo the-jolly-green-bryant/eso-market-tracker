@@ -1,10 +1,1 @@
-{
-  "internalId": 1886444922,
-  "name": "Blackrose Weapons",
-  "description": "This container holds a collection of weapons found in Blackrose Prison.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    145925
-  ]
-}
+{"internalId":1886444922,"name":"Blackrose Weapons","description":"This container holds a collection of weapons found in Blackrose Prison.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[145925]}

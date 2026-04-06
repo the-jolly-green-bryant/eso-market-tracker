@@ -1,10 +1,1 @@
-{
-  "internalId": 3341130523,
-  "name": "Minotaur Horn Spigot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_horker_tusk.png",
-  "bindType": -1,
-  "knownIds": [
-    1387370
-  ]
-}
+{"internalId":3341130523,"name":"Minotaur Horn Spigot","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_horker_tusk.png","bindType":-1,"knownIds":[1387370]}

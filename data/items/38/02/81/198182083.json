@@ -1,10 +1,1 @@
-{
-  "internalId": 198182083,
-  "name": "Diagram: Dawnwood Firepit, Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    211431
-  ]
-}
+{"internalId":198182083,"name":"Diagram: Dawnwood Firepit, Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[211431]}

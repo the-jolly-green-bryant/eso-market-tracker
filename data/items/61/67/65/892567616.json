@@ -1,10 +1,1 @@
-{
-  "internalId": 892567616,
-  "name": "Plant, Tropical Bush",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_tropicalbush007.png",
-  "bindType": -1,
-  "knownIds": [
-    153682
-  ]
-}
+{"internalId":892567616,"name":"Plant, Tropical Bush","description":"This is a large house item.","icon":"data/images/70/0h/su/housing_veg_els_tropicalbush007.png","bindType":-1,"knownIds":[153682]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 807738121,
-  "name": "Archmage Macano's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    719409,
-    585039,
-    719409,
-    585039
-  ]
-}
+{"internalId":807738121,"name":"Archmage Macano's Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hhammer_d.png","bindType":-1,"knownIds":[719409,585039,719409,585039]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1367733057,
-  "name": "Redguard Chalice, Empty",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoblet002_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    117809
-  ]
-}
+{"internalId":1367733057,"name":"Redguard Chalice, Empty","description":"This is a tiny house item.","icon":"data/images/yt/pm/e_/housing_red_inc_vargoblet002_empty.png","bindType":-1,"knownIds":[117809]}

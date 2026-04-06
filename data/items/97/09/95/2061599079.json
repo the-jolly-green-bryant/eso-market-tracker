@@ -1,10 +1,1 @@
-{
-  "internalId": 2061599079,
-  "name": "Firelogs, White Pine",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_logpilecut001.png",
-  "bindType": -1,
-  "knownIds": [
-    165809
-  ]
-}
+{"internalId":2061599079,"name":"Firelogs, White Pine","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_logpilecut001.png","bindType":-1,"knownIds":[165809]}

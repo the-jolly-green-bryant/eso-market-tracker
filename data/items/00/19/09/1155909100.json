@@ -1,10 +1,1 @@
-{
-  "internalId": 1155909100,
-  "name": "Diagram: Nord Crockpot, Covered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    116187
-  ]
-}
+{"internalId":1155909100,"name":"Diagram: Nord Crockpot, Covered","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[116187]}

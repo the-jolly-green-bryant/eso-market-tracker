@@ -1,10 +1,1 @@
-{
-  "internalId": 3226655051,
-  "name": "Solitude Rain Barrel, Empty",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_waterbarrel001.png",
-  "bindType": -1,
-  "knownIds": [
-    165753
-  ]
-}
+{"internalId":3226655051,"name":"Solitude Rain Barrel, Empty","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_waterbarrel001.png","bindType":-1,"knownIds":[165753]}

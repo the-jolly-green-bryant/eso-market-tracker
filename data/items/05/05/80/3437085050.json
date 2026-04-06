@@ -1,10 +1,1 @@
-{
-  "internalId": 3437085050,
-  "name": "Molten War Torte",
-  "description": "This consumable can be used only by players level 10 and above.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_skill_boost_food_001.png",
-  "bindType": -1,
-  "knownIds": [
-    171329
-  ]
-}
+{"internalId":3437085050,"name":"Molten War Torte","description":"This consumable can be used only by players level 10 and above.","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_skill_boost_food_001.png","bindType":-1,"knownIds":[171329]}

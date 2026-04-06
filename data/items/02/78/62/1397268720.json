@@ -1,10 +1,1 @@
-{
-  "internalId": 1397268720,
-  "name": "Lightning Staff of the Valiant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92781
-  ]
-}
+{"internalId":1397268720,"name":"Lightning Staff of the Valiant","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[92781]}

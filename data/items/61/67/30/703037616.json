@@ -1,17 +1,1 @@
-{
-  "internalId": 703037616,
-  "name": "Amulet of Drake's Rush",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1416216,
-    1417070,
-    1436722,
-    1474047,
-    1416216,
-    1417070,
-    1436722,
-    1474047
-  ]
-}
+{"internalId":703037616,"name":"Amulet of Drake's Rush","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1416216,1417070,1436722,1474047,1416216,1417070,1436722,1474047]}

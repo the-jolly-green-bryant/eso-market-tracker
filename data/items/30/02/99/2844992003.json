@@ -1,10 +1,1 @@
-{
-  "internalId": 2844992003,
-  "name": "Stillness Everlasting Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting001.png",
-  "bindType": -1,
-  "knownIds": [
-    166437
-  ]
-}
+{"internalId":2844992003,"name":"Stillness Everlasting Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting001.png","bindType":-1,"knownIds":[166437]}

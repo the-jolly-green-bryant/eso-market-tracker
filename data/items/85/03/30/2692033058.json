@@ -1,10 +1,1 @@
-{
-  "internalId": 2692033058,
-  "name": "Deadlands Demolisher's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179525
-  ]
-}
+{"internalId":2692033058,"name":"Deadlands Demolisher's Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[179525]}

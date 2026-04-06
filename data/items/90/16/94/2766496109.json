@@ -1,10 +1,1 @@
-{
-  "internalId": 2766496109,
-  "name": "Vampiric Pew, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirebenchlong001.png",
-  "bindType": -1,
-  "knownIds": [
-    165595
-  ]
-}
+{"internalId":2766496109,"name":"Vampiric Pew, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirebenchlong001.png","bindType":-1,"knownIds":[165595]}

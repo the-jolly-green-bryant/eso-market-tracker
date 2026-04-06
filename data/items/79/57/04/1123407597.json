@@ -1,10 +1,1 @@
-{
-  "internalId": 1123407597,
-  "name": "Guar-Guardian's Mantle",
-  "description": "The Khajiit don't have any guar-herding tradition to speak of, but perhaps Hadamnargo can start one.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_light_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    159716
-  ]
-}
+{"internalId":1123407597,"name":"Guar-Guardian's Mantle","description":"The Khajiit don't have any guar-herding tradition to speak of, but perhaps Hadamnargo can start one.","icon":"data/images/a_/re/dl/gear_pellitine_light_shoulder_a.png","bindType":2,"knownIds":[150409]}

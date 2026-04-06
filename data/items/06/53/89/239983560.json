@@ -1,10 +1,1 @@
-{
-  "internalId": 239983560,
-  "name": "Lesser Repair Kit",
-  "description": "Repairs items of any level, but is less effective on items over Level 29.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    44876
-  ]
-}
+{"internalId":239983560,"name":"Lesser Repair Kit","description":"Repairs items of any level, but is less effective on items over Level 29.","icon":"data/images/10/0_/et/quest_crate_001.png","bindType":-1,"knownIds":[44876]}

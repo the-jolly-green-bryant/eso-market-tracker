@@ -1,10 +1,1 @@
-{
-  "internalId": 287288573,
-  "name": "Jewelry: Tormentor",
-  "description": "A Heavy Armor set found in Banished Cells.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134104
-  ]
-}
+{"internalId":287288573,"name":"Jewelry: Tormentor","description":"A Heavy Armor set found in Banished Cells.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134104]}

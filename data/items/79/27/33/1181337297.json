@@ -1,10 +1,1 @@
-{
-  "internalId": 1181337297,
-  "name": "Ayleid House Idol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    862203
-  ]
-}
+{"internalId":1181337297,"name":"Ayleid House Idol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[862203]}

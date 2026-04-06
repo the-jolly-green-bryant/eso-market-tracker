@@ -1,10 +1,1 @@
-{
-  "internalId": 827340717,
-  "name": "Greatsword of the Song of Lamae",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56633
-  ]
-}
+{"internalId":827340717,"name":"Greatsword of the Song of Lamae","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[56633]}

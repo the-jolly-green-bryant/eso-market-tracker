@@ -1,10 +1,1 @@
-{
-  "internalId": 459239213,
-  "name": "Kargand's Helmet",
-  "description": "A gift from Bakkhara on behalf of her brother.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34388
-  ]
-}
+{"internalId":459239213,"name":"Kargand's Helmet","description":"A gift from Bakkhara on behalf of her brother.","icon":"data/images/d_/da/eh/gear_khajiit_medium_head_d.png","bindType":2,"knownIds":[34388]}

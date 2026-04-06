@@ -1,10 +1,1 @@
-{
-  "internalId": 849509392,
-  "name": "Bound Affix Script: Brutality and Sorcery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_brutalitysorcery.png",
-  "bindType": -1,
-  "knownIds": [
-    1719745
-  ]
-}
+{"internalId":849509392,"name":"Bound Affix Script: Brutality and Sorcery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_brutalitysorcery.png","bindType":-1,"knownIds":[1719745]}

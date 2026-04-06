@@ -1,10 +1,1 @@
-{
-  "internalId": 3669275575,
-  "name": "Fiord's Ammabani's Pride",
-  "description": "A ring awarded for defeating the giant sabre cat, Ammabani.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43038
-  ]
-}
+{"internalId":3669275575,"name":"Fiord's Ammabani's Pride","description":"A ring awarded for defeating the giant sabre cat, Ammabani.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[43038]}

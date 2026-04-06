@@ -1,10 +1,1 @@
-{
-  "internalId": 3936409472,
-  "name": "Dominion's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54318
-  ]
-}
+{"internalId":3936409472,"name":"Dominion's Breeches","description":"","icon":"data/images/a_/sg/el/gear_akaviri_light_legs_a.png","bindType":2,"knownIds":[54318]}

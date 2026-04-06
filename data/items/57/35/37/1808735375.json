@@ -1,10 +1,1 @@
-{
-  "internalId": 1808735375,
-  "name": "Chub Loon Downfeather Puff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1367990
-  ]
-}
+{"internalId":1808735375,"name":"Chub Loon Downfeather Puff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[1367990]}

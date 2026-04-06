@@ -1,10 +1,1 @@
-{
-  "internalId": 1923509059,
-  "name": "Vampire Dust",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_undead_vampire_dust.png",
-  "bindType": -1,
-  "knownIds": [
-    64209
-  ]
-}
+{"internalId":1923509059,"name":"Vampire Dust","description":"","icon":"data/images/ts/ud/_e/crafting_undead_vampire_dust.png","bindType":-1,"knownIds":[64209]}

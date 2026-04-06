@@ -1,10 +1,1 @@
-{
-  "internalId": 3936265111,
-  "name": "Royal Wedding Invitation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826383
-  ]
-}
+{"internalId":3936265111,"name":"Royal Wedding Invitation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[826383]}

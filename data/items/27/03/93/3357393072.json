@@ -1,10 +1,1 @@
-{
-  "internalId": 3357393072,
-  "name": "Dark Elf Shelf, Barrel",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_winerackc001.png",
-  "bindType": -1,
-  "knownIds": [
-    115303
-  ]
-}
+{"internalId":3357393072,"name":"Dark Elf Shelf, Barrel","description":"This is a standard house item.","icon":"data/images/10/0c/kc/housing_dun_fur_winerackc001.png","bindType":-1,"knownIds":[115303]}

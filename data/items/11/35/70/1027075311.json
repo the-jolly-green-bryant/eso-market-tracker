@@ -1,10 +1,1 @@
-{
-  "internalId": 1027075311,
-  "name": "Fyr's Hyperagonal Potation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
-  "bindType": -1,
-  "knownIds": [
-    57208
-  ]
-}
+{"internalId":1027075311,"name":"Fyr's Hyperagonal Potation","description":"","icon":"data/images/30/0_/st/crafting_spirits_003.png","bindType":-1,"knownIds":[57208]}

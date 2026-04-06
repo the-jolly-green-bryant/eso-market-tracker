@@ -1,15 +1,1 @@
-{
-  "internalId": 2162997397,
-  "name": "Monolith of Storms Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1679949,
-    1690512,
-    1691036,
-    1679949,
-    1690512,
-    1691036
-  ]
-}
+{"internalId":2162997397,"name":"Monolith of Storms Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png","bindType":-1,"knownIds":[1679949,1690512,1691036,1679949,1690512,1691036]}

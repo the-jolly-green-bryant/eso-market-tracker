@@ -1,10 +1,1 @@
-{
-  "internalId": 143236613,
-  "name": "Style Page: Horned Dragon Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1253301
-  ]
-}
+{"internalId":143236613,"name":"Style Page: Horned Dragon Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1253301]}

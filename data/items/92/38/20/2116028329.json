@@ -1,10 +1,1 @@
-{
-  "internalId": 2116028329,
-  "name": "Sanguine's Temptation Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    458209
-  ]
-}
+{"internalId":2116028329,"name":"Sanguine's Temptation Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[458209]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 696185321,
-  "name": "Daedric Chest, Molag Bal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_icchest001.png",
-  "bindType": -1,
-  "knownIds": [
-    211575
-  ]
-}
+{"internalId":696185321,"name":"Daedric Chest, Molag Bal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_icchest001.png","bindType":-1,"knownIds":[211575]}

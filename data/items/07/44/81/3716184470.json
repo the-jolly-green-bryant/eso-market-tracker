@@ -1,10 +1,1 @@
-{
-  "internalId": 3716184470,
-  "name": "Sapling, Autumn Maple",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oakfall007.png",
-  "bindType": -1,
-  "knownIds": [
-    204762
-  ]
-}
+{"internalId":3716184470,"name":"Sapling, Autumn Maple","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oakfall007.png","bindType":-1,"knownIds":[204762]}

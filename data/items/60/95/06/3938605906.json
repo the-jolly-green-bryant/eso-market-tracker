@@ -1,10 +1,1 @@
-{
-  "internalId": 3938605906,
-  "name": "Deathknight Aegis of the Dragon",
-  "description": "A shield awarded for defeating Deathknight Stormcrag in the cave known as Stormcrag Crypt.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34622
-  ]
-}
+{"internalId":3938605906,"name":"Deathknight Aegis of the Dragon","description":"A shield awarded for defeating Deathknight Stormcrag in the cave known as Stormcrag Crypt.","icon":"data/images/d_/dl/ei/gear_nord_shield_d.png","bindType":2,"knownIds":[34622]}

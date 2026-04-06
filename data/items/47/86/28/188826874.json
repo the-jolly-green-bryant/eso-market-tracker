@@ -1,10 +1,1 @@
-{
-  "internalId": 188826874,
-  "name": "Athlete's Treads",
-  "description": "One pair of sturdy boots with new soles, courtesy of your bet winnings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    150412
-  ]
-}
+{"internalId":188826874,"name":"Athlete's Treads","description":"One pair of sturdy boots with new soles, courtesy of your bet winnings.","icon":"data/images/a_/te/ef/gear_anequina_medium_feet_a.png","bindType":2,"knownIds":[150412]}

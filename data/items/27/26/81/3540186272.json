@@ -1,10 +1,1 @@
-{
-  "internalId": 3540186272,
-  "name": "Riddle'Thar's Box of Pranks",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    808840
-  ]
-}
+{"internalId":3540186272,"name":"Riddle'Thar's Box of Pranks","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[808840]}

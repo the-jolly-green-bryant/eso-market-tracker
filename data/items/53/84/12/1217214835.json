@@ -1,10 +1,1 @@
-{
-  "internalId": 1217214835,
-  "name": "Pitch-Bile",
-  "description": "An Ingredient for crafting level 50 poisons",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_oil_3_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    75362
-  ]
-}
+{"internalId":1217214835,"name":"Pitch-Bile","description":"An Ingredient for crafting level 50 poisons","icon":"data/images/3r/_3/_l/crafting_potion_base_oil_3_r3.png","bindType":-1,"knownIds":[75362]}

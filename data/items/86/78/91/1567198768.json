@@ -1,10 +1,1 @@
-{
-  "internalId": 1567198768,
-  "name": "Maul of Salvation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85597
-  ]
-}
+{"internalId":1567198768,"name":"Maul of Salvation","description":"","icon":"data/images/d_/re/mm/gear_altmer_2hhammer_d.png","bindType":2,"knownIds":[85597]}

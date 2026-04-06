@@ -1,10 +1,1 @@
-{
-  "internalId": 380269647,
-  "name": "Cuirass of Affliction",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    64826
-  ]
-}
+{"internalId":380269647,"name":"Cuirass of Affliction","description":"","icon":"data/images/d_/ts/eh/gear_argonian_heavy_chest_d.png","bindType":2,"knownIds":[64826]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3610770578,
-  "name": "Colovian Vase, Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_planterbowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    204719
-  ]
-}
+{"internalId":3610770578,"name":"Colovian Vase, Metal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_planterbowl002.png","bindType":-1,"knownIds":[204719]}

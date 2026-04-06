@@ -1,10 +1,1 @@
-{
-  "internalId": 3443534937,
-  "name": "Crafting Motif 85: Greymoor Shields",
-  "description": "Use to learn how to make Greymoor Shields. Also teaches the equivalent Greymoor Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160553
-  ]
-}
+{"internalId":3443534937,"name":"Crafting Motif 85: Greymoor Shields","description":"Use to learn how to make Greymoor Shields. Also teaches the equivalent Greymoor Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160553]}

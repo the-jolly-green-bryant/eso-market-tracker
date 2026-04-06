@@ -1,10 +1,1 @@
-{
-  "internalId": 1646258675,
-  "name": "Grave-Stake Collector Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143133
-  ]
-}
+{"internalId":1646258675,"name":"Grave-Stake Collector Bow","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[143133]}

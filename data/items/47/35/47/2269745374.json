@@ -1,10 +1,1 @@
-{
-  "internalId": 2269745374,
-  "name": "Restoration Staff of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199652
-  ]
-}
+{"internalId":2269745374,"name":"Restoration Staff of Vicious Death","description":"","icon":"data/images/a_/ff/at/gear_abahswatch_staff_a.png","bindType":2,"knownIds":[79843]}

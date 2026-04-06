@@ -1,10 +1,1 @@
-{
-  "internalId": 1983436132,
-  "name": "Fishy Stick Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    393504
-  ]
-}
+{"internalId":1983436132,"name":"Fishy Stick Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[393504]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4045758027,
-  "name": "Redguard Rank 5 Art",
-  "description": "This box contains arms with a refreshed style. Tell us what you think of them!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 3,
-  "knownIds": [
-    63607
-  ]
-}
+{"internalId":4045758027,"name":"Redguard Rank 5 Art","description":"This box contains arms with a refreshed style. Tell us what you think of them!","icon":"data/images/10/0_/re/quest_container_001.png","bindType":3,"knownIds":[63607]}

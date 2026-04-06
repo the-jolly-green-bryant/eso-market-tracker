@@ -1,10 +1,1 @@
-{
-  "internalId": 1581805901,
-  "name": "Sketch: Elsweyr Cage, Filigree",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_5.png",
-  "bindType": -1,
-  "knownIds": [
-    153735
-  ]
-}
+{"internalId":1581805901,"name":"Sketch: Elsweyr Cage, Filigree","description":"","icon":"data/images/5_/yr/le/crafting_planfurniture_jewelry_5.png","bindType":-1,"knownIds":[153735]}

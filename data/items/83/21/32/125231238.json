@@ -1,10 +1,1 @@
-{
-  "internalId": 125231238,
-  "name": "Tree, Ancient Cedar",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_cyrodiilcedar002.png",
-  "bindType": -1,
-  "knownIds": [
-    132210
-  ]
-}
+{"internalId":125231238,"name":"Tree, Ancient Cedar","description":"This is a large house item.","icon":"data/images/20/0r/ad/housing_tre_eve_cyrodiilcedar002.png","bindType":-1,"knownIds":[132210]}

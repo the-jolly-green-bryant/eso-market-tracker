@@ -1,10 +1,1 @@
-{
-  "internalId": 4250605435,
-  "name": "Venomous Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160988
-  ]
-}
+{"internalId":4250605435,"name":"Venomous Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_2hsword_a.png","bindType":2,"knownIds":[160988]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2031270326,
-  "name": "Jeweled Kaleidoscope",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spyglass_001.png",
-  "bindType": -1,
-  "knownIds": [
-    845099
-  ]
-}
+{"internalId":2031270326,"name":"Jeweled Kaleidoscope","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spyglass_001.png","bindType":-1,"knownIds":[845099]}

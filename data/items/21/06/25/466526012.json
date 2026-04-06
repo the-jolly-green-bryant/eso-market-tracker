@@ -1,10 +1,1 @@
-{
-  "internalId": 466526012,
-  "name": "Maul of Dark Convergence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    180580
-  ]
-}
+{"internalId":466526012,"name":"Maul of Dark Convergence","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[180580]}

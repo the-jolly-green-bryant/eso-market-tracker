@@ -1,10 +1,1 @@
-{
-  "internalId": 4162677574,
-  "name": "Fingerpicker",
-  "description": "Erranenen thanked you with this ring for winning back his prized lute in a game of riddles at the Hatching Pools.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43521
-  ]
-}
+{"internalId":4162677574,"name":"Fingerpicker","description":"Erranenen thanked you with this ring for winning back his prized lute in a game of riddles at the Hatching Pools.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[43521]}

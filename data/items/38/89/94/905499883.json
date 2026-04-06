@@ -1,10 +1,1 @@
-{
-  "internalId": 905499883,
-  "name": "Crafting Motif 82: Icereach Coven Swords",
-  "description": "Use to learn how to make Icereach Coven Swords. Also teaches the equivalent Icereach Coven outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    157531
-  ]
-}
+{"internalId":905499883,"name":"Crafting Motif 82: Icereach Coven Swords","description":"Use to learn how to make Icereach Coven Swords. Also teaches the equivalent Icereach Coven outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[157531]}

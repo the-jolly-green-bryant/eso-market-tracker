@@ -1,10 +1,1 @@
-{
-  "internalId": 1792603050,
-  "name": "Crafting Motif 120: Scribes of Mora Helmets",
-  "description": "Use to learn how to make Scribes of Mora Helmets. Also teaches the equivalent Scribes of Mora Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    190897
-  ]
-}
+{"internalId":1792603050,"name":"Crafting Motif 120: Scribes of Mora Helmets","description":"Use to learn how to make Scribes of Mora Helmets. Also teaches the equivalent Scribes of Mora Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[190897]}

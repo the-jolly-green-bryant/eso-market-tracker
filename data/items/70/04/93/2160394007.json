@@ -1,10 +1,1 @@
-{
-  "internalId": 2160394007,
-  "name": "Gods-Blind-Me",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_wine_002.png",
-  "bindType": -1,
-  "knownIds": [
-    61035
-  ]
-}
+{"internalId":2160394007,"name":"Gods-Blind-Me","description":"","icon":"data/images/20/0_/en/crafting_dom_wine_002.png","bindType":-1,"knownIds":[61035]}

@@ -1,12 +1,1 @@
-{
-  "internalId": 4273759928,
-  "name": "Alchemical Nutrients",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414451,
-    1414451,
-    1414451
-  ]
-}
+{"internalId":4273759928,"name":"Alchemical Nutrients","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png","bindType":-1,"knownIds":[1414451,1414451,1414451]}

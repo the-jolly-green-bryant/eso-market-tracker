@@ -1,11 +1,1 @@
-{
-  "internalId": 4148976529,
-  "name": "Mummified Finger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_hands_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1274231,
-    1274231
-  ]
-}
+{"internalId":4148976529,"name":"Mummified Finger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_hands_003.png","bindType":-1,"knownIds":[1274231,1274231]}

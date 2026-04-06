@@ -1,10 +1,1 @@
-{
-  "internalId": 1453246817,
-  "name": "Crafted Sets",
-  "description": "Item Sets that can be crafted in areas throughout Tamriel.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182326
-  ]
-}
+{"internalId":1453246817,"name":"Crafted Sets","description":"Item Sets that can be crafted in areas throughout Tamriel.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182326]}

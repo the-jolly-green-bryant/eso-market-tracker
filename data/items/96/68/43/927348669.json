@@ -1,10 +1,1 @@
-{
-  "internalId": 927348669,
-  "name": "Crafting Motif 116: Drowned Mariner Shields",
-  "description": "Use to learn how to make Drowned Mariner Shields. Also teaches the equivalent Drowned Mariner Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    187773
-  ]
-}
+{"internalId":927348669,"name":"Crafting Motif 116: Drowned Mariner Shields","description":"Use to learn how to make Drowned Mariner Shields. Also teaches the equivalent Drowned Mariner Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[187773]}

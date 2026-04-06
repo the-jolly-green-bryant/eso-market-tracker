@@ -1,10 +1,1 @@
-{
-  "internalId": 680514968,
-  "name": "Boon Companion, Brass",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting011.png",
-  "bindType": -1,
-  "knownIds": [
-    166447
-  ]
-}
+{"internalId":680514968,"name":"Boon Companion, Brass","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting011.png","bindType":-1,"knownIds":[166447]}

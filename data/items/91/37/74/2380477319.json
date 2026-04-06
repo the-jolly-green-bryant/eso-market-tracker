@@ -1,13 +1,1 @@
-{
-  "internalId": 2380477319,
-  "name": "First Edition Fjokki",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385448,
-    1565926,
-    1385448,
-    1565926
-  ]
-}
+{"internalId":2380477319,"name":"First Edition Fjokki","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[1385448,1565926,1385448,1565926]}

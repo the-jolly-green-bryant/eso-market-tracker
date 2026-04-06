@@ -1,10 +1,1 @@
-{
-  "internalId": 3251322850,
-  "name": "Recipe: The Secret Chef's Beet Crostata",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57005
-  ]
-}
+{"internalId":3251322850,"name":"Recipe: The Secret Chef's Beet Crostata","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57005]}

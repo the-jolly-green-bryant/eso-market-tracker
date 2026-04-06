@@ -1,10 +1,1 @@
-{
-  "internalId": 3862522242,
-  "name": "Tide-Born Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215821
-  ]
-}
+{"internalId":3862522242,"name":"Tide-Born Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png","bindType":2,"knownIds":[215821]}

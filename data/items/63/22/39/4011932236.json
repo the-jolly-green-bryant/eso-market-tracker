@@ -1,10 +1,1 @@
-{
-  "internalId": 4011932236,
-  "name": "Ghost's Skullcap",
-  "description": "A rather plain-looking helmet that once belonged to the killer known as the Ghost of the Green.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    134703
-  ]
-}
+{"internalId":4011932236,"name":"Ghost's Skullcap","description":"A rather plain-looking helmet that once belonged to the killer known as the Ghost of the Green.","icon":"data/images/d_/da/eh/gear_altmer_medium_head_d.png","bindType":2,"knownIds":[134703]}

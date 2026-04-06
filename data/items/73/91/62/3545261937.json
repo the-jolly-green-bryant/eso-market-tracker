@@ -1,10 +1,1 @@
-{
-  "internalId": 3545261937,
-  "name": "Armor of the Seducer",
-  "description": "A Crafted Armor set constructed in Grahtwood, Stormhaven, and Deshaan.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182357
-  ]
-}
+{"internalId":3545261937,"name":"Armor of the Seducer","description":"A Crafted Armor set constructed in Grahtwood, Stormhaven, and Deshaan.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182357]}

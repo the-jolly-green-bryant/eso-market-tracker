@@ -1,10 +1,1 @@
-{
-  "internalId": 2471437584,
-  "name": "Hook Sponge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_organ_003.png",
-  "bindType": -1,
-  "knownIds": [
-    854193
-  ]
-}
+{"internalId":2471437584,"name":"Hook Sponge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_monster_organ_003.png","bindType":-1,"knownIds":[854193]}

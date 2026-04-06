@@ -1,10 +1,1 @@
-{
-  "internalId": 3525075705,
-  "name": "Argonian Bowl, Ritual",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_dyebowl001.png",
-  "bindType": -1,
-  "knownIds": [
-    115511
-  ]
-}
+{"internalId":3525075705,"name":"Argonian Bowl, Ritual","description":"This is a small house item.","icon":"data/images/10/0l/wo/housing_arg_inc_dyebowl001.png","bindType":-1,"knownIds":[115511]}

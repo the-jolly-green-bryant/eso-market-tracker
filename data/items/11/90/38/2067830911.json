@@ -1,10 +1,1 @@
-{
-  "internalId": 2067830911,
-  "name": "Old Growth Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191963
-  ]
-}
+{"internalId":2067830911,"name":"Old Growth Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[191963]}

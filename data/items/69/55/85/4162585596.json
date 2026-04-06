@@ -1,11 +1,1 @@
-{
-  "internalId": 4162585596,
-  "name": "Hefty Tel Var Crate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    711344,
-    711344
-  ]
-}
+{"internalId":4162585596,"name":"Hefty Tel Var Crate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[711344,711344]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2328472031,
-  "name": "Ring of Bulwark Ruination",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211581
-  ]
-}
+{"internalId":2328472031,"name":"Ring of Bulwark Ruination","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[211581]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2713537540,
-  "name": "The Song of Pelinal, Volume 7",
-  "description": "Reprint, Second Edition: \"On His Battle with Umaril and His Dismemberment.\"",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
-  "bindType": -1,
-  "knownIds": [
-    126163
-  ]
-}
+{"internalId":2713537540,"name":"The Song of Pelinal, Volume 7","description":"Reprint, Second Edition: \"On His Battle with Umaril and His Dismemberment.\"","icon":"data/images/10/0k/oo/housing_red_inc_varbook001.png","bindType":-1,"knownIds":[126163]}

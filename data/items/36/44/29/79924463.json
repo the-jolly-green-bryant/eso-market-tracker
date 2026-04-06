@@ -1,10 +1,1 @@
-{
-  "internalId": 79924463,
-  "name": "Molar Massager",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150211
-  ]
-}
+{"internalId":79924463,"name":"Molar Massager","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png","bindType":-1,"knownIds":[1150211]}

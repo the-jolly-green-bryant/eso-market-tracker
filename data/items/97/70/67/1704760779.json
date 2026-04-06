@@ -1,15 +1,1 @@
-{
-  "internalId": 1704760779,
-  "name": "orichalc-steel helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    438923,
-    1129328,
-    1129551,
-    438923,
-    1129328,
-    1129551
-  ]
-}
+{"internalId":1704760779,"name":"orichalc-steel helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":-1,"knownIds":[438923,1129328,1129551,438923,1129328,1129551]}

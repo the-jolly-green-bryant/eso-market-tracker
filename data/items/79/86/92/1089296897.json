@@ -1,10 +1,1 @@
-{
-  "internalId": 1089296897,
-  "name": "Fargrave Box of Fruit",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedmarketproduceset001.png",
-  "bindType": -1,
-  "knownIds": [
-    182297
-  ]
-}
+{"internalId":1089296897,"name":"Fargrave Box of Fruit","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedmarketproduceset001.png","bindType":-1,"knownIds":[182297]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2146163117,
-  "name": "Tabletop Coin Well",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    399563
-  ]
-}
+{"internalId":2146163117,"name":"Tabletop Coin Well","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_001.png","bindType":-1,"knownIds":[399563]}

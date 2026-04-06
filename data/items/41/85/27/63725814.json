@@ -1,10 +1,1 @@
-{
-  "internalId": 63725814,
-  "name": "Elsweyr Bed, Senche-Raht",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_housingbedhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    159441
-  ]
-}
+{"internalId":63725814,"name":"Elsweyr Bed, Senche-Raht","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_housingbedhigh001.png","bindType":-1,"knownIds":[159441]}

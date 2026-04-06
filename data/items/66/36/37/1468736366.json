@@ -1,10 +1,1 @@
-{
-  "internalId": 1468736366,
-  "name": "Hlaalu Bookcase, Orderly",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlachinacabinetdoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    126500
-  ]
-}
+{"internalId":1468736366,"name":"Hlaalu Bookcase, Orderly","description":"This is a standard house item.","icon":"data/images/10/0r/oo/housing_vrd_fur_hlachinacabinetdoor001.png","bindType":-1,"knownIds":[126500]}

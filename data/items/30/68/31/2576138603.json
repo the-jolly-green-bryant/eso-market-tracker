@@ -1,10 +1,1 @@
-{
-  "internalId": 2576138603,
-  "name": "Stale Grilled Hare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poultry.png",
-  "bindType": -1,
-  "knownIds": [
-    30459
-  ]
-}
+{"internalId":2576138603,"name":"Stale Grilled Hare","description":"","icon":"data/images/yr/tl/uo/crafting_poultry.png","bindType":-1,"knownIds":[30459]}

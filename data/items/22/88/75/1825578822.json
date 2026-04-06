@@ -1,10 +1,1 @@
-{
-  "internalId": 1825578822,
-  "name": "Jewelry: Permafrost",
-  "description": "A Heavy Armor set found in Maelstrom Arena.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    138772
-  ]
-}
+{"internalId":1825578822,"name":"Jewelry: Permafrost","description":"A Heavy Armor set found in Maelstrom Arena.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[138772]}

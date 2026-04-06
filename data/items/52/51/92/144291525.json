@@ -1,10 +1,1 @@
-{
-  "internalId": 144291525,
-  "name": "Mushrooms, Tall Green Morel Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_tlvmorel004.png",
-  "bindType": -1,
-  "knownIds": [
-    197837
-  ]
-}
+{"internalId":144291525,"name":"Mushrooms, Tall Green Morel Cluster","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_tlvmorel004.png","bindType":-1,"knownIds":[197837]}

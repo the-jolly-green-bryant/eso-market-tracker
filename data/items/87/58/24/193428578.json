@@ -1,10 +1,1 @@
-{
-  "internalId": 193428578,
-  "name": "Weapons: Duneripper's Scales",
-  "description": "A Heavy Armor set found in Volenfell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134178
-  ]
-}
+{"internalId":193428578,"name":"Weapons: Duneripper's Scales","description":"A Heavy Armor set found in Volenfell.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134178]}

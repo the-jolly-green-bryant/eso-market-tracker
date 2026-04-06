@@ -1,15 +1,1 @@
-{
-  "internalId": 3290090850,
-  "name": "Discourse Amaranthine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    821001,
-    813278,
-    391280,
-    821001,
-    813278,
-    391280
-  ]
-}
+{"internalId":3290090850,"name":"Discourse Amaranthine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[821001,813278,391280,821001,813278,391280]}

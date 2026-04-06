@@ -1,10 +1,1 @@
-{
-  "internalId": 43006193,
-  "name": "Hooked Scraper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860213
-  ]
-}
+{"internalId":43006193,"name":"Hooked Scraper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[860213]}

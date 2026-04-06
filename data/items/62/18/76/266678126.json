@@ -1,10 +1,1 @@
-{
-  "internalId": 266678126,
-  "name": "Colovian Staircase, Eastern Landing",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousestaircorner002.png",
-  "bindType": -1,
-  "knownIds": [
-    208079
-  ]
-}
+{"internalId":266678126,"name":"Colovian Staircase, Eastern Landing","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousestaircorner002.png","bindType":-1,"knownIds":[208079]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 645629478,
-  "name": "Soft Leather, Folded",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_leatherstack002.png",
-  "bindType": -1,
-  "knownIds": [
-    134401
-  ]
-}
+{"internalId":645629478,"name":"Soft Leather, Folded","description":"This is a small house item.","icon":"data/images/20/0k/ca/housing_cwc_crf_leatherstack002.png","bindType":-1,"knownIds":[134401]}

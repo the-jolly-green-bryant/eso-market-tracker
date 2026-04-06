@@ -1,10 +1,1 @@
-{
-  "internalId": 1495852524,
-  "name": "Seeker Aspirant Tapestry",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryseekeraspirantsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    199114
-  ]
-}
+{"internalId":1495852524,"name":"Seeker Aspirant Tapestry","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryseekeraspirantsmall001.png","bindType":-1,"knownIds":[199114]}

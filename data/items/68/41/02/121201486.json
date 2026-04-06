@@ -1,10 +1,1 @@
-{
-  "internalId": 121201486,
-  "name": "Mint Chai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
-  "bindType": -1,
-  "knownIds": [
-    37915
-  ]
-}
+{"internalId":121201486,"name":"Mint Chai","description":"","icon":"data/images/50/0_/ae/crafting_tea_005.png","bindType":-1,"knownIds":[37915]}

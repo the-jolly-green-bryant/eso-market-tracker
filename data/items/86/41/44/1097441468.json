@@ -1,10 +1,1 @@
-{
-  "internalId": 1097441468,
-  "name": "Elsweyr Altar, Dark Moons",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_phoomaltar001.png",
-  "bindType": -1,
-  "knownIds": [
-    151858
-  ]
-}
+{"internalId":1097441468,"name":"Elsweyr Altar, Dark Moons","description":"This is a large house item.","icon":"data/images/10/0r/at/housing_els_duc_phoomaltar001.png","bindType":-1,"knownIds":[151858]}

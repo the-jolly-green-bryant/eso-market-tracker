@@ -1,10 +1,1 @@
-{
-  "internalId": 333527701,
-  "name": "Imperial Archway, Cemetery",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_cem_fenceportal001.png",
-  "bindType": -1,
-  "knownIds": [
-    187792
-  ]
-}
+{"internalId":333527701,"name":"Imperial Archway, Cemetery","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_imp_cem_fenceportal001.png","bindType":-1,"knownIds":[187792]}

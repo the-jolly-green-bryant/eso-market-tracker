@@ -1,10 +1,1 @@
-{
-  "internalId": 313367443,
-  "name": "Praxis: Hlaalu Jar, Garden Moss",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    127064
-  ]
-}
+{"internalId":313367443,"name":"Praxis: Hlaalu Jar, Garden Moss","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[127064]}

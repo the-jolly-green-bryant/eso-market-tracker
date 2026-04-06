@@ -1,10 +1,1 @@
-{
-  "internalId": 4204373263,
-  "name": "Plant, Blooming White Hosta",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_auridonwhitehosta_006.png",
-  "bindType": -1,
-  "knownIds": [
-    121039
-  ]
-}
+{"internalId":4204373263,"name":"Plant, Blooming White Hosta","description":"This is a small house item.","icon":"data/images/60/0_/at/housing_veg_bsh_auridonwhitehosta_006.png","bindType":-1,"knownIds":[121039]}

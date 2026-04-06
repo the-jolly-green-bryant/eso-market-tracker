@@ -1,17 +1,1 @@
-{
-  "internalId": 2725442220,
-  "name": "Dolorous Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756222,
-    1758588,
-    1770184,
-    1773084,
-    1756222,
-    1758588,
-    1770184,
-    1773084
-  ]
-}
+{"internalId":2725442220,"name":"Dolorous Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_dagger_a.png","bindType":-1,"knownIds":[1756222,1758588,1770184,1773084,1756222,1758588,1770184,1773084]}

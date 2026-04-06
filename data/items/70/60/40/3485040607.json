@@ -1,10 +1,1 @@
-{
-  "internalId": 3485040607,
-  "name": "Investigator's Garb",
-  "description": "Seemingly made almost entirely from secret pockets, this chest piece provides limited protection but ideal hiding spots for those items needed by any investigator.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    208141
-  ]
-}
+{"internalId":3485040607,"name":"Investigator's Garb","description":"Seemingly made almost entirely from secret pockets, this chest piece provides limited protection but ideal hiding spots for those items needed by any investigator.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_robe_d.png","bindType":2,"knownIds":[208141]}

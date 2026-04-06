@@ -1,10 +1,1 @@
-{
-  "internalId": 2254993493,
-  "name": "Coldharbour's Favorite Heavy Armor",
-  "description": "A Crafted Armor set constructed in Northern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182805
-  ]
-}
+{"internalId":2254993493,"name":"Coldharbour's Favorite Heavy Armor","description":"A Crafted Armor set constructed in Northern Elsweyr.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182805]}

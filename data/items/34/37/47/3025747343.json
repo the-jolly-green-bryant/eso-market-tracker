@@ -1,10 +1,1 @@
-{
-  "internalId": 3025747343,
-  "name": "Recipe: Baked Potato",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45912
-  ]
-}
+{"internalId":3025747343,"name":"Recipe: Baked Potato","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45912]}

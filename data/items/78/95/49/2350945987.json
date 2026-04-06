@@ -1,10 +1,1 @@
-{
-  "internalId": 2350945987,
-  "name": "Unopened Vial of Glue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804209
-  ]
-}
+{"internalId":2350945987,"name":"Unopened Vial of Glue","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[804209]}

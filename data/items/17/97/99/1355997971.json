@@ -1,10 +1,1 @@
-{
-  "internalId": 1355997971,
-  "name": "Nord Pine Sap Glue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385460
-  ]
-}
+{"internalId":1355997971,"name":"Nord Pine Sap Glue","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[1385460]}

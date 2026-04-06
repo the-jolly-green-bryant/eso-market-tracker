@@ -1,10 +1,1 @@
-{
-  "internalId": 4057384612,
-  "name": "Guardian's Plate-Helm of the Shalk",
-  "description": "Still slightly warm from the steamy air of Inner Sea Armature.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34979
-  ]
-}
+{"internalId":4057384612,"name":"Guardian's Plate-Helm of the Shalk","description":"Still slightly warm from the steamy air of Inner Sea Armature.","icon":"data/images/d_/da/eh/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[34979]}

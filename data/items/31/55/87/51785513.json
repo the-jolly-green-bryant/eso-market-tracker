@@ -1,10 +1,1 @@
-{
-  "internalId": 51785513,
-  "name": "Praxis: Tide-Born Pitcher, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    217552
-  ]
-}
+{"internalId":51785513,"name":"Praxis: Tide-Born Pitcher, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[217552]}

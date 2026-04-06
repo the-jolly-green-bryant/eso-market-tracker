@@ -1,10 +1,1 @@
-{
-  "internalId": 774111303,
-  "name": "Mornard Noble Breeches",
-  "description": "The regal colors of House Mornard once blazed on banners across the Systres. Now the house is in decline, their banners relegated to prominence in Vastyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    191209
-  ]
-}
+{"internalId":774111303,"name":"Mornard Noble Breeches","description":"The regal colors of House Mornard once blazed on banners across the Systres. Now the house is in decline, their banners relegated to prominence in Vastyr.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_light_legs_a.png","bindType":2,"knownIds":[191209]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3416622063,
-  "name": "Ayleid Chandelier, Sturdy Caged",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_lsb_crystalchandelier001.png",
-  "bindType": -1,
-  "knownIds": [
-    211369
-  ]
-}
+{"internalId":3416622063,"name":"Ayleid Chandelier, Sturdy Caged","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_lsb_crystalchandelier001.png","bindType":-1,"knownIds":[211369]}

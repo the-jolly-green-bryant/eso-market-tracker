@@ -1,10 +1,1 @@
-{
-  "internalId": 240912431,
-  "name": "Elsweyr Bowl, Moon-Sugar",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_ingredientbowl001.png",
-  "bindType": -1,
-  "knownIds": [
-    151901
-  ]
-}
+{"internalId":240912431,"name":"Elsweyr Bowl, Moon-Sugar","description":"This is a tiny house item.","icon":"data/images/10/0l/wo/housing_els_inc_ingredientbowl001.png","bindType":-1,"knownIds":[151901]}

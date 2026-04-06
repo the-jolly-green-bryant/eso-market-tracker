@@ -1,10 +1,1 @@
-{
-  "internalId": 3940321017,
-  "name": "Flower Cluster, Wyrdbloom",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_wyrdflowercluster01.png",
-  "bindType": -1,
-  "knownIds": [
-    153690
-  ]
-}
+{"internalId":3940321017,"name":"Flower Cluster, Wyrdbloom","description":"This is a small house item.","icon":"data/images/10/re/ts/housing_veg_flr_wyrdflowercluster01.png","bindType":-1,"knownIds":[153690]}

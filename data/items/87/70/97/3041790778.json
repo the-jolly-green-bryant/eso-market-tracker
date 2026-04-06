@@ -1,13 +1,1 @@
-{
-  "internalId": 3041790778,
-  "name": "Crafting Motif 29: Soul Shriven Style",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    868122,
-    940327,
-    868122,
-    940327
-  ]
-}
+{"internalId":3041790778,"name":"Crafting Motif 29: Soul Shriven Style","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[868122,940327,868122,940327]}

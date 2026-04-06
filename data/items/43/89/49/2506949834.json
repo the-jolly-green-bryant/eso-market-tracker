@@ -1,10 +1,1 @@
-{
-  "internalId": 2506949834,
-  "name": "Telvanni Teapot, Fungal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_teapot001.png",
-  "bindType": -1,
-  "knownIds": [
-    197529
-  ]
-}
+{"internalId":2506949834,"name":"Telvanni Teapot, Fungal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_teapot001.png","bindType":-1,"knownIds":[197529]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4176921329,
-  "name": "Deluxe Dark Elf Pantomime Joke Book",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    817809,
-    817809
-  ]
-}
+{"internalId":4176921329,"name":"Deluxe Dark Elf Pantomime Joke Book","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[817809,817809]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1832186176,
-  "name": "Achievement Furnishings: Necrom, Infinite Archive",
-  "description": "This Crate contains all of the Achievement Furnishings from vendors in Necrom, and the Infinite Archive.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    214278
-  ]
-}
+{"internalId":1832186176,"name":"Achievement Furnishings: Necrom, Infinite Archive","description":"This Crate contains all of the Achievement Furnishings from vendors in Necrom, and the Infinite Archive.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[214278]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1264652890,
-  "name": "Orcish Curtain, Curved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_roomdivder002.png",
-  "bindType": -1,
-  "knownIds": [
-    116386
-  ]
-}
+{"internalId":1264652890,"name":"Orcish Curtain, Curved","description":"This is a standard house item.","icon":"data/images/20/0r/ed/housing_orc_fur_roomdivder002.png","bindType":-1,"knownIds":[116386]}

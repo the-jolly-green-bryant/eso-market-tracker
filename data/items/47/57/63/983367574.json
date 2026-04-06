@@ -1,10 +1,1 @@
-{
-  "internalId": 983367574,
-  "name": "Polished Clan Brand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_038.png",
-  "bindType": -1,
-  "knownIds": [
-    796279
-  ]
-}
+{"internalId":983367574,"name":"Polished Clan Brand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_038.png","bindType":-1,"knownIds":[796279]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1369752452,
-  "name": "Pact-Keeper's Fervor",
-  "description": "Made from horn and sinew, this bow gleams with the passion of its wielder.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    208131
-  ]
-}
+{"internalId":1369752452,"name":"Pact-Keeper's Fervor","description":"Made from horn and sinew, this bow gleams with the passion of its wielder.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png","bindType":2,"knownIds":[208131]}

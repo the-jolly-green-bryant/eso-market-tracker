@@ -1,10 +1,1 @@
-{
-  "internalId": 3393854720,
-  "name": "Ash Mountain Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_brokenfrieze_archway.png",
-  "bindType": -1,
-  "knownIds": [
-    805952
-  ]
-}
+{"internalId":3393854720,"name":"Ash Mountain Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_brokenfrieze_archway.png","bindType":-1,"knownIds":[805952]}

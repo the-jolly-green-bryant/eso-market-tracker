@@ -1,10 +1,1 @@
-{
-  "internalId": 1176263155,
-  "name": "Covenant's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_staff_b.png",
-  "bindType": 2,
-  "knownIds": [
-    55846
-  ]
-}
+{"internalId":1176263155,"name":"Covenant's Inferno Staff","description":"","icon":"data/images/b_/ff/at/gear_akaviri_staff_b.png","bindType":2,"knownIds":[55846]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 616180062,
-  "name": "Bread, Hearty Loaves",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketbreadsm001.png",
-  "bindType": -1,
-  "knownIds": [
-    118348
-  ]
-}
+{"internalId":616180062,"name":"Bread, Hearty Loaves","description":"This is a small house item.","icon":"data/images/10/0m/sd/housing_red_exc_varmarketbreadsm001.png","bindType":-1,"knownIds":[118348]}

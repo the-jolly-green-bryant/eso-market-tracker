@@ -1,10 +1,1 @@
-{
-  "internalId": 2157883926,
-  "name": "Shield of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95797
-  ]
-}
+{"internalId":2157883926,"name":"Shield of the Air","description":"","icon":"data/images/a_/dl/ei/gear_yokudan_shield_a.png","bindType":2,"knownIds":[95797]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1766832065,
-  "name": "Red Queen's Eye-Opener Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    478902
-  ]
-}
+{"internalId":1766832065,"name":"Red Queen's Eye-Opener Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[478902]}

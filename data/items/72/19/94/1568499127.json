@@ -1,10 +1,1 @@
-{
-  "internalId": 1568499127,
-  "name": "Design: Vampiric Goblet, Fluted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    166772
-  ]
-}
+{"internalId":1568499127,"name":"Design: Vampiric Goblet, Fluted","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[166772]}

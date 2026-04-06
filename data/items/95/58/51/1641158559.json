@@ -1,10 +1,1 @@
-{
-  "internalId": 1641158559,
-  "name": "Gallant Chain",
-  "description": "Captain Kaleen gave you a cut of her profits, including this armor, upon reaching Betnikh.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1119
-  ]
-}
+{"internalId":1641158559,"name":"Gallant Chain","description":"Captain Kaleen gave you a cut of her profits, including this armor, upon reaching Betnikh.","icon":"data/images/d_/ts/eh/gear_redguard_heavy_chest_d.png","bindType":2,"knownIds":[1119]}

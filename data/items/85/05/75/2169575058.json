@@ -1,10 +1,1 @@
-{
-  "internalId": 2169575058,
-  "name": "Guar Ice Sculpture",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holidayiceguar001.png",
-  "bindType": -1,
-  "knownIds": [
-    146053
-  ]
-}
+{"internalId":2169575058,"name":"Guar Ice Sculpture","description":"This is a small house item.","icon":"data/images/10/0r/au/housing_uni_inc_holidayiceguar001.png","bindType":-1,"knownIds":[146053]}

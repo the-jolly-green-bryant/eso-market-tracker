@@ -1,17 +1,1 @@
-{
-  "internalId": 3880181744,
-  "name": "linen jerkin of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": -1,
-  "knownIds": [
-    516997,
-    777760,
-    775941,
-    1129245,
-    516997,
-    777760,
-    775941,
-    1129245
-  ]
-}
+{"internalId":3880181744,"name":"linen jerkin of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":-1,"knownIds":[516997,777760,775941,1129245,516997,777760,775941,1129245]}

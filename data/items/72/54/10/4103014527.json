@@ -1,10 +1,1 @@
-{
-  "internalId": 4103014527,
-  "name": "Axe of Meritorious Service",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    116875
-  ]
-}
+{"internalId":4103014527,"name":"Axe of Meritorious Service","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[116875]}

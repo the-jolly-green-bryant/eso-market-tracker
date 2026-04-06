@@ -1,10 +1,1 @@
-{
-  "internalId": 283972719,
-  "name": "Banner-Torn's Everfull Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png",
-  "bindType": -1,
-  "knownIds": [
-    840492
-  ]
-}
+{"internalId":283972719,"name":"Banner-Torn's Everfull Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png","bindType":-1,"knownIds":[840492]}

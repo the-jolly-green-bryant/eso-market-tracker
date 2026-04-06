@@ -1,10 +1,1 @@
-{
-  "internalId": 1807383458,
-  "name": "Ra Gada Funerary Statue, Stone Cat",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varcatstatue001.png",
-  "bindType": -1,
-  "knownIds": [
-    134883
-  ]
-}
+{"internalId":1807383458,"name":"Ra Gada Funerary Statue, Stone Cat","description":"This is a standard house item.","icon":"data/images/10/0e/ut/housing_red_run_varcatstatue001.png","bindType":-1,"knownIds":[134883]}

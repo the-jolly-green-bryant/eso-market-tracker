@@ -1,10 +1,1 @@
-{
-  "internalId": 34279098,
-  "name": "Elsweyr Gate, Garden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_waf_wallsmediumgatebars001.png",
-  "bindType": -1,
-  "knownIds": [
-    166011
-  ]
-}
+{"internalId":34279098,"name":"Elsweyr Gate, Garden","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_waf_wallsmediumgatebars001.png","bindType":-1,"knownIds":[166011]}

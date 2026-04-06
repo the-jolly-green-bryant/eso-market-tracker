@@ -1,10 +1,1 @@
-{
-  "internalId": 4179802629,
-  "name": "Praxis: Ayleid Bench, Carved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    132343
-  ]
-}
+{"internalId":4179802629,"name":"Praxis: Ayleid Bench, Carved","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[132343]}

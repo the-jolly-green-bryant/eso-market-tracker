@@ -1,13 +1,1 @@
-{
-  "internalId": 1913601119,
-  "name": "Jerensi's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748949,
-    1748997,
-    1748949,
-    1748997
-  ]
-}
+{"internalId":1913601119,"name":"Jerensi's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png","bindType":-1,"knownIds":[1748949,1748997,1748949,1748997]}

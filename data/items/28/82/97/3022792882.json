@@ -1,10 +1,1 @@
-{
-  "internalId": 3022792882,
-  "name": "Orcish Trunk, Braced",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_chest001.png",
-  "bindType": -1,
-  "knownIds": [
-    116358
-  ]
-}
+{"internalId":3022792882,"name":"Orcish Trunk, Braced","description":"This is a standard house item.","icon":"data/images/10/0t/se/housing_orc_fur_chest001.png","bindType":-1,"knownIds":[116358]}

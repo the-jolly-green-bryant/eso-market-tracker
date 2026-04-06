@@ -1,17 +1,1 @@
-{
-  "internalId": 2668945290,
-  "name": "Ring of Scavenging Demise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1305029,
-    1305411,
-    1440856,
-    1460071,
-    1305029,
-    1305411,
-    1440856,
-    1460071
-  ]
-}
+{"internalId":2668945290,"name":"Ring of Scavenging Demise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1305029,1305411,1440856,1460071,1305029,1305411,1440856,1460071]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1104063522,
-  "name": "Thalmor Authenticated Silk Sheets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png",
-  "bindType": -1,
-  "knownIds": [
-    481181
-  ]
-}
+{"internalId":1104063522,"name":"Thalmor Authenticated Silk Sheets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png","bindType":-1,"knownIds":[481181]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2165341308,
-  "name": "Fabricant Tree, Electrum",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_clkmediumtree003.png",
-  "bindType": -1,
-  "knownIds": [
-    134309
-  ]
-}
+{"internalId":2165341308,"name":"Fabricant Tree, Electrum","description":"This is a large house item.","icon":"data/images/30/0e/er/housing_tre_fan_clkmediumtree003.png","bindType":-1,"knownIds":[134309]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3365796101,
-  "name": "Redoran Amphora, Sealed Marble",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_urn004.png",
-  "bindType": -1,
-  "knownIds": [
-    126509
-  ]
-}
+{"internalId":3365796101,"name":"Redoran Amphora, Sealed Marble","description":"This is a small house item.","icon":"data/images/40/0n/ru/housing_vrd_duc_urn004.png","bindType":-1,"knownIds":[126509]}

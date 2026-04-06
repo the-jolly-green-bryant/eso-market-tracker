@@ -1,15 +1,1 @@
-{
-  "internalId": 2952501874,
-  "name": "Yandir's Perfected Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1636851,
-    1636852,
-    1761532,
-    1636851,
-    1636852,
-    1761532
-  ]
-}
+{"internalId":2952501874,"name":"Yandir's Perfected Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png","bindType":-1,"knownIds":[1636851,1636852,1761532,1636851,1636852,1761532]}

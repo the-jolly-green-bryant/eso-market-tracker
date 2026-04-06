@@ -1,10 +1,1 @@
-{
-  "internalId": 3413663736,
-  "name": "Dagger of the Green Sister",
-  "description": "Several collectible items related to the Green Lady, such as this dagger, are made in Deepwoods.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15580
-  ]
-}
+{"internalId":3413663736,"name":"Dagger of the Green Sister","description":"Several collectible items related to the Green Lady, such as this dagger, are made in Deepwoods.","icon":"data/images/d_/re/gg/gear_bosmer_dagger_d.png","bindType":2,"knownIds":[15580]}

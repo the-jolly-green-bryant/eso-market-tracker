@@ -1,10 +1,1 @@
-{
-  "internalId": 271325929,
-  "name": "Wax Ladle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1148487
-  ]
-}
+{"internalId":271325929,"name":"Wax Ladle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[1148487]}

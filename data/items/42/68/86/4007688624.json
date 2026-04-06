@@ -1,10 +1,1 @@
-{
-  "internalId": 4007688624,
-  "name": "Smuggler's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101105
-  ]
-}
+{"internalId":4007688624,"name":"Smuggler's Greatsword","description":"","icon":"data/images/d_/dr/ow/gear_khajiit_2hsword_d.png","bindType":2,"knownIds":[101105]}

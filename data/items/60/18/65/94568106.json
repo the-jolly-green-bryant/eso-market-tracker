@@ -1,10 +1,1 @@
-{
-  "internalId": 94568106,
-  "name": "Diagram: Dark Elf Thurible, Caged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    116075
-  ]
-}
+{"internalId":94568106,"name":"Diagram: Dark Elf Thurible, Caged","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[116075]}

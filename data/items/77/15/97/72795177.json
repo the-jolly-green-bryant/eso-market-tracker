@@ -1,10 +1,1 @@
-{
-  "internalId": 72795177,
-  "name": "coelacanth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    409354
-  ]
-}
+{"internalId":72795177,"name":"coelacanth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[409354]}

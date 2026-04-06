@@ -1,10 +1,1 @@
-{
-  "internalId": 2303248969,
-  "name": "Marksman's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199445
-  ]
-}
+{"internalId":2303248969,"name":"Marksman's Arm Cops","description":"","icon":"data/images/a_/sr/ed/gear_abahswatch_medium_shoulders_a.png","bindType":2,"knownIds":[79749]}

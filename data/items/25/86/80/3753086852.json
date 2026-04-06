@@ -1,13 +1,1 @@
-{
-  "internalId": 3753086852,
-  "name": "Nobility in Decay Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1686959,
-    1692861,
-    1686959,
-    1692861
-  ]
-}
+{"internalId":3753086852,"name":"Nobility in Decay Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_feet_a.png","bindType":-1,"knownIds":[1686959,1692861,1686959,1692861]}

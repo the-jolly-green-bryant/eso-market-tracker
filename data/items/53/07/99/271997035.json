@@ -1,10 +1,1 @@
-{
-  "internalId": 271997035,
-  "name": "Design: Dawnwood Meal, Delicacy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    207878
-  ]
-}
+{"internalId":271997035,"name":"Design: Dawnwood Meal, Delicacy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[207878]}

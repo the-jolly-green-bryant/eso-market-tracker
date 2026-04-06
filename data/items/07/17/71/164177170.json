@@ -1,10 +1,1 @@
-{
-  "internalId": 164177170,
-  "name": "Twenty-Year Ruby Port",
-  "description": "Not old enough to be considered antiquity, but very finely aged all the same. This gift for Mirri is more appreciated when used during Hearts Week.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_mirri.png",
-  "bindType": -1,
-  "knownIds": [
-    220263
-  ]
-}
+{"internalId":164177170,"name":"Twenty-Year Ruby Port","description":"Not old enough to be considered antiquity, but very finely aged all the same. This gift for Mirri is more appreciated when used during Hearts Week.","icon":"https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_mirri.png","bindType":-1,"knownIds":[220263]}

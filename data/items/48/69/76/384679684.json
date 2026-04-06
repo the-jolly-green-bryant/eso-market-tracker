@@ -1,10 +1,1 @@
-{
-  "internalId": 384679684,
-  "name": "Dwemer Dungeons: What I Know",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
-  "bindType": -1,
-  "knownIds": [
-    1092638
-  ]
-}
+{"internalId":384679684,"name":"Dwemer Dungeons: What I Know","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png","bindType":-1,"knownIds":[1092638]}

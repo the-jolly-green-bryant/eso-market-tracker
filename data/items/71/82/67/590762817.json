@@ -1,10 +1,1 @@
-{
-  "internalId": 590762817,
-  "name": "Nafaalilargus's Third Offering",
-  "description": "This Offering contains a bevy of loot, including another Offering. There are 10 Offerings in total, and you may open them at your leisure.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    153806
-  ]
-}
+{"internalId":590762817,"name":"Nafaalilargus's Third Offering","description":"This Offering contains a bevy of loot, including another Offering. There are 10 Offerings in total, and you may open them at your leisure.","icon":"data/images/so/ro/bo/gift-box-ouroboros.png","bindType":3,"knownIds":[153806]}

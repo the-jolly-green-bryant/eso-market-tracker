@@ -1,10 +1,1 @@
-{
-  "internalId": 920381586,
-  "name": "Scorched Shoulderpads",
-  "description": "This Daedra-touched armor was the gift of a grateful bridegroom at the Damar Farmstead in Bangkorai.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15603
-  ]
-}
+{"internalId":920381586,"name":"Scorched Shoulderpads","description":"This Daedra-touched armor was the gift of a grateful bridegroom at the Damar Farmstead in Bangkorai.","icon":"data/images/d_/sr/ed/gear_redguard_light_shoulders_d.png","bindType":2,"knownIds":[15603]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2461670188,
-  "name": "Enlistment Records",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    823518
-  ]
-}
+{"internalId":2461670188,"name":"Enlistment Records","description":"","icon":null,"bindType":-1,"knownIds":[823518]}

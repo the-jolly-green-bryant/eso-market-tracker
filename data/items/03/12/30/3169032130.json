@@ -1,10 +1,1 @@
-{
-  "internalId": 3169032130,
-  "name": "lesser Glyph of Bracing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasebashblockcost.png",
-  "bindType": -1,
-  "knownIds": [
-    1438932
-  ]
-}
+{"internalId":3169032130,"name":"lesser Glyph of Bracing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasebashblockcost.png","bindType":-1,"knownIds":[1438932]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1866174152,
-  "name": "Ordinator Breastplate",
-  "description": "Almalexia gave you this breastplate for defeating Magistrix Vox at Eidolon's Hollow.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4315
-  ]
-}
+{"internalId":1866174152,"name":"Ordinator Breastplate","description":"Almalexia gave you this breastplate for defeating Magistrix Vox at Eidolon's Hollow.","icon":"data/images/d_/ts/eh/gear_dunmer_medium_chest_d.png","bindType":2,"knownIds":[4315]}

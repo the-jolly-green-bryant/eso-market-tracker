@@ -1,10 +1,1 @@
-{
-  "internalId": 3337606522,
-  "name": "Wicker Effigy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png",
-  "bindType": -1,
-  "knownIds": [
-    812157
-  ]
-}
+{"internalId":3337606522,"name":"Wicker Effigy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png","bindType":-1,"knownIds":[812157]}

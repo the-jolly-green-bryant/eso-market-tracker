@@ -1,10 +1,1 @@
-{
-  "internalId": 2739689868,
-  "name": "Crafting Motif 89: Ancestral High Elf Shoulders",
-  "description": "Use to learn how to make Ancestral High Elf Shoulders. Also teaches the equivalent Ancestral High Elf Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160605
-  ]
-}
+{"internalId":2739689868,"name":"Crafting Motif 89: Ancestral High Elf Shoulders","description":"Use to learn how to make Ancestral High Elf Shoulders. Also teaches the equivalent Ancestral High Elf Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160605]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 981282788,
-  "name": "Three Queens Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214676
-  ]
-}
+{"internalId":981282788,"name":"Three Queens Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hsword_a.png","bindType":2,"knownIds":[214676]}

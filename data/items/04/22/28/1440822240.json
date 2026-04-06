@@ -1,10 +1,1 @@
-{
-  "internalId": 1440822240,
-  "name": "Praxis: Elsweyr Lantern, Hanging Twist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    152081
-  ]
-}
+{"internalId":1440822240,"name":"Praxis: Elsweyr Lantern, Hanging Twist","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[152081]}

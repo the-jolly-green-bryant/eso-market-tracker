@@ -1,10 +1,1 @@
-{
-  "internalId": 403134375,
-  "name": "Necklace of Endurance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    69170
-  ]
-}
+{"internalId":403134375,"name":"Necklace of Endurance","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[69170]}

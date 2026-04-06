@@ -1,10 +1,1 @@
-{
-  "internalId": 2073259978,
-  "name": "Oakfather's Retribution Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1715742
-  ]
-}
+{"internalId":2073259978,"name":"Oakfather's Retribution Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":-1,"knownIds":[1715742]}

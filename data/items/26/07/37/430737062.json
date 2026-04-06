@@ -1,10 +1,1 @@
-{
-  "internalId": 430737062,
-  "name": "Tree, Tall Iroko",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_els_irokohousing004.png",
-  "bindType": -1,
-  "knownIds": [
-    151811
-  ]
-}
+{"internalId":430737062,"name":"Tree, Tall Iroko","description":"This is a large house item.","icon":"data/images/40/0g/ni/housing_tre_els_irokohousing004.png","bindType":-1,"knownIds":[151811]}

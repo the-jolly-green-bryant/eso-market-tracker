@@ -1,10 +1,1 @@
-{
-  "internalId": 3153763742,
-  "name": "Design: Argonian Totem of Skulls",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    115829
-  ]
-}
+{"internalId":3153763742,"name":"Design: Argonian Totem of Skulls","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[115829]}

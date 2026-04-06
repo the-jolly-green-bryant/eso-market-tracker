@@ -1,10 +1,1 @@
-{
-  "internalId": 982154847,
-  "name": "Mushroom, Spongecap Button",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdmedmush002.png",
-  "bindType": -1,
-  "knownIds": [
-    125599
-  ]
-}
+{"internalId":982154847,"name":"Mushroom, Spongecap Button","description":"This is a standard house item.","icon":"data/images/20/0h/su/housing_veg_fug_vrdmedmush002.png","bindType":-1,"knownIds":[125599]}

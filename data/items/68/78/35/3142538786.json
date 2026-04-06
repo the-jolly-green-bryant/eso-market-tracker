@@ -1,10 +1,1 @@
-{
-  "internalId": 3142538786,
-  "name": "Bow of the Kynmarcher's Cruelty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180411
-  ]
-}
+{"internalId":3142538786,"name":"Bow of the Kynmarcher's Cruelty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_bow_a.png","bindType":2,"knownIds":[180411]}

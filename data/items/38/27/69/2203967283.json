@@ -1,10 +1,1 @@
-{
-  "internalId": 2203967283,
-  "name": "Debris Pile, Sea-Tossed Flotsam",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_argdebris001.png",
-  "bindType": -1,
-  "knownIds": [
-    220362
-  ]
-}
+{"internalId":2203967283,"name":"Debris Pile, Sea-Tossed Flotsam","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_argdebris001.png","bindType":-1,"knownIds":[220362]}

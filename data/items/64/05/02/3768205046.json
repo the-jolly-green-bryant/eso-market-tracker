@@ -1,10 +1,1 @@
-{
-  "internalId": 3768205046,
-  "name": "Praxis: Leyawiin Column, Castle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    181569
-  ]
-}
+{"internalId":3768205046,"name":"Praxis: Leyawiin Column, Castle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[181569]}

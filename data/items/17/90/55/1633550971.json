@@ -1,10 +1,1 @@
-{
-  "internalId": 1633550971,
-  "name": "Drake's Rush",
-  "description": "A Heavy Armor set found in Black Drake Villa.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    170731
-  ]
-}
+{"internalId":1633550971,"name":"Drake's Rush","description":"A Heavy Armor set found in Black Drake Villa.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[170731]}

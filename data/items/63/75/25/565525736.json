@@ -1,10 +1,1 @@
-{
-  "internalId": 565525736,
-  "name": "Lost One's Cowl of Martial Knowledge",
-  "description": "The Star-Gazers rewarded you with this warrior's cowl for your part in confronting the Celestial Mage.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    81313
-  ]
-}
+{"internalId":565525736,"name":"Lost One's Cowl of Martial Knowledge","description":"The Star-Gazers rewarded you with this warrior's cowl for your part in confronting the Celestial Mage.","icon":"data/images/a_/da/eh/gear_yokudan_light_head_a.png","bindType":2,"knownIds":[81313]}

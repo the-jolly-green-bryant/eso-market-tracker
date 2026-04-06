@@ -1,10 +1,1 @@
-{
-  "internalId": 2345329372,
-  "name": "Bow of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167751
-  ]
-}
+{"internalId":2345329372,"name":"Bow of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_bow_a.png","bindType":2,"knownIds":[167751]}

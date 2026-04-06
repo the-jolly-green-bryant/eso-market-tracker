@@ -1,10 +1,1 @@
-{
-  "internalId": 3008233815,
-  "name": "Clockwork Cabinet, Sequence Plaque",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_scrollcabinet002.png",
-  "bindType": -1,
-  "knownIds": [
-    134341
-  ]
-}
+{"internalId":3008233815,"name":"Clockwork Cabinet, Sequence Plaque","description":"This is a standard house item.","icon":"data/images/20/0t/en/housing_cwc_fur_scrollcabinet002.png","bindType":-1,"knownIds":[134341]}

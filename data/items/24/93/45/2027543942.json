@@ -1,10 +1,1 @@
-{
-  "internalId": 2027543942,
-  "name": "Worm Food",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863354
-  ]
-}
+{"internalId":2027543942,"name":"Worm Food","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[863354]}

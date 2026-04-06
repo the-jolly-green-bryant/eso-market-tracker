@@ -1,10 +1,1 @@
-{
-  "internalId": 1272149408,
-  "name": "Indoril Shelf, Long",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlawallshelflng002.png",
-  "bindType": -1,
-  "knownIds": [
-    126406
-  ]
-}
+{"internalId":1272149408,"name":"Indoril Shelf, Long","description":"This is a standard house item.","icon":"data/images/20/0g/nl/housing_vrd_fur_hlawallshelflng002.png","bindType":-1,"knownIds":[126406]}

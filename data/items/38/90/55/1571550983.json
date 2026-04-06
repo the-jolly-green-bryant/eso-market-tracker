@@ -1,10 +1,1 @@
-{
-  "internalId": 1571550983,
-  "name": "High Elf Crest, Winged",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_str_eaglewall001.png",
-  "bindType": -1,
-  "knownIds": [
-    114411
-  ]
-}
+{"internalId":1571550983,"name":"High Elf Crest, Winged","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_alt_str_eaglewall001.png","bindType":-1,"knownIds":[114411]}

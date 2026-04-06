@@ -1,10 +1,1 @@
-{
-  "internalId": 1109420293,
-  "name": "Dremora Plunder Skull, Crowborne Horror",
-  "description": "This bucket contains items that many witches and warlocks would find of interest.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_dremora_skull_bucket.png",
-  "bindType": 3,
-  "knownIds": [
-    190038
-  ]
-}
+{"internalId":1109420293,"name":"Dremora Plunder Skull, Crowborne Horror","description":"This bucket contains items that many witches and warlocks would find of interest.","icon":"https://esoicons.uesp.net/esoui/art/icons/event_halloween_dremora_skull_bucket.png","bindType":3,"knownIds":[190038]}

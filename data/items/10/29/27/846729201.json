@@ -1,13 +1,1 @@
-{
-  "internalId": 846729201,
-  "name": "Lucent Echoes Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1719650,
-    1719831,
-    1719650,
-    1719831
-  ]
-}
+{"internalId":846729201,"name":"Lucent Echoes Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1719650,1719831,1719650,1719831]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3368726089,
-  "name": "Apocrypha Fence, Large Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_waf_libwallmedstraight001.png",
-  "bindType": -1,
-  "knownIds": [
-    203308
-  ]
-}
+{"internalId":3368726089,"name":"Apocrypha Fence, Large Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_waf_libwallmedstraight001.png","bindType":-1,"knownIds":[203308]}

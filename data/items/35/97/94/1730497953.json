@@ -1,10 +1,1 @@
-{
-  "internalId": 1730497953,
-  "name": "Scute of the Mock Turtle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_turtle_scute.png",
-  "bindType": -1,
-  "knownIds": [
-    845322
-  ]
-}
+{"internalId":1730497953,"name":"Scute of the Mock Turtle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_turtle_scute.png","bindType":-1,"knownIds":[845322]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2753248440,
-  "name": "Gloom-Graced Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135316
-  ]
-}
+{"internalId":2753248440,"name":"Gloom-Graced Shield","description":"","icon":"data/images/a_/dl/ei/gear_nocturnal_shield_a.png","bindType":2,"knownIds":[135316]}

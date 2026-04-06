@@ -1,10 +1,1 @@
-{
-  "internalId": 4223511930,
-  "name": "Recipe: Dark Seducer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45574
-  ]
-}
+{"internalId":4223511930,"name":"Recipe: Dark Seducer","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45574]}

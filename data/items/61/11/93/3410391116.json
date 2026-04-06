@@ -1,13 +1,1 @@
-{
-  "internalId": 3410391116,
-  "name": "Xanmeer Spellweaver Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_light_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765200,
-    1770600,
-    1765200,
-    1770600
-  ]
-}
+{"internalId":3410391116,"name":"Xanmeer Spellweaver Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_light_chest_a.png","bindType":-1,"knownIds":[1765200,1770600,1765200,1770600]}

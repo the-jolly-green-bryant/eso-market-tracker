@@ -1,15 +1,1 @@
-{
-  "internalId": 3933772287,
-  "name": "Kazpian's Perfected Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_medium_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1758855,
-    1765516,
-    1773694,
-    1758855,
-    1765516,
-    1773694
-  ]
-}
+{"internalId":3933772287,"name":"Kazpian's Perfected Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_medium_waist_a.png","bindType":-1,"knownIds":[1758855,1765516,1773694,1758855,1765516,1773694]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2704399982,
-  "name": "Base Game Achievement Furnishings: Coldharbour+",
-  "description": "This Crate contains all of the base game Achievement Furnishings from Coldharbour, Fighters Guild Furniture Vendors, and the Global Achievement Vendor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    214270
-  ]
-}
+{"internalId":2704399982,"name":"Base Game Achievement Furnishings: Coldharbour+","description":"This Crate contains all of the base game Achievement Furnishings from Coldharbour, Fighters Guild Furniture Vendors, and the Global Achievement Vendor.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[214270]}

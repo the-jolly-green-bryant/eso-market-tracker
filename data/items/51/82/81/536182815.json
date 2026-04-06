@@ -1,10 +1,1 @@
-{
-  "internalId": 536182815,
-  "name": "Stonehulk Domination Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764856
-  ]
-}
+{"internalId":536182815,"name":"Stonehulk Domination Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hhammer_a.png","bindType":-1,"knownIds":[1764856]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1156764111,
-  "name": "Sober Nord Obligation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    404097
-  ]
-}
+{"internalId":1156764111,"name":"Sober Nord Obligation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[404097]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3939410809,
-  "name": "Dawnwood Soup, Pumpkin",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosfoodsoup001.png",
-  "bindType": -1,
-  "knownIds": [
-    211388
-  ]
-}
+{"internalId":3939410809,"name":"Dawnwood Soup, Pumpkin","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosfoodsoup001.png","bindType":-1,"knownIds":[211388]}

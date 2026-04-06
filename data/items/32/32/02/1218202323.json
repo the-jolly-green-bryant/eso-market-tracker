@@ -1,10 +1,1 @@
-{
-  "internalId": 1218202323,
-  "name": "Restoration Staff of Nocturnal's Ploy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189832
-  ]
-}
+{"internalId":1218202323,"name":"Restoration Staff of Nocturnal's Ploy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[189832]}

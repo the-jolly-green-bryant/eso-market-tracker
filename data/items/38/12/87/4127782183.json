@@ -1,10 +1,1 @@
-{
-  "internalId": 4127782183,
-  "name": "Blueprint: Leyawiin Counter, Corner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175918
-  ]
-}
+{"internalId":4127782183,"name":"Blueprint: Leyawiin Counter, Corner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[175918]}

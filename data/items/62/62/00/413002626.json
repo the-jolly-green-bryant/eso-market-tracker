@@ -1,10 +1,1 @@
-{
-  "internalId": 413002626,
-  "name": "Reward Item Furnishing Crate 5",
-  "description": "This Crate contains 27 Reward Item furnishings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    192457
-  ]
-}
+{"internalId":413002626,"name":"Reward Item Furnishing Crate 5","description":"This Crate contains 27 Reward Item furnishings.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[192457]}

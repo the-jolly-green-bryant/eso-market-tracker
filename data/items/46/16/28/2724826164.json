@@ -1,10 +1,1 @@
-{
-  "internalId": 2724826164,
-  "name": "Titan Skull, Colossal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_titanskeleton003.png",
-  "bindType": -1,
-  "knownIds": [
-    153695
-  ]
-}
+{"internalId":2724826164,"name":"Titan Skull, Colossal","description":"This is a standard house item.","icon":"data/images/30/0n/ot/housing_cre_exc_titanskeleton003.png","bindType":-1,"knownIds":[153695]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3863191334,
-  "name": "Imperial Curio, Scrollwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_chinacabinet003.png",
-  "bindType": -1,
-  "knownIds": [
-    94168
-  ]
-}
+{"internalId":3863191334,"name":"Imperial Curio, Scrollwork","description":"This is a standard house item.","icon":"data/images/30/0t/en/housing_nib_fur_chinacabinet003.png","bindType":-1,"knownIds":[94168]}

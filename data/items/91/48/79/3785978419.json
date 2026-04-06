@@ -1,10 +1,1 @@
-{
-  "internalId": 3785978419,
-  "name": "Deloused Reachmen Scalps",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366511
-  ]
-}
+{"internalId":3785978419,"name":"Deloused Reachmen Scalps","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png","bindType":-1,"knownIds":[1366511]}

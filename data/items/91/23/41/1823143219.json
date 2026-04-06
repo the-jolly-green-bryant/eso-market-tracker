@@ -1,10 +1,1 @@
-{
-  "internalId": 1823143219,
-  "name": "Redguard Brazier, Ritual",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_clwayshrinedungeon001.png",
-  "bindType": -1,
-  "knownIds": [
-    171426
-  ]
-}
+{"internalId":1823143219,"name":"Redguard Brazier, Ritual","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_str_clwayshrinedungeon001.png","bindType":-1,"knownIds":[171426]}

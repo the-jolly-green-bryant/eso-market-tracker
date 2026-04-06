@@ -1,10 +1,1 @@
-{
-  "internalId": 1192897302,
-  "name": "Dwarven Dresser, Granite",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markdresser003.png",
-  "bindType": -1,
-  "knownIds": [
-    171374
-  ]
-}
+{"internalId":1192897302,"name":"Dwarven Dresser, Granite","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markdresser003.png","bindType":-1,"knownIds":[171374]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4237334731,
-  "name": "Crafting Motif 99: Waking Flame Style",
-  "description": "Use to learn the Waking Flame crafting style. Also teaches the equivalent Waking Flame Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    171580
-  ]
-}
+{"internalId":4237334731,"name":"Crafting Motif 99: Waking Flame Style","description":"Use to learn the Waking Flame crafting style. Also teaches the equivalent Waking Flame Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[171580]}

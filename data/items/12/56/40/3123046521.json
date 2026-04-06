@@ -1,10 +1,1 @@
-{
-  "internalId": 3123046521,
-  "name": "Bolt of Silk Sarsenet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484167
-  ]
-}
+{"internalId":3123046521,"name":"Bolt of Silk Sarsenet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[484167]}

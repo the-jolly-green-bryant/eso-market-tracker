@@ -1,10 +1,1 @@
-{
-  "internalId": 3745992528,
-  "name": "Smoked Cheese Wheel, Wax",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_cheesesmokedwheel001.png",
-  "bindType": -1,
-  "knownIds": [
-    204748
-  ]
-}
+{"internalId":3745992528,"name":"Smoked Cheese Wheel, Wax","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_cheesesmokedwheel001.png","bindType":-1,"knownIds":[204748]}

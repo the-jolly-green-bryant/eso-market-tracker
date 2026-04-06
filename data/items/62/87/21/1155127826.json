@@ -1,10 +1,1 @@
-{
-  "internalId": 1155127826,
-  "name": "Magna-Geode, Large",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_meridiaorb002.png",
-  "bindType": -1,
-  "knownIds": [
-    147640
-  ]
-}
+{"internalId":1155127826,"name":"Magna-Geode, Large","description":"This is a small house item.","icon":"data/images/20/0b/ro/housing_rok_uni_meridiaorb002.png","bindType":-1,"knownIds":[147640]}

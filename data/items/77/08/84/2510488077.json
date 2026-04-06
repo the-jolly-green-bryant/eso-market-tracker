@@ -1,10 +1,1 @@
-{
-  "internalId": 2510488077,
-  "name": "Dauntless Combatant's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159408
-  ]
-}
+{"internalId":2510488077,"name":"Dauntless Combatant's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[159408]}

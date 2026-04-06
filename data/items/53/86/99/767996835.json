@@ -1,10 +1,1 @@
-{
-  "internalId": 767996835,
-  "name": "Solitude Skewer, Twisted Iron",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_largeskewer001.png",
-  "bindType": -1,
-  "knownIds": [
-    165746
-  ]
-}
+{"internalId":767996835,"name":"Solitude Skewer, Twisted Iron","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_largeskewer001.png","bindType":-1,"knownIds":[165746]}

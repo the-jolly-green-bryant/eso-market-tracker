@@ -1,10 +1,1 @@
-{
-  "internalId": 2925718335,
-  "name": "Recipe: Corinthe Corn Beef",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56943
-  ]
-}
+{"internalId":2925718335,"name":"Recipe: Corinthe Corn Beef","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56943]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1928047619,
-  "name": "Shipment of Ebony Ingots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936669
-  ]
-}
+{"internalId":1928047619,"name":"Shipment of Ebony Ingots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[936669]}

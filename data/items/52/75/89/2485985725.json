@@ -1,10 +1,1 @@
-{
-  "internalId": 2485985725,
-  "name": "Rough Hay Bed, Covered",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_minbedding003.png",
-  "bindType": -1,
-  "knownIds": [
-    117976
-  ]
-}
+{"internalId":2485985725,"name":"Rough Hay Bed, Covered","description":"This is a large house item.","icon":"data/images/30/0g/ni/housing_cre_exc_minbedding003.png","bindType":-1,"knownIds":[117976]}

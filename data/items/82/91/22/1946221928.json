@@ -1,10 +1,1 @@
-{
-  "internalId": 1946221928,
-  "name": "Tree, Dragonblood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_socotra003.png",
-  "bindType": -1,
-  "knownIds": [
-    220365
-  ]
-}
+{"internalId":1946221928,"name":"Tree, Dragonblood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_socotra003.png","bindType":-1,"knownIds":[220365]}

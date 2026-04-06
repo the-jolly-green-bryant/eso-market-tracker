@@ -1,10 +1,1 @@
-{
-  "internalId": 2726130765,
-  "name": "Ebony-Inlaid Longbow",
-  "description": "You earned this bow by dispensing justice to Watch Captain Rama, whose hatred of Goblins caused the deaths of many.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    2501
-  ]
-}
+{"internalId":2726130765,"name":"Ebony-Inlaid Longbow","description":"You earned this bow by dispensing justice to Watch Captain Rama, whose hatred of Goblins caused the deaths of many.","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[2501]}

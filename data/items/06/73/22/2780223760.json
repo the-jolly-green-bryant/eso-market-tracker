@@ -1,10 +1,1 @@
-{
-  "internalId": 2780223760,
-  "name": "Picture Saga of Svartr",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1387036
-  ]
-}
+{"internalId":2780223760,"name":"Picture Saga of Svartr","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[1387036]}

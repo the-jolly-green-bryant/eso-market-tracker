@@ -1,10 +1,1 @@
-{
-  "internalId": 825286998,
-  "name": "Tree, Twisted Pink Cherry",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_auridon_cherryblossom003.png",
-  "bindType": -1,
-  "knownIds": [
-    120657
-  ]
-}
+{"internalId":825286998,"name":"Tree, Twisted Pink Cherry","description":"This is a huge house item.","icon":"data/images/30/0m/os/housing_tre_dec_auridon_cherryblossom003.png","bindType":-1,"knownIds":[120657]}

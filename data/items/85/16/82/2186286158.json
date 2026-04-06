@@ -1,10 +1,1 @@
-{
-  "internalId": 2186286158,
-  "name": "Diagram: Minecart Track, Sloped Up",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    211409
-  ]
-}
+{"internalId":2186286158,"name":"Diagram: Minecart Track, Sloped Up","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[211409]}

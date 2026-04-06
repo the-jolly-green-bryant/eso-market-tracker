@@ -1,10 +1,1 @@
-{
-  "internalId": 1638896326,
-  "name": "Orsinium Sarcophagus, Honor's Rest",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_honorsrestrgsarcophagus001.png",
-  "bindType": -1,
-  "knownIds": [
-    153691
-  ]
-}
+{"internalId":1638896326,"name":"Orsinium Sarcophagus, Honor's Rest","description":"This is a standard house item.","icon":"data/images/10/0s/ug/housing_orc_duc_honorsrestrgsarcophagus001.png","bindType":-1,"knownIds":[153691]}

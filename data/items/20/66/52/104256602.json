@@ -1,10 +1,1 @@
-{
-  "internalId": 104256602,
-  "name": "Bush, Autumn Oak",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oakbushfall002.png",
-  "bindType": -1,
-  "knownIds": [
-    204769
-  ]
-}
+{"internalId":104256602,"name":"Bush, Autumn Oak","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oakbushfall002.png","bindType":-1,"knownIds":[204769]}

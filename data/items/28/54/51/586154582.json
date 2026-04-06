@@ -1,10 +1,1 @@
-{
-  "internalId": 586154582,
-  "name": "Reman War Drum",
-  "description": "A drum of Reman dynasty, certain to have signaled doom for the Empire's foes. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questremanwardrum001.png",
-  "bindType": 3,
-  "knownIds": [
-    156808
-  ]
-}
+{"internalId":586154582,"name":"Reman War Drum","description":"A drum of Reman dynasty, certain to have signaled doom for the Empire's foes. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questremanwardrum001.png","bindType":3,"knownIds":[156808]}

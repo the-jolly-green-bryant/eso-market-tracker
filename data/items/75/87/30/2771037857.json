@@ -1,10 +1,1 @@
-{
-  "internalId": 2771037857,
-  "name": "Dylora's Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lich_staff_e.png",
-  "bindType": 2,
-  "knownIds": [
-    44262
-  ]
-}
+{"internalId":2771037857,"name":"Dylora's Staff","description":"","icon":"data/images/e_/ff/at/gear_lich_staff_e.png","bindType":2,"knownIds":[44262]}

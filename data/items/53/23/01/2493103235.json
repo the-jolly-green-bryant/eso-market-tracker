@@ -1,10 +1,1 @@
-{
-  "internalId": 2493103235,
-  "name": "Sword of Winter's Respite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_sword.png",
-  "bindType": 2,
-  "knownIds": [
-    160799
-  ]
-}
+{"internalId":2493103235,"name":"Sword of Winter's Respite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_sword.png","bindType":2,"knownIds":[160799]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 90004847,
-  "name": "Ebonthread",
-  "description": "An ingredient for crafting clothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_ebonthread_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    23127
-  ]
-}
+{"internalId":90004847,"name":"Ebonthread","description":"An ingredient for crafting clothing.","icon":"data/images/2r/_d/ae/crafting_cloth_base_ebonthread_r2.png","bindType":-1,"knownIds":[23127]}

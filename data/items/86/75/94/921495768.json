@@ -1,10 +1,1 @@
-{
-  "internalId": 921495768,
-  "name": "Signed Gulob Stick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    808977
-  ]
-}
+{"internalId":921495768,"name":"Signed Gulob Stick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[808977]}

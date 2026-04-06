@@ -1,10 +1,1 @@
-{
-  "internalId": 3317138933,
-  "name": "Necklace of the Eyes of Mara",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140186
-  ]
-}
+{"internalId":3317138933,"name":"Necklace of the Eyes of Mara","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[140186]}

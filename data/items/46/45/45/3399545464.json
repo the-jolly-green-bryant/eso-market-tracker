@@ -1,10 +1,1 @@
-{
-  "internalId": 3399545464,
-  "name": "Gold Coast Experience Scroll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crowncrate_experiencescroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    932420
-  ]
-}
+{"internalId":3399545464,"name":"Gold Coast Experience Scroll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crowncrate_experiencescroll_001.png","bindType":-1,"knownIds":[932420]}

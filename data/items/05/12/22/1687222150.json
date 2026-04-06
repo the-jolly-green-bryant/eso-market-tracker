@@ -1,10 +1,1 @@
-{
-  "internalId": 1687222150,
-  "name": "Silver Hip Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png",
-  "bindType": -1,
-  "knownIds": [
-    401107
-  ]
-}
+{"internalId":1687222150,"name":"Silver Hip Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png","bindType":-1,"knownIds":[401107]}

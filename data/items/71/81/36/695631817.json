@@ -1,10 +1,1 @@
-{
-  "internalId": 695631817,
-  "name": "Blueprint: Leyawiin Cupboard, Formal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    175916
-  ]
-}
+{"internalId":695631817,"name":"Blueprint: Leyawiin Cupboard, Formal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[175916]}

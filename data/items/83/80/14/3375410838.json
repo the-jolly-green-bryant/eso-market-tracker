@@ -1,17 +1,1 @@
-{
-  "internalId": 3375410838,
-  "name": "Werewolf Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    390317,
-    394285,
-    737074,
-    384777,
-    390317,
-    394285,
-    737074,
-    384777
-  ]
-}
+{"internalId":3375410838,"name":"Werewolf Slayer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":-1,"knownIds":[390317,394285,737074,384777,390317,394285,737074,384777]}

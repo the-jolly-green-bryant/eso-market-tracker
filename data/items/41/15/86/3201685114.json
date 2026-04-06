@@ -1,10 +1,1 @@
-{
-  "internalId": 3201685114,
-  "name": "Chromatic Reservoir Tapestry",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrychromaticreservoirsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    199116
-  ]
-}
+{"internalId":3201685114,"name":"Chromatic Reservoir Tapestry","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrychromaticreservoirsmall001.png","bindType":-1,"knownIds":[199116]}

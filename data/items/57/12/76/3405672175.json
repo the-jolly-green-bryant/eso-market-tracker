@@ -1,10 +1,1 @@
-{
-  "internalId": 3405672175,
-  "name": "Crafting Motif 94: Ancestral Reach Shields",
-  "description": "Use to learn how to make Ancestral Reach Shields. Also teaches the equivalent Ancestral Reach Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167281
-  ]
-}
+{"internalId":3405672175,"name":"Crafting Motif 94: Ancestral Reach Shields","description":"Use to learn how to make Ancestral Reach Shields. Also teaches the equivalent Ancestral Reach Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167281]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2419179322,
-  "name": "Greef Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    427618
-  ]
-}
+{"internalId":2419179322,"name":"Greef Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[427618]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 534585875,
-  "name": "Gloom-Graced Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135304
-  ]
-}
+{"internalId":534585875,"name":"Gloom-Graced Axe","description":"","icon":"data/images/a_/ex/ah/gear_nocturnal_1haxe_a.png","bindType":2,"knownIds":[135304]}

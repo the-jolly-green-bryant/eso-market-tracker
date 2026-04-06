@@ -1,12 +1,1 @@
-{
-  "internalId": 3528755595,
-  "name": "Maw of the Infernal's Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_daedroth_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1558399,
-    1566858,
-    1573995
-  ]
-}
+{"internalId":3528755595,"name":"Maw of the Infernal's Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_daedroth_head_a.png","bindType":-1,"knownIds":[1558399,1566858,1573995]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2017796173,
-  "name": "Glass Pickling Jar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    824052
-  ]
-}
+{"internalId":2017796173,"name":"Glass Pickling Jar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[824052]}

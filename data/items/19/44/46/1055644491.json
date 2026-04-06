@@ -1,10 +1,1 @@
-{
-  "internalId": 1055644491,
-  "name": "Daedra Husk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_daedra_noisome_husk.png",
-  "bindType": -1,
-  "knownIds": [
-    54383
-  ]
-}
+{"internalId":1055644491,"name":"Daedra Husk","description":"","icon":"data/images/ks/uh/_e/crafting_daedra_noisome_husk.png","bindType":-1,"knownIds":[54383]}

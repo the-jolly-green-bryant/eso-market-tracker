@@ -1,10 +1,1 @@
-{
-  "internalId": 2148748070,
-  "name": "Blueprint: Solitude Bench, Sturdy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166813
-  ]
-}
+{"internalId":2148748070,"name":"Blueprint: Solitude Bench, Sturdy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[166813]}

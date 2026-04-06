@@ -1,10 +1,1 @@
-{
-  "internalId": 1636358487,
-  "name": "Human Arm Bones",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    822112
-  ]
-}
+{"internalId":1636358487,"name":"Human Arm Bones","description":"","icon":null,"bindType":-1,"knownIds":[822112]}

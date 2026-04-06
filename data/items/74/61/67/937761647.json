@@ -1,10 +1,1 @@
-{
-  "internalId": 937761647,
-  "name": "Shield of the Onslaught",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90768
-  ]
-}
+{"internalId":937761647,"name":"Shield of the Onslaught","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[90768]}

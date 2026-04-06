@@ -1,10 +1,1 @@
-{
-  "internalId": 1241096128,
-  "name": "Tree, Slim Wrothgar Pine",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_wrothgarpinehousing006.png",
-  "bindType": -1,
-  "knownIds": [
-    159460
-  ]
-}
+{"internalId":1241096128,"name":"Tree, Slim Wrothgar Pine","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_wrothgarpinehousing006.png","bindType":-1,"knownIds":[159460]}

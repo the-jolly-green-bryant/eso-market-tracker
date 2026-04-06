@@ -1,10 +1,1 @@
-{
-  "internalId": 1076545086,
-  "name": "Akaviri Blacksmith's Mallet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1333401
-  ]
-}
+{"internalId":1076545086,"name":"Akaviri Blacksmith's Mallet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1333401]}

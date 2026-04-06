@@ -1,10 +1,1 @@
-{
-  "internalId": 914345355,
-  "name": "Pattern: Colovian Tapestry, Red Diamond",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    211035
-  ]
-}
+{"internalId":914345355,"name":"Pattern: Colovian Tapestry, Red Diamond","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[211035]}

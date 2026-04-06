@@ -1,10 +1,1 @@
-{
-  "internalId": 2720374474,
-  "name": "Spinner's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99800
-  ]
-}
+{"internalId":2720374474,"name":"Spinner's Maul","description":"","icon":"data/images/d_/re/mm/gear_bosmer_2hhammer_d.png","bindType":2,"knownIds":[99800]}

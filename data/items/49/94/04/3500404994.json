@@ -1,12 +1,1 @@
-{
-  "internalId": 3500404994,
-  "name": "Monolith of Storms Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1683956,
-    1691832,
-    1741686
-  ]
-}
+{"internalId":3500404994,"name":"Monolith of Storms Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_dagger.png","bindType":-1,"knownIds":[1683956,1691832,1741686]}

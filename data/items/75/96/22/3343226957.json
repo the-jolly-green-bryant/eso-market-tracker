@@ -1,10 +1,1 @@
-{
-  "internalId": 3343226957,
-  "name": "Opulent Family Funerary Jar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pottery_001.png",
-  "bindType": -1,
-  "knownIds": [
-    805856
-  ]
-}
+{"internalId":3343226957,"name":"Opulent Family Funerary Jar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pottery_001.png","bindType":-1,"knownIds":[805856]}

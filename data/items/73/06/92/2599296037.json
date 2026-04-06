@@ -1,10 +1,1 @@
-{
-  "internalId": 2599296037,
-  "name": "Decaying Dark Elf Scalp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_wig_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150933
-  ]
-}
+{"internalId":2599296037,"name":"Decaying Dark Elf Scalp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_wig_001.png","bindType":-1,"knownIds":[1150933]}

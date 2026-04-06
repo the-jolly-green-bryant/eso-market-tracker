@@ -1,10 +1,1 @@
-{
-  "internalId": 2246221668,
-  "name": "Design: Orcish Urn, Ceramic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119066
-  ]
-}
+{"internalId":2246221668,"name":"Design: Orcish Urn, Ceramic","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119066]}

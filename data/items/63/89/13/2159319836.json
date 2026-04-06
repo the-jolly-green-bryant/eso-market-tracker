@@ -1,10 +1,1 @@
-{
-  "internalId": 2159319836,
-  "name": "Azurite Figurine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_item_001.png",
-  "bindType": -1,
-  "knownIds": [
-    884494
-  ]
-}
+{"internalId":2159319836,"name":"Azurite Figurine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_item_001.png","bindType":-1,"knownIds":[884494]}

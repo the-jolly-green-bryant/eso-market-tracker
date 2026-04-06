@@ -1,17 +1,1 @@
-{
-  "internalId": 1433747971,
-  "name": "Knight-Errant's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    942537,
-    1089084,
-    1463857,
-    1506653,
-    942537,
-    1089084,
-    1463857,
-    1506653
-  ]
-}
+{"internalId":1433747971,"name":"Knight-Errant's Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[942537,1089084,1463857,1506653,942537,1089084,1463857,1506653]}

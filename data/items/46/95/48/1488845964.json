@@ -1,10 +1,1 @@
-{
-  "internalId": 1488845964,
-  "name": "Crafting Motif 74: Pellitine Daggers",
-  "description": "Use to learn how to make Pellitine Daggers. Also teaches the equivalent Pellitine outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    147720
-  ]
-}
+{"internalId":1488845964,"name":"Crafting Motif 74: Pellitine Daggers","description":"Use to learn how to make Pellitine Daggers. Also teaches the equivalent Pellitine outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[147720]}

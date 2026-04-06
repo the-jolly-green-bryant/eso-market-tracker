@@ -1,10 +1,1 @@
-{
-  "internalId": 4159872021,
-  "name": "Solitude Basket, Ornate",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_rndsqrbasket001.png",
-  "bindType": -1,
-  "knownIds": [
-    165773
-  ]
-}
+{"internalId":4159872021,"name":"Solitude Basket, Ornate","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_rndsqrbasket001.png","bindType":-1,"knownIds":[165773]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3631444316,
-  "name": "Ring of the Shield Breaker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    117641
-  ]
-}
+{"internalId":3631444316,"name":"Ring of the Shield Breaker","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[117641]}

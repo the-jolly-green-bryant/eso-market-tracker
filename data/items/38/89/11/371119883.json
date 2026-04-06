@@ -1,10 +1,1 @@
-{
-  "internalId": 371119883,
-  "name": "Formula: High Isle Window, Turquoise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    190097
-  ]
-}
+{"internalId":371119883,"name":"Formula: High Isle Window, Turquoise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[190097]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4223329207,
-  "name": "MAELSTROM: Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    932166,
-    932166
-  ]
-}
+{"internalId":4223329207,"name":"MAELSTROM: Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[932166,932166]}

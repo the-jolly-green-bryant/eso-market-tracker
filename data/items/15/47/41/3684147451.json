@@ -1,10 +1,1 @@
-{
-  "internalId": 3684147451,
-  "name": "Pauldron of the Order of Diagna",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99625
-  ]
-}
+{"internalId":3684147451,"name":"Pauldron of the Order of Diagna","description":"","icon":"data/images/d_/sr/ed/gear_redguard_heavy_shoulders_d.png","bindType":2,"knownIds":[99625]}

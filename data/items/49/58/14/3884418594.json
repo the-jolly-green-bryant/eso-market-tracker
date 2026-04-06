@@ -1,10 +1,1 @@
-{
-  "internalId": 3884418594,
-  "name": "Elsweyr Chaise Lounge, Upholstered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_chaise001.png",
-  "bindType": -1,
-  "knownIds": [
-    153652
-  ]
-}
+{"internalId":3884418594,"name":"Elsweyr Chaise Lounge, Upholstered","description":"This is a standard house item.","icon":"data/images/10/0e/si/housing_els_fur_chaise001.png","bindType":-1,"knownIds":[153652]}

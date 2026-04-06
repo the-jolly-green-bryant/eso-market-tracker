@@ -1,10 +1,1 @@
-{
-  "internalId": 2392341234,
-  "name": "Monk's Disguise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_royal_carpet.png",
-  "bindType": -1,
-  "knownIds": [
-    910637
-  ]
-}
+{"internalId":2392341234,"name":"Monk's Disguise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_royal_carpet.png","bindType":-1,"knownIds":[910637]}

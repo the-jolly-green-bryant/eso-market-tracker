@@ -1,10 +1,1 @@
-{
-  "internalId": 1387773290,
-  "name": "Praxis: Stone-Nest Gazebo, Temple",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    223912
-  ]
-}
+{"internalId":1387773290,"name":"Praxis: Stone-Nest Gazebo, Temple","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[223912]}

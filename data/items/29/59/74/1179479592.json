@@ -1,10 +1,1 @@
-{
-  "internalId": 1179479592,
-  "name": "Recipe: Aqua Vitae",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57019
-  ]
-}
+{"internalId":1179479592,"name":"Recipe: Aqua Vitae","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57019]}

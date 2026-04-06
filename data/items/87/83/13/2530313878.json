@@ -1,10 +1,1 @@
-{
-  "internalId": 2530313878,
-  "name": "Tree, Twisted Dawnwood",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_bosovergrowthtree004.png",
-  "bindType": -1,
-  "knownIds": [
-    211511
-  ]
-}
+{"internalId":2530313878,"name":"Tree, Twisted Dawnwood","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_bosovergrowthtree004.png","bindType":-1,"knownIds":[211511]}

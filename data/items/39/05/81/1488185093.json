@@ -1,10 +1,1 @@
-{
-  "internalId": 1488185093,
-  "name": "Diagram: Dwarven Table, Grand Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    171515
-  ]
-}
+{"internalId":1488185093,"name":"Diagram: Dwarven Table, Grand Polished","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[171515]}

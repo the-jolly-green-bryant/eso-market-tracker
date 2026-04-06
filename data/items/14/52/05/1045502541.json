@@ -1,15 +1,1 @@
-{
-  "internalId": 1045502541,
-  "name": "Aetheric Lancer Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1741620,
-    1750673,
-    1760690,
-    1741620,
-    1750673,
-    1760690
-  ]
-}
+{"internalId":1045502541,"name":"Aetheric Lancer Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shoulders_a.png","bindType":-1,"knownIds":[1741620,1750673,1760690,1741620,1750673,1760690]}

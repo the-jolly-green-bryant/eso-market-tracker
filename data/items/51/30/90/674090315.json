@@ -1,10 +1,1 @@
-{
-  "internalId": 674090315,
-  "name": "MacGuffin",
-  "description": "Everyone totally wants this thing",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
-  "bindType": -1,
-  "knownIds": [
-    59711
-  ]
-}
+{"internalId":674090315,"name":"MacGuffin","description":"Everyone totally wants this thing","icon":"data/images/gn/is/si/icon_missing.png","bindType":-1,"knownIds":[59711]}

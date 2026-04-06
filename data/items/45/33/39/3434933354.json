@@ -1,10 +1,1 @@
-{
-  "internalId": 3434933354,
-  "name": "Kagouti Kick Mazte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33699
-  ]
-}
+{"internalId":3434933354,"name":"Kagouti Kick Mazte","description":"","icon":"data/images/30/0_/st/crafting_spirits_003.png","bindType":-1,"knownIds":[33699]}

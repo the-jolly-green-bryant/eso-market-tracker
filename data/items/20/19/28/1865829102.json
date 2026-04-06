@@ -1,10 +1,1 @@
-{
-  "internalId": 1865829102,
-  "name": "Telvanni Chair, Organic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_telchairorganic001.png",
-  "bindType": -1,
-  "knownIds": [
-    126419
-  ]
-}
+{"internalId":1865829102,"name":"Telvanni Chair, Organic","description":"This is a standard house item.","icon":"data/images/10/0c/in/housing_vrd_fur_telchairorganic001.png","bindType":-1,"knownIds":[126419]}

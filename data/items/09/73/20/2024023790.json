@@ -1,10 +1,1 @@
-{
-  "internalId": 2024023790,
-  "name": "Gloves of the Worm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactwormcultlight_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77707
-  ]
-}
+{"internalId":2024023790,"name":"Gloves of the Worm","description":"","icon":"data/images/a_/sd/na/gear_artifactwormcultlight_hands_a.png","bindType":2,"knownIds":[77707]}

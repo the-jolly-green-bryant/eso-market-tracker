@@ -1,10 +1,1 @@
-{
-  "internalId": 1813542458,
-  "name": "Tree, Towering Poplar",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_whitepoplar002.png",
-  "bindType": -1,
-  "knownIds": [
-    139341
-  ]
-}
+{"internalId":1813542458,"name":"Tree, Towering Poplar","description":"This is a huge house item.","icon":"data/images/20/0r/al/housing_tre_sum_whitepoplar002.png","bindType":-1,"knownIds":[139341]}

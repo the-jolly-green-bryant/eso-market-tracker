@@ -1,10 +1,1 @@
-{
-  "internalId": 384446717,
-  "name": "Braided Feather Ornament",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_tree_minders_headpiece.png",
-  "bindType": -1,
-  "knownIds": [
-    507242
-  ]
-}
+{"internalId":384446717,"name":"Braided Feather Ornament","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_tree_minders_headpiece.png","bindType":-1,"knownIds":[507242]}

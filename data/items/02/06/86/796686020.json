@@ -1,10 +1,1 @@
-{
-  "internalId": 796686020,
-  "name": "Cheesemaking Sieve, Metal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_cheesecurdsieve001.png",
-  "bindType": -1,
-  "knownIds": [
-    204738
-  ]
-}
+{"internalId":796686020,"name":"Cheesemaking Sieve, Metal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_cheesecurdsieve001.png","bindType":-1,"knownIds":[204738]}

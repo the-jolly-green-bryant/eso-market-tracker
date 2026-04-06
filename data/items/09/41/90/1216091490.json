@@ -1,13 +1,1 @@
-{
-  "internalId": 1216091490,
-  "name": "Ansuul's Perfected Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1644988,
-    1659401,
-    1644988,
-    1659401
-  ]
-}
+{"internalId":1216091490,"name":"Ansuul's Perfected Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1644988,1659401,1644988,1659401]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2216905934,
-  "name": "Incandescent Pod, Large",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_nightmarketincandescentpod001.png",
-  "bindType": -1,
-  "knownIds": [
-    224093
-  ]
-}
+{"internalId":2216905934,"name":"Incandescent Pod, Large","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_nightmarketincandescentpod001.png","bindType":-1,"knownIds":[224093]}

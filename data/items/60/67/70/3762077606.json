@@ -1,10 +1,1 @@
-{
-  "internalId": 3762077606,
-  "name": "Chimera's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191595
-  ]
-}
+{"internalId":3762077606,"name":"Chimera's Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[191595]}

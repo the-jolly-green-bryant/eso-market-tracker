@@ -1,10 +1,1 @@
-{
-  "internalId": 1619736080,
-  "name": "Hopscotch Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    590528
-  ]
-}
+{"internalId":1619736080,"name":"Hopscotch Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[590528]}

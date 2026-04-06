@@ -1,10 +1,1 @@
-{
-  "internalId": 932344955,
-  "name": "Magnus' Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56335
-  ]
-}
+{"internalId":932344955,"name":"Magnus' Hat","description":"","icon":"data/images/d_/da/eh/gear_breton_light_head_d.png","bindType":2,"knownIds":[56335]}

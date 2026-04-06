@@ -1,10 +1,1 @@
-{
-  "internalId": 1899604215,
-  "name": "Plant, Paired White Hosta",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_auridonwhitehosta_006.png",
-  "bindType": -1,
-  "knownIds": [
-    121038
-  ]
-}
+{"internalId":1899604215,"name":"Plant, Paired White Hosta","description":"This is a small house item.","icon":"data/images/60/0_/at/housing_veg_bsh_auridonwhitehosta_006.png","bindType":-1,"knownIds":[121038]}

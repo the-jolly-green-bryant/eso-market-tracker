@@ -1,10 +1,1 @@
-{
-  "internalId": 1069108004,
-  "name": "Skeletal Marionette Parts",
-  "description": "Consuming 10 of these will grant you the \"Bare Bones Puppet\" Achievement and Skeletal Marionette Memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_gems_cyclops_bone.png",
-  "bindType": -1,
-  "knownIds": [
-    153535
-  ]
-}
+{"internalId":1069108004,"name":"Skeletal Marionette Parts","description":"Consuming 10 of these will grant you the \"Bare Bones Puppet\" Achievement and Skeletal Marionette Memento.","icon":"data/images/en/ob/_s/crafting_gems_cyclops_bone.png","bindType":-1,"knownIds":[153535]}

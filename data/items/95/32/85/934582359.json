@@ -1,10 +1,1 @@
-{
-  "internalId": 934582359,
-  "name": "Iron Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    223648
-  ]
-}
+{"internalId":934582359,"name":"Iron Axe","description":"","icon":"data/images/a_/ex/ah/gear_ashlander_1haxe_a.png","bindType":-1,"knownIds":[121386]}

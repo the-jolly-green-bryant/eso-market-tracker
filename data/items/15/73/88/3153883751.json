@@ -1,10 +1,1 @@
-{
-  "internalId": 3153883751,
-  "name": "Aeonstone Shard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u25_aeonstoneshard.png",
-  "bindType": -1,
-  "knownIds": [
-    156624
-  ]
-}
+{"internalId":3153883751,"name":"Aeonstone Shard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u25_aeonstoneshard.png","bindType":-1,"knownIds":[156624]}

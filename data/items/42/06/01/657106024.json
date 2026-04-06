@@ -1,10 +1,1 @@
-{
-  "internalId": 657106024,
-  "name": "Boots of the First Titan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44267
-  ]
-}
+{"internalId":657106024,"name":"Boots of the First Titan","description":"","icon":"data/images/a_/te/ef/gear_draugr_heavy_feet_a.png","bindType":2,"knownIds":[44267]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2779711859,
-  "name": "Ritemaster's Memorial Battlesword",
-  "description": "You earned this beautiful ancient greatsword with your valor in the Daedric realm of Evergloam, but the cost was dear.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hsword_b.png",
-  "bindType": 2,
-  "knownIds": [
-    134692
-  ]
-}
+{"internalId":2779711859,"name":"Ritemaster's Memorial Battlesword","description":"You earned this beautiful ancient greatsword with your valor in the Daedric realm of Evergloam, but the cost was dear.","icon":"data/images/b_/dr/ow/gear_ancient_elf_2hsword_b.png","bindType":2,"knownIds":[134692]}

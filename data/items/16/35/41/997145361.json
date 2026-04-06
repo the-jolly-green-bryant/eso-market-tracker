@@ -1,10 +1,1 @@
-{
-  "internalId": 997145361,
-  "name": "Lucent Crystals, Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_chl_mirrorcrystalssm004.png",
-  "bindType": -1,
-  "knownIds": [
-    211400
-  ]
-}
+{"internalId":997145361,"name":"Lucent Crystals, Cluster","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_chl_mirrorcrystalssm004.png","bindType":-1,"knownIds":[211400]}

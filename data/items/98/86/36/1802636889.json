@@ -1,10 +1,1 @@
-{
-  "internalId": 1802636889,
-  "name": "Bow of Trials",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    70271
-  ]
-}
+{"internalId":1802636889,"name":"Bow of Trials","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[70271]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1028563952,
-  "name": "Mat of Meditation, Faded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn003.png",
-  "bindType": -1,
-  "knownIds": [
-    118160
-  ]
-}
+{"internalId":1028563952,"name":"Mat of Meditation, Faded","description":"This is a standard house item.","icon":"data/images/30/0n/ro/housing_red_inc_rugsmallworn003.png","bindType":-1,"knownIds":[118160]}

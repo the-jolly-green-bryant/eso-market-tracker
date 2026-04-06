@@ -1,10 +1,1 @@
-{
-  "internalId": 3119024654,
-  "name": "Crafting Motif 20: Yokudan Bows",
-  "description": "Use to learn how to make Yokudan Bows. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Yokudan Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57609
-  ]
-}
+{"internalId":3119024654,"name":"Crafting Motif 20: Yokudan Bows","description":"Use to learn how to make Yokudan Bows. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Yokudan Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[57609]}

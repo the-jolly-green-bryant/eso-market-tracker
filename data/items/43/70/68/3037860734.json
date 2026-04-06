@@ -1,10 +1,1 @@
-{
-  "internalId": 3037860734,
-  "name": "Dibella Napkin Holders",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spriggan_hoop_base_01.png",
-  "bindType": -1,
-  "knownIds": [
-    925281
-  ]
-}
+{"internalId":3037860734,"name":"Dibella Napkin Holders","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spriggan_hoop_base_01.png","bindType":-1,"knownIds":[925281]}

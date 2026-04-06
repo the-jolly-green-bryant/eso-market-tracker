@@ -1,10 +1,1 @@
-{
-  "internalId": 4080839708,
-  "name": "Deadlands Demolisher's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179526
-  ]
-}
+{"internalId":4080839708,"name":"Deadlands Demolisher's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[179526]}

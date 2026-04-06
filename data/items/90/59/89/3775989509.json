@@ -1,10 +1,1 @@
-{
-  "internalId": 3775989509,
-  "name": "Fellowship's Fortitude Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    215913
-  ]
-}
+{"internalId":3775989509,"name":"Fellowship's Fortitude Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[215913]}

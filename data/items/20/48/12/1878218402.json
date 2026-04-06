@@ -1,10 +1,1 @@
-{
-  "internalId": 1878218402,
-  "name": "Crafting Motif 68: Honor Guard Style",
-  "description": "Use to learn the Honor Guard crafting style. Also teaches the equivalent Honor Guard outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    142186
-  ]
-}
+{"internalId":1878218402,"name":"Crafting Motif 68: Honor Guard Style","description":"Use to learn the Honor Guard crafting style. Also teaches the equivalent Honor Guard outfit styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[142186]}

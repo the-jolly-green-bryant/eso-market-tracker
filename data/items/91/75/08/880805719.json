@@ -1,10 +1,1 @@
-{
-  "internalId": 880805719,
-  "name": "Elsweyr Lightpost, Ancient Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_wallpostlight003.png",
-  "bindType": -1,
-  "knownIds": [
-    151735
-  ]
-}
+{"internalId":880805719,"name":"Elsweyr Lightpost, Ancient Sturdy","description":"This is a standard house item.","icon":"data/images/30/0t/hg/housing_els_str_wallpostlight003.png","bindType":-1,"knownIds":[151735]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2032262204,
-  "name": "Medusa",
-  "description": "A Heavy Armor set found in Arx Corinium.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114211
-  ]
-}
+{"internalId":2032262204,"name":"Medusa","description":"A Heavy Armor set found in Arx Corinium.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114211]}

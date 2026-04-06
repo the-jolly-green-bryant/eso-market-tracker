@@ -1,10 +1,1 @@
-{
-  "internalId": 398620931,
-  "name": "Recipe: Ginseng Sling",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46037
-  ]
-}
+{"internalId":398620931,"name":"Recipe: Ginseng Sling","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46037]}

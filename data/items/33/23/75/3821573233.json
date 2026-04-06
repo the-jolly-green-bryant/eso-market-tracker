@@ -1,10 +1,1 @@
-{
-  "internalId": 3821573233,
-  "name": "Pattern: Fargrave Canopy, Massive",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    184130
-  ]
-}
+{"internalId":3821573233,"name":"Pattern: Fargrave Canopy, Massive","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[184130]}

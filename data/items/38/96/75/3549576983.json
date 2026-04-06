@@ -1,10 +1,1 @@
-{
-  "internalId": 3549576983,
-  "name": "Raw Silk Linens",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png",
-  "bindType": -1,
-  "knownIds": [
-    685760
-  ]
-}
+{"internalId":3549576983,"name":"Raw Silk Linens","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png","bindType":-1,"knownIds":[685760]}

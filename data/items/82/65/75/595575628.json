@@ -1,10 +1,1 @@
-{
-  "internalId": 595575628,
-  "name": "Greaves of Oblivion's Foe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56434
-  ]
-}
+{"internalId":595575628,"name":"Greaves of Oblivion's Foe","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[56434]}

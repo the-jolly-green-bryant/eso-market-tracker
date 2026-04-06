@@ -1,10 +1,1 @@
-{
-  "internalId": 770249490,
-  "name": "Ashen Grip Jewelry",
-  "description": "A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182367
-  ]
-}
+{"internalId":770249490,"name":"Ashen Grip Jewelry","description":"A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182367]}

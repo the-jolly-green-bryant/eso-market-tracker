@@ -1,10 +1,1 @@
-{
-  "internalId": 1941282253,
-  "name": "Crispy Rabbit Fryer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403865
-  ]
-}
+{"internalId":1941282253,"name":"Crispy Rabbit Fryer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[403865]}

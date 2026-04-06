@@ -1,10 +1,1 @@
-{
-  "internalId": 4209852635,
-  "name": "Handbook For New Homeowners",
-  "description": "A handy all-in-one reference for new homeowners.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png",
-  "bindType": -1,
-  "knownIds": [
-    208358
-  ]
-}
+{"internalId":4209852635,"name":"Handbook For New Homeowners","description":"A handy all-in-one reference for new homeowners.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png","bindType":-1,"knownIds":[208358]}

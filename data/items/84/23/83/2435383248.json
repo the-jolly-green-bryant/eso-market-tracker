@@ -1,10 +1,1 @@
-{
-  "internalId": 2435383248,
-  "name": "Contraband Trousers",
-  "description": "Received after solving the difficult situation between Sarisa and Bar-Neeus, merchants in Riften.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44914
-  ]
-}
+{"internalId":2435383248,"name":"Contraband Trousers","description":"Received after solving the difficult situation between Sarisa and Bar-Neeus, merchants in Riften.","icon":"data/images/d_/sg/el/gear_dunmer_light_legs_d.png","bindType":2,"knownIds":[44914]}

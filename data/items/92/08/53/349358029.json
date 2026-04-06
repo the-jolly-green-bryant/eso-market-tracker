@@ -1,10 +1,1 @@
-{
-  "internalId": 349358029,
-  "name": "Saint Pelin's Prayer Shawl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    799410
-  ]
-}
+{"internalId":349358029,"name":"Saint Pelin's Prayer Shawl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[799410]}

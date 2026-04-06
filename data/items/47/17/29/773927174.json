@@ -1,10 +1,1 @@
-{
-  "internalId": 773927174,
-  "name": "Breton Shelf, Barrel Rack",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_merchantwinerack001.png",
-  "bindType": -1,
-  "knownIds": [
-    115191
-  ]
-}
+{"internalId":773927174,"name":"Breton Shelf, Barrel Rack","description":"This is a standard house item.","icon":"data/images/10/0k/ca/housing_bre_fur_merchantwinerack001.png","bindType":-1,"knownIds":[115191]}

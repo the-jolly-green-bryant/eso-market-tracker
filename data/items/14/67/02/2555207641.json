@@ -1,10 +1,1 @@
-{
-  "internalId": 2555207641,
-  "name": "Blueprint: Solitude Mirror, Noble Full-Length",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166851
-  ]
-}
+{"internalId":2555207641,"name":"Blueprint: Solitude Mirror, Noble Full-Length","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166851]}

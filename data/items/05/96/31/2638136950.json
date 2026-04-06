@@ -1,10 +1,1 @@
-{
-  "internalId": 2638136950,
-  "name": "Kothringi Plate Pauldrons",
-  "description": "Rewarded for uncovering the truth behind the last Kothringi and the missing keystone at Zuuk.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7440
-  ]
-}
+{"internalId":2638136950,"name":"Kothringi Plate Pauldrons","description":"Rewarded for uncovering the truth behind the last Kothringi and the missing keystone at Zuuk.","icon":"data/images/d_/sr/ed/gear_breton_heavy_shoulders_d.png","bindType":2,"knownIds":[7440]}

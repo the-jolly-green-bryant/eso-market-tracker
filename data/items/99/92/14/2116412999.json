@@ -1,10 +1,1 @@
-{
-  "internalId": 2116412999,
-  "name": "Monomyth: the Heart of the World",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1095915
-  ]
-}
+{"internalId":2116412999,"name":"Monomyth: the Heart of the World","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png","bindType":-1,"knownIds":[1095915]}

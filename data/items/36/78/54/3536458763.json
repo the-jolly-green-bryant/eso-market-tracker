@@ -1,10 +1,1 @@
-{
-  "internalId": 3536458763,
-  "name": "Blueprint: Tide-Born Wall, Lattice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    219688
-  ]
-}
+{"internalId":3536458763,"name":"Blueprint: Tide-Born Wall, Lattice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[219688]}

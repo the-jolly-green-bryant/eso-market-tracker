@@ -1,10 +1,1 @@
-{
-  "internalId": 2667914466,
-  "name": "Consummate Sweet Roll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_sweet_roll.png",
-  "bindType": -1,
-  "knownIds": [
-    33375
-  ]
-}
+{"internalId":2667914466,"name":"Consummate Sweet Roll","description":"","icon":"data/images/ll/or/_t/crafting_cooking_sweet_roll.png","bindType":-1,"knownIds":[33375]}

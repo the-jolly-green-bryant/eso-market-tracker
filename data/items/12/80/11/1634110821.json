@@ -1,10 +1,1 @@
-{
-  "internalId": 1634110821,
-  "name": "Phial of Leovic's Blood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_leovics_blood.png",
-  "bindType": -1,
-  "knownIds": [
-    1188131
-  ]
-}
+{"internalId":1634110821,"name":"Phial of Leovic's Blood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_leovics_blood.png","bindType":-1,"knownIds":[1188131]}

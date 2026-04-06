@@ -1,10 +1,1 @@
-{
-  "internalId": 3533266227,
-  "name": "Flowers, Climbing Summertide",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_bougainvillea006.png",
-  "bindType": -1,
-  "knownIds": [
-    217629
-  ]
-}
+{"internalId":3533266227,"name":"Flowers, Climbing Summertide","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_bougainvillea006.png","bindType":-1,"knownIds":[217629]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 872248976,
-  "name": "Deeproot Zeal Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600664,
-    1620009,
-    1681209,
-    1749327,
-    1600664,
-    1620009,
-    1681209,
-    1749327
-  ]
-}
+{"internalId":872248976,"name":"Deeproot Zeal Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_staff_a.png","bindType":-1,"knownIds":[1600664,1620009,1681209,1749327,1600664,1620009,1681209,1749327]}

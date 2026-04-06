@@ -1,10 +1,1 @@
-{
-  "internalId": 4229646878,
-  "name": "Crafting Motif 79: Refabricated Belts",
-  "description": "Use to learn how to make Refabricated Belts. Also teaches the equivalent Refabricated Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    130028
-  ]
-}
+{"internalId":4229646878,"name":"Crafting Motif 79: Refabricated Belts","description":"Use to learn how to make Refabricated Belts. Also teaches the equivalent Refabricated Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[130028]}

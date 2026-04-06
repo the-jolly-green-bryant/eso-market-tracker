@@ -1,10 +1,1 @@
-{
-  "internalId": 2892539114,
-  "name": "Faric's Finest Staff of Frigidity",
-  "description": "A special staff made by Faric of Bravil and presented to you for helping him reveal the truth of his family.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    174874
-  ]
-}
+{"internalId":2892539114,"name":"Faric's Finest Staff of Frigidity","description":"A special staff made by Faric of Bravil and presented to you for helping him reveal the truth of his family.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[174874]}

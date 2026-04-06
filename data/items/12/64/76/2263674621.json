@@ -1,10 +1,1 @@
-{
-  "internalId": 2263674621,
-  "name": "Vivec's Sash of Duality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    195867
-  ]
-}
+{"internalId":2263674621,"name":"Vivec's Sash of Duality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_waist_a.png","bindType":2,"knownIds":[195867]}

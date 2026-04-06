@@ -1,10 +1,1 @@
-{
-  "internalId": 678557183,
-  "name": "Style Page: Fanged Worm Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1247501
-  ]
-}
+{"internalId":678557183,"name":"Style Page: Fanged Worm Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1247501]}

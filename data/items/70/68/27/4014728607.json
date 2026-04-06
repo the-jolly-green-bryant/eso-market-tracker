@@ -1,10 +1,1 @@
-{
-  "internalId": 4014728607,
-  "name": "Leyawiin Wall, Castle",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_leycastlewallint002.png",
-  "bindType": -1,
-  "knownIds": [
-    182316
-  ]
-}
+{"internalId":4014728607,"name":"Leyawiin Wall, Castle","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_leycastlewallint002.png","bindType":-1,"knownIds":[182316]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3538913980,
-  "name": "dwarven mace of flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    689992,
-    481608,
-    521634,
-    651979,
-    686048,
-    483611
-  ]
-}
+{"internalId":3538913980,"name":"dwarven mace of flame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":-1,"knownIds":[689992,481608,521634,651979,686048,483611]}

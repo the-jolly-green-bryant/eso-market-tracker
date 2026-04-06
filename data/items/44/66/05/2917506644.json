@@ -1,10 +1,1 @@
-{
-  "internalId": 2917506644,
-  "name": "Handheld Loom",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1351706
-  ]
-}
+{"internalId":2917506644,"name":"Handheld Loom","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[1351706]}

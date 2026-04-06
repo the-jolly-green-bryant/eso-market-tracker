@@ -1,10 +1,1 @@
-{
-  "internalId": 1463219550,
-  "name": "Necrom Lamp Post, Wood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_housingneclightpost003.png",
-  "bindType": -1,
-  "knownIds": [
-    198371
-  ]
-}
+{"internalId":1463219550,"name":"Necrom Lamp Post, Wood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_housingneclightpost003.png","bindType":-1,"knownIds":[198371]}

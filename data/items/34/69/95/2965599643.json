@@ -1,10 +1,1 @@
-{
-  "internalId": 2965599643,
-  "name": "Lich-Crusher Mace",
-  "description": "A gore-stained mace found on the grounds of the Spire of the Crimson Coin.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png",
-  "bindType": 2,
-  "knownIds": [
-    188133
-  ]
-}
+{"internalId":2965599643,"name":"Lich-Crusher Mace","description":"A gore-stained mace found on the grounds of the Spire of the Crimson Coin.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png","bindType":2,"knownIds":[188133]}

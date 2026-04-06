@@ -1,10 +1,1 @@
-{
-  "internalId": 3517774655,
-  "name": "Smuggler's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101117
-  ]
-}
+{"internalId":3517774655,"name":"Smuggler's Breeches","description":"","icon":"data/images/d_/sg/el/gear_khajiit_light_legs_d.png","bindType":2,"knownIds":[101117]}

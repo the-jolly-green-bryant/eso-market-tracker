@@ -1,10 +1,1 @@
-{
-  "internalId": 2160166595,
-  "name": "Maul of the Pariah",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129678
-  ]
-}
+{"internalId":2160166595,"name":"Maul of the Pariah","description":"","icon":"data/images/a_/re/mm/gear_malacath_2hhammer_a.png","bindType":2,"knownIds":[129678]}

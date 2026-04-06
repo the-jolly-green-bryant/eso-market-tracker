@@ -1,10 +1,1 @@
-{
-  "internalId": 2511204742,
-  "name": "Blueprint: Breton Counter, Long Cabinet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    115944
-  ]
-}
+{"internalId":2511204742,"name":"Blueprint: Breton Counter, Long Cabinet","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[115944]}

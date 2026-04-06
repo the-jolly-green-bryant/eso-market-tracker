@@ -1,10 +1,1 @@
-{
-  "internalId": 1137664562,
-  "name": "Argonian Affirmation Board",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png",
-  "bindType": -1,
-  "knownIds": [
-    780502
-  ]
-}
+{"internalId":1137664562,"name":"Argonian Affirmation Board","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png","bindType":-1,"knownIds":[780502]}

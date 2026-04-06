@@ -1,10 +1,1 @@
-{
-  "internalId": 2032263550,
-  "name": "Necrom Coffin",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_neccoffin001.png",
-  "bindType": -1,
-  "knownIds": [
-    196210
-  ]
-}
+{"internalId":2032263550,"name":"Necrom Coffin","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_neccoffin001.png","bindType":-1,"knownIds":[196210]}

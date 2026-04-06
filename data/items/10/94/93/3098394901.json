@@ -1,10 +1,1 @@
-{
-  "internalId": 3098394901,
-  "name": "Fang of Haynekhtnamet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
-  "bindType": -1,
-  "knownIds": [
-    786649
-  ]
-}
+{"internalId":3098394901,"name":"Fang of Haynekhtnamet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png","bindType":-1,"knownIds":[786649]}

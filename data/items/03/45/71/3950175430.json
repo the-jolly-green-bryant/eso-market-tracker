@@ -1,10 +1,1 @@
-{
-  "internalId": 3950175430,
-  "name": "Boulder, Coldharbour Spikes",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_chsmallpointed001.png",
-  "bindType": -1,
-  "knownIds": [
-    130275
-  ]
-}
+{"internalId":3950175430,"name":"Boulder, Coldharbour Spikes","description":"This is a large house item.","icon":"data/images/10/0d/et/housing_rok_vol_chsmallpointed001.png","bindType":-1,"knownIds":[130275]}

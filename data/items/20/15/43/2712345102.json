@@ -1,10 +1,1 @@
-{
-  "internalId": 2712345102,
-  "name": "Fanisea Kwama Egg",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    775382
-  ]
-}
+{"internalId":2712345102,"name":"Fanisea Kwama Egg","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[775382]}

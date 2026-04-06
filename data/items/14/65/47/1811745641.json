@@ -1,10 +1,1 @@
-{
-  "internalId": 1811745641,
-  "name": "Jack of Kyne's Kiss",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93694
-  ]
-}
+{"internalId":1811745641,"name":"Jack of Kyne's Kiss","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[93694]}

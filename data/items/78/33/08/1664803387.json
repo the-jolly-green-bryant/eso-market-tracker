@@ -1,10 +1,1 @@
-{
-  "internalId": 1664803387,
-  "name": "Sash of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199864
-  ]
-}
+{"internalId":1664803387,"name":"Sash of Syvarra's Scales","description":"","icon":"data/images/a_/ts/ia/gear_ancientyokudan_light_waist_a.png","bindType":2,"knownIds":[72971]}

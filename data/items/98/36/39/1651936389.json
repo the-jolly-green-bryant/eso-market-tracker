@@ -1,10 +1,1 @@
-{
-  "internalId": 1651936389,
-  "name": "Glorious Undaunted Box: Elden Hollow",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    190170
-  ]
-}
+{"internalId":1651936389,"name":"Glorious Undaunted Box: Elden Hollow","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[190170]}

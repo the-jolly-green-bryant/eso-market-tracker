@@ -1,15 +1,1 @@
-{
-  "internalId": 3407828453,
-  "name": "Reflected Fury Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1718010,
-    1732151,
-    1762822,
-    1718010,
-    1732151,
-    1762822
-  ]
-}
+{"internalId":3407828453,"name":"Reflected Fury Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png","bindType":-1,"knownIds":[1718010,1732151,1762822,1718010,1732151,1762822]}

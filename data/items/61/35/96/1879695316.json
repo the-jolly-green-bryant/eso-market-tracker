@@ -1,10 +1,1 @@
-{
-  "internalId": 1879695316,
-  "name": "Sotha Sil Playset",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1413958
-  ]
-}
+{"internalId":1879695316,"name":"Sotha Sil Playset","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1413958]}

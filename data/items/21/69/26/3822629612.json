@@ -1,10 +1,1 @@
-{
-  "internalId": 3822629612,
-  "name": "Praxis: Orcish Cabinet, Bedside",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    119089
-  ]
-}
+{"internalId":3822629612,"name":"Praxis: Orcish Cabinet, Bedside","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[119089]}

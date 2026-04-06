@@ -1,10 +1,1 @@
-{
-  "internalId": 2517527056,
-  "name": "Sweet Lemonale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
-  "bindType": -1,
-  "knownIds": [
-    28427
-  ]
-}
+{"internalId":2517527056,"name":"Sweet Lemonale","description":"","icon":"data/images/10/0_/st/crafting_spirits_001.png","bindType":-1,"knownIds":[28427]}

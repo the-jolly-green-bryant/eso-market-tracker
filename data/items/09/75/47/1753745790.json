@@ -1,10 +1,1 @@
-{
-  "internalId": 1753745790,
-  "name": "Flattened Skeevaton",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_taxidermied_rabbit.png",
-  "bindType": -1,
-  "knownIds": [
-    1414493
-  ]
-}
+{"internalId":1753745790,"name":"Flattened Skeevaton","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_taxidermied_rabbit.png","bindType":-1,"knownIds":[1414493]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2252773765,
-  "name": "Moonstone",
-  "description": "An ingredient for crafting in the Khajiit style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_plug_sp_names_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33255
-  ]
-}
+{"internalId":2252773765,"name":"Moonstone","description":"An ingredient for crafting in the Khajiit style.","icon":"data/images/10/0_/se/crafting_smith_plug_sp_names_001.png","bindType":-1,"knownIds":[33255]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3261946864,
-  "name": "Dagger of Night Terror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_dagger_c.png",
-  "bindType": 2,
-  "knownIds": [
-    97920
-  ]
-}
+{"internalId":3261946864,"name":"Dagger of Night Terror","description":"","icon":"data/images/c_/re/gg/gear_daedric_dagger_c.png","bindType":2,"knownIds":[97920]}

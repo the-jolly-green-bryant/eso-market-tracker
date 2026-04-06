@@ -1,10 +1,1 @@
-{
-  "internalId": 2743290601,
-  "name": "Diagram: Redguard Spittoon, Gilded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    119203
-  ]
-}
+{"internalId":2743290601,"name":"Diagram: Redguard Spittoon, Gilded","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[119203]}

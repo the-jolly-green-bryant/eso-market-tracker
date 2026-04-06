@@ -1,10 +1,1 @@
-{
-  "internalId": 3002517813,
-  "name": "Dead-Water's Guile Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142571
-  ]
-}
+{"internalId":3002517813,"name":"Dead-Water's Guile Restoration Staff","description":"","icon":"data/images/a_/ff/at/gear_deadwater_staff_a.png","bindType":2,"knownIds":[142571]}

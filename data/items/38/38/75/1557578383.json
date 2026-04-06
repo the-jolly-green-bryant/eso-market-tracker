@@ -1,10 +1,1 @@
-{
-  "internalId": 1557578383,
-  "name": "Argonian Skull, Crocodile",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_crocskull001.png",
-  "bindType": -1,
-  "knownIds": [
-    115500
-  ]
-}
+{"internalId":1557578383,"name":"Argonian Skull, Crocodile","description":"This is a small house item.","icon":"data/images/10/0l/lu/housing_arg_exc_crocskull001.png","bindType":-1,"knownIds":[115500]}

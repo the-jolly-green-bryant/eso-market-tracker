@@ -1,10 +1,1 @@
-{
-  "internalId": 174644154,
-  "name": "Sweetbreeches",
-  "description": "These traveling breeches seem cool to the touch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10235
-  ]
-}
+{"internalId":174644154,"name":"Sweetbreeches","description":"These traveling breeches seem cool to the touch.","icon":"data/images/d_/sg/el/gear_altmer_medium_legs_d.png","bindType":2,"knownIds":[10235]}

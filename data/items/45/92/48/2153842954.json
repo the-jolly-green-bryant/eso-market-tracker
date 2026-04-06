@@ -1,10 +1,1 @@
-{
-  "internalId": 2153842954,
-  "name": "Alinor Cabinet, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_wallshelf002.png",
-  "bindType": -1,
-  "knownIds": [
-    139390
-  ]
-}
+{"internalId":2153842954,"name":"Alinor Cabinet, Noble","description":"This is a standard house item.","icon":"data/images/20/0f/le/housing_sum_fur_wallshelf002.png","bindType":-1,"knownIds":[139390]}

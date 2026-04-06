@@ -1,10 +1,1 @@
-{
-  "internalId": 3333575662,
-  "name": "Pattern: Solitude Bed, Rustic Cowhide Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166892
-  ]
-}
+{"internalId":3333575662,"name":"Pattern: Solitude Bed, Rustic Cowhide Single","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[166892]}

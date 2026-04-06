@@ -1,10 +1,1 @@
-{
-  "internalId": 3217856954,
-  "name": "Solitude Rug, Plain",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_ruglo002.png",
-  "bindType": -1,
-  "knownIds": [
-    165649
-  ]
-}
+{"internalId":3217856954,"name":"Solitude Rug, Plain","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_ruglo002.png","bindType":-1,"knownIds":[165649]}

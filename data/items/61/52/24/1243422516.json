@@ -1,10 +1,1 @@
-{
-  "internalId": 1243422516,
-  "name": "Dark Elf Prayer Blanket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801331
-  ]
-}
+{"internalId":1243422516,"name":"Dark Elf Prayer Blanket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[801331]}

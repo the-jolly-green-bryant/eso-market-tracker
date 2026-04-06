@@ -1,10 +1,1 @@
-{
-  "internalId": 3616865497,
-  "name": "Ring of the Unrequited",
-  "description": "An ancient ring carved with traditional knotwork representing the handfasting traditions of the Reach.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167426
-  ]
-}
+{"internalId":3616865497,"name":"Ring of the Unrequited","description":"An ancient ring carved with traditional knotwork representing the handfasting traditions of the Reach.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[167426]}

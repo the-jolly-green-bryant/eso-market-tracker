@@ -1,10 +1,1 @@
-{
-  "internalId": 2526134123,
-  "name": "Crafting Motif 89: Ancestral High Elf Shields",
-  "description": "Use to learn how to make Ancestral High Elf Shields. Also teaches the equivalent Ancestral High Elf Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160604
-  ]
-}
+{"internalId":2526134123,"name":"Crafting Motif 89: Ancestral High Elf Shields","description":"Use to learn how to make Ancestral High Elf Shields. Also teaches the equivalent Ancestral High Elf Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160604]}

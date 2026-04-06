@@ -1,11 +1,1 @@
-{
-  "internalId": 4179523499,
-  "name": "Saint Veloth Medallion",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    790500,
-    790500
-  ]
-}
+{"internalId":4179523499,"name":"Saint Veloth Medallion","description":"","icon":null,"bindType":-1,"knownIds":[790500,790500]}

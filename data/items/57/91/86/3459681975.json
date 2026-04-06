@@ -1,10 +1,1 @@
-{
-  "internalId": 3459681975,
-  "name": "Companion's Arm Cops",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_shoulders_medium.png",
-  "bindType": 2,
-  "knownIds": [
-    177200
-  ]
-}
+{"internalId":3459681975,"name":"Companion's Arm Cops","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_shoulders_medium.png","bindType":2,"knownIds":[177200]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2933355031,
-  "name": "Siegemaster's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    210843
-  ]
-}
+{"internalId":2933355031,"name":"Siegemaster's Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":2,"knownIds":[210843]}

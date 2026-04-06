@@ -1,10 +1,1 @@
-{
-  "internalId": 155249992,
-  "name": "Beekeeper's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98470
-  ]
-}
+{"internalId":155249992,"name":"Beekeeper's Mace","description":"","icon":"data/images/d_/re/mm/gear_khajiit_1hhammer_d.png","bindType":2,"knownIds":[98470]}

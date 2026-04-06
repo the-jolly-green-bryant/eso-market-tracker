@@ -1,15 +1,1 @@
-{
-  "internalId": 745724884,
-  "name": "Bar-Sakka's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_kaalnorgmonster_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1770603,
-    1771015,
-    1771166,
-    1770603,
-    1771015,
-    1771166
-  ]
-}
+{"internalId":745724884,"name":"Bar-Sakka's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_kaalnorgmonster_head_a.png","bindType":-1,"knownIds":[1770603,1771015,1771166,1770603,1771015,1771166]}

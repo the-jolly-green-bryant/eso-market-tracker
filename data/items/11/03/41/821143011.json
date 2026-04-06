@@ -1,10 +1,1 @@
-{
-  "internalId": 821143011,
-  "name": "Elinhir Roast Antelope",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_sirloin.png",
-  "bindType": -1,
-  "knownIds": [
-    33520
-  ]
-}
+{"internalId":821143011,"name":"Elinhir Roast Antelope","description":"","icon":"data/images/ni/ol/ri/crafting_cooking_grilled_sirloin.png","bindType":-1,"knownIds":[33520]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3447242037,
-  "name": "Driftwood Idol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_burial_mannequin_of_calarthor_camoran.png",
-  "bindType": -1,
-  "knownIds": [
-    1244463
-  ]
-}
+{"internalId":3447242037,"name":"Driftwood Idol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_burial_mannequin_of_calarthor_camoran.png","bindType":-1,"knownIds":[1244463]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 605561277,
-  "name": "Undertaker's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149210
-  ]
-}
+{"internalId":605561277,"name":"Undertaker's Lightning Staff","description":"","icon":"data/images/a_/ff/at/gear_anequina_staff_a.png","bindType":2,"knownIds":[149210]}

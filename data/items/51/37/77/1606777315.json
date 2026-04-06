@@ -1,10 +1,1 @@
-{
-  "internalId": 1606777315,
-  "name": "Shield of the Green Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97744
-  ]
-}
+{"internalId":1606777315,"name":"Shield of the Green Pact","description":"","icon":"data/images/d_/dl/ei/gear_bosmer_shield_d.png","bindType":2,"knownIds":[97744]}

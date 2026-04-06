@@ -1,17 +1,1 @@
-{
-  "internalId": 826683902,
-  "name": "Harmony in Chaos Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756234,
-    1761100,
-    1764208,
-    1770533,
-    1756234,
-    1761100,
-    1764208,
-    1770533
-  ]
-}
+{"internalId":826683902,"name":"Harmony in Chaos Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_dagger_a.png","bindType":-1,"knownIds":[1756234,1761100,1764208,1770533,1756234,1761100,1764208,1770533]}

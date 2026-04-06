@@ -1,10 +1,1 @@
-{
-  "internalId": 3773046492,
-  "name": "Pelinal's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76405
-  ]
-}
+{"internalId":3773046492,"name":"Pelinal's Maul","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[76405]}

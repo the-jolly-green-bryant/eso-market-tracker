@@ -1,10 +1,1 @@
-{
-  "internalId": 349475630,
-  "name": "Maw of the Infernal Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_daedroth_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1701106
-  ]
-}
+{"internalId":349475630,"name":"Maw of the Infernal Pauldron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_daedroth_shoulders_a.png","bindType":-1,"knownIds":[1701106]}

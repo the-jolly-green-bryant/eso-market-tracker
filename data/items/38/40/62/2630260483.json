@@ -1,17 +1,1 @@
-{
-  "internalId": 2630260483,
-  "name": "cotton jerkin of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": -1,
-  "knownIds": [
-    461989,
-    791028,
-    788893,
-    786935,
-    461989,
-    791028,
-    788893,
-    786935
-  ]
-}
+{"internalId":2630260483,"name":"cotton jerkin of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":-1,"knownIds":[461989,791028,788893,786935,461989,791028,788893,786935]}

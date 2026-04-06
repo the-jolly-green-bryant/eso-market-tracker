@@ -1,17 +1,1 @@
-{
-  "internalId": 2676427487,
-  "name": "Aerie's Cry Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1726476,
-    1737585,
-    1751509,
-    1761058,
-    1726476,
-    1737585,
-    1751509,
-    1761058
-  ]
-}
+{"internalId":2676427487,"name":"Aerie's Cry Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_waist_a.png","bindType":-1,"knownIds":[1726476,1737585,1751509,1761058,1726476,1737585,1751509,1761058]}

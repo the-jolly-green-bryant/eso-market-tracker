@@ -1,10 +1,1 @@
-{
-  "internalId": 2593397679,
-  "name": "Vandorallen's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1777275
-  ]
-}
+{"internalId":2593397679,"name":"Vandorallen's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png","bindType":-1,"knownIds":[1777275]}

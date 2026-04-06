@@ -1,10 +1,1 @@
-{
-  "internalId": 3361474843,
-  "name": "Crafting Motif 98: House Hexos Style",
-  "description": "Use to learn the House Hexos crafting style. Also teaches the equivalent House Hexos Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    170131
-  ]
-}
+{"internalId":3361474843,"name":"Crafting Motif 98: House Hexos Style","description":"Use to learn the House Hexos crafting style. Also teaches the equivalent House Hexos Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[170131]}

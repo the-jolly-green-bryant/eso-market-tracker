@@ -1,10 +1,1 @@
-{
-  "internalId": 3172579191,
-  "name": "Enchanter Survey: Greenshade",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    830490
-  ]
-}
+{"internalId":3172579191,"name":"Enchanter Survey: Greenshade","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[830490]}

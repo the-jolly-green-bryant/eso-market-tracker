@@ -1,10 +1,1 @@
-{
-  "internalId": 1504752661,
-  "name": "Sketch: Silver Kettle, Masterworked",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_5.png",
-  "bindType": -1,
-  "knownIds": [
-    147651
-  ]
-}
+{"internalId":1504752661,"name":"Sketch: Silver Kettle, Masterworked","description":"","icon":"data/images/5_/yr/le/crafting_planfurniture_jewelry_5.png","bindType":-1,"knownIds":[147651]}

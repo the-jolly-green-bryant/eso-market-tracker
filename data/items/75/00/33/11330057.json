@@ -1,10 +1,1 @@
-{
-  "internalId": 11330057,
-  "name": "Jerkin of Mechanical Acuity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    131410
-  ]
-}
+{"internalId":11330057,"name":"Jerkin of Mechanical Acuity","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[131410]}

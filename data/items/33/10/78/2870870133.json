@@ -1,10 +1,1 @@
-{
-  "internalId": 2870870133,
-  "name": "Restoration Staff of Critical R",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    158662
-  ]
-}
+{"internalId":2870870133,"name":"Restoration Staff of Critical R","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[158662]}

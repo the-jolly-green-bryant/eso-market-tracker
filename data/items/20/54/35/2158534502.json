@@ -1,17 +1,1 @@
-{
-  "internalId": 2158534502,
-  "name": "Vrol's Perfected Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2hmace.png",
-  "bindType": -1,
-  "knownIds": [
-    1422865,
-    1620130,
-    1628511,
-    1765100,
-    1422865,
-    1620130,
-    1628511,
-    1765100
-  ]
-}
+{"internalId":2158534502,"name":"Vrol's Perfected Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2hmace.png","bindType":-1,"knownIds":[1422865,1620130,1628511,1765100,1422865,1620130,1628511,1765100]}

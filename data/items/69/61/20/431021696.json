@@ -1,10 +1,1 @@
-{
-  "internalId": 431021696,
-  "name": "Design: Necrom Candle, Large Square",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    197760
-  ]
-}
+{"internalId":431021696,"name":"Design: Necrom Candle, Large Square","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[197760]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3754937207,
-  "name": "Sash of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199619
-  ]
-}
+{"internalId":3754937207,"name":"Sash of Vicious Death","description":"","icon":"data/images/a_/ts/ia/gear_abahswatch_light_waist_a.png","bindType":2,"knownIds":[79831]}

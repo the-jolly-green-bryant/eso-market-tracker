@@ -1,10 +1,1 @@
-{
-  "internalId": 1568770234,
-  "name": "Seeker Synthesis Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    195675
-  ]
-}
+{"internalId":1568770234,"name":"Seeker Synthesis Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png","bindType":2,"knownIds":[195675]}

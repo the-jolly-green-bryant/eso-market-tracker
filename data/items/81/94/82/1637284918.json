@@ -1,10 +1,1 @@
-{
-  "internalId": 1637284918,
-  "name": "Charcoal of Remorse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_potion_008.png",
-  "bindType": -1,
-  "knownIds": [
-    59922
-  ]
-}
+{"internalId":1637284918,"name":"Charcoal of Remorse","description":"","icon":"data/images/80/0_/no/crafting_smith_potion_008.png","bindType":-1,"knownIds":[59922]}

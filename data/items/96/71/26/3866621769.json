@@ -1,10 +1,1 @@
-{
-  "internalId": 3866621769,
-  "name": "Sketch: Alinor Goblet, Simple",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_2.png",
-  "bindType": -1,
-  "knownIds": [
-    139611
-  ]
-}
+{"internalId":3866621769,"name":"Sketch: Alinor Goblet, Simple","description":"","icon":"data/images/2_/yr/le/crafting_planfurniture_jewelry_2.png","bindType":-1,"knownIds":[139611]}

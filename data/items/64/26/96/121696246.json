@@ -1,10 +1,1 @@
-{
-  "internalId": 121696246,
-  "name": "Shattered Fate Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194901
-  ]
-}
+{"internalId":121696246,"name":"Shattered Fate Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[194901]}

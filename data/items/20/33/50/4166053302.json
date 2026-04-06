@@ -1,10 +1,1 @@
-{
-  "internalId": 4166053302,
-  "name": "Vivec's Ring of Duality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    195698
-  ]
-}
+{"internalId":4166053302,"name":"Vivec's Ring of Duality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[195698]}

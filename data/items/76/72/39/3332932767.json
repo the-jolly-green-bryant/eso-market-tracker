@@ -1,10 +1,1 @@
-{
-  "internalId": 3332932767,
-  "name": "Jewels of Misrule",
-  "description": "Candy \"gems\" to fill you with vim and energy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jester_rockcandy.png",
-  "bindType": -1,
-  "knownIds": [
-    120764
-  ]
-}
+{"internalId":3332932767,"name":"Jewels of Misrule","description":"Candy \"gems\" to fill you with vim and energy.","icon":"data/images/yd/na/ck/event_jester_rockcandy.png","bindType":-1,"knownIds":[120764]}

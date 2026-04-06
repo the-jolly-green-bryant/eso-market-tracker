@@ -1,10 +1,1 @@
-{
-  "internalId": 1507366570,
-  "name": "Guar Stomp Skeletal Reconstruction",
-  "description": "This is one of seven parts of the Guar Stomp Emote Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_gems_cyclops_bone.png",
-  "bindType": -1,
-  "knownIds": [
-    147498
-  ]
-}
+{"internalId":1507366570,"name":"Guar Stomp Skeletal Reconstruction","description":"This is one of seven parts of the Guar Stomp Emote Runebox.","icon":"data/images/en/ob/_s/crafting_gems_cyclops_bone.png","bindType":-1,"knownIds":[147498]}

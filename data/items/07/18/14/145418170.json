@@ -1,10 +1,1 @@
-{
-  "internalId": 145418170,
-  "name": "Praxis: Apocrypha Stele, Wide Arched",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    198484
-  ]
-}
+{"internalId":145418170,"name":"Praxis: Apocrypha Stele, Wide Arched","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[198484]}

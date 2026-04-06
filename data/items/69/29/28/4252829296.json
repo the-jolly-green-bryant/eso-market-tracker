@@ -1,10 +1,1 @@
-{
-  "internalId": 4252829296,
-  "name": "Dwarven Lamp, Reachfolk Adorned",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markreachlamp002.png",
-  "bindType": -1,
-  "knownIds": [
-    198052
-  ]
-}
+{"internalId":4252829296,"name":"Dwarven Lamp, Reachfolk Adorned","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markreachlamp002.png","bindType":-1,"knownIds":[198052]}

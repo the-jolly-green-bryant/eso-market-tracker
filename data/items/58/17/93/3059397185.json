@@ -1,10 +1,1 @@
-{
-  "internalId": 3059397185,
-  "name": "Inn Sign, Hanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_signinn001.png",
-  "bindType": -1,
-  "knownIds": [
-    192572
-  ]
-}
+{"internalId":3059397185,"name":"Inn Sign, Hanging","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_signinn001.png","bindType":-1,"knownIds":[192572]}

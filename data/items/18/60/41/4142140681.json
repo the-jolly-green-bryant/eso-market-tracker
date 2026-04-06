@@ -1,10 +1,1 @@
-{
-  "internalId": 4142140681,
-  "name": "Worm Cult Nightstand, Drawer",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_sidetablehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    220270
-  ]
-}
+{"internalId":4142140681,"name":"Worm Cult Nightstand, Drawer","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_sidetablehigh001.png","bindType":-1,"knownIds":[220270]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3282842894,
-  "name": "Pattern: Wood Elf Bedding, Padded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115900
-  ]
-}
+{"internalId":3282842894,"name":"Pattern: Wood Elf Bedding, Padded","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115900]}

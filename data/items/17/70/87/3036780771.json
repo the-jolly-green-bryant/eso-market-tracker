@@ -1,10 +1,1 @@
-{
-  "internalId": 3036780771,
-  "name": "Vampiric Lectern, Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirebookpodium001.png",
-  "bindType": -1,
-  "knownIds": [
-    165627
-  ]
-}
+{"internalId":3036780771,"name":"Vampiric Lectern, Polished","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirebookpodium001.png","bindType":-1,"knownIds":[165627]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 3929102713,
-  "name": "strong glyph of decrease spell harm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png",
-  "bindType": -1,
-  "knownIds": [
-    380270,
-    1437912,
-    380270,
-    1437912
-  ]
-}
+{"internalId":3929102713,"name":"strong glyph of decrease spell harm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png","bindType":-1,"knownIds":[380270,1437912,380270,1437912]}

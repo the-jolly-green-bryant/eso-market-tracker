@@ -1,10 +1,1 @@
-{
-  "internalId": 2557448919,
-  "name": "The Pig Children",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1134913
-  ]
-}
+{"internalId":2557448919,"name":"The Pig Children","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png","bindType":-1,"knownIds":[1134913]}

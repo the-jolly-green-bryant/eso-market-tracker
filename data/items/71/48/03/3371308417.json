@@ -1,10 +1,1 @@
-{
-  "internalId": 3371308417,
-  "name": "Ring of a Mother's Sorrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    97217
-  ]
-}
+{"internalId":3371308417,"name":"Ring of a Mother's Sorrow","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[97217]}

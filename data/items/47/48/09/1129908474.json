@@ -1,10 +1,1 @@
-{
-  "internalId": 1129908474,
-  "name": "Design: Solitude Bread, Rustic Sliced",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    166945
-  ]
-}
+{"internalId":1129908474,"name":"Design: Solitude Bread, Rustic Sliced","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[166945]}

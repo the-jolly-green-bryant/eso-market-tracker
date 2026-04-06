@@ -1,10 +1,1 @@
-{
-  "internalId": 6813393,
-  "name": "Vines, Ashen Moss",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_vrdspanishmoss001.png",
-  "bindType": -1,
-  "knownIds": [
-    125680
-  ]
-}
+{"internalId":6813393,"name":"Vines, Ashen Moss","description":"This is a standard house item.","icon":"data/images/10/0s/so/housing_veg_vin_vrdspanishmoss001.png","bindType":-1,"knownIds":[125680]}

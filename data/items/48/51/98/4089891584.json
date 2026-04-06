@@ -1,10 +1,1 @@
-{
-  "internalId": 4089891584,
-  "name": "Tree, Large Twisted Ash",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_cragmountain004.png",
-  "bindType": -1,
-  "knownIds": [
-    120549
-  ]
-}
+{"internalId":4089891584,"name":"Tree, Large Twisted Ash","description":"This is a huge house item.","icon":"data/images/40/0n/ia/housing_tre_eve_cragmountain004.png","bindType":-1,"knownIds":[120549]}

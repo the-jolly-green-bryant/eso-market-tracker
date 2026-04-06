@@ -1,10 +1,1 @@
-{
-  "internalId": 642884994,
-  "name": "Solitude Well, Covered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_villagewelllarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    167329
-  ]
-}
+{"internalId":642884994,"name":"Solitude Well, Covered","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_villagewelllarge002.png","bindType":-1,"knownIds":[167329]}

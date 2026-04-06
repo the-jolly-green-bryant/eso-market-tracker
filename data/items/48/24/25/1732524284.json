@@ -1,10 +1,1 @@
-{
-  "internalId": 1732524284,
-  "name": "Wrought-Iron Claw File",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804488
-  ]
-}
+{"internalId":1732524284,"name":"Wrought-Iron Claw File","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[804488]}

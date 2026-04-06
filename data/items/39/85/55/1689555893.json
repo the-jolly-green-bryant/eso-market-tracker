@@ -1,10 +1,1 @@
-{
-  "internalId": 1689555893,
-  "name": "Ancient Dragonguard's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156115
-  ]
-}
+{"internalId":1689555893,"name":"Ancient Dragonguard's Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png","bindType":2,"knownIds":[156115]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 852483498,
-  "name": "Pattern: Leyawiin Tapestry, Twin Vessels",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175936
-  ]
-}
+{"internalId":852483498,"name":"Pattern: Leyawiin Tapestry, Twin Vessels","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[175936]}

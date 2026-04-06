@@ -1,10 +1,1 @@
-{
-  "internalId": 690186051,
-  "name": "Solitude Cabinet, Narrow Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bookshelffancy006.png",
-  "bindType": -1,
-  "knownIds": [
-    165733
-  ]
-}
+{"internalId":690186051,"name":"Solitude Cabinet, Narrow Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bookshelffancy006.png","bindType":-1,"knownIds":[165733]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3370457727,
-  "name": "Earth-Turner Axe",
-  "description": "Aera Earth-Turner gave you this family heirloom for your heroics at Dhalmora.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44458
-  ]
-}
+{"internalId":3370457727,"name":"Earth-Turner Axe","description":"Aera Earth-Turner gave you this family heirloom for your heroics at Dhalmora.","icon":"data/images/d_/ex/ah/gear_nord_1haxe_d.png","bindType":2,"knownIds":[44458]}

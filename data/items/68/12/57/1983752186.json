@@ -1,10 +1,1 @@
-{
-  "internalId": 1983752186,
-  "name": "Deadlands Rug, Small",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedruglo003.png",
-  "bindType": -1,
-  "knownIds": [
-    182264
-  ]
-}
+{"internalId":1983752186,"name":"Deadlands Rug, Small","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedruglo003.png","bindType":-1,"knownIds":[182264]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4147263311,
-  "name": "Valentyn's Chisel",
-  "description": "Valentyn Dantaine never goes anywhere without his trusty chisel. Nevertheless, he gave it to you for helping him on Amenos.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    188104
-  ]
-}
+{"internalId":4147263311,"name":"Valentyn's Chisel","description":"Valentyn Dantaine never goes anywhere without his trusty chisel. Nevertheless, he gave it to you for helping him on Amenos.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_dagger_d.png","bindType":2,"knownIds":[188104]}

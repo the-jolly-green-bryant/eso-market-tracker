@@ -1,10 +1,1 @@
-{
-  "internalId": 1621723673,
-  "name": "Imperial Streetlight, Imperial City",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_lsb_iclampstreet001.png",
-  "bindType": -1,
-  "knownIds": [
-    94159
-  ]
-}
+{"internalId":1621723673,"name":"Imperial Streetlight, Imperial City","description":"This is a large house item.","icon":"data/images/10/0t/ee/housing_imp_lsb_iclampstreet001.png","bindType":-1,"knownIds":[94159]}

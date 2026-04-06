@@ -1,10 +1,1 @@
-{
-  "internalId": 273922635,
-  "name": "Emetic Russula",
-  "description": "An ingredient for crafting potions.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mushroom_emetic_russula_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    30151
-  ]
-}
+{"internalId":273922635,"name":"Emetic Russula","description":"An ingredient for crafting potions.","icon":"data/images/1r/_a/lu/crafting_mushroom_emetic_russula_r1.png","bindType":-1,"knownIds":[30151]}

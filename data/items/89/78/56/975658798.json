@@ -1,10 +1,1 @@
-{
-  "internalId": 975658798,
-  "name": "Reverence's Mandate Painting, Wood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leywoodpaintinglarge005.png",
-  "bindType": -1,
-  "knownIds": [
-    178451
-  ]
-}
+{"internalId":975658798,"name":"Reverence's Mandate Painting, Wood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leywoodpaintinglarge005.png","bindType":-1,"knownIds":[178451]}

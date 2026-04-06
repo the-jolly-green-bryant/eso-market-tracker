@@ -1,10 +1,1 @@
-{
-  "internalId": 592786971,
-  "name": "Praxis: Druidic Fence, Stone End",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    194375
-  ]
-}
+{"internalId":592786971,"name":"Praxis: Druidic Fence, Stone End","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[194375]}

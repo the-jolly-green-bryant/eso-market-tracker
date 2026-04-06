@@ -1,10 +1,1 @@
-{
-  "internalId": 2498305023,
-  "name": "Reading Glass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    461126
-  ]
-}
+{"internalId":2498305023,"name":"Reading Glass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[461126]}

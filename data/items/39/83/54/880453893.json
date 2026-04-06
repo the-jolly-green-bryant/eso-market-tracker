@@ -1,10 +1,1 @@
-{
-  "internalId": 880453893,
-  "name": "Apocrypha Plant, Feather Fern",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_featherplant004.png",
-  "bindType": -1,
-  "knownIds": [
-    203138
-  ]
-}
+{"internalId":880453893,"name":"Apocrypha Plant, Feather Fern","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_featherplant004.png","bindType":-1,"knownIds":[203138]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4118946981,
-  "name": "Ledger of Mount Ownership",
-  "description": "An extensive ledger that awards ownership of many collectible Mounts.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png",
-  "bindType": 3,
-  "knownIds": [
-    194469
-  ]
-}
+{"internalId":4118946981,"name":"Ledger of Mount Ownership","description":"An extensive ledger that awards ownership of many collectible Mounts.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png","bindType":3,"knownIds":[194469]}

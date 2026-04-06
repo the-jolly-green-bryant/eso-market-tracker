@@ -1,10 +1,1 @@
-{
-  "internalId": 2375001395,
-  "name": "Netch Oil Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212068
-  ]
-}
+{"internalId":2375001395,"name":"Netch Oil Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png","bindType":2,"knownIds":[212068]}

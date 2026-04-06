@@ -1,10 +1,1 @@
-{
-  "internalId": 2088951623,
-  "name": "Design: Redguard Kabobs, Plate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119195
-  ]
-}
+{"internalId":2088951623,"name":"Design: Redguard Kabobs, Plate","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119195]}

@@ -1,16 +1,1 @@
-{
-  "internalId": 3593791014,
-  "name": "Orpheon the Tactician's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undremanimp_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748634,
-    1749818,
-    1749916,
-    1751990,
-    1754075,
-    1758016,
-    1760921
-  ]
-}
+{"internalId":3593791014,"name":"Orpheon the Tactician's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undremanimp_head_a.png","bindType":-1,"knownIds":[1748634,1749818,1749916,1751990,1754075,1758016,1760921]}

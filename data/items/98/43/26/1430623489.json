@@ -1,10 +1,1 @@
-{
-  "internalId": 1430623489,
-  "name": "Orsinium's Remembrance War Drum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_drum.png",
-  "bindType": -1,
-  "knownIds": [
-    822771
-  ]
-}
+{"internalId":1430623489,"name":"Orsinium's Remembrance War Drum","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_drum.png","bindType":-1,"knownIds":[822771]}

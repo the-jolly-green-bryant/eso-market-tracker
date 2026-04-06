@@ -1,10 +1,1 @@
-{
-  "internalId": 369600257,
-  "name": "Soul-Touched Cowl",
-  "description": "A Coldharbour-imbued head covering found in Deetra Grotto.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    217729
-  ]
-}
+{"internalId":369600257,"name":"Soul-Touched Cowl","description":"A Coldharbour-imbued head covering found in Deetra Grotto.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_head_a.png","bindType":2,"knownIds":[217729]}

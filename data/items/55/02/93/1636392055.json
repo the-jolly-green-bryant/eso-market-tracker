@@ -1,10 +1,1 @@
-{
-  "internalId": 1636392055,
-  "name": "Skald-King Moppet Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    913049
-  ]
-}
+{"internalId":1636392055,"name":"Skald-King Moppet Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[913049]}

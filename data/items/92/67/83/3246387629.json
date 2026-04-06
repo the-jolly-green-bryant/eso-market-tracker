@@ -1,10 +1,1 @@
-{
-  "internalId": 3246387629,
-  "name": "Plant, Healthy Sage",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_craglornsage001.png",
-  "bindType": -1,
-  "knownIds": [
-    120551
-  ]
-}
+{"internalId":3246387629,"name":"Plant, Healthy Sage","description":"This is a standard house item.","icon":"data/images/10/0e/ga/housing_veg_bsh_craglornsage001.png","bindType":-1,"knownIds":[120551]}

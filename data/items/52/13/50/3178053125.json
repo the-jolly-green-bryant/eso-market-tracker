@@ -1,10 +1,1 @@
-{
-  "internalId": 3178053125,
-  "name": "Praxis: Murkmire Hearth Shrine, Sithis Coiled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    145962
-  ]
-}
+{"internalId":3178053125,"name":"Praxis: Murkmire Hearth Shrine, Sithis Coiled","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[145962]}

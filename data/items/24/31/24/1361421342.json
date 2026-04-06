@@ -1,10 +1,1 @@
-{
-  "internalId": 1361421342,
-  "name": "Nordic Hammer Hair Pins",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_007.png",
-  "bindType": -1,
-  "knownIds": [
-    405652
-  ]
-}
+{"internalId":1361421342,"name":"Nordic Hammer Hair Pins","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_007.png","bindType":-1,"knownIds":[405652]}

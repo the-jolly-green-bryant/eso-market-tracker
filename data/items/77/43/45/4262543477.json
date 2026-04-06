@@ -1,10 +1,1 @@
-{
-  "internalId": 4262543477,
-  "name": "Crafting Motif 84: Blackreach Vanguard Style",
-  "description": "Use to learn the Blackreach Vanguard crafting style. Also teaches the equivalent Blackreach Vanguard Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    160493
-  ]
-}
+{"internalId":4262543477,"name":"Crafting Motif 84: Blackreach Vanguard Style","description":"Use to learn the Blackreach Vanguard crafting style. Also teaches the equivalent Blackreach Vanguard Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[160493]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1832980124,
-  "name": "Beeswax Heart",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_honeycomb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795620
-  ]
-}
+{"internalId":1832980124,"name":"Beeswax Heart","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_honeycomb_001.png","bindType":-1,"knownIds":[795620]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1972983413,
-  "name": "Blueprint: Solitude Display Shelf, Noble Filled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166959
-  ]
-}
+{"internalId":1972983413,"name":"Blueprint: Solitude Display Shelf, Noble Filled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166959]}

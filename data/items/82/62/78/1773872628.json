@@ -1,10 +1,1 @@
-{
-  "internalId": 1773872628,
-  "name": "Praxis: Telvanni Shelves, Organic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    126987
-  ]
-}
+{"internalId":1773872628,"name":"Praxis: Telvanni Shelves, Organic","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[126987]}

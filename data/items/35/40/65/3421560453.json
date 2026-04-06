@@ -1,10 +1,1 @@
-{
-  "internalId": 3421560453,
-  "name": "Ice Staff of the Warlock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85770
-  ]
-}
+{"internalId":3421560453,"name":"Ice Staff of the Warlock","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[85770]}

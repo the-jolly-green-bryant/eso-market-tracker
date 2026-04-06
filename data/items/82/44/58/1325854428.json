@@ -1,10 +1,1 @@
-{
-  "internalId": 1325854428,
-  "name": "Breton Pint of Bitters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33984
-  ]
-}
+{"internalId":1325854428,"name":"Breton Pint of Bitters","description":"","icon":"data/images/20/0_/st/crafting_spirits_002.png","bindType":-1,"knownIds":[33984]}

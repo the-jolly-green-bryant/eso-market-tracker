@@ -1,10 +1,1 @@
-{
-  "internalId": 3392632647,
-  "name": "Wood Elf Fork, Decorative",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_fork001.png",
-  "bindType": -1,
-  "knownIds": [
-    115577
-  ]
-}
+{"internalId":3392632647,"name":"Wood Elf Fork, Decorative","description":"This is a small house item.","icon":"data/images/10/0k/ro/housing_bos_inc_fork001.png","bindType":-1,"knownIds":[115577]}

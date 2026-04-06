@@ -1,10 +1,1 @@
-{
-  "internalId": 105567448,
-  "name": "\"Summer Sun\" Music Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    816247
-  ]
-}
+{"internalId":105567448,"name":"\"Summer Sun\" Music Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[816247]}

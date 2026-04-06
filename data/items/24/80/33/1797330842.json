@@ -1,10 +1,1 @@
-{
-  "internalId": 1797330842,
-  "name": "Rough Planks, Narrow",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varwalkwayboards002.png",
-  "bindType": -1,
-  "knownIds": [
-    117987
-  ]
-}
+{"internalId":1797330842,"name":"Rough Planks, Narrow","description":"This is a large house item.","icon":"data/images/20/0s/dr/housing_red_str_varwalkwayboards002.png","bindType":-1,"knownIds":[117987]}

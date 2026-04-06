@@ -1,10 +1,1 @@
-{
-  "internalId": 538248132,
-  "name": "Alinor Shrine, Magnus",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_magnusshrine001.png",
-  "bindType": -1,
-  "knownIds": [
-    156654
-  ]
-}
+{"internalId":538248132,"name":"Alinor Shrine, Magnus","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_magnusshrine001.png","bindType":-1,"knownIds":[156654]}

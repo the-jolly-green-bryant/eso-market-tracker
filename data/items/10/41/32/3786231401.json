@@ -1,17 +1,1 @@
-{
-  "internalId": 3786231401,
-  "name": "Trappings of Invigoration Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1208062,
-    1249962,
-    1466892,
-    1563594,
-    1208062,
-    1249962,
-    1466892,
-    1563594
-  ]
-}
+{"internalId":3786231401,"name":"Trappings of Invigoration Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1208062,1249962,1466892,1563594,1208062,1249962,1466892,1563594]}

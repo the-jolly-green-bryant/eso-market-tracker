@@ -1,10 +1,1 @@
-{
-  "internalId": 2523448151,
-  "name": "Crafting Motif 64: Pyandonean Shields",
-  "description": "Use to learn how to make Pyandonean Shields. Also teaches the equivalent Pyandonean outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140439
-  ]
-}
+{"internalId":2523448151,"name":"Crafting Motif 64: Pyandonean Shields","description":"Use to learn how to make Pyandonean Shields. Also teaches the equivalent Pyandonean outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140439]}

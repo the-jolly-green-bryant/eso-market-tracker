@@ -1,10 +1,1 @@
-{
-  "internalId": 1251733018,
-  "name": "Resonance Crystal, Cerulean",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_resonancecrystal001.png",
-  "bindType": -1,
-  "knownIds": [
-    193807
-  ]
-}
+{"internalId":1251733018,"name":"Resonance Crystal, Cerulean","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_resonancecrystal001.png","bindType":-1,"knownIds":[193807]}

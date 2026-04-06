@@ -1,10 +1,1 @@
-{
-  "internalId": 4008606401,
-  "name": "The Artist's Latest Works",
-  "description": "Within this box are collections of new art for considered critique and perusal.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 3,
-  "knownIds": [
-    63613
-  ]
-}
+{"internalId":4008606401,"name":"The Artist's Latest Works","description":"Within this box are collections of new art for considered critique and perusal.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":3,"knownIds":[63613]}

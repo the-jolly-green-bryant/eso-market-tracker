@@ -1,10 +1,1 @@
-{
-  "internalId": 2677821208,
-  "name": "Heavy: Syvarra's Scales",
-  "description": "An All Armor set found in Hew's Bane.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    175531
-  ]
-}
+{"internalId":2677821208,"name":"Heavy: Syvarra's Scales","description":"An All Armor set found in Hew's Bane.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[175531]}

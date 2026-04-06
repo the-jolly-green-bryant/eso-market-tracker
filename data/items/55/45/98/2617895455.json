@@ -1,10 +1,1 @@
-{
-  "internalId": 2617895455,
-  "name": "Breeches of the Onslaught",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90773
-  ]
-}
+{"internalId":2617895455,"name":"Breeches of the Onslaught","description":"","icon":"data/images/d_/sg/el/gear_breton_light_legs_d.png","bindType":2,"knownIds":[90773]}

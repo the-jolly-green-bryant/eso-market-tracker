@@ -1,10 +1,1 @@
-{
-  "internalId": 2552069728,
-  "name": "Daedric Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    806608
-  ]
-}
+{"internalId":2552069728,"name":"Daedric Key","description":"","icon":null,"bindType":-1,"knownIds":[806608]}

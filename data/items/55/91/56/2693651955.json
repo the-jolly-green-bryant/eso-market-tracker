@@ -1,15 +1,1 @@
-{
-  "internalId": 2693651955,
-  "name": "Nerien'eth's Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_lich_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1570306,
-    1571459,
-    1632139,
-    1570306,
-    1571459,
-    1632139
-  ]
-}
+{"internalId":2693651955,"name":"Nerien'eth's Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_lich_head_a.png","bindType":-1,"knownIds":[1570306,1571459,1632139,1570306,1571459,1632139]}

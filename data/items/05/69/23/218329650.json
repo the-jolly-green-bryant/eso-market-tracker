@@ -1,10 +1,1 @@
-{
-  "internalId": 218329650,
-  "name": "Molag Grunda's Girdle",
-  "description": "You earned this girdle by defeating Molag Grunda at the Gatehouse in Coldharbour",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    15732
-  ]
-}
+{"internalId":218329650,"name":"Molag Grunda's Girdle","description":"You earned this girdle by defeating Molag Grunda at the Gatehouse in Coldharbour","icon":"data/images/a_/ts/ia/gear_daedric_heavy_waist_a.png","bindType":2,"knownIds":[15732]}

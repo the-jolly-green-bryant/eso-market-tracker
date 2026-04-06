@@ -1,10 +1,1 @@
-{
-  "internalId": 840870922,
-  "name": "Axe of Eternal Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_axe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161168
-  ]
-}
+{"internalId":840870922,"name":"Axe of Eternal Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_axe_a.png","bindType":2,"knownIds":[161168]}

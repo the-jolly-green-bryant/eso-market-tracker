@@ -1,10 +1,1 @@
-{
-  "internalId": 1893707634,
-  "name": "Praxis: Argonian Tablet,  Vos-Toh of Dance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    223638
-  ]
-}
+{"internalId":1893707634,"name":"Praxis: Argonian Tablet,  Vos-Toh of Dance","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[223638]}

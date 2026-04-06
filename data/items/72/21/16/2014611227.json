@@ -1,10 +1,1 @@
-{
-  "internalId": 2014611227,
-  "name": "Dominion Ballista of Vengeance",
-  "description": "Creates a ballista siege weapon whose bolt causes great damage to structures and enemies.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    214323
-  ]
-}
+{"internalId":2014611227,"name":"Dominion Ballista of Vengeance","description":"Creates a ballista siege weapon whose bolt causes great damage to structures and enemies.","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png","bindType":-1,"knownIds":[214323]}

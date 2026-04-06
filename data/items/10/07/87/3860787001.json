@@ -1,10 +1,1 @@
-{
-  "internalId": 3860787001,
-  "name": "Coldharbour's Favorite Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    148283
-  ]
-}
+{"internalId":3860787001,"name":"Coldharbour's Favorite Axe","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[148283]}

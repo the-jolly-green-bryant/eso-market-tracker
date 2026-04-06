@@ -1,10 +1,1 @@
-{
-  "internalId": 3556152233,
-  "name": "Solitude Barstool, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_barstool002.png",
-  "bindType": -1,
-  "knownIds": [
-    165657
-  ]
-}
+{"internalId":3556152233,"name":"Solitude Barstool, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_barstool002.png","bindType":-1,"knownIds":[165657]}

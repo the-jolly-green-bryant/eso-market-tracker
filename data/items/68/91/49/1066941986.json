@@ -1,10 +1,1 @@
-{
-  "internalId": 1066941986,
-  "name": "Meirvale Fragment",
-  "description": "This fragment of an ancient mural depicts the kingdom of Meirvale, known for its brewers and distilleries. Return it to the House of Histories in Riverhold, in Northern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_elsweyr_khaijit_mural_frament.png",
-  "bindType": 3,
-  "knownIds": [
-    147524
-  ]
-}
+{"internalId":1066941986,"name":"Meirvale Fragment","description":"This fragment of an ancient mural depicts the kingdom of Meirvale, known for its brewers and distilleries. Return it to the House of Histories in Riverhold, in Northern Elsweyr.","icon":"data/images/tn/em/ar/quest_elsweyr_khaijit_mural_frament.png","bindType":3,"knownIds":[147524]}

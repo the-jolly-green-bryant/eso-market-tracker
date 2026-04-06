@@ -1,15 +1,1 @@
-{
-  "internalId": 1630660953,
-  "name": "Perfected Pearlescent Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1586596,
-    1626540,
-    1779631,
-    1586596,
-    1626540,
-    1779631
-  ]
-}
+{"internalId":1630660953,"name":"Perfected Pearlescent Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_dagger_a.png","bindType":-1,"knownIds":[1586596,1626540,1779631,1586596,1626540,1779631]}

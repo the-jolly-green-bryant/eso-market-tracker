@@ -1,10 +1,1 @@
-{
-  "internalId": 4094854784,
-  "name": "Ashes of Lamae Beolfag",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_lamae_beolfag.png",
-  "bindType": -1,
-  "knownIds": [
-    1273977
-  ]
-}
+{"internalId":4094854784,"name":"Ashes of Lamae Beolfag","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_lamae_beolfag.png","bindType":-1,"knownIds":[1273977]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2725051709,
-  "name": "Weapon Enchanter's Box",
-  "description": "Contains a large quantity of glyphs, solely for weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 3,
-  "knownIds": [
-    55840
-  ]
-}
+{"internalId":2725051709,"name":"Weapon Enchanter's Box","description":"Contains a large quantity of glyphs, solely for weapons.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":3,"knownIds":[55840]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1812883412,
-  "name": "Senchal Defender's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155010
-  ]
-}
+{"internalId":1812883412,"name":"Senchal Defender's Shield","description":"","icon":"data/images/a_/dl/ei/gear_shieldsenchal_shield_a.png","bindType":2,"knownIds":[155010]}

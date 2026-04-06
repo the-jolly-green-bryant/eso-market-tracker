@@ -1,10 +1,1 @@
-{
-  "internalId": 1683522620,
-  "name": "Design: Redguard Slices, Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    119263
-  ]
-}
+{"internalId":1683522620,"name":"Design: Redguard Slices, Wax","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[119263]}

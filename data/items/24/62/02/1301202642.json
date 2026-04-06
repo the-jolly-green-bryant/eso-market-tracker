@@ -1,10 +1,1 @@
-{
-  "internalId": 1301202642,
-  "name": "False God's Perfected Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1751900
-  ]
-}
+{"internalId":1301202642,"name":"False God's Perfected Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hhammer_a.png","bindType":-1,"knownIds":[1751900]}

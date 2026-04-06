@@ -1,10 +1,1 @@
-{
-  "internalId": 70011113,
-  "name": "Animus Stone",
-  "description": "Used in crafting animated objects, such as \"living\" combat dummies.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_plug_component_004.png",
-  "bindType": -1,
-  "knownIds": [
-    120894
-  ]
-}
+{"internalId":70011113,"name":"Animus Stone","description":"Used in crafting animated objects, such as \"living\" combat dummies.","icon":"data/images/40/0_/tn/crafting_runecrafter_plug_component_004.png","bindType":-1,"knownIds":[120894]}

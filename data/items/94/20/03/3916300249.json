@@ -1,10 +1,1 @@
-{
-  "internalId": 3916300249,
-  "name": "Granite Wash Basin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clockwork_dragonfrog_firestarter.png",
-  "bindType": -1,
-  "knownIds": [
-    1225738
-  ]
-}
+{"internalId":3916300249,"name":"Granite Wash Basin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clockwork_dragonfrog_firestarter.png","bindType":-1,"knownIds":[1225738]}

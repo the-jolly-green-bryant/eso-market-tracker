@@ -1,10 +1,1 @@
-{
-  "internalId": 123248140,
-  "name": "Blunted Blades",
-  "description": "A Medium Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    204236
-  ]
-}
+{"internalId":123248140,"name":"Blunted Blades","description":"A Medium Armor set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[204236]}

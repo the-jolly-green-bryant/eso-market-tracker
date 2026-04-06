@@ -1,10 +1,1 @@
-{
-  "internalId": 3366624234,
-  "name": "Covenant's Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54430
-  ]
-}
+{"internalId":3366624234,"name":"Covenant's Helm","description":"","icon":"data/images/a_/da/eh/gear_akaviri_heavy_head_a.png","bindType":2,"knownIds":[54430]}

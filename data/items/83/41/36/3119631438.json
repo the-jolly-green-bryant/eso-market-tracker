@@ -1,10 +1,1 @@
-{
-  "internalId": 3119631438,
-  "name": "Necrom Memorial, Large",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_cem_necgravestone001.png",
-  "bindType": -1,
-  "knownIds": [
-    197506
-  ]
-}
+{"internalId":3119631438,"name":"Necrom Memorial, Large","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_cem_necgravestone001.png","bindType":-1,"knownIds":[197506]}

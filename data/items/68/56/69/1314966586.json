@@ -1,10 +1,1 @@
-{
-  "internalId": 1314966586,
-  "name": "Vampiric Sconce, Amber",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelablampwallmounted002.png",
-  "bindType": -1,
-  "knownIds": [
-    165622
-  ]
-}
+{"internalId":1314966586,"name":"Vampiric Sconce, Amber","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelablampwallmounted002.png","bindType":-1,"knownIds":[165622]}

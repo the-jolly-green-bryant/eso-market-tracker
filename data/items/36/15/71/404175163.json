@@ -1,10 +1,1 @@
-{
-  "internalId": 404175163,
-  "name": "Praxis: Leyawiin Platform, Large Square",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    181584
-  ]
-}
+{"internalId":404175163,"name":"Praxis: Leyawiin Platform, Large Square","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[181584]}

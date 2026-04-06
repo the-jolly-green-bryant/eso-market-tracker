@@ -1,10 +1,1 @@
-{
-  "internalId": 1798759369,
-  "name": "Thunderbug's Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    99995
-  ]
-}
+{"internalId":1798759369,"name":"Thunderbug's Gauntlets","description":"","icon":"data/images/a_/sd/na/gear_primative_heavy_hands_a.png","bindType":2,"knownIds":[99995]}

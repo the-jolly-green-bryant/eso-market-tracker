@@ -1,10 +1,1 @@
-{
-  "internalId": 587203711,
-  "name": "Cactus, Golden Bulbs",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_alikircactus001.png",
-  "bindType": -1,
-  "knownIds": [
-    120482
-  ]
-}
+{"internalId":587203711,"name":"Cactus, Golden Bulbs","description":"This is a small house item.","icon":"data/images/10/0s/ut/housing_veg_bsh_alikircactus001.png","bindType":-1,"knownIds":[120482]}

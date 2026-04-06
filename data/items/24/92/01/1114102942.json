@@ -1,10 +1,1 @@
-{
-  "internalId": 1114102942,
-  "name": "Pattern: Argonian Mat, Reed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    115748
-  ]
-}
+{"internalId":1114102942,"name":"Pattern: Argonian Mat, Reed","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[115748]}

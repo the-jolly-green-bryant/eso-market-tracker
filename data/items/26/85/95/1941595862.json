@@ -1,10 +1,1 @@
-{
-  "internalId": 1941595862,
-  "name": "Redguard Lamppost, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varpostlightstone001.png",
-  "bindType": -1,
-  "knownIds": [
-    134921
-  ]
-}
+{"internalId":1941595862,"name":"Redguard Lamppost, Stone","description":"This is a standard house item.","icon":"data/images/10/0e/no/housing_red_lsb_varpostlightstone001.png","bindType":-1,"knownIds":[134921]}

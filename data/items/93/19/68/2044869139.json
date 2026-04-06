@@ -1,10 +1,1 @@
-{
-  "internalId": 2044869139,
-  "name": "Design: Apocrypha Tree, Spore",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png",
-  "bindType": -1,
-  "knownIds": [
-    203320
-  ]
-}
+{"internalId":2044869139,"name":"Design: Apocrypha Tree, Spore","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png","bindType":-1,"knownIds":[203320]}

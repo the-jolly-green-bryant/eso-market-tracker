@@ -1,10 +1,1 @@
-{
-  "internalId": 559066154,
-  "name": "Solitude Pillar Base, Wood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_basewoodpillar001.png",
-  "bindType": -1,
-  "knownIds": [
-    167304
-  ]
-}
+{"internalId":559066154,"name":"Solitude Pillar Base, Wood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_basewoodpillar001.png","bindType":-1,"knownIds":[167304]}

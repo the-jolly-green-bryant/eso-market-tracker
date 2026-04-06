@@ -1,10 +1,1 @@
-{
-  "internalId": 2185630517,
-  "name": "Aurbic Enigma 4: the Elden Tree",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199254
-  ]
-}
+{"internalId":2185630517,"name":"Aurbic Enigma 4: the Elden Tree","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png","bindType":-1,"knownIds":[1199254]}

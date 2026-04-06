@@ -1,10 +1,1 @@
-{
-  "internalId": 1224787707,
-  "name": "Wood Elf Rack, Dried Meat",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_rack002.png",
-  "bindType": -1,
-  "knownIds": [
-    115628
-  ]
-}
+{"internalId":1224787707,"name":"Wood Elf Rack, Dried Meat","description":"This is a standard house item.","icon":"data/images/20/0k/ca/housing_bos_fur_rack002.png","bindType":-1,"knownIds":[115628]}

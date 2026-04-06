@@ -1,10 +1,1 @@
-{
-  "internalId": 1110950059,
-  "name": "Fargrave Terrarium, Scuttlebloom",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farterrariumcase004.png",
-  "bindType": -1,
-  "knownIds": [
-    182260
-  ]
-}
+{"internalId":1110950059,"name":"Fargrave Terrarium, Scuttlebloom","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farterrariumcase004.png","bindType":-1,"knownIds":[182260]}

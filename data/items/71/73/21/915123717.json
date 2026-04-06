@@ -1,15 +1,1 @@
-{
-  "internalId": 915123717,
-  "name": "Pyrebrand Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735219,
-    1762394,
-    1773867,
-    1735219,
-    1762394,
-    1773867
-  ]
-}
+{"internalId":915123717,"name":"Pyrebrand Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png","bindType":-1,"knownIds":[1735219,1762394,1773867,1735219,1762394,1773867]}

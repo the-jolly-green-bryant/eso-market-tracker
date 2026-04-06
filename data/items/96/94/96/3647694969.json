@@ -1,10 +1,1 @@
-{
-  "internalId": 3647694969,
-  "name": "Dragonstar Caravan Company Obligation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801292
-  ]
-}
+{"internalId":3647694969,"name":"Dragonstar Caravan Company Obligation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[801292]}

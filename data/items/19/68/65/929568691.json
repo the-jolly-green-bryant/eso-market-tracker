@@ -1,10 +1,1 @@
-{
-  "internalId": 929568691,
-  "name": "Elinhir Qishr Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    630292
-  ]
-}
+{"internalId":929568691,"name":"Elinhir Qishr Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[630292]}

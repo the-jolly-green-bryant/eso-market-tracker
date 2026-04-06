@@ -1,10 +1,1 @@
-{
-  "internalId": 775434984,
-  "name": "Band of the Wise",
-  "description": "Winding across the surface of this ring is the name of an Altmer family forgotten to the ages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197793
-  ]
-}
+{"internalId":775434984,"name":"Band of the Wise","description":"Winding across the surface of this ring is the name of an Altmer family forgotten to the ages.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[197793]}

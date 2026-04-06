@@ -1,10 +1,1 @@
-{
-  "internalId": 1235882976,
-  "name": "Orcish Seal, Wolf",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgpuzzleswitchsymbol005.png",
-  "bindType": -1,
-  "knownIds": [
-    156658
-  ]
-}
+{"internalId":1235882976,"name":"Orcish Seal, Wolf","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgpuzzleswitchsymbol005.png","bindType":-1,"knownIds":[156658]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1737870426,
-  "name": "Diagram: Alinor Urn, Bronze",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    139599
-  ]
-}
+{"internalId":1737870426,"name":"Diagram: Alinor Urn, Bronze","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[139599]}

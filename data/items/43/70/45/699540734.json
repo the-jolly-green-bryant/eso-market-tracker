@@ -1,10 +1,1 @@
-{
-  "internalId": 699540734,
-  "name": "Lucky Werebear Paw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    1385414
-  ]
-}
+{"internalId":699540734,"name":"Lucky Werebear Paw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[1385414]}

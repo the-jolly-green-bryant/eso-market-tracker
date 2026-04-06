@@ -1,10 +1,1 @@
-{
-  "internalId": 12577974,
-  "name": "Cuirass of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101297
-  ]
-}
+{"internalId":12577974,"name":"Cuirass of Soulshine","description":"","icon":"data/images/d_/ts/eh/gear_khajiit_heavy_chest_d.png","bindType":2,"knownIds":[101297]}

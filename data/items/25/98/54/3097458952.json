@@ -1,10 +1,1 @@
-{
-  "internalId": 3097458952,
-  "name": "Forebears Prayer Dice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    629919
-  ]
-}
+{"internalId":3097458952,"name":"Forebears Prayer Dice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png","bindType":-1,"knownIds":[629919]}

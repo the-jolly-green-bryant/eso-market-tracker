@@ -1,10 +1,1 @@
-{
-  "internalId": 749301952,
-  "name": "Telvanni Mirror, Fungal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_mirror001.png",
-  "bindType": -1,
-  "knownIds": [
-    197514
-  ]
-}
+{"internalId":749301952,"name":"Telvanni Mirror, Fungal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_mirror001.png","bindType":-1,"knownIds":[197514]}

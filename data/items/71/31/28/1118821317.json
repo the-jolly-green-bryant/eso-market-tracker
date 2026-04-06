@@ -1,10 +1,1 @@
-{
-  "internalId": 1118821317,
-  "name": "Bleakrock Isle Scenery Painting",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    406250
-  ]
-}
+{"internalId":1118821317,"name":"Bleakrock Isle Scenery Painting","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[406250]}

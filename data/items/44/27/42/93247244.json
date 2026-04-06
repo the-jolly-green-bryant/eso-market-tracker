@@ -1,10 +1,1 @@
-{
-  "internalId": 93247244,
-  "name": "Diagram: Clockwork Cup, Empty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    134519
-  ]
-}
+{"internalId":93247244,"name":"Diagram: Clockwork Cup, Empty","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[134519]}

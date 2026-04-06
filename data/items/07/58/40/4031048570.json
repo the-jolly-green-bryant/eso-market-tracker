@@ -1,10 +1,1 @@
-{
-  "internalId": 4031048570,
-  "name": "Dwemer Red Mountain Standard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_dwemer_mountain_standard.png",
-  "bindType": -1,
-  "knownIds": [
-    915002
-  ]
-}
+{"internalId":4031048570,"name":"Dwemer Red Mountain Standard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_dwemer_mountain_standard.png","bindType":-1,"knownIds":[915002]}

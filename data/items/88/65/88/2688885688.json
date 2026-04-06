@@ -1,10 +1,1 @@
-{
-  "internalId": 2688885688,
-  "name": "Common Bowl, Serving",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_fruitbowl001.png",
-  "bindType": -1,
-  "knownIds": [
-    118098
-  ]
-}
+{"internalId":2688885688,"name":"Common Bowl, Serving","description":"This is a tiny house item.","icon":"data/images/10/0l/wo/housing_bre_inc_fruitbowl001.png","bindType":-1,"knownIds":[118098]}

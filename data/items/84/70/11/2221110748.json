@@ -1,10 +1,1 @@
-{
-  "internalId": 2221110748,
-  "name": "Varen's Legacy Weapons",
-  "description": "A Crafted Armor set constructed in Gold Coast.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182710
-  ]
-}
+{"internalId":2221110748,"name":"Varen's Legacy Weapons","description":"A Crafted Armor set constructed in Gold Coast.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182710]}

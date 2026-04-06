@@ -1,10 +1,1 @@
-{
-  "internalId": 2298370869,
-  "name": "Recipe: Chicken Breast",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45935
-  ]
-}
+{"internalId":2298370869,"name":"Recipe: Chicken Breast","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45935]}

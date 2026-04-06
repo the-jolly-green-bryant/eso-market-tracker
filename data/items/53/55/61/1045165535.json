@@ -1,10 +1,1 @@
-{
-  "internalId": 1045165535,
-  "name": "Illustrated Jeweler's Portfolio",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1145013
-  ]
-}
+{"internalId":1045165535,"name":"Illustrated Jeweler's Portfolio","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[1145013]}

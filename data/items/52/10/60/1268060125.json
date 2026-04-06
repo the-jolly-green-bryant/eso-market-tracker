@@ -1,10 +1,1 @@
-{
-  "internalId": 1268060125,
-  "name": "Khajiit Drapes, Tattered",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_curtain001.png",
-  "bindType": -1,
-  "knownIds": [
-    115642
-  ]
-}
+{"internalId":1268060125,"name":"Khajiit Drapes, Tattered","description":"This is a large house item.","icon":"data/images/10/0n/ia/housing_kha_inc_curtain001.png","bindType":-1,"knownIds":[115642]}

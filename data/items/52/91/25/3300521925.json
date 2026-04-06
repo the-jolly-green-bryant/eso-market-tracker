@@ -1,10 +1,1 @@
-{
-  "internalId": 3300521925,
-  "name": "Leyawiin Brazier, Tall Copper Serpent",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybrazier003.png",
-  "bindType": -1,
-  "knownIds": [
-    175640
-  ]
-}
+{"internalId":3300521925,"name":"Leyawiin Brazier, Tall Copper Serpent","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybrazier003.png","bindType":-1,"knownIds":[175640]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 499725653,
-  "name": "Reveries Juggler's Blade",
-  "description": "A gift from the House of Reveries, this well-balanced blade is ideal for juggling, as well as for more violent acts.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    174841
-  ]
-}
+{"internalId":499725653,"name":"Reveries Juggler's Blade","description":"A gift from the House of Reveries, this well-balanced blade is ideal for juggling, as well as for more violent acts.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png","bindType":2,"knownIds":[174841]}

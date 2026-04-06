@@ -1,15 +1,1 @@
-{
-  "internalId": 3718530149,
-  "name": "Olorime's Perfected Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_dagger_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1383968,
-    1551702,
-    1689832,
-    1383968,
-    1551702,
-    1689832
-  ]
-}
+{"internalId":3718530149,"name":"Olorime's Perfected Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_dagger_001.png","bindType":-1,"knownIds":[1383968,1551702,1689832,1383968,1551702,1689832]}

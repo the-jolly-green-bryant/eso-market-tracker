@@ -1,10 +1,1 @@
-{
-  "internalId": 489023557,
-  "name": "Night's Silence Heavy Armor",
-  "description": "A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182416
-  ]
-}
+{"internalId":489023557,"name":"Night's Silence Heavy Armor","description":"A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182416]}

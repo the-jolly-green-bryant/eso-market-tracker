@@ -1,15 +1,1 @@
-{
-  "internalId": 4142998768,
-  "name": "Black Foundry Steel Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765162,
-    1777458,
-    1765162,
-    1777458,
-    1765162,
-    1777458
-  ]
-}
+{"internalId":4142998768,"name":"Black Foundry Steel Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1765162,1777458,1765162,1777458,1765162,1777458]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 166825181,
-  "name": "Maw of Maebomaz of the Red Mountain",
-  "description": "Hewn from the skull of the Daedric beast at the bottom of Emberflint Mine.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34978
-  ]
-}
+{"internalId":166825181,"name":"Maw of Maebomaz of the Red Mountain","description":"Hewn from the skull of the Daedric beast at the bottom of Emberflint Mine.","icon":"data/images/d_/da/eh/gear_khajiit_medium_head_d.png","bindType":2,"knownIds":[34978]}

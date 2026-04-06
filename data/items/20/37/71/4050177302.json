@@ -1,10 +1,1 @@
-{
-  "internalId": 4050177302,
-  "name": "Cheap Locket",
-  "description": "A cheap, clearly fake gold locket.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_002.png",
-  "bindType": -1,
-  "knownIds": [
-    71257
-  ]
-}
+{"internalId":4050177302,"name":"Cheap Locket","description":"A cheap, clearly fake gold locket.","icon":"data/images/20/0_/yr/quest_jewelry_002.png","bindType":-1,"knownIds":[71257]}

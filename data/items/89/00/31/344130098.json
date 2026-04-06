@@ -1,17 +1,1 @@
-{
-  "internalId": 344130098,
-  "name": "Bahkig's Purestaff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    673202,
-    437132,
-    673202,
-    437132,
-    673202,
-    437132,
-    673202,
-    437132
-  ]
-}
+{"internalId":344130098,"name":"Bahkig's Purestaff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png","bindType":-1,"knownIds":[673202,437132,673202,437132,673202,437132,673202,437132]}

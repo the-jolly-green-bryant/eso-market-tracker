@@ -1,10 +1,1 @@
-{
-  "internalId": 3492960533,
-  "name": "Sujamma Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    684900
-  ]
-}
+{"internalId":3492960533,"name":"Sujamma Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[684900]}

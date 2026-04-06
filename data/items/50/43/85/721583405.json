@@ -1,10 +1,1 @@
-{
-  "internalId": 721583405,
-  "name": "Recipe: Alabaster Honey Rum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57062
-  ]
-}
+{"internalId":721583405,"name":"Recipe: Alabaster Honey Rum","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57062]}

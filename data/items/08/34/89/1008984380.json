@@ -1,10 +1,1 @@
-{
-  "internalId": 1008984380,
-  "name": "Colovian War Torte",
-  "description": "This consumable can be used only by players level 10 and above.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownstore_consumable_entremet_cake.png",
-  "bindType": -1,
-  "knownIds": [
-    171323
-  ]
-}
+{"internalId":1008984380,"name":"Colovian War Torte","description":"This consumable can be used only by players level 10 and above.","icon":"https://esoicons.uesp.net/esoui/art/icons/crownstore_consumable_entremet_cake.png","bindType":-1,"knownIds":[171323]}

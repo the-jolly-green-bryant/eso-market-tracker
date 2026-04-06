@@ -1,10 +1,1 @@
-{
-  "internalId": 135498337,
-  "name": "Blueprint: High Isle Divider, Ornate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    188185
-  ]
-}
+{"internalId":135498337,"name":"Blueprint: High Isle Divider, Ornate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[188185]}

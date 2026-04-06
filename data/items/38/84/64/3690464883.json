@@ -1,10 +1,1 @@
-{
-  "internalId": 3690464883,
-  "name": "Helm of Iron Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179905
-  ]
-}
+{"internalId":3690464883,"name":"Helm of Iron Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[179905]}

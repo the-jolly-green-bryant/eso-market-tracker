@@ -1,10 +1,1 @@
-{
-  "internalId": 161056569,
-  "name": "Alinor Potted Plant, Pink Wisteria",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_housingplantervasewisteriapinkcombo001.png",
-  "bindType": -1,
-  "knownIds": [
-    210887
-  ]
-}
+{"internalId":161056569,"name":"Alinor Potted Plant, Pink Wisteria","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_housingplantervasewisteriapinkcombo001.png","bindType":-1,"knownIds":[210887]}

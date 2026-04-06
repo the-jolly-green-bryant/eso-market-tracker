@@ -1,10 +1,1 @@
-{
-  "internalId": 932978053,
-  "name": "Crafting Motif 121: Clan Dreamcarver Daggers",
-  "description": "Use to learn how to make Clan Dreamcarver Daggers. Also teaches the equivalent Clan Dreamcarver Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    194498
-  ]
-}
+{"internalId":932978053,"name":"Crafting Motif 121: Clan Dreamcarver Daggers","description":"Use to learn how to make Clan Dreamcarver Daggers. Also teaches the equivalent Clan Dreamcarver Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[194498]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 7170034,
-  "name": "Pelinal's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76432
-  ]
-}
+{"internalId":7170034,"name":"Pelinal's Helmet","description":"","icon":"data/images/d_/da/eh/gear_breton_medium_head_d.png","bindType":2,"knownIds":[76432]}

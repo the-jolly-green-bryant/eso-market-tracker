@@ -1,10 +1,1 @@
-{
-  "internalId": 3061977208,
-  "name": "Mud-Choked Mechanism",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1351229
-  ]
-}
+{"internalId":3061977208,"name":"Mud-Choked Mechanism","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[1351229]}

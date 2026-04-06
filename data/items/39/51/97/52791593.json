@@ -1,10 +1,1 @@
-{
-  "internalId": 52791593,
-  "name": "Pattern: Redguard Runner, Sun",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119196
-  ]
-}
+{"internalId":52791593,"name":"Pattern: Redguard Runner, Sun","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[119196]}

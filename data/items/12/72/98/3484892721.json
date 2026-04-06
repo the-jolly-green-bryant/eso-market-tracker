@@ -1,10 +1,1 @@
-{
-  "internalId": 3484892721,
-  "name": "Colovian Tapestry, Red Diamond",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_tapestrymural002.png",
-  "bindType": -1,
-  "knownIds": [
-    208117
-  ]
-}
+{"internalId":3484892721,"name":"Colovian Tapestry, Red Diamond","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_tapestrymural002.png","bindType":-1,"knownIds":[208117]}

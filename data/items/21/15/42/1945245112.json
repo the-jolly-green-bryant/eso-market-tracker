@@ -1,10 +1,1 @@
-{
-  "internalId": 1945245112,
-  "name": "Shad Astula Academy Robes",
-  "description": "These robes were a gift given to you for stopping the Maulborn from converting the students at the Shad Astula Academy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7325
-  ]
-}
+{"internalId":1945245112,"name":"Shad Astula Academy Robes","description":"These robes were a gift given to you for stopping the Maulborn from converting the students at the Shad Astula Academy.","icon":"data/images/d_/eb/or/gear_dunmer_light_robe_d.png","bindType":2,"knownIds":[7325]}

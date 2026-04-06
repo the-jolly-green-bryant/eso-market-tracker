@@ -1,10 +1,1 @@
-{
-  "internalId": 674673350,
-  "name": "Artificer's Coat of the War Maiden",
-  "description": "The mage Neramo found this Dwemer coat in the ruins of Nchuleftingth. Still supple after all these centuries!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dwarven_light_shirt_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126080
-  ]
-}
+{"internalId":674673350,"name":"Artificer's Coat of the War Maiden","description":"The mage Neramo found this Dwemer coat in the ruins of Nchuleftingth. Still supple after all these centuries!","icon":"data/images/a_/tr/ih/gear_dwarven_light_shirt_a.png","bindType":2,"knownIds":[126080]}

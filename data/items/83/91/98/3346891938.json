@@ -1,10 +1,1 @@
-{
-  "internalId": 3346891938,
-  "name": "Greatsword of Flanking",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77221
-  ]
-}
+{"internalId":3346891938,"name":"Greatsword of Flanking","description":"","icon":"data/images/a_/dr/ow/gear_ooth_2hsword_a.png","bindType":2,"knownIds":[77221]}

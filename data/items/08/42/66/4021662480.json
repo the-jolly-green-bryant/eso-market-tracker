@@ -1,10 +1,1 @@
-{
-  "internalId": 4021662480,
-  "name": "Battalion Defender Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144971
-  ]
-}
+{"internalId":4021662480,"name":"Battalion Defender Axe","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[144971]}

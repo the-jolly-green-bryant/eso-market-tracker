@@ -1,10 +1,1 @@
-{
-  "internalId": 293942802,
-  "name": "Praxis: Fargrave Platform, Square",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    184134
-  ]
-}
+{"internalId":293942802,"name":"Praxis: Fargrave Platform, Square","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[184134]}

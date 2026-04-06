@@ -1,10 +1,1 @@
-{
-  "internalId": 4056202668,
-  "name": "Witch-Knight's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167911
-  ]
-}
+{"internalId":4056202668,"name":"Witch-Knight's Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_1hhammer_a.png","bindType":2,"knownIds":[167911]}

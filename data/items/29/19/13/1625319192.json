@@ -1,10 +1,1 @@
-{
-  "internalId": 1625319192,
-  "name": "Circlet of the Wooded Eye",
-  "description": "When you wear this mysterious necklace, it seems like no secret can escape you.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    10898
-  ]
-}
+{"internalId":1625319192,"name":"Circlet of the Wooded Eye","description":"When you wear this mysterious necklace, it seems like no secret can escape you.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[10898]}

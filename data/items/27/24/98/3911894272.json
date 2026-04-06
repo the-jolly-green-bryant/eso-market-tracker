@@ -1,10 +1,1 @@
-{
-  "internalId": 3911894272,
-  "name": "Restoration Staff of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77068
-  ]
-}
+{"internalId":3911894272,"name":"Restoration Staff of Morihaus","description":"","icon":"data/images/a_/ff/at/gear_minotaur_staff_a.png","bindType":2,"knownIds":[77068]}

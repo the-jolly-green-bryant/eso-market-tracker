@@ -1,10 +1,1 @@
-{
-  "internalId": 3056299160,
-  "name": "Ring of Gryphon's Reprisal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1568060
-  ]
-}
+{"internalId":3056299160,"name":"Ring of Gryphon's Reprisal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1568060]}

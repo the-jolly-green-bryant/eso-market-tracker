@@ -1,10 +1,1 @@
-{
-  "internalId": 1142400281,
-  "name": "Stones, Snowswept Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_wrothsmalls009.png",
-  "bindType": -1,
-  "knownIds": [
-    134572
-  ]
-}
+{"internalId":1142400281,"name":"Stones, Snowswept Cluster","description":"This is a standard house item.","icon":"data/images/90/0s/ll/housing_rok_gry_wrothsmalls009.png","bindType":-1,"knownIds":[134572]}

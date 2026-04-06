@@ -1,13 +1,1 @@
-{
-  "internalId": 2397594439,
-  "name": "Perfected Test of Resolve Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1655795,
-    1774767,
-    1655795,
-    1774767
-  ]
-}
+{"internalId":2397594439,"name":"Perfected Test of Resolve Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1hsword_a.png","bindType":-1,"knownIds":[1655795,1774767,1655795,1774767]}

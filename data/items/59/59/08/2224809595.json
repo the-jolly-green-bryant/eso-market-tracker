@@ -1,10 +1,1 @@
-{
-  "internalId": 2224809595,
-  "name": "Redguard Cart, Merchant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_csb_varmerchantcart005.png",
-  "bindType": -1,
-  "knownIds": [
-    117862
-  ]
-}
+{"internalId":2224809595,"name":"Redguard Cart, Merchant","description":"This is a large house item.","icon":"data/images/50/0t/ra/housing_red_csb_varmerchantcart005.png","bindType":-1,"knownIds":[117862]}

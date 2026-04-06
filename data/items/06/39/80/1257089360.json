@@ -1,10 +1,1 @@
-{
-  "internalId": 1257089360,
-  "name": "Design: Alinor Meal, Individual",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    139619
-  ]
-}
+{"internalId":1257089360,"name":"Design: Alinor Meal, Individual","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[139619]}

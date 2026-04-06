@@ -1,10 +1,1 @@
-{
-  "internalId": 298713065,
-  "name": "Spiral Skein Glowstalks, Sprouts",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mphglowstalks001.png",
-  "bindType": -1,
-  "knownIds": [
-    139097
-  ]
-}
+{"internalId":298713065,"name":"Spiral Skein Glowstalks, Sprouts","description":"This is a standard house item.","icon":"data/images/10/0s/kl/housing_veg_fan_mphglowstalks001.png","bindType":-1,"knownIds":[139097]}

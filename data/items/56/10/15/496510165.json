@@ -1,10 +1,1 @@
-{
-  "internalId": 496510165,
-  "name": "Sun-Sighter",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    794945
-  ]
-}
+{"internalId":496510165,"name":"Sun-Sighter","description":"","icon":null,"bindType":-1,"knownIds":[794945]}

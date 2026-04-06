@@ -1,10 +1,1 @@
-{
-  "internalId": 2360042862,
-  "name": "Gauntlets of Alessia's Bulwark",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56677
-  ]
-}
+{"internalId":2360042862,"name":"Gauntlets of Alessia's Bulwark","description":"","icon":"data/images/d_/sd/na/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[56677]}

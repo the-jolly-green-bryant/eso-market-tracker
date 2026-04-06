@@ -1,10 +1,1 @@
-{
-  "internalId": 2047820757,
-  "name": "Dawnwood Wind Chimes, Bone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosbonedecor002.png",
-  "bindType": -1,
-  "knownIds": [
-    211377
-  ]
-}
+{"internalId":2047820757,"name":"Dawnwood Wind Chimes, Bone","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosbonedecor002.png","bindType":-1,"knownIds":[211377]}

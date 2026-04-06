@@ -1,10 +1,1 @@
-{
-  "internalId": 3162534942,
-  "name": "Velothi Painting, Classic Volcano",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_paintingamed001.png",
-  "bindType": -1,
-  "knownIds": [
-    126594
-  ]
-}
+{"internalId":3162534942,"name":"Velothi Painting, Classic Volcano","description":"This is a small house item.","icon":"data/images/10/0d/em/housing_vrd_inc_paintingamed001.png","bindType":-1,"knownIds":[126594]}

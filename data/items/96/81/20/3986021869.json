@@ -1,10 +1,1 @@
-{
-  "internalId": 3986021869,
-  "name": "Banner, War",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgorcbannerclana001.png",
-  "bindType": -1,
-  "knownIds": [
-    118075
-  ]
-}
+{"internalId":3986021869,"name":"Banner, War","description":"This is a large house item.","icon":"data/images/10/0a/na/housing_orc_lsb_wtgorcbannerclana001.png","bindType":-1,"knownIds":[118075]}

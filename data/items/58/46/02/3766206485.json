@@ -1,10 +1,1 @@
-{
-  "internalId": 3766206485,
-  "name": "Imperial Mirror, Standing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_mirror001.png",
-  "bindType": -1,
-  "knownIds": [
-    94173
-  ]
-}
+{"internalId":3766206485,"name":"Imperial Mirror, Standing","description":"This is a standard house item.","icon":"data/images/10/0r/or/housing_nib_fur_mirror001.png","bindType":-1,"knownIds":[94173]}

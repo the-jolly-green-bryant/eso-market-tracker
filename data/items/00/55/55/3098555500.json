@@ -1,10 +1,1 @@
-{
-  "internalId": 3098555500,
-  "name": "Necrom Ramp, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_neccitywalkwaystairsramp001.png",
-  "bindType": -1,
-  "knownIds": [
-    198029
-  ]
-}
+{"internalId":3098555500,"name":"Necrom Ramp, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_neccitywalkwaystairsramp001.png","bindType":-1,"knownIds":[198029]}

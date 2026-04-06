@@ -1,10 +1,1 @@
-{
-  "internalId": 3561226411,
-  "name": "Diagram: Common Lantern, Stationary",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    119397
-  ]
-}
+{"internalId":3561226411,"name":"Diagram: Common Lantern, Stationary","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[119397]}

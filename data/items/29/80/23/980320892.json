@@ -1,10 +1,1 @@
-{
-  "internalId": 980320892,
-  "name": "Karth's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168730
-  ]
-}
+{"internalId":980320892,"name":"Karth's Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png","bindType":2,"knownIds":[168730]}

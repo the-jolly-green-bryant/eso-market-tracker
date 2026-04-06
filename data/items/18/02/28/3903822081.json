@@ -1,10 +1,1 @@
-{
-  "internalId": 3903822081,
-  "name": "Saplings, Young Desert",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_mrkuplandsaplings002.png",
-  "bindType": -1,
-  "knownIds": [
-    120735
-  ]
-}
+{"internalId":3903822081,"name":"Saplings, Young Desert","description":"This is a large house item.","icon":"data/images/20/0s/gn/housing_tre_dec_mrkuplandsaplings002.png","bindType":-1,"knownIds":[120735]}

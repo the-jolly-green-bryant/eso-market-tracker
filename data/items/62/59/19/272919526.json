@@ -1,17 +1,1 @@
-{
-  "internalId": 272919526,
-  "name": "The Crown of Freydis",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821102,
-    1338197,
-    821102,
-    1338197,
-    821102,
-    1338197,
-    821102,
-    1338197
-  ]
-}
+{"internalId":272919526,"name":"The Crown of Freydis","description":"","icon":null,"bindType":-1,"knownIds":[821102,1338197,821102,1338197,821102,1338197,821102,1338197]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3484950901,
-  "name": "Khajiit Skooma Bubbler",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_hookah001.png",
-  "bindType": -1,
-  "knownIds": [
-    115680
-  ]
-}
+{"internalId":3484950901,"name":"Khajiit Skooma Bubbler","description":"This is a small house item.","icon":"data/images/10/0h/ak/housing_dun_inc_hookah001.png","bindType":-1,"knownIds":[115680]}

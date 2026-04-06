@@ -1,10 +1,1 @@
-{
-  "internalId": 1909701650,
-  "name": "Wool Stuffed-Sheep",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366486
-  ]
-}
+{"internalId":1909701650,"name":"Wool Stuffed-Sheep","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[1366486]}

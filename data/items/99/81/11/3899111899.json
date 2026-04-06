@@ -1,10 +1,1 @@
-{
-  "internalId": 3899111899,
-  "name": "Murkmire Bookcase, Grand Full",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_housingbookshelves001.png",
-  "bindType": -1,
-  "knownIds": [
-    145332
-  ]
-}
+{"internalId":3899111899,"name":"Murkmire Bookcase, Grand Full","description":"This is a large house item.","icon":"data/images/10/0s/ev/housing_arg_fur_housingbookshelves001.png","bindType":-1,"knownIds":[145332]}

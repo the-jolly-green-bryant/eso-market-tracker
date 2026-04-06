@@ -1,10 +1,1 @@
-{
-  "internalId": 275236165,
-  "name": "Markarth Wall, Wide Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_markwallmedstraight002.png",
-  "bindType": -1,
-  "knownIds": [
-    171760
-  ]
-}
+{"internalId":275236165,"name":"Markarth Wall, Wide Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_markwallmedstraight002.png","bindType":-1,"knownIds":[171760]}

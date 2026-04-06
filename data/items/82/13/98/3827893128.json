@@ -1,10 +1,1 @@
-{
-  "internalId": 3827893128,
-  "name": "Elsweyr Wall, Curved Masonry",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_waf_wallsmediumcurved002.png",
-  "bindType": -1,
-  "knownIds": [
-    151765
-  ]
-}
+{"internalId":3827893128,"name":"Elsweyr Wall, Curved Masonry","description":"This is a large house item.","icon":"data/images/20/0d/ev/housing_els_waf_wallsmediumcurved002.png","bindType":-1,"knownIds":[151765]}

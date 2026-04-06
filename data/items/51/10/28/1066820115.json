@@ -1,10 +1,1 @@
-{
-  "internalId": 1066820115,
-  "name": "Witch-Knight's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167926
-  ]
-}
+{"internalId":1066820115,"name":"Witch-Knight's Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_head_a.png","bindType":2,"knownIds":[167926]}

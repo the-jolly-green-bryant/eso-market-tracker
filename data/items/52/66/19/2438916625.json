@@ -1,10 +1,1 @@
-{
-  "internalId": 2438916625,
-  "name": "Alinor Bowl, Stemmed Limestone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonedecorative005.png",
-  "bindType": -1,
-  "knownIds": [
-    139278
-  ]
-}
+{"internalId":2438916625,"name":"Alinor Bowl, Stemmed Limestone","description":"This is a standard house item.","icon":"data/images/50/0e/vi/housing_rok_sum_limestonedecorative005.png","bindType":-1,"knownIds":[139278]}

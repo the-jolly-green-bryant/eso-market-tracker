@@ -1,10 +1,1 @@
-{
-  "internalId": 1512135304,
-  "name": "Axe of Alteration Mastery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    91520
-  ]
-}
+{"internalId":1512135304,"name":"Axe of Alteration Mastery","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[91520]}

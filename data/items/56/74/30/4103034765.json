@@ -1,10 +1,1 @@
-{
-  "internalId": 4103034765,
-  "name": "Crafting Motif 97: Wayward Guardian Style",
-  "description": "Use to learn the Wayward Guardian crafting style. Also teaches the equivalent Wayward Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    167977
-  ]
-}
+{"internalId":4103034765,"name":"Crafting Motif 97: Wayward Guardian Style","description":"Use to learn the Wayward Guardian crafting style. Also teaches the equivalent Wayward Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[167977]}

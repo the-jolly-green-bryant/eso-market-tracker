@@ -1,10 +1,1 @@
-{
-  "internalId": 2949996266,
-  "name": "Necrom Envoy's Cops",
-  "description": "Necrom's clergy often serve as diplomats, contending with the machinations of House Telvanni.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197796
-  ]
-}
+{"internalId":2949996266,"name":"Necrom Envoy's Cops","description":"Necrom's clergy often serve as diplomats, contending with the machinations of House Telvanni.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_shoulders_a.png","bindType":2,"knownIds":[197796]}

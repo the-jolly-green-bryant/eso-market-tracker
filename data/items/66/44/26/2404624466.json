@@ -1,10 +1,1 @@
-{
-  "internalId": 2404624466,
-  "name": "Jack of Kagrenac's Hope",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56795
-  ]
-}
+{"internalId":2404624466,"name":"Jack of Kagrenac's Hope","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[56795]}

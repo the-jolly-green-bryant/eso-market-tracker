@@ -1,10 +1,1 @@
-{
-  "internalId": 3628088877,
-  "name": "Wolf-Hair Ink Brush",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_inkwell_001.png",
-  "bindType": -1,
-  "knownIds": [
-    921265
-  ]
-}
+{"internalId":3628088877,"name":"Wolf-Hair Ink Brush","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_inkwell_001.png","bindType":-1,"knownIds":[921265]}

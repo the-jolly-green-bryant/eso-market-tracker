@@ -1,10 +1,1 @@
-{
-  "internalId": 1168690407,
-  "name": "Claw Sharpeners",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    804432
-  ]
-}
+{"internalId":1168690407,"name":"Claw Sharpeners","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png","bindType":-1,"knownIds":[804432]}

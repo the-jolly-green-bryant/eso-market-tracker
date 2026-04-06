@@ -1,10 +1,1 @@
-{
-  "internalId": 1537774813,
-  "name": "Colovian Wine Basket, Plain",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebasketlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    204836
-  ]
-}
+{"internalId":1537774813,"name":"Colovian Wine Basket, Plain","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebasketlarge001.png","bindType":-1,"knownIds":[204836]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1367022457,
-  "name": "Venomous Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160994
-  ]
-}
+{"internalId":1367022457,"name":"Venomous Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png","bindType":2,"knownIds":[160994]}

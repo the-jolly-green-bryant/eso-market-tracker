@@ -1,10 +1,1 @@
-{
-  "internalId": 1376859275,
-  "name": "Branch, Curved Laurel",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_vrdlaureltree_branch003.png",
-  "bindType": -1,
-  "knownIds": [
-    130298
-  ]
-}
+{"internalId":1376859275,"name":"Branch, Curved Laurel","description":"This is a standard house item.","icon":"data/images/30/0h/cn/housing_tre_dec_vrdlaureltree_branch003.png","bindType":-1,"knownIds":[130298]}

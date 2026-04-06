@@ -1,10 +1,1 @@
-{
-  "internalId": 1392585148,
-  "name": "Colovian Table, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_tablelargehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    204652
-  ]
-}
+{"internalId":1392585148,"name":"Colovian Table, Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_tablelargehigh001.png","bindType":-1,"knownIds":[204652]}

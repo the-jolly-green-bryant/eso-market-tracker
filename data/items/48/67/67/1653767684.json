@@ -1,15 +1,1 @@
-{
-  "internalId": 1653767684,
-  "name": "Lion Guard Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    434131,
-    394664,
-    514878,
-    434131,
-    394664,
-    514878
-  ]
-}
+{"internalId":1653767684,"name":"Lion Guard Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png","bindType":-1,"knownIds":[434131,394664,514878,434131,394664,514878]}

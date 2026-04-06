@@ -1,10 +1,1 @@
-{
-  "internalId": 1851857887,
-  "name": "Leyawiin Chandelier, Brass",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leychandelier002.png",
-  "bindType": -1,
-  "knownIds": [
-    175647
-  ]
-}
+{"internalId":1851857887,"name":"Leyawiin Chandelier, Brass","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leychandelier002.png","bindType":-1,"knownIds":[175647]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2143758867,
-  "name": "Style Page: Troll King Mask",
-  "description": "Use to learn the Troll King Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    142015
-  ]
-}
+{"internalId":2143758867,"name":"Style Page: Troll King Mask","description":"Use to learn the Troll King Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[142015]}

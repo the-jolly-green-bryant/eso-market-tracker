@@ -1,10 +1,1 @@
-{
-  "internalId": 4096779295,
-  "name": "Woodworker Survey: Stormhaven",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    832165
-  ]
-}
+{"internalId":4096779295,"name":"Woodworker Survey: Stormhaven","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[832165]}

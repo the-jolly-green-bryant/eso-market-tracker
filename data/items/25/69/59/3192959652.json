@@ -1,10 +1,1 @@
-{
-  "internalId": 3192959652,
-  "name": "Congealed Redoran Peppered Melon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fruit_003.png",
-  "bindType": -1,
-  "knownIds": [
-    32096
-  ]
-}
+{"internalId":3192959652,"name":"Congealed Redoran Peppered Melon","description":"","icon":"data/images/30/0_/ti/crafting_fruit_003.png","bindType":-1,"knownIds":[32096]}

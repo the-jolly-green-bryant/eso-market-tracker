@@ -1,10 +1,1 @@
-{
-  "internalId": 1718427944,
-  "name": "Palladium",
-  "description": "An ingredient for crafting in the Ancient Elf style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_palladium.png",
-  "bindType": -1,
-  "knownIds": [
-    46152
-  ]
-}
+{"internalId":1718427944,"name":"Palladium","description":"An ingredient for crafting in the Ancient Elf style.","icon":"data/images/mu/id/al/crafting_ore_palladium.png","bindType":-1,"knownIds":[46152]}

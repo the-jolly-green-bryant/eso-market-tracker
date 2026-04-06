@@ -1,13 +1,1 @@
-{
-  "internalId": 1425023590,
-  "name": "Nobility in Decay Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1692856,
-    1702268,
-    1692856,
-    1702268
-  ]
-}
+{"internalId":1425023590,"name":"Nobility in Decay Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_legs_a.png","bindType":-1,"knownIds":[1692856,1702268,1692856,1702268]}

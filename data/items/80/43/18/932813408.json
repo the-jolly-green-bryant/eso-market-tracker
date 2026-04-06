@@ -1,10 +1,1 @@
-{
-  "internalId": 932813408,
-  "name": "Reach Totem, Twig Raven",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_icereachwitchraven001.png",
-  "bindType": -1,
-  "knownIds": [
-    198057
-  ]
-}
+{"internalId":932813408,"name":"Reach Totem, Twig Raven","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_icereachwitchraven001.png","bindType":-1,"knownIds":[198057]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4176395373,
-  "name": "Inferno Staff of the Kynmarcher's Cruelty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180412
-  ]
-}
+{"internalId":4176395373,"name":"Inferno Staff of the Kynmarcher's Cruelty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_staff_a.png","bindType":2,"knownIds":[180412]}

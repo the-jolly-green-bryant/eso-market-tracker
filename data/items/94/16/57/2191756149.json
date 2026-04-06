@@ -1,10 +1,1 @@
-{
-  "internalId": 2191756149,
-  "name": "Focus Script: Disease Damage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_disease.png",
-  "bindType": -1,
-  "knownIds": [
-    204551
-  ]
-}
+{"internalId":2191756149,"name":"Focus Script: Disease Damage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_disease.png","bindType":-1,"knownIds":[204551]}

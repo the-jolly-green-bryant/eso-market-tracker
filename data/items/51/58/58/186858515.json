@@ -1,10 +1,1 @@
-{
-  "internalId": 186858515,
-  "name": "Swamp Raider's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99041
-  ]
-}
+{"internalId":186858515,"name":"Swamp Raider's Guards","description":"","icon":"data/images/d_/sg/el/gear_argonian_medium_legs_d.png","bindType":2,"knownIds":[99041]}

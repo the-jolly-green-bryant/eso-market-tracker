@@ -1,10 +1,1 @@
-{
-  "internalId": 1517045853,
-  "name": "Pattern: Leyawiin Banner, Abstract",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    175934
-  ]
-}
+{"internalId":1517045853,"name":"Pattern: Leyawiin Banner, Abstract","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[175934]}

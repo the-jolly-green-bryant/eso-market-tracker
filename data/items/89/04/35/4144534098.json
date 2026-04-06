@@ -1,10 +1,1 @@
-{
-  "internalId": 4144534098,
-  "name": "Log, Fallen Laurel",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_vrdlaureltree_fallentree001.png",
-  "bindType": -1,
-  "knownIds": [
-    130287
-  ]
-}
+{"internalId":4144534098,"name":"Log, Fallen Laurel","description":"This is a large house item.","icon":"data/images/10/0e/er/housing_tre_dec_vrdlaureltree_fallentree001.png","bindType":-1,"knownIds":[130287]}

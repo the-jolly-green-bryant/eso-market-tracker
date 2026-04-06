@@ -1,10 +1,1 @@
-{
-  "internalId": 1083038428,
-  "name": "Mace of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199312
-  ]
-}
+{"internalId":1083038428,"name":"Mace of Fury","description":"","icon":"data/images/a_/re/mm/gear_abahswatch_1hhammer_a.png","bindType":2,"knownIds":[79813]}

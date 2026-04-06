@@ -1,10 +1,1 @@
-{
-  "internalId": 3863223249,
-  "name": "Crafting Motif 86: Sea Giant Style",
-  "description": "Use to learn the Sea Giant crafting style. Also teaches the equivalent Sea Giant Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    160559
-  ]
-}
+{"internalId":3863223249,"name":"Crafting Motif 86: Sea Giant Style","description":"Use to learn the Sea Giant crafting style. Also teaches the equivalent Sea Giant Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[160559]}

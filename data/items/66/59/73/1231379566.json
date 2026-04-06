@@ -1,10 +1,1 @@
-{
-  "internalId": 1231379566,
-  "name": "Revus's Spare Staff of the War Maiden",
-  "description": "Just the right size and shape to pry kwama-eggs from their heaps. Awarded for saving the egg mine of Gnisis.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126051
-  ]
-}
+{"internalId":1231379566,"name":"Revus's Spare Staff of the War Maiden","description":"Just the right size and shape to pry kwama-eggs from their heaps. Awarded for saving the egg mine of Gnisis.","icon":"data/images/a_/ff/at/gear_redoran_staff_a.png","bindType":2,"knownIds":[126051]}

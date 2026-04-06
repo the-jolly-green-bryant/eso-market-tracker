@@ -1,10 +1,1 @@
-{
-  "internalId": 4094248963,
-  "name": "Shipment of Yew",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    939629
-  ]
-}
+{"internalId":4094248963,"name":"Shipment of Yew","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[939629]}

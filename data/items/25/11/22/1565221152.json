@@ -1,10 +1,1 @@
-{
-  "internalId": 1565221152,
-  "name": "Ring of the Arena",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140147
-  ]
-}
+{"internalId":1565221152,"name":"Ring of the Arena","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140147]}

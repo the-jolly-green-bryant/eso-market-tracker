@@ -1,10 +1,1 @@
-{
-  "internalId": 2952417965,
-  "name": "Formula: Hlaalu Lantern, Classic Vellum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    127092
-  ]
-}
+{"internalId":2952417965,"name":"Formula: Hlaalu Lantern, Classic Vellum","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[127092]}

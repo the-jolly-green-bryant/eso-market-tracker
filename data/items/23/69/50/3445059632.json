@@ -1,10 +1,1 @@
-{
-  "internalId": 3445059632,
-  "name": "Weapons: Witch-Knight",
-  "description": "A Medium Armor set found in the Reach.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    167931
-  ]
-}
+{"internalId":3445059632,"name":"Weapons: Witch-Knight","description":"A Medium Armor set found in the Reach.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[167931]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3349561531,
-  "name": "Praxis: Tide-Born Firepit, Covered Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    217577
-  ]
-}
+{"internalId":3349561531,"name":"Praxis: Tide-Born Firepit, Covered Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[217577]}

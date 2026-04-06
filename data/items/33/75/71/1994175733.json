@@ -1,10 +1,1 @@
-{
-  "internalId": 1994175733,
-  "name": "Poison Antidote",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819982
-  ]
-}
+{"internalId":1994175733,"name":"Poison Antidote","description":"","icon":null,"bindType":-1,"knownIds":[819982]}

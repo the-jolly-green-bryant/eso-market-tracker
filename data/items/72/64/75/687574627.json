@@ -1,10 +1,1 @@
-{
-  "internalId": 687574627,
-  "name": "Seventh Legion's Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100927
-  ]
-}
+{"internalId":687574627,"name":"Seventh Legion's Helm","description":"","icon":"data/images/d_/da/eh/gear_orc_heavy_head_d.png","bindType":2,"knownIds":[100927]}

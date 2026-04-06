@@ -1,10 +1,1 @@
-{
-  "internalId": 101287824,
-  "name": "Formula: Dres Lamp, Portable",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png",
-  "bindType": -1,
-  "knownIds": [
-    127095
-  ]
-}
+{"internalId":101287824,"name":"Formula: Dres Lamp, Portable","description":"","icon":"data/images/2y/me/hc/crafting_planfurniture_alchemy2.png","bindType":-1,"knownIds":[127095]}

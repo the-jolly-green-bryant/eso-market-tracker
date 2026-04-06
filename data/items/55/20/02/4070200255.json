@@ -1,10 +1,1 @@
-{
-  "internalId": 4070200255,
-  "name": "High Isle Brazier, Standing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_lsb_brazier004.png",
-  "bindType": -1,
-  "knownIds": [
-    187842
-  ]
-}
+{"internalId":4070200255,"name":"High Isle Brazier, Standing","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_lsb_brazier004.png","bindType":-1,"knownIds":[187842]}

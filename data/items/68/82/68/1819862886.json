@@ -1,10 +1,1 @@
-{
-  "internalId": 1819862886,
-  "name": "Recipe: Sload Slime",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57048
-  ]
-}
+{"internalId":1819862886,"name":"Recipe: Sload Slime","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57048]}

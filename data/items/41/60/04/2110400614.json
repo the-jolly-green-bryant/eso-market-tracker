@@ -1,10 +1,1 @@
-{
-  "internalId": 2110400614,
-  "name": "Plaque, Standard",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headplaque002.png",
-  "bindType": -1,
-  "knownIds": [
-    118126
-  ]
-}
+{"internalId":2110400614,"name":"Plaque, Standard","description":"This is a small house item.","icon":"data/images/20/0e/uq/housing_orc_inc_headplaque002.png","bindType":-1,"knownIds":[118126]}

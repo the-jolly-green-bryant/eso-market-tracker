@@ -1,10 +1,1 @@
-{
-  "internalId": 3848947066,
-  "name": "Musty Bait Tin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    858966
-  ]
-}
+{"internalId":3848947066,"name":"Musty Bait Tin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[858966]}

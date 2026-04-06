@@ -1,10 +1,1 @@
-{
-  "internalId": 2878843162,
-  "name": "Pelinal's Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76418
-  ]
-}
+{"internalId":2878843162,"name":"Pelinal's Greaves","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[76418]}

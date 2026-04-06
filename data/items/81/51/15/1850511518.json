@@ -1,17 +1,1 @@
-{
-  "internalId": 1850511518,
-  "name": "Perfected False God's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1342166,
-    1508937,
-    1576199,
-    1631033,
-    1342166,
-    1508937,
-    1576199,
-    1631033
-  ]
-}
+{"internalId":1850511518,"name":"Perfected False God's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_staff_a.png","bindType":-1,"knownIds":[1342166,1508937,1576199,1631033,1342166,1508937,1576199,1631033]}

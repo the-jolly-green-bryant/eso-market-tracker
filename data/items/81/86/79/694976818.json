@@ -1,10 +1,1 @@
-{
-  "internalId": 694976818,
-  "name": "Fishy Stick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fish_stick.png",
-  "bindType": -1,
-  "knownIds": [
-    37822
-  ]
-}
+{"internalId":694976818,"name":"Fishy Stick","description":"","icon":"data/images/kc/it/s_/crafting_cooking_fish_stick.png","bindType":-1,"knownIds":[37822]}

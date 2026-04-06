@@ -1,10 +1,1 @@
-{
-  "internalId": 2059926062,
-  "name": "Full Belly Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_1hammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    215003
-  ]
-}
+{"internalId":2059926062,"name":"Full Belly Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_1hammer_a.png","bindType":2,"knownIds":[215003]}

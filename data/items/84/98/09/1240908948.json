@@ -1,10 +1,1 @@
-{
-  "internalId": 1240908948,
-  "name": "Ehtayah's Tear",
-  "description": "The unadorned circle was found on a Do'Krin offering altar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    10915
-  ]
-}
+{"internalId":1240908948,"name":"Ehtayah's Tear","description":"The unadorned circle was found on a Do'Krin offering altar.","icon":"data/images/a_/gn/ir/gear_imperial_ring_a.png","bindType":2,"knownIds":[10915]}

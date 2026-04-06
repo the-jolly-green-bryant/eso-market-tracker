@@ -1,10 +1,1 @@
-{
-  "internalId": 2910575634,
-  "name": "Leki's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199400
-  ]
-}
+{"internalId":2910575634,"name":"Leki's Maul","description":"","icon":"data/images/a_/re/mm/gear_abahswatch_2hhammer_a.png","bindType":2,"knownIds":[79776]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2060585869,
-  "name": "Limestone Border, Boulders",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonesmooth009.png",
-  "bindType": -1,
-  "knownIds": [
-    139112
-  ]
-}
+{"internalId":2060585869,"name":"Limestone Border, Boulders","description":"This is a large house item.","icon":"data/images/90/0h/to/housing_rok_sum_limestonesmooth009.png","bindType":-1,"knownIds":[139112]}

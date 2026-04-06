@@ -1,10 +1,1 @@
-{
-  "internalId": 4037350480,
-  "name": "Diagram: Breton Lamp, Oil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    115995
-  ]
-}
+{"internalId":4037350480,"name":"Diagram: Breton Lamp, Oil","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[115995]}

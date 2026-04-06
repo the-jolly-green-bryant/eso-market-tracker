@@ -1,13 +1,1 @@
-{
-  "internalId": 3383275044,
-  "name": "Brass Anklets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_005.png",
-  "bindType": -1,
-  "knownIds": [
-    817436,
-    1379152,
-    817436,
-    1379152
-  ]
-}
+{"internalId":3383275044,"name":"Brass Anklets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_005.png","bindType":-1,"knownIds":[817436,1379152,817436,1379152]}

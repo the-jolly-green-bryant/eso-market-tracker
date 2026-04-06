@@ -1,10 +1,1 @@
-{
-  "internalId": 1631036526,
-  "name": "Dunerunners",
-  "description": "These shoes may come in handy the next time someone asks you to race a windstorm in the desert.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7522
-  ]
-}
+{"internalId":1631036526,"name":"Dunerunners","description":"These shoes may come in handy the next time someone asks you to race a windstorm in the desert.","icon":"data/images/d_/te/ef/gear_redguard_light_feet_d.png","bindType":2,"knownIds":[7522]}

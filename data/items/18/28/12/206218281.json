@@ -1,10 +1,1 @@
-{
-  "internalId": 206218281,
-  "name": "Madcaller's Blade of the Red Mountain",
-  "description": "Stained with the blood of a dozen sacrifices at the Shivering Shrine.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43021
-  ]
-}
+{"internalId":206218281,"name":"Madcaller's Blade of the Red Mountain","description":"Stained with the blood of a dozen sacrifices at the Shivering Shrine.","icon":"data/images/d_/re/gg/gear_argonian_dagger_d.png","bindType":2,"knownIds":[43021]}

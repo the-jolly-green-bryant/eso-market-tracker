@@ -1,10 +1,1 @@
-{
-  "internalId": 2309963988,
-  "name": "Crafting Motif 116: Drowned Mariner Axes",
-  "description": "Use to learn how to make Drowned Mariner Axes. Also teaches the equivalent Drowned Mariner Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    187763
-  ]
-}
+{"internalId":2309963988,"name":"Crafting Motif 116: Drowned Mariner Axes","description":"Use to learn how to make Drowned Mariner Axes. Also teaches the equivalent Drowned Mariner Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[187763]}

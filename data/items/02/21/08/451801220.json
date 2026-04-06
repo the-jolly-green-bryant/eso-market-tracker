@@ -1,10 +1,1 @@
-{
-  "internalId": 451801220,
-  "name": "Woolen Blanket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909277
-  ]
-}
+{"internalId":451801220,"name":"Woolen Blanket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[909277]}

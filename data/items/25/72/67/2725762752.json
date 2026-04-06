@@ -1,10 +1,1 @@
-{
-  "internalId": 2725762752,
-  "name": "Painting of a Waterfall, Refined",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_plain003.png",
-  "bindType": -1,
-  "knownIds": [
-    118140
-  ]
-}
+{"internalId":2725762752,"name":"Painting of a Waterfall, Refined","description":"This is a standard house item.","icon":"data/images/30/0n/ia/housing_bre_inc_painting_plain003.png","bindType":-1,"knownIds":[118140]}

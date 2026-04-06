@@ -1,13 +1,1 @@
-{
-  "internalId": 3619898657,
-  "name": "orichalc-steel dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": -1,
-  "knownIds": [
-    616045,
-    871835,
-    616045,
-    871835
-  ]
-}
+{"internalId":3619898657,"name":"orichalc-steel dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":-1,"knownIds":[616045,871835,616045,871835]}

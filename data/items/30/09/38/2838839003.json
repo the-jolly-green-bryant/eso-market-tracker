@@ -1,10 +1,1 @@
-{
-  "internalId": 2838839003,
-  "name": "Tree, Upstretched Shade",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_castanopsis002.png",
-  "bindType": -1,
-  "knownIds": [
-    139119
-  ]
-}
+{"internalId":2838839003,"name":"Tree, Upstretched Shade","description":"This is a large house item.","icon":"data/images/20/0s/is/housing_tre_sum_castanopsis002.png","bindType":-1,"knownIds":[139119]}

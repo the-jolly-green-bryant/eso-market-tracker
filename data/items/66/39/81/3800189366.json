@@ -1,10 +1,1 @@
-{
-  "internalId": 3800189366,
-  "name": "Clockwork Charging Station, Factotum",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_factotem002.png",
-  "bindType": -1,
-  "knownIds": [
-    134377
-  ]
-}
+{"internalId":3800189366,"name":"Clockwork Charging Station, Factotum","description":"This is a standard house item.","icon":"data/images/20/0m/et/housing_cwc_fur_factotem002.png","bindType":-1,"knownIds":[134377]}

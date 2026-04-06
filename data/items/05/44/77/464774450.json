@@ -1,10 +1,1 @@
-{
-  "internalId": 464774450,
-  "name": "Oracular Sandals",
-  "description": "It doesn't take a prognosticating factotum to know that a good pair of shoes can save you a lot of grief.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133238
-  ]
-}
+{"internalId":464774450,"name":"Oracular Sandals","description":"It doesn't take a prognosticating factotum to know that a good pair of shoes can save you a lot of grief.","icon":"data/images/a_/te/ef/gear_apostle_light_feet_a.png","bindType":2,"knownIds":[133238]}

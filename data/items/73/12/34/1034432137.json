@@ -1,10 +1,1 @@
-{
-  "internalId": 1034432137,
-  "name": "Mine Key",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_key_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366497
-  ]
-}
+{"internalId":1034432137,"name":"Mine Key","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_key_001.png","bindType":-1,"knownIds":[1366497]}

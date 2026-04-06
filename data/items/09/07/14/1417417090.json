@@ -1,10 +1,1 @@
-{
-  "internalId": 1417417090,
-  "name": "Ring of the Armor Master",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140151
-  ]
-}
+{"internalId":1417417090,"name":"Ring of the Armor Master","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140151]}

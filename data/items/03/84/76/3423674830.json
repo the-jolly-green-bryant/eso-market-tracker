@@ -1,10 +1,1 @@
-{
-  "internalId": 3423674830,
-  "name": "Clothier Survey: Stonefalls",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    822761
-  ]
-}
+{"internalId":3423674830,"name":"Clothier Survey: Stonefalls","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[822761]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 477157137,
-  "name": "Vulkhel Guard Harbor Painting",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863073
-  ]
-}
+{"internalId":477157137,"name":"Vulkhel Guard Harbor Painting","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[863073]}

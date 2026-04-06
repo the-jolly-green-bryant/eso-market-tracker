@@ -1,10 +1,1 @@
-{
-  "internalId": 20381041,
-  "name": "Jack of the Night Mother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56375
-  ]
-}
+{"internalId":20381041,"name":"Jack of the Night Mother","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[56375]}

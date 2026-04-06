@@ -1,10 +1,1 @@
-{
-  "internalId": 1611487382,
-  "name": "Kagouti Drinking Horn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1291658
-  ]
-}
+{"internalId":1611487382,"name":"Kagouti Drinking Horn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[1291658]}

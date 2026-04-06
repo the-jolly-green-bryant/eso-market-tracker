@@ -1,10 +1,1 @@
-{
-  "internalId": 2110968514,
-  "name": "Kvatch Dressing Mirror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mirror_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1416052
-  ]
-}
+{"internalId":2110968514,"name":"Kvatch Dressing Mirror","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mirror_001.png","bindType":-1,"knownIds":[1416052]}

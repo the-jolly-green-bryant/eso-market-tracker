@@ -1,10 +1,1 @@
-{
-  "internalId": 383430937,
-  "name": "Statue, Mermaid of Anvil",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_exc_dbhselkiestatue001.png",
-  "bindType": -1,
-  "knownIds": [
-    181485
-  ]
-}
+{"internalId":383430937,"name":"Statue, Mermaid of Anvil","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_nib_exc_dbhselkiestatue001.png","bindType":-1,"knownIds":[181485]}

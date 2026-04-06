@@ -1,12 +1,1 @@
-{
-  "internalId": 4270577323,
-  "name": "Style Page: Horned Dragon Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1274070,
-    1274070,
-    1274070
-  ]
-}
+{"internalId":4270577323,"name":"Style Page: Horned Dragon Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1274070,1274070,1274070]}

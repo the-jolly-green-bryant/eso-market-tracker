@@ -1,10 +1,1 @@
-{
-  "internalId": 174447875,
-  "name": "Grave-Stake Collector Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143132
-  ]
-}
+{"internalId":174447875,"name":"Grave-Stake Collector Dagger","description":"","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[143132]}

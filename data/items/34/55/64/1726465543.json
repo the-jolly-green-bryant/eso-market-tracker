@@ -1,10 +1,1 @@
-{
-  "internalId": 1726465543,
-  "name": "Voidstone Ingot",
-  "description": "An ingredient for crafting metal weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ingot_voidstone.png",
-  "bindType": -1,
-  "knownIds": [
-    46130
-  ]
-}
+{"internalId":1726465543,"name":"Voidstone Ingot","description":"An ingredient for crafting metal weapons.","icon":"data/images/en/ot/sd/crafting_ingot_voidstone.png","bindType":-1,"knownIds":[46130]}

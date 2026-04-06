@@ -1,10 +1,1 @@
-{
-  "internalId": 2697640609,
-  "name": "Jewelry: Witchman Armor",
-  "description": "A Medium Armor set found in The Rift.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134058
-  ]
-}
+{"internalId":2697640609,"name":"Jewelry: Witchman Armor","description":"A Medium Armor set found in The Rift.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134058]}

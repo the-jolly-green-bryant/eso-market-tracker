@@ -1,10 +1,1 @@
-{
-  "internalId": 2725199533,
-  "name": "Cork Discus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    862965
-  ]
-}
+{"internalId":2725199533,"name":"Cork Discus","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[862965]}

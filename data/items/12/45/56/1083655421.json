@@ -1,10 +1,1 @@
-{
-  "internalId": 1083655421,
-  "name": "Dibellan Adoration Ring",
-  "description": "A ring awarded to the \"Most Adored\" of the Blushing Brush.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    217726
-  ]
-}
+{"internalId":1083655421,"name":"Dibellan Adoration Ring","description":"A ring awarded to the \"Most Adored\" of the Blushing Brush.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[217726]}

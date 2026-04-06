@@ -1,10 +1,1 @@
-{
-  "internalId": 727036792,
-  "name": "Ancestor Moth Pupa",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_moth_pupa.png",
-  "bindType": -1,
-  "knownIds": [
-    975154
-  ]
-}
+{"internalId":727036792,"name":"Ancestor Moth Pupa","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_moth_pupa.png","bindType":-1,"knownIds":[975154]}

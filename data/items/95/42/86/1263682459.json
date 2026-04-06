@@ -1,10 +1,1 @@
-{
-  "internalId": 1263682459,
-  "name": "Saxhleel Champion's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1470013
-  ]
-}
+{"internalId":1263682459,"name":"Saxhleel Champion's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1470013]}

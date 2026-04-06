@@ -1,10 +1,1 @@
-{
-  "internalId": 3826951081,
-  "name": "The Wolfguard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    585209
-  ]
-}
+{"internalId":3826951081,"name":"The Wolfguard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":-1,"knownIds":[585209]}

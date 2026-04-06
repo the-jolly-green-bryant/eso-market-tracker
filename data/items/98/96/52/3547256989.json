@@ -1,10 +1,1 @@
-{
-  "internalId": 3547256989,
-  "name": "Fargrave Sausages",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodsausage001.png",
-  "bindType": -1,
-  "knownIds": [
-    182229
-  ]
-}
+{"internalId":3547256989,"name":"Fargrave Sausages","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodsausage001.png","bindType":-1,"knownIds":[182229]}

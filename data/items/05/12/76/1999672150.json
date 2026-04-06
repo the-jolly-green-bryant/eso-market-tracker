@@ -1,10 +1,1 @@
-{
-  "internalId": 1999672150,
-  "name": "Cord of The Shadow Dancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56887
-  ]
-}
+{"internalId":1999672150,"name":"Cord of The Shadow Dancer","description":"","icon":"data/images/d_/ts/ia/gear_bosmer_light_waist_d.png","bindType":2,"knownIds":[56887]}

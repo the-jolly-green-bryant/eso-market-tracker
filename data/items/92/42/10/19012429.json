@@ -1,10 +1,1 @@
-{
-  "internalId": 19012429,
-  "name": "Recipe: Longfin Pasty with Melon Sauce",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68209
-  ]
-}
+{"internalId":19012429,"name":"Recipe: Longfin Pasty with Melon Sauce","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68209]}

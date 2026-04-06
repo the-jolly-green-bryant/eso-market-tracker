@@ -1,10 +1,1 @@
-{
-  "internalId": 1680058682,
-  "name": "Night's Silence Light Armor",
-  "description": "A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182414
-  ]
-}
+{"internalId":1680058682,"name":"Night's Silence Light Armor","description":"A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182414]}

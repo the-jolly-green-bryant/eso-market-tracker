@@ -1,10 +1,1 @@
-{
-  "internalId": 3356567562,
-  "name": "Shared Burden Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215440
-  ]
-}
+{"internalId":3356567562,"name":"Shared Burden Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[215440]}

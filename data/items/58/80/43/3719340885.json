@@ -1,10 +1,1 @@
-{
-  "internalId": 3719340885,
-  "name": "Dragonguard Elite's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155382
-  ]
-}
+{"internalId":3719340885,"name":"Dragonguard Elite's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_2hsword_a.png","bindType":2,"knownIds":[155382]}

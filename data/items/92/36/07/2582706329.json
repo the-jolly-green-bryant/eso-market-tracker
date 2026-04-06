@@ -1,10 +1,1 @@
-{
-  "internalId": 2582706329,
-  "name": "Leyawiin End Table, Formal Round",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leytableroundsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    175611
-  ]
-}
+{"internalId":2582706329,"name":"Leyawiin End Table, Formal Round","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leytableroundsmall001.png","bindType":-1,"knownIds":[175611]}

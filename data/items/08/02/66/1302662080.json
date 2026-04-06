@@ -1,10 +1,1 @@
-{
-  "internalId": 1302662080,
-  "name": "Fellowship's Fortitude Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    216222
-  ]
-}
+{"internalId":1302662080,"name":"Fellowship's Fortitude Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[216222]}

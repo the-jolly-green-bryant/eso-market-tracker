@@ -1,10 +1,1 @@
-{
-  "internalId": 4101534588,
-  "name": "Formula: Redguard Vanity, Florid",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    119174
-  ]
-}
+{"internalId":4101534588,"name":"Formula: Redguard Vanity, Florid","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[119174]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1163531558,
-  "name": "Staff of the Tentacles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    44273
-  ]
-}
+{"internalId":1163531558,"name":"Staff of the Tentacles","description":"","icon":"data/images/c_/ff/at/gear_daedric_staff_c.png","bindType":2,"knownIds":[44273]}

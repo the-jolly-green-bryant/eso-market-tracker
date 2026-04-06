@@ -1,10 +1,1 @@
-{
-  "internalId": 4057172086,
-  "name": "House Dorell Greaves",
-  "description": "Awarded for service to Northpoint above and beyond the call of duty, these leggings bear the crest of House Dorell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7316
-  ]
-}
+{"internalId":4057172086,"name":"House Dorell Greaves","description":"Awarded for service to Northpoint above and beyond the call of duty, these leggings bear the crest of House Dorell.","icon":"data/images/d_/sg/el/gear_orc_heavy_legs_d.png","bindType":2,"knownIds":[7316]}

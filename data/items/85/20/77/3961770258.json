@@ -1,10 +1,1 @@
-{
-  "internalId": 3961770258,
-  "name": "Hat of Destruction Mastery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87451
-  ]
-}
+{"internalId":3961770258,"name":"Hat of Destruction Mastery","description":"","icon":"data/images/d_/da/eh/gear_altmer_light_head_d.png","bindType":2,"knownIds":[87451]}

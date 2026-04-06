@@ -1,10 +1,1 @@
-{
-  "internalId": 3074714748,
-  "name": "Apocrypha Bridge, Small",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_duc_libbridgestraight001.png",
-  "bindType": -1,
-  "knownIds": [
-    203287
-  ]
-}
+{"internalId":3074714748,"name":"Apocrypha Bridge, Small","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_duc_libbridgestraight001.png","bindType":-1,"knownIds":[203287]}

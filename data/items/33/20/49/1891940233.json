@@ -1,10 +1,1 @@
-{
-  "internalId": 1891940233,
-  "name": "Maul of Eternal Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161172
-  ]
-}
+{"internalId":1891940233,"name":"Maul of Eternal Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_2hhammer_a.png","bindType":2,"knownIds":[161172]}

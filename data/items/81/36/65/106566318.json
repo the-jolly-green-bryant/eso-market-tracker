@@ -1,10 +1,1 @@
-{
-  "internalId": 106566318,
-  "name": "Crafting Motif 38: Draugr Helmets",
-  "description": "Use to learn how to make Draugr Helmets. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Draugr Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    76902
-  ]
-}
+{"internalId":106566318,"name":"Crafting Motif 38: Draugr Helmets","description":"Use to learn how to make Draugr Helmets. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Draugr Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[76902]}

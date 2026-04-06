@@ -1,10 +1,1 @@
-{
-  "internalId": 750746675,
-  "name": "Arbiter's Vambraces",
-  "description": "You were given these gauntlets for saving the Mages Guild members and defeating Judge Xiven at the Court of Contempt.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    15737
-  ]
-}
+{"internalId":750746675,"name":"Arbiter's Vambraces","description":"You were given these gauntlets for saving the Mages Guild members and defeating Judge Xiven at the Court of Contempt.","icon":"data/images/a_/sd/na/gear_daedric_heavy_hands_a.png","bindType":2,"knownIds":[15737]}

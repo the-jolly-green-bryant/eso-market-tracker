@@ -1,10 +1,1 @@
-{
-  "internalId": 3059320322,
-  "name": "Necklace of the Potentates",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    87748
-  ]
-}
+{"internalId":3059320322,"name":"Necklace of the Potentates","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[87748]}

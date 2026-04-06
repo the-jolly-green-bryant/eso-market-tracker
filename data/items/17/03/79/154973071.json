@@ -1,10 +1,1 @@
-{
-  "internalId": 154973071,
-  "name": "Solitude Frying Pan, Wood Handle",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_fryingpan002.png",
-  "bindType": -1,
-  "knownIds": [
-    165779
-  ]
-}
+{"internalId":154973071,"name":"Solitude Frying Pan, Wood Handle","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_fryingpan002.png","bindType":-1,"knownIds":[165779]}

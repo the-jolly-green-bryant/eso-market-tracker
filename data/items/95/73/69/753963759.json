@@ -1,10 +1,1 @@
-{
-  "internalId": 753963759,
-  "name": "Wooden Tool Set",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1367497
-  ]
-}
+{"internalId":753963759,"name":"Wooden Tool Set","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1367497]}

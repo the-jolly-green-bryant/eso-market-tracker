@@ -1,11 +1,1 @@
-{
-  "internalId": 4255873023,
-  "name": "Polished Sleeping Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    796968,
-    796968
-  ]
-}
+{"internalId":4255873023,"name":"Polished Sleeping Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[796968,796968]}

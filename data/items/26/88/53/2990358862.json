@@ -1,10 +1,1 @@
-{
-  "internalId": 2990358862,
-  "name": "Clockwork Lectern, Empty",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_podium001.png",
-  "bindType": -1,
-  "knownIds": [
-    134340
-  ]
-}
+{"internalId":2990358862,"name":"Clockwork Lectern, Empty","description":"This is a small house item.","icon":"data/images/10/0m/ui/housing_cwc_fur_podium001.png","bindType":-1,"knownIds":[134340]}

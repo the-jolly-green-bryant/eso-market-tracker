@@ -1,10 +1,1 @@
-{
-  "internalId": 1791751814,
-  "name": "Hat of Critical Riposte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    158674
-  ]
-}
+{"internalId":1791751814,"name":"Hat of Critical Riposte","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png","bindType":2,"knownIds":[158674]}

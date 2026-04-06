@@ -1,10 +1,1 @@
-{
-  "internalId": 3394996286,
-  "name": "Chapbook of Stendarr",
-  "description": "Bound with leather, this religious tome is a reverential contemplation of Stendarr the Steadfast. This gift for Isobel is more appreciated when used during Hearts Week.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_isobel.png",
-  "bindType": -1,
-  "knownIds": [
-    220370
-  ]
-}
+{"internalId":3394996286,"name":"Chapbook of Stendarr","description":"Bound with leather, this religious tome is a reverential contemplation of Stendarr the Steadfast. This gift for Isobel is more appreciated when used during Hearts Week.","icon":"https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_isobel.png","bindType":-1,"knownIds":[220370]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 832235214,
-  "name": "Potent Nirncrux",
-  "description": "Can be used to enhance weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potent_nirncrux_dust.png",
-  "bindType": -1,
-  "knownIds": [
-    56863
-  ]
-}
+{"internalId":832235214,"name":"Potent Nirncrux","description":"Can be used to enhance weapons.","icon":"data/images/ts/ud/_x/crafting_potent_nirncrux_dust.png","bindType":-1,"knownIds":[56863]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3696143197,
-  "name": "Blacksmith Survey: Craglorn II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    823242
-  ]
-}
+{"internalId":3696143197,"name":"Blacksmith Survey: Craglorn II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[823242]}

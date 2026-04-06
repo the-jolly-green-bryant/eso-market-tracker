@@ -1,10 +1,1 @@
-{
-  "internalId": 3191167475,
-  "name": "Steel Calipers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860496
-  ]
-}
+{"internalId":3191167475,"name":"Steel Calipers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[860496]}

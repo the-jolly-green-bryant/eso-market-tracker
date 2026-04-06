@@ -1,10 +1,1 @@
-{
-  "internalId": 2658226680,
-  "name": "Diagram: Hakoshae Hook, Block",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    152106
-  ]
-}
+{"internalId":2658226680,"name":"Diagram: Hakoshae Hook, Block","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[152106]}

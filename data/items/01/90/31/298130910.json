@@ -1,10 +1,1 @@
-{
-  "internalId": 298130910,
-  "name": "Gold Coast Gauntlets",
-  "description": "These gauntlets were once fashionable amongst Colovian knights. A mild enchantment quickly clots the blood for minor wounds.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    54864
-  ]
-}
+{"internalId":298130910,"name":"Gold Coast Gauntlets","description":"These gauntlets were once fashionable amongst Colovian knights. A mild enchantment quickly clots the blood for minor wounds.","icon":"data/images/d_/sd/na/gear_nord_heavy_hands_d.png","bindType":2,"knownIds":[54864]}

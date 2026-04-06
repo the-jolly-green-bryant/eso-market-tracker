@@ -1,10 +1,1 @@
-{
-  "internalId": 1054123120,
-  "name": "Curse of Doylemish Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1342211
-  ]
-}
+{"internalId":1054123120,"name":"Curse of Doylemish Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_scalecaller_staff_a.png","bindType":-1,"knownIds":[1342211]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 820917192,
-  "name": "Leyawiin Meal, Clams",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplate003.png",
-  "bindType": -1,
-  "knownIds": [
-    175684
-  ]
-}
+{"internalId":820917192,"name":"Leyawiin Meal, Clams","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplate003.png","bindType":-1,"knownIds":[175684]}

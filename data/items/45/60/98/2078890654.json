@@ -1,10 +1,1 @@
-{
-  "internalId": 2078890654,
-  "name": "The Imperfect's Core Functions",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1188132
-  ]
-}
+{"internalId":2078890654,"name":"The Imperfect's Core Functions","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1188132]}

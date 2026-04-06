@@ -1,10 +1,1 @@
-{
-  "internalId": 357700143,
-  "name": "Rough Crate, Open",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_crate004.png",
-  "bindType": -1,
-  "knownIds": [
-    117930
-  ]
-}
+{"internalId":357700143,"name":"Rough Crate, Open","description":"This is a standard house item.","icon":"data/images/40/0e/ta/housing_bre_con_crate004.png","bindType":-1,"knownIds":[117930]}

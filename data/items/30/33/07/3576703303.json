@@ -1,16 +1,1 @@
-{
-  "internalId": 3576703303,
-  "name": "Ulfnor's Favor Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1257790,
-    1520443,
-    1556243,
-    1594734,
-    1605736,
-    1641617,
-    1731428
-  ]
-}
+{"internalId":3576703303,"name":"Ulfnor's Favor Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_staff_a.png","bindType":-1,"knownIds":[1257790,1520443,1556243,1594734,1605736,1641617,1731428]}

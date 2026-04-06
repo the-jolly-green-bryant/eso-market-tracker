@@ -1,10 +1,1 @@
-{
-  "internalId": 786551136,
-  "name": "Flint",
-  "description": "An ingredient for crafting in the Argonian style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_potion_standard_f_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33150
-  ]
-}
+{"internalId":786551136,"name":"Flint","description":"An ingredient for crafting in the Argonian style.","icon":"data/images/20/0_/f_/crafting_smith_potion_standard_f_002.png","bindType":-1,"knownIds":[33150]}

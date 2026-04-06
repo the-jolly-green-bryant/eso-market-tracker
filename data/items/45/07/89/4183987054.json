@@ -1,10 +1,1 @@
-{
-  "internalId": 4183987054,
-  "name": "Gryphon's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    135494
-  ]
-}
+{"internalId":4183987054,"name":"Gryphon's Inferno Staff","description":"","icon":"data/images/c_/ff/at/gear_ancient_elf_staff_c.png","bindType":2,"knownIds":[135494]}

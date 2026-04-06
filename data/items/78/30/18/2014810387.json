@@ -1,10 +1,1 @@
-{
-  "internalId": 2014810387,
-  "name": "Seeker Aspirant Tapestry, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryseekeraspirant001.png",
-  "bindType": -1,
-  "knownIds": [
-    199115
-  ]
-}
+{"internalId":2014810387,"name":"Seeker Aspirant Tapestry, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryseekeraspirant001.png","bindType":-1,"knownIds":[199115]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3905347215,
-  "name": "Infected Flesh",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_potion_002.png",
-  "bindType": -1,
-  "knownIds": [
-    137961
-  ]
-}
+{"internalId":3905347215,"name":"Infected Flesh","description":"","icon":"data/images/20/0_/no/crafting_outfitter_potion_002.png","bindType":-1,"knownIds":[137961]}

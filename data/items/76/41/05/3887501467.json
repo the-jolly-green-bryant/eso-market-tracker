@@ -1,10 +1,1 @@
-{
-  "internalId": 3887501467,
-  "name": "Vastarie's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    149024
-  ]
-}
+{"internalId":3887501467,"name":"Vastarie's Mace","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[149024]}

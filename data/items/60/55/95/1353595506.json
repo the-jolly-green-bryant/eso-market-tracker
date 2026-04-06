@@ -1,10 +1,1 @@
-{
-  "internalId": 1353595506,
-  "name": "Redguard Divider, Florid",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_screen001.png",
-  "bindType": -1,
-  "knownIds": [
-    117718
-  ]
-}
+{"internalId":1353595506,"name":"Redguard Divider, Florid","description":"This is a standard house item.","icon":"data/images/10/0n/ee/housing_red_fur_screen001.png","bindType":-1,"knownIds":[117718]}

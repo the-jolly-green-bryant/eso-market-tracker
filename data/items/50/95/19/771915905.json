@@ -1,10 +1,1 @@
-{
-  "internalId": 771915905,
-  "name": "Jewelry: Z'en's Redress",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1364194
-  ]
-}
+{"internalId":771915905,"name":"Jewelry: Z'en's Redress","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1364194]}

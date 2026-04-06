@@ -1,10 +1,1 @@
-{
-  "internalId": 3685476650,
-  "name": "Imperial Carpet, Verdant Dibella",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhrugdibellarectangularflower002.png",
-  "bindType": -1,
-  "knownIds": [
-    94189
-  ]
-}
+{"internalId":3685476650,"name":"Imperial Carpet, Verdant Dibella","description":"This is a standard house item.","icon":"data/images/20/0r/ew/housing_col_inc_dbhrugdibellarectangularflower002.png","bindType":-1,"knownIds":[94189]}

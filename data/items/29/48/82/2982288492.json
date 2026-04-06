@@ -1,10 +1,1 @@
-{
-  "internalId": 2982288492,
-  "name": "Exemplary Nirnhoned Helmet",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Helmet.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81632
-  ]
-}
+{"internalId":2982288492,"name":"Exemplary Nirnhoned Helmet","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Helmet.","icon":"data/images/d_/da/eh/gear_breton_medium_head_d.png","bindType":-1,"knownIds":[81632]}

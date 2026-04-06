@@ -1,10 +1,1 @@
-{
-  "internalId": 2397702806,
-  "name": "Su-Zahleel Dowsing Rod",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1350304
-  ]
-}
+{"internalId":2397702806,"name":"Su-Zahleel Dowsing Rod","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png","bindType":-1,"knownIds":[1350304]}

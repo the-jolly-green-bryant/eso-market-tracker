@@ -1,10 +1,1 @@
-{
-  "internalId": 1646387248,
-  "name": "Master Alchemy Writ",
-  "description": "An exclusive, secret contract for a specific concoction.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_alchemy.png",
-  "bindType": -1,
-  "knownIds": [
-    119820
-  ]
-}
+{"internalId":1646387248,"name":"Master Alchemy Writ","description":"An exclusive, secret contract for a specific concoction.","icon":"data/images/ym/eh/cl/master_writ_alchemy.png","bindType":-1,"knownIds":[119820]}

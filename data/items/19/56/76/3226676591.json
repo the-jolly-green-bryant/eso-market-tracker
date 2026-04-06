@@ -1,17 +1,1 @@
-{
-  "internalId": 3226676591,
-  "name": "Saxhleel Champion's Perfected Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_1hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1522367,
-    1526605,
-    1610460,
-    1679296,
-    1522367,
-    1526605,
-    1610460,
-    1679296
-  ]
-}
+{"internalId":3226676591,"name":"Saxhleel Champion's Perfected Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_1hhammer_a.png","bindType":-1,"knownIds":[1522367,1526605,1610460,1679296,1522367,1526605,1610460,1679296]}

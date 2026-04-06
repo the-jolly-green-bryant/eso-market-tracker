@@ -1,10 +1,1 @@
-{
-  "internalId": 1302809808,
-  "name": "Silver Knuckle-Stamp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_betnikh_clenched_orc_fist.png",
-  "bindType": -1,
-  "knownIds": [
-    808612
-  ]
-}
+{"internalId":1302809808,"name":"Silver Knuckle-Stamp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_betnikh_clenched_orc_fist.png","bindType":-1,"knownIds":[808612]}

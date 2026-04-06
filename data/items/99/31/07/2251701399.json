@@ -1,10 +1,1 @@
-{
-  "internalId": 2251701399,
-  "name": "Body Cage",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_bodycageempty001.png",
-  "bindType": -1,
-  "knownIds": [
-    120824
-  ]
-}
+{"internalId":2251701399,"name":"Body Cage","description":"This is a standard house item.","icon":"data/images/10/0y/tp/housing_coh_inc_bodycageempty001.png","bindType":-1,"knownIds":[120824]}

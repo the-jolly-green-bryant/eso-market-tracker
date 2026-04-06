@@ -1,10 +1,1 @@
-{
-  "internalId": 2917496025,
-  "name": "Monomyth: Lorkhan and Satakal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1095912
-  ]
-}
+{"internalId":2917496025,"name":"Monomyth: Lorkhan and Satakal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png","bindType":-1,"knownIds":[1095912]}

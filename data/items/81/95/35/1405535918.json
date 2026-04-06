@@ -1,10 +1,1 @@
-{
-  "internalId": 1405535918,
-  "name": "Shatter-Shard of Mehrunes' Razor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mehrunesrazor_base.png",
-  "bindType": -1,
-  "knownIds": [
-    906604
-  ]
-}
+{"internalId":1405535918,"name":"Shatter-Shard of Mehrunes' Razor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mehrunesrazor_base.png","bindType":-1,"knownIds":[906604]}

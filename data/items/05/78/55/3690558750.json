@@ -1,10 +1,1 @@
-{
-  "internalId": 3690558750,
-  "name": "Redfur Trading Gloves",
-  "description": "These gloves are well maintained, despite years of use. An advertisement for Redfur Trading Post is stitched within.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1731
-  ]
-}
+{"internalId":3690558750,"name":"Redfur Trading Gloves","description":"These gloves are well maintained, despite years of use. An advertisement for Redfur Trading Post is stitched within.","icon":"data/images/d_/sd/na/gear_bosmer_medium_hands_d.png","bindType":2,"knownIds":[1731]}

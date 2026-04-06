@@ -1,10 +1,1 @@
-{
-  "internalId": 2479266684,
-  "name": "Banner, Tattered Blue",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_blankbannertattered002.png",
-  "bindType": -1,
-  "knownIds": [
-    120997
-  ]
-}
+{"internalId":2479266684,"name":"Banner, Tattered Blue","description":"This is a standard house item.","icon":"data/images/20/0d/er/housing_gen_lsb_blankbannertattered002.png","bindType":-1,"knownIds":[120997]}

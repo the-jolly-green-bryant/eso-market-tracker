@@ -1,10 +1,1 @@
-{
-  "internalId": 1854887026,
-  "name": "Seventh Legion's Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100930
-  ]
-}
+{"internalId":1854887026,"name":"Seventh Legion's Girdle","description":"","icon":"data/images/d_/ts/ia/gear_orc_heavy_waist_d.png","bindType":2,"knownIds":[100930]}

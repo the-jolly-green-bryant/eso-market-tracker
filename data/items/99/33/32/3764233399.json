@@ -1,10 +1,1 @@
-{
-  "internalId": 3764233399,
-  "name": "Map-Hunter's Curved Blade",
-  "description": "A gift from a Dufort captain in memory of the late map hunter, Rhadha.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    188128
-  ]
-}
+{"internalId":3764233399,"name":"Map-Hunter's Curved Blade","description":"A gift from a Dufort captain in memory of the late map hunter, Rhadha.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hsword_d.png","bindType":2,"knownIds":[188128]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3824809461,
-  "name": "Undaunted Box: Depths of Malatar",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    190276
-  ]
-}
+{"internalId":3824809461,"name":"Undaunted Box: Depths of Malatar","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[190276]}

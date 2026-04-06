@@ -1,10 +1,1 @@
-{
-  "internalId": 765068861,
-  "name": "Tarnished Serving Tray",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tray_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1291659
-  ]
-}
+{"internalId":765068861,"name":"Tarnished Serving Tray","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tray_001.png","bindType":-1,"knownIds":[1291659]}

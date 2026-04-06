@@ -1,13 +1,1 @@
-{
-  "internalId": 994950228,
-  "name": "Dominion Forward Camp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_006.png",
-  "bindType": -1,
-  "knownIds": [
-    1161598,
-    1288449,
-    1161598,
-    1288449
-  ]
-}
+{"internalId":994950228,"name":"Dominion Forward Camp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_006.png","bindType":-1,"knownIds":[1161598,1288449,1161598,1288449]}

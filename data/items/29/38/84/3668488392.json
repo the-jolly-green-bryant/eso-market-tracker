@@ -1,10 +1,1 @@
-{
-  "internalId": 3668488392,
-  "name": "Necklace of the Heartland",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    88532
-  ]
-}
+{"internalId":3668488392,"name":"Necklace of the Heartland","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[88532]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4090572805,
-  "name": "Bouquet, Medium Dibella's",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_romanticvase001.png",
-  "bindType": -1,
-  "knownIds": [
-    156777
-  ]
-}
+{"internalId":4090572805,"name":"Bouquet, Medium Dibella's","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_romanticvase001.png","bindType":-1,"knownIds":[156777]}

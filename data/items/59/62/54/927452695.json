@@ -1,10 +1,1 @@
-{
-  "internalId": 927452695,
-  "name": "Breton Chamberstick, Short",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candleholdershort001.png",
-  "bindType": -1,
-  "knownIds": [
-    116376
-  ]
-}
+{"internalId":927452695,"name":"Breton Chamberstick, Short","description":"This is a tiny house item.","icon":"data/images/10/0t/ro/housing_bre_lsb_candleholdershort001.png","bindType":-1,"knownIds":[116376]}

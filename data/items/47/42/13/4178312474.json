@@ -1,11 +1,1 @@
-{
-  "internalId": 4178312474,
-  "name": "MONSTER: Stonekeeper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1411090,
-    1411090
-  ]
-}
+{"internalId":4178312474,"name":"MONSTER: Stonekeeper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1411090,1411090]}

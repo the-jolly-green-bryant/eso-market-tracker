@@ -1,10 +1,1 @@
-{
-  "internalId": 3342924877,
-  "name": "Design: Khajiit Flask, Amber",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    116088
-  ]
-}
+{"internalId":3342924877,"name":"Design: Khajiit Flask, Amber","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[116088]}

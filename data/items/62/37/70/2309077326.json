@@ -1,10 +1,1 @@
-{
-  "internalId": 2309077326,
-  "name": "Mud Ball",
-  "description": "A single gooey mud ball, ready for tossing at an unsuspecting target.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/collectible_memento_mudball_bag.png",
-  "bindType": -1,
-  "knownIds": [
-    96959
-  ]
-}
+{"internalId":2309077326,"name":"Mud Ball","description":"A single gooey mud ball, ready for tossing at an unsuspecting target.","icon":"data/images/ga/b_/ll/collectible_memento_mudball_bag.png","bindType":-1,"knownIds":[96959]}

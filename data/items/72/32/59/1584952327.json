@@ -1,10 +1,1 @@
-{
-  "internalId": 1584952327,
-  "name": "Big-Eared Ginger Kitten's Collar",
-  "description": "This is one of seven parts of the Big-Eared Ginger Kitten. Use to advance the eponymous achievement.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_collar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    139450
-  ]
-}
+{"internalId":1584952327,"name":"Big-Eared Ginger Kitten's Collar","description":"This is one of seven parts of the Big-Eared Ginger Kitten. Use to advance the eponymous achievement.","icon":"data/images/10/0_/ra/justice_stolen_collar_001.png","bindType":-1,"knownIds":[139450]}

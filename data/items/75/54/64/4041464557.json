@@ -1,10 +1,1 @@
-{
-  "internalId": 4041464557,
-  "name": "Medallion of Bats",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_bats_medallion.png",
-  "bindType": -1,
-  "knownIds": [
-    1379715
-  ]
-}
+{"internalId":4041464557,"name":"Medallion of Bats","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_bats_medallion.png","bindType":-1,"knownIds":[1379715]}

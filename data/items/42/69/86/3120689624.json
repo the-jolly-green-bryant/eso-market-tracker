@@ -1,10 +1,1 @@
-{
-  "internalId": 3120689624,
-  "name": "Tree, Small Willow",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_whitewillow003.png",
-  "bindType": -1,
-  "knownIds": [
-    211512
-  ]
-}
+{"internalId":3120689624,"name":"Tree, Small Willow","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_whitewillow003.png","bindType":-1,"knownIds":[211512]}

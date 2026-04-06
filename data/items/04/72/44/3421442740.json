@@ -1,17 +1,1 @@
-{
-  "internalId": 3421442740,
-  "name": "Pyrebrand Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_axe.png",
-  "bindType": -1,
-  "knownIds": [
-    1732212,
-    1732999,
-    1735118,
-    1779073,
-    1732212,
-    1732999,
-    1735118,
-    1779073
-  ]
-}
+{"internalId":3421442740,"name":"Pyrebrand Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_axe.png","bindType":-1,"knownIds":[1732212,1732999,1735118,1779073,1732212,1732999,1735118,1779073]}

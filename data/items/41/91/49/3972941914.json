@@ -1,10 +1,1 @@
-{
-  "internalId": 3972941914,
-  "name": "Greatsword of Hist Bark",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56528
-  ]
-}
+{"internalId":3972941914,"name":"Greatsword of Hist Bark","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[56528]}

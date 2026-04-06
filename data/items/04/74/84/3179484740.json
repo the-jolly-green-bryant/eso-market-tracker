@@ -1,13 +1,1 @@
-{
-  "internalId": 3179484740,
-  "name": "orichalc-steel greatsword of frost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    719341,
-    462128,
-    719341,
-    462128
-  ]
-}
+{"internalId":3179484740,"name":"orichalc-steel greatsword of frost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":-1,"knownIds":[719341,462128,719341,462128]}

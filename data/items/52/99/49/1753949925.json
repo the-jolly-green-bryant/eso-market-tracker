@@ -1,10 +1,1 @@
-{
-  "internalId": 1753949925,
-  "name": "Apocrypha Fence, Curved Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_waf_libwallsmallplatformcurve001.png",
-  "bindType": -1,
-  "knownIds": [
-    203309
-  ]
-}
+{"internalId":1753949925,"name":"Apocrypha Fence, Curved Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_waf_libwallsmallplatformcurve001.png","bindType":-1,"knownIds":[203309]}

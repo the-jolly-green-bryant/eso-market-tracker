@@ -1,10 +1,1 @@
-{
-  "internalId": 2199156249,
-  "name": "Pattern: Funerary Offering, Ribbon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    197765
-  ]
-}
+{"internalId":2199156249,"name":"Pattern: Funerary Offering, Ribbon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[197765]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2967200139,
-  "name": "Berveza Vitae",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33459
-  ]
-}
+{"internalId":2967200139,"name":"Berveza Vitae","description":"","icon":"data/images/30/0_/re/crafting_beer_003.png","bindType":-1,"knownIds":[33459]}

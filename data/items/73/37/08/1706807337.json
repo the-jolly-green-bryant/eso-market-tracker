@@ -1,10 +1,1 @@
-{
-  "internalId": 1706807337,
-  "name": "Chromatic Reservoir Tapestry, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrychromaticreservoirsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    199117
-  ]
-}
+{"internalId":1706807337,"name":"Chromatic Reservoir Tapestry, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrychromaticreservoirsmall001.png","bindType":-1,"knownIds":[199117]}

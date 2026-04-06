@@ -1,10 +1,1 @@
-{
-  "internalId": 1733772181,
-  "name": "Banner of House Dagoth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_house_dagoth_banner.png",
-  "bindType": -1,
-  "knownIds": [
-    1278822
-  ]
-}
+{"internalId":1733772181,"name":"Banner of House Dagoth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_house_dagoth_banner.png","bindType":-1,"knownIds":[1278822]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4263478627,
-  "name": "Summer Sky Pale Ale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
-  "bindType": -1,
-  "knownIds": [
-    61073
-  ]
-}
+{"internalId":4263478627,"name":"Summer Sky Pale Ale","description":"","icon":"data/images/30/0_/re/crafting_beer_003.png","bindType":-1,"knownIds":[61073]}

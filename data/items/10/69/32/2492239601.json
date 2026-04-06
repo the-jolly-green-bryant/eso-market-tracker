@@ -1,10 +1,1 @@
-{
-  "internalId": 2492239601,
-  "name": "High Hrothgar Festival Mints",
-  "description": "These breath mints are supposedly concocted at a remote mountain peak. Chewing a handful produces a glacial sensation and an exceptionally frosty breath.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_gems_welkynd.png",
-  "bindType": -1,
-  "knownIds": [
-    112442
-  ]
-}
+{"internalId":2492239601,"name":"High Hrothgar Festival Mints","description":"These breath mints are supposedly concocted at a remote mountain peak. Chewing a handful produces a glacial sensation and an exceptionally frosty breath.","icon":"data/images/dn/yk/le/crafting_gems_welkynd.png","bindType":-1,"knownIds":[112442]}

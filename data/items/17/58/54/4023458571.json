@@ -1,10 +1,1 @@
-{
-  "internalId": 4023458571,
-  "name": "Daedric Throne, Skulls",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_throne001.png",
-  "bindType": -1,
-  "knownIds": [
-    126570
-  ]
-}
+{"internalId":4023458571,"name":"Daedric Throne, Skulls","description":"This is a standard house item.","icon":"data/images/10/0e/no/housing_coh_inc_throne001.png","bindType":-1,"knownIds":[126570]}

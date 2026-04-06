@@ -1,10 +1,1 @@
-{
-  "internalId": 360605824,
-  "name": "Knight-Errant's Mail",
-  "description": "A Heavy Armor set found in Blackheart Haven.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114214
-  ]
-}
+{"internalId":360605824,"name":"Knight-Errant's Mail","description":"A Heavy Armor set found in Blackheart Haven.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114214]}

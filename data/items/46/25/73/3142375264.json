@@ -1,10 +1,1 @@
-{
-  "internalId": 3142375264,
-  "name": "Orcish Curtain, Folding",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_roomdivder001.png",
-  "bindType": -1,
-  "knownIds": [
-    116385
-  ]
-}
+{"internalId":3142375264,"name":"Orcish Curtain, Folding","description":"This is a standard house item.","icon":"data/images/10/0r/ed/housing_orc_fur_roomdivder001.png","bindType":-1,"knownIds":[116385]}

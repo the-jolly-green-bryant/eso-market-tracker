@@ -1,10 +1,1 @@
-{
-  "internalId": 2278586375,
-  "name": "Praxis: Apocrypha Podium, Candlelit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    197849
-  ]
-}
+{"internalId":2278586375,"name":"Praxis: Apocrypha Podium, Candlelit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[197849]}

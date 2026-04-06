@@ -1,10 +1,1 @@
-{
-  "internalId": 3479961926,
-  "name": "Dwarven Spider Legs, Inoperative",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_spiderlegpile001.png",
-  "bindType": -1,
-  "knownIds": [
-    159455
-  ]
-}
+{"internalId":3479961926,"name":"Dwarven Spider Legs, Inoperative","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_spiderlegpile001.png","bindType":-1,"knownIds":[159455]}

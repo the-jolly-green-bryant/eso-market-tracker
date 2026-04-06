@@ -1,10 +1,1 @@
-{
-  "internalId": 1831185404,
-  "name": "Breton Lightpost, Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_postlightbaseless002.png",
-  "bindType": -1,
-  "knownIds": [
-    115175
-  ]
-}
+{"internalId":1831185404,"name":"Breton Lightpost, Arched","description":"This is a standard house item.","icon":"data/images/20/0s/se/housing_bre_lsb_postlightbaseless002.png","bindType":-1,"knownIds":[115175]}

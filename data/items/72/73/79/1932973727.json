@@ -1,10 +1,1 @@
-{
-  "internalId": 1932973727,
-  "name": "Design: Grub Kebabs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    145972
-  ]
-}
+{"internalId":1932973727,"name":"Design: Grub Kebabs","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[145972]}

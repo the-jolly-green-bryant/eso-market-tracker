@@ -1,10 +1,1 @@
-{
-  "internalId": 2000077556,
-  "name": "High Isle Hourglass, Gold",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_hourglass001.png",
-  "bindType": -1,
-  "knownIds": [
-    189470
-  ]
-}
+{"internalId":2000077556,"name":"High Isle Hourglass, Gold","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_hourglass001.png","bindType":-1,"knownIds":[189470]}

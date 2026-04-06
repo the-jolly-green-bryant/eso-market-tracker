@@ -1,10 +1,1 @@
-{
-  "internalId": 602403329,
-  "name": "Necklace of Julianos",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140194
-  ]
-}
+{"internalId":602403329,"name":"Necklace of Julianos","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[140194]}

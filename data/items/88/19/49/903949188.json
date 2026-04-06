@@ -1,10 +1,1 @@
-{
-  "internalId": 903949188,
-  "name": "Focus Script: Healing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_healing.png",
-  "bindType": -1,
-  "knownIds": [
-    204566
-  ]
-}
+{"internalId":903949188,"name":"Focus Script: Healing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_healing.png","bindType":-1,"knownIds":[204566]}

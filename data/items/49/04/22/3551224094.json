@@ -1,10 +1,1 @@
-{
-  "internalId": 3551224094,
-  "name": "Blueprint: Deadlands Table, Ashen Wide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    176032
-  ]
-}
+{"internalId":3551224094,"name":"Blueprint: Deadlands Table, Ashen Wide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[176032]}

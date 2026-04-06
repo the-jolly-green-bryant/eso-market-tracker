@@ -1,10 +1,1 @@
-{
-  "internalId": 774530350,
-  "name": "Elsweyr Rolling Pin, Well-Worn",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_flourroller001.png",
-  "bindType": -1,
-  "knownIds": [
-    151643
-  ]
-}
+{"internalId":774530350,"name":"Elsweyr Rolling Pin, Well-Worn","description":"This is a small house item.","icon":"data/images/10/0r/el/housing_els_inc_flourroller001.png","bindType":-1,"knownIds":[151643]}

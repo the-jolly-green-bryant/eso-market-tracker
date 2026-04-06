@@ -1,10 +1,1 @@
-{
-  "internalId": 3191660491,
-  "name": "Crafter's Style Materials Crate II",
-  "description": "This crate is laden with the materials to make equipment in every style from Imperial City through Murkmire.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    190970
-  ]
-}
+{"internalId":3191660491,"name":"Crafter's Style Materials Crate II","description":"This crate is laden with the materials to make equipment in every style from Imperial City through Murkmire.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[190970]}

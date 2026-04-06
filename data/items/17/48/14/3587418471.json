@@ -1,10 +1,1 @@
-{
-  "internalId": 3587418471,
-  "name": "Serpent Door, Metal",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_duc_serpentcavedoormetal001.png",
-  "bindType": -1,
-  "knownIds": [
-    210881
-  ]
-}
+{"internalId":3587418471,"name":"Serpent Door, Metal","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cra_duc_serpentcavedoormetal001.png","bindType":-1,"knownIds":[210881]}

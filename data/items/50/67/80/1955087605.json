@@ -1,10 +1,1 @@
-{
-  "internalId": 1955087605,
-  "name": "Unfinished Torment Cuirass",
-  "description": "This torture implement was never completed. Without the spikes fastened to the inside, it serves as a functional cuirass.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    54985
-  ]
-}
+{"internalId":1955087605,"name":"Unfinished Torment Cuirass","description":"This torture implement was never completed. Without the spikes fastened to the inside, it serves as a functional cuirass.","icon":"data/images/d_/ts/eh/gear_khajiit_heavy_chest_d.png","bindType":2,"knownIds":[54985]}

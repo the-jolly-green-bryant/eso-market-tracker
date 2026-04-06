@@ -1,10 +1,1 @@
-{
-  "internalId": 2165684072,
-  "name": "rawhide arm cops of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    477719
-  ]
-}
+{"internalId":2165684072,"name":"rawhide arm cops of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png","bindType":-1,"knownIds":[477719]}

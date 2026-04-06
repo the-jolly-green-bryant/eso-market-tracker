@@ -1,10 +1,1 @@
-{
-  "internalId": 3442747264,
-  "name": "Clan's Pride Necklace",
-  "description": "The historian Maaga was so thankful to learn which Orc clan was responsible for sacking the Chauvry estate that he awarded this necklace.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54475
-  ]
-}
+{"internalId":3442747264,"name":"Clan's Pride Necklace","description":"The historian Maaga was so thankful to learn which Orc clan was responsible for sacking the Chauvry estate that he awarded this necklace.","icon":"data/images/a_/kc/en/gear_orc_neck_a.png","bindType":2,"knownIds":[54475]}

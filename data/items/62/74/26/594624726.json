@@ -1,10 +1,1 @@
-{
-  "internalId": 594624726,
-  "name": "Leyawiin Sconce, Lantern",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leyhanginglantern002.png",
-  "bindType": -1,
-  "knownIds": [
-    175636
-  ]
-}
+{"internalId":594624726,"name":"Leyawiin Sconce, Lantern","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leyhanginglantern002.png","bindType":-1,"knownIds":[175636]}

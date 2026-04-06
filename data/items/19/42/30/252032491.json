@@ -1,10 +1,1 @@
-{
-  "internalId": 252032491,
-  "name": "Leyawiin Amphora, Elegant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenlopot003.png",
-  "bindType": -1,
-  "knownIds": [
-    175663
-  ]
-}
+{"internalId":252032491,"name":"Leyawiin Amphora, Elegant","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenlopot003.png","bindType":-1,"knownIds":[175663]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3097570934,
-  "name": "House Cousin's Cowl",
-  "description": "A cowl that shields the wearer from the elements and from fatigue.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7385
-  ]
-}
+{"internalId":3097570934,"name":"House Cousin's Cowl","description":"A cowl that shields the wearer from the elements and from fatigue.","icon":"data/images/d_/da/eh/gear_dunmer_medium_head_d.png","bindType":2,"knownIds":[7385]}

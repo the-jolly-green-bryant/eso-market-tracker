@@ -1,10 +1,1 @@
-{
-  "internalId": 3898353739,
-  "name": "Defiler's Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123140
-  ]
-}
+{"internalId":3898353739,"name":"Defiler's Bracers","description":"","icon":"data/images/a_/sd/na/gear_hlaalu_medium_hands_a.png","bindType":2,"knownIds":[123140]}

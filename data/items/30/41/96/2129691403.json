@@ -1,10 +1,1 @@
-{
-  "internalId": 2129691403,
-  "name": "Telvanni Knife, Wooden",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_knife001.png",
-  "bindType": -1,
-  "knownIds": [
-    197646
-  ]
-}
+{"internalId":2129691403,"name":"Telvanni Knife, Wooden","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_knife001.png","bindType":-1,"knownIds":[197646]}

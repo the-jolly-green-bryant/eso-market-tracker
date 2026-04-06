@@ -1,10 +1,1 @@
-{
-  "internalId": 2511933903,
-  "name": "Origin of the Mages Guild",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1199311
-  ]
-}
+{"internalId":2511933903,"name":"Origin of the Mages Guild","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1199311]}

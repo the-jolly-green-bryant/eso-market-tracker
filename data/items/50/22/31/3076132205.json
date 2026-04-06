@@ -1,10 +1,1 @@
-{
-  "internalId": 3076132205,
-  "name": "Bloodthorn Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_shield_c.png",
-  "bindType": 2,
-  "knownIds": [
-    96557
-  ]
-}
+{"internalId":3076132205,"name":"Bloodthorn Shield","description":"","icon":"data/images/c_/dl/ei/gear_primative_shield_c.png","bindType":2,"knownIds":[96557]}

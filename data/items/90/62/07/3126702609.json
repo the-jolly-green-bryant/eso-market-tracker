@@ -1,10 +1,1 @@
-{
-  "internalId": 3126702609,
-  "name": "Soul Gems, Scattered",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_soulgempile003.png",
-  "bindType": -1,
-  "knownIds": [
-    130080
-  ]
-}
+{"internalId":3126702609,"name":"Soul Gems, Scattered","description":"This is a small house item.","icon":"data/images/30/0e/li/housing_cld_inc_soulgempile003.png","bindType":-1,"knownIds":[130080]}

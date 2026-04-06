@@ -1,10 +1,1 @@
-{
-  "internalId": 1449848913,
-  "name": "Ruby Fetcherfly Pendant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1166961
-  ]
-}
+{"internalId":1449848913,"name":"Ruby Fetcherfly Pendant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png","bindType":-1,"knownIds":[1166961]}

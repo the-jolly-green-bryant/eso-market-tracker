@@ -1,10 +1,1 @@
-{
-  "internalId": 159405832,
-  "name": "Solitude Sconce, Candle Embellished",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_sconce002.png",
-  "bindType": -1,
-  "knownIds": [
-    165635
-  ]
-}
+{"internalId":159405832,"name":"Solitude Sconce, Candle Embellished","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_sconce002.png","bindType":-1,"knownIds":[165635]}

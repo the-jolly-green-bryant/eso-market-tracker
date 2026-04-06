@@ -1,10 +1,1 @@
-{
-  "internalId": 1385611954,
-  "name": "Paintbrush, Angled",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paintbrush003.png",
-  "bindType": -1,
-  "knownIds": [
-    219703
-  ]
-}
+{"internalId":1385611954,"name":"Paintbrush, Angled","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paintbrush003.png","bindType":-1,"knownIds":[219703]}

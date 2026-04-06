@@ -1,10 +1,1 @@
-{
-  "internalId": 178459624,
-  "name": "Hair-Choked Mechanism",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1415266
-  ]
-}
+{"internalId":178459624,"name":"Hair-Choked Mechanism","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png","bindType":-1,"knownIds":[1415266]}

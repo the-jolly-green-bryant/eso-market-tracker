@@ -1,10 +1,1 @@
-{
-  "internalId": 3169933067,
-  "name": "Secret Accessory",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    55297
-  ]
-}
+{"internalId":3169933067,"name":"Secret Accessory","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[55297]}

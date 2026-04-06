@@ -1,10 +1,1 @@
-{
-  "internalId": 1221443279,
-  "name": "Aetheric Lodestone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1087318
-  ]
-}
+{"internalId":1221443279,"name":"Aetheric Lodestone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[1087318]}

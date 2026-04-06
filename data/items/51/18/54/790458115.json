@@ -1,10 +1,1 @@
-{
-  "internalId": 790458115,
-  "name": "Velyn Harbor Mages Guild Stationery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    888393
-  ]
-}
+{"internalId":790458115,"name":"Velyn Harbor Mages Guild Stationery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[888393]}

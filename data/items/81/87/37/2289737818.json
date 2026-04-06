@@ -1,15 +1,1 @@
-{
-  "internalId": 2289737818,
-  "name": "King's Justice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    389760,
-    376741,
-    377240,
-    389760,
-    376741,
-    377240
-  ]
-}
+{"internalId":2289737818,"name":"King's Justice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":-1,"knownIds":[389760,376741,377240,389760,376741,377240]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2446744261,
-  "name": "Praxis: Argonian Chest, Carved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    115791
-  ]
-}
+{"internalId":2446744261,"name":"Praxis: Argonian Chest, Carved","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[115791]}

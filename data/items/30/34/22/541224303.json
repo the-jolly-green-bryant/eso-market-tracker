@@ -1,10 +1,1 @@
-{
-  "internalId": 541224303,
-  "name": "Jade",
-  "description": "Can be used to enhance weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_enchantment_base_jade_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    810
-  ]
-}
+{"internalId":541224303,"name":"Jade","description":"Can be used to enhance weapons.","icon":"data/images/3r/_e/da/crafting_enchantment_base_jade_r3.png","bindType":-1,"knownIds":[810]}

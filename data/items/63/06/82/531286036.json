@@ -1,10 +1,1 @@
-{
-  "internalId": 531286036,
-  "name": "Wheelbarrow, Bones",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_wheelbarrowbones001.png",
-  "bindType": -1,
-  "knownIds": [
-    145482
-  ]
-}
+{"internalId":531286036,"name":"Wheelbarrow, Bones","description":"This is a small house item.","icon":"data/images/10/0s/en/housing_bre_exc_wheelbarrowbones001.png","bindType":-1,"knownIds":[145482]}

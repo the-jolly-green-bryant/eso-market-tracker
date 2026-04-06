@@ -1,10 +1,1 @@
-{
-  "internalId": 3364509648,
-  "name": "Praxis: High Elf Dresser, Corner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    118922
-  ]
-}
+{"internalId":3364509648,"name":"Praxis: High Elf Dresser, Corner","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[118922]}

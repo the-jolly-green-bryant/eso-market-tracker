@@ -1,17 +1,1 @@
-{
-  "internalId": 1918000928,
-  "name": "Crimson Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1379337,
-    1379366,
-    1485822,
-    1588081,
-    1379337,
-    1379366,
-    1485822,
-    1588081
-  ]
-}
+{"internalId":1918000928,"name":"Crimson Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1379337,1379366,1485822,1588081,1379337,1379366,1485822,1588081]}

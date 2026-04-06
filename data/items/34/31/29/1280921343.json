@@ -1,10 +1,1 @@
-{
-  "internalId": 1280921343,
-  "name": "Lamiascale Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
-  "bindType": -1,
-  "knownIds": [
-    483915
-  ]
-}
+{"internalId":1280921343,"name":"Lamiascale Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png","bindType":-1,"knownIds":[483915]}

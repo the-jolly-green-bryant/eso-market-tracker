@@ -1,16 +1,1 @@
-{
-  "internalId": 3502188152,
-  "name": "Dro'zakar's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1366543,
-    1440327,
-    1510085,
-    1531647,
-    1545982,
-    1553721,
-    1605460
-  ]
-}
+{"internalId":3502188152,"name":"Dro'zakar's Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_moongravefane_2haxe_a.png","bindType":-1,"knownIds":[1366543,1440327,1510085,1531647,1545982,1553721,1605460]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4085592616,
-  "name": "Formula: Dawnwood Fence, Leather",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    212593
-  ]
-}
+{"internalId":4085592616,"name":"Formula: Dawnwood Fence, Leather","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[212593]}

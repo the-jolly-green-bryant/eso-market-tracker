@@ -1,17 +1,1 @@
-{
-  "internalId": 1809491052,
-  "name": "Icy Conjurer's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1620744,
-    1620903,
-    1625463,
-    1677426,
-    1620744,
-    1620903,
-    1625463,
-    1677426
-  ]
-}
+{"internalId":1809491052,"name":"Icy Conjurer's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_shoulder_a.png","bindType":-1,"knownIds":[1620744,1620903,1625463,1677426,1620744,1620903,1625463,1677426]}

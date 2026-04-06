@@ -1,10 +1,1 @@
-{
-  "internalId": 2727163606,
-  "name": "Tree, Snowswept Evergreen",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_wrothgarpinesnowy006.png",
-  "bindType": -1,
-  "knownIds": [
-    134568
-  ]
-}
+{"internalId":2727163606,"name":"Tree, Snowswept Evergreen","description":"This is a large house item.","icon":"data/images/60/0y/wo/housing_tre_eve_wrothgarpinesnowy006.png","bindType":-1,"knownIds":[134568]}

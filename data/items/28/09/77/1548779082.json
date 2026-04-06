@@ -1,10 +1,1 @@
-{
-  "internalId": 1548779082,
-  "name": "Redguard Divider, Lattice",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varscreen002.png",
-  "bindType": -1,
-  "knownIds": [
-    117795
-  ]
-}
+{"internalId":1548779082,"name":"Redguard Divider, Lattice","description":"This is a standard house item.","icon":"data/images/20/0n/ee/housing_red_fur_varscreen002.png","bindType":-1,"knownIds":[117795]}

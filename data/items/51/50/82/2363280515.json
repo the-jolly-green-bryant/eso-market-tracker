@@ -1,10 +1,1 @@
-{
-  "internalId": 2363280515,
-  "name": "New Moon Acolyte's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156491
-  ]
-}
+{"internalId":2363280515,"name":"New Moon Acolyte's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[156491]}

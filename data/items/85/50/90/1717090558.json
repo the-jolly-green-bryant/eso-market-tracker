@@ -1,10 +1,1 @@
-{
-  "internalId": 1717090558,
-  "name": "Heavy: Magma Incarnate (Head)",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1577385
-  ]
-}
+{"internalId":1717090558,"name":"Heavy: Magma Incarnate (Head)","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1577385]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1278049917,
-  "name": "gray loach",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    532840
-  ]
-}
+{"internalId":1278049917,"name":"gray loach","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[532840]}

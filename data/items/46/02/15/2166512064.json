@@ -1,10 +1,1 @@
-{
-  "internalId": 2166512064,
-  "name": "Throne Keeper Coif",
-  "description": "Several thin copper medallions are inset into the coif.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7545
-  ]
-}
+{"internalId":2166512064,"name":"Throne Keeper Coif","description":"Several thin copper medallions are inset into the coif.","icon":"data/images/d_/da/eh/gear_redguard_medium_head_d.png","bindType":2,"knownIds":[7545]}

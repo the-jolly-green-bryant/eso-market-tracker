@@ -1,10 +1,1 @@
-{
-  "internalId": 958726398,
-  "name": "Smuggler's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101110
-  ]
-}
+{"internalId":958726398,"name":"Smuggler's Lightning Staff","description":"","icon":"data/images/d_/ff/at/gear_khajiit_staff_d.png","bindType":2,"knownIds":[101110]}

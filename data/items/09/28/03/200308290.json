@@ -1,10 +1,1 @@
-{
-  "internalId": 200308290,
-  "name": "Platform, Weathered Dock",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_docknarrowconnect001.png",
-  "bindType": -1,
-  "knownIds": [
-    120699
-  ]
-}
+{"internalId":200308290,"name":"Platform, Weathered Dock","description":"This is a large house item.","icon":"data/images/10/0t/ce/housing_gen_dck_docknarrowconnect001.png","bindType":-1,"knownIds":[120699]}

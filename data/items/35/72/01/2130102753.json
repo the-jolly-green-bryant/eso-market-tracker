@@ -1,10 +1,1 @@
-{
-  "internalId": 2130102753,
-  "name": "Druidic Nook Wall, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutinterioralcove001.png",
-  "bindType": -1,
-  "knownIds": [
-    193826
-  ]
-}
+{"internalId":2130102753,"name":"Druidic Nook Wall, Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutinterioralcove001.png","bindType":-1,"knownIds":[193826]}

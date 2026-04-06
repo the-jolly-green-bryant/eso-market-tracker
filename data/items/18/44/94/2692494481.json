@@ -1,10 +1,1 @@
-{
-  "internalId": 2692494481,
-  "name": "Shacklebreaker Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    122597
-  ]
-}
+{"internalId":2692494481,"name":"Shacklebreaker Helmet","description":"","icon":"data/images/d_/da/eh/gear_breton_medium_head_d.png","bindType":2,"knownIds":[122597]}

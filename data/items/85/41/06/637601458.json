@@ -1,10 +1,1 @@
-{
-  "internalId": 637601458,
-  "name": "Formula: Murkmire Lamp, Hanging Conch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    145983
-  ]
-}
+{"internalId":637601458,"name":"Formula: Murkmire Lamp, Hanging Conch","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[145983]}

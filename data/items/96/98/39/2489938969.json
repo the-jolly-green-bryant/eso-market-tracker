@@ -1,10 +1,1 @@
-{
-  "internalId": 2489938969,
-  "name": "Dominion Firebolt Ballista",
-  "description": "Creates a ballista siege weapon whose bolt causes Flame Damage to structures and also damages foes over time.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    27970
-  ]
-}
+{"internalId":2489938969,"name":"Dominion Firebolt Ballista","description":"Creates a ballista siege weapon whose bolt causes Flame Damage to structures and also damages foes over time.","icon":"data/images/10/0_/no/ava_siege_weapon_001.png","bindType":-1,"knownIds":[27970]}

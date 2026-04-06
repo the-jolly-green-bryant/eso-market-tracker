@@ -1,10 +1,1 @@
-{
-  "internalId": 1016985396,
-  "name": "Vastyrean Noble's Sabatons",
-  "description": "Well designed to protect the legs and turn the head, these boots have the added benefit of being solidly waterproof. Fitting for a nobility based in a bay.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_hvy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    191215
-  ]
-}
+{"internalId":1016985396,"name":"Vastyrean Noble's Sabatons","description":"Well designed to protect the legs and turn the head, these boots have the added benefit of being solidly waterproof. Fitting for a nobility based in a bay.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_hvy_feet_a.png","bindType":2,"knownIds":[191215]}

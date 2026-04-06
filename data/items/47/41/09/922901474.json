@@ -1,10 +1,1 @@
-{
-  "internalId": 922901474,
-  "name": "Monster: Kra'gh",
-  "description": "A Monster Mask set found in Veteran Fungal Grotto I.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114263
-  ]
-}
+{"internalId":922901474,"name":"Monster: Kra'gh","description":"A Monster Mask set found in Veteran Fungal Grotto I.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114263]}

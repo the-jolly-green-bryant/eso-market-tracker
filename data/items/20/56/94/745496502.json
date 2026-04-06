@@ -1,10 +1,1 @@
-{
-  "internalId": 745496502,
-  "name": "Crawdad Quiche",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_open_top_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    57137
-  ]
-}
+{"internalId":745496502,"name":"Crawdad Quiche","description":"","icon":"data/images/ei/p_/po/crafting_cooking_open_top_pie.png","bindType":-1,"knownIds":[57137]}

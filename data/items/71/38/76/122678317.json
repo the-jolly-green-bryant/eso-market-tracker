@@ -1,10 +1,1 @@
-{
-  "internalId": 122678317,
-  "name": "Histmuck Blobfin",
-  "description": "A rare fish found only during the New Life Festival in Shadowfen. (This fish has little value beyond those celebrations.)",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_blobfish.png",
-  "bindType": -1,
-  "knownIds": [
-    100393
-  ]
-}
+{"internalId":122678317,"name":"Histmuck Blobfin","description":"A rare fish found only during the New Life Festival in Shadowfen. (This fish has little value beyond those celebrations.)","icon":"data/images/hs/if/bo/crafting_fishing_blobfish.png","bindType":-1,"knownIds":[100393]}

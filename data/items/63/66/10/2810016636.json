@@ -1,10 +1,1 @@
-{
-  "internalId": 2810016636,
-  "name": "Maul of the Trainee",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    96347
-  ]
-}
+{"internalId":2810016636,"name":"Maul of the Trainee","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[96347]}

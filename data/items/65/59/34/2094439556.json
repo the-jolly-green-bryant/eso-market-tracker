@@ -1,10 +1,1 @@
-{
-  "internalId": 2094439556,
-  "name": "Robe of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167757
-  ]
-}
+{"internalId":2094439556,"name":"Robe of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_robe_a.png","bindType":2,"knownIds":[167757]}

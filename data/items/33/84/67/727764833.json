@@ -1,10 +1,1 @@
-{
-  "internalId": 727764833,
-  "name": "Seamount Bow",
-  "description": "A traditional Orcish bow presented to you by a daughter of the Seamount Clan.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    36577
-  ]
-}
+{"internalId":727764833,"name":"Seamount Bow","description":"A traditional Orcish bow presented to you by a daughter of the Seamount Clan.","icon":"data/images/d_/wo/b_/gear_orc_bow_d.png","bindType":2,"knownIds":[36577]}

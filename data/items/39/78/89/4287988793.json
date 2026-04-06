@@ -1,10 +1,1 @@
-{
-  "internalId": 4287988793,
-  "name": "Elsweyr Fountain, Four Lions",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_fountainset002.png",
-  "bindType": -1,
-  "knownIds": [
-    151768
-  ]
-}
+{"internalId":4287988793,"name":"Elsweyr Fountain, Four Lions","description":"This is a large house item.","icon":"data/images/20/0t/es/housing_els_str_fountainset002.png","bindType":-1,"knownIds":[151768]}

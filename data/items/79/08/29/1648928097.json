@@ -1,10 +1,1 @@
-{
-  "internalId": 1648928097,
-  "name": "Solitude Serving Bowl, Wood",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_kitchenbowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    165765
-  ]
-}
+{"internalId":1648928097,"name":"Solitude Serving Bowl, Wood","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_kitchenbowl002.png","bindType":-1,"knownIds":[165765]}

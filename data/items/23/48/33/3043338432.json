@@ -1,10 +1,1 @@
-{
-  "internalId": 3043338432,
-  "name": "Pumpkin, Sickly",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_crp_pumpkinlarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    130317
-  ]
-}
+{"internalId":3043338432,"name":"Pumpkin, Sickly","description":"This is a small house item.","icon":"data/images/20/0e/gr/housing_veg_crp_pumpkinlarge002.png","bindType":-1,"knownIds":[130317]}

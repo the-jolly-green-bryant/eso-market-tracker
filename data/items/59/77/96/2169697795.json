@@ -1,10 +1,1 @@
-{
-  "internalId": 2169697795,
-  "name": "Blueprint: Alinor Cabinet, Noble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    139649
-  ]
-}
+{"internalId":2169697795,"name":"Blueprint: Alinor Cabinet, Noble","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[139649]}

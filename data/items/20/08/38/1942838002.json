@@ -1,10 +1,1 @@
-{
-  "internalId": 1942838002,
-  "name": "Belt of the Waylaid Traveler",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_waist_d.png",
-  "bindType": -1,
-  "knownIds": [
-    871542
-  ]
-}
+{"internalId":1942838002,"name":"Belt of the Waylaid Traveler","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_waist_d.png","bindType":-1,"knownIds":[871542]}

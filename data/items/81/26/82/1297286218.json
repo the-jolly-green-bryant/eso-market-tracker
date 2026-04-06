@@ -1,10 +1,1 @@
-{
-  "internalId": 1297286218,
-  "name": "Black Fin Fire Hat",
-  "description": "A light helm awarded for helping members of the Black Fin Legion with a private and urgent matter.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    174860
-  ]
-}
+{"internalId":1297286218,"name":"Black Fin Fire Hat","description":"A light helm awarded for helping members of the Black Fin Legion with a private and urgent matter.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_head_d.png","bindType":2,"knownIds":[174860]}

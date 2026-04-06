@@ -1,10 +1,1 @@
-{
-  "internalId": 1368514660,
-  "name": "Redguard Brazier, Enchanted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varmilemarker001.png",
-  "bindType": -1,
-  "knownIds": [
-    117829
-  ]
-}
+{"internalId":1368514660,"name":"Redguard Brazier, Enchanted","description":"This is a standard house item.","icon":"data/images/10/0r/ek/housing_red_str_varmilemarker001.png","bindType":-1,"knownIds":[117829]}

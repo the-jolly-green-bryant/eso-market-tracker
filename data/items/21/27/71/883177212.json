@@ -1,10 +1,1 @@
-{
-  "internalId": 883177212,
-  "name": "Ash Foundation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150957
-  ]
-}
+{"internalId":883177212,"name":"Ash Foundation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1150957]}

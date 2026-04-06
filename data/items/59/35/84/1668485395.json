@@ -1,10 +1,1 @@
-{
-  "internalId": 1668485395,
-  "name": "Tree, Towering Snowy Fir",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_emfirsnowy004.png",
-  "bindType": -1,
-  "knownIds": [
-    145554
-  ]
-}
+{"internalId":1668485395,"name":"Tree, Towering Snowy Fir","description":"This is a large house item.","icon":"data/images/40/0y/wo/housing_tre_eve_emfirsnowy004.png","bindType":-1,"knownIds":[145554]}

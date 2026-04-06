@@ -1,10 +1,1 @@
-{
-  "internalId": 266707648,
-  "name": "Ancient Nord Bookcase, Narrow",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_shelflarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    134874
-  ]
-}
+{"internalId":266707648,"name":"Ancient Nord Bookcase, Narrow","description":"This is a standard house item.","icon":"data/images/20/0e/gr/housing_nor_duc_shelflarge002.png","bindType":-1,"knownIds":[134874]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1524942130,
-  "name": "Alinor Table Runner, Cloth of Silver",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_tablerunner005.png",
-  "bindType": -1,
-  "knownIds": [
-    139090
-  ]
-}
+{"internalId":1524942130,"name":"Alinor Table Runner, Cloth of Silver","description":"This is a small house item.","icon":"data/images/50/0r/en/housing_sum_fur_tablerunner005.png","bindType":-1,"knownIds":[139090]}

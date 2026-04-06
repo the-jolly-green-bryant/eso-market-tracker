@@ -1,10 +1,1 @@
-{
-  "internalId": 1533980543,
-  "name": "Skull Totem, Hircine Worship",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_exc_hircinebones001.png",
-  "bindType": -1,
-  "knownIds": [
-    141754
-  ]
-}
+{"internalId":1533980543,"name":"Skull Totem, Hircine Worship","description":"This is a standard house item.","icon":"data/images/10/0s/en/housing_dae_exc_hircinebones001.png","bindType":-1,"knownIds":[141754]}

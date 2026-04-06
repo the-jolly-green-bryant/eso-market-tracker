@@ -1,10 +1,1 @@
-{
-  "internalId": 3577701586,
-  "name": "Netch Oil Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212069
-  ]
-}
+{"internalId":3577701586,"name":"Netch Oil Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png","bindType":2,"knownIds":[212069]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3496642199,
-  "name": "Grisly Gourmet's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1567890,
-    1584048,
-    1602677,
-    1641641,
-    1656763,
-    1680613
-  ]
-}
+{"internalId":3496642199,"name":"Grisly Gourmet's Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_knightsotsr_1haxe_a.png","bindType":-1,"knownIds":[1567890,1584048,1602677,1641641,1656763,1680613]}

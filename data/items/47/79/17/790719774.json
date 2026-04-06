@@ -1,10 +1,1 @@
-{
-  "internalId": 790719774,
-  "name": "Diagram: Daedric Cage, Hanging",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    132186
-  ]
-}
+{"internalId":790719774,"name":"Diagram: Daedric Cage, Hanging","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[132186]}

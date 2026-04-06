@@ -1,10 +1,1 @@
-{
-  "internalId": 2028434528,
-  "name": "Diagram: Daedric Chandelier, Ritual",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    126842
-  ]
-}
+{"internalId":2028434528,"name":"Diagram: Daedric Chandelier, Ritual","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[126842]}

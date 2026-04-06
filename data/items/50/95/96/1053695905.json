@@ -1,10 +1,1 @@
-{
-  "internalId": 1053695905,
-  "name": "Desert Cologne",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826604
-  ]
-}
+{"internalId":1053695905,"name":"Desert Cologne","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[826604]}

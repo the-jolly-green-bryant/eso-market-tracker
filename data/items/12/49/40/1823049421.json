@@ -1,10 +1,1 @@
-{
-  "internalId": 1823049421,
-  "name": "Bodice Ripper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_anseiwardsword_001.png",
-  "bindType": -1,
-  "knownIds": [
-    870010
-  ]
-}
+{"internalId":1823049421,"name":"Bodice Ripper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_anseiwardsword_001.png","bindType":-1,"knownIds":[870010]}

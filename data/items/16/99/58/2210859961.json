@@ -1,10 +1,1 @@
-{
-  "internalId": 2210859961,
-  "name": "Dres Dirk",
-  "description": "This dagger was a gift given to you for aiding the House Hlaalu caravan against Dres raiders at the ruins of Mzithumz.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4305
-  ]
-}
+{"internalId":2210859961,"name":"Dres Dirk","description":"This dagger was a gift given to you for aiding the House Hlaalu caravan against Dres raiders at the ruins of Mzithumz.","icon":"data/images/d_/re/gg/gear_nord_dagger_d.png","bindType":2,"knownIds":[4305]}

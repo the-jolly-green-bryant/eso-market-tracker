@@ -1,10 +1,1 @@
-{
-  "internalId": 3339891777,
-  "name": "Worm Cult Rack, Ballista",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_ballistaammorack002.png",
-  "bindType": -1,
-  "knownIds": [
-    223179
-  ]
-}
+{"internalId":3339891777,"name":"Worm Cult Rack, Ballista","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_ballistaammorack002.png","bindType":-1,"knownIds":[223179]}

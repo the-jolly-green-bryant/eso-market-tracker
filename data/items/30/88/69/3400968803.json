@@ -1,10 +1,1 @@
-{
-  "internalId": 3400968803,
-  "name": "Pattern: Leyawiin Basket, Open",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    175990
-  ]
-}
+{"internalId":3400968803,"name":"Pattern: Leyawiin Basket, Open","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[175990]}

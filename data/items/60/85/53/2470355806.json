@@ -1,17 +1,1 @@
-{
-  "internalId": 2470355806,
-  "name": "Perfected Yolnahkriin's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1343169,
-    1444382,
-    1542978,
-    1624482,
-    1343169,
-    1444382,
-    1542978,
-    1624482
-  ]
-}
+{"internalId":2470355806,"name":"Perfected Yolnahkriin's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_bow_a.png","bindType":-1,"knownIds":[1343169,1444382,1542978,1624482,1343169,1444382,1542978,1624482]}

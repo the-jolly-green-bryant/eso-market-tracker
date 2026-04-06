@@ -1,13 +1,1 @@
-{
-  "internalId": 504269472,
-  "name": "Lucilla's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1749776,
-    1757996,
-    1749776,
-    1757996
-  ]
-}
+{"internalId":504269472,"name":"Lucilla's Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_2haxe_a.png","bindType":-1,"knownIds":[1749776,1757996,1749776,1757996]}

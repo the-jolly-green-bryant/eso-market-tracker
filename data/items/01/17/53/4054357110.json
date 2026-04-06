@@ -1,10 +1,1 @@
-{
-  "internalId": 4054357110,
-  "name": "JB - Nowhere Key Test",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
-  "bindType": -1,
-  "knownIds": [
-    224303
-  ]
-}
+{"internalId":4054357110,"name":"JB - Nowhere Key Test","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/icon_missing.png","bindType":-1,"knownIds":[224303]}

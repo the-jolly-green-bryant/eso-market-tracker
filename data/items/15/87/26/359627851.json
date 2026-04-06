@@ -1,10 +1,1 @@
-{
-  "internalId": 359627851,
-  "name": "Ironlash's Vine of Cyrodiil's Light",
-  "description": "Ironlash's tentacles serve as a unique belt.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    45725
-  ]
-}
+{"internalId":359627851,"name":"Ironlash's Vine of Cyrodiil's Light","description":"Ironlash's tentacles serve as a unique belt.","icon":"data/images/d_/ts/ia/gear_bosmer_light_waist_d.png","bindType":2,"knownIds":[45725]}

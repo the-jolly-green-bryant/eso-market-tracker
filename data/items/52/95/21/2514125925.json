@@ -1,13 +1,1 @@
-{
-  "internalId": 2514125925,
-  "name": "Beacon of Oblivion Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1741635,
-    1742268,
-    1741635,
-    1742268
-  ]
-}
+{"internalId":2514125925,"name":"Beacon of Oblivion Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_waist_a.png","bindType":-1,"knownIds":[1741635,1742268,1741635,1742268]}

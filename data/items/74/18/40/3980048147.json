@@ -1,10 +1,1 @@
-{
-  "internalId": 3980048147,
-  "name": "Battle Axe of Baan Dar's Blessing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    204384
-  ]
-}
+{"internalId":3980048147,"name":"Battle Axe of Baan Dar's Blessing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[204384]}

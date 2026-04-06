@@ -1,10 +1,1 @@
-{
-  "internalId": 3223884277,
-  "name": "Senche-Raht's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    148675
-  ]
-}
+{"internalId":3223884277,"name":"Senche-Raht's Gloves","description":"","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":2,"knownIds":[148675]}

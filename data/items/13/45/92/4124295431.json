@@ -1,10 +1,1 @@
-{
-  "internalId": 4124295431,
-  "name": "Pattern: Elsweyr Half-Rug, Sandflowers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    152096
-  ]
-}
+{"internalId":4124295431,"name":"Pattern: Elsweyr Half-Rug, Sandflowers","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[152096]}

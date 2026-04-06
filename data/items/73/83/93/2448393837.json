@@ -1,10 +1,1 @@
-{
-  "internalId": 2448393837,
-  "name": "Spriggan's Wolf-Jaw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42975
-  ]
-}
+{"internalId":2448393837,"name":"Spriggan's Wolf-Jaw","description":"","icon":"data/images/d_/ex/ah/gear_nord_2haxe_d.png","bindType":2,"knownIds":[42975]}

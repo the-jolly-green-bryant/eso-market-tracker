@@ -1,13 +1,1 @@
-{
-  "internalId": 1504297337,
-  "name": "Lucent Echoes Perfected Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732035,
-    1733437,
-    1732035,
-    1733437
-  ]
-}
+{"internalId":1504297337,"name":"Lucent Echoes Perfected Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png","bindType":-1,"knownIds":[1732035,1733437,1732035,1733437]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 788510584,
-  "name": "Silver \"Perchance Acorn\" Puzzle Game",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860364
-  ]
-}
+{"internalId":788510584,"name":"Silver \"Perchance Acorn\" Puzzle Game","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[860364]}

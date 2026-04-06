@@ -1,10 +1,1 @@
-{
-  "internalId": 2827005757,
-  "name": "Dwarven Pot, Polished",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markvase002.png",
-  "bindType": -1,
-  "knownIds": [
-    171356
-  ]
-}
+{"internalId":2827005757,"name":"Dwarven Pot, Polished","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markvase002.png","bindType":-1,"knownIds":[171356]}

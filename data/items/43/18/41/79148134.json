@@ -1,10 +1,1 @@
-{
-  "internalId": 79148134,
-  "name": "Companion's Shoes",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_boots_light.png",
-  "bindType": 2,
-  "knownIds": [
-    177196
-  ]
-}
+{"internalId":79148134,"name":"Companion's Shoes","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_boots_light.png","bindType":2,"knownIds":[177196]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 355950259,
-  "name": "Netch Oil Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211919
-  ]
-}
+{"internalId":355950259,"name":"Netch Oil Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[211919]}

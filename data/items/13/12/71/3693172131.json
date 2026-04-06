@@ -1,10 +1,1 @@
-{
-  "internalId": 3693172131,
-  "name": "Snakeskin Cuffs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_collar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    434373
-  ]
-}
+{"internalId":3693172131,"name":"Snakeskin Cuffs","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_collar_001.png","bindType":-1,"knownIds":[434373]}

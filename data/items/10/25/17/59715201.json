@@ -1,10 +1,1 @@
-{
-  "internalId": 59715201,
-  "name": "Crafting Motif 114: Systres Guardian Style",
-  "description": "Use to learn the Systres Guardian crafting style. Also teaches the equivalent Systres Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    182554
-  ]
-}
+{"internalId":59715201,"name":"Crafting Motif 114: Systres Guardian Style","description":"Use to learn the Systres Guardian crafting style. Also teaches the equivalent Systres Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[182554]}

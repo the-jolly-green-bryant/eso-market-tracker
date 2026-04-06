@@ -1,10 +1,1 @@
-{
-  "internalId": 3999233661,
-  "name": "Formula: Vampiric Lab Jar, Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    181553
-  ]
-}
+{"internalId":3999233661,"name":"Formula: Vampiric Lab Jar, Large","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[181553]}

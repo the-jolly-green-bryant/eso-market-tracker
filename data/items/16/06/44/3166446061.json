@@ -1,10 +1,1 @@
-{
-  "internalId": 3166446061,
-  "name": "Forest Wraith's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192358
-  ]
-}
+{"internalId":3166446061,"name":"Forest Wraith's Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":2,"knownIds":[192358]}

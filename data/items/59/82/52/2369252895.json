@@ -1,10 +1,1 @@
-{
-  "internalId": 2369252895,
-  "name": "Helm of the Last Captain",
-  "description": "A fine helm bequeathed by Drillk, supposedly the last Kothringi. That isn't the way he sees things, though.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7443
-  ]
-}
+{"internalId":2369252895,"name":"Helm of the Last Captain","description":"A fine helm bequeathed by Drillk, supposedly the last Kothringi. That isn't the way he sees things, though.","icon":"data/images/d_/da/eh/gear_altmer_medium_head_d.png","bindType":2,"knownIds":[7443]}

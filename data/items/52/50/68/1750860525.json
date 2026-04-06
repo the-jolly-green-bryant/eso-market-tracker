@@ -1,10 +1,1 @@
-{
-  "internalId": 1750860525,
-  "name": "Recipe: Hearty Sun's Dusk Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45683
-  ]
-}
+{"internalId":1750860525,"name":"Recipe: Hearty Sun's Dusk Soup","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45683]}

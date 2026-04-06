@@ -1,10 +1,1 @@
-{
-  "internalId": 1627813277,
-  "name": "Ancient Nord Sconce, Dragon Crest",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_sconcewall001.png",
-  "bindType": -1,
-  "knownIds": [
-    134863
-  ]
-}
+{"internalId":1627813277,"name":"Ancient Nord Sconce, Dragon Crest","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_nor_duc_sconcewall001.png","bindType":-1,"knownIds":[134863]}

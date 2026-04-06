@@ -1,15 +1,1 @@
-{
-  "internalId": 3315729091,
-  "name": "Perfected Lokkestiiz's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1403687,
-    1543878,
-    1629254,
-    1403687,
-    1543878,
-    1629254
-  ]
-}
+{"internalId":3315729091,"name":"Perfected Lokkestiiz's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hsword_a.png","bindType":-1,"knownIds":[1403687,1543878,1629254,1403687,1543878,1629254]}

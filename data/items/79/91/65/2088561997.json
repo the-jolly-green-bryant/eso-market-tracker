@@ -1,10 +1,1 @@
-{
-  "internalId": 2088561997,
-  "name": "Fusozay Cushion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    665610
-  ]
-}
+{"internalId":2088561997,"name":"Fusozay Cushion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[665610]}

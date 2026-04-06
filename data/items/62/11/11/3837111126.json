@@ -1,10 +1,1 @@
-{
-  "internalId": 3837111126,
-  "name": "High Elf Carpet, Tree-Themed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_rug002.png",
-  "bindType": -1,
-  "knownIds": [
-    114362
-  ]
-}
+{"internalId":3837111126,"name":"High Elf Carpet, Tree-Themed","description":"This is a standard house item.","icon":"data/images/20/0g/ur/housing_alt_inc_rug002.png","bindType":-1,"knownIds":[114362]}

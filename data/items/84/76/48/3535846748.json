@@ -1,11 +1,1 @@
-{
-  "internalId": 3535846748,
-  "name": "Fledgling's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1749784,
-    1750863
-  ]
-}
+{"internalId":3535846748,"name":"Fledgling's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_bow_a.png","bindType":-1,"knownIds":[1749784,1750863]}

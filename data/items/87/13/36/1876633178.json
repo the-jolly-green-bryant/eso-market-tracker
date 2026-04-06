@@ -1,10 +1,1 @@
-{
-  "internalId": 1876633178,
-  "name": "Crafting Motif 125: Blind Path Cultist Belts",
-  "description": "Use to learn how to make Blind Path Cultist Belts. Also teaches the equivalent Blind Path Cultist Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203216
-  ]
-}
+{"internalId":1876633178,"name":"Crafting Motif 125: Blind Path Cultist Belts","description":"Use to learn how to make Blind Path Cultist Belts. Also teaches the equivalent Blind Path Cultist Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203216]}

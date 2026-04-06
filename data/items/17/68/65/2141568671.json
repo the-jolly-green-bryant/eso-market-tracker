@@ -1,10 +1,1 @@
-{
-  "internalId": 2141568671,
-  "name": "Undertaker's Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_heavy_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149218
-  ]
-}
+{"internalId":2141568671,"name":"Undertaker's Pauldrons","description":"","icon":"data/images/a_/re/dl/gear_anequina_heavy_shoulder_a.png","bindType":2,"knownIds":[149218]}

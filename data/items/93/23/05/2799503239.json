@@ -1,10 +1,1 @@
-{
-  "internalId": 2799503239,
-  "name": "Jewelry: Trinimac's Valor",
-  "description": "A Light Armor set found in Wrothgar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134074
-  ]
-}
+{"internalId":2799503239,"name":"Jewelry: Trinimac's Valor","description":"A Light Armor set found in Wrothgar.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134074]}

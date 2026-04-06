@@ -1,10 +1,1 @@
-{
-  "internalId": 883481323,
-  "name": "Crafting Motif 117: Firesong Daggers",
-  "description": "Use to learn how to make Firesong Daggers. Also teaches the equivalent Firesong Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    188313
-  ]
-}
+{"internalId":883481323,"name":"Crafting Motif 117: Firesong Daggers","description":"Use to learn how to make Firesong Daggers. Also teaches the equivalent Firesong Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[188313]}

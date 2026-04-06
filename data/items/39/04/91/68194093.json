@@ -1,10 +1,1 @@
-{
-  "internalId": 68194093,
-  "name": "Mushroom, Polyp Stinkhorn",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdstinkhorn001.png",
-  "bindType": -1,
-  "knownIds": [
-    125597
-  ]
-}
+{"internalId":68194093,"name":"Mushroom, Polyp Stinkhorn","description":"This is a tiny house item.","icon":"data/images/10/0n/ro/housing_veg_fug_vrdstinkhorn001.png","bindType":-1,"knownIds":[125597]}

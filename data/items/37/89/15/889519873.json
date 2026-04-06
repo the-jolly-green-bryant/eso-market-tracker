@@ -1,10 +1,1 @@
-{
-  "internalId": 889519873,
-  "name": "Summerset Sweet Wine",
-  "description": "A wine, notorious for its cloyingly sweet taste, that remains popular with Summerset's youth. Notes of honeysuckle, plum, and almond. This gift for Tanlorin is more appreciated when used during Hearts Week.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_tanlorin.png",
-  "bindType": -1,
-  "knownIds": [
-    220373
-  ]
-}
+{"internalId":889519873,"name":"Summerset Sweet Wine","description":"A wine, notorious for its cloyingly sweet taste, that remains popular with Summerset's youth. Notes of honeysuckle, plum, and almond. This gift for Tanlorin is more appreciated when used during Hearts Week.","icon":"https://esoicons.uesp.net/esoui/art/icons/u48_gift_small_tanlorin.png","bindType":-1,"knownIds":[220373]}

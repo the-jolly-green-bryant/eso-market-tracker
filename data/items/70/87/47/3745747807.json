@@ -1,10 +1,1 @@
-{
-  "internalId": 3745747807,
-  "name": "Giant Bone Measuring Stick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_velothi_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1384930
-  ]
-}
+{"internalId":3745747807,"name":"Giant Bone Measuring Stick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_velothi_staff.png","bindType":-1,"knownIds":[1384930]}

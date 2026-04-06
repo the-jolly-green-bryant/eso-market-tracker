@@ -1,10 +1,1 @@
-{
-  "internalId": 3268569077,
-  "name": "Adamant Lurker Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196182
-  ]
-}
+{"internalId":3268569077,"name":"Adamant Lurker Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2hhammer_a.png","bindType":2,"knownIds":[196182]}

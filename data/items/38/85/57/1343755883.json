@@ -1,10 +1,1 @@
-{
-  "internalId": 1343755883,
-  "name": "Cargo Netting, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_hangingcargonet002.png",
-  "bindType": -1,
-  "knownIds": [
-    194538
-  ]
-}
+{"internalId":1343755883,"name":"Cargo Netting, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_hangingcargonet002.png","bindType":-1,"knownIds":[194538]}

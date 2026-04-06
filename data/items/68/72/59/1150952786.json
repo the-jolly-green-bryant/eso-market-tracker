@@ -1,10 +1,1 @@
-{
-  "internalId": 1150952786,
-  "name": "Flower Patch, Lava Blooms",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdspikeyred002.png",
-  "bindType": -1,
-  "knownIds": [
-    125546
-  ]
-}
+{"internalId":1150952786,"name":"Flower Patch, Lava Blooms","description":"This is a small house item.","icon":"data/images/20/0d/er/housing_veg_flr_vrdspikeyred002.png","bindType":-1,"knownIds":[125546]}

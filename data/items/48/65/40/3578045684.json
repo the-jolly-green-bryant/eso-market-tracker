@@ -1,10 +1,1 @@
-{
-  "internalId": 3578045684,
-  "name": "Mushroom, Dual Mauve Dusk",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_pinkknight001.png",
-  "bindType": -1,
-  "knownIds": [
-    197634
-  ]
-}
+{"internalId":3578045684,"name":"Mushroom, Dual Mauve Dusk","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_pinkknight001.png","bindType":-1,"knownIds":[197634]}

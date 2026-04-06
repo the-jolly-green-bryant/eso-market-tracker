@@ -1,10 +1,1 @@
-{
-  "internalId": 1792476089,
-  "name": "Macabre Vintage Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
-  "bindType": 2,
-  "knownIds": [
-    205205
-  ]
-}
+{"internalId":1792476089,"name":"Macabre Vintage Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png","bindType":2,"knownIds":[205205]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1104258030,
-  "name": "Clarified Rose Lager Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    423675
-  ]
-}
+{"internalId":1104258030,"name":"Clarified Rose Lager Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[423675]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3970132251,
-  "name": "Witch-Knight's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167918
-  ]
-}
+{"internalId":3970132251,"name":"Witch-Knight's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_staff_a.png","bindType":2,"knownIds":[167918]}

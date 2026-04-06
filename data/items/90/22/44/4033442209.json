@@ -1,15 +1,1 @@
-{
-  "internalId": 4033442209,
-  "name": "Deeproot Zeal Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_1hhamer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1602137,
-    1650821,
-    1735447,
-    1602137,
-    1650821,
-    1735447
-  ]
-}
+{"internalId":4033442209,"name":"Deeproot Zeal Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_1hhamer_a.png","bindType":-1,"knownIds":[1602137,1650821,1735447,1602137,1650821,1735447]}

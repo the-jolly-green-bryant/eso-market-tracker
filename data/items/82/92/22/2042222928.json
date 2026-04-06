@@ -1,10 +1,1 @@
-{
-  "internalId": 2042222928,
-  "name": "Axe of Night Terror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1haxe_b.png",
-  "bindType": 2,
-  "knownIds": [
-    97914
-  ]
-}
+{"internalId":2042222928,"name":"Axe of Night Terror","description":"","icon":"data/images/b_/ex/ah/gear_daedric_1haxe_b.png","bindType":2,"knownIds":[97914]}

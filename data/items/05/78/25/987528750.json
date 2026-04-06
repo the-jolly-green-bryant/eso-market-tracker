@@ -1,10 +1,1 @@
-{
-  "internalId": 987528750,
-  "name": "The Vampire Secret",
-  "description": "Unlocks the perks and pitfalls of being a vampire.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
-  "bindType": -1,
-  "knownIds": [
-    54855
-  ]
-}
+{"internalId":987528750,"name":"The Vampire Secret","description":"Unlocks the perks and pitfalls of being a vampire.","icon":"data/images/30/0_/ko/quest_book_003.png","bindType":-1,"knownIds":[54855]}

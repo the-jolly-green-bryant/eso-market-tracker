@@ -1,10 +1,1 @@
-{
-  "internalId": 2270706513,
-  "name": "Tree, Anequine Acacia Forking",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_els_acaciasouthernhousing005.png",
-  "bindType": -1,
-  "knownIds": [
-    153688
-  ]
-}
+{"internalId":2270706513,"name":"Tree, Anequine Acacia Forking","description":"This is a large house item.","icon":"data/images/50/0g/ni/housing_tre_els_acaciasouthernhousing005.png","bindType":-1,"knownIds":[153688]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3234058589,
-  "name": "Ayleid Refuge Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    205378
-  ]
-}
+{"internalId":3234058589,"name":"Ayleid Refuge Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_heavy_head_a.png","bindType":2,"knownIds":[205378]}

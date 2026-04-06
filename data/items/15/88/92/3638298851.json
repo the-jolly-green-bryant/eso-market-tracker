@@ -1,10 +1,1 @@
-{
-  "internalId": 3638298851,
-  "name": "Lucky Senche-Tiger Claw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_claw_003.png",
-  "bindType": -1,
-  "knownIds": [
-    436469
-  ]
-}
+{"internalId":3638298851,"name":"Lucky Senche-Tiger Claw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_monster_claw_003.png","bindType":-1,"knownIds":[436469]}

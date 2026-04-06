@@ -1,10 +1,1 @@
-{
-  "internalId": 3090022120,
-  "name": "Pewter Portrait Frame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795624
-  ]
-}
+{"internalId":3090022120,"name":"Pewter Portrait Frame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[795624]}

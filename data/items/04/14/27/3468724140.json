@@ -1,10 +1,1 @@
-{
-  "internalId": 3468724140,
-  "name": "Dwarven Table, Assembly",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_fur_tablec001.png",
-  "bindType": -1,
-  "knownIds": [
-    126688
-  ]
-}
+{"internalId":3468724140,"name":"Dwarven Table, Assembly","description":"This is a large house item.","icon":"data/images/10/0c/el/housing_dwe_fur_tablec001.png","bindType":-1,"knownIds":[126688]}

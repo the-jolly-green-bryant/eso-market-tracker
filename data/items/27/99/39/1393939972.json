@@ -1,10 +1,1 @@
-{
-  "internalId": 1393939972,
-  "name": "Karth's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    168426
-  ]
-}
+{"internalId":1393939972,"name":"Karth's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[168426]}

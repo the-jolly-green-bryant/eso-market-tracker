@@ -1,10 +1,1 @@
-{
-  "internalId": 2931008251,
-  "name": "Pattern: Clothier's Form, Brass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    134984
-  ]
-}
+{"internalId":2931008251,"name":"Pattern: Clothier's Form, Brass","description":"","icon":"data/images/5_/re/ih/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[134984]}

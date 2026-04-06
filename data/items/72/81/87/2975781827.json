@@ -1,17 +1,1 @@
-{
-  "internalId": 2975781827,
-  "name": "Perfected Lokkestiiz's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1342179,
-    1353884,
-    1363898,
-    1567258,
-    1342179,
-    1353884,
-    1363898,
-    1567258
-  ]
-}
+{"internalId":2975781827,"name":"Perfected Lokkestiiz's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_dagger_a.png","bindType":-1,"knownIds":[1342179,1353884,1363898,1567258,1342179,1353884,1363898,1567258]}

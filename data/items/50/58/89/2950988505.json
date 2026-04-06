@@ -1,10 +1,1 @@
-{
-  "internalId": 2950988505,
-  "name": "Fabricant Leather Chimera",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1281185
-  ]
-}
+{"internalId":2950988505,"name":"Fabricant Leather Chimera","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[1281185]}

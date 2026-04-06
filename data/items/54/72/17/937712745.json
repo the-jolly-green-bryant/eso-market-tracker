@@ -1,10 +1,1 @@
-{
-  "internalId": 937712745,
-  "name": "Spellshredder Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219313
-  ]
-}
+{"internalId":937712745,"name":"Spellshredder Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png","bindType":2,"knownIds":[219313]}

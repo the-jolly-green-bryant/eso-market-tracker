@@ -1,17 +1,1 @@
-{
-  "internalId": 1435555383,
-  "name": "Yandir's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1383886,
-    1387475,
-    1468440,
-    1517975,
-    1383886,
-    1387475,
-    1468440,
-    1517975
-  ]
-}
+{"internalId":1435555383,"name":"Yandir's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1383886,1387475,1468440,1517975,1383886,1387475,1468440,1517975]}

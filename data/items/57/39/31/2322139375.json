@@ -1,10 +1,1 @@
-{
-  "internalId": 2322139375,
-  "name": "Leyawiin Meal, Lobster",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplate004.png",
-  "bindType": -1,
-  "knownIds": [
-    175685
-  ]
-}
+{"internalId":2322139375,"name":"Leyawiin Meal, Lobster","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplate004.png","bindType":-1,"knownIds":[175685]}

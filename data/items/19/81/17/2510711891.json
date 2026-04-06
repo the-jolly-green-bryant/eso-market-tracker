@@ -1,15 +1,1 @@
-{
-  "internalId": 2510711891,
-  "name": "Spattering Disjunction Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735140,
-    1764746,
-    1773485,
-    1735140,
-    1764746,
-    1773485
-  ]
-}
+{"internalId":2510711891,"name":"Spattering Disjunction Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_waist_a.png","bindType":-1,"knownIds":[1735140,1764746,1773485,1735140,1764746,1773485]}

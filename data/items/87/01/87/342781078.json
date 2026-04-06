@@ -1,10 +1,1 @@
-{
-  "internalId": 342781078,
-  "name": "Curtain of Claws",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    805951
-  ]
-}
+{"internalId":342781078,"name":"Curtain of Claws","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[805951]}

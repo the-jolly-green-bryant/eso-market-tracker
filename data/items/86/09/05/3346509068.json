@@ -1,10 +1,1 @@
-{
-  "internalId": 3346509068,
-  "name": "Solitude Bed, Noble Double",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_doublebedfancy002.png",
-  "bindType": -1,
-  "knownIds": [
-    165740
-  ]
-}
+{"internalId":3346509068,"name":"Solitude Bed, Noble Double","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_doublebedfancy002.png","bindType":-1,"knownIds":[165740]}

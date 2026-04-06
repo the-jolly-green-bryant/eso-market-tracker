@@ -1,10 +1,1 @@
-{
-  "internalId": 698081581,
-  "name": "Blueprint: Solitude Dresser, Rustic Shelves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166883
-  ]
-}
+{"internalId":698081581,"name":"Blueprint: Solitude Dresser, Rustic Shelves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[166883]}

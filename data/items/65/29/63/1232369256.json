@@ -1,10 +1,1 @@
-{
-  "internalId": 1232369256,
-  "name": "Aldmeri Exile's Inferno Staff",
-  "description": "The fiery magic imbued into this staff has faded, but it is far from extinguished.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    171931
-  ]
-}
+{"internalId":1232369256,"name":"Aldmeri Exile's Inferno Staff","description":"The fiery magic imbued into this staff has faded, but it is far from extinguished.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2_staff.png","bindType":-1,"knownIds":[171931]}

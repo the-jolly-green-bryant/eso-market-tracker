@@ -1,10 +1,1 @@
-{
-  "internalId": 1739426519,
-  "name": "Weapons: Shield Breaker",
-  "description": "A Medium Armor set purchased in Imperial City with Tel Var Stones.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134632
-  ]
-}
+{"internalId":1739426519,"name":"Weapons: Shield Breaker","description":"A Medium Armor set purchased in Imperial City with Tel Var Stones.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134632]}

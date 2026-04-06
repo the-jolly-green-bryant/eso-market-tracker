@@ -1,10 +1,1 @@
-{
-  "internalId": 2102009866,
-  "name": "Etched Adamantite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_antiquities_altmer.png",
-  "bindType": -1,
-  "knownIds": [
-    160609
-  ]
-}
+{"internalId":2102009866,"name":"Etched Adamantite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_antiquities_altmer.png","bindType":-1,"knownIds":[160609]}

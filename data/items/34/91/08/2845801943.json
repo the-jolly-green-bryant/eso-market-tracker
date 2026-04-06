@@ -1,10 +1,1 @@
-{
-  "internalId": 2845801943,
-  "name": "Maple Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    223651
-  ]
-}
+{"internalId":2845801943,"name":"Maple Inferno Staff","description":"","icon":"data/images/e_/ff/at/gear_dunmer_staff_e.png","bindType":-1,"knownIds":[126139]}

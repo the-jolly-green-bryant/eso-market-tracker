@@ -1,10 +1,1 @@
-{
-  "internalId": 125941751,
-  "name": "Sload's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    136387
-  ]
-}
+{"internalId":125941751,"name":"Sload's Greatsword","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[136387]}

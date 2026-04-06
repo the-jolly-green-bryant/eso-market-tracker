@@ -1,10 +1,1 @@
-{
-  "internalId": 2810605073,
-  "name": "Mushroom, Netch Shield Tower",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdmushroom002.png",
-  "bindType": -1,
-  "knownIds": [
-    125594
-  ]
-}
+{"internalId":2810605073,"name":"Mushroom, Netch Shield Tower","description":"This is a huge house item.","icon":"data/images/20/0m/oo/housing_veg_fug_vrdmushroom002.png","bindType":-1,"knownIds":[125594]}

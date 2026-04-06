@@ -1,13 +1,1 @@
-{
-  "internalId": 1424483077,
-  "name": "Perfected Coral Riptide Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1586428,
-    1593201,
-    1586428,
-    1593201
-  ]
-}
+{"internalId":1424483077,"name":"Perfected Coral Riptide Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1586428,1593201,1586428,1593201]}

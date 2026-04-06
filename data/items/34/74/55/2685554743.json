@@ -1,10 +1,1 @@
-{
-  "internalId": 2685554743,
-  "name": "Grave Marker, Soldier's",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_battlefieldswordgrave001.png",
-  "bindType": -1,
-  "knownIds": [
-    219739
-  ]
-}
+{"internalId":2685554743,"name":"Grave Marker, Soldier's","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_battlefieldswordgrave001.png","bindType":-1,"knownIds":[219739]}

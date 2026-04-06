@@ -1,10 +1,1 @@
-{
-  "internalId": 1127639171,
-  "name": "Crafting Motif 80: Shield of Senchal Style",
-  "description": "Use to learn the Shield of Senchal crafting style. Also teaches the equivalent Shield of Senchal outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    156627
-  ]
-}
+{"internalId":1127639171,"name":"Crafting Motif 80: Shield of Senchal Style","description":"Use to learn the Shield of Senchal crafting style. Also teaches the equivalent Shield of Senchal outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[156627]}

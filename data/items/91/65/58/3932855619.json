@@ -1,10 +1,1 @@
-{
-  "internalId": 3932855619,
-  "name": "Embroidered Hand Towel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png",
-  "bindType": -1,
-  "knownIds": [
-    863068
-  ]
-}
+{"internalId":3932855619,"name":"Embroidered Hand Towel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png","bindType":-1,"knownIds":[863068]}

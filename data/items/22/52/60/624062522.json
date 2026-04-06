@@ -1,13 +1,1 @@
-{
-  "internalId": 624062522,
-  "name": "Noxious Boulder Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1754502,
-    1761564,
-    1754502,
-    1761564
-  ]
-}
+{"internalId":624062522,"name":"Noxious Boulder Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png","bindType":-1,"knownIds":[1754502,1761564,1754502,1761564]}

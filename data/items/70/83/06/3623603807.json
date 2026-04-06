@@ -1,10 +1,1 @@
-{
-  "internalId": 3623603807,
-  "name": "Covenant Siege Weaponry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1411240
-  ]
-}
+{"internalId":3623603807,"name":"Covenant Siege Weaponry","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1411240]}

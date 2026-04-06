@@ -1,10 +1,1 @@
-{
-  "internalId": 32266725,
-  "name": "Colovian Roast Turkey Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    595663
-  ]
-}
+{"internalId":32266725,"name":"Colovian Roast Turkey Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[595663]}

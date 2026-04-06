@@ -1,10 +1,1 @@
-{
-  "internalId": 2980179330,
-  "name": "Solitude Bed, Rustic Bearskin Single",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bedsingle004.png",
-  "bindType": -1,
-  "knownIds": [
-    165744
-  ]
-}
+{"internalId":2980179330,"name":"Solitude Bed, Rustic Bearskin Single","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bedsingle004.png","bindType":-1,"knownIds":[165744]}

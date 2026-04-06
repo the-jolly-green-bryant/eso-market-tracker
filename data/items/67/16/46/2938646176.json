@@ -1,10 +1,1 @@
-{
-  "internalId": 2938646176,
-  "name": "Crafting Motif 130: Exile's Revenge Helmets",
-  "description": "Use to learn how to make Exile's Revenge Helmets. Also teaches the equivalent Exile's Revenge Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    211062
-  ]
-}
+{"internalId":2938646176,"name":"Crafting Motif 130: Exile's Revenge Helmets","description":"Use to learn how to make Exile's Revenge Helmets. Also teaches the equivalent Exile's Revenge Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[211062]}

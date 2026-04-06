@@ -1,10 +1,1 @@
-{
-  "internalId": 265422609,
-  "name": "Ancient Nord Funerary Jar, Linked Rings",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_urn001.png",
-  "bindType": -1,
-  "knownIds": [
-    134875
-  ]
-}
+{"internalId":265422609,"name":"Ancient Nord Funerary Jar, Linked Rings","description":"This is a small house item.","icon":"data/images/10/0n/ru/housing_nor_duc_urn001.png","bindType":-1,"knownIds":[134875]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1019450957,
-  "name": "Trinimac's Blessed Plackart",
-  "description": "Razasha gave you this blessed cuirass for rescuing her friends from a Vosh Rakh stronghold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    70997
-  ]
-}
+{"internalId":1019450957,"name":"Trinimac's Blessed Plackart","description":"Razasha gave you this blessed cuirass for rescuing her friends from a Vosh Rakh stronghold.","icon":"data/images/a_/ts/eh/gear_trinimac_heavy_chest_a.png","bindType":2,"knownIds":[70997]}

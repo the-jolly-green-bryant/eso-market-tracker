@@ -1,10 +1,1 @@
-{
-  "internalId": 3666492106,
-  "name": "Official Lion Guard Envelopes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    500002
-  ]
-}
+{"internalId":3666492106,"name":"Official Lion Guard Envelopes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[500002]}

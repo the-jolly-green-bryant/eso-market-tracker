@@ -1,10 +1,1 @@
-{
-  "internalId": 3168888443,
-  "name": "Argonian Drum, Ceremonial",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_drum001.png",
-  "bindType": -1,
-  "knownIds": [
-    115510
-  ]
-}
+{"internalId":3168888443,"name":"Argonian Drum, Ceremonial","description":"This is a small house item.","icon":"data/images/10/0m/ur/housing_arg_inc_drum001.png","bindType":-1,"knownIds":[115510]}

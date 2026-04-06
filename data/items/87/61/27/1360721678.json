@@ -1,10 +1,1 @@
-{
-  "internalId": 1360721678,
-  "name": "Pattern: Colovian Rug, Fallen Leaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    207857
-  ]
-}
+{"internalId":1360721678,"name":"Pattern: Colovian Rug, Fallen Leaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[207857]}

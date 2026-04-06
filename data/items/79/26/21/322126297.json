@@ -1,10 +1,1 @@
-{
-  "internalId": 322126297,
-  "name": "Coffer Glass Splinter",
-  "description": "Acquire and use the Coffer Glass Splinter along with the other nine Windglass Splinters to unlock the Relic Wind Slicer achievement as well as the Windglass relic and memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": 3,
-  "knownIds": [
-    223822
-  ]
-}
+{"internalId":322126297,"name":"Coffer Glass Splinter","description":"Acquire and use the Coffer Glass Splinter along with the other nine Windglass Splinters to unlock the Relic Wind Slicer achievement as well as the Windglass relic and memento.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":3,"knownIds":[223822]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2131342651,
-  "name": "Coin Pile, Tall",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_coinseptimstack001.png",
-  "bindType": -1,
-  "knownIds": [
-    214248
-  ]
-}
+{"internalId":2131342651,"name":"Coin Pile, Tall","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_coinseptimstack001.png","bindType":-1,"knownIds":[214248]}

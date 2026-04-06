@@ -1,10 +1,1 @@
-{
-  "internalId": 3433353579,
-  "name": "Kinlord Rilis and the Mages Guild",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1134070
-  ]
-}
+{"internalId":3433353579,"name":"Kinlord Rilis and the Mages Guild","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1134070]}

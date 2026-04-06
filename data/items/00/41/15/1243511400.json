@@ -1,13 +1,1 @@
-{
-  "internalId": 1243511400,
-  "name": "Colovian Highlands General's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_cumberlandcavalier_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1724994,
-    1725383,
-    1724994,
-    1725383
-  ]
-}
+{"internalId":1243511400,"name":"Colovian Highlands General's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_cumberlandcavalier_shoulders_a.png","bindType":-1,"knownIds":[1724994,1725383,1724994,1725383]}

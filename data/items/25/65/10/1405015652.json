@@ -1,10 +1,1 @@
-{
-  "internalId": 1405015652,
-  "name": "Deadlands Assassin's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172276
-  ]
-}
+{"internalId":1405015652,"name":"Deadlands Assassin's Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_chest_a.png","bindType":2,"knownIds":[172276]}

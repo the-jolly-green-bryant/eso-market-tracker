@@ -1,10 +1,1 @@
-{
-  "internalId": 2987163970,
-  "name": "Blueprint: Alinor Easel, Carved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    184154
-  ]
-}
+{"internalId":2987163970,"name":"Blueprint: Alinor Easel, Carved","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[184154]}

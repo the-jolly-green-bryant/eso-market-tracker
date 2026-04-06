@@ -1,15 +1,1 @@
-{
-  "internalId": 3629612092,
-  "name": "Oakfather's Retribution Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1702987,
-    1718040,
-    1718769,
-    1702987,
-    1718040,
-    1718769
-  ]
-}
+{"internalId":3629612092,"name":"Oakfather's Retribution Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png","bindType":-1,"knownIds":[1702987,1718040,1718769,1702987,1718040,1718769]}

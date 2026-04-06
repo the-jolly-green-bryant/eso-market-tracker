@@ -1,10 +1,1 @@
-{
-  "internalId": 2316516358,
-  "name": "Stele, Hist Cultivation",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_run_mrkstellaa006.png",
-  "bindType": -1,
-  "knownIds": [
-    145450
-  ]
-}
+{"internalId":2316516358,"name":"Stele, Hist Cultivation","description":"This is a large house item.","icon":"data/images/60/0a/al/housing_arg_run_mrkstellaa006.png","bindType":-1,"knownIds":[145450]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1263926141,
-  "name": "Downy Pillow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    549166
-  ]
-}
+{"internalId":1263926141,"name":"Downy Pillow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[549166]}

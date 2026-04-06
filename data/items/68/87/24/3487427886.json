@@ -1,10 +1,1 @@
-{
-  "internalId": 3487427886,
-  "name": "Dwarven Bust, Forge-Lord",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_forgemachinea001.png",
-  "bindType": -1,
-  "knownIds": [
-    147590
-  ]
-}
+{"internalId":3487427886,"name":"Dwarven Bust, Forge-Lord","description":"This is a large house item.","icon":"data/images/10/0a/en/housing_dwe_duc_forgemachinea001.png","bindType":-1,"knownIds":[147590]}

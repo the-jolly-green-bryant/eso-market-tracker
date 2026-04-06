@@ -1,10 +1,1 @@
-{
-  "internalId": 3826066527,
-  "name": "Senchal Defender's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155001
-  ]
-}
+{"internalId":3826066527,"name":"Senchal Defender's Battle Axe","description":"","icon":"data/images/a_/ex/ah/gear_shieldsenchal_2haxe_a.png","bindType":2,"knownIds":[155001]}

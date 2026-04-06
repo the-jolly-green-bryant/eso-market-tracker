@@ -1,10 +1,1 @@
-{
-  "internalId": 917557735,
-  "name": "Exemplary Nirnhoned Bow",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Bow.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81609
-  ]
-}
+{"internalId":917557735,"name":"Exemplary Nirnhoned Bow","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Bow.","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":-1,"knownIds":[81609]}

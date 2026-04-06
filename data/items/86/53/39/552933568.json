@@ -1,10 +1,1 @@
-{
-  "internalId": 552933568,
-  "name": "Orichalc Kurog Bust",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795608
-  ]
-}
+{"internalId":552933568,"name":"Orichalc Kurog Bust","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[795608]}

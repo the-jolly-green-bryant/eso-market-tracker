@@ -1,10 +1,1 @@
-{
-  "internalId": 3810891207,
-  "name": "Dwarven Crystal Mechanism",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_crystalstand001.png",
-  "bindType": -1,
-  "knownIds": [
-    126562
-  ]
-}
+{"internalId":3810891207,"name":"Dwarven Crystal Mechanism","description":"This is a small house item.","icon":"data/images/10/0d/na/housing_dwe_inc_crystalstand001.png","bindType":-1,"knownIds":[126562]}

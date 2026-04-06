@@ -1,10 +1,1 @@
-{
-  "internalId": 2105584605,
-  "name": "Crimson Sealing Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png",
-  "bindType": -1,
-  "knownIds": [
-    684738
-  ]
-}
+{"internalId":2105584605,"name":"Crimson Sealing Wax","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png","bindType":-1,"knownIds":[684738]}

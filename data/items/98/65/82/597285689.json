@@ -1,10 +1,1 @@
-{
-  "internalId": 597285689,
-  "name": "Troll Bone Measuring Stick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    407356
-  ]
-}
+{"internalId":597285689,"name":"Troll Bone Measuring Stick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[407356]}

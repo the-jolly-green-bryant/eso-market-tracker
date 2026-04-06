@@ -1,10 +1,1 @@
-{
-  "internalId": 214071671,
-  "name": "Coldharbour Glowstalk, Sprout",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_chlightstalk004.png",
-  "bindType": -1,
-  "knownIds": [
-    130283
-  ]
-}
+{"internalId":214071671,"name":"Coldharbour Glowstalk, Sprout","description":"This is a small house item.","icon":"data/images/40/0k/la/housing_veg_fug_chlightstalk004.png","bindType":-1,"knownIds":[130283]}

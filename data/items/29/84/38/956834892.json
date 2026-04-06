@@ -1,10 +1,1 @@
-{
-  "internalId": 956834892,
-  "name": "Dwarven Oil",
-  "description": "Improve quality from green to blue.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_weapon_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    54171
-  ]
-}
+{"internalId":956834892,"name":"Dwarven Oil","description":"Improve quality from green to blue.","icon":"data/images/20/0_/tn/crafting_forester_weapon_vendor_component_002.png","bindType":-1,"knownIds":[54171]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 793919555,
-  "name": "Perfected Lokkestiiz's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1361401,
-    1460599,
-    1361401,
-    1460599
-  ]
-}
+{"internalId":793919555,"name":"Perfected Lokkestiiz's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1361401,1460599,1361401,1460599]}

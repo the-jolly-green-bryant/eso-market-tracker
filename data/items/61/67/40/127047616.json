@@ -1,10 +1,1 @@
-{
-  "internalId": 127047616,
-  "name": "\"Traitor's Tor\" Game",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_abacus_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484013
-  ]
-}
+{"internalId":127047616,"name":"\"Traitor's Tor\" Game","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_abacus_001.png","bindType":-1,"knownIds":[484013]}

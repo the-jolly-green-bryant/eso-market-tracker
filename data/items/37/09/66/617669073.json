@@ -1,10 +1,1 @@
-{
-  "internalId": 617669073,
-  "name": "Pattern: Leyawiin Canopy, Merchant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    176023
-  ]
-}
+{"internalId":617669073,"name":"Pattern: Leyawiin Canopy, Merchant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[176023]}

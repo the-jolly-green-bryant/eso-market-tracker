@@ -1,15 +1,1 @@
-{
-  "internalId": 1351408381,
-  "name": "Blessing of the Keepers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    462798,
-    451518,
-    791444,
-    462798,
-    451518,
-    791444
-  ]
-}
+{"internalId":1351408381,"name":"Blessing of the Keepers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_head_d.png","bindType":-1,"knownIds":[462798,451518,791444,462798,451518,791444]}

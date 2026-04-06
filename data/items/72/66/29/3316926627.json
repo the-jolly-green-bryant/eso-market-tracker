@@ -1,10 +1,1 @@
-{
-  "internalId": 3316926627,
-  "name": "Blueprint: High Isle Dresser, Rustic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    188163
-  ]
-}
+{"internalId":3316926627,"name":"Blueprint: High Isle Dresser, Rustic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[188163]}

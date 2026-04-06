@@ -1,10 +1,1 @@
-{
-  "internalId": 2892070735,
-  "name": "Forest Wraith Tapestry",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryforestwraithsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    192403
-  ]
-}
+{"internalId":2892070735,"name":"Forest Wraith Tapestry","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryforestwraithsmall001.png","bindType":-1,"knownIds":[192403]}

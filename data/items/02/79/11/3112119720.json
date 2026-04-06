@@ -1,10 +1,1 @@
-{
-  "internalId": 3112119720,
-  "name": "Draoife Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190866
-  ]
-}
+{"internalId":3112119720,"name":"Draoife Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_waist_a.png","bindType":2,"knownIds":[190866]}

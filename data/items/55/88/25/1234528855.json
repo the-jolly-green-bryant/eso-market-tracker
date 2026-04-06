@@ -1,10 +1,1 @@
-{
-  "internalId": 1234528855,
-  "name": "Weaving Octopus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_octopus.png",
-  "bindType": -1,
-  "knownIds": [
-    1241340
-  ]
-}
+{"internalId":1234528855,"name":"Weaving Octopus","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_octopus.png","bindType":-1,"knownIds":[1241340]}

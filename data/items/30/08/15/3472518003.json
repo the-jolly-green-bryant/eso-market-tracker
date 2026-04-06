@@ -1,10 +1,1 @@
-{
-  "internalId": 3472518003,
-  "name": "Clever Alchemist Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72460
-  ]
-}
+{"internalId":3472518003,"name":"Clever Alchemist Girdle","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[72460]}

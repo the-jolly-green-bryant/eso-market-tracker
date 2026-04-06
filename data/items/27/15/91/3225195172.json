@@ -1,10 +1,1 @@
-{
-  "internalId": 3225195172,
-  "name": "Plant Cluster, Zahmia",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_zamiapalm006.png",
-  "bindType": -1,
-  "knownIds": [
-    153683
-  ]
-}
+{"internalId":3225195172,"name":"Plant Cluster, Zahmia","description":"This is a large house item.","icon":"data/images/60/0m/la/housing_veg_els_zamiapalm006.png","bindType":-1,"knownIds":[153683]}

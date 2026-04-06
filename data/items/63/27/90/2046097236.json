@@ -1,10 +1,1 @@
-{
-  "internalId": 2046097236,
-  "name": "Alinor Potted Plant, Cypress",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_topiarygccypress001.png",
-  "bindType": -1,
-  "knownIds": [
-    141869
-  ]
-}
+{"internalId":2046097236,"name":"Alinor Potted Plant, Cypress","description":"This is a large house item.","icon":"data/images/10/0s/se/housing_veg_sum_topiarygccypress001.png","bindType":-1,"knownIds":[141869]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 761832932,
-  "name": "Girdle of the Black Rose",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    116684
-  ]
-}
+{"internalId":761832932,"name":"Girdle of the Black Rose","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[116684]}

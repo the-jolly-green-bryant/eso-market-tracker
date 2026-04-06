@@ -1,10 +1,1 @@
-{
-  "internalId": 308038104,
-  "name": "Wood Elf Hide, Heavy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rackfur.png",
-  "bindType": -1,
-  "knownIds": [
-    115573
-  ]
-}
+{"internalId":308038104,"name":"Wood Elf Hide, Heavy","description":"This is a standard house item.","icon":"data/images/ru/fk/ca/housing_gen_exc_rackfur.png","bindType":-1,"knownIds":[115573]}

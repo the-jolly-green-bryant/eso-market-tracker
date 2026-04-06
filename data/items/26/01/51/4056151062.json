@@ -1,10 +1,1 @@
-{
-  "internalId": 4056151062,
-  "name": "Coldharbour Glowstalk, Young",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_chlightstalk003.png",
-  "bindType": -1,
-  "knownIds": [
-    130285
-  ]
-}
+{"internalId":4056151062,"name":"Coldharbour Glowstalk, Young","description":"This is a small house item.","icon":"data/images/30/0k/la/housing_veg_fug_chlightstalk003.png","bindType":-1,"knownIds":[130285]}

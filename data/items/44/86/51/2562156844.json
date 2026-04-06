@@ -1,10 +1,1 @@
-{
-  "internalId": 2562156844,
-  "name": "Painting of \"The Slave-Coffles of Thorn\"",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1085270
-  ]
-}
+{"internalId":2562156844,"name":"Painting of \"The Slave-Coffles of Thorn\"","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[1085270]}

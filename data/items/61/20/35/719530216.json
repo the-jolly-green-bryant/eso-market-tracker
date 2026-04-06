@@ -1,10 +1,1 @@
-{
-  "internalId": 719530216,
-  "name": "Guar Tallow Candle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863351
-  ]
-}
+{"internalId":719530216,"name":"Guar Tallow Candle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[863351]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3388891448,
-  "name": "Elsweyr Throne, Elegant Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_throne001.png",
-  "bindType": -1,
-  "knownIds": [
-    151690
-  ]
-}
+{"internalId":3388891448,"name":"Elsweyr Throne, Elegant Wooden","description":"This is a standard house item.","icon":"data/images/10/0e/no/housing_els_fur_throne001.png","bindType":-1,"knownIds":[151690]}

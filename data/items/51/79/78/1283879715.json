@@ -1,15 +1,1 @@
-{
-  "internalId": 1283879715,
-  "name": "Umbral Edge Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1727250,
-    1740308,
-    1743627,
-    1727250,
-    1740308,
-    1743627
-  ]
-}
+{"internalId":1283879715,"name":"Umbral Edge Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_feet_a.png","bindType":-1,"knownIds":[1727250,1740308,1743627,1727250,1740308,1743627]}

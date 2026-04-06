@@ -1,15 +1,1 @@
-{
-  "internalId": 1434996198,
-  "name": "Roaring Opportunist's Perfected Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1630367,
-    1639705,
-    1645118,
-    1630367,
-    1639705,
-    1645118
-  ]
-}
+{"internalId":1434996198,"name":"Roaring Opportunist's Perfected Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png","bindType":-1,"knownIds":[1630367,1639705,1645118,1630367,1639705,1645118]}

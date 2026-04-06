@@ -1,10 +1,1 @@
-{
-  "internalId": 2229788655,
-  "name": "Hammer of the Resilient Yokeda",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorngod_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    59097
-  ]
-}
+{"internalId":2229788655,"name":"Hammer of the Resilient Yokeda","description":"","icon":"data/images/a_/re/mm/gear_craglorngod_1hhammer_a.png","bindType":2,"knownIds":[59097]}

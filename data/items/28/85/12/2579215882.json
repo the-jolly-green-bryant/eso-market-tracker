@@ -1,10 +1,1 @@
-{
-  "internalId": 2579215882,
-  "name": "Lorkhan's Tears",
-  "description": "A lunar ingredient for crafting Champion potions.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_lorkhanstears.png",
-  "bindType": -1,
-  "knownIds": [
-    64501
-  ]
-}
+{"internalId":2579215882,"name":"Lorkhan's Tears","description":"A lunar ingredient for crafting Champion potions.","icon":"data/images/sr/ae/ts/crafting_lorkhanstears.png","bindType":-1,"knownIds":[64501]}

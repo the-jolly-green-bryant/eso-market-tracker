@@ -1,10 +1,1 @@
-{
-  "internalId": 795029380,
-  "name": "Praxis: Leyawiin Firepit, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    175977
-  ]
-}
+{"internalId":795029380,"name":"Praxis: Leyawiin Firepit, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[175977]}

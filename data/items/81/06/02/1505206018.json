@@ -1,10 +1,1 @@
-{
-  "internalId": 1505206018,
-  "name": "Pauldron of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79242
-  ]
-}
+{"internalId":1505206018,"name":"Pauldron of Imperial Physique","description":"","icon":"data/images/a_/sr/ed/gear_ooth_heavy_shoulders_a.png","bindType":2,"knownIds":[79242]}

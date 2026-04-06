@@ -1,10 +1,1 @@
-{
-  "internalId": 1576288896,
-  "name": "Knot Bauble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1194754
-  ]
-}
+{"internalId":1576288896,"name":"Knot Bauble","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png","bindType":-1,"knownIds":[1194754]}

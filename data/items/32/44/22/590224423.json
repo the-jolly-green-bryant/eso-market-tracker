@@ -1,10 +1,1 @@
-{
-  "internalId": 590224423,
-  "name": "Belt of the Order's Wrath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185140
-  ]
-}
+{"internalId":590224423,"name":"Belt of the Order's Wrath","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[185140]}

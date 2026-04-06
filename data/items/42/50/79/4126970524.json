@@ -1,10 +1,1 @@
-{
-  "internalId": 4126970524,
-  "name": "Crafting Motif 17: Xivkyn Maces",
-  "description": "Use to learn how to make Xivkyn Maces. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Xivkyn Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57844
-  ]
-}
+{"internalId":4126970524,"name":"Crafting Motif 17: Xivkyn Maces","description":"Use to learn how to make Xivkyn Maces. Requires Rank 9 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Xivkyn Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[57844]}

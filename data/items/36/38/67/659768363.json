@@ -1,10 +1,1 @@
-{
-  "internalId": 659768363,
-  "name": "Battlefield Acrobat Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144440
-  ]
-}
+{"internalId":659768363,"name":"Battlefield Acrobat Bracers","description":"","icon":"data/images/d_/sd/na/gear_breton_medium_hands_d.png","bindType":2,"knownIds":[144440]}

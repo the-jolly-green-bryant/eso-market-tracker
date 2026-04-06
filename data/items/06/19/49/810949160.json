@@ -1,10 +1,1 @@
-{
-  "internalId": 810949160,
-  "name": "Hunting Bow",
-  "description": "Equip this bow to compete in Steady-Hand's hunting contest.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    29956
-  ]
-}
+{"internalId":810949160,"name":"Hunting Bow","description":"Equip this bow to compete in Steady-Hand's hunting contest.","icon":"data/images/a_/wo/b_/gear_breton_bow_a.png","bindType":-1,"knownIds":[29956]}

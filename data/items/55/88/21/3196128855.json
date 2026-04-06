@@ -1,10 +1,1 @@
-{
-  "internalId": 3196128855,
-  "name": "Clockwork Goblet, Recycled Water",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_goblet001_full.png",
-  "bindType": -1,
-  "knownIds": [
-    134354
-  ]
-}
+{"internalId":3196128855,"name":"Clockwork Goblet, Recycled Water","description":"This is a tiny house item.","icon":"data/images/ll/uf/_1/housing_cwc_inc_goblet001_full.png","bindType":-1,"knownIds":[134354]}

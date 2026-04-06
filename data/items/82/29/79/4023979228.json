@@ -1,10 +1,1 @@
-{
-  "internalId": 4023979228,
-  "name": "Eternal Hunt Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72811
-  ]
-}
+{"internalId":4023979228,"name":"Eternal Hunt Greaves","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[72811]}

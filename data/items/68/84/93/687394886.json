@@ -1,17 +1,1 @@
-{
-  "internalId": 687394886,
-  "name": "Cinders of Anthelmir Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_2haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    1702086,
-    1717211,
-    1728809,
-    1774010,
-    1702086,
-    1717211,
-    1728809,
-    1774010
-  ]
-}
+{"internalId":687394886,"name":"Cinders of Anthelmir Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_2haxe.png","bindType":-1,"knownIds":[1702086,1717211,1728809,1774010,1702086,1717211,1728809,1774010]}

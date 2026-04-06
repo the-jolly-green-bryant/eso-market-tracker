@@ -1,10 +1,1 @@
-{
-  "internalId": 2928577933,
-  "name": "Shell Splitter Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194184
-  ]
-}
+{"internalId":2928577933,"name":"Shell Splitter Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[194184]}

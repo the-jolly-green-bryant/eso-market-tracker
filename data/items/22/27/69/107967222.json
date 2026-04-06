@@ -1,10 +1,1 @@
-{
-  "internalId": 107967222,
-  "name": "Zha'ja Roh",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_blenny.png",
-  "bindType": -1,
-  "knownIds": [
-    1362687
-  ]
-}
+{"internalId":107967222,"name":"Zha'ja Roh","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_blenny.png","bindType":-1,"knownIds":[1362687]}

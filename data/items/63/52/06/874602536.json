@@ -1,10 +1,1 @@
-{
-  "internalId": 874602536,
-  "name": "Elsweyr Gravy Boat, Gilded",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_gravyspoutwithfood001.png",
-  "bindType": -1,
-  "knownIds": [
-    151646
-  ]
-}
+{"internalId":874602536,"name":"Elsweyr Gravy Boat, Gilded","description":"This is a small house item.","icon":"data/images/10/0d/oo/housing_els_inc_gravyspoutwithfood001.png","bindType":-1,"knownIds":[151646]}

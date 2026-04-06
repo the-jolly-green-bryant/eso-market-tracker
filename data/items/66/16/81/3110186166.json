@@ -1,10 +1,1 @@
-{
-  "internalId": 3110186166,
-  "name": "Inferno Staff of Morkuldin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    70973
-  ]
-}
+{"internalId":3110186166,"name":"Inferno Staff of Morkuldin","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[70973]}

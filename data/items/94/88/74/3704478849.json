@@ -1,10 +1,1 @@
-{
-  "internalId": 3704478849,
-  "name": "Blueprint: Worm Cult Torture Rack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    223932
-  ]
-}
+{"internalId":3704478849,"name":"Blueprint: Worm Cult Torture Rack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[223932]}

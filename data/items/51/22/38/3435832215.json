@@ -1,10 +1,1 @@
-{
-  "internalId": 3435832215,
-  "name": "Collapsed Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1420098
-  ]
-}
+{"internalId":3435832215,"name":"Collapsed Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[1420098]}

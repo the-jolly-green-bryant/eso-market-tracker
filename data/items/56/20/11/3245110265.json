@@ -1,13 +1,1 @@
-{
-  "internalId": 3245110265,
-  "name": "Aether Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    822949,
-    932308,
-    822949,
-    932308
-  ]
-}
+{"internalId":3245110265,"name":"Aether Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_shoulders_a.png","bindType":-1,"knownIds":[822949,932308,822949,932308]}

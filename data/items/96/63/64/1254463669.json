@@ -1,10 +1,1 @@
-{
-  "internalId": 1254463669,
-  "name": "Spell Strategist Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144241
-  ]
-}
+{"internalId":1254463669,"name":"Spell Strategist Axe","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[144241]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3429288226,
-  "name": "Ring of Orgnum's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140143
-  ]
-}
+{"internalId":3429288226,"name":"Ring of Orgnum's Scales","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140143]}

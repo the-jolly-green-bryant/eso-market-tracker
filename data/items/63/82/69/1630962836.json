@@ -1,10 +1,1 @@
-{
-  "internalId": 1630962836,
-  "name": "Vampiric Hourglass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366799
-  ]
-}
+{"internalId":1630962836,"name":"Vampiric Hourglass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png","bindType":-1,"knownIds":[1366799]}

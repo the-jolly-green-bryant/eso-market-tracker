@@ -1,10 +1,1 @@
-{
-  "internalId": 3631032120,
-  "name": "Ex-Legionairy's Breastplate of Soulshine",
-  "description": "The Colovian deserters that found their way to Fardir's Folly found the life of the brigand much to their liking.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34802
-  ]
-}
+{"internalId":3631032120,"name":"Ex-Legionairy's Breastplate of Soulshine","description":"The Colovian deserters that found their way to Fardir's Folly found the life of the brigand much to their liking.","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[34802]}

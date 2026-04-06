@@ -1,10 +1,1 @@
-{
-  "internalId": 204059633,
-  "name": "Praxis: Colovian Garden Wall, Curved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    211028
-  ]
-}
+{"internalId":204059633,"name":"Praxis: Colovian Garden Wall, Curved","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[211028]}

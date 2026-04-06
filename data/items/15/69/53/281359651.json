@@ -1,10 +1,1 @@
-{
-  "internalId": 281359651,
-  "name": "Harpy Bile",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    815028
-  ]
-}
+{"internalId":281359651,"name":"Harpy Bile","description":"","icon":null,"bindType":-1,"knownIds":[815028]}

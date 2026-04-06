@@ -1,10 +1,1 @@
-{
-  "internalId": 3158235725,
-  "name": "Dragon God's Pristine Hoard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1354110
-  ]
-}
+{"internalId":3158235725,"name":"Dragon God's Pristine Hoard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1354110]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2310234561,
-  "name": "Cocoon, Dormant",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_venomcocoon006.png",
-  "bindType": -1,
-  "knownIds": [
-    139153
-  ]
-}
+{"internalId":2310234561,"name":"Cocoon, Dormant","description":"This is a small house item.","icon":"data/images/60/0n/oo/housing_bos_exc_venomcocoon006.png","bindType":-1,"knownIds":[139153]}

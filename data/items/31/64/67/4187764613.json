@@ -1,10 +1,1 @@
-{
-  "internalId": 4187764613,
-  "name": "Companion's Gauntlets",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_gloves_heavy.png",
-  "bindType": 2,
-  "knownIds": [
-    178441
-  ]
-}
+{"internalId":4187764613,"name":"Companion's Gauntlets","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_gloves_heavy.png","bindType":2,"knownIds":[178441]}

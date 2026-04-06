@@ -1,10 +1,1 @@
-{
-  "internalId": 3715301959,
-  "name": "Axe of Diamond's Victory",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    173538
-  ]
-}
+{"internalId":3715301959,"name":"Axe of Diamond's Victory","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":2,"knownIds":[173538]}

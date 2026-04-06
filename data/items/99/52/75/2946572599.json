@@ -1,13 +1,1 @@
-{
-  "internalId": 2946572599,
-  "name": "Xoryn's Perfected Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732705,
-    1744426,
-    1732705,
-    1744426
-  ]
-}
+{"internalId":2946572599,"name":"Xoryn's Perfected Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png","bindType":-1,"knownIds":[1732705,1744426,1732705,1744426]}

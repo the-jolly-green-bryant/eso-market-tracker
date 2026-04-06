@@ -1,10 +1,1 @@
-{
-  "internalId": 1742691503,
-  "name": "Bone Pyre Ash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/style_item_ascendantorder.png",
-  "bindType": -1,
-  "knownIds": [
-    181694
-  ]
-}
+{"internalId":1742691503,"name":"Bone Pyre Ash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/style_item_ascendantorder.png","bindType":-1,"knownIds":[181694]}

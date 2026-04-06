@@ -1,10 +1,1 @@
-{
-  "internalId": 849449973,
-  "name": "Murkmire Felucca, Canopied",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_csb_mrkboat001.png",
-  "bindType": -1,
-  "knownIds": [
-    145426
-  ]
-}
+{"internalId":849449973,"name":"Murkmire Felucca, Canopied","description":"This is a large house item.","icon":"data/images/10/0t/ao/housing_arg_csb_mrkboat001.png","bindType":-1,"knownIds":[145426]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 944474461,
-  "name": "Pattern: Orcish Carpet, Fringed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    119027
-  ]
-}
+{"internalId":944474461,"name":"Pattern: Orcish Carpet, Fringed","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[119027]}

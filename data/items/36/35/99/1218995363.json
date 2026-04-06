@@ -1,10 +1,1 @@
-{
-  "internalId": 1218995363,
-  "name": "Gloom-Graced Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_satff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135314
-  ]
-}
+{"internalId":1218995363,"name":"Gloom-Graced Lightning Staff","description":"","icon":"data/images/a_/ff/ta/gear_nocturnal_satff_a.png","bindType":2,"knownIds":[135314]}

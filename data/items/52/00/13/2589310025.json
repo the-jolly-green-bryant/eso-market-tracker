@@ -1,10 +1,1 @@
-{
-  "internalId": 2589310025,
-  "name": "Ordinator Helm",
-  "description": "Almalexia herself gave you this helm for defeating Vanus Sathram and saving the Tribunal Temple.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10365
-  ]
-}
+{"internalId":2589310025,"name":"Ordinator Helm","description":"Almalexia herself gave you this helm for defeating Vanus Sathram and saving the Tribunal Temple.","icon":"data/images/d_/da/eh/gear_dunmer_medium_head_d.png","bindType":2,"knownIds":[10365]}

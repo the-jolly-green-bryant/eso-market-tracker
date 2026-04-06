@@ -1,10 +1,1 @@
-{
-  "internalId": 3288100194,
-  "name": "Longhaven Brigandine",
-  "description": "This thick armor seems to have been designed specifically to deter a vampire's bite.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    32063
-  ]
-}
+{"internalId":3288100194,"name":"Longhaven Brigandine","description":"This thick armor seems to have been designed specifically to deter a vampire's bite.","icon":"data/images/d_/ts/eh/gear_bosmer_medium_chest_d.png","bindType":2,"knownIds":[32063]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 2061801755,
-  "name": "lesser glyph of health recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_healthregen.png",
-  "bindType": -1,
-  "knownIds": [
-    450630,
-    1437811,
-    450630,
-    1437811
-  ]
-}
+{"internalId":2061801755,"name":"lesser glyph of health recovery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_healthregen.png","bindType":-1,"knownIds":[450630,1437811,450630,1437811]}

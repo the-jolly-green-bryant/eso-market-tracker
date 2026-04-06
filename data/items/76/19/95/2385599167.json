@@ -1,10 +1,1 @@
-{
-  "internalId": 2385599167,
-  "name": "Eye of the Grasp Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180079
-  ]
-}
+{"internalId":2385599167,"name":"Eye of the Grasp Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_dagger_a.png","bindType":2,"knownIds":[180079]}

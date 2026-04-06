@@ -1,10 +1,1 @@
-{
-  "internalId": 1097441939,
-  "name": "Deadlands Table, Ashen Wide",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedlowlargetable002.png",
-  "bindType": -1,
-  "knownIds": [
-    175715
-  ]
-}
+{"internalId":1097441939,"name":"Deadlands Table, Ashen Wide","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedlowlargetable002.png","bindType":-1,"knownIds":[175715]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 512349240,
-  "name": "Blueprint: Solitude Cabinet, Narrow Noble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166880
-  ]
-}
+{"internalId":512349240,"name":"Blueprint: Solitude Cabinet, Narrow Noble","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[166880]}

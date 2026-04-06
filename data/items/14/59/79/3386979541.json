@@ -1,10 +1,1 @@
-{
-  "internalId": 3386979541,
-  "name": "Parrot-Feather Shawl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cape_001.png",
-  "bindType": -1,
-  "knownIds": [
-    603628
-  ]
-}
+{"internalId":3386979541,"name":"Parrot-Feather Shawl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cape_001.png","bindType":-1,"knownIds":[603628]}

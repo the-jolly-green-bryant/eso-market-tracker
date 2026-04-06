@@ -1,10 +1,1 @@
-{
-  "internalId": 2576961096,
-  "name": "Blueprint: Alinor Candles, Tall Stand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    139531
-  ]
-}
+{"internalId":2576961096,"name":"Blueprint: Alinor Candles, Tall Stand","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[139531]}

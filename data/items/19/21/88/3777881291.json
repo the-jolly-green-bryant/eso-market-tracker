@@ -1,10 +1,1 @@
-{
-  "internalId": 3777881291,
-  "name": "Argonian Shelves, Full",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_hangingshelves002.png",
-  "bindType": -1,
-  "knownIds": [
-    115432
-  ]
-}
+{"internalId":3777881291,"name":"Argonian Shelves, Full","description":"This is a standard house item.","icon":"data/images/20/0s/ev/housing_arg_exc_hangingshelves002.png","bindType":-1,"knownIds":[115432]}

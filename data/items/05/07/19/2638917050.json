@@ -1,10 +1,1 @@
-{
-  "internalId": 2638917050,
-  "name": "Jewelry: Shroud / Lich",
-  "description": "A Light Armor set found in Crypt of Hearts.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134128
-  ]
-}
+{"internalId":2638917050,"name":"Jewelry: Shroud / Lich","description":"A Light Armor set found in Crypt of Hearts.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134128]}

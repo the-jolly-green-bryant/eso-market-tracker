@@ -1,10 +1,1 @@
-{
-  "internalId": 3454836852,
-  "name": "Bleeding Crown Rouge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366188
-  ]
-}
+{"internalId":3454836852,"name":"Bleeding Crown Rouge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1366188]}

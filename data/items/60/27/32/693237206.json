@@ -1,10 +1,1 @@
-{
-  "internalId": 693237206,
-  "name": "Pebbles, Stacked Mossy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_shadowfensmall007.png",
-  "bindType": -1,
-  "knownIds": [
-    120632
-  ]
-}
+{"internalId":693237206,"name":"Pebbles, Stacked Mossy","description":"This is a standard house item.","icon":"data/images/70/0l/la/housing_rok_gry_shadowfensmall007.png","bindType":-1,"knownIds":[120632]}

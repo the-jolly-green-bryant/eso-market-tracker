@@ -1,10 +1,1 @@
-{
-  "internalId": 2365367971,
-  "name": "Ice Floe, Thick",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_aqa_wgriceflow002.png",
-  "bindType": -1,
-  "knownIds": [
-    134578
-  ]
-}
+{"internalId":2365367971,"name":"Ice Floe, Thick","description":"This is a large house item.","icon":"data/images/20/0w/ol/housing_rok_aqa_wgriceflow002.png","bindType":-1,"knownIds":[134578]}

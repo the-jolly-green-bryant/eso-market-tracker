@@ -1,10 +1,1 @@
-{
-  "internalId": 3614455759,
-  "name": "Orcish Worry Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385043
-  ]
-}
+{"internalId":3614455759,"name":"Orcish Worry Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png","bindType":-1,"knownIds":[1385043]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1196397712,
-  "name": "Diagram: Dark Elf Lantern, Ashen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    116078
-  ]
-}
+{"internalId":1196397712,"name":"Diagram: Dark Elf Lantern, Ashen","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[116078]}

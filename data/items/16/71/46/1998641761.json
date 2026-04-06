@@ -1,10 +1,1 @@
-{
-  "internalId": 1998641761,
-  "name": "Recipe: Tawny Port",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45973
-  ]
-}
+{"internalId":1998641761,"name":"Recipe: Tawny Port","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45973]}

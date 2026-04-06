@@ -1,10 +1,1 @@
-{
-  "internalId": 3721528523,
-  "name": "Plant, Squat Yucca",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_yuccaplant001.png",
-  "bindType": -1,
-  "knownIds": [
-    120450
-  ]
-}
+{"internalId":3721528523,"name":"Plant, Squat Yucca","description":"This is a standard house item.","icon":"data/images/10/0t/na/housing_veg_bsh_yuccaplant001.png","bindType":-1,"knownIds":[120450]}

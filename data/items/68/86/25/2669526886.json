@@ -1,10 +1,1 @@
-{
-  "internalId": 2669526886,
-  "name": "Basket of Tomatoes",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_cratetomatoes001.png",
-  "bindType": -1,
-  "knownIds": [
-    118191
-  ]
-}
+{"internalId":2669526886,"name":"Basket of Tomatoes","description":"This is a small house item.","icon":"data/images/10/0s/eo/housing_bre_con_cratetomatoes001.png","bindType":-1,"knownIds":[118191]}

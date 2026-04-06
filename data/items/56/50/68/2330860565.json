@@ -1,10 +1,1 @@
-{
-  "internalId": 2330860565,
-  "name": "High Isle Window, Turquoise",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinghousemedwindow001.png",
-  "bindType": -1,
-  "knownIds": [
-    189499
-  ]
-}
+{"internalId":2330860565,"name":"High Isle Window, Turquoise","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinghousemedwindow001.png","bindType":-1,"knownIds":[189499]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1402715430,
-  "name": "Battered War Trophy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    543715
-  ]
-}
+{"internalId":1402715430,"name":"Battered War Trophy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png","bindType":-1,"knownIds":[543715]}

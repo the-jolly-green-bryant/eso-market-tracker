@@ -1,10 +1,1 @@
-{
-  "internalId": 1301671747,
-  "name": "Prisoner's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102048
-  ]
-}
+{"internalId":1301671747,"name":"Prisoner's Epaulets","description":"","icon":"data/images/a_/sr/ed/gear_soulshriven_light_shoulders_a.png","bindType":2,"knownIds":[102048]}

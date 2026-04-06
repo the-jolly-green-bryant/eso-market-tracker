@@ -1,10 +1,1 @@
-{
-  "internalId": 2016580812,
-  "name": "Companion's Robe",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_chest_robe.png",
-  "bindType": 2,
-  "knownIds": [
-    177192
-  ]
-}
+{"internalId":2016580812,"name":"Companion's Robe","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_chest_robe.png","bindType":2,"knownIds":[177192]}

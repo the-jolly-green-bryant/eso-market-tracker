@@ -1,10 +1,1 @@
-{
-  "internalId": 507803437,
-  "name": "Brotherhood Carpet, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhrugsanctuary003.png",
-  "bindType": -1,
-  "knownIds": [
-    134846
-  ]
-}
+{"internalId":507803437,"name":"Brotherhood Carpet, Large","description":"This is a large house item.","icon":"data/images/30/0y/ra/housing_col_inc_dbhrugsanctuary003.png","bindType":-1,"knownIds":[134846]}

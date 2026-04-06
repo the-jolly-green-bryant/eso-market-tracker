@@ -1,15 +1,1 @@
-{
-  "internalId": 4048860531,
-  "name": "effusion of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    437817,
-    712857,
-    1426869,
-    437817,
-    712857,
-    1426869
-  ]
-}
+{"internalId":4048860531,"name":"effusion of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png","bindType":-1,"knownIds":[437817,712857,1426869,437817,712857,1426869]}

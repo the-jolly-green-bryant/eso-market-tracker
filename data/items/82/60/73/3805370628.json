@@ -1,10 +1,1 @@
-{
-  "internalId": 3805370628,
-  "name": "Signature Script: Knight's Valor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_shieldmastery.png",
-  "bindType": -1,
-  "knownIds": [
-    204574
-  ]
-}
+{"internalId":3805370628,"name":"Signature Script: Knight's Valor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_shieldmastery.png","bindType":-1,"knownIds":[204574]}

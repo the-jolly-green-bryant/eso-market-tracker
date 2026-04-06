@@ -1,10 +1,1 @@
-{
-  "internalId": 1922179517,
-  "name": "Sweetroll Patrol Tin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1384939
-  ]
-}
+{"internalId":1922179517,"name":"Sweetroll Patrol Tin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1384939]}

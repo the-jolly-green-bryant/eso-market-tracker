@@ -1,10 +1,1 @@
-{
-  "internalId": 459583885,
-  "name": "Leyawiin Door, Wooden",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_ley_doormed002.png",
-  "bindType": -1,
-  "knownIds": [
-    181520
-  ]
-}
+{"internalId":459583885,"name":"Leyawiin Door, Wooden","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_ley_doormed002.png","bindType":-1,"knownIds":[181520]}

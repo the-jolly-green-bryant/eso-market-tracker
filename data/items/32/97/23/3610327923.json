@@ -1,10 +1,1 @@
-{
-  "internalId": 3610327923,
-  "name": "Uncut Black Gem Shards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u47_styleitemicon_blacksoulgem.png",
-  "bindType": -1,
-  "knownIds": [
-    212440
-  ]
-}
+{"internalId":3610327923,"name":"Uncut Black Gem Shards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/u47_styleitemicon_blacksoulgem.png","bindType":-1,"knownIds":[212440]}

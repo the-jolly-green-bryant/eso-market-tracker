@@ -1,10 +1,1 @@
-{
-  "internalId": 3382579933,
-  "name": "String of Thrassian Pearls",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_thrassian_pearls.png",
-  "bindType": -1,
-  "knownIds": [
-    1124390
-  ]
-}
+{"internalId":3382579933,"name":"String of Thrassian Pearls","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_thrassian_pearls.png","bindType":-1,"knownIds":[1124390]}

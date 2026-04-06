@@ -1,10 +1,1 @@
-{
-  "internalId": 277307700,
-  "name": "Plant, Lava Brier",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_redspikey003.png",
-  "bindType": -1,
-  "knownIds": [
-    125621
-  ]
-}
+{"internalId":277307700,"name":"Plant, Lava Brier","description":"This is a small house item.","icon":"data/images/30/0y/ek/housing_veg_bsh_redspikey003.png","bindType":-1,"knownIds":[125621]}

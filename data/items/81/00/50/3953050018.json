@@ -1,10 +1,1 @@
-{
-  "internalId": 3953050018,
-  "name": "Suril's Journal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1338203
-  ]
-}
+{"internalId":3953050018,"name":"Suril's Journal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png","bindType":-1,"knownIds":[1338203]}

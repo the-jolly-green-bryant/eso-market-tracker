@@ -1,10 +1,1 @@
-{
-  "internalId": 1217030855,
-  "name": "Invitation: Drinks With the Neighbors",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    817807
-  ]
-}
+{"internalId":1217030855,"name":"Invitation: Drinks With the Neighbors","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[817807]}

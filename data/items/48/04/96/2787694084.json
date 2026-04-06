@@ -1,13 +1,1 @@
-{
-  "internalId": 2787694084,
-  "name": "Habit of the Witch-Hunter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_robe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    463212,
-    791380,
-    463212,
-    791380
-  ]
-}
+{"internalId":2787694084,"name":"Habit of the Witch-Hunter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_robe_d.png","bindType":-1,"knownIds":[463212,791380,463212,791380]}

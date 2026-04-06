@@ -1,10 +1,1 @@
-{
-  "internalId": 2357517664,
-  "name": "Hunt-Father's Spaulders",
-  "description": "These savage spaulders weigh heavy upon the shoulders—a constant reminder of the Hunt-Father's grim demands.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_med_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167411
-  ]
-}
+{"internalId":2357517664,"name":"Hunt-Father's Spaulders","description":"These savage spaulders weigh heavy upon the shoulders—a constant reminder of the Hunt-Father's grim demands.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_med_shoulders_a.png","bindType":2,"knownIds":[167411]}

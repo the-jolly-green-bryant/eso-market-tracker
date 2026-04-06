@@ -1,10 +1,1 @@
-{
-  "internalId": 195159406,
-  "name": "Crafting Motif 89: Ancestral High Elf Bows",
-  "description": "Use to learn how to make Ancestral High Elf Bows. Also teaches the equivalent Ancestral High Elf Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160597
-  ]
-}
+{"internalId":195159406,"name":"Crafting Motif 89: Ancestral High Elf Bows","description":"Use to learn how to make Ancestral High Elf Bows. Also teaches the equivalent Ancestral High Elf Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160597]}

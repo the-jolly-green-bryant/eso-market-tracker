@@ -1,10 +1,1 @@
-{
-  "internalId": 305662705,
-  "name": "Telvanni Peninsula Treasure Map III",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    198099
-  ]
-}
+{"internalId":305662705,"name":"Telvanni Peninsula Treasure Map III","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[198099]}

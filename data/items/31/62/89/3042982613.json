@@ -1,10 +1,1 @@
-{
-  "internalId": 3042982613,
-  "name": "Praxis: Ayleid Wall, Low Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    212598
-  ]
-}
+{"internalId":3042982613,"name":"Praxis: Ayleid Wall, Low Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[212598]}

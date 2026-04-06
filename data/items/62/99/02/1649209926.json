@@ -1,13 +1,1 @@
-{
-  "internalId": 1649209926,
-  "name": "Ring of the Turning Tide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1568983,
-    1569175,
-    1568983,
-    1569175
-  ]
-}
+{"internalId":1649209926,"name":"Ring of the Turning Tide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1568983,1569175,1568983,1569175]}

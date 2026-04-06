@@ -1,10 +1,1 @@
-{
-  "internalId": 37626400,
-  "name": "Imperial Cauldron, Pitch-Filled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_exc_boilingoil001.png",
-  "bindType": -1,
-  "knownIds": [
-    94116
-  ]
-}
+{"internalId":37626400,"name":"Imperial Cauldron, Pitch-Filled","description":"This is a standard house item.","icon":"data/images/10/0l/io/housing_imp_exc_boilingoil001.png","bindType":-1,"knownIds":[94116]}

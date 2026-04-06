@@ -1,10 +1,1 @@
-{
-  "internalId": 3344977460,
-  "name": "Flowers, Midnight Glory",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_wyrdflowerclusternoglow04.png",
-  "bindType": -1,
-  "knownIds": [
-    134903
-  ]
-}
+{"internalId":3344977460,"name":"Flowers, Midnight Glory","description":"This is a small house item.","icon":"data/images/40/wo/lg/housing_veg_flr_wyrdflowerclusternoglow04.png","bindType":-1,"knownIds":[134903]}

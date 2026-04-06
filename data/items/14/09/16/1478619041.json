@@ -1,10 +1,1 @@
-{
-  "internalId": 1478619041,
-  "name": "Truly Superb Glyph of Poison Resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_poisonresist.png",
-  "bindType": -1,
-  "knownIds": [
-    1453663
-  ]
-}
+{"internalId":1478619041,"name":"Truly Superb Glyph of Poison Resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_poisonresist.png","bindType":-1,"knownIds":[1453663]}

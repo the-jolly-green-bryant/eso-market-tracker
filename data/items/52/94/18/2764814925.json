@@ -1,10 +1,1 @@
-{
-  "internalId": 2764814925,
-  "name": "Mad Tinkerer's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133006
-  ]
-}
+{"internalId":2764814925,"name":"Mad Tinkerer's Ice Staff","description":"","icon":"data/images/a_/ff/at/gear_apostle_staff_a.png","bindType":2,"knownIds":[133006]}

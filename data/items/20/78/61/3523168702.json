@@ -1,10 +1,1 @@
-{
-  "internalId": 3523168702,
-  "name": "Crafting Motif 95: Nighthollow Boots",
-  "description": "Use to learn how to make Nighthollow Boots. Also teaches the equivalent Nighthollow Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167946
-  ]
-}
+{"internalId":3523168702,"name":"Crafting Motif 95: Nighthollow Boots","description":"Use to learn how to make Nighthollow Boots. Also teaches the equivalent Nighthollow Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167946]}

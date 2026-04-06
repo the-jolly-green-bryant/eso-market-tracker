@@ -1,10 +1,1 @@
-{
-  "internalId": 1071005576,
-  "name": "Bright-Throat's Boast Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142757
-  ]
-}
+{"internalId":1071005576,"name":"Bright-Throat's Boast Inferno Staff","description":"","icon":"data/images/a_/ff/at/gear_elderarg_staff_a.png","bindType":2,"knownIds":[142757]}

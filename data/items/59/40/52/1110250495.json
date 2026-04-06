@@ -1,10 +1,1 @@
-{
-  "internalId": 1110250495,
-  "name": "Gloom-Graced Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135305
-  ]
-}
+{"internalId":1110250495,"name":"Gloom-Graced Mace","description":"","icon":"data/images/a_/re/mm/gear_nocturnal_1hhammer_a.png","bindType":2,"knownIds":[135305]}

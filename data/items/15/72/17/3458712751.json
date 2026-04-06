@@ -1,10 +1,1 @@
-{
-  "internalId": 3458712751,
-  "name": "Recipe: Stuffed Venison Haunch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45643
-  ]
-}
+{"internalId":3458712751,"name":"Recipe: Stuffed Venison Haunch","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45643]}

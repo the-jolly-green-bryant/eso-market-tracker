@@ -1,10 +1,1 @@
-{
-  "internalId": 4235066159,
-  "name": "Redguard Kabobs, Plate",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_grilledmeats002.png",
-  "bindType": -1,
-  "knownIds": [
-    117734
-  ]
-}
+{"internalId":4235066159,"name":"Redguard Kabobs, Plate","description":"This is a small house item.","icon":"data/images/20/0s/ta/housing_red_inc_grilledmeats002.png","bindType":-1,"knownIds":[117734]}

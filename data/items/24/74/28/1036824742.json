@@ -1,10 +1,1 @@
-{
-  "internalId": 1036824742,
-  "name": "Antique Map of Hew's Bane",
-  "description": "This rare map depicts Hew's Bane, also once called Khefrem's Boot, a peninsula on the south coast of Hammerfell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_mappropshewsbanescroll001.png",
-  "bindType": -1,
-  "knownIds": [
-    165997
-  ]
-}
+{"internalId":1036824742,"name":"Antique Map of Hew's Bane","description":"This rare map depicts Hew's Bane, also once called Khefrem's Boot, a peninsula on the south coast of Hammerfell.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_mappropshewsbanescroll001.png","bindType":-1,"knownIds":[165997]}

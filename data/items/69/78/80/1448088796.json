@@ -1,10 +1,1 @@
-{
-  "internalId": 1448088796,
-  "name": "Bound Focus Script: Physical Damage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_physical.png",
-  "bindType": -1,
-  "knownIds": [
-    1720919
-  ]
-}
+{"internalId":1448088796,"name":"Bound Focus Script: Physical Damage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_physical.png","bindType":-1,"knownIds":[1720919]}

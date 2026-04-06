@@ -1,10 +1,1 @@
-{
-  "internalId": 3269609630,
-  "name": "Vaermina Pillar, Mind Terror",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_housingvaepillar001.png",
-  "bindType": -1,
-  "knownIds": [
-    197744
-  ]
-}
+{"internalId":3269609630,"name":"Vaermina Pillar, Mind Terror","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_housingvaepillar001.png","bindType":-1,"knownIds":[197744]}

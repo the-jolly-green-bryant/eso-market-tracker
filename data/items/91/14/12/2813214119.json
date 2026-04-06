@@ -1,10 +1,1 @@
-{
-  "internalId": 2813214119,
-  "name": "Blueprint: Reachmen Chandelier, Gnarled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    171487
-  ]
-}
+{"internalId":2813214119,"name":"Blueprint: Reachmen Chandelier, Gnarled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[171487]}

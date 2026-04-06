@@ -1,10 +1,1 @@
-{
-  "internalId": 2533889421,
-  "name": "Crafting Motif 58: Fang Lair Shields",
-  "description": "Use to learn how to make Fang Lair Shields. Also teaches the equivalent Fang Lair Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    134766
-  ]
-}
+{"internalId":2533889421,"name":"Crafting Motif 58: Fang Lair Shields","description":"Use to learn how to make Fang Lair Shields. Also teaches the equivalent Fang Lair Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[134766]}

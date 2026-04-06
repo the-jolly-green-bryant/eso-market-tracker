@@ -1,10 +1,1 @@
-{
-  "internalId": 2560224541,
-  "name": "Blueprint: Solitude Bookcase, Narrow Rustic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166868
-  ]
-}
+{"internalId":2560224541,"name":"Blueprint: Solitude Bookcase, Narrow Rustic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[166868]}

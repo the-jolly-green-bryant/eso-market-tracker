@@ -1,10 +1,1 @@
-{
-  "internalId": 561766440,
-  "name": "Leyawiin Platform, Large Square",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastleplatformint002.png",
-  "bindType": -1,
-  "knownIds": [
-    181530
-  ]
-}
+{"internalId":561766440,"name":"Leyawiin Platform, Large Square","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastleplatformint002.png","bindType":-1,"knownIds":[181530]}

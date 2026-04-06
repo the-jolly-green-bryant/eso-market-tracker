@@ -1,10 +1,1 @@
-{
-  "internalId": 1840703828,
-  "name": "Dragon Scute",
-  "description": "An ingredient for crafting in the Ebonheart Pact style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_ebonheart_pact.png",
-  "bindType": -1,
-  "knownIds": [
-    71740
-  ]
-}
+{"internalId":1840703828,"name":"Dragon Scute","description":"An ingredient for crafting in the Ebonheart Pact style.","icon":"data/images/tc/ap/_t/crafting_style_item_ebonheart_pact.png","bindType":-1,"knownIds":[71740]}

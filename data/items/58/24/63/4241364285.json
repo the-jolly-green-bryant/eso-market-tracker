@@ -1,10 +1,1 @@
-{
-  "internalId": 4241364285,
-  "name": "Praxis: Leyawiin Platform, Narrow Steps",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    181585
-  ]
-}
+{"internalId":4241364285,"name":"Praxis: Leyawiin Platform, Narrow Steps","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[181585]}

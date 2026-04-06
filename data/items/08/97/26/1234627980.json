@@ -1,10 +1,1 @@
-{
-  "internalId": 1234627980,
-  "name": "Aurora Firepot Spider: Firepot",
-  "description": "Find the Front and Rear Legs, then purchase Philius Dormier's Instructions to assemble this into an Aurora Firepot Spider.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
-  "bindType": -1,
-  "knownIds": [
-    183899
-  ]
-}
+{"internalId":1234627980,"name":"Aurora Firepot Spider: Firepot","description":"Find the Front and Rear Legs, then purchase Philius Dormier's Instructions to assemble this into an Aurora Firepot Spider.","icon":"https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png","bindType":-1,"knownIds":[183899]}

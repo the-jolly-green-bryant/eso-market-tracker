@@ -1,10 +1,1 @@
-{
-  "internalId": 3280213304,
-  "name": "Rough Birch",
-  "description": "Ten of these items can be refined to make sanded birch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_rough_birch.png",
-  "bindType": -1,
-  "knownIds": [
-    818
-  ]
-}
+{"internalId":3280213304,"name":"Rough Birch","description":"Ten of these items can be refined to make sanded birch.","icon":"data/images/hc/ri/b_/crafting_wood_rough_birch.png","bindType":-1,"knownIds":[818]}

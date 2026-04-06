@@ -1,10 +1,1 @@
-{
-  "internalId": 2399850682,
-  "name": "Perfected Mantle of Siroria",
-  "description": "A Light Armor set found in the Cloudrest Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    139033
-  ]
-}
+{"internalId":2399850682,"name":"Perfected Mantle of Siroria","description":"A Light Armor set found in the Cloudrest Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[139033]}

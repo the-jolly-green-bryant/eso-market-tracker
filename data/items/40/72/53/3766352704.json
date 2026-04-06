@@ -1,10 +1,1 @@
-{
-  "internalId": 3766352704,
-  "name": "Lineage of Clan Ironhand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804251
-  ]
-}
+{"internalId":3766352704,"name":"Lineage of Clan Ironhand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[804251]}

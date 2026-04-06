@@ -1,10 +1,1 @@
-{
-  "internalId": 4035583820,
-  "name": "Blacksmith Survey: Western Skyrim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366446
-  ]
-}
+{"internalId":4035583820,"name":"Blacksmith Survey: Western Skyrim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1366446]}

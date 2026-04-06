@@ -1,10 +1,1 @@
-{
-  "internalId": 297352661,
-  "name": "Map of Eastern Skyrim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1170014
-  ]
-}
+{"internalId":297352661,"name":"Map of Eastern Skyrim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[1170014]}

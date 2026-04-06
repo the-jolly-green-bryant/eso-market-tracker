@@ -1,10 +1,1 @@
-{
-  "internalId": 2920591034,
-  "name": "Bastion of the Heartland",
-  "description": "A Heavy Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    150628
-  ]
-}
+{"internalId":2920591034,"name":"Bastion of the Heartland","description":"A Heavy Armor set found in Cyrodiil.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[150628]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2238109560,
-  "name": "Wolftamer's Hatchet",
-  "description": "The prized hatchet of a Reach beast-handler, often used to cleave sturdy branches for teething wolf pups.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167392
-  ]
-}
+{"internalId":2238109560,"name":"Wolftamer's Hatchet","description":"The prized hatchet of a Reach beast-handler, often used to cleave sturdy branches for teething wolf pups.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_1haxe_a.png","bindType":2,"knownIds":[167392]}

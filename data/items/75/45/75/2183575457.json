@@ -1,10 +1,1 @@
-{
-  "internalId": 2183575457,
-  "name": "Maul of the Order's Wrath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185110
-  ]
-}
+{"internalId":2183575457,"name":"Maul of the Order's Wrath","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[185110]}

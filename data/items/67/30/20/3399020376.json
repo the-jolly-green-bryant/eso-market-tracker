@@ -1,10 +1,1 @@
-{
-  "internalId": 3399020376,
-  "name": "Stuffed Sentinel Cat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/pet_010.png",
-  "bindType": -1,
-  "knownIds": [
-    786038
-  ]
-}
+{"internalId":3399020376,"name":"Stuffed Sentinel Cat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/pet_010.png","bindType":-1,"knownIds":[786038]}

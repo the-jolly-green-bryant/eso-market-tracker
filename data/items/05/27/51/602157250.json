@@ -1,10 +1,1 @@
-{
-  "internalId": 602157250,
-  "name": "Exquisite Bone Stylus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_boneshard.png",
-  "bindType": -1,
-  "knownIds": [
-    802028
-  ]
-}
+{"internalId":602157250,"name":"Exquisite Bone Stylus","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_boneshard.png","bindType":-1,"knownIds":[802028]}

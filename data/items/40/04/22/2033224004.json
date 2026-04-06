@@ -1,10 +1,1 @@
-{
-  "internalId": 2033224004,
-  "name": "Mace of Cyrodiil's Ward",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93864
-  ]
-}
+{"internalId":2033224004,"name":"Mace of Cyrodiil's Ward","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[93864]}

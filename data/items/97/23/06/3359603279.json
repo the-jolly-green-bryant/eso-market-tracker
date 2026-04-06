@@ -1,10 +1,1 @@
-{
-  "internalId": 3359603279,
-  "name": "Defiler's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123125
-  ]
-}
+{"internalId":3359603279,"name":"Defiler's Axe","description":"","icon":"data/images/a_/ex/ah/gear_hlaalu_1haxe_a.png","bindType":2,"knownIds":[123125]}

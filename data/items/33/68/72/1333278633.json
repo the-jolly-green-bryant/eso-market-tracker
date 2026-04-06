@@ -1,10 +1,1 @@
-{
-  "internalId": 1333278633,
-  "name": "Praxis: Fargrave Bench, Long Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    183004
-  ]
-}
+{"internalId":1333278633,"name":"Praxis: Fargrave Bench, Long Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[183004]}

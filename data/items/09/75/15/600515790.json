@@ -1,10 +1,1 @@
-{
-  "internalId": 600515790,
-  "name": "Willow Branch Toasting Fork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863258
-  ]
-}
+{"internalId":600515790,"name":"Willow Branch Toasting Fork","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[863258]}

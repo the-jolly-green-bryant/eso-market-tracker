@@ -1,10 +1,1 @@
-{
-  "internalId": 511470749,
-  "name": "Redguard Mat, Starburst",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmall008.png",
-  "bindType": -1,
-  "knownIds": [
-    117856
-  ]
-}
+{"internalId":511470749,"name":"Redguard Mat, Starburst","description":"This is a standard house item.","icon":"data/images/80/0l/la/housing_red_inc_rugsmall008.png","bindType":-1,"knownIds":[117856]}

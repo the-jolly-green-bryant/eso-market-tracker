@@ -1,10 +1,1 @@
-{
-  "internalId": 3438102376,
-  "name": "Dawnwood Table, Reclaimed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bostable001.png",
-  "bindType": -1,
-  "knownIds": [
-    211385
-  ]
-}
+{"internalId":3438102376,"name":"Dawnwood Table, Reclaimed","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bostable001.png","bindType":-1,"knownIds":[211385]}

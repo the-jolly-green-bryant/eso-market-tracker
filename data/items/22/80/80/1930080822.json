@@ -1,10 +1,1 @@
-{
-  "internalId": 1930080822,
-  "name": "Cold Balmora Cabbage Biscuits",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bread_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37791
-  ]
-}
+{"internalId":1930080822,"name":"Cold Balmora Cabbage Biscuits","description":"","icon":"data/images/20/0_/da/crafting_bread_002.png","bindType":-1,"knownIds":[37791]}

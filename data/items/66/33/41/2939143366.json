@@ -1,10 +1,1 @@
-{
-  "internalId": 2939143366,
-  "name": "Telvanni Desk, Organic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_teldeskorganic001.png",
-  "bindType": -1,
-  "knownIds": [
-    126424
-  ]
-}
+{"internalId":2939143366,"name":"Telvanni Desk, Organic","description":"This is a standard house item.","icon":"data/images/10/0c/in/housing_vrd_fur_teldeskorganic001.png","bindType":-1,"knownIds":[126424]}

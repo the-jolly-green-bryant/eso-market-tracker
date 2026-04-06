@@ -1,17 +1,1 @@
-{
-  "internalId": 1582947617,
-  "name": "Sluthrug's Hunger Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_bow.png",
-  "bindType": -1,
-  "knownIds": [
-    1716293,
-    1735325,
-    1753271,
-    1779942,
-    1716293,
-    1735325,
-    1753271,
-    1779942
-  ]
-}
+{"internalId":1582947617,"name":"Sluthrug's Hunger Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_bow.png","bindType":-1,"knownIds":[1716293,1735325,1753271,1779942,1716293,1735325,1753271,1779942]}

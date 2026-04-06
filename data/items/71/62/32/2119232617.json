@@ -1,10 +1,1 @@
-{
-  "internalId": 2119232617,
-  "name": "Argonian Dresser, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkshelf002.png",
-  "bindType": -1,
-  "knownIds": [
-    115474
-  ]
-}
+{"internalId":2119232617,"name":"Argonian Dresser, Sturdy","description":"This is a standard house item.","icon":"data/images/20/0f/le/housing_arg_fur_mrkshelf002.png","bindType":-1,"knownIds":[115474]}

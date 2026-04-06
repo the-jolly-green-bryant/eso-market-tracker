@@ -1,10 +1,1 @@
-{
-  "internalId": 3498750893,
-  "name": "Shipment of Calcinium Ingots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    937461
-  ]
-}
+{"internalId":3498750893,"name":"Shipment of Calcinium Ingots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[937461]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3625045213,
-  "name": "Olorime's Perfected Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_axe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1389453,
-    1546067,
-    1721243,
-    1389453,
-    1546067,
-    1721243
-  ]
-}
+{"internalId":3625045213,"name":"Olorime's Perfected Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_axe_001.png","bindType":-1,"knownIds":[1389453,1546067,1721243,1389453,1546067,1721243]}

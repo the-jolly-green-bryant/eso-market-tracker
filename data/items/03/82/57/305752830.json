@@ -1,10 +1,1 @@
-{
-  "internalId": 305752830,
-  "name": "Stuhn's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161562
-  ]
-}
+{"internalId":305752830,"name":"Stuhn's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[161562]}

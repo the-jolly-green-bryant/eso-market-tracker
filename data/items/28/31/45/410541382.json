@@ -1,10 +1,1 @@
-{
-  "internalId": 410541382,
-  "name": "Coldharbour Daedrat Snacks",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_muffin.png",
-  "bindType": -1,
-  "knownIds": [
-    57146
-  ]
-}
+{"internalId":410541382,"name":"Coldharbour Daedrat Snacks","description":"","icon":"data/images/ni/ff/um/crafting_cooking_muffin.png","bindType":-1,"knownIds":[57146]}

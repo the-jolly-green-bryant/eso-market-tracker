@@ -1,10 +1,1 @@
-{
-  "internalId": 2457867725,
-  "name": "Apocrypha Light Diffuser, Stalk",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_tomeholdendlessglobestand001.png",
-  "bindType": -1,
-  "knownIds": [
-    203279
-  ]
-}
+{"internalId":2457867725,"name":"Apocrypha Light Diffuser, Stalk","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_tomeholdendlessglobestand001.png","bindType":-1,"knownIds":[203279]}

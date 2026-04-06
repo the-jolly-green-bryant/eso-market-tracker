@@ -1,10 +1,1 @@
-{
-  "internalId": 1949240921,
-  "name": "Blade of the Betrayer",
-  "description": "Cadwell's former life came back to haunt him, even if it was a few thousand years later.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    150389
-  ]
-}
+{"internalId":1949240921,"name":"Blade of the Betrayer","description":"Cadwell's former life came back to haunt him, even if it was a few thousand years later.","icon":"data/images/d_/re/gg/gear_imperial_dagger_d.png","bindType":2,"knownIds":[150389]}

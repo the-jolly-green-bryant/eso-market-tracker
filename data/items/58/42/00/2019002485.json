@@ -1,10 +1,1 @@
-{
-  "internalId": 2019002485,
-  "name": "Blackreach Pilgrim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_shad.png",
-  "bindType": -1,
-  "knownIds": [
-    1394106
-  ]
-}
+{"internalId":2019002485,"name":"Blackreach Pilgrim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_shad.png","bindType":-1,"knownIds":[1394106]}

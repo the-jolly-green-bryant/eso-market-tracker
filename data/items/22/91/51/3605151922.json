@@ -1,10 +1,1 @@
-{
-  "internalId": 3605151922,
-  "name": "Gem-Studded Triquetra Hat Pin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1231023
-  ]
-}
+{"internalId":3605151922,"name":"Gem-Studded Triquetra Hat Pin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png","bindType":-1,"knownIds":[1231023]}

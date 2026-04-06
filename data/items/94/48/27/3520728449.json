@@ -1,10 +1,1 @@
-{
-  "internalId": 3520728449,
-  "name": "Deadlands Chair, Etched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedhighchair001.png",
-  "bindType": -1,
-  "knownIds": [
-    182247
-  ]
-}
+{"internalId":3520728449,"name":"Deadlands Chair, Etched","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedhighchair001.png","bindType":-1,"knownIds":[182247]}

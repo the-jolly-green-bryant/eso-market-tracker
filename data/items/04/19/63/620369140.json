@@ -1,10 +1,1 @@
-{
-  "internalId": 620369140,
-  "name": "Dres Carpet, Chains",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlarugplain003.png",
-  "bindType": -1,
-  "knownIds": [
-    126356
-  ]
-}
+{"internalId":620369140,"name":"Dres Carpet, Chains","description":"This is a standard house item.","icon":"data/images/30/0n/ia/housing_vrd_inc_hlarugplain003.png","bindType":-1,"knownIds":[126356]}

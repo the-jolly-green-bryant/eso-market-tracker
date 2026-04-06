@@ -1,10 +1,1 @@
-{
-  "internalId": 1106135118,
-  "name": "High Isle Counter, Rustic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_counterlow001.png",
-  "bindType": -1,
-  "knownIds": [
-    187820
-  ]
-}
+{"internalId":1106135118,"name":"High Isle Counter, Rustic","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_counterlow001.png","bindType":-1,"knownIds":[187820]}

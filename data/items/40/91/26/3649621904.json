@@ -1,10 +1,1 @@
-{
-  "internalId": 3649621904,
-  "name": "Ivory Egg Peeler",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803034
-  ]
-}
+{"internalId":3649621904,"name":"Ivory Egg Peeler","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png","bindType":-1,"knownIds":[803034]}

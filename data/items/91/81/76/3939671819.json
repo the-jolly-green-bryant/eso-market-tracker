@@ -1,17 +1,1 @@
-{
-  "internalId": 3939671819,
-  "name": "Wrathsun Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1692742,
-    1697299,
-    1715880,
-    1754474,
-    1692742,
-    1697299,
-    1715880,
-    1754474
-  ]
-}
+{"internalId":3939671819,"name":"Wrathsun Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png","bindType":-1,"knownIds":[1692742,1697299,1715880,1754474,1692742,1697299,1715880,1754474]}

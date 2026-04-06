@@ -1,10 +1,1 @@
-{
-  "internalId": 3015168106,
-  "name": "Robust Ring of the Prophet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 3,
-  "knownIds": [
-    135133
-  ]
-}
+{"internalId":3015168106,"name":"Robust Ring of the Prophet","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":3,"knownIds":[135133]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1915833742,
-  "name": "Old Venison",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_food_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33757
-  ]
-}
+{"internalId":1915833742,"name":"Old Venison","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/30/0_/do/quest_food_003.png","bindType":-1,"knownIds":[33757]}

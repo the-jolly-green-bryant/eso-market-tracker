@@ -1,10 +1,1 @@
-{
-  "internalId": 4171862089,
-  "name": "Ysgramor's Jakolar's Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34845
-  ]
-}
+{"internalId":4171862089,"name":"Ysgramor's Jakolar's Staff","description":"","icon":"data/images/d_/ff/at/gear_nord_staff_d.png","bindType":2,"knownIds":[34845]}

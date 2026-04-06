@@ -1,10 +1,1 @@
-{
-  "internalId": 961257546,
-  "name": "Livewire Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    132815
-  ]
-}
+{"internalId":961257546,"name":"Livewire Bow","description":"","icon":"data/images/a_/wo/b_/gear_apostle_bow_a.png","bindType":2,"knownIds":[132815]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3949046340,
-  "name": "Witches Grab Bag",
-  "description": "This container will award plunder skull contents from years past which are no longer available.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_skull_bucket.png",
-  "bindType": 3,
-  "knownIds": [
-    190034
-  ]
-}
+{"internalId":3949046340,"name":"Witches Grab Bag","description":"This container will award plunder skull contents from years past which are no longer available.","icon":"https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_skull_bucket.png","bindType":3,"knownIds":[190034]}

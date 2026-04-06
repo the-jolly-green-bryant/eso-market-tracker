@@ -1,11 +1,1 @@
-{
-  "internalId": 3557722052,
-  "name": "Jerensi's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1749003,
-    1749171
-  ]
-}
+{"internalId":3557722052,"name":"Jerensi's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1749003,1749171]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3898695748,
-  "name": "Alinor Fireplace, Ornate",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_altintfireplace001.png",
-  "bindType": -1,
-  "knownIds": [
-    139264
-  ]
-}
+{"internalId":3898695748,"name":"Alinor Fireplace, Ornate","description":"This is a large house item.","icon":"data/images/10/0e/ca/housing_sum_str_altintfireplace001.png","bindType":-1,"knownIds":[139264]}

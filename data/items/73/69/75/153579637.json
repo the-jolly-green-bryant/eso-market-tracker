@@ -1,10 +1,1 @@
-{
-  "internalId": 153579637,
-  "name": "Sali the Senche-Lion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1317151
-  ]
-}
+{"internalId":153579637,"name":"Sali the Senche-Lion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[1317151]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 974493030,
-  "name": "Musical Sphere",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_attunement_sphere.png",
-  "bindType": -1,
-  "knownIds": [
-    1281190
-  ]
-}
+{"internalId":974493030,"name":"Musical Sphere","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_attunement_sphere.png","bindType":-1,"knownIds":[1281190]}

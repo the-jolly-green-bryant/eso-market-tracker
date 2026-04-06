@@ -1,12 +1,1 @@
-{
-  "internalId": 4274079277,
-  "name": "Stone of Yansirramus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1149301,
-    1149301,
-    1149301
-  ]
-}
+{"internalId":4274079277,"name":"Stone of Yansirramus","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png","bindType":-1,"knownIds":[1149301,1149301,1149301]}

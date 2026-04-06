@@ -1,10 +1,1 @@
-{
-  "internalId": 226995083,
-  "name": "Crafting Motif 110: Dreadsails Daggers",
-  "description": "Use to learn how to make Dreadsails Daggers. Also teaches the equivalent Dreadsails Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    181667
-  ]
-}
+{"internalId":226995083,"name":"Crafting Motif 110: Dreadsails Daggers","description":"Use to learn how to make Dreadsails Daggers. Also teaches the equivalent Dreadsails Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[181667]}

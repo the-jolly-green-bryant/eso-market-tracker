@@ -1,10 +1,1 @@
-{
-  "internalId": 3396735174,
-  "name": "Diagram: Daedric Brazier, Coldharbour",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    132185
-  ]
-}
+{"internalId":3396735174,"name":"Diagram: Daedric Brazier, Coldharbour","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[132185]}

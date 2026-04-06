@@ -1,10 +1,1 @@
-{
-  "internalId": 2899777392,
-  "name": "Magicka Furnace",
-  "description": "A Light Armor set found in Direfrost Keep.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134132
-  ]
-}
+{"internalId":2899777392,"name":"Magicka Furnace","description":"A Light Armor set found in Direfrost Keep.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134132]}

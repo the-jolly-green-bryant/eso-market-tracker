@@ -1,10 +1,1 @@
-{
-  "internalId": 2627145176,
-  "name": "Wood Elf Grinding Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_grindingstone001.png",
-  "bindType": -1,
-  "knownIds": [
-    115572
-  ]
-}
+{"internalId":2627145176,"name":"Wood Elf Grinding Stone","description":"This is a standard house item.","icon":"data/images/10/0e/no/housing_gen_exc_grindingstone001.png","bindType":-1,"knownIds":[115572]}

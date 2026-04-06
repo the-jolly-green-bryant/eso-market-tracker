@@ -1,10 +1,1 @@
-{
-  "internalId": 4071509567,
-  "name": "Vanus's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135526
-  ]
-}
+{"internalId":4071509567,"name":"Vanus's Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[135526]}

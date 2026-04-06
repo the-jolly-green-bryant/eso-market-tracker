@@ -1,10 +1,1 @@
-{
-  "internalId": 1865537661,
-  "name": "Coral Dice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1270785
-  ]
-}
+{"internalId":1865537661,"name":"Coral Dice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png","bindType":-1,"knownIds":[1270785]}

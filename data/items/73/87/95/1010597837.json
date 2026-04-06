@@ -1,10 +1,1 @@
-{
-  "internalId": 1010597837,
-  "name": "Fragment of the Wolf-Father",
-  "description": "Consume Fragment of the Wolf-Father, along with fragments of Hircine, the Bad Man, the Ascendant, and the Crucible, to unlock the Skill Stylist: Roar achievement and the Roar, Verdant Green Skill Style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/antiquities_u30_museum_fragment08.png",
-  "bindType": 3,
-  "knownIds": [
-    211165
-  ]
-}
+{"internalId":1010597837,"name":"Fragment of the Wolf-Father","description":"Consume Fragment of the Wolf-Father, along with fragments of Hircine, the Bad Man, the Ascendant, and the Crucible, to unlock the Skill Stylist: Roar achievement and the Roar, Verdant Green Skill Style.","icon":"https://esoicons.uesp.net/esoui/art/icons/antiquities_u30_museum_fragment08.png","bindType":3,"knownIds":[211165]}

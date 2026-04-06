@@ -1,10 +1,1 @@
-{
-  "internalId": 704483616,
-  "name": "Formula: Orcish Brazier, Pillar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    121307
-  ]
-}
+{"internalId":704483616,"name":"Formula: Orcish Brazier, Pillar","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[121307]}

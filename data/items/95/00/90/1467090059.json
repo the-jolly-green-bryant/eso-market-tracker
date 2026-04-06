@@ -1,10 +1,1 @@
-{
-  "internalId": 1467090059,
-  "name": "Elsweyr Stairs, Masonry",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_walkstairs002.png",
-  "bindType": -1,
-  "knownIds": [
-    151771
-  ]
-}
+{"internalId":1467090059,"name":"Elsweyr Stairs, Masonry","description":"This is a large house item.","icon":"data/images/20/0s/ri/housing_els_str_walkstairs002.png","bindType":-1,"knownIds":[151771]}

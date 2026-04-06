@@ -1,10 +1,1 @@
-{
-  "internalId": 2359235251,
-  "name": "Crafting Motif 70: Elder Argonian Legs",
-  "description": "Use to learn how to make Elder Argonian Legs. Also teaches the equivalent Elder Argonian outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    142227
-  ]
-}
+{"internalId":2359235251,"name":"Crafting Motif 70: Elder Argonian Legs","description":"Use to learn how to make Elder Argonian Legs. Also teaches the equivalent Elder Argonian outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[142227]}

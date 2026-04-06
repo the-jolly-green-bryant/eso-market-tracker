@@ -1,10 +1,1 @@
-{
-  "internalId": 736187389,
-  "name": "Minotaur Bezoar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_dreadhorn_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    132619
-  ]
-}
+{"internalId":736187389,"name":"Minotaur Bezoar","description":"","icon":"data/images/2r/_n/ro/crafting_style_item_dreadhorn_r2.png","bindType":-1,"knownIds":[132619]}

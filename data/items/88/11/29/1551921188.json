@@ -1,10 +1,1 @@
-{
-  "internalId": 1551921188,
-  "name": "Tree, Sturdy Tamanu",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_tamanu004.png",
-  "bindType": -1,
-  "knownIds": [
-    220355
-  ]
-}
+{"internalId":1551921188,"name":"Tree, Sturdy Tamanu","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_tamanu004.png","bindType":-1,"knownIds":[220355]}

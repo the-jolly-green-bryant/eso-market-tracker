@@ -1,10 +1,1 @@
-{
-  "internalId": 660011144,
-  "name": "Earthenware Jar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    794644
-  ]
-}
+{"internalId":660011144,"name":"Earthenware Jar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[794644]}

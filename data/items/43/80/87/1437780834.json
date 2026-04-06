@@ -1,10 +1,1 @@
-{
-  "internalId": 1437780834,
-  "name": "Bal Foyen Treasure Map II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43702
-  ]
-}
+{"internalId":1437780834,"name":"Bal Foyen Treasure Map II","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43702]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2236621443,
-  "name": "Tree, Old Juniper",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_juniper004.png",
-  "bindType": -1,
-  "knownIds": [
-    120448
-  ]
-}
+{"internalId":2236621443,"name":"Tree, Old Juniper","description":"This is a huge house item.","icon":"data/images/40/0r/ep/housing_tre_eve_juniper004.png","bindType":-1,"knownIds":[120448]}

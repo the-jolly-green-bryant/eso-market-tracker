@@ -1,10 +1,1 @@
-{
-  "internalId": 1906284275,
-  "name": "Lunar Loop",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_beads_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1335937
-  ]
-}
+{"internalId":1906284275,"name":"Lunar Loop","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_beads_001.png","bindType":-1,"knownIds":[1335937]}

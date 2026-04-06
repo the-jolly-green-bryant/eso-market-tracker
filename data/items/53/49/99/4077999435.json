@@ -1,10 +1,1 @@
-{
-  "internalId": 4077999435,
-  "name": "Crafting Motif 107: Annihilarch's Chosen Maces",
-  "description": "Use to learn how to make Annihilarch's Chosen Maces. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    178538
-  ]
-}
+{"internalId":4077999435,"name":"Crafting Motif 107: Annihilarch's Chosen Maces","description":"Use to learn how to make Annihilarch's Chosen Maces. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[178538]}

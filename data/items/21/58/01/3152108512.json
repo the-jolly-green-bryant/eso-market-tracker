@@ -1,10 +1,1 @@
-{
-  "internalId": 3152108512,
-  "name": "Surcoat of Solitude",
-  "description": "This outerwear identifies the wearer as a friend of Solitude.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159711
-  ]
-}
+{"internalId":3152108512,"name":"Surcoat of Solitude","description":"This outerwear identifies the wearer as a friend of Solitude.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_robe_d.png","bindType":2,"knownIds":[159711]}

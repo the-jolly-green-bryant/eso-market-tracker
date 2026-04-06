@@ -1,10 +1,1 @@
-{
-  "internalId": 751620989,
-  "name": "Design: Dawnwood Wind Chimes, Bone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    211433
-  ]
-}
+{"internalId":751620989,"name":"Design: Dawnwood Wind Chimes, Bone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[211433]}

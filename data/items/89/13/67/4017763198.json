@@ -1,10 +1,1 @@
-{
-  "internalId": 4017763198,
-  "name": "Diagram: Dwarven Candlestick, Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    171485
-  ]
-}
+{"internalId":4017763198,"name":"Diagram: Dwarven Candlestick, Polished","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[171485]}

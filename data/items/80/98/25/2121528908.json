@@ -1,10 +1,1 @@
-{
-  "internalId": 2121528908,
-  "name": "Hematite Worry Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863399
-  ]
-}
+{"internalId":2121528908,"name":"Hematite Worry Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[863399]}

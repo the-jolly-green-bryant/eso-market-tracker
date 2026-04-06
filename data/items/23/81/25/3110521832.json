@@ -1,10 +1,1 @@
-{
-  "internalId": 3110521832,
-  "name": "Khajiit Carafe, Amber",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_vase002.png",
-  "bindType": -1,
-  "knownIds": [
-    115667
-  ]
-}
+{"internalId":3110521832,"name":"Khajiit Carafe, Amber","description":"This is a small house item.","icon":"data/images/20/0e/sa/housing_kha_inc_vase002.png","bindType":-1,"knownIds":[115667]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2137161966,
-  "name": "Pattern: Wood Elf Wall Hide, Spotted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    115859
-  ]
-}
+{"internalId":2137161966,"name":"Pattern: Wood Elf Wall Hide, Spotted","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[115859]}

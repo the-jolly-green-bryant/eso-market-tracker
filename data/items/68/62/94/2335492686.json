@@ -1,10 +1,1 @@
-{
-  "internalId": 2335492686,
-  "name": "Quire of Official Thalmor Stationery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1350185
-  ]
-}
+{"internalId":2335492686,"name":"Quire of Official Thalmor Stationery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png","bindType":-1,"knownIds":[1350185]}

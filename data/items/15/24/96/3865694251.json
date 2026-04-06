@@ -1,10 +1,1 @@
-{
-  "internalId": 3865694251,
-  "name": "Sawdust Pile, Logging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_loggingdebrispile001.png",
-  "bindType": -1,
-  "knownIds": [
-    204772
-  ]
-}
+{"internalId":3865694251,"name":"Sawdust Pile, Logging","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_loggingdebrispile001.png","bindType":-1,"knownIds":[204772]}

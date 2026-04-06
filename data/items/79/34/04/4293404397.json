@@ -1,10 +1,1 @@
-{
-  "internalId": 4293404397,
-  "name": "Riekling Banner, Wolf Pelt",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrdecorativehidedsnow001.png",
-  "bindType": -1,
-  "knownIds": [
-    156662
-  ]
-}
+{"internalId":4293404397,"name":"Riekling Banner, Wolf Pelt","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrdecorativehidedsnow001.png","bindType":-1,"knownIds":[156662]}

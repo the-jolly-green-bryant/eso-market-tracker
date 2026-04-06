@@ -1,10 +1,1 @@
-{
-  "internalId": 1233543827,
-  "name": "Carrots",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_carrots.png",
-  "bindType": -1,
-  "knownIds": [
-    34324
-  ]
-}
+{"internalId":1233543827,"name":"Carrots","description":"An ingredient for crafting food.","icon":"data/images/st/or/ra/crafting_carrots.png","bindType":-1,"knownIds":[34324]}

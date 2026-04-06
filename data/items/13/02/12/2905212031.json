@@ -1,10 +1,1 @@
-{
-  "internalId": 2905212031,
-  "name": "Nord Urn, Ceramic",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_pot006.png",
-  "bindType": -1,
-  "knownIds": [
-    115358
-  ]
-}
+{"internalId":2905212031,"name":"Nord Urn, Ceramic","description":"This is a small house item.","icon":"data/images/60/0t/op/housing_nor_duc_pot006.png","bindType":-1,"knownIds":[115358]}

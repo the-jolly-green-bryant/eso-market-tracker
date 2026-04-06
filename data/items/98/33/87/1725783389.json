@@ -1,10 +1,1 @@
-{
-  "internalId": 1725783389,
-  "name": "Dagger of Imperial Wrath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90086
-  ]
-}
+{"internalId":1725783389,"name":"Dagger of Imperial Wrath","description":"","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[90086]}

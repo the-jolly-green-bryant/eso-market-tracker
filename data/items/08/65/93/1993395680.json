@@ -1,10 +1,1 @@
-{
-  "internalId": 1993395680,
-  "name": "Plant, Moorstalk Hive",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_mrkmoorhive001.png",
-  "bindType": -1,
-  "knownIds": [
-    145547
-  ]
-}
+{"internalId":1993395680,"name":"Plant, Moorstalk Hive","description":"This is a standard house item.","icon":"data/images/10/0e/vi/housing_cre_exc_mrkmoorhive001.png","bindType":-1,"knownIds":[145547]}

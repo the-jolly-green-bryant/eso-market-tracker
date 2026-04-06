@@ -1,10 +1,1 @@
-{
-  "internalId": 2994008449,
-  "name": "Scavenged Intruder's Gloves",
-  "description": "A well-made piece of equipment scavenged from the body of an extraplanar intruder.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_armamentkindred_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197815
-  ]
-}
+{"internalId":2994008449,"name":"Scavenged Intruder's Gloves","description":"A well-made piece of equipment scavenged from the body of an extraplanar intruder.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_armamentkindred_light_hands_a.png","bindType":2,"knownIds":[197815]}

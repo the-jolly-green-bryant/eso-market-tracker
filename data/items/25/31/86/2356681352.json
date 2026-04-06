@@ -1,10 +1,1 @@
-{
-  "internalId": 2356681352,
-  "name": "Reachmen Chandelier, Gnarled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markreachchandelier001.png",
-  "bindType": -1,
-  "knownIds": [
-    171339
-  ]
-}
+{"internalId":2356681352,"name":"Reachmen Chandelier, Gnarled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markreachchandelier001.png","bindType":-1,"knownIds":[171339]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 313552585,
-  "name": "Medium Dungeon Sets",
-  "description": "The Medium Armor item sets found in the DLC Dungeons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    184258
-  ]
-}
+{"internalId":313552585,"name":"Medium Dungeon Sets","description":"The Medium Armor item sets, found in Dungeons (base game and DLC).","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134241]}

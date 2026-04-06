@@ -1,10 +1,1 @@
-{
-  "internalId": 2927587627,
-  "name": "Crafting Motif 56: Apostle Helmets",
-  "description": "Use to learn how to make Apostle Helmets. Also teaches the equivalent Apostle Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_inc_scrollplate001.png",
-  "bindType": -1,
-  "knownIds": [
-    132557
-  ]
-}
+{"internalId":2927587627,"name":"Crafting Motif 56: Apostle Helmets","description":"Use to learn how to make Apostle Helmets. Also teaches the equivalent Apostle Outfit Styles.","icon":"data/images/10/0e/ta/quest_cwc_inc_scrollplate001.png","bindType":-1,"knownIds":[132557]}

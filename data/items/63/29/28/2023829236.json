@@ -1,10 +1,1 @@
-{
-  "internalId": 2023829236,
-  "name": "Colovian Trellis, Tall Vineyard",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_vinyardtrelliswall001.png",
-  "bindType": -1,
-  "knownIds": [
-    204421
-  ]
-}
+{"internalId":2023829236,"name":"Colovian Trellis, Tall Vineyard","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_vinyardtrelliswall001.png","bindType":-1,"knownIds":[204421]}

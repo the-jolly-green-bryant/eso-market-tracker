@@ -1,10 +1,1 @@
-{
-  "internalId": 4034633022,
-  "name": "Design: Solitude Smoking Rack, Sausage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    166955
-  ]
-}
+{"internalId":4034633022,"name":"Design: Solitude Smoking Rack, Sausage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[166955]}

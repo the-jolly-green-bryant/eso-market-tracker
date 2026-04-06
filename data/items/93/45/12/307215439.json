@@ -1,10 +1,1 @@
-{
-  "internalId": 307215439,
-  "name": "Fern Plant, Vibrant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_greenshadebigfern002.png",
-  "bindType": -1,
-  "knownIds": [
-    120597
-  ]
-}
+{"internalId":307215439,"name":"Fern Plant, Vibrant","description":"This is a large house item.","icon":"data/images/20/0n/re/housing_veg_bsh_greenshadebigfern002.png","bindType":-1,"knownIds":[120597]}

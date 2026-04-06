@@ -1,10 +1,1 @@
-{
-  "internalId": 1490112476,
-  "name": "Altmer Calian",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gem_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1245177
-  ]
-}
+{"internalId":1490112476,"name":"Altmer Calian","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gem_002.png","bindType":-1,"knownIds":[1245177]}

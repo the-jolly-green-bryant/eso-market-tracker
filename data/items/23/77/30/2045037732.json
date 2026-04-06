@@ -1,10 +1,1 @@
-{
-  "internalId": 2045037732,
-  "name": "Jack of the Undaunted Infiltrator",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    58731
-  ]
-}
+{"internalId":2045037732,"name":"Jack of the Undaunted Infiltrator","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[58731]}

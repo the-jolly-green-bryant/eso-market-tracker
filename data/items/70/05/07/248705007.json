@@ -1,10 +1,1 @@
-{
-  "internalId": 248705007,
-  "name": "Plant, Luminous Lantern Flower",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkceropegia002.png",
-  "bindType": -1,
-  "knownIds": [
-    145411
-  ]
-}
+{"internalId":248705007,"name":"Plant, Luminous Lantern Flower","description":"This is a standard house item.","icon":"data/images/20/0a/ig/housing_veg_flr_mrkceropegia002.png","bindType":-1,"knownIds":[145411]}

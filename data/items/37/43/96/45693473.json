@@ -1,10 +1,1 @@
-{
-  "internalId": 45693473,
-  "name": "Khajiit Frame, Arched",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_post002.png",
-  "bindType": -1,
-  "knownIds": [
-    115650
-  ]
-}
+{"internalId":45693473,"name":"Khajiit Frame, Arched","description":"This is a large house item.","icon":"data/images/20/0t/so/housing_kha_lsb_post002.png","bindType":-1,"knownIds":[115650]}

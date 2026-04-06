@@ -1,10 +1,1 @@
-{
-  "internalId": 4195707914,
-  "name": "Vampiric Cauldron, Distilled Coagulant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabfennscauldron001.png",
-  "bindType": -1,
-  "knownIds": [
-    171408
-  ]
-}
+{"internalId":4195707914,"name":"Vampiric Cauldron, Distilled Coagulant","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabfennscauldron001.png","bindType":-1,"knownIds":[171408]}

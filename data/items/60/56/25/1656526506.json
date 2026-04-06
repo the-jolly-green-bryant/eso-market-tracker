@@ -1,10 +1,1 @@
-{
-  "internalId": 1656526506,
-  "name": "Redguard Vanity, Bolted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_vardesk002.png",
-  "bindType": -1,
-  "knownIds": [
-    117790
-  ]
-}
+{"internalId":1656526506,"name":"Redguard Vanity, Bolted","description":"This is a standard house item.","icon":"data/images/20/0k/se/housing_red_fur_vardesk002.png","bindType":-1,"knownIds":[117790]}

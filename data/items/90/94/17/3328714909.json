@@ -1,10 +1,1 @@
-{
-  "internalId": 3328714909,
-  "name": "Diagram: Alinor Pot, Patterned",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    139582
-  ]
-}
+{"internalId":3328714909,"name":"Diagram: Alinor Pot, Patterned","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[139582]}

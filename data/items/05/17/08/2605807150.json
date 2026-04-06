@@ -1,10 +1,1 @@
-{
-  "internalId": 2605807150,
-  "name": "Helm of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199267
-  ]
-}
+{"internalId":2605807150,"name":"Helm of Fury","description":"","icon":"data/images/a_/da/eh/gear_abahswatch_heavy_head_a.png","bindType":2,"knownIds":[79807]}

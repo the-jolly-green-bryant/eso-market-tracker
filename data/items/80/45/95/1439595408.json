@@ -1,10 +1,1 @@
-{
-  "internalId": 1439595408,
-  "name": "Tree, Young Winter Pine",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_scotspinesnow005.png",
-  "bindType": -1,
-  "knownIds": [
-    165814
-  ]
-}
+{"internalId":1439595408,"name":"Tree, Young Winter Pine","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_scotspinesnow005.png","bindType":-1,"knownIds":[165814]}

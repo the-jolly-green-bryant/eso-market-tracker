@@ -1,10 +1,1 @@
-{
-  "internalId": 169016396,
-  "name": "Edge of the Black Sands of the Air",
-  "description": "For defeating Emperor Tarish-Zi at the Tombs of the Na-Totambu, Titus Valerius awarded you this ancient Yokudan greatsword.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    81311
-  ]
-}
+{"internalId":169016396,"name":"Edge of the Black Sands of the Air","description":"For defeating Emperor Tarish-Zi at the Tombs of the Na-Totambu, Titus Valerius awarded you this ancient Yokudan greatsword.","icon":"data/images/a_/dr/ow/gear_yokudan_2hsword_a.png","bindType":2,"knownIds":[81311]}

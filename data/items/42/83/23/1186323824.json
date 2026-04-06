@@ -1,13 +1,1 @@
-{
-  "internalId": 1186323824,
-  "name": "Rune Charm Choker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    460679,
-    783045,
-    460679,
-    783045
-  ]
-}
+{"internalId":1186323824,"name":"Rune Charm Choker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[460679,783045,460679,783045]}

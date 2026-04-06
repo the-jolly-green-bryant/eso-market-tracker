@@ -1,10 +1,1 @@
-{
-  "internalId": 4151661109,
-  "name": "Flat Eltheric Hooch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
-  "bindType": -1,
-  "knownIds": [
-    32091
-  ]
-}
+{"internalId":4151661109,"name":"Flat Eltheric Hooch","description":"","icon":"data/images/30/0_/el/crafting_stoneware_bottle_003.png","bindType":-1,"knownIds":[32091]}

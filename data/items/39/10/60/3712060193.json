@@ -1,10 +1,1 @@
-{
-  "internalId": 3712060193,
-  "name": "Weapons: Barkskin",
-  "description": "A Medium Armor set found in Elden Hollow.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114225
-  ]
-}
+{"internalId":3712060193,"name":"Weapons: Barkskin","description":"A Medium Armor set found in Elden Hollow.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114225]}

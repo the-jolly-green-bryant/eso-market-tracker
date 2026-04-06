@@ -1,10 +1,1 @@
-{
-  "internalId": 240637895,
-  "name": "Stirk Fellowship Greatsword",
-  "description": "A weapon awarded to members of the Stirk Fellowship for outstanding service.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    217716
-  ]
-}
+{"internalId":240637895,"name":"Stirk Fellowship Greatsword","description":"A weapon awarded to members of the Stirk Fellowship for outstanding service.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_2hsword_a.png","bindType":2,"knownIds":[217716]}

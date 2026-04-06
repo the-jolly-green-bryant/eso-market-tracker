@@ -1,10 +1,1 @@
-{
-  "internalId": 4014374205,
-  "name": "Every-Morndas Casserole",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_open_top_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    43155
-  ]
-}
+{"internalId":4014374205,"name":"Every-Morndas Casserole","description":"","icon":"data/images/ei/p_/po/crafting_cooking_open_top_pie.png","bindType":-1,"knownIds":[43155]}

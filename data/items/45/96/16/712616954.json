@@ -1,10 +1,1 @@
-{
-  "internalId": 712616954,
-  "name": "Galatite Ore",
-  "description": "Ten of these items can be refined to make galatite ingots.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_galatite.png",
-  "bindType": -1,
-  "knownIds": [
-    23133
-  ]
-}
+{"internalId":712616954,"name":"Galatite Ore","description":"Ten of these items can be refined to make galatite ingots.","icon":"data/images/et/it/al/crafting_ore_galatite.png","bindType":-1,"knownIds":[23133]}

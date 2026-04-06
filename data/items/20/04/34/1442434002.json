@@ -1,10 +1,1 @@
-{
-  "internalId": 1442434002,
-  "name": "Crafting Motif 36: Dark Brotherhood Style",
-  "description": "Use to learn the Dark Brotherhood crafting style. Also teaches the equivalent Dark Brotherhood Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    82054
-  ]
-}
+{"internalId":1442434002,"name":"Crafting Motif 36: Dark Brotherhood Style","description":"Use to learn the Dark Brotherhood crafting style. Also teaches the equivalent Dark Brotherhood Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[82054]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1216243096,
-  "name": "slight Glyph of Reduce Feat Cost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_reducefeatcosts.png",
-  "bindType": -1,
-  "knownIds": [
-    1704009,
-    1710005,
-    1704009,
-    1710005
-  ]
-}
+{"internalId":1216243096,"name":"slight Glyph of Reduce Feat Cost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_reducefeatcosts.png","bindType":-1,"knownIds":[1704009,1710005,1704009,1710005]}

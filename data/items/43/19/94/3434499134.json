@@ -1,17 +1,1 @@
-{
-  "internalId": 3434499134,
-  "name": "Yandir's Perfected Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1388378,
-    1630356,
-    1639377,
-    1650330,
-    1388378,
-    1630356,
-    1639377,
-    1650330
-  ]
-}
+{"internalId":3434499134,"name":"Yandir's Perfected Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png","bindType":-1,"knownIds":[1388378,1630356,1639377,1650330,1388378,1630356,1639377,1650330]}

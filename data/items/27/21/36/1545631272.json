@@ -1,10 +1,1 @@
-{
-  "internalId": 1545631272,
-  "name": "Barrel of Rare Fish, Auridon",
-  "description": "Rare fish found in the waters of Auridon.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png",
-  "bindType": 3,
-  "knownIds": [
-    199893
-  ]
-}
+{"internalId":1545631272,"name":"Barrel of Rare Fish, Auridon","description":"Rare fish found in the waters of Auridon.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png","bindType":3,"knownIds":[199893]}

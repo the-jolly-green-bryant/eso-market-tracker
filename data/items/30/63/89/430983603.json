@@ -1,10 +1,1 @@
-{
-  "internalId": 430983603,
-  "name": "Tuft of Hair",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795572
-  ]
-}
+{"internalId":430983603,"name":"Tuft of Hair","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png","bindType":-1,"knownIds":[795572]}

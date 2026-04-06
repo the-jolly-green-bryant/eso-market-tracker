@@ -1,10 +1,1 @@
-{
-  "internalId": 2235380762,
-  "name": "Armor Master",
-  "description": "A Crafted Armor set constructed in Imperial City.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182350
-  ]
-}
+{"internalId":2235380762,"name":"Armor Master","description":"A Crafted Armor set constructed in Imperial City.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182350]}

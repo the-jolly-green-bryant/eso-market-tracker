@@ -1,10 +1,1 @@
-{
-  "internalId": 2285635884,
-  "name": "Psijic Codex Transcription",
-  "description": "A transcription of the locations written within the Psijic Codex.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    133946
-  ]
-}
+{"internalId":2285635884,"name":"Psijic Codex Transcription","description":"A transcription of the locations written within the Psijic Codex.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[133946]}

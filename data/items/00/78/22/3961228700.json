@@ -1,10 +1,1 @@
-{
-  "internalId": 3961228700,
-  "name": "Colovian Roof Gable, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housinginthouseceilingwall45slant001.png",
-  "bindType": -1,
-  "knownIds": [
-    208083
-  ]
-}
+{"internalId":3961228700,"name":"Colovian Roof Gable, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housinginthouseceilingwall45slant001.png","bindType":-1,"knownIds":[208083]}

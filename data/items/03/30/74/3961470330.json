@@ -1,10 +1,1 @@
-{
-  "internalId": 3961470330,
-  "name": "Sword Master's Letter Opener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_005.png",
-  "bindType": -1,
-  "knownIds": [
-    420822
-  ]
-}
+{"internalId":3961470330,"name":"Sword Master's Letter Opener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_005.png","bindType":-1,"knownIds":[420822]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3697917268,
-  "name": "Shirt of The Shadow Dancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43923
-  ]
-}
+{"internalId":3697917268,"name":"Shirt of The Shadow Dancer","description":"","icon":"data/images/d_/eb/or/gear_bosmer_light_robe_d.png","bindType":2,"knownIds":[43923]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2921560392,
-  "name": "Boulder, Colovian Highland",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_chl_med007.png",
-  "bindType": -1,
-  "knownIds": [
-    204774
-  ]
-}
+{"internalId":2921560392,"name":"Boulder, Colovian Highland","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_chl_med007.png","bindType":-1,"knownIds":[204774]}

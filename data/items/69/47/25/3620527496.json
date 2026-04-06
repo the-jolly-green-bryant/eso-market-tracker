@@ -1,13 +1,1 @@
-{
-  "internalId": 3620527496,
-  "name": "Stoneskin Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    614884,
-    536207,
-    614884,
-    536207
-  ]
-}
+{"internalId":3620527496,"name":"Stoneskin Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":-1,"knownIds":[614884,536207,614884,536207]}

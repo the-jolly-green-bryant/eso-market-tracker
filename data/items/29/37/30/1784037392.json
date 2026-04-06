@@ -1,13 +1,1 @@
-{
-  "internalId": 1784037392,
-  "name": "Dominion Fire Ballista",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1211649,
-    1275783,
-    1211649,
-    1275783
-  ]
-}
+{"internalId":1784037392,"name":"Dominion Fire Ballista","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png","bindType":-1,"knownIds":[1211649,1275783,1211649,1275783]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1916145433,
-  "name": "Eternal Hunt Jewelry",
-  "description": "A Crafted Armor set constructed in Hew's Bane.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182685
-  ]
-}
+{"internalId":1916145433,"name":"Eternal Hunt Jewelry","description":"A Crafted Armor set constructed in Hew's Bane.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182685]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3365281147,
-  "name": "Jewelry: Pestilent Host",
-  "description": "A Medium Armor set found in Vateshran Hollows.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    169455
-  ]
-}
+{"internalId":3365281147,"name":"Jewelry: Pestilent Host","description":"A Medium Armor set found in Vateshran Hollows.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[169455]}

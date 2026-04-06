@@ -1,10 +1,1 @@
-{
-  "internalId": 759033133,
-  "name": "Sash of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167764
-  ]
-}
+{"internalId":759033133,"name":"Sash of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_waist_a.png","bindType":2,"knownIds":[167764]}

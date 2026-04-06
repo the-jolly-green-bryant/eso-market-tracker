@@ -1,10 +1,1 @@
-{
-  "internalId": 1245978806,
-  "name": "Jorunn the Skald-King",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png",
-  "bindType": -1,
-  "knownIds": [
-    1199230
-  ]
-}
+{"internalId":1245978806,"name":"Jorunn the Skald-King","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png","bindType":-1,"knownIds":[1199230]}

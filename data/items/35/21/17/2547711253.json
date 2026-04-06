@@ -1,10 +1,1 @@
-{
-  "internalId": 2547711253,
-  "name": "Covenant Cold Fire Trebuchet",
-  "description": "Creates a trebuchet weapon whose fireball causes Flame Damage to structures and foes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_darkanchor_bluefiretrebuchet.png",
-  "bindType": -1,
-  "knownIds": [
-    64514
-  ]
-}
+{"internalId":2547711253,"name":"Covenant Cold Fire Trebuchet","description":"Creates a trebuchet weapon whose fireball causes Flame Damage to structures and foes.","icon":"data/images/te/hc/ub/ava_siege_weapon_darkanchor_bluefiretrebuchet.png","bindType":-1,"knownIds":[64514]}

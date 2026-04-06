@@ -1,10 +1,1 @@
-{
-  "internalId": 3550321214,
-  "name": "Stros M'Kai Grilled Seagull",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_chicken.png",
-  "bindType": -1,
-  "knownIds": [
-    57088
-  ]
-}
+{"internalId":3550321214,"name":"Stros M'Kai Grilled Seagull","description":"","icon":"data/images/ne/kc/ih/crafting_cooking_grilled_chicken.png","bindType":-1,"knownIds":[57088]}

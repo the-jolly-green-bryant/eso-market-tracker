@@ -1,10 +1,1 @@
-{
-  "internalId": 1474324765,
-  "name": "Pattern: Dark Elf Tent, Canopy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    147656
-  ]
-}
+{"internalId":1474324765,"name":"Pattern: Dark Elf Tent, Canopy","description":"","icon":"data/images/5_/re/ih/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[147656]}

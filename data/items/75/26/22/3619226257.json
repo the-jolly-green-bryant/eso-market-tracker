@@ -1,10 +1,1 @@
-{
-  "internalId": 3619226257,
-  "name": "Imperial Rug, Stendarr",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_rugstendarrround003.png",
-  "bindType": -1,
-  "knownIds": [
-    94120
-  ]
-}
+{"internalId":3619226257,"name":"Imperial Rug, Stendarr","description":"This is a standard house item.","icon":"data/images/30/0d/nu/housing_imp_inc_rugstendarrround003.png","bindType":-1,"knownIds":[94120]}

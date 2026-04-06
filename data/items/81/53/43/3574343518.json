@@ -1,10 +1,1 @@
-{
-  "internalId": 3574343518,
-  "name": "Pattern: Solitude Tent, Enclosed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    167376
-  ]
-}
+{"internalId":3574343518,"name":"Pattern: Solitude Tent, Enclosed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[167376]}

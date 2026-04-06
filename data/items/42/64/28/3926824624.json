@@ -1,10 +1,1 @@
-{
-  "internalId": 3926824624,
-  "name": "Solitude Carpet, Small Plush",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_rughi006.png",
-  "bindType": -1,
-  "knownIds": [
-    165647
-  ]
-}
+{"internalId":3926824624,"name":"Solitude Carpet, Small Plush","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_rughi006.png","bindType":-1,"knownIds":[165647]}

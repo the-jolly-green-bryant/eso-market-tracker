@@ -1,10 +1,1 @@
-{
-  "internalId": 3664832373,
-  "name": "Helmet of the Planes",
-  "description": "A memory of Daedric invaders, forged in their image.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    26137
-  ]
-}
+{"internalId":3664832373,"name":"Helmet of the Planes","description":"A memory of Daedric invaders, forged in their image.","icon":"data/images/a_/da/eh/gear_daedric_heavy_head_a.png","bindType":2,"knownIds":[26137]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1689875402,
-  "name": "Blueprint: Fargrave Counter, Merchant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    182938
-  ]
-}
+{"internalId":1689875402,"name":"Blueprint: Fargrave Counter, Merchant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[182938]}

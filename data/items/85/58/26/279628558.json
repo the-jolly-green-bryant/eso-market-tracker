@@ -1,10 +1,1 @@
-{
-  "internalId": 279628558,
-  "name": "Vampire Clan Lineage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366524
-  ]
-}
+{"internalId":279628558,"name":"Vampire Clan Lineage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png","bindType":-1,"knownIds":[1366524]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1788588734,
-  "name": "Arachnid Gauntlets",
-  "description": "It's probably just your imagination, but you always get a creepy-crawly sensation when you wear these gauntlets.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7556
-  ]
-}
+{"internalId":1788588734,"name":"Arachnid Gauntlets","description":"It's probably just your imagination, but you always get a creepy-crawly sensation when you wear these gauntlets.","icon":"data/images/d_/sd/na/gear_altmer_medium_hands_d.png","bindType":2,"knownIds":[7556]}

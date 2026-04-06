@@ -1,10 +1,1 @@
-{
-  "internalId": 2348811302,
-  "name": "Murkmire Shrine, Sithis Figure",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_run_mrksithisshrine003.png",
-  "bindType": -1,
-  "knownIds": [
-    145346
-  ]
-}
+{"internalId":2348811302,"name":"Murkmire Shrine, Sithis Figure","description":"This is a standard house item.","icon":"data/images/30/0e/ni/housing_arg_run_mrksithisshrine003.png","bindType":-1,"knownIds":[145346]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4143090651,
-  "name": "Stuffed Nix-Hound",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_020.png",
-  "bindType": -1,
-  "knownIds": [
-    898941,
-    898941
-  ]
-}
+{"internalId":4143090651,"name":"Stuffed Nix-Hound","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_020.png","bindType":-1,"knownIds":[898941,898941]}

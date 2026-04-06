@@ -1,10 +1,1 @@
-{
-  "internalId": 964247335,
-  "name": "Formula: Dawnwood Divider, Sprouted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png",
-  "bindType": -1,
-  "knownIds": [
-    211440
-  ]
-}
+{"internalId":964247335,"name":"Formula: Dawnwood Divider, Sprouted","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png","bindType":-1,"knownIds":[211440]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1843402702,
-  "name": "Euphotic Gatekeeper Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hadolid_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756509,
-    1758341,
-    1756509,
-    1758341
-  ]
-}
+{"internalId":1843402702,"name":"Euphotic Gatekeeper Pauldron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_hadolid_shoulder_a.png","bindType":-1,"knownIds":[1756509,1758341,1756509,1758341]}

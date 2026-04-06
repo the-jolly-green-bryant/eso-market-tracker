@@ -1,10 +1,1 @@
-{
-  "internalId": 993834901,
-  "name": "Deldwine's Unusual Vintage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_waterskin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403807
-  ]
-}
+{"internalId":993834901,"name":"Deldwine's Unusual Vintage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_waterskin_001.png","bindType":-1,"knownIds":[403807]}

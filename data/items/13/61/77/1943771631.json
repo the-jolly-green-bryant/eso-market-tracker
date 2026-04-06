@@ -1,10 +1,1 @@
-{
-  "internalId": 1943771631,
-  "name": "Blueprint: Redoran Armchair, Sanded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    126939
-  ]
-}
+{"internalId":1943771631,"name":"Blueprint: Redoran Armchair, Sanded","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[126939]}

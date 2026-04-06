@@ -1,10 +1,1 @@
-{
-  "internalId": 3822096638,
-  "name": "Diagram: Deadlands Candelabra, Tall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    182952
-  ]
-}
+{"internalId":3822096638,"name":"Diagram: Deadlands Candelabra, Tall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[182952]}

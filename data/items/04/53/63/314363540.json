@@ -1,10 +1,1 @@
-{
-  "internalId": 314363540,
-  "name": "Indomitable Fury Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144054
-  ]
-}
+{"internalId":314363540,"name":"Indomitable Fury Maul","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[144054]}

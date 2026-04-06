@@ -1,10 +1,1 @@
-{
-  "internalId": 2925571458,
-  "name": "Mushroom, Tall Green Morel",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_tlvmorel001.png",
-  "bindType": -1,
-  "knownIds": [
-    197836
-  ]
-}
+{"internalId":2925571458,"name":"Mushroom, Tall Green Morel","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_tlvmorel001.png","bindType":-1,"knownIds":[197836]}

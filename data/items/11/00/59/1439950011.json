@@ -1,10 +1,1 @@
-{
-  "internalId": 1439950011,
-  "name": "Crafting Motif 8: Orc Style",
-  "description": "Use to learn the Orc crafting style. Requires Rank 1 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Orc Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    16426
-  ]
-}
+{"internalId":1439950011,"name":"Crafting Motif 8: Orc Style","description":"Use to learn the Orc crafting style. Requires Rank 1 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Orc Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[16426]}

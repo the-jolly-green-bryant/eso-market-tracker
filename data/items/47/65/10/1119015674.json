@@ -1,10 +1,1 @@
-{
-  "internalId": 1119015674,
-  "name": "West Weald Writings",
-  "description": "A mysterious tome containing all of the books in the West Weald Writings collection.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png",
-  "bindType": 3,
-  "knownIds": [
-    208354
-  ]
-}
+{"internalId":1119015674,"name":"West Weald Writings","description":"A mysterious tome containing all of the books in the West Weald Writings collection.","icon":"https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png","bindType":3,"knownIds":[208354]}

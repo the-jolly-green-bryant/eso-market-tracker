@@ -1,13 +1,1 @@
-{
-  "internalId": 2450361155,
-  "name": "Bound Affix Script: Protection",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_protection.png",
-  "bindType": -1,
-  "knownIds": [
-    1720039,
-    1721434,
-    1720039,
-    1721434
-  ]
-}
+{"internalId":2450361155,"name":"Bound Affix Script: Protection","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_protection.png","bindType":-1,"knownIds":[1720039,1721434,1720039,1721434]}

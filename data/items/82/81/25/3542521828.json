@@ -1,10 +1,1 @@
-{
-  "internalId": 3542521828,
-  "name": "Formula: Worm Cult Mirror, Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    223585
-  ]
-}
+{"internalId":3542521828,"name":"Formula: Worm Cult Mirror, Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[223585]}

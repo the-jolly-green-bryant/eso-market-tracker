@@ -1,10 +1,1 @@
-{
-  "internalId": 1176529635,
-  "name": "Diagram: Indoril Platter, Floral",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    127012
-  ]
-}
+{"internalId":1176529635,"name":"Diagram: Indoril Platter, Floral","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[127012]}

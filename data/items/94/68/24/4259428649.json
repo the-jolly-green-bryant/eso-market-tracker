@@ -1,10 +1,1 @@
-{
-  "internalId": 4259428649,
-  "name": "Dock Bollard, Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_dockbollard001.png",
-  "bindType": -1,
-  "knownIds": [
-    212583
-  ]
-}
+{"internalId":4259428649,"name":"Dock Bollard, Metal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_dck_dockbollard001.png","bindType":-1,"knownIds":[212583]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2632920715,
-  "name": "Snakeskin Belt",
-  "description": "This belt was awarded for deciding the fate of the Mabrigash in the Vale of the Ghost Snake.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4289
-  ]
-}
+{"internalId":2632920715,"name":"Snakeskin Belt","description":"This belt was awarded for deciding the fate of the Mabrigash in the Vale of the Ghost Snake.","icon":"data/images/d_/ts/ia/gear_dunmer_medium_waist_d.png","bindType":2,"knownIds":[4289]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3176107703,
-  "name": "Summerset Isles Map Scroll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    903102
-  ]
-}
+{"internalId":3176107703,"name":"Summerset Isles Map Scroll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[903102]}

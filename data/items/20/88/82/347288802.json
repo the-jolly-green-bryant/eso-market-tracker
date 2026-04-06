@@ -1,10 +1,1 @@
-{
-  "internalId": 347288802,
-  "name": "Orcish Armoire, Peaked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgarmoire001.png",
-  "bindType": -1,
-  "knownIds": [
-    116424
-  ]
-}
+{"internalId":347288802,"name":"Orcish Armoire, Peaked","description":"This is a standard house item.","icon":"data/images/10/0e/ri/housing_orc_fur_wtgarmoire001.png","bindType":-1,"knownIds":[116424]}

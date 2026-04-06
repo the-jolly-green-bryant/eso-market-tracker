@@ -1,10 +1,1 @@
-{
-  "internalId": 2330204281,
-  "name": "Crafting Motif 135: Black Soul Gem Legs",
-  "description": "Use to learn how to make Black Soul Gem Legs. Also teaches the equivalent Black Soul Gem Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    212433
-  ]
-}
+{"internalId":2330204281,"name":"Crafting Motif 135: Black Soul Gem Legs","description":"Use to learn how to make Black Soul Gem Legs. Also teaches the equivalent Black Soul Gem Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[212433]}

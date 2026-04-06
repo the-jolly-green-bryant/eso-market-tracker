@@ -1,10 +1,1 @@
-{
-  "internalId": 4282908246,
-  "name": "Coldharbour's Favorite Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    148308
-  ]
-}
+{"internalId":4282908246,"name":"Coldharbour's Favorite Jerkin","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[148308]}

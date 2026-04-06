@@ -1,10 +1,1 @@
-{
-  "internalId": 720481146,
-  "name": "Sunport Game, Marbles",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altgame001.png",
-  "bindType": -1,
-  "knownIds": [
-    214433
-  ]
-}
+{"internalId":720481146,"name":"Sunport Game, Marbles","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altgame001.png","bindType":-1,"knownIds":[214433]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2568404767,
-  "name": "Formula: Colovian Wine Crate, Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    207889
-  ]
-}
+{"internalId":2568404767,"name":"Formula: Colovian Wine Crate, Large","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[207889]}

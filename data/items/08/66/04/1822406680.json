@@ -1,10 +1,1 @@
-{
-  "internalId": 1822406680,
-  "name": "sweetmilk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    871280
-  ]
-}
+{"internalId":1822406680,"name":"sweetmilk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png","bindType":-1,"knownIds":[871280]}

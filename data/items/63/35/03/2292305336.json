@@ -1,10 +1,1 @@
-{
-  "internalId": 2292305336,
-  "name": "Deadlands Brazier, Bladed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedpillarbrazierfire005.png",
-  "bindType": -1,
-  "knownIds": [
-    175716
-  ]
-}
+{"internalId":2292305336,"name":"Deadlands Brazier, Bladed","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedpillarbrazierfire005.png","bindType":-1,"knownIds":[175716]}

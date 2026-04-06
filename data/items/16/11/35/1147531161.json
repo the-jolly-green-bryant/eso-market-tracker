@@ -1,17 +1,1 @@
-{
-  "internalId": 1147531161,
-  "name": "Perfected Greatsword of Sul-Xan's Torment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1464007,
-    1529832,
-    1533212,
-    1547074,
-    1464007,
-    1529832,
-    1533212,
-    1547074
-  ]
-}
+{"internalId":1147531161,"name":"Perfected Greatsword of Sul-Xan's Torment","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_2hsword_a.png","bindType":-1,"knownIds":[1464007,1529832,1533212,1547074,1464007,1529832,1533212,1547074]}

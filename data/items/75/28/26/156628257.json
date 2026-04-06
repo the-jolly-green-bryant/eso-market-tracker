@@ -1,10 +1,1 @@
-{
-  "internalId": 156628257,
-  "name": "Crafting Motif 91: Hazardous Alchemy Style",
-  "description": "Use to learn the Hazardous Alchemy crafting style. Also teaches the equivalent Hazardous Alchemy Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    166989
-  ]
-}
+{"internalId":156628257,"name":"Crafting Motif 91: Hazardous Alchemy Style","description":"Use to learn the Hazardous Alchemy crafting style. Also teaches the equivalent Hazardous Alchemy Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[166989]}

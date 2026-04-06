@@ -1,10 +1,1 @@
-{
-  "internalId": 301303018,
-  "name": "Plant Cluster, Keet Fern",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_kiteferncluster002.png",
-  "bindType": -1,
-  "knownIds": [
-    153684
-  ]
-}
+{"internalId":301303018,"name":"Plant Cluster, Keet Fern","description":"This is a large house item.","icon":"data/images/20/0r/et/housing_veg_els_kiteferncluster002.png","bindType":-1,"knownIds":[153684]}

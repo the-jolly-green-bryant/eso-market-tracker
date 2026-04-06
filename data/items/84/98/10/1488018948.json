@@ -1,13 +1,1 @@
-{
-  "internalId": 1488018948,
-  "name": "Black-Glove Grounding Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_axe.png",
-  "bindType": -1,
-  "knownIds": [
-    1717193,
-    1735356,
-    1717193,
-    1735356
-  ]
-}
+{"internalId":1488018948,"name":"Black-Glove Grounding Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_axe.png","bindType":-1,"knownIds":[1717193,1735356,1717193,1735356]}

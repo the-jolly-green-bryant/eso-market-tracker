@@ -1,10 +1,1 @@
-{
-  "internalId": 2427358215,
-  "name": "Silver Undaunted Key",
-  "description": "This silvered key's bow is shaped like the Undaunted crest.  Bring to the Undaunted Enclave to claim your reward!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_key_002.png",
-  "bindType": 3,
-  "knownIds": [
-    55447
-  ]
-}
+{"internalId":2427358215,"name":"Silver Undaunted Key","description":"This silvered key's bow is shaped like the Undaunted crest.  Bring to the Undaunted Enclave to claim your reward!","icon":"data/images/20/0_/ye/quest_key_002.png","bindType":3,"knownIds":[55447]}

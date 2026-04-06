@@ -1,10 +1,1 @@
-{
-  "internalId": 940076741,
-  "name": "Tide-Born Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215842
-  ]
-}
+{"internalId":940076741,"name":"Tide-Born Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[215842]}

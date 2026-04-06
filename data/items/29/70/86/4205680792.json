@@ -1,10 +1,1 @@
-{
-  "internalId": 4205680792,
-  "name": "Formula: High Isle Herb Rack, Ladder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    188184
-  ]
-}
+{"internalId":4205680792,"name":"Formula: High Isle Herb Rack, Ladder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[188184]}

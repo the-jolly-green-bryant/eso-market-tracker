@@ -1,10 +1,1 @@
-{
-  "internalId": 1881826630,
-  "name": "Formula: Murkmire Brazier, Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png",
-  "bindType": -1,
-  "knownIds": [
-    145985
-  ]
-}
+{"internalId":1881826630,"name":"Formula: Murkmire Brazier, Shell","description":"","icon":"data/images/2y/me/hc/crafting_planfurniture_alchemy2.png","bindType":-1,"knownIds":[145985]}

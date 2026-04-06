@@ -1,10 +1,1 @@
-{
-  "internalId": 3741543932,
-  "name": "Style Page: Fanged Worm Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1248999
-  ]
-}
+{"internalId":3741543932,"name":"Style Page: Fanged Worm Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1248999]}

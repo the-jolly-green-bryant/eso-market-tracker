@@ -1,15 +1,1 @@
-{
-  "internalId": 3034804175,
-  "name": "Basalt-Blooded Warrior Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_2hsword.png",
-  "bindType": -1,
-  "knownIds": [
-    1688299,
-    1716920,
-    1758022,
-    1688299,
-    1716920,
-    1758022
-  ]
-}
+{"internalId":3034804175,"name":"Basalt-Blooded Warrior Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_2hsword.png","bindType":-1,"knownIds":[1688299,1716920,1758022,1688299,1716920,1758022]}

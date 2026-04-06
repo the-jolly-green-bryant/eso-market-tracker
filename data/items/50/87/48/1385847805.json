@@ -1,10 +1,1 @@
-{
-  "internalId": 1385847805,
-  "name": "Pattern: Argonian Divider, Stretched",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115816
-  ]
-}
+{"internalId":1385847805,"name":"Pattern: Argonian Divider, Stretched","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115816]}

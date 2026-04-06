@@ -1,10 +1,1 @@
-{
-  "internalId": 4078543603,
-  "name": "Creamcheese Frosted Gorapple Cake",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cake_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33870
-  ]
-}
+{"internalId":4078543603,"name":"Creamcheese Frosted Gorapple Cake","description":"","icon":"data/images/10/0_/ek/crafting_cake_001.png","bindType":-1,"knownIds":[33870]}

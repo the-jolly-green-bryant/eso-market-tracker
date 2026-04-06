@@ -1,10 +1,1 @@
-{
-  "internalId": 4150974909,
-  "name": "Corinthe Fragment",
-  "description": "This fragment of an ancient mural depicts the kingdom of Corinthe, known for its lumber and carpentry. Return it to the House of Histories in Riverhold, in Northern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_elsweyr_khaijit_mural_frament.png",
-  "bindType": 3,
-  "knownIds": [
-    147529
-  ]
-}
+{"internalId":4150974909,"name":"Corinthe Fragment","description":"This fragment of an ancient mural depicts the kingdom of Corinthe, known for its lumber and carpentry. Return it to the House of Histories in Riverhold, in Northern Elsweyr.","icon":"data/images/tn/em/ar/quest_elsweyr_khaijit_mural_frament.png","bindType":3,"knownIds":[147529]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1226086209,
-  "name": "Tharriker's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    205730
-  ]
-}
+{"internalId":1226086209,"name":"Tharriker's Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png","bindType":2,"knownIds":[205730]}

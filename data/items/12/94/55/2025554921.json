@@ -1,10 +1,1 @@
-{
-  "internalId": 2025554921,
-  "name": "Elsweyr Spice Display, Turmeric Yellow",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_housingmerchantspices001.png",
-  "bindType": -1,
-  "knownIds": [
-    151649
-  ]
-}
+{"internalId":2025554921,"name":"Elsweyr Spice Display, Turmeric Yellow","description":"This is a small house item.","icon":"data/images/10/0s/ec/housing_els_exc_housingmerchantspices001.png","bindType":-1,"knownIds":[151649]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2404651667,
-  "name": "major Glyph of Stamina Recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png",
-  "bindType": -1,
-  "knownIds": [
-    1517328
-  ]
-}
+{"internalId":2404651667,"name":"major Glyph of Stamina Recovery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png","bindType":-1,"knownIds":[1517328]}

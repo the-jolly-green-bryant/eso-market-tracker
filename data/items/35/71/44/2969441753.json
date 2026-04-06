@@ -1,10 +1,1 @@
-{
-  "internalId": 2969441753,
-  "name": "Tree, Healthy Jungle",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_rmjungle002.png",
-  "bindType": -1,
-  "knownIds": [
-    121283
-  ]
-}
+{"internalId":2969441753,"name":"Tree, Healthy Jungle","description":"This is a huge house item.","icon":"data/images/20/0e/lg/housing_tre_trp_rmjungle002.png","bindType":-1,"knownIds":[121283]}

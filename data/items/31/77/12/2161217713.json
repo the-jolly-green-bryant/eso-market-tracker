@@ -1,10 +1,1 @@
-{
-  "internalId": 2161217713,
-  "name": "Sabatons of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199243
-  ]
-}
+{"internalId":2161217713,"name":"Sabatons of Fury","description":"","icon":"data/images/a_/te/ef/gear_abahswatch_heavy_feet_a.png","bindType":2,"knownIds":[79805]}

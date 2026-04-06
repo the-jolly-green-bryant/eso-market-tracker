@@ -1,10 +1,1 @@
-{
-  "internalId": 3951235981,
-  "name": "Royal Scarf of Daggerfall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_002.png",
-  "bindType": -1,
-  "knownIds": [
-    860508
-  ]
-}
+{"internalId":3951235981,"name":"Royal Scarf of Daggerfall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_002.png","bindType":-1,"knownIds":[860508]}

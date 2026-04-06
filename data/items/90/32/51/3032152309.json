@@ -1,17 +1,1 @@
-{
-  "internalId": 3032152309,
-  "name": "Jerkin of Grave Inevitability",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_light_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600782,
-    1679707,
-    1723050,
-    1737175,
-    1600782,
-    1679707,
-    1723050,
-    1737175
-  ]
-}
+{"internalId":3032152309,"name":"Jerkin of Grave Inevitability","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_light_chest_a.png","bindType":-1,"knownIds":[1600782,1679707,1723050,1737175,1600782,1679707,1723050,1737175]}

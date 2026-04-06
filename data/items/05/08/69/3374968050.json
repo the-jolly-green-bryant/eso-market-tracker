@@ -1,10 +1,1 @@
-{
-  "internalId": 3374968050,
-  "name": "Lothgar's Sword",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    817661
-  ]
-}
+{"internalId":3374968050,"name":"Lothgar's Sword","description":"","icon":null,"bindType":-1,"knownIds":[817661]}

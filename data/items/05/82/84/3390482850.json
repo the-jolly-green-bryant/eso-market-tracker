@@ -1,17 +1,1 @@
-{
-  "internalId": 3390482850,
-  "name": "Test of Resolve Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1717752,
-    1758098,
-    1769932,
-    1774753,
-    1717752,
-    1758098,
-    1769932,
-    1774753
-  ]
-}
+{"internalId":3390482850,"name":"Test of Resolve Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1haxe_a.png","bindType":-1,"knownIds":[1717752,1758098,1769932,1774753,1717752,1758098,1769932,1774753]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3656688987,
-  "name": "Rash Ointment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860653
-  ]
-}
+{"internalId":3656688987,"name":"Rash Ointment","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[860653]}

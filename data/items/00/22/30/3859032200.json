@@ -1,13 +1,1 @@
-{
-  "internalId": 3859032200,
-  "name": "False God's Perfected Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_light_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1754407,
-    1754486,
-    1754407,
-    1754486
-  ]
-}
+{"internalId":3859032200,"name":"False God's Perfected Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_light_shoulder_a.png","bindType":-1,"knownIds":[1754407,1754486,1754407,1754486]}

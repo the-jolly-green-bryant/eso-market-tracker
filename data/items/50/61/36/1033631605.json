@@ -1,10 +1,1 @@
-{
-  "internalId": 1033631605,
-  "name": "Northwind Disguise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    433788
-  ]
-}
+{"internalId":1033631605,"name":"Northwind Disguise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[433788]}

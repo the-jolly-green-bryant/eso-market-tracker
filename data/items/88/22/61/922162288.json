@@ -1,10 +1,1 @@
-{
-  "internalId": 922162288,
-  "name": "Formula: Bottle, Poison Elixir",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy5.png",
-  "bindType": -1,
-  "knownIds": [
-    121197
-  ]
-}
+{"internalId":922162288,"name":"Formula: Bottle, Poison Elixir","description":"","icon":"data/images/5y/me/hc/crafting_planfurniture_alchemy5.png","bindType":-1,"knownIds":[121197]}

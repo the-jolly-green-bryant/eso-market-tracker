@@ -1,10 +1,1 @@
-{
-  "internalId": 372404776,
-  "name": "Barricade, Bladed Hurdle",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_barricade002.png",
-  "bindType": -1,
-  "knownIds": [
-    147573
-  ]
-}
+{"internalId":372404776,"name":"Barricade, Bladed Hurdle","description":"This is a standard house item.","icon":"data/images/20/0e/da/housing_cld_inc_barricade002.png","bindType":-1,"knownIds":[147573]}

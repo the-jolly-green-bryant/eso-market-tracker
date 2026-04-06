@@ -1,10 +1,1 @@
-{
-  "internalId": 2320918655,
-  "name": "Plague Doctor's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97182
-  ]
-}
+{"internalId":2320918655,"name":"Plague Doctor's Greatsword","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[97182]}

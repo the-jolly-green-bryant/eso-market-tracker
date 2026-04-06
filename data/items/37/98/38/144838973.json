@@ -1,10 +1,1 @@
-{
-  "internalId": 144838973,
-  "name": "Tonal Architect Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
-  "bindType": -1,
-  "knownIds": [
-    57217
-  ]
-}
+{"internalId":144838973,"name":"Tonal Architect Tonic","description":"","icon":"data/images/30/0_/st/crafting_spirits_003.png","bindType":-1,"knownIds":[57217]}

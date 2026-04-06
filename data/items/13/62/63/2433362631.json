@@ -1,10 +1,1 @@
-{
-  "internalId": 2433362631,
-  "name": "Curse-Eating Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    90798
-  ]
-}
+{"internalId":2433362631,"name":"Curse-Eating Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[90798]}

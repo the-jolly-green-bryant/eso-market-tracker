@@ -1,10 +1,1 @@
-{
-  "internalId": 1954146339,
-  "name": "Asp-Tongue Knot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1326749
-  ]
-}
+{"internalId":1954146339,"name":"Asp-Tongue Knot","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png","bindType":-1,"knownIds":[1326749]}

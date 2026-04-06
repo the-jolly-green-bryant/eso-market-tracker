@@ -1,10 +1,1 @@
-{
-  "internalId": 1024598155,
-  "name": "Ancient Dragonguard's Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156130
-  ]
-}
+{"internalId":1024598155,"name":"Ancient Dragonguard's Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[156130]}

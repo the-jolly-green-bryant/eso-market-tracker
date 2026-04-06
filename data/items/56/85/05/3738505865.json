@@ -1,10 +1,1 @@
-{
-  "internalId": 3738505865,
-  "name": "Compressed Ash Plates",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1148293
-  ]
-}
+{"internalId":3738505865,"name":"Compressed Ash Plates","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1148293]}

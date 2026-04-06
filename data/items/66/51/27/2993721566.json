@@ -1,10 +1,1 @@
-{
-  "internalId": 2993721566,
-  "name": "Leg Guards of the Twin Sisters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    55881
-  ]
-}
+{"internalId":2993721566,"name":"Leg Guards of the Twin Sisters","description":"","icon":"data/images/d_/sg/el/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[55881]}

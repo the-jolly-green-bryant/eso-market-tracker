@@ -1,10 +1,1 @@
-{
-  "internalId": 3335345238,
-  "name": "Colovian Door, Wooden",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_skgdoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    208090
-  ]
-}
+{"internalId":3335345238,"name":"Colovian Door, Wooden","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_skgdoor001.png","bindType":-1,"knownIds":[208090]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2262023796,
-  "name": "Blueprint: Leyawiin Doorway, Wooden Frame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    181573
-  ]
-}
+{"internalId":2262023796,"name":"Blueprint: Leyawiin Doorway, Wooden Frame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[181573]}

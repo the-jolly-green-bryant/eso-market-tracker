@@ -1,10 +1,1 @@
-{
-  "internalId": 2629174578,
-  "name": "Pelinal's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76434
-  ]
-}
+{"internalId":2629174578,"name":"Pelinal's Arm Cops","description":"","icon":"data/images/d_/sr/ed/gear_breton_medium_shoulders_d.png","bindType":2,"knownIds":[76434]}

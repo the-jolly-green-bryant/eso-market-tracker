@@ -1,10 +1,1 @@
-{
-  "internalId": 3443185144,
-  "name": "Mace of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172098
-  ]
-}
+{"internalId":3443185144,"name":"Mace of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_1hhammer_a.png","bindType":2,"knownIds":[172098]}

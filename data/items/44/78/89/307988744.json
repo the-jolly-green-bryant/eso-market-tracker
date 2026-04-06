@@ -1,17 +1,1 @@
-{
-  "internalId": 307988744,
-  "name": "Valkyn Skoria Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_magma_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732760,
-    1779842,
-    1732760,
-    1779842,
-    1732760,
-    1779842,
-    1732760,
-    1779842
-  ]
-}
+{"internalId":307988744,"name":"Valkyn Skoria Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_magma_shoulders_a.png","bindType":-1,"knownIds":[1732760,1779842,1732760,1779842,1732760,1779842,1732760,1779842]}

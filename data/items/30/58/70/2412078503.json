@@ -1,10 +1,1 @@
-{
-  "internalId": 2412078503,
-  "name": "Epaulets of the Night Mother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56373
-  ]
-}
+{"internalId":2412078503,"name":"Epaulets of the Night Mother","description":"","icon":"data/images/d_/sr/ed/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[56373]}

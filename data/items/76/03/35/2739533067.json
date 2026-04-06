@@ -1,10 +1,1 @@
-{
-  "internalId": 2739533067,
-  "name": "Breeches of Bahraha's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    114626
-  ]
-}
+{"internalId":2739533067,"name":"Breeches of Bahraha's Curse","description":"","icon":"data/images/a_/sg/el/gear_thievesguildv2_light_legs_a.png","bindType":2,"knownIds":[114626]}

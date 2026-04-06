@@ -1,10 +1,1 @@
-{
-  "internalId": 1942864332,
-  "name": "Undaunted Key",
-  "description": "This golden key is inset with jewels, shaped to form the Undaunted crest.  Bring to the Undaunted Enclave to claim your reward!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_key_003.png",
-  "bindType": 3,
-  "knownIds": [
-    55448
-  ]
-}
+{"internalId":1942864332,"name":"Undaunted Key","description":"This golden key is inset with jewels, shaped to form the Undaunted crest.  Bring to the Undaunted Enclave to claim your reward!","icon":"data/images/30/0_/ye/quest_key_003.png","bindType":3,"knownIds":[55448]}

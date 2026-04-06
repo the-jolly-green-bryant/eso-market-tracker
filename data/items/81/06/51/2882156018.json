@@ -1,10 +1,1 @@
-{
-  "internalId": 2882156018,
-  "name": "Plants, Lava Pitcher Shoots",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdpitcherflowers001.png",
-  "bindType": -1,
-  "knownIds": [
-    125635
-  ]
-}
+{"internalId":2882156018,"name":"Plants, Lava Pitcher Shoots","description":"This is a tiny house item.","icon":"data/images/10/0s/re/housing_veg_flr_vrdpitcherflowers001.png","bindType":-1,"knownIds":[125635]}

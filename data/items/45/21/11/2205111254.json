@@ -1,10 +1,1 @@
-{
-  "internalId": 2205111254,
-  "name": "Colovian Rug, Oval Leaf",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_highrug005.png",
-  "bindType": -1,
-  "knownIds": [
-    204674
-  ]
-}
+{"internalId":2205111254,"name":"Colovian Rug, Oval Leaf","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_highrug005.png","bindType":-1,"knownIds":[204674]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3025402811,
-  "name": "Candied Jester's Coins",
-  "description": "Delightful confection coins for the famished numismatist.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jester_chocolatecoin.png",
-  "bindType": -1,
-  "knownIds": [
-    120762
-  ]
-}
+{"internalId":3025402811,"name":"Candied Jester's Coins","description":"Delightful confection coins for the famished numismatist.","icon":"data/images/ni/oc/et/event_jester_chocolatecoin.png","bindType":-1,"knownIds":[120762]}

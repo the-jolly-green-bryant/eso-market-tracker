@@ -1,10 +1,1 @@
-{
-  "internalId": 2509023498,
-  "name": "Old Pepper",
-  "description": "This item is no longer used in crafting, and should be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_bread_003.png",
-  "bindType": -1,
-  "knownIds": [
-    26962
-  ]
-}
+{"internalId":2509023498,"name":"Old Pepper","description":"This item is no longer used in crafting, and should be sold.","icon":"data/images/30/0_/da/crafting_components_bread_003.png","bindType":-1,"knownIds":[26962]}

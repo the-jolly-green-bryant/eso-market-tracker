@@ -1,10 +1,1 @@
-{
-  "internalId": 2323151929,
-  "name": "Clever Alchemist Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72482
-  ]
-}
+{"internalId":2323151929,"name":"Clever Alchemist Maul","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[72482]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1780312839,
-  "name": "Eldertide Torus, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_run_druruinstandingstone005.png",
-  "bindType": -1,
-  "knownIds": [
-    193832
-  ]
-}
+{"internalId":1780312839,"name":"Eldertide Torus, Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_run_druruinstandingstone005.png","bindType":-1,"knownIds":[193832]}

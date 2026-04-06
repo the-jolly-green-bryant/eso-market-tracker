@@ -1,10 +1,1 @@
-{
-  "internalId": 3907093503,
-  "name": "Nord Bed, Sleigh",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_bedcanopy001.png",
-  "bindType": -1,
-  "knownIds": [
-    115376
-  ]
-}
+{"internalId":3907093503,"name":"Nord Bed, Sleigh","description":"This is a large house item.","icon":"data/images/10/0y/po/housing_nor_fur_bedcanopy001.png","bindType":-1,"knownIds":[115376]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 701600454,
-  "name": "Khajiit Drapes, Grand",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_curtain003.png",
-  "bindType": -1,
-  "knownIds": [
-    115692
-  ]
-}
+{"internalId":701600454,"name":"Khajiit Drapes, Grand","description":"This is a large house item.","icon":"data/images/30/0n/ia/housing_kha_inc_curtain003.png","bindType":-1,"knownIds":[115692]}

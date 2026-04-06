@@ -1,10 +1,1 @@
-{
-  "internalId": 228425330,
-  "name": "Arkay's Vambraces",
-  "description": "Alvaren awarded these Knight of Arkay gloves for recovering holy relics from across Rivenspire.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7321
-  ]
-}
+{"internalId":228425330,"name":"Arkay's Vambraces","description":"Alvaren awarded these Knight of Arkay gloves for recovering holy relics from across Rivenspire.","icon":"data/images/d_/sd/na/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[7321]}

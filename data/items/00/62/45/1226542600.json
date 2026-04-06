@@ -1,10 +1,1 @@
-{
-  "internalId": 1226542600,
-  "name": "Femur",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    820563
-  ]
-}
+{"internalId":1226542600,"name":"Femur","description":"","icon":null,"bindType":-1,"knownIds":[820563]}

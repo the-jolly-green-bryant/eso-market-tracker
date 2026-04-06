@@ -1,10 +1,1 @@
-{
-  "internalId": 761803965,
-  "name": "Troll-Skin Brooding Sack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png",
-  "bindType": -1,
-  "knownIds": [
-    796455
-  ]
-}
+{"internalId":761803965,"name":"Troll-Skin Brooding Sack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png","bindType":-1,"knownIds":[796455]}

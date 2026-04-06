@@ -1,10 +1,1 @@
-{
-  "internalId": 1755563055,
-  "name": "Clockwork Firm-Joint Calipers, Handheld",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_smalltooltweezer001.png",
-  "bindType": -1,
-  "knownIds": [
-    134417
-  ]
-}
+{"internalId":1755563055,"name":"Clockwork Firm-Joint Calipers, Handheld","description":"This is a tiny house item.","icon":"data/images/10/0r/ez/housing_cwc_inc_smalltooltweezer001.png","bindType":-1,"knownIds":[134417]}

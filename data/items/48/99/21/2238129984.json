@@ -1,10 +1,1 @@
-{
-  "internalId": 2238129984,
-  "name": "Shoes of the Seducer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56263
-  ]
-}
+{"internalId":2238129984,"name":"Shoes of the Seducer","description":"","icon":"data/images/d_/te/ef/gear_breton_light_feet_d.png","bindType":2,"knownIds":[56263]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 76855775,
-  "name": "Praxis: Solitude Streetlight, Paired",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    166957
-  ]
-}
+{"internalId":76855775,"name":"Praxis: Solitude Streetlight, Paired","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[166957]}

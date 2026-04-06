@@ -1,10 +1,1 @@
-{
-  "internalId": 487774395,
-  "name": "Alinor Bookshelf, Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_highbookcase001.png",
-  "bindType": -1,
-  "knownIds": [
-    1333482
-  ]
-}
+{"internalId":487774395,"name":"Alinor Bookshelf, Polished","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_highbookcase001.png","bindType":-1,"knownIds":[1333482]}

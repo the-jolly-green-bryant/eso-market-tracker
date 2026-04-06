@@ -1,10 +1,1 @@
-{
-  "internalId": 4171931560,
-  "name": "Sapling, Sea Grapes",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_seagrapes002.png",
-  "bindType": -1,
-  "knownIds": [
-    139132
-  ]
-}
+{"internalId":4171931560,"name":"Sapling, Sea Grapes","description":"This is a standard house item.","icon":"data/images/20/0s/ep/housing_tre_sum_seagrapes002.png","bindType":-1,"knownIds":[139132]}

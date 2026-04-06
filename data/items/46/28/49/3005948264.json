@@ -1,10 +1,1 @@
-{
-  "internalId": 3005948264,
-  "name": "Consecrated Myrrh",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_pyre_watch.png",
-  "bindType": -1,
-  "knownIds": [
-    158307
-  ]
-}
+{"internalId":3005948264,"name":"Consecrated Myrrh","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_pyre_watch.png","bindType":-1,"knownIds":[158307]}

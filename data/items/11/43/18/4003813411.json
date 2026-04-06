@@ -1,15 +1,1 @@
-{
-  "internalId": 4003813411,
-  "name": "Spattering Disjunction Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1735174,
-    1773704,
-    1779065,
-    1735174,
-    1773704,
-    1779065
-  ]
-}
+{"internalId":4003813411,"name":"Spattering Disjunction Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_staff.png","bindType":-1,"knownIds":[1735174,1773704,1779065,1735174,1773704,1779065]}

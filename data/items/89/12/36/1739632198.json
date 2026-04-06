@@ -1,10 +1,1 @@
-{
-  "internalId": 1739632198,
-  "name": "Waterlogged Psijic Satchel",
-  "description": "An oilskin satchel, only mostly watertight, lost by a Psijic mage some time ago. It sounds like there's something inside.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    139011
-  ]
-}
+{"internalId":1739632198,"name":"Waterlogged Psijic Satchel","description":"An oilskin satchel, only mostly watertight, lost by a Psijic mage some time ago. It sounds like there's something inside.","icon":"data/images/30/0_/hc/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[139011]}

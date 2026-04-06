@@ -1,10 +1,1 @@
-{
-  "internalId": 2268910803,
-  "name": "Poacher's Cuirass of the Ranger",
-  "description": "This breastplate is cool to the touch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42995
-  ]
-}
+{"internalId":2268910803,"name":"Poacher's Cuirass of the Ranger","description":"This breastplate is cool to the touch.","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[42995]}

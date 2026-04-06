@@ -1,10 +1,1 @@
-{
-  "internalId": 3778633326,
-  "name": "Redguards, History and Heroes, V. 3",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1338225
-  ]
-}
+{"internalId":3778633326,"name":"Redguards, History and Heroes, V. 3","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png","bindType":-1,"knownIds":[1338225]}

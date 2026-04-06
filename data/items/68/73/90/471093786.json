@@ -1,10 +1,1 @@
-{
-  "internalId": 471093786,
-  "name": "Ozzozachar's Claw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44256
-  ]
-}
+{"internalId":471093786,"name":"Ozzozachar's Claw","description":"","icon":"data/images/a_/dr/ow/gear_ashlander_2hsword_a.png","bindType":2,"knownIds":[44256]}

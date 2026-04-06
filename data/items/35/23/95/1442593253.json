@@ -1,10 +1,1 @@
-{
-  "internalId": 1442593253,
-  "name": "Dwarven Gear, Large Spokes",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_geara001.png",
-  "bindType": -1,
-  "knownIds": [
-    147585
-  ]
-}
+{"internalId":1442593253,"name":"Dwarven Gear, Large Spokes","description":"This is a small house item.","icon":"data/images/10/0a/ra/housing_dwe_inc_geara001.png","bindType":-1,"knownIds":[147585]}

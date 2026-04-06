@@ -1,10 +1,1 @@
-{
-  "internalId": 1732989097,
-  "name": "Antique Sewing Kit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    456759
-  ]
-}
+{"internalId":1732989097,"name":"Antique Sewing Kit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[456759]}

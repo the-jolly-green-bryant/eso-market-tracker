@@ -1,10 +1,1 @@
-{
-  "internalId": 4086668802,
-  "name": "Jerkin of Trials",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    70258
-  ]
-}
+{"internalId":4086668802,"name":"Jerkin of Trials","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[70258]}

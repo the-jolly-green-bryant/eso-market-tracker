@@ -1,10 +1,1 @@
-{
-  "internalId": 2787037715,
-  "name": "Necklace of Ashen Grip",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140176
-  ]
-}
+{"internalId":2787037715,"name":"Necklace of Ashen Grip","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[140176]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 2314501183,
-  "name": "Plague Slinger Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1201767,
-    1201786,
-    1426459,
-    1427761,
-    1201767,
-    1201786,
-    1426459,
-    1427761
-  ]
-}
+{"internalId":2314501183,"name":"Plague Slinger Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1201767,1201786,1426459,1427761,1201767,1201786,1426459,1427761]}

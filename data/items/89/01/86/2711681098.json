@@ -1,10 +1,1 @@
-{
-  "internalId": 2711681098,
-  "name": "Axe of the Twin Sisters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92407
-  ]
-}
+{"internalId":2711681098,"name":"Axe of the Twin Sisters","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[92407]}

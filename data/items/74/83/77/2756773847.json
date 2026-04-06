@@ -1,10 +1,1 @@
-{
-  "internalId": 2756773847,
-  "name": "Meb's Chopper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    634580
-  ]
-}
+{"internalId":2756773847,"name":"Meb's Chopper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2haxe_d.png","bindType":-1,"knownIds":[634580]}

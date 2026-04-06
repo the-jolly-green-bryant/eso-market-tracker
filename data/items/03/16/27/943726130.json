@@ -1,10 +1,1 @@
-{
-  "internalId": 943726130,
-  "name": "Restoration Staff of Red Eagle's Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168345
-  ]
-}
+{"internalId":943726130,"name":"Restoration Staff of Red Eagle's Fury","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[168345]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3756192101,
-  "name": "Bone Fragment From the Spine of Ashpit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_ashpit_bone.png",
-  "bindType": -1,
-  "knownIds": [
-    949977
-  ]
-}
+{"internalId":3756192101,"name":"Bone Fragment From the Spine of Ashpit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_ashpit_bone.png","bindType":-1,"knownIds":[949977]}

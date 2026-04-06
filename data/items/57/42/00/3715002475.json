@@ -1,10 +1,1 @@
-{
-  "internalId": 3715002475,
-  "name": "Seahorse, Display",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_foodseahorse001.png",
-  "bindType": -1,
-  "knownIds": [
-    214460
-  ]
-}
+{"internalId":3715002475,"name":"Seahorse, Display","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_foodseahorse001.png","bindType":-1,"knownIds":[214460]}

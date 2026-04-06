@@ -1,10 +1,1 @@
-{
-  "internalId": 2452930038,
-  "name": "Crafting Motif 63: Dremora Boots",
-  "description": "Use to learn how to make Dremora Boots. Also teaches the equivalent Dremora outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140447
-  ]
-}
+{"internalId":2452930038,"name":"Crafting Motif 63: Dremora Boots","description":"Use to learn how to make Dremora Boots. Also teaches the equivalent Dremora outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140447]}

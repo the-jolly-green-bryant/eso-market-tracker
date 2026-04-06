@@ -1,10 +1,1 @@
-{
-  "internalId": 3419256312,
-  "name": "Saplings, Fragile Autumn Birch",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_sapling_cluster002.png",
-  "bindType": -1,
-  "knownIds": [
-    121013
-  ]
-}
+{"internalId":3419256312,"name":"Saplings, Fragile Autumn Birch","description":"This is a large house item.","icon":"data/images/20/0r/et/housing_tre_dec_sapling_cluster002.png","bindType":-1,"knownIds":[121013]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 200240659,
-  "name": "Tide-Born Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215845
-  ]
-}
+{"internalId":200240659,"name":"Tide-Born Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":2,"knownIds":[215845]}

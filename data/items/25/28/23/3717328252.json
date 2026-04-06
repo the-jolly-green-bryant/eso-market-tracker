@@ -1,10 +1,1 @@
-{
-  "internalId": 3717328252,
-  "name": "Greaves of Affliction",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    64852
-  ]
-}
+{"internalId":3717328252,"name":"Greaves of Affliction","description":"","icon":"data/images/d_/sg/el/gear_argonian_heavy_legs_d.png","bindType":2,"knownIds":[64852]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3775480899,
-  "name": "Diagram: Dwarven Potted Plant, Polished Vase",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    171481
-  ]
-}
+{"internalId":3775480899,"name":"Diagram: Dwarven Potted Plant, Polished Vase","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[171481]}

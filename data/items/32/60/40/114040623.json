@@ -1,10 +1,1 @@
-{
-  "internalId": 114040623,
-  "name": "Redguard Urn, Mural",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_duc_yokudanstoryvessel001.png",
-  "bindType": -1,
-  "knownIds": [
-    117772
-  ]
-}
+{"internalId":114040623,"name":"Redguard Urn, Mural","description":"This is a standard house item.","icon":"data/images/10/0l/es/housing_red_duc_yokudanstoryvessel001.png","bindType":-1,"knownIds":[117772]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3144489414,
-  "name": "Balorgh Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_werewolfbehemoth_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1691097
-  ]
-}
+{"internalId":3144489414,"name":"Balorgh Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_werewolfbehemoth_head_a.png","bindType":-1,"knownIds":[1691097]}

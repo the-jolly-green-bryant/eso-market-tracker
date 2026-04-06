@@ -1,10 +1,1 @@
-{
-  "internalId": 594229956,
-  "name": "Blueprint: Vampiric Table, Square Low",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166744
-  ]
-}
+{"internalId":594229956,"name":"Blueprint: Vampiric Table, Square Low","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[166744]}

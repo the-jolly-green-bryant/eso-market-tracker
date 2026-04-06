@@ -1,10 +1,1 @@
-{
-  "internalId": 1783431041,
-  "name": "Boulder, Apocrypha Fossil",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_fossilrockmed005.png",
-  "bindType": -1,
-  "knownIds": [
-    197643
-  ]
-}
+{"internalId":1783431041,"name":"Boulder, Apocrypha Fossil","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_fossilrockmed005.png","bindType":-1,"knownIds":[197643]}

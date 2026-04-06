@@ -1,10 +1,1 @@
-{
-  "internalId": 3137667190,
-  "name": "Sheet Music Folio",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804484
-  ]
-}
+{"internalId":3137667190,"name":"Sheet Music Folio","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[804484]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 741283617,
-  "name": "Alinor Plinth, Sarcophagus",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_sarcophagusbase001.png",
-  "bindType": -1,
-  "knownIds": [
-    139184
-  ]
-}
+{"internalId":741283617,"name":"Alinor Plinth, Sarcophagus","description":"This is a standard house item.","icon":"data/images/10/0e/sa/housing_sum_duc_sarcophagusbase001.png","bindType":-1,"knownIds":[139184]}

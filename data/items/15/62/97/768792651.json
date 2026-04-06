@@ -1,17 +1,1 @@
-{
-  "internalId": 768792651,
-  "name": "Umbral Edge Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1734356,
-    1755221,
-    1764745,
-    1765489,
-    1734356,
-    1755221,
-    1764745,
-    1765489
-  ]
-}
+{"internalId":768792651,"name":"Umbral Edge Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_dagger.png","bindType":-1,"knownIds":[1734356,1755221,1764745,1765489,1734356,1755221,1764745,1765489]}

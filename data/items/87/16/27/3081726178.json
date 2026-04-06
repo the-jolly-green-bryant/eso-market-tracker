@@ -1,10 +1,1 @@
-{
-  "internalId": 3081726178,
-  "name": "Crafting Motif 69: Dead-Water Helmets",
-  "description": "Use to learn how to make Dead-Water Helmets. Also teaches the equivalent Dead-Water outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    142210
-  ]
-}
+{"internalId":3081726178,"name":"Crafting Motif 69: Dead-Water Helmets","description":"Use to learn how to make Dead-Water Helmets. Also teaches the equivalent Dead-Water outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[142210]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4039414812,
-  "name": "Cheesemonger's Salad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_004.png",
-  "bindType": -1,
-  "knownIds": [
-    57089
-  ]
-}
+{"internalId":4039414812,"name":"Cheesemonger's Salad","description":"","icon":"data/images/40/0_/da/crafting_salad_004.png","bindType":-1,"knownIds":[57089]}

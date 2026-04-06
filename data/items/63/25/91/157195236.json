@@ -1,10 +1,1 @@
-{
-  "internalId": 157195236,
-  "name": "Canteen Cozy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    794590
-  ]
-}
+{"internalId":157195236,"name":"Canteen Cozy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[794590]}

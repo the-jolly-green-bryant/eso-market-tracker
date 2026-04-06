@@ -1,10 +1,1 @@
-{
-  "internalId": 1823552924,
-  "name": "Bernique Mornard's Pendant",
-  "description": "A simple but very fine piece of jewelry handed down through the generations from Bernique Mornard, a leader known as the mother of Vastyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    191210
-  ]
-}
+{"internalId":1823552924,"name":"Bernique Mornard's Pendant","description":"A simple but very fine piece of jewelry handed down through the generations from Bernique Mornard, a leader known as the mother of Vastyr.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[191210]}

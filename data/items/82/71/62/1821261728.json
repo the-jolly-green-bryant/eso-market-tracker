@@ -1,10 +1,1 @@
-{
-  "internalId": 1821261728,
-  "name": "Alabaster Dibella Statuette",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1413372
-  ]
-}
+{"internalId":1821261728,"name":"Alabaster Dibella Statuette","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1413372]}

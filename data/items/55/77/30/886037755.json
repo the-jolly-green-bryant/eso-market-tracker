@@ -1,10 +1,1 @@
-{
-  "internalId": 886037755,
-  "name": "Queen Nurnhilde's Nail Clipping",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_nurnhildes_clipping.png",
-  "bindType": -1,
-  "knownIds": [
-    798735
-  ]
-}
+{"internalId":886037755,"name":"Queen Nurnhilde's Nail Clipping","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_nurnhildes_clipping.png","bindType":-1,"knownIds":[798735]}

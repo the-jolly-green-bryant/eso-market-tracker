@@ -1,10 +1,1 @@
-{
-  "internalId": 1726056176,
-  "name": "The Black Forge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199242
-  ]
-}
+{"internalId":1726056176,"name":"The Black Forge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1199242]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1126311072,
-  "name": "Worm Cult Bed, Canopy Full",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_u48bedhigh002.png",
-  "bindType": -1,
-  "knownIds": [
-    220266
-  ]
-}
+{"internalId":1126311072,"name":"Worm Cult Bed, Canopy Full","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_u48bedhigh002.png","bindType":-1,"knownIds":[220266]}

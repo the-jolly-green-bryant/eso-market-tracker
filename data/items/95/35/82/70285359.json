@@ -1,10 +1,1 @@
-{
-  "internalId": 70285359,
-  "name": "Medical Supplies",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    790698
-  ]
-}
+{"internalId":70285359,"name":"Medical Supplies","description":"","icon":null,"bindType":-1,"knownIds":[790698]}

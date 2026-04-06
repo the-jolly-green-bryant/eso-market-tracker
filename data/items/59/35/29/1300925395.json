@@ -1,10 +1,1 @@
-{
-  "internalId": 1300925395,
-  "name": "Shipment of Beech",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    937460
-  ]
-}
+{"internalId":1300925395,"name":"Shipment of Beech","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[937460]}

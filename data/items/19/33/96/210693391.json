@@ -1,10 +1,1 @@
-{
-  "internalId": 210693391,
-  "name": "Lunar Tapestry, The Dance",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_tapestrymoondancer002.png",
-  "bindType": -1,
-  "knownIds": [
-    151826
-  ]
-}
+{"internalId":210693391,"name":"Lunar Tapestry, The Dance","description":"This is a standard house item.","icon":"data/images/20/0r/ec/housing_els_inc_tapestrymoondancer002.png","bindType":-1,"knownIds":[151826]}

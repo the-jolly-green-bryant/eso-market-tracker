@@ -1,10 +1,1 @@
-{
-  "internalId": 3481794075,
-  "name": "Daedric Candelabra, Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_candelabra001.png",
-  "bindType": -1,
-  "knownIds": [
-    139158
-  ]
-}
+{"internalId":3481794075,"name":"Daedric Candelabra, Tall","description":"This is a standard house item.","icon":"data/images/10/0a/rb/housing_coh_inc_candelabra001.png","bindType":-1,"knownIds":[139158]}

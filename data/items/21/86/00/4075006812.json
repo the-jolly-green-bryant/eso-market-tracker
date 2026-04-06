@@ -1,10 +1,1 @@
-{
-  "internalId": 4075006812,
-  "name": "Anexiel's Thorax",
-  "description": "Mephala's purpose in meddling with the marriage of Najan and Adeena remains in question. But you came back with answers for Najan, who awarded you this armor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15594
-  ]
-}
+{"internalId":4075006812,"name":"Anexiel's Thorax","description":"Mephala's purpose in meddling with the marriage of Najan and Adeena remains in question. But you came back with answers for Najan, who awarded you this armor.","icon":"data/images/d_/ts/eh/gear_redguard_medium_chest_d.png","bindType":2,"knownIds":[15594]}

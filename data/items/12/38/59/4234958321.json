@@ -1,11 +1,1 @@
-{
-  "internalId": 4234958321,
-  "name": "fortified Kaveh stout",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    871679,
-    871679
-  ]
-}
+{"internalId":4234958321,"name":"fortified Kaveh stout","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png","bindType":-1,"knownIds":[871679,871679]}

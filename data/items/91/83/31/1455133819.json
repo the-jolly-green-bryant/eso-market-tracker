@@ -1,10 +1,1 @@
-{
-  "internalId": 1455133819,
-  "name": "Telvanni Spoon, Wooden",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_spoon001.png",
-  "bindType": -1,
-  "knownIds": [
-    197644
-  ]
-}
+{"internalId":1455133819,"name":"Telvanni Spoon, Wooden","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_spoon001.png","bindType":-1,"knownIds":[197644]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2677758060,
-  "name": "Pan-Tamriel Reward Box",
-  "description": "This box contains a variety of crafting-related materials, intended for celebrants of the Pan-Tamriel Celebration.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    212212
-  ]
-}
+{"internalId":2677758060,"name":"Pan-Tamriel Reward Box","description":"This box contains a variety of crafting-related materials, intended for celebrants of the Pan-Tamriel Celebration.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[212212]}

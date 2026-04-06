@@ -1,10 +1,1 @@
-{
-  "internalId": 1877256683,
-  "name": "Velothi Expedition-Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_velothi_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    602485
-  ]
-}
+{"internalId":1877256683,"name":"Velothi Expedition-Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_velothi_staff.png","bindType":-1,"knownIds":[602485]}

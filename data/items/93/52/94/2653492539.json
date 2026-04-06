@@ -1,10 +1,1 @@
-{
-  "internalId": 2653492539,
-  "name": "Myriad Mount Menagerie",
-  "description": "This box contains a wide variety of Mounts, courtesy of the Crown Store.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift_box_003.png",
-  "bindType": 3,
-  "knownIds": [
-    134560
-  ]
-}
+{"internalId":2653492539,"name":"Myriad Mount Menagerie","description":"This box contains a wide variety of Mounts, courtesy of the Crown Store.","icon":"data/images/30/0_/xo/gift_box_003.png","bindType":3,"knownIds":[134560]}

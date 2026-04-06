@@ -1,10 +1,1 @@
-{
-  "internalId": 3955714400,
-  "name": "Stained Glass of Kynareth",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowkynareth001.png",
-  "bindType": -1,
-  "knownIds": [
-    181478
-  ]
-}
+{"internalId":3955714400,"name":"Stained Glass of Kynareth","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowkynareth001.png","bindType":-1,"knownIds":[181478]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2052563787,
-  "name": "Blueprint: Breton Cabinet, Knotwork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115974
-  ]
-}
+{"internalId":2052563787,"name":"Blueprint: Breton Cabinet, Knotwork","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[115974]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3694036530,
-  "name": "Sword of Stendarr",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100171
-  ]
-}
+{"internalId":3694036530,"name":"Sword of Stendarr","description":"","icon":"data/images/d_/dr/ow/gear_bosmer_1hsword_d.png","bindType":2,"knownIds":[100171]}

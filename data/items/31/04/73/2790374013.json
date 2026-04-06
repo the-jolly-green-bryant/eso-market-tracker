@@ -1,10 +1,1 @@
-{
-  "internalId": 2790374013,
-  "name": "Design: Dres Bowl, Serving",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    126992
-  ]
-}
+{"internalId":2790374013,"name":"Design: Dres Bowl, Serving","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[126992]}

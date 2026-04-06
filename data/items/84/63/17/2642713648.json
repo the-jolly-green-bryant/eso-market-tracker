@@ -1,10 +1,1 @@
-{
-  "internalId": 2642713648,
-  "name": "Vampire's Kiss",
-  "description": "A Crafted Armor set constructed in Malabal Tor, Alik'r Desert, and Eastmarch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182437
-  ]
-}
+{"internalId":2642713648,"name":"Vampire's Kiss","description":"A Crafted Armor set constructed in Malabal Tor, Alik'r Desert, and Eastmarch.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182437]}

@@ -1,12 +1,1 @@
-{
-  "internalId": 4287888849,
-  "name": "Superb Glyph of Decrease Spell Harm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png",
-  "bindType": -1,
-  "knownIds": [
-    1426596,
-    1426596,
-    1426596
-  ]
-}
+{"internalId":4287888849,"name":"Superb Glyph of Decrease Spell Harm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png","bindType":-1,"knownIds":[1426596,1426596,1426596]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 645458921,
-  "name": "Clothier Survey: the Rift",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    814591
-  ]
-}
+{"internalId":645458921,"name":"Clothier Survey: the Rift","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[814591]}

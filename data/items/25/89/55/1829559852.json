@@ -1,10 +1,1 @@
-{
-  "internalId": 1829559852,
-  "name": "Rough Bedroll, Basic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_bedrollunrolled001.png",
-  "bindType": -1,
-  "knownIds": [
-    117963
-  ]
-}
+{"internalId":1829559852,"name":"Rough Bedroll, Basic","description":"This is a standard house item.","icon":"data/images/10/0d/el/housing_bre_cmp_bedrollunrolled001.png","bindType":-1,"knownIds":[117963]}

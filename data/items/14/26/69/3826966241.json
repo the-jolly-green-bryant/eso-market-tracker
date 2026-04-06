@@ -1,10 +1,1 @@
-{
-  "internalId": 3826966241,
-  "name": "Apocrypha Statue, Lurker",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_libstatuemonster001.png",
-  "bindType": -1,
-  "knownIds": [
-    196211
-  ]
-}
+{"internalId":3826966241,"name":"Apocrypha Statue, Lurker","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_libstatuemonster001.png","bindType":-1,"knownIds":[196211]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1121521425,
-  "name": "Ex-Legionaire's Breastplate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    713980,
-    604667,
-    713980,
-    604667
-  ]
-}
+{"internalId":1121521425,"name":"Ex-Legionaire's Breastplate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":-1,"knownIds":[713980,604667,713980,604667]}

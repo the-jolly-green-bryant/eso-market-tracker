@@ -1,10 +1,1 @@
-{
-  "internalId": 2352576321,
-  "name": "Apocrypha Mirror, Spiked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_mirrormedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    198416
-  ]
-}
+{"internalId":2352576321,"name":"Apocrypha Mirror, Spiked","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_mirrormedium001.png","bindType":-1,"knownIds":[198416]}

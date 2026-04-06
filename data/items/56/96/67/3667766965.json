@@ -1,10 +1,1 @@
-{
-  "internalId": 3667766965,
-  "name": "Darksky Ritual Sand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_dust_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1294265
-  ]
-}
+{"internalId":3667766965,"name":"Darksky Ritual Sand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_dust_003.png","bindType":-1,"knownIds":[1294265]}

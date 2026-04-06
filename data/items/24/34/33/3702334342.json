@@ -1,10 +1,1 @@
-{
-  "internalId": 3702334342,
-  "name": "Ruby-Encrusted Tea Set",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1277555
-  ]
-}
+{"internalId":3702334342,"name":"Ruby-Encrusted Tea Set","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[1277555]}

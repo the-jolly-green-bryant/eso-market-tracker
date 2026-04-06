@@ -1,10 +1,1 @@
-{
-  "internalId": 1498363005,
-  "name": "Reach Bowl, Nirncrux",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_con_ceremonialbowllarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    131435
-  ]
-}
+{"internalId":1498363005,"name":"Reach Bowl, Nirncrux","description":"This is a standard house item.","icon":"data/images/10/0e/gr/housing_cra_con_ceremonialbowllarge001.png","bindType":-1,"knownIds":[131435]}

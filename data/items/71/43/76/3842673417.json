@@ -1,10 +1,1 @@
-{
-  "internalId": 3842673417,
-  "name": "Pattern: Alinor Carpet, Vibrant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    139639
-  ]
-}
+{"internalId":3842673417,"name":"Pattern: Alinor Carpet, Vibrant","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[139639]}

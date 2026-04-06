@@ -1,10 +1,1 @@
-{
-  "internalId": 58617895,
-  "name": "Glyph of Prismatic Onslaught",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_enchantment_035.png",
-  "bindType": -1,
-  "knownIds": [
-    68344
-  ]
-}
+{"internalId":58617895,"name":"Glyph of Prismatic Onslaught","description":"","icon":"data/images/53/0_/tn/crafting_enchantment_035.png","bindType":-1,"knownIds":[68344]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1237268288,
-  "name": "Deshaan CE Treasure Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    822931
-  ]
-}
+{"internalId":1237268288,"name":"Deshaan CE Treasure Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[822931]}

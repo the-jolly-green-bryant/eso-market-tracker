@@ -1,10 +1,1 @@
-{
-  "internalId": 381605095,
-  "name": "The Precursor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/targetdummy_theprecursor.png",
-  "bindType": -1,
-  "knownIds": [
-    1180156
-  ]
-}
+{"internalId":381605095,"name":"The Precursor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/targetdummy_theprecursor.png","bindType":-1,"knownIds":[1180156]}

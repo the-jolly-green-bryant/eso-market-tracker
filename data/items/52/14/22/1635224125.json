@@ -1,10 +1,1 @@
-{
-  "internalId": 1635224125,
-  "name": "Praxis: Apocrypha Desk, Marble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    197605
-  ]
-}
+{"internalId":1635224125,"name":"Praxis: Apocrypha Desk, Marble","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[197605]}

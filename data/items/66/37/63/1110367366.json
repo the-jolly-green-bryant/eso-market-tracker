@@ -1,10 +1,1 @@
-{
-  "internalId": 1110367366,
-  "name": "Worm Cult Candelabra, Cold-Flame",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_floorlamp002.png",
-  "bindType": -1,
-  "knownIds": [
-    220295
-  ]
-}
+{"internalId":1110367366,"name":"Worm Cult Candelabra, Cold-Flame","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_floorlamp002.png","bindType":-1,"knownIds":[220295]}

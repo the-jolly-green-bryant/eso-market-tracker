@@ -1,10 +1,1 @@
-{
-  "internalId": 1676124346,
-  "name": "Oblivion's Foe Medium Armor",
-  "description": "A Crafted Armor set constructed in Coldharbour.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182635
-  ]
-}
+{"internalId":1676124346,"name":"Oblivion's Foe Medium Armor","description":"A Crafted Armor set constructed in Coldharbour.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182635]}

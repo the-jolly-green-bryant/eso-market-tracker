@@ -1,10 +1,1 @@
-{
-  "internalId": 4170389130,
-  "name": "Shell Splitter Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194176
-  ]
-}
+{"internalId":4170389130,"name":"Shell Splitter Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[194176]}

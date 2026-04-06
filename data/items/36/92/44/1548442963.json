@@ -1,17 +1,1 @@
-{
-  "internalId": 1548442963,
-  "name": "spidersilk robe of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    684028,
-    710576,
-    602901,
-    436257,
-    684028,
-    710576,
-    602901,
-    436257
-  ]
-}
+{"internalId":1548442963,"name":"spidersilk robe of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png","bindType":-1,"knownIds":[684028,710576,602901,436257,684028,710576,602901,436257]}

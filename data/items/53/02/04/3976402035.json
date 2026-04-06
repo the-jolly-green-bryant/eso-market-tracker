@@ -1,10 +1,1 @@
-{
-  "internalId": 3976402035,
-  "name": "Ring of Almalexia's Mercy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    90989
-  ]
-}
+{"internalId":3976402035,"name":"Ring of Almalexia's Mercy","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[90989]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4225754961,
-  "name": "Lighthouse Tapestry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tapestry_001.png",
-  "bindType": -1,
-  "knownIds": [
-    664166,
-    664166
-  ]
-}
+{"internalId":4225754961,"name":"Lighthouse Tapestry","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tapestry_001.png","bindType":-1,"knownIds":[664166,664166]}

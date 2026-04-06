@@ -1,10 +1,1 @@
-{
-  "internalId": 3184480970,
-  "name": "Diagram: Deadlands Urn, Inscribed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    176029
-  ]
-}
+{"internalId":3184480970,"name":"Diagram: Deadlands Urn, Inscribed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[176029]}

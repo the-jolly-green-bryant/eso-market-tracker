@@ -1,17 +1,1 @@
-{
-  "internalId": 3722376357,
-  "name": "ebon cuirass of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    685172,
-    458481,
-    763487,
-    794912,
-    685172,
-    458481,
-    763487,
-    794912
-  ]
-}
+{"internalId":3722376357,"name":"ebon cuirass of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":-1,"knownIds":[685172,458481,763487,794912,685172,458481,763487,794912]}

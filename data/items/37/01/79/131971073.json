@@ -1,10 +1,1 @@
-{
-  "internalId": 131971073,
-  "name": "Dune Fragment",
-  "description": "This fragment of an ancient mural depicts the kingdom of Dune, known for its wise scholars. Return it to the House of Histories in Riverhold, in Northern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_elsweyr_khaijit_mural_frament.png",
-  "bindType": 3,
-  "knownIds": [
-    147522
-  ]
-}
+{"internalId":131971073,"name":"Dune Fragment","description":"This fragment of an ancient mural depicts the kingdom of Dune, known for its wise scholars. Return it to the House of Histories in Riverhold, in Northern Elsweyr.","icon":"data/images/tn/em/ar/quest_elsweyr_khaijit_mural_frament.png","bindType":3,"knownIds":[147522]}

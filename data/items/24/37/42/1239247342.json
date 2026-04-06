@@ -1,10 +1,1 @@
-{
-  "internalId": 1239247342,
-  "name": "Crafting Motif 67: Welkynar Chests",
-  "description": "Use to learn how to make Welkynar Chests. Also teaches the equivalent Welkynar outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140501
-  ]
-}
+{"internalId":1239247342,"name":"Crafting Motif 67: Welkynar Chests","description":"Use to learn how to make Welkynar Chests. Also teaches the equivalent Welkynar outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140501]}

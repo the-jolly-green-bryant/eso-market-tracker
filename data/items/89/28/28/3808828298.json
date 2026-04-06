@@ -1,13 +1,1 @@
-{
-  "internalId": 3808828298,
-  "name": "Langour of Peryite Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1622601,
-    1642628,
-    1622601,
-    1642628
-  ]
-}
+{"internalId":3808828298,"name":"Langour of Peryite Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":-1,"knownIds":[1622601,1642628,1622601,1642628]}

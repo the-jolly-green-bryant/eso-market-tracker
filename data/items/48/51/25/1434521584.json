@@ -1,10 +1,1 @@
-{
-  "internalId": 1434521584,
-  "name": "Pergola, Reclaimed Wood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_scaffoldstructure002.png",
-  "bindType": -1,
-  "knownIds": [
-    203277
-  ]
-}
+{"internalId":1434521584,"name":"Pergola, Reclaimed Wood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_scaffoldstructure002.png","bindType":-1,"knownIds":[203277]}

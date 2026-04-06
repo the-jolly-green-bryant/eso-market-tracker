@@ -1,10 +1,1 @@
-{
-  "internalId": 966777816,
-  "name": "Swamp Jelly Hunter's Lens",
-  "description": "This is one of seven parts of the Swamp Jelly Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    141748
-  ]
-}
+{"internalId":966777816,"name":"Swamp Jelly Hunter's Lens","description":"This is one of seven parts of the Swamp Jelly Runebox.","icon":"data/images/10/0_/sn/justice_stolen_lens_001.png","bindType":-1,"knownIds":[141748]}

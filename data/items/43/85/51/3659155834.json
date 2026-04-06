@@ -1,10 +1,1 @@
-{
-  "internalId": 3659155834,
-  "name": "Trollfight Arena Certificate of Merit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    786275
-  ]
-}
+{"internalId":3659155834,"name":"Trollfight Arena Certificate of Merit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[786275]}

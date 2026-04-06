@@ -1,10 +1,1 @@
-{
-  "internalId": 3973487342,
-  "name": "Seeker Synthesis Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    195689
-  ]
-}
+{"internalId":3973487342,"name":"Seeker Synthesis Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[195689]}

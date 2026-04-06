@@ -1,10 +1,1 @@
-{
-  "internalId": 2136359919,
-  "name": "Lost Amulet",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    790466
-  ]
-}
+{"internalId":2136359919,"name":"Lost Amulet","description":"","icon":null,"bindType":-1,"knownIds":[790466]}

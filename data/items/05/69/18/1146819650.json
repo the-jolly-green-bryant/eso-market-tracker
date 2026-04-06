@@ -1,10 +1,1 @@
-{
-  "internalId": 1146819650,
-  "name": "Bone, Humerus",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletonhumerus001.png",
-  "bindType": -1,
-  "knownIds": [
-    118886
-  ]
-}
+{"internalId":1146819650,"name":"Bone, Humerus","description":"This is a small house item.","icon":"data/images/10/0s/ur/housing_gen_exc_skeletonhumerus001.png","bindType":-1,"knownIds":[118886]}

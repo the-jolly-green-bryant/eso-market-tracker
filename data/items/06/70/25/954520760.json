@@ -1,10 +1,1 @@
-{
-  "internalId": 954520760,
-  "name": "Antiquity Furnishing Crate 3",
-  "description": "This Crate contains 40 Antiquity furnishings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    192466
-  ]
-}
+{"internalId":954520760,"name":"Antiquity Furnishing Crate 3","description":"This Crate contains 40 Antiquity furnishings.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[192466]}

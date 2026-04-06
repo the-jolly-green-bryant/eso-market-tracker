@@ -1,10 +1,1 @@
-{
-  "internalId": 2723163289,
-  "name": "Apocrypha Ink Bottle, Green",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_inkbottle002.png",
-  "bindType": -1,
-  "knownIds": [
-    198373
-  ]
-}
+{"internalId":2723163289,"name":"Apocrypha Ink Bottle, Green","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_inkbottle002.png","bindType":-1,"knownIds":[198373]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3567123974,
-  "name": "Solitude Platform, Ornate Tile",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_housingplatform001.png",
-  "bindType": -1,
-  "knownIds": [
-    167333
-  ]
-}
+{"internalId":3567123974,"name":"Solitude Platform, Ornate Tile","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_housingplatform001.png","bindType":-1,"knownIds":[167333]}

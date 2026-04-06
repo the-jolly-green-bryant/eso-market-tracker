@@ -1,17 +1,1 @@
-{
-  "internalId": 1671283626,
-  "name": "Hanu's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1268739,
-    1272653,
-    1516441,
-    1583647,
-    1268739,
-    1272653,
-    1516441,
-    1583647
-  ]
-}
+{"internalId":1671283626,"name":"Hanu's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1268739,1272653,1516441,1583647,1268739,1272653,1516441,1583647]}

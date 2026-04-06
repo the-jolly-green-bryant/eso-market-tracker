@@ -1,10 +1,1 @@
-{
-  "internalId": 1451151569,
-  "name": "Camel Whip",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1210665
-  ]
-}
+{"internalId":1451151569,"name":"Camel Whip","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png","bindType":-1,"knownIds":[1210665]}

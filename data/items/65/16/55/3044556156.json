@@ -1,10 +1,1 @@
-{
-  "internalId": 3044556156,
-  "name": "Formula: Colovian Window, Peaked",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    211023
-  ]
-}
+{"internalId":3044556156,"name":"Formula: Colovian Window, Peaked","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[211023]}

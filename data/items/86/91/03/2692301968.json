@@ -1,10 +1,1 @@
-{
-  "internalId": 2692301968,
-  "name": "Axe of the Night Mother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56348
-  ]
-}
+{"internalId":2692301968,"name":"Axe of the Night Mother","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[56348]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1961542475,
-  "name": "Toothrow",
-  "description": "A Medium Armor set found in Wayrest Sewers.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114175
-  ]
-}
+{"internalId":1961542475,"name":"Toothrow","description":"A Medium Armor set found in Wayrest Sewers.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114175]}

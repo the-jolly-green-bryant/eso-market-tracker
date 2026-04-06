@@ -1,10 +1,1 @@
-{
-  "internalId": 3068942789,
-  "name": "Jarl of Morthal Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting002.png",
-  "bindType": -1,
-  "knownIds": [
-    165837
-  ]
-}
+{"internalId":3068942789,"name":"Jarl of Morthal Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting002.png","bindType":-1,"knownIds":[165837]}

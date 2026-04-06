@@ -1,10 +1,1 @@
-{
-  "internalId": 591449118,
-  "name": "Mat of the Oasis, Faded",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn008.png",
-  "bindType": -1,
-  "knownIds": [
-    118163
-  ]
-}
+{"internalId":591449118,"name":"Mat of the Oasis, Faded","description":"This is a small house item.","icon":"data/images/80/0n/ro/housing_red_inc_rugsmallworn008.png","bindType":-1,"knownIds":[118163]}

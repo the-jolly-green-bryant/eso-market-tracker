@@ -1,10 +1,1 @@
-{
-  "internalId": 3760927737,
-  "name": "Weald Brooch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u42_crafting_style_item_westwealdlegion.png",
-  "bindType": -1,
-  "knownIds": [
-    203489
-  ]
-}
+{"internalId":3760927737,"name":"Weald Brooch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/u42_crafting_style_item_westwealdlegion.png","bindType":-1,"knownIds":[203489]}

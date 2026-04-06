@@ -1,10 +1,1 @@
-{
-  "internalId": 4266065401,
-  "name": "Stone-Nest Basket, Woven Round",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argonianbasket001.png",
-  "bindType": -1,
-  "knownIds": [
-    220337
-  ]
-}
+{"internalId":4266065401,"name":"Stone-Nest Basket, Woven Round","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argonianbasket001.png","bindType":-1,"knownIds":[220337]}

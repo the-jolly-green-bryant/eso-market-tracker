@@ -1,10 +1,1 @@
-{
-  "internalId": 3559327373,
-  "name": "Psijic Glowglobe's Crystal Ball",
-  "description": "This is one of seven parts of the Psijic Glowglobe. Use to advance the eponymous achievement.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_006.png",
-  "bindType": -1,
-  "knownIds": [
-    139461
-  ]
-}
+{"internalId":3559327373,"name":"Psijic Glowglobe's Crystal Ball","description":"This is one of seven parts of the Psijic Glowglobe. Use to advance the eponymous achievement.","icon":"data/images/60/0_/er/quest_rivenspire_006.png","bindType":-1,"knownIds":[139461]}

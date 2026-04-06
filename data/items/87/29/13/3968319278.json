@@ -1,10 +1,1 @@
-{
-  "internalId": 3968319278,
-  "name": "Netch Tendril Drag-Net",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1156493
-  ]
-}
+{"internalId":3968319278,"name":"Netch Tendril Drag-Net","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png","bindType":-1,"knownIds":[1156493]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3796031908,
-  "name": "Robe of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172110
-  ]
-}
+{"internalId":3796031908,"name":"Robe of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_robe_a.png","bindType":2,"knownIds":[172110]}

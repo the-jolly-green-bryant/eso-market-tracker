@@ -1,10 +1,1 @@
-{
-  "internalId": 4090484942,
-  "name": "Hautt's Lute",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    816111
-  ]
-}
+{"internalId":4090484942,"name":"Hautt's Lute","description":"","icon":null,"bindType":-1,"knownIds":[816111]}

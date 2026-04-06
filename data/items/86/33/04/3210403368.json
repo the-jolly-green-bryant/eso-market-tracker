@@ -1,10 +1,1 @@
-{
-  "internalId": 3210403368,
-  "name": "Maul of the Dreugh King Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80996
-  ]
-}
+{"internalId":3210403368,"name":"Maul of the Dreugh King Slayer","description":"","icon":"data/images/d_/re/mm/gear_dunmer_2hhammer_d.png","bindType":2,"knownIds":[80996]}

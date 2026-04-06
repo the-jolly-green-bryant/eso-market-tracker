@@ -1,10 +1,1 @@
-{
-  "internalId": 197587366,
-  "name": "Guarskin Conga Drums",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_drum.png",
-  "bindType": -1,
-  "knownIds": [
-    939626
-  ]
-}
+{"internalId":197587366,"name":"Guarskin Conga Drums","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_drum.png","bindType":-1,"knownIds":[939626]}

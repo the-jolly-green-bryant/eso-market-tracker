@@ -1,10 +1,1 @@
-{
-  "internalId": 3722953869,
-  "name": "Crafting Motif 63: Dremora Belts",
-  "description": "Use to learn how to make Dremora Belts. Also teaches the equivalent Dremora outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140446
-  ]
-}
+{"internalId":3722953869,"name":"Crafting Motif 63: Dremora Belts","description":"Use to learn how to make Dremora Belts. Also teaches the equivalent Dremora outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140446]}

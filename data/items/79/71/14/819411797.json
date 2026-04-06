@@ -1,10 +1,1 @@
-{
-  "internalId": 819411797,
-  "name": "Hatching's Keepsake Torc",
-  "description": "Bestowed by the Keeper of the Shell after you uncovered a Dominion poultice that destroys Hist trees.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    7485
-  ]
-}
+{"internalId":819411797,"name":"Hatching's Keepsake Torc","description":"Bestowed by the Keeper of the Shell after you uncovered a Dominion poultice that destroys Hist trees.","icon":"data/images/a_/kc/en/gear_argonian_neck_a.png","bindType":2,"knownIds":[7485]}

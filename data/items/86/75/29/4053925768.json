@@ -1,10 +1,1 @@
-{
-  "internalId": 4053925768,
-  "name": "Conch Shell Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gildedconch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1241008
-  ]
-}
+{"internalId":4053925768,"name":"Conch Shell Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gildedconch_001.png","bindType":-1,"knownIds":[1241008]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2547724372,
-  "name": "Ayleid Survivals in Valenwood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199253
-  ]
-}
+{"internalId":2547724372,"name":"Ayleid Survivals in Valenwood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png","bindType":-1,"knownIds":[1199253]}

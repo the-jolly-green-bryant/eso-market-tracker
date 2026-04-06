@@ -1,10 +1,1 @@
-{
-  "internalId": 3577640130,
-  "name": "Pattern: Alinor Curtains, Tall Drawn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    139634
-  ]
-}
+{"internalId":3577640130,"name":"Pattern: Alinor Curtains, Tall Drawn","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[139634]}

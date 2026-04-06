@@ -1,10 +1,1 @@
-{
-  "internalId": 2557961966,
-  "name": "Farstrider Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211900
-  ]
-}
+{"internalId":2557961966,"name":"Farstrider Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_2hhammer_a.png","bindType":2,"knownIds":[211900]}

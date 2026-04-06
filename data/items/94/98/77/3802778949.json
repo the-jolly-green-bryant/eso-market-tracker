@@ -1,10 +1,1 @@
-{
-  "internalId": 3802778949,
-  "name": "Bow of the Veiled Heritance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94403
-  ]
-}
+{"internalId":3802778949,"name":"Bow of the Veiled Heritance","description":"","icon":"data/images/d_/wo/b_/gear_altmer_bow_d.png","bindType":2,"knownIds":[94403]}

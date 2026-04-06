@@ -1,10 +1,1 @@
-{
-  "internalId": 900307500,
-  "name": "Praxis: Alinor Potted Plant, Double Tiered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    139630
-  ]
-}
+{"internalId":900307500,"name":"Praxis: Alinor Potted Plant, Double Tiered","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[139630]}

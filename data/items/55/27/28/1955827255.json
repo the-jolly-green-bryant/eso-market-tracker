@@ -1,10 +1,1 @@
-{
-  "internalId": 1955827255,
-  "name": "Vanguard's Challenge Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123324
-  ]
-}
+{"internalId":1955827255,"name":"Vanguard's Challenge Helm","description":"","icon":"data/images/a_/da/eh/gear_ordinator_heavy_head_a.png","bindType":2,"knownIds":[123324]}

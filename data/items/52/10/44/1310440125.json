@@ -1,10 +1,1 @@
-{
-  "internalId": 1310440125,
-  "name": "Camlorn Mint Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_001.png",
-  "bindType": -1,
-  "knownIds": [
-    61063
-  ]
-}
+{"internalId":1310440125,"name":"Camlorn Mint Tea","description":"","icon":"data/images/10/0_/ae/crafting_tea_001.png","bindType":-1,"knownIds":[61063]}

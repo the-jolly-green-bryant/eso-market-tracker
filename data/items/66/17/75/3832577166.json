@@ -1,13 +1,1 @@
-{
-  "internalId": 3832577166,
-  "name": "Icy Conjurer's Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1623298,
-    1632549,
-    1623298,
-    1632549
-  ]
-}
+{"internalId":3832577166,"name":"Icy Conjurer's Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_waist_a.png","bindType":-1,"knownIds":[1623298,1632549,1623298,1632549]}

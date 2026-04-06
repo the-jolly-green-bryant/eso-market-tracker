@@ -1,10 +1,1 @@
-{
-  "internalId": 2873420789,
-  "name": "Sabatons of Draugr Heritage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101853
-  ]
-}
+{"internalId":2873420789,"name":"Sabatons of Draugr Heritage","description":"","icon":"data/images/a_/te/ef/gear_draugr_heavy_feet_a.png","bindType":2,"knownIds":[101853]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2488895373,
-  "name": "Volcanic Glass Vase",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vase_001.png",
-  "bindType": -1,
-  "knownIds": [
-    786742
-  ]
-}
+{"internalId":2488895373,"name":"Volcanic Glass Vase","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vase_001.png","bindType":-1,"knownIds":[786742]}

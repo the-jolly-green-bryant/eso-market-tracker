@@ -1,10 +1,1 @@
-{
-  "internalId": 2588021679,
-  "name": "Dreamweaver Wisp Mobile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    908037
-  ]
-}
+{"internalId":2588021679,"name":"Dreamweaver Wisp Mobile","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[908037]}

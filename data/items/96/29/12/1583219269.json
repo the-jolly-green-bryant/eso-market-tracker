@@ -1,13 +1,1 @@
-{
-  "internalId": 1583219269,
-  "name": "Nobility in Decay Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720853,
-    1721583,
-    1720853,
-    1721583
-  ]
-}
+{"internalId":1583219269,"name":"Nobility in Decay Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png","bindType":-1,"knownIds":[1720853,1721583,1720853,1721583]}

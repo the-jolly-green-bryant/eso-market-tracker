@@ -1,10 +1,1 @@
-{
-  "internalId": 542933237,
-  "name": "Non-Sitck Pot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pot_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1180032
-  ]
-}
+{"internalId":542933237,"name":"Non-Sitck Pot","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pot_001.png","bindType":-1,"knownIds":[1180032]}

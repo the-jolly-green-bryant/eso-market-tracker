@@ -1,10 +1,1 @@
-{
-  "internalId": 1434858233,
-  "name": "Azura's Hand-Napkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150982
-  ]
-}
+{"internalId":1434858233,"name":"Azura's Hand-Napkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[1150982]}

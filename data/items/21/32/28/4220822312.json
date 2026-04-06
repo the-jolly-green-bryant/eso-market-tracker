@@ -1,10 +1,1 @@
-{
-  "internalId": 4220822312,
-  "name": "Gourmand's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190525
-  ]
-}
+{"internalId":4220822312,"name":"Gourmand's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_staff_a.png","bindType":2,"knownIds":[190525]}

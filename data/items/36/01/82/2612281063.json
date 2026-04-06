@@ -1,10 +1,1 @@
-{
-  "internalId": 2612281063,
-  "name": "Senche-Raht Page-Turner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1324930
-  ]
-}
+{"internalId":2612281063,"name":"Senche-Raht Page-Turner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png","bindType":-1,"knownIds":[1324930]}

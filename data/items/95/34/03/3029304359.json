@@ -1,10 +1,1 @@
-{
-  "internalId": 3029304359,
-  "name": "Tree, Lowland White Pine",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_whitepine008.png",
-  "bindType": -1,
-  "knownIds": [
-    167289
-  ]
-}
+{"internalId":3029304359,"name":"Tree, Lowland White Pine","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_whitepine008.png","bindType":-1,"knownIds":[167289]}

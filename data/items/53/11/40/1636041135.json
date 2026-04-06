@@ -1,10 +1,1 @@
-{
-  "internalId": 1636041135,
-  "name": "Magnus' Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56331
-  ]
-}
+{"internalId":1636041135,"name":"Magnus' Girdle","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[56331]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1954557945,
-  "name": "Necromancer's Spire, Huge",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_fngnecrostone001.png",
-  "bindType": -1,
-  "knownIds": [
-    134841
-  ]
-}
+{"internalId":1954557945,"name":"Necromancer's Spire, Huge","description":"This is a huge house item.","icon":"data/images/10/0e/no/housing_uni_duc_fngnecrostone001.png","bindType":-1,"knownIds":[134841]}

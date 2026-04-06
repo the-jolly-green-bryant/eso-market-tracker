@@ -1,10 +1,1 @@
-{
-  "internalId": 1859444665,
-  "name": "Cuirass of the Veiled Heritance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94409
-  ]
-}
+{"internalId":1859444665,"name":"Cuirass of the Veiled Heritance","description":"","icon":"data/images/d_/ts/eh/gear_altmer_heavy_chest_d.png","bindType":2,"knownIds":[94409]}

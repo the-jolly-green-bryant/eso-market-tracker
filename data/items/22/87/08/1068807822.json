@@ -1,10 +1,1 @@
-{
-  "internalId": 1068807822,
-  "name": "Diagram: Solitude Serving Bowl, Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    166909
-  ]
-}
+{"internalId":1068807822,"name":"Diagram: Solitude Serving Bowl, Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[166909]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 237370413,
-  "name": "Crafting Motif 82: Icereach Coven Helmets",
-  "description": "Use to learn how to make Icereach Coven Helmets. Also teaches the equivalent Icereach Coven outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    157525
-  ]
-}
+{"internalId":237370413,"name":"Crafting Motif 82: Icereach Coven Helmets","description":"Use to learn how to make Icereach Coven Helmets. Also teaches the equivalent Icereach Coven outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[157525]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2022663925,
-  "name": "Solitude Game, Blood-On-The-Snow",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_game001.png",
-  "bindType": -1,
-  "knownIds": [
-    167338
-  ]
-}
+{"internalId":2022663925,"name":"Solitude Game, Blood-On-The-Snow","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_game001.png","bindType":-1,"knownIds":[167338]}

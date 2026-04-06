@@ -1,10 +1,1 @@
-{
-  "internalId": 171916698,
-  "name": "Soulcleaver Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1716308
-  ]
-}
+{"internalId":171916698,"name":"Soulcleaver Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1716308]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1147669761,
-  "name": "Jerkin of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172115
-  ]
-}
+{"internalId":1147669761,"name":"Jerkin of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_chest_a.png","bindType":2,"knownIds":[172115]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1670951637,
-  "name": "Soulcleaver Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1691049,
-    1692795,
-    1693139,
-    1691049,
-    1692795,
-    1693139
-  ]
-}
+{"internalId":1670951637,"name":"Soulcleaver Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_legs_a.png","bindType":-1,"knownIds":[1691049,1692795,1693139,1691049,1692795,1693139]}

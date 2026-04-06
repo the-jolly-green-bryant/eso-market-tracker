@@ -1,13 +1,1 @@
-{
-  "internalId": 3431207809,
-  "name": "Pyrebrand Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731377,
-    1758018,
-    1731377,
-    1758018
-  ]
-}
+{"internalId":3431207809,"name":"Pyrebrand Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png","bindType":-1,"knownIds":[1731377,1758018,1731377,1758018]}

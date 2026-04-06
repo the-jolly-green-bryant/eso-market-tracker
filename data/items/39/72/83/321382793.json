@@ -1,10 +1,1 @@
-{
-  "internalId": 321382793,
-  "name": "Druidic Bridge, Living",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sys_livingbridgesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    193813
-  ]
-}
+{"internalId":321382793,"name":"Druidic Bridge, Living","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sys_livingbridgesmall001.png","bindType":-1,"knownIds":[193813]}

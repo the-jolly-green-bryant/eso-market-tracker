@@ -1,10 +1,1 @@
-{
-  "internalId": 2743312361,
-  "name": "Elsweyr Sugar Pipe, Gilded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_hookah002.png",
-  "bindType": -1,
-  "knownIds": [
-    151657
-  ]
-}
+{"internalId":2743312361,"name":"Elsweyr Sugar Pipe, Gilded","description":"This is a standard house item.","icon":"data/images/20/0h/ak/housing_els_inc_hookah002.png","bindType":-1,"knownIds":[151657]}

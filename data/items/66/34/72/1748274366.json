@@ -1,10 +1,1 @@
-{
-  "internalId": 1748274366,
-  "name": "Tin of Snow Bear Musk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385384
-  ]
-}
+{"internalId":1748274366,"name":"Tin of Snow Bear Musk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1385384]}

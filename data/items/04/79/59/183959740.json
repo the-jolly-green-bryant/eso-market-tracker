@@ -1,10 +1,1 @@
-{
-  "internalId": 183959740,
-  "name": "Telvanni Chandelier, Fungal",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_housinghangingceilingcandelabra001.png",
-  "bindType": -1,
-  "knownIds": [
-    197532
-  ]
-}
+{"internalId":183959740,"name":"Telvanni Chandelier, Fungal","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_housinghangingceilingcandelabra001.png","bindType":-1,"knownIds":[197532]}

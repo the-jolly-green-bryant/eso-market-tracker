@@ -1,10 +1,1 @@
-{
-  "internalId": 3593868576,
-  "name": "Kazpian's Perfected Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1771215
-  ]
-}
+{"internalId":3593868576,"name":"Kazpian's Perfected Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1771215]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2953463174,
-  "name": "Stitched Shirt and Vest",
-  "description": "This simple linen workshirt has an attached vest.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63680
-  ]
-}
+{"internalId":2953463174,"name":"Stitched Shirt and Vest","description":"This simple linen workshirt has an attached vest.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63680]}

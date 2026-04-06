@@ -1,10 +1,1 @@
-{
-  "internalId": 4276799755,
-  "name": "Gauntlets of Bahraha's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199778
-  ]
-}
+{"internalId":4276799755,"name":"Gauntlets of Bahraha's Curse","description":"","icon":"data/images/a_/sd/na/gear_thievesguildv2_heavy_hands_a.png","bindType":2,"knownIds":[72887]}

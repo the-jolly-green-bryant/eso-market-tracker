@@ -1,10 +1,1 @@
-{
-  "internalId": 2479253086,
-  "name": "Solitude Armchair, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_chairlargefancy002.png",
-  "bindType": -1,
-  "knownIds": [
-    165654
-  ]
-}
+{"internalId":2479253086,"name":"Solitude Armchair, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_chairlargefancy002.png","bindType":-1,"knownIds":[165654]}

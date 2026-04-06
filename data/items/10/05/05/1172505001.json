@@ -1,10 +1,1 @@
-{
-  "internalId": 1172505001,
-  "name": "Pulverized Slaughterstone",
-  "description": "Ten of these items can be refined into a Slaughterstone, which is used to make Jewelry with the Bloodthirsty Trait.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_undead_blood_salts.png",
-  "bindType": -1,
-  "knownIds": [
-    139420
-  ]
-}
+{"internalId":1172505001,"name":"Pulverized Slaughterstone","description":"Ten of these items can be refined into a Slaughterstone, which is used to make Jewelry with the Bloodthirsty Trait.","icon":"data/images/st/la/s_/crafting_undead_blood_salts.png","bindType":-1,"knownIds":[139420]}

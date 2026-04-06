@@ -1,10 +1,1 @@
-{
-  "internalId": 4093948708,
-  "name": "Eye of the Grasp Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180092
-  ]
-}
+{"internalId":4093948708,"name":"Eye of the Grasp Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_shoulders_a.png","bindType":2,"knownIds":[180092]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3738392799,
-  "name": "Witches Totem, Bone Charms",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_dreamcatcher001.png",
-  "bindType": -1,
-  "knownIds": [
-    130332
-  ]
-}
+{"internalId":3738392799,"name":"Witches Totem, Bone Charms","description":"This is a small house item.","icon":"data/images/10/0r/eh/housing_uni_exc_dreamcatcher001.png","bindType":-1,"knownIds":[130332]}

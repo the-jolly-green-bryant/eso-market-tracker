@@ -1,10 +1,1 @@
-{
-  "internalId": 3479424846,
-  "name": "Briarheart Collar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    71304
-  ]
-}
+{"internalId":3479424846,"name":"Briarheart Collar","description":"","icon":"data/images/a_/kc/en/gear_reach_neck_a.png","bindType":2,"knownIds":[71304]}

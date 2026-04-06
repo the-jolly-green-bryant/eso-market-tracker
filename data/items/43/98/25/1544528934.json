@@ -1,10 +1,1 @@
-{
-  "internalId": 1544528934,
-  "name": "Seventh Legion's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100923
-  ]
-}
+{"internalId":1544528934,"name":"Seventh Legion's Shield","description":"","icon":"data/images/d_/dl/ei/gear_orc_shield_d.png","bindType":2,"knownIds":[100923]}

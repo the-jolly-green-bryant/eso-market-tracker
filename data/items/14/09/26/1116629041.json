@@ -1,10 +1,1 @@
-{
-  "internalId": 1116629041,
-  "name": "Recipe: The Skald-King's Patty Melt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56998
-  ]
-}
+{"internalId":1116629041,"name":"Recipe: The Skald-King's Patty Melt","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56998]}

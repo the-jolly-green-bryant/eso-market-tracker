@@ -1,10 +1,1 @@
-{
-  "internalId": 2148596398,
-  "name": "Senchal Defender's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155006
-  ]
-}
+{"internalId":2148596398,"name":"Senchal Defender's Inferno Staff","description":"","icon":"data/images/a_/ff/at/gear_shieldsenchal_staff_a.png","bindType":2,"knownIds":[155006]}

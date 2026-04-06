@@ -1,10 +1,1 @@
-{
-  "internalId": 1741772879,
-  "name": "Jewelry Crafting Survey: Wrothgar II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1242286
-  ]
-}
+{"internalId":1741772879,"name":"Jewelry Crafting Survey: Wrothgar II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1242286]}

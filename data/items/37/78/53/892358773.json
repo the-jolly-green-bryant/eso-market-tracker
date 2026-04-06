@@ -1,10 +1,1 @@
-{
-  "internalId": 892358773,
-  "name": "Stoneware Serving Tray",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    891531
-  ]
-}
+{"internalId":892358773,"name":"Stoneware Serving Tray","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[891531]}

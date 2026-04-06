@@ -1,10 +1,1 @@
-{
-  "internalId": 4206980856,
-  "name": "Reach Standard, Weathered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_reachbanners002.png",
-  "bindType": -1,
-  "knownIds": [
-    181541
-  ]
-}
+{"internalId":4206980856,"name":"Reach Standard, Weathered","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_reachbanners002.png","bindType":-1,"knownIds":[181541]}

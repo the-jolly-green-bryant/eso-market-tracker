@@ -1,10 +1,1 @@
-{
-  "internalId": 3962870795,
-  "name": "Dwarven Amphora, Ornate Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_marklargevase005.png",
-  "bindType": -1,
-  "knownIds": [
-    171355
-  ]
-}
+{"internalId":3962870795,"name":"Dwarven Amphora, Ornate Polished","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_marklargevase005.png","bindType":-1,"knownIds":[171355]}

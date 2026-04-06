@@ -1,10 +1,1 @@
-{
-  "internalId": 541722037,
-  "name": "cusk eel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png",
-  "bindType": -1,
-  "knownIds": [
-    380859
-  ]
-}
+{"internalId":541722037,"name":"cusk eel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png","bindType":-1,"knownIds":[380859]}

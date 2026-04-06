@@ -1,17 +1,1 @@
-{
-  "internalId": 716492410,
-  "name": "Siroria's Perfected Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_light_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1341631,
-    1394938,
-    1464767,
-    1643787,
-    1341631,
-    1394938,
-    1464767,
-    1643787
-  ]
-}
+{"internalId":716492410,"name":"Siroria's Perfected Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_light_head_a.png","bindType":-1,"knownIds":[1341631,1394938,1464767,1643787,1341631,1394938,1464767,1643787]}

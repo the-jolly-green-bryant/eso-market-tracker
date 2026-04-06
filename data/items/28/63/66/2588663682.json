@@ -1,10 +1,1 @@
-{
-  "internalId": 2588663682,
-  "name": "Vampiric Runner, Grand",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug002.png",
-  "bindType": -1,
-  "knownIds": [
-    165580
-  ]
-}
+{"internalId":2588663682,"name":"Vampiric Runner, Grand","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug002.png","bindType":-1,"knownIds":[165580]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3902808090,
-  "name": "Vampiric Chair, Fanged",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirelabchair001.png",
-  "bindType": -1,
-  "knownIds": [
-    165593
-  ]
-}
+{"internalId":3902808090,"name":"Vampiric Chair, Fanged","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirelabchair001.png","bindType":-1,"knownIds":[165593]}

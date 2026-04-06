@@ -1,10 +1,1 @@
-{
-  "internalId": 2122840189,
-  "name": "Formula: Fabricant Tree, Gnarled Cypress",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png",
-  "bindType": -1,
-  "knownIds": [
-    134476
-  ]
-}
+{"internalId":2122840189,"name":"Formula: Fabricant Tree, Gnarled Cypress","description":"","icon":"data/images/2y/me/hc/crafting_planfurniture_alchemy2.png","bindType":-1,"knownIds":[134476]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1490300787,
-  "name": "Sun-Dried Caravan Provisions",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_vegetables.png",
-  "bindType": -1,
-  "knownIds": [
-    33916
-  ]
-}
+{"internalId":1490300787,"name":"Sun-Dried Caravan Provisions","description":"","icon":"data/images/se/lb/at/crafting_cooking_grilled_vegetables.png","bindType":-1,"knownIds":[33916]}

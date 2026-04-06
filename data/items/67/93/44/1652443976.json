@@ -1,10 +1,1 @@
-{
-  "internalId": 1652443976,
-  "name": "Scavenged Support, Straight",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_cmp_shantypole002.png",
-  "bindType": -1,
-  "knownIds": [
-    134302
-  ]
-}
+{"internalId":1652443976,"name":"Scavenged Support, Straight","description":"This is a standard house item.","icon":"data/images/20/0e/lo/housing_cwc_cmp_shantypole002.png","bindType":-1,"knownIds":[134302]}

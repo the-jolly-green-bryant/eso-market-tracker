@@ -1,13 +1,1 @@
-{
-  "internalId": 733371793,
-  "name": "average glyph of disease resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png",
-  "bindType": -1,
-  "knownIds": [
-    789420,
-    1437459,
-    789420,
-    1437459
-  ]
-}
+{"internalId":733371793,"name":"average glyph of disease resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png","bindType":-1,"knownIds":[789420,1437459,789420,1437459]}

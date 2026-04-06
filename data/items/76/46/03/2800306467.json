@@ -1,10 +1,1 @@
-{
-  "internalId": 2800306467,
-  "name": "Ayleid Wardrobe, Ornate Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_fur_dresser001.png",
-  "bindType": -1,
-  "knownIds": [
-    211364
-  ]
-}
+{"internalId":2800306467,"name":"Ayleid Wardrobe, Ornate Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_fur_dresser001.png","bindType":-1,"knownIds":[211364]}

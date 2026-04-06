@@ -1,10 +1,1 @@
-{
-  "internalId": 2891057828,
-  "name": "Maul of the Hollow Hunt",
-  "description": "Once meant to fell beasts in the wild, this maul now bears a heavier stain. The hunter offered it without protest, perhaps because it was never truly his to begin with.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    223687
-  ]
-}
+{"internalId":2891057828,"name":"Maul of the Hollow Hunt","description":"Once meant to fell beasts in the wild, this maul now bears a heavier stain. The hunter offered it without protest, perhaps because it was never truly his to begin with.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[223687]}

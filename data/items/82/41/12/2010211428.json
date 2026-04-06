@@ -1,10 +1,1 @@
-{
-  "internalId": 2010211428,
-  "name": "Khajiit Footlocker, Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_chests002.png",
-  "bindType": -1,
-  "knownIds": [
-    115685
-  ]
-}
+{"internalId":2010211428,"name":"Khajiit Footlocker, Arched","description":"This is a standard house item.","icon":"data/images/20/0s/ts/housing_kha_fur_chests002.png","bindType":-1,"knownIds":[115685]}

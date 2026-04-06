@@ -1,10 +1,1 @@
-{
-  "internalId": 2854565494,
-  "name": "Bow of the Vampire's Cloak",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98658
-  ]
-}
+{"internalId":2854565494,"name":"Bow of the Vampire's Cloak","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[98658]}

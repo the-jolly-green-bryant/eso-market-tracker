@@ -1,10 +1,1 @@
-{
-  "internalId": 2881569172,
-  "name": "Iron Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackironhvy_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212341
-  ]
-}
+{"internalId":2881569172,"name":"Iron Pauldron","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150810]}

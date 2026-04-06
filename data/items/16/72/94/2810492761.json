@@ -1,10 +1,1 @@
-{
-  "internalId": 2810492761,
-  "name": "Foul Hide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_pelt_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54381
-  ]
-}
+{"internalId":2810492761,"name":"Foul Hide","description":"","icon":"data/images/10/0_/tl/quest_monster_pelt_001.png","bindType":-1,"knownIds":[54381]}

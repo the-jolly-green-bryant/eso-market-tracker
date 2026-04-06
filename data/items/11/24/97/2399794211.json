@@ -1,10 +1,1 @@
-{
-  "internalId": 2399794211,
-  "name": "Khajiit Skull, Complete",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_houseskullkhajit001.png",
-  "bindType": -1,
-  "knownIds": [
-    134868
-  ]
-}
+{"internalId":2399794211,"name":"Khajiit Skull, Complete","description":"This is a small house item.","icon":"data/images/10/0t/ij/housing_gen_exc_houseskullkhajit001.png","bindType":-1,"knownIds":[134868]}

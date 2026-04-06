@@ -1,17 +1,1 @@
-{
-  "internalId": 161470589,
-  "name": "Mora Scribe's Perfected Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1743015,
-    1773896,
-    1743015,
-    1773896,
-    1743015,
-    1773896,
-    1743015,
-    1773896
-  ]
-}
+{"internalId":161470589,"name":"Mora Scribe's Perfected Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png","bindType":-1,"knownIds":[1743015,1773896,1743015,1773896,1743015,1773896,1743015,1773896]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2951768229,
-  "name": "Vial of Rotten Fangs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1315897
-  ]
-}
+{"internalId":2951768229,"name":"Vial of Rotten Fangs","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[1315897]}

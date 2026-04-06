@@ -1,10 +1,1 @@
-{
-  "internalId": 3031543241,
-  "name": "Three Queens Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214691
-  ]
-}
+{"internalId":3031543241,"name":"Three Queens Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_waist_a.png","bindType":2,"knownIds":[214691]}

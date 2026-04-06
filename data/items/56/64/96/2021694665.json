@@ -1,15 +1,1 @@
-{
-  "internalId": 2021694665,
-  "name": "Bear-Hide Moccasins",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_light_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    630499,
-    501270,
-    789397,
-    630499,
-    501270,
-    789397
-  ]
-}
+{"internalId":2021694665,"name":"Bear-Hide Moccasins","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_light_feet_d.png","bindType":-1,"knownIds":[630499,501270,789397,630499,501270,789397]}

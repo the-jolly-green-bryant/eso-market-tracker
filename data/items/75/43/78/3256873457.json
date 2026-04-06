@@ -1,10 +1,1 @@
-{
-  "internalId": 3256873457,
-  "name": "Diagram: Vampiric Trunk, Ornate Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    166755
-  ]
-}
+{"internalId":3256873457,"name":"Diagram: Vampiric Trunk, Ornate Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[166755]}

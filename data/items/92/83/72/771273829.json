@@ -1,10 +1,1 @@
-{
-  "internalId": 771273829,
-  "name": "Heirloom Inferno Staff",
-  "description": "Found in your strongbox from home. Hardly in the best shape given its age, but if you need to singe someone, it will serve.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    152240
-  ]
-}
+{"internalId":771273829,"name":"Heirloom Inferno Staff","description":"Found in your strongbox from home. Hardly in the best shape given its age, but if you need to singe someone, it will serve.","icon":"data/images/d_/ff/at/gear_dunmer_staff_d.png","bindType":2,"knownIds":[152240]}

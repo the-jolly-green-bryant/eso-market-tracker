@@ -1,10 +1,1 @@
-{
-  "internalId": 3795492750,
-  "name": "Exemplary Nirnhoned Maul",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Maul.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81606
-  ]
-}
+{"internalId":3795492750,"name":"Exemplary Nirnhoned Maul","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Maul.","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":-1,"knownIds":[81606]}

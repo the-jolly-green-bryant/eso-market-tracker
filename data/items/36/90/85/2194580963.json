@@ -1,10 +1,1 @@
-{
-  "internalId": 2194580963,
-  "name": "Pattern: Khajiit Drapes, Tattered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    116086
-  ]
-}
+{"internalId":2194580963,"name":"Pattern: Khajiit Drapes, Tattered","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[116086]}

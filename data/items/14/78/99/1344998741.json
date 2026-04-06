@@ -1,10 +1,1 @@
-{
-  "internalId": 1344998741,
-  "name": "Grips of the Impostor",
-  "description": "The Shadow of Sotha Sil slipped through your fingers. It won't next time.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_medium_hand_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133228
-  ]
-}
+{"internalId":1344998741,"name":"Grips of the Impostor","description":"The Shadow of Sotha Sil slipped through your fingers. It won't next time.","icon":"data/images/a_/dn/ah/gear_nocturnal_medium_hand_a.png","bindType":2,"knownIds":[133228]}

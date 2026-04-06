@@ -1,10 +1,1 @@
-{
-  "internalId": 115441979,
-  "name": "Dock Winch",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_ship001_wheel001.png",
-  "bindType": -1,
-  "knownIds": [
-    120847
-  ]
-}
+{"internalId":115441979,"name":"Dock Winch","description":"This is a standard house item.","icon":"data/images/10/0l/ee/housing_bre_csb_ship001_wheel001.png","bindType":-1,"knownIds":[120847]}

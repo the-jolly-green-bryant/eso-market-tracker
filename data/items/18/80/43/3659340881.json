@@ -1,10 +1,1 @@
-{
-  "internalId": 3659340881,
-  "name": "Blueprint: Deadlands Table, Long Etched",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    182968
-  ]
-}
+{"internalId":3659340881,"name":"Blueprint: Deadlands Table, Long Etched","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[182968]}

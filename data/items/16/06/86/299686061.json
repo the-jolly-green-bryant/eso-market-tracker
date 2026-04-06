@@ -1,10 +1,1 @@
-{
-  "internalId": 299686061,
-  "name": "New Life Garland Wreath",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_newlifewreath001.png",
-  "bindType": -1,
-  "knownIds": [
-    146055
-  ]
-}
+{"internalId":299686061,"name":"New Life Garland Wreath","description":"This is a small house item.","icon":"data/images/10/0h/ta/housing_uni_inc_newlifewreath001.png","bindType":-1,"knownIds":[146055]}

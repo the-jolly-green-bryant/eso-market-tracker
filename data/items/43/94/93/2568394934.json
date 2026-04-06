@@ -1,10 +1,1 @@
-{
-  "internalId": 2568394934,
-  "name": "Stuffed Scamp Head",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_004.png",
-  "bindType": -1,
-  "knownIds": [
-    1317953
-  ]
-}
+{"internalId":2568394934,"name":"Stuffed Scamp Head","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_004.png","bindType":-1,"knownIds":[1317953]}

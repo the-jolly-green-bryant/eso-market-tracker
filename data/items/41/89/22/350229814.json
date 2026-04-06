@@ -1,10 +1,1 @@
-{
-  "internalId": 350229814,
-  "name": "Logic Fob",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_008.png",
-  "bindType": -1,
-  "knownIds": [
-    860078
-  ]
-}
+{"internalId":350229814,"name":"Logic Fob","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_008.png","bindType":-1,"knownIds":[860078]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 1461301789,
-  "name": "Mace of Permafrost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png",
-  "bindType": -1,
-  "knownIds": [
-    1283671,
-    1339527,
-    1514620,
-    1537293,
-    1283671,
-    1339527,
-    1514620,
-    1537293
-  ]
-}
+{"internalId":1461301789,"name":"Mace of Permafrost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_reach_1hhammer_c.png","bindType":-1,"knownIds":[1283671,1339527,1514620,1537293,1283671,1339527,1514620,1537293]}

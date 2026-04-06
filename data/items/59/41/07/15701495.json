@@ -1,10 +1,1 @@
-{
-  "internalId": 15701495,
-  "name": "Bracers of Critical Riposte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    158681
-  ]
-}
+{"internalId":15701495,"name":"Bracers of Critical Riposte","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png","bindType":2,"knownIds":[158681]}

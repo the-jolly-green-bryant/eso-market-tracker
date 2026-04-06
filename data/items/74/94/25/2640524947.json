@@ -1,10 +1,1 @@
-{
-  "internalId": 2640524947,
-  "name": "Auri-El's Spinning Arrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gildedconch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240297
-  ]
-}
+{"internalId":2640524947,"name":"Auri-El's Spinning Arrow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gildedconch_001.png","bindType":-1,"knownIds":[1240297]}

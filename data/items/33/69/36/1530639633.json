@@ -1,10 +1,1 @@
-{
-  "internalId": 1530639633,
-  "name": "Riven Hourglass, Sword of Titus Valerius",
-  "description": "The blade feels strange in your hand, calling to mind memories of past events from the life of the departed warrior.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    55004
-  ]
-}
+{"internalId":1530639633,"name":"Riven Hourglass, Sword of Titus Valerius","description":"The blade feels strange in your hand, calling to mind memories of past events from the life of the departed warrior.","icon":"data/images/d_/dr/ow/gear_imperial_2hsword_d.png","bindType":2,"knownIds":[55004]}

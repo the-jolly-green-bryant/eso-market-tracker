@@ -1,10 +1,1 @@
-{
-  "internalId": 4083112511,
-  "name": "Lodsilungur",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_salmon.png",
-  "bindType": -1,
-  "knownIds": [
-    1379261
-  ]
-}
+{"internalId":4083112511,"name":"Lodsilungur","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_salmon.png","bindType":-1,"knownIds":[1379261]}

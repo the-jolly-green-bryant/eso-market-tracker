@@ -1,10 +1,1 @@
-{
-  "internalId": 877981577,
-  "name": "Blueprint: Necrom Counter, Corner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    197561
-  ]
-}
+{"internalId":877981577,"name":"Blueprint: Necrom Counter, Corner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[197561]}

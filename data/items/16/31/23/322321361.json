@@ -1,10 +1,1 @@
-{
-  "internalId": 322321361,
-  "name": "Pattern: Apocrypha Doorway, Book Stacks",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    203341
-  ]
-}
+{"internalId":322321361,"name":"Pattern: Apocrypha Doorway, Book Stacks","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[203341]}

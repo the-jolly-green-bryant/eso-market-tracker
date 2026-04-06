@@ -1,10 +1,1 @@
-{
-  "internalId": 2204793042,
-  "name": "Clockwork City Globe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414375
-  ]
-}
+{"internalId":2204793042,"name":"Clockwork City Globe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[1414375]}

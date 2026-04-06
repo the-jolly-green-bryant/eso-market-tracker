@@ -1,10 +1,1 @@
-{
-  "internalId": 1382490374,
-  "name": "Praxis: Clockwork Switch, Sturdy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    134496
-  ]
-}
+{"internalId":1382490374,"name":"Praxis: Clockwork Switch, Sturdy","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[134496]}

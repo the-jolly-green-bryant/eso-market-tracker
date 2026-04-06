@@ -1,10 +1,1 @@
-{
-  "internalId": 1748565968,
-  "name": "Traveler's Tunic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    166032
-  ]
-}
+{"internalId":1748565968,"name":"Traveler's Tunic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[166032]}

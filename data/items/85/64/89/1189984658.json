@@ -1,13 +1,1 @@
-{
-  "internalId": 1189984658,
-  "name": "Pyrebrand Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731381,
-    1761062,
-    1731381,
-    1761062
-  ]
-}
+{"internalId":1189984658,"name":"Pyrebrand Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1731381,1761062,1731381,1761062]}

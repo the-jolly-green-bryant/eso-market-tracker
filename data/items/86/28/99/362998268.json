@@ -1,10 +1,1 @@
-{
-  "internalId": 362998268,
-  "name": "Stuhn's Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161572
-  ]
-}
+{"internalId":362998268,"name":"Stuhn's Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[161572]}

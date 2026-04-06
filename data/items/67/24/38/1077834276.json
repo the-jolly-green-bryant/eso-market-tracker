@@ -1,10 +1,1 @@
-{
-  "internalId": 1077834276,
-  "name": "Pattern: Elsweyr Bed, Senche-Raht",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    159499
-  ]
-}
+{"internalId":1077834276,"name":"Pattern: Elsweyr Bed, Senche-Raht","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[159499]}

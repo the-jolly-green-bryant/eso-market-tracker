@@ -1,10 +1,1 @@
-{
-  "internalId": 1689466078,
-  "name": "Sweetroll Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    450602
-  ]
-}
+{"internalId":1689466078,"name":"Sweetroll Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[450602]}

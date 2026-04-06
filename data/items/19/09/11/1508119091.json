@@ -1,10 +1,1 @@
-{
-  "internalId": 1508119091,
-  "name": "Rock, Basalt Slab",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_duc_debrilargerock002.png",
-  "bindType": -1,
-  "knownIds": [
-    134303
-  ]
-}
+{"internalId":1508119091,"name":"Rock, Basalt Slab","description":"This is a standard house item.","icon":"data/images/20/0k/co/housing_cwc_duc_debrilargerock002.png","bindType":-1,"knownIds":[134303]}

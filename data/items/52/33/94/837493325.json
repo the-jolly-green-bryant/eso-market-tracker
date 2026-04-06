@@ -1,13 +1,1 @@
-{
-  "internalId": 837493325,
-  "name": "orichalc-steel battle axe of flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    439612,
-    635017,
-    439612,
-    635017
-  ]
-}
+{"internalId":837493325,"name":"orichalc-steel battle axe of flame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":-1,"knownIds":[439612,635017,439612,635017]}

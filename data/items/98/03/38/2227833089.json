@@ -1,10 +1,1 @@
-{
-  "internalId": 2227833089,
-  "name": "Tree, Young Poplar",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_whitepoplar004.png",
-  "bindType": -1,
-  "knownIds": [
-    139135
-  ]
-}
+{"internalId":2227833089,"name":"Tree, Young Poplar","description":"This is a large house item.","icon":"data/images/40/0r/al/housing_tre_sum_whitepoplar004.png","bindType":-1,"knownIds":[139135]}

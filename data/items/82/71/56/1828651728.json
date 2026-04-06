@@ -1,10 +1,1 @@
-{
-  "internalId": 1828651728,
-  "name": "Recipe: Planked Abecean Longfin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45710
-  ]
-}
+{"internalId":1828651728,"name":"Recipe: Planked Abecean Longfin","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45710]}

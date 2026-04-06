@@ -1,17 +1,1 @@
-{
-  "internalId": 2487148391,
-  "name": "Blind Path Induction Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731139,
-    1732144,
-    1759950,
-    1772339,
-    1731139,
-    1732144,
-    1759950,
-    1772339
-  ]
-}
+{"internalId":2487148391,"name":"Blind Path Induction Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hhammer_a.png","bindType":-1,"knownIds":[1731139,1732144,1759950,1772339,1731139,1732144,1759950,1772339]}

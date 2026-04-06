@@ -1,10 +1,1 @@
-{
-  "internalId": 4275273973,
-  "name": "Hat of Bahraha's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    114625
-  ]
-}
+{"internalId":4275273973,"name":"Hat of Bahraha's Curse","description":"","icon":"data/images/a_/da/eh/gear_thievesguildv2_light_head_a.png","bindType":2,"knownIds":[114625]}

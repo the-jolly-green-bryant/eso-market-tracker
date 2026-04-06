@@ -1,10 +1,1 @@
-{
-  "internalId": 2940204300,
-  "name": "Deep Winter Charity Writ",
-  "description": "A direct request for provisions from communities in the coldest reaches of Tamriel. Once accepted, this contract cannot be traded or sold. Each Deep Winter Charity Writ completed will provide a Skaal Explorer Style Page, for use or trade.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ-newlife.png",
-  "bindType": -1,
-  "knownIds": [
-    156736
-  ]
-}
+{"internalId":2940204300,"name":"Deep Winter Charity Writ","description":"A direct request for provisions from communities in the coldest reaches of Tamriel. Once accepted, this contract cannot be traded or sold. Each Deep Winter Charity Writ completed will provide a Skaal Explorer Style Page, for use or trade.","icon":"https://esoicons.uesp.net/esoui/art/icons/master_writ-newlife.png","bindType":-1,"knownIds":[156736]}

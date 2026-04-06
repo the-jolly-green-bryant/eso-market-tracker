@@ -1,10 +1,1 @@
-{
-  "internalId": 3974010859,
-  "name": "Crafting Motif 78: Moongrave Fane Chests",
-  "description": "Use to learn how to make Moongrave Fane Chests. Also teaches the equivalent Moongrave Fane outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156595
-  ]
-}
+{"internalId":3974010859,"name":"Crafting Motif 78: Moongrave Fane Chests","description":"Use to learn how to make Moongrave Fane Chests. Also teaches the equivalent Moongrave Fane outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156595]}

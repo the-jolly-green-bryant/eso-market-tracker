@@ -1,10 +1,1 @@
-{
-  "internalId": 1577836221,
-  "name": "Frost-Rib Traction Tools",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385058
-  ]
-}
+{"internalId":1577836221,"name":"Frost-Rib Traction Tools","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1385058]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2383432660,
-  "name": "Praxis: Paper Making Frame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    198516
-  ]
-}
+{"internalId":2383432660,"name":"Praxis: Paper Making Frame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[198516]}

@@ -1,18 +1,1 @@
-{
-  "internalId": 4148928380,
-  "name": "Ophidian Spaulders of Celerity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_medium_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    822718,
-    885218,
-    932306,
-    822718,
-    885218,
-    932306,
-    822718,
-    885218,
-    932306
-  ]
-}
+{"internalId":4148928380,"name":"Ophidian Spaulders of Celerity","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_medium_shoulders_a.png","bindType":-1,"knownIds":[822718,885218,932306,822718,885218,932306,822718,885218,932306]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 3575061805,
-  "name": "Blind Path Induction Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731506,
-    1735349,
-    1743591,
-    1779217
-  ]
-}
+{"internalId":3575061805,"name":"Blind Path Induction Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png","bindType":-1,"knownIds":[1731506,1735349,1743591,1779217]}

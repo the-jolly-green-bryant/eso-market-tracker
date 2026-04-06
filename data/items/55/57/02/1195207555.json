@@ -1,10 +1,1 @@
-{
-  "internalId": 1195207555,
-  "name": "Praxis: Dawnwood Table, Sprouted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    207849
-  ]
-}
+{"internalId":1195207555,"name":"Praxis: Dawnwood Table, Sprouted","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[207849]}

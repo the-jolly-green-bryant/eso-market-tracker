@@ -1,10 +1,1 @@
-{
-  "internalId": 829822283,
-  "name": "Recipe: Steamed Radishes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45890
-  ]
-}
+{"internalId":829822283,"name":"Recipe: Steamed Radishes","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45890]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 855660898,
-  "name": "River Troll Marionette",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    896887
-  ]
-}
+{"internalId":855660898,"name":"River Troll Marionette","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[896887]}

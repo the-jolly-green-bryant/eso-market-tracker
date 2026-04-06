@@ -1,10 +1,1 @@
-{
-  "internalId": 557902944,
-  "name": "Great Chapel of Julianos Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_woodframepainting03.png",
-  "bindType": -1,
-  "knownIds": [
-    204801
-  ]
-}
+{"internalId":557902944,"name":"Great Chapel of Julianos Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_woodframepainting03.png","bindType":-1,"knownIds":[204801]}

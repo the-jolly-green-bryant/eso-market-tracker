@@ -1,10 +1,1 @@
-{
-  "internalId": 2413609689,
-  "name": "Crafting Motif 108: Fargrave Guardian Daggers",
-  "description": "Use to learn how to make Fargrave Guardian Daggers. Also teaches the equivalent Fargrave Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    178712
-  ]
-}
+{"internalId":2413609689,"name":"Crafting Motif 108: Fargrave Guardian Daggers","description":"Use to learn how to make Fargrave Guardian Daggers. Also teaches the equivalent Fargrave Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[178712]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 278526415,
-  "name": "Pork and Bitter Melon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_pork.png",
-  "bindType": -1,
-  "knownIds": [
-    33505
-  ]
-}
+{"internalId":278526415,"name":"Pork and Bitter Melon","description":"","icon":"data/images/kr/op/_g/crafting_pork.png","bindType":-1,"knownIds":[33505]}

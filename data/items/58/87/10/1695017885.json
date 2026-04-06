@@ -1,10 +1,1 @@
-{
-  "internalId": 1695017885,
-  "name": "Fine Leather Tooth-Purse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795895
-  ]
-}
+{"internalId":1695017885,"name":"Fine Leather Tooth-Purse","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[795895]}

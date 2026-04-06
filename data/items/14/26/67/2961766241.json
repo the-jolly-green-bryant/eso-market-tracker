@@ -1,10 +1,1 @@
-{
-  "internalId": 2961766241,
-  "name": "Pattern: High Elf Carpet, Rustic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    119002
-  ]
-}
+{"internalId":2961766241,"name":"Pattern: High Elf Carpet, Rustic","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[119002]}

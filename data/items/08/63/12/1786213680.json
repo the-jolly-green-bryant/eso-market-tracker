@@ -1,10 +1,1 @@
-{
-  "internalId": 1786213680,
-  "name": "Mace of Menta Na",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44246
-  ]
-}
+{"internalId":1786213680,"name":"Mace of Menta Na","description":"","icon":"data/images/a_/re/mm/gear_ashlander_2hhammer_a.png","bindType":2,"knownIds":[44246]}

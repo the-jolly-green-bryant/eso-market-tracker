@@ -1,10 +1,1 @@
-{
-  "internalId": 2028943188,
-  "name": "Baandari Pottery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804415
-  ]
-}
+{"internalId":2028943188,"name":"Baandari Pottery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[804415]}

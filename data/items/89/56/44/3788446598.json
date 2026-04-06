@@ -1,10 +1,1 @@
-{
-  "internalId": 3788446598,
-  "name": "Jester's Bag of Baubles",
-  "description": "This box contains an infinite supply of Jester's Festival consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_gift_box.png",
-  "bindType": 3,
-  "knownIds": [
-    175581
-  ]
-}
+{"internalId":3788446598,"name":"Jester's Bag of Baubles","description":"This box contains an infinite supply of Jester's Festival consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_gift_box.png","bindType":3,"knownIds":[175581]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 524154585,
-  "name": "Star-Shell Dagger",
-  "description": "A handsome dagger with a handle made of pearly red star-shell, the price of a slave's freedom.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126047
-  ]
-}
+{"internalId":524154585,"name":"Star-Shell Dagger","description":"A handsome dagger with a handle made of pearly red star-shell, the price of a slave's freedom.","icon":"data/images/a_/re/gg/gear_telvanni_dagger_a.png","bindType":2,"knownIds":[126047]}

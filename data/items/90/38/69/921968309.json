@@ -1,10 +1,1 @@
-{
-  "internalId": 921968309,
-  "name": "Style Page: Baron Zaudrus Mask",
-  "description": "Use to learn the Baron Zaudrus Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    178480
-  ]
-}
+{"internalId":921968309,"name":"Style Page: Baron Zaudrus Mask","description":"Use to learn the Baron Zaudrus Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[178480]}

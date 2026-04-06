@@ -1,10 +1,1 @@
-{
-  "internalId": 986929141,
-  "name": "Highland Sentinel Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206137
-  ]
-}
+{"internalId":986929141,"name":"Highland Sentinel Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[206137]}

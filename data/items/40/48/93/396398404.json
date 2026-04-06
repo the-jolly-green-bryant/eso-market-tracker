@@ -1,10 +1,1 @@
-{
-  "internalId": 396398404,
-  "name": "Velothi Shroud, Wisdom",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_tapestry007.png",
-  "bindType": -1,
-  "knownIds": [
-    126705
-  ]
-}
+{"internalId":396398404,"name":"Velothi Shroud, Wisdom","description":"This is a standard house item.","icon":"data/images/70/0y/rt/housing_vrd_duc_tapestry007.png","bindType":-1,"knownIds":[126705]}

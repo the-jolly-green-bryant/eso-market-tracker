@@ -1,10 +1,1 @@
-{
-  "internalId": 1112092474,
-  "name": "Pattern: Argonian Lanterns, String",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115821
-  ]
-}
+{"internalId":1112092474,"name":"Pattern: Argonian Lanterns, String","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115821]}

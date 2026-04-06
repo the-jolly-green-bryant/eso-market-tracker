@@ -1,10 +1,1 @@
-{
-  "internalId": 4141200474,
-  "name": "Recipe: Markarth Mead",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68213
-  ]
-}
+{"internalId":4141200474,"name":"Recipe: Markarth Mead","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68213]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3634123614,
-  "name": "Knight Slayer Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123686
-  ]
-}
+{"internalId":3634123614,"name":"Knight Slayer Bow","description":"","icon":"data/images/a_/wo/b_/gear_ordinator_bow_a.png","bindType":2,"knownIds":[123686]}

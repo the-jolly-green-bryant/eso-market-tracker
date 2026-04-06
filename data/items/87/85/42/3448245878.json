@@ -1,10 +1,1 @@
-{
-  "internalId": 3448245878,
-  "name": "Senchal Defender's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155002
-  ]
-}
+{"internalId":3448245878,"name":"Senchal Defender's Maul","description":"","icon":"data/images/a_/re/mm/gear_shieldsenchal_2hhammer_a.png","bindType":2,"knownIds":[155002]}

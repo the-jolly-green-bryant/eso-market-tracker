@@ -1,11 +1,1 @@
-{
-  "internalId": 4201048859,
-  "name": "Silver Crab Cracker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804490,
-    804490
-  ]
-}
+{"internalId":4201048859,"name":"Silver Crab Cracker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[804490,804490]}

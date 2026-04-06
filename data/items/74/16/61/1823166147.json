@@ -1,10 +1,1 @@
-{
-  "internalId": 1823166147,
-  "name": "Claw of the Forest Wraith Light Armor",
-  "description": "A Crafted Armor set constructed in Galen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    192363
-  ]
-}
+{"internalId":1823166147,"name":"Claw of the Forest Wraith Light Armor","description":"A Crafted Armor set constructed in Galen.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[192363]}

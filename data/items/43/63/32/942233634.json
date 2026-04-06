@@ -1,10 +1,1 @@
-{
-  "internalId": 942233634,
-  "name": "Aether Staff of Enervation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorngod_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    861145
-  ]
-}
+{"internalId":942233634,"name":"Aether Staff of Enervation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorngod_staff_a.png","bindType":-1,"knownIds":[861145]}

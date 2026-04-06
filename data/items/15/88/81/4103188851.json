@@ -1,10 +1,1 @@
-{
-  "internalId": 4103188851,
-  "name": "Eye of Zthenganaz",
-  "description": "According to legend, the Eye was used to spy upon the Orsimer until it was cursed by a powerful shaman. Donate this to Curator Umutha and the House of Orsimer Glories in Orsinium.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_snake_eyes.png",
-  "bindType": 3,
-  "knownIds": [
-    64592
-  ]
-}
+{"internalId":4103188851,"name":"Eye of Zthenganaz","description":"According to legend, the Eye was used to spy upon the Orsimer until it was cursed by a powerful shaman. Donate this to Curator Umutha and the House of Orsimer Glories in Orsinium.","icon":"data/images/se/ye/_e/crafting_critter_snake_eyes.png","bindType":3,"knownIds":[64592]}

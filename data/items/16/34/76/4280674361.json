@@ -1,12 +1,1 @@
-{
-  "internalId": 4280674361,
-  "name": "Glass Eye of Distinction",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    652639,
-    652639,
-    652639
-  ]
-}
+{"internalId":4280674361,"name":"Glass Eye of Distinction","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[652639,652639,652639]}

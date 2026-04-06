@@ -1,10 +1,1 @@
-{
-  "internalId": 1921773466,
-  "name": "Ancient Nord Monolith, Head",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_skr_carvednordhead001.png",
-  "bindType": -1,
-  "knownIds": [
-    167339
-  ]
-}
+{"internalId":1921773466,"name":"Ancient Nord Monolith, Head","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_skr_carvednordhead001.png","bindType":-1,"knownIds":[167339]}

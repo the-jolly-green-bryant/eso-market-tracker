@@ -1,10 +1,1 @@
-{
-  "internalId": 1381086017,
-  "name": "The Serpent's Egg-Tooth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/treasure_serpents_eggtooth.png",
-  "bindType": -1,
-  "knownIds": [
-    1142344
-  ]
-}
+{"internalId":1381086017,"name":"The Serpent's Egg-Tooth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/treasure_serpents_eggtooth.png","bindType":-1,"knownIds":[1142344]}

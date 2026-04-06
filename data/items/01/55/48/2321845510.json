@@ -1,10 +1,1 @@
-{
-  "internalId": 2321845510,
-  "name": "Style Page: Lady Thorn Shoulder",
-  "description": "Use to learn the Lady Thorn Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    181696
-  ]
-}
+{"internalId":2321845510,"name":"Style Page: Lady Thorn Shoulder","description":"Use to learn the Lady Thorn Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[181696]}

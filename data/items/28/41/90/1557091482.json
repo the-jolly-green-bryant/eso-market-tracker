@@ -1,10 +1,1 @@
-{
-  "internalId": 1557091482,
-  "name": "Proctor's Bronze Fists",
-  "description": "The Clockwork Apostles furnish their proctors with the most finely-crafted armor in the Clockwork City.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133240
-  ]
-}
+{"internalId":1557091482,"name":"Proctor's Bronze Fists","description":"The Clockwork Apostles furnish their proctors with the most finely-crafted armor in the Clockwork City.","icon":"data/images/a_/sd/na/gear_apostle_heavy_hands_a.png","bindType":2,"knownIds":[133240]}

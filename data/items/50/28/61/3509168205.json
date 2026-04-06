@@ -1,14 +1,1 @@
-{
-  "internalId": 3509168205,
-  "name": "Reawakened Hierophant Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1693208,
-    1698911,
-    1715906,
-    1716917,
-    1774226
-  ]
-}
+{"internalId":3509168205,"name":"Reawakened Hierophant Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_waist_a.png","bindType":-1,"knownIds":[1693208,1698911,1715906,1716917,1774226]}

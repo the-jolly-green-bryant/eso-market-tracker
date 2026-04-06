@@ -1,10 +1,1 @@
-{
-  "internalId": 3283757644,
-  "name": "Necrom Urn, Malachite",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necurnslow001.png",
-  "bindType": -1,
-  "knownIds": [
-    197509
-  ]
-}
+{"internalId":3283757644,"name":"Necrom Urn, Malachite","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necurnslow001.png","bindType":-1,"knownIds":[197509]}

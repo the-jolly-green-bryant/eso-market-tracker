@@ -1,10 +1,1 @@
-{
-  "internalId": 715897317,
-  "name": "Blueprint: Tide-Born Totem, Tall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    217581
-  ]
-}
+{"internalId":715897317,"name":"Blueprint: Tide-Born Totem, Tall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[217581]}

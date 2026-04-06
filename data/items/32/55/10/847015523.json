@@ -1,10 +1,1 @@
-{
-  "internalId": 847015523,
-  "name": "High Elf Dresser, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_dresser003.png",
-  "bindType": -1,
-  "knownIds": [
-    116342
-  ]
-}
+{"internalId":847015523,"name":"High Elf Dresser, Sturdy","description":"This is a standard house item.","icon":"data/images/30/0r/es/housing_alt_fur_dresser003.png","bindType":-1,"knownIds":[116342]}

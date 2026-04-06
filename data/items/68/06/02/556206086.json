@@ -1,10 +1,1 @@
-{
-  "internalId": 556206086,
-  "name": "Nobles' Soil-Repelling Dreugh Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403455
-  ]
-}
+{"internalId":556206086,"name":"Nobles' Soil-Repelling Dreugh Wax","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[403455]}

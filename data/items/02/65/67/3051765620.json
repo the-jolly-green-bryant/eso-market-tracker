@@ -1,10 +1,1 @@
-{
-  "internalId": 3051765620,
-  "name": "Fried Green Tomatoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_vendor_fuel_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37937
-  ]
-}
+{"internalId":3051765620,"name":"Fried Green Tomatoes","description":"","icon":"data/images/10/0_/we/crafting_vendor_fuel_stew_001.png","bindType":-1,"knownIds":[37937]}

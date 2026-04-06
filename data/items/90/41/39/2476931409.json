@@ -1,10 +1,1 @@
-{
-  "internalId": 2476931409,
-  "name": "Praxis: Vampiric Lamp, Amber Tall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    166768
-  ]
-}
+{"internalId":2476931409,"name":"Praxis: Vampiric Lamp, Amber Tall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[166768]}

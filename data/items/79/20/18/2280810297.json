@@ -1,10 +1,1 @@
-{
-  "internalId": 2280810297,
-  "name": "Praxis: Elsweyr Foot Bridge, Masonry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    152116
-  ]
-}
+{"internalId":2280810297,"name":"Praxis: Elsweyr Foot Bridge, Masonry","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[152116]}

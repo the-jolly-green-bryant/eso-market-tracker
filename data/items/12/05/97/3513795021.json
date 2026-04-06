@@ -1,10 +1,1 @@
-{
-  "internalId": 3513795021,
-  "name": "Praxis: Dawnwood Bench, Sprouted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    207848
-  ]
-}
+{"internalId":3513795021,"name":"Praxis: Dawnwood Bench, Sprouted","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[207848]}

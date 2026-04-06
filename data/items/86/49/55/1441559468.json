@@ -1,10 +1,1 @@
-{
-  "internalId": 1441559468,
-  "name": "Ysgramor's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101473
-  ]
-}
+{"internalId":1441559468,"name":"Ysgramor's Axe","description":"","icon":"data/images/d_/ex/ah/gear_nord_1haxe_d.png","bindType":2,"knownIds":[101473]}

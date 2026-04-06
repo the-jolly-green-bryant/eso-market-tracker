@@ -1,13 +1,1 @@
-{
-  "internalId": 2039815574,
-  "name": "Dreugh-Hide Leggings",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    398994,
-    706824,
-    398994,
-    706824
-  ]
-}
+{"internalId":2039815574,"name":"Dreugh-Hide Leggings","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_legs_d.png","bindType":-1,"knownIds":[398994,706824,398994,706824]}

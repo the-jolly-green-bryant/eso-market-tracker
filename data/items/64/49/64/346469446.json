@@ -1,10 +1,1 @@
-{
-  "internalId": 346469446,
-  "name": "Crafting Motif 119: Blessed Inheritor Maces",
-  "description": "Use to learn how to make Blessed Inheritor Maces. Also teaches the equivalent Blessed Inheritor Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    190916
-  ]
-}
+{"internalId":346469446,"name":"Crafting Motif 119: Blessed Inheritor Maces","description":"Use to learn how to make Blessed Inheritor Maces. Also teaches the equivalent Blessed Inheritor Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[190916]}

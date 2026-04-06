@@ -1,10 +1,1 @@
-{
-  "internalId": 3281627669,
-  "name": "Auridon Lore",
-  "description": "A mysterious tome containing all of the books in the Auridon Lore collection.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png",
-  "bindType": 3,
-  "knownIds": [
-    199936
-  ]
-}
+{"internalId":3281627669,"name":"Auridon Lore","description":"A mysterious tome containing all of the books in the Auridon Lore collection.","icon":"https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png","bindType":3,"knownIds":[199936]}

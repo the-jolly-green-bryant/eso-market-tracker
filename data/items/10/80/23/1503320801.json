@@ -1,10 +1,1 @@
-{
-  "internalId": 1503320801,
-  "name": "Khenarthi's Roost CE Treasure Map I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    825345
-  ]
-}
+{"internalId":1503320801,"name":"Khenarthi's Roost CE Treasure Map I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[825345]}

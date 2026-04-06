@@ -1,10 +1,1 @@
-{
-  "internalId": 1931932425,
-  "name": "Star Sapphire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_celestial_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    81998
-  ]
-}
+{"internalId":1931932425,"name":"Star Sapphire","description":"","icon":"data/images/2r/_l/ai/crafting_style_item_celestial_r2.png","bindType":-1,"knownIds":[81998]}

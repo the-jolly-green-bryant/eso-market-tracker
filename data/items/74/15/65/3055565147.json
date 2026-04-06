@@ -1,17 +1,1 @@
-{
-  "internalId": 3055565147,
-  "name": "Siroria's Perfected Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_light_robe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1364192,
-    1366328,
-    1616496,
-    1718145,
-    1364192,
-    1366328,
-    1616496,
-    1718145
-  ]
-}
+{"internalId":3055565147,"name":"Siroria's Perfected Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_light_robe_a.png","bindType":-1,"knownIds":[1364192,1366328,1616496,1718145,1364192,1366328,1616496,1718145]}

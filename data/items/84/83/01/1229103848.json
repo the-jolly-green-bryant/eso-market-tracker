@@ -1,10 +1,1 @@
-{
-  "internalId": 1229103848,
-  "name": "Banner, Meridia",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannermeridiasmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    175578
-  ]
-}
+{"internalId":1229103848,"name":"Banner, Meridia","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannermeridiasmall001.png","bindType":-1,"knownIds":[175578]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3970700441,
-  "name": "Veiled Executioner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    794976
-  ]
-}
+{"internalId":3970700441,"name":"Veiled Executioner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png","bindType":-1,"knownIds":[794976]}

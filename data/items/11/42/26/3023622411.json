@@ -1,10 +1,1 @@
-{
-  "internalId": 3023622411,
-  "name": "Solitude Pew, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_benchfancy003.png",
-  "bindType": -1,
-  "knownIds": [
-    165671
-  ]
-}
+{"internalId":3023622411,"name":"Solitude Pew, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_benchfancy003.png","bindType":-1,"knownIds":[165671]}

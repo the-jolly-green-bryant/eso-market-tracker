@@ -1,10 +1,1 @@
-{
-  "internalId": 546965299,
-  "name": "Corrupted Blood",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821720
-  ]
-}
+{"internalId":546965299,"name":"Corrupted Blood","description":"","icon":null,"bindType":-1,"knownIds":[821720]}

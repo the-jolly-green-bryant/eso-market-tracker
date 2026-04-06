@@ -1,10 +1,1 @@
-{
-  "internalId": 2107698699,
-  "name": "Cardiac Arrest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33603
-  ]
-}
+{"internalId":2107698699,"name":"Cardiac Arrest","description":"","icon":"data/images/20/0_/re/crafting_dom_beer_002.png","bindType":-1,"knownIds":[33603]}

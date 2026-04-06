@@ -1,10 +1,1 @@
-{
-  "internalId": 2169253157,
-  "name": "Werewolf Hide Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86167
-  ]
-}
+{"internalId":2169253157,"name":"Werewolf Hide Belt","description":"","icon":"data/images/a_/ts/ia/gear_primative_medium_waist_a.png","bindType":2,"knownIds":[86167]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3256782500,
-  "name": "Argonian Tooth Sharpener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_king_dumacs_royal_latrine_cloth_roll.png",
-  "bindType": -1,
-  "knownIds": [
-    1285131
-  ]
-}
+{"internalId":3256782500,"name":"Argonian Tooth Sharpener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_king_dumacs_royal_latrine_cloth_roll.png","bindType":-1,"knownIds":[1285131]}

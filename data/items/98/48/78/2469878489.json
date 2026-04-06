@@ -1,10 +1,1 @@
-{
-  "internalId": 2469878489,
-  "name": "Ring of Fasalla's Guile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    74018
-  ]
-}
+{"internalId":2469878489,"name":"Ring of Fasalla's Guile","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[74018]}

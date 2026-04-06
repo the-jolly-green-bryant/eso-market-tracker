@@ -1,10 +1,1 @@
-{
-  "internalId": 3325612235,
-  "name": "Crafting Motif 95: Nighthollow Chests",
-  "description": "Use to learn how to make Nighthollow Chests. Also teaches the equivalent Nighthollow Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167948
-  ]
-}
+{"internalId":3325612235,"name":"Crafting Motif 95: Nighthollow Chests","description":"Use to learn how to make Nighthollow Chests. Also teaches the equivalent Nighthollow Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167948]}

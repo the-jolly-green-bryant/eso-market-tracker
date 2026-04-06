@@ -1,10 +1,1 @@
-{
-  "internalId": 742373639,
-  "name": "Sargos' Vestments",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_light_shirt_d.png",
-  "bindType": -1,
-  "knownIds": [
-    792295
-  ]
-}
+{"internalId":742373639,"name":"Sargos' Vestments","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_light_shirt_d.png","bindType":-1,"knownIds":[792295]}

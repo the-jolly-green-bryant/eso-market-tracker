@@ -1,10 +1,1 @@
-{
-  "internalId": 3377975404,
-  "name": "Star Haven Training Sword",
-  "description": "A well-balanced wooden training sword commonly used by the adepts of Star Haven Adeptorium.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_woodenswitch_sword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    152241
-  ]
-}
+{"internalId":3377975404,"name":"Star Haven Training Sword","description":"A well-balanced wooden training sword commonly used by the adepts of Star Haven Adeptorium.","icon":"data/images/a_/dr/ow/gear_woodenswitch_sword_a.png","bindType":2,"knownIds":[152241]}

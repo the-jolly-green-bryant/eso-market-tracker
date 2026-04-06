@@ -1,10 +1,1 @@
-{
-  "internalId": 3301670354,
-  "name": "Worm Cult Bench, Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_lowbench001.png",
-  "bindType": -1,
-  "knownIds": [
-    220311
-  ]
-}
+{"internalId":3301670354,"name":"Worm Cult Bench, Wooden","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_lowbench001.png","bindType":-1,"knownIds":[220311]}

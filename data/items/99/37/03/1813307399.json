@@ -1,10 +1,1 @@
-{
-  "internalId": 1813307399,
-  "name": "Shield of the Order's Wrath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185118
-  ]
-}
+{"internalId":1813307399,"name":"Shield of the Order's Wrath","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":2,"knownIds":[185118]}

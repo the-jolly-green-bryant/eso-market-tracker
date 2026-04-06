@@ -1,10 +1,1 @@
-{
-  "internalId": 3046798655,
-  "name": "Solitude Cauldron, Flat-Bottomed",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_lghangingpot001.png",
-  "bindType": -1,
-  "knownIds": [
-    165776
-  ]
-}
+{"internalId":3046798655,"name":"Solitude Cauldron, Flat-Bottomed","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_lghangingpot001.png","bindType":-1,"knownIds":[165776]}

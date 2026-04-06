@@ -1,10 +1,1 @@
-{
-  "internalId": 2546052212,
-  "name": "Lava Foot Soup-and-Saltrice",
-  "description": "A seasonal meal enjoyed during the New Life Festival. A good serving of this Dark Elf meal keeps the scrib on the surface of the broth.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_dancersfestival_soup.png",
-  "bindType": -1,
-  "knownIds": [
-    112425
-  ]
-}
+{"internalId":2546052212,"name":"Lava Foot Soup-and-Saltrice","description":"A seasonal meal enjoyed during the New Life Festival. A good serving of this Dark Elf meal keeps the scrib on the surface of the broth.","icon":"data/images/pu/os/_l/event_newlifefestival_2016_dancersfestival_soup.png","bindType":-1,"knownIds":[112425]}

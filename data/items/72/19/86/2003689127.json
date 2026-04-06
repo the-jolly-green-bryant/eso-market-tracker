@@ -1,10 +1,1 @@
-{
-  "internalId": 2003689127,
-  "name": "Crown Lesson: Riding Capacity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_ridinglessons_capacity.png",
-  "bindType": -1,
-  "knownIds": [
-    804538
-  ]
-}
+{"internalId":2003689127,"name":"Crown Lesson: Riding Capacity","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/store_ridinglessons_capacity.png","bindType":-1,"knownIds":[804538]}

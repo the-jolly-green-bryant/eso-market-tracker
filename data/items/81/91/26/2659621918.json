@@ -1,15 +1,1 @@
-{
-  "internalId": 2659621918,
-  "name": "Lustrous Soulwell Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_light_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765210,
-    1770605,
-    1777335,
-    1765210,
-    1770605,
-    1777335
-  ]
-}
+{"internalId":2659621918,"name":"Lustrous Soulwell Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_light_legs_a.png","bindType":-1,"knownIds":[1765210,1770605,1777335,1765210,1770605,1777335]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 771338749,
-  "name": "Colovian Divider, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_screenhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    204647
-  ]
-}
+{"internalId":771338749,"name":"Colovian Divider, Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_screenhigh001.png","bindType":-1,"knownIds":[204647]}

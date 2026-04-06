@@ -1,10 +1,1 @@
-{
-  "internalId": 1049006015,
-  "name": "Wart-Away Foot Balm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    898201
-  ]
-}
+{"internalId":1049006015,"name":"Wart-Away Foot Balm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[898201]}

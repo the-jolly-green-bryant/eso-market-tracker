@@ -1,10 +1,1 @@
-{
-  "internalId": 61651992,
-  "name": "Formula: Redguard Hourglass of Desert Sands",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    119270
-  ]
-}
+{"internalId":61651992,"name":"Formula: Redguard Hourglass of Desert Sands","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[119270]}

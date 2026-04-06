@@ -1,10 +1,1 @@
-{
-  "internalId": 3061161386,
-  "name": "Gourmand's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190528
-  ]
-}
+{"internalId":3061161386,"name":"Gourmand's Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_shield_a.png","bindType":2,"knownIds":[190528]}

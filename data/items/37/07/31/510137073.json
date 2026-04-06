@@ -1,10 +1,1 @@
-{
-  "internalId": 510137073,
-  "name": "Tree, Mossy Sycamore",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_mrkuplands006.png",
-  "bindType": -1,
-  "knownIds": [
-    145415
-  ]
-}
+{"internalId":510137073,"name":"Tree, Mossy Sycamore","description":"This is a large house item.","icon":"data/images/60/0s/dn/housing_tre_dec_mrkuplands006.png","bindType":-1,"knownIds":[145415]}

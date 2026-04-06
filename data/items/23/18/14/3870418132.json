@@ -1,10 +1,1 @@
-{
-  "internalId": 3870418132,
-  "name": "Alinor Monument, Marble",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_monumentshort001.png",
-  "bindType": -1,
-  "knownIds": [
-    139351
-  ]
-}
+{"internalId":3870418132,"name":"Alinor Monument, Marble","description":"This is a large house item.","icon":"data/images/10/0t/ro/housing_sum_duc_monumentshort001.png","bindType":-1,"knownIds":[139351]}

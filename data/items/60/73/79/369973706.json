@@ -1,10 +1,1 @@
-{
-  "internalId": 369973706,
-  "name": "Rough Ash",
-  "description": "Ten of these items can be refined to make sanded ash.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_rough_ash.png",
-  "bindType": -1,
-  "knownIds": [
-    4439
-  ]
-}
+{"internalId":369973706,"name":"Rough Ash","description":"Ten of these items can be refined to make sanded ash.","icon":"data/images/hs/a_/hg/crafting_wood_rough_ash.png","bindType":-1,"knownIds":[4439]}

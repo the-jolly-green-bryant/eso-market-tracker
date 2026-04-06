@@ -1,15 +1,1 @@
-{
-  "internalId": 1900903728,
-  "name": "Nanwen's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_sword_002.png",
-  "bindType": -1,
-  "knownIds": [
-    815937,
-    810850,
-    483977,
-    815937,
-    810850,
-    483977
-  ]
-}
+{"internalId":1900903728,"name":"Nanwen's Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_sword_002.png","bindType":-1,"knownIds":[815937,810850,483977,815937,810850,483977]}

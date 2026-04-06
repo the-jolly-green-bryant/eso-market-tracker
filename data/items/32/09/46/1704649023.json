@@ -1,10 +1,1 @@
-{
-  "internalId": 1704649023,
-  "name": "Bedside Fertility Censer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    625401
-  ]
-}
+{"internalId":1704649023,"name":"Bedside Fertility Censer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png","bindType":-1,"knownIds":[625401]}

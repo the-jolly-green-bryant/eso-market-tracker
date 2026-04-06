@@ -1,10 +1,1 @@
-{
-  "internalId": 767735704,
-  "name": "Girdle of the Eyes of Mara",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56751
-  ]
-}
+{"internalId":767735704,"name":"Girdle of the Eyes of Mara","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[56751]}

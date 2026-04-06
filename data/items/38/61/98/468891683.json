@@ -1,10 +1,1 @@
-{
-  "internalId": 468891683,
-  "name": "Daring Corsair's Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155756
-  ]
-}
+{"internalId":468891683,"name":"Daring Corsair's Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[155756]}

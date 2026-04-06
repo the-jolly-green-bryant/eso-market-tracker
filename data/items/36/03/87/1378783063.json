@@ -1,10 +1,1 @@
-{
-  "internalId": 1378783063,
-  "name": "Apocrypha Stele, Wide Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_stonestele003.png",
-  "bindType": -1,
-  "knownIds": [
-    198397
-  ]
-}
+{"internalId":1378783063,"name":"Apocrypha Stele, Wide Arched","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_stonestele003.png","bindType":-1,"knownIds":[198397]}

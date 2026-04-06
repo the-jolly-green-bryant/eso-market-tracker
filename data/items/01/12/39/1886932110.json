@@ -1,10 +1,1 @@
-{
-  "internalId": 1886932110,
-  "name": "Pattern: Worm Cult Tent, Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    223930
-  ]
-}
+{"internalId":1886932110,"name":"Pattern: Worm Cult Tent, Large","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[223930]}

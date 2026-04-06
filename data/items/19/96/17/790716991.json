@@ -1,10 +1,1 @@
-{
-  "internalId": 790716991,
-  "name": "Style Page: Horned Dragon Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1278803
-  ]
-}
+{"internalId":790716991,"name":"Style Page: Horned Dragon Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1278803]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2078834889,
-  "name": "Formula: Dawnwood Lantern String, Long",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    207870
-  ]
-}
+{"internalId":2078834889,"name":"Formula: Dawnwood Lantern String, Long","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[207870]}

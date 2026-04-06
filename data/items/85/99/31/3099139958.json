@@ -1,10 +1,1 @@
-{
-  "internalId": 3099139958,
-  "name": "Fargrave Facade, Huge",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_housingfarwallkwaymiddle001.png",
-  "bindType": -1,
-  "knownIds": [
-    184091
-  ]
-}
+{"internalId":3099139958,"name":"Fargrave Facade, Huge","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_housingfarwallkwaymiddle001.png","bindType":-1,"knownIds":[184091]}

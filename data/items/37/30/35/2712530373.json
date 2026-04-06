@@ -1,10 +1,1 @@
-{
-  "internalId": 2712530373,
-  "name": "Blackwood Stuffed Banana Leaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33895
-  ]
-}
+{"internalId":2712530373,"name":"Blackwood Stuffed Banana Leaves","description":"","icon":"data/images/20/0_/te/crafting_skillet_002.png","bindType":-1,"knownIds":[33895]}

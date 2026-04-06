@@ -1,17 +1,1 @@
-{
-  "internalId": 2823214519,
-  "name": "orichalc sabatons of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    720497,
-    736938,
-    689282,
-    788703,
-    720497,
-    736938,
-    689282,
-    788703
-  ]
-}
+{"internalId":2823214519,"name":"orichalc sabatons of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png","bindType":-1,"knownIds":[720497,736938,689282,788703,720497,736938,689282,788703]}

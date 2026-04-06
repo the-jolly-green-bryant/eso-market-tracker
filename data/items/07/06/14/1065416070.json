@@ -1,10 +1,1 @@
-{
-  "internalId": 1065416070,
-  "name": "Praxis: Tide-Born Plate, Triangular",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    217550
-  ]
-}
+{"internalId":1065416070,"name":"Praxis: Tide-Born Plate, Triangular","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[217550]}

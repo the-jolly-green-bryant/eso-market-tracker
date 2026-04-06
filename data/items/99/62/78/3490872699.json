@@ -1,10 +1,1 @@
-{
-  "internalId": 3490872699,
-  "name": "Breeches of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167761
-  ]
-}
+{"internalId":3490872699,"name":"Breeches of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_legs_a.png","bindType":2,"knownIds":[167761]}

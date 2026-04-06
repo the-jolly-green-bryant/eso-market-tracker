@@ -1,10 +1,1 @@
-{
-  "internalId": 3706776956,
-  "name": "Inferno Staff of Syrabane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85235
-  ]
-}
+{"internalId":3706776956,"name":"Inferno Staff of Syrabane","description":"","icon":"data/images/d_/ff/at/gear_altmer_staff_d.png","bindType":2,"knownIds":[85235]}

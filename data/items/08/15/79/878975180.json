@@ -1,10 +1,1 @@
-{
-  "internalId": 878975180,
-  "name": "Travel Sewing Kit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860450
-  ]
-}
+{"internalId":878975180,"name":"Travel Sewing Kit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[860450]}

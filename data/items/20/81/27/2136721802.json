@@ -1,10 +1,1 @@
-{
-  "internalId": 2136721802,
-  "name": "Portent of Survival",
-  "description": "An ingredient for the Portentous Favor-Infused Tonic found while pledged to the Ruckus Faction.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_lizard_tail.png",
-  "bindType": -1,
-  "knownIds": [
-    224838
-  ]
-}
+{"internalId":2136721802,"name":"Portent of Survival","description":"An ingredient for the Portentous Favor-Infused Tonic found while pledged to the Ruckus Faction.","icon":"data/images/li/at/_d/crafting_lizard_tail.png","bindType":-1,"knownIds":[224838]}

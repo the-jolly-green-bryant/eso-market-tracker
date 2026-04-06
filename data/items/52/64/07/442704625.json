@@ -1,10 +1,1 @@
-{
-  "internalId": 442704625,
-  "name": "Maligalig's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1595209
-  ]
-}
+{"internalId":442704625,"name":"Maligalig's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1595209]}

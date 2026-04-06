@@ -1,10 +1,1 @@
-{
-  "internalId": 1787121882,
-  "name": "Vicious Serpent",
-  "description": "A Medium Armor set found in the three Craglorn Trials.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134602
-  ]
-}
+{"internalId":1787121882,"name":"Vicious Serpent","description":"A Medium Armor set found in the three Craglorn Trials.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134602]}

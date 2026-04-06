@@ -1,15 +1,1 @@
-{
-  "internalId": 812739118,
-  "name": "Tarnished Nightmare Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1715729,
-    1746657,
-    1779215,
-    1715729,
-    1746657,
-    1779215
-  ]
-}
+{"internalId":812739118,"name":"Tarnished Nightmare Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png","bindType":-1,"knownIds":[1715729,1746657,1779215,1715729,1746657,1779215]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4131292961,
-  "name": "Covenant Mage Mercenary Contract",
-  "description": "This contract grants you the services of a mercenary who will defend a location of your choice for a short period of time.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_001.png",
-  "bindType": -1,
-  "knownIds": [
-    44239
-  ]
-}
+{"internalId":4131292961,"name":"Covenant Mage Mercenary Contract","description":"This contract grants you the services of a mercenary who will defend a location of your choice for a short period of time.","icon":"data/images/10/0_/se/notes_001.png","bindType":-1,"knownIds":[44239]}

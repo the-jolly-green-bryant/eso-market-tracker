@@ -1,10 +1,1 @@
-{
-  "internalId": 2950088717,
-  "name": "Statue, Saint Kaladas",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_leystatuestkaladas001.png",
-  "bindType": -1,
-  "knownIds": [
-    181488
-  ]
-}
+{"internalId":2950088717,"name":"Statue, Saint Kaladas","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_leystatuestkaladas001.png","bindType":-1,"knownIds":[181488]}

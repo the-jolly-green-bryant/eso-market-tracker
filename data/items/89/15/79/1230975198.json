@@ -1,10 +1,1 @@
-{
-  "internalId": 1230975198,
-  "name": "Sanded Ash",
-  "description": "An ingredient for crafting wooden weapons and shields.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_sanded_ash.png",
-  "bindType": -1,
-  "knownIds": [
-    46140
-  ]
-}
+{"internalId":1230975198,"name":"Sanded Ash","description":"An ingredient for crafting wooden weapons and shields.","icon":"data/images/hs/a_/de/crafting_wood_sanded_ash.png","bindType":-1,"knownIds":[46140]}

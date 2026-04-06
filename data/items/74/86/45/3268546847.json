@@ -1,10 +1,1 @@
-{
-  "internalId": 3268546847,
-  "name": "Vampiric Carpet, Grand Sigil",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug001.png",
-  "bindType": -1,
-  "knownIds": [
-    165579
-  ]
-}
+{"internalId":3268546847,"name":"Vampiric Carpet, Grand Sigil","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug001.png","bindType":-1,"knownIds":[165579]}

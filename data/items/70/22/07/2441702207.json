@@ -1,15 +1,1 @@
-{
-  "internalId": 2441702207,
-  "name": "Nobility in Decay Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1689537,
-    1697515,
-    1702849,
-    1689537,
-    1697515,
-    1702849
-  ]
-}
+{"internalId":2441702207,"name":"Nobility in Decay Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png","bindType":-1,"knownIds":[1689537,1697515,1702849,1689537,1697515,1702849]}

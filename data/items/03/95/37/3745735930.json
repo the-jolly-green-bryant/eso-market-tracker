@@ -1,10 +1,1 @@
-{
-  "internalId": 3745735930,
-  "name": "Companion's Bow",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_bow.png",
-  "bindType": 2,
-  "knownIds": [
-    177219
-  ]
-}
+{"internalId":3745735930,"name":"Companion's Bow","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_bow.png","bindType":2,"knownIds":[177219]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1725410174,
-  "name": "Oversized Tu'whacca Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mask_full_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1290243
-  ]
-}
+{"internalId":1725410174,"name":"Oversized Tu'whacca Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mask_full_001.png","bindType":-1,"knownIds":[1290243]}

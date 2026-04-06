@@ -1,10 +1,1 @@
-{
-  "internalId": 3416341098,
-  "name": "Apocryphal Pages",
-  "description": "A mysterious tome containing all of the books in the Apocryphal Pages collection.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png",
-  "bindType": 3,
-  "knownIds": [
-    203203
-  ]
-}
+{"internalId":3416341098,"name":"Apocryphal Pages","description":"A mysterious tome containing all of the books in the Apocryphal Pages collection.","icon":"https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png","bindType":3,"knownIds":[203203]}

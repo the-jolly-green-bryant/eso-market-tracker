@@ -1,10 +1,1 @@
-{
-  "internalId": 3341254084,
-  "name": "Necrom Table, Elegant Dining",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_nectable002.png",
-  "bindType": -1,
-  "knownIds": [
-    197495
-  ]
-}
+{"internalId":3341254084,"name":"Necrom Table, Elegant Dining","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_nectable002.png","bindType":-1,"knownIds":[197495]}

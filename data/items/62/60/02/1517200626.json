@@ -1,10 +1,1 @@
-{
-  "internalId": 1517200626,
-  "name": "Full Belly Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    215007
-  ]
-}
+{"internalId":1517200626,"name":"Full Belly Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hsword_a.png","bindType":2,"knownIds":[215007]}

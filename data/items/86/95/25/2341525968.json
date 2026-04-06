@@ -1,10 +1,1 @@
-{
-  "internalId": 2341525968,
-  "name": "Gold Coast Survivor Elixir",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpotion_survivor.png",
-  "bindType": -1,
-  "knownIds": [
-    932425
-  ]
-}
+{"internalId":2341525968,"name":"Gold Coast Survivor Elixir","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crownpotion_survivor.png","bindType":-1,"knownIds":[932425]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4240038709,
-  "name": "trifling Glyph of Frost Resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_frostresist.png",
-  "bindType": -1,
-  "knownIds": [
-    1436696,
-    1436696
-  ]
-}
+{"internalId":4240038709,"name":"trifling Glyph of Frost Resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_frostresist.png","bindType":-1,"knownIds":[1436696,1436696]}

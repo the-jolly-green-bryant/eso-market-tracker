@@ -1,10 +1,1 @@
-{
-  "internalId": 3143214535,
-  "name": "Recipe: Taneth Chili Cheese Corn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57004
-  ]
-}
+{"internalId":3143214535,"name":"Recipe: Taneth Chili Cheese Corn","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57004]}

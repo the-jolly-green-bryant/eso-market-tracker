@@ -1,10 +1,1 @@
-{
-  "internalId": 2791359139,
-  "name": "Cloudy Crystal Clarity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37814
-  ]
-}
+{"internalId":2791359139,"name":"Cloudy Crystal Clarity","description":"","icon":"data/images/20/0_/st/crafting_spirits_002.png","bindType":-1,"knownIds":[37814]}

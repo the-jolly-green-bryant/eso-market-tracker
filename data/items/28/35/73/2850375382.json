@@ -1,10 +1,1 @@
-{
-  "internalId": 2850375382,
-  "name": "Formula: Lucent Defensive Spike, Corner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    211457
-  ]
-}
+{"internalId":2850375382,"name":"Formula: Lucent Defensive Spike, Corner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[211457]}

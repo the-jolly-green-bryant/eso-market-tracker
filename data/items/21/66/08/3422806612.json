@@ -1,10 +1,1 @@
-{
-  "internalId": 3422806612,
-  "name": "Diagram: Solitude Pot, Wide Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    166905
-  ]
-}
+{"internalId":3422806612,"name":"Diagram: Solitude Pot, Wide Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[166905]}

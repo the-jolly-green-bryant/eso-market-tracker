@@ -1,10 +1,1 @@
-{
-  "internalId": 243087729,
-  "name": "Macabre Vintage Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_sheild.png",
-  "bindType": 2,
-  "knownIds": [
-    205209
-  ]
-}
+{"internalId":243087729,"name":"Macabre Vintage Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_sheild.png","bindType":2,"knownIds":[205209]}

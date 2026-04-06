@@ -1,10 +1,1 @@
-{
-  "internalId": 2602348380,
-  "name": "Cuirass of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199263
-  ]
-}
+{"internalId":2602348380,"name":"Cuirass of Fury","description":"","icon":"data/images/a_/ts/eh/gear_abahswatch_heavy_chest_a.png","bindType":2,"knownIds":[79804]}

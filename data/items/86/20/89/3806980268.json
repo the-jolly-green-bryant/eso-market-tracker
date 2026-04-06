@@ -1,10 +1,1 @@
-{
-  "internalId": 3806980268,
-  "name": "Lodestone",
-  "description": "A lyre of incomprehensible craftsmanship, said to have been swindled from Sheogorath by Callisos. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gen_inc_bardinstrumentslyreguitar001.png",
-  "bindType": 3,
-  "knownIds": [
-    160514
-  ]
-}
+{"internalId":3806980268,"name":"Lodestone","description":"A lyre of incomprehensible craftsmanship, said to have been swindled from Sheogorath by Callisos. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gen_inc_bardinstrumentslyreguitar001.png","bindType":3,"knownIds":[160514]}

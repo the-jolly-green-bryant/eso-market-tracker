@@ -1,10 +1,1 @@
-{
-  "internalId": 478459459,
-  "name": "Grave-Stake, Large Fearsome",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkburialstick003.png",
-  "bindType": -1,
-  "knownIds": [
-    145439
-  ]
-}
+{"internalId":478459459,"name":"Grave-Stake, Large Fearsome","description":"This is a standard house item.","icon":"data/images/30/0k/ci/housing_arg_exc_mrkburialstick003.png","bindType":-1,"knownIds":[145439]}

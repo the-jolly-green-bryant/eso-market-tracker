@@ -1,10 +1,1 @@
-{
-  "internalId": 2026250777,
-  "name": "Sleeveless Wrapped Shirt",
-  "description": "A wrapped, belted sleeveless tunic.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63878
-  ]
-}
+{"internalId":2026250777,"name":"Sleeveless Wrapped Shirt","description":"A wrapped, belted sleeveless tunic.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63878]}

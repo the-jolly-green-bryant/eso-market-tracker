@@ -1,10 +1,1 @@
-{
-  "internalId": 536886180,
-  "name": "Design: Breton Pitcher, Ceramic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    115924
-  ]
-}
+{"internalId":536886180,"name":"Design: Breton Pitcher, Ceramic","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[115924]}

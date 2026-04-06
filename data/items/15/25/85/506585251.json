@@ -1,10 +1,1 @@
-{
-  "internalId": 506585251,
-  "name": "Vampiric Sideboard, Shelves",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirebookcaseshort001.png",
-  "bindType": -1,
-  "knownIds": [
-    165586
-  ]
-}
+{"internalId":506585251,"name":"Vampiric Sideboard, Shelves","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirebookcaseshort001.png","bindType":-1,"knownIds":[165586]}

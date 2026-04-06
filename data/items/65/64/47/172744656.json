@@ -1,10 +1,1 @@
-{
-  "internalId": 172744656,
-  "name": "Diagram: Alinor Sconce, Lantern",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    139525
-  ]
-}
+{"internalId":172744656,"name":"Diagram: Alinor Sconce, Lantern","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[139525]}

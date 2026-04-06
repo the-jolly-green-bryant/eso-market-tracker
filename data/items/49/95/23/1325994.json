@@ -1,10 +1,1 @@
-{
-  "internalId": 1325994,
-  "name": "Bright-Throat Hook Wrap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1284750
-  ]
-}
+{"internalId":1325994,"name":"Bright-Throat Hook Wrap","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png","bindType":-1,"knownIds":[1284750]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4136036625,
-  "name": "Barasatii's Chain of Cyrodiil's Crest",
-  "description": "This intricately woven chain feels slimy upon the neck.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    45731
-  ]
-}
+{"internalId":4136036625,"name":"Barasatii's Chain of Cyrodiil's Crest","description":"This intricately woven chain feels slimy upon the neck.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[45731]}

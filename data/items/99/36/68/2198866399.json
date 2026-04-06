@@ -1,10 +1,1 @@
-{
-  "internalId": 2198866399,
-  "name": "Leyawiin Lettuce, Leaf",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodlettuce001.png",
-  "bindType": -1,
-  "knownIds": [
-    175676
-  ]
-}
+{"internalId":2198866399,"name":"Leyawiin Lettuce, Leaf","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodlettuce001.png","bindType":-1,"knownIds":[175676]}

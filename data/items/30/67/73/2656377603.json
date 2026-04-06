@@ -1,10 +1,1 @@
-{
-  "internalId": 2656377603,
-  "name": "Tangerines, Bunch",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketproducepile002.png",
-  "bindType": -1,
-  "knownIds": [
-    118134
-  ]
-}
+{"internalId":2656377603,"name":"Tangerines, Bunch","description":"This is a small house item.","icon":"data/images/20/0e/li/housing_red_exc_varmarketproducepile002.png","bindType":-1,"knownIds":[118134]}

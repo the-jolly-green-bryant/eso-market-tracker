@@ -1,17 +1,1 @@
-{
-  "internalId": 1847276552,
-  "name": "Beacon of Oblivion Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1729111,
-    1742275,
-    1743155,
-    1763270,
-    1729111,
-    1742275,
-    1743155,
-    1763270
-  ]
-}
+{"internalId":1847276552,"name":"Beacon of Oblivion Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_head_a.png","bindType":-1,"knownIds":[1729111,1742275,1743155,1763270,1729111,1742275,1743155,1763270]}

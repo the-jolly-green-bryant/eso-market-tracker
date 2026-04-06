@@ -1,10 +1,1 @@
-{
-  "internalId": 1107367590,
-  "name": "Shirt of Torug's Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56512
-  ]
-}
+{"internalId":1107367590,"name":"Shirt of Torug's Pact","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[56512]}

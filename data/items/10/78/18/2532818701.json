@@ -1,10 +1,1 @@
-{
-  "internalId": 2532818701,
-  "name": "Jerkin of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199647
-  ]
-}
+{"internalId":2532818701,"name":"Jerkin of Vicious Death","description":"","icon":"data/images/a_/tr/ih/gear_abahswatch_light_shirt_a.png","bindType":2,"knownIds":[79829]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2070679082,
-  "name": "Sword of the Red Mountain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85040
-  ]
-}
+{"internalId":2070679082,"name":"Sword of the Red Mountain","description":"","icon":"data/images/a_/dr/ow/gear_ashlander_1hsword_a.png","bindType":2,"knownIds":[85040]}

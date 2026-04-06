@@ -1,17 +1,1 @@
-{
-  "internalId": 2979916234,
-  "name": "orichalc-steel pauldron of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    647545,
-    615716,
-    791152,
-    871262,
-    647545,
-    615716,
-    791152,
-    871262
-  ]
-}
+{"internalId":2979916234,"name":"orichalc-steel pauldron of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png","bindType":-1,"knownIds":[647545,615716,791152,871262,647545,615716,791152,871262]}

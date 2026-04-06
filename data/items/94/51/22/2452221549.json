@@ -1,17 +1,1 @@
-{
-  "internalId": 2452221549,
-  "name": "splendid glyph of decrease spell harm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png",
-  "bindType": -1,
-  "knownIds": [
-    478151,
-    476334,
-    1447913,
-    1448415,
-    478151,
-    476334,
-    1447913,
-    1448415
-  ]
-}
+{"internalId":2452221549,"name":"splendid glyph of decrease spell harm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png","bindType":-1,"knownIds":[478151,476334,1447913,1448415,478151,476334,1447913,1448415]}

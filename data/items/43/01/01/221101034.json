@@ -1,10 +1,1 @@
-{
-  "internalId": 221101034,
-  "name": "Languor of Peryite Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189658
-  ]
-}
+{"internalId":221101034,"name":"Languor of Peryite Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[189658]}

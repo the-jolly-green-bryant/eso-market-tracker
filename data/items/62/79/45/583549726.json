@@ -1,10 +1,1 @@
-{
-  "internalId": 583549726,
-  "name": "Undertaker's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149212
-  ]
-}
+{"internalId":583549726,"name":"Undertaker's Shield","description":"","icon":"data/images/a_/dl/ei/gear_anequina_shield_a.png","bindType":2,"knownIds":[149212]}

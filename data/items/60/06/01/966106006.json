@@ -1,10 +1,1 @@
-{
-  "internalId": 966106006,
-  "name": "Redguard Oven, Clay",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_firepitsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    204456
-  ]
-}
+{"internalId":966106006,"name":"Redguard Oven, Clay","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_firepitsmall001.png","bindType":-1,"knownIds":[204456]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3083402501,
-  "name": "Solitude Sideboard, Rustic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tabletrestle001.png",
-  "bindType": -1,
-  "knownIds": [
-    165682
-  ]
-}
+{"internalId":3083402501,"name":"Solitude Sideboard, Rustic","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tabletrestle001.png","bindType":-1,"knownIds":[165682]}

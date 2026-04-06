@@ -1,10 +1,1 @@
-{
-  "internalId": 3382747217,
-  "name": "Truly Superb Glyph of Bashing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasebashdamage.png",
-  "bindType": -1,
-  "knownIds": [
-    1453906
-  ]
-}
+{"internalId":3382747217,"name":"Truly Superb Glyph of Bashing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasebashdamage.png","bindType":-1,"knownIds":[1453906]}

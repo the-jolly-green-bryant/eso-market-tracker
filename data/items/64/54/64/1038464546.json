@@ -1,10 +1,1 @@
-{
-  "internalId": 1038464546,
-  "name": "Praxis: High Elf End Table, Verdant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    118966
-  ]
-}
+{"internalId":1038464546,"name":"Praxis: High Elf End Table, Verdant","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[118966]}

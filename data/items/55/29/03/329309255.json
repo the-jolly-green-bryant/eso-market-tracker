@@ -1,10 +1,1 @@
-{
-  "internalId": 329309255,
-  "name": "Sketch: Guardian Key, Replica",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_5.png",
-  "bindType": -1,
-  "knownIds": [
-    212567
-  ]
-}
+{"internalId":329309255,"name":"Sketch: Guardian Key, Replica","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_5.png","bindType":-1,"knownIds":[212567]}

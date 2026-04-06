@@ -1,10 +1,1 @@
-{
-  "internalId": 1943706048,
-  "name": "Cloudy Damage Health Poison VII",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_red_005.png",
-  "bindType": -1,
-  "knownIds": [
-    1596523
-  ]
-}
+{"internalId":1943706048,"name":"Cloudy Damage Health Poison VII","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_red_005.png","bindType":-1,"knownIds":[1596523]}

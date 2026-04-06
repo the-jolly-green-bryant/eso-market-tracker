@@ -1,10 +1,1 @@
-{
-  "internalId": 1888183706,
-  "name": "Rewards For the Worthy Item Sets",
-  "description": "A collection of armor, jewelry and weapon sets from the Rewards for the Worthy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    190343
-  ]
-}
+{"internalId":1888183706,"name":"Rewards For the Worthy Item Sets","description":"A collection of armor, jewelry and weapon sets from the Rewards for the Worthy.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[190343]}

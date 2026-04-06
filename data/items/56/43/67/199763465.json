@@ -1,10 +1,1 @@
-{
-  "internalId": 199763465,
-  "name": "Naryu's Sniper's Bow",
-  "description": "Naryu Virian bestowed this weapon upon you for helping her investigate Maulborn activity in Mournhold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4317
-  ]
-}
+{"internalId":199763465,"name":"Naryu's Sniper's Bow","description":"Naryu Virian bestowed this weapon upon you for helping her investigate Maulborn activity in Mournhold.","icon":"data/images/d_/wo/b_/gear_dunmer_bow_d.png","bindType":2,"knownIds":[4317]}

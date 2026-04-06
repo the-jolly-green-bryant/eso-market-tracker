@@ -1,17 +1,1 @@
-{
-  "internalId": 3999835208,
-  "name": "Aetheric Lancer Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1740698,
-    1746887,
-    1749992,
-    1760475,
-    1740698,
-    1746887,
-    1749992,
-    1760475
-  ]
-}
+{"internalId":3999835208,"name":"Aetheric Lancer Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png","bindType":-1,"knownIds":[1740698,1746887,1749992,1760475,1740698,1746887,1749992,1760475]}

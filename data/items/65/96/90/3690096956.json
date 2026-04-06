@@ -1,10 +1,1 @@
-{
-  "internalId": 3690096956,
-  "name": "Pact's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_2hsword_b.png",
-  "bindType": 2,
-  "knownIds": [
-    55858
-  ]
-}
+{"internalId":3690096956,"name":"Pact's Greatsword","description":"","icon":"data/images/b_/dr/ow/gear_akaviri_2hsword_b.png","bindType":2,"knownIds":[55858]}

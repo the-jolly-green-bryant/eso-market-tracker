@@ -1,10 +1,1 @@
-{
-  "internalId": 1952447717,
-  "name": "Common Wheelbarrow, Sided",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_wheelbarreltruckside001.png",
-  "bindType": -1,
-  "knownIds": [
-    118017
-  ]
-}
+{"internalId":1952447717,"name":"Common Wheelbarrow, Sided","description":"This is a small house item.","icon":"data/images/10/0e/di/housing_bre_exc_wheelbarreltruckside001.png","bindType":-1,"knownIds":[118017]}

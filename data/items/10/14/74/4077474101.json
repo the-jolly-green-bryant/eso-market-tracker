@@ -1,10 +1,1 @@
-{
-  "internalId": 4077474101,
-  "name": "Blueprint: Solitude Travel Chest, Practical",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166858
-  ]
-}
+{"internalId":4077474101,"name":"Blueprint: Solitude Travel Chest, Practical","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[166858]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3737083314,
-  "name": "Shacklebreaker Jewelry",
-  "description": "A Crafted Armor set constructed in Vvardenfell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182764
-  ]
-}
+{"internalId":3737083314,"name":"Shacklebreaker Jewelry","description":"A Crafted Armor set constructed in Vvardenfell.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182764]}

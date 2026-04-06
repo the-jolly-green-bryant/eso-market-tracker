@@ -1,10 +1,1 @@
-{
-  "internalId": 936243294,
-  "name": "Watchful Draugr Head",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385515
-  ]
-}
+{"internalId":936243294,"name":"Watchful Draugr Head","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png","bindType":-1,"knownIds":[1385515]}

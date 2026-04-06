@@ -1,10 +1,1 @@
-{
-  "internalId": 3258906047,
-  "name": "Selection of Special Skins",
-  "description": "An elaborate chest containing many collectible Skins.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_chest001.png",
-  "bindType": 3,
-  "knownIds": [
-    194464
-  ]
-}
+{"internalId":3258906047,"name":"Selection of Special Skins","description":"An elaborate chest containing many collectible Skins.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_chest001.png","bindType":3,"knownIds":[194464]}

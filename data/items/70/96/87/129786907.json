@@ -1,10 +1,1 @@
-{
-  "internalId": 129786907,
-  "name": "Greatsword of High Isle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186061
-  ]
-}
+{"internalId":129786907,"name":"Greatsword of High Isle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_2hsword_a.png","bindType":2,"knownIds":[186061]}

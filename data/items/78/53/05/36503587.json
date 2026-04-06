@@ -1,10 +1,1 @@
-{
-  "internalId": 36503587,
-  "name": "Secret Medium Armor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    55329
-  ]
-}
+{"internalId":36503587,"name":"Secret Medium Armor","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[55329]}

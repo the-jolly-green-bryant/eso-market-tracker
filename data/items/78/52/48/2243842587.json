@@ -1,10 +1,1 @@
-{
-  "internalId": 2243842587,
-  "name": "Pirate Ship Model",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pirate_ship_model.png",
-  "bindType": -1,
-  "knownIds": [
-    909189
-  ]
-}
+{"internalId":2243842587,"name":"Pirate Ship Model","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pirate_ship_model.png","bindType":-1,"knownIds":[909189]}

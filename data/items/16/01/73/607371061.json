@@ -1,10 +1,1 @@
-{
-  "internalId": 607371061,
-  "name": "Bearskin Blanket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    664226
-  ]
-}
+{"internalId":607371061,"name":"Bearskin Blanket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[664226]}

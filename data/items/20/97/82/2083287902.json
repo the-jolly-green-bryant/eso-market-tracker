@@ -1,10 +1,1 @@
-{
-  "internalId": 2083287902,
-  "name": "Measuring Wand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    665019
-  ]
-}
+{"internalId":2083287902,"name":"Measuring Wand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[665019]}

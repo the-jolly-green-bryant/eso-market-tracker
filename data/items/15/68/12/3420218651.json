@@ -1,13 +1,1 @@
-{
-  "internalId": 3420218651,
-  "name": "Nix-Hound's Howl Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731625,
-    1735352,
-    1731625,
-    1735352
-  ]
-}
+{"internalId":3420218651,"name":"Nix-Hound's Howl Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_1haxe_a.png","bindType":-1,"knownIds":[1731625,1735352,1731625,1735352]}

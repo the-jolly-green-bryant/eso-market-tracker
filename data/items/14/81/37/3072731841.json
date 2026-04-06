@@ -1,10 +1,1 @@
-{
-  "internalId": 3072731841,
-  "name": "Focus Script: Frost Damage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_frost.png",
-  "bindType": -1,
-  "knownIds": [
-    204555
-  ]
-}
+{"internalId":3072731841,"name":"Focus Script: Frost Damage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_frost.png","bindType":-1,"knownIds":[204555]}

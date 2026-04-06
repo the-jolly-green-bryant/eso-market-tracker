@@ -1,10 +1,1 @@
-{
-  "internalId": 4278206016,
-  "name": "Shore's Edge",
-  "description": "It is said the edge of this blade was honed on a type of whetstone found only in the Far Shores.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15624
-  ]
-}
+{"internalId":4278206016,"name":"Shore's Edge","description":"It is said the edge of this blade was honed on a type of whetstone found only in the Far Shores.","icon":"data/images/d_/dr/ow/gear_redguard_1hsword_d.png","bindType":2,"knownIds":[15624]}

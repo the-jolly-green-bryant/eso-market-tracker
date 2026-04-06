@@ -1,10 +1,1 @@
-{
-  "internalId": 580510652,
-  "name": "Dark Elf Bed of Coals",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_str_blacksmithcoal001.png",
-  "bindType": -1,
-  "knownIds": [
-    118663
-  ]
-}
+{"internalId":580510652,"name":"Dark Elf Bed of Coals","description":"This is a standard house item.","icon":"data/images/10/0l/ao/housing_dun_str_blacksmithcoal001.png","bindType":-1,"knownIds":[118663]}

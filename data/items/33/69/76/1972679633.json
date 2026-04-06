@@ -1,10 +1,1 @@
-{
-  "internalId": 1972679633,
-  "name": "Draoife Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190858
-  ]
-}
+{"internalId":1972679633,"name":"Draoife Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_staff_a.png","bindType":2,"knownIds":[190858]}

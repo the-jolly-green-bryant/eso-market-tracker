@@ -1,10 +1,1 @@
-{
-  "internalId": 3275878061,
-  "name": "Dwarven Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4889
-  ]
-}
+{"internalId":3275878061,"name":"Dwarven Sword","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[4889]}

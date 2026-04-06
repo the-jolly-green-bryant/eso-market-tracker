@@ -1,10 +1,1 @@
-{
-  "internalId": 2839585925,
-  "name": "Jewelry: Battlefield Acrobat",
-  "description": "A Medium Armor set found in Rewards for the Worthy mails.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    146027
-  ]
-}
+{"internalId":2839585925,"name":"Jewelry: Battlefield Acrobat","description":"A Medium Armor set found in Rewards for the Worthy mails.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[146027]}

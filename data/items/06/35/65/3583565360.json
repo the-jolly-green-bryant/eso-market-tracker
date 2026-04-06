@@ -1,10 +1,1 @@
-{
-  "internalId": 3583565360,
-  "name": "Axe of the Hawk's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93297
-  ]
-}
+{"internalId":3583565360,"name":"Axe of the Hawk's Eye","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[93297]}

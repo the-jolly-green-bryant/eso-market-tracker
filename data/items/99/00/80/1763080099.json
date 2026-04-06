@@ -1,10 +1,1 @@
-{
-  "internalId": 1763080099,
-  "name": "Waterlogged Chestpiece of Salvation",
-  "description": "This piece of armor is creaky with rust, yet surprisingly functional.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43006
-  ]
-}
+{"internalId":1763080099,"name":"Waterlogged Chestpiece of Salvation","description":"This piece of armor is creaky with rust, yet surprisingly functional.","icon":"data/images/d_/ts/eh/gear_orc_medium_chest_d.png","bindType":2,"knownIds":[43006]}

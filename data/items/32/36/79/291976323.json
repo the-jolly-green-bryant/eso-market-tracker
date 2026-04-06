@@ -1,10 +1,1 @@
-{
-  "internalId": 291976323,
-  "name": "Sash of the Withered Hand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86357
-  ]
-}
+{"internalId":291976323,"name":"Sash of the Withered Hand","description":"","icon":"data/images/a_/ts/ia/gear_wormcult_light_waist_a.png","bindType":2,"knownIds":[86357]}

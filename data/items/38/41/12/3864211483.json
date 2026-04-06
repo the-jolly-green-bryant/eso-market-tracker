@@ -1,13 +1,1 @@
-{
-  "internalId": 3864211483,
-  "name": "Netch-hide Lunch Sack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    603537,
-    713389,
-    603537,
-    713389
-  ]
-}
+{"internalId":3864211483,"name":"Netch-hide Lunch Sack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[603537,713389,603537,713389]}

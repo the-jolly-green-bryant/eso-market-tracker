@@ -1,10 +1,1 @@
-{
-  "internalId": 1684891335,
-  "name": "SPROING!",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1279675
-  ]
-}
+{"internalId":1684891335,"name":"SPROING!","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png","bindType":-1,"knownIds":[1279675]}

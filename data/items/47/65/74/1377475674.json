@@ -1,13 +1,1 @@
-{
-  "internalId": 1377475674,
-  "name": "Single Jewelry Enchantment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    597272,
-    787070,
-    597272,
-    787070
-  ]
-}
+{"internalId":1377475674,"name":"Single Jewelry Enchantment","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[597272,787070,597272,787070]}

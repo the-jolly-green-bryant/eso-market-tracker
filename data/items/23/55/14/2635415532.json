@@ -1,10 +1,1 @@
-{
-  "internalId": 2635415532,
-  "name": "Bag of Imitation Finger-Bone Dice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909251
-  ]
-}
+{"internalId":2635415532,"name":"Bag of Imitation Finger-Bone Dice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png","bindType":-1,"knownIds":[909251]}

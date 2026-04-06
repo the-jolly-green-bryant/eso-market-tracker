@@ -1,10 +1,1 @@
-{
-  "internalId": 3785051695,
-  "name": "Dead-Water's Guile Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142567
-  ]
-}
+{"internalId":3785051695,"name":"Dead-Water's Guile Bow","description":"","icon":"data/images/a_/wo/b_/gear_deadwater_bow_a.png","bindType":2,"knownIds":[142567]}

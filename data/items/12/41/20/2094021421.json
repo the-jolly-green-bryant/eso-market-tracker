@@ -1,10 +1,1 @@
-{
-  "internalId": 2094021421,
-  "name": "Blackwood Legates' Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png",
-  "bindType": 3,
-  "knownIds": [
-    178723
-  ]
-}
+{"internalId":2094021421,"name":"Blackwood Legates' Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png","bindType":3,"knownIds":[178723]}

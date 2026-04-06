@@ -1,10 +1,1 @@
-{
-  "internalId": 1076107560,
-  "name": "Dragonshrine Chalice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    660356
-  ]
-}
+{"internalId":1076107560,"name":"Dragonshrine Chalice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[660356]}

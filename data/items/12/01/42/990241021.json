@@ -1,10 +1,1 @@
-{
-  "internalId": 990241021,
-  "name": "Apocrypha Bookcase, Tall Marble Filled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_housingbookshelfmedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    197628
-  ]
-}
+{"internalId":990241021,"name":"Apocrypha Bookcase, Tall Marble Filled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_housingbookshelfmedium001.png","bindType":-1,"knownIds":[197628]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2892136113,
-  "name": "Alinor Potted Plant, Double Tiered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_topiaryspiral001.png",
-  "bindType": -1,
-  "knownIds": [
-    139308
-  ]
-}
+{"internalId":2892136113,"name":"Alinor Potted Plant, Double Tiered","description":"This is a standard house item.","icon":"data/images/10/0l/ar/housing_veg_sum_topiaryspiral001.png","bindType":-1,"knownIds":[139308]}

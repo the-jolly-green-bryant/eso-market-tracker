@@ -1,10 +1,1 @@
-{
-  "internalId": 2440509475,
-  "name": "Wedding Gazebo",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varweddingpropsgazebo001.png",
-  "bindType": -1,
-  "knownIds": [
-    120893
-  ]
-}
+{"internalId":2440509475,"name":"Wedding Gazebo","description":"This is a huge house item.","icon":"data/images/10/0o/be/housing_red_exc_varweddingpropsgazebo001.png","bindType":-1,"knownIds":[120893]}

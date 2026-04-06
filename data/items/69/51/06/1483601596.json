@@ -1,10 +1,1 @@
-{
-  "internalId": 1483601596,
-  "name": "Helmet of the Red Mountain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85054
-  ]
-}
+{"internalId":1483601596,"name":"Helmet of the Red Mountain","description":"","icon":"data/images/a_/da/eh/gear_ashlander_head_a.png","bindType":2,"knownIds":[85054]}

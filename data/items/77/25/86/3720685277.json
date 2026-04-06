@@ -1,10 +1,1 @@
-{
-  "internalId": 3720685277,
-  "name": "Style Page: Orpheon the Tactician Mask",
-  "description": "Use to learn the Orpheon the Tactician Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    211051
-  ]
-}
+{"internalId":3720685277,"name":"Style Page: Orpheon the Tactician Mask","description":"Use to learn the Orpheon the Tactician Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[211051]}

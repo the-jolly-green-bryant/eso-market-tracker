@@ -1,10 +1,1 @@
-{
-  "internalId": 3039825689,
-  "name": "Recipe: Markarth Short Pig",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56973
-  ]
-}
+{"internalId":3039825689,"name":"Recipe: Markarth Short Pig","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56973]}

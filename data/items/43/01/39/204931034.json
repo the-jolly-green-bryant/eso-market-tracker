@@ -1,10 +1,1 @@
-{
-  "internalId": 204931034,
-  "name": "Ancient Terne Plating",
-  "description": "Grants 10 Terne Plating when claimed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_dingy_terne.png",
-  "bindType": -1,
-  "knownIds": [
-    135147
-  ]
-}
+{"internalId":204931034,"name":"Ancient Terne Plating","description":"Grants 10 Terne Plating when claimed.","icon":"data/images/en/re/t_/jewelrycrafting_booster_dingy_terne.png","bindType":-1,"knownIds":[135147]}

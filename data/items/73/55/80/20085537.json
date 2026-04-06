@@ -1,10 +1,1 @@
-{
-  "internalId": 20085537,
-  "name": "Invitation to the High-King's Ball",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    653659
-  ]
-}
+{"internalId":20085537,"name":"Invitation to the High-King's Ball","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[653659]}

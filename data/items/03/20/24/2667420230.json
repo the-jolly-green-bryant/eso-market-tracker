@@ -1,10 +1,1 @@
-{
-  "internalId": 2667420230,
-  "name": "Tree, Young Mountain Mahogany",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_mountainmahoganysnowy002.png",
-  "bindType": -1,
-  "knownIds": [
-    165823
-  ]
-}
+{"internalId":2667420230,"name":"Tree, Young Mountain Mahogany","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_mountainmahoganysnowy002.png","bindType":-1,"knownIds":[165823]}

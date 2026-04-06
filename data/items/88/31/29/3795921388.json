@@ -1,10 +1,1 @@
-{
-  "internalId": 3795921388,
-  "name": "Seeker Synthesis Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    195670
-  ]
-}
+{"internalId":3795921388,"name":"Seeker Synthesis Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[195670]}

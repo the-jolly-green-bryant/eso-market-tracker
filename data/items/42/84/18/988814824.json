@@ -1,17 +1,1 @@
-{
-  "internalId": 988814824,
-  "name": "Monolith of Storms Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1676606,
-    1677403,
-    1679948,
-    1743154,
-    1676606,
-    1677403,
-    1679948,
-    1743154
-  ]
-}
+{"internalId":988814824,"name":"Monolith of Storms Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png","bindType":-1,"knownIds":[1676606,1677403,1679948,1743154,1676606,1677403,1679948,1743154]}

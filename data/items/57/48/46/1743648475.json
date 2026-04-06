@@ -1,10 +1,1 @@
-{
-  "internalId": 1743648475,
-  "name": "Shalidor's Nail Clippings",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_potion_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1166317
-  ]
-}
+{"internalId":1743648475,"name":"Shalidor's Nail Clippings","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_potion_003.png","bindType":-1,"knownIds":[1166317]}

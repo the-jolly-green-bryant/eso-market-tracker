@@ -1,13 +1,1 @@
-{
-  "internalId": 2142979825,
-  "name": "Aegis Caller's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1354317,
-    1362362,
-    1354317,
-    1362362
-  ]
-}
+{"internalId":2142979825,"name":"Aegis Caller's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_pyrewatch_staff_a.png","bindType":-1,"knownIds":[1354317,1362362,1354317,1362362]}

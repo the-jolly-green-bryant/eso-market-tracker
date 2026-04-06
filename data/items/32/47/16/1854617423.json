@@ -1,10 +1,1 @@
-{
-  "internalId": 1854617423,
-  "name": "Davon's Watch Herald's Notes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    376619
-  ]
-}
+{"internalId":1854617423,"name":"Davon's Watch Herald's Notes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[376619]}

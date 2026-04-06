@@ -1,10 +1,1 @@
-{
-  "internalId": 3479820188,
-  "name": "Paintbrush, Wide",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paintbrush001.png",
-  "bindType": -1,
-  "knownIds": [
-    219701
-  ]
-}
+{"internalId":3479820188,"name":"Paintbrush, Wide","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paintbrush001.png","bindType":-1,"knownIds":[219701]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3228000240,
-  "name": "Khajiit Sigil, Moon Cycle",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_run_platformpedestal001.png",
-  "bindType": -1,
-  "knownIds": [
-    159443
-  ]
-}
+{"internalId":3228000240,"name":"Khajiit Sigil, Moon Cycle","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_kha_run_platformpedestal001.png","bindType":-1,"knownIds":[159443]}

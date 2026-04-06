@@ -1,10 +1,1 @@
-{
-  "internalId": 1766681704,
-  "name": "Green Bananas with Garlic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33569
-  ]
-}
+{"internalId":1766681704,"name":"Green Bananas with Garlic","description":"","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[33569]}

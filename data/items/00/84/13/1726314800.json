@@ -1,10 +1,1 @@
-{
-  "internalId": 1726314800,
-  "name": "Apocrypha Stele, Arched",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_stonestele002.png",
-  "bindType": -1,
-  "knownIds": [
-    198396
-  ]
-}
+{"internalId":1726314800,"name":"Apocrypha Stele, Arched","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_stonestele002.png","bindType":-1,"knownIds":[198396]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 908294198,
-  "name": "Elsweyr Sarcophagus, Ancient",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_sarcophaguscasket001.png",
-  "bindType": -1,
-  "knownIds": [
-    151902
-  ]
-}
+{"internalId":908294198,"name":"Elsweyr Sarcophagus, Ancient","description":"This is a standard house item.","icon":"data/images/10/0t/ek/housing_els_run_sarcophaguscasket001.png","bindType":-1,"knownIds":[151902]}

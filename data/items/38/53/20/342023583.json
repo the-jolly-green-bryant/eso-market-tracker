@@ -1,10 +1,1 @@
-{
-  "internalId": 342023583,
-  "name": "Mushrooms, Volcanic Cluster",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdsmmushroom002.png",
-  "bindType": -1,
-  "knownIds": [
-    126830
-  ]
-}
+{"internalId":342023583,"name":"Mushrooms, Volcanic Cluster","description":"This is a small house item.","icon":"data/images/20/0m/oo/housing_veg_fug_vrdsmmushroom002.png","bindType":-1,"knownIds":[126830]}

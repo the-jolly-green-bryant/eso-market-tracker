@@ -1,10 +1,1 @@
-{
-  "internalId": 239884308,
-  "name": "High Elf Chest of Drawers",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_cabinet002.png",
-  "bindType": -1,
-  "knownIds": [
-    116345
-  ]
-}
+{"internalId":239884308,"name":"High Elf Chest of Drawers","description":"This is a standard house item.","icon":"data/images/20/0t/en/housing_alt_fur_cabinet002.png","bindType":-1,"knownIds":[116345]}

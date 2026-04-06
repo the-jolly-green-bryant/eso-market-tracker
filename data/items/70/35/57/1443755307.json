@@ -1,10 +1,1 @@
-{
-  "internalId": 1443755307,
-  "name": "Torture Rack",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_torturerack001.png",
-  "bindType": -1,
-  "knownIds": [
-    120829
-  ]
-}
+{"internalId":1443755307,"name":"Torture Rack","description":"This is a large house item.","icon":"data/images/10/0k/ca/housing_imp_inc_torturerack001.png","bindType":-1,"knownIds":[120829]}

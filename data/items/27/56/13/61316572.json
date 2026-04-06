@@ -1,10 +1,1 @@
-{
-  "internalId": 61316572,
-  "name": "Witchmother's Potent Brew",
-  "description": "It smells… dangerous. Toxic. And those are definitely bones.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_iron_cup_bones.png",
-  "bindType": -1,
-  "knownIds": [
-    87697
-  ]
-}
+{"internalId":61316572,"name":"Witchmother's Potent Brew","description":"It smells… dangerous. Toxic. And those are definitely bones.","icon":"data/images/se/no/b_/event_halloween_2016_iron_cup_bones.png","bindType":-1,"knownIds":[87697]}

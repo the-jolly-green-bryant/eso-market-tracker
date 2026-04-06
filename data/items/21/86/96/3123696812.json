@@ -1,10 +1,1 @@
-{
-  "internalId": 3123696812,
-  "name": "Hexos' Ward Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180245
-  ]
-}
+{"internalId":3123696812,"name":"Hexos' Ward Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_dagger_a.png","bindType":2,"knownIds":[180245]}

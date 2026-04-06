@@ -1,10 +1,1 @@
-{
-  "internalId": 940615170,
-  "name": "Recipe: Jephre's Earthbone Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57051
-  ]
-}
+{"internalId":940615170,"name":"Recipe: Jephre's Earthbone Beer","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57051]}

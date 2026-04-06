@@ -1,10 +1,1 @@
-{
-  "internalId": 105931545,
-  "name": "Bloodthorn Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    96564
-  ]
-}
+{"internalId":105931545,"name":"Bloodthorn Epaulets","description":"","icon":"data/images/a_/sr/ed/gear_primative_light_shoulders_a.png","bindType":2,"knownIds":[96564]}

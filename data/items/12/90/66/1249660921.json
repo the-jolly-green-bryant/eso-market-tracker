@@ -1,10 +1,1 @@
-{
-  "internalId": 1249660921,
-  "name": "Soul-Shriven Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    35033
-  ]
-}
+{"internalId":1249660921,"name":"Soul-Shriven Gloves","description":"","icon":"data/images/a_/sd/na/gear_soulshriven_hands_a.png","bindType":-1,"knownIds":[35033]}

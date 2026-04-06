@@ -1,10 +1,1 @@
-{
-  "internalId": 1663731455,
-  "name": "Waterfall Fountain, Round",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingu33t5waterfall001.png",
-  "bindType": -1,
-  "knownIds": [
-    184126
-  ]
-}
+{"internalId":1663731455,"name":"Waterfall Fountain, Round","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingu33t5waterfall001.png","bindType":-1,"knownIds":[184126]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1232385945,
-  "name": "Greymoor Tapestry, Harrowstorm",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_grayhosttapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    166030
-  ]
-}
+{"internalId":1232385945,"name":"Greymoor Tapestry, Harrowstorm","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_grayhosttapestry001.png","bindType":-1,"knownIds":[166030]}

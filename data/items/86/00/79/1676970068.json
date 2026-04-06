@@ -1,10 +1,1 @@
-{
-  "internalId": 1676970068,
-  "name": "Patchwork of Peculiar Personalities",
-  "description": "An elaborate chest containing many collectible Personalities.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_chest002.png",
-  "bindType": 3,
-  "knownIds": [
-    194471
-  ]
-}
+{"internalId":1676970068,"name":"Patchwork of Peculiar Personalities","description":"An elaborate chest containing many collectible Personalities.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_chest002.png","bindType":3,"knownIds":[194471]}

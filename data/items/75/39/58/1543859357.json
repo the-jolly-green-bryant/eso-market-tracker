@@ -1,10 +1,1 @@
-{
-  "internalId": 1543859357,
-  "name": "Embroidery",
-  "description": "Improve quality from green to blue.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    54175
-  ]
-}
+{"internalId":1543859357,"name":"Embroidery","description":"Improve quality from green to blue.","icon":"data/images/20/0_/tn/crafting_light_armor_vendor_component_002.png","bindType":-1,"knownIds":[54175]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3711740790,
-  "name": "Umeen's Uplifting Unguent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    514997
-  ]
-}
+{"internalId":3711740790,"name":"Umeen's Uplifting Unguent","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[514997]}

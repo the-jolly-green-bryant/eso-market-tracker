@@ -1,10 +1,1 @@
-{
-  "internalId": 1631672888,
-  "name": "White Tincture",
-  "description": "A potion of curious origin.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_potion_vendor_001.png",
-  "bindType": -1,
-  "knownIds": [
-    64741
-  ]
-}
+{"internalId":1631672888,"name":"White Tincture","description":"A potion of curious origin.","icon":"data/images/10/0_/ro/crafting_forester_potion_vendor_001.png","bindType":-1,"knownIds":[64741]}

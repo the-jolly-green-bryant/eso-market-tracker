@@ -1,10 +1,1 @@
-{
-  "internalId": 4098960103,
-  "name": "Blue Flame Brazier",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_maelstrombrazier002.png",
-  "bindType": -1,
-  "knownIds": [
-    120834
-  ]
-}
+{"internalId":4098960103,"name":"Blue Flame Brazier","description":"This is a small house item.","icon":"data/images/20/0r/ei/housing_uni_inc_maelstrombrazier002.png","bindType":-1,"knownIds":[120834]}

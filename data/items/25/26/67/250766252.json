@@ -1,10 +1,1 @@
-{
-  "internalId": 250766252,
-  "name": "Wood Elf Cask, Painted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_mixingbowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    115613
-  ]
-}
+{"internalId":250766252,"name":"Wood Elf Cask, Painted","description":"This is a standard house item.","icon":"data/images/20/0l/wo/housing_bos_inc_mixingbowl002.png","bindType":-1,"knownIds":[115613]}

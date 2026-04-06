@@ -1,10 +1,1 @@
-{
-  "internalId": 3028459313,
-  "name": "Daring Corsair's Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155758
-  ]
-}
+{"internalId":3028459313,"name":"Daring Corsair's Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[155758]}

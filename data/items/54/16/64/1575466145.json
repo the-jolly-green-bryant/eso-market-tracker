@@ -1,10 +1,1 @@
-{
-  "internalId": 1575466145,
-  "name": "Desert Grass, Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_elephantgrass006.png",
-  "bindType": -1,
-  "knownIds": [
-    151820
-  ]
-}
+{"internalId":1575466145,"name":"Desert Grass, Tall","description":"This is a standard house item.","icon":"data/images/60/0s/sa/housing_veg_els_elephantgrass006.png","bindType":-1,"knownIds":[151820]}

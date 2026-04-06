@@ -1,10 +1,1 @@
-{
-  "internalId": 3873564631,
-  "name": "Praxis: Necrom Stairway, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    198079
-  ]
-}
+{"internalId":3873564631,"name":"Praxis: Necrom Stairway, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[198079]}

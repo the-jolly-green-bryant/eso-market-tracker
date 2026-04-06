@@ -1,15 +1,1 @@
-{
-  "internalId": 3378798243,
-  "name": "Waterlogged Chestpiece",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    717558,
-    604291,
-    871551,
-    717558,
-    604291,
-    871551
-  ]
-}
+{"internalId":3378798243,"name":"Waterlogged Chestpiece","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_chest_d.png","bindType":-1,"knownIds":[717558,604291,871551,717558,604291,871551]}

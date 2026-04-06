@@ -1,10 +1,1 @@
-{
-  "internalId": 827235636,
-  "name": "Spell Parasite's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    163417
-  ]
-}
+{"internalId":827235636,"name":"Spell Parasite's Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[163417]}

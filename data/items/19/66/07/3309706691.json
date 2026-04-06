@@ -1,10 +1,1 @@
-{
-  "internalId": 3309706691,
-  "name": "Weapons: Sword-Singer",
-  "description": "A Medium Armor set found in Alik'r.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114165
-  ]
-}
+{"internalId":3309706691,"name":"Weapons: Sword-Singer","description":"A Medium Armor set found in Alik'r.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114165]}

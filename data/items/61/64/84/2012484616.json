@@ -1,10 +1,1 @@
-{
-  "internalId": 2012484616,
-  "name": "Grahtwood Treasure Map III",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43633
-  ]
-}
+{"internalId":2012484616,"name":"Grahtwood Treasure Map III","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43633]}

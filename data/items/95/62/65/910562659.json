@@ -1,17 +1,1 @@
-{
-  "internalId": 910562659,
-  "name": "Perfected Pillager's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1602367,
-    1603475,
-    1677699,
-    1779641,
-    1602367,
-    1603475,
-    1677699,
-    1779641
-  ]
-}
+{"internalId":910562659,"name":"Perfected Pillager's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png","bindType":-1,"knownIds":[1602367,1603475,1677699,1779641,1602367,1603475,1677699,1779641]}

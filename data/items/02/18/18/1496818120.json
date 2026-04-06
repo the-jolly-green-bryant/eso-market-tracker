@@ -1,10 +1,1 @@
-{
-  "internalId": 1496818120,
-  "name": "Unidentified Reactive Armor Item",
-  "description": "This box contains an Superior-quality item of the Reactive Armor item set.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    212384
-  ]
-}
+{"internalId":1496818120,"name":"Unidentified Reactive Armor Item","description":"This box contains an Superior-quality item of the Reactive Armor item set.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[212384]}

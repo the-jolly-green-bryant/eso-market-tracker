@@ -1,12 +1,1 @@
-{
-  "internalId": 3600529088,
-  "name": "Renanimating Pendant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    603006,
-    611040,
-    771826
-  ]
-}
+{"internalId":3600529088,"name":"Renanimating Pendant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[603006,611040,771826]}

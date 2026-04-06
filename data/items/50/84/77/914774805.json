@@ -1,10 +1,1 @@
-{
-  "internalId": 914774805,
-  "name": "Darloc Brae's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149578
-  ]
-}
+{"internalId":914774805,"name":"Darloc Brae's Greatsword","description":"","icon":"data/images/a_/dr/ow/gear_anequina_2hsword_a.png","bindType":2,"knownIds":[149578]}

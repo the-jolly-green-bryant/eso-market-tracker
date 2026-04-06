@@ -1,10 +1,1 @@
-{
-  "internalId": 4015732053,
-  "name": "Alinor Stairway, Timeworn",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_housingaldstairs001.png",
-  "bindType": -1,
-  "knownIds": [
-    139186
-  ]
-}
+{"internalId":4015732053,"name":"Alinor Stairway, Timeworn","description":"This is a large house item.","icon":"data/images/10/0s/ri/housing_sum_str_housingaldstairs001.png","bindType":-1,"knownIds":[139186]}

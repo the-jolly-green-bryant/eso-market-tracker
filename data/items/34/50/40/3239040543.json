@@ -1,10 +1,1 @@
-{
-  "internalId": 3239040543,
-  "name": "Pebble, Stacked Lichen",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_shadowfensmall005.png",
-  "bindType": -1,
-  "knownIds": [
-    120630
-  ]
-}
+{"internalId":3239040543,"name":"Pebble, Stacked Lichen","description":"This is a small house item.","icon":"data/images/50/0l/la/housing_rok_gry_shadowfensmall005.png","bindType":-1,"knownIds":[120630]}

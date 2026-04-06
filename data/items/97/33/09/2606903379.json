@@ -1,10 +1,1 @@
-{
-  "internalId": 2606903379,
-  "name": "Incomprehensible Argonian Game",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png",
-  "bindType": -1,
-  "knownIds": [
-    876951
-  ]
-}
+{"internalId":2606903379,"name":"Incomprehensible Argonian Game","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png","bindType":-1,"knownIds":[876951]}

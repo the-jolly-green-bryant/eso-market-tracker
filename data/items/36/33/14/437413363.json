@@ -1,10 +1,1 @@
-{
-  "internalId": 437413363,
-  "name": "Diagram: Worm Cult Staircase, Double",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    223874
-  ]
-}
+{"internalId":437413363,"name":"Diagram: Worm Cult Staircase, Double","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[223874]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2552402366,
-  "name": "Tava's Prayer Beads",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_beads_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1336544
-  ]
-}
+{"internalId":2552402366,"name":"Tava's Prayer Beads","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_beads_001.png","bindType":-1,"knownIds":[1336544]}

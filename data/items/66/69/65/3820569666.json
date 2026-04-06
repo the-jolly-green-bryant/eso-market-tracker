@@ -1,10 +1,1 @@
-{
-  "internalId": 3820569666,
-  "name": "Shield of the Veiled Heritance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94408
-  ]
-}
+{"internalId":3820569666,"name":"Shield of the Veiled Heritance","description":"","icon":"data/images/d_/dl/ei/gear_altmer_shield_d.png","bindType":2,"knownIds":[94408]}

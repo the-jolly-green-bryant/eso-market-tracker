@@ -1,10 +1,1 @@
-{
-  "internalId": 2682636468,
-  "name": "Defender's Breastplate",
-  "description": "Armor fit for the hero who aided soldiers at Boulderfall Pass against a Reachman attack. From Captain Jardirr herself.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10981
-  ]
-}
+{"internalId":2682636468,"name":"Defender's Breastplate","description":"Armor fit for the hero who aided soldiers at Boulderfall Pass against a Reachman attack. From Captain Jardirr herself.","icon":"data/images/d_/ts/eh/gear_nord_heavy_chest_d.png","bindType":2,"knownIds":[10981]}

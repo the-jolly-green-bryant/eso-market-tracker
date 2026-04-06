@@ -1,10 +1,1 @@
-{
-  "internalId": 3484749479,
-  "name": "Gauntlets of Varen's Legacy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76066
-  ]
-}
+{"internalId":3484749479,"name":"Gauntlets of Varen's Legacy","description":"","icon":"data/images/d_/sd/na/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[76066]}

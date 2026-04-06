@@ -1,10 +1,1 @@
-{
-  "internalId": 122509390,
-  "name": "Girdle of Tava's Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72110
-  ]
-}
+{"internalId":122509390,"name":"Girdle of Tava's Favor","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[72110]}

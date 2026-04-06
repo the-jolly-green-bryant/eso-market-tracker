@@ -1,10 +1,1 @@
-{
-  "internalId": 3069441096,
-  "name": "Tree, Towering Autumn Birch",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_birchyellow002.png",
-  "bindType": -1,
-  "knownIds": [
-    120713
-  ]
-}
+{"internalId":3069441096,"name":"Tree, Towering Autumn Birch","description":"This is a huge house item.","icon":"data/images/20/0w/ol/housing_tre_dec_birchyellow002.png","bindType":-1,"knownIds":[120713]}

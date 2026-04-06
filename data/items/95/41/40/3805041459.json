@@ -1,10 +1,1 @@
-{
-  "internalId": 3805041459,
-  "name": "Praxis: Druidic Stairway, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    194366
-  ]
-}
+{"internalId":3805041459,"name":"Praxis: Druidic Stairway, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[194366]}

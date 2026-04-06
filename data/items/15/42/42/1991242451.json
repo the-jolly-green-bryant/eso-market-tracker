@@ -1,10 +1,1 @@
-{
-  "internalId": 1991242451,
-  "name": "Shutters, Blue Lattice",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varshuttersmedium004.png",
-  "bindType": -1,
-  "knownIds": [
-    118174
-  ]
-}
+{"internalId":1991242451,"name":"Shutters, Blue Lattice","description":"This is a standard house item.","icon":"data/images/40/0m/ui/housing_red_str_varshuttersmedium004.png","bindType":-1,"knownIds":[118174]}

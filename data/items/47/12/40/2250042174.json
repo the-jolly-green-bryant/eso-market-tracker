@@ -1,13 +1,1 @@
-{
-  "internalId": 2250042174,
-  "name": "Umbral Edge Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1740375,
-    1775343,
-    1740375,
-    1775343
-  ]
-}
+{"internalId":2250042174,"name":"Umbral Edge Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_staff.png","bindType":-1,"knownIds":[1740375,1775343,1740375,1775343]}

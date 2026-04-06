@@ -1,13 +1,1 @@
-{
-  "internalId": 839044818,
-  "name": "Perfected Null Arca Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732675,
-    1733436,
-    1732675,
-    1733436
-  ]
-}
+{"internalId":839044818,"name":"Perfected Null Arca Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2hhammer_a.png","bindType":-1,"knownIds":[1732675,1733436,1732675,1733436]}

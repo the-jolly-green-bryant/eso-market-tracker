@@ -1,10 +1,1 @@
-{
-  "internalId": 404502024,
-  "name": "Bush, Autumn Oak Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oakbushfall004.png",
-  "bindType": -1,
-  "knownIds": [
-    204770
-  ]
-}
+{"internalId":404502024,"name":"Bush, Autumn Oak Cluster","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oakbushfall004.png","bindType":-1,"knownIds":[204770]}

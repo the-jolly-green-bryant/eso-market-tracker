@@ -1,10 +1,1 @@
-{
-  "internalId": 40080477,
-  "name": "Bright-Throat's Boast Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142756
-  ]
-}
+{"internalId":40080477,"name":"Bright-Throat's Boast Bow","description":"","icon":"data/images/a_/wo/b_/gear_elderarg_bow_a.png","bindType":2,"knownIds":[142756]}

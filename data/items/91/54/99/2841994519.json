@@ -1,10 +1,1 @@
-{
-  "internalId": 2841994519,
-  "name": "Kothringi Leviathan Bugle",
-  "description": "A stunning silver-blue horn of simple design, but has a powerful ringing tone. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questkothringileviathanbugle001.png",
-  "bindType": 3,
-  "knownIds": [
-    160512
-  ]
-}
+{"internalId":2841994519,"name":"Kothringi Leviathan Bugle","description":"A stunning silver-blue horn of simple design, but has a powerful ringing tone. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questkothringileviathanbugle001.png","bindType":3,"knownIds":[160512]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 300297925,
-  "name": "Hist-Soaked Vine Clippings",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_vine_shard_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1168261
-  ]
-}
+{"internalId":300297925,"name":"Hist-Soaked Vine Clippings","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_vine_shard_001.png","bindType":-1,"knownIds":[1168261]}

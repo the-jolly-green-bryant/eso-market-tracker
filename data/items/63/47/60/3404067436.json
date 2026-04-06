@@ -1,10 +1,1 @@
-{
-  "internalId": 3404067436,
-  "name": "Praxis: Firesong Chair, Lava",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    192550
-  ]
-}
+{"internalId":3404067436,"name":"Praxis: Firesong Chair, Lava","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[192550]}

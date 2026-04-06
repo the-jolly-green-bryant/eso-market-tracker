@@ -1,10 +1,1 @@
-{
-  "internalId": 2968655658,
-  "name": "Redguard Plaque, Beetle",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_predatorpreybeetle001.png",
-  "bindType": -1,
-  "knownIds": [
-    211570
-  ]
-}
+{"internalId":2968655658,"name":"Redguard Plaque, Beetle","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_predatorpreybeetle001.png","bindType":-1,"knownIds":[211570]}

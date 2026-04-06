@@ -1,10 +1,1 @@
-{
-  "internalId": 1790777999,
-  "name": "Camonna Tong Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196025
-  ]
-}
+{"internalId":1790777999,"name":"Camonna Tong Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_shield_a.png","bindType":2,"knownIds":[196025]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2328445566,
-  "name": "Psijic Table, Six-Fold Symmetry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_ceptablelarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    1271739
-  ]
-}
+{"internalId":2328445566,"name":"Psijic Table, Six-Fold Symmetry","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_ceptablelarge002.png","bindType":-1,"knownIds":[1271739]}

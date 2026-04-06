@@ -1,11 +1,1 @@
-{
-  "internalId": 4157142546,
-  "name": "Dirt Magnet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_006.png",
-  "bindType": -1,
-  "knownIds": [
-    863398,
-    863398
-  ]
-}
+{"internalId":4157142546,"name":"Dirt Magnet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_006.png","bindType":-1,"knownIds":[863398,863398]}

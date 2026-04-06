@@ -1,10 +1,1 @@
-{
-  "internalId": 2292773073,
-  "name": "Fulmination Ale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    28468
-  ]
-}
+{"internalId":2292773073,"name":"Fulmination Ale","description":"","icon":"data/images/10/0_/re/crafting_beer_001.png","bindType":-1,"knownIds":[28468]}

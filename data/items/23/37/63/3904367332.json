@@ -1,10 +1,1 @@
-{
-  "internalId": 3904367332,
-  "name": "Histwood Bow",
-  "description": "The Shadowscales gave you this excellent bow for helping them take back Murkwater from Dominion pillagers.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7476
-  ]
-}
+{"internalId":3904367332,"name":"Histwood Bow","description":"The Shadowscales gave you this excellent bow for helping them take back Murkwater from Dominion pillagers.","icon":"data/images/d_/wo/b_/gear_argonian_bow_d.png","bindType":2,"knownIds":[7476]}

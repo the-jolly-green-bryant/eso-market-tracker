@@ -1,10 +1,1 @@
-{
-  "internalId": 3350479294,
-  "name": "Elegant Lining",
-  "description": "Improve quality from blue to purple.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_potion_sp_name_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54176
-  ]
-}
+{"internalId":3350479294,"name":"Elegant Lining","description":"Improve quality from blue to purple.","icon":"data/images/10/0_/em/crafting_runecrafter_potion_sp_name_001.png","bindType":-1,"knownIds":[54176]}

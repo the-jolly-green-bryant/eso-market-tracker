@@ -1,10 +1,1 @@
-{
-  "internalId": 2767054389,
-  "name": "Design: Druidic Gourd Candle, Hanging",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    192556
-  ]
-}
+{"internalId":2767054389,"name":"Design: Druidic Gourd Candle, Hanging","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[192556]}

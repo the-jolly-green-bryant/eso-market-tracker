@@ -1,10 +1,1 @@
-{
-  "internalId": 756243219,
-  "name": "Dagger of Critical Riposte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    158657
-  ]
-}
+{"internalId":756243219,"name":"Dagger of Critical Riposte","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[158657]}

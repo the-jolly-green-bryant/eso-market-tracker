@@ -1,10 +1,1 @@
-{
-  "internalId": 2277579922,
-  "name": "Redguard Vase, Lacquered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_con_trapvase002.png",
-  "bindType": -1,
-  "knownIds": [
-    117704
-  ]
-}
+{"internalId":2277579922,"name":"Redguard Vase, Lacquered","description":"This is a standard house item.","icon":"data/images/20/0e/sa/housing_red_con_trapvase002.png","bindType":-1,"knownIds":[117704]}

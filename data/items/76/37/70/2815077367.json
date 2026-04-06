@@ -1,10 +1,1 @@
-{
-  "internalId": 2815077367,
-  "name": "Ship in A Bottle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pirate_ship_model.png",
-  "bindType": -1,
-  "knownIds": [
-    979445
-  ]
-}
+{"internalId":2815077367,"name":"Ship in A Bottle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pirate_ship_model.png","bindType":-1,"knownIds":[979445]}

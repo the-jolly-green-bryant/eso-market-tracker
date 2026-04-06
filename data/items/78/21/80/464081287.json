@@ -1,10 +1,1 @@
-{
-  "internalId": 464081287,
-  "name": "Cloven Centurion's Scutum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    786287
-  ]
-}
+{"internalId":464081287,"name":"Cloven Centurion's Scutum","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[786287]}

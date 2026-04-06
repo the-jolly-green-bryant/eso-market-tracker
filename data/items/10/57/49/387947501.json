@@ -1,10 +1,1 @@
-{
-  "internalId": 387947501,
-  "name": "Dawnwood Basket, Antlers",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosmerbasket004.png",
-  "bindType": -1,
-  "knownIds": [
-    204697
-  ]
-}
+{"internalId":387947501,"name":"Dawnwood Basket, Antlers","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosmerbasket004.png","bindType":-1,"knownIds":[204697]}

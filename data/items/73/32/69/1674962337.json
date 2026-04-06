@@ -1,10 +1,1 @@
-{
-  "internalId": 1674962337,
-  "name": "Shipwright's Regret Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/undaunted_dungeoncoffer.png",
-  "bindType": 3,
-  "knownIds": [
-    212174
-  ]
-}
+{"internalId":1674962337,"name":"Shipwright's Regret Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/undaunted_dungeoncoffer.png","bindType":3,"knownIds":[212174]}

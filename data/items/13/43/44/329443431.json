@@ -1,10 +1,1 @@
-{
-  "internalId": 329443431,
-  "name": "Pattern: Simple Blue Banner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    119408
-  ]
-}
+{"internalId":329443431,"name":"Pattern: Simple Blue Banner","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[119408]}

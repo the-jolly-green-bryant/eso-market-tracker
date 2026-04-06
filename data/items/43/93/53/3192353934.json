@@ -1,10 +1,1 @@
-{
-  "internalId": 3192353934,
-  "name": "Fargrave Stall, Large Merchant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farmerchantstall003.png",
-  "bindType": -1,
-  "knownIds": [
-    182223
-  ]
-}
+{"internalId":3192353934,"name":"Fargrave Stall, Large Merchant","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farmerchantstall003.png","bindType":-1,"knownIds":[182223]}

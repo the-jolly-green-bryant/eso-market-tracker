@@ -1,10 +1,1 @@
-{
-  "internalId": 564203277,
-  "name": "Senche-Raht's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    148371
-  ]
-}
+{"internalId":564203277,"name":"Senche-Raht's Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[148371]}

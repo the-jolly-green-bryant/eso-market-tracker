@@ -1,10 +1,1 @@
-{
-  "internalId": 2085045063,
-  "name": "Flowers, Desert Sunrise",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_cicatrice001.png",
-  "bindType": -1,
-  "knownIds": [
-    151815
-  ]
-}
+{"internalId":2085045063,"name":"Flowers, Desert Sunrise","description":"This is a small house item.","icon":"data/images/10/0e/ci/housing_veg_els_cicatrice001.png","bindType":-1,"knownIds":[151815]}

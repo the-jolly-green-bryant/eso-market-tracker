@@ -1,10 +1,1 @@
-{
-  "internalId": 974179138,
-  "name": "Stone Tablet",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819084
-  ]
-}
+{"internalId":974179138,"name":"Stone Tablet","description":"","icon":null,"bindType":-1,"knownIds":[819084]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 306872975,
-  "name": "Stros M'Kai Treasure Map II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43692
-  ]
-}
+{"internalId":306872975,"name":"Stros M'Kai Treasure Map II","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43692]}

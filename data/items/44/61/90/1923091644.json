@@ -1,15 +1,1 @@
-{
-  "internalId": 1923091644,
-  "name": "Perfected Recovery Convergence Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1763891,
-    1768085,
-    1772868,
-    1763891,
-    1768085,
-    1772868
-  ]
-}
+{"internalId":1923091644,"name":"Perfected Recovery Convergence Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_chest_a.png","bindType":-1,"knownIds":[1763891,1768085,1772868,1763891,1768085,1772868]}

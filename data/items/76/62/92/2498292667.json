@@ -1,10 +1,1 @@
-{
-  "internalId": 2498292667,
-  "name": "Bound Affix Script: Interrupt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_interrupt.png",
-  "bindType": -1,
-  "knownIds": [
-    1721120
-  ]
-}
+{"internalId":2498292667,"name":"Bound Affix Script: Interrupt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_interrupt.png","bindType":-1,"knownIds":[1721120]}

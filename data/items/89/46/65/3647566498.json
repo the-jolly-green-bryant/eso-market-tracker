@@ -1,10 +1,1 @@
-{
-  "internalId": 3647566498,
-  "name": "All Previous Item Furnishing Crate",
-  "description": "This Crate contains all previous release's Achievement, Antiquity, and other not Collectable or Craftable furnishings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    192382
-  ]
-}
+{"internalId":3647566498,"name":"All Previous Item Furnishing Crate","description":"This Crate contains all previous release's Achievement, Antiquity, and other not Collectable or Craftable furnishings.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[192382]}

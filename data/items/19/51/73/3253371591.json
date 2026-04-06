@@ -1,10 +1,1 @@
-{
-  "internalId": 3253371591,
-  "name": "Hand of Almalexia Tapestry",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryhandofalmalexiasmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    193784
-  ]
-}
+{"internalId":3253371591,"name":"Hand of Almalexia Tapestry","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryhandofalmalexiasmall001.png","bindType":-1,"knownIds":[193784]}

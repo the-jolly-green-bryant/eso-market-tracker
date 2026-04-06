@@ -1,10 +1,1 @@
-{
-  "internalId": 3536582722,
-  "name": "Apocrypha Ink Vat, Green",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_inkcontainerlarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    198375
-  ]
-}
+{"internalId":3536582722,"name":"Apocrypha Ink Vat, Green","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_inkcontainerlarge002.png","bindType":-1,"knownIds":[198375]}

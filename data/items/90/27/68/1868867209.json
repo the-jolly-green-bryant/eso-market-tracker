@@ -1,10 +1,1 @@
-{
-  "internalId": 1868867209,
-  "name": "Stonechewer Maul",
-  "description": "Watch Captain Ernard awarded this Goblin-made weapon as thanks for removing the Stonechewer Goblin totem from Cumberland's Watch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    6871
-  ]
-}
+{"internalId":1868867209,"name":"Stonechewer Maul","description":"Watch Captain Ernard awarded this Goblin-made weapon as thanks for removing the Stonechewer Goblin totem from Cumberland's Watch.","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[6871]}

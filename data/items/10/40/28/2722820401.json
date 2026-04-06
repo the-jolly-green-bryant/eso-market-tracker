@@ -1,10 +1,1 @@
-{
-  "internalId": 2722820401,
-  "name": "Fallowstone Hall Signet Stamp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png",
-  "bindType": -1,
-  "knownIds": [
-    375566
-  ]
-}
+{"internalId":2722820401,"name":"Fallowstone Hall Signet Stamp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png","bindType":-1,"knownIds":[375566]}

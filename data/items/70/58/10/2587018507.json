@@ -1,10 +1,1 @@
-{
-  "internalId": 2587018507,
-  "name": "Crafting Motif 108: Fargrave Guardian Style",
-  "description": "Use to learn the Fargrave Guardian crafting style. Also teaches the equivalent Fargrave Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    178706
-  ]
-}
+{"internalId":2587018507,"name":"Crafting Motif 108: Fargrave Guardian Style","description":"Use to learn the Fargrave Guardian crafting style. Also teaches the equivalent Fargrave Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[178706]}

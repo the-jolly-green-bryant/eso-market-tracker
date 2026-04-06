@@ -1,17 +1,1 @@
-{
-  "internalId": 750288157,
-  "name": "Blackrose Perfected Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1410120,
-    1636650,
-    1773029,
-    1774001,
-    1410120,
-    1636650,
-    1773029,
-    1774001
-  ]
-}
+{"internalId":750288157,"name":"Blackrose Perfected Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_honorguard_staff_a.png","bindType":-1,"knownIds":[1410120,1636650,1773029,1774001,1410120,1636650,1773029,1774001]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2055589078,
-  "name": "Threads of War Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206507
-  ]
-}
+{"internalId":2055589078,"name":"Threads of War Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[206507]}

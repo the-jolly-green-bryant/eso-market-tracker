@@ -1,10 +1,1 @@
-{
-  "internalId": 440695495,
-  "name": "Battlereeve's Abyssal Gauntlets",
-  "description": "Battlereeve Tanerline awarded you these gauntlets for investigating the Sea Sload threat to Summerset.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sapiarch_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    134702
-  ]
-}
+{"internalId":440695495,"name":"Battlereeve's Abyssal Gauntlets","description":"Battlereeve Tanerline awarded you these gauntlets for investigating the Sea Sload threat to Summerset.","icon":"data/images/a_/sd/na/gear_sapiarch_heavy_hands_a.png","bindType":2,"knownIds":[134702]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1935012128,
-  "name": "Perfect Roe",
-  "description": "Beautiful and fragrant, Perfect Roe is prized by Provisioners the world over as an ingredient in the rarest of recipes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_heavy_armor_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    64222
-  ]
-}
+{"internalId":1935012128,"name":"Perfect Roe","description":"Beautiful and fragrant, Perfect Roe is prized by Provisioners the world over as an ingredient in the rarest of recipes.","icon":"data/images/20/0_/tn/crafting_heavy_armor_vendor_component_002.png","bindType":-1,"knownIds":[64222]}

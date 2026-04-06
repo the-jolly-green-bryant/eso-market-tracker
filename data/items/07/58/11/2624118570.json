@@ -1,10 +1,1 @@
-{
-  "internalId": 2624118570,
-  "name": "Antler Coral, Branched Spire",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_antlercoral003.png",
-  "bindType": -1,
-  "knownIds": [
-    134828
-  ]
-}
+{"internalId":2624118570,"name":"Antler Coral, Branched Spire","description":"This is a large house item.","icon":"data/images/30/0l/ar/housing_veg_aqa_antlercoral003.png","bindType":-1,"knownIds":[134828]}

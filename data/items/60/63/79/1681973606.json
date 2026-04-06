@@ -1,10 +1,1 @@
-{
-  "internalId": 1681973606,
-  "name": "Hircine's Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactsaviorhidemd_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77669
-  ]
-}
+{"internalId":1681973606,"name":"Hircine's Bracers","description":"","icon":"data/images/a_/sd/na/gear_artifactsaviorhidemd_hands_a.png","bindType":2,"knownIds":[77669]}

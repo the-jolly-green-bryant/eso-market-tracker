@@ -1,10 +1,1 @@
-{
-  "internalId": 957495004,
-  "name": "Forgotten Adventurer's Greatsword",
-  "description": "The balance of this blade feels strangely familiar in your hand.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    138788
-  ]
-}
+{"internalId":957495004,"name":"Forgotten Adventurer's Greatsword","description":"The balance of this blade feels strangely familiar in your hand.","icon":"data/images/a_/dr/ow/gear_altmer_2hsword_a.png","bindType":2,"knownIds":[138788]}

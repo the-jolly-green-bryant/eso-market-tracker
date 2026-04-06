@@ -1,10 +1,1 @@
-{
-  "internalId": 552688244,
-  "name": "Diagram: Ayleid Crystal Star",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    211426
-  ]
-}
+{"internalId":552688244,"name":"Diagram: Ayleid Crystal Star","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[211426]}

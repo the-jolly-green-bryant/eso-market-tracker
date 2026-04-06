@@ -1,17 +1,1 @@
-{
-  "internalId": 3502921365,
-  "name": "Dolorous Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756233,
-    1756845,
-    1756908,
-    1757092,
-    1758671,
-    1764508,
-    1771339,
-    1773344
-  ]
-}
+{"internalId":3502921365,"name":"Dolorous Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_feet_a.png","bindType":-1,"knownIds":[1756233,1756845,1756908,1757092,1758671,1764508,1771339,1773344]}

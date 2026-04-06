@@ -1,10 +1,1 @@
-{
-  "internalId": 1839988631,
-  "name": "Stibbons's Misplaced Sash",
-  "description": "A small note within this worn belt reads: \"To Stibbons, for five years of entirely adequate service. —Laurent\"",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1744
-  ]
-}
+{"internalId":1839988631,"name":"Stibbons's Misplaced Sash","description":"A small note within this worn belt reads: \"To Stibbons, for five years of entirely adequate service. —Laurent\"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[1744]}

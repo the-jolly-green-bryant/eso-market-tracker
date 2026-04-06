@@ -1,10 +1,1 @@
-{
-  "internalId": 3429578507,
-  "name": "Ghamborz's Rough Leggings",
-  "description": "This Orc armor was your reward for finding and returning mining samples.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159724
-  ]
-}
+{"internalId":3429578507,"name":"Ghamborz's Rough Leggings","description":"This Orc armor was your reward for finding and returning mining samples.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_legs_d.png","bindType":2,"knownIds":[159724]}

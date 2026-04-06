@@ -1,10 +1,1 @@
-{
-  "internalId": 3733078595,
-  "name": "Guards of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95802
-  ]
-}
+{"internalId":3733078595,"name":"Guards of the Air","description":"","icon":"data/images/a_/sg/el/gear_yokudan_medium_legs_a.png","bindType":2,"knownIds":[95802]}

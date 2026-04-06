@@ -1,15 +1,1 @@
-{
-  "internalId": 4127568433,
-  "name": "Healing Staff of Thorn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": -1,
-  "knownIds": [
-    823143,
-    885914,
-    823143,
-    885914,
-    823143,
-    885914
-  ]
-}
+{"internalId":4127568433,"name":"Healing Staff of Thorn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png","bindType":-1,"knownIds":[823143,885914,823143,885914,823143,885914]}

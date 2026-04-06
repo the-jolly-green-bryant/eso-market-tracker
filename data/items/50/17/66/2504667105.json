@@ -1,10 +1,1 @@
-{
-  "internalId": 2504667105,
-  "name": "Frosted Brains",
-  "description": "Candy-coated jellied brains on a convenient stick for eating on the go.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_candy_brain.png",
-  "bindType": -1,
-  "knownIds": [
-    87696
-  ]
-}
+{"internalId":2504667105,"name":"Frosted Brains","description":"Candy-coated jellied brains on a convenient stick for eating on the go.","icon":"data/images/ni/ar/b_/event_halloween_2016_candy_brain.png","bindType":-1,"knownIds":[87696]}

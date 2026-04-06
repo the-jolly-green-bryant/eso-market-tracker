@@ -1,10 +1,1 @@
-{
-  "internalId": 2322561147,
-  "name": "Flowers, Daedra Thorn",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_devilsthorn003.png",
-  "bindType": -1,
-  "knownIds": [
-    151817
-  ]
-}
+{"internalId":2322561147,"name":"Flowers, Daedra Thorn","description":"This is a tiny house item.","icon":"data/images/30/0n/ro/housing_veg_els_devilsthorn003.png","bindType":-1,"knownIds":[151817]}

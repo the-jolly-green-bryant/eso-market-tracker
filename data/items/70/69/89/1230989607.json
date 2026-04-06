@@ -1,10 +1,1 @@
-{
-  "internalId": 1230989607,
-  "name": "Impregnable Armor Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125974
-  ]
-}
+{"internalId":1230989607,"name":"Impregnable Armor Belt","description":"","icon":"data/images/a_/ts/ia/gear_ordinator_medium_waist_a.png","bindType":2,"knownIds":[125974]}

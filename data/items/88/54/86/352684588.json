@@ -1,10 +1,1 @@
-{
-  "internalId": 352684588,
-  "name": "Pirate Perch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
-  "bindType": -1,
-  "knownIds": [
-    824074
-  ]
-}
+{"internalId":352684588,"name":"Pirate Perch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png","bindType":-1,"knownIds":[824074]}

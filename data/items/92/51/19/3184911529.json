@@ -1,10 +1,1 @@
-{
-  "internalId": 3184911529,
-  "name": "Paint-Stained Ring",
-  "description": "A ring covered with small flecks of paint from the town of Black Heights.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    153839
-  ]
-}
+{"internalId":3184911529,"name":"Paint-Stained Ring","description":"A ring covered with small flecks of paint from the town of Black Heights.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[153839]}

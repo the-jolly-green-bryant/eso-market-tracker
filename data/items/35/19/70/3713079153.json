@@ -1,10 +1,1 @@
-{
-  "internalId": 3713079153,
-  "name": "Akaviri Armistice Banquet Tray",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_akaviri_armistice_banquet_tray.png",
-  "bindType": -1,
-  "knownIds": [
-    860381
-  ]
-}
+{"internalId":3713079153,"name":"Akaviri Armistice Banquet Tray","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_akaviri_armistice_banquet_tray.png","bindType":-1,"knownIds":[860381]}

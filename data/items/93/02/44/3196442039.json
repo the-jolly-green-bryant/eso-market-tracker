@@ -1,10 +1,1 @@
-{
-  "internalId": 3196442039,
-  "name": "Second Cohort Orders",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    825105
-  ]
-}
+{"internalId":3196442039,"name":"Second Cohort Orders","description":"","icon":null,"bindType":-1,"knownIds":[825105]}

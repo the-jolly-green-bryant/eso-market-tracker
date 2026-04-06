@@ -1,10 +1,1 @@
-{
-  "internalId": 2444552708,
-  "name": "Never-Wet Whetstone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_plug_standard_f_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909253
-  ]
-}
+{"internalId":2444552708,"name":"Never-Wet Whetstone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_smith_plug_standard_f_001.png","bindType":-1,"knownIds":[909253]}

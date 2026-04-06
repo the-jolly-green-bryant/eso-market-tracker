@@ -1,13 +1,1 @@
-{
-  "internalId": 620477851,
-  "name": "Thelas' Soul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    712282,
-    519681,
-    712282,
-    519681
-  ]
-}
+{"internalId":620477851,"name":"Thelas' Soul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png","bindType":-1,"knownIds":[712282,519681,712282,519681]}

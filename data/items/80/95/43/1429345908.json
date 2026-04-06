@@ -1,10 +1,1 @@
-{
-  "internalId": 1429345908,
-  "name": "Frostbind of the Hollow Crown",
-  "description": "Carved in the image of a prince who lost everything, this staff radiates the chill of a forgotten crown.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223674
-  ]
-}
+{"internalId":1429345908,"name":"Frostbind of the Hollow Crown","description":"Carved in the image of a prince who lost everything, this staff radiates the chill of a forgotten crown.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png","bindType":2,"knownIds":[223674]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 789695825,
-  "name": "Orcish Shelf, Short",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgshelfshort001.png",
-  "bindType": -1,
-  "knownIds": [
-    116365
-  ]
-}
+{"internalId":789695825,"name":"Orcish Shelf, Short","description":"This is a small house item.","icon":"data/images/10/0t/ro/housing_orc_fur_wtgshelfshort001.png","bindType":-1,"knownIds":[116365]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2620598371,
-  "name": "Snake-Sword Hilt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    1152106
-  ]
-}
+{"internalId":2620598371,"name":"Snake-Sword Hilt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[1152106]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3717158238,
-  "name": "Farstrider Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211909
-  ]
-}
+{"internalId":3717158238,"name":"Farstrider Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_chest_a.png","bindType":2,"knownIds":[211909]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 433509246,
-  "name": "Congealed Tomato Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37877
-  ]
-}
+{"internalId":433509246,"name":"Congealed Tomato Soup","description":"","icon":"data/images/10/0_/pu/crafting_soup_001.png","bindType":-1,"knownIds":[37877]}

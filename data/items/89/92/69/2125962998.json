@@ -1,10 +1,1 @@
-{
-  "internalId": 2125962998,
-  "name": "Legacy of Karth Light Armor",
-  "description": "A Crafted Armor set constructed in the Reach.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182877
-  ]
-}
+{"internalId":2125962998,"name":"Legacy of Karth Light Armor","description":"A Crafted Armor set constructed in the Reach.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182877]}

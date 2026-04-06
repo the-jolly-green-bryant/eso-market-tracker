@@ -1,10 +1,1 @@
-{
-  "internalId": 862274379,
-  "name": "Murkmire Pedestal, Winged",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_run_detail001.png",
-  "bindType": -1,
-  "knownIds": [
-    145338
-  ]
-}
+{"internalId":862274379,"name":"Murkmire Pedestal, Winged","description":"This is a standard house item.","icon":"data/images/10/0l/ia/housing_arg_run_detail001.png","bindType":-1,"knownIds":[145338]}

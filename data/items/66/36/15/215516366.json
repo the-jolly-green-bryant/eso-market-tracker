@@ -1,10 +1,1 @@
-{
-  "internalId": 215516366,
-  "name": "Arkay Meditation Beads",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_beads_001.png",
-  "bindType": -1,
-  "knownIds": [
-    422190
-  ]
-}
+{"internalId":215516366,"name":"Arkay Meditation Beads","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_beads_001.png","bindType":-1,"knownIds":[422190]}

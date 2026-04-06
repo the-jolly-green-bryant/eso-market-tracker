@@ -1,10 +1,1 @@
-{
-  "internalId": 4071214801,
-  "name": "Fish, Trout",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_fish001.png",
-  "bindType": -1,
-  "knownIds": [
-    118337
-  ]
-}
+{"internalId":4071214801,"name":"Fish, Trout","description":"This is a tiny house item.","icon":"data/images/10/0h/si/housing_gen_exc_fish001.png","bindType":-1,"knownIds":[118337]}

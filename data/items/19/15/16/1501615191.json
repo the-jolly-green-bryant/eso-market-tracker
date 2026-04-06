@@ -1,10 +1,1 @@
-{
-  "internalId": 1501615191,
-  "name": "Craglorn Chair, Serpent",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_fur_chair001.png",
-  "bindType": -1,
-  "knownIds": [
-    120842
-  ]
-}
+{"internalId":1501615191,"name":"Craglorn Chair, Serpent","description":"This is a standard house item.","icon":"data/images/10/0r/ia/housing_cra_fur_chair001.png","bindType":-1,"knownIds":[120842]}

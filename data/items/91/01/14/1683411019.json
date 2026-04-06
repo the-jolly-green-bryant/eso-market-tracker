@@ -1,10 +1,1 @@
-{
-  "internalId": 1683411019,
-  "name": "Bow of Salvation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85600
-  ]
-}
+{"internalId":1683411019,"name":"Bow of Salvation","description":"","icon":"data/images/d_/wo/b_/gear_altmer_bow_d.png","bindType":2,"knownIds":[85600]}

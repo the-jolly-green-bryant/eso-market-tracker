@@ -1,10 +1,1 @@
-{
-  "internalId": 3535209082,
-  "name": "Ebon Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77826
-  ]
-}
+{"internalId":3535209082,"name":"Ebon Maul","description":"","icon":"data/images/a_/re/mm/gear_soulshriven_2hhammer_a.png","bindType":2,"knownIds":[77826]}

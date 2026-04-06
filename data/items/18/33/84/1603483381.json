@@ -1,10 +1,1 @@
-{
-  "internalId": 1603483381,
-  "name": "Horker's Breath Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    596776
-  ]
-}
+{"internalId":1603483381,"name":"Horker's Breath Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[596776]}

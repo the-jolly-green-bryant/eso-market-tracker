@@ -1,10 +1,1 @@
-{
-  "internalId": 382846909,
-  "name": "Sapphire-Studded Book Bag",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
-  "bindType": -1,
-  "knownIds": [
-    383925
-  ]
-}
+{"internalId":382846909,"name":"Sapphire-Studded Book Bag","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png","bindType":-1,"knownIds":[383925]}

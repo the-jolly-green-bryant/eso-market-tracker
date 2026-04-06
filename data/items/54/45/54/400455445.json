@@ -1,10 +1,1 @@
-{
-  "internalId": 400455445,
-  "name": "Ring of Truth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    89077
-  ]
-}
+{"internalId":400455445,"name":"Ring of Truth","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[89077]}

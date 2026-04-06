@@ -1,10 +1,1 @@
-{
-  "internalId": 3589385347,
-  "name": "Alinor Jewelry Box, Octagonal",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_decorbox004.png",
-  "bindType": -1,
-  "knownIds": [
-    139247
-  ]
-}
+{"internalId":3589385347,"name":"Alinor Jewelry Box, Octagonal","description":"This is a tiny house item.","icon":"data/images/40/0x/ob/housing_sum_inc_decorbox004.png","bindType":-1,"knownIds":[139247]}

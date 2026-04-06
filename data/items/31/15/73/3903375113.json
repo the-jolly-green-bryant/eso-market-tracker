@@ -1,10 +1,1 @@
-{
-  "internalId": 3903375113,
-  "name": "Recipe: Yellow Goblin Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46042
-  ]
-}
+{"internalId":3903375113,"name":"Recipe: Yellow Goblin Tonic","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46042]}

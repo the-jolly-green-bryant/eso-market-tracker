@@ -1,10 +1,1 @@
-{
-  "internalId": 3217246798,
-  "name": "Apple-Bobbing Cold Iron Cauldron",
-  "description": "This is one of seven parts of the Apple-Bobbing Cauldron Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_cauldronlarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    153487
-  ]
-}
+{"internalId":3217246798,"name":"Apple-Bobbing Cold Iron Cauldron","description":"This is one of seven parts of the Apple-Bobbing Cauldron Runebox.","icon":"data/images/20/0e/gr/housing_bre_cmp_cauldronlarge002.png","bindType":-1,"knownIds":[153487]}

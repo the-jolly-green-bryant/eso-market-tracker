@@ -1,10 +1,1 @@
-{
-  "internalId": 793138783,
-  "name": "Vvardenfell Glowstalk, Strong",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_lightstalk002.png",
-  "bindType": -1,
-  "knownIds": [
-    126585
-  ]
-}
+{"internalId":793138783,"name":"Vvardenfell Glowstalk, Strong","description":"This is a standard house item.","icon":"data/images/20/0k/la/housing_veg_fug_lightstalk002.png","bindType":-1,"knownIds":[126585]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1752144567,
-  "name": "Iron Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    178792
-  ]
-}
+{"internalId":1752144567,"name":"Iron Dagger","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150812]}

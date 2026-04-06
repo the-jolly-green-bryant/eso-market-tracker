@@ -1,10 +1,1 @@
-{
-  "internalId": 870321315,
-  "name": "Jewelry: Azureblight Reaper",
-  "description": "A Medium Armor set found in Lair of Maarselok.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    153768
-  ]
-}
+{"internalId":870321315,"name":"Jewelry: Azureblight Reaper","description":"A Medium Armor set found in Lair of Maarselok.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[153768]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2829574991,
-  "name": "Bracers of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79181
-  ]
-}
+{"internalId":2829574991,"name":"Bracers of Imperial Physique","description":"","icon":"data/images/a_/sd/na/gear_ooth_medium_hands_a.png","bindType":2,"knownIds":[79181]}

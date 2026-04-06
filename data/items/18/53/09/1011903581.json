@@ -1,10 +1,1 @@
-{
-  "internalId": 1011903581,
-  "name": "Solitude Smoking Rack, Fish",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_fishwallrack001.png",
-  "bindType": -1,
-  "knownIds": [
-    167341
-  ]
-}
+{"internalId":1011903581,"name":"Solitude Smoking Rack, Fish","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_fishwallrack001.png","bindType":-1,"knownIds":[167341]}

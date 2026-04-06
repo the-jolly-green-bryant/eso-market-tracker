@@ -1,10 +1,1 @@
-{
-  "internalId": 94219956,
-  "name": "Karth's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168719
-  ]
-}
+{"internalId":94219956,"name":"Karth's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[168719]}

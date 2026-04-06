@@ -1,10 +1,1 @@
-{
-  "internalId": 677347356,
-  "name": "Crafting Motif 34: Assassins League Belts",
-  "description": "Use to learn how to make Assassins League Belts. Also teaches the equivalent Assassins League Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    76880
-  ]
-}
+{"internalId":677347356,"name":"Crafting Motif 34: Assassins League Belts","description":"Use to learn how to make Assassins League Belts. Also teaches the equivalent Assassins League Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[76880]}

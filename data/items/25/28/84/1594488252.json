@@ -1,10 +1,1 @@
-{
-  "internalId": 1594488252,
-  "name": "Blueprint: Alinor Bookcase, Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    139542
-  ]
-}
+{"internalId":1594488252,"name":"Blueprint: Alinor Bookcase, Polished","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[139542]}

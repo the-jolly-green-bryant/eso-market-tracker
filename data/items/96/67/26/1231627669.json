@@ -1,10 +1,1 @@
-{
-  "internalId": 1231627669,
-  "name": "Nord Bed, Canopy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_bedcanopy002.png",
-  "bindType": -1,
-  "knownIds": [
-    115399
-  ]
-}
+{"internalId":1231627669,"name":"Nord Bed, Canopy","description":"This is a standard house item.","icon":"data/images/20/0y/po/housing_nor_fur_bedcanopy002.png","bindType":-1,"knownIds":[115399]}

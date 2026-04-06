@@ -1,10 +1,1 @@
-{
-  "internalId": 3315682319,
-  "name": "Diagram: Dwarven Plate, Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    171507
-  ]
-}
+{"internalId":3315682319,"name":"Diagram: Dwarven Plate, Polished","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[171507]}

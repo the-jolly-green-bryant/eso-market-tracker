@@ -1,10 +1,1 @@
-{
-  "internalId": 1561070354,
-  "name": "Dawnwood Fence, Leather",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosfencegate001.png",
-  "bindType": -1,
-  "knownIds": [
-    212397
-  ]
-}
+{"internalId":1561070354,"name":"Dawnwood Fence, Leather","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosfencegate001.png","bindType":-1,"knownIds":[212397]}

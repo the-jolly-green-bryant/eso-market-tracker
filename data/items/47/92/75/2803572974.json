@@ -1,10 +1,1 @@
-{
-  "internalId": 2803572974,
-  "name": "Recipe: Crawdad Quiche",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57000
-  ]
-}
+{"internalId":2803572974,"name":"Recipe: Crawdad Quiche","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57000]}

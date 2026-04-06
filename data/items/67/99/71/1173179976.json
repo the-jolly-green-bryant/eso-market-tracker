@@ -1,10 +1,1 @@
-{
-  "internalId": 1173179976,
-  "name": "Raw Ironweed",
-  "description": "Ten of these items can be refined to make ironthread.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_ironweed.png",
-  "bindType": -1,
-  "knownIds": [
-    33218
-  ]
-}
+{"internalId":1173179976,"name":"Raw Ironweed","description":"Ten of these items can be refined to make ironthread.","icon":"data/images/de/ew/no/crafting_flower_ironweed.png","bindType":-1,"knownIds":[33218]}

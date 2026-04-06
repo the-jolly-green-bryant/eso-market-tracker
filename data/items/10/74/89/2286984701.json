@@ -1,10 +1,1 @@
-{
-  "internalId": 2286984701,
-  "name": "Stuhn's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161582
-  ]
-}
+{"internalId":2286984701,"name":"Stuhn's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[161582]}

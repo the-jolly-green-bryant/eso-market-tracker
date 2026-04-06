@@ -1,10 +1,1 @@
-{
-  "internalId": 544835500,
-  "name": "Style Page: Horned Dragon Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1290491
-  ]
-}
+{"internalId":544835500,"name":"Style Page: Horned Dragon Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1290491]}

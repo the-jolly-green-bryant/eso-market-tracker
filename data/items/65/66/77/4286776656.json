@@ -1,10 +1,1 @@
-{
-  "internalId": 4286776656,
-  "name": "Plume Dazzler",
-  "description": "This unstable alchemical concoction creates two small plumes of sparks in front of you when used.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_dazzler_003.png",
-  "bindType": -1,
-  "knownIds": [
-    114947
-  ]
-}
+{"internalId":4286776656,"name":"Plume Dazzler","description":"This unstable alchemical concoction creates two small plumes of sparks in front of you when used.","icon":"data/images/30/0_/re/event_jestersfestival_2016_dazzler_003.png","bindType":-1,"knownIds":[114947]}

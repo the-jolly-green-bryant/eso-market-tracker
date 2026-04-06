@@ -1,13 +1,1 @@
-{
-  "internalId": 3649610954,
-  "name": "Huge Mammoth's Tooth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_giant_molar.png",
-  "bindType": -1,
-  "knownIds": [
-    799367,
-    1327146,
-    799367,
-    1327146
-  ]
-}
+{"internalId":3649610954,"name":"Huge Mammoth's Tooth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_giant_molar.png","bindType":-1,"knownIds":[799367,1327146,799367,1327146]}

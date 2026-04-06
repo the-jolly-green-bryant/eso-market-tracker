@@ -1,10 +1,1 @@
-{
-  "internalId": 4071686111,
-  "name": "Impregnable Armor Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125964
-  ]
-}
+{"internalId":4071686111,"name":"Impregnable Armor Breeches","description":"","icon":"data/images/a_/sg/el/gear_ordinator_light_legs_a.png","bindType":2,"knownIds":[125964]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4260714125,
-  "name": "Fargrave Ham",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodham001.png",
-  "bindType": -1,
-  "knownIds": [
-    182228
-  ]
-}
+{"internalId":4260714125,"name":"Fargrave Ham","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodham001.png","bindType":-1,"knownIds":[182228]}

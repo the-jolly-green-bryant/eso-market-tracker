@@ -1,10 +1,1 @@
-{
-  "internalId": 814026859,
-  "name": "Tide-Born Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215848
-  ]
-}
+{"internalId":814026859,"name":"Tide-Born Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[215848]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1454294410,
-  "name": "Weapons: Berserking Warrior",
-  "description": "A Heavy Armor set found in the Hel Ra Citadel Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114252
-  ]
-}
+{"internalId":1454294410,"name":"Weapons: Berserking Warrior","description":"A Heavy Armor set found in the Hel Ra Citadel Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114252]}

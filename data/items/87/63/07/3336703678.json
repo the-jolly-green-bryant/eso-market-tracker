@@ -1,10 +1,1 @@
-{
-  "internalId": 3336703678,
-  "name": "Vanguard's Challenge Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123325
-  ]
-}
+{"internalId":3336703678,"name":"Vanguard's Challenge Greaves","description":"","icon":"data/images/a_/sg/el/gear_ordinator_heavy_legs_a.png","bindType":2,"knownIds":[123325]}

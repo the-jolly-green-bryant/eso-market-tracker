@@ -1,10 +1,1 @@
-{
-  "internalId": 1539499512,
-  "name": "Briarheart Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_snowreach_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129837
-  ]
-}
+{"internalId":1539499512,"name":"Briarheart Boots","description":"","icon":"data/images/a_/te/ef/gear_snowreach_medium_feet_a.png","bindType":2,"knownIds":[129837]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2280768245,
-  "name": "Luminescence Painting, Brass",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting008.png",
-  "bindType": -1,
-  "knownIds": [
-    166444
-  ]
-}
+{"internalId":2280768245,"name":"Luminescence Painting, Brass","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting008.png","bindType":-1,"knownIds":[166444]}

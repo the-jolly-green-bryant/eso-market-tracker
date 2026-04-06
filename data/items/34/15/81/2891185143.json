@@ -1,10 +1,1 @@
-{
-  "internalId": 2891185143,
-  "name": "Blueprint: Wood Carving, Dog",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    197763
-  ]
-}
+{"internalId":2891185143,"name":"Blueprint: Wood Carving, Dog","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[197763]}

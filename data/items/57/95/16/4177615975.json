@@ -1,10 +1,1 @@
-{
-  "internalId": 4177615975,
-  "name": "Jack of the Valiant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92784
-  ]
-}
+{"internalId":4177615975,"name":"Jack of the Valiant","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[92784]}

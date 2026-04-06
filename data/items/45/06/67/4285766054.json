@@ -1,10 +1,1 @@
-{
-  "internalId": 4285766054,
-  "name": "Bound Gold Coast Spellcaster Elixir",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpotion_spellcaster.png",
-  "bindType": 3,
-  "knownIds": [
-    135125
-  ]
-}
+{"internalId":4285766054,"name":"Bound Gold Coast Spellcaster Elixir","description":"","icon":"data/images/re/ts/ac/crownpotion_spellcaster.png","bindType":3,"knownIds":[135125]}

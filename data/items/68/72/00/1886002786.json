@@ -1,10 +1,1 @@
-{
-  "internalId": 1886002786,
-  "name": "Weapons: Combat Physician",
-  "description": "A Light Armor set found in Wayrest Sewers.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134181
-  ]
-}
+{"internalId":1886002786,"name":"Weapons: Combat Physician","description":"A Light Armor set found in Wayrest Sewers.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134181]}

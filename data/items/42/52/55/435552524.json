@@ -1,10 +1,1 @@
-{
-  "internalId": 435552524,
-  "name": "Brotherhood Tapestry, Small",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhsantuarytap002.png",
-  "bindType": -1,
-  "knownIds": [
-    134845
-  ]
-}
+{"internalId":435552524,"name":"Brotherhood Tapestry, Small","description":"This is a standard house item.","icon":"data/images/20/0p/at/housing_col_inc_dbhsantuarytap002.png","bindType":-1,"knownIds":[134845]}

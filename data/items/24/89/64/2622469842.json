@@ -1,10 +1,1 @@
-{
-  "internalId": 2622469842,
-  "name": "Crafting Motif 136: Voskrona Guardian Swords",
-  "description": "Use to learn how to make Voskrona Guardian Swords. Also teaches the equivalent Voskrona Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    212455
-  ]
-}
+{"internalId":2622469842,"name":"Crafting Motif 136: Voskrona Guardian Swords","description":"Use to learn how to make Voskrona Guardian Swords. Also teaches the equivalent Voskrona Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[212455]}

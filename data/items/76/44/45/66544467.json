@@ -1,10 +1,1 @@
-{
-  "internalId": 66544467,
-  "name": "Braised Sweetmeats",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33796
-  ]
-}
+{"internalId":66544467,"name":"Braised Sweetmeats","description":"","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[33796]}

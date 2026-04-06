@@ -1,10 +1,1 @@
-{
-  "internalId": 956526084,
-  "name": "Jack of Tava's Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72114
-  ]
-}
+{"internalId":956526084,"name":"Jack of Tava's Favor","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[72114]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2009429793,
-  "name": "New Life Festival Grab Bag",
-  "description": "This container will award New Life Festival contents from years past which are no longer available.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/zonebag.png",
-  "bindType": 3,
-  "knownIds": [
-    203090
-  ]
-}
+{"internalId":2009429793,"name":"New Life Festival Grab Bag","description":"This container will award New Life Festival contents from years past which are no longer available.","icon":"https://esoicons.uesp.net/esoui/art/icons/zonebag.png","bindType":3,"knownIds":[203090]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1073375759,
-  "name": "Orcish Drop Hammer, Repeating",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_str_blacksmithhammer001.png",
-  "bindType": -1,
-  "knownIds": [
-    116518
-  ]
-}
+{"internalId":1073375759,"name":"Orcish Drop Hammer, Repeating","description":"This is a large house item.","icon":"data/images/10/0r/em/housing_orc_str_blacksmithhammer001.png","bindType":-1,"knownIds":[116518]}

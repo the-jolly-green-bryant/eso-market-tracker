@@ -1,10 +1,1 @@
-{
-  "internalId": 1498345904,
-  "name": "Antique Spyglass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spyglass_001.png",
-  "bindType": -1,
-  "knownIds": [
-    813295
-  ]
-}
+{"internalId":1498345904,"name":"Antique Spyglass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spyglass_001.png","bindType":-1,"knownIds":[813295]}

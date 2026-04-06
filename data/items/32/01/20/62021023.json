@@ -1,10 +1,1 @@
-{
-  "internalId": 62021023,
-  "name": "Lightning Staff of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95795
-  ]
-}
+{"internalId":62021023,"name":"Lightning Staff of the Air","description":"","icon":"data/images/a_/ff/at/gear_yokudan_staff_a.png","bindType":2,"knownIds":[95795]}

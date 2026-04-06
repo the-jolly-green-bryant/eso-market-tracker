@@ -1,10 +1,1 @@
-{
-  "internalId": 3627923251,
-  "name": "Langour of Peryite Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1631268
-  ]
-}
+{"internalId":3627923251,"name":"Langour of Peryite Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":-1,"knownIds":[1631268]}

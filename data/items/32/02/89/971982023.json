@@ -1,13 +1,1 @@
-{
-  "internalId": 971982023,
-  "name": "Umbral Edge Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731605,
-    1740379,
-    1731605,
-    1740379
-  ]
-}
+{"internalId":971982023,"name":"Umbral Edge Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_chest_a.png","bindType":-1,"knownIds":[1731605,1740379,1731605,1740379]}

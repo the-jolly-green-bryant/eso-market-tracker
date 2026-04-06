@@ -1,10 +1,1 @@
-{
-  "internalId": 4278471130,
-  "name": "Crafting Motif 59: Scalecaller Style",
-  "description": "Use to learn the Scalecaller crafting style. Also teaches the equivalent Scalecaller outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    134771
-  ]
-}
+{"internalId":4278471130,"name":"Crafting Motif 59: Scalecaller Style","description":"Use to learn the Scalecaller crafting style. Also teaches the equivalent Scalecaller outfit styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[134771]}

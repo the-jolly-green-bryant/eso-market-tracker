@@ -1,10 +1,1 @@
-{
-  "internalId": 2061993439,
-  "name": "Destructive Mage",
-  "description": "A Light Armor set found in the Hel Ra Citadel Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114244
-  ]
-}
+{"internalId":2061993439,"name":"Destructive Mage","description":"A Light Armor set found in the Hel Ra Citadel Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114244]}

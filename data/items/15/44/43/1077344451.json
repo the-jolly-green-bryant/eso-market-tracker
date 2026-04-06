@@ -1,10 +1,1 @@
-{
-  "internalId": 1077344451,
-  "name": "Cloud Mist",
-  "description": "An ingredient for crafting Champion potions.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_4_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    23268
-  ]
-}
+{"internalId":1077344451,"name":"Cloud Mist","description":"An ingredient for crafting Champion potions.","icon":"data/images/1r/_4/_r/crafting_potion_base_water_4_r1.png","bindType":-1,"knownIds":[23268]}

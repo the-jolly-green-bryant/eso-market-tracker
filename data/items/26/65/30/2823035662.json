@@ -1,10 +1,1 @@
-{
-  "internalId": 2823035662,
-  "name": "Alchemist Survey: Glenumbra",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    390248
-  ]
-}
+{"internalId":2823035662,"name":"Alchemist Survey: Glenumbra","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[390248]}

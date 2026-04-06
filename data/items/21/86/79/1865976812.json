@@ -1,10 +1,1 @@
-{
-  "internalId": 1865976812,
-  "name": "Thousand Eyes Banner, Large Hanging",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farthousandeyesbannerhanging003.png",
-  "bindType": -1,
-  "knownIds": [
-    224089
-  ]
-}
+{"internalId":1865976812,"name":"Thousand Eyes Banner, Large Hanging","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farthousandeyesbannerhanging003.png","bindType":-1,"knownIds":[224089]}

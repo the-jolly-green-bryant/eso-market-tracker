@@ -1,10 +1,1 @@
-{
-  "internalId": 230313139,
-  "name": "Radius",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    820567
-  ]
-}
+{"internalId":230313139,"name":"Radius","description":"","icon":null,"bindType":-1,"knownIds":[820567]}

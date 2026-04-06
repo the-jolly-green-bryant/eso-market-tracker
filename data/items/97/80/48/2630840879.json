@@ -1,10 +1,1 @@
-{
-  "internalId": 2630840879,
-  "name": "Ancient Iridium Plating",
-  "description": "Grants 10 Iridium Plating when claimed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_dingy_iridium.png",
-  "bindType": -1,
-  "knownIds": [
-    135148
-  ]
-}
+{"internalId":2630840879,"name":"Ancient Iridium Plating","description":"Grants 10 Iridium Plating when claimed.","icon":"data/images/mu/id/ir/jewelrycrafting_booster_dingy_iridium.png","bindType":-1,"knownIds":[135148]}

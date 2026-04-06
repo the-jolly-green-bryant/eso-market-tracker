@@ -1,11 +1,1 @@
-{
-  "internalId": 4240734264,
-  "name": "Beetle Puffs Pastry Pan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pan_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851286,
-    851286
-  ]
-}
+{"internalId":4240734264,"name":"Beetle Puffs Pastry Pan","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pan_001.png","bindType":-1,"knownIds":[851286,851286]}

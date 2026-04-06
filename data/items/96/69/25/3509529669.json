@@ -1,18 +1,1 @@
-{
-  "internalId": 3509529669,
-  "name": "cotton epaulets of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    720494,
-    462121,
-    635633,
-    643067,
-    791274,
-    788712,
-    871593,
-    893849,
-    1129373
-  ]
-}
+{"internalId":3509529669,"name":"cotton epaulets of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png","bindType":-1,"knownIds":[720494,462121,635633,643067,791274,788712,871593,893849,1129373]}

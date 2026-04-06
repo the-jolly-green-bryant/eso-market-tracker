@@ -1,10 +1,1 @@
-{
-  "internalId": 1542498102,
-  "name": "Coldharbour Fountain",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_housingfountain001.png",
-  "bindType": -1,
-  "knownIds": [
-    218010
-  ]
-}
+{"internalId":1542498102,"name":"Coldharbour Fountain","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_housingfountain001.png","bindType":-1,"knownIds":[218010]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1505315921,
-  "name": "Pangrit Denmother's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600671,
-    1616209,
-    1772307,
-    1600671,
-    1616209,
-    1772307
-  ]
-}
+{"internalId":1505315921,"name":"Pangrit Denmother's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1600671,1616209,1772307,1600671,1616209,1772307]}

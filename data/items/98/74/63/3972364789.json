@@ -1,10 +1,1 @@
-{
-  "internalId": 3972364789,
-  "name": "Maul of Night's Silence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56177
-  ]
-}
+{"internalId":3972364789,"name":"Maul of Night's Silence","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[56177]}

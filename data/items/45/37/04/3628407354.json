@@ -1,10 +1,1 @@
-{
-  "internalId": 3628407354,
-  "name": "Pyandonean Fork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1159787
-  ]
-}
+{"internalId":3628407354,"name":"Pyandonean Fork","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[1159787]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 734958445,
-  "name": "Ansuul's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1647506,
-    1655540,
-    1647506,
-    1655540
-  ]
-}
+{"internalId":734958445,"name":"Ansuul's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png","bindType":-1,"knownIds":[1647506,1655540,1647506,1655540]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2155535195,
-  "name": "Alchemical Supplies",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    825228
-  ]
-}
+{"internalId":2155535195,"name":"Alchemical Supplies","description":"","icon":null,"bindType":-1,"knownIds":[825228]}

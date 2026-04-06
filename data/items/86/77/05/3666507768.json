@@ -1,10 +1,1 @@
-{
-  "internalId": 3666507768,
-  "name": "Whisker Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1336522
-  ]
-}
+{"internalId":3666507768,"name":"Whisker Wax","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png","bindType":-1,"knownIds":[1336522]}

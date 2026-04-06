@@ -1,10 +1,1 @@
-{
-  "internalId": 621158705,
-  "name": "Lava-Charred Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    542195
-  ]
-}
+{"internalId":621158705,"name":"Lava-Charred Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_legs_d.png","bindType":-1,"knownIds":[542195]}

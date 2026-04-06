@@ -1,10 +1,1 @@
-{
-  "internalId": 2640127261,
-  "name": "Yew Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    178779
-  ]
-}
+{"internalId":2640127261,"name":"Yew Inferno Staff","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150788]}

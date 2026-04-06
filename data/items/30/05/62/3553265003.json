@@ -1,10 +1,1 @@
-{
-  "internalId": 3553265003,
-  "name": "Ring of Agility",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    69389
-  ]
-}
+{"internalId":3553265003,"name":"Ring of Agility","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[69389]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1684262475,
-  "name": "Weapons: Explosive Rebuke",
-  "description": "A Heavy Armor set found in Vateshran Hollows.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    169619
-  ]
-}
+{"internalId":1684262475,"name":"Weapons: Explosive Rebuke","description":"A Heavy Armor set found in Vateshran Hollows.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[169619]}

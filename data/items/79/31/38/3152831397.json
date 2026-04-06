@@ -1,10 +1,1 @@
-{
-  "internalId": 3152831397,
-  "name": "Dragonbone Comb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804288
-  ]
-}
+{"internalId":3152831397,"name":"Dragonbone Comb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[804288]}

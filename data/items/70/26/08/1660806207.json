@@ -1,10 +1,1 @@
-{
-  "internalId": 1660806207,
-  "name": "Mudcrab Mace-Ladle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1383850
-  ]
-}
+{"internalId":1660806207,"name":"Mudcrab Mace-Ladle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[1383850]}

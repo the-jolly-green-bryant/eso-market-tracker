@@ -1,10 +1,1 @@
-{
-  "internalId": 2811589879,
-  "name": "Nord Streetlamps, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_lamppost001.png",
-  "bindType": -1,
-  "knownIds": [
-    115417
-  ]
-}
+{"internalId":2811589879,"name":"Nord Streetlamps, Stone","description":"This is a large house item.","icon":"data/images/10/0t/so/housing_nor_lsb_lamppost001.png","bindType":-1,"knownIds":[115417]}

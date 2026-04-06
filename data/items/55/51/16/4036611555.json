@@ -1,10 +1,1 @@
-{
-  "internalId": 4036611555,
-  "name": "Bounty Sheet: Khajiiti Male",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_wantedposterscrollkhajiit001.png",
-  "bindType": -1,
-  "knownIds": [
-    118713
-  ]
-}
+{"internalId":4036611555,"name":"Bounty Sheet: Khajiiti Male","description":"This is a small house item.","icon":"data/images/10/0t/ii/housing_bre_inc_wantedposterscrollkhajiit001.png","bindType":-1,"knownIds":[118713]}

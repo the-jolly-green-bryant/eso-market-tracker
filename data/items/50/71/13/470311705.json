@@ -1,10 +1,1 @@
-{
-  "internalId": 470311705,
-  "name": "Construct's Integral of Introspection",
-  "description": "A crystal which holds the ability of self reflection. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_soulgemlesser001.png",
-  "bindType": 3,
-  "knownIds": [
-    129911
-  ]
-}
+{"internalId":470311705,"name":"Construct's Integral of Introspection","description":"A crystal which holds the ability of self reflection. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.","icon":"data/images/10/0r/es/housing_gen_inc_soulgemlesser001.png","bindType":3,"knownIds":[129911]}

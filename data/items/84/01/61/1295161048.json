@@ -1,10 +1,1 @@
-{
-  "internalId": 1295161048,
-  "name": "Copper Dust",
-  "description": "Ten of these items can be refined to make copper ounces.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_copper_dust.png",
-  "bindType": -1,
-  "knownIds": [
-    135139
-  ]
-}
+{"internalId":1295161048,"name":"Copper Dust","description":"Ten of these items can be refined to make copper ounces.","icon":"data/images/ts/ud/_r/crafting_copper_dust.png","bindType":-1,"knownIds":[135139]}

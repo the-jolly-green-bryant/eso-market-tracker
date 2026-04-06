@@ -1,10 +1,1 @@
-{
-  "internalId": 734893772,
-  "name": "Iron Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_gladiatormd_hvy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212342
-  ]
-}
+{"internalId":734893772,"name":"Iron Gauntlets","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150809]}

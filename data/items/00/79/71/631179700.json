@@ -1,10 +1,1 @@
-{
-  "internalId": 631179700,
-  "name": "Leyawiin Teacup, Full",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenhicup001.png",
-  "bindType": -1,
-  "knownIds": [
-    175672
-  ]
-}
+{"internalId":631179700,"name":"Leyawiin Teacup, Full","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenhicup001.png","bindType":-1,"knownIds":[175672]}

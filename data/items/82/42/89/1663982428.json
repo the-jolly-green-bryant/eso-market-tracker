@@ -1,10 +1,1 @@
-{
-  "internalId": 1663982428,
-  "name": "Alinor Wall Mirror, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_mirror002.png",
-  "bindType": -1,
-  "knownIds": [
-    139238
-  ]
-}
+{"internalId":1663982428,"name":"Alinor Wall Mirror, Ornate","description":"This is a standard house item.","icon":"data/images/20/0r/or/housing_sum_inc_mirror002.png","bindType":-1,"knownIds":[139238]}

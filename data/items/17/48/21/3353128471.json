@@ -1,10 +1,1 @@
-{
-  "internalId": 3353128471,
-  "name": "Crafting Motif 114: Systres Guardian Maces",
-  "description": "Use to learn how to make Systres Guardian Maces. Also teaches the equivalent Systres Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    182564
-  ]
-}
+{"internalId":3353128471,"name":"Crafting Motif 114: Systres Guardian Maces","description":"Use to learn how to make Systres Guardian Maces. Also teaches the equivalent Systres Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[182564]}

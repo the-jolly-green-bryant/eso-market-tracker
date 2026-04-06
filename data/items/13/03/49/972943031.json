@@ -1,10 +1,1 @@
-{
-  "internalId": 972943031,
-  "name": "Robe of Bulwark Ruination",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211743
-  ]
-}
+{"internalId":972943031,"name":"Robe of Bulwark Ruination","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_robe_a.png","bindType":2,"knownIds":[211743]}

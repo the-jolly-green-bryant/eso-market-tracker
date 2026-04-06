@@ -1,10 +1,1 @@
-{
-  "internalId": 465729066,
-  "name": "Sweet Potatoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_vendor_fuel_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    28308
-  ]
-}
+{"internalId":465729066,"name":"Sweet Potatoes","description":"","icon":"data/images/10/0_/we/crafting_vendor_fuel_stew_001.png","bindType":-1,"knownIds":[28308]}

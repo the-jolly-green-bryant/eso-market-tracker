@@ -1,10 +1,1 @@
-{
-  "internalId": 494580110,
-  "name": "Apocrypha Sconce, Intricate",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libwallsconce001.png",
-  "bindType": -1,
-  "knownIds": [
-    198439
-  ]
-}
+{"internalId":494580110,"name":"Apocrypha Sconce, Intricate","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libwallsconce001.png","bindType":-1,"knownIds":[198439]}

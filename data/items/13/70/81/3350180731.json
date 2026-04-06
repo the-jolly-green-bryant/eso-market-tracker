@@ -1,10 +1,1 @@
-{
-  "internalId": 3350180731,
-  "name": "Darloc Brae's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149584
-  ]
-}
+{"internalId":3350180731,"name":"Darloc Brae's Restoration Staff","description":"","icon":"data/images/a_/ff/at/gear_anequina_staff_a.png","bindType":2,"knownIds":[149584]}

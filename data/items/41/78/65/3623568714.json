@@ -1,10 +1,1 @@
-{
-  "internalId": 3623568714,
-  "name": "Fine Arkay Talisman",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_talisman_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851320
-  ]
-}
+{"internalId":3623568714,"name":"Fine Arkay Talisman","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_talisman_001.png","bindType":-1,"knownIds":[851320]}

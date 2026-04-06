@@ -1,10 +1,1 @@
-{
-  "internalId": 2214153462,
-  "name": "Crafting Motif 134: Tide-Born Style",
-  "description": "Use to learn the Tide-Born crafting style. Also teaches the equivalent Tide-Born Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    212118
-  ]
-}
+{"internalId":2214153462,"name":"Crafting Motif 134: Tide-Born Style","description":"Use to learn the Tide-Born crafting style. Also teaches the equivalent Tide-Born Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[212118]}

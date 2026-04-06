@@ -1,10 +1,1 @@
-{
-  "internalId": 2829406848,
-  "name": "Fellowship's Fortitude Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    216223
-  ]
-}
+{"internalId":2829406848,"name":"Fellowship's Fortitude Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[216223]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1625442887,
-  "name": "Ghost Orchid Perfume",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    845100
-  ]
-}
+{"internalId":1625442887,"name":"Ghost Orchid Perfume","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[845100]}

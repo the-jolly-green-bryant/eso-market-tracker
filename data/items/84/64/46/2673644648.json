@@ -1,10 +1,1 @@
-{
-  "internalId": 2673644648,
-  "name": "Apocrypha Ink Jar, Black",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_inkjar001.png",
-  "bindType": -1,
-  "knownIds": [
-    198377
-  ]
-}
+{"internalId":2673644648,"name":"Apocrypha Ink Jar, Black","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_inkjar001.png","bindType":-1,"knownIds":[198377]}

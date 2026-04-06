@@ -1,10 +1,1 @@
-{
-  "internalId": 2971359035,
-  "name": "Dire Legends of the Doomcrag",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1418328
-  ]
-}
+{"internalId":2971359035,"name":"Dire Legends of the Doomcrag","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1418328]}

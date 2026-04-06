@@ -1,10 +1,1 @@
-{
-  "internalId": 35841332,
-  "name": "Monster: Swarm Mother",
-  "description": "A Monster Mask set found in Veteran Spindleclutch I.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114272
-  ]
-}
+{"internalId":35841332,"name":"Monster: Swarm Mother","description":"A Monster Mask set found in Veteran Spindleclutch I.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114272]}

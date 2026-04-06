@@ -1,10 +1,1 @@
-{
-  "internalId": 2902350457,
-  "name": "Bracers of the Archer's Mind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87635
-  ]
-}
+{"internalId":2902350457,"name":"Bracers of the Archer's Mind","description":"","icon":"data/images/d_/sd/na/gear_bosmer_medium_hands_d.png","bindType":2,"knownIds":[87635]}

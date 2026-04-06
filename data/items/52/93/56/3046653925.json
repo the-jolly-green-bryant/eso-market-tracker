@@ -1,10 +1,1 @@
-{
-  "internalId": 3046653925,
-  "name": "Clever Alchemist Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72459
-  ]
-}
+{"internalId":3046653925,"name":"Clever Alchemist Gauntlets","description":"","icon":"data/images/d_/sd/na/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[72459]}

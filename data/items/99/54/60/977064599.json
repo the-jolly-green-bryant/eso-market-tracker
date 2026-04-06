@@ -1,10 +1,1 @@
-{
-  "internalId": 977064599,
-  "name": "Skooma Refinement Tools",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    809214
-  ]
-}
+{"internalId":977064599,"name":"Skooma Refinement Tools","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[809214]}

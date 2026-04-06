@@ -1,10 +1,1 @@
-{
-  "internalId": 529708681,
-  "name": "Alinor Bookcase, Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_highbookcase001.png",
-  "bindType": -1,
-  "knownIds": [
-    139219
-  ]
-}
+{"internalId":529708681,"name":"Alinor Bookcase, Polished","description":"This is a standard house item.","icon":"data/images/10/0e/sa/housing_sum_fur_highbookcase001.png","bindType":-1,"knownIds":[139219]}

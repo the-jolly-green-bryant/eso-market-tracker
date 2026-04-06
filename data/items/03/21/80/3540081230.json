@@ -1,11 +1,1 @@
-{
-  "internalId": 3540081230,
-  "name": "Heretic's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    590713,
-    600504
-  ]
-}
+{"internalId":3540081230,"name":"Heretic's Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[590713,600504]}

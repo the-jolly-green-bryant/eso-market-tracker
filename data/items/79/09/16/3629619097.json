@@ -1,10 +1,1 @@
-{
-  "internalId": 3629619097,
-  "name": "Blueprint: High Isle Wardrobe, Rustic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    188148
-  ]
-}
+{"internalId":3629619097,"name":"Blueprint: High Isle Wardrobe, Rustic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[188148]}

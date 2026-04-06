@@ -1,10 +1,1 @@
-{
-  "internalId": 1807972409,
-  "name": "Spellshredder Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219314
-  ]
-}
+{"internalId":1807972409,"name":"Spellshredder Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[219314]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3471527791,
-  "name": "Shield of Night Terror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_shield_c.png",
-  "bindType": 2,
-  "knownIds": [
-    97926
-  ]
-}
+{"internalId":3471527791,"name":"Shield of Night Terror","description":"","icon":"data/images/c_/dl/ei/gear_daedric_shield_c.png","bindType":2,"knownIds":[97926]}

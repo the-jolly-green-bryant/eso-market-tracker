@@ -1,10 +1,1 @@
-{
-  "internalId": 3192308869,
-  "name": "Blaze-Veined Prism",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/styleitem_motif_annihlarch_chosen.png",
-  "bindType": -1,
-  "knownIds": [
-    178544
-  ]
-}
+{"internalId":3192308869,"name":"Blaze-Veined Prism","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/styleitem_motif_annihlarch_chosen.png","bindType":-1,"knownIds":[178544]}

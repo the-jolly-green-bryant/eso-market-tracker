@@ -1,10 +1,1 @@
-{
-  "internalId": 1056079161,
-  "name": "Imperial Tapestry, Stendarr",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_tapestrystendarrlargea003.png",
-  "bindType": -1,
-  "knownIds": [
-    94131
-  ]
-}
+{"internalId":1056079161,"name":"Imperial Tapestry, Stendarr","description":"This is a large house item.","icon":"data/images/30/0a/eg/housing_imp_inc_tapestrystendarrlargea003.png","bindType":-1,"knownIds":[94131]}

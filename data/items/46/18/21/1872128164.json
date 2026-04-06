@@ -1,10 +1,1 @@
-{
-  "internalId": 1872128164,
-  "name": "Sload's Semblance Weapons",
-  "description": "A Crafted Armor set constructed in Artaeum.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182783
-  ]
-}
+{"internalId":1872128164,"name":"Sload's Semblance Weapons","description":"A Crafted Armor set constructed in Artaeum.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182783]}

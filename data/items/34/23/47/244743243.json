@@ -1,10 +1,1 @@
-{
-  "internalId": 244743243,
-  "name": "Livewire Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    132826
-  ]
-}
+{"internalId":244743243,"name":"Livewire Pauldron","description":"","icon":"data/images/a_/re/dl/gear_apostle_heavy_shoulder_a.png","bindType":2,"knownIds":[132826]}

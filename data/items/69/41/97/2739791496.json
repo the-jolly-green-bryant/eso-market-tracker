@@ -1,10 +1,1 @@
-{
-  "internalId": 2739791496,
-  "name": "Bangkorai Treasure Map V",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43623
-  ]
-}
+{"internalId":2739791496,"name":"Bangkorai Treasure Map V","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43623]}

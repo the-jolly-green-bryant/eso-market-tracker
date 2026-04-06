@@ -1,10 +1,1 @@
-{
-  "internalId": 3836885037,
-  "name": "Tooth Sharpener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    881993
-  ]
-}
+{"internalId":3836885037,"name":"Tooth Sharpener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[881993]}

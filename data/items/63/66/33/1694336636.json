@@ -1,10 +1,1 @@
-{
-  "internalId": 1694336636,
-  "name": "Lightning Staff of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199667
-  ]
-}
+{"internalId":1694336636,"name":"Lightning Staff of Vicious Death","description":"","icon":"data/images/a_/ff/at/gear_abahswatch_staff_a.png","bindType":2,"knownIds":[79842]}

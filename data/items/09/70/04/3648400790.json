@@ -1,10 +1,1 @@
-{
-  "internalId": 3648400790,
-  "name": "Dark Elf Cart, Merchant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_csb_cartsimple001.png",
-  "bindType": -1,
-  "knownIds": [
-    115272
-  ]
-}
+{"internalId":3648400790,"name":"Dark Elf Cart, Merchant","description":"This is a large house item.","icon":"data/images/10/0e/lp/housing_dun_csb_cartsimple001.png","bindType":-1,"knownIds":[115272]}

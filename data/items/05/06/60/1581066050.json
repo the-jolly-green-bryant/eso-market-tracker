@@ -1,10 +1,1 @@
-{
-  "internalId": 1581066050,
-  "name": "Restoration Staff of the Healer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    87255
-  ]
-}
+{"internalId":1581066050,"name":"Restoration Staff of the Healer","description":"","icon":"data/images/c_/ff/at/gear_ancient_elf_staff_c.png","bindType":2,"knownIds":[87255]}

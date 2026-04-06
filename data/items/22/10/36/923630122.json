@@ -1,10 +1,1 @@
-{
-  "internalId": 923630122,
-  "name": "Obelisk, Lord Hircine Ritual",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_daedricritualstones006.png",
-  "bindType": -1,
-  "knownIds": [
-    141837
-  ]
-}
+{"internalId":923630122,"name":"Obelisk, Lord Hircine Ritual","description":"This is a standard house item.","icon":"data/images/60/0s/en/housing_rok_uni_daedricritualstones006.png","bindType":-1,"knownIds":[141837]}

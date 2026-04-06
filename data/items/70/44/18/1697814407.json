@@ -1,10 +1,1 @@
-{
-  "internalId": 1697814407,
-  "name": "ALL Food Recipes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    125296
-  ]
-}
+{"internalId":1697814407,"name":"ALL Food Recipes","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[125296]}

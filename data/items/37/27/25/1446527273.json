@@ -1,10 +1,1 @@
-{
-  "internalId": 1446527273,
-  "name": "Incriminating Correspondence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    906018
-  ]
-}
+{"internalId":1446527273,"name":"Incriminating Correspondence","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[906018]}

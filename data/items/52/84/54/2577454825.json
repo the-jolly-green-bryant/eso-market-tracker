@@ -1,10 +1,1 @@
-{
-  "internalId": 2577454825,
-  "name": "Common Crate, Sealed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_cratelarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    118011
-  ]
-}
+{"internalId":2577454825,"name":"Common Crate, Sealed","description":"This is a standard house item.","icon":"data/images/10/0e/gr/housing_bre_con_cratelarge001.png","bindType":-1,"knownIds":[118011]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1262906547,
-  "name": "Amulet of Critical Riposte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    158370
-  ]
-}
+{"internalId":1262906547,"name":"Amulet of Critical Riposte","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[158370]}

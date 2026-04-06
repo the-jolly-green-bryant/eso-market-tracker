@@ -1,10 +1,1 @@
-{
-  "internalId": 2691614095,
-  "name": "Bow of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95792
-  ]
-}
+{"internalId":2691614095,"name":"Bow of the Air","description":"","icon":"data/images/a_/wo/b_/gear_yokudan_bow_a.png","bindType":2,"knownIds":[95792]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 2185149621,
-  "name": "Truly Superb Glyph of Potion Boost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_potionpotency.png",
-  "bindType": -1,
-  "knownIds": [
-    1453212,
-    1635672,
-    1453212,
-    1635672
-  ]
-}
+{"internalId":2185149621,"name":"Truly Superb Glyph of Potion Boost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_potionpotency.png","bindType":-1,"knownIds":[1453212,1635672,1453212,1635672]}

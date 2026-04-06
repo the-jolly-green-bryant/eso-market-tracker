@@ -1,10 +1,1 @@
-{
-  "internalId": 343990484,
-  "name": "Eagle-Eyed Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    92136
-  ]
-}
+{"internalId":343990484,"name":"Eagle-Eyed Necklace","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[92136]}

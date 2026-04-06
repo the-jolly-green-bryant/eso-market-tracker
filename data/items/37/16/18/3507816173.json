@@ -1,10 +1,1 @@
-{
-  "internalId": 3507816173,
-  "name": "Grimoire: Elemental Explosion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_staffdestro.png",
-  "bindType": 3,
-  "knownIds": [
-    204488
-  ]
-}
+{"internalId":3507816173,"name":"Grimoire: Elemental Explosion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_grimoire_staffdestro.png","bindType":3,"knownIds":[204488]}

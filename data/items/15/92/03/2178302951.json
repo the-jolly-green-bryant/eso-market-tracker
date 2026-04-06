@@ -1,13 +1,1 @@
-{
-  "internalId": 2178302951,
-  "name": "orichalc-steel girdle of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": -1,
-  "knownIds": [
-    439127,
-    647850,
-    439127,
-    647850
-  ]
-}
+{"internalId":2178302951,"name":"orichalc-steel girdle of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png","bindType":-1,"knownIds":[439127,647850,439127,647850]}

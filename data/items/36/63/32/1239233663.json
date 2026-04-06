@@ -1,10 +1,1 @@
-{
-  "internalId": 1239233663,
-  "name": "Exemplary Swift Ring",
-  "description": "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Swift Trait for Rings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    139655
-  ]
-}
+{"internalId":1239233663,"name":"Exemplary Swift Ring","description":"This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Swift Trait for Rings.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":-1,"knownIds":[139655]}

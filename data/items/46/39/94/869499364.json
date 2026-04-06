@@ -1,10 +1,1 @@
-{
-  "internalId": 869499364,
-  "name": "Steel Lantern",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png",
-  "bindType": -1,
-  "knownIds": [
-    560318
-  ]
-}
+{"internalId":869499364,"name":"Steel Lantern","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png","bindType":-1,"knownIds":[560318]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1790667511,
-  "name": "Spattering Disjunction Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1771087,
-    1771292,
-    1771087,
-    1771292
-  ]
-}
+{"internalId":1790667511,"name":"Spattering Disjunction Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png","bindType":-1,"knownIds":[1771087,1771292,1771087,1771292]}

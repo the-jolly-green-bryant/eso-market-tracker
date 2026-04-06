@@ -1,10 +1,1 @@
-{
-  "internalId": 3230878138,
-  "name": "Summerset Hills 572",
-  "description": "A bottle of white wine. According to the label, it is renowned for its \"overpowering subtlety.\"",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wine_002.png",
-  "bindType": -1,
-  "knownIds": [
-    71313
-  ]
-}
+{"internalId":3230878138,"name":"Summerset Hills 572","description":"A bottle of white wine. According to the label, it is renowned for its \"overpowering subtlety.\"","icon":"data/images/20/0_/en/quest_wine_002.png","bindType":-1,"knownIds":[71313]}

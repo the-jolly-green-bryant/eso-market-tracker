@@ -1,13 +1,1 @@
-{
-  "internalId": 3438716045,
-  "name": "distillate of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    689705,
-    1470603,
-    689705,
-    1470603
-  ]
-}
+{"internalId":3438716045,"name":"distillate of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png","bindType":-1,"knownIds":[689705,1470603,689705,1470603]}

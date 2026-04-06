@@ -1,10 +1,1 @@
-{
-  "internalId": 1343340907,
-  "name": "Ingenious Clockwork Saw-Spoon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    794477
-  ]
-}
+{"internalId":1343340907,"name":"Ingenious Clockwork Saw-Spoon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[794477]}

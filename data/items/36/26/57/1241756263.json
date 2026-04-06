@@ -1,10 +1,1 @@
-{
-  "internalId": 1241756263,
-  "name": "Diagram: Redguard Cauldron, Clawfoot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119204
-  ]
-}
+{"internalId":1241756263,"name":"Diagram: Redguard Cauldron, Clawfoot","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119204]}

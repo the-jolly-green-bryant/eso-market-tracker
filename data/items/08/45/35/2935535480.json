@@ -1,13 +1,1 @@
-{
-  "internalId": 2935535480,
-  "name": "Half-Digested Adventurer's Backpack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1315932,
-    1337344,
-    1315932,
-    1337344
-  ]
-}
+{"internalId":2935535480,"name":"Half-Digested Adventurer's Backpack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_staff_a.png","bindType":-1,"knownIds":[1315932,1337344,1315932,1337344]}

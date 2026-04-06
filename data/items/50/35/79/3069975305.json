@@ -1,13 +1,1 @@
-{
-  "internalId": 3069975305,
-  "name": "Coral Riptide Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1587000,
-    1593783,
-    1587000,
-    1593783
-  ]
-}
+{"internalId":3069975305,"name":"Coral Riptide Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1587000,1593783,1587000,1593783]}

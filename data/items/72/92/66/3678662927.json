@@ -1,13 +1,1 @@
-{
-  "internalId": 3678662927,
-  "name": "Yandir's Perfected Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    1472755,
-    1622593,
-    1472755,
-    1622593
-  ]
-}
+{"internalId":3678662927,"name":"Yandir's Perfected Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2haxe.png","bindType":-1,"knownIds":[1472755,1622593,1472755,1622593]}

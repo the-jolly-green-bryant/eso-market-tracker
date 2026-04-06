@@ -1,10 +1,1 @@
-{
-  "internalId": 1450479440,
-  "name": "Necklace of the Warlock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85634
-  ]
-}
+{"internalId":1450479440,"name":"Necklace of the Warlock","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[85634]}

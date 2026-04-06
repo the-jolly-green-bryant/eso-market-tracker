@@ -1,10 +1,1 @@
-{
-  "internalId": 3470121056,
-  "name": "Praxis: Necrom Archway, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    198089
-  ]
-}
+{"internalId":3470121056,"name":"Praxis: Necrom Archway, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[198089]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2470165755,
-  "name": "Stuffed Crow Rattle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1395848
-  ]
-}
+{"internalId":2470165755,"name":"Stuffed Crow Rattle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[1395848]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1642780318,
-  "name": "Canon's Staff of the Tribunal",
-  "description": "Lord Vivec himself gave you this frosty staff for aiding Canon Llevule at the Andrano Ancestral Tomb and assisting him with a divination ritual.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_buoyantarmiger_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126050
-  ]
-}
+{"internalId":1642780318,"name":"Canon's Staff of the Tribunal","description":"Lord Vivec himself gave you this frosty staff for aiding Canon Llevule at the Andrano Ancestral Tomb and assisting him with a divination ritual.","icon":"data/images/a_/ff/at/gear_buoyantarmiger_staff_a.png","bindType":2,"knownIds":[126050]}

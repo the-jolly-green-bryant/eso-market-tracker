@@ -1,10 +1,1 @@
-{
-  "internalId": 2237275224,
-  "name": "Arm Cops of Nocturnal's Ploy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189839
-  ]
-}
+{"internalId":2237275224,"name":"Arm Cops of Nocturnal's Ploy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png","bindType":2,"knownIds":[189839]}

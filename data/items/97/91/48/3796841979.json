@@ -1,13 +1,1 @@
-{
-  "internalId": 3796841979,
-  "name": "Perfected Null Arca Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1722488,
-    1733857,
-    1722488,
-    1733857
-  ]
-}
+{"internalId":3796841979,"name":"Perfected Null Arca Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1haxe_a.png","bindType":-1,"knownIds":[1722488,1733857,1722488,1733857]}

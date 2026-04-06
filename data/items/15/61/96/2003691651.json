@@ -1,10 +1,1 @@
-{
-  "internalId": 2003691651,
-  "name": "Mor Khazgur Crusher",
-  "description": "A powerful hammer constructed in the Orc style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159697
-  ]
-}
+{"internalId":2003691651,"name":"Mor Khazgur Crusher","description":"A powerful hammer constructed in the Orc style.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hhammer_d.png","bindType":2,"knownIds":[159697]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1633628366,
-  "name": "Black Diamond Pendant",
-  "description": "Ancient Nighthollow jewelers imbued this pendant with all the cruelty and avarice of their great clan—a perfect reflection of their thirst for power.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167427
-  ]
-}
+{"internalId":1633628366,"name":"Black Diamond Pendant","description":"Ancient Nighthollow jewelers imbued this pendant with all the cruelty and avarice of their great clan—a perfect reflection of their thirst for power.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[167427]}

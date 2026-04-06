@@ -1,17 +1,1 @@
-{
-  "internalId": 3616207562,
-  "name": "Aerie's Cry Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1726894,
-    1745846,
-    1753799,
-    1759502,
-    1726894,
-    1745846,
-    1753799,
-    1759502
-  ]
-}
+{"internalId":3616207562,"name":"Aerie's Cry Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_feet_a.png","bindType":-1,"knownIds":[1726894,1745846,1753799,1759502,1726894,1745846,1753799,1759502]}

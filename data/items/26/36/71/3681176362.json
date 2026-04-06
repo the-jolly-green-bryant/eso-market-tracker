@@ -1,10 +1,1 @@
-{
-  "internalId": 3681176362,
-  "name": "Warrior's Heart Ashes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_warriorsheartashes.png",
-  "bindType": -1,
-  "knownIds": [
-    137957
-  ]
-}
+{"internalId":3681176362,"name":"Warrior's Heart Ashes","description":"","icon":"data/images/se/hs/at/item_warriorsheartashes.png","bindType":-1,"knownIds":[137957]}

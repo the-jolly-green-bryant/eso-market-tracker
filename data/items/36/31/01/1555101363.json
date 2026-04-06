@@ -1,10 +1,1 @@
-{
-  "internalId": 1555101363,
-  "name": "Congealed Orcrest Garlic Apple Jelly",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_jam_pot.png",
-  "bindType": -1,
-  "knownIds": [
-    32150
-  ]
-}
+{"internalId":1555101363,"name":"Congealed Orcrest Garlic Apple Jelly","description":"","icon":"data/images/to/p_/ma/crafting_cooking_jam_pot.png","bindType":-1,"knownIds":[32150]}

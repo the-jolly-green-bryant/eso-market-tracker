@@ -1,10 +1,1 @@
-{
-  "internalId": 3658860323,
-  "name": "Keeper's Licorice Worm Dowsing Rod",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    810553
-  ]
-}
+{"internalId":3658860323,"name":"Keeper's Licorice Worm Dowsing Rod","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[810553]}

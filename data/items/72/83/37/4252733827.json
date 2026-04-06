@@ -1,11 +1,1 @@
-{
-  "internalId": 4252733827,
-  "name": "Skeever Skull Trophy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png",
-  "bindType": -1,
-  "knownIds": [
-    780912,
-    780912
-  ]
-}
+{"internalId":4252733827,"name":"Skeever Skull Trophy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png","bindType":-1,"knownIds":[780912,780912]}

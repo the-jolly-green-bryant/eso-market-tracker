@@ -1,10 +1,1 @@
-{
-  "internalId": 1746296617,
-  "name": "Glyph of Flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_fireessence.png",
-  "bindType": -1,
-  "knownIds": [
-    26848
-  ]
-}
+{"internalId":1746296617,"name":"Glyph of Flame","description":"","icon":"data/images/ec/ne/ss/enchantment_weapon_fireessence.png","bindType":-1,"knownIds":[26848]}

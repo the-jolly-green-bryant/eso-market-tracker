@@ -1,10 +1,1 @@
-{
-  "internalId": 2286095721,
-  "name": "Cargo Manifest for Shad Astula",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    882000
-  ]
-}
+{"internalId":2286095721,"name":"Cargo Manifest for Shad Astula","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[882000]}

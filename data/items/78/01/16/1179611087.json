@@ -1,10 +1,1 @@
-{
-  "internalId": 1179611087,
-  "name": "Blueprint: Leyawiin Nightstand, Sturdy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    175950
-  ]
-}
+{"internalId":1179611087,"name":"Blueprint: Leyawiin Nightstand, Sturdy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[175950]}

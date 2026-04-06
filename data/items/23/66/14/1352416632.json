@@ -1,10 +1,1 @@
-{
-  "internalId": 1352416632,
-  "name": "Illustrated Amor Folio",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    914189
-  ]
-}
+{"internalId":1352416632,"name":"Illustrated Amor Folio","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[914189]}

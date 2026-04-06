@@ -1,10 +1,1 @@
-{
-  "internalId": 431697865,
-  "name": "Ugduk's Meat Skewers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804205
-  ]
-}
+{"internalId":431697865,"name":"Ugduk's Meat Skewers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[804205]}

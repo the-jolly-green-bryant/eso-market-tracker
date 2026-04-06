@@ -1,10 +1,1 @@
-{
-  "internalId": 4131478831,
-  "name": "Nocturnal's Favored Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    136733
-  ]
-}
+{"internalId":4131478831,"name":"Nocturnal's Favored Mace","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[136733]}

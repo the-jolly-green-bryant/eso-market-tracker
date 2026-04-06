@@ -1,10 +1,1 @@
-{
-  "internalId": 1667573669,
-  "name": "Shellbug Jewelry Tray",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    864557
-  ]
-}
+{"internalId":1667573669,"name":"Shellbug Jewelry Tray","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[864557]}

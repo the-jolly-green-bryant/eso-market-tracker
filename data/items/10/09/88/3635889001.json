@@ -1,17 +1,1 @@
-{
-  "internalId": 3635889001,
-  "name": "Pyrebrand Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1735214,
-    1745709,
-    1764483,
-    1774522,
-    1735214,
-    1745709,
-    1764483,
-    1774522
-  ]
-}
+{"internalId":3635889001,"name":"Pyrebrand Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_staff.png","bindType":-1,"knownIds":[1735214,1745709,1764483,1774522,1735214,1745709,1764483,1774522]}

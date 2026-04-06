@@ -1,10 +1,1 @@
-{
-  "internalId": 1275429660,
-  "name": "chert greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1167452
-  ]
-}
+{"internalId":1275429660,"name":"chert greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png","bindType":-1,"knownIds":[1167452]}

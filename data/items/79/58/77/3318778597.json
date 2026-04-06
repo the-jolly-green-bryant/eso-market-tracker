@@ -1,10 +1,1 @@
-{
-  "internalId": 3318778597,
-  "name": "Rough Crate, Bolted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargocrate002.png",
-  "bindType": -1,
-  "knownIds": [
-    117954
-  ]
-}
+{"internalId":3318778597,"name":"Rough Crate, Bolted","description":"This is a standard house item.","icon":"data/images/20/0e/ta/housing_red_exc_varcargocrate002.png","bindType":-1,"knownIds":[117954]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3342153433,
-  "name": "Storm Lord Rug, Horizontal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikescrownrectangletapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    211527
-  ]
-}
+{"internalId":3342153433,"name":"Storm Lord Rug, Horizontal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikescrownrectangletapestry001.png","bindType":-1,"knownIds":[211527]}

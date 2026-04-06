@@ -1,10 +1,1 @@
-{
-  "internalId": 262539705,
-  "name": "Skill Respecification Scroll",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    64524
-  ]
-}
+{"internalId":262539705,"name":"Skill Respecification Scroll","description":"","icon":null,"bindType":-1,"knownIds":[64524]}

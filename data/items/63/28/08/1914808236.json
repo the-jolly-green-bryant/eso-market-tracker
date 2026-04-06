@@ -1,10 +1,1 @@
-{
-  "internalId": 1914808236,
-  "name": "Praxis: Dwarven Bench, Ornate Granite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    171490
-  ]
-}
+{"internalId":1914808236,"name":"Praxis: Dwarven Bench, Ornate Granite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[171490]}

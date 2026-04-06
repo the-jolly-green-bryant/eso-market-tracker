@@ -1,10 +1,1 @@
-{
-  "internalId": 2517952454,
-  "name": "Recipe: Breton Pork Sausage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45900
-  ]
-}
+{"internalId":2517952454,"name":"Recipe: Breton Pork Sausage","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45900]}

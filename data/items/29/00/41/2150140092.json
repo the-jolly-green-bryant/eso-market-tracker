@@ -1,10 +1,1 @@
-{
-  "internalId": 2150140092,
-  "name": "Crafting Motif 86: Sea Giant Staves",
-  "description": "Use to learn how to make Sea Giant Staves. Also teaches the equivalent Sea Giant Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160572
-  ]
-}
+{"internalId":2150140092,"name":"Crafting Motif 86: Sea Giant Staves","description":"Use to learn how to make Sea Giant Staves. Also teaches the equivalent Sea Giant Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160572]}

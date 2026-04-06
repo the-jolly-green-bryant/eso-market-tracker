@@ -1,10 +1,1 @@
-{
-  "internalId": 2640349476,
-  "name": "Trees, Paired Leaning Juniper",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_driedjuniper006.png",
-  "bindType": -1,
-  "knownIds": [
-    121024
-  ]
-}
+{"internalId":2640349476,"name":"Trees, Paired Leaning Juniper","description":"This is a huge house item.","icon":"data/images/60/0r/ep/housing_tre_eve_driedjuniper006.png","bindType":-1,"knownIds":[121024]}

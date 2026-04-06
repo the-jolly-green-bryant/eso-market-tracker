@@ -1,10 +1,1 @@
-{
-  "internalId": 1708133725,
-  "name": "Firelogs, Ashen",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_fireplacea002.png",
-  "bindType": -1,
-  "knownIds": [
-    118148
-  ]
-}
+{"internalId":1708133725,"name":"Firelogs, Ashen","description":"This is a standard house item.","icon":"data/images/20/0a/ec/housing_gen_inc_fireplacea002.png","bindType":-1,"knownIds":[118148]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 888661111,
-  "name": "Praxis: Druidic Pillar, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    194368
-  ]
-}
+{"internalId":888661111,"name":"Praxis: Druidic Pillar, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[194368]}

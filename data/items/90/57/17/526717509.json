@@ -1,13 +1,1 @@
-{
-  "internalId": 526717509,
-  "name": "Ogre Biter's Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    605350,
-    788781,
-    605350,
-    788781
-  ]
-}
+{"internalId":526717509,"name":"Ogre Biter's Shell","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_shield_d.png","bindType":-1,"knownIds":[605350,788781,605350,788781]}

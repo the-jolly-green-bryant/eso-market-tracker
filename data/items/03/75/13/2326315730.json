@@ -1,10 +1,1 @@
-{
-  "internalId": 2326315730,
-  "name": "Praxis: Tide-Born Sculpture, Lizard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    217578
-  ]
-}
+{"internalId":2326315730,"name":"Praxis: Tide-Born Sculpture, Lizard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[217578]}

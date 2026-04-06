@@ -1,10 +1,1 @@
-{
-  "internalId": 3095344198,
-  "name": "Desktop Nine-Holes Game",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1422380
-  ]
-}
+{"internalId":3095344198,"name":"Desktop Nine-Holes Game","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[1422380]}

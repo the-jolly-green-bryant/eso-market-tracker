@@ -1,10 +1,1 @@
-{
-  "internalId": 3567629979,
-  "name": "Crafting Motif 124: The Recollection Chests",
-  "description": "Use to learn how to make the Recollection Chests. Also teaches the equivalent the Recollection Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203187
-  ]
-}
+{"internalId":3567629979,"name":"Crafting Motif 124: The Recollection Chests","description":"Use to learn how to make the Recollection Chests. Also teaches the equivalent the Recollection Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203187]}

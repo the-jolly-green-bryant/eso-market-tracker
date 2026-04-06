@@ -1,10 +1,1 @@
-{
-  "internalId": 2831172879,
-  "name": "Monster: Infernal Guardian",
-  "description": "A Monster Mask set found in Veteran City of Ash I.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114262
-  ]
-}
+{"internalId":2831172879,"name":"Monster: Infernal Guardian","description":"A Monster Mask set found in Veteran City of Ash I.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114262]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2362285502,
-  "name": "Redguard Candelabra, Polished",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varcandlelabra004.png",
-  "bindType": -1,
-  "knownIds": [
-    117820
-  ]
-}
+{"internalId":2362285502,"name":"Redguard Candelabra, Polished","description":"This is a small house item.","icon":"data/images/40/0a/rb/housing_red_lsb_varcandlelabra004.png","bindType":-1,"knownIds":[117820]}

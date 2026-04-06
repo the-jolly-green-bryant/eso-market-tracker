@@ -1,10 +1,1 @@
-{
-  "internalId": 2070409654,
-  "name": "Leki's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199425
-  ]
-}
+{"internalId":2070409654,"name":"Leki's Sword","description":"","icon":"data/images/a_/dr/ow/gear_abahswatch_1hsword_a.png","bindType":2,"knownIds":[79774]}

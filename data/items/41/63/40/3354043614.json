@@ -1,10 +1,1 @@
-{
-  "internalId": 3354043614,
-  "name": "Gilly the River Troll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1280209
-  ]
-}
+{"internalId":3354043614,"name":"Gilly the River Troll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[1280209]}

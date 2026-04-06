@@ -1,10 +1,1 @@
-{
-  "internalId": 257549172,
-  "name": "Dwarven Device, Deactivated",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_decorativedevicea001.png",
-  "bindType": -1,
-  "knownIds": [
-    218008
-  ]
-}
+{"internalId":257549172,"name":"Dwarven Device, Deactivated","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_decorativedevicea001.png","bindType":-1,"knownIds":[218008]}

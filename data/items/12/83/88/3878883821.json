@@ -1,13 +1,1 @@
-{
-  "internalId": 3878883821,
-  "name": "Spirit Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_spirit_001.png",
-  "bindType": -1,
-  "knownIds": [
-    527078,
-    937497,
-    527078,
-    937497
-  ]
-}
+{"internalId":3878883821,"name":"Spirit Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_spirit_001.png","bindType":-1,"knownIds":[527078,937497,527078,937497]}

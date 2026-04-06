@@ -1,10 +1,1 @@
-{
-  "internalId": 1129228281,
-  "name": "Orcish Candlestick, Horn",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_ramhornlight002.png",
-  "bindType": -1,
-  "knownIds": [
-    116461
-  ]
-}
+{"internalId":1129228281,"name":"Orcish Candlestick, Horn","description":"This is a small house item.","icon":"data/images/20/0t/hg/housing_orc_lsb_ramhornlight002.png","bindType":-1,"knownIds":[116461]}

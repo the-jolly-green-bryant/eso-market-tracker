@@ -1,10 +1,1 @@
-{
-  "internalId": 824090247,
-  "name": "Blueprint: Solitude Platform, Square Wooden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    167368
-  ]
-}
+{"internalId":824090247,"name":"Blueprint: Solitude Platform, Square Wooden","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[167368]}

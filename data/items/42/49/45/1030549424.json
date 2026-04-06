@@ -1,10 +1,1 @@
-{
-  "internalId": 1030549424,
-  "name": "Alinor Lantern, Stationary",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_alttablesconcelit001.png",
-  "bindType": -1,
-  "knownIds": [
-    139199
-  ]
-}
+{"internalId":1030549424,"name":"Alinor Lantern, Stationary","description":"This is a small house item.","icon":"data/images/10/0t/il/housing_sum_lsb_alttablesconcelit001.png","bindType":-1,"knownIds":[139199]}

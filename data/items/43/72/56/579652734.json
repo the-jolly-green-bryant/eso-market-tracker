@@ -1,10 +1,1 @@
-{
-  "internalId": 579652734,
-  "name": "Leyawiin Wheel, Splintered Axle",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_csb_leywagonwheel001.png",
-  "bindType": -1,
-  "knownIds": [
-    175720
-  ]
-}
+{"internalId":579652734,"name":"Leyawiin Wheel, Splintered Axle","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_csb_leywagonwheel001.png","bindType":-1,"knownIds":[175720]}

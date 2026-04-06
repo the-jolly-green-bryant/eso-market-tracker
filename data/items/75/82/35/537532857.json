@@ -1,17 +1,1 @@
-{
-  "internalId": 537532857,
-  "name": "Olorime's Perfected Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_light_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1341628,
-    1457372,
-    1616678,
-    1643786,
-    1341628,
-    1457372,
-    1616678,
-    1643786
-  ]
-}
+{"internalId":537532857,"name":"Olorime's Perfected Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_light_feet_a.png","bindType":-1,"knownIds":[1341628,1457372,1616678,1643786,1341628,1457372,1616678,1643786]}

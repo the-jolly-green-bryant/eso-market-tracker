@@ -1,10 +1,1 @@
-{
-  "internalId": 1900504438,
-  "name": "Spellshredder Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    219149
-  ]
-}
+{"internalId":1900504438,"name":"Spellshredder Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[219149]}

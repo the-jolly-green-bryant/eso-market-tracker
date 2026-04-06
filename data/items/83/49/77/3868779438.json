@@ -1,10 +1,1 @@
-{
-  "internalId": 3868779438,
-  "name": "Hammer of Anaxes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44251
-  ]
-}
+{"internalId":3868779438,"name":"Hammer of Anaxes","description":"","icon":"data/images/a_/re/mm/gear_draugr_2hhammer_a.png","bindType":2,"knownIds":[44251]}

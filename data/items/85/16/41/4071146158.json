@@ -1,10 +1,1 @@
-{
-  "internalId": 4071146158,
-  "name": "Greaves of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79241
-  ]
-}
+{"internalId":4071146158,"name":"Greaves of Imperial Physique","description":"","icon":"data/images/a_/sg/el/gear_ooth_heavy_legs_a.png","bindType":2,"knownIds":[79241]}

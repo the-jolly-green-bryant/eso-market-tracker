@@ -1,10 +1,1 @@
-{
-  "internalId": 4093537134,
-  "name": "Helm of the Hatchling's Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99222
-  ]
-}
+{"internalId":4093537134,"name":"Helm of the Hatchling's Shell","description":"","icon":"data/images/d_/da/eh/gear_argonian_heavy_head_d.png","bindType":2,"knownIds":[99222]}

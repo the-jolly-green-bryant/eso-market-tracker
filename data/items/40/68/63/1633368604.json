@@ -1,10 +1,1 @@
-{
-  "internalId": 1633368604,
-  "name": "Leg Guards of Kyne's Flight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44176
-  ]
-}
+{"internalId":1633368604,"name":"Leg Guards of Kyne's Flight","description":"","icon":"data/images/d_/sg/el/gear_nord_medium_legs_d.png","bindType":2,"knownIds":[44176]}

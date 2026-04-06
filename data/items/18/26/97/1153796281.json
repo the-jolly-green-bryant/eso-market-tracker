@@ -1,10 +1,1 @@
-{
-  "internalId": 1153796281,
-  "name": "Pattern: Vampiric Carpet, Grand Sigil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166727
-  ]
-}
+{"internalId":1153796281,"name":"Pattern: Vampiric Carpet, Grand Sigil","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[166727]}

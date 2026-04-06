@@ -1,10 +1,1 @@
-{
-  "internalId": 3528720779,
-  "name": "Elsweyr Brazier, Embellished",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_brazier002.png",
-  "bindType": -1,
-  "knownIds": [
-    151729
-  ]
-}
+{"internalId":3528720779,"name":"Elsweyr Brazier, Embellished","description":"This is a small house item.","icon":"data/images/20/0r/ei/housing_els_lsb_brazier002.png","bindType":-1,"knownIds":[151729]}

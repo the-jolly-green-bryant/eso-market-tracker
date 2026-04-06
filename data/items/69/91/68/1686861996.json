@@ -1,17 +1,1 @@
-{
-  "internalId": 1686861996,
-  "name": "Black Foundry Steel Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_heavy_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764873,
-    1773013,
-    1777451,
-    1777457,
-    1764873,
-    1773013,
-    1777451,
-    1777457
-  ]
-}
+{"internalId":1686861996,"name":"Black Foundry Steel Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_heavy_shoulder_a.png","bindType":-1,"knownIds":[1764873,1773013,1777451,1777457,1764873,1773013,1777451,1777457]}

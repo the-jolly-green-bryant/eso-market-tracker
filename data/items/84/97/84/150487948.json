@@ -1,10 +1,1 @@
-{
-  "internalId": 150487948,
-  "name": "Bow of the Withered Hand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86344
-  ]
-}
+{"internalId":150487948,"name":"Bow of the Withered Hand","description":"","icon":"data/images/a_/wo/b_/gear_wormcult_bow_a.png","bindType":2,"knownIds":[86344]}

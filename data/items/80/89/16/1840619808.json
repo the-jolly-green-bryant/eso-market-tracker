@@ -1,10 +1,1 @@
-{
-  "internalId": 1840619808,
-  "name": "Khajiit Desk, Faded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_counter003.png",
-  "bindType": -1,
-  "knownIds": [
-    115687
-  ]
-}
+{"internalId":1840619808,"name":"Khajiit Desk, Faded","description":"This is a standard house item.","icon":"data/images/30/0r/et/housing_kha_fur_counter003.png","bindType":-1,"knownIds":[115687]}

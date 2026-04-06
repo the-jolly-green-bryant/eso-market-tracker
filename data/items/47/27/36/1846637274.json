@@ -1,10 +1,1 @@
-{
-  "internalId": 1846637274,
-  "name": "Blueprint: Witches Totem, Antler Charms",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    132179
-  ]
-}
+{"internalId":1846637274,"name":"Blueprint: Witches Totem, Antler Charms","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[132179]}

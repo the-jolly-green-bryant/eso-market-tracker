@@ -1,10 +1,1 @@
-{
-  "internalId": 999501717,
-  "name": "Khajiit Firepit, Brick",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_cmp_cookingpit002.png",
-  "bindType": -1,
-  "knownIds": [
-    115637
-  ]
-}
+{"internalId":999501717,"name":"Khajiit Firepit, Brick","description":"This is a standard house item.","icon":"data/images/20/0t/ip/housing_kha_cmp_cookingpit002.png","bindType":-1,"knownIds":[115637]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 2831131052,
-  "name": "Spattering Disjunction Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735127,
-    1764759,
-    1772313,
-    1735127,
-    1764759,
-    1772313
-  ]
-}
+{"internalId":2831131052,"name":"Spattering Disjunction Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_chest_a.png","bindType":-1,"knownIds":[1735127,1764759,1772313,1735127,1764759,1772313]}

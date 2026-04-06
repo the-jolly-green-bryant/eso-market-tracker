@@ -1,10 +1,1 @@
-{
-  "internalId": 684220659,
-  "name": "Pattern: Redguard Armchair, Starry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119246
-  ]
-}
+{"internalId":684220659,"name":"Pattern: Redguard Armchair, Starry","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[119246]}

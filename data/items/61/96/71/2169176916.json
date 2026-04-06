@@ -1,10 +1,1 @@
-{
-  "internalId": 2169176916,
-  "name": "Ring of Red Eagle's Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    168052
-  ]
-}
+{"internalId":2169176916,"name":"Ring of Red Eagle's Fury","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[168052]}

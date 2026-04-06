@@ -1,10 +1,1 @@
-{
-  "internalId": 3796480785,
-  "name": "Blessed Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hsword_b.png",
-  "bindType": 2,
-  "knownIds": [
-    102400
-  ]
-}
+{"internalId":3796480785,"name":"Blessed Greatsword","description":"","icon":"data/images/b_/dr/ow/gear_ancient_elf_2hsword_b.png","bindType":2,"knownIds":[102400]}

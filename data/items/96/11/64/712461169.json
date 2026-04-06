@@ -1,10 +1,1 @@
-{
-  "internalId": 712461169,
-  "name": "Helm of the Unassailable",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_goldensaint_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44146
-  ]
-}
+{"internalId":712461169,"name":"Helm of the Unassailable","description":"","icon":"data/images/a_/da/eh/gear_goldensaint_head_a.png","bindType":2,"knownIds":[44146]}

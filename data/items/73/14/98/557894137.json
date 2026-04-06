@@ -1,10 +1,1 @@
-{
-  "internalId": 557894137,
-  "name": "Druidic Doorway, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutdoorcollar001.png",
-  "bindType": -1,
-  "knownIds": [
-    193823
-  ]
-}
+{"internalId":557894137,"name":"Druidic Doorway, Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutdoorcollar001.png","bindType":-1,"knownIds":[193823]}

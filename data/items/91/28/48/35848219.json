@@ -1,10 +1,1 @@
-{
-  "internalId": 35848219,
-  "name": "Warrior-Poet's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122760
-  ]
-}
+{"internalId":35848219,"name":"Warrior-Poet's Inferno Staff","description":"","icon":"data/images/a_/ff/at/gear_redoran_staff_a.png","bindType":2,"knownIds":[122760]}

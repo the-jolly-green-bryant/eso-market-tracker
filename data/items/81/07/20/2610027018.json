@@ -1,10 +1,1 @@
-{
-  "internalId": 2610027018,
-  "name": "King Makala's Ear Piece",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1236168
-  ]
-}
+{"internalId":2610027018,"name":"King Makala's Ear Piece","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[1236168]}

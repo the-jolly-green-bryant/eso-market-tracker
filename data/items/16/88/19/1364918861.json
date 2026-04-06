@@ -1,10 +1,1 @@
-{
-  "internalId": 1364918861,
-  "name": "Necklace of Nikulas",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85270
-  ]
-}
+{"internalId":1364918861,"name":"Necklace of Nikulas","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[85270]}

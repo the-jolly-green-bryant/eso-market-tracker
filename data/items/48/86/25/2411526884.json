@@ -1,10 +1,1 @@
-{
-  "internalId": 2411526884,
-  "name": "orichalc-steel cuirass of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    680958
-  ]
-}
+{"internalId":2411526884,"name":"orichalc-steel cuirass of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":-1,"knownIds":[680958]}

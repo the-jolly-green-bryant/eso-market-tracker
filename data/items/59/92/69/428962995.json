@@ -1,10 +1,1 @@
-{
-  "internalId": 428962995,
-  "name": "Axe of Kagrenac's Hope",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56768
-  ]
-}
+{"internalId":428962995,"name":"Axe of Kagrenac's Hope","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[56768]}

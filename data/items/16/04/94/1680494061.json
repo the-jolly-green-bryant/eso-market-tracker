@@ -1,10 +1,1 @@
-{
-  "internalId": 1680494061,
-  "name": "Leyawiin Gravy Boat, Silver",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodmilk001.png",
-  "bindType": -1,
-  "knownIds": [
-    175682
-  ]
-}
+{"internalId":1680494061,"name":"Leyawiin Gravy Boat, Silver","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodmilk001.png","bindType":-1,"knownIds":[175682]}

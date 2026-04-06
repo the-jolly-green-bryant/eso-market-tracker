@@ -1,10 +1,1 @@
-{
-  "internalId": 2732965364,
-  "name": "Soil Sample",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821359
-  ]
-}
+{"internalId":2732965364,"name":"Soil Sample","description":"","icon":null,"bindType":-1,"knownIds":[821359]}

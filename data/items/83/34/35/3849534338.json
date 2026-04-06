@@ -1,10 +1,1 @@
-{
-  "internalId": 3849534338,
-  "name": "Mara's Balm Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    190000
-  ]
-}
+{"internalId":3849534338,"name":"Mara's Balm Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png","bindType":2,"knownIds":[190000]}

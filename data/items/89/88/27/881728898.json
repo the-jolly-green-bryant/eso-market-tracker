@@ -1,10 +1,1 @@
-{
-  "internalId": 881728898,
-  "name": "Dwarven Bed, Reach Furs Canopy",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbeddouble007.png",
-  "bindType": -1,
-  "knownIds": [
-    171348
-  ]
-}
+{"internalId":881728898,"name":"Dwarven Bed, Reach Furs Canopy","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbeddouble007.png","bindType":-1,"knownIds":[171348]}

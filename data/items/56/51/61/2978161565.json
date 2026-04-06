@@ -1,10 +1,1 @@
-{
-  "internalId": 2978161565,
-  "name": "Moon-Sugar Shrimp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png",
-  "bindType": -1,
-  "knownIds": [
-    1365139
-  ]
-}
+{"internalId":2978161565,"name":"Moon-Sugar Shrimp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png","bindType":-1,"knownIds":[1365139]}

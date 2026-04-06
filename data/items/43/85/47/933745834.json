@@ -1,10 +1,1 @@
-{
-  "internalId": 933745834,
-  "name": "Praxis: Sunport Table, Tall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    217562
-  ]
-}
+{"internalId":933745834,"name":"Praxis: Sunport Table, Tall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[217562]}

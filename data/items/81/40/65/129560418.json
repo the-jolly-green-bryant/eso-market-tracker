@@ -1,10 +1,1 @@
-{
-  "internalId": 129560418,
-  "name": "Jerkin of Bulwark Ruination",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shirt_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211748
-  ]
-}
+{"internalId":129560418,"name":"Jerkin of Bulwark Ruination","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shirt_a.png","bindType":2,"knownIds":[211748]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3630676174,
-  "name": "Prisoner Duriatundar's Frigid Amulet",
-  "description": "A necklace awarded for defeating the ice wraith champion, Duriatundur.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    42981
-  ]
-}
+{"internalId":3630676174,"name":"Prisoner Duriatundar's Frigid Amulet","description":"A necklace awarded for defeating the ice wraith champion, Duriatundur.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[42981]}

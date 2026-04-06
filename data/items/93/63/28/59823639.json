@@ -1,10 +1,1 @@
-{
-  "internalId": 59823639,
-  "name": "Bloodthorn Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    96565
-  ]
-}
+{"internalId":59823639,"name":"Bloodthorn Sash","description":"","icon":"data/images/a_/ts/ia/gear_primative_light_waist_a.png","bindType":2,"knownIds":[96565]}

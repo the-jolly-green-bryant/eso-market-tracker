@@ -1,10 +1,1 @@
-{
-  "internalId": 2419473992,
-  "name": "Hist Bark Weapons",
-  "description": "A Crafted Armor set constructed in Greenshade, Rivenspire, and Shadowfen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182382
-  ]
-}
+{"internalId":2419473992,"name":"Hist Bark Weapons","description":"A Crafted Armor set constructed in Greenshade, Rivenspire, and Shadowfen.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182382]}

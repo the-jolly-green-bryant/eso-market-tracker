@@ -1,10 +1,1 @@
-{
-  "internalId": 3153259648,
-  "name": "Dreamwalker Staff",
-  "description": "The Ternion High Priest awarded this staff for walking the Dreamstride at Mistwatch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10315
-  ]
-}
+{"internalId":3153259648,"name":"Dreamwalker Staff","description":"The Ternion High Priest awarded this staff for walking the Dreamstride at Mistwatch.","icon":"data/images/d_/ff/at/gear_nord_staff_d.png","bindType":2,"knownIds":[10315]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3568103495,
-  "name": "Minor Repair Kit",
-  "description": "Repairs items of any level, but is less effective on items over Level 19.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    44875
-  ]
-}
+{"internalId":3568103495,"name":"Minor Repair Kit","description":"Repairs items of any level, but is less effective on items over Level 19.","icon":"data/images/10/0_/et/quest_crate_001.png","bindType":-1,"knownIds":[44875]}

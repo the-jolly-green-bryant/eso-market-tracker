@@ -1,10 +1,1 @@
-{
-  "internalId": 712748548,
-  "name": "Cuirass of the Night Mother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56360
-  ]
-}
+{"internalId":712748548,"name":"Cuirass of the Night Mother","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[56360]}

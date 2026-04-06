@@ -1,10 +1,1 @@
-{
-  "internalId": 2385756345,
-  "name": "Willow's Path Jewelry",
-  "description": "A Crafted Armor set constructed in Reaper's March, Bangkorai, and The Rift.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182453
-  ]
-}
+{"internalId":2385756345,"name":"Willow's Path Jewelry","description":"A Crafted Armor set constructed in Reaper's March, Bangkorai, and The Rift.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182453]}

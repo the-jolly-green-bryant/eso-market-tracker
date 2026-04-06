@@ -1,10 +1,1 @@
-{
-  "internalId": 2364180417,
-  "name": "Diagram: Worm Cult Chest, Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    223590
-  ]
-}
+{"internalId":2364180417,"name":"Diagram: Worm Cult Chest, Small","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[223590]}

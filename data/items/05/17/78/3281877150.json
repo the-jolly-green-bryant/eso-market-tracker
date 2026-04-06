@@ -1,10 +1,1 @@
-{
-  "internalId": 3281877150,
-  "name": "Recipe: Gold Coast Mudcrab Fries",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45692
-  ]
-}
+{"internalId":3281877150,"name":"Recipe: Gold Coast Mudcrab Fries","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45692]}

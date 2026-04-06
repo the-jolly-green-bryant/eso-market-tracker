@@ -1,17 +1,1 @@
-{
-  "internalId": 2950785283,
-  "name": "Relequen's Perfected Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_2haxe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1384743,
-    1568474,
-    1693470,
-    1702723,
-    1384743,
-    1568474,
-    1693470,
-    1702723
-  ]
-}
+{"internalId":2950785283,"name":"Relequen's Perfected Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_2haxe_001.png","bindType":-1,"knownIds":[1384743,1568474,1693470,1702723,1384743,1568474,1693470,1702723]}

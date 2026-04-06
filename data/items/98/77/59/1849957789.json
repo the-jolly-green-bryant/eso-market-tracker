@@ -1,17 +1,1 @@
-{
-  "internalId": 1849957789,
-  "name": "Amulet of the Pestilent Host",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1394905,
-    1396241,
-    1452681,
-    1508294,
-    1394905,
-    1396241,
-    1452681,
-    1508294
-  ]
-}
+{"internalId":1849957789,"name":"Amulet of the Pestilent Host","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1394905,1396241,1452681,1508294,1394905,1396241,1452681,1508294]}

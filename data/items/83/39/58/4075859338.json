@@ -1,10 +1,1 @@
-{
-  "internalId": 4075859338,
-  "name": "Crown Fortifying Meal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_crownfood_01.png",
-  "bindType": -1,
-  "knownIds": [
-    932403
-  ]
-}
+{"internalId":4075859338,"name":"Crown Fortifying Meal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/store_crownfood_01.png","bindType":-1,"knownIds":[932403]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 560003602,
-  "name": "Sword of the Willow's Path",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56560
-  ]
-}
+{"internalId":560003602,"name":"Sword of the Willow's Path","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[56560]}

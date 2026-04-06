@@ -1,10 +1,1 @@
-{
-  "internalId": 2653853002,
-  "name": "Dwarven Divider, Ornate Granite",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markdividingscreena001.png",
-  "bindType": -1,
-  "knownIds": [
-    171349
-  ]
-}
+{"internalId":2653853002,"name":"Dwarven Divider, Ornate Granite","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markdividingscreena001.png","bindType":-1,"knownIds":[171349]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 878120251,
-  "name": "Tree, Autumn Cherry Blossom",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_cherryblossom_001.png",
-  "bindType": -1,
-  "knownIds": [
-    120677
-  ]
-}
+{"internalId":878120251,"name":"Tree, Autumn Cherry Blossom","description":"This is a huge house item.","icon":"data/images/10/0_/mo/housing_tre_dec_cherryblossom_001.png","bindType":-1,"knownIds":[120677]}

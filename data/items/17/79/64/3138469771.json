@@ -1,10 +1,1 @@
-{
-  "internalId": 3138469771,
-  "name": "Deadlands Demolisher's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179546
-  ]
-}
+{"internalId":3138469771,"name":"Deadlands Demolisher's Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":2,"knownIds":[179546]}

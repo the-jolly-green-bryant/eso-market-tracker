@@ -1,10 +1,1 @@
-{
-  "internalId": 2394982859,
-  "name": "Redguard Curtain, Desert Rose",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_tapestrysmall002.png",
-  "bindType": -1,
-  "knownIds": [
-    117694
-  ]
-}
+{"internalId":2394982859,"name":"Redguard Curtain, Desert Rose","description":"This is a large house item.","icon":"data/images/20/0l/la/housing_red_inc_tapestrysmall002.png","bindType":-1,"knownIds":[117694]}

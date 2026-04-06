@@ -1,10 +1,1 @@
-{
-  "internalId": 1717529362,
-  "name": "Blueprint: Redguard Shelf, Bolted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119258
-  ]
-}
+{"internalId":1717529362,"name":"Blueprint: Redguard Shelf, Bolted","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[119258]}

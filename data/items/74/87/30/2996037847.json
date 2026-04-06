@@ -1,10 +1,1 @@
-{
-  "internalId": 2996037847,
-  "name": "Leki's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199420
-  ]
-}
+{"internalId":2996037847,"name":"Leki's Mace","description":"","icon":"data/images/a_/re/mm/gear_abahswatch_1hhammer_a.png","bindType":2,"knownIds":[79773]}

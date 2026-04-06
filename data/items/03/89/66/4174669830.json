@@ -1,11 +1,1 @@
-{
-  "internalId": 4174669830,
-  "name": "Vanus Galerion Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    931297,
-    931297
-  ]
-}
+{"internalId":4174669830,"name":"Vanus Galerion Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[931297,931297]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1172796225,
-  "name": "Sketch: Scrimshaw, Octopus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_4.png",
-  "bindType": -1,
-  "knownIds": [
-    139578
-  ]
-}
+{"internalId":1172796225,"name":"Sketch: Scrimshaw, Octopus","description":"","icon":"data/images/4_/yr/le/crafting_planfurniture_jewelry_4.png","bindType":-1,"knownIds":[139578]}

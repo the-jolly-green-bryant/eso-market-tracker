@@ -1,10 +1,1 @@
-{
-  "internalId": 1880683121,
-  "name": "Crab-Slaughter-Crane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_044.png",
-  "bindType": -1,
-  "knownIds": [
-    810495
-  ]
-}
+{"internalId":1880683121,"name":"Crab-Slaughter-Crane","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_044.png","bindType":-1,"knownIds":[810495]}

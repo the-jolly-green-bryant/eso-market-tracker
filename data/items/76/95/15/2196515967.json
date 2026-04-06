@@ -1,10 +1,1 @@
-{
-  "internalId": 2196515967,
-  "name": "Rabbit Gnocchi Ragu",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33487
-  ]
-}
+{"internalId":2196515967,"name":"Rabbit Gnocchi Ragu","description":"","icon":"data/images/10/0_/we/crafting_stew_001.png","bindType":-1,"knownIds":[33487]}

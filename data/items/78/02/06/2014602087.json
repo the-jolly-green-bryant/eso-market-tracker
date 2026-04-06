@@ -1,10 +1,1 @@
-{
-  "internalId": 2014602087,
-  "name": "Highland Sentinel Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206136
-  ]
-}
+{"internalId":2014602087,"name":"Highland Sentinel Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[206136]}

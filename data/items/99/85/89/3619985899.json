@@ -1,10 +1,1 @@
-{
-  "internalId": 3619985899,
-  "name": "Undaunted Box: Black Gem Foundry",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    219760
-  ]
-}
+{"internalId":3619985899,"name":"Undaunted Box: Black Gem Foundry","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[219760]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3510100782,
-  "name": "Tree, Old Charred Oak",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_bad_deadlands013.png",
-  "bindType": -1,
-  "knownIds": [
-    181588
-  ]
-}
+{"internalId":3510100782,"name":"Tree, Old Charred Oak","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_bad_deadlands013.png","bindType":-1,"knownIds":[181588]}

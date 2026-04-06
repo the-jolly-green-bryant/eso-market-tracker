@@ -1,10 +1,1 @@
-{
-  "internalId": 2022135128,
-  "name": "Keg of Triumph, Jeering Clannfear Beer",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedsmallkeg001.png",
-  "bindType": -1,
-  "knownIds": [
-    208111
-  ]
-}
+{"internalId":2022135128,"name":"Keg of Triumph, Jeering Clannfear Beer","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedsmallkeg001.png","bindType":-1,"knownIds":[208111]}

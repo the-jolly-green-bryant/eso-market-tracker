@@ -1,10 +1,1 @@
-{
-  "internalId": 3132872968,
-  "name": "Legacy of Karth Weapons",
-  "description": "A Crafted Armor set constructed in the Reach.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182881
-  ]
-}
+{"internalId":3132872968,"name":"Legacy of Karth Weapons","description":"A Crafted Armor set constructed in the Reach.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182881]}

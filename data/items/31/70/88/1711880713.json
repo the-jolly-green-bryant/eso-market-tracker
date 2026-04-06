@@ -1,10 +1,1 @@
-{
-  "internalId": 1711880713,
-  "name": "Recipe: Fresh Apples and Eidar Cheese",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45969
-  ]
-}
+{"internalId":1711880713,"name":"Recipe: Fresh Apples and Eidar Cheese","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45969]}

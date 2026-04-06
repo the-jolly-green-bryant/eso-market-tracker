@@ -1,10 +1,1 @@
-{
-  "internalId": 3162649150,
-  "name": "Crafting Motif 107: Annihilarch's Chosen Belts",
-  "description": "Use to learn how to make Annihilarch's Chosen Belts. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    178530
-  ]
-}
+{"internalId":3162649150,"name":"Crafting Motif 107: Annihilarch's Chosen Belts","description":"Use to learn how to make Annihilarch's Chosen Belts. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[178530]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1036773461,
-  "name": "Dagger of Beckoning Steel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    88861
-  ]
-}
+{"internalId":1036773461,"name":"Dagger of Beckoning Steel","description":"","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[88861]}

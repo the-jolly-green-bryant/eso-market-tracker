@@ -1,17 +1,1 @@
-{
-  "internalId": 4005550724,
-  "name": "splendid glyph of absorb health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_healthabsorbtion.png",
-  "bindType": -1,
-  "knownIds": [
-    449797,
-    584720,
-    1446805,
-    1531741,
-    449797,
-    584720,
-    1446805,
-    1531741
-  ]
-}
+{"internalId":4005550724,"name":"splendid glyph of absorb health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_healthabsorbtion.png","bindType":-1,"knownIds":[449797,584720,1446805,1531741,449797,584720,1446805,1531741]}

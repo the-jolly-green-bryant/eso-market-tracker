@@ -1,10 +1,1 @@
-{
-  "internalId": 1936789288,
-  "name": "Tower Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_013.png",
-  "bindType": -1,
-  "knownIds": [
-    504331
-  ]
-}
+{"internalId":1936789288,"name":"Tower Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_013.png","bindType":-1,"knownIds":[504331]}

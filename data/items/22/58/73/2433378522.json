@@ -1,10 +1,1 @@
-{
-  "internalId": 2433378522,
-  "name": "Base Dungeon Sets - Heavy",
-  "description": "The Heavy Armor item sets found in the base game Dungeons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    184255
-  ]
-}
+{"internalId":2433378522,"name":"Base Dungeon Sets - Heavy","description":"The Heavy Armor item sets found in the base game Dungeons.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[184255]}

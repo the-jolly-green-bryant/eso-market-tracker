@@ -1,10 +1,1 @@
-{
-  "internalId": 3458297636,
-  "name": "Dark Elf Rug, Striated",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_ruground003.png",
-  "bindType": -1,
-  "knownIds": [
-    115332
-  ]
-}
+{"internalId":3458297636,"name":"Dark Elf Rug, Striated","description":"This is a standard house item.","icon":"data/images/30/0d/nu/housing_dun_inc_ruground003.png","bindType":-1,"knownIds":[115332]}

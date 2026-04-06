@@ -1,10 +1,1 @@
-{
-  "internalId": 1361269779,
-  "name": "Pelt, Ice Wolf",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrwolfpeltsnow001.png",
-  "bindType": -1,
-  "knownIds": [
-    118123
-  ]
-}
+{"internalId":1361269779,"name":"Pelt, Ice Wolf","description":"This is a standard house item.","icon":"data/images/10/0w/on/housing_gen_exc_rkrwolfpeltsnow001.png","bindType":-1,"knownIds":[118123]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2740354012,
-  "name": "Design: Murkmire Pot, Handmade",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    145974
-  ]
-}
+{"internalId":2740354012,"name":"Design: Murkmire Pot, Handmade","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[145974]}

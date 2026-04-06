@@ -1,10 +1,1 @@
-{
-  "internalId": 4021916833,
-  "name": "Praxis: Apocrypha Platform, Green Lattice Tile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    203338
-  ]
-}
+{"internalId":4021916833,"name":"Praxis: Apocrypha Platform, Green Lattice Tile","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[203338]}

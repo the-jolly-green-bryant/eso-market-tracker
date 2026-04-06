@@ -1,10 +1,1 @@
-{
-  "internalId": 2467534684,
-  "name": "Steadfast Hero Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    144647
-  ]
-}
+{"internalId":2467534684,"name":"Steadfast Hero Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[144647]}

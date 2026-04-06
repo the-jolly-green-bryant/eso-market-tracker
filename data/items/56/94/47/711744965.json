@@ -1,10 +1,1 @@
-{
-  "internalId": 711744965,
-  "name": "Yokudan Sarcophagus Lid",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_duc_sarcophaguslid001.png",
-  "bindType": -1,
-  "knownIds": [
-    120857
-  ]
-}
+{"internalId":711744965,"name":"Yokudan Sarcophagus Lid","description":"This is a standard house item.","icon":"data/images/10/0d/il/housing_red_duc_sarcophaguslid001.png","bindType":-1,"knownIds":[120857]}

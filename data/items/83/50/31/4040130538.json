@@ -1,10 +1,1 @@
-{
-  "internalId": 4040130538,
-  "name": "Merryroot Trim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1394312
-  ]
-}
+{"internalId":4040130538,"name":"Merryroot Trim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png","bindType":-1,"knownIds":[1394312]}

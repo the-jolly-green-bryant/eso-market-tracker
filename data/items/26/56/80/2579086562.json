@@ -1,10 +1,1 @@
-{
-  "internalId": 2579086562,
-  "name": "Glittering Goad Banner, Large Hanging",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farglitteringgoadbannerhanging003.png",
-  "bindType": -1,
-  "knownIds": [
-    224087
-  ]
-}
+{"internalId":2579086562,"name":"Glittering Goad Banner, Large Hanging","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farglitteringgoadbannerhanging003.png","bindType":-1,"knownIds":[224087]}

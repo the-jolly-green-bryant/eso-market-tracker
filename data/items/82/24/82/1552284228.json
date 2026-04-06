@@ -1,10 +1,1 @@
-{
-  "internalId": 1552284228,
-  "name": "Alinor Trunk, Engraved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_longchest002.png",
-  "bindType": -1,
-  "knownIds": [
-    139241
-  ]
-}
+{"internalId":1552284228,"name":"Alinor Trunk, Engraved","description":"This is a standard house item.","icon":"data/images/20/0t/se/housing_sum_fur_longchest002.png","bindType":-1,"knownIds":[139241]}

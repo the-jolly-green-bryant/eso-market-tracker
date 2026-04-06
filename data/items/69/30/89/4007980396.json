@@ -1,10 +1,1 @@
-{
-  "internalId": 4007980396,
-  "name": "Footpad's Coin",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    940252
-  ]
-}
+{"internalId":4007980396,"name":"Footpad's Coin","description":"","icon":null,"bindType":-1,"knownIds":[940252]}

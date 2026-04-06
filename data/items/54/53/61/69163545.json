@@ -1,10 +1,1 @@
-{
-  "internalId": 69163545,
-  "name": "Worm Cult Lightpost, Caged Cold-Flame",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_lamppost001.png",
-  "bindType": -1,
-  "knownIds": [
-    220299
-  ]
-}
+{"internalId":69163545,"name":"Worm Cult Lightpost, Caged Cold-Flame","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_lamppost001.png","bindType":-1,"knownIds":[220299]}

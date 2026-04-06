@@ -1,10 +1,1 @@
-{
-  "internalId": 2472825407,
-  "name": "Jar of Sun Cream",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    780916
-  ]
-}
+{"internalId":2472825407,"name":"Jar of Sun Cream","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[780916]}

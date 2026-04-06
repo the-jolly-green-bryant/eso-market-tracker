@@ -1,10 +1,1 @@
-{
-  "internalId": 350423235,
-  "name": "Leggings of the Quick Fox",
-  "description": "The Reach leatherworkers of Markarth reserve sacred fox-hides for the swiftest and most cunning hunters.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167413
-  ]
-}
+{"internalId":350423235,"name":"Leggings of the Quick Fox","description":"The Reach leatherworkers of Markarth reserve sacred fox-hides for the swiftest and most cunning hunters.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_legs_a.png","bindType":2,"knownIds":[167413]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1320312997,
-  "name": "Dwarven Wardrobe, Ornate Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markarmoir001.png",
-  "bindType": -1,
-  "knownIds": [
-    171378
-  ]
-}
+{"internalId":1320312997,"name":"Dwarven Wardrobe, Ornate Polished","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markarmoir001.png","bindType":-1,"knownIds":[171378]}

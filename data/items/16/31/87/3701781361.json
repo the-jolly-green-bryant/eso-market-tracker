@@ -1,10 +1,1 @@
-{
-  "internalId": 3701781361,
-  "name": "High Isle Wall, Thin Castle",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castlefoundationdivider003.png",
-  "bindType": -1,
-  "knownIds": [
-    189486
-  ]
-}
+{"internalId":3701781361,"name":"High Isle Wall, Thin Castle","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castlefoundationdivider003.png","bindType":-1,"knownIds":[189486]}

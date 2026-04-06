@@ -1,10 +1,1 @@
-{
-  "internalId": 708590083,
-  "name": "Old Mutton Flank",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_amorphous_collops_001.png",
-  "bindType": -1,
-  "knownIds": [
-    40276
-  ]
-}
+{"internalId":708590083,"name":"Old Mutton Flank","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/10/0_/sp/monster_amorphous_collops_001.png","bindType":-1,"knownIds":[40276]}

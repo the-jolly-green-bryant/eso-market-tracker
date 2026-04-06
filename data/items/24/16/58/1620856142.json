@@ -1,10 +1,1 @@
-{
-  "internalId": 1620856142,
-  "name": "High Elf Castle Painting, In Progress",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwoodunfinished003.png",
-  "bindType": -1,
-  "knownIds": [
-    184101
-  ]
-}
+{"internalId":1620856142,"name":"High Elf Castle Painting, In Progress","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwoodunfinished003.png","bindType":-1,"knownIds":[184101]}

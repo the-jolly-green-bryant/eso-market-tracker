@@ -1,10 +1,1 @@
-{
-  "internalId": 2938576022,
-  "name": "Crafting Motif 76: Dragonguard Bows",
-  "description": "Use to learn how to make Dragonguard Bows. Also teaches the equivalent Dragonguard outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156559
-  ]
-}
+{"internalId":2938576022,"name":"Crafting Motif 76: Dragonguard Bows","description":"Use to learn how to make Dragonguard Bows. Also teaches the equivalent Dragonguard outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156559]}

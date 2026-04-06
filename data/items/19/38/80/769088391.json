@@ -1,10 +1,1 @@
-{
-  "internalId": 769088391,
-  "name": "Plant, Sea Grapes",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_seagrapes004.png",
-  "bindType": -1,
-  "knownIds": [
-    139081
-  ]
-}
+{"internalId":769088391,"name":"Plant, Sea Grapes","description":"This is a standard house item.","icon":"data/images/40/0s/ep/housing_tre_sum_seagrapes004.png","bindType":-1,"knownIds":[139081]}

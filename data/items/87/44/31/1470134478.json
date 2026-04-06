@@ -1,10 +1,1 @@
-{
-  "internalId": 1470134478,
-  "name": "Dried Prayer Garlands",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_flower_001.png",
-  "bindType": -1,
-  "knownIds": [
-    896910
-  ]
-}
+{"internalId":1470134478,"name":"Dried Prayer Garlands","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_flower_001.png","bindType":-1,"knownIds":[896910]}

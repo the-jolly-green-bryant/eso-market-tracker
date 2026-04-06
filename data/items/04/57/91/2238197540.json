@@ -1,10 +1,1 @@
-{
-  "internalId": 2238197540,
-  "name": "Ayleid Column, Tall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingmaladatower001.png",
-  "bindType": -1,
-  "knownIds": [
-    212410
-  ]
-}
+{"internalId":2238197540,"name":"Ayleid Column, Tall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingmaladatower001.png","bindType":-1,"knownIds":[212410]}

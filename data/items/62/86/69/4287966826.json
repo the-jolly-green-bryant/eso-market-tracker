@@ -1,10 +1,1 @@
-{
-  "internalId": 4287966826,
-  "name": "Mace of Martial Knowledge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95602
-  ]
-}
+{"internalId":4287966826,"name":"Mace of Martial Knowledge","description":"","icon":"data/images/a_/re/mm/gear_yokudan_1hhammer_a.png","bindType":2,"knownIds":[95602]}

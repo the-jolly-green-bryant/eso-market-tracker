@@ -1,10 +1,1 @@
-{
-  "internalId": 326891588,
-  "name": "Magnus' Gift Heavy Armor",
-  "description": "A Crafted Armor set constructed in Greenshade, Rivenspire, and Shadowfen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182404
-  ]
-}
+{"internalId":326891588,"name":"Magnus' Gift Heavy Armor","description":"A Crafted Armor set constructed in Greenshade, Rivenspire, and Shadowfen.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182404]}

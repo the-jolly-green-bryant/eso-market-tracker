@@ -1,10 +1,1 @@
-{
-  "internalId": 1158716897,
-  "name": "Vestments / Warlock",
-  "description": "A Light Armor set found in Selene's Web.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134150
-  ]
-}
+{"internalId":1158716897,"name":"Vestments / Warlock","description":"A Light Armor set found in Selene's Web.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134150]}

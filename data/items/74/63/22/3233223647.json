@@ -1,10 +1,1 @@
-{
-  "internalId": 3233223647,
-  "name": "Axe of Elf Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89947
-  ]
-}
+{"internalId":3233223647,"name":"Axe of Elf Bane","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[89947]}

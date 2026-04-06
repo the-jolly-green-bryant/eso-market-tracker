@@ -1,10 +1,1 @@
-{
-  "internalId": 3381863147,
-  "name": "Murray Cod",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    845981
-  ]
-}
+{"internalId":3381863147,"name":"Murray Cod","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[845981]}

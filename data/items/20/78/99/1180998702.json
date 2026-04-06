@@ -1,10 +1,1 @@
-{
-  "internalId": 1180998702,
-  "name": "Defiler's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123129
-  ]
-}
+{"internalId":1180998702,"name":"Defiler's Maul","description":"","icon":"data/images/a_/re/mm/gear_hlaalu_2hhammer_a.png","bindType":2,"knownIds":[123129]}

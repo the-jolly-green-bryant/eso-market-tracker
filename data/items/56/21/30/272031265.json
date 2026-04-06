@@ -1,10 +1,1 @@
-{
-  "internalId": 272031265,
-  "name": "Shield of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179153
-  ]
-}
+{"internalId":272031265,"name":"Shield of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":2,"knownIds":[179153]}

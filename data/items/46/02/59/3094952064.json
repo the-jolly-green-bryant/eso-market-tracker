@@ -1,10 +1,1 @@
-{
-  "internalId": 3094952064,
-  "name": "Ebony Sithis Idol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    810009
-  ]
-}
+{"internalId":3094952064,"name":"Ebony Sithis Idol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[810009]}

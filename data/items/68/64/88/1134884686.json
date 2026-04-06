@@ -1,10 +1,1 @@
-{
-  "internalId": 1134884686,
-  "name": "Tree, Large Gnarled Laurel",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_vrdlaureltree004.png",
-  "bindType": -1,
-  "knownIds": [
-    197633
-  ]
-}
+{"internalId":1134884686,"name":"Tree, Large Gnarled Laurel","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_vrdlaureltree004.png","bindType":-1,"knownIds":[197633]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3486086536,
-  "name": "Cheliceral Hook",
-  "description": "The hollow reservoir within this dagger seems patterned after some kind of fang. It only stops dripping when sheathed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1663
-  ]
-}
+{"internalId":3486086536,"name":"Cheliceral Hook","description":"The hollow reservoir within this dagger seems patterned after some kind of fang. It only stops dripping when sheathed.","icon":"data/images/d_/re/gg/gear_bosmer_dagger_d.png","bindType":2,"knownIds":[1663]}

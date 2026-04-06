@@ -1,10 +1,1 @@
-{
-  "internalId": 504358202,
-  "name": "Recipe: Crystal Tower Whiskey",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57063
-  ]
-}
+{"internalId":504358202,"name":"Recipe: Crystal Tower Whiskey","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57063]}

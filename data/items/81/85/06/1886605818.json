@@ -1,10 +1,1 @@
-{
-  "internalId": 1886605818,
-  "name": "Vampiric Lamp, Azure Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelablampstanding002.png",
-  "bindType": -1,
-  "knownIds": [
-    181489
-  ]
-}
+{"internalId":1886605818,"name":"Vampiric Lamp, Azure Tall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelablampstanding002.png","bindType":-1,"knownIds":[181489]}

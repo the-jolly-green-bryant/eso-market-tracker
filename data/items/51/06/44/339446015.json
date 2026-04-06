@@ -1,10 +1,1 @@
-{
-  "internalId": 339446015,
-  "name": "Plague Doctor's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    97035
-  ]
-}
+{"internalId":339446015,"name":"Plague Doctor's Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[97035]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 562113355,
-  "name": "Painting of Winter, Bolted",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varpuzzlepaintings001.png",
-  "bindType": -1,
-  "knownIds": [
-    118265
-  ]
-}
+{"internalId":562113355,"name":"Painting of Winter, Bolted","description":"This is a large house item.","icon":"data/images/10/0s/gn/housing_red_inc_varpuzzlepaintings001.png","bindType":-1,"knownIds":[118265]}

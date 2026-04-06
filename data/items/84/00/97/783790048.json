@@ -1,13 +1,1 @@
-{
-  "internalId": 783790048,
-  "name": "Perfected Dolorous Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1772639,
-    1772875,
-    1772639,
-    1772875
-  ]
-}
+{"internalId":783790048,"name":"Perfected Dolorous Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1772639,1772875,1772639,1772875]}

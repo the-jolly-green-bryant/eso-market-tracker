@@ -1,10 +1,1 @@
-{
-  "internalId": 3285684954,
-  "name": "Jeweled Lensatic Egg-Sculpture",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    836687
-  ]
-}
+{"internalId":3285684954,"name":"Jeweled Lensatic Egg-Sculpture","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[836687]}

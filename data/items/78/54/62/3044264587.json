@@ -1,10 +1,1 @@
-{
-  "internalId": 3044264587,
-  "name": "Bag of Nails",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
-  "bindType": -1,
-  "knownIds": [
-    859425
-  ]
-}
+{"internalId":3044264587,"name":"Bag of Nails","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png","bindType":-1,"knownIds":[859425]}

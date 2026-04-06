@@ -1,10 +1,1 @@
-{
-  "internalId": 3543989909,
-  "name": "Claudette's Fingers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": -1,
-  "knownIds": [
-    795978
-  ]
-}
+{"internalId":3543989909,"name":"Claudette's Fingers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png","bindType":-1,"knownIds":[795978]}

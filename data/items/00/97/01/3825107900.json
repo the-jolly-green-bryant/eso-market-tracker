@@ -1,10 +1,1 @@
-{
-  "internalId": 3825107900,
-  "name": "Brass Navigator's Quadrant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_compass.png",
-  "bindType": -1,
-  "knownIds": [
-    625413
-  ]
-}
+{"internalId":3825107900,"name":"Brass Navigator's Quadrant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_compass.png","bindType":-1,"knownIds":[625413]}

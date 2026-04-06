@@ -1,10 +1,1 @@
-{
-  "internalId": 694122858,
-  "name": "Companion's Cuirass",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_chest_heavy.png",
-  "bindType": 2,
-  "knownIds": [
-    177206
-  ]
-}
+{"internalId":694122858,"name":"Companion's Cuirass","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_chest_heavy.png","bindType":2,"knownIds":[177206]}

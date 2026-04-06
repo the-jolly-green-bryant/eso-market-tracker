@@ -1,10 +1,1 @@
-{
-  "internalId": 2364966591,
-  "name": "Bardic Surcoat",
-  "description": "Awarded for rescuing the foolish bards who landed themselves in a giant's camp.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10989
-  ]
-}
+{"internalId":2364966591,"name":"Bardic Surcoat","description":"Awarded for rescuing the foolish bards who landed themselves in a giant's camp.","icon":"data/images/d_/eb/or/gear_dunmer_light_robe_d.png","bindType":2,"knownIds":[10989]}

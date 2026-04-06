@@ -1,10 +1,1 @@
-{
-  "internalId": 530984480,
-  "name": "Recipe: Mid Year Green Salad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45677
-  ]
-}
+{"internalId":530984480,"name":"Recipe: Mid Year Green Salad","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45677]}

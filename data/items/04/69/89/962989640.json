@@ -1,10 +1,1 @@
-{
-  "internalId": 962989640,
-  "name": "Caravaner's Breeches",
-  "description": "These trousers are comfortable enough, but the threadbare knees need patching.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    152244
-  ]
-}
+{"internalId":962989640,"name":"Caravaner's Breeches","description":"These trousers are comfortable enough, but the threadbare knees need patching.","icon":"data/images/d_/sg/el/gear_khajiit_light_legs_d.png","bindType":2,"knownIds":[152244]}

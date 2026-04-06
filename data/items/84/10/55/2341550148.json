@@ -1,10 +1,1 @@
-{
-  "internalId": 2341550148,
-  "name": "Orcish Brazier, Column",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_str_wtgthroneroomsconce001.png",
-  "bindType": -1,
-  "knownIds": [
-    134268
-  ]
-}
+{"internalId":2341550148,"name":"Orcish Brazier, Column","description":"This is a large house item.","icon":"data/images/10/0e/cn/housing_orc_str_wtgthroneroomsconce001.png","bindType":-1,"knownIds":[134268]}

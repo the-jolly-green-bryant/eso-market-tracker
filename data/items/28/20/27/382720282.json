@@ -1,17 +1,1 @@
-{
-  "internalId": 382720282,
-  "name": "Vandorallen's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_axe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1749067,
-    1773093,
-    1749067,
-    1773093,
-    1749067,
-    1773093,
-    1749067,
-    1773093
-  ]
-}
+{"internalId":382720282,"name":"Vandorallen's Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_axe_a.png","bindType":-1,"knownIds":[1749067,1773093,1749067,1773093,1749067,1773093,1749067,1773093]}

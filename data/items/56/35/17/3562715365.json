@@ -1,10 +1,1 @@
-{
-  "internalId": 3562715365,
-  "name": "Hist's Root Band",
-  "description": "Gifted by Ja-Reet for untangling the knots within his spirit and connecting him to the Hist.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10346
-  ]
-}
+{"internalId":3562715365,"name":"Hist's Root Band","description":"Gifted by Ja-Reet for untangling the knots within his spirit and connecting him to the Hist.","icon":"data/images/d_/sd/na/gear_argonian_heavy_hands_d.png","bindType":2,"knownIds":[10346]}

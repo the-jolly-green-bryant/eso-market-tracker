@@ -1,10 +1,1 @@
-{
-  "internalId": 56739031,
-  "name": "Style Page: Horned Dragon Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1244519
-  ]
-}
+{"internalId":56739031,"name":"Style Page: Horned Dragon Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1244519]}

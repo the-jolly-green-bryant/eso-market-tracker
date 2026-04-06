@@ -1,10 +1,1 @@
-{
-  "internalId": 1549234935,
-  "name": "Sip of Cowardice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_020_type_001.png",
-  "bindType": -1,
-  "knownIds": [
-    44813
-  ]
-}
+{"internalId":1549234935,"name":"Sip of Cowardice","description":"","icon":"data/images/10/0_/ep/consumable_potion_020_type_001.png","bindType":-1,"knownIds":[44813]}

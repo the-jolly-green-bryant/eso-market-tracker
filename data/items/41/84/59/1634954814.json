@@ -1,10 +1,1 @@
-{
-  "internalId": 1634954814,
-  "name": "Breton Curio, Knotwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_chinacabinet003.png",
-  "bindType": -1,
-  "knownIds": [
-    115218
-  ]
-}
+{"internalId":1634954814,"name":"Breton Curio, Knotwork","description":"This is a standard house item.","icon":"data/images/30/0t/en/housing_bre_fur_chinacabinet003.png","bindType":-1,"knownIds":[115218]}

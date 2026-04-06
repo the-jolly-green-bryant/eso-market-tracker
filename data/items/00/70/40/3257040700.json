@@ -1,10 +1,1 @@
-{
-  "internalId": 3257040700,
-  "name": "Maple Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212303
-  ]
-}
+{"internalId":3257040700,"name":"Maple Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_a.png","bindType":2,"knownIds":[212303]}

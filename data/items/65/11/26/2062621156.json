@@ -1,10 +1,1 @@
-{
-  "internalId": 2062621156,
-  "name": "Tide-Born Egg-Handling Gloves",
-  "description": "A special pair of shoal-tender gloves given as a show of trust and respect by the Tide-Born tribe.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    217719
-  ]
-}
+{"internalId":2062621156,"name":"Tide-Born Egg-Handling Gloves","description":"A special pair of shoal-tender gloves given as a show of trust and respect by the Tide-Born tribe.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_hands_a.png","bindType":2,"knownIds":[217719]}

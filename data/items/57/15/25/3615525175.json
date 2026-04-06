@@ -1,10 +1,1 @@
-{
-  "internalId": 3615525175,
-  "name": "Gryphon's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1haxe_b.png",
-  "bindType": 2,
-  "knownIds": [
-    135486
-  ]
-}
+{"internalId":3615525175,"name":"Gryphon's Axe","description":"","icon":"data/images/b_/ex/ah/gear_ancient_elf_1haxe_b.png","bindType":2,"knownIds":[135486]}

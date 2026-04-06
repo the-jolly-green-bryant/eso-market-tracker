@@ -1,13 +1,1 @@
-{
-  "internalId": 2496043524,
-  "name": "Crystal Wine Decanter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    808921,
-    477649,
-    808921,
-    477649
-  ]
-}
+{"internalId":2496043524,"name":"Crystal Wine Decanter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[808921,477649,808921,477649]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1078873073,
-  "name": "Gloomspore Chitin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_blackreach_vanguard.png",
-  "bindType": -1,
-  "knownIds": [
-    160509
-  ]
-}
+{"internalId":1078873073,"name":"Gloomspore Chitin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_blackreach_vanguard.png","bindType":-1,"knownIds":[160509]}

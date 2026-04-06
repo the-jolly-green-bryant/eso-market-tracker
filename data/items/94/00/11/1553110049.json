@@ -1,10 +1,1 @@
-{
-  "internalId": 1553110049,
-  "name": "Affix Script: Breach",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_breach.png",
-  "bindType": -1,
-  "knownIds": [
-    204612
-  ]
-}
+{"internalId":1553110049,"name":"Affix Script: Breach","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_breach.png","bindType":-1,"knownIds":[204612]}

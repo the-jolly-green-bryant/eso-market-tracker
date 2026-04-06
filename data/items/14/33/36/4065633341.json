@@ -1,10 +1,1 @@
-{
-  "internalId": 4065633341,
-  "name": "Hunting Horn",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    818499
-  ]
-}
+{"internalId":4065633341,"name":"Hunting Horn","description":"","icon":null,"bindType":-1,"knownIds":[818499]}

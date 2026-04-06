@@ -1,15 +1,1 @@
-{
-  "internalId": 732347804,
-  "name": "Basalt-Blooded Warrior Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678194,
-    1683517,
-    1716176,
-    1678194,
-    1683517,
-    1716176
-  ]
-}
+{"internalId":732347804,"name":"Basalt-Blooded Warrior Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png","bindType":-1,"knownIds":[1678194,1683517,1716176,1678194,1683517,1716176]}

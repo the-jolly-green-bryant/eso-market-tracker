@@ -1,10 +1,1 @@
-{
-  "internalId": 606258713,
-  "name": "Diagram: Relic Vault, Impenetrable",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png",
-  "bindType": -1,
-  "knownIds": [
-    141902
-  ]
-}
+{"internalId":606258713,"name":"Diagram: Relic Vault, Impenetrable","description":"","icon":"data/images/5g/ni/ht/crafting_planfurniture_blacksmithing5.png","bindType":-1,"knownIds":[141902]}

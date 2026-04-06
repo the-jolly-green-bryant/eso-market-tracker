@@ -1,17 +1,1 @@
-{
-  "internalId": 1684676320,
-  "name": "splendid glyph of weakening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_weakeningenchant.png",
-  "bindType": -1,
-  "knownIds": [
-    457427,
-    500881,
-    1438752,
-    1447670,
-    457427,
-    500881,
-    1438752,
-    1447670
-  ]
-}
+{"internalId":1684676320,"name":"splendid glyph of weakening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_weakeningenchant.png","bindType":-1,"knownIds":[457427,500881,1438752,1447670,457427,500881,1438752,1447670]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2520413968,
-  "name": "Dominion's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54313
-  ]
-}
+{"internalId":2520413968,"name":"Dominion's Belt","description":"","icon":"data/images/a_/ts/ia/gear_akaviri_medium_waist_a.png","bindType":2,"knownIds":[54313]}

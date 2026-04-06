@@ -1,10 +1,1 @@
-{
-  "internalId": 3040867850,
-  "name": "Sapling, Young Shade",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_castanopsissapling004.png",
-  "bindType": -1,
-  "knownIds": [
-    139120
-  ]
-}
+{"internalId":3040867850,"name":"Sapling, Young Shade","description":"This is a standard house item.","icon":"data/images/40/0g/ni/housing_tre_sum_castanopsissapling004.png","bindType":-1,"knownIds":[139120]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3475266426,
-  "name": "tincture of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    363905,
-    714494,
-    1442562,
-    363905,
-    714494,
-    1442562
-  ]
-}
+{"internalId":3475266426,"name":"tincture of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png","bindType":-1,"knownIds":[363905,714494,1442562,363905,714494,1442562]}

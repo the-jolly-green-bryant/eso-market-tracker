@@ -1,10 +1,1 @@
-{
-  "internalId": 235648610,
-  "name": "Shipping Logs",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    824855
-  ]
-}
+{"internalId":235648610,"name":"Shipping Logs","description":"","icon":null,"bindType":-1,"knownIds":[824855]}

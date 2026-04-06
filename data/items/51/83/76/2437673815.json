@@ -1,10 +1,1 @@
-{
-  "internalId": 2437673815,
-  "name": "Frost Troll Ragamuffin Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_035.png",
-  "bindType": -1,
-  "knownIds": [
-    509586
-  ]
-}
+{"internalId":2437673815,"name":"Frost Troll Ragamuffin Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_035.png","bindType":-1,"knownIds":[509586]}

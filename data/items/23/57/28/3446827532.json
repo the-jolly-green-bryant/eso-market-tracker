@@ -1,10 +1,1 @@
-{
-  "internalId": 3446827532,
-  "name": "Wood Elf Pitcher, Ceramic",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_vasetabletop007.png",
-  "bindType": -1,
-  "knownIds": [
-    115601
-  ]
-}
+{"internalId":3446827532,"name":"Wood Elf Pitcher, Ceramic","description":"This is a small house item.","icon":"data/images/70/0p/ot/housing_bos_inc_vasetabletop007.png","bindType":-1,"knownIds":[115601]}

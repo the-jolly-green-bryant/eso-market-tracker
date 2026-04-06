@@ -1,10 +1,1 @@
-{
-  "internalId": 1529795429,
-  "name": "Recipe: Guarana Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46040
-  ]
-}
+{"internalId":1529795429,"name":"Recipe: Guarana Tonic","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46040]}

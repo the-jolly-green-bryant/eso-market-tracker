@@ -1,10 +1,1 @@
-{
-  "internalId": 550371093,
-  "name": "Green Salad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33831
-  ]
-}
+{"internalId":550371093,"name":"Green Salad","description":"","icon":"data/images/10/0_/da/crafting_salad_001.png","bindType":-1,"knownIds":[33831]}

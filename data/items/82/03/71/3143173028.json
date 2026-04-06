@@ -1,10 +1,1 @@
-{
-  "internalId": 3143173028,
-  "name": "Forest Wraith's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192327
-  ]
-}
+{"internalId":3143173028,"name":"Forest Wraith's Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":2,"knownIds":[192327]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 476495069,
-  "name": "Rallying Cry Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    183390
-  ]
-}
+{"internalId":476495069,"name":"Rallying Cry Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":2,"knownIds":[183390]}

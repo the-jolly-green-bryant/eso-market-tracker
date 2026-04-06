@@ -1,10 +1,1 @@
-{
-  "internalId": 469375597,
-  "name": "Ice Furnace Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86513
-  ]
-}
+{"internalId":469375597,"name":"Ice Furnace Shield","description":"","icon":"data/images/d_/dl/ei/gear_redguard_shield_d.png","bindType":2,"knownIds":[86513]}

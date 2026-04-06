@@ -1,10 +1,1 @@
-{
-  "internalId": 2929170601,
-  "name": "Menagerie of Marvelous Markings II",
-  "description": "An elaborate chest containing many collectible Body and Face Markings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_con_housingchest004.png",
-  "bindType": 3,
-  "knownIds": [
-    204527
-  ]
-}
+{"internalId":2929170601,"name":"Menagerie of Marvelous Markings II","description":"An elaborate chest containing many collectible Body and Face Markings.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_con_housingchest004.png","bindType":3,"knownIds":[204527]}

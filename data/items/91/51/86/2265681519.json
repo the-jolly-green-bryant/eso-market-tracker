@@ -1,10 +1,1 @@
-{
-  "internalId": 2265681519,
-  "name": "Coral Formation, Tree Shelf",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_coraltree006.png",
-  "bindType": -1,
-  "knownIds": [
-    139332
-  ]
-}
+{"internalId":2265681519,"name":"Coral Formation, Tree Shelf","description":"This is a large house item.","icon":"data/images/60/0e/er/housing_tre_sum_coraltree006.png","bindType":-1,"knownIds":[139332]}

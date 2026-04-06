@@ -1,10 +1,1 @@
-{
-  "internalId": 900535274,
-  "name": "Girdle of the Undaunted Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    58728
-  ]
-}
+{"internalId":900535274,"name":"Girdle of the Undaunted Bastion","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[58728]}

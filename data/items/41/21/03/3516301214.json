@@ -1,10 +1,1 @@
-{
-  "internalId": 3516301214,
-  "name": "Emelin's Clasp of Cyrodiil's Light",
-  "description": "This translucent necklace always feels damp to the touch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    45749
-  ]
-}
+{"internalId":3516301214,"name":"Emelin's Clasp of Cyrodiil's Light","description":"This translucent necklace always feels damp to the touch.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[45749]}

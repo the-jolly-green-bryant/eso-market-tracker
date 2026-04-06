@@ -1,13 +1,1 @@
-{
-  "internalId": 3904611326,
-  "name": "Black-Glove Grounding Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_2hsword.png",
-  "bindType": -1,
-  "knownIds": [
-    1717216,
-    1731670,
-    1717216,
-    1731670
-  ]
-}
+{"internalId":3904611326,"name":"Black-Glove Grounding Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_2hsword.png","bindType":-1,"knownIds":[1717216,1731670,1717216,1731670]}

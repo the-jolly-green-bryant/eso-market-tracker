@@ -1,10 +1,1 @@
-{
-  "internalId": 3467122360,
-  "name": "Leyawiin Hand Mirror, Silver",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyhandmirror001.png",
-  "bindType": -1,
-  "knownIds": [
-    175669
-  ]
-}
+{"internalId":3467122360,"name":"Leyawiin Hand Mirror, Silver","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyhandmirror001.png","bindType":-1,"knownIds":[175669]}

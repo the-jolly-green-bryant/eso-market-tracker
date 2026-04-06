@@ -1,10 +1,1 @@
-{
-  "internalId": 1464500965,
-  "name": "Axe of Truth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89219
-  ]
-}
+{"internalId":1464500965,"name":"Axe of Truth","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[89219]}

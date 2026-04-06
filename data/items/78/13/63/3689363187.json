@@ -1,15 +1,1 @@
-{
-  "internalId": 3689363187,
-  "name": "panacea of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    373828,
-    692347,
-    1596530,
-    373828,
-    692347,
-    1596530
-  ]
-}
+{"internalId":3689363187,"name":"panacea of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png","bindType":-1,"knownIds":[373828,692347,1596530,373828,692347,1596530]}

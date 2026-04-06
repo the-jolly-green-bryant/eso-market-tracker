@@ -1,10 +1,1 @@
-{
-  "internalId": 2099163700,
-  "name": "Amber Plasm Pacifier",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1352167
-  ]
-}
+{"internalId":2099163700,"name":"Amber Plasm Pacifier","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[1352167]}

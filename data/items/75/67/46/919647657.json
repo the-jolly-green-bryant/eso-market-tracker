@@ -1,10 +1,1 @@
-{
-  "internalId": 919647657,
-  "name": "Praxis: Druidic Wall, Long Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    194370
-  ]
-}
+{"internalId":919647657,"name":"Praxis: Druidic Wall, Long Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[194370]}

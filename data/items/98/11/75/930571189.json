@@ -1,10 +1,1 @@
-{
-  "internalId": 930571189,
-  "name": "Argonian Bar, Woven Corner",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkbar001.png",
-  "bindType": -1,
-  "knownIds": [
-    115467
-  ]
-}
+{"internalId":930571189,"name":"Argonian Bar, Woven Corner","description":"This is a large house item.","icon":"data/images/10/0r/ab/housing_arg_fur_mrkbar001.png","bindType":-1,"knownIds":[115467]}

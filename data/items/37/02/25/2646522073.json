@@ -1,13 +1,1 @@
-{
-  "internalId": 2646522073,
-  "name": "average glyph of stamina recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png",
-  "bindType": -1,
-  "knownIds": [
-    432396,
-    1445956,
-    432396,
-    1445956
-  ]
-}
+{"internalId":2646522073,"name":"average glyph of stamina recovery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png","bindType":-1,"knownIds":[432396,1445956,432396,1445956]}

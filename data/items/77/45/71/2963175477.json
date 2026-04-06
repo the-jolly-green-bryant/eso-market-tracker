@@ -1,10 +1,1 @@
-{
-  "internalId": 2963175477,
-  "name": "Redguard Table, Game",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varroundtable001.png",
-  "bindType": -1,
-  "knownIds": [
-    117794
-  ]
-}
+{"internalId":2963175477,"name":"Redguard Table, Game","description":"This is a standard house item.","icon":"data/images/10/0e/lb/housing_red_fur_varroundtable001.png","bindType":-1,"knownIds":[117794]}

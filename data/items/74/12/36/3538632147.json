@@ -1,10 +1,1 @@
-{
-  "internalId": 3538632147,
-  "name": "Werewolf Knot Rake",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826606
-  ]
-}
+{"internalId":3538632147,"name":"Werewolf Knot Rake","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[826606]}

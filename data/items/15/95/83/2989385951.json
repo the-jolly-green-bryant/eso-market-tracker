@@ -1,10 +1,1 @@
-{
-  "internalId": 2989385951,
-  "name": "Mirror of Fatal Premonition",
-  "description": "Few dare to gaze upon this mirror, which shows the viewer's face mere moments before their inevitable death. Bring this to the Vault of Moawita in Summerset.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mirror_001.png",
-  "bindType": 3,
-  "knownIds": [
-    133618
-  ]
-}
+{"internalId":2989385951,"name":"Mirror of Fatal Premonition","description":"Few dare to gaze upon this mirror, which shows the viewer's face mere moments before their inevitable death. Bring this to the Vault of Moawita in Summerset.","icon":"data/images/10/0_/ro/justice_stolen_mirror_001.png","bindType":3,"knownIds":[133618]}

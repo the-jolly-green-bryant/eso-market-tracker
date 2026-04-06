@@ -1,13 +1,1 @@
-{
-  "internalId": 4116457421,
-  "name": "average glyph of hardening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png",
-  "bindType": -1,
-  "knownIds": [
-    457624,
-    1445799,
-    457624,
-    1445799
-  ]
-}
+{"internalId":4116457421,"name":"average glyph of hardening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png","bindType":-1,"knownIds":[457624,1445799,457624,1445799]}

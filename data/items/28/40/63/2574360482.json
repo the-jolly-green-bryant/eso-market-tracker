@@ -1,10 +1,1 @@
-{
-  "internalId": 2574360482,
-  "name": "Ash'abah Friendship Coin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    651663
-  ]
-}
+{"internalId":2574360482,"name":"Ash'abah Friendship Coin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png","bindType":-1,"knownIds":[651663]}

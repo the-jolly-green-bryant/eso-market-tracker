@@ -1,10 +1,1 @@
-{
-  "internalId": 2377000615,
-  "name": "Plants, Amber Spadeleaf Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_hrcelephantearplant006.png",
-  "bindType": -1,
-  "knownIds": [
-    141844
-  ]
-}
+{"internalId":2377000615,"name":"Plants, Amber Spadeleaf Cluster","description":"This is a standard house item.","icon":"data/images/60/0t/na/housing_veg_flr_hrcelephantearplant006.png","bindType":-1,"knownIds":[141844]}

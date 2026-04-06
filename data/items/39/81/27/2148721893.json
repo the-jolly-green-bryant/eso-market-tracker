@@ -1,10 +1,1 @@
-{
-  "internalId": 2148721893,
-  "name": "Maritime Hourglass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1196786
-  ]
-}
+{"internalId":2148721893,"name":"Maritime Hourglass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png","bindType":-1,"knownIds":[1196786]}

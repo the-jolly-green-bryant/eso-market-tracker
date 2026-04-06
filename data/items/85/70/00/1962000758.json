@@ -1,10 +1,1 @@
-{
-  "internalId": 1962000758,
-  "name": "Colovian Wine Press",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winegrapepress001.png",
-  "bindType": -1,
-  "knownIds": [
-    212555
-  ]
-}
+{"internalId":1962000758,"name":"Colovian Wine Press","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winegrapepress001.png","bindType":-1,"knownIds":[212555]}

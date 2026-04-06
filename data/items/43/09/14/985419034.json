@@ -1,10 +1,1 @@
-{
-  "internalId": 985419034,
-  "name": "Apocrypha Bookcase Platform",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_libbookcase001.png",
-  "bindType": -1,
-  "knownIds": [
-    203281
-  ]
-}
+{"internalId":985419034,"name":"Apocrypha Bookcase Platform","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_libbookcase001.png","bindType":-1,"knownIds":[203281]}

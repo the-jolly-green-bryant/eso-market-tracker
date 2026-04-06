@@ -1,10 +1,1 @@
-{
-  "internalId": 2185454995,
-  "name": "Frostwind Axe",
-  "description": "This weapon was awarded for aiding the survivors of the giant attack on Lower Yorgrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7680
-  ]
-}
+{"internalId":2185454995,"name":"Frostwind Axe","description":"This weapon was awarded for aiding the survivors of the giant attack on Lower Yorgrim.","icon":"data/images/d_/ex/ah/gear_nord_1haxe_d.png","bindType":2,"knownIds":[7680]}

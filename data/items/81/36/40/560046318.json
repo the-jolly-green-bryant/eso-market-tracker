@@ -1,10 +1,1 @@
-{
-  "internalId": 560046318,
-  "name": "Hist Bark Cane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    863400
-  ]
-}
+{"internalId":560046318,"name":"Hist Bark Cane","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[863400]}

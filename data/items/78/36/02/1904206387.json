@@ -1,10 +1,1 @@
-{
-  "internalId": 1904206387,
-  "name": "Plant Cluster, Jungle Assortment",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_u36largeplantclusters003.png",
-  "bindType": -1,
-  "knownIds": [
-    220366
-  ]
-}
+{"internalId":1904206387,"name":"Plant Cluster, Jungle Assortment","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_u36largeplantclusters003.png","bindType":-1,"knownIds":[220366]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 222055509,
-  "name": "Ancient Dragonguard's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156138
-  ]
-}
+{"internalId":222055509,"name":"Ancient Dragonguard's Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[156138]}

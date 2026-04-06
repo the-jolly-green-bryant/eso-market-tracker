@@ -1,15 +1,1 @@
-{
-  "internalId": 1008320124,
-  "name": "Crocodile Skin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    712860,
-    396832,
-    789983,
-    712860,
-    396832,
-    789983
-  ]
-}
+{"internalId":1008320124,"name":"Crocodile Skin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_legs_d.png","bindType":-1,"knownIds":[712860,396832,789983,712860,396832,789983]}

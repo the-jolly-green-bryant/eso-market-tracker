@@ -1,10 +1,1 @@
-{
-  "internalId": 3504424849,
-  "name": "Crafting Motif 86: Sea Giant Legs",
-  "description": "Use to learn how to make Sea Giant Legs. Also teaches the equivalent Sea Giant Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160568
-  ]
-}
+{"internalId":3504424849,"name":"Crafting Motif 86: Sea Giant Legs","description":"Use to learn how to make Sea Giant Legs. Also teaches the equivalent Sea Giant Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160568]}

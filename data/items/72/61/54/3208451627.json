@@ -1,10 +1,1 @@
-{
-  "internalId": 3208451627,
-  "name": "Critter Meat",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    791675
-  ]
-}
+{"internalId":3208451627,"name":"Critter Meat","description":"","icon":null,"bindType":-1,"knownIds":[791675]}

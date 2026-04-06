@@ -1,10 +1,1 @@
-{
-  "internalId": 3272532575,
-  "name": "Tor Draioch Towers Painting, Wood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_woodpaintinglarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    187875
-  ]
-}
+{"internalId":3272532575,"name":"Tor Draioch Towers Painting, Wood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_woodpaintinglarge002.png","bindType":-1,"knownIds":[187875]}

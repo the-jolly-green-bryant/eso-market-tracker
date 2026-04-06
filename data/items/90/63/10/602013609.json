@@ -1,10 +1,1 @@
-{
-  "internalId": 602013609,
-  "name": "Cold Twice-Baked Potatoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potato.png",
-  "bindType": -1,
-  "knownIds": [
-    37911
-  ]
-}
+{"internalId":602013609,"name":"Cold Twice-Baked Potatoes","description":"","icon":"data/images/ot/at/op/crafting_potato.png","bindType":-1,"knownIds":[37911]}

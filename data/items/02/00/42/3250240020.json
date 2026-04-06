@@ -1,10 +1,1 @@
-{
-  "internalId": 3250240020,
-  "name": "Orcish Gateway, City",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_waf_housingwtgwallssmallgate001.png",
-  "bindType": -1,
-  "knownIds": [
-    210886
-  ]
-}
+{"internalId":3250240020,"name":"Orcish Gateway, City","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_waf_housingwtgwallssmallgate001.png","bindType":-1,"knownIds":[210886]}

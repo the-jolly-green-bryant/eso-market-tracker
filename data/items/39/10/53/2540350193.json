@@ -1,10 +1,1 @@
-{
-  "internalId": 2540350193,
-  "name": "Stale Senchal Curry Fish and Rice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37810
-  ]
-}
+{"internalId":2540350193,"name":"Stale Senchal Curry Fish and Rice","description":"","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[37810]}

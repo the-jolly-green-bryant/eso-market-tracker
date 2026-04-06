@@ -1,10 +1,1 @@
-{
-  "internalId": 1667081725,
-  "name": "Skingrad Muscat Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    363882
-  ]
-}
+{"internalId":1667081725,"name":"Skingrad Muscat Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[363882]}

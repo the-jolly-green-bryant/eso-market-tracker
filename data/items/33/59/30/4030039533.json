@@ -1,10 +1,1 @@
-{
-  "internalId": 4030039533,
-  "name": "Pouch of Ill-Gotten Goods",
-  "description": "This pouch contains stolen goods from across Tamriel, intended for participants of the Crime Wave event.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": 3,
-  "knownIds": [
-    214263
-  ]
-}
+{"internalId":4030039533,"name":"Pouch of Ill-Gotten Goods","description":"This pouch contains stolen goods from across Tamriel, intended for participants of the Crime Wave event.","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":3,"knownIds":[214263]}

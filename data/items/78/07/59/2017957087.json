@@ -1,10 +1,1 @@
-{
-  "internalId": 2017957087,
-  "name": "Sapling, Foothills Pine",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_emwhitepine005.png",
-  "bindType": -1,
-  "knownIds": [
-    132209
-  ]
-}
+{"internalId":2017957087,"name":"Sapling, Foothills Pine","description":"This is a large house item.","icon":"data/images/50/0e/ni/housing_tre_eve_emwhitepine005.png","bindType":-1,"knownIds":[132209]}

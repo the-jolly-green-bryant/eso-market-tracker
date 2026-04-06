@@ -1,10 +1,1 @@
-{
-  "internalId": 1635547452,
-  "name": "Chokethorn Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_strangler_heavy_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1724485
-  ]
-}
+{"internalId":1635547452,"name":"Chokethorn Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_strangler_heavy_head_a.png","bindType":-1,"knownIds":[1724485]}

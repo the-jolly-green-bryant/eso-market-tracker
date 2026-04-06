@@ -1,10 +1,1 @@
-{
-  "internalId": 2864923814,
-  "name": "Naga Shaman Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143503
-  ]
-}
+{"internalId":2864923814,"name":"Naga Shaman Bow","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[143503]}

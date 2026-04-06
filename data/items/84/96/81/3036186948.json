@@ -1,10 +1,1 @@
-{
-  "internalId": 3036186948,
-  "name": "Dwarven Potted Plant, Polished Vase",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_marklargevase003a.png",
-  "bindType": -1,
-  "knownIds": [
-    171333
-  ]
-}
+{"internalId":3036186948,"name":"Dwarven Potted Plant, Polished Vase","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_marklargevase003a.png","bindType":-1,"knownIds":[171333]}

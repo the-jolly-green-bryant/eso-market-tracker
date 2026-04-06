@@ -1,10 +1,1 @@
-{
-  "internalId": 1329598707,
-  "name": "Brotherhood Plaque, Wolf",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_str_plaque001.png",
-  "bindType": -1,
-  "knownIds": [
-    120838
-  ]
-}
+{"internalId":1329598707,"name":"Brotherhood Plaque, Wolf","description":"This is a large house item.","icon":"data/images/10/0e/uq/housing_col_str_plaque001.png","bindType":-1,"knownIds":[120838]}

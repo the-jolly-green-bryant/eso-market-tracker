@@ -1,17 +1,1 @@
-{
-  "internalId": 3546103181,
-  "name": "Nobility in Decay Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_shield_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678278,
-    1692302,
-    1696590,
-    1702314,
-    1717365,
-    1717429,
-    1718117,
-    1727063
-  ]
-}
+{"internalId":3546103181,"name":"Nobility in Decay Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_shield_a.png","bindType":-1,"knownIds":[1678278,1692302,1696590,1702314,1717365,1717429,1718117,1727063]}

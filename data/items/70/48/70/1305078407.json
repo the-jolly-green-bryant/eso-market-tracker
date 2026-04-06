@@ -1,10 +1,1 @@
-{
-  "internalId": 1305078407,
-  "name": "Sketch: Elsweyr Steaming Pot, Ceramic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_4.png",
-  "bindType": -1,
-  "knownIds": [
-    151992
-  ]
-}
+{"internalId":1305078407,"name":"Sketch: Elsweyr Steaming Pot, Ceramic","description":"","icon":"data/images/4_/yr/le/crafting_planfurniture_jewelry_4.png","bindType":-1,"knownIds":[151992]}

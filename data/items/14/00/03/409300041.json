@@ -1,10 +1,1 @@
-{
-  "internalId": 409300041,
-  "name": "Jewelry: Way of Martial Knowledge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1174311
-  ]
-}
+{"internalId":409300041,"name":"Jewelry: Way of Martial Knowledge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1174311]}

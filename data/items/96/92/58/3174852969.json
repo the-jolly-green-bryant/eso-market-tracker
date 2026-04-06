@@ -1,10 +1,1 @@
-{
-  "internalId": 3174852969,
-  "name": "Flawless Black Pearl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gem_002.png",
-  "bindType": -1,
-  "knownIds": [
-    710274
-  ]
-}
+{"internalId":3174852969,"name":"Flawless Black Pearl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gem_002.png","bindType":-1,"knownIds":[710274]}

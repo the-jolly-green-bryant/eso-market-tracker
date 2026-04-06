@@ -1,10 +1,1 @@
-{
-  "internalId": 1700087703,
-  "name": "Guards of Tava's Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72118
-  ]
-}
+{"internalId":1700087703,"name":"Guards of Tava's Favor","description":"","icon":"data/images/d_/sg/el/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[72118]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 418932453,
-  "name": "Design: Clockwork Paste Dispenser, Empty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    134546
-  ]
-}
+{"internalId":418932453,"name":"Design: Clockwork Paste Dispenser, Empty","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[134546]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 737714845,
-  "name": "Champion of the Hist Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142390
-  ]
-}
+{"internalId":737714845,"name":"Champion of the Hist Shield","description":"","icon":"data/images/a_/dl/ei/gear_elderarg_shield_a.png","bindType":2,"knownIds":[142390]}

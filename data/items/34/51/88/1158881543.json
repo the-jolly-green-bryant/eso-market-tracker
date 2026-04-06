@@ -1,10 +1,1 @@
-{
-  "internalId": 1158881543,
-  "name": "Stuffed Venison Haunch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33537
-  ]
-}
+{"internalId":1158881543,"name":"Stuffed Venison Haunch","description":"","icon":"data/images/20/0_/ta/crafting_meat_002.png","bindType":-1,"knownIds":[33537]}

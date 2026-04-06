@@ -1,10 +1,1 @@
-{
-  "internalId": 8807584,
-  "name": "Greatsword of the Weald",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hsword.png",
-  "bindType": 2,
-  "knownIds": [
-    205036
-  ]
-}
+{"internalId":8807584,"name":"Greatsword of the Weald","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hsword.png","bindType":2,"knownIds":[205036]}

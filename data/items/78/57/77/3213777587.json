@@ -1,10 +1,1 @@
-{
-  "internalId": 3213777587,
-  "name": "Dented Jingleball",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1318792
-  ]
-}
+{"internalId":3213777587,"name":"Dented Jingleball","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png","bindType":-1,"knownIds":[1318792]}

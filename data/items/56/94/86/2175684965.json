@@ -1,10 +1,1 @@
-{
-  "internalId": 2175684965,
-  "name": "Ancient Breton Deed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1344328
-  ]
-}
+{"internalId":2175684965,"name":"Ancient Breton Deed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[1344328]}

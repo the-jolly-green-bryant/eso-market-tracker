@@ -1,10 +1,1 @@
-{
-  "internalId": 2733223676,
-  "name": "Signature Script: Anchorite's Potency",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_giveultimate.png",
-  "bindType": -1,
-  "knownIds": [
-    204587
-  ]
-}
+{"internalId":2733223676,"name":"Signature Script: Anchorite's Potency","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_giveultimate.png","bindType":-1,"knownIds":[204587]}

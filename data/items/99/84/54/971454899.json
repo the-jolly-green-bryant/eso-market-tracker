@@ -1,10 +1,1 @@
-{
-  "internalId": 971454899,
-  "name": "Spidersilk Sheets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795626
-  ]
-}
+{"internalId":971454899,"name":"Spidersilk Sheets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[795626]}

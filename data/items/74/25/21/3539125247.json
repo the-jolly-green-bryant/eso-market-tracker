@@ -1,10 +1,1 @@
-{
-  "internalId": 3539125247,
-  "name": "Flowers, Blue Moth",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_bluemothflower001.png",
-  "bindType": -1,
-  "knownIds": [
-    223894
-  ]
-}
+{"internalId":3539125247,"name":"Flowers, Blue Moth","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_bluemothflower001.png","bindType":-1,"knownIds":[223894]}

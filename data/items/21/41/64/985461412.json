@@ -1,10 +1,1 @@
-{
-  "internalId": 985461412,
-  "name": "Wretched Ringmail",
-  "description": "Compensation for assisting Noroth deal with trouble at Wretched Spire.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    182834
-  ]
-}
+{"internalId":985461412,"name":"Wretched Ringmail","description":"Compensation for assisting Noroth deal with trouble at Wretched Spire.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_chest_a.png","bindType":2,"knownIds":[182834]}

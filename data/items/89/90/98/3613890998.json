@@ -1,10 +1,1 @@
-{
-  "internalId": 3613890998,
-  "name": "Glenmoril Wyrd Treasure Map: Reaper's March",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    153645
-  ]
-}
+{"internalId":3613890998,"name":"Glenmoril Wyrd Treasure Map: Reaper's March","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[153645]}

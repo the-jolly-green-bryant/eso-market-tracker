@@ -1,10 +1,1 @@
-{
-  "internalId": 3168924058,
-  "name": "Silver Sandal Spikes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_silvermeres_nail.png",
-  "bindType": -1,
-  "knownIds": [
-    880568
-  ]
-}
+{"internalId":3168924058,"name":"Silver Sandal Spikes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_silvermeres_nail.png","bindType":-1,"knownIds":[880568]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 918855658,
-  "name": "Vanus's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_sword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135677
-  ]
-}
+{"internalId":918855658,"name":"Vanus's Sword","description":"","icon":"data/images/a_/dr/ow/gear_psijicorder_sword_a.png","bindType":2,"knownIds":[135677]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 375313515,
-  "name": "Glorious Elsweyr Coffer",
-  "description": "This reward box contains Elsweyr appurtenances, such as set items, motifs, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png",
-  "bindType": 3,
-  "knownIds": [
-    193734
-  ]
-}
+{"internalId":375313515,"name":"Glorious Elsweyr Coffer","description":"This reward box contains Elsweyr appurtenances, such as set items, motifs, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png","bindType":3,"knownIds":[193734]}

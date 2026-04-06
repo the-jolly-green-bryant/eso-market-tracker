@@ -1,10 +1,1 @@
-{
-  "internalId": 3926188792,
-  "name": "Sower's Sorrow Healing Staff",
-  "description": "A staff, grown by Frii, still infused and humming with a hint of their power.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    191217
-  ]
-}
+{"internalId":3926188792,"name":"Sower's Sorrow Healing Staff","description":"A staff, grown by Frii, still infused and humming with a hint of their power.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_staff_a.png","bindType":2,"knownIds":[191217]}

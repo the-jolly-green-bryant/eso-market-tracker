@@ -1,10 +1,1 @@
-{
-  "internalId": 1012666313,
-  "name": "Jewelry: Dragon's Appetite",
-  "description": "A crafted set found in Greymoor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    163440
-  ]
-}
+{"internalId":1012666313,"name":"Jewelry: Dragon's Appetite","description":"A crafted set found in Greymoor.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[163440]}

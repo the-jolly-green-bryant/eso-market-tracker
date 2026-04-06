@@ -1,10 +1,1 @@
-{
-  "internalId": 199256081,
-  "name": "Cold-Iron Cladding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/styleitemicon_u46_coldharbourdominator.png",
-  "bindType": -1,
-  "knownIds": [
-    212117
-  ]
-}
+{"internalId":199256081,"name":"Cold-Iron Cladding","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/styleitemicon_u46_coldharbourdominator.png","bindType":-1,"knownIds":[212117]}

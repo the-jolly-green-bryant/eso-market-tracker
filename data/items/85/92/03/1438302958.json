@@ -1,10 +1,1 @@
-{
-  "internalId": 1438302958,
-  "name": "Ring of the Order of Diagna",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    99465
-  ]
-}
+{"internalId":1438302958,"name":"Ring of the Order of Diagna","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[99465]}

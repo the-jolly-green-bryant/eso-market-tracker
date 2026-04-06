@@ -1,10 +1,1 @@
-{
-  "internalId": 4237858147,
-  "name": "Mauloch's Cleaver",
-  "description": "The blade of this axe looks sharp enough to chop down the bars of any prison. Even Gurlak's.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    26578
-  ]
-}
+{"internalId":4237858147,"name":"Mauloch's Cleaver","description":"The blade of this axe looks sharp enough to chop down the bars of any prison. Even Gurlak's.","icon":"data/images/d_/ex/ah/gear_orc_2haxe_d.png","bindType":2,"knownIds":[26578]}

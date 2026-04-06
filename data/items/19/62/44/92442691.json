@@ -1,10 +1,1 @@
-{
-  "internalId": 92442691,
-  "name": "Graufang's Werewolf Hide Belt",
-  "description": "A belt awarded for defeating the colossal bear, Graufang.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42956
-  ]
-}
+{"internalId":92442691,"name":"Graufang's Werewolf Hide Belt","description":"A belt awarded for defeating the colossal bear, Graufang.","icon":"data/images/d_/ts/ia/gear_bosmer_medium_waist_d.png","bindType":2,"knownIds":[42956]}

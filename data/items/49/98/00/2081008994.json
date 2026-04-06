@@ -1,10 +1,1 @@
-{
-  "internalId": 2081008994,
-  "name": "Recipe: Ten-Foot Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45601
-  ]
-}
+{"internalId":2081008994,"name":"Recipe: Ten-Foot Beer","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45601]}

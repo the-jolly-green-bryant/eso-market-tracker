@@ -1,10 +1,1 @@
-{
-  "internalId": 1359218565,
-  "name": "Preserving Saltwater",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u36_crafting_style_item_drowned_mariner.png",
-  "bindType": -1,
-  "knownIds": [
-    187778
-  ]
-}
+{"internalId":1359218565,"name":"Preserving Saltwater","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/u36_crafting_style_item_drowned_mariner.png","bindType":-1,"knownIds":[187778]}

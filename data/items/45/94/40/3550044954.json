@@ -1,10 +1,1 @@
-{
-  "internalId": 3550044954,
-  "name": "Redguard Streetlamp, Single",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_postlight002.png",
-  "bindType": -1,
-  "knownIds": [
-    117749
-  ]
-}
+{"internalId":3550044954,"name":"Redguard Streetlamp, Single","description":"This is a large house item.","icon":"data/images/20/0t/hg/housing_red_lsb_postlight002.png","bindType":-1,"knownIds":[117749]}

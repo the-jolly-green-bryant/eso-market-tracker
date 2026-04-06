@@ -1,10 +1,1 @@
-{
-  "internalId": 1303508527,
-  "name": "Shield of the Warlock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85773
-  ]
-}
+{"internalId":1303508527,"name":"Shield of the Warlock","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[85773]}

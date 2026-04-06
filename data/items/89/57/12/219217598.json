@@ -1,10 +1,1 @@
-{
-  "internalId": 219217598,
-  "name": "Style Page: Pirate Skeleton's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1343132
-  ]
-}
+{"internalId":219217598,"name":"Style Page: Pirate Skeleton's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1343132]}

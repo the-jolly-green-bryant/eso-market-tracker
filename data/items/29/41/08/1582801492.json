@@ -1,10 +1,1 @@
-{
-  "internalId": 1582801492,
-  "name": "Aether Staff of Bitter Ice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorngod_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    822815
-  ]
-}
+{"internalId":1582801492,"name":"Aether Staff of Bitter Ice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorngod_staff_a.png","bindType":-1,"knownIds":[822815]}

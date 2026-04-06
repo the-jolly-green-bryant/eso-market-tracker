@@ -1,10 +1,1 @@
-{
-  "internalId": 3458504312,
-  "name": "Ancestor Ash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_burial_urn.png",
-  "bindType": -1,
-  "knownIds": [
-    1195787
-  ]
-}
+{"internalId":3458504312,"name":"Ancestor Ash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_burial_urn.png","bindType":-1,"knownIds":[1195787]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3616512976,
-  "name": "Recipe: Mythic Aetherial Ambrosia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    115029
-  ]
-}
+{"internalId":3616512976,"name":"Recipe: Mythic Aetherial Ambrosia","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[115029]}

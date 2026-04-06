@@ -1,10 +1,1 @@
-{
-  "internalId": 1592816532,
-  "name": "Dawnwood Meal, Meat",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosplatefood002.png",
-  "bindType": -1,
-  "knownIds": [
-    211390
-  ]
-}
+{"internalId":1592816532,"name":"Dawnwood Meal, Meat","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosplatefood002.png","bindType":-1,"knownIds":[211390]}

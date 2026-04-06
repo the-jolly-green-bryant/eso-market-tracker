@@ -1,10 +1,1 @@
-{
-  "internalId": 2697849099,
-  "name": "Raw Ancestor Silk",
-  "description": "Ten of these items can be refined to make ancestor silk.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_standard_f_005.png",
-  "bindType": -1,
-  "knownIds": [
-    71200
-  ]
-}
+{"internalId":2697849099,"name":"Raw Ancestor Silk","description":"Ten of these items can be refined to make ancestor silk.","icon":"data/images/50/0_/f_/crafting_light_armor_standard_f_005.png","bindType":-1,"knownIds":[71200]}

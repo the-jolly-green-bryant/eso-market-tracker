@@ -1,10 +1,1 @@
-{
-  "internalId": 2489160846,
-  "name": "Red Brittle Wamasu",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801191
-  ]
-}
+{"internalId":2489160846,"name":"Red Brittle Wamasu","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png","bindType":-1,"knownIds":[801191]}

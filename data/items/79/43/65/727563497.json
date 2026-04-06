@@ -1,10 +1,1 @@
-{
-  "internalId": 727563497,
-  "name": "Hourglass Stand, Round",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_dbhhourglass001.png",
-  "bindType": -1,
-  "knownIds": [
-    159449
-  ]
-}
+{"internalId":727563497,"name":"Hourglass Stand, Round","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_dbhhourglass001.png","bindType":-1,"knownIds":[159449]}

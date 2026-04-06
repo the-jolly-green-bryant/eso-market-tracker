@@ -1,10 +1,1 @@
-{
-  "internalId": 1147124778,
-  "name": "Dauntless Combatant's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159402
-  ]
-}
+{"internalId":1147124778,"name":"Dauntless Combatant's Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[159402]}

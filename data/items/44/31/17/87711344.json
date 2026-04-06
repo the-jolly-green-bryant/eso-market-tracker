@@ -1,10 +1,1 @@
-{
-  "internalId": 87711344,
-  "name": "Badge of the Unassailable",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44149
-  ]
-}
+{"internalId":87711344,"name":"Badge of the Unassailable","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[44149]}

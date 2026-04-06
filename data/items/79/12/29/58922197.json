@@ -1,10 +1,1 @@
-{
-  "internalId": 58922197,
-  "name": "Necrom Floor, Trimmed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_housingnechighfloortrim003.png",
-  "bindType": -1,
-  "knownIds": [
-    198015
-  ]
-}
+{"internalId":58922197,"name":"Necrom Floor, Trimmed","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_housingnechighfloortrim003.png","bindType":-1,"knownIds":[198015]}

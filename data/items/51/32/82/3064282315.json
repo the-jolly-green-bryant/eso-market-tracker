@@ -1,10 +1,1 @@
-{
-  "internalId": 3064282315,
-  "name": "Diagram: Orcish Sconce, Caged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119070
-  ]
-}
+{"internalId":3064282315,"name":"Diagram: Orcish Sconce, Caged","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119070]}

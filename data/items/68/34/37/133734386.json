@@ -1,10 +1,1 @@
-{
-  "internalId": 133734386,
-  "name": "Imperial Smithing Pliers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1275910
-  ]
-}
+{"internalId":133734386,"name":"Imperial Smithing Pliers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[1275910]}

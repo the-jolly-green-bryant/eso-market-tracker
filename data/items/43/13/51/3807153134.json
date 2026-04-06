@@ -1,10 +1,1 @@
-{
-  "internalId": 3807153134,
-  "name": "Telvanni Water Jug, Fungal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_clutterjug001.png",
-  "bindType": -1,
-  "knownIds": [
-    197525
-  ]
-}
+{"internalId":3807153134,"name":"Telvanni Water Jug, Fungal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_clutterjug001.png","bindType":-1,"knownIds":[197525]}

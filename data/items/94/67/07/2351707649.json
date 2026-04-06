@@ -1,10 +1,1 @@
-{
-  "internalId": 2351707649,
-  "name": "Clockwork Door, Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_str_doorsmallopen001.png",
-  "bindType": -1,
-  "knownIds": [
-    182620
-  ]
-}
+{"internalId":2351707649,"name":"Clockwork Door, Arched","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cwc_str_doorsmallopen001.png","bindType":-1,"knownIds":[182620]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3322144488,
-  "name": "Defender of the Valenheart",
-  "description": "This massive axe was awarded after defeating the Shade of Prince Naemon and helping Indaenir heal the Valenheart.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10849
-  ]
-}
+{"internalId":3322144488,"name":"Defender of the Valenheart","description":"This massive axe was awarded after defeating the Shade of Prince Naemon and helping Indaenir heal the Valenheart.","icon":"data/images/d_/ex/ah/gear_altmer_2haxe_d.png","bindType":2,"knownIds":[10849]}

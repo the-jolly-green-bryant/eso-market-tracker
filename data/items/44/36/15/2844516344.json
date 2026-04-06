@@ -1,10 +1,1 @@
-{
-  "internalId": 2844516344,
-  "name": "Pewter Decanter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860954
-  ]
-}
+{"internalId":2844516344,"name":"Pewter Decanter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[860954]}

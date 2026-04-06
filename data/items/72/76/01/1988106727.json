@@ -1,10 +1,1 @@
-{
-  "internalId": 1988106727,
-  "name": "Grimoire: Wield Soul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_soulmagic1.png",
-  "bindType": 3,
-  "knownIds": [
-    204491
-  ]
-}
+{"internalId":1988106727,"name":"Grimoire: Wield Soul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_grimoire_soulmagic1.png","bindType":3,"knownIds":[204491]}

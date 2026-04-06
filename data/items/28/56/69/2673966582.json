@@ -1,10 +1,1 @@
-{
-  "internalId": 2673966582,
-  "name": "Full Belly Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214861
-  ]
-}
+{"internalId":2673966582,"name":"Full Belly Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[214861]}

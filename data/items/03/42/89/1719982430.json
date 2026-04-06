@@ -1,10 +1,1 @@
-{
-  "internalId": 1719982430,
-  "name": "Enervating Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    183575
-  ]
-}
+{"internalId":1719982430,"name":"Enervating Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[183575]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 970255400,
-  "name": "Pumpkin Corn Fritters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fried_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33411
-  ]
-}
+{"internalId":970255400,"name":"Pumpkin Corn Fritters","description":"","icon":"data/images/20/0_/de/crafting_fried_002.png","bindType":-1,"knownIds":[33411]}

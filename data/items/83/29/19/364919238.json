@@ -1,10 +1,1 @@
-{
-  "internalId": 364919238,
-  "name": "Grenalda's Punch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_006_type_004.png",
-  "bindType": -1,
-  "knownIds": [
-    1587737
-  ]
-}
+{"internalId":364919238,"name":"Grenalda's Punch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_006_type_004.png","bindType":-1,"knownIds":[1587737]}

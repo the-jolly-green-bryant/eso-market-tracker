@@ -1,10 +1,1 @@
-{
-  "internalId": 3837885501,
-  "name": "Redoran Honor Gauntlets",
-  "description": "Councilor Eris hired you to find his daughter Veya. For your help, he gave you these House Redoran gauntlets.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126071
-  ]
-}
+{"internalId":3837885501,"name":"Redoran Honor Gauntlets","description":"Councilor Eris hired you to find his daughter Veya. For your help, he gave you these House Redoran gauntlets.","icon":"data/images/a_/sd/na/gear_redoran_medium_hands_a.png","bindType":2,"knownIds":[126071]}

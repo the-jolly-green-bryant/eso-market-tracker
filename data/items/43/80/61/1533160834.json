@@ -1,13 +1,1 @@
-{
-  "internalId": 1533160834,
-  "name": "Lustrous Soulwell Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_light_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1766245,
-    1773308,
-    1766245,
-    1773308
-  ]
-}
+{"internalId":1533160834,"name":"Lustrous Soulwell Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_light_chest_a.png","bindType":-1,"knownIds":[1766245,1773308,1766245,1773308]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3508797763,
-  "name": "Runecarver's Blaze Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_1hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1630056,
-    1630269,
-    1639675,
-    1643947,
-    1723929,
-    1751470
-  ]
-}
+{"internalId":3508797763,"name":"Runecarver's Blaze Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_1hhammer_a.png","bindType":-1,"knownIds":[1630056,1630269,1639675,1643947,1723929,1751470]}

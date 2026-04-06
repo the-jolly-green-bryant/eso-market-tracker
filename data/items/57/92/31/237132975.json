@@ -1,10 +1,1 @@
-{
-  "internalId": 237132975,
-  "name": "Companion's Hat",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_helm_light.png",
-  "bindType": 2,
-  "knownIds": [
-    177190
-  ]
-}
+{"internalId":237132975,"name":"Companion's Hat","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_helm_light.png","bindType":2,"knownIds":[177190]}

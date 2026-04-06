@@ -1,10 +1,1 @@
-{
-  "internalId": 3630467903,
-  "name": "Apocrypha Bench, Intricate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_benchhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    198401
-  ]
-}
+{"internalId":3630467903,"name":"Apocrypha Bench, Intricate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_benchhigh001.png","bindType":-1,"knownIds":[198401]}

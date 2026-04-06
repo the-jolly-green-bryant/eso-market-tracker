@@ -1,10 +1,1 @@
-{
-  "internalId": 2622719033,
-  "name": "High Elf Cup, Gilded",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_mug001.png",
-  "bindType": -1,
-  "knownIds": [
-    114335
-  ]
-}
+{"internalId":2622719033,"name":"High Elf Cup, Gilded","description":"This is a tiny house item.","icon":"data/images/10/0g/um/housing_alt_inc_mug001.png","bindType":-1,"knownIds":[114335]}

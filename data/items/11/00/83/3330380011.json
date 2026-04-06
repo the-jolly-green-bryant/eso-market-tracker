@@ -1,10 +1,1 @@
-{
-  "internalId": 3330380011,
-  "name": "Necrom Shelf, Elegant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necwallshelfhigh002.png",
-  "bindType": -1,
-  "knownIds": [
-    197490
-  ]
-}
+{"internalId":3330380011,"name":"Necrom Shelf, Elegant","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necwallshelfhigh002.png","bindType":-1,"knownIds":[197490]}

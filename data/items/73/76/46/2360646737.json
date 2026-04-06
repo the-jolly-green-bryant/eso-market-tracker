@@ -1,10 +1,1 @@
-{
-  "internalId": 2360646737,
-  "name": "Ysgramor's Harbinger Lager Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    446252
-  ]
-}
+{"internalId":2360646737,"name":"Ysgramor's Harbinger Lager Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[446252]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 376522573,
-  "name": "Praxis: Apocrypha Post, Small Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    203352
-  ]
-}
+{"internalId":376522573,"name":"Praxis: Apocrypha Post, Small Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[203352]}

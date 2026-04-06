@@ -1,13 +1,1 @@
-{
-  "internalId": 3702704294,
-  "name": "Soulcleaver Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_2hsword.png",
-  "bindType": -1,
-  "knownIds": [
-    1683256,
-    1689467,
-    1683256,
-    1689467
-  ]
-}
+{"internalId":3702704294,"name":"Soulcleaver Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_2hsword.png","bindType":-1,"knownIds":[1683256,1689467,1683256,1689467]}

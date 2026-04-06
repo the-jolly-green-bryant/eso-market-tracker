@@ -1,10 +1,1 @@
-{
-  "internalId": 3867028769,
-  "name": "Long-Handled Mudcrab Flipper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_tools_001.png",
-  "bindType": -1,
-  "knownIds": [
-    363665
-  ]
-}
+{"internalId":3867028769,"name":"Long-Handled Mudcrab Flipper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_tools_001.png","bindType":-1,"knownIds":[363665]}

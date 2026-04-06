@@ -1,13 +1,1 @@
-{
-  "internalId": 2756641505,
-  "name": "Harmony in Chaos Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756424,
-    1757603,
-    1756424,
-    1757603
-  ]
-}
+{"internalId":2756641505,"name":"Harmony in Chaos Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_chest_a.png","bindType":-1,"knownIds":[1756424,1757603,1756424,1757603]}

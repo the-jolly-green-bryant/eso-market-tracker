@@ -1,10 +1,1 @@
-{
-  "internalId": 1959953264,
-  "name": "Undaunted Box: Moongrave Fane",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    190278
-  ]
-}
+{"internalId":1959953264,"name":"Undaunted Box: Moongrave Fane","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[190278]}

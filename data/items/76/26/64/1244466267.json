@@ -1,17 +1,1 @@
-{
-  "internalId": 1244466267,
-  "name": "splendid glyph of decrease health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_decreasehealth.png",
-  "bindType": -1,
-  "knownIds": [
-    445655,
-    428683,
-    1439763,
-    1556843,
-    445655,
-    428683,
-    1439763,
-    1556843
-  ]
-}
+{"internalId":1244466267,"name":"splendid glyph of decrease health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_decreasehealth.png","bindType":-1,"knownIds":[445655,428683,1439763,1556843,445655,428683,1439763,1556843]}

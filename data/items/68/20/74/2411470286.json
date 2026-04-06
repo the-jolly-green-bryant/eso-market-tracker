@@ -1,10 +1,1 @@
-{
-  "internalId": 2411470286,
-  "name": "Dark Elf Caravan, Cargo",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_csb_cartcovered001.png",
-  "bindType": -1,
-  "knownIds": [
-    115290
-  ]
-}
+{"internalId":2411470286,"name":"Dark Elf Caravan, Cargo","description":"This is a large house item.","icon":"data/images/10/0d/er/housing_dun_csb_cartcovered001.png","bindType":-1,"knownIds":[115290]}

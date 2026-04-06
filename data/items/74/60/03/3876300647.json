@@ -1,10 +1,1 @@
-{
-  "internalId": 3876300647,
-  "name": "Malondo Marbles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lodestone_bowling_balls.png",
-  "bindType": -1,
-  "knownIds": [
-    1241269
-  ]
-}
+{"internalId":3876300647,"name":"Malondo Marbles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lodestone_bowling_balls.png","bindType":-1,"knownIds":[1241269]}

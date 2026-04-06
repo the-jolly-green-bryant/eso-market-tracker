@@ -1,10 +1,1 @@
-{
-  "internalId": 524682983,
-  "name": "Design: Wood Elf Barrel, Ceramic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    115865
-  ]
-}
+{"internalId":524682983,"name":"Design: Wood Elf Barrel, Ceramic","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[115865]}

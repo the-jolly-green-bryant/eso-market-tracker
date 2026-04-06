@@ -1,11 +1,1 @@
-{
-  "internalId": 4226933201,
-  "name": "Knarstygg's Armor",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    815367,
-    815367
-  ]
-}
+{"internalId":4226933201,"name":"Knarstygg's Armor","description":"","icon":null,"bindType":-1,"knownIds":[815367,815367]}

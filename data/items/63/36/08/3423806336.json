@@ -1,10 +1,1 @@
-{
-  "internalId": 3423806336,
-  "name": "Diagram: Redguard Tankard, Full",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119209
-  ]
-}
+{"internalId":3423806336,"name":"Diagram: Redguard Tankard, Full","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119209]}

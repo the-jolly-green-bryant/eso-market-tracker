@@ -1,10 +1,1 @@
-{
-  "internalId": 1524510410,
-  "name": "Pellitine Tomato Rice Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    459235
-  ]
-}
+{"internalId":1524510410,"name":"Pellitine Tomato Rice Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[459235]}

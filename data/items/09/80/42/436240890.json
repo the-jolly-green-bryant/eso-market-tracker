@@ -1,10 +1,1 @@
-{
-  "internalId": 436240890,
-  "name": "Boots of Nocturnal's Ploy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189835
-  ]
-}
+{"internalId":436240890,"name":"Boots of Nocturnal's Ploy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[189835]}

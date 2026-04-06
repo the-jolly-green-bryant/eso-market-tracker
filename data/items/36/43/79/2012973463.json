@@ -1,10 +1,1 @@
-{
-  "internalId": 2012973463,
-  "name": "Boots of Orgnum's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56726
-  ]
-}
+{"internalId":2012973463,"name":"Boots of Orgnum's Scales","description":"","icon":"data/images/d_/te/ef/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[56726]}

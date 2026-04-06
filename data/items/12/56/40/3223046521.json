@@ -1,10 +1,1 @@
-{
-  "internalId": 3223046521,
-  "name": "Iron Maiden, Chained",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_ironmaiden003.png",
-  "bindType": -1,
-  "knownIds": [
-    120827
-  ]
-}
+{"internalId":3223046521,"name":"Iron Maiden, Chained","description":"This is a large house item.","icon":"data/images/30/0n/ed/housing_coh_inc_ironmaiden003.png","bindType":-1,"knownIds":[120827]}

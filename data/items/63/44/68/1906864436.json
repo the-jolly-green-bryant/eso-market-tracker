@@ -1,10 +1,1 @@
-{
-  "internalId": 1906864436,
-  "name": "Wardrobe of Whitestrake's Mayhem Outfits I",
-  "description": "An decorative wardrobe containing many collectible Outfit Styles. If you know all available Outfit Styles already, this container does nothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_wardrobe001.png",
-  "bindType": 3,
-  "knownIds": [
-    204540
-  ]
-}
+{"internalId":1906864436,"name":"Wardrobe of Whitestrake's Mayhem Outfits I","description":"An decorative wardrobe containing many collectible Outfit Styles. If you know all available Outfit Styles already, this container does nothing.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_wardrobe001.png","bindType":3,"knownIds":[204540]}

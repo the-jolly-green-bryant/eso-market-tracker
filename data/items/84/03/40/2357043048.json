@@ -1,17 +1,1 @@
-{
-  "internalId": 2357043048,
-  "name": "Ancient Crown",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    684857,
-    382707,
-    744968,
-    790254,
-    684857,
-    382707,
-    744968,
-    790254
-  ]
-}
+{"internalId":2357043048,"name":"Ancient Crown","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_head_a.png","bindType":-1,"knownIds":[684857,382707,744968,790254,684857,382707,744968,790254]}

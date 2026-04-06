@@ -1,10 +1,1 @@
-{
-  "internalId": 123750794,
-  "name": "Redguard Cart, Work",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_csb_varmerchantcart006.png",
-  "bindType": -1,
-  "knownIds": [
-    117666
-  ]
-}
+{"internalId":123750794,"name":"Redguard Cart, Work","description":"This is a standard house item.","icon":"data/images/60/0t/ra/housing_red_csb_varmerchantcart006.png","bindType":-1,"knownIds":[117666]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3406363406,
-  "name": "Crafting Motif 84: Blackreach Vanguard Swords",
-  "description": "Use to learn how to make Blackreach Vanguard Swords. Also teaches the equivalent Blackreach Vanguard Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160507
-  ]
-}
+{"internalId":3406363406,"name":"Crafting Motif 84: Blackreach Vanguard Swords","description":"Use to learn how to make Blackreach Vanguard Swords. Also teaches the equivalent Blackreach Vanguard Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160507]}

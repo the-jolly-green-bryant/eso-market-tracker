@@ -1,10 +1,1 @@
-{
-  "internalId": 1443229696,
-  "name": "Coral Formation, Branching Red Cluster",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mphredcoralcluster002.png",
-  "bindType": -1,
-  "knownIds": [
-    184198
-  ]
-}
+{"internalId":1443229696,"name":"Coral Formation, Branching Red Cluster","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_mphredcoralcluster002.png","bindType":-1,"knownIds":[184198]}

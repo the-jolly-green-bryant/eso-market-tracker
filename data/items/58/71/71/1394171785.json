@@ -1,17 +1,1 @@
-{
-  "internalId": 1394171785,
-  "name": "Umbral Edge Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1727459,
-    1745661,
-    1758730,
-    1762385,
-    1727459,
-    1745661,
-    1758730,
-    1762385
-  ]
-}
+{"internalId":1394171785,"name":"Umbral Edge Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_shoulder_a.png","bindType":-1,"knownIds":[1727459,1745661,1758730,1762385,1727459,1745661,1758730,1762385]}

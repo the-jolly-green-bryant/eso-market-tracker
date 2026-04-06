@@ -1,10 +1,1 @@
-{
-  "internalId": 2684405255,
-  "name": "Diamond's Victory Weapons",
-  "description": "A Crafted Armor set constructed in Blackwood.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182899
-  ]
-}
+{"internalId":2684405255,"name":"Diamond's Victory Weapons","description":"A Crafted Armor set constructed in Blackwood.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182899]}

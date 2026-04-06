@@ -1,10 +1,1 @@
-{
-  "internalId": 3383724952,
-  "name": "High Isle Chair, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_chairmid001.png",
-  "bindType": -1,
-  "knownIds": [
-    187829
-  ]
-}
+{"internalId":3383724952,"name":"High Isle Chair, Sturdy","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_chairmid001.png","bindType":-1,"knownIds":[187829]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 779293923,
-  "name": "Fort Zeren Tent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tent_001.png",
-  "bindType": -1,
-  "knownIds": [
-    980037
-  ]
-}
+{"internalId":779293923,"name":"Fort Zeren Tent","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tent_001.png","bindType":-1,"knownIds":[980037]}

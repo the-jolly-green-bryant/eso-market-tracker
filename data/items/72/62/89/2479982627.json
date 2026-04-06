@@ -1,13 +1,1 @@
-{
-  "internalId": 2479982627,
-  "name": "Perfected Peace and Serenity Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1681538,
-    1770395,
-    1681538,
-    1770395
-  ]
-}
+{"internalId":2479982627,"name":"Perfected Peace and Serenity Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_2hsword_a.png","bindType":-1,"knownIds":[1681538,1770395,1681538,1770395]}

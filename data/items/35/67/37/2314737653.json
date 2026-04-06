@@ -1,10 +1,1 @@
-{
-  "internalId": 2314737653,
-  "name": "Recipe: Ordinator's Beetle-Cheese Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56976
-  ]
-}
+{"internalId":2314737653,"name":"Recipe: Ordinator's Beetle-Cheese Soup","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56976]}

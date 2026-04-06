@@ -1,10 +1,1 @@
-{
-  "internalId": 433894984,
-  "name": "Jewelry: Crimson Twilight",
-  "description": "A Heavy Armor set found in Castle Thorn.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    164856
-  ]
-}
+{"internalId":433894984,"name":"Jewelry: Crimson Twilight","description":"A Heavy Armor set found in Castle Thorn.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[164856]}

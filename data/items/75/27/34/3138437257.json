@@ -1,10 +1,1 @@
-{
-  "internalId": 3138437257,
-  "name": "Recipe: Minotaur Slumgullion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45693
-  ]
-}
+{"internalId":3138437257,"name":"Recipe: Minotaur Slumgullion","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45693]}

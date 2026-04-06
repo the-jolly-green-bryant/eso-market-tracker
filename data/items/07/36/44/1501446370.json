@@ -1,10 +1,1 @@
-{
-  "internalId": 1501446370,
-  "name": "Supple Root",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_plant_creature_taproot.png",
-  "bindType": -1,
-  "knownIds": [
-    54388
-  ]
-}
+{"internalId":1501446370,"name":"Supple Root","description":"","icon":"data/images/to/or/pa/crafting_plant_creature_taproot.png","bindType":-1,"knownIds":[54388]}

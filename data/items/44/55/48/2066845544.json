@@ -1,10 +1,1 @@
-{
-  "internalId": 2066845544,
-  "name": "Royal Camoran Travel Teapot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1413329
-  ]
-}
+{"internalId":2066845544,"name":"Royal Camoran Travel Teapot","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[1413329]}

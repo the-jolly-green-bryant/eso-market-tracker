@@ -1,10 +1,1 @@
-{
-  "internalId": 75885944,
-  "name": "Murkmire Shelf, Woven Hanging",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkmerchantcounterhutch001.png",
-  "bindType": -1,
-  "knownIds": [
-    145381
-  ]
-}
+{"internalId":75885944,"name":"Murkmire Shelf, Woven Hanging","description":"This is a large house item.","icon":"data/images/10/0h/ct/housing_arg_fur_mrkmerchantcounterhutch001.png","bindType":-1,"knownIds":[145381]}

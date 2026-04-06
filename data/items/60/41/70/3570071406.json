@@ -1,10 +1,1 @@
-{
-  "internalId": 3570071406,
-  "name": "Tree, Argent Blue",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_decorativetreeet003.png",
-  "bindType": -1,
-  "knownIds": [
-    134893
-  ]
-}
+{"internalId":3570071406,"name":"Tree, Argent Blue","description":"This is a large house item.","icon":"data/images/30/0t/ee/housing_tre_fan_decorativetreeet003.png","bindType":-1,"knownIds":[134893]}

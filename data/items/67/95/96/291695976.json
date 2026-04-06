@@ -1,10 +1,1 @@
-{
-  "internalId": 291695976,
-  "name": "Full Belly Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    215009
-  ]
-}
+{"internalId":291695976,"name":"Full Belly Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_bow_a.png","bindType":2,"knownIds":[215009]}

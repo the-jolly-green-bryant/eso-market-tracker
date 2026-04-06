@@ -1,10 +1,1 @@
-{
-  "internalId": 486130993,
-  "name": "Maul of the Ranger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98291
-  ]
-}
+{"internalId":486130993,"name":"Maul of the Ranger","description":"","icon":"data/images/d_/re/mm/gear_bosmer_2hhammer_d.png","bindType":2,"knownIds":[98291]}

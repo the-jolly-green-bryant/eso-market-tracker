@@ -1,10 +1,1 @@
-{
-  "internalId": 4213471391,
-  "name": "Wrapped Shirt and Vest",
-  "description": "A wrapped, sleeveless tunic and vest.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63900
-  ]
-}
+{"internalId":4213471391,"name":"Wrapped Shirt and Vest","description":"A wrapped, sleeveless tunic and vest.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63900]}

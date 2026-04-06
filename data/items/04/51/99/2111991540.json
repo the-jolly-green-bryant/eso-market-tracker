@@ -1,10 +1,1 @@
-{
-  "internalId": 2111991540,
-  "name": "Blackwood Cottage Painting, Unframed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyunfinishedpainting001.png",
-  "bindType": -1,
-  "knownIds": [
-    181507
-  ]
-}
+{"internalId":2111991540,"name":"Blackwood Cottage Painting, Unframed","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyunfinishedpainting001.png","bindType":-1,"knownIds":[181507]}

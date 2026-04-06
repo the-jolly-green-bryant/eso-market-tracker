@@ -1,10 +1,1 @@
-{
-  "internalId": 1197282517,
-  "name": "Neat-And-Tidy Hairpin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1335757
-  ]
-}
+{"internalId":1197282517,"name":"Neat-And-Tidy Hairpin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[1335757]}

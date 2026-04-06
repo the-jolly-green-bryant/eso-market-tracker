@@ -1,10 +1,1 @@
-{
-  "internalId": 3627167598,
-  "name": "Nord Torch, Triple",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_torchtripod001.png",
-  "bindType": -1,
-  "knownIds": [
-    115369
-  ]
-}
+{"internalId":3627167598,"name":"Nord Torch, Triple","description":"This is a standard house item.","icon":"data/images/10/0d/op/housing_nor_lsb_torchtripod001.png","bindType":-1,"knownIds":[115369]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 1336987918,
-  "name": "Amulet of the Ritualist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1415857,
-    1417443,
-    1431321,
-    1529980,
-    1415857,
-    1417443,
-    1431321,
-    1529980
-  ]
-}
+{"internalId":1336987918,"name":"Amulet of the Ritualist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1415857,1417443,1431321,1529980,1415857,1417443,1431321,1529980]}

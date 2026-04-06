@@ -1,10 +1,1 @@
-{
-  "internalId": 4111633748,
-  "name": "Dhalmora Sleeping Mat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1092906
-  ]
-}
+{"internalId":4111633748,"name":"Dhalmora Sleeping Mat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png","bindType":-1,"knownIds":[1092906]}

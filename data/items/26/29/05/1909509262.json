@@ -1,10 +1,1 @@
-{
-  "internalId": 1909509262,
-  "name": "Kelp, Small Brown Pile",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_kelppile001.png",
-  "bindType": -1,
-  "knownIds": [
-    223164
-  ]
-}
+{"internalId":1909509262,"name":"Kelp, Small Brown Pile","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_kelppile001.png","bindType":-1,"knownIds":[223164]}

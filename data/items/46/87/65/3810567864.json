@@ -1,13 +1,1 @@
-{
-  "internalId": 3810567864,
-  "name": "Bound Signature Script: Immobilizing Strike",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_immobilize.png",
-  "bindType": -1,
-  "knownIds": [
-    1720996,
-    1721643,
-    1720996,
-    1721643
-  ]
-}
+{"internalId":3810567864,"name":"Bound Signature Script: Immobilizing Strike","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_immobilize.png","bindType":-1,"knownIds":[1720996,1721643,1720996,1721643]}

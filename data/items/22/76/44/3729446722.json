@@ -1,10 +1,1 @@
-{
-  "internalId": 3729446722,
-  "name": "Titanborn Family Signet",
-  "description": "Lyris kept this with her for years, as she trained relentlessly with the members of her mercenary company.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    27271
-  ]
-}
+{"internalId":3729446722,"name":"Titanborn Family Signet","description":"Lyris kept this with her for years, as she trained relentlessly with the members of her mercenary company.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[27271]}

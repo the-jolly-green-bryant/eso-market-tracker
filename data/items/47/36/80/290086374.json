@@ -1,10 +1,1 @@
-{
-  "internalId": 290086374,
-  "name": "Recipe: Mistral Banana Bread",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56963
-  ]
-}
+{"internalId":290086374,"name":"Recipe: Mistral Banana Bread","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56963]}

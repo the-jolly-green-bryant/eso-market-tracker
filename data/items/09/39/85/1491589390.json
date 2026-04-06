@@ -1,10 +1,1 @@
-{
-  "internalId": 1491589390,
-  "name": "Maple Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": -1,
-  "knownIds": [
-    223650
-  ]
-}
+{"internalId":1491589390,"name":"Maple Bow","description":"","icon":"data/images/a_/wo/b_/gear_ashlander_bow_a.png","bindType":-1,"knownIds":[121387]}

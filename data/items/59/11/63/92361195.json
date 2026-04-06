@@ -1,10 +1,1 @@
-{
-  "internalId": 92361195,
-  "name": "Jewel of the Duchess",
-  "description": "This simple band allowed the Daedra working for the Duchess to withstand the agony of her mere presence.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    27275
-  ]
-}
+{"internalId":92361195,"name":"Jewel of the Duchess","description":"This simple band allowed the Daedra working for the Duchess to withstand the agony of her mere presence.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[27275]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3719489043,
-  "name": "Tin of Dubbin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    838721
-  ]
-}
+{"internalId":3719489043,"name":"Tin of Dubbin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[838721]}

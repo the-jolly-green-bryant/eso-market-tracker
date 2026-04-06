@@ -1,10 +1,1 @@
-{
-  "internalId": 2919490766,
-  "name": "Steel Farming Shears",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    422152
-  ]
-}
+{"internalId":2919490766,"name":"Steel Farming Shears","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[422152]}

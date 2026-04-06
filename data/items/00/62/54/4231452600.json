@@ -1,10 +1,1 @@
-{
-  "internalId": 4231452600,
-  "name": "Dreamer's Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98117
-  ]
-}
+{"internalId":4231452600,"name":"Dreamer's Shoes","description":"","icon":"data/images/d_/te/ef/gear_altmer_light_feet_d.png","bindType":2,"knownIds":[98117]}

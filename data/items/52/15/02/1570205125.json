@@ -1,10 +1,1 @@
-{
-  "internalId": 1570205125,
-  "name": "Coldharbour's Favorite",
-  "description": "A Crafted Armor set constructed in Northern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182802
-  ]
-}
+{"internalId":1570205125,"name":"Coldharbour's Favorite","description":"A Crafted Armor set constructed in Northern Elsweyr.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182802]}

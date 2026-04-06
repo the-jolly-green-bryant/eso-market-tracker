@@ -1,10 +1,1 @@
-{
-  "internalId": 1065590516,
-  "name": "Woodhearth Sewer Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    903286
-  ]
-}
+{"internalId":1065590516,"name":"Woodhearth Sewer Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[903286]}

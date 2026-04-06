@@ -1,10 +1,1 @@
-{
-  "internalId": 2032732522,
-  "name": "Chewed Bosmer Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1320096
-  ]
-}
+{"internalId":2032732522,"name":"Chewed Bosmer Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[1320096]}

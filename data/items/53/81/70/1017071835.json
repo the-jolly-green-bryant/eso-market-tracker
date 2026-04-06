@@ -1,10 +1,1 @@
-{
-  "internalId": 1017071835,
-  "name": "Porcelain Stew Bowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png",
-  "bindType": -1,
-  "knownIds": [
-    404100
-  ]
-}
+{"internalId":1017071835,"name":"Porcelain Stew Bowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png","bindType":-1,"knownIds":[404100]}

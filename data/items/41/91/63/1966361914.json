@@ -1,10 +1,1 @@
-{
-  "internalId": 1966361914,
-  "name": "Crafting Motif 21: Ancient Orc Style",
-  "description": "Use to learn the Ancient Orc crafting style. Also teaches the equivalent Ancient Orc Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    69527
-  ]
-}
+{"internalId":1966361914,"name":"Crafting Motif 21: Ancient Orc Style","description":"Use to learn the Ancient Orc crafting style. Also teaches the equivalent Ancient Orc Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[69527]}

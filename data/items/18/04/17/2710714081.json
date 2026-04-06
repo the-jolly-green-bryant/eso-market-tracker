@@ -1,10 +1,1 @@
-{
-  "internalId": 2710714081,
-  "name": "Shipment of Dwarven Ingots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    937382
-  ]
-}
+{"internalId":2710714081,"name":"Shipment of Dwarven Ingots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[937382]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2779053260,
-  "name": "Weapons: Sanctuary",
-  "description": "A Light Armor set found in Banished Cells.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134100
-  ]
-}
+{"internalId":2779053260,"name":"Weapons: Sanctuary","description":"A Light Armor set found in Banished Cells.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134100]}

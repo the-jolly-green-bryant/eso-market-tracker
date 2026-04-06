@@ -1,10 +1,1 @@
-{
-  "internalId": 1927437660,
-  "name": "Melon",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_melo.png",
-  "bindType": -1,
-  "knownIds": [
-    34308
-  ]
-}
+{"internalId":1927437660,"name":"Melon","description":"An ingredient for crafting food.","icon":"data/images/ol/em/_g/crafting_melo.png","bindType":-1,"knownIds":[34308]}

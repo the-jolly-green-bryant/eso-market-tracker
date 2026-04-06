@@ -1,10 +1,1 @@
-{
-  "internalId": 1165115911,
-  "name": "Imperial Rack, Cask",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_merchantcaskstand001.png",
-  "bindType": -1,
-  "knownIds": [
-    94102
-  ]
-}
+{"internalId":1165115911,"name":"Imperial Rack, Cask","description":"This is a standard house item.","icon":"data/images/10/0d/na/housing_nib_fur_merchantcaskstand001.png","bindType":-1,"knownIds":[94102]}

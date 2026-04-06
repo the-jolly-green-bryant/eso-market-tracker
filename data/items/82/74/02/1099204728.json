@@ -1,10 +1,1 @@
-{
-  "internalId": 1099204728,
-  "name": "Silver Rose Vigil",
-  "description": "A Heavy Armor set found in the Red Petal Bastion.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    178057
-  ]
-}
+{"internalId":1099204728,"name":"Silver Rose Vigil","description":"A Heavy Armor set found in the Red Petal Bastion.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[178057]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 419036492,
-  "name": "Redguard Barrel, Corded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargobarrel002.png",
-  "bindType": -1,
-  "knownIds": [
-    120417
-  ]
-}
+{"internalId":419036492,"name":"Redguard Barrel, Corded","description":"This is a standard house item.","icon":"data/images/20/0l/er/housing_red_exc_varcargobarrel002.png","bindType":-1,"knownIds":[120417]}

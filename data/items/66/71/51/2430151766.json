@@ -1,10 +1,1 @@
-{
-  "internalId": 2430151766,
-  "name": "Banner of Peryite",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannerperyitesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    134855
-  ]
-}
+{"internalId":2430151766,"name":"Banner of Peryite","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_dae_lsb_bannerperyitesmall001.png","bindType":-1,"knownIds":[134855]}

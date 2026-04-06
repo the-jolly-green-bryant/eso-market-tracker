@@ -1,10 +1,1 @@
-{
-  "internalId": 3631910015,
-  "name": "Necrom Ceiling, Domed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_housingnechighroomceilingdome001.png",
-  "bindType": -1,
-  "knownIds": [
-    198017
-  ]
-}
+{"internalId":3631910015,"name":"Necrom Ceiling, Domed","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_housingnechighroomceilingdome001.png","bindType":-1,"knownIds":[198017]}

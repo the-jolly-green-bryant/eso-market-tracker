@@ -1,10 +1,1 @@
-{
-  "internalId": 3683673224,
-  "name": "Blueprint: Redguard Nightstand, Florid",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119178
-  ]
-}
+{"internalId":3683673224,"name":"Blueprint: Redguard Nightstand, Florid","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[119178]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 570357101,
-  "name": "Recipe: Lillandril Tonic Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45594
-  ]
-}
+{"internalId":570357101,"name":"Recipe: Lillandril Tonic Tea","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45594]}

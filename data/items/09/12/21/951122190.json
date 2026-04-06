@@ -1,10 +1,1 @@
-{
-  "internalId": 951122190,
-  "name": "Sabatons of Hunding's Rage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56606
-  ]
-}
+{"internalId":951122190,"name":"Sabatons of Hunding's Rage","description":"","icon":"data/images/d_/te/ef/gear_breton_heavy_feet_d.png","bindType":2,"knownIds":[56606]}

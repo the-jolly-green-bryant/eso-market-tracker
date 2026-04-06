@@ -1,10 +1,1 @@
-{
-  "internalId": 141085202,
-  "name": "Pellingare War Plate",
-  "description": "The finest armor to be found in Wayrest, above the city or below.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34390
-  ]
-}
+{"internalId":141085202,"name":"Pellingare War Plate","description":"The finest armor to be found in Wayrest, above the city or below.","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[34390]}

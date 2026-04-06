@@ -1,10 +1,1 @@
-{
-  "internalId": 955044673,
-  "name": "Tankard of Undaunted Victory, Bone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedmugs002.png",
-  "bindType": -1,
-  "knownIds": [
-    208109
-  ]
-}
+{"internalId":955044673,"name":"Tankard of Undaunted Victory, Bone","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedmugs002.png","bindType":-1,"knownIds":[208109]}

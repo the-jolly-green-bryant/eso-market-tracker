@@ -1,10 +1,1 @@
-{
-  "internalId": 3083380742,
-  "name": "High Elf Wagon, Covered",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_csb_cartcovered001.png",
-  "bindType": -1,
-  "knownIds": [
-    114426
-  ]
-}
+{"internalId":3083380742,"name":"High Elf Wagon, Covered","description":"This is a large house item.","icon":"data/images/10/0d/er/housing_alt_csb_cartcovered001.png","bindType":-1,"knownIds":[114426]}

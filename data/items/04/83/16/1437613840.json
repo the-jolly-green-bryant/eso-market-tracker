@@ -1,10 +1,1 @@
-{
-  "internalId": 1437613840,
-  "name": "Disposable Juggling Knives",
-  "description": "These false knives appear authentic, but are actually made from kwama cuttle that softens quickly when handled. Preferred by stage performers to delight and amaze with seemingly \"perilous\" knife tricks.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/collectible_memento_jugglers_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    96956
-  ]
-}
+{"internalId":1437613840,"name":"Disposable Juggling Knives","description":"These false knives appear authentic, but are actually made from kwama cuttle that softens quickly when handled. Preferred by stage performers to delight and amaze with seemingly \"perilous\" knife tricks.","icon":"data/images/ef/in/k_/collectible_memento_jugglers_knife.png","bindType":-1,"knownIds":[96956]}

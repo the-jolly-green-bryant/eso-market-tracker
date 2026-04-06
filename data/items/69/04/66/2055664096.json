@@ -1,10 +1,1 @@
-{
-  "internalId": 2055664096,
-  "name": "Pattern: Solitude Carpet, Wolf's-Head Border",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166792
-  ]
-}
+{"internalId":2055664096,"name":"Pattern: Solitude Carpet, Wolf's-Head Border","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[166792]}

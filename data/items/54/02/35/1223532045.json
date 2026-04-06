@@ -1,10 +1,1 @@
-{
-  "internalId": 1223532045,
-  "name": "Crafting Motif 84: Blackreach Vanguard Axes",
-  "description": "Use to learn how to make Blackreach Vanguard Axes. Also teaches the equivalent Blackreach Vanguard Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160494
-  ]
-}
+{"internalId":1223532045,"name":"Crafting Motif 84: Blackreach Vanguard Axes","description":"Use to learn how to make Blackreach Vanguard Axes. Also teaches the equivalent Blackreach Vanguard Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160494]}

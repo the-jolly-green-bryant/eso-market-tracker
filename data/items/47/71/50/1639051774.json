@@ -1,10 +1,1 @@
-{
-  "internalId": 1639051774,
-  "name": "Plague Doctor's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97181
-  ]
-}
+{"internalId":1639051774,"name":"Plague Doctor's Maul","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[97181]}

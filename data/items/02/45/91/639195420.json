@@ -1,10 +1,1 @@
-{
-  "internalId": 639195420,
-  "name": "Six Mushroom Scent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1168105
-  ]
-}
+{"internalId":639195420,"name":"Six Mushroom Scent","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[1168105]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4049388193,
-  "name": "Jewelry Crafting Survey: Bangkorai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240313
-  ]
-}
+{"internalId":4049388193,"name":"Jewelry Crafting Survey: Bangkorai","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1240313]}

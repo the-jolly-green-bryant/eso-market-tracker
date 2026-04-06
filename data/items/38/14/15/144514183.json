@@ -1,10 +1,1 @@
-{
-  "internalId": 144514183,
-  "name": "Tree, Tall Charred Pine",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_bad_deadlands006.png",
-  "bindType": -1,
-  "knownIds": [
-    181590
-  ]
-}
+{"internalId":144514183,"name":"Tree, Tall Charred Pine","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_bad_deadlands006.png","bindType":-1,"knownIds":[181590]}

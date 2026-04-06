@@ -1,10 +1,1 @@
-{
-  "internalId": 4241300729,
-  "name": "Fargrave Door",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farhousehighdoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    184082
-  ]
-}
+{"internalId":4241300729,"name":"Fargrave Door","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farhousehighdoor001.png","bindType":-1,"knownIds":[184082]}

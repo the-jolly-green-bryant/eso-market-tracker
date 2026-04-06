@@ -1,10 +1,1 @@
-{
-  "internalId": 3835366447,
-  "name": "Sip of Ravage Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_016_type_001.png",
-  "bindType": -1,
-  "knownIds": [
-    44815
-  ]
-}
+{"internalId":3835366447,"name":"Sip of Ravage Magicka","description":"","icon":"data/images/10/0_/ep/consumable_potion_016_type_001.png","bindType":-1,"knownIds":[44815]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2777809528,
-  "name": "Pattern: Necrom Runner, Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    197616
-  ]
-}
+{"internalId":2777809528,"name":"Pattern: Necrom Runner, Small","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[197616]}

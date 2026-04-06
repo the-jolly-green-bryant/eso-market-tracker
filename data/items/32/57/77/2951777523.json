@@ -1,10 +1,1 @@
-{
-  "internalId": 2951777523,
-  "name": "Leyawiin Divider, Carved Starfish",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_screen001.png",
-  "bindType": -1,
-  "knownIds": [
-    181503
-  ]
-}
+{"internalId":2951777523,"name":"Leyawiin Divider, Carved Starfish","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_screen001.png","bindType":-1,"knownIds":[181503]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1256789079,
-  "name": "Murkmire Kiln, Derelict",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkclaypotterykiln001.png",
-  "bindType": -1,
-  "knownIds": [
-    145551
-  ]
-}
+{"internalId":1256789079,"name":"Murkmire Kiln, Derelict","description":"This is a large house item.","icon":"data/images/10/0n/li/housing_arg_exc_mrkclaypotterykiln001.png","bindType":-1,"knownIds":[145551]}

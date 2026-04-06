@@ -1,13 +1,1 @@
-{
-  "internalId": 2772588344,
-  "name": "Perfected Yolnahkriin's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1343190,
-    1639790,
-    1343190,
-    1639790
-  ]
-}
+{"internalId":2772588344,"name":"Perfected Yolnahkriin's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1343190,1639790,1343190,1639790]}

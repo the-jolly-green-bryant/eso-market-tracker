@@ -1,10 +1,1 @@
-{
-  "internalId": 4049490291,
-  "name": "Orcish Cabinet, Branded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgmerchantcountersquare002.png",
-  "bindType": -1,
-  "knownIds": [
-    116397
-  ]
-}
+{"internalId":4049490291,"name":"Orcish Cabinet, Branded","description":"This is a standard house item.","icon":"data/images/20/0e/ra/housing_orc_fur_wtgmerchantcountersquare002.png","bindType":-1,"knownIds":[116397]}

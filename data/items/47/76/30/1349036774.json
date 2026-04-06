@@ -1,10 +1,1 @@
-{
-  "internalId": 1349036774,
-  "name": "Style Page: Fanged Worm Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1246580
-  ]
-}
+{"internalId":1349036774,"name":"Style Page: Fanged Worm Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1246580]}

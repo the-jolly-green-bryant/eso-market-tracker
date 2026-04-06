@@ -1,10 +1,1 @@
-{
-  "internalId": 508212024,
-  "name": "Scavenged Grating, Narrow",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_cmp_shantypanel002.png",
-  "bindType": -1,
-  "knownIds": [
-    134297
-  ]
-}
+{"internalId":508212024,"name":"Scavenged Grating, Narrow","description":"This is a large house item.","icon":"data/images/20/0l/en/housing_cwc_cmp_shantypanel002.png","bindType":-1,"knownIds":[134297]}

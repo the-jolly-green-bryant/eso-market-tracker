@@ -1,10 +1,1 @@
-{
-  "internalId": 3883985024,
-  "name": "Apocrypha Stele, Tentacles",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_stonestele001.png",
-  "bindType": -1,
-  "knownIds": [
-    198395
-  ]
-}
+{"internalId":3883985024,"name":"Apocrypha Stele, Tentacles","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_stonestele001.png","bindType":-1,"knownIds":[198395]}

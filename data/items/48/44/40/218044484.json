@@ -1,10 +1,1 @@
-{
-  "internalId": 218044484,
-  "name": "The Ever-Full Fishing Bait Box",
-  "description": "This box contains a bevy of fishing bait, as well as itself — allowing you to stay out fishing as long as you like.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/delivery_box_001.png",
-  "bindType": 3,
-  "knownIds": [
-    153878
-  ]
-}
+{"internalId":218044484,"name":"The Ever-Full Fishing Bait Box","description":"This box contains a bevy of fishing bait, as well as itself — allowing you to stay out fishing as long as you like.","icon":"data/images/10/0_/xo/delivery_box_001.png","bindType":3,"knownIds":[153878]}

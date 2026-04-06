@@ -1,10 +1,1 @@
-{
-  "internalId": 3899676691,
-  "name": "Praxis: Stone-Nest Table, Carved Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    223635
-  ]
-}
+{"internalId":3899676691,"name":"Praxis: Stone-Nest Table, Carved Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[223635]}

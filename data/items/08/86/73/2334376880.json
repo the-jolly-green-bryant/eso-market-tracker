@@ -1,10 +1,1 @@
-{
-  "internalId": 2334376880,
-  "name": "Worm Cult Torture Rack",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_torturebed001.png",
-  "bindType": -1,
-  "knownIds": [
-    223858
-  ]
-}
+{"internalId":2334376880,"name":"Worm Cult Torture Rack","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_torturebed001.png","bindType":-1,"knownIds":[223858]}

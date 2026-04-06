@@ -1,10 +1,1 @@
-{
-  "internalId": 3860447383,
-  "name": "Mushroom, Stinkcap Sprout",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdinkcap013.png",
-  "bindType": -1,
-  "knownIds": [
-    125601
-  ]
-}
+{"internalId":3860447383,"name":"Mushroom, Stinkcap Sprout","description":"This is a standard house item.","icon":"data/images/31/0p/ac/housing_veg_fug_vrdinkcap013.png","bindType":-1,"knownIds":[125601]}

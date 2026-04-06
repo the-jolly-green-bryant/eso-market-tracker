@@ -1,11 +1,1 @@
-{
-  "internalId": 4235806485,
-  "name": "Bone Bender Oil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1147688,
-    1147688
-  ]
-}
+{"internalId":4235806485,"name":"Bone Bender Oil","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1147688,1147688]}

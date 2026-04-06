@@ -1,10 +1,1 @@
-{
-  "internalId": 1773628212,
-  "name": "Leyawiin Vase, Table",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyplantpot007.png",
-  "bindType": -1,
-  "knownIds": [
-    175667
-  ]
-}
+{"internalId":1773628212,"name":"Leyawiin Vase, Table","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyplantpot007.png","bindType":-1,"knownIds":[175667]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2129226371,
-  "name": "Pattern: Colovian Bed, Noble Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    207833
-  ]
-}
+{"internalId":2129226371,"name":"Pattern: Colovian Bed, Noble Single","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[207833]}

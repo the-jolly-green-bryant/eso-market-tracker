@@ -1,10 +1,1 @@
-{
-  "internalId": 2266530205,
-  "name": "Ice Staff of Night Terror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    97923
-  ]
-}
+{"internalId":2266530205,"name":"Ice Staff of Night Terror","description":"","icon":"data/images/c_/ff/at/gear_daedric_staff_c.png","bindType":2,"knownIds":[97923]}

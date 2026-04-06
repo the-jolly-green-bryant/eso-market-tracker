@@ -1,10 +1,1 @@
-{
-  "internalId": 3881776380,
-  "name": "Worm Drain",
-  "description": "Bestowed by the merchant Daeril for releasing the spirits of his companions, confined in crystals by the Worm Cult.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7458
-  ]
-}
+{"internalId":3881776380,"name":"Worm Drain","description":"Bestowed by the merchant Daeril for releasing the spirits of his companions, confined in crystals by the Worm Cult.","icon":"data/images/d_/dr/ow/gear_altmer_1hsword_d.png","bindType":2,"knownIds":[7458]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3907132297,
-  "name": "The Vicecanon's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78574
-  ]
-}
+{"internalId":3907132297,"name":"The Vicecanon's Mace","description":"","icon":"data/images/d_/re/mm/gear_argonian_1hhammer_d.png","bindType":2,"knownIds":[78574]}

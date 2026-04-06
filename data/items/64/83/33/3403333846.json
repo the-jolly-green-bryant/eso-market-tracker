@@ -1,10 +1,1 @@
-{
-  "internalId": 3403333846,
-  "name": "Shoes of Torug's Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56508
-  ]
-}
+{"internalId":3403333846,"name":"Shoes of Torug's Pact","description":"","icon":"data/images/d_/te/ef/gear_breton_light_feet_d.png","bindType":2,"knownIds":[56508]}

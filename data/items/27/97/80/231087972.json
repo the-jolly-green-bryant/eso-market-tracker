@@ -1,10 +1,1 @@
-{
-  "internalId": 231087972,
-  "name": "Silver Dust",
-  "description": "Ten of these items can be refined to make silver ounces.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_silver_dust.png",
-  "bindType": -1,
-  "knownIds": [
-    135141
-  ]
-}
+{"internalId":231087972,"name":"Silver Dust","description":"Ten of these items can be refined to make silver ounces.","icon":"data/images/ts/ud/_r/crafting_silver_dust.png","bindType":-1,"knownIds":[135141]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 578933362,
-  "name": "Curious Khajiiti Pipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    419916
-  ]
-}
+{"internalId":578933362,"name":"Curious Khajiiti Pipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png","bindType":-1,"knownIds":[419916]}

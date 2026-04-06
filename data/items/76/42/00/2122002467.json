@@ -1,13 +1,1 @@
-{
-  "internalId": 2122002467,
-  "name": "Null Arca Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720428,
-    1720441,
-    1720428,
-    1720441
-  ]
-}
+{"internalId":2122002467,"name":"Null Arca Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1720428,1720441,1720428,1720441]}

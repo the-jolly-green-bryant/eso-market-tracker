@@ -1,10 +1,1 @@
-{
-  "internalId": 3482220334,
-  "name": "Jejora",
-  "description": "Jejora",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_041.png",
-  "bindType": -1,
-  "knownIds": [
-    45806
-  ]
-}
+{"internalId":3482220334,"name":"Jejora","description":"Jejora","icon":"data/images/14/0_/se/crafting_components_runestones_041.png","bindType":-1,"knownIds":[45806]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1556796679,
-  "name": "Blueprint: Redguard Table, Grand Oasis",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119188
-  ]
-}
+{"internalId":1556796679,"name":"Blueprint: Redguard Table, Grand Oasis","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[119188]}

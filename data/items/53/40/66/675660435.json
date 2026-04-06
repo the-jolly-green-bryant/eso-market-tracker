@@ -1,10 +1,1 @@
-{
-  "internalId": 675660435,
-  "name": "Grave, Grasping",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_gravemound001.png",
-  "bindType": -1,
-  "knownIds": [
-    141939
-  ]
-}
+{"internalId":675660435,"name":"Grave, Grasping","description":"This is a standard house item.","icon":"data/images/10/0d/nu/housing_uni_exc_gravemound001.png","bindType":-1,"knownIds":[141939]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3575860220,
-  "name": "Breton Curtains, Window",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_drapelarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    115255
-  ]
-}
+{"internalId":3575860220,"name":"Breton Curtains, Window","description":"This is a standard house item.","icon":"data/images/10/0e/gr/housing_bre_lsb_drapelarge001.png","bindType":-1,"knownIds":[115255]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3652654544,
-  "name": "Helm of the Yokeda",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_heavy_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    815811
-  ]
-}
+{"internalId":3652654544,"name":"Helm of the Yokeda","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_heavy_head_a.png","bindType":-1,"knownIds":[815811]}

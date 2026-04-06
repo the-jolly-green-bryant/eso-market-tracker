@@ -1,10 +1,1 @@
-{
-  "internalId": 590506704,
-  "name": "Hel Netu Pigment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u45_style_item_militantmonk.png",
-  "bindType": -1,
-  "knownIds": [
-    211087
-  ]
-}
+{"internalId":590506704,"name":"Hel Netu Pigment","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/u45_style_item_militantmonk.png","bindType":-1,"knownIds":[211087]}

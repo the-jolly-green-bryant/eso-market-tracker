@@ -1,10 +1,1 @@
-{
-  "internalId": 585913029,
-  "name": "Adept Rider Jewelry",
-  "description": "A Crafted Armor set constructed in Summerset.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182770
-  ]
-}
+{"internalId":585913029,"name":"Adept Rider Jewelry","description":"A Crafted Armor set constructed in Summerset.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182770]}

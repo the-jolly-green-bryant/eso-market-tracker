@@ -1,17 +1,1 @@
-{
-  "internalId": 2167656460,
-  "name": "Spattering Disjunction Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1735122,
-    1744235,
-    1761895,
-    1762403,
-    1735122,
-    1744235,
-    1761895,
-    1762403
-  ]
-}
+{"internalId":2167656460,"name":"Spattering Disjunction Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_staff.png","bindType":-1,"knownIds":[1735122,1744235,1761895,1762403,1735122,1744235,1761895,1762403]}

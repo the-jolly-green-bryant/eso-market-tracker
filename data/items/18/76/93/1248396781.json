@@ -1,10 +1,1 @@
-{
-  "internalId": 1248396781,
-  "name": "Signature Script: Thief's Swiftness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_mobility.png",
-  "bindType": -1,
-  "knownIds": [
-    204583
-  ]
-}
+{"internalId":1248396781,"name":"Signature Script: Thief's Swiftness","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_mobility.png","bindType":-1,"knownIds":[204583]}

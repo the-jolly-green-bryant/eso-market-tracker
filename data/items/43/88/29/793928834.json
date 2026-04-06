@@ -1,10 +1,1 @@
-{
-  "internalId": 793928834,
-  "name": "Baandari Trading Post Parasol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    792403
-  ]
-}
+{"internalId":793928834,"name":"Baandari Trading Post Parasol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png","bindType":-1,"knownIds":[792403]}

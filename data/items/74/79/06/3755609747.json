@@ -1,10 +1,1 @@
-{
-  "internalId": 3755609747,
-  "name": "Dwarven Lamp, Conal Frustum Cage",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markhanginglanterns001.png",
-  "bindType": -1,
-  "knownIds": [
-    171335
-  ]
-}
+{"internalId":3755609747,"name":"Dwarven Lamp, Conal Frustum Cage","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markhanginglanterns001.png","bindType":-1,"knownIds":[171335]}

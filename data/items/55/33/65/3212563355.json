@@ -1,10 +1,1 @@
-{
-  "internalId": 3212563355,
-  "name": "Morkuldin Weapons",
-  "description": "A Crafted Armor set constructed in Wrothgar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182605
-  ]
-}
+{"internalId":3212563355,"name":"Morkuldin Weapons","description":"A Crafted Armor set constructed in Wrothgar.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182605]}

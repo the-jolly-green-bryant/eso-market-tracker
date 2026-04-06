@@ -1,10 +1,1 @@
-{
-  "internalId": 748573703,
-  "name": "Girding of Shadows",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56875
-  ]
-}
+{"internalId":748573703,"name":"Girding of Shadows","description":"","icon":"data/images/d_/ts/ia/gear_khajiit_medium_waist_d.png","bindType":2,"knownIds":[56875]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1001848722,
-  "name": "Imperial Bench, Fitted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_benchpeasant002.png",
-  "bindType": -1,
-  "knownIds": [
-    94136
-  ]
-}
+{"internalId":1001848722,"name":"Imperial Bench, Fitted","description":"This is a standard house item.","icon":"data/images/20/0t/na/housing_nib_fur_benchpeasant002.png","bindType":-1,"knownIds":[94136]}

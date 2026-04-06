@@ -1,10 +1,1 @@
-{
-  "internalId": 1759478778,
-  "name": "Sip of Immovability",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_008_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    27039
-  ]
-}
+{"internalId":1759478778,"name":"Sip of Immovability","description":"","icon":"data/images/50/0_/ep/consumable_potion_008_type_005.png","bindType":-1,"knownIds":[27039]}

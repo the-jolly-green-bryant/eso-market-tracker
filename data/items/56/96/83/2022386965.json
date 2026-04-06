@@ -1,10 +1,1 @@
-{
-  "internalId": 2022386965,
-  "name": "Leyawiin Column, Castle",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastlepillarint001.png",
-  "bindType": -1,
-  "knownIds": [
-    181515
-  ]
-}
+{"internalId":2022386965,"name":"Leyawiin Column, Castle","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastlepillarint001.png","bindType":-1,"knownIds":[181515]}

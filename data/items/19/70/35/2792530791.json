@@ -1,10 +1,1 @@
-{
-  "internalId": 2792530791,
-  "name": "Ice Staff of Ancient Grace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90208
-  ]
-}
+{"internalId":2792530791,"name":"Ice Staff of Ancient Grace","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[90208]}

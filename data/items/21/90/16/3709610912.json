@@ -1,10 +1,1 @@
-{
-  "internalId": 3709610912,
-  "name": "Viletread Boots",
-  "description": "You saved the stories of Melrethel's village in the Vile Manse. She gave you these boots to remember her by.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    212184
-  ]
-}
+{"internalId":3709610912,"name":"Viletread Boots","description":"You saved the stories of Melrethel's village in the Vile Manse. She gave you these boots to remember her by.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_feet_d.png","bindType":2,"knownIds":[212184]}

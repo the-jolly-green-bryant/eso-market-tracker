@@ -1,10 +1,1 @@
-{
-  "internalId": 589339869,
-  "name": "Dragonguard Elite's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155387
-  ]
-}
+{"internalId":589339869,"name":"Dragonguard Elite's Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_staff_a.png","bindType":2,"knownIds":[155387]}

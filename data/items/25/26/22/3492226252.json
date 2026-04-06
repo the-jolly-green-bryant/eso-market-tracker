@@ -1,10 +1,1 @@
-{
-  "internalId": 3492226252,
-  "name": "Sapling, Banana",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_bananatree003.png",
-  "bindType": -1,
-  "knownIds": [
-    214499
-  ]
-}
+{"internalId":3492226252,"name":"Sapling, Banana","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_bananatree003.png","bindType":-1,"knownIds":[214499]}

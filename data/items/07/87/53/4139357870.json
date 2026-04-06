@@ -1,15 +1,1 @@
-{
-  "internalId": 4139357870,
-  "name": "Telvanni Enforcer Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1659698,
-    1735441,
-    1659698,
-    1735441,
-    1659698,
-    1735441
-  ]
-}
+{"internalId":4139357870,"name":"Telvanni Enforcer Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_1haxe_a.png","bindType":-1,"knownIds":[1659698,1735441,1659698,1735441,1659698,1735441]}

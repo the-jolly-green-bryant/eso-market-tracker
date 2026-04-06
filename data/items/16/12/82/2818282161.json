@@ -1,10 +1,1 @@
-{
-  "internalId": 2818282161,
-  "name": "Shield of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199672
-  ]
-}
+{"internalId":2818282161,"name":"Shield of Vicious Death","description":"","icon":"data/images/a_/dl/ei/gear_abahswatch_shield_a.png","bindType":2,"knownIds":[79844]}

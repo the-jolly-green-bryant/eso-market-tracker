@@ -1,17 +1,1 @@
-{
-  "internalId": 2856377299,
-  "name": "Cinders of Anthelmir Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_2hmace.png",
-  "bindType": -1,
-  "knownIds": [
-    1717210,
-    1724198,
-    1732170,
-    1735341,
-    1717210,
-    1724198,
-    1732170,
-    1735341
-  ]
-}
+{"internalId":2856377299,"name":"Cinders of Anthelmir Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_2hmace.png","bindType":-1,"knownIds":[1717210,1724198,1732170,1735341,1717210,1724198,1732170,1735341]}

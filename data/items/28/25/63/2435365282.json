@@ -1,10 +1,1 @@
-{
-  "internalId": 2435365282,
-  "name": "Praxis: Argonian Bowl, Bordered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    115775
-  ]
-}
+{"internalId":2435365282,"name":"Praxis: Argonian Bowl, Bordered","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[115775]}

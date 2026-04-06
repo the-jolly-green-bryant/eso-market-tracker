@@ -1,10 +1,1 @@
-{
-  "internalId": 861203358,
-  "name": "Dragonguard Elite's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155396
-  ]
-}
+{"internalId":861203358,"name":"Dragonguard Elite's Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_waist_a.png","bindType":2,"knownIds":[155396]}

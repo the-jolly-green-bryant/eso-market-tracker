@@ -1,10 +1,1 @@
-{
-  "internalId": 760335007,
-  "name": "BLACKROSE: Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1411293
-  ]
-}
+{"internalId":760335007,"name":"BLACKROSE: Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1411293]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 102655302,
-  "name": "Nerien'eth's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_lich_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1580627
-  ]
-}
+{"internalId":102655302,"name":"Nerien'eth's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_lich_head_a.png","bindType":-1,"knownIds":[1580627]}

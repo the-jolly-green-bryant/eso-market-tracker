@@ -1,15 +1,1 @@
-{
-  "internalId": 4166391201,
-  "name": "Kollopi Essence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_flower_001.png",
-  "bindType": -1,
-  "knownIds": [
-    817122,
-    1428191,
-    817122,
-    1428191,
-    817122,
-    1428191
-  ]
-}
+{"internalId":4166391201,"name":"Kollopi Essence","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_flower_001.png","bindType":-1,"knownIds":[817122,1428191,817122,1428191,817122,1428191]}

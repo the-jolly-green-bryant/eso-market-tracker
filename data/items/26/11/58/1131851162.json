@@ -1,17 +1,1 @@
-{
-  "internalId": 1131851162,
-  "name": "Mora Scribe's Perfected Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1723252,
-    1732695,
-    1740670,
-    1762440,
-    1723252,
-    1732695,
-    1740670,
-    1762440
-  ]
-}
+{"internalId":1131851162,"name":"Mora Scribe's Perfected Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hsword_a.png","bindType":-1,"knownIds":[1723252,1732695,1740670,1762440,1723252,1732695,1740670,1762440]}

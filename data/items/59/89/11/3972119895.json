@@ -1,10 +1,1 @@
-{
-  "internalId": 3972119895,
-  "name": "Jahar Fuso'ja",
-  "description": "This ornately inlaid qanun is clearly made for Khajiit paws. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_musicpsaltery001.png",
-  "bindType": 3,
-  "knownIds": [
-    156806
-  ]
-}
+{"internalId":3972119895,"name":"Jahar Fuso'ja","description":"This ornately inlaid qanun is clearly made for Khajiit paws. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_musicpsaltery001.png","bindType":3,"knownIds":[156806]}

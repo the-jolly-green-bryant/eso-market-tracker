@@ -1,10 +1,1 @@
-{
-  "internalId": 2731824899,
-  "name": "Bruuke's Hide of Cyrodiil's Ward",
-  "description": "This crudely made chestpiece seems very sturdy, able to stand up to any attack.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    45736
-  ]
-}
+{"internalId":2731824899,"name":"Bruuke's Hide of Cyrodiil's Ward","description":"This crudely made chestpiece seems very sturdy, able to stand up to any attack.","icon":"data/images/d_/ts/eh/gear_nord_medium_chest_d.png","bindType":2,"knownIds":[45736]}

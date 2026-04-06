@@ -1,10 +1,1 @@
-{
-  "internalId": 3058984828,
-  "name": "Pattern: Stone-Nest Bed, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    223632
-  ]
-}
+{"internalId":3058984828,"name":"Pattern: Stone-Nest Bed, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[223632]}

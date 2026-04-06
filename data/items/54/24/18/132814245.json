@@ -1,10 +1,1 @@
-{
-  "internalId": 132814245,
-  "name": "Elsweyr Table, Wide",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_tablelowlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    151718
-  ]
-}
+{"internalId":132814245,"name":"Elsweyr Table, Wide","description":"This is a standard house item.","icon":"data/images/10/0e/gr/housing_els_fur_tablelowlarge001.png","bindType":-1,"knownIds":[151718]}

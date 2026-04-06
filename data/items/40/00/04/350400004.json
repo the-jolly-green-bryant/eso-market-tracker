@@ -1,10 +1,1 @@
-{
-  "internalId": 350400004,
-  "name": "Sword of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79153
-  ]
-}
+{"internalId":350400004,"name":"Sword of Imperial Physique","description":"","icon":"data/images/a_/dr/ow/gear_ooth_1hsword_a.png","bindType":2,"knownIds":[79153]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 690413181,
-  "name": "Bow of Marauder's Haste",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155198
-  ]
-}
+{"internalId":690413181,"name":"Bow of Marauder's Haste","description":"","icon":"data/images/a_/wo/b_/gear_pellitine_bow_a.png","bindType":2,"knownIds":[155135]}

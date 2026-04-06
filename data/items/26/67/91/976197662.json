@@ -1,10 +1,1 @@
-{
-  "internalId": 976197662,
-  "name": "Orcish Statue, Strength",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_heavystatue002.png",
-  "bindType": -1,
-  "knownIds": [
-    116499
-  ]
-}
+{"internalId":976197662,"name":"Orcish Statue, Strength","description":"This is a large house item.","icon":"data/images/20/0e/ut/housing_orc_exc_heavystatue002.png","bindType":-1,"knownIds":[116499]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1480739060,
-  "name": "Common Trap, Hunting",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_dbhcagemetal002.png",
-  "bindType": -1,
-  "knownIds": [
-    118050
-  ]
-}
+{"internalId":1480739060,"name":"Common Trap, Hunting","description":"This is a standard house item.","icon":"data/images/20/0l/at/housing_red_exc_dbhcagemetal002.png","bindType":-1,"knownIds":[118050]}

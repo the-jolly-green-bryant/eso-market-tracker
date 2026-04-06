@@ -1,10 +1,1 @@
-{
-  "internalId": 1931643949,
-  "name": "Star Shard",
-  "description": "This carved gemstone powers the shrines.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0001.png",
-  "bindType": -1,
-  "knownIds": [
-    45016
-  ]
-}
+{"internalId":1931643949,"name":"Star Shard","description":"This carved gemstone powers the shrines.","icon":"data/images/10/00/_r/quest_gemstone_tear_0001.png","bindType":-1,"knownIds":[45016]}

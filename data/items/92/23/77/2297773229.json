@@ -1,10 +1,1 @@
-{
-  "internalId": 2297773229,
-  "name": "Curator's List of Sought-After Relics",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scroll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    71316
-  ]
-}
+{"internalId":2297773229,"name":"Curator's List of Sought-After Relics","description":"","icon":"data/images/20/0_/ll/scroll_002.png","bindType":-1,"knownIds":[71316]}

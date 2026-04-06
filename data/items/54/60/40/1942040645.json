@@ -1,10 +1,1 @@
-{
-  "internalId": 1942040645,
-  "name": "Worm Cult Doorway, Bone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_roomwalldoorway002.png",
-  "bindType": -1,
-  "knownIds": [
-    223760
-  ]
-}
+{"internalId":1942040645,"name":"Worm Cult Doorway, Bone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_roomwalldoorway002.png","bindType":-1,"knownIds":[223760]}

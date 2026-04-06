@@ -1,10 +1,1 @@
-{
-  "internalId": 3513323920,
-  "name": "Mournhold Folding Altar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_small_furnishing_004.png",
-  "bindType": -1,
-  "knownIds": [
-    906571
-  ]
-}
+{"internalId":3513323920,"name":"Mournhold Folding Altar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_small_furnishing_004.png","bindType":-1,"knownIds":[906571]}

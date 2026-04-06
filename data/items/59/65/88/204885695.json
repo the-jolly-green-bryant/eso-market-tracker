@@ -1,10 +1,1 @@
-{
-  "internalId": 204885695,
-  "name": "Elsweyr Pillar, Rough Wooden",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_str_merchantcoverpole001.png",
-  "bindType": -1,
-  "knownIds": [
-    151804
-  ]
-}
+{"internalId":204885695,"name":"Elsweyr Pillar, Rough Wooden","description":"This is a large house item.","icon":"data/images/10/0e/lo/housing_els_str_merchantcoverpole001.png","bindType":-1,"knownIds":[151804]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2593177895,
-  "name": "Homespun Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2lgt_shoulders.png",
-  "bindType": -1,
-  "knownIds": [
-    175742
-  ]
-}
+{"internalId":2593177895,"name":"Homespun Epaulets","description":"","icon":"data/images/d_/sr/ed/gear_redguard_light_shoulders_d.png","bindType":-1,"knownIds":[81191]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2146009625,
-  "name": "Metallic: Quarry and Carpenter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2616.png",
-  "bindType": -1,
-  "knownIds": [
-    1190189
-  ]
-}
+{"internalId":2146009625,"name":"Metallic: Quarry and Carpenter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2616.png","bindType":-1,"knownIds":[1190189]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2120728821,
-  "name": "Angles and Arcs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1178410
-  ]
-}
+{"internalId":2120728821,"name":"Angles and Arcs","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png","bindType":-1,"knownIds":[1178410]}

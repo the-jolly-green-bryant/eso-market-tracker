@@ -1,10 +1,1 @@
-{
-  "internalId": 23007507,
-  "name": "Cherrywood Tambourine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1270779
-  ]
-}
+{"internalId":23007507,"name":"Cherrywood Tambourine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1270779]}

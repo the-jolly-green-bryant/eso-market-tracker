@@ -1,10 +1,1 @@
-{
-  "internalId": 3739946267,
-  "name": "Alinor Trellis, Purple Wisteria",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_trellis004.png",
-  "bindType": -1,
-  "knownIds": [
-    184193
-  ]
-}
+{"internalId":3739946267,"name":"Alinor Trellis, Purple Wisteria","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_trellis004.png","bindType":-1,"knownIds":[184193]}

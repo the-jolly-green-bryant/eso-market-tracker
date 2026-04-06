@@ -1,10 +1,1 @@
-{
-  "internalId": 1663598260,
-  "name": "Mace of the Radiant Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167573
-  ]
-}
+{"internalId":1663598260,"name":"Mace of the Radiant Bastion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_1hhammer_a.png","bindType":2,"knownIds":[167573]}

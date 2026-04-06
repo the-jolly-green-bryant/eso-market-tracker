@@ -1,10 +1,1 @@
-{
-  "internalId": 389347476,
-  "name": "Metallic: Iron Filings",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan261.png",
-  "bindType": -1,
-  "knownIds": [
-    1184963
-  ]
-}
+{"internalId":389347476,"name":"Metallic: Iron Filings","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan261.png","bindType":-1,"knownIds":[1184963]}

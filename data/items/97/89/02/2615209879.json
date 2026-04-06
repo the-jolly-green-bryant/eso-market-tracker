@@ -1,13 +1,1 @@
-{
-  "internalId": 2615209879,
-  "name": "Roaring Opportunist's Perfected Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1411523,
-    1628029,
-    1411523,
-    1628029
-  ]
-}
+{"internalId":2615209879,"name":"Roaring Opportunist's Perfected Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1411523,1628029,1411523,1628029]}

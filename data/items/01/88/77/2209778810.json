@@ -1,10 +1,1 @@
-{
-  "internalId": 2209778810,
-  "name": "fang shark",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_tophy_shark.png",
-  "bindType": -1,
-  "knownIds": [
-    410596
-  ]
-}
+{"internalId":2209778810,"name":"fang shark","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_tophy_shark.png","bindType":-1,"knownIds":[410596]}

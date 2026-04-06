@@ -1,10 +1,1 @@
-{
-  "internalId": 2434393811,
-  "name": "Cactus, Lunar Fan",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_moonplanttall006.png",
-  "bindType": -1,
-  "knownIds": [
-    151853
-  ]
-}
+{"internalId":2434393811,"name":"Cactus, Lunar Fan","description":"This is a large house item.","icon":"data/images/60/0l/la/housing_veg_els_moonplanttall006.png","bindType":-1,"knownIds":[151853]}

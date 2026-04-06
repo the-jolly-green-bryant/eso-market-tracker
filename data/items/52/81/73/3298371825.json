@@ -1,10 +1,1 @@
-{
-  "internalId": 3298371825,
-  "name": "Murkmire Counter, Low Cabinet",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkdressershort001.png",
-  "bindType": -1,
-  "knownIds": [
-    145377
-  ]
-}
+{"internalId":3298371825,"name":"Murkmire Counter, Low Cabinet","description":"This is a standard house item.","icon":"data/images/10/0t/ro/housing_arg_fur_mrkdressershort001.png","bindType":-1,"knownIds":[145377]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1248002175,
-  "name": "Apocrypha Candlestick, Twisted",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libcandlestand005.png",
-  "bindType": -1,
-  "knownIds": [
-    197538
-  ]
-}
+{"internalId":1248002175,"name":"Apocrypha Candlestick, Twisted","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libcandlestand005.png","bindType":-1,"knownIds":[197538]}

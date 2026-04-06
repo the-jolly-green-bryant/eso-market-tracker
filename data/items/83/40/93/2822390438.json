@@ -1,10 +1,1 @@
-{
-  "internalId": 2822390438,
-  "name": "Belkarth Oven Mitt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    373875
-  ]
-}
+{"internalId":2822390438,"name":"Belkarth Oven Mitt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[373875]}

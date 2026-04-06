@@ -1,15 +1,1 @@
-{
-  "internalId": 3839911567,
-  "name": "Ritemaster's Bond Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1629587,
-    1660511,
-    1764849,
-    1629587,
-    1660511,
-    1764849
-  ]
-}
+{"internalId":3839911567,"name":"Ritemaster's Bond Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_dagger_a.png","bindType":-1,"knownIds":[1629587,1660511,1764849,1629587,1660511,1764849]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2577621843,
-  "name": "Serpent Skull, Colossal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_enormoussnakeskeleton001.png",
-  "bindType": -1,
-  "knownIds": [
-    145427
-  ]
-}
+{"internalId":2577621843,"name":"Serpent Skull, Colossal","description":"This is a standard house item.","icon":"data/images/10/0n/ot/housing_gen_exc_enormoussnakeskeleton001.png","bindType":-1,"knownIds":[145427]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2185922902,
-  "name": "Jack of Morkuldin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    70950
-  ]
-}
+{"internalId":2185922902,"name":"Jack of Morkuldin","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[70950]}

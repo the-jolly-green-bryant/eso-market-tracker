@@ -1,10 +1,1 @@
-{
-  "internalId": 1321531214,
-  "name": "Shield of Tava's Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72136
-  ]
-}
+{"internalId":1321531214,"name":"Shield of Tava's Favor","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[72136]}

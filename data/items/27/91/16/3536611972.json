@@ -1,14 +1,1 @@
-{
-  "internalId": 3536611972,
-  "name": "Aerie's Cry Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1726566,
-    1735499,
-    1737360,
-    1745218,
-    1774691
-  ]
-}
+{"internalId":3536611972,"name":"Aerie's Cry Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_shoulders_a.png","bindType":-1,"knownIds":[1726566,1735499,1737360,1745218,1774691]}

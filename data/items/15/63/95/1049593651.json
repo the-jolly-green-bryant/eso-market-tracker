@@ -1,10 +1,1 @@
-{
-  "internalId": 1049593651,
-  "name": "Pattern: Nord Banner, Knotwork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    116207
-  ]
-}
+{"internalId":1049593651,"name":"Pattern: Nord Banner, Knotwork","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[116207]}

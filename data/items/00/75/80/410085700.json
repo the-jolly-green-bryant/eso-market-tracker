@@ -1,10 +1,1 @@
-{
-  "internalId": 410085700,
-  "name": "Leyawiin Serving Pot, Lobster Stew",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenservingpot001.png",
-  "bindType": -1,
-  "knownIds": [
-    175677
-  ]
-}
+{"internalId":410085700,"name":"Leyawiin Serving Pot, Lobster Stew","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenservingpot001.png","bindType":-1,"knownIds":[175677]}

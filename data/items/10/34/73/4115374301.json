@@ -1,10 +1,1 @@
-{
-  "internalId": 4115374301,
-  "name": "Signature Script: Assassin's Misery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_statuseffect.png",
-  "bindType": -1,
-  "knownIds": [
-    204577
-  ]
-}
+{"internalId":4115374301,"name":"Signature Script: Assassin's Misery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_statuseffect.png","bindType":-1,"knownIds":[204577]}

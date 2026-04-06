@@ -1,10 +1,1 @@
-{
-  "internalId": 97511584,
-  "name": "Red Diamond Stained Glass",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingreddiamondwindow001.png",
-  "bindType": -1,
-  "knownIds": [
-    188341
-  ]
-}
+{"internalId":97511584,"name":"Red Diamond Stained Glass","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingreddiamondwindow001.png","bindType":-1,"knownIds":[188341]}

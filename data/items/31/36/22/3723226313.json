@@ -1,10 +1,1 @@
-{
-  "internalId": 3723226313,
-  "name": "Tormenting Robes",
-  "description": "A garment worn by the Remnants, a Dremora clan once sworn to defend Apocrypha.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197812
-  ]
-}
+{"internalId":3723226313,"name":"Tormenting Robes","description":"A garment worn by the Remnants, a Dremora clan once sworn to defend Apocrypha.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_light_robe_a.png","bindType":2,"knownIds":[197812]}

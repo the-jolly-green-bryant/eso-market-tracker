@@ -1,10 +1,1 @@
-{
-  "internalId": 1966637146,
-  "name": "Turquoise",
-  "description": "Can be used to enhance weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_jewelry_base_turquoise_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    813
-  ]
-}
+{"internalId":1966637146,"name":"Turquoise","description":"Can be used to enhance weapons.","icon":"data/images/3r/_e/si/crafting_jewelry_base_turquoise_r3.png","bindType":-1,"knownIds":[813]}

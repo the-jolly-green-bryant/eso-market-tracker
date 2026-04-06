@@ -1,10 +1,1 @@
-{
-  "internalId": 2122506790,
-  "name": "Grimoire: Traveling Knife",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_dualwield.png",
-  "bindType": 3,
-  "knownIds": [
-    204490
-  ]
-}
+{"internalId":2122506790,"name":"Grimoire: Traveling Knife","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_grimoire_dualwield.png","bindType":3,"knownIds":[204490]}

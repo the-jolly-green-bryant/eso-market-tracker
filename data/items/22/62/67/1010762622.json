@@ -1,10 +1,1 @@
-{
-  "internalId": 1010762622,
-  "name": "Crystal Pruners",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/fragment_costume_sixthhouse_sheers.png",
-  "bindType": -1,
-  "knownIds": [
-    1371790
-  ]
-}
+{"internalId":1010762622,"name":"Crystal Pruners","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/fragment_costume_sixthhouse_sheers.png","bindType":-1,"knownIds":[1371790]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3311380711,
-  "name": "Sword of Mechanical Acuity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    131387
-  ]
-}
+{"internalId":3311380711,"name":"Sword of Mechanical Acuity","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[131387]}

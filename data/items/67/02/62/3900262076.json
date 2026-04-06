@@ -1,10 +1,1 @@
-{
-  "internalId": 3900262076,
-  "name": "Red Eagle's Fury Light Armor",
-  "description": "A Crafted Armor set constructed in the Reach.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182883
-  ]
-}
+{"internalId":3900262076,"name":"Red Eagle's Fury Light Armor","description":"A Crafted Armor set constructed in the Reach.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182883]}

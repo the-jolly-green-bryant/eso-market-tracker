@@ -1,10 +1,1 @@
-{
-  "internalId": 928870994,
-  "name": "Redguard Door, Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_waf_housingdungeondoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    212584
-  ]
-}
+{"internalId":928870994,"name":"Redguard Door, Tall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_waf_housingdungeondoor001.png","bindType":-1,"knownIds":[212584]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1008764944,
-  "name": "Senche-Pelt Blouse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_robe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    761981
-  ]
-}
+{"internalId":1008764944,"name":"Senche-Pelt Blouse","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_robe_d.png","bindType":-1,"knownIds":[761981]}

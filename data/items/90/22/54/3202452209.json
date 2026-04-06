@@ -1,10 +1,1 @@
-{
-  "internalId": 3202452209,
-  "name": "Dragon Cranium, Ancient",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cft_min_dragonbones001.png",
-  "bindType": -1,
-  "knownIds": [
-    134864
-  ]
-}
+{"internalId":3202452209,"name":"Dragon Cranium, Ancient","description":"This is a standard house item.","icon":"data/images/10/0s/en/housing_cft_min_dragonbones001.png","bindType":-1,"knownIds":[134864]}

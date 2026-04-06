@@ -1,10 +1,1 @@
-{
-  "internalId": 1691852983,
-  "name": "\"Key\" To Sanguine's Demesne",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_key_001.png",
-  "bindType": -1,
-  "knownIds": [
-    846370
-  ]
-}
+{"internalId":1691852983,"name":"\"Key\" To Sanguine's Demesne","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_key_001.png","bindType":-1,"knownIds":[846370]}

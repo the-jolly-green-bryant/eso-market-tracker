@@ -1,10 +1,1 @@
-{
-  "internalId": 575076576,
-  "name": "Praxis: Orcish Table, Engraved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    119056
-  ]
-}
+{"internalId":575076576,"name":"Praxis: Orcish Table, Engraved","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[119056]}

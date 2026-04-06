@@ -1,10 +1,1 @@
-{
-  "internalId": 2132122783,
-  "name": "Sword-Singer's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99325
-  ]
-}
+{"internalId":2132122783,"name":"Sword-Singer's Axe","description":"","icon":"data/images/d_/ex/ah/gear_redguard_1haxe_d.png","bindType":2,"knownIds":[99325]}

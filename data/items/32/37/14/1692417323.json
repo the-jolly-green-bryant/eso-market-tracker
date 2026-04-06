@@ -1,10 +1,1 @@
-{
-  "internalId": 1692417323,
-  "name": "Werewolf Hide Shoulder Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43891
-  ]
-}
+{"internalId":1692417323,"name":"Werewolf Hide Shoulder Cops","description":"","icon":"data/images/a_/sr/ed/gear_primative_medium_shoulders_a.png","bindType":2,"knownIds":[43891]}

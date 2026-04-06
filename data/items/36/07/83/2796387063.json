@@ -1,10 +1,1 @@
-{
-  "internalId": 2796387063,
-  "name": "Cedar Boot Keepers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_claw_001.png",
-  "bindType": -1,
-  "knownIds": [
-    796635
-  ]
-}
+{"internalId":2796387063,"name":"Cedar Boot Keepers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_monster_claw_001.png","bindType":-1,"knownIds":[796635]}

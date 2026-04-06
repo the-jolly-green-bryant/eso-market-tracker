@@ -1,10 +1,1 @@
-{
-  "internalId": 2609128775,
-  "name": "Morkul Clan Travel Kit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795810
-  ]
-}
+{"internalId":2609128775,"name":"Morkul Clan Travel Kit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[795810]}

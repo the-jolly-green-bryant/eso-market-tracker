@@ -1,10 +1,1 @@
-{
-  "internalId": 1103491296,
-  "name": "Sash of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79178
-  ]
-}
+{"internalId":1103491296,"name":"Sash of Imperial Physique","description":"","icon":"data/images/a_/ts/ia/gear_ooth_light_waist_a.png","bindType":2,"knownIds":[79178]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2147976951,
-  "name": "Gryphon's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135344
-  ]
-}
+{"internalId":2147976951,"name":"Gryphon's Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[135344]}

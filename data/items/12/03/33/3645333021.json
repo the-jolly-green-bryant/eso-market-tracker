@@ -1,10 +1,1 @@
-{
-  "internalId": 3645333021,
-  "name": "Bright-Throat's Boast Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142759
-  ]
-}
+{"internalId":3645333021,"name":"Bright-Throat's Boast Lightning Staff","description":"","icon":"data/images/a_/ff/at/gear_elderarg_staff_a.png","bindType":2,"knownIds":[142759]}

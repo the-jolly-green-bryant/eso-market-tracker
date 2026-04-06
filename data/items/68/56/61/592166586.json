@@ -1,10 +1,1 @@
-{
-  "internalId": 592166586,
-  "name": "Iron Chest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    55453
-  ]
-}
+{"internalId":592166586,"name":"Iron Chest","description":"","icon":"data/images/d_/ts/eh/gear_dunmer_heavy_chest_d.png","bindType":-1,"knownIds":[55453]}

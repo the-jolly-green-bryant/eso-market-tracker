@@ -1,10 +1,1 @@
-{
-  "internalId": 2174288819,
-  "name": "Hands of Shadows",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    29520
-  ]
-}
+{"internalId":2174288819,"name":"Hands of Shadows","description":"","icon":"data/images/d_/sd/na/gear_khajiit_medium_hands_d.png","bindType":2,"knownIds":[29520]}

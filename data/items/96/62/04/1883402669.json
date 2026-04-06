@@ -1,13 +1,1 @@
-{
-  "internalId": 1883402669,
-  "name": "Yokudan Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    815236,
-    376801,
-    815236,
-    376801
-  ]
-}
+{"internalId":1883402669,"name":"Yokudan Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[815236,376801,815236,376801]}

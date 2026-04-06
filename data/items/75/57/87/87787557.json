@@ -1,10 +1,1 @@
-{
-  "internalId": 87787557,
-  "name": "Saplings, Ashland",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_vrdsapling004.png",
-  "bindType": -1,
-  "knownIds": [
-    125645
-  ]
-}
+{"internalId":87787557,"name":"Saplings, Ashland","description":"This is a standard house item.","icon":"data/images/40/0g/ni/housing_tre_dec_vrdsapling004.png","bindType":-1,"knownIds":[125645]}

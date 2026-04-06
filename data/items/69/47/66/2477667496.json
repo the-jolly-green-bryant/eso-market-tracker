@@ -1,10 +1,1 @@
-{
-  "internalId": 2477667496,
-  "name": "Articulated Ordinator Figurine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1225257
-  ]
-}
+{"internalId":2477667496,"name":"Articulated Ordinator Figurine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1225257]}

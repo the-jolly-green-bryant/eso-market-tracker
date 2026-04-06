@@ -1,10 +1,1 @@
-{
-  "internalId": 3890906100,
-  "name": "Jewelry: Tzogvin's Warband",
-  "description": "A Medium Armor set found in Frostvault.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    147621
-  ]
-}
+{"internalId":3890906100,"name":"Jewelry: Tzogvin's Warband","description":"A Medium Armor set found in Frostvault.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[147621]}

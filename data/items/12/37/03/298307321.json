@@ -1,10 +1,1 @@
-{
-  "internalId": 298307321,
-  "name": "Fragment of the Black Maw",
-  "description": "Consume Fragment of the Black Maw, along with fragments of the Obsidian Scar, the Exarch, the Winterbourne, and the Thorn, to unlock the Skill Stylist: Silver Bolts achievement and the Silver Bolts, Vibrant Yellow Skill Style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_vrdglasscrystal013.png",
-  "bindType": 3,
-  "knownIds": [
-    211158
-  ]
-}
+{"internalId":298307321,"name":"Fragment of the Black Maw","description":"Consume Fragment of the Black Maw, along with fragments of the Obsidian Scar, the Exarch, the Winterbourne, and the Thorn, to unlock the Skill Stylist: Silver Bolts achievement and the Silver Bolts, Vibrant Yellow Skill Style.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_vrdglasscrystal013.png","bindType":3,"knownIds":[211158]}

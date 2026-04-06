@@ -1,10 +1,1 @@
-{
-  "internalId": 4065062067,
-  "name": "Signature Script: Gladiator's Tenacity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_damagereduction.png",
-  "bindType": -1,
-  "knownIds": [
-    204586
-  ]
-}
+{"internalId":4065062067,"name":"Signature Script: Gladiator's Tenacity","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_damagereduction.png","bindType":-1,"knownIds":[204586]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3055371799,
-  "name": "Mummy, Skyward Gazing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_mummy002.png",
-  "bindType": -1,
-  "knownIds": [
-    189475
-  ]
-}
+{"internalId":3055371799,"name":"Mummy, Skyward Gazing","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_mummy002.png","bindType":-1,"knownIds":[189475]}

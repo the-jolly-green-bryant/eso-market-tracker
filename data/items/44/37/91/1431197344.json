@@ -1,10 +1,1 @@
-{
-  "internalId": 1431197344,
-  "name": "Tree, Towering Wax Palm",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_drypalm001.png",
-  "bindType": -1,
-  "knownIds": [
-    120741
-  ]
-}
+{"internalId":1431197344,"name":"Tree, Towering Wax Palm","description":"This is a huge house item.","icon":"data/images/10/0m/la/housing_tre_trp_drypalm001.png","bindType":-1,"knownIds":[120741]}

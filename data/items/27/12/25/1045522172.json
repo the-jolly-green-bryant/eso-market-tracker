@@ -1,10 +1,1 @@
-{
-  "internalId": 1045522172,
-  "name": "Solstice Bismuth, Gigantic Deposit I",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_bismuth002.png",
-  "bindType": -1,
-  "knownIds": [
-    214493
-  ]
-}
+{"internalId":1045522172,"name":"Solstice Bismuth, Gigantic Deposit I","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_bismuth002.png","bindType":-1,"knownIds":[214493]}

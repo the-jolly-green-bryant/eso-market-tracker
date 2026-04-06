@@ -1,10 +1,1 @@
-{
-  "internalId": 1553038808,
-  "name": "Twilight's Embrace Light Armor",
-  "description": "A Crafted Armor set constructed in Grahtwood, Stormhaven, and Deshaan.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182432
-  ]
-}
+{"internalId":1553038808,"name":"Twilight's Embrace Light Armor","description":"A Crafted Armor set constructed in Grahtwood, Stormhaven, and Deshaan.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182432]}

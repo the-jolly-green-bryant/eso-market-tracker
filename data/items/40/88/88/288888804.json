@@ -1,10 +1,1 @@
-{
-  "internalId": 288888804,
-  "name": "Statuette of Trinimac",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_diagna_statuette.png",
-  "bindType": -1,
-  "knownIds": [
-    936445
-  ]
-}
+{"internalId":288888804,"name":"Statuette of Trinimac","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_diagna_statuette.png","bindType":-1,"knownIds":[936445]}

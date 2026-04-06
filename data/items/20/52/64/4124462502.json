@@ -1,15 +1,1 @@
-{
-  "internalId": 4124462502,
-  "name": "Yolnahkriin's Perfected Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_heavy_helmet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1746077,
-    1775273,
-    1746077,
-    1775273,
-    1746077,
-    1775273
-  ]
-}
+{"internalId":4124462502,"name":"Yolnahkriin's Perfected Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_heavy_helmet_a.png","bindType":-1,"knownIds":[1746077,1775273,1746077,1775273,1746077,1775273]}

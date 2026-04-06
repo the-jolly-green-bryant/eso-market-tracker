@@ -1,10 +1,1 @@
-{
-  "internalId": 2754070295,
-  "name": "Broken Firepot Disruptor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_vvardenfell_sonance_generator.png",
-  "bindType": -1,
-  "knownIds": [
-    1196640
-  ]
-}
+{"internalId":2754070295,"name":"Broken Firepot Disruptor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_vvardenfell_sonance_generator.png","bindType":-1,"knownIds":[1196640]}

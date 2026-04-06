@@ -1,10 +1,1 @@
-{
-  "internalId": 344954908,
-  "name": "Runebox: Jester's Deadly Headband Adornment",
-  "description": "Contains a Jester's Deadly Headband Adornment. This container can be traded, mailed, or posted to Guild Banks and Guild Stores. Once opened, the Runebox and its contents are bound to your account.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_collectible_runebound_tome.png",
-  "bindType": -1,
-  "knownIds": [
-    214258
-  ]
-}
+{"internalId":344954908,"name":"Runebox: Jester's Deadly Headband Adornment","description":"Contains a Jester's Deadly Headband Adornment. This container can be traded, mailed, or posted to Guild Banks and Guild Stores. Once opened, the Runebox and its contents are bound to your account.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_collectible_runebound_tome.png","bindType":-1,"knownIds":[214258]}

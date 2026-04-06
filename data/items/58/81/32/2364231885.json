@@ -1,10 +1,1 @@
-{
-  "internalId": 2364231885,
-  "name": "Cloudy Gradual Ravage Health Poison V",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_orange_004.png",
-  "bindType": -1,
-  "knownIds": [
-    1432137
-  ]
-}
+{"internalId":2364231885,"name":"Cloudy Gradual Ravage Health Poison V","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_orange_004.png","bindType":-1,"knownIds":[1432137]}

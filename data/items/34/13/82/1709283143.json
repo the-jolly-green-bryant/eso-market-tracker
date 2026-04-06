@@ -1,17 +1,1 @@
-{
-  "internalId": 1709283143,
-  "name": "splendid glyph of disease resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png",
-  "bindType": -1,
-  "knownIds": [
-    430440,
-    444939,
-    1446328,
-    1446593,
-    430440,
-    444939,
-    1446328,
-    1446593
-  ]
-}
+{"internalId":1709283143,"name":"splendid glyph of disease resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png","bindType":-1,"knownIds":[430440,444939,1446328,1446593,430440,444939,1446328,1446593]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1347914763,
-  "name": "Steel Marlinspike",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1196787
-  ]
-}
+{"internalId":1347914763,"name":"Steel Marlinspike","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[1196787]}

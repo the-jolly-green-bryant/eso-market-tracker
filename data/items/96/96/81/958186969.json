@@ -1,10 +1,1 @@
-{
-  "internalId": 958186969,
-  "name": "Marksman's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199437
-  ]
-}
+{"internalId":958186969,"name":"Marksman's Belt","description":"","icon":"data/images/a_/ts/ia/gear_abahswatch_medium_waist_a.png","bindType":2,"knownIds":[79750]}

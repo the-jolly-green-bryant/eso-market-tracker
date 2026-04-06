@@ -1,10 +1,1 @@
-{
-  "internalId": 263197151,
-  "name": "Attunement Sphere",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_attunement_sphere.png",
-  "bindType": -1,
-  "knownIds": [
-    1411084
-  ]
-}
+{"internalId":263197151,"name":"Attunement Sphere","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_attunement_sphere.png","bindType":-1,"knownIds":[1411084]}

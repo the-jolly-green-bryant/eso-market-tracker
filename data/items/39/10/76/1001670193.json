@@ -1,10 +1,1 @@
-{
-  "internalId": 1001670193,
-  "name": "Rough Campfire, Doused",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_campfireburntout002.png",
-  "bindType": -1,
-  "knownIds": [
-    117965
-  ]
-}
+{"internalId":1001670193,"name":"Rough Campfire, Doused","description":"This is a standard house item.","icon":"data/images/20/0t/uo/housing_bre_cmp_campfireburntout002.png","bindType":-1,"knownIds":[117965]}

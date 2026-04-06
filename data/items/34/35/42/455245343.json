@@ -1,10 +1,1 @@
-{
-  "internalId": 455245343,
-  "name": "West Weald Treasure Map IV",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    207967
-  ]
-}
+{"internalId":455245343,"name":"West Weald Treasure Map IV","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[207967]}

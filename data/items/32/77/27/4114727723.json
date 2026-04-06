@@ -1,10 +1,1 @@
-{
-  "internalId": 4114727723,
-  "name": "Adusa's Hunting Bow",
-  "description": "Adusa-daro awarded her personal hunting bow for helping her bring down Rohlbert Montclair.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7303
-  ]
-}
+{"internalId":4114727723,"name":"Adusa's Hunting Bow","description":"Adusa-daro awarded her personal hunting bow for helping her bring down Rohlbert Montclair.","icon":"data/images/d_/wo/b_/gear_khajiit_bow_d.png","bindType":2,"knownIds":[7303]}

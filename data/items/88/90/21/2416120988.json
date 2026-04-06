@@ -1,10 +1,1 @@
-{
-  "internalId": 2416120988,
-  "name": "Style Page: Fanged Worm Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1247167
-  ]
-}
+{"internalId":2416120988,"name":"Style Page: Fanged Worm Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1247167]}

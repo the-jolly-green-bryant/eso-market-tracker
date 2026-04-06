@@ -1,10 +1,1 @@
-{
-  "internalId": 3746553111,
-  "name": "Necklace of the Juggernaut",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    88896
-  ]
-}
+{"internalId":3746553111,"name":"Necklace of the Juggernaut","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[88896]}

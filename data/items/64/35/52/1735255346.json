@@ -1,10 +1,1 @@
-{
-  "internalId": 1735255346,
-  "name": "Red Heavens Lamp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png",
-  "bindType": -1,
-  "knownIds": [
-    661465
-  ]
-}
+{"internalId":1735255346,"name":"Red Heavens Lamp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png","bindType":-1,"knownIds":[661465]}

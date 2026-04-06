@@ -1,10 +1,1 @@
-{
-  "internalId": 2962675114,
-  "name": "Darloc Brae's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_medium_helmet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149589
-  ]
-}
+{"internalId":2962675114,"name":"Darloc Brae's Helmet","description":"","icon":"data/images/a_/te/ml/gear_anequina_medium_helmet_a.png","bindType":2,"knownIds":[149589]}

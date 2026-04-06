@@ -1,10 +1,1 @@
-{
-  "internalId": 3358429530,
-  "name": "Baandari Finger Puzzle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    652125
-  ]
-}
+{"internalId":3358429530,"name":"Baandari Finger Puzzle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png","bindType":-1,"knownIds":[652125]}

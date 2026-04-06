@@ -1,13 +1,1 @@
-{
-  "internalId": 3876500116,
-  "name": "Courier Uniform",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    813035,
-    1524271,
-    813035,
-    1524271
-  ]
-}
+{"internalId":3876500116,"name":"Courier Uniform","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[813035,1524271,813035,1524271]}

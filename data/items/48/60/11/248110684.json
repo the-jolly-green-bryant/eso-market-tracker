@@ -1,10 +1,1 @@
-{
-  "internalId": 248110684,
-  "name": "Cuirass of Mechanical Acuity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    131398
-  ]
-}
+{"internalId":248110684,"name":"Cuirass of Mechanical Acuity","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[131398]}

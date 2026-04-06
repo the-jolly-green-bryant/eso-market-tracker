@@ -1,10 +1,1 @@
-{
-  "internalId": 1233476474,
-  "name": "Shield of the Dreugh King Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    81004
-  ]
-}
+{"internalId":1233476474,"name":"Shield of the Dreugh King Slayer","description":"","icon":"data/images/d_/dl/ei/gear_dunmer_shield_d.png","bindType":2,"knownIds":[81004]}

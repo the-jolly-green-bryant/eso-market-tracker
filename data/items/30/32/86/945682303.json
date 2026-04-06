@@ -1,10 +1,1 @@
-{
-  "internalId": 945682303,
-  "name": "Racial Motifs 2: The Dark Elves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    393413
-  ]
-}
+{"internalId":945682303,"name":"Racial Motifs 2: The Dark Elves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[393413]}

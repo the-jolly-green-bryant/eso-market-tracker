@@ -1,10 +1,1 @@
-{
-  "internalId": 302918170,
-  "name": "Breton Drapes, Grand",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_drapesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    115244
-  ]
-}
+{"internalId":302918170,"name":"Breton Drapes, Grand","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_bre_lsb_drapesmall001.png","bindType":-1,"knownIds":[115244]}

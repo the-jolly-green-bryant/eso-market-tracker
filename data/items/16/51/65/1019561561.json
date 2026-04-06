@@ -1,10 +1,1 @@
-{
-  "internalId": 1019561561,
-  "name": "Signet of Sancre Tor",
-  "description": "After years in the heavily enchanted vaults of Sancre Tor, this ring actively deflects magicka around it.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44995
-  ]
-}
+{"internalId":1019561561,"name":"Signet of Sancre Tor","description":"After years in the heavily enchanted vaults of Sancre Tor, this ring actively deflects magicka around it.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[44995]}

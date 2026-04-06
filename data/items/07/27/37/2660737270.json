@@ -1,10 +1,1 @@
-{
-  "internalId": 2660737270,
-  "name": "Compact Moonsdial",
-  "description": "An enchanted (and enchanting!) device that tracks the movements and phases of Jone and Jode. This gift for Zerith-var is more appreciated when used during Hearts Week.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_zerith.png",
-  "bindType": -1,
-  "knownIds": [
-    220374
-  ]
-}
+{"internalId":2660737270,"name":"Compact Moonsdial","description":"An enchanted (and enchanting!) device that tracks the movements and phases of Jone and Jode. This gift for Zerith-var is more appreciated when used during Hearts Week.","icon":"https://esoicons.uesp.net/esoui/art/icons/u48_gift_big_zerith.png","bindType":-1,"knownIds":[220374]}

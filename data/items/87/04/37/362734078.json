@@ -1,10 +1,1 @@
-{
-  "internalId": 362734078,
-  "name": "Helmet of the Trainee",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    96359
-  ]
-}
+{"internalId":362734078,"name":"Helmet of the Trainee","description":"","icon":"data/images/d_/da/eh/gear_breton_medium_head_d.png","bindType":2,"knownIds":[96359]}

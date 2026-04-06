@@ -1,10 +1,1 @@
-{
-  "internalId": 946888230,
-  "name": "Lightning Staff of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77067
-  ]
-}
+{"internalId":946888230,"name":"Lightning Staff of Morihaus","description":"","icon":"data/images/a_/ff/at/gear_minotaur_staff_a.png","bindType":2,"knownIds":[77067]}

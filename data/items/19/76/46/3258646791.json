@@ -1,10 +1,1 @@
-{
-  "internalId": 3258646791,
-  "name": "Welkynd Chip Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    418215
-  ]
-}
+{"internalId":3258646791,"name":"Welkynd Chip Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[418215]}

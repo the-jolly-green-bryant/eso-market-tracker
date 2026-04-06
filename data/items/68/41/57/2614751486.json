@@ -1,10 +1,1 @@
-{
-  "internalId": 2614751486,
-  "name": "Velothi Brazier, Temple",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_housingvivbrazier001.png",
-  "bindType": -1,
-  "knownIds": [
-    126147
-  ]
-}
+{"internalId":2614751486,"name":"Velothi Brazier, Temple","description":"This is a small house item.","icon":"data/images/10/0r/ei/housing_vrd_str_housingvivbrazier001.png","bindType":-1,"knownIds":[126147]}

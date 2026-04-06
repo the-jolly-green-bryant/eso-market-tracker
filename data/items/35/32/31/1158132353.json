@@ -1,17 +1,1 @@
-{
-  "internalId": 1158132353,
-  "name": "Ebon Bone Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    629627,
-    432059,
-    395053,
-    551606,
-    629627,
-    432059,
-    395053,
-    551606
-  ]
-}
+{"internalId":1158132353,"name":"Ebon Bone Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_staff_d.png","bindType":-1,"knownIds":[629627,432059,395053,551606,629627,432059,395053,551606]}

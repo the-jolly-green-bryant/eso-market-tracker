@@ -1,10 +1,1 @@
-{
-  "internalId": 1900353807,
-  "name": "Redguard Urn, Gilded",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varvase003.png",
-  "bindType": -1,
-  "knownIds": [
-    117906
-  ]
-}
+{"internalId":1900353807,"name":"Redguard Urn, Gilded","description":"This is a small house item.","icon":"data/images/30/0e/sa/housing_red_inc_varvase003.png","bindType":-1,"knownIds":[117906]}

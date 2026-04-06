@@ -1,10 +1,1 @@
-{
-  "internalId": 2145144783,
-  "name": "Necrom Wind Chimes, Stone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_necwindchime004.png",
-  "bindType": -1,
-  "knownIds": [
-    198442
-  ]
-}
+{"internalId":2145144783,"name":"Necrom Wind Chimes, Stone","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_necwindchime004.png","bindType":-1,"knownIds":[198442]}

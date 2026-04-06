@@ -1,10 +1,1 @@
-{
-  "internalId": 3641294899,
-  "name": "Blacksmith Survey: the Rift",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    815447
-  ]
-}
+{"internalId":3641294899,"name":"Blacksmith Survey: the Rift","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[815447]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3962831228,
-  "name": "Solitude Goblet, Knotwork",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_gobletcup002.png",
-  "bindType": -1,
-  "knownIds": [
-    165803
-  ]
-}
+{"internalId":3962831228,"name":"Solitude Goblet, Knotwork","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_gobletcup002.png","bindType":-1,"knownIds":[165803]}

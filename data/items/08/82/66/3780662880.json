@@ -1,10 +1,1 @@
-{
-  "internalId": 3780662880,
-  "name": "Blueprint: Argonian Trunk, Painted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115790
-  ]
-}
+{"internalId":3780662880,"name":"Blueprint: Argonian Trunk, Painted","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[115790]}

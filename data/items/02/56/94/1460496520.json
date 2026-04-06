@@ -1,10 +1,1 @@
-{
-  "internalId": 1460496520,
-  "name": "Aldmeri Exile's Greataxe",
-  "description": "While it may not be as sharp as it once was, this Elven cleaver can still hew flesh, wood, and stone with brutal efficiency.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2_2haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    171550
-  ]
-}
+{"internalId":1460496520,"name":"Aldmeri Exile's Greataxe","description":"While it may not be as sharp as it once was, this Elven cleaver can still hew flesh, wood, and stone with brutal efficiency.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2_2haxe.png","bindType":-1,"knownIds":[171550]}

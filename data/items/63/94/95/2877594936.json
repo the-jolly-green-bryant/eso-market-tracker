@@ -1,10 +1,1 @@
-{
-  "internalId": 2877594936,
-  "name": "Boots of the Morag Tong",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93513
-  ]
-}
+{"internalId":2877594936,"name":"Boots of the Morag Tong","description":"","icon":"data/images/d_/te/ef/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[93513]}

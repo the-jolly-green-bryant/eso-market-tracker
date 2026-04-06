@@ -1,10 +1,1 @@
-{
-  "internalId": 2022131982,
-  "name": "Dragonstar Picnic Basket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801245
-  ]
-}
+{"internalId":2022131982,"name":"Dragonstar Picnic Basket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png","bindType":-1,"knownIds":[801245]}

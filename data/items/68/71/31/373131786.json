@@ -1,10 +1,1 @@
-{
-  "internalId": 373131786,
-  "name": "Solitude Display Shelf, Noble Filled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingbookshelffancyfilled005.png",
-  "bindType": -1,
-  "knownIds": [
-    166450
-  ]
-}
+{"internalId":373131786,"name":"Solitude Display Shelf, Noble Filled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingbookshelffancyfilled005.png","bindType":-1,"knownIds":[166450]}

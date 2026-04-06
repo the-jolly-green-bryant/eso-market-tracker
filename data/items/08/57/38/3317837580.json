@@ -1,10 +1,1 @@
-{
-  "internalId": 3317837580,
-  "name": "House Redoran Commendation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    828146
-  ]
-}
+{"internalId":3317837580,"name":"House Redoran Commendation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[828146]}

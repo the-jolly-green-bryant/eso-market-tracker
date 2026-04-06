@@ -1,10 +1,1 @@
-{
-  "internalId": 3602167091,
-  "name": "Diagram: Hammer, Forge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119400
-  ]
-}
+{"internalId":3602167091,"name":"Diagram: Hammer, Forge","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119400]}

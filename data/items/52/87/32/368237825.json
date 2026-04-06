@@ -1,10 +1,1 @@
-{
-  "internalId": 368237825,
-  "name": "Crafting Motif 112: Syrabanic Marine Boots",
-  "description": "Use to learn how to make Syrabanic Marine Boots. Also teaches the equivalent Syrabanic Marine Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    182523
-  ]
-}
+{"internalId":368237825,"name":"Crafting Motif 112: Syrabanic Marine Boots","description":"Use to learn how to make Syrabanic Marine Boots. Also teaches the equivalent Syrabanic Marine Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[182523]}

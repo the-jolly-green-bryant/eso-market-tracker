@@ -1,10 +1,1 @@
-{
-  "internalId": 2079278553,
-  "name": "Nord Dresser, Rough",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_dresser001.png",
-  "bindType": -1,
-  "knownIds": [
-    115354
-  ]
-}
+{"internalId":2079278553,"name":"Nord Dresser, Rough","description":"This is a standard house item.","icon":"data/images/10/0r/es/housing_nor_duc_dresser001.png","bindType":-1,"knownIds":[115354]}

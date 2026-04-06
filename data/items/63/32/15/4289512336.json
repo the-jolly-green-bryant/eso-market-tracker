@@ -1,12 +1,1 @@
-{
-  "internalId": 4289512336,
-  "name": "Impractical Nasal Kerchief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1179079,
-    1179079,
-    1179079
-  ]
-}
+{"internalId":4289512336,"name":"Impractical Nasal Kerchief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[1179079,1179079,1179079]}

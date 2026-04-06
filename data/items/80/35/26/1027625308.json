@@ -1,10 +1,1 @@
-{
-  "internalId": 1027625308,
-  "name": "Dreamer's Driftwood Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42964
-  ]
-}
+{"internalId":1027625308,"name":"Dreamer's Driftwood Staff","description":"","icon":"data/images/d_/ff/at/gear_redguard_staff_d.png","bindType":2,"knownIds":[42964]}

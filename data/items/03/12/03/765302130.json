@@ -1,10 +1,1 @@
-{
-  "internalId": 765302130,
-  "name": "Bonemold Training Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_sword_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1415450
-  ]
-}
+{"internalId":765302130,"name":"Bonemold Training Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_sword_002.png","bindType":-1,"knownIds":[1415450]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 829475201,
-  "name": "Boulder, Basalt Slab",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_duc_debriridgerock001.png",
-  "bindType": -1,
-  "knownIds": [
-    134304
-  ]
-}
+{"internalId":829475201,"name":"Boulder, Basalt Slab","description":"This is a large house item.","icon":"data/images/10/0k/co/housing_cwc_duc_debriridgerock001.png","bindType":-1,"knownIds":[134304]}

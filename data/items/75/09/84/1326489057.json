@@ -1,10 +1,1 @@
-{
-  "internalId": 1326489057,
-  "name": "Solitude Goblet, Noble",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_gobletcup003.png",
-  "bindType": -1,
-  "knownIds": [
-    165804
-  ]
-}
+{"internalId":1326489057,"name":"Solitude Goblet, Noble","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_gobletcup003.png","bindType":-1,"knownIds":[165804]}

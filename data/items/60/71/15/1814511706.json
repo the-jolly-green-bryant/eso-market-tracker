@@ -1,10 +1,1 @@
-{
-  "internalId": 1814511706,
-  "name": "Jack of Unfathomable Darkness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133194
-  ]
-}
+{"internalId":1814511706,"name":"Jack of Unfathomable Darkness","description":"","icon":"data/images/a_/ts/eh/gear_nocturnal_medium_chest_a.png","bindType":2,"knownIds":[133194]}

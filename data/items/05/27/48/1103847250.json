@@ -1,10 +1,1 @@
-{
-  "internalId": 1103847250,
-  "name": "Queen's Eye Toy Figures",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    672938
-  ]
-}
+{"internalId":1103847250,"name":"Queen's Eye Toy Figures","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[672938]}

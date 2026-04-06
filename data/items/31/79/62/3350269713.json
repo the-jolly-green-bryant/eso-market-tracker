@@ -1,10 +1,1 @@
-{
-  "internalId": 3350269713,
-  "name": "Silk Sugar Dauber",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png",
-  "bindType": -1,
-  "knownIds": [
-    815945
-  ]
-}
+{"internalId":3350269713,"name":"Silk Sugar Dauber","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png","bindType":-1,"knownIds":[815945]}

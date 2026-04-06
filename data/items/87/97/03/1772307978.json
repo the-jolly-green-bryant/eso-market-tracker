@@ -1,10 +1,1 @@
-{
-  "internalId": 1772307978,
-  "name": "Tree, Royal Palm",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_royalpalm002.png",
-  "bindType": -1,
-  "knownIds": [
-    214506
-  ]
-}
+{"internalId":1772307978,"name":"Tree, Royal Palm","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_royalpalm002.png","bindType":-1,"knownIds":[214506]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2070435344,
-  "name": "Imperial Curtains, Heavy",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhcurtains001.png",
-  "bindType": -1,
-  "knownIds": [
-    175761
-  ]
-}
+{"internalId":2070435344,"name":"Imperial Curtains, Heavy","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhcurtains001.png","bindType":-1,"knownIds":[175761]}

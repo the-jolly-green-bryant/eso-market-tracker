@@ -1,10 +1,1 @@
-{
-  "internalId": 3779473964,
-  "name": "Cheaply Bound Journal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795612
-  ]
-}
+{"internalId":3779473964,"name":"Cheaply Bound Journal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[795612]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2132593984,
-  "name": "Formula: Redoran Incense Holder, Ceramic Pan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    127018
-  ]
-}
+{"internalId":2132593984,"name":"Formula: Redoran Incense Holder, Ceramic Pan","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[127018]}

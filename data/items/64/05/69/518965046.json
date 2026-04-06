@@ -1,10 +1,1 @@
-{
-  "internalId": 518965046,
-  "name": "Praxis: Hlaalu Bath Tub, Masterwork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    132193
-  ]
-}
+{"internalId":518965046,"name":"Praxis: Hlaalu Bath Tub, Masterwork","description":"","icon":"data/images/5g/ni/tn/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[132193]}

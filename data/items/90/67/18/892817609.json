@@ -1,10 +1,1 @@
-{
-  "internalId": 892817609,
-  "name": "Blackfeather Flight Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    214232
-  ]
-}
+{"internalId":892817609,"name":"Blackfeather Flight Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[214232]}

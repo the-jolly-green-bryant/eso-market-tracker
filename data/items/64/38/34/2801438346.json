@@ -1,10 +1,1 @@
-{
-  "internalId": 2801438346,
-  "name": "Sketch: Scrimshaw, Ship",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_3.png",
-  "bindType": -1,
-  "knownIds": [
-    139577
-  ]
-}
+{"internalId":2801438346,"name":"Sketch: Scrimshaw, Ship","description":"","icon":"data/images/3_/yr/le/crafting_planfurniture_jewelry_3.png","bindType":-1,"knownIds":[139577]}

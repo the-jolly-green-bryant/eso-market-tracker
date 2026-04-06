@@ -1,10 +1,1 @@
-{
-  "internalId": 3897684634,
-  "name": "Bulwark of the Four Winds",
-  "description": "This shield symbolized the steadfast protective nature of the legendary Argonian defenders, the Four Winds.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    174849
-  ]
-}
+{"internalId":3897684634,"name":"Bulwark of the Four Winds","description":"This shield symbolized the steadfast protective nature of the legendary Argonian defenders, the Four Winds.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argonian_shield_d.png","bindType":2,"knownIds":[174849]}

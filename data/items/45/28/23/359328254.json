@@ -1,10 +1,1 @@
-{
-  "internalId": 359328254,
-  "name": "Bloodstone Ring",
-  "description": "Despite losing her sight, Tovisa thanked you with this ring for helping her investigate a Reach camp.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    10994
-  ]
-}
+{"internalId":359328254,"name":"Bloodstone Ring","description":"Despite losing her sight, Tovisa thanked you with this ring for helping her investigate a Reach camp.","icon":"data/images/a_/gn/ir/gear_nord_ring_a.png","bindType":-1,"knownIds":[10994]}

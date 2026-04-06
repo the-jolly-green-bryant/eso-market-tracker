@@ -1,10 +1,1 @@
-{
-  "internalId": 2417469575,
-  "name": "Worm Cult Chair, Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_lowchairsmall002.png",
-  "bindType": -1,
-  "knownIds": [
-    220313
-  ]
-}
+{"internalId":2417469575,"name":"Worm Cult Chair, Wooden","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_lowchairsmall002.png","bindType":-1,"knownIds":[220313]}

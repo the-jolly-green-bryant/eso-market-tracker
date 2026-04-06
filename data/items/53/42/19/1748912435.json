@@ -1,10 +1,1 @@
-{
-  "internalId": 1748912435,
-  "name": "Star Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    815740
-  ]
-}
+{"internalId":1748912435,"name":"Star Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[815740]}

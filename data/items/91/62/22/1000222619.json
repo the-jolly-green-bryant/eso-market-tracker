@@ -1,10 +1,1 @@
-{
-  "internalId": 1000222619,
-  "name": "Praxis: Alinor Display Stand, Marble Wide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    139606
-  ]
-}
+{"internalId":1000222619,"name":"Praxis: Alinor Display Stand, Marble Wide","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[139606]}

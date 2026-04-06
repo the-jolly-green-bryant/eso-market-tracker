@@ -1,10 +1,1 @@
-{
-  "internalId": 2145621678,
-  "name": "Flowers, Violet Prairie",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_purpleflower001.png",
-  "bindType": -1,
-  "knownIds": [
-    121002
-  ]
-}
+{"internalId":2145621678,"name":"Flowers, Violet Prairie","description":"This is a small house item.","icon":"data/images/10/0r/ew/housing_veg_flr_purpleflower001.png","bindType":-1,"knownIds":[121002]}

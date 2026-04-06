@@ -1,10 +1,1 @@
-{
-  "internalId": 285673505,
-  "name": "Pattern: Elsweyr Tapestry, Water Flowers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    152102
-  ]
-}
+{"internalId":285673505,"name":"Pattern: Elsweyr Tapestry, Water Flowers","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[152102]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2266823567,
-  "name": "Crafting Motif 123: Kindred's Concord Style",
-  "description": "Use to learn the Kindred's Concord crafting style. Also teaches the equivalent Kindred's Concord Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    194540
-  ]
-}
+{"internalId":2266823567,"name":"Crafting Motif 123: Kindred's Concord Style","description":"Use to learn the Kindred's Concord crafting style. Also teaches the equivalent Kindred's Concord Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[194540]}

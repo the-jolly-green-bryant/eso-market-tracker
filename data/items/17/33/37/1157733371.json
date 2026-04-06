@@ -1,10 +1,1 @@
-{
-  "internalId": 1157733371,
-  "name": "Pattern: Breton Rug, Starburst",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    115953
-  ]
-}
+{"internalId":1157733371,"name":"Pattern: Breton Rug, Starburst","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[115953]}

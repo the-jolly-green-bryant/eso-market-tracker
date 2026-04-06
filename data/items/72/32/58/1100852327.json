@@ -1,10 +1,1 @@
-{
-  "internalId": 1100852327,
-  "name": "Honey Nut Treat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
-  "bindType": -1,
-  "knownIds": [
-    57125
-  ]
-}
+{"internalId":1100852327,"name":"Honey Nut Treat","description":"","icon":"data/images/30/0_/st/crafting_spirits_003.png","bindType":-1,"knownIds":[57125]}

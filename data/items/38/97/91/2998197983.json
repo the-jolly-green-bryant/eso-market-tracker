@@ -1,10 +1,1 @@
-{
-  "internalId": 2998197983,
-  "name": "Apple-Bobbing Aged Fetid Fish",
-  "description": "This is one of seven parts of the Apple-Bobbing Cauldron Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_fishbundle001.png",
-  "bindType": -1,
-  "knownIds": [
-    153488
-  ]
-}
+{"internalId":2998197983,"name":"Apple-Bobbing Aged Fetid Fish","description":"This is one of seven parts of the Apple-Bobbing Cauldron Runebox.","icon":"data/images/10/0e/ld/housing_gen_exc_fishbundle001.png","bindType":-1,"knownIds":[153488]}

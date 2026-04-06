@@ -1,10 +1,1 @@
-{
-  "internalId": 1258809240,
-  "name": "Pearl, Large",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_geyserpearl001.png",
-  "bindType": -1,
-  "knownIds": [
-    139062
-  ]
-}
+{"internalId":1258809240,"name":"Pearl, Large","description":"This is a tiny house item.","icon":"data/images/10/0l/ra/housing_rok_sum_geyserpearl001.png","bindType":-1,"knownIds":[139062]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2791787640,
-  "name": "Solitude Chandelier, Steel",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_candlelabra001.png",
-  "bindType": -1,
-  "knownIds": [
-    165629
-  ]
-}
+{"internalId":2791787640,"name":"Solitude Chandelier, Steel","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_candlelabra001.png","bindType":-1,"knownIds":[165629]}

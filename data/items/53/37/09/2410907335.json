@@ -1,10 +1,1 @@
-{
-  "internalId": 2410907335,
-  "name": "Bound Gold Coast Draining Poison",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpoison_draining.png",
-  "bindType": 3,
-  "knownIds": [
-    135123
-  ]
-}
+{"internalId":2410907335,"name":"Bound Gold Coast Draining Poison","description":"","icon":"data/images/gn/in/ia/crownpoison_draining.png","bindType":3,"knownIds":[135123]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3022469008,
-  "name": "Breeches of Necropotence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86930
-  ]
-}
+{"internalId":3022469008,"name":"Breeches of Necropotence","description":"","icon":"data/images/d_/sg/el/gear_argonian_light_legs_d.png","bindType":2,"knownIds":[86930]}

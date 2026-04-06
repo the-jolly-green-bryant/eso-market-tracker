@@ -1,10 +1,1 @@
-{
-  "internalId": 3475252511,
-  "name": "Stolen Hlaalu Cargo",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    790524
-  ]
-}
+{"internalId":3475252511,"name":"Stolen Hlaalu Cargo","description":"","icon":null,"bindType":-1,"knownIds":[790524]}

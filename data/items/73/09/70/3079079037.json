@@ -1,10 +1,1 @@
-{
-  "internalId": 3079079037,
-  "name": "Praxis: Markarth Pillar, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    171788
-  ]
-}
+{"internalId":3079079037,"name":"Praxis: Markarth Pillar, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[171788]}

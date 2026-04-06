@@ -1,10 +1,1 @@
-{
-  "internalId": 2065973615,
-  "name": "Axe of the Houndslayer",
-  "description": "The edge is so finely honed, it can cut through paper along its width.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15525
-  ]
-}
+{"internalId":2065973615,"name":"Axe of the Houndslayer","description":"The edge is so finely honed, it can cut through paper along its width.","icon":"data/images/d_/ex/ah/gear_bosmer_1haxe_d.png","bindType":2,"knownIds":[15525]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2754225717,
-  "name": "The Legend of Vastarie",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199255
-  ]
-}
+{"internalId":2754225717,"name":"The Legend of Vastarie","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png","bindType":-1,"knownIds":[1199255]}

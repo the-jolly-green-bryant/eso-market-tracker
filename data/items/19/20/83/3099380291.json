@@ -1,10 +1,1 @@
-{
-  "internalId": 3099380291,
-  "name": "Horn of the Chieftain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_whistle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    859481
-  ]
-}
+{"internalId":3099380291,"name":"Horn of the Chieftain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_whistle_002.png","bindType":-1,"knownIds":[859481]}

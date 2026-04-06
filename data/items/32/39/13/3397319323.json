@@ -1,10 +1,1 @@
-{
-  "internalId": 3397319323,
-  "name": "Beachcomber's Basket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    920924
-  ]
-}
+{"internalId":3397319323,"name":"Beachcomber's Basket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png","bindType":-1,"knownIds":[920924]}

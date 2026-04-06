@@ -1,10 +1,1 @@
-{
-  "internalId": 2456246451,
-  "name": "Imperial Table, Formal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_tablerect001.png",
-  "bindType": -1,
-  "knownIds": [
-    94179
-  ]
-}
+{"internalId":2456246451,"name":"Imperial Table, Formal","description":"This is a standard house item.","icon":"data/images/10/0t/ce/housing_nib_fur_tablerect001.png","bindType":-1,"knownIds":[94179]}

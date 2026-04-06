@@ -1,10 +1,1 @@
-{
-  "internalId": 3515197784,
-  "name": "Skaal-Carved Horker Tusk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_horker_tusk.png",
-  "bindType": -1,
-  "knownIds": [
-    1235617
-  ]
-}
+{"internalId":3515197784,"name":"Skaal-Carved Horker Tusk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_horker_tusk.png","bindType":-1,"knownIds":[1235617]}

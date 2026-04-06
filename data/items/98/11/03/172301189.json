@@ -1,10 +1,1 @@
-{
-  "internalId": 172301189,
-  "name": "Stirk Fellowship Pauldrons",
-  "description": "Shaped for those who stood unshaken in the face of chaos, these pauldrons bear the heavy weight of duty even as they shield against steel.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223666
-  ]
-}
+{"internalId":172301189,"name":"Stirk Fellowship Pauldrons","description":"Shaped for those who stood unshaken in the face of chaos, these pauldrons bear the heavy weight of duty even as they shield against steel.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_heavy_shoulders_a.png","bindType":2,"knownIds":[223666]}

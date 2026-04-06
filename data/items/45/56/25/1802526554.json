@@ -1,15 +1,1 @@
-{
-  "internalId": 1802526554,
-  "name": "Perfected Transformative Hope Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1653840,
-    1764529,
-    1773189,
-    1653840,
-    1764529,
-    1773189
-  ]
-}
+{"internalId":1802526554,"name":"Perfected Transformative Hope Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png","bindType":-1,"knownIds":[1653840,1764529,1773189,1653840,1764529,1773189]}

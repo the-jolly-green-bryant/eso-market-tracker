@@ -1,10 +1,1 @@
-{
-  "internalId": 2067932340,
-  "name": "Serpent Strand",
-  "description": "The Akaviri Potentate's peculiar armorsmithing practices changed the Imperial legions forever.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    150415
-  ]
-}
+{"internalId":2067932340,"name":"Serpent Strand","description":"The Akaviri Potentate's peculiar armorsmithing practices changed the Imperial legions forever.","icon":"data/images/a_/ts/ia/gear_akaviri_medium_waist_a.png","bindType":2,"knownIds":[150415]}

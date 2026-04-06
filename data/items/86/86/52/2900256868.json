@@ -1,10 +1,1 @@
-{
-  "internalId": 2900256868,
-  "name": "Reactive Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    117639
-  ]
-}
+{"internalId":2900256868,"name":"Reactive Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[117639]}

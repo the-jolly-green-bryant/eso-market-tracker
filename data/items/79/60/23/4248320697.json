@@ -1,10 +1,1 @@
-{
-  "internalId": 4248320697,
-  "name": "Rallying Cry Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    183236
-  ]
-}
+{"internalId":4248320697,"name":"Rallying Cry Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[183236]}

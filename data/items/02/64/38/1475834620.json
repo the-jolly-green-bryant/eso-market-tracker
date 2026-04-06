@@ -1,10 +1,1 @@
-{
-  "internalId": 1475834620,
-  "name": "Chthonic Tonic Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    413094
-  ]
-}
+{"internalId":1475834620,"name":"Chthonic Tonic Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[413094]}

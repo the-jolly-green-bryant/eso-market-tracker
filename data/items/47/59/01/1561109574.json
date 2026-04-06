@@ -1,10 +1,1 @@
-{
-  "internalId": 1561109574,
-  "name": "Hew's Bane Rug",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmall006.png",
-  "bindType": -1,
-  "knownIds": [
-    120805
-  ]
-}
+{"internalId":1561109574,"name":"Hew's Bane Rug","description":"This is a standard house item.","icon":"data/images/60/0l/la/housing_red_inc_rugsmall006.png","bindType":-1,"knownIds":[120805]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 501818133,
-  "name": "Forest Wraith's Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192346
-  ]
-}
+{"internalId":501818133,"name":"Forest Wraith's Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[192346]}

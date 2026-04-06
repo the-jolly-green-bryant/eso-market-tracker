@@ -1,10 +1,1 @@
-{
-  "internalId": 1175945934,
-  "name": "Undaunted Box: Scalecaller Peak",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    190273
-  ]
-}
+{"internalId":1175945934,"name":"Undaunted Box: Scalecaller Peak","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[190273]}

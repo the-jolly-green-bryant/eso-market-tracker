@@ -1,10 +1,1 @@
-{
-  "internalId": 2311287025,
-  "name": "Shadowfen CE Treasure Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    833494
-  ]
-}
+{"internalId":2311287025,"name":"Shadowfen CE Treasure Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[833494]}

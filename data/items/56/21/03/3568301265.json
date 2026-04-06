@@ -1,10 +1,1 @@
-{
-  "internalId": 3568301265,
-  "name": "Fricasseed Rabbit with Radishes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poultry.png",
-  "bindType": -1,
-  "knownIds": [
-    33857
-  ]
-}
+{"internalId":3568301265,"name":"Fricasseed Rabbit with Radishes","description":"","icon":"data/images/yr/tl/uo/crafting_poultry.png","bindType":-1,"knownIds":[33857]}

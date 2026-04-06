@@ -1,10 +1,1 @@
-{
-  "internalId": 2309193412,
-  "name": "Sword of Solitude",
-  "description": "This sword is one of the legendary Weapons of Solitude.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159695
-  ]
-}
+{"internalId":2309193412,"name":"Sword of Solitude","description":"This sword is one of the legendary Weapons of Solitude.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hsword_d.png","bindType":2,"knownIds":[159695]}

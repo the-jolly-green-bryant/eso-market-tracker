@@ -1,10 +1,1 @@
-{
-  "internalId": 3535258204,
-  "name": "Redguard Awning, Oasis",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varawning003.png",
-  "bindType": -1,
-  "knownIds": [
-    117823
-  ]
-}
+{"internalId":3535258204,"name":"Redguard Awning, Oasis","description":"This is a large house item.","icon":"data/images/30/0g/ni/housing_red_str_varawning003.png","bindType":-1,"knownIds":[117823]}

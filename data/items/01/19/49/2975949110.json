@@ -1,10 +1,1 @@
-{
-  "internalId": 2975949110,
-  "name": "Ivory, Polished",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshaw002.png",
-  "bindType": -1,
-  "knownIds": [
-    139059
-  ]
-}
+{"internalId":2975949110,"name":"Ivory, Polished","description":"This is a tiny house item.","icon":"data/images/20/0w/ah/housing_sum_inc_scrimshaw002.png","bindType":-1,"knownIds":[139059]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3091220469,
-  "name": "Provisioning Station, Elsweyr Grill",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_tablegrill001.png",
-  "bindType": -1,
-  "knownIds": [
-    153656
-  ]
-}
+{"internalId":3091220469,"name":"Provisioning Station, Elsweyr Grill","description":"This is a standard house item.","icon":"data/images/10/0l/li/housing_els_fur_tablegrill001.png","bindType":-1,"knownIds":[153656]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2977078141,
-  "name": "Recipe: Comberry Bourbon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54241
-  ]
-}
+{"internalId":2977078141,"name":"Recipe: Comberry Bourbon","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[54241]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 935265744,
-  "name": "Clay Face Lotion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_hubalajads_urn.png",
-  "bindType": -1,
-  "knownIds": [
-    1392997
-  ]
-}
+{"internalId":935265744,"name":"Clay Face Lotion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_hubalajads_urn.png","bindType":-1,"knownIds":[1392997]}

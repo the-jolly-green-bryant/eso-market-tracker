@@ -1,10 +1,1 @@
-{
-  "internalId": 1061794078,
-  "name": "Common Stewpot, Hanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_cauldronfireplace003.png",
-  "bindType": -1,
-  "knownIds": [
-    118056
-  ]
-}
+{"internalId":1061794078,"name":"Common Stewpot, Hanging","description":"This is a standard house item.","icon":"data/images/30/0e/ca/housing_bre_cmp_cauldronfireplace003.png","bindType":-1,"knownIds":[118056]}

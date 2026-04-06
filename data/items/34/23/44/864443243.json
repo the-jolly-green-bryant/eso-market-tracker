@@ -1,10 +1,1 @@
-{
-  "internalId": 864443243,
-  "name": "Woodworker Survey: Northern Elsweyr",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1319510
-  ]
-}
+{"internalId":864443243,"name":"Woodworker Survey: Northern Elsweyr","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1319510]}

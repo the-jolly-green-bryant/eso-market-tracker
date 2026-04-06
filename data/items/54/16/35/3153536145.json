@@ -1,10 +1,1 @@
-{
-  "internalId": 3153536145,
-  "name": "Stormfist Style Flatware",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png",
-  "bindType": -1,
-  "knownIds": [
-    924089
-  ]
-}
+{"internalId":3153536145,"name":"Stormfist Style Flatware","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png","bindType":-1,"knownIds":[924089]}

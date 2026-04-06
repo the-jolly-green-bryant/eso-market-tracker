@@ -1,10 +1,1 @@
-{
-  "internalId": 3980373328,
-  "name": "Congealed Cheese",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    30586
-  ]
-}
+{"internalId":3980373328,"name":"Congealed Cheese","description":"","icon":"data/images/10/0_/we/crafting_stew_001.png","bindType":-1,"knownIds":[30586]}

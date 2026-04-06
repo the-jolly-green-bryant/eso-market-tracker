@@ -1,10 +1,1 @@
-{
-  "internalId": 1946307089,
-  "name": "Ashen Pillow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1147906
-  ]
-}
+{"internalId":1946307089,"name":"Ashen Pillow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[1147906]}

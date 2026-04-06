@@ -1,10 +1,1 @@
-{
-  "internalId": 2996098425,
-  "name": "Weapons: Critical Riposte",
-  "description": "A crafted set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    159515
-  ]
-}
+{"internalId":2996098425,"name":"Weapons: Critical Riposte","description":"A crafted set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[159515]}

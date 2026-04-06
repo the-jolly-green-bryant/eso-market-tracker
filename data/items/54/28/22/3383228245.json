@@ -1,10 +1,1 @@
-{
-  "internalId": 3383228245,
-  "name": "Lion Guard's Pride",
-  "description": "This weapon was awarded for finding Recruit Gorak and helping him complete his mission in the swamps outside Aldcroft.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1154
-  ]
-}
+{"internalId":3383228245,"name":"Lion Guard's Pride","description":"This weapon was awarded for finding Recruit Gorak and helping him complete his mission in the swamps outside Aldcroft.","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[1154]}

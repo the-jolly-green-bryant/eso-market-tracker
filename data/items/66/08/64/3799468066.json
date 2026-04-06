@@ -1,10 +1,1 @@
-{
-  "internalId": 3799468066,
-  "name": "Pact's Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54467
-  ]
-}
+{"internalId":3799468066,"name":"Pact's Cuirass","description":"","icon":"data/images/a_/ts/eh/gear_akaviri_heavy_chest_a.png","bindType":2,"knownIds":[54467]}

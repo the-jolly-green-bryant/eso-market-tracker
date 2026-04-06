@@ -1,10 +1,1 @@
-{
-  "internalId": 2584039176,
-  "name": "Dwarven Crystal Sconce, Mirror",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markmirrorbowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    171410
-  ]
-}
+{"internalId":2584039176,"name":"Dwarven Crystal Sconce, Mirror","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markmirrorbowl002.png","bindType":-1,"knownIds":[171410]}

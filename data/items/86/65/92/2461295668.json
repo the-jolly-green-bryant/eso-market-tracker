@@ -1,10 +1,1 @@
-{
-  "internalId": 2461295668,
-  "name": "Solitude Cabbage Collector Plate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1386578
-  ]
-}
+{"internalId":2461295668,"name":"Solitude Cabbage Collector Plate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1386578]}

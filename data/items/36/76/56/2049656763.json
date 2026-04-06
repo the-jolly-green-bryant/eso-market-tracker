@@ -1,17 +1,1 @@
-{
-  "internalId": 2049656763,
-  "name": "Tools of the Trapmaster Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764940,
-    1766173,
-    1771351,
-    1773222,
-    1764940,
-    1766173,
-    1771351,
-    1773222
-  ]
-}
+{"internalId":2049656763,"name":"Tools of the Trapmaster Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_legs_a.png","bindType":-1,"knownIds":[1764940,1766173,1771351,1773222,1764940,1766173,1771351,1773222]}

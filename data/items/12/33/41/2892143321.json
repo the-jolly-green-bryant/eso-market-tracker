@@ -1,10 +1,1 @@
-{
-  "internalId": 2892143321,
-  "name": "Goblin-Style Grilled Rat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_meat_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57120
-  ]
-}
+{"internalId":2892143321,"name":"Goblin-Style Grilled Rat","description":"","icon":"data/images/20/0_/ta/crafting_dom_meat_002.png","bindType":-1,"knownIds":[57120]}

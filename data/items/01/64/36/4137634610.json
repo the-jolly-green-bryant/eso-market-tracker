@@ -1,10 +1,1 @@
-{
-  "internalId": 4137634610,
-  "name": "Solitude Cabinet, Rustic Filled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingarmoirfilled002.png",
-  "bindType": -1,
-  "knownIds": [
-    165718
-  ]
-}
+{"internalId":4137634610,"name":"Solitude Cabinet, Rustic Filled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingarmoirfilled002.png","bindType":-1,"knownIds":[165718]}

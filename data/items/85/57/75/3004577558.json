@@ -1,10 +1,1 @@
-{
-  "internalId": 3004577558,
-  "name": "Copper Ounce",
-  "description": "An ingredient for crafting jewelry.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_copper_refined.png",
-  "bindType": -1,
-  "knownIds": [
-    135140
-  ]
-}
+{"internalId":3004577558,"name":"Copper Ounce","description":"An ingredient for crafting jewelry.","icon":"data/images/de/ni/fe/crafting_copper_refined.png","bindType":-1,"knownIds":[135140]}

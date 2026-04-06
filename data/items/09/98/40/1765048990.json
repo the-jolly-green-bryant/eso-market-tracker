@@ -1,10 +1,1 @@
-{
-  "internalId": 1765048990,
-  "name": "Worm Cult Pillar, Short Bone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_pillarshort001.png",
-  "bindType": -1,
-  "knownIds": [
-    223764
-  ]
-}
+{"internalId":1765048990,"name":"Worm Cult Pillar, Short Bone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_pillarshort001.png","bindType":-1,"knownIds":[223764]}

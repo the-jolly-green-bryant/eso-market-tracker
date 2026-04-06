@@ -1,10 +1,1 @@
-{
-  "internalId": 3906609616,
-  "name": "Coral, Sun",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_coralyellow001.png",
-  "bindType": -1,
-  "knownIds": [
-    118902
-  ]
-}
+{"internalId":3906609616,"name":"Coral, Sun","description":"This is a small house item.","icon":"data/images/10/0w/ol/housing_veg_aqa_coralyellow001.png","bindType":-1,"knownIds":[118902]}

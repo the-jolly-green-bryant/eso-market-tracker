@@ -1,10 +1,1 @@
-{
-  "internalId": 83527223,
-  "name": "Rune of Release",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    823622
-  ]
-}
+{"internalId":83527223,"name":"Rune of Release","description":"","icon":null,"bindType":-1,"knownIds":[823622]}

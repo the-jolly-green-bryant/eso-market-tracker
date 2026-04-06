@@ -1,10 +1,1 @@
-{
-  "internalId": 130925299,
-  "name": "Battle Axe of Redistribution",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60614
-  ]
-}
+{"internalId":130925299,"name":"Battle Axe of Redistribution","description":"","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[60614]}

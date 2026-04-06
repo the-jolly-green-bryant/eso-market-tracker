@@ -1,10 +1,1 @@
-{
-  "internalId": 1986935175,
-  "name": "Recipe: Spinner's Taboo Salad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45700
-  ]
-}
+{"internalId":1986935175,"name":"Recipe: Spinner's Taboo Salad","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45700]}

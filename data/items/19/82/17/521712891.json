@@ -1,15 +1,1 @@
-{
-  "internalId": 521712891,
-  "name": "Aetheric Lancer Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1740695,
-    1757971,
-    1779513,
-    1740695,
-    1757971,
-    1779513
-  ]
-}
+{"internalId":521712891,"name":"Aetheric Lancer Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png","bindType":-1,"knownIds":[1740695,1757971,1779513,1740695,1757971,1779513]}

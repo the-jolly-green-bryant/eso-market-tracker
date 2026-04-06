@@ -1,10 +1,1 @@
-{
-  "internalId": 3987337451,
-  "name": "Psijic Lighting Globe, Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_ceplightsingle001.png",
-  "bindType": -1,
-  "knownIds": [
-    1262134
-  ]
-}
+{"internalId":3987337451,"name":"Psijic Lighting Globe, Large","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_ceplightsingle001.png","bindType":-1,"knownIds":[1262134]}

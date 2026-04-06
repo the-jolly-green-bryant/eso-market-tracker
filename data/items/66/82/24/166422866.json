@@ -1,10 +1,1 @@
-{
-  "internalId": 166422866,
-  "name": "Redguard Cabinet, Inlaid",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_bookcasetall001.png",
-  "bindType": -1,
-  "knownIds": [
-    117710
-  ]
-}
+{"internalId":166422866,"name":"Redguard Cabinet, Inlaid","description":"This is a large house item.","icon":"data/images/10/0l/la/housing_red_fur_bookcasetall001.png","bindType":-1,"knownIds":[117710]}

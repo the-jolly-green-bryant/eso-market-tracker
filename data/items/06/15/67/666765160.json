@@ -1,13 +1,1 @@
-{
-  "internalId": 666765160,
-  "name": "Cloudy Hindering Poison IV",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_green_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1431698,
-    1431934,
-    1431698,
-    1431934
-  ]
-}
+{"internalId":666765160,"name":"Cloudy Hindering Poison IV","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_green_003.png","bindType":-1,"knownIds":[1431698,1431934,1431698,1431934]}

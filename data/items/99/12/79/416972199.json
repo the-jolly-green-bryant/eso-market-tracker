@@ -1,10 +1,1 @@
-{
-  "internalId": 416972199,
-  "name": "Seahorse Platter, Display",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_foodseahorseplatter001.png",
-  "bindType": -1,
-  "knownIds": [
-    214414
-  ]
-}
+{"internalId":416972199,"name":"Seahorse Platter, Display","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_foodseahorseplatter001.png","bindType":-1,"knownIds":[214414]}

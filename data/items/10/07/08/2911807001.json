@@ -1,10 +1,1 @@
-{
-  "internalId": 2911807001,
-  "name": "Werewolf Hide Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86164
-  ]
-}
+{"internalId":2911807001,"name":"Werewolf Hide Helmet","description":"","icon":"data/images/a_/da/eh/gear_primative_medium_head_a.png","bindType":2,"knownIds":[86164]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1183660552,
-  "name": "Camonna Tong Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    195871
-  ]
-}
+{"internalId":1183660552,"name":"Camonna Tong Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[195871]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 497709718,
-  "name": "Ironkelp Fishing Net",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1244378
-  ]
-}
+{"internalId":497709718,"name":"Ironkelp Fishing Net","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png","bindType":-1,"knownIds":[1244378]}

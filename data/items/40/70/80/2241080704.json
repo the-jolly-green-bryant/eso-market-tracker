@@ -1,10 +1,1 @@
-{
-  "internalId": 2241080704,
-  "name": "Miruin's Devastation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    528921
-  ]
-}
+{"internalId":2241080704,"name":"Miruin's Devastation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hsword_d.png","bindType":-1,"knownIds":[528921]}

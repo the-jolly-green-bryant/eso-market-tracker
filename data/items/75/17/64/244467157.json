@@ -1,10 +1,1 @@
-{
-  "internalId": 244467157,
-  "name": "Companion Booster",
-  "description": "Unlocks all of your companion's skill lines and maxes out their experience.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
-  "bindType": -1,
-  "knownIds": [
-    175797
-  ]
-}
+{"internalId":244467157,"name":"Companion Booster","description":"Unlocks all of your companion's skill lines and maxes out their experience.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png","bindType":-1,"knownIds":[175797]}

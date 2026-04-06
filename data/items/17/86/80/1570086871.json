@@ -1,10 +1,1 @@
-{
-  "internalId": 1570086871,
-  "name": "Dauntless Combatant",
-  "description": "A Crafted Armor set constructed in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182481
-  ]
-}
+{"internalId":1570086871,"name":"Dauntless Combatant","description":"A Crafted Armor set constructed in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182481]}

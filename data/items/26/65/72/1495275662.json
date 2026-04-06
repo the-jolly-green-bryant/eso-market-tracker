@@ -1,10 +1,1 @@
-{
-  "internalId": 1495275662,
-  "name": "Dagger of Trinimac's Valor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129620
-  ]
-}
+{"internalId":1495275662,"name":"Dagger of Trinimac's Valor","description":"","icon":"data/images/a_/re/gg/gear_trinimac_dagger_a.png","bindType":2,"knownIds":[129620]}

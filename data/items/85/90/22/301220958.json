@@ -1,10 +1,1 @@
-{
-  "internalId": 301220958,
-  "name": "Signature Script: Cavalier's Charge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_chargedamage.png",
-  "bindType": -1,
-  "knownIds": [
-    204590
-  ]
-}
+{"internalId":301220958,"name":"Signature Script: Cavalier's Charge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_chargedamage.png","bindType":-1,"knownIds":[204590]}

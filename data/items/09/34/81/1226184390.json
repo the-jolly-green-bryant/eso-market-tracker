@@ -1,10 +1,1 @@
-{
-  "internalId": 1226184390,
-  "name": "High Isle Platform, Wooden Square",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_inthouselowtowerfloor001.png",
-  "bindType": -1,
-  "knownIds": [
-    189503
-  ]
-}
+{"internalId":1226184390,"name":"High Isle Platform, Wooden Square","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_inthouselowtowerfloor001.png","bindType":-1,"knownIds":[189503]}

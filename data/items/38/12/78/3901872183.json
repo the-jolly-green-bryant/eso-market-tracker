@@ -1,10 +1,1 @@
-{
-  "internalId": 3901872183,
-  "name": "Old Jazbay Grapes",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_gin_004.png",
-  "bindType": -1,
-  "knownIds": [
-    27051
-  ]
-}
+{"internalId":3901872183,"name":"Old Jazbay Grapes","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/40/0_/ni/crafting_components_gin_004.png","bindType":-1,"knownIds":[27051]}

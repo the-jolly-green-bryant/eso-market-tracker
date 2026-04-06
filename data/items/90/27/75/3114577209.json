@@ -1,10 +1,1 @@
-{
-  "internalId": 3114577209,
-  "name": "The Observer's Battle Helm",
-  "description": "This Daedric helmet was awarded for beating the Observer at the Cliffs of Failure.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    15736
-  ]
-}
+{"internalId":3114577209,"name":"The Observer's Battle Helm","description":"This Daedric helmet was awarded for beating the Observer at the Cliffs of Failure.","icon":"data/images/a_/da/eh/gear_daedric_heavy_head_a.png","bindType":2,"knownIds":[15736]}

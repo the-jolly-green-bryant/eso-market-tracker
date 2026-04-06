@@ -1,10 +1,1 @@
-{
-  "internalId": 2732200202,
-  "name": "Bog Raider's Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_hvy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172442
-  ]
-}
+{"internalId":2732200202,"name":"Bog Raider's Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_hvy_feet_a.png","bindType":2,"knownIds":[172442]}

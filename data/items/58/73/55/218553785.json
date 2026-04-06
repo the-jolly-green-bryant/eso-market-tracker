@@ -1,10 +1,1 @@
-{
-  "internalId": 218553785,
-  "name": "Stone-Nest Wall, Temple",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingargraiderhouseinteriorwall002.png",
-  "bindType": -1,
-  "knownIds": [
-    223836
-  ]
-}
+{"internalId":218553785,"name":"Stone-Nest Wall, Temple","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingargraiderhouseinteriorwall002.png","bindType":-1,"knownIds":[223836]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4105629796,
-  "name": "Depths of Darkness Painting, Brass",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting003.png",
-  "bindType": -1,
-  "knownIds": [
-    166439
-  ]
-}
+{"internalId":4105629796,"name":"Depths of Darkness Painting, Brass","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting003.png","bindType":-1,"knownIds":[166439]}

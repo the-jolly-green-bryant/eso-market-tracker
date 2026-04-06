@@ -1,13 +1,1 @@
-{
-  "internalId": 2472545091,
-  "name": "Ring of the Depths",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1587335,
-    1593775,
-    1587335,
-    1593775
-  ]
-}
+{"internalId":2472545091,"name":"Ring of the Depths","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1587335,1593775,1587335,1593775]}

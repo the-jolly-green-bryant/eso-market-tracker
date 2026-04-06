@@ -1,10 +1,1 @@
-{
-  "internalId": 2159263734,
-  "name": "Collar of Bones",
-  "description": "This strand was taken from the neck of the Child of Bones. It's surprisingly cold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    61088
-  ]
-}
+{"internalId":2159263734,"name":"Collar of Bones","description":"This strand was taken from the neck of the Child of Bones. It's surprisingly cold.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[61088]}

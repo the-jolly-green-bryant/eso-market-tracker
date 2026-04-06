@@ -1,10 +1,1 @@
-{
-  "internalId": 3190971651,
-  "name": "Clockwork Alchemy Station",
-  "description": "When placed in your home, allows you to craft Alchemy items.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_tablealchemycrafting001.png",
-  "bindType": -1,
-  "knownIds": [
-    134278
-  ]
-}
+{"internalId":3190971651,"name":"Clockwork Alchemy Station","description":"When placed in your home, allows you to craft Alchemy items.","icon":"data/images/10/0g/ni/housing_cwc_crf_tablealchemycrafting001.png","bindType":-1,"knownIds":[134278]}

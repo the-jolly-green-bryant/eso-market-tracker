@@ -1,15 +1,1 @@
-{
-  "internalId": 3641772691,
-  "name": "Corpseburster Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1759587,
-    1764576,
-    1775485,
-    1759587,
-    1764576,
-    1775485
-  ]
-}
+{"internalId":3641772691,"name":"Corpseburster Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_waist_a.png","bindType":-1,"knownIds":[1759587,1764576,1775485,1759587,1764576,1775485]}

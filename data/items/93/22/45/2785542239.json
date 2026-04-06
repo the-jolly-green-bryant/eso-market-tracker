@@ -1,10 +1,1 @@
-{
-  "internalId": 2785542239,
-  "name": "Senche-Raht Wine Bowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_divad_hundings_dribble_bowl.png",
-  "bindType": -1,
-  "knownIds": [
-    1335859
-  ]
-}
+{"internalId":2785542239,"name":"Senche-Raht Wine Bowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_divad_hundings_dribble_bowl.png","bindType":-1,"knownIds":[1335859]}

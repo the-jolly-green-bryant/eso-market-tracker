@@ -1,10 +1,1 @@
-{
-  "internalId": 1041223952,
-  "name": "Dres Divider, Honeycomb",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlascreen003.png",
-  "bindType": -1,
-  "knownIds": [
-    126441
-  ]
-}
+{"internalId":1041223952,"name":"Dres Divider, Honeycomb","description":"This is a standard house item.","icon":"data/images/30/0n/ee/housing_vrd_fur_hlascreen003.png","bindType":-1,"knownIds":[126441]}

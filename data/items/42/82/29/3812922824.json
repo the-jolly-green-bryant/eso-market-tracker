@@ -1,10 +1,1 @@
-{
-  "internalId": 3812922824,
-  "name": "Dagger of Hist Sap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98846
-  ]
-}
+{"internalId":3812922824,"name":"Dagger of Hist Sap","description":"","icon":"data/images/d_/re/gg/gear_argonian_dagger_d.png","bindType":2,"knownIds":[98846]}

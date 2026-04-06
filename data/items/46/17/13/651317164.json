@@ -1,10 +1,1 @@
-{
-  "internalId": 651317164,
-  "name": "Corner of Bewan's Fabled Trinimac Altar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_004.png",
-  "bindType": -1,
-  "knownIds": [
-    732707
-  ]
-}
+{"internalId":651317164,"name":"Corner of Bewan's Fabled Trinimac Altar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_004.png","bindType":-1,"knownIds":[732707]}

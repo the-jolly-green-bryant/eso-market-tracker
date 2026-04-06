@@ -1,10 +1,1 @@
-{
-  "internalId": 1482622786,
-  "name": "Formula: Mirrormoor Shattered Glass, Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    212207
-  ]
-}
+{"internalId":1482622786,"name":"Formula: Mirrormoor Shattered Glass, Small","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[212207]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 638489212,
-  "name": "Elsweyr Carpet, Botanical Grand",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_ruglarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    151748
-  ]
-}
+{"internalId":638489212,"name":"Elsweyr Carpet, Botanical Grand","description":"This is a large house item.","icon":"data/images/10/0e/gr/housing_els_inc_ruglarge001.png","bindType":-1,"knownIds":[151748]}

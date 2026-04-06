@@ -1,10 +1,1 @@
-{
-  "internalId": 1477990183,
-  "name": "Way of the Arena Jewelry",
-  "description": "A Crafted Armor set constructed in Craglorn.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182673
-  ]
-}
+{"internalId":1477990183,"name":"Way of the Arena Jewelry","description":"A Crafted Armor set constructed in Craglorn.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182673]}

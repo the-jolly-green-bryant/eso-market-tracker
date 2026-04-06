@@ -1,10 +1,1 @@
-{
-  "internalId": 299833515,
-  "name": "Pact's Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54472
-  ]
-}
+{"internalId":299833515,"name":"Pact's Girdle","description":"","icon":"data/images/a_/ts/ia/gear_akaviri_heavy_waist_a.png","bindType":2,"knownIds":[54472]}

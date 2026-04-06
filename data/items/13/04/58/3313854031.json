@@ -1,10 +1,1 @@
-{
-  "internalId": 3313854031,
-  "name": "Alinor Shrine, Phynaster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_phynastershrine001.png",
-  "bindType": -1,
-  "knownIds": [
-    156655
-  ]
-}
+{"internalId":3313854031,"name":"Alinor Shrine, Phynaster","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_phynastershrine001.png","bindType":-1,"knownIds":[156655]}

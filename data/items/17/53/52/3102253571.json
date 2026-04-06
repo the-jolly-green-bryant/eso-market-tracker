@@ -1,10 +1,1 @@
-{
-  "internalId": 3102253571,
-  "name": "Gryphon's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hhammer_b.png",
-  "bindType": 2,
-  "knownIds": [
-    135487
-  ]
-}
+{"internalId":3102253571,"name":"Gryphon's Mace","description":"","icon":"data/images/b_/re/mm/gear_ancient_elf_1hhammer_b.png","bindType":2,"knownIds":[135487]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1715950574,
-  "name": "Sea-Raider's Hood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    412477,
-    788046,
-    412477,
-    788046
-  ]
-}
+{"internalId":1715950574,"name":"Sea-Raider's Hood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_head_d.png","bindType":-1,"knownIds":[412477,788046,412477,788046]}

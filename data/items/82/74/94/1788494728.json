@@ -1,10 +1,1 @@
-{
-  "internalId": 1788494728,
-  "name": "Thunderbug's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1hhammer_c.png",
-  "bindType": 2,
-  "knownIds": [
-    99981
-  ]
-}
+{"internalId":1788494728,"name":"Thunderbug's Mace","description":"","icon":"data/images/c_/re/mm/gear_primative_1hhammer_c.png","bindType":2,"knownIds":[99981]}

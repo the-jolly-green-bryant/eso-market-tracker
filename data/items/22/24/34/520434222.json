@@ -1,10 +1,1 @@
-{
-  "internalId": 520434222,
-  "name": "Shimmering Sand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_shimmering_sand.png",
-  "bindType": -1,
-  "knownIds": [
-    151621
-  ]
-}
+{"internalId":520434222,"name":"Shimmering Sand","description":"","icon":"data/images/dn/as/_g/crafting_shimmering_sand.png","bindType":-1,"knownIds":[151621]}

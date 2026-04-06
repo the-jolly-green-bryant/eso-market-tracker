@@ -1,10 +1,1 @@
-{
-  "internalId": 43911893,
-  "name": "Fortified Brass Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    131063
-  ]
-}
+{"internalId":43911893,"name":"Fortified Brass Jack","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[131063]}

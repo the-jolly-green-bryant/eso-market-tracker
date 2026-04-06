@@ -1,10 +1,1 @@
-{
-  "internalId": 3750797597,
-  "name": "Fine Porcelain Chamber Pot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png",
-  "bindType": -1,
-  "knownIds": [
-    882167
-  ]
-}
+{"internalId":3750797597,"name":"Fine Porcelain Chamber Pot","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png","bindType":-1,"knownIds":[882167]}

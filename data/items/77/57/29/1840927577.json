@@ -1,10 +1,1 @@
-{
-  "internalId": 1840927577,
-  "name": "Screecher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_alabaster_ibis.png",
-  "bindType": -1,
-  "knownIds": [
-    1271280
-  ]
-}
+{"internalId":1840927577,"name":"Screecher","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_alabaster_ibis.png","bindType":-1,"knownIds":[1271280]}

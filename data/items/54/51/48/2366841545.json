@@ -1,10 +1,1 @@
-{
-  "internalId": 2366841545,
-  "name": "Undaunted Box: Veteran Bal Sunnar",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    198592
-  ]
-}
+{"internalId":2366841545,"name":"Undaunted Box: Veteran Bal Sunnar","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[198592]}

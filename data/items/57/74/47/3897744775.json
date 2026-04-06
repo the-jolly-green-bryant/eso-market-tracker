@@ -1,10 +1,1 @@
-{
-  "internalId": 3897744775,
-  "name": "Thunderbug Carapace Quicksilver Axe",
-  "description": "Indiscernible voices emanate from this axe.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34757
-  ]
-}
+{"internalId":3897744775,"name":"Thunderbug Carapace Quicksilver Axe","description":"Indiscernible voices emanate from this axe.","icon":"data/images/d_/ex/ah/gear_altmer_1haxe_d.png","bindType":2,"knownIds":[34757]}

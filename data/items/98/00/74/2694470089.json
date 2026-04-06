@@ -1,10 +1,1 @@
-{
-  "internalId": 2694470089,
-  "name": "To All Who Pass Through",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1338267
-  ]
-}
+{"internalId":2694470089,"name":"To All Who Pass Through","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1338267]}

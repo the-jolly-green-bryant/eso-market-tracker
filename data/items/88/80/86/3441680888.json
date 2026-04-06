@@ -1,10 +1,1 @@
-{
-  "internalId": 3441680888,
-  "name": "Mysterious Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    822090
-  ]
-}
+{"internalId":3441680888,"name":"Mysterious Key","description":"","icon":null,"bindType":-1,"knownIds":[822090]}

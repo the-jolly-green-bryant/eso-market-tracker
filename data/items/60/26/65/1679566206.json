@@ -1,10 +1,1 @@
-{
-  "internalId": 1679566206,
-  "name": "Islander Boots",
-  "description": "Well-worn, comfortable boots made to tread the rocky coastlines of High Isle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nordmedv2_feet.png",
-  "bindType": 2,
-  "knownIds": [
-    188117
-  ]
-}
+{"internalId":1679566206,"name":"Islander Boots","description":"Well-worn, comfortable boots made to tread the rocky coastlines of High Isle.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nordmedv2_feet.png","bindType":2,"knownIds":[188117]}

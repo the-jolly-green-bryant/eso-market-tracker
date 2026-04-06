@@ -1,10 +1,1 @@
-{
-  "internalId": 665401095,
-  "name": "The Poacher's Friend",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png",
-  "bindType": -1,
-  "knownIds": [
-    838282
-  ]
-}
+{"internalId":665401095,"name":"The Poacher's Friend","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png","bindType":-1,"knownIds":[838282]}

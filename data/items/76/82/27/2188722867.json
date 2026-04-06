@@ -1,10 +1,1 @@
-{
-  "internalId": 2188722867,
-  "name": "Orcish Bratwurst on Bun",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_sausage.png",
-  "bindType": -1,
-  "knownIds": [
-    57136
-  ]
-}
+{"internalId":2188722867,"name":"Orcish Bratwurst on Bun","description":"","icon":"data/images/eg/as/ua/crafting_sausage.png","bindType":-1,"knownIds":[57136]}

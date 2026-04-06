@@ -1,10 +1,1 @@
-{
-  "internalId": 2345753171,
-  "name": "Looted Brass Lantern",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png",
-  "bindType": -1,
-  "knownIds": [
-    848540
-  ]
-}
+{"internalId":2345753171,"name":"Looted Brass Lantern","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png","bindType":-1,"knownIds":[848540]}

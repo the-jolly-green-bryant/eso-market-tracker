@@ -1,10 +1,1 @@
-{
-  "internalId": 3251171101,
-  "name": "Spinner's Sapstung Helmet",
-  "description": "This helmet is slightly translucent.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34753
-  ]
-}
+{"internalId":3251171101,"name":"Spinner's Sapstung Helmet","description":"This helmet is slightly translucent.","icon":"data/images/d_/da/eh/gear_bosmer_light_head_d.png","bindType":2,"knownIds":[34753]}

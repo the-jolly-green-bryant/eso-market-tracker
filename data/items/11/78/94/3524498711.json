@@ -1,10 +1,1 @@
-{
-  "internalId": 3524498711,
-  "name": "Mat of the Sunset, Faded",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn009.png",
-  "bindType": -1,
-  "knownIds": [
-    118164
-  ]
-}
+{"internalId":3524498711,"name":"Mat of the Sunset, Faded","description":"This is a small house item.","icon":"data/images/90/0n/ro/housing_red_inc_rugsmallworn009.png","bindType":-1,"knownIds":[118164]}

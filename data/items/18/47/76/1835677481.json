@@ -1,10 +1,1 @@
-{
-  "internalId": 1835677481,
-  "name": "Blueprint: Nord Divider, Folding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    116201
-  ]
-}
+{"internalId":1835677481,"name":"Blueprint: Nord Divider, Folding","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[116201]}

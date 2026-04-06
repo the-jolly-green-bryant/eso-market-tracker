@@ -1,10 +1,1 @@
-{
-  "internalId": 1259068896,
-  "name": "Witch's Totem, Bog",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_hagraven001.png",
-  "bindType": -1,
-  "knownIds": [
-    132154
-  ]
-}
+{"internalId":1259068896,"name":"Witch's Totem, Bog","description":"This is a standard house item.","icon":"data/images/10/0n/ev/housing_uni_exc_hagraven001.png","bindType":-1,"knownIds":[132154]}

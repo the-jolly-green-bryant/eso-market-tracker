@@ -1,17 +1,1 @@
-{
-  "internalId": 3141769586,
-  "name": "Nix-Hound's Howl Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1630980,
-    1642546,
-    1657972,
-    1760581,
-    1630980,
-    1642546,
-    1657972,
-    1760581
-  ]
-}
+{"internalId":3141769586,"name":"Nix-Hound's Howl Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hhammer_a.png","bindType":-1,"knownIds":[1630980,1642546,1657972,1760581,1630980,1642546,1657972,1760581]}

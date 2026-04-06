@@ -1,10 +1,1 @@
-{
-  "internalId": 2939984327,
-  "name": "Druidic Pillow, Woven",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_drupillow002.png",
-  "bindType": -1,
-  "knownIds": [
-    191193
-  ]
-}
+{"internalId":2939984327,"name":"Druidic Pillow, Woven","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_drupillow002.png","bindType":-1,"knownIds":[191193]}

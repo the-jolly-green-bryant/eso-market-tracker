@@ -1,10 +1,1 @@
-{
-  "internalId": 249197490,
-  "name": "Pillow, Faded Yellow",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillowworn001.png",
-  "bindType": -1,
-  "knownIds": [
-    118248
-  ]
-}
+{"internalId":249197490,"name":"Pillow, Faded Yellow","description":"This is a small house item.","icon":"data/images/10/0n/ro/housing_red_fur_pillowworn001.png","bindType":-1,"knownIds":[118248]}

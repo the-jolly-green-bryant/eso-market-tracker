@@ -1,10 +1,1 @@
-{
-  "internalId": 2357343130,
-  "name": "Ancient Scrolls of the Dwemer III",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook004.png",
-  "bindType": -1,
-  "knownIds": [
-    1236547
-  ]
-}
+{"internalId":2357343130,"name":"Ancient Scrolls of the Dwemer III","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook004.png","bindType":-1,"knownIds":[1236547]}

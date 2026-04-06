@@ -1,10 +1,1 @@
-{
-  "internalId": 3202870003,
-  "name": "Praxis: Apocrypha Chair, Marble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    197609
-  ]
-}
+{"internalId":3202870003,"name":"Praxis: Apocrypha Chair, Marble","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[197609]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2409366792,
-  "name": "Pattern: Leyawiin Laundry, Stack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175985
-  ]
-}
+{"internalId":2409366792,"name":"Pattern: Leyawiin Laundry, Stack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[175985]}

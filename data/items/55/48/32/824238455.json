@@ -1,10 +1,1 @@
-{
-  "internalId": 824238455,
-  "name": "Alliance Spell Draught",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_009_type_003.png",
-  "bindType": -1,
-  "knownIds": [
-    71072
-  ]
-}
+{"internalId":824238455,"name":"Alliance Spell Draught","description":"","icon":"data/images/30/0_/ep/consumable_potion_009_type_003.png","bindType":-1,"knownIds":[71072]}

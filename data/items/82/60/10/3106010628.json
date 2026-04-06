@@ -1,10 +1,1 @@
-{
-  "internalId": 3106010628,
-  "name": "Shipment of Ash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    940486
-  ]
-}
+{"internalId":3106010628,"name":"Shipment of Ash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[940486]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3038530036,
-  "name": "Research Scroll, Woodworking, 1 Day",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_researchscroll_woodworking.png",
-  "bindType": -1,
-  "knownIds": [
-    125475
-  ]
-}
+{"internalId":3038530036,"name":"Research Scroll, Woodworking, 1 Day","description":"","icon":"data/images/gn/ik/ro/crafting_researchscroll_woodworking.png","bindType":-1,"knownIds":[125475]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 2248067020,
-  "name": "Aetheric Lancer Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shield.png",
-  "bindType": -1,
-  "knownIds": [
-    1738899,
-    1757177,
-    1775130,
-    1777095,
-    1738899,
-    1757177,
-    1775130,
-    1777095
-  ]
-}
+{"internalId":2248067020,"name":"Aetheric Lancer Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_shield.png","bindType":-1,"knownIds":[1738899,1757177,1775130,1777095,1738899,1757177,1775130,1777095]}

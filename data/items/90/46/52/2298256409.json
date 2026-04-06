@@ -1,13 +1,1 @@
-{
-  "internalId": 2298256409,
-  "name": "Olorime's Perfected Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_2hsword_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1470257,
-    1724256,
-    1470257,
-    1724256
-  ]
-}
+{"internalId":2298256409,"name":"Olorime's Perfected Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_2hsword_001.png","bindType":-1,"knownIds":[1470257,1724256,1470257,1724256]}

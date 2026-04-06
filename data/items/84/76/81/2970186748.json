@@ -1,10 +1,1 @@
-{
-  "internalId": 2970186748,
-  "name": "Belt of Kagrenac's Hope",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56801
-  ]
-}
+{"internalId":2970186748,"name":"Belt of Kagrenac's Hope","description":"","icon":"data/images/d_/ts/ia/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[56801]}

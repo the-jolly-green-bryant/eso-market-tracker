@@ -1,15 +1,1 @@
-{
-  "internalId": 1572834963,
-  "name": "Baan Dar's Blessing Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1701715,
-    1701720,
-    1702074,
-    1701715,
-    1701720,
-    1702074
-  ]
-}
+{"internalId":1572834963,"name":"Baan Dar's Blessing Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":-1,"knownIds":[1701715,1701720,1702074,1701715,1701720,1702074]}

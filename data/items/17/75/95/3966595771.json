@@ -1,10 +1,1 @@
-{
-  "internalId": 3966595771,
-  "name": "Ancient Yokudan Arrowhead",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_brokenfrieze_soldier.png",
-  "bindType": -1,
-  "knownIds": [
-    798570
-  ]
-}
+{"internalId":3966595771,"name":"Ancient Yokudan Arrowhead","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_brokenfrieze_soldier.png","bindType":-1,"knownIds":[798570]}

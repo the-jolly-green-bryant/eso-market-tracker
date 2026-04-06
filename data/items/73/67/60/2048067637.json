@@ -1,10 +1,1 @@
-{
-  "internalId": 2048067637,
-  "name": "Redoran Plate, Meal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaplate001_full.png",
-  "bindType": -1,
-  "knownIds": [
-    126526
-  ]
-}
+{"internalId":2048067637,"name":"Redoran Plate, Meal","description":"This is a small house item.","icon":"data/images/ll/uf/_1/housing_vrd_inc_hlaplate001_full.png","bindType":-1,"knownIds":[126526]}

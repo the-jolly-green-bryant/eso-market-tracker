@@ -1,10 +1,1 @@
-{
-  "internalId": 1891614092,
-  "name": "Unlabeled Potion Bottle",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819899
-  ]
-}
+{"internalId":1891614092,"name":"Unlabeled Potion Bottle","description":"","icon":null,"bindType":-1,"knownIds":[819899]}

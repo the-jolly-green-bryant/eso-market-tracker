@@ -1,10 +1,1 @@
-{
-  "internalId": 817791019,
-  "name": "Shalk-Brother Crayfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png",
-  "bindType": -1,
-  "knownIds": [
-    1163116
-  ]
-}
+{"internalId":817791019,"name":"Shalk-Brother Crayfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png","bindType":-1,"knownIds":[1163116]}

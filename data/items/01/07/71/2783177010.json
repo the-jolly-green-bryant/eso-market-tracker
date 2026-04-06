@@ -1,10 +1,1 @@
-{
-  "internalId": 2783177010,
-  "name": "Praxis: Elsweyr Altar, Ancient Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    152005
-  ]
-}
+{"internalId":2783177010,"name":"Praxis: Elsweyr Altar, Ancient Stone","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[152005]}

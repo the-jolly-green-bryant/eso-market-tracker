@@ -1,10 +1,1 @@
-{
-  "internalId": 1711925790,
-  "name": "Cloudy Athlete's Guzzle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
-  "bindType": -1,
-  "knownIds": [
-    32147
-  ]
-}
+{"internalId":1711925790,"name":"Cloudy Athlete's Guzzle","description":"","icon":"data/images/20/0_/st/crafting_spirits_002.png","bindType":-1,"knownIds":[32147]}

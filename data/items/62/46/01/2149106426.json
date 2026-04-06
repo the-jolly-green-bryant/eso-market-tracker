@@ -1,10 +1,1 @@
-{
-  "internalId": 2149106426,
-  "name": "Praxis: Leyawiin Hearth, Carved Wood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    181559
-  ]
-}
+{"internalId":2149106426,"name":"Praxis: Leyawiin Hearth, Carved Wood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[181559]}

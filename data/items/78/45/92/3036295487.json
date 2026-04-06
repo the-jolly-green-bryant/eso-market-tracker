@@ -1,10 +1,1 @@
-{
-  "internalId": 3036295487,
-  "name": "Epaulets of the Gorethief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    224647
-  ]
-}
+{"internalId":3036295487,"name":"Epaulets of the Gorethief","description":"","icon":"data/images/d_/sr/ed/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[224647]}

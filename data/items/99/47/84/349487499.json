@@ -1,10 +1,1 @@
-{
-  "internalId": 349487499,
-  "name": "Colovian Grape Vat, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winevatbarrel001.png",
-  "bindType": -1,
-  "knownIds": [
-    212556
-  ]
-}
+{"internalId":349487499,"name":"Colovian Grape Vat, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winevatbarrel001.png","bindType":-1,"knownIds":[212556]}

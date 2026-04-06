@@ -1,10 +1,1 @@
-{
-  "internalId": 3494481623,
-  "name": "Praxis: Murkmire Desk, Engraved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    145915
-  ]
-}
+{"internalId":3494481623,"name":"Praxis: Murkmire Desk, Engraved","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[145915]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 2441626819,
-  "name": "Umbral Edge Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731767,
-    1763399,
-    1731767,
-    1763399
-  ]
-}
+{"internalId":2441626819,"name":"Umbral Edge Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_chest_a.png","bindType":-1,"knownIds":[1731767,1763399,1731767,1763399]}

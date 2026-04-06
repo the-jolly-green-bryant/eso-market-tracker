@@ -1,10 +1,1 @@
-{
-  "internalId": 1139948435,
-  "name": "Pattern: Deadlands Rug",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    182977
-  ]
-}
+{"internalId":1139948435,"name":"Pattern: Deadlands Rug","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[182977]}

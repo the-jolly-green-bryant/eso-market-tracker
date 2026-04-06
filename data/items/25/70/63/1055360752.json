@@ -1,10 +1,1 @@
-{
-  "internalId": 1055360752,
-  "name": "Noble Still Life Painting, Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_metalframepainting004.png",
-  "bindType": -1,
-  "knownIds": [
-    187869
-  ]
-}
+{"internalId":1055360752,"name":"Noble Still Life Painting, Metal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_metalframepainting004.png","bindType":-1,"knownIds":[187869]}

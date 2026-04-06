@@ -1,10 +1,1 @@
-{
-  "internalId": 3225224290,
-  "name": "Hexos' Ward Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180239
-  ]
-}
+{"internalId":3225224290,"name":"Hexos' Ward Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_1haxe_a.png","bindType":2,"knownIds":[180239]}

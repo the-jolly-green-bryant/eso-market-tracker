@@ -1,10 +1,1 @@
-{
-  "internalId": 1711722051,
-  "name": "Shield of Draugr Heritage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101851
-  ]
-}
+{"internalId":1711722051,"name":"Shield of Draugr Heritage","description":"","icon":"data/images/a_/dl/ei/gear_draugr_shield_a.png","bindType":2,"knownIds":[101851]}

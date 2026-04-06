@@ -1,10 +1,1 @@
-{
-  "internalId": 4169906514,
-  "name": "Breeches of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79175
-  ]
-}
+{"internalId":4169906514,"name":"Breeches of Imperial Physique","description":"","icon":"data/images/a_/sg/el/gear_ooth_light_legs_a.png","bindType":2,"knownIds":[79175]}

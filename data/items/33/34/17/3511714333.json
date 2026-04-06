@@ -1,10 +1,1 @@
-{
-  "internalId": 3511714333,
-  "name": "Dwarven Rack, Spider Legs",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_housingspiderlegrack001.png",
-  "bindType": -1,
-  "knownIds": [
-    147584
-  ]
-}
+{"internalId":3511714333,"name":"Dwarven Rack, Spider Legs","description":"This is a standard house item.","icon":"data/images/10/0k/ca/housing_dwe_inc_housingspiderlegrack001.png","bindType":-1,"knownIds":[147584]}

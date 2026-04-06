@@ -1,10 +1,1 @@
-{
-  "internalId": 3530897608,
-  "name": "Troubling Tines",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1151010
-  ]
-}
+{"internalId":3530897608,"name":"Troubling Tines","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[1151010]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2273937124,
-  "name": "Mantle of the Quiet Farewell",
-  "description": "These light shoulder wraps once belonged to a soldier known for his bravery and his chronic inability to tell healing potions from painful poisons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223685
-  ]
-}
+{"internalId":2273937124,"name":"Mantle of the Quiet Farewell","description":"These light shoulder wraps once belonged to a soldier known for his bravery and his chronic inability to tell healing potions from painful poisons.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_shoulders_a.png","bindType":2,"knownIds":[223685]}

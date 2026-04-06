@@ -1,10 +1,1 @@
-{
-  "internalId": 2684002242,
-  "name": "Snake-Etched Prybar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1384937
-  ]
-}
+{"internalId":2684002242,"name":"Snake-Etched Prybar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1384937]}

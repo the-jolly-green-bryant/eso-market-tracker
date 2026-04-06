@@ -1,10 +1,1 @@
-{
-  "internalId": 3752895751,
-  "name": "Yolnahkriin's Perfected Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_sword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1750186
-  ]
-}
+{"internalId":3752895751,"name":"Yolnahkriin's Perfected Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_sword_a.png","bindType":-1,"knownIds":[1750186]}

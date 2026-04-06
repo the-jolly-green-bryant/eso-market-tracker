@@ -1,10 +1,1 @@
-{
-  "internalId": 1626681500,
-  "name": "Dragonstar Arena Token",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403909
-  ]
-}
+{"internalId":1626681500,"name":"Dragonstar Arena Token","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[403909]}

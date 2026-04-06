@@ -1,10 +1,1 @@
-{
-  "internalId": 2581944246,
-  "name": "Deadlands Assassin's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172279
-  ]
-}
+{"internalId":2581944246,"name":"Deadlands Assassin's Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_head_a.png","bindType":2,"knownIds":[172279]}

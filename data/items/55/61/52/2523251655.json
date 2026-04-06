@@ -1,10 +1,1 @@
-{
-  "internalId": 2523251655,
-  "name": "Blueprint: Colovian Wine Rack, Filled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    207915
-  ]
-}
+{"internalId":2523251655,"name":"Blueprint: Colovian Wine Rack, Filled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[207915]}

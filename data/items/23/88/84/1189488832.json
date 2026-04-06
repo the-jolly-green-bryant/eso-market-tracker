@@ -1,10 +1,1 @@
-{
-  "internalId": 1189488832,
-  "name": "Necrom Bed, Elegant Single",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbedhigh002.png",
-  "bindType": -1,
-  "knownIds": [
-    197487
-  ]
-}
+{"internalId":1189488832,"name":"Necrom Bed, Elegant Single","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbedhigh002.png","bindType":-1,"knownIds":[197487]}

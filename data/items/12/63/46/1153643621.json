@@ -1,10 +1,1 @@
-{
-  "internalId": 1153643621,
-  "name": "Gallio Valente's Best Vintage",
-  "description": "A fine wine, fit for healing body, soul, and mind.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
-  "bindType": -1,
-  "knownIds": [
-    208142
-  ]
-}
+{"internalId":1153643621,"name":"Gallio Valente's Best Vintage","description":"A fine wine, fit for healing body, soul, and mind.","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png","bindType":-1,"knownIds":[208142]}

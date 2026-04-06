@@ -1,10 +1,1 @@
-{
-  "internalId": 392782381,
-  "name": "The Homilies of Blessed Almalexia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png",
-  "bindType": -1,
-  "knownIds": [
-    1140207
-  ]
-}
+{"internalId":392782381,"name":"The Homilies of Blessed Almalexia","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png","bindType":-1,"knownIds":[1140207]}

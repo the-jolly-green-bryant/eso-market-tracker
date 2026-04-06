@@ -1,10 +1,1 @@
-{
-  "internalId": 3119792805,
-  "name": "Necrom Window, Unframed Exterior",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_necwindowlow001.png",
-  "bindType": -1,
-  "knownIds": [
-    198035
-  ]
-}
+{"internalId":3119792805,"name":"Necrom Window, Unframed Exterior","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_necwindowlow001.png","bindType":-1,"knownIds":[198035]}

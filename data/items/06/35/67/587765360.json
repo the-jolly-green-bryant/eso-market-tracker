@@ -1,10 +1,1 @@
-{
-  "internalId": 587765360,
-  "name": "Diamond-Tooth Cat Comb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851598
-  ]
-}
+{"internalId":587765360,"name":"Diamond-Tooth Cat Comb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[851598]}

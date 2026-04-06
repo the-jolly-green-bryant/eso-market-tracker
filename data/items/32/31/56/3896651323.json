@@ -1,10 +1,1 @@
-{
-  "internalId": 3896651323,
-  "name": "Gleaner's Solace",
-  "description": "The Gleaners of the Aurbis try to avoid getting hurt on the job, but it helps to know healing implements are available.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    197808
-  ]
-}
+{"internalId":3896651323,"name":"Gleaner's Solace","description":"The Gleaners of the Aurbis try to avoid getting hurt on the job, but it helps to know healing implements are available.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_staff_d.png","bindType":2,"knownIds":[197808]}

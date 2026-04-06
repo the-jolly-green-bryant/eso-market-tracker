@@ -1,10 +1,1 @@
-{
-  "internalId": 3536870101,
-  "name": "Copper Measures",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795621
-  ]
-}
+{"internalId":3536870101,"name":"Copper Measures","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png","bindType":-1,"knownIds":[795621]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 45540028,
-  "name": "Boar Totem, Balance",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrgoblinbanner002.png",
-  "bindType": -1,
-  "knownIds": [
-    147642
-  ]
-}
+{"internalId":45540028,"name":"Boar Totem, Balance","description":"This is a standard house item.","icon":"data/images/20/0r/en/housing_gen_exc_rkrgoblinbanner002.png","bindType":-1,"knownIds":[147642]}

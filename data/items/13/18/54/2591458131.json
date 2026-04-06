@@ -1,10 +1,1 @@
-{
-  "internalId": 2591458131,
-  "name": "Recipe: Creme De Menthe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45552
-  ]
-}
+{"internalId":2591458131,"name":"Recipe: Creme De Menthe","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45552]}

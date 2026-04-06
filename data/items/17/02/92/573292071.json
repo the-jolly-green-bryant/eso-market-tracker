@@ -1,13 +1,1 @@
-{
-  "internalId": 573292071,
-  "name": "Tools of the Trapmaster Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1779686,
-    1779925,
-    1779686,
-    1779925
-  ]
-}
+{"internalId":573292071,"name":"Tools of the Trapmaster Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_1haxe_a.png","bindType":-1,"knownIds":[1779686,1779925,1779686,1779925]}

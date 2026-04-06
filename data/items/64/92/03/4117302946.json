@@ -1,10 +1,1 @@
-{
-  "internalId": 4117302946,
-  "name": "Mace of the Noble's Conquest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60262
-  ]
-}
+{"internalId":4117302946,"name":"Mace of the Noble's Conquest","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[60262]}

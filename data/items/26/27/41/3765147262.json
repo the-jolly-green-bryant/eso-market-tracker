@@ -1,10 +1,1 @@
-{
-  "internalId": 3765147262,
-  "name": "Scented Candle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    815918
-  ]
-}
+{"internalId":3765147262,"name":"Scented Candle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[815918]}

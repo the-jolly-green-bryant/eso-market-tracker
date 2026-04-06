@@ -1,10 +1,1 @@
-{
-  "internalId": 904493307,
-  "name": "Shipment of Cotton Cloth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    937747
-  ]
-}
+{"internalId":904493307,"name":"Shipment of Cotton Cloth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[937747]}

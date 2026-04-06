@@ -1,10 +1,1 @@
-{
-  "internalId": 2203503280,
-  "name": "Denata",
-  "description": "Denata",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_004.png",
-  "bindType": -1,
-  "knownIds": [
-    45852
-  ]
-}
+{"internalId":2203503280,"name":"Denata","description":"Denata","icon":"data/images/40/0_/se/crafting_components_runestones_004.png","bindType":-1,"knownIds":[45852]}

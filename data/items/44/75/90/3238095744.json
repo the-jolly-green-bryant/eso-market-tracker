@@ -1,10 +1,1 @@
-{
-  "internalId": 3238095744,
-  "name": "Crafter's Style Materials Crate I",
-  "description": "This crate is laden with the materials to make equipment in every basic style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    178700
-  ]
-}
+{"internalId":3238095744,"name":"Crafter's Style Materials Crate I","description":"This crate is laden with the materials to make equipment in every basic style.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[178700]}

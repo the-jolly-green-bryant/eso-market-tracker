@@ -1,10 +1,1 @@
-{
-  "internalId": 3866118872,
-  "name": "Design: Telvanni Dresser, Large Fungal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    197585
-  ]
-}
+{"internalId":3866118872,"name":"Design: Telvanni Dresser, Large Fungal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[197585]}

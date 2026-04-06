@@ -1,10 +1,1 @@
-{
-  "internalId": 1365363840,
-  "name": "Used Bait",
-  "description": "There is no longer enough of this soggy bait to use for fishing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_fish_tail.png",
-  "bindType": -1,
-  "knownIds": [
-    42878
-  ]
-}
+{"internalId":1365363840,"name":"Used Bait","description":"There is no longer enough of this soggy bait to use for fishing.","icon":"data/images/li/at/_h/crafting_critter_fish_tail.png","bindType":-1,"knownIds":[42878]}

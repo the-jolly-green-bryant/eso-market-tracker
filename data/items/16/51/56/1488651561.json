@@ -1,10 +1,1 @@
-{
-  "internalId": 1488651561,
-  "name": "Diagram: Colovian Chandelier, Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    207867
-  ]
-}
+{"internalId":1488651561,"name":"Diagram: Colovian Chandelier, Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[207867]}

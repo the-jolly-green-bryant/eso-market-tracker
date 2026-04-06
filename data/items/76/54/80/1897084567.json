@@ -1,15 +1,1 @@
-{
-  "internalId": 1897084567,
-  "name": "Gardener of Seasons Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1683215,
-    1689279,
-    1735048,
-    1683215,
-    1689279,
-    1735048
-  ]
-}
+{"internalId":1897084567,"name":"Gardener of Seasons Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_feet_a.png","bindType":-1,"knownIds":[1683215,1689279,1735048,1683215,1689279,1735048]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 963364850,
-  "name": "Diagram: Redguard Shelf, Barrel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119177
-  ]
-}
+{"internalId":963364850,"name":"Diagram: Redguard Shelf, Barrel","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119177]}

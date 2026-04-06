@@ -1,10 +1,1 @@
-{
-  "internalId": 3518548356,
-  "name": "Darloc Brae's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149577
-  ]
-}
+{"internalId":3518548356,"name":"Darloc Brae's Maul","description":"","icon":"data/images/a_/re/mm/gear_anequina_2hhammer_a.png","bindType":2,"knownIds":[149577]}

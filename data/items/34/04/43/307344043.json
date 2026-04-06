@@ -1,10 +1,1 @@
-{
-  "internalId": 307344043,
-  "name": "Breton Trestle, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_tablepeasanttressle001.png",
-  "bindType": -1,
-  "knownIds": [
-    115166
-  ]
-}
+{"internalId":307344043,"name":"Breton Trestle, Sturdy","description":"This is a standard house item.","icon":"data/images/10/0e/ls/housing_bre_fur_tablepeasanttressle001.png","bindType":-1,"knownIds":[115166]}

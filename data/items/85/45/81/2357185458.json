@@ -1,10 +1,1 @@
-{
-  "internalId": 2357185458,
-  "name": "Full Belly Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    215008
-  ]
-}
+{"internalId":2357185458,"name":"Full Belly Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_dagger_a.png","bindType":2,"knownIds":[215008]}

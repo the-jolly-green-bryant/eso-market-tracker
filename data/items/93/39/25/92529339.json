@@ -1,10 +1,1 @@
-{
-  "internalId": 92529339,
-  "name": "Leki's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199385
-  ]
-}
+{"internalId":92529339,"name":"Leki's Lightning Staff","description":"","icon":"data/images/a_/ff/at/gear_abahswatch_staff_a.png","bindType":2,"knownIds":[79782]}

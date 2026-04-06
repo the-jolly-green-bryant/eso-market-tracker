@@ -1,17 +1,1 @@
-{
-  "internalId": 2330195114,
-  "name": "Bani's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_icereachcoven_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1531667,
-    1549228,
-    1594620,
-    1600852,
-    1531667,
-    1549228,
-    1594620,
-    1600852
-  ]
-}
+{"internalId":2330195114,"name":"Bani's Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_icereachcoven_staff_a.png","bindType":-1,"knownIds":[1531667,1549228,1594620,1600852,1531667,1549228,1594620,1600852]}

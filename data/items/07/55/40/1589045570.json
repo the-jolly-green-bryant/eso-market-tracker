@@ -1,10 +1,1 @@
-{
-  "internalId": 1589045570,
-  "name": "Blood-Orange Peeler",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    377261
-  ]
-}
+{"internalId":1589045570,"name":"Blood-Orange Peeler","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png","bindType":-1,"knownIds":[377261]}

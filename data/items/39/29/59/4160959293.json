@@ -1,10 +1,1 @@
-{
-  "internalId": 4160959293,
-  "name": "Design: Provisioning Station, Elsweyr Grill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png",
-  "bindType": -1,
-  "knownIds": [
-    153734
-  ]
-}
+{"internalId":4160959293,"name":"Design: Provisioning Station, Elsweyr Grill","description":"","icon":"data/images/5g/ni/no/crafting_planfurniture_provisioning5.png","bindType":-1,"knownIds":[153734]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 765829496,
-  "name": "Conservatory Furnishing Book",
-  "description": "Notes taken by a lover of nature. Reading this book teaches all Conservatory Furniture Recipes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color2.png",
-  "bindType": -1,
-  "knownIds": [
-    214282
-  ]
-}
+{"internalId":765829496,"name":"Conservatory Furnishing Book","description":"Notes taken by a lover of nature. Reading this book teaches all Conservatory Furniture Recipes.","icon":"https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color2.png","bindType":-1,"knownIds":[214282]}

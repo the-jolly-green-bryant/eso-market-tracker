@@ -1,10 +1,1 @@
-{
-  "internalId": 2001566386,
-  "name": "Sword of Mother's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    75205
-  ]
-}
+{"internalId":2001566386,"name":"Sword of Mother's Embrace","description":"","icon":"data/images/a_/dr/ow/gear_thievesguildv2_1hsword_a.png","bindType":2,"knownIds":[75205]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3777144451,
-  "name": "Forest Wraith's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192331
-  ]
-}
+{"internalId":3777144451,"name":"Forest Wraith's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[192331]}

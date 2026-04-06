@@ -1,10 +1,1 @@
-{
-  "internalId": 345489133,
-  "name": "Tomato Garlic Chutney",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_jam_pot.png",
-  "bindType": -1,
-  "knownIds": [
-    68238
-  ]
-}
+{"internalId":345489133,"name":"Tomato Garlic Chutney","description":"","icon":"data/images/to/p_/ma/crafting_cooking_jam_pot.png","bindType":-1,"knownIds":[68238]}

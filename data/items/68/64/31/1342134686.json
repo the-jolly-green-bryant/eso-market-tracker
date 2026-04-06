@@ -1,10 +1,1 @@
-{
-  "internalId": 1342134686,
-  "name": "Construct's Integral of Calculus",
-  "description": "A crystal which holds knowledge of mathematics. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_gems_varla.png",
-  "bindType": 3,
-  "knownIds": [
-    129910
-  ]
-}
+{"internalId":1342134686,"name":"Construct's Integral of Calculus","description":"A crystal which holds knowledge of mathematics. This factotum part should be assembled with the rest in Zanon's Workshop, in The Clockwork City.","icon":"data/images/al/ra/v_/crafting_gems_varla.png","bindType":3,"knownIds":[129910]}

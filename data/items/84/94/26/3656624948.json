@@ -1,10 +1,1 @@
-{
-  "internalId": 3656624948,
-  "name": "Grimoire: Banner Bearer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_support.png",
-  "bindType": 3,
-  "knownIds": [
-    204496
-  ]
-}
+{"internalId":3656624948,"name":"Grimoire: Banner Bearer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_grimoire_support.png","bindType":3,"knownIds":[204496]}

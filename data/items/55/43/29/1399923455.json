@@ -1,10 +1,1 @@
-{
-  "internalId": 1399923455,
-  "name": "Troll Jaw Comb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1383853
-  ]
-}
+{"internalId":1399923455,"name":"Troll Jaw Comb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[1383853]}

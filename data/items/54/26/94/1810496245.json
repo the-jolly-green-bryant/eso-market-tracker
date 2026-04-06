@@ -1,10 +1,1 @@
-{
-  "internalId": 1810496245,
-  "name": "Wind Chimes, Undaunted Glory",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundwindchimes001.png",
-  "bindType": -1,
-  "knownIds": [
-    208107
-  ]
-}
+{"internalId":1810496245,"name":"Wind Chimes, Undaunted Glory","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundwindchimes001.png","bindType":-1,"knownIds":[208107]}

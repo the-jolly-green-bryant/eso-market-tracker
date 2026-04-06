@@ -1,10 +1,1 @@
-{
-  "internalId": 3772432858,
-  "name": "Orcish Trestle, Engraved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgtablesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    116401
-  ]
-}
+{"internalId":3772432858,"name":"Orcish Trestle, Engraved","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_orc_fur_wtgtablesmall001.png","bindType":-1,"knownIds":[116401]}

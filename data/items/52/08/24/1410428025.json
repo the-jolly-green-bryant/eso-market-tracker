@@ -1,10 +1,1 @@
-{
-  "internalId": 1410428025,
-  "name": "King Donel Candle Tree",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1078372
-  ]
-}
+{"internalId":1410428025,"name":"King Donel Candle Tree","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[1078372]}

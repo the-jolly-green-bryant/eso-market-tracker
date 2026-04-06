@@ -1,10 +1,1 @@
-{
-  "internalId": 1233216458,
-  "name": "Call of the Undertaker",
-  "description": "A Heavy Armor set found in Northern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    150426
-  ]
-}
+{"internalId":1233216458,"name":"Call of the Undertaker","description":"A Heavy Armor set found in Northern Elsweyr.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[150426]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1365709846,
-  "name": "Clockwork Illuminator, Spot",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_lsb_irspot002.png",
-  "bindType": -1,
-  "knownIds": [
-    192573
-  ]
-}
+{"internalId":1365709846,"name":"Clockwork Illuminator, Spot","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cwc_lsb_irspot002.png","bindType":-1,"knownIds":[192573]}

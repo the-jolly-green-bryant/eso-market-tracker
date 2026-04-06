@@ -1,10 +1,1 @@
-{
-  "internalId": 3484791197,
-  "name": "Ancient Nord Urn, Dragon Crest",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_largeurn001.png",
-  "bindType": -1,
-  "knownIds": [
-    134871
-  ]
-}
+{"internalId":3484791197,"name":"Ancient Nord Urn, Dragon Crest","description":"This is a standard house item.","icon":"data/images/10/0n/ru/housing_nor_duc_largeurn001.png","bindType":-1,"knownIds":[134871]}

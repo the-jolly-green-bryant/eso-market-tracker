@@ -1,10 +1,1 @@
-{
-  "internalId": 4200416208,
-  "name": "Helm of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77072
-  ]
-}
+{"internalId":4200416208,"name":"Helm of Morihaus","description":"","icon":"data/images/a_/da/eh/gear_minotaur_heavy_head_a.png","bindType":2,"knownIds":[77072]}

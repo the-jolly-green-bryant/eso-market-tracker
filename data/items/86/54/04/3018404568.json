@@ -1,10 +1,1 @@
-{
-  "internalId": 3018404568,
-  "name": "Telvanni Fork, Wooden",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_fork001.png",
-  "bindType": -1,
-  "knownIds": [
-    197645
-  ]
-}
+{"internalId":3018404568,"name":"Telvanni Fork, Wooden","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_fork001.png","bindType":-1,"knownIds":[197645]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3731327171,
-  "name": "Varla Stone, Glowing",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_varlastone01.png",
-  "bindType": -1,
-  "knownIds": [
-    134465
-  ]
-}
+{"internalId":3731327171,"name":"Varla Stone, Glowing","description":"This is a small house item.","icon":"data/images/10/en/ot/housing_ayl_duc_varlastone01.png","bindType":-1,"knownIds":[134465]}

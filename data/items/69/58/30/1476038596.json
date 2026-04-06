@@ -1,13 +1,1 @@
-{
-  "internalId": 1476038596,
-  "name": "Icy Conjurer's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1622451,
-    1639811,
-    1622451,
-    1639811
-  ]
-}
+{"internalId":1476038596,"name":"Icy Conjurer's Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_legs_a.png","bindType":-1,"knownIds":[1622451,1639811,1622451,1639811]}

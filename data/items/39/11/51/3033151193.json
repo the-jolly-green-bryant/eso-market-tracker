@@ -1,10 +1,1 @@
-{
-  "internalId": 3033151193,
-  "name": "Star-Studded Champion's Baldric",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_champion_baldric.png",
-  "bindType": -1,
-  "knownIds": [
-    1211568
-  ]
-}
+{"internalId":3033151193,"name":"Star-Studded Champion's Baldric","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_champion_baldric.png","bindType":-1,"knownIds":[1211568]}

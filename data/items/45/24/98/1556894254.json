@@ -1,10 +1,1 @@
-{
-  "internalId": 1556894254,
-  "name": "Skooma Skeleton",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_ashpit_bone.png",
-  "bindType": -1,
-  "knownIds": [
-    1385089
-  ]
-}
+{"internalId":1556894254,"name":"Skooma Skeleton","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_ashpit_bone.png","bindType":-1,"knownIds":[1385089]}

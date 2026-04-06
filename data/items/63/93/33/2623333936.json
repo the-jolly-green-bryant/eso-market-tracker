@@ -1,10 +1,1 @@
-{
-  "internalId": 2623333936,
-  "name": "Antimony",
-  "description": "Can be used to enhance jewelry.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_trait_refined_antimony.png",
-  "bindType": -1,
-  "knownIds": [
-    135156
-  ]
-}
+{"internalId":2623333936,"name":"Antimony","description":"Can be used to enhance jewelry.","icon":"data/images/yn/om/it/jewelrycrafting_trait_refined_antimony.png","bindType":-1,"knownIds":[135156]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3372005655,
-  "name": "Necrom Vase, Elegant Square Floral",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necvasesquaretall001a.png",
-  "bindType": -1,
-  "knownIds": [
-    197502
-  ]
-}
+{"internalId":3372005655,"name":"Necrom Vase, Elegant Square Floral","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necvasesquaretall001a.png","bindType":-1,"knownIds":[197502]}

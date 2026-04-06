@@ -1,10 +1,1 @@
-{
-  "internalId": 251791187,
-  "name": "Warrior-Poet's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122764
-  ]
-}
+{"internalId":251791187,"name":"Warrior-Poet's Shield","description":"","icon":"data/images/a_/dl/ei/gear_redoran_shield_a.png","bindType":2,"knownIds":[122764]}

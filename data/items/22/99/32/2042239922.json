@@ -1,10 +1,1 @@
-{
-  "internalId": 2042239922,
-  "name": "Druidic Bench, Ivy Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonebench002.png",
-  "bindType": -1,
-  "knownIds": [
-    191164
-  ]
-}
+{"internalId":2042239922,"name":"Druidic Bench, Ivy Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonebench002.png","bindType":-1,"knownIds":[191164]}

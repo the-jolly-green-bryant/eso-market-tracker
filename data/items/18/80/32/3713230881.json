@@ -1,10 +1,1 @@
-{
-  "internalId": 3713230881,
-  "name": "Hagraven Matron Tapestry, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryhagravenmatronlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    188275
-  ]
-}
+{"internalId":3713230881,"name":"Hagraven Matron Tapestry, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryhagravenmatronlarge001.png","bindType":-1,"knownIds":[188275]}

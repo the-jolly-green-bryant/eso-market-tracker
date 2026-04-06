@@ -1,10 +1,1 @@
-{
-  "internalId": 2169813047,
-  "name": "Stamped Silver Pitcher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804497
-  ]
-}
+{"internalId":2169813047,"name":"Stamped Silver Pitcher","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[804497]}

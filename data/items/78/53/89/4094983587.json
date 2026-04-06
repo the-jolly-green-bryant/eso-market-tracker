@@ -1,10 +1,1 @@
-{
-  "internalId": 4094983587,
-  "name": "Dreamer's Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98123
-  ]
-}
+{"internalId":4094983587,"name":"Dreamer's Sash","description":"","icon":"data/images/d_/ts/ia/gear_altmer_light_waist_d.png","bindType":2,"knownIds":[98123]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 169376858,
-  "name": "Alchemical Reagent",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    825235
-  ]
-}
+{"internalId":169376858,"name":"Alchemical Reagent","description":"","icon":null,"bindType":-1,"knownIds":[825235]}

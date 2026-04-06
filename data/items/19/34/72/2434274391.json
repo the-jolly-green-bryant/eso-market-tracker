@@ -1,10 +1,1 @@
-{
-  "internalId": 2434274391,
-  "name": "Porcelain Snake Sweat Jar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826254
-  ]
-}
+{"internalId":2434274391,"name":"Porcelain Snake Sweat Jar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[826254]}

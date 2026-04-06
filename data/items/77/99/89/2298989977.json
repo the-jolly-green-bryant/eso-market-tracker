@@ -1,10 +1,1 @@
-{
-  "internalId": 2298989977,
-  "name": "Recipe: Psijic Order Pigs-In-A-Blanket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56957
-  ]
-}
+{"internalId":2298989977,"name":"Recipe: Psijic Order Pigs-In-A-Blanket","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56957]}

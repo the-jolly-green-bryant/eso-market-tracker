@@ -1,10 +1,1 @@
-{
-  "internalId": 1361357208,
-  "name": "Tree, Shade Ancient",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_castanopsis003.png",
-  "bindType": -1,
-  "knownIds": [
-    139335
-  ]
-}
+{"internalId":1361357208,"name":"Tree, Shade Ancient","description":"This is a huge house item.","icon":"data/images/30/0s/is/housing_tre_sum_castanopsis003.png","bindType":-1,"knownIds":[139335]}

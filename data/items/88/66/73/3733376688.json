@@ -1,10 +1,1 @@
-{
-  "internalId": 3733376688,
-  "name": "Bark-skinned Gages",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_hands_d.png",
-  "bindType": -1,
-  "knownIds": [
-    578632
-  ]
-}
+{"internalId":3733376688,"name":"Bark-skinned Gages","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_hands_d.png","bindType":-1,"knownIds":[578632]}

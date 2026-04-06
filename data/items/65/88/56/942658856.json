@@ -1,10 +1,1 @@
-{
-  "internalId": 942658856,
-  "name": "Vial of Vampire Blood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1272603
-  ]
-}
+{"internalId":942658856,"name":"Vial of Vampire Blood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[1272603]}

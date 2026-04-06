@@ -1,10 +1,1 @@
-{
-  "internalId": 60628075,
-  "name": "Prisoner's Shawl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    55946
-  ]
-}
+{"internalId":60628075,"name":"Prisoner's Shawl","description":"","icon":"data/images/a_/sr/ed/gear_draugr_light_shoulders_a.png","bindType":2,"knownIds":[55946]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1290028125,
-  "name": "Bound Affix Script: Defile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_defile.png",
-  "bindType": -1,
-  "knownIds": [
-    1719375,
-    1719644,
-    1719375,
-    1719644
-  ]
-}
+{"internalId":1290028125,"name":"Bound Affix Script: Defile","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_defile.png","bindType":-1,"knownIds":[1719375,1719644,1719375,1719644]}

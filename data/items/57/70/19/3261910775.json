@@ -1,10 +1,1 @@
-{
-  "internalId": 3261910775,
-  "name": "Narsis Mushroom Parasol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803046
-  ]
-}
+{"internalId":3261910775,"name":"Narsis Mushroom Parasol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png","bindType":-1,"knownIds":[803046]}

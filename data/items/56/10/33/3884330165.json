@@ -1,10 +1,1 @@
-{
-  "internalId": 3884330165,
-  "name": "Jewelry: Dreamer's Mantle",
-  "description": "A Light Armor set found in Stormhaven.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134046
-  ]
-}
+{"internalId":3884330165,"name":"Jewelry: Dreamer's Mantle","description":"A Light Armor set found in Stormhaven.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134046]}

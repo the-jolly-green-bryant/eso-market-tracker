@@ -1,13 +1,1 @@
-{
-  "internalId": 3135572372,
-  "name": "Retribution's Cowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    699547,
-    681541,
-    699547,
-    681541
-  ]
-}
+{"internalId":3135572372,"name":"Retribution's Cowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_head_d.png","bindType":-1,"knownIds":[699547,681541,699547,681541]}

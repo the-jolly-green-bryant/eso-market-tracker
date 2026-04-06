@@ -1,10 +1,1 @@
-{
-  "internalId": 3202506739,
-  "name": "Ice Staff of the Scathing Mage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_staff_c.png",
-  "bindType": -1,
-  "knownIds": [
-    1678083
-  ]
-}
+{"internalId":3202506739,"name":"Ice Staff of the Scathing Mage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperialdaedric_staff_c.png","bindType":-1,"knownIds":[1678083]}

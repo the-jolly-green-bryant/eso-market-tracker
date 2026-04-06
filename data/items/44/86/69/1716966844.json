@@ -1,10 +1,1 @@
-{
-  "internalId": 1716966844,
-  "name": "Elinhir Roast Anteloupe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    40299
-  ]
-}
+{"internalId":1716966844,"name":"Elinhir Roast Anteloupe","description":"","icon":"data/images/10/0_/ta/crafting_meat_001.png","bindType":-1,"knownIds":[40299]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 1822977497,
-  "name": "Talfyg's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1378808,
-    1379830,
-    1428231,
-    1435599,
-    1378808,
-    1379830,
-    1428231,
-    1435599
-  ]
-}
+{"internalId":1822977497,"name":"Talfyg's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1378808,1379830,1428231,1435599,1378808,1379830,1428231,1435599]}

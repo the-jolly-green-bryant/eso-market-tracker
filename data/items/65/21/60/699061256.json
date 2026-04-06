@@ -1,10 +1,1 @@
-{
-  "internalId": 699061256,
-  "name": "Three-Stab Crony",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1171124
-  ]
-}
+{"internalId":699061256,"name":"Three-Stab Crony","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[1171124]}

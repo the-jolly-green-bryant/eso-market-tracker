@@ -1,10 +1,1 @@
-{
-  "internalId": 3215025329,
-  "name": "Akaviri Table Vase",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vase_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1333385
-  ]
-}
+{"internalId":3215025329,"name":"Akaviri Table Vase","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vase_001.png","bindType":-1,"knownIds":[1333385]}

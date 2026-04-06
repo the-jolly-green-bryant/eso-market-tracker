@@ -1,10 +1,1 @@
-{
-  "internalId": 1691788369,
-  "name": "Argonian Snakes on a Rope",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_hangingsnakes001.png",
-  "bindType": -1,
-  "knownIds": [
-    115433
-  ]
-}
+{"internalId":1691788369,"name":"Argonian Snakes on a Rope","description":"This is a standard house item.","icon":"data/images/10/0s/ek/housing_arg_exc_hangingsnakes001.png","bindType":-1,"knownIds":[115433]}

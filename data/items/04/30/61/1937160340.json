@@ -1,10 +1,1 @@
-{
-  "internalId": 1937160340,
-  "name": "Crafty Alfiq Set Fragment 3",
-  "description": "This is one of three parts of the Crafty Alfiq Set Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_factotumhand_001.png",
-  "bindType": -1,
-  "knownIds": [
-    153638
-  ]
-}
+{"internalId":1937160340,"name":"Crafty Alfiq Set Fragment 3","description":"This is one of three parts of the Crafty Alfiq Set Runebox.","icon":"data/images/10/0_/dn/quest_factotumhand_001.png","bindType":-1,"knownIds":[153638]}

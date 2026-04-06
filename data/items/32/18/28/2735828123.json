@@ -1,10 +1,1 @@
-{
-  "internalId": 2735828123,
-  "name": "Clockwork Recharging Column, Octet",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_rechargecolumn001.png",
-  "bindType": -1,
-  "knownIds": [
-    134392
-  ]
-}
+{"internalId":2735828123,"name":"Clockwork Recharging Column, Octet","description":"This is a large house item.","icon":"data/images/10/0n/mu/housing_cwc_fur_rechargecolumn001.png","bindType":-1,"knownIds":[134392]}

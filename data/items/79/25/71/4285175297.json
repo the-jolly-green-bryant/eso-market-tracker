@@ -1,12 +1,1 @@
-{
-  "internalId": 4285175297,
-  "name": "Barbel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    848598,
-    848598,
-    848598
-  ]
-}
+{"internalId":4285175297,"name":"Barbel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[848598,848598,848598]}

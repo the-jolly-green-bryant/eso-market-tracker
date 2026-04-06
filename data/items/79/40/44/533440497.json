@@ -1,10 +1,1 @@
-{
-  "internalId": 533440497,
-  "name": "Cuirass of Rage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43802
-  ]
-}
+{"internalId":533440497,"name":"Cuirass of Rage","description":"","icon":"data/images/a_/ts/eh/gear_reach_heavy_chest_a.png","bindType":2,"knownIds":[43802]}

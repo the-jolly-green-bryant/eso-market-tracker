@@ -1,10 +1,1 @@
-{
-  "internalId": 2339682382,
-  "name": "Breton Stall, Vending",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_merchantstandhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    115179
-  ]
-}
+{"internalId":2339682382,"name":"Breton Stall, Vending","description":"This is a large house item.","icon":"data/images/10/0h/gi/housing_bre_csb_merchantstandhigh001.png","bindType":-1,"knownIds":[115179]}

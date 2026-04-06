@@ -1,10 +1,1 @@
-{
-  "internalId": 2076300772,
-  "name": "Adamant Lurker Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196037
-  ]
-}
+{"internalId":2076300772,"name":"Adamant Lurker Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[196037]}

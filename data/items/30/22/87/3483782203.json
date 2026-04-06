@@ -1,10 +1,1 @@
-{
-  "internalId": 3483782203,
-  "name": "Colovian Wine Goblet, Silver",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_cuphighfilled001.png",
-  "bindType": -1,
-  "knownIds": [
-    204710
-  ]
-}
+{"internalId":3483782203,"name":"Colovian Wine Goblet, Silver","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_cuphighfilled001.png","bindType":-1,"knownIds":[204710]}

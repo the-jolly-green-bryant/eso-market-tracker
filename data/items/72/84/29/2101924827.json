@@ -1,10 +1,1 @@
-{
-  "internalId": 2101924827,
-  "name": "Dragonstar Radish Kebabs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_004.png",
-  "bindType": -1,
-  "knownIds": [
-    57103
-  ]
-}
+{"internalId":2101924827,"name":"Dragonstar Radish Kebabs","description":"","icon":"data/images/40/0_/ta/crafting_meat_004.png","bindType":-1,"knownIds":[57103]}

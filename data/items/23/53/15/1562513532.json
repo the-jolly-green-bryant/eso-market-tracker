@@ -1,10 +1,1 @@
-{
-  "internalId": 1562513532,
-  "name": "Intricate Fishing Basket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    400690
-  ]
-}
+{"internalId":1562513532,"name":"Intricate Fishing Basket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png","bindType":-1,"knownIds":[400690]}

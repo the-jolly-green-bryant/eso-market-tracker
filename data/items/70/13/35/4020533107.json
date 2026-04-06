@@ -1,10 +1,1 @@
-{
-  "internalId": 4020533107,
-  "name": "Alchemist Survey: Deshaan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    459569
-  ]
-}
+{"internalId":4020533107,"name":"Alchemist Survey: Deshaan","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[459569]}

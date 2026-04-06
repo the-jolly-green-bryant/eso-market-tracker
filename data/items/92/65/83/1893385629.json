@@ -1,10 +1,1 @@
-{
-  "internalId": 1893385629,
-  "name": "Threads of War Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206494
-  ]
-}
+{"internalId":1893385629,"name":"Threads of War Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[206494]}

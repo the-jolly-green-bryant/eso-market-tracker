@@ -1,10 +1,1 @@
-{
-  "internalId": 3111391346,
-  "name": "Formula: Elsweyr Incense, Fragrant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy5.png",
-  "bindType": -1,
-  "knownIds": [
-    153733
-  ]
-}
+{"internalId":3111391346,"name":"Formula: Elsweyr Incense, Fragrant","description":"","icon":"data/images/5y/me/hc/crafting_planfurniture_alchemy5.png","bindType":-1,"knownIds":[153733]}

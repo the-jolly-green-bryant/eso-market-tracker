@@ -1,10 +1,1 @@
-{
-  "internalId": 3248807645,
-  "name": "Telvanni Efficiency Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    195293
-  ]
-}
+{"internalId":3248807645,"name":"Telvanni Efficiency Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[195293]}

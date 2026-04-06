@@ -1,10 +1,1 @@
-{
-  "internalId": 2007947097,
-  "name": "Redguard Shelf, Bolted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varwallshelf002.png",
-  "bindType": -1,
-  "knownIds": [
-    117799
-  ]
-}
+{"internalId":2007947097,"name":"Redguard Shelf, Bolted","description":"This is a standard house item.","icon":"data/images/20/0f/le/housing_red_fur_varwallshelf002.png","bindType":-1,"knownIds":[117799]}

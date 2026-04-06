@@ -1,10 +1,1 @@
-{
-  "internalId": 999366539,
-  "name": "Plant, Tall Flowering Yucca",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_yuccaplant002.png",
-  "bindType": -1,
-  "knownIds": [
-    120462
-  ]
-}
+{"internalId":999366539,"name":"Plant, Tall Flowering Yucca","description":"This is a standard house item.","icon":"data/images/20/0t/na/housing_veg_bsh_yuccaplant002.png","bindType":-1,"knownIds":[120462]}

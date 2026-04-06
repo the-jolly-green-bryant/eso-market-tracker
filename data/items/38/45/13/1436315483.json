@@ -1,10 +1,1 @@
-{
-  "internalId": 1436315483,
-  "name": "Mourning Sash",
-  "description": "The newly widowed Queen Arzhela gifted this sash in thanks for uncovering the Imperial spy plot in Evermore.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15611
-  ]
-}
+{"internalId":1436315483,"name":"Mourning Sash","description":"The newly widowed Queen Arzhela gifted this sash in thanks for uncovering the Imperial spy plot in Evermore.","icon":"data/images/d_/ts/ia/gear_breton_light_waist_d.png","bindType":2,"knownIds":[15611]}

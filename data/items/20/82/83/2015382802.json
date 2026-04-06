@@ -1,10 +1,1 @@
-{
-  "internalId": 2015382802,
-  "name": "Giant Hammerjaw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_merringar.png",
-  "bindType": -1,
-  "knownIds": [
-    794533
-  ]
-}
+{"internalId":2015382802,"name":"Giant Hammerjaw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_merringar.png","bindType":-1,"knownIds":[794533]}

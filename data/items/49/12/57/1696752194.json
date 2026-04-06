@@ -1,10 +1,1 @@
-{
-  "internalId": 1696752194,
-  "name": "Spiral Dazzler",
-  "description": "This unstable alchemical concoction creates a spiral of sparks around you when used.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_dazzler_003.png",
-  "bindType": -1,
-  "knownIds": [
-    114948
-  ]
-}
+{"internalId":1696752194,"name":"Spiral Dazzler","description":"This unstable alchemical concoction creates a spiral of sparks around you when used.","icon":"data/images/30/0_/re/event_jestersfestival_2016_dazzler_003.png","bindType":-1,"knownIds":[114948]}

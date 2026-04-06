@@ -1,10 +1,1 @@
-{
-  "internalId": 1614140521,
-  "name": "Narsis Bantam Guar Hash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33797
-  ]
-}
+{"internalId":1614140521,"name":"Narsis Bantam Guar Hash","description":"","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[33797]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2713614956,
-  "name": "Design: Dawnwood Decor, Wrapped Bone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    211432
-  ]
-}
+{"internalId":2713614956,"name":"Design: Dawnwood Decor, Wrapped Bone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[211432]}

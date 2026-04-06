@@ -1,10 +1,1 @@
-{
-  "internalId": 531451779,
-  "name": "Axe of Redistribution",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60611
-  ]
-}
+{"internalId":531451779,"name":"Axe of Redistribution","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[60611]}

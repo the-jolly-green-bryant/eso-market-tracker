@@ -1,10 +1,1 @@
-{
-  "internalId": 1222780817,
-  "name": "Mad Tinkerer's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133014
-  ]
-}
+{"internalId":1222780817,"name":"Mad Tinkerer's Breeches","description":"","icon":"data/images/a_/sg/el/gear_apostle_light_legs_a.png","bindType":2,"knownIds":[133014]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3137500354,
-  "name": "Rotten Tail Keepsake",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1324919
-  ]
-}
+{"internalId":3137500354,"name":"Rotten Tail Keepsake","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png","bindType":-1,"knownIds":[1324919]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 553905815,
-  "name": "dram of Potent Stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1518212
-  ]
-}
+{"internalId":553905815,"name":"dram of Potent Stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_002.png","bindType":-1,"knownIds":[1518212]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1553848740,
-  "name": "Recipe: Redoran Peppered Melon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45948
-  ]
-}
+{"internalId":1553848740,"name":"Recipe: Redoran Peppered Melon","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45948]}

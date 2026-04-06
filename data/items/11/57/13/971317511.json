@@ -1,10 +1,1 @@
-{
-  "internalId": 971317511,
-  "name": "Bonds of Rajhin's Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1416843
-  ]
-}
+{"internalId":971317511,"name":"Bonds of Rajhin's Favor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[1416843]}

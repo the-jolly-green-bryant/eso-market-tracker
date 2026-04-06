@@ -1,10 +1,1 @@
-{
-  "internalId": 355579457,
-  "name": "Locket of Cyrodiil's Crest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    55913
-  ]
-}
+{"internalId":355579457,"name":"Locket of Cyrodiil's Crest","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[55913]}

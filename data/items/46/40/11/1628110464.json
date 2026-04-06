@@ -1,10 +1,1 @@
-{
-  "internalId": 1628110464,
-  "name": "Flowers, Sturdy Blue Wisteria",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_bonsaiwisteria001.png",
-  "bindType": -1,
-  "knownIds": [
-    212573
-  ]
-}
+{"internalId":1628110464,"name":"Flowers, Sturdy Blue Wisteria","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_bonsaiwisteria001.png","bindType":-1,"knownIds":[212573]}

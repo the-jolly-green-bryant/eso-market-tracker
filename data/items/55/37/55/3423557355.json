@@ -1,10 +1,1 @@
-{
-  "internalId": 3423557355,
-  "name": "Morthal Longfin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_perch.png",
-  "bindType": -1,
-  "knownIds": [
-    1366402
-  ]
-}
+{"internalId":3423557355,"name":"Morthal Longfin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_perch.png","bindType":-1,"knownIds":[1366402]}

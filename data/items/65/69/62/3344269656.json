@@ -1,10 +1,1 @@
-{
-  "internalId": 3344269656,
-  "name": "trifling glyph of decrease physical harm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasephysicaldamage.png",
-  "bindType": -1,
-  "knownIds": [
-    407126
-  ]
-}
+{"internalId":3344269656,"name":"trifling glyph of decrease physical harm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasephysicaldamage.png","bindType":-1,"knownIds":[407126]}

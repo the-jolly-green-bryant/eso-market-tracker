@@ -1,15 +1,1 @@
-{
-  "internalId": 730484802,
-  "name": "panacea of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    373956,
-    692346,
-    1596526,
-    373956,
-    692346,
-    1596526
-  ]
-}
+{"internalId":730484802,"name":"panacea of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png","bindType":-1,"knownIds":[373956,692346,1596526,373956,692346,1596526]}

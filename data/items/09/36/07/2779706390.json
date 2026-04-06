@@ -1,10 +1,1 @@
-{
-  "internalId": 2779706390,
-  "name": "Wood Elf Bladder, Fermenting",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_beertummy002.png",
-  "bindType": -1,
-  "knownIds": [
-    115586
-  ]
-}
+{"internalId":2779706390,"name":"Wood Elf Bladder, Fermenting","description":"This is a standard house item.","icon":"data/images/20/0y/mm/housing_bos_inc_beertummy002.png","bindType":-1,"knownIds":[115586]}

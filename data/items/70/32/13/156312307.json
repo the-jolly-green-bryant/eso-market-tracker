@@ -1,10 +1,1 @@
-{
-  "internalId": 156312307,
-  "name": "Jack of Oblivion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44077
-  ]
-}
+{"internalId":156312307,"name":"Jack of Oblivion","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[44077]}

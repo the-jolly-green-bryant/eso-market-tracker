@@ -1,10 +1,1 @@
-{
-  "internalId": 788349108,
-  "name": "Moonlight Path Bridge",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_jodebridgehousing001.png",
-  "bindType": -1,
-  "knownIds": [
-    188343
-  ]
-}
+{"internalId":788349108,"name":"Moonlight Path Bridge","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_jodebridgehousing001.png","bindType":-1,"knownIds":[188343]}

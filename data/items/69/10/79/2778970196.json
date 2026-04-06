@@ -1,10 +1,1 @@
-{
-  "internalId": 2778970196,
-  "name": "Ravaging Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89588
-  ]
-}
+{"internalId":2778970196,"name":"Ravaging Greatsword","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[89588]}

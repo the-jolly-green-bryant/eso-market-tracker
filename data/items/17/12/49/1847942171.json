@@ -1,10 +1,1 @@
-{
-  "internalId": 1847942171,
-  "name": "Crafting Motif 57: Ebonshadow Style",
-  "description": "Use to learn the Ebonshadow crafting style. Also teaches the equivalent Ebonshadow Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    132581
-  ]
-}
+{"internalId":1847942171,"name":"Crafting Motif 57: Ebonshadow Style","description":"Use to learn the Ebonshadow crafting style. Also teaches the equivalent Ebonshadow Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[132581]}

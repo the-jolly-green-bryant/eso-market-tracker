@@ -1,10 +1,1 @@
-{
-  "internalId": 2667213296,
-  "name": "Wrothgar Puzzle Cube, Mountains",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgpuzzleswitch001.png",
-  "bindType": -1,
-  "knownIds": [
-    193797
-  ]
-}
+{"internalId":2667213296,"name":"Wrothgar Puzzle Cube, Mountains","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgpuzzleswitch001.png","bindType":-1,"knownIds":[193797]}

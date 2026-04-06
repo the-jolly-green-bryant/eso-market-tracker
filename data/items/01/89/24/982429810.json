@@ -1,10 +1,1 @@
-{
-  "internalId": 982429810,
-  "name": "Deadlands Sconce, Horned",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedwallsconce001.png",
-  "bindType": -1,
-  "knownIds": [
-    171945
-  ]
-}
+{"internalId":982429810,"name":"Deadlands Sconce, Horned","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedwallsconce001.png","bindType":-1,"knownIds":[171945]}

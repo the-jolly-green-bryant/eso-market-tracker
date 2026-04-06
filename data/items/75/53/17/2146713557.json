@@ -1,10 +1,1 @@
-{
-  "internalId": 2146713557,
-  "name": "Lord's Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_goldensaint_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44182
-  ]
-}
+{"internalId":2146713557,"name":"Lord's Pauldrons","description":"","icon":"data/images/a_/sr/ed/gear_goldensaint_shoulders_a.png","bindType":2,"knownIds":[44182]}

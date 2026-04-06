@@ -1,10 +1,1 @@
-{
-  "internalId": 161552053,
-  "name": "Folding Calipers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909214
-  ]
-}
+{"internalId":161552053,"name":"Folding Calipers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[909214]}

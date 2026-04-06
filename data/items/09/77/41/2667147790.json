@@ -1,10 +1,1 @@
-{
-  "internalId": 2667147790,
-  "name": "Imperial Pillar, Straight",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_exc_iccolumn001.png",
-  "bindType": -1,
-  "knownIds": [
-    94193
-  ]
-}
+{"internalId":2667147790,"name":"Imperial Pillar, Straight","description":"This is a huge house item.","icon":"data/images/10/0n/mu/housing_imp_exc_iccolumn001.png","bindType":-1,"knownIds":[94193]}

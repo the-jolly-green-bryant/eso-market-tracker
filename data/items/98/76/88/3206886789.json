@@ -1,10 +1,1 @@
-{
-  "internalId": 3206886789,
-  "name": "Solitude Jewelry Box, Copper and Agate",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_smallbox002.png",
-  "bindType": -1,
-  "knownIds": [
-    165716
-  ]
-}
+{"internalId":3206886789,"name":"Solitude Jewelry Box, Copper and Agate","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_smallbox002.png","bindType":-1,"knownIds":[165716]}

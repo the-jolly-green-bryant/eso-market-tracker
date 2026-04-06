@@ -1,13 +1,1 @@
-{
-  "internalId": 3341966894,
-  "name": "Icy Conjurer's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1639392,
-    1771327,
-    1639392,
-    1771327
-  ]
-}
+{"internalId":3341966894,"name":"Icy Conjurer's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_staff_a.png","bindType":-1,"knownIds":[1639392,1771327,1639392,1771327]}

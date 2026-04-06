@@ -1,10 +1,1 @@
-{
-  "internalId": 574903181,
-  "name": "Winter-Shoeing Kit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385053
-  ]
-}
+{"internalId":574903181,"name":"Winter-Shoeing Kit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[1385053]}

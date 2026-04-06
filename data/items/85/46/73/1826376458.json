@@ -1,10 +1,1 @@
-{
-  "internalId": 1826376458,
-  "name": "Orcthane's Victory Flag",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_003.png",
-  "bindType": -1,
-  "knownIds": [
-    804492
-  ]
-}
+{"internalId":1826376458,"name":"Orcthane's Victory Flag","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_003.png","bindType":-1,"knownIds":[804492]}

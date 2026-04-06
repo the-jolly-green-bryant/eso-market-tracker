@@ -1,10 +1,1 @@
-{
-  "internalId": 3146397560,
-  "name": "High Elf Plate, Dinner",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_platter002.png",
-  "bindType": -1,
-  "knownIds": [
-    114337
-  ]
-}
+{"internalId":3146397560,"name":"High Elf Plate, Dinner","description":"This is a small house item.","icon":"data/images/20/0r/et/housing_alt_inc_platter002.png","bindType":-1,"knownIds":[114337]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 698788877,
-  "name": "Stibbons's Dress Shirt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    377613,
-    743056,
-    377613,
-    743056
-  ]
-}
+{"internalId":698788877,"name":"Stibbons's Dress Shirt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png","bindType":-1,"knownIds":[377613,743056,377613,743056]}

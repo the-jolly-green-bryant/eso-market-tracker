@@ -1,13 +1,1 @@
-{
-  "internalId": 2870165518,
-  "name": "Basalt-Blooded Warrior Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_2hmace.png",
-  "bindType": -1,
-  "knownIds": [
-    1689562,
-    1779093,
-    1689562,
-    1779093
-  ]
-}
+{"internalId":2870165518,"name":"Basalt-Blooded Warrior Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_2hmace.png","bindType":-1,"knownIds":[1689562,1779093,1689562,1779093]}

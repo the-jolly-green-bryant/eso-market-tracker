@@ -1,10 +1,1 @@
-{
-  "internalId": 2580899655,
-  "name": "Pouch of Dried Marshweed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1280210
-  ]
-}
+{"internalId":2580899655,"name":"Pouch of Dried Marshweed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[1280210]}

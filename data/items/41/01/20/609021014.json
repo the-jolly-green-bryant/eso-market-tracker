@@ -1,10 +1,1 @@
-{
-  "internalId": 609021014,
-  "name": "Style Page: Opal Bloodspawn Staff",
-  "description": "Use to learn the Opal Bloodspawn Staff Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156824
-  ]
-}
+{"internalId":609021014,"name":"Style Page: Opal Bloodspawn Staff","description":"Use to learn the Opal Bloodspawn Staff Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156824]}

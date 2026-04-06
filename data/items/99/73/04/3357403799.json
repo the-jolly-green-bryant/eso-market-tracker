@@ -1,10 +1,1 @@
-{
-  "internalId": 3357403799,
-  "name": "Crafting Motif 44: Silken Ring Maces",
-  "description": "Use to learn how to make Silken Ring Maces. Also teaches the equivalent Silken Ring Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    114977
-  ]
-}
+{"internalId":3357403799,"name":"Crafting Motif 44: Silken Ring Maces","description":"Use to learn how to make Silken Ring Maces. Also teaches the equivalent Silken Ring Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[114977]}

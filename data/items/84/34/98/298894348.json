@@ -1,10 +1,1 @@
-{
-  "internalId": 298894348,
-  "name": "Khajiit Tent, Mercantile",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_cmp_tentmediummerchant001.png",
-  "bindType": -1,
-  "knownIds": [
-    115673
-  ]
-}
+{"internalId":298894348,"name":"Khajiit Tent, Mercantile","description":"This is a large house item.","icon":"data/images/10/0t/na/housing_kha_cmp_tentmediummerchant001.png","bindType":-1,"knownIds":[115673]}

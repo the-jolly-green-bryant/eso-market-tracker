@@ -1,10 +1,1 @@
-{
-  "internalId": 3908240110,
-  "name": "Prowler's Coin",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    940254
-  ]
-}
+{"internalId":3908240110,"name":"Prowler's Coin","description":"","icon":null,"bindType":-1,"knownIds":[940254]}

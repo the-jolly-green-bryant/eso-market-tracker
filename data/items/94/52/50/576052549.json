@@ -1,10 +1,1 @@
-{
-  "internalId": 576052549,
-  "name": "Recipe: Spicy Wyress Wine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57039
-  ]
-}
+{"internalId":576052549,"name":"Recipe: Spicy Wyress Wine","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57039]}

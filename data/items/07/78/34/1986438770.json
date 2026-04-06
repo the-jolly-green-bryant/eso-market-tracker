@@ -1,10 +1,1 @@
-{
-  "internalId": 1986438770,
-  "name": "Words of the Wind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png",
-  "bindType": -1,
-  "knownIds": [
-    1095938
-  ]
-}
+{"internalId":1986438770,"name":"Words of the Wind","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png","bindType":-1,"knownIds":[1095938]}

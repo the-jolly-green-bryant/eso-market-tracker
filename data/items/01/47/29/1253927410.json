@@ -1,10 +1,1 @@
-{
-  "internalId": 1253927410,
-  "name": "Tava's Favor Jewelry",
-  "description": "A Crafted Armor set constructed in Hew's Bane.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182691
-  ]
-}
+{"internalId":1253927410,"name":"Tava's Favor Jewelry","description":"A Crafted Armor set constructed in Hew's Bane.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182691]}

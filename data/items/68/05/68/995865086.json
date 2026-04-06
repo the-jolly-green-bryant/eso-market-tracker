@@ -1,10 +1,1 @@
-{
-  "internalId": 995865086,
-  "name": "Seeker Synthesis Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    195677
-  ]
-}
+{"internalId":995865086,"name":"Seeker Synthesis Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png","bindType":2,"knownIds":[195677]}

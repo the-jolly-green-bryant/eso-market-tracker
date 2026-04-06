@@ -1,10 +1,1 @@
-{
-  "internalId": 1230435299,
-  "name": "Gold Coast Missive",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    813031
-  ]
-}
+{"internalId":1230435299,"name":"Gold Coast Missive","description":"","icon":null,"bindType":-1,"knownIds":[813031]}

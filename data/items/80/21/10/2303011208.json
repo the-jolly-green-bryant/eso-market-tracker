@@ -1,10 +1,1 @@
-{
-  "internalId": 2303011208,
-  "name": "Glass Strand Golg'leef",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1223782
-  ]
-}
+{"internalId":2303011208,"name":"Glass Strand Golg'leef","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png","bindType":-1,"knownIds":[1223782]}

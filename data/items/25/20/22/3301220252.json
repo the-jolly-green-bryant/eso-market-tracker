@@ -1,10 +1,1 @@
-{
-  "internalId": 3301220252,
-  "name": "Dwarven Lantern, Polished Wall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_marklampwallon001.png",
-  "bindType": -1,
-  "knownIds": [
-    167300
-  ]
-}
+{"internalId":3301220252,"name":"Dwarven Lantern, Polished Wall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_marklampwallon001.png","bindType":-1,"knownIds":[167300]}

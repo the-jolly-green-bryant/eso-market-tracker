@@ -1,10 +1,1 @@
-{
-  "internalId": 1441988910,
-  "name": "Imperial Altar of the Bay",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_cathedralaltar002.png",
-  "bindType": -1,
-  "knownIds": [
-    94198
-  ]
-}
+{"internalId":1441988910,"name":"Imperial Altar of the Bay","description":"This is a large house item.","icon":"data/images/20/0r/at/housing_nib_str_cathedralaltar002.png","bindType":-1,"knownIds":[94198]}

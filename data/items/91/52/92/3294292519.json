@@ -1,10 +1,1 @@
-{
-  "internalId": 3294292519,
-  "name": "Verelnim Ancestral Tomb Rubbing",
-  "description": "A rubbing containing a clue to help locate the lost Library of Andule. Bring it to Librarian Bradyn in Vivec City, in Vvardenfell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": 3,
-  "knownIds": [
-    114319
-  ]
-}
+{"internalId":3294292519,"name":"Verelnim Ancestral Tomb Rubbing","description":"A rubbing containing a clue to help locate the lost Library of Andule. Bring it to Librarian Bradyn in Vivec City, in Vvardenfell.","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":3,"knownIds":[114319]}

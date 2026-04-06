@@ -1,10 +1,1 @@
-{
-  "internalId": 2126464891,
-  "name": "Heart's Day Rose Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_006.png",
-  "bindType": -1,
-  "knownIds": [
-    71250
-  ]
-}
+{"internalId":2126464891,"name":"Heart's Day Rose Tea","description":"","icon":"data/images/60/0_/ae/crafting_tea_006.png","bindType":-1,"knownIds":[71250]}

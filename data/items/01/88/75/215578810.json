@@ -1,10 +1,1 @@
-{
-  "internalId": 215578810,
-  "name": "Brass Anvil Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    895939
-  ]
-}
+{"internalId":215578810,"name":"Brass Anvil Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[895939]}

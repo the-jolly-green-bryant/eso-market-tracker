@@ -1,15 +1,1 @@
-{
-  "internalId": 2960776436,
-  "name": "Spattering Disjunction Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_2hsword.png",
-  "bindType": -1,
-  "knownIds": [
-    1735194,
-    1770174,
-    1773259,
-    1735194,
-    1770174,
-    1773259
-  ]
-}
+{"internalId":2960776436,"name":"Spattering Disjunction Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_2hsword.png","bindType":-1,"knownIds":[1735194,1770174,1773259,1735194,1770174,1773259]}

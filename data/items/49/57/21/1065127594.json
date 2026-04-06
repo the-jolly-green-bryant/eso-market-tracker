@@ -1,10 +1,1 @@
-{
-  "internalId": 1065127594,
-  "name": "Khajiit End Table, Faded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_table002.png",
-  "bindType": -1,
-  "knownIds": [
-    115641
-  ]
-}
+{"internalId":1065127594,"name":"Khajiit End Table, Faded","description":"This is a standard house item.","icon":"data/images/20/0e/lb/housing_kha_fur_table002.png","bindType":-1,"knownIds":[115641]}

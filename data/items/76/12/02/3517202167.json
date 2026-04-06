@@ -1,10 +1,1 @@
-{
-  "internalId": 3517202167,
-  "name": "Blessing of High Isle Set Box",
-  "description": "Contains 5 gear pieces from the Blessing of High Isle set.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
-  "bindType": 3,
-  "knownIds": [
-    188258
-  ]
-}
+{"internalId":3517202167,"name":"Blessing of High Isle Set Box","description":"Contains 5 gear pieces from the Blessing of High Isle set.","icon":"https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png","bindType":3,"knownIds":[188258]}

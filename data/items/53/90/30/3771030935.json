@@ -1,10 +1,1 @@
-{
-  "internalId": 3771030935,
-  "name": "Gauntlets of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199255
-  ]
-}
+{"internalId":3771030935,"name":"Gauntlets of Fury","description":"","icon":"data/images/a_/sd/na/gear_abahswatch_heavy_hands_a.png","bindType":2,"knownIds":[79806]}

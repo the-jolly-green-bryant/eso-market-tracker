@@ -1,17 +1,1 @@
-{
-  "internalId": 2502745012,
-  "name": "Monolith of Storms Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1679870,
-    1681203,
-    1688494,
-    1692894,
-    1679870,
-    1681203,
-    1688494,
-    1692894
-  ]
-}
+{"internalId":2502745012,"name":"Monolith of Storms Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_chest_a.png","bindType":-1,"knownIds":[1679870,1681203,1688494,1692894,1679870,1681203,1688494,1692894]}

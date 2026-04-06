@@ -1,10 +1,1 @@
-{
-  "internalId": 2022303776,
-  "name": "Argonian Chair, Woven",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkchair001.png",
-  "bindType": -1,
-  "knownIds": [
-    115471
-  ]
-}
+{"internalId":2022303776,"name":"Argonian Chair, Woven","description":"This is a standard house item.","icon":"data/images/10/0r/ia/housing_arg_fur_mrkchair001.png","bindType":-1,"knownIds":[115471]}

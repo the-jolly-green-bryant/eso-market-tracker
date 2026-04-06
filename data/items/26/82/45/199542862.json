@@ -1,10 +1,1 @@
-{
-  "internalId": 199542862,
-  "name": "Ra Gada Throne, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varyokudanthrone001.png",
-  "bindType": -1,
-  "knownIds": [
-    156647
-  ]
-}
+{"internalId":199542862,"name":"Ra Gada Throne, Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varyokudanthrone001.png","bindType":-1,"knownIds":[156647]}

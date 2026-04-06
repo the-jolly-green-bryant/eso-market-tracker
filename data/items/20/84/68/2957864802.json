@@ -1,10 +1,1 @@
-{
-  "internalId": 2957864802,
-  "name": "Greaves of the Insatiable",
-  "description": "You took these Daedric greaves as a trophy of your victory over the Insatiable beneath Cey-Tarn Keep.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    134704
-  ]
-}
+{"internalId":2957864802,"name":"Greaves of the Insatiable","description":"You took these Daedric greaves as a trophy of your victory over the Insatiable beneath Cey-Tarn Keep.","icon":"data/images/a_/sg/el/gear_daedric_heavy_legs_a.png","bindType":2,"knownIds":[134704]}

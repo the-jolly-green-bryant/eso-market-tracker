@@ -1,11 +1,1 @@
-{
-  "internalId": 4216936013,
-  "name": "wolf-eel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png",
-  "bindType": -1,
-  "knownIds": [
-    381486,
-    381486
-  ]
-}
+{"internalId":4216936013,"name":"wolf-eel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png","bindType":-1,"knownIds":[381486,381486]}

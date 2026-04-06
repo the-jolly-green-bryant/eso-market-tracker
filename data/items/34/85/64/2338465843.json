@@ -1,10 +1,1 @@
-{
-  "internalId": 2338465843,
-  "name": "Alinor Table, Noble Intimate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_tablesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    139270
-  ]
-}
+{"internalId":2338465843,"name":"Alinor Table, Noble Intimate","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_sum_fur_tablesmall001.png","bindType":-1,"knownIds":[139270]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 973571667,
-  "name": "King Deleyn's Silk Gloves",
-  "description": "These antique hand coverings were bestowed by the spirit of King Deleyn for returning the stolen regalia to the Burial Mounds.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1166
-  ]
-}
+{"internalId":973571667,"name":"King Deleyn's Silk Gloves","description":"These antique hand coverings were bestowed by the spirit of King Deleyn for returning the stolen regalia to the Burial Mounds.","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":2,"knownIds":[1166]}

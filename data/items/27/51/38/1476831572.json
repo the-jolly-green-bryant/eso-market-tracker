@@ -1,10 +1,1 @@
-{
-  "internalId": 1476831572,
-  "name": "Alinor Curtains, Tall Drawn",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_drapeslong001.png",
-  "bindType": -1,
-  "knownIds": [
-    139312
-  ]
-}
+{"internalId":1476831572,"name":"Alinor Curtains, Tall Drawn","description":"This is a large house item.","icon":"data/images/10/0g/no/housing_sum_inc_drapeslong001.png","bindType":-1,"knownIds":[139312]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 284061165,
-  "name": "Jack of Torug's Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56515
-  ]
-}
+{"internalId":284061165,"name":"Jack of Torug's Pact","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[56515]}

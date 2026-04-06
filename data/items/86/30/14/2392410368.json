@@ -1,15 +1,1 @@
-{
-  "internalId": 2392410368,
-  "name": "Spattering Disjunction Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1hdagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1746603,
-    1763125,
-    1771463,
-    1746603,
-    1763125,
-    1771463
-  ]
-}
+{"internalId":2392410368,"name":"Spattering Disjunction Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1hdagger.png","bindType":-1,"knownIds":[1746603,1763125,1771463,1746603,1763125,1771463]}

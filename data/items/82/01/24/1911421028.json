@@ -1,10 +1,1 @@
-{
-  "internalId": 1911421028,
-  "name": "Hand-Knitted Woolen Scarf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795574
-  ]
-}
+{"internalId":1911421028,"name":"Hand-Knitted Woolen Scarf","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png","bindType":-1,"knownIds":[795574]}

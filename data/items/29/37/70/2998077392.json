@@ -1,13 +1,1 @@
-{
-  "internalId": 2998077392,
-  "name": "Kyne's Mundane Coffer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1368135,
-    1383918,
-    1368135,
-    1383918
-  ]
-}
+{"internalId":2998077392,"name":"Kyne's Mundane Coffer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1368135,1383918,1368135,1383918]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 429920366,
-  "name": "Toadstool, Bloodtooth",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdbloodtooth001.png",
-  "bindType": -1,
-  "knownIds": [
-    125670
-  ]
-}
+{"internalId":429920366,"name":"Toadstool, Bloodtooth","description":"This is a tiny house item.","icon":"data/images/10/0h/to/housing_veg_fug_vrdbloodtooth001.png","bindType":-1,"knownIds":[125670]}

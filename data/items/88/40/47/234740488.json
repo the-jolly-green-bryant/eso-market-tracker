@@ -1,10 +1,1 @@
-{
-  "internalId": 234740488,
-  "name": "Undead Expulsion Pouch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    805962
-  ]
-}
+{"internalId":234740488,"name":"Undead Expulsion Pouch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[805962]}

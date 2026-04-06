@@ -1,10 +1,1 @@
-{
-  "internalId": 588264283,
-  "name": "Scorpion Shell Peeler",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    420802
-  ]
-}
+{"internalId":588264283,"name":"Scorpion Shell Peeler","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png","bindType":-1,"knownIds":[420802]}

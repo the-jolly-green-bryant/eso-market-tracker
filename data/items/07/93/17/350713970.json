@@ -1,10 +1,1 @@
-{
-  "internalId": 350713970,
-  "name": "Mirri Booster",
-  "description": "Maximizes rapport with Mirri",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
-  "bindType": -1,
-  "knownIds": [
-    175798
-  ]
-}
+{"internalId":350713970,"name":"Mirri Booster","description":"Maximizes rapport with Mirri","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png","bindType":-1,"knownIds":[175798]}

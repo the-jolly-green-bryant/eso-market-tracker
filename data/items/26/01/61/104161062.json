@@ -1,10 +1,1 @@
-{
-  "internalId": 104161062,
-  "name": "Sparkleball's Demise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1369451
-  ]
-}
+{"internalId":104161062,"name":"Sparkleball's Demise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[1369451]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2799378687,
-  "name": "High Isle Table, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablehighmedplain001.png",
-  "bindType": -1,
-  "knownIds": [
-    187823
-  ]
-}
+{"internalId":2799378687,"name":"High Isle Table, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablehighmedplain001.png","bindType":-1,"knownIds":[187823]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3450456496,
-  "name": "Elsweyr Incense, Fragrant",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_incenseburner003.png",
-  "bindType": -1,
-  "knownIds": [
-    153655
-  ]
-}
+{"internalId":3450456496,"name":"Elsweyr Incense, Fragrant","description":"This is a tiny house item.","icon":"data/images/30/0r/en/housing_els_inc_incenseburner003.png","bindType":-1,"knownIds":[153655]}

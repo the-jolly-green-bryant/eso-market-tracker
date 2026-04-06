@@ -1,10 +1,1 @@
-{
-  "internalId": 248020683,
-  "name": "Cleaver, Butcher's",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_exc_cleaver002.png",
-  "bindType": -1,
-  "knownIds": [
-    118094
-  ]
-}
+{"internalId":248020683,"name":"Cleaver, Butcher's","description":"This is a standard house item.","icon":"data/images/20/0r/ev/housing_bre_exc_cleaver002.png","bindType":-1,"knownIds":[118094]}

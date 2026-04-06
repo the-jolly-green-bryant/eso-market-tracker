@@ -1,10 +1,1 @@
-{
-  "internalId": 1894206478,
-  "name": "Senche's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    81144
-  ]
-}
+{"internalId":1894206478,"name":"Senche's Axe","description":"","icon":"data/images/d_/ex/ah/gear_khajiit_1haxe_d.png","bindType":2,"knownIds":[81144]}

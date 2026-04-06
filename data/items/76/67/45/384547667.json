@@ -1,10 +1,1 @@
-{
-  "internalId": 384547667,
-  "name": "Kwama-Hide Cops",
-  "description": "These tough hide shoulder pieces were your reward for putting an end to a dangerous scheme in the Matus-Akin Egg Mine.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126074
-  ]
-}
+{"internalId":384547667,"name":"Kwama-Hide Cops","description":"These tough hide shoulder pieces were your reward for putting an end to a dangerous scheme in the Matus-Akin Egg Mine.","icon":"data/images/a_/sr/ed/gear_hlaalu_medium_shoulders_a.png","bindType":2,"knownIds":[126074]}

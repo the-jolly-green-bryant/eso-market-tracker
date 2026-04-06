@@ -1,10 +1,1 @@
-{
-  "internalId": 964492798,
-  "name": "Blueprint: Telvanni Nightstand, Fungal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    197583
-  ]
-}
+{"internalId":964492798,"name":"Blueprint: Telvanni Nightstand, Fungal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[197583]}

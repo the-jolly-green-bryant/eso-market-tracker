@@ -1,13 +1,1 @@
-{
-  "internalId": 3930154039,
-  "name": "Bound Signature Script: Gladiator's Tenacity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_damagereduction.png",
-  "bindType": -1,
-  "knownIds": [
-    1721511,
-    1721800,
-    1721511,
-    1721800
-  ]
-}
+{"internalId":3930154039,"name":"Bound Signature Script: Gladiator's Tenacity","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_damagereduction.png","bindType":-1,"knownIds":[1721511,1721800,1721511,1721800]}

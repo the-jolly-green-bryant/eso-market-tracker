@@ -1,10 +1,1 @@
-{
-  "internalId": 245259630,
-  "name": "Key to the Ship's Hold",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    794472
-  ]
-}
+{"internalId":245259630,"name":"Key to the Ship's Hold","description":"","icon":null,"bindType":-1,"knownIds":[794472]}

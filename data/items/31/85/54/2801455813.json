@@ -1,10 +1,1 @@
-{
-  "internalId": 2801455813,
-  "name": "Crafting Motif 120: Scribes of Mora Axes",
-  "description": "Use to learn how to make Scribes of Mora Axes. Also teaches the equivalent Scribes of Mora Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    190890
-  ]
-}
+{"internalId":2801455813,"name":"Crafting Motif 120: Scribes of Mora Axes","description":"Use to learn how to make Scribes of Mora Axes. Also teaches the equivalent Scribes of Mora Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[190890]}

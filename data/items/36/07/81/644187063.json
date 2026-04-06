@@ -1,17 +1,1 @@
-{
-  "internalId": 644187063,
-  "name": "Vrol's Perfected Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1716174,
-    1716364,
-    1743033,
-    1772877,
-    1716174,
-    1716364,
-    1743033,
-    1772877
-  ]
-}
+{"internalId":644187063,"name":"Vrol's Perfected Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_staff.png","bindType":-1,"knownIds":[1716174,1716364,1743033,1772877,1716174,1716364,1743033,1772877]}

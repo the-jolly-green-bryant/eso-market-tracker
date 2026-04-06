@@ -1,10 +1,1 @@
-{
-  "internalId": 3306672255,
-  "name": "Trollsmasher",
-  "description": "Defeating Manglemaw the troll would have been easier if you'd had this mace beforehand.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10892
-  ]
-}
+{"internalId":3306672255,"name":"Trollsmasher","description":"Defeating Manglemaw the troll would have been easier if you'd had this mace beforehand.","icon":"data/images/d_/re/mm/gear_bosmer_1hhammer_d.png","bindType":2,"knownIds":[10892]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 72661500,
-  "name": "Rosy Disposition Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_spirit_of_hartshorn.png",
-  "bindType": -1,
-  "knownIds": [
-    68271
-  ]
-}
+{"internalId":72661500,"name":"Rosy Disposition Tonic","description":"","icon":"data/images/nr/oh/st/crafting_leather_spirit_of_hartshorn.png","bindType":-1,"knownIds":[68271]}

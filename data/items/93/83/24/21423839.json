@@ -1,10 +1,1 @@
-{
-  "internalId": 21423839,
-  "name": "Vintage Factotum Fabrication Orders",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1273548
-  ]
-}
+{"internalId":21423839,"name":"Vintage Factotum Fabrication Orders","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1273548]}

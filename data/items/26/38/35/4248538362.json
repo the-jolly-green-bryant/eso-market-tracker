@@ -1,15 +1,1 @@
-{
-  "internalId": 4248538362,
-  "name": "Xanmeer Spellweaver Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765154,
-    1771173,
-    1765154,
-    1771173,
-    1765154,
-    1771173
-  ]
-}
+{"internalId":4248538362,"name":"Xanmeer Spellweaver Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hhammer_a.png","bindType":-1,"knownIds":[1765154,1771173,1765154,1771173,1765154,1771173]}

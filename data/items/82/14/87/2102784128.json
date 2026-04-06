@@ -1,10 +1,1 @@
-{
-  "internalId": 2102784128,
-  "name": "Achievement Furnishings: The Reach, Blackwood",
-  "description": "This Crate contains all of the Achievement Furnishings from vendors in The Reach & Blackwood.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    214276
-  ]
-}
+{"internalId":2102784128,"name":"Achievement Furnishings: The Reach, Blackwood","description":"This Crate contains all of the Achievement Furnishings from vendors in The Reach & Blackwood.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[214276]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 881646307,
-  "name": "Razorback's Hide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    793078
-  ]
-}
+{"internalId":881646307,"name":"Razorback's Hide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png","bindType":-1,"knownIds":[793078]}

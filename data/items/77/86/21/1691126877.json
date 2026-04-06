@@ -1,10 +1,1 @@
-{
-  "internalId": 1691126877,
-  "name": "Cyrodilic Field Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_001.png",
-  "bindType": -1,
-  "knownIds": [
-    71078
-  ]
-}
+{"internalId":1691126877,"name":"Cyrodilic Field Tea","description":"","icon":"data/images/10/0_/ae/crafting_tea_001.png","bindType":-1,"knownIds":[71078]}

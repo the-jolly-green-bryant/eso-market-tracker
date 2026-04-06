@@ -1,10 +1,1 @@
-{
-  "internalId": 4281787159,
-  "name": "Solitude Bread, Partial Loaf",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_medbreadhalfloaf001.png",
-  "bindType": -1,
-  "knownIds": [
-    165799
-  ]
-}
+{"internalId":4281787159,"name":"Solitude Bread, Partial Loaf","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_medbreadhalfloaf001.png","bindType":-1,"knownIds":[165799]}

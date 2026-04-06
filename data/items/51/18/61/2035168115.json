@@ -1,10 +1,1 @@
-{
-  "internalId": 2035168115,
-  "name": "Clockwork Altar, Devotional",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_devotionalaltar002.png",
-  "bindType": -1,
-  "knownIds": [
-    182619
-  ]
-}
+{"internalId":2035168115,"name":"Clockwork Altar, Devotional","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_devotionalaltar002.png","bindType":-1,"knownIds":[182619]}

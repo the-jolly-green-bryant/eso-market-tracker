@@ -1,10 +1,1 @@
-{
-  "internalId": 1237271243,
-  "name": "Guards of Shared Pain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    210695
-  ]
-}
+{"internalId":1237271243,"name":"Guards of Shared Pain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[210695]}

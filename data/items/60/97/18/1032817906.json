@@ -1,10 +1,1 @@
-{
-  "internalId": 1032817906,
-  "name": "Bloodthorn Guardian's Hammer",
-  "description": "This weapon was awarded for setting the elemental guardians free from Angof's imprisoning spell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1133
-  ]
-}
+{"internalId":1032817906,"name":"Bloodthorn Guardian's Hammer","description":"This weapon was awarded for setting the elemental guardians free from Angof's imprisoning spell.","icon":"data/images/d_/re/mm/gear_bosmer_1hhammer_d.png","bindType":2,"knownIds":[1133]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3810275792,
-  "name": "Galerion's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78117
-  ]
-}
+{"internalId":3810275792,"name":"Galerion's Belt","description":"","icon":"data/images/d_/ts/ia/gear_altmer_medium_waist_d.png","bindType":2,"knownIds":[78117]}

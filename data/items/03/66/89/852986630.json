@@ -1,10 +1,1 @@
-{
-  "internalId": 852986630,
-  "name": "Deadlands Puzzle Cube",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_dedpuzzlebox001.png",
-  "bindType": -1,
-  "knownIds": [
-    184095
-  ]
-}
+{"internalId":852986630,"name":"Deadlands Puzzle Cube","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_dedpuzzlebox001.png","bindType":-1,"knownIds":[184095]}

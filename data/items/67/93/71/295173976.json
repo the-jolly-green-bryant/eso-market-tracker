@@ -1,10 +1,1 @@
-{
-  "internalId": 295173976,
-  "name": "Daedric Pike, Clannfear Head",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_exc_improvisedpike002.png",
-  "bindType": -1,
-  "knownIds": [
-    120867
-  ]
-}
+{"internalId":295173976,"name":"Daedric Pike, Clannfear Head","description":"This is a large house item.","icon":"data/images/20/0e/ki/housing_imp_exc_improvisedpike002.png","bindType":-1,"knownIds":[120867]}

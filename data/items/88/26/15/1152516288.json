@@ -1,10 +1,1 @@
-{
-  "internalId": 1152516288,
-  "name": "Mercymother Elite Tapestry, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrymercymothersmarauder001.png",
-  "bindType": -1,
-  "knownIds": [
-    193785
-  ]
-}
+{"internalId":1152516288,"name":"Mercymother Elite Tapestry, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrymercymothersmarauder001.png","bindType":-1,"knownIds":[193785]}

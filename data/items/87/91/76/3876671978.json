@@ -1,10 +1,1 @@
-{
-  "internalId": 3876671978,
-  "name": "Three Queens Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214678
-  ]
-}
+{"internalId":3876671978,"name":"Three Queens Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_bow_a.png","bindType":2,"knownIds":[214678]}

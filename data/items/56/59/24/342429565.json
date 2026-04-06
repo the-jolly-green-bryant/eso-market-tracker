@@ -1,10 +1,1 @@
-{
-  "internalId": 342429565,
-  "name": "Stuffed Minotaur Toy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png",
-  "bindType": -1,
-  "knownIds": [
-    896124
-  ]
-}
+{"internalId":342429565,"name":"Stuffed Minotaur Toy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_002.png","bindType":-1,"knownIds":[896124]}

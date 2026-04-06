@@ -1,10 +1,1 @@
-{
-  "internalId": 1922601223,
-  "name": "Sabatons of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_heavy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77070
-  ]
-}
+{"internalId":1922601223,"name":"Sabatons of Morihaus","description":"","icon":"data/images/a_/te/ef/gear_minotaur_heavy_feet_a.png","bindType":2,"knownIds":[77070]}

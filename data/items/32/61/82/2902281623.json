@@ -1,10 +1,1 @@
-{
-  "internalId": 2902281623,
-  "name": "Bow of Nikulas",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85398
-  ]
-}
+{"internalId":2902281623,"name":"Bow of Nikulas","description":"","icon":"data/images/d_/wo/b_/gear_nord_bow_d.png","bindType":2,"knownIds":[85398]}

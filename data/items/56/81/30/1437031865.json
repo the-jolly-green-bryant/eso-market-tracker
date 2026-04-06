@@ -1,10 +1,1 @@
-{
-  "internalId": 1437031865,
-  "name": "Floating Apocrypha Bookcase, Short",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_housingbookcasefloating005.png",
-  "bindType": -1,
-  "knownIds": [
-    198407
-  ]
-}
+{"internalId":1437031865,"name":"Floating Apocrypha Bookcase, Short","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_housingbookcasefloating005.png","bindType":-1,"knownIds":[198407]}

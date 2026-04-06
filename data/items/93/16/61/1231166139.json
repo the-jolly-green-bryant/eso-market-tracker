@@ -1,10 +1,1 @@
-{
-  "internalId": 1231166139,
-  "name": "Torchbug Treacle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wine_003.png",
-  "bindType": -1,
-  "knownIds": [
-    42406
-  ]
-}
+{"internalId":1231166139,"name":"Torchbug Treacle","description":"","icon":"data/images/30/0_/en/quest_wine_003.png","bindType":-1,"knownIds":[42406]}

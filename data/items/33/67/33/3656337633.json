@@ -1,10 +1,1 @@
-{
-  "internalId": 3656337633,
-  "name": "Bright-Throat's Boast Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_light_hand_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142764
-  ]
-}
+{"internalId":3656337633,"name":"Bright-Throat's Boast Gloves","description":"","icon":"data/images/a_/dn/ah/gear_elderarg_light_hand_a.png","bindType":2,"knownIds":[142764]}

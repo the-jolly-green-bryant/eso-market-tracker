@@ -1,10 +1,1 @@
-{
-  "internalId": 2707058862,
-  "name": "Soulcleaver Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_2haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    1776691
-  ]
-}
+{"internalId":2707058862,"name":"Soulcleaver Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_2haxe.png","bindType":-1,"knownIds":[1776691]}

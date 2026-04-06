@@ -1,10 +1,1 @@
-{
-  "internalId": 2536532997,
-  "name": "Trees, Towering Palm Cluster",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_els_royalpalmhousing002.png",
-  "bindType": -1,
-  "knownIds": [
-    153678
-  ]
-}
+{"internalId":2536532997,"name":"Trees, Towering Palm Cluster","description":"This is a huge house item.","icon":"data/images/20/0g/ni/housing_tre_els_royalpalmhousing002.png","bindType":-1,"knownIds":[153678]}

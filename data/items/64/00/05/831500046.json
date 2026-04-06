@@ -1,13 +1,1 @@
-{
-  "internalId": 831500046,
-  "name": "Basalt-Blooded Warrior Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1692411,
-    1719462,
-    1692411,
-    1719462
-  ]
-}
+{"internalId":831500046,"name":"Basalt-Blooded Warrior Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_feet_a.png","bindType":-1,"knownIds":[1692411,1719462,1692411,1719462]}

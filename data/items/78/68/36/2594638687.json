@@ -1,10 +1,1 @@
-{
-  "internalId": 2594638687,
-  "name": "Bow of Necropotence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86920
-  ]
-}
+{"internalId":2594638687,"name":"Bow of Necropotence","description":"","icon":"data/images/d_/wo/b_/gear_argonian_bow_d.png","bindType":2,"knownIds":[86920]}

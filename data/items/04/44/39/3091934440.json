@@ -1,10 +1,1 @@
-{
-  "internalId": 3091934440,
-  "name": "Clockwork Illuminator, Capsule Tower",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_lsb_lightconstruct002.png",
-  "bindType": -1,
-  "knownIds": [
-    134370
-  ]
-}
+{"internalId":3091934440,"name":"Clockwork Illuminator, Capsule Tower","description":"This is a large house item.","icon":"data/images/20/0t/cu/housing_cwc_lsb_lightconstruct002.png","bindType":-1,"knownIds":[134370]}

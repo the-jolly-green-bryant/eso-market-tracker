@@ -1,10 +1,1 @@
-{
-  "internalId": 3418785167,
-  "name": "Ash Drinking Cup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    694739
-  ]
-}
+{"internalId":3418785167,"name":"Ash Drinking Cup","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[694739]}

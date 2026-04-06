@@ -1,10 +1,1 @@
-{
-  "internalId": 2315363137,
-  "name": "Praxis: High Isle Fountain, Wall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    192543
-  ]
-}
+{"internalId":2315363137,"name":"Praxis: High Isle Fountain, Wall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[192543]}

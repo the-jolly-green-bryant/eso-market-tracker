@@ -1,10 +1,1 @@
-{
-  "internalId": 979108940,
-  "name": "Colovian Glassblower's Furnace",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_glassblowingfurnace001.png",
-  "bindType": -1,
-  "knownIds": [
-    208118
-  ]
-}
+{"internalId":979108940,"name":"Colovian Glassblower's Furnace","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_glassblowingfurnace001.png","bindType":-1,"knownIds":[208118]}

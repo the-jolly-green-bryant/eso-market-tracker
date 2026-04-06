@@ -1,10 +1,1 @@
-{
-  "internalId": 1998944837,
-  "name": "Mintmead Kaveh",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    28508
-  ]
-}
+{"internalId":1998944837,"name":"Mintmead Kaveh","description":"","icon":"data/images/10/0_/el/crafting_stoneware_bottle_001.png","bindType":-1,"knownIds":[28508]}

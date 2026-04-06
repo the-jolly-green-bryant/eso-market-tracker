@@ -1,10 +1,1 @@
-{
-  "internalId": 754660758,
-  "name": "Crafting Motif 88: Ancestral Orc Axes",
-  "description": "Use to learn how to make Ancestral Orc Axes. Also teaches the equivalent Ancestral Orc Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160611
-  ]
-}
+{"internalId":754660758,"name":"Crafting Motif 88: Ancestral Orc Axes","description":"Use to learn how to make Ancestral Orc Axes. Also teaches the equivalent Ancestral Orc Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160611]}

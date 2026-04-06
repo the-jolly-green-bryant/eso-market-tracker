@@ -1,10 +1,1 @@
-{
-  "internalId": 254623178,
-  "name": "Jar, Covered Dye",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationjarcovered001.png",
-  "bindType": -1,
-  "knownIds": [
-    118323
-  ]
-}
+{"internalId":254623178,"name":"Jar, Covered Dye","description":"This is a small house item.","icon":"data/images/10/0d/er/housing_gen_crf_dyestationjarcovered001.png","bindType":-1,"knownIds":[118323]}

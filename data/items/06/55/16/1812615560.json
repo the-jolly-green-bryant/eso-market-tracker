@@ -1,10 +1,1 @@
-{
-  "internalId": 1812615560,
-  "name": "Greatsword of the Ranger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98292
-  ]
-}
+{"internalId":1812615560,"name":"Greatsword of the Ranger","description":"","icon":"data/images/d_/dr/ow/gear_bosmer_2hsword_d.png","bindType":2,"knownIds":[98292]}

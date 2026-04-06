@@ -1,10 +1,1 @@
-{
-  "internalId": 620861811,
-  "name": "Gold Coast Crafted Sets",
-  "description": "Crafted Armor sets constructed in the Dark Brotherhood DLC.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182458
-  ]
-}
+{"internalId":620861811,"name":"Gold Coast Crafted Sets","description":"Crafted Armor sets constructed in the Dark Brotherhood DLC.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182458]}

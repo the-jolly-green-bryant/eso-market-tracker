@@ -1,10 +1,1 @@
-{
-  "internalId": 61298386,
-  "name": "Solitude Chair, Wicker",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_chair003.png",
-  "bindType": -1,
-  "knownIds": [
-    165661
-  ]
-}
+{"internalId":61298386,"name":"Solitude Chair, Wicker","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_chair003.png","bindType":-1,"knownIds":[165661]}

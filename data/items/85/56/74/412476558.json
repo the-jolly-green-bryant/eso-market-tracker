@@ -1,10 +1,1 @@
-{
-  "internalId": 412476558,
-  "name": "Thane Fjora's Winner's Cup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    891454
-  ]
-}
+{"internalId":412476558,"name":"Thane Fjora's Winner's Cup","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[891454]}

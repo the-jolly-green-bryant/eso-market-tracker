@@ -1,10 +1,1 @@
-{
-  "internalId": 2653960071,
-  "name": "Horn, Ritual",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_exc_legionhorn001.png",
-  "bindType": -1,
-  "knownIds": [
-    118199
-  ]
-}
+{"internalId":2653960071,"name":"Horn, Ritual","description":"This is a small house item.","icon":"data/images/10/0n/ro/housing_cld_exc_legionhorn001.png","bindType":-1,"knownIds":[118199]}

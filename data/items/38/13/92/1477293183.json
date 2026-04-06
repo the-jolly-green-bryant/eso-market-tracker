@@ -1,10 +1,1 @@
-{
-  "internalId": 1477293183,
-  "name": "Recipe: Honey Nut Treat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56988
-  ]
-}
+{"internalId":1477293183,"name":"Recipe: Honey Nut Treat","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56988]}

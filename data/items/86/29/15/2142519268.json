@@ -1,10 +1,1 @@
-{
-  "internalId": 2142519268,
-  "name": "Crafting Motif 117: Firesong Staves",
-  "description": "Use to learn how to make Firesong Staves. Also teaches the equivalent Firesong Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    188320
-  ]
-}
+{"internalId":2142519268,"name":"Crafting Motif 117: Firesong Staves","description":"Use to learn how to make Firesong Staves. Also teaches the equivalent Firesong Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[188320]}

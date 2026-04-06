@@ -1,10 +1,1 @@
-{
-  "internalId": 2722945464,
-  "name": "Arena Gladiator's Proof",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/fragment_gladiator_proof.png",
-  "bindType": -1,
-  "knownIds": [
-    1240545
-  ]
-}
+{"internalId":2722945464,"name":"Arena Gladiator's Proof","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/fragment_gladiator_proof.png","bindType":-1,"knownIds":[1240545]}

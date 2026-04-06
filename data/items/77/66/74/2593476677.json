@@ -1,10 +1,1 @@
-{
-  "internalId": 2593476677,
-  "name": "Living Shadow Skin",
-  "description": "Divayth Fyr's mind worked quickly to infuse part of his lost shadow essence into this cast-off brigandine.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133226
-  ]
-}
+{"internalId":2593476677,"name":"Living Shadow Skin","description":"Divayth Fyr's mind worked quickly to infuse part of his lost shadow essence into this cast-off brigandine.","icon":"data/images/a_/ts/eh/gear_nocturnal_medium_chest_a.png","bindType":2,"knownIds":[133226]}

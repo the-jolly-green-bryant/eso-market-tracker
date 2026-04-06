@@ -1,10 +1,1 @@
-{
-  "internalId": 604506389,
-  "name": "Apocrypha Post, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_waf_libwallmedpost001.png",
-  "bindType": -1,
-  "knownIds": [
-    203307
-  ]
-}
+{"internalId":604506389,"name":"Apocrypha Post, Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_waf_libwallmedpost001.png","bindType":-1,"knownIds":[203307]}

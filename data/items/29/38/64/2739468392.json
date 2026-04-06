@@ -1,10 +1,1 @@
-{
-  "internalId": 2739468392,
-  "name": "Master Jewelry Crafter Writ",
-  "description": "An exclusive, secret contract for jewelry of rare quality.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_jewelry.png",
-  "bindType": -1,
-  "knownIds": [
-    153739
-  ]
-}
+{"internalId":2739468392,"name":"Master Jewelry Crafter Writ","description":"An exclusive, secret contract for jewelry of rare quality.","icon":"data/images/yr/le/we/master_writ_jewelry.png","bindType":-1,"knownIds":[153739]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1835896120,
-  "name": "Clan Mother's Banana Pilaf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37865
-  ]
-}
+{"internalId":1835896120,"name":"Clan Mother's Banana Pilaf","description":"","icon":"data/images/10/0_/lw/crafting_bowl_001.png","bindType":-1,"knownIds":[37865]}

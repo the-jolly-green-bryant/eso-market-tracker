@@ -1,10 +1,1 @@
-{
-  "internalId": 2910752333,
-  "name": "Clockwork Cup, Empty",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_cup001_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    134351
-  ]
-}
+{"internalId":2910752333,"name":"Clockwork Cup, Empty","description":"This is a tiny house item.","icon":"data/images/yt/pm/e_/housing_cwc_inc_cup001_empty.png","bindType":-1,"knownIds":[134351]}

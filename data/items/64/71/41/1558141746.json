@@ -1,17 +1,1 @@
-{
-  "internalId": 1558141746,
-  "name": "Blood Spawn's Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedgargoyle_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    722157,
-    588052,
-    580187,
-    772051,
-    722157,
-    588052,
-    580187,
-    772051
-  ]
-}
+{"internalId":1558141746,"name":"Blood Spawn's Pauldron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedgargoyle_shoulders_a.png","bindType":-1,"knownIds":[722157,588052,580187,772051,722157,588052,580187,772051]}

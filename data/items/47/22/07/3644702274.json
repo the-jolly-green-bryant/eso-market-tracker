@@ -1,13 +1,1 @@
-{
-  "internalId": 3644702274,
-  "name": "Drulshasa's Dark Band",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    437905,
-    448868,
-    437905,
-    448868
-  ]
-}
+{"internalId":3644702274,"name":"Drulshasa's Dark Band","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[437905,448868,437905,448868]}

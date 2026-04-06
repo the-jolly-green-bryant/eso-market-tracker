@@ -1,10 +1,1 @@
-{
-  "internalId": 1596367557,
-  "name": "Morian's Metal Circle",
-  "description": "A tarnished ring. Though severely scratched, the Zenas coat of arms can still be seen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197799
-  ]
-}
+{"internalId":1596367557,"name":"Morian's Metal Circle","description":"A tarnished ring. Though severely scratched, the Zenas coat of arms can still be seen.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[197799]}

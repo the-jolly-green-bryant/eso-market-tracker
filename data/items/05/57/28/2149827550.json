@@ -1,10 +1,1 @@
-{
-  "internalId": 2149827550,
-  "name": "Coward's Gear Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123508
-  ]
-}
+{"internalId":2149827550,"name":"Coward's Gear Arm Cops","description":"","icon":"data/images/a_/sr/ed/gear_ordinator_medium_shoulders_a.png","bindType":2,"knownIds":[123508]}

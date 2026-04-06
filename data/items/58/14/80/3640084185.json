@@ -1,10 +1,1 @@
-{
-  "internalId": 3640084185,
-  "name": "Viggol's Mallet",
-  "description": "This hammer commemorates Viggol's last adventure.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1hhammer_c.png",
-  "bindType": 2,
-  "knownIds": [
-    159694
-  ]
-}
+{"internalId":3640084185,"name":"Viggol's Mallet","description":"This hammer commemorates Viggol's last adventure.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_primative_1hhammer_c.png","bindType":2,"knownIds":[159694]}

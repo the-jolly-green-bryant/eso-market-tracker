@@ -1,13 +1,1 @@
-{
-  "internalId": 2075273030,
-  "name": "Nobility in Decay Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1693134,
-    1755319,
-    1693134,
-    1755319
-  ]
-}
+{"internalId":2075273030,"name":"Nobility in Decay Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_chest_a.png","bindType":-1,"knownIds":[1693134,1755319,1693134,1755319]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3675337368,
-  "name": "Fragment of Rulanyil",
-  "description": "Consume Fragment of Rulanyil, along with fragments of Balamath, the Scrivener, the Crazed, and Madness, to unlock the Skill Stylist: Annulment achievement and the Annulment, Vibrant Yellow Skill Style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_crystal_blackwhite.png",
-  "bindType": 3,
-  "knownIds": [
-    211169
-  ]
-}
+{"internalId":3675337368,"name":"Fragment of Rulanyil","description":"Consume Fragment of Rulanyil, along with fragments of Balamath, the Scrivener, the Crazed, and Madness, to unlock the Skill Stylist: Annulment achievement and the Annulment, Vibrant Yellow Skill Style.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u44_crystal_blackwhite.png","bindType":3,"knownIds":[211169]}

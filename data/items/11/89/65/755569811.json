@@ -1,10 +1,1 @@
-{
-  "internalId": 755569811,
-  "name": "Target Centurion, Robust Lambent",
-  "description": "This is a large house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to a veteran trial boss.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/targetdummy_centurionboss_crown_01.png",
-  "bindType": -1,
-  "knownIds": [
-    126038
-  ]
-}
+{"internalId":755569811,"name":"Target Centurion, Robust Lambent","description":"This is a large house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to a veteran trial boss.","icon":"data/images/10/_n/wo/targetdummy_centurionboss_crown_01.png","bindType":-1,"knownIds":[126038]}

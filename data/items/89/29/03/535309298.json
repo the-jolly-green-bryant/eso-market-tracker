@@ -1,10 +1,1 @@
-{
-  "internalId": 535309298,
-  "name": "Dagger of the Kynmarcher's Cruelty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180410
-  ]
-}
+{"internalId":535309298,"name":"Dagger of the Kynmarcher's Cruelty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_dagger_a.png","bindType":2,"knownIds":[180410]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1492378629,
-  "name": "Painting of Tree, Refined",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_plain006.png",
-  "bindType": -1,
-  "knownIds": [
-    118143
-  ]
-}
+{"internalId":1492378629,"name":"Painting of Tree, Refined","description":"This is a standard house item.","icon":"data/images/60/0n/ia/housing_bre_inc_painting_plain006.png","bindType":-1,"knownIds":[118143]}

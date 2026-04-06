@@ -1,15 +1,1 @@
-{
-  "internalId": 4070835326,
-  "name": "Basalt-Blooded Warrior Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1695088,
-    1696571,
-    1758021,
-    1695088,
-    1696571,
-    1758021
-  ]
-}
+{"internalId":4070835326,"name":"Basalt-Blooded Warrior Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png","bindType":-1,"knownIds":[1695088,1696571,1758021,1695088,1696571,1758021]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 815355479,
-  "name": "Alinor Maple, Diminutive",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_japanesemaplered002.png",
-  "bindType": -1,
-  "knownIds": [
-    151864
-  ]
-}
+{"internalId":815355479,"name":"Alinor Maple, Diminutive","description":"This is a standard house item.","icon":"data/images/20/0d/er/housing_tre_sum_japanesemaplered002.png","bindType":-1,"knownIds":[151864]}

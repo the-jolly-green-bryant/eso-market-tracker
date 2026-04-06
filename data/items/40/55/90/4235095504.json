@@ -1,11 +1,1 @@
-{
-  "internalId": 4235095504,
-  "name": "Aldmeri Tea Cozy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    640830,
-    640830
-  ]
-}
+{"internalId":4235095504,"name":"Aldmeri Tea Cozy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[640830,640830]}

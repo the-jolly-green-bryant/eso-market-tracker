@@ -1,10 +1,1 @@
-{
-  "internalId": 2200257675,
-  "name": "Pure Language Pearl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1273860
-  ]
-}
+{"internalId":2200257675,"name":"Pure Language Pearl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[1273860]}

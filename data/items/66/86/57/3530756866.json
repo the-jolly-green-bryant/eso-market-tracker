@@ -1,10 +1,1 @@
-{
-  "internalId": 3530756866,
-  "name": "harbour gar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    382729
-  ]
-}
+{"internalId":3530756866,"name":"harbour gar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[382729]}

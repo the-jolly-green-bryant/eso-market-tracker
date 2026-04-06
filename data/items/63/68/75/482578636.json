@@ -1,10 +1,1 @@
-{
-  "internalId": 482578636,
-  "name": "Orcish Shelter, Shingled",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_csb_wtgmerchantstall002.png",
-  "bindType": -1,
-  "knownIds": [
-    116379
-  ]
-}
+{"internalId":482578636,"name":"Orcish Shelter, Shingled","description":"This is a large house item.","icon":"data/images/20/0l/la/housing_orc_csb_wtgmerchantstall002.png","bindType":-1,"knownIds":[116379]}

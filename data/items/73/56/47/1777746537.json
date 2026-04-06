@@ -1,10 +1,1 @@
-{
-  "internalId": 1777746537,
-  "name": "Deathclaw Ordure",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_021.png",
-  "bindType": -1,
-  "knownIds": [
-    915520
-  ]
-}
+{"internalId":1777746537,"name":"Deathclaw Ordure","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_021.png","bindType":-1,"knownIds":[915520]}

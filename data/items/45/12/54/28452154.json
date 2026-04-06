@@ -1,10 +1,1 @@
-{
-  "internalId": 28452154,
-  "name": "Arm Cops of the Archer's Mind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87638
-  ]
-}
+{"internalId":28452154,"name":"Arm Cops of the Archer's Mind","description":"","icon":"data/images/d_/sr/ed/gear_bosmer_medium_shoulders_d.png","bindType":2,"knownIds":[87638]}

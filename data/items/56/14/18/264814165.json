@@ -1,10 +1,1 @@
-{
-  "internalId": 264814165,
-  "name": "Redguard Fountain, Pillar",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varfountain001.png",
-  "bindType": -1,
-  "knownIds": [
-    134925
-  ]
-}
+{"internalId":264814165,"name":"Redguard Fountain, Pillar","description":"This is a large house item.","icon":"data/images/10/0n/ia/housing_red_str_varfountain001.png","bindType":-1,"knownIds":[134925]}

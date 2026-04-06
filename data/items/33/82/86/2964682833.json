@@ -1,10 +1,1 @@
-{
-  "internalId": 2964682833,
-  "name": "Tharriker's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    205740
-  ]
-}
+{"internalId":2964682833,"name":"Tharriker's Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":2,"knownIds":[205740]}

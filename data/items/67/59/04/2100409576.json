@@ -1,10 +1,1 @@
-{
-  "internalId": 2100409576,
-  "name": "Lustrous Soulwell Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765643
-  ]
-}
+{"internalId":2100409576,"name":"Lustrous Soulwell Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_2hhammer_a.png","bindType":-1,"knownIds":[1765643]}

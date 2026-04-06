@@ -1,10 +1,1 @@
-{
-  "internalId": 1858234958,
-  "name": "Redoran Jar, Jazbay",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaurn004.png",
-  "bindType": -1,
-  "knownIds": [
-    126375
-  ]
-}
+{"internalId":1858234958,"name":"Redoran Jar, Jazbay","description":"This is a small house item.","icon":"data/images/40/0n/ru/housing_vrd_inc_hlaurn004.png","bindType":-1,"knownIds":[126375]}

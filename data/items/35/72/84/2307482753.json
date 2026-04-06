@@ -1,17 +1,1 @@
-{
-  "internalId": 2307482753,
-  "name": "fell arm cops of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    702392,
-    376375,
-    686131,
-    664744,
-    702392,
-    376375,
-    686131,
-    664744
-  ]
-}
+{"internalId":2307482753,"name":"fell arm cops of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png","bindType":-1,"knownIds":[702392,376375,686131,664744,702392,376375,686131,664744]}

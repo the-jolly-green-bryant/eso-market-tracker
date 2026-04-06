@@ -1,10 +1,1 @@
-{
-  "internalId": 3590582310,
-  "name": "Unchained Aggressor (Crafted)",
-  "description": "An item set crafted in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    159518
-  ]
-}
+{"internalId":3590582310,"name":"Unchained Aggressor (Crafted)","description":"An item set crafted in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[159518]}

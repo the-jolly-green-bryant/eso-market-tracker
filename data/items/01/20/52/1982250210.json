@@ -1,10 +1,1 @@
-{
-  "internalId": 1982250210,
-  "name": "Karth's Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168721
-  ]
-}
+{"internalId":1982250210,"name":"Karth's Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[168721]}

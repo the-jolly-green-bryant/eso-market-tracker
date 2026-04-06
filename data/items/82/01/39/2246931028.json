@@ -1,10 +1,1 @@
-{
-  "internalId": 2246931028,
-  "name": "Dawnwood Cup, Carved Full",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_boscupwine001.png",
-  "bindType": -1,
-  "knownIds": [
-    211387
-  ]
-}
+{"internalId":2246931028,"name":"Dawnwood Cup, Carved Full","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_boscupwine001.png","bindType":-1,"knownIds":[211387]}

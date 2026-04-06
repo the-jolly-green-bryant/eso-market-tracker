@@ -1,10 +1,1 @@
-{
-  "internalId": 2442854120,
-  "name": "Prisoner's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102044
-  ]
-}
+{"internalId":2442854120,"name":"Prisoner's Gloves","description":"","icon":"data/images/a_/sd/na/gear_soulshriven_light_hands_a.png","bindType":2,"knownIds":[102044]}

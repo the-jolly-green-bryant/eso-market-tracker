@@ -1,10 +1,1 @@
-{
-  "internalId": 782323907,
-  "name": "Auridon Fern, Tall",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_malabaltorfern003.png",
-  "bindType": -1,
-  "knownIds": [
-    119585
-  ]
-}
+{"internalId":782323907,"name":"Auridon Fern, Tall","description":"This is a small house item.","icon":"data/images/30/0n/re/housing_veg_bsh_malabaltorfern003.png","bindType":-1,"knownIds":[119585]}

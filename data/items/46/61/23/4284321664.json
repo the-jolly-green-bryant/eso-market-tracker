@@ -1,12 +1,1 @@
-{
-  "internalId": 4284321664,
-  "name": "Mage's Rune",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    791696,
-    791696,
-    791696
-  ]
-}
+{"internalId":4284321664,"name":"Mage's Rune","description":"","icon":null,"bindType":-1,"knownIds":[791696,791696,791696]}

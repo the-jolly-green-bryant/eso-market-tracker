@@ -1,10 +1,1 @@
-{
-  "internalId": 3221485304,
-  "name": "Wax Ear Pellets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804369
-  ]
-}
+{"internalId":3221485304,"name":"Wax Ear Pellets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[804369]}

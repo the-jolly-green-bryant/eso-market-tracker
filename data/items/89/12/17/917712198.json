@@ -1,10 +1,1 @@
-{
-  "internalId": 917712198,
-  "name": "Eternal Hunt Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72829
-  ]
-}
+{"internalId":917712198,"name":"Eternal Hunt Sword","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[72829]}

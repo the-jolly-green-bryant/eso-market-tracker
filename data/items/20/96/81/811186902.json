@@ -1,10 +1,1 @@
-{
-  "internalId": 811186902,
-  "name": "Praxis: Fargrave Colonnade Pillar, Tall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    184131
-  ]
-}
+{"internalId":811186902,"name":"Praxis: Fargrave Colonnade Pillar, Tall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[184131]}

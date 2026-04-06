@@ -1,10 +1,1 @@
-{
-  "internalId": 3328689009,
-  "name": "Monkeypants Mazte Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    503822
-  ]
-}
+{"internalId":3328689009,"name":"Monkeypants Mazte Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[503822]}

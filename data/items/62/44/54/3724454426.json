@@ -1,10 +1,1 @@
-{
-  "internalId": 3724454426,
-  "name": "Banner of Namira",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannernamirasmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    147599
-  ]
-}
+{"internalId":3724454426,"name":"Banner of Namira","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_dae_lsb_bannernamirasmall001.png","bindType":-1,"knownIds":[147599]}

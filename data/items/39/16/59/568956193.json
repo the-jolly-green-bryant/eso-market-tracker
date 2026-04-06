@@ -1,10 +1,1 @@
-{
-  "internalId": 568956193,
-  "name": "Pattern: Wood Elf Tent, Saplings",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    212561
-  ]
-}
+{"internalId":568956193,"name":"Pattern: Wood Elf Tent, Saplings","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[212561]}

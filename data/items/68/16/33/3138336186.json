@@ -1,10 +1,1 @@
-{
-  "internalId": 3138336186,
-  "name": "Apocrypha Pipe, Large Curved",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_chrpipelargegreenhalf001.png",
-  "bindType": -1,
-  "knownIds": [
-    203204
-  ]
-}
+{"internalId":3138336186,"name":"Apocrypha Pipe, Large Curved","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_chrpipelargegreenhalf001.png","bindType":-1,"knownIds":[203204]}

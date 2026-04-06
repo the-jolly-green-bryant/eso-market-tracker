@@ -1,10 +1,1 @@
-{
-  "internalId": 2650522900,
-  "name": "Jewelry: Armor of the Trainee",
-  "description": "An All Armor set found in Starter Islands.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    175556
-  ]
-}
+{"internalId":2650522900,"name":"Jewelry: Armor of the Trainee","description":"An All Armor set found in Starter Islands.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[175556]}

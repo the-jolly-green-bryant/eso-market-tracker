@@ -1,10 +1,1 @@
-{
-  "internalId": 445998504,
-  "name": "Shield of the Unassailable",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_goldensaint_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44152
-  ]
-}
+{"internalId":445998504,"name":"Shield of the Unassailable","description":"","icon":"data/images/a_/dl/ei/gear_goldensaint_shield_a.png","bindType":2,"knownIds":[44152]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2214167863,
-  "name": "Defiler's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123128
-  ]
-}
+{"internalId":2214167863,"name":"Defiler's Battle Axe","description":"","icon":"data/images/a_/ex/ah/gear_hlaalu_2haxe_a.png","bindType":2,"knownIds":[123128]}

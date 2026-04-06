@@ -1,10 +1,1 @@
-{
-  "internalId": 4034265754,
-  "name": "Pattern: Mage Tapestry, Aurbic Phoenix",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    194395
-  ]
-}
+{"internalId":4034265754,"name":"Pattern: Mage Tapestry, Aurbic Phoenix","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[194395]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2359523226,
-  "name": "Pattern: Rough Bedroll, Basic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_1.png",
-  "bindType": -1,
-  "knownIds": [
-    119350
-  ]
-}
+{"internalId":2359523226,"name":"Pattern: Rough Bedroll, Basic","description":"","icon":"data/images/1_/re/ih/crafting_planfurniture_clothier_1.png","bindType":-1,"knownIds":[119350]}

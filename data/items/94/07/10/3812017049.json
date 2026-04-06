@@ -1,10 +1,1 @@
-{
-  "internalId": 3812017049,
-  "name": "Stuffed Grape Leaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
-  "bindType": -1,
-  "knownIds": [
-    28390
-  ]
-}
+{"internalId":3812017049,"name":"Stuffed Grape Leaves","description":"","icon":"data/images/20/0_/te/crafting_skillet_002.png","bindType":-1,"knownIds":[28390]}

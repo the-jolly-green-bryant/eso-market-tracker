@@ -1,17 +1,1 @@
-{
-  "internalId": 1968142781,
-  "name": "Basalt-Blooded Warrior Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1683503,
-    1690511,
-    1702254,
-    1720865,
-    1683503,
-    1690511,
-    1702254,
-    1720865
-  ]
-}
+{"internalId":1968142781,"name":"Basalt-Blooded Warrior Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_staff.png","bindType":-1,"knownIds":[1683503,1690511,1702254,1720865,1683503,1690511,1702254,1720865]}

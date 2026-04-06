@@ -1,10 +1,1 @@
-{
-  "internalId": 3852876611,
-  "name": "Recipe: Melon Carpaccio",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45636
-  ]
-}
+{"internalId":3852876611,"name":"Recipe: Melon Carpaccio","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45636]}

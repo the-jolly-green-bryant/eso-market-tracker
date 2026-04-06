@@ -1,10 +1,1 @@
-{
-  "internalId": 2546825183,
-  "name": "Orcish Table, Braced Formal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgtable002.png",
-  "bindType": -1,
-  "knownIds": [
-    116356
-  ]
-}
+{"internalId":2546825183,"name":"Orcish Table, Braced Formal","description":"This is a standard house item.","icon":"data/images/20/0e/lb/housing_orc_duc_wtgtable002.png","bindType":-1,"knownIds":[116356]}

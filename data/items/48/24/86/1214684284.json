@@ -1,17 +1,1 @@
-{
-  "internalId": 1214684284,
-  "name": "Aerie's Cry Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_1hdagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1726489,
-    1733025,
-    1746757,
-    1776690,
-    1726489,
-    1733025,
-    1746757,
-    1776690
-  ]
-}
+{"internalId":1214684284,"name":"Aerie's Cry Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_1hdagger.png","bindType":-1,"knownIds":[1726489,1733025,1746757,1776690,1726489,1733025,1746757,1776690]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2352676522,
-  "name": "Vampiric Lab Jar, Red Gelatinous",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabjar002.png",
-  "bindType": -1,
-  "knownIds": [
-    181501
-  ]
-}
+{"internalId":2352676522,"name":"Vampiric Lab Jar, Red Gelatinous","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabjar002.png","bindType":-1,"knownIds":[181501]}

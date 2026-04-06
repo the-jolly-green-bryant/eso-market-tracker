@@ -1,10 +1,1 @@
-{
-  "internalId": 1618611766,
-  "name": "Indoril Brazier, Kettle",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlabraizer003.png",
-  "bindType": -1,
-  "knownIds": [
-    126487
-  ]
-}
+{"internalId":1618611766,"name":"Indoril Brazier, Kettle","description":"This is a small house item.","icon":"data/images/30/0r/ez/housing_vrd_lsb_hlabraizer003.png","bindType":-1,"knownIds":[126487]}

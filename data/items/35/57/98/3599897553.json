@@ -1,10 +1,1 @@
-{
-  "internalId": 3599897553,
-  "name": "Great Axe of the Defiler",
-  "description": "A mighty weapon awarded by Lord Vivec in token of your victory over the false Nerevarine Chodala in the ruins of Kaushtarari.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlanderv_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126044
-  ]
-}
+{"internalId":3599897553,"name":"Great Axe of the Defiler","description":"A mighty weapon awarded by Lord Vivec in token of your victory over the false Nerevarine Chodala in the ruins of Kaushtarari.","icon":"data/images/a_/ex/ah/gear_ashlanderv_2haxe_a.png","bindType":2,"knownIds":[126044]}

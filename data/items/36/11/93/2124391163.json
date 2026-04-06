@@ -1,10 +1,1 @@
-{
-  "internalId": 2124391163,
-  "name": "Cloudy Yellow Goblin Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37784
-  ]
-}
+{"internalId":2124391163,"name":"Cloudy Yellow Goblin Tonic","description":"","icon":"data/images/20/0_/re/crafting_dom_beer_002.png","bindType":-1,"knownIds":[37784]}

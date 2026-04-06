@@ -1,10 +1,1 @@
-{
-  "internalId": 123041436,
-  "name": "Perfected Test of Resolve Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1777343
-  ]
-}
+{"internalId":123041436,"name":"Perfected Test of Resolve Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_2haxe_a.png","bindType":-1,"knownIds":[1777343]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 933619551,
-  "name": "Battered Weapons",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    818940
-  ]
-}
+{"internalId":933619551,"name":"Battered Weapons","description":"","icon":null,"bindType":-1,"knownIds":[818940]}

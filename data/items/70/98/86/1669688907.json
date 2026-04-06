@@ -1,13 +1,1 @@
-{
-  "internalId": 1669688907,
-  "name": "Peace and Serenity Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1644225,
-    1644985,
-    1644225,
-    1644985
-  ]
-}
+{"internalId":1669688907,"name":"Peace and Serenity Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1644225,1644985,1644225,1644985]}

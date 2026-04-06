@@ -1,10 +1,1 @@
-{
-  "internalId": 376363941,
-  "name": "Knight Slayer Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123699
-  ]
-}
+{"internalId":376363941,"name":"Knight Slayer Sash","description":"","icon":"data/images/a_/ts/ia/gear_ordinator_light_waist_a.png","bindType":2,"knownIds":[123699]}

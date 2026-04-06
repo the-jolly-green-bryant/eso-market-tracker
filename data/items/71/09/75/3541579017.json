@@ -1,10 +1,1 @@
-{
-  "internalId": 3541579017,
-  "name": "Khajiit Carpet, Crescent Moons",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_largerug002.png",
-  "bindType": -1,
-  "knownIds": [
-    115645
-  ]
-}
+{"internalId":3541579017,"name":"Khajiit Carpet, Crescent Moons","description":"This is a standard house item.","icon":"data/images/20/0g/ur/housing_kha_inc_largerug002.png","bindType":-1,"knownIds":[115645]}

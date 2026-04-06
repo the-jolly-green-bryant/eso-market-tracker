@@ -1,10 +1,1 @@
-{
-  "internalId": 3504080530,
-  "name": "Ancient Dragonguard's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156124
-  ]
-}
+{"internalId":3504080530,"name":"Ancient Dragonguard's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[156124]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 540380359,
-  "name": "Orcish Tapestry, Axe",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgtapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    116454
-  ]
-}
+{"internalId":540380359,"name":"Orcish Tapestry, Axe","description":"This is a large house item.","icon":"data/images/10/0y/rt/housing_orc_inc_wtgtapestry001.png","bindType":-1,"knownIds":[116454]}

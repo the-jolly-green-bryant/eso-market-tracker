@@ -1,10 +1,1 @@
-{
-  "internalId": 2866188361,
-  "name": "Vampire Blood",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819159
-  ]
-}
+{"internalId":2866188361,"name":"Vampire Blood","description":"","icon":null,"bindType":-1,"knownIds":[819159]}

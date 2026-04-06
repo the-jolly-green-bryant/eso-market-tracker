@@ -1,15 +1,1 @@
-{
-  "internalId": 2171591837,
-  "name": "Tarnished Nightmare Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720098,
-    1731502,
-    1735462,
-    1720098,
-    1731502,
-    1735462
-  ]
-}
+{"internalId":2171591837,"name":"Tarnished Nightmare Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hhammer_a.png","bindType":-1,"knownIds":[1720098,1731502,1735462,1720098,1731502,1735462]}

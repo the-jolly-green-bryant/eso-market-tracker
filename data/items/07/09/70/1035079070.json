@@ -1,10 +1,1 @@
-{
-  "internalId": 1035079070,
-  "name": "Helmet of the Viper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80697
-  ]
-}
+{"internalId":1035079070,"name":"Helmet of the Viper","description":"","icon":"data/images/d_/da/eh/gear_argonian_medium_head_d.png","bindType":2,"knownIds":[80697]}

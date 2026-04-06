@@ -1,10 +1,1 @@
-{
-  "internalId": 3962246792,
-  "name": "Alkahest",
-  "description": "An ingredient for crafting Champion poisons, black as Sithis' heart.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_oil_4_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    75365
-  ]
-}
+{"internalId":3962246792,"name":"Alkahest","description":"An ingredient for crafting Champion poisons, black as Sithis' heart.","icon":"data/images/3r/_4/_l/crafting_potion_base_oil_4_r3.png","bindType":-1,"knownIds":[75365]}

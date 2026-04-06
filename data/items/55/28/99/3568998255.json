@@ -1,10 +1,1 @@
-{
-  "internalId": 3568998255,
-  "name": "Wood Elf Tapestry, Vine",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_lsb_bannersmall003.png",
-  "bindType": -1,
-  "knownIds": [
-    115617
-  ]
-}
+{"internalId":3568998255,"name":"Wood Elf Tapestry, Vine","description":"This is a large house item.","icon":"data/images/30/0l/la/housing_bos_lsb_bannersmall003.png","bindType":-1,"knownIds":[115617]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 3622171745,
-  "name": "Tribal Helmet Crate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png",
-  "bindType": -1,
-  "knownIds": [
-    1268038,
-    1275336,
-    1278055,
-    1285198,
-    1268038,
-    1275336,
-    1278055,
-    1285198
-  ]
-}
+{"internalId":3622171745,"name":"Tribal Helmet Crate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_murkmire.png","bindType":-1,"knownIds":[1268038,1275336,1278055,1285198,1268038,1275336,1278055,1285198]}

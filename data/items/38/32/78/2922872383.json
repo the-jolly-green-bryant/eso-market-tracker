@@ -1,10 +1,1 @@
-{
-  "internalId": 2922872383,
-  "name": "Recipe: Khenarthi's Wings Chai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46052
-  ]
-}
+{"internalId":2922872383,"name":"Recipe: Khenarthi's Wings Chai","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46052]}

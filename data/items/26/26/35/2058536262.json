@@ -1,13 +1,1 @@
-{
-  "internalId": 2058536262,
-  "name": "Celestial Warrior's Trophy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1190694,
-    1413653,
-    1190694,
-    1413653
-  ]
-}
+{"internalId":2058536262,"name":"Celestial Warrior's Trophy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_003.png","bindType":-1,"knownIds":[1190694,1413653,1190694,1413653]}

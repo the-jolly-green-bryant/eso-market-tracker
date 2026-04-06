@@ -1,17 +1,1 @@
-{
-  "internalId": 2442386430,
-  "name": "Perfected Yolnahkriin's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1387867,
-    1542980,
-    1643902,
-    1722080,
-    1387867,
-    1542980,
-    1643902,
-    1722080
-  ]
-}
+{"internalId":2442386430,"name":"Perfected Yolnahkriin's Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_staff_a.png","bindType":-1,"knownIds":[1387867,1542980,1643902,1722080,1387867,1542980,1643902,1722080]}

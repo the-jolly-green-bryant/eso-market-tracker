@@ -1,10 +1,1 @@
-{
-  "internalId": 1535313539,
-  "name": "Dres Candles, Meditation",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlacandleset002.png",
-  "bindType": -1,
-  "knownIds": [
-    126370
-  ]
-}
+{"internalId":1535313539,"name":"Dres Candles, Meditation","description":"This is a small house item.","icon":"data/images/20/0t/es/housing_vrd_lsb_hlacandleset002.png","bindType":-1,"knownIds":[126370]}

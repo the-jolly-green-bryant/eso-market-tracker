@@ -1,10 +1,1 @@
-{
-  "internalId": 3310680455,
-  "name": "red wheat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_bread_002.png",
-  "bindType": -1,
-  "knownIds": [
-    871323
-  ]
-}
+{"internalId":3310680455,"name":"red wheat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_components_bread_002.png","bindType":-1,"knownIds":[871323]}

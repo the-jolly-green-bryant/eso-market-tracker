@@ -1,10 +1,1 @@
-{
-  "internalId": 2640671745,
-  "name": "Old Growth Brewer Weapons",
-  "description": "A Crafted Armor set constructed in Galen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    191986
-  ]
-}
+{"internalId":2640671745,"name":"Old Growth Brewer Weapons","description":"A Crafted Armor set constructed in Galen.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[191986]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1562185179,
-  "name": "Pattern: Indoril Rug, Sotha Sil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    127039
-  ]
-}
+{"internalId":1562185179,"name":"Pattern: Indoril Rug, Sotha Sil","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[127039]}

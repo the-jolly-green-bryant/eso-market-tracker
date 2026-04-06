@@ -1,10 +1,1 @@
-{
-  "internalId": 3855213770,
-  "name": "Ashenblade",
-  "description": "Veiled Heritance Champion Andur once used this weapon during the fight to protect the Court of the Wilderking.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10883
-  ]
-}
+{"internalId":3855213770,"name":"Ashenblade","description":"Veiled Heritance Champion Andur once used this weapon during the fight to protect the Court of the Wilderking.","icon":"data/images/d_/dr/ow/gear_altmer_2hsword_d.png","bindType":2,"knownIds":[10883]}

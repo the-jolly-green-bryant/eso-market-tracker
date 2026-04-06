@@ -1,10 +1,1 @@
-{
-  "internalId": 3150660343,
-  "name": "Feast of Souls Miniature Painting",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366726
-  ]
-}
+{"internalId":3150660343,"name":"Feast of Souls Miniature Painting","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[1366726]}

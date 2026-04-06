@@ -1,10 +1,1 @@
-{
-  "internalId": 205930262,
-  "name": "Pariah Lumpfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    799100
-  ]
-}
+{"internalId":205930262,"name":"Pariah Lumpfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[799100]}

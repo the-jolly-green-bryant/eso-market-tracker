@@ -1,10 +1,1 @@
-{
-  "internalId": 3714237683,
-  "name": "Diagram: Common Plate, Setting",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    119384
-  ]
-}
+{"internalId":3714237683,"name":"Diagram: Common Plate, Setting","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[119384]}

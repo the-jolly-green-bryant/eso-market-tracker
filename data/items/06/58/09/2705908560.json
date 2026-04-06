@@ -1,10 +1,1 @@
-{
-  "internalId": 2705908560,
-  "name": "Splinters of Mirrormoor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u41_crafting_style_item_blindpathcultist.png",
-  "bindType": -1,
-  "knownIds": [
-    203230
-  ]
-}
+{"internalId":2705908560,"name":"Splinters of Mirrormoor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/u41_crafting_style_item_blindpathcultist.png","bindType":-1,"knownIds":[203230]}

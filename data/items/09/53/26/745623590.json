@@ -1,10 +1,1 @@
-{
-  "internalId": 745623590,
-  "name": "Wrothgar Puzzle Cube, Hunter",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgpuzzleswitch002.png",
-  "bindType": -1,
-  "knownIds": [
-    193798
-  ]
-}
+{"internalId":745623590,"name":"Wrothgar Puzzle Cube, Hunter","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgpuzzleswitch002.png","bindType":-1,"knownIds":[193798]}

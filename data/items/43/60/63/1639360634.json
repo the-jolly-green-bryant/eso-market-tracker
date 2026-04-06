@@ -1,13 +1,1 @@
-{
-  "internalId": 1639360634,
-  "name": "distillate of Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    689708,
-    1437755,
-    689708,
-    1437755
-  ]
-}
+{"internalId":1639360634,"name":"distillate of Magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png","bindType":-1,"knownIds":[689708,1437755,689708,1437755]}

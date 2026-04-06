@@ -1,10 +1,1 @@
-{
-  "internalId": 2237408307,
-  "name": "Battered Mauloch Statue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1386395
-  ]
-}
+{"internalId":2237408307,"name":"Battered Mauloch Statue","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1386395]}

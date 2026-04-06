@@ -1,10 +1,1 @@
-{
-  "internalId": 4101296412,
-  "name": "Pattern: Worm Cult Bed, Full",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    223567
-  ]
-}
+{"internalId":4101296412,"name":"Pattern: Worm Cult Bed, Full","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[223567]}

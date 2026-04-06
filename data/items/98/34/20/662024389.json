@@ -1,10 +1,1 @@
-{
-  "internalId": 662024389,
-  "name": "Jewelry: Vestment of Olorime",
-  "description": "A Light Armor set found in the Cloudrest Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    139039
-  ]
-}
+{"internalId":662024389,"name":"Jewelry: Vestment of Olorime","description":"A Light Armor set found in the Cloudrest Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[139039]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 2592951440,
-  "name": "Dolorous Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_1hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756911,
-    1760617,
-    1765302,
-    1773081,
-    1756911,
-    1760617,
-    1765302,
-    1773081
-  ]
-}
+{"internalId":2592951440,"name":"Dolorous Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_1hhammer_a.png","bindType":-1,"knownIds":[1756911,1760617,1765302,1773081,1756911,1760617,1765302,1773081]}

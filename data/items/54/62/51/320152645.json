@@ -1,10 +1,1 @@
-{
-  "internalId": 320152645,
-  "name": "Praxis: Ayleid Desk,Ornate Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    211419
-  ]
-}
+{"internalId":320152645,"name":"Praxis: Ayleid Desk,Ornate Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[211419]}

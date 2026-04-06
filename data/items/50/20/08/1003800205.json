@@ -1,10 +1,1 @@
-{
-  "internalId": 1003800205,
-  "name": "Brass Senche-Tiger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1294262
-  ]
-}
+{"internalId":1003800205,"name":"Brass Senche-Tiger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[1294262]}

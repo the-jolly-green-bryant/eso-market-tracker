@@ -1,10 +1,1 @@
-{
-  "internalId": 1934052920,
-  "name": "Diagram: High Elf Pot, Hanging",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    118939
-  ]
-}
+{"internalId":1934052920,"name":"Diagram: High Elf Pot, Hanging","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[118939]}

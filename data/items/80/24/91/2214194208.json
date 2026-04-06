@@ -1,10 +1,1 @@
-{
-  "internalId": 2214194208,
-  "name": "Pinewood Nibble Bowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    509389
-  ]
-}
+{"internalId":2214194208,"name":"Pinewood Nibble Bowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png","bindType":-1,"knownIds":[509389]}

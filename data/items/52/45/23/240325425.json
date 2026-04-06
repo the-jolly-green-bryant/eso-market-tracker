@@ -1,10 +1,1 @@
-{
-  "internalId": 240325425,
-  "name": "Worm Cult Table, Small",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_tablehighsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    220284
-  ]
-}
+{"internalId":240325425,"name":"Worm Cult Table, Small","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_tablehighsmall001.png","bindType":-1,"knownIds":[220284]}

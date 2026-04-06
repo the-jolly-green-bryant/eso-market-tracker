@@ -1,10 +1,1 @@
-{
-  "internalId": 152831682,
-  "name": "Orcish Mask, Shield",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgsteelmask003.png",
-  "bindType": -1,
-  "knownIds": [
-    116489
-  ]
-}
+{"internalId":152831682,"name":"Orcish Mask, Shield","description":"This is a small house item.","icon":"data/images/30/0k/sa/housing_orc_inc_wtgsteelmask003.png","bindType":-1,"knownIds":[116489]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1222921491,
-  "name": "Dagger of the Knightmare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80535
-  ]
-}
+{"internalId":1222921491,"name":"Dagger of the Knightmare","description":"","icon":"data/images/d_/re/gg/gear_bosmer_dagger_d.png","bindType":2,"knownIds":[80535]}

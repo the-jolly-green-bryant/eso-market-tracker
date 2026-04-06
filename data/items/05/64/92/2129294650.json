@@ -1,15 +1,1 @@
-{
-  "internalId": 2129294650,
-  "name": "Soulcleaver Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1702095,
-    1721550,
-    1759590,
-    1702095,
-    1721550,
-    1759590
-  ]
-}
+{"internalId":2129294650,"name":"Soulcleaver Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_chest_a.png","bindType":-1,"knownIds":[1702095,1721550,1759590,1702095,1721550,1759590]}

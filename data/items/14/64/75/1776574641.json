@@ -1,10 +1,1 @@
-{
-  "internalId": 1776574641,
-  "name": "Crafting Motif 131: Militant Monk Bows",
-  "description": "Use to learn how to make Militant Monk Bows. Also teaches the equivalent Militant Monk Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    211075
-  ]
-}
+{"internalId":1776574641,"name":"Crafting Motif 131: Militant Monk Bows","description":"Use to learn how to make Militant Monk Bows. Also teaches the equivalent Militant Monk Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[211075]}

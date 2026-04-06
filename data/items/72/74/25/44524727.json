@@ -1,10 +1,1 @@
-{
-  "internalId": 44524727,
-  "name": "Cranium, Jawless",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletonskulljawless001.png",
-  "bindType": -1,
-  "knownIds": [
-    134933
-  ]
-}
+{"internalId":44524727,"name":"Cranium, Jawless","description":"This is a tiny house item.","icon":"data/images/10/0s/se/housing_gen_exc_skeletonskulljawless001.png","bindType":-1,"knownIds":[134933]}

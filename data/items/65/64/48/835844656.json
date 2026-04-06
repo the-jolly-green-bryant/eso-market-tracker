@@ -1,10 +1,1 @@
-{
-  "internalId": 835844656,
-  "name": "Crafting Motif 56: Apostle Style",
-  "description": "Use to learn the Apostle crafting style. Also teaches the equivalent Apostle Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_inc_book001.png",
-  "bindType": -1,
-  "knownIds": [
-    132549
-  ]
-}
+{"internalId":835844656,"name":"Crafting Motif 56: Apostle Style","description":"Use to learn the Apostle crafting style. Also teaches the equivalent Apostle Outfit Styles.","icon":"data/images/10/0k/oo/quest_cwc_inc_book001.png","bindType":-1,"knownIds":[132549]}

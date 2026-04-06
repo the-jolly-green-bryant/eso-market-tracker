@@ -1,10 +1,1 @@
-{
-  "internalId": 2250756388,
-  "name": "Elegant Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80841
-  ]
-}
+{"internalId":2250756388,"name":"Elegant Sword","description":"","icon":"data/images/d_/dr/ow/gear_altmer_1hsword_d.png","bindType":2,"knownIds":[80841]}

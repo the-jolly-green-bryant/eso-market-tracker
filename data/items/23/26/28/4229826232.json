@@ -1,10 +1,1 @@
-{
-  "internalId": 4229826232,
-  "name": "Colovian Beef Noodle Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57119
-  ]
-}
+{"internalId":4229826232,"name":"Colovian Beef Noodle Soup","description":"","icon":"data/images/20/0_/pu/crafting_soup_002.png","bindType":-1,"knownIds":[57119]}

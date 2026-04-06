@@ -1,10 +1,1 @@
-{
-  "internalId": 1607396185,
-  "name": "Khajiit Banner, Crescents",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_banner003.png",
-  "bindType": -1,
-  "knownIds": [
-    115648
-  ]
-}
+{"internalId":1607396185,"name":"Khajiit Banner, Crescents","description":"This is a standard house item.","icon":"data/images/30/0r/en/housing_kha_lsb_banner003.png","bindType":-1,"knownIds":[115648]}

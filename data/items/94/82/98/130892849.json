@@ -1,10 +1,1 @@
-{
-  "internalId": 130892849,
-  "name": "Redguard Jar, Oasis",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varvase001.png",
-  "bindType": -1,
-  "knownIds": [
-    117812
-  ]
-}
+{"internalId":130892849,"name":"Redguard Jar, Oasis","description":"This is a small house item.","icon":"data/images/10/0e/sa/housing_red_inc_varvase001.png","bindType":-1,"knownIds":[117812]}

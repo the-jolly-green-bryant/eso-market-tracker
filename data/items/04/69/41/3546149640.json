@@ -1,10 +1,1 @@
-{
-  "internalId": 3546149640,
-  "name": "Lillandril Summer Sausage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_sausage.png",
-  "bindType": -1,
-  "knownIds": [
-    57145
-  ]
-}
+{"internalId":3546149640,"name":"Lillandril Summer Sausage","description":"","icon":"data/images/eg/as/ua/crafting_sausage.png","bindType":-1,"knownIds":[57145]}

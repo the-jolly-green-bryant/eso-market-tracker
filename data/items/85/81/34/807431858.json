@@ -1,10 +1,1 @@
-{
-  "internalId": 807431858,
-  "name": "Praxis: Target Skeleton, Robust Humanoid",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    121315
-  ]
-}
+{"internalId":807431858,"name":"Praxis: Target Skeleton, Robust Humanoid","description":"","icon":"data/images/5g/ni/tn/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[121315]}

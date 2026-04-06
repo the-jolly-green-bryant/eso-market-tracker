@@ -1,10 +1,1 @@
-{
-  "internalId": 2314173721,
-  "name": "Chain-Breaker Gauntlets",
-  "description": "The Orc smuggler Nakhul gave you these heavy gauntlets for rescuing slaves hiding from the Camonna Tong.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    126056
-  ]
-}
+{"internalId":2314173721,"name":"Chain-Breaker Gauntlets","description":"The Orc smuggler Nakhul gave you these heavy gauntlets for rescuing slaves hiding from the Camonna Tong.","icon":"data/images/d_/sd/na/gear_orc_heavy_hands_d.png","bindType":2,"knownIds":[126056]}

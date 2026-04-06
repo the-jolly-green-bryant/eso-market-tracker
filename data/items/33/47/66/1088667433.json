@@ -1,10 +1,1 @@
-{
-  "internalId": 1088667433,
-  "name": "Riekling Skull-Cleaver",
-  "description": "For helping the Royal Road Works of Cragwallow and stopping the Riekling menace, this axe was awarded.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7728
-  ]
-}
+{"internalId":1088667433,"name":"Riekling Skull-Cleaver","description":"For helping the Royal Road Works of Cragwallow and stopping the Riekling menace, this axe was awarded.","icon":"data/images/d_/ex/ah/gear_orc_2haxe_d.png","bindType":2,"knownIds":[7728]}

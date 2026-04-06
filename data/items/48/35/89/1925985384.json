@@ -1,10 +1,1 @@
-{
-  "internalId": 1925985384,
-  "name": "\"Hearty Hoarvor\" Jagga Tankard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801332
-  ]
-}
+{"internalId":1925985384,"name":"\"Hearty Hoarvor\" Jagga Tankard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png","bindType":-1,"knownIds":[801332]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 100419010,
-  "name": "Alinor Fence, Tall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_waf_altwallsmediumstraightnocap001.png",
-  "bindType": -1,
-  "knownIds": [
-    139193
-  ]
-}
+{"internalId":100419010,"name":"Alinor Fence, Tall","description":"This is a large house item.","icon":"data/images/10/0p/ac/housing_sum_waf_altwallsmediumstraightnocap001.png","bindType":-1,"knownIds":[139193]}

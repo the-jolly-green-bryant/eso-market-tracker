@@ -1,10 +1,1 @@
-{
-  "internalId": 170385335,
-  "name": "Multicolored Sea Glass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_015.png",
-  "bindType": -1,
-  "knownIds": [
-    560172
-  ]
-}
+{"internalId":170385335,"name":"Multicolored Sea Glass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_015.png","bindType":-1,"knownIds":[560172]}

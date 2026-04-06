@@ -1,10 +1,1 @@
-{
-  "internalId": 834000639,
-  "name": "Riekling Bedding, Icy Straw",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrbeddingsnow002.png",
-  "bindType": -1,
-  "knownIds": [
-    134457
-  ]
-}
+{"internalId":834000639,"name":"Riekling Bedding, Icy Straw","description":"This is a standard house item.","icon":"data/images/20/0w/on/housing_gen_exc_rkrbeddingsnow002.png","bindType":-1,"knownIds":[134457]}

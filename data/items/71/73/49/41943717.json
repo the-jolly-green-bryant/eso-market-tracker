@@ -1,10 +1,1 @@
-{
-  "internalId": 41943717,
-  "name": "Pact Meatbag Catapult of Vengeance",
-  "description": "Creates a catapult siege weapon that fires a bag of diseased meat at its targets.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_003.png",
-  "bindType": -1,
-  "knownIds": [
-    219146
-  ]
-}
+{"internalId":41943717,"name":"Pact Meatbag Catapult of Vengeance","description":"Creates a catapult siege weapon that fires a bag of diseased meat at its targets.","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_003.png","bindType":-1,"knownIds":[219146]}

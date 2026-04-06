@@ -1,11 +1,1 @@
-{
-  "internalId": 4252011202,
-  "name": "The Second Akaviri Invasion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1199316,
-    1199316
-  ]
-}
+{"internalId":4252011202,"name":"The Second Akaviri Invasion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1199316,1199316]}

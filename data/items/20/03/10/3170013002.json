@@ -1,10 +1,1 @@
-{
-  "internalId": 3170013002,
-  "name": "Design: Druidic Oven, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png",
-  "bindType": -1,
-  "knownIds": [
-    194394
-  ]
-}
+{"internalId":3170013002,"name":"Design: Druidic Oven, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png","bindType":-1,"knownIds":[194394]}

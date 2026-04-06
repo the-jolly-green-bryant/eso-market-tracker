@@ -1,10 +1,1 @@
-{
-  "internalId": 599073244,
-  "name": "Gauntlets of the Willow's Path",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56572
-  ]
-}
+{"internalId":599073244,"name":"Gauntlets of the Willow's Path","description":"","icon":"data/images/d_/sd/na/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[56572]}

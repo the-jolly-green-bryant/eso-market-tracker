@@ -1,10 +1,1 @@
-{
-  "internalId": 1549172586,
-  "name": "Bound Affix Script: Vulnerability",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_vulnerability.png",
-  "bindType": -1,
-  "knownIds": [
-    1720933
-  ]
-}
+{"internalId":1549172586,"name":"Bound Affix Script: Vulnerability","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_vulnerability.png","bindType":-1,"knownIds":[1720933]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3989276218,
-  "name": "Gonfalon Bay Dockside Bell",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varharborbell001.png",
-  "bindType": -1,
-  "knownIds": [
-    193789
-  ]
-}
+{"internalId":3989276218,"name":"Gonfalon Bay Dockside Bell","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varharborbell001.png","bindType":-1,"knownIds":[193789]}

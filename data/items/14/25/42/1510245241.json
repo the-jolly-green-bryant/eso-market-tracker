@@ -1,10 +1,1 @@
-{
-  "internalId": 1510245241,
-  "name": "War Maiden's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122953
-  ]
-}
+{"internalId":1510245241,"name":"War Maiden's Shield","description":"","icon":"data/images/a_/dl/ei/gear_telvanni_shield_a.png","bindType":2,"knownIds":[122953]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 586145424,
-  "name": "Stormfist Weapon",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821032
-  ]
-}
+{"internalId":586145424,"name":"Stormfist Weapon","description":"","icon":null,"bindType":-1,"knownIds":[821032]}

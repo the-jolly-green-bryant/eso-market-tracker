@@ -1,10 +1,1 @@
-{
-  "internalId": 3697158856,
-  "name": "Targoth's Shield",
-  "description": "This simple shield was once wielded by Targoth, the Warcaller of the Stonewolves.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    36575
-  ]
-}
+{"internalId":3697158856,"name":"Targoth's Shield","description":"This simple shield was once wielded by Targoth, the Warcaller of the Stonewolves.","icon":"data/images/d_/dl/ei/gear_orc_shield_d.png","bindType":2,"knownIds":[36575]}

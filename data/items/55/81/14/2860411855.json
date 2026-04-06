@@ -1,10 +1,1 @@
-{
-  "internalId": 2860411855,
-  "name": "Solitude Foot Bridge, Wood-Planked",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_bridgefoot001.png",
-  "bindType": -1,
-  "knownIds": [
-    167327
-  ]
-}
+{"internalId":2860411855,"name":"Solitude Foot Bridge, Wood-Planked","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_bridgefoot001.png","bindType":-1,"knownIds":[167327]}

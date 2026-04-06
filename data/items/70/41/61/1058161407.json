@@ -1,10 +1,1 @@
-{
-  "internalId": 1058161407,
-  "name": "Clockwork Crank, Miniature",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_kwamapedestalkeycrankhandle001.png",
-  "bindType": -1,
-  "knownIds": [
-    134410
-  ]
-}
+{"internalId":1058161407,"name":"Clockwork Crank, Miniature","description":"This is a tiny house item.","icon":"data/images/10/0e/ld/housing_cwc_inc_kwamapedestalkeycrankhandle001.png","bindType":-1,"knownIds":[134410]}

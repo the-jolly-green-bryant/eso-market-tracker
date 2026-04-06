@@ -1,10 +1,1 @@
-{
-  "internalId": 2410980290,
-  "name": "Senchal Defender's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldsenchal_sword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155000
-  ]
-}
+{"internalId":2410980290,"name":"Senchal Defender's Sword","description":"","icon":"data/images/a_/dr/ow/gear_shieldsenchal_sword_a.png","bindType":2,"knownIds":[155000]}

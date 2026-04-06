@@ -1,10 +1,1 @@
-{
-  "internalId": 893134030,
-  "name": "Luminescent Bookbinding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    810020
-  ]
-}
+{"internalId":893134030,"name":"Luminescent Bookbinding","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[810020]}

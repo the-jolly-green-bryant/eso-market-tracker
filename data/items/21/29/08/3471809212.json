@@ -1,10 +1,1 @@
-{
-  "internalId": 3471809212,
-  "name": "Recipe: Tenmar Millet-Carrot Couscous",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68197
-  ]
-}
+{"internalId":3471809212,"name":"Recipe: Tenmar Millet-Carrot Couscous","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68197]}

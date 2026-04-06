@@ -1,10 +1,1 @@
-{
-  "internalId": 2022449342,
-  "name": "The Jeweler's Crate",
-  "description": "This box is heavy with Dust, Ounce and Platings for use in Jewelry crafting.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    178705
-  ]
-}
+{"internalId":2022449342,"name":"The Jeweler's Crate","description":"This box is heavy with Dust, Ounce and Platings for use in Jewelry crafting.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[178705]}

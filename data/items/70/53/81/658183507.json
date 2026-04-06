@@ -1,10 +1,1 @@
-{
-  "internalId": 658183507,
-  "name": "Ectoplasm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_ghost_ectoplasm_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54384
-  ]
-}
+{"internalId":658183507,"name":"Ectoplasm","description":"","icon":"data/images/10/0_/ms/monster_ghost_ectoplasm_001.png","bindType":-1,"knownIds":[54384]}

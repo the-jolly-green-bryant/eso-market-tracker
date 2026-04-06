@@ -1,10 +1,1 @@
-{
-  "internalId": 4119797412,
-  "name": "Hlaalu Cupboard, Open",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabookcasehng001.png",
-  "bindType": -1,
-  "knownIds": [
-    126409
-  ]
-}
+{"internalId":4119797412,"name":"Hlaalu Cupboard, Open","description":"This is a standard house item.","icon":"data/images/10/0g/nh/housing_vrd_fur_hlabookcasehng001.png","bindType":-1,"knownIds":[126409]}

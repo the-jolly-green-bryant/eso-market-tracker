@@ -1,10 +1,1 @@
-{
-  "internalId": 1633889234,
-  "name": "Blood Jerky",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_divad_hundings_dribble_bowl.png",
-  "bindType": -1,
-  "knownIds": [
-    1294252
-  ]
-}
+{"internalId":1633889234,"name":"Blood Jerky","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_divad_hundings_dribble_bowl.png","bindType":-1,"knownIds":[1294252]}

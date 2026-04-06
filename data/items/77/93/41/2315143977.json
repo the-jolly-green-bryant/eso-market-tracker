@@ -1,10 +1,1 @@
-{
-  "internalId": 2315143977,
-  "name": "Guards of Shalidor's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56834
-  ]
-}
+{"internalId":2315143977,"name":"Guards of Shalidor's Curse","description":"","icon":"data/images/d_/sg/el/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[56834]}

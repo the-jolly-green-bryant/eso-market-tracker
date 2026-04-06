@@ -1,10 +1,1 @@
-{
-  "internalId": 1547181708,
-  "name": "Pewter Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    775870
-  ]
-}
+{"internalId":1547181708,"name":"Pewter Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[775870]}

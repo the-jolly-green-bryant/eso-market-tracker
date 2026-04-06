@@ -1,10 +1,1 @@
-{
-  "internalId": 791468763,
-  "name": "Disreputable Correspondence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    640707
-  ]
-}
+{"internalId":791468763,"name":"Disreputable Correspondence","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[640707]}

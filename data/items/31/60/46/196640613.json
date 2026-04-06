@@ -1,10 +1,1 @@
-{
-  "internalId": 196640613,
-  "name": "Wooden Building Blocks",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    376520
-  ]
-}
+{"internalId":196640613,"name":"Wooden Building Blocks","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png","bindType":-1,"knownIds":[376520]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 89197086,
-  "name": "\"Imperial\" Lawn Statue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795083
-  ]
-}
+{"internalId":89197086,"name":"\"Imperial\" Lawn Statue","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[795083]}

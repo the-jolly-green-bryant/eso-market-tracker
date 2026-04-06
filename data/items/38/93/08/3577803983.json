@@ -1,10 +1,1 @@
-{
-  "internalId": 3577803983,
-  "name": "Pattern: Solitude Rug, Snow Bear",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166788
-  ]
-}
+{"internalId":3577803983,"name":"Pattern: Solitude Rug, Snow Bear","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[166788]}

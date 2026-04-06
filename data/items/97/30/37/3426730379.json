@@ -1,10 +1,1 @@
-{
-  "internalId": 3426730379,
-  "name": "Daring Corsair's Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155753
-  ]
-}
+{"internalId":3426730379,"name":"Daring Corsair's Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png","bindType":2,"knownIds":[155753]}

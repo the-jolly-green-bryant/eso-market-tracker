@@ -1,10 +1,1 @@
-{
-  "internalId": 1695708878,
-  "name": "Werewolf Hide Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1hhammer_c.png",
-  "bindType": 2,
-  "knownIds": [
-    86149
-  ]
-}
+{"internalId":1695708878,"name":"Werewolf Hide Mace","description":"","icon":"data/images/c_/re/mm/gear_primative_1hhammer_c.png","bindType":2,"knownIds":[86149]}

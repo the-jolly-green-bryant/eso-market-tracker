@@ -1,10 +1,1 @@
-{
-  "internalId": 3458097647,
-  "name": "Sketch: Elsweyr Sugar Bowl, Gilded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_3.png",
-  "bindType": -1,
-  "knownIds": [
-    151990
-  ]
-}
+{"internalId":3458097647,"name":"Sketch: Elsweyr Sugar Bowl, Gilded","description":"","icon":"data/images/3_/yr/le/crafting_planfurniture_jewelry_3.png","bindType":-1,"knownIds":[151990]}

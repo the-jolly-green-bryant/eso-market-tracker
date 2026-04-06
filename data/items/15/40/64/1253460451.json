@@ -1,10 +1,1 @@
-{
-  "internalId": 1253460451,
-  "name": "Four-Jar Spice Rack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png",
-  "bindType": -1,
-  "knownIds": [
-    654965
-  ]
-}
+{"internalId":1253460451,"name":"Four-Jar Spice Rack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png","bindType":-1,"knownIds":[654965]}

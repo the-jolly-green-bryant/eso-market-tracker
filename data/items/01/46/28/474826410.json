@@ -1,10 +1,1 @@
-{
-  "internalId": 474826410,
-  "name": "Battered Compass",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    820946
-  ]
-}
+{"internalId":474826410,"name":"Battered Compass","description":"","icon":null,"bindType":-1,"knownIds":[820946]}

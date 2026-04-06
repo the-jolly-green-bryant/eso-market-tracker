@@ -1,10 +1,1 @@
-{
-  "internalId": 3038478783,
-  "name": "Zinc",
-  "description": "Can be used to enhance jewelry.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_trait_refined_zinc.png",
-  "bindType": -1,
-  "knownIds": [
-    135157
-  ]
-}
+{"internalId":3038478783,"name":"Zinc","description":"Can be used to enhance jewelry.","icon":"data/images/cn/iz/_d/jewelrycrafting_trait_refined_zinc.png","bindType":-1,"knownIds":[135157]}

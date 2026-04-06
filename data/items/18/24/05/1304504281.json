@@ -1,10 +1,1 @@
-{
-  "internalId": 1304504281,
-  "name": "Breton Bookcase, Knotwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_bookcasetall001.png",
-  "bindType": -1,
-  "knownIds": [
-    115184
-  ]
-}
+{"internalId":1304504281,"name":"Breton Bookcase, Knotwork","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_bre_fur_bookcasetall001.png","bindType":-1,"knownIds":[115184]}

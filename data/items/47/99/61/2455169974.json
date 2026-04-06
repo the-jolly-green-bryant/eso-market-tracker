@@ -1,17 +1,1 @@
-{
-  "internalId": 2455169974,
-  "name": "Wrathsun Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1691409,
-    1692876,
-    1697623,
-    1726292,
-    1691409,
-    1692876,
-    1697623,
-    1726292
-  ]
-}
+{"internalId":2455169974,"name":"Wrathsun Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_head_a.png","bindType":-1,"knownIds":[1691409,1692876,1697623,1726292,1691409,1692876,1697623,1726292]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2056046086,
-  "name": "Fabric Line",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_merchantrackfabric002.png",
-  "bindType": -1,
-  "knownIds": [
-    223879
-  ]
-}
+{"internalId":2056046086,"name":"Fabric Line","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_merchantrackfabric002.png","bindType":-1,"knownIds":[223879]}

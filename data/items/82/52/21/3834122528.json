@@ -1,10 +1,1 @@
-{
-  "internalId": 3834122528,
-  "name": "Brotherhood Banner, Large",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_lsb_dbhfactionbanner002.png",
-  "bindType": -1,
-  "knownIds": [
-    121270
-  ]
-}
+{"internalId":3834122528,"name":"Brotherhood Banner, Large","description":"This is a huge house item.","icon":"data/images/20/0r/en/housing_col_lsb_dbhfactionbanner002.png","bindType":-1,"knownIds":[121270]}

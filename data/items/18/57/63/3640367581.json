@@ -1,10 +1,1 @@
-{
-  "internalId": 3640367581,
-  "name": "Unlucky Yngrel's Axe of the Witchman",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34842
-  ]
-}
+{"internalId":3640367581,"name":"Unlucky Yngrel's Axe of the Witchman","description":"","icon":"data/images/d_/ex/ah/gear_nord_1haxe_d.png","bindType":2,"knownIds":[34842]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 622069280,
-  "name": "Tempered Brass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_sesnits_paperweight.png",
-  "bindType": -1,
-  "knownIds": [
-    132617
-  ]
-}
+{"internalId":622069280,"name":"Tempered Brass","description":"","icon":"data/images/th/gi/ew/justice_stolen_prop_sesnits_paperweight.png","bindType":-1,"knownIds":[132617]}

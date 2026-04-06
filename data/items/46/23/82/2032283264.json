@@ -1,10 +1,1 @@
-{
-  "internalId": 2032283264,
-  "name": "The Five Far Stars",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png",
-  "bindType": -1,
-  "knownIds": [
-    1095932
-  ]
-}
+{"internalId":2032283264,"name":"The Five Far Stars","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png","bindType":-1,"knownIds":[1095932]}

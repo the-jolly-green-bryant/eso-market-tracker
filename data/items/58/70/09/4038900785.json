@@ -1,10 +1,1 @@
-{
-  "internalId": 4038900785,
-  "name": "Tree, Forked Cypress",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_u34italiancypress012.png",
-  "bindType": -1,
-  "knownIds": [
-    187782
-  ]
-}
+{"internalId":4038900785,"name":"Tree, Forked Cypress","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_u34italiancypress012.png","bindType":-1,"knownIds":[187782]}

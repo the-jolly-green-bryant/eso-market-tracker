@@ -1,10 +1,1 @@
-{
-  "internalId": 2586030519,
-  "name": "Jewelry: Oblivion's Edge",
-  "description": "A Medium Armor set found in Vaults of Madness.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134170
-  ]
-}
+{"internalId":2586030519,"name":"Jewelry: Oblivion's Edge","description":"A Medium Armor set found in Vaults of Madness.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134170]}

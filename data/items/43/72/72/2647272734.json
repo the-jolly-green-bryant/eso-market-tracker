@@ -1,10 +1,1 @@
-{
-  "internalId": 2647272734,
-  "name": "Bananas in Moon-Sugar Syrup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57139
-  ]
-}
+{"internalId":2647272734,"name":"Bananas in Moon-Sugar Syrup","description":"","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[57139]}

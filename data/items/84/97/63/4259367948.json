@@ -1,11 +1,1 @@
-{
-  "internalId": 4259367948,
-  "name": "Dark Moon Temple Bell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801321,
-    801321
-  ]
-}
+{"internalId":4259367948,"name":"Dark Moon Temple Bell","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bell_001.png","bindType":-1,"knownIds":[801321,801321]}

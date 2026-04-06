@@ -1,17 +1,1 @@
-{
-  "internalId": 389404576,
-  "name": "Amulet of Grave Inevitability",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1601003,
-    1626038,
-    1601003,
-    1626038,
-    1601003,
-    1626038,
-    1601003,
-    1626038
-  ]
-}
+{"internalId":389404576,"name":"Amulet of Grave Inevitability","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1601003,1626038,1601003,1626038,1601003,1626038,1601003,1626038]}

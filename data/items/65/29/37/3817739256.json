@@ -1,10 +1,1 @@
-{
-  "internalId": 3817739256,
-  "name": "Battle Axe of Twilight's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56141
-  ]
-}
+{"internalId":3817739256,"name":"Battle Axe of Twilight's Embrace","description":"","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[56141]}

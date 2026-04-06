@@ -1,10 +1,1 @@
-{
-  "internalId": 926056760,
-  "name": "Ring of Hist Sap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    98691
-  ]
-}
+{"internalId":926056760,"name":"Ring of Hist Sap","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[98691]}

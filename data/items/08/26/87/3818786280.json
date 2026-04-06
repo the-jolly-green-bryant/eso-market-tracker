@@ -1,10 +1,1 @@
-{
-  "internalId": 3818786280,
-  "name": "Witch-Knight's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167916
-  ]
-}
+{"internalId":3818786280,"name":"Witch-Knight's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_dagger_a.png","bindType":2,"knownIds":[167916]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 113090361,
-  "name": "Garden Troll Varmint Defender",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    481955
-  ]
-}
+{"internalId":113090361,"name":"Garden Troll Varmint Defender","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[481955]}

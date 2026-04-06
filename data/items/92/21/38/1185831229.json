@@ -1,10 +1,1 @@
-{
-  "internalId": 1185831229,
-  "name": "Design: Cured Meat Pile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119471
-  ]
-}
+{"internalId":1185831229,"name":"Design: Cured Meat Pile","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119471]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1985595750,
-  "name": "slight glyph of foulness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_diseaseessence.png",
-  "bindType": -1,
-  "knownIds": [
-    597227,
-    1436761,
-    597227,
-    1436761
-  ]
-}
+{"internalId":1985595750,"name":"slight glyph of foulness","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_diseaseessence.png","bindType":-1,"knownIds":[597227,1436761,597227,1436761]}

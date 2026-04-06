@@ -1,15 +1,1 @@
-{
-  "internalId": 750825510,
-  "name": "Dragon God's Time-Worn Hoard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1319051,
-    1329757,
-    1331535,
-    1319051,
-    1329757,
-    1331535
-  ]
-}
+{"internalId":750825510,"name":"Dragon God's Time-Worn Hoard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1319051,1329757,1331535,1319051,1329757,1331535]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 165187189,
-  "name": "Argonian Cup, Tall",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_cup001.png",
-  "bindType": -1,
-  "knownIds": [
-    115443
-  ]
-}
+{"internalId":165187189,"name":"Argonian Cup, Tall","description":"This is a tiny house item.","icon":"data/images/10/0p/uc/housing_arg_inc_cup001.png","bindType":-1,"knownIds":[115443]}

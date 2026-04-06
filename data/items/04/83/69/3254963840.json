@@ -1,10 +1,1 @@
-{
-  "internalId": 3254963840,
-  "name": "Telvanni Dresser, Large Fungal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_bookcasehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    197517
-  ]
-}
+{"internalId":3254963840,"name":"Telvanni Dresser, Large Fungal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_bookcasehigh001.png","bindType":-1,"knownIds":[197517]}

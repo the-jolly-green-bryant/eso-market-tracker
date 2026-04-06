@@ -1,13 +1,1 @@
-{
-  "internalId": 1588728762,
-  "name": "Lokkestiiz's Perfected Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_medium_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1746264,
-    1752352,
-    1746264,
-    1752352
-  ]
-}
+{"internalId":1588728762,"name":"Lokkestiiz's Perfected Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_medium_feet_a.png","bindType":-1,"knownIds":[1746264,1752352,1746264,1752352]}

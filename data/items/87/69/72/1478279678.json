@@ -1,10 +1,1 @@
-{
-  "internalId": 1478279678,
-  "name": "Crafting Motif 136: Voskrona Guardian Chests",
-  "description": "Use to learn how to make Voskrona Guardian Chests. Also teaches the equivalent Voskrona Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    212446
-  ]
-}
+{"internalId":1478279678,"name":"Crafting Motif 136: Voskrona Guardian Chests","description":"Use to learn how to make Voskrona Guardian Chests. Also teaches the equivalent Voskrona Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[212446]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1921128813,
-  "name": "fish roe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_fish_roe.png",
-  "bindType": -1,
-  "knownIds": [
-    381770
-  ]
-}
+{"internalId":1921128813,"name":"fish roe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_fish_roe.png","bindType":-1,"knownIds":[381770]}

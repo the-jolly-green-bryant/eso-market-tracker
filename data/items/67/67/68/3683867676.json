@@ -1,10 +1,1 @@
-{
-  "internalId": 3683867676,
-  "name": "Crafting Motif 36: Dark Brotherhood Daggers",
-  "description": "Use to learn how to make Dark Brotherhood Daggers. Also teaches the equivalent Dark Brotherhood Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    82060
-  ]
-}
+{"internalId":3683867676,"name":"Crafting Motif 36: Dark Brotherhood Daggers","description":"Use to learn how to make Dark Brotherhood Daggers. Also teaches the equivalent Dark Brotherhood Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[82060]}

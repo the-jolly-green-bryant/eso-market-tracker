@@ -1,10 +1,1 @@
-{
-  "internalId": 235569997,
-  "name": "Crafting Motif 61: Psijic Swords",
-  "description": "Use to learn how to make Psijic Swords. Also teaches the equivalent Psijic Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    137865
-  ]
-}
+{"internalId":235569997,"name":"Crafting Motif 61: Psijic Swords","description":"Use to learn how to make Psijic Swords. Also teaches the equivalent Psijic Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[137865]}

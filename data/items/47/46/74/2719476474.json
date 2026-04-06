@@ -1,10 +1,1 @@
-{
-  "internalId": 2719476474,
-  "name": "Smuggler's Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101114
-  ]
-}
+{"internalId":2719476474,"name":"Smuggler's Shoes","description":"","icon":"data/images/d_/te/ef/gear_khajiit_light_feet_d.png","bindType":2,"knownIds":[101114]}

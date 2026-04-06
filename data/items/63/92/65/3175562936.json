@@ -1,10 +1,1 @@
-{
-  "internalId": 3175562936,
-  "name": "Solitude Gate, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumgatedoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    167317
-  ]
-}
+{"internalId":3175562936,"name":"Solitude Gate, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumgatedoor001.png","bindType":-1,"knownIds":[167317]}

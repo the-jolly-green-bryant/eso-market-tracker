@@ -1,10 +1,1 @@
-{
-  "internalId": 2439706573,
-  "name": "Alinor Armchair, Backless Verdant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_bench002.png",
-  "bindType": -1,
-  "knownIds": [
-    139222
-  ]
-}
+{"internalId":2439706573,"name":"Alinor Armchair, Backless Verdant","description":"This is a standard house item.","icon":"data/images/20/0h/cn/housing_sum_fur_bench002.png","bindType":-1,"knownIds":[139222]}

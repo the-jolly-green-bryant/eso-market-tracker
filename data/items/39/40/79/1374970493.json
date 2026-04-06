@@ -1,10 +1,1 @@
-{
-  "internalId": 1374970493,
-  "name": "Formula: Breton Mirror, Knotwork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    115982
-  ]
-}
+{"internalId":1374970493,"name":"Formula: Breton Mirror, Knotwork","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[115982]}

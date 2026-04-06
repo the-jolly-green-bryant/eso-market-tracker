@@ -1,10 +1,1 @@
-{
-  "internalId": 2770189518,
-  "name": "Elsweyr Table, Long Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_talltablemed001.png",
-  "bindType": -1,
-  "knownIds": [
-    151722
-  ]
-}
+{"internalId":2770189518,"name":"Elsweyr Table, Long Wooden","description":"This is a standard house item.","icon":"data/images/10/0d/em/housing_els_fur_talltablemed001.png","bindType":-1,"knownIds":[151722]}

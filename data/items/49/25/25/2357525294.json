@@ -1,10 +1,1 @@
-{
-  "internalId": 2357525294,
-  "name": "Enforcer's Vambraces",
-  "description": "After unmasking the Artisan and returning the stolen items, Cinnar presented you this armor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10886
-  ]
-}
+{"internalId":2357525294,"name":"Enforcer's Vambraces","description":"After unmasking the Artisan and returning the stolen items, Cinnar presented you this armor.","icon":"data/images/d_/sd/na/gear_altmer_medium_hands_d.png","bindType":2,"knownIds":[10886]}

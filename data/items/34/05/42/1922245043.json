@@ -1,17 +1,1 @@
-{
-  "internalId": 1922245043,
-  "name": "Spattering Disjunction Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735193,
-    1746562,
-    1771284,
-    1777077,
-    1735193,
-    1746562,
-    1771284,
-    1777077
-  ]
-}
+{"internalId":1922245043,"name":"Spattering Disjunction Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_feet_a.png","bindType":-1,"knownIds":[1735193,1746562,1771284,1777077,1735193,1746562,1771284,1777077]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1410423167,
-  "name": "Bound Style Page: Truth in Wisdom Belt",
-  "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": 3,
-  "knownIds": [
-    212162
-  ]
-}
+{"internalId":1410423167,"name":"Bound Style Page: Truth in Wisdom Belt","description":"Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":3,"knownIds":[212162]}

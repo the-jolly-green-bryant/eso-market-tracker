@@ -1,10 +1,1 @@
-{
-  "internalId": 1169238349,
-  "name": "Diagram: Redguard Streetlamp, Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    119210
-  ]
-}
+{"internalId":1169238349,"name":"Diagram: Redguard Streetlamp, Single","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[119210]}

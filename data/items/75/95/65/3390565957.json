@@ -1,10 +1,1 @@
-{
-  "internalId": 3390565957,
-  "name": "Treehenge Compass Twig",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    378218
-  ]
-}
+{"internalId":3390565957,"name":"Treehenge Compass Twig","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[378218]}

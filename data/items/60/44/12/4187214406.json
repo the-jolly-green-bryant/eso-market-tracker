@@ -1,10 +1,1 @@
-{
-  "internalId": 4187214406,
-  "name": "Khajiit Sconce, Spiked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_sconce001.png",
-  "bindType": -1,
-  "knownIds": [
-    115704
-  ]
-}
+{"internalId":4187214406,"name":"Khajiit Sconce, Spiked","description":"This is a standard house item.","icon":"data/images/10/0e/cn/housing_kha_lsb_sconce001.png","bindType":-1,"knownIds":[115704]}

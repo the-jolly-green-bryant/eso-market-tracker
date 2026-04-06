@@ -1,15 +1,1 @@
-{
-  "internalId": 2859609907,
-  "name": "Naeraizozan's Band",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    580984,
-    630807,
-    621328,
-    580984,
-    630807,
-    621328
-  ]
-}
+{"internalId":2859609907,"name":"Naeraizozan's Band","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[580984,630807,621328,580984,630807,621328]}

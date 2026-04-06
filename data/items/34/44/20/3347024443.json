@@ -1,10 +1,1 @@
-{
-  "internalId": 3347024443,
-  "name": "Markarth Platform, Circular",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_markplatformround002.png",
-  "bindType": -1,
-  "knownIds": [
-    171768
-  ]
-}
+{"internalId":3347024443,"name":"Markarth Platform, Circular","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_markplatformround002.png","bindType":-1,"knownIds":[171768]}

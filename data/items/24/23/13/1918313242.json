@@ -1,10 +1,1 @@
-{
-  "internalId": 1918313242,
-  "name": "Bog Raider's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172432
-  ]
-}
+{"internalId":1918313242,"name":"Bog Raider's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_2hhammer_a.png","bindType":2,"knownIds":[172432]}

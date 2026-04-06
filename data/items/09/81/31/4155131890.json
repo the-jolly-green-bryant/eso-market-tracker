@@ -1,10 +1,1 @@
-{
-  "internalId": 4155131890,
-  "name": "Restoration Staff of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167755
-  ]
-}
+{"internalId":4155131890,"name":"Restoration Staff of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_staff_a.png","bindType":2,"knownIds":[167755]}

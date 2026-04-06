@@ -1,10 +1,1 @@
-{
-  "internalId": 3280003082,
-  "name": "Varnished Bone Chimes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_alchemical_device.png",
-  "bindType": -1,
-  "knownIds": [
-    796515
-  ]
-}
+{"internalId":3280003082,"name":"Varnished Bone Chimes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_shadowfen_alchemical_device.png","bindType":-1,"knownIds":[796515]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 673803386,
-  "name": "Dauntless Combatant's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159405
-  ]
-}
+{"internalId":673803386,"name":"Dauntless Combatant's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[159405]}

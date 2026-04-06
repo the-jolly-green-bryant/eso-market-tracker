@@ -1,10 +1,1 @@
-{
-  "internalId": 1836362478,
-  "name": "Euphotic Gatekeeper Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hadolid_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1718234
-  ]
-}
+{"internalId":1836362478,"name":"Euphotic Gatekeeper Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_hadolid_shoulder_a.png","bindType":-1,"knownIds":[1718234]}

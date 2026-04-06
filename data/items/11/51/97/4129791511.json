@@ -1,10 +1,1 @@
-{
-  "internalId": 4129791511,
-  "name": "Gryphon's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_dagger_b.png",
-  "bindType": 2,
-  "knownIds": [
-    135492
-  ]
-}
+{"internalId":4129791511,"name":"Gryphon's Dagger","description":"","icon":"data/images/b_/re/gg/gear_ancient_elf_dagger_b.png","bindType":2,"knownIds":[135492]}

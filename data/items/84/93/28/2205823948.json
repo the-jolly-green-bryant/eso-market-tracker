@@ -1,10 +1,1 @@
-{
-  "internalId": 2205823948,
-  "name": "Waxed Apothecary's Parcel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1241123
-  ]
-}
+{"internalId":2205823948,"name":"Waxed Apothecary's Parcel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[1241123]}

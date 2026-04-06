@@ -1,10 +1,1 @@
-{
-  "internalId": 2597995880,
-  "name": "Statuette of A Daedric Dog",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_statuette_daedric_dog.png",
-  "bindType": -1,
-  "knownIds": [
-    1134090
-  ]
-}
+{"internalId":2597995880,"name":"Statuette of A Daedric Dog","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_statuette_daedric_dog.png","bindType":-1,"knownIds":[1134090]}

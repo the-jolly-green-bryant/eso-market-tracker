@@ -1,15 +1,1 @@
-{
-  "internalId": 4227226005,
-  "name": "Pangrit Denmother's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600596,
-    1600976,
-    1600596,
-    1600976,
-    1600596,
-    1600976
-  ]
-}
+{"internalId":4227226005,"name":"Pangrit Denmother's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1600596,1600976,1600596,1600976,1600596,1600976]}

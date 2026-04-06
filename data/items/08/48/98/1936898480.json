@@ -1,10 +1,1 @@
-{
-  "internalId": 1936898480,
-  "name": "Diagram: Leyawiin Brazier, Short Iron Serpent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    175971
-  ]
-}
+{"internalId":1936898480,"name":"Diagram: Leyawiin Brazier, Short Iron Serpent","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[175971]}

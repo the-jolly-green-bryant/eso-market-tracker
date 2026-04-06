@@ -1,10 +1,1 @@
-{
-  "internalId": 575213726,
-  "name": "Bitten Terror Bird Statue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mounted_flightless_bird.png",
-  "bindType": -1,
-  "knownIds": [
-    1320273
-  ]
-}
+{"internalId":575213726,"name":"Bitten Terror Bird Statue","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mounted_flightless_bird.png","bindType":-1,"knownIds":[1320273]}

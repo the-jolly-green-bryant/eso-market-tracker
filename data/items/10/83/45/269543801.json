@@ -1,10 +1,1 @@
-{
-  "internalId": 269543801,
-  "name": "Sword of the Kynmarcher's Cruelty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180406
-  ]
-}
+{"internalId":269543801,"name":"Sword of the Kynmarcher's Cruelty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_annilarchch_1hsword_a.png","bindType":2,"knownIds":[180406]}

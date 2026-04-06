@@ -1,10 +1,1 @@
-{
-  "internalId": 64698817,
-  "name": "Covenant Stone Trebuchet of Vengeance",
-  "description": "Creates a trebuchet weapon whose stones cause great damage to structures and foes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_005.png",
-  "bindType": -1,
-  "knownIds": [
-    214320
-  ]
-}
+{"internalId":64698817,"name":"Covenant Stone Trebuchet of Vengeance","description":"Creates a trebuchet weapon whose stones cause great damage to structures and foes.","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_005.png","bindType":-1,"knownIds":[214320]}

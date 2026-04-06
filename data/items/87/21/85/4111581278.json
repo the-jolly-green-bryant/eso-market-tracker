@@ -1,10 +1,1 @@
-{
-  "internalId": 4111581278,
-  "name": "Bear Skull, Fresh",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_bloodybearskull002.png",
-  "bindType": -1,
-  "knownIds": [
-    141851
-  ]
-}
+{"internalId":4111581278,"name":"Bear Skull, Fresh","description":"This is a small house item.","icon":"data/images/20/0l/lu/housing_gen_exc_bloodybearskull002.png","bindType":-1,"knownIds":[141851]}

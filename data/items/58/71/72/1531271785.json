@@ -1,10 +1,1 @@
-{
-  "internalId": 1531271785,
-  "name": "High King's Lion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1272596
-  ]
-}
+{"internalId":1531271785,"name":"High King's Lion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[1272596]}

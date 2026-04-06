@@ -1,10 +1,1 @@
-{
-  "internalId": 15370036,
-  "name": "Apocrypha Arch, Book Stacks",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_libbookarch001.png",
-  "bindType": -1,
-  "knownIds": [
-    203305
-  ]
-}
+{"internalId":15370036,"name":"Apocrypha Arch, Book Stacks","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_str_libbookarch001.png","bindType":-1,"knownIds":[203305]}

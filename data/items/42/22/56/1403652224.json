@@ -1,15 +1,1 @@
-{
-  "internalId": 1403652224,
-  "name": "Sotha Sil's Codex of Infinite Possibility",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_inc_book002.png",
-  "bindType": -1,
-  "knownIds": [
-    1174231,
-    1196871,
-    1212549,
-    1174231,
-    1196871,
-    1212549
-  ]
-}
+{"internalId":1403652224,"name":"Sotha Sil's Codex of Infinite Possibility","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cwc_inc_book002.png","bindType":-1,"knownIds":[1174231,1196871,1212549,1174231,1196871,1212549]}

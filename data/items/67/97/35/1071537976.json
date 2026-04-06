@@ -1,10 +1,1 @@
-{
-  "internalId": 1071537976,
-  "name": "Achievement Furnishings Crate 12",
-  "description": "This Crate contains 40 Achievement furnishing items.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    192451
-  ]
-}
+{"internalId":1071537976,"name":"Achievement Furnishings Crate 12","description":"This Crate contains 40 Achievement furnishing items.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[192451]}

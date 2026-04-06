@@ -1,10 +1,1 @@
-{
-  "internalId": 1324187305,
-  "name": "Velothi Kneeler, Prayer",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_kneeler001.png",
-  "bindType": -1,
-  "knownIds": [
-    126576
-  ]
-}
+{"internalId":1324187305,"name":"Velothi Kneeler, Prayer","description":"This is a small house item.","icon":"data/images/10/0r/el/housing_vrd_duc_kneeler001.png","bindType":-1,"knownIds":[126576]}

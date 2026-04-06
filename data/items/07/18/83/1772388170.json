@@ -1,10 +1,1 @@
-{
-  "internalId": 1772388170,
-  "name": "Alcaire Banneret's Helm",
-  "description": "Given to you by the recently widowed Duke Nathaniel for your loyalty to Alcaire Castle in a time of great uncertainty.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    6900
-  ]
-}
+{"internalId":1772388170,"name":"Alcaire Banneret's Helm","description":"Given to you by the recently widowed Duke Nathaniel for your loyalty to Alcaire Castle in a time of great uncertainty.","icon":"data/images/d_/da/eh/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[6900]}

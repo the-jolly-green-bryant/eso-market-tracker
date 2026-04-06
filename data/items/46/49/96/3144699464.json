@@ -1,10 +1,1 @@
-{
-  "internalId": 3144699464,
-  "name": "Grimoire: Mender's Bond",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_grimoire_staffresto.png",
-  "bindType": 3,
-  "knownIds": [
-    204489
-  ]
-}
+{"internalId":3144699464,"name":"Grimoire: Mender's Bond","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_grimoire_staffresto.png","bindType":3,"knownIds":[204489]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3613904270,
-  "name": "Vines, Verdant Ivy Climber",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_greenivy004.png",
-  "bindType": -1,
-  "knownIds": [
-    156677
-  ]
-}
+{"internalId":3613904270,"name":"Vines, Verdant Ivy Climber","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_greenivy004.png","bindType":-1,"knownIds":[156677]}

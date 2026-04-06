@@ -1,10 +1,1 @@
-{
-  "internalId": 2083116452,
-  "name": "Coup De Grâce Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219464
-  ]
-}
+{"internalId":2083116452,"name":"Coup De Grâce Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[219464]}

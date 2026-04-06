@@ -1,10 +1,1 @@
-{
-  "internalId": 2502074048,
-  "name": "Pauldron of Affliction",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    64853
-  ]
-}
+{"internalId":2502074048,"name":"Pauldron of Affliction","description":"","icon":"data/images/d_/sr/ed/gear_argonian_heavy_shoulders_d.png","bindType":2,"knownIds":[64853]}

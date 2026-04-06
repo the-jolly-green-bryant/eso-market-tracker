@@ -1,10 +1,1 @@
-{
-  "internalId": 1874695737,
-  "name": "The Lunar Lorkhan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1095910
-  ]
-}
+{"internalId":1874695737,"name":"The Lunar Lorkhan","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png","bindType":-1,"knownIds":[1095910]}

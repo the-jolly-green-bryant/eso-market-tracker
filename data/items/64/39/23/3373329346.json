@@ -1,10 +1,1 @@
-{
-  "internalId": 3373329346,
-  "name": "Baan Dar's Blessing Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1701733
-  ]
-}
+{"internalId":3373329346,"name":"Baan Dar's Blessing Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png","bindType":-1,"knownIds":[1701733]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 533568390,
-  "name": "Dock Shed, Wooden",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_dck_dockshed001.png",
-  "bindType": -1,
-  "knownIds": [
-    212582
-  ]
-}
+{"internalId":533568390,"name":"Dock Shed, Wooden","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_dck_dockshed001.png","bindType":-1,"knownIds":[212582]}

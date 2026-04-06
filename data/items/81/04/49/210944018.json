@@ -1,17 +1,1 @@
-{
-  "internalId": 210944018,
-  "name": "major glyph of foulness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_diseaseessence.png",
-  "bindType": -1,
-  "knownIds": [
-    415379,
-    1438228,
-    415379,
-    1438228,
-    415379,
-    1438228,
-    415379,
-    1438228
-  ]
-}
+{"internalId":210944018,"name":"major glyph of foulness","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_diseaseessence.png","bindType":-1,"knownIds":[415379,1438228,415379,1438228,415379,1438228,415379,1438228]}

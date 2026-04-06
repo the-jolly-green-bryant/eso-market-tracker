@@ -1,10 +1,1 @@
-{
-  "internalId": 1797624832,
-  "name": "Anequina Healer's Rod",
-  "description": "S'rendarr's Cradle was a place of healing, but blood rarely washes out completely.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    150392
-  ]
-}
+{"internalId":1797624832,"name":"Anequina Healer's Rod","description":"S'rendarr's Cradle was a place of healing, but blood rarely washes out completely.","icon":"data/images/a_/ff/at/gear_anequina_staff_a.png","bindType":2,"knownIds":[150392]}

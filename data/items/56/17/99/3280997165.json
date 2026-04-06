@@ -1,10 +1,1 @@
-{
-  "internalId": 3280997165,
-  "name": "Leyawiin Streetlight, Carved Waves",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylightpostc001.png",
-  "bindType": -1,
-  "knownIds": [
-    175633
-  ]
-}
+{"internalId":3280997165,"name":"Leyawiin Streetlight, Carved Waves","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylightpostc001.png","bindType":-1,"knownIds":[175633]}

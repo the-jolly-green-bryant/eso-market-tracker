@@ -1,10 +1,1 @@
-{
-  "internalId": 2277580172,
-  "name": "Rune Chunk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_daedric_rune.png",
-  "bindType": -1,
-  "knownIds": [
-    805854
-  ]
-}
+{"internalId":2277580172,"name":"Rune Chunk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_daedric_rune.png","bindType":-1,"knownIds":[805854]}

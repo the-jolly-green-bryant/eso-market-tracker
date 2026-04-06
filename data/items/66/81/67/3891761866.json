@@ -1,10 +1,1 @@
-{
-  "internalId": 3891761866,
-  "name": "Crafting Motif 131: Militant Monk Gloves",
-  "description": "Use to learn how to make Militant Monk Gloves. Also teaches the equivalent Militant Monk Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    211078
-  ]
-}
+{"internalId":3891761866,"name":"Crafting Motif 131: Militant Monk Gloves","description":"Use to learn how to make Militant Monk Gloves. Also teaches the equivalent Militant Monk Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[211078]}

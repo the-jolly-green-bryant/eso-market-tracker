@@ -1,10 +1,1 @@
-{
-  "internalId": 3468833743,
-  "name": "Garth's Gages",
-  "description": "Gloves given for saving Garth from the spider cave.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7257
-  ]
-}
+{"internalId":3468833743,"name":"Garth's Gages","description":"Gloves given for saving Garth from the spider cave.","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":2,"knownIds":[7257]}

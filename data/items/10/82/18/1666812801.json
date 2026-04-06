@@ -1,10 +1,1 @@
-{
-  "internalId": 1666812801,
-  "name": "Blueprint: Leyawiin Bookcase, Short",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175924
-  ]
-}
+{"internalId":1666812801,"name":"Blueprint: Leyawiin Bookcase, Short","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[175924]}

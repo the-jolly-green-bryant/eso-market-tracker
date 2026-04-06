@@ -1,17 +1,1 @@
-{
-  "internalId": 753968563,
-  "name": "Galenwe's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1262120,
-    1312959,
-    1460494,
-    1495300,
-    1262120,
-    1312959,
-    1460494,
-    1495300
-  ]
-}
+{"internalId":753968563,"name":"Galenwe's Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1262120,1312959,1460494,1495300,1262120,1312959,1460494,1495300]}

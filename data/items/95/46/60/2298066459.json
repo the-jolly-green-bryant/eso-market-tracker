@@ -1,10 +1,1 @@
-{
-  "internalId": 2298066459,
-  "name": "Eye of the Grasp Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_mace_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180074
-  ]
-}
+{"internalId":2298066459,"name":"Eye of the Grasp Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_mace_a.png","bindType":2,"knownIds":[180074]}

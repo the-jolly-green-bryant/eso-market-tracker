@@ -1,10 +1,1 @@
-{
-  "internalId": 280567790,
-  "name": "Necklace of the Hatchling's Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    99065
-  ]
-}
+{"internalId":280567790,"name":"Necklace of the Hatchling's Shell","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[99065]}

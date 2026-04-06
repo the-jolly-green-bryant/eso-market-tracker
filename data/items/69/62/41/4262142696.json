@@ -1,10 +1,1 @@
-{
-  "internalId": 4262142696,
-  "name": "Warrior-Poet's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122758
-  ]
-}
+{"internalId":4262142696,"name":"Warrior-Poet's Dagger","description":"","icon":"data/images/a_/re/gg/gear_redoran_dagger_a.png","bindType":2,"knownIds":[122758]}

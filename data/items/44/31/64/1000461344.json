@@ -1,10 +1,1 @@
-{
-  "internalId": 1000461344,
-  "name": "Gourmand's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190518
-  ]
-}
+{"internalId":1000461344,"name":"Gourmand's Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_1hsword_a.png","bindType":2,"knownIds":[190518]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1495447155,
-  "name": "Orcish Platform, Block",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_csb_wtgmerchantstallstand001.png",
-  "bindType": -1,
-  "knownIds": [
-    116350
-  ]
-}
+{"internalId":1495447155,"name":"Orcish Platform, Block","description":"This is a large house item.","icon":"data/images/10/0d/na/housing_orc_csb_wtgmerchantstallstand001.png","bindType":-1,"knownIds":[116350]}

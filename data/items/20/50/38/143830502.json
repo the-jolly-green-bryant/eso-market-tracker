@@ -1,10 +1,1 @@
-{
-  "internalId": 143830502,
-  "name": "Crafting Motif 78: Moongrave Fane Shoulders",
-  "description": "Use to learn how to make Moongrave Fane Shoulders. Also teaches the equivalent Moongrave Fane outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156602
-  ]
-}
+{"internalId":143830502,"name":"Crafting Motif 78: Moongrave Fane Shoulders","description":"Use to learn how to make Moongrave Fane Shoulders. Also teaches the equivalent Moongrave Fane outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156602]}

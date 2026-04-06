@@ -1,10 +1,1 @@
-{
-  "internalId": 4116848792,
-  "name": "Cyrodilic Pumpkin Fritters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fried_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37955
-  ]
-}
+{"internalId":4116848792,"name":"Cyrodilic Pumpkin Fritters","description":"","icon":"data/images/20/0_/de/crafting_fried_002.png","bindType":-1,"knownIds":[37955]}

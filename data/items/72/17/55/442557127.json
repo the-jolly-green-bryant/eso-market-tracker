@@ -1,10 +1,1 @@
-{
-  "internalId": 442557127,
-  "name": "Sapling, Tender Autumn",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rift_smallsaplings_005.png",
-  "bindType": -1,
-  "knownIds": [
-    120500
-  ]
-}
+{"internalId":442557127,"name":"Sapling, Tender Autumn","description":"This is a small house item.","icon":"data/images/50/0_/sg/housing_veg_bsh_rift_smallsaplings_005.png","bindType":-1,"knownIds":[120500]}

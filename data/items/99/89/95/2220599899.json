@@ -1,10 +1,1 @@
-{
-  "internalId": 2220599899,
-  "name": "Stygian Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102221
-  ]
-}
+{"internalId":2220599899,"name":"Stygian Inferno Staff","description":"","icon":"data/images/a_/ff/at/gear_draugr_staff_a.png","bindType":2,"knownIds":[102221]}

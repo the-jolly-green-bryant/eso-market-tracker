@@ -1,10 +1,1 @@
-{
-  "internalId": 1557379170,
-  "name": "Covenant Shock Lancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_shock.png",
-  "bindType": -1,
-  "knownIds": [
-    1378463
-  ]
-}
+{"internalId":1557379170,"name":"Covenant Shock Lancer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_shock.png","bindType":-1,"knownIds":[1378463]}

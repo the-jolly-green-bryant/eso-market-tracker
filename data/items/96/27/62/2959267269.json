@@ -1,10 +1,1 @@
-{
-  "internalId": 2959267269,
-  "name": "Clavicus Vines Chenin Blanc",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
-  "bindType": -1,
-  "knownIds": [
-    57211
-  ]
-}
+{"internalId":2959267269,"name":"Clavicus Vines Chenin Blanc","description":"","icon":"data/images/30/0_/st/crafting_spirits_003.png","bindType":-1,"knownIds":[57211]}

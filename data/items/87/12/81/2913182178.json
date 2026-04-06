@@ -1,10 +1,1 @@
-{
-  "internalId": 2913182178,
-  "name": "Blueprint: Awl, Bookbinding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    198519
-  ]
-}
+{"internalId":2913182178,"name":"Blueprint: Awl, Bookbinding","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[198519]}

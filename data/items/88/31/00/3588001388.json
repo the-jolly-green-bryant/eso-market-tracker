@@ -1,10 +1,1 @@
-{
-  "internalId": 3588001388,
-  "name": "Heirloom Necklace",
-  "description": "A slight warmth radiates from this family trinket.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    178493
-  ]
-}
+{"internalId":3588001388,"name":"Heirloom Necklace","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[126832]}

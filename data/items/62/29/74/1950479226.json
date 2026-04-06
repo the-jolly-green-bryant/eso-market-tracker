@@ -1,10 +1,1 @@
-{
-  "internalId": 1950479226,
-  "name": "Xynaa's Storm",
-  "description": "A staff crackling with energy found within Xynaa's chambers in the Deadlands.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    174875
-  ]
-}
+{"internalId":1950479226,"name":"Xynaa's Storm","description":"A staff crackling with energy found within Xynaa's chambers in the Deadlands.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png","bindType":2,"knownIds":[174875]}

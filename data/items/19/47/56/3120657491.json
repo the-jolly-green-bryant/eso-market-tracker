@@ -1,10 +1,1 @@
-{
-  "internalId": 3120657491,
-  "name": "Crafting Motif 83: Pyre Watch Style",
-  "description": "Use to learn the Pyre Watch crafting style. Also teaches the equivalent Pyre Watch outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    158291
-  ]
-}
+{"internalId":3120657491,"name":"Crafting Motif 83: Pyre Watch Style","description":"Use to learn the Pyre Watch crafting style. Also teaches the equivalent Pyre Watch outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[158291]}

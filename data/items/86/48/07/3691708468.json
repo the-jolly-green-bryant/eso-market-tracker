@@ -1,10 +1,1 @@
-{
-  "internalId": 3691708468,
-  "name": "Solitude Pew, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_benchfancy004.png",
-  "bindType": -1,
-  "knownIds": [
-    165672
-  ]
-}
+{"internalId":3691708468,"name":"Solitude Pew, Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_benchfancy004.png","bindType":-1,"knownIds":[165672]}

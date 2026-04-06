@@ -1,10 +1,1 @@
-{
-  "internalId": 3403995646,
-  "name": "Ceremonial Cauldron-Stirring Hand-Spoon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    848340
-  ]
-}
+{"internalId":3403995646,"name":"Ceremonial Cauldron-Stirring Hand-Spoon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[848340]}

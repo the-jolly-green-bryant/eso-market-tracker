@@ -1,10 +1,1 @@
-{
-  "internalId": 844782887,
-  "name": "Ivory Three-Hole Spine Sharpener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    782555
-  ]
-}
+{"internalId":844782887,"name":"Ivory Three-Hole Spine Sharpener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[782555]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4147965089,
-  "name": "Breton Streetlight, Paired",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_postlightbaseless003.png",
-  "bindType": -1,
-  "knownIds": [
-    115176
-  ]
-}
+{"internalId":4147965089,"name":"Breton Streetlight, Paired","description":"This is a standard house item.","icon":"data/images/30/0s/se/housing_bre_lsb_postlightbaseless003.png","bindType":-1,"knownIds":[115176]}

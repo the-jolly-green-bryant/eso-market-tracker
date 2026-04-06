@@ -1,10 +1,1 @@
-{
-  "internalId": 1131220486,
-  "name": "Gryphon's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135499
-  ]
-}
+{"internalId":1131220486,"name":"Gryphon's Jack","description":"","icon":"data/images/a_/ts/eh/gear_ancient_elf_medium_chest_a.png","bindType":2,"knownIds":[135499]}

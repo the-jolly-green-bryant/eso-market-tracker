@@ -1,10 +1,1 @@
-{
-  "internalId": 3699025796,
-  "name": "Blueprint: Solitude Counter, Rustic Bar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166885
-  ]
-}
+{"internalId":3699025796,"name":"Blueprint: Solitude Counter, Rustic Bar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[166885]}

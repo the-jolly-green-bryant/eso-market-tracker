@@ -1,10 +1,1 @@
-{
-  "internalId": 2729004158,
-  "name": "Storm-Cursed Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1568202
-  ]
-}
+{"internalId":2729004158,"name":"Storm-Cursed Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1568202]}

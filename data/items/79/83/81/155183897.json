@@ -1,10 +1,1 @@
-{
-  "internalId": 155183897,
-  "name": "Crafting Motif 35: Dro-M'Athra Style",
-  "description": "Use to learn the Dro-m'Athra crafting style. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Dro-m'Athra Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    74652
-  ]
-}
+{"internalId":155183897,"name":"Crafting Motif 35: Dro-M'Athra Style","description":"Use to learn the Dro-m'Athra crafting style. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Dro-m'Athra Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[74652]}

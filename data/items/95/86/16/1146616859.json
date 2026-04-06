@@ -1,10 +1,1 @@
-{
-  "internalId": 1146616859,
-  "name": "Vampiric Table, Square Low",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampiretableshort001.png",
-  "bindType": -1,
-  "knownIds": [
-    165596
-  ]
-}
+{"internalId":1146616859,"name":"Vampiric Table, Square Low","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampiretableshort001.png","bindType":-1,"knownIds":[165596]}

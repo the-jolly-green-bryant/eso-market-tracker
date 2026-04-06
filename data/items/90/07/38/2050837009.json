@@ -1,10 +1,1 @@
-{
-  "internalId": 2050837009,
-  "name": "Tapestry, Nocturnal",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_bannernocturnal001.png",
-  "bindType": -1,
-  "knownIds": [
-    139137
-  ]
-}
+{"internalId":2050837009,"name":"Tapestry, Nocturnal","description":"This is a large house item.","icon":"data/images/10/0l/an/housing_dae_lsb_bannernocturnal001.png","bindType":-1,"knownIds":[139137]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1448700627,
-  "name": "Apocrypha Specimen Jar, Large Empty",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    197847
-  ]
-}
+{"internalId":1448700627,"name":"Apocrypha Specimen Jar, Large Empty","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarlarge001.png","bindType":-1,"knownIds":[197847]}

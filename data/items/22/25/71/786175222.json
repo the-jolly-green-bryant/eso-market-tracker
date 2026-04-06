@@ -1,10 +1,1 @@
-{
-  "internalId": 786175222,
-  "name": "Ever-Breath Smith's Bit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_weapon_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1192966
-  ]
-}
+{"internalId":786175222,"name":"Ever-Breath Smith's Bit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_smith_weapon_vendor_component_002.png","bindType":-1,"knownIds":[1192966]}

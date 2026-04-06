@@ -1,17 +1,1 @@
-{
-  "internalId": 1669898107,
-  "name": "Peace and Serenity Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1679616,
-    1717329,
-    1764546,
-    1779632,
-    1679616,
-    1717329,
-    1764546,
-    1779632
-  ]
-}
+{"internalId":1669898107,"name":"Peace and Serenity Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_1haxe_a.png","bindType":-1,"knownIds":[1679616,1717329,1764546,1779632,1679616,1717329,1764546,1779632]}

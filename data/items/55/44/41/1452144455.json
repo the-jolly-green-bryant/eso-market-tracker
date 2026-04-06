@@ -1,10 +1,1 @@
-{
-  "internalId": 1452144455,
-  "name": "Leki's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199340
-  ]
-}
+{"internalId":1452144455,"name":"Leki's Guards","description":"","icon":"data/images/a_/sg/el/gear_abahswatch_medium_legs_a.png","bindType":2,"knownIds":[79768]}

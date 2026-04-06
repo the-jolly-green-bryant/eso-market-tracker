@@ -1,10 +1,1 @@
-{
-  "internalId": 426267013,
-  "name": "Writhing Fortress Platform, Tiered",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_str_housingwayshrineplatform001.png",
-  "bindType": -1,
-  "knownIds": [
-    223185
-  ]
-}
+{"internalId":426267013,"name":"Writhing Fortress Platform, Tiered","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_str_housingwayshrineplatform001.png","bindType":-1,"knownIds":[223185]}

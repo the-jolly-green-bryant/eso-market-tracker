@@ -1,10 +1,1 @@
-{
-  "internalId": 1392837938,
-  "name": "Crafting Motif 94: Ancestral Reach Bows",
-  "description": "Use to learn how to make Ancestral Reach Bows. Also teaches the equivalent Ancestral Reach Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167274
-  ]
-}
+{"internalId":1392837938,"name":"Crafting Motif 94: Ancestral Reach Bows","description":"Use to learn how to make Ancestral Reach Bows. Also teaches the equivalent Ancestral Reach Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167274]}

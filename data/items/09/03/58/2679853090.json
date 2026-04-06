@@ -1,10 +1,1 @@
-{
-  "internalId": 2679853090,
-  "name": "Siegemaster's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    210852
-  ]
-}
+{"internalId":2679853090,"name":"Siegemaster's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[210852]}

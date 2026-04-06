@@ -1,10 +1,1 @@
-{
-  "internalId": 1783784898,
-  "name": "Hagraven Matron Tapestry",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryhagravenmatronsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    188274
-  ]
-}
+{"internalId":1783784898,"name":"Hagraven Matron Tapestry","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryhagravenmatronsmall001.png","bindType":-1,"knownIds":[188274]}

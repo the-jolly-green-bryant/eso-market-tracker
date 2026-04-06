@@ -1,10 +1,1 @@
-{
-  "internalId": 1812674980,
-  "name": "Enchanter Survey: Grahtwood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803511
-  ]
-}
+{"internalId":1812674980,"name":"Enchanter Survey: Grahtwood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[803511]}

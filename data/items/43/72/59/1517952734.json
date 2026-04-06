@@ -1,10 +1,1 @@
-{
-  "internalId": 1517952734,
-  "name": "Khajiit Carpet, Sun",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_largerug001.png",
-  "bindType": -1,
-  "knownIds": [
-    115664
-  ]
-}
+{"internalId":1517952734,"name":"Khajiit Carpet, Sun","description":"This is a standard house item.","icon":"data/images/10/0g/ur/housing_kha_inc_largerug001.png","bindType":-1,"knownIds":[115664]}

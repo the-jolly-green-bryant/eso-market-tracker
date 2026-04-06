@@ -1,10 +1,1 @@
-{
-  "internalId": 3667616814,
-  "name": "Dark Elf Ash Garden, Familial",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_housingashpit002.png",
-  "bindType": -1,
-  "knownIds": [
-    139100
-  ]
-}
+{"internalId":3667616814,"name":"Dark Elf Ash Garden, Familial","description":"This is a standard house item.","icon":"data/images/20/0t/ip/housing_vrd_duc_housingashpit002.png","bindType":-1,"knownIds":[139100]}

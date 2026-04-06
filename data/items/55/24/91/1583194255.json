@@ -1,10 +1,1 @@
-{
-  "internalId": 1583194255,
-  "name": "Cuirass of Baan Dar's Blessing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    204394
-  ]
-}
+{"internalId":1583194255,"name":"Cuirass of Baan Dar's Blessing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[204394]}

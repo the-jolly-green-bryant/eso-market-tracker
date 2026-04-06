@@ -1,10 +1,1 @@
-{
-  "internalId": 4266218570,
-  "name": "Ysgramor's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101324
-  ]
-}
+{"internalId":4266218570,"name":"Ysgramor's Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[101324]}

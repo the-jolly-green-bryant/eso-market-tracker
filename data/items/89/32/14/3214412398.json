@@ -1,10 +1,1 @@
-{
-  "internalId": 3214412398,
-  "name": "Fragment of the Voracious",
-  "description": "Consume the Fragment of the Voracious, along with the Fragments of the Ratmaster, the Alchemist, the Hollowfang, and the Vampire Lord, to unlock the Skill Stylist: Mist Form achievement and the Mist Form, Violet Purple Skill Style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": 3,
-  "knownIds": [
-    217705
-  ]
-}
+{"internalId":3214412398,"name":"Fragment of the Voracious","description":"Consume the Fragment of the Voracious, along with the Fragments of the Ratmaster, the Alchemist, the Hollowfang, and the Vampire Lord, to unlock the Skill Stylist: Mist Form achievement and the Mist Form, Violet Purple Skill Style.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":3,"knownIds":[217705]}

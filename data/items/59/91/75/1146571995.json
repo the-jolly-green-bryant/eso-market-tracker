@@ -1,10 +1,1 @@
-{
-  "internalId": 1146571995,
-  "name": "Khajiit Wagon, Reed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_csb_wagon001.png",
-  "bindType": -1,
-  "knownIds": [
-    115675
-  ]
-}
+{"internalId":1146571995,"name":"Khajiit Wagon, Reed","description":"This is a large house item.","icon":"data/images/10/0n/og/housing_kha_csb_wagon001.png","bindType":-1,"knownIds":[115675]}

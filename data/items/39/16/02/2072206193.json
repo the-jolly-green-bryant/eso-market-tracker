@@ -1,13 +1,1 @@
-{
-  "internalId": 2072206193,
-  "name": "Darkblood Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    527448,
-    751020,
-    527448,
-    751020
-  ]
-}
+{"internalId":2072206193,"name":"Darkblood Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":-1,"knownIds":[527448,751020,527448,751020]}

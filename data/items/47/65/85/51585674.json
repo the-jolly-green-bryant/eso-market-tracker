@@ -1,10 +1,1 @@
-{
-  "internalId": 51585674,
-  "name": "Mushrooms, Funnel Cap Cluster",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdfunnelmushroom002.png",
-  "bindType": -1,
-  "knownIds": [
-    125612
-  ]
-}
+{"internalId":51585674,"name":"Mushrooms, Funnel Cap Cluster","description":"This is a huge house item.","icon":"data/images/20/0m/oo/housing_veg_fug_vrdfunnelmushroom002.png","bindType":-1,"knownIds":[125612]}

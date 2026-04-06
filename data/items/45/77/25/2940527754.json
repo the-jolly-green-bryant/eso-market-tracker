@@ -1,10 +1,1 @@
-{
-  "internalId": 2940527754,
-  "name": "Cloudy Tonsil Tingle Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
-  "bindType": -1,
-  "knownIds": [
-    32069
-  ]
-}
+{"internalId":2940527754,"name":"Cloudy Tonsil Tingle Tonic","description":"","icon":"data/images/10/0_/st/crafting_spirits_001.png","bindType":-1,"knownIds":[32069]}

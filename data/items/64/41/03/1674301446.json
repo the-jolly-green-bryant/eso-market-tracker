@@ -1,10 +1,1 @@
-{
-  "internalId": 1674301446,
-  "name": "Style Page: Opal Bloodspawn Battle Axe",
-  "description": "Use to learn the Opal Bloodspawn Battle Axe Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156821
-  ]
-}
+{"internalId":1674301446,"name":"Style Page: Opal Bloodspawn Battle Axe","description":"Use to learn the Opal Bloodspawn Battle Axe Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156821]}

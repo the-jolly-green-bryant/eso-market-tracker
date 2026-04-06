@@ -1,10 +1,1 @@
-{
-  "internalId": 693937815,
-  "name": "Colovian Alembic Set, Colorful",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_mixologybrewer001.png",
-  "bindType": -1,
-  "knownIds": [
-    208115
-  ]
-}
+{"internalId":693937815,"name":"Colovian Alembic Set, Colorful","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_mixologybrewer001.png","bindType":-1,"knownIds":[208115]}

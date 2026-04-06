@@ -1,10 +1,1 @@
-{
-  "internalId": 1877788496,
-  "name": "Leki's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199365
-  ]
-}
+{"internalId":1877788496,"name":"Leki's Shield","description":"","icon":"data/images/a_/dl/ei/gear_abahswatch_shield_a.png","bindType":2,"knownIds":[79771]}

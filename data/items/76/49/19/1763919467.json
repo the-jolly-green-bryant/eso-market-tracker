@@ -1,10 +1,1 @@
-{
-  "internalId": 1763919467,
-  "name": "Death-Dancer Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214853
-  ]
-}
+{"internalId":1763919467,"name":"Death-Dancer Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_head_a.png","bindType":2,"knownIds":[214853]}

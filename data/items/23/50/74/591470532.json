@@ -1,10 +1,1 @@
-{
-  "internalId": 591470532,
-  "name": "Ring of the Phoenix",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    117635
-  ]
-}
+{"internalId":591470532,"name":"Ring of the Phoenix","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[117635]}

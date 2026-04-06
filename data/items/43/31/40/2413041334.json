@@ -1,10 +1,1 @@
-{
-  "internalId": 2413041334,
-  "name": "Old Growth Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191966
-  ]
-}
+{"internalId":2413041334,"name":"Old Growth Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[191966]}

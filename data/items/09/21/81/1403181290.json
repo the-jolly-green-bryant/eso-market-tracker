@@ -1,10 +1,1 @@
-{
-  "internalId": 1403181290,
-  "name": "Heartland Conqueror Medium Armor",
-  "description": "A Crafted Armor set constructed in Blackwood.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182902
-  ]
-}
+{"internalId":1403181290,"name":"Heartland Conqueror Medium Armor","description":"A Crafted Armor set constructed in Blackwood.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182902]}

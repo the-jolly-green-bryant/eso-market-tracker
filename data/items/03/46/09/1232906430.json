@@ -1,10 +1,1 @@
-{
-  "internalId": 1232906430,
-  "name": "Master Enchanting Writ",
-  "description": "An exclusive, secret contract for a powerful glyph.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_enchanting.png",
-  "bindType": -1,
-  "knownIds": [
-    121528
-  ]
-}
+{"internalId":1232906430,"name":"Master Enchanting Writ","description":"An exclusive, secret contract for a powerful glyph.","icon":"data/images/gn/it/na/master_writ_enchanting.png","bindType":-1,"knownIds":[121528]}

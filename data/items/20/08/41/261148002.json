@@ -1,10 +1,1 @@
-{
-  "internalId": 261148002,
-  "name": "Chunk of Meat",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    806259
-  ]
-}
+{"internalId":261148002,"name":"Chunk of Meat","description":"","icon":null,"bindType":-1,"knownIds":[806259]}

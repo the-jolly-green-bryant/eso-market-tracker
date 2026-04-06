@@ -1,10 +1,1 @@
-{
-  "internalId": 3974757851,
-  "name": "Worm Cult Sconce, Jaw",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
-  "bindType": -1,
-  "knownIds": [
-    220300
-  ]
-}
+{"internalId":3974757851,"name":"Worm Cult Sconce, Jaw","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/icon_missing.png","bindType":-1,"knownIds":[220300]}

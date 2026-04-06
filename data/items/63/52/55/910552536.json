@@ -1,10 +1,1 @@
-{
-  "internalId": 910552536,
-  "name": "Tree, Young Green Birch",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_birch004_small.png",
-  "bindType": -1,
-  "knownIds": [
-    121010
-  ]
-}
+{"internalId":910552536,"name":"Tree, Young Green Birch","description":"This is a large house item.","icon":"data/images/ll/am/s_/housing_tre_dec_birch004_small.png","bindType":-1,"knownIds":[121010]}

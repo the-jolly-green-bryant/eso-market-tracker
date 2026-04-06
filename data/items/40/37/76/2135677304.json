@@ -1,10 +1,1 @@
-{
-  "internalId": 2135677304,
-  "name": "Maul of the Fire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95416
-  ]
-}
+{"internalId":2135677304,"name":"Maul of the Fire","description":"","icon":"data/images/a_/re/mm/gear_yokudan_2hhammer_a.png","bindType":2,"knownIds":[95416]}

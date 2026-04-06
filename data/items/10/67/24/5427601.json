@@ -1,10 +1,1 @@
-{
-  "internalId": 5427601,
-  "name": "Praxis: Khajiit Brazier, Enchanted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    121203
-  ]
-}
+{"internalId":5427601,"name":"Praxis: Khajiit Brazier, Enchanted","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[121203]}

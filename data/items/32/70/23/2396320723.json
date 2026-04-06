@@ -1,10 +1,1 @@
-{
-  "internalId": 2396320723,
-  "name": "Khajiit Pitcher, Amber",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_jugs003.png",
-  "bindType": -1,
-  "knownIds": [
-    115663
-  ]
-}
+{"internalId":2396320723,"name":"Khajiit Pitcher, Amber","description":"This is a small house item.","icon":"data/images/30/0s/gu/housing_kha_inc_jugs003.png","bindType":-1,"knownIds":[115663]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3377400215,
-  "name": "Twilight Poleyns",
-  "description": "A gift from Brother Perry for retrieving relics of Azura stolen by the Supernal Dreamers.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    2514
-  ]
-}
+{"internalId":3377400215,"name":"Twilight Poleyns","description":"A gift from Brother Perry for retrieving relics of Azura stolen by the Supernal Dreamers.","icon":"data/images/d_/sg/el/gear_altmer_heavy_legs_d.png","bindType":2,"knownIds":[2514]}

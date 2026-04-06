@@ -1,10 +1,1 @@
-{
-  "internalId": 3087802327,
-  "name": "Redguard Stool, Starry",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varstool002.png",
-  "bindType": -1,
-  "knownIds": [
-    117796
-  ]
-}
+{"internalId":3087802327,"name":"Redguard Stool, Starry","description":"This is a small house item.","icon":"data/images/20/0l/oo/housing_red_fur_varstool002.png","bindType":-1,"knownIds":[117796]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 691293536,
-  "name": "Painting of College of the Sapiarchs, Refined",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwood002.png",
-  "bindType": -1,
-  "knownIds": [
-    139070
-  ]
-}
+{"internalId":691293536,"name":"Painting of College of the Sapiarchs, Refined","description":"This is a standard house item.","icon":"data/images/20/0d/oo/housing_sum_inc_paintingwood002.png","bindType":-1,"knownIds":[139070]}

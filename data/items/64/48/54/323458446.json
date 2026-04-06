@@ -1,10 +1,1 @@
-{
-  "internalId": 323458446,
-  "name": "Basket of Corn",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_cratesmall004.png",
-  "bindType": -1,
-  "knownIds": [
-    118190
-  ]
-}
+{"internalId":323458446,"name":"Basket of Corn","description":"This is a small house item.","icon":"data/images/40/0l/la/housing_bre_con_cratesmall004.png","bindType":-1,"knownIds":[118190]}

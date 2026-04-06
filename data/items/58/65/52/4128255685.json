@@ -1,11 +1,1 @@
-{
-  "internalId": 4128255685,
-  "name": "Shard of the Ideal Masters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_ideal_masters_shard.png",
-  "bindType": -1,
-  "knownIds": [
-    979709,
-    979709
-  ]
-}
+{"internalId":4128255685,"name":"Shard of the Ideal Masters","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_ideal_masters_shard.png","bindType":-1,"knownIds":[979709,979709]}

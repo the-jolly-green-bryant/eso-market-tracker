@@ -1,10 +1,1 @@
-{
-  "internalId": 1655907944,
-  "name": "Deadlands Column, Slender",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_duc_dedroomwallfreecolumns001.png",
-  "bindType": -1,
-  "knownIds": [
-    183852
-  ]
-}
+{"internalId":1655907944,"name":"Deadlands Column, Slender","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_duc_dedroomwallfreecolumns001.png","bindType":-1,"knownIds":[183852]}

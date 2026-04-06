@@ -1,10 +1,1 @@
-{
-  "internalId": 1982470184,
-  "name": "Vateshran Weapons",
-  "description": "This container holds a collection of weapons found in Vateshran Hollows.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    171450
-  ]
-}
+{"internalId":1982470184,"name":"Vateshran Weapons","description":"This container holds a collection of weapons found in Vateshran Hollows.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[171450]}

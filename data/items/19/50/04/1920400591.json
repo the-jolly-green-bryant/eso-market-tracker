@@ -1,10 +1,1 @@
-{
-  "internalId": 1920400591,
-  "name": "Sentinel, the Jewel of Alik'r",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1338231
-  ]
-}
+{"internalId":1920400591,"name":"Sentinel, the Jewel of Alik'r","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png","bindType":-1,"knownIds":[1338231]}

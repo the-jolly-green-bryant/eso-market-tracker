@@ -1,10 +1,1 @@
-{
-  "internalId": 243251502,
-  "name": "Cloudy Black Coffee",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37874
-  ]
-}
+{"internalId":243251502,"name":"Cloudy Black Coffee","description":"","icon":"data/images/20/0_/ae/crafting_tea_002.png","bindType":-1,"knownIds":[37874]}

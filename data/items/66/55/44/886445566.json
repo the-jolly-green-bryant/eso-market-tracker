@@ -1,10 +1,1 @@
-{
-  "internalId": 886445566,
-  "name": "The Alchemist's Crate",
-  "description": "This box jangles with multitudinous vials of Water, Oil, and preserved Reagents.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    81182
-  ]
-}
+{"internalId":886445566,"name":"The Alchemist's Crate","description":"This box jangles with multitudinous vials of Water, Oil, and preserved Reagents.","icon":"data/images/10/0_/et/quest_crate_001.png","bindType":3,"knownIds":[81182]}

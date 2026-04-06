@@ -1,10 +1,1 @@
-{
-  "internalId": 1926484533,
-  "name": "Pattern: Worm Cult Chair, Padded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    223609
-  ]
-}
+{"internalId":1926484533,"name":"Pattern: Worm Cult Chair, Padded","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[223609]}

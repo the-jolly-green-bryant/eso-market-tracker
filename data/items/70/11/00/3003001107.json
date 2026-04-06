@@ -1,10 +1,1 @@
-{
-  "internalId": 3003001107,
-  "name": "Pattern: Murkmire Tapestry, Xanmeer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    146015
-  ]
-}
+{"internalId":3003001107,"name":"Pattern: Murkmire Tapestry, Xanmeer","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[146015]}

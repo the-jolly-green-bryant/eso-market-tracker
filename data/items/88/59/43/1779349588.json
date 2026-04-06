@@ -1,10 +1,1 @@
-{
-  "internalId": 1779349588,
-  "name": "Pattern: Apocrypha Bed, Spiked Double",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    198487
-  ]
-}
+{"internalId":1779349588,"name":"Pattern: Apocrypha Bed, Spiked Double","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[198487]}

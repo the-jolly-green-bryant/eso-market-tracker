@@ -1,10 +1,1 @@
-{
-  "internalId": 3098288854,
-  "name": "Argonian Bookcase, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkshelftall001.png",
-  "bindType": -1,
-  "knownIds": [
-    115476
-  ]
-}
+{"internalId":3098288854,"name":"Argonian Bookcase, Sturdy","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_arg_fur_mrkshelftall001.png","bindType":-1,"knownIds":[115476]}

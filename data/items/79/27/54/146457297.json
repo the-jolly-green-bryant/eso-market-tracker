@@ -1,10 +1,1 @@
-{
-  "internalId": 146457297,
-  "name": "Pan Flute of Morachellis Hag-Husband",
-  "description": "A pan flute lovingly crafted from the leg bone of an ancient Nord. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_els_inc_sepanflute001.png",
-  "bindType": 3,
-  "knownIds": [
-    156807
-  ]
-}
+{"internalId":146457297,"name":"Pan Flute of Morachellis Hag-Husband","description":"A pan flute lovingly crafted from the leg bone of an ancient Nord. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_els_inc_sepanflute001.png","bindType":3,"knownIds":[156807]}

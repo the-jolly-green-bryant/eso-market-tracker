@@ -1,17 +1,1 @@
-{
-  "internalId": 1348895259,
-  "name": "Umbral Edge Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_bow.png",
-  "bindType": -1,
-  "knownIds": [
-    1758754,
-    1761064,
-    1763804,
-    1764543,
-    1758754,
-    1761064,
-    1763804,
-    1764543
-  ]
-}
+{"internalId":1348895259,"name":"Umbral Edge Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightblade_bow.png","bindType":-1,"knownIds":[1758754,1761064,1763804,1764543,1758754,1761064,1763804,1764543]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3278227421,
-  "name": "Apprentice's Leggings",
-  "description": "These leggings are often issued to the newest members of the Mages Guild.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144
-  ]
-}
+{"internalId":3278227421,"name":"Apprentice's Leggings","description":"These leggings are often issued to the newest members of the Mages Guild.","icon":"data/images/d_/sg/el/gear_dunmer_light_legs_d.png","bindType":2,"knownIds":[144]}

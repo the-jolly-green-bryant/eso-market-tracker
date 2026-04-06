@@ -1,10 +1,1 @@
-{
-  "internalId": 1596243176,
-  "name": "Spiced Brewet Serving Platter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    762888
-  ]
-}
+{"internalId":1596243176,"name":"Spiced Brewet Serving Platter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[762888]}

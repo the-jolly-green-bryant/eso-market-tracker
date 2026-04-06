@@ -1,10 +1,1 @@
-{
-  "internalId": 3227079292,
-  "name": "Praxis: Murkmire Pedestal, Low",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    145948
-  ]
-}
+{"internalId":3227079292,"name":"Praxis: Murkmire Pedestal, Low","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[145948]}

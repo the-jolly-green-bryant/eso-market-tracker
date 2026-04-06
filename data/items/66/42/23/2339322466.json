@@ -1,10 +1,1 @@
-{
-  "internalId": 2339322466,
-  "name": "Blueprint: Redoran Table, Formal Floral",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    126969
-  ]
-}
+{"internalId":2339322466,"name":"Blueprint: Redoran Table, Formal Floral","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[126969]}

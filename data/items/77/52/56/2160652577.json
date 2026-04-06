@@ -1,10 +1,1 @@
-{
-  "internalId": 2160652577,
-  "name": "Zabusihr's Soft Shoulders",
-  "description": "This Khajiiti armor was your reward for finding and returning mining samples.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159723
-  ]
-}
+{"internalId":2160652577,"name":"Zabusihr's Soft Shoulders","description":"This Khajiiti armor was your reward for finding and returning mining samples.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_shoulders_d.png","bindType":2,"knownIds":[159723]}

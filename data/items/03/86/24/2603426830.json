@@ -1,10 +1,1 @@
-{
-  "internalId": 2603426830,
-  "name": "Three-Tier Serving Tower",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    810981
-  ]
-}
+{"internalId":2603426830,"name":"Three-Tier Serving Tower","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[810981]}

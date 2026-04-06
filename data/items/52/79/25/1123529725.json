@@ -1,10 +1,1 @@
-{
-  "internalId": 1123529725,
-  "name": "Traveling Smith's Kit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    653286
-  ]
-}
+{"internalId":1123529725,"name":"Traveling Smith's Kit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[653286]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2099603094,
-  "name": "Murkmire Rug, Crawling Serpents",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkrugrectangleclean003.png",
-  "bindType": -1,
-  "knownIds": [
-    145393
-  ]
-}
+{"internalId":2099603094,"name":"Murkmire Rug, Crawling Serpents","description":"This is a standard house item.","icon":"data/images/30/0n/ae/housing_arg_inc_mrkrugrectangleclean003.png","bindType":-1,"knownIds":[145393]}

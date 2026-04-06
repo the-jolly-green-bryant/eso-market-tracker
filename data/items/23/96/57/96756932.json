@@ -1,10 +1,1 @@
-{
-  "internalId": 96756932,
-  "name": "Dog Training Pamphlet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795623
-  ]
-}
+{"internalId":96756932,"name":"Dog Training Pamphlet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[795623]}

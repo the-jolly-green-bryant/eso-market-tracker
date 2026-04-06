@@ -1,10 +1,1 @@
-{
-  "internalId": 1172945725,
-  "name": "Clockwork Mortar and Pestle, Sintered",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_mortar001.png",
-  "bindType": -1,
-  "knownIds": [
-    134356
-  ]
-}
+{"internalId":1172945725,"name":"Clockwork Mortar and Pestle, Sintered","description":"This is a tiny house item.","icon":"data/images/10/0r/at/housing_cwc_inc_mortar001.png","bindType":-1,"knownIds":[134356]}

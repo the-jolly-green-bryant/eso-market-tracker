@@ -1,11 +1,1 @@
-{
-  "internalId": 4219142609,
-  "name": "Beginners' Frog Net",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1292289,
-    1292289
-  ]
-}
+{"internalId":4219142609,"name":"Beginners' Frog Net","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_net_001.png","bindType":-1,"knownIds":[1292289,1292289]}

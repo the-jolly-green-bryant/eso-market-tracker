@@ -1,10 +1,1 @@
-{
-  "internalId": 3341797357,
-  "name": "Boulder, Granite Chunk",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_eastmarch006.png",
-  "bindType": -1,
-  "knownIds": [
-    132213
-  ]
-}
+{"internalId":3341797357,"name":"Boulder, Granite Chunk","description":"This is a large house item.","icon":"data/images/60/0h/cr/housing_rok_gry_eastmarch006.png","bindType":-1,"knownIds":[132213]}

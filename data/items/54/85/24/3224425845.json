@@ -1,10 +1,1 @@
-{
-  "internalId": 3224425845,
-  "name": "Recipe: Jugged Rabbit in Preserves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68208
-  ]
-}
+{"internalId":3224425845,"name":"Recipe: Jugged Rabbit in Preserves","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68208]}

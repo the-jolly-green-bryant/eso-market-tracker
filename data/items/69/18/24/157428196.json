@@ -1,10 +1,1 @@
-{
-  "internalId": 157428196,
-  "name": "Pattern: Indoril Tapestry, Almalexia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    127057
-  ]
-}
+{"internalId":157428196,"name":"Pattern: Indoril Tapestry, Almalexia","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[127057]}

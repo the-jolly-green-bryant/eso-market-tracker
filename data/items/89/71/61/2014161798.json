@@ -1,10 +1,1 @@
-{
-  "internalId": 2014161798,
-  "name": "Eye of the Grasp Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180089
-  ]
-}
+{"internalId":2014161798,"name":"Eye of the Grasp Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_head_a.png","bindType":2,"knownIds":[180089]}

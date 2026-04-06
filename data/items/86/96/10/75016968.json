@@ -1,10 +1,1 @@
-{
-  "internalId": 75016968,
-  "name": "Impregnable Armor Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125960
-  ]
-}
+{"internalId":75016968,"name":"Impregnable Armor Robe","description":"","icon":"data/images/a_/eb/or/gear_ordinator_light_robe_a.png","bindType":2,"knownIds":[125960]}

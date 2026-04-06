@@ -1,10 +1,1 @@
-{
-  "internalId": 4107986901,
-  "name": "Khajiit Candle, Clawfoot",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_candle003.png",
-  "bindType": -1,
-  "knownIds": [
-    115649
-  ]
-}
+{"internalId":4107986901,"name":"Khajiit Candle, Clawfoot","description":"This is a tiny house item.","icon":"data/images/30/0e/ld/housing_kha_lsb_candle003.png","bindType":-1,"knownIds":[115649]}

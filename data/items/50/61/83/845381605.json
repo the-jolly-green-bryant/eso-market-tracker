@@ -1,10 +1,1 @@
-{
-  "internalId": 845381605,
-  "name": "Royal Orsinium Cavalry Bugle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    866556
-  ]
-}
+{"internalId":845381605,"name":"Royal Orsinium Cavalry Bugle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[866556]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 1576352407,
-  "name": "splendid glyph of poison",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_poisonessence.png",
-  "bindType": -1,
-  "knownIds": [
-    457525,
-    479980,
-    1439946,
-    1446265,
-    457525,
-    479980,
-    1439946,
-    1446265
-  ]
-}
+{"internalId":1576352407,"name":"splendid glyph of poison","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_poisonessence.png","bindType":-1,"knownIds":[457525,479980,1439946,1446265,457525,479980,1439946,1446265]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 723570907,
-  "name": "Imported Bronze Grit Sieve",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    862920
-  ]
-}
+{"internalId":723570907,"name":"Imported Bronze Grit Sieve","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[862920]}

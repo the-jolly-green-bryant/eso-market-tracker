@@ -1,10 +1,1 @@
-{
-  "internalId": 3584925636,
-  "name": "Topiary, Fragile Cypress",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_gccypress003.png",
-  "bindType": -1,
-  "knownIds": [
-    120680
-  ]
-}
+{"internalId":3584925636,"name":"Topiary, Fragile Cypress","description":"This is a large house item.","icon":"data/images/30/0s/se/housing_tre_eve_gccypress003.png","bindType":-1,"knownIds":[120680]}

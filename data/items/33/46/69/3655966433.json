@@ -1,10 +1,1 @@
-{
-  "internalId": 3655966433,
-  "name": "Target Mournful Aegis",
-  "description": "This is a large house item. This may be attacked and, when destroyed, will reassemble. This guardian is equivalent to an exceptionally hardy veteran dungeon boss.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_targetdummy_mournfulaegis_01.png",
-  "bindType": -1,
-  "knownIds": [
-    134823
-  ]
-}
+{"internalId":3655966433,"name":"Target Mournful Aegis","description":"This is a large house item. This may be attacked and, when destroyed, will reassemble. This guardian is equivalent to an exceptionally hardy veteran dungeon boss.","icon":"data/images/10/_s/ig/housing_targetdummy_mournfulaegis_01.png","bindType":-1,"knownIds":[134823]}

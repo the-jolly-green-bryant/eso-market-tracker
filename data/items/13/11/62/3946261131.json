@@ -1,10 +1,1 @@
-{
-  "internalId": 3946261131,
-  "name": "Sterling Silver Slide-Flute",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    1385602
-  ]
-}
+{"internalId":3946261131,"name":"Sterling Silver Slide-Flute","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[1385602]}

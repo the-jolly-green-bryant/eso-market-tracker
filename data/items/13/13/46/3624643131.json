@@ -1,10 +1,1 @@
-{
-  "internalId": 3624643131,
-  "name": "Praxis: Necrom Planter, Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    198536
-  ]
-}
+{"internalId":3624643131,"name":"Praxis: Necrom Planter, Small","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[198536]}

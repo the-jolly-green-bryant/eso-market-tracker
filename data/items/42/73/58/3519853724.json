@@ -1,10 +1,1 @@
-{
-  "internalId": 3519853724,
-  "name": "Iron Orc Ragamuffin Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801246
-  ]
-}
+{"internalId":3519853724,"name":"Iron Orc Ragamuffin Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[801246]}

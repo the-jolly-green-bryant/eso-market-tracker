@@ -1,10 +1,1 @@
-{
-  "internalId": 2836113501,
-  "name": "Companion's Chausses",
-  "description": "Vigrod bestowed these greaves after you uncovered the Reach shaman ritual in the Companion tomb.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10978
-  ]
-}
+{"internalId":2836113501,"name":"Companion's Chausses","description":"Vigrod bestowed these greaves after you uncovered the Reach shaman ritual in the Companion tomb.","icon":"data/images/d_/sg/el/gear_nord_medium_legs_d.png","bindType":2,"knownIds":[10978]}

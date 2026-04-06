@@ -1,10 +1,1 @@
-{
-  "internalId": 4049217731,
-  "name": "Formula: Colovian Wine Bottle, Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png",
-  "bindType": -1,
-  "knownIds": [
-    207891
-  ]
-}
+{"internalId":4049217731,"name":"Formula: Colovian Wine Bottle, Single","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png","bindType":-1,"knownIds":[207891]}

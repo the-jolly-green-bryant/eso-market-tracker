@@ -1,10 +1,1 @@
-{
-  "internalId": 1374613918,
-  "name": "Blank Mongrel Sheaf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1413948
-  ]
-}
+{"internalId":1374613918,"name":"Blank Mongrel Sheaf","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[1413948]}

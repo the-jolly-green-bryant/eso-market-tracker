@@ -1,10 +1,1 @@
-{
-  "internalId": 295635646,
-  "name": "Greatsword of Martial Knowledge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95606
-  ]
-}
+{"internalId":295635646,"name":"Greatsword of Martial Knowledge","description":"","icon":"data/images/a_/dr/ow/gear_yokudan_2hsword_a.png","bindType":2,"knownIds":[95606]}

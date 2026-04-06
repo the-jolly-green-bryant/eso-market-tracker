@@ -1,10 +1,1 @@
-{
-  "internalId": 587598008,
-  "name": "Greatsword of Hist Sap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98845
-  ]
-}
+{"internalId":587598008,"name":"Greatsword of Hist Sap","description":"","icon":"data/images/d_/dr/ow/gear_argonian_2hsword_d.png","bindType":2,"knownIds":[98845]}

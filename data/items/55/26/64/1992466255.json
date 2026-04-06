@@ -1,10 +1,1 @@
-{
-  "internalId": 1992466255,
-  "name": "Formula: Dark Elf Cruet, Glass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    116046
-  ]
-}
+{"internalId":1992466255,"name":"Formula: Dark Elf Cruet, Glass","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[116046]}

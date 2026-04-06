@@ -1,10 +1,1 @@
-{
-  "internalId": 625345273,
-  "name": "Apocrypha Table, Intricate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_tablehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    198420
-  ]
-}
+{"internalId":625345273,"name":"Apocrypha Table, Intricate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_tablehigh001.png","bindType":-1,"knownIds":[198420]}

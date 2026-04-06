@@ -1,10 +1,1 @@
-{
-  "internalId": 1640512676,
-  "name": "Moonstone Cabinet Guardian",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    815678
-  ]
-}
+{"internalId":1640512676,"name":"Moonstone Cabinet Guardian","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[815678]}

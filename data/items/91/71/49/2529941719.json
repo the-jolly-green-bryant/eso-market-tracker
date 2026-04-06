@@ -1,10 +1,1 @@
-{
-  "internalId": 2529941719,
-  "name": "Plants, Ruby Glasswort Patch",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_salicornia009.png",
-  "bindType": -1,
-  "knownIds": [
-    139082
-  ]
-}
+{"internalId":2529941719,"name":"Plants, Ruby Glasswort Patch","description":"This is a standard house item.","icon":"data/images/90/0a/in/housing_veg_sum_salicornia009.png","bindType":-1,"knownIds":[139082]}

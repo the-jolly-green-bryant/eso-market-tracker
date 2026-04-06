@@ -1,10 +1,1 @@
-{
-  "internalId": 554722785,
-  "name": "Wispcutter",
-  "description": "A fine axe awarded for dispersing the illusions of the wispmother that posed as Valrendil's wife.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10327
-  ]
-}
+{"internalId":554722785,"name":"Wispcutter","description":"A fine axe awarded for dispersing the illusions of the wispmother that posed as Valrendil's wife.","icon":"data/images/d_/ex/ah/gear_altmer_1haxe_d.png","bindType":2,"knownIds":[10327]}

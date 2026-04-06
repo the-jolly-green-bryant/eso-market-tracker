@@ -1,10 +1,1 @@
-{
-  "internalId": 3066387002,
-  "name": "Lavender Helm-Freshener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_talisman_001.png",
-  "bindType": -1,
-  "knownIds": [
-    794588
-  ]
-}
+{"internalId":3066387002,"name":"Lavender Helm-Freshener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_talisman_001.png","bindType":-1,"knownIds":[794588]}

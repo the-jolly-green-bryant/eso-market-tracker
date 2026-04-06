@@ -1,10 +1,1 @@
-{
-  "internalId": 663396015,
-  "name": "Imported Steel Desktop Book Stand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_small_furnishing_004.png",
-  "bindType": -1,
-  "knownIds": [
-    421593
-  ]
-}
+{"internalId":663396015,"name":"Imported Steel Desktop Book Stand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_small_furnishing_004.png","bindType":-1,"knownIds":[421593]}

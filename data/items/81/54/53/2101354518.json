@@ -1,10 +1,1 @@
-{
-  "internalId": 2101354518,
-  "name": "Companion's Necklace",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_necklace.png",
-  "bindType": 2,
-  "knownIds": [
-    177212
-  ]
-}
+{"internalId":2101354518,"name":"Companion's Necklace","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_necklace.png","bindType":2,"knownIds":[177212]}

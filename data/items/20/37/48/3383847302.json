@@ -1,10 +1,1 @@
-{
-  "internalId": 3383847302,
-  "name": "Revelry Shard",
-  "description": "A festive fragment of fun. Combining 5 shards awards Cadwell's Surprise Box.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_lsb_lightcapsulenoglow001.png",
-  "bindType": -1,
-  "knownIds": [
-    183871
-  ]
-}
+{"internalId":3383847302,"name":"Revelry Shard","description":"A festive fragment of fun. Combining 5 shards awards Cadwell's Surprise Box.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cwc_lsb_lightcapsulenoglow001.png","bindType":-1,"knownIds":[183871]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3529856943,
-  "name": "Perfected Restoration Staff of Bahsei's Mania",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1466047,
-    1486782,
-    1537613,
-    1601861,
-    1688072,
-    1693459
-  ]
-}
+{"internalId":3529856943,"name":"Perfected Restoration Staff of Bahsei's Mania","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_staff_a.png","bindType":-1,"knownIds":[1466047,1486782,1537613,1601861,1688072,1693459]}

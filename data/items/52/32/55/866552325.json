@@ -1,10 +1,1 @@
-{
-  "internalId": 866552325,
-  "name": "Belt of the Skirmisher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56890
-  ]
-}
+{"internalId":866552325,"name":"Belt of the Skirmisher","description":"","icon":"data/images/d_/ts/ia/gear_argonian_medium_waist_d.png","bindType":2,"knownIds":[56890]}

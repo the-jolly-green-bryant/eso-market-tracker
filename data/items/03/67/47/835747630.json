@@ -1,10 +1,1 @@
-{
-  "internalId": 835747630,
-  "name": "Hlaalu Tapestry, House",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_housebannerhlaalu001.png",
-  "bindType": -1,
-  "knownIds": [
-    126775
-  ]
-}
+{"internalId":835747630,"name":"Hlaalu Tapestry, House","description":"This is a standard house item.","icon":"data/images/10/0u/la/housing_dun_lsb_housebannerhlaalu001.png","bindType":-1,"knownIds":[126775]}

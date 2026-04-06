@@ -1,10 +1,1 @@
-{
-  "internalId": 476013232,
-  "name": "Axe of the Radiant Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167572
-  ]
-}
+{"internalId":476013232,"name":"Axe of the Radiant Bastion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_1haxe_a.png","bindType":2,"knownIds":[167572]}

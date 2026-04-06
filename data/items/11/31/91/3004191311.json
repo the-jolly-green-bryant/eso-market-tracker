@@ -1,10 +1,1 @@
-{
-  "internalId": 3004191311,
-  "name": "Mora Scribe's Perfected Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732543
-  ]
-}
+{"internalId":3004191311,"name":"Mora Scribe's Perfected Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png","bindType":-1,"knownIds":[1732543]}

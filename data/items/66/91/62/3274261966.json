@@ -1,10 +1,1 @@
-{
-  "internalId": 3274261966,
-  "name": "Good Body's Unsightly Unguent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    861006
-  ]
-}
+{"internalId":3274261966,"name":"Good Body's Unsightly Unguent","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[861006]}

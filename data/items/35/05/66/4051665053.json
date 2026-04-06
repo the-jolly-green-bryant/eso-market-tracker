@@ -1,10 +1,1 @@
-{
-  "internalId": 4051665053,
-  "name": "Maul of Durok's Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    88313
-  ]
-}
+{"internalId":4051665053,"name":"Maul of Durok's Bane","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[88313]}

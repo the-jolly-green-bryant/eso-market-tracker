@@ -1,10 +1,1 @@
-{
-  "internalId": 2112675129,
-  "name": "Blueprint: Tide-Born Walkway, Short",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    219680
-  ]
-}
+{"internalId":2112675129,"name":"Blueprint: Tide-Born Walkway, Short","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[219680]}

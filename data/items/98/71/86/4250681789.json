@@ -1,11 +1,1 @@
-{
-  "internalId": 4250681789,
-  "name": "Ivory-Handled Plume Trimmer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    604035,
-    604035
-  ]
-}
+{"internalId":4250681789,"name":"Ivory-Handled Plume Trimmer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[604035,604035]}

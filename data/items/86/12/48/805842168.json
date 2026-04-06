@@ -1,10 +1,1 @@
-{
-  "internalId": 805842168,
-  "name": "Full Belly Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    215012
-  ]
-}
+{"internalId":805842168,"name":"Full Belly Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png","bindType":2,"knownIds":[215012]}

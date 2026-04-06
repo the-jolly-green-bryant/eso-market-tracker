@@ -1,10 +1,1 @@
-{
-  "internalId": 666335626,
-  "name": "Bottle of Rare \"Sanguine's Rose\" Perfume",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    904524
-  ]
-}
+{"internalId":666335626,"name":"Bottle of Rare \"Sanguine's Rose\" Perfume","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[904524]}

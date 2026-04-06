@@ -1,10 +1,1 @@
-{
-  "internalId": 1967956786,
-  "name": "Inferno Staff of Nocturnal's Ploy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189829
-  ]
-}
+{"internalId":1967956786,"name":"Inferno Staff of Nocturnal's Ploy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[189829]}

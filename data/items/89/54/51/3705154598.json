@@ -1,10 +1,1 @@
-{
-  "internalId": 3705154598,
-  "name": "Ivory Anvil Lighthouse Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    903789
-  ]
-}
+{"internalId":3705154598,"name":"Ivory Anvil Lighthouse Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[903789]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4105708739,
-  "name": "Colovian Vase, Limestone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_plantervase005.png",
-  "bindType": -1,
-  "knownIds": [
-    204718
-  ]
-}
+{"internalId":4105708739,"name":"Colovian Vase, Limestone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_plantervase005.png","bindType":-1,"knownIds":[204718]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4074115700,
-  "name": "Orcish Hutch, Storage",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgmerchantcounterhutch001.png",
-  "bindType": -1,
-  "knownIds": [
-    116437
-  ]
-}
+{"internalId":4074115700,"name":"Orcish Hutch, Storage","description":"This is a large house item.","icon":"data/images/10/0h/ct/housing_orc_fur_wtgmerchantcounterhutch001.png","bindType":-1,"knownIds":[116437]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3575367982,
-  "name": "High Isle Table, Rustic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablelowlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    187833
-  ]
-}
+{"internalId":3575367982,"name":"High Isle Table, Rustic","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablelowlarge001.png","bindType":-1,"knownIds":[187833]}

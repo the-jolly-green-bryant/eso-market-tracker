@@ -1,10 +1,1 @@
-{
-  "internalId": 2278767344,
-  "name": "Axe of the Green Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97732
-  ]
-}
+{"internalId":2278767344,"name":"Axe of the Green Pact","description":"","icon":"data/images/d_/ex/ah/gear_bosmer_1haxe_d.png","bindType":2,"knownIds":[97732]}

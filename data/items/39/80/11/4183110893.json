@@ -1,10 +1,1 @@
-{
-  "internalId": 4183110893,
-  "name": "Greaves of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179158
-  ]
-}
+{"internalId":4183110893,"name":"Greaves of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[179158]}

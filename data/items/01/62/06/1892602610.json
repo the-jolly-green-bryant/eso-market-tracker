@@ -1,10 +1,1 @@
-{
-  "internalId": 1892602610,
-  "name": "Queen's Mourning Barrette",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    841143
-  ]
-}
+{"internalId":1892602610,"name":"Queen's Mourning Barrette","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[841143]}

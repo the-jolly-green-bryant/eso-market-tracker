@@ -1,10 +1,1 @@
-{
-  "internalId": 3961685587,
-  "name": "Draoife Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190853
-  ]
-}
+{"internalId":3961685587,"name":"Draoife Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_dagger_a.png","bindType":2,"knownIds":[190853]}

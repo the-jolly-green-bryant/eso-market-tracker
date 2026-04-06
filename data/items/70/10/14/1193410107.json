@@ -1,10 +1,1 @@
-{
-  "internalId": 1193410107,
-  "name": "Hat of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199819
-  ]
-}
+{"internalId":1193410107,"name":"Hat of Syvarra's Scales","description":"","icon":"data/images/a_/da/eh/gear_ancientyokudan_light_head_a.png","bindType":2,"knownIds":[72967]}

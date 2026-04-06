@@ -1,13 +1,1 @@
-{
-  "internalId": 2817048194,
-  "name": "Sea Serpent's Tooth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png",
-  "bindType": -1,
-  "knownIds": [
-    714127,
-    794997,
-    714127,
-    794997
-  ]
-}
+{"internalId":2817048194,"name":"Sea Serpent's Tooth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_dagger_d.png","bindType":-1,"knownIds":[714127,794997,714127,794997]}

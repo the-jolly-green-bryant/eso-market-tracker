@@ -1,10 +1,1 @@
-{
-  "internalId": 3457866031,
-  "name": "Jewelry: Hrothgar's Chill",
-  "description": "A Heavy Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    180929
-  ]
-}
+{"internalId":3457866031,"name":"Jewelry: Hrothgar's Chill","description":"A Heavy Armor set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[180929]}

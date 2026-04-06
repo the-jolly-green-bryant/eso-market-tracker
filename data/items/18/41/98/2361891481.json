@@ -1,10 +1,1 @@
-{
-  "internalId": 2361891481,
-  "name": "Crafting Motif 125: Blind Path Cultist Style",
-  "description": "Use to learn the Blind Path Cultist crafting style. Also teaches the equivalent Blind Path Cultist Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    203214
-  ]
-}
+{"internalId":2361891481,"name":"Crafting Motif 125: Blind Path Cultist Style","description":"Use to learn the Blind Path Cultist crafting style. Also teaches the equivalent Blind Path Cultist Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[203214]}

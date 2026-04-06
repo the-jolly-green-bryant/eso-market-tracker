@@ -1,10 +1,1 @@
-{
-  "internalId": 2765148319,
-  "name": "Argonian Plaque, Stone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedpressureplate001.png",
-  "bindType": -1,
-  "knownIds": [
-    211561
-  ]
-}
+{"internalId":2765148319,"name":"Argonian Plaque, Stone","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedpressureplate001.png","bindType":-1,"knownIds":[211561]}

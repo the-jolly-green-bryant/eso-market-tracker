@@ -1,10 +1,1 @@
-{
-  "internalId": 3794078857,
-  "name": "Shrub Cluster, Large Red Boxwood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_chl_boxwoodshrub010.png",
-  "bindType": -1,
-  "knownIds": [
-    211515
-  ]
-}
+{"internalId":3794078857,"name":"Shrub Cluster, Large Red Boxwood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_chl_boxwoodshrub010.png","bindType":-1,"knownIds":[211515]}

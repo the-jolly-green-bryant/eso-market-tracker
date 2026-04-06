@@ -1,13 +1,1 @@
-{
-  "internalId": 4053372698,
-  "name": "Storm-Summoner's Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    395470,
-    749408,
-    395470,
-    749408
-  ]
-}
+{"internalId":4053372698,"name":"Storm-Summoner's Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_shoulders_d.png","bindType":-1,"knownIds":[395470,749408,395470,749408]}

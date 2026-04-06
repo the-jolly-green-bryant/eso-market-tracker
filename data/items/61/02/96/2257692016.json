@@ -1,10 +1,1 @@
-{
-  "internalId": 2257692016,
-  "name": "Jewelry: Plague Doctor",
-  "description": "A Heavy Armor set found in Deshaan.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114209
-  ]
-}
+{"internalId":2257692016,"name":"Jewelry: Plague Doctor","description":"A Heavy Armor set found in Deshaan.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114209]}

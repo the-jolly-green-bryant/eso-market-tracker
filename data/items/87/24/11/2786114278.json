@@ -1,10 +1,1 @@
-{
-  "internalId": 2786114278,
-  "name": "Rocks, Craggy Set",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_mos_tansmall011.png",
-  "bindType": -1,
-  "knownIds": [
-    120708
-  ]
-}
+{"internalId":2786114278,"name":"Rocks, Craggy Set","description":"This is a standard house item.","icon":"data/images/11/0l/la/housing_rok_mos_tansmall011.png","bindType":-1,"knownIds":[120708]}

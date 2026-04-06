@@ -1,10 +1,1 @@
-{
-  "internalId": 3581189794,
-  "name": "Bloodmage Crystal, Oblong",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_str_exc_ralzarscrystalpiece005.png",
-  "bindType": -1,
-  "knownIds": [
-    189480
-  ]
-}
+{"internalId":3581189794,"name":"Bloodmage Crystal, Oblong","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_str_exc_ralzarscrystalpiece005.png","bindType":-1,"knownIds":[189480]}

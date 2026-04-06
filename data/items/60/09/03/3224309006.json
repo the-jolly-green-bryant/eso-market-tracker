@@ -1,10 +1,1 @@
-{
-  "internalId": 3224309006,
-  "name": "Hist Whisperer's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    172815
-  ]
-}
+{"internalId":3224309006,"name":"Hist Whisperer's Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[172815]}

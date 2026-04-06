@@ -1,10 +1,1 @@
-{
-  "internalId": 4175832707,
-  "name": "Diagram: Redguard Urn, Star",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119186
-  ]
-}
+{"internalId":4175832707,"name":"Diagram: Redguard Urn, Star","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119186]}

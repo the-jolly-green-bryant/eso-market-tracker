@@ -1,10 +1,1 @@
-{
-  "internalId": 406105494,
-  "name": "Recipe: Artaeum Takeaway Broth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scroll_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1243011
-  ]
-}
+{"internalId":406105494,"name":"Recipe: Artaeum Takeaway Broth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scroll_003.png","bindType":-1,"knownIds":[1243011]}

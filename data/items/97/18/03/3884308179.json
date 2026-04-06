@@ -1,10 +1,1 @@
-{
-  "internalId": 3884308179,
-  "name": "Pendant of the Dreugh King Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43908
-  ]
-}
+{"internalId":3884308179,"name":"Pendant of the Dreugh King Slayer","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[43908]}

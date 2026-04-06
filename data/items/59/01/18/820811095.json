@@ -1,10 +1,1 @@
-{
-  "internalId": 820811095,
-  "name": "Jewelry: Warrior-Poet",
-  "description": "A Heavy Armor set found in Vvardenfell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    127117
-  ]
-}
+{"internalId":820811095,"name":"Jewelry: Warrior-Poet","description":"A Heavy Armor set found in Vvardenfell.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[127117]}

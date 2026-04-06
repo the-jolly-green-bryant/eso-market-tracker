@@ -1,10 +1,1 @@
-{
-  "internalId": 1000019535,
-  "name": "Recipe: Dawnstar Sun's Dusk Chowder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45671
-  ]
-}
+{"internalId":1000019535,"name":"Recipe: Dawnstar Sun's Dusk Chowder","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45671]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2221604183,
-  "name": "Blueprint: Leyawiin Counter, Wide Merchant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    176024
-  ]
-}
+{"internalId":2221604183,"name":"Blueprint: Leyawiin Counter, Wide Merchant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[176024]}

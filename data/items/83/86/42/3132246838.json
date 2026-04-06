@@ -1,10 +1,1 @@
-{
-  "internalId": 3132246838,
-  "name": "Diagram: High Elf Crest, Winged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    118953
-  ]
-}
+{"internalId":3132246838,"name":"Diagram: High Elf Crest, Winged","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[118953]}

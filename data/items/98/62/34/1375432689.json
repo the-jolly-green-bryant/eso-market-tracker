@@ -1,10 +1,1 @@
-{
-  "internalId": 1375432689,
-  "name": "Alik'r Beets with Goat Cheese",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_003.png",
-  "bindType": -1,
-  "knownIds": [
-    37845
-  ]
-}
+{"internalId":1375432689,"name":"Alik'r Beets with Goat Cheese","description":"","icon":"data/images/30/0_/da/crafting_salad_003.png","bindType":-1,"knownIds":[37845]}

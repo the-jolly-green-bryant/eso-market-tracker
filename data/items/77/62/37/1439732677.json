@@ -1,10 +1,1 @@
-{
-  "internalId": 1439732677,
-  "name": "Diagram: Minecart Track, Curved Shallow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    211405
-  ]
-}
+{"internalId":1439732677,"name":"Diagram: Minecart Track, Curved Shallow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[211405]}

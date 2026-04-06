@@ -1,10 +1,1 @@
-{
-  "internalId": 3490332424,
-  "name": "Praxis: Hlaalu Cannister, Sealed Azurite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    126905
-  ]
-}
+{"internalId":3490332424,"name":"Praxis: Hlaalu Cannister, Sealed Azurite","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[126905]}

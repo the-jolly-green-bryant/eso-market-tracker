@@ -1,10 +1,1 @@
-{
-  "internalId": 2257946423,
-  "name": "Details on Whitestrake's Mayhem",
-  "description": "Join in the celebration of Cyrodiil and Battlegrounds!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_invitation.png",
-  "bindType": 3,
-  "knownIds": [
-    121401
-  ]
-}
+{"internalId":2257946423,"name":"Details on Whitestrake's Mayhem","description":"Join in the celebration of Cyrodiil and Battlegrounds!","icon":"data/images/no/it/at/event_midyear_invitation.png","bindType":3,"knownIds":[121401]}

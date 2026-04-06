@@ -1,10 +1,1 @@
-{
-  "internalId": 2975783609,
-  "name": "Exotic Accessory",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54558
-  ]
-}
+{"internalId":2975783609,"name":"Exotic Accessory","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[54558]}

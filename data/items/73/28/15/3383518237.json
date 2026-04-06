@@ -1,10 +1,1 @@
-{
-  "internalId": 3383518237,
-  "name": "Rough Timber",
-  "description": "This is a medium house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_duc_undertunnelpostdm002.png",
-  "bindType": -1,
-  "knownIds": [
-    119582
-  ]
-}
+{"internalId":3383518237,"name":"Rough Timber","description":"This is a medium house item.","icon":"data/images/20/0m/dt/housing_imp_duc_undertunnelpostdm002.png","bindType":-1,"knownIds":[119582]}

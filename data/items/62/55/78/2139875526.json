@@ -1,13 +1,1 @@
-{
-  "internalId": 2139875526,
-  "name": "Lucilla's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_axe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748998,
-    1761509,
-    1748998,
-    1761509
-  ]
-}
+{"internalId":2139875526,"name":"Lucilla's Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_axe_a.png","bindType":-1,"knownIds":[1748998,1761509,1748998,1761509]}

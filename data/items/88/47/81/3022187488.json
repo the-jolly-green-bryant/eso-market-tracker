@@ -1,10 +1,1 @@
-{
-  "internalId": 3022187488,
-  "name": "Darloc Brae's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149586
-  ]
-}
+{"internalId":3022187488,"name":"Darloc Brae's Jack","description":"","icon":"data/images/a_/ts/eh/gear_anequina_medium_chest_a.png","bindType":2,"knownIds":[149586]}

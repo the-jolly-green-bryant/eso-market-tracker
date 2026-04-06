@@ -1,13 +1,1 @@
-{
-  "internalId": 2908923370,
-  "name": "Jerensi's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_axe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1763973,
-    1777479,
-    1763973,
-    1777479
-  ]
-}
+{"internalId":2908923370,"name":"Jerensi's Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_axe_a.png","bindType":-1,"knownIds":[1763973,1777479,1763973,1777479]}

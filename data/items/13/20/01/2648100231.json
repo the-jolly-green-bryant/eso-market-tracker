@@ -1,10 +1,1 @@
-{
-  "internalId": 2648100231,
-  "name": "Mysterious Ore",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821041
-  ]
-}
+{"internalId":2648100231,"name":"Mysterious Ore","description":"","icon":null,"bindType":-1,"knownIds":[821041]}

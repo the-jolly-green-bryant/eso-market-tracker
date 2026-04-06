@@ -1,10 +1,1 @@
-{
-  "internalId": 3743062571,
-  "name": "Gold Coast Debilitating Poison",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpoison_debilitating.png",
-  "bindType": -1,
-  "knownIds": [
-    1309707
-  ]
-}
+{"internalId":3743062571,"name":"Gold Coast Debilitating Poison","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crownpoison_debilitating.png","bindType":-1,"knownIds":[1309707]}

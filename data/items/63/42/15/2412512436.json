@@ -1,10 +1,1 @@
-{
-  "internalId": 2412512436,
-  "name": "Vampire Lord's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100549
-  ]
-}
+{"internalId":2412512436,"name":"Vampire Lord's Maul","description":"","icon":"data/images/d_/re/mm/gear_altmer_2hhammer_d.png","bindType":2,"knownIds":[100549]}

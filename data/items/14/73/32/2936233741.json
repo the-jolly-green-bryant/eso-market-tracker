@@ -1,10 +1,1 @@
-{
-  "internalId": 2936233741,
-  "name": "Design: Murkmire Berry Strand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    145973
-  ]
-}
+{"internalId":2936233741,"name":"Design: Murkmire Berry Strand","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[145973]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 385118579,
-  "name": "Dawnwood Meal, Delicacy",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bossteamerbugs001.png",
-  "bindType": -1,
-  "knownIds": [
-    204694
-  ]
-}
+{"internalId":385118579,"name":"Dawnwood Meal, Delicacy","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bossteamerbugs001.png","bindType":-1,"knownIds":[204694]}

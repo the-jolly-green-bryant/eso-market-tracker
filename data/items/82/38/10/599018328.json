@@ -1,10 +1,1 @@
-{
-  "internalId": 599018328,
-  "name": "Raw Cotton",
-  "description": "Ten of these items can be refined to make cotton.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_sp_001.png",
-  "bindType": -1,
-  "knownIds": [
-    23129
-  ]
-}
+{"internalId":599018328,"name":"Raw Cotton","description":"Ten of these items can be refined to make cotton.","icon":"data/images/10/0_/ps/crafting_light_armor_sp_001.png","bindType":-1,"knownIds":[23129]}

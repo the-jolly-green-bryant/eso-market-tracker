@@ -1,17 +1,1 @@
-{
-  "internalId": 3242030014,
-  "name": "Cinders of Anthelmir Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1735435,
-    1741675,
-    1766117,
-    1774459,
-    1735435,
-    1741675,
-    1766117,
-    1774459
-  ]
-}
+{"internalId":3242030014,"name":"Cinders of Anthelmir Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_dagger.png","bindType":-1,"knownIds":[1735435,1741675,1766117,1774459,1735435,1741675,1766117,1774459]}

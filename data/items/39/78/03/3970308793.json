@@ -1,10 +1,1 @@
-{
-  "internalId": 3970308793,
-  "name": "Forest Wraith's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192336
-  ]
-}
+{"internalId":3970308793,"name":"Forest Wraith's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[192336]}

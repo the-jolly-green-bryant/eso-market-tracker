@@ -1,10 +1,1 @@
-{
-  "internalId": 717709239,
-  "name": "Jazbay Cologne",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385223
-  ]
-}
+{"internalId":717709239,"name":"Jazbay Cologne","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[1385223]}

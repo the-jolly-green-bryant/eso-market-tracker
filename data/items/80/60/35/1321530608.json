@@ -1,10 +1,1 @@
-{
-  "internalId": 1321530608,
-  "name": "Bow of the Healer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_bow_b.png",
-  "bindType": 2,
-  "knownIds": [
-    87272
-  ]
-}
+{"internalId":1321530608,"name":"Bow of the Healer","description":"","icon":"data/images/b_/wo/b_/gear_ancient_elf_bow_b.png","bindType":2,"knownIds":[87272]}

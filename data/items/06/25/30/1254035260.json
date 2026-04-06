@@ -1,10 +1,1 @@
-{
-  "internalId": 1254035260,
-  "name": "Tide-Born Firepit, Covered Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_fur_argfirespitroast001.png",
-  "bindType": -1,
-  "knownIds": [
-    214447
-  ]
-}
+{"internalId":1254035260,"name":"Tide-Born Firepit, Covered Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_fur_argfirespitroast001.png","bindType":-1,"knownIds":[214447]}

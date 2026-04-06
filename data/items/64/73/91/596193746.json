@@ -1,10 +1,1 @@
-{
-  "internalId": 596193746,
-  "name": "Michinitl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_swamp_fish_pickerel.png",
-  "bindType": -1,
-  "knownIds": [
-    1288174
-  ]
-}
+{"internalId":596193746,"name":"Michinitl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_swamp_fish_pickerel.png","bindType":-1,"knownIds":[1288174]}

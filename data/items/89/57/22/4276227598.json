@@ -1,10 +1,1 @@
-{
-  "internalId": 4276227598,
-  "name": "Sparkly Hat Dazzler",
-  "description": "This unstable alchemical concoction creates a magnificent, sparkling jester's cap in the sky above you when used.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_dazzler_002.png",
-  "bindType": -1,
-  "knownIds": [
-    120891
-  ]
-}
+{"internalId":4276227598,"name":"Sparkly Hat Dazzler","description":"This unstable alchemical concoction creates a magnificent, sparkling jester's cap in the sky above you when used.","icon":"data/images/20/0_/re/event_jestersfestival_2016_dazzler_002.png","bindType":-1,"knownIds":[120891]}

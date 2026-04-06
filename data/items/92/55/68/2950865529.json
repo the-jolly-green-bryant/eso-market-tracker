@@ -1,10 +1,1 @@
-{
-  "internalId": 2950865529,
-  "name": "Stale Salted Cod",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_fish.png",
-  "bindType": -1,
-  "knownIds": [
-    37900
-  ]
-}
+{"internalId":2950865529,"name":"Stale Salted Cod","description":"","icon":"data/images/hs/if/_d/crafting_cooking_grilled_fish.png","bindType":-1,"knownIds":[37900]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 2958604078,
-  "name": "Jerall Mountains Warchief's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_highborngallant_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1693559,
-    1725394,
-    1693559,
-    1725394
-  ]
-}
+{"internalId":2958604078,"name":"Jerall Mountains Warchief's Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_highborngallant_shoulders_a.png","bindType":-1,"knownIds":[1693559,1725394,1693559,1725394]}

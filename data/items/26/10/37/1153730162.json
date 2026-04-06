@@ -1,13 +1,1 @@
-{
-  "internalId": 1153730162,
-  "name": "Limbscather's Branch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    546707,
-    732286,
-    546707,
-    732286
-  ]
-}
+{"internalId":1153730162,"name":"Limbscather's Branch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png","bindType":-1,"knownIds":[546707,732286,546707,732286]}

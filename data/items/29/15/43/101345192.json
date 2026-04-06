@@ -1,10 +1,1 @@
-{
-  "internalId": 101345192,
-  "name": "Ancient Robes",
-  "description": "Ancient attire, discarded long ago and sealed away for centuries beneath Darkshade Caverns.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    34389
-  ]
-}
+{"internalId":101345192,"name":"Ancient Robes","description":"Ancient attire, discarded long ago and sealed away for centuries beneath Darkshade Caverns.","icon":"data/images/a_/eb/or/gear_primative_light_robe_a.png","bindType":2,"knownIds":[34389]}

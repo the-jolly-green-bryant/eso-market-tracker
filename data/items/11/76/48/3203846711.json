@@ -1,13 +1,1 @@
-{
-  "internalId": 3203846711,
-  "name": "Shipment of Ounces II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1303835,
-    1425113,
-    1303835,
-    1425113
-  ]
-}
+{"internalId":3203846711,"name":"Shipment of Ounces II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1303835,1425113,1303835,1425113]}

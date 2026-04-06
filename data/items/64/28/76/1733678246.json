@@ -1,10 +1,1 @@
-{
-  "internalId": 1733678246,
-  "name": "Mad Tinkerer's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    132998
-  ]
-}
+{"internalId":1733678246,"name":"Mad Tinkerer's Mace","description":"","icon":"data/images/a_/re/mm/gear_apostle_1hhammer_a.png","bindType":2,"knownIds":[132998]}

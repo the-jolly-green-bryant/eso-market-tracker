@@ -1,10 +1,1 @@
-{
-  "internalId": 3962312444,
-  "name": "Gilded Lockbox",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    818501
-  ]
-}
+{"internalId":3962312444,"name":"Gilded Lockbox","description":"","icon":null,"bindType":-1,"knownIds":[818501]}

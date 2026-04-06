@@ -1,10 +1,1 @@
-{
-  "internalId": 3219593914,
-  "name": "Highland Sentinel Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206119
-  ]
-}
+{"internalId":3219593914,"name":"Highland Sentinel Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[206119]}

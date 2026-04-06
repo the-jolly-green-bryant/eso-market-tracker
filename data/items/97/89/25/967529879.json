@@ -1,10 +1,1 @@
-{
-  "internalId": 967529879,
-  "name": "Greatsword of Nikulas",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85396
-  ]
-}
+{"internalId":967529879,"name":"Greatsword of Nikulas","description":"","icon":"data/images/d_/dr/ow/gear_nord_2hsword_d.png","bindType":2,"knownIds":[85396]}

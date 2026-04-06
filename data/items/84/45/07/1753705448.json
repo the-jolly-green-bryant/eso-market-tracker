@@ -1,10 +1,1 @@
-{
-  "internalId": 1753705448,
-  "name": "Marine Officer's Platinum Whistle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_whistle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1077277
-  ]
-}
+{"internalId":1753705448,"name":"Marine Officer's Platinum Whistle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_whistle_001.png","bindType":-1,"knownIds":[1077277]}

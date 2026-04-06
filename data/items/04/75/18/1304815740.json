@@ -1,10 +1,1 @@
-{
-  "internalId": 1304815740,
-  "name": "Despot's Shoulderplates",
-  "description": "Forged at the height of Highlord Rilis the XII's reign, the sigil of that house is subtly worked into these shoulderplates.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7599
-  ]
-}
+{"internalId":1304815740,"name":"Despot's Shoulderplates","description":"Forged at the height of Highlord Rilis the XII's reign, the sigil of that house is subtly worked into these shoulderplates.","icon":"data/images/d_/sr/ed/gear_altmer_heavy_shoulders_d.png","bindType":2,"knownIds":[7599]}

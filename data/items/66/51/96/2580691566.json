@@ -1,10 +1,1 @@
-{
-  "internalId": 2580691566,
-  "name": "Elsweyr Bowl, Shallow Ceramic",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_bowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    151637
-  ]
-}
+{"internalId":2580691566,"name":"Elsweyr Bowl, Shallow Ceramic","description":"This is a small house item.","icon":"data/images/20/0l/wo/housing_els_inc_bowl002.png","bindType":-1,"knownIds":[151637]}

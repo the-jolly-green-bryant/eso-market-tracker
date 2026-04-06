@@ -1,10 +1,1 @@
-{
-  "internalId": 2519207484,
-  "name": "Sword of a Mother's Sorrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97389
-  ]
-}
+{"internalId":2519207484,"name":"Sword of a Mother's Sorrow","description":"","icon":"data/images/d_/dr/ow/gear_argonian_1hsword_d.png","bindType":2,"knownIds":[97389]}

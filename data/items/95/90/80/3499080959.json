@@ -1,13 +1,1 @@
-{
-  "internalId": 3499080959,
-  "name": "Pillar of Nirn Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1166188,
-    1289723,
-    1540842,
-    1770512
-  ]
-}
+{"internalId":3499080959,"name":"Pillar of Nirn Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1166188,1289723,1540842,1770512]}

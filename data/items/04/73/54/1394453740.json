@@ -1,10 +1,1 @@
-{
-  "internalId": 1394453740,
-  "name": "Belt of the Red Mountain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85057
-  ]
-}
+{"internalId":1394453740,"name":"Belt of the Red Mountain","description":"","icon":"data/images/a_/ts/ia/gear_ashlander_waist_a.png","bindType":2,"knownIds":[85057]}

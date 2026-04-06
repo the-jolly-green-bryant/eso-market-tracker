@@ -1,10 +1,1 @@
-{
-  "internalId": 4026242325,
-  "name": "Treacleberry Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_003.png",
-  "bindType": -1,
-  "knownIds": [
-    37939
-  ]
-}
+{"internalId":4026242325,"name":"Treacleberry Tea","description":"","icon":"data/images/30/0_/ae/crafting_tea_003.png","bindType":-1,"knownIds":[37939]}

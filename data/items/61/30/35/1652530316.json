@@ -1,10 +1,1 @@
-{
-  "internalId": 1652530316,
-  "name": "Crafting Motif 111: Ascendant Order Chests",
-  "description": "Use to learn how to make Ascendant Order Chests. Also teaches the equivalent Ascendant Order Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    181683
-  ]
-}
+{"internalId":1652530316,"name":"Crafting Motif 111: Ascendant Order Chests","description":"Use to learn how to make Ascendant Order Chests. Also teaches the equivalent Ascendant Order Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[181683]}

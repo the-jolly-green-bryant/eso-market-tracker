@@ -1,10 +1,1 @@
-{
-  "internalId": 2211031295,
-  "name": "Dark Elf Lightpost, Capped",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_postlight004.png",
-  "bindType": -1,
-  "knownIds": [
-    120987
-  ]
-}
+{"internalId":2211031295,"name":"Dark Elf Lightpost, Capped","description":"This is a large house item.","icon":"data/images/40/0t/hg/housing_dun_lsb_postlight004.png","bindType":-1,"knownIds":[120987]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2888946326,
-  "name": "Crafting Motif 135: Black Soul Gem Helmets",
-  "description": "Use to learn how to make Black Soul Gem Helmets. Also teaches the equivalent Black Soul Gem Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    212432
-  ]
-}
+{"internalId":2888946326,"name":"Crafting Motif 135: Black Soul Gem Helmets","description":"Use to learn how to make Black Soul Gem Helmets. Also teaches the equivalent Black Soul Gem Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[212432]}

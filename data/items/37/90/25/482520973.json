@@ -1,10 +1,1 @@
-{
-  "internalId": 482520973,
-  "name": "Shattered Fate Jewelry",
-  "description": "A Crafted Armor set constructed in the Telvanni Peninsula.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    194937
-  ]
-}
+{"internalId":482520973,"name":"Shattered Fate Jewelry","description":"A Crafted Armor set constructed in the Telvanni Peninsula.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[194937]}

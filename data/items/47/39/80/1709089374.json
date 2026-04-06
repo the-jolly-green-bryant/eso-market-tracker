@@ -1,10 +1,1 @@
-{
-  "internalId": 1709089374,
-  "name": "Solstice Treasure Map II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    217927
-  ]
-}
+{"internalId":1709089374,"name":"Solstice Treasure Map II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[217927]}

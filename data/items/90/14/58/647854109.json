@@ -1,10 +1,1 @@
-{
-  "internalId": 647854109,
-  "name": "Blueprint: Dres Divider, Honeycomb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    126961
-  ]
-}
+{"internalId":647854109,"name":"Blueprint: Dres Divider, Honeycomb","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[126961]}

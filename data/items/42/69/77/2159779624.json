@@ -1,10 +1,1 @@
-{
-  "internalId": 2159779624,
-  "name": "Tree, Weeping Willow",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_mrkuplandwillow002.png",
-  "bindType": -1,
-  "knownIds": [
-    120737
-  ]
-}
+{"internalId":2159779624,"name":"Tree, Weeping Willow","description":"This is a huge house item.","icon":"data/images/20/0w/ol/housing_tre_dec_mrkuplandwillow002.png","bindType":-1,"knownIds":[120737]}

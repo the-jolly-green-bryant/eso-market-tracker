@@ -1,10 +1,1 @@
-{
-  "internalId": 4141382253,
-  "name": "Wood Carving, Strider",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsstrider001.png",
-  "bindType": -1,
-  "knownIds": [
-    197739
-  ]
-}
+{"internalId":4141382253,"name":"Wood Carving, Strider","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsstrider001.png","bindType":-1,"knownIds":[197739]}

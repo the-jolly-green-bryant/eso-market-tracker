@@ -1,10 +1,1 @@
-{
-  "internalId": 3744602217,
-  "name": "Ysgramor's Sload-Skin Wine Sack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ysgramors_sloadskin_wine_sack.png",
-  "bindType": -1,
-  "knownIds": [
-    860384
-  ]
-}
+{"internalId":3744602217,"name":"Ysgramor's Sload-Skin Wine Sack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ysgramors_sloadskin_wine_sack.png","bindType":-1,"knownIds":[860384]}

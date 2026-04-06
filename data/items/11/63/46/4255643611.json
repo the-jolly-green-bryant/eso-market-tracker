@@ -1,10 +1,1 @@
-{
-  "internalId": 4255643611,
-  "name": "Blueprint: Vampiric Bookcase, Arched Filled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166738
-  ]
-}
+{"internalId":4255643611,"name":"Blueprint: Vampiric Bookcase, Arched Filled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166738]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2749291242,
-  "name": "Counterfeit Moon-Sugar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1183053
-  ]
-}
+{"internalId":2749291242,"name":"Counterfeit Moon-Sugar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[1183053]}

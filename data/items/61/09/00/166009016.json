@@ -1,10 +1,1 @@
-{
-  "internalId": 166009016,
-  "name": "Ebon Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactebonyheavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77665
-  ]
-}
+{"internalId":166009016,"name":"Ebon Girdle","description":"","icon":"data/images/a_/ts/ia/gear_artifactebonyheavy_waist_a.png","bindType":2,"knownIds":[77665]}

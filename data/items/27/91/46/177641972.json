@@ -1,10 +1,1 @@
-{
-  "internalId": 177641972,
-  "name": "Ring of Kyne's Kiss",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    93539
-  ]
-}
+{"internalId":177641972,"name":"Ring of Kyne's Kiss","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[93539]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 4035403926,
-  "name": "Dead Man's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    478520,
-    809704,
-    478520,
-    809704
-  ]
-}
+{"internalId":4035403926,"name":"Dead Man's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[478520,809704,478520,809704]}

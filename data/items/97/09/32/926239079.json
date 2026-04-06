@@ -1,10 +1,1 @@
-{
-  "internalId": 926239079,
-  "name": "Tojay Statue, Dancer",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_statuetojay001.png",
-  "bindType": -1,
-  "knownIds": [
-    151836
-  ]
-}
+{"internalId":926239079,"name":"Tojay Statue, Dancer","description":"This is a large house item.","icon":"data/images/10/0y/aj/housing_els_exc_statuetojay001.png","bindType":-1,"knownIds":[151836]}

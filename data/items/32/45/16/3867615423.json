@@ -1,10 +1,1 @@
-{
-  "internalId": 3867615423,
-  "name": "Hakoshae Lantern, Blue",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_akavirilantern002.png",
-  "bindType": -1,
-  "knownIds": [
-    151746
-  ]
-}
+{"internalId":3867615423,"name":"Hakoshae Lantern, Blue","description":"This is a standard house item.","icon":"data/images/20/0n/re/housing_els_lsb_akavirilantern002.png","bindType":-1,"knownIds":[151746]}

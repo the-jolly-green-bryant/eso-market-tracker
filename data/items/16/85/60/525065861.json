@@ -1,10 +1,1 @@
-{
-  "internalId": 525065861,
-  "name": "Gall",
-  "description": "An Ingredient for crafting level 30 poisons",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_oil_3_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    75360
-  ]
-}
+{"internalId":525065861,"name":"Gall","description":"An Ingredient for crafting level 30 poisons","icon":"data/images/1r/_3/_l/crafting_potion_base_oil_3_r1.png","bindType":-1,"knownIds":[75360]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 4056621019,
-  "name": "Stonehulk Domination Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianhvy_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764836,
-    1765198,
-    1770430,
-    1771176,
-    1764836,
-    1765198,
-    1770430,
-    1771176
-  ]
-}
+{"internalId":4056621019,"name":"Stonehulk Domination Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianhvy_legs_a.png","bindType":-1,"knownIds":[1764836,1765198,1770430,1771176,1764836,1765198,1770430,1771176]}

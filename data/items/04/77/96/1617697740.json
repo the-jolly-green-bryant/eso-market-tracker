@@ -1,10 +1,1 @@
-{
-  "internalId": 1617697740,
-  "name": "Guar Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    858123
-  ]
-}
+{"internalId":1617697740,"name":"Guar Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[858123]}

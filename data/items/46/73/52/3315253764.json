@@ -1,10 +1,1 @@
-{
-  "internalId": 3315253764,
-  "name": "Shoes of the Withered Hand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_lighty_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86351
-  ]
-}
+{"internalId":3315253764,"name":"Shoes of the Withered Hand","description":"","icon":"data/images/a_/te/ef/gear_wormcult_lighty_feet_a.png","bindType":2,"knownIds":[86351]}

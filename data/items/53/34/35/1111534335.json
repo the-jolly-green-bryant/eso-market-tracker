@@ -1,10 +1,1 @@
-{
-  "internalId": 1111534335,
-  "name": "Antler of the Beast Prince",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trophy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1336984
-  ]
-}
+{"internalId":1111534335,"name":"Antler of the Beast Prince","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trophy_001.png","bindType":-1,"knownIds":[1336984]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2442085730,
-  "name": "Praxis: Apocrypha Alcove, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    203344
-  ]
-}
+{"internalId":2442085730,"name":"Praxis: Apocrypha Alcove, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[203344]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4165848908,
-  "name": "Palace of Kings Ginger Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
-  "bindType": -1,
-  "knownIds": [
-    57202
-  ]
-}
+{"internalId":4165848908,"name":"Palace of Kings Ginger Beer","description":"","icon":"data/images/30/0_/re/crafting_beer_003.png","bindType":-1,"knownIds":[57202]}

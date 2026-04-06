@@ -1,10 +1,1 @@
-{
-  "internalId": 3716000292,
-  "name": "Steadfast's Mettle Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_-steadfast_med_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186237
-  ]
-}
+{"internalId":3716000292,"name":"Steadfast's Mettle Bracers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_-steadfast_med_hands_a.png","bindType":2,"knownIds":[186237]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2449320466,
-  "name": "High Elf Table, Sturdy Formal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tablerectangular003.png",
-  "bindType": -1,
-  "knownIds": [
-    114329
-  ]
-}
+{"internalId":2449320466,"name":"High Elf Table, Sturdy Formal","description":"This is a standard house item.","icon":"data/images/30/0r/al/housing_alt_fur_tablerectangular003.png","bindType":-1,"knownIds":[114329]}

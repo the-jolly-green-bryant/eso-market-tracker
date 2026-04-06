@@ -1,10 +1,1 @@
-{
-  "internalId": 591767797,
-  "name": "Fargrave Platform, Square",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farcolonnadeplatform001.png",
-  "bindType": -1,
-  "knownIds": [
-    184080
-  ]
-}
+{"internalId":591767797,"name":"Fargrave Platform, Square","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farcolonnadeplatform001.png","bindType":-1,"knownIds":[184080]}

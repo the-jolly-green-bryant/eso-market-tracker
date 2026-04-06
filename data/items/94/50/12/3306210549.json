@@ -1,10 +1,1 @@
-{
-  "internalId": 3306210549,
-  "name": "Spider-Shaped Trivet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    614305
-  ]
-}
+{"internalId":3306210549,"name":"Spider-Shaped Trivet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[614305]}

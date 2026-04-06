@@ -1,10 +1,1 @@
-{
-  "internalId": 1403970723,
-  "name": "Ebon Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77827
-  ]
-}
+{"internalId":1403970723,"name":"Ebon Greatsword","description":"","icon":"data/images/a_/dr/ow/gear_soulshriven_2hsword_a.png","bindType":2,"knownIds":[77827]}

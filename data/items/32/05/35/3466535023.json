@@ -1,10 +1,1 @@
-{
-  "internalId": 3466535023,
-  "name": "Solitude Chest of Drawers, Wide Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_endtablefancy002.png",
-  "bindType": -1,
-  "knownIds": [
-    165698
-  ]
-}
+{"internalId":3466535023,"name":"Solitude Chest of Drawers, Wide Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_endtablefancy002.png","bindType":-1,"knownIds":[165698]}

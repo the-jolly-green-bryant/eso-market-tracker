@@ -1,10 +1,1 @@
-{
-  "internalId": 120224120,
-  "name": "Fargrave Post, Garden Wall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_farwallsmallpost.png",
-  "bindType": -1,
-  "knownIds": [
-    184093
-  ]
-}
+{"internalId":120224120,"name":"Fargrave Post, Garden Wall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_farwallsmallpost.png","bindType":-1,"knownIds":[184093]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3668032179,
-  "name": "cutthroat trout",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
-  "bindType": -1,
-  "knownIds": [
-    388816
-  ]
-}
+{"internalId":3668032179,"name":"cutthroat trout","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png","bindType":-1,"knownIds":[388816]}

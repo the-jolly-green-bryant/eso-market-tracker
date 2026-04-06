@@ -1,10 +1,1 @@
-{
-  "internalId": 2488357473,
-  "name": "Public Dungeon Collectible Fragments",
-  "description": "An assortment of fragments for Public Dungeon collectibles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    199934
-  ]
-}
+{"internalId":2488357473,"name":"Public Dungeon Collectible Fragments","description":"An assortment of fragments for Public Dungeon collectibles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[199934]}

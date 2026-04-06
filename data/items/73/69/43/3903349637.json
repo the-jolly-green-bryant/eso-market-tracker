@@ -1,10 +1,1 @@
-{
-  "internalId": 3903349637,
-  "name": "Darkstride Hatespinner Amulet",
-  "description": "A neck item awarded for defeating the giant spider, Aesar the Hatespinner.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    42968
-  ]
-}
+{"internalId":3903349637,"name":"Darkstride Hatespinner Amulet","description":"A neck item awarded for defeating the giant spider, Aesar the Hatespinner.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[42968]}

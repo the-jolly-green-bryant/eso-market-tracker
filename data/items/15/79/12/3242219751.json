@@ -1,10 +1,1 @@
-{
-  "internalId": 3242219751,
-  "name": "Ayleid Refuge Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_axe.png",
-  "bindType": 2,
-  "knownIds": [
-    205362
-  ]
-}
+{"internalId":3242219751,"name":"Ayleid Refuge Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_axe.png","bindType":2,"knownIds":[205362]}

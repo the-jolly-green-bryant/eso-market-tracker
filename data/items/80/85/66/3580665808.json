@@ -1,10 +1,1 @@
-{
-  "internalId": 3580665808,
-  "name": "Envelope of Elaborate Emotes",
-  "description": "An extensive ledger that awards ownership of many collectible Emotes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png",
-  "bindType": 3,
-  "knownIds": [
-    194466
-  ]
-}
+{"internalId":3580665808,"name":"Envelope of Elaborate Emotes","description":"An extensive ledger that awards ownership of many collectible Emotes.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png","bindType":3,"knownIds":[194466]}

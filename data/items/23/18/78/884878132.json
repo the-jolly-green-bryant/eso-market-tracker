@@ -1,10 +1,1 @@
-{
-  "internalId": 884878132,
-  "name": "Leg Armor, Arrow-Damaged",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_battlefieldbatteredgreave001.png",
-  "bindType": -1,
-  "knownIds": [
-    223176
-  ]
-}
+{"internalId":884878132,"name":"Leg Armor, Arrow-Damaged","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_battlefieldbatteredgreave001.png","bindType":-1,"knownIds":[223176]}

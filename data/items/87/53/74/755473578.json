@@ -1,10 +1,1 @@
-{
-  "internalId": 755473578,
-  "name": "Summerset Treasure Map III",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43750
-  ]
-}
+{"internalId":755473578,"name":"Summerset Treasure Map III","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43750]}

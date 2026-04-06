@@ -1,17 +1,1 @@
-{
-  "internalId": 3954598667,
-  "name": "Wrathsun Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_1hmace.png",
-  "bindType": -1,
-  "knownIds": [
-    1678290,
-    1689594,
-    1721522,
-    1754230,
-    1678290,
-    1689594,
-    1721522,
-    1754230
-  ]
-}
+{"internalId":3954598667,"name":"Wrathsun Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_1hmace.png","bindType":-1,"knownIds":[1678290,1689594,1721522,1754230,1678290,1689594,1721522,1754230]}

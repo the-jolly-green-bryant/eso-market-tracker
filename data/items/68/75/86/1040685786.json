@@ -1,10 +1,1 @@
-{
-  "internalId": 1040685786,
-  "name": "Alinor Potted Plant, Perpetual Bloom",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_topiaryflowers001.png",
-  "bindType": -1,
-  "knownIds": [
-    139306
-  ]
-}
+{"internalId":1040685786,"name":"Alinor Potted Plant, Perpetual Bloom","description":"This is a standard house item.","icon":"data/images/10/0s/re/housing_veg_sum_topiaryflowers001.png","bindType":-1,"knownIds":[139306]}

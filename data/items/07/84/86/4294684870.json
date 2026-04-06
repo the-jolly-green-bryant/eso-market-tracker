@@ -1,12 +1,1 @@
-{
-  "internalId": 4294684870,
-  "name": "Noxiphilic Sanguivoria",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1134910,
-    1134910,
-    1134910
-  ]
-}
+{"internalId":4294684870,"name":"Noxiphilic Sanguivoria","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png","bindType":-1,"knownIds":[1134910,1134910,1134910]}

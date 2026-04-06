@@ -1,17 +1,1 @@
-{
-  "internalId": 4017210363,
-  "name": "Ring of Catalyst",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1378505,
-    1378521,
-    1452067,
-    1474693,
-    1378505,
-    1378521,
-    1452067,
-    1474693
-  ]
-}
+{"internalId":4017210363,"name":"Ring of Catalyst","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1378505,1378521,1452067,1474693,1378505,1378521,1452067,1474693]}

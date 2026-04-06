@@ -1,10 +1,1 @@
-{
-  "internalId": 2258971552,
-  "name": "Leyawiin Pie, Octopus",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodpie001.png",
-  "bindType": -1,
-  "knownIds": [
-    175683
-  ]
-}
+{"internalId":2258971552,"name":"Leyawiin Pie, Octopus","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodpie001.png","bindType":-1,"knownIds":[175683]}

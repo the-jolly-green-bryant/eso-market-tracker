@@ -1,10 +1,1 @@
-{
-  "internalId": 2719927095,
-  "name": "Murkmire Hearth Shrine, Sithis Looming",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrksithismantleshrine005.png",
-  "bindType": -1,
-  "knownIds": [
-    145343
-  ]
-}
+{"internalId":2719927095,"name":"Murkmire Hearth Shrine, Sithis Looming","description":"This is a small house item.","icon":"data/images/50/0e/ni/housing_arg_inc_mrksithismantleshrine005.png","bindType":-1,"knownIds":[145343]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3569766927,
-  "name": "Vampiric Mirror, Standing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampiremirrorfloor001.png",
-  "bindType": -1,
-  "knownIds": [
-    165605
-  ]
-}
+{"internalId":3569766927,"name":"Vampiric Mirror, Standing","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampiremirrorfloor001.png","bindType":-1,"knownIds":[165605]}

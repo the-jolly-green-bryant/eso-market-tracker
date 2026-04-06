@@ -1,10 +1,1 @@
-{
-  "internalId": 1028094928,
-  "name": "Naga Shaman Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143528
-  ]
-}
+{"internalId":1028094928,"name":"Naga Shaman Guards","description":"","icon":"data/images/d_/sg/el/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[143528]}

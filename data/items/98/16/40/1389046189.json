@@ -1,10 +1,1 @@
-{
-  "internalId": 1389046189,
-  "name": "Orichalcum Mudcrab Cracker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_thumbscrews_001.png",
-  "bindType": -1,
-  "knownIds": [
-    867304
-  ]
-}
+{"internalId":1389046189,"name":"Orichalcum Mudcrab Cracker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_thumbscrews_001.png","bindType":-1,"knownIds":[867304]}

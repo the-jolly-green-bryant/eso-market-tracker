@@ -1,10 +1,1 @@
-{
-  "internalId": 3247234073,
-  "name": "Axe of the Elder Sister",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    55884
-  ]
-}
+{"internalId":3247234073,"name":"Axe of the Elder Sister","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[55884]}

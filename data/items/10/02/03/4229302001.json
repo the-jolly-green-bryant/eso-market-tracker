@@ -1,10 +1,1 @@
-{
-  "internalId": 4229302001,
-  "name": "Old Glace Viande",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_007_type_004.png",
-  "bindType": -1,
-  "knownIds": [
-    26990
-  ]
-}
+{"internalId":4229302001,"name":"Old Glace Viande","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/40/0_/ep/consumable_potion_007_type_004.png","bindType":-1,"knownIds":[26990]}

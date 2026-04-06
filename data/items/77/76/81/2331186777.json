@@ -1,13 +1,1 @@
-{
-  "internalId": 2331186777,
-  "name": "greater glyph of weakening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_weakeningenchant.png",
-  "bindType": -1,
-  "knownIds": [
-    695669,
-    1446460,
-    695669,
-    1446460
-  ]
-}
+{"internalId":2331186777,"name":"greater glyph of weakening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_weakeningenchant.png","bindType":-1,"knownIds":[695669,1446460,695669,1446460]}

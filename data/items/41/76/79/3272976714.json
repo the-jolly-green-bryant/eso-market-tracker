@@ -1,10 +1,1 @@
-{
-  "internalId": 3272976714,
-  "name": "Argonian Reading Glass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    799412
-  ]
-}
+{"internalId":3272976714,"name":"Argonian Reading Glass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[799412]}

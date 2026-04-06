@@ -1,10 +1,1 @@
-{
-  "internalId": 4159735738,
-  "name": "Diagram: Hlaalu Stove, Chiminea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png",
-  "bindType": -1,
-  "knownIds": [
-    147657
-  ]
-}
+{"internalId":4159735738,"name":"Diagram: Hlaalu Stove, Chiminea","description":"","icon":"data/images/5g/ni/ht/crafting_planfurniture_blacksmithing5.png","bindType":-1,"knownIds":[147657]}

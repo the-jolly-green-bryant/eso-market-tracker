@@ -1,10 +1,1 @@
-{
-  "internalId": 2831278730,
-  "name": "Design: Clockwork Bowl, Large Nutriment Paste",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    134516
-  ]
-}
+{"internalId":2831278730,"name":"Design: Clockwork Bowl, Large Nutriment Paste","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[134516]}

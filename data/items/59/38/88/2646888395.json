@@ -1,10 +1,1 @@
-{
-  "internalId": 2646888395,
-  "name": "Nordic Bath Rug",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    506495
-  ]
-}
+{"internalId":2646888395,"name":"Nordic Bath Rug","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png","bindType":-1,"knownIds":[506495]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 974172611,
-  "name": "Asylum Weapons",
-  "description": "This container holds a collection of weapons found in Asylum Sanctorium.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    133592
-  ]
-}
+{"internalId":974172611,"name":"Asylum Weapons","description":"This container holds a collection of weapons found in Asylum Sanctorium.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[133592]}

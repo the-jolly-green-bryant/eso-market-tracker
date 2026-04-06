@@ -1,10 +1,1 @@
-{
-  "internalId": 1549205125,
-  "name": "Hunter's Hircine Good-Luck Talisman",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1145186
-  ]
-}
+{"internalId":1549205125,"name":"Hunter's Hircine Good-Luck Talisman","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[1145186]}

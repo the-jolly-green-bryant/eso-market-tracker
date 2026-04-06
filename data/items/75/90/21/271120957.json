@@ -1,10 +1,1 @@
-{
-  "internalId": 271120957,
-  "name": "Survey Reports - Shadowfen",
-  "description": "A compendium of every survey report recorded in Shadowfen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": 3,
-  "knownIds": [
-    181468
-  ]
-}
+{"internalId":271120957,"name":"Survey Reports - Shadowfen","description":"A compendium of every survey report recorded in Shadowfen.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":3,"knownIds":[181468]}

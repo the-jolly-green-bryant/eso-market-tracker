@@ -1,10 +1,1 @@
-{
-  "internalId": 2921840576,
-  "name": "Hat of High Isle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186072
-  ]
-}
+{"internalId":2921840576,"name":"Hat of High Isle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_head_a.png","bindType":2,"knownIds":[186072]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2346670984,
-  "name": "Recipe: Crisp and Crunchy Pumpkin Snack Skewer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_spooky_recipe.png",
-  "bindType": -1,
-  "knownIds": [
-    87683
-  ]
-}
+{"internalId":2346670984,"name":"Recipe: Crisp and Crunchy Pumpkin Snack Skewer","description":"","icon":"data/images/ep/ic/er/event_halloween_2016_spooky_recipe.png","bindType":-1,"knownIds":[87683]}

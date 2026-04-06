@@ -1,10 +1,1 @@
-{
-  "internalId": 448280588,
-  "name": "Defiler's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123141
-  ]
-}
+{"internalId":448280588,"name":"Defiler's Helmet","description":"","icon":"data/images/a_/da/eh/gear_hlaalu_medium_head_a.png","bindType":2,"knownIds":[123141]}

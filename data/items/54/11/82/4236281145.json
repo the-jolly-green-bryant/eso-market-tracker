@@ -1,11 +1,1 @@
-{
-  "internalId": 4236281145,
-  "name": "War Weather",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1338255,
-    1338255
-  ]
-}
+{"internalId":4236281145,"name":"War Weather","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1338255,1338255]}

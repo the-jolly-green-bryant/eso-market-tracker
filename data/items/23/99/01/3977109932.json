@@ -1,10 +1,1 @@
-{
-  "internalId": 3977109932,
-  "name": "Wax Portrait Card",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_portrait_002.png",
-  "bindType": -1,
-  "knownIds": [
-    796722
-  ]
-}
+{"internalId":3977109932,"name":"Wax Portrait Card","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_portrait_002.png","bindType":-1,"knownIds":[796722]}

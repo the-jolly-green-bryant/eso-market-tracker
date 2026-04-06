@@ -1,10 +1,1 @@
-{
-  "internalId": 1103215129,
-  "name": "Barkskin Shoulder Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43776
-  ]
-}
+{"internalId":1103215129,"name":"Barkskin Shoulder Cops","description":"","icon":"data/images/a_/sr/ed/gear_primative_medium_shoulders_a.png","bindType":2,"knownIds":[43776]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3429371175,
-  "name": "Torn Page",
-  "description": "The ink on this page is too faded to make out the words.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    30325
-  ]
-}
+{"internalId":3429371175,"name":"Torn Page","description":"The ink on this page is too faded to make out the words.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[30325]}

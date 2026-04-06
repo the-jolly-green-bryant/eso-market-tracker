@@ -1,17 +1,1 @@
-{
-  "internalId": 3591155871,
-  "name": "Vrol's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_axe.png",
-  "bindType": -1,
-  "knownIds": [
-    1368985,
-    1391428,
-    1413593,
-    1446984,
-    1509846,
-    1563847,
-    1615274,
-    1761217
-  ]
-}
+{"internalId":3591155871,"name":"Vrol's Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_axe.png","bindType":-1,"knownIds":[1368985,1391428,1413593,1446984,1509846,1563847,1615274,1761217]}

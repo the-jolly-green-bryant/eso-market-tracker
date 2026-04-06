@@ -1,10 +1,1 @@
-{
-  "internalId": 1488625806,
-  "name": "Dauntless Combatant's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159431
-  ]
-}
+{"internalId":1488625806,"name":"Dauntless Combatant's Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[159431]}

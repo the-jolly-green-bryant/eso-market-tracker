@@ -1,10 +1,1 @@
-{
-  "internalId": 3906659955,
-  "name": "Balorgh Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_werewolfbehemoth_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1691420
-  ]
-}
+{"internalId":3906659955,"name":"Balorgh Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_werewolfbehemoth_head_a.png","bindType":-1,"knownIds":[1691420]}

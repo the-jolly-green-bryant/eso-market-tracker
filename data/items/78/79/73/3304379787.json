@@ -1,17 +1,1 @@
-{
-  "internalId": 3304379787,
-  "name": "Hagraven's Garden Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1166259,
-    1272436,
-    1553023,
-    1602387,
-    1166259,
-    1272436,
-    1553023,
-    1602387
-  ]
-}
+{"internalId":3304379787,"name":"Hagraven's Garden Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1166259,1272436,1553023,1602387,1166259,1272436,1553023,1602387]}

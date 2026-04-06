@@ -1,10 +1,1 @@
-{
-  "internalId": 112410863,
-  "name": "Redguard Carriage, Merchant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_csb_varmerchantcart002.png",
-  "bindType": -1,
-  "knownIds": [
-    117703
-  ]
-}
+{"internalId":112410863,"name":"Redguard Carriage, Merchant","description":"This is a large house item.","icon":"data/images/20/0t/ra/housing_red_csb_varmerchantcart002.png","bindType":-1,"knownIds":[117703]}

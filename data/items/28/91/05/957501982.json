@@ -1,10 +1,1 @@
-{
-  "internalId": 957501982,
-  "name": "Solitude Basket, Wicker Wide",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_roundbasket002.png",
-  "bindType": -1,
-  "knownIds": [
-    165771
-  ]
-}
+{"internalId":957501982,"name":"Solitude Basket, Wicker Wide","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_roundbasket002.png","bindType":-1,"knownIds":[165771]}

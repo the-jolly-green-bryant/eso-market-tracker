@@ -1,10 +1,1 @@
-{
-  "internalId": 1129329191,
-  "name": "All Flags Navy Campaign Ribbon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png",
-  "bindType": -1,
-  "knownIds": [
-    672923
-  ]
-}
+{"internalId":1129329191,"name":"All Flags Navy Campaign Ribbon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png","bindType":-1,"knownIds":[672923]}

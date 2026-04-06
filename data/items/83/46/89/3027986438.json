@@ -1,10 +1,1 @@
-{
-  "internalId": 3027986438,
-  "name": "Shoes of Trinimac's Valor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_light_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129880
-  ]
-}
+{"internalId":3027986438,"name":"Shoes of Trinimac's Valor","description":"","icon":"data/images/a_/te/ef/gear_trinimac_light_feet_a.png","bindType":2,"knownIds":[129880]}

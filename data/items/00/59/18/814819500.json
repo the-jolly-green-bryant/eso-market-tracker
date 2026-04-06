@@ -1,10 +1,1 @@
-{
-  "internalId": 814819500,
-  "name": "Robe of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199829
-  ]
-}
+{"internalId":814819500,"name":"Robe of Syvarra's Scales","description":"","icon":"data/images/a_/eb/or/gear_ancientyokudan_light_robe_a.png","bindType":2,"knownIds":[72964]}

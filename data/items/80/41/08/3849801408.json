@@ -1,10 +1,1 @@
-{
-  "internalId": 3849801408,
-  "name": "Gazelle Cutlet with Minced Pumpkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_sirloin.png",
-  "bindType": -1,
-  "knownIds": [
-    57105
-  ]
-}
+{"internalId":3849801408,"name":"Gazelle Cutlet with Minced Pumpkin","description":"","icon":"data/images/ni/ol/ri/crafting_cooking_grilled_sirloin.png","bindType":-1,"knownIds":[57105]}

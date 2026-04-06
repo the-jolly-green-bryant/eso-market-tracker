@@ -1,10 +1,1 @@
-{
-  "internalId": 4210949515,
-  "name": "Chimera's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191599
-  ]
-}
+{"internalId":4210949515,"name":"Chimera's Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[191599]}

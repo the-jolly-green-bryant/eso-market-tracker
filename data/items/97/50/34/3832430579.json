@@ -1,10 +1,1 @@
-{
-  "internalId": 3832430579,
-  "name": "Helmet of Night's Silence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56203
-  ]
-}
+{"internalId":3832430579,"name":"Helmet of Night's Silence","description":"","icon":"data/images/d_/da/eh/gear_breton_medium_head_d.png","bindType":2,"knownIds":[56203]}

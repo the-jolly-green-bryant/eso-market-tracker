@@ -1,10 +1,1 @@
-{
-  "internalId": 1358573785,
-  "name": "Cactus, Desert Vine",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_desertocotillo001.png",
-  "bindType": -1,
-  "knownIds": [
-    120461
-  ]
-}
+{"internalId":1358573785,"name":"Cactus, Desert Vine","description":"This is a standard house item.","icon":"data/images/10/0o/ll/housing_veg_bsh_desertocotillo001.png","bindType":-1,"knownIds":[120461]}

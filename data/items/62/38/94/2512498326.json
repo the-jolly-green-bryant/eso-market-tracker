@@ -1,10 +1,1 @@
-{
-  "internalId": 2512498326,
-  "name": "Diagram: Dwarven Mug, Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    171506
-  ]
-}
+{"internalId":2512498326,"name":"Diagram: Dwarven Mug, Polished","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[171506]}

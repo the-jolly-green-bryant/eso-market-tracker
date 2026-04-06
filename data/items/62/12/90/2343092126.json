@@ -1,10 +1,1 @@
-{
-  "internalId": 2343092126,
-  "name": "Sigil, Akatosh",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_shrineakatosh001.png",
-  "bindType": -1,
-  "knownIds": [
-    120815
-  ]
-}
+{"internalId":2343092126,"name":"Sigil, Akatosh","description":"This is a small house item.","icon":"data/images/10/0h/so/housing_uni_inc_shrineakatosh001.png","bindType":-1,"knownIds":[120815]}

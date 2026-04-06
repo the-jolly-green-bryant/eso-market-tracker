@@ -1,10 +1,1 @@
-{
-  "internalId": 2129830882,
-  "name": "Mudcrab Trap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png",
-  "bindType": -1,
-  "knownIds": [
-    896178
-  ]
-}
+{"internalId":2129830882,"name":"Mudcrab Trap","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png","bindType":-1,"knownIds":[896178]}

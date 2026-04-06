@@ -1,10 +1,1 @@
-{
-  "internalId": 184308628,
-  "name": "Hlaalu Sidewalk, Sillar Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_waf_hlasidewalk001.png",
-  "bindType": -1,
-  "knownIds": [
-    125568
-  ]
-}
+{"internalId":184308628,"name":"Hlaalu Sidewalk, Sillar Stone","description":"This is a large house item.","icon":"data/images/10/0k/la/housing_vrd_waf_hlasidewalk001.png","bindType":-1,"knownIds":[125568]}

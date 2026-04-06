@@ -1,10 +1,1 @@
-{
-  "internalId": 1023063793,
-  "name": "Shrub, Tender Privet",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rmsaplingbush003.png",
-  "bindType": -1,
-  "knownIds": [
-    120522
-  ]
-}
+{"internalId":1023063793,"name":"Shrub, Tender Privet","description":"This is a standard house item.","icon":"data/images/30/0h/su/housing_veg_bsh_rmsaplingbush003.png","bindType":-1,"knownIds":[120522]}

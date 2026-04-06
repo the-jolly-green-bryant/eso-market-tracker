@@ -1,10 +1,1 @@
-{
-  "internalId": 2153143939,
-  "name": "Traitor's Cuirass",
-  "description": "Even the act of betrayal has its place in Apostle philosophy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133229
-  ]
-}
+{"internalId":2153143939,"name":"Traitor's Cuirass","description":"Even the act of betrayal has its place in Apostle philosophy.","icon":"data/images/a_/ts/eh/gear_apostle_heavy_chest_a.png","bindType":2,"knownIds":[133229]}

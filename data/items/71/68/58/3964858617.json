@@ -1,10 +1,1 @@
-{
-  "internalId": 3964858617,
-  "name": "Ysgramor's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101491
-  ]
-}
+{"internalId":3964858617,"name":"Ysgramor's Jerkin","description":"","icon":"data/images/d_/tr/ih/gear_nord_light_shirt_d.png","bindType":2,"knownIds":[101491]}

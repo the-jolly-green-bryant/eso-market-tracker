@@ -1,10 +1,1 @@
-{
-  "internalId": 726114630,
-  "name": "Dominion Messages",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    818040
-  ]
-}
+{"internalId":726114630,"name":"Dominion Messages","description":"","icon":null,"bindType":-1,"knownIds":[818040]}

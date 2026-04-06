@@ -1,10 +1,1 @@
-{
-  "internalId": 4115410912,
-  "name": "Seeker Synthesis Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    195657
-  ]
-}
+{"internalId":4115410912,"name":"Seeker Synthesis Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":2,"knownIds":[195657]}

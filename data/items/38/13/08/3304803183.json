@@ -1,10 +1,1 @@
-{
-  "internalId": 3304803183,
-  "name": "Khenarthi's Roost Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0001.png",
-  "bindType": -1,
-  "knownIds": [
-    813298
-  ]
-}
+{"internalId":3304803183,"name":"Khenarthi's Roost Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0001.png","bindType":-1,"knownIds":[813298]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 582833808,
-  "name": "Dwemer Puzzle Cube",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_dwemer_puzzle_cube.png",
-  "bindType": -1,
-  "knownIds": [
-    1078376
-  ]
-}
+{"internalId":582833808,"name":"Dwemer Puzzle Cube","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_dwemer_puzzle_cube.png","bindType":-1,"knownIds":[1078376]}

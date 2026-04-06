@@ -1,10 +1,1 @@
-{
-  "internalId": 3096453001,
-  "name": "Ice Floe, Thin",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_aqa_wgriceflow004.png",
-  "bindType": -1,
-  "knownIds": [
-    134577
-  ]
-}
+{"internalId":3096453001,"name":"Ice Floe, Thin","description":"This is a standard house item.","icon":"data/images/40/0w/ol/housing_rok_aqa_wgriceflow004.png","bindType":-1,"knownIds":[134577]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2621901712,
-  "name": "Druidic Stairway, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruplatformstairs001.png",
-  "bindType": -1,
-  "knownIds": [
-    193820
-  ]
-}
+{"internalId":2621901712,"name":"Druidic Stairway, Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruplatformstairs001.png","bindType":-1,"knownIds":[193820]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2548347113,
-  "name": "High Elf Goblet, Glass",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_wineglass003.png",
-  "bindType": -1,
-  "knownIds": [
-    114404
-  ]
-}
+{"internalId":2548347113,"name":"High Elf Goblet, Glass","description":"This is a tiny house item.","icon":"data/images/30/0s/sa/housing_alt_inc_wineglass003.png","bindType":-1,"knownIds":[114404]}

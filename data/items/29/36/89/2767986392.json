@@ -1,10 +1,1 @@
-{
-  "internalId": 2767986392,
-  "name": "Apocrypha Chair, Marble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_chairmedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    197541
-  ]
-}
+{"internalId":2767986392,"name":"Apocrypha Chair, Marble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_chairmedium001.png","bindType":-1,"knownIds":[197541]}

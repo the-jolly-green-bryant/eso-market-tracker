@@ -1,10 +1,1 @@
-{
-  "internalId": 2943433417,
-  "name": "Festering Coral, Large Crimson-Orange",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_wyrdcoral001.png",
-  "bindType": -1,
-  "knownIds": [
-    203589
-  ]
-}
+{"internalId":2943433417,"name":"Festering Coral, Large Crimson-Orange","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_wyrdcoral001.png","bindType":-1,"knownIds":[203589]}

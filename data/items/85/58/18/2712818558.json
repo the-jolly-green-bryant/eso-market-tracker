@@ -1,15 +1,1 @@
-{
-  "internalId": 2712818558,
-  "name": "ebon battle axe of frost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    733667,
-    686309,
-    623643,
-    733667,
-    686309,
-    623643
-  ]
-}
+{"internalId":2712818558,"name":"ebon battle axe of frost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":-1,"knownIds":[733667,686309,623643,733667,686309,623643]}

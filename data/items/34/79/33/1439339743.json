@@ -1,10 +1,1 @@
-{
-  "internalId": 1439339743,
-  "name": "Jerkin of Hist Sap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98858
-  ]
-}
+{"internalId":1439339743,"name":"Jerkin of Hist Sap","description":"","icon":"data/images/d_/tr/ih/gear_argonian_light_shirt_d.png","bindType":2,"knownIds":[98858]}

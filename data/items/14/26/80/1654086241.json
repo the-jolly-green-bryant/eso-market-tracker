@@ -1,10 +1,1 @@
-{
-  "internalId": 1654086241,
-  "name": "Shrub, Blooming Sunbird",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_caesalpinia002.png",
-  "bindType": -1,
-  "knownIds": [
-    141819
-  ]
-}
+{"internalId":1654086241,"name":"Shrub, Blooming Sunbird","description":"This is a standard house item.","icon":"data/images/20/0a/in/housing_veg_sum_caesalpinia002.png","bindType":-1,"knownIds":[141819]}

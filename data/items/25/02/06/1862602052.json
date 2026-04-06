@@ -1,10 +1,1 @@
-{
-  "internalId": 1862602052,
-  "name": "Shoes of The Shadow Dancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    75054
-  ]
-}
+{"internalId":1862602052,"name":"Shoes of The Shadow Dancer","description":"","icon":"data/images/a_/te/ef/gear_thievesguildv2_light_feet_a.png","bindType":2,"knownIds":[75054]}

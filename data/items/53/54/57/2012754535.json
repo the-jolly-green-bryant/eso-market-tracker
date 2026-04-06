@@ -1,10 +1,1 @@
-{
-  "internalId": 2012754535,
-  "name": "Sash of Orgnum's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56724
-  ]
-}
+{"internalId":2012754535,"name":"Sash of Orgnum's Scales","description":"","icon":"data/images/d_/ts/ia/gear_breton_light_waist_d.png","bindType":2,"knownIds":[56724]}

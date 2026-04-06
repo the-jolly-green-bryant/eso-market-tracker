@@ -1,15 +1,1 @@
-{
-  "internalId": 2306883570,
-  "name": "Corpseburster Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1729082,
-    1752655,
-    1753624,
-    1729082,
-    1752655,
-    1753624
-  ]
-}
+{"internalId":2306883570,"name":"Corpseburster Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_staff_a.png","bindType":-1,"knownIds":[1729082,1752655,1753624,1729082,1752655,1753624]}

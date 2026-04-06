@@ -1,10 +1,1 @@
-{
-  "internalId": 4220623740,
-  "name": "Dawnwood Tray, Fish",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosservingplatterfood001.png",
-  "bindType": -1,
-  "knownIds": [
-    204701
-  ]
-}
+{"internalId":4220623740,"name":"Dawnwood Tray, Fish","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosservingplatterfood001.png","bindType":-1,"knownIds":[204701]}

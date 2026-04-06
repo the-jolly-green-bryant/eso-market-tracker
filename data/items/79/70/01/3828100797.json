@@ -1,10 +1,1 @@
-{
-  "internalId": 3828100797,
-  "name": "Cuirass of the Wyrd Tree",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    96924
-  ]
-}
+{"internalId":3828100797,"name":"Cuirass of the Wyrd Tree","description":"","icon":"data/images/d_/ts/eh/gear_bosmer_heavy_chest_d.png","bindType":2,"knownIds":[96924]}

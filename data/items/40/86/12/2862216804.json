@@ -1,10 +1,1 @@
-{
-  "internalId": 2862216804,
-  "name": "Redguard Mat, Desert",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmall007.png",
-  "bindType": -1,
-  "knownIds": [
-    117806
-  ]
-}
+{"internalId":2862216804,"name":"Redguard Mat, Desert","description":"This is a small house item.","icon":"data/images/70/0l/la/housing_red_inc_rugsmall007.png","bindType":-1,"knownIds":[117806]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 845782653,
-  "name": "Pattern: Solitude Carpet, Plush Worn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166798
-  ]
-}
+{"internalId":845782653,"name":"Pattern: Solitude Carpet, Plush Worn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[166798]}

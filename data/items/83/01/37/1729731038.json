@@ -1,10 +1,1 @@
-{
-  "internalId": 1729731038,
-  "name": "Fellowship Scouthelm",
-  "description": "Favored by the Fellowship's forward scouts, this helm offers protection without hindering sight or stealth.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223669
-  ]
-}
+{"internalId":1729731038,"name":"Fellowship Scouthelm","description":"Favored by the Fellowship's forward scouts, this helm offers protection without hindering sight or stealth.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_medium_head_a.png","bindType":2,"knownIds":[223669]}

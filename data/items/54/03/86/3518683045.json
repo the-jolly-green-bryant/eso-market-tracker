@@ -1,10 +1,1 @@
-{
-  "internalId": 3518683045,
-  "name": "Rera",
-  "description": "Rera",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_045.png",
-  "bindType": -1,
-  "knownIds": [
-    45813
-  ]
-}
+{"internalId":3518683045,"name":"Rera","description":"Rera","icon":"data/images/54/0_/se/crafting_components_runestones_045.png","bindType":-1,"knownIds":[45813]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 1869333702,
-  "name": "Blind Path Induction Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1728539,
-    1732150,
-    1735463,
-    1769986,
-    1728539,
-    1732150,
-    1735463,
-    1769986
-  ]
-}
+{"internalId":1869333702,"name":"Blind Path Induction Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1hhammer_a.png","bindType":-1,"knownIds":[1728539,1732150,1735463,1769986,1728539,1732150,1735463,1769986]}

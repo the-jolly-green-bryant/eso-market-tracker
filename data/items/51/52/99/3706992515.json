@@ -1,10 +1,1 @@
-{
-  "internalId": 3706992515,
-  "name": "Systres' Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_2hmace_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186391
-  ]
-}
+{"internalId":3706992515,"name":"Systres' Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_2hmace_a.png","bindType":2,"knownIds":[186391]}

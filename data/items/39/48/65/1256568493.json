@@ -1,10 +1,1 @@
-{
-  "internalId": 1256568493,
-  "name": "Painting of the First Altmeri Landfall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    912910
-  ]
-}
+{"internalId":1256568493,"name":"Painting of the First Altmeri Landfall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[912910]}

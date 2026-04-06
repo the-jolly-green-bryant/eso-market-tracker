@@ -1,10 +1,1 @@
-{
-  "internalId": 2882489460,
-  "name": "Anchor, Hanging",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_csb_anchor001.png",
-  "bindType": -1,
-  "knownIds": [
-    156651
-  ]
-}
+{"internalId":2882489460,"name":"Anchor, Hanging","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_csb_anchor001.png","bindType":-1,"knownIds":[156651]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 559369963,
-  "name": "Crafting Motif 70: Elder Argonian Style",
-  "description": "Use to learn the Elder Argonian crafting style. Also teaches the equivalent Elder Argonian outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    142218
-  ]
-}
+{"internalId":559369963,"name":"Crafting Motif 70: Elder Argonian Style","description":"Use to learn the Elder Argonian crafting style. Also teaches the equivalent Elder Argonian outfit styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[142218]}

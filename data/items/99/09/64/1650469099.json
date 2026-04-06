@@ -1,10 +1,1 @@
-{
-  "internalId": 1650469099,
-  "name": "Solitude Table, Round Small",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tableroundsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    165677
-  ]
-}
+{"internalId":1650469099,"name":"Solitude Table, Round Small","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tableroundsmall001.png","bindType":-1,"knownIds":[165677]}

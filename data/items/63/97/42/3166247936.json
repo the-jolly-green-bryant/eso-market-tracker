@@ -1,10 +1,1 @@
-{
-  "internalId": 3166247936,
-  "name": "Recipe: Bergama Warning Fire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_recipe.png",
-  "bindType": -1,
-  "knownIds": [
-    96966
-  ]
-}
+{"internalId":3166247936,"name":"Recipe: Bergama Warning Fire","description":"","icon":"data/images/ep/ic/er/event_newlifefestival_2016_recipe.png","bindType":-1,"knownIds":[96966]}

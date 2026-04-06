@@ -1,10 +1,1 @@
-{
-  "internalId": 3355466180,
-  "name": "Telvanni Lantern, Organic Amber",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_telfloorlampyellow002.png",
-  "bindType": -1,
-  "knownIds": [
-    126475
-  ]
-}
+{"internalId":3355466180,"name":"Telvanni Lantern, Organic Amber","description":"This is a small house item.","icon":"data/images/20/0w/ol/housing_vrd_lsb_telfloorlampyellow002.png","bindType":-1,"knownIds":[126475]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3939042107,
-  "name": "Ivory Blood Basin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png",
-  "bindType": -1,
-  "knownIds": [
-    796724
-  ]
-}
+{"internalId":3939042107,"name":"Ivory Blood Basin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png","bindType":-1,"knownIds":[796724]}

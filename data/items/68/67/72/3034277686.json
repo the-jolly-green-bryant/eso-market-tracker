@@ -1,10 +1,1 @@
-{
-  "internalId": 3034277686,
-  "name": "Traveler's Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    166034
-  ]
-}
+{"internalId":3034277686,"name":"Traveler's Boots","description":"Well-made and lightly worn. Great for style, hard riding, or hard walking.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[64010]}

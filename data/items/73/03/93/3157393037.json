@@ -1,10 +1,1 @@
-{
-  "internalId": 3157393037,
-  "name": "Recipe: Velothi View Vintage Malbec",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68230
-  ]
-}
+{"internalId":3157393037,"name":"Recipe: Velothi View Vintage Malbec","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68230]}

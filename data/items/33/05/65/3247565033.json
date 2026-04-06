@@ -1,10 +1,1 @@
-{
-  "internalId": 3247565033,
-  "name": "Weapons: Undaunted Unweaver",
-  "description": "A Light Armor set found in Blackheart Haven.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134106
-  ]
-}
+{"internalId":3247565033,"name":"Weapons: Undaunted Unweaver","description":"A Light Armor set found in Blackheart Haven.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134106]}

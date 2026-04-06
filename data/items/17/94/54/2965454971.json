@@ -1,10 +1,1 @@
-{
-  "internalId": 2965454971,
-  "name": "Orcish Carpet, Fringed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgrug003.png",
-  "bindType": -1,
-  "knownIds": [
-    116371
-  ]
-}
+{"internalId":2965454971,"name":"Orcish Carpet, Fringed","description":"This is a standard house item.","icon":"data/images/30/0g/ur/housing_orc_inc_wtgrug003.png","bindType":-1,"knownIds":[116371]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1054368631,
-  "name": "Vrol's Perfected Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2hsword.png",
-  "bindType": -1,
-  "knownIds": [
-    1640502,
-    1657155,
-    1659291,
-    1640502,
-    1657155,
-    1659291
-  ]
-}
+{"internalId":1054368631,"name":"Vrol's Perfected Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_2hsword.png","bindType":-1,"knownIds":[1640502,1657155,1659291,1640502,1657155,1659291]}

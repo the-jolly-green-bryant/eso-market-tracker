@@ -1,10 +1,1 @@
-{
-  "internalId": 3937739026,
-  "name": "Murky Lotus Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
-  "bindType": -1,
-  "knownIds": [
-    32140
-  ]
-}
+{"internalId":3937739026,"name":"Murky Lotus Tea","description":"","icon":"data/images/40/0_/ae/crafting_tea_004.png","bindType":-1,"knownIds":[32140]}

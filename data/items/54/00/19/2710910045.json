@@ -1,10 +1,1 @@
-{
-  "internalId": 2710910045,
-  "name": "Praxis: Hlaalu Vase, Gilded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    127065
-  ]
-}
+{"internalId":2710910045,"name":"Praxis: Hlaalu Vase, Gilded","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[127065]}

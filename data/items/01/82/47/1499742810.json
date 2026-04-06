@@ -1,10 +1,1 @@
-{
-  "internalId": 1499742810,
-  "name": "Thenephan's Mysteries of Mead",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1246855
-  ]
-}
+{"internalId":1499742810,"name":"Thenephan's Mysteries of Mead","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1246855]}

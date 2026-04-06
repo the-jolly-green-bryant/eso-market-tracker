@@ -1,17 +1,1 @@
-{
-  "internalId": 4110373778,
-  "name": "Beacon of Oblivion Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1734379,
-    1743153,
-    1745953,
-    1774407,
-    1734379,
-    1743153,
-    1745953,
-    1774407
-  ]
-}
+{"internalId":4110373778,"name":"Beacon of Oblivion Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_dagger.png","bindType":-1,"knownIds":[1734379,1743153,1745953,1774407,1734379,1743153,1745953,1774407]}

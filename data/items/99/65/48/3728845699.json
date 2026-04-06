@@ -1,10 +1,1 @@
-{
-  "internalId": 3728845699,
-  "name": "Blue Crystal Spire, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cav_min_crystalformations_012.png",
-  "bindType": -1,
-  "knownIds": [
-    139102
-  ]
-}
+{"internalId":3728845699,"name":"Blue Crystal Spire, Large","description":"This is a large house item.","icon":"data/images/21/0_/sn/housing_cav_min_crystalformations_012.png","bindType":-1,"knownIds":[139102]}

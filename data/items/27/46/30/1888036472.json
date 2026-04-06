@@ -1,10 +1,1 @@
-{
-  "internalId": 1888036472,
-  "name": "Valkyn Skoria Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_magma_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1697077
-  ]
-}
+{"internalId":1888036472,"name":"Valkyn Skoria Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_magma_head_a.png","bindType":-1,"knownIds":[1697077]}

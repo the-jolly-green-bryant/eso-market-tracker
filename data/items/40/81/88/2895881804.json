@@ -1,15 +1,1 @@
-{
-  "internalId": 2895881804,
-  "name": "Black Gem Monstrosity's Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764877,
-    1765215,
-    1777342,
-    1764877,
-    1765215,
-    1777342
-  ]
-}
+{"internalId":2895881804,"name":"Black Gem Monstrosity's Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_head_a.png","bindType":-1,"knownIds":[1764877,1765215,1777342,1764877,1765215,1777342]}

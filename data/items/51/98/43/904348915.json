@@ -1,17 +1,1 @@
-{
-  "internalId": 904348915,
-  "name": "Perfected Pearlescent Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1598377,
-    1601138,
-    1626625,
-    1639477,
-    1598377,
-    1601138,
-    1626625,
-    1639477
-  ]
-}
+{"internalId":904348915,"name":"Perfected Pearlescent Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png","bindType":-1,"knownIds":[1598377,1601138,1626625,1639477,1598377,1601138,1626625,1639477]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2018315330,
-  "name": "Shield of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79236
-  ]
-}
+{"internalId":2018315330,"name":"Shield of Imperial Physique","description":"","icon":"data/images/a_/dl/ei/gear_ooth_shield_a.png","bindType":2,"knownIds":[79236]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2604001522,
-  "name": "Jeweled Goblet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_goblet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484076
-  ]
-}
+{"internalId":2604001522,"name":"Jeweled Goblet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_goblet_001.png","bindType":-1,"knownIds":[484076]}

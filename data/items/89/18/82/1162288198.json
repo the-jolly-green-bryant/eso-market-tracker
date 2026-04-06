@@ -1,10 +1,1 @@
-{
-  "internalId": 1162288198,
-  "name": "Ravenwatch Gloves",
-  "description": "Adusa-daro awarded these House Ravenwatch hand coverings for dispatching Arcorion Two-Blades.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7266
-  ]
-}
+{"internalId":1162288198,"name":"Ravenwatch Gloves","description":"Adusa-daro awarded these House Ravenwatch hand coverings for dispatching Arcorion Two-Blades.","icon":"data/images/d_/sd/na/gear_altmer_medium_hands_d.png","bindType":2,"knownIds":[7266]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2016076905,
-  "name": "Focus Script: Pull",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_pull.png",
-  "bindType": -1,
-  "knownIds": [
-    204562
-  ]
-}
+{"internalId":2016076905,"name":"Focus Script: Pull","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_pull.png","bindType":-1,"knownIds":[204562]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3610450870,
-  "name": "Unchained Aggressor's Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159038
-  ]
-}
+{"internalId":3610450870,"name":"Unchained Aggressor's Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[159038]}

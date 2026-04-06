@@ -1,10 +1,1 @@
-{
-  "internalId": 3917050449,
-  "name": "Lightning Staff of Unfathomable Darkness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_satff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133191
-  ]
-}
+{"internalId":3917050449,"name":"Lightning Staff of Unfathomable Darkness","description":"","icon":"data/images/a_/ff/ta/gear_nocturnal_satff_a.png","bindType":2,"knownIds":[133191]}

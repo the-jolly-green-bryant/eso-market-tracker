@@ -1,10 +1,1 @@
-{
-  "internalId": 1171797204,
-  "name": "Tankard of Undaunted Victory, Infernal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedmugs003.png",
-  "bindType": -1,
-  "knownIds": [
-    208110
-  ]
-}
+{"internalId":1171797204,"name":"Tankard of Undaunted Victory, Infernal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holundauntedmugs003.png","bindType":-1,"knownIds":[208110]}

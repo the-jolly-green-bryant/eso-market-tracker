@@ -1,13 +1,1 @@
-{
-  "internalId": 1103183300,
-  "name": "Talisman of Bthanual",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    427476,
-    496903,
-    427476,
-    496903
-  ]
-}
+{"internalId":1103183300,"name":"Talisman of Bthanual","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[427476,496903,427476,496903]}

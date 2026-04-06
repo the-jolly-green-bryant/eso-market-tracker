@@ -1,10 +1,1 @@
-{
-  "internalId": 710611791,
-  "name": "Stone, Jagged Grey",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_deshaansmall004.png",
-  "bindType": -1,
-  "knownIds": [
-    120563
-  ]
-}
+{"internalId":710611791,"name":"Stone, Jagged Grey","description":"This is a small house item.","icon":"data/images/40/0l/la/housing_rok_gry_deshaansmall004.png","bindType":-1,"knownIds":[120563]}

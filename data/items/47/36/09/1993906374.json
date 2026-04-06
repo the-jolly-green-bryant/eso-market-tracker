@@ -1,10 +1,1 @@
-{
-  "internalId": 1993906374,
-  "name": "Wayrest Love Letter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826425
-  ]
-}
+{"internalId":1993906374,"name":"Wayrest Love Letter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[826425]}

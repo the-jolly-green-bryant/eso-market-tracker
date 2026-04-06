@@ -1,10 +1,1 @@
-{
-  "internalId": 1080538425,
-  "name": "Redguard Wine Rack, Bolted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varwinerack002.png",
-  "bindType": -1,
-  "knownIds": [
-    117896
-  ]
-}
+{"internalId":1080538425,"name":"Redguard Wine Rack, Bolted","description":"This is a standard house item.","icon":"data/images/20/0k/ca/housing_red_fur_varwinerack002.png","bindType":-1,"knownIds":[117896]}

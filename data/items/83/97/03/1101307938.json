@@ -1,10 +1,1 @@
-{
-  "internalId": 1101307938,
-  "name": "Crystals, Crimson Spray",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_mphblackcrystal002.png",
-  "bindType": -1,
-  "knownIds": [
-    139140
-  ]
-}
+{"internalId":1101307938,"name":"Crystals, Crimson Spray","description":"This is a standard house item.","icon":"data/images/20/0l/at/housing_rok_uni_mphblackcrystal002.png","bindType":-1,"knownIds":[139140]}

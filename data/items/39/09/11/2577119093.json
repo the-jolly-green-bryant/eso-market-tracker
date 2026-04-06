@@ -1,10 +1,1 @@
-{
-  "internalId": 2577119093,
-  "name": "Ring of Ashen Grip",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140134
-  ]
-}
+{"internalId":2577119093,"name":"Ring of Ashen Grip","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140134]}

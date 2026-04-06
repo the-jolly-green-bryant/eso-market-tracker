@@ -1,10 +1,1 @@
-{
-  "internalId": 220605535,
-  "name": "Unsullied Gauntlets",
-  "description": "Dame Dabienne of the Knights of the Flame was glad to be freed from the Koeglin Village stocks. She awarded you these gauntlets.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    2527
-  ]
-}
+{"internalId":220605535,"name":"Unsullied Gauntlets","description":"Dame Dabienne of the Knights of the Flame was glad to be freed from the Koeglin Village stocks. She awarded you these gauntlets.","icon":"data/images/d_/sd/na/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[2527]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2252610968,
-  "name": "Alinor Pergola, Purple Wisteria",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_housingpergola001.png",
-  "bindType": -1,
-  "knownIds": [
-    139348
-  ]
-}
+{"internalId":2252610968,"name":"Alinor Pergola, Purple Wisteria","description":"This is a large house item.","icon":"data/images/10/0a/lo/housing_sum_exc_housingpergola001.png","bindType":-1,"knownIds":[139348]}

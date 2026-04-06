@@ -1,10 +1,1 @@
-{
-  "internalId": 2380493760,
-  "name": "Alinor Sarcophagus, Peaked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_sarcophagus002.png",
-  "bindType": -1,
-  "knownIds": [
-    139183
-  ]
-}
+{"internalId":2380493760,"name":"Alinor Sarcophagus, Peaked","description":"This is a standard house item.","icon":"data/images/20/0s/ug/housing_sum_duc_sarcophagus002.png","bindType":-1,"knownIds":[139183]}

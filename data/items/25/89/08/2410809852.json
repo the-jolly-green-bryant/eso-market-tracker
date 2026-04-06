@@ -1,10 +1,1 @@
-{
-  "internalId": 2410809852,
-  "name": "Clockwork Citrus Filet",
-  "description": "Fabricant flesh, perfectly seared and braised in local fruits. What passes for fruit, at least.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    133556
-  ]
-}
+{"internalId":2410809852,"name":"Clockwork Citrus Filet","description":"Fabricant flesh, perfectly seared and braised in local fruits. What passes for fruit, at least.","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[133556]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1574095645,
-  "name": "Tu'whacca's Prayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1338226
-  ]
-}
+{"internalId":1574095645,"name":"Tu'whacca's Prayer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png","bindType":-1,"knownIds":[1338226]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3554223752,
-  "name": "Blacksmith Survey: Coldharbour II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803743
-  ]
-}
+{"internalId":3554223752,"name":"Blacksmith Survey: Coldharbour II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[803743]}

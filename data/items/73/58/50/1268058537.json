@@ -1,15 +1,1 @@
-{
-  "internalId": 1268058537,
-  "name": "Bound Signature Script: Warmage's Defense",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_damageshield.png",
-  "bindType": -1,
-  "knownIds": [
-    1721486,
-    1721641,
-    1722217,
-    1721486,
-    1721641,
-    1722217
-  ]
-}
+{"internalId":1268058537,"name":"Bound Signature Script: Warmage's Defense","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_damageshield.png","bindType":-1,"knownIds":[1721486,1721641,1722217,1721486,1721641,1722217]}

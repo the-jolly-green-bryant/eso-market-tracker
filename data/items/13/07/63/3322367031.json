@@ -1,10 +1,1 @@
-{
-  "internalId": 3322367031,
-  "name": "Shattered Fate Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    194615
-  ]
-}
+{"internalId":3322367031,"name":"Shattered Fate Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[194615]}

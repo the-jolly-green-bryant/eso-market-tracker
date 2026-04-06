@@ -1,10 +1,1 @@
-{
-  "internalId": 2292233861,
-  "name": "Engraved Silver Flagon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936564
-  ]
-}
+{"internalId":2292233861,"name":"Engraved Silver Flagon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[936564]}

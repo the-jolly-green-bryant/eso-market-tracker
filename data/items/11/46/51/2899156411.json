@@ -1,10 +1,1 @@
-{
-  "internalId": 2899156411,
-  "name": "Diagram: Khajiit Barstool, Clawfoot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    116121
-  ]
-}
+{"internalId":2899156411,"name":"Diagram: Khajiit Barstool, Clawfoot","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[116121]}

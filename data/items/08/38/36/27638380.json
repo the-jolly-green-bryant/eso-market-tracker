@@ -1,10 +1,1 @@
-{
-  "internalId": 27638380,
-  "name": "Vykand's Soulfury Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1773020
-  ]
-}
+{"internalId":27638380,"name":"Vykand's Soulfury Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1773020]}

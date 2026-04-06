@@ -1,10 +1,1 @@
-{
-  "internalId": 1661910867,
-  "name": "Unearthed Valenwood Seedling",
-  "description": "Consume 25 Unearthed Valenwood Seedlings, along with 25 Lost Graht-Oak Acorns, to unlock the Great Oaks from Little Acorns achievement and the Graht-Oak Squirrel Pet!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_corrupted_seed.png",
-  "bindType": -1,
-  "knownIds": [
-    198095
-  ]
-}
+{"internalId":1661910867,"name":"Unearthed Valenwood Seedling","description":"Consume 25 Unearthed Valenwood Seedlings, along with 25 Lost Graht-Oak Acorns, to unlock the Great Oaks from Little Acorns achievement and the Graht-Oak Squirrel Pet!","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_corrupted_seed.png","bindType":-1,"knownIds":[198095]}

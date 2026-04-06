@@ -1,10 +1,1 @@
-{
-  "internalId": 1798238898,
-  "name": "Xanmeer Genesis Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223517
-  ]
-}
+{"internalId":1798238898,"name":"Xanmeer Genesis Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_waist_a.png","bindType":2,"knownIds":[223517]}

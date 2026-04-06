@@ -1,10 +1,1 @@
-{
-  "internalId": 1157139099,
-  "name": "Argonian Puzzle Totem, Head",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_argonianpuzzlepiece001.png",
-  "bindType": -1,
-  "knownIds": [
-    203148
-  ]
-}
+{"internalId":1157139099,"name":"Argonian Puzzle Totem, Head","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_argonianpuzzlepiece001.png","bindType":-1,"knownIds":[203148]}

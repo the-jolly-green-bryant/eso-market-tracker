@@ -1,10 +1,1 @@
-{
-  "internalId": 3230673441,
-  "name": "Base Dungeon Sets - Light",
-  "description": "The Light Armor item sets found in the base game Dungeons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    184253
-  ]
-}
+{"internalId":3230673441,"name":"Base Dungeon Sets - Light","description":"The Light Armor item sets found in the base game Dungeons.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[184253]}

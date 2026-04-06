@@ -1,10 +1,1 @@
-{
-  "internalId": 3902050895,
-  "name": "Jewelry: Lamia's Song",
-  "description": "A Light Armor set found in Arx Corinium.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114158
-  ]
-}
+{"internalId":3902050895,"name":"Jewelry: Lamia's Song","description":"A Light Armor set found in Arx Corinium.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114158]}

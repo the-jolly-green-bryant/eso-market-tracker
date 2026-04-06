@@ -1,10 +1,1 @@
-{
-  "internalId": 1741278612,
-  "name": "Epaulets of Transmutation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199526
-  ]
-}
+{"internalId":1741278612,"name":"Epaulets of Transmutation","description":"","icon":"data/images/a_/sr/ed/gear_abahswatch_light_shoulders_a.png","bindType":2,"knownIds":[79851]}

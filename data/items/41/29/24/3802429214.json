@@ -1,17 +1,1 @@
-{
-  "internalId": 3802429214,
-  "name": "Aerie's Cry Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1728961,
-    1751537,
-    1760832,
-    1777361,
-    1728961,
-    1751537,
-    1760832,
-    1777361
-  ]
-}
+{"internalId":3802429214,"name":"Aerie's Cry Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_head_a.png","bindType":-1,"knownIds":[1728961,1751537,1760832,1777361,1728961,1751537,1760832,1777361]}

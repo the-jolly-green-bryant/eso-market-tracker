@@ -1,10 +1,1 @@
-{
-  "internalId": 1460424219,
-  "name": "Algae-Laden Sunport Pack",
-  "description": "A soggy leather backpack, snagged by your fishing line. There's definitely something inside ….",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_half_digested_adventurers_backpack.png",
-  "bindType": -1,
-  "knownIds": [
-    217654
-  ]
-}
+{"internalId":1460424219,"name":"Algae-Laden Sunport Pack","description":"A soggy leather backpack, snagged by your fishing line. There's definitely something inside ….","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_half_digested_adventurers_backpack.png","bindType":-1,"knownIds":[217654]}

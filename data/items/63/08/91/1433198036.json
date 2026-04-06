@@ -1,10 +1,1 @@
-{
-  "internalId": 1433198036,
-  "name": "Companion's Mace",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_mace.png",
-  "bindType": 2,
-  "knownIds": [
-    177218
-  ]
-}
+{"internalId":1433198036,"name":"Companion's Mace","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_mace.png","bindType":2,"knownIds":[177218]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3674894008,
-  "name": "Bangkorai Garrison Towels",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936589
-  ]
-}
+{"internalId":3674894008,"name":"Bangkorai Garrison Towels","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[936589]}

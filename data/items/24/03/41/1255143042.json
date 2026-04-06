@@ -1,10 +1,1 @@
-{
-  "internalId": 1255143042,
-  "name": "Gloves of the Noble's Conquest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60282
-  ]
-}
+{"internalId":1255143042,"name":"Gloves of the Noble's Conquest","description":"","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":2,"knownIds":[60282]}

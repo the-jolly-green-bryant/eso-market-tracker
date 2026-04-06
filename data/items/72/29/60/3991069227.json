@@ -1,10 +1,1 @@
-{
-  "internalId": 3991069227,
-  "name": "Piece of Volendrung's Handle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_volendrungs_handle.png",
-  "bindType": -1,
-  "knownIds": [
-    949849
-  ]
-}
+{"internalId":3991069227,"name":"Piece of Volendrung's Handle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_volendrungs_handle.png","bindType":-1,"knownIds":[949849]}

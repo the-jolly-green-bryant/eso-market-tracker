@@ -1,10 +1,1 @@
-{
-  "internalId": 2693301018,
-  "name": "potion of Potent Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1504727
-  ]
-}
+{"internalId":2693301018,"name":"potion of Potent Magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_003.png","bindType":-1,"knownIds":[1504727]}

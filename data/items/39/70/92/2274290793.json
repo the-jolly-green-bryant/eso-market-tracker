@@ -1,10 +1,1 @@
-{
-  "internalId": 2274290793,
-  "name": "Diagram: Alinor Plate, Embossed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    139617
-  ]
-}
+{"internalId":2274290793,"name":"Diagram: Alinor Plate, Embossed","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[139617]}

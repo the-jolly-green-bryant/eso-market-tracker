@@ -1,10 +1,1 @@
-{
-  "internalId": 600875335,
-  "name": "Design: Telvanni Planter, Fungal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    197589
-  ]
-}
+{"internalId":600875335,"name":"Design: Telvanni Planter, Fungal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[197589]}

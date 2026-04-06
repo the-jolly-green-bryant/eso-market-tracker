@@ -1,10 +1,1 @@
-{
-  "internalId": 46384485,
-  "name": "fell helmet of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    881908
-  ]
-}
+{"internalId":46384485,"name":"fell helmet of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":-1,"knownIds":[881908]}

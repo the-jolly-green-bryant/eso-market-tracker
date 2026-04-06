@@ -1,10 +1,1 @@
-{
-  "internalId": 2850142673,
-  "name": "Dwarven Engine, Fused",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_powergeneratora001.png",
-  "bindType": -1,
-  "knownIds": [
-    139092
-  ]
-}
+{"internalId":2850142673,"name":"Dwarven Engine, Fused","description":"This is a large house item.","icon":"data/images/10/0a/ro/housing_dwe_duc_powergeneratora001.png","bindType":-1,"knownIds":[139092]}

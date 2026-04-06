@@ -1,13 +1,1 @@
-{
-  "internalId": 2595398138,
-  "name": "Perfected Peace and Serenity Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1652231,
-    1762142,
-    1652231,
-    1762142
-  ]
-}
+{"internalId":2595398138,"name":"Perfected Peace and Serenity Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_2hhammer_a.png","bindType":-1,"knownIds":[1652231,1762142,1652231,1762142]}

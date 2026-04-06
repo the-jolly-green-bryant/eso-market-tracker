@@ -1,10 +1,1 @@
-{
-  "internalId": 3489406453,
-  "name": "Bouquet, Small Dibella's",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_romanticvase002.png",
-  "bindType": -1,
-  "knownIds": [
-    156764
-  ]
-}
+{"internalId":3489406453,"name":"Bouquet, Small Dibella's","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_romanticvase002.png","bindType":-1,"knownIds":[156764]}

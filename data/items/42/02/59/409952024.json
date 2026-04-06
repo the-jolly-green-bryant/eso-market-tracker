@@ -1,10 +1,1 @@
-{
-  "internalId": 409952024,
-  "name": "Formula: High Elf Bottle, Winged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    118979
-  ]
-}
+{"internalId":409952024,"name":"Formula: High Elf Bottle, Winged","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[118979]}

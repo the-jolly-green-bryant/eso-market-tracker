@@ -1,10 +1,1 @@
-{
-  "internalId": 855249290,
-  "name": "Yolnahkriin's Perfected Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_axe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1754648
-  ]
-}
+{"internalId":855249290,"name":"Yolnahkriin's Perfected Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_axe_a.png","bindType":-1,"knownIds":[1754648]}

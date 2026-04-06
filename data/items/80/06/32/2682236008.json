@@ -1,10 +1,1 @@
-{
-  "internalId": 2682236008,
-  "name": "Nord Table, Round",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_tableround002.png",
-  "bindType": -1,
-  "knownIds": [
-    115384
-  ]
-}
+{"internalId":2682236008,"name":"Nord Table, Round","description":"This is a standard house item.","icon":"data/images/20/0d/nu/housing_nor_fur_tableround002.png","bindType":-1,"knownIds":[115384]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2204207844,
-  "name": "Stirk Fellowship Plated Boots",
-  "description": "Armored footwear awarded to members of the Stirk Fellowship for outstanding service.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_heavy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    217713
-  ]
-}
+{"internalId":2204207844,"name":"Stirk Fellowship Plated Boots","description":"Armored footwear awarded to members of the Stirk Fellowship for outstanding service.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_heavy_feet_a.png","bindType":2,"knownIds":[217713]}

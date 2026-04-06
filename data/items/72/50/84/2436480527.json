@@ -1,10 +1,1 @@
-{
-  "internalId": 2436480527,
-  "name": "Titan's Glass Splinter",
-  "description": "Acquire and use the Titan's Glass Splinter along with the other nine Windglass Splinters to unlock the Relic Wind Slicer achievement as well as the Windglass relic and memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": 3,
-  "knownIds": [
-    223817
-  ]
-}
+{"internalId":2436480527,"name":"Titan's Glass Splinter","description":"Acquire and use the Titan's Glass Splinter along with the other nine Windglass Splinters to unlock the Relic Wind Slicer achievement as well as the Windglass relic and memento.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":3,"knownIds":[223817]}

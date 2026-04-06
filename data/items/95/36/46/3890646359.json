@@ -1,10 +1,1 @@
-{
-  "internalId": 3890646359,
-  "name": "Dragon's Bile",
-  "description": "The caustic bile of Dragons, of interest to alchemists.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dragons_bile.png",
-  "bindType": -1,
-  "knownIds": [
-    150789
-  ]
-}
+{"internalId":3890646359,"name":"Dragon's Bile","description":"The caustic bile of Dragons, of interest to alchemists.","icon":"data/images/el/ib/_s/crafting_dragons_bile.png","bindType":-1,"knownIds":[150789]}

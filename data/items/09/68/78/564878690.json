@@ -1,10 +1,1 @@
-{
-  "internalId": 564878690,
-  "name": "Blueprint: High Elf Bed, Verdant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    118958
-  ]
-}
+{"internalId":564878690,"name":"Blueprint: High Elf Bed, Verdant","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[118958]}

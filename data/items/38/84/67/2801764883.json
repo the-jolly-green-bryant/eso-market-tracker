@@ -1,10 +1,1 @@
-{
-  "internalId": 2801764883,
-  "name": "Darkstride Reezal-Jul's Dagger",
-  "description": "For slaying Reezal-Jul, Countess Tamrith presented the necromancer's dagger.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7296
-  ]
-}
+{"internalId":2801764883,"name":"Darkstride Reezal-Jul's Dagger","description":"For slaying Reezal-Jul, Countess Tamrith presented the necromancer's dagger.","icon":"data/images/d_/re/gg/gear_argonian_dagger_d.png","bindType":2,"knownIds":[7296]}

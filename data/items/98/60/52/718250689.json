@@ -1,10 +1,1 @@
-{
-  "internalId": 718250689,
-  "name": "Argonian Trunk, Painted",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_con_logchest001.png",
-  "bindType": -1,
-  "knownIds": [
-    115498
-  ]
-}
+{"internalId":718250689,"name":"Argonian Trunk, Painted","description":"This is a small house item.","icon":"data/images/10/0t/se/housing_arg_con_logchest001.png","bindType":-1,"knownIds":[115498]}

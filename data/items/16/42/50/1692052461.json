@@ -1,10 +1,1 @@
-{
-  "internalId": 1692052461,
-  "name": "Pattern: Khajiit Bench, Padded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    116100
-  ]
-}
+{"internalId":1692052461,"name":"Pattern: Khajiit Bench, Padded","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[116100]}

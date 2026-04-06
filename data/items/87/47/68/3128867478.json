@@ -1,10 +1,1 @@
-{
-  "internalId": 3128867478,
-  "name": "Apex Tower Silver Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403671
-  ]
-}
+{"internalId":3128867478,"name":"Apex Tower Silver Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png","bindType":-1,"knownIds":[403671]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3823199352,
-  "name": "bichir",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    382737
-  ]
-}
+{"internalId":3823199352,"name":"bichir","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[382737]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 4059888348,
-  "name": "Barrow Hammer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    502198,
-    540708,
-    615481,
-    502198,
-    540708,
-    615481
-  ]
-}
+{"internalId":4059888348,"name":"Barrow Hammer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":-1,"knownIds":[502198,540708,615481,502198,540708,615481]}

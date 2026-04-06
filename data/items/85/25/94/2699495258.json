@@ -1,10 +1,1 @@
-{
-  "internalId": 2699495258,
-  "name": "Apple Mashed Potatoes Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    632284
-  ]
-}
+{"internalId":2699495258,"name":"Apple Mashed Potatoes Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[632284]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1602089254,
-  "name": "Recipe: Orsinium Pink Zinfandel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45603
-  ]
-}
+{"internalId":1602089254,"name":"Recipe: Orsinium Pink Zinfandel","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45603]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1236860543,
-  "name": "Kazpian's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1758673,
-    1760619,
-    1761038,
-    1758673,
-    1760619,
-    1761038
-  ]
-}
+{"internalId":1236860543,"name":"Kazpian's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png","bindType":-1,"knownIds":[1758673,1760619,1761038,1758673,1760619,1761038]}

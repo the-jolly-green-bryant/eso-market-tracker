@@ -1,13 +1,1 @@
-{
-  "internalId": 702650412,
-  "name": "greater glyph of disease resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png",
-  "bindType": -1,
-  "knownIds": [
-    503594,
-    1446404,
-    503594,
-    1446404
-  ]
-}
+{"internalId":702650412,"name":"greater glyph of disease resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png","bindType":-1,"knownIds":[503594,1446404,503594,1446404]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2829518780,
-  "name": "Hat of Ashen Grip",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56405
-  ]
-}
+{"internalId":2829518780,"name":"Hat of Ashen Grip","description":"","icon":"data/images/d_/da/eh/gear_breton_light_head_d.png","bindType":2,"knownIds":[56405]}

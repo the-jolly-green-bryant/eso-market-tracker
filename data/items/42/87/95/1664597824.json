@@ -1,10 +1,1 @@
-{
-  "internalId": 1664597824,
-  "name": "Design: Dres Cup, Empty Sujamma",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    127006
-  ]
-}
+{"internalId":1664597824,"name":"Design: Dres Cup, Empty Sujamma","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[127006]}

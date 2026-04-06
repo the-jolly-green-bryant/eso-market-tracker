@@ -1,10 +1,1 @@
-{
-  "internalId": 946259542,
-  "name": "Necrom Incense",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/u37_crafting_style_item_necromincense.png",
-  "bindType": -1,
-  "knownIds": [
-    190922
-  ]
-}
+{"internalId":946259542,"name":"Necrom Incense","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/u37_crafting_style_item_necromincense.png","bindType":-1,"knownIds":[190922]}

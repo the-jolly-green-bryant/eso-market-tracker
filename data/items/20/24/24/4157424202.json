@@ -1,10 +1,1 @@
-{
-  "internalId": 4157424202,
-  "name": "Crafting Motif 82: Icereach Coven Style",
-  "description": "Use to learn the Icereach Coven crafting style. Also teaches the equivalent Icereach Coven outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    157517
-  ]
-}
+{"internalId":4157424202,"name":"Crafting Motif 82: Icereach Coven Style","description":"Use to learn the Icereach Coven crafting style. Also teaches the equivalent Icereach Coven outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[157517]}

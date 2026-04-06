@@ -1,10 +1,1 @@
-{
-  "internalId": 426952831,
-  "name": "Ash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ghost_inert_glow_dust.png",
-  "bindType": -1,
-  "knownIds": [
-    64467
-  ]
-}
+{"internalId":426952831,"name":"Ash","description":"","icon":"data/images/ts/ud/_w/crafting_ghost_inert_glow_dust.png","bindType":-1,"knownIds":[64467]}

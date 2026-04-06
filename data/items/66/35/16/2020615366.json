@@ -1,10 +1,1 @@
-{
-  "internalId": 2020615366,
-  "name": "Achievement Furnishings: Solstice",
-  "description": "This Crate contains the Achievement Furnishings from vendors in Solstice that were added post the Writhing Wall falling.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    223733
-  ]
-}
+{"internalId":2020615366,"name":"Achievement Furnishings: Solstice","description":"This Crate contains the Achievement Furnishings from vendors in Solstice that were added post the Writhing Wall falling.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[223733]}

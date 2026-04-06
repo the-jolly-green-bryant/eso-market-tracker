@@ -1,10 +1,1 @@
-{
-  "internalId": 2694685562,
-  "name": "Leyawiin Counter, Wide Merchant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_csb_leymerchantstallopen003.png",
-  "bindType": -1,
-  "knownIds": [
-    175692
-  ]
-}
+{"internalId":2694685562,"name":"Leyawiin Counter, Wide Merchant","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_csb_leymerchantstallopen003.png","bindType":-1,"knownIds":[175692]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1495322765,
-  "name": "Crafting Motif 84: Blackreach Vanguard Legs",
-  "description": "Use to learn how to make Blackreach Vanguard Legs. Also teaches the equivalent Blackreach Vanguard Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160502
-  ]
-}
+{"internalId":1495322765,"name":"Crafting Motif 84: Blackreach Vanguard Legs","description":"Use to learn how to make Blackreach Vanguard Legs. Also teaches the equivalent Blackreach Vanguard Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160502]}

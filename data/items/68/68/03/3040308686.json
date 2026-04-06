@@ -1,10 +1,1 @@
-{
-  "internalId": 3040308686,
-  "name": "Maul of the Knightmare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80533
-  ]
-}
+{"internalId":3040308686,"name":"Maul of the Knightmare","description":"","icon":"data/images/d_/re/mm/gear_bosmer_2hhammer_d.png","bindType":2,"knownIds":[80533]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1663363486,
-  "name": "Redguard Table, Grand Oasis",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varrectangulartablelarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    117727
-  ]
-}
+{"internalId":1663363486,"name":"Redguard Table, Grand Oasis","description":"This is a standard house item.","icon":"data/images/10/0e/gr/housing_red_fur_varrectangulartablelarge001.png","bindType":-1,"knownIds":[117727]}

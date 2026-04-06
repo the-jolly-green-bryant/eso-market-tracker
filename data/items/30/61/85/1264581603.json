@@ -1,10 +1,1 @@
-{
-  "internalId": 1264581603,
-  "name": "Draoife Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190854
-  ]
-}
+{"internalId":1264581603,"name":"Draoife Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_bow_a.png","bindType":2,"knownIds":[190854]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2884692060,
-  "name": "Labyrinthian Pebble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lodestone_bowling_balls.png",
-  "bindType": -1,
-  "knownIds": [
-    1384941
-  ]
-}
+{"internalId":2884692060,"name":"Labyrinthian Pebble","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lodestone_bowling_balls.png","bindType":-1,"knownIds":[1384941]}

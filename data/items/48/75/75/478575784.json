@@ -1,10 +1,1 @@
-{
-  "internalId": 478575784,
-  "name": "Gray Mire Angler's Creel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    419827
-  ]
-}
+{"internalId":478575784,"name":"Gray Mire Angler's Creel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png","bindType":-1,"knownIds":[419827]}

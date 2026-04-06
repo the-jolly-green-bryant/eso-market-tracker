@@ -1,10 +1,1 @@
-{
-  "internalId": 921646081,
-  "name": "Saplings, Marsh Cluster",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_sapling_cluster002.png",
-  "bindType": -1,
-  "knownIds": [
-    130304
-  ]
-}
+{"internalId":921646081,"name":"Saplings, Marsh Cluster","description":"This is a large house item.","icon":"data/images/20/0r/et/housing_tre_dec_sapling_cluster002.png","bindType":-1,"knownIds":[130304]}

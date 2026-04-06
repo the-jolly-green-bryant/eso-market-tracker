@@ -1,10 +1,1 @@
-{
-  "internalId": 3982384230,
-  "name": "Indoril Rug, Almalexia",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlarugalmalexia002.png",
-  "bindType": -1,
-  "knownIds": [
-    126542
-  ]
-}
+{"internalId":3982384230,"name":"Indoril Rug, Almalexia","description":"This is a standard house item.","icon":"data/images/20/0a/ix/housing_vrd_inc_hlarugalmalexia002.png","bindType":-1,"knownIds":[126542]}

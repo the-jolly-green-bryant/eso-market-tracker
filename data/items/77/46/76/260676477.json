@@ -1,10 +1,1 @@
-{
-  "internalId": 260676477,
-  "name": "Hawk Skull",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_wayward_guardian.png",
-  "bindType": -1,
-  "knownIds": [
-    167993
-  ]
-}
+{"internalId":260676477,"name":"Hawk Skull","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_wayward_guardian.png","bindType":-1,"knownIds":[167993]}

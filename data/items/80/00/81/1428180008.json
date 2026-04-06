@@ -1,10 +1,1 @@
-{
-  "internalId": 1428180008,
-  "name": "Mushroom, Young Netch Shield",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdmedmush004.png",
-  "bindType": -1,
-  "knownIds": [
-    125607
-  ]
-}
+{"internalId":1428180008,"name":"Mushroom, Young Netch Shield","description":"This is a standard house item.","icon":"data/images/40/0h/su/housing_veg_fug_vrdmedmush004.png","bindType":-1,"knownIds":[125607]}

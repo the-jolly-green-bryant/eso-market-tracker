@@ -1,10 +1,1 @@
-{
-  "internalId": 1415793179,
-  "name": "Restoration Staff of Transmutation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199555
-  ]
-}
+{"internalId":1415793179,"name":"Restoration Staff of Transmutation","description":"","icon":"data/images/a_/ff/at/gear_abahswatch_staff_a.png","bindType":2,"knownIds":[79864]}

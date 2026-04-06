@@ -1,10 +1,1 @@
-{
-  "internalId": 485907403,
-  "name": "Necklace of Willpower",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    69280
-  ]
-}
+{"internalId":485907403,"name":"Necklace of Willpower","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[69280]}

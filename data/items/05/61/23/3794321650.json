@@ -1,10 +1,1 @@
-{
-  "internalId": 3794321650,
-  "name": "Shrub, Trimmed Green",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_longbranchesmultic002.png",
-  "bindType": -1,
-  "knownIds": [
-    121000
-  ]
-}
+{"internalId":3794321650,"name":"Shrub, Trimmed Green","description":"This is a standard house item.","icon":"data/images/20/0c/it/housing_veg_bsh_longbranchesmultic002.png","bindType":-1,"knownIds":[121000]}

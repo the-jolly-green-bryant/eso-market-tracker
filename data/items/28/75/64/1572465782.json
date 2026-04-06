@@ -1,10 +1,1 @@
-{
-  "internalId": 1572465782,
-  "name": "Soldier of Anguish Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144609
-  ]
-}
+{"internalId":1572465782,"name":"Soldier of Anguish Sword","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[144609]}

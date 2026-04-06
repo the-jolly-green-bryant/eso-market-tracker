@@ -1,10 +1,1 @@
-{
-  "internalId": 2681796035,
-  "name": "Psijic Banner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_bannerpsijiicmedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    1260526
-  ]
-}
+{"internalId":2681796035,"name":"Psijic Banner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_bannerpsijiicmedium001.png","bindType":-1,"knownIds":[1260526]}

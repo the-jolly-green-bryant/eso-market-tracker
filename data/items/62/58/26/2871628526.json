@@ -1,10 +1,1 @@
-{
-  "internalId": 2871628526,
-  "name": "Coffin, Granite",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_duc_coffinmainstone001.png",
-  "bindType": -1,
-  "knownIds": [
-    217586
-  ]
-}
+{"internalId":2871628526,"name":"Coffin, Granite","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_duc_coffinmainstone001.png","bindType":-1,"knownIds":[217586]}

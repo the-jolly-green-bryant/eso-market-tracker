@@ -1,10 +1,1 @@
-{
-  "internalId": 4253940427,
-  "name": "Design: Elsweyr Fish, Displayed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    151980
-  ]
-}
+{"internalId":4253940427,"name":"Design: Elsweyr Fish, Displayed","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[151980]}

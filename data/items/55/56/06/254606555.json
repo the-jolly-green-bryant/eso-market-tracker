@@ -1,10 +1,1 @@
-{
-  "internalId": 254606555,
-  "name": "Shrunken Hagraven Head",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_001.png",
-  "bindType": -1,
-  "knownIds": [
-    794647
-  ]
-}
+{"internalId":254606555,"name":"Shrunken Hagraven Head","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_001.png","bindType":-1,"knownIds":[794647]}

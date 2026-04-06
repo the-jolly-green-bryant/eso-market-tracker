@@ -1,10 +1,1 @@
-{
-  "internalId": 2835473302,
-  "name": "Alinor Chalice, Ornate",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_altcup005.png",
-  "bindType": -1,
-  "knownIds": [
-    139292
-  ]
-}
+{"internalId":2835473302,"name":"Alinor Chalice, Ornate","description":"This is a tiny house item.","icon":"data/images/50/0p/uc/housing_sum_inc_altcup005.png","bindType":-1,"knownIds":[139292]}

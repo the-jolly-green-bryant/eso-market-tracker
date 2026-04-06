@@ -1,10 +1,1 @@
-{
-  "internalId": 2483527838,
-  "name": "Dwarven Cog Wrapped in a Note",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png",
-  "bindType": -1,
-  "knownIds": [
-    785873
-  ]
-}
+{"internalId":2483527838,"name":"Dwarven Cog Wrapped in a Note","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png","bindType":-1,"knownIds":[785873]}

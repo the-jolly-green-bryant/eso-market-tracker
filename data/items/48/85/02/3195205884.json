@@ -1,10 +1,1 @@
-{
-  "internalId": 3195205884,
-  "name": "Dagger of the Withered Hand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wormcult_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86343
-  ]
-}
+{"internalId":3195205884,"name":"Dagger of the Withered Hand","description":"","icon":"data/images/a_/re/gg/gear_wormcult_dagger_a.png","bindType":2,"knownIds":[86343]}

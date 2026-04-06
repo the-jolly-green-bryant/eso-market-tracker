@@ -1,10 +1,1 @@
-{
-  "internalId": 3796949744,
-  "name": "Jerkin of Stendarr",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100187
-  ]
-}
+{"internalId":3796949744,"name":"Jerkin of Stendarr","description":"","icon":"data/images/d_/tr/ih/gear_bosmer_light_shirt_d.png","bindType":2,"knownIds":[100187]}

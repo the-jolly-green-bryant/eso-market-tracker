@@ -1,15 +1,1 @@
-{
-  "internalId": 2596347071,
-  "name": "Aetheric Lancer Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_2hsword.png",
-  "bindType": -1,
-  "knownIds": [
-    1749832,
-    1761485,
-    1776858,
-    1749832,
-    1761485,
-    1776858
-  ]
-}
+{"internalId":2596347071,"name":"Aetheric Lancer Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_2hsword.png","bindType":-1,"knownIds":[1749832,1761485,1776858,1749832,1761485,1776858]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1227013419,
-  "name": "Enchanter Survey: Craglorn II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    429139
-  ]
-}
+{"internalId":1227013419,"name":"Enchanter Survey: Craglorn II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[429139]}

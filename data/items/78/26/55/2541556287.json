@@ -1,10 +1,1 @@
-{
-  "internalId": 2541556287,
-  "name": "Diagram: Clockwork Table, Octagonal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    134512
-  ]
-}
+{"internalId":2541556287,"name":"Diagram: Clockwork Table, Octagonal","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[134512]}

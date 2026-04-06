@@ -1,10 +1,1 @@
-{
-  "internalId": 2702287786,
-  "name": "Souvenir Imperial Heater",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_armor_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    407272
-  ]
-}
+{"internalId":2702287786,"name":"Souvenir Imperial Heater","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_armor_vendor_component_002.png","bindType":-1,"knownIds":[407272]}

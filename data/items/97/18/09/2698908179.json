@@ -1,10 +1,1 @@
-{
-  "internalId": 2698908179,
-  "name": "Mace of Nikulas",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85392
-  ]
-}
+{"internalId":2698908179,"name":"Mace of Nikulas","description":"","icon":"data/images/d_/re/mm/gear_nord_1hhammer_d.png","bindType":2,"knownIds":[85392]}

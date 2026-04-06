@@ -1,13 +1,1 @@
-{
-  "internalId": 720840679,
-  "name": "slight glyph of potion boost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_potionpotency.png",
-  "bindType": -1,
-  "knownIds": [
-    712792,
-    1457312,
-    712792,
-    1457312
-  ]
-}
+{"internalId":720840679,"name":"slight glyph of potion boost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_potionpotency.png","bindType":-1,"knownIds":[712792,1457312,712792,1457312]}

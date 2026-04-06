@@ -1,10 +1,1 @@
-{
-  "internalId": 2480836443,
-  "name": "Venomous Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160990
-  ]
-}
+{"internalId":2480836443,"name":"Venomous Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_bow_a.png","bindType":2,"knownIds":[160990]}

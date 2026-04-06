@@ -1,10 +1,1 @@
-{
-  "internalId": 2958444881,
-  "name": "Recipe: Argonian Mud-Nectar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57056
-  ]
-}
+{"internalId":2958444881,"name":"Recipe: Argonian Mud-Nectar","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57056]}

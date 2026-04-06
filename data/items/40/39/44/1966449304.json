@@ -1,10 +1,1 @@
-{
-  "internalId": 1966449304,
-  "name": "Elsweyr Nightstand, Octagonal Wooden",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_endtablemed001.png",
-  "bindType": -1,
-  "knownIds": [
-    151723
-  ]
-}
+{"internalId":1966449304,"name":"Elsweyr Nightstand, Octagonal Wooden","description":"This is a small house item.","icon":"data/images/10/0d/em/housing_els_fur_endtablemed001.png","bindType":-1,"knownIds":[151723]}

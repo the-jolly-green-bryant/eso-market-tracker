@@ -1,17 +1,1 @@
-{
-  "internalId": 482878501,
-  "name": "Nobility in Decay Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1688276,
-    1697574,
-    1721589,
-    1750022,
-    1688276,
-    1697574,
-    1721589,
-    1750022
-  ]
-}
+{"internalId":482878501,"name":"Nobility in Decay Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_waist_a.png","bindType":-1,"knownIds":[1688276,1697574,1721589,1750022,1688276,1697574,1721589,1750022]}

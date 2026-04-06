@@ -1,10 +1,1 @@
-{
-  "internalId": 393993753,
-  "name": "Soul-Shriven Shirt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_chest_b.png",
-  "bindType": -1,
-  "knownIds": [
-    35034
-  ]
-}
+{"internalId":393993753,"name":"Soul-Shriven Shirt","description":"","icon":"data/images/b_/ts/eh/gear_soulshriven_chest_b.png","bindType":-1,"knownIds":[35034]}

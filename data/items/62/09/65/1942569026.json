@@ -1,10 +1,1 @@
-{
-  "internalId": 1942569026,
-  "name": "Smith's Rolling Rule",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860235
-  ]
-}
+{"internalId":1942569026,"name":"Smith's Rolling Rule","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[860235]}

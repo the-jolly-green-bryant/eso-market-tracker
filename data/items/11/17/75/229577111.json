@@ -1,10 +1,1 @@
-{
-  "internalId": 229577111,
-  "name": "Imperial Bed, Bunk",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_bedbunk001.png",
-  "bindType": -1,
-  "knownIds": [
-    94097
-  ]
-}
+{"internalId":229577111,"name":"Imperial Bed, Bunk","description":"This is a standard house item.","icon":"data/images/10/0k/nu/housing_nib_fur_bedbunk001.png","bindType":-1,"knownIds":[94097]}

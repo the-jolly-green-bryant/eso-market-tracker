@@ -1,10 +1,1 @@
-{
-  "internalId": 3498918650,
-  "name": "Praxis: Leyawiin Pot, Wide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    175998
-  ]
-}
+{"internalId":3498918650,"name":"Praxis: Leyawiin Pot, Wide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[175998]}

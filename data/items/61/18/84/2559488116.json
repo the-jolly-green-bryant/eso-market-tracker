@@ -1,10 +1,1 @@
-{
-  "internalId": 2559488116,
-  "name": "Alchemist Survey: Rivenspire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803691
-  ]
-}
+{"internalId":2559488116,"name":"Alchemist Survey: Rivenspire","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[803691]}

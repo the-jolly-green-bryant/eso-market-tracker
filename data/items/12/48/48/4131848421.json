@@ -1,10 +1,1 @@
-{
-  "internalId": 4131848421,
-  "name": "Sithis' Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77482
-  ]
-}
+{"internalId":4131848421,"name":"Sithis' Mace","description":"","icon":"data/images/a_/re/mm/gear_darkbrotherhoodv2_1hhammer_a.png","bindType":2,"knownIds":[77482]}

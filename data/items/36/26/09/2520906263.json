@@ -1,10 +1,1 @@
-{
-  "internalId": 2520906263,
-  "name": "Ayleid Constellation Stele, The Serpent",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmallserpent001.png",
-  "bindType": -1,
-  "knownIds": [
-    156665
-  ]
-}
+{"internalId":2520906263,"name":"Ayleid Constellation Stele, The Serpent","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmallserpent001.png","bindType":-1,"knownIds":[156665]}

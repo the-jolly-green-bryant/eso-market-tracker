@@ -1,17 +1,1 @@
-{
-  "internalId": 4087010615,
-  "name": "Nobility in Decay Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1685440,
-    1692932,
-    1702272,
-    1749831,
-    1685440,
-    1692932,
-    1702272,
-    1749831
-  ]
-}
+{"internalId":4087010615,"name":"Nobility in Decay Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_waist_a.png","bindType":-1,"knownIds":[1685440,1692932,1702272,1749831,1685440,1692932,1702272,1749831]}

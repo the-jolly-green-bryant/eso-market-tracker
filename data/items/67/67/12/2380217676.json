@@ -1,17 +1,1 @@
-{
-  "internalId": 2380217676,
-  "name": "Gardener of Seasons Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_2haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    1689089,
-    1716638,
-    1763031,
-    1777411,
-    1689089,
-    1716638,
-    1763031,
-    1777411
-  ]
-}
+{"internalId":2380217676,"name":"Gardener of Seasons Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_2haxe.png","bindType":-1,"knownIds":[1689089,1716638,1763031,1777411,1689089,1716638,1763031,1777411]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3125222675,
-  "name": "Crafting Motif 63: Dremora Gloves",
-  "description": "Use to learn how to make Dremora Gloves. Also teaches the equivalent Dremora outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140451
-  ]
-}
+{"internalId":3125222675,"name":"Crafting Motif 63: Dremora Gloves","description":"Use to learn how to make Dremora Gloves. Also teaches the equivalent Dremora outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140451]}

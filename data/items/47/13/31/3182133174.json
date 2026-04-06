@@ -1,10 +1,1 @@
-{
-  "internalId": 3182133174,
-  "name": "Praxis: Fargrave Wall, Exterior",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    184132
-  ]
-}
+{"internalId":3182133174,"name":"Praxis: Fargrave Wall, Exterior","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[184132]}

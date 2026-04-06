@@ -1,10 +1,1 @@
-{
-  "internalId": 1575342817,
-  "name": "Yokudan Warrior Statuette",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_diagna_statuette.png",
-  "bindType": -1,
-  "knownIds": [
-    841833
-  ]
-}
+{"internalId":1575342817,"name":"Yokudan Warrior Statuette","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_diagna_statuette.png","bindType":-1,"knownIds":[841833]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3593752145,
-  "name": "Fresh Apples and Eidar Cheese",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_apples.png",
-  "bindType": -1,
-  "knownIds": [
-    43154
-  ]
-}
+{"internalId":3593752145,"name":"Fresh Apples and Eidar Cheese","description":"","icon":"data/images/se/lp/pa/crafting_cooking_grilled_apples.png","bindType":-1,"knownIds":[43154]}

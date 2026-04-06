@@ -1,10 +1,1 @@
-{
-  "internalId": 1969565152,
-  "name": "Pattern: Elsweyr Chaise Lounge, Upholstered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    153730
-  ]
-}
+{"internalId":1969565152,"name":"Pattern: Elsweyr Chaise Lounge, Upholstered","description":"","icon":"data/images/5_/re/ih/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[153730]}

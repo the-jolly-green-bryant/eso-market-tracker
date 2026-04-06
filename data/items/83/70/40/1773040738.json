@@ -1,10 +1,1 @@
-{
-  "internalId": 1773040738,
-  "name": "Dagger of the Pariah",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129680
-  ]
-}
+{"internalId":1773040738,"name":"Dagger of the Pariah","description":"","icon":"data/images/a_/re/gg/gear_malacath_dagger_a.png","bindType":2,"knownIds":[129680]}

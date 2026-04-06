@@ -1,10 +1,1 @@
-{
-  "internalId": 748747323,
-  "name": "Yellow Oxen Loaf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33480
-  ]
-}
+{"internalId":748747323,"name":"Yellow Oxen Loaf","description":"","icon":"data/images/30/0_/ta/crafting_meat_003.png","bindType":-1,"knownIds":[33480]}

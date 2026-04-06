@@ -1,10 +1,1 @@
-{
-  "internalId": 1304612998,
-  "name": "Porcelain Sheep Tureen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    384778
-  ]
-}
+{"internalId":1304612998,"name":"Porcelain Sheep Tureen","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[384778]}

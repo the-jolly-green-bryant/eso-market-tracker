@@ -1,11 +1,1 @@
-{
-  "internalId": 4258309551,
-  "name": "Essence of Ravenwatch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    594190,
-    594190
-  ]
-}
+{"internalId":4258309551,"name":"Essence of Ravenwatch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[594190,594190]}

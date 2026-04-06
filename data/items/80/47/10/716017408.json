@@ -1,10 +1,1 @@
-{
-  "internalId": 716017408,
-  "name": "rawhide helmet of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    721469
-  ]
-}
+{"internalId":716017408,"name":"rawhide helmet of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":-1,"knownIds":[721469]}

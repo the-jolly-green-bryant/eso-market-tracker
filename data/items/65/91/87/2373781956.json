@@ -1,10 +1,1 @@
-{
-  "internalId": 2373781956,
-  "name": "High Elf Stool, Curved",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_stool002.png",
-  "bindType": -1,
-  "knownIds": [
-    114327
-  ]
-}
+{"internalId":2373781956,"name":"High Elf Stool, Curved","description":"This is a small house item.","icon":"data/images/20/0l/oo/housing_alt_fur_stool002.png","bindType":-1,"knownIds":[114327]}

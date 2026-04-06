@@ -1,10 +1,1 @@
-{
-  "internalId": 3617848919,
-  "name": "Hakoshae Banner, Blue",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_akaviribanner001.png",
-  "bindType": -1,
-  "knownIds": [
-    151681
-  ]
-}
+{"internalId":3617848919,"name":"Hakoshae Banner, Blue","description":"This is a standard house item.","icon":"data/images/10/0r/en/housing_els_lsb_akaviribanner001.png","bindType":-1,"knownIds":[151681]}

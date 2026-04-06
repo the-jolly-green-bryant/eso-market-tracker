@@ -1,11 +1,1 @@
-{
-  "internalId": 4161244800,
-  "name": "Ruin Sucker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_pleco.png",
-  "bindType": -1,
-  "knownIds": [
-    1362680,
-    1362680
-  ]
-}
+{"internalId":4161244800,"name":"Ruin Sucker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_pleco.png","bindType":-1,"knownIds":[1362680,1362680]}

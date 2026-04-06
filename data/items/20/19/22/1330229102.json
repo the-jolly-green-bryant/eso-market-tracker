@@ -1,10 +1,1 @@
-{
-  "internalId": 1330229102,
-  "name": "Camonna Tong Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196023
-  ]
-}
+{"internalId":1330229102,"name":"Camonna Tong Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png","bindType":2,"knownIds":[196023]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3332774654,
-  "name": "Pattern: Dres Carpet, Chains",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    127035
-  ]
-}
+{"internalId":3332774654,"name":"Pattern: Dres Carpet, Chains","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[127035]}

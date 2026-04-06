@@ -1,13 +1,1 @@
-{
-  "internalId": 2420736637,
-  "name": "Madcaller's Blade",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png",
-  "bindType": -1,
-  "knownIds": [
-    399115,
-    707257,
-    399115,
-    707257
-  ]
-}
+{"internalId":2420736637,"name":"Madcaller's Blade","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argonian_dagger_d.png","bindType":-1,"knownIds":[399115,707257,399115,707257]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1708988356,
-  "name": "Mayor's Badge of Office",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    824248
-  ]
-}
+{"internalId":1708988356,"name":"Mayor's Badge of Office","description":"","icon":null,"bindType":-1,"knownIds":[824248]}

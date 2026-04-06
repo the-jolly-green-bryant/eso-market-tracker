@@ -1,10 +1,1 @@
-{
-  "internalId": 3118894445,
-  "name": "Redguard Firepit, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varfirepit001.png",
-  "bindType": -1,
-  "knownIds": [
-    117825
-  ]
-}
+{"internalId":3118894445,"name":"Redguard Firepit, Stone","description":"This is a standard house item.","icon":"data/images/10/0t/ip/housing_red_str_varfirepit001.png","bindType":-1,"knownIds":[117825]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4151943128,
-  "name": "Dawnwood  Serving Fork, Bone",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosfork002.png",
-  "bindType": -1,
-  "knownIds": [
-    204752
-  ]
-}
+{"internalId":4151943128,"name":"Dawnwood  Serving Fork, Bone","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_bosfork002.png","bindType":-1,"knownIds":[204752]}

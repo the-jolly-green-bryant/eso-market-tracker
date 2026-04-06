@@ -1,10 +1,1 @@
-{
-  "internalId": 3211802167,
-  "name": "Prisoner's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102038
-  ]
-}
+{"internalId":3211802167,"name":"Prisoner's Ice Staff","description":"","icon":"data/images/a_/ff/at/gear_soulshriven_staff_a.png","bindType":2,"knownIds":[102038]}

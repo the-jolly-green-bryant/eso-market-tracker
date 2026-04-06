@@ -1,10 +1,1 @@
-{
-  "internalId": 461229554,
-  "name": "Wood Elf Shelf, Tiered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_shelf001.png",
-  "bindType": -1,
-  "knownIds": [
-    115552
-  ]
-}
+{"internalId":461229554,"name":"Wood Elf Shelf, Tiered","description":"This is a standard house item.","icon":"data/images/10/0f/le/housing_bos_fur_shelf001.png","bindType":-1,"knownIds":[115552]}

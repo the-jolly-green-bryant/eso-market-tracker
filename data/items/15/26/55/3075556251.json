@@ -1,15 +1,1 @@
-{
-  "internalId": 3075556251,
-  "name": "Klaandor's Journal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    616110,
-    528831,
-    1068157,
-    616110,
-    528831,
-    1068157
-  ]
-}
+{"internalId":3075556251,"name":"Klaandor's Journal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[616110,528831,1068157,616110,528831,1068157]}

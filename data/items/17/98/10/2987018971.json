@@ -1,10 +1,1 @@
-{
-  "internalId": 2987018971,
-  "name": "Worm Cult Divider, Iron",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_dividerhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    220278
-  ]
-}
+{"internalId":2987018971,"name":"Worm Cult Divider, Iron","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_dividerhigh001.png","bindType":-1,"knownIds":[220278]}

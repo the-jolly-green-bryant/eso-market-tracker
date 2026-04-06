@@ -1,10 +1,1 @@
-{
-  "internalId": 2352110992,
-  "name": "Crisp and Crunchy Pumpkin Snack Skewer",
-  "description": "A lip-smacking skewer of roasted pumpkin and potato slices.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_kebab_pumpkin.png",
-  "bindType": -1,
-  "knownIds": [
-    87686
-  ]
-}
+{"internalId":2352110992,"name":"Crisp and Crunchy Pumpkin Snack Skewer","description":"A lip-smacking skewer of roasted pumpkin and potato slices.","icon":"data/images/ni/kp/mu/event_halloween_2016_kebab_pumpkin.png","bindType":-1,"knownIds":[87686]}

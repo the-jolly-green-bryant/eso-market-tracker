@@ -1,10 +1,1 @@
-{
-  "internalId": 3252736909,
-  "name": "Crafting Motif 64: Pyandonean Swords",
-  "description": "Use to learn how to make Pyandonean Swords. Also teaches the equivalent Pyandonean outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140442
-  ]
-}
+{"internalId":3252736909,"name":"Crafting Motif 64: Pyandonean Swords","description":"Use to learn how to make Pyandonean Swords. Also teaches the equivalent Pyandonean outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140442]}

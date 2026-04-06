@@ -1,10 +1,1 @@
-{
-  "internalId": 3213059926,
-  "name": "Shank",
-  "description": "Use to make Grilled Shank",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_malt_002.png",
-  "bindType": -1,
-  "knownIds": [
-    28612
-  ]
-}
+{"internalId":3213059926,"name":"Shank","description":"Use to make Grilled Shank","icon":"data/images/20/0_/tl/crafting_components_malt_002.png","bindType":-1,"knownIds":[28612]}

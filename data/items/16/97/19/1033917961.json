@@ -1,15 +1,1 @@
-{
-  "internalId": 1033917961,
-  "name": "Pyrebrand Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735279,
-    1736967,
-    1742378,
-    1735279,
-    1736967,
-    1742378
-  ]
-}
+{"internalId":1033917961,"name":"Pyrebrand Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_waist_a.png","bindType":-1,"knownIds":[1735279,1736967,1742378,1735279,1736967,1742378]}

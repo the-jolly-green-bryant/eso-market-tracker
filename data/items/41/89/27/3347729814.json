@@ -1,10 +1,1 @@
-{
-  "internalId": 3347729814,
-  "name": "Tide-Born Ornament, Painted Coral",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argtableornament002.png",
-  "bindType": -1,
-  "knownIds": [
-    220329
-  ]
-}
+{"internalId":3347729814,"name":"Tide-Born Ornament, Painted Coral","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argtableornament002.png","bindType":-1,"knownIds":[220329]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 750156618,
-  "name": "Reawakened Hierophant Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1hdagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1683231,
-    1716908,
-    1718693,
-    1770540,
-    1683231,
-    1716908,
-    1718693,
-    1770540
-  ]
-}
+{"internalId":750156618,"name":"Reawakened Hierophant Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1hdagger.png","bindType":-1,"knownIds":[1683231,1716908,1718693,1770540,1683231,1716908,1718693,1770540]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1646249489,
-  "name": "philter of Potent Stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_004.png",
-  "bindType": -1,
-  "knownIds": [
-    1514127
-  ]
-}
+{"internalId":1646249489,"name":"philter of Potent Stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_004.png","bindType":-1,"knownIds":[1514127]}

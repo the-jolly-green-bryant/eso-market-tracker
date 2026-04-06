@@ -1,17 +1,1 @@
-{
-  "internalId": 2806778989,
-  "name": "Stone-Talker's Perfected Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_1hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1542351,
-    1562972,
-    1611842,
-    1639414,
-    1542351,
-    1562972,
-    1611842,
-    1639414
-  ]
-}
+{"internalId":2806778989,"name":"Stone-Talker's Perfected Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_1hsword_a.png","bindType":-1,"knownIds":[1542351,1562972,1611842,1639414,1542351,1562972,1611842,1639414]}

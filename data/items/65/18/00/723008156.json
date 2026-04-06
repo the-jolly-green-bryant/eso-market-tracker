@@ -1,10 +1,1 @@
-{
-  "internalId": 723008156,
-  "name": "The Rift CE Treasure Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    833495
-  ]
-}
+{"internalId":723008156,"name":"The Rift CE Treasure Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[833495]}

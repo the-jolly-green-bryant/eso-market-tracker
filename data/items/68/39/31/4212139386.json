@@ -1,10 +1,1 @@
-{
-  "internalId": 4212139386,
-  "name": "Tree, Towering Withered",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_coldharbormb004.png",
-  "bindType": -1,
-  "knownIds": [
-    130277
-  ]
-}
+{"internalId":4212139386,"name":"Tree, Towering Withered","description":"This is a huge house item.","icon":"data/images/40/0b/mr/housing_tre_ded_coldharbormb004.png","bindType":-1,"knownIds":[130277]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1339718181,
-  "name": "Crafting Motif 25: Aldmeri Dominion Shoulders",
-  "description": "Use to learn how to make Aldmeri Dominion Shoulders. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Dominion Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    71700
-  ]
-}
+{"internalId":1339718181,"name":"Crafting Motif 25: Aldmeri Dominion Shoulders","description":"Use to learn how to make Aldmeri Dominion Shoulders. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Dominion Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[71700]}

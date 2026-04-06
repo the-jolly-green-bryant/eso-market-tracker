@@ -1,10 +1,1 @@
-{
-  "internalId": 4198912939,
-  "name": "Fish, Black Marsh",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkfishlarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    145402
-  ]
-}
+{"internalId":4198912939,"name":"Fish, Black Marsh","description":"This is a small house item.","icon":"data/images/20/0e/gr/housing_arg_inc_mrkfishlarge002.png","bindType":-1,"knownIds":[145402]}

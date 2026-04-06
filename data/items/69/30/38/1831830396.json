@@ -1,10 +1,1 @@
-{
-  "internalId": 1831830396,
-  "name": "Crow Feather Quill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    422061
-  ]
-}
+{"internalId":1831830396,"name":"Crow Feather Quill","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[422061]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3449376912,
-  "name": "Crafting Motif 99: Waking Flame Swords",
-  "description": "Use to learn how to make Waking Flame Swords. Also teaches the equivalent Waking Flame Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171594
-  ]
-}
+{"internalId":3449376912,"name":"Crafting Motif 99: Waking Flame Swords","description":"Use to learn how to make Waking Flame Swords. Also teaches the equivalent Waking Flame Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171594]}

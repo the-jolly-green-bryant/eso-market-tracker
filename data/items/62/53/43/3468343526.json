@@ -1,10 +1,1 @@
-{
-  "internalId": 3468343526,
-  "name": "Helmet of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95801
-  ]
-}
+{"internalId":3468343526,"name":"Helmet of the Air","description":"","icon":"data/images/a_/da/eh/gear_yokudan_medium_head_a.png","bindType":2,"knownIds":[95801]}

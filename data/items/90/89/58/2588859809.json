@@ -1,10 +1,1 @@
-{
-  "internalId": 2588859809,
-  "name": "Maul of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199332
-  ]
-}
+{"internalId":2588859809,"name":"Maul of Fury","description":"","icon":"data/images/a_/re/mm/gear_abahswatch_2hhammer_a.png","bindType":2,"knownIds":[79816]}

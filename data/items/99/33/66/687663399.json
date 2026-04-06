@@ -1,10 +1,1 @@
-{
-  "internalId": 687663399,
-  "name": "Blueprint: Tide-Born Chair, Wicker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    217511
-  ]
-}
+{"internalId":687663399,"name":"Blueprint: Tide-Born Chair, Wicker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[217511]}

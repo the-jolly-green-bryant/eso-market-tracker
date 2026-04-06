@@ -1,10 +1,1 @@
-{
-  "internalId": 1456863901,
-  "name": "Bolt of Winter Storm Cloth",
-  "description": "Consume 15 Bolts of Winter Storm Cloth to unlock the A Warm Winter Storm achievement and the New Life Winter Storm Robes costume!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_spidersilk_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    212198
-  ]
-}
+{"internalId":1456863901,"name":"Bolt of Winter Storm Cloth","description":"Consume 15 Bolts of Winter Storm Cloth to unlock the A Warm Winter Storm achievement and the New Life Winter Storm Robes costume!","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_spidersilk_r2.png","bindType":-1,"knownIds":[212198]}

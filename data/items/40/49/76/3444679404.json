@@ -1,13 +1,1 @@
-{
-  "internalId": 3444679404,
-  "name": "Ammabani's Pride",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    683598,
-    511503,
-    683598,
-    511503
-  ]
-}
+{"internalId":3444679404,"name":"Ammabani's Pride","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[683598,511503,683598,511503]}

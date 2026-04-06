@@ -1,10 +1,1 @@
-{
-  "internalId": 1744043154,
-  "name": "Artaeum Pickled Fish Bowl",
-  "description": "Mildly tart and mildly sweet, yet oddly delicious. And entirely raw.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_003.png",
-  "bindType": -1,
-  "knownIds": [
-    139016
-  ]
-}
+{"internalId":1744043154,"name":"Artaeum Pickled Fish Bowl","description":"Mildly tart and mildly sweet, yet oddly delicious. And entirely raw.","icon":"data/images/30/0_/lw/crafting_bowl_003.png","bindType":-1,"knownIds":[139016]}

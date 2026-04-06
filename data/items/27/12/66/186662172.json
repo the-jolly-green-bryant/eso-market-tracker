@@ -1,10 +1,1 @@
-{
-  "internalId": 186662172,
-  "name": "Murkmire Platform, Sectioned",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_run_mrkstellacrystalbase001.png",
-  "bindType": -1,
-  "knownIds": [
-    145337
-  ]
-}
+{"internalId":186662172,"name":"Murkmire Platform, Sectioned","description":"This is a large house item.","icon":"data/images/10/0e/sa/housing_arg_run_mrkstellacrystalbase001.png","bindType":-1,"knownIds":[145337]}

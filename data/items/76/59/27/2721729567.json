@@ -1,10 +1,1 @@
-{
-  "internalId": 2721729567,
-  "name": "Praxis: Elsweyr Pot, Ornate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    152001
-  ]
-}
+{"internalId":2721729567,"name":"Praxis: Elsweyr Pot, Ornate","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[152001]}

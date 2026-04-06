@@ -1,10 +1,1 @@
-{
-  "internalId": 670088907,
-  "name": "zebra oto",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    452740
-  ]
-}
+{"internalId":670088907,"name":"zebra oto","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[452740]}

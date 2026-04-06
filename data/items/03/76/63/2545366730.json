@@ -1,10 +1,1 @@
-{
-  "internalId": 2545366730,
-  "name": "Style Page: Pirate Skeleton's Shoulder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1400798
-  ]
-}
+{"internalId":2545366730,"name":"Style Page: Pirate Skeleton's Shoulder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1400798]}

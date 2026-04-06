@@ -1,10 +1,1 @@
-{
-  "internalId": 3802854815,
-  "name": "Barrow Boots",
-  "description": "Presented in thanks after you recovered historical relics for the House of Orsimer Glories.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wrothgarorc_heavy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    70998
-  ]
-}
+{"internalId":3802854815,"name":"Barrow Boots","description":"Presented in thanks after you recovered historical relics for the House of Orsimer Glories.","icon":"data/images/a_/te/ef/gear_wrothgarorc_heavy_feet_a.png","bindType":2,"knownIds":[70998]}

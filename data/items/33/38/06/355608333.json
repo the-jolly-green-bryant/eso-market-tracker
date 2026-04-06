@@ -1,10 +1,1 @@
-{
-  "internalId": 355608333,
-  "name": "Smuggler Tunnels Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    824420
-  ]
-}
+{"internalId":355608333,"name":"Smuggler Tunnels Key","description":"","icon":null,"bindType":-1,"knownIds":[824420]}

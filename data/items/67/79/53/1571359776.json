@@ -1,10 +1,1 @@
-{
-  "internalId": 1571359776,
-  "name": "Lightning Staff of Winter's Respite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_staff.png",
-  "bindType": 2,
-  "knownIds": [
-    160807
-  ]
-}
+{"internalId":1571359776,"name":"Lightning Staff of Winter's Respite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_staff.png","bindType":2,"knownIds":[160807]}

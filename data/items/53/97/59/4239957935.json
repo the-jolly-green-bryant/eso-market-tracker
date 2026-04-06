@@ -1,10 +1,1 @@
-{
-  "internalId": 4239957935,
-  "name": "Unchained Aggressor's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159056
-  ]
-}
+{"internalId":4239957935,"name":"Unchained Aggressor's Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":2,"knownIds":[159056]}

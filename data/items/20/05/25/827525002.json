@@ -1,10 +1,1 @@
-{
-  "internalId": 827525002,
-  "name": "Solitude Dinner Bowl, Vegetable Soup",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_soupbowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    165791
-  ]
-}
+{"internalId":827525002,"name":"Solitude Dinner Bowl, Vegetable Soup","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_soupbowl002.png","bindType":-1,"knownIds":[165791]}

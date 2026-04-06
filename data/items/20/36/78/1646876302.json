@@ -1,17 +1,1 @@
-{
-  "internalId": 1646876302,
-  "name": "ebonthread hat of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    523973,
-    613629,
-    786477,
-    881943,
-    523973,
-    613629,
-    786477,
-    881943
-  ]
-}
+{"internalId":1646876302,"name":"ebonthread hat of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png","bindType":-1,"knownIds":[523973,613629,786477,881943,523973,613629,786477,881943]}

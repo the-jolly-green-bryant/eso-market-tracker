@@ -1,10 +1,1 @@
-{
-  "internalId": 465010249,
-  "name": "Seaberry Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37958
-  ]
-}
+{"internalId":465010249,"name":"Seaberry Tonic","description":"","icon":"data/images/20/0_/el/crafting_stoneware_bottle_002.png","bindType":-1,"knownIds":[37958]}

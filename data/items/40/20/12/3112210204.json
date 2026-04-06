@@ -1,10 +1,1 @@
-{
-  "internalId": 3112210204,
-  "name": "Naga Shaman Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143499
-  ]
-}
+{"internalId":3112210204,"name":"Naga Shaman Battle Axe","description":"","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[143499]}

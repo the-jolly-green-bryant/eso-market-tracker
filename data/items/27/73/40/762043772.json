@@ -1,10 +1,1 @@
-{
-  "internalId": 762043772,
-  "name": "Carnelian",
-  "description": "Can be used to enhance weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_armor_component_004.png",
-  "bindType": -1,
-  "knownIds": [
-    23165
-  ]
-}
+{"internalId":762043772,"name":"Carnelian","description":"Can be used to enhance weapons.","icon":"data/images/40/0_/tn/crafting_runecrafter_armor_component_004.png","bindType":-1,"knownIds":[23165]}

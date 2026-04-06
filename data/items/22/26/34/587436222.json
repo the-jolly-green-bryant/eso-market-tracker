@@ -1,10 +1,1 @@
-{
-  "internalId": 587436222,
-  "name": "Light Speaker's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1139162
-  ]
-}
+{"internalId":587436222,"name":"Light Speaker's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png","bindType":-1,"knownIds":[1139162]}

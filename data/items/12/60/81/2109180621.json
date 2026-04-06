@@ -1,10 +1,1 @@
-{
-  "internalId": 2109180621,
-  "name": "Ancestor Wrasse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
-  "bindType": -1,
-  "knownIds": [
-    1193808
-  ]
-}
+{"internalId":2109180621,"name":"Ancestor Wrasse","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png","bindType":-1,"knownIds":[1193808]}

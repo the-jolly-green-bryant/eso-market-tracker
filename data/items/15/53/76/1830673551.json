@@ -1,10 +1,1 @@
-{
-  "internalId": 1830673551,
-  "name": "Foyen Docks Bill of Lading",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1208172
-  ]
-}
+{"internalId":1830673551,"name":"Foyen Docks Bill of Lading","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[1208172]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3974498519,
-  "name": "Venomous Smite",
-  "description": "A Medium Armor set found in Greymoor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    161003
-  ]
-}
+{"internalId":3974498519,"name":"Venomous Smite","description":"A Medium Armor set found in Greymoor.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[161003]}

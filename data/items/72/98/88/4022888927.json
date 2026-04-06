@@ -1,10 +1,1 @@
-{
-  "internalId": 4022888927,
-  "name": "Craglorn Brazier, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_brazier001.png",
-  "bindType": -1,
-  "knownIds": [
-    120844
-  ]
-}
+{"internalId":4022888927,"name":"Craglorn Brazier, Ornate","description":"This is a standard house item.","icon":"data/images/10/0r/ei/housing_cra_lsb_brazier001.png","bindType":-1,"knownIds":[120844]}

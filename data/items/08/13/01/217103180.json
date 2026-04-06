@@ -1,10 +1,1 @@
-{
-  "internalId": 217103180,
-  "name": "Blueprint: Leyawiin Chair, Slatted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    175953
-  ]
-}
+{"internalId":217103180,"name":"Blueprint: Leyawiin Chair, Slatted","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[175953]}

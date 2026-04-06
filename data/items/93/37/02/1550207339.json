@@ -1,10 +1,1 @@
-{
-  "internalId": 1550207339,
-  "name": "Conch Flute, Ceremonial",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_ceremonialconch001.png",
-  "bindType": -1,
-  "knownIds": [
-    214456
-  ]
-}
+{"internalId":1550207339,"name":"Conch Flute, Ceremonial","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_ceremonialconch001.png","bindType":-1,"knownIds":[214456]}

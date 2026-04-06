@@ -1,17 +1,1 @@
-{
-  "internalId": 2338434635,
-  "name": "Siroria's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1242934,
-    1387698,
-    1454812,
-    1477695,
-    1242934,
-    1387698,
-    1454812,
-    1477695
-  ]
-}
+{"internalId":2338434635,"name":"Siroria's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1242934,1387698,1454812,1477695,1242934,1387698,1454812,1477695]}

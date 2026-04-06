@@ -1,10 +1,1 @@
-{
-  "internalId": 2334959459,
-  "name": "Covenant's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_1hsword_b.png",
-  "bindType": 2,
-  "knownIds": [
-    55850
-  ]
-}
+{"internalId":2334959459,"name":"Covenant's Sword","description":"","icon":"data/images/b_/dr/ow/gear_akaviri_1hsword_b.png","bindType":2,"knownIds":[55850]}

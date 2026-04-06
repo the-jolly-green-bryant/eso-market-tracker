@@ -1,15 +1,1 @@
-{
-  "internalId": 1634208961,
-  "name": "Ravenwatch Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    401923,
-    540922,
-    615555,
-    401923,
-    540922,
-    615555
-  ]
-}
+{"internalId":1634208961,"name":"Ravenwatch Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_feet_d.png","bindType":-1,"knownIds":[401923,540922,615555,401923,540922,615555]}

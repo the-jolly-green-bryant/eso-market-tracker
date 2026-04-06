@@ -1,10 +1,1 @@
-{
-  "internalId": 3250771755,
-  "name": "Blueprint: Argonian Bookshelf, Woven",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    1130641
-  ]
-}
+{"internalId":3250771755,"name":"Blueprint: Argonian Bookshelf, Woven","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[1130641]}

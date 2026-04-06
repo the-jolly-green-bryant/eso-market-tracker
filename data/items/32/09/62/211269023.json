@@ -1,10 +1,1 @@
-{
-  "internalId": 211269023,
-  "name": "Savior's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactsaviorhidemd_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54279
-  ]
-}
+{"internalId":211269023,"name":"Savior's Helmet","description":"","icon":"data/images/a_/da/eh/gear_artifactsaviorhidemd_head_a.png","bindType":2,"knownIds":[54279]}

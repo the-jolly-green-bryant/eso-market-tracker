@@ -1,10 +1,1 @@
-{
-  "internalId": 3813791752,
-  "name": "Forgotten Adventurer's Battle Axe",
-  "description": "While it may not be as sharp as it once was, this Elven cleaver can still hew flesh, wood, and stone with brutal efficiency.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    190937
-  ]
-}
+{"internalId":3813791752,"name":"Forgotten Adventurer's Battle Axe","description":"While it may not be as sharp as it once was, this Elven cleaver can still hew flesh, wood, and stone with brutal efficiency.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2haxe_d.png","bindType":2,"knownIds":[190937]}

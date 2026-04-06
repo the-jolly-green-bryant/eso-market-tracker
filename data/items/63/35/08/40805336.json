@@ -1,10 +1,1 @@
-{
-  "internalId": 40805336,
-  "name": "Praxis: Apocrypha Platform, Lattice Tile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    203332
-  ]
-}
+{"internalId":40805336,"name":"Praxis: Apocrypha Platform, Lattice Tile","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[203332]}

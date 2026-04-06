@@ -1,10 +1,1 @@
-{
-  "internalId": 1863393077,
-  "name": "Praxis: Markarth Post, Stone Wall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    171787
-  ]
-}
+{"internalId":1863393077,"name":"Praxis: Markarth Post, Stone Wall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[171787]}

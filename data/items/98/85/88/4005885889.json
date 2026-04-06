@@ -1,10 +1,1 @@
-{
-  "internalId": 4005885889,
-  "name": "Snake in the Stars Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194001
-  ]
-}
+{"internalId":4005885889,"name":"Snake in the Stars Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png","bindType":2,"knownIds":[194001]}

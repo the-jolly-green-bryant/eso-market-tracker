@@ -1,10 +1,1 @@
-{
-  "internalId": 2094225681,
-  "name": "Gilded Soup Bowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    657554
-  ]
-}
+{"internalId":2094225681,"name":"Gilded Soup Bowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png","bindType":-1,"knownIds":[657554]}

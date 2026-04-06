@@ -1,10 +1,1 @@
-{
-  "internalId": 2113438723,
-  "name": "Praxis: High Elf Dresser, Verdant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    118965
-  ]
-}
+{"internalId":2113438723,"name":"Praxis: High Elf Dresser, Verdant","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[118965]}

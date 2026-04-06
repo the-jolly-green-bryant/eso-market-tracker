@@ -1,15 +1,1 @@
-{
-  "internalId": 1490335803,
-  "name": "Perfected False God's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1542191,
-    1576193,
-    1629299,
-    1542191,
-    1576193,
-    1629299
-  ]
-}
+{"internalId":1490335803,"name":"Perfected False God's Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2haxe_a.png","bindType":-1,"knownIds":[1542191,1576193,1629299,1542191,1576193,1629299]}

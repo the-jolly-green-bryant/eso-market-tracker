@@ -1,10 +1,1 @@
-{
-  "internalId": 352060170,
-  "name": "New Moon Acolyte's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156519
-  ]
-}
+{"internalId":352060170,"name":"New Moon Acolyte's Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":2,"knownIds":[156519]}

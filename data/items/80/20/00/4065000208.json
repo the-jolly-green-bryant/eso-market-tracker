@@ -1,13 +1,1 @@
-{
-  "internalId": 4065000208,
-  "name": "False God's Perfected Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_shield_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1751957,
-    1761219,
-    1751957,
-    1761219
-  ]
-}
+{"internalId":4065000208,"name":"False God's Perfected Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_shield_a.png","bindType":-1,"knownIds":[1751957,1761219,1751957,1761219]}

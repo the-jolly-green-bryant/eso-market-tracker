@@ -1,10 +1,1 @@
-{
-  "internalId": 136739044,
-  "name": "Crimson Ship Ticket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_crimson_ticket.png",
-  "bindType": -1,
-  "knownIds": [
-    1198902
-  ]
-}
+{"internalId":136739044,"name":"Crimson Ship Ticket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_crimson_ticket.png","bindType":-1,"knownIds":[1198902]}

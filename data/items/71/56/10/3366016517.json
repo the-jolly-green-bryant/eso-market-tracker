@@ -1,10 +1,1 @@
-{
-  "internalId": 3366016517,
-  "name": "Shield of the Weald",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_sheild.png",
-  "bindType": 2,
-  "knownIds": [
-    205043
-  ]
-}
+{"internalId":3366016517,"name":"Shield of the Weald","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_sheild.png","bindType":2,"knownIds":[205043]}

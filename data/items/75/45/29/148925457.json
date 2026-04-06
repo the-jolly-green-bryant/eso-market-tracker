@@ -1,10 +1,1 @@
-{
-  "internalId": 148925457,
-  "name": "Wooden Serpent Totem",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    653695
-  ]
-}
+{"internalId":148925457,"name":"Wooden Serpent Totem","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[653695]}

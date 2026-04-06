@@ -1,10 +1,1 @@
-{
-  "internalId": 2852668161,
-  "name": "Harbor Winch, Treadwheel",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_hlaharborpulley001.png",
-  "bindType": -1,
-  "knownIds": [
-    171822
-  ]
-}
+{"internalId":2852668161,"name":"Harbor Winch, Treadwheel","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_hlaharborpulley001.png","bindType":-1,"knownIds":[171822]}

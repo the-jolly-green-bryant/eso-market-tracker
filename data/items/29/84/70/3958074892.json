@@ -1,13 +1,1 @@
-{
-  "internalId": 3958074892,
-  "name": "Keeper's Garb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    400866,
-    1465059,
-    400866,
-    1465059
-  ]
-}
+{"internalId":3958074892,"name":"Keeper's Garb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[400866,1465059,400866,1465059]}

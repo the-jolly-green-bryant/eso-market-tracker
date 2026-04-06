@@ -1,13 +1,1 @@
-{
-  "internalId": 2664229494,
-  "name": "Fledgling's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1754593,
-    1761612,
-    1754593,
-    1761612
-  ]
-}
+{"internalId":2664229494,"name":"Fledgling's Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_2haxe_a.png","bindType":-1,"knownIds":[1754593,1761612,1754593,1761612]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 306530985,
-  "name": "Rough Barrel, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel002.png",
-  "bindType": -1,
-  "knownIds": [
-    117927
-  ]
-}
+{"internalId":306530985,"name":"Rough Barrel, Sturdy","description":"This is a standard house item.","icon":"data/images/20/0l/er/housing_bre_con_barrel002.png","bindType":-1,"knownIds":[117927]}

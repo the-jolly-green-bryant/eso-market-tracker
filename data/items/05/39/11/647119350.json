@@ -1,10 +1,1 @@
-{
-  "internalId": 647119350,
-  "name": "Argonian Sipping Cup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    434517
-  ]
-}
+{"internalId":647119350,"name":"Argonian Sipping Cup","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[434517]}

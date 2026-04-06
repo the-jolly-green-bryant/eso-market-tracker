@@ -1,13 +1,1 @@
-{
-  "internalId": 753873525,
-  "name": "Perfected Pearlescent Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1592455,
-    1777445,
-    1592455,
-    1777445
-  ]
-}
+{"internalId":753873525,"name":"Perfected Pearlescent Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png","bindType":-1,"knownIds":[1592455,1777445,1592455,1777445]}

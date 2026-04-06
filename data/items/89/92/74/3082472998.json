@@ -1,10 +1,1 @@
-{
-  "internalId": 3082472998,
-  "name": "Vrol's Command",
-  "description": "A Heavy Armor set found in Kyne's Aegis.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    162371
-  ]
-}
+{"internalId":3082472998,"name":"Vrol's Command","description":"A Heavy Armor set found in Kyne's Aegis.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[162371]}

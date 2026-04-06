@@ -1,17 +1,1 @@
-{
-  "internalId": 1232932452,
-  "name": "Crimson Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1378823,
-    1380261,
-    1465975,
-    1659412,
-    1378823,
-    1380261,
-    1465975,
-    1659412
-  ]
-}
+{"internalId":1232932452,"name":"Crimson Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1378823,1380261,1465975,1659412,1378823,1380261,1465975,1659412]}

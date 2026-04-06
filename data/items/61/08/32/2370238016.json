@@ -1,10 +1,1 @@
-{
-  "internalId": 2370238016,
-  "name": "Scrimshaw Boot Scraper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    870505
-  ]
-}
+{"internalId":2370238016,"name":"Scrimshaw Boot Scraper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[870505]}

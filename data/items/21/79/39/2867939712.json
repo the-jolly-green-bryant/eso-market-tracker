@@ -1,10 +1,1 @@
-{
-  "internalId": 2867939712,
-  "name": "Venomous Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160995
-  ]
-}
+{"internalId":2867939712,"name":"Venomous Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_shield_a.png","bindType":2,"knownIds":[160995]}

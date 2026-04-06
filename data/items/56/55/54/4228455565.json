@@ -1,10 +1,1 @@
-{
-  "internalId": 4228455565,
-  "name": "Light as Art Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting004.png",
-  "bindType": -1,
-  "knownIds": [
-    166440
-  ]
-}
+{"internalId":4228455565,"name":"Light as Art Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting004.png","bindType":-1,"knownIds":[166440]}

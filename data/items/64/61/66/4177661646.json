@@ -1,10 +1,1 @@
-{
-  "internalId": 4177661646,
-  "name": "Recipe: Bravil Bitter Barley Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68222
-  ]
-}
+{"internalId":4177661646,"name":"Recipe: Bravil Bitter Barley Beer","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68222]}

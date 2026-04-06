@@ -1,10 +1,1 @@
-{
-  "internalId": 2126341535,
-  "name": "Covenant Lightning Ballista",
-  "description": "Creates a ballista siege weapon whose electrically charged bolt ensnares enemies and drains their Magicka.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    27975
-  ]
-}
+{"internalId":2126341535,"name":"Covenant Lightning Ballista","description":"Creates a ballista siege weapon whose electrically charged bolt ensnares enemies and drains their Magicka.","icon":"data/images/10/0_/no/ava_siege_weapon_001.png","bindType":-1,"knownIds":[27975]}

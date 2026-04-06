@@ -1,13 +1,1 @@
-{
-  "internalId": 567467438,
-  "name": "lesser glyph of poison",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_poisonessence.png",
-  "bindType": -1,
-  "knownIds": [
-    451087,
-    1548812,
-    451087,
-    1548812
-  ]
-}
+{"internalId":567467438,"name":"lesser glyph of poison","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_poisonessence.png","bindType":-1,"knownIds":[451087,1548812,451087,1548812]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2395309246,
-  "name": "Redoran Table, Kitchen",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlatable003.png",
-  "bindType": -1,
-  "knownIds": [
-    126403
-  ]
-}
+{"internalId":2395309246,"name":"Redoran Table, Kitchen","description":"This is a standard house item.","icon":"data/images/30/0e/lb/housing_vrd_fur_hlatable003.png","bindType":-1,"knownIds":[126403]}

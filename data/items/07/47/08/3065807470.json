@@ -1,10 +1,1 @@
-{
-  "internalId": 3065807470,
-  "name": "Rugged Adventurer's Backpack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_backpack001.png",
-  "bindType": -1,
-  "knownIds": [
-    1342564
-  ]
-}
+{"internalId":3065807470,"name":"Rugged Adventurer's Backpack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_backpack001.png","bindType":-1,"knownIds":[1342564]}

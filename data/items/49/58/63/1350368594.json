@@ -1,10 +1,1 @@
-{
-  "internalId": 1350368594,
-  "name": "All of the Scripts",
-  "description": "Unlocks each and every script for testing Scribing, all at once!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
-  "bindType": -1,
-  "knownIds": [
-    207940
-  ]
-}
+{"internalId":1350368594,"name":"All of the Scripts","description":"Unlocks each and every script for testing Scribing, all at once!","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png","bindType":-1,"knownIds":[207940]}

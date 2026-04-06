@@ -1,10 +1,1 @@
-{
-  "internalId": 3392718819,
-  "name": "Necklace of Destruction Mastery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    87308
-  ]
-}
+{"internalId":3392718819,"name":"Necklace of Destruction Mastery","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[87308]}

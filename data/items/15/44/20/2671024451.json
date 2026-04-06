@@ -1,10 +1,1 @@
-{
-  "internalId": 2671024451,
-  "name": "Ice Staff of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179150
-  ]
-}
+{"internalId":2671024451,"name":"Ice Staff of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[179150]}

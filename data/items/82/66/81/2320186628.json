@@ -1,10 +1,1 @@
-{
-  "internalId": 2320186628,
-  "name": "Druidic Hearth, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_housingdrustoneoven002.png",
-  "bindType": -1,
-  "knownIds": [
-    191163
-  ]
-}
+{"internalId":2320186628,"name":"Druidic Hearth, Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_housingdrustoneoven002.png","bindType":-1,"knownIds":[191163]}

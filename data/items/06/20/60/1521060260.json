@@ -1,10 +1,1 @@
-{
-  "internalId": 1521060260,
-  "name": "Telvanni Stool, Organic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_telstoolorganic001.png",
-  "bindType": -1,
-  "knownIds": [
-    126428
-  ]
-}
+{"internalId":1521060260,"name":"Telvanni Stool, Organic","description":"This is a standard house item.","icon":"data/images/10/0c/in/housing_vrd_fur_telstoolorganic001.png","bindType":-1,"knownIds":[126428]}

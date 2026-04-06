@@ -1,10 +1,1 @@
-{
-  "internalId": 3757728382,
-  "name": "Carpet Roll, Sunrise",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketrug002.png",
-  "bindType": -1,
-  "knownIds": [
-    118152
-  ]
-}
+{"internalId":3757728382,"name":"Carpet Roll, Sunrise","description":"This is a standard house item.","icon":"data/images/20/0g/ur/housing_red_exc_varmarketrug002.png","bindType":-1,"knownIds":[118152]}

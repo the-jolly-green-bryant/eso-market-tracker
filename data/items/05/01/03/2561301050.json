@@ -1,13 +1,1 @@
-{
-  "internalId": 2561301050,
-  "name": "Spider Cultist's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_light_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1753328,
-    1777775,
-    1753328,
-    1777775
-  ]
-}
+{"internalId":2561301050,"name":"Spider Cultist's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_light_shoulders_a.png","bindType":-1,"knownIds":[1753328,1777775,1753328,1777775]}

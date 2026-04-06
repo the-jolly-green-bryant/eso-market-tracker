@@ -1,10 +1,1 @@
-{
-  "internalId": 2575549983,
-  "name": "Vampiric Table, Circular",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampiretableroundlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    165601
-  ]
-}
+{"internalId":2575549983,"name":"Vampiric Table, Circular","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampiretableroundlarge001.png","bindType":-1,"knownIds":[165601]}

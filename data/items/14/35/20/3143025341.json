@@ -1,10 +1,1 @@
-{
-  "internalId": 3143025341,
-  "name": "Footpads of Shadows",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    29519
-  ]
-}
+{"internalId":3143025341,"name":"Footpads of Shadows","description":"","icon":"data/images/d_/te/ef/gear_khajiit_medium_feet_d.png","bindType":2,"knownIds":[29519]}

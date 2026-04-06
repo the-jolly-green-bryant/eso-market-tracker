@@ -1,10 +1,1 @@
-{
-  "internalId": 3893381118,
-  "name": "Shield of Fasalla's Guile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199179
-  ]
-}
+{"internalId":3893381118,"name":"Shield of Fasalla's Guile","description":"","icon":"data/images/a_/dl/ei/gear_abahswatch_shield_a.png","bindType":2,"knownIds":[79791]}

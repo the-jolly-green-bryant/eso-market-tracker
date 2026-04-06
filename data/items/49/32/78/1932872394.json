@@ -1,10 +1,1 @@
-{
-  "internalId": 1932872394,
-  "name": "Crafting Motif 114: Systres Guardian Gloves",
-  "description": "Use to learn how to make Systres Guardian Gloves. Also teaches the equivalent Systres Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    182561
-  ]
-}
+{"internalId":1932872394,"name":"Crafting Motif 114: Systres Guardian Gloves","description":"Use to learn how to make Systres Guardian Gloves. Also teaches the equivalent Systres Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[182561]}

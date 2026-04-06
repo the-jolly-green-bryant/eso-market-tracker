@@ -1,10 +1,1 @@
-{
-  "internalId": 125359180,
-  "name": "Stone-Nest Staircase, Western Landing",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_housingargplatformstairs004.png",
-  "bindType": -1,
-  "knownIds": [
-    223833
-  ]
-}
+{"internalId":125359180,"name":"Stone-Nest Staircase, Western Landing","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_housingargplatformstairs004.png","bindType":-1,"knownIds":[223833]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3472847405,
-  "name": "Style Page: Iceheart's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1287007
-  ]
-}
+{"internalId":3472847405,"name":"Style Page: Iceheart's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1287007]}

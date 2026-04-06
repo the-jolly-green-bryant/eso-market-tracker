@@ -1,10 +1,1 @@
-{
-  "internalId": 756179069,
-  "name": "reaper's eel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png",
-  "bindType": -1,
-  "knownIds": [
-    381865
-  ]
-}
+{"internalId":756179069,"name":"reaper's eel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png","bindType":-1,"knownIds":[381865]}

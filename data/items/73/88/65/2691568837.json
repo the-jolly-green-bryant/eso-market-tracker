@@ -1,10 +1,1 @@
-{
-  "internalId": 2691568837,
-  "name": "Ancient Zircon Plating",
-  "description": "Grants 10 Zircon Plating when claimed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_dingy_zircon.png",
-  "bindType": -1,
-  "knownIds": [
-    135149
-  ]
-}
+{"internalId":2691568837,"name":"Ancient Zircon Plating","description":"Grants 10 Zircon Plating when claimed.","icon":"data/images/no/cr/iz/jewelrycrafting_booster_dingy_zircon.png","bindType":-1,"knownIds":[135149]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3983114499,
-  "name": "Dead-Water's Guile Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_medium_hand_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142575
-  ]
-}
+{"internalId":3983114499,"name":"Dead-Water's Guile Bracers","description":"","icon":"data/images/a_/dn/ah/gear_deadwater_medium_hand_a.png","bindType":2,"knownIds":[142575]}

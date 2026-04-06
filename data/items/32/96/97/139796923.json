@@ -1,10 +1,1 @@
-{
-  "internalId": 139796923,
-  "name": "High Elf Bed, Bunk",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_bedbunk001.png",
-  "bindType": -1,
-  "knownIds": [
-    114372
-  ]
-}
+{"internalId":139796923,"name":"High Elf Bed, Bunk","description":"This is a standard house item.","icon":"data/images/10/0k/nu/housing_alt_fur_bedbunk001.png","bindType":-1,"knownIds":[114372]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1676883061,
-  "name": "Blueprint: Solitude Nightstand, Cabinet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166833
-  ]
-}
+{"internalId":1676883061,"name":"Blueprint: Solitude Nightstand, Cabinet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[166833]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 360398785,
-  "name": "Colovian Staircase, Straight",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousestairstraight001.png",
-  "bindType": -1,
-  "knownIds": [
-    208080
-  ]
-}
+{"internalId":360398785,"name":"Colovian Staircase, Straight","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousestairstraight001.png","bindType":-1,"knownIds":[208080]}

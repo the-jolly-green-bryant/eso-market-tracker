@@ -1,10 +1,1 @@
-{
-  "internalId": 121420356,
-  "name": "Hew and Sunder Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    183563
-  ]
-}
+{"internalId":121420356,"name":"Hew and Sunder Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":2,"knownIds":[183563]}

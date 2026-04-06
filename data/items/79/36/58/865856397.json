@@ -1,10 +1,1 @@
-{
-  "internalId": 865856397,
-  "name": "Battle Axe of Imperial Wrath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90083
-  ]
-}
+{"internalId":865856397,"name":"Battle Axe of Imperial Wrath","description":"","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[90083]}

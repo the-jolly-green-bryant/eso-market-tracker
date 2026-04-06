@@ -1,10 +1,1 @@
-{
-  "internalId": 3712273054,
-  "name": "Kelbarn's Mantlet",
-  "description": "This Nordic armor was your reward for finding and returning mining samples.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159709
-  ]
-}
+{"internalId":3712273054,"name":"Kelbarn's Mantlet","description":"This Nordic armor was your reward for finding and returning mining samples.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_shoulders_d.png","bindType":2,"knownIds":[159709]}

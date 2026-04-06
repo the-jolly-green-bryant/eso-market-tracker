@@ -1,10 +1,1 @@
-{
-  "internalId": 4220848865,
-  "name": "Zeal Decorations, Pennants Short",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealbannerline004.png",
-  "bindType": -1,
-  "knownIds": [
-    212548
-  ]
-}
+{"internalId":4220848865,"name":"Zeal Decorations, Pennants Short","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealbannerline004.png","bindType":-1,"knownIds":[212548]}

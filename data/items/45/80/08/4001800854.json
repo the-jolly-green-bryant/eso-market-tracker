@@ -1,10 +1,1 @@
-{
-  "internalId": 4001800854,
-  "name": "Design: Murkmire Candles, Bone Group",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    145989
-  ]
-}
+{"internalId":4001800854,"name":"Design: Murkmire Candles, Bone Group","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[145989]}

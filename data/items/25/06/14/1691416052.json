@@ -1,10 +1,1 @@
-{
-  "internalId": 1691416052,
-  "name": "Daedric Drinking Bowl, Ritual",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_bowl001.png",
-  "bindType": -1,
-  "knownIds": [
-    139095
-  ]
-}
+{"internalId":1691416052,"name":"Daedric Drinking Bowl, Ritual","description":"This is a small house item.","icon":"data/images/10/0l/wo/housing_dae_inc_bowl001.png","bindType":-1,"knownIds":[139095]}

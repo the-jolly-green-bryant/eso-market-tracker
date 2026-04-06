@@ -1,10 +1,1 @@
-{
-  "internalId": 734334420,
-  "name": "Cold Chorrol Corn on the Cob",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_corn_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37905
-  ]
-}
+{"internalId":734334420,"name":"Cold Chorrol Corn on the Cob","description":"","icon":"data/images/20/0_/nr/crafting_corn_002.png","bindType":-1,"knownIds":[37905]}

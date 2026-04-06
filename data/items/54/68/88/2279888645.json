@@ -1,10 +1,1 @@
-{
-  "internalId": 2279888645,
-  "name": "Axe of Oakfather's Retribution",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    204050
-  ]
-}
+{"internalId":2279888645,"name":"Axe of Oakfather's Retribution","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":2,"knownIds":[204050]}

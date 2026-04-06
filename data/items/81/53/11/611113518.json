@@ -1,10 +1,1 @@
-{
-  "internalId": 611113518,
-  "name": "Two Moons Disappearing Ink",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_inkwell_001.png",
-  "bindType": -1,
-  "knownIds": [
-    628514
-  ]
-}
+{"internalId":611113518,"name":"Two Moons Disappearing Ink","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_inkwell_001.png","bindType":-1,"knownIds":[628514]}

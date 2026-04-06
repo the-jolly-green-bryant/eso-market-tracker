@@ -1,10 +1,1 @@
-{
-  "internalId": 4051519970,
-  "name": "Frost-Cursed Lament",
-  "description": "For saving her daughter, Lady Ninetha of Morthal gave you this necklace.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    159726
-  ]
-}
+{"internalId":4051519970,"name":"Frost-Cursed Lament","description":"For saving her daughter, Lady Ninetha of Morthal gave you this necklace.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[159726]}

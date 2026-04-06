@@ -1,10 +1,1 @@
-{
-  "internalId": 1927680455,
-  "name": "Tax Collector's Ledger",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    896147
-  ]
-}
+{"internalId":1927680455,"name":"Tax Collector's Ledger","description":"","icon":null,"bindType":-1,"knownIds":[896147]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3727246820,
-  "name": "Axe of Kyne's Kiss",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93681
-  ]
-}
+{"internalId":3727246820,"name":"Axe of Kyne's Kiss","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[93681]}

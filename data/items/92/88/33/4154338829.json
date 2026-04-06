@@ -1,11 +1,1 @@
-{
-  "internalId": 4154338829,
-  "name": "|H0:collectible:1119|h|h",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    1085707,
-    1085707
-  ]
-}
+{"internalId":4154338829,"name":"|H0:collectible:1119|h|h","description":"","icon":null,"bindType":-1,"knownIds":[1085707,1085707]}

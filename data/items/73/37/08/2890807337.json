@@ -1,10 +1,1 @@
-{
-  "internalId": 2890807337,
-  "name": "Khajiit Bookcase, Short Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_bookcase002.png",
-  "bindType": -1,
-  "knownIds": [
-    115657
-  ]
-}
+{"internalId":2890807337,"name":"Khajiit Bookcase, Short Arched","description":"This is a standard house item.","icon":"data/images/20/0e/sa/housing_kha_fur_bookcase002.png","bindType":-1,"knownIds":[115657]}

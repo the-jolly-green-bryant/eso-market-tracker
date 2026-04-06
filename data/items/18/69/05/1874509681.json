@@ -1,10 +1,1 @@
-{
-  "internalId": 1874509681,
-  "name": "Seashell, White Scallop",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_scallopshell002.png",
-  "bindType": -1,
-  "knownIds": [
-    118898
-  ]
-}
+{"internalId":1874509681,"name":"Seashell, White Scallop","description":"This is a small house item.","icon":"data/images/20/0l/le/housing_veg_aqa_scallopshell002.png","bindType":-1,"knownIds":[118898]}

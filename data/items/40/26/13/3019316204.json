@@ -1,17 +1,1 @@
-{
-  "internalId": 3019316204,
-  "name": "Knotted Heart",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_corrupted_seed.png",
-  "bindType": -1,
-  "knownIds": [
-    582477,
-    572654,
-    1315116,
-    1326007,
-    582477,
-    572654,
-    1315116,
-    1326007
-  ]
-}
+{"internalId":3019316204,"name":"Knotted Heart","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_corrupted_seed.png","bindType":-1,"knownIds":[582477,572654,1315116,1326007,582477,572654,1315116,1326007]}

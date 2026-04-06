@@ -1,10 +1,1 @@
-{
-  "internalId": 31775722,
-  "name": "Spell Parasite's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    163400
-  ]
-}
+{"internalId":31775722,"name":"Spell Parasite's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[163400]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2494043116,
-  "name": "Ring of the Hatchling's Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    99064
-  ]
-}
+{"internalId":2494043116,"name":"Ring of the Hatchling's Shell","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[99064]}

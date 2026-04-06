@@ -1,10 +1,1 @@
-{
-  "internalId": 1714726793,
-  "name": "Elsweyr Pot, Stoneware",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_noodlebowl001.png",
-  "bindType": -1,
-  "knownIds": [
-    151642
-  ]
-}
+{"internalId":1714726793,"name":"Elsweyr Pot, Stoneware","description":"This is a small house item.","icon":"data/images/10/0l/wo/housing_els_inc_noodlebowl001.png","bindType":-1,"knownIds":[151642]}

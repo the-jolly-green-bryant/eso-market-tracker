@@ -1,10 +1,1 @@
-{
-  "internalId": 851888924,
-  "name": "Lionbanner Chestplate",
-  "description": "This breastplate was forged by the great war-smiths of Daggerfall.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    40300
-  ]
-}
+{"internalId":851888924,"name":"Lionbanner Chestplate","description":"This breastplate was forged by the great war-smiths of Daggerfall.","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[40300]}

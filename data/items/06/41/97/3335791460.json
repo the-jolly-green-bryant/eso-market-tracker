@@ -1,10 +1,1 @@
-{
-  "internalId": 3335791460,
-  "name": "Pit Daemon Rug, Horizontal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesskullrectangletapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    211539
-  ]
-}
+{"internalId":3335791460,"name":"Pit Daemon Rug, Horizontal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesskullrectangletapestry001.png","bindType":-1,"knownIds":[211539]}

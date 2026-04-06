@@ -1,10 +1,1 @@
-{
-  "internalId": 1079211108,
-  "name": "Alinor Colonnade, Summerset",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_althousebalconylower001.png",
-  "bindType": -1,
-  "knownIds": [
-    223887
-  ]
-}
+{"internalId":1079211108,"name":"Alinor Colonnade, Summerset","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_althousebalconylower001.png","bindType":-1,"knownIds":[223887]}

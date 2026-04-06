@@ -1,10 +1,1 @@
-{
-  "internalId": 2807198799,
-  "name": "Stuuthrad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385012
-  ]
-}
+{"internalId":2807198799,"name":"Stuuthrad","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[1385012]}

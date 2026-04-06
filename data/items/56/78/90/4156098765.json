@@ -1,10 +1,1 @@
-{
-  "internalId": 4156098765,
-  "name": "Ordinator's Beetle-Cheese Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57113
-  ]
-}
+{"internalId":4156098765,"name":"Ordinator's Beetle-Cheese Soup","description":"","icon":"data/images/20/0_/pu/crafting_soup_002.png","bindType":-1,"knownIds":[57113]}

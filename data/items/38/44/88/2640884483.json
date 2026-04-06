@@ -1,10 +1,1 @@
-{
-  "internalId": 2640884483,
-  "name": "Lucilla's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1761501
-  ]
-}
+{"internalId":2640884483,"name":"Lucilla's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png","bindType":-1,"knownIds":[1761501]}

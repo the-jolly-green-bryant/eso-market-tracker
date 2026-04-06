@@ -1,13 +1,1 @@
-{
-  "internalId": 3059781353,
-  "name": "Rage of the Ursauk Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600652,
-    1605780,
-    1600652,
-    1605780
-  ]
-}
+{"internalId":3059781353,"name":"Rage of the Ursauk Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1600652,1605780,1600652,1605780]}

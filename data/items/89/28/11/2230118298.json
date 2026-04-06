@@ -1,10 +1,1 @@
-{
-  "internalId": 2230118298,
-  "name": "Forgotten Adventurer's Shirt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    138825
-  ]
-}
+{"internalId":2230118298,"name":"Forgotten Adventurer's Shirt","description":"","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[138825]}

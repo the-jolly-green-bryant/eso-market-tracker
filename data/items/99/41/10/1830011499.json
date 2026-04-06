@@ -1,13 +1,1 @@
-{
-  "internalId": 1830011499,
-  "name": "Perfected Ring of the Depths",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1586354,
-    1595759,
-    1586354,
-    1595759
-  ]
-}
+{"internalId":1830011499,"name":"Perfected Ring of the Depths","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1586354,1595759,1586354,1595759]}

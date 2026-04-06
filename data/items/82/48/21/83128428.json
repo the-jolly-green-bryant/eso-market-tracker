@@ -1,10 +1,1 @@
-{
-  "internalId": 83128428,
-  "name": "Fargrave Doorway, Stone Frame",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farintwalldoorwaycapped001.png",
-  "bindType": -1,
-  "knownIds": [
-    184085
-  ]
-}
+{"internalId":83128428,"name":"Fargrave Doorway, Stone Frame","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farintwalldoorwaycapped001.png","bindType":-1,"knownIds":[184085]}

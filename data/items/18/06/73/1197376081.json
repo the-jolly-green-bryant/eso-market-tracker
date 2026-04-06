@@ -1,13 +1,1 @@
-{
-  "internalId": 1197376081,
-  "name": "Pearlescent Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1592851,
-    1593869,
-    1592851,
-    1593869
-  ]
-}
+{"internalId":1197376081,"name":"Pearlescent Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1592851,1593869,1592851,1593869]}

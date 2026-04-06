@@ -1,10 +1,1 @@
-{
-  "internalId": 1750446237,
-  "name": "Ayleid Brazier, Fiery",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_braziera001.png",
-  "bindType": -1,
-  "knownIds": [
-    130214
-  ]
-}
+{"internalId":1750446237,"name":"Ayleid Brazier, Fiery","description":"This is a standard house item.","icon":"data/images/10/0a/re/housing_ayl_duc_braziera001.png","bindType":-1,"knownIds":[130214]}

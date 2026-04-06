@@ -1,10 +1,1 @@
-{
-  "internalId": 2361645311,
-  "name": "The Cauldron Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/undaunted_dungeoncoffer.png",
-  "bindType": 3,
-  "knownIds": [
-    203174
-  ]
-}
+{"internalId":2361645311,"name":"The Cauldron Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/undaunted_dungeoncoffer.png","bindType":3,"knownIds":[203174]}

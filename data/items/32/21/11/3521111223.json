@@ -1,10 +1,1 @@
-{
-  "internalId": 3521111223,
-  "name": "Jora",
-  "description": "Jora",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_050.png",
-  "bindType": -1,
-  "knownIds": [
-    45855
-  ]
-}
+{"internalId":3521111223,"name":"Jora","description":"Jora","icon":"data/images/05/0_/se/crafting_components_runestones_050.png","bindType":-1,"knownIds":[45855]}

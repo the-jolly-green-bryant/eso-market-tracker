@@ -1,10 +1,1 @@
-{
-  "internalId": 600391637,
-  "name": "Key to Hazak's Lair",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    800868
-  ]
-}
+{"internalId":600391637,"name":"Key to Hazak's Lair","description":"","icon":null,"bindType":-1,"knownIds":[800868]}

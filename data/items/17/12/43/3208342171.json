@@ -1,17 +1,1 @@
-{
-  "internalId": 3208342171,
-  "name": "Nix-Hound's Howl Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735375,
-    1761559,
-    1764495,
-    1768067,
-    1735375,
-    1761559,
-    1764495,
-    1768067
-  ]
-}
+{"internalId":3208342171,"name":"Nix-Hound's Howl Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_staff_a.png","bindType":-1,"knownIds":[1735375,1761559,1764495,1768067,1735375,1761559,1764495,1768067]}

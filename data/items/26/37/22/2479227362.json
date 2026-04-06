@@ -1,10 +1,1 @@
-{
-  "internalId": 2479227362,
-  "name": "Ayleid Flooring, Tiered",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_housingfloorraiseda001.png",
-  "bindType": -1,
-  "knownIds": [
-    212405
-  ]
-}
+{"internalId":2479227362,"name":"Ayleid Flooring, Tiered","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_housingfloorraiseda001.png","bindType":-1,"knownIds":[212405]}

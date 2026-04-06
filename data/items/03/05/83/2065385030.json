@@ -1,10 +1,1 @@
-{
-  "internalId": 2065385030,
-  "name": "Armiger's Justice",
-  "description": "A ceremonial sword worn by the Buoyant Armigers of Vivec.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_buoyantarmiger_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197800
-  ]
-}
+{"internalId":2065385030,"name":"Armiger's Justice","description":"A ceremonial sword worn by the Buoyant Armigers of Vivec.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_buoyantarmiger_1hsword_a.png","bindType":2,"knownIds":[197800]}

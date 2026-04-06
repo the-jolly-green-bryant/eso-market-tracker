@@ -1,10 +1,1 @@
-{
-  "internalId": 1604790125,
-  "name": "Girdle of the Radiant Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167591
-  ]
-}
+{"internalId":1604790125,"name":"Girdle of the Radiant Bastion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_heavy_waist_a.png","bindType":2,"knownIds":[167591]}

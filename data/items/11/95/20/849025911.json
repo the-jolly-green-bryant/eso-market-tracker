@@ -1,10 +1,1 @@
-{
-  "internalId": 849025911,
-  "name": "Sarcophagus, Stone Base",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_cem_tombopen001.png",
-  "bindType": -1,
-  "knownIds": [
-    196208
-  ]
-}
+{"internalId":849025911,"name":"Sarcophagus, Stone Base","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_cem_tombopen001.png","bindType":-1,"knownIds":[196208]}

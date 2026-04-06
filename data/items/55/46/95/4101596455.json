@@ -1,10 +1,1 @@
-{
-  "internalId": 4101596455,
-  "name": "Murkmire Ramp, Marshwood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_slaverscageramp001.png",
-  "bindType": -1,
-  "knownIds": [
-    145382
-  ]
-}
+{"internalId":4101596455,"name":"Murkmire Ramp, Marshwood","description":"This is a large house item.","icon":"data/images/10/0p/ma/housing_arg_exc_slaverscageramp001.png","bindType":-1,"knownIds":[145382]}

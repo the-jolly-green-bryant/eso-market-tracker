@@ -1,10 +1,1 @@
-{
-  "internalId": 69622680,
-  "name": "Law of Julianos Light Armor",
-  "description": "A Crafted Armor set constructed in Wrothgar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182594
-  ]
-}
+{"internalId":69622680,"name":"Law of Julianos Light Armor","description":"A Crafted Armor set constructed in Wrothgar.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182594]}

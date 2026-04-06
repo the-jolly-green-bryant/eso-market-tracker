@@ -1,10 +1,1 @@
-{
-  "internalId": 4204311048,
-  "name": "Shield of Elf Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89959
-  ]
-}
+{"internalId":4204311048,"name":"Shield of Elf Bane","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[89959]}

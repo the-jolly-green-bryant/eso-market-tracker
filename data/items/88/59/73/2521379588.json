@@ -1,10 +1,1 @@
-{
-  "internalId": 2521379588,
-  "name": "Radishes in Rice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    32082
-  ]
-}
+{"internalId":2521379588,"name":"Radishes in Rice","description":"","icon":"data/images/10/0_/lw/crafting_bowl_001.png","bindType":-1,"knownIds":[32082]}

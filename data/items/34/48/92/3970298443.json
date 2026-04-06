@@ -1,10 +1,1 @@
-{
-  "internalId": 3970298443,
-  "name": "Recipe: Summer Sky Pale Ale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46054
-  ]
-}
+{"internalId":3970298443,"name":"Recipe: Summer Sky Pale Ale","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46054]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3667924348,
-  "name": "Hat of Tava's Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72120
-  ]
-}
+{"internalId":3667924348,"name":"Hat of Tava's Favor","description":"","icon":"data/images/d_/da/eh/gear_breton_light_head_d.png","bindType":2,"knownIds":[72120]}

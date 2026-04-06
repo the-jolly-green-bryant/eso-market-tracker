@@ -1,10 +1,1 @@
-{
-  "internalId": 1540373134,
-  "name": "Tree, Wilted Palm",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_des_palm003.png",
-  "bindType": -1,
-  "knownIds": [
-    120471
-  ]
-}
+{"internalId":1540373134,"name":"Tree, Wilted Palm","description":"This is a large house item.","icon":"data/images/30/0m/la/housing_tre_des_palm003.png","bindType":-1,"knownIds":[120471]}

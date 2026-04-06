@@ -1,13 +1,1 @@
-{
-  "internalId": 3402095109,
-  "name": "Truly Superb Glyph of Stamina Recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png",
-  "bindType": -1,
-  "knownIds": [
-    1453578,
-    1635668,
-    1453578,
-    1635668
-  ]
-}
+{"internalId":3402095109,"name":"Truly Superb Glyph of Stamina Recovery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png","bindType":-1,"knownIds":[1453578,1635668,1453578,1635668]}

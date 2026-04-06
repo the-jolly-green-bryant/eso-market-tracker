@@ -1,10 +1,1 @@
-{
-  "internalId": 118038324,
-  "name": "Khajiit Path Marker, Lion",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_str_milemaker001.png",
-  "bindType": -1,
-  "knownIds": [
-    151950
-  ]
-}
+{"internalId":118038324,"name":"Khajiit Path Marker, Lion","description":"This is a standard house item.","icon":"data/images/10/0r/ek/housing_kha_str_milemaker001.png","bindType":-1,"knownIds":[151950]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 104202961,
-  "name": "Driftwood, Large Gnarled",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_driftwood001.png",
-  "bindType": -1,
-  "knownIds": [
-    214500
-  ]
-}
+{"internalId":104202961,"name":"Driftwood, Large Gnarled","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_driftwood001.png","bindType":-1,"knownIds":[214500]}

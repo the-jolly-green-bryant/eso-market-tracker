@@ -1,10 +1,1 @@
-{
-  "internalId": 1592143197,
-  "name": "High King Emeric Porcelain Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1170013
-  ]
-}
+{"internalId":1592143197,"name":"High King Emeric Porcelain Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[1170013]}

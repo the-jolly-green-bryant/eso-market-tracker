@@ -1,10 +1,1 @@
-{
-  "internalId": 3758377892,
-  "name": "Exemplary Nirnhoned Girdle",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Girdle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81620
-  ]
-}
+{"internalId":3758377892,"name":"Exemplary Nirnhoned Girdle","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Girdle.","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":-1,"knownIds":[81620]}

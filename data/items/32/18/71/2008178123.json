@@ -1,10 +1,1 @@
-{
-  "internalId": 2008178123,
-  "name": "Lost Knife Mining Boots",
-  "description": "Jomund awarded these medium foot coverings for helping to free the Lost Knife Cave Mine from Stormfist control.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10066
-  ]
-}
+{"internalId":2008178123,"name":"Lost Knife Mining Boots","description":"Jomund awarded these medium foot coverings for helping to free the Lost Knife Cave Mine from Stormfist control.","icon":"data/images/d_/te/ef/gear_nord_medium_feet_d.png","bindType":2,"knownIds":[10066]}

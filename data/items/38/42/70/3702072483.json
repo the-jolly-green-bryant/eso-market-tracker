@@ -1,10 +1,1 @@
-{
-  "internalId": 3702072483,
-  "name": "Blueprint: Tide-Born Platform, Corner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    219675
-  ]
-}
+{"internalId":3702072483,"name":"Blueprint: Tide-Born Platform, Corner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[219675]}

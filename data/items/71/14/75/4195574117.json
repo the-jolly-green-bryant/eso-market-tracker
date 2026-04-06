@@ -1,11 +1,1 @@
-{
-  "internalId": 4195574117,
-  "name": "shadowhide guards of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1065538,
-    1065538
-  ]
-}
+{"internalId":4195574117,"name":"shadowhide guards of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":-1,"knownIds":[1065538,1065538]}

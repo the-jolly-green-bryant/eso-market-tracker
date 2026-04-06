@@ -1,10 +1,1 @@
-{
-  "internalId": 1086918093,
-  "name": "Heavy Bronze Nose-Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ring_001.png",
-  "bindType": -1,
-  "knownIds": [
-    796725
-  ]
-}
+{"internalId":1086918093,"name":"Heavy Bronze Nose-Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ring_001.png","bindType":-1,"knownIds":[796725]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 789863380,
-  "name": "Gravestone, Ornamented",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cem_tombstonesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    120878
-  ]
-}
+{"internalId":789863380,"name":"Gravestone, Ornamented","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_bre_cem_tombstonesmall001.png","bindType":-1,"knownIds":[120878]}

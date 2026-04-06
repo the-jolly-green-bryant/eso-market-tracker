@@ -1,13 +1,1 @@
-{
-  "internalId": 4093277097,
-  "name": "Epaulets of Grave Inevitability",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_light_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765925,
-    1780225,
-    1765925,
-    1780225
-  ]
-}
+{"internalId":4093277097,"name":"Epaulets of Grave Inevitability","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_light_shoulder_a.png","bindType":-1,"knownIds":[1765925,1780225,1765925,1780225]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3057037402,
-  "name": "Curd Spoon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1367968
-  ]
-}
+{"internalId":3057037402,"name":"Curd Spoon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[1367968]}

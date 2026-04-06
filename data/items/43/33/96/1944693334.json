@@ -1,10 +1,1 @@
-{
-  "internalId": 1944693334,
-  "name": "Worm Cult Winch, Chain",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_chainwinder002.png",
-  "bindType": -1,
-  "knownIds": [
-    223178
-  ]
-}
+{"internalId":1944693334,"name":"Worm Cult Winch, Chain","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_chainwinder002.png","bindType":-1,"knownIds":[223178]}

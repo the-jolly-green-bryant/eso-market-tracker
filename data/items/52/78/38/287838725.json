@@ -1,17 +1,1 @@
-{
-  "internalId": 287838725,
-  "name": "trifling glyph of stamina recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png",
-  "bindType": -1,
-  "knownIds": [
-    689918,
-    1429417,
-    689918,
-    1429417,
-    689918,
-    1429417,
-    689918,
-    1429417
-  ]
-}
+{"internalId":287838725,"name":"trifling glyph of stamina recovery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_staminaregen.png","bindType":-1,"knownIds":[689918,1429417,689918,1429417,689918,1429417,689918,1429417]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3562671056,
-  "name": "Jewelry: Kinras's Wrath",
-  "description": "A Medium Armor set found in Black Drake Villa.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    170568
-  ]
-}
+{"internalId":3562671056,"name":"Jewelry: Kinras's Wrath","description":"A Medium Armor set found in Black Drake Villa.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[170568]}

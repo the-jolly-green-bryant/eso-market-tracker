@@ -1,10 +1,1 @@
-{
-  "internalId": 4239899271,
-  "name": "Amulet of Diamond's Victory",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    173257
-  ]
-}
+{"internalId":4239899271,"name":"Amulet of Diamond's Victory","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[173257]}

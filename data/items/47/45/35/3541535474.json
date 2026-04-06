@@ -1,10 +1,1 @@
-{
-  "internalId": 3541535474,
-  "name": "Druidic Oven, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustoneoven001.png",
-  "bindType": -1,
-  "knownIds": [
-    193809
-  ]
-}
+{"internalId":3541535474,"name":"Druidic Oven, Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustoneoven001.png","bindType":-1,"knownIds":[193809]}

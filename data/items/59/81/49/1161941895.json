@@ -1,10 +1,1 @@
-{
-  "internalId": 1161941895,
-  "name": "Pattern: Elsweyr Tapestry, Verdant Blossom",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    152104
-  ]
-}
+{"internalId":1161941895,"name":"Pattern: Elsweyr Tapestry, Verdant Blossom","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[152104]}

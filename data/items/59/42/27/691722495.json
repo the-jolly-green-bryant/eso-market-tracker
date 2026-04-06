@@ -1,13 +1,1 @@
-{
-  "internalId": 691722495,
-  "name": "Harpy-Wing Kite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_potion_sp_names_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1078623,
-    1548079,
-    1078623,
-    1548079
-  ]
-}
+{"internalId":691722495,"name":"Harpy-Wing Kite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_potion_sp_names_001.png","bindType":-1,"knownIds":[1078623,1548079,1078623,1548079]}

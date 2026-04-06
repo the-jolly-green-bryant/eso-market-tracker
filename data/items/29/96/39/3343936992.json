@@ -1,10 +1,1 @@
-{
-  "internalId": 3343936992,
-  "name": "Xanmeer Genesis Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223524
-  ]
-}
+{"internalId":3343936992,"name":"Xanmeer Genesis Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_medium_waist_a.png","bindType":2,"knownIds":[223524]}

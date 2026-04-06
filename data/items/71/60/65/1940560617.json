@@ -1,10 +1,1 @@
-{
-  "internalId": 1940560617,
-  "name": "Leyawiin Divider, Sturdy",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowdivider001.png",
-  "bindType": -1,
-  "knownIds": [
-    175649
-  ]
-}
+{"internalId":1940560617,"name":"Leyawiin Divider, Sturdy","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowdivider001.png","bindType":-1,"knownIds":[175649]}

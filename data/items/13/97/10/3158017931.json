@@ -1,13 +1,1 @@
-{
-  "internalId": 3158017931,
-  "name": "rawhide arm cops of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    539176,
-    432068,
-    539176,
-    432068
-  ]
-}
+{"internalId":3158017931,"name":"rawhide arm cops of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png","bindType":-1,"knownIds":[539176,432068,539176,432068]}

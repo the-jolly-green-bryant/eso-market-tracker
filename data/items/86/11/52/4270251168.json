@@ -1,10 +1,1 @@
-{
-  "internalId": 4270251168,
-  "name": "Raw Flax",
-  "description": "Ten of these items can be refined to make flax.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_flax_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    4464
-  ]
-}
+{"internalId":4270251168,"name":"Raw Flax","description":"Ten of these items can be refined to make flax.","icon":"data/images/1r/_x/al/crafting_cloth_base_flax_r1.png","bindType":-1,"knownIds":[4464]}

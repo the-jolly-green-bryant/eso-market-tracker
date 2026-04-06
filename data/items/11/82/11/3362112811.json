@@ -1,17 +1,1 @@
-{
-  "internalId": 3362112811,
-  "name": "Icy Conjurer's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_hand_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1593558,
-    1654655,
-    1654673,
-    1744366,
-    1593558,
-    1654655,
-    1654673,
-    1744366
-  ]
-}
+{"internalId":3362112811,"name":"Icy Conjurer's Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_hand_a.png","bindType":-1,"knownIds":[1593558,1654655,1654673,1744366,1593558,1654655,1654673,1744366]}

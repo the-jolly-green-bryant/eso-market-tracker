@@ -1,10 +1,1 @@
-{
-  "internalId": 106466093,
-  "name": "The Slave Pits of Coldharbour",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199295
-  ]
-}
+{"internalId":106466093,"name":"The Slave Pits of Coldharbour","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1199295]}

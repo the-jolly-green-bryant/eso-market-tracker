@@ -1,10 +1,1 @@
-{
-  "internalId": 176738539,
-  "name": "Druidic Chair, Wood",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_druchairlow001.png",
-  "bindType": -1,
-  "knownIds": [
-    191175
-  ]
-}
+{"internalId":176738539,"name":"Druidic Chair, Wood","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_druchairlow001.png","bindType":-1,"knownIds":[191175]}

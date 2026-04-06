@@ -1,10 +1,1 @@
-{
-  "internalId": 2183965187,
-  "name": "Crafting Motif 78: Moongrave Fane Swords",
-  "description": "Use to learn how to make Moongrave Fane Swords. Also teaches the equivalent Moongrave Fane outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156604
-  ]
-}
+{"internalId":2183965187,"name":"Crafting Motif 78: Moongrave Fane Swords","description":"Use to learn how to make Moongrave Fane Swords. Also teaches the equivalent Moongrave Fane outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156604]}

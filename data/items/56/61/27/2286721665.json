@@ -1,10 +1,1 @@
-{
-  "internalId": 2286721665,
-  "name": "Shrub Cluster, Gorse",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_goldengorse002.png",
-  "bindType": -1,
-  "knownIds": [
-    187784
-  ]
-}
+{"internalId":2286721665,"name":"Shrub Cluster, Gorse","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_goldengorse002.png","bindType":-1,"knownIds":[187784]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1574551966,
-  "name": "Seeker Synthesis Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    195375
-  ]
-}
+{"internalId":1574551966,"name":"Seeker Synthesis Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[195375]}

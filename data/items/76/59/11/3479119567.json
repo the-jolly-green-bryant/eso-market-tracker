@@ -1,10 +1,1 @@
-{
-  "internalId": 3479119567,
-  "name": "Orcish Stoneware",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1225188
-  ]
-}
+{"internalId":3479119567,"name":"Orcish Stoneware","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png","bindType":-1,"knownIds":[1225188]}

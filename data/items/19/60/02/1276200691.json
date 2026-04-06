@@ -1,10 +1,1 @@
-{
-  "internalId": 1276200691,
-  "name": "A Simple Five-Claw Life Painting, Gold",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_metalframepainting008.png",
-  "bindType": -1,
-  "knownIds": [
-    165834
-  ]
-}
+{"internalId":1276200691,"name":"A Simple Five-Claw Life Painting, Gold","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_metalframepainting008.png","bindType":-1,"knownIds":[165834]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4182051716,
-  "name": "Pattern: Breton Bed, Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    115909
-  ]
-}
+{"internalId":4182051716,"name":"Pattern: Breton Bed, Single","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[115909]}

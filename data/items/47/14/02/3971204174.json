@@ -1,10 +1,1 @@
-{
-  "internalId": 3971204174,
-  "name": "Shipment of Iron Hide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    940487
-  ]
-}
+{"internalId":3971204174,"name":"Shipment of Iron Hide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[940487]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3027170426,
-  "name": "Imp Stool",
-  "description": "An ingredient for crafting potions.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mushroom_imp_stool_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    30156
-  ]
-}
+{"internalId":3027170426,"name":"Imp Stool","description":"An ingredient for crafting potions.","icon":"data/images/2r/_l/oo/crafting_mushroom_imp_stool_r2.png","bindType":-1,"knownIds":[30156]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2203874774,
-  "name": "Frontier, Conquest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1199308
-  ]
-}
+{"internalId":2203874774,"name":"Frontier, Conquest","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1199308]}

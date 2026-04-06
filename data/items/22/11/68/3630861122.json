@@ -1,10 +1,1 @@
-{
-  "internalId": 3630861122,
-  "name": "The Red Book of Riddles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png",
-  "bindType": -1,
-  "knownIds": [
-    1140213
-  ]
-}
+{"internalId":3630861122,"name":"The Red Book of Riddles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png","bindType":-1,"knownIds":[1140213]}

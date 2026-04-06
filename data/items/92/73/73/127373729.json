@@ -1,10 +1,1 @@
-{
-  "internalId": 127373729,
-  "name": "Palm Tree Cluster",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_des_abapalm006.png",
-  "bindType": -1,
-  "knownIds": [
-    119576
-  ]
-}
+{"internalId":127373729,"name":"Palm Tree Cluster","description":"This is a huge house item.","icon":"data/images/60/0m/la/housing_tre_des_abapalm006.png","bindType":-1,"knownIds":[119576]}

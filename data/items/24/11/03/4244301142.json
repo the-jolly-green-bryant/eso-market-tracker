@@ -1,11 +1,1 @@
-{
-  "internalId": 4244301142,
-  "name": "Spry Spriggan Twirling Hoop",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spriggan_hoop_base_01.png",
-  "bindType": -1,
-  "knownIds": [
-    422037,
-    422037
-  ]
-}
+{"internalId":4244301142,"name":"Spry Spriggan Twirling Hoop","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spriggan_hoop_base_01.png","bindType":-1,"knownIds":[422037,422037]}

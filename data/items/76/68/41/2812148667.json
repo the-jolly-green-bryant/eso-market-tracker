@@ -1,10 +1,1 @@
-{
-  "internalId": 2812148667,
-  "name": "Crafting Motif 127: West Weald Legion Axes",
-  "description": "Use to learn how to make West Weald Legion Axes. Also teaches the equivalent West Weald Legion Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203474
-  ]
-}
+{"internalId":2812148667,"name":"Crafting Motif 127: West Weald Legion Axes","description":"Use to learn how to make West Weald Legion Axes. Also teaches the equivalent West Weald Legion Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203474]}

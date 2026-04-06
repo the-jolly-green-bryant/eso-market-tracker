@@ -1,10 +1,1 @@
-{
-  "internalId": 3685350690,
-  "name": "Ring of Flanking",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77518
-  ]
-}
+{"internalId":3685350690,"name":"Ring of Flanking","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[77518]}

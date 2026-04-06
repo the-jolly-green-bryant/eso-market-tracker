@@ -1,10 +1,1 @@
-{
-  "internalId": 43760808,
-  "name": "Fleshfly Larva",
-  "description": "An ingredient for alchemy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_fleshfly_larva.png",
-  "bindType": -1,
-  "knownIds": [
-    77587
-  ]
-}
+{"internalId":43760808,"name":"Fleshfly Larva","description":"An ingredient for alchemy.","icon":"data/images/av/ra/l_/crafting_poisonmaking_reagent_fleshfly_larva.png","bindType":-1,"knownIds":[77587]}

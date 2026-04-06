@@ -1,10 +1,1 @@
-{
-  "internalId": 3944620963,
-  "name": "Breton Street Post, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_postempty004.png",
-  "bindType": -1,
-  "knownIds": [
-    115208
-  ]
-}
+{"internalId":3944620963,"name":"Breton Street Post, Stone","description":"This is a large house item.","icon":"data/images/40/0y/tp/housing_bre_lsb_postempty004.png","bindType":-1,"knownIds":[115208]}

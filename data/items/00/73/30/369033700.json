@@ -1,10 +1,1 @@
-{
-  "internalId": 369033700,
-  "name": "Personalized Wooden Disc",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795876
-  ]
-}
+{"internalId":369033700,"name":"Personalized Wooden Disc","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[795876]}

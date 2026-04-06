@@ -1,10 +1,1 @@
-{
-  "internalId": 886751085,
-  "name": "Murkmire Walkway, Reed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_str_mrkcatwalkshortnorail001.png",
-  "bindType": -1,
-  "knownIds": [
-    145383
-  ]
-}
+{"internalId":886751085,"name":"Murkmire Walkway, Reed","description":"This is a large house item.","icon":"data/images/10/0l/ia/housing_arg_str_mrkcatwalkshortnorail001.png","bindType":-1,"knownIds":[145383]}

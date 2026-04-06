@@ -1,10 +1,1 @@
-{
-  "internalId": 460623051,
-  "name": "Tonic of Portent Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_014_type_004.png",
-  "bindType": -1,
-  "knownIds": [
-    224839
-  ]
-}
+{"internalId":460623051,"name":"Tonic of Portent Favor","description":"","icon":"data/images/40/0_/ep/consumable_potion_014_type_004.png","bindType":-1,"knownIds":[224839]}

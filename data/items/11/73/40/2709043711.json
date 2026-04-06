@@ -1,10 +1,1 @@
-{
-  "internalId": 2709043711,
-  "name": "Yerba Mate",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_bandage_001.png",
-  "bindType": -1,
-  "knownIds": [
-    34335
-  ]
-}
+{"internalId":2709043711,"name":"Yerba Mate","description":"An ingredient for crafting beverages.","icon":"data/images/10/0_/eg/quest_bandage_001.png","bindType":-1,"knownIds":[34335]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1527600932,
-  "name": "Robe of The Shadow Dancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    75053
-  ]
-}
+{"internalId":1527600932,"name":"Robe of The Shadow Dancer","description":"","icon":"data/images/a_/eb/or/gear_thievesguildv2_light_robe_a.png","bindType":2,"knownIds":[75053]}

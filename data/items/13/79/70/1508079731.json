@@ -1,10 +1,1 @@
-{
-  "internalId": 1508079731,
-  "name": "Formula: Redguard Lantern, Caged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    119310
-  ]
-}
+{"internalId":1508079731,"name":"Formula: Redguard Lantern, Caged","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[119310]}

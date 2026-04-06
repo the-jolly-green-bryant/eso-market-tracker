@@ -1,10 +1,1 @@
-{
-  "internalId": 2868986074,
-  "name": "Worm Cult Sconce, Cold-Flame Torch",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_sconce004.png",
-  "bindType": -1,
-  "knownIds": [
-    220301
-  ]
-}
+{"internalId":2868986074,"name":"Worm Cult Sconce, Cold-Flame Torch","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_sconce004.png","bindType":-1,"knownIds":[220301]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 378630831,
-  "name": "Arkay's Charity Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    213904
-  ]
-}
+{"internalId":378630831,"name":"Arkay's Charity Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[213904]}

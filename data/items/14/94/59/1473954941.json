@@ -1,10 +1,1 @@
-{
-  "internalId": 1473954941,
-  "name": "Yew Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    212317
-  ]
-}
+{"internalId":1473954941,"name":"Yew Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_bow_a.png","bindType":-1,"knownIds":[212317]}

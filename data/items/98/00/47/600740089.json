@@ -1,15 +1,1 @@
-{
-  "internalId": 600740089,
-  "name": "Perfected Pillager's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_2hmace_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1601030,
-    1604753,
-    1739800,
-    1601030,
-    1604753,
-    1739800
-  ]
-}
+{"internalId":600740089,"name":"Perfected Pillager's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_2hmace_a.png","bindType":-1,"knownIds":[1601030,1604753,1739800,1601030,1604753,1739800]}

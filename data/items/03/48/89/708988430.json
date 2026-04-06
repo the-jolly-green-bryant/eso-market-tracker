@@ -1,10 +1,1 @@
-{
-  "internalId": 708988430,
-  "name": "Fifth Legion Porter Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    515325
-  ]
-}
+{"internalId":708988430,"name":"Fifth Legion Porter Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[515325]}

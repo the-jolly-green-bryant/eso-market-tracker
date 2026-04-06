@@ -1,10 +1,1 @@
-{
-  "internalId": 2324393680,
-  "name": "Oxblood Fungus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_minotaur_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    81994
-  ]
-}
+{"internalId":2324393680,"name":"Oxblood Fungus","description":"","icon":"data/images/2r/_r/ua/crafting_style_item_minotaur_r2.png","bindType":-1,"knownIds":[81994]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1160398213,
-  "name": "Pattern: Dark Elf Tent, Multiroom",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    198060
-  ]
-}
+{"internalId":1160398213,"name":"Pattern: Dark Elf Tent, Multiroom","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[198060]}

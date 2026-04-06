@@ -1,10 +1,1 @@
-{
-  "internalId": 2346919247,
-  "name": "Rajhin's Diminished Mantle",
-  "description": "This is all that remains of Rajhin's Mantle. Its curse-and much of its power-was burned away by the Orrery.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1672
-  ]
-}
+{"internalId":2346919247,"name":"Rajhin's Diminished Mantle","description":"This is all that remains of Rajhin's Mantle. Its curse-and much of its power-was burned away by the Orrery.","icon":"data/images/d_/sr/ed/gear_dunmer_light_shoulders_d.png","bindType":2,"knownIds":[1672]}

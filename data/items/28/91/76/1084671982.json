@@ -1,15 +1,1 @@
-{
-  "internalId": 1084671982,
-  "name": "Glanir's Smoke Bomb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_004.png",
-  "bindType": -1,
-  "knownIds": [
-    810280,
-    411012,
-    807378,
-    810280,
-    411012,
-    807378
-  ]
-}
+{"internalId":1084671982,"name":"Glanir's Smoke Bomb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_004.png","bindType":-1,"knownIds":[810280,411012,807378,810280,411012,807378]}

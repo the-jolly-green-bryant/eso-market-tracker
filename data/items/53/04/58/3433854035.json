@@ -1,10 +1,1 @@
-{
-  "internalId": 3433854035,
-  "name": "Ohmes-Raht Statue, Trickster",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_statueohmesraht001.png",
-  "bindType": -1,
-  "knownIds": [
-    151837
-  ]
-}
+{"internalId":3433854035,"name":"Ohmes-Raht Statue, Trickster","description":"This is a large house item.","icon":"data/images/10/0t/ha/housing_els_exc_statueohmesraht001.png","bindType":-1,"knownIds":[151837]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2536696025,
-  "name": "Crafting Motif 102: Sul-Xan Shoulders",
-  "description": "Use to learn how to make Sul-Xan Shoulders. Also teaches the equivalent Sul-Xan Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171924
-  ]
-}
+{"internalId":2536696025,"name":"Crafting Motif 102: Sul-Xan Shoulders","description":"Use to learn how to make Sul-Xan Shoulders. Also teaches the equivalent Sul-Xan Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171924]}

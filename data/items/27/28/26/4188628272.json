@@ -1,15 +1,1 @@
-{
-  "internalId": 4188628272,
-  "name": "Umbral Edge Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1746581,
-    1760441,
-    1746581,
-    1760441,
-    1746581,
-    1760441
-  ]
-}
+{"internalId":4188628272,"name":"Umbral Edge Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_legs_a.png","bindType":-1,"knownIds":[1746581,1760441,1746581,1760441,1746581,1760441]}

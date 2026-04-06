@@ -1,10 +1,1 @@
-{
-  "internalId": 3112499252,
-  "name": "Goat Skull Goblet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1415269
-  ]
-}
+{"internalId":3112499252,"name":"Goat Skull Goblet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png","bindType":-1,"knownIds":[1415269]}

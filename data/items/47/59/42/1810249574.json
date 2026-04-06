@@ -1,10 +1,1 @@
-{
-  "internalId": 1810249574,
-  "name": "Nimare's Lucky Horseshoe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    420800
-  ]
-}
+{"internalId":1810249574,"name":"Nimare's Lucky Horseshoe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png","bindType":-1,"knownIds":[420800]}

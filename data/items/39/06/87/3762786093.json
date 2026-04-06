@@ -1,15 +1,1 @@
-{
-  "internalId": 3762786093,
-  "name": "Burning Brand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png",
-  "bindType": -1,
-  "knownIds": [
-    820180,
-    770753,
-    836158,
-    820180,
-    770753,
-    836158
-  ]
-}
+{"internalId":3762786093,"name":"Burning Brand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1hsword_c.png","bindType":-1,"knownIds":[820180,770753,836158,820180,770753,836158]}

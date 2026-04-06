@@ -1,10 +1,1 @@
-{
-  "internalId": 3524303655,
-  "name": "Savior's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactsaviorhidemd_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54283
-  ]
-}
+{"internalId":3524303655,"name":"Savior's Belt","description":"","icon":"data/images/a_/ts/ia/gear_artifactsaviorhidemd_waist_a.png","bindType":2,"knownIds":[54283]}

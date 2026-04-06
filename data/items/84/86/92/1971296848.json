@@ -1,10 +1,1 @@
-{
-  "internalId": 1971296848,
-  "name": "Praxis: Redguard Well, Covered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    119160
-  ]
-}
+{"internalId":1971296848,"name":"Praxis: Redguard Well, Covered","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[119160]}

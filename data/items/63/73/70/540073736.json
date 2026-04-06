@@ -1,10 +1,1 @@
-{
-  "internalId": 540073736,
-  "name": "Malachite Needle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804430
-  ]
-}
+{"internalId":540073736,"name":"Malachite Needle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[804430]}

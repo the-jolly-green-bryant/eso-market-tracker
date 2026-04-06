@@ -1,10 +1,1 @@
-{
-  "internalId": 1864059212,
-  "name": "Rawhide Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2med_feet.png",
-  "bindType": -1,
-  "knownIds": [
-    175758
-  ]
-}
+{"internalId":1864059212,"name":"Rawhide Boots","description":"","icon":"data/images/a_/te/ef/gear_ashlander_feet_a.png","bindType":-1,"knownIds":[121381]}

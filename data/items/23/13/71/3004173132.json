@@ -1,10 +1,1 @@
-{
-  "internalId": 3004173132,
-  "name": "Jewelry Crafting Survey: Glenumbra",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240976
-  ]
-}
+{"internalId":3004173132,"name":"Jewelry Crafting Survey: Glenumbra","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1240976]}

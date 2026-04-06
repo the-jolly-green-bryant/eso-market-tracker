@@ -1,10 +1,1 @@
-{
-  "internalId": 1362949420,
-  "name": "Clockwork Illuminator Holder",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_lsb_irstand002.png",
-  "bindType": -1,
-  "knownIds": [
-    203144
-  ]
-}
+{"internalId":1362949420,"name":"Clockwork Illuminator Holder","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cwc_lsb_irstand002.png","bindType":-1,"knownIds":[203144]}

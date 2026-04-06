@@ -1,10 +1,1 @@
-{
-  "internalId": 155546452,
-  "name": "Weapons: Vesture of Darloc Brae",
-  "description": "A Medium Armor set found in Northern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    150424
-  ]
-}
+{"internalId":155546452,"name":"Weapons: Vesture of Darloc Brae","description":"A Medium Armor set found in Northern Elsweyr.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[150424]}

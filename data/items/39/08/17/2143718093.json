@@ -1,10 +1,1 @@
-{
-  "internalId": 2143718093,
-  "name": "Bounty Sheet: Argonian Male",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_wantedposterscrollargonian001.png",
-  "bindType": -1,
-  "knownIds": [
-    118711
-  ]
-}
+{"internalId":2143718093,"name":"Bounty Sheet: Argonian Male","description":"This is a small house item.","icon":"data/images/10/0n/ai/housing_bre_inc_wantedposterscrollargonian001.png","bindType":-1,"knownIds":[118711]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3730166840,
-  "name": "Pattern: Redguard Sofa, Desert Flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119180
-  ]
-}
+{"internalId":3730166840,"name":"Pattern: Redguard Sofa, Desert Flame","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[119180]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1065261178,
-  "name": "Love's Flame Candlestick",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_candlesticks001.png",
-  "bindType": -1,
-  "knownIds": [
-    156768
-  ]
-}
+{"internalId":1065261178,"name":"Love's Flame Candlestick","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_lsb_candlesticks001.png","bindType":-1,"knownIds":[156768]}

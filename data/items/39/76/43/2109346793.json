@@ -1,10 +1,1 @@
-{
-  "internalId": 2109346793,
-  "name": "Champion of the Hist Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142397
-  ]
-}
+{"internalId":2109346793,"name":"Champion of the Hist Girdle","description":"","icon":"data/images/a_/ts/ia/gear_elderarg_heavy_waist_a.png","bindType":2,"knownIds":[142397]}

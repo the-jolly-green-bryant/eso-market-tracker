@@ -1,10 +1,1 @@
-{
-  "internalId": 366179852,
-  "name": "Praxis: Druidic Bookcase, Short Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    192525
-  ]
-}
+{"internalId":366179852,"name":"Praxis: Druidic Bookcase, Short Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[192525]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3797075037,
-  "name": "Worm Cult Specimen, Skull",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_skullrelic001.png",
-  "bindType": -1,
-  "knownIds": [
-    220324
-  ]
-}
+{"internalId":3797075037,"name":"Worm Cult Specimen, Skull","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_skullrelic001.png","bindType":-1,"knownIds":[220324]}

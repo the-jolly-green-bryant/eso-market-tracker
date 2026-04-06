@@ -1,10 +1,1 @@
-{
-  "internalId": 3288348949,
-  "name": "Metal Meat Skewers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_010.png",
-  "bindType": -1,
-  "knownIds": [
-    414210
-  ]
-}
+{"internalId":3288348949,"name":"Metal Meat Skewers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_010.png","bindType":-1,"knownIds":[414210]}

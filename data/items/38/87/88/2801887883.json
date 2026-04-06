@@ -1,10 +1,1 @@
-{
-  "internalId": 2801887883,
-  "name": "Pibiha's Cherished Cameo",
-  "description": "Tufeh provided this necklace as compensation for helping her at the Brandfire Reformatory.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    182846
-  ]
-}
+{"internalId":2801887883,"name":"Pibiha's Cherished Cameo","description":"Tufeh provided this necklace as compensation for helping her at the Brandfire Reformatory.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_neck_a.png","bindType":2,"knownIds":[182846]}

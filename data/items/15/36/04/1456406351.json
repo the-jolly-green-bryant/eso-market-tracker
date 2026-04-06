@@ -1,10 +1,1 @@
-{
-  "internalId": 1456406351,
-  "name": "Warclaws Battle Bow",
-  "description": "A bow claimed from the Warclaws mercenaries at Kudanant Mine.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    126048
-  ]
-}
+{"internalId":1456406351,"name":"Warclaws Battle Bow","description":"A bow claimed from the Warclaws mercenaries at Kudanant Mine.","icon":"data/images/d_/wo/b_/gear_khajiit_bow_d.png","bindType":2,"knownIds":[126048]}

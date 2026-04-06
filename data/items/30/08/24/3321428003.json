@@ -1,10 +1,1 @@
-{
-  "internalId": 3321428003,
-  "name": "Solitude Serving Bowl, Verdigris",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodbowlberries002.png",
-  "bindType": -1,
-  "knownIds": [
-    165764
-  ]
-}
+{"internalId":3321428003,"name":"Solitude Serving Bowl, Verdigris","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodbowlberries002.png","bindType":-1,"knownIds":[165764]}

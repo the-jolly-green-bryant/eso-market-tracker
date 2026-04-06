@@ -1,10 +1,1 @@
-{
-  "internalId": 3764873939,
-  "name": "Golden Spikeball",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1093760
-  ]
-}
+{"internalId":3764873939,"name":"Golden Spikeball","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[1093760]}

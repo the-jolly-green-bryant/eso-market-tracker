@@ -1,10 +1,1 @@
-{
-  "internalId": 4135215429,
-  "name": "Vivec's Maul of Duality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    195851
-  ]
-}
+{"internalId":4135215429,"name":"Vivec's Maul of Duality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2hhammer_a.png","bindType":2,"knownIds":[195851]}

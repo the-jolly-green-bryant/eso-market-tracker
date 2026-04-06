@@ -1,10 +1,1 @@
-{
-  "internalId": 2807670928,
-  "name": "Ice Staff of the Footman",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87065
-  ]
-}
+{"internalId":2807670928,"name":"Ice Staff of the Footman","description":"","icon":"data/images/d_/ff/at/gear_orc_staff_d.png","bindType":2,"knownIds":[87065]}

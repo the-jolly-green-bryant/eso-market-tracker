@@ -1,10 +1,1 @@
-{
-  "internalId": 2210450223,
-  "name": "Beekeeping Smoker, Handheld",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_beesmoker001.png",
-  "bindType": -1,
-  "knownIds": [
-    204740
-  ]
-}
+{"internalId":2210450223,"name":"Beekeeping Smoker, Handheld","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_beesmoker001.png","bindType":-1,"knownIds":[204740]}

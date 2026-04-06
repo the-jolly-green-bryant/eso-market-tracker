@@ -1,10 +1,1 @@
-{
-  "internalId": 3073593772,
-  "name": "Pattern: Worm Cult Papers, Scattered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    223618
-  ]
-}
+{"internalId":3073593772,"name":"Pattern: Worm Cult Papers, Scattered","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[223618]}

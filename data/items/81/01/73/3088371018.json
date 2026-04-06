@@ -1,10 +1,1 @@
-{
-  "internalId": 3088371018,
-  "name": "Diagram: Colovian Sconce, Wall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    207862
-  ]
-}
+{"internalId":3088371018,"name":"Diagram: Colovian Sconce, Wall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[207862]}

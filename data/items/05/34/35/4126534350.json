@@ -1,11 +1,1 @@
-{
-  "internalId": 4126534350,
-  "name": "Style Page: Fanged Worm Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1244525,
-    1244525
-  ]
-}
+{"internalId":4126534350,"name":"Style Page: Fanged Worm Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1244525,1244525]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2543166259,
-  "name": "Genuine Psijic Stole",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_psijic_stole.png",
-  "bindType": -1,
-  "knownIds": [
-    1093597
-  ]
-}
+{"internalId":2543166259,"name":"Genuine Psijic Stole","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_psijic_stole.png","bindType":-1,"knownIds":[1093597]}

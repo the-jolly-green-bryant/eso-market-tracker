@@ -1,10 +1,1 @@
-{
-  "internalId": 531011523,
-  "name": "Cast-Off Maple Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44702
-  ]
-}
+{"internalId":531011523,"name":"Cast-Off Maple Ice Staff","description":"","icon":"data/images/a_/ff/at/gear_breton_staff_a.png","bindType":2,"knownIds":[44702]}

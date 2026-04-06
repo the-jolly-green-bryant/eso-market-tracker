@@ -1,10 +1,1 @@
-{
-  "internalId": 562937586,
-  "name": "Shoes of Aetherial Ascension",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    169103
-  ]
-}
+{"internalId":562937586,"name":"Shoes of Aetherial Ascension","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png","bindType":2,"knownIds":[169103]}

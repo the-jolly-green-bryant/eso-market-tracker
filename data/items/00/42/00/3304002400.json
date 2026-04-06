@@ -1,10 +1,1 @@
-{
-  "internalId": 3304002400,
-  "name": "Murkmire Bookcase",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_bookcase003.png",
-  "bindType": -1,
-  "knownIds": [
-    145335
-  ]
-}
+{"internalId":3304002400,"name":"Murkmire Bookcase","description":"This is a standard house item.","icon":"data/images/30/0e/sa/housing_arg_duc_bookcase003.png","bindType":-1,"knownIds":[145335]}

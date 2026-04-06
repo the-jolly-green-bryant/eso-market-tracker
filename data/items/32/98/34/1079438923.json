@@ -1,10 +1,1 @@
-{
-  "internalId": 1079438923,
-  "name": "Alinor Carpet, Vibrant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_rugrectangular002.png",
-  "bindType": -1,
-  "knownIds": [
-    139317
-  ]
-}
+{"internalId":1079438923,"name":"Alinor Carpet, Vibrant","description":"This is a large house item.","icon":"data/images/20/0r/al/housing_sum_inc_rugrectangular002.png","bindType":-1,"knownIds":[139317]}

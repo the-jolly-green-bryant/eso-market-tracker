@@ -1,10 +1,1 @@
-{
-  "internalId": 2092149718,
-  "name": "Belt of the Spectre's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56486
-  ]
-}
+{"internalId":2092149718,"name":"Belt of the Spectre's Eye","description":"","icon":"data/images/d_/ts/ia/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[56486]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3110202382,
-  "name": "Black-Glove Grounding Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1716260,
-    1748667,
-    1763032,
-    1716260,
-    1748667,
-    1763032
-  ]
-}
+{"internalId":3110202382,"name":"Black-Glove Grounding Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_dagger.png","bindType":-1,"knownIds":[1716260,1748667,1763032,1716260,1748667,1763032]}

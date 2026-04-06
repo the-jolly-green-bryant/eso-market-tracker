@@ -1,10 +1,1 @@
-{
-  "internalId": 2411122086,
-  "name": "Topiary, Manicured Evergreen",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_topiary001.png",
-  "bindType": -1,
-  "knownIds": [
-    120675
-  ]
-}
+{"internalId":2411122086,"name":"Topiary, Manicured Evergreen","description":"This is a large house item.","icon":"data/images/10/0y/ra/housing_veg_bsh_topiary001.png","bindType":-1,"knownIds":[120675]}

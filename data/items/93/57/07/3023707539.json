@@ -1,10 +1,1 @@
-{
-  "internalId": 3023707539,
-  "name": "Tide-Born Sculpture, Lizard",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argidolprayer001.png",
-  "bindType": -1,
-  "knownIds": [
-    214448
-  ]
-}
+{"internalId":3023707539,"name":"Tide-Born Sculpture, Lizard","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argidolprayer001.png","bindType":-1,"knownIds":[214448]}

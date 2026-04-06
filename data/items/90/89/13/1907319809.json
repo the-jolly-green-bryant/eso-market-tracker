@@ -1,10 +1,1 @@
-{
-  "internalId": 1907319809,
-  "name": "Diagram: Khajiit Candles, Clawfoot",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    116140
-  ]
-}
+{"internalId":1907319809,"name":"Diagram: Khajiit Candles, Clawfoot","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[116140]}

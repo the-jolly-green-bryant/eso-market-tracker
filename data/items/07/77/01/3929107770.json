@@ -1,10 +1,1 @@
-{
-  "internalId": 3929107770,
-  "name": "Crafting Motif 126: Shardborn Shields",
-  "description": "Use to learn how to make Shardborn Shields. Also teaches the equivalent Shardborn Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203371
-  ]
-}
+{"internalId":3929107770,"name":"Crafting Motif 126: Shardborn Shields","description":"Use to learn how to make Shardborn Shields. Also teaches the equivalent Shardborn Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203371]}

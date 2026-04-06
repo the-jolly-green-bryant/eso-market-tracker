@@ -1,10 +1,1 @@
-{
-  "internalId": 2651754056,
-  "name": "Rejera",
-  "description": "Rejera",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_053.png",
-  "bindType": -1,
-  "knownIds": [
-    64509
-  ]
-}
+{"internalId":2651754056,"name":"Rejera","description":"Rejera","icon":"data/images/35/0_/se/crafting_components_runestones_053.png","bindType":-1,"knownIds":[64509]}

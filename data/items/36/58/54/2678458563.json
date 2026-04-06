@@ -1,10 +1,1 @@
-{
-  "internalId": 2678458563,
-  "name": "Affix Script: Empower",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_empower.png",
-  "bindType": -1,
-  "knownIds": [
-    204601
-  ]
-}
+{"internalId":2678458563,"name":"Affix Script: Empower","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_empower.png","bindType":-1,"knownIds":[204601]}

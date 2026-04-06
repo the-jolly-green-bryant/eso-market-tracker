@@ -1,10 +1,1 @@
-{
-  "internalId": 1387664652,
-  "name": "Ultimate Riverhold Beef Pasty Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    513939
-  ]
-}
+{"internalId":1387664652,"name":"Ultimate Riverhold Beef Pasty Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[513939]}

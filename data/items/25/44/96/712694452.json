@@ -1,10 +1,1 @@
-{
-  "internalId": 712694452,
-  "name": "Key Fragment",
-  "description": "This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_daedricembers.png",
-  "bindType": -1,
-  "knownIds": [
-    64487
-  ]
-}
+{"internalId":712694452,"name":"Key Fragment","description":"This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.","icon":"data/images/sr/eb/me/quest_daedricembers.png","bindType":-1,"knownIds":[64487]}

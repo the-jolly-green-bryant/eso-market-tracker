@@ -1,10 +1,1 @@
-{
-  "internalId": 3462562853,
-  "name": "Breeches of the Necromancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactwormcultlight_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43845
-  ]
-}
+{"internalId":3462562853,"name":"Breeches of the Necromancer","description":"","icon":"data/images/a_/sg/el/gear_artifactwormcultlight_legs_a.png","bindType":2,"knownIds":[43845]}

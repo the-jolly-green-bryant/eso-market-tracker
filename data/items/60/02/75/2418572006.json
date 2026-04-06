@@ -1,10 +1,1 @@
-{
-  "internalId": 2418572006,
-  "name": "The Traveled Crafter's Crate",
-  "description": "This crate is laden with the materials to make equipment in every style and trait yet known as well as an abundance of materials necessary to craft furnishings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    81184
-  ]
-}
+{"internalId":2418572006,"name":"The Traveled Crafter's Crate","description":"This crate is laden with the materials to make equipment in every style and trait yet known as well as an abundance of materials necessary to craft furnishings.","icon":"data/images/10/0_/et/quest_crate_001.png","bindType":3,"knownIds":[81184]}

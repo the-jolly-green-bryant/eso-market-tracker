@@ -1,10 +1,1 @@
-{
-  "internalId": 767698506,
-  "name": "Haj Mota Jelly Curative",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jug_001.png",
-  "bindType": -1,
-  "knownIds": [
-    934851
-  ]
-}
+{"internalId":767698506,"name":"Haj Mota Jelly Curative","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jug_001.png","bindType":-1,"knownIds":[934851]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 533911547,
-  "name": "Impregnable Armor Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125963
-  ]
-}
+{"internalId":533911547,"name":"Impregnable Armor Hat","description":"","icon":"data/images/a_/da/eh/gear_ordinator_light_head_a.png","bindType":2,"knownIds":[125963]}

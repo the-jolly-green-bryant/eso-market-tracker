@@ -1,10 +1,1 @@
-{
-  "internalId": 378755665,
-  "name": "Worm Cult Crane, Mining",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_miningcrane001.png",
-  "bindType": -1,
-  "knownIds": [
-    220304
-  ]
-}
+{"internalId":378755665,"name":"Worm Cult Crane, Mining","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_miningcrane001.png","bindType":-1,"knownIds":[220304]}

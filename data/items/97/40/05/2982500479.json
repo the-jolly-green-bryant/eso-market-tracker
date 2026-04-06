@@ -1,10 +1,1 @@
-{
-  "internalId": 2982500479,
-  "name": "Ban Daar Puzzle Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    1306267
-  ]
-}
+{"internalId":2982500479,"name":"Ban Daar Puzzle Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[1306267]}

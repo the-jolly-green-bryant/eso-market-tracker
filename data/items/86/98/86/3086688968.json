@@ -1,17 +1,1 @@
-{
-  "internalId": 3086688968,
-  "name": "Savage Werewolf's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1265469,
-    1302791,
-    1482178,
-    1515450,
-    1265469,
-    1302791,
-    1482178,
-    1515450
-  ]
-}
+{"internalId":3086688968,"name":"Savage Werewolf's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1265469,1302791,1482178,1515450,1265469,1302791,1482178,1515450]}

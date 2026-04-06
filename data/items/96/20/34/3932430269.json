@@ -1,10 +1,1 @@
-{
-  "internalId": 3932430269,
-  "name": "Greaves of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77073
-  ]
-}
+{"internalId":3932430269,"name":"Greaves of Morihaus","description":"","icon":"data/images/a_/sg/el/gear_minotaur_heavy_legs_a.png","bindType":2,"knownIds":[77073]}

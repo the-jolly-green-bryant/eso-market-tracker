@@ -1,10 +1,1 @@
-{
-  "internalId": 3577540648,
-  "name": "Exotic Small Heavy Armor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54550
-  ]
-}
+{"internalId":3577540648,"name":"Exotic Small Heavy Armor","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[54550]}

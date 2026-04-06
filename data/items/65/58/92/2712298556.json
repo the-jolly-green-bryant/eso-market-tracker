@@ -1,10 +1,1 @@
-{
-  "internalId": 2712298556,
-  "name": "Gold Fleet's Beacon",
-  "description": "This simple staff hums quietly when grasped in both hands.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43583
-  ]
-}
+{"internalId":2712298556,"name":"Gold Fleet's Beacon","description":"This simple staff hums quietly when grasped in both hands.","icon":"data/images/d_/ff/at/gear_altmer_staff_d.png","bindType":2,"knownIds":[43583]}

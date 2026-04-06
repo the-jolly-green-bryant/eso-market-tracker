@@ -1,15 +1,1 @@
-{
-  "internalId": 1669551942,
-  "name": "Jerensi's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1749762,
-    1750971,
-    1753998,
-    1749762,
-    1750971,
-    1753998
-  ]
-}
+{"internalId":1669551942,"name":"Jerensi's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_bow_a.png","bindType":-1,"knownIds":[1749762,1750971,1753998,1749762,1750971,1753998]}

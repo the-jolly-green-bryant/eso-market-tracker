@@ -1,10 +1,1 @@
-{
-  "internalId": 65465403,
-  "name": "Alinor Column, Timeworn",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_roompartsbalconycolumn001.png",
-  "bindType": -1,
-  "knownIds": [
-    139181
-  ]
-}
+{"internalId":65465403,"name":"Alinor Column, Timeworn","description":"This is a large house item.","icon":"data/images/10/0n/mu/housing_sum_duc_roompartsbalconycolumn001.png","bindType":-1,"knownIds":[139181]}

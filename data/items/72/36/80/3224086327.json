@@ -1,10 +1,1 @@
-{
-  "internalId": 3224086327,
-  "name": "Bogdan the Nightflame Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_titan_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1680157
-  ]
-}
+{"internalId":3224086327,"name":"Bogdan the Nightflame Pauldron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_titan_shoulders_a.png","bindType":-1,"knownIds":[1680157]}

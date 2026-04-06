@@ -1,17 +1,1 @@
-{
-  "internalId": 162392812,
-  "name": "Selene Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedspider_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1719389,
-    1736883,
-    1719389,
-    1736883,
-    1719389,
-    1736883,
-    1719389,
-    1736883
-  ]
-}
+{"internalId":162392812,"name":"Selene Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedspider_shoulders_a.png","bindType":-1,"knownIds":[1719389,1736883,1719389,1736883,1719389,1736883,1719389,1736883]}

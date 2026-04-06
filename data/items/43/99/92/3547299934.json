@@ -1,10 +1,1 @@
-{
-  "internalId": 3547299934,
-  "name": "Stale Mammoth Snout Pie",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    32143
-  ]
-}
+{"internalId":3547299934,"name":"Stale Mammoth Snout Pie","description":"","icon":"data/images/ei/p_/ti/crafting_cooking_fruit_pie.png","bindType":-1,"knownIds":[32143]}

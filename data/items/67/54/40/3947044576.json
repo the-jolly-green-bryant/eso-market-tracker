@@ -1,10 +1,1 @@
-{
-  "internalId": 3947044576,
-  "name": "Redguard Amphora, Golden",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldvaselarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    171821
-  ]
-}
+{"internalId":3947044576,"name":"Redguard Amphora, Golden","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldvaselarge001.png","bindType":-1,"knownIds":[171821]}

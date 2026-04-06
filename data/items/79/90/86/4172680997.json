@@ -1,11 +1,1 @@
-{
-  "internalId": 4172680997,
-  "name": "Strapping Lad Tonic Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    444314,
-    444314
-  ]
-}
+{"internalId":4172680997,"name":"Strapping Lad Tonic Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[444314,444314]}

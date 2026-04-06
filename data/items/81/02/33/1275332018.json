@@ -1,10 +1,1 @@
-{
-  "internalId": 1275332018,
-  "name": "Shipment of Ironthread Cloth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    940827
-  ]
-}
+{"internalId":1275332018,"name":"Shipment of Ironthread Cloth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[940827]}

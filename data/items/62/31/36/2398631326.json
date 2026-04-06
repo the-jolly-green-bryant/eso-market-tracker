@@ -1,10 +1,1 @@
-{
-  "internalId": 2398631326,
-  "name": "Warped Oaken Flatware",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    743293
-  ]
-}
+{"internalId":2398631326,"name":"Warped Oaken Flatware","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[743293]}

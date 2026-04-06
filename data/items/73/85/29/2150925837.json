@@ -1,10 +1,1 @@
-{
-  "internalId": 2150925837,
-  "name": "scum carp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    388677
-  ]
-}
+{"internalId":2150925837,"name":"scum carp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[388677]}

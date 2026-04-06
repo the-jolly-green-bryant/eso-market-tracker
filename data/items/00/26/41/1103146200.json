@@ -1,10 +1,1 @@
-{
-  "internalId": 1103146200,
-  "name": "Hat of the Undaunted Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    59240
-  ]
-}
+{"internalId":1103146200,"name":"Hat of the Undaunted Bastion","description":"","icon":"data/images/d_/da/eh/gear_breton_light_head_d.png","bindType":2,"knownIds":[59240]}

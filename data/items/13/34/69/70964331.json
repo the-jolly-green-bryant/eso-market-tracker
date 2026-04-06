@@ -1,10 +1,1 @@
-{
-  "internalId": 70964331,
-  "name": "Crafting Motif 74: Pellitine Chests",
-  "description": "Use to learn how to make Pellitine Chests. Also teaches the equivalent Pellitine outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    147719
-  ]
-}
+{"internalId":70964331,"name":"Crafting Motif 74: Pellitine Chests","description":"Use to learn how to make Pellitine Chests. Also teaches the equivalent Pellitine outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[147719]}

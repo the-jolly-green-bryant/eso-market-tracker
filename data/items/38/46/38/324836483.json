@@ -1,10 +1,1 @@
-{
-  "internalId": 324836483,
-  "name": "Recipe: Dragonstar Radish Kebabs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56966
-  ]
-}
+{"internalId":324836483,"name":"Recipe: Dragonstar Radish Kebabs","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56966]}

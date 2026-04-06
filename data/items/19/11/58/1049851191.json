@@ -1,10 +1,1 @@
-{
-  "internalId": 1049851191,
-  "name": "Elsweyr Carpet, Gold-Emerald",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_rugsmall003.png",
-  "bindType": -1,
-  "knownIds": [
-    151755
-  ]
-}
+{"internalId":1049851191,"name":"Elsweyr Carpet, Gold-Emerald","description":"This is a standard house item.","icon":"data/images/30/0l/la/housing_els_inc_rugsmall003.png","bindType":-1,"knownIds":[151755]}

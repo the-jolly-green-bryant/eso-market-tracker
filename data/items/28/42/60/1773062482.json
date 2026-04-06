@@ -1,10 +1,1 @@
-{
-  "internalId": 1773062482,
-  "name": "Greater Soul Gem (Empty)",
-  "description": "Used to capture Level 40 - 49 souls.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_005_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    33264
-  ]
-}
+{"internalId":1773062482,"name":"Greater Soul Gem (Empty)","description":"Used to capture Level 40 - 49 souls.","icon":"data/images/yt/pm/e_/soulgem_005_empty.png","bindType":-1,"knownIds":[33264]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3039572139,
-  "name": "Tree, Ancient Blooming Ginkgo",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_gingko004.png",
-  "bindType": -1,
-  "knownIds": [
-    139337
-  ]
-}
+{"internalId":3039572139,"name":"Tree, Ancient Blooming Ginkgo","description":"This is a huge house item.","icon":"data/images/40/0o/kg/housing_tre_sum_gingko004.png","bindType":-1,"knownIds":[139337]}

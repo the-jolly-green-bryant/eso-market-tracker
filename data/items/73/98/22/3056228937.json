@@ -1,10 +1,1 @@
-{
-  "internalId": 3056228937,
-  "name": "Jack of Night Terror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    97927
-  ]
-}
+{"internalId":3056228937,"name":"Jack of Night Terror","description":"","icon":"data/images/a_/ts/eh/gear_daedric_medium_chest_a.png","bindType":2,"knownIds":[97927]}

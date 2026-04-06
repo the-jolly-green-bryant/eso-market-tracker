@@ -1,10 +1,1 @@
-{
-  "internalId": 4131368053,
-  "name": "Breton Cart, Covered Open",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_csb_merchantcartopen001.png",
-  "bindType": -1,
-  "knownIds": [
-    115178
-  ]
-}
+{"internalId":4131368053,"name":"Breton Cart, Covered Open","description":"This is a large house item.","icon":"data/images/10/0n/ep/housing_bre_csb_merchantcartopen001.png","bindType":-1,"knownIds":[115178]}

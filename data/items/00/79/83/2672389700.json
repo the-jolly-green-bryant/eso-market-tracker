@@ -1,10 +1,1 @@
-{
-  "internalId": 2672389700,
-  "name": "Colovian Lantern, Hanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_hanginglantern001.png",
-  "bindType": -1,
-  "knownIds": [
-    204681
-  ]
-}
+{"internalId":2672389700,"name":"Colovian Lantern, Hanging","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_hanginglantern001.png","bindType":-1,"knownIds":[204681]}

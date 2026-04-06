@@ -1,10 +1,1 @@
-{
-  "internalId": 1383929545,
-  "name": "Breton Desk, Scholar's",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_tabledesk001.png",
-  "bindType": -1,
-  "knownIds": [
-    115228
-  ]
-}
+{"internalId":1383929545,"name":"Breton Desk, Scholar's","description":"This is a standard house item.","icon":"data/images/10/0k/se/housing_bre_fur_tabledesk001.png","bindType":-1,"knownIds":[115228]}

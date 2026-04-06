@@ -1,10 +1,1 @@
-{
-  "internalId": 3751874034,
-  "name": "Seventh Legion's Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100926
-  ]
-}
+{"internalId":3751874034,"name":"Seventh Legion's Gauntlets","description":"","icon":"data/images/d_/sd/na/gear_orc_heavy_hands_d.png","bindType":2,"knownIds":[100926]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 667451771,
-  "name": "Spinner's Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99810
-  ]
-}
+{"internalId":667451771,"name":"Spinner's Shoes","description":"","icon":"data/images/d_/te/ef/gear_bosmer_light_feet_d.png","bindType":2,"knownIds":[99810]}

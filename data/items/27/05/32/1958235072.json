@@ -1,10 +1,1 @@
-{
-  "internalId": 1958235072,
-  "name": "Membrane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_walking_flesh_mort_innards_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54387
-  ]
-}
+{"internalId":1958235072,"name":"Membrane","description":"","icon":"data/images/10/0_/sd/monster_walking_flesh_mort_innards_001.png","bindType":-1,"knownIds":[54387]}

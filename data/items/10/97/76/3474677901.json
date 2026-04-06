@@ -1,10 +1,1 @@
-{
-  "internalId": 3474677901,
-  "name": "Necrom Sconce, Brass",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necwallsconcehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    198460
-  ]
-}
+{"internalId":3474677901,"name":"Necrom Sconce, Brass","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necwallsconcehigh001.png","bindType":-1,"knownIds":[198460]}

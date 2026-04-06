@@ -1,10 +1,1 @@
-{
-  "internalId": 3458034098,
-  "name": "Leyawiin Bookcase, Short",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leybookcase001.png",
-  "bindType": -1,
-  "knownIds": [
-    175592
-  ]
-}
+{"internalId":3458034098,"name":"Leyawiin Bookcase, Short","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leybookcase001.png","bindType":-1,"knownIds":[175592]}

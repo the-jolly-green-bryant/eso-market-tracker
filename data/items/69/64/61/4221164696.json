@@ -1,11 +1,1 @@
-{
-  "internalId": 4221164696,
-  "name": "Sword-Singer Manual",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_sword_singer_manual.png",
-  "bindType": -1,
-  "knownIds": [
-    1370810,
-    1370810
-  ]
-}
+{"internalId":4221164696,"name":"Sword-Singer Manual","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_sword_singer_manual.png","bindType":-1,"knownIds":[1370810,1370810]}

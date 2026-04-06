@@ -1,10 +1,1 @@
-{
-  "internalId": 1600927279,
-  "name": "Wood Elf Dance Shawl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cape_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403218
-  ]
-}
+{"internalId":1600927279,"name":"Wood Elf Dance Shawl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cape_001.png","bindType":-1,"knownIds":[403218]}

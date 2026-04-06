@@ -1,10 +1,1 @@
-{
-  "internalId": 2643167232,
-  "name": "Naryu's Spare Blade",
-  "description": "This blade was your reward for defeating Giron and disrupting the Maulborn plot at Narsis.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7330
-  ]
-}
+{"internalId":2643167232,"name":"Naryu's Spare Blade","description":"This blade was your reward for defeating Giron and disrupting the Maulborn plot at Narsis.","icon":"data/images/d_/dr/ow/gear_dunmer_1hsword_d.png","bindType":2,"knownIds":[7330]}

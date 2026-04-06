@@ -1,10 +1,1 @@
-{
-  "internalId": 3327427006,
-  "name": "Recipe: Red Rye Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45980
-  ]
-}
+{"internalId":3327427006,"name":"Recipe: Red Rye Beer","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45980]}

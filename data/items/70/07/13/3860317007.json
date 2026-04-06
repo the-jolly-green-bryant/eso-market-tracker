@@ -1,10 +1,1 @@
-{
-  "internalId": 3860317007,
-  "name": "Tranquility Pond, Botanical",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingu33t4pond001.png",
-  "bindType": -1,
-  "knownIds": [
-    184127
-  ]
-}
+{"internalId":3860317007,"name":"Tranquility Pond, Botanical","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingu33t4pond001.png","bindType":-1,"knownIds":[184127]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3370021824,
-  "name": "High Elf Table, Verdant Kitchen",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tablesquare002.png",
-  "bindType": -1,
-  "knownIds": [
-    114356
-  ]
-}
+{"internalId":3370021824,"name":"High Elf Table, Verdant Kitchen","description":"This is a standard house item.","icon":"data/images/20/0e/ra/housing_alt_fur_tablesquare002.png","bindType":-1,"knownIds":[114356]}

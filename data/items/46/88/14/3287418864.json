@@ -1,10 +1,1 @@
-{
-  "internalId": 3287418864,
-  "name": "Design: Necrom Candle, Elegant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    198544
-  ]
-}
+{"internalId":3287418864,"name":"Design: Necrom Candle, Elegant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[198544]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1429662828,
-  "name": "Old Growth Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191961
-  ]
-}
+{"internalId":1429662828,"name":"Old Growth Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png","bindType":2,"knownIds":[191961]}

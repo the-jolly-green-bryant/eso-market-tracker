@@ -1,10 +1,1 @@
-{
-  "internalId": 4115621186,
-  "name": "Alinor Lantern, Hanging",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_althangingsconcelit001.png",
-  "bindType": -1,
-  "knownIds": [
-    139198
-  ]
-}
+{"internalId":4115621186,"name":"Alinor Lantern, Hanging","description":"This is a small house item.","icon":"data/images/10/0t/il/housing_sum_lsb_althangingsconcelit001.png","bindType":-1,"knownIds":[139198]}

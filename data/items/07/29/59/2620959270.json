@@ -1,10 +1,1 @@
-{
-  "internalId": 2620959270,
-  "name": "Orsinium Statue Base",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_basestatue001.png",
-  "bindType": -1,
-  "knownIds": [
-    192577
-  ]
-}
+{"internalId":2620959270,"name":"Orsinium Statue Base","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_exc_basestatue001.png","bindType":-1,"knownIds":[192577]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3753926712,
-  "name": "Worm Cult Platform, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_floorplatformfiller001.png",
-  "bindType": -1,
-  "knownIds": [
-    223757
-  ]
-}
+{"internalId":3753926712,"name":"Worm Cult Platform, Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_duc_floorplatformfiller001.png","bindType":-1,"knownIds":[223757]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 335336230,
-  "name": "Praxis: Ayleid Column, Short",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    212599
-  ]
-}
+{"internalId":335336230,"name":"Praxis: Ayleid Column, Short","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[212599]}

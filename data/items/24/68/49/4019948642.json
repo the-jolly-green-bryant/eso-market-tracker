@@ -1,10 +1,1 @@
-{
-  "internalId": 4019948642,
-  "name": "Health Elixir",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    34125
-  ]
-}
+{"internalId":4019948642,"name":"Health Elixir","description":"","icon":"data/images/50/0_/ep/consumable_potion_001_type_005.png","bindType":-1,"knownIds":[34125]}

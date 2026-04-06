@@ -1,10 +1,1 @@
-{
-  "internalId": 834055037,
-  "name": "Abstract Silver Centerpiece",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_021.png",
-  "bindType": -1,
-  "knownIds": [
-    422053
-  ]
-}
+{"internalId":834055037,"name":"Abstract Silver Centerpiece","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_021.png","bindType":-1,"knownIds":[422053]}

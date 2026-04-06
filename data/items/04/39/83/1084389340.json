@@ -1,10 +1,1 @@
-{
-  "internalId": 1084389340,
-  "name": "Spinner's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99814
-  ]
-}
+{"internalId":1084389340,"name":"Spinner's Jerkin","description":"","icon":"data/images/d_/tr/ih/gear_bosmer_light_shirt_d.png","bindType":2,"knownIds":[99814]}

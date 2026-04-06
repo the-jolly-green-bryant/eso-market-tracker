@@ -1,10 +1,1 @@
-{
-  "internalId": 3155077855,
-  "name": "Brolsgerbwd's Bone Staff of Meridia",
-  "description": "A weapon awarded for defeating the Dremora necromancer, Brolsgerbwd.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    42984
-  ]
-}
+{"internalId":3155077855,"name":"Brolsgerbwd's Bone Staff of Meridia","description":"A weapon awarded for defeating the Dremora necromancer, Brolsgerbwd.","icon":"data/images/c_/ff/at/gear_daedric_staff_c.png","bindType":2,"knownIds":[42984]}

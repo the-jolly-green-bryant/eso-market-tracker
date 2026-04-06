@@ -1,15 +1,1 @@
-{
-  "internalId": 2971936699,
-  "name": "Gardener of Seasons Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1689280,
-    1696810,
-    1697516,
-    1689280,
-    1696810,
-    1697516
-  ]
-}
+{"internalId":2971936699,"name":"Gardener of Seasons Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_shoulders_a.png","bindType":-1,"knownIds":[1689280,1696810,1697516,1689280,1696810,1697516]}

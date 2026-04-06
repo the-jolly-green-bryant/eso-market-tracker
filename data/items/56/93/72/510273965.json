@@ -1,10 +1,1 @@
-{
-  "internalId": 510273965,
-  "name": "Pumpkin-Stuffed Fellrunner Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    615894
-  ]
-}
+{"internalId":510273965,"name":"Pumpkin-Stuffed Fellrunner Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[615894]}

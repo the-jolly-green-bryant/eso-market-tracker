@@ -1,10 +1,1 @@
-{
-  "internalId": 3313427742,
-  "name": "Sanguine Devotional Card",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    652995
-  ]
-}
+{"internalId":3313427742,"name":"Sanguine Devotional Card","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[652995]}

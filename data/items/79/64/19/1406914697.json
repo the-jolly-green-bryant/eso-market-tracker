@@ -1,10 +1,1 @@
-{
-  "internalId": 1406914697,
-  "name": "Blueprint: Redguard Cabinet, Inlaid",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119171
-  ]
-}
+{"internalId":1406914697,"name":"Blueprint: Redguard Cabinet, Inlaid","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[119171]}

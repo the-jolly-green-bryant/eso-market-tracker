@@ -1,10 +1,1 @@
-{
-  "internalId": 3268942290,
-  "name": "Gold Leaf Cabbage Bowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1384883
-  ]
-}
+{"internalId":3268942290,"name":"Gold Leaf Cabbage Bowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bowl_001.png","bindType":-1,"knownIds":[1384883]}

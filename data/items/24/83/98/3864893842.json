@@ -1,10 +1,1 @@
-{
-  "internalId": 3864893842,
-  "name": "Heartland Conqueror's Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    173187
-  ]
-}
+{"internalId":3864893842,"name":"Heartland Conqueror's Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png","bindType":2,"knownIds":[173187]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2451648064,
-  "name": "Diagram: Breton Streetlight, Paired",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    115966
-  ]
-}
+{"internalId":2451648064,"name":"Diagram: Breton Streetlight, Paired","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[115966]}

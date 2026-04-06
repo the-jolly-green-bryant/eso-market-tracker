@@ -1,13 +1,1 @@
-{
-  "internalId": 1157525993,
-  "name": "Pirate Skeleton Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedpirateskeleton_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720024,
-    1727088,
-    1720024,
-    1727088
-  ]
-}
+{"internalId":1157525993,"name":"Pirate Skeleton Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedpirateskeleton_shoulders_a.png","bindType":-1,"knownIds":[1720024,1727088,1720024,1727088]}

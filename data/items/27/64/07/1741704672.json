@@ -1,10 +1,1 @@
-{
-  "internalId": 1741704672,
-  "name": "Pattern: Murkmire Rug, Hist Gathering",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    146011
-  ]
-}
+{"internalId":1741704672,"name":"Pattern: Murkmire Rug, Hist Gathering","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[146011]}

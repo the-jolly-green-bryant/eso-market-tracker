@@ -1,17 +1,1 @@
-{
-  "internalId": 1212119365,
-  "name": "Hagraven's Garden Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_1hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1194668,
-    1400585,
-    1452262,
-    1463715,
-    1194668,
-    1400585,
-    1452262,
-    1463715
-  ]
-}
+{"internalId":1212119365,"name":"Hagraven's Garden Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bloodforge_1hhammer_a.png","bindType":-1,"knownIds":[1194668,1400585,1452262,1463715,1194668,1400585,1452262,1463715]}

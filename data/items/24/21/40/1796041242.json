@@ -1,10 +1,1 @@
-{
-  "internalId": 1796041242,
-  "name": "Recipe: Braised Rabbit with Spring Vegetables",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68203
-  ]
-}
+{"internalId":1796041242,"name":"Recipe: Braised Rabbit with Spring Vegetables","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68203]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3502599182,
-  "name": "Imperial Tapestry, Kynareth",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_tapestrykynelargea003.png",
-  "bindType": -1,
-  "knownIds": [
-    94130
-  ]
-}
+{"internalId":3502599182,"name":"Imperial Tapestry, Kynareth","description":"This is a large house item.","icon":"data/images/30/0a/eg/housing_imp_inc_tapestrykynelargea003.png","bindType":-1,"knownIds":[94130]}

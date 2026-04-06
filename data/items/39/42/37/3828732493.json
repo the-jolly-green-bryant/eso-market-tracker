@@ -1,10 +1,1 @@
-{
-  "internalId": 3828732493,
-  "name": "Karth's Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168723
-  ]
-}
+{"internalId":3828732493,"name":"Karth's Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[168723]}

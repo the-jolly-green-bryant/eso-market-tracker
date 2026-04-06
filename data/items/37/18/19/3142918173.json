@@ -1,10 +1,1 @@
-{
-  "internalId": 3142918173,
-  "name": "Mummified Aldmer Head",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_saint_jhoanne_bones.png",
-  "bindType": -1,
-  "knownIds": [
-    1255603
-  ]
-}
+{"internalId":3142918173,"name":"Mummified Aldmer Head","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_saint_jhoanne_bones.png","bindType":-1,"knownIds":[1255603]}

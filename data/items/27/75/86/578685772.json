@@ -1,10 +1,1 @@
-{
-  "internalId": 578685772,
-  "name": "Dagger of the Twice-Born Star",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    58496
-  ]
-}
+{"internalId":578685772,"name":"Dagger of the Twice-Born Star","description":"","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[58496]}

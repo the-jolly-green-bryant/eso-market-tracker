@@ -1,12 +1,1 @@
-{
-  "internalId": 4291869875,
-  "name": "Metallic: Muddy Puddle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2612.png",
-  "bindType": -1,
-  "knownIds": [
-    1190398,
-    1190398,
-    1190398
-  ]
-}
+{"internalId":4291869875,"name":"Metallic: Muddy Puddle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2612.png","bindType":-1,"knownIds":[1190398,1190398,1190398]}

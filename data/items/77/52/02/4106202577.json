@@ -1,13 +1,1 @@
-{
-  "internalId": 4106202577,
-  "name": "Odilon's Spectral Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    592605,
-    737252,
-    592605,
-    737252
-  ]
-}
+{"internalId":4106202577,"name":"Odilon's Spectral Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[592605,737252,592605,737252]}

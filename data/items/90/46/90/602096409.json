@@ -1,10 +1,1 @@
-{
-  "internalId": 602096409,
-  "name": "Crafting Motif 119: Blessed Inheritor Chests",
-  "description": "Use to learn how to make Blessed Inheritor Chests. Also teaches the equivalent Blessed Inheritor Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    190911
-  ]
-}
+{"internalId":602096409,"name":"Crafting Motif 119: Blessed Inheritor Chests","description":"Use to learn how to make Blessed Inheritor Chests. Also teaches the equivalent Blessed Inheritor Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[190911]}

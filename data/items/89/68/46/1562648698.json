@@ -1,10 +1,1 @@
-{
-  "internalId": 1562648698,
-  "name": "Robe of the Armor Master",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60980
-  ]
-}
+{"internalId":1562648698,"name":"Robe of the Armor Master","description":"","icon":"data/images/d_/eb/or/gear_breton_light_robe_d.png","bindType":2,"knownIds":[60980]}

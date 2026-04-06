@@ -1,10 +1,1 @@
-{
-  "internalId": 4085526436,
-  "name": "Orsinium Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_chest001.png",
-  "bindType": 3,
-  "knownIds": [
-    203810
-  ]
-}
+{"internalId":4085526436,"name":"Orsinium Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_chest001.png","bindType":3,"knownIds":[203810]}

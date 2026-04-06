@@ -1,10 +1,1 @@
-{
-  "internalId": 356328353,
-  "name": "pricklefish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    408301
-  ]
-}
+{"internalId":356328353,"name":"pricklefish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[408301]}

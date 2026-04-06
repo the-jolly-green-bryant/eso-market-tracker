@@ -1,10 +1,1 @@
-{
-  "internalId": 3775490607,
-  "name": "Farstrider Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211902
-  ]
-}
+{"internalId":3775490607,"name":"Farstrider Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_dagger_a.png","bindType":2,"knownIds":[211902]}

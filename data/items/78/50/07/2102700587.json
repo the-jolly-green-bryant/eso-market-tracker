@@ -1,10 +1,1 @@
-{
-  "internalId": 2102700587,
-  "name": "Farstrider Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211897
-  ]
-}
+{"internalId":2102700587,"name":"Farstrider Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hhammer_a.png","bindType":2,"knownIds":[211897]}

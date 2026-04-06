@@ -1,10 +1,1 @@
-{
-  "internalId": 2716448564,
-  "name": "Shalk Manacles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_collar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1165668
-  ]
-}
+{"internalId":2716448564,"name":"Shalk Manacles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_collar_001.png","bindType":-1,"knownIds":[1165668]}

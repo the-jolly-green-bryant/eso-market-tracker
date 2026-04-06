@@ -1,10 +1,1 @@
-{
-  "internalId": 3880898399,
-  "name": "Orcish Table, Game",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgtableoctagon001.png",
-  "bindType": -1,
-  "knownIds": [
-    116443
-  ]
-}
+{"internalId":3880898399,"name":"Orcish Table, Game","description":"This is a standard house item.","icon":"data/images/10/0n/og/housing_orc_fur_wtgtableoctagon001.png","bindType":-1,"knownIds":[116443]}

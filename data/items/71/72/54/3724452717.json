@@ -1,10 +1,1 @@
-{
-  "internalId": 3724452717,
-  "name": "Sash of Varen's Legacy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76078
-  ]
-}
+{"internalId":3724452717,"name":"Sash of Varen's Legacy","description":"","icon":"data/images/d_/ts/ia/gear_breton_light_waist_d.png","bindType":2,"knownIds":[76078]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2770285992,
-  "name": "Apple Baked Fish Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    440370
-  ]
-}
+{"internalId":2770285992,"name":"Apple Baked Fish Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[440370]}

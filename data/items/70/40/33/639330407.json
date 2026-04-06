@@ -1,10 +1,1 @@
-{
-  "internalId": 639330407,
-  "name": "Crescent and Sun Combination Wrench",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1201093
-  ]
-}
+{"internalId":639330407,"name":"Crescent and Sun Combination Wrench","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1201093]}

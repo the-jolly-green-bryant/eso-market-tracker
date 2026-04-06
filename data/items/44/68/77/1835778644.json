@@ -1,17 +1,1 @@
-{
-  "internalId": 1835778644,
-  "name": "ironhide belt of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": -1,
-  "knownIds": [
-    793665,
-    785841,
-    838287,
-    838398,
-    793665,
-    785841,
-    838287,
-    838398
-  ]
-}
+{"internalId":1835778644,"name":"ironhide belt of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":-1,"knownIds":[793665,785841,838287,838398,793665,785841,838287,838398]}

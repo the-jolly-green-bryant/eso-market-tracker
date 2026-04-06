@@ -1,10 +1,1 @@
-{
-  "internalId": 3861089126,
-  "name": "Focus Script: Flame Damage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_flame.png",
-  "bindType": -1,
-  "knownIds": [
-    204556
-  ]
-}
+{"internalId":3861089126,"name":"Focus Script: Flame Damage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_flame.png","bindType":-1,"knownIds":[204556]}

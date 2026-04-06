@@ -1,10 +1,1 @@
-{
-  "internalId": 3497815987,
-  "name": "Temple Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    15659
-  ]
-}
+{"internalId":3497815987,"name":"Temple Key","description":"","icon":null,"bindType":-1,"knownIds":[15659]}

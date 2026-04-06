@@ -1,10 +1,1 @@
-{
-  "internalId": 3804182460,
-  "name": "Defiler's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123144
-  ]
-}
+{"internalId":3804182460,"name":"Defiler's Belt","description":"","icon":"data/images/a_/ts/ia/gear_hlaalu_medium_waist_a.png","bindType":2,"knownIds":[123144]}

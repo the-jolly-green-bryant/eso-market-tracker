@@ -1,10 +1,1 @@
-{
-  "internalId": 4095540903,
-  "name": "Venomous Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160998
-  ]
-}
+{"internalId":4095540903,"name":"Venomous Bracers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_hands_a.png","bindType":2,"knownIds":[160998]}

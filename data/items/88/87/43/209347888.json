@@ -1,10 +1,1 @@
-{
-  "internalId": 209347888,
-  "name": "Stirk Fellowship Armored Legplates",
-  "description": "Leg armor awarded by the Stirk Fellowship for outstanding service at Shor's Stand.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    217720
-  ]
-}
+{"internalId":209347888,"name":"Stirk Fellowship Armored Legplates","description":"Leg armor awarded by the Stirk Fellowship for outstanding service at Shor's Stand.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_heavy_legs_a.png","bindType":2,"knownIds":[217720]}

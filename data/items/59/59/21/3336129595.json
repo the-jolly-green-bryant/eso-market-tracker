@@ -1,10 +1,1 @@
-{
-  "internalId": 3336129595,
-  "name": "Diagram: High Isle Goblet, Empty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    188189
-  ]
-}
+{"internalId":3336129595,"name":"Diagram: High Isle Goblet, Empty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[188189]}

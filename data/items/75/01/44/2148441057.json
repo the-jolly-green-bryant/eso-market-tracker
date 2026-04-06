@@ -1,10 +1,1 @@
-{
-  "internalId": 2148441057,
-  "name": "Rawhide Scraps",
-  "description": "Ten of these items can be refined to make rawhide.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_medium_armor_component_004.png",
-  "bindType": -1,
-  "knownIds": [
-    793
-  ]
-}
+{"internalId":2148441057,"name":"Rawhide Scraps","description":"Ten of these items can be refined to make rawhide.","icon":"data/images/40/0_/tn/crafting_medium_armor_component_004.png","bindType":-1,"knownIds":[793]}

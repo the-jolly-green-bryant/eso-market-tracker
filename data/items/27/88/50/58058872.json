@@ -1,10 +1,1 @@
-{
-  "internalId": 58058872,
-  "name": "Twisted In-Law Carving",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    939023
-  ]
-}
+{"internalId":58058872,"name":"Twisted In-Law Carving","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[939023]}

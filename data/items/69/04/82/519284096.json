@@ -1,10 +1,1 @@
-{
-  "internalId": 519284096,
-  "name": "Imperfect Blobfin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_blobfish.png",
-  "bindType": -1,
-  "knownIds": [
-    1186623
-  ]
-}
+{"internalId":519284096,"name":"Imperfect Blobfin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_blobfish.png","bindType":-1,"knownIds":[1186623]}

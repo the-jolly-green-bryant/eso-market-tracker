@@ -1,10 +1,1 @@
-{
-  "internalId": 505482053,
-  "name": "Usurper Slayer",
-  "description": "Awarded for helping bring down Euraxia, the Usurper Queen of Rimmen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    150387
-  ]
-}
+{"internalId":505482053,"name":"Usurper Slayer","description":"Awarded for helping bring down Euraxia, the Usurper Queen of Rimmen.","icon":"data/images/a_/re/mm/gear_anequina_2hhammer_a.png","bindType":2,"knownIds":[150387]}

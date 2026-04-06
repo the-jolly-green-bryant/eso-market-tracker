@@ -1,17 +1,1 @@
-{
-  "internalId": 3538777231,
-  "name": "Perfected Pillager's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_lgt_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1586350,
-    1586593,
-    1587031,
-    1590485,
-    1592453,
-    1593489,
-    1601956,
-    1606773
-  ]
-}
+{"internalId":3538777231,"name":"Perfected Pillager's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_lgt_shoulder_a.png","bindType":-1,"knownIds":[1586350,1586593,1587031,1590485,1592453,1593489,1601956,1606773]}

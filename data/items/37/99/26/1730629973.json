@@ -1,10 +1,1 @@
-{
-  "internalId": 1730629973,
-  "name": "Battle Axe of Ashen Grip",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56386
-  ]
-}
+{"internalId":1730629973,"name":"Battle Axe of Ashen Grip","description":"","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[56386]}

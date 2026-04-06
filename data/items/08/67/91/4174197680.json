@@ -1,10 +1,1 @@
-{
-  "internalId": 4174197680,
-  "name": "Galerion's Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78102
-  ]
-}
+{"internalId":4174197680,"name":"Galerion's Girdle","description":"","icon":"data/images/d_/ts/ia/gear_altmer_heavy_waist_d.png","bindType":2,"knownIds":[78102]}

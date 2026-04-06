@@ -1,10 +1,1 @@
-{
-  "internalId": 2431914097,
-  "name": "Out-Of-Tune Theorbo",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803847
-  ]
-}
+{"internalId":2431914097,"name":"Out-Of-Tune Theorbo","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png","bindType":-1,"knownIds":[803847]}

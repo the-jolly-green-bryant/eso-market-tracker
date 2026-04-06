@@ -1,10 +1,1 @@
-{
-  "internalId": 2523279380,
-  "name": "Swim Flippers and Coral Snorkel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_equipment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795873
-  ]
-}
+{"internalId":2523279380,"name":"Swim Flippers and Coral Snorkel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_equipment_001.png","bindType":-1,"knownIds":[795873]}

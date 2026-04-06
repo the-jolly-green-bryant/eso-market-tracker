@@ -1,10 +1,1 @@
-{
-  "internalId": 3533563843,
-  "name": "Murkmire Gate, Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_waf_mrkwallsmediumgate001.png",
-  "bindType": -1,
-  "knownIds": [
-    145386
-  ]
-}
+{"internalId":3533563843,"name":"Murkmire Gate, Arched","description":"This is a standard house item.","icon":"data/images/10/0e/ta/housing_arg_waf_mrkwallsmediumgate001.png","bindType":-1,"knownIds":[145386]}

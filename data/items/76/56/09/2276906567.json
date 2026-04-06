@@ -1,10 +1,1 @@
-{
-  "internalId": 2276906567,
-  "name": "High Isle Plate, Compass Rose Setting",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_clutterplatesettinghi_001.png",
-  "bindType": -1,
-  "knownIds": [
-    187847
-  ]
-}
+{"internalId":2276906567,"name":"High Isle Plate, Compass Rose Setting","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_clutterplatesettinghi_001.png","bindType":-1,"knownIds":[187847]}

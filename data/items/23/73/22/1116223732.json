@@ -1,10 +1,1 @@
-{
-  "internalId": 1116223732,
-  "name": "Mushroom, Poison Pax Shelf",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_malabaltorbigmushrooms003.png",
-  "bindType": -1,
-  "knownIds": [
-    125595
-  ]
-}
+{"internalId":1116223732,"name":"Mushroom, Poison Pax Shelf","description":"This is a standard house item.","icon":"data/images/30/0s/mo/housing_veg_fug_malabaltorbigmushrooms003.png","bindType":-1,"knownIds":[125595]}

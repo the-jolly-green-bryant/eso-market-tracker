@@ -1,10 +1,1 @@
-{
-  "internalId": 1241576430,
-  "name": "Daedric Brazier, Flaming",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_str_wayshrine001.png",
-  "bindType": -1,
-  "knownIds": [
-    125489
-  ]
-}
+{"internalId":1241576430,"name":"Daedric Brazier, Flaming","description":"This is a small house item.","icon":"data/images/10/0e/ni/housing_dae_str_wayshrine001.png","bindType":-1,"knownIds":[125489]}

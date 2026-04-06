@@ -1,10 +1,1 @@
-{
-  "internalId": 847146378,
-  "name": "Style Page: Troll King's Shoulder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1281325
-  ]
-}
+{"internalId":847146378,"name":"Style Page: Troll King's Shoulder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1281325]}

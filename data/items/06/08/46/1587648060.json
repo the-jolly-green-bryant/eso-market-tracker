@@ -1,10 +1,1 @@
-{
-  "internalId": 1587648060,
-  "name": "Ayleid Pedestal, Empty",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_trapsdarkwelkyndstone001.png",
-  "bindType": -1,
-  "knownIds": [
-    211358
-  ]
-}
+{"internalId":1587648060,"name":"Ayleid Pedestal, Empty","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_trapsdarkwelkyndstone001.png","bindType":-1,"knownIds":[211358]}

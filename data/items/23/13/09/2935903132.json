@@ -1,10 +1,1 @@
-{
-  "internalId": 2935903132,
-  "name": "Artistic Ogre Shawl",
-  "description": "A truly, er, unique piece. Maybe one ogre's trash is a desperate artist's treasure?",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    71010
-  ]
-}
+{"internalId":2935903132,"name":"Artistic Ogre Shawl","description":"A truly, er, unique piece. Maybe one ogre's trash is a desperate artist's treasure?","icon":"data/images/a_/sr/ed/gear_primative_light_shoulders_a.png","bindType":2,"knownIds":[71010]}

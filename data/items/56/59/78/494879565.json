@@ -1,10 +1,1 @@
-{
-  "internalId": 494879565,
-  "name": "Wolf-Jaw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    784670
-  ]
-}
+{"internalId":494879565,"name":"Wolf-Jaw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_2haxe_d.png","bindType":-1,"knownIds":[784670]}

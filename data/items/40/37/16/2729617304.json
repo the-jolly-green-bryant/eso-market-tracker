@@ -1,10 +1,1 @@
-{
-  "internalId": 2729617304,
-  "name": "Diagram: High Elf Cup, Gilded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    118999
-  ]
-}
+{"internalId":2729617304,"name":"Diagram: High Elf Cup, Gilded","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[118999]}

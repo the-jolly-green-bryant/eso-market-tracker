@@ -1,10 +1,1 @@
-{
-  "internalId": 13813797,
-  "name": "Shrub, Lanky Highland",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rmsaplingbush001.png",
-  "bindType": -1,
-  "knownIds": [
-    120515
-  ]
-}
+{"internalId":13813797,"name":"Shrub, Lanky Highland","description":"This is a standard house item.","icon":"data/images/10/0h/su/housing_veg_bsh_rmsaplingbush001.png","bindType":-1,"knownIds":[120515]}

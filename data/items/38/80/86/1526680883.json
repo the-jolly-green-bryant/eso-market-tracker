@@ -1,10 +1,1 @@
-{
-  "internalId": 1526680883,
-  "name": "Greaves of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199247
-  ]
-}
+{"internalId":1526680883,"name":"Greaves of Fury","description":"","icon":"data/images/a_/sg/el/gear_abahswatch_heavy_legs_a.png","bindType":2,"knownIds":[79808]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1182357736,
-  "name": "Stone-Nest Doorway, Temple",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingargraiderhouseinteriorwall01.png",
-  "bindType": -1,
-  "knownIds": [
-    223837
-  ]
-}
+{"internalId":1182357736,"name":"Stone-Nest Doorway, Temple","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingargraiderhouseinteriorwall01.png","bindType":-1,"knownIds":[223837]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2292531300,
-  "name": "Grave-Stake, Large Glyphed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkburialstick001.png",
-  "bindType": -1,
-  "knownIds": [
-    145438
-  ]
-}
+{"internalId":2292531300,"name":"Grave-Stake, Large Glyphed","description":"This is a standard house item.","icon":"data/images/10/0k/ci/housing_arg_exc_mrkburialstick001.png","bindType":-1,"knownIds":[145438]}

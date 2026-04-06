@@ -1,10 +1,1 @@
-{
-  "internalId": 2477652258,
-  "name": "Harpy Egg",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    825509
-  ]
-}
+{"internalId":2477652258,"name":"Harpy Egg","description":"","icon":null,"bindType":-1,"knownIds":[825509]}

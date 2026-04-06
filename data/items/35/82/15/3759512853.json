@@ -1,10 +1,1 @@
-{
-  "internalId": 3759512853,
-  "name": "Redguard Window, Iron Lattice",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_anseiwardback001.png",
-  "bindType": -1,
-  "knownIds": [
-    193806
-  ]
-}
+{"internalId":3759512853,"name":"Redguard Window, Iron Lattice","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_anseiwardback001.png","bindType":-1,"knownIds":[193806]}

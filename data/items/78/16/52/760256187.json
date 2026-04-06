@@ -1,10 +1,1 @@
-{
-  "internalId": 760256187,
-  "name": "Apocrypha Bookcase, Spiked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_wardrobemedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    198425
-  ]
-}
+{"internalId":760256187,"name":"Apocrypha Bookcase, Spiked","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_wardrobemedium001.png","bindType":-1,"knownIds":[198425]}

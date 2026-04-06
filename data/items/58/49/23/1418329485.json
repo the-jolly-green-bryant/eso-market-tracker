@@ -1,10 +1,1 @@
-{
-  "internalId": 1418329485,
-  "name": "Bug Meat-Pick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1284739
-  ]
-}
+{"internalId":1418329485,"name":"Bug Meat-Pick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[1284739]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2970742471,
-  "name": "Pattern: Book Pile, Circle Levitating",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    197787
-  ]
-}
+{"internalId":2970742471,"name":"Pattern: Book Pile, Circle Levitating","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[197787]}

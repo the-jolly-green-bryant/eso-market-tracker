@@ -1,10 +1,1 @@
-{
-  "internalId": 818294535,
-  "name": "Thunderbug's Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    99998
-  ]
-}
+{"internalId":818294535,"name":"Thunderbug's Pauldron","description":"","icon":"data/images/a_/sr/ed/gear_primative_heavy_shoulders_a.png","bindType":2,"knownIds":[99998]}

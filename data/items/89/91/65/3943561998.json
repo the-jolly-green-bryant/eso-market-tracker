@@ -1,10 +1,1 @@
-{
-  "internalId": 3943561998,
-  "name": "Rock-Climbing Gear",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    819126
-  ]
-}
+{"internalId":3943561998,"name":"Rock-Climbing Gear","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png","bindType":-1,"knownIds":[819126]}

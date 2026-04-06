@@ -1,10 +1,1 @@
-{
-  "internalId": 2240860909,
-  "name": "Banner, Anvil",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_lsb_dbhbanneranvil003.png",
-  "bindType": -1,
-  "knownIds": [
-    175760
-  ]
-}
+{"internalId":2240860909,"name":"Banner, Anvil","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_col_lsb_dbhbanneranvil003.png","bindType":-1,"knownIds":[175760]}

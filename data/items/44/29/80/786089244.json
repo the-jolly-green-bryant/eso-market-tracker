@@ -1,17 +1,1 @@
-{
-  "internalId": 786089244,
-  "name": "Perfected Test of Resolve Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_heavy_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1644298,
-    1647308,
-    1687076,
-    1764562,
-    1644298,
-    1647308,
-    1687076,
-    1764562
-  ]
-}
+{"internalId":786089244,"name":"Perfected Test of Resolve Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_heavy_shoulders_a.png","bindType":-1,"knownIds":[1644298,1647308,1687076,1764562,1644298,1647308,1687076,1764562]}

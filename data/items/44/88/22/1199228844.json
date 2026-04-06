@@ -1,15 +1,1 @@
-{
-  "internalId": 1199228844,
-  "name": "Basalt-Blooded Warrior Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678215,
-    1697663,
-    1716224,
-    1678215,
-    1697663,
-    1716224
-  ]
-}
+{"internalId":1199228844,"name":"Basalt-Blooded Warrior Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_legs_a.png","bindType":-1,"knownIds":[1678215,1697663,1716224,1678215,1697663,1716224]}

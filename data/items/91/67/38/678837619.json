@@ -1,10 +1,1 @@
-{
-  "internalId": 678837619,
-  "name": "Secunda's Minute Clock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png",
-  "bindType": -1,
-  "knownIds": [
-    383800
-  ]
-}
+{"internalId":678837619,"name":"Secunda's Minute Clock","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hourglass_001.png","bindType":-1,"knownIds":[383800]}

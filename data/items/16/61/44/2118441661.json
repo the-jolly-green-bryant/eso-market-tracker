@@ -1,10 +1,1 @@
-{
-  "internalId": 2118441661,
-  "name": "Maul of Varen's Legacy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76055
-  ]
-}
+{"internalId":2118441661,"name":"Maul of Varen's Legacy","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[76055]}

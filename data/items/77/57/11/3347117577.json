@@ -1,10 +1,1 @@
-{
-  "internalId": 3347117577,
-  "name": "Saplings, Burnt Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_vrdburntsapling003.png",
-  "bindType": -1,
-  "knownIds": [
-    130299
-  ]
-}
+{"internalId":3347117577,"name":"Saplings, Burnt Cluster","description":"This is a standard house item.","icon":"data/images/30/0g/ni/housing_tre_ded_vrdburntsapling003.png","bindType":-1,"knownIds":[130299]}

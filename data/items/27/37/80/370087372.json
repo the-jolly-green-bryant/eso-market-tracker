@@ -1,10 +1,1 @@
-{
-  "internalId": 370087372,
-  "name": "Glenmoril Wyrd Treasure Map: Alik'r",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    153639
-  ]
-}
+{"internalId":370087372,"name":"Glenmoril Wyrd Treasure Map: Alik'r","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[153639]}

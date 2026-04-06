@@ -1,10 +1,1 @@
-{
-  "internalId": 2103740391,
-  "name": "Satchel of Temporal Festivities",
-  "description": "This container holds useful treasure normally found during special events throughout Tamriel.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": 2,
-  "knownIds": [
-    175069
-  ]
-}
+{"internalId":2103740391,"name":"Satchel of Temporal Festivities","description":"This container holds useful treasure normally found during special events throughout Tamriel.","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":2,"knownIds":[175069]}

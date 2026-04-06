@@ -1,10 +1,1 @@
-{
-  "internalId": 3168513340,
-  "name": "Camonna Tong Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196019
-  ]
-}
+{"internalId":3168513340,"name":"Camonna Tong Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_dagger_a.png","bindType":2,"knownIds":[196019]}

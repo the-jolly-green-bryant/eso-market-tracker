@@ -1,10 +1,1 @@
-{
-  "internalId": 817189651,
-  "name": "Illustrated Plant Guide To Skyrim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385426
-  ]
-}
+{"internalId":817189651,"name":"Illustrated Plant Guide To Skyrim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[1385426]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 4170836253,
-  "name": "Sluthrug's Hunger Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1746599,
-    1769979,
-    1746599,
-    1769979,
-    1746599,
-    1769979
-  ]
-}
+{"internalId":4170836253,"name":"Sluthrug's Hunger Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_dagger.png","bindType":-1,"knownIds":[1746599,1769979,1746599,1769979,1746599,1769979]}

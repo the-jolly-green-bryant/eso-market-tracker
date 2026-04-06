@@ -1,10 +1,1 @@
-{
-  "internalId": 3092926180,
-  "name": "Gloves of the Night Mother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56369
-  ]
-}
+{"internalId":3092926180,"name":"Gloves of the Night Mother","description":"","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":2,"knownIds":[56369]}

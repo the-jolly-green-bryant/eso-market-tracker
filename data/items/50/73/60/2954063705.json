@@ -1,10 +1,1 @@
-{
-  "internalId": 2954063705,
-  "name": "Raven Rock Baked Ash Yams Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    635202
-  ]
-}
+{"internalId":2954063705,"name":"Raven Rock Baked Ash Yams Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[635202]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3729327442,
-  "name": "Poetry and Song",
-  "description": "A mysterious tome containing all of the books in the Poetry and Song collection.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png",
-  "bindType": 3,
-  "knownIds": [
-    199957
-  ]
-}
+{"internalId":3729327442,"name":"Poetry and Song","description":"A mysterious tome containing all of the books in the Poetry and Song collection.","icon":"https://esoicons.uesp.net/esoui/art/icons/book_arquitius_002.png","bindType":3,"knownIds":[199957]}

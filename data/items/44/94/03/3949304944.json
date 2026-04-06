@@ -1,10 +1,1 @@
-{
-  "internalId": 3949304944,
-  "name": "Colovian Meal, Cheese Board",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_charcuterieplank002.png",
-  "bindType": -1,
-  "knownIds": [
-    204698
-  ]
-}
+{"internalId":3949304944,"name":"Colovian Meal, Cheese Board","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_charcuterieplank002.png","bindType":-1,"knownIds":[204698]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3137907781,
-  "name": "Cold West Weald Corn Chowder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_003.png",
-  "bindType": -1,
-  "knownIds": [
-    32148
-  ]
-}
+{"internalId":3137907781,"name":"Cold West Weald Corn Chowder","description":"","icon":"data/images/30/0_/pu/crafting_soup_003.png","bindType":-1,"knownIds":[32148]}

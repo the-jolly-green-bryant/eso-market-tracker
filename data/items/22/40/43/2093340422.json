@@ -1,10 +1,1 @@
-{
-  "internalId": 2093340422,
-  "name": "Argonian Chair, Rough",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_stool002.png",
-  "bindType": -1,
-  "knownIds": [
-    115441
-  ]
-}
+{"internalId":2093340422,"name":"Argonian Chair, Rough","description":"This is a standard house item.","icon":"data/images/20/0l/oo/housing_arg_fur_stool002.png","bindType":-1,"knownIds":[115441]}

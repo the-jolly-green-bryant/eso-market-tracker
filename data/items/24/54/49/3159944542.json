@@ -1,10 +1,1 @@
-{
-  "internalId": 3159944542,
-  "name": "Tree, Hardy Cedar",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_cyrodiilcedar003.png",
-  "bindType": -1,
-  "knownIds": [
-    132205
-  ]
-}
+{"internalId":3159944542,"name":"Tree, Hardy Cedar","description":"This is a large house item.","icon":"data/images/30/0r/ad/housing_tre_eve_cyrodiilcedar003.png","bindType":-1,"knownIds":[132205]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1485183342,
-  "name": "Imperial Chair, Rocking",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_chair003.png",
-  "bindType": -1,
-  "knownIds": [
-    94138
-  ]
-}
+{"internalId":1485183342,"name":"Imperial Chair, Rocking","description":"This is a standard house item.","icon":"data/images/30/0r/ia/housing_nib_fur_chair003.png","bindType":-1,"knownIds":[94138]}

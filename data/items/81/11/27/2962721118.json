@@ -1,10 +1,1 @@
-{
-  "internalId": 2962721118,
-  "name": "Hoard of Haughty Hats",
-  "description": "An decorative wardrobe containing many collectible Hats.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_wardrobe001.png",
-  "bindType": 3,
-  "knownIds": [
-    194467
-  ]
-}
+{"internalId":2962721118,"name":"Hoard of Haughty Hats","description":"An decorative wardrobe containing many collectible Hats.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_wardrobe001.png","bindType":3,"knownIds":[194467]}

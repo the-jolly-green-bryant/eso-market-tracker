@@ -1,10 +1,1 @@
-{
-  "internalId": 3174791320,
-  "name": "Rough Box, Slatted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargocratesm001.png",
-  "bindType": -1,
-  "knownIds": [
-    117955
-  ]
-}
+{"internalId":3174791320,"name":"Rough Box, Slatted","description":"This is a standard house item.","icon":"data/images/10/0m/se/housing_red_exc_varcargocratesm001.png","bindType":-1,"knownIds":[117955]}

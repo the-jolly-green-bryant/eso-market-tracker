@@ -1,10 +1,1 @@
-{
-  "internalId": 2263676639,
-  "name": "Wabbajack",
-  "description": "The Wabbajack.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_magesguild_wabbajack.png",
-  "bindType": 3,
-  "knownIds": [
-    33235
-  ]
-}
+{"internalId":2263676639,"name":"Wabbajack","description":"The Wabbajack.","icon":"data/images/kc/aj/ab/quest_magesguild_wabbajack.png","bindType":3,"knownIds":[33235]}

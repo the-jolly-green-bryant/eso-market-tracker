@@ -1,10 +1,1 @@
-{
-  "internalId": 3548497607,
-  "name": "Breton Mug, Full",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_tankard001_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    121055
-  ]
-}
+{"internalId":3548497607,"name":"Breton Mug, Full","description":"This is a tiny house item.","icon":"data/images/yt/pm/e_/housing_bre_inc_tankard001_empty.png","bindType":-1,"knownIds":[121055]}

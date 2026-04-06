@@ -1,10 +1,1 @@
-{
-  "internalId": 2135002638,
-  "name": "Crafting Motif 124: The Recollection Boots",
-  "description": "Use to learn how to make the Recollection Boots. Also teaches the equivalent the Recollection Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203185
-  ]
-}
+{"internalId":2135002638,"name":"Crafting Motif 124: The Recollection Boots","description":"Use to learn how to make the Recollection Boots. Also teaches the equivalent the Recollection Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203185]}

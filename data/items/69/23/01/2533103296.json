@@ -1,10 +1,1 @@
-{
-  "internalId": 2533103296,
-  "name": "Seventh Legion's Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100925
-  ]
-}
+{"internalId":2533103296,"name":"Seventh Legion's Sabatons","description":"","icon":"data/images/d_/te/ef/gear_orc_heavy_feet_d.png","bindType":2,"knownIds":[100925]}

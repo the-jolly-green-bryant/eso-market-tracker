@@ -1,10 +1,1 @@
-{
-  "internalId": 2493482570,
-  "name": "Pattern: Wood Elf Canopy, Spine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115899
-  ]
-}
+{"internalId":2493482570,"name":"Pattern: Wood Elf Canopy, Spine","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115899]}

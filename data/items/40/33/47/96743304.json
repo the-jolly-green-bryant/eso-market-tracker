@@ -1,10 +1,1 @@
-{
-  "internalId": 96743304,
-  "name": "Druidic Bookcase, Tall Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drubookshelflow001.png",
-  "bindType": -1,
-  "knownIds": [
-    191178
-  ]
-}
+{"internalId":96743304,"name":"Druidic Bookcase, Tall Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drubookshelflow001.png","bindType":-1,"knownIds":[191178]}

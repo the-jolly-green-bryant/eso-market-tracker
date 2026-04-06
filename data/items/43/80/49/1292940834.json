@@ -1,10 +1,1 @@
-{
-  "internalId": 1292940834,
-  "name": "Briarheart Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_snowreach_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129841
-  ]
-}
+{"internalId":1292940834,"name":"Briarheart Arm Cops","description":"","icon":"data/images/a_/sr/ed/gear_snowreach_medium_shoulders_a.png","bindType":2,"knownIds":[129841]}

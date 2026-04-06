@@ -1,10 +1,1 @@
-{
-  "internalId": 3812295647,
-  "name": "Crafting Motif 88: Ancestral Orc Shields",
-  "description": "Use to learn how to make Ancestral Orc Shields. Also teaches the equivalent Ancestral Orc Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160621
-  ]
-}
+{"internalId":3812295647,"name":"Crafting Motif 88: Ancestral Orc Shields","description":"Use to learn how to make Ancestral Orc Shields. Also teaches the equivalent Ancestral Orc Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160621]}

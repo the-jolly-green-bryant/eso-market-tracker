@@ -1,10 +1,1 @@
-{
-  "internalId": 3692082236,
-  "name": "Daring Corsair's Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155752
-  ]
-}
+{"internalId":3692082236,"name":"Daring Corsair's Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[155752]}

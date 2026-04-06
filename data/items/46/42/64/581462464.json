@@ -1,10 +1,1 @@
-{
-  "internalId": 581462464,
-  "name": "Grandee's Alabaster Auspice Ibis",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_alabaster_ibis.png",
-  "bindType": -1,
-  "knownIds": [
-    860212
-  ]
-}
+{"internalId":581462464,"name":"Grandee's Alabaster Auspice Ibis","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_alabaster_ibis.png","bindType":-1,"knownIds":[860212]}

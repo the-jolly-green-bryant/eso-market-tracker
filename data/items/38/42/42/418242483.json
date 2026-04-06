@@ -1,10 +1,1 @@
-{
-  "internalId": 418242483,
-  "name": "Vampiric Bookcase, Short Filled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingvampirelabbookcasefilled001.png",
-  "bindType": -1,
-  "knownIds": [
-    165588
-  ]
-}
+{"internalId":418242483,"name":"Vampiric Bookcase, Short Filled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_housingvampirelabbookcasefilled001.png","bindType":-1,"knownIds":[165588]}

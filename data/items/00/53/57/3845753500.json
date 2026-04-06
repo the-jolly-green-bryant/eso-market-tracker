@@ -1,15 +1,1 @@
-{
-  "internalId": 3845753500,
-  "name": "Pyrebrand Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732997,
-    1735249,
-    1770326,
-    1732997,
-    1735249,
-    1770326
-  ]
-}
+{"internalId":3845753500,"name":"Pyrebrand Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_head_a.png","bindType":-1,"knownIds":[1732997,1735249,1770326,1732997,1735249,1770326]}

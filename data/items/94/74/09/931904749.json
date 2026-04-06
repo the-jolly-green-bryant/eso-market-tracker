@@ -1,10 +1,1 @@
-{
-  "internalId": 931904749,
-  "name": "Crafty Alfiq's Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_light_helmet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149405
-  ]
-}
+{"internalId":931904749,"name":"Crafty Alfiq's Hat","description":"","icon":"data/images/a_/te/ml/gear_pellitine_light_helmet_a.png","bindType":2,"knownIds":[149405]}

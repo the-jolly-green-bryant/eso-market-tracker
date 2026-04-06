@@ -1,10 +1,1 @@
-{
-  "internalId": 1151757073,
-  "name": "Cane Sickle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    1337803
-  ]
-}
+{"internalId":1151757073,"name":"Cane Sickle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png","bindType":-1,"knownIds":[1337803]}

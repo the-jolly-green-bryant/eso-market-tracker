@@ -1,10 +1,1 @@
-{
-  "internalId": 2042496083,
-  "name": "Sotha Sil Figurine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1322822
-  ]
-}
+{"internalId":2042496083,"name":"Sotha Sil Figurine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[1322822]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 551840141,
-  "name": "Mad Tinkerer's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133015
-  ]
-}
+{"internalId":551840141,"name":"Mad Tinkerer's Jerkin","description":"","icon":"data/images/a_/ts/eh/gear_apostle_light_chest_a.png","bindType":2,"knownIds":[133015]}

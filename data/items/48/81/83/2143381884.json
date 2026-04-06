@@ -1,10 +1,1 @@
-{
-  "internalId": 2143381884,
-  "name": "Indoril Sconce, Shrine",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlacandlesconce002.png",
-  "bindType": -1,
-  "knownIds": [
-    126491
-  ]
-}
+{"internalId":2143381884,"name":"Indoril Sconce, Shrine","description":"This is a small house item.","icon":"data/images/20/0e/cn/housing_vrd_lsb_hlacandlesconce002.png","bindType":-1,"knownIds":[126491]}

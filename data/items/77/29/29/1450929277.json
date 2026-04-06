@@ -1,10 +1,1 @@
-{
-  "internalId": 1450929277,
-  "name": "Windhelm Scale Tunic Design Folio",
-  "description": "Contains the Windhelm Scale Tunic, Shoulders, and Belt Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_treethane_niriels_living_plant_wear_book_set.png",
-  "bindType": 3,
-  "knownIds": [
-    160540
-  ]
-}
+{"internalId":1450929277,"name":"Windhelm Scale Tunic Design Folio","description":"Contains the Windhelm Scale Tunic, Shoulders, and Belt Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_treethane_niriels_living_plant_wear_book_set.png","bindType":3,"knownIds":[160540]}

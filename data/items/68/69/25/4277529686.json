@@ -1,17 +1,1 @@
-{
-  "internalId": 4277529686,
-  "name": "Firebrand Prayer Book",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    926951,
-    1543205,
-    926951,
-    1543205,
-    926951,
-    1543205,
-    926951,
-    1543205
-  ]
-}
+{"internalId":4277529686,"name":"Firebrand Prayer Book","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[926951,1543205,926951,1543205,926951,1543205,926951,1543205]}

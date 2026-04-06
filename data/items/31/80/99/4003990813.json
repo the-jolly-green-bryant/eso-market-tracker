@@ -1,10 +1,1 @@
-{
-  "internalId": 4003990813,
-  "name": "Ring of Iron Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    179607
-  ]
-}
+{"internalId":4003990813,"name":"Ring of Iron Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[179607]}

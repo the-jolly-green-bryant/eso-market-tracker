@@ -1,10 +1,1 @@
-{
-  "internalId": 515460194,
-  "name": "Diagram: Leyawiin Lantern, Stationary",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    175969
-  ]
-}
+{"internalId":515460194,"name":"Diagram: Leyawiin Lantern, Stationary","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[175969]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2112836649,
-  "name": "Exotic Medium Armor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54743
-  ]
-}
+{"internalId":2112836649,"name":"Exotic Medium Armor","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[54743]}

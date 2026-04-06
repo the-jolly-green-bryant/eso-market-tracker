@@ -1,10 +1,1 @@
-{
-  "internalId": 2852371408,
-  "name": "Dagger of the Arena",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56074
-  ]
-}
+{"internalId":2852371408,"name":"Dagger of the Arena","description":"","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[56074]}

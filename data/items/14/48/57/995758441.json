@@ -1,10 +1,1 @@
-{
-  "internalId": 995758441,
-  "name": "Cyrodiil Treasure Map XII",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43714
-  ]
-}
+{"internalId":995758441,"name":"Cyrodiil Treasure Map XII","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43714]}

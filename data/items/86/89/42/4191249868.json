@@ -1,10 +1,1 @@
-{
-  "internalId": 4191249868,
-  "name": "Design: Mortar and Pestle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png",
-  "bindType": -1,
-  "knownIds": [
-    121199
-  ]
-}
+{"internalId":4191249868,"name":"Design: Mortar and Pestle","description":"","icon":"data/images/5g/ni/no/crafting_planfurniture_provisioning5.png","bindType":-1,"knownIds":[121199]}

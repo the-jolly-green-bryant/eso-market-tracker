@@ -1,10 +1,1 @@
-{
-  "internalId": 3884597829,
-  "name": "Deadlands Carpet, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedrughi006.png",
-  "bindType": -1,
-  "knownIds": [
-    182262
-  ]
-}
+{"internalId":3884597829,"name":"Deadlands Carpet, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedrughi006.png","bindType":-1,"knownIds":[182262]}

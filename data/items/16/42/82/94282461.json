@@ -1,10 +1,1 @@
-{
-  "internalId": 94282461,
-  "name": "Inferno Staff of Hist Sap",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98848
-  ]
-}
+{"internalId":94282461,"name":"Inferno Staff of Hist Sap","description":"","icon":"data/images/d_/ff/at/gear_argonian_staff_d.png","bindType":2,"knownIds":[98848]}

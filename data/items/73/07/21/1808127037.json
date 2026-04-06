@@ -1,10 +1,1 @@
-{
-  "internalId": 1808127037,
-  "name": "Millet and Beef Stuffed Peppers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_vegetables.png",
-  "bindType": -1,
-  "knownIds": [
-    68234
-  ]
-}
+{"internalId":1808127037,"name":"Millet and Beef Stuffed Peppers","description":"","icon":"data/images/se/lb/at/crafting_cooking_grilled_vegetables.png","bindType":-1,"knownIds":[68234]}

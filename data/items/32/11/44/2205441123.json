@@ -1,10 +1,1 @@
-{
-  "internalId": 2205441123,
-  "name": "Diagram: Firesong Sculpture, Archdruid's Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    194390
-  ]
-}
+{"internalId":2205441123,"name":"Diagram: Firesong Sculpture, Archdruid's Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[194390]}

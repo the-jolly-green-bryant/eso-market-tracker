@@ -1,10 +1,1 @@
-{
-  "internalId": 3293417311,
-  "name": "Blueprint: Solitude Cabinet, Rustic Filled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166865
-  ]
-}
+{"internalId":3293417311,"name":"Blueprint: Solitude Cabinet, Rustic Filled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[166865]}

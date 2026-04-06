@@ -1,17 +1,1 @@
-{
-  "internalId": 535376370,
-  "name": "Umbral Edge Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1745248,
-    1746646,
-    1753219,
-    1779522,
-    1745248,
-    1746646,
-    1753219,
-    1779522
-  ]
-}
+{"internalId":535376370,"name":"Umbral Edge Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_feet_a.png","bindType":-1,"knownIds":[1745248,1746646,1753219,1779522,1745248,1746646,1753219,1779522]}

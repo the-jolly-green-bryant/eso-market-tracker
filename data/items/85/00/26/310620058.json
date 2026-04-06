@@ -1,10 +1,1 @@
-{
-  "internalId": 310620058,
-  "name": "Spellshredder Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219312
-  ]
-}
+{"internalId":310620058,"name":"Spellshredder Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png","bindType":2,"knownIds":[219312]}

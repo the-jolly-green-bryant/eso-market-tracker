@@ -1,10 +1,1 @@
-{
-  "internalId": 2176111767,
-  "name": "Herbal Antidote",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    792665
-  ]
-}
+{"internalId":2176111767,"name":"Herbal Antidote","description":"","icon":null,"bindType":-1,"knownIds":[792665]}

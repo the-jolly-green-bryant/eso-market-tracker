@@ -1,10 +1,1 @@
-{
-  "internalId": 1708404013,
-  "name": "Cleansed Water",
-  "description": "An Ingredient for crafting level 30 potions",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_water_3_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    23265
-  ]
-}
+{"internalId":1708404013,"name":"Cleansed Water","description":"An Ingredient for crafting level 30 potions","icon":"data/images/1r/_3/_r/crafting_potion_base_water_3_r1.png","bindType":-1,"knownIds":[23265]}

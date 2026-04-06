@@ -1,10 +1,1 @@
-{
-  "internalId": 1100284971,
-  "name": "Alinor Urn, Bronze",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_aldmervase007.png",
-  "bindType": -1,
-  "knownIds": [
-    139276
-  ]
-}
+{"internalId":1100284971,"name":"Alinor Urn, Bronze","description":"This is a standard house item.","icon":"data/images/70/0e/sa/housing_sum_duc_aldmervase007.png","bindType":-1,"knownIds":[139276]}

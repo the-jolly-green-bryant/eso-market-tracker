@@ -1,10 +1,1 @@
-{
-  "internalId": 1929025451,
-  "name": "Hlaalu Streetlamp, Paper",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlalamppost003.png",
-  "bindType": -1,
-  "knownIds": [
-    125573
-  ]
-}
+{"internalId":1929025451,"name":"Hlaalu Streetlamp, Paper","description":"This is a standard house item.","icon":"data/images/30/0t/so/housing_vrd_lsb_hlalamppost003.png","bindType":-1,"knownIds":[125573]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1749258878,
-  "name": "Gardener of Seasons Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1689152,
-    1716330,
-    1726487,
-    1689152,
-    1716330,
-    1726487
-  ]
-}
+{"internalId":1749258878,"name":"Gardener of Seasons Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_chest_a.png","bindType":-1,"knownIds":[1689152,1716330,1726487,1689152,1716330,1726487]}

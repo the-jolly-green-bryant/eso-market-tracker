@@ -1,10 +1,1 @@
-{
-  "internalId": 3489372874,
-  "name": "Makko",
-  "description": "Makko",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_023.png",
-  "bindType": -1,
-  "knownIds": [
-    45832
-  ]
-}
+{"internalId":3489372874,"name":"Makko","description":"Makko","icon":"data/images/32/0_/se/crafting_components_runestones_023.png","bindType":-1,"knownIds":[45832]}

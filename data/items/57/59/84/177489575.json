@@ -1,10 +1,1 @@
-{
-  "internalId": 177489575,
-  "name": "Glyph of Stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_armor_staminaboost.png",
-  "bindType": -1,
-  "knownIds": [
-    26588
-  ]
-}
+{"internalId":177489575,"name":"Glyph of Stamina","description":"","icon":"data/images/ts/oo/ba/enchantment_armor_staminaboost.png","bindType":-1,"knownIds":[26588]}

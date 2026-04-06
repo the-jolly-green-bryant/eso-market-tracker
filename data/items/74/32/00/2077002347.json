@@ -1,10 +1,1 @@
-{
-  "internalId": 2077002347,
-  "name": "Elsweyr Cage, Filigree",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_birdcage001.png",
-  "bindType": -1,
-  "knownIds": [
-    153657
-  ]
-}
+{"internalId":2077002347,"name":"Elsweyr Cage, Filigree","description":"This is a standard house item.","icon":"data/images/10/0e/ga/housing_els_inc_birdcage001.png","bindType":-1,"knownIds":[153657]}

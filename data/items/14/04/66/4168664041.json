@@ -1,11 +1,1 @@
-{
-  "internalId": 4168664041,
-  "name": "Staff of Magnus",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819828,
-    819828
-  ]
-}
+{"internalId":4168664041,"name":"Staff of Magnus","description":"","icon":null,"bindType":-1,"knownIds":[819828,819828]}

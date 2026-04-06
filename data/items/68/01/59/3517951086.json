@@ -1,10 +1,1 @@
-{
-  "internalId": 3517951086,
-  "name": "Imperial Hutch, Scrollwork",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_chinacabinet002.png",
-  "bindType": -1,
-  "knownIds": [
-    94141
-  ]
-}
+{"internalId":3517951086,"name":"Imperial Hutch, Scrollwork","description":"This is a large house item.","icon":"data/images/20/0t/en/housing_nib_fur_chinacabinet002.png","bindType":-1,"knownIds":[94141]}

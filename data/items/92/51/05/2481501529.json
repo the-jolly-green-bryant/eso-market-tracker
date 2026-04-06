@@ -1,10 +1,1 @@
-{
-  "internalId": 2481501529,
-  "name": "Apocrypha Statue, Lurker's Maw",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_libstatuemonster003.png",
-  "bindType": -1,
-  "knownIds": [
-    204628
-  ]
-}
+{"internalId":2481501529,"name":"Apocrypha Statue, Lurker's Maw","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_libstatuemonster003.png","bindType":-1,"knownIds":[204628]}

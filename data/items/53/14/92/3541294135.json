@@ -1,16 +1,1 @@
-{
-  "internalId": 3541294135,
-  "name": "Mora Scribe's Perfected Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_light_robe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1726316,
-    1732330,
-    1738525,
-    1741678,
-    1749711,
-    1761083,
-    1771234
-  ]
-}
+{"internalId":3541294135,"name":"Mora Scribe's Perfected Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_light_robe_a.png","bindType":-1,"knownIds":[1726316,1732330,1738525,1741678,1749711,1761083,1771234]}

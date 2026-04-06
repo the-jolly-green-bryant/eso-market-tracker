@@ -1,10 +1,1 @@
-{
-  "internalId": 1169720772,
-  "name": "Argonian Mat, Tidy Reed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_inc_matreed001.png",
-  "bindType": -1,
-  "knownIds": [
-    115454
-  ]
-}
+{"internalId":1169720772,"name":"Argonian Mat, Tidy Reed","description":"This is a standard house item.","icon":"data/images/10/0d/ee/housing_cra_inc_matreed001.png","bindType":-1,"knownIds":[115454]}

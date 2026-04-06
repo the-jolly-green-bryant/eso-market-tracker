@@ -1,10 +1,1 @@
-{
-  "internalId": 2483737541,
-  "name": "Bright-Throat's Boast Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_1hmace_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142750
-  ]
-}
+{"internalId":2483737541,"name":"Bright-Throat's Boast Mace","description":"","icon":"data/images/a_/ec/am/gear_elderarg_1hmace_a.png","bindType":2,"knownIds":[142750]}

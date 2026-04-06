@@ -1,10 +1,1 @@
-{
-  "internalId": 1053622947,
-  "name": "Crafting Motif 119: Blessed Inheritor Belts",
-  "description": "Use to learn how to make Blessed Inheritor Belts. Also teaches the equivalent Blessed Inheritor Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    190908
-  ]
-}
+{"internalId":1053622947,"name":"Crafting Motif 119: Blessed Inheritor Belts","description":"Use to learn how to make Blessed Inheritor Belts. Also teaches the equivalent Blessed Inheritor Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[190908]}

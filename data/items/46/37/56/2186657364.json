@@ -1,10 +1,1 @@
-{
-  "internalId": 2186657364,
-  "name": "Murkmire Pot, Handmade",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_mrkclaypottery001.png",
-  "bindType": -1,
-  "knownIds": [
-    145354
-  ]
-}
+{"internalId":2186657364,"name":"Murkmire Pot, Handmade","description":"This is a small house item.","icon":"data/images/10/0y/re/housing_arg_exc_mrkclaypottery001.png","bindType":-1,"knownIds":[145354]}

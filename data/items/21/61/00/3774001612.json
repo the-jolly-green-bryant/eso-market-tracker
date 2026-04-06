@@ -1,10 +1,1 @@
-{
-  "internalId": 3774001612,
-  "name": "Dagger of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167750
-  ]
-}
+{"internalId":3774001612,"name":"Dagger of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_dagger_a.png","bindType":2,"knownIds":[167750]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4184243253,
-  "name": "Elsweyr Runner, Lavish Floral",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_rugsmall004.png",
-  "bindType": -1,
-  "knownIds": [
-    151756
-  ]
-}
+{"internalId":4184243253,"name":"Elsweyr Runner, Lavish Floral","description":"This is a standard house item.","icon":"data/images/40/0l/la/housing_els_inc_rugsmall004.png","bindType":-1,"knownIds":[151756]}

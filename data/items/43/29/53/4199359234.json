@@ -1,11 +1,1 @@
-{
-  "internalId": 4199359234,
-  "name": "Moondial",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414169,
-    1414169
-  ]
-}
+{"internalId":4199359234,"name":"Moondial","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png","bindType":-1,"knownIds":[1414169,1414169]}

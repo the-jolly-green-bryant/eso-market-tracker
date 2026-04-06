@@ -1,10 +1,1 @@
-{
-  "internalId": 1059094290,
-  "name": "Orcish Dais, Raised",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_dungeonfloorraisedmedium001.png",
-  "bindType": -1,
-  "knownIds": [
-    134269
-  ]
-}
+{"internalId":1059094290,"name":"Orcish Dais, Raised","description":"This is a large house item.","icon":"data/images/10/0m/ui/housing_orc_duc_dungeonfloorraisedmedium001.png","bindType":-1,"knownIds":[134269]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1767560094,
-  "name": "Elegant Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94252
-  ]
-}
+{"internalId":1767560094,"name":"Elegant Epaulets","description":"","icon":"data/images/d_/sr/ed/gear_altmer_light_shoulders_d.png","bindType":2,"knownIds":[94252]}

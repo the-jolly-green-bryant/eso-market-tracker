@@ -1,10 +1,1 @@
-{
-  "internalId": 2952968241,
-  "name": "Alinor Maple, Sinuous",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_japanesemapleorange001.png",
-  "bindType": -1,
-  "knownIds": [
-    151866
-  ]
-}
+{"internalId":2952968241,"name":"Alinor Maple, Sinuous","description":"This is a large house item.","icon":"data/images/10/0e/gn/housing_tre_sum_japanesemapleorange001.png","bindType":-1,"knownIds":[151866]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1558983154,
-  "name": "Weapons: Draugr's Rest",
-  "description": "A Light Armor set found in Falkreath Hold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134205
-  ]
-}
+{"internalId":1558983154,"name":"Weapons: Draugr's Rest","description":"A Light Armor set found in Falkreath Hold.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134205]}

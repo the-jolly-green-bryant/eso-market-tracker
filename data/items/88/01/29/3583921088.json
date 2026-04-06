@@ -1,10 +1,1 @@
-{
-  "internalId": 3583921088,
-  "name": "Necklace of Cyrodiil's Light",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    91754
-  ]
-}
+{"internalId":3583921088,"name":"Necklace of Cyrodiil's Light","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[91754]}

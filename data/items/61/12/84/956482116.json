@@ -1,13 +1,1 @@
-{
-  "internalId": 956482116,
-  "name": "Aether Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    878173,
-    940454,
-    878173,
-    940454
-  ]
-}
+{"internalId":956482116,"name":"Aether Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_feet_a.png","bindType":-1,"knownIds":[878173,940454,878173,940454]}

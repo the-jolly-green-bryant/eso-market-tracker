@@ -1,10 +1,1 @@
-{
-  "internalId": 127506328,
-  "name": "Argonian Tarp, Woven",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_waterscoop001.png",
-  "bindType": -1,
-  "knownIds": [
-    115436
-  ]
-}
+{"internalId":127506328,"name":"Argonian Tarp, Woven","description":"This is a standard house item.","icon":"data/images/10/0p/oo/housing_arg_exc_waterscoop001.png","bindType":-1,"knownIds":[115436]}

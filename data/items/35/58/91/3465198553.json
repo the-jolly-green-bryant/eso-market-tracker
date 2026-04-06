@@ -1,17 +1,1 @@
-{
-  "internalId": 3465198553,
-  "name": "Siroria's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1311574,
-    1383205,
-    1464343,
-    1481804,
-    1311574,
-    1383205,
-    1464343,
-    1481804
-  ]
-}
+{"internalId":3465198553,"name":"Siroria's Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1311574,1383205,1464343,1481804,1311574,1383205,1464343,1481804]}

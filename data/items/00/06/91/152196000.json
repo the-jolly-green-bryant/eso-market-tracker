@@ -1,10 +1,1 @@
-{
-  "internalId": 152196000,
-  "name": "Necklace of the Twin Sisters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    92266
-  ]
-}
+{"internalId":152196000,"name":"Necklace of the Twin Sisters","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[92266]}

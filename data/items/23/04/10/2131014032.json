@@ -1,10 +1,1 @@
-{
-  "internalId": 2131014032,
-  "name": "Pot Pie, Display",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_potpie001.png",
-  "bindType": -1,
-  "knownIds": [
-    118109
-  ]
-}
+{"internalId":2131014032,"name":"Pot Pie, Display","description":"This is a tiny house item.","icon":"data/images/10/0e/ip/housing_bre_inc_potpie001.png","bindType":-1,"knownIds":[118109]}

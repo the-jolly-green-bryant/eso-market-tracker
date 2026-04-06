@@ -1,10 +1,1 @@
-{
-  "internalId": 731566732,
-  "name": "Snuffbox with Montclair Crest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484091
-  ]
-}
+{"internalId":731566732,"name":"Snuffbox with Montclair Crest","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[484091]}

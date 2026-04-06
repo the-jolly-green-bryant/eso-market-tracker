@@ -1,10 +1,1 @@
-{
-  "internalId": 2937622567,
-  "name": "Mace of Agility",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    69373
-  ]
-}
+{"internalId":2937622567,"name":"Mace of Agility","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[69373]}

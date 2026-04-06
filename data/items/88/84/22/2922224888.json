@@ -1,10 +1,1 @@
-{
-  "internalId": 2922224888,
-  "name": "Hew's Bane Crafted Sets",
-  "description": "Crafted Armor sets constructed in the Thieves Guild DLC.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182456
-  ]
-}
+{"internalId":2922224888,"name":"Hew's Bane Crafted Sets","description":"Crafted Armor sets constructed in the Thieves Guild DLC.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182456]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1503960696,
-  "name": "Glyph of Magicka Recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_magickaregen.png",
-  "bindType": -1,
-  "knownIds": [
-    26583
-  ]
-}
+{"internalId":1503960696,"name":"Glyph of Magicka Recovery","description":"","icon":"data/images/ne/ge/ra/enchantment_jewelry_magickaregen.png","bindType":-1,"knownIds":[26583]}

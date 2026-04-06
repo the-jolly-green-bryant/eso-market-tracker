@@ -1,10 +1,1 @@
-{
-  "internalId": 57393122,
-  "name": "Nedic Banner, Blood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_nedicbannerblood001.png",
-  "bindType": -1,
-  "knownIds": [
-    192575
-  ]
-}
+{"internalId":57393122,"name":"Nedic Banner, Blood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cra_lsb_nedicbannerblood001.png","bindType":-1,"knownIds":[192575]}

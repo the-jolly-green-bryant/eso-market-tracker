@@ -1,10 +1,1 @@
-{
-  "internalId": 3768270364,
-  "name": "Vastarie's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    149054
-  ]
-}
+{"internalId":3768270364,"name":"Vastarie's Helmet","description":"","icon":"data/images/d_/da/eh/gear_breton_medium_head_d.png","bindType":2,"knownIds":[149054]}

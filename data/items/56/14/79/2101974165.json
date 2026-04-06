@@ -1,10 +1,1 @@
-{
-  "internalId": 2101974165,
-  "name": "Necklace of Almalexia's Mercy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    90990
-  ]
-}
+{"internalId":2101974165,"name":"Necklace of Almalexia's Mercy","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[90990]}

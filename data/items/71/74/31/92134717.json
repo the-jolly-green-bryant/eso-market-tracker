@@ -1,10 +1,1 @@
-{
-  "internalId": 92134717,
-  "name": "Imperial Bed, Canopy",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_bedcanopy001.png",
-  "bindType": -1,
-  "knownIds": [
-    94195
-  ]
-}
+{"internalId":92134717,"name":"Imperial Bed, Canopy","description":"This is a large house item.","icon":"data/images/10/0y/po/housing_nib_fur_bedcanopy001.png","bindType":-1,"knownIds":[94195]}

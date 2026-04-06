@@ -1,10 +1,1 @@
-{
-  "internalId": 1251677120,
-  "name": "Survey Reports - Necrom",
-  "description": "A compendium of every survey report recorded in Necrom.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": 3,
-  "knownIds": [
-    198298
-  ]
-}
+{"internalId":1251677120,"name":"Survey Reports - Necrom","description":"A compendium of every survey report recorded in Necrom.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":3,"knownIds":[198298]}

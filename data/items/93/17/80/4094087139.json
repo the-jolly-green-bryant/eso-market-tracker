@@ -1,13 +1,1 @@
-{
-  "internalId": 4094087139,
-  "name": "Xanmeer Spellweaver Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764857,
-    1765203,
-    1764857,
-    1765203
-  ]
-}
+{"internalId":4094087139,"name":"Xanmeer Spellweaver Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_1haxe_a.png","bindType":-1,"knownIds":[1764857,1765203,1764857,1765203]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3248505873,
-  "name": "Black Marsh Cucumber",
-  "description": "A rare fish found only during the New Life Festival in Shadowfen. (This fish has little value beyond those celebrations.)",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_seacucumber.png",
-  "bindType": -1,
-  "knownIds": [
-    100395
-  ]
-}
+{"internalId":3248505873,"name":"Black Marsh Cucumber","description":"A rare fish found only during the New Life Festival in Shadowfen. (This fish has little value beyond those celebrations.)","icon":"data/images/re/bm/uc/crafting_fishing_seacucumber.png","bindType":-1,"knownIds":[100395]}

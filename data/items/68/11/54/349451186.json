@@ -1,17 +1,1 @@
-{
-  "internalId": 349451186,
-  "name": "Xoryn's Perfected Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765897,
-    1767981,
-    1765897,
-    1767981,
-    1765897,
-    1767981,
-    1765897,
-    1767981
-  ]
-}
+{"internalId":349451186,"name":"Xoryn's Perfected Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1haxe_a.png","bindType":-1,"knownIds":[1765897,1767981,1765897,1767981,1765897,1767981,1765897,1767981]}

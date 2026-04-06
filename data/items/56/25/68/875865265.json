@@ -1,10 +1,1 @@
-{
-  "internalId": 875865265,
-  "name": "Thorncaster's Lava Staff",
-  "description": "Scarred from the claws of many Faun spellcasters, this staff gives off a great deal of heat. Still connected in some way to the raging inferno beneath Galen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191220
-  ]
-}
+{"internalId":875865265,"name":"Thorncaster's Lava Staff","description":"Scarred from the claws of many Faun spellcasters, this staff gives off a great deal of heat. Still connected in some way to the raging inferno beneath Galen.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png","bindType":2,"knownIds":[191220]}

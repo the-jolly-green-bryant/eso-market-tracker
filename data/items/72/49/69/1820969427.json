@@ -1,10 +1,1 @@
-{
-  "internalId": 1820969427,
-  "name": "Hallin's Stand Silver Platter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851638
-  ]
-}
+{"internalId":1820969427,"name":"Hallin's Stand Silver Platter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[851638]}

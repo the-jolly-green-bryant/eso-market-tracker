@@ -1,10 +1,1 @@
-{
-  "internalId": 507328010,
-  "name": "Letter of Introduction",
-  "description": "A letter from Forge-Mother Alga of Orsinium inviting you to come assist in Wrothgar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    71024
-  ]
-}
+{"internalId":507328010,"name":"Letter of Introduction","description":"A letter from Forge-Mother Alga of Orsinium inviting you to come assist in Wrothgar.","icon":"data/images/10/0_/re/quest_letter_001.png","bindType":-1,"knownIds":[71024]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4120345076,
-  "name": "Caramelized Goat Nibbles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33919
-  ]
-}
+{"internalId":4120345076,"name":"Caramelized Goat Nibbles","description":"","icon":"data/images/10/0_/te/crafting_skillet_001.png","bindType":-1,"knownIds":[33919]}

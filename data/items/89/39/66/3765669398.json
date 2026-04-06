@@ -1,10 +1,1 @@
-{
-  "internalId": 3765669398,
-  "name": "Changing Room, Curtained",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_transmogbooth001.png",
-  "bindType": -1,
-  "knownIds": [
-    171415
-  ]
-}
+{"internalId":3765669398,"name":"Changing Room, Curtained","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_transmogbooth001.png","bindType":-1,"knownIds":[171415]}

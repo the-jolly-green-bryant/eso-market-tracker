@@ -1,13 +1,1 @@
-{
-  "internalId": 3933847848,
-  "name": "Necklace of Sardavar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    675969,
-    899434,
-    675969,
-    899434
-  ]
-}
+{"internalId":3933847848,"name":"Necklace of Sardavar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[675969,899434,675969,899434]}

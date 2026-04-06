@@ -1,10 +1,1 @@
-{
-  "internalId": 4281992094,
-  "name": "High Isle Trapdoor, Turquoise",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinglighthousetrapdoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    189498
-  ]
-}
+{"internalId":4281992094,"name":"High Isle Trapdoor, Turquoise","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinglighthousetrapdoor001.png","bindType":-1,"knownIds":[189498]}

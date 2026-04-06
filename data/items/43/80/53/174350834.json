@@ -1,10 +1,1 @@
-{
-  "internalId": 174350834,
-  "name": "Restoration Staff of Winter's Respite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_staff.png",
-  "bindType": 2,
-  "knownIds": [
-    160808
-  ]
-}
+{"internalId":174350834,"name":"Restoration Staff of Winter's Respite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachex_staff.png","bindType":2,"knownIds":[160808]}

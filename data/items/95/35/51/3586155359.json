@@ -1,17 +1,1 @@
-{
-  "internalId": 3586155359,
-  "name": "Tarnished Nightmare Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_medium_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1702090,
-    1702828,
-    1704096,
-    1716066,
-    1717859,
-    1717976,
-    1728780,
-    1732149
-  ]
-}
+{"internalId":3586155359,"name":"Tarnished Nightmare Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_medium_feet_a.png","bindType":-1,"knownIds":[1702090,1702828,1704096,1716066,1717859,1717976,1728780,1732149]}

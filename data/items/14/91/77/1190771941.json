@@ -1,10 +1,1 @@
-{
-  "internalId": 1190771941,
-  "name": "Spotless Goods Signet Stamp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1095468
-  ]
-}
+{"internalId":1190771941,"name":"Spotless Goods Signet Stamp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png","bindType":-1,"knownIds":[1095468]}

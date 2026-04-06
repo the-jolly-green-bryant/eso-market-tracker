@@ -1,13 +1,1 @@
-{
-  "internalId": 1479523864,
-  "name": "Xoryn's Perfected Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720440,
-    1734397,
-    1720440,
-    1734397
-  ]
-}
+{"internalId":1479523864,"name":"Xoryn's Perfected Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png","bindType":-1,"knownIds":[1720440,1734397,1720440,1734397]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 91349435,
-  "name": "Design: Alinor Amphora, Slender",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    139596
-  ]
-}
+{"internalId":91349435,"name":"Design: Alinor Amphora, Slender","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[139596]}

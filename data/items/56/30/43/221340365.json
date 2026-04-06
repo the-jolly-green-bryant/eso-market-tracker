@@ -1,10 +1,1 @@
-{
-  "internalId": 221340365,
-  "name": "Blueprint: Elsweyr Nightstand, Wooden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    152059
-  ]
-}
+{"internalId":221340365,"name":"Blueprint: Elsweyr Nightstand, Wooden","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[152059]}

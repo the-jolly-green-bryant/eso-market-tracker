@@ -1,10 +1,1 @@
-{
-  "internalId": 607988662,
-  "name": "Wizard's Riposte Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123882
-  ]
-}
+{"internalId":607988662,"name":"Wizard's Riposte Shield","description":"","icon":"data/images/a_/dl/ei/gear_ordinator_shield_a.png","bindType":2,"knownIds":[123882]}

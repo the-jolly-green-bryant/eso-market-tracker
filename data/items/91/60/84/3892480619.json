@@ -1,10 +1,1 @@
-{
-  "internalId": 3892480619,
-  "name": "Miscellaneous Furnishing Recipe Book",
-  "description": "A scrapbook containing notes from a reclusive collector. Reading it teaches all Miscellaneous Furniture Recipes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color1.png",
-  "bindType": -1,
-  "knownIds": [
-    214289
-  ]
-}
+{"internalId":3892480619,"name":"Miscellaneous Furnishing Recipe Book","description":"A scrapbook containing notes from a reclusive collector. Reading it teaches all Miscellaneous Furniture Recipes.","icon":"https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color1.png","bindType":-1,"knownIds":[214289]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2154687315,
-  "name": "Mythic Items (Gold Road)",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1767942
-  ]
-}
+{"internalId":2154687315,"name":"Mythic Items (Gold Road)","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1767942]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3798115141,
-  "name": "Blueprint: Colovian Wine Press",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    212562
-  ]
-}
+{"internalId":3798115141,"name":"Blueprint: Colovian Wine Press","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[212562]}

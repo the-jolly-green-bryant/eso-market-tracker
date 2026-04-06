@@ -1,13 +1,1 @@
-{
-  "internalId": 1993589284,
-  "name": "Perfected Test of Resolve Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1647276,
-    1657175,
-    1647276,
-    1657175
-  ]
-}
+{"internalId":1993589284,"name":"Perfected Test of Resolve Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1647276,1657175,1647276,1657175]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2408755540,
-  "name": "Orcish Chair, Peaked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgchair001.png",
-  "bindType": -1,
-  "knownIds": [
-    116419
-  ]
-}
+{"internalId":2408755540,"name":"Orcish Chair, Peaked","description":"This is a standard house item.","icon":"data/images/10/0r/ia/housing_orc_duc_wtgchair001.png","bindType":-1,"knownIds":[116419]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3098048275,
-  "name": "Crafting Motif 130: Exile's Revenge Style",
-  "description": "Use to learn the Exile's Revenge crafting style. Also teaches the equivalent Exile's Revenge Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    211054
-  ]
-}
+{"internalId":3098048275,"name":"Crafting Motif 130: Exile's Revenge Style","description":"Use to learn the Exile's Revenge crafting style. Also teaches the equivalent Exile's Revenge Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[211054]}

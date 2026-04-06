@@ -1,10 +1,1 @@
-{
-  "internalId": 2988051533,
-  "name": "Blueprint: Leyawiin Table, Sturdy Round",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    175946
-  ]
-}
+{"internalId":2988051533,"name":"Blueprint: Leyawiin Table, Sturdy Round","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[175946]}

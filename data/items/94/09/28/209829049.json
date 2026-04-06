@@ -1,10 +1,1 @@
-{
-  "internalId": 209829049,
-  "name": "Elsweyr Lightpost, Ancient Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_ruinlamppost001.png",
-  "bindType": -1,
-  "knownIds": [
-    151732
-  ]
-}
+{"internalId":209829049,"name":"Elsweyr Lightpost, Ancient Stone","description":"This is a standard house item.","icon":"data/images/10/0t/so/housing_els_lsb_ruinlamppost001.png","bindType":-1,"knownIds":[151732]}

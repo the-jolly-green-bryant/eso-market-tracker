@@ -1,10 +1,1 @@
-{
-  "internalId": 106191023,
-  "name": "Distilled Slowsilver",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_mirrorsheen_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    114983
-  ]
-}
+{"internalId":106191023,"name":"Distilled Slowsilver","description":"","icon":"data/images/2r/_n/ee/crafting_style_item_mirrorsheen_r2.png","bindType":-1,"knownIds":[114983]}

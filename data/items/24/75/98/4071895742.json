@@ -1,10 +1,1 @@
-{
-  "internalId": 4071895742,
-  "name": "Deathclaw Talon",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    791676
-  ]
-}
+{"internalId":4071895742,"name":"Deathclaw Talon","description":"","icon":null,"bindType":-1,"knownIds":[791676]}

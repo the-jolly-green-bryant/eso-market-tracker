@@ -1,13 +1,1 @@
-{
-  "internalId": 3509651714,
-  "name": "Siroria's Perfected Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_staff_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1341654,
-    1383975,
-    1551695,
-    1716389
-  ]
-}
+{"internalId":3509651714,"name":"Siroria's Perfected Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_staff_001.png","bindType":-1,"knownIds":[1341654,1383975,1551695,1716389]}

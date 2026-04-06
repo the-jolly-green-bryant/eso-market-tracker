@@ -1,10 +1,1 @@
-{
-  "internalId": 4006580511,
-  "name": "Elsweyr Comb, Grooming",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_comb001.png",
-  "bindType": -1,
-  "knownIds": [
-    151889
-  ]
-}
+{"internalId":4006580511,"name":"Elsweyr Comb, Grooming","description":"This is a tiny house item.","icon":"data/images/10/0b/mo/housing_els_inc_comb001.png","bindType":-1,"knownIds":[151889]}

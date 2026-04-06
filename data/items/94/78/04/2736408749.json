@@ -1,10 +1,1 @@
-{
-  "internalId": 2736408749,
-  "name": "Fargrave Bread, Baguettes",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodbaguette001.png",
-  "bindType": -1,
-  "knownIds": [
-    182232
-  ]
-}
+{"internalId":2736408749,"name":"Fargrave Bread, Baguettes","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodbaguette001.png","bindType":-1,"knownIds":[182232]}

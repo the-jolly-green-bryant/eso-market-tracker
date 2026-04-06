@@ -1,10 +1,1 @@
-{
-  "internalId": 3990402201,
-  "name": "Coward's Gear Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123497
-  ]
-}
+{"internalId":3990402201,"name":"Coward's Gear Bow","description":"","icon":"data/images/a_/wo/b_/gear_ordinator_bow_a.png","bindType":2,"knownIds":[123497]}

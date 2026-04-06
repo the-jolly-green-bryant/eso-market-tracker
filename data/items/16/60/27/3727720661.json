@@ -1,10 +1,1 @@
-{
-  "internalId": 3727720661,
-  "name": "Nutrient Pellets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1422593
-  ]
-}
+{"internalId":3727720661,"name":"Nutrient Pellets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[1422593]}

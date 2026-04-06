@@ -1,10 +1,1 @@
-{
-  "internalId": 3944524991,
-  "name": "Battle Axe of Shared Pain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    210681
-  ]
-}
+{"internalId":3944524991,"name":"Battle Axe of Shared Pain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[210681]}

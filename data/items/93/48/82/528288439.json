@@ -1,10 +1,1 @@
-{
-  "internalId": 528288439,
-  "name": "Waxed Leatherworker's Parcel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1240877
-  ]
-}
+{"internalId":528288439,"name":"Waxed Leatherworker's Parcel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[1240877]}

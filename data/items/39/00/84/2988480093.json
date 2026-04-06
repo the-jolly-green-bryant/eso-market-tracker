@@ -1,10 +1,1 @@
-{
-  "internalId": 2988480093,
-  "name": "Recipe: Gilane Garlicky Greens",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45917
-  ]
-}
+{"internalId":2988480093,"name":"Recipe: Gilane Garlicky Greens","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45917]}

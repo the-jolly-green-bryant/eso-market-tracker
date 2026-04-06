@@ -1,10 +1,1 @@
-{
-  "internalId": 1617972251,
-  "name": "Recipe: Sun-Dried Caravan Provisions",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45706
-  ]
-}
+{"internalId":1617972251,"name":"Recipe: Sun-Dried Caravan Provisions","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45706]}

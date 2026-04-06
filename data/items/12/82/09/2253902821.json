@@ -1,10 +1,1 @@
-{
-  "internalId": 2253902821,
-  "name": "Praxis: Deadlands Wall, Short Curved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    183203
-  ]
-}
+{"internalId":2253902821,"name":"Praxis: Deadlands Wall, Short Curved","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[183203]}

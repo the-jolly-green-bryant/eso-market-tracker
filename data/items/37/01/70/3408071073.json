@@ -1,10 +1,1 @@
-{
-  "internalId": 3408071073,
-  "name": "Imperial Bar, Cabinet",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_merchantcountersmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    94172
-  ]
-}
+{"internalId":3408071073,"name":"Imperial Bar, Cabinet","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_nib_fur_merchantcountersmall001.png","bindType":-1,"knownIds":[94172]}

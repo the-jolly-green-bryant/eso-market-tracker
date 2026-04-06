@@ -1,10 +1,1 @@
-{
-  "internalId": 76688948,
-  "name": "Mushroom, Lavaburster",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdbrittsold003.png",
-  "bindType": -1,
-  "knownIds": [
-    125592
-  ]
-}
+{"internalId":76688948,"name":"Mushroom, Lavaburster","description":"This is a tiny house item.","icon":"data/images/30/0d/lo/housing_veg_fug_vrdbrittsold003.png","bindType":-1,"knownIds":[125592]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4094617082,
-  "name": "Diagram: Redguard Candleholder, Practical",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    119158
-  ]
-}
+{"internalId":4094617082,"name":"Diagram: Redguard Candleholder, Practical","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[119158]}

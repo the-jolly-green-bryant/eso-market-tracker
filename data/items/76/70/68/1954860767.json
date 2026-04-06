@@ -1,10 +1,1 @@
-{
-  "internalId": 1954860767,
-  "name": "Diagram: Clockwork Scales, Precision Calibrated",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    134528
-  ]
-}
+{"internalId":1954860767,"name":"Diagram: Clockwork Scales, Precision Calibrated","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[134528]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4186149427,
-  "name": "Elinhir Qishr",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wooden_flask_002.png",
-  "bindType": -1,
-  "knownIds": [
-    34008
-  ]
-}
+{"internalId":4186149427,"name":"Elinhir Qishr","description":"","icon":"data/images/20/0_/ks/crafting_wooden_flask_002.png","bindType":-1,"knownIds":[34008]}

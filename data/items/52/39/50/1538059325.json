@@ -1,10 +1,1 @@
-{
-  "internalId": 1538059325,
-  "name": "Miniature Ordinator Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mask_full_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150908
-  ]
-}
+{"internalId":1538059325,"name":"Miniature Ordinator Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mask_full_001.png","bindType":-1,"knownIds":[1150908]}

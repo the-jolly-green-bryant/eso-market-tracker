@@ -1,10 +1,1 @@
-{
-  "internalId": 3607056297,
-  "name": "Shield of The Shadow Dancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    75052
-  ]
-}
+{"internalId":3607056297,"name":"Shield of The Shadow Dancer","description":"","icon":"data/images/a_/dl/ei/gear_thievesguildv2_shield_a.png","bindType":2,"knownIds":[75052]}

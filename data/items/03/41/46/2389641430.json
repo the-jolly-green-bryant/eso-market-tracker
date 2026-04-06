@@ -1,10 +1,1 @@
-{
-  "internalId": 2389641430,
-  "name": "Battle Axe of Durok's Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    88312
-  ]
-}
+{"internalId":2389641430,"name":"Battle Axe of Durok's Bane","description":"","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[88312]}

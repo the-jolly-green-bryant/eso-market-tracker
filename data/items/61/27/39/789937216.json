@@ -1,10 +1,1 @@
-{
-  "internalId": 789937216,
-  "name": "Glacial Staff of Nomeg Haga",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44249
-  ]
-}
+{"internalId":789937216,"name":"Glacial Staff of Nomeg Haga","description":"","icon":"data/images/a_/ff/at/gear_draugr_staff_a.png","bindType":2,"knownIds":[44249]}

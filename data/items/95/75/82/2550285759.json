@@ -1,10 +1,1 @@
-{
-  "internalId": 2550285759,
-  "name": "Crafting Motif 121: Clan Dreamcarver Legs",
-  "description": "Use to learn how to make Clan Dreamcarver Legs. Also teaches the equivalent Clan Dreamcarver Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    194501
-  ]
-}
+{"internalId":2550285759,"name":"Crafting Motif 121: Clan Dreamcarver Legs","description":"Use to learn how to make Clan Dreamcarver Legs. Also teaches the equivalent Clan Dreamcarver Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[194501]}

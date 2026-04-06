@@ -1,10 +1,1 @@
-{
-  "internalId": 2214956377,
-  "name": "Blueprint: Rough Box, Boarded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_1.png",
-  "bindType": -1,
-  "knownIds": [
-    119344
-  ]
-}
+{"internalId":2214956377,"name":"Blueprint: Rough Box, Boarded","description":"","icon":"data/images/1_/gn/ik/crafting_planfurniture_woodworking_1.png","bindType":-1,"knownIds":[119344]}

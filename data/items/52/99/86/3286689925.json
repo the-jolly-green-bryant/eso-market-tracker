@@ -1,10 +1,1 @@
-{
-  "internalId": 3286689925,
-  "name": "Solitude Serving Dish, Wood",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_kitchenplates001.png",
-  "bindType": -1,
-  "knownIds": [
-    165766
-  ]
-}
+{"internalId":3286689925,"name":"Solitude Serving Dish, Wood","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_kitchenplates001.png","bindType":-1,"knownIds":[165766]}

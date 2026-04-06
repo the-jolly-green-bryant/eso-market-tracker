@@ -1,10 +1,1 @@
-{
-  "internalId": 1881877402,
-  "name": "Cursebreaker's Staff",
-  "description": "A staff of familiar-looking wood. Perhaps given, or taken, from one of the cursed in Faun's Thicket.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191222
-  ]
-}
+{"internalId":1881877402,"name":"Cursebreaker's Staff","description":"A staff of familiar-looking wood. Perhaps given, or taken, from one of the cursed in Faun's Thicket.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[191222]}

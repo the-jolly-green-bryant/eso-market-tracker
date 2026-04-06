@@ -1,10 +1,1 @@
-{
-  "internalId": 1372091594,
-  "name": "Varieties of Faith: the Bretons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
-  "bindType": -1,
-  "knownIds": [
-    1140203
-  ]
-}
+{"internalId":1372091594,"name":"Varieties of Faith: the Bretons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png","bindType":-1,"knownIds":[1140203]}

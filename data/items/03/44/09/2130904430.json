@@ -1,10 +1,1 @@
-{
-  "internalId": 2130904430,
-  "name": "Maple Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    223652
-  ]
-}
+{"internalId":2130904430,"name":"Maple Lightning Staff","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":-1,"knownIds":[56036]}

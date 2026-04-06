@@ -1,10 +1,1 @@
-{
-  "internalId": 2032919198,
-  "name": "Research Scroll, Clothing, 1 Day",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_researchscroll_clothier.png",
-  "bindType": -1,
-  "knownIds": [
-    125474
-  ]
-}
+{"internalId":2032919198,"name":"Research Scroll, Clothing, 1 Day","description":"","icon":"data/images/re/ih/to/crafting_researchscroll_clothier.png","bindType":-1,"knownIds":[125474]}

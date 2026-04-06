@@ -1,17 +1,1 @@
-{
-  "internalId": 3448637352,
-  "name": "ebon maul of flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    743151,
-    523178,
-    684870,
-    685749,
-    743151,
-    523178,
-    684870,
-    685749
-  ]
-}
+{"internalId":3448637352,"name":"ebon maul of flame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":-1,"knownIds":[743151,523178,684870,685749,743151,523178,684870,685749]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3246145685,
-  "name": "Acai Dry Mazte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33669
-  ]
-}
+{"internalId":3246145685,"name":"Acai Dry Mazte","description":"","icon":"data/images/20/0_/el/crafting_stoneware_bottle_002.png","bindType":-1,"knownIds":[33669]}

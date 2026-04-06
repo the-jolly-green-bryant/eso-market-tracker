@@ -1,10 +1,1 @@
-{
-  "internalId": 1043678386,
-  "name": "Light and Shadow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_skullcandle001.png",
-  "bindType": -1,
-  "knownIds": [
-    1188818
-  ]
-}
+{"internalId":1043678386,"name":"Light and Shadow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_skullcandle001.png","bindType":-1,"knownIds":[1188818]}

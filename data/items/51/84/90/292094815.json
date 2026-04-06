@@ -1,10 +1,1 @@
-{
-  "internalId": 292094815,
-  "name": "Formula: Murkmire Lamp, Hanging Bottle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    145982
-  ]
-}
+{"internalId":292094815,"name":"Formula: Murkmire Lamp, Hanging Bottle","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[145982]}

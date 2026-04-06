@@ -1,10 +1,1 @@
-{
-  "internalId": 4279586782,
-  "name": "Dekeipa",
-  "description": "Dekeipa",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_017.png",
-  "bindType": -1,
-  "knownIds": [
-    45839
-  ]
-}
+{"internalId":4279586782,"name":"Dekeipa","description":"Dekeipa","icon":"data/images/71/0_/se/crafting_components_runestones_017.png","bindType":-1,"knownIds":[45839]}

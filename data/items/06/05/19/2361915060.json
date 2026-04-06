@@ -1,10 +1,1 @@
-{
-  "internalId": 2361915060,
-  "name": "The Whithering of Delodiil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199238
-  ]
-}
+{"internalId":2361915060,"name":"The Whithering of Delodiil","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1199238]}

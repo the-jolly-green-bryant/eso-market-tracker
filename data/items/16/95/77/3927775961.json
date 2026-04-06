@@ -1,10 +1,1 @@
-{
-  "internalId": 3927775961,
-  "name": "Recipe: Shepherd's Pie",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45658
-  ]
-}
+{"internalId":3927775961,"name":"Recipe: Shepherd's Pie","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45658]}

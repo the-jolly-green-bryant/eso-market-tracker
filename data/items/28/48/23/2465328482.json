@@ -1,10 +1,1 @@
-{
-  "internalId": 2465328482,
-  "name": "Jerall Mountains Warchief's Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_highborngallant_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1725393
-  ]
-}
+{"internalId":2465328482,"name":"Jerall Mountains Warchief's Pauldron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_highborngallant_shoulders_a.png","bindType":-1,"knownIds":[1725393]}

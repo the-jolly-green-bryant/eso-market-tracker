@@ -1,10 +1,1 @@
-{
-  "internalId": 1468112587,
-  "name": "Book Pile, Vertical Levitating",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_bobbingbooks002.png",
-  "bindType": -1,
-  "knownIds": [
-    197745
-  ]
-}
+{"internalId":1468112587,"name":"Book Pile, Vertical Levitating","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_exc_bobbingbooks002.png","bindType":-1,"knownIds":[197745]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 963207709,
-  "name": "Blueprint: Worm Cult Mill, Grinding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    223605
-  ]
-}
+{"internalId":963207709,"name":"Blueprint: Worm Cult Mill, Grinding","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[223605]}

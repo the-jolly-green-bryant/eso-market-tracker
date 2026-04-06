@@ -1,10 +1,1 @@
-{
-  "internalId": 1614912580,
-  "name": "Crafting Station Crate",
-  "description": "This crate is full of crafting stations that can be placed in the home.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    192377
-  ]
-}
+{"internalId":1614912580,"name":"Crafting Station Crate","description":"This crate is full of crafting stations that can be placed in the home.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[192377]}

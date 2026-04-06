@@ -1,13 +1,1 @@
-{
-  "internalId": 2741042525,
-  "name": "Midnight Union Disguise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    428946,
-    1447272,
-    428946,
-    1447272
-  ]
-}
+{"internalId":2741042525,"name":"Midnight Union Disguise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[428946,1447272,428946,1447272]}

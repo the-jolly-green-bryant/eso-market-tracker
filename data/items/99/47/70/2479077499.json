@@ -1,15 +1,1 @@
-{
-  "internalId": 2479077499,
-  "name": "Peace and Serenity Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1652189,
-    1762366,
-    1763847,
-    1652189,
-    1762366,
-    1763847
-  ]
-}
+{"internalId":2479077499,"name":"Peace and Serenity Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png","bindType":-1,"knownIds":[1652189,1762366,1763847,1652189,1762366,1763847]}

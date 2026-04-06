@@ -1,10 +1,1 @@
-{
-  "internalId": 1779383185,
-  "name": "Mistwalker's Cord",
-  "description": "This belt slips around your waist like a cold breath of wind, barely noticeable.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10897
-  ]
-}
+{"internalId":1779383185,"name":"Mistwalker's Cord","description":"This belt slips around your waist like a cold breath of wind, barely noticeable.","icon":"data/images/d_/ts/ia/gear_bosmer_light_waist_d.png","bindType":2,"knownIds":[10897]}

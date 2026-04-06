@@ -1,10 +1,1 @@
-{
-  "internalId": 33120388,
-  "name": "Imperial Bed, Double",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_bedfull001.png",
-  "bindType": -1,
-  "knownIds": [
-    94134
-  ]
-}
+{"internalId":33120388,"name":"Imperial Bed, Double","description":"This is a large house item.","icon":"data/images/10/0l/lu/housing_nib_fur_bedfull001.png","bindType":-1,"knownIds":[94134]}

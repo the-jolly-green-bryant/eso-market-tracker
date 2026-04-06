@@ -1,10 +1,1 @@
-{
-  "internalId": 2350887246,
-  "name": "Shutters, Blue Double",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varshutterslow002.png",
-  "bindType": -1,
-  "knownIds": [
-    118170
-  ]
-}
+{"internalId":2350887246,"name":"Shutters, Blue Double","description":"This is a standard house item.","icon":"data/images/20/0w/ol/housing_red_str_varshutterslow002.png","bindType":-1,"knownIds":[118170]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 630982096,
-  "name": "Iron Legs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    28266
-  ]
-}
+{"internalId":630982096,"name":"Iron Legs","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[28266]}

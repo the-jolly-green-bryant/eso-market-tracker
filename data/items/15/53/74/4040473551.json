@@ -1,10 +1,1 @@
-{
-  "internalId": 4040473551,
-  "name": "Altmer Travel Mug",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png",
-  "bindType": -1,
-  "knownIds": [
-    799299
-  ]
-}
+{"internalId":4040473551,"name":"Altmer Travel Mug","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png","bindType":-1,"knownIds":[799299]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2824018797,
-  "name": "Crown Experience Scroll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_experiencescroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1186840
-  ]
-}
+{"internalId":2824018797,"name":"Crown Experience Scroll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/store_experiencescroll_001.png","bindType":-1,"knownIds":[1186840]}

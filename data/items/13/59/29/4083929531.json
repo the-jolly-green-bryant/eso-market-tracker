@@ -1,10 +1,1 @@
-{
-  "internalId": 4083929531,
-  "name": "Tree, Towering Mountain Pine",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_emwhitepine003.png",
-  "bindType": -1,
-  "knownIds": [
-    132206
-  ]
-}
+{"internalId":4083929531,"name":"Tree, Towering Mountain Pine","description":"This is a huge house item.","icon":"data/images/30/0e/ni/housing_tre_eve_emwhitepine003.png","bindType":-1,"knownIds":[132206]}

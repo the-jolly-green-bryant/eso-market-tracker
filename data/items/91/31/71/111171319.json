@@ -1,10 +1,1 @@
-{
-  "internalId": 111171319,
-  "name": "Metallic: the Butcher's Cleaver",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2613.png",
-  "bindType": -1,
-  "knownIds": [
-    1187148
-  ]
-}
+{"internalId":111171319,"name":"Metallic: the Butcher's Cleaver","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2613.png","bindType":-1,"knownIds":[1187148]}

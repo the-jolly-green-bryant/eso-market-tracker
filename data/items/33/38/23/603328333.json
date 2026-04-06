@@ -1,10 +1,1 @@
-{
-  "internalId": 603328333,
-  "name": "Tree, Leaning Swamp",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkmoorsswamp005.png",
-  "bindType": -1,
-  "knownIds": [
-    120748
-  ]
-}
+{"internalId":603328333,"name":"Tree, Leaning Swamp","description":"This is a huge house item.","icon":"data/images/50/0p/ma/housing_tre_trp_mrkmoorsswamp005.png","bindType":-1,"knownIds":[120748]}

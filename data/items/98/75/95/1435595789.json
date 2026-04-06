@@ -1,10 +1,1 @@
-{
-  "internalId": 1435595789,
-  "name": "Blueprint: Colovian Bookcase, Noble Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    207824
-  ]
-}
+{"internalId":1435595789,"name":"Blueprint: Colovian Bookcase, Noble Small","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[207824]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1846166535,
-  "name": "Maul of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172101
-  ]
-}
+{"internalId":1846166535,"name":"Maul of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_2hhammer_a.png","bindType":2,"knownIds":[172101]}

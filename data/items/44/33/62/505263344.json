@@ -1,10 +1,1 @@
-{
-  "internalId": 505263344,
-  "name": "Adrahawn's Vine-Slicer",
-  "description": "An axe coated with a unique concoction, making its blade corrosive to organic material. Although originally intended for cutting through thick vines, it works fine against plants, minerals, and animals.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    174839
-  ]
-}
+{"internalId":505263344,"name":"Adrahawn's Vine-Slicer","description":"An axe coated with a unique concoction, making its blade corrosive to organic material. Although originally intended for cutting through thick vines, it works fine against plants, minerals, and animals.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png","bindType":2,"knownIds":[174839]}

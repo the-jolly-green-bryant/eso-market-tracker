@@ -1,10 +1,1 @@
-{
-  "internalId": 1501610459,
-  "name": "Leyawiin Tapestry, Floral",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leycathedraltapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    175601
-  ]
-}
+{"internalId":1501610459,"name":"Leyawiin Tapestry, Floral","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leycathedraltapestry001.png","bindType":-1,"knownIds":[175601]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1258208464,
-  "name": "Crafting Motif 68: Honor Guard Legs",
-  "description": "Use to learn how to make Honor Guard Legs. Also teaches the equivalent Honor Guard outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    142195
-  ]
-}
+{"internalId":1258208464,"name":"Crafting Motif 68: Honor Guard Legs","description":"Use to learn how to make Honor Guard Legs. Also teaches the equivalent Honor Guard outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[142195]}

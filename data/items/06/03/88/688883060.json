@@ -1,10 +1,1 @@
-{
-  "internalId": 688883060,
-  "name": "Rabbit Haunch with Cheese Grits",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57085
-  ]
-}
+{"internalId":688883060,"name":"Rabbit Haunch with Cheese Grits","description":"","icon":"data/images/20/0_/ta/crafting_meat_002.png","bindType":-1,"knownIds":[57085]}

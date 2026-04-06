@@ -1,10 +1,1 @@
-{
-  "internalId": 938159275,
-  "name": "Boulder, Craggy Heap",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_craglornsmall002c.png",
-  "bindType": -1,
-  "knownIds": [
-    120964
-  ]
-}
+{"internalId":938159275,"name":"Boulder, Craggy Heap","description":"This is a standard house item.","icon":"data/images/c2/00/ll/housing_rok_gry_craglornsmall002c.png","bindType":-1,"knownIds":[120964]}

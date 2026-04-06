@@ -1,17 +1,1 @@
-{
-  "internalId": 1049134774,
-  "name": "Spattering Disjunction Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    1746647,
-    1763675,
-    1774350,
-    1777381,
-    1746647,
-    1763675,
-    1774350,
-    1777381
-  ]
-}
+{"internalId":1049134774,"name":"Spattering Disjunction Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_1haxe.png","bindType":-1,"knownIds":[1746647,1763675,1774350,1777381,1746647,1763675,1774350,1777381]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3595385104,
-  "name": "Pocket Bloom Carrier",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240699
-  ]
-}
+{"internalId":3595385104,"name":"Pocket Bloom Carrier","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[1240699]}

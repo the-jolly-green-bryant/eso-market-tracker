@@ -1,10 +1,1 @@
-{
-  "internalId": 1825694604,
-  "name": "Recipe: Honest Lassie Honey Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68226
-  ]
-}
+{"internalId":1825694604,"name":"Recipe: Honest Lassie Honey Tea","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68226]}

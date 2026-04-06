@@ -1,10 +1,1 @@
-{
-  "internalId": 3216083400,
-  "name": "Maul of Fasalla's Guile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199214
-  ]
-}
+{"internalId":3216083400,"name":"Maul of Fasalla's Guile","description":"","icon":"data/images/a_/re/mm/gear_abahswatch_2hhammer_a.png","bindType":2,"knownIds":[79796]}

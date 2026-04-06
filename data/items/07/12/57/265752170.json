@@ -1,10 +1,1 @@
-{
-  "internalId": 265752170,
-  "name": "Fragment of the Weald",
-  "description": "Consume Fragment of the Weald, along with fragments of Aggression, the Fate-Eater, the Blind, the Storm, and the Maw, to unlock the Skill Stylist: Force Shock achievement and the Force Shock, Wildburn Skill Style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_003.png",
-  "bindType": 3,
-  "knownIds": [
-    211315
-  ]
-}
+{"internalId":265752170,"name":"Fragment of the Weald","description":"Consume Fragment of the Weald, along with fragments of Aggression, the Fate-Eater, the Blind, the Storm, and the Maw, to unlock the Skill Stylist: Force Shock achievement and the Force Shock, Wildburn Skill Style.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_003.png","bindType":3,"knownIds":[211315]}

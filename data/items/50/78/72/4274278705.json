@@ -1,12 +1,1 @@
-{
-  "internalId": 4274278705,
-  "name": "Hammerdeath Arena Token",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    539946,
-    539946,
-    539946
-  ]
-}
+{"internalId":4274278705,"name":"Hammerdeath Arena Token","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_coin_001.png","bindType":-1,"knownIds":[539946,539946,539946]}

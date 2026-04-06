@@ -1,10 +1,1 @@
-{
-  "internalId": 4187605533,
-  "name": "Redguard Candlestick, Practical",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_varcandlelabralow001.png",
-  "bindType": -1,
-  "knownIds": [
-    117696
-  ]
-}
+{"internalId":4187605533,"name":"Redguard Candlestick, Practical","description":"This is a small house item.","icon":"data/images/10/0w/ol/housing_red_lsb_varcandlelabralow001.png","bindType":-1,"knownIds":[117696]}

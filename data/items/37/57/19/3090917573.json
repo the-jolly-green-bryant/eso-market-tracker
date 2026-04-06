@@ -1,10 +1,1 @@
-{
-  "internalId": 3090917573,
-  "name": "Design: Telvanni Bookcase, Tall Fungal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    197584
-  ]
-}
+{"internalId":3090917573,"name":"Design: Telvanni Bookcase, Tall Fungal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[197584]}

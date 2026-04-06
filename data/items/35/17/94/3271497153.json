@@ -1,10 +1,1 @@
-{
-  "internalId": 3271497153,
-  "name": "Weapons: Draugr's Heritage",
-  "description": "A Heavy Armor set found in The Rift.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134054
-  ]
-}
+{"internalId":3271497153,"name":"Weapons: Draugr's Heritage","description":"A Heavy Armor set found in The Rift.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134054]}

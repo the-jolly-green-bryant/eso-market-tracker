@@ -1,10 +1,1 @@
-{
-  "internalId": 846787362,
-  "name": "Gold Coast Trading Company Sextant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1349218
-  ]
-}
+{"internalId":846787362,"name":"Gold Coast Trading Company Sextant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[1349218]}

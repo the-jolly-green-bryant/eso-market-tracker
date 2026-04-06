@@ -1,10 +1,1 @@
-{
-  "internalId": 824791197,
-  "name": "Old Growth Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    191665
-  ]
-}
+{"internalId":824791197,"name":"Old Growth Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[191665]}

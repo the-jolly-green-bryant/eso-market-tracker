@@ -1,10 +1,1 @@
-{
-  "internalId": 3697647622,
-  "name": "Tools of the Trapmaster Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765633
-  ]
-}
+{"internalId":3697647622,"name":"Tools of the Trapmaster Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hhammer_a.png","bindType":-1,"knownIds":[1765633]}

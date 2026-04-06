@@ -1,10 +1,1 @@
-{
-  "internalId": 2070607566,
-  "name": "Vivec's Robe of Duality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    195860
-  ]
-}
+{"internalId":2070607566,"name":"Vivec's Robe of Duality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_robe_a.png","bindType":2,"knownIds":[195860]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3574020380,
-  "name": "Belt of the Song of Lamae",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56661
-  ]
-}
+{"internalId":3574020380,"name":"Belt of the Song of Lamae","description":"","icon":"data/images/d_/ts/ia/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[56661]}

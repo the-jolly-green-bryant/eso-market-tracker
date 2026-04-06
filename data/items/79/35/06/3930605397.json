@@ -1,10 +1,1 @@
-{
-  "internalId": 3930605397,
-  "name": "Alinor Sconce, Lantern",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_altwallsconcelit001.png",
-  "bindType": -1,
-  "knownIds": [
-    139202
-  ]
-}
+{"internalId":3930605397,"name":"Alinor Sconce, Lantern","description":"This is a standard house item.","icon":"data/images/10/0t/il/housing_sum_lsb_altwallsconcelit001.png","bindType":-1,"knownIds":[139202]}

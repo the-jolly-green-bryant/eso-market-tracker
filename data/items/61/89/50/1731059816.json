@@ -1,13 +1,1 @@
-{
-  "internalId": 1731059816,
-  "name": "Ornate Skull Goblet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936545,
-    1424997,
-    936545,
-    1424997
-  ]
-}
+{"internalId":1731059816,"name":"Ornate Skull Goblet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png","bindType":-1,"knownIds":[936545,1424997,936545,1424997]}

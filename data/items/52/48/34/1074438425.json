@@ -1,10 +1,1 @@
-{
-  "internalId": 1074438425,
-  "name": "Darloc Brae's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_axe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149573
-  ]
-}
+{"internalId":1074438425,"name":"Darloc Brae's Axe","description":"","icon":"data/images/a_/ex/a_/gear_anequina_axe_a.png","bindType":2,"knownIds":[149573]}

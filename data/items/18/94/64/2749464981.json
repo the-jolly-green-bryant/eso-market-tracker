@@ -1,10 +1,1 @@
-{
-  "internalId": 2749464981,
-  "name": "Blueprint: Stone-Nest Seed Doll, Frog",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    223631
-  ]
-}
+{"internalId":2749464981,"name":"Blueprint: Stone-Nest Seed Doll, Frog","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[223631]}

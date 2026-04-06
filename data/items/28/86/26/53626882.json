@@ -1,10 +1,1 @@
-{
-  "internalId": 53626882,
-  "name": "Narrow Steel Graver",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1174224
-  ]
-}
+{"internalId":53626882,"name":"Narrow Steel Graver","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[1174224]}

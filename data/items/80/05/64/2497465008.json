@@ -1,10 +1,1 @@
-{
-  "internalId": 2497465008,
-  "name": "Solitude Platform, Square Wooden",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_woodenplatform001.png",
-  "bindType": -1,
-  "knownIds": [
-    167328
-  ]
-}
+{"internalId":2497465008,"name":"Solitude Platform, Square Wooden","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_woodenplatform001.png","bindType":-1,"knownIds":[167328]}

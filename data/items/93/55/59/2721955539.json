@@ -1,10 +1,1 @@
-{
-  "internalId": 2721955539,
-  "name": "Celestite Drinking Glass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    810564
-  ]
-}
+{"internalId":2721955539,"name":"Celestite Drinking Glass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[810564]}

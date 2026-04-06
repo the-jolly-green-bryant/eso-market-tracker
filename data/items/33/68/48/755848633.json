@@ -1,10 +1,1 @@
-{
-  "internalId": 755848633,
-  "name": "Two-Zephyr Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
-  "bindType": -1,
-  "knownIds": [
-    61037
-  ]
-}
+{"internalId":755848633,"name":"Two-Zephyr Tea","description":"","icon":"data/images/40/0_/ae/crafting_tea_004.png","bindType":-1,"knownIds":[61037]}

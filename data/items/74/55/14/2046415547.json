@@ -1,10 +1,1 @@
-{
-  "internalId": 2046415547,
-  "name": "Konunleikar Invitation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    781013
-  ]
-}
+{"internalId":2046415547,"name":"Konunleikar Invitation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[781013]}

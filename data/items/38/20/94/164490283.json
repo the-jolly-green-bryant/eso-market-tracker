@@ -1,10 +1,1 @@
-{
-  "internalId": 164490283,
-  "name": "Undercroft Furnishing Recipe Book",
-  "description": "A journal kept by a dutiful thrall. Reading it teaches all Undercroft Furniture Recipes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color3.png",
-  "bindType": -1,
-  "knownIds": [
-    214294
-  ]
-}
+{"internalId":164490283,"name":"Undercroft Furnishing Recipe Book","description":"A journal kept by a dutiful thrall. Reading it teaches all Undercroft Furniture Recipes.","icon":"https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail2_color3.png","bindType":-1,"knownIds":[214294]}

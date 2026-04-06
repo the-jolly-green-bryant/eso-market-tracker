@@ -1,10 +1,1 @@
-{
-  "internalId": 1275769893,
-  "name": "Praxis: Elsweyr Column, Stone Support",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    152030
-  ]
-}
+{"internalId":1275769893,"name":"Praxis: Elsweyr Column, Stone Support","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[152030]}

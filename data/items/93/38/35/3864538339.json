@@ -1,10 +1,1 @@
-{
-  "internalId": 3864538339,
-  "name": "Mysterious Saliva Sample",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1350842
-  ]
-}
+{"internalId":3864538339,"name":"Mysterious Saliva Sample","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[1350842]}

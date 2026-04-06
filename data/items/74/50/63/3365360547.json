@@ -1,10 +1,1 @@
-{
-  "internalId": 3365360547,
-  "name": "Ancient Dragonguard's Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156127
-  ]
-}
+{"internalId":3365360547,"name":"Ancient Dragonguard's Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png","bindType":2,"knownIds":[156127]}

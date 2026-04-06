@@ -1,10 +1,1 @@
-{
-  "internalId": 820547364,
-  "name": "Hircine-Fang Fishhook",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1333381
-  ]
-}
+{"internalId":820547364,"name":"Hircine-Fang Fishhook","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[1333381]}

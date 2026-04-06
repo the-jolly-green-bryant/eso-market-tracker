@@ -1,10 +1,1 @@
-{
-  "internalId": 2562119182,
-  "name": "High Isle Platform, Wooden Rectangle",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_inthousemedblockceiling001.png",
-  "bindType": -1,
-  "knownIds": [
-    189501
-  ]
-}
+{"internalId":2562119182,"name":"High Isle Platform, Wooden Rectangle","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_inthousemedblockceiling001.png","bindType":-1,"knownIds":[189501]}

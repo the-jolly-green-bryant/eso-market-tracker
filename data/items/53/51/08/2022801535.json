@@ -1,10 +1,1 @@
-{
-  "internalId": 2022801535,
-  "name": "Suthay-Raht Riding Crop",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png",
-  "bindType": -1,
-  "knownIds": [
-    812167
-  ]
-}
+{"internalId":2022801535,"name":"Suthay-Raht Riding Crop","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png","bindType":-1,"knownIds":[812167]}

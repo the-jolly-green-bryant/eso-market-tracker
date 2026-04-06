@@ -1,17 +1,1 @@
-{
-  "internalId": 586209159,
-  "name": "splendid glyph of potion boost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_potionpotency.png",
-  "bindType": -1,
-  "knownIds": [
-    454253,
-    510174,
-    1459696,
-    1554442,
-    454253,
-    510174,
-    1459696,
-    1554442
-  ]
-}
+{"internalId":586209159,"name":"splendid glyph of potion boost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_potionpotency.png","bindType":-1,"knownIds":[454253,510174,1459696,1554442,454253,510174,1459696,1554442]}

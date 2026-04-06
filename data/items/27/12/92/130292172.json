@@ -1,10 +1,1 @@
-{
-  "internalId": 130292172,
-  "name": "Dwemer Hammer Hilt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    497009
-  ]
-}
+{"internalId":130292172,"name":"Dwemer Hammer Hilt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[497009]}

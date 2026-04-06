@@ -1,15 +1,1 @@
-{
-  "internalId": 2044514365,
-  "name": "Unidentified Icereach Armaments",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1351164,
-    1352064,
-    1355759,
-    1351164,
-    1352064,
-    1355759
-  ]
-}
+{"internalId":2044514365,"name":"Unidentified Icereach Armaments","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1351164,1352064,1355759,1351164,1352064,1355759]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1534575927,
-  "name": "Layered Blouse",
-  "description": "This simple linen workshirt is double-layered, with a bloused collar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63702
-  ]
-}
+{"internalId":1534575927,"name":"Layered Blouse","description":"This simple linen workshirt is double-layered, with a bloused collar.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63702]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2038005029,
-  "name": "Bow of the Harbinger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78860
-  ]
-}
+{"internalId":2038005029,"name":"Bow of the Harbinger","description":"","icon":"data/images/d_/wo/b_/gear_nord_bow_d.png","bindType":2,"knownIds":[78860]}

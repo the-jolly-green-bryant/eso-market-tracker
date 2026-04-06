@@ -1,10 +1,1 @@
-{
-  "internalId": 1865499576,
-  "name": "Dark Elf Shelf, Wall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_wallshelf001.png",
-  "bindType": -1,
-  "knownIds": [
-    115278
-  ]
-}
+{"internalId":1865499576,"name":"Dark Elf Shelf, Wall","description":"This is a standard house item.","icon":"data/images/10/0f/le/housing_dun_fur_wallshelf001.png","bindType":-1,"knownIds":[115278]}

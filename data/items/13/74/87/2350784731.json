@@ -1,13 +1,1 @@
-{
-  "internalId": 2350784731,
-  "name": "major glyph of frost resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_frostresist.png",
-  "bindType": -1,
-  "knownIds": [
-    390665,
-    1439633,
-    390665,
-    1439633
-  ]
-}
+{"internalId":2350784731,"name":"major glyph of frost resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_frostresist.png","bindType":-1,"knownIds":[390665,1439633,390665,1439633]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 224873277,
-  "name": "Redguard Bed, Full Lattice",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillowbed001.png",
-  "bindType": -1,
-  "knownIds": [
-    117883
-  ]
-}
+{"internalId":224873277,"name":"Redguard Bed, Full Lattice","description":"This is a large house item.","icon":"data/images/10/0d/eb/housing_red_fur_pillowbed001.png","bindType":-1,"knownIds":[117883]}

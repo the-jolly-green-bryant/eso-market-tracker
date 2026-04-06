@@ -1,10 +1,1 @@
-{
-  "internalId": 2233056756,
-  "name": "Murkmire Hearth Shrine, Sithis Figure",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrksithismantleshrine003.png",
-  "bindType": -1,
-  "knownIds": [
-    141926
-  ]
-}
+{"internalId":2233056756,"name":"Murkmire Hearth Shrine, Sithis Figure","description":"This is a tiny house item.","icon":"data/images/30/0e/ni/housing_arg_inc_mrksithismantleshrine003.png","bindType":-1,"knownIds":[141926]}

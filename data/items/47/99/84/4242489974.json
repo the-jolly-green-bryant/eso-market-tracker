@@ -1,10 +1,1 @@
-{
-  "internalId": 4242489974,
-  "name": "Stone, Snowswept Shard",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_wrothsmalls003.png",
-  "bindType": -1,
-  "knownIds": [
-    134573
-  ]
-}
+{"internalId":4242489974,"name":"Stone, Snowswept Shard","description":"This is a standard house item.","icon":"data/images/30/0s/ll/housing_rok_gry_wrothsmalls003.png","bindType":-1,"knownIds":[134573]}

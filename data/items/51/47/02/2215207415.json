@@ -1,10 +1,1 @@
-{
-  "internalId": 2215207415,
-  "name": "Robe of Necropotence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86926
-  ]
-}
+{"internalId":2215207415,"name":"Robe of Necropotence","description":"","icon":"data/images/d_/eb/or/gear_argonian_light_robe_d.png","bindType":2,"knownIds":[86926]}

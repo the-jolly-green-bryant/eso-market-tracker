@@ -1,10 +1,1 @@
-{
-  "internalId": 3090677638,
-  "name": "Crank Buffer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1194755
-  ]
-}
+{"internalId":3090677638,"name":"Crank Buffer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[1194755]}

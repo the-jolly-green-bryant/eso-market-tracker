@@ -1,10 +1,1 @@
-{
-  "internalId": 2471409682,
-  "name": "Pattern: Colovian Bed, Rustic Double",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    207832
-  ]
-}
+{"internalId":2471409682,"name":"Pattern: Colovian Bed, Rustic Double","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[207832]}

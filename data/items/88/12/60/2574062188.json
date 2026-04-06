@@ -1,10 +1,1 @@
-{
-  "internalId": 2574062188,
-  "name": "Constellation Coaster Tiles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    401698
-  ]
-}
+{"internalId":2574062188,"name":"Constellation Coaster Tiles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[401698]}

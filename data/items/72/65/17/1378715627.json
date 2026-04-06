@@ -1,10 +1,1 @@
-{
-  "internalId": 1378715627,
-  "name": "Bow of Agility",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    69379
-  ]
-}
+{"internalId":1378715627,"name":"Bow of Agility","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[69379]}

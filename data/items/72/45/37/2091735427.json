@@ -1,10 +1,1 @@
-{
-  "internalId": 2091735427,
-  "name": "Shroom-Wood Tackle Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414220
-  ]
-}
+{"internalId":2091735427,"name":"Shroom-Wood Tackle Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[1414220]}

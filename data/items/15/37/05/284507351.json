@@ -1,10 +1,1 @@
-{
-  "internalId": 284507351,
-  "name": "Glorious Graven Deep Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/undaunted_bigcoffer.png",
-  "bindType": 3,
-  "knownIds": [
-    212172
-  ]
-}
+{"internalId":284507351,"name":"Glorious Graven Deep Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/undaunted_bigcoffer.png","bindType":3,"knownIds":[212172]}

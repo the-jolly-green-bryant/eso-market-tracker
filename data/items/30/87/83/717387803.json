@@ -1,10 +1,1 @@
-{
-  "internalId": 717387803,
-  "name": "Stone of Ashalmawia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1148401
-  ]
-}
+{"internalId":717387803,"name":"Stone of Ashalmawia","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png","bindType":-1,"knownIds":[1148401]}

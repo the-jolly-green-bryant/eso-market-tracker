@@ -1,10 +1,1 @@
-{
-  "internalId": 64236659,
-  "name": "Draoife Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190706
-  ]
-}
+{"internalId":64236659,"name":"Draoife Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[190706]}

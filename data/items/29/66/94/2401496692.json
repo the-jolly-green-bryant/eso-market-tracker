@@ -1,10 +1,1 @@
-{
-  "internalId": 2401496692,
-  "name": "Redguard Raincatcher, Golden",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldraincatcherurnc001.png",
-  "bindType": -1,
-  "knownIds": [
-    145471
-  ]
-}
+{"internalId":2401496692,"name":"Redguard Raincatcher, Golden","description":"This is a small house item.","icon":"data/images/10/0c/nr/housing_red_inc_vargoldraincatcherurnc001.png","bindType":-1,"knownIds":[145471]}

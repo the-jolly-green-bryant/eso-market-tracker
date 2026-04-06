@@ -1,10 +1,1 @@
-{
-  "internalId": 1599717494,
-  "name": "High Rock Rose and Rye Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    491808
-  ]
-}
+{"internalId":1599717494,"name":"High Rock Rose and Rye Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[491808]}

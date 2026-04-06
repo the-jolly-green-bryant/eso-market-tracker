@@ -1,10 +1,1 @@
-{
-  "internalId": 3264494210,
-  "name": "Design: Druidic Gourd Bird Feeder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    192558
-  ]
-}
+{"internalId":3264494210,"name":"Design: Druidic Gourd Bird Feeder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[192558]}

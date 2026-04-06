@@ -1,10 +1,1 @@
-{
-  "internalId": 2084309410,
-  "name": "Cotton",
-  "description": "An ingredient for crafting clothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_base_cotton_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    23125
-  ]
-}
+{"internalId":2084309410,"name":"Cotton","description":"An ingredient for crafting clothing.","icon":"data/images/2r/_n/ot/crafting_cloth_base_cotton_r2.png","bindType":-1,"knownIds":[23125]}

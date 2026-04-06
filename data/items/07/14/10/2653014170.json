@@ -1,15 +1,1 @@
-{
-  "internalId": 2653014170,
-  "name": "Perfected Lokkestiiz's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1347113,
-    1508106,
-    1509092,
-    1347113,
-    1508106,
-    1509092
-  ]
-}
+{"internalId":2653014170,"name":"Perfected Lokkestiiz's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hhammer_a.png","bindType":-1,"knownIds":[1347113,1508106,1509092,1347113,1508106,1509092]}

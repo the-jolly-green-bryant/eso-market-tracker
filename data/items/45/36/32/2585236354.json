@@ -1,10 +1,1 @@
-{
-  "internalId": 2585236354,
-  "name": "Sip of Hindering",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_017_type_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54335
-  ]
-}
+{"internalId":2585236354,"name":"Sip of Hindering","description":"","icon":"data/images/10/0_/ep/consumable_potion_017_type_001.png","bindType":-1,"knownIds":[54335]}

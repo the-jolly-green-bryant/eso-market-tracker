@@ -1,10 +1,1 @@
-{
-  "internalId": 4105232286,
-  "name": "Pattern: Solitude Stall, Covered Merchant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    167365
-  ]
-}
+{"internalId":4105232286,"name":"Pattern: Solitude Stall, Covered Merchant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[167365]}

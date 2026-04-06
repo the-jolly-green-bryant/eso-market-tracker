@@ -1,10 +1,1 @@
-{
-  "internalId": 2782483073,
-  "name": "Cocoon, Food Storage",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_exc_webbedprisoner002.png",
-  "bindType": -1,
-  "knownIds": [
-    139155
-  ]
-}
+{"internalId":2782483073,"name":"Cocoon, Food Storage","description":"This is a standard house item.","icon":"data/images/20/0r/en/housing_bos_exc_webbedprisoner002.png","bindType":-1,"knownIds":[139155]}

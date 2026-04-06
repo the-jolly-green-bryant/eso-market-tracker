@@ -1,10 +1,1 @@
-{
-  "internalId": 734034595,
-  "name": "Breeches of Aetherial Ascension",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    169106
-  ]
-}
+{"internalId":734034595,"name":"Breeches of Aetherial Ascension","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[169106]}

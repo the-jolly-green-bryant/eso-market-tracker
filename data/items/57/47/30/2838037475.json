@@ -1,10 +1,1 @@
-{
-  "internalId": 2838037475,
-  "name": "Barkskin Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92591
-  ]
-}
+{"internalId":2838037475,"name":"Barkskin Sword","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[92591]}

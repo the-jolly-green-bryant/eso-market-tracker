@@ -1,10 +1,1 @@
-{
-  "internalId": 4061012688,
-  "name": "Crafting Motif 122: Dead Keeper Legs",
-  "description": "Use to learn how to make Dead Keeper Legs. Also teaches the equivalent Dead Keeper Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    194522
-  ]
-}
+{"internalId":4061012688,"name":"Crafting Motif 122: Dead Keeper Legs","description":"Use to learn how to make Dead Keeper Legs. Also teaches the equivalent Dead Keeper Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[194522]}

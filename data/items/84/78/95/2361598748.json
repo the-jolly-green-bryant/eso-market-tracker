@@ -1,10 +1,1 @@
-{
-  "internalId": 2361598748,
-  "name": "Vvardenfell Anemone, Sprout",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_forestanemone002.png",
-  "bindType": -1,
-  "knownIds": [
-    126611
-  ]
-}
+{"internalId":2361598748,"name":"Vvardenfell Anemone, Sprout","description":"This is a tiny house item.","icon":"data/images/20/0e/no/housing_veg_fan_forestanemone002.png","bindType":-1,"knownIds":[126611]}

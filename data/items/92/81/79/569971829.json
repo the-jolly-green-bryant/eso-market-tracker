@@ -1,10 +1,1 @@
-{
-  "internalId": 569971829,
-  "name": "Praxis: High Elf Lamppost, Spiked",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    118982
-  ]
-}
+{"internalId":569971829,"name":"Praxis: High Elf Lamppost, Spiked","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[118982]}

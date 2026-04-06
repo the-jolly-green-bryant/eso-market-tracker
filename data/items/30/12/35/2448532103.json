@@ -1,10 +1,1 @@
-{
-  "internalId": 2448532103,
-  "name": "Leg Guards of Salvation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44128
-  ]
-}
+{"internalId":2448532103,"name":"Leg Guards of Salvation","description":"","icon":"data/images/d_/sg/el/gear_altmer_medium_legs_d.png","bindType":2,"knownIds":[44128]}

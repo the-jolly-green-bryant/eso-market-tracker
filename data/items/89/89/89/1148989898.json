@@ -1,10 +1,1 @@
-{
-  "internalId": 1148989898,
-  "name": "Crafter's Limitless Library Volume II",
-  "description": "Within this book is the knowledge of Crafting Motifs from Morrowind through Elsweyr that you do not yet know - but none that you already do. If you know all available crafting styles already, this book does nothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/divineslore_book9.png",
-  "bindType": 3,
-  "knownIds": [
-    174838
-  ]
-}
+{"internalId":1148989898,"name":"Crafter's Limitless Library Volume II","description":"Within this book is the knowledge of Crafting Motifs from Morrowind through Elsweyr that you do not yet know - but none that you already do. If you know all available crafting styles already, this book does nothing.","icon":"https://esoicons.uesp.net/esoui/art/icons/divineslore_book9.png","bindType":3,"knownIds":[174838]}

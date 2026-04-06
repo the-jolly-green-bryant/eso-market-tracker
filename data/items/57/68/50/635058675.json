@@ -1,13 +1,1 @@
-{
-  "internalId": 635058675,
-  "name": "Knight-Errant's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_staff_c.png",
-  "bindType": -1,
-  "knownIds": [
-    1064862,
-    1069394,
-    1064862,
-    1069394
-  ]
-}
+{"internalId":635058675,"name":"Knight-Errant's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_staff_c.png","bindType":-1,"knownIds":[1064862,1069394,1064862,1069394]}

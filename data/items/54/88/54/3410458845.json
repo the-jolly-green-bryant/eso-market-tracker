@@ -1,10 +1,1 @@
-{
-  "internalId": 3410458845,
-  "name": "Praxis: Tide-Born Coffer, Trinket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    217506
-  ]
-}
+{"internalId":3410458845,"name":"Praxis: Tide-Born Coffer, Trinket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[217506]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4177186601,
-  "name": "Red Hippocras",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dessert_004.png",
-  "bindType": -1,
-  "knownIds": [
-    61047
-  ]
-}
+{"internalId":4177186601,"name":"Red Hippocras","description":"","icon":"data/images/40/0_/tr/crafting_dessert_004.png","bindType":-1,"knownIds":[61047]}

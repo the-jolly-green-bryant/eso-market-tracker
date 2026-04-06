@@ -1,10 +1,1 @@
-{
-  "internalId": 4214206737,
-  "name": "Tree, Gnarled Marsh",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_ded_marsh008.png",
-  "bindType": -1,
-  "knownIds": [
-    130313
-  ]
-}
+{"internalId":4214206737,"name":"Tree, Gnarled Marsh","description":"This is a large house item.","icon":"data/images/80/0h/sr/housing_tre_ded_marsh008.png","bindType":-1,"knownIds":[130313]}

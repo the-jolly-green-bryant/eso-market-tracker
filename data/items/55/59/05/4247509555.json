@@ -1,10 +1,1 @@
-{
-  "internalId": 4247509555,
-  "name": "Necrom Bookcase, Elegant Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbookcasehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    197481
-  ]
-}
+{"internalId":4247509555,"name":"Necrom Bookcase, Elegant Tall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbookcasehigh001.png","bindType":-1,"knownIds":[197481]}

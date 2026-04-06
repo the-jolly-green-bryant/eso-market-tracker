@@ -1,10 +1,1 @@
-{
-  "internalId": 354591078,
-  "name": "Diagram: Cage, Wild Animal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    119518
-  ]
-}
+{"internalId":354591078,"name":"Diagram: Cage, Wild Animal","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[119518]}

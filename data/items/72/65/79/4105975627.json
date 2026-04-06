@@ -1,10 +1,1 @@
-{
-  "internalId": 4105975627,
-  "name": "Worm Cult Book Stack, Trio",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_necromancerbooks003.png",
-  "bindType": -1,
-  "knownIds": [
-    220315
-  ]
-}
+{"internalId":4105975627,"name":"Worm Cult Book Stack, Trio","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_necromancerbooks003.png","bindType":-1,"knownIds":[220315]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4281492905,
-  "name": "Late Hearthfire Vegetable Tart",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tart_002.png",
-  "bindType": -1,
-  "knownIds": [
-    68250
-  ]
-}
+{"internalId":4281492905,"name":"Late Hearthfire Vegetable Tart","description":"","icon":"data/images/20/0_/tr/crafting_tart_002.png","bindType":-1,"knownIds":[68250]}

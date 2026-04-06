@@ -1,10 +1,1 @@
-{
-  "internalId": 2058509814,
-  "name": "Directions To Clockwork City",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_clockwork_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    884423
-  ]
-}
+{"internalId":2058509814,"name":"Directions To Clockwork City","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_clockwork_map_001.png","bindType":-1,"knownIds":[884423]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1737061579,
-  "name": "Worm Cult Bucket, Bismuth Samples",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_miningbucket001.png",
-  "bindType": -1,
-  "knownIds": [
-    223157
-  ]
-}
+{"internalId":1737061579,"name":"Worm Cult Bucket, Bismuth Samples","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_miningbucket001.png","bindType":-1,"knownIds":[223157]}

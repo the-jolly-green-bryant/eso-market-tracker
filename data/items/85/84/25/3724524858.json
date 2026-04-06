@@ -1,10 +1,1 @@
-{
-  "internalId": 3724524858,
-  "name": "trifling Glyph of Weakening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_weakeningenchant.png",
-  "bindType": -1,
-  "knownIds": [
-    1426787
-  ]
-}
+{"internalId":3724524858,"name":"trifling Glyph of Weakening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_weakeningenchant.png","bindType":-1,"knownIds":[1426787]}

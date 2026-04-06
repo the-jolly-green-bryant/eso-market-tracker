@@ -1,10 +1,1 @@
-{
-  "internalId": 3383643233,
-  "name": "draught of Potent Health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1505119
-  ]
-}
+{"internalId":3383643233,"name":"draught of Potent Health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_003.png","bindType":-1,"knownIds":[1505119]}

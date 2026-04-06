@@ -1,10 +1,1 @@
-{
-  "internalId": 536199652,
-  "name": "Bloodthorn Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    96559
-  ]
-}
+{"internalId":536199652,"name":"Bloodthorn Shoes","description":"","icon":"data/images/a_/te/ef/gear_primative_light_feet_a.png","bindType":2,"knownIds":[96559]}

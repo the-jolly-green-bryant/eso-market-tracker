@@ -1,10 +1,1 @@
-{
-  "internalId": 318349520,
-  "name": "Magnus' Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56318
-  ]
-}
+{"internalId":318349520,"name":"Magnus' Greatsword","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[56318]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3920460032,
-  "name": "Decoction Mitts",
-  "description": "Alchemists in the cults of Peryite and Vaermina prize work gloves that are both flexible and protective.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_armamentkindred_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197795
-  ]
-}
+{"internalId":3920460032,"name":"Decoction Mitts","description":"Alchemists in the cults of Peryite and Vaermina prize work gloves that are both flexible and protective.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_armamentkindred_medium_hands_a.png","bindType":2,"knownIds":[197795]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 624797784,
-  "name": "Stonehulk Domination Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1766170,
-    1771014,
-    1766170,
-    1771014
-  ]
-}
+{"internalId":624797784,"name":"Stonehulk Domination Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_1haxe_a.png","bindType":-1,"knownIds":[1766170,1771014,1766170,1771014]}

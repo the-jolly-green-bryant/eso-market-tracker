@@ -1,10 +1,1 @@
-{
-  "internalId": 1729805960,
-  "name": "Alchemist Survey: Western Skyrim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366785
-  ]
-}
+{"internalId":1729805960,"name":"Alchemist Survey: Western Skyrim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1366785]}

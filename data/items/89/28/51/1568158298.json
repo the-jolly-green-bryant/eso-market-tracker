@@ -1,10 +1,1 @@
-{
-  "internalId": 1568158298,
-  "name": "Iron Orc Arrow Head",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_claw_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801298
-  ]
-}
+{"internalId":1568158298,"name":"Iron Orc Arrow Head","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_monster_claw_001.png","bindType":-1,"knownIds":[801298]}

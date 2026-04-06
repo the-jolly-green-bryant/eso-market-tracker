@@ -1,10 +1,1 @@
-{
-  "internalId": 2992814156,
-  "name": "Maul of the Viper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80685
-  ]
-}
+{"internalId":2992814156,"name":"Maul of the Viper","description":"","icon":"data/images/d_/re/mm/gear_argonian_2hhammer_d.png","bindType":2,"knownIds":[80685]}

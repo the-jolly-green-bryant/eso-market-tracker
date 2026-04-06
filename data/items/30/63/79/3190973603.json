@@ -1,10 +1,1 @@
-{
-  "internalId": 3190973603,
-  "name": "Legion's Guardian",
-  "description": "This large shield bears the symbol of the Legion of the West Weald.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    208138
-  ]
-}
+{"internalId":3190973603,"name":"Legion's Guardian","description":"This large shield bears the symbol of the Legion of the West Weald.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_shield_d.png","bindType":2,"knownIds":[208138]}

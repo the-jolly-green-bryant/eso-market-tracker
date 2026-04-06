@@ -1,10 +1,1 @@
-{
-  "internalId": 3738166144,
-  "name": "Rude Awakening Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    763589
-  ]
-}
+{"internalId":3738166144,"name":"Rude Awakening Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[763589]}

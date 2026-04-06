@@ -1,10 +1,1 @@
-{
-  "internalId": 2724623705,
-  "name": "Companion's Sash",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_belt_light.png",
-  "bindType": 2,
-  "knownIds": [
-    177194
-  ]
-}
+{"internalId":2724623705,"name":"Companion's Sash","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_belt_light.png","bindType":2,"knownIds":[177194]}

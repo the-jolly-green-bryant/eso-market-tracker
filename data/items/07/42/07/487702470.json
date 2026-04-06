@@ -1,10 +1,1 @@
-{
-  "internalId": 487702470,
-  "name": "Jester's Day Ox-Hoof Cleats",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860363
-  ]
-}
+{"internalId":487702470,"name":"Jester's Day Ox-Hoof Cleats","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png","bindType":-1,"knownIds":[860363]}

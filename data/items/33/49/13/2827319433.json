@@ -1,10 +1,1 @@
-{
-  "internalId": 2827319433,
-  "name": "Woodworker Survey: Glenumbra",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    390401
-  ]
-}
+{"internalId":2827319433,"name":"Woodworker Survey: Glenumbra","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[390401]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3899897299,
-  "name": "Gloomspore Agaric",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u27_stonegarden_gloomspore_agaric.png",
-  "bindType": -1,
-  "knownIds": [
-    1378486
-  ]
-}
+{"internalId":3899897299,"name":"Gloomspore Agaric","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u27_stonegarden_gloomspore_agaric.png","bindType":-1,"knownIds":[1378486]}

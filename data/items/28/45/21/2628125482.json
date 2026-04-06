@@ -1,10 +1,1 @@
-{
-  "internalId": 2628125482,
-  "name": "Spinner's Ivory Silvenar Puppet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403346
-  ]
-}
+{"internalId":2628125482,"name":"Spinner's Ivory Silvenar Puppet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[403346]}

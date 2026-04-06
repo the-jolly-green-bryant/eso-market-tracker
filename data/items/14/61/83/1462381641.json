@@ -1,10 +1,1 @@
-{
-  "internalId": 1462381641,
-  "name": "Bread Loaves, Round",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketbreadset002.png",
-  "bindType": -1,
-  "knownIds": [
-    118345
-  ]
-}
+{"internalId":1462381641,"name":"Bread Loaves, Round","description":"This is a small house item.","icon":"data/images/20/0t/es/housing_red_exc_varmarketbreadset002.png","bindType":-1,"knownIds":[118345]}

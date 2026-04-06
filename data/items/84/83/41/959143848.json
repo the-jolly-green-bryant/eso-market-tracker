@@ -1,10 +1,1 @@
-{
-  "internalId": 959143848,
-  "name": "Formula: Murkmire Candle, Standing Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    145986
-  ]
-}
+{"internalId":959143848,"name":"Formula: Murkmire Candle, Standing Shell","description":"","icon":"data/images/3y/me/hc/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[145986]}

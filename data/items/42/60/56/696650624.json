@@ -1,10 +1,1 @@
-{
-  "internalId": 696650624,
-  "name": "Wooden Dragonfrog Carving",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clockwork_dragonfrog_firestarter.png",
-  "bindType": -1,
-  "knownIds": [
-    1082208
-  ]
-}
+{"internalId":696650624,"name":"Wooden Dragonfrog Carving","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clockwork_dragonfrog_firestarter.png","bindType":-1,"knownIds":[1082208]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2747069729,
-  "name": "Guards of Mother's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    97025
-  ]
-}
+{"internalId":2747069729,"name":"Guards of Mother's Embrace","description":"","icon":"data/images/a_/sg/el/gear_thievesguildv2_medium_legs_a.png","bindType":2,"knownIds":[97025]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2951734346,
-  "name": "Spell Parasite Medium Armor",
-  "description": "A Crafted Armor set constructed in Blackreach: Greymoor Caverns.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182872
-  ]
-}
+{"internalId":2951734346,"name":"Spell Parasite Medium Armor","description":"A Crafted Armor set constructed in Blackreach: Greymoor Caverns.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182872]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 960450831,
-  "name": "Wrathsun Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678196,
-    1722737,
-    1678196,
-    1722737
-  ]
-}
+{"internalId":960450831,"name":"Wrathsun Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1678196,1722737,1678196,1722737]}

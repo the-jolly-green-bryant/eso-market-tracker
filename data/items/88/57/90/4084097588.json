@@ -1,10 +1,1 @@
-{
-  "internalId": 4084097588,
-  "name": "Argonian Box, Woven",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrkbasket002.png",
-  "bindType": -1,
-  "knownIds": [
-    121538
-  ]
-}
+{"internalId":4084097588,"name":"Argonian Box, Woven","description":"This is a standard house item.","icon":"data/images/20/0t/ek/housing_arg_fur_mrkbasket002.png","bindType":-1,"knownIds":[121538]}

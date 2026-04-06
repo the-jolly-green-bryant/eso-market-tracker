@@ -1,10 +1,1 @@
-{
-  "internalId": 3255503615,
-  "name": "Leyawiin Censer, Serpents",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyincenseburner002.png",
-  "bindType": -1,
-  "knownIds": [
-    175660
-  ]
-}
+{"internalId":3255503615,"name":"Leyawiin Censer, Serpents","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyincenseburner002.png","bindType":-1,"knownIds":[175660]}

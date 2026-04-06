@@ -1,10 +1,1 @@
-{
-  "internalId": 3904775514,
-  "name": "Stone-Nest Post, Temple Fence",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_waf_argruinsmallwallpost001.png",
-  "bindType": -1,
-  "knownIds": [
-    223840
-  ]
-}
+{"internalId":3904775514,"name":"Stone-Nest Post, Temple Fence","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_waf_argruinsmallwallpost001.png","bindType":-1,"knownIds":[223840]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3438924378,
-  "name": "Elsweyr Hand Mirror, Rectangular",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_handmirror002.png",
-  "bindType": -1,
-  "knownIds": [
-    151891
-  ]
-}
+{"internalId":3438924378,"name":"Elsweyr Hand Mirror, Rectangular","description":"This is a tiny house item.","icon":"data/images/20/0r/or/housing_els_inc_handmirror002.png","bindType":-1,"knownIds":[151891]}

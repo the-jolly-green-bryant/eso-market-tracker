@@ -1,10 +1,1 @@
-{
-  "internalId": 1354779436,
-  "name": "Silver-Wrapped Quill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1034166
-  ]
-}
+{"internalId":1354779436,"name":"Silver-Wrapped Quill","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[1034166]}

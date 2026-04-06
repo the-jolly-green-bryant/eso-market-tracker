@@ -1,10 +1,1 @@
-{
-  "internalId": 1687850432,
-  "name": "Style Page: Horned Dragon Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1246158
-  ]
-}
+{"internalId":1687850432,"name":"Style Page: Horned Dragon Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1246158]}

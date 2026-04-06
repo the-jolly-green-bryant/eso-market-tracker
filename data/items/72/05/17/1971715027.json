@@ -1,15 +1,1 @@
-{
-  "internalId": 1971715027,
-  "name": "Vrol's Perfected Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_mace.png",
-  "bindType": -1,
-  "knownIds": [
-    1391423,
-    1422874,
-    1628510,
-    1391423,
-    1422874,
-    1628510
-  ]
-}
+{"internalId":1971715027,"name":"Vrol's Perfected Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_mace.png","bindType":-1,"knownIds":[1391423,1422874,1628510,1391423,1422874,1628510]}

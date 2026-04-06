@@ -1,10 +1,1 @@
-{
-  "internalId": 3321753505,
-  "name": "Ring of Unfathomable Darkness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133039
-  ]
-}
+{"internalId":3321753505,"name":"Ring of Unfathomable Darkness","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[133039]}

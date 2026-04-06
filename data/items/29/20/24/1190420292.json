@@ -1,10 +1,1 @@
-{
-  "internalId": 1190420292,
-  "name": "Diagram: Orcish Footlocker, Buckled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119060
-  ]
-}
+{"internalId":1190420292,"name":"Diagram: Orcish Footlocker, Buckled","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119060]}

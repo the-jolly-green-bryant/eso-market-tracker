@@ -1,10 +1,1 @@
-{
-  "internalId": 3628117565,
-  "name": "Teeba-Hatsei Ball",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    594495
-  ]
-}
+{"internalId":3628117565,"name":"Teeba-Hatsei Ball","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_toy_001.png","bindType":-1,"knownIds":[594495]}

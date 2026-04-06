@@ -1,10 +1,1 @@
-{
-  "internalId": 3955927195,
-  "name": "Threads of War Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206506
-  ]
-}
+{"internalId":3955927195,"name":"Threads of War Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png","bindType":2,"knownIds":[206506]}

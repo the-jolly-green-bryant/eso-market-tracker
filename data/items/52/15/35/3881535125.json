@@ -1,10 +1,1 @@
-{
-  "internalId": 3881535125,
-  "name": "Blueprint: Colovian Grape Vines, Short",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    207912
-  ]
-}
+{"internalId":3881535125,"name":"Blueprint: Colovian Grape Vines, Short","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[207912]}

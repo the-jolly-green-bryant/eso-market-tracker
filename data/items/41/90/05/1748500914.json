@@ -1,10 +1,1 @@
-{
-  "internalId": 1748500914,
-  "name": "Formula: Redguard Lantern, Delicate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    119276
-  ]
-}
+{"internalId":1748500914,"name":"Formula: Redguard Lantern, Delicate","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[119276]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 280539894,
-  "name": "Rude Awakening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_002.png",
-  "bindType": -1,
-  "knownIds": [
-    34072
-  ]
-}
+{"internalId":280539894,"name":"Rude Awakening","description":"","icon":"data/images/20/0_/ll/crafting_dom_distill_002.png","bindType":-1,"knownIds":[34072]}

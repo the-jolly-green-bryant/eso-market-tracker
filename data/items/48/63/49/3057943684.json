@@ -1,10 +1,1 @@
-{
-  "internalId": 3057943684,
-  "name": "Woodworker Survey: Bangkorai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    939760
-  ]
-}
+{"internalId":3057943684,"name":"Woodworker Survey: Bangkorai","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[939760]}

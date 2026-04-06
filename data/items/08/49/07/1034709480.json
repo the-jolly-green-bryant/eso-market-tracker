@@ -1,10 +1,1 @@
-{
-  "internalId": 1034709480,
-  "name": "Breton Dresser, Knotwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_dressershort001.png",
-  "bindType": -1,
-  "knownIds": [
-    115220
-  ]
-}
+{"internalId":1034709480,"name":"Breton Dresser, Knotwork","description":"This is a standard house item.","icon":"data/images/10/0t/ro/housing_bre_fur_dressershort001.png","bindType":-1,"knownIds":[115220]}

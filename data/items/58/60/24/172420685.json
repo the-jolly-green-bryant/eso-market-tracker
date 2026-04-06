@@ -1,10 +1,1 @@
-{
-  "internalId": 172420685,
-  "name": "Cyrodilic Corn Bread",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bread_001.png",
-  "bindType": -1,
-  "knownIds": [
-    32136
-  ]
-}
+{"internalId":172420685,"name":"Cyrodilic Corn Bread","description":"","icon":"data/images/10/0_/da/crafting_bread_001.png","bindType":-1,"knownIds":[32136]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3612725479,
-  "name": "Corinthe Corn Beef",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57080
-  ]
-}
+{"internalId":3612725479,"name":"Corinthe Corn Beef","description":"","icon":"data/images/10/0_/ta/crafting_meat_001.png","bindType":-1,"knownIds":[57080]}

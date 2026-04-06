@@ -1,10 +1,1 @@
-{
-  "internalId": 3211168424,
-  "name": "Bound Affix Script: Uncertainty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_uncertainty.png",
-  "bindType": -1,
-  "knownIds": [
-    1722219
-  ]
-}
+{"internalId":3211168424,"name":"Bound Affix Script: Uncertainty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_uncertainty.png","bindType":-1,"knownIds":[1722219]}

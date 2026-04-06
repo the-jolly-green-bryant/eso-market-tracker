@@ -1,10 +1,1 @@
-{
-  "internalId": 3144538624,
-  "name": "Style Page: Slimecraw Shoulder",
-  "description": "Use to learn the Slimecraw Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156835
-  ]
-}
+{"internalId":3144538624,"name":"Style Page: Slimecraw Shoulder","description":"Use to learn the Slimecraw Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156835]}

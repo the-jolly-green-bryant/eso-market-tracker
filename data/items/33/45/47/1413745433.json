@@ -1,10 +1,1 @@
-{
-  "internalId": 1413745433,
-  "name": "Arkay's Charity Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    213889
-  ]
-}
+{"internalId":1413745433,"name":"Arkay's Charity Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[213889]}

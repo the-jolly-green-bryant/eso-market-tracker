@@ -1,10 +1,1 @@
-{
-  "internalId": 4096457683,
-  "name": "Wedding Flower Trellis",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_abatrellisfence001.png",
-  "bindType": -1,
-  "knownIds": [
-    120797
-  ]
-}
+{"internalId":4096457683,"name":"Wedding Flower Trellis","description":"This is a large house item.","icon":"data/images/10/0e/cn/housing_veg_bsh_abatrellisfence001.png","bindType":-1,"knownIds":[120797]}

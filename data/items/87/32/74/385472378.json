@@ -1,10 +1,1 @@
-{
-  "internalId": 385472378,
-  "name": "Orzorga's Tripe Trifle Pocket",
-  "description": "A breaded pocket of minced gut and less appealing things, sweetened with beet sugar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dessert_002.png",
-  "bindType": -1,
-  "knownIds": [
-    71057
-  ]
-}
+{"internalId":385472378,"name":"Orzorga's Tripe Trifle Pocket","description":"A breaded pocket of minced gut and less appealing things, sweetened with beet sugar.","icon":"data/images/20/0_/tr/crafting_dessert_002.png","bindType":-1,"knownIds":[71057]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1568005227,
-  "name": "Assortment of Cosmetic Horns",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863868
-  ]
-}
+{"internalId":1568005227,"name":"Assortment of Cosmetic Horns","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[863868]}

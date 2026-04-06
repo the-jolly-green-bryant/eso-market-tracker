@@ -1,10 +1,1 @@
-{
-  "internalId": 1121905513,
-  "name": "Arm Cops of the Hawk's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_huntsman_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    93335
-  ]
-}
+{"internalId":1121905513,"name":"Arm Cops of the Hawk's Eye","description":"","icon":"data/images/a_/sr/ed/gear_huntsman_shoulders_a.png","bindType":2,"knownIds":[93335]}

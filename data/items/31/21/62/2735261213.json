@@ -1,10 +1,1 @@
-{
-  "internalId": 2735261213,
-  "name": "Rhorlak's War Axe",
-  "description": "The haft of this axe was hewn from the finest Skyrim lumber.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    29939
-  ]
-}
+{"internalId":2735261213,"name":"Rhorlak's War Axe","description":"The haft of this axe was hewn from the finest Skyrim lumber.","icon":"data/images/d_/ex/ah/gear_dunmer_2haxe_d.png","bindType":2,"knownIds":[29939]}

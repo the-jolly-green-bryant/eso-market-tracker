@@ -1,10 +1,1 @@
-{
-  "internalId": 2680602401,
-  "name": "Bog Raider's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172439
-  ]
-}
+{"internalId":2680602401,"name":"Bog Raider's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_staff_a.png","bindType":2,"knownIds":[172439]}

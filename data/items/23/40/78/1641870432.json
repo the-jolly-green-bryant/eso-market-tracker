@@ -1,10 +1,1 @@
-{
-  "internalId": 1641870432,
-  "name": "Cyrodiilic Cornbread",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_muffin.png",
-  "bindType": -1,
-  "knownIds": [
-    377445
-  ]
-}
+{"internalId":1641870432,"name":"Cyrodiilic Cornbread","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_muffin.png","bindType":-1,"knownIds":[377445]}

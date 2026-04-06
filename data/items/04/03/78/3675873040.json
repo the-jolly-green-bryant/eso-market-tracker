@@ -1,10 +1,1 @@
-{
-  "internalId": 3675873040,
-  "name": "Moon-Sugar Scale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1372029
-  ]
-}
+{"internalId":3675873040,"name":"Moon-Sugar Scale","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png","bindType":-1,"knownIds":[1372029]}

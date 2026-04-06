@@ -1,10 +1,1 @@
-{
-  "internalId": 2359070360,
-  "name": "Lion Guard Banner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_002.png",
-  "bindType": -1,
-  "knownIds": [
-    826208
-  ]
-}
+{"internalId":2359070360,"name":"Lion Guard Banner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_002.png","bindType":-1,"knownIds":[826208]}

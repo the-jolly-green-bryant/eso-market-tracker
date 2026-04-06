@@ -1,10 +1,1 @@
-{
-  "internalId": 3053822143,
-  "name": "Exemplary Nirnhoned Shoes",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Shoes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81622
-  ]
-}
+{"internalId":3053822143,"name":"Exemplary Nirnhoned Shoes","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Shoes.","icon":"data/images/d_/te/ef/gear_breton_light_feet_d.png","bindType":-1,"knownIds":[81622]}

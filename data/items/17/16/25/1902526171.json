@@ -1,10 +1,1 @@
-{
-  "internalId": 1902526171,
-  "name": "Dark Elf Life Candle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    800460
-  ]
-}
+{"internalId":1902526171,"name":"Dark Elf Life Candle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[800460]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2513186318,
-  "name": "Dwarven Crucible, Heavy",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_housingsmeltersmalla001.png",
-  "bindType": -1,
-  "knownIds": [
-    159454
-  ]
-}
+{"internalId":2513186318,"name":"Dwarven Crucible, Heavy","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_housingsmeltersmalla001.png","bindType":-1,"knownIds":[159454]}

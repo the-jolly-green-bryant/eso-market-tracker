@@ -1,17 +1,1 @@
-{
-  "internalId": 1681402541,
-  "name": "Blind Path Induction Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_light_chest_b.png",
-  "bindType": -1,
-  "knownIds": [
-    1702832,
-    1725421,
-    1758942,
-    1766182,
-    1702832,
-    1725421,
-    1758942,
-    1766182
-  ]
-}
+{"internalId":1681402541,"name":"Blind Path Induction Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_light_chest_b.png","bindType":-1,"knownIds":[1702832,1725421,1758942,1766182,1702832,1725421,1758942,1766182]}

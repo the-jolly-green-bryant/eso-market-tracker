@@ -1,10 +1,1 @@
-{
-  "internalId": 1018341630,
-  "name": "Frosted: Cold Twilight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_dec118.png",
-  "bindType": -1,
-  "knownIds": [
-    1191099
-  ]
-}
+{"internalId":1018341630,"name":"Frosted: Cold Twilight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_dec118.png","bindType":-1,"knownIds":[1191099]}

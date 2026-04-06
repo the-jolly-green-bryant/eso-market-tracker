@@ -1,10 +1,1 @@
-{
-  "internalId": 3205717937,
-  "name": "Saint Veloth Charm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    939764
-  ]
-}
+{"internalId":3205717937,"name":"Saint Veloth Charm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png","bindType":-1,"knownIds":[939764]}

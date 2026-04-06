@@ -1,15 +1,1 @@
-{
-  "internalId": 3395483542,
-  "name": "Rkindaleft's Hidden Pressure Vent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/trophy_rkindaleft_hidden_pressure_vent.png",
-  "bindType": -1,
-  "knownIds": [
-    796375,
-    849959,
-    865136,
-    796375,
-    849959,
-    865136
-  ]
-}
+{"internalId":3395483542,"name":"Rkindaleft's Hidden Pressure Vent","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/trophy_rkindaleft_hidden_pressure_vent.png","bindType":-1,"knownIds":[796375,849959,865136,796375,849959,865136]}

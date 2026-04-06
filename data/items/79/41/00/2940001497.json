@@ -1,10 +1,1 @@
-{
-  "internalId": 2940001497,
-  "name": "Squid Ink",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/style_item_dreadsail.png",
-  "bindType": -1,
-  "knownIds": [
-    181677
-  ]
-}
+{"internalId":2940001497,"name":"Squid Ink","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/style_item_dreadsail.png","bindType":-1,"knownIds":[181677]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1371572529,
-  "name": "Meridia, Lady of Infinite Energies",
-  "description": "\"[…] above all others they did venerate the Lady of Light, building for Merid-Nunda a chapel of colored rays and beams, which was for glory like a piece of Aetherius brought down to the mortal world […]\" - The Whithering of Delodiil (Author Unknown)",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_statuemeridia001.png",
-  "bindType": -1,
-  "knownIds": [
-    147646
-  ]
-}
+{"internalId":1371572529,"name":"Meridia, Lady of Infinite Energies","description":"\"[…] above all others they did venerate the Lady of Light, building for Merid-Nunda a chapel of colored rays and beams, which was for glory like a piece of Aetherius brought down to the mortal world […]\" - The Whithering of Delodiil (Author Unknown)","icon":"data/images/10/0a/id/housing_sum_inc_statuemeridia001.png","bindType":-1,"knownIds":[147646]}

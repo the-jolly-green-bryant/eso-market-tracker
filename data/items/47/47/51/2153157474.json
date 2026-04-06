@@ -1,10 +1,1 @@
-{
-  "internalId": 2153157474,
-  "name": "Green Lady, My Lady",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png",
-  "bindType": -1,
-  "knownIds": [
-    1199279
-  ]
-}
+{"internalId":2153157474,"name":"Green Lady, My Lady","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png","bindType":-1,"knownIds":[1199279]}

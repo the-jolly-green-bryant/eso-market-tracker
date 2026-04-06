@@ -1,10 +1,1 @@
-{
-  "internalId": 1924485782,
-  "name": "Seed Doll Sprout",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1275899
-  ]
-}
+{"internalId":1924485782,"name":"Seed Doll Sprout","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[1275899]}

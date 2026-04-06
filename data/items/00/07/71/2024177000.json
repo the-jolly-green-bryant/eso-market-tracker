@@ -1,10 +1,1 @@
-{
-  "internalId": 2024177000,
-  "name": "Arrowhead Mold",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_coldharbour_triangle_puzzle_key_piece_03.png",
-  "bindType": -1,
-  "knownIds": [
-    863011
-  ]
-}
+{"internalId":2024177000,"name":"Arrowhead Mold","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_coldharbour_triangle_puzzle_key_piece_03.png","bindType":-1,"knownIds":[863011]}

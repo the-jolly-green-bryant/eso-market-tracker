@@ -1,10 +1,1 @@
-{
-  "internalId": 3801525178,
-  "name": "Maul of Beckoning Steel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    88859
-  ]
-}
+{"internalId":3801525178,"name":"Maul of Beckoning Steel","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[88859]}

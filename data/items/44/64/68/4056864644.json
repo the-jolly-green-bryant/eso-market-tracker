@@ -1,10 +1,1 @@
-{
-  "internalId": 4056864644,
-  "name": "Weapons: Soulshine",
-  "description": "A Heavy Armor set found in Reaper's March.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134024
-  ]
-}
+{"internalId":4056864644,"name":"Weapons: Soulshine","description":"A Heavy Armor set found in Reaper's March.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134024]}

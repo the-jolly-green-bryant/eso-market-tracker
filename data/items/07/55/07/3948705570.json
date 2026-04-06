@@ -1,10 +1,1 @@
-{
-  "internalId": 3948705570,
-  "name": "Throat-Scales of the Viper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    55413
-  ]
-}
+{"internalId":3948705570,"name":"Throat-Scales of the Viper","description":"","icon":"data/images/a_/kc/en/gear_argonian_neck_a.png","bindType":2,"knownIds":[55413]}

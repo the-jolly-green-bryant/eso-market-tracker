@@ -1,10 +1,1 @@
-{
-  "internalId": 553752149,
-  "name": "Bottle of Catnip Perfume",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    427022
-  ]
-}
+{"internalId":553752149,"name":"Bottle of Catnip Perfume","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[427022]}

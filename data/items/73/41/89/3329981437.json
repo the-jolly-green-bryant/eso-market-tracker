@@ -1,10 +1,1 @@
-{
-  "internalId": 3329981437,
-  "name": "Axe of the Archer's Mind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87620
-  ]
-}
+{"internalId":3329981437,"name":"Axe of the Archer's Mind","description":"","icon":"data/images/d_/ex/ah/gear_bosmer_1haxe_d.png","bindType":2,"knownIds":[87620]}

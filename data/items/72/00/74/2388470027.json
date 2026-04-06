@@ -1,10 +1,1 @@
-{
-  "internalId": 2388470027,
-  "name": "Seht Time Orb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1147277
-  ]
-}
+{"internalId":2388470027,"name":"Seht Time Orb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[1147277]}

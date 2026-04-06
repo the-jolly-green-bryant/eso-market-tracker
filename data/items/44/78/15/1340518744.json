@@ -1,10 +1,1 @@
-{
-  "internalId": 1340518744,
-  "name": "Shoes of the Necromancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactwormcultlight_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    56904
-  ]
-}
+{"internalId":1340518744,"name":"Shoes of the Necromancer","description":"","icon":"data/images/a_/te/ef/gear_artifactwormcultlight_feet_a.png","bindType":2,"knownIds":[56904]}

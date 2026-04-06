@@ -1,10 +1,1 @@
-{
-  "internalId": 2608587627,
-  "name": "Timidity Poison I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_violet_005.png",
-  "bindType": -1,
-  "knownIds": [
-    158309
-  ]
-}
+{"internalId":2608587627,"name":"Timidity Poison I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_violet_005.png","bindType":-1,"knownIds":[158309]}

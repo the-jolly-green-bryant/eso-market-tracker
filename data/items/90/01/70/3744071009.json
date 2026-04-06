@@ -1,10 +1,1 @@
-{
-  "internalId": 3744071009,
-  "name": "Kinhouse Tassel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    824050
-  ]
-}
+{"internalId":3744071009,"name":"Kinhouse Tassel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rope_001.png","bindType":-1,"knownIds":[824050]}

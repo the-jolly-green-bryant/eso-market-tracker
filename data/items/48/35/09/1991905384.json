@@ -1,10 +1,1 @@
-{
-  "internalId": 1991905384,
-  "name": "Formula: Indoril Sconce, Temple",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    127081
-  ]
-}
+{"internalId":1991905384,"name":"Formula: Indoril Sconce, Temple","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[127081]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3924551055,
-  "name": "Rocks, Scattered Weathered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_bangkoraismall004.png",
-  "bindType": -1,
-  "knownIds": [
-    120440
-  ]
-}
+{"internalId":3924551055,"name":"Rocks, Scattered Weathered","description":"This is a standard house item.","icon":"data/images/40/0l/la/housing_rok_gry_bangkoraismall004.png","bindType":-1,"knownIds":[120440]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 775493853,
-  "name": "Tide-Born Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215829
-  ]
-}
+{"internalId":775493853,"name":"Tide-Born Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[215829]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1995643525,
-  "name": "Nix-Hound Booties",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    845829
-  ]
-}
+{"internalId":1995643525,"name":"Nix-Hound Booties","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png","bindType":-1,"knownIds":[845829]}

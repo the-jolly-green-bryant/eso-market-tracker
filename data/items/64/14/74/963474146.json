@@ -1,13 +1,1 @@
-{
-  "internalId": 963474146,
-  "name": "greater glyph of hardening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png",
-  "bindType": -1,
-  "knownIds": [
-    475636,
-    1446358,
-    475636,
-    1446358
-  ]
-}
+{"internalId":963474146,"name":"greater glyph of hardening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png","bindType":-1,"knownIds":[475636,1446358,475636,1446358]}

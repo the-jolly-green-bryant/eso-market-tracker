@@ -1,10 +1,1 @@
-{
-  "internalId": 1811338993,
-  "name": "Inferno Staff of the Healer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    87252
-  ]
-}
+{"internalId":1811338993,"name":"Inferno Staff of the Healer","description":"","icon":"data/images/c_/ff/at/gear_ancient_elf_staff_c.png","bindType":2,"knownIds":[87252]}

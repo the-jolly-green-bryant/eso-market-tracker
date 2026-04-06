@@ -1,10 +1,1 @@
-{
-  "internalId": 1438608355,
-  "name": "Jewelry: Briarheart",
-  "description": "A Medium Armor set found in Wrothgar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134067
-  ]
-}
+{"internalId":1438608355,"name":"Jewelry: Briarheart","description":"A Medium Armor set found in Wrothgar.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134067]}

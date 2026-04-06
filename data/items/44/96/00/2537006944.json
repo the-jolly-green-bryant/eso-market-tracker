@@ -1,10 +1,1 @@
-{
-  "internalId": 2537006944,
-  "name": "Tree, Elder Blackwood Beech",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_beech001.png",
-  "bindType": -1,
-  "knownIds": [
-    181607
-  ]
-}
+{"internalId":2537006944,"name":"Tree, Elder Blackwood Beech","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_skr_beech001.png","bindType":-1,"knownIds":[181607]}

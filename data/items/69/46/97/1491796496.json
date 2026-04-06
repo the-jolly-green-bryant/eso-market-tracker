@@ -1,10 +1,1 @@
-{
-  "internalId": 1491796496,
-  "name": "Style Page: Opal Swarm Mother Bow",
-  "description": "Use to learn the Opal Swarm Mother Bow Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171287
-  ]
-}
+{"internalId":1491796496,"name":"Style Page: Opal Swarm Mother Bow","description":"Use to learn the Opal Swarm Mother Bow Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171287]}

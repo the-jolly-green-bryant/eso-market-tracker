@@ -1,10 +1,1 @@
-{
-  "internalId": 2850999617,
-  "name": "Ra Gada Guardian Statue, Riding Camel",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varstatuescamel001.png",
-  "bindType": -1,
-  "knownIds": [
-    134889
-  ]
-}
+{"internalId":2850999617,"name":"Ra Gada Guardian Statue, Riding Camel","description":"This is a large house item.","icon":"data/images/10/0l/em/housing_red_run_varstatuescamel001.png","bindType":-1,"knownIds":[134889]}

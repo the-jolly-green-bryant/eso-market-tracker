@@ -1,10 +1,1 @@
-{
-  "internalId": 1527899658,
-  "name": "Dwarven Corner Bench, Ornate Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbench008.png",
-  "bindType": -1,
-  "knownIds": [
-    171344
-  ]
-}
+{"internalId":1527899658,"name":"Dwarven Corner Bench, Ornate Polished","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbench008.png","bindType":-1,"knownIds":[171344]}

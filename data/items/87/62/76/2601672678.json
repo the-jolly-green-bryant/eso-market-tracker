@@ -1,10 +1,1 @@
-{
-  "internalId": 2601672678,
-  "name": "Arm Cops of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95803
-  ]
-}
+{"internalId":2601672678,"name":"Arm Cops of the Air","description":"","icon":"data/images/a_/sr/ed/gear_yokudan_medium_shoulders_a.png","bindType":2,"knownIds":[95803]}

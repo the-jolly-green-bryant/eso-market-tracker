@@ -1,10 +1,1 @@
-{
-  "internalId": 2274517745,
-  "name": "Mad Tinkerer's Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133013
-  ]
-}
+{"internalId":2274517745,"name":"Mad Tinkerer's Hat","description":"","icon":"data/images/a_/da/eh/gear_apostle_light_head_a.png","bindType":2,"knownIds":[133013]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3525584202,
-  "name": "Venomous Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160996
-  ]
-}
+{"internalId":3525584202,"name":"Venomous Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_chest_a.png","bindType":2,"knownIds":[160996]}

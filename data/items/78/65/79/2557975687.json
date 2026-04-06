@@ -1,10 +1,1 @@
-{
-  "internalId": 2557975687,
-  "name": "Boulder, Coldharbour Shard",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_coldharbor_med002.png",
-  "bindType": -1,
-  "knownIds": [
-    130274
-  ]
-}
+{"internalId":2557975687,"name":"Boulder, Coldharbour Shard","description":"This is a large house item.","icon":"data/images/20/0d/em/housing_rok_vol_coldharbor_med002.png","bindType":-1,"knownIds":[130274]}

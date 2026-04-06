@@ -1,10 +1,1 @@
-{
-  "internalId": 3554202907,
-  "name": "Design: Redguard Kabobs, Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    119150
-  ]
-}
+{"internalId":3554202907,"name":"Design: Redguard Kabobs, Wax","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[119150]}

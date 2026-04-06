@@ -1,10 +1,1 @@
-{
-  "internalId": 2333306652,
-  "name": "Fargrave Fish Pile, Marinated Trout",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodfish001.png",
-  "bindType": -1,
-  "knownIds": [
-    182298
-  ]
-}
+{"internalId":2333306652,"name":"Fargrave Fish Pile, Marinated Trout","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodfish001.png","bindType":-1,"knownIds":[182298]}

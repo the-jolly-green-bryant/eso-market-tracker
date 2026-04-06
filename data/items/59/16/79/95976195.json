@@ -1,10 +1,1 @@
-{
-  "internalId": 95976195,
-  "name": "Desecrated Insect Fabricant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/pet_124.png",
-  "bindType": -1,
-  "knownIds": [
-    1414370
-  ]
-}
+{"internalId":95976195,"name":"Desecrated Insect Fabricant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/pet_124.png","bindType":-1,"knownIds":[1414370]}

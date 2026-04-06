@@ -1,10 +1,1 @@
-{
-  "internalId": 3606452175,
-  "name": "Highland Sentinel Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206135
-  ]
-}
+{"internalId":3606452175,"name":"Highland Sentinel Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png","bindType":2,"knownIds":[206135]}

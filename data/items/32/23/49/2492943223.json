@@ -1,10 +1,1 @@
-{
-  "internalId": 2492943223,
-  "name": "Fargrave Paper Lantern, Blue Round",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farlanternhanging004.png",
-  "bindType": -1,
-  "knownIds": [
-    223863
-  ]
-}
+{"internalId":2492943223,"name":"Fargrave Paper Lantern, Blue Round","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_farlanternhanging004.png","bindType":-1,"knownIds":[223863]}

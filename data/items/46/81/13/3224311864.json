@@ -1,10 +1,1 @@
-{
-  "internalId": 3224311864,
-  "name": "Vines, Sun-Bronzed Ivy Climber",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_sumivy006.png",
-  "bindType": -1,
-  "knownIds": [
-    139339
-  ]
-}
+{"internalId":3224311864,"name":"Vines, Sun-Bronzed Ivy Climber","description":"This is a large house item.","icon":"data/images/60/0y/vi/housing_veg_vin_sumivy006.png","bindType":-1,"knownIds":[139339]}

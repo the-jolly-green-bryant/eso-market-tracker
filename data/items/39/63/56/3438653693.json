@@ -1,10 +1,1 @@
-{
-  "internalId": 3438653693,
-  "name": "Hood of the Voidguide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_head_b.png",
-  "bindType": 2,
-  "knownIds": [
-    44245
-  ]
-}
+{"internalId":3438653693,"name":"Hood of the Voidguide","description":"","icon":"data/images/b_/da/eh/gear_ashlander_head_b.png","bindType":2,"knownIds":[44245]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3743719372,
-  "name": "Falmer Tent, Conical",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrtent002.png",
-  "bindType": -1,
-  "knownIds": [
-    193800
-  ]
-}
+{"internalId":3743719372,"name":"Falmer Tent, Conical","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrtent002.png","bindType":-1,"knownIds":[193800]}

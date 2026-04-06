@@ -1,10 +1,1 @@
-{
-  "internalId": 991636021,
-  "name": "Dark Elf Streetpost, Banner",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_postempty001.png",
-  "bindType": -1,
-  "knownIds": [
-    115287
-  ]
-}
+{"internalId":991636021,"name":"Dark Elf Streetpost, Banner","description":"This is a large house item.","icon":"data/images/10/0y/tp/housing_dun_lsb_postempty001.png","bindType":-1,"knownIds":[115287]}

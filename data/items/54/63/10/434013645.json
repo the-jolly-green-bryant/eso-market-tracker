@@ -1,10 +1,1 @@
-{
-  "internalId": 434013645,
-  "name": "Recipe: Comberry Citrus Quencher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57065
-  ]
-}
+{"internalId":434013645,"name":"Recipe: Comberry Citrus Quencher","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57065]}

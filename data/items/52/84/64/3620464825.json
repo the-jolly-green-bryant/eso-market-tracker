@@ -1,10 +1,1 @@
-{
-  "internalId": 3620464825,
-  "name": "Ring of Willpower",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    69279
-  ]
-}
+{"internalId":3620464825,"name":"Ring of Willpower","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[69279]}

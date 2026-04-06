@@ -1,10 +1,1 @@
-{
-  "internalId": 1487861913,
-  "name": "Venison Stuffed Grape Leaves Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    440508
-  ]
-}
+{"internalId":1487861913,"name":"Venison Stuffed Grape Leaves Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[440508]}

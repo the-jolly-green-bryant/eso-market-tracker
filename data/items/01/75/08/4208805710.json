@@ -1,11 +1,1 @@
-{
-  "internalId": 4208805710,
-  "name": "Imported Khenarthi's Wool Blanket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    934847,
-    934847
-  ]
-}
+{"internalId":4208805710,"name":"Imported Khenarthi's Wool Blanket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[934847,934847]}

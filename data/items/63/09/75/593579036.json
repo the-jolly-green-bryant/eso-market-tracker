@@ -1,10 +1,1 @@
-{
-  "internalId": 593579036,
-  "name": "Jewelry: Knight Slayer",
-  "description": "A Light Armor set purchased in Morrowind's Battleground Camp.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    127139
-  ]
-}
+{"internalId":593579036,"name":"Jewelry: Knight Slayer","description":"A Light Armor set purchased in Morrowind's Battleground Camp.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[127139]}

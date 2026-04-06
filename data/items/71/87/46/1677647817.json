@@ -1,10 +1,1 @@
-{
-  "internalId": 1677647817,
-  "name": "High Elf Table, Winged Formal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tablerectangular001.png",
-  "bindType": -1,
-  "knownIds": [
-    114392
-  ]
-}
+{"internalId":1677647817,"name":"High Elf Table, Winged Formal","description":"This is a standard house item.","icon":"data/images/10/0r/al/housing_alt_fur_tablerectangular001.png","bindType":-1,"knownIds":[114392]}

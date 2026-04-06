@@ -1,10 +1,1 @@
-{
-  "internalId": 445806405,
-  "name": "Pungent Incense",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_incense_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860374
-  ]
-}
+{"internalId":445806405,"name":"Pungent Incense","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_incense_001.png","bindType":-1,"knownIds":[860374]}

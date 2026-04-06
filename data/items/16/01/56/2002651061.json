@@ -1,10 +1,1 @@
-{
-  "internalId": 2002651061,
-  "name": "Elven Chisel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mehrunesrazor_base.png",
-  "bindType": -1,
-  "knownIds": [
-    1248475
-  ]
-}
+{"internalId":2002651061,"name":"Elven Chisel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mehrunesrazor_base.png","bindType":-1,"knownIds":[1248475]}

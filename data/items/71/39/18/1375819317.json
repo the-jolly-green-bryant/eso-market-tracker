@@ -1,10 +1,1 @@
-{
-  "internalId": 1375819317,
-  "name": "Druidic Post, Arch",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_druintlogarch001.png",
-  "bindType": -1,
-  "knownIds": [
-    193839
-  ]
-}
+{"internalId":1375819317,"name":"Druidic Post, Arch","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_druintlogarch001.png","bindType":-1,"knownIds":[193839]}

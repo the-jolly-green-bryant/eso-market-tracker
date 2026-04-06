@@ -1,10 +1,1 @@
-{
-  "internalId": 787300966,
-  "name": "Bound Focus Script: Stun",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_stunned.png",
-  "bindType": -1,
-  "knownIds": [
-    1720928
-  ]
-}
+{"internalId":787300966,"name":"Bound Focus Script: Stun","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_stunned.png","bindType":-1,"knownIds":[1720928]}

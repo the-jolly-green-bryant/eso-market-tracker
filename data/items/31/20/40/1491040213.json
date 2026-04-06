@@ -1,10 +1,1 @@
-{
-  "internalId": 1491040213,
-  "name": "Aeonstone Formation, Circular",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_housingempyreanholdercrystalmed001.png",
-  "bindType": -1,
-  "knownIds": [
-    218020
-  ]
-}
+{"internalId":1491040213,"name":"Aeonstone Formation, Circular","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_els_housingempyreanholdercrystalmed001.png","bindType":-1,"knownIds":[218020]}

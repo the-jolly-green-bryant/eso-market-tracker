@@ -1,10 +1,1 @@
-{
-  "internalId": 3968277911,
-  "name": "Honing Stone",
-  "description": "Improve quality from white to green.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ores_lazurite.png",
-  "bindType": -1,
-  "knownIds": [
-    54170
-  ]
-}
+{"internalId":3968277911,"name":"Honing Stone","description":"Improve quality from white to green.","icon":"data/images/et/ir/uz/crafting_ores_lazurite.png","bindType":-1,"knownIds":[54170]}

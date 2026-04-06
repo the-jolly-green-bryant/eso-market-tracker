@@ -1,10 +1,1 @@
-{
-  "internalId": 3751036220,
-  "name": "Dwarven Frieze, Wrathstone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_wrathstone001.png",
-  "bindType": -1,
-  "knownIds": [
-    147574
-  ]
-}
+{"internalId":3751036220,"name":"Dwarven Frieze, Wrathstone","description":"This is a standard house item.","icon":"data/images/10/0e/no/housing_dwe_duc_wrathstone001.png","bindType":-1,"knownIds":[147574]}

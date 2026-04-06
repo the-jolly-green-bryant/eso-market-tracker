@@ -1,10 +1,1 @@
-{
-  "internalId": 262502299,
-  "name": "Never Freezing Snowball",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150947
-  ]
-}
+{"internalId":262502299,"name":"Never Freezing Snowball","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png","bindType":-1,"knownIds":[1150947]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1069334690,
-  "name": "Wormcast Visage",
-  "description": "Its surface bears the scorched imprint of a Worm Cult mark—burned away, but not forgotten.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223682
-  ]
-}
+{"internalId":1069334690,"name":"Wormcast Visage","description":"Its surface bears the scorched imprint of a Worm Cult mark—burned away, but not forgotten.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_head_a.png","bindType":2,"knownIds":[223682]}

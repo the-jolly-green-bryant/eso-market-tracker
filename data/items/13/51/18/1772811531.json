@@ -1,10 +1,1 @@
-{
-  "internalId": 1772811531,
-  "name": "Pit Daemon Shield",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holwhitestrikeshield002.png",
-  "bindType": -1,
-  "knownIds": [
-    211518
-  ]
-}
+{"internalId":1772811531,"name":"Pit Daemon Shield","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holwhitestrikeshield002.png","bindType":-1,"knownIds":[211518]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3528629442,
-  "name": "Orsinium Tent, Chief's",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_str_tent001.png",
-  "bindType": -1,
-  "knownIds": [
-    132145
-  ]
-}
+{"internalId":3528629442,"name":"Orsinium Tent, Chief's","description":"This is a large house item.","icon":"data/images/10/0t/ne/housing_orc_str_tent001.png","bindType":-1,"knownIds":[132145]}

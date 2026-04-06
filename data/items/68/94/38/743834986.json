@@ -1,10 +1,1 @@
-{
-  "internalId": 743834986,
-  "name": "Infernal Guardian Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedlurcher_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1725834
-  ]
-}
+{"internalId":743834986,"name":"Infernal Guardian Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedlurcher_shoulders_a.png","bindType":-1,"knownIds":[1725834]}

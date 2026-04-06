@@ -1,10 +1,1 @@
-{
-  "internalId": 975341303,
-  "name": "Viridian Dust",
-  "description": "Ten of this dust can be refined into Volcanic Viridian, used to make Buoyant Armiger equipment.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_buoyant_armiger_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    121521
-  ]
-}
+{"internalId":975341303,"name":"Viridian Dust","description":"Ten of this dust can be refined into Volcanic Viridian, used to make Buoyant Armiger equipment.","icon":"data/images/1r/_r/eg/crafting_style_item_buoyant_armiger_r1.png","bindType":-1,"knownIds":[121521]}

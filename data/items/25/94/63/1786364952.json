@@ -1,10 +1,1 @@
-{
-  "internalId": 1786364952,
-  "name": "Blueprint: Coffin, Lid",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119421
-  ]
-}
+{"internalId":1786364952,"name":"Blueprint: Coffin, Lid","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[119421]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2314298217,
-  "name": "Cactus, Lemon Bulbs",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_alikircactus002.png",
-  "bindType": -1,
-  "knownIds": [
-    120483
-  ]
-}
+{"internalId":2314298217,"name":"Cactus, Lemon Bulbs","description":"This is a small house item.","icon":"data/images/20/0s/ut/housing_veg_bsh_alikircactus002.png","bindType":-1,"knownIds":[120483]}

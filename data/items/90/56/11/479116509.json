@@ -1,10 +1,1 @@
-{
-  "internalId": 479116509,
-  "name": "Blueprint: Solitude Stall, Merchant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    167357
-  ]
-}
+{"internalId":479116509,"name":"Blueprint: Solitude Stall, Merchant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[167357]}

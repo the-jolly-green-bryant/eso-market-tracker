@@ -1,10 +1,1 @@
-{
-  "internalId": 3481617779,
-  "name": "Stained Glass of Mara",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowmara001.png",
-  "bindType": -1,
-  "knownIds": [
-    181479
-  ]
-}
+{"internalId":3481617779,"name":"Stained Glass of Mara","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowmara001.png","bindType":-1,"knownIds":[181479]}

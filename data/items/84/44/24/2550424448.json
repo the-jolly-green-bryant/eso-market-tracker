@@ -1,10 +1,1 @@
-{
-  "internalId": 2550424448,
-  "name": "Maul of the Juggernaut",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89041
-  ]
-}
+{"internalId":2550424448,"name":"Maul of the Juggernaut","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[89041]}

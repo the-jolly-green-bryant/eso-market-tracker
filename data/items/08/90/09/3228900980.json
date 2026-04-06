@@ -1,10 +1,1 @@
-{
-  "internalId": 3228900980,
-  "name": "Tide-Born Art, Flame Lily",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argconchflower001.png",
-  "bindType": -1,
-  "knownIds": [
-    214388
-  ]
-}
+{"internalId":3228900980,"name":"Tide-Born Art, Flame Lily","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_argconchflower001.png","bindType":-1,"knownIds":[214388]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3236881466,
-  "name": "Blacksmith Survey: Grahtwood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    810493
-  ]
-}
+{"internalId":3236881466,"name":"Blacksmith Survey: Grahtwood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[810493]}

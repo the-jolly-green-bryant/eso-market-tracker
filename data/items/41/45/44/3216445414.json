@@ -1,10 +1,1 @@
-{
-  "internalId": 3216445414,
-  "name": "Dwarven Frieze, Power in Twain",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_wrathstone002.png",
-  "bindType": -1,
-  "knownIds": [
-    147575
-  ]
-}
+{"internalId":3216445414,"name":"Dwarven Frieze, Power in Twain","description":"This is a standard house item.","icon":"data/images/20/0e/no/housing_dwe_duc_wrathstone002.png","bindType":-1,"knownIds":[147575]}

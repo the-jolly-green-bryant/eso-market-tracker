@@ -1,10 +1,1 @@
-{
-  "internalId": 2317620056,
-  "name": "Weapons: Moondancer",
-  "description": "A Light Armor set found in the Maw of Lorkhaj Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134607
-  ]
-}
+{"internalId":2317620056,"name":"Weapons: Moondancer","description":"A Light Armor set found in the Maw of Lorkhaj Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134607]}

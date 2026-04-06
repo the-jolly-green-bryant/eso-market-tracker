@@ -1,10 +1,1 @@
-{
-  "internalId": 708545986,
-  "name": "Sword Saint's Choker",
-  "description": "A relic interred within the Ancestral Crypt. Disturbed by the dark magics of Mannimarco and once worn by a Sword Saint of old.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    27276
-  ]
-}
+{"internalId":708545986,"name":"Sword Saint's Choker","description":"A relic interred within the Ancestral Crypt. Disturbed by the dark magics of Mannimarco and once worn by a Sword Saint of old.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[27276]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2215666388,
-  "name": "Tribunal Mourning Stole",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png",
-  "bindType": -1,
-  "knownIds": [
-    824051
-  ]
-}
+{"internalId":2215666388,"name":"Tribunal Mourning Stole","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png","bindType":-1,"knownIds":[824051]}

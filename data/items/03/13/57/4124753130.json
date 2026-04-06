@@ -1,10 +1,1 @@
-{
-  "internalId": 4124753130,
-  "name": "Dozzen Talharpa",
-  "description": "A crude version of a lyre, crafted by Jibhan from the sinew of his late twin brother. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questdozzentalharpa001.png",
-  "bindType": 3,
-  "knownIds": [
-    160515
-  ]
-}
+{"internalId":4124753130,"name":"Dozzen Talharpa","description":"A crude version of a lyre, crafted by Jibhan from the sinew of his late twin brother. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questdozzentalharpa001.png","bindType":3,"knownIds":[160515]}

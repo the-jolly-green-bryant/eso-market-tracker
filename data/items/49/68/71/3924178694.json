@@ -1,10 +1,1 @@
-{
-  "internalId": 3924178694,
-  "name": "Farstrider Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211910
-  ]
-}
+{"internalId":3924178694,"name":"Farstrider Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_feet_a.png","bindType":2,"knownIds":[211910]}

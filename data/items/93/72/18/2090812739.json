@@ -1,10 +1,1 @@
-{
-  "internalId": 2090812739,
-  "name": "Draoife Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190857
-  ]
-}
+{"internalId":2090812739,"name":"Draoife Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_staff_a.png","bindType":2,"knownIds":[190857]}

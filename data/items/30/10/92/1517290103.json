@@ -1,10 +1,1 @@
-{
-  "internalId": 1517290103,
-  "name": "Battalion Defender Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144975
-  ]
-}
+{"internalId":1517290103,"name":"Battalion Defender Maul","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[144975]}

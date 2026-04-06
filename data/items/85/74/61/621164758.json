@@ -1,10 +1,1 @@
-{
-  "internalId": 621164758,
-  "name": "Werewolf Hide Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86006
-  ]
-}
+{"internalId":621164758,"name":"Werewolf Hide Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[86006]}

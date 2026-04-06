@@ -1,10 +1,1 @@
-{
-  "internalId": 3066306481,
-  "name": "Kindlepitch Pouch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    403145
-  ]
-}
+{"internalId":3066306481,"name":"Kindlepitch Pouch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[403145]}

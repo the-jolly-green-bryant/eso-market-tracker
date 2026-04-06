@@ -1,10 +1,1 @@
-{
-  "internalId": 34729083,
-  "name": "Horker Beanbag Cushion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ball.png",
-  "bindType": -1,
-  "knownIds": [
-    1385020
-  ]
-}
+{"internalId":34729083,"name":"Horker Beanbag Cushion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ball.png","bindType":-1,"knownIds":[1385020]}

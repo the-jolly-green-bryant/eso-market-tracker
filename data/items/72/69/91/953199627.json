@@ -1,10 +1,1 @@
-{
-  "internalId": 953199627,
-  "name": "Robier's Vegetable Garden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1089734
-  ]
-}
+{"internalId":953199627,"name":"Robier's Vegetable Garden","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed001.png","bindType":-1,"knownIds":[1089734]}

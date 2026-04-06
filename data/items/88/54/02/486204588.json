@@ -1,10 +1,1 @@
-{
-  "internalId": 486204588,
-  "name": "Homespun Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2lgt_hands.png",
-  "bindType": -1,
-  "knownIds": [
-    175748
-  ]
-}
+{"internalId":486204588,"name":"Homespun Gloves","description":"","icon":"data/images/a_/sd/na/gear_soulshriven_light_hands_a.png","bindType":-1,"knownIds":[76863]}

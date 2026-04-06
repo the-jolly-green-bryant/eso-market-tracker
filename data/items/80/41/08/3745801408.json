@@ -1,10 +1,1 @@
-{
-  "internalId": 3745801408,
-  "name": "Blueprint: Elsweyr Table, Wide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    152062
-  ]
-}
+{"internalId":3745801408,"name":"Blueprint: Elsweyr Table, Wide","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[152062]}

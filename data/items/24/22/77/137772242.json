@@ -1,10 +1,1 @@
-{
-  "internalId": 137772242,
-  "name": "Taxidermy, Bird of Prey",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_totempiece001.png",
-  "bindType": -1,
-  "knownIds": [
-    153696
-  ]
-}
+{"internalId":137772242,"name":"Taxidermy, Bird of Prey","description":"This is a small house item.","icon":"data/images/10/0e/ce/housing_nor_duc_totempiece001.png","bindType":-1,"knownIds":[153696]}

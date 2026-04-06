@@ -1,10 +1,1 @@
-{
-  "internalId": 3245220110,
-  "name": "Solitude Travel Chest, Practical",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_chest001.png",
-  "bindType": -1,
-  "knownIds": [
-    165711
-  ]
-}
+{"internalId":3245220110,"name":"Solitude Travel Chest, Practical","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_chest001.png","bindType":-1,"knownIds":[165711]}

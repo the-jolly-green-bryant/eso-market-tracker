@@ -1,10 +1,1 @@
-{
-  "internalId": 700228638,
-  "name": "Sticky Pork and Radish Noodles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_003.png",
-  "bindType": -1,
-  "knownIds": [
-    68245
-  ]
-}
+{"internalId":700228638,"name":"Sticky Pork and Radish Noodles","description":"","icon":"data/images/30/0_/lw/crafting_bowl_003.png","bindType":-1,"knownIds":[68245]}

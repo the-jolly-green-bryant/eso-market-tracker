@@ -1,10 +1,1 @@
-{
-  "internalId": 1385219107,
-  "name": "Orcish Divider, Curved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgscreen002.png",
-  "bindType": -1,
-  "knownIds": [
-    116441
-  ]
-}
+{"internalId":1385219107,"name":"Orcish Divider, Curved","description":"This is a standard house item.","icon":"data/images/20/0n/ee/housing_orc_fur_wtgscreen002.png","bindType":-1,"knownIds":[116441]}

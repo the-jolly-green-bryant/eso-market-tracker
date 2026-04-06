@@ -1,10 +1,1 @@
-{
-  "internalId": 676165516,
-  "name": "Deregulated Mushroom Stew",
-  "description": "A piping hot stew of savoury truffles and fabricant flesh. Perfectly edible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_002.png",
-  "bindType": -1,
-  "knownIds": [
-    133554
-  ]
-}
+{"internalId":676165516,"name":"Deregulated Mushroom Stew","description":"A piping hot stew of savoury truffles and fabricant flesh. Perfectly edible.","icon":"data/images/20/0_/pu/crafting_soup_002.png","bindType":-1,"knownIds":[133554]}

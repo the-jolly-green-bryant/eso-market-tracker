@@ -1,10 +1,1 @@
-{
-  "internalId": 2017091654,
-  "name": "Shield of the Morag Tong",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93511
-  ]
-}
+{"internalId":2017091654,"name":"Shield of the Morag Tong","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[93511]}

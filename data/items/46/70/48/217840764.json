@@ -1,10 +1,1 @@
-{
-  "internalId": 217840764,
-  "name": "Diagram: High Elf Sconce, Winged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    121310
-  ]
-}
+{"internalId":217840764,"name":"Diagram: High Elf Sconce, Winged","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[121310]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2155582068,
-  "name": "Tree, Ancient Summerset Spruce",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_ezospruce006.png",
-  "bindType": -1,
-  "knownIds": [
-    139340
-  ]
-}
+{"internalId":2155582068,"name":"Tree, Ancient Summerset Spruce","description":"This is a huge house item.","icon":"data/images/60/0e/cu/housing_tre_sum_ezospruce006.png","bindType":-1,"knownIds":[139340]}

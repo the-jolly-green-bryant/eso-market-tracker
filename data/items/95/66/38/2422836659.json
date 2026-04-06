@@ -1,10 +1,1 @@
-{
-  "internalId": 2422836659,
-  "name": "Recipe: Orcrest Garlic Apple Jelly",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45966
-  ]
-}
+{"internalId":2422836659,"name":"Recipe: Orcrest Garlic Apple Jelly","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45966]}

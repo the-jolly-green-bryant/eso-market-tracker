@@ -1,10 +1,1 @@
-{
-  "internalId": 3123069440,
-  "name": "Common Barrel, Sealed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png",
-  "bindType": -1,
-  "knownIds": [
-    118003
-  ]
-}
+{"internalId":3123069440,"name":"Common Barrel, Sealed","description":"This is a standard house item.","icon":"data/images/10/0l/er/housing_bre_con_barrel001.png","bindType":-1,"knownIds":[118003]}

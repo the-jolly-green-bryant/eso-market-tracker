@@ -1,10 +1,1 @@
-{
-  "internalId": 2784941809,
-  "name": "Pack Leader's Bone Broth",
-  "description": "A thick, hearty broth prepared from domestic and exotic bones and an assortment of meats and herbs. Quite fragrant.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_troll_fat.png",
-  "bindType": -1,
-  "knownIds": [
-    153627
-  ]
-}
+{"internalId":2784941809,"name":"Pack Leader's Bone Broth","description":"A thick, hearty broth prepared from domestic and exotic bones and an assortment of meats and herbs. Quite fragrant.","icon":"data/images/ta/f_/ll/crafting_poisonmaking_reagent_troll_fat.png","bindType":-1,"knownIds":[153627]}

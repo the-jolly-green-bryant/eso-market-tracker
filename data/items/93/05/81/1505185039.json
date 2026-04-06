@@ -1,10 +1,1 @@
-{
-  "internalId": 1505185039,
-  "name": "Red Meat",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_food_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33752
-  ]
-}
+{"internalId":1505185039,"name":"Red Meat","description":"An ingredient for crafting food.","icon":"data/images/30/0_/do/quest_food_003.png","bindType":-1,"knownIds":[33752]}

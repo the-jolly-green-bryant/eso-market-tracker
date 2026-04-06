@@ -1,10 +1,1 @@
-{
-  "internalId": 2373784365,
-  "name": "BLACKROSE: One Handed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1411290
-  ]
-}
+{"internalId":2373784365,"name":"BLACKROSE: One Handed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1411290]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3227694747,
-  "name": "Cuirass of the Fang",
-  "description": "Awarded for successfully completing the Trials of the Burnished Scales in Shadowfen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7468
-  ]
-}
+{"internalId":3227694747,"name":"Cuirass of the Fang","description":"Awarded for successfully completing the Trials of the Burnished Scales in Shadowfen.","icon":"data/images/d_/ts/eh/gear_argonian_heavy_chest_d.png","bindType":2,"knownIds":[7468]}

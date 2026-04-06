@@ -1,10 +1,1 @@
-{
-  "internalId": 1119259768,
-  "name": "Shield of Unfathomable Darkness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133193
-  ]
-}
+{"internalId":1119259768,"name":"Shield of Unfathomable Darkness","description":"","icon":"data/images/a_/dl/ei/gear_nocturnal_shield_a.png","bindType":2,"knownIds":[133193]}

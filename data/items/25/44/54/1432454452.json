@@ -1,10 +1,1 @@
-{
-  "internalId": 1432454452,
-  "name": "Lucent Crystal Shards, Spiral",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_chl_spiralmirrorshards011.png",
-  "bindType": -1,
-  "knownIds": [
-    206542
-  ]
-}
+{"internalId":1432454452,"name":"Lucent Crystal Shards, Spiral","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_chl_spiralmirrorshards011.png","bindType":-1,"knownIds":[206542]}

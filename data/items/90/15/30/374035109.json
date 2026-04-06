@@ -1,10 +1,1 @@
-{
-  "internalId": 374035109,
-  "name": "Enchanter Survey: Bangkorai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    789317
-  ]
-}
+{"internalId":374035109,"name":"Enchanter Survey: Bangkorai","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[789317]}

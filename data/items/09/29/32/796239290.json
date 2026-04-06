@@ -1,10 +1,1 @@
-{
-  "internalId": 796239290,
-  "name": "Spectre's Eye Light Armor",
-  "description": "A Crafted Armor set constructed in Coldharbour.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182652
-  ]
-}
+{"internalId":796239290,"name":"Spectre's Eye Light Armor","description":"A Crafted Armor set constructed in Coldharbour.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182652]}

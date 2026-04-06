@@ -1,10 +1,1 @@
-{
-  "internalId": 3532114072,
-  "name": "Vampiric Lightpost, Azure Double",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_vampirelightposta002.png",
-  "bindType": -1,
-  "knownIds": [
-    181491
-  ]
-}
+{"internalId":3532114072,"name":"Vampiric Lightpost, Azure Double","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_vampirelightposta002.png","bindType":-1,"knownIds":[181491]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 740895443,
-  "name": "Recipe: Donolon's Green Book",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail4_color2.png",
-  "bindType": -1,
-  "knownIds": [
-    932201
-  ]
-}
+{"internalId":740895443,"name":"Recipe: Donolon's Green Book","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail4_color2.png","bindType":-1,"knownIds":[932201]}

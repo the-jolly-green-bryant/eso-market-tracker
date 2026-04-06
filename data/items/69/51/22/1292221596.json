@@ -1,17 +1,1 @@
-{
-  "internalId": 1292221596,
-  "name": "Reflected Fury Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765784,
-    1768073,
-    1774452,
-    1779212,
-    1765784,
-    1768073,
-    1774452,
-    1779212
-  ]
-}
+{"internalId":1292221596,"name":"Reflected Fury Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hhammer_a.png","bindType":-1,"knownIds":[1765784,1768073,1774452,1779212,1765784,1768073,1774452,1779212]}

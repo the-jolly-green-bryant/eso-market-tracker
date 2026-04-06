@@ -1,10 +1,1 @@
-{
-  "internalId": 2791424151,
-  "name": "Flat Rye-In-Your-Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
-  "bindType": -1,
-  "knownIds": [
-    32121
-  ]
-}
+{"internalId":2791424151,"name":"Flat Rye-In-Your-Eye","description":"","icon":"data/images/30/0_/el/crafting_stoneware_bottle_003.png","bindType":-1,"knownIds":[32121]}

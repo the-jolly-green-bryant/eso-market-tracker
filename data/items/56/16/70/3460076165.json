@@ -1,10 +1,1 @@
-{
-  "internalId": 3460076165,
-  "name": "Diagram: Indoril Brazier, Knotwork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    127074
-  ]
-}
+{"internalId":3460076165,"name":"Diagram: Indoril Brazier, Knotwork","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[127074]}

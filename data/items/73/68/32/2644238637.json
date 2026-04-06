@@ -1,10 +1,1 @@
-{
-  "internalId": 2644238637,
-  "name": "Hat of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167760
-  ]
-}
+{"internalId":2644238637,"name":"Hat of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_head_a.png","bindType":2,"knownIds":[167760]}

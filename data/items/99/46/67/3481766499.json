@@ -1,10 +1,1 @@
-{
-  "internalId": 3481766499,
-  "name": "Affix Script: Expedition",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_expedition.png",
-  "bindType": -1,
-  "knownIds": [
-    204595
-  ]
-}
+{"internalId":3481766499,"name":"Affix Script: Expedition","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_expedition.png","bindType":-1,"knownIds":[204595]}

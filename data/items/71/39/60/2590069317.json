@@ -1,10 +1,1 @@
-{
-  "internalId": 2590069317,
-  "name": "Dark Elf Cruet, Glass",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_glassbottles002.png",
-  "bindType": -1,
-  "knownIds": [
-    115306
-  ]
-}
+{"internalId":2590069317,"name":"Dark Elf Cruet, Glass","description":"This is a tiny house item.","icon":"data/images/20/0s/el/housing_dun_inc_glassbottles002.png","bindType":-1,"knownIds":[115306]}

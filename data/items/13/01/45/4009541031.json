@@ -1,10 +1,1 @@
-{
-  "internalId": 4009541031,
-  "name": "Club Insignia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_runestone_006.png",
-  "bindType": -1,
-  "knownIds": [
-    795606
-  ]
-}
+{"internalId":4009541031,"name":"Club Insignia","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_runestone_006.png","bindType":-1,"knownIds":[795606]}

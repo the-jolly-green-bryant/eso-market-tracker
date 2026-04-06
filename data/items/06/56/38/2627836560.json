@@ -1,10 +1,1 @@
-{
-  "internalId": 2627836560,
-  "name": "Silver Boar Censer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_censer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1272599
-  ]
-}
+{"internalId":2627836560,"name":"Silver Boar Censer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_censer_001.png","bindType":-1,"knownIds":[1272599]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2510604645,
-  "name": "Robe of Transmutation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199546
-  ]
-}
+{"internalId":2510604645,"name":"Robe of Transmutation","description":"","icon":"data/images/a_/eb/or/gear_abahswatch_light_robe_a.png","bindType":2,"knownIds":[79845]}

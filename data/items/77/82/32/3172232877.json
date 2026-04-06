@@ -1,10 +1,1 @@
-{
-  "internalId": 3172232877,
-  "name": "Elsweyr Armchair, Low-Backed Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_chairlow001.png",
-  "bindType": -1,
-  "knownIds": [
-    151691
-  ]
-}
+{"internalId":3172232877,"name":"Elsweyr Armchair, Low-Backed Wooden","description":"This is a standard house item.","icon":"data/images/10/0w/ol/housing_els_fur_chairlow001.png","bindType":-1,"knownIds":[151691]}

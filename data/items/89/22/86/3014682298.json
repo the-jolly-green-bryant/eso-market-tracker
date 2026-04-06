@@ -1,10 +1,1 @@
-{
-  "internalId": 3014682298,
-  "name": "Drums",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    790417
-  ]
-}
+{"internalId":3014682298,"name":"Drums","description":"","icon":null,"bindType":-1,"knownIds":[790417]}

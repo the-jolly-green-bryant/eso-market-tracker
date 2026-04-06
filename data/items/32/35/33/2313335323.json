@@ -1,10 +1,1 @@
-{
-  "internalId": 2313335323,
-  "name": "Style Page: Horned Dragon Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1258655
-  ]
-}
+{"internalId":2313335323,"name":"Style Page: Horned Dragon Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1258655]}

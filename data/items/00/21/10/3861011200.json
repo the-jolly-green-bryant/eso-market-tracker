@@ -1,10 +1,1 @@
-{
-  "internalId": 3861011200,
-  "name": "Style Page: Knight of the Circle Bow",
-  "description": "Use to learn the Knight of the Circle Bow Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    159510
-  ]
-}
+{"internalId":3861011200,"name":"Style Page: Knight of the Circle Bow","description":"Use to learn the Knight of the Circle Bow Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[159510]}

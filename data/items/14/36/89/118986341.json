@@ -1,10 +1,1 @@
-{
-  "internalId": 118986341,
-  "name": "The Order of the Ancestor Moth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png",
-  "bindType": -1,
-  "knownIds": [
-    1095925
-  ]
-}
+{"internalId":118986341,"name":"The Order of the Ancestor Moth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png","bindType":-1,"knownIds":[1095925]}

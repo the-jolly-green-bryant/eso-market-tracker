@@ -1,10 +1,1 @@
-{
-  "internalId": 990763120,
-  "name": "Pattern: Dawnwood Container, Wood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    211435
-  ]
-}
+{"internalId":990763120,"name":"Pattern: Dawnwood Container, Wood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[211435]}

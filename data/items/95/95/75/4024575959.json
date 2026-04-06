@@ -1,10 +1,1 @@
-{
-  "internalId": 4024575959,
-  "name": "Cask, Blue Dye",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationbarrellrgd001.png",
-  "bindType": -1,
-  "knownIds": [
-    118318
-  ]
-}
+{"internalId":4024575959,"name":"Cask, Blue Dye","description":"This is a standard house item.","icon":"data/images/10/0d/gr/housing_gen_crf_dyestationbarrellrgd001.png","bindType":-1,"knownIds":[118318]}

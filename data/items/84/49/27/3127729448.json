@@ -1,10 +1,1 @@
-{
-  "internalId": 3127729448,
-  "name": "Common Buckle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803354
-  ]
-}
+{"internalId":3127729448,"name":"Common Buckle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[803354]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 72641574,
-  "name": "Taxidermy Sep Viper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trophy_001.png",
-  "bindType": -1,
-  "knownIds": [
-    898521
-  ]
-}
+{"internalId":72641574,"name":"Taxidermy Sep Viper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trophy_001.png","bindType":-1,"knownIds":[898521]}

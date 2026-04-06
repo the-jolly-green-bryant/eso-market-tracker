@@ -1,10 +1,1 @@
-{
-  "internalId": 2668426604,
-  "name": "Dwarven Power Core",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    815022
-  ]
-}
+{"internalId":2668426604,"name":"Dwarven Power Core","description":"","icon":null,"bindType":-1,"knownIds":[815022]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 790612850,
-  "name": "Sack of Seeds",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    820848
-  ]
-}
+{"internalId":790612850,"name":"Sack of Seeds","description":"","icon":null,"bindType":-1,"knownIds":[820848]}

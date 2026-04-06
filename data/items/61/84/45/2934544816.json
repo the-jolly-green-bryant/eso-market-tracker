@@ -1,10 +1,1 @@
-{
-  "internalId": 2934544816,
-  "name": "Worm Cult Hammer, Mining",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_mininghammer001.png",
-  "bindType": -1,
-  "knownIds": [
-    223158
-  ]
-}
+{"internalId":2934544816,"name":"Worm Cult Hammer, Mining","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_exc_mininghammer001.png","bindType":-1,"knownIds":[223158]}

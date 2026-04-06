@@ -1,10 +1,1 @@
-{
-  "internalId": 2413932924,
-  "name": "Firesong Sculpture, Y'ffelon's Claw",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_lavamonolith004.png",
-  "bindType": -1,
-  "knownIds": [
-    193841
-  ]
-}
+{"internalId":2413932924,"name":"Firesong Sculpture, Y'ffelon's Claw","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_lavamonolith004.png","bindType":-1,"knownIds":[193841]}

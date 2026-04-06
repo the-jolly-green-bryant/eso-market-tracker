@@ -1,10 +1,1 @@
-{
-  "internalId": 3179784854,
-  "name": "Rocks, Stacked Angular",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_shadowfensmall002.png",
-  "bindType": -1,
-  "knownIds": [
-    120627
-  ]
-}
+{"internalId":3179784854,"name":"Rocks, Stacked Angular","description":"This is a standard house item.","icon":"data/images/20/0l/la/housing_rok_gry_shadowfensmall002.png","bindType":-1,"knownIds":[120627]}

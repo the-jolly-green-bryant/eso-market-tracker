@@ -1,10 +1,1 @@
-{
-  "internalId": 3939553112,
-  "name": "Recipe: Melon-Chevre Salad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45963
-  ]
-}
+{"internalId":3939553112,"name":"Recipe: Melon-Chevre Salad","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45963]}

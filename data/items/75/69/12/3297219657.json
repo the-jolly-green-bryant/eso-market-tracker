@@ -1,10 +1,1 @@
-{
-  "internalId": 3297219657,
-  "name": "Old Sifted Flour",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_bread_003.png",
-  "bindType": -1,
-  "knownIds": [
-    27001
-  ]
-}
+{"internalId":3297219657,"name":"Old Sifted Flour","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/30/0_/da/crafting_components_bread_003.png","bindType":-1,"knownIds":[27001]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1270244134,
-  "name": "Perfected Test of Resolve Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1689791
-  ]
-}
+{"internalId":1270244134,"name":"Perfected Test of Resolve Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png","bindType":-1,"knownIds":[1689791]}

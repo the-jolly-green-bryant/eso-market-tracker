@@ -1,10 +1,1 @@
-{
-  "internalId": 826542289,
-  "name": "Inferno Staff of Martial Knowledge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95609
-  ]
-}
+{"internalId":826542289,"name":"Inferno Staff of Martial Knowledge","description":"","icon":"data/images/a_/ff/at/gear_yokudan_staff_a.png","bindType":2,"knownIds":[95609]}

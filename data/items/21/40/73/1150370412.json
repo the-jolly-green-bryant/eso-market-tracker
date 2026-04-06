@@ -1,10 +1,1 @@
-{
-  "internalId": 1150370412,
-  "name": "Star-Gazer's Walking Stick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    673582
-  ]
-}
+{"internalId":1150370412,"name":"Star-Gazer's Walking Stick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[673582]}

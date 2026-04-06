@@ -1,10 +1,1 @@
-{
-  "internalId": 4140504426,
-  "name": "Necrom Bookcase, Elegant Grand",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbookstoreshelfhigh002.png",
-  "bindType": -1,
-  "knownIds": [
-    197482
-  ]
-}
+{"internalId":4140504426,"name":"Necrom Bookcase, Elegant Grand","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_necbookstoreshelfhigh002.png","bindType":-1,"knownIds":[197482]}

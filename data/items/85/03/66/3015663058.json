@@ -1,10 +1,1 @@
-{
-  "internalId": 3015663058,
-  "name": "Dark Elf End Table, Angled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_tablesqr001.png",
-  "bindType": -1,
-  "knownIds": [
-    115325
-  ]
-}
+{"internalId":3015663058,"name":"Dark Elf End Table, Angled","description":"This is a standard house item.","icon":"data/images/10/0r/qs/housing_dun_fur_tablesqr001.png","bindType":-1,"knownIds":[115325]}

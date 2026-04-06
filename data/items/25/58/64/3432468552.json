@@ -1,10 +1,1 @@
-{
-  "internalId": 3432468552,
-  "name": "Firsthold Fruit and Cheese Plate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_apples.png",
-  "bindType": -1,
-  "knownIds": [
-    68236
-  ]
-}
+{"internalId":3432468552,"name":"Firsthold Fruit and Cheese Plate","description":"","icon":"data/images/se/lp/pa/crafting_cooking_grilled_apples.png","bindType":-1,"knownIds":[68236]}

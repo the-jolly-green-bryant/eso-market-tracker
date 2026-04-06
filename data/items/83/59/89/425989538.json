@@ -1,17 +1,1 @@
-{
-  "internalId": 425989538,
-  "name": "MONSTER: Molag Kena",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1174253,
-    1313160,
-    1174253,
-    1313160,
-    1174253,
-    1313160,
-    1174253,
-    1313160
-  ]
-}
+{"internalId":425989538,"name":"MONSTER: Molag Kena","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1174253,1313160,1174253,1313160,1174253,1313160,1174253,1313160]}

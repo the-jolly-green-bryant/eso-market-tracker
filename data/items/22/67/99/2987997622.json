@@ -1,10 +1,1 @@
-{
-  "internalId": 2987997622,
-  "name": "Steadfast's Mettle Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186080
-  ]
-}
+{"internalId":2987997622,"name":"Steadfast's Mettle Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[186080]}

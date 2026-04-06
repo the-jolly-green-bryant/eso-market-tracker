@@ -1,10 +1,1 @@
-{
-  "internalId": 1040371556,
-  "name": "Dead-Water's Guile Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142576
-  ]
-}
+{"internalId":1040371556,"name":"Dead-Water's Guile Helmet","description":"","icon":"data/images/a_/da/eh/gear_deadwater_medium_head_a.png","bindType":2,"knownIds":[142576]}

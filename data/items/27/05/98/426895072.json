@@ -1,10 +1,1 @@
-{
-  "internalId": 426895072,
-  "name": "Pattern: Elsweyr Barstool, Elegant Wooden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    152037
-  ]
-}
+{"internalId":426895072,"name":"Pattern: Elsweyr Barstool, Elegant Wooden","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[152037]}

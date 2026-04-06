@@ -1,10 +1,1 @@
-{
-  "internalId": 3592375228,
-  "name": "Crafting Motif 126: Shardborn Staves",
-  "description": "Use to learn how to make Shardborn Staves. Also teaches the equivalent Shardborn Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203373
-  ]
-}
+{"internalId":3592375228,"name":"Crafting Motif 126: Shardborn Staves","description":"Use to learn how to make Shardborn Staves. Also teaches the equivalent Shardborn Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203373]}

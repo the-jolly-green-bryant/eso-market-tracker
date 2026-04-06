@@ -1,15 +1,1 @@
-{
-  "internalId": 2441090398,
-  "name": "Pyrebrand Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731448,
-    1746580,
-    1771262,
-    1731448,
-    1746580,
-    1771262
-  ]
-}
+{"internalId":2441090398,"name":"Pyrebrand Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png","bindType":-1,"knownIds":[1731448,1746580,1771262,1731448,1746580,1771262]}

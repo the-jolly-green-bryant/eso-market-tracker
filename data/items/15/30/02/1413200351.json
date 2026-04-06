@@ -1,10 +1,1 @@
-{
-  "internalId": 1413200351,
-  "name": "Impregnable Armor Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125942
-  ]
-}
+{"internalId":1413200351,"name":"Impregnable Armor Sword","description":"","icon":"data/images/a_/dr/ow/gear_ordinator_1hsword_a.png","bindType":2,"knownIds":[125942]}

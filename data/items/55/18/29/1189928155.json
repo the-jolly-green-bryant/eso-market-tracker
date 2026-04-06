@@ -1,10 +1,1 @@
-{
-  "internalId": 1189928155,
-  "name": "Sword-Singer's Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99440
-  ]
-}
+{"internalId":1189928155,"name":"Sword-Singer's Bracers","description":"","icon":"data/images/d_/sd/na/gear_redguard_medium_hands_d.png","bindType":2,"knownIds":[99440]}

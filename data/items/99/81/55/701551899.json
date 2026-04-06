@@ -1,10 +1,1 @@
-{
-  "internalId": 701551899,
-  "name": "Axe of the Storm Knight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86703
-  ]
-}
+{"internalId":701551899,"name":"Axe of the Storm Knight","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[86703]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2307343054,
-  "name": "Ayleid Cage, Ornate",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_inc_pedestalcage001.png",
-  "bindType": -1,
-  "knownIds": [
-    211367
-  ]
-}
+{"internalId":2307343054,"name":"Ayleid Cage, Ornate","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_inc_pedestalcage001.png","bindType":-1,"knownIds":[211367]}

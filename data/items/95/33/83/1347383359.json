@@ -1,10 +1,1 @@
-{
-  "internalId": 1347383359,
-  "name": "Seyne's Bootknife",
-  "description": "At Hozzin's Folly, you proved one goes further with a sharp blade and guile than one does with a blade alone.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7368
-  ]
-}
+{"internalId":1347383359,"name":"Seyne's Bootknife","description":"At Hozzin's Folly, you proved one goes further with a sharp blade and guile than one does with a blade alone.","icon":"data/images/d_/re/gg/gear_dunmer_dagger_d.png","bindType":2,"knownIds":[7368]}

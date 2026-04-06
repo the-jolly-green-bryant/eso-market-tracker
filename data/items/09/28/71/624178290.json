@@ -1,10 +1,1 @@
-{
-  "internalId": 624178290,
-  "name": "Galerion's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78297
-  ]
-}
+{"internalId":624178290,"name":"Galerion's Maul","description":"","icon":"data/images/d_/re/mm/gear_altmer_2hhammer_d.png","bindType":2,"knownIds":[78297]}

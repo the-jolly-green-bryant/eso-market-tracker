@@ -1,10 +1,1 @@
-{
-  "internalId": 750473940,
-  "name": "Repora",
-  "description": "Repora",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_054.png",
-  "bindType": -1,
-  "knownIds": [
-    68341
-  ]
-}
+{"internalId":750473940,"name":"Repora","description":"Repora","icon":"data/images/45/0_/se/crafting_components_runestones_054.png","bindType":-1,"knownIds":[68341]}

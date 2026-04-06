@@ -1,10 +1,1 @@
-{
-  "internalId": 1482645030,
-  "name": "Colovian Tray, Honeycomb",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_honeyservingtray002.png",
-  "bindType": -1,
-  "knownIds": [
-    204700
-  ]
-}
+{"internalId":1482645030,"name":"Colovian Tray, Honeycomb","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_honeyservingtray002.png","bindType":-1,"knownIds":[204700]}

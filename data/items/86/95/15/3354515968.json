@@ -1,10 +1,1 @@
-{
-  "internalId": 3354515968,
-  "name": "Fur Grooming Kit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804420
-  ]
-}
+{"internalId":3354515968,"name":"Fur Grooming Kit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[804420]}

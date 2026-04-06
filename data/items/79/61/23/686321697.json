@@ -1,17 +1,1 @@
-{
-  "internalId": 686321697,
-  "name": "Hagraven's Garden Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1166262,
-    1198148,
-    1474014,
-    1517164,
-    1166262,
-    1198148,
-    1474014,
-    1517164
-  ]
-}
+{"internalId":686321697,"name":"Hagraven's Garden Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1166262,1198148,1474014,1517164,1166262,1198148,1474014,1517164]}

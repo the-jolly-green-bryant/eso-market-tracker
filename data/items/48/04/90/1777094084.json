@@ -1,10 +1,1 @@
-{
-  "internalId": 1777094084,
-  "name": "Necrom Funerary Offering, Mushrooms",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_necpyremushrooms002.png",
-  "bindType": -1,
-  "knownIds": [
-    198055
-  ]
-}
+{"internalId":1777094084,"name":"Necrom Funerary Offering, Mushrooms","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_exc_necpyremushrooms002.png","bindType":-1,"knownIds":[198055]}

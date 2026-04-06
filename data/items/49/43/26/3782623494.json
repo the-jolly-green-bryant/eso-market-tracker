@@ -1,15 +1,1 @@
-{
-  "internalId": 3782623494,
-  "name": "Lena's Wand of Finding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png",
-  "bindType": -1,
-  "knownIds": [
-    763761,
-    790481,
-    830511,
-    763761,
-    790481,
-    830511
-  ]
-}
+{"internalId":3782623494,"name":"Lena's Wand of Finding","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png","bindType":-1,"knownIds":[763761,790481,830511,763761,790481,830511]}

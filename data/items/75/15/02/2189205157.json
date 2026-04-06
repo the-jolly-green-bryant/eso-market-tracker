@@ -1,10 +1,1 @@
-{
-  "internalId": 2189205157,
-  "name": "Recipe: Orcrest Agony Pale Ale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68231
-  ]
-}
+{"internalId":2189205157,"name":"Recipe: Orcrest Agony Pale Ale","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68231]}

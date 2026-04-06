@@ -1,11 +1,1 @@
-{
-  "internalId": 4264637229,
-  "name": "Clothier Survey: Auridon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    817871,
-    817871
-  ]
-}
+{"internalId":4264637229,"name":"Clothier Survey: Auridon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[817871,817871]}

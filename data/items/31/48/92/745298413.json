@@ -1,10 +1,1 @@
-{
-  "internalId": 745298413,
-  "name": "Hakoshae Banner, Triple Insignia",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_lsb_akaviribanner002.png",
-  "bindType": -1,
-  "knownIds": [
-    151682
-  ]
-}
+{"internalId":745298413,"name":"Hakoshae Banner, Triple Insignia","description":"This is a standard house item.","icon":"data/images/20/0r/en/housing_els_lsb_akaviribanner002.png","bindType":-1,"knownIds":[151682]}

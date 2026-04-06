@@ -1,17 +1,1 @@
-{
-  "internalId": 1989142833,
-  "name": "Hex Siphoner's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1400030,
-    1409878,
-    1527462,
-    1549860,
-    1400030,
-    1409878,
-    1527462,
-    1549860
-  ]
-}
+{"internalId":1989142833,"name":"Hex Siphoner's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1400030,1409878,1527462,1549860,1400030,1409878,1527462,1549860]}

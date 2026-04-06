@@ -1,10 +1,1 @@
-{
-  "internalId": 1400515962,
-  "name": "Dwarven Brass Sallet",
-  "description": "A Dwemer helm found in the ruins of Rkindaleft.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dwarven_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    71015
-  ]
-}
+{"internalId":1400515962,"name":"Dwarven Brass Sallet","description":"A Dwemer helm found in the ruins of Rkindaleft.","icon":"data/images/a_/da/eh/gear_dwarven_medium_head_a.png","bindType":2,"knownIds":[71015]}

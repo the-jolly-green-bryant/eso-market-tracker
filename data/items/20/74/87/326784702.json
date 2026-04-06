@@ -1,10 +1,1 @@
-{
-  "internalId": 326784702,
-  "name": "Clockwork Clock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1201086
-  ]
-}
+{"internalId":326784702,"name":"Clockwork Clock","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png","bindType":-1,"knownIds":[1201086]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 231652172,
-  "name": "Epaulets of the Sun",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    84873
-  ]
-}
+{"internalId":231652172,"name":"Epaulets of the Sun","description":"","icon":"data/images/d_/sr/ed/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[84873]}

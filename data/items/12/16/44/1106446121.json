@@ -1,10 +1,1 @@
-{
-  "internalId": 1106446121,
-  "name": "Bush Cluster, Snowswept",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_cyrodiilnorthdeadbushsnowy001.png",
-  "bindType": -1,
-  "knownIds": [
-    134567
-  ]
-}
+{"internalId":1106446121,"name":"Bush Cluster, Snowswept","description":"This is a standard house item.","icon":"data/images/10/0y/wo/housing_veg_bsh_cyrodiilnorthdeadbushsnowy001.png","bindType":-1,"knownIds":[134567]}

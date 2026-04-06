@@ -1,10 +1,1 @@
-{
-  "internalId": 2826254972,
-  "name": "Farstrider Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211908
-  ]
-}
+{"internalId":2826254972,"name":"Farstrider Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png","bindType":2,"knownIds":[211908]}

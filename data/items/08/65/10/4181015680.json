@@ -1,10 +1,1 @@
-{
-  "internalId": 4181015680,
-  "name": "Recipe: Sweet Persistence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57024
-  ]
-}
+{"internalId":4181015680,"name":"Recipe: Sweet Persistence","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57024]}

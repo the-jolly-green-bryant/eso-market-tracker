@@ -1,10 +1,1 @@
-{
-  "internalId": 1355800728,
-  "name": "Cartographer's Mask",
-  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Mask collectible fragment.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_mask.png",
-  "bindType": -1,
-  "knownIds": [
-    166700
-  ]
-}
+{"internalId":1355800728,"name":"Cartographer's Mask","description":"Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Mask collectible fragment.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_mask.png","bindType":-1,"knownIds":[166700]}

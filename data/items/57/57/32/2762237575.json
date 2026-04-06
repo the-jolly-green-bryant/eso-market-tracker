@@ -1,15 +1,1 @@
-{
-  "internalId": 2762237575,
-  "name": "philter of Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    373455,
-    710645,
-    1432123,
-    373455,
-    710645,
-    1432123
-  ]
-}
+{"internalId":2762237575,"name":"philter of Magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png","bindType":-1,"knownIds":[373455,710645,1432123,373455,710645,1432123]}

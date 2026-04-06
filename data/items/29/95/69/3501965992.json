@@ -1,10 +1,1 @@
-{
-  "internalId": 3501965992,
-  "name": "Recipe: Craglorn Skavenger Stew",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56967
-  ]
-}
+{"internalId":3501965992,"name":"Recipe: Craglorn Skavenger Stew","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56967]}

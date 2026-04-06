@@ -1,13 +1,1 @@
-{
-  "internalId": 3440769781,
-  "name": "Sluthrug's Hunger Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_axe.png",
-  "bindType": -1,
-  "knownIds": [
-    1717173,
-    1746600,
-    1717173,
-    1746600
-  ]
-}
+{"internalId":3440769781,"name":"Sluthrug's Hunger Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_axe.png","bindType":-1,"knownIds":[1717173,1746600,1717173,1746600]}

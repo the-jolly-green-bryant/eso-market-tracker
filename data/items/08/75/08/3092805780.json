@@ -1,10 +1,1 @@
-{
-  "internalId": 3092805780,
-  "name": "Dwarven Lamppost, Polished Powered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_marklamposton001.png",
-  "bindType": -1,
-  "knownIds": [
-    167301
-  ]
-}
+{"internalId":3092805780,"name":"Dwarven Lamppost, Polished Powered","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_marklamposton001.png","bindType":-1,"knownIds":[167301]}

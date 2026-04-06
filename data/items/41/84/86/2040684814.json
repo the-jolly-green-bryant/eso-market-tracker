@@ -1,15 +1,1 @@
-{
-  "internalId": 2040684814,
-  "name": "Beacon of Oblivion Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_mace.png",
-  "bindType": -1,
-  "knownIds": [
-    1734400,
-    1740359,
-    1742273,
-    1734400,
-    1740359,
-    1742273
-  ]
-}
+{"internalId":2040684814,"name":"Beacon of Oblivion Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_mace.png","bindType":-1,"knownIds":[1734400,1740359,1742273,1734400,1740359,1742273]}

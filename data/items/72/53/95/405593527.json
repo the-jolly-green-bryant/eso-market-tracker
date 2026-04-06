@@ -1,10 +1,1 @@
-{
-  "internalId": 405593527,
-  "name": "Seventh Legion Horseshoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    405645
-  ]
-}
+{"internalId":405593527,"name":"Seventh Legion Horseshoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png","bindType":-1,"knownIds":[405645]}

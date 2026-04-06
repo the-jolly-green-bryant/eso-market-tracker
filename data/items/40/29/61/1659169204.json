@@ -1,10 +1,1 @@
-{
-  "internalId": 1659169204,
-  "name": "heather-tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    439233
-  ]
-}
+{"internalId":1659169204,"name":"heather-tea","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png","bindType":-1,"knownIds":[439233]}

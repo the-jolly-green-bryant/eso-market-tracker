@@ -1,10 +1,1 @@
-{
-  "internalId": 599187646,
-  "name": "Maul of the Wyrd Tree",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    96915
-  ]
-}
+{"internalId":599187646,"name":"Maul of the Wyrd Tree","description":"","icon":"data/images/d_/re/mm/gear_bosmer_2hhammer_d.png","bindType":2,"knownIds":[96915]}

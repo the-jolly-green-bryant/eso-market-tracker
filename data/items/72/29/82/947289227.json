@@ -1,10 +1,1 @@
-{
-  "internalId": 947289227,
-  "name": "Mara's Balm Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    189844
-  ]
-}
+{"internalId":947289227,"name":"Mara's Balm Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[189844]}

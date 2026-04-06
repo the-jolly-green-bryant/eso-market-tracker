@@ -1,10 +1,1 @@
-{
-  "internalId": 224935425,
-  "name": "Apocrypha Lamp, Desk",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libcandlestand001.png",
-  "bindType": -1,
-  "knownIds": [
-    198435
-  ]
-}
+{"internalId":224935425,"name":"Apocrypha Lamp, Desk","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_lsb_libcandlestand001.png","bindType":-1,"knownIds":[198435]}

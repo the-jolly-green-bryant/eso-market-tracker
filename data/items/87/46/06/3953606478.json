@@ -1,10 +1,1 @@
-{
-  "internalId": 3953606478,
-  "name": "Metal Back Scratcher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png",
-  "bindType": -1,
-  "knownIds": [
-    800555
-  ]
-}
+{"internalId":3953606478,"name":"Metal Back Scratcher","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png","bindType":-1,"knownIds":[800555]}

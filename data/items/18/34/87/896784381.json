@@ -1,10 +1,1 @@
-{
-  "internalId": 896784381,
-  "name": "Solitude Serving Pot, Hearty Stew",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodsoupmeat001.png",
-  "bindType": -1,
-  "knownIds": [
-    165788
-  ]
-}
+{"internalId":896784381,"name":"Solitude Serving Pot, Hearty Stew","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodsoupmeat001.png","bindType":-1,"knownIds":[165788]}

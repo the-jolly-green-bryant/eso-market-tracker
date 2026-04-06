@@ -1,10 +1,1 @@
-{
-  "internalId": 3997570183,
-  "name": "Mara's Balm",
-  "description": "A Heavy Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    190006
-  ]
-}
+{"internalId":3997570183,"name":"Mara's Balm","description":"A Heavy Armor set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[190006]}

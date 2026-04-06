@@ -1,15 +1,1 @@
-{
-  "internalId": 553536145,
-  "name": "Restoration Ring of Thorn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    428993,
-    856400,
-    877681,
-    428993,
-    856400,
-    877681
-  ]
-}
+{"internalId":553536145,"name":"Restoration Ring of Thorn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[428993,856400,877681,428993,856400,877681]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1571904622,
-  "name": "Stuhn's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161561
-  ]
-}
+{"internalId":1571904622,"name":"Stuhn's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":2,"knownIds":[161561]}

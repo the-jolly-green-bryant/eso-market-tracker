@@ -1,10 +1,1 @@
-{
-  "internalId": 1589122341,
-  "name": "Elemental Catalyst",
-  "description": "A Light Armor set found in Stone Garden.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    167309
-  ]
-}
+{"internalId":1589122341,"name":"Elemental Catalyst","description":"A Light Armor set found in Stone Garden.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[167309]}

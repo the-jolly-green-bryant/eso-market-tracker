@@ -1,10 +1,1 @@
-{
-  "internalId": 2968551313,
-  "name": "Elsweyr Bread Basket, Feast-Day",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_strainerbowlwithfood001.png",
-  "bindType": -1,
-  "knownIds": [
-    159445
-  ]
-}
+{"internalId":2968551313,"name":"Elsweyr Bread Basket, Feast-Day","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_strainerbowlwithfood001.png","bindType":-1,"knownIds":[159445]}

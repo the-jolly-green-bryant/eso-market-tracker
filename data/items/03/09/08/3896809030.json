@@ -1,10 +1,1 @@
-{
-  "internalId": 3896809030,
-  "name": "Tree, Branched Succulent",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_els_candelabra006.png",
-  "bindType": -1,
-  "knownIds": [
-    151810
-  ]
-}
+{"internalId":3896809030,"name":"Tree, Branched Succulent","description":"This is a large house item.","icon":"data/images/60/0a/rb/housing_tre_els_candelabra006.png","bindType":-1,"knownIds":[151810]}

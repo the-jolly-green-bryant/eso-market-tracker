@@ -1,15 +1,1 @@
-{
-  "internalId": 2557072890,
-  "name": "Xanmeer Spellweaver Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_light_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765196,
-    1778632,
-    1778635,
-    1765196,
-    1778632,
-    1778635
-  ]
-}
+{"internalId":2557072890,"name":"Xanmeer Spellweaver Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_light_waist_a.png","bindType":-1,"knownIds":[1765196,1778632,1778635,1765196,1778632,1778635]}

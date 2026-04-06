@@ -1,10 +1,1 @@
-{
-  "internalId": 3664964878,
-  "name": "Fargrave Window, Grand Medallion",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farwindowhighcapped003.png",
-  "bindType": -1,
-  "knownIds": [
-    184099
-  ]
-}
+{"internalId":3664964878,"name":"Fargrave Window, Grand Medallion","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farwindowhighcapped003.png","bindType":-1,"knownIds":[184099]}

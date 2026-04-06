@@ -1,10 +1,1 @@
-{
-  "internalId": 209642764,
-  "name": "Layered Long Dress",
-  "description": "A double-layered dress for work or casual wear. Rather warm.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    64186
-  ]
-}
+{"internalId":209642764,"name":"Layered Long Dress","description":"A double-layered dress for work or casual wear. Rather warm.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[64186]}

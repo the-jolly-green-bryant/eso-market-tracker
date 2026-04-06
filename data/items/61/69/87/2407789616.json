@@ -1,10 +1,1 @@
-{
-  "internalId": 2407789616,
-  "name": "Mythic Items (Galen)",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1767941
-  ]
-}
+{"internalId":2407789616,"name":"Mythic Items (Galen)","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1767941]}

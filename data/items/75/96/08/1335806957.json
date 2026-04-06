@@ -1,10 +1,1 @@
-{
-  "internalId": 1335806957,
-  "name": "Etched Lute Tuning Fork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1384979
-  ]
-}
+{"internalId":1335806957,"name":"Etched Lute Tuning Fork","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[1384979]}

@@ -1,18 +1,1 @@
-{
-  "internalId": 4140753968,
-  "name": "Battle Axe of Grave Inevitability",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1616205,
-    1735415,
-    1749043,
-    1616205,
-    1735415,
-    1749043,
-    1616205,
-    1735415,
-    1749043
-  ]
-}
+{"internalId":4140753968,"name":"Battle Axe of Grave Inevitability","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_2haxe_a.png","bindType":-1,"knownIds":[1616205,1735415,1749043,1616205,1735415,1749043,1616205,1735415,1749043]}

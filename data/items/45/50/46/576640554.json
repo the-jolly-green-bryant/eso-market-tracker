@@ -1,10 +1,1 @@
-{
-  "internalId": 576640554,
-  "name": "Ricefish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
-  "bindType": -1,
-  "knownIds": [
-    824585
-  ]
-}
+{"internalId":576640554,"name":"Ricefish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png","bindType":-1,"knownIds":[824585]}

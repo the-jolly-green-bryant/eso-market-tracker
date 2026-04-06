@@ -1,10 +1,1 @@
-{
-  "internalId": 1814637212,
-  "name": "Breton Candle, Grand",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_candletall001.png",
-  "bindType": -1,
-  "knownIds": [
-    115241
-  ]
-}
+{"internalId":1814637212,"name":"Breton Candle, Grand","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_bre_lsb_candletall001.png","bindType":-1,"knownIds":[115241]}

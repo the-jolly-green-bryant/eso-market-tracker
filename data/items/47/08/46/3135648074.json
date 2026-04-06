@@ -1,10 +1,1 @@
-{
-  "internalId": 3135648074,
-  "name": "Dawnwood Fence, Curved Long",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosfencecurve001.png",
-  "bindType": -1,
-  "knownIds": [
-    212395
-  ]
-}
+{"internalId":3135648074,"name":"Dawnwood Fence, Curved Long","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosfencecurve001.png","bindType":-1,"knownIds":[212395]}

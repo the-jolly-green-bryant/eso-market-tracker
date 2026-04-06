@@ -1,10 +1,1 @@
-{
-  "internalId": 3872294567,
-  "name": "Spider Cultist's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": -1,
-  "knownIds": [
-    1235115
-  ]
-}
+{"internalId":3872294567,"name":"Spider Cultist's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png","bindType":-1,"knownIds":[1235115]}

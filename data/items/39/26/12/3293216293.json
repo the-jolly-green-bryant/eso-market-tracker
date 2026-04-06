@@ -1,10 +1,1 @@
-{
-  "internalId": 3293216293,
-  "name": "Alchemical Draught",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    792550
-  ]
-}
+{"internalId":3293216293,"name":"Alchemical Draught","description":"","icon":null,"bindType":-1,"knownIds":[792550]}

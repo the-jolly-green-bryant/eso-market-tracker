@@ -1,10 +1,1 @@
-{
-  "internalId": 1661861635,
-  "name": "Solitude Carpet, Plush Worn",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_ruglo004.png",
-  "bindType": -1,
-  "knownIds": [
-    165651
-  ]
-}
+{"internalId":1661861635,"name":"Solitude Carpet, Plush Worn","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_ruglo004.png","bindType":-1,"knownIds":[165651]}

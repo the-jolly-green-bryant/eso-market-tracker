@@ -1,10 +1,1 @@
-{
-  "internalId": 131884031,
-  "name": "Worm Cult Rug, Large Teal",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_rugxl001.png",
-  "bindType": -1,
-  "knownIds": [
-    220289
-  ]
-}
+{"internalId":131884031,"name":"Worm Cult Rug, Large Teal","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_rugxl001.png","bindType":-1,"knownIds":[220289]}

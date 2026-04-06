@@ -1,10 +1,1 @@
-{
-  "internalId": 2606504108,
-  "name": "Breton Pitcher, Ceramic",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_pitcher001.png",
-  "bindType": -1,
-  "knownIds": [
-    115169
-  ]
-}
+{"internalId":2606504108,"name":"Breton Pitcher, Ceramic","description":"This is a small house item.","icon":"data/images/10/0r/eh/housing_bre_inc_pitcher001.png","bindType":-1,"knownIds":[115169]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2204393581,
-  "name": "Hist Whisperer's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    172791
-  ]
-}
+{"internalId":2204393581,"name":"Hist Whisperer's Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[172791]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1120921957,
-  "name": "Monster: Troll King",
-  "description": "A Monster Mask set found in Veteran Blessed Crucible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114274
-  ]
-}
+{"internalId":1120921957,"name":"Monster: Troll King","description":"A Monster Mask set found in Veteran Blessed Crucible.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114274]}

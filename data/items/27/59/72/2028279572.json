@@ -1,10 +1,1 @@
-{
-  "internalId": 2028279572,
-  "name": "Riekling Tanning Rack, Stretched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrdecorativehideasnow001.png",
-  "bindType": -1,
-  "knownIds": [
-    134461
-  ]
-}
+{"internalId":2028279572,"name":"Riekling Tanning Rack, Stretched","description":"This is a standard house item.","icon":"data/images/10/0w/on/housing_gen_exc_rkrdecorativehideasnow001.png","bindType":-1,"knownIds":[134461]}

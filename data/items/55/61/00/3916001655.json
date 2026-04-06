@@ -1,13 +1,1 @@
-{
-  "internalId": 3916001655,
-  "name": "Ring of Blue Ice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    417245,
-    898974,
-    417245,
-    898974
-  ]
-}
+{"internalId":3916001655,"name":"Ring of Blue Ice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[417245,898974,417245,898974]}

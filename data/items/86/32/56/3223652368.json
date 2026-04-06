@@ -1,10 +1,1 @@
-{
-  "internalId": 3223652368,
-  "name": "Pattern: Khajiit Pillow, Crescents",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    116136
-  ]
-}
+{"internalId":3223652368,"name":"Pattern: Khajiit Pillow, Crescents","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[116136]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3208166969,
-  "name": "Imperial Officer's Signet",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    825112
-  ]
-}
+{"internalId":3208166969,"name":"Imperial Officer's Signet","description":"","icon":null,"bindType":-1,"knownIds":[825112]}

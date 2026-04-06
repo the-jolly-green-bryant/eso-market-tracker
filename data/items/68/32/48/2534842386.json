@@ -1,17 +1,1 @@
-{
-  "internalId": 2534842386,
-  "name": "Lady Malygda's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undladymalygda_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748095,
-    1750160,
-    1775004,
-    1775133,
-    1748095,
-    1750160,
-    1775004,
-    1775133
-  ]
-}
+{"internalId":2534842386,"name":"Lady Malygda's Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undladymalygda_shoulder_a.png","bindType":-1,"knownIds":[1748095,1750160,1775004,1775133,1748095,1750160,1775004,1775133]}

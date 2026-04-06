@@ -1,10 +1,1 @@
-{
-  "internalId": 3510233867,
-  "name": "Dancer's Treble Shoes",
-  "description": "Footwear provided for aiding the Bards College in Solitude.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159712
-  ]
-}
+{"internalId":3510233867,"name":"Dancer's Treble Shoes","description":"Footwear provided for aiding the Bards College in Solitude.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_feet_d.png","bindType":2,"knownIds":[159712]}

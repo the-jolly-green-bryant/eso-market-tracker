@@ -1,10 +1,1 @@
-{
-  "internalId": 1816197893,
-  "name": "Gauntlets of Akatosh's Law",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194345
-  ]
-}
+{"internalId":1816197893,"name":"Gauntlets of Akatosh's Law","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[194345]}

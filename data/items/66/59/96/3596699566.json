@@ -1,18 +1,1 @@
-{
-  "internalId": 3596699566,
-  "name": "Dolorous Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756204,
-    1756428,
-    1756837,
-    1758592,
-    1758860,
-    1761625,
-    1765500,
-    1771275,
-    1777281
-  ]
-}
+{"internalId":3596699566,"name":"Dolorous Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_head_a.png","bindType":-1,"knownIds":[1756204,1756428,1756837,1758592,1758860,1761625,1765500,1771275,1777281]}

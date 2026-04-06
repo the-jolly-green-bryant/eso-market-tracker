@@ -1,10 +1,1 @@
-{
-  "internalId": 2602288562,
-  "name": "Necrom Door, Tall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_nechighsmallsingledoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    198019
-  ]
-}
+{"internalId":2602288562,"name":"Necrom Door, Tall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_nechighsmallsingledoor001.png","bindType":-1,"knownIds":[198019]}

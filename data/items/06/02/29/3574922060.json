@@ -1,10 +1,1 @@
-{
-  "internalId": 3574922060,
-  "name": "Nord Cart, Covered",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_csb_cartcovered001.png",
-  "bindType": -1,
-  "knownIds": [
-    115396
-  ]
-}
+{"internalId":3574922060,"name":"Nord Cart, Covered","description":"This is a large house item.","icon":"data/images/10/0d/er/housing_nor_csb_cartcovered001.png","bindType":-1,"knownIds":[115396]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3195185695,
-  "name": "Wedding Pergola, Triple",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varpergola003.png",
-  "bindType": -1,
-  "knownIds": [
-    134928
-  ]
-}
+{"internalId":3195185695,"name":"Wedding Pergola, Triple","description":"This is a huge house item.","icon":"data/images/30/0a/lo/housing_red_exc_varpergola003.png","bindType":-1,"knownIds":[134928]}

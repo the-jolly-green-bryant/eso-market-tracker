@@ -1,10 +1,1 @@
-{
-  "internalId": 1165161009,
-  "name": "Clockwork Stairway, Spiral",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_str_houseintdomestairs001.png",
-  "bindType": -1,
-  "knownIds": [
-    203143
-  ]
-}
+{"internalId":1165161009,"name":"Clockwork Stairway, Spiral","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cwc_str_houseintdomestairs001.png","bindType":-1,"knownIds":[203143]}

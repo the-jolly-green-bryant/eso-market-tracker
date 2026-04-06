@@ -1,10 +1,1 @@
-{
-  "internalId": 230294480,
-  "name": "Macabre Vintage Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    205212
-  ]
-}
+{"internalId":230294480,"name":"Macabre Vintage Bracers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_hands_a.png","bindType":2,"knownIds":[205212]}

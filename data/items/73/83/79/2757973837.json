@@ -1,10 +1,1 @@
-{
-  "internalId": 2757973837,
-  "name": "Imported Cheese-Toasting Fork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801078
-  ]
-}
+{"internalId":2757973837,"name":"Imported Cheese-Toasting Fork","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[801078]}

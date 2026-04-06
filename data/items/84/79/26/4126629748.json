@@ -1,10 +1,1 @@
-{
-  "internalId": 4126629748,
-  "name": "Axe of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    114793
-  ]
-}
+{"internalId":4126629748,"name":"Axe of Syvarra's Scales","description":"","icon":"data/images/a_/ex/ah/gear_thievesguildv2_1haxe_a.png","bindType":2,"knownIds":[114793]}

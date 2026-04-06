@@ -1,13 +1,1 @@
-{
-  "internalId": 2769894549,
-  "name": "Lucent Echoes Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1720435,
-    1739948,
-    1720435,
-    1739948
-  ]
-}
+{"internalId":2769894549,"name":"Lucent Echoes Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1720435,1739948,1720435,1739948]}

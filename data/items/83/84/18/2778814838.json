@@ -1,10 +1,1 @@
-{
-  "internalId": 2778814838,
-  "name": "Trees, Poplar Cluster",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_nocpoplar003.png",
-  "bindType": -1,
-  "knownIds": [
-    125679
-  ]
-}
+{"internalId":2778814838,"name":"Trees, Poplar Cluster","description":"This is a large house item.","icon":"data/images/30/0r/al/housing_tre_dec_nocpoplar003.png","bindType":-1,"knownIds":[125679]}

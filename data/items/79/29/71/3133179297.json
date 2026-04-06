@@ -1,10 +1,1 @@
-{
-  "internalId": 3133179297,
-  "name": "Necromancer's Heart",
-  "description": "This amulet is cold to the touch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    55432
-  ]
-}
+{"internalId":3133179297,"name":"Necromancer's Heart","description":"This amulet is cold to the touch.","icon":"data/images/a_/kc/en/gear_ancient_elf_neck_a.png","bindType":2,"knownIds":[55432]}

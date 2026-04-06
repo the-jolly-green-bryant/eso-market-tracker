@@ -1,10 +1,1 @@
-{
-  "internalId": 1807165132,
-  "name": "venomfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    452380
-  ]
-}
+{"internalId":1807165132,"name":"venomfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[452380]}

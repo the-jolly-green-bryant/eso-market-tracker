@@ -1,10 +1,1 @@
-{
-  "internalId": 2301343620,
-  "name": "Praxis: Stone-Nest Wall, Temple",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    223921
-  ]
-}
+{"internalId":2301343620,"name":"Praxis: Stone-Nest Wall, Temple","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[223921]}

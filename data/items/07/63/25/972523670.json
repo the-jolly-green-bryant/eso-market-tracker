@@ -1,10 +1,1 @@
-{
-  "internalId": 972523670,
-  "name": "Eshmadin's Thanks",
-  "description": "A precious amulet passed along in gratitude for your assistance in searching out a lost treasure.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    188129
-  ]
-}
+{"internalId":972523670,"name":"Eshmadin's Thanks","description":"A precious amulet passed along in gratitude for your assistance in searching out a lost treasure.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[188129]}

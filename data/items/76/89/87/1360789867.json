@@ -1,10 +1,1 @@
-{
-  "internalId": 1360789867,
-  "name": "Ornamental Varla Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png",
-  "bindType": -1,
-  "knownIds": [
-    913247
-  ]
-}
+{"internalId":1360789867,"name":"Ornamental Varla Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png","bindType":-1,"knownIds":[913247]}

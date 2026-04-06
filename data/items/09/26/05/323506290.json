@@ -1,10 +1,1 @@
-{
-  "internalId": 323506290,
-  "name": "Diagram: Dwarven Pot, Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    171504
-  ]
-}
+{"internalId":323506290,"name":"Diagram: Dwarven Pot, Polished","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[171504]}

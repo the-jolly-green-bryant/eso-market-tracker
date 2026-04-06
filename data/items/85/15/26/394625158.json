@@ -1,10 +1,1 @@
-{
-  "internalId": 394625158,
-  "name": "Ring of the Noble's Conquest",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140149
-  ]
-}
+{"internalId":394625158,"name":"Ring of the Noble's Conquest","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140149]}

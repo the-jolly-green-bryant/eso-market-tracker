@@ -1,10 +1,1 @@
-{
-  "internalId": 1146283710,
-  "name": "Psijic Glowglobe's Wisp Animus",
-  "description": "This is one of seven parts of the Psijic Glowglobe. Use to advance the eponymous achievement.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_spirit_001.png",
-  "bindType": -1,
-  "knownIds": [
-    139460
-  ]
-}
+{"internalId":1146283710,"name":"Psijic Glowglobe's Wisp Animus","description":"This is one of seven parts of the Psijic Glowglobe. Use to advance the eponymous achievement.","icon":"data/images/10/0_/ti/quest_spirit_001.png","bindType":-1,"knownIds":[139460]}

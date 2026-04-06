@@ -1,10 +1,1 @@
-{
-  "internalId": 3127498488,
-  "name": "Markarth Platform, Bordered Square",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_markplatformsquare001.png",
-  "bindType": -1,
-  "knownIds": [
-    171767
-  ]
-}
+{"internalId":3127498488,"name":"Markarth Platform, Bordered Square","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_markplatformsquare001.png","bindType":-1,"knownIds":[171767]}

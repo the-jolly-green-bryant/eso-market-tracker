@@ -1,10 +1,1 @@
-{
-  "internalId": 3093091989,
-  "name": "Winter's Bite",
-  "description": "An ancient relic of the Companions.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    30430
-  ]
-}
+{"internalId":3093091989,"name":"Winter's Bite","description":"An ancient relic of the Companions.","icon":"data/images/a_/ff/at/gear_breton_staff_a.png","bindType":-1,"knownIds":[30430]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1681844535,
-  "name": "Helm of Fasalla's Guile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199174
-  ]
-}
+{"internalId":1681844535,"name":"Helm of Fasalla's Guile","description":"","icon":"data/images/a_/da/eh/gear_abahswatch_heavy_head_a.png","bindType":2,"knownIds":[79787]}

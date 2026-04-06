@@ -1,10 +1,1 @@
-{
-  "internalId": 1542784506,
-  "name": "Senche-Tiger Training Harness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_harness_001.png",
-  "bindType": -1,
-  "knownIds": [
-    436463
-  ]
-}
+{"internalId":1542784506,"name":"Senche-Tiger Training Harness","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_harness_001.png","bindType":-1,"knownIds":[436463]}

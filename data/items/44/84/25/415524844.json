@@ -1,10 +1,1 @@
-{
-  "internalId": 415524844,
-  "name": "Cyrodiil Service Medal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403809
-  ]
-}
+{"internalId":415524844,"name":"Cyrodiil Service Medal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[403809]}

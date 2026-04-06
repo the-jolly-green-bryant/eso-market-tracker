@@ -1,10 +1,1 @@
-{
-  "internalId": 4130202869,
-  "name": "Pattern: Druidic Bed, Wood Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    192532
-  ]
-}
+{"internalId":4130202869,"name":"Pattern: Druidic Bed, Wood Single","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[192532]}

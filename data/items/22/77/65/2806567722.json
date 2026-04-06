@@ -1,10 +1,1 @@
-{
-  "internalId": 2806567722,
-  "name": "Galerion the Mystic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png",
-  "bindType": -1,
-  "knownIds": [
-    1199227
-  ]
-}
+{"internalId":2806567722,"name":"Galerion the Mystic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png","bindType":-1,"knownIds":[1199227]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 2307588378,
-  "name": "Perfected Pillager's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1593494,
-    1731688,
-    1765979,
-    1779680,
-    1593494,
-    1731688,
-    1765979,
-    1779680
-  ]
-}
+{"internalId":2307588378,"name":"Perfected Pillager's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_bow_a.png","bindType":-1,"knownIds":[1593494,1731688,1765979,1779680,1593494,1731688,1765979,1779680]}

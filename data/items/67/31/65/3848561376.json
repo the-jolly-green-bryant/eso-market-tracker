@@ -1,10 +1,1 @@
-{
-  "internalId": 3848561376,
-  "name": "Old Rice Mash",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_bread_004.png",
-  "bindType": -1,
-  "knownIds": [
-    40274
-  ]
-}
+{"internalId":3848561376,"name":"Old Rice Mash","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/40/0_/da/crafting_components_bread_004.png","bindType":-1,"knownIds":[40274]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1014265284,
-  "name": "Gravel Tooth's Tooth of Cyrodiil's Ward",
-  "description": "The edges of this wickedly sharp dagger appear coated with an unknown substance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    45756
-  ]
-}
+{"internalId":1014265284,"name":"Gravel Tooth's Tooth of Cyrodiil's Ward","description":"The edges of this wickedly sharp dagger appear coated with an unknown substance.","icon":"data/images/d_/re/gg/gear_nord_dagger_d.png","bindType":2,"knownIds":[45756]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1690271025,
-  "name": "Pile of Dubious Riches",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_baandaricoinpile001.png",
-  "bindType": -1,
-  "knownIds": [
-    151612
-  ]
-}
+{"internalId":1690271025,"name":"Pile of Dubious Riches","description":"This is a standard house item.","icon":"data/images/10/0e/li/housing_gen_inc_baandaricoinpile001.png","bindType":-1,"knownIds":[151612]}

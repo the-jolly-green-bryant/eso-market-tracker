@@ -1,10 +1,1 @@
-{
-  "internalId": 419662039,
-  "name": "Whittled Wire Worker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1310693
-  ]
-}
+{"internalId":419662039,"name":"Whittled Wire Worker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1310693]}

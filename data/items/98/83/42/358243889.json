@@ -1,10 +1,1 @@
-{
-  "internalId": 358243889,
-  "name": "Leyawiin Fountain, Round",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leyfountainsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    181486
-  ]
-}
+{"internalId":358243889,"name":"Leyawiin Fountain, Round","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_leyfountainsmall001.png","bindType":-1,"knownIds":[181486]}

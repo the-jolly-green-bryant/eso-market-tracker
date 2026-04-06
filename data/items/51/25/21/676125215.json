@@ -1,10 +1,1 @@
-{
-  "internalId": 676125215,
-  "name": "Weapons: Impregnable Armor",
-  "description": "An All Armor set purchased in Morrowind's Battleground Camp.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    127145
-  ]
-}
+{"internalId":676125215,"name":"Weapons: Impregnable Armor","description":"An All Armor set purchased in Morrowind's Battleground Camp.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[127145]}

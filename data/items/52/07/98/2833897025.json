@@ -1,10 +1,1 @@
-{
-  "internalId": 2833897025,
-  "name": "Praxis: Alinor Archway, Timeworn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    139498
-  ]
-}
+{"internalId":2833897025,"name":"Praxis: Alinor Archway, Timeworn","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[139498]}

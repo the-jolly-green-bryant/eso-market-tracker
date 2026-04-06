@@ -1,10 +1,1 @@
-{
-  "internalId": 3524779595,
-  "name": "Metallic: Armor Nonpareil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2618.png",
-  "bindType": -1,
-  "knownIds": [
-    1186748
-  ]
-}
+{"internalId":3524779595,"name":"Metallic: Armor Nonpareil","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2618.png","bindType":-1,"knownIds":[1186748]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 712310247,
-  "name": "Fish Roe, Foul Bait",
-  "description": "Found in running water, best used for fishing in foul water.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_fish_roe.png",
-  "bindType": -1,
-  "knownIds": [
-    42873
-  ]
-}
+{"internalId":712310247,"name":"Fish Roe, Foul Bait","description":"Found in running water, best used for fishing in foul water.","icon":"data/images/eo/r_/hs/crafting_fishing_fish_roe.png","bindType":-1,"knownIds":[42873]}

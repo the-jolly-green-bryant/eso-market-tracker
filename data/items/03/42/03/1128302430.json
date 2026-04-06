@@ -1,10 +1,1 @@
-{
-  "internalId": 1128302430,
-  "name": "Bracers of the Twin Sisters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92422
-  ]
-}
+{"internalId":1128302430,"name":"Bracers of the Twin Sisters","description":"","icon":"data/images/d_/sd/na/gear_breton_medium_hands_d.png","bindType":2,"knownIds":[92422]}

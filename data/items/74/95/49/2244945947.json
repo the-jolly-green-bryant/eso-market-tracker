@@ -1,10 +1,1 @@
-{
-  "internalId": 2244945947,
-  "name": "Unused",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
-  "bindType": -1,
-  "knownIds": [
-    153880
-  ]
-}
+{"internalId":2244945947,"name":"Unused","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":-1,"knownIds":[153880]}

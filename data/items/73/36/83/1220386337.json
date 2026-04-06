@@ -1,10 +1,1 @@
-{
-  "internalId": 1220386337,
-  "name": "Murkmire Pedestal, Low",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_pedestal001.png",
-  "bindType": -1,
-  "knownIds": [
-    145328
-  ]
-}
+{"internalId":1220386337,"name":"Murkmire Pedestal, Low","description":"This is a standard house item.","icon":"data/images/10/0l/at/housing_arg_duc_pedestal001.png","bindType":-1,"knownIds":[145328]}

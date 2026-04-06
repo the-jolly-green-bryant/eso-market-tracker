@@ -1,10 +1,1 @@
-{
-  "internalId": 2103041067,
-  "name": "Pattern: Fargrave Paper Lantern, Red Flat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    223936
-  ]
-}
+{"internalId":2103041067,"name":"Pattern: Fargrave Paper Lantern, Red Flat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[223936]}

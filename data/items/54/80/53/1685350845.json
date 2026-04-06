@@ -1,10 +1,1 @@
-{
-  "internalId": 1685350845,
-  "name": "Gauntlets of the Radiant Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167587
-  ]
-}
+{"internalId":1685350845,"name":"Gauntlets of the Radiant Bastion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arkthzand_heavy_hands_a.png","bindType":2,"knownIds":[167587]}

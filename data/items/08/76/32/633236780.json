@@ -1,15 +1,1 @@
-{
-  "internalId": 633236780,
-  "name": "Perfected Nahviintaas's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1383948,
-    1629315,
-    1639422,
-    1383948,
-    1629315,
-    1639422
-  ]
-}
+{"internalId":633236780,"name":"Perfected Nahviintaas's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_dagger_a.png","bindType":-1,"knownIds":[1383948,1629315,1639422,1383948,1629315,1639422]}

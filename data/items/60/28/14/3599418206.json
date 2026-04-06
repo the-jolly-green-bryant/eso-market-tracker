@@ -1,10 +1,1 @@
-{
-  "internalId": 3599418206,
-  "name": "Decorative Scalp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png",
-  "bindType": -1,
-  "knownIds": [
-    405861
-  ]
-}
+{"internalId":3599418206,"name":"Decorative Scalp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png","bindType":-1,"knownIds":[405861]}

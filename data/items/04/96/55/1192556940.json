@@ -1,10 +1,1 @@
-{
-  "internalId": 1192556940,
-  "name": "Senchal Defender's Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shieldssenchalhvy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155017
-  ]
-}
+{"internalId":1192556940,"name":"Senchal Defender's Girdle","description":"","icon":"data/images/a_/ts/ia/gear_shieldssenchalhvy_waist_a.png","bindType":2,"knownIds":[155017]}

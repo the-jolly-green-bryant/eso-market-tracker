@@ -1,17 +1,1 @@
-{
-  "internalId": 1838570195,
-  "name": "Siroria's Perfected Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_dagger_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1488447,
-    1543505,
-    1693471,
-    1725949,
-    1488447,
-    1543505,
-    1693471,
-    1725949
-  ]
-}
+{"internalId":1838570195,"name":"Siroria's Perfected Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_dagger_001.png","bindType":-1,"knownIds":[1488447,1543505,1693471,1725949,1488447,1543505,1693471,1725949]}

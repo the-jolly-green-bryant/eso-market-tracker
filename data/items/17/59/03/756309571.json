@@ -1,10 +1,1 @@
-{
-  "internalId": 756309571,
-  "name": "Design: Colovian Grape Basket, Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    207880
-  ]
-}
+{"internalId":756309571,"name":"Design: Colovian Grape Basket, Wax","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[207880]}

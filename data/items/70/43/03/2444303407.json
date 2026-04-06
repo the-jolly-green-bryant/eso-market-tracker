@@ -1,17 +1,1 @@
-{
-  "internalId": 2444303407,
-  "name": "Gardener of Seasons Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1688357,
-    1689918,
-    1697580,
-    1722503,
-    1688357,
-    1689918,
-    1697580,
-    1722503
-  ]
-}
+{"internalId":2444303407,"name":"Gardener of Seasons Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_waist_a.png","bindType":-1,"knownIds":[1688357,1689918,1697580,1722503,1688357,1689918,1697580,1722503]}

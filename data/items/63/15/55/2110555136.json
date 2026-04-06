@@ -1,10 +1,1 @@
-{
-  "internalId": 2110555136,
-  "name": "Dwarven Steel Griddle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pan_001.png",
-  "bindType": -1,
-  "knownIds": [
-    908365
-  ]
-}
+{"internalId":2110555136,"name":"Dwarven Steel Griddle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pan_001.png","bindType":-1,"knownIds":[908365]}

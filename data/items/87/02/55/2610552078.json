@@ -1,10 +1,1 @@
-{
-  "internalId": 2610552078,
-  "name": "Pattern: Vampiric Drapes, Tall Arch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166763
-  ]
-}
+{"internalId":2610552078,"name":"Pattern: Vampiric Drapes, Tall Arch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[166763]}

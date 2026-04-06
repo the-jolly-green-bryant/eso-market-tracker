@@ -1,13 +1,1 @@
-{
-  "internalId": 2548357027,
-  "name": "Excruciatus Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    720113,
-    488768,
-    720113,
-    488768
-  ]
-}
+{"internalId":2548357027,"name":"Excruciatus Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png","bindType":-1,"knownIds":[720113,488768,720113,488768]}

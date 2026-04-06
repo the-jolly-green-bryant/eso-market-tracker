@@ -1,10 +1,1 @@
-{
-  "internalId": 2233094231,
-  "name": "Deadlands Tapestry, Mehrunes Dagon",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_fardagontapestry001.png",
-  "bindType": -1,
-  "knownIds": [
-    184097
-  ]
-}
+{"internalId":2233094231,"name":"Deadlands Tapestry, Mehrunes Dagon","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_fardagontapestry001.png","bindType":-1,"knownIds":[184097]}

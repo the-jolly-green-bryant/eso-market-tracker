@@ -1,10 +1,1 @@
-{
-  "internalId": 2815137278,
-  "name": "Vines, Dragonfire Ivy Swath",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_redivy010.png",
-  "bindType": -1,
-  "knownIds": [
-    151822
-  ]
-}
+{"internalId":2815137278,"name":"Vines, Dragonfire Ivy Swath","description":"This is a large house item.","icon":"data/images/01/0y/vi/housing_veg_els_redivy010.png","bindType":-1,"knownIds":[151822]}

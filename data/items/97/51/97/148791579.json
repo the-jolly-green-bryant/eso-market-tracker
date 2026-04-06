@@ -1,10 +1,1 @@
-{
-  "internalId": 148791579,
-  "name": "Blue Butterfly Flock",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_fx_butterflies_blue.png",
-  "bindType": -1,
-  "knownIds": [
-    134848
-  ]
-}
+{"internalId":148791579,"name":"Blue Butterfly Flock","description":"This is a small house item.","icon":"data/images/eu/lb/_s/housing_fx_butterflies_blue.png","bindType":-1,"knownIds":[134848]}

@@ -1,14 +1,1 @@
-{
-  "internalId": 3506497012,
-  "name": "Monolith of Storms Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1680002,
-    1695116,
-    1696759,
-    1697464,
-    1702841
-  ]
-}
+{"internalId":3506497012,"name":"Monolith of Storms Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_feet_a.png","bindType":-1,"knownIds":[1680002,1695116,1696759,1697464,1702841]}

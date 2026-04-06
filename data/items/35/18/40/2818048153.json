@@ -1,13 +1,1 @@
-{
-  "internalId": 2818048153,
-  "name": "Beacon of Oblivion Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1733727,
-    1759503,
-    1733727,
-    1759503
-  ]
-}
+{"internalId":2818048153,"name":"Beacon of Oblivion Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_legs_a.png","bindType":-1,"knownIds":[1733727,1759503,1733727,1759503]}

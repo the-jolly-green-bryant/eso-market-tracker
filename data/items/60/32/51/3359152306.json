@@ -1,10 +1,1 @@
-{
-  "internalId": 3359152306,
-  "name": "Thunderous Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43783
-  ]
-}
+{"internalId":3359152306,"name":"Thunderous Cuirass","description":"","icon":"data/images/d_/ts/eh/gear_dunmer_heavy_chest_d.png","bindType":2,"knownIds":[43783]}

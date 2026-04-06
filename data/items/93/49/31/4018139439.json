@@ -1,10 +1,1 @@
-{
-  "internalId": 4018139439,
-  "name": "Stone Carving, Hand",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsstone001.png",
-  "bindType": -1,
-  "knownIds": [
-    197734
-  ]
-}
+{"internalId":4018139439,"name":"Stone Carving, Hand","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsstone001.png","bindType":-1,"knownIds":[197734]}

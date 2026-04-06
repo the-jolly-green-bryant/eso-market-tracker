@@ -1,10 +1,1 @@
-{
-  "internalId": 727168973,
-  "name": "Firestarter Kit in Waterproof Pouch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484082
-  ]
-}
+{"internalId":727168973,"name":"Firestarter Kit in Waterproof Pouch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[484082]}

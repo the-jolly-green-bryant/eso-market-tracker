@@ -1,17 +1,1 @@
-{
-  "internalId": 722795339,
-  "name": "Tzogvin's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1303639,
-    1342330,
-    1432754,
-    1441893,
-    1303639,
-    1342330,
-    1432754,
-    1441893
-  ]
-}
+{"internalId":722795339,"name":"Tzogvin's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1303639,1342330,1432754,1441893,1303639,1342330,1432754,1441893]}

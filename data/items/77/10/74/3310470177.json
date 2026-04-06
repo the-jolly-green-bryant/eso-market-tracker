@@ -1,10 +1,1 @@
-{
-  "internalId": 3310470177,
-  "name": "Saint Pelin Figurine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1367240
-  ]
-}
+{"internalId":3310470177,"name":"Saint Pelin Figurine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[1367240]}

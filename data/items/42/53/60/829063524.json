@@ -1,10 +1,1 @@
-{
-  "internalId": 829063524,
-  "name": "Honey",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_honeycomb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    27043
-  ]
-}
+{"internalId":829063524,"name":"Honey","description":"An ingredient for crafting beverages.","icon":"data/images/10/0_/bm/quest_honeycomb_001.png","bindType":-1,"knownIds":[27043]}

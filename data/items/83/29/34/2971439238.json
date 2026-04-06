@@ -1,10 +1,1 @@
-{
-  "internalId": 2971439238,
-  "name": "Golden Azurah Icon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801322
-  ]
-}
+{"internalId":2971439238,"name":"Golden Azurah Icon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_001.png","bindType":-1,"knownIds":[801322]}

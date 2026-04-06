@@ -1,10 +1,1 @@
-{
-  "internalId": 3469312996,
-  "name": "Flowers, Violet Bellflower",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_sf_purpleflowercluster001.png",
-  "bindType": -1,
-  "knownIds": [
-    134902
-  ]
-}
+{"internalId":3469312996,"name":"Flowers, Violet Bellflower","description":"This is a small house item.","icon":"data/images/10/0r/et/housing_veg_flr_sf_purpleflowercluster001.png","bindType":-1,"knownIds":[134902]}

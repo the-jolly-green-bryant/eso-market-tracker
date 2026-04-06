@@ -1,10 +1,1 @@
-{
-  "internalId": 1944933453,
-  "name": "Design: Fargrave Tomato Bunch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    182998
-  ]
-}
+{"internalId":1944933453,"name":"Design: Fargrave Tomato Bunch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[182998]}

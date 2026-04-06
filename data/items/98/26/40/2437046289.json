@@ -1,10 +1,1 @@
-{
-  "internalId": 2437046289,
-  "name": "Dreamer's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98105
-  ]
-}
+{"internalId":2437046289,"name":"Dreamer's Sword","description":"","icon":"data/images/d_/dr/ow/gear_altmer_1hsword_d.png","bindType":2,"knownIds":[98105]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2555703508,
-  "name": "Solitude Hand-Drill, Simple",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_toolhanddrill001.png",
-  "bindType": -1,
-  "knownIds": [
-    165748
-  ]
-}
+{"internalId":2555703508,"name":"Solitude Hand-Drill, Simple","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_toolhanddrill001.png","bindType":-1,"knownIds":[165748]}

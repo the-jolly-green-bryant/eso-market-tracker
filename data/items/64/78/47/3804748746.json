@@ -1,10 +1,1 @@
-{
-  "internalId": 3804748746,
-  "name": "Seared Slaughterfish with Mammoth Cheese",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_fish.png",
-  "bindType": -1,
-  "knownIds": [
-    57118
-  ]
-}
+{"internalId":3804748746,"name":"Seared Slaughterfish with Mammoth Cheese","description":"","icon":"data/images/hs/if/_d/crafting_cooking_grilled_fish.png","bindType":-1,"knownIds":[57118]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 491490412,
-  "name": "Pattern: High Elf Divider, Carved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    118931
-  ]
-}
+{"internalId":491490412,"name":"Pattern: High Elf Divider, Carved","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[118931]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1543674734,
-  "name": "Gloomlantern Epaulets",
-  "description": "Some small measure of the Gloomlantern's power dwell within these shoulders, causing fog to disperse around the wearer on a shrouded night.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191224
-  ]
-}
+{"internalId":1543674734,"name":"Gloomlantern Epaulets","description":"Some small measure of the Gloomlantern's power dwell within these shoulders, causing fog to disperse around the wearer on a shrouded night.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_shoulders_d.png","bindType":2,"knownIds":[191224]}

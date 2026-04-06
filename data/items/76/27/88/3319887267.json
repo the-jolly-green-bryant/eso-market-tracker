@@ -1,10 +1,1 @@
-{
-  "internalId": 3319887267,
-  "name": "Crafting Motif 136: Voskrona Guardian Daggers",
-  "description": "Use to learn how to make Voskrona Guardian Daggers. Also teaches the equivalent Voskrona Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    212447
-  ]
-}
+{"internalId":3319887267,"name":"Crafting Motif 136: Voskrona Guardian Daggers","description":"Use to learn how to make Voskrona Guardian Daggers. Also teaches the equivalent Voskrona Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[212447]}

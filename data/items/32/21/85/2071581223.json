@@ -1,10 +1,1 @@
-{
-  "internalId": 2071581223,
-  "name": "Mor Khazgur Tusk Tongs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tweezers.png",
-  "bindType": -1,
-  "knownIds": [
-    1367316
-  ]
-}
+{"internalId":2071581223,"name":"Mor Khazgur Tusk Tongs","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tweezers.png","bindType":-1,"knownIds":[1367316]}

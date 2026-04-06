@@ -1,10 +1,1 @@
-{
-  "internalId": 782611507,
-  "name": "Crafting Motif 40: Order Hour Shoulders",
-  "description": "Use to learn how to make Order of the Hour Shoulders. Also teaches the equivalent Order Hour Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    82099
-  ]
-}
+{"internalId":782611507,"name":"Crafting Motif 40: Order Hour Shoulders","description":"Use to learn how to make Order of the Hour Shoulders. Also teaches the equivalent Order Hour Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[82099]}

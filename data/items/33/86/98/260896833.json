@@ -1,10 +1,1 @@
-{
-  "internalId": 260896833,
-  "name": "Systres' Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_sword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186389
-  ]
-}
+{"internalId":260896833,"name":"Systres' Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_sword_a.png","bindType":2,"knownIds":[186389]}

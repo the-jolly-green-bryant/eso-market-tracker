@@ -1,10 +1,1 @@
-{
-  "internalId": 4237239154,
-  "name": "Meridian Lens",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_lightofmeridiadevicelens001.png",
-  "bindType": -1,
-  "knownIds": [
-    219733
-  ]
-}
+{"internalId":4237239154,"name":"Meridian Lens","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_lightofmeridiadevicelens001.png","bindType":-1,"knownIds":[219733]}

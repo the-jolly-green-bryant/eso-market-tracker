@@ -1,13 +1,1 @@
-{
-  "internalId": 3229757398,
-  "name": "Nobility in Decay Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678228,
-    1685442,
-    1678228,
-    1685442
-  ]
-}
+{"internalId":3229757398,"name":"Nobility in Decay Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1678228,1685442,1678228,1685442]}

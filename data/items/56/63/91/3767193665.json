@@ -1,10 +1,1 @@
-{
-  "internalId": 3767193665,
-  "name": "Aldmeri Dinner Tapestry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_king_dumacs_royal_latrine_cloth_roll.png",
-  "bindType": -1,
-  "knownIds": [
-    1241069
-  ]
-}
+{"internalId":3767193665,"name":"Aldmeri Dinner Tapestry","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_king_dumacs_royal_latrine_cloth_roll.png","bindType":-1,"knownIds":[1241069]}

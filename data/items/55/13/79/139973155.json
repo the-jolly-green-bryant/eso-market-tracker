@@ -1,10 +1,1 @@
-{
-  "internalId": 139973155,
-  "name": "Weapons: Black-Glove Grounding",
-  "description": "A Heavy Armor set found in Oathsworn Pit.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    202472
-  ]
-}
+{"internalId":139973155,"name":"Weapons: Black-Glove Grounding","description":"A Heavy Armor set found in Oathsworn Pit.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[202472]}

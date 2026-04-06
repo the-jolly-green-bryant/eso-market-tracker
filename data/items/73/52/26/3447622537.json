@@ -1,10 +1,1 @@
-{
-  "internalId": 3447622537,
-  "name": "Velothi Tapestry, Geyser",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_tapestryblrg001.png",
-  "bindType": -1,
-  "knownIds": [
-    126600
-  ]
-}
+{"internalId":3447622537,"name":"Velothi Tapestry, Geyser","description":"This is a standard house item.","icon":"data/images/10/0g/rl/housing_vrd_inc_tapestryblrg001.png","bindType":-1,"knownIds":[126600]}

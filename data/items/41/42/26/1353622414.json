@@ -1,10 +1,1 @@
-{
-  "internalId": 1353622414,
-  "name": "Adamant Lurker Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196191
-  ]
-}
+{"internalId":1353622414,"name":"Adamant Lurker Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_chest_a.png","bindType":2,"knownIds":[196191]}

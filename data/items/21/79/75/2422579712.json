@@ -1,10 +1,1 @@
-{
-  "internalId": 2422579712,
-  "name": "Chieftain's Greaves",
-  "description": "You cured Mozgosh, fulfilling her father's dying wish. In return, she gifted you these sturdy greaves.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43522
-  ]
-}
+{"internalId":2422579712,"name":"Chieftain's Greaves","description":"You cured Mozgosh, fulfilling her father's dying wish. In return, she gifted you these sturdy greaves.","icon":"data/images/d_/sg/el/gear_orc_heavy_legs_d.png","bindType":2,"knownIds":[43522]}

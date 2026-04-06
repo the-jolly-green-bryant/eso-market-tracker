@@ -1,13 +1,1 @@
-{
-  "internalId": 1877826743,
-  "name": "Stormfist Disguise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403847,
-    1516910,
-    403847,
-    1516910
-  ]
-}
+{"internalId":1877826743,"name":"Stormfist Disguise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[403847,1516910,403847,1516910]}

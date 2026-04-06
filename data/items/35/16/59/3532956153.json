@@ -1,10 +1,1 @@
-{
-  "internalId": 3532956153,
-  "name": "Pact's Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54470
-  ]
-}
+{"internalId":3532956153,"name":"Pact's Greaves","description":"","icon":"data/images/a_/sg/el/gear_akaviri_heavy_legs_a.png","bindType":2,"knownIds":[54470]}

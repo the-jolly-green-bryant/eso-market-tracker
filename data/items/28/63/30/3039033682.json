@@ -1,10 +1,1 @@
-{
-  "internalId": 3039033682,
-  "name": "Desktop Concentration Censer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_censer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    811166
-  ]
-}
+{"internalId":3039033682,"name":"Desktop Concentration Censer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_censer_001.png","bindType":-1,"knownIds":[811166]}

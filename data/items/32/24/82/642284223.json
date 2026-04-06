@@ -1,10 +1,1 @@
-{
-  "internalId": 642284223,
-  "name": "Frozen Man Folding Fan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_flag_001.png",
-  "bindType": -1,
-  "knownIds": [
-    939791
-  ]
-}
+{"internalId":642284223,"name":"Frozen Man Folding Fan","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_flag_001.png","bindType":-1,"knownIds":[939791]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1100263423,
-  "name": "Khajiiti Gravity Verification Gadget",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1420951
-  ]
-}
+{"internalId":1100263423,"name":"Khajiiti Gravity Verification Gadget","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[1420951]}

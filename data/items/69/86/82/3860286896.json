@@ -1,10 +1,1 @@
-{
-  "internalId": 3860286896,
-  "name": "Kozanset Window Sundial",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1067166
-  ]
-}
+{"internalId":3860286896,"name":"Kozanset Window Sundial","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png","bindType":-1,"knownIds":[1067166]}

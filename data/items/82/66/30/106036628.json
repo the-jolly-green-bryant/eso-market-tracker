@@ -1,10 +1,1 @@
-{
-  "internalId": 106036628,
-  "name": "Jack of the Trainee",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    96356
-  ]
-}
+{"internalId":106036628,"name":"Jack of the Trainee","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[96356]}

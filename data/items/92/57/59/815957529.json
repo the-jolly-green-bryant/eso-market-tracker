@@ -1,10 +1,1 @@
-{
-  "internalId": 815957529,
-  "name": "Crystalbreaker's Belt",
-  "description": "A sturdy belt embedded with tiny crystal shards. Debris from the destroyed artifacts used by Firesong Druids at Embervine cave.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191221
-  ]
-}
+{"internalId":815957529,"name":"Crystalbreaker's Belt","description":"A sturdy belt embedded with tiny crystal shards. Debris from the destroyed artifacts used by Firesong Druids at Embervine cave.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_waist_d.png","bindType":2,"knownIds":[191221]}

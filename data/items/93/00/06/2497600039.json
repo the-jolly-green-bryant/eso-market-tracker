@@ -1,10 +1,1 @@
-{
-  "internalId": 2497600039,
-  "name": "Cloudy Barley Nectar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_distill_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37892
-  ]
-}
+{"internalId":2497600039,"name":"Cloudy Barley Nectar","description":"","icon":"data/images/20/0_/ll/crafting_dom_distill_002.png","bindType":-1,"knownIds":[37892]}

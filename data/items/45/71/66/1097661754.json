@@ -1,10 +1,1 @@
-{
-  "internalId": 1097661754,
-  "name": "Shrub, Wild Basil",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_skr_shrub005.png",
-  "bindType": -1,
-  "knownIds": [
-    165821
-  ]
-}
+{"internalId":1097661754,"name":"Shrub, Wild Basil","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_skr_shrub005.png","bindType":-1,"knownIds":[165821]}

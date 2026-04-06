@@ -1,10 +1,1 @@
-{
-  "internalId": 3169704159,
-  "name": "Stoneskin Gloves",
-  "description": "The gloves are lined with tufts of goat hair, softening their touch on the wearer's skin.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    26164
-  ]
-}
+{"internalId":3169704159,"name":"Stoneskin Gloves","description":"The gloves are lined with tufts of goat hair, softening their touch on the wearer's skin.","icon":"data/images/d_/sd/na/gear_redguard_medium_hands_d.png","bindType":2,"knownIds":[26164]}

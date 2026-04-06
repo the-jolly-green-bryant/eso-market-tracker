@@ -1,10 +1,1 @@
-{
-  "internalId": 403781322,
-  "name": "Sterling Silver Orc-Forged Candlestick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    897441
-  ]
-}
+{"internalId":403781322,"name":"Sterling Silver Orc-Forged Candlestick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[897441]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2224464504,
-  "name": "Tree, Forked Blackwood Elm",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_bad_southernoak005.png",
-  "bindType": -1,
-  "knownIds": [
-    175772
-  ]
-}
+{"internalId":2224464504,"name":"Tree, Forked Blackwood Elm","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_bad_southernoak005.png","bindType":-1,"knownIds":[175772]}

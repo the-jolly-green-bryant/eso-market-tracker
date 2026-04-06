@@ -1,10 +1,1 @@
-{
-  "internalId": 2916497462,
-  "name": "Daedric Vase, Spiked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_vase001.png",
-  "bindType": -1,
-  "knownIds": [
-    120871
-  ]
-}
+{"internalId":2916497462,"name":"Daedric Vase, Spiked","description":"This is a standard house item.","icon":"data/images/10/0e/sa/housing_dae_inc_vase001.png","bindType":-1,"knownIds":[120871]}

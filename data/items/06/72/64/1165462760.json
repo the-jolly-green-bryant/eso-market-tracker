@@ -1,10 +1,1 @@
-{
-  "internalId": 1165462760,
-  "name": "Adamant Lurker Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196183
-  ]
-}
+{"internalId":1165462760,"name":"Adamant Lurker Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_2hsword_a.png","bindType":2,"knownIds":[196183]}

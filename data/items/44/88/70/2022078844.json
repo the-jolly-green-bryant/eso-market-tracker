@@ -1,10 +1,1 @@
-{
-  "internalId": 2022078844,
-  "name": "MONSTER: Kjalnar's Nightmare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1364189
-  ]
-}
+{"internalId":2022078844,"name":"MONSTER: Kjalnar's Nightmare","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1364189]}

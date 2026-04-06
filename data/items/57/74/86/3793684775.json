@@ -1,17 +1,1 @@
-{
-  "internalId": 3793684775,
-  "name": "Pyrebrand Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1727714,
-    1731380,
-    1735135,
-    1764523,
-    1727714,
-    1731380,
-    1735135,
-    1764523
-  ]
-}
+{"internalId":3793684775,"name":"Pyrebrand Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_feet_a.png","bindType":-1,"knownIds":[1727714,1731380,1735135,1764523,1727714,1731380,1735135,1764523]}

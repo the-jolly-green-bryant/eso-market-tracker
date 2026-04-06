@@ -1,15 +1,1 @@
-{
-  "internalId": 2193565174,
-  "name": "Stony Heart",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_004.png",
-  "bindType": -1,
-  "knownIds": [
-    573306,
-    1223827,
-    1320256,
-    573306,
-    1223827,
-    1320256
-  ]
-}
+{"internalId":2193565174,"name":"Stony Heart","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_004.png","bindType":-1,"knownIds":[573306,1223827,1320256,573306,1223827,1320256]}

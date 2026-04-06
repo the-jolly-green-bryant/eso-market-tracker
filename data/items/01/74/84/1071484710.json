@@ -1,10 +1,1 @@
-{
-  "internalId": 1071484710,
-  "name": "Stone, Tapered Desert",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_bangkoraismall003.png",
-  "bindType": -1,
-  "knownIds": [
-    120455
-  ]
-}
+{"internalId":1071484710,"name":"Stone, Tapered Desert","description":"This is a small house item.","icon":"data/images/30/0l/la/housing_rok_tan_bangkoraismall003.png","bindType":-1,"knownIds":[120455]}

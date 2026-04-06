@@ -1,10 +1,1 @@
-{
-  "internalId": 4038340846,
-  "name": "Diagram: Nord Chandelier, Antler",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    116210
-  ]
-}
+{"internalId":4038340846,"name":"Diagram: Nord Chandelier, Antler","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[116210]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2652840819,
-  "name": "Auspicious Stuffed Eagle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mounted_flightless_bird.png",
-  "bindType": -1,
-  "knownIds": [
-    1415292
-  ]
-}
+{"internalId":2652840819,"name":"Auspicious Stuffed Eagle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mounted_flightless_bird.png","bindType":-1,"knownIds":[1415292]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 35429410,
-  "name": "Crafting Motif 86: Sea Giant Swords",
-  "description": "Use to learn how to make Sea Giant Swords. Also teaches the equivalent Sea Giant Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160573
-  ]
-}
+{"internalId":35429410,"name":"Crafting Motif 86: Sea Giant Swords","description":"Use to learn how to make Sea Giant Swords. Also teaches the equivalent Sea Giant Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160573]}

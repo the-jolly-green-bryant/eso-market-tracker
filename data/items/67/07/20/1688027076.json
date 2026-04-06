@@ -1,13 +1,1 @@
-{
-  "internalId": 1688027076,
-  "name": "Dreadfang's Bite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    795965,
-    520125,
-    795965,
-    520125
-  ]
-}
+{"internalId":1688027076,"name":"Dreadfang's Bite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hsword_d.png","bindType":-1,"knownIds":[795965,520125,795965,520125]}

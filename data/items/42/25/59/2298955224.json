@@ -1,10 +1,1 @@
-{
-  "internalId": 2298955224,
-  "name": "Beetle-Be-Gone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1344298
-  ]
-}
+{"internalId":2298955224,"name":"Beetle-Be-Gone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[1344298]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3568175991,
-  "name": "Black Fin Ceremonial Battle Maul",
-  "description": "Awarded to only the highest-ranking members of Keshu's Black Fin Legion, this large hammer is both ceremonial and functional as a weapon.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    174843
-  ]
-}
+{"internalId":3568175991,"name":"Black Fin Ceremonial Battle Maul","description":"Awarded to only the highest-ranking members of Keshu's Black Fin Legion, this large hammer is both ceremonial and functional as a weapon.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png","bindType":2,"knownIds":[174843]}

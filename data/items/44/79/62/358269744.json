@@ -1,10 +1,1 @@
-{
-  "internalId": 358269744,
-  "name": "Robe of Twilight's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56157
-  ]
-}
+{"internalId":358269744,"name":"Robe of Twilight's Embrace","description":"","icon":"data/images/d_/eb/or/gear_breton_light_robe_d.png","bindType":2,"knownIds":[56157]}

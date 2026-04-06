@@ -1,10 +1,1 @@
-{
-  "internalId": 1964209834,
-  "name": "Breton Hutch, Knotwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_chinacabinet002.png",
-  "bindType": -1,
-  "knownIds": [
-    115187
-  ]
-}
+{"internalId":1964209834,"name":"Breton Hutch, Knotwork","description":"This is a standard house item.","icon":"data/images/20/0t/en/housing_bre_fur_chinacabinet002.png","bindType":-1,"knownIds":[115187]}

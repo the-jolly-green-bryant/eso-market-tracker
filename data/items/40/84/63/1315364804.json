@@ -1,10 +1,1 @@
-{
-  "internalId": 1315364804,
-  "name": "Crafting Motif 24: Outlaw Belts",
-  "description": "Use to learn the Outlaw Belts. Also teaches the equivalent Outlaw Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    71524
-  ]
-}
+{"internalId":1315364804,"name":"Crafting Motif 24: Outlaw Belts","description":"Use to learn the Outlaw Belts. Also teaches the equivalent Outlaw Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[71524]}

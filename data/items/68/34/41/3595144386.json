@@ -1,10 +1,1 @@
-{
-  "internalId": 3595144386,
-  "name": "Sun's Height Pudding Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    427062
-  ]
-}
+{"internalId":3595144386,"name":"Sun's Height Pudding Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[427062]}

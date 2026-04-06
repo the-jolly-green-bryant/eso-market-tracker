@@ -1,10 +1,1 @@
-{
-  "internalId": 309862356,
-  "name": "Covenant's Choker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    59927
-  ]
-}
+{"internalId":309862356,"name":"Covenant's Choker","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[59927]}

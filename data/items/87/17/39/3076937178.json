@@ -1,10 +1,1 @@
-{
-  "internalId": 3076937178,
-  "name": "Exemplary Nirnhoned Sword",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Sword.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81604
-  ]
-}
+{"internalId":3076937178,"name":"Exemplary Nirnhoned Sword","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Sword.","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":-1,"knownIds":[81604]}

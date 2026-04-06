@@ -1,10 +1,1 @@
-{
-  "internalId": 710485421,
-  "name": "Signature Script: Wayfarer's Mastery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_battletechnique.png",
-  "bindType": -1,
-  "knownIds": [
-    204588
-  ]
-}
+{"internalId":710485421,"name":"Signature Script: Wayfarer's Mastery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_battletechnique.png","bindType":-1,"knownIds":[204588]}

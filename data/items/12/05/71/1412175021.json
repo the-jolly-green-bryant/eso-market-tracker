@@ -1,10 +1,1 @@
-{
-  "internalId": 1412175021,
-  "name": "Blueprint: Leyawiin Cupboard, Sturdy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175915
-  ]
-}
+{"internalId":1412175021,"name":"Blueprint: Leyawiin Cupboard, Sturdy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[175915]}

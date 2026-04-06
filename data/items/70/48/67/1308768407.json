@@ -1,10 +1,1 @@
-{
-  "internalId": 1308768407,
-  "name": "Humbled Hero Figurine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1278174
-  ]
-}
+{"internalId":1308768407,"name":"Humbled Hero Figurine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1278174]}

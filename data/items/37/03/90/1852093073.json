@@ -1,10 +1,1 @@
-{
-  "internalId": 1852093073,
-  "name": "Storm Lord Banner, Long",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikescrownnflaglong001.png",
-  "bindType": -1,
-  "knownIds": [
-    211526
-  ]
-}
+{"internalId":1852093073,"name":"Storm Lord Banner, Long","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikescrownnflaglong001.png","bindType":-1,"knownIds":[211526]}

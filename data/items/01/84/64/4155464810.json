@@ -1,10 +1,1 @@
-{
-  "internalId": 4155464810,
-  "name": "Jewelry: Gryphon's Ferocity",
-  "description": "A Medium Armor set found in Summerset.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    139026
-  ]
-}
+{"internalId":4155464810,"name":"Jewelry: Gryphon's Ferocity","description":"A Medium Armor set found in Summerset.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[139026]}

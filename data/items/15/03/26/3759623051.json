@@ -1,10 +1,1 @@
-{
-  "internalId": 3759623051,
-  "name": "Pearl-Handled Hairbrush",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    817987
-  ]
-}
+{"internalId":3759623051,"name":"Pearl-Handled Hairbrush","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[817987]}

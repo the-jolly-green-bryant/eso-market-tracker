@@ -1,10 +1,1 @@
-{
-  "internalId": 674452770,
-  "name": "rawhide helmet of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_c.png",
-  "bindType": -1,
-  "knownIds": [
-    398895
-  ]
-}
+{"internalId":674452770,"name":"rawhide helmet of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_c.png","bindType":-1,"knownIds":[398895]}

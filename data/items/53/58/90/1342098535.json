@@ -1,10 +1,1 @@
-{
-  "internalId": 1342098535,
-  "name": "Alinor Grape Stomping Tub",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_winestompbarrel001.png",
-  "bindType": -1,
-  "knownIds": [
-    141830
-  ]
-}
+{"internalId":1342098535,"name":"Alinor Grape Stomping Tub","description":"This is a large house item.","icon":"data/images/10/0l/er/housing_sum_exc_winestompbarrel001.png","bindType":-1,"knownIds":[141830]}

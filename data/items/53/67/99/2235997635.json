@@ -1,10 +1,1 @@
-{
-  "internalId": 2235997635,
-  "name": "Necrom Ossuary, Plated",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_cem_necosuaries001.png",
-  "bindType": -1,
-  "knownIds": [
-    197508
-  ]
-}
+{"internalId":2235997635,"name":"Necrom Ossuary, Plated","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_cem_necosuaries001.png","bindType":-1,"knownIds":[197508]}

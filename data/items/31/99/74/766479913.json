@@ -1,10 +1,1 @@
-{
-  "internalId": 766479913,
-  "name": "Argonian Lanterns, Strand",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklamp002.png",
-  "bindType": -1,
-  "knownIds": [
-    115530
-  ]
-}
+{"internalId":766479913,"name":"Argonian Lanterns, Strand","description":"This is a large house item.","icon":"data/images/20/0p/ma/housing_arg_lsb_mrklamp002.png","bindType":-1,"knownIds":[115530]}

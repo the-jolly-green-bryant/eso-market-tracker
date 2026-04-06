@@ -1,10 +1,1 @@
-{
-  "internalId": 873198592,
-  "name": "Diagram: Orcish Chandelier, Practical",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119069
-  ]
-}
+{"internalId":873198592,"name":"Diagram: Orcish Chandelier, Practical","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119069]}

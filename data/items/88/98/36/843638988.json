@@ -1,10 +1,1 @@
-{
-  "internalId": 843638988,
-  "name": "essence of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    687236
-  ]
-}
+{"internalId":843638988,"name":"essence of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_001_type_005.png","bindType":-1,"knownIds":[687236]}

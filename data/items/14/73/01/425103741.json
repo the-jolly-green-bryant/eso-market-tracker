@@ -1,10 +1,1 @@
-{
-  "internalId": 425103741,
-  "name": "Argonian Lattice, Rough",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_ladder001.png",
-  "bindType": -1,
-  "knownIds": [
-    115435
-  ]
-}
+{"internalId":425103741,"name":"Argonian Lattice, Rough","description":"This is a large house item.","icon":"data/images/10/0r/ed/housing_arg_exc_ladder001.png","bindType":-1,"knownIds":[115435]}

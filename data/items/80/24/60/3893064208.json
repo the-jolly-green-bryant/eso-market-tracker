@@ -1,10 +1,1 @@
-{
-  "internalId": 3893064208,
-  "name": "Skeleton, Daedric Titan",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_titanskeleton001.png",
-  "bindType": -1,
-  "knownIds": [
-    203141
-  ]
-}
+{"internalId":3893064208,"name":"Skeleton, Daedric Titan","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_titanskeleton001.png","bindType":-1,"knownIds":[203141]}

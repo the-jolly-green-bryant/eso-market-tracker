@@ -1,10 +1,1 @@
-{
-  "internalId": 1227277215,
-  "name": "Recipe: Savory Mid Year Preserves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45712
-  ]
-}
+{"internalId":1227277215,"name":"Recipe: Savory Mid Year Preserves","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45712]}

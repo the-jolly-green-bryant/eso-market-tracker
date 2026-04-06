@@ -1,10 +1,1 @@
-{
-  "internalId": 1796593904,
-  "name": "Plague Doctor's Dremora's Dread",
-  "description": "An axe awarded for defeating the elite Dremora, Druitularg.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43026
-  ]
-}
+{"internalId":1796593904,"name":"Plague Doctor's Dremora's Dread","description":"An axe awarded for defeating the elite Dremora, Druitularg.","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[43026]}

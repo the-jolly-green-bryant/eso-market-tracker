@@ -1,10 +1,1 @@
-{
-  "internalId": 2701918184,
-  "name": "Reikling Totem, Skull",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrgoblintotemskull001.png",
-  "bindType": -1,
-  "knownIds": [
-    151953
-  ]
-}
+{"internalId":2701918184,"name":"Reikling Totem, Skull","description":"This is a small house item.","icon":"data/images/10/0l/lu/housing_gen_exc_rkrgoblintotemskull001.png","bindType":-1,"knownIds":[151953]}

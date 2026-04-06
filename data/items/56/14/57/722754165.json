@@ -1,10 +1,1 @@
-{
-  "internalId": 722754165,
-  "name": "Sword of Eternal Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_sword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161170
-  ]
-}
+{"internalId":722754165,"name":"Sword of Eternal Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_sword_a.png","bindType":2,"knownIds":[161170]}

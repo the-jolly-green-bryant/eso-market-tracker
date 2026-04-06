@@ -1,10 +1,1 @@
-{
-  "internalId": 3545922010,
-  "name": "Nidras's Letters",
-  "description": "There are five letters, each with the same message, addressed to Earrastell, Quertasse, Laurosse, and Calastil. Click to read.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    43565
-  ]
-}
+{"internalId":3545922010,"name":"Nidras's Letters","description":"There are five letters, each with the same message, addressed to Earrastell, Quertasse, Laurosse, and Calastil. Click to read.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[43565]}

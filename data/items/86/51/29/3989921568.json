@@ -1,10 +1,1 @@
-{
-  "internalId": 3989921568,
-  "name": "Disquieting Family Portrait",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_portrait_002.png",
-  "bindType": -1,
-  "knownIds": [
-    841817
-  ]
-}
+{"internalId":3989921568,"name":"Disquieting Family Portrait","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_portrait_002.png","bindType":-1,"knownIds":[841817]}

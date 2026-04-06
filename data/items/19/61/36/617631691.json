@@ -1,10 +1,1 @@
-{
-  "internalId": 617631691,
-  "name": "Vvardenfell Glowstalk, Towering",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_lightstalk001.png",
-  "bindType": -1,
-  "knownIds": [
-    126580
-  ]
-}
+{"internalId":617631691,"name":"Vvardenfell Glowstalk, Towering","description":"This is a standard house item.","icon":"data/images/10/0k/la/housing_veg_fug_lightstalk001.png","bindType":-1,"knownIds":[126580]}

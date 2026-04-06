@@ -1,10 +1,1 @@
-{
-  "internalId": 2794318648,
-  "name": "Crescent Moon Pan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1324418
-  ]
-}
+{"internalId":2794318648,"name":"Crescent Moon Pan","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1324418]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 524440053,
-  "name": "Imperial Dais, Raised",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_duc_housingicundergroundseigeplatform001.png",
-  "bindType": -1,
-  "knownIds": [
-    211574
-  ]
-}
+{"internalId":524440053,"name":"Imperial Dais, Raised","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_imp_duc_housingicundergroundseigeplatform001.png","bindType":-1,"knownIds":[211574]}

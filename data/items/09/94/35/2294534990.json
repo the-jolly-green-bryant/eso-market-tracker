@@ -1,10 +1,1 @@
-{
-  "internalId": 2294534990,
-  "name": "Naga Shaman Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143509
-  ]
-}
+{"internalId":2294534990,"name":"Naga Shaman Cuirass","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[143509]}

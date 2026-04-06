@@ -1,17 +1,1 @@
-{
-  "internalId": 2621236117,
-  "name": "Monolith of Storms Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_sword.png",
-  "bindType": -1,
-  "knownIds": [
-    1680078,
-    1692311,
-    1693010,
-    1721558,
-    1680078,
-    1692311,
-    1693010,
-    1721558
-  ]
-}
+{"internalId":2621236117,"name":"Monolith of Storms Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_sword.png","bindType":-1,"knownIds":[1680078,1692311,1693010,1721558,1680078,1692311,1693010,1721558]}

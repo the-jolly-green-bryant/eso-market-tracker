@@ -1,10 +1,1 @@
-{
-  "internalId": 180549329,
-  "name": "Praxis: Elsweyr Pot, Cerulean",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    151998
-  ]
-}
+{"internalId":180549329,"name":"Praxis: Elsweyr Pot, Cerulean","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[151998]}

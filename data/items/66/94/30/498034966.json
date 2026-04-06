@@ -1,10 +1,1 @@
-{
-  "internalId": 498034966,
-  "name": "Scroll, Rolled",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_scroll_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    118490
-  ]
-}
+{"internalId":498034966,"name":"Scroll, Rolled","description":"This is a tiny house item.","icon":"data/images/10/0d/es/housing_bre_inc_scroll_closed001.png","bindType":-1,"knownIds":[118490]}

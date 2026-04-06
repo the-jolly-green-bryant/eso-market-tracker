@@ -1,10 +1,1 @@
-{
-  "internalId": 3911204869,
-  "name": "Congealed Cinnamon Grape Jelly",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_jam_pot.png",
-  "bindType": -1,
-  "knownIds": [
-    37811
-  ]
-}
+{"internalId":3911204869,"name":"Congealed Cinnamon Grape Jelly","description":"","icon":"data/images/to/p_/ma/crafting_cooking_jam_pot.png","bindType":-1,"knownIds":[37811]}

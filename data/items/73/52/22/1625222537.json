@@ -1,10 +1,1 @@
-{
-  "internalId": 1625222537,
-  "name": "Dwarven Pipe, Half Column",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_housingfloorpipeb001.png",
-  "bindType": -1,
-  "knownIds": [
-    125526
-  ]
-}
+{"internalId":1625222537,"name":"Dwarven Pipe, Half Column","description":"This is a standard house item.","icon":"data/images/10/0b/ep/housing_dwe_duc_housingfloorpipeb001.png","bindType":-1,"knownIds":[125526]}

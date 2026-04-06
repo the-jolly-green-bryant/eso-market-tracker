@@ -1,10 +1,1 @@
-{
-  "internalId": 3720739757,
-  "name": "Murky Morning Reveille Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_006.png",
-  "bindType": -1,
-  "knownIds": [
-    37879
-  ]
-}
+{"internalId":3720739757,"name":"Murky Morning Reveille Tea","description":"","icon":"data/images/60/0_/ae/crafting_tea_006.png","bindType":-1,"knownIds":[37879]}

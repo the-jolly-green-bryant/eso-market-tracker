@@ -1,10 +1,1 @@
-{
-  "internalId": 3964019050,
-  "name": "The Burning of King Olaf Event Schedule",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1386592
-  ]
-}
+{"internalId":3964019050,"name":"The Burning of King Olaf Event Schedule","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[1386592]}

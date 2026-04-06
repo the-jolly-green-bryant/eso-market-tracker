@@ -1,10 +1,1 @@
-{
-  "internalId": 2737192388,
-  "name": "Amulet of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    178860
-  ]
-}
+{"internalId":2737192388,"name":"Amulet of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[178860]}

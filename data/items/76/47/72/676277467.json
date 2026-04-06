@@ -1,10 +1,1 @@
-{
-  "internalId": 676277467,
-  "name": "Leyawiin Wall, Curved Garden",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleywalllowcurve002.png",
-  "bindType": -1,
-  "knownIds": [
-    181528
-  ]
-}
+{"internalId":676277467,"name":"Leyawiin Wall, Curved Garden","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleywalllowcurve002.png","bindType":-1,"knownIds":[181528]}

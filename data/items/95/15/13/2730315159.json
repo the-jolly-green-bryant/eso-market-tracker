@@ -1,10 +1,1 @@
-{
-  "internalId": 2730315159,
-  "name": "The Song of Pelinal, Volume 6",
-  "description": "Reprint, Second Edition: \"On His Madness.\"",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook001.png",
-  "bindType": -1,
-  "knownIds": [
-    126162
-  ]
-}
+{"internalId":2730315159,"name":"The Song of Pelinal, Volume 6","description":"Reprint, Second Edition: \"On His Madness.\"","icon":"data/images/10/0k/oo/housing_red_inc_varbook001.png","bindType":-1,"knownIds":[126162]}

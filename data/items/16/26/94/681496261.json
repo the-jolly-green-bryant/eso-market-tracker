@@ -1,13 +1,1 @@
-{
-  "internalId": 681496261,
-  "name": "Shipment of Planks X",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1424839,
-    1303399,
-    1424839,
-    1303399
-  ]
-}
+{"internalId":681496261,"name":"Shipment of Planks X","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1424839,1303399,1424839,1303399]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 167408125,
-  "name": "Epaulets of the Weald",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    205050
-  ]
-}
+{"internalId":167408125,"name":"Epaulets of the Weald","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_light_shoulders_a.png","bindType":2,"knownIds":[205050]}

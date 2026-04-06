@@ -1,10 +1,1 @@
-{
-  "internalId": 1438206014,
-  "name": "Velothi Painting, Modest Waterfall",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_paintingcsml001.png",
-  "bindType": -1,
-  "knownIds": [
-    126609
-  ]
-}
+{"internalId":1438206014,"name":"Velothi Painting, Modest Waterfall","description":"This is a small house item.","icon":"data/images/10/0l/ms/housing_vrd_inc_paintingcsml001.png","bindType":-1,"knownIds":[126609]}

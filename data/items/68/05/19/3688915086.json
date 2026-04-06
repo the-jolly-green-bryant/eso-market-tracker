@@ -1,10 +1,1 @@
-{
-  "internalId": 3688915086,
-  "name": "Druidic Door, Wood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutdoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    193825
-  ]
-}
+{"internalId":3688915086,"name":"Druidic Door, Wood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housingdruhutdoor001.png","bindType":-1,"knownIds":[193825]}

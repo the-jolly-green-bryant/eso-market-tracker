@@ -1,10 +1,1 @@
-{
-  "internalId": 2192711180,
-  "name": "Pact's Choker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    59933
-  ]
-}
+{"internalId":2192711180,"name":"Pact's Choker","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[59933]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2583668127,
-  "name": "Witch-Knight's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167928
-  ]
-}
+{"internalId":2583668127,"name":"Witch-Knight's Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_shoulders_a.png","bindType":2,"knownIds":[167928]}

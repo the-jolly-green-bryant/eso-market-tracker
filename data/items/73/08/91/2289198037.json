@@ -1,10 +1,1 @@
-{
-  "internalId": 2289198037,
-  "name": "Leftwheal Cleaver",
-  "description": "A makeshift butcher's blade, this axe is more fearsome than many found on the battlefield.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1haxe_b.png",
-  "bindType": 2,
-  "knownIds": [
-    208154
-  ]
-}
+{"internalId":2289198037,"name":"Leftwheal Cleaver","description":"A makeshift butcher's blade, this axe is more fearsome than many found on the battlefield.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_1haxe_b.png","bindType":2,"knownIds":[208154]}

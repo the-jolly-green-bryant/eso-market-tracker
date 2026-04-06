@@ -1,10 +1,1 @@
-{
-  "internalId": 108659125,
-  "name": "Mummified Hagraven Claw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385130
-  ]
-}
+{"internalId":108659125,"name":"Mummified Hagraven Claw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png","bindType":-1,"knownIds":[1385130]}

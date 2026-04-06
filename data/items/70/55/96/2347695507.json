@@ -1,10 +1,1 @@
-{
-  "internalId": 2347695507,
-  "name": "Chukka Sei Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_golden_toebells.png",
-  "bindType": -1,
-  "knownIds": [
-    1351317
-  ]
-}
+{"internalId":2347695507,"name":"Chukka Sei Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_golden_toebells.png","bindType":-1,"knownIds":[1351317]}

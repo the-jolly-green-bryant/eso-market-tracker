@@ -1,10 +1,1 @@
-{
-  "internalId": 934114183,
-  "name": "Imperial Trestle, Scrollwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_tabletressle001.png",
-  "bindType": -1,
-  "knownIds": [
-    94180
-  ]
-}
+{"internalId":934114183,"name":"Imperial Trestle, Scrollwork","description":"This is a standard house item.","icon":"data/images/10/0e/ls/housing_nib_fur_tabletressle001.png","bindType":-1,"knownIds":[94180]}

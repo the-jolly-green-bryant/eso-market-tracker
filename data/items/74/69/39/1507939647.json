@@ -1,10 +1,1 @@
-{
-  "internalId": 1507939647,
-  "name": "Storm Shield",
-  "description": "Presented with honor by Captain Seritenya and the crew of the Sea Viper.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15538
-  ]
-}
+{"internalId":1507939647,"name":"Storm Shield","description":"Presented with honor by Captain Seritenya and the crew of the Sea Viper.","icon":"data/images/d_/dl/ei/gear_altmer_shield_d.png","bindType":2,"knownIds":[15538]}

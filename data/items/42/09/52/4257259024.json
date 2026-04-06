@@ -1,11 +1,1 @@
-{
-  "internalId": 4257259024,
-  "name": "MONSTER: Maarselok",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1411087,
-    1411087
-  ]
-}
+{"internalId":4257259024,"name":"MONSTER: Maarselok","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1411087,1411087]}

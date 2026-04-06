@@ -1,10 +1,1 @@
-{
-  "internalId": 2694417925,
-  "name": "At-Tura Scimitar Sheath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826295
-  ]
-}
+{"internalId":2694417925,"name":"At-Tura Scimitar Sheath","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[826295]}

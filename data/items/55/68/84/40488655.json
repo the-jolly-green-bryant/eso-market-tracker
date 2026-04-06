@@ -1,10 +1,1 @@
-{
-  "internalId": 40488655,
-  "name": "Hexos' Ward Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_med_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180253
-  ]
-}
+{"internalId":40488655,"name":"Hexos' Ward Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_med_feet_a.png","bindType":2,"knownIds":[180253]}

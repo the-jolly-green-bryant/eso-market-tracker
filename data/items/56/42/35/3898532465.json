@@ -1,10 +1,1 @@
-{
-  "internalId": 3898532465,
-  "name": "Weapons: Leeching Plate",
-  "description": "A Heavy Armor set found in Imperial City Prison.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134214
-  ]
-}
+{"internalId":3898532465,"name":"Weapons: Leeching Plate","description":"A Heavy Armor set found in Imperial City Prison.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134214]}

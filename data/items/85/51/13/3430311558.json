@@ -1,15 +1,1 @@
-{
-  "internalId": 3430311558,
-  "name": "homespun jerkin of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": -1,
-  "knownIds": [
-    699914,
-    417770,
-    548407,
-    699914,
-    417770,
-    548407
-  ]
-}
+{"internalId":3430311558,"name":"homespun jerkin of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":-1,"knownIds":[699914,417770,548407,699914,417770,548407]}

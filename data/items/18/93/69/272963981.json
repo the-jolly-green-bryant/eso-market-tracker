@@ -1,10 +1,1 @@
-{
-  "internalId": 272963981,
-  "name": "Corpse-Caller's Fury of Necropotence",
-  "description": "A weapon awarded for defeating the Montclair officer, Leidmir Corpse-Caller, in Hildune's Secret Refuge.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34887
-  ]
-}
+{"internalId":272963981,"name":"Corpse-Caller's Fury of Necropotence","description":"A weapon awarded for defeating the Montclair officer, Leidmir Corpse-Caller, in Hildune's Secret Refuge.","icon":"data/images/d_/re/mm/gear_nord_1hhammer_d.png","bindType":2,"knownIds":[34887]}

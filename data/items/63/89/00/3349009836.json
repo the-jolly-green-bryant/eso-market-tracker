@@ -1,10 +1,1 @@
-{
-  "internalId": 3349009836,
-  "name": "Dagger of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172103
-  ]
-}
+{"internalId":3349009836,"name":"Dagger of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_dagger_a.png","bindType":2,"knownIds":[172103]}

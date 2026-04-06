@@ -1,15 +1,1 @@
-{
-  "internalId": 1140643161,
-  "name": "Nobility in Decay Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678305,
-    1689531,
-    1702836,
-    1678305,
-    1689531,
-    1702836
-  ]
-}
+{"internalId":1140643161,"name":"Nobility in Decay Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_legs_a.png","bindType":-1,"knownIds":[1678305,1689531,1702836,1678305,1689531,1702836]}

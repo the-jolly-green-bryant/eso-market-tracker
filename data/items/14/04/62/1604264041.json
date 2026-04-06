@@ -1,15 +1,1 @@
-{
-  "internalId": 1604264041,
-  "name": "Saint's Beatified Coffer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1175241,
-    1241809,
-    1415246,
-    1175241,
-    1241809,
-    1415246
-  ]
-}
+{"internalId":1604264041,"name":"Saint's Beatified Coffer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1175241,1241809,1415246,1175241,1241809,1415246]}

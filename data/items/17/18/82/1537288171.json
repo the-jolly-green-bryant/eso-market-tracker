@@ -1,10 +1,1 @@
-{
-  "internalId": 1537288171,
-  "name": "Commemorative \"Broken Shackles\" Medal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1078038
-  ]
-}
+{"internalId":1537288171,"name":"Commemorative \"Broken Shackles\" Medal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[1078038]}

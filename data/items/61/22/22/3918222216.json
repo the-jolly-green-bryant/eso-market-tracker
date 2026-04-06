@@ -1,10 +1,1 @@
-{
-  "internalId": 3918222216,
-  "name": "Sketch: Figurine, The Sea-Monster's Surprise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_4.png",
-  "bindType": -1,
-  "knownIds": [
-    139571
-  ]
-}
+{"internalId":3918222216,"name":"Sketch: Figurine, The Sea-Monster's Surprise","description":"","icon":"data/images/4_/yr/le/crafting_planfurniture_jewelry_4.png","bindType":-1,"knownIds":[139571]}

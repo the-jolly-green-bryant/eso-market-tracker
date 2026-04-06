@@ -1,17 +1,1 @@
-{
-  "internalId": 305582984,
-  "name": "Xoryn's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1722489,
-    1732319,
-    1722489,
-    1732319,
-    1722489,
-    1732319,
-    1722489,
-    1732319
-  ]
-}
+{"internalId":305582984,"name":"Xoryn's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1722489,1732319,1722489,1732319,1722489,1732319,1722489,1732319]}

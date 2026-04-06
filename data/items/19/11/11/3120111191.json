@@ -1,10 +1,1 @@
-{
-  "internalId": 3120111191,
-  "name": "Torchbug Thorax",
-  "description": "An ingredient for alchemy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_torchbug_thorax.png",
-  "bindType": -1,
-  "knownIds": [
-    77581
-  ]
-}
+{"internalId":3120111191,"name":"Torchbug Thorax","description":"An ingredient for alchemy.","icon":"data/images/xa/ro/ht/crafting_poisonmaking_reagent_torchbug_thorax.png","bindType":-1,"knownIds":[77581]}

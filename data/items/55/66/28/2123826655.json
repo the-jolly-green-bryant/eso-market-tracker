@@ -1,10 +1,1 @@
-{
-  "internalId": 2123826655,
-  "name": "Adventurers Wanted!",
-  "description": "This crumpled note looks like someone scrawled something on it and tossed it aside.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_plans_001.png",
-  "bindType": -1,
-  "knownIds": [
-    171809
-  ]
-}
+{"internalId":2123826655,"name":"Adventurers Wanted!","description":"This crumpled note looks like someone scrawled something on it and tossed it aside.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_plans_001.png","bindType":-1,"knownIds":[171809]}

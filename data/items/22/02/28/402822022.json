@@ -1,10 +1,1 @@
-{
-  "internalId": 402822022,
-  "name": "Mystic Moons Torchbug Lanthorn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png",
-  "bindType": -1,
-  "knownIds": [
-    603332
-  ]
-}
+{"internalId":402822022,"name":"Mystic Moons Torchbug Lanthorn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png","bindType":-1,"knownIds":[603332]}

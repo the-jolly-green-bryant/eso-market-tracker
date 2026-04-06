@@ -1,10 +1,1 @@
-{
-  "internalId": 725287104,
-  "name": "Pomegranate Distiller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png",
-  "bindType": -1,
-  "knownIds": [
-    383161
-  ]
-}
+{"internalId":725287104,"name":"Pomegranate Distiller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png","bindType":-1,"knownIds":[383161]}

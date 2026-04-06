@@ -1,10 +1,1 @@
-{
-  "internalId": 2267732429,
-  "name": "Alchemist Survey: Coldharbour I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803708
-  ]
-}
+{"internalId":2267732429,"name":"Alchemist Survey: Coldharbour I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[803708]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 163406413,
-  "name": "Rawhide Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmerv2med_hands.png",
-  "bindType": -1,
-  "knownIds": [
-    175749
-  ]
-}
+{"internalId":163406413,"name":"Rawhide Bracers","description":"","icon":"data/images/a_/sd/na/gear_ashlander_hands_a.png","bindType":-1,"knownIds":[121379]}

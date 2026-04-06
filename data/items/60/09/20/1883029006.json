@@ -1,10 +1,1 @@
-{
-  "internalId": 1883029006,
-  "name": "Apocrypha Plant, Anemone Cluster",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_purpleanemone003.png",
-  "bindType": -1,
-  "knownIds": [
-    197642
-  ]
-}
+{"internalId":1883029006,"name":"Apocrypha Plant, Anemone Cluster","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_apc_purpleanemone003.png","bindType":-1,"knownIds":[197642]}

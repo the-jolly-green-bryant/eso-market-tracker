@@ -1,10 +1,1 @@
-{
-  "internalId": 2561141634,
-  "name": "Dwarven Chandelier, Polished Braced",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markchandelierd001.png",
-  "bindType": -1,
-  "knownIds": [
-    167299
-  ]
-}
+{"internalId":2561141634,"name":"Dwarven Chandelier, Polished Braced","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_lsb_markchandelierd001.png","bindType":-1,"knownIds":[167299]}

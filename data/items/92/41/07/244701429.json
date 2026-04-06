@@ -1,10 +1,1 @@
-{
-  "internalId": 244701429,
-  "name": "Pattern: Redoran Bed, Canopy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    126925
-  ]
-}
+{"internalId":244701429,"name":"Pattern: Redoran Bed, Canopy","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[126925]}

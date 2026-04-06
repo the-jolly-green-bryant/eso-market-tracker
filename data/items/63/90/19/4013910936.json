@@ -1,17 +1,1 @@
-{
-  "internalId": 4013910936,
-  "name": "ebonthread breeches of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    528395,
-    664688,
-    459089,
-    1065585,
-    528395,
-    664688,
-    459089,
-    1065585
-  ]
-}
+{"internalId":4013910936,"name":"ebonthread breeches of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":-1,"knownIds":[528395,664688,459089,1065585,528395,664688,459089,1065585]}

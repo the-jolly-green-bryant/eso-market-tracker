@@ -1,10 +1,1 @@
-{
-  "internalId": 2530556973,
-  "name": "Bound Skill Respecification Scroll",
-  "description": "Using this scroll enables the selection of a different combination of skills and morphs, without costing you any gold.  This functionality now exists within the UI at no cost, and now you can sell this scroll to vendors for gold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/store_abilityrespec_001.png",
-  "bindType": 3,
-  "knownIds": [
-    135128
-  ]
-}
+{"internalId":2530556973,"name":"Bound Skill Respecification Scroll","description":"Using this scroll enables the selection of a different combination of skills and morphs, without costing you any gold.  This functionality now exists within the UI at no cost, and now you can sell this scroll to vendors for gold.","icon":"data/images/10/0_/ce/store_abilityrespec_001.png","bindType":3,"knownIds":[135128]}

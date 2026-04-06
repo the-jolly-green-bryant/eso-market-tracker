@@ -1,10 +1,1 @@
-{
-  "internalId": 2652354766,
-  "name": "Hlaalu Path Marker, Almsivi",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_hlamilemarker001.png",
-  "bindType": -1,
-  "knownIds": [
-    151949
-  ]
-}
+{"internalId":2652354766,"name":"Hlaalu Path Marker, Almsivi","description":"This is a standard house item.","icon":"data/images/10/0r/ek/housing_vrd_str_hlamilemarker001.png","bindType":-1,"knownIds":[151949]}

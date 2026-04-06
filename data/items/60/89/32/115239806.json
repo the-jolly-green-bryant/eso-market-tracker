@@ -1,10 +1,1 @@
-{
-  "internalId": 115239806,
-  "name": "Senche's Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    114455
-  ]
-}
+{"internalId":115239806,"name":"Senche's Bracers","description":"","icon":"data/images/d_/sd/na/gear_khajiit_medium_hands_d.png","bindType":2,"knownIds":[114455]}

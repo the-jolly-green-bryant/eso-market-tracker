@@ -1,10 +1,1 @@
-{
-  "internalId": 861425397,
-  "name": "Orc Challenge Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_023.png",
-  "bindType": -1,
-  "knownIds": [
-    376030
-  ]
-}
+{"internalId":861425397,"name":"Orc Challenge Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_023.png","bindType":-1,"knownIds":[376030]}

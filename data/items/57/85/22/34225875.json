@@ -1,10 +1,1 @@
-{
-  "internalId": 34225875,
-  "name": "Khajiiti Scrivener's Brace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ring_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1321371
-  ]
-}
+{"internalId":34225875,"name":"Khajiiti Scrivener's Brace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_ring_001.png","bindType":-1,"knownIds":[1321371]}

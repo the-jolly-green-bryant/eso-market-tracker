@@ -1,10 +1,1 @@
-{
-  "internalId": 341379276,
-  "name": "Shoes of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_light_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199884
-  ]
-}
+{"internalId":341379276,"name":"Shoes of Syvarra's Scales","description":"","icon":"data/images/a_/te/ef/gear_ancientyokudan_light_feet_a.png","bindType":2,"knownIds":[72965]}

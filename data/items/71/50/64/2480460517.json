@@ -1,10 +1,1 @@
-{
-  "internalId": 2480460517,
-  "name": "Nord Lamppost, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_lamppost002.png",
-  "bindType": -1,
-  "knownIds": [
-    115418
-  ]
-}
+{"internalId":2480460517,"name":"Nord Lamppost, Stone","description":"This is a large house item.","icon":"data/images/20/0t/so/housing_nor_lsb_lamppost002.png","bindType":-1,"knownIds":[115418]}

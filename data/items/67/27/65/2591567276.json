@@ -1,10 +1,1 @@
-{
-  "internalId": 2591567276,
-  "name": "Ring of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    74181
-  ]
-}
+{"internalId":2591567276,"name":"Ring of Vicious Death","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[74181]}

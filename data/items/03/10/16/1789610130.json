@@ -1,10 +1,1 @@
-{
-  "internalId": 1789610130,
-  "name": "Greaves of the Brute",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43952
-  ]
-}
+{"internalId":1789610130,"name":"Greaves of the Brute","description":"","icon":"data/images/d_/sg/el/gear_orc_heavy_legs_d.png","bindType":2,"knownIds":[43952]}

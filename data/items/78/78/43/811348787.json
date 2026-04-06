@@ -1,10 +1,1 @@
-{
-  "internalId": 811348787,
-  "name": "Greatsword of Baan Dar's Blessing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    204386
-  ]
-}
+{"internalId":811348787,"name":"Greatsword of Baan Dar's Blessing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":2,"knownIds":[204386]}

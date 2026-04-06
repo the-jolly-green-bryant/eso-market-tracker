@@ -1,15 +1,1 @@
-{
-  "internalId": 2775872106,
-  "name": "draught of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    431094,
-    690400,
-    1428103,
-    431094,
-    690400,
-    1428103
-  ]
-}
+{"internalId":2775872106,"name":"draught of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png","bindType":-1,"knownIds":[431094,690400,1428103,431094,690400,1428103]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4037624079,
-  "name": "Cherry Blossom Collection",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1240937
-  ]
-}
+{"internalId":4037624079,"name":"Cherry Blossom Collection","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[1240937]}

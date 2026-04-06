@@ -1,10 +1,1 @@
-{
-  "internalId": 2906556368,
-  "name": "Restoration Staff of Orgnum's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56709
-  ]
-}
+{"internalId":2906556368,"name":"Restoration Staff of Orgnum's Scales","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[56709]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 992433960,
-  "name": "Gourmand's Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190536
-  ]
-}
+{"internalId":992433960,"name":"Gourmand's Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_waist_a.png","bindType":2,"knownIds":[190536]}

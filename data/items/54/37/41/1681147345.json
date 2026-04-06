@@ -1,10 +1,1 @@
-{
-  "internalId": 1681147345,
-  "name": "Ojel Gel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_hubalajads_urn.png",
-  "bindType": -1,
-  "knownIds": [
-    1352159
-  ]
-}
+{"internalId":1681147345,"name":"Ojel Gel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_hubalajads_urn.png","bindType":-1,"knownIds":[1352159]}

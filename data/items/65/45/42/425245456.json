@@ -1,10 +1,1 @@
-{
-  "internalId": 425245456,
-  "name": "Diagram: Firesong Sculpture, Chimera's Tail",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    194388
-  ]
-}
+{"internalId":425245456,"name":"Diagram: Firesong Sculpture, Chimera's Tail","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[194388]}

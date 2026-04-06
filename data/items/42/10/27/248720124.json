@@ -1,10 +1,1 @@
-{
-  "internalId": 248720124,
-  "name": "Deadly Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87966
-  ]
-}
+{"internalId":248720124,"name":"Deadly Bow","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[87966]}

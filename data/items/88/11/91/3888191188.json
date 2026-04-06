@@ -1,10 +1,1 @@
-{
-  "internalId": 3888191188,
-  "name": "Coral Rasp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_bark.png",
-  "bindType": -1,
-  "knownIds": [
-    1240682
-  ]
-}
+{"internalId":3888191188,"name":"Coral Rasp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_bark.png","bindType":-1,"knownIds":[1240682]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1275349025,
-  "name": "Dawnwood Seat, Sprouted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_boschair002.png",
-  "bindType": -1,
-  "knownIds": [
-    204663
-  ]
-}
+{"internalId":1275349025,"name":"Dawnwood Seat, Sprouted","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_boschair002.png","bindType":-1,"knownIds":[204663]}

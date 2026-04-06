@@ -1,10 +1,1 @@
-{
-  "internalId": 2008582163,
-  "name": "Bottle, Liquor",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_liquor001.png",
-  "bindType": -1,
-  "knownIds": [
-    118194
-  ]
-}
+{"internalId":2008582163,"name":"Bottle, Liquor","description":"This is a tiny house item.","icon":"data/images/10/0r/ou/housing_bre_inc_liquor001.png","bindType":-1,"knownIds":[118194]}

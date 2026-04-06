@@ -1,10 +1,1 @@
-{
-  "internalId": 3325650324,
-  "name": "Silver Shaving Razor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    897221
-  ]
-}
+{"internalId":3325650324,"name":"Silver Shaving Razor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png","bindType":-1,"knownIds":[897221]}

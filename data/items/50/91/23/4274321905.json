@@ -1,17 +1,1 @@
-{
-  "internalId": 4274321905,
-  "name": "Telvanni Enforcer Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1632483,
-    1735432,
-    1632483,
-    1735432,
-    1632483,
-    1735432,
-    1632483,
-    1735432
-  ]
-}
+{"internalId":4274321905,"name":"Telvanni Enforcer Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hhammer_a.png","bindType":-1,"knownIds":[1632483,1735432,1632483,1735432,1632483,1735432,1632483,1735432]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3505205613,
-  "name": "Galenwe's Perfected Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_2haxe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1341639,
-    1383957,
-    1545001,
-    1626071,
-    1640959,
-    1724251
-  ]
-}
+{"internalId":3505205613,"name":"Galenwe's Perfected Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_2haxe_001.png","bindType":-1,"knownIds":[1341639,1383957,1545001,1626071,1640959,1724251]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2839260243,
-  "name": "Gloves of the Undaunted Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    59242
-  ]
-}
+{"internalId":2839260243,"name":"Gloves of the Undaunted Bastion","description":"","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":2,"knownIds":[59242]}

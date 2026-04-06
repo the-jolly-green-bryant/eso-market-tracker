@@ -1,10 +1,1 @@
-{
-  "internalId": 3117807147,
-  "name": "Indoril Chest, Fortified",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlastrongbox001.png",
-  "bindType": -1,
-  "knownIds": [
-    126372
-  ]
-}
+{"internalId":3117807147,"name":"Indoril Chest, Fortified","description":"This is a small house item.","icon":"data/images/10/0x/ob/housing_vrd_fur_hlastrongbox001.png","bindType":-1,"knownIds":[126372]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 377579225,
-  "name": "Plants, Pearlwort Cluster",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_seapearlwort002.png",
-  "bindType": -1,
-  "knownIds": [
-    139084
-  ]
-}
+{"internalId":377579225,"name":"Plants, Pearlwort Cluster","description":"This is a small house item.","icon":"data/images/20/0t/ro/housing_veg_sum_seapearlwort002.png","bindType":-1,"knownIds":[139084]}

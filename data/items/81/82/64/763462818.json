@@ -1,10 +1,1 @@
-{
-  "internalId": 763462818,
-  "name": "Blackwood Treasure Map II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    175548
-  ]
-}
+{"internalId":763462818,"name":"Blackwood Treasure Map II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[175548]}

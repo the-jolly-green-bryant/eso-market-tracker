@@ -1,10 +1,1 @@
-{
-  "internalId": 3272961510,
-  "name": "Crafter's Style Materials Crate: Special Edition",
-  "description": "This crate is laden with the materials to make equipment in every style from the Crown Store or events.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    190969
-  ]
-}
+{"internalId":3272961510,"name":"Crafter's Style Materials Crate: Special Edition","description":"This crate is laden with the materials to make equipment in every style from the Crown Store or events.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[190969]}

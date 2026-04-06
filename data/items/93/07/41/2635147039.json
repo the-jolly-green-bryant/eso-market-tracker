@@ -1,10 +1,1 @@
-{
-  "internalId": 2635147039,
-  "name": "Toy Frigate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pirate_ship_model.png",
-  "bindType": -1,
-  "knownIds": [
-    1371740
-  ]
-}
+{"internalId":2635147039,"name":"Toy Frigate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pirate_ship_model.png","bindType":-1,"knownIds":[1371740]}

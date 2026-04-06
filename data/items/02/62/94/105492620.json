@@ -1,10 +1,1 @@
-{
-  "internalId": 105492620,
-  "name": "Plants, Ash Frond",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_vrdpapyrus001.png",
-  "bindType": -1,
-  "knownIds": [
-    125631
-  ]
-}
+{"internalId":105492620,"name":"Plants, Ash Frond","description":"This is a small house item.","icon":"data/images/10/0s/ur/housing_veg_bsh_vrdpapyrus001.png","bindType":-1,"knownIds":[125631]}

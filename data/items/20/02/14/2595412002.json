@@ -1,10 +1,1 @@
-{
-  "internalId": 2595412002,
-  "name": "Praxis: Markarth Wall, Wide Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    171786
-  ]
-}
+{"internalId":2595412002,"name":"Praxis: Markarth Wall, Wide Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[171786]}

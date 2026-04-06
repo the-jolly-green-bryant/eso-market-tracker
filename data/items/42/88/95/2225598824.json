@@ -1,10 +1,1 @@
-{
-  "internalId": 2225598824,
-  "name": "Ebon Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ayleidlich_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212290
-  ]
-}
+{"internalId":2225598824,"name":"Ebon Shield","description":"","icon":"data/images/a_/dl/ei/gear_soulshriven_shield_a.png","bindType":2,"knownIds":[77666]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4098094219,
-  "name": "Lightning Staff of High Isle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186066
-  ]
-}
+{"internalId":4098094219,"name":"Lightning Staff of High Isle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_staff_a.png","bindType":2,"knownIds":[186066]}

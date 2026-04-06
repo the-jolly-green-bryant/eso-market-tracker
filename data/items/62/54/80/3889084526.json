@@ -1,10 +1,1 @@
-{
-  "internalId": 3889084526,
-  "name": "Sword-Singer's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99438
-  ]
-}
+{"internalId":3889084526,"name":"Sword-Singer's Jack","description":"","icon":"data/images/d_/ts/eh/gear_redguard_medium_chest_d.png","bindType":2,"knownIds":[99438]}

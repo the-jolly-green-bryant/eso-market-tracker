@@ -1,10 +1,1 @@
-{
-  "internalId": 1403529721,
-  "name": "Crafting Motif 117: Firesong Bows",
-  "description": "Use to learn how to make Firesong Bows. Also teaches the equivalent Firesong Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    188311
-  ]
-}
+{"internalId":1403529721,"name":"Crafting Motif 117: Firesong Bows","description":"Use to learn how to make Firesong Bows. Also teaches the equivalent Firesong Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[188311]}

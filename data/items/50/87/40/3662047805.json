@@ -1,10 +1,1 @@
-{
-  "internalId": 3662047805,
-  "name": "The Chimera Tapestry",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrychimerasmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    192401
-  ]
-}
+{"internalId":3662047805,"name":"The Chimera Tapestry","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestrychimerasmall001.png","bindType":-1,"knownIds":[192401]}

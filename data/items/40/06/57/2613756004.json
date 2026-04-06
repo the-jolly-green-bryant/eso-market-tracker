@@ -1,10 +1,1 @@
-{
-  "internalId": 2613756004,
-  "name": "Dawnwood Tent, Grown",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_bostemphousing001.png",
-  "bindType": -1,
-  "knownIds": [
-    211398
-  ]
-}
+{"internalId":2613756004,"name":"Dawnwood Tent, Grown","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_bostemphousing001.png","bindType":-1,"knownIds":[211398]}

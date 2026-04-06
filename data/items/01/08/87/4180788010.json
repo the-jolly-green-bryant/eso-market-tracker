@@ -1,10 +1,1 @@
-{
-  "internalId": 4180788010,
-  "name": "Clockwork Sequence Plaques, Folded",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_scrollfolded001.png",
-  "bindType": -1,
-  "knownIds": [
-    134361
-  ]
-}
+{"internalId":4180788010,"name":"Clockwork Sequence Plaques, Folded","description":"This is a small house item.","icon":"data/images/10/0d/ed/housing_cwc_inc_scrollfolded001.png","bindType":-1,"knownIds":[134361]}

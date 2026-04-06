@@ -1,10 +1,1 @@
-{
-  "internalId": 69896806,
-  "name": "Superb Hide",
-  "description": "An ingredient for crafting clothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_hide_scaled.png",
-  "bindType": -1,
-  "knownIds": [
-    46137
-  ]
-}
+{"internalId":69896806,"name":"Superb Hide","description":"An ingredient for crafting clothing.","icon":"data/images/de/la/cs/crafting_hide_scaled.png","bindType":-1,"knownIds":[46137]}

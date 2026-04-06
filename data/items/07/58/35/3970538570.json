@@ -1,10 +1,1 @@
-{
-  "internalId": 3970538570,
-  "name": "Supple Redguard Blade Polisher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_sp_names_001.png",
-  "bindType": -1,
-  "knownIds": [
-    898248
-  ]
-}
+{"internalId":3970538570,"name":"Supple Redguard Blade Polisher","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_sp_names_001.png","bindType":-1,"knownIds":[898248]}

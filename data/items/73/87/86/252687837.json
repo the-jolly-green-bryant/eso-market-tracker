@@ -1,10 +1,1 @@
-{
-  "internalId": 252687837,
-  "name": "Sanded Nightwood",
-  "description": "An ingredient for crafting wooden weapons and shields.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_sanded_nightwood.png",
-  "bindType": -1,
-  "knownIds": [
-    46142
-  ]
-}
+{"internalId":252687837,"name":"Sanded Nightwood","description":"An ingredient for crafting wooden weapons and shields.","icon":"data/images/do/ow/th/crafting_wood_sanded_nightwood.png","bindType":-1,"knownIds":[46142]}

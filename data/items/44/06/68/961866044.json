@@ -1,10 +1,1 @@
-{
-  "internalId": 961866044,
-  "name": "Painting of Nord Ship, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting005.png",
-  "bindType": -1,
-  "knownIds": [
-    165838
-  ]
-}
+{"internalId":961866044,"name":"Painting of Nord Ship, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting005.png","bindType":-1,"knownIds":[165838]}

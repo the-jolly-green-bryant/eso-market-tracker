@@ -1,10 +1,1 @@
-{
-  "internalId": 3813793120,
-  "name": "Cuirass of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179154
-  ]
-}
+{"internalId":3813793120,"name":"Cuirass of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[179154]}

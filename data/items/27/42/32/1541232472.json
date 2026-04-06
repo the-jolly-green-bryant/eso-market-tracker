@@ -1,10 +1,1 @@
-{
-  "internalId": 1541232472,
-  "name": "Blueprint: Worm Cult Stool, Wooden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    223614
-  ]
-}
+{"internalId":1541232472,"name":"Blueprint: Worm Cult Stool, Wooden","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[223614]}

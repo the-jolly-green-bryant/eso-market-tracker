@@ -1,10 +1,1 @@
-{
-  "internalId": 2836005711,
-  "name": "Filed Barbs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/style_item_blackiron.png",
-  "bindType": -1,
-  "knownIds": [
-    176073
-  ]
-}
+{"internalId":2836005711,"name":"Filed Barbs","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/style_item_blackiron.png","bindType":-1,"knownIds":[176073]}

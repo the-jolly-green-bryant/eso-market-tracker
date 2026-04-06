@@ -1,10 +1,1 @@
-{
-  "internalId": 1834227938,
-  "name": "Champion of the Hist Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142383
-  ]
-}
+{"internalId":1834227938,"name":"Champion of the Hist Greatsword","description":"","icon":"data/images/a_/dr/ow/gear_elderarg_2hsword_a.png","bindType":2,"knownIds":[142383]}

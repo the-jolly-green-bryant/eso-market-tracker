@@ -1,10 +1,1 @@
-{
-  "internalId": 3868622278,
-  "name": "Dovah-Fly Swatter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_vvardenfell_sonance_generator.png",
-  "bindType": -1,
-  "knownIds": [
-    1200201
-  ]
-}
+{"internalId":3868622278,"name":"Dovah-Fly Swatter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_vvardenfell_sonance_generator.png","bindType":-1,"knownIds":[1200201]}

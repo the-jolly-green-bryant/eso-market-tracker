@@ -1,10 +1,1 @@
-{
-  "internalId": 900485691,
-  "name": "Maul of Flanking",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77220
-  ]
-}
+{"internalId":900485691,"name":"Maul of Flanking","description":"","icon":"data/images/a_/re/mm/gear_ooth_2hhammer_a.png","bindType":2,"knownIds":[77220]}

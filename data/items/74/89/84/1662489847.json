@@ -1,10 +1,1 @@
-{
-  "internalId": 1662489847,
-  "name": "Boots of the Courier",
-  "description": "You earned these well-worn boots by choosing between two rival artists after the same art supplies.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_aldmeri_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    134716
-  ]
-}
+{"internalId":1662489847,"name":"Boots of the Courier","description":"You earned these well-worn boots by choosing between two rival artists after the same art supplies.","icon":"data/images/a_/te/ef/gear_aldmeri_medium_feet_a.png","bindType":2,"knownIds":[134716]}

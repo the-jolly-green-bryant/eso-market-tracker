@@ -1,10 +1,1 @@
-{
-  "internalId": 799669428,
-  "name": "Formula: Fargrave Terrarium, Watcher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    182994
-  ]
-}
+{"internalId":799669428,"name":"Formula: Fargrave Terrarium, Watcher","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[182994]}

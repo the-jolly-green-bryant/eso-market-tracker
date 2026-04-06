@@ -1,10 +1,1 @@
-{
-  "internalId": 3190034843,
-  "name": "Common Cargo, Floating Waterlogged",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_floatingcargo001.png",
-  "bindType": -1,
-  "knownIds": [
-    223891
-  ]
-}
+{"internalId":3190034843,"name":"Common Cargo, Floating Waterlogged","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_floatingcargo001.png","bindType":-1,"knownIds":[223891]}

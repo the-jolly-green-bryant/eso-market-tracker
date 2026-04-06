@@ -1,10 +1,1 @@
-{
-  "internalId": 3036904741,
-  "name": "Grain Solvent",
-  "description": "Improve quality from purple to gold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_potion_vendor_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54172
-  ]
-}
+{"internalId":3036904741,"name":"Grain Solvent","description":"Improve quality from purple to gold.","icon":"data/images/10/0_/ro/crafting_forester_potion_vendor_001.png","bindType":-1,"knownIds":[54172]}

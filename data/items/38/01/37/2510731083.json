@@ -1,10 +1,1 @@
-{
-  "internalId": 2510731083,
-  "name": "Focus Script: Poison Damage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_poison.png",
-  "bindType": -1,
-  "knownIds": [
-    204550
-  ]
-}
+{"internalId":2510731083,"name":"Focus Script: Poison Damage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_poison.png","bindType":-1,"knownIds":[204550]}

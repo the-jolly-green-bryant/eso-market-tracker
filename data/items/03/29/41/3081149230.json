@@ -1,10 +1,1 @@
-{
-  "internalId": 3081149230,
-  "name": "Bear Skin Rug",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    816004
-  ]
-}
+{"internalId":3081149230,"name":"Bear Skin Rug","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png","bindType":-1,"knownIds":[816004]}

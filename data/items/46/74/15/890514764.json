@@ -1,15 +1,1 @@
-{
-  "internalId": 890514764,
-  "name": "Hatespinner Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    615137,
-    395653,
-    539357,
-    615137,
-    395653,
-    539357
-  ]
-}
+{"internalId":890514764,"name":"Hatespinner Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[615137,395653,539357,615137,395653,539357]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4052891124,
-  "name": "Clockwork Spinning Wheel, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_spinningwheel001.png",
-  "bindType": -1,
-  "knownIds": [
-    134437
-  ]
-}
+{"internalId":4052891124,"name":"Clockwork Spinning Wheel, Sturdy","description":"This is a standard house item.","icon":"data/images/10/0l/ee/housing_cwc_crf_spinningwheel001.png","bindType":-1,"knownIds":[134437]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3368706290,
-  "name": "Amronal's Head",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_010.png",
-  "bindType": -1,
-  "knownIds": [
-    1169841
-  ]
-}
+{"internalId":3368706290,"name":"Amronal's Head","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_head_monster_010.png","bindType":-1,"knownIds":[1169841]}

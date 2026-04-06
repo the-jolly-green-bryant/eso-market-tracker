@@ -1,10 +1,1 @@
-{
-  "internalId": 2142391642,
-  "name": "Beekeeper's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    98328
-  ]
-}
+{"internalId":2142391642,"name":"Beekeeper's Necklace","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[98328]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3622951140,
-  "name": "Galen Treasure Map I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    192370
-  ]
-}
+{"internalId":3622951140,"name":"Galen Treasure Map I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[192370]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1115541402,
-  "name": "Pattern: Book Stack, Well-Read",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    188188
-  ]
-}
+{"internalId":1115541402,"name":"Pattern: Book Stack, Well-Read","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[188188]}

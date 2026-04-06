@@ -1,10 +1,1 @@
-{
-  "internalId": 1042618259,
-  "name": "Breeches of Serpent's Disdain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185510
-  ]
-}
+{"internalId":1042618259,"name":"Breeches of Serpent's Disdain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[185510]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 21011575,
-  "name": "Diagram: Breton Medallion, Lion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    115993
-  ]
-}
+{"internalId":21011575,"name":"Diagram: Breton Medallion, Lion","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[115993]}

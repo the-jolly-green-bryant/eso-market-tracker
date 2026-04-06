@@ -1,10 +1,1 @@
-{
-  "internalId": 3883017910,
-  "name": "Crafting Motif 84: Blackreach Vanguard Gloves",
-  "description": "Use to learn how to make Blackreach Vanguard Gloves. Also teaches the equivalent Blackreach Vanguard Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160500
-  ]
-}
+{"internalId":3883017910,"name":"Crafting Motif 84: Blackreach Vanguard Gloves","description":"Use to learn how to make Blackreach Vanguard Gloves. Also teaches the equivalent Blackreach Vanguard Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160500]}

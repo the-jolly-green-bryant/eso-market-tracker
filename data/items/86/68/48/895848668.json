@@ -1,10 +1,1 @@
-{
-  "internalId": 895848668,
-  "name": "Solitude Table, Circular Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tableroundlargefancy001.png",
-  "bindType": -1,
-  "knownIds": [
-    165689
-  ]
-}
+{"internalId":895848668,"name":"Solitude Table, Circular Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_tableroundlargefancy001.png","bindType":-1,"knownIds":[165689]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2134759530,
-  "name": "Oblivion's Foe Heavy Armor",
-  "description": "A Crafted Armor set constructed in Coldharbour.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182636
-  ]
-}
+{"internalId":2134759530,"name":"Oblivion's Foe Heavy Armor","description":"A Crafted Armor set constructed in Coldharbour.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182636]}

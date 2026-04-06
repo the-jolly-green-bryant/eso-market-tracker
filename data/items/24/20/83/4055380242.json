@@ -1,10 +1,1 @@
-{
-  "internalId": 4055380242,
-  "name": "Brass \"Heen-Hoon\" Hunter's Horn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    742964
-  ]
-}
+{"internalId":4055380242,"name":"Brass \"Heen-Hoon\" Hunter's Horn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[742964]}

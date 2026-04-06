@@ -1,10 +1,1 @@
-{
-  "internalId": 2442460677,
-  "name": "Cold Carrot Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37773
-  ]
-}
+{"internalId":2442460677,"name":"Cold Carrot Soup","description":"","icon":"data/images/10/0_/we/crafting_dom_stew_001.png","bindType":-1,"knownIds":[37773]}

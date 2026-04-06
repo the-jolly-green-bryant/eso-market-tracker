@@ -1,10 +1,1 @@
-{
-  "internalId": 1641917083,
-  "name": "Pauldron of Bahraha's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199788
-  ]
-}
+{"internalId":1641917083,"name":"Pauldron of Bahraha's Curse","description":"","icon":"data/images/a_/sr/ed/gear_thievesguildv2_heavy_shoulders_a.png","bindType":2,"knownIds":[72890]}

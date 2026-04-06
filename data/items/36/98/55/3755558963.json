@@ -1,10 +1,1 @@
-{
-  "internalId": 3755558963,
-  "name": "Deadlands Candelabra, Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedcandelabra003.png",
-  "bindType": -1,
-  "knownIds": [
-    182237
-  ]
-}
+{"internalId":3755558963,"name":"Deadlands Candelabra, Tall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_dedcandelabra003.png","bindType":-1,"knownIds":[182237]}

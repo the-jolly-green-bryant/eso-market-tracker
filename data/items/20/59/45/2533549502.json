@@ -1,10 +1,1 @@
-{
-  "internalId": 2533549502,
-  "name": "Praxis: Apocrypha Stool, Spiked",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    198506
-  ]
-}
+{"internalId":2533549502,"name":"Praxis: Apocrypha Stool, Spiked","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[198506]}

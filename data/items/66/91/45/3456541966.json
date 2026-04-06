@@ -1,10 +1,1 @@
-{
-  "internalId": 3456541966,
-  "name": "Miniature Chalice of Mara",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_goblet_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1095838
-  ]
-}
+{"internalId":3456541966,"name":"Miniature Chalice of Mara","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_goblet_001.png","bindType":-1,"knownIds":[1095838]}

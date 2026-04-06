@@ -1,10 +1,1 @@
-{
-  "internalId": 3649070087,
-  "name": "Auta-Kerchief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_standard_f_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1257999
-  ]
-}
+{"internalId":3649070087,"name":"Auta-Kerchief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_standard_f_002.png","bindType":-1,"knownIds":[1257999]}

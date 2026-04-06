@@ -1,10 +1,1 @@
-{
-  "internalId": 3675882497,
-  "name": "Ebony Ingot",
-  "description": "An ingredient for crafting metal weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_base_ebony_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    6001
-  ]
-}
+{"internalId":3675882497,"name":"Ebony Ingot","description":"An ingredient for crafting metal weapons.","icon":"data/images/3r/_y/no/crafting_ore_base_ebony_r3.png","bindType":-1,"knownIds":[6001]}

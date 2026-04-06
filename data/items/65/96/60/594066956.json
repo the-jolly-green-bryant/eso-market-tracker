@@ -1,10 +1,1 @@
-{
-  "internalId": 594066956,
-  "name": "Anniversary Jubilee Gift (Cyrodiil)",
-  "description": "This box contains a variety of crafting-related materials, rarely including an Outfit Style Page featuring Abnur Tharn's distinctive fashion. This week's Gift Box comes from completing Daily Quests in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    147432
-  ]
-}
+{"internalId":594066956,"name":"Anniversary Jubilee Gift (Cyrodiil)","description":"This box contains a variety of crafting-related materials, rarely including an Outfit Style Page featuring Abnur Tharn's distinctive fashion. This week's Gift Box comes from completing Daily Quests in Cyrodiil.","icon":"data/images/so/ro/bo/gift-box-ouroboros.png","bindType":3,"knownIds":[147432]}

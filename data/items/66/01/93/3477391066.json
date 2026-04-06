@@ -1,13 +1,1 @@
-{
-  "internalId": 3477391066,
-  "name": "Marbita's Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    625968,
-    732571,
-    625968,
-    732571
-  ]
-}
+{"internalId":3477391066,"name":"Marbita's Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_head_d.png","bindType":-1,"knownIds":[625968,732571,625968,732571]}

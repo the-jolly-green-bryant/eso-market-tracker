@@ -1,10 +1,1 @@
-{
-  "internalId": 3056403489,
-  "name": "Rock Field, Ancient Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_rubblestones001.png",
-  "bindType": -1,
-  "knownIds": [
-    151807
-  ]
-}
+{"internalId":3056403489,"name":"Rock Field, Ancient Stone","description":"This is a large house item.","icon":"data/images/10/0s/en/housing_els_run_rubblestones001.png","bindType":-1,"knownIds":[151807]}

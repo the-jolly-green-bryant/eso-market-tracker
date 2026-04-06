@@ -1,10 +1,1 @@
-{
-  "internalId": 4143173501,
-  "name": "Seventh Legion's Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100924
-  ]
-}
+{"internalId":4143173501,"name":"Seventh Legion's Cuirass","description":"","icon":"data/images/d_/ts/eh/gear_orc_heavy_chest_d.png","bindType":2,"knownIds":[100924]}

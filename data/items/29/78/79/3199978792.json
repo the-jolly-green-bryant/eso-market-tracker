@@ -1,10 +1,1 @@
-{
-  "internalId": 3199978792,
-  "name": "lesser Glyph of Hardening",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png",
-  "bindType": -1,
-  "knownIds": [
-    1471189
-  ]
-}
+{"internalId":3199978792,"name":"lesser Glyph of Hardening","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_damageshield.png","bindType":-1,"knownIds":[1471189]}

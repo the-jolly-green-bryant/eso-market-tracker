@@ -1,10 +1,1 @@
-{
-  "internalId": 390429799,
-  "name": "The Werewolf Pact",
-  "description": "Unlocks the perks and pitfalls of being a Werewolf.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
-  "bindType": -1,
-  "knownIds": [
-    54854
-  ]
-}
+{"internalId":390429799,"name":"The Werewolf Pact","description":"Unlocks the perks and pitfalls of being a Werewolf.","icon":"data/images/30/0_/ko/quest_book_003.png","bindType":-1,"knownIds":[54854]}

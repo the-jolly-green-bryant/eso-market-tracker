@@ -1,10 +1,1 @@
-{
-  "internalId": 2931415336,
-  "name": "Shacklebreaker Heavy Armor",
-  "description": "A Crafted Armor set constructed in Vvardenfell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182763
-  ]
-}
+{"internalId":2931415336,"name":"Shacklebreaker Heavy Armor","description":"A Crafted Armor set constructed in Vvardenfell.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182763]}

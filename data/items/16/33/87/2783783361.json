@@ -1,10 +1,1 @@
-{
-  "internalId": 2783783361,
-  "name": "Gargoyle-Skin Wallet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    848304
-  ]
-}
+{"internalId":2783783361,"name":"Gargoyle-Skin Wallet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[848304]}

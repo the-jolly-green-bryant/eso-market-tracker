@@ -1,10 +1,1 @@
-{
-  "internalId": 2543439003,
-  "name": "Style Page: Tremorscale's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1399875
-  ]
-}
+{"internalId":2543439003,"name":"Style Page: Tremorscale's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1399875]}

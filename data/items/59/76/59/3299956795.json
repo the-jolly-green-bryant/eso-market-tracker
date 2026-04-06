@@ -1,10 +1,1 @@
-{
-  "internalId": 3299956795,
-  "name": "Blueprint: Dark Elf Trunk, Buckled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    116066
-  ]
-}
+{"internalId":3299956795,"name":"Blueprint: Dark Elf Trunk, Buckled","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[116066]}

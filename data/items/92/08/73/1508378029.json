@@ -1,10 +1,1 @@
-{
-  "internalId": 1508378029,
-  "name": "Praxis: Elsweyr Wall, Curved Masonry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    152109
-  ]
-}
+{"internalId":1508378029,"name":"Praxis: Elsweyr Wall, Curved Masonry","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[152109]}

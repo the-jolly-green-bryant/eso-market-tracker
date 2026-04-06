@@ -1,10 +1,1 @@
-{
-  "internalId": 1959034033,
-  "name": "First Era Rank Insignia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    854773
-  ]
-}
+{"internalId":1959034033,"name":"First Era Rank Insignia","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png","bindType":-1,"knownIds":[854773]}

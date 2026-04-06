@@ -1,15 +1,1 @@
-{
-  "internalId": 1891680500,
-  "name": "Basalt-Blooded Warrior Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1696808,
-    1717362,
-    1777169,
-    1696808,
-    1717362,
-    1777169
-  ]
-}
+{"internalId":1891680500,"name":"Basalt-Blooded Warrior Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_shoulders_a.png","bindType":-1,"knownIds":[1696808,1717362,1777169,1696808,1717362,1777169]}

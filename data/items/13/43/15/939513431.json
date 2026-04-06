@@ -1,10 +1,1 @@
-{
-  "internalId": 939513431,
-  "name": "Redguard Pot, Gilded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldmarketpot001.png",
-  "bindType": -1,
-  "knownIds": [
-    117902
-  ]
-}
+{"internalId":939513431,"name":"Redguard Pot, Gilded","description":"This is a standard house item.","icon":"data/images/10/0t/op/housing_red_inc_vargoldmarketpot001.png","bindType":-1,"knownIds":[117902]}

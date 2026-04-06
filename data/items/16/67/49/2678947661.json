@@ -1,10 +1,1 @@
-{
-  "internalId": 2678947661,
-  "name": "concord grapes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_berry_004.png",
-  "bindType": -1,
-  "knownIds": [
-    871327
-  ]
-}
+{"internalId":2678947661,"name":"concord grapes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_components_berry_004.png","bindType":-1,"knownIds":[871327]}

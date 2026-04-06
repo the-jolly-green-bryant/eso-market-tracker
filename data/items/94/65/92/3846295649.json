@@ -1,10 +1,1 @@
-{
-  "internalId": 3846295649,
-  "name": "Dwemer Ring",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    815110
-  ]
-}
+{"internalId":3846295649,"name":"Dwemer Ring","description":"","icon":null,"bindType":-1,"knownIds":[815110]}

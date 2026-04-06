@@ -1,10 +1,1 @@
-{
-  "internalId": 2086781246,
-  "name": "Shield of the Footman",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87088
-  ]
-}
+{"internalId":2086781246,"name":"Shield of the Footman","description":"","icon":"data/images/d_/dl/ei/gear_orc_shield_d.png","bindType":2,"knownIds":[87088]}

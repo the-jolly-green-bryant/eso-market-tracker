@@ -1,13 +1,1 @@
-{
-  "internalId": 978358793,
-  "name": "Shipment of Leather VII",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1319605,
-    1490919,
-    1319605,
-    1490919
-  ]
-}
+{"internalId":978358793,"name":"Shipment of Leather VII","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1319605,1490919,1319605,1490919]}

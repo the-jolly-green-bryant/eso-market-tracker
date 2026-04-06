@@ -1,10 +1,1 @@
-{
-  "internalId": 2956114126,
-  "name": "Dark Ruins",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
-  "bindType": -1,
-  "knownIds": [
-    1092640
-  ]
-}
+{"internalId":2956114126,"name":"Dark Ruins","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png","bindType":-1,"knownIds":[1092640]}

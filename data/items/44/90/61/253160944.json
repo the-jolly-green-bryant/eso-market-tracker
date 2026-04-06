@@ -1,10 +1,1 @@
-{
-  "internalId": 253160944,
-  "name": "Rough Spoon, Common",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_spoon001.png",
-  "bindType": -1,
-  "knownIds": [
-    117947
-  ]
-}
+{"internalId":253160944,"name":"Rough Spoon, Common","description":"This is a tiny house item.","icon":"data/images/10/0n/oo/housing_bre_inc_spoon001.png","bindType":-1,"knownIds":[117947]}

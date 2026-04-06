@@ -1,17 +1,1 @@
-{
-  "internalId": 3768329112,
-  "name": "Nobility in Decay Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678288,
-    1697265,
-    1717375,
-    1717416,
-    1678288,
-    1697265,
-    1717375,
-    1717416
-  ]
-}
+{"internalId":3768329112,"name":"Nobility in Decay Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_1haxe_a.png","bindType":-1,"knownIds":[1678288,1697265,1717375,1717416,1678288,1697265,1717375,1717416]}

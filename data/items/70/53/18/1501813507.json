@@ -1,10 +1,1 @@
-{
-  "internalId": 1501813507,
-  "name": "Jailbreaker",
-  "description": "A Medium Armor set found in the Banished Cells Dungeon.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114169
-  ]
-}
+{"internalId":1501813507,"name":"Jailbreaker","description":"A Medium Armor set found in the Banished Cells Dungeon.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114169]}

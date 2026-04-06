@@ -1,10 +1,1 @@
-{
-  "internalId": 141196960,
-  "name": "Aqua Vitae",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57157
-  ]
-}
+{"internalId":141196960,"name":"Aqua Vitae","description":"","icon":"data/images/20/0_/el/crafting_stoneware_bottle_002.png","bindType":-1,"knownIds":[57157]}

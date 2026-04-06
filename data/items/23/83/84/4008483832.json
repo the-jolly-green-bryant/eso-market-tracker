@@ -1,10 +1,1 @@
-{
-  "internalId": 4008483832,
-  "name": "Macabre Vintage",
-  "description": "A Medium Armor set found in West Weald.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    205217
-  ]
-}
+{"internalId":4008483832,"name":"Macabre Vintage","description":"A Medium Armor set found in West Weald.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[205217]}

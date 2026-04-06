@@ -1,10 +1,1 @@
-{
-  "internalId": 1800463830,
-  "name": "Gazmod's Leg Guards",
-  "description": "Leggings from the collection of Gazmod the Collector.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    182839
-  ]
-}
+{"internalId":1800463830,"name":"Gazmod's Leg Guards","description":"Leggings from the collection of Gazmod the Collector.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_legs_a.png","bindType":2,"knownIds":[182839]}

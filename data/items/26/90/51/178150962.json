@@ -1,10 +1,1 @@
-{
-  "internalId": 178150962,
-  "name": "Argonian Bowl, Serving",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkbowl002.png",
-  "bindType": -1,
-  "knownIds": [
-    115480
-  ]
-}
+{"internalId":178150962,"name":"Argonian Bowl, Serving","description":"This is a tiny house item.","icon":"data/images/20/0l/wo/housing_arg_inc_mrkbowl002.png","bindType":-1,"knownIds":[115480]}

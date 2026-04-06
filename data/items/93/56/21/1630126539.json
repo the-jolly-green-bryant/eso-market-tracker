@@ -1,10 +1,1 @@
-{
-  "internalId": 1630126539,
-  "name": "Plants, Guar Cabbage Cluster",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdsymplocarpus005.png",
-  "bindType": -1,
-  "knownIds": [
-    197636
-  ]
-}
+{"internalId":1630126539,"name":"Plants, Guar Cabbage Cluster","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdsymplocarpus005.png","bindType":-1,"knownIds":[197636]}

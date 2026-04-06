@@ -1,10 +1,1 @@
-{
-  "internalId": 464275836,
-  "name": "Worm Cult Post, Railing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_waf_housingrailingspike001.png",
-  "bindType": -1,
-  "knownIds": [
-    223767
-  ]
-}
+{"internalId":464275836,"name":"Worm Cult Post, Railing","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_waf_housingrailingspike001.png","bindType":-1,"knownIds":[223767]}

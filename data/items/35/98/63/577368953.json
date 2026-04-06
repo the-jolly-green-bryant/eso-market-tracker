@@ -1,17 +1,1 @@
-{
-  "internalId": 577368953,
-  "name": "Beacon of Oblivion Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1729087,
-    1742371,
-    1750057,
-    1772390,
-    1729087,
-    1742371,
-    1750057,
-    1772390
-  ]
-}
+{"internalId":577368953,"name":"Beacon of Oblivion Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_shoulder_a.png","bindType":-1,"knownIds":[1729087,1742371,1750057,1772390,1729087,1742371,1750057,1772390]}

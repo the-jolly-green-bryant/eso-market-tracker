@@ -1,10 +1,1 @@
-{
-  "internalId": 2886680405,
-  "name": "Blueprint: Leyawiin Armchair, Backless",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175955
-  ]
-}
+{"internalId":2886680405,"name":"Blueprint: Leyawiin Armchair, Backless","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[175955]}

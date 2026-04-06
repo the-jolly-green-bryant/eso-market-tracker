@@ -1,13 +1,1 @@
-{
-  "internalId": 2619678314,
-  "name": "Heroic Unity Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748696,
-    1751988,
-    1748696,
-    1751988
-  ]
-}
+{"internalId":2619678314,"name":"Heroic Unity Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1748696,1751988,1748696,1751988]}

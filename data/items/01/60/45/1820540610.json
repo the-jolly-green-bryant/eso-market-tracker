@@ -1,10 +1,1 @@
-{
-  "internalId": 1820540610,
-  "name": "Praxis: Murkmire Bookshelf, Grand Full",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    1339220
-  ]
-}
+{"internalId":1820540610,"name":"Praxis: Murkmire Bookshelf, Grand Full","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[1339220]}

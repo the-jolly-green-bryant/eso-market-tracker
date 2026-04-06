@@ -1,10 +1,1 @@
-{
-  "internalId": 1630575152,
-  "name": "Dreamer's Cobweb-Laced Trousers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42962
-  ]
-}
+{"internalId":1630575152,"name":"Dreamer's Cobweb-Laced Trousers","description":"","icon":"data/images/d_/sg/el/gear_breton_light_legs_d.png","bindType":2,"knownIds":[42962]}

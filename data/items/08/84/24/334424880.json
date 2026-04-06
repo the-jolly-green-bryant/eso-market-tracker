@@ -1,10 +1,1 @@
-{
-  "internalId": 334424880,
-  "name": "Marble Bust of Queen Ayrenn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    673306
-  ]
-}
+{"internalId":334424880,"name":"Marble Bust of Queen Ayrenn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[673306]}

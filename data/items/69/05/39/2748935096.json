@@ -1,10 +1,1 @@
-{
-  "internalId": 2748935096,
-  "name": "Jarl's Manor Monogramed Bed Sheets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png",
-  "bindType": -1,
-  "knownIds": [
-    806078
-  ]
-}
+{"internalId":2748935096,"name":"Jarl's Manor Monogramed Bed Sheets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png","bindType":-1,"knownIds":[806078]}

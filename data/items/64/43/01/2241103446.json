@@ -1,10 +1,1 @@
-{
-  "internalId": 2241103446,
-  "name": "Pedal Billows Mechanism",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1147712
-  ]
-}
+{"internalId":2241103446,"name":"Pedal Billows Mechanism","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png","bindType":-1,"knownIds":[1147712]}

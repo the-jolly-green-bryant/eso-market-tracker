@@ -1,10 +1,1 @@
-{
-  "internalId": 2094594251,
-  "name": "Minstrel's Uka-Lute",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png",
-  "bindType": -1,
-  "knownIds": [
-    906019
-  ]
-}
+{"internalId":2094594251,"name":"Minstrel's Uka-Lute","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png","bindType":-1,"knownIds":[906019]}

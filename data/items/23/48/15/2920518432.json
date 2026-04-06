@@ -1,10 +1,1 @@
-{
-  "internalId": 2920518432,
-  "name": "Clothier Survey: Shadowfen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    793765
-  ]
-}
+{"internalId":2920518432,"name":"Clothier Survey: Shadowfen","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[793765]}

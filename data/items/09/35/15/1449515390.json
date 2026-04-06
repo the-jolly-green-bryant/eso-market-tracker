@@ -1,10 +1,1 @@
-{
-  "internalId": 1449515390,
-  "name": "Netch Oil Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212063
-  ]
-}
+{"internalId":1449515390,"name":"Netch Oil Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1hsword_a.png","bindType":2,"knownIds":[212063]}

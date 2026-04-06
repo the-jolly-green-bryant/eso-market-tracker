@@ -1,15 +1,1 @@
-{
-  "internalId": 4075579539,
-  "name": "Perfected Peace and Serenity Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1647304,
-    1770456,
-    1771246,
-    1647304,
-    1770456,
-    1771246
-  ]
-}
+{"internalId":4075579539,"name":"Perfected Peace and Serenity Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png","bindType":-1,"knownIds":[1647304,1770456,1771246,1647304,1770456,1771246]}

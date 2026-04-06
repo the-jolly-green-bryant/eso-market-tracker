@@ -1,17 +1,1 @@
-{
-  "internalId": 2941867464,
-  "name": "Perfected Bow of Kyne's Wind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_bow.png",
-  "bindType": -1,
-  "knownIds": [
-    1406599,
-    1411636,
-    1630352,
-    1749931,
-    1406599,
-    1411636,
-    1630352,
-    1749931
-  ]
-}
+{"internalId":2941867464,"name":"Perfected Bow of Kyne's Wind","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_bow.png","bindType":-1,"knownIds":[1406599,1411636,1630352,1749931,1406599,1411636,1630352,1749931]}

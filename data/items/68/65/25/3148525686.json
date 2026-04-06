@@ -1,10 +1,1 @@
-{
-  "internalId": 3148525686,
-  "name": "False God's Perfected Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_sword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1754647
-  ]
-}
+{"internalId":3148525686,"name":"False God's Perfected Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_sword_a.png","bindType":-1,"knownIds":[1754647]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 841955988,
-  "name": "Sturdy Wood Elf Waterskin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png",
-  "bindType": -1,
-  "knownIds": [
-    824034
-  ]
-}
+{"internalId":841955988,"name":"Sturdy Wood Elf Waterskin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png","bindType":-1,"knownIds":[824034]}

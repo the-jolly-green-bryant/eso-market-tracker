@@ -1,10 +1,1 @@
-{
-  "internalId": 3504714471,
-  "name": "Jack of the Armor Master",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60988
-  ]
-}
+{"internalId":3504714471,"name":"Jack of the Armor Master","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[60988]}

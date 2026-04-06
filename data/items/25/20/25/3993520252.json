@@ -1,10 +1,1 @@
-{
-  "internalId": 3993520252,
-  "name": "Driftwood Flummery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    886396
-  ]
-}
+{"internalId":3993520252,"name":"Driftwood Flummery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[886396]}

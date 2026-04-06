@@ -1,10 +1,1 @@
-{
-  "internalId": 2767985484,
-  "name": "Homebrew Emulsifier Puck",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1178565
-  ]
-}
+{"internalId":2767985484,"name":"Homebrew Emulsifier Puck","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_egg_001.png","bindType":-1,"knownIds":[1178565]}

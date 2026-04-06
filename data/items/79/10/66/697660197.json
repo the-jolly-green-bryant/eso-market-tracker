@@ -1,10 +1,1 @@
-{
-  "internalId": 697660197,
-  "name": "Bright-Throat's Boast",
-  "description": "A Light Armor set found in Murkmire.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    145935
-  ]
-}
+{"internalId":697660197,"name":"Bright-Throat's Boast","description":"A Light Armor set found in Murkmire.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[145935]}

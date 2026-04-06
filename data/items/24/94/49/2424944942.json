@@ -1,10 +1,1 @@
-{
-  "internalId": 2424944942,
-  "name": "Huzmargo's Calibrator",
-  "description": "Sometimes the delicate devices of Apocrypha benefit from a sound hit with a blunt instrument.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    197806
-  ]
-}
+{"internalId":2424944942,"name":"Huzmargo's Calibrator","description":"Sometimes the delicate devices of Apocrypha benefit from a sound hit with a blunt instrument.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_d.png","bindType":2,"knownIds":[197806]}

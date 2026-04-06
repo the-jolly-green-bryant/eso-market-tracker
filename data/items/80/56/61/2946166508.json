@@ -1,10 +1,1 @@
-{
-  "internalId": 2946166508,
-  "name": "Ayleid Brazier, Welkynd Holder",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_brazierb001.png",
-  "bindType": -1,
-  "knownIds": [
-    130203
-  ]
-}
+{"internalId":2946166508,"name":"Ayleid Brazier, Welkynd Holder","description":"This is a small house item.","icon":"data/images/10/0b/re/housing_ayl_duc_brazierb001.png","bindType":-1,"knownIds":[130203]}

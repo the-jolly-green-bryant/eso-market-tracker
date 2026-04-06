@@ -1,10 +1,1 @@
-{
-  "internalId": 4207023701,
-  "name": "Stone-Nest Door, Temple",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_argdoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    223838
-  ]
-}
+{"internalId":4207023701,"name":"Stone-Nest Door, Temple","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_argdoor001.png","bindType":-1,"knownIds":[223838]}

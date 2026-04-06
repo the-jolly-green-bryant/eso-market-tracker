@@ -1,10 +1,1 @@
-{
-  "internalId": 258357497,
-  "name": "invigorated voljar's mead",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_wine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    871328
-  ]
-}
+{"internalId":258357497,"name":"invigorated voljar's mead","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_dom_wine_001.png","bindType":-1,"knownIds":[871328]}

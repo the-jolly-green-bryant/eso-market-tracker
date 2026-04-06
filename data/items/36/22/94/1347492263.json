@@ -1,10 +1,1 @@
-{
-  "internalId": 1347492263,
-  "name": "Jewelry: Sword Dancer",
-  "description": "A Medium Armor set found in Blessed Crucible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114191
-  ]
-}
+{"internalId":1347492263,"name":"Jewelry: Sword Dancer","description":"A Medium Armor set found in Blessed Crucible.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114191]}

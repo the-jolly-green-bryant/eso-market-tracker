@@ -1,10 +1,1 @@
-{
-  "internalId": 1317357442,
-  "name": "Pattern: Leyawiin Bed, Formal Double",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    175930
-  ]
-}
+{"internalId":1317357442,"name":"Pattern: Leyawiin Bed, Formal Double","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[175930]}

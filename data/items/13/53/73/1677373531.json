@@ -1,10 +1,1 @@
-{
-  "internalId": 1677373531,
-  "name": "Leki's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199415
-  ]
-}
+{"internalId":1677373531,"name":"Leki's Dagger","description":"","icon":"data/images/a_/re/gg/gear_abahswatch_dagger_a.png","bindType":2,"knownIds":[79778]}

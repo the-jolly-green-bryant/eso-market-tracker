@@ -1,10 +1,1 @@
-{
-  "internalId": 3227983702,
-  "name": "High Elf Lineage Toys",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    420805
-  ]
-}
+{"internalId":3227983702,"name":"High Elf Lineage Toys","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[420805]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2781370270,
-  "name": "Mystic's Majestic Face Cream",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851325
-  ]
-}
+{"internalId":2781370270,"name":"Mystic's Majestic Face Cream","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[851325]}

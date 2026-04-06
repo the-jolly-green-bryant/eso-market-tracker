@@ -1,10 +1,1 @@
-{
-  "internalId": 784172958,
-  "name": "Sapling, Tender Harvest",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rift_smallsaplings_004.png",
-  "bindType": -1,
-  "knownIds": [
-    120499
-  ]
-}
+{"internalId":784172958,"name":"Sapling, Tender Harvest","description":"This is a standard house item.","icon":"data/images/40/0_/sg/housing_veg_bsh_rift_smallsaplings_004.png","bindType":-1,"knownIds":[120499]}

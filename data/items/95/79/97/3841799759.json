@@ -1,10 +1,1 @@
-{
-  "internalId": 3841799759,
-  "name": "Knee Pillow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    828102
-  ]
-}
+{"internalId":3841799759,"name":"Knee Pillow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[828102]}

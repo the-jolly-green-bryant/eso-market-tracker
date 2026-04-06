@@ -1,10 +1,1 @@
-{
-  "internalId": 1414362963,
-  "name": "Deadlands Tenderizer",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedtenderizer001.png",
-  "bindType": -1,
-  "knownIds": [
-    182252
-  ]
-}
+{"internalId":1414362963,"name":"Deadlands Tenderizer","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedtenderizer001.png","bindType":-1,"knownIds":[182252]}

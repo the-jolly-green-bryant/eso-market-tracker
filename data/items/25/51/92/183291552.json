@@ -1,10 +1,1 @@
-{
-  "internalId": 183291552,
-  "name": "Tree, Fan Palm",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_els_lalapalm001.png",
-  "bindType": -1,
-  "knownIds": [
-    151808
-  ]
-}
+{"internalId":183291552,"name":"Tree, Fan Palm","description":"This is a large house item.","icon":"data/images/10/0m/la/housing_tre_els_lalapalm001.png","bindType":-1,"knownIds":[151808]}

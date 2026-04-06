@@ -1,10 +1,1 @@
-{
-  "internalId": 3903711060,
-  "name": "orichalc-steel mace of frost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    635121
-  ]
-}
+{"internalId":3903711060,"name":"orichalc-steel mace of frost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":-1,"knownIds":[635121]}

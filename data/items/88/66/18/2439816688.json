@@ -1,13 +1,1 @@
-{
-  "internalId": 2439816688,
-  "name": "greater glyph of shock resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_shockresist.png",
-  "bindType": -1,
-  "knownIds": [
-    547992,
-    1459695,
-    547992,
-    1459695
-  ]
-}
+{"internalId":2439816688,"name":"greater glyph of shock resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_shockresist.png","bindType":-1,"knownIds":[547992,1459695,547992,1459695]}

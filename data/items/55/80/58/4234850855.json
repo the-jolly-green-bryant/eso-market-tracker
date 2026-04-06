@@ -1,11 +1,1 @@
-{
-  "internalId": 4234850855,
-  "name": "Obsidian Crow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_alabaster_ibis.png",
-  "bindType": -1,
-  "knownIds": [
-    1268677,
-    1268677
-  ]
-}
+{"internalId":4234850855,"name":"Obsidian Crow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_alabaster_ibis.png","bindType":-1,"knownIds":[1268677,1268677]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1408171802,
-  "name": "Draoife Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190861
-  ]
-}
+{"internalId":1408171802,"name":"Draoife Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_feet_a.png","bindType":2,"knownIds":[190861]}

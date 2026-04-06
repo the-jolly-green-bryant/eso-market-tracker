@@ -1,15 +1,1 @@
-{
-  "internalId": 3073721150,
-  "name": "Icy Conjurer's Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1589327,
-    1619950,
-    1620450,
-    1589327,
-    1619950,
-    1620450
-  ]
-}
+{"internalId":3073721150,"name":"Icy Conjurer's Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_light_head_a.png","bindType":-1,"knownIds":[1589327,1619950,1620450,1589327,1619950,1620450]}

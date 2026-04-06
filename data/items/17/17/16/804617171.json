@@ -1,10 +1,1 @@
-{
-  "internalId": 804617171,
-  "name": "Forest Wraith's Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192354
-  ]
-}
+{"internalId":804617171,"name":"Forest Wraith's Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png","bindType":2,"knownIds":[192354]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2340729874,
-  "name": "Hand-Stitched Flag",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1066094
-  ]
-}
+{"internalId":2340729874,"name":"Hand-Stitched Flag","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_003.png","bindType":-1,"knownIds":[1066094]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 605740215,
-  "name": "Argonian Mortar, Bone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mortar002.png",
-  "bindType": -1,
-  "knownIds": [
-    115518
-  ]
-}
+{"internalId":605740215,"name":"Argonian Mortar, Bone","description":"This is a standard house item.","icon":"data/images/20/0r/at/housing_arg_inc_mortar002.png","bindType":-1,"knownIds":[115518]}

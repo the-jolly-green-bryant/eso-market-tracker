@@ -1,10 +1,1 @@
-{
-  "internalId": 297589870,
-  "name": "Redguard Chair, Lattice",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varchairlarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    117892
-  ]
-}
+{"internalId":297589870,"name":"Redguard Chair, Lattice","description":"This is a standard house item.","icon":"data/images/20/0e/gr/housing_red_fur_varchairlarge002.png","bindType":-1,"knownIds":[117892]}

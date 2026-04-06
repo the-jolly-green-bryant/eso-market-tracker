@@ -1,10 +1,1 @@
-{
-  "internalId": 1756763773,
-  "name": "Blade of the Bloody Tusk",
-  "description": "Earned by completing the Rites of Praise and Scorn in Old Orsinium. Malacath deems you worthy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    70984
-  ]
-}
+{"internalId":1756763773,"name":"Blade of the Bloody Tusk","description":"Earned by completing the Rites of Praise and Scorn in Old Orsinium. Malacath deems you worthy.","icon":"data/images/a_/ex/ah/gear_malacath_1haxe_a.png","bindType":2,"knownIds":[70984]}

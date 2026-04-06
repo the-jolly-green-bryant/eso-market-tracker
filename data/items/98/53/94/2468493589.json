@@ -1,10 +1,1 @@
-{
-  "internalId": 2468493589,
-  "name": "Dibellan Worry Idol",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    931845
-  ]
-}
+{"internalId":2468493589,"name":"Dibellan Worry Idol","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[931845]}

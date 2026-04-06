@@ -1,10 +1,1 @@
-{
-  "internalId": 977278520,
-  "name": "Planar Armor Scraps",
-  "description": "This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_planararmor.png",
-  "bindType": -1,
-  "knownIds": [
-    64575
-  ]
-}
+{"internalId":977278520,"name":"Planar Armor Scraps","description":"This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.","icon":"data/images/ro/mr/ar/quest_planararmor.png","bindType":-1,"knownIds":[64575]}

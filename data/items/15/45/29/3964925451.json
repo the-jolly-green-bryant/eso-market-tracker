@@ -1,10 +1,1 @@
-{
-  "internalId": 3964925451,
-  "name": "Hircine's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77674
-  ]
-}
+{"internalId":3964925451,"name":"Hircine's Shield","description":"","icon":"data/images/a_/dl/ei/gear_soulshriven_shield_a.png","bindType":2,"knownIds":[77674]}

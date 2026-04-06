@@ -1,10 +1,1 @@
-{
-  "internalId": 654243029,
-  "name": "Stone-Nest Sconce, Xanmeer",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_lsb_ducsquaresconce001.png",
-  "bindType": -1,
-  "knownIds": [
-    220343
-  ]
-}
+{"internalId":654243029,"name":"Stone-Nest Sconce, Xanmeer","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_lsb_ducsquaresconce001.png","bindType":-1,"knownIds":[220343]}

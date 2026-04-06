@@ -1,10 +1,1 @@
-{
-  "internalId": 1421495057,
-  "name": "Daedric Chandelier, Ritual",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_lsb_chandelier001.png",
-  "bindType": -1,
-  "knownIds": [
-    126697
-  ]
-}
+{"internalId":1421495057,"name":"Daedric Chandelier, Ritual","description":"This is a large house item.","icon":"data/images/10/0r/ei/housing_dae_lsb_chandelier001.png","bindType":-1,"knownIds":[126697]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2337789300,
-  "name": "Bow of Kyne's Kiss",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93688
-  ]
-}
+{"internalId":2337789300,"name":"Bow of Kyne's Kiss","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[93688]}

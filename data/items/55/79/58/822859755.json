@@ -1,10 +1,1 @@
-{
-  "internalId": 822859755,
-  "name": "Crafting Motif 71: Coldsnap Style",
-  "description": "Use to learn the Coldsnap crafting style. Also teaches the equivalent Coldsnap outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    147666
-  ]
-}
+{"internalId":822859755,"name":"Crafting Motif 71: Coldsnap Style","description":"Use to learn the Coldsnap crafting style. Also teaches the equivalent Coldsnap outfit styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[147666]}

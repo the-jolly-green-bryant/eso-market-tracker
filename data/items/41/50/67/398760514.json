@@ -1,10 +1,1 @@
-{
-  "internalId": 398760514,
-  "name": "Gloves of the Worm Cult",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactwormcultlight_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54400
-  ]
-}
+{"internalId":398760514,"name":"Gloves of the Worm Cult","description":"","icon":"data/images/a_/sd/na/gear_artifactwormcultlight_hands_a.png","bindType":2,"knownIds":[54400]}

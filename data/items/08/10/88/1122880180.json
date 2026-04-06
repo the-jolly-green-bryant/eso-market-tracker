@@ -1,10 +1,1 @@
-{
-  "internalId": 1122880180,
-  "name": "Anchor",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_csb_anchor002.png",
-  "bindType": -1,
-  "knownIds": [
-    120849
-  ]
-}
+{"internalId":1122880180,"name":"Anchor","description":"This is a large house item.","icon":"data/images/20/0r/oh/housing_gen_csb_anchor002.png","bindType":-1,"knownIds":[120849]}

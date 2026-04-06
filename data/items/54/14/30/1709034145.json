@@ -1,10 +1,1 @@
-{
-  "internalId": 1709034145,
-  "name": "Diagram: Dawnwood Container, Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    211447
-  ]
-}
+{"internalId":1709034145,"name":"Diagram: Dawnwood Container, Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[211447]}

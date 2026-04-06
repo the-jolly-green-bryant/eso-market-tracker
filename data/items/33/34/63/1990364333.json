@@ -1,10 +1,1 @@
-{
-  "internalId": 1990364333,
-  "name": "High Isle Basket, Woven",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_basket001.png",
-  "bindType": -1,
-  "knownIds": [
-    187835
-  ]
-}
+{"internalId":1990364333,"name":"High Isle Basket, Woven","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_basket001.png","bindType":-1,"knownIds":[187835]}

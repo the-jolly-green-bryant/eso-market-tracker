@@ -1,17 +1,1 @@
-{
-  "internalId": 1283141710,
-  "name": "Auroran's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1306213,
-    1343839,
-    1451221,
-    1553429,
-    1306213,
-    1343839,
-    1451221,
-    1553429
-  ]
-}
+{"internalId":1283141710,"name":"Auroran's Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1306213,1343839,1451221,1553429,1306213,1343839,1451221,1553429]}

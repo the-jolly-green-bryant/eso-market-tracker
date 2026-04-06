@@ -1,15 +1,1 @@
-{
-  "internalId": 2749090376,
-  "name": "Stonehulk Domination Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1770433,
-    1771174,
-    1771683,
-    1770433,
-    1771174,
-    1771683
-  ]
-}
+{"internalId":2749090376,"name":"Stonehulk Domination Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_bow_a.png","bindType":-1,"knownIds":[1770433,1771174,1771683,1770433,1771174,1771683]}

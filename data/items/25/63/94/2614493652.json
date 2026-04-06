@@ -1,17 +1,1 @@
-{
-  "internalId": 2614493652,
-  "name": "Basalt-Blooded Warrior Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678189,
-    1685413,
-    1702336,
-    1716298,
-    1678189,
-    1685413,
-    1702336,
-    1716298
-  ]
-}
+{"internalId":2614493652,"name":"Basalt-Blooded Warrior Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_shoulders_a.png","bindType":-1,"knownIds":[1678189,1685413,1702336,1716298,1678189,1685413,1702336,1716298]}

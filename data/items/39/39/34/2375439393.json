@@ -1,10 +1,1 @@
-{
-  "internalId": 2375439393,
-  "name": "Metallic: Mephala's Towels",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan268.png",
-  "bindType": -1,
-  "knownIds": [
-    1191055
-  ]
-}
+{"internalId":2375439393,"name":"Metallic: Mephala's Towels","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan268.png","bindType":-1,"knownIds":[1191055]}

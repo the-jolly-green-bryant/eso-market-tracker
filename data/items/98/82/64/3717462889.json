@@ -1,17 +1,1 @@
-{
-  "internalId": 3717462889,
-  "name": "Icy Conjuror's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1365496,
-    1365767,
-    1400797,
-    1578324,
-    1365496,
-    1365767,
-    1400797,
-    1578324
-  ]
-}
+{"internalId":3717462889,"name":"Icy Conjuror's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldsnap_2hsword_a.png","bindType":-1,"knownIds":[1365496,1365767,1400797,1578324,1365496,1365767,1400797,1578324]}

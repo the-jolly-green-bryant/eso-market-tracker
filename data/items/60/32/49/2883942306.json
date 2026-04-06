@@ -1,10 +1,1 @@
-{
-  "internalId": 2883942306,
-  "name": "Recipe: Seared Slaughterfish with Mammoth Cheese",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56981
-  ]
-}
+{"internalId":2883942306,"name":"Recipe: Seared Slaughterfish with Mammoth Cheese","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56981]}

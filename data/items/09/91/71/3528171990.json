@@ -1,10 +1,1 @@
-{
-  "internalId": 3528171990,
-  "name": "Unidentified the Skillmaxer 4000",
-  "description": "Unlocks Undaunted, Soulmagic, Fighter's and Mage's Guilds, Legerdemain, and AVA lines and a bunch of skill points",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_003.png",
-  "bindType": -1,
-  "knownIds": [
-    54853
-  ]
-}
+{"internalId":3528171990,"name":"Unidentified the Skillmaxer 4000","description":"Unlocks Undaunted, Soulmagic, Fighter's and Mage's Guilds, Legerdemain, and AVA lines and a bunch of skill points","icon":"data/images/30/0_/ko/quest_book_003.png","bindType":-1,"knownIds":[54853]}

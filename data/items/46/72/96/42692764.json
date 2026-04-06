@@ -1,10 +1,1 @@
-{
-  "internalId": 42692764,
-  "name": "Bush, Squat Maple",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_maplebush001.png",
-  "bindType": -1,
-  "knownIds": [
-    204767
-  ]
-}
+{"internalId":42692764,"name":"Bush, Squat Maple","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_maplebush001.png","bindType":-1,"knownIds":[204767]}

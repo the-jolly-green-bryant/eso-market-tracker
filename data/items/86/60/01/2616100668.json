@@ -1,10 +1,1 @@
-{
-  "internalId": 2616100668,
-  "name": "Hunger Claw Filleting Knife",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    1151007
-  ]
-}
+{"internalId":2616100668,"name":"Hunger Claw Filleting Knife","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png","bindType":-1,"knownIds":[1151007]}

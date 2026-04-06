@@ -1,10 +1,1 @@
-{
-  "internalId": 2034850760,
-  "name": "Blueprint: Breton Cart, Covered Closed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    118955
-  ]
-}
+{"internalId":2034850760,"name":"Blueprint: Breton Cart, Covered Closed","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[118955]}

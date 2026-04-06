@@ -1,15 +1,1 @@
-{
-  "internalId": 2623919441,
-  "name": "Lucent Echoes Perfected Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1757047,
-    1774840,
-    1779062,
-    1757047,
-    1774840,
-    1779062
-  ]
-}
+{"internalId":2623919441,"name":"Lucent Echoes Perfected Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_2hsword_a.png","bindType":-1,"knownIds":[1757047,1774840,1779062,1757047,1774840,1779062]}

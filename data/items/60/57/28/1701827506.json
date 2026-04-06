@@ -1,10 +1,1 @@
-{
-  "internalId": 1701827506,
-  "name": "Diagram: High Elf Medal, Winged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    121309
-  ]
-}
+{"internalId":1701827506,"name":"Diagram: High Elf Medal, Winged","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[121309]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1297066989,
-  "name": "Stone-Nest Walkway, Temple",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_run_housingargwalkway002a.png",
-  "bindType": -1,
-  "knownIds": [
-    223831
-  ]
-}
+{"internalId":1297066989,"name":"Stone-Nest Walkway, Temple","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_run_housingargwalkway002a.png","bindType":-1,"knownIds":[223831]}

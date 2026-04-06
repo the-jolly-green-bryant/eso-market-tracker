@@ -1,10 +1,1 @@
-{
-  "internalId": 1033805062,
-  "name": "Diagram: Cauldron, Covered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119418
-  ]
-}
+{"internalId":1033805062,"name":"Diagram: Cauldron, Covered","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119418]}

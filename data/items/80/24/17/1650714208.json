@@ -1,10 +1,1 @@
-{
-  "internalId": 1650714208,
-  "name": "Imperial Banner, Arkay",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_tapestryakatoshmediuma003.png",
-  "bindType": -1,
-  "knownIds": [
-    94094
-  ]
-}
+{"internalId":1650714208,"name":"Imperial Banner, Arkay","description":"This is a large house item.","icon":"data/images/30/0a/mu/housing_imp_inc_tapestryakatoshmediuma003.png","bindType":-1,"knownIds":[94094]}

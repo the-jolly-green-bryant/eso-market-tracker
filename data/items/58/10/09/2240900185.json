@@ -1,10 +1,1 @@
-{
-  "internalId": 2240900185,
-  "name": "Necrom Lamppost, Elegant",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_neccandlestandtall001.png",
-  "bindType": -1,
-  "knownIds": [
-    197497
-  ]
-}
+{"internalId":2240900185,"name":"Necrom Lamppost, Elegant","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_neccandlestandtall001.png","bindType":-1,"knownIds":[197497]}

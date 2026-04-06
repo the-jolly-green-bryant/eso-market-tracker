@@ -1,10 +1,1 @@
-{
-  "internalId": 1560554318,
-  "name": "Hearts Week Banner, Standing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekbanner001.png",
-  "bindType": -1,
-  "knownIds": [
-    223841
-  ]
-}
+{"internalId":1560554318,"name":"Hearts Week Banner, Standing","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekbanner001.png","bindType":-1,"knownIds":[223841]}

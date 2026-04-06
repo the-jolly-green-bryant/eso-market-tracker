@@ -1,10 +1,1 @@
-{
-  "internalId": 850675299,
-  "name": "Worm Cult Brew, Bubbling",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
-  "bindType": -1,
-  "knownIds": [
-    220320
-  ]
-}
+{"internalId":850675299,"name":"Worm Cult Brew, Bubbling","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/icon_missing.png","bindType":-1,"knownIds":[220320]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 99639319,
-  "name": "Royal Redtail Hawk Writing Quill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    886751
-  ]
-}
+{"internalId":99639319,"name":"Royal Redtail Hawk Writing Quill","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[886751]}

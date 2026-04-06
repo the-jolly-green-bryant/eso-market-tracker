@@ -1,10 +1,1 @@
-{
-  "internalId": 3547102207,
-  "name": "Glorious Undaunted Reward Box",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, gifts from the Crown Store.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    182318
-  ]
-}
+{"internalId":3547102207,"name":"Glorious Undaunted Reward Box","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, gifts from the Crown Store.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[182318]}

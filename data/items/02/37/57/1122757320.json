@@ -1,10 +1,1 @@
-{
-  "internalId": 1122757320,
-  "name": "Slaughterfish",
-  "description": "A common fish found in foul waters. Use to filet for provisioning",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    42861
-  ]
-}
+{"internalId":1122757320,"name":"Slaughterfish","description":"A common fish found in foul waters. Use to filet for provisioning","icon":"data/images/hs/if/re/crafting_slaughterfish.png","bindType":-1,"knownIds":[42861]}

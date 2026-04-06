@@ -1,10 +1,1 @@
-{
-  "internalId": 3579334059,
-  "name": "Seaglass Hairpin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1241066
-  ]
-}
+{"internalId":3579334059,"name":"Seaglass Hairpin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[1241066]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 764720722,
-  "name": "Praxis: Daedric Urn, Ashen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    126837
-  ]
-}
+{"internalId":764720722,"name":"Praxis: Daedric Urn, Ashen","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[126837]}

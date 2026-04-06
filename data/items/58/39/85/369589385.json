@@ -1,10 +1,1 @@
-{
-  "internalId": 369589385,
-  "name": "Nord Sconce, Torch",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_torchwall001.png",
-  "bindType": -1,
-  "knownIds": [
-    115421
-  ]
-}
+{"internalId":369589385,"name":"Nord Sconce, Torch","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_nor_lsb_torchwall001.png","bindType":-1,"knownIds":[115421]}

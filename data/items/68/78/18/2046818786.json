@@ -1,10 +1,1 @@
-{
-  "internalId": 2046818786,
-  "name": "Mace of the Order of Diagna",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99608
-  ]
-}
+{"internalId":2046818786,"name":"Mace of the Order of Diagna","description":"","icon":"data/images/d_/re/mm/gear_redguard_1hhammer_d.png","bindType":2,"knownIds":[99608]}

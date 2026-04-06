@@ -1,10 +1,1 @@
-{
-  "internalId": 3425591925,
-  "name": "Blueprint: Nord Cart, Cargo",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    116166
-  ]
-}
+{"internalId":3425591925,"name":"Blueprint: Nord Cart, Cargo","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[116166]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3999698096,
-  "name": "Pendant of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44234
-  ]
-}
+{"internalId":3999698096,"name":"Pendant of Soulshine","description":"","icon":"data/images/a_/kc/en/gear_imperial_neck_a.png","bindType":2,"knownIds":[44234]}

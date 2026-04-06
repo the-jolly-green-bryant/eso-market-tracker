@@ -1,10 +1,1 @@
-{
-  "internalId": 1907944034,
-  "name": "Blueprint: Solitude Armchair, High-Backed Noble",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166799
-  ]
-}
+{"internalId":1907944034,"name":"Blueprint: Solitude Armchair, High-Backed Noble","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166799]}

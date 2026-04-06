@@ -1,10 +1,1 @@
-{
-  "internalId": 2289540908,
-  "name": "Knight Slayer Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123685
-  ]
-}
+{"internalId":2289540908,"name":"Knight Slayer Dagger","description":"","icon":"data/images/a_/re/gg/gear_ordinator_dagger_a.png","bindType":2,"knownIds":[123685]}

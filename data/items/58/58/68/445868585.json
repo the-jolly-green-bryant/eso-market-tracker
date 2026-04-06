@@ -1,10 +1,1 @@
-{
-  "internalId": 445868585,
-  "name": "Recipe: Acai Tonic Infusion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46032
-  ]
-}
+{"internalId":445868585,"name":"Recipe: Acai Tonic Infusion","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46032]}

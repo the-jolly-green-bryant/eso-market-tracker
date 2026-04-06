@@ -1,10 +1,1 @@
-{
-  "internalId": 1814014242,
-  "name": "Argonian Alchemy Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1350327
-  ]
-}
+{"internalId":1814014242,"name":"Argonian Alchemy Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png","bindType":-1,"knownIds":[1350327]}

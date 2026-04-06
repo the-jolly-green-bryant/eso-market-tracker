@@ -1,10 +1,1 @@
-{
-  "internalId": 1379783940,
-  "name": "Beetle Scuttle",
-  "description": "An ingredient for alchemy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_scuttle.png",
-  "bindType": -1,
-  "knownIds": [
-    77583
-  ]
-}
+{"internalId":1379783940,"name":"Beetle Scuttle","description":"An ingredient for alchemy.","icon":"data/images/el/tt/uc/crafting_poisonmaking_reagent_scuttle.png","bindType":-1,"knownIds":[77583]}

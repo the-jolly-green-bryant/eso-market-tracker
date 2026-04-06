@@ -1,10 +1,1 @@
-{
-  "internalId": 1051396741,
-  "name": "Markarth Floor, Large Square",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markruglargesquare001.png",
-  "bindType": -1,
-  "knownIds": [
-    171758
-  ]
-}
+{"internalId":1051396741,"name":"Markarth Floor, Large Square","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markruglargesquare001.png","bindType":-1,"knownIds":[171758]}

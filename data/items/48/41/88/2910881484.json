@@ -1,10 +1,1 @@
-{
-  "internalId": 2910881484,
-  "name": "Elsweyr Stall Counter, Single",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_merchantcontainer001.png",
-  "bindType": -1,
-  "knownIds": [
-    151674
-  ]
-}
+{"internalId":2910881484,"name":"Elsweyr Stall Counter, Single","description":"This is a standard house item.","icon":"data/images/10/0r/en/housing_els_exc_merchantcontainer001.png","bindType":-1,"knownIds":[151674]}

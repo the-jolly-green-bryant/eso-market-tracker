@@ -1,10 +1,1 @@
-{
-  "internalId": 2124420338,
-  "name": "Mausoleum Bookcase, Filled",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_housingbookcase001.png",
-  "bindType": -1,
-  "knownIds": [
-    171830
-  ]
-}
+{"internalId":2124420338,"name":"Mausoleum Bookcase, Filled","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_housingbookcase001.png","bindType":-1,"knownIds":[171830]}

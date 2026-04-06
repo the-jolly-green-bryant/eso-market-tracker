@@ -1,10 +1,1 @@
-{
-  "internalId": 48871587,
-  "name": "Swan-Feather Tackle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240834
-  ]
-}
+{"internalId":48871587,"name":"Swan-Feather Tackle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[1240834]}

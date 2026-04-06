@@ -1,10 +1,1 @@
-{
-  "internalId": 557663429,
-  "name": "Crafting Motif 50: Telvanni Style",
-  "description": "Use to learn the Telvanni crafting style. Also teaches the equivalent Telvanni Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    121332
-  ]
-}
+{"internalId":557663429,"name":"Crafting Motif 50: Telvanni Style","description":"Use to learn the Telvanni crafting style. Also teaches the equivalent Telvanni Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[121332]}

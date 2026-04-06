@@ -1,10 +1,1 @@
-{
-  "internalId": 494982759,
-  "name": "Highland Rabbit Stew",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33498
-  ]
-}
+{"internalId":494982759,"name":"Highland Rabbit Stew","description":"","icon":"data/images/30/0_/we/crafting_stew_003.png","bindType":-1,"knownIds":[33498]}

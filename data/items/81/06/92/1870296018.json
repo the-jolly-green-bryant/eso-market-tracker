@@ -1,10 +1,1 @@
-{
-  "internalId": 1870296018,
-  "name": "Necrom Banner, Long Patterned",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necbannerhighf002.png",
-  "bindType": -1,
-  "knownIds": [
-    197741
-  ]
-}
+{"internalId":1870296018,"name":"Necrom Banner, Long Patterned","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_necbannerhighf002.png","bindType":-1,"knownIds":[197741]}

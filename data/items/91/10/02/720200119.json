@@ -1,10 +1,1 @@
-{
-  "internalId": 720200119,
-  "name": "Redguard Vial, Stained Glass",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_glassbottle003.png",
-  "bindType": -1,
-  "knownIds": [
-    117853
-  ]
-}
+{"internalId":720200119,"name":"Redguard Vial, Stained Glass","description":"This is a standard house item.","icon":"data/images/30/0e/lt/housing_red_inc_glassbottle003.png","bindType":-1,"knownIds":[117853]}

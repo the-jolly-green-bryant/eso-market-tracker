@@ -1,10 +1,1 @@
-{
-  "internalId": 325743487,
-  "name": "Longhouse Legion Banner Fragment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1356874
-  ]
-}
+{"internalId":325743487,"name":"Longhouse Legion Banner Fragment","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[1356874]}

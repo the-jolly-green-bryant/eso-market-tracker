@@ -1,11 +1,1 @@
-{
-  "internalId": 4132173951,
-  "name": "Crossed Scimitars Buckle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_darloc_arms.png",
-  "bindType": -1,
-  "knownIds": [
-    898236,
-    898236
-  ]
-}
+{"internalId":4132173951,"name":"Crossed Scimitars Buckle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_darloc_arms.png","bindType":-1,"knownIds":[898236,898236]}

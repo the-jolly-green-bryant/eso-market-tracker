@@ -1,10 +1,1 @@
-{
-  "internalId": 795267975,
-  "name": "Style Page: Fanged Worm Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1243701
-  ]
-}
+{"internalId":795267975,"name":"Style Page: Fanged Worm Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1243701]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 422330970,
-  "name": "Mace of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77057
-  ]
-}
+{"internalId":422330970,"name":"Mace of Morihaus","description":"","icon":"data/images/a_/re/mm/gear_minotaur_1hhammer_a.png","bindType":2,"knownIds":[77057]}

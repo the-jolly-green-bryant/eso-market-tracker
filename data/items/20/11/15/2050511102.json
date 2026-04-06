@@ -1,10 +1,1 @@
-{
-  "internalId": 2050511102,
-  "name": "Orsinium Totem, Honor",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_totempole003.png",
-  "bindType": -1,
-  "knownIds": [
-    132150
-  ]
-}
+{"internalId":2050511102,"name":"Orsinium Totem, Honor","description":"This is a standard house item.","icon":"data/images/30/0e/lo/housing_orc_duc_totempole003.png","bindType":-1,"knownIds":[132150]}

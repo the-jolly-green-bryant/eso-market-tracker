@@ -1,10 +1,1 @@
-{
-  "internalId": 4293023957,
-  "name": "Vampiric Container, Yellow Liquid",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabflask001.png",
-  "bindType": -1,
-  "knownIds": [
-    181494
-  ]
-}
+{"internalId":4293023957,"name":"Vampiric Container, Yellow Liquid","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabflask001.png","bindType":-1,"knownIds":[181494]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2155248895,
-  "name": "Soul Gem Waistpocket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1347406
-  ]
-}
+{"internalId":2155248895,"name":"Soul Gem Waistpocket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[1347406]}

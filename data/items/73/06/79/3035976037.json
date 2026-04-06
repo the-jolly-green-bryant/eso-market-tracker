@@ -1,10 +1,1 @@
-{
-  "internalId": 3035976037,
-  "name": "Diagram: Deadlands Brazier, Bladed Cage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    176035
-  ]
-}
+{"internalId":3035976037,"name":"Diagram: Deadlands Brazier, Bladed Cage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[176035]}

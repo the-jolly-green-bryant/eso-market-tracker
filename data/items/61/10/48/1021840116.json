@@ -1,10 +1,1 @@
-{
-  "internalId": 1021840116,
-  "name": "Sip of Entrapment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_015_type_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54333
-  ]
-}
+{"internalId":1021840116,"name":"Sip of Entrapment","description":"","icon":"data/images/10/0_/ep/consumable_potion_015_type_001.png","bindType":-1,"knownIds":[54333]}

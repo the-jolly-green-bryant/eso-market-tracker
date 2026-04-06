@@ -1,10 +1,1 @@
-{
-  "internalId": 2248084737,
-  "name": "Greatsword of a Mother's Sorrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97392
-  ]
-}
+{"internalId":2248084737,"name":"Greatsword of a Mother's Sorrow","description":"","icon":"data/images/d_/dr/ow/gear_argonian_2hsword_d.png","bindType":2,"knownIds":[97392]}

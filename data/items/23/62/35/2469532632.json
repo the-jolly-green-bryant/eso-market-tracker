@@ -1,10 +1,1 @@
-{
-  "internalId": 2469532632,
-  "name": "Pattern: Dark Elf Carpet, Mottled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    116022
-  ]
-}
+{"internalId":2469532632,"name":"Pattern: Dark Elf Carpet, Mottled","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[116022]}

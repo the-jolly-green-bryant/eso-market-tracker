@@ -1,10 +1,1 @@
-{
-  "internalId": 1883713415,
-  "name": "Stuhn's Favor Light Armor",
-  "description": "A Crafted Armor set constructed in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182865
-  ]
-}
+{"internalId":1883713415,"name":"Stuhn's Favor Light Armor","description":"A Crafted Armor set constructed in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182865]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3680900908,
-  "name": "Guards of Night Terror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    97931
-  ]
-}
+{"internalId":3680900908,"name":"Guards of Night Terror","description":"","icon":"data/images/a_/sg/el/gear_daedric_medium_legs_a.png","bindType":2,"knownIds":[97931]}

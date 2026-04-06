@@ -1,10 +1,1 @@
-{
-  "internalId": 410853234,
-  "name": "Style Page: Horned Dragon Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1255952
-  ]
-}
+{"internalId":410853234,"name":"Style Page: Horned Dragon Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1255952]}

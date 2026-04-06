@@ -1,10 +1,1 @@
-{
-  "internalId": 2797475643,
-  "name": "Axe of Salvation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85593
-  ]
-}
+{"internalId":2797475643,"name":"Axe of Salvation","description":"","icon":"data/images/d_/ex/ah/gear_altmer_1haxe_d.png","bindType":2,"knownIds":[85593]}

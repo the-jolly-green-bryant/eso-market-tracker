@@ -1,10 +1,1 @@
-{
-  "internalId": 181126501,
-  "name": "Hlaalu Armchair, Mossy Cushion",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_extchair003.png",
-  "bindType": -1,
-  "knownIds": [
-    126446
-  ]
-}
+{"internalId":181126501,"name":"Hlaalu Armchair, Mossy Cushion","description":"This is a standard house item.","icon":"data/images/30/0r/ia/housing_vrd_fur_extchair003.png","bindType":-1,"knownIds":[126446]}

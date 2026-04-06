@@ -1,10 +1,1 @@
-{
-  "internalId": 2480144117,
-  "name": "Pattern: Alinor Runner, Royal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    139641
-  ]
-}
+{"internalId":2480144117,"name":"Pattern: Alinor Runner, Royal","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[139641]}

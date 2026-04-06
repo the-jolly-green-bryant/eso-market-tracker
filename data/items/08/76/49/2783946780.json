@@ -1,10 +1,1 @@
-{
-  "internalId": 2783946780,
-  "name": "Peacemaker's Necklace",
-  "description": "An attractive necklace constructed from myriad bits of glass and stone, it melds different colors and facets together in harmony.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    208144
-  ]
-}
+{"internalId":2783946780,"name":"Peacemaker's Necklace","description":"An attractive necklace constructed from myriad bits of glass and stone, it melds different colors and facets together in harmony.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_neck_a.png","bindType":2,"knownIds":[208144]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2494120808,
-  "name": "Solitude Wall, Curved Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumcurve002.png",
-  "bindType": -1,
-  "knownIds": [
-    167314
-  ]
-}
+{"internalId":2494120808,"name":"Solitude Wall, Curved Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_solwallmediumcurve002.png","bindType":-1,"knownIds":[167314]}

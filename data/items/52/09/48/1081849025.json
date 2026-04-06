@@ -1,10 +1,1 @@
-{
-  "internalId": 1081849025,
-  "name": "Diagram: Redguard Pot, Hanging Garish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    119251
-  ]
-}
+{"internalId":1081849025,"name":"Diagram: Redguard Pot, Hanging Garish","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[119251]}

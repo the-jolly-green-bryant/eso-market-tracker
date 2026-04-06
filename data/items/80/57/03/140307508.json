@@ -1,10 +1,1 @@
-{
-  "internalId": 140307508,
-  "name": "Pattern: Elsweyr Bed, Rumpled Elegant Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    152017
-  ]
-}
+{"internalId":140307508,"name":"Pattern: Elsweyr Bed, Rumpled Elegant Single","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[152017]}

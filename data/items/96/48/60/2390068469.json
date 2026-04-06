@@ -1,10 +1,1 @@
-{
-  "internalId": 2390068469,
-  "name": "Sash of Bahraha's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    114629
-  ]
-}
+{"internalId":2390068469,"name":"Sash of Bahraha's Curse","description":"","icon":"data/images/a_/ts/ia/gear_thievesguildv2_light_waist_a.png","bindType":2,"knownIds":[114629]}

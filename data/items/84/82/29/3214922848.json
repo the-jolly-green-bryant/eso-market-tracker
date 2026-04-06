@@ -1,10 +1,1 @@
-{
-  "internalId": 3214922848,
-  "name": "Clockwork Orrery, Compact",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_planetariumholograph001.png",
-  "bindType": -1,
-  "knownIds": [
-    134425
-  ]
-}
+{"internalId":3214922848,"name":"Clockwork Orrery, Compact","description":"This is a large house item.","icon":"data/images/10/0h/pa/housing_cwc_inc_planetariumholograph001.png","bindType":-1,"knownIds":[134425]}

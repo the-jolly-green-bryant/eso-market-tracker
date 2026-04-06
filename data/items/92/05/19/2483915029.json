@@ -1,10 +1,1 @@
-{
-  "internalId": 2483915029,
-  "name": "Solitude Rug, Cowhide",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_housingpeltrug001.png",
-  "bindType": -1,
-  "knownIds": [
-    165640
-  ]
-}
+{"internalId":2483915029,"name":"Solitude Rug, Cowhide","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_housingpeltrug001.png","bindType":-1,"knownIds":[165640]}

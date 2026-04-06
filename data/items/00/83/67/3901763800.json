@@ -1,10 +1,1 @@
-{
-  "internalId": 3901763800,
-  "name": "Ayleid Wall, Low Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_ceilingarchcornerpluga001.png",
-  "bindType": -1,
-  "knownIds": [
-    212402
-  ]
-}
+{"internalId":3901763800,"name":"Ayleid Wall, Low Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_ceilingarchcornerpluga001.png","bindType":-1,"knownIds":[212402]}

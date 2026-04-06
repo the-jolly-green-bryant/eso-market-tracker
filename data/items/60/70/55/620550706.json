@@ -1,10 +1,1 @@
-{
-  "internalId": 620550706,
-  "name": "The Scarlet Necklace",
-  "description": "The Scarlet Judge gave you this enchanted necklace for your help in bringing down the corrupt magistrate of Suran.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126077
-  ]
-}
+{"internalId":620550706,"name":"The Scarlet Necklace","description":"The Scarlet Judge gave you this enchanted necklace for your help in bringing down the corrupt magistrate of Suran.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[126077]}

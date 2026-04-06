@@ -1,10 +1,1 @@
-{
-  "internalId": 3918479774,
-  "name": "Potentate's Supreme Cioppino",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_004.png",
-  "bindType": -1,
-  "knownIds": [
-    33898
-  ]
-}
+{"internalId":3918479774,"name":"Potentate's Supreme Cioppino","description":"","icon":"data/images/40/0_/pu/crafting_soup_004.png","bindType":-1,"knownIds":[33898]}

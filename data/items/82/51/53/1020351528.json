@@ -1,10 +1,1 @@
-{
-  "internalId": 1020351528,
-  "name": "Design: Sweetroll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    119539
-  ]
-}
+{"internalId":1020351528,"name":"Design: Sweetroll","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[119539]}

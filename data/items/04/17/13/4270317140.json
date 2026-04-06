@@ -1,10 +1,1 @@
-{
-  "internalId": 4270317140,
-  "name": "Path of Eternity Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leywoodframepainting004.png",
-  "bindType": -1,
-  "knownIds": [
-    178443
-  ]
-}
+{"internalId":4270317140,"name":"Path of Eternity Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leywoodframepainting004.png","bindType":-1,"knownIds":[178443]}

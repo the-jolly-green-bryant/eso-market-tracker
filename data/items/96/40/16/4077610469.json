@@ -1,10 +1,1 @@
-{
-  "internalId": 4077610469,
-  "name": "Skald-King's Sabatons",
-  "description": "For defeating Fildgor Orcthane and helping to seal the Ebonheart Pact, Prince Irnskar gave you these sabatons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10062
-  ]
-}
+{"internalId":4077610469,"name":"Skald-King's Sabatons","description":"For defeating Fildgor Orcthane and helping to seal the Ebonheart Pact, Prince Irnskar gave you these sabatons.","icon":"data/images/d_/te/ef/gear_nord_heavy_feet_d.png","bindType":2,"knownIds":[10062]}

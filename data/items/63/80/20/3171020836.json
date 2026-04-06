@@ -1,10 +1,1 @@
-{
-  "internalId": 3171020836,
-  "name": "Shornhelm, Crown City of the North",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1418330
-  ]
-}
+{"internalId":3171020836,"name":"Shornhelm, Crown City of the North","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1418330]}

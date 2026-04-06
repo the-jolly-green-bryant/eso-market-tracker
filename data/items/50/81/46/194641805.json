@@ -1,10 +1,1 @@
-{
-  "internalId": 194641805,
-  "name": "Breton Shelf, Long",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_wallshelflow001.png",
-  "bindType": -1,
-  "knownIds": [
-    115168
-  ]
-}
+{"internalId":194641805,"name":"Breton Shelf, Long","description":"This is a standard house item.","icon":"data/images/10/0w/ol/housing_bre_fur_wallshelflow001.png","bindType":-1,"knownIds":[115168]}

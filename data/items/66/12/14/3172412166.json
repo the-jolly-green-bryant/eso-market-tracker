@@ -1,10 +1,1 @@
-{
-  "internalId": 3172412166,
-  "name": "Orcish Battle Sling",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png",
-  "bindType": -1,
-  "knownIds": [
-    383919
-  ]
-}
+{"internalId":3172412166,"name":"Orcish Battle Sling","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png","bindType":-1,"knownIds":[383919]}

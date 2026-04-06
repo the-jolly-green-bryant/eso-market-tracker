@@ -1,10 +1,1 @@
-{
-  "internalId": 3570283818,
-  "name": "Solitude Dinner Bowl, Hearty Stew",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_soupbowl001.png",
-  "bindType": -1,
-  "knownIds": [
-    165789
-  ]
-}
+{"internalId":3570283818,"name":"Solitude Dinner Bowl, Hearty Stew","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_soupbowl001.png","bindType":-1,"knownIds":[165789]}

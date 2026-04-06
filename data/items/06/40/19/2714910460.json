@@ -1,10 +1,1 @@
-{
-  "internalId": 2714910460,
-  "name": "Lord's Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_goldensaint_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44183
-  ]
-}
+{"internalId":2714910460,"name":"Lord's Gauntlets","description":"","icon":"data/images/a_/sd/na/gear_goldensaint_hands_a.png","bindType":2,"knownIds":[44183]}

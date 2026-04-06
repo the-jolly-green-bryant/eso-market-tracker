@@ -1,10 +1,1 @@
-{
-  "internalId": 3215205267,
-  "name": "Weapons: Deadlands Assassin",
-  "description": "A Medium Armor set found in Blackwood.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    172284
-  ]
-}
+{"internalId":3215205267,"name":"Weapons: Deadlands Assassin","description":"A Medium Armor set found in Blackwood.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[172284]}

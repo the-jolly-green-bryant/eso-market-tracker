@@ -1,11 +1,1 @@
-{
-  "internalId": 4244284608,
-  "name": "Glazed Chiminea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png",
-  "bindType": -1,
-  "knownIds": [
-    654110,
-    654110
-  ]
-}
+{"internalId":4244284608,"name":"Glazed Chiminea","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png","bindType":-1,"knownIds":[654110,654110]}

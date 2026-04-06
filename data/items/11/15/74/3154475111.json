@@ -1,17 +1,1 @@
-{
-  "internalId": 3154475111,
-  "name": "splendid glyph of frost resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_frostresist.png",
-  "bindType": -1,
-  "knownIds": [
-    534088,
-    675057,
-    1438951,
-    1444530,
-    534088,
-    675057,
-    1438951,
-    1444530
-  ]
-}
+{"internalId":3154475111,"name":"splendid glyph of frost resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_frostresist.png","bindType":-1,"knownIds":[534088,675057,1438951,1444530,534088,675057,1438951,1444530]}

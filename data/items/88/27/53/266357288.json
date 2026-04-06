@@ -1,10 +1,1 @@
-{
-  "internalId": 266357288,
-  "name": "Praxis: Druidic Game, Marble Maze",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    192561
-  ]
-}
+{"internalId":266357288,"name":"Praxis: Druidic Game, Marble Maze","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[192561]}

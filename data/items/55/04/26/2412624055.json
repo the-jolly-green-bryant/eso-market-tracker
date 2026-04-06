@@ -1,10 +1,1 @@
-{
-  "internalId": 2412624055,
-  "name": "Necrom Stairs, Inner Corner Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_neccitywalkwaystairs007.png",
-  "bindType": -1,
-  "knownIds": [
-    198028
-  ]
-}
+{"internalId":2412624055,"name":"Necrom Stairs, Inner Corner Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_neccitywalkwaystairs007.png","bindType":-1,"knownIds":[198028]}

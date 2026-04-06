@@ -1,10 +1,1 @@
-{
-  "internalId": 3892204115,
-  "name": "Ayrenn: the Unforeseen Queen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png",
-  "bindType": -1,
-  "knownIds": [
-    1199236
-  ]
-}
+{"internalId":3892204115,"name":"Ayrenn: the Unforeseen Queen","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed003.png","bindType":-1,"knownIds":[1199236]}

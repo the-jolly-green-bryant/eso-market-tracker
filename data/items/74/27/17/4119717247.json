@@ -1,10 +1,1 @@
-{
-  "internalId": 4119717247,
-  "name": "Pattern: Redguard Awning, Desert Flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119224
-  ]
-}
+{"internalId":4119717247,"name":"Pattern: Redguard Awning, Desert Flame","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[119224]}

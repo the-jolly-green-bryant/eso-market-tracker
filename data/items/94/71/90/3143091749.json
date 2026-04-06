@@ -1,10 +1,1 @@
-{
-  "internalId": 3143091749,
-  "name": "Argonian Cage, Bird",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_smallcage003.png",
-  "bindType": -1,
-  "knownIds": [
-    115465
-  ]
-}
+{"internalId":3143091749,"name":"Argonian Cage, Bird","description":"This is a standard house item.","icon":"data/images/30/0e/ga/housing_arg_exc_smallcage003.png","bindType":-1,"knownIds":[115465]}

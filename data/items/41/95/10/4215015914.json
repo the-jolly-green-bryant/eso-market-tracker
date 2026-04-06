@@ -1,10 +1,1 @@
-{
-  "internalId": 4215015914,
-  "name": "Crafting Motif 116: Drowned Mariner Style",
-  "description": "Use to learn the Drowned Mariner crafting style. Also teaches the equivalent Drowned Mariner Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    187762
-  ]
-}
+{"internalId":4215015914,"name":"Crafting Motif 116: Drowned Mariner Style","description":"Use to learn the Drowned Mariner crafting style. Also teaches the equivalent Drowned Mariner Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[187762]}

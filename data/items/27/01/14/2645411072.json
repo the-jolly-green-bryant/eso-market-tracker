@@ -1,10 +1,1 @@
-{
-  "internalId": 2645411072,
-  "name": "Rugs, Rolled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_minrugset001.png",
-  "bindType": -1,
-  "knownIds": [
-    182623
-  ]
-}
+{"internalId":2645411072,"name":"Rugs, Rolled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_minrugset001.png","bindType":-1,"knownIds":[182623]}

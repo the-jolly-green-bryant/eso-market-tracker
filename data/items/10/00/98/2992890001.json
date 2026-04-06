@@ -1,10 +1,1 @@
-{
-  "internalId": 2992890001,
-  "name": "Coral Formation, Trees Capped",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_coraltree007.png",
-  "bindType": -1,
-  "knownIds": [
-    139333
-  ]
-}
+{"internalId":2992890001,"name":"Coral Formation, Trees Capped","description":"This is a large house item.","icon":"data/images/70/0e/er/housing_tre_sum_coraltree007.png","bindType":-1,"knownIds":[139333]}

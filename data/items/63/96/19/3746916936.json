@@ -1,10 +1,1 @@
-{
-  "internalId": 3746916936,
-  "name": "Recipe: Mudcrab Corn Fritters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54243
-  ]
-}
+{"internalId":3746916936,"name":"Recipe: Mudcrab Corn Fritters","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[54243]}

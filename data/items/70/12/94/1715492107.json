@@ -1,10 +1,1 @@
-{
-  "internalId": 1715492107,
-  "name": "Dragon's Duel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366409
-  ]
-}
+{"internalId":1715492107,"name":"Dragon's Duel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_game_001.png","bindType":-1,"knownIds":[1366409]}

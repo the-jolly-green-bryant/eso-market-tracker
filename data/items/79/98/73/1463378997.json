@@ -1,10 +1,1 @@
-{
-  "internalId": 1463378997,
-  "name": "Recipe: Tomato Garlic Chutney",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68194
-  ]
-}
+{"internalId":1463378997,"name":"Recipe: Tomato Garlic Chutney","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68194]}

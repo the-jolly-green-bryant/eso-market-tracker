@@ -1,10 +1,1 @@
-{
-  "internalId": 3292314882,
-  "name": "War Maiden's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122942
-  ]
-}
+{"internalId":3292314882,"name":"War Maiden's Mace","description":"","icon":"data/images/a_/re/mm/gear_telvanni_1hhammer_a.png","bindType":2,"knownIds":[122942]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3094862071,
-  "name": "Legion Zero Strongbox",
-  "description": "This reward box might contain useful crafting materials, powerful Set Items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png",
-  "bindType": 3,
-  "knownIds": [
-    167210
-  ]
-}
+{"internalId":3094862071,"name":"Legion Zero Strongbox","description":"This reward box might contain useful crafting materials, powerful Set Items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png","bindType":3,"knownIds":[167210]}

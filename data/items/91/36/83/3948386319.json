@@ -1,10 +1,1 @@
-{
-  "internalId": 3948386319,
-  "name": "Lunar Tapestry, The Gate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_tapestrymoondancer003.png",
-  "bindType": -1,
-  "knownIds": [
-    151827
-  ]
-}
+{"internalId":3948386319,"name":"Lunar Tapestry, The Gate","description":"This is a standard house item.","icon":"data/images/30/0r/ec/housing_els_inc_tapestrymoondancer003.png","bindType":-1,"knownIds":[151827]}

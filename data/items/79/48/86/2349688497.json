@@ -1,10 +1,1 @@
-{
-  "internalId": 2349688497,
-  "name": "Exile's Skull Brand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366545
-  ]
-}
+{"internalId":2349688497,"name":"Exile's Skull Brand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png","bindType":-1,"knownIds":[1366545]}

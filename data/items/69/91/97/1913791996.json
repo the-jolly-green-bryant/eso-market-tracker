@@ -1,10 +1,1 @@
-{
-  "internalId": 1913791996,
-  "name": "Design: Argonian Tree of Lights",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    115831
-  ]
-}
+{"internalId":1913791996,"name":"Design: Argonian Tree of Lights","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[115831]}

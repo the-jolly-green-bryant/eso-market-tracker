@@ -1,10 +1,1 @@
-{
-  "internalId": 1609713264,
-  "name": "Merchant's Sign, Small",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_smlsignbank001.png",
-  "bindType": -1,
-  "knownIds": [
-    134431
-  ]
-}
+{"internalId":1609713264,"name":"Merchant's Sign, Small","description":"This is a small house item.","icon":"data/images/10/0k/na/housing_bre_lsb_smlsignbank001.png","bindType":-1,"knownIds":[134431]}

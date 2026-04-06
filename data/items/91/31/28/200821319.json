@@ -1,10 +1,1 @@
-{
-  "internalId": 200821319,
-  "name": "Stand-Me-Up Lager",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33996
-  ]
-}
+{"internalId":200821319,"name":"Stand-Me-Up Lager","description":"","icon":"data/images/10/0_/re/crafting_beer_001.png","bindType":-1,"knownIds":[33996]}

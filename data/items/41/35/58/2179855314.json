@@ -1,10 +1,1 @@
-{
-  "internalId": 2179855314,
-  "name": "Finely-Crafted Violin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826305
-  ]
-}
+{"internalId":2179855314,"name":"Finely-Crafted Violin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_instrument_001.png","bindType":-1,"knownIds":[826305]}

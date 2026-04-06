@@ -1,10 +1,1 @@
-{
-  "internalId": 990304119,
-  "name": "Weapons: Master Architect",
-  "description": "A Light Armor set found in the Halls of Fabrication Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    127127
-  ]
-}
+{"internalId":990304119,"name":"Weapons: Master Architect","description":"A Light Armor set found in the Halls of Fabrication Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[127127]}

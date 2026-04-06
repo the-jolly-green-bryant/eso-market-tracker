@@ -1,13 +1,1 @@
-{
-  "internalId": 2480200162,
-  "name": "Fledgling's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748633,
-    1758521,
-    1748633,
-    1758521
-  ]
-}
+{"internalId":2480200162,"name":"Fledgling's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1748633,1758521,1748633,1758521]}

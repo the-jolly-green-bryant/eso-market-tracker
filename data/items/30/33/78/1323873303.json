@@ -1,10 +1,1 @@
-{
-  "internalId": 1323873303,
-  "name": "Spellshredder Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219317
-  ]
-}
+{"internalId":1323873303,"name":"Spellshredder Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png","bindType":2,"knownIds":[219317]}

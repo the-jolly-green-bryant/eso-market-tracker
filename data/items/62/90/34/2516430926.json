@@ -1,10 +1,1 @@
-{
-  "internalId": 2516430926,
-  "name": "Boots of the Willow's Path",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56586
-  ]
-}
+{"internalId":2516430926,"name":"Boots of the Willow's Path","description":"","icon":"data/images/d_/te/ef/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[56586]}

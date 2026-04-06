@@ -1,10 +1,1 @@
-{
-  "internalId": 2397986729,
-  "name": "Macabre Vintage Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    205215
-  ]
-}
+{"internalId":2397986729,"name":"Macabre Vintage Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_shoulders_a.png","bindType":2,"knownIds":[205215]}

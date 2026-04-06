@@ -1,10 +1,1 @@
-{
-  "internalId": 141926435,
-  "name": "Thunderbug-Shell Pipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    654277
-  ]
-}
+{"internalId":141926435,"name":"Thunderbug-Shell Pipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png","bindType":-1,"knownIds":[654277]}

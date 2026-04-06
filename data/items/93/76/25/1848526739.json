@@ -1,10 +1,1 @@
-{
-  "internalId": 1848526739,
-  "name": "Crafting Motif 40: Order Hour Legs",
-  "description": "Use to learn how to make Order of the Hour Legs. Also teaches the equivalent Order Hour Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    82096
-  ]
-}
+{"internalId":1848526739,"name":"Crafting Motif 40: Order Hour Legs","description":"Use to learn how to make Order of the Hour Legs. Also teaches the equivalent Order Hour Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[82096]}

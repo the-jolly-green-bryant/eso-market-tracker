@@ -1,10 +1,1 @@
-{
-  "internalId": 2998154035,
-  "name": "High Isle Door, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinghousedoorhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    189497
-  ]
-}
+{"internalId":2998154035,"name":"High Isle Door, Sturdy","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_housinghousedoorhigh001.png","bindType":-1,"knownIds":[189497]}

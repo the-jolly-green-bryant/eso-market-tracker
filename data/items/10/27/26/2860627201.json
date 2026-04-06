@@ -1,10 +1,1 @@
-{
-  "internalId": 2860627201,
-  "name": "Worm Cult Grating, Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_waf_prisonroof001.png",
-  "bindType": -1,
-  "knownIds": [
-    223824
-  ]
-}
+{"internalId":2860627201,"name":"Worm Cult Grating, Metal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_waf_prisonroof001.png","bindType":-1,"knownIds":[223824]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3569652177,
-  "name": "Diagram: Alinor Sconce, Arched",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    139519
-  ]
-}
+{"internalId":3569652177,"name":"Diagram: Alinor Sconce, Arched","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[139519]}

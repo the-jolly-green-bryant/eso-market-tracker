@@ -1,10 +1,1 @@
-{
-  "internalId": 3475827995,
-  "name": "Melon Carpaccio",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_004.png",
-  "bindType": -1,
-  "knownIds": [
-    28348
-  ]
-}
+{"internalId":3475827995,"name":"Melon Carpaccio","description":"","icon":"data/images/40/0_/da/crafting_salad_004.png","bindType":-1,"knownIds":[28348]}

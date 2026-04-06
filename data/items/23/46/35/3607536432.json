@@ -1,10 +1,1 @@
-{
-  "internalId": 3607536432,
-  "name": "Hlaalu Lantern, Oversized Vellum",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_hlalamppostalwayson006.png",
-  "bindType": -1,
-  "knownIds": [
-    126482
-  ]
-}
+{"internalId":3607536432,"name":"Hlaalu Lantern, Oversized Vellum","description":"This is a standard house item.","icon":"data/images/60/0n/os/housing_vrd_lsb_hlalamppostalwayson006.png","bindType":-1,"knownIds":[126482]}

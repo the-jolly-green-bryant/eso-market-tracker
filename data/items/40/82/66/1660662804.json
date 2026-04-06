@@ -1,10 +1,1 @@
-{
-  "internalId": 1660662804,
-  "name": "Hourglass Pedestal, Square",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_pedestalhourglass001.png",
-  "bindType": -1,
-  "knownIds": [
-    159450
-  ]
-}
+{"internalId":1660662804,"name":"Hourglass Pedestal, Square","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_duc_pedestalhourglass001.png","bindType":-1,"knownIds":[159450]}

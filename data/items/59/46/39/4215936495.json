@@ -1,10 +1,1 @@
-{
-  "internalId": 4215936495,
-  "name": "High Elf Bar, Overhanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_counterlong002.png",
-  "bindType": -1,
-  "knownIds": [
-    114351
-  ]
-}
+{"internalId":4215936495,"name":"High Elf Bar, Overhanging","description":"This is a standard house item.","icon":"data/images/20/0g/no/housing_alt_fur_counterlong002.png","bindType":-1,"knownIds":[114351]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1678064565,
-  "name": "Common Firepit, Outdoor",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_campfiresimple001.png",
-  "bindType": -1,
-  "knownIds": [
-    118054
-  ]
-}
+{"internalId":1678064565,"name":"Common Firepit, Outdoor","description":"This is a standard house item.","icon":"data/images/10/0e/lp/housing_bre_cmp_campfiresimple001.png","bindType":-1,"knownIds":[118054]}

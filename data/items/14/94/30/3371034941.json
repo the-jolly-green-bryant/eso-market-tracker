@@ -1,10 +1,1 @@
-{
-  "internalId": 3371034941,
-  "name": "Grand Felrunner Quill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    508861
-  ]
-}
+{"internalId":3371034941,"name":"Grand Felrunner Quill","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[508861]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2271754951,
-  "name": "Crafting Motif 75: Sunspire Shields",
-  "description": "Use to learn how to make Sunspire Shields. Also teaches the equivalent Sunspire outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    147741
-  ]
-}
+{"internalId":2271754951,"name":"Crafting Motif 75: Sunspire Shields","description":"Use to learn how to make Sunspire Shields. Also teaches the equivalent Sunspire outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[147741]}

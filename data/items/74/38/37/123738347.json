@@ -1,10 +1,1 @@
-{
-  "internalId": 123738347,
-  "name": "Stirk Battletunic",
-  "description": "Worn by those who scout ahead and strike first, this tunic offers freedom of movement without sacrificing the mark of the Fellowship.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223668
-  ]
-}
+{"internalId":123738347,"name":"Stirk Battletunic","description":"Worn by those who scout ahead and strike first, this tunic offers freedom of movement without sacrificing the mark of the Fellowship.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_chest_a.png","bindType":2,"knownIds":[223668]}

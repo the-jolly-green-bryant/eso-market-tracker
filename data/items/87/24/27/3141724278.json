@@ -1,10 +1,1 @@
-{
-  "internalId": 3141724278,
-  "name": "Ring of Durok's Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    88167
-  ]
-}
+{"internalId":3141724278,"name":"Ring of Durok's Bane","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[88167]}

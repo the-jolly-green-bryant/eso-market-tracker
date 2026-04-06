@@ -1,10 +1,1 @@
-{
-  "internalId": 1408981851,
-  "name": "Druidic Statue, Planter",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_drustatue002.png",
-  "bindType": -1,
-  "knownIds": [
-    191159
-  ]
-}
+{"internalId":1408981851,"name":"Druidic Statue, Planter","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_sys_drustatue002.png","bindType":-1,"knownIds":[191159]}

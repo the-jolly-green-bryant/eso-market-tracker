@@ -1,10 +1,1 @@
-{
-  "internalId": 2863399076,
-  "name": "Dibellium",
-  "description": "Can be used to enhance jewelry.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_metals_tin.png",
-  "bindType": -1,
-  "knownIds": [
-    139413
-  ]
-}
+{"internalId":2863399076,"name":"Dibellium","description":"Can be used to enhance jewelry.","icon":"data/images/ni/t_/sl/crafting_metals_tin.png","bindType":-1,"knownIds":[139413]}

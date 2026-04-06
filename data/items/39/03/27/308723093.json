@@ -1,10 +1,1 @@
-{
-  "internalId": 308723093,
-  "name": "Crafting Motif 70: Elder Argonian Maces",
-  "description": "Use to learn how to make Elder Argonian Maces. Also teaches the equivalent Elder Argonian outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    142228
-  ]
-}
+{"internalId":308723093,"name":"Crafting Motif 70: Elder Argonian Maces","description":"Use to learn how to make Elder Argonian Maces. Also teaches the equivalent Elder Argonian outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[142228]}

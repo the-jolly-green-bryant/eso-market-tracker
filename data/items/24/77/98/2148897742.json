@@ -1,10 +1,1 @@
-{
-  "internalId": 2148897742,
-  "name": "Goblin-Sized Weighted Shackles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png",
-  "bindType": -1,
-  "knownIds": [
-    611222
-  ]
-}
+{"internalId":2148897742,"name":"Goblin-Sized Weighted Shackles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png","bindType":-1,"knownIds":[611222]}

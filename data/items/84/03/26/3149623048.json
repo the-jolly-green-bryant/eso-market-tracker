@@ -1,10 +1,1 @@
-{
-  "internalId": 3149623048,
-  "name": "The Right Mattock For the Job",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1338204
-  ]
-}
+{"internalId":3149623048,"name":"The Right Mattock For the Job","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png","bindType":-1,"knownIds":[1338204]}

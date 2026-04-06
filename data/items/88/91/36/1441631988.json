@@ -1,10 +1,1 @@
-{
-  "internalId": 1441631988,
-  "name": "Heart of the Indrik",
-  "description": "The crystallized heart of an Indrik is said to curse any with an unpure heart who touch it. Bring this to the Vault of Moawita in Summerset.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_humanoid_daedra_heart.png",
-  "bindType": 3,
-  "knownIds": [
-    133606
-  ]
-}
+{"internalId":1441631988,"name":"Heart of the Indrik","description":"The crystallized heart of an Indrik is said to curse any with an unpure heart who touch it. Bring this to the Vault of Moawita in Summerset.","icon":"data/images/tr/ae/h_/crafting_humanoid_daedra_heart.png","bindType":3,"knownIds":[133606]}

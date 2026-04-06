@@ -1,10 +1,1 @@
-{
-  "internalId": 3966536042,
-  "name": "Indoril Commission Placard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1166962
-  ]
-}
+{"internalId":3966536042,"name":"Indoril Commission Placard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[1166962]}

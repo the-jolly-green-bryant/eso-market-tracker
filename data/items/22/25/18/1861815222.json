@@ -1,10 +1,1 @@
-{
-  "internalId": 1861815222,
-  "name": "Pumpkin Corn Fritters Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    443355
-  ]
-}
+{"internalId":1861815222,"name":"Pumpkin Corn Fritters Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[443355]}

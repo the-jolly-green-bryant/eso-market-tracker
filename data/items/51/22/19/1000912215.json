@@ -1,10 +1,1 @@
-{
-  "internalId": 1000912215,
-  "name": "Shalk's Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    96745
-  ]
-}
+{"internalId":1000912215,"name":"Shalk's Helm","description":"","icon":"data/images/a_/da/eh/gear_reach_heavy_head_a.png","bindType":2,"knownIds":[96745]}

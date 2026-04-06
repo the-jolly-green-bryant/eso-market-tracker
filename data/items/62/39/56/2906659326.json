@@ -1,10 +1,1 @@
-{
-  "internalId": 2906659326,
-  "name": "Shacklebreaker Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140164
-  ]
-}
+{"internalId":2906659326,"name":"Shacklebreaker Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140164]}

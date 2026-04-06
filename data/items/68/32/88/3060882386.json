@@ -1,10 +1,1 @@
-{
-  "internalId": 3060882386,
-  "name": "Argonian Curtains, Woven",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkwalldivider002.png",
-  "bindType": -1,
-  "knownIds": [
-    115488
-  ]
-}
+{"internalId":3060882386,"name":"Argonian Curtains, Woven","description":"This is a large house item.","icon":"data/images/20/0r/ed/housing_arg_inc_mrkwalldivider002.png","bindType":-1,"knownIds":[115488]}

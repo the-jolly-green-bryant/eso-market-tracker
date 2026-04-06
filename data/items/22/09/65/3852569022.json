@@ -1,10 +1,1 @@
-{
-  "internalId": 3852569022,
-  "name": "Jester's Rusksack of Revelry",
-  "description": "This container holds useful treasures normally only found during the Jester's Festival.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
-  "bindType": 3,
-  "knownIds": [
-    175726
-  ]
-}
+{"internalId":3852569022,"name":"Jester's Rusksack of Revelry","description":"This container holds useful treasures normally only found during the Jester's Festival.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png","bindType":3,"knownIds":[175726]}

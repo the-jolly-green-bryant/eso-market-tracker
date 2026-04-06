@@ -1,10 +1,1 @@
-{
-  "internalId": 519908159,
-  "name": "Ice Furnace Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86505
-  ]
-}
+{"internalId":519908159,"name":"Ice Furnace Maul","description":"","icon":"data/images/d_/re/mm/gear_redguard_2hhammer_d.png","bindType":2,"knownIds":[86505]}

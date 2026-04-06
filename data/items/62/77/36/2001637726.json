@@ -1,10 +1,1 @@
-{
-  "internalId": 2001637726,
-  "name": "Tharriker's Strike Heavy Armor",
-  "description": "A Crafted Armor set constructed in West Weald.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    205766
-  ]
-}
+{"internalId":2001637726,"name":"Tharriker's Strike Heavy Armor","description":"A Crafted Armor set constructed in West Weald.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[205766]}

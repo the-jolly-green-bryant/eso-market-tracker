@@ -1,10 +1,1 @@
-{
-  "internalId": 2204352893,
-  "name": "Copper Soup Ladle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    421989
-  ]
-}
+{"internalId":2204352893,"name":"Copper Soup Ladle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[421989]}

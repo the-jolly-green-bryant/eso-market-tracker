@@ -1,13 +1,1 @@
-{
-  "internalId": 2217736435,
-  "name": "Amulet of the Depths",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1586437,
-    1586992,
-    1586437,
-    1586992
-  ]
-}
+{"internalId":2217736435,"name":"Amulet of the Depths","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1586437,1586992,1586437,1586992]}

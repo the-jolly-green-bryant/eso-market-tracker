@@ -1,10 +1,1 @@
-{
-  "internalId": 648823929,
-  "name": "Sword of Torug's Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56490
-  ]
-}
+{"internalId":648823929,"name":"Sword of Torug's Pact","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[56490]}

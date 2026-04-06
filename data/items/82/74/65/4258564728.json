@@ -1,11 +1,1 @@
-{
-  "internalId": 4258564728,
-  "name": "Fend-Em-Off Insect Repellent",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_potion_002.png",
-  "bindType": -1,
-  "knownIds": [
-    906021,
-    906021
-  ]
-}
+{"internalId":4258564728,"name":"Fend-Em-Off Insect Repellent","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_potion_002.png","bindType":-1,"knownIds":[906021,906021]}

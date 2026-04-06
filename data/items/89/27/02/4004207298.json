@@ -1,10 +1,1 @@
-{
-  "internalId": 4004207298,
-  "name": "Craglorn Treasure Map II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43722
-  ]
-}
+{"internalId":4004207298,"name":"Craglorn Treasure Map II","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43722]}

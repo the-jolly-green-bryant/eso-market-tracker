@@ -1,10 +1,1 @@
-{
-  "internalId": 2192792521,
-  "name": "King's Snug Girdle",
-  "description": "Chief Bazrag gave you this sturdy belt in thanks for exposing the plot against the clan chiefs at the king's Moot.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    71003
-  ]
-}
+{"internalId":2192792521,"name":"King's Snug Girdle","description":"Chief Bazrag gave you this sturdy belt in thanks for exposing the plot against the clan chiefs at the king's Moot.","icon":"data/images/d_/ts/ia/gear_orc_heavy_waist_d.png","bindType":2,"knownIds":[71003]}

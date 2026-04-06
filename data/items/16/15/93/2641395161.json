@@ -1,10 +1,1 @@
-{
-  "internalId": 2641395161,
-  "name": "Sealed Box of Disposable Napkins",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1241595
-  ]
-}
+{"internalId":2641395161,"name":"Sealed Box of Disposable Napkins","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[1241595]}

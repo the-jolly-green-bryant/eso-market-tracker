@@ -1,10 +1,1 @@
-{
-  "internalId": 38757318,
-  "name": "Glorious Anniversary Jubilee Gift Box",
-  "description": "This glorious box contains a variety of crafting-related materials, intended for celebrants of the Anniversary Jubilee.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    204459
-  ]
-}
+{"internalId":38757318,"name":"Glorious Anniversary Jubilee Gift Box","description":"This glorious box contains a variety of crafting-related materials, intended for celebrants of the Anniversary Jubilee.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[204459]}

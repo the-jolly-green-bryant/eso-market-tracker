@@ -1,13 +1,1 @@
-{
-  "internalId": 1610152667,
-  "name": "Grimtooth's Annihilation Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    634028,
-    559176,
-    634028,
-    559176
-  ]
-}
+{"internalId":1610152667,"name":"Grimtooth's Annihilation Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_d.png","bindType":-1,"knownIds":[634028,559176,634028,559176]}

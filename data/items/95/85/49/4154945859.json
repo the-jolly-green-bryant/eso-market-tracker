@@ -1,10 +1,1 @@
-{
-  "internalId": 4154945859,
-  "name": "Chimera's Rebuke Jewelry",
-  "description": "A Crafted Armor set constructed in Galen.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    191607
-  ]
-}
+{"internalId":4154945859,"name":"Chimera's Rebuke Jewelry","description":"A Crafted Armor set constructed in Galen.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[191607]}

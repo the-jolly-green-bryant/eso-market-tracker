@@ -1,10 +1,1 @@
-{
-  "internalId": 2252786077,
-  "name": "Crafting Motif 67: Welkynar Boots",
-  "description": "Use to learn how to make Welkynar Boots. Also teaches the equivalent Welkynar outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140499
-  ]
-}
+{"internalId":2252786077,"name":"Crafting Motif 67: Welkynar Boots","description":"Use to learn how to make Welkynar Boots. Also teaches the equivalent Welkynar outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140499]}

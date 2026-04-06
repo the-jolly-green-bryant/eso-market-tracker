@@ -1,17 +1,1 @@
-{
-  "internalId": 2583386548,
-  "name": "Perfected Yolnahkriin's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1343181,
-    1617599,
-    1629276,
-    1716100,
-    1343181,
-    1617599,
-    1629276,
-    1716100
-  ]
-}
+{"internalId":2583386548,"name":"Perfected Yolnahkriin's Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2haxe_a.png","bindType":-1,"knownIds":[1343181,1617599,1629276,1716100,1343181,1617599,1629276,1716100]}

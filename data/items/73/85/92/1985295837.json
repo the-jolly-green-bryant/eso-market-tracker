@@ -1,10 +1,1 @@
-{
-  "internalId": 1985295837,
-  "name": "Dreamer's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98120
-  ]
-}
+{"internalId":1985295837,"name":"Dreamer's Breeches","description":"","icon":"data/images/d_/sg/el/gear_altmer_light_legs_d.png","bindType":2,"knownIds":[98120]}

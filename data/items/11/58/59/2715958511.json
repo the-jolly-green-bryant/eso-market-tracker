@@ -1,10 +1,1 @@
-{
-  "internalId": 2715958511,
-  "name": "Champion of the Hist Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_2hmace_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142382
-  ]
-}
+{"internalId":2715958511,"name":"Champion of the Hist Maul","description":"","icon":"data/images/a_/ec/am/gear_elderarg_2hmace_a.png","bindType":2,"knownIds":[142382]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3394428131,
-  "name": "Scorpion Barb Sewing Needle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_hands_002.png",
-  "bindType": -1,
-  "knownIds": [
-    780881
-  ]
-}
+{"internalId":3394428131,"name":"Scorpion Barb Sewing Needle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_hands_002.png","bindType":-1,"knownIds":[780881]}

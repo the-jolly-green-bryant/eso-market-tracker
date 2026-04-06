@@ -1,10 +1,1 @@
-{
-  "internalId": 3551846517,
-  "name": "Gnawed Bone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/monster_skeleton_arm_bone_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57659
-  ]
-}
+{"internalId":3551846517,"name":"Gnawed Bone","description":"","icon":"data/images/10/0_/en/monster_skeleton_arm_bone_001.png","bindType":-1,"knownIds":[57659]}

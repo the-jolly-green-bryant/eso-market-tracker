@@ -1,10 +1,1 @@
-{
-  "internalId": 2199948845,
-  "name": "Dominion Oil Catapult of Vengeance",
-  "description": "Creates a catapult siege weapon that fires a jar of oil at its targets, ensnaring them and draining their Stamina.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_003.png",
-  "bindType": -1,
-  "knownIds": [
-    223688
-  ]
-}
+{"internalId":2199948845,"name":"Dominion Oil Catapult of Vengeance","description":"Creates a catapult siege weapon that fires a jar of oil at its targets, ensnaring them and draining their Stamina.","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_ui_003.png","bindType":-1,"knownIds":[223688]}

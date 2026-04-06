@@ -1,10 +1,1 @@
-{
-  "internalId": 4036246779,
-  "name": "Diagram: Orcish Lantern, Hooded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    119029
-  ]
-}
+{"internalId":4036246779,"name":"Diagram: Orcish Lantern, Hooded","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[119029]}

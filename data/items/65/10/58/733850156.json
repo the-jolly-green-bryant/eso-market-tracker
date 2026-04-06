@@ -1,10 +1,1 @@
-{
-  "internalId": 733850156,
-  "name": "Iron Ingot",
-  "description": "An ingredient for crafting metal weapons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_base_iron_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    5413
-  ]
-}
+{"internalId":733850156,"name":"Iron Ingot","description":"An ingredient for crafting metal weapons.","icon":"data/images/2r/_n/or/crafting_ore_base_iron_r2.png","bindType":-1,"knownIds":[5413]}

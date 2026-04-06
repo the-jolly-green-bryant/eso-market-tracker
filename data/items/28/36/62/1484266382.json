@@ -1,10 +1,1 @@
-{
-  "internalId": 1484266382,
-  "name": "Snake in the Stars Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194010
-  ]
-}
+{"internalId":1484266382,"name":"Snake in the Stars Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[194010]}

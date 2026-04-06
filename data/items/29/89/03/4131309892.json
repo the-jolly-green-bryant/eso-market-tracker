@@ -1,10 +1,1 @@
-{
-  "internalId": 4131309892,
-  "name": "Maul of the Veiled Heritance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94400
-  ]
-}
+{"internalId":4131309892,"name":"Maul of the Veiled Heritance","description":"","icon":"data/images/d_/re/mm/gear_altmer_2hhammer_d.png","bindType":2,"knownIds":[94400]}

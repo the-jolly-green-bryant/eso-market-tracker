@@ -1,10 +1,1 @@
-{
-  "internalId": 895300752,
-  "name": "Death's Wind Medium Armor",
-  "description": "A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182373
-  ]
-}
+{"internalId":895300752,"name":"Death's Wind Medium Armor","description":"A Crafted Armor set constructed in Auridon, Glenumbra, and Stonefalls.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182373]}

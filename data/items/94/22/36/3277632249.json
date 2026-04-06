@@ -1,10 +1,1 @@
-{
-  "internalId": 3277632249,
-  "name": "Imperial Carpet, Gilded Dibella",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_col_inc_dbhrugdibellarectangularflower001.png",
-  "bindType": -1,
-  "knownIds": [
-    94188
-  ]
-}
+{"internalId":3277632249,"name":"Imperial Carpet, Gilded Dibella","description":"This is a standard house item.","icon":"data/images/10/0r/ew/housing_col_inc_dbhrugdibellarectangularflower001.png","bindType":-1,"knownIds":[94188]}

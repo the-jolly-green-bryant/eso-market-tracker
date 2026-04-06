@@ -1,10 +1,1 @@
-{
-  "internalId": 702833194,
-  "name": "Pauldron of the Undaunted Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    58726
-  ]
-}
+{"internalId":702833194,"name":"Pauldron of the Undaunted Bastion","description":"","icon":"data/images/d_/sr/ed/gear_breton_heavy_shoulders_d.png","bindType":2,"knownIds":[58726]}

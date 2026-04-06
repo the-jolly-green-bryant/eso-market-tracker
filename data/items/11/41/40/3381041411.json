@@ -1,10 +1,1 @@
-{
-  "internalId": 3381041411,
-  "name": "Bug Parts",
-  "description": "Use to make Mixed Grill",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_beetle.png",
-  "bindType": -1,
-  "knownIds": [
-    34320
-  ]
-}
+{"internalId":3381041411,"name":"Bug Parts","description":"Use to make Mixed Grill","icon":"data/images/el/te/eb/crafting_fishing_beetle.png","bindType":-1,"knownIds":[34320]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2167753524,
-  "name": "Western Skyrim Treasure Map I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    166040
-  ]
-}
+{"internalId":2167753524,"name":"Western Skyrim Treasure Map I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[166040]}

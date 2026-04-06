@@ -1,10 +1,1 @@
-{
-  "internalId": 2805455862,
-  "name": "Andule's Cuirass of the Defiler",
-  "description": "You helped Librarian Bradyn find the Lost Library of Andule. In thanks, he gave you this ancient Dark Elf cuirass.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126069
-  ]
-}
+{"internalId":2805455862,"name":"Andule's Cuirass of the Defiler","description":"You helped Librarian Bradyn find the Lost Library of Andule. In thanks, he gave you this ancient Dark Elf cuirass.","icon":"data/images/a_/ts/eh/gear_redoran_medium_chest_a.png","bindType":2,"knownIds":[126069]}

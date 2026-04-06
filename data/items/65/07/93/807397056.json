@@ -1,10 +1,1 @@
-{
-  "internalId": 807397056,
-  "name": "Alik'ri Glassware",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    552115
-  ]
-}
+{"internalId":807397056,"name":"Alik'ri Glassware","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[552115]}

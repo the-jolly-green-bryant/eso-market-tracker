@@ -1,10 +1,1 @@
-{
-  "internalId": 4020418765,
-  "name": "Incinerator's Glass Splinter",
-  "description": "Acquire and use the Incinerator's Glass Splinter along with the other nine Windglass Splinters to unlock the Relic Wind Slicer achievement as well as the Windglass relic and memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": 3,
-  "knownIds": [
-    223816
-  ]
-}
+{"internalId":4020418765,"name":"Incinerator's Glass Splinter","description":"Acquire and use the Incinerator's Glass Splinter along with the other nine Windglass Splinters to unlock the Relic Wind Slicer achievement as well as the Windglass relic and memento.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":3,"knownIds":[223816]}

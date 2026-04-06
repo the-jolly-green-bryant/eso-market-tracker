@@ -1,10 +1,1 @@
-{
-  "internalId": 961467122,
-  "name": "Electrum Ounce",
-  "description": "An ingredient for crafting jewelry.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_electrum_refined.png",
-  "bindType": -1,
-  "knownIds": [
-    135144
-  ]
-}
+{"internalId":961467122,"name":"Electrum Ounce","description":"An ingredient for crafting jewelry.","icon":"data/images/de/ni/fe/crafting_electrum_refined.png","bindType":-1,"knownIds":[135144]}

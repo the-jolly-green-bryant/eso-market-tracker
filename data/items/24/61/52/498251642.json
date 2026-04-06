@@ -1,10 +1,1 @@
-{
-  "internalId": 498251642,
-  "name": "Soapstone Snuff Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    828107
-  ]
-}
+{"internalId":498251642,"name":"Soapstone Snuff Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[828107]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2550979857,
-  "name": "Runebox: Xivkyn Tormentor",
-  "description": "Contains a Xivkyn Tormentor Polymorph. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
-  "bindType": -1,
-  "knownIds": [
-    79330
-  ]
-}
+{"internalId":2550979857,"name":"Runebox: Xivkyn Tormentor","description":"Contains a Xivkyn Tormentor Polymorph. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.","icon":"data/images/10/0_/hp/container_sealed_polymorph_001.png","bindType":-1,"knownIds":[79330]}

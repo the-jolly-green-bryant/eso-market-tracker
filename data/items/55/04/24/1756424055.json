@@ -1,10 +1,1 @@
-{
-  "internalId": 1756424055,
-  "name": "Maul of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179145
-  ]
-}
+{"internalId":1756424055,"name":"Maul of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[179145]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 4131439045,
-  "name": "Nunatak's Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undfrostatronachv2_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1775742,
-    1775857,
-    1775742,
-    1775857,
-    1775742,
-    1775857
-  ]
-}
+{"internalId":4131439045,"name":"Nunatak's Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undfrostatronachv2_shoulder_a.png","bindType":-1,"knownIds":[1775742,1775857,1775742,1775857,1775742,1775857]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1710468908,
-  "name": "Prettifying Night Cream",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851521
-  ]
-}
+{"internalId":1710468908,"name":"Prettifying Night Cream","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[851521]}

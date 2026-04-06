@@ -1,10 +1,1 @@
-{
-  "internalId": 3724525293,
-  "name": "Murky Sourflower Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_002.png",
-  "bindType": -1,
-  "knownIds": [
-    32074
-  ]
-}
+{"internalId":3724525293,"name":"Murky Sourflower Tea","description":"","icon":"data/images/20/0_/ae/crafting_tea_002.png","bindType":-1,"knownIds":[32074]}

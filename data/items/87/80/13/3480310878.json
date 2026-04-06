@@ -1,10 +1,1 @@
-{
-  "internalId": 3480310878,
-  "name": "Cirterisse's Vampiric Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    613318
-  ]
-}
+{"internalId":3480310878,"name":"Cirterisse's Vampiric Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png","bindType":-1,"knownIds":[613318]}

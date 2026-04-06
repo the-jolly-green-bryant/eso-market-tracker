@@ -1,10 +1,1 @@
-{
-  "internalId": 397175953,
-  "name": "Winged Serving Tray",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_akaviri_armistice_banquet_tray.png",
-  "bindType": -1,
-  "knownIds": [
-    1240645
-  ]
-}
+{"internalId":397175953,"name":"Winged Serving Tray","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_akaviri_armistice_banquet_tray.png","bindType":-1,"knownIds":[1240645]}

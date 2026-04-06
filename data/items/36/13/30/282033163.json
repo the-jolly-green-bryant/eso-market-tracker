@@ -1,10 +1,1 @@
-{
-  "internalId": 282033163,
-  "name": "Imperial Rug, Stars",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_ruground003.png",
-  "bindType": -1,
-  "knownIds": [
-    94119
-  ]
-}
+{"internalId":282033163,"name":"Imperial Rug, Stars","description":"This is a standard house item.","icon":"data/images/30/0d/nu/housing_imp_inc_ruground003.png","bindType":-1,"knownIds":[94119]}

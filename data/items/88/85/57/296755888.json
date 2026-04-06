@@ -1,10 +1,1 @@
-{
-  "internalId": 296755888,
-  "name": "Broken Necklace",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    806795
-  ]
-}
+{"internalId":296755888,"name":"Broken Necklace","description":"","icon":null,"bindType":-1,"knownIds":[806795]}

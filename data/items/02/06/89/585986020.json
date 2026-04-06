@@ -1,10 +1,1 @@
-{
-  "internalId": 585986020,
-  "name": "Bloodshark's Cutlass",
-  "description": "Brauti Bloodshark's cutlass is razor sharp. Several splotchy stains mar the blade itself.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1715
-  ]
-}
+{"internalId":585986020,"name":"Bloodshark's Cutlass","description":"Brauti Bloodshark's cutlass is razor sharp. Several splotchy stains mar the blade itself.","icon":"data/images/d_/dr/ow/gear_khajiit_1hsword_d.png","bindType":2,"knownIds":[1715]}

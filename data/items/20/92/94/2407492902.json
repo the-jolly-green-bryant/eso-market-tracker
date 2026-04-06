@@ -1,10 +1,1 @@
-{
-  "internalId": 2407492902,
-  "name": "Ring of the Fallen Wastes",
-  "description": "Etched with the likeness of Sep, this ring was your reward for the long trek to track down Septima Tharn in Bangkorai.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54480
-  ]
-}
+{"internalId":2407492902,"name":"Ring of the Fallen Wastes","description":"Etched with the likeness of Sep, this ring was your reward for the long trek to track down Septima Tharn in Bangkorai.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[54480]}

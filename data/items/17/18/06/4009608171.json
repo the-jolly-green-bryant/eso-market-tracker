@@ -1,10 +1,1 @@
-{
-  "internalId": 4009608171,
-  "name": "Sanguine Lamprey",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png",
-  "bindType": -1,
-  "knownIds": [
-    1379257
-  ]
-}
+{"internalId":4009608171,"name":"Sanguine Lamprey","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_trophy_eel.png","bindType":-1,"knownIds":[1379257]}

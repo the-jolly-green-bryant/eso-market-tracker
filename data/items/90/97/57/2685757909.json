@@ -1,10 +1,1 @@
-{
-  "internalId": 2685757909,
-  "name": "Breton Lightpost, Single",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_lsb_postlightbaseless001.png",
-  "bindType": -1,
-  "knownIds": [
-    115174
-  ]
-}
+{"internalId":2685757909,"name":"Breton Lightpost, Single","description":"This is a standard house item.","icon":"data/images/10/0s/se/housing_bre_lsb_postlightbaseless001.png","bindType":-1,"knownIds":[115174]}

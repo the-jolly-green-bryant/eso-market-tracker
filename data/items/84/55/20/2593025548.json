@@ -1,10 +1,1 @@
-{
-  "internalId": 2593025548,
-  "name": "Cherrywood Spoon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240693
-  ]
-}
+{"internalId":2593025548,"name":"Cherrywood Spoon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[1240693]}

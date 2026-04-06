@@ -1,10 +1,1 @@
-{
-  "internalId": 353733875,
-  "name": "Three Queens Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214679
-  ]
-}
+{"internalId":353733875,"name":"Three Queens Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png","bindType":2,"knownIds":[214679]}

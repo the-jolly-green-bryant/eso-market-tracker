@@ -1,10 +1,1 @@
-{
-  "internalId": 4003158396,
-  "name": "Aetherial Ambrosia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumeable_experience_002.png",
-  "bindType": -1,
-  "knownIds": [
-    120076
-  ]
-}
+{"internalId":4003158396,"name":"Aetherial Ambrosia","description":"","icon":"data/images/20/0_/ec/consumeable_experience_002.png","bindType":-1,"knownIds":[120076]}

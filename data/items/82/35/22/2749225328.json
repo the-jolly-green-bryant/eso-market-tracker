@@ -1,10 +1,1 @@
-{
-  "internalId": 2749225328,
-  "name": "Kragenmoor Pickled Pumpkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57086
-  ]
-}
+{"internalId":2749225328,"name":"Kragenmoor Pickled Pumpkin","description":"","icon":"data/images/20/0_/we/crafting_stew_002.png","bindType":-1,"knownIds":[57086]}

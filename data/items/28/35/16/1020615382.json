@@ -1,10 +1,1 @@
-{
-  "internalId": 1020615382,
-  "name": "Achievement Furnishings: S. Elsweyr, W. Skyrim",
-  "description": "This Crate contains all of the Achievement Furnishings from vendors in Southern Elsweyr & Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    214275
-  ]
-}
+{"internalId":1020615382,"name":"Achievement Furnishings: S. Elsweyr, W. Skyrim","description":"This Crate contains all of the Achievement Furnishings from vendors in Southern Elsweyr & Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":3,"knownIds":[214275]}

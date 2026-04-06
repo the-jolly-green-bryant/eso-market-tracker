@@ -1,10 +1,1 @@
-{
-  "internalId": 1267967107,
-  "name": "Pattern: Orcish Banner, Faded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    119030
-  ]
-}
+{"internalId":1267967107,"name":"Pattern: Orcish Banner, Faded","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[119030]}

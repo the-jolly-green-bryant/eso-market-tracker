@@ -1,10 +1,1 @@
-{
-  "internalId": 1925289580,
-  "name": "Etched Nickel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/style_item_ancientimperial.png",
-  "bindType": -1,
-  "knownIds": [
-    170147
-  ]
-}
+{"internalId":1925289580,"name":"Etched Nickel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/style_item_ancientimperial.png","bindType":-1,"knownIds":[170147]}

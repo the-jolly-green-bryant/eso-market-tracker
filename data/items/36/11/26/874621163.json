@@ -1,10 +1,1 @@
-{
-  "internalId": 874621163,
-  "name": "Glittering Belt of Tribute",
-  "description": "A fortified belt covered with strange jewels and gems, given to you by the Duke of Crows for assisting the Blackfeather Court in Blackwood.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    174856
-  ]
-}
+{"internalId":874621163,"name":"Glittering Belt of Tribute","description":"A fortified belt covered with strange jewels and gems, given to you by the Duke of Crows for assisting the Blackfeather Court in Blackwood.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_waist_a.png","bindType":2,"knownIds":[174856]}

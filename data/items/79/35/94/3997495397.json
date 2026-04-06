@@ -1,10 +1,1 @@
-{
-  "internalId": 3997495397,
-  "name": "Innate Axiom Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    130704
-  ]
-}
+{"internalId":3997495397,"name":"Innate Axiom Girdle","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[130704]}

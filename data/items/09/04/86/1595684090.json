@@ -1,15 +1,1 @@
-{
-  "internalId": 1595684090,
-  "name": "steel greaves of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    457239,
-    580279,
-    788889,
-    457239,
-    580279,
-    788889
-  ]
-}
+{"internalId":1595684090,"name":"steel greaves of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png","bindType":-1,"knownIds":[457239,580279,788889,457239,580279,788889]}

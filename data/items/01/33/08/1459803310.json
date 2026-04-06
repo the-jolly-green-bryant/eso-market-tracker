@@ -1,10 +1,1 @@
-{
-  "internalId": 1459803310,
-  "name": "Style Page: Eldertide Arm Cops",
-  "description": "Use to learn the Eldertide Arm Cops Outfit Style. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    192469
-  ]
-}
+{"internalId":1459803310,"name":"Style Page: Eldertide Arm Cops","description":"Use to learn the Eldertide Arm Cops Outfit Style. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[192469]}

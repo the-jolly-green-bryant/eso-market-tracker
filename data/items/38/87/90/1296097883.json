@@ -1,10 +1,1 @@
-{
-  "internalId": 1296097883,
-  "name": "Stone-Nest Decor, Bismuth Carved Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_lsb_ducbismuthwalldecor001.png",
-  "bindType": -1,
-  "knownIds": [
-    220341
-  ]
-}
+{"internalId":1296097883,"name":"Stone-Nest Decor, Bismuth Carved Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_lsb_ducbismuthwalldecor001.png","bindType":-1,"knownIds":[220341]}

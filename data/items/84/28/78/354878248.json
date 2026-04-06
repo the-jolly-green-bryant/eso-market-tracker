@@ -1,10 +1,1 @@
-{
-  "internalId": 354878248,
-  "name": "Noble Duelist's Silks",
-  "description": "A Light Armor set found in Blessed Crucible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134111
-  ]
-}
+{"internalId":354878248,"name":"Noble Duelist's Silks","description":"A Light Armor set found in Blessed Crucible.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134111]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1761820254,
-  "name": "Praxis: Clockwork Illuminator, Compact Stand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    134539
-  ]
-}
+{"internalId":1761820254,"name":"Praxis: Clockwork Illuminator, Compact Stand","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[134539]}

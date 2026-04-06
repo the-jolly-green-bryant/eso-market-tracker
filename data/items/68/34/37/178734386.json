@@ -1,10 +1,1 @@
-{
-  "internalId": 178734386,
-  "name": "Steadfast's Mettle Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186228
-  ]
-}
+{"internalId":178734386,"name":"Steadfast's Mettle Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_dagger_a.png","bindType":2,"knownIds":[186228]}

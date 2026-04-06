@@ -1,10 +1,1 @@
-{
-  "internalId": 2385279649,
-  "name": "Coffee",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_coffee_beans.png",
-  "bindType": -1,
-  "knownIds": [
-    33772
-  ]
-}
+{"internalId":2385279649,"name":"Coffee","description":"An ingredient for crafting beverages.","icon":"data/images/sn/ae/b_/crafting_coffee_beans.png","bindType":-1,"knownIds":[33772]}

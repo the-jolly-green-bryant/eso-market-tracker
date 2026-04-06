@@ -1,10 +1,1 @@
-{
-  "internalId": 3971680678,
-  "name": "Xanmeer Genesis Weapons",
-  "description": "An All Weights Armor set found in Solstice.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    223564
-  ]
-}
+{"internalId":3971680678,"name":"Xanmeer Genesis Weapons","description":"An All Weights Armor set found in Solstice.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[223564]}

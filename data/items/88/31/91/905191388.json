@@ -1,10 +1,1 @@
-{
-  "internalId": 905191388,
-  "name": "Werewolf Blood",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    818934
-  ]
-}
+{"internalId":905191388,"name":"Werewolf Blood","description":"","icon":null,"bindType":-1,"knownIds":[818934]}

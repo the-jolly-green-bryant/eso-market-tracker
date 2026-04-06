@@ -1,15 +1,1 @@
-{
-  "internalId": 3451692134,
-  "name": "Wrathsun Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678323,
-    1692898,
-    1737608,
-    1678323,
-    1692898,
-    1737608
-  ]
-}
+{"internalId":3451692134,"name":"Wrathsun Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_feet_a.png","bindType":-1,"knownIds":[1678323,1692898,1737608,1678323,1692898,1737608]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3966345502,
-  "name": "Murky Green Scourgut Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37885
-  ]
-}
+{"internalId":3966345502,"name":"Murky Green Scourgut Tea","description":"","icon":"data/images/10/0_/ae/crafting_tea_001.png","bindType":-1,"knownIds":[37885]}

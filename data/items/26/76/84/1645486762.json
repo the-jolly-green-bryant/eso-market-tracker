@@ -1,10 +1,1 @@
-{
-  "internalId": 1645486762,
-  "name": "Shard of Writhing Bone",
-  "description": "Consume 25 Shards of Writhing Bone to unlock the Skill Stylist: Caltrops achievement and the Caltrops, Bone Skill Style!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_bonesharddarkblue.png",
-  "bindType": -1,
-  "knownIds": [
-    219782
-  ]
-}
+{"internalId":1645486762,"name":"Shard of Writhing Bone","description":"Consume 25 Shards of Writhing Bone to unlock the Skill Stylist: Caltrops achievement and the Caltrops, Bone Skill Style!","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_bonesharddarkblue.png","bindType":-1,"knownIds":[219782]}

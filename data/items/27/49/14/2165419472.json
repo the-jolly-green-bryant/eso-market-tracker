@@ -1,13 +1,1 @@
-{
-  "internalId": 2165419472,
-  "name": "Vandorallen's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748953,
-    1758518,
-    1748953,
-    1758518
-  ]
-}
+{"internalId":2165419472,"name":"Vandorallen's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_staff_a.png","bindType":-1,"knownIds":[1748953,1758518,1748953,1758518]}

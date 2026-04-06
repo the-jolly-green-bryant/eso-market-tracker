@@ -1,10 +1,1 @@
-{
-  "internalId": 2651332357,
-  "name": "Leyawiin Pot, Domed",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyplantpot002.png",
-  "bindType": -1,
-  "knownIds": [
-    175664
-  ]
-}
+{"internalId":2651332357,"name":"Leyawiin Pot, Domed","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyplantpot002.png","bindType":-1,"knownIds":[175664]}

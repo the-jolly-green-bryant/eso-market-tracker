@@ -1,10 +1,1 @@
-{
-  "internalId": 395218627,
-  "name": "Plumed Quill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    811197
-  ]
-}
+{"internalId":395218627,"name":"Plumed Quill","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[811197]}

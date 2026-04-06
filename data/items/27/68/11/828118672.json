@@ -1,10 +1,1 @@
-{
-  "internalId": 828118672,
-  "name": "Diagram: Nord Streetlamps, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    116211
-  ]
-}
+{"internalId":828118672,"name":"Diagram: Nord Streetlamps, Stone","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[116211]}

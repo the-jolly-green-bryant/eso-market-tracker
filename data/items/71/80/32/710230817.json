@@ -1,10 +1,1 @@
-{
-  "internalId": 710230817,
-  "name": "Numidium Brandy Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    417697
-  ]
-}
+{"internalId":710230817,"name":"Numidium Brandy Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[417697]}

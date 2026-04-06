@@ -1,10 +1,1 @@
-{
-  "internalId": 4273558889,
-  "name": "Fargrave Bread, Round Loaves",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodbread001.png",
-  "bindType": -1,
-  "knownIds": [
-    182231
-  ]
-}
+{"internalId":4273558889,"name":"Fargrave Bread, Round Loaves","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedfoodbread001.png","bindType":-1,"knownIds":[182231]}

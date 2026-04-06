@@ -1,10 +1,1 @@
-{
-  "internalId": 1586644501,
-  "name": "Gorethief Light Armor",
-  "description": "An All Weights Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    224657
-  ]
-}
+{"internalId":1586644501,"name":"Gorethief Light Armor","description":"An All Weights Armor set found in Cyrodiil.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[224657]}

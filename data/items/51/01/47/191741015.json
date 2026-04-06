@@ -1,10 +1,1 @@
-{
-  "internalId": 191741015,
-  "name": "Chimera's Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191588
-  ]
-}
+{"internalId":191741015,"name":"Chimera's Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png","bindType":2,"knownIds":[191588]}

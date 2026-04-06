@@ -1,10 +1,1 @@
-{
-  "internalId": 118242161,
-  "name": "War Maiden's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122950
-  ]
-}
+{"internalId":118242161,"name":"War Maiden's Ice Staff","description":"","icon":"data/images/a_/ff/at/gear_telvanni_staff_a.png","bindType":2,"knownIds":[122950]}

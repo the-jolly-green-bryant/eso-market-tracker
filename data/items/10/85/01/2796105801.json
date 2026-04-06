@@ -1,10 +1,1 @@
-{
-  "internalId": 2796105801,
-  "name": "Magpie's Tapestry Piece",
-  "description": "A stolen scrap from a priceless Khajiit tapestry. Return this to Bebbia Sleek-Fur in Senchal Palace, in Southern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_void.png",
-  "bindType": 3,
-  "knownIds": [
-    153466
-  ]
-}
+{"internalId":2796105801,"name":"Magpie's Tapestry Piece","description":"A stolen scrap from a priceless Khajiit tapestry. Return this to Bebbia Sleek-Fur in Senchal Palace, in Southern Elsweyr.","icon":"data/images/di/ov/_h/crafting_cloth_void.png","bindType":3,"knownIds":[153466]}

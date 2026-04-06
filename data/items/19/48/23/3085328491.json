@@ -1,10 +1,1 @@
-{
-  "internalId": 3085328491,
-  "name": "Tide-Born Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215843
-  ]
-}
+{"internalId":3085328491,"name":"Tide-Born Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[215843]}

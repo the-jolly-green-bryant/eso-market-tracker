@@ -1,10 +1,1 @@
-{
-  "internalId": 966543453,
-  "name": "The Vicecanon's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78385
-  ]
-}
+{"internalId":966543453,"name":"The Vicecanon's Gloves","description":"","icon":"data/images/d_/sd/na/gear_argonian_light_hands_d.png","bindType":2,"knownIds":[78385]}

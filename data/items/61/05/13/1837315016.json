@@ -1,10 +1,1 @@
-{
-  "internalId": 1837315016,
-  "name": "Congealed Jerall View Inn Carrot Cake",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cake_002.png",
-  "bindType": -1,
-  "knownIds": [
-    32120
-  ]
-}
+{"internalId":1837315016,"name":"Congealed Jerall View Inn Carrot Cake","description":"","icon":"data/images/20/0_/ek/crafting_cake_002.png","bindType":-1,"knownIds":[32120]}

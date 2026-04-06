@@ -1,10 +1,1 @@
-{
-  "internalId": 1720500926,
-  "name": "Bow of Martial Knowledge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95608
-  ]
-}
+{"internalId":1720500926,"name":"Bow of Martial Knowledge","description":"","icon":"data/images/a_/wo/b_/gear_yokudan_bow_a.png","bindType":2,"knownIds":[95608]}

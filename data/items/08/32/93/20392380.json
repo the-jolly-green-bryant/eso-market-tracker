@@ -1,10 +1,1 @@
-{
-  "internalId": 20392380,
-  "name": "Unidentified Armor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    44891
-  ]
-}
+{"internalId":20392380,"name":"Unidentified Armor","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[44891]}

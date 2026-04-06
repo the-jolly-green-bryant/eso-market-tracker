@@ -1,10 +1,1 @@
-{
-  "internalId": 1966085191,
-  "name": "Mudcrab-Shaped Dustpan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_tools_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909691
-  ]
-}
+{"internalId":1966085191,"name":"Mudcrab-Shaped Dustpan","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_tools_001.png","bindType":-1,"knownIds":[909691]}

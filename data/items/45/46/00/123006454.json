@@ -1,10 +1,1 @@
-{
-  "internalId": 123006454,
-  "name": "Diagram: Clockwork Somnolostation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    134501
-  ]
-}
+{"internalId":123006454,"name":"Diagram: Clockwork Somnolostation","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[134501]}

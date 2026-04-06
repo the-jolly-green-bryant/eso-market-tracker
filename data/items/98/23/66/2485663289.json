@@ -1,10 +1,1 @@
-{
-  "internalId": 2485663289,
-  "name": "Armory Keystone",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819814
-  ]
-}
+{"internalId":2485663289,"name":"Armory Keystone","description":"","icon":null,"bindType":-1,"knownIds":[819814]}

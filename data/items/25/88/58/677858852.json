@@ -1,10 +1,1 @@
-{
-  "internalId": 677858852,
-  "name": "Homespun Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    178774
-  ]
-}
+{"internalId":677858852,"name":"Homespun Robe","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150783]}

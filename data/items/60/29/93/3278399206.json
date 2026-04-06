@@ -1,10 +1,1 @@
-{
-  "internalId": 3278399206,
-  "name": "Rallying Cry Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    183397
-  ]
-}
+{"internalId":3278399206,"name":"Rallying Cry Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":2,"knownIds":[183397]}

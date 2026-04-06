@@ -1,10 +1,1 @@
-{
-  "internalId": 3912992326,
-  "name": "Crafting Motif 79: Refabricated Shields",
-  "description": "Use to learn how to make Refabricated Shields. Also teaches the equivalent Refabricated Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    130037
-  ]
-}
+{"internalId":3912992326,"name":"Crafting Motif 79: Refabricated Shields","description":"Use to learn how to make Refabricated Shields. Also teaches the equivalent Refabricated Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[130037]}

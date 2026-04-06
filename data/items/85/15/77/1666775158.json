@@ -1,15 +1,1 @@
-{
-  "internalId": 1666775158,
-  "name": "Tools of the Trapmaster Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1770282,
-    1779681,
-    1780265,
-    1770282,
-    1779681,
-    1780265
-  ]
-}
+{"internalId":1666775158,"name":"Tools of the Trapmaster Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_chest_a.png","bindType":-1,"knownIds":[1770282,1779681,1780265,1770282,1779681,1780265]}

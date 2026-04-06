@@ -1,10 +1,1 @@
-{
-  "internalId": 62562345,
-  "name": "Silver Vial of Alit Horn Powder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    912286
-  ]
-}
+{"internalId":62562345,"name":"Silver Vial of Alit Horn Powder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[912286]}

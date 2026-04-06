@@ -1,10 +1,1 @@
-{
-  "internalId": 2766901562,
-  "name": "Spriggan's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100742
-  ]
-}
+{"internalId":2766901562,"name":"Spriggan's Jack","description":"","icon":"data/images/d_/ts/eh/gear_bosmer_medium_chest_d.png","bindType":2,"knownIds":[100742]}

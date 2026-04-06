@@ -1,10 +1,1 @@
-{
-  "internalId": 427200730,
-  "name": "Crafting Motif 67: Welkynar Gloves",
-  "description": "Use to learn how to make Welkynar Gloves. Also teaches the equivalent Welkynar outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    140503
-  ]
-}
+{"internalId":427200730,"name":"Crafting Motif 67: Welkynar Gloves","description":"Use to learn how to make Welkynar Gloves. Also teaches the equivalent Welkynar outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[140503]}

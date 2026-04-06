@@ -1,10 +1,1 @@
-{
-  "internalId": 3636140263,
-  "name": "insect parts",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_torchbug.png",
-  "bindType": -1,
-  "knownIds": [
-    363946
-  ]
-}
+{"internalId":3636140263,"name":"insect parts","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_torchbug.png","bindType":-1,"knownIds":[363946]}

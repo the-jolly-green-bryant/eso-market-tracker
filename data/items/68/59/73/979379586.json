@@ -1,10 +1,1 @@
-{
-  "internalId": 979379586,
-  "name": "Death-Dancer Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214847
-  ]
-}
+{"internalId":979379586,"name":"Death-Dancer Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png","bindType":2,"knownIds":[214847]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3971495099,
-  "name": "Covenant's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54427
-  ]
-}
+{"internalId":3971495099,"name":"Covenant's Breeches","description":"","icon":"data/images/a_/sg/el/gear_akaviri_light_legs_a.png","bindType":2,"knownIds":[54427]}

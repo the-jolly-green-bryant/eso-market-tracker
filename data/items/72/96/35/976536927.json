@@ -1,10 +1,1 @@
-{
-  "internalId": 976536927,
-  "name": "Werewolf Hide Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_2hhammer_c.png",
-  "bindType": 2,
-  "knownIds": [
-    86152
-  ]
-}
+{"internalId":976536927,"name":"Werewolf Hide Maul","description":"","icon":"data/images/c_/re/mm/gear_primative_2hhammer_c.png","bindType":2,"knownIds":[86152]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3597097512,
-  "name": "Glyph of Poison Resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_poisonresist.png",
-  "bindType": -1,
-  "knownIds": [
-    26586
-  ]
-}
+{"internalId":3597097512,"name":"Glyph of Poison Resist","description":"","icon":"data/images/ts/is/er/enchantment_jewelry_poisonresist.png","bindType":-1,"knownIds":[26586]}

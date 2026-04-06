@@ -1,10 +1,1 @@
-{
-  "internalId": 440379801,
-  "name": "Tree, Giant Oak",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oak002.png",
-  "bindType": -1,
-  "knownIds": [
-    204758
-  ]
-}
+{"internalId":440379801,"name":"Tree, Giant Oak","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_oak002.png","bindType":-1,"knownIds":[204758]}

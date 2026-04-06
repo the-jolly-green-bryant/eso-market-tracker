@@ -1,17 +1,1 @@
-{
-  "internalId": 1949492763,
-  "name": "Nobility in Decay Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678995,
-    1686957,
-    1692237,
-    1692705,
-    1678995,
-    1686957,
-    1692237,
-    1692705
-  ]
-}
+{"internalId":1949492763,"name":"Nobility in Decay Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_legs_a.png","bindType":-1,"knownIds":[1678995,1686957,1692237,1692705,1678995,1686957,1692237,1692705]}

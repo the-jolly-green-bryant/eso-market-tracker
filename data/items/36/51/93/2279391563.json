@@ -1,10 +1,1 @@
-{
-  "internalId": 2279391563,
-  "name": "Mournhold Memento Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    790592
-  ]
-}
+{"internalId":2279391563,"name":"Mournhold Memento Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[790592]}

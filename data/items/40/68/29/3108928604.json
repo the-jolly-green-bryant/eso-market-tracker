@@ -1,10 +1,1 @@
-{
-  "internalId": 3108928604,
-  "name": "Orsinium Well, Snowy Grated",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_str_snowwtgwellgrate001.png",
-  "bindType": -1,
-  "knownIds": [
-    192578
-  ]
-}
+{"internalId":3108928604,"name":"Orsinium Well, Snowy Grated","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_str_snowwtgwellgrate001.png","bindType":-1,"knownIds":[192578]}

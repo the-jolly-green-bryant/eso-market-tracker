@@ -1,10 +1,1 @@
-{
-  "internalId": 626656641,
-  "name": "Helmet of the Twin Sisters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92423
-  ]
-}
+{"internalId":626656641,"name":"Helmet of the Twin Sisters","description":"","icon":"data/images/d_/da/eh/gear_breton_medium_head_d.png","bindType":2,"knownIds":[92423]}

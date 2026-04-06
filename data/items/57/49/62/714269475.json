@@ -1,10 +1,1 @@
-{
-  "internalId": 714269475,
-  "name": "Alinor Windowbox, Purple Wisteria",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_exc_housingplanter002.png",
-  "bindType": -1,
-  "knownIds": [
-    139310
-  ]
-}
+{"internalId":714269475,"name":"Alinor Windowbox, Purple Wisteria","description":"This is a standard house item.","icon":"data/images/20/0r/et/housing_sum_exc_housingplanter002.png","bindType":-1,"knownIds":[139310]}

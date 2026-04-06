@@ -1,10 +1,1 @@
-{
-  "internalId": 1084830887,
-  "name": "Weapons: Storm Master",
-  "description": "A Medium Armor set found in Tempest Island.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134166
-  ]
-}
+{"internalId":1084830887,"name":"Weapons: Storm Master","description":"A Medium Armor set found in Tempest Island.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134166]}

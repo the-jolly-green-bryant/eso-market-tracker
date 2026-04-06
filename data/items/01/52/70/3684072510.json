@@ -1,10 +1,1 @@
-{
-  "internalId": 3684072510,
-  "name": "Elsweyr Cabinet, Elegant Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_merchantcentercounter00.png",
-  "bindType": -1,
-  "knownIds": [
-    151711
-  ]
-}
+{"internalId":3684072510,"name":"Elsweyr Cabinet, Elegant Wooden","description":"This is a standard house item.","icon":"data/images/00/re/tn/housing_els_fur_merchantcentercounter00.png","bindType":-1,"knownIds":[151711]}

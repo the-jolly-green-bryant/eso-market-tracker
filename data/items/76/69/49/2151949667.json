@@ -1,10 +1,1 @@
-{
-  "internalId": 2151949667,
-  "name": "Gauntlets of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101299
-  ]
-}
+{"internalId":2151949667,"name":"Gauntlets of Soulshine","description":"","icon":"data/images/d_/sd/na/gear_khajiit_heavy_hands_d.png","bindType":2,"knownIds":[101299]}

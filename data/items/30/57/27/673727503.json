@@ -1,10 +1,1 @@
-{
-  "internalId": 673727503,
-  "name": "Nocturnal's Everblack Coffee",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_004.png",
-  "bindType": -1,
-  "knownIds": [
-    57654
-  ]
-}
+{"internalId":673727503,"name":"Nocturnal's Everblack Coffee","description":"","icon":"data/images/40/0_/ae/crafting_tea_004.png","bindType":-1,"knownIds":[57654]}

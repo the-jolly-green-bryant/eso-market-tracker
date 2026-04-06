@@ -1,10 +1,1 @@
-{
-  "internalId": 1636902983,
-  "name": "Markarth Wall, Windowed Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_markwindow002.png",
-  "bindType": -1,
-  "knownIds": [
-    171765
-  ]
-}
+{"internalId":1636902983,"name":"Markarth Wall, Windowed Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_markwindow002.png","bindType":-1,"knownIds":[171765]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 145027444,
-  "name": "Weapons: Prayer Shawl",
-  "description": "A Light Armor set found in Spindleclutch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134157
-  ]
-}
+{"internalId":145027444,"name":"Weapons: Prayer Shawl","description":"A Light Armor set found in Spindleclutch.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134157]}

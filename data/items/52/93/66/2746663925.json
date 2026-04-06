@@ -1,10 +1,1 @@
-{
-  "internalId": 2746663925,
-  "name": "Nahrina's Locket",
-  "description": "Nahrina's token of gratitude for recovering Yokudan relics from Na-Totambu. Her debt is paid.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212190
-  ]
-}
+{"internalId":2746663925,"name":"Nahrina's Locket","description":"Nahrina's token of gratitude for recovering Yokudan relics from Na-Totambu. Her debt is paid.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_neck_a.png","bindType":2,"knownIds":[212190]}

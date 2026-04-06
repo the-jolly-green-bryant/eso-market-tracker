@@ -1,11 +1,1 @@
-{
-  "internalId": 4201735995,
-  "name": "Silver-Plated Souvenir Execution Plate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801079,
-    801079
-  ]
-}
+{"internalId":4201735995,"name":"Silver-Plated Souvenir Execution Plate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[801079,801079]}

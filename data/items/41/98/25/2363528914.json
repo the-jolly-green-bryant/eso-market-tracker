@@ -1,10 +1,1 @@
-{
-  "internalId": 2363528914,
-  "name": "Ayleid Refuge Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png",
-  "bindType": 2,
-  "knownIds": [
-    205371
-  ]
-}
+{"internalId":2363528914,"name":"Ayleid Refuge Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_staff.png","bindType":2,"knownIds":[205371]}

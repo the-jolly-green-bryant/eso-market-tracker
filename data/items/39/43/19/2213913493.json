@@ -1,10 +1,1 @@
-{
-  "internalId": 2213913493,
-  "name": "Recipe: Millet and Beef Stuffed Peppers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    68190
-  ]
-}
+{"internalId":2213913493,"name":"Recipe: Millet and Beef Stuffed Peppers","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[68190]}

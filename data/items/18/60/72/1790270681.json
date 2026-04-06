@@ -1,10 +1,1 @@
-{
-  "internalId": 1790270681,
-  "name": "Clean Pelt",
-  "description": "Used in crafting leather furniture.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_furniture_base_clean_pelt.png",
-  "bindType": -1,
-  "knownIds": [
-    114891
-  ]
-}
+{"internalId":1790270681,"name":"Clean Pelt","description":"Used in crafting leather furniture.","icon":"data/images/tl/ep/_n/crafting_furniture_base_clean_pelt.png","bindType":-1,"knownIds":[114891]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 326933854,
-  "name": "Dwarven Press Bed, Forge-Sized",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_anvila001.png",
-  "bindType": -1,
-  "knownIds": [
-    147648
-  ]
-}
+{"internalId":326933854,"name":"Dwarven Press Bed, Forge-Sized","description":"This is a standard house item.","icon":"data/images/10/0a/li/housing_dwe_inc_anvila001.png","bindType":-1,"knownIds":[147648]}

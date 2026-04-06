@@ -1,10 +1,1 @@
-{
-  "internalId": 2926468042,
-  "name": "Crafting Motif 16: Glass Style",
-  "description": "Use to learn the Glass crafting style. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Glass Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    64669
-  ]
-}
+{"internalId":2926468042,"name":"Crafting Motif 16: Glass Style","description":"Use to learn the Glass crafting style. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Glass Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[64669]}

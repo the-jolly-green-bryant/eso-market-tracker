@@ -1,10 +1,1 @@
-{
-  "internalId": 2957863091,
-  "name": "Fish, Salmon",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_fishbundle001.png",
-  "bindType": -1,
-  "knownIds": [
-    118339
-  ]
-}
+{"internalId":2957863091,"name":"Fish, Salmon","description":"This is a standard house item.","icon":"data/images/10/0e/ld/housing_gen_exc_fishbundle001.png","bindType":-1,"knownIds":[118339]}

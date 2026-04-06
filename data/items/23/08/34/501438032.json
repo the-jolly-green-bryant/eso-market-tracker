@@ -1,10 +1,1 @@
-{
-  "internalId": 501438032,
-  "name": "Sapling, Ginkgo",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_gingkosapling001.png",
-  "bindType": -1,
-  "knownIds": [
-    139126
-  ]
-}
+{"internalId":501438032,"name":"Sapling, Ginkgo","description":"This is a standard house item.","icon":"data/images/10/0g/ni/housing_tre_sum_gingkosapling001.png","bindType":-1,"knownIds":[139126]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3470479323,
-  "name": "Banner, Mighty",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgorcbannerclana004.png",
-  "bindType": -1,
-  "knownIds": [
-    118078
-  ]
-}
+{"internalId":3470479323,"name":"Banner, Mighty","description":"This is a large house item.","icon":"data/images/40/0a/na/housing_orc_lsb_wtgorcbannerclana004.png","bindType":-1,"knownIds":[118078]}

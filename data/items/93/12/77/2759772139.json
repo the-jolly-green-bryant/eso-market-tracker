@@ -1,10 +1,1 @@
-{
-  "internalId": 2759772139,
-  "name": "Sentinel Cutlery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851357
-  ]
-}
+{"internalId":2759772139,"name":"Sentinel Cutlery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png","bindType":-1,"knownIds":[851357]}

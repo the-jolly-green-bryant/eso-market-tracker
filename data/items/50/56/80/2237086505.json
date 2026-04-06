@@ -1,10 +1,1 @@
-{
-  "internalId": 2237086505,
-  "name": "Fargrave Box of Grapes",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedmarketproduce001.png",
-  "bindType": -1,
-  "knownIds": [
-    182301
-  ]
-}
+{"internalId":2237086505,"name":"Fargrave Box of Grapes","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_farhousingdaedmarketproduce001.png","bindType":-1,"knownIds":[182301]}

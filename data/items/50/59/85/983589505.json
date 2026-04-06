@@ -1,15 +1,1 @@
-{
-  "internalId": 983589505,
-  "name": "Perfected Peace and Serenity Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1652192,
-    1657161,
-    1761663,
-    1652192,
-    1657161,
-    1761663
-  ]
-}
+{"internalId":983589505,"name":"Perfected Peace and Serenity Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_staff_a.png","bindType":-1,"knownIds":[1652192,1657161,1761663,1652192,1657161,1761663]}

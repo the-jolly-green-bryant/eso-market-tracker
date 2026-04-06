@@ -1,10 +1,1 @@
-{
-  "internalId": 1391007516,
-  "name": "Saplings, Sturdy Ash Laurel",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_vrdlaurelsapling002.png",
-  "bindType": -1,
-  "knownIds": [
-    125643
-  ]
-}
+{"internalId":1391007516,"name":"Saplings, Sturdy Ash Laurel","description":"This is a standard house item.","icon":"data/images/20/0g/ni/housing_tre_dec_vrdlaurelsapling002.png","bindType":-1,"knownIds":[125643]}

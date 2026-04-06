@@ -1,10 +1,1 @@
-{
-  "internalId": 833847533,
-  "name": "Solitude Stairway, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_sidewalkstairs002.png",
-  "bindType": -1,
-  "knownIds": [
-    167331
-  ]
-}
+{"internalId":833847533,"name":"Solitude Stairway, Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_waf_sidewalkstairs002.png","bindType":-1,"knownIds":[167331]}

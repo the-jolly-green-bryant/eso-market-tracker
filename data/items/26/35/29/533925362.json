@@ -1,10 +1,1 @@
-{
-  "internalId": 533925362,
-  "name": "Writ of Bal Foyen Freedom",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1322077
-  ]
-}
+{"internalId":533925362,"name":"Writ of Bal Foyen Freedom","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[1322077]}

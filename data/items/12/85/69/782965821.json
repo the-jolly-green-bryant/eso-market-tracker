@@ -1,10 +1,1 @@
-{
-  "internalId": 782965821,
-  "name": "Falconer's Glove",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    896933
-  ]
-}
+{"internalId":782965821,"name":"Falconer's Glove","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clothing_001.png","bindType":-1,"knownIds":[896933]}

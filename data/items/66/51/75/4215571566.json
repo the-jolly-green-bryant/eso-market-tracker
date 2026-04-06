@@ -1,10 +1,1 @@
-{
-  "internalId": 4215571566,
-  "name": "Belt of the Viper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80700
-  ]
-}
+{"internalId":4215571566,"name":"Belt of the Viper","description":"","icon":"data/images/d_/ts/ia/gear_argonian_medium_waist_d.png","bindType":2,"knownIds":[80700]}

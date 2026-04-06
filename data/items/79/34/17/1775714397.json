@@ -1,10 +1,1 @@
-{
-  "internalId": 1775714397,
-  "name": "Jewelry Enchantment Box",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    932416
-  ]
-}
+{"internalId":1775714397,"name":"Jewelry Enchantment Box","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[932416]}

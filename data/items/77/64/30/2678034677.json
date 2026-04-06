@@ -1,10 +1,1 @@
-{
-  "internalId": 2678034677,
-  "name": "War Maiden's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122958
-  ]
-}
+{"internalId":2678034677,"name":"War Maiden's Breeches","description":"","icon":"data/images/a_/sg/el/gear_telvanni_light_legs_a.png","bindType":2,"knownIds":[122958]}

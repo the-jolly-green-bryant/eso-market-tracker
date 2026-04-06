@@ -1,10 +1,1 @@
-{
-  "internalId": 3076614105,
-  "name": "Wizard's Riposte Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123883
-  ]
-}
+{"internalId":3076614105,"name":"Wizard's Riposte Robe","description":"","icon":"data/images/a_/eb/or/gear_ordinator_light_robe_a.png","bindType":2,"knownIds":[123883]}

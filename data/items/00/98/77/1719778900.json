@@ -1,10 +1,1 @@
-{
-  "internalId": 1719778900,
-  "name": "Imperial Sceptre",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1382961
-  ]
-}
+{"internalId":1719778900,"name":"Imperial Sceptre","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_001.png","bindType":-1,"knownIds":[1382961]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 115444474,
-  "name": "Fyr's Wraps",
-  "description": "Divayth Fyr always compensates the hired help, especially when the task requires dealing with Fargrave and the Shambles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    182842
-  ]
-}
+{"internalId":115444474,"name":"Fyr's Wraps","description":"Divayth Fyr always compensates the hired help, especially when the task requires dealing with Fargrave and the Shambles.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_hands_d.png","bindType":2,"knownIds":[182842]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2331891916,
-  "name": "Glenumbra Treasure Map IV",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43600
-  ]
-}
+{"internalId":2331891916,"name":"Glenumbra Treasure Map IV","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43600]}

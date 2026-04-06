@@ -1,15 +1,1 @@
-{
-  "internalId": 2717047184,
-  "name": "Umbral Edge Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1743597,
-    1746431,
-    1754246,
-    1743597,
-    1746431,
-    1754246
-  ]
-}
+{"internalId":2717047184,"name":"Umbral Edge Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_hands_a.png","bindType":-1,"knownIds":[1743597,1746431,1754246,1743597,1746431,1754246]}

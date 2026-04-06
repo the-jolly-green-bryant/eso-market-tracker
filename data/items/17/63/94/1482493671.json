@@ -1,10 +1,1 @@
-{
-  "internalId": 1482493671,
-  "name": "Ophidian Ring of Spirit",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    571000
-  ]
-}
+{"internalId":1482493671,"name":"Ophidian Ring of Spirit","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[571000]}

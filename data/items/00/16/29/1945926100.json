@@ -1,15 +1,1 @@
-{
-  "internalId": 1945926100,
-  "name": "hide guards of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    786908,
-    786094,
-    1129171,
-    786908,
-    786094,
-    1129171
-  ]
-}
+{"internalId":1945926100,"name":"hide guards of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":-1,"knownIds":[786908,786094,1129171,786908,786094,1129171]}

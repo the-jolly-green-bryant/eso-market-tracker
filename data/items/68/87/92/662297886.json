@@ -1,10 +1,1 @@
-{
-  "internalId": 662297886,
-  "name": "Savory Thorn Cornbread",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bread_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57102
-  ]
-}
+{"internalId":662297886,"name":"Savory Thorn Cornbread","description":"","icon":"data/images/10/0_/da/crafting_bread_001.png","bindType":-1,"knownIds":[57102]}

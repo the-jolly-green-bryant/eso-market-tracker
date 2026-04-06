@@ -1,13 +1,1 @@
-{
-  "internalId": 1355787239,
-  "name": "Oakfather's Retribution Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1702266,
-    1716913,
-    1702266,
-    1716913
-  ]
-}
+{"internalId":1355787239,"name":"Oakfather's Retribution Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":-1,"knownIds":[1702266,1716913,1702266,1716913]}

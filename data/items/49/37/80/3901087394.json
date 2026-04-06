@@ -1,10 +1,1 @@
-{
-  "internalId": 3901087394,
-  "name": "Wood Elf Bar, Short",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_rackbar004.png",
-  "bindType": -1,
-  "knownIds": [
-    115557
-  ]
-}
+{"internalId":3901087394,"name":"Wood Elf Bar, Short","description":"This is a standard house item.","icon":"data/images/40/0r/ab/housing_bos_inc_rackbar004.png","bindType":-1,"knownIds":[115557]}

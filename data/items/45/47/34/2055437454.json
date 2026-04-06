@@ -1,13 +1,1 @@
-{
-  "internalId": 2055437454,
-  "name": "Reawakened Hierophant Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1688354,
-    1770074,
-    1688354,
-    1770074
-  ]
-}
+{"internalId":2055437454,"name":"Reawakened Hierophant Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1688354,1770074,1688354,1770074]}

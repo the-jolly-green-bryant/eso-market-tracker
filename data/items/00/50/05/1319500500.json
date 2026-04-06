@@ -1,10 +1,1 @@
-{
-  "internalId": 1319500500,
-  "name": "Diagram: Alinor Pot, Hanging Stamped",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    139581
-  ]
-}
+{"internalId":1319500500,"name":"Diagram: Alinor Pot, Hanging Stamped","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[139581]}

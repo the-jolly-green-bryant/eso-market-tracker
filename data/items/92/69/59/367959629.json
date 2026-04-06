@@ -1,10 +1,1 @@
-{
-  "internalId": 367959629,
-  "name": "Crafting Motif 59: Scalecaller Belts",
-  "description": "Use to learn how to make Scalecaller Belts. Also teaches the equivalent Scalecaller outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    134773
-  ]
-}
+{"internalId":367959629,"name":"Crafting Motif 59: Scalecaller Belts","description":"Use to learn how to make Scalecaller Belts. Also teaches the equivalent Scalecaller outfit styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[134773]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3811829808,
-  "name": "Industrial Strength Doily",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1310696
-  ]
-}
+{"internalId":3811829808,"name":"Industrial Strength Doily","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png","bindType":-1,"knownIds":[1310696]}

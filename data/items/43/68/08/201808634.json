@@ -1,10 +1,1 @@
-{
-  "internalId": 201808634,
-  "name": "Gold Coast Enfeebling Poison",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpoison_enfeebling.png",
-  "bindType": -1,
-  "knownIds": [
-    1309705
-  ]
-}
+{"internalId":201808634,"name":"Gold Coast Enfeebling Poison","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crownpoison_enfeebling.png","bindType":-1,"knownIds":[1309705]}

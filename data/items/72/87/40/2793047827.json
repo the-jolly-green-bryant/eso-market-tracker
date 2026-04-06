@@ -1,10 +1,1 @@
-{
-  "internalId": 2793047827,
-  "name": "Peacock Pie",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    42808
-  ]
-}
+{"internalId":2793047827,"name":"Peacock Pie","description":"","icon":"data/images/ei/p_/ti/crafting_cooking_fruit_pie.png","bindType":-1,"knownIds":[42808]}

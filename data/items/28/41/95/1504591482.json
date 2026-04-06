@@ -1,10 +1,1 @@
-{
-  "internalId": 1504591482,
-  "name": "Sash of Prayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90585
-  ]
-}
+{"internalId":1504591482,"name":"Sash of Prayer","description":"","icon":"data/images/d_/ts/ia/gear_breton_light_waist_d.png","bindType":2,"knownIds":[90585]}

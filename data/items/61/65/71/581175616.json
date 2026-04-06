@@ -1,10 +1,1 @@
-{
-  "internalId": 581175616,
-  "name": "Galerion's Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78098
-  ]
-}
+{"internalId":581175616,"name":"Galerion's Gauntlets","description":"","icon":"data/images/d_/sd/na/gear_altmer_heavy_hands_d.png","bindType":2,"knownIds":[78098]}

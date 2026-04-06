@@ -1,10 +1,1 @@
-{
-  "internalId": 3308200155,
-  "name": "Tree, Mire Mangrove",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkmangrove005.png",
-  "bindType": -1,
-  "knownIds": [
-    145423
-  ]
-}
+{"internalId":3308200155,"name":"Tree, Mire Mangrove","description":"This is a large house item.","icon":"data/images/50/0e/vo/housing_tre_trp_mrkmangrove005.png","bindType":-1,"knownIds":[145423]}

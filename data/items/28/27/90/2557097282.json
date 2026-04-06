@@ -1,10 +1,1 @@
-{
-  "internalId": 2557097282,
-  "name": "Anniversary Jubilee Gift Box",
-  "description": "This box contains a variety of crafting-related materials, intended for celebrants of the Anniversary Jubilee.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    194428
-  ]
-}
+{"internalId":2557097282,"name":"Anniversary Jubilee Gift Box","description":"This box contains a variety of crafting-related materials, intended for celebrants of the Anniversary Jubilee.","icon":"data/images/so/ro/bo/gift-box-ouroboros.png","bindType":3,"knownIds":[140216]}

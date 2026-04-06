@@ -1,10 +1,1 @@
-{
-  "internalId": 3359241116,
-  "name": "Telvanni Meal, Kebab Lunch",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_foodplated001.png",
-  "bindType": -1,
-  "knownIds": [
-    197531
-  ]
-}
+{"internalId":3359241116,"name":"Telvanni Meal, Kebab Lunch","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_foodplated001.png","bindType":-1,"knownIds":[197531]}

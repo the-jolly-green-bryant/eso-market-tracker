@@ -1,10 +1,1 @@
-{
-  "internalId": 1207592227,
-  "name": "Pauldron of the Green Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97750
-  ]
-}
+{"internalId":1207592227,"name":"Pauldron of the Green Pact","description":"","icon":"data/images/d_/sr/ed/gear_bosmer_heavy_shoulders_d.png","bindType":2,"knownIds":[97750]}

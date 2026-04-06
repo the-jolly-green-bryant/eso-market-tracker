@@ -1,10 +1,1 @@
-{
-  "internalId": 769500502,
-  "name": "Plant, Pearlwort",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_seapearlwort005.png",
-  "bindType": -1,
-  "knownIds": [
-    139085
-  ]
-}
+{"internalId":769500502,"name":"Plant, Pearlwort","description":"This is a tiny house item.","icon":"data/images/50/0t/ro/housing_veg_sum_seapearlwort005.png","bindType":-1,"knownIds":[139085]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3805417597,
-  "name": "Jack of the Shield Breaker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    117606
-  ]
-}
+{"internalId":3805417597,"name":"Jack of the Shield Breaker","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[117606]}

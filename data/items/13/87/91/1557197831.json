@@ -1,10 +1,1 @@
-{
-  "internalId": 1557197831,
-  "name": "Apocrypha Bed, Intricate Double",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bedhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    198399
-  ]
-}
+{"internalId":1557197831,"name":"Apocrypha Bed, Intricate Double","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_bedhigh001.png","bindType":-1,"knownIds":[198399]}

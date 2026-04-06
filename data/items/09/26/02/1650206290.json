@@ -1,10 +1,1 @@
-{
-  "internalId": 1650206290,
-  "name": "Seventh Legion's Conjured Oath-Band",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    42977
-  ]
-}
+{"internalId":1650206290,"name":"Seventh Legion's Conjured Oath-Band","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[42977]}

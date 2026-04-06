@@ -1,10 +1,1 @@
-{
-  "internalId": 1056285771,
-  "name": "Crafting Motif 40: Order Hour Style",
-  "description": "Use to learn the Order of the Hour crafting style. Also teaches the equivalent Order Hour Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    82087
-  ]
-}
+{"internalId":1056285771,"name":"Crafting Motif 40: Order Hour Style","description":"Use to learn the Order of the Hour crafting style. Also teaches the equivalent Order Hour Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[82087]}

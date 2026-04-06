@@ -1,10 +1,1 @@
-{
-  "internalId": 503911185,
-  "name": "Apocrypha Wardrobe, Intricate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_wardrobehigh002.png",
-  "bindType": -1,
-  "knownIds": [
-    198423
-  ]
-}
+{"internalId":503911185,"name":"Apocrypha Wardrobe, Intricate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_wardrobehigh002.png","bindType":-1,"knownIds":[198423]}

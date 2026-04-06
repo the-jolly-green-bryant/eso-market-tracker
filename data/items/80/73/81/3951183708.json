@@ -1,10 +1,1 @@
-{
-  "internalId": 3951183708,
-  "name": "High Elf Divider, Delicate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_foldingscreen001.png",
-  "bindType": -1,
-  "knownIds": [
-    114387
-  ]
-}
+{"internalId":3951183708,"name":"High Elf Divider, Delicate","description":"This is a standard house item.","icon":"data/images/10/0n/ee/housing_alt_fur_foldingscreen001.png","bindType":-1,"knownIds":[114387]}

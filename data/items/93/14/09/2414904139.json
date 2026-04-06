@@ -1,10 +1,1 @@
-{
-  "internalId": 2414904139,
-  "name": "Basalt-Blooded Warrior Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_mace.png",
-  "bindType": -1,
-  "knownIds": [
-    1689570
-  ]
-}
+{"internalId":2414904139,"name":"Basalt-Blooded Warrior Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_mace.png","bindType":-1,"knownIds":[1689570]}

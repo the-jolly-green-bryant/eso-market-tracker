@@ -1,10 +1,1 @@
-{
-  "internalId": 1523170136,
-  "name": "Crafting Motif 105: Crimson Oath Legs",
-  "description": "Use to learn how to make Crimson Oath Legs. Also teaches the equivalent Crimson Oath Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    176066
-  ]
-}
+{"internalId":1523170136,"name":"Crafting Motif 105: Crimson Oath Legs","description":"Use to learn how to make Crimson Oath Legs. Also teaches the equivalent Crimson Oath Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[176066]}

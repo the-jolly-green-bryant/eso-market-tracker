@@ -1,10 +1,1 @@
-{
-  "internalId": 1910470072,
-  "name": "Recipe: Parmesan Eels in Watermelon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45688
-  ]
-}
+{"internalId":1910470072,"name":"Recipe: Parmesan Eels in Watermelon","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45688]}

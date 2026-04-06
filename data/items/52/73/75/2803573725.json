@@ -1,10 +1,1 @@
-{
-  "internalId": 2803573725,
-  "name": "Solitude Yarn Rack, Colorful",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_loomspools001.png",
-  "bindType": -1,
-  "knownIds": [
-    171405
-  ]
-}
+{"internalId":2803573725,"name":"Solitude Yarn Rack, Colorful","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_loomspools001.png","bindType":-1,"knownIds":[171405]}

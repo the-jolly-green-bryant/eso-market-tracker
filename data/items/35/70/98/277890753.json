@@ -1,10 +1,1 @@
-{
-  "internalId": 277890753,
-  "name": "Elsweyr Writing Desk, Elegant Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_writingdesk001.png",
-  "bindType": -1,
-  "knownIds": [
-    151727
-  ]
-}
+{"internalId":277890753,"name":"Elsweyr Writing Desk, Elegant Wooden","description":"This is a standard house item.","icon":"data/images/10/0k/se/housing_els_fur_writingdesk001.png","bindType":-1,"knownIds":[151727]}

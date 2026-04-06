@@ -1,10 +1,1 @@
-{
-  "internalId": 2791167012,
-  "name": "Pattern: Alinor Bed, Levitating",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    141903
-  ]
-}
+{"internalId":2791167012,"name":"Pattern: Alinor Bed, Levitating","description":"","icon":"data/images/5_/re/ih/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[141903]}

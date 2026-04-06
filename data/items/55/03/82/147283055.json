@@ -1,10 +1,1 @@
-{
-  "internalId": 147283055,
-  "name": "Style Page: Archdruid Devyric Mask",
-  "description": "Use to learn the Archdruid Devyric Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    187918
-  ]
-}
+{"internalId":147283055,"name":"Style Page: Archdruid Devyric Mask","description":"Use to learn the Archdruid Devyric Mask Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[187918]}

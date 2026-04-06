@@ -1,10 +1,1 @@
-{
-  "internalId": 2821135554,
-  "name": "Leyawiin Platform, Wide Steps",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastleplatformstairsint002.png",
-  "bindType": -1,
-  "knownIds": [
-    181525
-  ]
-}
+{"internalId":2821135554,"name":"Leyawiin Platform, Wide Steps","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleycastleplatformstairsint002.png","bindType":-1,"knownIds":[181525]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 471615909,
-  "name": "Druidic Planter, Sunflowers",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_housingdrustonesunflowerplanter001.png",
-  "bindType": -1,
-  "knownIds": [
-    192400
-  ]
-}
+{"internalId":471615909,"name":"Druidic Planter, Sunflowers","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_housingdrustonesunflowerplanter001.png","bindType":-1,"knownIds":[192400]}

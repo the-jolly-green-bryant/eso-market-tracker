@@ -1,10 +1,1 @@
-{
-  "internalId": 3902105177,
-  "name": "Ice Staff of the Shield Breaker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    117602
-  ]
-}
+{"internalId":3902105177,"name":"Ice Staff of the Shield Breaker","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[117602]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2536709273,
-  "name": "zander",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    656195
-  ]
-}
+{"internalId":2536709273,"name":"zander","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[656195]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 196818564,
-  "name": "Crafting Motif 81: New Moon Priest Style",
-  "description": "Use to learn the New Moon Priest crafting style. Also teaches the equivalent New Moon Priest Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    156608
-  ]
-}
+{"internalId":196818564,"name":"Crafting Motif 81: New Moon Priest Style","description":"Use to learn the New Moon Priest crafting style. Also teaches the equivalent New Moon Priest Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[156608]}

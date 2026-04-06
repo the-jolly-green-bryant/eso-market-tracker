@@ -1,10 +1,1 @@
-{
-  "internalId": 924897832,
-  "name": "Blackwood Mint Chai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_006.png",
-  "bindType": -1,
-  "knownIds": [
-    33711
-  ]
-}
+{"internalId":924897832,"name":"Blackwood Mint Chai","description":"","icon":"data/images/60/0_/ae/crafting_tea_006.png","bindType":-1,"knownIds":[33711]}

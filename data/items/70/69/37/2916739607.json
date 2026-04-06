@@ -1,10 +1,1 @@
-{
-  "internalId": 2916739607,
-  "name": "Tide-Born Plate, Triangular",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_platetriangle001.png",
-  "bindType": -1,
-  "knownIds": [
-    214420
-  ]
-}
+{"internalId":2916739607,"name":"Tide-Born Plate, Triangular","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_platetriangle001.png","bindType":-1,"knownIds":[214420]}

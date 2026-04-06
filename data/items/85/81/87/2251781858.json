@@ -1,10 +1,1 @@
-{
-  "internalId": 2251781858,
-  "name": "Icestaff of Secrets",
-  "description": "The nereid Lorelia awarded this staff in final farewell as thanks for defending Halcyon Lake from the followers of Hermaeus Mora.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    212242
-  ]
-}
+{"internalId":2251781858,"name":"Icestaff of Secrets","description":"The nereid Lorelia awarded this staff in final farewell as thanks for defending Halcyon Lake from the followers of Hermaeus Mora.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png","bindType":2,"knownIds":[212242]}

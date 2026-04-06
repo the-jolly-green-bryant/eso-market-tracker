@@ -1,10 +1,1 @@
-{
-  "internalId": 602951709,
-  "name": "Dwemer Tube",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    22353
-  ]
-}
+{"internalId":602951709,"name":"Dwemer Tube","description":"","icon":null,"bindType":-1,"knownIds":[22353]}

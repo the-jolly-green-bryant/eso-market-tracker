@@ -1,10 +1,1 @@
-{
-  "internalId": 3562951251,
-  "name": "Corn",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_corn.png",
-  "bindType": -1,
-  "knownIds": [
-    34323
-  ]
-}
+{"internalId":3562951251,"name":"Corn","description":"An ingredient for crafting food.","icon":"data/images/nr/oc/_g/crafting_corn.png","bindType":-1,"knownIds":[34323]}

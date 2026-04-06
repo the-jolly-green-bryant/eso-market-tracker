@@ -1,10 +1,1 @@
-{
-  "internalId": 2858952870,
-  "name": "Dratha's Epaulettes of the War Maiden",
-  "description": "Llayne Sadri, Mouth of Mistress Dratha, gave you these epaulettes as a token of her mistress's gratitude.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_telvanni_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126067
-  ]
-}
+{"internalId":2858952870,"name":"Dratha's Epaulettes of the War Maiden","description":"Llayne Sadri, Mouth of Mistress Dratha, gave you these epaulettes as a token of her mistress's gratitude.","icon":"data/images/a_/sr/ed/gear_telvanni_light_shoulders_a.png","bindType":2,"knownIds":[126067]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1256285494,
-  "name": "High Isle Teapot, Copper",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_clutterteapot_001.png",
-  "bindType": -1,
-  "knownIds": [
-    191184
-  ]
-}
+{"internalId":1256285494,"name":"High Isle Teapot, Copper","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_clutterteapot_001.png","bindType":-1,"knownIds":[191184]}

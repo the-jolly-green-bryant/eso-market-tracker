@@ -1,10 +1,1 @@
-{
-  "internalId": 3259958712,
-  "name": "Vampiric Trunk, Ornate Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_vampirechest001.png",
-  "bindType": -1,
-  "knownIds": [
-    165608
-  ]
-}
+{"internalId":3259958712,"name":"Vampiric Trunk, Ornate Metal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_con_vampirechest001.png","bindType":-1,"knownIds":[165608]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3893581717,
-  "name": "Brass Cufflinks of Vivec",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414130
-  ]
-}
+{"internalId":3893581717,"name":"Brass Cufflinks of Vivec","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[1414130]}

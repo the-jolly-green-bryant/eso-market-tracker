@@ -1,10 +1,1 @@
-{
-  "internalId": 2799885615,
-  "name": "Tombstone, Small",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_cem_tombstonetiny002.png",
-  "bindType": -1,
-  "knownIds": [
-    120882
-  ]
-}
+{"internalId":2799885615,"name":"Tombstone, Small","description":"This is a standard house item.","icon":"data/images/20/0y/ni/housing_imp_cem_tombstonetiny002.png","bindType":-1,"knownIds":[120882]}

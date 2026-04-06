@@ -1,10 +1,1 @@
-{
-  "internalId": 2899394906,
-  "name": "Design: Wood Elf Cup, Striped",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    115849
-  ]
-}
+{"internalId":2899394906,"name":"Design: Wood Elf Cup, Striped","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[115849]}

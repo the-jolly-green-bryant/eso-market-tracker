@@ -1,13 +1,1 @@
-{
-  "internalId": 927454459,
-  "name": "Baan Dar's Blessing Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1701724,
-    1718038,
-    1701724,
-    1718038
-  ]
-}
+{"internalId":927454459,"name":"Baan Dar's Blessing Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":-1,"knownIds":[1701724,1718038,1701724,1718038]}

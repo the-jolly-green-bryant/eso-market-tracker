@@ -1,10 +1,1 @@
-{
-  "internalId": 2624543849,
-  "name": "Vanguard's Challenge Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123315
-  ]
-}
+{"internalId":2624543849,"name":"Vanguard's Challenge Bow","description":"","icon":"data/images/a_/wo/b_/gear_ordinator_bow_a.png","bindType":2,"knownIds":[123315]}

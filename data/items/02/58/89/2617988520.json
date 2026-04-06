@@ -1,10 +1,1 @@
-{
-  "internalId": 2617988520,
-  "name": "Fargrave Bench, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_farbench001.png",
-  "bindType": -1,
-  "knownIds": [
-    182221
-  ]
-}
+{"internalId":2617988520,"name":"Fargrave Bench, Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_farbench001.png","bindType":-1,"knownIds":[182221]}

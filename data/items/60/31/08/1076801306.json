@@ -1,10 +1,1 @@
-{
-  "internalId": 1076801306,
-  "name": "Ra Gada Funerary Statue, Miniature Ibis",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varheronstatuesml001.png",
-  "bindType": -1,
-  "knownIds": [
-    156648
-  ]
-}
+{"internalId":1076801306,"name":"Ra Gada Funerary Statue, Miniature Ibis","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varheronstatuesml001.png","bindType":-1,"knownIds":[156648]}

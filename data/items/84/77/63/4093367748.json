@@ -1,10 +1,1 @@
-{
-  "internalId": 4093367748,
-  "name": "Livewire Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    132813
-  ]
-}
+{"internalId":4093367748,"name":"Livewire Greatsword","description":"","icon":"data/images/a_/dr/ow/gear_apostle_2hsword_a.png","bindType":2,"knownIds":[132813]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3805678689,
-  "name": "Sip of Defile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_007_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    77602
-  ]
-}
+{"internalId":3805678689,"name":"Sip of Defile","description":"","icon":"data/images/50/0_/ep/consumable_potion_007_type_005.png","bindType":-1,"knownIds":[77602]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2807537572,
-  "name": "Presentation Wooden Training Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_004.png",
-  "bindType": -1,
-  "knownIds": [
-    1188123
-  ]
-}
+{"internalId":2807537572,"name":"Presentation Wooden Training Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_004.png","bindType":-1,"knownIds":[1188123]}

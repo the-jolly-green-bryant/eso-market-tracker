@@ -1,10 +1,1 @@
-{
-  "internalId": 1681456253,
-  "name": "Reach Totem, Post",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrtotemsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    211571
-  ]
-}
+{"internalId":1681456253,"name":"Reach Totem, Post","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_fmrtotemsmall001.png","bindType":-1,"knownIds":[211571]}

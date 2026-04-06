@@ -1,10 +1,1 @@
-{
-  "internalId": 2473858358,
-  "name": "Formula: Ayleid Crystal, Cracked",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    211429
-  ]
-}
+{"internalId":2473858358,"name":"Formula: Ayleid Crystal, Cracked","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[211429]}

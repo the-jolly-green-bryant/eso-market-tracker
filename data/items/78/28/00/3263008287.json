@@ -1,10 +1,1 @@
-{
-  "internalId": 3263008287,
-  "name": "Vampiric Goblet, Fluted",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampiregoblets001.png",
-  "bindType": -1,
-  "knownIds": [
-    165625
-  ]
-}
+{"internalId":3263008287,"name":"Vampiric Goblet, Fluted","description":"This is a tiny house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampiregoblets001.png","bindType":-1,"knownIds":[165625]}

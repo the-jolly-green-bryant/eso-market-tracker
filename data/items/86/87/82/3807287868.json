@@ -1,10 +1,1 @@
-{
-  "internalId": 3807287868,
-  "name": "Weapons: Embershield",
-  "description": "A Heavy Armor set found in City of Ash.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134118
-  ]
-}
+{"internalId":3807287868,"name":"Weapons: Embershield","description":"A Heavy Armor set found in City of Ash.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134118]}

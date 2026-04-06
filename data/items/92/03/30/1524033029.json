@@ -1,10 +1,1 @@
-{
-  "internalId": 1524033029,
-  "name": "Bonetooth's Charm of Mother's Embrace",
-  "description": "For defeating the giant kagouti called Bonetooth in the Triple Circle Mine, this necklace was awarded.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    34575
-  ]
-}
+{"internalId":1524033029,"name":"Bonetooth's Charm of Mother's Embrace","description":"For defeating the giant kagouti called Bonetooth in the Triple Circle Mine, this necklace was awarded.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[34575]}

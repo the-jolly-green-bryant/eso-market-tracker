@@ -1,10 +1,1 @@
-{
-  "internalId": 94422818,
-  "name": "Trousers and Tails",
-  "description": "Made for hard travel or city-living style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63966
-  ]
-}
+{"internalId":94422818,"name":"Trousers and Tails","description":"Made for hard travel or city-living style.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63966]}

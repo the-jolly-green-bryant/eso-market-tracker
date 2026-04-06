@@ -1,10 +1,1 @@
-{
-  "internalId": 1648132642,
-  "name": "Storm Lord Shield",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holwhitestrikeshield001.png",
-  "bindType": -1,
-  "knownIds": [
-    211517
-  ]
-}
+{"internalId":1648132642,"name":"Storm Lord Shield","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_holwhitestrikeshield001.png","bindType":-1,"knownIds":[211517]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 815626477,
-  "name": "Crafting Motif 101: Ivory Brigade Chests",
-  "description": "Use to learn how to make Ivory Brigade Chests. Also teaches the equivalent Ivory Brigade Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171900
-  ]
-}
+{"internalId":815626477,"name":"Crafting Motif 101: Ivory Brigade Chests","description":"Use to learn how to make Ivory Brigade Chests. Also teaches the equivalent Ivory Brigade Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171900]}

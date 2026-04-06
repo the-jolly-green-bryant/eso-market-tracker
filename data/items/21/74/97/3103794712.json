@@ -1,10 +1,1 @@
-{
-  "internalId": 3103794712,
-  "name": "Fine Silk Gloves",
-  "description": "Kunira-daro paid you for your light-fingered help with these high-quality gloves.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10908
-  ]
-}
+{"internalId":3103794712,"name":"Fine Silk Gloves","description":"Kunira-daro paid you for your light-fingered help with these high-quality gloves.","icon":"data/images/d_/sd/na/gear_khajiit_light_hands_d.png","bindType":2,"knownIds":[10908]}

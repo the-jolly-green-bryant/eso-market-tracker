@@ -1,10 +1,1 @@
-{
-  "internalId": 1118094556,
-  "name": "Worm Cult Chandelier, Caged Cold-Flame",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_chandelier001.png",
-  "bindType": -1,
-  "knownIds": [
-    220292
-  ]
-}
+{"internalId":1118094556,"name":"Worm Cult Chandelier, Caged Cold-Flame","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_chandelier001.png","bindType":-1,"knownIds":[220292]}

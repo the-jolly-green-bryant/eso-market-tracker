@@ -1,10 +1,1 @@
-{
-  "internalId": 68653759,
-  "name": "Blueprint: Paint Palette, Wooden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    219700
-  ]
-}
+{"internalId":68653759,"name":"Blueprint: Paint Palette, Wooden","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[219700]}

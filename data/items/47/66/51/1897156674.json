@@ -1,10 +1,1 @@
-{
-  "internalId": 1897156674,
-  "name": "Long-Sleeved Tunic",
-  "description": "A simple, belted tunic with long sleeves.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63790
-  ]
-}
+{"internalId":1897156674,"name":"Long-Sleeved Tunic","description":"A simple, belted tunic with long sleeves.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63790]}

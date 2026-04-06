@@ -1,13 +1,1 @@
-{
-  "internalId": 4032148376,
-  "name": "Ceremonial Cheese Knife",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    936722,
-    1425359,
-    936722,
-    1425359
-  ]
-}
+{"internalId":4032148376,"name":"Ceremonial Cheese Knife","description":"","icon":null,"bindType":-1,"knownIds":[936722,1425359,936722,1425359]}

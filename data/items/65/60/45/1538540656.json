@@ -1,10 +1,1 @@
-{
-  "internalId": 1538540656,
-  "name": "Reaper's Milk Jug",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804422
-  ]
-}
+{"internalId":1538540656,"name":"Reaper's Milk Jug","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[804422]}

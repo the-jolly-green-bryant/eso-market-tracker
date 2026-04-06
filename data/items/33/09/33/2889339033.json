@@ -1,10 +1,1 @@
-{
-  "internalId": 2889339033,
-  "name": "Pattern: Vampiric Bed, Single",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    166761
-  ]
-}
+{"internalId":2889339033,"name":"Pattern: Vampiric Bed, Single","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[166761]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2766296292,
-  "name": "Gold-Leaf Trinimac Worship-Plaque",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_038.png",
-  "bindType": -1,
-  "knownIds": [
-    890543
-  ]
-}
+{"internalId":2766296292,"name":"Gold-Leaf Trinimac Worship-Plaque","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_038.png","bindType":-1,"knownIds":[890543]}

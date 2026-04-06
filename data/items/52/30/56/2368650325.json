@@ -1,10 +1,1 @@
-{
-  "internalId": 2368650325,
-  "name": "Colovian Chair, Rustic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_chairlow001.png",
-  "bindType": -1,
-  "knownIds": [
-    204657
-  ]
-}
+{"internalId":2368650325,"name":"Colovian Chair, Rustic","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_chairlow001.png","bindType":-1,"knownIds":[204657]}

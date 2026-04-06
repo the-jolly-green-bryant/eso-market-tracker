@@ -1,10 +1,1 @@
-{
-  "internalId": 1642480378,
-  "name": "Shell Splitter Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194168
-  ]
-}
+{"internalId":1642480378,"name":"Shell Splitter Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[194168]}

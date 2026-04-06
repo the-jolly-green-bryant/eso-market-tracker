@@ -1,10 +1,1 @@
-{
-  "internalId": 2486046835,
-  "name": "Void Cloth",
-  "description": "An ingredient for crafting clothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_void.png",
-  "bindType": -1,
-  "knownIds": [
-    46134
-  ]
-}
+{"internalId":2486046835,"name":"Void Cloth","description":"An ingredient for crafting clothing.","icon":"data/images/di/ov/_h/crafting_cloth_void.png","bindType":-1,"knownIds":[46134]}

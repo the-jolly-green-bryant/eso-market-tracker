@@ -1,10 +1,1 @@
-{
-  "internalId": 2233367437,
-  "name": "Telvanni Arched Light, Organic Azure",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_lsb_telfloorlamp004.png",
-  "bindType": -1,
-  "knownIds": [
-    126474
-  ]
-}
+{"internalId":2233367437,"name":"Telvanni Arched Light, Organic Azure","description":"This is a standard house item.","icon":"data/images/40/0p/ma/housing_vrd_lsb_telfloorlamp004.png","bindType":-1,"knownIds":[126474]}

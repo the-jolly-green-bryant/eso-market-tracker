@@ -1,15 +1,1 @@
-{
-  "internalId": 1224362895,
-  "name": "Mora Scribe's Perfected Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732321,
-    1750805,
-    1763933,
-    1732321,
-    1750805,
-    1763933
-  ]
-}
+{"internalId":1224362895,"name":"Mora Scribe's Perfected Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_dagger_a.png","bindType":-1,"knownIds":[1732321,1750805,1763933,1732321,1750805,1763933]}

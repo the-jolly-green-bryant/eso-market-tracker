@@ -1,10 +1,1 @@
-{
-  "internalId": 1858008409,
-  "name": "Flat Honey Rye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
-  "bindType": -1,
-  "knownIds": [
-    32097
-  ]
-}
+{"internalId":1858008409,"name":"Flat Honey Rye","description":"","icon":"data/images/30/0_/el/crafting_stoneware_bottle_003.png","bindType":-1,"knownIds":[32097]}

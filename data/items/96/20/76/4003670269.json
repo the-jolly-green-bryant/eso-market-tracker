@@ -1,10 +1,1 @@
-{
-  "internalId": 4003670269,
-  "name": "Leyawiin Chair, Slatted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowchair001.png",
-  "bindType": -1,
-  "knownIds": [
-    175621
-  ]
-}
+{"internalId":4003670269,"name":"Leyawiin Chair, Slatted","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowchair001.png","bindType":-1,"knownIds":[175621]}

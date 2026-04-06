@@ -1,10 +1,1 @@
-{
-  "internalId": 2466266127,
-  "name": "Daril Spines",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1364790
-  ]
-}
+{"internalId":2466266127,"name":"Daril Spines","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_feather_001.png","bindType":-1,"knownIds":[1364790]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 3070254724,
-  "name": "Langour of Peryite Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1602164,
-    1603203,
-    1636737,
-    1642591,
-    1602164,
-    1603203,
-    1636737,
-    1642591
-  ]
-}
+{"internalId":3070254724,"name":"Langour of Peryite Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":-1,"knownIds":[1602164,1603203,1636737,1642591,1602164,1603203,1636737,1642591]}

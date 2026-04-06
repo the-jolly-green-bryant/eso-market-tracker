@@ -1,10 +1,1 @@
-{
-  "internalId": 2304813988,
-  "name": "Redguard Bowl, Gilded",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_maelstrombrazier001.png",
-  "bindType": -1,
-  "knownIds": [
-    117756
-  ]
-}
+{"internalId":2304813988,"name":"Redguard Bowl, Gilded","description":"This is a small house item.","icon":"data/images/10/0r/ei/housing_uni_inc_maelstrombrazier001.png","bindType":-1,"knownIds":[117756]}

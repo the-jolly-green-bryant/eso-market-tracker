@@ -1,10 +1,1 @@
-{
-  "internalId": 3624898544,
-  "name": "Aether Ring of Empowerment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    860763
-  ]
-}
+{"internalId":3624898544,"name":"Aether Ring of Empowerment","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[860763]}

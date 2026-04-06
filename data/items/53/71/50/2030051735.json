@@ -1,15 +1,1 @@
-{
-  "internalId": 2030051735,
-  "name": "Spattering Disjunction Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735288,
-    1764573,
-    1774342,
-    1735288,
-    1764573,
-    1774342
-  ]
-}
+{"internalId":2030051735,"name":"Spattering Disjunction Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_shoulders_a.png","bindType":-1,"knownIds":[1735288,1764573,1774342,1735288,1764573,1774342]}

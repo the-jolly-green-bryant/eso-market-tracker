@@ -1,10 +1,1 @@
-{
-  "internalId": 3135980476,
-  "name": "Bracers of the Ranger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98302
-  ]
-}
+{"internalId":3135980476,"name":"Bracers of the Ranger","description":"","icon":"data/images/d_/sd/na/gear_bosmer_medium_hands_d.png","bindType":2,"knownIds":[98302]}

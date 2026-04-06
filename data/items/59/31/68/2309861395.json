@@ -1,10 +1,1 @@
-{
-  "internalId": 2309861395,
-  "name": "Lion's Mane Candelabrum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    635463
-  ]
-}
+{"internalId":2309861395,"name":"Lion's Mane Candelabrum","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[635463]}

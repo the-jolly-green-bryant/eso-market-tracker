@@ -1,10 +1,1 @@
-{
-  "internalId": 3005925492,
-  "name": "Ritual Daedra Skull",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1088348
-  ]
-}
+{"internalId":3005925492,"name":"Ritual Daedra Skull","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png","bindType":-1,"knownIds":[1088348]}

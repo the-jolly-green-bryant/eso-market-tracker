@@ -1,10 +1,1 @@
-{
-  "internalId": 2324654919,
-  "name": "Saint Pelin's Tawny Port",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_003.png",
-  "bindType": -1,
-  "knownIds": [
-    57209
-  ]
-}
+{"internalId":2324654919,"name":"Saint Pelin's Tawny Port","description":"","icon":"data/images/30/0_/st/crafting_spirits_003.png","bindType":-1,"knownIds":[57209]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3469154504,
-  "name": "Khajiiti Sweet-Stuffed Duck",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_chicken.png",
-  "bindType": -1,
-  "knownIds": [
-    43097
-  ]
-}
+{"internalId":3469154504,"name":"Khajiiti Sweet-Stuffed Duck","description":"","icon":"data/images/ne/kc/ih/crafting_cooking_grilled_chicken.png","bindType":-1,"knownIds":[43097]}

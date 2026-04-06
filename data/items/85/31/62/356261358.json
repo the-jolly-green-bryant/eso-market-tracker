@@ -1,10 +1,1 @@
-{
-  "internalId": 356261358,
-  "name": "Colovian Ginger Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_003.png",
-  "bindType": -1,
-  "knownIds": [
-    68256
-  ]
-}
+{"internalId":356261358,"name":"Colovian Ginger Beer","description":"","icon":"data/images/30/0_/re/crafting_beer_003.png","bindType":-1,"knownIds":[68256]}

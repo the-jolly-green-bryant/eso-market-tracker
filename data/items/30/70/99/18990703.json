@@ -1,10 +1,1 @@
-{
-  "internalId": 18990703,
-  "name": "Canvas, Blank",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwoodunfinished006.png",
-  "bindType": -1,
-  "knownIds": [
-    214440
-  ]
-}
+{"internalId":18990703,"name":"Canvas, Blank","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwoodunfinished006.png","bindType":-1,"knownIds":[214440]}

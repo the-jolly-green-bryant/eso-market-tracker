@@ -1,10 +1,1 @@
-{
-  "internalId": 574779692,
-  "name": "Design: Cured Meats",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119468
-  ]
-}
+{"internalId":574779692,"name":"Design: Cured Meats","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119468]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1373006909,
-  "name": "High Isle Turret, Conical Castle",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castleturret001.png",
-  "bindType": -1,
-  "knownIds": [
-    189487
-  ]
-}
+{"internalId":1373006909,"name":"High Isle Turret, Conical Castle","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castleturret001.png","bindType":-1,"knownIds":[189487]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3431988546,
-  "name": "Pattern: Breton Curtains, Window",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115969
-  ]
-}
+{"internalId":3431988546,"name":"Pattern: Breton Curtains, Window","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115969]}

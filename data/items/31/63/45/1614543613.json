@@ -1,10 +1,1 @@
-{
-  "internalId": 1614543613,
-  "name": "Tree, Rooted Cedar",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_vrdredceder002.png",
-  "bindType": -1,
-  "knownIds": [
-    125676
-  ]
-}
+{"internalId":1614543613,"name":"Tree, Rooted Cedar","description":"This is a large house item.","icon":"data/images/20/0r/ed/housing_tre_eve_vrdredceder002.png","bindType":-1,"knownIds":[125676]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1308601899,
-  "name": "Covenant's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_shield_b.png",
-  "bindType": 2,
-  "knownIds": [
-    55851
-  ]
-}
+{"internalId":1308601899,"name":"Covenant's Shield","description":"","icon":"data/images/b_/dl/ei/gear_akaviri_shield_b.png","bindType":2,"knownIds":[55851]}

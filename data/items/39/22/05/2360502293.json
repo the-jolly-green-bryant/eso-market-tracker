@@ -1,10 +1,1 @@
-{
-  "internalId": 2360502293,
-  "name": "Vampire Lord's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100546
-  ]
-}
+{"internalId":2360502293,"name":"Vampire Lord's Mace","description":"","icon":"data/images/d_/re/mm/gear_altmer_1hhammer_d.png","bindType":2,"knownIds":[100546]}

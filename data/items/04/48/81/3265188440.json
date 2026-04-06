@@ -1,10 +1,1 @@
-{
-  "internalId": 3265188440,
-  "name": "Minecart Track, Curved Shallow",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_min_minecarttrackshallowcurve001.png",
-  "bindType": -1,
-  "knownIds": [
-    211116
-  ]
-}
+{"internalId":3265188440,"name":"Minecart Track, Curved Shallow","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_min_minecarttrackshallowcurve001.png","bindType":-1,"knownIds":[211116]}

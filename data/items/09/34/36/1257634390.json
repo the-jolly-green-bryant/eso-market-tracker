@@ -1,10 +1,1 @@
-{
-  "internalId": 1257634390,
-  "name": "Bearskin Bedroll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_fur_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    810486
-  ]
-}
+{"internalId":1257634390,"name":"Bearskin Bedroll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_fur_r2.png","bindType":-1,"knownIds":[810486]}

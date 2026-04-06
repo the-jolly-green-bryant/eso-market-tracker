@@ -1,10 +1,1 @@
-{
-  "internalId": 1775257168,
-  "name": "Worms, Saltwater Bait",
-  "description": "Bait best used for fishing in Saltwater.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_worms.png",
-  "bindType": -1,
-  "knownIds": [
-    42869
-  ]
-}
+{"internalId":1775257168,"name":"Worms, Saltwater Bait","description":"Bait best used for fishing in Saltwater.","icon":"data/images/sm/ro/w_/crafting_worms.png","bindType":-1,"knownIds":[42869]}

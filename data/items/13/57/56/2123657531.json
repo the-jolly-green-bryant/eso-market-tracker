@@ -1,10 +1,1 @@
-{
-  "internalId": 2123657531,
-  "name": "Ayleid Constellation Stele, The Steed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmallsteed001.png",
-  "bindType": -1,
-  "knownIds": [
-    193802
-  ]
-}
+{"internalId":2123657531,"name":"Ayleid Constellation Stele, The Steed","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmallsteed001.png","bindType":-1,"knownIds":[193802]}

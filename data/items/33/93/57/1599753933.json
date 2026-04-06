@@ -1,10 +1,1 @@
-{
-  "internalId": 1599753933,
-  "name": "Garlic Pumpkin Seeds",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_coffee_beans.png",
-  "bindType": -1,
-  "knownIds": [
-    37943
-  ]
-}
+{"internalId":1599753933,"name":"Garlic Pumpkin Seeds","description":"","icon":"data/images/sn/ae/b_/crafting_coffee_beans.png","bindType":-1,"knownIds":[37943]}

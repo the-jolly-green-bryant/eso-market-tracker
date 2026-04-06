@@ -1,10 +1,1 @@
-{
-  "internalId": 2293026326,
-  "name": "Pattern: Druidic Tapestry, Woven",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    192544
-  ]
-}
+{"internalId":2293026326,"name":"Pattern: Druidic Tapestry, Woven","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[192544]}

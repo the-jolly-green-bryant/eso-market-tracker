@@ -1,10 +1,1 @@
-{
-  "internalId": 2940672469,
-  "name": "Sedura Morag",
-  "description": "Also known as 'the Unleashed Exalted Hammer,' this hammer was forged using a great bonespur of the Brother of Strife, Sadal.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44869
-  ]
-}
+{"internalId":2940672469,"name":"Sedura Morag","description":"Also known as 'the Unleashed Exalted Hammer,' this hammer was forged using a great bonespur of the Brother of Strife, Sadal.","icon":"data/images/d_/re/mm/gear_orc_2hhammer_d.png","bindType":2,"knownIds":[44869]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1953239949,
-  "name": "Prophet's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_2hhammer_c.png",
-  "bindType": 3,
-  "knownIds": [
-    134962
-  ]
-}
+{"internalId":1953239949,"name":"Prophet's Maul","description":"","icon":"data/images/c_/re/mm/gear_primative_2hhammer_c.png","bindType":3,"knownIds":[134962]}

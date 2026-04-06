@@ -1,10 +1,1 @@
-{
-  "internalId": 1119954525,
-  "name": "Recipe: Stir-Fried Garlic Beef",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45897
-  ]
-}
+{"internalId":1119954525,"name":"Recipe: Stir-Fried Garlic Beef","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45897]}

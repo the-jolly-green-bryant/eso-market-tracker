@@ -1,10 +1,1 @@
-{
-  "internalId": 1360407120,
-  "name": "Clothier Survey: Malabal Tor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    949681
-  ]
-}
+{"internalId":1360407120,"name":"Clothier Survey: Malabal Tor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[949681]}

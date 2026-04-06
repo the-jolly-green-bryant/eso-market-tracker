@@ -1,10 +1,1 @@
-{
-  "internalId": 645938836,
-  "name": "Plush Hagraven Doll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png",
-  "bindType": -1,
-  "knownIds": [
-    422094
-  ]
-}
+{"internalId":645938836,"name":"Plush Hagraven Doll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png","bindType":-1,"knownIds":[422094]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 279737840,
-  "name": "Umbral Edge Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731630,
-    1779511,
-    1731630,
-    1779511,
-    1731630,
-    1779511,
-    1731630,
-    1779511
-  ]
-}
+{"internalId":279737840,"name":"Umbral Edge Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_head_a.png","bindType":-1,"knownIds":[1731630,1779511,1731630,1779511,1731630,1779511,1731630,1779511]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1532933290,
-  "name": "Weapons: Hagraven's Garden",
-  "description": "A Heavy Armor set found in Bloodroot Forge.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134193
-  ]
-}
+{"internalId":1532933290,"name":"Weapons: Hagraven's Garden","description":"A Heavy Armor set found in Bloodroot Forge.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134193]}

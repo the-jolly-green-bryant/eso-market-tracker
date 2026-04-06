@@ -1,10 +1,1 @@
-{
-  "internalId": 2314285563,
-  "name": "Superb Glyph of Disease Resist",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png",
-  "bindType": -1,
-  "knownIds": [
-    1426096
-  ]
-}
+{"internalId":2314285563,"name":"Superb Glyph of Disease Resist","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_diseaseresist.png","bindType":-1,"knownIds":[1426096]}

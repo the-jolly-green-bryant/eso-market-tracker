@@ -1,10 +1,1 @@
-{
-  "internalId": 123169469,
-  "name": "Spirit of the Daedra",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1199292
-  ]
-}
+{"internalId":123169469,"name":"Spirit of the Daedra","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1199292]}

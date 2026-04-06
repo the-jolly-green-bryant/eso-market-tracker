@@ -1,10 +1,1 @@
-{
-  "internalId": 3091433591,
-  "name": "Vossa-Satl Tuning Key",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_key_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1284720
-  ]
-}
+{"internalId":3091433591,"name":"Vossa-Satl Tuning Key","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_key_001.png","bindType":-1,"knownIds":[1284720]}

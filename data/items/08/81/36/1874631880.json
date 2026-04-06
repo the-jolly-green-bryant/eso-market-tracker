@@ -1,10 +1,1 @@
-{
-  "internalId": 1874631880,
-  "name": "Telvanni Sconce, Fungal Wall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_wallsconce002.png",
-  "bindType": -1,
-  "knownIds": [
-    197533
-  ]
-}
+{"internalId":1874631880,"name":"Telvanni Sconce, Fungal Wall","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_lsb_wallsconce002.png","bindType":-1,"knownIds":[197533]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1937244829,
-  "name": "Miniature Lighthouse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_miniature_lighthouse.png",
-  "bindType": -1,
-  "knownIds": [
-    826167
-  ]
-}
+{"internalId":1937244829,"name":"Miniature Lighthouse","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_miniature_lighthouse.png","bindType":-1,"knownIds":[826167]}

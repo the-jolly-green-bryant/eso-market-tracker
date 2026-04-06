@@ -1,10 +1,1 @@
-{
-  "internalId": 2437121663,
-  "name": "Runebox: Clockwork Reliquary",
-  "description": "Contains a Clockwork Reliquary Polymorph. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
-  "bindType": -1,
-  "knownIds": [
-    133550
-  ]
-}
+{"internalId":2437121663,"name":"Runebox: Clockwork Reliquary","description":"Contains a Clockwork Reliquary Polymorph. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.","icon":"data/images/10/0_/hp/container_sealed_polymorph_001.png","bindType":-1,"knownIds":[133550]}

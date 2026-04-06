@@ -1,13 +1,1 @@
-{
-  "internalId": 4048772560,
-  "name": "Ring of Grave Inevitability",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600690,
-    1641622,
-    1600690,
-    1641622
-  ]
-}
+{"internalId":4048772560,"name":"Ring of Grave Inevitability","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1600690,1641622,1600690,1641622]}

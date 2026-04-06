@@ -1,10 +1,1 @@
-{
-  "internalId": 955528572,
-  "name": "Crafting Motif 119: Blessed Inheritor Style",
-  "description": "Use to learn the Blessed Inheritor crafting style. Also teaches the equivalent Blessed Inheritor Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    190906
-  ]
-}
+{"internalId":955528572,"name":"Crafting Motif 119: Blessed Inheritor Style","description":"Use to learn the Blessed Inheritor crafting style. Also teaches the equivalent Blessed Inheritor Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[190906]}

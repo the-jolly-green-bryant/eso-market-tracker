@@ -1,10 +1,1 @@
-{
-  "internalId": 3498767806,
-  "name": "Murder Weapon",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    822091
-  ]
-}
+{"internalId":3498767806,"name":"Murder Weapon","description":"","icon":null,"bindType":-1,"knownIds":[822091]}

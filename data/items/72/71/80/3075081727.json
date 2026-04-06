@@ -1,10 +1,1 @@
-{
-  "internalId": 3075081727,
-  "name": "Vanus's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_axe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135675
-  ]
-}
+{"internalId":3075081727,"name":"Vanus's Axe","description":"","icon":"data/images/a_/ex/a_/gear_psijicorder_axe_a.png","bindType":2,"knownIds":[135675]}

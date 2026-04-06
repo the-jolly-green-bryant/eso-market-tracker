@@ -1,10 +1,1 @@
-{
-  "internalId": 2323490296,
-  "name": "Nord Cart, Hay",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_csb_cartstraw001.png",
-  "bindType": -1,
-  "knownIds": [
-    115351
-  ]
-}
+{"internalId":2323490296,"name":"Nord Cart, Hay","description":"This is a large house item.","icon":"data/images/10/0w/ar/housing_nor_csb_cartstraw001.png","bindType":-1,"knownIds":[115351]}

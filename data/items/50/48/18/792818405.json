@@ -1,10 +1,1 @@
-{
-  "internalId": 792818405,
-  "name": "Healer Jaxit's Gold Horn Polish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1288950
-  ]
-}
+{"internalId":792818405,"name":"Healer Jaxit's Gold Horn Polish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png","bindType":-1,"knownIds":[1288950]}

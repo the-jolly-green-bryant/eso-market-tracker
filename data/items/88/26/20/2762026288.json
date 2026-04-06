@@ -1,10 +1,1 @@
-{
-  "internalId": 2762026288,
-  "name": "Diagram: Leyawiin Sconce, Gilded Lantern",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    175967
-  ]
-}
+{"internalId":2762026288,"name":"Diagram: Leyawiin Sconce, Gilded Lantern","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[175967]}

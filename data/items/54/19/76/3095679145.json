@@ -1,10 +1,1 @@
-{
-  "internalId": 3095679145,
-  "name": "Leyawiin Brazier, Short Iron Serpent",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybrazier005.png",
-  "bindType": -1,
-  "knownIds": [
-    175639
-  ]
-}
+{"internalId":3095679145,"name":"Leyawiin Brazier, Short Iron Serpent","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybrazier005.png","bindType":-1,"knownIds":[175639]}

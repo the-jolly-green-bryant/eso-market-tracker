@@ -1,10 +1,1 @@
-{
-  "internalId": 2243832248,
-  "name": "Beet String, Display",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_hangingbeets001.png",
-  "bindType": -1,
-  "knownIds": [
-    117999
-  ]
-}
+{"internalId":2243832248,"name":"Beet String, Display","description":"This is a small house item.","icon":"data/images/10/0s/te/housing_arg_exc_hangingbeets001.png","bindType":-1,"knownIds":[117999]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 123852123,
-  "name": "Formula: Lucent Orb, Replica",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy5.png",
-  "bindType": -1,
-  "knownIds": [
-    207920
-  ]
-}
+{"internalId":123852123,"name":"Formula: Lucent Orb, Replica","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy5.png","bindType":-1,"knownIds":[207920]}

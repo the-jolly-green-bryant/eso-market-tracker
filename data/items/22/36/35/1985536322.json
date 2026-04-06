@@ -1,10 +1,1 @@
-{
-  "internalId": 1985536322,
-  "name": "Highmourn Dizi",
-  "description": "This simple wooden flute is typical of instruments played by the Akaviri. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questhighmourndizi001.png",
-  "bindType": 3,
-  "knownIds": [
-    156803
-  ]
-}
+{"internalId":1985536322,"name":"Highmourn Dizi","description":"This simple wooden flute is typical of instruments played by the Akaviri. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questhighmourndizi001.png","bindType":3,"knownIds":[156803]}

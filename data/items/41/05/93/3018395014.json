@@ -1,10 +1,1 @@
-{
-  "internalId": 3018395014,
-  "name": "Alinor Sconce, Candles Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_candleholderwall002.png",
-  "bindType": -1,
-  "knownIds": [
-    139207
-  ]
-}
+{"internalId":3018395014,"name":"Alinor Sconce, Candles Tall","description":"This is a standard house item.","icon":"data/images/20/0l/la/housing_sum_lsb_candleholderwall002.png","bindType":-1,"knownIds":[139207]}

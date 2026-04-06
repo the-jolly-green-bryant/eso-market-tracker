@@ -1,17 +1,1 @@
-{
-  "internalId": 2896598506,
-  "name": "Scamp's Tel Var Sack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801674,
-    687718,
-    1334563,
-    1335705,
-    801674,
-    687718,
-    1334563,
-    1335705
-  ]
-}
+{"internalId":2896598506,"name":"Scamp's Tel Var Sack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[801674,687718,1334563,1335705,801674,687718,1334563,1335705]}

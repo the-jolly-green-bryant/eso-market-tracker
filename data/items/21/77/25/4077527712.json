@@ -1,10 +1,1 @@
-{
-  "internalId": 4077527712,
-  "name": "Ship's Signal Lantern",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png",
-  "bindType": -1,
-  "knownIds": [
-    917530
-  ]
-}
+{"internalId":4077527712,"name":"Ship's Signal Lantern","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png","bindType":-1,"knownIds":[917530]}

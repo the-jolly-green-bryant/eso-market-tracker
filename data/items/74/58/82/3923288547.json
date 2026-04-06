@@ -1,10 +1,1 @@
-{
-  "internalId": 3923288547,
-  "name": "Cocoa-Coated Leaf Pack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plants_001.png",
-  "bindType": -1,
-  "knownIds": [
-    870216
-  ]
-}
+{"internalId":3923288547,"name":"Cocoa-Coated Leaf Pack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plants_001.png","bindType":-1,"knownIds":[870216]}

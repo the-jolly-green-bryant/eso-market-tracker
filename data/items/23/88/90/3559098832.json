@@ -1,10 +1,1 @@
-{
-  "internalId": 3559098832,
-  "name": "Forged Painting",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    668222
-  ]
-}
+{"internalId":3559098832,"name":"Forged Painting","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[668222]}

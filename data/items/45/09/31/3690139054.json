@@ -1,10 +1,1 @@
-{
-  "internalId": 3690139054,
-  "name": "Jar, Orange Dye",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_dyestationjara001.png",
-  "bindType": -1,
-  "knownIds": [
-    118320
-  ]
-}
+{"internalId":3690139054,"name":"Jar, Orange Dye","description":"This is a small house item.","icon":"data/images/10/0a/ra/housing_gen_crf_dyestationjara001.png","bindType":-1,"knownIds":[118320]}

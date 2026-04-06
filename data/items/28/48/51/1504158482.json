@@ -1,10 +1,1 @@
-{
-  "internalId": 1504158482,
-  "name": "Style Page: Opal Earthgore Shoulder",
-  "description": "Use to learn the Opal Earthgore Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    187718
-  ]
-}
+{"internalId":1504158482,"name":"Style Page: Opal Earthgore Shoulder","description":"Use to learn the Opal Earthgore Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[187718]}

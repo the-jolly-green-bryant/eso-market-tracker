@@ -1,10 +1,1 @@
-{
-  "internalId": 2385656939,
-  "name": "Karth's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168717
-  ]
-}
+{"internalId":2385656939,"name":"Karth's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[168717]}

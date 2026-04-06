@@ -1,10 +1,1 @@
-{
-  "internalId": 394152505,
-  "name": "Peryite, The Taskmaster",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_housingstatueperyitedragon001.png",
-  "bindType": -1,
-  "knownIds": [
-    134853
-  ]
-}
+{"internalId":394152505,"name":"Peryite, The Taskmaster","description":"This is a large house item.","icon":"data/images/10/0n/og/housing_sum_duc_housingstatueperyitedragon001.png","bindType":-1,"knownIds":[134853]}

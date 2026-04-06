@@ -1,10 +1,1 @@
-{
-  "internalId": 2986291770,
-  "name": "Blunted Blades Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    204227
-  ]
-}
+{"internalId":2986291770,"name":"Blunted Blades Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[204227]}

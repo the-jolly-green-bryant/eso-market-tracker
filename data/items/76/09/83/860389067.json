@@ -1,10 +1,1 @@
-{
-  "internalId": 860389067,
-  "name": "average Glyph of Decrease Spell Harm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png",
-  "bindType": -1,
-  "knownIds": [
-    1428831
-  ]
-}
+{"internalId":860389067,"name":"average Glyph of Decrease Spell Harm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_decreasespelldamage.png","bindType":-1,"knownIds":[1428831]}

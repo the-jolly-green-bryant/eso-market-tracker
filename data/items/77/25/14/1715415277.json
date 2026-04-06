@@ -1,17 +1,1 @@
-{
-  "internalId": 1715415277,
-  "name": "Gardener of Seasons Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1688986,
-    1689553,
-    1697558,
-    1721591,
-    1688986,
-    1689553,
-    1697558,
-    1721591
-  ]
-}
+{"internalId":1715415277,"name":"Gardener of Seasons Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_wardenclass_legs_a.png","bindType":-1,"knownIds":[1688986,1689553,1697558,1721591,1688986,1689553,1697558,1721591]}

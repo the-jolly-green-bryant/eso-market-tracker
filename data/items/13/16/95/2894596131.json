@@ -1,10 +1,1 @@
-{
-  "internalId": 2894596131,
-  "name": "Lord's Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_goldensaint_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44185
-  ]
-}
+{"internalId":2894596131,"name":"Lord's Cuirass","description":"","icon":"data/images/a_/ts/eh/gear_goldensaint_chest_a.png","bindType":2,"knownIds":[44185]}

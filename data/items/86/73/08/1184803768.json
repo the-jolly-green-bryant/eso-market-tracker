@@ -1,10 +1,1 @@
-{
-  "internalId": 1184803768,
-  "name": "Apple-Bobbing Viscous Slime",
-  "description": "This is one of seven parts of the Apple-Bobbing Cauldron Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poison_001_green_005.png",
-  "bindType": -1,
-  "knownIds": [
-    153491
-  ]
-}
+{"internalId":1184803768,"name":"Apple-Bobbing Viscous Slime","description":"This is one of seven parts of the Apple-Bobbing Cauldron Runebox.","icon":"data/images/50/0_/ne/crafting_poison_001_green_005.png","bindType":-1,"knownIds":[153491]}

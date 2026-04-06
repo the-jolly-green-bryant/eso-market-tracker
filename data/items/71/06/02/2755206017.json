@@ -1,10 +1,1 @@
-{
-  "internalId": 2755206017,
-  "name": "Topiary, Sparse",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_longbranchesmultic002.png",
-  "bindType": -1,
-  "knownIds": [
-    121014
-  ]
-}
+{"internalId":2755206017,"name":"Topiary, Sparse","description":"This is a large house item.","icon":"data/images/20/0c/it/housing_veg_bsh_longbranchesmultic002.png","bindType":-1,"knownIds":[121014]}

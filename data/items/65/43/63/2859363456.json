@@ -1,10 +1,1 @@
-{
-  "internalId": 2859363456,
-  "name": "Chipped Orsinium Tea Cup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    822800
-  ]
-}
+{"internalId":2859363456,"name":"Chipped Orsinium Tea Cup","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[822800]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3044455255,
-  "name": "Blueprint: Display Case, Standing Arched",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    139625
-  ]
-}
+{"internalId":3044455255,"name":"Blueprint: Display Case, Standing Arched","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[139625]}

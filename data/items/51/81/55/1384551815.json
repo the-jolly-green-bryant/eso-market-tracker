@@ -1,10 +1,1 @@
-{
-  "internalId": 1384551815,
-  "name": "The Brothers of Strife",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1134918
-  ]
-}
+{"internalId":1384551815,"name":"The Brothers of Strife","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1134918]}

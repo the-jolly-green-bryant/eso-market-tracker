@@ -1,10 +1,1 @@
-{
-  "internalId": 1027324269,
-  "name": "Menagerie Keeper's Gloves",
-  "description": "Talomar of the Royal Menagerie gave you these fine hide gloves for putting an end to Conservator Vinelore's cruel experiments.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_aldmeri_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    134717
-  ]
-}
+{"internalId":1027324269,"name":"Menagerie Keeper's Gloves","description":"Talomar of the Royal Menagerie gave you these fine hide gloves for putting an end to Conservator Vinelore's cruel experiments.","icon":"data/images/a_/sd/na/gear_aldmeri_medium_hands_a.png","bindType":2,"knownIds":[134717]}

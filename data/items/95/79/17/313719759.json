@@ -1,10 +1,1 @@
-{
-  "internalId": 313719759,
-  "name": "Bound Style Page: Grave Dancer Axe",
-  "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": 3,
-  "knownIds": [
-    167263
-  ]
-}
+{"internalId":313719759,"name":"Bound Style Page: Grave Dancer Axe","description":"Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":3,"knownIds":[167263]}

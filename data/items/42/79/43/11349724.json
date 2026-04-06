@@ -1,10 +1,1 @@
-{
-  "internalId": 11349724,
-  "name": "Adamant Lurker Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196196
-  ]
-}
+{"internalId":11349724,"name":"Adamant Lurker Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_shoulders_a.png","bindType":2,"knownIds":[196196]}

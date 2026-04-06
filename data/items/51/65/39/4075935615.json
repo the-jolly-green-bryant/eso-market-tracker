@@ -1,10 +1,1 @@
-{
-  "internalId": 4075935615,
-  "name": "Diagram: Redguard Sconce, Polished",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119205
-  ]
-}
+{"internalId":4075935615,"name":"Diagram: Redguard Sconce, Polished","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119205]}

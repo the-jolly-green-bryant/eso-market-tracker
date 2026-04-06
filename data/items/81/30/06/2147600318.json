@@ -1,15 +1,1 @@
-{
-  "internalId": 2147600318,
-  "name": "Blackfeather Court Whistle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_whistle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    396379,
-    765911,
-    757581,
-    396379,
-    765911,
-    757581
-  ]
-}
+{"internalId":2147600318,"name":"Blackfeather Court Whistle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_whistle_002.png","bindType":-1,"knownIds":[396379,765911,757581,396379,765911,757581]}

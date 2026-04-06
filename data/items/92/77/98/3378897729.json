@@ -1,10 +1,1 @@
-{
-  "internalId": 3378897729,
-  "name": "High Elf Lamppost, Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_lsb_lamppost001.png",
-  "bindType": -1,
-  "knownIds": [
-    114408
-  ]
-}
+{"internalId":3378897729,"name":"High Elf Lamppost, Stone","description":"This is a large house item.","icon":"data/images/10/0t/so/housing_alt_lsb_lamppost001.png","bindType":-1,"knownIds":[114408]}

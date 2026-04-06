@@ -1,10 +1,1 @@
-{
-  "internalId": 4189871112,
-  "name": "Tree, Blooming Crabapple",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_craglorngrasslandcrabapplegreen001.png",
-  "bindType": -1,
-  "knownIds": [
-    120543
-  ]
-}
+{"internalId":4189871112,"name":"Tree, Blooming Crabapple","description":"This is a large house item.","icon":"data/images/10/0n/ee/housing_tre_dec_craglorngrasslandcrabapplegreen001.png","bindType":-1,"knownIds":[120543]}

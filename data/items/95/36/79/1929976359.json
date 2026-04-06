@@ -1,10 +1,1 @@
-{
-  "internalId": 1929976359,
-  "name": "Rajhin's Final Cups",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_rajhins_cup.png",
-  "bindType": -1,
-  "knownIds": [
-    1272593
-  ]
-}
+{"internalId":1929976359,"name":"Rajhin's Final Cups","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_rajhins_cup.png","bindType":-1,"knownIds":[1272593]}

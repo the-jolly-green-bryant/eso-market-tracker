@@ -1,10 +1,1 @@
-{
-  "internalId": 3500234190,
-  "name": "Display Case, Standing Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_reliccase006.png",
-  "bindType": -1,
-  "knownIds": [
-    139303
-  ]
-}
+{"internalId":3500234190,"name":"Display Case, Standing Arched","description":"This is a standard house item.","icon":"data/images/60/0e/sa/housing_sum_inc_reliccase006.png","bindType":-1,"knownIds":[139303]}

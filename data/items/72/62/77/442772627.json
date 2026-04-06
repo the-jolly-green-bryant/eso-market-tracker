@@ -1,10 +1,1 @@
-{
-  "internalId": 442772627,
-  "name": "Style Page: Horned Dragon Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1257126
-  ]
-}
+{"internalId":442772627,"name":"Style Page: Horned Dragon Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1257126]}

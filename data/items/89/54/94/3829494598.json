@@ -1,10 +1,1 @@
-{
-  "internalId": 3829494598,
-  "name": "Crafting Motif 101: Ivory Brigade Daggers",
-  "description": "Use to learn how to make Ivory Brigade Daggers. Also teaches the equivalent Ivory Brigade Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171901
-  ]
-}
+{"internalId":3829494598,"name":"Crafting Motif 101: Ivory Brigade Daggers","description":"Use to learn how to make Ivory Brigade Daggers. Also teaches the equivalent Ivory Brigade Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171901]}

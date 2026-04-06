@@ -1,10 +1,1 @@
-{
-  "internalId": 3767887779,
-  "name": "Deathbringer Clan Facepaint",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_deathbringer_facepaint.png",
-  "bindType": -1,
-  "knownIds": [
-    1303291
-  ]
-}
+{"internalId":3767887779,"name":"Deathbringer Clan Facepaint","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_deathbringer_facepaint.png","bindType":-1,"knownIds":[1303291]}

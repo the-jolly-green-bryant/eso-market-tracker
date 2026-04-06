@@ -1,10 +1,1 @@
-{
-  "internalId": 3331178186,
-  "name": "Crawlers, Foul Bait",
-  "description": "Bait best used for fishing in Foul water.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_centipede.png",
-  "bindType": -1,
-  "knownIds": [
-    42871
-  ]
-}
+{"internalId":3331178186,"name":"Crawlers, Foul Bait","description":"Bait best used for fishing in Foul water.","icon":"data/images/ed/ep/it/crafting_fishing_centipede.png","bindType":-1,"knownIds":[42871]}

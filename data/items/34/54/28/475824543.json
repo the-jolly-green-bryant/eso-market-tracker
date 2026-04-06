@@ -1,10 +1,1 @@
-{
-  "internalId": 475824543,
-  "name": "Kagouti Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1147687
-  ]
-}
+{"internalId":475824543,"name":"Kagouti Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png","bindType":-1,"knownIds":[1147687]}

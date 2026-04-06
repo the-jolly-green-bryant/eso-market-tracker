@@ -1,10 +1,1 @@
-{
-  "internalId": 393131699,
-  "name": "Praxis: Fargrave Switch Plate, Green",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    224278
-  ]
-}
+{"internalId":393131699,"name":"Praxis: Fargrave Switch Plate, Green","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[224278]}

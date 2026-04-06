@@ -1,10 +1,1 @@
-{
-  "internalId": 2486758513,
-  "name": "Vampiric Chandelier, Amber Fanged",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabchandelier003.png",
-  "bindType": -1,
-  "knownIds": [
-    165623
-  ]
-}
+{"internalId":2486758513,"name":"Vampiric Chandelier, Amber Fanged","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabchandelier003.png","bindType":-1,"knownIds":[165623]}

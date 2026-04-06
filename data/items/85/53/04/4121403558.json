@@ -1,10 +1,1 @@
-{
-  "internalId": 4121403558,
-  "name": "Crafting Motif 84: Blackreach Vanguard Belts",
-  "description": "Use to learn how to make Blackreach Vanguard Belts. Also teaches the equivalent Blackreach Vanguard Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160495
-  ]
-}
+{"internalId":4121403558,"name":"Crafting Motif 84: Blackreach Vanguard Belts","description":"Use to learn how to make Blackreach Vanguard Belts. Also teaches the equivalent Blackreach Vanguard Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160495]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1917734804,
-  "name": "Deadlands Column, Heavy",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_duc_dedplaceablecolumn001.png",
-  "bindType": -1,
-  "knownIds": [
-    182268
-  ]
-}
+{"internalId":1917734804,"name":"Deadlands Column, Heavy","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_duc_dedplaceablecolumn001.png","bindType":-1,"knownIds":[182268]}

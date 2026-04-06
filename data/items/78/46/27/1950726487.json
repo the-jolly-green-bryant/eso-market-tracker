@@ -1,13 +1,1 @@
-{
-  "internalId": 1950726487,
-  "name": "Vandorallen's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_sword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748971,
-    1751619,
-    1748971,
-    1751619
-  ]
-}
+{"internalId":1950726487,"name":"Vandorallen's Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_exilesrevenge_sword_a.png","bindType":-1,"knownIds":[1748971,1751619,1748971,1751619]}

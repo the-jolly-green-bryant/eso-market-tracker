@@ -1,10 +1,1 @@
-{
-  "internalId": 904786951,
-  "name": "Uncharged Dwemer Orb",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    820913
-  ]
-}
+{"internalId":904786951,"name":"Uncharged Dwemer Orb","description":"","icon":null,"bindType":-1,"knownIds":[820913]}

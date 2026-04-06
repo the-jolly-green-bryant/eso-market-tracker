@@ -1,10 +1,1 @@
-{
-  "internalId": 1851842367,
-  "name": "Elsweyr Mortar and Pestle, Engraved",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_pestlemortar001.png",
-  "bindType": -1,
-  "knownIds": [
-    159444
-  ]
-}
+{"internalId":1851842367,"name":"Elsweyr Mortar and Pestle, Engraved","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_pestlemortar001.png","bindType":-1,"knownIds":[159444]}

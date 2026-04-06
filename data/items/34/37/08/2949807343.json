@@ -1,10 +1,1 @@
-{
-  "internalId": 2949807343,
-  "name": "Necklace of the Archer's Mind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    87499
-  ]
-}
+{"internalId":2949807343,"name":"Necklace of the Archer's Mind","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[87499]}

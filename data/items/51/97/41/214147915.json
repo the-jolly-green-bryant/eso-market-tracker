@@ -1,10 +1,1 @@
-{
-  "internalId": 214147915,
-  "name": "Jade Cameo Sculpture",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cameo_001.png",
-  "bindType": -1,
-  "knownIds": [
-    713387
-  ]
-}
+{"internalId":214147915,"name":"Jade Cameo Sculpture","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cameo_001.png","bindType":-1,"knownIds":[713387]}

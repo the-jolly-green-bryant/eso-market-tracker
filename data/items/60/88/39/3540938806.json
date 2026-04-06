@@ -1,10 +1,1 @@
-{
-  "internalId": 3540938806,
-  "name": "Key to the Greedy Gut",
-  "description": "This key looks to open the locked door on the bottom floor of the Greedy Gut inn in Orsinium",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_key_001.png",
-  "bindType": -1,
-  "knownIds": [
-    64538
-  ]
-}
+{"internalId":3540938806,"name":"Key to the Greedy Gut","description":"This key looks to open the locked door on the bottom floor of the Greedy Gut inn in Orsinium","icon":"data/images/10/0_/ye/quest_key_001.png","bindType":-1,"knownIds":[64538]}

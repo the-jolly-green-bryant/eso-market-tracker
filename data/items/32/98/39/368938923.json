@@ -1,10 +1,1 @@
-{
-  "internalId": 368938923,
-  "name": "Ice Furnace Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86516
-  ]
-}
+{"internalId":368938923,"name":"Ice Furnace Gauntlets","description":"","icon":"data/images/d_/sd/na/gear_redguard_heavy_hands_d.png","bindType":2,"knownIds":[86516]}

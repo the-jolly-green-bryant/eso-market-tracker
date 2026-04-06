@@ -1,10 +1,1 @@
-{
-  "internalId": 22544258,
-  "name": "Register of Accounts and Holdings",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    823511
-  ]
-}
+{"internalId":22544258,"name":"Register of Accounts and Holdings","description":"","icon":null,"bindType":-1,"knownIds":[823511]}

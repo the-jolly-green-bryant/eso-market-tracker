@@ -1,10 +1,1 @@
-{
-  "internalId": 3467210615,
-  "name": "Helenus' Helm",
-  "description": "Captain Wardush met a bitter end in pursuit of revenge for Old Tower. His sister wives awarded this helmet as thanks for seeing to his last wishes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_medium_head_b.png",
-  "bindType": 2,
-  "knownIds": [
-    15592
-  ]
-}
+{"internalId":3467210615,"name":"Helenus' Helm","description":"Captain Wardush met a bitter end in pursuit of revenge for Old Tower. His sister wives awarded this helmet as thanks for seeing to his last wishes.","icon":"data/images/b_/da/eh/gear_imperial_medium_head_b.png","bindType":2,"knownIds":[15592]}

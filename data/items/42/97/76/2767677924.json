@@ -1,10 +1,1 @@
-{
-  "internalId": 2767677924,
-  "name": "Dead Man's Ring of Salvation",
-  "description": "This ring is gold in color, but color only.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    34754
-  ]
-}
+{"internalId":2767677924,"name":"Dead Man's Ring of Salvation","description":"This ring is gold in color, but color only.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[34754]}

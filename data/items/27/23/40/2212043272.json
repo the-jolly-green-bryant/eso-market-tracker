@@ -1,10 +1,1 @@
-{
-  "internalId": 2212043272,
-  "name": "Invitation To the Thane's Feast",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    873209
-  ]
-}
+{"internalId":2212043272,"name":"Invitation To the Thane's Feast","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[873209]}

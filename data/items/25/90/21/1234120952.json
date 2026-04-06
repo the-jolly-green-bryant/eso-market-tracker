@@ -1,10 +1,1 @@
-{
-  "internalId": 1234120952,
-  "name": "Redguard Bed, Full Arched",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varbedsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    117723
-  ]
-}
+{"internalId":1234120952,"name":"Redguard Bed, Full Arched","description":"This is a large house item.","icon":"data/images/10/0l/la/housing_red_fur_varbedsmall001.png","bindType":-1,"knownIds":[117723]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3847447142,
-  "name": "Mushroom, Russet Chanterelle Pair",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_giantchanterelle003.png",
-  "bindType": -1,
-  "knownIds": [
-    198471
-  ]
-}
+{"internalId":3847447142,"name":"Mushroom, Russet Chanterelle Pair","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_giantchanterelle003.png","bindType":-1,"knownIds":[198471]}

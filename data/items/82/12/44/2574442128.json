@@ -1,10 +1,1 @@
-{
-  "internalId": 2574442128,
-  "name": "Hexos' Ward Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180240
-  ]
-}
+{"internalId":2574442128,"name":"Hexos' Ward Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperialv2_1hhammer_a.png","bindType":2,"knownIds":[180240]}

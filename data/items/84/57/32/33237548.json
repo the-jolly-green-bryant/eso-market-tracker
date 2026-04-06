@@ -1,10 +1,1 @@
-{
-  "internalId": 33237548,
-  "name": "Deadlands Wall Spikes",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedwallspikes002.png",
-  "bindType": -1,
-  "knownIds": [
-    182241
-  ]
-}
+{"internalId":33237548,"name":"Deadlands Wall Spikes","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedwallspikes002.png","bindType":-1,"knownIds":[182241]}

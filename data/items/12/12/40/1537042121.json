@@ -1,10 +1,1 @@
-{
-  "internalId": 1537042121,
-  "name": "Twice-Born Star Weapons",
-  "description": "A Crafted Armor set constructed in Craglorn.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182662
-  ]
-}
+{"internalId":1537042121,"name":"Twice-Born Star Weapons","description":"A Crafted Armor set constructed in Craglorn.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182662]}

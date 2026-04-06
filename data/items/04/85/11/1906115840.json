@@ -1,10 +1,1 @@
-{
-  "internalId": 1906115840,
-  "name": "Greatsword of Cyrodiil's Ward",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93868
-  ]
-}
+{"internalId":1906115840,"name":"Greatsword of Cyrodiil's Ward","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[93868]}

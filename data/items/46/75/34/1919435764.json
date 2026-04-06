@@ -1,10 +1,1 @@
-{
-  "internalId": 1919435764,
-  "name": "Battlefield Marker, Flag Spear",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_battlefieldflagpole001.png",
-  "bindType": -1,
-  "knownIds": [
-    220302
-  ]
-}
+{"internalId":1919435764,"name":"Battlefield Marker, Flag Spear","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_battlefieldflagpole001.png","bindType":-1,"knownIds":[220302]}

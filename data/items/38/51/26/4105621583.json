@@ -1,10 +1,1 @@
-{
-  "internalId": 4105621583,
-  "name": "Fern, Ashen",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_vrdyellowfern001.png",
-  "bindType": -1,
-  "knownIds": [
-    125543
-  ]
-}
+{"internalId":4105621583,"name":"Fern, Ashen","description":"This is a small house item.","icon":"data/images/10/0n/re/housing_veg_bsh_vrdyellowfern001.png","bindType":-1,"knownIds":[125543]}

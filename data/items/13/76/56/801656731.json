@@ -1,10 +1,1 @@
-{
-  "internalId": 801656731,
-  "name": "Metallic: Stone Watchtower",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan262.png",
-  "bindType": -1,
-  "knownIds": [
-    1187691
-  ]
-}
+{"internalId":801656731,"name":"Metallic: Stone Watchtower","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan262.png","bindType":-1,"knownIds":[1187691]}

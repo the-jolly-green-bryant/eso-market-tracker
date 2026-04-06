@@ -1,10 +1,1 @@
-{
-  "internalId": 176115209,
-  "name": "Blood Mask",
-  "description": "This protective head covering was bestowed for aiding the vampires of Wittestadr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7661
-  ]
-}
+{"internalId":176115209,"name":"Blood Mask","description":"This protective head covering was bestowed for aiding the vampires of Wittestadr.","icon":"data/images/d_/da/eh/gear_nord_medium_head_d.png","bindType":2,"knownIds":[7661]}

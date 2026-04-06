@@ -1,10 +1,1 @@
-{
-  "internalId": 3298353905,
-  "name": "Vampire Lord's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100560
-  ]
-}
+{"internalId":3298353905,"name":"Vampire Lord's Gloves","description":"","icon":"data/images/d_/sd/na/gear_altmer_light_hands_d.png","bindType":2,"knownIds":[100560]}

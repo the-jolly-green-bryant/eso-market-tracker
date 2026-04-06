@@ -1,10 +1,1 @@
-{
-  "internalId": 1949417398,
-  "name": "Solitude Dresser, Rustic Shelves",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bookshelf003.png",
-  "bindType": -1,
-  "knownIds": [
-    165736
-  ]
-}
+{"internalId":1949417398,"name":"Solitude Dresser, Rustic Shelves","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bookshelf003.png","bindType":-1,"knownIds":[165736]}

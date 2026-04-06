@@ -1,10 +1,1 @@
-{
-  "internalId": 4230550385,
-  "name": "Design: Fargrave Box of Grapes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    183000
-  ]
-}
+{"internalId":4230550385,"name":"Design: Fargrave Box of Grapes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[183000]}

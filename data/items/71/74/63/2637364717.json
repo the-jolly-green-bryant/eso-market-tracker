@@ -1,10 +1,1 @@
-{
-  "internalId": 2637364717,
-  "name": "Shoes of Syrabane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85241
-  ]
-}
+{"internalId":2637364717,"name":"Shoes of Syrabane","description":"","icon":"data/images/d_/te/ef/gear_altmer_light_feet_d.png","bindType":2,"knownIds":[85241]}

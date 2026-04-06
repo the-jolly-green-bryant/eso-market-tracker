@@ -1,10 +1,1 @@
-{
-  "internalId": 3884435530,
-  "name": "Carved Shell Dish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    858960
-  ]
-}
+{"internalId":3884435530,"name":"Carved Shell Dish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[858960]}

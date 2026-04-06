@@ -1,10 +1,1 @@
-{
-  "internalId": 1155867085,
-  "name": "Anequina Crypt Cudgel",
-  "description": "A Khajiiti hammer superbly balanced and weighted for smashing the undead.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pellitine_mace_a.png",
-  "bindType": 2,
-  "knownIds": [
-    150384
-  ]
-}
+{"internalId":1155867085,"name":"Anequina Crypt Cudgel","description":"A Khajiiti hammer superbly balanced and weighted for smashing the undead.","icon":"data/images/a_/ec/am/gear_pellitine_mace_a.png","bindType":2,"knownIds":[150384]}

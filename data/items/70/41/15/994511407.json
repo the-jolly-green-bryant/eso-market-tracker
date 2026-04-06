@@ -1,10 +1,1 @@
-{
-  "internalId": 994511407,
-  "name": "Crafting Motif 37: Ebony Swords",
-  "description": "Use to learn how to make Ebony Swords. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Ebony Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    75242
-  ]
-}
+{"internalId":994511407,"name":"Crafting Motif 37: Ebony Swords","description":"Use to learn how to make Ebony Swords. Requires Rank 10 of any of the Metalworking, Tailoring, or Woodworking passives. Also teaches the equivalent Ebony Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[75242]}

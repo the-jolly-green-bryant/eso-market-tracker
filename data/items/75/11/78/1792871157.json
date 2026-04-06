@@ -1,10 +1,1 @@
-{
-  "internalId": 1792871157,
-  "name": "Bony Bed Chimes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_golden_toebells.png",
-  "bindType": -1,
-  "knownIds": [
-    1327008
-  ]
-}
+{"internalId":1792871157,"name":"Bony Bed Chimes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_golden_toebells.png","bindType":-1,"knownIds":[1327008]}

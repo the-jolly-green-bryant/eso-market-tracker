@@ -1,10 +1,1 @@
-{
-  "internalId": 4007860323,
-  "name": "Gloom-Graced Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135307
-  ]
-}
+{"internalId":4007860323,"name":"Gloom-Graced Battle Axe","description":"","icon":"data/images/a_/ex/ah/gear_nocturnal_2haxe_a.png","bindType":2,"knownIds":[135307]}

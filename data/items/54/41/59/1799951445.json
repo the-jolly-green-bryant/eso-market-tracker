@@ -1,17 +1,1 @@
-{
-  "internalId": 1799951445,
-  "name": "Soulcleaver Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1676598,
-    1702288,
-    1718692,
-    1719448,
-    1676598,
-    1702288,
-    1718692,
-    1719448
-  ]
-}
+{"internalId":1799951445,"name":"Soulcleaver Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_head_a.png","bindType":-1,"knownIds":[1676598,1702288,1718692,1719448,1676598,1702288,1718692,1719448]}

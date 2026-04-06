@@ -1,10 +1,1 @@
-{
-  "internalId": 1616830390,
-  "name": "Recipe: Kvatch Watch Grenache",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57052
-  ]
-}
+{"internalId":1616830390,"name":"Recipe: Kvatch Watch Grenache","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57052]}

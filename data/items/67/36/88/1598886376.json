@@ -1,10 +1,1 @@
-{
-  "internalId": 1598886376,
-  "name": "Tools, Case",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropstoolbox001.png",
-  "bindType": -1,
-  "knownIds": [
-    118238
-  ]
-}
+{"internalId":1598886376,"name":"Tools, Case","description":"This is a small house item.","icon":"data/images/10/0x/ob/housing_gen_crf_tablepropstoolbox001.png","bindType":-1,"knownIds":[118238]}

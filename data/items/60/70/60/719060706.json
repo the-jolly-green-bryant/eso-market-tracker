@@ -1,10 +1,1 @@
-{
-  "internalId": 719060706,
-  "name": "Bound Signature Script: Hunter's Snare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_snare.png",
-  "bindType": -1,
-  "knownIds": [
-    1720931
-  ]
-}
+{"internalId":719060706,"name":"Bound Signature Script: Hunter's Snare","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_snare.png","bindType":-1,"knownIds":[1720931]}

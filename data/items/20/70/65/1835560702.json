@@ -1,10 +1,1 @@
-{
-  "internalId": 1835560702,
-  "name": "Greatsword of Trinimac's Valor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129619
-  ]
-}
+{"internalId":1835560702,"name":"Greatsword of Trinimac's Valor","description":"","icon":"data/images/a_/dr/ow/gear_trinimac_2hsword_a.png","bindType":2,"knownIds":[129619]}

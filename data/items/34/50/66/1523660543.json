@@ -1,10 +1,1 @@
-{
-  "internalId": 1523660543,
-  "name": "Wood Elf Tent, Saplings",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_cmp_tentmediumvar002.png",
-  "bindType": -1,
-  "knownIds": [
-    212554
-  ]
-}
+{"internalId":1523660543,"name":"Wood Elf Tent, Saplings","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bos_cmp_tentmediumvar002.png","bindType":-1,"knownIds":[212554]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3847111798,
-  "name": "Exemplary Nirnhoned Hat",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Hat.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81624
-  ]
-}
+{"internalId":3847111798,"name":"Exemplary Nirnhoned Hat","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Hat.","icon":"data/images/d_/da/eh/gear_breton_light_head_d.png","bindType":-1,"knownIds":[81624]}

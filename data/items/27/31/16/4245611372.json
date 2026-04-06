@@ -1,10 +1,1 @@
-{
-  "internalId": 4245611372,
-  "name": "Trees, Shade Interwoven",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_castanopsis004.png",
-  "bindType": -1,
-  "knownIds": [
-    139336
-  ]
-}
+{"internalId":4245611372,"name":"Trees, Shade Interwoven","description":"This is a large house item.","icon":"data/images/40/0s/is/housing_tre_sum_castanopsis004.png","bindType":-1,"knownIds":[139336]}

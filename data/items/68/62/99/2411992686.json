@@ -1,10 +1,1 @@
-{
-  "internalId": 2411992686,
-  "name": "Innate Axiom Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    130690
-  ]
-}
+{"internalId":2411992686,"name":"Innate Axiom Greatsword","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[130690]}

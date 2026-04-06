@@ -1,10 +1,1 @@
-{
-  "internalId": 1036177894,
-  "name": "Stone-Nest Floor, Bordered Temple Tile",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_housingargfloorplain001.png",
-  "bindType": -1,
-  "knownIds": [
-    223825
-  ]
-}
+{"internalId":1036177894,"name":"Stone-Nest Floor, Bordered Temple Tile","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_housingargfloorplain001.png","bindType":-1,"knownIds":[223825]}

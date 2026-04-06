@@ -1,10 +1,1 @@
-{
-  "internalId": 3307069405,
-  "name": "Pulverized Gilding Wax",
-  "description": "Ten of these items can be refined into Gilding Wax, which is used to make Jewelry with the Swift Trait.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_mushroom_asco_cap_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    139418
-  ]
-}
+{"internalId":3307069405,"name":"Pulverized Gilding Wax","description":"Ten of these items can be refined into Gilding Wax, which is used to make Jewelry with the Swift Trait.","icon":"data/images/3r/_p/ac/crafting_mushroom_asco_cap_r3.png","bindType":-1,"knownIds":[139418]}

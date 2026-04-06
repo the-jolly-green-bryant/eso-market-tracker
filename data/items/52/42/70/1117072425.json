@@ -1,10 +1,1 @@
-{
-  "internalId": 1117072425,
-  "name": "Pattern: Leyawiin Rug, Carmine Octad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175939
-  ]
-}
+{"internalId":1117072425,"name":"Pattern: Leyawiin Rug, Carmine Octad","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[175939]}

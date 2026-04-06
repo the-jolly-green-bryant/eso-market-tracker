@@ -1,10 +1,1 @@
-{
-  "internalId": 4113814131,
-  "name": "Necrom Door, Large Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_nechighdoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    198030
-  ]
-}
+{"internalId":4113814131,"name":"Necrom Door, Large Metal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_nechighdoor001.png","bindType":-1,"knownIds":[198030]}

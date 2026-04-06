@@ -1,10 +1,1 @@
-{
-  "internalId": 369322938,
-  "name": "Shrunken Monkey Head",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1282711
-  ]
-}
+{"internalId":369322938,"name":"Shrunken Monkey Head","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_box_001.png","bindType":-1,"knownIds":[1282711]}

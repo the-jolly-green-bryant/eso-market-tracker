@@ -1,10 +1,1 @@
-{
-  "internalId": 1769610606,
-  "name": "Kelp Tree, Giant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_giantkelpsm001.png",
-  "bindType": -1,
-  "knownIds": [
-    223892
-  ]
-}
+{"internalId":1769610606,"name":"Kelp Tree, Giant","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_giantkelpsm001.png","bindType":-1,"knownIds":[223892]}

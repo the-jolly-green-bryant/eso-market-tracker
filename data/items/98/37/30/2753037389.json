@@ -1,10 +1,1 @@
-{
-  "internalId": 2753037389,
-  "name": "Shrub, Dense Forest",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_multileafgreen002.png",
-  "bindType": -1,
-  "knownIds": [
-    120718
-  ]
-}
+{"internalId":2753037389,"name":"Shrub, Dense Forest","description":"This is a small house item.","icon":"data/images/20/0n/ee/housing_veg_bsh_multileafgreen002.png","bindType":-1,"knownIds":[120718]}

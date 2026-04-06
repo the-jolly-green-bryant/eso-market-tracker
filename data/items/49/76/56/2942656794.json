@@ -1,15 +1,1 @@
-{
-  "internalId": 2942656794,
-  "name": "Baron Thirsk's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undgrievoustwilightv2_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1747615,
-    1752125,
-    1757360,
-    1747615,
-    1752125,
-    1757360
-  ]
-}
+{"internalId":2942656794,"name":"Baron Thirsk's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undgrievoustwilightv2_shoulder_a.png","bindType":-1,"knownIds":[1747615,1752125,1757360,1747615,1752125,1757360]}

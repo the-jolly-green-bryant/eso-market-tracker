@@ -1,10 +1,1 @@
-{
-  "internalId": 2017223324,
-  "name": "Wind-Up Skeevaton",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_taxidermied_rabbit.png",
-  "bindType": -1,
-  "knownIds": [
-    1415301
-  ]
-}
+{"internalId":2017223324,"name":"Wind-Up Skeevaton","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_taxidermied_rabbit.png","bindType":-1,"knownIds":[1415301]}

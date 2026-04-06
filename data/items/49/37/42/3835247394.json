@@ -1,10 +1,1 @@
-{
-  "internalId": 3835247394,
-  "name": "Lantern of the Golden Era",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_golden_era_lantern.png",
-  "bindType": -1,
-  "knownIds": [
-    1138870
-  ]
-}
+{"internalId":3835247394,"name":"Lantern of the Golden Era","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_golden_era_lantern.png","bindType":-1,"knownIds":[1138870]}

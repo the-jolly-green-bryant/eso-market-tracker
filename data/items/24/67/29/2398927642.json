@@ -1,10 +1,1 @@
-{
-  "internalId": 2398927642,
-  "name": "Fiord's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100370
-  ]
-}
+{"internalId":2398927642,"name":"Fiord's Guards","description":"","icon":"data/images/d_/sg/el/gear_nord_medium_legs_d.png","bindType":2,"knownIds":[100370]}

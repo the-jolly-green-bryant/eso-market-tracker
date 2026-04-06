@@ -1,10 +1,1 @@
-{
-  "internalId": 3727194025,
-  "name": "Wamasu-Hide Tarpaulin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    791934
-  ]
-}
+{"internalId":3727194025,"name":"Wamasu-Hide Tarpaulin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[791934]}

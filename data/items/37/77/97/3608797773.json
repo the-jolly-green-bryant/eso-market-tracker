@@ -1,10 +1,1 @@
-{
-  "internalId": 3608797773,
-  "name": "Vampire Fang",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_undead_vampire_fang.png",
-  "bindType": -1,
-  "knownIds": [
-    64210
-  ]
-}
+{"internalId":3608797773,"name":"Vampire Fang","description":"","icon":"data/images/gn/af/_e/crafting_undead_vampire_fang.png","bindType":-1,"knownIds":[64210]}

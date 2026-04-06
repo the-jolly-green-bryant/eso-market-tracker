@@ -1,10 +1,1 @@
-{
-  "internalId": 2844328523,
-  "name": "Steel Calipers With Guar-Skin Grip",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_coldharbour_daedric_key.png",
-  "bindType": -1,
-  "knownIds": [
-    860597
-  ]
-}
+{"internalId":2844328523,"name":"Steel Calipers With Guar-Skin Grip","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_coldharbour_daedric_key.png","bindType":-1,"knownIds":[860597]}

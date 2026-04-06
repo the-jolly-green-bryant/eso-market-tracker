@@ -1,10 +1,1 @@
-{
-  "internalId": 826968072,
-  "name": "Design: Lime Slice, Display",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    217538
-  ]
-}
+{"internalId":826968072,"name":"Design: Lime Slice, Display","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[217538]}

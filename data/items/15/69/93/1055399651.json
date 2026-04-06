@@ -1,10 +1,1 @@
-{
-  "internalId": 1055399651,
-  "name": "Crafting Motif 130: Exile's Revenge Bows",
-  "description": "Use to learn how to make Exile's Revenge Bows. Also teaches the equivalent Exile's Revenge Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    211058
-  ]
-}
+{"internalId":1055399651,"name":"Crafting Motif 130: Exile's Revenge Bows","description":"Use to learn how to make Exile's Revenge Bows. Also teaches the equivalent Exile's Revenge Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[211058]}

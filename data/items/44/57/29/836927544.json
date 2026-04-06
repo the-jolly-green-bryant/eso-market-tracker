@@ -1,10 +1,1 @@
-{
-  "internalId": 836927544,
-  "name": "Jack of Trials",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    70250
-  ]
-}
+{"internalId":836927544,"name":"Jack of Trials","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[70250]}

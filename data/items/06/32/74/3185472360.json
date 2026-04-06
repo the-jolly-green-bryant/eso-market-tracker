@@ -1,10 +1,1 @@
-{
-  "internalId": 3185472360,
-  "name": "Threads of War Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206492
-  ]
-}
+{"internalId":3185472360,"name":"Threads of War Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[206492]}

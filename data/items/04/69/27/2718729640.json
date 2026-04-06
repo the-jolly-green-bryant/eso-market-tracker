@@ -1,10 +1,1 @@
-{
-  "internalId": 2718729640,
-  "name": "Cheese",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_trollfat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    27057
-  ]
-}
+{"internalId":2718729640,"name":"Cheese","description":"An ingredient for crafting food.","icon":"data/images/10/0_/ta/quest_trollfat_001.png","bindType":-1,"knownIds":[27057]}

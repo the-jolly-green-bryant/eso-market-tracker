@@ -1,10 +1,1 @@
-{
-  "internalId": 3651039127,
-  "name": "Magnifying Monocle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    854631
-  ]
-}
+{"internalId":3651039127,"name":"Magnifying Monocle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[854631]}

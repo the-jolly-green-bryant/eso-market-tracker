@@ -1,10 +1,1 @@
-{
-  "internalId": 2695576855,
-  "name": "Daring Corsair's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155767
-  ]
-}
+{"internalId":2695576855,"name":"Daring Corsair's Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[155767]}

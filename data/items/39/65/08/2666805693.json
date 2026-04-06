@@ -1,10 +1,1 @@
-{
-  "internalId": 2666805693,
-  "name": "Daedric Symbol",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    814705
-  ]
-}
+{"internalId":2666805693,"name":"Daedric Symbol","description":"","icon":null,"bindType":-1,"knownIds":[814705]}

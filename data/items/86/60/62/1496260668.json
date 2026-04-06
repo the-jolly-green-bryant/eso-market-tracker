@@ -1,13 +1,1 @@
-{
-  "internalId": 1496260668,
-  "name": "orichalc-steel sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    462805,
-    871522,
-    462805,
-    871522
-  ]
-}
+{"internalId":1496260668,"name":"orichalc-steel sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png","bindType":-1,"knownIds":[462805,871522,462805,871522]}

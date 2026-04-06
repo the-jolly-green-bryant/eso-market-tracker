@@ -1,10 +1,1 @@
-{
-  "internalId": 1942905646,
-  "name": "Jewelry Crafting Survey: Western Skyrim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1367661
-  ]
-}
+{"internalId":1942905646,"name":"Jewelry Crafting Survey: Western Skyrim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1367661]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4173173797,
-  "name": "Morning Reveille Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_003.png",
-  "bindType": -1,
-  "knownIds": [
-    37927
-  ]
-}
+{"internalId":4173173797,"name":"Morning Reveille Tea","description":"","icon":"data/images/30/0_/ae/crafting_tea_003.png","bindType":-1,"knownIds":[37927]}

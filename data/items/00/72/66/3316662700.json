@@ -1,10 +1,1 @@
-{
-  "internalId": 3316662700,
-  "name": "Deshedding Brush",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1148285
-  ]
-}
+{"internalId":3316662700,"name":"Deshedding Brush","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_comb_001.png","bindType":-1,"knownIds":[1148285]}

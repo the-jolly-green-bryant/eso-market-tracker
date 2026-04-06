@@ -1,10 +1,1 @@
-{
-  "internalId": 3585456128,
-  "name": "Old Lado Grapes",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_berry_004.png",
-  "bindType": -1,
-  "knownIds": [
-    40267
-  ]
-}
+{"internalId":3585456128,"name":"Old Lado Grapes","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/40/0_/yr/crafting_components_berry_004.png","bindType":-1,"knownIds":[40267]}

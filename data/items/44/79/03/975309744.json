@@ -1,10 +1,1 @@
-{
-  "internalId": 975309744,
-  "name": "Mudcrab Chitin",
-  "description": "An ingredient for alchemy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_mudcrab_chitin.png",
-  "bindType": -1,
-  "knownIds": [
-    77591
-  ]
-}
+{"internalId":975309744,"name":"Mudcrab Chitin","description":"An ingredient for alchemy.","icon":"data/images/ni/ti/hc/crafting_poisonmaking_reagent_mudcrab_chitin.png","bindType":-1,"knownIds":[77591]}

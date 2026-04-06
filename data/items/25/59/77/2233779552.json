@@ -1,10 +1,1 @@
-{
-  "internalId": 2233779552,
-  "name": "Hlaalu Gaming Table, Foxes & Felines",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlagamesetandtable002.png",
-  "bindType": -1,
-  "knownIds": [
-    134917
-  ]
-}
+{"internalId":2233779552,"name":"Hlaalu Gaming Table, Foxes & Felines","description":"This is a standard house item.","icon":"data/images/20/0e/lb/housing_vrd_inc_hlagamesetandtable002.png","bindType":-1,"knownIds":[134917]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4113610324,
-  "name": "Bound Affix Script: Courage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_courage.png",
-  "bindType": -1,
-  "knownIds": [
-    1721605
-  ]
-}
+{"internalId":4113610324,"name":"Bound Affix Script: Courage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_courage.png","bindType":-1,"knownIds":[1721605]}

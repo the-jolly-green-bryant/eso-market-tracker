@@ -1,10 +1,1 @@
-{
-  "internalId": 2060951727,
-  "name": "Nord Stone, Marked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_exc_runestone001.png",
-  "bindType": -1,
-  "knownIds": [
-    182618
-  ]
-}
+{"internalId":2060951727,"name":"Nord Stone, Marked","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_nor_exc_runestone001.png","bindType":-1,"knownIds":[182618]}

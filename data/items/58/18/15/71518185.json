@@ -1,10 +1,1 @@
-{
-  "internalId": 71518185,
-  "name": "Blueprint: Necrom Shelf, Elegant Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    198534
-  ]
-}
+{"internalId":71518185,"name":"Blueprint: Necrom Shelf, Elegant Small","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[198534]}

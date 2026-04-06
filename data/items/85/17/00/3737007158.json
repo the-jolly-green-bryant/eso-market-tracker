@@ -1,10 +1,1 @@
-{
-  "internalId": 3737007158,
-  "name": "Crafting Motif 97: Wayward Guardian Shields",
-  "description": "Use to learn how to make Wayward Guardian Shields. Also teaches the equivalent Wayward Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167988
-  ]
-}
+{"internalId":3737007158,"name":"Crafting Motif 97: Wayward Guardian Shields","description":"Use to learn how to make Wayward Guardian Shields. Also teaches the equivalent Wayward Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167988]}

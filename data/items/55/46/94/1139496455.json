@@ -1,10 +1,1 @@
-{
-  "internalId": 1139496455,
-  "name": "Twice-Born Star Light Armor",
-  "description": "A Crafted Armor set constructed in Craglorn.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182658
-  ]
-}
+{"internalId":1139496455,"name":"Twice-Born Star Light Armor","description":"A Crafted Armor set constructed in Craglorn.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182658]}

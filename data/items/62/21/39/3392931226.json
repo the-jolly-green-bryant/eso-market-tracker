@@ -1,10 +1,1 @@
-{
-  "internalId": 3392931226,
-  "name": "Bloodfiends of Rivenspire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1418325
-  ]
-}
+{"internalId":3392931226,"name":"Bloodfiends of Rivenspire","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1418325]}

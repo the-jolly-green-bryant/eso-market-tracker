@@ -1,10 +1,1 @@
-{
-  "internalId": 3557456567,
-  "name": "Baling Hook",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_slaughterfish_grappel.png",
-  "bindType": -1,
-  "knownIds": [
-    441619
-  ]
-}
+{"internalId":3557456567,"name":"Baling Hook","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_slaughterfish_grappel.png","bindType":-1,"knownIds":[441619]}

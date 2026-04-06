@@ -1,10 +1,1 @@
-{
-  "internalId": 127078191,
-  "name": "Ancient Dragonguard's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156141
-  ]
-}
+{"internalId":127078191,"name":"Ancient Dragonguard's Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[156141]}

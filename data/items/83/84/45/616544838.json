@@ -1,10 +1,1 @@
-{
-  "internalId": 616544838,
-  "name": "Eye of the Grasp Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180093
-  ]
-}
+{"internalId":616544838,"name":"Eye of the Grasp Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_light_waist_a.png","bindType":2,"knownIds":[180093]}

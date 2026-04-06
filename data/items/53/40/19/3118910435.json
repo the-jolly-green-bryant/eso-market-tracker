@@ -1,10 +1,1 @@
-{
-  "internalId": 3118910435,
-  "name": "Tranquility Pale Ale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33436
-  ]
-}
+{"internalId":3118910435,"name":"Tranquility Pale Ale","description":"","icon":"data/images/10/0_/re/crafting_beer_001.png","bindType":-1,"knownIds":[33436]}

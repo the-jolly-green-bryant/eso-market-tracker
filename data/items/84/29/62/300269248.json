@@ -1,10 +1,1 @@
-{
-  "internalId": 300269248,
-  "name": "Redoran Urn, Pale Marble",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_urn005.png",
-  "bindType": -1,
-  "knownIds": [
-    126510
-  ]
-}
+{"internalId":300269248,"name":"Redoran Urn, Pale Marble","description":"This is a small house item.","icon":"data/images/50/0n/ru/housing_vrd_duc_urn005.png","bindType":-1,"knownIds":[126510]}

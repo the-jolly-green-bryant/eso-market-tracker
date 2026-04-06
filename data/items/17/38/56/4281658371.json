@@ -1,10 +1,1 @@
-{
-  "internalId": 4281658371,
-  "name": "Pauldron of Draugr Heritage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101857
-  ]
-}
+{"internalId":4281658371,"name":"Pauldron of Draugr Heritage","description":"","icon":"data/images/a_/sr/ed/gear_draugr_heavy_shoulders_a.png","bindType":2,"knownIds":[101857]}

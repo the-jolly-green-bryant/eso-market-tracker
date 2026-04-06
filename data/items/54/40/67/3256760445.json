@@ -1,10 +1,1 @@
-{
-  "internalId": 3256760445,
-  "name": "Boots of Serpent's Disdain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185515
-  ]
-}
+{"internalId":3256760445,"name":"Boots of Serpent's Disdain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[185515]}

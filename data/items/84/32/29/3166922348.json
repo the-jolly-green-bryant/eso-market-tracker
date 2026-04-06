@@ -1,10 +1,1 @@
-{
-  "internalId": 3166922348,
-  "name": "Crafting Motif 76: Dragonguard Style",
-  "description": "Use to learn the Dragonguard crafting style. Also teaches the equivalent Dragonguard outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    156555
-  ]
-}
+{"internalId":3166922348,"name":"Crafting Motif 76: Dragonguard Style","description":"Use to learn the Dragonguard crafting style. Also teaches the equivalent Dragonguard outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[156555]}

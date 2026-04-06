@@ -1,15 +1,1 @@
-{
-  "internalId": 2228748069,
-  "name": "Stone-Talker's Perfected Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_shield_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1581716,
-    1679262,
-    1687083,
-    1581716,
-    1679262,
-    1687083
-  ]
-}
+{"internalId":2228748069,"name":"Stone-Talker's Perfected Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_rockgrove_shield_a.png","bindType":-1,"knownIds":[1581716,1679262,1687083,1581716,1679262,1687083]}

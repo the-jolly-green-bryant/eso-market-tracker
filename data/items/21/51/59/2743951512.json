@@ -1,10 +1,1 @@
-{
-  "internalId": 2743951512,
-  "name": "Lokkestiiz's Perfected Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_shield_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1747630
-  ]
-}
+{"internalId":2743951512,"name":"Lokkestiiz's Perfected Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_shield_a.png","bindType":-1,"knownIds":[1747630]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2445816001,
-  "name": "Dowsing Femur",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png",
-  "bindType": -1,
-  "knownIds": [
-    419828
-  ]
-}
+{"internalId":2445816001,"name":"Dowsing Femur","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wand_002.png","bindType":-1,"knownIds":[419828]}

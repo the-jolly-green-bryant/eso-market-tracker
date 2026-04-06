@@ -1,10 +1,1 @@
-{
-  "internalId": 2126284788,
-  "name": "Seventh Legion's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100920
-  ]
-}
+{"internalId":2126284788,"name":"Seventh Legion's Ice Staff","description":"","icon":"data/images/d_/ff/at/gear_orc_staff_d.png","bindType":2,"knownIds":[100920]}

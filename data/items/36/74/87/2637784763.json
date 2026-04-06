@@ -1,15 +1,1 @@
-{
-  "internalId": 2637784763,
-  "name": "Nix-Hound's Howl Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1636308,
-    1735458,
-    1760989,
-    1636308,
-    1735458,
-    1760989
-  ]
-}
+{"internalId":2637784763,"name":"Nix-Hound's Howl Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_dagger_a.png","bindType":-1,"knownIds":[1636308,1735458,1760989,1636308,1735458,1760989]}

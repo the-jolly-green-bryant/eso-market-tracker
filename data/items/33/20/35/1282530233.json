@@ -1,10 +1,1 @@
-{
-  "internalId": 1282530233,
-  "name": "Darkstride Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85960
-  ]
-}
+{"internalId":1282530233,"name":"Darkstride Boots","description":"","icon":"data/images/a_/te/ef/gear_thievesguildv2_medium_feet_a.png","bindType":2,"knownIds":[85960]}

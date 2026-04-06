@@ -1,10 +1,1 @@
-{
-  "internalId": 2810522535,
-  "name": "Woodworking Station",
-  "description": "When placed in your home, allows you to craft Woodworking items.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portabletablewoodworking001.png",
-  "bindType": -1,
-  "knownIds": [
-    119744
-  ]
-}
+{"internalId":2810522535,"name":"Woodworking Station","description":"When placed in your home, allows you to craft Woodworking items.","icon":"data/images/10/0g/ni/housing_gen_crf_portabletablewoodworking001.png","bindType":-1,"knownIds":[119744]}

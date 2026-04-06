@@ -1,10 +1,1 @@
-{
-  "internalId": 2517395144,
-  "name": "Dauntless Combatant (Crafted)",
-  "description": "An item set crafted in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    159523
-  ]
-}
+{"internalId":2517395144,"name":"Dauntless Combatant (Crafted)","description":"An item set crafted in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[159523]}

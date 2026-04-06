@@ -1,10 +1,1 @@
-{
-  "internalId": 23363937,
-  "name": "Vampiric Fountain, Bat Swarm",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_housingvampirefountain002.png",
-  "bindType": -1,
-  "knownIds": [
-    166029
-  ]
-}
+{"internalId":23363937,"name":"Vampiric Fountain, Bat Swarm","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_housingvampirefountain002.png","bindType":-1,"knownIds":[166029]}

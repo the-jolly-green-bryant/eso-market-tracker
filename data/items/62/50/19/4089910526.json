@@ -1,10 +1,1 @@
-{
-  "internalId": 4089910526,
-  "name": "Rock, Wide Gabbro Slab",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_bad_small004.png",
-  "bindType": -1,
-  "knownIds": [
-    181601
-  ]
-}
+{"internalId":4089910526,"name":"Rock, Wide Gabbro Slab","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_bad_small004.png","bindType":-1,"knownIds":[181601]}

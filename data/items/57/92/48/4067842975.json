@@ -1,10 +1,1 @@
-{
-  "internalId": 4067842975,
-  "name": "Impregnable Armor Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125952
-  ]
-}
+{"internalId":4067842975,"name":"Impregnable Armor Shield","description":"","icon":"data/images/a_/dl/ei/gear_ordinator_shield_a.png","bindType":2,"knownIds":[125952]}

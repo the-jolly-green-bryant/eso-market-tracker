@@ -1,10 +1,1 @@
-{
-  "internalId": 1333220298,
-  "name": "Daedric Armchair, Severe",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_coh_inc_highbackchair001.png",
-  "bindType": -1,
-  "knownIds": [
-    139160
-  ]
-}
+{"internalId":1333220298,"name":"Daedric Armchair, Severe","description":"This is a standard house item.","icon":"data/images/10/0r/ia/housing_coh_inc_highbackchair001.png","bindType":-1,"knownIds":[139160]}

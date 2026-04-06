@@ -1,17 +1,1 @@
-{
-  "internalId": 3083340719,
-  "name": "Soulcleaver Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1685431,
-    1692999,
-    1727397,
-    1765494,
-    1685431,
-    1692999,
-    1727397,
-    1765494
-  ]
-}
+{"internalId":3083340719,"name":"Soulcleaver Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_hands_a.png","bindType":-1,"knownIds":[1685431,1692999,1727397,1765494,1685431,1692999,1727397,1765494]}

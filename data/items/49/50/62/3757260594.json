@@ -1,10 +1,1 @@
-{
-  "internalId": 3757260594,
-  "name": "Duneripper Drinking Horn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    635470
-  ]
-}
+{"internalId":3757260594,"name":"Duneripper Drinking Horn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[635470]}

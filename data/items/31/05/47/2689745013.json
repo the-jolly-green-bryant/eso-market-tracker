@@ -1,10 +1,1 @@
-{
-  "internalId": 2689745013,
-  "name": "Threads of War Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206488
-  ]
-}
+{"internalId":2689745013,"name":"Threads of War Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":2,"knownIds":[206488]}

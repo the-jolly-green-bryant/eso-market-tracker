@@ -1,10 +1,1 @@
-{
-  "internalId": 2969400870,
-  "name": "Gourmand's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190533
-  ]
-}
+{"internalId":2969400870,"name":"Gourmand's Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_legs_a.png","bindType":2,"knownIds":[190533]}

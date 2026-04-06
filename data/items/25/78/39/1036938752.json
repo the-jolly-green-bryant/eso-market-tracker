@@ -1,10 +1,1 @@
-{
-  "internalId": 1036938752,
-  "name": "Cuirass of the Hatchling's Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99219
-  ]
-}
+{"internalId":1036938752,"name":"Cuirass of the Hatchling's Shell","description":"","icon":"data/images/d_/ts/eh/gear_argonian_heavy_chest_d.png","bindType":2,"knownIds":[99219]}

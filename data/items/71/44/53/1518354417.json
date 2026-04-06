@@ -1,10 +1,1 @@
-{
-  "internalId": 1518354417,
-  "name": "Hook Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    861094
-  ]
-}
+{"internalId":1518354417,"name":"Hook Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[861094]}

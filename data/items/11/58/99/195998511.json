@@ -1,10 +1,1 @@
-{
-  "internalId": 195998511,
-  "name": "Inferno Staff of Wretched Vitality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179149
-  ]
-}
+{"internalId":195998511,"name":"Inferno Staff of Wretched Vitality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[179149]}

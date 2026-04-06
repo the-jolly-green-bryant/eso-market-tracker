@@ -1,10 +1,1 @@
-{
-  "internalId": 2233894212,
-  "name": "Skald-King's Pauldrons",
-  "description": "For helping the soldiers of Fort Morvunskar repel the Stormfist invaders, this heavy armor was awarded.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7688
-  ]
-}
+{"internalId":2233894212,"name":"Skald-King's Pauldrons","description":"For helping the soldiers of Fort Morvunskar repel the Stormfist invaders, this heavy armor was awarded.","icon":"data/images/d_/sr/ed/gear_nord_heavy_shoulders_d.png","bindType":2,"knownIds":[7688]}

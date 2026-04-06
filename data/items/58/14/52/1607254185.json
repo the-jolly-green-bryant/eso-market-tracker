@@ -1,10 +1,1 @@
-{
-  "internalId": 1607254185,
-  "name": "Leviathan",
-  "description": "A Medium Armor set found in Crypt of Hearts.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114181
-  ]
-}
+{"internalId":1607254185,"name":"Leviathan","description":"A Medium Armor set found in Crypt of Hearts.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114181]}

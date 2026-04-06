@@ -1,10 +1,1 @@
-{
-  "internalId": 250996638,
-  "name": "Pact's Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54455
-  ]
-}
+{"internalId":250996638,"name":"Pact's Bracers","description":"","icon":"data/images/a_/sd/na/gear_akaviri_medium_hands_a.png","bindType":2,"knownIds":[54455]}

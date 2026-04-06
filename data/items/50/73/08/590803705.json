@@ -1,10 +1,1 @@
-{
-  "internalId": 590803705,
-  "name": "Vampiric Wardrobe, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirearmoire001.png",
-  "bindType": -1,
-  "knownIds": [
-    165610
-  ]
-}
+{"internalId":590803705,"name":"Vampiric Wardrobe, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirearmoire001.png","bindType":-1,"knownIds":[165610]}

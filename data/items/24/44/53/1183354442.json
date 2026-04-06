@@ -1,10 +1,1 @@
-{
-  "internalId": 1183354442,
-  "name": "Redoran Archmage's Robes",
-  "description": "House Redoran invested a great deal of gold to weave these fine robes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7411
-  ]
-}
+{"internalId":1183354442,"name":"Redoran Archmage's Robes","description":"House Redoran invested a great deal of gold to weave these fine robes.","icon":"data/images/d_/eb/or/gear_dunmer_light_robe_d.png","bindType":2,"knownIds":[7411]}

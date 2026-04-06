@@ -1,10 +1,1 @@
-{
-  "internalId": 796905702,
-  "name": "Vanus's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135683
-  ]
-}
+{"internalId":796905702,"name":"Vanus's Inferno Staff","description":"","icon":"data/images/a_/ff/at/gear_psijicorder_staff_a.png","bindType":2,"knownIds":[135683]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 705439516,
-  "name": "Forest Wraith's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192334
-  ]
-}
+{"internalId":705439516,"name":"Forest Wraith's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png","bindType":2,"knownIds":[192334]}

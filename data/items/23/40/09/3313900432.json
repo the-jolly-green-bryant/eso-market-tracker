@@ -1,10 +1,1 @@
-{
-  "internalId": 3313900432,
-  "name": "Jehade",
-  "description": "Jehade",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_055.png",
-  "bindType": -1,
-  "knownIds": [
-    64508
-  ]
-}
+{"internalId":3313900432,"name":"Jehade","description":"Jehade","icon":"data/images/55/0_/se/crafting_components_runestones_055.png","bindType":-1,"knownIds":[64508]}

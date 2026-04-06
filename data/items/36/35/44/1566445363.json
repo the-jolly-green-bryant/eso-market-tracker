@@ -1,10 +1,1 @@
-{
-  "internalId": 1566445363,
-  "name": "Helm of Rage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43800
-  ]
-}
+{"internalId":1566445363,"name":"Helm of Rage","description":"","icon":"data/images/a_/da/eh/gear_reach_heavy_head_a.png","bindType":2,"knownIds":[43800]}

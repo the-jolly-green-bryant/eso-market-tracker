@@ -1,10 +1,1 @@
-{
-  "internalId": 434406512,
-  "name": "Jack of the Undaunted Bastion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    59358
-  ]
-}
+{"internalId":434406512,"name":"Jack of the Undaunted Bastion","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[59358]}

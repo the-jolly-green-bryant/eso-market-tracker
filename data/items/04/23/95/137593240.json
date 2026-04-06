@@ -1,10 +1,1 @@
-{
-  "internalId": 137593240,
-  "name": "Praxis: Apocrypha Specimen Jar, Large Empty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    197850
-  ]
-}
+{"internalId":137593240,"name":"Praxis: Apocrypha Specimen Jar, Large Empty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[197850]}

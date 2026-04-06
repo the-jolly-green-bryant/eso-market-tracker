@@ -1,10 +1,1 @@
-{
-  "internalId": 195107426,
-  "name": "Praxis: Apocrypha Wardrobe, Intricate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    198510
-  ]
-}
+{"internalId":195107426,"name":"Praxis: Apocrypha Wardrobe, Intricate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[198510]}

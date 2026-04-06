@@ -1,10 +1,1 @@
-{
-  "internalId": 3077970061,
-  "name": "Hlaalu Cabinet, Clerk",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlamerchantcentercounter001.png",
-  "bindType": -1,
-  "knownIds": [
-    126456
-  ]
-}
+{"internalId":3077970061,"name":"Hlaalu Cabinet, Clerk","description":"This is a standard house item.","icon":"data/images/10/0r/et/housing_vrd_fur_hlamerchantcentercounter001.png","bindType":-1,"knownIds":[126456]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4040873567,
-  "name": "Praxis: Deadlands Column, Heavy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    182982
-  ]
-}
+{"internalId":4040873567,"name":"Praxis: Deadlands Column, Heavy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[182982]}

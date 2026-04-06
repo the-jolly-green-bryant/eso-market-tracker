@@ -1,10 +1,1 @@
-{
-  "internalId": 3535924828,
-  "name": "Deadlands Demolisher's Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179535
-  ]
-}
+{"internalId":3535924828,"name":"Deadlands Demolisher's Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png","bindType":2,"knownIds":[179535]}

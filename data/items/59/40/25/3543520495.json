@@ -1,10 +1,1 @@
-{
-  "internalId": 3543520495,
-  "name": "Crafting Motif 81: New Moon Priest Helmets",
-  "description": "Use to learn how to make New Moon Priest Helmets. Also teaches the equivalent New Moon Priest Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156616
-  ]
-}
+{"internalId":3543520495,"name":"Crafting Motif 81: New Moon Priest Helmets","description":"Use to learn how to make New Moon Priest Helmets. Also teaches the equivalent New Moon Priest Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156616]}

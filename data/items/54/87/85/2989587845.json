@@ -1,10 +1,1 @@
-{
-  "internalId": 2989587845,
-  "name": "Croc-Tooth Dice and Dice Cup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860502
-  ]
-}
+{"internalId":2989587845,"name":"Croc-Tooth Dice and Dice Cup","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png","bindType":-1,"knownIds":[860502]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2170931256,
-  "name": "Plant, Marshfrond",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_mrkmoorsred001.png",
-  "bindType": -1,
-  "knownIds": [
-    145419
-  ]
-}
+{"internalId":2170931256,"name":"Plant, Marshfrond","description":"This is a standard house item.","icon":"data/images/10/0d/er/housing_tre_trp_mrkmoorsred001.png","bindType":-1,"knownIds":[145419]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3108441534,
-  "name": "Wood Elf Canopy, Leather",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_str_stablewall004.png",
-  "bindType": -1,
-  "knownIds": [
-    115570
-  ]
-}
+{"internalId":3108441534,"name":"Wood Elf Canopy, Leather","description":"This is a large house item.","icon":"data/images/40/0l/la/housing_bos_str_stablewall004.png","bindType":-1,"knownIds":[115570]}

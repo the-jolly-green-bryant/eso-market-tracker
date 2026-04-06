@@ -1,10 +1,1 @@
-{
-  "internalId": 4191017246,
-  "name": "Light: Sithis' Touch",
-  "description": "An All Armor set found in Gold Coast.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    175534
-  ]
-}
+{"internalId":4191017246,"name":"Light: Sithis' Touch","description":"An All Armor set found in Gold Coast.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[175534]}

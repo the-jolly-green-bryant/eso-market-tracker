@@ -1,10 +1,1 @@
-{
-  "internalId": 281904391,
-  "name": "Imperial Bookcase, Swirled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_bookcasetall002.png",
-  "bindType": -1,
-  "knownIds": [
-    94100
-  ]
-}
+{"internalId":281904391,"name":"Imperial Bookcase, Swirled","description":"This is a standard house item.","icon":"data/images/20/0l/la/housing_nib_fur_bookcasetall002.png","bindType":-1,"knownIds":[94100]}

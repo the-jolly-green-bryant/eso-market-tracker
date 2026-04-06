@@ -1,10 +1,1 @@
-{
-  "internalId": 876976014,
-  "name": "Dwarven Cooking Implements, Hanging",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markkitchencookingutensilset001.png",
-  "bindType": -1,
-  "knownIds": [
-    171360
-  ]
-}
+{"internalId":876976014,"name":"Dwarven Cooking Implements, Hanging","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markkitchencookingutensilset001.png","bindType":-1,"knownIds":[171360]}

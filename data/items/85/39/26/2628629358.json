@@ -1,10 +1,1 @@
-{
-  "internalId": 2628629358,
-  "name": "Dragonstar Caravan Banner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826308
-  ]
-}
+{"internalId":2628629358,"name":"Dragonstar Caravan Banner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png","bindType":-1,"knownIds":[826308]}

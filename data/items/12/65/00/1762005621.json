@@ -1,10 +1,1 @@
-{
-  "internalId": 1762005621,
-  "name": "Bone, Right Calf",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletontibia002.png",
-  "bindType": -1,
-  "knownIds": [
-    118894
-  ]
-}
+{"internalId":1762005621,"name":"Bone, Right Calf","description":"This is a small house item.","icon":"data/images/20/0a/ib/housing_gen_exc_skeletontibia002.png","bindType":-1,"knownIds":[118894]}

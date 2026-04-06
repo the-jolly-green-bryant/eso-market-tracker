@@ -1,10 +1,1 @@
-{
-  "internalId": 1050295898,
-  "name": "Residue Pick and Pipe Brush",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    1324936
-  ]
-}
+{"internalId":1050295898,"name":"Residue Pick and Pipe Brush","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png","bindType":-1,"knownIds":[1324936]}

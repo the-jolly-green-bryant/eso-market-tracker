@@ -1,18 +1,1 @@
-{
-  "internalId": 4249661808,
-  "name": "solution of Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    434397,
-    689948,
-    1431884,
-    434397,
-    689948,
-    1431884,
-    434397,
-    689948,
-    1431884
-  ]
-}
+{"internalId":4249661808,"name":"solution of Magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png","bindType":-1,"knownIds":[434397,689948,1431884,434397,689948,1431884,434397,689948,1431884]}

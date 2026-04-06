@@ -1,10 +1,1 @@
-{
-  "internalId": 132520340,
-  "name": "Carpet Roll, Oasis",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketrug004.png",
-  "bindType": -1,
-  "knownIds": [
-    118154
-  ]
-}
+{"internalId":132520340,"name":"Carpet Roll, Oasis","description":"This is a standard house item.","icon":"data/images/40/0g/ur/housing_red_exc_varmarketrug004.png","bindType":-1,"knownIds":[118154]}

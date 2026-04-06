@@ -1,10 +1,1 @@
-{
-  "internalId": 28819164,
-  "name": "Bracers of Night Terror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    97929
-  ]
-}
+{"internalId":28819164,"name":"Bracers of Night Terror","description":"","icon":"data/images/a_/sd/na/gear_daedric_medium_hands_a.png","bindType":2,"knownIds":[97929]}

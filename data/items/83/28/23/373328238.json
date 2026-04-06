@@ -1,10 +1,1 @@
-{
-  "internalId": 373328238,
-  "name": "Cured Meat Shank",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cre_exc_mincarcassleg001.png",
-  "bindType": -1,
-  "knownIds": [
-    118200
-  ]
-}
+{"internalId":373328238,"name":"Cured Meat Shank","description":"This is a small house item.","icon":"data/images/10/0g/el/housing_cre_exc_mincarcassleg001.png","bindType":-1,"knownIds":[118200]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3572148979,
-  "name": "Seal of Clan Igrun, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_puzzledoorplateigron001.png",
-  "bindType": -1,
-  "knownIds": [
-    134444
-  ]
-}
+{"internalId":3572148979,"name":"Seal of Clan Igrun, Stone","description":"This is a standard house item.","icon":"data/images/10/0n/or/housing_orc_duc_puzzledoorplateigron001.png","bindType":-1,"knownIds":[134444]}

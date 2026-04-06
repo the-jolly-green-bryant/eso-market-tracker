@@ -1,10 +1,1 @@
-{
-  "internalId": 1039859908,
-  "name": "Werewolf Hide Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86163
-  ]
-}
+{"internalId":1039859908,"name":"Werewolf Hide Bracers","description":"","icon":"data/images/a_/sd/na/gear_primative_medium_hands_a.png","bindType":2,"knownIds":[86163]}

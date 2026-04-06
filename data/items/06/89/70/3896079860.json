@@ -1,13 +1,1 @@
-{
-  "internalId": 3896079860,
-  "name": "Vandorallen's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1748952,
-    1749416,
-    1748952,
-    1749416
-  ]
-}
+{"internalId":3896079860,"name":"Vandorallen's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1748952,1749416,1748952,1749416]}

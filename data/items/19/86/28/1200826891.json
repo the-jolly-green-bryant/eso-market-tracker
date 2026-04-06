@@ -1,10 +1,1 @@
-{
-  "internalId": 1200826891,
-  "name": "Apocrypha Boulder",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_fossilrockmed003.png",
-  "bindType": -1,
-  "knownIds": [
-    198463
-  ]
-}
+{"internalId":1200826891,"name":"Apocrypha Boulder","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_apc_fossilrockmed003.png","bindType":-1,"knownIds":[198463]}

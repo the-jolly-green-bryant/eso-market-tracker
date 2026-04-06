@@ -1,10 +1,1 @@
-{
-  "internalId": 2945919992,
-  "name": "Ordinator Signal Mirror",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mirror_001.png",
-  "bindType": -1,
-  "knownIds": [
-    812781
-  ]
-}
+{"internalId":2945919992,"name":"Ordinator Signal Mirror","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mirror_001.png","bindType":-1,"knownIds":[812781]}

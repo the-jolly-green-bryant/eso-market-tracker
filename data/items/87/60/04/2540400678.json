@@ -1,10 +1,1 @@
-{
-  "internalId": 2540400678,
-  "name": "Hlaalu Courier's Staff",
-  "description": "Couriers in the employ of House Hlaalu rarely go about their duties unarmed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    197813
-  ]
-}
+{"internalId":2540400678,"name":"Hlaalu Courier's Staff","description":"Couriers in the employ of House Hlaalu rarely go about their duties unarmed.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png","bindType":2,"knownIds":[197813]}

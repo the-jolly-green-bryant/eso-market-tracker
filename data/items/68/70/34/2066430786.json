@@ -1,10 +1,1 @@
-{
-  "internalId": 2066430786,
-  "name": "Dominion Cold Fire Trebuchet",
-  "description": "Creates a trebuchet weapon whose fireball causes Flame Damage to structures and foes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_darkanchor_bluefiretrebuchet.png",
-  "bindType": -1,
-  "knownIds": [
-    64512
-  ]
-}
+{"internalId":2066430786,"name":"Dominion Cold Fire Trebuchet","description":"Creates a trebuchet weapon whose fireball causes Flame Damage to structures and foes.","icon":"data/images/te/hc/ub/ava_siege_weapon_darkanchor_bluefiretrebuchet.png","bindType":-1,"knownIds":[64512]}

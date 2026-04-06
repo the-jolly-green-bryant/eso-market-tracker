@@ -1,10 +1,1 @@
-{
-  "internalId": 3942780112,
-  "name": "Imperial Pew, Scrollwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_bench001.png",
-  "bindType": -1,
-  "knownIds": [
-    94162
-  ]
-}
+{"internalId":3942780112,"name":"Imperial Pew, Scrollwork","description":"This is a standard house item.","icon":"data/images/10/0h/cn/housing_nib_fur_bench001.png","bindType":-1,"knownIds":[94162]}

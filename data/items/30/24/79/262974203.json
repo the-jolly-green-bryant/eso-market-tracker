@@ -1,10 +1,1 @@
-{
-  "internalId": 262974203,
-  "name": "Dwarven Bench, Ornate Granite",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbench001.png",
-  "bindType": -1,
-  "knownIds": [
-    171342
-  ]
-}
+{"internalId":262974203,"name":"Dwarven Bench, Ornate Granite","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markbench001.png","bindType":-1,"knownIds":[171342]}

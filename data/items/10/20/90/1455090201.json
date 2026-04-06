@@ -1,10 +1,1 @@
-{
-  "internalId": 1455090201,
-  "name": "Blue Crystal Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cav_min_crystalformations_009.png",
-  "bindType": -1,
-  "knownIds": [
-    120831
-  ]
-}
+{"internalId":1455090201,"name":"Blue Crystal Cluster","description":"This is a standard house item.","icon":"data/images/90/0_/sn/housing_cav_min_crystalformations_009.png","bindType":-1,"knownIds":[120831]}

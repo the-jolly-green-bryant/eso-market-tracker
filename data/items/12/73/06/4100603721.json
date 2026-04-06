@@ -1,10 +1,1 @@
-{
-  "internalId": 4100603721,
-  "name": "Valkyn Skoria Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_magma_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1725884
-  ]
-}
+{"internalId":4100603721,"name":"Valkyn Skoria Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_magma_head_a.png","bindType":-1,"knownIds":[1725884]}

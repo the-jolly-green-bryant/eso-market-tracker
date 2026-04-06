@@ -1,10 +1,1 @@
-{
-  "internalId": 525417905,
-  "name": "Dark Elf Ash Garden",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_cem_necashpitsm001.png",
-  "bindType": -1,
-  "knownIds": [
-    115341
-  ]
-}
+{"internalId":525417905,"name":"Dark Elf Ash Garden","description":"This is a large house item.","icon":"data/images/10/0m/st/housing_dun_cem_necashpitsm001.png","bindType":-1,"knownIds":[115341]}

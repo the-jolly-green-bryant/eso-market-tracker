@@ -1,10 +1,1 @@
-{
-  "internalId": 1343626656,
-  "name": "Jungle Camouflage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plants_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1212400
-  ]
-}
+{"internalId":1343626656,"name":"Jungle Camouflage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plants_001.png","bindType":-1,"knownIds":[1212400]}

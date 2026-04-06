@@ -1,10 +1,1 @@
-{
-  "internalId": 3482975240,
-  "name": "Imperial Stuffed Piglet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33904
-  ]
-}
+{"internalId":3482975240,"name":"Imperial Stuffed Piglet","description":"","icon":"data/images/30/0_/te/crafting_skillet_003.png","bindType":-1,"knownIds":[33904]}

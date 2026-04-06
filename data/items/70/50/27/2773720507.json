@@ -1,10 +1,1 @@
-{
-  "internalId": 2773720507,
-  "name": "Lily Pads, Swamp Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_lillypads004.png",
-  "bindType": -1,
-  "knownIds": [
-    132221
-  ]
-}
+{"internalId":2773720507,"name":"Lily Pads, Swamp Cluster","description":"This is a standard house item.","icon":"data/images/40/0s/da/housing_veg_aqa_lillypads004.png","bindType":-1,"knownIds":[132221]}

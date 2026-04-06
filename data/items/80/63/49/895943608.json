@@ -1,10 +1,1 @@
-{
-  "internalId": 895943608,
-  "name": "Camonna Tong Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196024
-  ]
-}
+{"internalId":895943608,"name":"Camonna Tong Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png","bindType":2,"knownIds":[196024]}

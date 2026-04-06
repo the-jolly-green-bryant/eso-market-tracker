@@ -1,10 +1,1 @@
-{
-  "internalId": 4275399993,
-  "name": "Darkstride Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85965
-  ]
-}
+{"internalId":4275399993,"name":"Darkstride Belt","description":"","icon":"data/images/a_/ts/ia/gear_thievesguildv2_medium_waist_a.png","bindType":2,"knownIds":[85965]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1072984178,
-  "name": "Cold Roast Pig",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_meat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37870
-  ]
-}
+{"internalId":1072984178,"name":"Cold Roast Pig","description":"","icon":"data/images/10/0_/ta/crafting_meat_001.png","bindType":-1,"knownIds":[37870]}

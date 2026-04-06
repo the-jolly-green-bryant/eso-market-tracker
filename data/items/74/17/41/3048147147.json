@@ -1,10 +1,1 @@
-{
-  "internalId": 3048147147,
-  "name": "\"Hooting Lullaby\" Ocarina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_egg_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1345198
-  ]
-}
+{"internalId":3048147147,"name":"\"Hooting Lullaby\" Ocarina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_egg_001.png","bindType":-1,"knownIds":[1345198]}

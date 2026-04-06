@@ -1,10 +1,1 @@
-{
-  "internalId": 3532927253,
-  "name": "Rough Hammock, Pole-Strung",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_hammock002.png",
-  "bindType": -1,
-  "knownIds": [
-    194539
-  ]
-}
+{"internalId":3532927253,"name":"Rough Hammock, Pole-Strung","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_hammock002.png","bindType":-1,"knownIds":[194539]}

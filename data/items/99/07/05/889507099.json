@@ -1,10 +1,1 @@
-{
-  "internalId": 889507099,
-  "name": "Vvardenfell Cliff Racer Ragout",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33856
-  ]
-}
+{"internalId":889507099,"name":"Vvardenfell Cliff Racer Ragout","description":"","icon":"data/images/10/0_/we/crafting_stew_001.png","bindType":-1,"knownIds":[33856]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3554679210,
-  "name": "Reawakened Hierophant Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1692132,
-    1692755,
-    1697171,
-    1716196,
-    1716914,
-    1761894
-  ]
-}
+{"internalId":3554679210,"name":"Reawakened Hierophant Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_shoulders_a.png","bindType":-1,"knownIds":[1692132,1692755,1697171,1716196,1716914,1761894]}

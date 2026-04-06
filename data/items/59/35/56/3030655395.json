@@ -1,17 +1,1 @@
-{
-  "internalId": 3030655395,
-  "name": "Basalt-Blooded Warrior Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1678188,
-    1685687,
-    1697301,
-    1717143,
-    1678188,
-    1685687,
-    1697301,
-    1717143
-  ]
-}
+{"internalId":3030655395,"name":"Basalt-Blooded Warrior Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png","bindType":-1,"knownIds":[1678188,1685687,1697301,1717143,1678188,1685687,1697301,1717143]}

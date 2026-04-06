@@ -1,10 +1,1 @@
-{
-  "internalId": 591066426,
-  "name": "Formula: Telvanni Chandelier, Fungal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    197600
-  ]
-}
+{"internalId":591066426,"name":"Formula: Telvanni Chandelier, Fungal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[197600]}

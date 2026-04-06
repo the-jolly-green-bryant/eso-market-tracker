@@ -1,10 +1,1 @@
-{
-  "internalId": 913313408,
-  "name": "Pattern: Vampiric Carpet, Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166729
-  ]
-}
+{"internalId":913313408,"name":"Pattern: Vampiric Carpet, Large","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[166729]}

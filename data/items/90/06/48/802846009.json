@@ -1,10 +1,1 @@
-{
-  "internalId": 802846009,
-  "name": "Macabre Vintage Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    205211
-  ]
-}
+{"internalId":802846009,"name":"Macabre Vintage Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_feet_a.png","bindType":2,"knownIds":[205211]}

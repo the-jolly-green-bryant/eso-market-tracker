@@ -1,15 +1,1 @@
-{
-  "internalId": 922541747,
-  "name": "Perfected Lokkestiiz's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1343237,
-    1677741,
-    1689777,
-    1343237,
-    1677741,
-    1689777
-  ]
-}
+{"internalId":922541747,"name":"Perfected Lokkestiiz's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_bow_a.png","bindType":-1,"knownIds":[1343237,1677741,1689777,1343237,1677741,1689777]}

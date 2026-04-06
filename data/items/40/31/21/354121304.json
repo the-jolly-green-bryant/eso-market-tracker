@@ -1,10 +1,1 @@
-{
-  "internalId": 354121304,
-  "name": "Eastmarch CE Treasure Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    822976
-  ]
-}
+{"internalId":354121304,"name":"Eastmarch CE Treasure Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[822976]}

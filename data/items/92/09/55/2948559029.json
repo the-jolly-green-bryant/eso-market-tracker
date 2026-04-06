@@ -1,10 +1,1 @@
-{
-  "internalId": 2948559029,
-  "name": "Sea Serpent Hide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_horkerskin_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    140267
-  ]
-}
+{"internalId":2948559029,"name":"Sea Serpent Hide","description":"","icon":"data/images/2r/_n/ik/crafting_leather_base_horkerskin_r2.png","bindType":-1,"knownIds":[140267]}

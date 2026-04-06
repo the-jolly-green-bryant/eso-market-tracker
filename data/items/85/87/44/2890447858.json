@@ -1,10 +1,1 @@
-{
-  "internalId": 2890447858,
-  "name": "Waterstones",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1157055
-  ]
-}
+{"internalId":2890447858,"name":"Waterstones","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png","bindType":-1,"knownIds":[1157055]}

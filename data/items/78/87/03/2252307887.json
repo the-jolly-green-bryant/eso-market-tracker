@@ -1,10 +1,1 @@
-{
-  "internalId": 2252307887,
-  "name": "Auri-El's Pocket Orrery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_orreryb001.png",
-  "bindType": -1,
-  "knownIds": [
-    1270876
-  ]
-}
+{"internalId":2252307887,"name":"Auri-El's Pocket Orrery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_orreryb001.png","bindType":-1,"knownIds":[1270876]}

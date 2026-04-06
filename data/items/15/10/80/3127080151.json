@@ -1,10 +1,1 @@
-{
-  "internalId": 3127080151,
-  "name": "Unfathomable Small Light Armor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    55313
-  ]
-}
+{"internalId":3127080151,"name":"Unfathomable Small Light Armor","description":"","icon":"data/images/10/0_/re/quest_container_001.png","bindType":-1,"knownIds":[55313]}

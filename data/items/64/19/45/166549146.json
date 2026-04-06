@@ -1,10 +1,1 @@
-{
-  "internalId": 166549146,
-  "name": "Shrub, Yellow Necklacepod",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_yellowsophora001.png",
-  "bindType": -1,
-  "knownIds": [
-    151818
-  ]
-}
+{"internalId":166549146,"name":"Shrub, Yellow Necklacepod","description":"This is a small house item.","icon":"data/images/10/0a/ro/housing_veg_els_yellowsophora001.png","bindType":-1,"knownIds":[151818]}

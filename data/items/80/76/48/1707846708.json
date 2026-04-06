@@ -1,10 +1,1 @@
-{
-  "internalId": 1707846708,
-  "name": "Qhalua Liqueur",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33454
-  ]
-}
+{"internalId":1707846708,"name":"Qhalua Liqueur","description":"","icon":"data/images/30/0_/el/crafting_stoneware_bottle_003.png","bindType":-1,"knownIds":[33454]}

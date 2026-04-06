@@ -1,10 +1,1 @@
-{
-  "internalId": 3882830806,
-  "name": "Constable's Badge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_adornment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    902055
-  ]
-}
+{"internalId":3882830806,"name":"Constable's Badge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_adornment_001.png","bindType":-1,"knownIds":[902055]}

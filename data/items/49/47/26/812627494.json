@@ -1,10 +1,1 @@
-{
-  "internalId": 812627494,
-  "name": "Battlefield Acrobat Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144439
-  ]
-}
+{"internalId":812627494,"name":"Battlefield Acrobat Boots","description":"","icon":"data/images/d_/te/ef/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[144439]}

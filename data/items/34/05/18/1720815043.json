@@ -1,10 +1,1 @@
-{
-  "internalId": 1720815043,
-  "name": "Apostle's First Alchemy Set",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1306153
-  ]
-}
+{"internalId":1720815043,"name":"Apostle's First Alchemy Set","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[1306153]}

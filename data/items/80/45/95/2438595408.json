@@ -1,17 +1,1 @@
-{
-  "internalId": 2438595408,
-  "name": "Blind Path Induction Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1728781,
-    1732204,
-    1748804,
-    1756390,
-    1728781,
-    1732204,
-    1748804,
-    1756390
-  ]
-}
+{"internalId":2438595408,"name":"Blind Path Induction Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_bow_a.png","bindType":-1,"knownIds":[1728781,1732204,1748804,1756390,1728781,1732204,1748804,1756390]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2585025701,
-  "name": "Nord Trunk Guardian",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    655804
-  ]
-}
+{"internalId":2585025701,"name":"Nord Trunk Guardian","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[655804]}

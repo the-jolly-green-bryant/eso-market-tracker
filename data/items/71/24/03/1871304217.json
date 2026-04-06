@@ -1,10 +1,1 @@
-{
-  "internalId": 1871304217,
-  "name": "Mint",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_spice_004.png",
-  "bindType": -1,
-  "knownIds": [
-    33773
-  ]
-}
+{"internalId":1871304217,"name":"Mint","description":"An ingredient for crafting beverages.","icon":"data/images/40/0_/ec/crafting_components_spice_004.png","bindType":-1,"knownIds":[33773]}

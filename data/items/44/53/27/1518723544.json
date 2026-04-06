@@ -1,10 +1,1 @@
-{
-  "internalId": 1518723544,
-  "name": "Maelstrom Weapons",
-  "description": "This container holds a collection of weapons found in Maelstrom Arena.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114275
-  ]
-}
+{"internalId":1518723544,"name":"Maelstrom Weapons","description":"This container holds a collection of weapons found in Maelstrom Arena.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114275]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 714184720,
-  "name": "Reflected Fury Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1751656
-  ]
-}
+{"internalId":714184720,"name":"Reflected Fury Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png","bindType":-1,"knownIds":[1751656]}

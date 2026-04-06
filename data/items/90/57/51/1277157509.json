@@ -1,17 +1,1 @@
-{
-  "internalId": 1277157509,
-  "name": "Plague Slinger Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1208273,
-    1224416,
-    1469341,
-    1560436,
-    1208273,
-    1224416,
-    1469341,
-    1560436
-  ]
-}
+{"internalId":1277157509,"name":"Plague Slinger Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1208273,1224416,1469341,1560436,1208273,1224416,1469341,1560436]}

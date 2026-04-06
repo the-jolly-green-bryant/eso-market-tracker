@@ -1,10 +1,1 @@
-{
-  "internalId": 724036460,
-  "name": "Helm of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101300
-  ]
-}
+{"internalId":724036460,"name":"Helm of Soulshine","description":"","icon":"data/images/d_/da/eh/gear_khajiit_heavy_head_d.png","bindType":2,"knownIds":[101300]}

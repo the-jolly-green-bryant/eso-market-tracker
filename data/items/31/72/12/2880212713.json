@@ -1,10 +1,1 @@
-{
-  "internalId": 2880212713,
-  "name": "Yellow Perch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    824071
-  ]
-}
+{"internalId":2880212713,"name":"Yellow Perch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[824071]}

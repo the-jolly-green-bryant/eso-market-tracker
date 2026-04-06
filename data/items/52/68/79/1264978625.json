@@ -1,10 +1,1 @@
-{
-  "internalId": 1264978625,
-  "name": "Reachmen Rug, Smooth Skin",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_rugskin003.png",
-  "bindType": -1,
-  "knownIds": [
-    130224
-  ]
-}
+{"internalId":1264978625,"name":"Reachmen Rug, Smooth Skin","description":"This is a standard house item.","icon":"data/images/30/0n/ik/housing_orc_inc_rugskin003.png","bindType":-1,"knownIds":[130224]}

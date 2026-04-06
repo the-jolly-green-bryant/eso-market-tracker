@@ -1,10 +1,1 @@
-{
-  "internalId": 850701766,
-  "name": "Gryphon Nest Extract Moisturizer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_buttermilk.png",
-  "bindType": -1,
-  "knownIds": [
-    1240750
-  ]
-}
+{"internalId":850701766,"name":"Gryphon Nest Extract Moisturizer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_buttermilk.png","bindType":-1,"knownIds":[1240750]}

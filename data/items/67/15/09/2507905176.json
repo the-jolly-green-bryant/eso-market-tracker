@@ -1,10 +1,1 @@
-{
-  "internalId": 2507905176,
-  "name": "Music in Repose Painting, Silver",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leymetalframepainting009.png",
-  "bindType": -1,
-  "knownIds": [
-    178447
-  ]
-}
+{"internalId":2507905176,"name":"Music in Repose Painting, Silver","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leymetalframepainting009.png","bindType":-1,"knownIds":[178447]}

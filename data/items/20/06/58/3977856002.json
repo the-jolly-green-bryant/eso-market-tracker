@@ -1,10 +1,1 @@
-{
-  "internalId": 3977856002,
-  "name": "Fortified Brass Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    131051
-  ]
-}
+{"internalId":3977856002,"name":"Fortified Brass Helm","description":"","icon":"data/images/d_/da/eh/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[131051]}

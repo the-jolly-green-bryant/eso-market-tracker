@@ -1,10 +1,1 @@
-{
-  "internalId": 2143034594,
-  "name": "Desert Glass Decanter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804291
-  ]
-}
+{"internalId":2143034594,"name":"Desert Glass Decanter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_decanter_001.png","bindType":-1,"knownIds":[804291]}

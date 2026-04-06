@@ -1,10 +1,1 @@
-{
-  "internalId": 752494768,
-  "name": "Sketch: Resonance Crystal, Cerulean",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_5.png",
-  "bindType": -1,
-  "knownIds": [
-    194392
-  ]
-}
+{"internalId":752494768,"name":"Sketch: Resonance Crystal, Cerulean","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_5.png","bindType":-1,"knownIds":[194392]}

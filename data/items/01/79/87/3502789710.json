@@ -1,10 +1,1 @@
-{
-  "internalId": 3502789710,
-  "name": "Cuirass of Varen's Legacy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76064
-  ]
-}
+{"internalId":3502789710,"name":"Cuirass of Varen's Legacy","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[76064]}

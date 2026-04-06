@@ -1,10 +1,1 @@
-{
-  "internalId": 3908048055,
-  "name": "Spring Collection Album",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366183
-  ]
-}
+{"internalId":3908048055,"name":"Spring Collection Album","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[1366183]}

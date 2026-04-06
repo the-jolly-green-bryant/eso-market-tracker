@@ -1,17 +1,1 @@
-{
-  "internalId": 3161735899,
-  "name": "Spattering Disjunction Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735201,
-    1745674,
-    1772404,
-    1773709,
-    1735201,
-    1745674,
-    1772404,
-    1773709
-  ]
-}
+{"internalId":3161735899,"name":"Spattering Disjunction Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_head_a.png","bindType":-1,"knownIds":[1735201,1745674,1772404,1773709,1735201,1745674,1772404,1773709]}

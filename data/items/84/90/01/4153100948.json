@@ -1,11 +1,1 @@
-{
-  "internalId": 4153100948,
-  "name": "Meerschaum Sweetgnat Kiseru",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860501,
-    860501
-  ]
-}
+{"internalId":4153100948,"name":"Meerschaum Sweetgnat Kiseru","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png","bindType":-1,"knownIds":[860501,860501]}

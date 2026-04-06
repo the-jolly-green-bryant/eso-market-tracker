@@ -1,10 +1,1 @@
-{
-  "internalId": 3251069833,
-  "name": "Flayed Flag of Camlorn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_camlorn_flag.png",
-  "bindType": -1,
-  "knownIds": [
-    1205997
-  ]
-}
+{"internalId":3251069833,"name":"Flayed Flag of Camlorn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_camlorn_flag.png","bindType":-1,"knownIds":[1205997]}

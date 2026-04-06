@@ -1,10 +1,1 @@
-{
-  "internalId": 4041505947,
-  "name": "Vial of Soil From Hrol's Hillock",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_hrolshillock_soil.png",
-  "bindType": -1,
-  "knownIds": [
-    1416053
-  ]
-}
+{"internalId":4041505947,"name":"Vial of Soil From Hrol's Hillock","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_hrolshillock_soil.png","bindType":-1,"knownIds":[1416053]}

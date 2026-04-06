@@ -1,10 +1,1 @@
-{
-  "internalId": 2327180097,
-  "name": "Blessed Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102408
-  ]
-}
+{"internalId":2327180097,"name":"Blessed Cuirass","description":"","icon":"data/images/a_/ts/eh/gear_ancient_elf_heavy_chest_a.png","bindType":2,"knownIds":[102408]}

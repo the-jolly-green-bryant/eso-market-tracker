@@ -1,10 +1,1 @@
-{
-  "internalId": 161633747,
-  "name": "Fine Steel Paper Opener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_004.png",
-  "bindType": -1,
-  "knownIds": [
-    494765
-  ]
-}
+{"internalId":161633747,"name":"Fine Steel Paper Opener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_glenumbra_004.png","bindType":-1,"knownIds":[494765]}

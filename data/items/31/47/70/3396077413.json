@@ -1,10 +1,1 @@
-{
-  "internalId": 3396077413,
-  "name": "Praxis: Murkmire Sarcophagus Lid",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    145954
-  ]
-}
+{"internalId":3396077413,"name":"Praxis: Murkmire Sarcophagus Lid","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[145954]}

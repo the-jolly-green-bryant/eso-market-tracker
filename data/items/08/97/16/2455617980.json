@@ -1,10 +1,1 @@
-{
-  "internalId": 2455617980,
-  "name": "iron helm of health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_b.png",
-  "bindType": -1,
-  "knownIds": [
-    477601
-  ]
-}
+{"internalId":2455617980,"name":"iron helm of health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_b.png","bindType":-1,"knownIds":[477601]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2371249051,
-  "name": "The Exclusionary Mandates",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png",
-  "bindType": -1,
-  "knownIds": [
-    1095923
-  ]
-}
+{"internalId":2371249051,"name":"The Exclusionary Mandates","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png","bindType":-1,"knownIds":[1095923]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2770040601,
-  "name": "Elkhorn Coral, Verdant Branching",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_elkhorncavecoral005.png",
-  "bindType": -1,
-  "knownIds": [
-    214519
-  ]
-}
+{"internalId":2770040601,"name":"Elkhorn Coral, Verdant Branching","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sys_elkhorncavecoral005.png","bindType":-1,"knownIds":[214519]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3329819775,
-  "name": "Dreugh-Claw Paring Knife",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    782568
-  ]
-}
+{"internalId":3329819775,"name":"Dreugh-Claw Paring Knife","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png","bindType":-1,"knownIds":[782568]}

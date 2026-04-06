@@ -1,10 +1,1 @@
-{
-  "internalId": 2195520290,
-  "name": "Signed Heraldic Document",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    500689
-  ]
-}
+{"internalId":2195520290,"name":"Signed Heraldic Document","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[500689]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 629086691,
-  "name": "The Old Ways",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1199271
-  ]
-}
+{"internalId":629086691,"name":"The Old Ways","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1199271]}

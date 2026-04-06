@@ -1,10 +1,1 @@
-{
-  "internalId": 1481929588,
-  "name": "Guardian Stones",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_brokenfrieze_mage.png",
-  "bindType": -1,
-  "knownIds": [
-    422483
-  ]
-}
+{"internalId":1481929588,"name":"Guardian Stones","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_brokenfrieze_mage.png","bindType":-1,"knownIds":[422483]}

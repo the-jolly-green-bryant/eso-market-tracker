@@ -1,13 +1,1 @@
-{
-  "internalId": 4091544207,
-  "name": "Guardian's Plate-Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": -1,
-  "knownIds": [
-    450240,
-    617888,
-    450240,
-    617888
-  ]
-}
+{"internalId":4091544207,"name":"Guardian's Plate-Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":-1,"knownIds":[450240,617888,450240,617888]}

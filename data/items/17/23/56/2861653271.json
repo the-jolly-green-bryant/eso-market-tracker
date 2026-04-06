@@ -1,10 +1,1 @@
-{
-  "internalId": 2861653271,
-  "name": "Exemplary Nirnhoned Battle Axe",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Battle Axe.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81605
-  ]
-}
+{"internalId":2861653271,"name":"Exemplary Nirnhoned Battle Axe","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Battle Axe.","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":-1,"knownIds":[81605]}

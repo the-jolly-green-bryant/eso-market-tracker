@@ -1,10 +1,1 @@
-{
-  "internalId": 1026323395,
-  "name": "Necklace of the Spectre's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140178
-  ]
-}
+{"internalId":1026323395,"name":"Necklace of the Spectre's Eye","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[140178]}

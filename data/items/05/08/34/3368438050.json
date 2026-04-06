@@ -1,10 +1,1 @@
-{
-  "internalId": 3368438050,
-  "name": "Pattern: Orcish Tapestry, Hunt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    121366
-  ]
-}
+{"internalId":3368438050,"name":"Pattern: Orcish Tapestry, Hunt","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[121366]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 4020129594,
-  "name": "Shifty Tom's Pillaging Garb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    402202,
-    785707,
-    402202,
-    785707
-  ]
-}
+{"internalId":4020129594,"name":"Shifty Tom's Pillaging Garb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png","bindType":-1,"knownIds":[402202,785707,402202,785707]}

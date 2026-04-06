@@ -1,10 +1,1 @@
-{
-  "internalId": 3213064011,
-  "name": "Spell Parasite's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    163111
-  ]
-}
+{"internalId":3213064011,"name":"Spell Parasite's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[163111]}

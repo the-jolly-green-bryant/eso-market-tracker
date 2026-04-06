@@ -1,10 +1,1 @@
-{
-  "internalId": 2232046258,
-  "name": "High Elf Decanter, Glass",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_inc_winebottle002.png",
-  "bindType": -1,
-  "knownIds": [
-    114402
-  ]
-}
+{"internalId":2232046258,"name":"High Elf Decanter, Glass","description":"This is a small house item.","icon":"data/images/20/0e/lt/housing_alt_inc_winebottle002.png","bindType":-1,"knownIds":[114402]}

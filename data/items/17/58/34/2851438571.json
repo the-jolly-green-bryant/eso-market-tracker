@@ -1,10 +1,1 @@
-{
-  "internalId": 2851438571,
-  "name": "Blueprint: High Isle Table, Rustic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    188162
-  ]
-}
+{"internalId":2851438571,"name":"Blueprint: High Isle Table, Rustic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[188162]}

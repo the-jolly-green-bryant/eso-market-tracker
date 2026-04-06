@@ -1,10 +1,1 @@
-{
-  "internalId": 93776285,
-  "name": "Corpse, Burned Sprawled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_corpseburnedbreton_009.png",
-  "bindType": -1,
-  "knownIds": [
-    145481
-  ]
-}
+{"internalId":93776285,"name":"Corpse, Burned Sprawled","description":"This is a standard house item.","icon":"data/images/90/0_/no/housing_uni_exc_corpseburnedbreton_009.png","bindType":-1,"knownIds":[145481]}

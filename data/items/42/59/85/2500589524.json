@@ -1,10 +1,1 @@
-{
-  "internalId": 2500589524,
-  "name": "Darkstride Grimtooth's Annihilation Axe",
-  "description": "A weapon awarded for defeating the troll leader, Grimtooth, in Crestshade Mine.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34888
-  ]
-}
+{"internalId":2500589524,"name":"Darkstride Grimtooth's Annihilation Axe","description":"A weapon awarded for defeating the troll leader, Grimtooth, in Crestshade Mine.","icon":"data/images/d_/ex/ah/gear_orc_2haxe_d.png","bindType":2,"knownIds":[34888]}

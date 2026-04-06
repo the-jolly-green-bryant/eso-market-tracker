@@ -1,10 +1,1 @@
-{
-  "internalId": 443974954,
-  "name": "Pact Cold Stone Trebuchet",
-  "description": "Creates a trebuchet weapon whose stones cause great damage to structures and foes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_darkanchor_bluestonetrebuchet.png",
-  "bindType": -1,
-  "knownIds": [
-    64519
-  ]
-}
+{"internalId":443974954,"name":"Pact Cold Stone Trebuchet","description":"Creates a trebuchet weapon whose stones cause great damage to structures and foes.","icon":"data/images/te/hc/ub/ava_siege_weapon_darkanchor_bluestonetrebuchet.png","bindType":-1,"knownIds":[64519]}

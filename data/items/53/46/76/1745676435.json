@@ -1,10 +1,1 @@
-{
-  "internalId": 1745676435,
-  "name": "Epaulets of Hist Bark",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56548
-  ]
-}
+{"internalId":1745676435,"name":"Epaulets of Hist Bark","description":"","icon":"data/images/d_/sr/ed/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[56548]}

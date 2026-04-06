@@ -1,10 +1,1 @@
-{
-  "internalId": 3060293842,
-  "name": "Forged Artificer Badge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1196644
-  ]
-}
+{"internalId":3060293842,"name":"Forged Artificer Badge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[1196644]}

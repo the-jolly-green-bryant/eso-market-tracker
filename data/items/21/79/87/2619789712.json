@@ -1,10 +1,1 @@
-{
-  "internalId": 2619789712,
-  "name": "Rough Torch, Wall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_lsb_torch002.png",
-  "bindType": -1,
-  "knownIds": [
-    117952
-  ]
-}
+{"internalId":2619789712,"name":"Rough Torch, Wall","description":"This is a standard house item.","icon":"data/images/20/0h/cr/housing_gen_lsb_torch002.png","bindType":-1,"knownIds":[117952]}

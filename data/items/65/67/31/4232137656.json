@@ -1,10 +1,1 @@
-{
-  "internalId": 4232137656,
-  "name": "Flower Patch, Prairie-Fire",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_els_castilleja006.png",
-  "bindType": -1,
-  "knownIds": [
-    151819
-  ]
-}
+{"internalId":4232137656,"name":"Flower Patch, Prairie-Fire","description":"This is a standard house item.","icon":"data/images/60/0a/je/housing_veg_els_castilleja006.png","bindType":-1,"knownIds":[151819]}

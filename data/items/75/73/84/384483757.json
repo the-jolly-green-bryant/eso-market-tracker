@@ -1,10 +1,1 @@
-{
-  "internalId": 384483757,
-  "name": "Target Voriplasm",
-  "description": "This is a large house item. This may be attacked and, when destroyed, will reform. This slime is equivalent to an exceptionally hardy veteran dungeon boss.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/targetdummy_voriplasm_01.png",
-  "bindType": -1,
-  "knownIds": [
-    146069
-  ]
-}
+{"internalId":384483757,"name":"Target Voriplasm","description":"This is a large house item. This may be attacked and, when destroyed, will reform. This slime is equivalent to an exceptionally hardy veteran dungeon boss.","icon":"data/images/10/_m/sa/targetdummy_voriplasm_01.png","bindType":-1,"knownIds":[146069]}

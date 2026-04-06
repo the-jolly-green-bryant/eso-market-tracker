@@ -1,17 +1,1 @@
-{
-  "internalId": 3419965279,
-  "name": "Aetheric Lancer Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1738543,
-    1741709,
-    1770884,
-    1776179,
-    1738543,
-    1741709,
-    1770884,
-    1776179
-  ]
-}
+{"internalId":3419965279,"name":"Aetheric Lancer Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_staff.png","bindType":-1,"knownIds":[1738543,1741709,1770884,1776179,1738543,1741709,1770884,1776179]}

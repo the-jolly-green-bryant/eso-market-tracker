@@ -1,10 +1,1 @@
-{
-  "internalId": 1793904520,
-  "name": "Nord Counter, Cabinet",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_countershort001.png",
-  "bindType": -1,
-  "knownIds": [
-    115403
-  ]
-}
+{"internalId":1793904520,"name":"Nord Counter, Cabinet","description":"This is a standard house item.","icon":"data/images/10/0t/ro/housing_nor_fur_countershort001.png","bindType":-1,"knownIds":[115403]}

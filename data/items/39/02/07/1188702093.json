@@ -1,10 +1,1 @@
-{
-  "internalId": 1188702093,
-  "name": "Royal Accolade of the Hunt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909724
-  ]
-}
+{"internalId":1188702093,"name":"Royal Accolade of the Hunt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[909724]}

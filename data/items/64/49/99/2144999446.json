@@ -1,10 +1,1 @@
-{
-  "internalId": 2144999446,
-  "name": "Tomato Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_soup_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37925
-  ]
-}
+{"internalId":2144999446,"name":"Tomato Soup","description":"","icon":"data/images/20/0_/pu/crafting_soup_002.png","bindType":-1,"knownIds":[37925]}

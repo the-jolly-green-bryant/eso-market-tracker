@@ -1,10 +1,1 @@
-{
-  "internalId": 1249597010,
-  "name": "Crown Crate Refreshing Drink",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crowncrate_tricolor_drink_01.png",
-  "bindType": -1,
-  "knownIds": [
-    932419
-  ]
-}
+{"internalId":1249597010,"name":"Crown Crate Refreshing Drink","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crowncrate_tricolor_drink_01.png","bindType":-1,"knownIds":[932419]}

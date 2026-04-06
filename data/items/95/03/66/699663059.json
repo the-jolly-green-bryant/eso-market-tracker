@@ -1,10 +1,1 @@
-{
-  "internalId": 699663059,
-  "name": "Set of Chisels",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_boneshard.png",
-  "bindType": -1,
-  "knownIds": [
-    859423
-  ]
-}
+{"internalId":699663059,"name":"Set of Chisels","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_boneshard.png","bindType":-1,"knownIds":[859423]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3435659350,
-  "name": "Bravil Mead",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    28460
-  ]
-}
+{"internalId":3435659350,"name":"Bravil Mead","description":"","icon":"data/images/10/0_/re/crafting_dom_beer_001.png","bindType":-1,"knownIds":[28460]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2882022205,
-  "name": "Nose Numbing Salts",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414443
-  ]
-}
+{"internalId":2882022205,"name":"Nose Numbing Salts","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[1414443]}

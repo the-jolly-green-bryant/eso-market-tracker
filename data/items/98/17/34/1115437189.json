@@ -1,10 +1,1 @@
-{
-  "internalId": 1115437189,
-  "name": "Beacon of Oblivion Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1745656
-  ]
-}
+{"internalId":1115437189,"name":"Beacon of Oblivion Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_chest_a.png","bindType":-1,"knownIds":[1745656]}

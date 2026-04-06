@@ -1,10 +1,1 @@
-{
-  "internalId": 2252167349,
-  "name": "Orcish Dresser, Engraved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgdresser001.png",
-  "bindType": -1,
-  "knownIds": [
-    116434
-  ]
-}
+{"internalId":2252167349,"name":"Orcish Dresser, Engraved","description":"This is a standard house item.","icon":"data/images/10/0r/es/housing_orc_fur_wtgdresser001.png","bindType":-1,"knownIds":[116434]}

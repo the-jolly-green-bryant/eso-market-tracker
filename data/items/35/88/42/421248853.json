@@ -1,10 +1,1 @@
-{
-  "internalId": 421248853,
-  "name": "Sparkling Mudcrab Apple Cider",
-  "description": "A sweet, tart, and brackish cider that delights and confuses the palate, of Jad'zirri's own recipe.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wine_003.png",
-  "bindType": -1,
-  "knownIds": [
-    171322
-  ]
-}
+{"internalId":421248853,"name":"Sparkling Mudcrab Apple Cider","description":"A sweet, tart, and brackish cider that delights and confuses the palate, of Jad'zirri's own recipe.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wine_003.png","bindType":-1,"knownIds":[171322]}

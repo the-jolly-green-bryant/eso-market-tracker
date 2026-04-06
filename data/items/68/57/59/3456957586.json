@@ -1,10 +1,1 @@
-{
-  "internalId": 3456957586,
-  "name": "Plant, Palm Fronds",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_mrkfrond001.png",
-  "bindType": -1,
-  "knownIds": [
-    120756
-  ]
-}
+{"internalId":3456957586,"name":"Plant, Palm Fronds","description":"This is a large house item.","icon":"data/images/10/0d/no/housing_veg_bsh_mrkfrond001.png","bindType":-1,"knownIds":[120756]}

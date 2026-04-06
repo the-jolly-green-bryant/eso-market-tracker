@@ -1,10 +1,1 @@
-{
-  "internalId": 3326831975,
-  "name": "Shield of the Shield Breaker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    117605
-  ]
-}
+{"internalId":3326831975,"name":"Shield of the Shield Breaker","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[117605]}

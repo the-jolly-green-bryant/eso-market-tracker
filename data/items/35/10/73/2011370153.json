@@ -1,10 +1,1 @@
-{
-  "internalId": 2011370153,
-  "name": "Trinket of Queen Freydis",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_queenfreydis_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    915003
-  ]
-}
+{"internalId":2011370153,"name":"Trinket of Queen Freydis","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_queenfreydis_trinket.png","bindType":-1,"knownIds":[915003]}

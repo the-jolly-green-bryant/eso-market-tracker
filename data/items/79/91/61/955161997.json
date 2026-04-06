@@ -1,15 +1,1 @@
-{
-  "internalId": 955161997,
-  "name": "Perfected Nahviintaas's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1378398,
-    1609857,
-    1677682,
-    1378398,
-    1609857,
-    1677682
-  ]
-}
+{"internalId":955161997,"name":"Perfected Nahviintaas's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_2hhammer_a.png","bindType":-1,"knownIds":[1378398,1609857,1677682,1378398,1609857,1677682]}

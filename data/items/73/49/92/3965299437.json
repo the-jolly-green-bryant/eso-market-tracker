@@ -1,10 +1,1 @@
-{
-  "internalId": 3965299437,
-  "name": "Ode To the Tundrastriders",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png",
-  "bindType": -1,
-  "knownIds": [
-    1095934
-  ]
-}
+{"internalId":3965299437,"name":"Ode To the Tundrastriders","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png","bindType":-1,"knownIds":[1095934]}

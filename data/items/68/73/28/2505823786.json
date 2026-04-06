@@ -1,10 +1,1 @@
-{
-  "internalId": 2505823786,
-  "name": "Plant, Towering Jungle Leaf",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_bigleafyplantreapers003.png",
-  "bindType": -1,
-  "knownIds": [
-    120562
-  ]
-}
+{"internalId":2505823786,"name":"Plant, Towering Jungle Leaf","description":"This is a large house item.","icon":"data/images/30/0s/re/housing_veg_bsh_bigleafyplantreapers003.png","bindType":-1,"knownIds":[120562]}

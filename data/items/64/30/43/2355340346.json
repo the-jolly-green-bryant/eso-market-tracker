@@ -1,10 +1,1 @@
-{
-  "internalId": 2355340346,
-  "name": "Sthortha's Hide Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_shield_c.png",
-  "bindType": -1,
-  "knownIds": [
-    452046
-  ]
-}
+{"internalId":2355340346,"name":"Sthortha's Hide Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_shield_c.png","bindType":-1,"knownIds":[452046]}

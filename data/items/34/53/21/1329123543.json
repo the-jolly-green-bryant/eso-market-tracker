@@ -1,10 +1,1 @@
-{
-  "internalId": 1329123543,
-  "name": "Praxis: Deadlands Stairway, Inner Corner",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    182985
-  ]
-}
+{"internalId":1329123543,"name":"Praxis: Deadlands Stairway, Inner Corner","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[182985]}

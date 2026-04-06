@@ -1,11 +1,1 @@
-{
-  "internalId": 4186582959,
-  "name": "Subterranean Travel Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1174027,
-    1174027
-  ]
-}
+{"internalId":4186582959,"name":"Subterranean Travel Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[1174027,1174027]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1719874218,
-  "name": "Baan Dar's Blessing Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    1701727,
-    1701728,
-    1701727,
-    1701728
-  ]
-}
+{"internalId":1719874218,"name":"Baan Dar's Blessing Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":-1,"knownIds":[1701727,1701728,1701727,1701728]}

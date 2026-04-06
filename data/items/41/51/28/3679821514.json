@@ -1,10 +1,1 @@
-{
-  "internalId": 3679821514,
-  "name": "Witches Brazier, Primitive Log",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_lampstand001.png",
-  "bindType": -1,
-  "knownIds": [
-    130326
-  ]
-}
+{"internalId":3679821514,"name":"Witches Brazier, Primitive Log","description":"This is a standard house item.","icon":"data/images/10/0d/na/housing_gen_exc_lampstand001.png","bindType":-1,"knownIds":[130326]}

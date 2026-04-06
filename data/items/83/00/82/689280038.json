@@ -1,10 +1,1 @@
-{
-  "internalId": 689280038,
-  "name": "Cartographer's Gloves",
-  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Gloves collectible fragment.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_gloves.png",
-  "bindType": -1,
-  "knownIds": [
-    166703
-  ]
-}
+{"internalId":689280038,"name":"Cartographer's Gloves","description":"Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Gloves collectible fragment.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_gloves.png","bindType":-1,"knownIds":[166703]}

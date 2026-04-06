@@ -1,10 +1,1 @@
-{
-  "internalId": 4000999177,
-  "name": "Plague Mask",
-  "description": "Aerona Berendas gave you this light headpiece for helping combat the Llodos plague in Quarantine Serk.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4326
-  ]
-}
+{"internalId":4000999177,"name":"Plague Mask","description":"Aerona Berendas gave you this light headpiece for helping combat the Llodos plague in Quarantine Serk.","icon":"data/images/d_/da/eh/gear_dunmer_light_head_d.png","bindType":2,"knownIds":[4326]}

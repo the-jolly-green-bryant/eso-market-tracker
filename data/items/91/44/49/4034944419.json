@@ -1,10 +1,1 @@
-{
-  "internalId": 4034944419,
-  "name": "Three Block Jigsaw Puzzle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_deshaan_dwemer_control_rod.png",
-  "bindType": -1,
-  "knownIds": [
-    860133
-  ]
-}
+{"internalId":4034944419,"name":"Three Block Jigsaw Puzzle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_deshaan_dwemer_control_rod.png","bindType":-1,"knownIds":[860133]}

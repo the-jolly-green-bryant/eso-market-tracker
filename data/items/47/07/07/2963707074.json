@@ -1,10 +1,1 @@
-{
-  "internalId": 2963707074,
-  "name": "Venomous Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160987
-  ]
-}
+{"internalId":2963707074,"name":"Venomous Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_2hhammer_a.png","bindType":2,"knownIds":[160987]}

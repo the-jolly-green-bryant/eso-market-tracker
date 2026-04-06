@@ -1,10 +1,1 @@
-{
-  "internalId": 1867403625,
-  "name": "Monolith, Lord Hircine Ritual",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_daedricritualstones005.png",
-  "bindType": -1,
-  "knownIds": [
-    141836
-  ]
-}
+{"internalId":1867403625,"name":"Monolith, Lord Hircine Ritual","description":"This is a large house item.","icon":"data/images/50/0s/en/housing_rok_uni_daedricritualstones005.png","bindType":-1,"knownIds":[141836]}

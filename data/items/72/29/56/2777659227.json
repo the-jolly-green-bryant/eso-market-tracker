@@ -1,10 +1,1 @@
-{
-  "internalId": 2777659227,
-  "name": "Praxis: Ayleid Column, Tall",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    212606
-  ]
-}
+{"internalId":2777659227,"name":"Praxis: Ayleid Column, Tall","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[212606]}

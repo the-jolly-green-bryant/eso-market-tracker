@@ -1,10 +1,1 @@
-{
-  "internalId": 3089822924,
-  "name": "Ring of Faithfulness",
-  "description": "Constructed with a single pearl mounted in a gold and silver setting, this ring is a proper gift for any intended lover.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    208152
-  ]
-}
+{"internalId":3089822924,"name":"Ring of Faithfulness","description":"Constructed with a single pearl mounted in a gold and silver setting, this ring is a proper gift for any intended lover.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":2,"knownIds":[208152]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3260112496,
-  "name": "Solitude Patching Kit, Well-Worn",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_toolrepairkit001.png",
-  "bindType": -1,
-  "knownIds": [
-    165751
-  ]
-}
+{"internalId":3260112496,"name":"Solitude Patching Kit, Well-Worn","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_toolrepairkit001.png","bindType":-1,"knownIds":[165751]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1499445773,
-  "name": "\"Ancient Ezduiin\" Painting",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    927748
-  ]
-}
+{"internalId":1499445773,"name":"\"Ancient Ezduiin\" Painting","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[927748]}

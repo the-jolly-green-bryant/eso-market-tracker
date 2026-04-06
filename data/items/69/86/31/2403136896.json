@@ -1,10 +1,1 @@
-{
-  "internalId": 2403136896,
-  "name": "Murkmire Bookshelf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_bookcase003.png",
-  "bindType": -1,
-  "knownIds": [
-    1276597
-  ]
-}
+{"internalId":2403136896,"name":"Murkmire Bookshelf","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_bookcase003.png","bindType":-1,"knownIds":[1276597]}

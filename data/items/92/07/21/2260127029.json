@@ -1,10 +1,1 @@
-{
-  "internalId": 2260127029,
-  "name": "Axe of the Dreugh King Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80992
-  ]
-}
+{"internalId":2260127029,"name":"Axe of the Dreugh King Slayer","description":"","icon":"data/images/d_/ex/ah/gear_dunmer_1haxe_d.png","bindType":2,"knownIds":[80992]}

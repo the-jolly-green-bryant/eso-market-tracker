@@ -1,10 +1,1 @@
-{
-  "internalId": 1513996569,
-  "name": "Clockwork Gear Display, Tall Jar",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_gearjar001.png",
-  "bindType": -1,
-  "knownIds": [
-    134423
-  ]
-}
+{"internalId":1513996569,"name":"Clockwork Gear Display, Tall Jar","description":"This is a small house item.","icon":"data/images/10/0r/aj/housing_cwc_inc_gearjar001.png","bindType":-1,"knownIds":[134423]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 597783514,
-  "name": "Ten-Foot Beer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    28514
-  ]
-}
+{"internalId":597783514,"name":"Ten-Foot Beer","description":"","icon":"data/images/10/0_/re/crafting_beer_001.png","bindType":-1,"knownIds":[28514]}

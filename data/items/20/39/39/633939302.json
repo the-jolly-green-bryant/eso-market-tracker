@@ -1,10 +1,1 @@
-{
-  "internalId": 633939302,
-  "name": "Sea Sponge",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_seasponge001.png",
-  "bindType": -1,
-  "knownIds": [
-    118901
-  ]
-}
+{"internalId":633939302,"name":"Sea Sponge","description":"This is a small house item.","icon":"data/images/10/0e/gn/housing_veg_aqa_seasponge001.png","bindType":-1,"knownIds":[118901]}

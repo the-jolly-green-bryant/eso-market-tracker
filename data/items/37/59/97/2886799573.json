@@ -1,10 +1,1 @@
-{
-  "internalId": 2886799573,
-  "name": "Velothi View Vintage Malbec",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    68274
-  ]
-}
+{"internalId":2886799573,"name":"Velothi View Vintage Malbec","description":"","icon":"data/images/20/0_/el/crafting_stoneware_bottle_002.png","bindType":-1,"knownIds":[68274]}

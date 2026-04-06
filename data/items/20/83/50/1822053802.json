@@ -1,10 +1,1 @@
-{
-  "internalId": 1822053802,
-  "name": "Dagger of Eternal Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161174
-  ]
-}
+{"internalId":1822053802,"name":"Dagger of Eternal Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_dagger_a.png","bindType":2,"knownIds":[161174]}

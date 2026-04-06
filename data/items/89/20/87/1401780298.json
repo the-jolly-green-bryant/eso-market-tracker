@@ -1,10 +1,1 @@
-{
-  "internalId": 1401780298,
-  "name": "Scar Cream",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1078375
-  ]
-}
+{"internalId":1401780298,"name":"Scar Cream","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[1078375]}

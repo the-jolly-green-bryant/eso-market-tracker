@@ -1,10 +1,1 @@
-{
-  "internalId": 3552989856,
-  "name": "Diagram: Hlaalu Gong",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png",
-  "bindType": -1,
-  "knownIds": [
-    134983
-  ]
-}
+{"internalId":3552989856,"name":"Diagram: Hlaalu Gong","description":"","icon":"data/images/5g/ni/ht/crafting_planfurniture_blacksmithing5.png","bindType":-1,"knownIds":[134983]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1212524389,
-  "name": "Senchegut Fishing Line",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stickwithstring.png",
-  "bindType": -1,
-  "knownIds": [
-    1313148
-  ]
-}
+{"internalId":1212524389,"name":"Senchegut Fishing Line","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stickwithstring.png","bindType":-1,"knownIds":[1313148]}

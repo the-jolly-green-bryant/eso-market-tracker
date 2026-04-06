@@ -1,10 +1,1 @@
-{
-  "internalId": 3057901447,
-  "name": "murky shein wine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
-  "bindType": -1,
-  "knownIds": [
-    871866
-  ]
-}
+{"internalId":3057901447,"name":"murky shein wine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png","bindType":-1,"knownIds":[871866]}

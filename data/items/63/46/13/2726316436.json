@@ -1,10 +1,1 @@
-{
-  "internalId": 2726316436,
-  "name": "Soothing Bard's-Throat Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_003.png",
-  "bindType": -1,
-  "knownIds": [
-    68259
-  ]
-}
+{"internalId":2726316436,"name":"Soothing Bard's-Throat Tea","description":"","icon":"data/images/30/0_/ae/crafting_tea_003.png","bindType":-1,"knownIds":[68259]}

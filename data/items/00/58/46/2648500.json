@@ -1,10 +1,1 @@
-{
-  "internalId": 2648500,
-  "name": "Ivory Mixing Bowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png",
-  "bindType": -1,
-  "knownIds": [
-    479528
-  ]
-}
+{"internalId":2648500,"name":"Ivory Mixing Bowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_glass_bowl_002.png","bindType":-1,"knownIds":[479528]}

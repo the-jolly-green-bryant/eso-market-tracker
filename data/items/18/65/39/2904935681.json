@@ -1,10 +1,1 @@
-{
-  "internalId": 2904935681,
-  "name": "Amulet of Sul-Xan's Torment",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1486777
-  ]
-}
+{"internalId":2904935681,"name":"Amulet of Sul-Xan's Torment","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1486777]}

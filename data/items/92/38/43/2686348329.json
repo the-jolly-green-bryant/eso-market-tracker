@@ -1,10 +1,1 @@
-{
-  "internalId": 2686348329,
-  "name": "Style Page: Horned Dragon Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1248790
-  ]
-}
+{"internalId":2686348329,"name":"Style Page: Horned Dragon Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1248790]}

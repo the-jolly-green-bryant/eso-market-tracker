@@ -1,10 +1,1 @@
-{
-  "internalId": 2378534140,
-  "name": "Floating Apocrypha Bookcase, Nautilus",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_housingbookcasefloating002.png",
-  "bindType": -1,
-  "knownIds": [
-    198404
-  ]
-}
+{"internalId":2378534140,"name":"Floating Apocrypha Bookcase, Nautilus","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_fur_housingbookcasefloating002.png","bindType":-1,"knownIds":[198404]}

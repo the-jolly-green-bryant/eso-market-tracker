@@ -1,10 +1,1 @@
-{
-  "internalId": 1561989181,
-  "name": "Jewelry: Quick Serpent",
-  "description": "A Medium Armor set found in the Aetherian Archive Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114236
-  ]
-}
+{"internalId":1561989181,"name":"Jewelry: Quick Serpent","description":"A Medium Armor set found in the Aetherian Archive Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114236]}

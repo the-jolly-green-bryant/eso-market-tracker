@@ -1,10 +1,1 @@
-{
-  "internalId": 2235710433,
-  "name": "Stuhn's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161581
-  ]
-}
+{"internalId":2235710433,"name":"Stuhn's Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[161581]}

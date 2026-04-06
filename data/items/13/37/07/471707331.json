@@ -1,17 +1,1 @@
-{
-  "internalId": 471707331,
-  "name": "Fledgling's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_2hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1747852,
-    1748993,
-    1750887,
-    1754599,
-    1747852,
-    1748993,
-    1750887,
-    1754599
-  ]
-}
+{"internalId":471707331,"name":"Fledgling's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_2hhammer_a.png","bindType":-1,"knownIds":[1747852,1748993,1750887,1754599,1747852,1748993,1750887,1754599]}

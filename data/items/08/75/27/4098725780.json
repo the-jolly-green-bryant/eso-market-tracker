@@ -1,10 +1,1 @@
-{
-  "internalId": 4098725780,
-  "name": "Alinor Windmill, Decorative",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_altwindmill001.png",
-  "bindType": -1,
-  "knownIds": [
-    151863
-  ]
-}
+{"internalId":4098725780,"name":"Alinor Windmill, Decorative","description":"This is a huge house item.","icon":"data/images/10/0l/li/housing_sum_str_altwindmill001.png","bindType":-1,"knownIds":[151863]}

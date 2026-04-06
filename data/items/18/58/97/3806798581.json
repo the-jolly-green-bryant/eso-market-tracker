@@ -1,10 +1,1 @@
-{
-  "internalId": 3806798581,
-  "name": "Mace of a Mother's Sorrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97388
-  ]
-}
+{"internalId":3806798581,"name":"Mace of a Mother's Sorrow","description":"","icon":"data/images/d_/re/mm/gear_argonian_1hhammer_d.png","bindType":2,"knownIds":[97388]}

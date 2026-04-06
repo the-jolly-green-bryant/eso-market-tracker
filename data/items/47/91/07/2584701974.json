@@ -1,13 +1,1 @@
-{
-  "internalId": 2584701974,
-  "name": "Grand Soul Gem (Empty)",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_006_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    363711,
-    687421,
-    363711,
-    687421
-  ]
-}
+{"internalId":2584701974,"name":"Grand Soul Gem (Empty)","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/soulgem_006_empty.png","bindType":-1,"knownIds":[363711,687421,363711,687421]}

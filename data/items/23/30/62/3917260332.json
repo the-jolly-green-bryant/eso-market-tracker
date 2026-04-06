@@ -1,10 +1,1 @@
-{
-  "internalId": 3917260332,
-  "name": "Embroidered Tavern Pillow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484056
-  ]
-}
+{"internalId":3917260332,"name":"Embroidered Tavern Pillow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[484056]}

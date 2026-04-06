@@ -1,10 +1,1 @@
-{
-  "internalId": 1091063639,
-  "name": "High Isle Bookcase, Wide Carved Filled",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_housingbookcaselargethin002.png",
-  "bindType": -1,
-  "knownIds": [
-    187840
-  ]
-}
+{"internalId":1091063639,"name":"High Isle Bookcase, Wide Carved Filled","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_housingbookcaselargethin002.png","bindType":-1,"knownIds":[187840]}

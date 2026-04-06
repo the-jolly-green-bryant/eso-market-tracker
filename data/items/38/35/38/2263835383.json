@@ -1,10 +1,1 @@
-{
-  "internalId": 2263835383,
-  "name": "Galerion's Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78113
-  ]
-}
+{"internalId":2263835383,"name":"Galerion's Bracers","description":"","icon":"data/images/d_/sd/na/gear_altmer_medium_hands_d.png","bindType":2,"knownIds":[78113]}

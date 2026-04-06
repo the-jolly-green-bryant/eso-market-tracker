@@ -1,10 +1,1 @@
-{
-  "internalId": 904598758,
-  "name": "Torchbug Hair Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    859443
-  ]
-}
+{"internalId":904598758,"name":"Torchbug Hair Tonic","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[859443]}

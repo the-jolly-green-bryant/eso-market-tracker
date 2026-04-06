@@ -1,10 +1,1 @@
-{
-  "internalId": 3152158696,
-  "name": "Vengeful Eye",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    815085
-  ]
-}
+{"internalId":3152158696,"name":"Vengeful Eye","description":"","icon":null,"bindType":-1,"knownIds":[815085]}

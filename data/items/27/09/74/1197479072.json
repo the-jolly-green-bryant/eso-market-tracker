@@ -1,17 +1,1 @@
-{
-  "internalId": 1197479072,
-  "name": "Frozen Watcher's Necklace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1303527,
-    1306915,
-    1498354,
-    1753338,
-    1303527,
-    1306915,
-    1498354,
-    1753338
-  ]
-}
+{"internalId":1197479072,"name":"Frozen Watcher's Necklace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1303527,1306915,1498354,1753338,1303527,1306915,1498354,1753338]}

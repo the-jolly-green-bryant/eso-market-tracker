@@ -1,10 +1,1 @@
-{
-  "internalId": 550819446,
-  "name": "Darloc Brae Set Fragment 6",
-  "description": "This is one of six parts of the Darloc Brae Gear Set Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_factotumhand_001.png",
-  "bindType": -1,
-  "knownIds": [
-    153709
-  ]
-}
+{"internalId":550819446,"name":"Darloc Brae Set Fragment 6","description":"This is one of six parts of the Darloc Brae Gear Set Runebox.","icon":"data/images/10/0_/dn/quest_factotumhand_001.png","bindType":-1,"knownIds":[153709]}

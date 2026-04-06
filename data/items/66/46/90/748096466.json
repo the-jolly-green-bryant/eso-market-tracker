@@ -1,10 +1,1 @@
-{
-  "internalId": 748096466,
-  "name": "Angrar's Brace",
-  "description": "Armor given as a reward for returning Angrar's note.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159722
-  ]
-}
+{"internalId":748096466,"name":"Angrar's Brace","description":"Armor given as a reward for returning Angrar's note.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_waist_d.png","bindType":2,"knownIds":[159722]}

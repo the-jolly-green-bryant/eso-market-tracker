@@ -1,10 +1,1 @@
-{
-  "internalId": 2133249256,
-  "name": "Ochre",
-  "description": "Used in crafting jewelry furniture.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_material_refined_orpiment.png",
-  "bindType": -1,
-  "knownIds": [
-    135161
-  ]
-}
+{"internalId":2133249256,"name":"Ochre","description":"Used in crafting jewelry furniture.","icon":"data/images/tn/em/ip/jewelrycrafting_material_refined_orpiment.png","bindType":-1,"knownIds":[135161]}

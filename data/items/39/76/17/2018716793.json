@@ -1,10 +1,1 @@
-{
-  "internalId": 2018716793,
-  "name": "Gauntlets of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77071
-  ]
-}
+{"internalId":2018716793,"name":"Gauntlets of Morihaus","description":"","icon":"data/images/a_/sd/na/gear_minotaur_heavy_hands_a.png","bindType":2,"knownIds":[77071]}

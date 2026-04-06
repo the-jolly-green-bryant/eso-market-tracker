@@ -1,10 +1,1 @@
-{
-  "internalId": 2906963847,
-  "name": "Druidic Bench, Curved Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonebenchcurved001.png",
-  "bindType": -1,
-  "knownIds": [
-    191166
-  ]
-}
+{"internalId":2906963847,"name":"Druidic Bench, Curved Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_drustonebenchcurved001.png","bindType":-1,"knownIds":[191166]}

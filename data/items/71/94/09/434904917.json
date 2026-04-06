@@ -1,10 +1,1 @@
-{
-  "internalId": 434904917,
-  "name": "Nass's Signet",
-  "description": "A ring awarded by the Skaafin who serves Madam Whim for your assistance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    182843
-  ]
-}
+{"internalId":434904917,"name":"Nass's Signet","description":"A ring awarded by the Skaafin who serves Madam Whim for your assistance.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_ring_a.png","bindType":2,"knownIds":[182843]}

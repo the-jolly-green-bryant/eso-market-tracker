@@ -1,10 +1,1 @@
-{
-  "internalId": 640263447,
-  "name": "Aloysius's Empty Gold Belt",
-  "description": "A cloth belt used to hold coins of various types presented to you by Tertia Falto. It's empty. Very empty.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    174863
-  ]
-}
+{"internalId":640263447,"name":"Aloysius's Empty Gold Belt","description":"A cloth belt used to hold coins of various types presented to you by Tertia Falto. It's empty. Very empty.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_light_waist_d.png","bindType":2,"knownIds":[174863]}

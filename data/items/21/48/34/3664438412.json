@@ -1,10 +1,1 @@
-{
-  "internalId": 3664438412,
-  "name": "Fire Drake Banner, Long",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesdragonflaglong001.png",
-  "bindType": -1,
-  "knownIds": [
-    211530
-  ]
-}
+{"internalId":3664438412,"name":"Fire Drake Banner, Long","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesdragonflaglong001.png","bindType":-1,"knownIds":[211530]}

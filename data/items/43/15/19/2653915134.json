@@ -1,10 +1,1 @@
-{
-  "internalId": 2653915134,
-  "name": "Imperial Dresser, Short",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_bookcaseshort001.png",
-  "bindType": -1,
-  "knownIds": [
-    94099
-  ]
-}
+{"internalId":2653915134,"name":"Imperial Dresser, Short","description":"This is a standard house item.","icon":"data/images/10/0t/ro/housing_nib_fur_bookcaseshort001.png","bindType":-1,"knownIds":[94099]}

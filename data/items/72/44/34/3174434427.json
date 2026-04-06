@@ -1,10 +1,1 @@
-{
-  "internalId": 3174434427,
-  "name": "House Hlaalu Sealing Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png",
-  "bindType": -1,
-  "knownIds": [
-    404456
-  ]
-}
+{"internalId":3174434427,"name":"House Hlaalu Sealing Wax","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png","bindType":-1,"knownIds":[404456]}

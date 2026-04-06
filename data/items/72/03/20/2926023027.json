@@ -1,10 +1,1 @@
-{
-  "internalId": 2926023027,
-  "name": "Scent of Magicka Cologne",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    514248
-  ]
-}
+{"internalId":2926023027,"name":"Scent of Magicka Cologne","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[514248]}

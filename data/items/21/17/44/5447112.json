@@ -1,10 +1,1 @@
-{
-  "internalId": 5447112,
-  "name": "Water Hyacinth",
-  "description": "An ingredient for crafting potions.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_water_plant_water_hyacinth_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    30166
-  ]
-}
+{"internalId":5447112,"name":"Water Hyacinth","description":"An ingredient for crafting potions.","icon":"data/images/1r/_h/tn/crafting_water_plant_water_hyacinth_r1.png","bindType":-1,"knownIds":[30166]}

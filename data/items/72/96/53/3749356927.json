@@ -1,17 +1,1 @@
-{
-  "internalId": 3749356927,
-  "name": "iron mace of flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    539624,
-    430663,
-    668037,
-    786214,
-    539624,
-    430663,
-    668037,
-    786214
-  ]
-}
+{"internalId":3749356927,"name":"iron mace of flame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":-1,"knownIds":[539624,430663,668037,786214,539624,430663,668037,786214]}

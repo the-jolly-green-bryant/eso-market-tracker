@@ -1,17 +1,1 @@
-{
-  "internalId": 303629929,
-  "name": "Bound Signature Script: Assassins Misery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_statuseffect.png",
-  "bindType": -1,
-  "knownIds": [
-    1719507,
-    1721498,
-    1719507,
-    1721498,
-    1719507,
-    1721498,
-    1719507,
-    1721498
-  ]
-}
+{"internalId":303629929,"name":"Bound Signature Script: Assassins Misery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_statuseffect.png","bindType":-1,"knownIds":[1719507,1721498,1719507,1721498,1719507,1721498,1719507,1721498]}

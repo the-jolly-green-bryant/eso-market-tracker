@@ -1,10 +1,1 @@
-{
-  "internalId": 372560125,
-  "name": "Stone-Nest Fountain, Triple Spout",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingarghistpool001.png",
-  "bindType": -1,
-  "knownIds": [
-    217978
-  ]
-}
+{"internalId":372560125,"name":"Stone-Nest Fountain, Triple Spout","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingarghistpool001.png","bindType":-1,"knownIds":[217978]}

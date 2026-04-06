@@ -1,10 +1,1 @@
-{
-  "internalId": 3729069341,
-  "name": "Blueprint: Hlaalu Gaming Table, \"Foxes & Felines\"",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    134987
-  ]
-}
+{"internalId":3729069341,"name":"Blueprint: Hlaalu Gaming Table, \"Foxes & Felines\"","description":"","icon":"data/images/5_/gn/ik/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[134987]}

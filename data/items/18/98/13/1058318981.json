@@ -1,10 +1,1 @@
-{
-  "internalId": 1058318981,
-  "name": "Eidetic Memory, New Chapters",
-  "description": "A magical tome containing Lorebooks collected from every corner of Tamriel by the agents of the Daedric Prince of Knowledge.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_bookofwhispers001.png",
-  "bindType": 3,
-  "knownIds": [
-    203122
-  ]
-}
+{"internalId":1058318981,"name":"Eidetic Memory, New Chapters","description":"A magical tome containing Lorebooks collected from every corner of Tamriel by the agents of the Daedric Prince of Knowledge.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_bookofwhispers001.png","bindType":3,"knownIds":[203122]}

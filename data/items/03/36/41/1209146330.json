@@ -1,10 +1,1 @@
-{
-  "internalId": 1209146330,
-  "name": "Axe of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101284
-  ]
-}
+{"internalId":1209146330,"name":"Axe of Soulshine","description":"","icon":"data/images/d_/ex/ah/gear_khajiit_1haxe_d.png","bindType":2,"knownIds":[101284]}

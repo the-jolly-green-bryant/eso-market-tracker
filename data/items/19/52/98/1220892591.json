@@ -1,10 +1,1 @@
-{
-  "internalId": 1220892591,
-  "name": "Recipe: Five-Fireball Infusion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57057
-  ]
-}
+{"internalId":1220892591,"name":"Recipe: Five-Fireball Infusion","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57057]}

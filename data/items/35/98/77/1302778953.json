@@ -1,10 +1,1 @@
-{
-  "internalId": 1302778953,
-  "name": "Little Black Journal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    628493
-  ]
-}
+{"internalId":1302778953,"name":"Little Black Journal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[628493]}

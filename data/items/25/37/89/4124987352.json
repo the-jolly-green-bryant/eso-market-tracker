@@ -1,10 +1,1 @@
-{
-  "internalId": 4124987352,
-  "name": "Endless Pouch of Proofs",
-  "description": "This pouch contains a bounty of Arena Gladiator Proofs and Siege of Cyrodiil Merits.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": 3,
-  "knownIds": [
-    160513
-  ]
-}
+{"internalId":4124987352,"name":"Endless Pouch of Proofs","description":"This pouch contains a bounty of Arena Gladiator Proofs and Siege of Cyrodiil Merits.","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":3,"knownIds":[160513]}

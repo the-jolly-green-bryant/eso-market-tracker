@@ -1,10 +1,1 @@
-{
-  "internalId": 2716425270,
-  "name": "Runebox: Hagmatron's Face Marking",
-  "description": "Contains a Hagmatron's Face Marking. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_collectible_runebound_tome.png",
-  "bindType": -1,
-  "knownIds": [
-    219747
-  ]
-}
+{"internalId":2716425270,"name":"Runebox: Hagmatron's Face Marking","description":"Contains a Hagmatron's Face Marking. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_collectible_runebound_tome.png","bindType":-1,"knownIds":[219747]}

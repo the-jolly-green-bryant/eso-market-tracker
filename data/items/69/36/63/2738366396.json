@@ -1,17 +1,1 @@
-{
-  "internalId": 2738366396,
-  "name": "Telvanni Enforcer Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1632472,
-    1642547,
-    1684527,
-    1779907,
-    1632472,
-    1642547,
-    1684527,
-    1779907
-  ]
-}
+{"internalId":2738366396,"name":"Telvanni Enforcer Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_magicaldunmer_2hsword_a.png","bindType":-1,"knownIds":[1632472,1642547,1684527,1779907,1632472,1642547,1684527,1779907]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2843803511,
-  "name": "Sash of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172117
-  ]
-}
+{"internalId":2843803511,"name":"Sash of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_waist_a.png","bindType":2,"knownIds":[172117]}

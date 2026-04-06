@@ -1,10 +1,1 @@
-{
-  "internalId": 776355546,
-  "name": "Painting of Aldmeri Ruins, Refined",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwood006.png",
-  "bindType": -1,
-  "knownIds": [
-    139074
-  ]
-}
+{"internalId":776355546,"name":"Painting of Aldmeri Ruins, Refined","description":"This is a standard house item.","icon":"data/images/60/0d/oo/housing_sum_inc_paintingwood006.png","bindType":-1,"knownIds":[139074]}

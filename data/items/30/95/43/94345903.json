@@ -1,10 +1,1 @@
-{
-  "internalId": 94345903,
-  "name": "Mammoth-Hide Falconer's Gage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    806084
-  ]
-}
+{"internalId":94345903,"name":"Mammoth-Hide Falconer's Gage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_hands_a.png","bindType":-1,"knownIds":[806084]}

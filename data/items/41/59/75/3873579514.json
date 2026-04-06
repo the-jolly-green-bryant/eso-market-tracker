@@ -1,10 +1,1 @@
-{
-  "internalId": 3873579514,
-  "name": "Minecart, Skeletal Remains",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_csb_minecartbones001.png",
-  "bindType": -1,
-  "knownIds": [
-    167350
-  ]
-}
+{"internalId":3873579514,"name":"Minecart, Skeletal Remains","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_csb_minecartbones001.png","bindType":-1,"knownIds":[167350]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4163277277,
-  "name": "Clockwork Micrometer, Handheld",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_smalltoolmeasuringcaliper001.png",
-  "bindType": -1,
-  "knownIds": [
-    134414
-  ]
-}
+{"internalId":4163277277,"name":"Clockwork Micrometer, Handheld","description":"This is a tiny house item.","icon":"data/images/10/0r/ep/housing_cwc_inc_smalltoolmeasuringcaliper001.png","bindType":-1,"knownIds":[134414]}

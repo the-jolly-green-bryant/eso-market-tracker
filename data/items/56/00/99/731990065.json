@@ -1,10 +1,1 @@
-{
-  "internalId": 731990065,
-  "name": "Honeycomb",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    33341
-  ]
-}
+{"internalId":731990065,"name":"Honeycomb","description":"","icon":null,"bindType":-1,"knownIds":[33341]}

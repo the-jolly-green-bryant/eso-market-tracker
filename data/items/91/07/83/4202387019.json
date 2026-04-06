@@ -1,11 +1,1 @@
-{
-  "internalId": 4202387019,
-  "name": "Treated Wood",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821586,
-    821586
-  ]
-}
+{"internalId":4202387019,"name":"Treated Wood","description":"","icon":null,"bindType":-1,"knownIds":[821586,821586]}

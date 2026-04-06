@@ -1,10 +1,1 @@
-{
-  "internalId": 3380907830,
-  "name": "Mace of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101285
-  ]
-}
+{"internalId":3380907830,"name":"Mace of Soulshine","description":"","icon":"data/images/d_/re/mm/gear_khajiit_1hhammer_d.png","bindType":2,"knownIds":[101285]}

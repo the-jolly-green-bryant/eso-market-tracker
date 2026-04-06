@@ -1,10 +1,1 @@
-{
-  "internalId": 1879397994,
-  "name": "Style Page: Opal Engine Guardian Dagger",
-  "description": "Use to learn the Opal Engine Guardian Dagger Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156816
-  ]
-}
+{"internalId":1879397994,"name":"Style Page: Opal Engine Guardian Dagger","description":"Use to learn the Opal Engine Guardian Dagger Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156816]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1023658685,
-  "name": "High Isle Dresser, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_dresserhigh002.png",
-  "bindType": -1,
-  "knownIds": [
-    191187
-  ]
-}
+{"internalId":1023658685,"name":"High Isle Dresser, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_dresserhigh002.png","bindType":-1,"knownIds":[191187]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1832165804,
-  "name": "Leyawiin Brazier, Iron",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybraziermedium002.png",
-  "bindType": -1,
-  "knownIds": [
-    175641
-  ]
-}
+{"internalId":1832165804,"name":"Leyawiin Brazier, Iron","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybraziermedium002.png","bindType":-1,"knownIds":[175641]}

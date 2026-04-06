@@ -1,10 +1,1 @@
-{
-  "internalId": 3118676011,
-  "name": "Diagram: Worm Cult Brazier, Cold-Flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    223591
-  ]
-}
+{"internalId":3118676011,"name":"Diagram: Worm Cult Brazier, Cold-Flame","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[223591]}

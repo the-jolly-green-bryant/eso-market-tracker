@@ -1,10 +1,1 @@
-{
-  "internalId": 58187527,
-  "name": "Ateian Fife",
-  "description": "A masterfully crafted fife, bearing the mark of a legendary family of flutemakers. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questateianfife001.png",
-  "bindType": 3,
-  "knownIds": [
-    160510
-  ]
-}
+{"internalId":58187527,"name":"Ateian Fife","description":"A masterfully crafted fife, bearing the mark of a legendary family of flutemakers. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_uni_inc_questateianfife001.png","bindType":3,"knownIds":[160510]}

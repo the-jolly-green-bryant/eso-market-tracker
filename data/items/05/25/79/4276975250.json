@@ -1,10 +1,1 @@
-{
-  "internalId": 4276975250,
-  "name": "Porade",
-  "description": "Porade",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_046.png",
-  "bindType": -1,
-  "knownIds": [
-    45856
-  ]
-}
+{"internalId":4276975250,"name":"Porade","description":"Porade","icon":"data/images/64/0_/se/crafting_components_runestones_046.png","bindType":-1,"knownIds":[45856]}

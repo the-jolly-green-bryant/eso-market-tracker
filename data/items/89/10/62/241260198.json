@@ -1,10 +1,1 @@
-{
-  "internalId": 241260198,
-  "name": "Design: Alinor Amphora, Embossed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    139598
-  ]
-}
+{"internalId":241260198,"name":"Design: Alinor Amphora, Embossed","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[139598]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1585964612,
-  "name": "Ascendant Helm",
-  "description": "Armor used by the Ascendant Order, designed to protect the wearer's identity as well as their head.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruth_hvy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    188113
-  ]
-}
+{"internalId":1585964612,"name":"Ascendant Helm","description":"Armor used by the Ascendant Order, designed to protect the wearer's identity as well as their head.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_scribestruth_hvy_head_a.png","bindType":2,"knownIds":[188113]}

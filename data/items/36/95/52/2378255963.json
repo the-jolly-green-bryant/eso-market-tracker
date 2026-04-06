@@ -1,10 +1,1 @@
-{
-  "internalId": 2378255963,
-  "name": "Pact's Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54457
-  ]
-}
+{"internalId":2378255963,"name":"Pact's Boots","description":"","icon":"data/images/a_/te/ef/gear_akaviri_medium_feet_a.png","bindType":2,"knownIds":[54457]}

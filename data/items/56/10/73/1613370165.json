@@ -1,10 +1,1 @@
-{
-  "internalId": 1613370165,
-  "name": "Argonian Shell Verse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_nauticalwaystone.png",
-  "bindType": -1,
-  "knownIds": [
-    1268249
-  ]
-}
+{"internalId":1613370165,"name":"Argonian Shell Verse","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_nauticalwaystone.png","bindType":-1,"knownIds":[1268249]}

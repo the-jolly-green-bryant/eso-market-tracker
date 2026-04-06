@@ -1,10 +1,1 @@
-{
-  "internalId": 2356315442,
-  "name": "Diagram: Alinor Platter, Scalloped",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    139618
-  ]
-}
+{"internalId":2356315442,"name":"Diagram: Alinor Platter, Scalloped","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[139618]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1492734900,
-  "name": "Enchanted Silver Ore",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    1425271,
-    1425270,
-    1425272,
-    1425271,
-    1425270,
-    1425272
-  ]
-}
+{"internalId":1492734900,"name":"Enchanted Silver Ore","description":"","icon":null,"bindType":-1,"knownIds":[1425271,1425270,1425272,1425271,1425270,1425272]}

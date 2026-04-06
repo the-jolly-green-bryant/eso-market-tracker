@@ -1,10 +1,1 @@
-{
-  "internalId": 3618956929,
-  "name": "Twice-Baked Potatoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potato.png",
-  "bindType": -1,
-  "knownIds": [
-    37959
-  ]
-}
+{"internalId":3618956929,"name":"Twice-Baked Potatoes","description":"","icon":"data/images/ot/at/op/crafting_potato.png","bindType":-1,"knownIds":[37959]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2522611191,
-  "name": "Colovian Rug, Noble Circular",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_highrug002.png",
-  "bindType": -1,
-  "knownIds": [
-    204672
-  ]
-}
+{"internalId":2522611191,"name":"Colovian Rug, Noble Circular","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_highrug002.png","bindType":-1,"knownIds":[204672]}

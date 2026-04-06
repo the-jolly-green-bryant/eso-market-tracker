@@ -1,15 +1,1 @@
-{
-  "internalId": 3509720706,
-  "name": "orichalc-steel greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    643133,
-    661389,
-    615775,
-    791189,
-    791062,
-    1167476
-  ]
-}
+{"internalId":3509720706,"name":"orichalc-steel greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png","bindType":-1,"knownIds":[643133,661389,615775,791189,791062,1167476]}

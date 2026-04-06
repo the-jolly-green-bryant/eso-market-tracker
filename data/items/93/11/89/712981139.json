@@ -1,10 +1,1 @@
-{
-  "internalId": 712981139,
-  "name": "Stirk Fellowship Banner, Hanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_alliancetowerbanner001.png",
-  "bindType": -1,
-  "knownIds": [
-    219738
-  ]
-}
+{"internalId":712981139,"name":"Stirk Fellowship Banner, Hanging","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_lsb_alliancetowerbanner001.png","bindType":-1,"knownIds":[219738]}

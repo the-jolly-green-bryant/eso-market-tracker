@@ -1,10 +1,1 @@
-{
-  "internalId": 1616301016,
-  "name": "Shrub, Sparse Violet",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_gcvetcholeander002.png",
-  "bindType": -1,
-  "knownIds": [
-    121036
-  ]
-}
+{"internalId":1616301016,"name":"Shrub, Sparse Violet","description":"This is a small house item.","icon":"data/images/20/0r/ed/housing_veg_bsh_gcvetcholeander002.png","bindType":-1,"knownIds":[121036]}

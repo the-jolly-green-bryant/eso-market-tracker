@@ -1,10 +1,1 @@
-{
-  "internalId": 3174054682,
-  "name": "Sketch: Alinor Goblet, Silver Plain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_jewelry_2.png",
-  "bindType": -1,
-  "knownIds": [
-    139612
-  ]
-}
+{"internalId":3174054682,"name":"Sketch: Alinor Goblet, Silver Plain","description":"","icon":"data/images/2_/yr/le/crafting_planfurniture_jewelry_2.png","bindType":-1,"knownIds":[139612]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3084105710,
-  "name": "High Isle End Table, Carved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablehighsquare001.png",
-  "bindType": -1,
-  "knownIds": [
-    187852
-  ]
-}
+{"internalId":3084105710,"name":"High Isle End Table, Carved","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_tablehighsquare001.png","bindType":-1,"knownIds":[187852]}

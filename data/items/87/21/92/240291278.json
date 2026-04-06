@@ -1,10 +1,1 @@
-{
-  "internalId": 240291278,
-  "name": "Veteran Dreadsail Reef Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/undaunted_dungeoncoffer.png",
-  "bindType": 3,
-  "knownIds": [
-    212572
-  ]
-}
+{"internalId":240291278,"name":"Veteran Dreadsail Reef Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/undaunted_dungeoncoffer.png","bindType":3,"knownIds":[212572]}

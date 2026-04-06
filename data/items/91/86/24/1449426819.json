@@ -1,10 +1,1 @@
-{
-  "internalId": 1449426819,
-  "name": "Praxis: Dwarven Dresser, Granite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    171522
-  ]
-}
+{"internalId":1449426819,"name":"Praxis: Dwarven Dresser, Granite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[171522]}

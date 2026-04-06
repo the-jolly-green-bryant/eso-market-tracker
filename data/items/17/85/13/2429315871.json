@@ -1,17 +1,1 @@
-{
-  "internalId": 2429315871,
-  "name": "cotton breeches of magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    461968,
-    791303,
-    789426,
-    1167508,
-    461968,
-    791303,
-    789426,
-    1167508
-  ]
-}
+{"internalId":2429315871,"name":"cotton breeches of magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":-1,"knownIds":[461968,791303,789426,1167508,461968,791303,789426,1167508]}

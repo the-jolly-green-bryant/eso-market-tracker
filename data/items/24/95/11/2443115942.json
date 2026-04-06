@@ -1,17 +1,1 @@
-{
-  "internalId": 2443115942,
-  "name": "Spiderstaff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    699346,
-    516379,
-    715030,
-    649836,
-    699346,
-    516379,
-    715030,
-    649836
-  ]
-}
+{"internalId":2443115942,"name":"Spiderstaff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png","bindType":-1,"knownIds":[699346,516379,715030,649836,699346,516379,715030,649836]}

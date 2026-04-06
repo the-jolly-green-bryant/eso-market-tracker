@@ -1,10 +1,1 @@
-{
-  "internalId": 3953539349,
-  "name": "Covenant's Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54433
-  ]
-}
+{"internalId":3953539349,"name":"Covenant's Gauntlets","description":"","icon":"data/images/a_/sd/na/gear_akaviri_heavy_hands_a.png","bindType":2,"knownIds":[54433]}

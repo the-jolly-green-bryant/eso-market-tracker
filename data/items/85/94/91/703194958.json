@@ -1,10 +1,1 @@
-{
-  "internalId": 703194958,
-  "name": "Mushrooms, Tall Chanterelle",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_giantmushroom009.png",
-  "bindType": -1,
-  "knownIds": [
-    120568
-  ]
-}
+{"internalId":703194958,"name":"Mushrooms, Tall Chanterelle","description":"This is a huge house item.","icon":"data/images/90/0m/oo/housing_veg_fug_giantmushroom009.png","bindType":-1,"knownIds":[120568]}

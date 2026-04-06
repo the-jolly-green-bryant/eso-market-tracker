@@ -1,10 +1,1 @@
-{
-  "internalId": 345626142,
-  "name": "Pattern: Dark Elf Pillow, Roll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    116063
-  ]
-}
+{"internalId":345626142,"name":"Pattern: Dark Elf Pillow, Roll","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[116063]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 971009930,
-  "name": "Ancient Warden's Greaves",
-  "description": "These greaves are as old as the Dunmer race, but they're as strong as the day they were forged.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7382
-  ]
-}
+{"internalId":971009930,"name":"Ancient Warden's Greaves","description":"These greaves are as old as the Dunmer race, but they're as strong as the day they were forged.","icon":"data/images/d_/sg/el/gear_dunmer_heavy_legs_d.png","bindType":2,"knownIds":[7382]}

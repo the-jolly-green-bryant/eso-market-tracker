@@ -1,10 +1,1 @@
-{
-  "internalId": 1835593757,
-  "name": "Markarth Stairway, Wide Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_markintstairs001.png",
-  "bindType": -1,
-  "knownIds": [
-    171770
-  ]
-}
+{"internalId":1835593757,"name":"Markarth Stairway, Wide Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_str_markintstairs001.png","bindType":-1,"knownIds":[171770]}

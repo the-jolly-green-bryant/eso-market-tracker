@@ -1,10 +1,1 @@
-{
-  "internalId": 715634680,
-  "name": "Redguard Bench, Slatted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varbench004.png",
-  "bindType": -1,
-  "knownIds": [
-    117678
-  ]
-}
+{"internalId":715634680,"name":"Redguard Bench, Slatted","description":"This is a standard house item.","icon":"data/images/40/0h/cn/housing_red_fur_varbench004.png","bindType":-1,"knownIds":[117678]}

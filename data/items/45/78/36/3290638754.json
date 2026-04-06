@@ -1,10 +1,1 @@
-{
-  "internalId": 3290638754,
-  "name": "Crafting Motif 132: Stirk Fellowship Gloves",
-  "description": "Use to learn how to make Stirk Fellowship Gloves. Also teaches the equivalent Stirk Fellowship Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    212091
-  ]
-}
+{"internalId":3290638754,"name":"Crafting Motif 132: Stirk Fellowship Gloves","description":"Use to learn how to make Stirk Fellowship Gloves. Also teaches the equivalent Stirk Fellowship Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[212091]}

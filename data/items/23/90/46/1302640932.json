@@ -1,10 +1,1 @@
-{
-  "internalId": 1302640932,
-  "name": "Vanus's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135694
-  ]
-}
+{"internalId":1302640932,"name":"Vanus's Epaulets","description":"","icon":"data/images/a_/sr/ed/gear_psijicorder_light_shoulders_a.png","bindType":2,"knownIds":[135694]}

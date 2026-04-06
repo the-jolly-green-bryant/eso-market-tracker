@@ -1,10 +1,1 @@
-{
-  "internalId": 1202439237,
-  "name": "Thief-Lord's Slippers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    607479
-  ]
-}
+{"internalId":1202439237,"name":"Thief-Lord's Slippers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_feet_d.png","bindType":-1,"knownIds":[607479]}

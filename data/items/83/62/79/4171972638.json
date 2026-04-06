@@ -1,10 +1,1 @@
-{
-  "internalId": 4171972638,
-  "name": "Way of the Arena Light Armor",
-  "description": "A Crafted Armor set constructed in Craglorn.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182670
-  ]
-}
+{"internalId":4171972638,"name":"Way of the Arena Light Armor","description":"A Crafted Armor set constructed in Craglorn.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182670]}

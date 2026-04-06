@@ -1,10 +1,1 @@
-{
-  "internalId": 242140266,
-  "name": "Daring Corsair's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155745
-  ]
-}
+{"internalId":242140266,"name":"Daring Corsair's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[155745]}

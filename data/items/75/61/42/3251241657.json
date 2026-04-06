@@ -1,10 +1,1 @@
-{
-  "internalId": 3251241657,
-  "name": "Deadlands Rug",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedrughi002.png",
-  "bindType": -1,
-  "knownIds": [
-    182263
-  ]
-}
+{"internalId":3251241657,"name":"Deadlands Rug","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedrughi002.png","bindType":-1,"knownIds":[182263]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 171391723,
-  "name": "Pillow of Sweet Dreams",
-  "description": "All who rest their brow upon this pillow are overcome with euphoric dreams. As addictive as it is deadly, for many never awake from their saccharine slumber. Bring this to the Vault of Moawita in Summerset.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_pillow001.png",
-  "bindType": 3,
-  "knownIds": [
-    133617
-  ]
-}
+{"internalId":171391723,"name":"Pillow of Sweet Dreams","description":"All who rest their brow upon this pillow are overcome with euphoric dreams. As addictive as it is deadly, for many never awake from their saccharine slumber. Bring this to the Vault of Moawita in Summerset.","icon":"data/images/10/0w/ol/housing_dun_fur_pillow001.png","bindType":3,"knownIds":[133617]}

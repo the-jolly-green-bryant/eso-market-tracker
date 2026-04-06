@@ -1,10 +1,1 @@
-{
-  "internalId": 2891596206,
-  "name": "Orcish Throne, Skull",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgthrone001.png",
-  "bindType": -1,
-  "knownIds": [
-    116472
-  ]
-}
+{"internalId":2891596206,"name":"Orcish Throne, Skull","description":"This is a standard house item.","icon":"data/images/10/0e/no/housing_orc_fur_wtgthrone001.png","bindType":-1,"knownIds":[116472]}

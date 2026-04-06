@@ -1,10 +1,1 @@
-{
-  "internalId": 2919320410,
-  "name": "Rough Box, Boarded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varcargocratesm002.png",
-  "bindType": -1,
-  "knownIds": [
-    117956
-  ]
-}
+{"internalId":2919320410,"name":"Rough Box, Boarded","description":"This is a standard house item.","icon":"data/images/20/0m/se/housing_red_exc_varcargocratesm002.png","bindType":-1,"knownIds":[117956]}

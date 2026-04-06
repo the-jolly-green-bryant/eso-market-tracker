@@ -1,10 +1,1 @@
-{
-  "internalId": 2344387352,
-  "name": "Recipe: Melon-Radish Salad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45641
-  ]
-}
+{"internalId":2344387352,"name":"Recipe: Melon-Radish Salad","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45641]}

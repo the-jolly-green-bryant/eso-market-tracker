@@ -1,10 +1,1 @@
-{
-  "internalId": 343267192,
-  "name": "Forest Study Painting, Unfinished",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwoodunfinished007.png",
-  "bindType": -1,
-  "knownIds": [
-    214372
-  ]
-}
+{"internalId":343267192,"name":"Forest Study Painting, Unfinished","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwoodunfinished007.png","bindType":-1,"knownIds":[214372]}

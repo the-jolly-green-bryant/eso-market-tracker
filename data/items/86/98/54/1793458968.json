@@ -1,13 +1,1 @@
-{
-  "internalId": 1793458968,
-  "name": "Perfected Dagger of Kyne's Wind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_dagger.png",
-  "bindType": -1,
-  "knownIds": [
-    1391460,
-    1777308,
-    1391460,
-    1777308
-  ]
-}
+{"internalId":1793458968,"name":"Perfected Dagger of Kyne's Wind","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_dagger.png","bindType":-1,"knownIds":[1391460,1777308,1391460,1777308]}

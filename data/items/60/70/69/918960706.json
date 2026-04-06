@@ -1,10 +1,1 @@
-{
-  "internalId": 918960706,
-  "name": "Boots of Unfathomable Darkness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133195
-  ]
-}
+{"internalId":918960706,"name":"Boots of Unfathomable Darkness","description":"","icon":"data/images/a_/te/ef/gear_nocturnal_medium_feet_a.png","bindType":2,"knownIds":[133195]}

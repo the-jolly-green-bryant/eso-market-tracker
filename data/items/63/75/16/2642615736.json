@@ -1,10 +1,1 @@
-{
-  "internalId": 2642615736,
-  "name": "Tree, Tiered White Cherry",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_auridonbonsai009.png",
-  "bindType": -1,
-  "knownIds": [
-    120666
-  ]
-}
+{"internalId":2642615736,"name":"Tree, Tiered White Cherry","description":"This is a huge house item.","icon":"data/images/90/0i/as/housing_tre_fan_auridonbonsai009.png","bindType":-1,"knownIds":[120666]}

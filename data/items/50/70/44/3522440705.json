@@ -1,10 +1,1 @@
-{
-  "internalId": 3522440705,
-  "name": "Cerulean Fountain Spout",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_043.png",
-  "bindType": -1,
-  "knownIds": [
-    1210666
-  ]
-}
+{"internalId":3522440705,"name":"Cerulean Fountain Spout","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_043.png","bindType":-1,"knownIds":[1210666]}

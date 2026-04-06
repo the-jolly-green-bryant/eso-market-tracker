@@ -1,17 +1,1 @@
-{
-  "internalId": 2580799926,
-  "name": "Boon of the Three Sisters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    582486,
-    452889,
-    374024,
-    792156,
-    582486,
-    452889,
-    374024,
-    792156
-  ]
-}
+{"internalId":2580799926,"name":"Boon of the Three Sisters","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_head_a.png","bindType":-1,"knownIds":[582486,452889,374024,792156,582486,452889,374024,792156]}

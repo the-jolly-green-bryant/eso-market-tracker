@@ -1,10 +1,1 @@
-{
-  "internalId": 1085143757,
-  "name": "Attunable Blacksmithing Station",
-  "description": "Use when at an Item Set Crafting Station to create a blacksmithing station for that item set.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_portableblacksmith001.png",
-  "bindType": -1,
-  "knownIds": [
-    119594
-  ]
-}
+{"internalId":1085143757,"name":"Attunable Blacksmithing Station","description":"Use when at an Item Set Crafting Station to create a blacksmithing station for that item set.","icon":"data/images/10/0h/ti/housing_gen_crf_portableblacksmith001.png","bindType":-1,"knownIds":[119594]}

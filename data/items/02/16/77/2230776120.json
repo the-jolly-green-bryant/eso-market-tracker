@@ -1,10 +1,1 @@
-{
-  "internalId": 2230776120,
-  "name": "Painting of Cottage, Refined",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_plain004.png",
-  "bindType": -1,
-  "knownIds": [
-    118141
-  ]
-}
+{"internalId":2230776120,"name":"Painting of Cottage, Refined","description":"This is a standard house item.","icon":"data/images/40/0n/ia/housing_bre_inc_painting_plain004.png","bindType":-1,"knownIds":[118141]}

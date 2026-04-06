@@ -1,10 +1,1 @@
-{
-  "internalId": 783013493,
-  "name": "Falkwind's Shadewrap",
-  "description": "This chestpiece was hand-made by the finest leatherworkers of Sentinel.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7416
-  ]
-}
+{"internalId":783013493,"name":"Falkwind's Shadewrap","description":"This chestpiece was hand-made by the finest leatherworkers of Sentinel.","icon":"data/images/d_/ts/eh/gear_redguard_medium_chest_d.png","bindType":2,"knownIds":[7416]}

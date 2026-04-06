@@ -1,10 +1,1 @@
-{
-  "internalId": 3345435064,
-  "name": "Maple Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    223654
-  ]
-}
+{"internalId":3345435064,"name":"Maple Restoration Staff","description":"","icon":"data/images/a_/ff/at/gear_ancient_elf_staff_a.png","bindType":-1,"knownIds":[139010]}

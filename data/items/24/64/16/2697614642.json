@@ -1,10 +1,1 @@
-{
-  "internalId": 2697614642,
-  "name": "Twenty-Four-Raven Pie Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    502355
-  ]
-}
+{"internalId":2697614642,"name":"Twenty-Four-Raven Pie Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[502355]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3199089574,
-  "name": "Silken Dueling Towel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    624493
-  ]
-}
+{"internalId":3199089574,"name":"Silken Dueling Towel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[624493]}

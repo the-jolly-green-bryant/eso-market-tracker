@@ -1,10 +1,1 @@
-{
-  "internalId": 3390290215,
-  "name": "Redguard Bottle, Stained Glass",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_glassbottle002.png",
-  "bindType": -1,
-  "knownIds": [
-    117852
-  ]
-}
+{"internalId":3390290215,"name":"Redguard Bottle, Stained Glass","description":"This is a standard house item.","icon":"data/images/20/0e/lt/housing_red_inc_glassbottle002.png","bindType":-1,"knownIds":[117852]}

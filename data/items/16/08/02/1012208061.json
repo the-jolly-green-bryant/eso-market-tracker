@@ -1,10 +1,1 @@
-{
-  "internalId": 1012208061,
-  "name": "White Meat",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_dom_animal_fat.png",
-  "bindType": -1,
-  "knownIds": [
-    33754
-  ]
-}
+{"internalId":1012208061,"name":"White Meat","description":"An ingredient for crafting food.","icon":"data/images/ta/f_/la/crafting_critter_dom_animal_fat.png","bindType":-1,"knownIds":[33754]}

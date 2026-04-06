@@ -1,10 +1,1 @@
-{
-  "internalId": 3935832445,
-  "name": "Bloody War Boots",
-  "description": "Stained up to the ankles, these boots have seen more than their share of battle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10910
-  ]
-}
+{"internalId":3935832445,"name":"Bloody War Boots","description":"Stained up to the ankles, these boots have seen more than their share of battle.","icon":"data/images/d_/te/ef/gear_orc_heavy_feet_d.png","bindType":2,"knownIds":[10910]}

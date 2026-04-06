@@ -1,10 +1,1 @@
-{
-  "internalId": 4263875556,
-  "name": "Jewelry: Steadfast Hero",
-  "description": "A Heavy Armor set found in Rewards for the Worthy mails.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    146033
-  ]
-}
+{"internalId":4263875556,"name":"Jewelry: Steadfast Hero","description":"A Heavy Armor set found in Rewards for the Worthy mails.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[146033]}

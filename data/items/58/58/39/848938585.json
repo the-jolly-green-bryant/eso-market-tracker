@@ -1,10 +1,1 @@
-{
-  "internalId": 848938585,
-  "name": "Companion's Maul",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_maul.png",
-  "bindType": 2,
-  "knownIds": [
-    177215
-  ]
-}
+{"internalId":848938585,"name":"Companion's Maul","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_maul.png","bindType":2,"knownIds":[177215]}

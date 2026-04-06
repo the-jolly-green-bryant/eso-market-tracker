@@ -1,10 +1,1 @@
-{
-  "internalId": 3459633458,
-  "name": "Blueprint: Solitude Pew, Ornate Long",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166816
-  ]
-}
+{"internalId":3459633458,"name":"Blueprint: Solitude Pew, Ornate Long","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166816]}

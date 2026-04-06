@@ -1,10 +1,1 @@
-{
-  "internalId": 3560912483,
-  "name": "Siegemaster's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    210844
-  ]
-}
+{"internalId":3560912483,"name":"Siegemaster's Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[210844]}

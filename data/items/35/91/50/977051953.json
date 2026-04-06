@@ -1,10 +1,1 @@
-{
-  "internalId": 977051953,
-  "name": "Preservation Bag",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_waterskin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1194757
-  ]
-}
+{"internalId":977051953,"name":"Preservation Bag","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_waterskin_001.png","bindType":-1,"knownIds":[1194757]}

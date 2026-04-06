@@ -1,10 +1,1 @@
-{
-  "internalId": 944920575,
-  "name": "Stale Rabbit Millet Pilaf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37888
-  ]
-}
+{"internalId":944920575,"name":"Stale Rabbit Millet Pilaf","description":"","icon":"data/images/20/0_/te/crafting_skillet_002.png","bindType":-1,"knownIds":[37888]}

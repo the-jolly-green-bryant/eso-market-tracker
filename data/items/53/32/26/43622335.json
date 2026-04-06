@@ -1,10 +1,1 @@
-{
-  "internalId": 43622335,
-  "name": "Daedric Statue, Mephala",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_mephallabust001.png",
-  "bindType": -1,
-  "knownIds": [
-    187789
-  ]
-}
+{"internalId":43622335,"name":"Daedric Statue, Mephala","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_mephallabust001.png","bindType":-1,"knownIds":[187789]}

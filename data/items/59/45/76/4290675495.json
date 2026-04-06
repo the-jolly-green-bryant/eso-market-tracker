@@ -1,10 +1,1 @@
-{
-  "internalId": 4290675495,
-  "name": "Argonian Tablet, Vos-Toh of Song",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_vostohsithiscrests002.png",
-  "bindType": -1,
-  "knownIds": [
-    220339
-  ]
-}
+{"internalId":4290675495,"name":"Argonian Tablet, Vos-Toh of Song","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_inc_vostohsithiscrests002.png","bindType":-1,"knownIds":[220339]}

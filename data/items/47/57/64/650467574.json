@@ -1,10 +1,1 @@
-{
-  "internalId": 650467574,
-  "name": "Aviel-Fold Envelopes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240830
-  ]
-}
+{"internalId":650467574,"name":"Aviel-Fold Envelopes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[1240830]}

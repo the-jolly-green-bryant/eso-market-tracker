@@ -1,10 +1,1 @@
-{
-  "internalId": 3486430637,
-  "name": "Totem of Y'ffre",
-  "description": "Saving the Oathbreakers from the Worm Cult reaps a wondrous reward.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    15542
-  ]
-}
+{"internalId":3486430637,"name":"Totem of Y'ffre","description":"Saving the Oathbreakers from the Worm Cult reaps a wondrous reward.","icon":"data/images/a_/kc/en/gear_argonian_neck_a.png","bindType":2,"knownIds":[15542]}

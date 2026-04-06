@@ -1,10 +1,1 @@
-{
-  "internalId": 3881201045,
-  "name": "Praxis: Elsweyr Platform, Stepped",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    152113
-  ]
-}
+{"internalId":3881201045,"name":"Praxis: Elsweyr Platform, Stepped","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[152113]}

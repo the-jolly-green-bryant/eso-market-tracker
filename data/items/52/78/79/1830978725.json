@@ -1,10 +1,1 @@
-{
-  "internalId": 1830978725,
-  "name": "Crafting Motif 92: Ancestral Akaviri Shields",
-  "description": "Use to learn how to make Ancestral Akaviri Shields. Also teaches the equivalent Ancestral Akaviri Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167184
-  ]
-}
+{"internalId":1830978725,"name":"Crafting Motif 92: Ancestral Akaviri Shields","description":"Use to learn how to make Ancestral Akaviri Shields. Also teaches the equivalent Ancestral Akaviri Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167184]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4171435372,
-  "name": "Diagram: Daedric Fence, Section",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    132183
-  ]
-}
+{"internalId":4171435372,"name":"Diagram: Daedric Fence, Section","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[132183]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1087573907,
-  "name": "Blueprint: Tide-Born Duster, Wicker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    217571
-  ]
-}
+{"internalId":1087573907,"name":"Blueprint: Tide-Born Duster, Wicker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[217571]}

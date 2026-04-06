@@ -1,10 +1,1 @@
-{
-  "internalId": 2119009538,
-  "name": "Belt of the First Titan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44266
-  ]
-}
+{"internalId":2119009538,"name":"Belt of the First Titan","description":"","icon":"data/images/a_/ts/ia/gear_draugr_heavy_waist_a.png","bindType":2,"knownIds":[44266]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1237939970,
-  "name": "Dark Elf Table, Tea",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_tablernd001.png",
-  "bindType": -1,
-  "knownIds": [
-    115300
-  ]
-}
+{"internalId":1237939970,"name":"Dark Elf Table, Tea","description":"This is a standard house item.","icon":"data/images/10/0d/nr/housing_dun_fur_tablernd001.png","bindType":-1,"knownIds":[115300]}

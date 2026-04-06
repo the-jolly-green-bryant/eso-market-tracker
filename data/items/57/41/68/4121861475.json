@@ -1,10 +1,1 @@
-{
-  "internalId": 4121861475,
-  "name": "Target Skeleton, Robust Humanoid",
-  "description": "This is a standard house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to an exceptionally hardy veteran dungeon boss.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_targetdummy_robusthumanoid_01.png",
-  "bindType": -1,
-  "knownIds": [
-    121314
-  ]
-}
+{"internalId":4121861475,"name":"Target Skeleton, Robust Humanoid","description":"This is a standard house item. This may be attacked and, when destroyed, will reassemble. This construct is equivalent to an exceptionally hardy veteran dungeon boss.","icon":"data/images/10/_d/io/housing_targetdummy_robusthumanoid_01.png","bindType":-1,"knownIds":[121314]}

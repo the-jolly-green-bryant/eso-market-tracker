@@ -1,10 +1,1 @@
-{
-  "internalId": 3326675426,
-  "name": "Dark Elf Urn, Bronze Burial",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_tomburn002.png",
-  "bindType": -1,
-  "knownIds": [
-    151948
-  ]
-}
+{"internalId":3326675426,"name":"Dark Elf Urn, Bronze Burial","description":"This is a standard house item.","icon":"data/images/20/0n/ru/housing_vrd_duc_tomburn002.png","bindType":-1,"knownIds":[151948]}

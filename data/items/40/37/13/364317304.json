@@ -1,10 +1,1 @@
-{
-  "internalId": 364317304,
-  "name": "Fishing Hook",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_slaughterfish_grappel.png",
-  "bindType": -1,
-  "knownIds": [
-    846308
-  ]
-}
+{"internalId":364317304,"name":"Fishing Hook","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_slaughterfish_grappel.png","bindType":-1,"knownIds":[846308]}

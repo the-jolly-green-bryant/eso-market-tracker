@@ -1,10 +1,1 @@
-{
-  "internalId": 1431981661,
-  "name": "Errinorne Impskin Wallet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1080366
-  ]
-}
+{"internalId":1431981661,"name":"Errinorne Impskin Wallet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[1080366]}

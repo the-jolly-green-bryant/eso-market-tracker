@@ -1,10 +1,1 @@
-{
-  "internalId": 1973981203,
-  "name": "Apocrypha Book Pile, Short",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_libbookstack002.png",
-  "bindType": -1,
-  "knownIds": [
-    198427
-  ]
-}
+{"internalId":1973981203,"name":"Apocrypha Book Pile, Short","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_libbookstack002.png","bindType":-1,"knownIds":[198427]}

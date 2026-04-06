@@ -1,10 +1,1 @@
-{
-  "internalId": 3647132456,
-  "name": "Praxis: Apocrypha Dresser, Intricate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    198500
-  ]
-}
+{"internalId":3647132456,"name":"Praxis: Apocrypha Dresser, Intricate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[198500]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 558169835,
-  "name": "Ancient Nedic Prayer Wheel, Four-Faced",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cra_imc_prayerwheelpiece001.png",
-  "bindType": -1,
-  "knownIds": [
-    166006
-  ]
-}
+{"internalId":558169835,"name":"Ancient Nedic Prayer Wheel, Four-Faced","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cra_imc_prayerwheelpiece001.png","bindType":-1,"knownIds":[166006]}

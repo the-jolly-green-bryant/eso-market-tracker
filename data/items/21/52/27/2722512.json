@@ -1,10 +1,1 @@
-{
-  "internalId": 2722512,
-  "name": "The Art of Kwama Egg Cooking",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1338257
-  ]
-}
+{"internalId":2722512,"name":"The Art of Kwama Egg Cooking","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1338257]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1261502868,
-  "name": "Eyepiercer",
-  "description": "Well made for a Goblin bow, the string is made from the tendons of some unknown beast.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_bow_c.png",
-  "bindType": 2,
-  "knownIds": [
-    208155
-  ]
-}
+{"internalId":1261502868,"name":"Eyepiercer","description":"Well made for a Goblin bow, the string is made from the tendons of some unknown beast.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_primative_bow_c.png","bindType":2,"knownIds":[208155]}

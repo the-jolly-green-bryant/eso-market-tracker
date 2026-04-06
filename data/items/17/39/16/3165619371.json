@@ -1,10 +1,1 @@
-{
-  "internalId": 3165619371,
-  "name": "Blood-Encrusted Thorn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png",
-  "bindType": -1,
-  "knownIds": [
-    1366530
-  ]
-}
+{"internalId":3165619371,"name":"Blood-Encrusted Thorn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_platinum_pen_knife.png","bindType":-1,"knownIds":[1366530]}

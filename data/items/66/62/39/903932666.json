@@ -1,17 +1,1 @@
-{
-  "internalId": 903932666,
-  "name": "Perfected Peace and Serenity Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_light_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1652229,
-    1657159,
-    1659295,
-    1693417,
-    1652229,
-    1657159,
-    1659295,
-    1693417
-  ]
-}
+{"internalId":903932666,"name":"Perfected Peace and Serenity Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_light_waist_a.png","bindType":-1,"knownIds":[1652229,1657159,1659295,1693417,1652229,1657159,1659295,1693417]}

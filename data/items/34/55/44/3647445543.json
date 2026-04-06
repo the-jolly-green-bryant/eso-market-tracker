@@ -1,10 +1,1 @@
-{
-  "internalId": 3647445543,
-  "name": "Deadlands Post, Short Wall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_dedwallpost001.png",
-  "bindType": -1,
-  "knownIds": [
-    182277
-  ]
-}
+{"internalId":3647445543,"name":"Deadlands Post, Short Wall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_dedwallpost001.png","bindType":-1,"knownIds":[182277]}

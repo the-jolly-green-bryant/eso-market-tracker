@@ -1,10 +1,1 @@
-{
-  "internalId": 3186538785,
-  "name": "Crystal Mountain Range",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1386367
-  ]
-}
+{"internalId":3186538785,"name":"Crystal Mountain Range","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_painting_001.png","bindType":-1,"knownIds":[1386367]}

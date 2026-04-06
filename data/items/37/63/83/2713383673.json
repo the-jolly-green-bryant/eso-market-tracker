@@ -1,10 +1,1 @@
-{
-  "internalId": 2713383673,
-  "name": "Colovian Planter, Large",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_plantertalldirtcluster001.png",
-  "bindType": -1,
-  "knownIds": [
-    204717
-  ]
-}
+{"internalId":2713383673,"name":"Colovian Planter, Large","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_plantertalldirtcluster001.png","bindType":-1,"knownIds":[204717]}

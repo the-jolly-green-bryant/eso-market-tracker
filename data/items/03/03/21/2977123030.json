@@ -1,13 +1,1 @@
-{
-  "internalId": 2977123030,
-  "name": "Truly Superb Glyph of Health Recovery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_healthregen.png",
-  "bindType": -1,
-  "knownIds": [
-    1453665,
-    1635667,
-    1453665,
-    1635667
-  ]
-}
+{"internalId":2977123030,"name":"Truly Superb Glyph of Health Recovery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_healthregen.png","bindType":-1,"knownIds":[1453665,1635667,1453665,1635667]}

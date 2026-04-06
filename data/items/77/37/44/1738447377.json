@@ -1,10 +1,1 @@
-{
-  "internalId": 1738447377,
-  "name": "Tough Mining Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    572443
-  ]
-}
+{"internalId":1738447377,"name":"Tough Mining Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_feet_d.png","bindType":-1,"knownIds":[572443]}

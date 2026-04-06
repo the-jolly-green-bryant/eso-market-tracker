@@ -1,10 +1,1 @@
-{
-  "internalId": 2352660598,
-  "name": "Reachmen Pergola, Ivy Overhang",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_ext_rchfortoverhang002.png",
-  "bindType": -1,
-  "knownIds": [
-    171382
-  ]
-}
+{"internalId":2352660598,"name":"Reachmen Pergola, Ivy Overhang","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_ext_rchfortoverhang002.png","bindType":-1,"knownIds":[171382]}

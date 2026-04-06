@@ -1,10 +1,1 @@
-{
-  "internalId": 279122414,
-  "name": "Perfected Vrol's Command",
-  "description": "A Heavy Armor set found in Kyne's Aegis.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    162914
-  ]
-}
+{"internalId":279122414,"name":"Perfected Vrol's Command","description":"A Heavy Armor set found in Kyne's Aegis.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[162914]}

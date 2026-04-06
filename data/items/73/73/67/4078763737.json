@@ -1,10 +1,1 @@
-{
-  "internalId": 4078763737,
-  "name": "Brass Candlestick Holder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851522
-  ]
-}
+{"internalId":4078763737,"name":"Brass Candlestick Holder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[851522]}

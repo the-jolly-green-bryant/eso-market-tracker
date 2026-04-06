@@ -1,10 +1,1 @@
-{
-  "internalId": 509914764,
-  "name": "Orcish Bench, Cabled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgbench001.png",
-  "bindType": -1,
-  "knownIds": [
-    116359
-  ]
-}
+{"internalId":509914764,"name":"Orcish Bench, Cabled","description":"This is a standard house item.","icon":"data/images/10/0h/cn/housing_orc_fur_wtgbench001.png","bindType":-1,"knownIds":[116359]}

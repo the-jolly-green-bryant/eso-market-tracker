@@ -1,10 +1,1 @@
-{
-  "internalId": 1279331633,
-  "name": "High Elf Medallion, Winged",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_str_wallsealsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    114414
-  ]
-}
+{"internalId":1279331633,"name":"High Elf Medallion, Winged","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_alt_str_wallsealsmall001.png","bindType":-1,"knownIds":[114414]}

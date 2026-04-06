@@ -1,10 +1,1 @@
-{
-  "internalId": 1553598567,
-  "name": "Unchained Aggressor's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159034
-  ]
-}
+{"internalId":1553598567,"name":"Unchained Aggressor's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[159034]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3620711498,
-  "name": "Alinor Bed, Overhang Full",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_bed005.png",
-  "bindType": -1,
-  "knownIds": [
-    139215
-  ]
-}
+{"internalId":3620711498,"name":"Alinor Bed, Overhang Full","description":"This is a standard house item.","icon":"data/images/50/0d/eb/housing_sum_fur_bed005.png","bindType":-1,"knownIds":[139215]}

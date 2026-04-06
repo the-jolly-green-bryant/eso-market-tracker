@@ -1,10 +1,1 @@
-{
-  "internalId": 1988561972,
-  "name": "Rocks, Swampy Slab",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_mos_tancluslgt005.png",
-  "bindType": -1,
-  "knownIds": [
-    130307
-  ]
-}
+{"internalId":1988561972,"name":"Rocks, Swampy Slab","description":"This is a large house item.","icon":"data/images/50/0t/gl/housing_rok_mos_tancluslgt005.png","bindType":-1,"knownIds":[130307]}

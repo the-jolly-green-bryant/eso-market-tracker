@@ -1,10 +1,1 @@
-{
-  "internalId": 3886789897,
-  "name": "Aldmeri Ceremonial Saber",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_sword_002.png",
-  "bindType": -1,
-  "knownIds": [
-    791891
-  ]
-}
+{"internalId":3886789897,"name":"Aldmeri Ceremonial Saber","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_sword_002.png","bindType":-1,"knownIds":[791891]}

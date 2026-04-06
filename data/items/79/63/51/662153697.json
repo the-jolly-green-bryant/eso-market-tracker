@@ -1,10 +1,1 @@
-{
-  "internalId": 662153697,
-  "name": "Ashes of Remorse",
-  "description": "Ten of these items can be refined into Charcoal of Remorse, which is used to make Xivkyn equipment.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_smith_potion_002.png",
-  "bindType": -1,
-  "knownIds": [
-    59923
-  ]
-}
+{"internalId":662153697,"name":"Ashes of Remorse","description":"Ten of these items can be refined into Charcoal of Remorse, which is used to make Xivkyn equipment.","icon":"data/images/20/0_/no/crafting_smith_potion_002.png","bindType":-1,"knownIds":[59923]}

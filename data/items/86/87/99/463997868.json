@@ -1,10 +1,1 @@
-{
-  "internalId": 463997868,
-  "name": "Zariya's Sorrow",
-  "description": "This small token was all Zariya's husband had to give after you consecrated her remains.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    7525
-  ]
-}
+{"internalId":463997868,"name":"Zariya's Sorrow","description":"This small token was all Zariya's husband had to give after you consecrated her remains.","icon":"data/images/a_/gn/ir/gear_redguard_ring_a.png","bindType":2,"knownIds":[7525]}

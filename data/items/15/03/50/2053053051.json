@@ -1,10 +1,1 @@
-{
-  "internalId": 2053053051,
-  "name": "Praxis: Solitude Platform, Ornate Tile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    167370
-  ]
-}
+{"internalId":2053053051,"name":"Praxis: Solitude Platform, Ornate Tile","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[167370]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1656448417,
-  "name": "Stone-Nest Floor, Temple Tile",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_housingargceilingfloorcombo001.png",
-  "bindType": -1,
-  "knownIds": [
-    223826
-  ]
-}
+{"internalId":1656448417,"name":"Stone-Nest Floor, Temple Tile","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_duc_housingargceilingfloorcombo001.png","bindType":-1,"knownIds":[223826]}

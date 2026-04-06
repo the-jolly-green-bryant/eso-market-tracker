@@ -1,10 +1,1 @@
-{
-  "internalId": 3906268778,
-  "name": "Amethyst Crystals, Small Purple Patch",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_amethyst004.png",
-  "bindType": -1,
-  "knownIds": [
-    220346
-  ]
-}
+{"internalId":3906268778,"name":"Amethyst Crystals, Small Purple Patch","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_amethyst004.png","bindType":-1,"knownIds":[220346]}

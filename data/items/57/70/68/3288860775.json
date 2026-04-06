@@ -1,10 +1,1 @@
-{
-  "internalId": 3288860775,
-  "name": "Stone-Nest Fountain, Four Headed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_argwellspringfountain001.png",
-  "bindType": -1,
-  "knownIds": [
-    223855
-  ]
-}
+{"internalId":3288860775,"name":"Stone-Nest Fountain, Four Headed","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_argwellspringfountain001.png","bindType":-1,"knownIds":[223855]}

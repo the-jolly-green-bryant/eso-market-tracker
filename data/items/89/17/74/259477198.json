@@ -1,10 +1,1 @@
-{
-  "internalId": 259477198,
-  "name": "Girdle of Inguya",
-  "description": "This Vampiric armor was your reward for finding and returning mining samples.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexhvy_waist.png",
-  "bindType": 2,
-  "knownIds": [
-    159710
-  ]
-}
+{"internalId":259477198,"name":"Girdle of Inguya","description":"This Vampiric armor was your reward for finding and returning mining samples.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexhvy_waist.png","bindType":2,"knownIds":[159710]}

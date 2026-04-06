@@ -1,10 +1,1 @@
-{
-  "internalId": 3853591838,
-  "name": "Vanguard's Challenge Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123327
-  ]
-}
+{"internalId":3853591838,"name":"Vanguard's Challenge Girdle","description":"","icon":"data/images/a_/ts/ia/gear_ordinator_heavy_waist_a.png","bindType":2,"knownIds":[123327]}

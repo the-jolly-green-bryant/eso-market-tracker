@@ -1,10 +1,1 @@
-{
-  "internalId": 4040390544,
-  "name": "Orcish Bookshelf, Engraved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgbookshelf002.png",
-  "bindType": -1,
-  "knownIds": [
-    1093460
-  ]
-}
+{"internalId":4040390544,"name":"Orcish Bookshelf, Engraved","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgbookshelf002.png","bindType":-1,"knownIds":[1093460]}

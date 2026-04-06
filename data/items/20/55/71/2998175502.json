@@ -1,10 +1,1 @@
-{
-  "internalId": 2998175502,
-  "name": "Alessian Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_chest_c.png",
-  "bindType": 2,
-  "knownIds": [
-    43825
-  ]
-}
+{"internalId":2998175502,"name":"Alessian Jack","description":"","icon":"data/images/c_/ts/eh/gear_nord_medium_chest_c.png","bindType":2,"knownIds":[43825]}

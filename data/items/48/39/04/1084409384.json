@@ -1,13 +1,1 @@
-{
-  "internalId": 1084409384,
-  "name": "Monolith of Storms Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_axe.png",
-  "bindType": -1,
-  "knownIds": [
-    1679857,
-    1718210,
-    1679857,
-    1718210
-  ]
-}
+{"internalId":1084409384,"name":"Monolith of Storms Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_axe.png","bindType":-1,"knownIds":[1679857,1718210,1679857,1718210]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2326534688,
-  "name": "Breton Cabinet, Knotwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_chinacabinet001.png",
-  "bindType": -1,
-  "knownIds": [
-    115217
-  ]
-}
+{"internalId":2326534688,"name":"Breton Cabinet, Knotwork","description":"This is a standard house item.","icon":"data/images/10/0t/en/housing_bre_fur_chinacabinet001.png","bindType":-1,"knownIds":[115217]}

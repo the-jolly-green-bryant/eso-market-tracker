@@ -1,11 +1,1 @@
-{
-  "internalId": 4223808046,
-  "name": "Gold Tassels",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png",
-  "bindType": -1,
-  "knownIds": [
-    405832,
-    405832
-  ]
-}
+{"internalId":4223808046,"name":"Gold Tassels","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_hair_001.png","bindType":-1,"knownIds":[405832,405832]}

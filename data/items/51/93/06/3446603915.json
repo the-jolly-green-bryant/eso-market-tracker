@@ -1,10 +1,1 @@
-{
-  "internalId": 3446603915,
-  "name": "Craglorn Ash Tree",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_craglorngreen002.png",
-  "bindType": -1,
-  "knownIds": [
-    119568
-  ]
-}
+{"internalId":3446603915,"name":"Craglorn Ash Tree","description":"This is a large house item.","icon":"data/images/20/0n/ee/housing_tre_dec_craglorngreen002.png","bindType":-1,"knownIds":[119568]}

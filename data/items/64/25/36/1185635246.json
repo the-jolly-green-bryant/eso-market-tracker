@@ -1,10 +1,1 @@
-{
-  "internalId": 1185635246,
-  "name": "Formula: Dwarven Lamppost, Powered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    126896
-  ]
-}
+{"internalId":1185635246,"name":"Formula: Dwarven Lamppost, Powered","description":"","icon":"data/images/4y/me/hc/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[126896]}

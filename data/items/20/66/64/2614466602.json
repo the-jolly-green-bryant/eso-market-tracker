@@ -1,10 +1,1 @@
-{
-  "internalId": 2614466602,
-  "name": "Cuirass of Torug's Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    68349
-  ]
-}
+{"internalId":2614466602,"name":"Cuirass of Torug's Pact","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[68349]}

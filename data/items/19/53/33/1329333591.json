@@ -1,17 +1,1 @@
-{
-  "internalId": 1329333591,
-  "name": "Mace of Phylactery's Grasp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_1hhamer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1600766,
-    1610538,
-    1739659,
-    1764764,
-    1600766,
-    1610538,
-    1739659,
-    1764764
-  ]
-}
+{"internalId":1329333591,"name":"Mace of Phylactery's Grasp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shipwreck_1hhamer_a.png","bindType":-1,"knownIds":[1600766,1610538,1739659,1764764,1600766,1610538,1739659,1764764]}

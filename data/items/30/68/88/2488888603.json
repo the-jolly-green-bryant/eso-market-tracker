@@ -1,10 +1,1 @@
-{
-  "internalId": 2488888603,
-  "name": "Shrub, Delicate Forest",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_gccaperbush002.png",
-  "bindType": -1,
-  "knownIds": [
-    121034
-  ]
-}
+{"internalId":2488888603,"name":"Shrub, Delicate Forest","description":"This is a small house item.","icon":"data/images/20/0h/su/housing_veg_bsh_gccaperbush002.png","bindType":-1,"knownIds":[121034]}

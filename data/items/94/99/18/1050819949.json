@@ -1,10 +1,1 @@
-{
-  "internalId": 1050819949,
-  "name": "Orc Fountain, Wall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_housingdungeonfountain002.png",
-  "bindType": -1,
-  "knownIds": [
-    211569
-  ]
-}
+{"internalId":1050819949,"name":"Orc Fountain, Wall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_housingdungeonfountain002.png","bindType":-1,"knownIds":[211569]}

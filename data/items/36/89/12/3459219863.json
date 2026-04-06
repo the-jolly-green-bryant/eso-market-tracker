@@ -1,10 +1,1 @@
-{
-  "internalId": 3459219863,
-  "name": "Raw Kreshweed",
-  "description": "Ten of these items can be refined to make kresh fiber.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_raw_famin.png",
-  "bindType": -1,
-  "knownIds": [
-    33217
-  ]
-}
+{"internalId":3459219863,"name":"Raw Kreshweed","description":"Ten of these items can be refined to make kresh fiber.","icon":"data/images/ni/ma/f_/crafting_flower_raw_famin.png","bindType":-1,"knownIds":[33217]}

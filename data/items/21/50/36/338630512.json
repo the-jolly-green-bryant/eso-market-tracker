@@ -1,10 +1,1 @@
-{
-  "internalId": 338630512,
-  "name": "Design: Khajiit Vial, Amber",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    116137
-  ]
-}
+{"internalId":338630512,"name":"Design: Khajiit Vial, Amber","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[116137]}

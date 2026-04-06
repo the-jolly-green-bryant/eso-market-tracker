@@ -1,10 +1,1 @@
-{
-  "internalId": 2167913793,
-  "name": "Cuirass of the Dreugh King Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    81005
-  ]
-}
+{"internalId":2167913793,"name":"Cuirass of the Dreugh King Slayer","description":"","icon":"data/images/d_/ts/eh/gear_dunmer_heavy_chest_d.png","bindType":2,"knownIds":[81005]}

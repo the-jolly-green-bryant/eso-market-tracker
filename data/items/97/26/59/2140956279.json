@@ -1,10 +1,1 @@
-{
-  "internalId": 2140956279,
-  "name": "Venomous Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161000
-  ]
-}
+{"internalId":2140956279,"name":"Venomous Guards","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_greyhostmed_legs_a.png","bindType":2,"knownIds":[161000]}

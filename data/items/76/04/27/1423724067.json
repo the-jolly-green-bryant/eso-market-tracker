@@ -1,10 +1,1 @@
-{
-  "internalId": 1423724067,
-  "name": "Recondite Sash",
-  "description": "This sash once belonged to Miranda Arcole. You earned it by uncovering her husband's plot to kill her and take her family's treasure.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    27197
-  ]
-}
+{"internalId":1423724067,"name":"Recondite Sash","description":"This sash once belonged to Miranda Arcole. You earned it by uncovering her husband's plot to kill her and take her family's treasure.","icon":"data/images/d_/ts/ia/gear_breton_light_waist_d.png","bindType":2,"knownIds":[27197]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2920737255,
-  "name": "Vanus's Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135688
-  ]
-}
+{"internalId":2920737255,"name":"Vanus's Robe","description":"","icon":"data/images/a_/eb/or/gear_psijicorder_light_robe_a.png","bindType":2,"knownIds":[135688]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3788184206,
-  "name": "Wax-Sealed Heavy Sack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_wax_sealed_heavy_sack.png",
-  "bindType": -1,
-  "knownIds": [
-    1318021
-  ]
-}
+{"internalId":3788184206,"name":"Wax-Sealed Heavy Sack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_wax_sealed_heavy_sack.png","bindType":-1,"knownIds":[1318021]}

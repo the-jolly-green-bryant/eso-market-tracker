@@ -1,10 +1,1 @@
-{
-  "internalId": 2172638942,
-  "name": "Stash of Surprising Skill Styles",
-  "description": "An elaborate chest containing many collectible Skill Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_chest001.png",
-  "bindType": 3,
-  "knownIds": [
-    207987
-  ]
-}
+{"internalId":2172638942,"name":"Stash of Surprising Skill Styles","description":"An elaborate chest containing many collectible Skill Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_chest001.png","bindType":3,"knownIds":[207987]}

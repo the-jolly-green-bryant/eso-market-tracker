@@ -1,10 +1,1 @@
-{
-  "internalId": 2147252533,
-  "name": "Blueprint: Dark Elf Sofa, Angled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    116057
-  ]
-}
+{"internalId":2147252533,"name":"Blueprint: Dark Elf Sofa, Angled","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[116057]}

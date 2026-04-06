@@ -1,10 +1,1 @@
-{
-  "internalId": 3955093328,
-  "name": "Solitude Bookcase, Narrow Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bookshelffancy002.png",
-  "bindType": -1,
-  "knownIds": [
-    165727
-  ]
-}
+{"internalId":3955093328,"name":"Solitude Bookcase, Narrow Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_bookshelffancy002.png","bindType":-1,"knownIds":[165727]}

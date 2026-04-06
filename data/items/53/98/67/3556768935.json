@@ -1,10 +1,1 @@
-{
-  "internalId": 3556768935,
-  "name": "Malacath's Final Word",
-  "description": "The Agra Crun rewarded you with this brutal weapon for preserving Malacath's sacred words at Fharun Stronghold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    70985
-  ]
-}
+{"internalId":3556768935,"name":"Malacath's Final Word","description":"The Agra Crun rewarded you with this brutal weapon for preserving Malacath's sacred words at Fharun Stronghold.","icon":"data/images/a_/re/mm/gear_malacath_1hhammer_a.png","bindType":2,"knownIds":[70985]}

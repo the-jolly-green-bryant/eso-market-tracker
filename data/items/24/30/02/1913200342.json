@@ -1,10 +1,1 @@
-{
-  "internalId": 1913200342,
-  "name": "Etched Iron Tenderizer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_007.png",
-  "bindType": -1,
-  "knownIds": [
-    886644
-  ]
-}
+{"internalId":1913200342,"name":"Etched Iron Tenderizer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_007.png","bindType":-1,"knownIds":[886644]}

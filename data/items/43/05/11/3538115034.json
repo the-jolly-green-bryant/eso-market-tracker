@@ -1,13 +1,1 @@
-{
-  "internalId": 3538115034,
-  "name": "Necklace of the Scathing Mage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1069354,
-    1194928,
-    1489648,
-    1517142
-  ]
-}
+{"internalId":3538115034,"name":"Necklace of the Scathing Mage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1069354,1194928,1489648,1517142]}

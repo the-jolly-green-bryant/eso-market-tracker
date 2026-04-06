@@ -1,15 +1,1 @@
-{
-  "internalId": 3886068594,
-  "name": "Lucent Echoes Perfected Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_shield_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1719494,
-    1744444,
-    1760332,
-    1719494,
-    1744444,
-    1760332
-  ]
-}
+{"internalId":3886068594,"name":"Lucent Echoes Perfected Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_shield_a.png","bindType":-1,"knownIds":[1719494,1744444,1760332,1719494,1744444,1760332]}

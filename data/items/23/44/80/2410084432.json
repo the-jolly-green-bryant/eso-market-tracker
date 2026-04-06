@@ -1,10 +1,1 @@
-{
-  "internalId": 2410084432,
-  "name": "Thulvald's Ebony Log Splitter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_coldharbour_triangle_puzzle_key.png",
-  "bindType": -1,
-  "knownIds": [
-    782686
-  ]
-}
+{"internalId":2410084432,"name":"Thulvald's Ebony Log Splitter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_coldharbour_triangle_puzzle_key.png","bindType":-1,"knownIds":[782686]}

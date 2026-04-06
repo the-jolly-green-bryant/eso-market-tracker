@@ -1,17 +1,1 @@
-{
-  "internalId": 3405763612,
-  "name": "Perfected Mace of Kyne's Wind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_mace.png",
-  "bindType": -1,
-  "knownIds": [
-    1391472,
-    1626575,
-    1697974,
-    1770346,
-    1391472,
-    1626575,
-    1697974,
-    1770346
-  ]
-}
+{"internalId":3405763612,"name":"Perfected Mace of Kyne's Wind","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_seagiant_mace.png","bindType":-1,"knownIds":[1391472,1626575,1697974,1770346,1391472,1626575,1697974,1770346]}

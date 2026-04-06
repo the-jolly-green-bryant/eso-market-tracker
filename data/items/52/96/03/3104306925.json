@@ -1,10 +1,1 @@
-{
-  "internalId": 3104306925,
-  "name": "Undaunted Box: Veteran Stone Garden",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    190241
-  ]
-}
+{"internalId":3104306925,"name":"Undaunted Box: Veteran Stone Garden","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[190241]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3223428741,
-  "name": "Provisioning Station, Solitude Grill",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_firepit002.png",
-  "bindType": -1,
-  "knownIds": [
-    171409
-  ]
-}
+{"internalId":3223428741,"name":"Provisioning Station, Solitude Grill","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_firepit002.png","bindType":-1,"knownIds":[171409]}

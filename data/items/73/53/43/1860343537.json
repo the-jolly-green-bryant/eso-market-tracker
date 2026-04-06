@@ -1,10 +1,1 @@
-{
-  "internalId": 1860343537,
-  "name": "Might of the Lost Legion Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143883
-  ]
-}
+{"internalId":1860343537,"name":"Might of the Lost Legion Greaves","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[143883]}

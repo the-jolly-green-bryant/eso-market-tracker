@@ -1,10 +1,1 @@
-{
-  "internalId": 1052211628,
-  "name": "Sandstorm Mask",
-  "description": "Without suitable protection, even the strongest adventurers can succumb to the raking winds of an Anequina sandstorm.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_anequina_light_helmet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    150406
-  ]
-}
+{"internalId":1052211628,"name":"Sandstorm Mask","description":"Without suitable protection, even the strongest adventurers can succumb to the raking winds of an Anequina sandstorm.","icon":"data/images/a_/te/ml/gear_anequina_light_helmet_a.png","bindType":2,"knownIds":[150406]}

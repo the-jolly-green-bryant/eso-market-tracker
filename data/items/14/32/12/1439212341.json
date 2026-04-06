@@ -1,10 +1,1 @@
-{
-  "internalId": 1439212341,
-  "name": "Carpet Roll, Floral",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketrug003.png",
-  "bindType": -1,
-  "knownIds": [
-    118153
-  ]
-}
+{"internalId":1439212341,"name":"Carpet Roll, Floral","description":"This is a standard house item.","icon":"data/images/30/0g/ur/housing_red_exc_varmarketrug003.png","bindType":-1,"knownIds":[118153]}

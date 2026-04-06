@@ -1,10 +1,1 @@
-{
-  "internalId": 3390649104,
-  "name": "Gargoyle Guardians Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting005.png",
-  "bindType": -1,
-  "knownIds": [
-    166441
-  ]
-}
+{"internalId":3390649104,"name":"Gargoyle Guardians Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting005.png","bindType":-1,"knownIds":[166441]}

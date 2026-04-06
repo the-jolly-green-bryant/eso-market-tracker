@@ -1,10 +1,1 @@
-{
-  "internalId": 3568202823,
-  "name": "Diagram: Solitude Frying Pan, Long-Handled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    166925
-  ]
-}
+{"internalId":3568202823,"name":"Diagram: Solitude Frying Pan, Long-Handled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[166925]}

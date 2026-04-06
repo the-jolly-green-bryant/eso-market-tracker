@@ -1,10 +1,1 @@
-{
-  "internalId": 3988603142,
-  "name": "Plant, Red Aloe Succulent",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_aloesucculent001.png",
-  "bindType": -1,
-  "knownIds": [
-    120620
-  ]
-}
+{"internalId":3988603142,"name":"Plant, Red Aloe Succulent","description":"This is a standard house item.","icon":"data/images/10/0t/ne/housing_veg_bsh_aloesucculent001.png","bindType":-1,"knownIds":[120620]}

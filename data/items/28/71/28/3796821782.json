@@ -1,10 +1,1 @@
-{
-  "internalId": 3796821782,
-  "name": "Imperial Stuffed Piglet Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    504336
-  ]
-}
+{"internalId":3796821782,"name":"Imperial Stuffed Piglet Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[504336]}

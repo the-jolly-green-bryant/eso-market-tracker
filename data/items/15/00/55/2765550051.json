@@ -1,10 +1,1 @@
-{
-  "internalId": 2765550051,
-  "name": "Pattern: Solitude Carpet, Inset Square",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166797
-  ]
-}
+{"internalId":2765550051,"name":"Pattern: Solitude Carpet, Inset Square","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[166797]}

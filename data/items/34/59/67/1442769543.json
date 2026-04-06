@@ -1,10 +1,1 @@
-{
-  "internalId": 1442769543,
-  "name": "Mace of Redistribution",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60612
-  ]
-}
+{"internalId":1442769543,"name":"Mace of Redistribution","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[60612]}

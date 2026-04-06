@@ -1,10 +1,1 @@
-{
-  "internalId": 1964863844,
-  "name": "Formula: Telvanni Water Jug, Fungal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png",
-  "bindType": -1,
-  "knownIds": [
-    197593
-  ]
-}
+{"internalId":1964863844,"name":"Formula: Telvanni Water Jug, Fungal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy4.png","bindType":-1,"knownIds":[197593]}

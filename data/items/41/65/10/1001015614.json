@@ -1,10 +1,1 @@
-{
-  "internalId": 1001015614,
-  "name": "Sigil, Mara",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_shrinemara001.png",
-  "bindType": -1,
-  "knownIds": [
-    120820
-  ]
-}
+{"internalId":1001015614,"name":"Sigil, Mara","description":"This is a small house item.","icon":"data/images/10/0a/ra/housing_uni_inc_shrinemara001.png","bindType":-1,"knownIds":[120820]}

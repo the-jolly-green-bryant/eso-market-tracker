@@ -1,10 +1,1 @@
-{
-  "internalId": 2545923429,
-  "name": "Spotted Bass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_shad.png",
-  "bindType": -1,
-  "knownIds": [
-    902041
-  ]
-}
+{"internalId":2545923429,"name":"Spotted Bass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_shad.png","bindType":-1,"knownIds":[902041]}

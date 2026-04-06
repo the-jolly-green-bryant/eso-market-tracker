@@ -1,10 +1,1 @@
-{
-  "internalId": 2495671717,
-  "name": "Ysgramor's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101490
-  ]
-}
+{"internalId":2495671717,"name":"Ysgramor's Breeches","description":"","icon":"data/images/d_/sg/el/gear_nord_light_legs_d.png","bindType":2,"knownIds":[101490]}

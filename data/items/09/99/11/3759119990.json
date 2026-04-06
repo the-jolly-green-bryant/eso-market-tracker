@@ -1,10 +1,1 @@
-{
-  "internalId": 3759119990,
-  "name": "Swamp Jelly Luring Flute",
-  "description": "This is one of seven parts of the Swamp Jelly Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_malabaltor_instrument_flute.png",
-  "bindType": -1,
-  "knownIds": [
-    141744
-  ]
-}
+{"internalId":3759119990,"name":"Swamp Jelly Luring Flute","description":"This is one of seven parts of the Swamp Jelly Runebox.","icon":"data/images/et/ul/f_/quest_malabaltor_instrument_flute.png","bindType":-1,"knownIds":[141744]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2950455525,
-  "name": "Crafting Motif 125: Blind Path Cultist Boots",
-  "description": "Use to learn how to make Blind Path Cultist Boots. Also teaches the equivalent Blind Path Cultist Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203217
-  ]
-}
+{"internalId":2950455525,"name":"Crafting Motif 125: Blind Path Cultist Boots","description":"Use to learn how to make Blind Path Cultist Boots. Also teaches the equivalent Blind Path Cultist Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203217]}

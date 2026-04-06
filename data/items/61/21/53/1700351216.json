@@ -1,10 +1,1 @@
-{
-  "internalId": 1700351216,
-  "name": "Greatsword of the Healer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hsword_b.png",
-  "bindType": 2,
-  "knownIds": [
-    87270
-  ]
-}
+{"internalId":1700351216,"name":"Greatsword of the Healer","description":"","icon":"data/images/b_/dr/ow/gear_ancient_elf_2hsword_b.png","bindType":2,"knownIds":[87270]}

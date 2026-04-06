@@ -1,10 +1,1 @@
-{
-  "internalId": 1140875886,
-  "name": "Mushroom, Lanky Erupted Stinkcap",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdinkcap011.png",
-  "bindType": -1,
-  "knownIds": [
-    125588
-  ]
-}
+{"internalId":1140875886,"name":"Mushroom, Lanky Erupted Stinkcap","description":"This is a standard house item.","icon":"data/images/11/0p/ac/housing_veg_fug_vrdinkcap011.png","bindType":-1,"knownIds":[125588]}

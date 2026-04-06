@@ -1,10 +1,1 @@
-{
-  "internalId": 14877247,
-  "name": "Red Deer Stew Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    760988
-  ]
-}
+{"internalId":14877247,"name":"Red Deer Stew Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[760988]}

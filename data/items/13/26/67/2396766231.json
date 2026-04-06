@@ -1,10 +1,1 @@
-{
-  "internalId": 2396766231,
-  "name": "Carved Bone Medallion",
-  "description": "A kindred spirit in Soulshriven Tower gave you this unusually cold medallion as thanks for being liberated from Molag Bal's curse.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    2542
-  ]
-}
+{"internalId":2396766231,"name":"Carved Bone Medallion","description":"A kindred spirit in Soulshriven Tower gave you this unusually cold medallion as thanks for being liberated from Molag Bal's curse.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[2542]}

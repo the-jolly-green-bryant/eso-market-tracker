@@ -1,10 +1,1 @@
-{
-  "internalId": 4107126393,
-  "name": "Yokudan Style Flatware",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801248
-  ]
-}
+{"internalId":4107126393,"name":"Yokudan Style Flatware","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png","bindType":-1,"knownIds":[801248]}

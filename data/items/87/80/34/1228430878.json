@@ -1,10 +1,1 @@
-{
-  "internalId": 1228430878,
-  "name": "Weapons: Footman's Fortune",
-  "description": "A Heavy Armor set found in Dragonstar Arena.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    138755
-  ]
-}
+{"internalId":1228430878,"name":"Weapons: Footman's Fortune","description":"A Heavy Armor set found in Dragonstar Arena.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[138755]}

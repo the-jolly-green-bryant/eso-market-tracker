@@ -1,10 +1,1 @@
-{
-  "internalId": 4094117366,
-  "name": "Stone, Smooth Limestone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_rubblesm005.png",
-  "bindType": -1,
-  "knownIds": [
-    223168
-  ]
-}
+{"internalId":4094117366,"name":"Stone, Smooth Limestone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_rok_sol_rubblesm005.png","bindType":-1,"knownIds":[223168]}

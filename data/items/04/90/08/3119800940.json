@@ -1,10 +1,1 @@
-{
-  "internalId": 3119800940,
-  "name": "The Bridge of Dragon Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting009.png",
-  "bindType": -1,
-  "knownIds": [
-    165840
-  ]
-}
+{"internalId":3119800940,"name":"The Bridge of Dragon Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_woodframepainting009.png","bindType":-1,"knownIds":[165840]}

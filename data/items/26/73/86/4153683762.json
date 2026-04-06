@@ -1,11 +1,1 @@
-{
-  "internalId": 4153683762,
-  "name": "White Rose Prison Tapestry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tapestry_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1288996,
-    1288996
-  ]
-}
+{"internalId":4153683762,"name":"White Rose Prison Tapestry","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tapestry_001.png","bindType":-1,"knownIds":[1288996,1288996]}

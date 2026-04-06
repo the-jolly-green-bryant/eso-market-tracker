@@ -1,10 +1,1 @@
-{
-  "internalId": 1208411523,
-  "name": "Stirk Fellowship Tower, Defensive",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_alliancecamptowerstage3001.png",
-  "bindType": -1,
-  "knownIds": [
-    219744
-  ]
-}
+{"internalId":1208411523,"name":"Stirk Fellowship Tower, Defensive","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_alliancecamptowerstage3001.png","bindType":-1,"knownIds":[219744]}

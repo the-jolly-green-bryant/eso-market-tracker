@@ -1,10 +1,1 @@
-{
-  "internalId": 937034459,
-  "name": "Bloodknight Organ",
-  "description": "This cold organ bears no resemblance to anything found inside man or mer. It faintly pulses. Used for special experiments in Stone Garden.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u27_stonegarden_bloodknight1.png",
-  "bindType": 3,
-  "knownIds": [
-    159733
-  ]
-}
+{"internalId":937034459,"name":"Bloodknight Organ","description":"This cold organ bears no resemblance to anything found inside man or mer. It faintly pulses. Used for special experiments in Stone Garden.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u27_stonegarden_bloodknight1.png","bindType":3,"knownIds":[159733]}

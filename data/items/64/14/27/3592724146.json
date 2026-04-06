@@ -1,10 +1,1 @@
-{
-  "internalId": 3592724146,
-  "name": "Crafting Motif 91: Hazardous Alchemy Belts",
-  "description": "Use to learn how to make Hazardous Alchemy Belts. Also teaches the equivalent Hazardous Alchemy Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    166991
-  ]
-}
+{"internalId":3592724146,"name":"Crafting Motif 91: Hazardous Alchemy Belts","description":"Use to learn how to make Hazardous Alchemy Belts. Also teaches the equivalent Hazardous Alchemy Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[166991]}

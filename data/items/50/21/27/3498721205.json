@@ -1,10 +1,1 @@
-{
-  "internalId": 3498721205,
-  "name": "Exemplary Bloodthirsty Necklace",
-  "description": "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Bloodthirsty Trait for Necklaces.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    139663
-  ]
-}
+{"internalId":3498721205,"name":"Exemplary Bloodthirsty Necklace","description":"This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Bloodthirsty Trait for Necklaces.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":-1,"knownIds":[139663]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2494092621,
-  "name": "Eminence of Elsweyr",
-  "description": "A medal of the highest honor bestowed by Queen Khamira for helping to save Elsweyr from a rage of Dragons.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    153836
-  ]
-}
+{"internalId":2494092621,"name":"Eminence of Elsweyr","description":"A medal of the highest honor bestowed by Queen Khamira for helping to save Elsweyr from a rage of Dragons.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[153836]}

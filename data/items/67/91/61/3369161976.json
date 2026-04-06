@@ -1,10 +1,1 @@
-{
-  "internalId": 3369161976,
-  "name": "Bloodthorn Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_1haxe_c.png",
-  "bindType": 2,
-  "knownIds": [
-    96545
-  ]
-}
+{"internalId":3369161976,"name":"Bloodthorn Axe","description":"","icon":"data/images/c_/ex/ah/gear_primative_1haxe_c.png","bindType":2,"knownIds":[96545]}

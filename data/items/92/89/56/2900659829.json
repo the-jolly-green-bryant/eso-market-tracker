@@ -1,10 +1,1 @@
-{
-  "internalId": 2900659829,
-  "name": "Crafting Motif 115: Y'ffre's Will Style",
-  "description": "Use to learn the Y'ffre's Will crafting style. Also teaches the equivalent Y'ffre's Will Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    187728
-  ]
-}
+{"internalId":2900659829,"name":"Crafting Motif 115: Y'ffre's Will Style","description":"Use to learn the Y'ffre's Will crafting style. Also teaches the equivalent Y'ffre's Will Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[187728]}

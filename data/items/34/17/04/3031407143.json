@@ -1,10 +1,1 @@
-{
-  "internalId": 3031407143,
-  "name": "Hare-Tracker's Boots",
-  "description": "A token of Hiretta and Bolfalgar's gratitude, these supple leather boots are perfect for traversing the Reach's rocky terrain.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167416
-  ]
-}
+{"internalId":3031407143,"name":"Hare-Tracker's Boots","description":"A token of Hiretta and Bolfalgar's gratitude, these supple leather boots are perfect for traversing the Reach's rocky terrain.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_feet_a.png","bindType":2,"knownIds":[167416]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3577506038,
-  "name": "Common Bowl of Stew, Display",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_servingbowl001_stew.png",
-  "bindType": -1,
-  "knownIds": [
-    118033
-  ]
-}
+{"internalId":3577506038,"name":"Common Bowl of Stew, Display","description":"This is a tiny house item.","icon":"data/images/we/ts/_1/housing_bre_inc_servingbowl001_stew.png","bindType":-1,"knownIds":[118033]}

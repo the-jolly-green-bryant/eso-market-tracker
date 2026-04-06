@@ -1,10 +1,1 @@
-{
-  "internalId": 3637720306,
-  "name": "Xanmeer Genesis Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223513
-  ]
-}
+{"internalId":3637720306,"name":"Xanmeer Genesis Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_head_a.png","bindType":2,"knownIds":[223513]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1505859515,
-  "name": "Lightning Staff of Salvation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    85603
-  ]
-}
+{"internalId":1505859515,"name":"Lightning Staff of Salvation","description":"","icon":"data/images/d_/ff/at/gear_altmer_staff_d.png","bindType":2,"knownIds":[85603]}

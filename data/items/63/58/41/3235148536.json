@@ -1,10 +1,1 @@
-{
-  "internalId": 3235148536,
-  "name": "Design: Nord Urn, Braided",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    116193
-  ]
-}
+{"internalId":3235148536,"name":"Design: Nord Urn, Braided","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[116193]}

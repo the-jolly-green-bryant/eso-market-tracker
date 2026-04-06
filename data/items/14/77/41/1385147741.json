@@ -1,10 +1,1 @@
-{
-  "internalId": 1385147741,
-  "name": "Dwarven Theodolite Chassis",
-  "description": "This is one of seven parts of the Dwarven Theodolite Pet. Use to advance the eponymous achievement.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/fragment_pet_sentry_chasis.png",
-  "bindType": -1,
-  "knownIds": [
-    124666
-  ]
-}
+{"internalId":1385147741,"name":"Dwarven Theodolite Chassis","description":"This is one of seven parts of the Dwarven Theodolite Pet. Use to advance the eponymous achievement.","icon":"data/images/si/sa/hc/fragment_pet_sentry_chasis.png","bindType":-1,"knownIds":[124666]}

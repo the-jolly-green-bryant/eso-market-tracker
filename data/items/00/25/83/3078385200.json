@@ -1,10 +1,1 @@
-{
-  "internalId": 3078385200,
-  "name": "Redguard Table, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varrectangulartablelarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    117684
-  ]
-}
+{"internalId":3078385200,"name":"Redguard Table, Sturdy","description":"This is a standard house item.","icon":"data/images/20/0e/gr/housing_red_fur_varrectangulartablelarge002.png","bindType":-1,"knownIds":[117684]}

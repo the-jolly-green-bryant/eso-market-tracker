@@ -1,10 +1,1 @@
-{
-  "internalId": 4078848866,
-  "name": "Dead-Water's Guile Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142562
-  ]
-}
+{"internalId":4078848866,"name":"Dead-Water's Guile Sword","description":"","icon":"data/images/a_/dr/ow/gear_deadwater_1hsword_a.png","bindType":2,"knownIds":[142562]}

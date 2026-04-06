@@ -1,10 +1,1 @@
-{
-  "internalId": 1127332814,
-  "name": "Alinor Bed, Levitating",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_bedsimplefloating001.png",
-  "bindType": -1,
-  "knownIds": [
-    141826
-  ]
-}
+{"internalId":1127332814,"name":"Alinor Bed, Levitating","description":"This is a standard house item.","icon":"data/images/10/0g/ni/housing_sum_fur_bedsimplefloating001.png","bindType":-1,"knownIds":[141826]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 259428593,
-  "name": "Ayleid Greatsword",
-  "description": "For solving the puzzle of the Shrouded Pass, Verandis awarded this Ayleid blade.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7319
-  ]
-}
+{"internalId":259428593,"name":"Ayleid Greatsword","description":"For solving the puzzle of the Shrouded Pass, Verandis awarded this Ayleid blade.","icon":"data/images/d_/dr/ow/gear_altmer_2hsword_d.png","bindType":2,"knownIds":[7319]}

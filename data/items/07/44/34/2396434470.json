@@ -1,15 +1,1 @@
-{
-  "internalId": 2396434470,
-  "name": "Pyrebrand Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_2haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    1735191,
-    1745700,
-    1779092,
-    1735191,
-    1745700,
-    1779092
-  ]
-}
+{"internalId":2396434470,"name":"Pyrebrand Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_2haxe.png","bindType":-1,"knownIds":[1735191,1745700,1779092,1735191,1745700,1779092]}

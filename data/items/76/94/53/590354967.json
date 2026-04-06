@@ -1,10 +1,1 @@
-{
-  "internalId": 590354967,
-  "name": "Vigilance Snuff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1362029
-  ]
-}
+{"internalId":590354967,"name":"Vigilance Snuff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[1362029]}

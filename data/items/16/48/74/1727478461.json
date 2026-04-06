@@ -1,10 +1,1 @@
-{
-  "internalId": 1727478461,
-  "name": "Infernal Infusion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
-  "bindType": -1,
-  "knownIds": [
-    61059
-  ]
-}
+{"internalId":1727478461,"name":"Infernal Infusion","description":"","icon":"data/images/20/0_/st/crafting_spirits_002.png","bindType":-1,"knownIds":[61059]}

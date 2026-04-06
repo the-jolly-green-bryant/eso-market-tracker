@@ -1,10 +1,1 @@
-{
-  "internalId": 3283850166,
-  "name": "Gryphon's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_2hhammer_b.png",
-  "bindType": 2,
-  "knownIds": [
-    135490
-  ]
-}
+{"internalId":3283850166,"name":"Gryphon's Maul","description":"","icon":"data/images/b_/re/mm/gear_ancient_elf_2hhammer_b.png","bindType":2,"knownIds":[135490]}

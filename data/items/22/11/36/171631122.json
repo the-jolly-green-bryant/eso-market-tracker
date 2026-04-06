@@ -1,10 +1,1 @@
-{
-  "internalId": 171631122,
-  "name": "Khajiit Pillow, Crescents",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_squarepillow001.png",
-  "bindType": -1,
-  "knownIds": [
-    115693
-  ]
-}
+{"internalId":171631122,"name":"Khajiit Pillow, Crescents","description":"This is a small house item.","icon":"data/images/10/0w/ol/housing_kha_inc_squarepillow001.png","bindType":-1,"knownIds":[115693]}

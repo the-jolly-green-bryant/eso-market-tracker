@@ -1,10 +1,1 @@
-{
-  "internalId": 846897376,
-  "name": "Old Pork",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_meat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    34304
-  ]
-}
+{"internalId":846897376,"name":"Old Pork","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/10/0_/ta/crafting_dom_meat_001.png","bindType":-1,"knownIds":[34304]}

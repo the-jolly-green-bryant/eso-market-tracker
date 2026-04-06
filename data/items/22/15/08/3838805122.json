@@ -1,10 +1,1 @@
-{
-  "internalId": 3838805122,
-  "name": "Dawnwood Chest, Antlers",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bostrunk001.png",
-  "bindType": -1,
-  "knownIds": [
-    204668
-  ]
-}
+{"internalId":3838805122,"name":"Dawnwood Chest, Antlers","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bostrunk001.png","bindType":-1,"knownIds":[204668]}

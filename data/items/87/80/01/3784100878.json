@@ -1,10 +1,1 @@
-{
-  "internalId": 3784100878,
-  "name": "Recipe: Riekling Suckling Bristleback",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56947
-  ]
-}
+{"internalId":3784100878,"name":"Recipe: Riekling Suckling Bristleback","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56947]}

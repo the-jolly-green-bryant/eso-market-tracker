@@ -1,10 +1,1 @@
-{
-  "internalId": 2639126954,
-  "name": "Bound Crown Tri-Restoration Potion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpotion_trires.png",
-  "bindType": 3,
-  "knownIds": [
-    135114
-  ]
-}
+{"internalId":2639126954,"name":"Bound Crown Tri-Restoration Potion","description":"","icon":"data/images/se/ri/rt/crownpotion_trires.png","bindType":3,"knownIds":[135114]}

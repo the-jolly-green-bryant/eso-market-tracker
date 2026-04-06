@@ -1,10 +1,1 @@
-{
-  "internalId": 854385436,
-  "name": "Orcish Table, Braced Kitchen",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_wtgtable003.png",
-  "bindType": -1,
-  "knownIds": [
-    116357
-  ]
-}
+{"internalId":854385436,"name":"Orcish Table, Braced Kitchen","description":"This is a standard house item.","icon":"data/images/30/0e/lb/housing_orc_duc_wtgtable003.png","bindType":-1,"knownIds":[116357]}

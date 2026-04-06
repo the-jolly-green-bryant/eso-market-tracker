@@ -1,10 +1,1 @@
-{
-  "internalId": 1226132109,
-  "name": "Carpet Roll, Colorful",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketclothroll001.png",
-  "bindType": -1,
-  "knownIds": [
-    118150
-  ]
-}
+{"internalId":1226132109,"name":"Carpet Roll, Colorful","description":"This is a standard house item.","icon":"data/images/10/0l/lo/housing_red_exc_varmarketclothroll001.png","bindType":-1,"knownIds":[118150]}

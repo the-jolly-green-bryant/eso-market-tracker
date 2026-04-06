@@ -1,10 +1,1 @@
-{
-  "internalId": 2096142495,
-  "name": "Ancient Terne Grains",
-  "description": "Grants a Terne Plating when claimed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_raw_dingy_terne.png",
-  "bindType": -1,
-  "knownIds": [
-    135151
-  ]
-}
+{"internalId":2096142495,"name":"Ancient Terne Grains","description":"Grants a Terne Plating when claimed.","icon":"data/images/en/re/t_/jewelrycrafting_booster_raw_dingy_terne.png","bindType":-1,"knownIds":[135151]}

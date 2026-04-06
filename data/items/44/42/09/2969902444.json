@@ -1,10 +1,1 @@
-{
-  "internalId": 2969902444,
-  "name": "Sapphire Gauntlets",
-  "description": "Crafted by a certain knight aspirant during her years as a squire, these heavy gauntlets feature Stendarr's symbol etched within.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_heavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    188114
-  ]
-}
+{"internalId":2969902444,"name":"Sapphire Gauntlets","description":"Crafted by a certain knight aspirant during her years as a squire, these heavy gauntlets feature Stendarr's symbol etched within.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_heavy_hands_a.png","bindType":2,"knownIds":[188114]}

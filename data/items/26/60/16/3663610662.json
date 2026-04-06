@@ -1,10 +1,1 @@
-{
-  "internalId": 3663610662,
-  "name": "High Elf Chair, Regal Verdant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_chair01.png",
-  "bindType": -1,
-  "knownIds": [
-    114380
-  ]
-}
+{"internalId":3663610662,"name":"High Elf Chair, Regal Verdant","description":"This is a standard house item.","icon":"data/images/10/ri/ah/housing_alt_fur_chair01.png","bindType":-1,"knownIds":[114380]}

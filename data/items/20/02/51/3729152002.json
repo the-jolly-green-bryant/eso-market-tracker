@@ -1,10 +1,1 @@
-{
-  "internalId": 3729152002,
-  "name": "Book Stack, Trio",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_libbookstack001.png",
-  "bindType": -1,
-  "knownIds": [
-    197544
-  ]
-}
+{"internalId":3729152002,"name":"Book Stack, Trio","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_libbookstack001.png","bindType":-1,"knownIds":[197544]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2438867976,
-  "name": "Barrel of Rare Fish, Solstice",
-  "description": "Rare fish found in the waters of Solstice.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png",
-  "bindType": 3,
-  "knownIds": [
-    217958
-  ]
-}
+{"internalId":2438867976,"name":"Barrel of Rare Fish, Solstice","description":"Rare fish found in the waters of Solstice.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png","bindType":3,"knownIds":[217958]}

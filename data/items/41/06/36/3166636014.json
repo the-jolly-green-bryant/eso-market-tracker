@@ -1,10 +1,1 @@
-{
-  "internalId": 3166636014,
-  "name": "Blueprint: Druidic Bridge, Living",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    194398
-  ]
-}
+{"internalId":3166636014,"name":"Blueprint: Druidic Bridge, Living","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[194398]}

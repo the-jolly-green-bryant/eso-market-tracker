@@ -1,10 +1,1 @@
-{
-  "internalId": 2279625236,
-  "name": "Deesh-Jee's Hunting Bow",
-  "description": "A weapon once owned by the vile leader of the Green Serpent gang on Amenos.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_bow_c.png",
-  "bindType": 2,
-  "knownIds": [
-    188108
-  ]
-}
+{"internalId":2279625236,"name":"Deesh-Jee's Hunting Bow","description":"A weapon once owned by the vile leader of the Green Serpent gang on Amenos.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_primative_bow_c.png","bindType":2,"knownIds":[188108]}

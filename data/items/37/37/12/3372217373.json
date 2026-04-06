@@ -1,10 +1,1 @@
-{
-  "internalId": 3372217373,
-  "name": "Thunderbug's Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    99997
-  ]
-}
+{"internalId":3372217373,"name":"Thunderbug's Greaves","description":"","icon":"data/images/a_/sg/el/gear_primative_heavy_legs_a.png","bindType":2,"knownIds":[99997]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3065344308,
-  "name": "Grilling Rack",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_cookingrack002.png",
-  "bindType": -1,
-  "knownIds": [
-    118185
-  ]
-}
+{"internalId":3065344308,"name":"Grilling Rack","description":"This is a standard house item.","icon":"data/images/20/0k/ca/housing_bre_cmp_cookingrack002.png","bindType":-1,"knownIds":[118185]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3384758408,
-  "name": "Lightning Staff of Twilight's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56148
-  ]
-}
+{"internalId":3384758408,"name":"Lightning Staff of Twilight's Embrace","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[56148]}

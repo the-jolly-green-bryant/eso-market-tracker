@@ -1,10 +1,1 @@
-{
-  "internalId": 2929829095,
-  "name": "Style Page: Opal Bloodspawn's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1341647
-  ]
-}
+{"internalId":2929829095,"name":"Style Page: Opal Bloodspawn's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1341647]}

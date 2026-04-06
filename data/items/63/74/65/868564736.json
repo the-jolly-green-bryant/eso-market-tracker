@@ -1,10 +1,1 @@
-{
-  "internalId": 868564736,
-  "name": "Visual Guide To Skooma",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1311545
-  ]
-}
+{"internalId":868564736,"name":"Visual Guide To Skooma","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[1311545]}

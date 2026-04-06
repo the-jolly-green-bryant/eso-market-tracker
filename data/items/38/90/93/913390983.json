@@ -1,10 +1,1 @@
-{
-  "internalId": 913390983,
-  "name": "Mushrooms, Cave Bracket Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdhangingmushrooms005.png",
-  "bindType": -1,
-  "knownIds": [
-    125610
-  ]
-}
+{"internalId":913390983,"name":"Mushrooms, Cave Bracket Cluster","description":"This is a standard house item.","icon":"data/images/50/0s/mo/housing_veg_fug_vrdhangingmushrooms005.png","bindType":-1,"knownIds":[125610]}

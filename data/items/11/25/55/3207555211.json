@@ -1,17 +1,1 @@
-{
-  "internalId": 3207555211,
-  "name": "Beacon of Oblivion Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1733734,
-    1738424,
-    1743152,
-    1763225,
-    1733734,
-    1738424,
-    1743152,
-    1763225
-  ]
-}
+{"internalId":3207555211,"name":"Beacon of Oblivion Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_hands_a.png","bindType":-1,"knownIds":[1733734,1738424,1743152,1763225,1733734,1738424,1743152,1763225]}

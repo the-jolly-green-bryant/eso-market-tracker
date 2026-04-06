@@ -1,10 +1,1 @@
-{
-  "internalId": 610686995,
-  "name": "Ra Gada Guardian Statue, Lion Ibis",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_run_varstatues002.png",
-  "bindType": -1,
-  "knownIds": [
-    134887
-  ]
-}
+{"internalId":610686995,"name":"Ra Gada Guardian Statue, Lion Ibis","description":"This is a large house item.","icon":"data/images/20/0s/eu/housing_red_run_varstatues002.png","bindType":-1,"knownIds":[134887]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 339428470,
-  "name": "Blueprint: Colovian Wine Barrel, Sealed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    207917
-  ]
-}
+{"internalId":339428470,"name":"Blueprint: Colovian Wine Barrel, Sealed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[207917]}

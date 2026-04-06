@@ -1,10 +1,1 @@
-{
-  "internalId": 3487585009,
-  "name": "Inferno Staff of Eternal Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161176
-  ]
-}
+{"internalId":3487585009,"name":"Inferno Staff of Eternal Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_staff_a.png","bindType":2,"knownIds":[161176]}

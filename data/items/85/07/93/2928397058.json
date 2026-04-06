@@ -1,10 +1,1 @@
-{
-  "internalId": 2928397058,
-  "name": "Crafting Motif 92: Ancestral Akaviri Style",
-  "description": "Use to learn the Ancestral Akaviri crafting style. Also teaches the equivalent Ancestral Akaviri Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    167173
-  ]
-}
+{"internalId":2928397058,"name":"Crafting Motif 92: Ancestral Akaviri Style","description":"Use to learn the Ancestral Akaviri crafting style. Also teaches the equivalent Ancestral Akaviri Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[167173]}

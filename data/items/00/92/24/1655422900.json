@@ -1,10 +1,1 @@
-{
-  "internalId": 1655422900,
-  "name": "Draoife Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190864
-  ]
-}
+{"internalId":1655422900,"name":"Draoife Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_housemornard_heavy_legs_a.png","bindType":2,"knownIds":[190864]}

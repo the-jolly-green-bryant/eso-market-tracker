@@ -1,10 +1,1 @@
-{
-  "internalId": 2640548908,
-  "name": "Redoran Bench, Fungal Cushion",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabench003.png",
-  "bindType": -1,
-  "knownIds": [
-    126448
-  ]
-}
+{"internalId":2640548908,"name":"Redoran Bench, Fungal Cushion","description":"This is a standard house item.","icon":"data/images/30/0h/cn/housing_vrd_fur_hlabench003.png","bindType":-1,"knownIds":[126448]}

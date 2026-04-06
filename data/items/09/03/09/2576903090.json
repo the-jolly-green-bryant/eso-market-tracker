@@ -1,10 +1,1 @@
-{
-  "internalId": 2576903090,
-  "name": "Scavenged Intruder's Greaves",
-  "description": "A well-made piece of equipment scavenged from the body of an extraplanar intruder.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_armamentkindred_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    197816
-  ]
-}
+{"internalId":2576903090,"name":"Scavenged Intruder's Greaves","description":"A well-made piece of equipment scavenged from the body of an extraplanar intruder.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_armamentkindred_heavy_legs_a.png","bindType":2,"knownIds":[197816]}

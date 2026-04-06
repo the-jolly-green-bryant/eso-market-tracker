@@ -1,10 +1,1 @@
-{
-  "internalId": 2176531446,
-  "name": "Maul of Necropotence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86917
-  ]
-}
+{"internalId":2176531446,"name":"Maul of Necropotence","description":"","icon":"data/images/d_/re/mm/gear_argonian_2hhammer_d.png","bindType":2,"knownIds":[86917]}

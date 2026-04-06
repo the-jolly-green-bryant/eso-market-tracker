@@ -1,10 +1,1 @@
-{
-  "internalId": 2547853681,
-  "name": "Lost One's Cowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54999
-  ]
-}
+{"internalId":2547853681,"name":"Lost One's Cowl","description":"","icon":"data/images/a_/da/eh/gear_yokudan_light_head_a.png","bindType":2,"knownIds":[54999]}

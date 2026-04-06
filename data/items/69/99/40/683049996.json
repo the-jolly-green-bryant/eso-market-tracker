@@ -1,10 +1,1 @@
-{
-  "internalId": 683049996,
-  "name": "Redguard Censer, Hanging Disc",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketbrasshanging003.png",
-  "bindType": -1,
-  "knownIds": [
-    121050
-  ]
-}
+{"internalId":683049996,"name":"Redguard Censer, Hanging Disc","description":"This is a small house item.","icon":"data/images/30/0g/ni/housing_red_exc_varmarketbrasshanging003.png","bindType":-1,"knownIds":[121050]}

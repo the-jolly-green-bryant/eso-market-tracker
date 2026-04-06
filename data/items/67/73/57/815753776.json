@@ -1,10 +1,1 @@
-{
-  "internalId": 815753776,
-  "name": "Manual of Spellcraft",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1199270
-  ]
-}
+{"internalId":815753776,"name":"Manual of Spellcraft","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1199270]}

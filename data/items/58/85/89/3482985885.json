@@ -1,17 +1,1 @@
-{
-  "internalId": 3482985885,
-  "name": "Perfected Dolorous Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1760620,
-    1761036,
-    1772601,
-    1772634,
-    1760620,
-    1761036,
-    1772601,
-    1772634
-  ]
-}
+{"internalId":3482985885,"name":"Perfected Dolorous Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_heavy_legs_a.png","bindType":-1,"knownIds":[1760620,1761036,1772601,1772634,1760620,1761036,1772601,1772634]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 3045006290,
-  "name": "Hanu's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hircine_1hmace_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1268744,
-    1570843,
-    1583674,
-    1593760,
-    1268744,
-    1570843,
-    1583674,
-    1593760
-  ]
-}
+{"internalId":3045006290,"name":"Hanu's Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_hircine_1hmace_a.png","bindType":-1,"knownIds":[1268744,1570843,1583674,1593760,1268744,1570843,1583674,1593760]}

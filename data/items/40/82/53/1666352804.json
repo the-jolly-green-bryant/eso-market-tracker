@@ -1,10 +1,1 @@
-{
-  "internalId": 1666352804,
-  "name": "Gold Coast Trapping Poison",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpoison_trapping.png",
-  "bindType": -1,
-  "knownIds": [
-    1309704
-  ]
-}
+{"internalId":1666352804,"name":"Gold Coast Trapping Poison","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crownpoison_trapping.png","bindType":-1,"knownIds":[1309704]}

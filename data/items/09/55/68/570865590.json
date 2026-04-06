@@ -1,10 +1,1 @@
-{
-  "internalId": 570865590,
-  "name": "Eight Blessings Libation Shot Glasses",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    910002
-  ]
-}
+{"internalId":570865590,"name":"Eight Blessings Libation Shot Glasses","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[910002]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3658790631,
-  "name": "Tree, Curled Dawnwood",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_housingbosovergrowth005.png",
-  "bindType": -1,
-  "knownIds": [
-    211509
-  ]
-}
+{"internalId":3658790631,"name":"Tree, Curled Dawnwood","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_housingbosovergrowth005.png","bindType":-1,"knownIds":[211509]}

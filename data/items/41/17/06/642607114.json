@@ -1,10 +1,1 @@
-{
-  "internalId": 642607114,
-  "name": "Fossilized Centipede",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1279585
-  ]
-}
+{"internalId":642607114,"name":"Fossilized Centipede","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[1279585]}

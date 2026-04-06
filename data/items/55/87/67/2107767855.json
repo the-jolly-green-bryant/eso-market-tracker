@@ -1,10 +1,1 @@
-{
-  "internalId": 2107767855,
-  "name": "Praxis: Alinor Urn, Limestone Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    139602
-  ]
-}
+{"internalId":2107767855,"name":"Praxis: Alinor Urn, Limestone Large","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[139602]}

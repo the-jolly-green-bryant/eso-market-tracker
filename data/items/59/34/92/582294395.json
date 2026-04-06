@@ -1,10 +1,1 @@
-{
-  "internalId": 582294395,
-  "name": "Blank Wood Sign, Post",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_lsb_icpostsign001.png",
-  "bindType": -1,
-  "knownIds": [
-    223878
-  ]
-}
+{"internalId":582294395,"name":"Blank Wood Sign, Post","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_imp_lsb_icpostsign001.png","bindType":-1,"knownIds":[223878]}

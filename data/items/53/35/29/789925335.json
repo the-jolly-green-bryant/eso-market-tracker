@@ -1,13 +1,1 @@
-{
-  "internalId": 789925335,
-  "name": "Lustrous Soulwell Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1764874,
-    1770611,
-    1764874,
-    1770611
-  ]
-}
+{"internalId":789925335,"name":"Lustrous Soulwell Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_staff_a.png","bindType":-1,"knownIds":[1764874,1770611,1764874,1770611]}

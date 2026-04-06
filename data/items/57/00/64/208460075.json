@@ -1,10 +1,1 @@
-{
-  "internalId": 208460075,
-  "name": "Redguard Runner, Sun",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugrunner002.png",
-  "bindType": -1,
-  "knownIds": [
-    117735
-  ]
-}
+{"internalId":208460075,"name":"Redguard Runner, Sun","description":"This is a large house item.","icon":"data/images/20/0r/en/housing_red_inc_rugrunner002.png","bindType":-1,"knownIds":[117735]}

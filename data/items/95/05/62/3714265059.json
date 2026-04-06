@@ -1,10 +1,1 @@
-{
-  "internalId": 3714265059,
-  "name": "Ashlander's Girdle",
-  "description": "This girdle was rough-forged from metals common to the Ashlands.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7406
-  ]
-}
+{"internalId":3714265059,"name":"Ashlander's Girdle","description":"This girdle was rough-forged from metals common to the Ashlands.","icon":"data/images/d_/ts/ia/gear_dunmer_heavy_waist_d.png","bindType":2,"knownIds":[7406]}

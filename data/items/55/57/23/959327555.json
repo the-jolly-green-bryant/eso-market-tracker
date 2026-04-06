@@ -1,10 +1,1 @@
-{
-  "internalId": 959327555,
-  "name": "Breton Forge and Bellows",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_crf_forgebellowattached001.png",
-  "bindType": -1,
-  "knownIds": [
-    115261
-  ]
-}
+{"internalId":959327555,"name":"Breton Forge and Bellows","description":"This is a standard house item.","icon":"data/images/10/0d/eh/housing_bre_crf_forgebellowattached001.png","bindType":-1,"knownIds":[115261]}

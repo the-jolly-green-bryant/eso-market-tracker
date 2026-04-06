@@ -1,10 +1,1 @@
-{
-  "internalId": 996575070,
-  "name": "Leyawiin Carpet, Threadbare",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyruglo001.png",
-  "bindType": -1,
-  "knownIds": [
-    175723
-  ]
-}
+{"internalId":996575070,"name":"Leyawiin Carpet, Threadbare","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyruglo001.png","bindType":-1,"knownIds":[175723]}

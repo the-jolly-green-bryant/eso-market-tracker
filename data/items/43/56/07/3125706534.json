@@ -1,13 +1,1 @@
-{
-  "internalId": 3125706534,
-  "name": "Perfected Dolorous Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1761040,
-    1776380,
-    1761040,
-    1776380
-  ]
-}
+{"internalId":3125706534,"name":"Perfected Dolorous Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_bow_a.png","bindType":-1,"knownIds":[1761040,1776380,1761040,1776380]}

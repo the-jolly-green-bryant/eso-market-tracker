@@ -1,10 +1,1 @@
-{
-  "internalId": 227766032,
-  "name": "Smith's Paw Protection",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rollofpaper_1.png",
-  "bindType": -1,
-  "knownIds": [
-    1318181
-  ]
-}
+{"internalId":227766032,"name":"Smith's Paw Protection","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_rollofpaper_1.png","bindType":-1,"knownIds":[1318181]}

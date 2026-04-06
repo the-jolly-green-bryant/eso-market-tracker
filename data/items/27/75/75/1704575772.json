@@ -1,10 +1,1 @@
-{
-  "internalId": 1704575772,
-  "name": "Book Stack, Well-Read",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_books002.png",
-  "bindType": -1,
-  "knownIds": [
-    187862
-  ]
-}
+{"internalId":1704575772,"name":"Book Stack, Well-Read","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_books002.png","bindType":-1,"knownIds":[187862]}

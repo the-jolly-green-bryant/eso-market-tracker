@@ -1,10 +1,1 @@
-{
-  "internalId": 4082864897,
-  "name": "Boots of the Order's Wrath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185135
-  ]
-}
+{"internalId":4082864897,"name":"Boots of the Order's Wrath","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[185135]}

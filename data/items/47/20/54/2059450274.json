@@ -1,10 +1,1 @@
-{
-  "internalId": 2059450274,
-  "name": "Wizard's Riposte Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123887
-  ]
-}
+{"internalId":2059450274,"name":"Wizard's Riposte Breeches","description":"","icon":"data/images/a_/sg/el/gear_ordinator_light_legs_a.png","bindType":2,"knownIds":[123887]}

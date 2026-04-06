@@ -1,10 +1,1 @@
-{
-  "internalId": 2254868555,
-  "name": "Antique Silver Flatware",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    682296
-  ]
-}
+{"internalId":2254868555,"name":"Antique Silver Flatware","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[682296]}

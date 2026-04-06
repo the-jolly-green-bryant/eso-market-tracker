@@ -1,10 +1,1 @@
-{
-  "internalId": 3332299435,
-  "name": "Wood Elf Vessel, Tiered Painted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_vaselarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    115595
-  ]
-}
+{"internalId":3332299435,"name":"Wood Elf Vessel, Tiered Painted","description":"This is a standard house item.","icon":"data/images/20/0e/gr/housing_bos_inc_vaselarge002.png","bindType":-1,"knownIds":[115595]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 3246839469,
-  "name": "Corpse-Caller's Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    615975,
-    559712,
-    615975,
-    559712
-  ]
-}
+{"internalId":3246839469,"name":"Corpse-Caller's Fury","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_1hhammer_d.png","bindType":-1,"knownIds":[615975,559712,615975,559712]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 451537891,
-  "name": "Foolkiller's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1417232,
-    1464375,
-    1465343,
-    1756047,
-    1417232,
-    1464375,
-    1465343,
-    1756047
-  ]
-}
+{"internalId":451537891,"name":"Foolkiller's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1417232,1464375,1465343,1756047,1417232,1464375,1465343,1756047]}

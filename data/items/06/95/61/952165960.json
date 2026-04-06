@@ -1,10 +1,1 @@
-{
-  "internalId": 952165960,
-  "name": "Fern, Fragile",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rmferns001.png",
-  "bindType": -1,
-  "knownIds": [
-    120512
-  ]
-}
+{"internalId":952165960,"name":"Fern, Fragile","description":"This is a small house item.","icon":"data/images/10/0s/nr/housing_veg_bsh_rmferns001.png","bindType":-1,"knownIds":[120512]}

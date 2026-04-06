@@ -1,10 +1,1 @@
-{
-  "internalId": 978210175,
-  "name": "Recipe: Alcaire Festival Sword-Pie",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_recipe.png",
-  "bindType": -1,
-  "knownIds": [
-    96961
-  ]
-}
+{"internalId":978210175,"name":"Recipe: Alcaire Festival Sword-Pie","description":"","icon":"data/images/ep/ic/er/event_newlifefestival_2016_recipe.png","bindType":-1,"knownIds":[96961]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 564197869,
-  "name": "Nindaeril's Tooth of the Green Pact",
-  "description": "This tooth still has sinews attached to it and can fit around your neck.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    42993
-  ]
-}
+{"internalId":564197869,"name":"Nindaeril's Tooth of the Green Pact","description":"This tooth still has sinews attached to it and can fit around your neck.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[42993]}

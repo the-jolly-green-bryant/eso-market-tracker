@@ -1,10 +1,1 @@
-{
-  "internalId": 981153444,
-  "name": "Dark Elf Carpet, Ashen",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_rug003.png",
-  "bindType": -1,
-  "knownIds": [
-    115330
-  ]
-}
+{"internalId":981153444,"name":"Dark Elf Carpet, Ashen","description":"This is a standard house item.","icon":"data/images/30/0g/ur/housing_dun_inc_rug003.png","bindType":-1,"knownIds":[115330]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3088484564,
-  "name": "lesser Glyph of Absorb Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_magickaabsorbtion.png",
-  "bindType": -1,
-  "knownIds": [
-    1471015
-  ]
-}
+{"internalId":3088484564,"name":"lesser Glyph of Absorb Magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_magickaabsorbtion.png","bindType":-1,"knownIds":[1471015]}

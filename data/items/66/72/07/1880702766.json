@@ -1,10 +1,1 @@
-{
-  "internalId": 1880702766,
-  "name": "Praxis: Markarth Stairway, Wide Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    171796
-  ]
-}
+{"internalId":1880702766,"name":"Praxis: Markarth Stairway, Wide Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[171796]}

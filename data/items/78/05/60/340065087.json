@@ -1,10 +1,1 @@
-{
-  "internalId": 340065087,
-  "name": "Orcish Throne, Peaked",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgthrone002.png",
-  "bindType": -1,
-  "knownIds": [
-    116446
-  ]
-}
+{"internalId":340065087,"name":"Orcish Throne, Peaked","description":"This is a standard house item.","icon":"data/images/20/0e/no/housing_orc_fur_wtgthrone002.png","bindType":-1,"knownIds":[116446]}

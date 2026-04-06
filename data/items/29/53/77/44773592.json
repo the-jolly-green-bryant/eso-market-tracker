@@ -1,10 +1,1 @@
-{
-  "internalId": 44773592,
-  "name": "Radish",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_radish.png",
-  "bindType": -1,
-  "knownIds": [
-    34307
-  ]
-}
+{"internalId":44773592,"name":"Radish","description":"An ingredient for crafting food.","icon":"data/images/hs/id/ar/crafting_radish.png","bindType":-1,"knownIds":[34307]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1733573052,
-  "name": "Style Page: Fanged Worm Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": -1,
-  "knownIds": [
-    1331883
-  ]
-}
+{"internalId":1733573052,"name":"Style Page: Fanged Worm Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png","bindType":-1,"knownIds":[1331883]}

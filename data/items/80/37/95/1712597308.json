@@ -1,10 +1,1 @@
-{
-  "internalId": 1712597308,
-  "name": "Belt of Critical Riposte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    158685
-  ]
-}
+{"internalId":1712597308,"name":"Belt of Critical Riposte","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[158685]}

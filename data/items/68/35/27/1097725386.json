@@ -1,10 +1,1 @@
-{
-  "internalId": 1097725386,
-  "name": "Greymoor Skullcap",
-  "description": "Vampiric headgear acquired in Blackreach's Greymoor Keep.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_helmet.png",
-  "bindType": 2,
-  "knownIds": [
-    159714
-  ]
-}
+{"internalId":1097725386,"name":"Greymoor Skullcap","description":"Vampiric headgear acquired in Blackreach's Greymoor Keep.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_helmet.png","bindType":2,"knownIds":[159714]}

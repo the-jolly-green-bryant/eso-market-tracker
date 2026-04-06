@@ -1,10 +1,1 @@
-{
-  "internalId": 3859165061,
-  "name": "Ink of a Different Color",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_potion_001.png",
-  "bindType": -1,
-  "knownIds": [
-    404126
-  ]
-}
+{"internalId":3859165061,"name":"Ink of a Different Color","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_potion_001.png","bindType":-1,"knownIds":[404126]}

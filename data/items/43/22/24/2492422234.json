@@ -1,10 +1,1 @@
-{
-  "internalId": 2492422234,
-  "name": "Timeless Braided Cord",
-  "description": "Gahgdar might not remember asking you to retrieve a precious book, but he was grateful enough to reward you with this necklace.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54478
-  ]
-}
+{"internalId":2492422234,"name":"Timeless Braided Cord","description":"Gahgdar might not remember asking you to retrieve a precious book, but he was grateful enough to reward you with this necklace.","icon":"data/images/a_/kc/en/gear_redguard_neck_a.png","bindType":2,"knownIds":[54478]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2927487425,
-  "name": "The Story of Princess Eselde",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1418324
-  ]
-}
+{"internalId":2927487425,"name":"The Story of Princess Eselde","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1418324]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4082993191,
-  "name": "Bolt of Iridescent Spidersilk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png",
-  "bindType": -1,
-  "knownIds": [
-    668360
-  ]
-}
+{"internalId":4082993191,"name":"Bolt of Iridescent Spidersilk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png","bindType":-1,"knownIds":[668360]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3056369713,
-  "name": "Apocrypha Specimen Jar, Tomeshell Viscera",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarscroll002.png",
-  "bindType": -1,
-  "knownIds": [
-    198388
-  ]
-}
+{"internalId":3056369713,"name":"Apocrypha Specimen Jar, Tomeshell Viscera","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarscroll002.png","bindType":-1,"knownIds":[198388]}

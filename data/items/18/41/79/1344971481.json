@@ -1,10 +1,1 @@
-{
-  "internalId": 1344971481,
-  "name": "Glow Worm Farm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png",
-  "bindType": -1,
-  "knownIds": [
-    845838
-  ]
-}
+{"internalId":1344971481,"name":"Glow Worm Farm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png","bindType":-1,"knownIds":[845838]}

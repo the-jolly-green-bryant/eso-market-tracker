@@ -1,10 +1,1 @@
-{
-  "internalId": 4131357548,
-  "name": "Cold Radishes in Rice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_001.png",
-  "bindType": -1,
-  "knownIds": [
-    32070
-  ]
-}
+{"internalId":4131357548,"name":"Cold Radishes in Rice","description":"","icon":"data/images/10/0_/lw/crafting_bowl_001.png","bindType":-1,"knownIds":[32070]}

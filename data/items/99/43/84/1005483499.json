@@ -1,10 +1,1 @@
-{
-  "internalId": 1005483499,
-  "name": "Still Life in Death Painting, Wood",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting010.png",
-  "bindType": -1,
-  "knownIds": [
-    166446
-  ]
-}
+{"internalId":1005483499,"name":"Still Life in Death Painting, Wood","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirepainting010.png","bindType":-1,"knownIds":[166446]}

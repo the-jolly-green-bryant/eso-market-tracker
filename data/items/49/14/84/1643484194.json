@@ -1,10 +1,1 @@
-{
-  "internalId": 1643484194,
-  "name": "Diagram: Fireplace Grate, Wrought Iron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    139585
-  ]
-}
+{"internalId":1643484194,"name":"Diagram: Fireplace Grate, Wrought Iron","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[139585]}

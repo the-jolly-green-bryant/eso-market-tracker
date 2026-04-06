@@ -1,10 +1,1 @@
-{
-  "internalId": 799135717,
-  "name": "Fellowship's Fortitude Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    216207
-  ]
-}
+{"internalId":799135717,"name":"Fellowship's Fortitude Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[216207]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1385580926,
-  "name": "Dwarven Urn, Masks",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_conjurationcoffer001.png",
-  "bindType": -1,
-  "knownIds": [
-    175763
-  ]
-}
+{"internalId":1385580926,"name":"Dwarven Urn, Masks","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_conjurationcoffer001.png","bindType":-1,"knownIds":[175763]}

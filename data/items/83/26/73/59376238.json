@@ -1,10 +1,1 @@
-{
-  "internalId": 59376238,
-  "name": "Inflated Netch Bladder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1157027
-  ]
-}
+{"internalId":59376238,"name":"Inflated Netch Bladder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[1157027]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2920049018,
-  "name": "Design: Redguard Cup, Full",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    119162
-  ]
-}
+{"internalId":2920049018,"name":"Design: Redguard Cup, Full","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[119162]}

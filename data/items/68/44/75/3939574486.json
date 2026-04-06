@@ -1,10 +1,1 @@
-{
-  "internalId": 3939574486,
-  "name": "Boots of the Red Mountain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ashlander_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85052
-  ]
-}
+{"internalId":3939574486,"name":"Boots of the Red Mountain","description":"","icon":"data/images/a_/te/ef/gear_ashlander_feet_a.png","bindType":2,"knownIds":[85052]}

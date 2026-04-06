@@ -1,10 +1,1 @@
-{
-  "internalId": 2821126638,
-  "name": "Gods and Worship in Tamriel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png",
-  "bindType": -1,
-  "knownIds": [
-    1095917
-  ]
-}
+{"internalId":2821126638,"name":"Gods and Worship in Tamriel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsarcanebook001.png","bindType":-1,"knownIds":[1095917]}

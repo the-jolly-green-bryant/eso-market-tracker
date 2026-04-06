@@ -1,10 +1,1 @@
-{
-  "internalId": 104778841,
-  "name": "Thunderbug Eggs",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    800872
-  ]
-}
+{"internalId":104778841,"name":"Thunderbug Eggs","description":"","icon":null,"bindType":-1,"knownIds":[800872]}

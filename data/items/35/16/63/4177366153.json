@@ -1,10 +1,1 @@
-{
-  "internalId": 4177366153,
-  "name": "Jack of the Ranger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98300
-  ]
-}
+{"internalId":4177366153,"name":"Jack of the Ranger","description":"","icon":"data/images/d_/ts/eh/gear_bosmer_medium_chest_d.png","bindType":2,"knownIds":[98300]}

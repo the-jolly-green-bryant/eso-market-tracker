@@ -1,17 +1,1 @@
-{
-  "internalId": 528876862,
-  "name": "Harmony in Chaos Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756214,
-    1756395,
-    1760621,
-    1764204,
-    1756214,
-    1756395,
-    1760621,
-    1764204
-  ]
-}
+{"internalId":528876862,"name":"Harmony in Chaos Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png","bindType":-1,"knownIds":[1756214,1756395,1760621,1764204,1756214,1756395,1760621,1764204]}

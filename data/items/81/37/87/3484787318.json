@@ -1,10 +1,1 @@
-{
-  "internalId": 3484787318,
-  "name": "Vampiric Carpet, Standard",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug006.png",
-  "bindType": -1,
-  "knownIds": [
-    165584
-  ]
-}
+{"internalId":3484787318,"name":"Vampiric Carpet, Standard","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirerug006.png","bindType":-1,"knownIds":[165584]}

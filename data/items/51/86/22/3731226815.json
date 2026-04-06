@@ -1,10 +1,1 @@
-{
-  "internalId": 3731226815,
-  "name": "Rules of Teeba-Enoo",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1268248
-  ]
-}
+{"internalId":3731226815,"name":"Rules of Teeba-Enoo","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[1268248]}

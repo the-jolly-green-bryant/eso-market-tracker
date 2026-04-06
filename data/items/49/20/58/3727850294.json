@@ -1,10 +1,1 @@
-{
-  "internalId": 3727850294,
-  "name": "Mushroom, Stinkcap Button",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_vrdinkcap007.png",
-  "bindType": -1,
-  "knownIds": [
-    125602
-  ]
-}
+{"internalId":3727850294,"name":"Mushroom, Stinkcap Button","description":"This is a standard house item.","icon":"data/images/70/0p/ac/housing_veg_fug_vrdinkcap007.png","bindType":-1,"knownIds":[125602]}

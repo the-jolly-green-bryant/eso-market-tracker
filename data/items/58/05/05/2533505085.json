@@ -1,13 +1,1 @@
-{
-  "internalId": 2533505085,
-  "name": "Carved-Bone Key",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_bone.png",
-  "bindType": -1,
-  "knownIds": [
-    1588591,
-    1588593,
-    1588591,
-    1588593
-  ]
-}
+{"internalId":2533505085,"name":"Carved-Bone Key","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_grinddoorkey_bone.png","bindType":-1,"knownIds":[1588591,1588593,1588591,1588593]}

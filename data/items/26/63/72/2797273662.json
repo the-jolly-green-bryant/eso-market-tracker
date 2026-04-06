@@ -1,10 +1,1 @@
-{
-  "internalId": 2797273662,
-  "name": "Redguard Brazier, Garish",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_duc_yokudangoldbrazier001.png",
-  "bindType": -1,
-  "knownIds": [
-    117771
-  ]
-}
+{"internalId":2797273662,"name":"Redguard Brazier, Garish","description":"This is a standard house item.","icon":"data/images/10/0r/ei/housing_red_duc_yokudangoldbrazier001.png","bindType":-1,"knownIds":[117771]}

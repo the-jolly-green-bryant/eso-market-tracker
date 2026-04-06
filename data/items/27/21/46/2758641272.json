@@ -1,10 +1,1 @@
-{
-  "internalId": 2758641272,
-  "name": "Display Case, Large",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_reliccase008.png",
-  "bindType": -1,
-  "knownIds": [
-    139305
-  ]
-}
+{"internalId":2758641272,"name":"Display Case, Large","description":"This is a standard house item.","icon":"data/images/80/0e/sa/housing_sum_inc_reliccase008.png","bindType":-1,"knownIds":[139305]}

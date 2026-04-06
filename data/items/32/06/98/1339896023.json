@@ -1,10 +1,1 @@
-{
-  "internalId": 1339896023,
-  "name": "Footpad's Bracers",
-  "description": "Castoff gloves from a former member of the Thieves Guild, the fingertips are still stained with lock oil and scarred from close calls with traps.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_pyandonean_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    191218
-  ]
-}
+{"internalId":1339896023,"name":"Footpad's Bracers","description":"Castoff gloves from a former member of the Thieves Guild, the fingertips are still stained with lock oil and scarred from close calls with traps.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_pyandonean_medium_hands_a.png","bindType":2,"knownIds":[191218]}

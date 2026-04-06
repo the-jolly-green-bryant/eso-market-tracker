@@ -1,10 +1,1 @@
-{
-  "internalId": 178606443,
-  "name": "Skeletal Remains, Khajiiti Side",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_skeletonkhajiit002.png",
-  "bindType": -1,
-  "knownIds": [
-    118792
-  ]
-}
+{"internalId":178606443,"name":"Skeletal Remains, Khajiiti Side","description":"This is a standard house item.","icon":"data/images/20/0t/ii/housing_gen_exc_skeletonkhajiit002.png","bindType":-1,"knownIds":[118792]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2374327268,
-  "name": "Breeches of the Sun",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    84871
-  ]
-}
+{"internalId":2374327268,"name":"Breeches of the Sun","description":"","icon":"data/images/d_/sg/el/gear_breton_light_legs_d.png","bindType":2,"knownIds":[84871]}

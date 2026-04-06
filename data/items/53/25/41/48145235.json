@@ -1,10 +1,1 @@
-{
-  "internalId": 48145235,
-  "name": "Fabricant Tree, Vibrant Cherry Blossom",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_clkpinkbonsai003.png",
-  "bindType": -1,
-  "knownIds": [
-    134310
-  ]
-}
+{"internalId":48145235,"name":"Fabricant Tree, Vibrant Cherry Blossom","description":"This is a large house item.","icon":"data/images/30/0i/as/housing_tre_fan_clkpinkbonsai003.png","bindType":-1,"knownIds":[134310]}

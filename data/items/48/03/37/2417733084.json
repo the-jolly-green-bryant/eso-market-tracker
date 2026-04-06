@@ -1,10 +1,1 @@
-{
-  "internalId": 2417733084,
-  "name": "Orzorga's Red Frothgar",
-  "description": "Ice-cold dredged berry mash, in the old Orcish style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
-  "bindType": -1,
-  "knownIds": [
-    71056
-  ]
-}
+{"internalId":2417733084,"name":"Orzorga's Red Frothgar","description":"Ice-cold dredged berry mash, in the old Orcish style.","icon":"data/images/50/0_/ae/crafting_tea_005.png","bindType":-1,"knownIds":[71056]}

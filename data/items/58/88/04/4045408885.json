@@ -1,10 +1,1 @@
-{
-  "internalId": 4045408885,
-  "name": "Skald-King's Greaves",
-  "description": "Jorunn the Skald-King gave you these greaves for entering his dreams and saving him from the Daedric poison at Mistwatch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7724
-  ]
-}
+{"internalId":4045408885,"name":"Skald-King's Greaves","description":"Jorunn the Skald-King gave you these greaves for entering his dreams and saving him from the Daedric poison at Mistwatch.","icon":"data/images/d_/sg/el/gear_nord_heavy_legs_d.png","bindType":2,"knownIds":[7724]}

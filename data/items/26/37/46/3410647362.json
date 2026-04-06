@@ -1,10 +1,1 @@
-{
-  "internalId": 3410647362,
-  "name": "Forgotten Adventurer's Cuirass",
-  "description": "This heavy plate is fitting attire for the fledging journeys of a new adventurer.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    192384
-  ]
-}
+{"internalId":3410647362,"name":"Forgotten Adventurer's Cuirass","description":"This heavy plate is fitting attire for the fledging journeys of a new adventurer.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_a.png","bindType":2,"knownIds":[192384]}

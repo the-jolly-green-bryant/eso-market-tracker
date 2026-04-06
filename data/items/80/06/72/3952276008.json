@@ -1,10 +1,1 @@
-{
-  "internalId": 3952276008,
-  "name": "Dark Elf Medallion, Tribunal",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_sculpturetriblade001.png",
-  "bindType": -1,
-  "knownIds": [
-    115333
-  ]
-}
+{"internalId":3952276008,"name":"Dark Elf Medallion, Tribunal","description":"This is a large house item.","icon":"data/images/10/0e/da/housing_dun_inc_sculpturetriblade001.png","bindType":-1,"knownIds":[115333]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2341622374,
-  "name": "Storeroom Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    824847
-  ]
-}
+{"internalId":2341622374,"name":"Storeroom Key","description":"","icon":null,"bindType":-1,"knownIds":[824847]}

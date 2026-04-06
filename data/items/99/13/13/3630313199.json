@@ -1,10 +1,1 @@
-{
-  "internalId": 3630313199,
-  "name": "Companion's Epaulets",
-  "description": "Only Companions may equip this item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_shoulders_light.png",
-  "bindType": 2,
-  "knownIds": [
-    177193
-  ]
-}
+{"internalId":3630313199,"name":"Companion's Epaulets","description":"Only Companions may equip this item.","icon":"https://esoicons.uesp.net/esoui/art/icons/companions_u30_equipment_shoulders_light.png","bindType":2,"knownIds":[177193]}

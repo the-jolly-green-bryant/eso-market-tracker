@@ -1,10 +1,1 @@
-{
-  "internalId": 169850810,
-  "name": "Common Cleaver, Cooking",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_cleaver001.png",
-  "bindType": -1,
-  "knownIds": [
-    118024
-  ]
-}
+{"internalId":169850810,"name":"Common Cleaver, Cooking","description":"This is a tiny house item.","icon":"data/images/10/0r/ev/housing_bre_inc_cleaver001.png","bindType":-1,"knownIds":[118024]}

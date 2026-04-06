@@ -1,10 +1,1 @@
-{
-  "internalId": 1774494940,
-  "name": "Rough Block, Dark Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_duc_wallbrick002.png",
-  "bindType": -1,
-  "knownIds": [
-    117984
-  ]
-}
+{"internalId":1774494940,"name":"Rough Block, Dark Stone","description":"This is a standard house item.","icon":"data/images/20/0k/ci/housing_imp_duc_wallbrick002.png","bindType":-1,"knownIds":[117984]}

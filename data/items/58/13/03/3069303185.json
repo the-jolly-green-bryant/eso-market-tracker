@@ -1,10 +1,1 @@
-{
-  "internalId": 3069303185,
-  "name": "Minature Slippers of Rajhin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1369613
-  ]
-}
+{"internalId":3069303185,"name":"Minature Slippers of Rajhin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[1369613]}

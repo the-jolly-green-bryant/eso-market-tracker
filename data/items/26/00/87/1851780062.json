@@ -1,10 +1,1 @@
-{
-  "internalId": 1851780062,
-  "name": "Crafting Motif 122: Dead Keeper Boots",
-  "description": "Use to learn how to make Dead Keeper Boots. Also teaches the equivalent Dead Keeper Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    194516
-  ]
-}
+{"internalId":1851780062,"name":"Crafting Motif 122: Dead Keeper Boots","description":"Use to learn how to make Dead Keeper Boots. Also teaches the equivalent Dead Keeper Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[194516]}

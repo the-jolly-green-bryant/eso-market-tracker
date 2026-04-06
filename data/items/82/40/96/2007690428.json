@@ -1,10 +1,1 @@
-{
-  "internalId": 2007690428,
-  "name": "Dark Elf Bed, Full",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_doublebed001.png",
-  "bindType": -1,
-  "knownIds": [
-    115297
-  ]
-}
+{"internalId":2007690428,"name":"Dark Elf Bed, Full","description":"This is a large house item.","icon":"data/images/10/0d/eb/housing_dun_fur_doublebed001.png","bindType":-1,"knownIds":[115297]}

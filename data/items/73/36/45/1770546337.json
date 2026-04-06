@@ -1,10 +1,1 @@
-{
-  "internalId": 1770546337,
-  "name": "Azureblight Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_2hmace_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1688087
-  ]
-}
+{"internalId":1770546337,"name":"Azureblight Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_stagszen_2hmace_a.png","bindType":-1,"knownIds":[1688087]}

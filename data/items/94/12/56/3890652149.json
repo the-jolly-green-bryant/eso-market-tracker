@@ -1,10 +1,1 @@
-{
-  "internalId": 3890652149,
-  "name": "Diagram: Orcish Trunk, Heavy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119049
-  ]
-}
+{"internalId":3890652149,"name":"Diagram: Orcish Trunk, Heavy","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119049]}

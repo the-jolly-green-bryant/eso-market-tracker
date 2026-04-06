@@ -1,10 +1,1 @@
-{
-  "internalId": 294861748,
-  "name": "Split-Bolt",
-  "description": "The head of this staff splits, almost as if cloven by lightning.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    208158
-  ]
-}
+{"internalId":294861748,"name":"Split-Bolt","description":"The head of this staff splits, almost as if cloven by lightning.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png","bindType":2,"knownIds":[208158]}

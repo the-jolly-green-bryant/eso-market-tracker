@@ -1,10 +1,1 @@
-{
-  "internalId": 1131569129,
-  "name": "Warrior-Poet's Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122769
-  ]
-}
+{"internalId":1131569129,"name":"Warrior-Poet's Greaves","description":"","icon":"data/images/a_/sg/el/gear_redoran_heavy_legs_a.png","bindType":2,"knownIds":[122769]}

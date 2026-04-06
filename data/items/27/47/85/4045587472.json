@@ -1,10 +1,1 @@
-{
-  "internalId": 4045587472,
-  "name": "Mark of the Legion",
-  "description": "This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_markofthelegion.png",
-  "bindType": -1,
-  "knownIds": [
-    64569
-  ]
-}
+{"internalId":4045587472,"name":"Mark of the Legion","description":"This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.","icon":"data/images/no/ig/el/quest_markofthelegion.png","bindType":-1,"knownIds":[64569]}

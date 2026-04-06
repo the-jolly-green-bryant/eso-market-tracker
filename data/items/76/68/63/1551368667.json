@@ -1,10 +1,1 @@
-{
-  "internalId": 1551368667,
-  "name": "Maul of the Arena",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56073
-  ]
-}
+{"internalId":1551368667,"name":"Maul of the Arena","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[56073]}

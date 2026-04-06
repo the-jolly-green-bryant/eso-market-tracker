@@ -1,10 +1,1 @@
-{
-  "internalId": 2608791119,
-  "name": "Runebox: Apple-Bobbing Cauldron",
-  "description": "Contains an Apple-Bobbing Cauldron Memento. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
-  "bindType": -1,
-  "knownIds": [
-    141915
-  ]
-}
+{"internalId":2608791119,"name":"Runebox: Apple-Bobbing Cauldron","description":"Contains an Apple-Bobbing Cauldron Memento. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its contents are bound to your account.","icon":"data/images/10/0_/hp/container_sealed_polymorph_001.png","bindType":-1,"knownIds":[141915]}

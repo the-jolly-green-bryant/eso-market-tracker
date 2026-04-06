@@ -1,10 +1,1 @@
-{
-  "internalId": 2598894665,
-  "name": "Robe of a Mother's Sorrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97400
-  ]
-}
+{"internalId":2598894665,"name":"Robe of a Mother's Sorrow","description":"","icon":"data/images/d_/eb/or/gear_argonian_light_robe_d.png","bindType":2,"knownIds":[97400]}

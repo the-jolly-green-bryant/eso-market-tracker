@@ -1,10 +1,1 @@
-{
-  "internalId": 2475230805,
-  "name": "Recipe: Infernal Infusion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57025
-  ]
-}
+{"internalId":2475230805,"name":"Recipe: Infernal Infusion","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57025]}

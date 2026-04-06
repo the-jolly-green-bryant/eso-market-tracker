@@ -1,10 +1,1 @@
-{
-  "internalId": 1389086662,
-  "name": "Murkmire Sarcophagus, Empty",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_sarcophagus001.png",
-  "bindType": -1,
-  "knownIds": [
-    145333
-  ]
-}
+{"internalId":1389086662,"name":"Murkmire Sarcophagus, Empty","description":"This is a standard house item.","icon":"data/images/10/0s/ug/housing_arg_duc_sarcophagus001.png","bindType":-1,"knownIds":[145333]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 737312647,
-  "name": "Bound Affix Script: Heroism",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_heroism.png",
-  "bindType": -1,
-  "knownIds": [
-    1721100
-  ]
-}
+{"internalId":737312647,"name":"Bound Affix Script: Heroism","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_heroism.png","bindType":-1,"knownIds":[1721100]}

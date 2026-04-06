@@ -1,10 +1,1 @@
-{
-  "internalId": 1831825642,
-  "name": "Dwarven Hatch, Sealed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_spiderhatchwall001.png",
-  "bindType": -1,
-  "knownIds": [
-    175762
-  ]
-}
+{"internalId":1831825642,"name":"Dwarven Hatch, Sealed","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dwe_inc_spiderhatchwall001.png","bindType":-1,"knownIds":[175762]}

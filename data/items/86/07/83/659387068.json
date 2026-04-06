@@ -1,10 +1,1 @@
-{
-  "internalId": 659387068,
-  "name": "Khajiit Brazier, Hanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_chandaleir001.png",
-  "bindType": -1,
-  "knownIds": [
-    115702
-  ]
-}
+{"internalId":659387068,"name":"Khajiit Brazier, Hanging","description":"This is a standard house item.","icon":"data/images/10/0r/ie/housing_kha_lsb_chandaleir001.png","bindType":-1,"knownIds":[115702]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2255360219,
-  "name": "Vampiric Container, Congealed Liquid",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabjar008.png",
-  "bindType": -1,
-  "knownIds": [
-    181493
-  ]
-}
+{"internalId":2255360219,"name":"Vampiric Container, Congealed Liquid","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabjar008.png","bindType":-1,"knownIds":[181493]}

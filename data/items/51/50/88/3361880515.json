@@ -1,10 +1,1 @@
-{
-  "internalId": 3361880515,
-  "name": "Carpet of the Oasis, Faded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmallworn002.png",
-  "bindType": -1,
-  "knownIds": [
-    118159
-  ]
-}
+{"internalId":3361880515,"name":"Carpet of the Oasis, Faded","description":"This is a standard house item.","icon":"data/images/20/0n/ro/housing_red_inc_rugsmallworn002.png","bindType":-1,"knownIds":[118159]}

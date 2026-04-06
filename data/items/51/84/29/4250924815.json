@@ -1,10 +1,1 @@
-{
-  "internalId": 4250924815,
-  "name": "Rug, Love-Blessed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_heartsdayrug001.png",
-  "bindType": -1,
-  "knownIds": [
-    156773
-  ]
-}
+{"internalId":4250924815,"name":"Rug, Love-Blessed","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_heartsdayrug001.png","bindType":-1,"knownIds":[156773]}

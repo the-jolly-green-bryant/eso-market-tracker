@@ -1,10 +1,1 @@
-{
-  "internalId": 4173270019,
-  "name": "Diagram: Redguard Censer, Hanging Bell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    119218
-  ]
-}
+{"internalId":4173270019,"name":"Diagram: Redguard Censer, Hanging Bell","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[119218]}

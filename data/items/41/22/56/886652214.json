@@ -1,10 +1,1 @@
-{
-  "internalId": 886652214,
-  "name": "Wet Gunny Sack",
-  "description": "A soaking wet sack, snagged by your fishing line. It sounds like there's something inside.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43757
-  ]
-}
+{"internalId":886652214,"name":"Wet Gunny Sack","description":"A soaking wet sack, snagged by your fishing line. It sounds like there's something inside.","icon":"data/images/10/0_/kc/justice_stolen_sack_001.png","bindType":-1,"knownIds":[43757]}

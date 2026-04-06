@@ -1,10 +1,1 @@
-{
-  "internalId": 2922470262,
-  "name": "Hearts Week Garland, Curved Long Ribbon",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekgarland002.png",
-  "bindType": -1,
-  "knownIds": [
-    223846
-  ]
-}
+{"internalId":2922470262,"name":"Hearts Week Garland, Curved Long Ribbon","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekgarland002.png","bindType":-1,"knownIds":[223846]}

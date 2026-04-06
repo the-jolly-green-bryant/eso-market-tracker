@@ -1,10 +1,1 @@
-{
-  "internalId": 284918484,
-  "name": "Battle Axe of the Order's Wrath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185109
-  ]
-}
+{"internalId":284918484,"name":"Battle Axe of the Order's Wrath","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[185109]}

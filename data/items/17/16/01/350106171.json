@@ -1,10 +1,1 @@
-{
-  "internalId": 350106171,
-  "name": "Original Aldcroft Meat Grinder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    673477
-  ]
-}
+{"internalId":350106171,"name":"Original Aldcroft Meat Grinder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[673477]}

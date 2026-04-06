@@ -1,10 +1,1 @@
-{
-  "internalId": 134377997,
-  "name": "Macabre Vintage Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    205213
-  ]
-}
+{"internalId":134377997,"name":"Macabre Vintage Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_medium_head_a.png","bindType":2,"knownIds":[205213]}

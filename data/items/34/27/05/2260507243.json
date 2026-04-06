@@ -1,10 +1,1 @@
-{
-  "internalId": 2260507243,
-  "name": "Ivory Brigade Clasp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_ivory_brigade.png",
-  "bindType": -1,
-  "knownIds": [
-    171911
-  ]
-}
+{"internalId":2260507243,"name":"Ivory Brigade Clasp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_ivory_brigade.png","bindType":-1,"knownIds":[171911]}

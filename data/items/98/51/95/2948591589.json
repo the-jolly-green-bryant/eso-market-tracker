@@ -1,10 +1,1 @@
-{
-  "internalId": 2948591589,
-  "name": "Orcish Grand Table with Skins",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgtablewidea002.png",
-  "bindType": -1,
-  "knownIds": [
-    116506
-  ]
-}
+{"internalId":2948591589,"name":"Orcish Grand Table with Skins","description":"This is a large house item.","icon":"data/images/20/0a/ed/housing_orc_fur_wtgtablewidea002.png","bindType":-1,"knownIds":[116506]}

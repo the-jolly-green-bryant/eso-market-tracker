@@ -1,10 +1,1 @@
-{
-  "internalId": 180337878,
-  "name": "Metal Smoking Pipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1194750
-  ]
-}
+{"internalId":180337878,"name":"Metal Smoking Pipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png","bindType":-1,"knownIds":[1194750]}

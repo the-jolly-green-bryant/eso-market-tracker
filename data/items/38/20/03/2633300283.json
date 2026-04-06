@@ -1,10 +1,1 @@
-{
-  "internalId": 2633300283,
-  "name": "Elsweyr Fabric, Hanging",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_merchantrackfabric004.png",
-  "bindType": -1,
-  "knownIds": [
-    151679
-  ]
-}
+{"internalId":2633300283,"name":"Elsweyr Fabric, Hanging","description":"This is a standard house item.","icon":"data/images/40/0c/ir/housing_els_exc_merchantrackfabric004.png","bindType":-1,"knownIds":[151679]}

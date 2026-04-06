@@ -1,10 +1,1 @@
-{
-  "internalId": 3413134894,
-  "name": "Witchman's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_medium_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101676
-  ]
-}
+{"internalId":3413134894,"name":"Witchman's Belt","description":"","icon":"data/images/a_/ts/ia/gear_reach_medium_waist_a.png","bindType":2,"knownIds":[101676]}

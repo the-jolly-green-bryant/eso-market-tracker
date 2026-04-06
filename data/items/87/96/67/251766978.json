@@ -1,10 +1,1 @@
-{
-  "internalId": 251766978,
-  "name": "Greatsword of the Gorethief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    224626
-  ]
-}
+{"internalId":251766978,"name":"Greatsword of the Gorethief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":2,"knownIds":[224626]}

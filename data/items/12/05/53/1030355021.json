@@ -1,10 +1,1 @@
-{
-  "internalId": 1030355021,
-  "name": "Natural Water",
-  "description": "An Ingredient for crafting level 3 potions",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_forester_potion_vendor_001.png",
-  "bindType": -1,
-  "knownIds": [
-    883
-  ]
-}
+{"internalId":1030355021,"name":"Natural Water","description":"An Ingredient for crafting level 3 potions","icon":"data/images/10/0_/ro/crafting_forester_potion_vendor_001.png","bindType":-1,"knownIds":[883]}

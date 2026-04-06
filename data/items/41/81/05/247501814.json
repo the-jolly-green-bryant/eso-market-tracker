@@ -1,10 +1,1 @@
-{
-  "internalId": 247501814,
-  "name": "Pattern: Apocrypha Book Press",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    203322
-  ]
-}
+{"internalId":247501814,"name":"Pattern: Apocrypha Book Press","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[203322]}

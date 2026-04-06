@@ -1,10 +1,1 @@
-{
-  "internalId": 3437192291,
-  "name": "Senche's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    121254
-  ]
-}
+{"internalId":3437192291,"name":"Senche's Shield","description":"","icon":"data/images/d_/dl/ei/gear_khajiit_shield_d.png","bindType":2,"knownIds":[121254]}

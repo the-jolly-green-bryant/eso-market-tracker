@@ -1,10 +1,1 @@
-{
-  "internalId": 2818826434,
-  "name": "Bow of the Gorethief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    224628
-  ]
-}
+{"internalId":2818826434,"name":"Bow of the Gorethief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png","bindType":2,"knownIds":[224628]}

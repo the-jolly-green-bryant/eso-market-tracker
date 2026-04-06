@@ -1,10 +1,1 @@
-{
-  "internalId": 825203490,
-  "name": "Ashlander's Rebuke",
-  "description": "After avenging the Andalen brothers' father and setting fire to the Vereansu supply stores, Tennus Andalen gave you this axe.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4310
-  ]
-}
+{"internalId":825203490,"name":"Ashlander's Rebuke","description":"After avenging the Andalen brothers' father and setting fire to the Vereansu supply stores, Tennus Andalen gave you this axe.","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[4310]}

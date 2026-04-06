@@ -1,10 +1,1 @@
-{
-  "internalId": 393749831,
-  "name": "Xanmeer Genesis Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipofstirk_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223512
-  ]
-}
+{"internalId":393749831,"name":"Xanmeer Genesis Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipofstirk_light_hands_a.png","bindType":2,"knownIds":[223512]}

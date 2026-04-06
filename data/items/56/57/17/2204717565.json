@@ -1,10 +1,1 @@
-{
-  "internalId": 2204717565,
-  "name": "Fargrave Stairway, Wide Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farwalkwaystairs003.png",
-  "bindType": -1,
-  "knownIds": [
-    184090
-  ]
-}
+{"internalId":2204717565,"name":"Fargrave Stairway, Wide Stone","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farwalkwaystairs003.png","bindType":-1,"knownIds":[184090]}

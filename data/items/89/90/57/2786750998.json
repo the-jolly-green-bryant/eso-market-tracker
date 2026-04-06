@@ -1,10 +1,1 @@
-{
-  "internalId": 2786750998,
-  "name": "Darkgazer Helm",
-  "description": "Layers of spores and long, dusty years in the shadows of Blackreach have done little to rob this helm of its strength.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167419
-  ]
-}
+{"internalId":2786750998,"name":"Darkgazer Helm","description":"Layers of spores and long, dusty years in the shadows of Blackreach have done little to rob this helm of its strength.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_lgt_head_a.png","bindType":2,"knownIds":[167419]}

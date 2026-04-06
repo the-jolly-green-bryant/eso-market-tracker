@@ -1,10 +1,1 @@
-{
-  "internalId": 556139145,
-  "name": "Clockwork Provisioning Station",
-  "description": "When placed in your home, allows you to craft Provisioning items.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_provisioning001.png",
-  "bindType": -1,
-  "knownIds": [
-    134277
-  ]
-}
+{"internalId":556139145,"name":"Clockwork Provisioning Station","description":"When placed in your home, allows you to craft Provisioning items.","icon":"data/images/10/0g/ni/housing_cwc_crf_provisioning001.png","bindType":-1,"knownIds":[134277]}

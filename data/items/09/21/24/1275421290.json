@@ -1,10 +1,1 @@
-{
-  "internalId": 1275421290,
-  "name": "Praxis: Orcish Throne, Engraved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    119077
-  ]
-}
+{"internalId":1275421290,"name":"Praxis: Orcish Throne, Engraved","description":"","icon":"data/images/5g/ni/tn/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[119077]}

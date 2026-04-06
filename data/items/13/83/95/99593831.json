@@ -1,10 +1,1 @@
-{
-  "internalId": 99593831,
-  "name": "Khenarthi's Wings Chai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_002.png",
-  "bindType": -1,
-  "knownIds": [
-    61075
-  ]
-}
+{"internalId":99593831,"name":"Khenarthi's Wings Chai","description":"","icon":"data/images/20/0_/ae/crafting_tea_002.png","bindType":-1,"knownIds":[61075]}

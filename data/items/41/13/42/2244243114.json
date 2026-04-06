@@ -1,10 +1,1 @@
-{
-  "internalId": 2244243114,
-  "name": "Shipment of Mahogany",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    937462
-  ]
-}
+{"internalId":2244243114,"name":"Shipment of Mahogany","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[937462]}

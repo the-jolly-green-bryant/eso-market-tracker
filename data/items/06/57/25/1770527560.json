@@ -1,10 +1,1 @@
-{
-  "internalId": 1770527560,
-  "name": "Tree, Hooked Dawnwood",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_bosovergrowthtree006.png",
-  "bindType": -1,
-  "knownIds": [
-    217938
-  ]
-}
+{"internalId":1770527560,"name":"Tree, Hooked Dawnwood","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_bosovergrowthtree006.png","bindType":-1,"knownIds":[217938]}

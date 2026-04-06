@@ -1,10 +1,1 @@
-{
-  "internalId": 4174051176,
-  "name": "Leyawiin Armchair, Cushioned",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leychair001.png",
-  "bindType": -1,
-  "knownIds": [
-    175622
-  ]
-}
+{"internalId":4174051176,"name":"Leyawiin Armchair, Cushioned","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leychair001.png","bindType":-1,"knownIds":[175622]}

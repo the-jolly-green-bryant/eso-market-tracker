@@ -1,10 +1,1 @@
-{
-  "internalId": 1867813510,
-  "name": "Design: Necrom Incense, Mushroom Offering",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    197578
-  ]
-}
+{"internalId":1867813510,"name":"Design: Necrom Incense, Mushroom Offering","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[197578]}

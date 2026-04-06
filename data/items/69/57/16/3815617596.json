@@ -1,17 +1,1 @@
-{
-  "internalId": 3815617596,
-  "name": "Black Gem Monstrosity's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765999,
-    1766154,
-    1766156,
-    1774719,
-    1765999,
-    1766154,
-    1766156,
-    1774719
-  ]
-}
+{"internalId":3815617596,"name":"Black Gem Monstrosity's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_shoulder_a.png","bindType":-1,"knownIds":[1765999,1766154,1766156,1774719,1765999,1766154,1766156,1774719]}

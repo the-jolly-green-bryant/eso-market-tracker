@@ -1,10 +1,1 @@
-{
-  "internalId": 1206004221,
-  "name": "Battle Axe of Iron Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179892
-  ]
-}
+{"internalId":1206004221,"name":"Battle Axe of Iron Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[179892]}

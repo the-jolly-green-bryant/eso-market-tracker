@@ -1,10 +1,1 @@
-{
-  "internalId": 2681691886,
-  "name": "Relic Vault, Impenetrable",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_reliccase005.png",
-  "bindType": -1,
-  "knownIds": [
-    141825
-  ]
-}
+{"internalId":2681691886,"name":"Relic Vault, Impenetrable","description":"This is a standard house item.","icon":"data/images/50/0e/sa/housing_sum_inc_reliccase005.png","bindType":-1,"knownIds":[141825]}

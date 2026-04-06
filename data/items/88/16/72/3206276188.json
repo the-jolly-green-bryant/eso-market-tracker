@@ -1,10 +1,1 @@
-{
-  "internalId": 3206276188,
-  "name": "Marksman's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199483
-  ]
-}
+{"internalId":3206276188,"name":"Marksman's Bow","description":"","icon":"data/images/a_/wo/b_/gear_abahswatch_bow_a.png","bindType":2,"knownIds":[79759]}

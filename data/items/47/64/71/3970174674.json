@@ -1,10 +1,1 @@
-{
-  "internalId": 3970174674,
-  "name": "Lorkrata Hills Keepsake",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_021.png",
-  "bindType": -1,
-  "knownIds": [
-    634878
-  ]
-}
+{"internalId":3970174674,"name":"Lorkrata Hills Keepsake","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wrothgar_item_021.png","bindType":-1,"knownIds":[634878]}

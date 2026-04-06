@@ -1,10 +1,1 @@
-{
-  "internalId": 4011611720,
-  "name": "Miremonwe's Magicka Pendant of Necropotence",
-  "description": "A necklace awarded for defeating the Bitterhand Bandit leader, Miremonwe Spellslinger, in Flyleaf Catacombs.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    34889
-  ]
-}
+{"internalId":4011611720,"name":"Miremonwe's Magicka Pendant of Necropotence","description":"A necklace awarded for defeating the Bitterhand Bandit leader, Miremonwe Spellslinger, in Flyleaf Catacombs.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[34889]}

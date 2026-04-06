@@ -1,10 +1,1 @@
-{
-  "internalId": 1545988022,
-  "name": "New Life Snowmortal, Human",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_snowman001.png",
-  "bindType": -1,
-  "knownIds": [
-    146057
-  ]
-}
+{"internalId":1545988022,"name":"New Life Snowmortal, Human","description":"This is a standard house item.","icon":"data/images/10/0n/am/housing_uni_exc_snowman001.png","bindType":-1,"knownIds":[146057]}

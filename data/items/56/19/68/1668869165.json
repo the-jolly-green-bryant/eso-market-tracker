@@ -1,10 +1,1 @@
-{
-  "internalId": 1668869165,
-  "name": "Dagger of Iron Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179895
-  ]
-}
+{"internalId":1668869165,"name":"Dagger of Iron Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[179895]}

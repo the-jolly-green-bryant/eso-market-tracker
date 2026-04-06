@@ -1,10 +1,1 @@
-{
-  "internalId": 2834933798,
-  "name": "Pariel's Torn Hood",
-  "description": "This hood is damaged by a long tear on one side, perhaps left there by Pariel herself.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    10896
-  ]
-}
+{"internalId":2834933798,"name":"Pariel's Torn Hood","description":"This hood is damaged by a long tear on one side, perhaps left there by Pariel herself.","icon":"data/images/d_/da/eh/gear_bosmer_light_head_d.png","bindType":2,"knownIds":[10896]}

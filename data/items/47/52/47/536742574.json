@@ -1,10 +1,1 @@
-{
-  "internalId": 536742574,
-  "name": "Necklace of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    74109
-  ]
-}
+{"internalId":536742574,"name":"Necklace of Fury","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[74109]}

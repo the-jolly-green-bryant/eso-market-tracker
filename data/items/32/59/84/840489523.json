@@ -1,10 +1,1 @@
-{
-  "internalId": 840489523,
-  "name": "Gloom-Graced Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135310
-  ]
-}
+{"internalId":840489523,"name":"Gloom-Graced Dagger","description":"","icon":"data/images/a_/re/gg/gear_nocturnal_dagger_a.png","bindType":2,"knownIds":[135310]}

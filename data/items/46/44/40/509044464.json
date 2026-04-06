@@ -1,10 +1,1 @@
-{
-  "internalId": 509044464,
-  "name": "Sotha Sil Erudition Dice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    506780
-  ]
-}
+{"internalId":509044464,"name":"Sotha Sil Erudition Dice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png","bindType":-1,"knownIds":[506780]}

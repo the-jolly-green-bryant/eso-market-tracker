@@ -1,10 +1,1 @@
-{
-  "internalId": 458485630,
-  "name": "Spool of Fletching Silk",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_swindlers_yarn.png",
-  "bindType": -1,
-  "knownIds": [
-    1386349
-  ]
-}
+{"internalId":458485630,"name":"Spool of Fletching Silk","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_swindlers_yarn.png","bindType":-1,"knownIds":[1386349]}

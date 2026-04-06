@@ -1,15 +1,1 @@
-{
-  "internalId": 3983404398,
-  "name": "Xoryn's Perfected Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1719834,
-    1732422,
-    1779091,
-    1719834,
-    1732422,
-    1779091
-  ]
-}
+{"internalId":3983404398,"name":"Xoryn's Perfected Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_bow_a.png","bindType":-1,"knownIds":[1719834,1732422,1779091,1719834,1732422,1779091]}

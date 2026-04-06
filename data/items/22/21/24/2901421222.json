@@ -1,10 +1,1 @@
-{
-  "internalId": 2901421222,
-  "name": "Rootsplitter",
-  "description": "This axe is coated in a sheen of sticky sap.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43579
-  ]
-}
+{"internalId":2901421222,"name":"Rootsplitter","description":"This axe is coated in a sheen of sticky sap.","icon":"data/images/d_/ex/ah/gear_bosmer_1haxe_d.png","bindType":2,"knownIds":[43579]}

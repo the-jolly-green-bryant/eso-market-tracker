@@ -1,10 +1,1 @@
-{
-  "internalId": 3757577839,
-  "name": "Design: Solitude Bread, Partial Loaf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    166946
-  ]
-}
+{"internalId":3757577839,"name":"Design: Solitude Bread, Partial Loaf","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[166946]}

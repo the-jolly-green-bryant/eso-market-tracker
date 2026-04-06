@@ -1,10 +1,1 @@
-{
-  "internalId": 2381974221,
-  "name": "Dagger of the Spectre's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56459
-  ]
-}
+{"internalId":2381974221,"name":"Dagger of the Spectre's Eye","description":"","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[56459]}

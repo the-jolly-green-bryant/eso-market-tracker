@@ -1,10 +1,1 @@
-{
-  "internalId": 2233135172,
-  "name": "Seht's Mechanical Dreugh",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_diagna_statuette.png",
-  "bindType": -1,
-  "knownIds": [
-    1270784
-  ]
-}
+{"internalId":2233135172,"name":"Seht's Mechanical Dreugh","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_diagna_statuette.png","bindType":-1,"knownIds":[1270784]}

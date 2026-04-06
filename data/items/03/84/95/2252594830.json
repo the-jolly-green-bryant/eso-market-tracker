@@ -1,10 +1,1 @@
-{
-  "internalId": 2252594830,
-  "name": "Silver-Plated Juggling Forks",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    427047
-  ]
-}
+{"internalId":2252594830,"name":"Silver-Plated Juggling Forks","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[427047]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3148991241,
-  "name": "Pattern: Dres Carpet, Fertile Peat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    127032
-  ]
-}
+{"internalId":3148991241,"name":"Pattern: Dres Carpet, Fertile Peat","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[127032]}

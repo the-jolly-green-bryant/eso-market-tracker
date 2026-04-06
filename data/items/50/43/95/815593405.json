@@ -1,10 +1,1 @@
-{
-  "internalId": 815593405,
-  "name": "Redguard Streetlamps, Triple",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_postlight004.png",
-  "bindType": -1,
-  "knownIds": [
-    117751
-  ]
-}
+{"internalId":815593405,"name":"Redguard Streetlamps, Triple","description":"This is a large house item.","icon":"data/images/40/0t/hg/housing_red_lsb_postlight004.png","bindType":-1,"knownIds":[117751]}

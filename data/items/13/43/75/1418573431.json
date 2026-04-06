@@ -1,10 +1,1 @@
-{
-  "internalId": 1418573431,
-  "name": "Thunderbug's Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    99999
-  ]
-}
+{"internalId":1418573431,"name":"Thunderbug's Girdle","description":"","icon":"data/images/a_/ts/ia/gear_primative_heavy_waist_a.png","bindType":2,"knownIds":[99999]}

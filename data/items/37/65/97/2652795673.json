@@ -1,10 +1,1 @@
-{
-  "internalId": 2652795673,
-  "name": "The Brothers' War",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png",
-  "bindType": -1,
-  "knownIds": [
-    1338193
-  ]
-}
+{"internalId":2652795673,"name":"The Brothers' War","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png","bindType":-1,"knownIds":[1338193]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3435325570,
-  "name": "Celdien's Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    522084,
-    506559,
-    789234,
-    522084,
-    506559,
-    789234
-  ]
-}
+{"internalId":3435325570,"name":"Celdien's Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png","bindType":-1,"knownIds":[522084,506559,789234,522084,506559,789234]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1143890139,
-  "name": "Argonian Cologne",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    840163
-  ]
-}
+{"internalId":1143890139,"name":"Argonian Cologne","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[840163]}

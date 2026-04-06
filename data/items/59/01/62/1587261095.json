@@ -1,10 +1,1 @@
-{
-  "internalId": 1587261095,
-  "name": "Mace of High Isle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_mace_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186057
-  ]
-}
+{"internalId":1587261095,"name":"Mace of High Isle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_mace_a.png","bindType":2,"knownIds":[186057]}

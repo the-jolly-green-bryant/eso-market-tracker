@@ -1,10 +1,1 @@
-{
-  "internalId": 3088024138,
-  "name": "Blacksmith Survey: Wrothgar I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795947
-  ]
-}
+{"internalId":3088024138,"name":"Blacksmith Survey: Wrothgar I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[795947]}

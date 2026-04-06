@@ -1,10 +1,1 @@
-{
-  "internalId": 899168098,
-  "name": "Rubedo Hide Scraps",
-  "description": "Ten of these items can be refined to make rubedo leather.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_ambergris.png",
-  "bindType": -1,
-  "knownIds": [
-    71239
-  ]
-}
+{"internalId":899168098,"name":"Rubedo Hide Scraps","description":"Ten of these items can be refined to make rubedo leather.","icon":"data/images/si/rg/re/crafting_leather_ambergris.png","bindType":-1,"knownIds":[71239]}

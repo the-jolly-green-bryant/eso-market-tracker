@@ -1,10 +1,1 @@
-{
-  "internalId": 345982972,
-  "name": "Argonian Paddle, Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_argoar001.png",
-  "bindType": -1,
-  "knownIds": [
-    223167
-  ]
-}
+{"internalId":345982972,"name":"Argonian Paddle, Wooden","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_exc_argoar001.png","bindType":-1,"knownIds":[223167]}

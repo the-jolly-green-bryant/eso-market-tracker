@@ -1,10 +1,1 @@
-{
-  "internalId": 2352661807,
-  "name": "Battlefield Acrobat Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    144425
-  ]
-}
+{"internalId":2352661807,"name":"Battlefield Acrobat Axe","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[144425]}

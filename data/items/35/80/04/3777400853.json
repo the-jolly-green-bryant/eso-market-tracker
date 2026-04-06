@@ -1,10 +1,1 @@
-{
-  "internalId": 3777400853,
-  "name": "Narsis Bantam Guar Hash Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    415993
-  ]
-}
+{"internalId":3777400853,"name":"Narsis Bantam Guar Hash Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[415993]}

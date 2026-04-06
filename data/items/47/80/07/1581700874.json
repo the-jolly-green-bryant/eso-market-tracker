@@ -1,10 +1,1 @@
-{
-  "internalId": 1581700874,
-  "name": "Study Buddy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414351
-  ]
-}
+{"internalId":1581700874,"name":"Study Buddy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[1414351]}

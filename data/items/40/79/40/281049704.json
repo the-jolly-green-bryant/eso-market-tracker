@@ -1,10 +1,1 @@
-{
-  "internalId": 281049704,
-  "name": "Floral Vase",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vase_001.png",
-  "bindType": -1,
-  "knownIds": [
-    436372
-  ]
-}
+{"internalId":281049704,"name":"Floral Vase","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vase_001.png","bindType":-1,"knownIds":[436372]}

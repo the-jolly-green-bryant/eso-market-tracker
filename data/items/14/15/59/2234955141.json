@@ -1,10 +1,1 @@
-{
-  "internalId": 2234955141,
-  "name": "Kotu Gava Blood Cocktail",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1332368
-  ]
-}
+{"internalId":2234955141,"name":"Kotu Gava Blood Cocktail","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[1332368]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2626067096,
-  "name": "King Aphren's Seal",
-  "description": "Worn by King Aphren in life, this unusually heavy ring was given to you for reforging his legendary sword within Aphren's Hold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    2538
-  ]
-}
+{"internalId":2626067096,"name":"King Aphren's Seal","description":"Worn by King Aphren in life, this unusually heavy ring was given to you for reforging his legendary sword within Aphren's Hold.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[2538]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2235966068,
-  "name": "Recipe: Breton Pint of Bitters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54242
-  ]
-}
+{"internalId":2235966068,"name":"Recipe: Breton Pint of Bitters","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[54242]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3577689180,
-  "name": "Crusty Sweetroll",
-  "description": "A common food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_sweet_roll.png",
-  "bindType": -1,
-  "knownIds": [
-    94210
-  ]
-}
+{"internalId":3577689180,"name":"Crusty Sweetroll","description":"A common food.","icon":"data/images/ll/or/_t/crafting_cooking_sweet_roll.png","bindType":-1,"knownIds":[94210]}

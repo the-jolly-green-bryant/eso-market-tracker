@@ -1,10 +1,1 @@
-{
-  "internalId": 2653666522,
-  "name": "Silverhoof Horse Blanket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484125
-  ]
-}
+{"internalId":2653666522,"name":"Silverhoof Horse Blanket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[484125]}

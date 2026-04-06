@@ -1,10 +1,1 @@
-{
-  "internalId": 1319190254,
-  "name": "Night Pumice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_ebony_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    82004
-  ]
-}
+{"internalId":1319190254,"name":"Night Pumice","description":"","icon":"data/images/2r/_y/no/crafting_style_item_ebony_r2.png","bindType":-1,"knownIds":[82004]}

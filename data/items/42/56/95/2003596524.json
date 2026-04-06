@@ -1,10 +1,1 @@
-{
-  "internalId": 2003596524,
-  "name": "Blueprint: Solitude Serving Dish, Wood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    166913
-  ]
-}
+{"internalId":2003596524,"name":"Blueprint: Solitude Serving Dish, Wood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[166913]}

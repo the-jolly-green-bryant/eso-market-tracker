@@ -1,10 +1,1 @@
-{
-  "internalId": 1190484626,
-  "name": "Beldama Foot Rub",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    505818
-  ]
-}
+{"internalId":1190484626,"name":"Beldama Foot Rub","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[505818]}

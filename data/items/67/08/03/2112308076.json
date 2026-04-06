@@ -1,10 +1,1 @@
-{
-  "internalId": 2112308076,
-  "name": "Tenderclaw",
-  "description": "An ancient Khajiiti esraj. Well used, but in excellent condition. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_els_inc_instrumentviolin001.png",
-  "bindType": 3,
-  "knownIds": [
-    156798
-  ]
-}
+{"internalId":2112308076,"name":"Tenderclaw","description":"An ancient Khajiiti esraj. Well used, but in excellent condition. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_els_inc_instrumentviolin001.png","bindType":3,"knownIds":[156798]}

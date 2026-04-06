@@ -1,15 +1,1 @@
-{
-  "internalId": 3771658819,
-  "name": "dram of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    377707,
-    723479,
-    1433240,
-    377707,
-    723479,
-    1433240
-  ]
-}
+{"internalId":3771658819,"name":"dram of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png","bindType":-1,"knownIds":[377707,723479,1433240,377707,723479,1433240]}

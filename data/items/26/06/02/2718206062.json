@@ -1,10 +1,1 @@
-{
-  "internalId": 2718206062,
-  "name": "Recipe: Silverside Perch Pudding",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57012
-  ]
-}
+{"internalId":2718206062,"name":"Recipe: Silverside Perch Pudding","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[57012]}

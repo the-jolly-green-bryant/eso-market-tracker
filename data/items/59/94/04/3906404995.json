@@ -1,10 +1,1 @@
-{
-  "internalId": 3906404995,
-  "name": "Jewelry Crafting Survey: Greenshade",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1243855
-  ]
-}
+{"internalId":3906404995,"name":"Jewelry Crafting Survey: Greenshade","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1243855]}

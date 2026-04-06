@@ -1,10 +1,1 @@
-{
-  "internalId": 757148598,
-  "name": "Chevre-Radish Salad with Pumpkin Seeds",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_004.png",
-  "bindType": -1,
-  "knownIds": [
-    68248
-  ]
-}
+{"internalId":757148598,"name":"Chevre-Radish Salad with Pumpkin Seeds","description":"","icon":"data/images/40/0_/da/crafting_salad_004.png","bindType":-1,"knownIds":[68248]}

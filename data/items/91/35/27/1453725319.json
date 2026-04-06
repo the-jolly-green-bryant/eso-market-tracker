@@ -1,17 +1,1 @@
-{
-  "internalId": 1453725319,
-  "name": "The Master's Perfected Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hsword_e.png",
-  "bindType": -1,
-  "knownIds": [
-    1393070,
-    1402213,
-    1406643,
-    1415068,
-    1393070,
-    1402213,
-    1406643,
-    1415068
-  ]
-}
+{"internalId":1453725319,"name":"The Master's Perfected Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_2hsword_e.png","bindType":-1,"knownIds":[1393070,1402213,1406643,1415068,1393070,1402213,1406643,1415068]}

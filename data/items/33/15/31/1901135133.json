@@ -1,10 +1,1 @@
-{
-  "internalId": 1901135133,
-  "name": "Murkmire Lantern Post, Covered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklanternpostalwayslit001.png",
-  "bindType": -1,
-  "knownIds": [
-    145428
-  ]
-}
+{"internalId":1901135133,"name":"Murkmire Lantern Post, Covered","description":"This is a standard house item.","icon":"data/images/10/0t/il/housing_arg_lsb_mrklanternpostalwayslit001.png","bindType":-1,"knownIds":[145428]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 898104215,
-  "name": "Dark Elf Bookcase, Sectioned",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_bookcaset001.png",
-  "bindType": -1,
-  "knownIds": [
-    115292
-  ]
-}
+{"internalId":898104215,"name":"Dark Elf Bookcase, Sectioned","description":"This is a standard house item.","icon":"data/images/10/0t/es/housing_dun_fur_bookcaset001.png","bindType":-1,"knownIds":[115292]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1091117632,
-  "name": "Clockwork Clothing Station",
-  "description": "When placed in your home, allows you to craft Clothing items.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_tableleatherworking001.png",
-  "bindType": -1,
-  "knownIds": [
-    134281
-  ]
-}
+{"internalId":1091117632,"name":"Clockwork Clothing Station","description":"When placed in your home, allows you to craft Clothing items.","icon":"data/images/10/0g/ni/housing_cwc_crf_tableleatherworking001.png","bindType":-1,"knownIds":[134281]}

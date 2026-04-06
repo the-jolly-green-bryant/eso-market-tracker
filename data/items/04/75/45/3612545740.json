@@ -1,10 +1,1 @@
-{
-  "internalId": 3612545740,
-  "name": "Tharriker's Helm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    205744
-  ]
-}
+{"internalId":3612545740,"name":"Tharriker's Helm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[205744]}

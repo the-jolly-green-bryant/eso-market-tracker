@@ -1,10 +1,1 @@
-{
-  "internalId": 3217975506,
-  "name": "Elf-Stabber's Blade",
-  "description": "In gratitude for your work, Jilan-dar gave you the best sword recovered from Toothmaul Gully.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    212180
-  ]
-}
+{"internalId":3217975506,"name":"Elf-Stabber's Blade","description":"In gratitude for your work, Jilan-dar gave you the best sword recovered from Toothmaul Gully.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hsword_d.png","bindType":2,"knownIds":[212180]}

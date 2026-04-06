@@ -1,11 +1,1 @@
-{
-  "internalId": 4190565955,
-  "name": "Ash Shad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png",
-  "bindType": -1,
-  "knownIds": [
-    824587,
-    824587
-  ]
-}
+{"internalId":4190565955,"name":"Ash Shad","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_river_betty.png","bindType":-1,"knownIds":[824587,824587]}

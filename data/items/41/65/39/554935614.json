@@ -1,10 +1,1 @@
-{
-  "internalId": 554935614,
-  "name": "Diagram: Dres Cannister, Portable",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    127001
-  ]
-}
+{"internalId":554935614,"name":"Diagram: Dres Cannister, Portable","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[127001]}

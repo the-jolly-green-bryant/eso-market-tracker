@@ -1,17 +1,1 @@
-{
-  "internalId": 3002638845,
-  "name": "Magma Incarnate's Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undearthinvarnate_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1525509,
-    1528439,
-    1559592,
-    1577388,
-    1525509,
-    1528439,
-    1559592,
-    1577388
-  ]
-}
+{"internalId":3002638845,"name":"Magma Incarnate's Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undearthinvarnate_head_a.png","bindType":-1,"knownIds":[1525509,1528439,1559592,1577388,1525509,1528439,1559592,1577388]}

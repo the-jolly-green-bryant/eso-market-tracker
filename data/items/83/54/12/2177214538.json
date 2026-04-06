@@ -1,10 +1,1 @@
-{
-  "internalId": 2177214538,
-  "name": "Stone, Slanted Rough",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_auridonsmall003.png",
-  "bindType": -1,
-  "knownIds": [
-    120654
-  ]
-}
+{"internalId":2177214538,"name":"Stone, Slanted Rough","description":"This is a standard house item.","icon":"data/images/30/0l/la/housing_rok_gry_auridonsmall003.png","bindType":-1,"knownIds":[120654]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 525436072,
-  "name": "Blueprint: Redguard Counter, Cabinet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119176
-  ]
-}
+{"internalId":525436072,"name":"Blueprint: Redguard Counter, Cabinet","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[119176]}

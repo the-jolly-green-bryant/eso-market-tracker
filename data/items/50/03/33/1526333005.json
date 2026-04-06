@@ -1,10 +1,1 @@
-{
-  "internalId": 1526333005,
-  "name": "Heavy Trial Sets",
-  "description": "The Heavy Armor item sets, found in Trials (base game, DLC, and Chapter).",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134627
-  ]
-}
+{"internalId":1526333005,"name":"Heavy Trial Sets","description":"The Heavy Armor item sets, found in Trials (base game, DLC, and Chapter).","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134627]}

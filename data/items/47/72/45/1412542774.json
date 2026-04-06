@@ -1,10 +1,1 @@
-{
-  "internalId": 1412542774,
-  "name": "House Tamrith: A Recent History",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1418329
-  ]
-}
+{"internalId":1412542774,"name":"House Tamrith: A Recent History","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1418329]}

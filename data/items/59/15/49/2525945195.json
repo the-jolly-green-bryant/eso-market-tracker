@@ -1,10 +1,1 @@
-{
-  "internalId": 2525945195,
-  "name": "Druidic Post",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_druintlog002.png",
-  "bindType": -1,
-  "knownIds": [
-    193838
-  ]
-}
+{"internalId":2525945195,"name":"Druidic Post","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_druintlog002.png","bindType":-1,"knownIds":[193838]}

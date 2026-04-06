@@ -1,10 +1,1 @@
-{
-  "internalId": 756700539,
-  "name": "Colovian Bookcase, Rustic Bare",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bookcaselow001.png",
-  "bindType": -1,
-  "knownIds": [
-    204637
-  ]
-}
+{"internalId":756700539,"name":"Colovian Bookcase, Rustic Bare","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bookcaselow001.png","bindType":-1,"knownIds":[204637]}

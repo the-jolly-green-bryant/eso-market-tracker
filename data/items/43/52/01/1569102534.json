@@ -1,10 +1,1 @@
-{
-  "internalId": 1569102534,
-  "name": "Diagram: Clockwork Cabinet, Sequence Plaque",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    134509
-  ]
-}
+{"internalId":1569102534,"name":"Diagram: Clockwork Cabinet, Sequence Plaque","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[134509]}

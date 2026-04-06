@@ -1,10 +1,1 @@
-{
-  "internalId": 3042425001,
-  "name": "Lightning Staff of Trials",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    70275
-  ]
-}
+{"internalId":3042425001,"name":"Lightning Staff of Trials","description":"","icon":"data/images/d_/ff/at/gear_breton_staff_d.png","bindType":2,"knownIds":[70275]}

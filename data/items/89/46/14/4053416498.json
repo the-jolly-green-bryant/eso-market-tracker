@@ -1,10 +1,1 @@
-{
-  "internalId": 4053416498,
-  "name": "Runebox: Powderwhite Coney",
-  "description": "Contains a Powderwhite Coney Pet. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox (and its contents) are bound to your account.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png",
-  "bindType": -1,
-  "knownIds": [
-    182487
-  ]
-}
+{"internalId":4053416498,"name":"Runebox: Powderwhite Coney","description":"Contains a Powderwhite Coney Pet. This container can be traded, mailed, and posted to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox (and its contents) are bound to your account.","icon":"https://esoicons.uesp.net/esoui/art/icons/container_sealed_polymorph_001.png","bindType":-1,"knownIds":[182487]}

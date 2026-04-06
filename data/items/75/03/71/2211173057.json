@@ -1,10 +1,1 @@
-{
-  "internalId": 2211173057,
-  "name": "Large Delegate's Chain",
-  "description": "A chain of office made specially for Rigurt the Brash, dedicated cultural ambassador of the Nords.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    188125
-  ]
-}
+{"internalId":2211173057,"name":"Large Delegate's Chain","description":"A chain of office made specially for Rigurt the Brash, dedicated cultural ambassador of the Nords.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[188125]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3946074755,
-  "name": "High Isle Railing Post, Carved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_inthousemedrailingpost001.png",
-  "bindType": -1,
-  "knownIds": [
-    189495
-  ]
-}
+{"internalId":3946074755,"name":"High Isle Railing Post, Carved","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_str_inthousemedrailingpost001.png","bindType":-1,"knownIds":[189495]}

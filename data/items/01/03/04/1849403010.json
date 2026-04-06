@@ -1,10 +1,1 @@
-{
-  "internalId": 1849403010,
-  "name": "Druidic Bowl, Clay",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_druterrabowllarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    191207
-  ]
-}
+{"internalId":1849403010,"name":"Druidic Bowl, Clay","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_druterrabowllarge001.png","bindType":-1,"knownIds":[191207]}

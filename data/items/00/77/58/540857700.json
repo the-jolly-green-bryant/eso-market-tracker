@@ -1,10 +1,1 @@
-{
-  "internalId": 540857700,
-  "name": "Rock, Slanted Lichen",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_auridonsmall002.png",
-  "bindType": -1,
-  "knownIds": [
-    120653
-  ]
-}
+{"internalId":540857700,"name":"Rock, Slanted Lichen","description":"This is a standard house item.","icon":"data/images/20/0l/la/housing_rok_gry_auridonsmall002.png","bindType":-1,"knownIds":[120653]}

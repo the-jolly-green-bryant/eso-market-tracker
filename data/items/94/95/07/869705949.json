@@ -1,10 +1,1 @@
-{
-  "internalId": 869705949,
-  "name": "Trader's Rest Silver Dining Utensils",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png",
-  "bindType": -1,
-  "knownIds": [
-    892830
-  ]
-}
+{"internalId":869705949,"name":"Trader's Rest Silver Dining Utensils","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_utensil_001.png","bindType":-1,"knownIds":[892830]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1390377978,
-  "name": "Beacon of Oblivion Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1734378,
-    1741685,
-    1763763,
-    1734378,
-    1741685,
-    1763763
-  ]
-}
+{"internalId":1390377978,"name":"Beacon of Oblivion Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_hands_a.png","bindType":-1,"knownIds":[1734378,1741685,1763763,1734378,1741685,1763763]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3579714795,
-  "name": "Vossa-Satl Frog Treats Pouch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366934
-  ]
-}
+{"internalId":3579714795,"name":"Vossa-Satl Frog Treats Pouch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[1366934]}

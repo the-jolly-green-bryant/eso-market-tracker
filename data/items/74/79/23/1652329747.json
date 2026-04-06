@@ -1,10 +1,1 @@
-{
-  "internalId": 1652329747,
-  "name": "Sabatons of the Pariah",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_malacath_heavy_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129797
-  ]
-}
+{"internalId":1652329747,"name":"Sabatons of the Pariah","description":"","icon":"data/images/a_/te/ef/gear_malacath_heavy_feet_a.png","bindType":2,"knownIds":[129797]}

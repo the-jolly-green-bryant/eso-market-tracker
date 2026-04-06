@@ -1,10 +1,1 @@
-{
-  "internalId": 3547879085,
-  "name": "Pattern: Deadlands Tapestry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    182959
-  ]
-}
+{"internalId":3547879085,"name":"Pattern: Deadlands Tapestry","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[182959]}

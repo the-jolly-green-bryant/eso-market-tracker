@@ -1,10 +1,1 @@
-{
-  "internalId": 2831445949,
-  "name": "Silver-Chased Three-Tea Samovar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    915775
-  ]
-}
+{"internalId":2831445949,"name":"Silver-Chased Three-Tea Samovar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png","bindType":-1,"knownIds":[915775]}

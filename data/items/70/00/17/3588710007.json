@@ -1,10 +1,1 @@
-{
-  "internalId": 3588710007,
-  "name": "Murkreed Mantle",
-  "description": "The cloth used in this mantle still smells faintly of alchemical reagents and swamp water.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7429
-  ]
-}
+{"internalId":3588710007,"name":"Murkreed Mantle","description":"The cloth used in this mantle still smells faintly of alchemical reagents and swamp water.","icon":"data/images/d_/sr/ed/gear_argonian_light_shoulders_d.png","bindType":2,"knownIds":[7429]}

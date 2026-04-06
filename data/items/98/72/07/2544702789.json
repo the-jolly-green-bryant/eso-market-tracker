@@ -1,10 +1,1 @@
-{
-  "internalId": 2544702789,
-  "name": "Impregnable Armor Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125967
-  ]
-}
+{"internalId":2544702789,"name":"Impregnable Armor Sash","description":"","icon":"data/images/a_/ts/ia/gear_ordinator_light_waist_a.png","bindType":2,"knownIds":[125967]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3950749802,
-  "name": "Alinor Table Runner, Coiled",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_tablerunner003.png",
-  "bindType": -1,
-  "knownIds": [
-    139089
-  ]
-}
+{"internalId":3950749802,"name":"Alinor Table Runner, Coiled","description":"This is a small house item.","icon":"data/images/30/0r/en/housing_sum_fur_tablerunner003.png","bindType":-1,"knownIds":[139089]}

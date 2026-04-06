@@ -1,10 +1,1 @@
-{
-  "internalId": 2493041706,
-  "name": "Recipe: Skingrad Cabbage Soup",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56990
-  ]
-}
+{"internalId":2493041706,"name":"Recipe: Skingrad Cabbage Soup","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56990]}

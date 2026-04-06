@@ -1,10 +1,1 @@
-{
-  "internalId": 1990033045,
-  "name": "Clockwork Somnolostation",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_bed002.png",
-  "bindType": -1,
-  "knownIds": [
-    134332
-  ]
-}
+{"internalId":1990033045,"name":"Clockwork Somnolostation","description":"This is a standard house item.","icon":"data/images/20/0d/eb/housing_cwc_fur_bed002.png","bindType":-1,"knownIds":[134332]}

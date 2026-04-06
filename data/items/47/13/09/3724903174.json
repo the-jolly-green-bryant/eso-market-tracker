@@ -1,10 +1,1 @@
-{
-  "internalId": 3724903174,
-  "name": "Might of the Lost Legion Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143887
-  ]
-}
+{"internalId":3724903174,"name":"Might of the Lost Legion Shoes","description":"","icon":"data/images/d_/te/ef/gear_breton_light_feet_d.png","bindType":2,"knownIds":[143887]}

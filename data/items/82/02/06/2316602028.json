@@ -1,10 +1,1 @@
-{
-  "internalId": 2316602028,
-  "name": "Warrior-Poet's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122753
-  ]
-}
+{"internalId":2316602028,"name":"Warrior-Poet's Mace","description":"","icon":"data/images/a_/re/mm/gear_redoran_1hhammer_a.png","bindType":2,"knownIds":[122753]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2016148833,
-  "name": "Stuhn's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161568
-  ]
-}
+{"internalId":2016148833,"name":"Stuhn's Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":2,"knownIds":[161568]}

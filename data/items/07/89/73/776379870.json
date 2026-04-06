@@ -1,17 +1,1 @@
-{
-  "internalId": 776379870,
-  "name": "Dolorous Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756855,
-    1758504,
-    1771216,
-    1773933,
-    1756855,
-    1758504,
-    1771216,
-    1773933
-  ]
-}
+{"internalId":776379870,"name":"Dolorous Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_bow_a.png","bindType":-1,"knownIds":[1756855,1758504,1771216,1773933,1756855,1758504,1771216,1773933]}

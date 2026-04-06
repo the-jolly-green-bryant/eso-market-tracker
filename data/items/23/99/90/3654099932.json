@@ -1,10 +1,1 @@
-{
-  "internalId": 3654099932,
-  "name": "Copperclaw Crayfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png",
-  "bindType": -1,
-  "knownIds": [
-    1182692
-  ]
-}
+{"internalId":3654099932,"name":"Copperclaw Crayfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png","bindType":-1,"knownIds":[1182692]}

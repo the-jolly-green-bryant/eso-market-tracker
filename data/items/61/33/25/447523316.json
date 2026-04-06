@@ -1,10 +1,1 @@
-{
-  "internalId": 447523316,
-  "name": "Blacksmith Survey: Reaper's March",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    855897
-  ]
-}
+{"internalId":447523316,"name":"Blacksmith Survey: Reaper's March","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[855897]}

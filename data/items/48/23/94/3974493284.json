@@ -1,10 +1,1 @@
-{
-  "internalId": 3974493284,
-  "name": "Affix Script: Uncertainty",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_uncertainty.png",
-  "bindType": -1,
-  "knownIds": [
-    204616
-  ]
-}
+{"internalId":3974493284,"name":"Affix Script: Uncertainty","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_uncertainty.png","bindType":-1,"knownIds":[204616]}

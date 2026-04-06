@@ -1,10 +1,1 @@
-{
-  "internalId": 1764639407,
-  "name": "Dwarven Pipe, Elbow",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_housingfloorpipecornera001.png",
-  "bindType": -1,
-  "knownIds": [
-    125524
-  ]
-}
+{"internalId":1764639407,"name":"Dwarven Pipe, Elbow","description":"This is a small house item.","icon":"data/images/10/0a/re/housing_dwe_duc_housingfloorpipecornera001.png","bindType":-1,"knownIds":[125524]}

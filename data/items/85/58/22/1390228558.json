@@ -1,10 +1,1 @@
-{
-  "internalId": 1390228558,
-  "name": "Praxis: Leyawiin Well, Covered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    175983
-  ]
-}
+{"internalId":1390228558,"name":"Praxis: Leyawiin Well, Covered","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[175983]}

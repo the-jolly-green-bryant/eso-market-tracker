@@ -1,15 +1,1 @@
-{
-  "internalId": 3862120365,
-  "name": "Thugrub's Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    717145,
-    715944,
-    669812,
-    717145,
-    715944,
-    669812
-  ]
-}
+{"internalId":3862120365,"name":"Thugrub's Bane","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png","bindType":-1,"knownIds":[717145,715944,669812,717145,715944,669812]}

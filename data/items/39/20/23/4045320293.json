@@ -1,10 +1,1 @@
-{
-  "internalId": 4045320293,
-  "name": "High Iron Ore",
-  "description": "Ten of these items can be refined to make steel ingots.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_heavy_armor_component_004.png",
-  "bindType": -1,
-  "knownIds": [
-    5820
-  ]
-}
+{"internalId":4045320293,"name":"High Iron Ore","description":"Ten of these items can be refined to make steel ingots.","icon":"data/images/40/0_/tn/crafting_heavy_armor_component_004.png","bindType":-1,"knownIds":[5820]}

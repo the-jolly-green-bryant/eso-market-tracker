@@ -1,10 +1,1 @@
-{
-  "internalId": 4126949119,
-  "name": "Imperial Lightpost, Full",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_lsb_lamppost004.png",
-  "bindType": -1,
-  "knownIds": [
-    94185
-  ]
-}
+{"internalId":4126949119,"name":"Imperial Lightpost, Full","description":"This is a large house item.","icon":"data/images/40/0t/so/housing_nib_lsb_lamppost004.png","bindType":-1,"knownIds":[94185]}

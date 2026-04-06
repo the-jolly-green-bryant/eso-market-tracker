@@ -1,10 +1,1 @@
-{
-  "internalId": 2946768348,
-  "name": "Witchmother's Party Punch",
-  "description": "An ice-cold punch of fruit mash and rye alcohol.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_iron_cup_celery.png",
-  "bindType": -1,
-  "knownIds": [
-    87690
-  ]
-}
+{"internalId":2946768348,"name":"Witchmother's Party Punch","description":"An ice-cold punch of fruit mash and rye alcohol.","icon":"data/images/yr/el/ec/event_halloween_2016_iron_cup_celery.png","bindType":-1,"knownIds":[87690]}

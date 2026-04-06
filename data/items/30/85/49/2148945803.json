@@ -1,13 +1,1 @@
-{
-  "internalId": 2148945803,
-  "name": "Mythic Items (Greymoor)",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1364091,
-    1491561,
-    1364091,
-    1491561
-  ]
-}
+{"internalId":2148945803,"name":"Mythic Items (Greymoor)","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1364091,1491561,1364091,1491561]}

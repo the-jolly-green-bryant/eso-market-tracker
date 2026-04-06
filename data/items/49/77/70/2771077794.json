@@ -1,10 +1,1 @@
-{
-  "internalId": 2771077794,
-  "name": "Glyph of Reduce Skill Cost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_u26_enchantment_038.png",
-  "bindType": -1,
-  "knownIds": [
-    166046
-  ]
-}
+{"internalId":2771077794,"name":"Glyph of Reduce Skill Cost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_u26_enchantment_038.png","bindType":-1,"knownIds":[166046]}

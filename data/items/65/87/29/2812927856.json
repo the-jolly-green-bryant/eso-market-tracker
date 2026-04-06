@@ -1,10 +1,1 @@
-{
-  "internalId": 2812927856,
-  "name": "Argonian Rack, Drying",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_exc_dryingrack002.png",
-  "bindType": -1,
-  "knownIds": [
-    115462
-  ]
-}
+{"internalId":2812927856,"name":"Argonian Rack, Drying","description":"This is a standard house item.","icon":"data/images/20/0k/ca/housing_arg_exc_dryingrack002.png","bindType":-1,"knownIds":[115462]}

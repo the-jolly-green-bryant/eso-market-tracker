@@ -1,10 +1,1 @@
-{
-  "internalId": 830728791,
-  "name": "Cave Deposit, Stalactite Cone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_stalactitesmall002.png",
-  "bindType": -1,
-  "knownIds": [
-    134939
-  ]
-}
+{"internalId":830728791,"name":"Cave Deposit, Stalactite Cone","description":"This is a large house item.","icon":"data/images/20/0l/la/housing_orc_duc_stalactitesmall002.png","bindType":-1,"knownIds":[134939]}

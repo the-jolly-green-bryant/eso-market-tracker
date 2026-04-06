@@ -1,10 +1,1 @@
-{
-  "internalId": 1205500796,
-  "name": "Pattern: Leyawiin Carpet, Large Misty Octad",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    175941
-  ]
-}
+{"internalId":1205500796,"name":"Pattern: Leyawiin Carpet, Large Misty Octad","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[175941]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3198498384,
-  "name": "Colovian Dresser, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_dresserhigh003.png",
-  "bindType": -1,
-  "knownIds": [
-    204666
-  ]
-}
+{"internalId":3198498384,"name":"Colovian Dresser, Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_dresserhigh003.png","bindType":-1,"knownIds":[204666]}

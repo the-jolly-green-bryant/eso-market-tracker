@@ -1,15 +1,1 @@
-{
-  "internalId": 2776578384,
-  "name": "Staff of Everfrost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": -1,
-  "knownIds": [
-    676451,
-    843855,
-    858758,
-    676451,
-    843855,
-    858758
-  ]
-}
+{"internalId":2776578384,"name":"Staff of Everfrost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png","bindType":-1,"knownIds":[676451,843855,858758,676451,843855,858758]}

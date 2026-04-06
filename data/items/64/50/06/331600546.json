@@ -1,10 +1,1 @@
-{
-  "internalId": 331600546,
-  "name": "Blueprint: Elsweyr Bookcase, Short Elegant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    152044
-  ]
-}
+{"internalId":331600546,"name":"Blueprint: Elsweyr Bookcase, Short Elegant","description":"","icon":"data/images/3_/gn/ik/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[152044]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1816995802,
-  "name": "Kwama Egg Quiche",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_open_top_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    57623
-  ]
-}
+{"internalId":1816995802,"name":"Kwama Egg Quiche","description":"","icon":"data/images/ei/p_/po/crafting_cooking_open_top_pie.png","bindType":-1,"knownIds":[57623]}

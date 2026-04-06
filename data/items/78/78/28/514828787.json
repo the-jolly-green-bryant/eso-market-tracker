@@ -1,10 +1,1 @@
-{
-  "internalId": 514828787,
-  "name": "Polished Ice Wraith Tooth Extractor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366526
-  ]
-}
+{"internalId":514828787,"name":"Polished Ice Wraith Tooth Extractor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1366526]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2579374320,
-  "name": "Deadlands Bookcase, Large Ashen",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedlargebookshelves004.png",
-  "bindType": -1,
-  "knownIds": [
-    182224
-  ]
-}
+{"internalId":2579374320,"name":"Deadlands Bookcase, Large Ashen","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedlargebookshelves004.png","bindType":-1,"knownIds":[182224]}

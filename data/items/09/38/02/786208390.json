@@ -1,10 +1,1 @@
-{
-  "internalId": 786208390,
-  "name": "Diagram: Dres Cauldron, Floral Banded",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    127000
-  ]
-}
+{"internalId":786208390,"name":"Diagram: Dres Cauldron, Floral Banded","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[127000]}

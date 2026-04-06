@@ -1,13 +1,1 @@
-{
-  "internalId": 2582856675,
-  "name": "Urramaz's Shoulders",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    744886,
-    681780,
-    744886,
-    681780
-  ]
-}
+{"internalId":2582856675,"name":"Urramaz's Shoulders","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_shoulders_d.png","bindType":-1,"knownIds":[744886,681780,744886,681780]}

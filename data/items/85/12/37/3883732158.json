@@ -1,13 +1,1 @@
-{
-  "internalId": 3883732158,
-  "name": "Levin Master's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    837314,
-    924896,
-    837314,
-    924896
-  ]
-}
+{"internalId":3883732158,"name":"Levin Master's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[837314,924896,837314,924896]}

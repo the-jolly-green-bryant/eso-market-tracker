@@ -1,10 +1,1 @@
-{
-  "internalId": 3905270636,
-  "name": "Boulder, Flat Grey",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_greenshadesmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    120587
-  ]
-}
+{"internalId":3905270636,"name":"Boulder, Flat Grey","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_rok_tan_greenshadesmall001.png","bindType":-1,"knownIds":[120587]}

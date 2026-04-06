@@ -1,10 +1,1 @@
-{
-  "internalId": 3945941322,
-  "name": "The Werewolf's Hide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
-  "bindType": -1,
-  "knownIds": [
-    1140200
-  ]
-}
+{"internalId":3945941322,"name":"The Werewolf's Hide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png","bindType":-1,"knownIds":[1140200]}

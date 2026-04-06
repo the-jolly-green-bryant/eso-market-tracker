@@ -1,15 +1,1 @@
-{
-  "internalId": 1759438014,
-  "name": "elixir of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    364043,
-    698894,
-    1578879,
-    364043,
-    698894,
-    1578879
-  ]
-}
+{"internalId":1759438014,"name":"elixir of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png","bindType":-1,"knownIds":[364043,698894,1578879,364043,698894,1578879]}

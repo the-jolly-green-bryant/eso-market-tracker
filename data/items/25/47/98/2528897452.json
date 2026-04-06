@@ -1,10 +1,1 @@
-{
-  "internalId": 2528897452,
-  "name": "Tide-Born Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    215815
-  ]
-}
+{"internalId":2528897452,"name":"Tide-Born Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[215815]}

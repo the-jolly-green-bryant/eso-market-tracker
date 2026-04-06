@@ -1,15 +1,1 @@
-{
-  "internalId": 3657081115,
-  "name": "Perfected Null Arca Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1733177,
-    1752006,
-    1769924,
-    1733177,
-    1752006,
-    1769924
-  ]
-}
+{"internalId":3657081115,"name":"Perfected Null Arca Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_dagger_a.png","bindType":-1,"knownIds":[1733177,1752006,1769924,1733177,1752006,1769924]}

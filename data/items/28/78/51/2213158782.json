@@ -1,10 +1,1 @@
-{
-  "internalId": 2213158782,
-  "name": "Praxis: Colovian Vase, Limestone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    207902
-  ]
-}
+{"internalId":2213158782,"name":"Praxis: Colovian Vase, Limestone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[207902]}

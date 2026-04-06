@@ -1,10 +1,1 @@
-{
-  "internalId": 658732577,
-  "name": "Epaulets of The Shadow Dancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    75059
-  ]
-}
+{"internalId":658732577,"name":"Epaulets of The Shadow Dancer","description":"","icon":"data/images/a_/sr/ed/gear_thievesguildv2_light_shoulders_a.png","bindType":2,"knownIds":[75059]}

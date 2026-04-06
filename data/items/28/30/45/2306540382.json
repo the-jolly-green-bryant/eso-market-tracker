@@ -1,10 +1,1 @@
-{
-  "internalId": 2306540382,
-  "name": "Kelp Shelf, Small Brown",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_floatingkelpplane001.png",
-  "bindType": -1,
-  "knownIds": [
-    223162
-  ]
-}
+{"internalId":2306540382,"name":"Kelp Shelf, Small Brown","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sol_floatingkelpplane001.png","bindType":-1,"knownIds":[223162]}

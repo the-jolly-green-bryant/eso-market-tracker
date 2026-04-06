@@ -1,10 +1,1 @@
-{
-  "internalId": 3793348685,
-  "name": "Arm Cops of Twilight's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56170
-  ]
-}
+{"internalId":3793348685,"name":"Arm Cops of Twilight's Embrace","description":"","icon":"data/images/d_/sr/ed/gear_breton_medium_shoulders_d.png","bindType":2,"knownIds":[56170]}

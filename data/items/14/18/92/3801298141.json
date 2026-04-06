@@ -1,10 +1,1 @@
-{
-  "internalId": 3801298141,
-  "name": "Loose-Fit Trousers",
-  "description": "Fitted and comfortable. Definitely not trousers for work.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    63988
-  ]
-}
+{"internalId":3801298141,"name":"Loose-Fit Trousers","description":"Fitted and comfortable. Definitely not trousers for work.","icon":"data/images/10/0_/gn/quest_clothing_001.png","bindType":-1,"knownIds":[63988]}

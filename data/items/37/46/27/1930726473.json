@@ -1,10 +1,1 @@
-{
-  "internalId": 1930726473,
-  "name": "Crow Caller",
-  "description": "The rarest crow callers have been known to summon more than just birds during the Witches Festival. See what strange and sinister secrets await you!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/witches_festival_icon_ravenwhistle.png",
-  "bindType": 3,
-  "knownIds": [
-    81189
-  ]
-}
+{"internalId":1930726473,"name":"Crow Caller","description":"The rarest crow callers have been known to summon more than just birds during the Witches Festival. See what strange and sinister secrets await you!","icon":"data/images/el/ts/ih/witches_festival_icon_ravenwhistle.png","bindType":3,"knownIds":[81189]}

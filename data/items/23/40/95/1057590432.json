@@ -1,10 +1,1 @@
-{
-  "internalId": 1057590432,
-  "name": "Elsweyr Ritual Archway, Restored",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_run_pristinearch004.png",
-  "bindType": -1,
-  "knownIds": [
-    218015
-  ]
-}
+{"internalId":1057590432,"name":"Elsweyr Ritual Archway, Restored","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_run_pristinearch004.png","bindType":-1,"knownIds":[218015]}

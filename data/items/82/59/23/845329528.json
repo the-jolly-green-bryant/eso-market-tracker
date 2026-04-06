@@ -1,10 +1,1 @@
-{
-  "internalId": 845329528,
-  "name": "Reaper's March Treasure Map VI",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43654
-  ]
-}
+{"internalId":845329528,"name":"Reaper's March Treasure Map VI","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[43654]}

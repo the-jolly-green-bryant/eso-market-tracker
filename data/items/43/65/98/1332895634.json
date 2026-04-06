@@ -1,10 +1,1 @@
-{
-  "internalId": 1332895634,
-  "name": "Vivec's Gloves of Duality",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    195862
-  ]
-}
+{"internalId":1332895634,"name":"Vivec's Gloves of Duality","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_light_hands_a.png","bindType":2,"knownIds":[195862]}

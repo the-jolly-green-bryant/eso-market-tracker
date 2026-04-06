@@ -1,10 +1,1 @@
-{
-  "internalId": 3597638377,
-  "name": "Mummified Hand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_arm_002.png",
-  "bindType": -1,
-  "knownIds": [
-    494155
-  ]
-}
+{"internalId":3597638377,"name":"Mummified Hand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_monster_arm_002.png","bindType":-1,"knownIds":[494155]}

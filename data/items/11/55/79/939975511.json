@@ -1,10 +1,1 @@
-{
-  "internalId": 939975511,
-  "name": "Druidic Incense Burner, Clay",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_druincenseburner001.png",
-  "bindType": -1,
-  "knownIds": [
-    191204
-  ]
-}
+{"internalId":939975511,"name":"Druidic Incense Burner, Clay","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_druincenseburner001.png","bindType":-1,"knownIds":[191204]}

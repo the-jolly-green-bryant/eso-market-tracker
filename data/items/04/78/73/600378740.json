@@ -1,10 +1,1 @@
-{
-  "internalId": 600378740,
-  "name": "Diagram: Firesong Sculpture, Arch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    194386
-  ]
-}
+{"internalId":600378740,"name":"Diagram: Firesong Sculpture, Arch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[194386]}

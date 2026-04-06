@@ -1,10 +1,1 @@
-{
-  "internalId": 844169778,
-  "name": "Bow of Draugr Heritage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101846
-  ]
-}
+{"internalId":844169778,"name":"Bow of Draugr Heritage","description":"","icon":"data/images/a_/wo/b_/gear_draugr_bow_a.png","bindType":2,"knownIds":[101846]}

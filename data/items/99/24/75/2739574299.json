@@ -1,10 +1,1 @@
-{
-  "internalId": 2739574299,
-  "name": "Alinor Armchair, Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_chairsimple002.png",
-  "bindType": -1,
-  "knownIds": [
-    139227
-  ]
-}
+{"internalId":2739574299,"name":"Alinor Armchair, Polished","description":"This is a standard house item.","icon":"data/images/20/0e/lp/housing_sum_fur_chairsimple002.png","bindType":-1,"knownIds":[139227]}

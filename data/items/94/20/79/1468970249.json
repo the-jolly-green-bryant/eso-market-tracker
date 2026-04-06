@@ -1,10 +1,1 @@
-{
-  "internalId": 1468970249,
-  "name": "Redguard Tankard, Full",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vartankard002_full.png",
-  "bindType": -1,
-  "knownIds": [
-    117748
-  ]
-}
+{"internalId":1468970249,"name":"Redguard Tankard, Full","description":"This is a tiny house item.","icon":"data/images/ll/uf/_2/housing_red_inc_vartankard002_full.png","bindType":-1,"knownIds":[117748]}

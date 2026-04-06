@@ -1,10 +1,1 @@
-{
-  "internalId": 3528589631,
-  "name": "Gloves of the Trainee",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    96174
-  ]
-}
+{"internalId":3528589631,"name":"Gloves of the Trainee","description":"","icon":"data/images/d_/sd/na/gear_breton_light_hands_d.png","bindType":2,"knownIds":[96174]}

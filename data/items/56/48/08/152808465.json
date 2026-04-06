@@ -1,10 +1,1 @@
-{
-  "internalId": 152808465,
-  "name": "Blueprint: Druidic Table, Wood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    192531
-  ]
-}
+{"internalId":152808465,"name":"Blueprint: Druidic Table, Wood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[192531]}

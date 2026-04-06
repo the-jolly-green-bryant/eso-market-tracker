@@ -1,10 +1,1 @@
-{
-  "internalId": 483744516,
-  "name": "Warning Totem, Skulls",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_ogretotemstand002.png",
-  "bindType": -1,
-  "knownIds": [
-    167349
-  ]
-}
+{"internalId":483744516,"name":"Warning Totem, Skulls","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_ogretotemstand002.png","bindType":-1,"knownIds":[167349]}

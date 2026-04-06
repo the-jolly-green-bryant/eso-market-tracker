@@ -1,10 +1,1 @@
-{
-  "internalId": 4265684417,
-  "name": "Dawnwood Divider, Sprouted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosroomdivider001.png",
-  "bindType": -1,
-  "knownIds": [
-    211384
-  ]
-}
+{"internalId":4265684417,"name":"Dawnwood Divider, Sprouted","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosroomdivider001.png","bindType":-1,"knownIds":[211384]}

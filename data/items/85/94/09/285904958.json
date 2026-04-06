@@ -1,10 +1,1 @@
-{
-  "internalId": 285904958,
-  "name": "Murkmire Dais, Engraved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_dais001.png",
-  "bindType": -1,
-  "knownIds": [
-    145447
-  ]
-}
+{"internalId":285904958,"name":"Murkmire Dais, Engraved","description":"This is a standard house item.","icon":"data/images/10/0s/ia/housing_arg_duc_dais001.png","bindType":-1,"knownIds":[145447]}

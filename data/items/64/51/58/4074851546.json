@@ -1,10 +1,1 @@
-{
-  "internalId": 4074851546,
-  "name": "Pulverized Antimony",
-  "description": "Ten of these items can be refined into Antimony, which is used to make Jewelry with the Healthy Trait.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_trait_raw_antimony.png",
-  "bindType": -1,
-  "knownIds": [
-    135159
-  ]
-}
+{"internalId":4074851546,"name":"Pulverized Antimony","description":"Ten of these items can be refined into Antimony, which is used to make Jewelry with the Healthy Trait.","icon":"data/images/yn/om/it/jewelrycrafting_trait_raw_antimony.png","bindType":-1,"knownIds":[135159]}

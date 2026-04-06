@@ -1,10 +1,1 @@
-{
-  "internalId": 1519233021,
-  "name": "Signed Coat of Arms Document",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    804286
-  ]
-}
+{"internalId":1519233021,"name":"Signed Coat of Arms Document","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png","bindType":-1,"knownIds":[804286]}

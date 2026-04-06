@@ -1,10 +1,1 @@
-{
-  "internalId": 3746324128,
-  "name": "Tree, Yellowing Oak",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_rowanyellow002.png",
-  "bindType": -1,
-  "knownIds": [
-    120582
-  ]
-}
+{"internalId":3746324128,"name":"Tree, Yellowing Oak","description":"This is a huge house item.","icon":"data/images/20/0w/ol/housing_tre_dec_rowanyellow002.png","bindType":-1,"knownIds":[120582]}

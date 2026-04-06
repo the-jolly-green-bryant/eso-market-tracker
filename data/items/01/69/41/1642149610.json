@@ -1,10 +1,1 @@
-{
-  "internalId": 1642149610,
-  "name": "Thalmor Treatment For Seditious Speech",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_phlegm.png",
-  "bindType": -1,
-  "knownIds": [
-    1241354
-  ]
-}
+{"internalId":1642149610,"name":"Thalmor Treatment For Seditious Speech","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_leather_phlegm.png","bindType":-1,"knownIds":[1241354]}

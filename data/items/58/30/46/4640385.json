@@ -1,10 +1,1 @@
-{
-  "internalId": 4640385,
-  "name": "High Elf End Table, Verdant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tableend002.png",
-  "bindType": -1,
-  "knownIds": [
-    114354
-  ]
-}
+{"internalId":4640385,"name":"High Elf End Table, Verdant","description":"This is a standard house item.","icon":"data/images/20/0d/ne/housing_alt_fur_tableend002.png","bindType":-1,"knownIds":[114354]}

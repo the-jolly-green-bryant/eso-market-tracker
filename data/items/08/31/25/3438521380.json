@@ -1,10 +1,1 @@
-{
-  "internalId": 3438521380,
-  "name": "Aurona's Breath Freshener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    665664
-  ]
-}
+{"internalId":3438521380,"name":"Aurona's Breath Freshener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[665664]}

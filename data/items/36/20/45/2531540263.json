@@ -1,10 +1,1 @@
-{
-  "internalId": 2531540263,
-  "name": "pork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_meat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    871215
-  ]
-}
+{"internalId":2531540263,"name":"pork","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_dom_meat_001.png","bindType":-1,"knownIds":[871215]}

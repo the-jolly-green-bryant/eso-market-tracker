@@ -1,13 +1,1 @@
-{
-  "internalId": 776328649,
-  "name": "Fang of the Crocmother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
-  "bindType": -1,
-  "knownIds": [
-    765566,
-    768888,
-    765566,
-    768888
-  ]
-}
+{"internalId":776328649,"name":"Fang of the Crocmother","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png","bindType":-1,"knownIds":[765566,768888,765566,768888]}

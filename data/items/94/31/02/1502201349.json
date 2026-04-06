@@ -1,10 +1,1 @@
-{
-  "internalId": 1502201349,
-  "name": "Necrom Wardrobe, Elegant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_neccabinet001.png",
-  "bindType": -1,
-  "knownIds": [
-    197483
-  ]
-}
+{"internalId":1502201349,"name":"Necrom Wardrobe, Elegant","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_neccabinet001.png","bindType":-1,"knownIds":[197483]}

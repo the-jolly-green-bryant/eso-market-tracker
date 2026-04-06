@@ -1,10 +1,1 @@
-{
-  "internalId": 1047102735,
-  "name": "Blueprint: Solitude Armchair, Ornate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166801
-  ]
-}
+{"internalId":1047102735,"name":"Blueprint: Solitude Armchair, Ornate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166801]}

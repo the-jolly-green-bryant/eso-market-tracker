@@ -1,10 +1,1 @@
-{
-  "internalId": 2207566902,
-  "name": "Rustic Wooden Mead Mugs",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png",
-  "bindType": -1,
-  "knownIds": [
-    905098
-  ]
-}
+{"internalId":2207566902,"name":"Rustic Wooden Mead Mugs","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stein_001.png","bindType":-1,"knownIds":[905098]}

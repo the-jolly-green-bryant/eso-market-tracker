@@ -1,10 +1,1 @@
-{
-  "internalId": 3648928208,
-  "name": "Lumpy Sack",
-  "description": "This bag is very lumpy and snoring lightly.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/collectible_crafting_bag.png",
-  "bindType": 3,
-  "knownIds": [
-    153736
-  ]
-}
+{"internalId":3648928208,"name":"Lumpy Sack","description":"This bag is very lumpy and snoring lightly.","icon":"data/images/ga/b_/gn/collectible_crafting_bag.png","bindType":3,"knownIds":[153736]}

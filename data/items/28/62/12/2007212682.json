@@ -1,10 +1,1 @@
-{
-  "internalId": 2007212682,
-  "name": "Thrassian Ink",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_inkwell_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1268971
-  ]
-}
+{"internalId":2007212682,"name":"Thrassian Ink","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_inkwell_001.png","bindType":-1,"knownIds":[1268971]}

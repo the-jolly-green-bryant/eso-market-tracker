@@ -1,10 +1,1 @@
-{
-  "internalId": 3882459960,
-  "name": "Artificial Skin Patches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1179091
-  ]
-}
+{"internalId":3882459960,"name":"Artificial Skin Patches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[1179091]}

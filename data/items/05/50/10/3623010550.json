@@ -1,10 +1,1 @@
-{
-  "internalId": 3623010550,
-  "name": "Design: Shark Jaw, Massive",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png",
-  "bindType": -1,
-  "knownIds": [
-    190079
-  ]
-}
+{"internalId":3623010550,"name":"Design: Shark Jaw, Massive","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning5.png","bindType":-1,"knownIds":[190079]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2982988739,
-  "name": "Bound Gold Coast Swift Survivor Elixir",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crownpotion_speed.png",
-  "bindType": 3,
-  "knownIds": [
-    135111
-  ]
-}
+{"internalId":2982988739,"name":"Bound Gold Coast Swift Survivor Elixir","description":"","icon":"data/images/de/ep/s_/crownpotion_speed.png","bindType":3,"knownIds":[135111]}

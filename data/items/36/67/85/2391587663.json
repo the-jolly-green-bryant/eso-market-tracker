@@ -1,10 +1,1 @@
-{
-  "internalId": 2391587663,
-  "name": "Weapons: Unfathomable Darkness",
-  "description": "A Medium Armor set found in Clockwork City.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134079
-  ]
-}
+{"internalId":2391587663,"name":"Weapons: Unfathomable Darkness","description":"A Medium Armor set found in Clockwork City.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134079]}

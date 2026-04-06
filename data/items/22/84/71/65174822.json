@@ -1,10 +1,1 @@
-{
-  "internalId": 65174822,
-  "name": "Stale Flank Steak",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_grilled_sirloin.png",
-  "bindType": -1,
-  "knownIds": [
-    37780
-  ]
-}
+{"internalId":65174822,"name":"Stale Flank Steak","description":"","icon":"data/images/ni/ol/ri/crafting_cooking_grilled_sirloin.png","bindType":-1,"knownIds":[37780]}

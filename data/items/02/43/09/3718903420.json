@@ -1,10 +1,1 @@
-{
-  "internalId": 3718903420,
-  "name": "Sanded Birch",
-  "description": "An ingredient for crafting wooden weapons and shields.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_sanded_birch.png",
-  "bindType": -1,
-  "knownIds": [
-    46139
-  ]
-}
+{"internalId":3718903420,"name":"Sanded Birch","description":"An ingredient for crafting wooden weapons and shields.","icon":"data/images/hc/ri/b_/crafting_wood_sanded_birch.png","bindType":-1,"knownIds":[46139]}

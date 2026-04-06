@@ -1,10 +1,1 @@
-{
-  "internalId": 178480808,
-  "name": "Crafting Motif 43: Grim Harlequin Style",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    940319
-  ]
-}
+{"internalId":178480808,"name":"Crafting Motif 43: Grim Harlequin Style","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[940319]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3507591156,
-  "name": "Leyawiin Lamp, Oil Double",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylantern003.png",
-  "bindType": -1,
-  "knownIds": [
-    175643
-  ]
-}
+{"internalId":3507591156,"name":"Leyawiin Lamp, Oil Double","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylantern003.png","bindType":-1,"knownIds":[175643]}

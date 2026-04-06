@@ -1,10 +1,1 @@
-{
-  "internalId": 452085959,
-  "name": "Rivenspire CE Treasure Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    377834
-  ]
-}
+{"internalId":452085959,"name":"Rivenspire CE Treasure Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[377834]}

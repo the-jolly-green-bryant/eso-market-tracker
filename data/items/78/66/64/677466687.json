@@ -1,10 +1,1 @@
-{
-  "internalId": 677466687,
-  "name": "Boulder, Lichen Covered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_auridon005.png",
-  "bindType": -1,
-  "knownIds": [
-    120648
-  ]
-}
+{"internalId":677466687,"name":"Boulder, Lichen Covered","description":"This is a standard house item.","icon":"data/images/50/0n/od/housing_rok_gry_auridon005.png","bindType":-1,"knownIds":[120648]}

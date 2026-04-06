@@ -1,10 +1,1 @@
-{
-  "internalId": 2870401250,
-  "name": "Pattern: Argonian Rack, Drying",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    115754
-  ]
-}
+{"internalId":2870401250,"name":"Pattern: Argonian Rack, Drying","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[115754]}

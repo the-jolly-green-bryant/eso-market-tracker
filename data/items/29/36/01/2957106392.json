@@ -1,10 +1,1 @@
-{
-  "internalId": 2957106392,
-  "name": "Brass Ship's Sextant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png",
-  "bindType": -1,
-  "knownIds": [
-    422189
-  ]
-}
+{"internalId":2957106392,"name":"Brass Ship's Sextant","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_device_001.png","bindType":-1,"knownIds":[422189]}

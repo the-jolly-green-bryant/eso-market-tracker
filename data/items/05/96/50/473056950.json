@@ -1,10 +1,1 @@
-{
-  "internalId": 473056950,
-  "name": "Bright-Throat's Boast Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_light_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142767
-  ]
-}
+{"internalId":473056950,"name":"Bright-Throat's Boast Jerkin","description":"","icon":"data/images/a_/ts/eh/gear_elderarg_light_chest_a.png","bindType":2,"knownIds":[142767]}

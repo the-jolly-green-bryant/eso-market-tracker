@@ -1,18 +1,1 @@
-{
-  "internalId": 4245061196,
-  "name": "Perfected Pillager's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1589285,
-    1613571,
-    1777312,
-    1589285,
-    1613571,
-    1777312,
-    1589285,
-    1613571,
-    1777312
-  ]
-}
+{"internalId":4245061196,"name":"Perfected Pillager's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png","bindType":-1,"knownIds":[1589285,1613571,1777312,1589285,1613571,1777312,1589285,1613571,1777312]}

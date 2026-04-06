@@ -1,10 +1,1 @@
-{
-  "internalId": 3249824964,
-  "name": "Covenant's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54420
-  ]
-}
+{"internalId":3249824964,"name":"Covenant's Guards","description":"","icon":"data/images/a_/sg/el/gear_akaviri_medium_legs_a.png","bindType":2,"knownIds":[54420]}

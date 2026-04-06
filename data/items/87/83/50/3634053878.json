@@ -1,10 +1,1 @@
-{
-  "internalId": 3634053878,
-  "name": "Sapling, Desert Acacia",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_els_acaciasaplinghousing003.png",
-  "bindType": -1,
-  "knownIds": [
-    151813
-  ]
-}
+{"internalId":3634053878,"name":"Sapling, Desert Acacia","description":"This is a standard house item.","icon":"data/images/30/0g/ni/housing_tre_els_acaciasaplinghousing003.png","bindType":-1,"knownIds":[151813]}

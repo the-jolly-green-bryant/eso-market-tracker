@@ -1,10 +1,1 @@
-{
-  "internalId": 3784925276,
-  "name": "Dye Pots, Organized",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_dyeingpalette002.png",
-  "bindType": -1,
-  "knownIds": [
-    211566
-  ]
-}
+{"internalId":3784925276,"name":"Dye Pots, Organized","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_dyeingpalette002.png","bindType":-1,"knownIds":[211566]}

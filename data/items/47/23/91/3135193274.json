@@ -1,10 +1,1 @@
-{
-  "internalId": 3135193274,
-  "name": "King Camoran's Boon",
-  "description": "This garment is slippery to the touch. It appears to be a Khajiiti gift of state re-gifted to you by King Camoran Aeradan.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    27206
-  ]
-}
+{"internalId":3135193274,"name":"King Camoran's Boon","description":"This garment is slippery to the touch. It appears to be a Khajiiti gift of state re-gifted to you by King Camoran Aeradan.","icon":"data/images/d_/tr/ih/gear_khajiit_light_shirt_d.png","bindType":2,"knownIds":[27206]}

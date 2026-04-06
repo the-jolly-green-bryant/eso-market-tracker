@@ -1,10 +1,1 @@
-{
-  "internalId": 4232036123,
-  "name": "Elsweyr Runner, Autumn Vines",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_rugsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    151753
-  ]
-}
+{"internalId":4232036123,"name":"Elsweyr Runner, Autumn Vines","description":"This is a standard house item.","icon":"data/images/10/0l/la/housing_els_inc_rugsmall001.png","bindType":-1,"knownIds":[151753]}

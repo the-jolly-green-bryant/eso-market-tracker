@@ -1,13 +1,1 @@
-{
-  "internalId": 776565206,
-  "name": "Mora Scribe's Perfected Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1733081,
-    1778878,
-    1733081,
-    1778878
-  ]
-}
+{"internalId":776565206,"name":"Mora Scribe's Perfected Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png","bindType":-1,"knownIds":[1733081,1778878,1733081,1778878]}

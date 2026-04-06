@@ -1,10 +1,1 @@
-{
-  "internalId": 2742184317,
-  "name": "Boulder, Volcanic Plug",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_vol_vrdmed004.png",
-  "bindType": -1,
-  "knownIds": [
-    125483
-  ]
-}
+{"internalId":2742184317,"name":"Boulder, Volcanic Plug","description":"This is a huge house item.","icon":"data/images/40/0d/em/housing_rok_vol_vrdmed004.png","bindType":-1,"knownIds":[125483]}

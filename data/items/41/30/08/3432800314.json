@@ -1,17 +1,1 @@
-{
-  "internalId": 3432800314,
-  "name": "Perfected Recovery Convergence Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1761641,
-    1763900,
-    1765530,
-    1765896,
-    1761641,
-    1763900,
-    1765530,
-    1765896
-  ]
-}
+{"internalId":3432800314,"name":"Perfected Recovery Convergence Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_head_a.png","bindType":-1,"knownIds":[1761641,1763900,1765530,1765896,1761641,1763900,1765530,1765896]}

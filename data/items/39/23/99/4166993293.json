@@ -1,10 +1,1 @@
-{
-  "internalId": 4166993293,
-  "name": "Necrom Roof, Tiled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_housingnecmodrooftile001.png",
-  "bindType": -1,
-  "knownIds": [
-    198031
-  ]
-}
+{"internalId":4166993293,"name":"Necrom Roof, Tiled","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_str_housingnecmodrooftile001.png","bindType":-1,"knownIds":[198031]}

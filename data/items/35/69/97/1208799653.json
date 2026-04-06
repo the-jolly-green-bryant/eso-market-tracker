@@ -1,10 +1,1 @@
-{
-  "internalId": 1208799653,
-  "name": "On the Detachment of the Sheath",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1199272
-  ]
-}
+{"internalId":1208799653,"name":"On the Detachment of the Sheath","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1199272]}

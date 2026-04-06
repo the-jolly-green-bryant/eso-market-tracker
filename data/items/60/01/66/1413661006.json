@@ -1,10 +1,1 @@
-{
-  "internalId": 1413661006,
-  "name": "Style Page: Opal Troll King's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1346588
-  ]
-}
+{"internalId":1413661006,"name":"Style Page: Opal Troll King's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1346588]}

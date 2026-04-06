@@ -1,10 +1,1 @@
-{
-  "internalId": 3970679984,
-  "name": "Dwemer Tonal Diagram",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_dwemer_diagram.png",
-  "bindType": -1,
-  "knownIds": [
-    1157024
-  ]
-}
+{"internalId":3970679984,"name":"Dwemer Tonal Diagram","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_dwemer_diagram.png","bindType":-1,"knownIds":[1157024]}

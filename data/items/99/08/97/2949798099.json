@@ -1,10 +1,1 @@
-{
-  "internalId": 2949798099,
-  "name": "Manteau's Greatsword",
-  "description": "Countess Ilise Manteau of Wind Keep gifted you this family heirloom in thanks for keeping her safe from suitors and cultists.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    2515
-  ]
-}
+{"internalId":2949798099,"name":"Manteau's Greatsword","description":"Countess Ilise Manteau of Wind Keep gifted you this family heirloom in thanks for keeping her safe from suitors and cultists.","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[2515]}

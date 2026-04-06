@@ -1,10 +1,1 @@
-{
-  "internalId": 4082669407,
-  "name": "Necrom Carpet, Medium",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necrug004.png",
-  "bindType": -1,
-  "knownIds": [
-    197547
-  ]
-}
+{"internalId":4082669407,"name":"Necrom Carpet, Medium","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necrug004.png","bindType":-1,"knownIds":[197547]}

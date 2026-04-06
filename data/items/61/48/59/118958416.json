@@ -1,10 +1,1 @@
-{
-  "internalId": 118958416,
-  "name": "Polished Woodblock Stamp",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png",
-  "bindType": -1,
-  "knownIds": [
-    901749
-  ]
-}
+{"internalId":118958416,"name":"Polished Woodblock Stamp","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_seal_001.png","bindType":-1,"knownIds":[901749]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2908957950,
-  "name": "Colovian Keg, Gigantic Wine",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebarrelhuge001.png",
-  "bindType": -1,
-  "knownIds": [
-    208121
-  ]
-}
+{"internalId":2908957950,"name":"Colovian Keg, Gigantic Wine","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebarrelhuge001.png","bindType":-1,"knownIds":[208121]}

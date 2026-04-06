@@ -1,10 +1,1 @@
-{
-  "internalId": 305578657,
-  "name": "Warhammer of Truth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44110
-  ]
-}
+{"internalId":305578657,"name":"Warhammer of Truth","description":"","icon":"data/images/d_/re/mm/gear_dunmer_2hhammer_d.png","bindType":2,"knownIds":[44110]}

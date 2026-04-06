@@ -1,10 +1,1 @@
-{
-  "internalId": 3715643365,
-  "name": "Reach Totem, Mammoth Rib",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_exc_rchfortrib004.png",
-  "bindType": -1,
-  "knownIds": [
-    203136
-  ]
-}
+{"internalId":3715643365,"name":"Reach Totem, Mammoth Rib","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_exc_rchfortrib004.png","bindType":-1,"knownIds":[203136]}

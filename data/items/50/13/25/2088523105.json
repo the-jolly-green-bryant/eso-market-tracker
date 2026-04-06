@@ -1,15 +1,1 @@
-{
-  "internalId": 2088523105,
-  "name": "Kip's Roguish Leathers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    431898,
-    394741,
-    517673,
-    431898,
-    394741,
-    517673
-  ]
-}
+{"internalId":2088523105,"name":"Kip's Roguish Leathers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_legs_d.png","bindType":-1,"knownIds":[431898,394741,517673,431898,394741,517673]}

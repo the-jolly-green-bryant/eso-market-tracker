@@ -1,10 +1,1 @@
-{
-  "internalId": 3623486741,
-  "name": "Plant, Purple Spadeleaf",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_mrkpurpleleafy001.png",
-  "bindType": -1,
-  "knownIds": [
-    145416
-  ]
-}
+{"internalId":3623486741,"name":"Plant, Purple Spadeleaf","description":"This is a small house item.","icon":"data/images/10/0y/fa/housing_veg_bsh_mrkpurpleleafy001.png","bindType":-1,"knownIds":[145416]}

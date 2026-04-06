@@ -1,15 +1,1 @@
-{
-  "internalId": 2469777795,
-  "name": "Fine-Wrought Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    630209,
-    395389,
-    552351,
-    630209,
-    395389,
-    552351
-  ]
-}
+{"internalId":2469777795,"name":"Fine-Wrought Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":-1,"knownIds":[630209,395389,552351,630209,395389,552351]}

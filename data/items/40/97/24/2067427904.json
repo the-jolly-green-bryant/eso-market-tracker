@@ -1,10 +1,1 @@
-{
-  "internalId": 2067427904,
-  "name": "Magic Metronome",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_bendu_oles_sextant.png",
-  "bindType": -1,
-  "knownIds": [
-    1207614
-  ]
-}
+{"internalId":2067427904,"name":"Magic Metronome","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_bendu_oles_sextant.png","bindType":-1,"knownIds":[1207614]}

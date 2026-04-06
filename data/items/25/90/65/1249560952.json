@@ -1,10 +1,1 @@
-{
-  "internalId": 1249560952,
-  "name": "Perfidious Accusation Sleeping Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mask_full_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1290534
-  ]
-}
+{"internalId":1249560952,"name":"Perfidious Accusation Sleeping Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mask_full_001.png","bindType":-1,"knownIds":[1290534]}

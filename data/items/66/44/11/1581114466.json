@@ -1,10 +1,1 @@
-{
-  "internalId": 1581114466,
-  "name": "Breton Desk",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_tablepeasantdesk002.png",
-  "bindType": -1,
-  "knownIds": [
-    115164
-  ]
-}
+{"internalId":1581114466,"name":"Breton Desk","description":"This is a standard house item.","icon":"data/images/20/0k/se/housing_bre_fur_tablepeasantdesk002.png","bindType":-1,"knownIds":[115164]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2279122066,
-  "name": "Colovian Bookcase, Noble Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_largebookshelves001.png",
-  "bindType": -1,
-  "knownIds": [
-    204636
-  ]
-}
+{"internalId":2279122066,"name":"Colovian Bookcase, Noble Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_largebookshelves001.png","bindType":-1,"knownIds":[204636]}

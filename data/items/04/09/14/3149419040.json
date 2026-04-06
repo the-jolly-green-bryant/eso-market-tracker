@@ -1,10 +1,1 @@
-{
-  "internalId": 3149419040,
-  "name": "Breton Urn, Striated",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_urnsmallnodirt001.png",
-  "bindType": -1,
-  "knownIds": [
-    115234
-  ]
-}
+{"internalId":3149419040,"name":"Breton Urn, Striated","description":"This is a small house item.","icon":"data/images/10/0t/ri/housing_bre_inc_urnsmallnodirt001.png","bindType":-1,"knownIds":[115234]}

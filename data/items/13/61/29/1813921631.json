@@ -1,10 +1,1 @@
-{
-  "internalId": 1813921631,
-  "name": "Skull of A Slave",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1166293
-  ]
-}
+{"internalId":1813921631,"name":"Skull of A Slave","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_skull_001.png","bindType":-1,"knownIds":[1166293]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3282792306,
-  "name": "Elsweyr Wardrobe, Elegant Wooden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_medbookcase002.png",
-  "bindType": -1,
-  "knownIds": [
-    151704
-  ]
-}
+{"internalId":3282792306,"name":"Elsweyr Wardrobe, Elegant Wooden","description":"This is a standard house item.","icon":"data/images/20/0e/sa/housing_els_fur_medbookcase002.png","bindType":-1,"knownIds":[151704]}

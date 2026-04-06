@@ -1,17 +1,1 @@
-{
-  "internalId": 1582498255,
-  "name": "Squall of Retribution's Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undexilesvengeance_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1751227,
-    1755921,
-    1766007,
-    1774718,
-    1751227,
-    1755921,
-    1766007,
-    1774718
-  ]
-}
+{"internalId":1582498255,"name":"Squall of Retribution's Pauldron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undexilesvengeance_shoulders_a.png","bindType":-1,"knownIds":[1751227,1755921,1766007,1774718,1751227,1755921,1766007,1774718]}

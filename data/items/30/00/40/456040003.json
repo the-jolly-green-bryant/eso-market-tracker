@@ -1,10 +1,1 @@
-{
-  "internalId": 456040003,
-  "name": "Leather Riding Crop",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png",
-  "bindType": -1,
-  "knownIds": [
-    934854
-  ]
-}
+{"internalId":456040003,"name":"Leather Riding Crop","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_riding_crop_001.png","bindType":-1,"knownIds":[934854]}

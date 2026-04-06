@@ -1,10 +1,1 @@
-{
-  "internalId": 1697017850,
-  "name": "Blueprint: Druidic Post",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    194384
-  ]
-}
+{"internalId":1697017850,"name":"Blueprint: Druidic Post","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[194384]}

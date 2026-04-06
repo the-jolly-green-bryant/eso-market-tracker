@@ -1,10 +1,1 @@
-{
-  "internalId": 1087703198,
-  "name": "Rubble Pile, Worked Stone",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_duc_rubblepilemed001.png",
-  "bindType": -1,
-  "knownIds": [
-    134579
-  ]
-}
+{"internalId":1087703198,"name":"Rubble Pile, Worked Stone","description":"This is a large house item.","icon":"data/images/10/0d/em/housing_orc_duc_rubblepilemed001.png","bindType":-1,"knownIds":[134579]}

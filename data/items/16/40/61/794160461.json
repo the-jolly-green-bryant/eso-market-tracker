@@ -1,10 +1,1 @@
-{
-  "internalId": 794160461,
-  "name": "Praxis: Necrom Stairs, Outer Corner Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    198080
-  ]
-}
+{"internalId":794160461,"name":"Praxis: Necrom Stairs, Outer Corner Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[198080]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2038807223,
-  "name": "Adamant Lurker Girdle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196197
-  ]
-}
+{"internalId":2038807223,"name":"Adamant Lurker Girdle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_heavy_waist_a.png","bindType":2,"knownIds":[196197]}

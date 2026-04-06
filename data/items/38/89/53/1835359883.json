@@ -1,10 +1,1 @@
-{
-  "internalId": 1835359883,
-  "name": "Imperial Desk, Scrollwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_fur_tabledesk001.png",
-  "bindType": -1,
-  "knownIds": [
-    94178
-  ]
-}
+{"internalId":1835359883,"name":"Imperial Desk, Scrollwork","description":"This is a standard house item.","icon":"data/images/10/0k/se/housing_nib_fur_tabledesk001.png","bindType":-1,"knownIds":[94178]}

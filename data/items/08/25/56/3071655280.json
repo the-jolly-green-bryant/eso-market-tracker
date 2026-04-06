@@ -1,10 +1,1 @@
-{
-  "internalId": 3071655280,
-  "name": "Worm Cult Books, Row",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_necromancerbooks005.png",
-  "bindType": -1,
-  "knownIds": [
-    220316
-  ]
-}
+{"internalId":3071655280,"name":"Worm Cult Books, Row","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_fur_necromancerbooks005.png","bindType":-1,"knownIds":[220316]}

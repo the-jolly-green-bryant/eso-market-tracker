@@ -1,10 +1,1 @@
-{
-  "internalId": 2280021973,
-  "name": "Crafting Motif 115: Y'ffre's Will Bows",
-  "description": "Use to learn how to make Y'ffre's Will Bows. Also teaches the equivalent Y'ffre's Will Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    187732
-  ]
-}
+{"internalId":2280021973,"name":"Crafting Motif 115: Y'ffre's Will Bows","description":"Use to learn how to make Y'ffre's Will Bows. Also teaches the equivalent Y'ffre's Will Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[187732]}

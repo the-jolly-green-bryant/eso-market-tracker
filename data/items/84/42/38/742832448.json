@@ -1,10 +1,1 @@
-{
-  "internalId": 742832448,
-  "name": "Reminder: Don't Drink the Water",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    824085
-  ]
-}
+{"internalId":742832448,"name":"Reminder: Don't Drink the Water","description":"","icon":null,"bindType":-1,"knownIds":[824085]}

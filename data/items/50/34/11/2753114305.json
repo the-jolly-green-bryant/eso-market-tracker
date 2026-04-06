@@ -1,10 +1,1 @@
-{
-  "internalId": 2753114305,
-  "name": "Netch Oil Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212079
-  ]
-}
+{"internalId":2753114305,"name":"Netch Oil Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_heavy_shoulders_a.png","bindType":2,"knownIds":[212079]}

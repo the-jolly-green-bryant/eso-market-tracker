@@ -1,10 +1,1 @@
-{
-  "internalId": 593485669,
-  "name": "Coldharbour's Favorite Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    148284
-  ]
-}
+{"internalId":593485669,"name":"Coldharbour's Favorite Mace","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[148284]}

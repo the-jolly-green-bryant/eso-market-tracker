@@ -1,10 +1,1 @@
-{
-  "internalId": 2587867734,
-  "name": "Jerkin of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_light_shirt_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79176
-  ]
-}
+{"internalId":2587867734,"name":"Jerkin of Imperial Physique","description":"","icon":"data/images/a_/tr/ih/gear_ooth_light_shirt_a.png","bindType":2,"knownIds":[79176]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3598545051,
-  "name": "Cauldron of Soup",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_cmp_cauldron001.png",
-  "bindType": -1,
-  "knownIds": [
-    118083
-  ]
-}
+{"internalId":3598545051,"name":"Cauldron of Soup","description":"This is a small house item.","icon":"data/images/10/0n/or/housing_bre_cmp_cauldron001.png","bindType":-1,"knownIds":[118083]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2872650749,
-  "name": "Topgrain Hide",
-  "description": "An ingredient for crafting clothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_hide_fell.png",
-  "bindType": -1,
-  "knownIds": [
-    46135
-  ]
-}
+{"internalId":2872650749,"name":"Topgrain Hide","description":"An ingredient for crafting clothing.","icon":"data/images/ll/ef/_e/crafting_hide_fell.png","bindType":-1,"knownIds":[46135]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 795970068,
-  "name": "Recipe: Snow Bear Glow-Wine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_recipe.png",
-  "bindType": -1,
-  "knownIds": [
-    96960
-  ]
-}
+{"internalId":795970068,"name":"Recipe: Snow Bear Glow-Wine","description":"","icon":"data/images/ep/ic/er/event_newlifefestival_2016_recipe.png","bindType":-1,"knownIds":[96960]}

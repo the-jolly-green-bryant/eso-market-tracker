@@ -1,10 +1,1 @@
-{
-  "internalId": 3908396689,
-  "name": "Hlaalu Merchant's Flin Barometer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1080666
-  ]
-}
+{"internalId":3908396689,"name":"Hlaalu Merchant's Flin Barometer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_vial_001.png","bindType":-1,"knownIds":[1080666]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4215201805,
-  "name": "Hazak's Hauberk",
-  "description": "Hazak's clever alterations provide the hauberk's wearer with absolute freedom of movement.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43576
-  ]
-}
+{"internalId":4215201805,"name":"Hazak's Hauberk","description":"Hazak's clever alterations provide the hauberk's wearer with absolute freedom of movement.","icon":"data/images/d_/ts/eh/gear_khajiit_medium_chest_d.png","bindType":2,"knownIds":[43576]}

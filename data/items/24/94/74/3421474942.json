@@ -1,10 +1,1 @@
-{
-  "internalId": 3421474942,
-  "name": "Orcish Brazier, Pillar",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtglamppost001.png",
-  "bindType": -1,
-  "knownIds": [
-    116516
-  ]
-}
+{"internalId":3421474942,"name":"Orcish Brazier, Pillar","description":"This is a large house item.","icon":"data/images/10/0t/so/housing_orc_lsb_wtglamppost001.png","bindType":-1,"knownIds":[116516]}

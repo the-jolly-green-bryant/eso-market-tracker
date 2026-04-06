@@ -1,10 +1,1 @@
-{
-  "internalId": 1111747276,
-  "name": "Unleashed Terror",
-  "description": "A Medium Armor set found in Castle Thorn.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    164669
-  ]
-}
+{"internalId":1111747276,"name":"Unleashed Terror","description":"A Medium Armor set found in Castle Thorn.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[164669]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1925795684,
-  "name": "Boulder, Weathered Desert",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_abamed002.png",
-  "bindType": -1,
-  "knownIds": [
-    134931
-  ]
-}
+{"internalId":1925795684,"name":"Boulder, Weathered Desert","description":"This is a huge house item.","icon":"data/images/20/0d/em/housing_rok_tan_abamed002.png","bindType":-1,"knownIds":[134931]}

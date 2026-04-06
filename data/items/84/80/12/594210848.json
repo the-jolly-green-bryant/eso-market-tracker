@@ -1,17 +1,1 @@
-{
-  "internalId": 594210848,
-  "name": "Pyrebrand Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1731393,
-    1735163,
-    1754458,
-    1777415,
-    1731393,
-    1735163,
-    1754458,
-    1777415
-  ]
-}
+{"internalId":594210848,"name":"Pyrebrand Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_chest_a.png","bindType":-1,"knownIds":[1731393,1735163,1754458,1777415,1731393,1735163,1754458,1777415]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 79299573,
-  "name": "The Totems of Hircine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1248595
-  ]
-}
+{"internalId":79299573,"name":"The Totems of Hircine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1248595]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 3148928350,
-  "name": "Dunmer Cultural Garb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    808028,
-    247573,
-    1337848,
-    1503396,
-    808028,
-    247573,
-    1337848,
-    1503396
-  ]
-}
+{"internalId":3148928350,"name":"Dunmer Cultural Garb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[808028,247573,1337848,1503396,808028,247573,1337848,1503396]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2175609733,
-  "name": "Scrap Metal",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819008
-  ]
-}
+{"internalId":2175609733,"name":"Scrap Metal","description":"","icon":null,"bindType":-1,"knownIds":[819008]}

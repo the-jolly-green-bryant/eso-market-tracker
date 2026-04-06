@@ -1,13 +1,1 @@
-{
-  "internalId": 1732902246,
-  "name": "Bound Affix Script: Mangle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_mangle.png",
-  "bindType": -1,
-  "knownIds": [
-    1719659,
-    1721950,
-    1719659,
-    1721950
-  ]
-}
+{"internalId":1732902246,"name":"Bound Affix Script: Mangle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_mangle.png","bindType":-1,"knownIds":[1719659,1721950,1719659,1721950]}

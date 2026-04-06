@@ -1,10 +1,1 @@
-{
-  "internalId": 1974376901,
-  "name": "Tinker's Staff of Trouble",
-  "description": "You earned this staff by helping Kireth Vanos to corral a wayward Dwarven sphere. And her brother.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dwarven_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    70993
-  ]
-}
+{"internalId":1974376901,"name":"Tinker's Staff of Trouble","description":"You earned this staff by helping Kireth Vanos to corral a wayward Dwarven sphere. And her brother.","icon":"data/images/c_/ff/at/gear_dwarven_staff_c.png","bindType":2,"knownIds":[70993]}

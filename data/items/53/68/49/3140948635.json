@@ -1,10 +1,1 @@
-{
-  "internalId": 3140948635,
-  "name": "Maul of the Twin Sisters",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92411
-  ]
-}
+{"internalId":3140948635,"name":"Maul of the Twin Sisters","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[92411]}

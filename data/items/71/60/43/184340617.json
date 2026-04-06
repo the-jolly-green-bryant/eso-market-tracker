@@ -1,10 +1,1 @@
-{
-  "internalId": 184340617,
-  "name": "Coral, Crown",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_aqa_coralyellow002.png",
-  "bindType": -1,
-  "knownIds": [
-    118903
-  ]
-}
+{"internalId":184340617,"name":"Coral, Crown","description":"This is a small house item.","icon":"data/images/20/0w/ol/housing_veg_aqa_coralyellow002.png","bindType":-1,"knownIds":[118903]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1901792377,
-  "name": "Vampiric Candlestick",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabcandlestick001.png",
-  "bindType": -1,
-  "knownIds": [
-    181496
-  ]
-}
+{"internalId":1901792377,"name":"Vampiric Candlestick","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelabcandlestick001.png","bindType":-1,"knownIds":[181496]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 223201729,
-  "name": "Diagram: Dawnwood Container, Crow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    211448
-  ]
-}
+{"internalId":223201729,"name":"Diagram: Dawnwood Container, Crow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[211448]}

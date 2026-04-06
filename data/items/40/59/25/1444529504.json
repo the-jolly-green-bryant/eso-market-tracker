@@ -1,10 +1,1 @@
-{
-  "internalId": 1444529504,
-  "name": "Ayleid Crystal, Cracked",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_silornpuzzleshard001.png",
-  "bindType": -1,
-  "knownIds": [
-    211373
-  ]
-}
+{"internalId":1444529504,"name":"Ayleid Crystal, Cracked","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_silornpuzzleshard001.png","bindType":-1,"knownIds":[211373]}

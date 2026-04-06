@@ -1,10 +1,1 @@
-{
-  "internalId": 1477774767,
-  "name": "Alinor Writing Desk, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_writingdesk001.png",
-  "bindType": -1,
-  "knownIds": [
-    139086
-  ]
-}
+{"internalId":1477774767,"name":"Alinor Writing Desk, Noble","description":"This is a standard house item.","icon":"data/images/10/0k/se/housing_sum_fur_writingdesk001.png","bindType":-1,"knownIds":[139086]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3131603254,
-  "name": "Thumbscrews",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819903
-  ]
-}
+{"internalId":3131603254,"name":"Thumbscrews","description":"","icon":null,"bindType":-1,"knownIds":[819903]}

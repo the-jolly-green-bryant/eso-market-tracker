@@ -1,17 +1,1 @@
-{
-  "internalId": 468310152,
-  "name": "Dagger of Gryphon's Reprisal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_dagger_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1568950,
-    1595421,
-    1602890,
-    1661315,
-    1568950,
-    1595421,
-    1602890,
-    1661315
-  ]
-}
+{"internalId":468310152,"name":"Dagger of Gryphon's Reprisal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_scribestruthwpn_dagger_a.png","bindType":-1,"knownIds":[1568950,1595421,1602890,1661315,1568950,1595421,1602890,1661315]}

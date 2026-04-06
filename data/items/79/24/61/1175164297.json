@@ -1,10 +1,1 @@
-{
-  "internalId": 1175164297,
-  "name": "The Vicecanon's Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78384
-  ]
-}
+{"internalId":1175164297,"name":"The Vicecanon's Shoes","description":"","icon":"data/images/d_/te/ef/gear_argonian_light_feet_d.png","bindType":2,"knownIds":[78384]}

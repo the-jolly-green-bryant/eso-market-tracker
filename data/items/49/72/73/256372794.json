@@ -1,10 +1,1 @@
-{
-  "internalId": 256372794,
-  "name": "Leki's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199356
-  ]
-}
+{"internalId":256372794,"name":"Leki's Jack","description":"","icon":"data/images/a_/ts/eh/gear_abahswatch_medium_chest_a.png","bindType":2,"knownIds":[79764]}

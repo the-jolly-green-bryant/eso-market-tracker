@@ -1,10 +1,1 @@
-{
-  "internalId": 3132857425,
-  "name": "Silverhoof Hackamore",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_harness_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484052
-  ]
-}
+{"internalId":3132857425,"name":"Silverhoof Hackamore","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_harness_001.png","bindType":-1,"knownIds":[484052]}

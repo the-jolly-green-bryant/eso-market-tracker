@@ -1,10 +1,1 @@
-{
-  "internalId": 3491451310,
-  "name": "Epaulets of Bulwark Ruination",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211749
-  ]
-}
+{"internalId":3491451310,"name":"Epaulets of Bulwark Ruination","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shoulders_a.png","bindType":2,"knownIds":[211749]}

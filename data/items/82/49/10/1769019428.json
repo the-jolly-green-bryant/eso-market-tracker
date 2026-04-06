@@ -1,10 +1,1 @@
-{
-  "internalId": 1769019428,
-  "name": "Sweet Scented Infusion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33735
-  ]
-}
+{"internalId":1769019428,"name":"Sweet Scented Infusion","description":"","icon":"data/images/20/0_/el/crafting_stoneware_bottle_002.png","bindType":-1,"knownIds":[33735]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3727682746,
-  "name": "Colovian Pillar, Wooden",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousepillar002.png",
-  "bindType": -1,
-  "knownIds": [
-    208087
-  ]
-}
+{"internalId":3727682746,"name":"Colovian Pillar, Wooden","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_inthousepillar002.png","bindType":-1,"knownIds":[208087]}

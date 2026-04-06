@@ -1,10 +1,1 @@
-{
-  "internalId": 2664886532,
-  "name": "High Isle Wall Mirror, Gilded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_wallmirror003.png",
-  "bindType": -1,
-  "knownIds": [
-    187859
-  ]
-}
+{"internalId":2664886532,"name":"High Isle Wall Mirror, Gilded","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_wallmirror003.png","bindType":-1,"knownIds":[187859]}

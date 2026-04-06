@@ -1,10 +1,1 @@
-{
-  "internalId": 1878111298,
-  "name": "Leyawiin Lamppost, Floral Gilded",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylightpostb002.png",
-  "bindType": -1,
-  "knownIds": [
-    175634
-  ]
-}
+{"internalId":1878111298,"name":"Leyawiin Lamppost, Floral Gilded","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leylightpostb002.png","bindType":-1,"knownIds":[175634]}

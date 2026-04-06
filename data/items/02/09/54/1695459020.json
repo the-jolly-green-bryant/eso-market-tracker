@@ -1,10 +1,1 @@
-{
-  "internalId": 1695459020,
-  "name": "Crafting Motif 55: Dreadhorn Legs",
-  "description": "Use to learn how to make Dreadhorn Legs. Also teaches the equivalent Dreadhorn Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    132574
-  ]
-}
+{"internalId":1695459020,"name":"Crafting Motif 55: Dreadhorn Legs","description":"Use to learn how to make Dreadhorn Legs. Also teaches the equivalent Dreadhorn Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[132574]}

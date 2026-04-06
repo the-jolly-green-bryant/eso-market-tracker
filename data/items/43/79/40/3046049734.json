@@ -1,10 +1,1 @@
-{
-  "internalId": 3046049734,
-  "name": "Druidic Fence, Stone End",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_druwallmedstraightruin001.png",
-  "bindType": -1,
-  "knownIds": [
-    193829
-  ]
-}
+{"internalId":3046049734,"name":"Druidic Fence, Stone End","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_druwallmedstraightruin001.png","bindType":-1,"knownIds":[193829]}

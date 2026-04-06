@@ -1,10 +1,1 @@
-{
-  "internalId": 2451711054,
-  "name": "Rough Bin, Sturdy",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_cratesmall002.png",
-  "bindType": -1,
-  "knownIds": [
-    117933
-  ]
-}
+{"internalId":2451711054,"name":"Rough Bin, Sturdy","description":"This is a small house item.","icon":"data/images/20/0l/la/housing_bre_con_cratesmall002.png","bindType":-1,"knownIds":[117933]}

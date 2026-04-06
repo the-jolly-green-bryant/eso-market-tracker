@@ -1,10 +1,1 @@
-{
-  "internalId": 2220652598,
-  "name": "Dragon's Appetite Weapons",
-  "description": "A Crafted Armor set constructed in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182863
-  ]
-}
+{"internalId":2220652598,"name":"Dragon's Appetite Weapons","description":"A Crafted Armor set constructed in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182863]}

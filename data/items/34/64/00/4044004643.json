@@ -1,10 +1,1 @@
-{
-  "internalId": 4044004643,
-  "name": "Two Moons Platter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    384883
-  ]
-}
+{"internalId":4044004643,"name":"Two Moons Platter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_plate_001.png","bindType":-1,"knownIds":[384883]}

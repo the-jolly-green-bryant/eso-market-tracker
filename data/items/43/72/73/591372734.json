@@ -1,10 +1,1 @@
-{
-  "internalId": 591372734,
-  "name": "Counter-Rotating Moondial",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png",
-  "bindType": -1,
-  "knownIds": [
-    917534
-  ]
-}
+{"internalId":591372734,"name":"Counter-Rotating Moondial","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sundial_001.png","bindType":-1,"knownIds":[917534]}

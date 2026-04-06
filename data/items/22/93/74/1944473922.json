@@ -1,10 +1,1 @@
-{
-  "internalId": 1944473922,
-  "name": "Totemic Wolf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1386382
-  ]
-}
+{"internalId":1944473922,"name":"Totemic Wolf","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1386382]}

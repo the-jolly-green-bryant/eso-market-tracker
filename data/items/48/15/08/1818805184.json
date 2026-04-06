@@ -1,10 +1,1 @@
-{
-  "internalId": 1818805184,
-  "name": "Sash of High Isle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186076
-  ]
-}
+{"internalId":1818805184,"name":"Sash of High Isle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_waist_a.png","bindType":2,"knownIds":[186076]}

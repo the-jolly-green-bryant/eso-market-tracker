@@ -1,10 +1,1 @@
-{
-  "internalId": 695926909,
-  "name": "The Mane, Moons-Blessed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_housingstatuemane001.png",
-  "bindType": -1,
-  "knownIds": [
-    151611
-  ]
-}
+{"internalId":695926909,"name":"The Mane, Moons-Blessed","description":"This is a large house item.","icon":"data/images/10/0e/na/housing_els_exc_housingstatuemane001.png","bindType":-1,"knownIds":[151611]}

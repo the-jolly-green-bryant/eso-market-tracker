@@ -1,10 +1,1 @@
-{
-  "internalId": 3156260463,
-  "name": "Silver Quickener",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414350
-  ]
-}
+{"internalId":3156260463,"name":"Silver Quickener","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png","bindType":-1,"knownIds":[1414350]}

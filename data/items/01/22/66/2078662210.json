@@ -1,10 +1,1 @@
-{
-  "internalId": 2078662210,
-  "name": "ghastel bass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    381509
-  ]
-}
+{"internalId":2078662210,"name":"ghastel bass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[381509]}

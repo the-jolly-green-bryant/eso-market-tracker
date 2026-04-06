@@ -1,10 +1,1 @@
-{
-  "internalId": 3767566428,
-  "name": "Scavenged Plate, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_cmp_shantyplate004.png",
-  "bindType": -1,
-  "knownIds": [
-    134301
-  ]
-}
+{"internalId":3767566428,"name":"Scavenged Plate, Ornate","description":"This is a standard house item.","icon":"data/images/40/0e/ta/housing_cwc_cmp_shantyplate004.png","bindType":-1,"knownIds":[134301]}

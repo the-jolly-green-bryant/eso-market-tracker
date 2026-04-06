@@ -1,10 +1,1 @@
-{
-  "internalId": 1696337323,
-  "name": "Ancient Chromium Grains",
-  "description": "Grants a Chromium Plating when claimed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_raw_dingy_chromium.png",
-  "bindType": -1,
-  "knownIds": [
-    135154
-  ]
-}
+{"internalId":1696337323,"name":"Ancient Chromium Grains","description":"Grants a Chromium Plating when claimed.","icon":"data/images/mu/im/or/jewelrycrafting_booster_raw_dingy_chromium.png","bindType":-1,"knownIds":[135154]}

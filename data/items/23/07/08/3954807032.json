@@ -1,17 +1,1 @@
-{
-  "internalId": 3954807032,
-  "name": "Corpseburster Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1729083,
-    1735994,
-    1757176,
-    1760430,
-    1729083,
-    1735994,
-    1757176,
-    1760430
-  ]
-}
+{"internalId":3954807032,"name":"Corpseburster Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_shoulder_a.png","bindType":-1,"knownIds":[1729083,1735994,1757176,1760430,1729083,1735994,1757176,1760430]}

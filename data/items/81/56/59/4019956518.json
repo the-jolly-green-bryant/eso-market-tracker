@@ -1,10 +1,1 @@
-{
-  "internalId": 4019956518,
-  "name": "Glyph of Poison",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_poisonessence.png",
-  "bindType": -1,
-  "knownIds": [
-    26587
-  ]
-}
+{"internalId":4019956518,"name":"Glyph of Poison","description":"","icon":"data/images/ec/ne/ss/enchantment_weapon_poisonessence.png","bindType":-1,"knownIds":[26587]}

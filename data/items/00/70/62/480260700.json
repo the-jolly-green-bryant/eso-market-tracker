@@ -1,10 +1,1 @@
-{
-  "internalId": 480260700,
-  "name": "Three Queens Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214682
-  ]
-}
+{"internalId":480260700,"name":"Three Queens Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_staff_a.png","bindType":2,"knownIds":[214682]}

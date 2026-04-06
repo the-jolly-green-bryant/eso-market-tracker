@@ -1,10 +1,1 @@
-{
-  "internalId": 2665734159,
-  "name": "Mace of Baan Dar's Blessing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    204382
-  ]
-}
+{"internalId":2665734159,"name":"Mace of Baan Dar's Blessing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[204382]}

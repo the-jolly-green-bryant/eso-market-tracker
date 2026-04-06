@@ -1,10 +1,1 @@
-{
-  "internalId": 3937620821,
-  "name": "Rough Beech",
-  "description": "Ten of these items can be refined to make sanded beech.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_wood_base_beech_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    23117
-  ]
-}
+{"internalId":3937620821,"name":"Rough Beech","description":"Ten of these items can be refined to make sanded beech.","icon":"data/images/1r/_h/ce/crafting_wood_base_beech_r1.png","bindType":-1,"knownIds":[23117]}

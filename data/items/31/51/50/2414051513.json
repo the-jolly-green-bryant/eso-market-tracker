@@ -1,10 +1,1 @@
-{
-  "internalId": 2414051513,
-  "name": "Phoenix Moth Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190694
-  ]
-}
+{"internalId":2414051513,"name":"Phoenix Moth Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_shield_a.png","bindType":2,"knownIds":[190694]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 443610118,
-  "name": "Diagram: Indoril Chest, Fortified",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    126962
-  ]
-}
+{"internalId":443610118,"name":"Diagram: Indoril Chest, Fortified","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[126962]}

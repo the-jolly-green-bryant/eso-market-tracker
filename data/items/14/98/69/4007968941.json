@@ -1,15 +1,1 @@
-{
-  "internalId": 4007968941,
-  "name": "Immolator Charr's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undarmoredogrim_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1752124,
-    1757363,
-    1775001,
-    1752124,
-    1757363,
-    1775001
-  ]
-}
+{"internalId":4007968941,"name":"Immolator Charr's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undarmoredogrim_shoulders_a.png","bindType":-1,"knownIds":[1752124,1757363,1775001,1752124,1757363,1775001]}

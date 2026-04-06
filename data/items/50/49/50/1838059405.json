@@ -1,10 +1,1 @@
-{
-  "internalId": 1838059405,
-  "name": "High Isle Trunk, Sturdy",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_chestmid001.png",
-  "bindType": -1,
-  "knownIds": [
-    187837
-  ]
-}
+{"internalId":1838059405,"name":"High Isle Trunk, Sturdy","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_fur_chestmid001.png","bindType":-1,"knownIds":[187837]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 791634259,
-  "name": "Ceramic Dibella Figurine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    552118
-  ]
-}
+{"internalId":791634259,"name":"Ceramic Dibella Figurine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[552118]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4231391835,
-  "name": "Sculpting Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1414181,
-    1414181
-  ]
-}
+{"internalId":4231391835,"name":"Sculpting Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_stone_001.png","bindType":-1,"knownIds":[1414181,1414181]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1389140871,
-  "name": "Aetheric Lancer Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_2haxe.png",
-  "bindType": -1,
-  "knownIds": [
-    1749742,
-    1761514,
-    1772318,
-    1749742,
-    1761514,
-    1772318
-  ]
-}
+{"internalId":1389140871,"name":"Aetheric Lancer Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_2haxe.png","bindType":-1,"knownIds":[1749742,1761514,1772318,1749742,1761514,1772318]}

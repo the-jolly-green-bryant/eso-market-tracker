@@ -1,17 +1,1 @@
-{
-  "internalId": 1218511029,
-  "name": "The Blind Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theblind_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1716272,
-    1743515,
-    1743593,
-    1764404,
-    1716272,
-    1743515,
-    1743593,
-    1764404
-  ]
-}
+{"internalId":1218511029,"name":"The Blind Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theblind_head_a.png","bindType":-1,"knownIds":[1716272,1743515,1743593,1764404,1716272,1743515,1743593,1764404]}

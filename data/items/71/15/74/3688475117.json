@@ -1,10 +1,1 @@
-{
-  "internalId": 3688475117,
-  "name": "Speed-Draining Poison I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poison_002_green_005.png",
-  "bindType": -1,
-  "knownIds": [
-    76848
-  ]
-}
+{"internalId":3688475117,"name":"Speed-Draining Poison I","description":"","icon":"data/images/50/0_/ne/crafting_poison_002_green_005.png","bindType":-1,"knownIds":[76848]}

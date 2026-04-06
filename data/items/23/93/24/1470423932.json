@@ -1,10 +1,1 @@
-{
-  "internalId": 1470423932,
-  "name": "Praxis: Apocrypha Platform, Inset Center Tile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    203339
-  ]
-}
+{"internalId":1470423932,"name":"Praxis: Apocrypha Platform, Inset Center Tile","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[203339]}

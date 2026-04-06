@@ -1,10 +1,1 @@
-{
-  "internalId": 2431466415,
-  "name": "Whale-Bone Toothpick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_boneshard.png",
-  "bindType": -1,
-  "knownIds": [
-    921274
-  ]
-}
+{"internalId":2431466415,"name":"Whale-Bone Toothpick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_boneshard.png","bindType":-1,"knownIds":[921274]}

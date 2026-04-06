@@ -1,10 +1,1 @@
-{
-  "internalId": 771538544,
-  "name": "Signet of the Worm",
-  "description": "Worn by the upper ranks of Mannimarco's followers, this simple ring is stained with necromantic fluids.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    27273
-  ]
-}
+{"internalId":771538544,"name":"Signet of the Worm","description":"Worn by the upper ranks of Mannimarco's followers, this simple ring is stained with necromantic fluids.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[27273]}

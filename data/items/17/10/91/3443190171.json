@@ -1,10 +1,1 @@
-{
-  "internalId": 3443190171,
-  "name": "Diagram: Ayleid Chandelier, Metal Tiered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    211424
-  ]
-}
+{"internalId":3443190171,"name":"Diagram: Ayleid Chandelier, Metal Tiered","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[211424]}

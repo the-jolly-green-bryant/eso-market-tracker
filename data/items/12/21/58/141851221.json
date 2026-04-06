@@ -1,10 +1,1 @@
-{
-  "internalId": 141851221,
-  "name": "Recipe: Bitter Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46007
-  ]
-}
+{"internalId":141851221,"name":"Recipe: Bitter Tea","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46007]}

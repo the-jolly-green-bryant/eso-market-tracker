@@ -1,13 +1,1 @@
-{
-  "internalId": 2776585073,
-  "name": "Reflected Fury Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1737113,
-    1765781,
-    1737113,
-    1765781
-  ]
-}
+{"internalId":2776585073,"name":"Reflected Fury Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1haxe_a.png","bindType":-1,"knownIds":[1737113,1765781,1737113,1765781]}

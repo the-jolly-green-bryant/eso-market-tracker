@@ -1,10 +1,1 @@
-{
-  "internalId": 2929311589,
-  "name": "Staff of Fallen Ambition",
-  "description": "Compensation from Lyranth the Dremora.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png",
-  "bindType": 2,
-  "knownIds": [
-    182833
-  ]
-}
+{"internalId":2929311589,"name":"Staff of Fallen Ambition","description":"Compensation from Lyranth the Dremora.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_staff_c.png","bindType":2,"knownIds":[182833]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2216552387,
-  "name": "Netch Oil Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211920
-  ]
-}
+{"internalId":2216552387,"name":"Netch Oil Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[211920]}

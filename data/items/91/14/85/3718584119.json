@@ -1,10 +1,1 @@
-{
-  "internalId": 3718584119,
-  "name": "Cuirass of Critical Riposte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    158664
-  ]
-}
+{"internalId":3718584119,"name":"Cuirass of Critical Riposte","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[158664]}

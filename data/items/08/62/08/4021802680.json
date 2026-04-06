@@ -1,10 +1,1 @@
-{
-  "internalId": 4021802680,
-  "name": "Redoran Plate, Floral",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlaplate001_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    126525
-  ]
-}
+{"internalId":4021802680,"name":"Redoran Plate, Floral","description":"This is a small house item.","icon":"data/images/yt/pm/e_/housing_vrd_inc_hlaplate001_empty.png","bindType":-1,"knownIds":[126525]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3934128341,
-  "name": "Crafting Motif 78: Moongrave Fane Staves",
-  "description": "Use to learn how to make Moongrave Fane Staves. Also teaches the equivalent Moongrave Fane outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156603
-  ]
-}
+{"internalId":3934128341,"name":"Crafting Motif 78: Moongrave Fane Staves","description":"Use to learn how to make Moongrave Fane Staves. Also teaches the equivalent Moongrave Fane outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156603]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1445557237,
-  "name": "House Tamrith's Profound Proclamation",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    659871
-  ]
-}
+{"internalId":1445557237,"name":"House Tamrith's Profound Proclamation","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[659871]}

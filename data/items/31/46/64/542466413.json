@@ -1,10 +1,1 @@
-{
-  "internalId": 542466413,
-  "name": "Pattern: Hakoshae Banner, Blue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    152026
-  ]
-}
+{"internalId":542466413,"name":"Pattern: Hakoshae Banner, Blue","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[152026]}

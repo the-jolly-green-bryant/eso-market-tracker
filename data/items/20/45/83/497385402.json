@@ -1,10 +1,1 @@
-{
-  "internalId": 497385402,
-  "name": "True Heirs of the Empire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
-  "bindType": -1,
-  "knownIds": [
-    1140199
-  ]
-}
+{"internalId":497385402,"name":"True Heirs of the Empire","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png","bindType":-1,"knownIds":[1140199]}

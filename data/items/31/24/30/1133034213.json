@@ -1,10 +1,1 @@
-{
-  "internalId": 1133034213,
-  "name": "Wooden Marionette",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    560320
-  ]
-}
+{"internalId":1133034213,"name":"Wooden Marionette","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_doll_001.png","bindType":-1,"knownIds":[560320]}

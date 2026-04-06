@@ -1,13 +1,1 @@
-{
-  "internalId": 1438081077,
-  "name": "Maligalig's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1567933,
-    1569564,
-    1567933,
-    1569564
-  ]
-}
+{"internalId":1438081077,"name":"Maligalig's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1567933,1569564,1567933,1569564]}

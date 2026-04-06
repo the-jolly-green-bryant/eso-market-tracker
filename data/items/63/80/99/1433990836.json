@@ -1,15 +1,1 @@
-{
-  "internalId": 1433990836,
-  "name": "elixir of Magicka",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    363963,
-    698906,
-    1596378,
-    363963,
-    698906,
-    1596378
-  ]
-}
+{"internalId":1433990836,"name":"elixir of Magicka","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_002_type_005.png","bindType":-1,"knownIds":[363963,698906,1596378,363963,698906,1596378]}

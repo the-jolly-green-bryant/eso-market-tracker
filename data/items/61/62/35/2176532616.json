@@ -1,10 +1,1 @@
-{
-  "internalId": 2176532616,
-  "name": "Hawk's Eye",
-  "description": "A Medium Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    150658
-  ]
-}
+{"internalId":2176532616,"name":"Hawk's Eye","description":"A Medium Armor set found in Cyrodiil.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[150658]}

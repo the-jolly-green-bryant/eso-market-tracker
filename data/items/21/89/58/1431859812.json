@@ -1,10 +1,1 @@
-{
-  "internalId": 1431859812,
-  "name": "Dwarven Nutcracker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_dwarven_tuner.png",
-  "bindType": -1,
-  "knownIds": [
-    1281184
-  ]
-}
+{"internalId":1431859812,"name":"Dwarven Nutcracker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_dwarven_tuner.png","bindType":-1,"knownIds":[1281184]}

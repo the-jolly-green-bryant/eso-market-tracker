@@ -1,10 +1,1 @@
-{
-  "internalId": 4265086248,
-  "name": "Bow of Mechanical Acuity",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    131392
-  ]
-}
+{"internalId":4265086248,"name":"Bow of Mechanical Acuity","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[131392]}

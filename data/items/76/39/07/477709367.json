@@ -1,10 +1,1 @@
-{
-  "internalId": 477709367,
-  "name": "Tharriker's Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    205742
-  ]
-}
+{"internalId":477709367,"name":"Tharriker's Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png","bindType":2,"knownIds":[205742]}

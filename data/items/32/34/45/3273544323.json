@@ -1,10 +1,1 @@
-{
-  "internalId": 3273544323,
-  "name": "Seventh Legion's the Wolfguard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34486
-  ]
-}
+{"internalId":3273544323,"name":"Seventh Legion's the Wolfguard","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[34486]}

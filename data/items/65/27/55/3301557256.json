@@ -1,10 +1,1 @@
-{
-  "internalId": 3301557256,
-  "name": "Murkmire Shrine, Sithis Rearing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_run_mrksithisshrine002.png",
-  "bindType": -1,
-  "knownIds": [
-    145345
-  ]
-}
+{"internalId":3301557256,"name":"Murkmire Shrine, Sithis Rearing","description":"This is a standard house item.","icon":"data/images/20/0e/ni/housing_arg_run_mrksithisshrine002.png","bindType":-1,"knownIds":[145345]}

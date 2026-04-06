@@ -1,10 +1,1 @@
-{
-  "internalId": 3364863074,
-  "name": "Scabrous Grenadier",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    1266025
-  ]
-}
+{"internalId":3364863074,"name":"Scabrous Grenadier","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[1266025]}

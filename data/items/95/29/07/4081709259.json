@@ -1,10 +1,1 @@
-{
-  "internalId": 4081709259,
-  "name": "Blood Groove",
-  "description": "This axe has dozens of tiny notches along the haft. A pair of fangs are fastened tightly to the grip.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    4290
-  ]
-}
+{"internalId":4081709259,"name":"Blood Groove","description":"This axe has dozens of tiny notches along the haft. A pair of fangs are fastened tightly to the grip.","icon":"data/images/d_/ex/ah/gear_orc_1haxe_d.png","bindType":2,"knownIds":[4290]}

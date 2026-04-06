@@ -1,10 +1,1 @@
-{
-  "internalId": 3372192319,
-  "name": "Dagger of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_dagger_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95791
-  ]
-}
+{"internalId":3372192319,"name":"Dagger of the Air","description":"","icon":"data/images/a_/re/gg/gear_yokudan_dagger_a.png","bindType":2,"knownIds":[95791]}

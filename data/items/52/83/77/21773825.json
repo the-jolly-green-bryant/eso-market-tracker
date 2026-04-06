@@ -1,10 +1,1 @@
-{
-  "internalId": 21773825,
-  "name": "Crafting Motif 93: Ancestral Breton Gloves",
-  "description": "Use to learn how to make Ancestral Breton Gloves. Also teaches the equivalent Ancestral Breton Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167197
-  ]
-}
+{"internalId":21773825,"name":"Crafting Motif 93: Ancestral Breton Gloves","description":"Use to learn how to make Ancestral Breton Gloves. Also teaches the equivalent Ancestral Breton Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167197]}

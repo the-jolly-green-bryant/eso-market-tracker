@@ -1,10 +1,1 @@
-{
-  "internalId": 2703295072,
-  "name": "Grandmam's Roast Rabbit Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    401625
-  ]
-}
+{"internalId":2703295072,"name":"Grandmam's Roast Rabbit Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[401625]}

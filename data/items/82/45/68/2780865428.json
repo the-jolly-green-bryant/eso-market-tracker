@@ -1,10 +1,1 @@
-{
-  "internalId": 2780865428,
-  "name": "Lookout's Breeches",
-  "description": "Warm, durable, and water-resistant, the clothes of Altmer sailors are prized the world over.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    197810
-  ]
-}
+{"internalId":2780865428,"name":"Lookout's Breeches","description":"Warm, durable, and water-resistant, the clothes of Altmer sailors are prized the world over.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_legs_d.png","bindType":2,"knownIds":[197810]}

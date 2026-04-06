@@ -1,10 +1,1 @@
-{
-  "internalId": 48230330,
-  "name": "King Dumac's Royal Latrine Cloth Roll",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_king_dumacs_royal_latrine_cloth_roll.png",
-  "bindType": -1,
-  "knownIds": [
-    860383
-  ]
-}
+{"internalId":48230330,"name":"King Dumac's Royal Latrine Cloth Roll","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_king_dumacs_royal_latrine_cloth_roll.png","bindType":-1,"knownIds":[860383]}

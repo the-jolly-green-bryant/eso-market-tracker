@@ -1,10 +1,1 @@
-{
-  "internalId": 583855464,
-  "name": "Blueprint: High Isle Bookcase, Wide Carved Filled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    188169
-  ]
-}
+{"internalId":583855464,"name":"Blueprint: High Isle Bookcase, Wide Carved Filled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[188169]}

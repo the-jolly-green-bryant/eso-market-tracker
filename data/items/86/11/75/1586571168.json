@@ -1,10 +1,1 @@
-{
-  "internalId": 1586571168,
-  "name": "All Home Deeds Envelope",
-  "description": "This envelope contains the deeds to all Homes available in ESO.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": 3,
-  "knownIds": [
-    192369
-  ]
-}
+{"internalId":1586571168,"name":"All Home Deeds Envelope","description":"This envelope contains the deeds to all Homes available in ESO.","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":3,"knownIds":[192369]}

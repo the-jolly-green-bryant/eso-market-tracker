@@ -1,10 +1,1 @@
-{
-  "internalId": 368069023,
-  "name": "Three Queens Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214687
-  ]
-}
+{"internalId":368069023,"name":"Three Queens Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_light_head_a.png","bindType":2,"knownIds":[214687]}

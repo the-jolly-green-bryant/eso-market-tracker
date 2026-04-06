@@ -1,10 +1,1 @@
-{
-  "internalId": 2281193505,
-  "name": "Old Growth Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    191948
-  ]
-}
+{"internalId":2281193505,"name":"Old Growth Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[191948]}

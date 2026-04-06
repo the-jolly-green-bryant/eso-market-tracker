@@ -1,10 +1,1 @@
-{
-  "internalId": 688262910,
-  "name": "Praxis: Stone-Nest Sconce, Xanmeer Snake",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    223642
-  ]
-}
+{"internalId":688262910,"name":"Praxis: Stone-Nest Sconce, Xanmeer Snake","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[223642]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 296233404,
-  "name": "Defiler's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123137
-  ]
-}
+{"internalId":296233404,"name":"Defiler's Shield","description":"","icon":"data/images/a_/dl/ei/gear_hlaalu_shield_a.png","bindType":2,"knownIds":[123137]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1375607256,
-  "name": "Curtain of Crocodile Teeth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1367673
-  ]
-}
+{"internalId":1375607256,"name":"Curtain of Crocodile Teeth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[1367673]}

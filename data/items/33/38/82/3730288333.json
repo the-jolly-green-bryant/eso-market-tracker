@@ -1,10 +1,1 @@
-{
-  "internalId": 3730288333,
-  "name": "Common Soul Gem (Empty)",
-  "description": "Used to capture Level 30 - 39 souls.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_004_empty.png",
-  "bindType": -1,
-  "knownIds": [
-    33263
-  ]
-}
+{"internalId":3730288333,"name":"Common Soul Gem (Empty)","description":"Used to capture Level 30 - 39 souls.","icon":"data/images/yt/pm/e_/soulgem_004_empty.png","bindType":-1,"knownIds":[33263]}

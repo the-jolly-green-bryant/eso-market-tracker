@@ -1,10 +1,1 @@
-{
-  "internalId": 2625796341,
-  "name": "Rubedo Leather",
-  "description": "An ingredient for crafting leather armor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_daedric_skin.png",
-  "bindType": -1,
-  "knownIds": [
-    64506
-  ]
-}
+{"internalId":2625796341,"name":"Rubedo Leather","description":"An ingredient for crafting leather armor.","icon":"data/images/ni/ks/_c/crafting_daedric_skin.png","bindType":-1,"knownIds":[64506]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4235689204,
-  "name": "Apocrypha Tree, Fossilized",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_apc_fossiltree021.png",
-  "bindType": -1,
-  "knownIds": [
-    197640
-  ]
-}
+{"internalId":4235689204,"name":"Apocrypha Tree, Fossilized","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_apc_fossiltree021.png","bindType":-1,"knownIds":[197640]}

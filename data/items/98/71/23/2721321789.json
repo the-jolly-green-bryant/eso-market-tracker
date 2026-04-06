@@ -1,10 +1,1 @@
-{
-  "internalId": 2721321789,
-  "name": "Colovian Counter, Corner",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_countercornerhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    204655
-  ]
-}
+{"internalId":2721321789,"name":"Colovian Counter, Corner","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_countercornerhigh001.png","bindType":-1,"knownIds":[204655]}

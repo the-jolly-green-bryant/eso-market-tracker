@@ -1,10 +1,1 @@
-{
-  "internalId": 2530524804,
-  "name": "Bright-Throat's Boast Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_elderarg_2hmace_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142753
-  ]
-}
+{"internalId":2530524804,"name":"Bright-Throat's Boast Maul","description":"","icon":"data/images/a_/ec/am/gear_elderarg_2hmace_a.png","bindType":2,"knownIds":[142753]}

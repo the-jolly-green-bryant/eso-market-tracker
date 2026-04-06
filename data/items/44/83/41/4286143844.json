@@ -1,10 +1,1 @@
-{
-  "internalId": 4286143844,
-  "name": "Galerion's Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78213
-  ]
-}
+{"internalId":4286143844,"name":"Galerion's Jerkin","description":"","icon":"data/images/d_/tr/ih/gear_altmer_light_shirt_d.png","bindType":2,"knownIds":[78213]}

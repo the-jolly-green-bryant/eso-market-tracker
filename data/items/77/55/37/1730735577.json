@@ -1,10 +1,1 @@
-{
-  "internalId": 1730735577,
-  "name": "Dark Elf Rug, Fungal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_ruground002.png",
-  "bindType": -1,
-  "knownIds": [
-    115311
-  ]
-}
+{"internalId":1730735577,"name":"Dark Elf Rug, Fungal","description":"This is a standard house item.","icon":"data/images/20/0d/nu/housing_dun_inc_ruground002.png","bindType":-1,"knownIds":[115311]}

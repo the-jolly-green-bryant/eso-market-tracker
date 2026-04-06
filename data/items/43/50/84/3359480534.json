@@ -1,10 +1,1 @@
-{
-  "internalId": 3359480534,
-  "name": "Alchemist Survey: Wrothgar I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    797053
-  ]
-}
+{"internalId":3359480534,"name":"Alchemist Survey: Wrothgar I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[797053]}

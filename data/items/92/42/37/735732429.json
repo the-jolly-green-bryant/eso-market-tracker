@@ -1,10 +1,1 @@
-{
-  "internalId": 735732429,
-  "name": "Metallic: Graveyard Grays",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan263.png",
-  "bindType": -1,
-  "knownIds": [
-    1187010
-  ]
-}
+{"internalId":735732429,"name":"Metallic: Graveyard Grays","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan263.png","bindType":-1,"knownIds":[1187010]}

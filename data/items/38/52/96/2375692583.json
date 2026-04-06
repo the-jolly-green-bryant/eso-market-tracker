@@ -1,10 +1,1 @@
-{
-  "internalId": 2375692583,
-  "name": "Hlaalu Stove, Chiminea",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlachiminea001.png",
-  "bindType": -1,
-  "knownIds": [
-    147598
-  ]
-}
+{"internalId":2375692583,"name":"Hlaalu Stove, Chiminea","description":"This is a standard house item.","icon":"data/images/10/0a/en/housing_vrd_fur_hlachiminea001.png","bindType":-1,"knownIds":[147598]}

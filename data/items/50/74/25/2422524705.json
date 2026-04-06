@@ -1,10 +1,1 @@
-{
-  "internalId": 2422524705,
-  "name": "Lustrous Soulwell Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1768098
-  ]
-}
+{"internalId":2422524705,"name":"Lustrous Soulwell Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_bow_a.png","bindType":-1,"knownIds":[1768098]}

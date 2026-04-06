@@ -1,10 +1,1 @@
-{
-  "internalId": 464352809,
-  "name": "Slow-Simmered Rabbit Goulash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    43128
-  ]
-}
+{"internalId":464352809,"name":"Slow-Simmered Rabbit Goulash","description":"","icon":"data/images/10/0_/we/crafting_stew_001.png","bindType":-1,"knownIds":[43128]}

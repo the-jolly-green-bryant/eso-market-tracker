@@ -1,10 +1,1 @@
-{
-  "internalId": 486177112,
-  "name": "Jewelry Crafting Survey: Shadowfen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240325
-  ]
-}
+{"internalId":486177112,"name":"Jewelry Crafting Survey: Shadowfen","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1240325]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2816973641,
-  "name": "Elsweyr Bookshelf, Wooden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_lowbookcase001.png",
-  "bindType": -1,
-  "knownIds": [
-    1335874
-  ]
-}
+{"internalId":2816973641,"name":"Elsweyr Bookshelf, Wooden","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_lowbookcase001.png","bindType":-1,"knownIds":[1335874]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1442740862,
-  "name": "Diagram: Colovian Chandelier, Grapes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png",
-  "bindType": -1,
-  "knownIds": [
-    211034
-  ]
-}
+{"internalId":1442740862,"name":"Diagram: Colovian Chandelier, Grapes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png","bindType":-1,"knownIds":[211034]}

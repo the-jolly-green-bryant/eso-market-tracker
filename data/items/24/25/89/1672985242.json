@@ -1,10 +1,1 @@
-{
-  "internalId": 1672985242,
-  "name": "Design: Common Bowl of Soup, Display",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    119377
-  ]
-}
+{"internalId":1672985242,"name":"Design: Common Bowl of Soup, Display","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[119377]}

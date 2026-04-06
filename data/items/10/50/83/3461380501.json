@@ -1,10 +1,1 @@
-{
-  "internalId": 3461380501,
-  "name": "The Laughing Blade",
-  "description": "Dunmer daggers in this style purportedly contain secret compartments for poison, though no one has ever located any.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    29949
-  ]
-}
+{"internalId":3461380501,"name":"The Laughing Blade","description":"Dunmer daggers in this style purportedly contain secret compartments for poison, though no one has ever located any.","icon":"data/images/d_/re/gg/gear_dunmer_dagger_d.png","bindType":2,"knownIds":[29949]}

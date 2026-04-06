@@ -1,10 +1,1 @@
-{
-  "internalId": 3199558289,
-  "name": "Design: Elsweyr Spice Display, Turmeric Yellow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    151994
-  ]
-}
+{"internalId":3199558289,"name":"Design: Elsweyr Spice Display, Turmeric Yellow","description":"","icon":"data/images/2g/ni/no/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[151994]}

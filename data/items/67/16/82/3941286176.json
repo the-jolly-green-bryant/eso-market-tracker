@@ -1,10 +1,1 @@
-{
-  "internalId": 3941286176,
-  "name": "Murky Bitterlemon Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_005.png",
-  "bindType": -1,
-  "knownIds": [
-    32092
-  ]
-}
+{"internalId":3941286176,"name":"Murky Bitterlemon Tea","description":"","icon":"data/images/50/0_/ae/crafting_tea_005.png","bindType":-1,"knownIds":[32092]}

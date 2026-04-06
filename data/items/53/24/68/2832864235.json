@@ -1,10 +1,1 @@
-{
-  "internalId": 2832864235,
-  "name": "Ayleid Constellation Stele, The Lord",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmalllord001.png",
-  "bindType": -1,
-  "knownIds": [
-    182630
-  ]
-}
+{"internalId":2832864235,"name":"Ayleid Constellation Stele, The Lord","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_constellationpanelsmalllord001.png","bindType":-1,"knownIds":[182630]}

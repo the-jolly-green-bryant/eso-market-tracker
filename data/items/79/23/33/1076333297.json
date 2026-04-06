@@ -1,10 +1,1 @@
-{
-  "internalId": 1076333297,
-  "name": "The Hound's Helm",
-  "description": "While not shaped like an actual hound's head, this helm would provide excellent protection against one.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15527
-  ]
-}
+{"internalId":1076333297,"name":"The Hound's Helm","description":"While not shaped like an actual hound's head, this helm would provide excellent protection against one.","icon":"data/images/d_/da/eh/gear_bosmer_medium_head_d.png","bindType":2,"knownIds":[15527]}

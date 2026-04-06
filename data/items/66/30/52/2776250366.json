@@ -1,10 +1,1 @@
-{
-  "internalId": 2776250366,
-  "name": "Alinor Sconce, Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_aldwallsconce001.png",
-  "bindType": -1,
-  "knownIds": [
-    139196
-  ]
-}
+{"internalId":2776250366,"name":"Alinor Sconce, Arched","description":"This is a standard house item.","icon":"data/images/10/0e/cn/housing_sum_lsb_aldwallsconce001.png","bindType":-1,"knownIds":[139196]}

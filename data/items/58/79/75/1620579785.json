@@ -1,10 +1,1 @@
-{
-  "internalId": 1620579785,
-  "name": "Praxis: Apocrypha Stele, Tentacles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    198482
-  ]
-}
+{"internalId":1620579785,"name":"Praxis: Apocrypha Stele, Tentacles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[198482]}

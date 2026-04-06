@@ -1,10 +1,1 @@
-{
-  "internalId": 3493055719,
-  "name": "Silver-Spun Fishing Twine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1256171
-  ]
-}
+{"internalId":3493055719,"name":"Silver-Spun Fishing Twine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_vendor_component_002.png","bindType":-1,"knownIds":[1256171]}

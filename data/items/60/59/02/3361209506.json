@@ -1,10 +1,1 @@
-{
-  "internalId": 3361209506,
-  "name": "Unidentified Depths of Malatar Armaments",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1303526
-  ]
-}
+{"internalId":3361209506,"name":"Unidentified Depths of Malatar Armaments","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1303526]}

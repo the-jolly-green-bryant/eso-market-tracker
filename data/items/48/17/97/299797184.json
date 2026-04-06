@@ -1,10 +1,1 @@
-{
-  "internalId": 299797184,
-  "name": "Sithis' Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77510
-  ]
-}
+{"internalId":299797184,"name":"Sithis' Boots","description":"","icon":"data/images/a_/te/ef/gear_darkbrotherhoodv2_medium_feet_a.png","bindType":2,"knownIds":[77510]}

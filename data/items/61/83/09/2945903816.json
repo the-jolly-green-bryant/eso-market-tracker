@@ -1,10 +1,1 @@
-{
-  "internalId": 2945903816,
-  "name": "Garnet",
-  "description": "Can be used to enhance armor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_jewelry_base_garnet_r3.png",
-  "bindType": -1,
-  "knownIds": [
-    23171
-  ]
-}
+{"internalId":2945903816,"name":"Garnet","description":"Can be used to enhance armor.","icon":"data/images/3r/_t/en/crafting_jewelry_base_garnet_r3.png","bindType":-1,"knownIds":[23171]}

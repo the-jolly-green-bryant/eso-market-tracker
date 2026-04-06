@@ -1,17 +1,1 @@
-{
-  "internalId": 1995245386,
-  "name": "Blind Path Induction Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1721527,
-    1732147,
-    1735460,
-    1743514,
-    1721527,
-    1732147,
-    1735460,
-    1743514
-  ]
-}
+{"internalId":1995245386,"name":"Blind Path Induction Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2hsword_a.png","bindType":-1,"knownIds":[1721527,1732147,1735460,1743514,1721527,1732147,1735460,1743514]}

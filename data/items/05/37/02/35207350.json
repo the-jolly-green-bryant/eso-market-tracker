@@ -1,10 +1,1 @@
-{
-  "internalId": 35207350,
-  "name": "Sithis' Pauldron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_heavy_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77499
-  ]
-}
+{"internalId":35207350,"name":"Sithis' Pauldron","description":"","icon":"data/images/a_/sr/ed/gear_darkbrotherhoodv2_heavy_shoulders_a.png","bindType":2,"knownIds":[77499]}

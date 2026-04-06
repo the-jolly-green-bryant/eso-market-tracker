@@ -1,10 +1,1 @@
-{
-  "internalId": 1183240028,
-  "name": "Covenant's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_staff_b.png",
-  "bindType": 2,
-  "knownIds": [
-    55848
-  ]
-}
+{"internalId":1183240028,"name":"Covenant's Restoration Staff","description":"","icon":"data/images/b_/ff/at/gear_akaviri_staff_b.png","bindType":2,"knownIds":[55848]}

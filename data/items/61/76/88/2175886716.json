@@ -1,10 +1,1 @@
-{
-  "internalId": 2175886716,
-  "name": "Red Rook Disguise",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    390155
-  ]
-}
+{"internalId":2175886716,"name":"Red Rook Disguise","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[390155]}

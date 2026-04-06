@@ -1,10 +1,1 @@
-{
-  "internalId": 1412049847,
-  "name": "Shatul Clan Echatere Paint",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801040
-  ]
-}
+{"internalId":1412049847,"name":"Shatul Clan Echatere Paint","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png","bindType":-1,"knownIds":[801040]}

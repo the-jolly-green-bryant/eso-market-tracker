@@ -1,10 +1,1 @@
-{
-  "internalId": 3682732272,
-  "name": "Mara Temple Chimes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    1385615
-  ]
-}
+{"internalId":3682732272,"name":"Mara Temple Chimes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[1385615]}

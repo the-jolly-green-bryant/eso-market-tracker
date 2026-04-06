@@ -1,10 +1,1 @@
-{
-  "internalId": 1671490173,
-  "name": "Jera",
-  "description": "Jera",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_040.png",
-  "bindType": -1,
-  "knownIds": [
-    45857
-  ]
-}
+{"internalId":1671490173,"name":"Jera","description":"Jera","icon":"data/images/04/0_/se/crafting_components_runestones_040.png","bindType":-1,"knownIds":[45857]}

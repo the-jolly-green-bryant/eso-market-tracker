@@ -1,10 +1,1 @@
-{
-  "internalId": 2778111205,
-  "name": "Crafting Motif 112: Syrabanic Marine Bows",
-  "description": "Use to learn how to make Syrabanic Marine Bows. Also teaches the equivalent Syrabanic Marine Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    182524
-  ]
-}
+{"internalId":2778111205,"name":"Crafting Motif 112: Syrabanic Marine Bows","description":"Use to learn how to make Syrabanic Marine Bows. Also teaches the equivalent Syrabanic Marine Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[182524]}

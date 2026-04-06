@@ -1,10 +1,1 @@
-{
-  "internalId": 54533463,
-  "name": "stickleback",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    578048
-  ]
-}
+{"internalId":54533463,"name":"stickleback","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[578048]}

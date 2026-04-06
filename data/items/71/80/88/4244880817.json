@@ -1,10 +1,1 @@
-{
-  "internalId": 4244880817,
-  "name": "Sip of Potent Stamina",
-  "description": "Bastian's methods help you identify that some potions are a bit stronger than others.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    176042
-  ]
-}
+{"internalId":4244880817,"name":"Sip of Potent Stamina","description":"Bastian's methods help you identify that some potions are a bit stronger than others.","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_005.png","bindType":-1,"knownIds":[176042]}

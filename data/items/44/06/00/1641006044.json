@@ -1,15 +1,1 @@
-{
-  "internalId": 1641006044,
-  "name": "Ansuul's Perfected Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1650474,
-    1736306,
-    1767973,
-    1650474,
-    1736306,
-    1767973
-  ]
-}
+{"internalId":1641006044,"name":"Ansuul's Perfected Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_clandreamcarver_bow_a.png","bindType":-1,"knownIds":[1650474,1736306,1767973,1650474,1736306,1767973]}

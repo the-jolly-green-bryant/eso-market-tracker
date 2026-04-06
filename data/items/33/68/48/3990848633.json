@@ -1,10 +1,1 @@
-{
-  "internalId": 3990848633,
-  "name": "Elegant Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94249
-  ]
-}
+{"internalId":3990848633,"name":"Elegant Gloves","description":"","icon":"data/images/d_/sd/na/gear_altmer_light_hands_d.png","bindType":2,"knownIds":[94249]}

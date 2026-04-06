@@ -1,10 +1,1 @@
-{
-  "internalId": 2937386984,
-  "name": "Skordo's Stalwart",
-  "description": "Skordo the Knife awarded this shield for releasing the Fighters Guild prisoners from the Tower of Lies.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15776
-  ]
-}
+{"internalId":2937386984,"name":"Skordo's Stalwart","description":"Skordo the Knife awarded this shield for releasing the Fighters Guild prisoners from the Tower of Lies.","icon":"data/images/d_/dl/ei/gear_orc_shield_d.png","bindType":2,"knownIds":[15776]}

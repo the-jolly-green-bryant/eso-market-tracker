@@ -1,10 +1,1 @@
-{
-  "internalId": 2124608291,
-  "name": "Clockwork Enchanting Station",
-  "description": "When placed in your home, allows you to craft Enchantment items.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_tableenchanter001.png",
-  "bindType": -1,
-  "knownIds": [
-    134280
-  ]
-}
+{"internalId":2124608291,"name":"Clockwork Enchanting Station","description":"When placed in your home, allows you to craft Enchantment items.","icon":"data/images/10/0r/et/housing_cwc_crf_tableenchanter001.png","bindType":-1,"knownIds":[134280]}

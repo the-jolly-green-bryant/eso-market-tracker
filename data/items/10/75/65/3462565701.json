@@ -1,10 +1,1 @@
-{
-  "internalId": 3462565701,
-  "name": "Leather Armor Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    811198
-  ]
-}
+{"internalId":3462565701,"name":"Leather Armor Wax","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[811198]}

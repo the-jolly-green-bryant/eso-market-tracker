@@ -1,10 +1,1 @@
-{
-  "internalId": 1314573836,
-  "name": "Jewelry: Moon Hunter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1313165
-  ]
-}
+{"internalId":1314573836,"name":"Jewelry: Moon Hunter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1313165]}

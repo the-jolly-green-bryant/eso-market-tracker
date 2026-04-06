@@ -1,10 +1,1 @@
-{
-  "internalId": 3884906012,
-  "name": "Colovian Rake, Rough",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_farmrake001.png",
-  "bindType": -1,
-  "knownIds": [
-    204737
-  ]
-}
+{"internalId":3884906012,"name":"Colovian Rake, Rough","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_farmrake001.png","bindType":-1,"knownIds":[204737]}

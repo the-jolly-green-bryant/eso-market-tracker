@@ -1,10 +1,1 @@
-{
-  "internalId": 3070323349,
-  "name": "Wizard's Riposte Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123880
-  ]
-}
+{"internalId":3070323349,"name":"Wizard's Riposte Lightning Staff","description":"","icon":"data/images/a_/ff/at/gear_ordinator_staff_a.png","bindType":2,"knownIds":[123880]}

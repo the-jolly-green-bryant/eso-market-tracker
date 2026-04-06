@@ -1,10 +1,1 @@
-{
-  "internalId": 3608482415,
-  "name": "Girdle of Durok's Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    88328
-  ]
-}
+{"internalId":3608482415,"name":"Girdle of Durok's Bane","description":"","icon":"data/images/d_/ts/ia/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[88328]}

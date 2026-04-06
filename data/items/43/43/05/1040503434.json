@@ -1,10 +1,1 @@
-{
-  "internalId": 1040503434,
-  "name": "Shol Relic",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819290
-  ]
-}
+{"internalId":1040503434,"name":"Shol Relic","description":"","icon":null,"bindType":-1,"knownIds":[819290]}

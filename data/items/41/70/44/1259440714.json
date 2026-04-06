@@ -1,10 +1,1 @@
-{
-  "internalId": 1259440714,
-  "name": "Epaulets of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79177
-  ]
-}
+{"internalId":1259440714,"name":"Epaulets of Imperial Physique","description":"","icon":"data/images/a_/sr/ed/gear_ooth_light_shoulders_a.png","bindType":2,"knownIds":[79177]}

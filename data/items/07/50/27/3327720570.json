@@ -1,10 +1,1 @@
-{
-  "internalId": 3327720570,
-  "name": "Jack of Redistribution",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    60638
-  ]
-}
+{"internalId":3327720570,"name":"Jack of Redistribution","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[60638]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4034726010,
-  "name": "Blueprint: Necrom Cart, Funerary",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    198062
-  ]
-}
+{"internalId":4034726010,"name":"Blueprint: Necrom Cart, Funerary","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[198062]}

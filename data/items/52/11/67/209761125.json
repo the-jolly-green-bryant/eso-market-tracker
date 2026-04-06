@@ -1,10 +1,1 @@
-{
-  "internalId": 209761125,
-  "name": "Rug of the Undaunted, Octagram",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holundrug001.png",
-  "bindType": -1,
-  "knownIds": [
-    208113
-  ]
-}
+{"internalId":209761125,"name":"Rug of the Undaunted, Octagram","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holundrug001.png","bindType":-1,"knownIds":[208113]}

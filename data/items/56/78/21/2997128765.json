@@ -1,10 +1,1 @@
-{
-  "internalId": 2997128765,
-  "name": "Old Wheat Malt",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_malt_004.png",
-  "bindType": -1,
-  "knownIds": [
-    40263
-  ]
-}
+{"internalId":2997128765,"name":"Old Wheat Malt","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/40/0_/tl/crafting_components_malt_004.png","bindType":-1,"knownIds":[40263]}

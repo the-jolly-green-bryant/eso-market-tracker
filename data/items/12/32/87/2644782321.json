@@ -1,10 +1,1 @@
-{
-  "internalId": 2644782321,
-  "name": "Daedric Post, Spike",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedspikepost001.png",
-  "bindType": -1,
-  "knownIds": [
-    196206
-  ]
-}
+{"internalId":2644782321,"name":"Daedric Post, Spike","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedspikepost001.png","bindType":-1,"knownIds":[196206]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1434791261,
-  "name": "Silver Gravy Boat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    419136
-  ]
-}
+{"internalId":1434791261,"name":"Silver Gravy Boat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[419136]}

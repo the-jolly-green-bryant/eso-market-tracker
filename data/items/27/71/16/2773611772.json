@@ -1,10 +1,1 @@
-{
-  "internalId": 2773611772,
-  "name": "Leyawiin Meal, Squid",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplate005.png",
-  "bindType": -1,
-  "knownIds": [
-    175681
-  ]
-}
+{"internalId":2773611772,"name":"Leyawiin Meal, Squid","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenloplate005.png","bindType":-1,"knownIds":[175681]}

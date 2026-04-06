@@ -1,10 +1,1 @@
-{
-  "internalId": 2630894409,
-  "name": "Diagram: Clockwork Wardrobe, Precision Engineered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    134515
-  ]
-}
+{"internalId":2630894409,"name":"Diagram: Clockwork Wardrobe, Precision Engineered","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[134515]}

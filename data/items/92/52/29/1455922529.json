@@ -1,10 +1,1 @@
-{
-  "internalId": 1455922529,
-  "name": "Stuffed Fox",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_hands_001.png",
-  "bindType": -1,
-  "knownIds": [
-    809068
-  ]
-}
+{"internalId":1455922529,"name":"Stuffed Fox","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_hands_001.png","bindType":-1,"knownIds":[809068]}

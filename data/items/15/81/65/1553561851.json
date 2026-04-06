@@ -1,10 +1,1 @@
-{
-  "internalId": 1553561851,
-  "name": "Faceless Staff",
-  "description": "Faint whispers, heard only by the wielder, are said to emanate from this ill-omened weapon.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    45760
-  ]
-}
+{"internalId":1553561851,"name":"Faceless Staff","description":"Faint whispers, heard only by the wielder, are said to emanate from this ill-omened weapon.","icon":"data/images/d_/ff/at/gear_dunmer_staff_d.png","bindType":2,"knownIds":[45760]}

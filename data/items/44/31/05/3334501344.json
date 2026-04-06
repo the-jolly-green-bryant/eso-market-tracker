@@ -1,10 +1,1 @@
-{
-  "internalId": 3334501344,
-  "name": "Blood Amber",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_gems_hrotanda.png",
-  "bindType": -1,
-  "knownIds": [
-    1366641
-  ]
-}
+{"internalId":3334501344,"name":"Blood Amber","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_gems_hrotanda.png","bindType":-1,"knownIds":[1366641]}

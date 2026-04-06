@@ -1,10 +1,1 @@
-{
-  "internalId": 1531688306,
-  "name": "Vines, Curtain Ivy",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_vin_ivy002.png",
-  "bindType": -1,
-  "knownIds": [
-    120643
-  ]
-}
+{"internalId":1531688306,"name":"Vines, Curtain Ivy","description":"This is a large house item.","icon":"data/images/20/0y/vi/housing_veg_vin_ivy002.png","bindType":-1,"knownIds":[120643]}

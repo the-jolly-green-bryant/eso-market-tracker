@@ -1,10 +1,1 @@
-{
-  "internalId": 3363143906,
-  "name": "Cruxstone Bow",
-  "description": "The Remnants of Apocrypha prize weapons made from a curious material found in the liminal space called the Crux.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_bow_c.png",
-  "bindType": 2,
-  "knownIds": [
-    197805
-  ]
-}
+{"internalId":3363143906,"name":"Cruxstone Bow","description":"The Remnants of Apocrypha prize weapons made from a curious material found in the liminal space called the Crux.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_daedric_bow_c.png","bindType":2,"knownIds":[197805]}

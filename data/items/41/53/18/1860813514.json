@@ -1,10 +1,1 @@
-{
-  "internalId": 1860813514,
-  "name": "Ayleid Wall, Thin",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingringouterwall003.png",
-  "bindType": -1,
-  "knownIds": [
-    212413
-  ]
-}
+{"internalId":1860813514,"name":"Ayleid Wall, Thin","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_run_housingringouterwall003.png","bindType":-1,"knownIds":[212413]}

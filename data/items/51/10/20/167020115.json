@@ -1,10 +1,1 @@
-{
-  "internalId": 167020115,
-  "name": "Lockpick",
-  "description": "Used to open many locked chests and doors. Expended upon use.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/lockpick.png",
-  "bindType": -1,
-  "knownIds": [
-    30357
-  ]
-}
+{"internalId":167020115,"name":"Lockpick","description":"Used to open many locked chests and doors. Expended upon use.","icon":"data/images/kc/ip/kc/lockpick.png","bindType":-1,"knownIds":[30357]}

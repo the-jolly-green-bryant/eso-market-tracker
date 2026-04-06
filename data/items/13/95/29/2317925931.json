@@ -1,10 +1,1 @@
-{
-  "internalId": 2317925931,
-  "name": "Ring of Tava's Favor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    140156
-  ]
-}
+{"internalId":2317925931,"name":"Ring of Tava's Favor","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[140156]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1070652877,
-  "name": "Guar Stomp Illustrated Reports",
-  "description": "This is one of seven parts of the Guar Stomp Emote Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperwithdrawing.png",
-  "bindType": -1,
-  "knownIds": [
-    147496
-  ]
-}
+{"internalId":1070652877,"name":"Guar Stomp Illustrated Reports","description":"This is one of seven parts of the Guar Stomp Emote Runebox.","icon":"data/images/gn/iw/ar/justice_stolen_paperwithdrawing.png","bindType":-1,"knownIds":[147496]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 224531570,
-  "name": "Rallying Cry Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    183402
-  ]
-}
+{"internalId":224531570,"name":"Rallying Cry Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[183402]}

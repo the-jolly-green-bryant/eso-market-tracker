@@ -1,13 +1,1 @@
-{
-  "internalId": 4079271152,
-  "name": "Bound Focus Script: Healing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_healing.png",
-  "bindType": -1,
-  "knownIds": [
-    1720790,
-    1725178,
-    1720790,
-    1725178
-  ]
-}
+{"internalId":4079271152,"name":"Bound Focus Script: Healing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_healing.png","bindType":-1,"knownIds":[1720790,1725178,1720790,1725178]}

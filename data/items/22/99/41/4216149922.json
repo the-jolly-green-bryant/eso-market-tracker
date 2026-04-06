@@ -1,10 +1,1 @@
-{
-  "internalId": 4216149922,
-  "name": "Colovian Shelf, Rustic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_wallshelflow001.png",
-  "bindType": -1,
-  "knownIds": [
-    204643
-  ]
-}
+{"internalId":4216149922,"name":"Colovian Shelf, Rustic","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_wallshelflow001.png","bindType":-1,"knownIds":[204643]}

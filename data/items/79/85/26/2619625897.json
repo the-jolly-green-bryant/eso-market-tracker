@@ -1,10 +1,1 @@
-{
-  "internalId": 2619625897,
-  "name": "Signature Script: Crusader's Defiance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_breaksnare.png",
-  "bindType": -1,
-  "knownIds": [
-    204584
-  ]
-}
+{"internalId":2619625897,"name":"Signature Script: Crusader's Defiance","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_breaksnare.png","bindType":-1,"knownIds":[204584]}

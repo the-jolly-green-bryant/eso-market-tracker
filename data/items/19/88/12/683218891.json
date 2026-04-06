@@ -1,10 +1,1 @@
-{
-  "internalId": 683218891,
-  "name": "Bonelord's Annihilator of the Dragon",
-  "description": "A weapon awarded for defeating the necromancer, Vivien Armene.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43035
-  ]
-}
+{"internalId":683218891,"name":"Bonelord's Annihilator of the Dragon","description":"A weapon awarded for defeating the necromancer, Vivien Armene.","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[43035]}

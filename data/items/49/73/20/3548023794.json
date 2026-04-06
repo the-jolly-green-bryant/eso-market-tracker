@@ -1,10 +1,1 @@
-{
-  "internalId": 3548023794,
-  "name": "Limestone Shelf, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestoneflat003.png",
-  "bindType": -1,
-  "knownIds": [
-    139110
-  ]
-}
+{"internalId":3548023794,"name":"Limestone Shelf, Large","description":"This is a large house item.","icon":"data/images/30/0t/al/housing_rok_sum_limestoneflat003.png","bindType":-1,"knownIds":[139110]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 755604347,
-  "name": "Quicksilver Visualizer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1176069
-  ]
-}
+{"internalId":755604347,"name":"Quicksilver Visualizer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[1176069]}

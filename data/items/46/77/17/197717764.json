@@ -1,10 +1,1 @@
-{
-  "internalId": 197717764,
-  "name": "Death-Dancer Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    214842
-  ]
-}
+{"internalId":197717764,"name":"Death-Dancer Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_2hsword_a.png","bindType":2,"knownIds":[214842]}

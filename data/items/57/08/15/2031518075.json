@@ -1,10 +1,1 @@
-{
-  "internalId": 2031518075,
-  "name": "Rekuta",
-  "description": "Rekuta",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_002.png",
-  "bindType": -1,
-  "knownIds": [
-    45853
-  ]
-}
+{"internalId":2031518075,"name":"Rekuta","description":"Rekuta","icon":"data/images/20/0_/se/crafting_components_runestones_002.png","bindType":-1,"knownIds":[45853]}

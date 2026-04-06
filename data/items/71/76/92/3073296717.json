@@ -1,10 +1,1 @@
-{
-  "internalId": 3073296717,
-  "name": "Ancient Dragonguard's Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156142
-  ]
-}
+{"internalId":3073296717,"name":"Ancient Dragonguard's Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[156142]}

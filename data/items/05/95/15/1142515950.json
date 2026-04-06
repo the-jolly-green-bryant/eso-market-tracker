@@ -1,10 +1,1 @@
-{
-  "internalId": 1142515950,
-  "name": "Deadlands Gems, Levitating",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_dedbirthingmachinegemssmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    182242
-  ]
-}
+{"internalId":1142515950,"name":"Deadlands Gems, Levitating","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_dedbirthingmachinegemssmall001.png","bindType":-1,"knownIds":[182242]}

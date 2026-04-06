@@ -1,10 +1,1 @@
-{
-  "internalId": 3876309447,
-  "name": "Flower, Red Honeysuckle",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_mrkswamp001.png",
-  "bindType": -1,
-  "knownIds": [
-    120760
-  ]
-}
+{"internalId":3876309447,"name":"Flower, Red Honeysuckle","description":"This is a standard house item.","icon":"data/images/10/0p/ma/housing_veg_bsh_mrkswamp001.png","bindType":-1,"knownIds":[120760]}

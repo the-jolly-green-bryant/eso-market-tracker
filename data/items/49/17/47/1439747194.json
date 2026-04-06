@@ -1,10 +1,1 @@
-{
-  "internalId": 1439747194,
-  "name": "Crafting Motif 54: Bloodforge Chests",
-  "description": "Use to learn how to make Bloodforge Chests. Also teaches the equivalent Bloodforge Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    132538
-  ]
-}
+{"internalId":1439747194,"name":"Crafting Motif 54: Bloodforge Chests","description":"Use to learn how to make Bloodforge Chests. Also teaches the equivalent Bloodforge Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[132538]}

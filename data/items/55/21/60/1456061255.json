@@ -1,10 +1,1 @@
-{
-  "internalId": 1456061255,
-  "name": "Replica Throne of Alinor",
-  "description": "Pamper your inner king or queen with this faithful reproduction of the fabled throne! As long as you don't declare yourself the new ruler of Alinor, the Divine Prosecution will almost certainly ignore this minor blasphemy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_throne001.png",
-  "bindType": -1,
-  "knownIds": [
-    140297
-  ]
-}
+{"internalId":1456061255,"name":"Replica Throne of Alinor","description":"Pamper your inner king or queen with this faithful reproduction of the fabled throne! As long as you don't declare yourself the new ruler of Alinor, the Divine Prosecution will almost certainly ignore this minor blasphemy.","icon":"data/images/10/0e/no/housing_sum_fur_throne001.png","bindType":-1,"knownIds":[140297]}

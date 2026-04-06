@@ -1,12 +1,1 @@
-{
-  "internalId": 4287758611,
-  "name": "Tin of Wound Resin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860312,
-    860312,
-    860312
-  ]
-}
+{"internalId":4287758611,"name":"Tin of Wound Resin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[860312,860312,860312]}

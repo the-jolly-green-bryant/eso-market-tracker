@@ -1,10 +1,1 @@
-{
-  "internalId": 4207964882,
-  "name": "Dark Elf Wardrobe, Scaled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_fur_cupboard001.png",
-  "bindType": -1,
-  "knownIds": [
-    115295
-  ]
-}
+{"internalId":4207964882,"name":"Dark Elf Wardrobe, Scaled","description":"This is a standard house item.","icon":"data/images/10/0d/ra/housing_dun_fur_cupboard001.png","bindType":-1,"knownIds":[115295]}

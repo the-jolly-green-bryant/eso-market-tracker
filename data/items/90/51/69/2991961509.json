@@ -1,10 +1,1 @@
-{
-  "internalId": 2991961509,
-  "name": "Jerkin of Winter's Respite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_chest.png",
-  "bindType": 2,
-  "knownIds": [
-    160815
-  ]
-}
+{"internalId":2991961509,"name":"Jerkin of Winter's Respite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_chest.png","bindType":2,"knownIds":[160815]}

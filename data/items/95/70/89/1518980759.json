@@ -1,10 +1,1 @@
-{
-  "internalId": 1518980759,
-  "name": "Unidentified Alchemist Survey Report",
-  "description": "This envelope contains an Alchemist Survey Report.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_envelope_string_brown.png",
-  "bindType": -1,
-  "knownIds": [
-    219853
-  ]
-}
+{"internalId":1518980759,"name":"Unidentified Alchemist Survey Report","description":"This envelope contains an Alchemist Survey Report.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u47_envelope_string_brown.png","bindType":-1,"knownIds":[219853]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1891681551,
-  "name": "Orcish Effigy, Bear",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_wtgceramicanimal002.png",
-  "bindType": -1,
-  "knownIds": [
-    116474
-  ]
-}
+{"internalId":1891681551,"name":"Orcish Effigy, Bear","description":"This is a small house item.","icon":"data/images/20/0l/am/housing_orc_inc_wtgceramicanimal002.png","bindType":-1,"knownIds":[116474]}

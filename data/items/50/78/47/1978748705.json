@@ -1,10 +1,1 @@
-{
-  "internalId": 1978748705,
-  "name": "Daring Corsair's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155763
-  ]
-}
+{"internalId":1978748705,"name":"Daring Corsair's Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[155763]}

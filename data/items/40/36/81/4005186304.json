@@ -1,10 +1,1 @@
-{
-  "internalId": 4005186304,
-  "name": "Aedra and Daedra",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1248588
-  ]
-}
+{"internalId":4005186304,"name":"Aedra and Daedra","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1248588]}

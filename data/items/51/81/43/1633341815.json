@@ -1,10 +1,1 @@
-{
-  "internalId": 1633341815,
-  "name": "Cloudy Sujamma",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_wine_002.png",
-  "bindType": -1,
-  "knownIds": [
-    32093
-  ]
-}
+{"internalId":1633341815,"name":"Cloudy Sujamma","description":"","icon":"data/images/20/0_/en/crafting_dom_wine_002.png","bindType":-1,"knownIds":[32093]}

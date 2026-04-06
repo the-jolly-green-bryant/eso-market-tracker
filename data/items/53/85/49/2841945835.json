@@ -1,10 +1,1 @@
-{
-  "internalId": 2841945835,
-  "name": "Fabricant Saplings, Electrum",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_clkmediumtree001.png",
-  "bindType": -1,
-  "knownIds": [
-    134308
-  ]
-}
+{"internalId":2841945835,"name":"Fabricant Saplings, Electrum","description":"This is a large house item.","icon":"data/images/10/0e/er/housing_tre_fan_clkmediumtree001.png","bindType":-1,"knownIds":[134308]}

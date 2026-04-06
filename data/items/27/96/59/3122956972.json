@@ -1,10 +1,1 @@
-{
-  "internalId": 3122956972,
-  "name": "Breeches of Critical Riposte",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    158675
-  ]
-}
+{"internalId":3122956972,"name":"Breeches of Critical Riposte","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[158675]}

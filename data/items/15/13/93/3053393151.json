@@ -1,10 +1,1 @@
-{
-  "internalId": 3053393151,
-  "name": "Scale Scrubber",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_first_mane_hairbrush.png",
-  "bindType": -1,
-  "knownIds": [
-    1277518
-  ]
-}
+{"internalId":3053393151,"name":"Scale Scrubber","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_first_mane_hairbrush.png","bindType":-1,"knownIds":[1277518]}

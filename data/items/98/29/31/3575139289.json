@@ -1,10 +1,1 @@
-{
-  "internalId": 3575139289,
-  "name": "Colovian Wine Barrel, Sealed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebarrel001.png",
-  "bindType": -1,
-  "knownIds": [
-    204733
-  ]
-}
+{"internalId":3575139289,"name":"Colovian Wine Barrel, Sealed","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebarrel001.png","bindType":-1,"knownIds":[204733]}

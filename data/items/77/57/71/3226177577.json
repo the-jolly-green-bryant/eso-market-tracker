@@ -1,10 +1,1 @@
-{
-  "internalId": 3226177577,
-  "name": "Tree, Forked Sturdy",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_auridonmediumtree003.png",
-  "bindType": -1,
-  "knownIds": [
-    120658
-  ]
-}
+{"internalId":3226177577,"name":"Tree, Forked Sturdy","description":"This is a huge house item.","icon":"data/images/30/0e/er/housing_tre_dec_auridonmediumtree003.png","bindType":-1,"knownIds":[120658]}

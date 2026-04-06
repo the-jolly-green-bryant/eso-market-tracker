@@ -1,10 +1,1 @@
-{
-  "internalId": 2240595704,
-  "name": "hag fen hagfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    504255
-  ]
-}
+{"internalId":2240595704,"name":"hag fen hagfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[504255]}

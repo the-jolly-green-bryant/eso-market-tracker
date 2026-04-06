@@ -1,13 +1,1 @@
-{
-  "internalId": 2325895610,
-  "name": "Zircon Grains",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_raw_zircon.png",
-  "bindType": -1,
-  "knownIds": [
-    1424878,
-    1240415,
-    1424878,
-    1240415
-  ]
-}
+{"internalId":2325895610,"name":"Zircon Grains","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_raw_zircon.png","bindType":-1,"knownIds":[1424878,1240415,1424878,1240415]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3072920814,
-  "name": "Necrom Incense, Mushroom Offering",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necincenseburner001.png",
-  "bindType": -1,
-  "knownIds": [
-    197510
-  ]
-}
+{"internalId":3072920814,"name":"Necrom Incense, Mushroom Offering","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necincenseburner001.png","bindType":-1,"knownIds":[197510]}

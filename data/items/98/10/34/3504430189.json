@@ -1,10 +1,1 @@
-{
-  "internalId": 3504430189,
-  "name": "Pattern: Redguard Curtain, Desert Rose",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    119155
-  ]
-}
+{"internalId":3504430189,"name":"Pattern: Redguard Curtain, Desert Rose","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[119155]}

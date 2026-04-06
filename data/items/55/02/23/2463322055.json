@@ -1,10 +1,1 @@
-{
-  "internalId": 2463322055,
-  "name": "Statue Base, Circular",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_exc_altmerbase001.png",
-  "bindType": -1,
-  "knownIds": [
-    120808
-  ]
-}
+{"internalId":2463322055,"name":"Statue Base, Circular","description":"This is a large house item.","icon":"data/images/10/0e/sa/housing_alt_exc_altmerbase001.png","bindType":-1,"knownIds":[120808]}

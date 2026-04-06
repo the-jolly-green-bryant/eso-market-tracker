@@ -1,10 +1,1 @@
-{
-  "internalId": 1008788555,
-  "name": "Venomous Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_axe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    160983
-  ]
-}
+{"internalId":1008788555,"name":"Venomous Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_axe_a.png","bindType":2,"knownIds":[160983]}

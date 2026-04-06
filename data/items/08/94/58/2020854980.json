@@ -1,10 +1,1 @@
-{
-  "internalId": 2020854980,
-  "name": "Ancient Goblet",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    817057
-  ]
-}
+{"internalId":2020854980,"name":"Ancient Goblet","description":"","icon":null,"bindType":-1,"knownIds":[817057]}

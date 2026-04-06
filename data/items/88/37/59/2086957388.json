@@ -1,13 +1,1 @@
-{
-  "internalId": 2086957388,
-  "name": "Everblooded Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": -1,
-  "knownIds": [
-    430966,
-    487186,
-    430966,
-    487186
-  ]
-}
+{"internalId":2086957388,"name":"Everblooded Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":-1,"knownIds":[430966,487186,430966,487186]}

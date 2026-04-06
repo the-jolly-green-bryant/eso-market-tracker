@@ -1,10 +1,1 @@
-{
-  "internalId": 3907952787,
-  "name": "Dawnwood Lantern String, Long",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_boshanginglanterns001.png",
-  "bindType": -1,
-  "knownIds": [
-    204686
-  ]
-}
+{"internalId":3907952787,"name":"Dawnwood Lantern String, Long","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_boshanginglanterns001.png","bindType":-1,"knownIds":[204686]}

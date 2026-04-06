@@ -1,10 +1,1 @@
-{
-  "internalId": 1439116826,
-  "name": "Alinor Nightstand, Octagonal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_endtable004.png",
-  "bindType": -1,
-  "knownIds": [
-    139232
-  ]
-}
+{"internalId":1439116826,"name":"Alinor Nightstand, Octagonal","description":"This is a small house item.","icon":"data/images/40/0e/lb/housing_sum_fur_endtable004.png","bindType":-1,"knownIds":[139232]}

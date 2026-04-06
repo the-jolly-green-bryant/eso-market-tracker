@@ -1,10 +1,1 @@
-{
-  "internalId": 510301729,
-  "name": "Fanciful Map of Rivenspire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    840672
-  ]
-}
+{"internalId":510301729,"name":"Fanciful Map of Rivenspire","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[840672]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2389805972,
-  "name": "Elsweyr Chimes, Long String",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_sebellstring001.png",
-  "bindType": -1,
-  "knownIds": [
-    218014
-  ]
-}
+{"internalId":2389805972,"name":"Elsweyr Chimes, Long String","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_sebellstring001.png","bindType":-1,"knownIds":[218014]}

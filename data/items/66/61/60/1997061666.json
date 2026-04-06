@@ -1,10 +1,1 @@
-{
-  "internalId": 1997061666,
-  "name": "Seal of Molag Bal",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_duc_floorsealentcenter.png",
-  "bindType": -1,
-  "knownIds": [
-    134254
-  ]
-}
+{"internalId":1997061666,"name":"Seal of Molag Bal","description":"This is a large house item.","icon":"data/images/re/tn/ec/housing_cld_duc_floorsealentcenter.png","bindType":-1,"knownIds":[134254]}

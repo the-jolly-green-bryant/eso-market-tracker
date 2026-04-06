@@ -1,10 +1,1 @@
-{
-  "internalId": 1319124623,
-  "name": "Fighters Guild Hard Helm",
-  "description": "A heavy helmet awarded for bringing news of a member's death and their research to the Fighters Guild.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    174853
-  ]
-}
+{"internalId":1319124623,"name":"Fighters Guild Hard Helm","description":"A heavy helmet awarded for bringing news of a member's death and their research to the Fighters Guild.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_heavy_head_a.png","bindType":2,"knownIds":[174853]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 448336676,
-  "name": "Redguard Pillow, Lattice Flames",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_pillow002.png",
-  "bindType": -1,
-  "knownIds": [
-    117840
-  ]
-}
+{"internalId":448336676,"name":"Redguard Pillow, Lattice Flames","description":"This is a standard house item.","icon":"data/images/20/0w/ol/housing_red_fur_pillow002.png","bindType":-1,"knownIds":[117840]}

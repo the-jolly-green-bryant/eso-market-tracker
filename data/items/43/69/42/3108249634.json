@@ -1,10 +1,1 @@
-{
-  "internalId": 3108249634,
-  "name": "Hatchetfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    1266026
-  ]
-}
+{"internalId":3108249634,"name":"Hatchetfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[1266026]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3142346478,
-  "name": "Antique Map of the Gold Coast",
-  "description": "Though this antique map doesn't note it, the Gold Coast was once called the Strident Coast.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_mappropsgoldcoastscroll001.png",
-  "bindType": -1,
-  "knownIds": [
-    165996
-  ]
-}
+{"internalId":3142346478,"name":"Antique Map of the Gold Coast","description":"Though this antique map doesn't note it, the Gold Coast was once called the Strident Coast.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_mappropsgoldcoastscroll001.png","bindType":-1,"knownIds":[165996]}

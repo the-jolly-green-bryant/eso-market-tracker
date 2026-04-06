@@ -1,10 +1,1 @@
-{
-  "internalId": 2198005182,
-  "name": "Northwind Mine Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    805662
-  ]
-}
+{"internalId":2198005182,"name":"Northwind Mine Key","description":"","icon":null,"bindType":-1,"knownIds":[805662]}

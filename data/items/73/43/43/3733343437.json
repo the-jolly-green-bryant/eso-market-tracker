@@ -1,10 +1,1 @@
-{
-  "internalId": 3733343437,
-  "name": "Pattern: Wood Elf Divider, Relaxed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    115873
-  ]
-}
+{"internalId":3733343437,"name":"Pattern: Wood Elf Divider, Relaxed","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[115873]}

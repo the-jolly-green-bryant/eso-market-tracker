@@ -1,17 +1,1 @@
-{
-  "internalId": 3207858449,
-  "name": "Corpseburster Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1729071,
-    1757174,
-    1762778,
-    1764535,
-    1729071,
-    1757174,
-    1762778,
-    1764535
-  ]
-}
+{"internalId":3207858449,"name":"Corpseburster Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_feet_a.png","bindType":-1,"knownIds":[1729071,1757174,1762778,1764535,1729071,1757174,1762778,1764535]}

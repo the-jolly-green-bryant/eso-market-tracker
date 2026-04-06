@@ -1,10 +1,1 @@
-{
-  "internalId": 3514031284,
-  "name": "Diagram: Deadlands Torture Rack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png",
-  "bindType": -1,
-  "knownIds": [
-    181556
-  ]
-}
+{"internalId":3514031284,"name":"Diagram: Deadlands Torture Rack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png","bindType":-1,"knownIds":[181556]}

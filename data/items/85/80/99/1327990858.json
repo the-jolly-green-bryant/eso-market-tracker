@@ -1,10 +1,1 @@
-{
-  "internalId": 1327990858,
-  "name": "Eternal Hunt Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72814
-  ]
-}
+{"internalId":1327990858,"name":"Eternal Hunt Jack","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[72814]}

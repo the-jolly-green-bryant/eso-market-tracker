@@ -1,10 +1,1 @@
-{
-  "internalId": 875888822,
-  "name": "Ysgramor's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101488
-  ]
-}
+{"internalId":875888822,"name":"Ysgramor's Gloves","description":"","icon":"data/images/d_/sd/na/gear_nord_light_hands_d.png","bindType":2,"knownIds":[101488]}

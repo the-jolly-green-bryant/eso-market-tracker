@@ -1,10 +1,1 @@
-{
-  "internalId": 2946805519,
-  "name": "Mace of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79152
-  ]
-}
+{"internalId":2946805519,"name":"Mace of Imperial Physique","description":"","icon":"data/images/a_/re/mm/gear_ooth_1hhammer_a.png","bindType":2,"knownIds":[79152]}

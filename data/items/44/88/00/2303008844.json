@@ -1,10 +1,1 @@
-{
-  "internalId": 2303008844,
-  "name": "Redguard Gazebo, Palatial Domed",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varwayshrine001.png",
-  "bindType": -1,
-  "knownIds": [
-    145469
-  ]
-}
+{"internalId":2303008844,"name":"Redguard Gazebo, Palatial Domed","description":"This is a large house item.","icon":"data/images/10/0e/ni/housing_red_str_varwayshrine001.png","bindType":-1,"knownIds":[145469]}

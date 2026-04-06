@@ -1,10 +1,1 @@
-{
-  "internalId": 2202920943,
-  "name": "Epaulets of the Worm Cult",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactwormcult_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54286
-  ]
-}
+{"internalId":2202920943,"name":"Epaulets of the Worm Cult","description":"","icon":"data/images/a_/sr/ed/gear_artifactwormcult_shoulders_a.png","bindType":2,"knownIds":[54286]}

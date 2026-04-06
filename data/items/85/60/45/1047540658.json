@@ -1,10 +1,1 @@
-{
-  "internalId": 1047540658,
-  "name": "Axe of Orgnum's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56698
-  ]
-}
+{"internalId":1047540658,"name":"Axe of Orgnum's Scales","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[56698]}

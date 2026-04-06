@@ -1,10 +1,1 @@
-{
-  "internalId": 1137747206,
-  "name": "Gorethief Medium Armor",
-  "description": "An All Weights Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    224658
-  ]
-}
+{"internalId":1137747206,"name":"Gorethief Medium Armor","description":"An All Weights Armor set found in Cyrodiil.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[224658]}

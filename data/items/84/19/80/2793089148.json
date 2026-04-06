@@ -1,10 +1,1 @@
-{
-  "internalId": 2793089148,
-  "name": "Crafting Motif 128: Lucent Sentinel Belts",
-  "description": "Use to learn how to make Lucent Sentinel Belts. Also teaches the equivalent Lucent Sentinel Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203494
-  ]
-}
+{"internalId":2793089148,"name":"Crafting Motif 128: Lucent Sentinel Belts","description":"Use to learn how to make Lucent Sentinel Belts. Also teaches the equivalent Lucent Sentinel Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203494]}

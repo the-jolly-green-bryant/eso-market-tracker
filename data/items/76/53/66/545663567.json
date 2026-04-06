@@ -1,10 +1,1 @@
-{
-  "internalId": 545663567,
-  "name": "Collection of Belaying Pins",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    916141
-  ]
-}
+{"internalId":545663567,"name":"Collection of Belaying Pins","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[916141]}

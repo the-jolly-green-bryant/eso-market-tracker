@@ -1,10 +1,1 @@
-{
-  "internalId": 993649023,
-  "name": "Seven Year Beer Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    793779
-  ]
-}
+{"internalId":993649023,"name":"Seven Year Beer Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[793779]}

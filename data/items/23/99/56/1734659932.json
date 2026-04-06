@@ -1,10 +1,1 @@
-{
-  "internalId": 1734659932,
-  "name": "Scavenged Plate, Wide",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_cmp_shantyplate003.png",
-  "bindType": -1,
-  "knownIds": [
-    134300
-  ]
-}
+{"internalId":1734659932,"name":"Scavenged Plate, Wide","description":"This is a large house item.","icon":"data/images/30/0e/ta/housing_cwc_cmp_shantyplate003.png","bindType":-1,"knownIds":[134300]}

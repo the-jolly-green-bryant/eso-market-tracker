@@ -1,10 +1,1 @@
-{
-  "internalId": 2224852439,
-  "name": "Antique Graver",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_bthzark.png",
-  "bindType": -1,
-  "knownIds": [
-    796518
-  ]
-}
+{"internalId":2224852439,"name":"Antique Graver","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_bthzark.png","bindType":-1,"knownIds":[796518]}

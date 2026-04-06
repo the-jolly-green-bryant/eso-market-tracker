@@ -1,10 +1,1 @@
-{
-  "internalId": 1452036251,
-  "name": "Viridian Sentinel's Monocle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png",
-  "bindType": -1,
-  "knownIds": [
-    637989
-  ]
-}
+{"internalId":1452036251,"name":"Viridian Sentinel's Monocle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lens_001.png","bindType":-1,"knownIds":[637989]}

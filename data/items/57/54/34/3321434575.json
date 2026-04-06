@@ -1,10 +1,1 @@
-{
-  "internalId": 3321434575,
-  "name": "Whale Runestone",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821450
-  ]
-}
+{"internalId":3321434575,"name":"Whale Runestone","description":"","icon":null,"bindType":-1,"knownIds":[821450]}

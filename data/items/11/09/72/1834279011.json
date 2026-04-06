@@ -1,10 +1,1 @@
-{
-  "internalId": 1834279011,
-  "name": "Necklace of the Harbinger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    78905
-  ]
-}
+{"internalId":1834279011,"name":"Necklace of the Harbinger","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[78905]}

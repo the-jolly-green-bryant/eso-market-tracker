@@ -1,15 +1,1 @@
-{
-  "internalId": 3483239083,
-  "name": "Basalt-Blooded Warrior Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1715924,
-    1716584,
-    1733052,
-    1715924,
-    1716584,
-    1733052
-  ]
-}
+{"internalId":3483239083,"name":"Basalt-Blooded Warrior Bracers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonknightclass_hands_a.png","bindType":-1,"knownIds":[1715924,1716584,1733052,1715924,1716584,1733052]}

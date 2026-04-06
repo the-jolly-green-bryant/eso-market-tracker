@@ -1,10 +1,1 @@
-{
-  "internalId": 1786229247,
-  "name": "Boltstaff of Koal Canton",
-  "description": "Up close, the staff smells of crushed muckspunge pulp and netch tentacles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7414
-  ]
-}
+{"internalId":1786229247,"name":"Boltstaff of Koal Canton","description":"Up close, the staff smells of crushed muckspunge pulp and netch tentacles.","icon":"data/images/d_/ff/at/gear_dunmer_staff_d.png","bindType":2,"knownIds":[7414]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4276310078,
-  "name": "Design: Wood Elf Bone Chimes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    115902
-  ]
-}
+{"internalId":4276310078,"name":"Design: Wood Elf Bone Chimes","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[115902]}

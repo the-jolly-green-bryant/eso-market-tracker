@@ -1,10 +1,1 @@
-{
-  "internalId": 1248707800,
-  "name": "Breton Carpet, Dark",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_rug004.png",
-  "bindType": -1,
-  "knownIds": [
-    115200
-  ]
-}
+{"internalId":1248707800,"name":"Breton Carpet, Dark","description":"This is a standard house item.","icon":"data/images/40/0g/ur/housing_bre_inc_rug004.png","bindType":-1,"knownIds":[115200]}

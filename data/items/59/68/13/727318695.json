@@ -1,10 +1,1 @@
-{
-  "internalId": 727318695,
-  "name": "Weapons: Spelunker",
-  "description": "A Medium Armor set found in Spindleclutch.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114174
-  ]
-}
+{"internalId":727318695,"name":"Weapons: Spelunker","description":"A Medium Armor set found in Spindleclutch.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114174]}

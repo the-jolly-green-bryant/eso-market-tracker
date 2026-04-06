@@ -1,10 +1,1 @@
-{
-  "internalId": 705118700,
-  "name": "Filigreed Ash Urn With Portable Altar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366792
-  ]
-}
+{"internalId":705118700,"name":"Filigreed Ash Urn With Portable Altar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_urn_001.png","bindType":-1,"knownIds":[1366792]}

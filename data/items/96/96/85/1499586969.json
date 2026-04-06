@@ -1,10 +1,1 @@
-{
-  "internalId": 1499586969,
-  "name": "Praxis: Redoran Urn, Imprinted Clay",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    127063
-  ]
-}
+{"internalId":1499586969,"name":"Praxis: Redoran Urn, Imprinted Clay","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[127063]}

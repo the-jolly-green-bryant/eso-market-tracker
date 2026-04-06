@@ -1,10 +1,1 @@
-{
-  "internalId": 121311156,
-  "name": "Spool of Bendy Wire",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_vendor_001.png",
-  "bindType": -1,
-  "knownIds": [
-    852265
-  ]
-}
+{"internalId":121311156,"name":"Spool of Bendy Wire","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_vendor_001.png","bindType":-1,"knownIds":[852265]}

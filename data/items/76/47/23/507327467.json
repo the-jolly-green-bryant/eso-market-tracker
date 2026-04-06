@@ -1,10 +1,1 @@
-{
-  "internalId": 507327467,
-  "name": "Mushroom, Poison Pax Stool",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_malabaltorbigmushroomsfreestanding002.png",
-  "bindType": -1,
-  "knownIds": [
-    125596
-  ]
-}
+{"internalId":507327467,"name":"Mushroom, Poison Pax Stool","description":"This is a standard house item.","icon":"data/images/20/0g/ni/housing_veg_fug_malabaltorbigmushroomsfreestanding002.png","bindType":-1,"knownIds":[125596]}

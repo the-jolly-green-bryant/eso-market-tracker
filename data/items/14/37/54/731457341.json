@@ -1,10 +1,1 @@
-{
-  "internalId": 731457341,
-  "name": "Last-Ditch Dagger",
-  "description": "Notched and stained, the steel blade of this dagger is still sharp.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    208156
-  ]
-}
+{"internalId":731457341,"name":"Last-Ditch Dagger","description":"Notched and stained, the steel blade of this dagger is still sharp.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_dagger_d.png","bindType":2,"knownIds":[208156]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 929858625,
-  "name": "Breeches of Winter's Respite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_legs.png",
-  "bindType": 2,
-  "knownIds": [
-    160814
-  ]
-}
+{"internalId":929858625,"name":"Breeches of Winter's Respite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_legs.png","bindType":2,"knownIds":[160814]}

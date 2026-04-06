@@ -1,10 +1,1 @@
-{
-  "internalId": 3277189064,
-  "name": "Argonian Relic, Basin",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_run_milemarker002.png",
-  "bindType": -1,
-  "knownIds": [
-    115536
-  ]
-}
+{"internalId":3277189064,"name":"Argonian Relic, Basin","description":"This is a standard house item.","icon":"data/images/20/0r/ek/housing_arg_run_milemarker002.png","bindType":-1,"knownIds":[115536]}

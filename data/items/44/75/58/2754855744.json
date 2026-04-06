@@ -1,10 +1,1 @@
-{
-  "internalId": 2754855744,
-  "name": "Oko",
-  "description": "Oko",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_020.png",
-  "bindType": -1,
-  "knownIds": [
-    45831
-  ]
-}
+{"internalId":2754855744,"name":"Oko","description":"Oko","icon":"data/images/02/0_/se/crafting_components_runestones_020.png","bindType":-1,"knownIds":[45831]}

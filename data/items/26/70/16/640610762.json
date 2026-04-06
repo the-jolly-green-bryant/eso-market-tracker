@@ -1,10 +1,1 @@
-{
-  "internalId": 640610762,
-  "name": "Pact Shock Lancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_shock.png",
-  "bindType": -1,
-  "knownIds": [
-    1368999
-  ]
-}
+{"internalId":640610762,"name":"Pact Shock Lancer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_07_shock.png","bindType":-1,"knownIds":[1368999]}

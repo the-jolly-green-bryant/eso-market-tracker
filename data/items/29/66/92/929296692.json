@@ -1,10 +1,1 @@
-{
-  "internalId": 929296692,
-  "name": "Guard Duty Stones",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1386340
-  ]
-}
+{"internalId":929296692,"name":"Guard Duty Stones","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[1386340]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 114881278,
-  "name": "Clockwork Door, Octagonal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_duc_generatorpassthrough001.png",
-  "bindType": -1,
-  "knownIds": [
-    211563
-  ]
-}
+{"internalId":114881278,"name":"Clockwork Door, Octagonal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cwc_duc_generatorpassthrough001.png","bindType":-1,"knownIds":[211563]}

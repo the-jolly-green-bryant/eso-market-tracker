@@ -1,10 +1,1 @@
-{
-  "internalId": 941580695,
-  "name": "Greaves of the Hatchling's Shell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99223
-  ]
-}
+{"internalId":941580695,"name":"Greaves of the Hatchling's Shell","description":"","icon":"data/images/d_/sg/el/gear_argonian_heavy_legs_d.png","bindType":2,"knownIds":[99223]}

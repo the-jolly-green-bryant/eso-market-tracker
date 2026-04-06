@@ -1,10 +1,1 @@
-{
-  "internalId": 119032865,
-  "name": "Praxis: Orcish Table with Fur",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting5.png",
-  "bindType": -1,
-  "knownIds": [
-    121207
-  ]
-}
+{"internalId":119032865,"name":"Praxis: Orcish Table with Fur","description":"","icon":"data/images/5g/ni/tn/crafting_planfurniture_enchanting5.png","bindType":-1,"knownIds":[121207]}

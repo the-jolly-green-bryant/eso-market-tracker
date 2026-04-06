@@ -1,15 +1,1 @@
-{
-  "internalId": 489940386,
-  "name": "Umbral Edge Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1753221,
-    1771462,
-    1778558,
-    1753221,
-    1771462,
-    1778558
-  ]
-}
+{"internalId":489940386,"name":"Umbral Edge Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nightbladeclass1_feet_a.png","bindType":-1,"knownIds":[1753221,1771462,1778558,1753221,1771462,1778558]}

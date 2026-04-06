@@ -1,10 +1,1 @@
-{
-  "internalId": 3459624772,
-  "name": "Diagram: Khajiit Basin, Claw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    116115
-  ]
-}
+{"internalId":3459624772,"name":"Diagram: Khajiit Basin, Claw","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[116115]}

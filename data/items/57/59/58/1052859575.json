@@ -1,10 +1,1 @@
-{
-  "internalId": 1052859575,
-  "name": "Adamant Lurker Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_shield_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196190
-  ]
-}
+{"internalId":1052859575,"name":"Adamant Lurker Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_shield_a.png","bindType":2,"knownIds":[196190]}

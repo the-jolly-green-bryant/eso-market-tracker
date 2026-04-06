@@ -1,10 +1,1 @@
-{
-  "internalId": 3614337770,
-  "name": "Blueprint: Solitude Bookcase, Noble Filled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166873
-  ]
-}
+{"internalId":3614337770,"name":"Blueprint: Solitude Bookcase, Noble Filled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166873]}

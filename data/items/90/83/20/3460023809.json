@@ -1,10 +1,1 @@
-{
-  "internalId": 3460023809,
-  "name": "Design: Dres Cup, Empty Greef",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    127004
-  ]
-}
+{"internalId":3460023809,"name":"Design: Dres Cup, Empty Greef","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[127004]}

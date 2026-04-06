@@ -1,10 +1,1 @@
-{
-  "internalId": 3117437404,
-  "name": "Dwarven Minecart, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_csb_marktraincart001.png",
-  "bindType": -1,
-  "knownIds": [
-    171404
-  ]
-}
+{"internalId":3117437404,"name":"Dwarven Minecart, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_csb_marktraincart001.png","bindType":-1,"knownIds":[171404]}

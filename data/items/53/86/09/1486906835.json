@@ -1,10 +1,1 @@
-{
-  "internalId": 1486906835,
-  "name": "Braised Sweetmeats Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    487274
-  ]
-}
+{"internalId":1486906835,"name":"Braised Sweetmeats Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[487274]}

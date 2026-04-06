@@ -1,10 +1,1 @@
-{
-  "internalId": 2089294403,
-  "name": "Maormer Salt Drinker",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_fowl_wattle.png",
-  "bindType": -1,
-  "knownIds": [
-    1270632
-  ]
-}
+{"internalId":2089294403,"name":"Maormer Salt Drinker","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_critter_fowl_wattle.png","bindType":-1,"knownIds":[1270632]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1065927555,
-  "name": "The Voice of the People",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png",
-  "bindType": -1,
-  "knownIds": [
-    1199277
-  ]
-}
+{"internalId":1065927555,"name":"The Voice of the People","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png","bindType":-1,"knownIds":[1199277]}

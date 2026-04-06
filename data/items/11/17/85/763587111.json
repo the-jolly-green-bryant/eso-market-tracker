@@ -1,10 +1,1 @@
-{
-  "internalId": 763587111,
-  "name": "Leyawiin Pot, Wide",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyplantpot006.png",
-  "bindType": -1,
-  "knownIds": [
-    175666
-  ]
-}
+{"internalId":763587111,"name":"Leyawiin Pot, Wide","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyplantpot006.png","bindType":-1,"knownIds":[175666]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 3730839038,
-  "name": "Auroran's Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_meridian_light_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1588023,
-    1588388,
-    1639814,
-    1679247,
-    1588023,
-    1588388,
-    1639814,
-    1679247
-  ]
-}
+{"internalId":3730839038,"name":"Auroran's Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_meridian_light_feet_a.png","bindType":-1,"knownIds":[1588023,1588388,1639814,1679247,1588023,1588388,1639814,1679247]}

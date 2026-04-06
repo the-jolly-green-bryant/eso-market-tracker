@@ -1,10 +1,1 @@
-{
-  "internalId": 139021208,
-  "name": "Fang of Scrag of the Storm Knight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42966
-  ]
-}
+{"internalId":139021208,"name":"Fang of Scrag of the Storm Knight","description":"","icon":"data/images/d_/dr/ow/gear_khajiit_1hsword_d.png","bindType":2,"knownIds":[42966]}

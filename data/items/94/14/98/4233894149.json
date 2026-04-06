@@ -1,10 +1,1 @@
-{
-  "internalId": 4233894149,
-  "name": "Swine-Herder Britches",
-  "description": "These light leggings were awarded for saving the prized pig Glutton in Daggerfall.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    479
-  ]
-}
+{"internalId":4233894149,"name":"Swine-Herder Britches","description":"These light leggings were awarded for saving the prized pig Glutton in Daggerfall.","icon":"data/images/d_/sg/el/gear_orc_light_legs_d.png","bindType":2,"knownIds":[479]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2118740738,
-  "name": "Sweet Sanguine Apples",
-  "description": "Delicious and candy-coated treats to tempt one into mischief!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_candy_apple.png",
-  "bindType": -1,
-  "knownIds": [
-    87685
-  ]
-}
+{"internalId":2118740738,"name":"Sweet Sanguine Apples","description":"Delicious and candy-coated treats to tempt one into mischief!","icon":"data/images/el/pp/a_/event_halloween_2016_candy_apple.png","bindType":-1,"knownIds":[87685]}

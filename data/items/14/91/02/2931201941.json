@@ -1,10 +1,1 @@
-{
-  "internalId": 2931201941,
-  "name": "Painting of a Forest, Refined",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_painting_plain007.png",
-  "bindType": -1,
-  "knownIds": [
-    118144
-  ]
-}
+{"internalId":2931201941,"name":"Painting of a Forest, Refined","description":"This is a small house item.","icon":"data/images/70/0n/ia/housing_bre_inc_painting_plain007.png","bindType":-1,"knownIds":[118144]}

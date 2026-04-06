@@ -1,10 +1,1 @@
-{
-  "internalId": 2181786796,
-  "name": "Gossamer",
-  "description": "A Light Armor set found in Cradle of Shadows.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134195
-  ]
-}
+{"internalId":2181786796,"name":"Gossamer","description":"A Light Armor set found in Cradle of Shadows.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134195]}

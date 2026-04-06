@@ -1,10 +1,1 @@
-{
-  "internalId": 3273198912,
-  "name": "Shipment of Shadowhide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    949008
-  ]
-}
+{"internalId":3273198912,"name":"Shipment of Shadowhide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[949008]}

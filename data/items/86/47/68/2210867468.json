@@ -1,13 +1,1 @@
-{
-  "internalId": 2210867468,
-  "name": "Spattering Disjunction Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735142,
-    1739142,
-    1735142,
-    1739142
-  ]
-}
+{"internalId":2210867468,"name":"Spattering Disjunction Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1735142,1739142,1735142,1739142]}

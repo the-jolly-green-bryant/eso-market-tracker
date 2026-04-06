@@ -1,10 +1,1 @@
-{
-  "internalId": 4215211896,
-  "name": "Hood of the Necromancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactwormcultlight_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    43843
-  ]
-}
+{"internalId":4215211896,"name":"Hood of the Necromancer","description":"","icon":"data/images/a_/da/eh/gear_artifactwormcultlight_head_a.png","bindType":2,"knownIds":[43843]}

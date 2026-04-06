@@ -1,10 +1,1 @@
-{
-  "internalId": 638112433,
-  "name": "Jewelry: Enervating Aura",
-  "description": "A Heavy Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    183738
-  ]
-}
+{"internalId":638112433,"name":"Jewelry: Enervating Aura","description":"A Heavy Armor set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[183738]}

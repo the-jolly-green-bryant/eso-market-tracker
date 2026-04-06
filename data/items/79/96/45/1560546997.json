@@ -1,10 +1,1 @@
-{
-  "internalId": 1560546997,
-  "name": "Fern, Young Sunburnt",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_rmferns002.png",
-  "bindType": -1,
-  "knownIds": [
-    120691
-  ]
-}
+{"internalId":1560546997,"name":"Fern, Young Sunburnt","description":"This is a small house item.","icon":"data/images/20/0s/nr/housing_veg_bsh_rmferns002.png","bindType":-1,"knownIds":[120691]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3130985741,
-  "name": "New Moon Acolyte's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156513
-  ]
-}
+{"internalId":3130985741,"name":"New Moon Acolyte's Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png","bindType":2,"knownIds":[156513]}

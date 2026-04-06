@@ -1,10 +1,1 @@
-{
-  "internalId": 524142077,
-  "name": "Shalidor's Curse Light Armor",
-  "description": "A Crafted Armor set constructed in Eyevea.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182646
-  ]
-}
+{"internalId":524142077,"name":"Shalidor's Curse Light Armor","description":"A Crafted Armor set constructed in Eyevea.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182646]}

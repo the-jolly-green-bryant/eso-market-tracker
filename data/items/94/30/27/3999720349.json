@@ -1,10 +1,1 @@
-{
-  "internalId": 3999720349,
-  "name": "Colovian Chest, Rustic",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_chestlow001.png",
-  "bindType": -1,
-  "knownIds": [
-    204667
-  ]
-}
+{"internalId":3999720349,"name":"Colovian Chest, Rustic","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_chestlow001.png","bindType":-1,"knownIds":[204667]}

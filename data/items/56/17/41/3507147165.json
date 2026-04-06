@@ -1,16 +1,1 @@
-{
-  "internalId": 3507147165,
-  "name": "Scorion's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_2hsword.png",
-  "bindType": -1,
-  "knownIds": [
-    1519352,
-    1542179,
-    1559684,
-    1583567,
-    1679161,
-    1716013,
-    1731344
-  ]
-}
+{"internalId":3507147165,"name":"Scorion's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackiron_2hsword.png","bindType":-1,"knownIds":[1519352,1542179,1559684,1583567,1679161,1716013,1731344]}

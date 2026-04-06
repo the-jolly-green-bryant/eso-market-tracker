@@ -1,10 +1,1 @@
-{
-  "internalId": 764798324,
-  "name": "Linen Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": -1,
-  "knownIds": [
-    39519
-  ]
-}
+{"internalId":764798324,"name":"Linen Breeches","description":"","icon":"data/images/d_/sg/el/gear_breton_light_legs_d.png","bindType":-1,"knownIds":[39519]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1041311050,
-  "name": "Baan Dar's Blessing",
-  "description": "A Heavy Armor set found in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    204401
-  ]
-}
+{"internalId":1041311050,"name":"Baan Dar's Blessing","description":"A Heavy Armor set found in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[204401]}

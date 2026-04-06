@@ -1,10 +1,1 @@
-{
-  "internalId": 2838798001,
-  "name": "Greaves of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199879
-  ]
-}
+{"internalId":2838798001,"name":"Greaves of Syvarra's Scales","description":"","icon":"data/images/a_/sg/el/gear_ancientyokudan_heavy_legs_a.png","bindType":2,"knownIds":[72961]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3727862204,
-  "name": "Crafting Motif 87: Ancestral Nord Bows",
-  "description": "Use to learn how to make Ancestral Nord Bows. Also teaches the equivalent Ancestral Nord Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160580
-  ]
-}
+{"internalId":3727862204,"name":"Crafting Motif 87: Ancestral Nord Bows","description":"Use to learn how to make Ancestral Nord Bows. Also teaches the equivalent Ancestral Nord Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160580]}

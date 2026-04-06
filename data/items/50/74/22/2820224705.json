@@ -1,10 +1,1 @@
-{
-  "internalId": 2820224705,
-  "name": "Crafting Motif 112: Syrabanic Marine Shoulders",
-  "description": "Use to learn how to make Syrabanic Marine Shoulders. Also teaches the equivalent Syrabanic Marine Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    182532
-  ]
-}
+{"internalId":2820224705,"name":"Crafting Motif 112: Syrabanic Marine Shoulders","description":"Use to learn how to make Syrabanic Marine Shoulders. Also teaches the equivalent Syrabanic Marine Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[182532]}

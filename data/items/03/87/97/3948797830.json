@@ -1,10 +1,1 @@
-{
-  "internalId": 3948797830,
-  "name": "Nolagha's Scale Leggings of Meridia",
-  "description": "Heavy leggings awarded for defeating the daedroth trio led by the fearsome Nolagha.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_daedric_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    42983
-  ]
-}
+{"internalId":3948797830,"name":"Nolagha's Scale Leggings of Meridia","description":"Heavy leggings awarded for defeating the daedroth trio led by the fearsome Nolagha.","icon":"data/images/a_/sg/el/gear_daedric_heavy_legs_a.png","bindType":2,"knownIds":[42983]}

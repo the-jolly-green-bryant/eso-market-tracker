@@ -1,10 +1,1 @@
-{
-  "internalId": 3882442496,
-  "name": "Yerba Syrah Wine Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    433221
-  ]
-}
+{"internalId":3882442496,"name":"Yerba Syrah Wine Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[433221]}

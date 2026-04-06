@@ -1,10 +1,1 @@
-{
-  "internalId": 2493933121,
-  "name": "Etched Corundum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_antiquities_nord.png",
-  "bindType": -1,
-  "knownIds": [
-    160592
-  ]
-}
+{"internalId":2493933121,"name":"Etched Corundum","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_antiquities_nord.png","bindType":-1,"knownIds":[160592]}

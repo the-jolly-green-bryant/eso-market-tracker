@@ -1,11 +1,1 @@
-{
-  "internalId": 3593379732,
-  "name": "greater glyph of potion speed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasepotionspeed.png",
-  "bindType": -1,
-  "knownIds": [
-    475115,
-    1501214
-  ]
-}
+{"internalId":3593379732,"name":"greater glyph of potion speed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasepotionspeed.png","bindType":-1,"knownIds":[475115,1501214]}

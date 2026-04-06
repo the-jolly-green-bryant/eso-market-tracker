@@ -1,10 +1,1 @@
-{
-  "internalId": 3062501325,
-  "name": "Necklace of the Footman",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86935
-  ]
-}
+{"internalId":3062501325,"name":"Necklace of the Footman","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[86935]}

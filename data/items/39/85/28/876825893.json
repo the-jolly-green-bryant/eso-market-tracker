@@ -1,15 +1,1 @@
-{
-  "internalId": 876825893,
-  "name": "ebon maul of frost",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    763294,
-    685446,
-    794860,
-    763294,
-    685446,
-    794860
-  ]
-}
+{"internalId":876825893,"name":"ebon maul of frost","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png","bindType":-1,"knownIds":[763294,685446,794860,763294,685446,794860]}

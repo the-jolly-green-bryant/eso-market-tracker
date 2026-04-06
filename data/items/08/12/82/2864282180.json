@@ -1,10 +1,1 @@
-{
-  "internalId": 2864282180,
-  "name": "Caravan Chain",
-  "description": "Jarrod's son would have been lost in the desert without you. As thanks, he gave you this belt.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7569
-  ]
-}
+{"internalId":2864282180,"name":"Caravan Chain","description":"Jarrod's son would have been lost in the desert without you. As thanks, he gave you this belt.","icon":"data/images/d_/ts/ia/gear_khajiit_heavy_waist_d.png","bindType":2,"knownIds":[7569]}

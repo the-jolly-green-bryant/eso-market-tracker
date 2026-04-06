@@ -1,10 +1,1 @@
-{
-  "internalId": 1479269294,
-  "name": "Necklace of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    114652
-  ]
-}
+{"internalId":1479269294,"name":"Necklace of Syvarra's Scales","description":"","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[114652]}

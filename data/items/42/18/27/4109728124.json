@@ -1,10 +1,1 @@
-{
-  "internalId": 4109728124,
-  "name": "Stale Bread",
-  "description": "A common food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_food_004.png",
-  "bindType": -1,
-  "knownIds": [
-    30585
-  ]
-}
+{"internalId":4109728124,"name":"Stale Bread","description":"A common food.","icon":"data/images/40/0_/do/quest_food_004.png","bindType":-1,"knownIds":[30585]}

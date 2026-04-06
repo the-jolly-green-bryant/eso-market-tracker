@@ -1,10 +1,1 @@
-{
-  "internalId": 293366048,
-  "name": "Mummy, Scroll Guardian",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_mummy007.png",
-  "bindType": -1,
-  "knownIds": [
-    181533
-  ]
-}
+{"internalId":293366048,"name":"Mummy, Scroll Guardian","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_mummy007.png","bindType":-1,"knownIds":[181533]}

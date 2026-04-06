@@ -1,10 +1,1 @@
-{
-  "internalId": 1405063330,
-  "name": "Watcher Eye",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    809483
-  ]
-}
+{"internalId":1405063330,"name":"Watcher Eye","description":"","icon":null,"bindType":-1,"knownIds":[809483]}

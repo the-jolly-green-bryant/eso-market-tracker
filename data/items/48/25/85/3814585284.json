@@ -1,10 +1,1 @@
-{
-  "internalId": 3814585284,
-  "name": "Shoes of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172111
-  ]
-}
+{"internalId":3814585284,"name":"Shoes of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_feet_a.png","bindType":2,"knownIds":[172111]}

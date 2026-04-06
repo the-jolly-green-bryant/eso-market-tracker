@@ -1,10 +1,1 @@
-{
-  "internalId": 2693375506,
-  "name": "Satakalaam Love Pouch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1235208
-  ]
-}
+{"internalId":2693375506,"name":"Satakalaam Love Pouch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_002.png","bindType":-1,"knownIds":[1235208]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3478951267,
-  "name": "Wrathsun Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1692973,
-    1697714,
-    1738642,
-    1692973,
-    1697714,
-    1738642
-  ]
-}
+{"internalId":3478951267,"name":"Wrathsun Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_hands_a.png","bindType":-1,"knownIds":[1692973,1697714,1738642,1692973,1697714,1738642]}

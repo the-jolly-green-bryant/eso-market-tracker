@@ -1,17 +1,1 @@
-{
-  "internalId": 261932875,
-  "name": "Amulet of Spriggan's Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1569359,
-    1583896,
-    1569359,
-    1583896,
-    1569359,
-    1583896,
-    1569359,
-    1583896
-  ]
-}
+{"internalId":261932875,"name":"Amulet of Spriggan's Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1569359,1583896,1569359,1583896,1569359,1583896,1569359,1583896]}

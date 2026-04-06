@@ -1,10 +1,1 @@
-{
-  "internalId": 974126817,
-  "name": "skate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    454331
-  ]
-}
+{"internalId":974126817,"name":"skate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[454331]}

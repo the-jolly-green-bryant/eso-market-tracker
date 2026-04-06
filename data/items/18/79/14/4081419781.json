@@ -1,10 +1,1 @@
-{
-  "internalId": 4081419781,
-  "name": "Leyawiin Bed, Sturdy Single",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowbedsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    175600
-  ]
-}
+{"internalId":4081419781,"name":"Leyawiin Bed, Sturdy Single","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leylowbedsmall001.png","bindType":-1,"knownIds":[175600]}

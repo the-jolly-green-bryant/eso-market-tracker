@@ -1,10 +1,1 @@
-{
-  "internalId": 2709905248,
-  "name": "Wizard's Riposte Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123886
-  ]
-}
+{"internalId":2709905248,"name":"Wizard's Riposte Hat","description":"","icon":"data/images/a_/da/eh/gear_ordinator_light_head_a.png","bindType":2,"knownIds":[123886]}

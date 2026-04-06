@@ -1,10 +1,1 @@
-{
-  "internalId": 2145023112,
-  "name": "Dibellan Sculpture, Metal Flowers",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_dibellaflowerstatue001.png",
-  "bindType": -1,
-  "knownIds": [
-    218024
-  ]
-}
+{"internalId":2145023112,"name":"Dibellan Sculpture, Metal Flowers","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_dibellaflowerstatue001.png","bindType":-1,"knownIds":[218024]}

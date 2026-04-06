@@ -1,10 +1,1 @@
-{
-  "internalId": 2006304011,
-  "name": "Crafting Motif 130: Exile's Revenge Shoulders",
-  "description": "Use to learn how to make Exile's Revenge Shoulders. Also teaches the equivalent Exile's Revenge Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    211066
-  ]
-}
+{"internalId":2006304011,"name":"Crafting Motif 130: Exile's Revenge Shoulders","description":"Use to learn how to make Exile's Revenge Shoulders. Also teaches the equivalent Exile's Revenge Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[211066]}

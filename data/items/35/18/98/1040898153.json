@@ -1,10 +1,1 @@
-{
-  "internalId": 1040898153,
-  "name": "Saplings, Young Forest",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_dec_auridonsapling002.png",
-  "bindType": -1,
-  "knownIds": [
-    120661
-  ]
-}
+{"internalId":1040898153,"name":"Saplings, Young Forest","description":"This is a large house item.","icon":"data/images/20/0g/ni/housing_tre_dec_auridonsapling002.png","bindType":-1,"knownIds":[120661]}

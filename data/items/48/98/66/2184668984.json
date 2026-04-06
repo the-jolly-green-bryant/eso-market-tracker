@@ -1,10 +1,1 @@
-{
-  "internalId": 2184668984,
-  "name": "Painting of Monastery of Serene Harmony, Refined",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_paintingwood004.png",
-  "bindType": -1,
-  "knownIds": [
-    139072
-  ]
-}
+{"internalId":2184668984,"name":"Painting of Monastery of Serene Harmony, Refined","description":"This is a standard house item.","icon":"data/images/40/0d/oo/housing_sum_inc_paintingwood004.png","bindType":-1,"knownIds":[139072]}

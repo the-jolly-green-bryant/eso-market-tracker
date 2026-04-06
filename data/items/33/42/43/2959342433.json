@@ -1,10 +1,1 @@
-{
-  "internalId": 2959342433,
-  "name": "Colovian Beehive, Small",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_beehivewooden001.png",
-  "bindType": -1,
-  "knownIds": [
-    204735
-  ]
-}
+{"internalId":2959342433,"name":"Colovian Beehive, Small","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_beehivewooden001.png","bindType":-1,"knownIds":[204735]}

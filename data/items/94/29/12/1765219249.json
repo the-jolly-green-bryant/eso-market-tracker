@@ -1,10 +1,1 @@
-{
-  "internalId": 1765219249,
-  "name": "Refreshing Retching Tablets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png",
-  "bindType": -1,
-  "knownIds": [
-    652684
-  ]
-}
+{"internalId":1765219249,"name":"Refreshing Retching Tablets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tin_001.png","bindType":-1,"knownIds":[652684]}

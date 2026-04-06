@@ -1,10 +1,1 @@
-{
-  "internalId": 1051443768,
-  "name": "Skooma Journal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1386570
-  ]
-}
+{"internalId":1051443768,"name":"Skooma Journal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[1386570]}

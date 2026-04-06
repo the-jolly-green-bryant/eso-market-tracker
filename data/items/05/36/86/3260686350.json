@@ -1,10 +1,1 @@
-{
-  "internalId": 3260686350,
-  "name": "Plant, Thorny Swamp Lily",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_mrkswamplily002.png",
-  "bindType": -1,
-  "knownIds": [
-    145420
-  ]
-}
+{"internalId":3260686350,"name":"Plant, Thorny Swamp Lily","description":"This is a tiny house item.","icon":"data/images/20/0y/li/housing_veg_flr_mrkswamplily002.png","bindType":-1,"knownIds":[145420]}

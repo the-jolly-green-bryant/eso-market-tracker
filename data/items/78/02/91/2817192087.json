@@ -1,13 +1,1 @@
-{
-  "internalId": 2817192087,
-  "name": "Tarnished Nightmare Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735464,
-    1766176,
-    1735464,
-    1766176
-  ]
-}
+{"internalId":2817192087,"name":"Tarnished Nightmare Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_staff_a.png","bindType":-1,"knownIds":[1735464,1766176,1735464,1766176]}

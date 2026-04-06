@@ -1,10 +1,1 @@
-{
-  "internalId": 2982726466,
-  "name": "Anvil Lighthouse Model",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_miniature_lighthouse.png",
-  "bindType": -1,
-  "knownIds": [
-    896884
-  ]
-}
+{"internalId":2982726466,"name":"Anvil Lighthouse Model","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_miniature_lighthouse.png","bindType":-1,"knownIds":[896884]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2986253545,
-  "name": "Design: Honey Pot, Open",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    207887
-  ]
-}
+{"internalId":2986253545,"name":"Design: Honey Pot, Open","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[207887]}

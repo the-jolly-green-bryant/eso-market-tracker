@@ -1,10 +1,1 @@
-{
-  "internalId": 3340813720,
-  "name": "Ebon Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactebonyheavy_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77661
-  ]
-}
+{"internalId":3340813720,"name":"Ebon Gauntlets","description":"","icon":"data/images/a_/sd/na/gear_artifactebonyheavy_hands_a.png","bindType":2,"knownIds":[77661]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3505676468,
-  "name": "Weapons: Scavenging Demise",
-  "description": "A Medium Armor set found in Depths of Malatar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    147624
-  ]
-}
+{"internalId":3505676468,"name":"Weapons: Scavenging Demise","description":"A Medium Armor set found in Depths of Malatar.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[147624]}

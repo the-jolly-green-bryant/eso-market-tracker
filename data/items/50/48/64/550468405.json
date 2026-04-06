@@ -1,17 +1,1 @@
-{
-  "internalId": 550468405,
-  "name": "Deeproot Zeal Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1602512,
-    1629130,
-    1732222,
-    1739843,
-    1602512,
-    1629130,
-    1732222,
-    1739843
-  ]
-}
+{"internalId":550468405,"name":"Deeproot Zeal Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_feraldruid_2haxe_a.png","bindType":-1,"knownIds":[1602512,1629130,1732222,1739843,1602512,1629130,1732222,1739843]}

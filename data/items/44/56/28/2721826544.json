@@ -1,10 +1,1 @@
-{
-  "internalId": 2721826544,
-  "name": "old man gar",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    396925
-  ]
-}
+{"internalId":2721826544,"name":"old man gar","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[396925]}

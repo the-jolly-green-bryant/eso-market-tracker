@@ -1,10 +1,1 @@
-{
-  "internalId": 3355849730,
-  "name": "Orcish Sconce, Caged",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_lsb_wtgdungeonsconce002.png",
-  "bindType": -1,
-  "knownIds": [
-    116414
-  ]
-}
+{"internalId":3355849730,"name":"Orcish Sconce, Caged","description":"This is a standard house item.","icon":"data/images/20/0e/cn/housing_orc_lsb_wtgdungeonsconce002.png","bindType":-1,"knownIds":[116414]}

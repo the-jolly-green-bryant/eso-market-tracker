@@ -1,10 +1,1 @@
-{
-  "internalId": 1703245873,
-  "name": "Diagram: Dwarven Strainer, Kitchen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    171509
-  ]
-}
+{"internalId":1703245873,"name":"Diagram: Dwarven Strainer, Kitchen","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[171509]}

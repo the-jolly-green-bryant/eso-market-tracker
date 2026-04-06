@@ -1,10 +1,1 @@
-{
-  "internalId": 4072794433,
-  "name": "Rocks, Sintered Outcropping",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_clcsinteredruins007.png",
-  "bindType": -1,
-  "knownIds": [
-    134381
-  ]
-}
+{"internalId":4072794433,"name":"Rocks, Sintered Outcropping","description":"This is a large house item.","icon":"data/images/70/0s/ni/housing_rok_uni_clcsinteredruins007.png","bindType":-1,"knownIds":[134381]}

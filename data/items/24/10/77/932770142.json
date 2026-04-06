@@ -1,10 +1,1 @@
-{
-  "internalId": 932770142,
-  "name": "Shalk's Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reach_heavy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    96746
-  ]
-}
+{"internalId":932770142,"name":"Shalk's Greaves","description":"","icon":"data/images/a_/sg/el/gear_reach_heavy_legs_a.png","bindType":2,"knownIds":[96746]}

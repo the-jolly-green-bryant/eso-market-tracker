@@ -1,10 +1,1 @@
-{
-  "internalId": 350513772,
-  "name": "Coldharbour's Favorite Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    148285
-  ]
-}
+{"internalId":350513772,"name":"Coldharbour's Favorite Sword","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[148285]}

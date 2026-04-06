@@ -1,10 +1,1 @@
-{
-  "internalId": 655401233,
-  "name": "Sash of Trinimac's Valor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_trinimac_light_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    129886
-  ]
-}
+{"internalId":655401233,"name":"Sash of Trinimac's Valor","description":"","icon":"data/images/a_/ts/ia/gear_trinimac_light_waist_a.png","bindType":2,"knownIds":[129886]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2085327520,
-  "name": "Blueprint: Colovian Counter, Block",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    207838
-  ]
-}
+{"internalId":2085327520,"name":"Blueprint: Colovian Counter, Block","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[207838]}

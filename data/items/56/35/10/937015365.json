@@ -1,10 +1,1 @@
-{
-  "internalId": 937015365,
-  "name": "Volendrung",
-  "description": "Fueled by the strongest rage of Malacath, this imposing weapon inflicts grievous damage on even the largest foes.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/death_recap_volendrung.png",
-  "bindType": -1,
-  "knownIds": [
-    151610
-  ]
-}
+{"internalId":937015365,"name":"Volendrung","description":"Fueled by the strongest rage of Malacath, this imposing weapon inflicts grievous damage on even the largest foes.","icon":"data/images/gn/ur/dn/death_recap_volendrung.png","bindType":-1,"knownIds":[151610]}

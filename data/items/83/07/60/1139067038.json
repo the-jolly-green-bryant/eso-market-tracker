@@ -1,10 +1,1 @@
-{
-  "internalId": 1139067038,
-  "name": "Blueprint: High Isle Tea Table, Round Wheel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    188154
-  ]
-}
+{"internalId":1139067038,"name":"Blueprint: High Isle Tea Table, Round Wheel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[188154]}

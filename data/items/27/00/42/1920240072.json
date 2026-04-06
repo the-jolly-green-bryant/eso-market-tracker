@@ -1,10 +1,1 @@
-{
-  "internalId": 1920240072,
-  "name": "Affix Script: Brittle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_brittle.png",
-  "bindType": -1,
-  "knownIds": [
-    204615
-  ]
-}
+{"internalId":1920240072,"name":"Affix Script: Brittle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_brittle.png","bindType":-1,"knownIds":[204615]}

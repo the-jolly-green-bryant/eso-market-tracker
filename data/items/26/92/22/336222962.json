@@ -1,10 +1,1 @@
-{
-  "internalId": 336222962,
-  "name": "Digestion Pearls",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lodestone_bowling_balls.png",
-  "bindType": -1,
-  "knownIds": [
-    1250068
-  ]
-}
+{"internalId":336222962,"name":"Digestion Pearls","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lodestone_bowling_balls.png","bindType":-1,"knownIds":[1250068]}

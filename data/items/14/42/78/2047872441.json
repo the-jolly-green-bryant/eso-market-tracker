@@ -1,10 +1,1 @@
-{
-  "internalId": 2047872441,
-  "name": "Unidentified Enchanter Survey Report",
-  "description": "This envelope contains an Enchanter Survey Report.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_envelope_string_brown.png",
-  "bindType": -1,
-  "knownIds": [
-    219852
-  ]
-}
+{"internalId":2047872441,"name":"Unidentified Enchanter Survey Report","description":"This envelope contains an Enchanter Survey Report.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u47_envelope_string_brown.png","bindType":-1,"knownIds":[219852]}

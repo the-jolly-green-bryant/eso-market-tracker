@@ -1,10 +1,1 @@
-{
-  "internalId": 836072551,
-  "name": "Girdle of Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199251
-  ]
-}
+{"internalId":836072551,"name":"Girdle of Fury","description":"","icon":"data/images/a_/ts/ia/gear_abahswatch_heavy_waist_a.png","bindType":2,"knownIds":[79810]}

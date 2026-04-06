@@ -1,10 +1,1 @@
-{
-  "internalId": 3973364467,
-  "name": "Jack of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    114806
-  ]
-}
+{"internalId":3973364467,"name":"Jack of Syvarra's Scales","description":"","icon":"data/images/a_/ts/eh/gear_thievesguildv2_medium_chest_a.png","bindType":2,"knownIds":[114806]}

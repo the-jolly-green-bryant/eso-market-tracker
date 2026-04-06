@@ -1,10 +1,1 @@
-{
-  "internalId": 1308944465,
-  "name": "Fireplace Grate, Wrought Iron",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_fireplacelogstand001.png",
-  "bindType": -1,
-  "knownIds": [
-    139262
-  ]
-}
+{"internalId":1308944465,"name":"Fireplace Grate, Wrought Iron","description":"This is a standard house item.","icon":"data/images/10/0d/na/housing_sum_inc_fireplacelogstand001.png","bindType":-1,"knownIds":[139262]}

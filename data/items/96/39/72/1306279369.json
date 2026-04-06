@@ -1,10 +1,1 @@
-{
-  "internalId": 1306279369,
-  "name": "Nord Armoire, Lattice",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_wardrobe001.png",
-  "bindType": -1,
-  "knownIds": [
-    115388
-  ]
-}
+{"internalId":1306279369,"name":"Nord Armoire, Lattice","description":"This is a standard house item.","icon":"data/images/10/0e/bo/housing_nor_fur_wardrobe001.png","bindType":-1,"knownIds":[115388]}

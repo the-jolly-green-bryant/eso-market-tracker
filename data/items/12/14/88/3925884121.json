@@ -1,10 +1,1 @@
-{
-  "internalId": 3925884121,
-  "name": "Colovian Serving Dish, Cheese",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_platehighfood003.png",
-  "bindType": -1,
-  "knownIds": [
-    204692
-  ]
-}
+{"internalId":3925884121,"name":"Colovian Serving Dish, Cheese","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_platehighfood003.png","bindType":-1,"knownIds":[204692]}

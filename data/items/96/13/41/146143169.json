@@ -1,10 +1,1 @@
-{
-  "internalId": 146143169,
-  "name": "Bolt of Red Fabric",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860219
-  ]
-}
+{"internalId":146143169,"name":"Bolt of Red Fabric","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[860219]}

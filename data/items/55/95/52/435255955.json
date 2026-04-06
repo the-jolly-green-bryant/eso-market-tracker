@@ -1,10 +1,1 @@
-{
-  "internalId": 435255955,
-  "name": "Clothier Survey: Coldharbour I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    390846
-  ]
-}
+{"internalId":435255955,"name":"Clothier Survey: Coldharbour I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[390846]}

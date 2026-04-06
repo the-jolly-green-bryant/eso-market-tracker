@@ -1,10 +1,1 @@
-{
-  "internalId": 1764526631,
-  "name": "High Elf Table, Sturdy Kitchen",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_tablesquare003.png",
-  "bindType": -1,
-  "knownIds": [
-    114330
-  ]
-}
+{"internalId":1764526631,"name":"High Elf Table, Sturdy Kitchen","description":"This is a standard house item.","icon":"data/images/30/0e/ra/housing_alt_fur_tablesquare003.png","bindType":-1,"knownIds":[114330]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3784751690,
-  "name": "Bow of Akatosh's Law",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194337
-  ]
-}
+{"internalId":3784751690,"name":"Bow of Akatosh's Law","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png","bindType":2,"knownIds":[194337]}

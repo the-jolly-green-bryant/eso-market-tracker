@@ -1,10 +1,1 @@
-{
-  "internalId": 447167258,
-  "name": "Fern, Healthy Green",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_greenshadeleafyplantandferns001.png",
-  "bindType": -1,
-  "knownIds": [
-    120599
-  ]
-}
+{"internalId":447167258,"name":"Fern, Healthy Green","description":"This is a small house item.","icon":"data/images/10/0s/nr/housing_veg_bsh_greenshadeleafyplantandferns001.png","bindType":-1,"knownIds":[120599]}

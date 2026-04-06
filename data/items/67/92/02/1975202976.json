@@ -1,10 +1,1 @@
-{
-  "internalId": 1975202976,
-  "name": "Unchained Aggressor's Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159026
-  ]
-}
+{"internalId":1975202976,"name":"Unchained Aggressor's Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[159026]}

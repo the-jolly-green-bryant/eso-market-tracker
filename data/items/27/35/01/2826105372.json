@@ -1,10 +1,1 @@
-{
-  "internalId": 2826105372,
-  "name": "Systres' Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186394
-  ]
-}
+{"internalId":2826105372,"name":"Systres' Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_bow_a.png","bindType":2,"knownIds":[186394]}

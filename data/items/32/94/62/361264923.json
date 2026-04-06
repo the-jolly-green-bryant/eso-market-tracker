@@ -1,10 +1,1 @@
-{
-  "internalId": 361264923,
-  "name": "Colovian Armchair, Noble",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_chairhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    204661
-  ]
-}
+{"internalId":361264923,"name":"Colovian Armchair, Noble","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_chairhigh001.png","bindType":-1,"knownIds":[204661]}

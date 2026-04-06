@@ -1,10 +1,1 @@
-{
-  "internalId": 1223378339,
-  "name": "Blueprint: High Elf Wagon, Covered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    118916
-  ]
-}
+{"internalId":1223378339,"name":"Blueprint: High Elf Wagon, Covered","description":"","icon":"data/images/4_/gn/ik/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[118916]}

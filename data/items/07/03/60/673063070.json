@@ -1,10 +1,1 @@
-{
-  "internalId": 673063070,
-  "name": "Nord Counter, Long",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_counterlong001.png",
-  "bindType": -1,
-  "knownIds": [
-    115380
-  ]
-}
+{"internalId":673063070,"name":"Nord Counter, Long","description":"This is a standard house item.","icon":"data/images/10/0g/no/housing_nor_fur_counterlong001.png","bindType":-1,"knownIds":[115380]}

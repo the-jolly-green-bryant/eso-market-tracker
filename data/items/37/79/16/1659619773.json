@@ -1,10 +1,1 @@
-{
-  "internalId": 1659619773,
-  "name": "Argonian Table, Formal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_fur_mrktable001.png",
-  "bindType": -1,
-  "knownIds": [
-    115478
-  ]
-}
+{"internalId":1659619773,"name":"Argonian Table, Formal","description":"This is a standard house item.","icon":"data/images/10/0e/lb/housing_arg_fur_mrktable001.png","bindType":-1,"knownIds":[115478]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2779881136,
-  "name": "Leviathan Scrimshaw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_mazzatun_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    114984
-  ]
-}
+{"internalId":2779881136,"name":"Leviathan Scrimshaw","description":"","icon":"data/images/2r/_n/ut/crafting_style_item_mazzatun_r2.png","bindType":-1,"knownIds":[114984]}

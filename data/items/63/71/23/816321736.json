@@ -1,10 +1,1 @@
-{
-  "internalId": 816321736,
-  "name": "Recipe: Kragenmoor Pickled Pumpkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56949
-  ]
-}
+{"internalId":816321736,"name":"Recipe: Kragenmoor Pickled Pumpkin","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56949]}

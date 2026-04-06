@@ -1,10 +1,1 @@
-{
-  "internalId": 83218393,
-  "name": "Alinor Shrine, Limestone Raised",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonedecorative008.png",
-  "bindType": -1,
-  "knownIds": [
-    139281
-  ]
-}
+{"internalId":83218393,"name":"Alinor Shrine, Limestone Raised","description":"This is a standard house item.","icon":"data/images/80/0e/vi/housing_rok_sum_limestonedecorative008.png","bindType":-1,"knownIds":[139281]}

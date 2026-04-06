@@ -1,10 +1,1 @@
-{
-  "internalId": 958763790,
-  "name": "New Moon Acolyte's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156498
-  ]
-}
+{"internalId":958763790,"name":"New Moon Acolyte's Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[156498]}

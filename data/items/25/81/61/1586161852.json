@@ -1,10 +1,1 @@
-{
-  "internalId": 1586161852,
-  "name": "Bird Call Whistle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_whistle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    376736
-  ]
-}
+{"internalId":1586161852,"name":"Bird Call Whistle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_whistle_001.png","bindType":-1,"knownIds":[376736]}

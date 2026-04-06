@@ -1,10 +1,1 @@
-{
-  "internalId": 3996675083,
-  "name": "Chain of Hist's Power",
-  "description": "This necklace oozes with the primordial power of the Hist.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    22757
-  ]
-}
+{"internalId":3996675083,"name":"Chain of Hist's Power","description":"This necklace oozes with the primordial power of the Hist.","icon":"data/images/a_/kc/en/gear_argonian_neck_a.png","bindType":2,"knownIds":[22757]}

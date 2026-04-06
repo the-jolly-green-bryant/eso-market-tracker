@@ -1,10 +1,1 @@
-{
-  "internalId": 2288790003,
-  "name": "Crafting Motif 81: New Moon Priest Staves",
-  "description": "Use to learn how to make New Moon Priest Staves. Also teaches the equivalent New Moon Priest Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    156621
-  ]
-}
+{"internalId":2288790003,"name":"Crafting Motif 81: New Moon Priest Staves","description":"Use to learn how to make New Moon Priest Staves. Also teaches the equivalent New Moon Priest Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[156621]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2017246563,
-  "name": "Bacon Jerky Drying Rack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1230947
-  ]
-}
+{"internalId":2017246563,"name":"Bacon Jerky Drying Rack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_furniture_001.png","bindType":-1,"knownIds":[1230947]}

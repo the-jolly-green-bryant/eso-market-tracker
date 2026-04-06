@@ -1,10 +1,1 @@
-{
-  "internalId": 2009705436,
-  "name": "Breeches of Stendarr",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100186
-  ]
-}
+{"internalId":2009705436,"name":"Breeches of Stendarr","description":"","icon":"data/images/d_/sg/el/gear_bosmer_light_legs_d.png","bindType":2,"knownIds":[100186]}

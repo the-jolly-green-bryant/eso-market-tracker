@@ -1,15 +1,1 @@
-{
-  "internalId": 819079003,
-  "name": "Noxious Boulder Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1751972,
-    1773215,
-    1777490,
-    1751972,
-    1773215,
-    1777490
-  ]
-}
+{"internalId":819079003,"name":"Noxious Boulder Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png","bindType":-1,"knownIds":[1751972,1773215,1777490,1751972,1773215,1777490]}

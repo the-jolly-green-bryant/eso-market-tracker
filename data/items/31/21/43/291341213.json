@@ -1,10 +1,1 @@
-{
-  "internalId": 291341213,
-  "name": "Newcomer: Flame Skin Salamander",
-  "description": "Grants the Flame Skin Salamander Pet Collectible. Once used, the pet is available to all characters on your account",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 3,
-  "knownIds": [
-    152154
-  ]
-}
+{"internalId":291341213,"name":"Newcomer: Flame Skin Salamander","description":"Grants the Flame Skin Salamander Pet Collectible. Once used, the pet is available to all characters on your account","icon":"data/images/10/0_/re/quest_container_001.png","bindType":3,"knownIds":[152154]}

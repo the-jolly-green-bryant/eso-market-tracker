@@ -1,10 +1,1 @@
-{
-  "internalId": 2862047150,
-  "name": "Unopened Treasure Map",
-  "description": "This Treasure Map has yet to be opened and reveal its contents.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u47_sealed_scroll.png",
-  "bindType": -1,
-  "knownIds": [
-    224681
-  ]
-}
+{"internalId":2862047150,"name":"Unopened Treasure Map","description":"This Treasure Map has yet to be opened and reveal its contents.","icon":"data/images/ll/or/cs/item_u47_sealed_scroll.png","bindType":-1,"knownIds":[224681]}

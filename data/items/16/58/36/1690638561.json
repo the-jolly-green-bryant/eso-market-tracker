@@ -1,10 +1,1 @@
-{
-  "internalId": 1690638561,
-  "name": "Solitude Pot, Narrow Metal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_smallpot002.png",
-  "bindType": -1,
-  "knownIds": [
-    165759
-  ]
-}
+{"internalId":1690638561,"name":"Solitude Pot, Narrow Metal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_smallpot002.png","bindType":-1,"knownIds":[165759]}

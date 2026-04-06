@@ -1,17 +1,1 @@
-{
-  "internalId": 390676690,
-  "name": "Beacon of Oblivion Pauldrons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_shoulder_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1737606,
-    1740333,
-    1737606,
-    1740333,
-    1737606,
-    1740333,
-    1737606,
-    1740333
-  ]
-}
+{"internalId":390676690,"name":"Beacon of Oblivion Pauldrons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_shoulder_a.png","bindType":-1,"knownIds":[1737606,1740333,1737606,1740333,1737606,1740333,1737606,1740333]}

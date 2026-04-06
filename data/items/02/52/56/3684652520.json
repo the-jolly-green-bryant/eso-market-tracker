@@ -1,10 +1,1 @@
-{
-  "internalId": 3684652520,
-  "name": "Banner, Transmute",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_lsb_bannerretrait001.png",
-  "bindType": -1,
-  "knownIds": [
-    141765
-  ]
-}
+{"internalId":3684652520,"name":"Banner, Transmute","description":"This is a standard house item.","icon":"data/images/10/0t/ia/housing_cwc_lsb_bannerretrait001.png","bindType":-1,"knownIds":[141765]}

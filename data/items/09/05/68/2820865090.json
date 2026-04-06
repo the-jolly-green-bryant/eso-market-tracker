@@ -1,10 +1,1 @@
-{
-  "internalId": 2820865090,
-  "name": "Mangrove Juice",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    820448
-  ]
-}
+{"internalId":2820865090,"name":"Mangrove Juice","description":"","icon":null,"bindType":-1,"knownIds":[820448]}

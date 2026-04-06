@@ -1,10 +1,1 @@
-{
-  "internalId": 341124792,
-  "name": "Cricket Cage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png",
-  "bindType": -1,
-  "knownIds": [
-    886170
-  ]
-}
+{"internalId":341124792,"name":"Cricket Cage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cage_001.png","bindType":-1,"knownIds":[886170]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2467676208,
-  "name": "Hozzin's Snowshoe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_equipment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    714104
-  ]
-}
+{"internalId":2467676208,"name":"Hozzin's Snowshoe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_equipment_001.png","bindType":-1,"knownIds":[714104]}

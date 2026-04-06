@@ -1,10 +1,1 @@
-{
-  "internalId": 3082716637,
-  "name": "Medium: Armor of the Trainee",
-  "description": "An All Armor set found in Starter Islands.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114131
-  ]
-}
+{"internalId":3082716637,"name":"Medium: Armor of the Trainee","description":"An All Armor set found in Starter Islands.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114131]}

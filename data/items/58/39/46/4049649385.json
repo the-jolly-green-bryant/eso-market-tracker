@@ -1,10 +1,1 @@
-{
-  "internalId": 4049649385,
-  "name": "Tide-Born Wall, Woven",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_argwallsection002.png",
-  "bindType": -1,
-  "knownIds": [
-    218003
-  ]
-}
+{"internalId":4049649385,"name":"Tide-Born Wall, Woven","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_argwallsection002.png","bindType":-1,"knownIds":[218003]}

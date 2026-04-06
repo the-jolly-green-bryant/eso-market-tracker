@@ -1,17 +1,1 @@
-{
-  "internalId": 2890877408,
-  "name": "Renald's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1340955,
-    1342088,
-    1499380,
-    1540881,
-    1340955,
-    1342088,
-    1499380,
-    1540881
-  ]
-}
+{"internalId":2890877408,"name":"Renald's Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1340955,1342088,1499380,1540881,1340955,1342088,1499380,1540881]}

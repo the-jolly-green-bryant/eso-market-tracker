@@ -1,10 +1,1 @@
-{
-  "internalId": 2704017219,
-  "name": "Helm of the Spectre's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56468
-  ]
-}
+{"internalId":2704017219,"name":"Helm of the Spectre's Eye","description":"","icon":"data/images/d_/da/eh/gear_breton_heavy_head_d.png","bindType":2,"knownIds":[56468]}

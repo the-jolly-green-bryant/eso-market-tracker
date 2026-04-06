@@ -1,10 +1,1 @@
-{
-  "internalId": 3801165632,
-  "name": "Diagram: Redguard Chandelier, Polished Grated",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    119281
-  ]
-}
+{"internalId":3801165632,"name":"Diagram: Redguard Chandelier, Polished Grated","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[119281]}

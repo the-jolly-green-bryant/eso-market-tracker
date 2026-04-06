@@ -1,15 +1,1 @@
-{
-  "internalId": 849859455,
-  "name": "Kazpian's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756385,
-    1760673,
-    1764868,
-    1756385,
-    1760673,
-    1764868
-  ]
-}
+{"internalId":849859455,"name":"Kazpian's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbourdominator_staff_a.png","bindType":-1,"knownIds":[1756385,1760673,1764868,1756385,1760673,1764868]}

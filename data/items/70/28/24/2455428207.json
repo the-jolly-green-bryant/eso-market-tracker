@@ -1,10 +1,1 @@
-{
-  "internalId": 2455428207,
-  "name": "Stones, Gray Mossy",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_auridonsmall009.png",
-  "bindType": -1,
-  "knownIds": [
-    120656
-  ]
-}
+{"internalId":2455428207,"name":"Stones, Gray Mossy","description":"This is a small house item.","icon":"data/images/90/0l/la/housing_rok_gry_auridonsmall009.png","bindType":-1,"knownIds":[120656]}

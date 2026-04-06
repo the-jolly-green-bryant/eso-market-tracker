@@ -1,10 +1,1 @@
-{
-  "internalId": 564060417,
-  "name": "Recipe: Salmon with Radish Slaw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45637
-  ]
-}
+{"internalId":564060417,"name":"Recipe: Salmon with Radish Slaw","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45637]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3438671540,
-  "name": "Innkeeper's Contracts",
-  "description": "This envelope contains the deeds to Inn rooms in the Mara's Kiss Public House, The Rosy Lion, and The Ebony Flask.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": 3,
-  "knownIds": [
-    121260
-  ]
-}
+{"internalId":3438671540,"name":"Innkeeper's Contracts","description":"This envelope contains the deeds to Inn rooms in the Mara's Kiss Public House, The Rosy Lion, and The Ebony Flask.","icon":"data/images/10/0_/ep/justice_stolen_envelope_001.png","bindType":3,"knownIds":[121260]}

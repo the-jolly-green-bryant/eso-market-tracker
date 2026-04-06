@@ -1,10 +1,1 @@
-{
-  "internalId": 3195733381,
-  "name": "Fist of the Kalmur",
-  "description": "Gifted by Khazasha for helping her deal with the Ravener at Ardent Hope.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    182829
-  ]
-}
+{"internalId":3195733381,"name":"Fist of the Kalmur","description":"Gifted by Khazasha for helping her deal with the Ravener at Ardent Hope.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_2hhammer_d.png","bindType":2,"knownIds":[182829]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1959863678,
-  "name": "Formula: Lucent Defensive Spike, Curved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    211458
-  ]
-}
+{"internalId":1959863678,"name":"Formula: Lucent Defensive Spike, Curved","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[211458]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1812752348,
-  "name": "Plants, Lava Pitcher Patch",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdpitcherflowers003.png",
-  "bindType": -1,
-  "knownIds": [
-    197637
-  ]
-}
+{"internalId":1812752348,"name":"Plants, Lava Pitcher Patch","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_flr_vrdpitcherflowers003.png","bindType":-1,"knownIds":[197637]}

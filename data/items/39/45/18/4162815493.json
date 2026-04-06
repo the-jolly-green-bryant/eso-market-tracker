@@ -1,18 +1,1 @@
-{
-  "internalId": 4162815493,
-  "name": "Tools of the Trapmaster Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765204,
-    1770284,
-    1771681,
-    1765204,
-    1770284,
-    1771681,
-    1765204,
-    1770284,
-    1771681
-  ]
-}
+{"internalId":4162815493,"name":"Tools of the Trapmaster Restoration Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_staff_a.png","bindType":-1,"knownIds":[1765204,1770284,1771681,1765204,1770284,1771681,1765204,1770284,1771681]}

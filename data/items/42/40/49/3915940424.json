@@ -1,10 +1,1 @@
-{
-  "internalId": 3915940424,
-  "name": "Colovian Bed, Rustic Double",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_beddoublelow001.png",
-  "bindType": -1,
-  "knownIds": [
-    204648
-  ]
-}
+{"internalId":3915940424,"name":"Colovian Bed, Rustic Double","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_beddoublelow001.png","bindType":-1,"knownIds":[204648]}

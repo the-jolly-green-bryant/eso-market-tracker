@@ -1,10 +1,1 @@
-{
-  "internalId": 3785883692,
-  "name": "Pattern: Elsweyr Carpet, Blossoms on Blue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    152101
-  ]
-}
+{"internalId":3785883692,"name":"Pattern: Elsweyr Carpet, Blossoms on Blue","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[152101]}

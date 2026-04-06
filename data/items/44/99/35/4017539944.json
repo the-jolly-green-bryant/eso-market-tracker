@@ -1,10 +1,1 @@
-{
-  "internalId": 4017539944,
-  "name": "The Furnisher's Materials Crate",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1164284
-  ]
-}
+{"internalId":4017539944,"name":"The Furnisher's Materials Crate","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1164284]}

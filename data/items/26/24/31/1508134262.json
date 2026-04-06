@@ -1,10 +1,1 @@
-{
-  "internalId": 1508134262,
-  "name": "Imperial Lightpost, Pair",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_lsb_lamppost003.png",
-  "bindType": -1,
-  "knownIds": [
-    94151
-  ]
-}
+{"internalId":1508134262,"name":"Imperial Lightpost, Pair","description":"This is a standard house item.","icon":"data/images/30/0t/so/housing_nib_lsb_lamppost003.png","bindType":-1,"knownIds":[94151]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2152669675,
-  "name": "Hlaalu Hanger, Mounted",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_str_vivcantonconbitslightingpost001.png",
-  "bindType": -1,
-  "knownIds": [
-    126360
-  ]
-}
+{"internalId":2152669675,"name":"Hlaalu Hanger, Mounted","description":"This is a small house item.","icon":"data/images/10/0t/so/housing_vrd_str_vivcantonconbitslightingpost001.png","bindType":-1,"knownIds":[126360]}

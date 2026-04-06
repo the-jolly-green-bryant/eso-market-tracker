@@ -1,10 +1,1 @@
-{
-  "internalId": 3069329217,
-  "name": "Warrior-Poet's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    122756
-  ]
-}
+{"internalId":3069329217,"name":"Warrior-Poet's Maul","description":"","icon":"data/images/a_/re/mm/gear_redoran_2hhammer_a.png","bindType":2,"knownIds":[122756]}

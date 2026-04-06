@@ -1,10 +1,1 @@
-{
-  "internalId": 1255244402,
-  "name": "Solitude Stall, Merchant",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_csb_merchantstand002.png",
-  "bindType": -1,
-  "knownIds": [
-    167319
-  ]
-}
+{"internalId":1255244402,"name":"Solitude Stall, Merchant","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_csb_merchantstand002.png","bindType":-1,"knownIds":[167319]}

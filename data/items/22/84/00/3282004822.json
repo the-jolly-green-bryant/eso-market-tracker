@@ -1,10 +1,1 @@
-{
-  "internalId": 3282004822,
-  "name": "Charged Rod",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    761062
-  ]
-}
+{"internalId":3282004822,"name":"Charged Rod","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png","bindType":-1,"knownIds":[761062]}

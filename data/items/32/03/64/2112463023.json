@@ -1,10 +1,1 @@
-{
-  "internalId": 2112463023,
-  "name": "Ice Cutting Bone Saw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1367496
-  ]
-}
+{"internalId":2112463023,"name":"Ice Cutting Bone Saw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1367496]}

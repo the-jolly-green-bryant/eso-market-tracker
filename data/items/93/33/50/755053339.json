@@ -1,10 +1,1 @@
-{
-  "internalId": 755053339,
-  "name": "Khajiit Brazier, Claw",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_braziersandoff002.png",
-  "bindType": -1,
-  "knownIds": [
-    115670
-  ]
-}
+{"internalId":755053339,"name":"Khajiit Brazier, Claw","description":"This is a standard house item.","icon":"data/images/20/0f/fo/housing_kha_lsb_braziersandoff002.png","bindType":-1,"knownIds":[115670]}

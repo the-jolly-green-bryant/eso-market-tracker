@@ -1,10 +1,1 @@
-{
-  "internalId": 2092951513,
-  "name": "Flowing Bowl Green Port",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_002.png",
-  "bindType": -1,
-  "knownIds": [
-    68269
-  ]
-}
+{"internalId":2092951513,"name":"Flowing Bowl Green Port","description":"","icon":"data/images/20/0_/st/crafting_spirits_002.png","bindType":-1,"knownIds":[68269]}

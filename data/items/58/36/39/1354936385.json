@@ -1,10 +1,1 @@
-{
-  "internalId": 1354936385,
-  "name": "Hagraven's Tonic",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_vitriol.png",
-  "bindType": -1,
-  "knownIds": [
-    68263
-  ]
-}
+{"internalId":1354936385,"name":"Hagraven's Tonic","description":"","icon":"data/images/lo/ir/ti/crafting_leather_vitriol.png","bindType":-1,"knownIds":[68263]}

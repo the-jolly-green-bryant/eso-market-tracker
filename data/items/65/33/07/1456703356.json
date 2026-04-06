@@ -1,10 +1,1 @@
-{
-  "internalId": 1456703356,
-  "name": "Formula: Fabricant Shrubs, Beryl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png",
-  "bindType": -1,
-  "knownIds": [
-    134483
-  ]
-}
+{"internalId":1456703356,"name":"Formula: Fabricant Shrubs, Beryl","description":"","icon":"data/images/2y/me/hc/crafting_planfurniture_alchemy2.png","bindType":-1,"knownIds":[134483]}

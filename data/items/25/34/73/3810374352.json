@@ -1,10 +1,1 @@
-{
-  "internalId": 3810374352,
-  "name": "Blueprint: Solitude Game, Blood-On-The-Snow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    167380
-  ]
-}
+{"internalId":3810374352,"name":"Blueprint: Solitude Game, Blood-On-The-Snow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[167380]}

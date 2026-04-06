@@ -1,10 +1,1 @@
-{
-  "internalId": 589535654,
-  "name": "Jester's Festival Box",
-  "description": "This box contains odds and sundries intended to delight Jester's Festival celebrants.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_2016_gift_box.png",
-  "bindType": 3,
-  "knownIds": [
-    194414
-  ]
-}
+{"internalId":589535654,"name":"Jester's Festival Box","description":"This box contains odds and sundries intended to delight Jester's Festival celebrants.","icon":"data/images/xo/b_/tf/event_jestersfestival_2016_gift_box.png","bindType":3,"knownIds":[147477]}

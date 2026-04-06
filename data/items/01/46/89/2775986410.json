@@ -1,10 +1,1 @@
-{
-  "internalId": 2775986410,
-  "name": "Bow of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101291
-  ]
-}
+{"internalId":2775986410,"name":"Bow of Soulshine","description":"","icon":"data/images/d_/wo/b_/gear_khajiit_bow_d.png","bindType":2,"knownIds":[101291]}

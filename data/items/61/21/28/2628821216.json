@@ -1,15 +1,1 @@
-{
-  "internalId": 2628821216,
-  "name": "Xoryn's Perfected Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1723267,
-    1743039,
-    1764550,
-    1723267,
-    1743039,
-    1764550
-  ]
-}
+{"internalId":2628821216,"name":"Xoryn's Perfected Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hhammer_a.png","bindType":-1,"knownIds":[1723267,1743039,1764550,1723267,1743039,1764550]}

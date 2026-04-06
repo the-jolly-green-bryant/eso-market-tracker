@@ -1,10 +1,1 @@
-{
-  "internalId": 1123048091,
-  "name": "Divad Hunding's Dribble Bowl",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_hundings_drinking_bowl.png",
-  "bindType": -1,
-  "knownIds": [
-    860346
-  ]
-}
+{"internalId":1123048091,"name":"Divad Hunding's Dribble Bowl","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_prop_hundings_drinking_bowl.png","bindType":-1,"knownIds":[860346]}

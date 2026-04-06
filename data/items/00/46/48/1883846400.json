@@ -1,10 +1,1 @@
-{
-  "internalId": 1883846400,
-  "name": "Imperial City Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_chestsmall001.png",
-  "bindType": 3,
-  "knownIds": [
-    203823
-  ]
-}
+{"internalId":1883846400,"name":"Imperial City Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_dae_inc_chestsmall001.png","bindType":3,"knownIds":[203823]}

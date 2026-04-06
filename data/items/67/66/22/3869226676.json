@@ -1,10 +1,1 @@
-{
-  "internalId": 3869226676,
-  "name": "Thunderbug Carapace Heretic's Necklace",
-  "description": "This necklace somehow manages to look … shunned.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    34752
-  ]
-}
+{"internalId":3869226676,"name":"Thunderbug Carapace Heretic's Necklace","description":"This necklace somehow manages to look … shunned.","icon":"data/images/a_/kc/en/gear_breton_neck_a.png","bindType":2,"knownIds":[34752]}

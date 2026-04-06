@@ -1,10 +1,1 @@
-{
-  "internalId": 276432616,
-  "name": "slimeslither",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    382905
-  ]
-}
+{"internalId":276432616,"name":"slimeslither","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[382905]}

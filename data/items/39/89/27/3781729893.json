@@ -1,10 +1,1 @@
-{
-  "internalId": 3781729893,
-  "name": "Alkosh Devotional Figurine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_burial_mannequin_of_calarthor_camoran.png",
-  "bindType": -1,
-  "knownIds": [
-    1338401
-  ]
-}
+{"internalId":3781729893,"name":"Alkosh Devotional Figurine","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_burial_mannequin_of_calarthor_camoran.png","bindType":-1,"knownIds":[1338401]}

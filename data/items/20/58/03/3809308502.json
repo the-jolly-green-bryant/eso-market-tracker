@@ -1,10 +1,1 @@
-{
-  "internalId": 3809308502,
-  "name": "Redguard Table, Inlaid",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_rectangulartable001.png",
-  "bindType": -1,
-  "knownIds": [
-    117844
-  ]
-}
+{"internalId":3809308502,"name":"Redguard Table, Inlaid","description":"This is a standard house item.","icon":"data/images/10/0e/lb/housing_red_fur_rectangulartable001.png","bindType":-1,"knownIds":[117844]}

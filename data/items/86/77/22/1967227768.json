@@ -1,10 +1,1 @@
-{
-  "internalId": 1967227768,
-  "name": "Focus Script: Physical Damage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_physical.png",
-  "bindType": -1,
-  "knownIds": [
-    204549
-  ]
-}
+{"internalId":1967227768,"name":"Focus Script: Physical Damage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_physical.png","bindType":-1,"knownIds":[204549]}

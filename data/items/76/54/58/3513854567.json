@@ -1,10 +1,1 @@
-{
-  "internalId": 3513854567,
-  "name": "Praxis: Dwarven Table, Granite Kitchen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    171518
-  ]
-}
+{"internalId":3513854567,"name":"Praxis: Dwarven Table, Granite Kitchen","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[171518]}

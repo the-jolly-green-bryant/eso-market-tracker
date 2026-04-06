@@ -1,10 +1,1 @@
-{
-  "internalId": 2019767669,
-  "name": "Solitude Bed, Noble Single",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_singlebedfancy001.png",
-  "bindType": -1,
-  "knownIds": [
-    165743
-  ]
-}
+{"internalId":2019767669,"name":"Solitude Bed, Noble Single","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_singlebedfancy001.png","bindType":-1,"knownIds":[165743]}

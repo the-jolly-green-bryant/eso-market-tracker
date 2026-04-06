@@ -1,10 +1,1 @@
-{
-  "internalId": 2438512320,
-  "name": "Ring of the Valiant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    92629
-  ]
-}
+{"internalId":2438512320,"name":"Ring of the Valiant","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[92629]}

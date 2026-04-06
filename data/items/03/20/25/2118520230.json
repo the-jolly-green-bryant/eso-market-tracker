@@ -1,10 +1,1 @@
-{
-  "internalId": 2118520230,
-  "name": "Alchemist Survey: Stormhaven",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801036
-  ]
-}
+{"internalId":2118520230,"name":"Alchemist Survey: Stormhaven","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[801036]}

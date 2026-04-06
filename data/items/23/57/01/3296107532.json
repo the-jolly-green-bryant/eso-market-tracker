@@ -1,10 +1,1 @@
-{
-  "internalId": 3296107532,
-  "name": "Dawnwood Bench, Sprouted",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bosbench001.png",
-  "bindType": -1,
-  "knownIds": [
-    204664
-  ]
-}
+{"internalId":3296107532,"name":"Dawnwood Bench, Sprouted","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_bosbench001.png","bindType":-1,"knownIds":[204664]}

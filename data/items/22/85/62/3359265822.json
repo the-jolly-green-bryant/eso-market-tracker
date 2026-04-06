@@ -1,10 +1,1 @@
-{
-  "internalId": 3359265822,
-  "name": "Battle Axe of Martial Knowledge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95604
-  ]
-}
+{"internalId":3359265822,"name":"Battle Axe of Martial Knowledge","description":"","icon":"data/images/a_/ex/ah/gear_yokudan_2haxe_a.png","bindType":2,"knownIds":[95604]}

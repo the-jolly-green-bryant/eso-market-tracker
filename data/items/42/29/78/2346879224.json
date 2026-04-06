@@ -1,10 +1,1 @@
-{
-  "internalId": 2346879224,
-  "name": "Factotum Elbow, Obsolete",
-  "description": "A blunt trauma crushed the precise workmanship of this elbow beyond repair.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_exc_junkpile005.png",
-  "bindType": -1,
-  "knownIds": [
-    134408
-  ]
-}
+{"internalId":2346879224,"name":"Factotum Elbow, Obsolete","description":"A blunt trauma crushed the precise workmanship of this elbow beyond repair.","icon":"data/images/50/0e/li/housing_cwc_exc_junkpile005.png","bindType":-1,"knownIds":[134408]}

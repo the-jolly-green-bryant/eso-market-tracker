@@ -1,10 +1,1 @@
-{
-  "internalId": 2547416241,
-  "name": "Chimer Talisman of Boethiah",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_bangkorai_imperial_coin.png",
-  "bindType": -1,
-  "knownIds": [
-    1198078
-  ]
-}
+{"internalId":2547416241,"name":"Chimer Talisman of Boethiah","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_bangkorai_imperial_coin.png","bindType":-1,"knownIds":[1198078]}

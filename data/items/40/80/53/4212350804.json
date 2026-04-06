@@ -1,10 +1,1 @@
-{
-  "internalId": 4212350804,
-  "name": "Crafting Motif 111: Ascendant Order Gloves",
-  "description": "Use to learn how to make Ascendant Order Gloves. Also teaches the equivalent Ascendant Order Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    181685
-  ]
-}
+{"internalId":4212350804,"name":"Crafting Motif 111: Ascendant Order Gloves","description":"Use to learn how to make Ascendant Order Gloves. Also teaches the equivalent Ascendant Order Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[181685]}

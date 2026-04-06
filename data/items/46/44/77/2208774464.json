@@ -1,10 +1,1 @@
-{
-  "internalId": 2208774464,
-  "name": "Imperial Door, Diamond",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_str_doorsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    211579
-  ]
-}
+{"internalId":2208774464,"name":"Imperial Door, Diamond","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_imp_str_doorsmall001.png","bindType":-1,"knownIds":[211579]}

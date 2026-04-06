@@ -1,10 +1,1 @@
-{
-  "internalId": 4236850360,
-  "name": "Redguard Footlocker, Braced",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_varlongchest002.png",
-  "bindType": -1,
-  "knownIds": [
-    117726
-  ]
-}
+{"internalId":4236850360,"name":"Redguard Footlocker, Braced","description":"This is a standard house item.","icon":"data/images/20/0t/se/housing_red_fur_varlongchest002.png","bindType":-1,"knownIds":[117726]}

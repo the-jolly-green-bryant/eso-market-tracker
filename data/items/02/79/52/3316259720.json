@@ -1,10 +1,1 @@
-{
-  "internalId": 3316259720,
-  "name": "Barrel of Rare Fish, Necrom",
-  "description": "Rare fish found in the waters of Telvanni Peninsula and Apocrypha.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png",
-  "bindType": 3,
-  "knownIds": [
-    199930
-  ]
-}
+{"internalId":3316259720,"name":"Barrel of Rare Fish, Necrom","description":"Rare fish found in the waters of Telvanni Peninsula and Apocrypha.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png","bindType":3,"knownIds":[199930]}

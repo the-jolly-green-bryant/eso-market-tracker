@@ -1,10 +1,1 @@
-{
-  "internalId": 1778476023,
-  "name": "Petty Soul Gem",
-  "description": "Used to fully charge weapons up to Level 9, and revive up to Level 9 players.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_001_filled.png",
-  "bindType": -1,
-  "knownIds": [
-    33266
-  ]
-}
+{"internalId":1778476023,"name":"Petty Soul Gem","description":"Used to fully charge weapons up to Level 9, and revive up to Level 9 players.","icon":"data/images/de/ll/if/soulgem_001_filled.png","bindType":-1,"knownIds":[33266]}

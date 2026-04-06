@@ -1,10 +1,1 @@
-{
-  "internalId": 460018032,
-  "name": "Vile Coin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1153213
-  ]
-}
+{"internalId":460018032,"name":"Vile Coin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[1153213]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1326251694,
-  "name": "Caravan Schedule",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795693
-  ]
-}
+{"internalId":1326251694,"name":"Caravan Schedule","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[795693]}

@@ -1,11 +1,1 @@
-{
-  "internalId": 4121209682,
-  "name": "Ayleid Inscriptions Translated",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1199307,
-    1199307
-  ]
-}
+{"internalId":4121209682,"name":"Ayleid Inscriptions Translated","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1199307,1199307]}

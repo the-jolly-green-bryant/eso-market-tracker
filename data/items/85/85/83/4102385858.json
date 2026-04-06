@@ -1,10 +1,1 @@
-{
-  "internalId": 4102385858,
-  "name": "Crafting Motif 31: Skinchanger Axes",
-  "description": "Use to learn how to make Skinchanger Axes. Also teaches the equivalent Skinchanger Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    73855
-  ]
-}
+{"internalId":4102385858,"name":"Crafting Motif 31: Skinchanger Axes","description":"Use to learn how to make Skinchanger Axes. Also teaches the equivalent Skinchanger Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[73855]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3612228175,
-  "name": "Stone of Bal Ur",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1148484
-  ]
-}
+{"internalId":3612228175,"name":"Stone of Bal Ur","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_round_002.png","bindType":-1,"knownIds":[1148484]}

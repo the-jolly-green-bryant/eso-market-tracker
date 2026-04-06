@@ -1,10 +1,1 @@
-{
-  "internalId": 718124617,
-  "name": "Ayleid Barrier, Large",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_winodwgrate001.png",
-  "bindType": -1,
-  "knownIds": [
-    212408
-  ]
-}
+{"internalId":718124617,"name":"Ayleid Barrier, Large","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_duc_winodwgrate001.png","bindType":-1,"knownIds":[212408]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2939448746,
-  "name": "Pit Daemon Banner, Long",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesskullflaglong001.png",
-  "bindType": -1,
-  "knownIds": [
-    211536
-  ]
-}
+{"internalId":2939448746,"name":"Pit Daemon Banner, Long","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesskullflaglong001.png","bindType":-1,"knownIds":[211536]}

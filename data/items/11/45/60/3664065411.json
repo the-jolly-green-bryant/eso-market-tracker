@@ -1,10 +1,1 @@
-{
-  "internalId": 3664065411,
-  "name": "Wood Elf Divider, Relaxed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_inc_roomdivider003.png",
-  "bindType": -1,
-  "knownIds": [
-    115592
-  ]
-}
+{"internalId":3664065411,"name":"Wood Elf Divider, Relaxed","description":"This is a standard house item.","icon":"data/images/30/0r/ed/housing_bos_inc_roomdivider003.png","bindType":-1,"knownIds":[115592]}

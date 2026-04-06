@@ -1,10 +1,1 @@
-{
-  "internalId": 3377983628,
-  "name": "Crystal Candleholder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    488855
-  ]
-}
+{"internalId":3377983628,"name":"Crystal Candleholder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candle_001.png","bindType":-1,"knownIds":[488855]}

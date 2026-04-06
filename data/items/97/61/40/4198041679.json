@@ -1,11 +1,1 @@
-{
-  "internalId": 4198041679,
-  "name": "Woodworker Survey: Wrothgar I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795539,
-    795539
-  ]
-}
+{"internalId":4198041679,"name":"Woodworker Survey: Wrothgar I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[795539,795539]}

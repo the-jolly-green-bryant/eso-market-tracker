@@ -1,15 +1,1 @@
-{
-  "internalId": 1940838106,
-  "name": "Perfected Coral Riptide Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_sheild_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1586423,
-    1689743,
-    1720801,
-    1586423,
-    1689743,
-    1720801
-  ]
-}
+{"internalId":1940838106,"name":"Perfected Coral Riptide Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_sheild_a.png","bindType":-1,"knownIds":[1586423,1689743,1720801,1586423,1689743,1720801]}

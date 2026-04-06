@@ -1,15 +1,1 @@
-{
-  "internalId": 3320718843,
-  "name": "Clothier's Satchel IV",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
-  "bindType": -1,
-  "knownIds": [
-    431200,
-    789763,
-    789415,
-    431200,
-    789763,
-    789415
-  ]
-}
+{"internalId":3320718843,"name":"Clothier's Satchel IV","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png","bindType":-1,"knownIds":[431200,789763,789415,431200,789763,789415]}

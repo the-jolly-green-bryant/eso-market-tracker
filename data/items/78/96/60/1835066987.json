@@ -1,10 +1,1 @@
-{
-  "internalId": 1835066987,
-  "name": "Leyawiin Basket, Hamper Wide",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybasket002.png",
-  "bindType": -1,
-  "knownIds": [
-    175657
-  ]
-}
+{"internalId":1835066987,"name":"Leyawiin Basket, Hamper Wide","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leybasket002.png","bindType":-1,"knownIds":[175657]}

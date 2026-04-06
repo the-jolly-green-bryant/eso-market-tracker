@@ -1,10 +1,1 @@
-{
-  "internalId": 1083361286,
-  "name": "Horn of the Huntbeast",
-  "description": "An ingredient for crafting in the Hircine Bloodhunter style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/outfitstyle_hircinesdarkstalker.png",
-  "bindType": -1,
-  "knownIds": [
-    203850
-  ]
-}
+{"internalId":1083361286,"name":"Horn of the Huntbeast","description":"An ingredient for crafting in the Hircine Bloodhunter style.","icon":"https://esoicons.uesp.net/esoui/art/icons/outfitstyle_hircinesdarkstalker.png","bindType":-1,"knownIds":[203850]}

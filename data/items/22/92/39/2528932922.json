@@ -1,10 +1,1 @@
-{
-  "internalId": 2528932922,
-  "name": "Crafting Motif 86: Sea Giant Shields",
-  "description": "Use to learn how to make Sea Giant Shields. Also teaches the equivalent Sea Giant Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    160570
-  ]
-}
+{"internalId":2528932922,"name":"Crafting Motif 86: Sea Giant Shields","description":"Use to learn how to make Sea Giant Shields. Also teaches the equivalent Sea Giant Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[160570]}

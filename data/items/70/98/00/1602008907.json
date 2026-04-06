@@ -1,10 +1,1 @@
-{
-  "internalId": 1602008907,
-  "name": "Jerkin of the Onslaught",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    90774
-  ]
-}
+{"internalId":1602008907,"name":"Jerkin of the Onslaught","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[90774]}

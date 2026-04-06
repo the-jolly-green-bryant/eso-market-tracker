@@ -1,10 +1,1 @@
-{
-  "internalId": 143106322,
-  "name": "Ancient Zircon Grains",
-  "description": "Grants a Zircon Plating when claimed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_raw_zircon.png",
-  "bindType": -1,
-  "knownIds": [
-    135153
-  ]
-}
+{"internalId":143106322,"name":"Ancient Zircon Grains","description":"Grants a Zircon Plating when claimed.","icon":"data/images/no/cr/iz/jewelrycrafting_booster_raw_zircon.png","bindType":-1,"knownIds":[135153]}

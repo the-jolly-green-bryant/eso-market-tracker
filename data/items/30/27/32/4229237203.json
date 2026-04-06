@@ -1,10 +1,1 @@
-{
-  "internalId": 4229237203,
-  "name": "Mage's Mead",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33650
-  ]
-}
+{"internalId":4229237203,"name":"Mage's Mead","description":"","icon":"data/images/30/0_/el/crafting_stoneware_bottle_003.png","bindType":-1,"knownIds":[33650]}

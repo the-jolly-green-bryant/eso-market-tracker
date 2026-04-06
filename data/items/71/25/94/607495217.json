@@ -1,13 +1,1 @@
-{
-  "internalId": 607495217,
-  "name": "Unidentified Unhallowed Grave Armaments",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1351248,
-    1408431,
-    1351248,
-    1408431
-  ]
-}
+{"internalId":607495217,"name":"Unidentified Unhallowed Grave Armaments","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1351248,1408431,1351248,1408431]}

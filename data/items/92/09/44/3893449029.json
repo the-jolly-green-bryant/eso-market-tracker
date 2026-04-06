@@ -1,10 +1,1 @@
-{
-  "internalId": 3893449029,
-  "name": "Shoes of Iron Flask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179910
-  ]
-}
+{"internalId":3893449029,"name":"Shoes of Iron Flask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png","bindType":2,"knownIds":[179910]}

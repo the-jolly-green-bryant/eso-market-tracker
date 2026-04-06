@@ -1,10 +1,1 @@
-{
-  "internalId": 2991636900,
-  "name": "Khajiit Trunk, Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_fur_chests001.png",
-  "bindType": -1,
-  "knownIds": [
-    115658
-  ]
-}
+{"internalId":2991636900,"name":"Khajiit Trunk, Arched","description":"This is a standard house item.","icon":"data/images/10/0s/ts/housing_kha_fur_chests001.png","bindType":-1,"knownIds":[115658]}

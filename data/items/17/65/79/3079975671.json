@@ -1,10 +1,1 @@
-{
-  "internalId": 3079975671,
-  "name": "High Isle Censer, Metal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_incenseburner001.png",
-  "bindType": -1,
-  "knownIds": [
-    191174
-  ]
-}
+{"internalId":3079975671,"name":"High Isle Censer, Metal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_incenseburner001.png","bindType":-1,"knownIds":[191174]}

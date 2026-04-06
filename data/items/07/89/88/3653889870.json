@@ -1,10 +1,1 @@
-{
-  "internalId": 3653889870,
-  "name": "Hook Plumb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1095871
-  ]
-}
+{"internalId":3653889870,"name":"Hook Plumb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png","bindType":-1,"knownIds":[1095871]}

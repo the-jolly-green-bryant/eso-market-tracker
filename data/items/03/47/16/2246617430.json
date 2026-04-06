@@ -1,10 +1,1 @@
-{
-  "internalId": 2246617430,
-  "name": "Life in the Eagle's Shadow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1134078
-  ]
-}
+{"internalId":2246617430,"name":"Life in the Eagle's Shadow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1134078]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3414632372,
-  "name": "Iron Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    198318
-  ]
-}
+{"internalId":3414632372,"name":"Iron Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_scribesofmora_heavy_waist_a.png","bindType":2,"knownIds":[198318]}

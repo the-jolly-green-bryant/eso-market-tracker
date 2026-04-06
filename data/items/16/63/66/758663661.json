@@ -1,10 +1,1 @@
-{
-  "internalId": 758663661,
-  "name": "Band of Soulshine",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44236
-  ]
-}
+{"internalId":758663661,"name":"Band of Soulshine","description":"","icon":"data/images/a_/gn/ir/gear_imperial_ring_a.png","bindType":2,"knownIds":[44236]}

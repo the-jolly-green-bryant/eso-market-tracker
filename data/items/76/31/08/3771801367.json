@@ -1,10 +1,1 @@
-{
-  "internalId": 3771801367,
-  "name": "Pie, Display",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_pie001.png",
-  "bindType": -1,
-  "knownIds": [
-    118107
-  ]
-}
+{"internalId":3771801367,"name":"Pie, Display","description":"This is a tiny house item.","icon":"data/images/10/0e/ip/housing_bre_inc_pie001.png","bindType":-1,"knownIds":[118107]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2912896330,
-  "name": "Morkuldin Heavy Armor",
-  "description": "A Crafted Armor set constructed in Wrothgar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182603
-  ]
-}
+{"internalId":2912896330,"name":"Morkuldin Heavy Armor","description":"A Crafted Armor set constructed in Wrothgar.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182603]}

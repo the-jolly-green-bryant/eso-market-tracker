@@ -1,10 +1,1 @@
-{
-  "internalId": 1545653459,
-  "name": "Pattern: Fargrave Book Stack, Levitating",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    182941
-  ]
-}
+{"internalId":1545653459,"name":"Pattern: Fargrave Book Stack, Levitating","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[182941]}

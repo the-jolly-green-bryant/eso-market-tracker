@@ -1,10 +1,1 @@
-{
-  "internalId": 593728289,
-  "name": "Argonians Among Us",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1134920
-  ]
-}
+{"internalId":593728289,"name":"Argonians Among Us","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1134920]}

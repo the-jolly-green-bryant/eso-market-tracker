@@ -1,10 +1,1 @@
-{
-  "internalId": 2164139980,
-  "name": "Witches Festival Writ",
-  "description": "A direct request for a pungent potion, from Alyxe the Hag. Once accepted, this contract cannot be traded or sold. Completing 13 Witches Festival Writs awards you the Witch's Infernal Hat; completing 28 grants you the title of \"Witch.\"",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_witchesfestival.png",
-  "bindType": -1,
-  "knownIds": [
-    153510
-  ]
-}
+{"internalId":2164139980,"name":"Witches Festival Writ","description":"A direct request for a pungent potion, from Alyxe the Hag. Once accepted, this contract cannot be traded or sold. Completing 13 Witches Festival Writs awards you the Witch's Infernal Hat; completing 28 grants you the title of \"Witch.\"","icon":"data/images/la/vi/ts/master_writ_witchesfestival.png","bindType":-1,"knownIds":[153510]}

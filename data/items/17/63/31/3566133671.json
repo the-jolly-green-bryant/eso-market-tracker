@@ -1,14 +1,1 @@
-{
-  "internalId": 3566133671,
-  "name": "Trappings of Invigoration Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_mace_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1394939,
-    1517562,
-    1587591,
-    1642160,
-    1691623
-  ]
-}
+{"internalId":3566133671,"name":"Trappings of Invigoration Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fanglair_mace_a.png","bindType":-1,"knownIds":[1394939,1517562,1587591,1642160,1691623]}

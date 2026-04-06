@@ -1,10 +1,1 @@
-{
-  "internalId": 2631990174,
-  "name": "Raw Void Bloom",
-  "description": "Ten of these items can be refined to make void cloth.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_flower_voidbloom.png",
-  "bindType": -1,
-  "knownIds": [
-    33220
-  ]
-}
+{"internalId":2631990174,"name":"Raw Void Bloom","description":"Ten of these items can be refined to make void cloth.","icon":"data/images/mo/ol/bd/crafting_flower_voidbloom.png","bindType":-1,"knownIds":[33220]}

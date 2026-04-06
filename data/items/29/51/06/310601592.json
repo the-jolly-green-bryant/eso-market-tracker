@@ -1,10 +1,1 @@
-{
-  "internalId": 310601592,
-  "name": "Apocrypha Specimen Jar, Leech",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarworm001.png",
-  "bindType": -1,
-  "knownIds": [
-    198390
-  ]
-}
+{"internalId":310601592,"name":"Apocrypha Specimen Jar, Leech","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_apc_inc_specimenjarworm001.png","bindType":-1,"knownIds":[198390]}

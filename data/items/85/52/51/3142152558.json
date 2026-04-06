@@ -1,10 +1,1 @@
-{
-  "internalId": 3142152558,
-  "name": "Jewelry: War Machine",
-  "description": "A Medium Armor set found in the Halls of Fabrication Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    127123
-  ]
-}
+{"internalId":3142152558,"name":"Jewelry: War Machine","description":"A Medium Armor set found in the Halls of Fabrication Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[127123]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 436999599,
-  "name": "strong Glyph of Bashing",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasebashdamage.png",
-  "bindType": -1,
-  "knownIds": [
-    1451014
-  ]
-}
+{"internalId":436999599,"name":"strong Glyph of Bashing","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_jewelry_increasebashdamage.png","bindType":-1,"knownIds":[1451014]}

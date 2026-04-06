@@ -1,10 +1,1 @@
-{
-  "internalId": 1074586221,
-  "name": "Sithis' Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_darkbrotherhoodv2_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77513
-  ]
-}
+{"internalId":1074586221,"name":"Sithis' Guards","description":"","icon":"data/images/a_/sg/el/gear_darkbrotherhoodv2_medium_legs_a.png","bindType":2,"knownIds":[77513]}

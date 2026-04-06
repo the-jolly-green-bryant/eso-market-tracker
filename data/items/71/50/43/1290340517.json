@@ -1,10 +1,1 @@
-{
-  "internalId": 1290340517,
-  "name": "Bloody Fist Armband",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936563
-  ]
-}
+{"internalId":1290340517,"name":"Bloody Fist Armband","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png","bindType":-1,"knownIds":[936563]}

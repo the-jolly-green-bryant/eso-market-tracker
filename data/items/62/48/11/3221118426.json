@@ -1,10 +1,1 @@
-{
-  "internalId": 3221118426,
-  "name": "Ayleid Refuge Gear",
-  "description": "Contains 5 gear pieces from the Ayleid Refuge set.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
-  "bindType": 3,
-  "knownIds": [
-    207959
-  ]
-}
+{"internalId":3221118426,"name":"Ayleid Refuge Gear","description":"Contains 5 gear pieces from the Ayleid Refuge set.","icon":"https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png","bindType":3,"knownIds":[207959]}

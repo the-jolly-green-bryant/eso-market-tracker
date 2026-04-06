@@ -1,10 +1,1 @@
-{
-  "internalId": 470122905,
-  "name": "Ram Horns, Mounted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_trophy_antlers001.png",
-  "bindType": -1,
-  "knownIds": [
-    1170978
-  ]
-}
+{"internalId":470122905,"name":"Ram Horns, Mounted","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_trophy_antlers001.png","bindType":-1,"knownIds":[1170978]}

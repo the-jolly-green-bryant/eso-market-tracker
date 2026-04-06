@@ -1,10 +1,1 @@
-{
-  "internalId": 631566273,
-  "name": "Weapons: Perfected Arms of Relequen",
-  "description": "A Medium Armor set found in the Cloudrest Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    139047
-  ]
-}
+{"internalId":631566273,"name":"Weapons: Perfected Arms of Relequen","description":"A Medium Armor set found in the Cloudrest Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[139047]}

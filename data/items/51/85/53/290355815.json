@@ -1,10 +1,1 @@
-{
-  "internalId": 290355815,
-  "name": "Thrice-Baked Gorapple Pie",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_fruit_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    68237
-  ]
-}
+{"internalId":290355815,"name":"Thrice-Baked Gorapple Pie","description":"","icon":"data/images/ei/p_/ti/crafting_cooking_fruit_pie.png","bindType":-1,"knownIds":[68237]}

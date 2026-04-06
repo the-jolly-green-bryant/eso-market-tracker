@@ -1,10 +1,1 @@
-{
-  "internalId": 4159475318,
-  "name": "Greatsword of the Vampire's Cloak",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    98656
-  ]
-}
+{"internalId":4159475318,"name":"Greatsword of the Vampire's Cloak","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[98656]}

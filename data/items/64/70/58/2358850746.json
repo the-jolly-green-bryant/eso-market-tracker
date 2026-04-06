@@ -1,10 +1,1 @@
-{
-  "internalId": 2358850746,
-  "name": "Firelogs, Flaming",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_fireplace001.png",
-  "bindType": -1,
-  "knownIds": [
-    118146
-  ]
-}
+{"internalId":2358850746,"name":"Firelogs, Flaming","description":"This is a standard house item.","icon":"data/images/10/0e/ca/housing_gen_inc_fireplace001.png","bindType":-1,"knownIds":[118146]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3503771472,
-  "name": "Racial Motifs 1: The High Elves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    348121
-  ]
-}
+{"internalId":3503771472,"name":"Racial Motifs 1: The High Elves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[348121]}

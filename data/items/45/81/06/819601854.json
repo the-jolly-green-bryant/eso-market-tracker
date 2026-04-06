@@ -1,10 +1,1 @@
-{
-  "internalId": 819601854,
-  "name": "Darkstride Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    85951
-  ]
-}
+{"internalId":819601854,"name":"Darkstride Greatsword","description":"","icon":"data/images/a_/dr/ow/gear_thievesguildv2_2hsword_a.png","bindType":2,"knownIds":[85951]}

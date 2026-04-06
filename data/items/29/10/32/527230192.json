@@ -1,10 +1,1 @@
-{
-  "internalId": 527230192,
-  "name": "Praxis: Wood Elf Pedestal, Engraved",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    115850
-  ]
-}
+{"internalId":527230192,"name":"Praxis: Wood Elf Pedestal, Engraved","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[115850]}

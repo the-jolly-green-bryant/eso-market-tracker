@@ -1,10 +1,1 @@
-{
-  "internalId": 355782353,
-  "name": "Marsh Nettle Sprig",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/style_item_blackfin.png",
-  "bindType": -1,
-  "knownIds": [
-    171894
-  ]
-}
+{"internalId":355782353,"name":"Marsh Nettle Sprig","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/style_item_blackfin.png","bindType":-1,"knownIds":[171894]}

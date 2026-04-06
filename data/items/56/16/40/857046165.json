@@ -1,10 +1,1 @@
-{
-  "internalId": 857046165,
-  "name": "Restoration Staff of the Air",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    95796
-  ]
-}
+{"internalId":857046165,"name":"Restoration Staff of the Air","description":"","icon":"data/images/a_/ff/at/gear_yokudan_staff_a.png","bindType":2,"knownIds":[95796]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3224600884,
-  "name": "Weapons: Titanborn Strength",
-  "description": "A Medium Armor set found in Icereach.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    157226
-  ]
-}
+{"internalId":3224600884,"name":"Weapons: Titanborn Strength","description":"A Medium Armor set found in Icereach.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[157226]}

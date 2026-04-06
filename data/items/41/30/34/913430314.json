@@ -1,10 +1,1 @@
-{
-  "internalId": 913430314,
-  "name": "Praxis: Elsweyr Sand Meditation Ring, Small",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    152004
-  ]
-}
+{"internalId":913430314,"name":"Praxis: Elsweyr Sand Meditation Ring, Small","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[152004]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1326507393,
-  "name": "Colovian Counter, Block",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_countercenterhigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    204654
-  ]
-}
+{"internalId":1326507393,"name":"Colovian Counter, Block","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_fur_countercenterhigh001.png","bindType":-1,"knownIds":[204654]}

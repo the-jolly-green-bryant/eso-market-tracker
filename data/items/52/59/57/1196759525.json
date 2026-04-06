@@ -1,10 +1,1 @@
-{
-  "internalId": 1196759525,
-  "name": "Colovian Serving Dish, Silver",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_platehigh001.png",
-  "bindType": -1,
-  "knownIds": [
-    204691
-  ]
-}
+{"internalId":1196759525,"name":"Colovian Serving Dish, Silver","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_platehigh001.png","bindType":-1,"knownIds":[204691]}

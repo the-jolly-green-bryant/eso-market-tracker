@@ -1,10 +1,1 @@
-{
-  "internalId": 1353158849,
-  "name": "First Auridon Marines Medal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    863126
-  ]
-}
+{"internalId":1353158849,"name":"First Auridon Marines Medal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[863126]}

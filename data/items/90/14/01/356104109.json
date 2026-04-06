@@ -1,10 +1,1 @@
-{
-  "internalId": 356104109,
-  "name": "Jewelry: Infallible Mage",
-  "description": "A Light Armor set found in the three Craglorn Trials.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134597
-  ]
-}
+{"internalId":356104109,"name":"Jewelry: Infallible Mage","description":"A Light Armor set found in the three Craglorn Trials.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134597]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1753599517,
-  "name": "Redguard Counter, Bar Island",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varinthicounterstraight001.png",
-  "bindType": -1,
-  "knownIds": [
-    117827
-  ]
-}
+{"internalId":1753599517,"name":"Redguard Counter, Bar Island","description":"This is a standard house item.","icon":"data/images/10/0t/hg/housing_red_str_varinthicounterstraight001.png","bindType":-1,"knownIds":[117827]}

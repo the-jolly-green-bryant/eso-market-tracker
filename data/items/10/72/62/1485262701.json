@@ -1,10 +1,1 @@
-{
-  "internalId": 1485262701,
-  "name": "Blueprint: Pergola, Reclaimed Wood",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png",
-  "bindType": -1,
-  "knownIds": [
-    203319
-  ]
-}
+{"internalId":1485262701,"name":"Blueprint: Pergola, Reclaimed Wood","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_5.png","bindType":-1,"knownIds":[203319]}

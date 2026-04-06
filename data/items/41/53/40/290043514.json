@@ -1,10 +1,1 @@
-{
-  "internalId": 290043514,
-  "name": "Balithil's \"Potato Porridge\"",
-  "description": "Mushy, foul-smelling, and lukewarm to the touch. The very thought of consuming this is repellent.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_monster_organ_003.png",
-  "bindType": -1,
-  "knownIds": [
-    64403
-  ]
-}
+{"internalId":290043514,"name":"Balithil's \"Potato Porridge\"","description":"Mushy, foul-smelling, and lukewarm to the touch. The very thought of consuming this is repellent.","icon":"data/images/30/0_/na/quest_monster_organ_003.png","bindType":-1,"knownIds":[64403]}

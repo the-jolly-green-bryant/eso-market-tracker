@@ -1,10 +1,1 @@
-{
-  "internalId": 1817628478,
-  "name": "Borscht",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37923
-  ]
-}
+{"internalId":1817628478,"name":"Borscht","description":"","icon":"data/images/10/0_/we/crafting_stew_001.png","bindType":-1,"knownIds":[37923]}

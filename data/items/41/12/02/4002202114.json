@@ -1,10 +1,1 @@
-{
-  "internalId": 4002202114,
-  "name": "Sour Guar Shein",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
-  "bindType": -1,
-  "knownIds": [
-    34020
-  ]
-}
+{"internalId":4002202114,"name":"Sour Guar Shein","description":"","icon":"data/images/10/0_/st/crafting_spirits_001.png","bindType":-1,"knownIds":[34020]}

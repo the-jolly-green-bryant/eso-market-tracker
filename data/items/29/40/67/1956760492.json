@@ -1,10 +1,1 @@
-{
-  "internalId": 1956760492,
-  "name": "Plunder Skull",
-  "description": "This bucket contains items that many witches and warlocks would find of interest.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_halloween_2016_skull_bucket.png",
-  "bindType": 3,
-  "knownIds": [
-    190037
-  ]
-}
+{"internalId":1956760492,"name":"Plunder Skull","description":"This bucket contains items that many witches and warlocks would find of interest.","icon":"data/images/te/kc/ub/event_halloween_2016_skull_bucket.png","bindType":3,"knownIds":[153502]}

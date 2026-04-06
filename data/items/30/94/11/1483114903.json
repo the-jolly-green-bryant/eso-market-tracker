@@ -1,10 +1,1 @@
-{
-  "internalId": 1483114903,
-  "name": "Brackenleaf's Bough",
-  "description": "This bow is as light as it is deadly. It was made from wood freely given by Brackenleaf himself.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    1727
-  ]
-}
+{"internalId":1483114903,"name":"Brackenleaf's Bough","description":"This bow is as light as it is deadly. It was made from wood freely given by Brackenleaf himself.","icon":"data/images/d_/wo/b_/gear_bosmer_bow_d.png","bindType":2,"knownIds":[1727]}

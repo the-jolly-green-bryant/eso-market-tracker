@@ -1,10 +1,1 @@
-{
-  "internalId": 1781173345,
-  "name": "Telvanni Bed, Fungal Double",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_bed001.png",
-  "bindType": -1,
-  "knownIds": [
-    197511
-  ]
-}
+{"internalId":1781173345,"name":"Telvanni Bed, Fungal Double","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_bed001.png","bindType":-1,"knownIds":[197511]}

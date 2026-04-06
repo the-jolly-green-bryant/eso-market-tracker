@@ -1,10 +1,1 @@
-{
-  "internalId": 1947665732,
-  "name": "Vampiric Table, Flat Exsanguination",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirelabtables001.png",
-  "bindType": -1,
-  "knownIds": [
-    187785
-  ]
-}
+{"internalId":1947665732,"name":"Vampiric Table, Flat Exsanguination","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_vampirelabtables001.png","bindType":-1,"knownIds":[187785]}

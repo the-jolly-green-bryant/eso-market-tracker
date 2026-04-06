@@ -1,10 +1,1 @@
-{
-  "internalId": 2849051596,
-  "name": "Order of the Hour Candlestick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candlestick_holder_001.png",
-  "bindType": -1,
-  "knownIds": [
-    904237
-  ]
-}
+{"internalId":2849051596,"name":"Order of the Hour Candlestick","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_candlestick_holder_001.png","bindType":-1,"knownIds":[904237]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1362102011,
-  "name": "Alessian Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_hands_c.png",
-  "bindType": 2,
-  "knownIds": [
-    55421
-  ]
-}
+{"internalId":1362102011,"name":"Alessian Bracers","description":"","icon":"data/images/c_/sd/na/gear_nord_medium_hands_c.png","bindType":2,"knownIds":[55421]}

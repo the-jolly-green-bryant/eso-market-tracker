@@ -1,10 +1,1 @@
-{
-  "internalId": 2384526886,
-  "name": "Bloodthorn Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    96558
-  ]
-}
+{"internalId":2384526886,"name":"Bloodthorn Robe","description":"","icon":"data/images/a_/eb/or/gear_primative_light_robe_a.png","bindType":2,"knownIds":[96558]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2831822395,
-  "name": "Ice Staff of Red Eagle's Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168343
-  ]
-}
+{"internalId":2831822395,"name":"Ice Staff of Red Eagle's Fury","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[168343]}

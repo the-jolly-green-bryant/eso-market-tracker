@@ -1,10 +1,1 @@
-{
-  "internalId": 3073173327,
-  "name": "Amulet of Shared Pain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    210537
-  ]
-}
+{"internalId":3073173327,"name":"Amulet of Shared Pain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[210537]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 278107412,
-  "name": "Necrom Funerary Offering, Incense",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necratincense001.png",
-  "bindType": -1,
-  "knownIds": [
-    210873
-  ]
-}
+{"internalId":278107412,"name":"Necrom Funerary Offering, Incense","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necratincense001.png","bindType":-1,"knownIds":[210873]}

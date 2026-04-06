@@ -1,10 +1,1 @@
-{
-  "internalId": 1426559020,
-  "name": "Tree, Squat Cypress",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_italiancypressgreen014.png",
-  "bindType": -1,
-  "knownIds": [
-    204766
-  ]
-}
+{"internalId":1426559020,"name":"Tree, Squat Cypress","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_italiancypressgreen014.png","bindType":-1,"knownIds":[204766]}

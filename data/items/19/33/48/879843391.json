@@ -1,10 +1,1 @@
-{
-  "internalId": 879843391,
-  "name": "Pattern: Wood Elf Rack, Double",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    115872
-  ]
-}
+{"internalId":879843391,"name":"Pattern: Wood Elf Rack, Double","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[115872]}

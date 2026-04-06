@@ -1,10 +1,1 @@
-{
-  "internalId": 4089852592,
-  "name": "Style Page: Maarselok Shoulder",
-  "description": "Use to learn the Maarselok Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    173573
-  ]
-}
+{"internalId":4089852592,"name":"Style Page: Maarselok Shoulder","description":"Use to learn the Maarselok Shoulder Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[173573]}

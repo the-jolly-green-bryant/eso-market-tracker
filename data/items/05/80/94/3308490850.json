@@ -1,10 +1,1 @@
-{
-  "internalId": 3308490850,
-  "name": "Saint Veloth Prayer Book",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png",
-  "bindType": -1,
-  "knownIds": [
-    828098
-  ]
-}
+{"internalId":3308490850,"name":"Saint Veloth Prayer Book","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_002.png","bindType":-1,"knownIds":[828098]}

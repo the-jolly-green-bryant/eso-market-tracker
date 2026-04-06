@@ -1,10 +1,1 @@
-{
-  "internalId": 82584012,
-  "name": "Shield of Stendarr",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100181
-  ]
-}
+{"internalId":82584012,"name":"Shield of Stendarr","description":"","icon":"data/images/d_/dl/ei/gear_bosmer_shield_d.png","bindType":2,"knownIds":[100181]}

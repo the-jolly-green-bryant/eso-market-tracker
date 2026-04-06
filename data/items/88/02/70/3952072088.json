@@ -1,10 +1,1 @@
-{
-  "internalId": 3952072088,
-  "name": "Coronation Coin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1270904
-  ]
-}
+{"internalId":3952072088,"name":"Coronation Coin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[1270904]}

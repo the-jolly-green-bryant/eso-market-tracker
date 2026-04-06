@@ -1,10 +1,1 @@
-{
-  "internalId": 2791177672,
-  "name": "Unfortunate Wanderer's Boots of Syrabane",
-  "description": "These boots smell of mildew and death.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    42994
-  ]
-}
+{"internalId":2791177672,"name":"Unfortunate Wanderer's Boots of Syrabane","description":"These boots smell of mildew and death.","icon":"data/images/d_/te/ef/gear_breton_light_feet_d.png","bindType":2,"knownIds":[42994]}

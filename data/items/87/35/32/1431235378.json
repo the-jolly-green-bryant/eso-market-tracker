@@ -1,10 +1,1 @@
-{
-  "internalId": 1431235378,
-  "name": "Wood Carving, Dog",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsdog001.png",
-  "bindType": -1,
-  "knownIds": [
-    197731
-  ]
-}
+{"internalId":1431235378,"name":"Wood Carving, Dog","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsdog001.png","bindType":-1,"knownIds":[197731]}

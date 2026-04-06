@@ -1,10 +1,1 @@
-{
-  "internalId": 1749101346,
-  "name": "Hedge, Camellia Shrub",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_camelliahedge001.png",
-  "bindType": -1,
-  "knownIds": [
-    223888
-  ]
-}
+{"internalId":1749101346,"name":"Hedge, Camellia Shrub","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_sum_camelliahedge001.png","bindType":-1,"knownIds":[223888]}

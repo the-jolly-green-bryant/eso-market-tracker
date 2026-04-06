@@ -1,10 +1,1 @@
-{
-  "internalId": 4083200089,
-  "name": "Charged Rod of the Order of Diagna",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34392
-  ]
-}
+{"internalId":4083200089,"name":"Charged Rod of the Order of Diagna","description":"","icon":"data/images/d_/ff/at/gear_altmer_staff_d.png","bindType":2,"knownIds":[34392]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 139870769,
-  "name": "Rubedite Ore",
-  "description": "Ten of these items can be refined to make rubedite ingots.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_jewelry_base_ruby_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    71198
-  ]
-}
+{"internalId":139870769,"name":"Rubedite Ore","description":"Ten of these items can be refined to make rubedite ingots.","icon":"data/images/1r/_y/bu/crafting_jewelry_base_ruby_r1.png","bindType":-1,"knownIds":[71198]}

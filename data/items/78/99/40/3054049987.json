@@ -1,10 +1,1 @@
-{
-  "internalId": 3054049987,
-  "name": "Redguard Carpet, Mirage",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsquare001.png",
-  "bindType": -1,
-  "knownIds": [
-    117807
-  ]
-}
+{"internalId":3054049987,"name":"Redguard Carpet, Mirage","description":"This is a standard house item.","icon":"data/images/10/0e/ra/housing_red_inc_rugsquare001.png","bindType":-1,"knownIds":[117807]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4015139116,
-  "name": "Fire Drake Rug, Vertical",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesdragonrectenglerug001.png",
-  "bindType": -1,
-  "knownIds": [
-    211534
-  ]
-}
+{"internalId":4015139116,"name":"Fire Drake Rug, Vertical","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_holwhitestrikesdragonrectenglerug001.png","bindType":-1,"knownIds":[211534]}

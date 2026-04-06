@@ -1,10 +1,1 @@
-{
-  "internalId": 1028020916,
-  "name": "Superb Hide Scraps",
-  "description": "Ten of these items can be refined to make superb hide.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_scraps_scaled_hide.png",
-  "bindType": -1,
-  "knownIds": [
-    800
-  ]
-}
+{"internalId":1028020916,"name":"Superb Hide Scraps","description":"Ten of these items can be refined to make superb hide.","icon":"data/images/ed/ih/_d/crafting_scraps_scaled_hide.png","bindType":-1,"knownIds":[800]}

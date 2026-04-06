@@ -1,10 +1,1 @@
-{
-  "internalId": 1185463460,
-  "name": "Miregaunt Ward Charm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png",
-  "bindType": -1,
-  "knownIds": [
-    1351278
-  ]
-}
+{"internalId":1185463460,"name":"Miregaunt Ward Charm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_trinket.png","bindType":-1,"knownIds":[1351278]}

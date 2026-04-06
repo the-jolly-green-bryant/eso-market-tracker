@@ -1,10 +1,1 @@
-{
-  "internalId": 2581309624,
-  "name": "Stygian Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102216
-  ]
-}
+{"internalId":2581309624,"name":"Stygian Battle Axe","description":"","icon":"data/images/a_/ex/ah/gear_draugr_2haxe_a.png","bindType":2,"knownIds":[102216]}

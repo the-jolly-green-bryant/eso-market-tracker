@@ -1,10 +1,1 @@
-{
-  "internalId": 619117958,
-  "name": "Guar Stomp Noise Reports",
-  "description": "This is one of seven parts of the Guar Stomp Emote Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/notes_003.png",
-  "bindType": -1,
-  "knownIds": [
-    147495
-  ]
-}
+{"internalId":619117958,"name":"Guar Stomp Noise Reports","description":"This is one of seven parts of the Guar Stomp Emote Runebox.","icon":"data/images/30/0_/se/notes_003.png","bindType":-1,"knownIds":[147495]}

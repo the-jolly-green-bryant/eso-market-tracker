@@ -1,10 +1,1 @@
-{
-  "internalId": 685137996,
-  "name": "Khajiit Tail Sling",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png",
-  "bindType": -1,
-  "knownIds": [
-    850442
-  ]
-}
+{"internalId":685137996,"name":"Khajiit Tail Sling","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sling_001.png","bindType":-1,"knownIds":[850442]}

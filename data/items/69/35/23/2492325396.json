@@ -1,10 +1,1 @@
-{
-  "internalId": 2492325396,
-  "name": "Wedding Curtain, Wide",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varweddingprops001.png",
-  "bindType": -1,
-  "knownIds": [
-    117876
-  ]
-}
+{"internalId":2492325396,"name":"Wedding Curtain, Wide","description":"This is a large house item.","icon":"data/images/10/0s/po/housing_red_exc_varweddingprops001.png","bindType":-1,"knownIds":[117876]}

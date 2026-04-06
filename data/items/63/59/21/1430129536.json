@@ -1,10 +1,1 @@
-{
-  "internalId": 1430129536,
-  "name": "Elsweyr Bookshelf, Elegant Wooden Full",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_housingmedbookcase001.png",
-  "bindType": -1,
-  "knownIds": [
-    1330201
-  ]
-}
+{"internalId":1430129536,"name":"Elsweyr Bookshelf, Elegant Wooden Full","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_els_fur_housingmedbookcase001.png","bindType":-1,"knownIds":[1330201]}

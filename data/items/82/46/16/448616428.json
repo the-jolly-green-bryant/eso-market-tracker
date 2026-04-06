@@ -1,10 +1,1 @@
-{
-  "internalId": 448616428,
-  "name": "Sword-Singer's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99444
-  ]
-}
+{"internalId":448616428,"name":"Sword-Singer's Belt","description":"","icon":"data/images/d_/ts/ia/gear_redguard_medium_waist_d.png","bindType":2,"knownIds":[99444]}

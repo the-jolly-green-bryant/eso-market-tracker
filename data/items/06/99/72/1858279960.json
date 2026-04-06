@@ -1,10 +1,1 @@
-{
-  "internalId": 1858279960,
-  "name": "Weapons: Durok's Bane",
-  "description": "A Heavy Armor set found in Selene's Web.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134145
-  ]
-}
+{"internalId":1858279960,"name":"Weapons: Durok's Bane","description":"A Heavy Armor set found in Selene's Web.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134145]}

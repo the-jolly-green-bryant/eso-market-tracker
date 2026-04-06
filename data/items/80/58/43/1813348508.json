@@ -1,10 +1,1 @@
-{
-  "internalId": 1813348508,
-  "name": "Shield of Almalexia's Mercy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    91150
-  ]
-}
+{"internalId":1813348508,"name":"Shield of Almalexia's Mercy","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[91150]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1955809889,
-  "name": "Selene's Battle Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_legs_a.png",
-  "bindType": -1,
-  "knownIds": [
-    451522,
-    577199,
-    378393,
-    451522,
-    577199,
-    378393
-  ]
-}
+{"internalId":1955809889,"name":"Selene's Battle Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_primative_heavy_legs_a.png","bindType":-1,"knownIds":[451522,577199,378393,451522,577199,378393]}

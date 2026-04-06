@@ -1,10 +1,1 @@
-{
-  "internalId": 340284665,
-  "name": "Crafting Motif 125: Blind Path Cultist Legs",
-  "description": "Use to learn how to make Blind Path Cultist Legs. Also teaches the equivalent Blind Path Cultist Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    203223
-  ]
-}
+{"internalId":340284665,"name":"Crafting Motif 125: Blind Path Cultist Legs","description":"Use to learn how to make Blind Path Cultist Legs. Also teaches the equivalent Blind Path Cultist Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[203223]}

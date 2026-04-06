@@ -1,10 +1,1 @@
-{
-  "internalId": 1187111841,
-  "name": "Common Cloak on a Hook",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_inc_hangingcloak001.png",
-  "bindType": -1,
-  "knownIds": [
-    120416
-  ]
-}
+{"internalId":1187111841,"name":"Common Cloak on a Hook","description":"This is a standard house item.","icon":"data/images/10/0k/ao/housing_gen_inc_hangingcloak001.png","bindType":-1,"knownIds":[120416]}

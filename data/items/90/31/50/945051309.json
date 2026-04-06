@@ -1,10 +1,1 @@
-{
-  "internalId": 945051309,
-  "name": "Abomination's Bulwark of Mother's Embrace",
-  "description": "A shield awarded for defeating the plague husk known as the Abomination.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43023
-  ]
-}
+{"internalId":945051309,"name":"Abomination's Bulwark of Mother's Embrace","description":"A shield awarded for defeating the plague husk known as the Abomination.","icon":"data/images/d_/dl/ei/gear_dunmer_shield_d.png","bindType":2,"knownIds":[43023]}

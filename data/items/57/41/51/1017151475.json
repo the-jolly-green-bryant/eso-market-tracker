@@ -1,10 +1,1 @@
-{
-  "internalId": 1017151475,
-  "name": "Dominion Battering Ram of Vengeance",
-  "description": "Creates a battering ram which can be used to destroy doors.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_004.png",
-  "bindType": -1,
-  "knownIds": [
-    214326
-  ]
-}
+{"internalId":1017151475,"name":"Dominion Battering Ram of Vengeance","description":"Creates a battering ram which can be used to destroy doors.","icon":"https://esoicons.uesp.net/esoui/art/icons/ava_siege_weapon_004.png","bindType":-1,"knownIds":[214326]}

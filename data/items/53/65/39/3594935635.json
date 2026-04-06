@@ -1,10 +1,1 @@
-{
-  "internalId": 3594935635,
-  "name": "Clever Alchemist Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    72467
-  ]
-}
+{"internalId":3594935635,"name":"Clever Alchemist Belt","description":"","icon":"data/images/d_/ts/ia/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[72467]}

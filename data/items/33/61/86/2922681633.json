@@ -1,10 +1,1 @@
-{
-  "internalId": 2922681633,
-  "name": "Torch",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821090
-  ]
-}
+{"internalId":2922681633,"name":"Torch","description":"","icon":null,"bindType":-1,"knownIds":[821090]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2815656652,
-  "name": "Seal of Sacrifice",
-  "description": "A grim reminder of Suronii's desperate plan to free the Village of the Lost from Coldharbour.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    212197
-  ]
-}
+{"internalId":2815656652,"name":"Seal of Sacrifice","description":"A grim reminder of Suronii's desperate plan to free the Village of the Lost from Coldharbour.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_altmer_ring_a.png","bindType":2,"knownIds":[212197]}

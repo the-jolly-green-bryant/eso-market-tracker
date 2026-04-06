@@ -1,10 +1,1 @@
-{
-  "internalId": 1681967711,
-  "name": "Unflinching Ultimate Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    219487
-  ]
-}
+{"internalId":1681967711,"name":"Unflinching Ultimate Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[219487]}

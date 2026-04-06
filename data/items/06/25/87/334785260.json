@@ -1,17 +1,1 @@
-{
-  "internalId": 334785260,
-  "name": "Clothier Survey: Stormhaven",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    455275,
-    1424858,
-    455275,
-    1424858,
-    455275,
-    1424858,
-    455275,
-    1424858
-  ]
-}
+{"internalId":334785260,"name":"Clothier Survey: Stormhaven","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[455275,1424858,455275,1424858,455275,1424858,455275,1424858]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 122400943,
-  "name": "Other Cyrodiil Sets",
-  "description": "All other item sets, found in Cyrodiil. These are sets that do not fall into the usual Light, Medium or Heavy item set groups.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    181635
-  ]
-}
+{"internalId":122400943,"name":"Other Cyrodiil Sets","description":"All other item sets, found in Cyrodiil. These are sets that do not fall into the usual Light, Medium or Heavy item set groups.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[181635]}

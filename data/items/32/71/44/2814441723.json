@@ -1,10 +1,1 @@
-{
-  "internalId": 2814441723,
-  "name": "Blueprint: Solitude Strongbox, Iron Hunt Relief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    166859
-  ]
-}
+{"internalId":2814441723,"name":"Blueprint: Solitude Strongbox, Iron Hunt Relief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[166859]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1256993353,
-  "name": "High Isle Stairway, Large Castle",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castlefoundationstairs001.png",
-  "bindType": -1,
-  "knownIds": [
-    189483
-  ]
-}
+{"internalId":1256993353,"name":"High Isle Stairway, Large Castle","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_waf_castlefoundationstairs001.png","bindType":-1,"knownIds":[189483]}

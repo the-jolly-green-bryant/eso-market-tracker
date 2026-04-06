@@ -1,10 +1,1 @@
-{
-  "internalId": 554640749,
-  "name": "Belt of the Sentry",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94064
-  ]
-}
+{"internalId":554640749,"name":"Belt of the Sentry","description":"","icon":"data/images/d_/ts/ia/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[94064]}

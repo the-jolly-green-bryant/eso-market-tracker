@@ -1,10 +1,1 @@
-{
-  "internalId": 191188337,
-  "name": "Redguard Banner, Post",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_lsb_postlight001.png",
-  "bindType": -1,
-  "knownIds": [
-    117695
-  ]
-}
+{"internalId":191188337,"name":"Redguard Banner, Post","description":"This is a large house item.","icon":"data/images/10/0t/hg/housing_red_lsb_postlight001.png","bindType":-1,"knownIds":[117695]}

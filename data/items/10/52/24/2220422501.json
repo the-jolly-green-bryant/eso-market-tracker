@@ -1,10 +1,1 @@
-{
-  "internalId": 2220422501,
-  "name": "Clockwork Measuring Cup, Sintered",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_inc_measuringcup001.png",
-  "bindType": -1,
-  "knownIds": [
-    134355
-  ]
-}
+{"internalId":2220422501,"name":"Clockwork Measuring Cup, Sintered","description":"This is a tiny house item.","icon":"data/images/10/0p/uc/housing_cwc_inc_measuringcup001.png","bindType":-1,"knownIds":[134355]}

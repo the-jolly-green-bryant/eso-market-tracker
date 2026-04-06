@@ -1,10 +1,1 @@
-{
-  "internalId": 536020753,
-  "name": "Year One Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png",
-  "bindType": 3,
-  "knownIds": [
-    175796
-  ]
-}
+{"internalId":536020753,"name":"Year One Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_inc_scrimshawbox001.png","bindType":3,"knownIds":[175796]}

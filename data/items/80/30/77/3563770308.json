@@ -1,15 +1,1 @@
-{
-  "internalId": 3563770308,
-  "name": "spidersilk sash of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": -1,
-  "knownIds": [
-    481704,
-    440286,
-    710571,
-    461042,
-    710578,
-    881930
-  ]
-}
+{"internalId":3563770308,"name":"spidersilk sash of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png","bindType":-1,"knownIds":[481704,440286,710571,461042,710578,881930]}

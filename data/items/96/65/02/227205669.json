@@ -1,10 +1,1 @@
-{
-  "internalId": 227205669,
-  "name": "Arenthia's Empty Tankard Frittata",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_salad_004.png",
-  "bindType": -1,
-  "knownIds": [
-    57152
-  ]
-}
+{"internalId":227205669,"name":"Arenthia's Empty Tankard Frittata","description":"","icon":"data/images/40/0_/da/crafting_salad_004.png","bindType":-1,"knownIds":[57152]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 356752352,
-  "name": "Perfected Test of Resolve Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1644251,
-    1652252,
-    1644251,
-    1652252,
-    1644251,
-    1652252,
-    1644251,
-    1652252
-  ]
-}
+{"internalId":356752352,"name":"Perfected Test of Resolve Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1644251,1652252,1644251,1652252,1644251,1652252,1644251,1652252]}

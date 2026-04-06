@@ -1,10 +1,1 @@
-{
-  "internalId": 3841128889,
-  "name": "Coldharbour Glowstalk, Strong",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_chlightstalk002.png",
-  "bindType": -1,
-  "knownIds": [
-    130282
-  ]
-}
+{"internalId":3841128889,"name":"Coldharbour Glowstalk, Strong","description":"This is a standard house item.","icon":"data/images/20/0k/la/housing_veg_fug_chlightstalk002.png","bindType":-1,"knownIds":[130282]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1606538203,
-  "name": "Girdle of Bahraha's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_thievesguildv2_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199768
-  ]
-}
+{"internalId":1606538203,"name":"Girdle of Bahraha's Curse","description":"","icon":"data/images/a_/ts/ia/gear_thievesguildv2_heavy_waist_a.png","bindType":2,"knownIds":[72891]}

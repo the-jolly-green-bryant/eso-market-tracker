@@ -1,10 +1,1 @@
-{
-  "internalId": 1337432023,
-  "name": "Camonna Tong Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196021
-  ]
-}
+{"internalId":1337432023,"name":"Camonna Tong Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_staff_a.png","bindType":2,"knownIds":[196021]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 2251428079,
-  "name": "Tarnished Nightmare Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735348,
-    1757744,
-    1735348,
-    1757744
-  ]
-}
+{"internalId":2251428079,"name":"Tarnished Nightmare Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_1hsword_a.png","bindType":-1,"knownIds":[1735348,1757744,1735348,1757744]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3034792612,
-  "name": "Kura",
-  "description": "Kura",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_034.png",
-  "bindType": -1,
-  "knownIds": [
-    45816
-  ]
-}
+{"internalId":3034792612,"name":"Kura","description":"Kura","icon":"data/images/43/0_/se/crafting_components_runestones_034.png","bindType":-1,"knownIds":[45816]}

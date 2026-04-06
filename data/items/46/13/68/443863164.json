@@ -1,10 +1,1 @@
-{
-  "internalId": 443863164,
-  "name": "Diagram: Worm Cult Forge, Mining",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png",
-  "bindType": -1,
-  "knownIds": [
-    223931
-  ]
-}
+{"internalId":443863164,"name":"Diagram: Worm Cult Forge, Mining","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing5.png","bindType":-1,"knownIds":[223931]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3760591021,
-  "name": "Alinor Floor, Ballroom Timeworn",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_roomfloor001.png",
-  "bindType": -1,
-  "knownIds": [
-    139180
-  ]
-}
+{"internalId":3760591021,"name":"Alinor Floor, Ballroom Timeworn","description":"This is a large house item.","icon":"data/images/10/0r/oo/housing_sum_duc_roomfloor001.png","bindType":-1,"knownIds":[139180]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3361520258,
-  "name": "Mushroom, Large Puspocket",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fug_undeadmushroom004.png",
-  "bindType": -1,
-  "knownIds": [
-    134912
-  ]
-}
+{"internalId":3361520258,"name":"Mushroom, Large Puspocket","description":"This is a large house item.","icon":"data/images/40/0m/oo/housing_veg_fug_undeadmushroom004.png","bindType":-1,"knownIds":[134912]}

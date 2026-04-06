@@ -1,10 +1,1 @@
-{
-  "internalId": 2496437940,
-  "name": "Crystals, Crimson Bed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_uni_mphblackcrystal003.png",
-  "bindType": -1,
-  "knownIds": [
-    139141
-  ]
-}
+{"internalId":2496437940,"name":"Crystals, Crimson Bed","description":"This is a standard house item.","icon":"data/images/30/0l/at/housing_rok_uni_mphblackcrystal003.png","bindType":-1,"knownIds":[139141]}

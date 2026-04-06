@@ -1,10 +1,1 @@
-{
-  "internalId": 1130474385,
-  "name": "Deadlands Assassin Set Box",
-  "description": "Contains 5 gear pieces from the Deadlands Assassin set.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png",
-  "bindType": 3,
-  "knownIds": [
-    178684
-  ]
-}
+{"internalId":1130474385,"name":"Deadlands Assassin Set Box","description":"Contains 5 gear pieces from the Deadlands Assassin set.","icon":"https://esoicons.uesp.net/esoui/art/icons/event_midyear_giftbox.png","bindType":3,"knownIds":[178684]}

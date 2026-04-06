@@ -1,10 +1,1 @@
-{
-  "internalId": 1683614841,
-  "name": "Honey Comb",
-  "description": "Use to make Honey Pudding",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_honeycomb_001.png",
-  "bindType": -1,
-  "knownIds": [
-    34316
-  ]
-}
+{"internalId":1683614841,"name":"Honey Comb","description":"Use to make Honey Pudding","icon":"data/images/10/0_/bm/quest_honeycomb_001.png","bindType":-1,"knownIds":[34316]}

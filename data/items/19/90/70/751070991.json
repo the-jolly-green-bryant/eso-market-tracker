@@ -1,15 +1,1 @@
-{
-  "internalId": 751070991,
-  "name": "Guardian's Hammer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png",
-  "bindType": -1,
-  "knownIds": [
-    383507,
-    392479,
-    383328,
-    383507,
-    392479,
-    383328
-  ]
-}
+{"internalId":751070991,"name":"Guardian's Hammer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hhammer_d.png","bindType":-1,"knownIds":[383507,392479,383328,383507,392479,383328]}

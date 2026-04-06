@@ -1,10 +1,1 @@
-{
-  "internalId": 1875665312,
-  "name": "Itade",
-  "description": "Itade",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_056.png",
-  "bindType": -1,
-  "knownIds": [
-    68340
-  ]
-}
+{"internalId":1875665312,"name":"Itade","description":"Itade","icon":"data/images/65/0_/se/crafting_components_runestones_056.png","bindType":-1,"knownIds":[68340]}

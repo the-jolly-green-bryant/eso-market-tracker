@@ -1,10 +1,1 @@
-{
-  "internalId": 177972598,
-  "name": "Bracers of Flanking",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77231
-  ]
-}
+{"internalId":177972598,"name":"Bracers of Flanking","description":"","icon":"data/images/a_/sd/na/gear_ooth_medium_hands_a.png","bindType":2,"knownIds":[77231]}

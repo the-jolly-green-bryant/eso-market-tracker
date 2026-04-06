@@ -1,10 +1,1 @@
-{
-  "internalId": 358640505,
-  "name": "Design: Argonian Lights, Branch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    115826
-  ]
-}
+{"internalId":358640505,"name":"Design: Argonian Lights, Branch","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[115826]}

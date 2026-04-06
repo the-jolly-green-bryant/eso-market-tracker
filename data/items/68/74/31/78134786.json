@@ -1,10 +1,1 @@
-{
-  "internalId": 78134786,
-  "name": "Stone Carving, Hooks",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsstone004.png",
-  "bindType": -1,
-  "knownIds": [
-    197737
-  ]
-}
+{"internalId":78134786,"name":"Stone Carving, Hooks","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_inc_necmiscofferingsstone004.png","bindType":-1,"knownIds":[197737]}

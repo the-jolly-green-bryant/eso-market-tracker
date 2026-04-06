@@ -1,10 +1,1 @@
-{
-  "internalId": 1435128978,
-  "name": "Axe of the Crusader",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93135
-  ]
-}
+{"internalId":1435128978,"name":"Axe of the Crusader","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[93135]}

@@ -1,12 +1,1 @@
-{
-  "internalId": 4276899472,
-  "name": "Experimental Magma-Suit, Damaged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png",
-  "bindType": -1,
-  "knownIds": [
-    495238,
-    495238,
-    495238
-  ]
-}
+{"internalId":4276899472,"name":"Experimental Magma-Suit, Damaged","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_contraption_001.png","bindType":-1,"knownIds":[495238,495238,495238]}

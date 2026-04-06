@@ -1,10 +1,1 @@
-{
-  "internalId": 568335289,
-  "name": "Epaulets of Winter's Respite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_shoulders.png",
-  "bindType": 2,
-  "knownIds": [
-    160816
-  ]
-}
+{"internalId":568335289,"name":"Epaulets of Winter's Respite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blackreachexlgt_shoulders.png","bindType":2,"knownIds":[160816]}

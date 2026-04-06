@@ -1,13 +1,1 @@
-{
-  "internalId": 966466879,
-  "name": "Roaring Opportunist's Perfected Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1367573,
-    1624536,
-    1367573,
-    1624536
-  ]
-}
+{"internalId":966466879,"name":"Roaring Opportunist's Perfected Ring","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1367573,1624536,1367573,1624536]}

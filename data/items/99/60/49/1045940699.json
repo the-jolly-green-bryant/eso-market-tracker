@@ -1,10 +1,1 @@
-{
-  "internalId": 1045940699,
-  "name": "Bound Style Page: Abnur Tharn's Shoes",
-  "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_summerset_completed_report.png",
-  "bindType": 3,
-  "knownIds": [
-    147360
-  ]
-}
+{"internalId":1045940699,"name":"Bound Style Page: Abnur Tharn's Shoes","description":"Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.","icon":"data/images/tr/op/er/quest_summerset_completed_report.png","bindType":3,"knownIds":[147360]}

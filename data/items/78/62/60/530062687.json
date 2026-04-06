@@ -1,10 +1,1 @@
-{
-  "internalId": 530062687,
-  "name": "Yokudan Relic",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821948
-  ]
-}
+{"internalId":530062687,"name":"Yokudan Relic","description":"","icon":null,"bindType":-1,"knownIds":[821948]}

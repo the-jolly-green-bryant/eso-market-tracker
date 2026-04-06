@@ -1,13 +1,1 @@
-{
-  "internalId": 3680369252,
-  "name": "Kazpian's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1758010,
-    1760613,
-    1758010,
-    1760613
-  ]
-}
+{"internalId":3680369252,"name":"Kazpian's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1758010,1760613,1758010,1760613]}

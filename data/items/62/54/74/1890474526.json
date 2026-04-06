@@ -1,10 +1,1 @@
-{
-  "internalId": 1890474526,
-  "name": "Ancient Chromium Plating",
-  "description": "Grants 10 Chromium Plating when claimed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/jewelrycrafting_booster_dingy_chromium.png",
-  "bindType": -1,
-  "knownIds": [
-    135150
-  ]
-}
+{"internalId":1890474526,"name":"Ancient Chromium Plating","description":"Grants 10 Chromium Plating when claimed.","icon":"data/images/mu/im/or/jewelrycrafting_booster_dingy_chromium.png","bindType":-1,"knownIds":[135150]}

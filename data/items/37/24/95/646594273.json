@@ -1,10 +1,1 @@
-{
-  "internalId": 646594273,
-  "name": "Clothier's Form, Brass",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_transmogdummy001.png",
-  "bindType": -1,
-  "knownIds": [
-    134916
-  ]
-}
+{"internalId":646594273,"name":"Clothier's Form, Brass","description":"This is a standard house item.","icon":"data/images/10/0y/mm/housing_cwc_crf_transmogdummy001.png","bindType":-1,"knownIds":[134916]}

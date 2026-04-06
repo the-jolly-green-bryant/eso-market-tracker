@@ -1,10 +1,1 @@
-{
-  "internalId": 444827152,
-  "name": "Fabricant Tree, Beryl Cypress",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_fan_clkcypress002.png",
-  "bindType": -1,
-  "knownIds": [
-    134382
-  ]
-}
+{"internalId":444827152,"name":"Fabricant Tree, Beryl Cypress","description":"This is a huge house item.","icon":"data/images/20/0s/se/housing_tre_fan_clkcypress002.png","bindType":-1,"knownIds":[134382]}

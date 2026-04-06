@@ -1,10 +1,1 @@
-{
-  "internalId": 257974643,
-  "name": "Hedge, Dense Low Arc",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_gchedges004.png",
-  "bindType": -1,
-  "knownIds": [
-    121027
-  ]
-}
+{"internalId":257974643,"name":"Hedge, Dense Low Arc","description":"This is a large house item.","icon":"data/images/40/0s/eg/housing_veg_bsh_gchedges004.png","bindType":-1,"knownIds":[121027]}

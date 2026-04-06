@@ -1,10 +1,1 @@
-{
-  "internalId": 2153655201,
-  "name": "Weeping Stone",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    860282
-  ]
-}
+{"internalId":2153655201,"name":"Weeping Stone","description":"","icon":null,"bindType":-1,"knownIds":[860282]}

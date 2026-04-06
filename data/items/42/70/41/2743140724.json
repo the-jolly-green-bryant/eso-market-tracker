@@ -1,10 +1,1 @@
-{
-  "internalId": 2743140724,
-  "name": "Murky Spiceberry Chai",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_tea_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37903
-  ]
-}
+{"internalId":2743140724,"name":"Murky Spiceberry Chai","description":"","icon":"data/images/20/0_/ae/crafting_tea_002.png","bindType":-1,"knownIds":[37903]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 327980585,
-  "name": "Crafting Motif 117: Firesong Style",
-  "description": "Use to learn the Firesong crafting style. Also teaches the equivalent Firesong Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    188307
-  ]
-}
+{"internalId":327980585,"name":"Crafting Motif 117: Firesong Style","description":"Use to learn the Firesong crafting style. Also teaches the equivalent Firesong Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[188307]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2439444813,
-  "name": "Bleakrock Trading Hall Shopping List",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png",
-  "bindType": -1,
-  "knownIds": [
-    826348
-  ]
-}
+{"internalId":2439444813,"name":"Bleakrock Trading Hall Shopping List","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_letter_001.png","bindType":-1,"knownIds":[826348]}

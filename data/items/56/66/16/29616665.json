@@ -1,10 +1,1 @@
-{
-  "internalId": 29616665,
-  "name": "Blackfeather Knight Tapestry, Large",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryblackfeatherknightlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    188273
-  ]
-}
+{"internalId":29616665,"name":"Blackfeather Knight Tapestry, Large","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_tottapestryblackfeatherknightlarge001.png","bindType":-1,"knownIds":[188273]}

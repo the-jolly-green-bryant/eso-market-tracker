@@ -1,10 +1,1 @@
-{
-  "internalId": 1130192356,
-  "name": "Basri's Blade of The Shadow Dancer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34707
-  ]
-}
+{"internalId":1130192356,"name":"Basri's Blade of The Shadow Dancer","description":"","icon":"data/images/d_/dr/ow/gear_redguard_1hsword_d.png","bindType":2,"knownIds":[34707]}

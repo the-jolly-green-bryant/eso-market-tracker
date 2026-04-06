@@ -1,10 +1,1 @@
-{
-  "internalId": 3868759197,
-  "name": "Ja'khajiit Picture Book",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    803352
-  ]
-}
+{"internalId":3868759197,"name":"Ja'khajiit Picture Book","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[803352]}

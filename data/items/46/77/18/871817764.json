@@ -1,10 +1,1 @@
-{
-  "internalId": 871817764,
-  "name": "Diagram: Common Skillet, Practical",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    119390
-  ]
-}
+{"internalId":871817764,"name":"Diagram: Common Skillet, Practical","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[119390]}

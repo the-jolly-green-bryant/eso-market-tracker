@@ -1,10 +1,1 @@
-{
-  "internalId": 806330748,
-  "name": "Podium, Skinning",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_crf_tablepropsleatherworkingtable001.png",
-  "bindType": -1,
-  "knownIds": [
-    118236
-  ]
-}
+{"internalId":806330748,"name":"Podium, Skinning","description":"This is a standard house item.","icon":"data/images/10/0e/lb/housing_gen_crf_tablepropsleatherworkingtable001.png","bindType":-1,"knownIds":[118236]}

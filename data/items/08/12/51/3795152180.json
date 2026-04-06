@@ -1,13 +1,1 @@
-{
-  "internalId": 3795152180,
-  "name": "The Blind Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theblind_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1762295,
-    1765998,
-    1762295,
-    1765998
-  ]
-}
+{"internalId":3795152180,"name":"The Blind Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theblind_shoulders_a.png","bindType":-1,"knownIds":[1762295,1765998,1762295,1765998]}

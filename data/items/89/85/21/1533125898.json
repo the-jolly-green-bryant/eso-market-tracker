@@ -1,10 +1,1 @@
-{
-  "internalId": 1533125898,
-  "name": "Colovian Shovel, Rough",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_farmshovel001.png",
-  "bindType": -1,
-  "knownIds": [
-    204736
-  ]
-}
+{"internalId":1533125898,"name":"Colovian Shovel, Rough","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_farmshovel001.png","bindType":-1,"knownIds":[204736]}

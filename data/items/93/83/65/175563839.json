@@ -1,10 +1,1 @@
-{
-  "internalId": 175563839,
-  "name": "Exemplary Protective Ring",
-  "description": "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Protective Trait for Rings.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    139653
-  ]
-}
+{"internalId":175563839,"name":"Exemplary Protective Ring","description":"This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Protective Trait for Rings.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":-1,"knownIds":[139653]}

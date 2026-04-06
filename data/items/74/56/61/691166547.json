@@ -1,10 +1,1 @@
-{
-  "internalId": 691166547,
-  "name": "Bound Focus Script: Immobilize",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_primary_immobilized.png",
-  "bindType": -1,
-  "knownIds": [
-    1719978
-  ]
-}
+{"internalId":691166547,"name":"Bound Focus Script: Immobilize","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_primary_immobilized.png","bindType":-1,"knownIds":[1719978]}

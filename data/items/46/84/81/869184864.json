@@ -1,10 +1,1 @@
-{
-  "internalId": 869184864,
-  "name": "Dragonguard Elite's Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155391
-  ]
-}
+{"internalId":869184864,"name":"Dragonguard Elite's Boots","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_feet_a.png","bindType":2,"knownIds":[155391]}

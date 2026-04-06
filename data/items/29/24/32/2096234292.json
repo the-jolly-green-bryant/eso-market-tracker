@@ -1,10 +1,1 @@
-{
-  "internalId": 2096234292,
-  "name": "Tenmar Millet-Carrot Couscous",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_bowl_002.png",
-  "bindType": -1,
-  "knownIds": [
-    68241
-  ]
-}
+{"internalId":2096234292,"name":"Tenmar Millet-Carrot Couscous","description":"","icon":"data/images/20/0_/lw/crafting_bowl_002.png","bindType":-1,"knownIds":[68241]}

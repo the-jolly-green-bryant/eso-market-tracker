@@ -1,10 +1,1 @@
-{
-  "internalId": 2535551445,
-  "name": "Nord Tapestry, Dragon",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_inc_tapestry002.png",
-  "bindType": -1,
-  "knownIds": [
-    115392
-  ]
-}
+{"internalId":2535551445,"name":"Nord Tapestry, Dragon","description":"This is a large house item.","icon":"data/images/20/0y/rt/housing_nor_inc_tapestry002.png","bindType":-1,"knownIds":[115392]}

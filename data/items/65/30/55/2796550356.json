@@ -1,10 +1,1 @@
-{
-  "internalId": 2796550356,
-  "name": "Crafting Motif 103: Black Fin Legion Gloves",
-  "description": "Use to learn how to make Black Fin Legion Gloves. Also teaches the equivalent Black Fin Legion Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171885
-  ]
-}
+{"internalId":2796550356,"name":"Crafting Motif 103: Black Fin Legion Gloves","description":"Use to learn how to make Black Fin Legion Gloves. Also teaches the equivalent Black Fin Legion Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171885]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4289078025,
-  "name": "Clockwork Table, Beveled",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_table001.png",
-  "bindType": -1,
-  "knownIds": [
-    134343
-  ]
-}
+{"internalId":4289078025,"name":"Clockwork Table, Beveled","description":"This is a standard house item.","icon":"data/images/10/0e/lb/housing_cwc_fur_table001.png","bindType":-1,"knownIds":[134343]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 849889354,
-  "name": "Ferns, Mountain Cluster",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_eastmarch_ferns004.png",
-  "bindType": -1,
-  "knownIds": [
-    132211
-  ]
-}
+{"internalId":849889354,"name":"Ferns, Mountain Cluster","description":"This is a standard house item.","icon":"data/images/40/0s/nr/housing_veg_bsh_eastmarch_ferns004.png","bindType":-1,"knownIds":[132211]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1887188346,
-  "name": "Questionable Meat Sack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png",
-  "bindType": -1,
-  "knownIds": [
-    416489,
-    769488,
-    802658,
-    416489,
-    769488,
-    802658
-  ]
-}
+{"internalId":1887188346,"name":"Questionable Meat Sack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_002.png","bindType":-1,"knownIds":[416489,769488,802658,416489,769488,802658]}

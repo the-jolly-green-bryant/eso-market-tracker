@@ -1,10 +1,1 @@
-{
-  "internalId": 737724301,
-  "name": "Greatsword of the Archer's Mind",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    87625
-  ]
-}
+{"internalId":737724301,"name":"Greatsword of the Archer's Mind","description":"","icon":"data/images/d_/dr/ow/gear_bosmer_2hsword_d.png","bindType":2,"knownIds":[87625]}

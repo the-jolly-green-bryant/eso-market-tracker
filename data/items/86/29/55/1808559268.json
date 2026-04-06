@@ -1,10 +1,1 @@
-{
-  "internalId": 1808559268,
-  "name": "Zeal Decorations, Hanging Lamp",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealhanginglantern001.png",
-  "bindType": -1,
-  "knownIds": [
-    212553
-  ]
-}
+{"internalId":1808559268,"name":"Zeal Decorations, Hanging Lamp","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealhanginglantern001.png","bindType":-1,"knownIds":[212553]}

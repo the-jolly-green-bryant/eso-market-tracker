@@ -1,15 +1,1 @@
-{
-  "internalId": 3149433595,
-  "name": "Corpseburster Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1729059,
-    1756302,
-    1760424,
-    1729059,
-    1756302,
-    1760424
-  ]
-}
+{"internalId":3149433595,"name":"Corpseburster Helmet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necromancerclass_head_a.png","bindType":-1,"knownIds":[1729059,1756302,1760424,1729059,1756302,1760424]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2042643291,
-  "name": "Azure Plasm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_plug_component_005.png",
-  "bindType": -1,
-  "knownIds": [
-    71766
-  ]
-}
+{"internalId":2042643291,"name":"Azure Plasm","description":"","icon":"data/images/50/0_/tn/crafting_runecrafter_plug_component_005.png","bindType":-1,"knownIds":[71766]}

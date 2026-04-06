@@ -1,10 +1,1 @@
-{
-  "internalId": 1609816404,
-  "name": "Exemplary Nirnhoned Epaulets",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Epaulets.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81627
-  ]
-}
+{"internalId":1609816404,"name":"Exemplary Nirnhoned Epaulets","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Epaulets.","icon":"data/images/d_/sr/ed/gear_breton_light_shoulders_d.png","bindType":-1,"knownIds":[81627]}

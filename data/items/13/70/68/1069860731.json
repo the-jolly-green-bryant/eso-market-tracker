@@ -1,10 +1,1 @@
-{
-  "internalId": 1069860731,
-  "name": "Redguard Basket, Closed",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_varmarketclothbasket002.png",
-  "bindType": -1,
-  "knownIds": [
-    117759
-  ]
-}
+{"internalId":1069860731,"name":"Redguard Basket, Closed","description":"This is a standard house item.","icon":"data/images/20/0t/ek/housing_red_exc_varmarketclothbasket002.png","bindType":-1,"knownIds":[117759]}

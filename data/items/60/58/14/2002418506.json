@@ -1,10 +1,1 @@
-{
-  "internalId": 2002418506,
-  "name": "Coldharbour's Favorite Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    148307
-  ]
-}
+{"internalId":2002418506,"name":"Coldharbour's Favorite Breeches","description":"","icon":"data/images/d_/sg/el/gear_breton_light_legs_d.png","bindType":2,"knownIds":[148307]}

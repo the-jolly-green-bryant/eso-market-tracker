@@ -1,10 +1,1 @@
-{
-  "internalId": 782426435,
-  "name": "Eagle Eye Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    183232
-  ]
-}
+{"internalId":782426435,"name":"Eagle Eye Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[183232]}

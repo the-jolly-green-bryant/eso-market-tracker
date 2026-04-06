@@ -1,15 +1,1 @@
-{
-  "internalId": 3390507699,
-  "name": "Aetheric Lancer Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1736584,
-    1745651,
-    1774387,
-    1736584,
-    1745651,
-    1774387
-  ]
-}
+{"internalId":3390507699,"name":"Aetheric Lancer Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_hands_a.png","bindType":-1,"knownIds":[1736584,1745651,1774387,1736584,1745651,1774387]}

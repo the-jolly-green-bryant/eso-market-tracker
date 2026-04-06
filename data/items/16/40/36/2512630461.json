@@ -1,10 +1,1 @@
-{
-  "internalId": 2512630461,
-  "name": "Sunport Window, Dual-Arched",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingaltintwallwindowplacable001.png",
-  "bindType": -1,
-  "knownIds": [
-    217982
-  ]
-}
+{"internalId":2512630461,"name":"Sunport Window, Dual-Arched","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_str_housingaltintwallwindowplacable001.png","bindType":-1,"knownIds":[217982]}

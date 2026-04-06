@@ -1,10 +1,1 @@
-{
-  "internalId": 232905461,
-  "name": "Nord Candle, Tealight",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_lsb_candlemed001.png",
-  "bindType": -1,
-  "knownIds": [
-    115367
-  ]
-}
+{"internalId":232905461,"name":"Nord Candle, Tealight","description":"This is a tiny house item.","icon":"data/images/10/0d/em/housing_nor_lsb_candlemed001.png","bindType":-1,"knownIds":[115367]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 3023505343,
-  "name": "Dagger's Combat Stompers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_feet_d.png",
-  "bindType": -1,
-  "knownIds": [
-    383542,
-    394182,
-    383405,
-    383542,
-    394182,
-    383405
-  ]
-}
+{"internalId":3023505343,"name":"Dagger's Combat Stompers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_orc_medium_feet_d.png","bindType":-1,"knownIds":[383542,394182,383405,383542,394182,383405]}

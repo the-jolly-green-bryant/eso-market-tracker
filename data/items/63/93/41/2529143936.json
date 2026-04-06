@@ -1,10 +1,1 @@
-{
-  "internalId": 2529143936,
-  "name": "Mace of Kyne's Kiss",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    93682
-  ]
-}
+{"internalId":2529143936,"name":"Mace of Kyne's Kiss","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[93682]}

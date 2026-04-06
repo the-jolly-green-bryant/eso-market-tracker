@@ -1,10 +1,1 @@
-{
-  "internalId": 1513402174,
-  "name": "Tough Mining Boots of the Ranger",
-  "description": "These boots look like they could stand up to anything.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34665
-  ]
-}
+{"internalId":1513402174,"name":"Tough Mining Boots of the Ranger","description":"These boots look like they could stand up to anything.","icon":"data/images/d_/te/ef/gear_dunmer_medium_feet_d.png","bindType":2,"knownIds":[34665]}

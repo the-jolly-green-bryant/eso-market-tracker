@@ -1,10 +1,1 @@
-{
-  "internalId": 667051796,
-  "name": "Dark Elf Cauldron, Banded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_inc_meatpots001.png",
-  "bindType": -1,
-  "knownIds": [
-    115308
-  ]
-}
+{"internalId":667051796,"name":"Dark Elf Cauldron, Banded","description":"This is a standard house item.","icon":"data/images/10/0s/to/housing_dun_inc_meatpots001.png","bindType":-1,"knownIds":[115308]}

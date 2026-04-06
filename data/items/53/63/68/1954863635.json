@@ -1,10 +1,1 @@
-{
-  "internalId": 1954863635,
-  "name": "Phoenix Moth Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190695
-  ]
-}
+{"internalId":1954863635,"name":"Phoenix Moth Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_medium_chest_a.png","bindType":2,"knownIds":[190695]}

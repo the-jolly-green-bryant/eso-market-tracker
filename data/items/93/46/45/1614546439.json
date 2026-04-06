@@ -1,10 +1,1 @@
-{
-  "internalId": 1614546439,
-  "name": "Redoran Bench, Sanded",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_fur_hlabench004.png",
-  "bindType": -1,
-  "knownIds": [
-    126414
-  ]
-}
+{"internalId":1614546439,"name":"Redoran Bench, Sanded","description":"This is a standard house item.","icon":"data/images/40/0h/cn/housing_vrd_fur_hlabench004.png","bindType":-1,"knownIds":[126414]}

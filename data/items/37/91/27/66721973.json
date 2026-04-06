@@ -1,10 +1,1 @@
-{
-  "internalId": 66721973,
-  "name": "Wyrd Sisters' Wolf Charm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_002.png",
-  "bindType": -1,
-  "knownIds": [
-    514006
-  ]
-}
+{"internalId":66721973,"name":"Wyrd Sisters' Wolf Charm","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_rivenspire_002.png","bindType":-1,"knownIds":[514006]}

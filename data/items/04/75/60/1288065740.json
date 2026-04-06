@@ -1,10 +1,1 @@
-{
-  "internalId": 1288065740,
-  "name": "Stone Husk Visage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undstonehusk_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1689771
-  ]
-}
+{"internalId":1288065740,"name":"Stone Husk Visage","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undstonehusk_head_a.png","bindType":-1,"knownIds":[1689771]}

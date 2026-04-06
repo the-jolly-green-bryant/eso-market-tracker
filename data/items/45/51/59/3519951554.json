@@ -1,10 +1,1 @@
-{
-  "internalId": 3519951554,
-  "name": "Tree, Towering Slim Cypress",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_italiancypressgreen002.png",
-  "bindType": -1,
-  "knownIds": [
-    204811
-  ]
-}
+{"internalId":3519951554,"name":"Tree, Towering Slim Cypress","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_chl_italiancypressgreen002.png","bindType":-1,"knownIds":[204811]}

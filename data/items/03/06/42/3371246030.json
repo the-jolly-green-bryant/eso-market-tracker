@@ -1,10 +1,1 @@
-{
-  "internalId": 3371246030,
-  "name": "Hlaalu \"Golden Scales\" Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png",
-  "bindType": -1,
-  "knownIds": [
-    840798
-  ]
-}
+{"internalId":3371246030,"name":"Hlaalu \"Golden Scales\" Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_measures_001.png","bindType":-1,"knownIds":[840798]}

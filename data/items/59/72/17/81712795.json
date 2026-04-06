@@ -1,10 +1,1 @@
-{
-  "internalId": 81712795,
-  "name": "Velothi Podium of Recitation",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_duc_podium002.png",
-  "bindType": -1,
-  "knownIds": [
-    126577
-  ]
-}
+{"internalId":81712795,"name":"Velothi Podium of Recitation","description":"This is a standard house item.","icon":"data/images/20/0m/ui/housing_vrd_duc_podium002.png","bindType":-1,"knownIds":[126577]}

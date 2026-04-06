@@ -1,10 +1,1 @@
-{
-  "internalId": 2043095042,
-  "name": "Clockwork Table, Octagonal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_table003.png",
-  "bindType": -1,
-  "knownIds": [
-    134344
-  ]
-}
+{"internalId":2043095042,"name":"Clockwork Table, Octagonal","description":"This is a standard house item.","icon":"data/images/30/0e/lb/housing_cwc_fur_table003.png","bindType":-1,"knownIds":[134344]}

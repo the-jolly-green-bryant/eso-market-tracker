@@ -1,10 +1,1 @@
-{
-  "internalId": 2800966082,
-  "name": "skorrn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    452476
-  ]
-}
+{"internalId":2800966082,"name":"skorrn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[452476]}

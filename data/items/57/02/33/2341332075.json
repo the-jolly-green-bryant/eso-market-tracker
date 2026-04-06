@@ -1,10 +1,1 @@
-{
-  "internalId": 2341332075,
-  "name": "Witch-Knight's Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167929
-  ]
-}
+{"internalId":2341332075,"name":"Witch-Knight's Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardianmed_waist_a.png","bindType":2,"knownIds":[167929]}

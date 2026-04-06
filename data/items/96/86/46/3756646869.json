@@ -1,17 +1,1 @@
-{
-  "internalId": 3756646869,
-  "name": "Beacon of Oblivion Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1735596,
-    1742330,
-    1756759,
-    1765490,
-    1735596,
-    1742330,
-    1756759,
-    1765490
-  ]
-}
+{"internalId":3756646869,"name":"Beacon of Oblivion Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sorcererclass_staff.png","bindType":-1,"knownIds":[1735596,1742330,1756759,1765490,1735596,1742330,1756759,1765490]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1623414358,
-  "name": "Fair Argonian Maiden",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1338207
-  ]
-}
+{"internalId":1623414358,"name":"Fair Argonian Maiden","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed002.png","bindType":-1,"knownIds":[1338207]}

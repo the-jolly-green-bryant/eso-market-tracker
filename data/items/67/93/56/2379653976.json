@@ -1,10 +1,1 @@
-{
-  "internalId": 2379653976,
-  "name": "Words of the Divine Poster",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1157067
-  ]
-}
+{"internalId":2379653976,"name":"Words of the Divine Poster","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png","bindType":-1,"knownIds":[1157067]}

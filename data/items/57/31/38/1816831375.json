@@ -1,10 +1,1 @@
-{
-  "internalId": 1816831375,
-  "name": "Wood Elf Bookcase, Leather",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_fur_shelf002.png",
-  "bindType": -1,
-  "knownIds": [
-    115582
-  ]
-}
+{"internalId":1816831375,"name":"Wood Elf Bookcase, Leather","description":"This is a standard house item.","icon":"data/images/20/0f/le/housing_bos_fur_shelf002.png","bindType":-1,"knownIds":[115582]}

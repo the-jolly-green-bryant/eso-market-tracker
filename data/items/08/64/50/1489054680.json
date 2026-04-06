@@ -1,15 +1,1 @@
-{
-  "internalId": 1489054680,
-  "name": "Abomination's Bulwark of the Night Mother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_shield_d.png",
-  "bindType": -1,
-  "knownIds": [
-    941689,
-    1305382,
-    1457693,
-    941689,
-    1305382,
-    1457693
-  ]
-}
+{"internalId":1489054680,"name":"Abomination's Bulwark of the Night Mother","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_shield_d.png","bindType":-1,"knownIds":[941689,1305382,1457693,941689,1305382,1457693]}

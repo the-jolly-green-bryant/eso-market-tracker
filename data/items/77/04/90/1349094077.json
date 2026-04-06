@@ -1,10 +1,1 @@
-{
-  "internalId": 1349094077,
-  "name": "Druid's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185878
-  ]
-}
+{"internalId":1349094077,"name":"Druid's Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png","bindType":2,"knownIds":[185878]}

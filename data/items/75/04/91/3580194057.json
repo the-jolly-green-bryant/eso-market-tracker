@@ -1,13 +1,1 @@
-{
-  "internalId": 3580194057,
-  "name": "Unidentified Sithis' Touch Waist Armor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    899209,
-    1145427,
-    1234100,
-    1328366
-  ]
-}
+{"internalId":3580194057,"name":"Unidentified Sithis' Touch Waist Armor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[899209,1145427,1234100,1328366]}

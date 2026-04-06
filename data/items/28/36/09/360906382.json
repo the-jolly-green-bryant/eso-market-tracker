@@ -1,10 +1,1 @@
-{
-  "internalId": 360906382,
-  "name": "Dark Elf Sewing Needles in Pin Cushion",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    652103
-  ]
-}
+{"internalId":360906382,"name":"Dark Elf Sewing Needles in Pin Cushion","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[652103]}

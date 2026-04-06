@@ -1,10 +1,1 @@
-{
-  "internalId": 1796696185,
-  "name": "Hist-Tsoko Tablet",
-  "description": "A large stone tablet that represents the sixth month of the Argonian year, otherwise known as Elder Hist. Bring it to the Xinchei-Konu Monument calendar in Murkmire.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_arg_run_mrkfloorcalendarpanel001.png",
-  "bindType": 3,
-  "knownIds": [
-    141723
-  ]
-}
+{"internalId":1796696185,"name":"Hist-Tsoko Tablet","description":"A large stone tablet that represents the sixth month of the Argonian year, otherwise known as Elder Hist. Bring it to the Xinchei-Konu Monument calendar in Murkmire.","icon":"data/images/10/0l/en/quest_arg_run_mrkfloorcalendarpanel001.png","bindType":3,"knownIds":[141723]}

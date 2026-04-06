@@ -1,10 +1,1 @@
-{
-  "internalId": 3941555652,
-  "name": "Diagram: Worm Cult Divider, Iron",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    223578
-  ]
-}
+{"internalId":3941555652,"name":"Diagram: Worm Cult Divider, Iron","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[223578]}

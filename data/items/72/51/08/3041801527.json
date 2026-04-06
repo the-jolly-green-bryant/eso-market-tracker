@@ -1,10 +1,1 @@
-{
-  "internalId": 3041801527,
-  "name": "Shell Splitter Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    194178
-  ]
-}
+{"internalId":3041801527,"name":"Shell Splitter Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[194178]}

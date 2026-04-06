@@ -1,10 +1,1 @@
-{
-  "internalId": 2434517469,
-  "name": "Greens",
-  "description": "An ingredient for crafting food.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cabbage.png",
-  "bindType": -1,
-  "knownIds": [
-    28604
-  ]
-}
+{"internalId":2434517469,"name":"Greens","description":"An ingredient for crafting food.","icon":"data/images/eg/ab/ba/crafting_cabbage.png","bindType":-1,"knownIds":[28604]}

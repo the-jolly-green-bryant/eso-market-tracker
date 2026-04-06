@@ -1,10 +1,1 @@
-{
-  "internalId": 1282387823,
-  "name": "Executioner's Gloves",
-  "description": "Though carefully cleaned, an odor of death still permeates these gloves.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7631
-  ]
-}
+{"internalId":1282387823,"name":"Executioner's Gloves","description":"Though carefully cleaned, an odor of death still permeates these gloves.","icon":"data/images/d_/sd/na/gear_altmer_light_hands_d.png","bindType":2,"knownIds":[7631]}

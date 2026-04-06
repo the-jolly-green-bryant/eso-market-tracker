@@ -1,10 +1,1 @@
-{
-  "internalId": 3859645295,
-  "name": "Farstrider Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211906
-  ]
-}
+{"internalId":3859645295,"name":"Farstrider Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_staff_a.png","bindType":2,"knownIds":[211906]}

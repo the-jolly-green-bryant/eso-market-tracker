@@ -1,10 +1,1 @@
-{
-  "internalId": 1946699010,
-  "name": "Apocrypha Treasure Map I",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    198101
-  ]
-}
+{"internalId":1946699010,"name":"Apocrypha Treasure Map I","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[198101]}

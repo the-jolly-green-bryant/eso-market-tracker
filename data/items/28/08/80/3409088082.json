@@ -1,10 +1,1 @@
-{
-  "internalId": 3409088082,
-  "name": "Breton Cupboard, Knotwork",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_cupboard001.png",
-  "bindType": -1,
-  "knownIds": [
-    115188
-  ]
-}
+{"internalId":3409088082,"name":"Breton Cupboard, Knotwork","description":"This is a standard house item.","icon":"data/images/10/0d/ra/housing_bre_fur_cupboard001.png","bindType":-1,"knownIds":[115188]}

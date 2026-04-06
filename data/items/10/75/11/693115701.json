@@ -1,10 +1,1 @@
-{
-  "internalId": 693115701,
-  "name": "Stuhn's Hat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161579
-  ]
-}
+{"internalId":693115701,"name":"Stuhn's Hat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_head_d.png","bindType":2,"knownIds":[161579]}

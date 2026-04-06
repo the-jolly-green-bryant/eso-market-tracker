@@ -1,10 +1,1 @@
-{
-  "internalId": 72760477,
-  "name": "Dragonguard Elite's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155384
-  ]
-}
+{"internalId":72760477,"name":"Dragonguard Elite's Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonguard_bow_a.png","bindType":2,"knownIds":[155384]}

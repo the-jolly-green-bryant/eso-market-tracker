@@ -1,17 +1,1 @@
-{
-  "internalId": 2462277062,
-  "name": "Spattering Disjunction Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_feet_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1735223,
-    1760573,
-    1764359,
-    1770327,
-    1735223,
-    1760573,
-    1764359,
-    1770327
-  ]
-}
+{"internalId":2462277062,"name":"Spattering Disjunction Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_feet_a.png","bindType":-1,"knownIds":[1735223,1760573,1764359,1770327,1735223,1760573,1764359,1770327]}

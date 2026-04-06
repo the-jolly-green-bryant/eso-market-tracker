@@ -1,17 +1,1 @@
-{
-  "internalId": 2951061589,
-  "name": "Ring of Explosive Rebuke",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1395003,
-    1395033,
-    1499336,
-    1506834,
-    1395003,
-    1395033,
-    1499336,
-    1506834
-  ]
-}
+{"internalId":2951061589,"name":"Ring of Explosive Rebuke","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[1395003,1395033,1499336,1506834,1395003,1395033,1499336,1506834]}

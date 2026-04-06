@@ -1,10 +1,1 @@
-{
-  "internalId": 3636019252,
-  "name": "Brandy Snifter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801279
-  ]
-}
+{"internalId":3636019252,"name":"Brandy Snifter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cup_001.png","bindType":-1,"knownIds":[801279]}

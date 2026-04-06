@@ -1,10 +1,1 @@
-{
-  "internalId": 469757106,
-  "name": "Velothi Triptych, Geyser",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_paintingblrg004.png",
-  "bindType": -1,
-  "knownIds": [
-    126599
-  ]
-}
+{"internalId":469757106,"name":"Velothi Triptych, Geyser","description":"This is a standard house item.","icon":"data/images/40/0g/rl/housing_vrd_inc_paintingblrg004.png","bindType":-1,"knownIds":[126599]}

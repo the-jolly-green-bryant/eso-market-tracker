@@ -1,10 +1,1 @@
-{
-  "internalId": 4234417850,
-  "name": "Crafting Motif 107: Annihilarch's Chosen Chests",
-  "description": "Use to learn how to make Annihilarch's Chosen Chests. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    178533
-  ]
-}
+{"internalId":4234417850,"name":"Crafting Motif 107: Annihilarch's Chosen Chests","description":"Use to learn how to make Annihilarch's Chosen Chests. Also teaches the equivalent Annihilarch's Chosen Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[178533]}

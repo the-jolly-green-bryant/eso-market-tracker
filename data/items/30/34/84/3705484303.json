@@ -1,10 +1,1 @@
-{
-  "internalId": 3705484303,
-  "name": "Argonian Scaleskin, Pale",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_bannerstretched001.png",
-  "bindType": -1,
-  "knownIds": [
-    115490
-  ]
-}
+{"internalId":3705484303,"name":"Argonian Scaleskin, Pale","description":"This is a standard house item.","icon":"data/images/10/0d/eh/housing_arg_lsb_bannerstretched001.png","bindType":-1,"knownIds":[115490]}

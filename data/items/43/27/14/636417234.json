@@ -1,10 +1,1 @@
-{
-  "internalId": 636417234,
-  "name": "Threads of War Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206522
-  ]
-}
+{"internalId":636417234,"name":"Threads of War Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[206522]}

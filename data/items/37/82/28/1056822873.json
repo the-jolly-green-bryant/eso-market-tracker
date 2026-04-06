@@ -1,17 +1,1 @@
-{
-  "internalId": 1056822873,
-  "name": "Light Tel Var Satchel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801691,
-    910678,
-    1320247,
-    1333901,
-    801691,
-    910678,
-    1320247,
-    1333901
-  ]
-}
+{"internalId":1056822873,"name":"Light Tel Var Satchel","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[801691,910678,1320247,1333901,801691,910678,1320247,1333901]}

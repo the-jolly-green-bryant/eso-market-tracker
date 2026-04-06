@@ -1,10 +1,1 @@
-{
-  "internalId": 3133782910,
-  "name": "Spell Parasite's Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    163401
-  ]
-}
+{"internalId":3133782910,"name":"Spell Parasite's Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[163401]}

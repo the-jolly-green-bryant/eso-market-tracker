@@ -1,17 +1,1 @@
-{
-  "internalId": 1196346026,
-  "name": "Prized Barb",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_insect_stinger.png",
-  "bindType": -1,
-  "knownIds": [
-    403688,
-    892373,
-    1214954,
-    1319373,
-    403688,
-    892373,
-    1214954,
-    1319373
-  ]
-}
+{"internalId":1196346026,"name":"Prized Barb","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_critter_insect_stinger.png","bindType":-1,"knownIds":[403688,892373,1214954,1319373,403688,892373,1214954,1319373]}

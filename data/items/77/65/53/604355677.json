@@ -1,10 +1,1 @@
-{
-  "internalId": 604355677,
-  "name": "Cuirass of Fasalla's Guile",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199170
-  ]
-}
+{"internalId":604355677,"name":"Cuirass of Fasalla's Guile","description":"","icon":"data/images/a_/ts/eh/gear_abahswatch_heavy_chest_a.png","bindType":2,"knownIds":[79784]}

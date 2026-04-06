@@ -1,10 +1,1 @@
-{
-  "internalId": 3004057353,
-  "name": "Ayleid Lamp, Ornate Stone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_inc_housingcrystalsconcelarge002.png",
-  "bindType": -1,
-  "knownIds": [
-    211366
-  ]
-}
+{"internalId":3004057353,"name":"Ayleid Lamp, Ornate Stone","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_inc_housingcrystalsconcelarge002.png","bindType":-1,"knownIds":[211366]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1755706183,
-  "name": "Leyawiin Mug, Milk",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodgravy001.png",
-  "bindType": -1,
-  "knownIds": [
-    175671
-  ]
-}
+{"internalId":1755706183,"name":"Leyawiin Mug, Milk","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodgravy001.png","bindType":-1,"knownIds":[175671]}

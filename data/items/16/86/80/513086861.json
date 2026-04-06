@@ -1,10 +1,1 @@
-{
-  "internalId": 513086861,
-  "name": "Sky-Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    819930
-  ]
-}
+{"internalId":513086861,"name":"Sky-Key","description":"","icon":null,"bindType":-1,"knownIds":[819930]}

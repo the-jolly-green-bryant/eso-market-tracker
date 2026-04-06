@@ -1,10 +1,1 @@
-{
-  "internalId": 2654675524,
-  "name": "Coward's Gear Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123503
-  ]
-}
+{"internalId":2654675524,"name":"Coward's Gear Jack","description":"","icon":"data/images/a_/ts/eh/gear_ordinator_medium_chest_a.png","bindType":2,"knownIds":[123503]}

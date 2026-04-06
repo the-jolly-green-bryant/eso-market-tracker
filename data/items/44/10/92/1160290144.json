@@ -1,10 +1,1 @@
-{
-  "internalId": 1160290144,
-  "name": "Wood Elf Awning, Leather",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_str_stablewall003.png",
-  "bindType": -1,
-  "knownIds": [
-    115569
-  ]
-}
+{"internalId":1160290144,"name":"Wood Elf Awning, Leather","description":"This is a large house item.","icon":"data/images/30/0l/la/housing_bos_str_stablewall003.png","bindType":-1,"knownIds":[115569]}

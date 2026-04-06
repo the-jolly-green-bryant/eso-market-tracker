@@ -1,10 +1,1 @@
-{
-  "internalId": 3199757483,
-  "name": "Bound Affix Script: Force",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_force.png",
-  "bindType": -1,
-  "knownIds": [
-    1721655
-  ]
-}
+{"internalId":3199757483,"name":"Bound Affix Script: Force","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_tertiary_force.png","bindType":-1,"knownIds":[1721655]}

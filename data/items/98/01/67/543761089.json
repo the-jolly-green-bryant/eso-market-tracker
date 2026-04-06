@@ -1,10 +1,1 @@
-{
-  "internalId": 543761089,
-  "name": "Yeast",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_bread_003.png",
-  "bindType": -1,
-  "knownIds": [
-    33774
-  ]
-}
+{"internalId":543761089,"name":"Yeast","description":"An ingredient for crafting beverages.","icon":"data/images/30/0_/da/crafting_components_bread_003.png","bindType":-1,"knownIds":[33774]}

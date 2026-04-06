@@ -1,10 +1,1 @@
-{
-  "internalId": 79185881,
-  "name": "Metalworker's Hand Saw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1305823
-  ]
-}
+{"internalId":79185881,"name":"Metalworker's Hand Saw","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tool_001.png","bindType":-1,"knownIds":[1305823]}

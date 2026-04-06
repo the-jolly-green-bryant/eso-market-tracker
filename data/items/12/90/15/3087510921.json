@@ -1,10 +1,1 @@
-{
-  "internalId": 3087510921,
-  "name": "Daring Corsair Jewelry",
-  "description": "A Crafted Armor set constructed in Southern Elsweyr.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182824
-  ]
-}
+{"internalId":3087510921,"name":"Daring Corsair Jewelry","description":"A Crafted Armor set constructed in Southern Elsweyr.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182824]}

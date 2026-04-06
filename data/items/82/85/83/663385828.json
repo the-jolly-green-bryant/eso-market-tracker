@@ -1,10 +1,1 @@
-{
-  "internalId": 663385828,
-  "name": "Alinor Sconce, Crenellated",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_lsb_aldwallsconce002.png",
-  "bindType": -1,
-  "knownIds": [
-    139197
-  ]
-}
+{"internalId":663385828,"name":"Alinor Sconce, Crenellated","description":"This is a standard house item.","icon":"data/images/20/0e/cn/housing_sum_lsb_aldwallsconce002.png","bindType":-1,"knownIds":[139197]}

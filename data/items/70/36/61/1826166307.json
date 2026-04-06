@@ -1,10 +1,1 @@
-{
-  "internalId": 1826166307,
-  "name": "Crate of Mundus Stones",
-  "description": "This container holds pieces of Mundus Stones that can grant the Mundus buffs when used.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/delivery_box_001.png",
-  "bindType": 3,
-  "knownIds": [
-    211333
-  ]
-}
+{"internalId":1826166307,"name":"Crate of Mundus Stones","description":"This container holds pieces of Mundus Stones that can grant the Mundus buffs when used.","icon":"https://esoicons.uesp.net/esoui/art/icons/delivery_box_001.png","bindType":3,"knownIds":[211333]}

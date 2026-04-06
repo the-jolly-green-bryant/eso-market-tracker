@@ -1,10 +1,1 @@
-{
-  "internalId": 816000620,
-  "name": "Ayleid Chandelier, Metal Tiered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_lsb_chandelier001.png",
-  "bindType": -1,
-  "knownIds": [
-    211368
-  ]
-}
+{"internalId":816000620,"name":"Ayleid Chandelier, Metal Tiered","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_lsb_chandelier001.png","bindType":-1,"knownIds":[211368]}

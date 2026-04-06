@@ -1,10 +1,1 @@
-{
-  "internalId": 1922882288,
-  "name": "Spillproof Scroll Paper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1159486
-  ]
-}
+{"internalId":1922882288,"name":"Spillproof Scroll Paper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png","bindType":-1,"knownIds":[1159486]}

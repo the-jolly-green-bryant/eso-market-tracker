@@ -1,10 +1,1 @@
-{
-  "internalId": 2618020202,
-  "name": "Argonian Medallion, Stone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_inc_mrkwallmedallion001.png",
-  "bindType": -1,
-  "knownIds": [
-    115489
-  ]
-}
+{"internalId":2618020202,"name":"Argonian Medallion, Stone","description":"This is a small house item.","icon":"data/images/10/0n/oi/housing_arg_inc_mrkwallmedallion001.png","bindType":-1,"knownIds":[115489]}

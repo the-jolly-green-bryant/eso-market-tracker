@@ -1,10 +1,1 @@
-{
-  "internalId": 2854995253,
-  "name": "Maul of Torug's Pact",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56492
-  ]
-}
+{"internalId":2854995253,"name":"Maul of Torug's Pact","description":"","icon":"data/images/d_/re/mm/gear_breton_2hhammer_d.png","bindType":2,"knownIds":[56492]}

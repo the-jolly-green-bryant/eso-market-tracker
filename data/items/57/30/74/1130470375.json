@@ -1,10 +1,1 @@
-{
-  "internalId": 1130470375,
-  "name": "Prophet's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png",
-  "bindType": -1,
-  "knownIds": [
-    1770138
-  ]
-}
+{"internalId":1130470375,"name":"Prophet's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_primative_staff_c.png","bindType":-1,"knownIds":[1770138]}

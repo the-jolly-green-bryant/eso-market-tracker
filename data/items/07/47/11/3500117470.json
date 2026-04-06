@@ -1,10 +1,1 @@
-{
-  "internalId": 3500117470,
-  "name": "Blackwood Coffer",
-  "description": "This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_chest002.png",
-  "bindType": 3,
-  "knownIds": [
-    203568
-  ]
-}
+{"internalId":3500117470,"name":"Blackwood Coffer","description":"This reward box might contain useful crafting materials, powerful set items, or even rarer treasures.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_chest002.png","bindType":3,"knownIds":[203568]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2592584554,
-  "name": "Crafty Alfiq's Ring",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    149240
-  ]
-}
+{"internalId":2592584554,"name":"Crafty Alfiq's Ring","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[149240]}

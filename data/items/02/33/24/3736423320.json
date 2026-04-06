@@ -1,10 +1,1 @@
-{
-  "internalId": 3736423320,
-  "name": "Stuhn's Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161577
-  ]
-}
+{"internalId":3736423320,"name":"Stuhn's Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png","bindType":2,"knownIds":[161577]}

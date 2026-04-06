@@ -1,10 +1,1 @@
-{
-  "internalId": 3261171177,
-  "name": "Elsweyr Spice Display, Matcha Green",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_exc_housingmerchantspices002.png",
-  "bindType": -1,
-  "knownIds": [
-    151650
-  ]
-}
+{"internalId":3261171177,"name":"Elsweyr Spice Display, Matcha Green","description":"This is a small house item.","icon":"data/images/20/0s/ec/housing_els_exc_housingmerchantspices002.png","bindType":-1,"knownIds":[151650]}

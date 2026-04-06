@@ -1,10 +1,1 @@
-{
-  "internalId": 2325593521,
-  "name": "Praxis: Argonian Ramekin, Hardened",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    115741
-  ]
-}
+{"internalId":2325593521,"name":"Praxis: Argonian Ramekin, Hardened","description":"","icon":"data/images/2g/ni/tn/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[115741]}

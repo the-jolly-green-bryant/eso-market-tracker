@@ -1,10 +1,1 @@
-{
-  "internalId": 4077120625,
-  "name": "Fern, Young Healthy",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_greenshadeleafyplantandferns002.png",
-  "bindType": -1,
-  "knownIds": [
-    120600
-  ]
-}
+{"internalId":4077120625,"name":"Fern, Young Healthy","description":"This is a small house item.","icon":"data/images/20/0s/nr/housing_veg_bsh_greenshadeleafyplantandferns002.png","bindType":-1,"knownIds":[120600]}

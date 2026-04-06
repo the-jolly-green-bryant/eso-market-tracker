@@ -1,10 +1,1 @@
-{
-  "internalId": 303057000,
-  "name": "Scroll of the Lonely Traveler",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    890566
-  ]
-}
+{"internalId":303057000,"name":"Scroll of the Lonely Traveler","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[890566]}

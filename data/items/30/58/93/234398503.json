@@ -1,10 +1,1 @@
-{
-  "internalId": 234398503,
-  "name": "Percius Loche's Keepsake",
-  "description": "Although the outfit that Percius Loche made for you was destroyed in the Deadlands, this necklace managed to survive the ordeal. Dinged but still as beautiful as ever.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    174872
-  ]
-}
+{"internalId":234398503,"name":"Percius Loche's Keepsake","description":"Although the outfit that Percius Loche made for you was destroyed in the Deadlands, this necklace managed to survive the ordeal. Dinged but still as beautiful as ever.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":2,"knownIds":[174872]}

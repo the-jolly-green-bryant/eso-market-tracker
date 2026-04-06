@@ -1,10 +1,1 @@
-{
-  "internalId": 3511974505,
-  "name": "Fungusfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    824588
-  ]
-}
+{"internalId":3511974505,"name":"Fungusfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[824588]}

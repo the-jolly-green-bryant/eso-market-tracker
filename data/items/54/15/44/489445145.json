@@ -1,10 +1,1 @@
-{
-  "internalId": 489445145,
-  "name": "Boulder, Jagged Crag",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_craglornsmall002.png",
-  "bindType": -1,
-  "knownIds": [
-    120963
-  ]
-}
+{"internalId":489445145,"name":"Boulder, Jagged Crag","description":"This is a large house item.","icon":"data/images/20/0l/la/housing_rok_gry_craglornsmall002.png","bindType":-1,"knownIds":[120963]}

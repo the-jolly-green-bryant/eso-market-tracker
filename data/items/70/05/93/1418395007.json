@@ -1,10 +1,1 @@
-{
-  "internalId": 1418395007,
-  "name": "Butterfly Wing",
-  "description": "An ingredient for alchemy.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_poisonmaking_reagent_butterfly_wing.png",
-  "bindType": -1,
-  "knownIds": [
-    77585
-  ]
-}
+{"internalId":1418395007,"name":"Butterfly Wing","description":"An ingredient for alchemy.","icon":"data/images/gn/iw/_y/crafting_poisonmaking_reagent_butterfly_wing.png","bindType":-1,"knownIds":[77585]}

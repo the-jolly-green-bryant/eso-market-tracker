@@ -1,10 +1,1 @@
-{
-  "internalId": 43685121,
-  "name": "Praxis: Ayleid Bench, Long Ornate Backed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    211415
-  ]
-}
+{"internalId":43685121,"name":"Praxis: Ayleid Bench, Long Ornate Backed","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[211415]}

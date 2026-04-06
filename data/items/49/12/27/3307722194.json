@@ -1,13 +1,1 @@
-{
-  "internalId": 3307722194,
-  "name": "Stone-Talker's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1463985,
-    1479018,
-    1463985,
-    1479018
-  ]
-}
+{"internalId":3307722194,"name":"Stone-Talker's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1463985,1479018,1463985,1479018]}

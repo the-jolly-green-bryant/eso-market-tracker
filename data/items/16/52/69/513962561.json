@@ -1,10 +1,1 @@
-{
-  "internalId": 513962561,
-  "name": "Witch-Knight's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167914
-  ]
-}
+{"internalId":513962561,"name":"Witch-Knight's Maul","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_waywardguardian_2hhammer_a.png","bindType":2,"knownIds":[167914]}

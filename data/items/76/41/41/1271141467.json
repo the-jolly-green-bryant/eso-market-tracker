@@ -1,10 +1,1 @@
-{
-  "internalId": 1271141467,
-  "name": "Zeal Decorations, Banners Short",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealbannerline006.png",
-  "bindType": -1,
-  "knownIds": [
-    212550
-  ]
-}
+{"internalId":1271141467,"name":"Zeal Decorations, Banners Short","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingzealbannerline006.png","bindType":-1,"knownIds":[212550]}

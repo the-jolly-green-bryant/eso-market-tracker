@@ -1,10 +1,1 @@
-{
-  "internalId": 1391246576,
-  "name": "Pattern: Spindle, Bookbinding Thread",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    198520
-  ]
-}
+{"internalId":1391246576,"name":"Pattern: Spindle, Bookbinding Thread","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[198520]}

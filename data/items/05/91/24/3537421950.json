@@ -1,10 +1,1 @@
-{
-  "internalId": 3537421950,
-  "name": "Flask from the Dead Wolf Inn",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png",
-  "bindType": -1,
-  "knownIds": [
-    654544
-  ]
-}
+{"internalId":3537421950,"name":"Flask from the Dead Wolf Inn","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_flask_001.png","bindType":-1,"knownIds":[654544]}

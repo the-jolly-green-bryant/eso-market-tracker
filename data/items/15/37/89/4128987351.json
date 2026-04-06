@@ -1,11 +1,1 @@
-{
-  "internalId": 4128987351,
-  "name": "Pork and Bitter Melon Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    647808,
-    647808
-  ]
-}
+{"internalId":4128987351,"name":"Pork and Bitter Melon Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[647808,647808]}

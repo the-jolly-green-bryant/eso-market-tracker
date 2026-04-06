@@ -1,10 +1,1 @@
-{
-  "internalId": 71087248,
-  "name": "Wheat",
-  "description": "An ingredient for crafting beverages.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_bread_002.png",
-  "bindType": -1,
-  "knownIds": [
-    34348
-  ]
-}
+{"internalId":71087248,"name":"Wheat","description":"An ingredient for crafting beverages.","icon":"data/images/20/0_/da/crafting_components_bread_002.png","bindType":-1,"knownIds":[34348]}

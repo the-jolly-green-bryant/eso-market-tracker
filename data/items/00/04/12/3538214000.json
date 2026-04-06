@@ -1,10 +1,1 @@
-{
-  "internalId": 3538214000,
-  "name": "Jewelry: Wisdom of Vanus",
-  "description": "A Light Armor set found in Summerset..",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    139023
-  ]
-}
+{"internalId":3538214000,"name":"Jewelry: Wisdom of Vanus","description":"A Light Armor set found in Summerset..","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[139023]}

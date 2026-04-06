@@ -1,10 +1,1 @@
-{
-  "internalId": 3418315680,
-  "name": "The Vicecanon's Maul",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78577
-  ]
-}
+{"internalId":3418315680,"name":"The Vicecanon's Maul","description":"","icon":"data/images/d_/re/mm/gear_argonian_2hhammer_d.png","bindType":2,"knownIds":[78577]}

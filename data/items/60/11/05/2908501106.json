@@ -1,10 +1,1 @@
-{
-  "internalId": 2908501106,
-  "name": "Forest Wraith's Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    192347
-  ]
-}
+{"internalId":2908501106,"name":"Forest Wraith's Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_robe_d.png","bindType":2,"knownIds":[192347]}

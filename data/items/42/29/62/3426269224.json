@@ -1,10 +1,1 @@
-{
-  "internalId": 3426269224,
-  "name": "Magus-General's Saddle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_saddle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    936588
-  ]
-}
+{"internalId":3426269224,"name":"Magus-General's Saddle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_saddle_001.png","bindType":-1,"knownIds":[936588]}

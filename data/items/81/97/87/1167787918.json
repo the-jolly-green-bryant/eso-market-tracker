@@ -1,10 +1,1 @@
-{
-  "internalId": 1167787918,
-  "name": "Blood-Curse Talisman",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_006.png",
-  "bindType": -1,
-  "knownIds": [
-    904348
-  ]
-}
+{"internalId":1167787918,"name":"Blood-Curse Talisman","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_006.png","bindType":-1,"knownIds":[904348]}

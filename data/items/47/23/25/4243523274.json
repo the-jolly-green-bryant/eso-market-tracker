@@ -1,10 +1,1 @@
-{
-  "internalId": 4243523274,
-  "name": "Druid's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185888
-  ]
-}
+{"internalId":4243523274,"name":"Druid's Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_hands_d.png","bindType":2,"knownIds":[185888]}

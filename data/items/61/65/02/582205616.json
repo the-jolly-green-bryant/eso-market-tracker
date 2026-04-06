@@ -1,10 +1,1 @@
-{
-  "internalId": 582205616,
-  "name": "Stones, Mossy Cluster",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_grohtwoodsmall009.png",
-  "bindType": -1,
-  "knownIds": [
-    120606
-  ]
-}
+{"internalId":582205616,"name":"Stones, Mossy Cluster","description":"This is a small house item.","icon":"data/images/90/0l/la/housing_rok_tan_grohtwoodsmall009.png","bindType":-1,"knownIds":[120606]}

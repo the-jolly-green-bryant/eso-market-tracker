@@ -1,10 +1,1 @@
-{
-  "internalId": 2611034852,
-  "name": "Shield of the Black Rose",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_shield_d.png",
-  "bindType": 2,
-  "knownIds": [
-    116677
-  ]
-}
+{"internalId":2611034852,"name":"Shield of the Black Rose","description":"","icon":"data/images/d_/dl/ei/gear_breton_shield_d.png","bindType":2,"knownIds":[116677]}

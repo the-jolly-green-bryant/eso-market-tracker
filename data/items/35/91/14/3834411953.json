@@ -1,10 +1,1 @@
-{
-  "internalId": 3834411953,
-  "name": "Nix-Hound Treat Cannister",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795857
-  ]
-}
+{"internalId":3834411953,"name":"Nix-Hound Treat Cannister","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[795857]}

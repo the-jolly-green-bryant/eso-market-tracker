@@ -1,10 +1,1 @@
-{
-  "internalId": 3640116726,
-  "name": "Murklight's Lamp Splinter",
-  "description": "Acquire and use the Murklight's Lamp Splinter along with the other nine Gleaming Lamp Splinters to unlock the Relic Gloom Warder achievement as well as the Gleaming Lamp relic and memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": 3,
-  "knownIds": [
-    223805
-  ]
-}
+{"internalId":3640116726,"name":"Murklight's Lamp Splinter","description":"Acquire and use the Murklight's Lamp Splinter along with the other nine Gleaming Lamp Splinters to unlock the Relic Gloom Warder achievement as well as the Gleaming Lamp relic and memento.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":3,"knownIds":[223805]}

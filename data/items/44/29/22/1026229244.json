@@ -1,10 +1,1 @@
-{
-  "internalId": 1026229244,
-  "name": "Restoration Staff of Dragon's Appetite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    161941
-  ]
-}
+{"internalId":1026229244,"name":"Restoration Staff of Dragon's Appetite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[161941]}

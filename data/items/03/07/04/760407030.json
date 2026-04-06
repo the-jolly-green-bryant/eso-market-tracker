@@ -1,10 +1,1 @@
-{
-  "internalId": 760407030,
-  "name": "Design: Argonian Light, Stick",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    115823
-  ]
-}
+{"internalId":760407030,"name":"Design: Argonian Light, Stick","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[115823]}

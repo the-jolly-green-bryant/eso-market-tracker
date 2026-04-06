@@ -1,10 +1,1 @@
-{
-  "internalId": 3397847051,
-  "name": "Topiary, Paired Cypress",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_gccypress004.png",
-  "bindType": -1,
-  "knownIds": [
-    121031
-  ]
-}
+{"internalId":3397847051,"name":"Topiary, Paired Cypress","description":"This is a large house item.","icon":"data/images/40/0s/se/housing_tre_eve_gccypress004.png","bindType":-1,"knownIds":[121031]}

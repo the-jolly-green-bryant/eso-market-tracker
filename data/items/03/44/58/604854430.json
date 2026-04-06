@@ -1,10 +1,1 @@
-{
-  "internalId": 604854430,
-  "name": "Forgemaster's Band",
-  "description": "Worn by the forgemasters of the Fighters Guild as they work superheated metals at the Earth Forge.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    61008
-  ]
-}
+{"internalId":604854430,"name":"Forgemaster's Band","description":"Worn by the forgemasters of the Fighters Guild as they work superheated metals at the Earth Forge.","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[61008]}

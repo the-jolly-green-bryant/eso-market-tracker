@@ -1,17 +1,1 @@
-{
-  "internalId": 245781038,
-  "name": "Alchemist Survey: Malabal Tor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    523570,
-    1424881,
-    523570,
-    1424881,
-    523570,
-    1424881,
-    523570,
-    1424881
-  ]
-}
+{"internalId":245781038,"name":"Alchemist Survey: Malabal Tor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[523570,1424881,523570,1424881,523570,1424881,523570,1424881]}

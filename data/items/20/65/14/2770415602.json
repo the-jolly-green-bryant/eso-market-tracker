@@ -1,10 +1,1 @@
-{
-  "internalId": 2770415602,
-  "name": "Pattern: Redguard Pillow, Sunset",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119232
-  ]
-}
+{"internalId":2770415602,"name":"Pattern: Redguard Pillow, Sunset","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[119232]}

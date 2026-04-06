@@ -1,10 +1,1 @@
-{
-  "internalId": 2350188067,
-  "name": "Coup De Grâce Belt",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    219482
-  ]
-}
+{"internalId":2350188067,"name":"Coup De Grâce Belt","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[219482]}

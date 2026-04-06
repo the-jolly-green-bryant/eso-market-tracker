@@ -1,10 +1,1 @@
-{
-  "internalId": 3873995671,
-  "name": "Sword-Singer's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    99332
-  ]
-}
+{"internalId":3873995671,"name":"Sword-Singer's Bow","description":"","icon":"data/images/d_/wo/b_/gear_redguard_bow_d.png","bindType":2,"knownIds":[99332]}

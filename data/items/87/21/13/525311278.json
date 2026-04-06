@@ -1,10 +1,1 @@
-{
-  "internalId": 525311278,
-  "name": "Praxis: Colovian Planter, Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    207901
-  ]
-}
+{"internalId":525311278,"name":"Praxis: Colovian Planter, Large","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[207901]}

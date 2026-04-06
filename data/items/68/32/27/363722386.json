@@ -1,10 +1,1 @@
-{
-  "internalId": 363722386,
-  "name": "Bazgara's Lucky Horseshoe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    485495
-  ]
-}
+{"internalId":363722386,"name":"Bazgara's Lucky Horseshoe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horseshoe_001.png","bindType":-1,"knownIds":[485495]}

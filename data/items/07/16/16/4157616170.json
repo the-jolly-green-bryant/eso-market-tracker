@@ -1,10 +1,1 @@
-{
-  "internalId": 4157616170,
-  "name": "Pattern: Redguard Throw Pillow, Desert Flame",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119299
-  ]
-}
+{"internalId":4157616170,"name":"Pattern: Redguard Throw Pillow, Desert Flame","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[119299]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 695667482,
-  "name": "Pattern: Leyawiin Tapestry, Hunting Party",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png",
-  "bindType": -1,
-  "knownIds": [
-    181558
-  ]
-}
+{"internalId":695667482,"name":"Pattern: Leyawiin Tapestry, Hunting Party","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_5.png","bindType":-1,"knownIds":[181558]}

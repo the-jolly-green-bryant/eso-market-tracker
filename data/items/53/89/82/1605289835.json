@@ -1,10 +1,1 @@
-{
-  "internalId": 1605289835,
-  "name": "Mace of Necropotence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    86914
-  ]
-}
+{"internalId":1605289835,"name":"Mace of Necropotence","description":"","icon":"data/images/d_/re/mm/gear_argonian_1hhammer_d.png","bindType":2,"knownIds":[86914]}

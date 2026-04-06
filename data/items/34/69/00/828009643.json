@@ -1,10 +1,1 @@
-{
-  "internalId": 828009643,
-  "name": "Naga Shaman Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    143521
-  ]
-}
+{"internalId":828009643,"name":"Naga Shaman Jerkin","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[143521]}

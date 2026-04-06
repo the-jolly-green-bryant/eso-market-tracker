@@ -1,15 +1,1 @@
-{
-  "internalId": 929381006,
-  "name": "Perfected Null Arca Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1726351,
-    1733178,
-    1741795,
-    1726351,
-    1733178,
-    1741795
-  ]
-}
+{"internalId":929381006,"name":"Perfected Null Arca Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_staff_a.png","bindType":-1,"knownIds":[1726351,1733178,1741795,1726351,1733178,1741795]}

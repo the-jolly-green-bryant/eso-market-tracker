@@ -1,10 +1,1 @@
-{
-  "internalId": 1567881287,
-  "name": "Clothier Survey: Craglorn II",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801295
-  ]
-}
+{"internalId":1567881287,"name":"Clothier Survey: Craglorn II","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[801295]}

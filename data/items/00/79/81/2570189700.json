@@ -1,10 +1,1 @@
-{
-  "internalId": 2570189700,
-  "name": "Frosted: Iceberg Hues",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_dec12.png",
-  "bindType": -1,
-  "knownIds": [
-    1187061
-  ]
-}
+{"internalId":2570189700,"name":"Frosted: Iceberg Hues","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_dec12.png","bindType":-1,"knownIds":[1187061]}

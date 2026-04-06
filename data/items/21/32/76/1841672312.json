@@ -1,10 +1,1 @@
-{
-  "internalId": 1841672312,
-  "name": "Scribing Altar",
-  "description": "No personal scholarium is complete without a working Scribing Altar! When placed in your home, it allows you to Scribe.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_housingscribingaltarcombo001.png",
-  "bindType": -1,
-  "knownIds": [
-    203600
-  ]
-}
+{"internalId":1841672312,"name":"Scribing Altar","description":"No personal scholarium is complete without a working Scribing Altar! When placed in your home, it allows you to Scribe.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sum_str_housingscribingaltarcombo001.png","bindType":-1,"knownIds":[203600]}

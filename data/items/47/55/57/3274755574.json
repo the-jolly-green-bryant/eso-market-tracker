@@ -1,10 +1,1 @@
-{
-  "internalId": 3274755574,
-  "name": "Coffer Egg Splinter",
-  "description": "Acquire and use the Coffer Egg Splinter along with the other nine Egg of Arac Splinters to unlock the Relic Gauntlet Bearer achievement as well as the Egg of Arac relic and memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": 3,
-  "knownIds": [
-    223802
-  ]
-}
+{"internalId":3274755574,"name":"Coffer Egg Splinter","description":"Acquire and use the Coffer Egg Splinter along with the other nine Egg of Arac Splinters to unlock the Relic Gauntlet Bearer achievement as well as the Egg of Arac relic and memento.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":3,"knownIds":[223802]}

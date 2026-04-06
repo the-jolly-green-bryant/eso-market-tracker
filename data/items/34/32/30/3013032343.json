@@ -1,10 +1,1 @@
-{
-  "internalId": 3013032343,
-  "name": "Shipment of Hickory",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    940991
-  ]
-}
+{"internalId":3013032343,"name":"Shipment of Hickory","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[940991]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 238481188,
-  "name": "Lineage of House Ranser",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    634707
-  ]
-}
+{"internalId":238481188,"name":"Lineage of House Ranser","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[634707]}

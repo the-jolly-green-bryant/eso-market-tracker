@@ -1,10 +1,1 @@
-{
-  "internalId": 1577821693,
-  "name": "Maul of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_2hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167748
-  ]
-}
+{"internalId":1577821693,"name":"Maul of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_2hhammer_a.png","bindType":2,"knownIds":[167748]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1275314420,
-  "name": "Crafting Motif 95: Nighthollow Bows",
-  "description": "Use to learn how to make Nighthollow Bows. Also teaches the equivalent Nighthollow Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167947
-  ]
-}
+{"internalId":1275314420,"name":"Crafting Motif 95: Nighthollow Bows","description":"Use to learn how to make Nighthollow Bows. Also teaches the equivalent Nighthollow Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167947]}

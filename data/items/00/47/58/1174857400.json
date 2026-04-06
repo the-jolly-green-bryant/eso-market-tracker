@@ -1,10 +1,1 @@
-{
-  "internalId": 1174857400,
-  "name": "Imperial Chest, Reinforced",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_icchest002.png",
-  "bindType": -1,
-  "knownIds": [
-    211576
-  ]
-}
+{"internalId":1174857400,"name":"Imperial Chest, Reinforced","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_imp_inc_icchest002.png","bindType":-1,"knownIds":[211576]}

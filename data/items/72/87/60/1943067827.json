@@ -1,10 +1,1 @@
-{
-  "internalId": 1943067827,
-  "name": "Over-Sized Tavern Dice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    795924
-  ]
-}
+{"internalId":1943067827,"name":"Over-Sized Tavern Dice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png","bindType":-1,"knownIds":[795924]}

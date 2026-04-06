@@ -1,10 +1,1 @@
-{
-  "internalId": 349410113,
-  "name": "Shipment of Electrum",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1241879
-  ]
-}
+{"internalId":349410113,"name":"Shipment of Electrum","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png","bindType":-1,"knownIds":[1241879]}

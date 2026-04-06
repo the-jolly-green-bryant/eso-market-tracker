@@ -1,10 +1,1 @@
-{
-  "internalId": 1610388105,
-  "name": "Barrel of Rare Fish, Cyrodiil",
-  "description": "Rare fish found in the waters of Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png",
-  "bindType": 3,
-  "knownIds": [
-    199913
-  ]
-}
+{"internalId":1610388105,"name":"Barrel of Rare Fish, Cyrodiil","description":"Rare fish found in the waters of Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_con_barrel001.png","bindType":3,"knownIds":[199913]}

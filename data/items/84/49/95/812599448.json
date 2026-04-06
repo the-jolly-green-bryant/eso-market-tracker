@@ -1,10 +1,1 @@
-{
-  "internalId": 812599448,
-  "name": "Ayleid Bookcase, Short Cluttered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_bookcasesmallstackable001.png",
-  "bindType": -1,
-  "knownIds": [
-    130200
-  ]
-}
+{"internalId":812599448,"name":"Ayleid Bookcase, Short Cluttered","description":"This is a standard house item.","icon":"data/images/10/0e/lb/housing_ayl_duc_bookcasesmallstackable001.png","bindType":-1,"knownIds":[130200]}

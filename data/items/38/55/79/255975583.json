@@ -1,10 +1,1 @@
-{
-  "internalId": 255975583,
-  "name": "Dwarven Pipeline, Full Column",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dwe_duc_housingpipecolumna001.png",
-  "bindType": -1,
-  "knownIds": [
-    125533
-  ]
-}
+{"internalId":255975583,"name":"Dwarven Pipeline, Full Column","description":"This is a large house item.","icon":"data/images/10/0a/nm/housing_dwe_duc_housingpipecolumna001.png","bindType":-1,"knownIds":[125533]}

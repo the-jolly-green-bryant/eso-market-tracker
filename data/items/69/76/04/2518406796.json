@@ -1,10 +1,1 @@
-{
-  "internalId": 2518406796,
-  "name": "Wood Elf Tapestry, Painted",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_lsb_bannersmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    115615
-  ]
-}
+{"internalId":2518406796,"name":"Wood Elf Tapestry, Painted","description":"This is a large house item.","icon":"data/images/10/0l/la/housing_bos_lsb_bannersmall001.png","bindType":-1,"knownIds":[115615]}

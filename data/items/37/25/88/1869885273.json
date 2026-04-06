@@ -1,10 +1,1 @@
-{
-  "internalId": 1869885273,
-  "name": "Whiterun Cheese-Baked Trout",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_004.png",
-  "bindType": -1,
-  "knownIds": [
-    37942
-  ]
-}
+{"internalId":1869885273,"name":"Whiterun Cheese-Baked Trout","description":"","icon":"data/images/40/0_/te/crafting_skillet_004.png","bindType":-1,"knownIds":[37942]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1390168792,
-  "name": "Perfected Coral Riptide Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1605316,
-    1609991,
-    1739655,
-    1605316,
-    1609991,
-    1739655
-  ]
-}
+{"internalId":1390168792,"name":"Perfected Coral Riptide Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_amenossea_staff_a.png","bindType":-1,"knownIds":[1605316,1609991,1739655,1605316,1609991,1739655]}

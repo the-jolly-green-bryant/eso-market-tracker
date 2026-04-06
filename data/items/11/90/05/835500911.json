@@ -1,10 +1,1 @@
-{
-  "internalId": 835500911,
-  "name": "Clockwork Illuminator, Compact Stand",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_lsb_lightsource001.png",
-  "bindType": -1,
-  "knownIds": [
-    134371
-  ]
-}
+{"internalId":835500911,"name":"Clockwork Illuminator, Compact Stand","description":"This is a standard house item.","icon":"data/images/10/0e/cr/housing_cwc_lsb_lightsource001.png","bindType":-1,"knownIds":[134371]}

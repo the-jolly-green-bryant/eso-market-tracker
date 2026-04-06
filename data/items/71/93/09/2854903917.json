@@ -1,10 +1,1 @@
-{
-  "internalId": 2854903917,
-  "name": "Skingrad Girdle",
-  "description": "A thick belt made from bronze and steel rings, the buckle displays the head of a snarling bear.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    208157
-  ]
-}
+{"internalId":2854903917,"name":"Skingrad Girdle","description":"A thick belt made from bronze and steel rings, the buckle displays the head of a snarling bear.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_imperial_heavy_waist_d.png","bindType":2,"knownIds":[208157]}

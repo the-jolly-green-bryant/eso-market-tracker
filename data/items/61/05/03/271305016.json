@@ -1,10 +1,1 @@
-{
-  "internalId": 271305016,
-  "name": "Crafting Motif 82: Icereach Coven Legs",
-  "description": "Use to learn how to make Icereach Coven Legs. Also teaches the equivalent Icereach Coven outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    157526
-  ]
-}
+{"internalId":271305016,"name":"Crafting Motif 82: Icereach Coven Legs","description":"Use to learn how to make Icereach Coven Legs. Also teaches the equivalent Icereach Coven outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[157526]}

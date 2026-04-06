@@ -1,10 +1,1 @@
-{
-  "internalId": 999366130,
-  "name": "Nord Table, Game",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_fur_tableround001.png",
-  "bindType": -1,
-  "knownIds": [
-    115409
-  ]
-}
+{"internalId":999366130,"name":"Nord Table, Game","description":"This is a standard house item.","icon":"data/images/10/0d/nu/housing_nor_fur_tableround001.png","bindType":-1,"knownIds":[115409]}

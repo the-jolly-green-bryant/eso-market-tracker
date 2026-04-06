@@ -1,10 +1,1 @@
-{
-  "internalId": 530719314,
-  "name": "Enchanter Survey: Western Skyrim",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366268
-  ]
-}
+{"internalId":530719314,"name":"Enchanter Survey: Western Skyrim","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1366268]}

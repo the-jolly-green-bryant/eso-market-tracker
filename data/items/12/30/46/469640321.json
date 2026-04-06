@@ -1,13 +1,1 @@
-{
-  "internalId": 469640321,
-  "name": "Edwyge's Coven Gown",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_robe_d.png",
-  "bindType": -1,
-  "knownIds": [
-    459789,
-    611479,
-    459789,
-    611479
-  ]
-}
+{"internalId":469640321,"name":"Edwyge's Coven Gown","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_robe_d.png","bindType":-1,"knownIds":[459789,611479,459789,611479]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2252362113,
-  "name": "Cyrodilic Boudoir Etching",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_nauticalwaystone.png",
-  "bindType": -1,
-  "knownIds": [
-    1351050
-  ]
-}
+{"internalId":2252362113,"name":"Cyrodilic Boudoir Etching","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_nauticalwaystone.png","bindType":-1,"knownIds":[1351050]}

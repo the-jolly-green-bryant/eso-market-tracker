@@ -1,10 +1,1 @@
-{
-  "internalId": 3894535518,
-  "name": "Bound Style Page: Opal Velidreth Mask",
-  "description": "Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": 3,
-  "knownIds": [
-    190110
-  ]
-}
+{"internalId":3894535518,"name":"Bound Style Page: Opal Velidreth Mask","description":"Grants an Outfit Style Collectible. Once used, the Outfit Style is available to all characters on your account. Outfit Styles can be used at an Outfit Station to customize your appearance.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":3,"knownIds":[190110]}

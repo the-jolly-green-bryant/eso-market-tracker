@@ -1,10 +1,1 @@
-{
-  "internalId": 2392428094,
-  "name": "Macabre Vintage Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hsword.png",
-  "bindType": 2,
-  "knownIds": [
-    205202
-  ]
-}
+{"internalId":2392428094,"name":"Macabre Vintage Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_shardknight_2hsword.png","bindType":2,"knownIds":[205202]}

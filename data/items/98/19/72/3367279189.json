@@ -1,10 +1,1 @@
-{
-  "internalId": 3367279189,
-  "name": "Yew Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_shield_c.png",
-  "bindType": 2,
-  "knownIds": [
-    212262
-  ]
-}
+{"internalId":3367279189,"name":"Yew Shield","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150769]}

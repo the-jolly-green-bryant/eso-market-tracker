@@ -1,10 +1,1 @@
-{
-  "internalId": 3831751359,
-  "name": "Sword of the Sergeant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89767
-  ]
-}
+{"internalId":3831751359,"name":"Sword of the Sergeant","description":"","icon":"data/images/d_/dr/ow/gear_breton_1hsword_d.png","bindType":2,"knownIds":[89767]}

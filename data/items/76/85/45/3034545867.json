@@ -1,10 +1,1 @@
-{
-  "internalId": 3034545867,
-  "name": "Praxis: High Elf Streetlight, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting4.png",
-  "bindType": -1,
-  "knownIds": [
-    118954
-  ]
-}
+{"internalId":3034545867,"name":"Praxis: High Elf Streetlight, Stone","description":"","icon":"data/images/4g/ni/tn/crafting_planfurniture_enchanting4.png","bindType":-1,"knownIds":[118954]}

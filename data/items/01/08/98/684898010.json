@@ -1,10 +1,1 @@
-{
-  "internalId": 684898010,
-  "name": "Toothsayer Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909741
-  ]
-}
+{"internalId":684898010,"name":"Toothsayer Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[909741]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2771781076,
-  "name": "Daedric Sarcophagus, Metal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_fur_deadlandssarcophagus001.png",
-  "bindType": -1,
-  "knownIds": [
-    198096
-  ]
-}
+{"internalId":2771781076,"name":"Daedric Sarcophagus, Metal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_fur_deadlandssarcophagus001.png","bindType":-1,"knownIds":[198096]}

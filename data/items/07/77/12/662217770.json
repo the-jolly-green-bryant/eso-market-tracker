@@ -1,10 +1,1 @@
-{
-  "internalId": 662217770,
-  "name": "Pebbles, Stacked Weathered",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_gry_deshaansmall007.png",
-  "bindType": -1,
-  "knownIds": [
-    120564
-  ]
-}
+{"internalId":662217770,"name":"Pebbles, Stacked Weathered","description":"This is a standard house item.","icon":"data/images/70/0l/la/housing_rok_gry_deshaansmall007.png","bindType":-1,"knownIds":[120564]}

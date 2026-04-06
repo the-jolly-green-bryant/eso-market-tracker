@@ -1,10 +1,1 @@
-{
-  "internalId": 3250678043,
-  "name": "Snake Gland",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821338
-  ]
-}
+{"internalId":3250678043,"name":"Snake Gland","description":"","icon":null,"bindType":-1,"knownIds":[821338]}

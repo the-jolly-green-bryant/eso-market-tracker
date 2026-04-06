@@ -1,10 +1,1 @@
-{
-  "internalId": 589358658,
-  "name": "Crafting Motif 104: Ancient Daedric Style",
-  "description": "Use to learn the Ancient Daedric crafting style. Also teaches the equivalent Ancient Daedric Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    171858
-  ]
-}
+{"internalId":589358658,"name":"Crafting Motif 104: Ancient Daedric Style","description":"Use to learn the Ancient Daedric crafting style. Also teaches the equivalent Ancient Daedric Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[171858]}

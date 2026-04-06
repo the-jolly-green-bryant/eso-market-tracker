@@ -1,10 +1,1 @@
-{
-  "internalId": 1631249377,
-  "name": "Dawnwood Fence, Short",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosfence001.png",
-  "bindType": -1,
-  "knownIds": [
-    212393
-  ]
-}
+{"internalId":1631249377,"name":"Dawnwood Fence, Short","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosfence001.png","bindType":-1,"knownIds":[212393]}

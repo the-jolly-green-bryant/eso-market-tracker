@@ -1,10 +1,1 @@
-{
-  "internalId": 395432376,
-  "name": "Design: Leyawiin Pie, Octopus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    176015
-  ]
-}
+{"internalId":395432376,"name":"Design: Leyawiin Pie, Octopus","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[176015]}

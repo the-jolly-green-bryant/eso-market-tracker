@@ -1,10 +1,1 @@
-{
-  "internalId": 1069227051,
-  "name": "Crafting Motif 83: Pyre Watch Boots",
-  "description": "Use to learn how to make Pyre Watch Boots. Also teaches the equivalent Pyre Watch outfit styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    158294
-  ]
-}
+{"internalId":1069227051,"name":"Crafting Motif 83: Pyre Watch Boots","description":"Use to learn how to make Pyre Watch Boots. Also teaches the equivalent Pyre Watch outfit styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[158294]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2588164634,
-  "name": "Worm Cult Tongs, Metal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_tongs001.png",
-  "bindType": -1,
-  "knownIds": [
-    223161
-  ]
-}
+{"internalId":2588164634,"name":"Worm Cult Tongs, Metal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_inc_tongs001.png","bindType":-1,"knownIds":[223161]}

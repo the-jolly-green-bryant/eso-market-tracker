@@ -1,15 +1,1 @@
-{
-  "internalId": 1252497904,
-  "name": "Unmarked Sack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1148223,
-    1327311,
-    1518797,
-    1148223,
-    1327311,
-    1518797
-  ]
-}
+{"internalId":1252497904,"name":"Unmarked Sack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_sack_001.png","bindType":-1,"knownIds":[1148223,1327311,1518797,1148223,1327311,1518797]}

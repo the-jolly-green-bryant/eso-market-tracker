@@ -1,10 +1,1 @@
-{
-  "internalId": 2899645072,
-  "name": "Breton Bubble-and-Squeak",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cooking_open_top_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    57148
-  ]
-}
+{"internalId":2899645072,"name":"Breton Bubble-and-Squeak","description":"","icon":"data/images/ei/p_/po/crafting_cooking_open_top_pie.png","bindType":-1,"knownIds":[57148]}

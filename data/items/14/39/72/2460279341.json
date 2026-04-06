@@ -1,10 +1,1 @@
-{
-  "internalId": 2460279341,
-  "name": "Cartographer's Rucksack",
-  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Backpack collectible fragment.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_backpack.png",
-  "bindType": -1,
-  "knownIds": [
-    166706
-  ]
-}
+{"internalId":2460279341,"name":"Cartographer's Rucksack","description":"Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Backpack collectible fragment.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_backpack.png","bindType":-1,"knownIds":[166706]}

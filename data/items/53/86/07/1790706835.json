@@ -1,10 +1,1 @@
-{
-  "internalId": 1790706835,
-  "name": "Warhammer of Elf Bane",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44030
-  ]
-}
+{"internalId":1790706835,"name":"Warhammer of Elf Bane","description":"","icon":"data/images/d_/re/mm/gear_argonian_2hhammer_d.png","bindType":2,"knownIds":[44030]}

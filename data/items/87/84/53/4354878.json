@@ -1,10 +1,1 @@
-{
-  "internalId": 4354878,
-  "name": "Dwarven Strainer, Kitchen",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markkitchenstrainerlarge001.png",
-  "bindType": -1,
-  "knownIds": [
-    171361
-  ]
-}
+{"internalId":4354878,"name":"Dwarven Strainer, Kitchen","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_markkitchenstrainerlarge001.png","bindType":-1,"knownIds":[171361]}

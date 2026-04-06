@@ -1,10 +1,1 @@
-{
-  "internalId": 2039101967,
-  "name": "Magnus Cult Wicker Effigy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png",
-  "bindType": -1,
-  "knownIds": [
-    505821
-  ]
-}
+{"internalId":2039101967,"name":"Magnus Cult Wicker Effigy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_stormhaven_002.png","bindType":-1,"knownIds":[505821]}

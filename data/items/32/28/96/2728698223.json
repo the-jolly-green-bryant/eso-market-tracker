@@ -1,10 +1,1 @@
-{
-  "internalId": 2728698223,
-  "name": "Jarlsbane",
-  "description": "A finely carved tablestrings, bearing Vivec's seal and tuned to the traditional Dunmeri scale. Bring this to the Bards College in Solitude, in Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_vrd_inc_musicalinstrumenttablestrings001.png",
-  "bindType": 3,
-  "knownIds": [
-    156804
-  ]
-}
+{"internalId":2728698223,"name":"Jarlsbane","description":"A finely carved tablestrings, bearing Vivec's seal and tuned to the traditional Dunmeri scale. Bring this to the Bards College in Solitude, in Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_vrd_inc_musicalinstrumenttablestrings001.png","bindType":3,"knownIds":[156804]}

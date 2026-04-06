@@ -1,10 +1,1 @@
-{
-  "internalId": 1921483472,
-  "name": "Diagram: Necrom Sconce, Brass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    198547
-  ]
-}
+{"internalId":1921483472,"name":"Diagram: Necrom Sconce, Brass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[198547]}

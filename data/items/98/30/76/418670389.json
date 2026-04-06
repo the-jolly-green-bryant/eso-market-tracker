@@ -1,10 +1,1 @@
-{
-  "internalId": 418670389,
-  "name": "Dawnwood Orange Lights, Sprouted Arch",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_bostreearch004.png",
-  "bindType": -1,
-  "knownIds": [
-    211397
-  ]
-}
+{"internalId":418670389,"name":"Dawnwood Orange Lights, Sprouted Arch","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_bostreearch004.png","bindType":-1,"knownIds":[211397]}

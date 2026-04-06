@@ -1,13 +1,1 @@
-{
-  "internalId": 3275710756,
-  "name": "Colovian Uniform",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    422631,
-    1501256,
-    422631,
-    1501256
-  ]
-}
+{"internalId":3275710756,"name":"Colovian Uniform","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[422631,1501256,422631,1501256]}

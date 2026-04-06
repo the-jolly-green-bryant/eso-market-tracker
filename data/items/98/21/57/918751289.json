@@ -1,10 +1,1 @@
-{
-  "internalId": 918751289,
-  "name": "Dauntless Combatant Jewelry",
-  "description": "A Crafted Armor set constructed in Cyrodiil.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182485
-  ]
-}
+{"internalId":918751289,"name":"Dauntless Combatant Jewelry","description":"A Crafted Armor set constructed in Cyrodiil.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182485]}

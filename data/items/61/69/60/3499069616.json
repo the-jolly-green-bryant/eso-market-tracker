@@ -1,10 +1,1 @@
-{
-  "internalId": 3499069616,
-  "name": "Maul of a Mother's Sorrow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_2hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    97391
-  ]
-}
+{"internalId":3499069616,"name":"Maul of a Mother's Sorrow","description":"","icon":"data/images/d_/re/mm/gear_argonian_2hhammer_d.png","bindType":2,"knownIds":[97391]}

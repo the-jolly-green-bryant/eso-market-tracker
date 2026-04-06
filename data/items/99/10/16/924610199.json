@@ -1,13 +1,1 @@
-{
-  "internalId": 924610199,
-  "name": "Perfected Null Arca Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hhammer_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1733207,
-    1764847,
-    1733207,
-    1764847
-  ]
-}
+{"internalId":924610199,"name":"Perfected Null Arca Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hhammer_a.png","bindType":-1,"knownIds":[1733207,1764847,1733207,1764847]}

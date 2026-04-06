@@ -1,10 +1,1 @@
-{
-  "internalId": 363140700,
-  "name": "Rumare Slaughterfish Pie Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    384443
-  ]
-}
+{"internalId":363140700,"name":"Rumare Slaughterfish Pie Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[384443]}

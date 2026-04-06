@@ -1,10 +1,1 @@
-{
-  "internalId": 2058294034,
-  "name": "Hearts Week Garland, Curved Floral",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekgarland005.png",
-  "bindType": -1,
-  "knownIds": [
-    223848
-  ]
-}
+{"internalId":2058294034,"name":"Hearts Week Garland, Curved Floral","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekgarland005.png","bindType":-1,"knownIds":[223848]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 54453215,
-  "name": "Stained Glass of Julianos",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowjulianos001.png",
-  "bindType": -1,
-  "knownIds": [
-    181484
-  ]
-}
+{"internalId":54453215,"name":"Stained Glass of Julianos","description":"This is a huge house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_nib_str_hscathedralwindowjulianos001.png","bindType":-1,"knownIds":[181484]}

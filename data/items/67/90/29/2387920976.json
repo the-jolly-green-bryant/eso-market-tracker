@@ -1,10 +1,1 @@
-{
-  "internalId": 2387920976,
-  "name": "Chain of the Hallowed",
-  "description": "Each link is like forged moonlight, lustrous in light, dim and shadowed elsewise.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_neck_a.png",
-  "bindType": 2,
-  "knownIds": [
-    10930
-  ]
-}
+{"internalId":2387920976,"name":"Chain of the Hallowed","description":"Each link is like forged moonlight, lustrous in light, dim and shadowed elsewise.","icon":"data/images/a_/kc/en/gear_imperial_neck_a.png","bindType":2,"knownIds":[10930]}

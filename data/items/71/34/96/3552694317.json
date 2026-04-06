@@ -1,16 +1,1 @@
-{
-  "internalId": 3552694317,
-  "name": "Battle Axe of the Pestilent Host",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1526879,
-    1531634,
-    1588445,
-    1593948,
-    1616028,
-    1645448,
-    1661505
-  ]
-}
+{"internalId":3552694317,"name":"Battle Axe of the Pestilent Host","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_reachv2_2haxe_a.png","bindType":-1,"knownIds":[1526879,1531634,1588445,1593948,1616028,1645448,1661505]}

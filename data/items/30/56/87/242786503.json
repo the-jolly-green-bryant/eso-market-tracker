@@ -1,10 +1,1 @@
-{
-  "internalId": 242786503,
-  "name": "Farstrider Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211903
-  ]
-}
+{"internalId":242786503,"name":"Farstrider Bow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_bow_a.png","bindType":2,"knownIds":[211903]}

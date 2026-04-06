@@ -1,13 +1,1 @@
-{
-  "internalId": 1171009965,
-  "name": "Black Gem Monstrosity's Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765510,
-    1770612,
-    1765510,
-    1770612
-  ]
-}
+{"internalId":1171009965,"name":"Black Gem Monstrosity's Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgematronach_head_a.png","bindType":-1,"knownIds":[1765510,1770612,1765510,1770612]}

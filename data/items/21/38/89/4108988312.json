@@ -1,10 +1,1 @@
-{
-  "internalId": 4108988312,
-  "name": "Spare Serpentine Belt",
-  "description": "This tough belt is made from a rubbery strap leftover from Terari's exchange machine.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_heavy_waist_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133237
-  ]
-}
+{"internalId":4108988312,"name":"Spare Serpentine Belt","description":"This tough belt is made from a rubbery strap leftover from Terari's exchange machine.","icon":"data/images/a_/ts/ia/gear_apostle_heavy_waist_a.png","bindType":2,"knownIds":[133237]}

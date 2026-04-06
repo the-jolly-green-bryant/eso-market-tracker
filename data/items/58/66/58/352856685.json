@@ -1,10 +1,1 @@
-{
-  "internalId": 352856685,
-  "name": "Wayrest Medal of Bravery",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png",
-  "bindType": -1,
-  "knownIds": [
-    840511
-  ]
-}
+{"internalId":352856685,"name":"Wayrest Medal of Bravery","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_token_001.png","bindType":-1,"knownIds":[840511]}

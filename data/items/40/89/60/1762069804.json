@@ -1,13 +1,1 @@
-{
-  "internalId": 1762069804,
-  "name": "Tools of the Trapmaster Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765632,
-    1771185,
-    1765632,
-    1771185
-  ]
-}
+{"internalId":1762069804,"name":"Tools of the Trapmaster Arm Cops","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardianmed_shoulders_a.png","bindType":-1,"knownIds":[1765632,1771185,1765632,1771185]}

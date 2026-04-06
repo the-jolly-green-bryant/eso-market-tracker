@@ -1,10 +1,1 @@
-{
-  "internalId": 3845802220,
-  "name": "Blueprint: High Isle Bench, Sturdy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    188159
-  ]
-}
+{"internalId":3845802220,"name":"Blueprint: High Isle Bench, Sturdy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[188159]}

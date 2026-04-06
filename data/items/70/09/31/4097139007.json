@@ -1,10 +1,1 @@
-{
-  "internalId": 4097139007,
-  "name": "New Life Cookies and Ale",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_newlifecookieplatter001.png",
-  "bindType": -1,
-  "knownIds": [
-    146056
-  ]
-}
+{"internalId":4097139007,"name":"New Life Cookies and Ale","description":"This is a small house item.","icon":"data/images/10/0r/et/housing_uni_inc_newlifecookieplatter001.png","bindType":-1,"knownIds":[146056]}

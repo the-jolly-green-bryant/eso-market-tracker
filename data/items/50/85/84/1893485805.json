@@ -1,10 +1,1 @@
-{
-  "internalId": 1893485805,
-  "name": "White Rose Warden's Knout Brooch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    809987
-  ]
-}
+{"internalId":1893485805,"name":"White Rose Warden's Knout Brooch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_symbol_001.png","bindType":-1,"knownIds":[809987]}

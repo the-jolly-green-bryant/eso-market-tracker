@@ -1,10 +1,1 @@
-{
-  "internalId": 2444240856,
-  "name": "Stone Garden Tank, Vacant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_duc_nrcontainereleccombined001.png",
-  "bindType": -1,
-  "knownIds": [
-    171397
-  ]
-}
+{"internalId":2444240856,"name":"Stone Garden Tank, Vacant","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_duc_nrcontainereleccombined001.png","bindType":-1,"knownIds":[171397]}

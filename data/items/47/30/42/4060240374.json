@@ -1,10 +1,1 @@
-{
-  "internalId": 4060240374,
-  "name": "Dead-Water Tackle Basket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1279593
-  ]
-}
+{"internalId":4060240374,"name":"Dead-Water Tackle Basket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png","bindType":-1,"knownIds":[1279593]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3579971875,
-  "name": "Night's Den Window Grate, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_str_housingfarnightclubgrate001.png",
-  "bindType": -1,
-  "knownIds": [
-    224105
-  ]
-}
+{"internalId":3579971875,"name":"Night's Den Window Grate, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_str_housingfarnightclubgrate001.png","bindType":-1,"knownIds":[224105]}

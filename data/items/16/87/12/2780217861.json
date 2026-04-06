@@ -1,10 +1,1 @@
-{
-  "internalId": 2780217861,
-  "name": "Pattern: Druidic Pillow, Woven",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    192548
-  ]
-}
+{"internalId":2780217861,"name":"Pattern: Druidic Pillow, Woven","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[192548]}

@@ -1,15 +1,1 @@
-{
-  "internalId": 1821440015,
-  "name": "Xoryn's Perfected Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1732949,
-    1744459,
-    1750742,
-    1732949,
-    1744459,
-    1750742
-  ]
-}
+{"internalId":1821440015,"name":"Xoryn's Perfected Sword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_lucentguardian_1hsword_a.png","bindType":-1,"knownIds":[1732949,1744459,1750742,1732949,1744459,1750742]}

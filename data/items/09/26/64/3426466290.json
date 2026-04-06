@@ -1,10 +1,1 @@
-{
-  "internalId": 3426466290,
-  "name": "Z'Maja's Amulet Chain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_talisman.png",
-  "bindType": -1,
-  "knownIds": [
-    1386561
-  ]
-}
+{"internalId":3426466290,"name":"Z'Maja's Amulet Chain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_talisman.png","bindType":-1,"knownIds":[1386561]}

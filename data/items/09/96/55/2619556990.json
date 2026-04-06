@@ -1,10 +1,1 @@
-{
-  "internalId": 2619556990,
-  "name": "Pattern: Khajiit Banner, Claw",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_2.png",
-  "bindType": -1,
-  "knownIds": [
-    116095
-  ]
-}
+{"internalId":2619556990,"name":"Pattern: Khajiit Banner, Claw","description":"","icon":"data/images/2_/re/ih/crafting_planfurniture_clothier_2.png","bindType":-1,"knownIds":[116095]}

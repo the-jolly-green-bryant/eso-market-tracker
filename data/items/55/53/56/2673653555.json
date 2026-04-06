@@ -1,13 +1,1 @@
-{
-  "internalId": 2673653555,
-  "name": "Relequen's Perfected Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_axe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1551693,
-    1724271,
-    1551693,
-    1724271
-  ]
-}
+{"internalId":2673653555,"name":"Relequen's Perfected Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_welkynar_axe_001.png","bindType":-1,"knownIds":[1551693,1724271,1551693,1724271]}

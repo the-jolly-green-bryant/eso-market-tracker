@@ -1,10 +1,1 @@
-{
-  "internalId": 2595173231,
-  "name": "Systres' Greaves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_hvy_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186404
-  ]
-}
+{"internalId":2595173231,"name":"Systres' Greaves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_systresguard_hvy_legs_a.png","bindType":2,"knownIds":[186404]}

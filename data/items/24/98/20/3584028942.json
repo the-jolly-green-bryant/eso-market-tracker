@@ -1,10 +1,1 @@
-{
-  "internalId": 3584028942,
-  "name": "Ledger of Pet Adoption II",
-  "description": "An extensive ledger that awards ownership of many collectible Pets.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png",
-  "bindType": 3,
-  "knownIds": [
-    194477
-  ]
-}
+{"internalId":3584028942,"name":"Ledger of Pet Adoption II","description":"An extensive ledger that awards ownership of many collectible Pets.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_paper001.png","bindType":3,"knownIds":[194477]}

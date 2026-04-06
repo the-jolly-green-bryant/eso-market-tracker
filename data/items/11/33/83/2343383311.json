@@ -1,10 +1,1 @@
-{
-  "internalId": 2343383311,
-  "name": "Deadlands Throne",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedthrone001.png",
-  "bindType": -1,
-  "knownIds": [
-    184096
-  ]
-}
+{"internalId":2343383311,"name":"Deadlands Throne","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_dedthrone001.png","bindType":-1,"knownIds":[184096]}

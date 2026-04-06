@@ -1,10 +1,1 @@
-{
-  "internalId": 3916041152,
-  "name": "Clockwork Crate, Large Open",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_con_cargocratelg002.png",
-  "bindType": -1,
-  "knownIds": [
-    134322
-  ]
-}
+{"internalId":3916041152,"name":"Clockwork Crate, Large Open","description":"This is a standard house item.","icon":"data/images/20/0g/le/housing_cwc_con_cargocratelg002.png","bindType":-1,"knownIds":[134322]}

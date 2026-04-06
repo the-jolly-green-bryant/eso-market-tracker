@@ -1,10 +1,1 @@
-{
-  "internalId": 1905500268,
-  "name": "House Dorell Cuirass of the Vampire's Cloak",
-  "description": "Awarded for service to Northpoint above and beyond the call of duty, this armor bears the crest of House Dorell.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    7317
-  ]
-}
+{"internalId":1905500268,"name":"House Dorell Cuirass of the Vampire's Cloak","description":"Awarded for service to Northpoint above and beyond the call of duty, this armor bears the crest of House Dorell.","icon":"data/images/d_/ts/eh/gear_orc_heavy_chest_d.png","bindType":2,"knownIds":[7317]}

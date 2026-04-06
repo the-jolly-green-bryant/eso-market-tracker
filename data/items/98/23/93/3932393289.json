@@ -1,10 +1,1 @@
-{
-  "internalId": 3932393289,
-  "name": "Heroic Unity Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1754432
-  ]
-}
+{"internalId":3932393289,"name":"Heroic Unity Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_militantmonk_staff_a.png","bindType":-1,"knownIds":[1754432]}

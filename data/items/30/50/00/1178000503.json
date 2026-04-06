@@ -1,10 +1,1 @@
-{
-  "internalId": 1178000503,
-  "name": "Pact's Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_light_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54461
-  ]
-}
+{"internalId":1178000503,"name":"Pact's Epaulets","description":"","icon":"data/images/a_/sr/ed/gear_akaviri_light_shoulders_a.png","bindType":2,"knownIds":[54461]}

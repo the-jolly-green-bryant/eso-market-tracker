@@ -1,10 +1,1 @@
-{
-  "internalId": 2205408519,
-  "name": "Design: Nord Amphora, Glazed",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    116170
-  ]
-}
+{"internalId":2205408519,"name":"Design: Nord Amphora, Glazed","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[116170]}

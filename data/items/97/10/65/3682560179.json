@@ -1,15 +1,1 @@
-{
-  "internalId": 3682560179,
-  "name": "Sanguine's Goblet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_wine_002.png",
-  "bindType": -1,
-  "knownIds": [
-    507186,
-    806493,
-    803631,
-    507186,
-    806493,
-    803631
-  ]
-}
+{"internalId":3682560179,"name":"Sanguine's Goblet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_wine_002.png","bindType":-1,"knownIds":[507186,806493,803631,507186,806493,803631]}

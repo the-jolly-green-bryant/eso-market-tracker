@@ -1,10 +1,1 @@
-{
-  "internalId": 2990230720,
-  "name": "Shoes of Adroitness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    59945
-  ]
-}
+{"internalId":2990230720,"name":"Shoes of Adroitness","description":"","icon":"data/images/d_/te/ef/gear_redguard_light_feet_d.png","bindType":2,"knownIds":[59945]}

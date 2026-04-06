@@ -1,10 +1,1 @@
-{
-  "internalId": 806132915,
-  "name": "Battle Axe of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_2haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79154
-  ]
-}
+{"internalId":806132915,"name":"Battle Axe of Imperial Physique","description":"","icon":"data/images/a_/ex/ah/gear_ooth_2haxe_a.png","bindType":2,"knownIds":[79154]}

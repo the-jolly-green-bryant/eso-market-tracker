@@ -1,10 +1,1 @@
-{
-  "internalId": 736313755,
-  "name": "Leyawiin Carpet, Large Carmine Octad",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyrughi005.png",
-  "bindType": -1,
-  "knownIds": [
-    175610
-  ]
-}
+{"internalId":736313755,"name":"Leyawiin Carpet, Large Carmine Octad","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leyrughi005.png","bindType":-1,"knownIds":[175610]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 12057765,
-  "name": "Leyawiin Gate, Wooden Garden",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleywallmedgatedoor001.png",
-  "bindType": -1,
-  "knownIds": [
-    181521
-  ]
-}
+{"internalId":12057765,"name":"Leyawiin Gate, Wooden Garden","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_waf_housingleywallmedgatedoor001.png","bindType":-1,"knownIds":[181521]}

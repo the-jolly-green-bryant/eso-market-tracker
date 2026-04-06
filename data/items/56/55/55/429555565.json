@@ -1,10 +1,1 @@
-{
-  "internalId": 429555565,
-  "name": "Rocks, Smooth Set",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_tan_greenshadesmall008.png",
-  "bindType": -1,
-  "knownIds": [
-    120590
-  ]
-}
+{"internalId":429555565,"name":"Rocks, Smooth Set","description":"This is a standard house item.","icon":"data/images/80/0l/la/housing_rok_tan_greenshadesmall008.png","bindType":-1,"knownIds":[120590]}

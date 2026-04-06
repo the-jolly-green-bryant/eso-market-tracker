@@ -1,10 +1,1 @@
-{
-  "internalId": 3018583568,
-  "name": "Khajiit Signpost, Fortified",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_lsb_post001.png",
-  "bindType": -1,
-  "knownIds": [
-    115654
-  ]
-}
+{"internalId":3018583568,"name":"Khajiit Signpost, Fortified","description":"This is a large house item.","icon":"data/images/10/0t/so/housing_kha_lsb_post001.png","bindType":-1,"knownIds":[115654]}

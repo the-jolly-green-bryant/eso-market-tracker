@@ -1,10 +1,1 @@
-{
-  "internalId": 3928303504,
-  "name": "Scrap of Minstrel's Cloth",
-  "description": "A festive fragment of fun. Combining 10 scraps awards Jester's Daedroth Suit.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_void.png",
-  "bindType": -1,
-  "knownIds": [
-    194413
-  ]
-}
+{"internalId":3928303504,"name":"Scrap of Minstrel's Cloth","description":"A festive fragment of fun. Combining 10 scraps awards Jester's Daedroth Suit.","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_void.png","bindType":-1,"knownIds":[194413]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1381363153,
-  "name": "The Legendary Scourge",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png",
-  "bindType": -1,
-  "knownIds": [
-    1140208
-  ]
-}
+{"internalId":1381363153,"name":"The Legendary Scourge","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed006.png","bindType":-1,"knownIds":[1140208]}

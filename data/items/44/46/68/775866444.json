@@ -1,10 +1,1 @@
-{
-  "internalId": 775866444,
-  "name": "Petty Enchantment of Health Regen",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_runecrafter_logo.png",
-  "bindType": 2,
-  "knownIds": [
-    1078
-  ]
-}
+{"internalId":775866444,"name":"Petty Enchantment of Health Regen","description":"","icon":"data/images/og/ol/_r/crafting_runecrafter_logo.png","bindType":2,"knownIds":[1078]}

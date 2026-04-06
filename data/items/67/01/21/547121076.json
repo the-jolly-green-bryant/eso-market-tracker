@@ -1,10 +1,1 @@
-{
-  "internalId": 547121076,
-  "name": "Colovian Chandelier, Metal",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_chandeliertorch001.png",
-  "bindType": -1,
-  "knownIds": [
-    204683
-  ]
-}
+{"internalId":547121076,"name":"Colovian Chandelier, Metal","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_lsb_chandeliertorch001.png","bindType":-1,"knownIds":[204683]}

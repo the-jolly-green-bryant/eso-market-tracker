@@ -1,10 +1,1 @@
-{
-  "internalId": 1442854736,
-  "name": "Cuirass of Syvarra's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancientyokudan_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    199839
-  ]
-}
+{"internalId":1442854736,"name":"Cuirass of Syvarra's Scales","description":"","icon":"data/images/a_/ts/eh/gear_ancientyokudan_heavy_chest_a.png","bindType":2,"knownIds":[72957]}

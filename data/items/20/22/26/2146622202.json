@@ -1,10 +1,1 @@
-{
-  "internalId": 2146622202,
-  "name": "Defiler's Sword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_hlaalu_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    123127
-  ]
-}
+{"internalId":2146622202,"name":"Defiler's Sword","description":"","icon":"data/images/a_/dr/ow/gear_hlaalu_1hsword_a.png","bindType":2,"knownIds":[123127]}

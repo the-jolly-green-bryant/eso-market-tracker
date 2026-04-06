@@ -1,10 +1,1 @@
-{
-  "internalId": 3054478068,
-  "name": "Design: Indoril Candelabra, Shrine Chamber",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    127080
-  ]
-}
+{"internalId":3054478068,"name":"Design: Indoril Candelabra, Shrine Chamber","description":"","icon":"data/images/4g/ni/no/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[127080]}

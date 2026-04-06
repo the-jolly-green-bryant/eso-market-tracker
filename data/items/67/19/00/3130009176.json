@@ -1,10 +1,1 @@
-{
-  "internalId": 3130009176,
-  "name": "Orcish Shelves, Braced",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_fur_wtgdressershelf001.png",
-  "bindType": -1,
-  "knownIds": [
-    116360
-  ]
-}
+{"internalId":3130009176,"name":"Orcish Shelves, Braced","description":"This is a standard house item.","icon":"data/images/10/0f/le/housing_orc_fur_wtgdressershelf001.png","bindType":-1,"knownIds":[116360]}

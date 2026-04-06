@@ -1,10 +1,1 @@
-{
-  "internalId": 3965390761,
-  "name": "Epaulets of Vicious Death",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shoulders_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199627
-  ]
-}
+{"internalId":3965390761,"name":"Epaulets of Vicious Death","description":"","icon":"data/images/a_/sr/ed/gear_abahswatch_light_shoulders_a.png","bindType":2,"knownIds":[79830]}

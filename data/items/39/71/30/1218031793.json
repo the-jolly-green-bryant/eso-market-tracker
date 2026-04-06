@@ -1,10 +1,1 @@
-{
-  "internalId": 1218031793,
-  "name": "Bracers of the Lich",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_lich_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54344
-  ]
-}
+{"internalId":1218031793,"name":"Bracers of the Lich","description":"","icon":"data/images/a_/sd/na/gear_lich_hands_a.png","bindType":2,"knownIds":[54344]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 890777102,
-  "name": "Recipe: Sweet Skeever Gumbo",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56944
-  ]
-}
+{"internalId":890777102,"name":"Recipe: Sweet Skeever Gumbo","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56944]}

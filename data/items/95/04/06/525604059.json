@@ -1,10 +1,1 @@
-{
-  "internalId": 525604059,
-  "name": "Formula: Lucent Crystals, Cluster",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png",
-  "bindType": -1,
-  "knownIds": [
-    211456
-  ]
-}
+{"internalId":525604059,"name":"Formula: Lucent Crystals, Cluster","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy2.png","bindType":-1,"knownIds":[211456]}

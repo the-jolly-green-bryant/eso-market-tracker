@@ -1,10 +1,1 @@
-{
-  "internalId": 1167296366,
-  "name": "Block, Carved Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varintcolumn2ndfloorblock001.png",
-  "bindType": -1,
-  "knownIds": [
-    118168
-  ]
-}
+{"internalId":1167296366,"name":"Block, Carved Stone","description":"This is a standard house item.","icon":"data/images/10/0k/co/housing_red_str_varintcolumn2ndfloorblock001.png","bindType":-1,"knownIds":[118168]}

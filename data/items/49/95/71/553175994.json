@@ -1,10 +1,1 @@
-{
-  "internalId": 553175994,
-  "name": "Zarukhair's Band",
-  "description": "Passed on by Erranza for burying her remains with her children outside White Rose Prison.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_imperial_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    7456
-  ]
-}
+{"internalId":553175994,"name":"Zarukhair's Band","description":"Passed on by Erranza for burying her remains with her children outside White Rose Prison.","icon":"data/images/a_/gn/ir/gear_imperial_ring_a.png","bindType":2,"knownIds":[7456]}

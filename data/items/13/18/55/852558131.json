@@ -1,10 +1,1 @@
-{
-  "internalId": 852558131,
-  "name": "Redguard Trunk, Garish",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldshortchest002.png",
-  "bindType": -1,
-  "knownIds": [
-    117904
-  ]
-}
+{"internalId":852558131,"name":"Redguard Trunk, Garish","description":"This is a standard house item.","icon":"data/images/20/0t/se/housing_red_inc_vargoldshortchest002.png","bindType":-1,"knownIds":[117904]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2738164952,
-  "name": "Cold-Moon Inn Dice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png",
-  "bindType": -1,
-  "knownIds": [
-    509419
-  ]
-}
+{"internalId":2738164952,"name":"Cold-Moon Inn Dice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_dice_001.png","bindType":-1,"knownIds":[509419]}

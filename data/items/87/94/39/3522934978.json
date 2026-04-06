@@ -1,10 +1,1 @@
-{
-  "internalId": 3522934978,
-  "name": "The Ever-Filling Chalice",
-  "description": "Those who drink upon this chalice are cursed with an unquenchable thirst. Many have drowned upon its ever-filling waters. Bring this to the Vault of Moawita in Summerset.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_cup001.png",
-  "bindType": 3,
-  "knownIds": [
-    133622
-  ]
-}
+{"internalId":3522934978,"name":"The Ever-Filling Chalice","description":"Those who drink upon this chalice are cursed with an unquenchable thirst. Many have drowned upon its ever-filling waters. Bring this to the Vault of Moawita in Summerset.","icon":"data/images/10/0p/uc/housing_orc_inc_cup001.png","bindType":3,"knownIds":[133622]}

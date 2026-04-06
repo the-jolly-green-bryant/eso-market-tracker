@@ -1,10 +1,1 @@
-{
-  "internalId": 2281592854,
-  "name": "Bow of the Heartland",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_bow_d.png",
-  "bindType": 2,
-  "knownIds": [
-    88680
-  ]
-}
+{"internalId":2281592854,"name":"Bow of the Heartland","description":"","icon":"data/images/d_/wo/b_/gear_breton_bow_d.png","bindType":2,"knownIds":[88680]}

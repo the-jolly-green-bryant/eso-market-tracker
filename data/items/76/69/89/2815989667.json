@@ -1,10 +1,1 @@
-{
-  "internalId": 2815989667,
-  "name": "Direnni Water Jug",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240689
-  ]
-}
+{"internalId":2815989667,"name":"Direnni Water Jug","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[1240689]}

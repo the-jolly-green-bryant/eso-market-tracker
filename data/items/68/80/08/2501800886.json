@@ -1,10 +1,1 @@
-{
-  "internalId": 2501800886,
-  "name": "Leyawiin Corncobs, Triple",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodcorn001.png",
-  "bindType": -1,
-  "knownIds": [
-    175675
-  ]
-}
+{"internalId":2501800886,"name":"Leyawiin Corncobs, Triple","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_leykitchenfoodcorn001.png","bindType":-1,"knownIds":[175675]}

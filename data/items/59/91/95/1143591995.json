@@ -1,10 +1,1 @@
-{
-  "internalId": 1143591995,
-  "name": "Amber Plasm",
-  "description": "A Light Armor set found in Ruins of Mazzatun.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134222
-  ]
-}
+{"internalId":1143591995,"name":"Amber Plasm","description":"A Light Armor set found in Ruins of Mazzatun.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134222]}

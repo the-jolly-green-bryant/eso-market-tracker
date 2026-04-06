@@ -1,10 +1,1 @@
-{
-  "internalId": 2028308436,
-  "name": "Design: Fargrave Fish Pile, Marinated Trout",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    182997
-  ]
-}
+{"internalId":2028308436,"name":"Design: Fargrave Fish Pile, Marinated Trout","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[182997]}

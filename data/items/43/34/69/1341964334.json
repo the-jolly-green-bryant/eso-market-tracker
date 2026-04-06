@@ -1,10 +1,1 @@
-{
-  "internalId": 1341964334,
-  "name": "Elk Head, Wall Mount",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_inc_headelk001.png",
-  "bindType": -1,
-  "knownIds": [
-    118292
-  ]
-}
+{"internalId":1341964334,"name":"Elk Head, Wall Mount","description":"This is a standard house item.","icon":"data/images/10/0k/le/housing_orc_inc_headelk001.png","bindType":-1,"knownIds":[118292]}

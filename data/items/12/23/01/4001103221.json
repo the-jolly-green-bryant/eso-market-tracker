@@ -1,10 +1,1 @@
-{
-  "internalId": 4001103221,
-  "name": "Bookseller's Ink-Stained Trousers",
-  "description": "You helped the bookseller Nammadin after he was attacked on the road to Orsinium.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    71008
-  ]
-}
+{"internalId":4001103221,"name":"Bookseller's Ink-Stained Trousers","description":"You helped the bookseller Nammadin after he was attacked on the road to Orsinium.","icon":"data/images/d_/sg/el/gear_orc_light_legs_d.png","bindType":2,"knownIds":[71008]}

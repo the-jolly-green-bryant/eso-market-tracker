@@ -1,10 +1,1 @@
-{
-  "internalId": 1232817467,
-  "name": "Spriggan's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    100729
-  ]
-}
+{"internalId":1232817467,"name":"Spriggan's Axe","description":"","icon":"data/images/d_/ex/ah/gear_bosmer_1haxe_d.png","bindType":2,"knownIds":[100729]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3305255594,
-  "name": "Bow of the Worm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77853
-  ]
-}
+{"internalId":3305255594,"name":"Bow of the Worm","description":"","icon":"data/images/a_/wo/b_/gear_soulshriven_bow_a.png","bindType":2,"knownIds":[77853]}

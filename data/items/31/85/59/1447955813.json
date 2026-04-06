@@ -1,10 +1,1 @@
-{
-  "internalId": 1447955813,
-  "name": "Miniature Skooma Pipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1336608
-  ]
-}
+{"internalId":1447955813,"name":"Miniature Skooma Pipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pipe_001.png","bindType":-1,"knownIds":[1336608]}

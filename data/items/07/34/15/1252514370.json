@@ -1,10 +1,1 @@
-{
-  "internalId": 1252514370,
-  "name": "Miniature Crystal Wine Bottle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    552285
-  ]
-}
+{"internalId":1252514370,"name":"Miniature Crystal Wine Bottle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bottle_001.png","bindType":-1,"knownIds":[552285]}

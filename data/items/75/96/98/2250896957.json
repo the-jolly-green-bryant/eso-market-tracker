@@ -1,10 +1,1 @@
-{
-  "internalId": 2250896957,
-  "name": "Design: Fruit Bunch, Display",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png",
-  "bindType": -1,
-  "knownIds": [
-    217536
-  ]
-}
+{"internalId":2250896957,"name":"Design: Fruit Bunch, Display","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning4.png","bindType":-1,"knownIds":[217536]}

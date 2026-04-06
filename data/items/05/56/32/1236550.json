@@ -1,10 +1,1 @@
-{
-  "internalId": 1236550,
-  "name": "Yokudan Throne",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varyokudanthrone001.png",
-  "bindType": -1,
-  "knownIds": [
-    120860
-  ]
-}
+{"internalId":1236550,"name":"Yokudan Throne","description":"This is a large house item.","icon":"data/images/10/0e/no/housing_red_inc_varyokudanthrone001.png","bindType":-1,"knownIds":[120860]}

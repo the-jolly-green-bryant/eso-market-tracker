@@ -1,10 +1,1 @@
-{
-  "internalId": 263754564,
-  "name": "Crafting Motif 123: Kindred's Concord Dagger",
-  "description": "Use to learn how to make Kindred's Concord Daggers. Also teaches the equivalent Kindred's Concord Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    194546
-  ]
-}
+{"internalId":263754564,"name":"Crafting Motif 123: Kindred's Concord Dagger","description":"Use to learn how to make Kindred's Concord Daggers. Also teaches the equivalent Kindred's Concord Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[194546]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2503305344,
-  "name": "Battle Axe of the Night Mother",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56351
-  ]
-}
+{"internalId":2503305344,"name":"Battle Axe of the Night Mother","description":"","icon":"data/images/d_/ex/ah/gear_breton_2haxe_d.png","bindType":2,"knownIds":[56351]}

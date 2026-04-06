@@ -1,10 +1,1 @@
-{
-  "internalId": 1828885872,
-  "name": "Orc Rank 4 Art",
-  "description": "This box contains arms and armor with a refreshed style. Tell us what you think of them!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 3,
-  "knownIds": [
-    63611
-  ]
-}
+{"internalId":1828885872,"name":"Orc Rank 4 Art","description":"This box contains arms and armor with a refreshed style. Tell us what you think of them!","icon":"data/images/10/0_/re/quest_container_001.png","bindType":3,"knownIds":[63611]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3294021771,
-  "name": "Mirth Shard",
-  "description": "A festive fragment of fun. Combining 5 shards awards a Playful Prankster's Surprise Box memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cwc_lsb_lightcapsulenoglow001.png",
-  "bindType": -1,
-  "knownIds": [
-    171730
-  ]
-}
+{"internalId":3294021771,"name":"Mirth Shard","description":"A festive fragment of fun. Combining 5 shards awards a Playful Prankster's Surprise Box memento.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cwc_lsb_lightcapsulenoglow001.png","bindType":-1,"knownIds":[171730]}

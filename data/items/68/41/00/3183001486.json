@@ -1,10 +1,1 @@
-{
-  "internalId": 3183001486,
-  "name": "Redguard Sofa, Desert Flame",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_sofa001.png",
-  "bindType": -1,
-  "knownIds": [
-    117719
-  ]
-}
+{"internalId":3183001486,"name":"Redguard Sofa, Desert Flame","description":"This is a standard house item.","icon":"data/images/10/0a/fo/housing_red_fur_sofa001.png","bindType":-1,"knownIds":[117719]}

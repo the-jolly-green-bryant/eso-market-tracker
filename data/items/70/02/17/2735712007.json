@@ -1,10 +1,1 @@
-{
-  "internalId": 2735712007,
-  "name": "Alliance Battle Draught",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_010_type_003.png",
-  "bindType": -1,
-  "knownIds": [
-    71073
-  ]
-}
+{"internalId":2735712007,"name":"Alliance Battle Draught","description":"","icon":"data/images/30/0_/ep/consumable_potion_010_type_003.png","bindType":-1,"knownIds":[71073]}

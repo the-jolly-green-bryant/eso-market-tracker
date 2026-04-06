@@ -1,10 +1,1 @@
-{
-  "internalId": 1329896129,
-  "name": "Pattern: Orcish Sack, Flour",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_3.png",
-  "bindType": -1,
-  "knownIds": [
-    119038
-  ]
-}
+{"internalId":1329896129,"name":"Pattern: Orcish Sack, Flour","description":"","icon":"data/images/3_/re/ih/crafting_planfurniture_clothier_3.png","bindType":-1,"knownIds":[119038]}

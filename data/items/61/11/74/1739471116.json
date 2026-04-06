@@ -1,10 +1,1 @@
-{
-  "internalId": 1739471116,
-  "name": "Plant, Tall Mammoth Ear",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_bigleafyplant002.png",
-  "bindType": -1,
-  "knownIds": [
-    120612
-  ]
-}
+{"internalId":1739471116,"name":"Plant, Tall Mammoth Ear","description":"This is a large house item.","icon":"data/images/20/0t/na/housing_veg_bsh_bigleafyplant002.png","bindType":-1,"knownIds":[120612]}

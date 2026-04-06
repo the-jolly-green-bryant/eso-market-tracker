@@ -1,10 +1,1 @@
-{
-  "internalId": 762889234,
-  "name": "Fragment of the Blind",
-  "description": "Consume Fragment of the Blind, along with fragments of the Weald, the Fate-Eater, Aggression, the Storm, and the Maw, to unlock the Skill Stylist: Force Shock achievement and the Force Shock, Wildburn Skill Style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u44_gem_black.png",
-  "bindType": 3,
-  "knownIds": [
-    211317
-  ]
-}
+{"internalId":762889234,"name":"Fragment of the Blind","description":"Consume Fragment of the Blind, along with fragments of the Weald, the Fate-Eater, Aggression, the Storm, and the Maw, to unlock the Skill Stylist: Force Shock achievement and the Force Shock, Wildburn Skill Style.","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u44_gem_black.png","bindType":3,"knownIds":[211317]}

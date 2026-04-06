@@ -1,10 +1,1 @@
-{
-  "internalId": 480093300,
-  "name": "Torug's Pact Weapons",
-  "description": "A Crafted Armor set constructed in Grahtwood, Stormhaven, and Deshaan.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    182430
-  ]
-}
+{"internalId":480093300,"name":"Torug's Pact Weapons","description":"A Crafted Armor set constructed in Grahtwood, Stormhaven, and Deshaan.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[182430]}

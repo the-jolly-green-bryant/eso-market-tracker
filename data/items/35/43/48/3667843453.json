@@ -1,10 +1,1 @@
-{
-  "internalId": 3667843453,
-  "name": "Diagram: Orcish Brazier, Pedestal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing3.png",
-  "bindType": -1,
-  "knownIds": [
-    119068
-  ]
-}
+{"internalId":3667843453,"name":"Diagram: Orcish Brazier, Pedestal","description":"","icon":"data/images/3g/ni/ht/crafting_planfurniture_blacksmithing3.png","bindType":-1,"knownIds":[119068]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1748937373,
-  "name": "Akaviri Pork Fried Rice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_skillet_002.png",
-  "bindType": -1,
-  "knownIds": [
-    57633
-  ]
-}
+{"internalId":1748937373,"name":"Akaviri Pork Fried Rice","description":"","icon":"data/images/20/0_/te/crafting_skillet_002.png","bindType":-1,"knownIds":[57633]}

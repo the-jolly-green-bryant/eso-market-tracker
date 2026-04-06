@@ -1,10 +1,1 @@
-{
-  "internalId": 703801516,
-  "name": "High Isle Doorway, Plaster",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_str_str_inthouselowdoorwall001.png",
-  "bindType": -1,
-  "knownIds": [
-    189492
-  ]
-}
+{"internalId":703801516,"name":"High Isle Doorway, Plaster","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_str_str_inthouselowdoorwall001.png","bindType":-1,"knownIds":[189492]}

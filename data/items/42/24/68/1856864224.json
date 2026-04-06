@@ -1,10 +1,1 @@
-{
-  "internalId": 1856864224,
-  "name": "Pojode",
-  "description": "Pojode",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_runestones_031.png",
-  "bindType": -1,
-  "knownIds": [
-    45823
-  ]
-}
+{"internalId":1856864224,"name":"Pojode","description":"Pojode","icon":"data/images/13/0_/se/crafting_components_runestones_031.png","bindType":-1,"knownIds":[45823]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2905988776,
-  "name": "Style Page: Maw of the Infernal's Shoulder",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1394065
-  ]
-}
+{"internalId":2905988776,"name":"Style Page: Maw of the Infernal's Shoulder","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[1394065]}

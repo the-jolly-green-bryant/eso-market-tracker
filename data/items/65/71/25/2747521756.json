@@ -1,10 +1,1 @@
-{
-  "internalId": 2747521756,
-  "name": "Dark Elf Statue, Ordinator",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_exc_mediumstatue001.png",
-  "bindType": -1,
-  "knownIds": [
-    145484
-  ]
-}
+{"internalId":2747521756,"name":"Dark Elf Statue, Ordinator","description":"This is a large house item.","icon":"data/images/10/0e/ut/housing_dun_exc_mediumstatue001.png","bindType":-1,"knownIds":[145484]}

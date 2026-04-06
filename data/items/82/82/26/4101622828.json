@@ -1,15 +1,1 @@
-{
-  "internalId": 4101622828,
-  "name": "Ring of Embers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": -1,
-  "knownIds": [
-    579389,
-    868486,
-    926943,
-    579389,
-    868486,
-    926943
-  ]
-}
+{"internalId":4101622828,"name":"Ring of Embers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png","bindType":-1,"knownIds":[579389,868486,926943,579389,868486,926943]}

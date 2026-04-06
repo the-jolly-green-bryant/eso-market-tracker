@@ -1,10 +1,1 @@
-{
-  "internalId": 3989692156,
-  "name": "Exemplary Nirnhoned Pauldron",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Pauldron.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_shoulders_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81619
-  ]
-}
+{"internalId":3989692156,"name":"Exemplary Nirnhoned Pauldron","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Pauldron.","icon":"data/images/d_/sr/ed/gear_breton_heavy_shoulders_d.png","bindType":-1,"knownIds":[81619]}

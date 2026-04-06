@@ -1,10 +1,1 @@
-{
-  "internalId": 640677574,
-  "name": "Covenant's Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_1haxe_b.png",
-  "bindType": 2,
-  "knownIds": [
-    55853
-  ]
-}
+{"internalId":640677574,"name":"Covenant's Axe","description":"","icon":"data/images/b_/ex/ah/gear_akaviri_1haxe_b.png","bindType":2,"knownIds":[55853]}

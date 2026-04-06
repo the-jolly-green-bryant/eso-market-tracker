@@ -1,13 +1,1 @@
-{
-  "internalId": 2684864400,
-  "name": "Corpseburster Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1752652,
-    1775083,
-    1752652,
-    1775083
-  ]
-}
+{"internalId":2684864400,"name":"Corpseburster Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_necroclass_2haxe_a.png","bindType":-1,"knownIds":[1752652,1775083,1752652,1775083]}

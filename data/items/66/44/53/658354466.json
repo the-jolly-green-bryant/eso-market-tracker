@@ -1,10 +1,1 @@
-{
-  "internalId": 658354466,
-  "name": "Murkmire Bench, Armless",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_duc_bench002.png",
-  "bindType": -1,
-  "knownIds": [
-    145326
-  ]
-}
+{"internalId":658354466,"name":"Murkmire Bench, Armless","description":"This is a standard house item.","icon":"data/images/20/0h/cn/housing_arg_duc_bench002.png","bindType":-1,"knownIds":[145326]}

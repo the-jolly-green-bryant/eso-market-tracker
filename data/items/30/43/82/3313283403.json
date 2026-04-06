@@ -1,10 +1,1 @@
-{
-  "internalId": 3313283403,
-  "name": "Wooden Hoop",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spriggan_hoop_base_01.png",
-  "bindType": -1,
-  "knownIds": [
-    859082
-  ]
-}
+{"internalId":3313283403,"name":"Wooden Hoop","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spriggan_hoop_base_01.png","bindType":-1,"knownIds":[859082]}

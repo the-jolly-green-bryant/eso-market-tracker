@@ -1,10 +1,1 @@
-{
-  "internalId": 2743771927,
-  "name": "Tree, Young Palm",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_des_palm004.png",
-  "bindType": -1,
-  "knownIds": [
-    120472
-  ]
-}
+{"internalId":2743771927,"name":"Tree, Young Palm","description":"This is a large house item.","icon":"data/images/40/0m/la/housing_tre_des_palm004.png","bindType":-1,"knownIds":[120472]}

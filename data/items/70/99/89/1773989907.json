@@ -1,10 +1,1 @@
-{
-  "internalId": 1773989907,
-  "name": "Elsweyr Monument, Ancient Stone Broken",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_duc_mooncraterpillar001.png",
-  "bindType": -1,
-  "knownIds": [
-    151629
-  ]
-}
+{"internalId":1773989907,"name":"Elsweyr Monument, Ancient Stone Broken","description":"This is a large house item.","icon":"data/images/10/0r/al/housing_els_duc_mooncraterpillar001.png","bindType":-1,"knownIds":[151629]}

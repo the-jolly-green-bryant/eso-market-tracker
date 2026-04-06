@@ -1,10 +1,1 @@
-{
-  "internalId": 2210076840,
-  "name": "Khajiit Bottle, Amber",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_kha_inc_jugs002.png",
-  "bindType": -1,
-  "knownIds": [
-    115643
-  ]
-}
+{"internalId":2210076840,"name":"Khajiit Bottle, Amber","description":"This is a standard house item.","icon":"data/images/20/0s/gu/housing_kha_inc_jugs002.png","bindType":-1,"knownIds":[115643]}

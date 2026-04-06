@@ -1,10 +1,1 @@
-{
-  "internalId": 1303701962,
-  "name": "Redguard Canopy, Stars",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varawningstandalone001.png",
-  "bindType": -1,
-  "knownIds": [
-    117839
-  ]
-}
+{"internalId":1303701962,"name":"Redguard Canopy, Stars","description":"This is a large house item.","icon":"data/images/10/0e/no/housing_red_str_varawningstandalone001.png","bindType":-1,"knownIds":[117839]}

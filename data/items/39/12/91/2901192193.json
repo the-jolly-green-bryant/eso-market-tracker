@@ -1,10 +1,1 @@
-{
-  "internalId": 2901192193,
-  "name": "Flamepitcher",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farflamedefense001.png",
-  "bindType": -1,
-  "knownIds": [
-    224094
-  ]
-}
+{"internalId":2901192193,"name":"Flamepitcher","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_exc_farflamedefense001.png","bindType":-1,"knownIds":[224094]}

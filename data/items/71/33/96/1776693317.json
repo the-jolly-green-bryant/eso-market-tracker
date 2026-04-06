@@ -1,17 +1,1 @@
-{
-  "internalId": 1776693317,
-  "name": "Lustrous Soulwell Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_light_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1765508,
-    1768095,
-    1775177,
-    1777452,
-    1765508,
-    1768095,
-    1775177,
-    1777452
-  ]
-}
+{"internalId":1776693317,"name":"Lustrous Soulwell Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blacksoulgem_light_hands_a.png","bindType":-1,"knownIds":[1765508,1768095,1775177,1777452,1765508,1768095,1775177,1777452]}

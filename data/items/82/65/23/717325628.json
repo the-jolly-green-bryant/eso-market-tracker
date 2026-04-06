@@ -1,10 +1,1 @@
-{
-  "internalId": 717325628,
-  "name": "Garlas Alpinia, Tall",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_fan_giantginger001.png",
-  "bindType": -1,
-  "knownIds": [
-    147641
-  ]
-}
+{"internalId":717325628,"name":"Garlas Alpinia, Tall","description":"This is a standard house item.","icon":"data/images/10/0r/eg/housing_veg_fan_giantginger001.png","bindType":-1,"knownIds":[147641]}

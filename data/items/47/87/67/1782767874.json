@@ -1,10 +1,1 @@
-{
-  "internalId": 1782767874,
-  "name": "Blueprint: Telvanni Teacup, Fungal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png",
-  "bindType": -1,
-  "knownIds": [
-    197598
-  ]
-}
+{"internalId":1782767874,"name":"Blueprint: Telvanni Teacup, Fungal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_2.png","bindType":-1,"knownIds":[197598]}

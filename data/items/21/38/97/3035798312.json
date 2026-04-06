@@ -1,10 +1,1 @@
-{
-  "internalId": 3035798312,
-  "name": "Arm Cops of Unfathomable Darkness",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nocturnal_medium_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133199
-  ]
-}
+{"internalId":3035798312,"name":"Arm Cops of Unfathomable Darkness","description":"","icon":"data/images/a_/re/dl/gear_nocturnal_medium_shoulder_a.png","bindType":2,"knownIds":[133199]}

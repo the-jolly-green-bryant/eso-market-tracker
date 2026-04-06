@@ -1,17 +1,1 @@
-{
-  "internalId": 3626360091,
-  "name": "Perfected Recovery Convergence Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_robe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1758848,
-    1763967,
-    1764879,
-    1770003,
-    1758848,
-    1763967,
-    1764879,
-    1770003
-  ]
-}
+{"internalId":3626360091,"name":"Perfected Recovery Convergence Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_robe_a.png","bindType":-1,"knownIds":[1758848,1763967,1764879,1770003,1758848,1763967,1764879,1770003]}

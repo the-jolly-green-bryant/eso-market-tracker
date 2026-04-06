@@ -1,10 +1,1 @@
-{
-  "internalId": 945760724,
-  "name": "Dwarven Divider, Ornate Polished",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markdividingscreenb002.png",
-  "bindType": -1,
-  "knownIds": [
-    171350
-  ]
-}
+{"internalId":945760724,"name":"Dwarven Divider, Ornate Polished","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_markdividingscreenb002.png","bindType":-1,"knownIds":[171350]}

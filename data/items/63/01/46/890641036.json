@@ -1,10 +1,1 @@
-{
-  "internalId": 890641036,
-  "name": "Monster: Ilambris",
-  "description": "A Monster Mask set found in Veteran Crypt of Hearts I.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114264
-  ]
-}
+{"internalId":890641036,"name":"Monster: Ilambris","description":"A Monster Mask set found in Veteran Crypt of Hearts I.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114264]}

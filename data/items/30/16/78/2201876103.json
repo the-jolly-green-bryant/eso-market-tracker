@@ -1,10 +1,1 @@
-{
-  "internalId": 2201876103,
-  "name": "Gloves of High Isle",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186071
-  ]
-}
+{"internalId":2201876103,"name":"Gloves of High Isle","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bretonv2_light_hands_a.png","bindType":2,"knownIds":[186071]}

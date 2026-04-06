@@ -1,10 +1,1 @@
-{
-  "internalId": 3171701561,
-  "name": "Stonekeeper Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undauntedstonekeeper_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1715688
-  ]
-}
+{"internalId":3171701561,"name":"Stonekeeper Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undauntedstonekeeper_shoulders_a.png","bindType":-1,"knownIds":[1715688]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2575791277,
-  "name": "Diagram: Clockwork Crate, Square",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    134489
-  ]
-}
+{"internalId":2575791277,"name":"Diagram: Clockwork Crate, Square","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[134489]}

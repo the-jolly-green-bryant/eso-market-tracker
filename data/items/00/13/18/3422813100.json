@@ -1,10 +1,1 @@
-{
-  "internalId": 3422813100,
-  "name": "Vaermina's Nightmare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_spirits_001.png",
-  "bindType": -1,
-  "knownIds": [
-    33739
-  ]
-}
+{"internalId":3422813100,"name":"Vaermina's Nightmare","description":"","icon":"data/images/10/0_/st/crafting_spirits_001.png","bindType":-1,"knownIds":[33739]}

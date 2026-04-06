@@ -1,10 +1,1 @@
-{
-  "internalId": 1655349760,
-  "name": "Clockwork Shelf, Wall",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_fur_table004.png",
-  "bindType": -1,
-  "knownIds": [
-    134564
-  ]
-}
+{"internalId":1655349760,"name":"Clockwork Shelf, Wall","description":"This is a small house item.","icon":"data/images/40/0e/lb/housing_cwc_fur_table004.png","bindType":-1,"knownIds":[134564]}

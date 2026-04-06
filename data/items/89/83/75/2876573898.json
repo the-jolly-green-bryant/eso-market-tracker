@@ -1,10 +1,1 @@
-{
-  "internalId": 2876573898,
-  "name": "Sword of the Knightmare",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    80531
-  ]
-}
+{"internalId":2876573898,"name":"Sword of the Knightmare","description":"","icon":"data/images/d_/dr/ow/gear_bosmer_1hsword_d.png","bindType":2,"knownIds":[80531]}

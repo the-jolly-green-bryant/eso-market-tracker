@@ -1,10 +1,1 @@
-{
-  "internalId": 1655773629,
-  "name": "Redguard Fountain, Mosaic",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_str_varinthifountain001.png",
-  "bindType": -1,
-  "knownIds": [
-    134895
-  ]
-}
+{"internalId":1655773629,"name":"Redguard Fountain, Mosaic","description":"This is a large house item.","icon":"data/images/10/0n/ia/housing_red_str_varinthifountain001.png","bindType":-1,"knownIds":[134895]}

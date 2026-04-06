@@ -1,10 +1,1 @@
-{
-  "internalId": 4109135677,
-  "name": "Axe of Nocturnal's Ploy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189821
-  ]
-}
+{"internalId":4109135677,"name":"Axe of Nocturnal's Ploy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png","bindType":2,"knownIds":[189821]}

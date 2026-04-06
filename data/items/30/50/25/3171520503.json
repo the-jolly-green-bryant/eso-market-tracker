@@ -1,10 +1,1 @@
-{
-  "internalId": 3171520503,
-  "name": "Aether Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    940452
-  ]
-}
+{"internalId":3171520503,"name":"Aether Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_craglorn_light_waist_a.png","bindType":-1,"knownIds":[940452]}

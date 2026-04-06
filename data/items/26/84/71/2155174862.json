@@ -1,10 +1,1 @@
-{
-  "internalId": 2155174862,
-  "name": "Greaves of the Juggernaut",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89054
-  ]
-}
+{"internalId":2155174862,"name":"Greaves of the Juggernaut","description":"","icon":"data/images/d_/sg/el/gear_breton_heavy_legs_d.png","bindType":2,"knownIds":[89054]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 419668370,
-  "name": "Diagram: Alinor Sconce, Candles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    139529
-  ]
-}
+{"internalId":419668370,"name":"Diagram: Alinor Sconce, Candles","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[139529]}

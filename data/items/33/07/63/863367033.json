@@ -1,10 +1,1 @@
-{
-  "internalId": 863367033,
-  "name": "Diagram: Redguard Candelabra, Twisted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    119278
-  ]
-}
+{"internalId":863367033,"name":"Diagram: Redguard Candelabra, Twisted","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[119278]}

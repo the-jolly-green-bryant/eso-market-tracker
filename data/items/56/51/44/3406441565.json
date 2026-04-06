@@ -1,10 +1,1 @@
-{
-  "internalId": 3406441565,
-  "name": "Abecean Whale Buckle Wax",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png",
-  "bindType": -1,
-  "knownIds": [
-    513614
-  ]
-}
+{"internalId":3406441565,"name":"Abecean Whale Buckle Wax","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_jar_001.png","bindType":-1,"knownIds":[513614]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3360591052,
-  "name": "Hearty Bread",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_bread001.png",
-  "bindType": -1,
-  "knownIds": [
-    118095
-  ]
-}
+{"internalId":3360591052,"name":"Hearty Bread","description":"This is a tiny house item.","icon":"data/images/10/0d/ae/housing_bre_inc_bread001.png","bindType":-1,"knownIds":[118095]}

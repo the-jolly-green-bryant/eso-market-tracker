@@ -1,10 +1,1 @@
-{
-  "internalId": 3412624231,
-  "name": "Rivenspire Map Desk Blotter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png",
-  "bindType": -1,
-  "knownIds": [
-    815525
-  ]
-}
+{"internalId":3412624231,"name":"Rivenspire Map Desk Blotter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_map_001.png","bindType":-1,"knownIds":[815525]}

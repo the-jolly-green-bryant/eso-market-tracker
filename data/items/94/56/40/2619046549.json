@@ -1,10 +1,1 @@
-{
-  "internalId": 2619046549,
-  "name": "Burnish Groper",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    1243864
-  ]
-}
+{"internalId":2619046549,"name":"Burnish Groper","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[1243864]}

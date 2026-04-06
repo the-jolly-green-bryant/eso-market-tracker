@@ -1,10 +1,1 @@
-{
-  "internalId": 1973285469,
-  "name": "Daring Corsair's Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    155747
-  ]
-}
+{"internalId":1973285469,"name":"Daring Corsair's Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[155747]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4151260687,
-  "name": "Shoes of the Arch-Mage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    91725
-  ]
-}
+{"internalId":4151260687,"name":"Shoes of the Arch-Mage","description":"","icon":"data/images/d_/te/ef/gear_breton_light_feet_d.png","bindType":2,"knownIds":[91725]}

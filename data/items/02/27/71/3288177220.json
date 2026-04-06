@@ -1,10 +1,1 @@
-{
-  "internalId": 3288177220,
-  "name": "Cartographer's Leggings",
-  "description": "Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Leggings collectible fragment.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_legs.png",
-  "bindType": -1,
-  "knownIds": [
-    166702
-  ]
-}
+{"internalId":3288177220,"name":"Cartographer's Leggings","description":"Part of a set of items that make up the Master Field Cartographer Costume. Use this item to unlock the Cartographer's Leggings collectible fragment.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_cartographers_legs.png","bindType":-1,"knownIds":[166702]}

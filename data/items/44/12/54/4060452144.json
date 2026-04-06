@@ -1,10 +1,1 @@
-{
-  "internalId": 4060452144,
-  "name": "Ayleid Desk, Ornate Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_iad_fur_deskstone001.png",
-  "bindType": -1,
-  "knownIds": [
-    211363
-  ]
-}
+{"internalId":4060452144,"name":"Ayleid Desk, Ornate Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_iad_fur_deskstone001.png","bindType":-1,"knownIds":[211363]}

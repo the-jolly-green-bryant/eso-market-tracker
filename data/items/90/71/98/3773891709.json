@@ -1,10 +1,1 @@
-{
-  "internalId": 3773891709,
-  "name": "Pact Amulet",
-  "description": "There is a faint engraving on the back of the amulet.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_jewelry_006.png",
-  "bindType": -1,
-  "knownIds": [
-    29925
-  ]
-}
+{"internalId":3773891709,"name":"Pact Amulet","description":"There is a faint engraving on the back of the amulet.","icon":"data/images/60/0_/yr/quest_jewelry_006.png","bindType":-1,"knownIds":[29925]}

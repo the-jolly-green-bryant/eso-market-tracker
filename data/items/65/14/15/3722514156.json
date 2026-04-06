@@ -1,10 +1,1 @@
-{
-  "internalId": 3722514156,
-  "name": "Bottle, Elixir",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_elixir001.png",
-  "bindType": -1,
-  "knownIds": [
-    118193
-  ]
-}
+{"internalId":3722514156,"name":"Bottle, Elixir","description":"This is a tiny house item.","icon":"data/images/10/0r/ix/housing_bre_inc_elixir001.png","bindType":-1,"knownIds":[118193]}

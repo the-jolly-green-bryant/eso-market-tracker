@@ -1,10 +1,1 @@
-{
-  "internalId": 4242473901,
-  "name": "Recipe: Aunt Alessia's Pork Chops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45672
-  ]
-}
+{"internalId":4242473901,"name":"Recipe: Aunt Alessia's Pork Chops","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45672]}

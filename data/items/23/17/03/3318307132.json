@@ -1,10 +1,1 @@
-{
-  "internalId": 3318307132,
-  "name": "Bush, Snow Lillies",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_whiteflowerivy012.png",
-  "bindType": -1,
-  "knownIds": [
-    181604
-  ]
-}
+{"internalId":3318307132,"name":"Bush, Snow Lillies","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_veg_bad_whiteflowerivy012.png","bindType":-1,"knownIds":[181604]}

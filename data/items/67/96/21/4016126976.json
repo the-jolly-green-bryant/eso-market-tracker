@@ -1,17 +1,1 @@
-{
-  "internalId": 4016126976,
-  "name": "Earthgore Mask",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_ironatronach_head_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1578110,
-    1584072,
-    1655479,
-    1659288,
-    1578110,
-    1584072,
-    1655479,
-    1659288
-  ]
-}
+{"internalId":4016126976,"name":"Earthgore Mask","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_undaunted_ironatronach_head_a.png","bindType":-1,"knownIds":[1578110,1584072,1655479,1659288,1578110,1584072,1655479,1659288]}

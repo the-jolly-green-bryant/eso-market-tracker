@@ -1,10 +1,1 @@
-{
-  "internalId": 2964895875,
-  "name": "Xanmeer Genesis Robe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_robe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223510
-  ]
-}
+{"internalId":2964895875,"name":"Xanmeer Genesis Robe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_light_robe_a.png","bindType":2,"knownIds":[223510]}

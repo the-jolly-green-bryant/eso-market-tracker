@@ -1,10 +1,1 @@
-{
-  "internalId": 2361072419,
-  "name": "Xanmeer Spellweaver Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hsword_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1771165
-  ]
-}
+{"internalId":2361072419,"name":"Xanmeer Spellweaver Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_2hsword_a.png","bindType":-1,"knownIds":[1771165]}

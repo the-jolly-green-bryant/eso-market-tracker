@@ -1,10 +1,1 @@
-{
-  "internalId": 1098047779,
-  "name": "Solitude Bowl, Mushrooms",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodmushroom001.png",
-  "bindType": -1,
-  "knownIds": [
-    165783
-  ]
-}
+{"internalId":1098047779,"name":"Solitude Bowl, Mushrooms","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_foodmushroom001.png","bindType":-1,"knownIds":[165783]}

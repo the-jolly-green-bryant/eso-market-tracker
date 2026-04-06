@@ -1,10 +1,1 @@
-{
-  "internalId": 3740631393,
-  "name": "Tamrielic Artifacts, Part Two",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png",
-  "bindType": -1,
-  "knownIds": [
-    1095927
-  ]
-}
+{"internalId":3740631393,"name":"Tamrielic Artifacts, Part Two","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed004.png","bindType":-1,"knownIds":[1095927]}

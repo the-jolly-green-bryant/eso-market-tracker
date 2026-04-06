@@ -1,10 +1,1 @@
-{
-  "internalId": 3337174572,
-  "name": "Pact's Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_akaviri_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54456
-  ]
-}
+{"internalId":3337174572,"name":"Pact's Guards","description":"","icon":"data/images/a_/sg/el/gear_akaviri_medium_legs_a.png","bindType":2,"knownIds":[54456]}

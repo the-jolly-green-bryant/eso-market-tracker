@@ -1,10 +1,1 @@
-{
-  "internalId": 2495110896,
-  "name": "Recipe: Bitterlemon Tea",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    46000
-  ]
-}
+{"internalId":2495110896,"name":"Recipe: Bitterlemon Tea","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[46000]}

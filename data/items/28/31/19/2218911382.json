@@ -1,10 +1,1 @@
-{
-  "internalId": 2218911382,
-  "name": "Research Scroll, Blacksmithing, 1 Day",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_researchscroll_blacksmith.png",
-  "bindType": -1,
-  "knownIds": [
-    125473
-  ]
-}
+{"internalId":2218911382,"name":"Research Scroll, Blacksmithing, 1 Day","description":"","icon":"data/images/ht/im/sk/crafting_researchscroll_blacksmith.png","bindType":-1,"knownIds":[125473]}

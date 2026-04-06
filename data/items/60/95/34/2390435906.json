@@ -1,10 +1,1 @@
-{
-  "internalId": 2390435906,
-  "name": "Tree, Ancient Mountain Pine",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_eve_emwhitepine004.png",
-  "bindType": -1,
-  "knownIds": [
-    132207
-  ]
-}
+{"internalId":2390435906,"name":"Tree, Ancient Mountain Pine","description":"This is a huge house item.","icon":"data/images/40/0e/ni/housing_tre_eve_emwhitepine004.png","bindType":-1,"knownIds":[132207]}

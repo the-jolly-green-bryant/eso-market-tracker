@@ -1,10 +1,1 @@
-{
-  "internalId": 2242868471,
-  "name": "Style Page: Opal Domihaus Bow",
-  "description": "Use to learn the Opal Domihaus Bow Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    192489
-  ]
-}
+{"internalId":2242868471,"name":"Style Page: Opal Domihaus Bow","description":"Use to learn the Opal Domihaus Bow Outfit Style. This page can be traded, mailed, and posted to Guild Banks and Guild Stores. This page is consumed when read, granting you the account-wide Collectible.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[192489]}

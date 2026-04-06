@@ -1,10 +1,1 @@
-{
-  "internalId": 1020841990,
-  "name": "Ayleid Relic",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    815871
-  ]
-}
+{"internalId":1020841990,"name":"Ayleid Relic","description":"","icon":null,"bindType":-1,"knownIds":[815871]}

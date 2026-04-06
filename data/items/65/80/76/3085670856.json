@@ -1,10 +1,1 @@
-{
-  "internalId": 3085670856,
-  "name": "Diagram: High Isle Censer, Metal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    192529
-  ]
-}
+{"internalId":3085670856,"name":"Diagram: High Isle Censer, Metal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[192529]}

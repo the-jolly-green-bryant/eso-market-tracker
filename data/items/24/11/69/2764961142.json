@@ -1,10 +1,1 @@
-{
-  "internalId": 2764961142,
-  "name": "Crafting Motif 45: Mazzatun Bows",
-  "description": "Use to learn how to make Mazzatun Bows. Also teaches the equivalent Mazzatun Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    114955
-  ]
-}
+{"internalId":2764961142,"name":"Crafting Motif 45: Mazzatun Bows","description":"Use to learn how to make Mazzatun Bows. Also teaches the equivalent Mazzatun Outfit Styles.","icon":"data/images/20/0_/re/quest_letter_002.png","bindType":-1,"knownIds":[114955]}

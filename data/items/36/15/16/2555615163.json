@@ -1,10 +1,1 @@
-{
-  "internalId": 2555615163,
-  "name": "Factotum Anatomy Miniature",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1311544
-  ]
-}
+{"internalId":2555615163,"name":"Factotum Anatomy Miniature","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_statue_001.png","bindType":-1,"knownIds":[1311544]}

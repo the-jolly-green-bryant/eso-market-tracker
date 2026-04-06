@@ -1,10 +1,1 @@
-{
-  "internalId": 2018196133,
-  "name": "Smuggler's Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_khajiit_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    101120
-  ]
-}
+{"internalId":2018196133,"name":"Smuggler's Sash","description":"","icon":"data/images/d_/ts/ia/gear_khajiit_light_waist_d.png","bindType":2,"knownIds":[101120]}

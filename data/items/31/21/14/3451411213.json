@@ -1,10 +1,1 @@
-{
-  "internalId": 3451411213,
-  "name": "Small Wrapped Gift",
-  "description": "Prepared specially by the merchant in Silvenar.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/icon_missing.png",
-  "bindType": -1,
-  "knownIds": [
-    16287
-  ]
-}
+{"internalId":3451411213,"name":"Small Wrapped Gift","description":"Prepared specially by the merchant in Silvenar.","icon":"data/images/gn/is/si/icon_missing.png","bindType":-1,"knownIds":[16287]}

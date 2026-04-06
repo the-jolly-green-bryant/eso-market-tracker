@@ -1,10 +1,1 @@
-{
-  "internalId": 2972543109,
-  "name": "Lightning Staff of Oakfather's Retribution",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png",
-  "bindType": 2,
-  "knownIds": [
-    204060
-  ]
-}
+{"internalId":2972543109,"name":"Lightning Staff of Oakfather's Retribution","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_staff_d.png","bindType":2,"knownIds":[204060]}

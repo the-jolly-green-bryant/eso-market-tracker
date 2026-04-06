@@ -1,10 +1,1 @@
-{
-  "internalId": 2457041222,
-  "name": "Threads of War Gauntlets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    206503
-  ]
-}
+{"internalId":2457041222,"name":"Threads of War Gauntlets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_hands_d.png","bindType":2,"knownIds":[206503]}

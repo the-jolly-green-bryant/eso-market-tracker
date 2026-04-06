@@ -1,10 +1,1 @@
-{
-  "internalId": 67514643,
-  "name": "Snout Spectacles",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1324419
-  ]
-}
+{"internalId":67514643,"name":"Snout Spectacles","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_003.png","bindType":-1,"knownIds":[1324419]}

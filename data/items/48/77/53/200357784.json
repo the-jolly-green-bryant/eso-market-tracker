@@ -1,10 +1,1 @@
-{
-  "internalId": 200357784,
-  "name": "Sabatons of the Dreugh King Slayer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    81006
-  ]
-}
+{"internalId":200357784,"name":"Sabatons of the Dreugh King Slayer","description":"","icon":"data/images/d_/te/ef/gear_dunmer_heavy_feet_d.png","bindType":2,"knownIds":[81006]}

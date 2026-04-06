@@ -1,10 +1,1 @@
-{
-  "internalId": 2024233585,
-  "name": "Werewolf Hide Everblooded Dagger",
-  "description": "A weapon awarded for defeating the Red Rook Bandits' officer, Valenwe, at Cryptwatch Fort.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    34296
-  ]
-}
+{"internalId":2024233585,"name":"Werewolf Hide Everblooded Dagger","description":"A weapon awarded for defeating the Red Rook Bandits' officer, Valenwe, at Cryptwatch Fort.","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[34296]}

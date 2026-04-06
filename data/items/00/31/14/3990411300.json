@@ -1,10 +1,1 @@
-{
-  "internalId": 3990411300,
-  "name": "Maelstrom Weapons, Perfected",
-  "description": "This container holds a collection of Perfected weapons found in Maelstrom Arena.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    166722
-  ]
-}
+{"internalId":3990411300,"name":"Maelstrom Weapons, Perfected","description":"This container holds a collection of Perfected weapons found in Maelstrom Arena.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[166722]}

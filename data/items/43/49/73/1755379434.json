@@ -1,10 +1,1 @@
-{
-  "internalId": 1755379434,
-  "name": "Redguard Mat, Mirage",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_rugsmall004.png",
-  "bindType": -1,
-  "knownIds": [
-    117855
-  ]
-}
+{"internalId":1755379434,"name":"Redguard Mat, Mirage","description":"This is a standard house item.","icon":"data/images/40/0l/la/housing_red_inc_rugsmall004.png","bindType":-1,"knownIds":[117855]}

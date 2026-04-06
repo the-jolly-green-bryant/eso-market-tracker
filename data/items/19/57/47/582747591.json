@@ -1,10 +1,1 @@
-{
-  "internalId": 582747591,
-  "name": "Undaunted Box: Shipwright's Regret",
-  "description": "This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png",
-  "bindType": 3,
-  "knownIds": [
-    190289
-  ]
-}
+{"internalId":582747591,"name":"Undaunted Box: Shipwright's Regret","description":"This box, found only during the Undaunted Celebration, contains valuable treasure - including, rarely, certain Crown Store consumables.","icon":"https://esoicons.uesp.net/esoui/art/icons/gift-box-ouroboros.png","bindType":3,"knownIds":[190289]}

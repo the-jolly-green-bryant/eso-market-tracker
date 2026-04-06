@@ -1,10 +1,1 @@
-{
-  "internalId": 2813164968,
-  "name": "Helm of Draugr Heritage",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_head_a.png",
-  "bindType": 2,
-  "knownIds": [
-    101855
-  ]
-}
+{"internalId":2813164968,"name":"Helm of Draugr Heritage","description":"","icon":"data/images/a_/da/eh/gear_draugr_heavy_head_a.png","bindType":2,"knownIds":[101855]}

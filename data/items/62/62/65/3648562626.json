@@ -1,10 +1,1 @@
-{
-  "internalId": 3648562626,
-  "name": "Shoes of Varen's Legacy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    76072
-  ]
-}
+{"internalId":3648562626,"name":"Shoes of Varen's Legacy","description":"","icon":"data/images/d_/te/ef/gear_breton_light_feet_d.png","bindType":2,"knownIds":[76072]}

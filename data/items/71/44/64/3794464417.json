@@ -1,10 +1,1 @@
-{
-  "internalId": 3794464417,
-  "name": "Design: Bowl of Worms, Large",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    145971
-  ]
-}
+{"internalId":3794464417,"name":"Design: Bowl of Worms, Large","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[145971]}

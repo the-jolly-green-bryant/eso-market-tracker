@@ -1,15 +1,1 @@
-{
-  "internalId": 1744896585,
-  "name": "Genalda's Clever Concoctions",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_u32_q6701_s070_empty_bag.png",
-  "bindType": -1,
-  "knownIds": [
-    1599818,
-    1621951,
-    1723424,
-    1599818,
-    1621951,
-    1723424
-  ]
-}
+{"internalId":1744896585,"name":"Genalda's Clever Concoctions","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_u32_q6701_s070_empty_bag.png","bindType":-1,"knownIds":[1599818,1621951,1723424,1599818,1621951,1723424]}

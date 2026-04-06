@@ -1,10 +1,1 @@
-{
-  "internalId": 2061372413,
-  "name": "Church Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    824741
-  ]
-}
+{"internalId":2061372413,"name":"Church Key","description":"","icon":null,"bindType":-1,"knownIds":[824741]}

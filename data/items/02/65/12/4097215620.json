@@ -1,10 +1,1 @@
-{
-  "internalId": 4097215620,
-  "name": "Circus of Cheerful Slaughter",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1089733
-  ]
-}
+{"internalId":4097215620,"name":"Circus of Cheerful Slaughter","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed001.png","bindType":-1,"knownIds":[1089733]}

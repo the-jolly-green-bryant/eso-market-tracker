@@ -1,10 +1,1 @@
-{
-  "internalId": 3974108855,
-  "name": "Praxis: Worm Cult Platform, Stone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png",
-  "bindType": -1,
-  "knownIds": [
-    223897
-  ]
-}
+{"internalId":3974108855,"name":"Praxis: Worm Cult Platform, Stone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting2.png","bindType":-1,"knownIds":[223897]}

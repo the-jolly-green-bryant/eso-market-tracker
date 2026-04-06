@@ -1,10 +1,1 @@
-{
-  "internalId": 821154336,
-  "name": "Dragonguard Elite's Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    155390
-  ]
-}
+{"internalId":821154336,"name":"Dragonguard Elite's Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_dragonguardmed_chest_a.png","bindType":2,"knownIds":[155390]}

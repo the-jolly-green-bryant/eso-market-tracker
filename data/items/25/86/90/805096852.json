@@ -1,10 +1,1 @@
-{
-  "internalId": 805096852,
-  "name": "Rough Limestone Tile",
-  "description": "This is a medium house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_ayl_duc_floortile001.png",
-  "bindType": -1,
-  "knownIds": [
-    119583
-  ]
-}
+{"internalId":805096852,"name":"Rough Limestone Tile","description":"This is a medium house item.","icon":"data/images/10/0e/li/housing_ayl_duc_floortile001.png","bindType":-1,"knownIds":[119583]}

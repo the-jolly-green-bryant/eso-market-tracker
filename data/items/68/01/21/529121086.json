@@ -1,15 +1,1 @@
-{
-  "internalId": 529121086,
-  "name": "ebonthread sash of stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": -1,
-  "knownIds": [
-    611070,
-    743248,
-    685130,
-    611070,
-    743248,
-    685130
-  ]
-}
+{"internalId":529121086,"name":"ebonthread sash of stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png","bindType":-1,"knownIds":[611070,743248,685130,611070,743248,685130]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1651751727,
-  "name": "Jewelry: Poisonous Serpent",
-  "description": "A Medium Armor set found in the Hel Ra Citadel Trial.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114248
-  ]
-}
+{"internalId":1651751727,"name":"Jewelry: Poisonous Serpent","description":"A Medium Armor set found in the Hel Ra Citadel Trial.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114248]}

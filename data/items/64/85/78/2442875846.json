@@ -1,10 +1,1 @@
-{
-  "internalId": 2442875846,
-  "name": "Pattern: Redguard Pillow Roll, Oasis",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119235
-  ]
-}
+{"internalId":2442875846,"name":"Pattern: Redguard Pillow Roll, Oasis","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[119235]}

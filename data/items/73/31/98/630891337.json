@@ -1,10 +1,1 @@
-{
-  "internalId": 630891337,
-  "name": "Sigil, Kynareth",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_shrinekynareth001.png",
-  "bindType": -1,
-  "knownIds": [
-    120819
-  ]
-}
+{"internalId":630891337,"name":"Sigil, Kynareth","description":"This is a small house item.","icon":"data/images/10/0h/te/housing_uni_inc_shrinekynareth001.png","bindType":-1,"knownIds":[120819]}

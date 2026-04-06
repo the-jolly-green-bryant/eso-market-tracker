@@ -1,10 +1,1 @@
-{
-  "internalId": 1753641910,
-  "name": "Sacred Rites of the Stonechewers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1338217
-  ]
-}
+{"internalId":1753641910,"name":"Sacred Rites of the Stonechewers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1338217]}

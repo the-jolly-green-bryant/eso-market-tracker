@@ -1,10 +1,1 @@
-{
-  "internalId": 3429564352,
-  "name": "Leki's Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    199360
-  ]
-}
+{"internalId":3429564352,"name":"Leki's Helmet","description":"","icon":"data/images/a_/da/eh/gear_abahswatch_medium_head_a.png","bindType":2,"knownIds":[79767]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4091994876,
-  "name": "Wardrobe of Time-Lost Outfits III",
-  "description": "An decorative wardrobe containing many collectible Outfit Styles. If you know all available Outfit Styles already, this container does nothing.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_wardrobe001.png",
-  "bindType": 3,
-  "knownIds": [
-    204547
-  ]
-}
+{"internalId":4091994876,"name":"Wardrobe of Time-Lost Outfits III","description":"An decorative wardrobe containing many collectible Outfit Styles. If you know all available Outfit Styles already, this container does nothing.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_fur_wardrobe001.png","bindType":3,"knownIds":[204547]}

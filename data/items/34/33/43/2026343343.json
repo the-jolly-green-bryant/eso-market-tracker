@@ -1,10 +1,1 @@
-{
-  "internalId": 2026343343,
-  "name": "Jungle Bass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png",
-  "bindType": -1,
-  "knownIds": [
-    845982
-  ]
-}
+{"internalId":2026343343,"name":"Jungle Bass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_longfin.png","bindType":-1,"knownIds":[845982]}

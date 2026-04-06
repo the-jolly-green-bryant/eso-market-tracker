@@ -1,10 +1,1 @@
-{
-  "internalId": 890859134,
-  "name": "Design: Oranges, Bunch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119465
-  ]
-}
+{"internalId":890859134,"name":"Design: Oranges, Bunch","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119465]}

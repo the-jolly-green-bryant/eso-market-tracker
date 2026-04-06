@@ -1,10 +1,1 @@
-{
-  "internalId": 151937874,
-  "name": "Praxis: Worm Cult Doorway, Bone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    223900
-  ]
-}
+{"internalId":151937874,"name":"Praxis: Worm Cult Doorway, Bone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[223900]}

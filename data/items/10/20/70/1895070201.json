@@ -1,10 +1,1 @@
-{
-  "internalId": 1895070201,
-  "name": "Eagle-Shaped Gravy Boat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png",
-  "bindType": -1,
-  "knownIds": [
-    403592
-  ]
-}
+{"internalId":1895070201,"name":"Eagle-Shaped Gravy Boat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tableware_001.png","bindType":-1,"knownIds":[403592]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 57440467,
-  "name": "Gilding Wax",
-  "description": "Can be used to enhance jewelry.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_plug_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    139412
-  ]
-}
+{"internalId":57440467,"name":"Gilding Wax","description":"Can be used to enhance jewelry.","icon":"data/images/20/0_/tn/crafting_outfitter_plug_component_002.png","bindType":-1,"knownIds":[139412]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1591722571,
-  "name": "Inspirational Poster",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tapestry_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1415103
-  ]
-}
+{"internalId":1591722571,"name":"Inspirational Poster","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tapestry_001.png","bindType":-1,"knownIds":[1415103]}

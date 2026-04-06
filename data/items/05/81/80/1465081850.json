@@ -1,10 +1,1 @@
-{
-  "internalId": 1465081850,
-  "name": "Savannah Grassware",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1317153
-  ]
-}
+{"internalId":1465081850,"name":"Savannah Grassware","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_basket_001.png","bindType":-1,"knownIds":[1317153]}

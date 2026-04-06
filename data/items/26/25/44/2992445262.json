@@ -1,17 +1,1 @@
-{
-  "internalId": 2992445262,
-  "name": "Aetheric Lancer Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1746900,
-    1751258,
-    1753114,
-    1755437,
-    1746900,
-    1751258,
-    1753114,
-    1755437
-  ]
-}
+{"internalId":2992445262,"name":"Aetheric Lancer Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_chest_a.png","bindType":-1,"knownIds":[1746900,1751258,1753114,1755437,1746900,1751258,1753114,1755437]}

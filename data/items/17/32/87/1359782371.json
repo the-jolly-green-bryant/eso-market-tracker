@@ -1,10 +1,1 @@
-{
-  "internalId": 1359782371,
-  "name": "Morphs Respec Potion",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    64525
-  ]
-}
+{"internalId":1359782371,"name":"Morphs Respec Potion","description":"","icon":null,"bindType":-1,"knownIds":[64525]}

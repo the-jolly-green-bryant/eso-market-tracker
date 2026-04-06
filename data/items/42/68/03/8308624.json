@@ -1,10 +1,1 @@
-{
-  "internalId": 8308624,
-  "name": "Druidic Trunk, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drustonechestlg001.png",
-  "bindType": -1,
-  "knownIds": [
-    191180
-  ]
-}
+{"internalId":8308624,"name":"Druidic Trunk, Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_exc_drustonechestlg001.png","bindType":-1,"knownIds":[191180]}

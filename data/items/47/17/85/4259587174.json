@@ -1,11 +1,1 @@
-{
-  "internalId": 4259587174,
-  "name": "Pearl-Glass Fillet Knife",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png",
-  "bindType": -1,
-  "knownIds": [
-    1258727,
-    1258727
-  ]
-}
+{"internalId":4259587174,"name":"Pearl-Glass Fillet Knife","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_outfitter_dagger_vendor_component_002.png","bindType":-1,"knownIds":[1258727,1258727]}

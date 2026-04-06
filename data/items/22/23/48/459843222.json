@@ -1,10 +1,1 @@
-{
-  "internalId": 459843222,
-  "name": "Adept Rider's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    136037
-  ]
-}
+{"internalId":459843222,"name":"Adept Rider's Greatsword","description":"","icon":"data/images/d_/dr/ow/gear_breton_2hsword_d.png","bindType":2,"knownIds":[136037]}

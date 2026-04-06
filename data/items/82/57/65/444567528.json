@@ -1,10 +1,1 @@
-{
-  "internalId": 444567528,
-  "name": "Traveler's Jerkin",
-  "description": "This jacket provides light protection against the rugged environs of Western Skyrim.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    157515
-  ]
-}
+{"internalId":444567528,"name":"Traveler's Jerkin","description":"This jacket provides light protection against the rugged environs of Western Skyrim.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_shirt_d.png","bindType":2,"knownIds":[157515]}

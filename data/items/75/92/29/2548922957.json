@@ -1,10 +1,1 @@
-{
-  "internalId": 2548922957,
-  "name": "Black Quill",
-  "description": "An enchanted quill made from the feather of a hagraven, legend claims that whatever it writes is never forgotten. Donate this to Curator Umutha and the House of Orsimer Glories in Orsinium.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_feather_multi_color.png",
-  "bindType": 3,
-  "knownIds": [
-    64591
-  ]
-}
+{"internalId":2548922957,"name":"Black Quill","description":"An enchanted quill made from the feather of a hagraven, legend claims that whatever it writes is never forgotten. Donate this to Curator Umutha and the House of Orsimer Glories in Orsinium.","icon":"data/images/ro/lo/c_/justice_stolen_unique_feather_multi_color.png","bindType":3,"knownIds":[64591]}

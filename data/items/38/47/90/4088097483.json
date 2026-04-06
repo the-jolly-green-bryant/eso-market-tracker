@@ -1,10 +1,1 @@
-{
-  "internalId": 4088097483,
-  "name": "Sash of Twilight's Embrace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56164
-  ]
-}
+{"internalId":4088097483,"name":"Sash of Twilight's Embrace","description":"","icon":"data/images/d_/ts/ia/gear_breton_light_waist_d.png","bindType":2,"knownIds":[56164]}

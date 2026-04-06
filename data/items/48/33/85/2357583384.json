@@ -1,10 +1,1 @@
-{
-  "internalId": 2357583384,
-  "name": "Sunport Bracket, Banner",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sol_lsb_altsunportbannerbracket001.png",
-  "bindType": -1,
-  "knownIds": [
-    214427
-  ]
-}
+{"internalId":2357583384,"name":"Sunport Bracket, Banner","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sol_lsb_altsunportbannerbracket001.png","bindType":-1,"knownIds":[214427]}

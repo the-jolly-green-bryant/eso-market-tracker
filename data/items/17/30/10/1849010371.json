@@ -1,10 +1,1 @@
-{
-  "internalId": 1849010371,
-  "name": "Solitude Hand Mirror, Ornate",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_mirrorhand002.png",
-  "bindType": -1,
-  "knownIds": [
-    165708
-  ]
-}
+{"internalId":1849010371,"name":"Solitude Hand Mirror, Ornate","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_mirrorhand002.png","bindType":-1,"knownIds":[165708]}

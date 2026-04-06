@@ -1,10 +1,1 @@
-{
-  "internalId": 3411781110,
-  "name": "Gauntlets of the Brute",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_orc_heavy_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43951
-  ]
-}
+{"internalId":3411781110,"name":"Gauntlets of the Brute","description":"","icon":"data/images/d_/sd/na/gear_orc_heavy_hands_d.png","bindType":2,"knownIds":[43951]}

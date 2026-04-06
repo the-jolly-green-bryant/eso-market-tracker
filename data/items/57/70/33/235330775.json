@@ -1,10 +1,1 @@
-{
-  "internalId": 235330775,
-  "name": "Mahogany Lawn Bowling Set",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png",
-  "bindType": -1,
-  "knownIds": [
-    481144
-  ]
-}
+{"internalId":235330775,"name":"Mahogany Lawn Bowling Set","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_case_001.png","bindType":-1,"knownIds":[481144]}

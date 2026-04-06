@@ -1,10 +1,1 @@
-{
-  "internalId": 2738507824,
-  "name": "In Defense of Prince Hubalajad",
-  "description": "Lady Cinnabar of Taneth's spirited arguments in favor of a more balanced view of the Ra Gada Prince's accomplishments in the face of adversity.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_varbook002.png",
-  "bindType": -1,
-  "knownIds": [
-    134881
-  ]
-}
+{"internalId":2738507824,"name":"In Defense of Prince Hubalajad","description":"Lady Cinnabar of Taneth's spirited arguments in favor of a more balanced view of the Ra Gada Prince's accomplishments in the face of adversity.","icon":"data/images/20/0k/oo/housing_red_inc_varbook002.png","bindType":-1,"knownIds":[134881]}

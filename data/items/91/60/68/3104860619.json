@@ -1,10 +1,1 @@
-{
-  "internalId": 3104860619,
-  "name": "Colovian Grape Basket, Wax",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebasketlargegrape002.png",
-  "bindType": -1,
-  "knownIds": [
-    204696
-  ]
-}
+{"internalId":3104860619,"name":"Colovian Grape Basket, Wax","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winebasketlargegrape002.png","bindType":-1,"knownIds":[204696]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 853332757,
-  "name": "Epaulets of Frostbite",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_shoulders_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172116
-  ]
-}
+{"internalId":853332757,"name":"Epaulets of Frostbite","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_leyawiinmil_lgt_shoulders_a.png","bindType":2,"knownIds":[172116]}

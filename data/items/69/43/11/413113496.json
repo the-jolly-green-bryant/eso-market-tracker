@@ -1,10 +1,1 @@
-{
-  "internalId": 413113496,
-  "name": "Weapons: Netch's Touch",
-  "description": "A Light Armor set found in Darkshade Caverns.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    114156
-  ]
-}
+{"internalId":413113496,"name":"Weapons: Netch's Touch","description":"A Light Armor set found in Darkshade Caverns.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[114156]}

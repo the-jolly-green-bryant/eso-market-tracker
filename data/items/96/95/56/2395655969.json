@@ -1,10 +1,1 @@
-{
-  "internalId": 2395655969,
-  "name": "Deadlands Demolisher's Sabatons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179529
-  ]
-}
+{"internalId":2395655969,"name":"Deadlands Demolisher's Sabatons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_feet_d.png","bindType":2,"knownIds":[179529]}

@@ -1,13 +1,1 @@
-{
-  "internalId": 1821493941,
-  "name": "Monolith of Storms Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_chest_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1702257,
-    1730790,
-    1702257,
-    1730790
-  ]
-}
+{"internalId":1821493941,"name":"Monolith of Storms Jerkin","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_chest_a.png","bindType":-1,"knownIds":[1702257,1730790,1702257,1730790]}

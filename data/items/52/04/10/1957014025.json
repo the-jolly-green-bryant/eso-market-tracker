@@ -1,17 +1,1 @@
-{
-  "internalId": 1957014025,
-  "name": "Reflected Fury Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2haxe_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1722913,
-    1751743,
-    1768074,
-    1779196,
-    1722913,
-    1751743,
-    1768074,
-    1779196
-  ]
-}
+{"internalId":1957014025,"name":"Reflected Fury Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_blindpath_2haxe_a.png","bindType":-1,"knownIds":[1722913,1751743,1768074,1779196,1722913,1751743,1768074,1779196]}

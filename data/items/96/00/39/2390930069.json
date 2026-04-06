@@ -1,10 +1,1 @@
-{
-  "internalId": 2390930069,
-  "name": "Harpy Feather Pillow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png",
-  "bindType": -1,
-  "knownIds": [
-    860590
-  ]
-}
+{"internalId":2390930069,"name":"Harpy Feather Pillow","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pillow_001.png","bindType":-1,"knownIds":[860590]}

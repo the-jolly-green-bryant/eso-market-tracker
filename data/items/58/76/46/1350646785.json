@@ -1,15 +1,1 @@
-{
-  "internalId": 1350646785,
-  "name": "Brimstone Cowl",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    825037,
-    463274,
-    376342,
-    825037,
-    463274,
-    376342
-  ]
-}
+{"internalId":1350646785,"name":"Brimstone Cowl","description":"","icon":null,"bindType":-1,"knownIds":[825037,463274,376342,825037,463274,376342]}

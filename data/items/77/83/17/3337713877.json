@@ -1,10 +1,1 @@
-{
-  "internalId": 3337713877,
-  "name": "Shirt of Shalidor's Curse",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_shirt_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56827
-  ]
-}
+{"internalId":3337713877,"name":"Shirt of Shalidor's Curse","description":"","icon":"data/images/d_/tr/ih/gear_breton_light_shirt_d.png","bindType":2,"knownIds":[56827]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3890246304,
-  "name": "Alinor Bed, Polished Full",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_bedsimple002.png",
-  "bindType": -1,
-  "knownIds": [
-    139217
-  ]
-}
+{"internalId":3890246304,"name":"Alinor Bed, Polished Full","description":"This is a standard house item.","icon":"data/images/20/0e/lp/housing_sum_fur_bedsimple002.png","bindType":-1,"knownIds":[139217]}

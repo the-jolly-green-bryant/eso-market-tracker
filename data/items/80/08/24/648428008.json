@@ -1,10 +1,1 @@
-{
-  "internalId": 648428008,
-  "name": "Laurel",
-  "description": "An ingredient for crafting in the Mercenary style.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_laurel.png",
-  "bindType": -1,
-  "knownIds": [
-    64713
-  ]
-}
+{"internalId":648428008,"name":"Laurel","description":"An ingredient for crafting in the Mercenary style.","icon":"data/images/le/ru/al/crafting_laurel.png","bindType":-1,"knownIds":[64713]}

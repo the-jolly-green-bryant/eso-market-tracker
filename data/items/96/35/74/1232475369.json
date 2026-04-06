@@ -1,10 +1,1 @@
-{
-  "internalId": 1232475369,
-  "name": "Fargrave Colonnade Pillar, Tall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farcolonnadefiller001.png",
-  "bindType": -1,
-  "knownIds": [
-    184077
-  ]
-}
+{"internalId":1232475369,"name":"Fargrave Colonnade Pillar, Tall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_farcolonnadefiller001.png","bindType":-1,"knownIds":[184077]}

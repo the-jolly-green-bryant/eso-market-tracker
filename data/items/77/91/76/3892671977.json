@@ -1,10 +1,1 @@
-{
-  "internalId": 3892671977,
-  "name": "Rough Rod, Fishing",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_fishingrod001.png",
-  "bindType": -1,
-  "knownIds": [
-    117978
-  ]
-}
+{"internalId":3892671977,"name":"Rough Rod, Fishing","description":"This is a standard house item.","icon":"data/images/10/0d/or/housing_gen_exc_fishingrod001.png","bindType":-1,"knownIds":[117978]}

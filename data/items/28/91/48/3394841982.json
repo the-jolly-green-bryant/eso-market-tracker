@@ -1,13 +1,1 @@
-{
-  "internalId": 3394841982,
-  "name": "Fractured Femur",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png",
-  "bindType": -1,
-  "knownIds": [
-    660230,
-    793852,
-    660230,
-    793852
-  ]
-}
+{"internalId":3394841982,"name":"Fractured Femur","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_bosmer_staff_d.png","bindType":-1,"knownIds":[660230,793852,660230,793852]}

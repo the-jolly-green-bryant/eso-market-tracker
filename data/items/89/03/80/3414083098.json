@@ -1,10 +1,1 @@
-{
-  "internalId": 3414083098,
-  "name": "Mad Tinkerer's Restoration Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_apostle_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    133008
-  ]
-}
+{"internalId":3414083098,"name":"Mad Tinkerer's Restoration Staff","description":"","icon":"data/images/a_/ff/at/gear_apostle_staff_a.png","bindType":2,"knownIds":[133008]}

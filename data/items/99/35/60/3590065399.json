@@ -1,10 +1,1 @@
-{
-  "internalId": 3590065399,
-  "name": "Flanking Strategist",
-  "description": "A Medium Armor set found in Gold Coast.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134059
-  ]
-}
+{"internalId":3590065399,"name":"Flanking Strategist","description":"A Medium Armor set found in Gold Coast.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134059]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1836577178,
-  "name": "Diagram: Leyawiin Censer, Iron Stand",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    175991
-  ]
-}
+{"internalId":1836577178,"name":"Diagram: Leyawiin Censer, Iron Stand","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[175991]}

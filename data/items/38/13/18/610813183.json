@@ -1,17 +1,1 @@
-{
-  "internalId": 610813183,
-  "name": "Perfected Yolnahkriin's Shield",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_shield_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1343207,
-    1374467,
-    1624477,
-    1629305,
-    1343207,
-    1374467,
-    1624477,
-    1629305
-  ]
-}
+{"internalId":610813183,"name":"Perfected Yolnahkriin's Shield","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_sunspire_shield_a.png","bindType":-1,"knownIds":[1343207,1374467,1624477,1629305,1343207,1374467,1624477,1629305]}

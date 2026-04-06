@@ -1,10 +1,1 @@
-{
-  "internalId": 2790037498,
-  "name": "Armor Enchanter's Box",
-  "description": "Contains a large quantity of glyphs, solely for armor.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 3,
-  "knownIds": [
-    55839
-  ]
-}
+{"internalId":2790037498,"name":"Armor Enchanter's Box","description":"Contains a large quantity of glyphs, solely for armor.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":3,"knownIds":[55839]}

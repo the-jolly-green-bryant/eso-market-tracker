@@ -1,10 +1,1 @@
-{
-  "internalId": 226083476,
-  "name": "Common Plate, Setting",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_platesetempty001.png",
-  "bindType": -1,
-  "knownIds": [
-    118029
-  ]
-}
+{"internalId":226083476,"name":"Common Plate, Setting","description":"This is a tiny house item.","icon":"data/images/10/0y/tp/housing_bre_inc_platesetempty001.png","bindType":-1,"knownIds":[118029]}

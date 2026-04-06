@@ -1,10 +1,1 @@
-{
-  "internalId": 4203011427,
-  "name": "Old Saaz Hops",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_vendor_fuel_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    27044
-  ]
-}
+{"internalId":4203011427,"name":"Old Saaz Hops","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/10/0_/re/crafting_vendor_fuel_beer_001.png","bindType":-1,"knownIds":[27044]}

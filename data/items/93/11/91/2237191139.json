@@ -1,10 +1,1 @@
-{
-  "internalId": 2237191139,
-  "name": "Sword of Morihaus",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_minotaur_1hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77058
-  ]
-}
+{"internalId":2237191139,"name":"Sword of Morihaus","description":"","icon":"data/images/a_/dr/ow/gear_minotaur_1hsword_a.png","bindType":2,"knownIds":[77058]}

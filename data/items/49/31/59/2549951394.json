@@ -1,10 +1,1 @@
-{
-  "internalId": 2549951394,
-  "name": "Marbita's Helm of Cyrodiil's Crest",
-  "description": "This helmet's interlocking metal plates provide excellent protection for the wearer's head.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_heavy_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    45741
-  ]
-}
+{"internalId":2549951394,"name":"Marbita's Helm of Cyrodiil's Crest","description":"This helmet's interlocking metal plates provide excellent protection for the wearer's head.","icon":"data/images/d_/da/eh/gear_redguard_heavy_head_d.png","bindType":2,"knownIds":[45741]}

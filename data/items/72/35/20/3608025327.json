@@ -1,10 +1,1 @@
-{
-  "internalId": 3608025327,
-  "name": "Axe of Bulwark Ruination",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1haxe_a.png",
-  "bindType": 2,
-  "knownIds": [
-    211730
-  ]
-}
+{"internalId":3608025327,"name":"Axe of Bulwark Ruination","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_1haxe_a.png","bindType":2,"knownIds":[211730]}

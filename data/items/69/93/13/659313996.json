@@ -1,10 +1,1 @@
-{
-  "internalId": 659313996,
-  "name": "Tomato Borscht Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    400086
-  ]
-}
+{"internalId":659313996,"name":"Tomato Borscht Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[400086]}

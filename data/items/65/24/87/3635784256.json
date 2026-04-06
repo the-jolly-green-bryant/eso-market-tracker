@@ -1,10 +1,1 @@
-{
-  "internalId": 3635784256,
-  "name": "Metallic: Forging Ore",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2617.png",
-  "bindType": -1,
-  "knownIds": [
-    1187126
-  ]
-}
+{"internalId":3635784256,"name":"Metallic: Forging Ore","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/dyestamp_jan2617.png","bindType":-1,"knownIds":[1187126]}

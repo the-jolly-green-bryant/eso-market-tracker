@@ -1,17 +1,1 @@
-{
-  "internalId": 2903948114,
-  "name": "Spattering Disjunction Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_staff.png",
-  "bindType": -1,
-  "knownIds": [
-    1746483,
-    1753520,
-    1773487,
-    1779090,
-    1746483,
-    1753520,
-    1773487,
-    1779090
-  ]
-}
+{"internalId":2903948114,"name":"Spattering Disjunction Lightning Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_arcanistclass_staff.png","bindType":-1,"knownIds":[1746483,1753520,1773487,1779090,1746483,1753520,1773487,1779090]}

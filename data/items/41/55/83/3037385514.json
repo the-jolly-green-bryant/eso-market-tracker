@@ -1,15 +1,1 @@
-{
-  "internalId": 3037385514,
-  "name": "Cinders of Anthelmir Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_mace.png",
-  "bindType": -1,
-  "knownIds": [
-    1717884,
-    1729101,
-    1735433,
-    1717884,
-    1729101,
-    1735433
-  ]
-}
+{"internalId":3037385514,"name":"Cinders of Anthelmir Mace","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_theremembrance_mace.png","bindType":-1,"knownIds":[1717884,1729101,1735433,1717884,1729101,1735433]}

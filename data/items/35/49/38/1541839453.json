@@ -1,10 +1,1 @@
-{
-  "internalId": 1541839453,
-  "name": "Dagger of Nocturnal's Ploy",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    189827
-  ]
-}
+{"internalId":1541839453,"name":"Dagger of Nocturnal's Ploy","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[189827]}

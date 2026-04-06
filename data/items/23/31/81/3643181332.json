@@ -1,17 +1,1 @@
-{
-  "internalId": 3643181332,
-  "name": "Monolith of Storms Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_hands_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1680034,
-    1690291,
-    1692802,
-    1779525,
-    1680034,
-    1690291,
-    1692802,
-    1779525
-  ]
-}
+{"internalId":3643181332,"name":"Monolith of Storms Bracers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_maestroofelementsarmor_hands_a.png","bindType":-1,"knownIds":[1680034,1690291,1692802,1779525,1680034,1690291,1692802,1779525]}

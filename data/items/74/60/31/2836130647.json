@@ -1,10 +1,1 @@
-{
-  "internalId": 2836130647,
-  "name": "Deadlands Urn, Inscribed",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedurn001.png",
-  "bindType": -1,
-  "knownIds": [
-    175712
-  ]
-}
+{"internalId":2836130647,"name":"Deadlands Urn, Inscribed","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_inc_dedurn001.png","bindType":-1,"knownIds":[175712]}

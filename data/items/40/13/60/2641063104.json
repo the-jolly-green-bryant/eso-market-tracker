@@ -1,10 +1,1 @@
-{
-  "internalId": 2641063104,
-  "name": "Bleakrock Snow Bucket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pot_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1369920
-  ]
-}
+{"internalId":2641063104,"name":"Bleakrock Snow Bucket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pot_001.png","bindType":-1,"knownIds":[1369920]}

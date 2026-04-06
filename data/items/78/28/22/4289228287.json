@@ -1,10 +1,1 @@
-{
-  "internalId": 4289228287,
-  "name": "Shrubs, Small Berry",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_bsh_sapling_cluster003.png",
-  "bindType": -1,
-  "knownIds": [
-    120720
-  ]
-}
+{"internalId":4289228287,"name":"Shrubs, Small Berry","description":"This is a small house item.","icon":"data/images/30/0r/et/housing_veg_bsh_sapling_cluster003.png","bindType":-1,"knownIds":[120720]}

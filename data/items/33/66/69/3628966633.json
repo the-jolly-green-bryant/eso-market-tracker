@@ -1,10 +1,1 @@
-{
-  "internalId": 3628966633,
-  "name": "Tree, Sturdy Shade",
-  "description": "This is a huge house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_trp_rmplainstree001.png",
-  "bindType": -1,
-  "knownIds": [
-    120687
-  ]
-}
+{"internalId":3628966633,"name":"Tree, Sturdy Shade","description":"This is a huge house item.","icon":"data/images/10/0e/er/housing_tre_trp_rmplainstree001.png","bindType":-1,"knownIds":[120687]}

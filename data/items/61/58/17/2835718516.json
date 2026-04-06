@@ -1,10 +1,1 @@
-{
-  "internalId": 2835718516,
-  "name": "Redoran Tapestry, House",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_dun_lsb_housebannerredoran001.png",
-  "bindType": -1,
-  "knownIds": [
-    126777
-  ]
-}
+{"internalId":2835718516,"name":"Redoran Tapestry, House","description":"This is a standard house item.","icon":"data/images/10/0n/ar/housing_dun_lsb_housebannerredoran001.png","bindType":-1,"knownIds":[126777]}

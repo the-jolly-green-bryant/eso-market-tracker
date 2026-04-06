@@ -1,10 +1,1 @@
-{
-  "internalId": 1596451641,
-  "name": "Mace of the Veiled Heritance",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_altmer_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    94397
-  ]
-}
+{"internalId":1596451641,"name":"Mace of the Veiled Heritance","description":"","icon":"data/images/d_/re/mm/gear_altmer_1hhammer_d.png","bindType":2,"knownIds":[94397]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3968035338,
-  "name": "Alinor Sarcophagus, Open",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_duc_sarcophagusopen001.png",
-  "bindType": -1,
-  "knownIds": [
-    139185
-  ]
-}
+{"internalId":3968035338,"name":"Alinor Sarcophagus, Open","description":"This is a standard house item.","icon":"data/images/10/0n/ep/housing_sum_duc_sarcophagusopen001.png","bindType":-1,"knownIds":[139185]}

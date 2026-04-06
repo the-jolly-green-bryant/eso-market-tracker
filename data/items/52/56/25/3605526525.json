@@ -1,10 +1,1 @@
-{
-  "internalId": 3605526525,
-  "name": "Werewolf Hide Boots",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_feet_a.png",
-  "bindType": 2,
-  "knownIds": [
-    86162
-  ]
-}
+{"internalId":3605526525,"name":"Werewolf Hide Boots","description":"","icon":"data/images/a_/te/ef/gear_primative_medium_feet_a.png","bindType":2,"knownIds":[86162]}

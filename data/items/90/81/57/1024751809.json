@@ -1,10 +1,1 @@
-{
-  "internalId": 1024751809,
-  "name": "Colovian Wine Crate, Small",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winecrate003.png",
-  "bindType": -1,
-  "knownIds": [
-    204706
-  ]
-}
+{"internalId":1024751809,"name":"Colovian Wine Crate, Small","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_winecrate003.png","bindType":-1,"knownIds":[204706]}

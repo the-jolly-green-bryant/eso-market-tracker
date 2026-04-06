@@ -1,10 +1,1 @@
-{
-  "internalId": 94250845,
-  "name": "Crafting Motif 54: Bloodforge Style",
-  "description": "Use to learn the Bloodforge crafting style. Also teaches the equivalent Bloodforge Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    132533
-  ]
-}
+{"internalId":94250845,"name":"Crafting Motif 54: Bloodforge Style","description":"Use to learn the Bloodforge crafting style. Also teaches the equivalent Bloodforge Outfit Styles.","icon":"data/images/10/0_/ko/quest_book_001.png","bindType":-1,"knownIds":[132533]}

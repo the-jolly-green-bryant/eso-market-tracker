@@ -1,10 +1,1 @@
-{
-  "internalId": 3856293277,
-  "name": "Weapons: Adamant Lurker",
-  "description": "A Heavy Armor set found in the Telvanni Peninsula.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    196199
-  ]
-}
+{"internalId":3856293277,"name":"Weapons: Adamant Lurker","description":"A Heavy Armor set found in the Telvanni Peninsula.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":2,"knownIds":[196199]}

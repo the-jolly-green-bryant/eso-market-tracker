@@ -1,10 +1,1 @@
-{
-  "internalId": 709256810,
-  "name": "Signature Script: Druid's Resurgence",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_resourcerestore.png",
-  "bindType": -1,
-  "knownIds": [
-    204582
-  ]
-}
+{"internalId":709256810,"name":"Signature Script: Druid's Resurgence","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/scribing_secondary_resourcerestore.png","bindType":-1,"knownIds":[204582]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4269755272,
-  "name": "Fargrave Colonnade Roof, Barrel",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_fardome003.png",
-  "bindType": -1,
-  "knownIds": [
-    184081
-  ]
-}
+{"internalId":4269755272,"name":"Fargrave Colonnade Roof, Barrel","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_str_fardome003.png","bindType":-1,"knownIds":[184081]}

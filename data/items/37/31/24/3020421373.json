@@ -1,10 +1,1 @@
-{
-  "internalId": 3020421373,
-  "name": "Belt of Orgnum's Scales",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56731
-  ]
-}
+{"internalId":3020421373,"name":"Belt of Orgnum's Scales","description":"","icon":"data/images/d_/ts/ia/gear_breton_medium_waist_d.png","bindType":2,"knownIds":[56731]}

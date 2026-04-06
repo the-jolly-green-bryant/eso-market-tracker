@@ -1,10 +1,1 @@
-{
-  "internalId": 3452806625,
-  "name": "Wyrd Moccasins",
-  "description": "Wyress Shannia gave you these handmade shoes in thanks for avenging the spriggans turned into lurchers at Jackdaw Cove.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_feet_d.png",
-  "bindType": 2,
-  "knownIds": [
-    15609
-  ]
-}
+{"internalId":3452806625,"name":"Wyrd Moccasins","description":"Wyress Shannia gave you these handmade shoes in thanks for avenging the spriggans turned into lurchers at Jackdaw Cove.","icon":"data/images/d_/te/ef/gear_breton_medium_feet_d.png","bindType":2,"knownIds":[15609]}

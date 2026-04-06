@@ -1,10 +1,1 @@
-{
-  "internalId": 2902755428,
-  "name": "Sacred Inkwell of Marukh the Seer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_marukh_seer_inkwell.png",
-  "bindType": -1,
-  "knownIds": [
-    979360
-  ]
-}
+{"internalId":2902755428,"name":"Sacred Inkwell of Marukh the Seer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_marukh_seer_inkwell.png","bindType":-1,"knownIds":[979360]}

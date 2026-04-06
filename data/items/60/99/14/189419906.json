@@ -1,10 +1,1 @@
-{
-  "internalId": 189419906,
-  "name": "Redguard Chest, Crested",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_inc_vargoldchest001.png",
-  "bindType": -1,
-  "knownIds": [
-    117899
-  ]
-}
+{"internalId":189419906,"name":"Redguard Chest, Crested","description":"This is a standard house item.","icon":"data/images/10/0t/se/housing_red_inc_vargoldchest001.png","bindType":-1,"knownIds":[117899]}

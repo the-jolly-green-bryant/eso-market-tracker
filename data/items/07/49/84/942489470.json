@@ -1,10 +1,1 @@
-{
-  "internalId": 942489470,
-  "name": "Pattern: Redguard Couch, Slatted",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    119239
-  ]
-}
+{"internalId":942489470,"name":"Pattern: Redguard Couch, Slatted","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[119239]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4194793858,
-  "name": "Tree, Large Galen Beech",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sys_carobcliffroots001.png",
-  "bindType": -1,
-  "knownIds": [
-    192393
-  ]
-}
+{"internalId":4194793858,"name":"Tree, Large Galen Beech","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sys_carobcliffroots001.png","bindType":-1,"knownIds":[192393]}

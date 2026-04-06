@@ -1,13 +1,1 @@
-{
-  "internalId": 1186632844,
-  "name": "Woodworker Survey: Auridon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    799744,
-    1424910,
-    799744,
-    1424910
-  ]
-}
+{"internalId":1186632844,"name":"Woodworker Survey: Auridon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[799744,1424910,799744,1424910]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2583719123,
-  "name": "Greatsword of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79156
-  ]
-}
+{"internalId":2583719123,"name":"Greatsword of Imperial Physique","description":"","icon":"data/images/a_/dr/ow/gear_ooth_2hsword_a.png","bindType":2,"knownIds":[79156]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 983297136,
-  "name": "Axe of the Valiant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92771
-  ]
-}
+{"internalId":983297136,"name":"Axe of the Valiant","description":"","icon":"data/images/d_/ex/ah/gear_breton_1haxe_d.png","bindType":2,"knownIds":[92771]}

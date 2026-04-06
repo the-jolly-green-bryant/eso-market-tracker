@@ -1,10 +1,1 @@
-{
-  "internalId": 2660075619,
-  "name": "Reeking Blanket",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1306647
-  ]
-}
+{"internalId":2660075619,"name":"Reeking Blanket","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_blanket_001.png","bindType":-1,"knownIds":[1306647]}

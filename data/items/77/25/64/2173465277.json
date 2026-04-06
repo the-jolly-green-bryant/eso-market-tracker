@@ -1,10 +1,1 @@
-{
-  "internalId": 2173465277,
-  "name": "Leaf Pile, Thatch Palm",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_keythatchpalmdeadpile001.png",
-  "bindType": -1,
-  "knownIds": [
-    223172
-  ]
-}
+{"internalId":2173465277,"name":"Leaf Pile, Thatch Palm","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tre_sol_keythatchpalmdeadpile001.png","bindType":-1,"knownIds":[223172]}

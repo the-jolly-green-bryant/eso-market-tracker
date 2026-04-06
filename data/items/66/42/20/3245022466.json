@@ -1,10 +1,1 @@
-{
-  "internalId": 3245022466,
-  "name": "Velvet Curtains",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png",
-  "bindType": -1,
-  "knownIds": [
-    863251
-  ]
-}
+{"internalId":3245022466,"name":"Velvet Curtains","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_002.png","bindType":-1,"knownIds":[863251]}

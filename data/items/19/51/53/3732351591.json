@@ -1,10 +1,1 @@
-{
-  "internalId": 3732351591,
-  "name": "Iron Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2hsword_d.png",
-  "bindType": -1,
-  "knownIds": [
-    223646
-  ]
-}
+{"internalId":3732351591,"name":"Iron Greatsword","description":"","icon":"data/images/gn/is/si/icon_missing.png","bindType":2,"knownIds":[150797]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 839133050,
-  "name": "Bow of Eternal Vigor",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    161175
-  ]
-}
+{"internalId":839133050,"name":"Bow of Eternal Vigor","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_grayhost_bow_a.png","bindType":2,"knownIds":[161175]}

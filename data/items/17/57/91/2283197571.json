@@ -1,10 +1,1 @@
-{
-  "internalId": 2283197571,
-  "name": "Lightning Staff of Imperial Physique",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ooth_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    79220
-  ]
-}
+{"internalId":2283197571,"name":"Lightning Staff of Imperial Physique","description":"","icon":"data/images/a_/ff/at/gear_ooth_staff_a.png","bindType":2,"knownIds":[79220]}

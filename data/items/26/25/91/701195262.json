@@ -1,10 +1,1 @@
-{
-  "internalId": 701195262,
-  "name": "Exemplary Nirnhoned Jack",
-  "description": "By researching this piece of gear, you can learn to make your own Nirnhoned Jack.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    81629
-  ]
-}
+{"internalId":701195262,"name":"Exemplary Nirnhoned Jack","description":"By researching this piece of gear, you can learn to make your own Nirnhoned Jack.","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":-1,"knownIds":[81629]}

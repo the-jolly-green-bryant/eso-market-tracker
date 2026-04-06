@@ -1,10 +1,1 @@
-{
-  "internalId": 1354766300,
-  "name": "Leg Guards of the Hawk's Eye",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_primative_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44134
-  ]
-}
+{"internalId":1354766300,"name":"Leg Guards of the Hawk's Eye","description":"","icon":"data/images/a_/sg/el/gear_primative_medium_legs_a.png","bindType":2,"knownIds":[44134]}

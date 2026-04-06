@@ -1,10 +1,1 @@
-{
-  "internalId": 1606472971,
-  "name": "Recipe: Tranquility Pale Ale",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    45547
-  ]
-}
+{"internalId":1606472971,"name":"Recipe: Tranquility Pale Ale","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[45547]}

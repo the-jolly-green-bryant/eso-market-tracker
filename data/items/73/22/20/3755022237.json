@@ -1,10 +1,1 @@
-{
-  "internalId": 3755022237,
-  "name": "Gourmand's Gloves",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    190531
-  ]
-}
+{"internalId":3755022237,"name":"Gourmand's Gloves","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_firesongcircle_light_hands_a.png","bindType":2,"knownIds":[190531]}

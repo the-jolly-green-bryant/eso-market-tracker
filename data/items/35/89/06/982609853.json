@@ -1,10 +1,1 @@
-{
-  "internalId": 982609853,
-  "name": "Necrom Doorway, Tall",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_housingnechighroomwalldoor003.png",
-  "bindType": -1,
-  "knownIds": [
-    198018
-  ]
-}
+{"internalId":982609853,"name":"Necrom Doorway, Tall","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_duc_housingnechighroomwalldoor003.png","bindType":-1,"knownIds":[198018]}

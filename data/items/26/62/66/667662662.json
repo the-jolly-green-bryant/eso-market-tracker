@@ -1,10 +1,1 @@
-{
-  "internalId": 667662662,
-  "name": "Solitude Nightstand, Noble Cabinet",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_endtablefancy006.png",
-  "bindType": -1,
-  "knownIds": [
-    165701
-  ]
-}
+{"internalId":667662662,"name":"Solitude Nightstand, Noble Cabinet","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_fur_endtablefancy006.png","bindType":-1,"knownIds":[165701]}

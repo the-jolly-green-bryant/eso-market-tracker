@@ -1,10 +1,1 @@
-{
-  "internalId": 4039638990,
-  "name": "Minor Soul Gem",
-  "description": "Used to fully charge weapons up to Level 19, and revive up to Level 19 players.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/soulgem_002_filled.png",
-  "bindType": -1,
-  "knownIds": [
-    33267
-  ]
-}
+{"internalId":4039638990,"name":"Minor Soul Gem","description":"Used to fully charge weapons up to Level 19, and revive up to Level 19 players.","icon":"data/images/de/ll/if/soulgem_002_filled.png","bindType":-1,"knownIds":[33267]}

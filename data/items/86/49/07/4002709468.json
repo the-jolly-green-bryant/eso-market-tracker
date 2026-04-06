@@ -1,10 +1,1 @@
-{
-  "internalId": 4002709468,
-  "name": "Pattern: Breton Rug, Bordered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_clothier_4.png",
-  "bindType": -1,
-  "knownIds": [
-    115990
-  ]
-}
+{"internalId":4002709468,"name":"Pattern: Breton Rug, Bordered","description":"","icon":"data/images/4_/re/ih/crafting_planfurniture_clothier_4.png","bindType":-1,"knownIds":[115990]}

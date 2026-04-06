@@ -1,10 +1,1 @@
-{
-  "internalId": 1223227159,
-  "name": "Autographed Calling Card",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png",
-  "bindType": -1,
-  "knownIds": [
-    845075
-  ]
-}
+{"internalId":1223227159,"name":"Autographed Calling Card","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_envelope_001.png","bindType":-1,"knownIds":[845075]}

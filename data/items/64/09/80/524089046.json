@@ -1,10 +1,1 @@
-{
-  "internalId": 524089046,
-  "name": "Colovian Doorway, Stone",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housingintcellardoorway001.png",
-  "bindType": -1,
-  "knownIds": [
-    208098
-  ]
-}
+{"internalId":524089046,"name":"Colovian Doorway, Stone","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_str_housingintcellardoorway001.png","bindType":-1,"knownIds":[208098]}

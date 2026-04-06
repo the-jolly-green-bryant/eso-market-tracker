@@ -1,10 +1,1 @@
-{
-  "internalId": 3737235903,
-  "name": "Orcish Sack, Bean",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_orc_con_smallbarrelopen001.png",
-  "bindType": -1,
-  "knownIds": [
-    116383
-  ]
-}
+{"internalId":3737235903,"name":"Orcish Sack, Bean","description":"This is a standard house item.","icon":"data/images/10/0n/ep/housing_orc_con_smallbarrelopen001.png","bindType":-1,"knownIds":[116383]}

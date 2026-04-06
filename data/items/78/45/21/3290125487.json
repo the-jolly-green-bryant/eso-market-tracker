@@ -1,10 +1,1 @@
-{
-  "internalId": 3290125487,
-  "name": "Blacksmith Survey: Eastmarch",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    431205
-  ]
-}
+{"internalId":3290125487,"name":"Blacksmith Survey: Eastmarch","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[431205]}

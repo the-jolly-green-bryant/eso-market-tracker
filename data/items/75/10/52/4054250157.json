@@ -1,10 +1,1 @@
-{
-  "internalId": 4054250157,
-  "name": "Jarl's Manor Key",
-  "description": "",
-  "icon": null,
-  "bindType": -1,
-  "knownIds": [
-    821049
-  ]
-}
+{"internalId":4054250157,"name":"Jarl's Manor Key","description":"","icon":null,"bindType":-1,"knownIds":[821049]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3025701187,
-  "name": "Bog Raider's Greatsword",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    172433
-  ]
-}
+{"internalId":3025701187,"name":"Bog Raider's Greatsword","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_swamplegion_2hsword_a.png","bindType":2,"knownIds":[172433]}

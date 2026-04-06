@@ -1,11 +1,1 @@
-{
-  "internalId": 4165105534,
-  "name": "Calf-Skin Baby Shoes",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    401216,
-    401216
-  ]
-}
+{"internalId":4165105534,"name":"Calf-Skin Baby Shoes","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_clothing_001.png","bindType":-1,"knownIds":[401216,401216]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2379766711,
-  "name": "The Spawn of Molag Bal",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png",
-  "bindType": -1,
-  "knownIds": [
-    1248597
-  ]
-}
+{"internalId":2379766711,"name":"The Spawn of Molag Bal","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_cld_inc_bookclosed002.png","bindType":-1,"knownIds":[1248597]}

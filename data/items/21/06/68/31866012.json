@@ -1,10 +1,1 @@
-{
-  "internalId": 31866012,
-  "name": "High Isle Mussel, Steamed Pile",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_musselpile001.png",
-  "bindType": -1,
-  "knownIds": [
-    187850
-  ]
-}
+{"internalId":31866012,"name":"High Isle Mussel, Steamed Pile","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_inc_musselpile001.png","bindType":-1,"knownIds":[187850]}

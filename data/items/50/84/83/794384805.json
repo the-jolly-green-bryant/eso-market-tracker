@@ -1,10 +1,1 @@
-{
-  "internalId": 794384805,
-  "name": "Old Meal",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_cloth_pollen.png",
-  "bindType": -1,
-  "knownIds": [
-    26999
-  ]
-}
+{"internalId":794384805,"name":"Old Meal","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/ne/ll/op/crafting_cloth_pollen.png","bindType":-1,"knownIds":[26999]}

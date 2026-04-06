@@ -1,10 +1,1 @@
-{
-  "internalId": 3358401322,
-  "name": "Mabrigash Spectral Blade of Mother's Sorrow",
-  "description": "A sword awarded for defeating the ghost, Mabrigash Shade.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_1hsword_d.png",
-  "bindType": 2,
-  "knownIds": [
-    43025
-  ]
-}
+{"internalId":3358401322,"name":"Mabrigash Spectral Blade of Mother's Sorrow","description":"A sword awarded for defeating the ghost, Mabrigash Shade.","icon":"data/images/d_/dr/ow/gear_dunmer_1hsword_d.png","bindType":2,"knownIds":[43025]}

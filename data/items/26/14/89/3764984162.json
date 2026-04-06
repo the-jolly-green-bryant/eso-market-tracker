@@ -1,10 +1,1 @@
-{
-  "internalId": 3764984162,
-  "name": "Scrap-Metal Idol of Seht",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1413955
-  ]
-}
+{"internalId":3764984162,"name":"Scrap-Metal Idol of Seht","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_figurine_001.png","bindType":-1,"knownIds":[1413955]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1909913838,
-  "name": "Diagram: Nord Pot, Covered",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing2.png",
-  "bindType": -1,
-  "knownIds": [
-    116161
-  ]
-}
+{"internalId":1909913838,"name":"Diagram: Nord Pot, Covered","description":"","icon":"data/images/2g/ni/ht/crafting_planfurniture_blacksmithing2.png","bindType":-1,"knownIds":[116161]}

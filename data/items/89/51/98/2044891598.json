@@ -1,10 +1,1 @@
-{
-  "internalId": 2044891598,
-  "name": "Cuirass of the Sergeant",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89778
-  ]
-}
+{"internalId":2044891598,"name":"Cuirass of the Sergeant","description":"","icon":"data/images/d_/ts/eh/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[89778]}

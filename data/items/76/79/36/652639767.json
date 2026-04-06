@@ -1,10 +1,1 @@
-{
-  "internalId": 652639767,
-  "name": "Combination Sextant-Scope",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_bendu_oles_sextant.png",
-  "bindType": -1,
-  "knownIds": [
-    1157082
-  ]
-}
+{"internalId":652639767,"name":"Combination Sextant-Scope","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_unique_bendu_oles_sextant.png","bindType":-1,"knownIds":[1157082]}

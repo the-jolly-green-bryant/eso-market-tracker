@@ -1,10 +1,1 @@
-{
-  "internalId": 4168681750,
-  "name": "High Isle Sconce, Ornate",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sys_lsb_wallsconce001.png",
-  "bindType": -1,
-  "knownIds": [
-    187844
-  ]
-}
+{"internalId":4168681750,"name":"High Isle Sconce, Ornate","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_sys_lsb_wallsconce001.png","bindType":-1,"knownIds":[187844]}

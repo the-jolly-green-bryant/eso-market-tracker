@@ -1,10 +1,1 @@
-{
-  "internalId": 2044242425,
-  "name": "Hand-Drawn Constellation Map",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    851532
-  ]
-}
+{"internalId":2044242425,"name":"Hand-Drawn Constellation Map","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_scroll_001.png","bindType":-1,"knownIds":[851532]}

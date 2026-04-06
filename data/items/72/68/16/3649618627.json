@@ -1,10 +1,1 @@
-{
-  "internalId": 3649618627,
-  "name": "Jewelry: Essence Thief",
-  "description": "A Medium Armor set found in White-Gold Tower.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 2,
-  "knownIds": [
-    134236
-  ]
-}
+{"internalId":3649618627,"name":"Jewelry: Essence Thief","description":"A Medium Armor set found in White-Gold Tower.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":2,"knownIds":[134236]}

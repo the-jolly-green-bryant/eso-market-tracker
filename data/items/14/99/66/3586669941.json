@@ -1,10 +1,1 @@
-{
-  "internalId": 3586669941,
-  "name": "The Trial of Air",
-  "description": "Use to read.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/lore_book1_detail1_color1.png",
-  "bindType": -1,
-  "knownIds": [
-    45783
-  ]
-}
+{"internalId":3586669941,"name":"The Trial of Air","description":"Use to read.","icon":"data/images/1r/ol/oc/lore_book1_detail1_color1.png","bindType":-1,"knownIds":[45783]}

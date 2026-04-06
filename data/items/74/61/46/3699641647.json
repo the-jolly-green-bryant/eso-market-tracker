@@ -1,10 +1,1 @@
-{
-  "internalId": 3699641647,
-  "name": "Nord Pot, Ceramic",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_nor_duc_pot005.png",
-  "bindType": -1,
-  "knownIds": [
-    115357
-  ]
-}
+{"internalId":3699641647,"name":"Nord Pot, Ceramic","description":"This is a small house item.","icon":"data/images/50/0t/op/housing_nor_duc_pot005.png","bindType":-1,"knownIds":[115357]}

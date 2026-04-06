@@ -1,10 +1,1 @@
-{
-  "internalId": 2042953797,
-  "name": "Tumnosh Lantern",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png",
-  "bindType": -1,
-  "knownIds": [
-    794589
-  ]
-}
+{"internalId":2042953797,"name":"Tumnosh Lantern","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_lantern_001.png","bindType":-1,"knownIds":[794589]}

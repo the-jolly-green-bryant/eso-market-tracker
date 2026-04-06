@@ -1,10 +1,1 @@
-{
-  "internalId": 463426192,
-  "name": "Telvanni Stool, Fungal",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_ottoman001.png",
-  "bindType": -1,
-  "knownIds": [
-    197523
-  ]
-}
+{"internalId":463426192,"name":"Telvanni Stool, Fungal","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_tlv_fur_ottoman001.png","bindType":-1,"knownIds":[197523]}

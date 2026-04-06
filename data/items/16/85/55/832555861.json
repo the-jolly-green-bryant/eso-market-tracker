@@ -1,10 +1,1 @@
-{
-  "internalId": 832555861,
-  "name": "Stonehulk Domination Inferno Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_staff_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1771163
-  ]
-}
+{"internalId":832555861,"name":"Stonehulk Domination Inferno Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_voskronaguardian_staff_a.png","bindType":-1,"knownIds":[1771163]}

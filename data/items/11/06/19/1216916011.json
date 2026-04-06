@@ -1,10 +1,1 @@
-{
-  "internalId": 1216916011,
-  "name": "Ancient Leel Vestment",
-  "description": "An ancient chestpiece once lost to the abandoned Argonian village of Tainted Leel.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    217728
-  ]
-}
+{"internalId":1216916011,"name":"Ancient Leel Vestment","description":"An ancient chestpiece once lost to the abandoned Argonian village of Tainted Leel.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_argoniansolstice_medium_chest_a.png","bindType":2,"knownIds":[217728]}

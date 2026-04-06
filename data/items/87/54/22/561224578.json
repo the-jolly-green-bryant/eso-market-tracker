@@ -1,10 +1,1 @@
-{
-  "internalId": 561224578,
-  "name": "Conch Shell Inkwell",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gildedconch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    658739
-  ]
-}
+{"internalId":561224578,"name":"Conch Shell Inkwell","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_gildedconch_001.png","bindType":-1,"knownIds":[658739]}

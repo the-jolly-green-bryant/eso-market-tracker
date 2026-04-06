@@ -1,10 +1,1 @@
-{
-  "internalId": 3900334851,
-  "name": "Impregnable Armor Jerkin",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ordinator_light_shirt_a.png",
-  "bindType": 2,
-  "knownIds": [
-    125965
-  ]
-}
+{"internalId":3900334851,"name":"Impregnable Armor Jerkin","description":"","icon":"data/images/a_/tr/ih/gear_ordinator_light_shirt_a.png","bindType":2,"knownIds":[125965]}

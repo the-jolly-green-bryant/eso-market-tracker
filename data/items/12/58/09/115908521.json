@@ -1,10 +1,1 @@
-{
-  "internalId": 115908521,
-  "name": "Bear Paw Paperweight",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385531
-  ]
-}
+{"internalId":115908521,"name":"Bear Paw Paperweight","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_paperweight_001.png","bindType":-1,"knownIds":[1385531]}

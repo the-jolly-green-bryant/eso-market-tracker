@@ -1,10 +1,1 @@
-{
-  "internalId": 327855618,
-  "name": "Diagram: High Elf Goblet, Winged",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    118946
-  ]
-}
+{"internalId":327855618,"name":"Diagram: High Elf Goblet, Winged","description":"","icon":"data/images/4g/ni/ht/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[118946]}

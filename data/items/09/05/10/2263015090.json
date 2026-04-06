@@ -1,10 +1,1 @@
-{
-  "internalId": 2263015090,
-  "name": "Riekling Brazier, Ceremonial",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_rkrlampstand001.png",
-  "bindType": -1,
-  "knownIds": [
-    134463
-  ]
-}
+{"internalId":2263015090,"name":"Riekling Brazier, Ceremonial","description":"This is a standard house item.","icon":"data/images/10/0d/na/housing_gen_exc_rkrlampstand001.png","bindType":-1,"knownIds":[134463]}

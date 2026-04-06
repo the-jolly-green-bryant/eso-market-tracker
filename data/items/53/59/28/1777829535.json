@@ -1,10 +1,1 @@
-{
-  "internalId": 1777829535,
-  "name": "Kwama-Cutter",
-  "description": "Kwama-egg miners avoid killing their insectoid livestock, but sometimes riled kwama warriors leave them no choice.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redoran_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    126046
-  ]
-}
+{"internalId":1777829535,"name":"Kwama-Cutter","description":"Kwama-egg miners avoid killing their insectoid livestock, but sometimes riled kwama warriors leave them no choice.","icon":"data/images/a_/dr/ow/gear_redoran_2hsword_a.png","bindType":2,"knownIds":[126046]}

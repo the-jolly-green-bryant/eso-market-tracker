@@ -1,10 +1,1 @@
-{
-  "internalId": 2951574879,
-  "name": "Vanus's Lightning Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_psijicorder_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    135685
-  ]
-}
+{"internalId":2951574879,"name":"Vanus's Lightning Staff","description":"","icon":"data/images/a_/ff/at/gear_psijicorder_staff_a.png","bindType":2,"knownIds":[135685]}

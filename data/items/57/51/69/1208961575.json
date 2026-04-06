@@ -1,10 +1,1 @@
-{
-  "internalId": 1208961575,
-  "name": "Girdle of the Gorethief",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png",
-  "bindType": 2,
-  "knownIds": [
-    224640
-  ]
-}
+{"internalId":1208961575,"name":"Girdle of the Gorethief","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_waist_d.png","bindType":2,"knownIds":[224640]}

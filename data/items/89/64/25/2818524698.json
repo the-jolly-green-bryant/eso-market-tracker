@@ -1,13 +1,1 @@
-{
-  "internalId": 2818524698,
-  "name": "Pearlescent Crayfish",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png",
-  "bindType": -1,
-  "knownIds": [
-    1241341,
-    1424977,
-    1241341,
-    1424977
-  ]
-}
+{"internalId":2818524698,"name":"Pearlescent Crayfish","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_blue_crawdad.png","bindType":-1,"knownIds":[1241341,1424977,1241341,1424977]}

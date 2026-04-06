@@ -1,10 +1,1 @@
-{
-  "internalId": 3879523574,
-  "name": "Bitterblade Mining Helmet",
-  "description": "Protective headgear used by the miners in Dusktown.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    159707
-  ]
-}
+{"internalId":3879523574,"name":"Bitterblade Mining Helmet","description":"Protective headgear used by the miners in Dusktown.","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nord_medium_head_d.png","bindType":2,"knownIds":[159707]}

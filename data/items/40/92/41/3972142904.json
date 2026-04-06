@@ -1,10 +1,1 @@
-{
-  "internalId": 3972142904,
-  "name": "Wayward Guardian's Cache",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1395335
-  ]
-}
+{"internalId":3972142904,"name":"Wayward Guardian's Cache","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png","bindType":-1,"knownIds":[1395335]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2157772152,
-  "name": "Revelry Pie",
-  "description": "Join in the festivities by hurling your Alliance's pie at friends and enemies alike. What are you wearing for the Jester's Festival? Revelry pie!",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_jestersfestival_revelerypie.png",
-  "bindType": -1,
-  "knownIds": [
-    147300
-  ]
-}
+{"internalId":2157772152,"name":"Revelry Pie","description":"Join in the festivities by hurling your Alliance's pie at friends and enemies alike. What are you wearing for the Jester's Festival? Revelry pie!","icon":"data/images/ei/py/re/event_jestersfestival_revelerypie.png","bindType":-1,"knownIds":[147300]}

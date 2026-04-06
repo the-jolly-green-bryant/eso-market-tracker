@@ -1,10 +1,1 @@
-{
-  "internalId": 1813723943,
-  "name": "Xanmeer Genesis Bracers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_medium_hands_a.png",
-  "bindType": 2,
-  "knownIds": [
-    223520
-  ]
-}
+{"internalId":1813723943,"name":"Xanmeer Genesis Bracers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_fellowshipstirk_medium_hands_a.png","bindType":2,"knownIds":[223520]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3152900202,
-  "name": "The Wandering Skald",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1246856
-  ]
-}
+{"internalId":3152900202,"name":"The Wandering Skald","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1246856]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 2495172695,
-  "name": "Riften \"Hunting Horn\"",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png",
-  "bindType": -1,
-  "knownIds": [
-    801330
-  ]
-}
+{"internalId":2495172695,"name":"Riften \"Hunting Horn\"","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_horn_001.png","bindType":-1,"knownIds":[801330]}

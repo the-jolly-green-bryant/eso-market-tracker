@@ -1,10 +1,1 @@
-{
-  "internalId": 1922832663,
-  "name": "Nightshade Helmet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_argonian_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    44216
-  ]
-}
+{"internalId":1922832663,"name":"Nightshade Helmet","description":"","icon":"data/images/d_/da/eh/gear_argonian_medium_head_d.png","bindType":2,"knownIds":[44216]}

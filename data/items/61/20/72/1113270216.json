@@ -1,10 +1,1 @@
-{
-  "internalId": 1113270216,
-  "name": "Bat Oil",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_batoil.png",
-  "bindType": -1,
-  "knownIds": [
-    160558
-  ]
-}
+{"internalId":1113270216,"name":"Bat Oil","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_style_item_batoil.png","bindType":-1,"knownIds":[160558]}

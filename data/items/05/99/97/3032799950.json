@@ -1,10 +1,1 @@
-{
-  "internalId": 3032799950,
-  "name": "Brigandine of Bergama",
-  "description": "A troubled Redguard couple gave you this armor after you helped their wedding proceed.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_redguard_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    26156
-  ]
-}
+{"internalId":3032799950,"name":"Brigandine of Bergama","description":"A troubled Redguard couple gave you this armor after you helped their wedding proceed.","icon":"data/images/d_/ts/eh/gear_redguard_medium_chest_d.png","bindType":2,"knownIds":[26156]}

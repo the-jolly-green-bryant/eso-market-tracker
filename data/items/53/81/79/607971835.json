@@ -1,10 +1,1 @@
-{
-  "internalId": 607971835,
-  "name": "Orcish Single-Tined Fork",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1385009
-  ]
-}
+{"internalId":607971835,"name":"Orcish Single-Tined Fork","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_fork_001.png","bindType":-1,"knownIds":[1385009]}

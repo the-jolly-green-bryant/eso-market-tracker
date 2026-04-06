@@ -1,10 +1,1 @@
-{
-  "internalId": 944007891,
-  "name": "Reverie's Trick Bow",
-  "description": "Andewen gave you this fine old bow for saving her from a very peculiar doom at Ebon Stadmont.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_bow_b.png",
-  "bindType": 2,
-  "knownIds": [
-    134694
-  ]
-}
+{"internalId":944007891,"name":"Reverie's Trick Bow","description":"Andewen gave you this fine old bow for saving her from a very peculiar doom at Ebon Stadmont.","icon":"data/images/b_/wo/b_/gear_ancient_elf_bow_b.png","bindType":2,"knownIds":[134694]}

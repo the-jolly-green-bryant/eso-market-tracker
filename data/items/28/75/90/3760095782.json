@@ -1,10 +1,1 @@
-{
-  "internalId": 3760095782,
-  "name": "Apple-Bobbing Fenwood Ladle",
-  "description": "This is one of seven parts of the Apple-Bobbing Cauldron Runebox.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_vrd_inc_hlawooddinnerspoon001.png",
-  "bindType": -1,
-  "knownIds": [
-    153492
-  ]
-}
+{"internalId":3760095782,"name":"Apple-Bobbing Fenwood Ladle","description":"This is one of seven parts of the Apple-Bobbing Cauldron Runebox.","icon":"data/images/10/0n/oo/housing_vrd_inc_hlawooddinnerspoon001.png","bindType":-1,"knownIds":[153492]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 923093176,
-  "name": "Mace of the Voidcaller",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_1hhammer_a.png",
-  "bindType": 2,
-  "knownIds": [
-    167745
-  ]
-}
+{"internalId":923093176,"name":"Mace of the Voidcaller","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_nighthollowreg_1hhammer_a.png","bindType":2,"knownIds":[167745]}

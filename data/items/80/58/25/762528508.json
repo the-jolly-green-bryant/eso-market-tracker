@@ -1,10 +1,1 @@
-{
-  "internalId": 762528508,
-  "name": "Dead-Water's Guile Arm Cops",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadwater_medium_shoulder_a.png",
-  "bindType": 2,
-  "knownIds": [
-    142578
-  ]
-}
+{"internalId":762528508,"name":"Dead-Water's Guile Arm Cops","description":"","icon":"data/images/a_/re/dl/gear_deadwater_medium_shoulder_a.png","bindType":2,"knownIds":[142578]}

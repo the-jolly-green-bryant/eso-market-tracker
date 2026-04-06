@@ -1,10 +1,1 @@
-{
-  "internalId": 3456495185,
-  "name": "Blessed Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_ancient_elf_1hhammer_b.png",
-  "bindType": 2,
-  "knownIds": [
-    102396
-  ]
-}
+{"internalId":3456495185,"name":"Blessed Mace","description":"","icon":"data/images/b_/re/mm/gear_ancient_elf_1hhammer_b.png","bindType":2,"knownIds":[102396]}

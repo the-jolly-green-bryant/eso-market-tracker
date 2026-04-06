@@ -1,10 +1,1 @@
-{
-  "internalId": 2858630897,
-  "name": "Formula: Dawnwood Lantern, Antlers",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png",
-  "bindType": -1,
-  "knownIds": [
-    207869
-  ]
-}
+{"internalId":2858630897,"name":"Formula: Dawnwood Lantern, Antlers","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_alchemy3.png","bindType":-1,"knownIds":[207869]}

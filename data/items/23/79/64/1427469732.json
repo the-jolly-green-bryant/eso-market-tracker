@@ -1,10 +1,1 @@
-{
-  "internalId": 1427469732,
-  "name": "Diagram: Leyawiin Chandelier, Grand Brass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png",
-  "bindType": -1,
-  "knownIds": [
-    175978
-  ]
-}
+{"internalId":1427469732,"name":"Diagram: Leyawiin Chandelier, Grand Brass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_blacksmithing4.png","bindType":-1,"knownIds":[175978]}

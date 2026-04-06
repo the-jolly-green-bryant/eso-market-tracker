@@ -1,10 +1,1 @@
-{
-  "internalId": 94528612,
-  "name": "Hunt-Wife's Beef Radish Stew",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_002.png",
-  "bindType": -1,
-  "knownIds": [
-    33560
-  ]
-}
+{"internalId":94528612,"name":"Hunt-Wife's Beef Radish Stew","description":"","icon":"data/images/20/0_/we/crafting_stew_002.png","bindType":-1,"knownIds":[33560]}

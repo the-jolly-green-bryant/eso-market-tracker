@@ -1,10 +1,1 @@
-{
-  "internalId": 152138814,
-  "name": "Thalmor Handbill",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png",
-  "bindType": -1,
-  "knownIds": [
-    1134079
-  ]
-}
+{"internalId":152138814,"name":"Thalmor Handbill","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed005.png","bindType":-1,"knownIds":[1134079]}

@@ -1,17 +1,1 @@
-{
-  "internalId": 3013514822,
-  "name": "Aetheric Lancer Sash",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_waist_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1743609,
-    1745948,
-    1750837,
-    1757634,
-    1743609,
-    1745948,
-    1750837,
-    1757634
-  ]
-}
+{"internalId":3013514822,"name":"Aetheric Lancer Sash","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_templarclass_waist_a.png","bindType":-1,"knownIds":[1743609,1745948,1750837,1757634,1743609,1745948,1750837,1757634]}

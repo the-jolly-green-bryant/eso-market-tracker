@@ -1,10 +1,1 @@
-{
-  "internalId": 1754465284,
-  "name": "Brood's Egg Splinter",
-  "description": "Acquire and use the Brood's Egg Splinter along with the other nine Egg of Arac Splinters to unlock the relic Gauntlet Bearer achievement as well as the Egg of Arac relic and memento.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png",
-  "bindType": 3,
-  "knownIds": [
-    223799
-  ]
-}
+{"internalId":1754465284,"name":"Brood's Egg Splinter","description":"Acquire and use the Brood's Egg Splinter along with the other nine Egg of Arac Splinters to unlock the relic Gauntlet Bearer achievement as well as the Egg of Arac relic and memento.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_gemstone_tear_0002.png","bindType":3,"knownIds":[223799]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1438099730,
-  "name": "Kelp Kaveh",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stoneware_bottle_002.png",
-  "bindType": -1,
-  "knownIds": [
-    37934
-  ]
-}
+{"internalId":1438099730,"name":"Kelp Kaveh","description":"","icon":"data/images/20/0_/el/crafting_stoneware_bottle_002.png","bindType":-1,"knownIds":[37934]}

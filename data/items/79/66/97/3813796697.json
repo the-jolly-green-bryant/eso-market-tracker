@@ -1,10 +1,1 @@
-{
-  "internalId": 3813796697,
-  "name": "Cheesemaking Whisk, Wooden",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_cheesecurdwhisk001.png",
-  "bindType": -1,
-  "knownIds": [
-    204743
-  ]
-}
+{"internalId":3813796697,"name":"Cheesemaking Whisk, Wooden","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_inc_cheesecurdwhisk001.png","bindType":-1,"knownIds":[204743]}

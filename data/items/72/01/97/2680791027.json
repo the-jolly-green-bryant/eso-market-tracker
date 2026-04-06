@@ -1,10 +1,1 @@
-{
-  "internalId": 2680791027,
-  "name": "Crafting Motif 90: Thorn Legion Bows",
-  "description": "Use to learn how to make Thorn Legion Bows. Also teaches the equivalent Thorn Legion Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    166976
-  ]
-}
+{"internalId":2680791027,"name":"Crafting Motif 90: Thorn Legion Bows","description":"Use to learn how to make Thorn Legion Bows. Also teaches the equivalent Thorn Legion Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[166976]}

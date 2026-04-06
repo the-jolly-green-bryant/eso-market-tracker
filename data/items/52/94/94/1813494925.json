@@ -1,10 +1,1 @@
-{
-  "internalId": 1813494925,
-  "name": "Defiled Oathstone",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/item_u26_defiled_oathstone.png",
-  "bindType": -1,
-  "knownIds": [
-    1367311
-  ]
-}
+{"internalId":1813494925,"name":"Defiled Oathstone","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/item_u26_defiled_oathstone.png","bindType":-1,"knownIds":[1367311]}

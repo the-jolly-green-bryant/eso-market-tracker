@@ -1,10 +1,1 @@
-{
-  "internalId": 1989296513,
-  "name": "Breeches of the Worm",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_artifactwormcultlight_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77709
-  ]
-}
+{"internalId":1989296513,"name":"Breeches of the Worm","description":"","icon":"data/images/a_/sg/el/gear_artifactwormcultlight_legs_a.png","bindType":2,"knownIds":[77709]}

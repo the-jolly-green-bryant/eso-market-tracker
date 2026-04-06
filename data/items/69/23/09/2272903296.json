@@ -1,10 +1,1 @@
-{
-  "internalId": 2272903296,
-  "name": "Jewelry Crafting Survey: Alik'r",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1240669
-  ]
-}
+{"internalId":2272903296,"name":"Jewelry Crafting Survey: Alik'r","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[1240669]}

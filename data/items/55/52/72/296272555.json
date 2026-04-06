@@ -1,10 +1,1 @@
-{
-  "internalId": 296272555,
-  "name": "Clothier Survey: Greenshade",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    891348
-  ]
-}
+{"internalId":296272555,"name":"Clothier Survey: Greenshade","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[891348]}

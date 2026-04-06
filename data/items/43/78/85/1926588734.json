@@ -1,10 +1,1 @@
-{
-  "internalId": 1926588734,
-  "name": "Skeletal Remains, Conversation",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_housingcombopumpkinsyokudancorpseseated001.png",
-  "bindType": -1,
-  "knownIds": [
-    217590
-  ]
-}
+{"internalId":1926588734,"name":"Skeletal Remains, Conversation","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_red_exc_housingcombopumpkinsyokudancorpseseated001.png","bindType":-1,"knownIds":[217590]}

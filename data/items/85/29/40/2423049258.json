@@ -1,10 +1,1 @@
-{
-  "internalId": 2423049258,
-  "name": "Eye of the Grasp Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    180082
-  ]
-}
+{"internalId":2423049258,"name":"Eye of the Grasp Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_godgrave_staff_a.png","bindType":2,"knownIds":[180082]}

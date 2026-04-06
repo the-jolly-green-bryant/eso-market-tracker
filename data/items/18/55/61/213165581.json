@@ -1,10 +1,1 @@
-{
-  "internalId": 213165581,
-  "name": "Barkskin Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    92602
-  ]
-}
+{"internalId":213165581,"name":"Barkskin Jack","description":"","icon":"data/images/d_/ts/eh/gear_breton_medium_chest_d.png","bindType":2,"knownIds":[92602]}

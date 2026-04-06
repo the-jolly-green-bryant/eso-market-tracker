@@ -1,10 +1,1 @@
-{
-  "internalId": 1665156806,
-  "name": "Armor of the First Titan",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_heavy_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    44260
-  ]
-}
+{"internalId":1665156806,"name":"Armor of the First Titan","description":"","icon":"data/images/a_/ts/eh/gear_draugr_heavy_chest_a.png","bindType":2,"knownIds":[44260]}

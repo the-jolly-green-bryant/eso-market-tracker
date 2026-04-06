@@ -1,10 +1,1 @@
-{
-  "internalId": 4045250382,
-  "name": "Sigil, Stendarr",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_inc_shrinestendarr001.png",
-  "bindType": -1,
-  "knownIds": [
-    120821
-  ]
-}
+{"internalId":4045250382,"name":"Sigil, Stendarr","description":"This is a small house item.","icon":"data/images/10/0r/ra/housing_uni_inc_shrinestendarr001.png","bindType":-1,"knownIds":[120821]}

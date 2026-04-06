@@ -1,10 +1,1 @@
-{
-  "internalId": 3740028507,
-  "name": "High Elf Bed, Verdant",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_alt_fur_bedsingle003.png",
-  "bindType": -1,
-  "knownIds": [
-    116344
-  ]
-}
+{"internalId":3740028507,"name":"High Elf Bed, Verdant","description":"This is a standard house item.","icon":"data/images/30/0e/lg/housing_alt_fur_bedsingle003.png","bindType":-1,"knownIds":[116344]}

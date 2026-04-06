@@ -1,10 +1,1 @@
-{
-  "internalId": 3209517876,
-  "name": "Pouch of Ill-Gotten Wealth",
-  "description": "A pouch of gems and coins taken by the corrupt merchant in the Rift, in exchange for healing goods of dubious quality.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png",
-  "bindType": -1,
-  "knownIds": [
-    204457
-  ]
-}
+{"internalId":3209517876,"name":"Pouch of Ill-Gotten Wealth","description":"A pouch of gems and coins taken by the corrupt merchant in the Rift, in exchange for healing goods of dubious quality.","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_pouch_001.png","bindType":-1,"knownIds":[204457]}

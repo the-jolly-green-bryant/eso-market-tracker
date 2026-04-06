@@ -1,10 +1,1 @@
-{
-  "internalId": 3155568235,
-  "name": "Monstrous Tooth",
-  "description": "This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_tooth.png",
-  "bindType": -1,
-  "knownIds": [
-    64571
-  ]
-}
+{"internalId":3155568235,"name":"Monstrous Tooth","description":"This item is no longer used. Placing it in your inventory will consume it automatically, converting to Imperial Key fragments.","icon":"data/images/ht/oo/t_/quest_tooth.png","bindType":-1,"knownIds":[64571]}

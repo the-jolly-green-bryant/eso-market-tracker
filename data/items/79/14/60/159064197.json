@@ -1,10 +1,1 @@
-{
-  "internalId": 159064197,
-  "name": "Steadfast's Mettle Ice Staff",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_staff_a.png",
-  "bindType": 2,
-  "knownIds": [
-    186231
-  ]
-}
+{"internalId":159064197,"name":"Steadfast's Mettle Ice Staff","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_steadfast_staff_a.png","bindType":2,"knownIds":[186231]}

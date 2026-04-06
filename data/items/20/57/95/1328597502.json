@@ -1,10 +1,1 @@
-{
-  "internalId": 1328597502,
-  "name": "Leyawiin Table, Formal",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leytablerectsmall001.png",
-  "bindType": -1,
-  "knownIds": [
-    175615
-  ]
-}
+{"internalId":1328597502,"name":"Leyawiin Table, Formal","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_fur_leytablerectsmall001.png","bindType":-1,"knownIds":[175615]}

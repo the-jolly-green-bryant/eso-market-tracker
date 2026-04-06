@@ -1,10 +1,1 @@
-{
-  "internalId": 1329628683,
-  "name": "Leyawiin Brazier, Copper",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybraziermedium003.png",
-  "bindType": -1,
-  "knownIds": [
-    175642
-  ]
-}
+{"internalId":1329628683,"name":"Leyawiin Brazier, Copper","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bad_lsb_leybraziermedium003.png","bindType":-1,"knownIds":[175642]}

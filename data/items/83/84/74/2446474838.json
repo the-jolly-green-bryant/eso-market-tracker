@@ -1,10 +1,1 @@
-{
-  "internalId": 2446474838,
-  "name": "Felt-lined Cuirass",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png",
-  "bindType": -1,
-  "knownIds": [
-    699467
-  ]
-}
+{"internalId":2446474838,"name":"Felt-lined Cuirass","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_chest_d.png","bindType":-1,"knownIds":[699467]}

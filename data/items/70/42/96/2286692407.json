@@ -1,10 +1,1 @@
-{
-  "internalId": 2286692407,
-  "name": "Sip of Spell Critical",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_013_type_005.png",
-  "bindType": -1,
-  "knownIds": [
-    30141
-  ]
-}
+{"internalId":2286692407,"name":"Sip of Spell Critical","description":"","icon":"data/images/50/0_/ep/consumable_potion_013_type_005.png","bindType":-1,"knownIds":[30141]}

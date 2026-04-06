@@ -1,10 +1,1 @@
-{
-  "internalId": 3835231001,
-  "name": "Konunleikar Bookmark Keepsake",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    909723
-  ]
-}
+{"internalId":3835231001,"name":"Konunleikar Bookmark Keepsake","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_book_001.png","bindType":-1,"knownIds":[909723]}

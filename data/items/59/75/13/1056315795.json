@@ -1,10 +1,1 @@
-{
-  "internalId": 1056315795,
-  "name": "Thick Leather Scraps",
-  "description": "Ten of these items can be refined to make thick leather.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_leather_base_topgrain_r1.png",
-  "bindType": -1,
-  "knownIds": [
-    6020
-  ]
-}
+{"internalId":1056315795,"name":"Thick Leather Scraps","description":"Ten of these items can be refined to make thick leather.","icon":"data/images/1r/_n/ia/crafting_leather_base_topgrain_r1.png","bindType":-1,"knownIds":[6020]}

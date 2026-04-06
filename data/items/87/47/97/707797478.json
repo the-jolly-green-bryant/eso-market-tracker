@@ -1,10 +1,1 @@
-{
-  "internalId": 707797478,
-  "name": "Moon-Sugar, Row",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_veg_crp_moonsugar006.png",
-  "bindType": -1,
-  "knownIds": [
-    153658
-  ]
-}
+{"internalId":707797478,"name":"Moon-Sugar, Row","description":"This is a standard house item.","icon":"data/images/60/0r/ag/housing_veg_crp_moonsugar006.png","bindType":-1,"knownIds":[153658]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3586266954,
-  "name": "Hircine's Bow",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_soulshriven_bow_a.png",
-  "bindType": 2,
-  "knownIds": [
-    77841
-  ]
-}
+{"internalId":3586266954,"name":"Hircine's Bow","description":"","icon":"data/images/a_/wo/b_/gear_soulshriven_bow_a.png","bindType":2,"knownIds":[77841]}

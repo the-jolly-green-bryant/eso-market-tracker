@@ -1,10 +1,1 @@
-{
-  "internalId": 3148089568,
-  "name": "Crafting Motif 97: Wayward Guardian Staves",
-  "description": "Use to learn how to make Wayward Guardian Staves. Also teaches the equivalent Wayward Guardian Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    167990
-  ]
-}
+{"internalId":3148089568,"name":"Crafting Motif 97: Wayward Guardian Staves","description":"Use to learn how to make Wayward Guardian Staves. Also teaches the equivalent Wayward Guardian Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[167990]}

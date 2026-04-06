@@ -1,10 +1,1 @@
-{
-  "internalId": 3562278007,
-  "name": "Alcaire Festival Sword-Pie",
-  "description": "A hearty meat pie enjoyed during the New Life Festival. This Breton meal is served with a miniature bone sword cooked inside. Recovering the sword is said to grant the luck of Magnus—and an occasional cracked tooth.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/event_newlifefestival_2016_sword_pie.png",
-  "bindType": -1,
-  "knownIds": [
-    112439
-  ]
-}
+{"internalId":3562278007,"name":"Alcaire Festival Sword-Pie","description":"A hearty meat pie enjoyed during the New Life Festival. This Breton meal is served with a miniature bone sword cooked inside. Recovering the sword is said to grant the luck of Magnus—and an occasional cracked tooth.","icon":"data/images/ei/p_/dr/event_newlifefestival_2016_sword_pie.png","bindType":-1,"knownIds":[112439]}

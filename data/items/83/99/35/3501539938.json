@@ -1,10 +1,1 @@
-{
-  "internalId": 3501539938,
-  "name": "Silent Auction Announcement Flyer",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1150958
-  ]
-}
+{"internalId":3501539938,"name":"Silent Auction Announcement Flyer","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parchment_001.png","bindType":-1,"knownIds":[1150958]}

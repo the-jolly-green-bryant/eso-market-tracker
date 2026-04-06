@@ -1,10 +1,1 @@
-{
-  "internalId": 1023258010,
-  "name": "Vampiric Sconce, Azure",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelablampwallmounted001.png",
-  "bindType": -1,
-  "knownIds": [
-    181497
-  ]
-}
+{"internalId":1023258010,"name":"Vampiric Sconce, Azure","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_skr_inc_vampirelablampwallmounted001.png","bindType":-1,"knownIds":[181497]}

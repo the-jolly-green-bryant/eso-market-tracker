@@ -1,10 +1,1 @@
-{
-  "internalId": 3029867892,
-  "name": "Calcinium Ore",
-  "description": "Ten of these items can be refined to make calcinium ingots.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_ore_calcinium.png",
-  "bindType": -1,
-  "knownIds": [
-    4482
-  ]
-}
+{"internalId":3029867892,"name":"Calcinium Ore","description":"Ten of these items can be refined to make calcinium ingots.","icon":"data/images/mu/in/ic/crafting_ore_calcinium.png","bindType":-1,"knownIds":[4482]}

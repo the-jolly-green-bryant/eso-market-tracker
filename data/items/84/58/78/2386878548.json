@@ -1,10 +1,1 @@
-{
-  "internalId": 2386878548,
-  "name": "Hemming",
-  "description": "Improve quality from white to green.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_light_armor_vendor_001.png",
-  "bindType": -1,
-  "knownIds": [
-    54174
-  ]
-}
+{"internalId":2386878548,"name":"Hemming","description":"Improve quality from white to green.","icon":"data/images/10/0_/ro/crafting_light_armor_vendor_001.png","bindType":-1,"knownIds":[54174]}

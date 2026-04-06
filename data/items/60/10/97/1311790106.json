@@ -1,10 +1,1 @@
-{
-  "internalId": 1311790106,
-  "name": "Mystical Mysteries Table Mat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png",
-  "bindType": -1,
-  "knownIds": [
-    410436
-  ]
-}
+{"internalId":1311790106,"name":"Mystical Mysteries Table Mat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_mat_001.png","bindType":-1,"knownIds":[410436]}

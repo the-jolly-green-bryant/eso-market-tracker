@@ -1,10 +1,1 @@
-{
-  "internalId": 1243639129,
-  "name": "Breton Rack, Wine",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_winerack001.png",
-  "bindType": -1,
-  "knownIds": [
-    115197
-  ]
-}
+{"internalId":1243639129,"name":"Breton Rack, Wine","description":"This is a standard house item.","icon":"data/images/10/0k/ca/housing_bre_fur_winerack001.png","bindType":-1,"knownIds":[115197]}

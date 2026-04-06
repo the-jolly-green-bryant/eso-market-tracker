@@ -1,10 +1,1 @@
-{
-  "internalId": 1622318048,
-  "name": "Neesak of Scrying",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_004.png",
-  "bindType": -1,
-  "knownIds": [
-    1396348
-  ]
-}
+{"internalId":1622318048,"name":"Neesak of Scrying","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_container_004.png","bindType":-1,"knownIds":[1396348]}

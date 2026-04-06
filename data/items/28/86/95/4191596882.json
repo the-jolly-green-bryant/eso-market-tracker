@@ -1,10 +1,1 @@
-{
-  "internalId": 4191596882,
-  "name": "Research Scroll, Jewelry Crafting, 1 Day",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_researchscrolls_jewelry.png",
-  "bindType": -1,
-  "knownIds": [
-    138814
-  ]
-}
+{"internalId":4191596882,"name":"Research Scroll, Jewelry Crafting, 1 Day","description":"","icon":"data/images/yr/le/we/crafting_researchscrolls_jewelry.png","bindType":-1,"knownIds":[138814]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4263173912,
-  "name": "Cuirass of Serpent's Disdain",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png",
-  "bindType": 2,
-  "knownIds": [
-    185499
-  ]
-}
+{"internalId":4263173912,"name":"Cuirass of Serpent's Disdain","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_heavy_chest_d.png","bindType":2,"knownIds":[185499]}

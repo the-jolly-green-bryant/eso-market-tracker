@@ -1,10 +1,1 @@
-{
-  "internalId": 688031108,
-  "name": "Old Imperial Mash",
-  "description": "This item is no longer used in crafting, and can be sold.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_components_malt_002.png",
-  "bindType": -1,
-  "knownIds": [
-    45524
-  ]
-}
+{"internalId":688031108,"name":"Old Imperial Mash","description":"This item is no longer used in crafting, and can be sold.","icon":"data/images/20/0_/tl/crafting_components_malt_002.png","bindType":-1,"knownIds":[45524]}

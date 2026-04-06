@@ -1,10 +1,1 @@
-{
-  "internalId": 1831921826,
-  "name": "Crafting Motif 122: Dead Keeper Style",
-  "description": "Use to learn the Dead Keeper crafting style. Also teaches the equivalent Dead Keeper Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png",
-  "bindType": -1,
-  "knownIds": [
-    194513
-  ]
-}
+{"internalId":1831921826,"name":"Crafting Motif 122: Dead Keeper Style","description":"Use to learn the Dead Keeper crafting style. Also teaches the equivalent Dead Keeper Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_book_001.png","bindType":-1,"knownIds":[194513]}

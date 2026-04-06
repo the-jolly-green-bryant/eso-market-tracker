@@ -1,10 +1,1 @@
-{
-  "internalId": 762667928,
-  "name": "Fangs of Sacrifice",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366634
-  ]
-}
+{"internalId":762667928,"name":"Fangs of Sacrifice","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_bloodybag_001.png","bindType":-1,"knownIds":[1366634]}

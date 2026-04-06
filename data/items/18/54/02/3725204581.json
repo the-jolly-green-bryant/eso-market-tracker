@@ -1,10 +1,1 @@
-{
-  "internalId": 3725204581,
-  "name": "Ring of Beckoning Steel",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_ring_a.png",
-  "bindType": 2,
-  "knownIds": [
-    88713
-  ]
-}
+{"internalId":3725204581,"name":"Ring of Beckoning Steel","description":"","icon":"data/images/a_/gn/ir/gear_breton_ring_a.png","bindType":2,"knownIds":[88713]}

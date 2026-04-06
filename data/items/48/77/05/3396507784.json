@@ -1,10 +1,1 @@
-{
-  "internalId": 3396507784,
-  "name": "Design: Pot Pie, Display",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    119439
-  ]
-}
+{"internalId":3396507784,"name":"Design: Pot Pie, Display","description":"","icon":"data/images/3g/ni/no/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[119439]}

@@ -1,12 +1,1 @@
-{
-  "internalId": 4268684349,
-  "name": "trifling Glyph of Decrease Health",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_decreasehealth.png",
-  "bindType": -1,
-  "knownIds": [
-    1428150,
-    1428150,
-    1428150
-  ]
-}
+{"internalId":4268684349,"name":"trifling Glyph of Decrease Health","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/enchantment_weapon_decreasehealth.png","bindType":-1,"knownIds":[1428150,1428150,1428150]}

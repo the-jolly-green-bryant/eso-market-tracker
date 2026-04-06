@@ -1,10 +1,1 @@
-{
-  "internalId": 1875838233,
-  "name": "Design: Druidic Pot, Clay",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png",
-  "bindType": -1,
-  "knownIds": [
-    192560
-  ]
-}
+{"internalId":1875838233,"name":"Design: Druidic Pot, Clay","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning3.png","bindType":-1,"knownIds":[192560]}

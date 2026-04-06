@@ -1,10 +1,1 @@
-{
-  "internalId": 4065428418,
-  "name": "Hearts Week Decor, Red Bow",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekribbon001.png",
-  "bindType": -1,
-  "knownIds": [
-    223844
-  ]
-}
+{"internalId":4065428418,"name":"Hearts Week Decor, Red Bow","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_uni_exc_housingheartsweekribbon001.png","bindType":-1,"knownIds":[223844]}

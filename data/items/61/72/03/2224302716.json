@@ -1,10 +1,1 @@
-{
-  "internalId": 2224302716,
-  "name": "Glowing Shard",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_spirit_001.png",
-  "bindType": -1,
-  "knownIds": [
-    625394
-  ]
-}
+{"internalId":2224302716,"name":"Glowing Shard","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_spirit_001.png","bindType":-1,"knownIds":[625394]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 3580398249,
-  "name": "Camonna Tong Jack",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_chest_a.png",
-  "bindType": 2,
-  "knownIds": [
-    196026
-  ]
-}
+{"internalId":3580398249,"name":"Camonna Tong Jack","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_deadkeepervestments_medium_chest_a.png","bindType":2,"knownIds":[196026]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 809329472,
-  "name": "Breeches of the Harbinger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    78632
-  ]
-}
+{"internalId":809329472,"name":"Breeches of the Harbinger","description":"","icon":"data/images/d_/sg/el/gear_nord_light_legs_d.png","bindType":2,"knownIds":[78632]}

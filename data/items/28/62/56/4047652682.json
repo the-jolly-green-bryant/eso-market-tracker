@@ -1,10 +1,1 @@
-{
-  "internalId": 4047652682,
-  "name": "Fif Cat",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_catfish.png",
-  "bindType": -1,
-  "knownIds": [
-    1362678
-  ]
-}
+{"internalId":4047652682,"name":"Fif Cat","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_catfish.png","bindType":-1,"knownIds":[1362678]}

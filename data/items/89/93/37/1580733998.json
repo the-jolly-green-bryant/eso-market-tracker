@@ -1,10 +1,1 @@
-{
-  "internalId": 1580733998,
-  "name": "New Moon Acolyte's Dagger",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    156493
-  ]
-}
+{"internalId":1580733998,"name":"New Moon Acolyte's Dagger","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png","bindType":2,"knownIds":[156493]}

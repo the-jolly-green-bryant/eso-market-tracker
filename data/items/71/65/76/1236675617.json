@@ -1,10 +1,1 @@
-{
-  "internalId": 1236675617,
-  "name": "Stromgruf's Ensorcelled Pants",
-  "description": "A token of thanks from the alchemist Nerise Venim. Her hireling Stromgruf won't be needing pants for a while.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_nord_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    126065
-  ]
-}
+{"internalId":1236675617,"name":"Stromgruf's Ensorcelled Pants","description":"A token of thanks from the alchemist Nerise Venim. Her hireling Stromgruf won't be needing pants for a while.","icon":"data/images/d_/sg/el/gear_nord_light_legs_d.png","bindType":2,"knownIds":[126065]}

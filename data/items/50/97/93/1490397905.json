@@ -1,10 +1,1 @@
-{
-  "internalId": 1490397905,
-  "name": "Murkmire Lamp, Hanging Bottle",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_arg_lsb_mrklampwallbottle001.png",
-  "bindType": -1,
-  "knownIds": [
-    145362
-  ]
-}
+{"internalId":1490397905,"name":"Murkmire Lamp, Hanging Bottle","description":"This is a small house item.","icon":"data/images/10/0e/lt/housing_arg_lsb_mrklampwallbottle001.png","bindType":-1,"knownIds":[145362]}

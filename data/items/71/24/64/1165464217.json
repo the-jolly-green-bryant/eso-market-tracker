@@ -1,10 +1,1 @@
-{
-  "internalId": 1165464217,
-  "name": "Mage's Box",
-  "description": "Contains a full set of the Mage's Trial gear.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_container_001.png",
-  "bindType": 3,
-  "knownIds": [
-    59919
-  ]
-}
+{"internalId":1165464217,"name":"Mage's Box","description":"Contains a full set of the Mage's Trial gear.","icon":"data/images/10/0_/re/quest_container_001.png","bindType":3,"knownIds":[59919]}

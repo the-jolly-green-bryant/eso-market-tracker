@@ -1,10 +1,1 @@
-{
-  "internalId": 4122685812,
-  "name": "Desk, Engraved",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_uni_fur_spellcraftingdesk001.png",
-  "bindType": -1,
-  "knownIds": [
-    118356
-  ]
-}
+{"internalId":4122685812,"name":"Desk, Engraved","description":"This is a standard house item.","icon":"data/images/10/0k/se/housing_uni_fur_spellcraftingdesk001.png","bindType":-1,"knownIds":[118356]}

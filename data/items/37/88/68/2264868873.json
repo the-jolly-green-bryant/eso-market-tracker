@@ -1,10 +1,1 @@
-{
-  "internalId": 2264868873,
-  "name": "Filigreed Serving Spoon",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png",
-  "bindType": -1,
-  "knownIds": [
-    398147
-  ]
-}
+{"internalId":2264868873,"name":"Filigreed Serving Spoon","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_spoon_001.png","bindType":-1,"knownIds":[398147]}

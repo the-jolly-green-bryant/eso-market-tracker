@@ -1,10 +1,1 @@
-{
-  "internalId": 2623740848,
-  "name": "Geode, Amethyst",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_geodemarker001.png",
-  "bindType": -1,
-  "knownIds": [
-    166004
-  ]
-}
+{"internalId":2623740848,"name":"Geode, Amethyst","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_gen_exc_geodemarker001.png","bindType":-1,"knownIds":[166004]}

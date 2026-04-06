@@ -1,10 +1,1 @@
-{
-  "internalId": 40881106,
-  "name": "Chipped Sun Catcher",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_adornment_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1337132
-  ]
-}
+{"internalId":40881106,"name":"Chipped Sun Catcher","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_adornment_001.png","bindType":-1,"knownIds":[1337132]}

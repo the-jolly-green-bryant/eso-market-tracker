@@ -1,10 +1,1 @@
-{
-  "internalId": 3429417413,
-  "name": "Clockwork Changing Room, Curtained",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_cwc_crf_transmogbooth001.png",
-  "bindType": -1,
-  "knownIds": [
-    153701
-  ]
-}
+{"internalId":3429417413,"name":"Clockwork Changing Room, Curtained","description":"This is a standard house item.","icon":"data/images/10/0h/to/housing_cwc_crf_transmogbooth001.png","bindType":-1,"knownIds":[153701]}

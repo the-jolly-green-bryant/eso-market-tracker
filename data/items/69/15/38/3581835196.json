@@ -1,10 +1,1 @@
-{
-  "internalId": 3581835196,
-  "name": "Four Imp-Repelling Pinwheels",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png",
-  "bindType": -1,
-  "knownIds": [
-    892984
-  ]
-}
+{"internalId":3581835196,"name":"Four Imp-Repelling Pinwheels","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_parasol_001.png","bindType":-1,"knownIds":[892984]}

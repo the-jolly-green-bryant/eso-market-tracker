@@ -1,10 +1,1 @@
-{
-  "internalId": 3419596272,
-  "name": "Craglorn Skavenger Stew",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_stew_001.png",
-  "bindType": -1,
-  "knownIds": [
-    57104
-  ]
-}
+{"internalId":3419596272,"name":"Craglorn Skavenger Stew","description":"","icon":"data/images/10/0_/we/crafting_stew_001.png","bindType":-1,"knownIds":[57104]}

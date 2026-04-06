@@ -1,10 +1,1 @@
-{
-  "internalId": 4167457962,
-  "name": "Dagger of Hist Bark",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_dagger_d.png",
-  "bindType": 2,
-  "knownIds": [
-    56529
-  ]
-}
+{"internalId":4167457962,"name":"Dagger of Hist Bark","description":"","icon":"data/images/d_/re/gg/gear_breton_dagger_d.png","bindType":2,"knownIds":[56529]}

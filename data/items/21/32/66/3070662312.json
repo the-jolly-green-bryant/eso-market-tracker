@@ -1,10 +1,1 @@
-{
-  "internalId": 3070662312,
-  "name": "Poorly Groomed False Teeth",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tooth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    484111
-  ]
-}
+{"internalId":3070662312,"name":"Poorly Groomed False Teeth","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_tooth_001.png","bindType":-1,"knownIds":[484111]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1856565617,
-  "name": "Blueprint: Leyawiin Bench, Cushioned Wide",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png",
-  "bindType": -1,
-  "knownIds": [
-    175958
-  ]
-}
+{"internalId":1856565617,"name":"Blueprint: Leyawiin Bench, Cushioned Wide","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_4.png","bindType":-1,"knownIds":[175958]}

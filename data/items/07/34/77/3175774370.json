@@ -1,10 +1,1 @@
-{
-  "internalId": 3175774370,
-  "name": "Swill",
-  "description": "An awful-smelling bottle.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_dom_beer_001.png",
-  "bindType": -1,
-  "knownIds": [
-    37944
-  ]
-}
+{"internalId":3175774370,"name":"Swill","description":"An awful-smelling bottle.","icon":"data/images/10/0_/re/crafting_dom_beer_001.png","bindType":-1,"knownIds":[37944]}

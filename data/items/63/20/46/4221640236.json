@@ -1,10 +1,1 @@
-{
-  "internalId": 4221640236,
-  "name": "Crafting Motif 104: Ancient Daedric Daggers",
-  "description": "Use to learn how to make Ancient Daedric Daggers. Also teaches the equivalent Ancient Daedric Outfit Styles.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png",
-  "bindType": -1,
-  "knownIds": [
-    171864
-  ]
-}
+{"internalId":4221640236,"name":"Crafting Motif 104: Ancient Daedric Daggers","description":"Use to learn how to make Ancient Daedric Daggers. Also teaches the equivalent Ancient Daedric Outfit Styles.","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_letter_002.png","bindType":-1,"knownIds":[171864]}

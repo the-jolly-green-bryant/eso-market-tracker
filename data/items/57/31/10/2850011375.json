@@ -1,10 +1,1 @@
-{
-  "internalId": 2850011375,
-  "name": "Night-Oil",
-  "description": "An ingredient for crafting Champion poisons, black as night.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_potion_base_oil_4_r2.png",
-  "bindType": -1,
-  "knownIds": [
-    75364
-  ]
-}
+{"internalId":2850011375,"name":"Night-Oil","description":"An ingredient for crafting Champion poisons, black as night.","icon":"data/images/2r/_4/_l/crafting_potion_base_oil_4_r2.png","bindType":-1,"knownIds":[75364]}

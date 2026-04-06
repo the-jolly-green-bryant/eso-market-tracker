@@ -1,10 +1,1 @@
-{
-  "internalId": 2523177469,
-  "name": "Grape-Glazed Bantam Guar Recipe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    378224
-  ]
-}
+{"internalId":2523177469,"name":"Grape-Glazed Bantam Guar Recipe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png","bindType":-1,"knownIds":[378224]}

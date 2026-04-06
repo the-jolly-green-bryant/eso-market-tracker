@@ -1,10 +1,1 @@
-{
-  "internalId": 4019486228,
-  "name": "The Road To Sovngarde",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png",
-  "bindType": -1,
-  "knownIds": [
-    1246853
-  ]
-}
+{"internalId":4019486228,"name":"The Road To Sovngarde","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed001.png","bindType":-1,"knownIds":[1246853]}

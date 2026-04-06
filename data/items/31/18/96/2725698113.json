@@ -1,10 +1,1 @@
-{
-  "internalId": 2725698113,
-  "name": "Swamp Reed Hair Pins",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1366933
-  ]
-}
+{"internalId":2725698113,"name":"Swamp Reed Hair Pins","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_needle_001.png","bindType":-1,"knownIds":[1366933]}

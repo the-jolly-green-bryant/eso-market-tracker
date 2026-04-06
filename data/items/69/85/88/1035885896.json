@@ -1,13 +1,1 @@
-{
-  "internalId": 1035885896,
-  "name": "Lucilla's Amulet",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1747867,
-    1749856,
-    1747867,
-    1749856
-  ]
-}
+{"internalId":1035885896,"name":"Lucilla's Amulet","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_neck_a.png","bindType":-1,"knownIds":[1747867,1749856,1747867,1749856]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 5104891,
-  "name": "Deadlands Demolisher's Breeches",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png",
-  "bindType": 2,
-  "knownIds": [
-    179539
-  ]
-}
+{"internalId":5104891,"name":"Deadlands Demolisher's Breeches","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_light_legs_d.png","bindType":2,"knownIds":[179539]}

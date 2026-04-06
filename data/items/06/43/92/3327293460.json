@@ -1,10 +1,1 @@
-{
-  "internalId": 3327293460,
-  "name": "Ravaging Mace",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_1hhammer_d.png",
-  "bindType": 2,
-  "knownIds": [
-    89584
-  ]
-}
+{"internalId":3327293460,"name":"Ravaging Mace","description":"","icon":"data/images/d_/re/mm/gear_breton_1hhammer_d.png","bindType":2,"knownIds":[89584]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1430374919,
-  "name": "Lunar Tapestry, The Open Path",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_els_inc_tapestrymoonpath001.png",
-  "bindType": -1,
-  "knownIds": [
-    151824
-  ]
-}
+{"internalId":1430374919,"name":"Lunar Tapestry, The Open Path","description":"This is a large house item.","icon":"data/images/10/0h/ta/housing_els_inc_tapestrymoonpath001.png","bindType":-1,"knownIds":[151824]}

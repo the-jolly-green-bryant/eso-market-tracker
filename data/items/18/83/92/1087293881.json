@@ -1,10 +1,1 @@
-{
-  "internalId": 1087293881,
-  "name": "Collection of Colorful Ribbons",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png",
-  "bindType": -1,
-  "knownIds": [
-    495245
-  ]
-}
+{"internalId":1087293881,"name":"Collection of Colorful Ribbons","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_banner_001.png","bindType":-1,"knownIds":[495245]}

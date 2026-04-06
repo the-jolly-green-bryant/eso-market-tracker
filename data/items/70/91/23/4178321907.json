@@ -1,10 +1,1 @@
-{
-  "internalId": 4178321907,
-  "name": "Master Clothier Writ",
-  "description": "An exclusive, secret contract for leather armor of rare quality.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/master_writ_clothier.png",
-  "bindType": -1,
-  "knownIds": [
-    121533
-  ]
-}
+{"internalId":4178321907,"name":"Master Clothier Writ","description":"An exclusive, secret contract for leather armor of rare quality.","icon":"data/images/re/ih/to/master_writ_clothier.png","bindType":-1,"knownIds":[121533]}

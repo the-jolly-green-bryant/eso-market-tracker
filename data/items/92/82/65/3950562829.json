@@ -1,10 +1,1 @@
-{
-  "internalId": 3950562829,
-  "name": "Shad Astula Academy Handbook",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png",
-  "bindType": -1,
-  "knownIds": [
-    1092637
-  ]
-}
+{"internalId":3950562829,"name":"Shad Astula Academy Handbook","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_book_closed007.png","bindType":-1,"knownIds":[1092637]}

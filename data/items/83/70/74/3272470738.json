@@ -1,10 +1,1 @@
-{
-  "internalId": 3272470738,
-  "name": "Vethisa's Grips of Cyrodiil's Ward",
-  "description": "Power emanates from these gloves, made from animal hide reinforced with metallic thread.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_dunmer_medium_hands_d.png",
-  "bindType": 2,
-  "knownIds": [
-    45734
-  ]
-}
+{"internalId":3272470738,"name":"Vethisa's Grips of Cyrodiil's Ward","description":"Power emanates from these gloves, made from animal hide reinforced with metallic thread.","icon":"data/images/d_/sd/na/gear_dunmer_medium_hands_d.png","bindType":2,"knownIds":[45734]}

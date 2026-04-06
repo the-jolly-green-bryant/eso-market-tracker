@@ -1,10 +1,1 @@
-{
-  "internalId": 2743796392,
-  "name": "The Homeowner's Crate",
-  "description": "This box is full of things helpful for owning and furnishing your home.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_crate_001.png",
-  "bindType": 3,
-  "knownIds": [
-    121259
-  ]
-}
+{"internalId":2743796392,"name":"The Homeowner's Crate","description":"This box is full of things helpful for owning and furnishing your home.","icon":"data/images/10/0_/et/quest_crate_001.png","bindType":3,"knownIds":[121259]}

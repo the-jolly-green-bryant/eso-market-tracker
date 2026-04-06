@@ -1,10 +1,1 @@
-{
-  "internalId": 2356696042,
-  "name": "Design: Druidic Bowl, Clay",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png",
-  "bindType": -1,
-  "knownIds": [
-    192562
-  ]
-}
+{"internalId":2356696042,"name":"Design: Druidic Bowl, Clay","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_provisioning2.png","bindType":-1,"knownIds":[192562]}

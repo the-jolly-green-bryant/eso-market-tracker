@@ -1,10 +1,1 @@
-{
-  "internalId": 2507871326,
-  "name": "Tree, Sea Grapes",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_tre_sum_seagrapes006.png",
-  "bindType": -1,
-  "knownIds": [
-    139134
-  ]
-}
+{"internalId":2507871326,"name":"Tree, Sea Grapes","description":"This is a large house item.","icon":"data/images/60/0s/ep/housing_tre_sum_seagrapes006.png","bindType":-1,"knownIds":[139134]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 4248676381,
-  "name": "Recipe: Elsweyr Fondue",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_scroll_001.png",
-  "bindType": -1,
-  "knownIds": [
-    56969
-  ]
-}
+{"internalId":4248676381,"name":"Recipe: Elsweyr Fondue","description":"","icon":"data/images/10/0_/ll/quest_scroll_001.png","bindType":-1,"knownIds":[56969]}

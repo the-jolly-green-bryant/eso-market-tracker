@@ -1,10 +1,1 @@
-{
-  "internalId": 4036516329,
-  "name": "Guts, Lake Bait",
-  "description": "Bait best used for fishing in Lake water.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_critter_vertebrate_guts.png",
-  "bindType": -1,
-  "knownIds": [
-    42870
-  ]
-}
+{"internalId":4036516329,"name":"Guts, Lake Bait","description":"Bait best used for fishing in Lake water.","icon":"data/images/st/ug/_e/crafting_critter_vertebrate_guts.png","bindType":-1,"knownIds":[42870]}

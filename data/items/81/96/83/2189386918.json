@@ -1,10 +1,1 @@
-{
-  "internalId": 2189386918,
-  "name": "Edge of the Black Sands",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_yokudan_2hsword_a.png",
-  "bindType": 2,
-  "knownIds": [
-    54997
-  ]
-}
+{"internalId":2189386918,"name":"Edge of the Black Sands","description":"","icon":"data/images/a_/dr/ow/gear_yokudan_2hsword_a.png","bindType":2,"knownIds":[54997]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1225770044,
-  "name": "Stygian Guards",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_draugr_medium_legs_a.png",
-  "bindType": 2,
-  "knownIds": [
-    102230
-  ]
-}
+{"internalId":1225770044,"name":"Stygian Guards","description":"","icon":"data/images/a_/sg/el/gear_draugr_medium_legs_a.png","bindType":2,"knownIds":[102230]}

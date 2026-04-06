@@ -1,10 +1,1 @@
-{
-  "internalId": 3416946748,
-  "name": "Alinor Urn, Limestone Large",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_rok_sum_limestonedecorative006.png",
-  "bindType": -1,
-  "knownIds": [
-    139279
-  ]
-}
+{"internalId":3416946748,"name":"Alinor Urn, Limestone Large","description":"This is a standard house item.","icon":"data/images/60/0e/vi/housing_rok_sum_limestonedecorative006.png","bindType":-1,"knownIds":[139279]}

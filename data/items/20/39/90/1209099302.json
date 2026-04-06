@@ -1,10 +1,1 @@
-{
-  "internalId": 1209099302,
-  "name": "stingerpike",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png",
-  "bindType": -1,
-  "knownIds": [
-    440189
-  ]
-}
+{"internalId":1209099302,"name":"stingerpike","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_slaughterfish.png","bindType":-1,"knownIds":[440189]}

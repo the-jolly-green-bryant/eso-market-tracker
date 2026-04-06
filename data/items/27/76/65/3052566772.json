@@ -1,10 +1,1 @@
-{
-  "internalId": 3052566772,
-  "name": "draught of Potent Stamina",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_003.png",
-  "bindType": -1,
-  "knownIds": [
-    1512828
-  ]
-}
+{"internalId":3052566772,"name":"draught of Potent Stamina","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/consumable_potion_003_type_003.png","bindType":-1,"knownIds":[1512828]}

@@ -1,10 +1,1 @@
-{
-  "internalId": 1904718334,
-  "name": "Blueprint: Colovian Bookshelf, Noble Filled",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png",
-  "bindType": -1,
-  "knownIds": [
-    207823
-  ]
-}
+{"internalId":1904718334,"name":"Blueprint: Colovian Bookshelf, Noble Filled","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_woodworking_3.png","bindType":-1,"knownIds":[207823]}

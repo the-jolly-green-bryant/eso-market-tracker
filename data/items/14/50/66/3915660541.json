@@ -1,17 +1,1 @@
-{
-  "internalId": 3915660541,
-  "name": "Harmony in Chaos Epaulets",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_shoulders_a.png",
-  "bindType": -1,
-  "knownIds": [
-    1756203,
-    1756297,
-    1757605,
-    1757780,
-    1756203,
-    1756297,
-    1757605,
-    1757780
-  ]
-}
+{"internalId":3915660541,"name":"Harmony in Chaos Epaulets","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_coldharbordominator_light_shoulders_a.png","bindType":-1,"knownIds":[1756203,1756297,1757605,1757780,1756203,1756297,1757605,1757780]}

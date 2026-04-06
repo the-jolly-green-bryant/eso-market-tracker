@@ -1,10 +1,1 @@
-{
-  "internalId": 1611346399,
-  "name": "Grahtwood Banner, Hanging Inn",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bos_lsb_nexusbannersinn001.png",
-  "bindType": -1,
-  "knownIds": [
-    192571
-  ]
-}
+{"internalId":1611346399,"name":"Grahtwood Banner, Hanging Inn","description":"This is a standard house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_bos_lsb_nexusbannersinn001.png","bindType":-1,"knownIds":[192571]}

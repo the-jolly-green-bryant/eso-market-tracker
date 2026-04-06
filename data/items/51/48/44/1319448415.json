@@ -1,10 +1,1 @@
-{
-  "internalId": 1319448415,
-  "name": "Alinor Desk, Mirrored",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_sum_fur_desk002.png",
-  "bindType": -1,
-  "knownIds": [
-    139230
-  ]
-}
+{"internalId":1319448415,"name":"Alinor Desk, Mirrored","description":"This is a standard house item.","icon":"data/images/20/0k/se/housing_sum_fur_desk002.png","bindType":-1,"knownIds":[139230]}

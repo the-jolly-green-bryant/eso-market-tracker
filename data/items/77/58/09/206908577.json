@@ -1,10 +1,1 @@
-{
-  "internalId": 206908577,
-  "name": "Praxis: Clockwork Illuminator, Solitary Capsule",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    134536
-  ]
-}
+{"internalId":206908577,"name":"Praxis: Clockwork Illuminator, Solitary Capsule","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[134536]}

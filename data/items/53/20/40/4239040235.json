@@ -1,10 +1,1 @@
-{
-  "internalId": 4239040235,
-  "name": "Praxis: Alinor Fence, Tall Long",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_planfurniture_enchanting3.png",
-  "bindType": -1,
-  "knownIds": [
-    139517
-  ]
-}
+{"internalId":4239040235,"name":"Praxis: Alinor Fence, Tall Long","description":"","icon":"data/images/3g/ni/tn/crafting_planfurniture_enchanting3.png","bindType":-1,"knownIds":[139517]}

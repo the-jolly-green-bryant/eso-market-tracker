@@ -1,10 +1,1 @@
-{
-  "internalId": 631401889,
-  "name": "Breton Pottery, Lid",
-  "description": "This is a tiny house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_inc_vase_large001_lid.png",
-  "bindType": -1,
-  "knownIds": [
-    115201
-  ]
-}
+{"internalId":631401889,"name":"Breton Pottery, Lid","description":"This is a tiny house item.","icon":"data/images/di/l_/10/housing_bre_inc_vase_large001_lid.png","bindType":-1,"knownIds":[115201]}

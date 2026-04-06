@@ -1,10 +1,1 @@
-{
-  "internalId": 2075029606,
-  "name": "Dawnwood Decor, Curved Bone",
-  "description": "This is a small house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosbonedecor003.png",
-  "bindType": -1,
-  "knownIds": [
-    211378
-  ]
-}
+{"internalId":2075029606,"name":"Dawnwood Decor, Curved Bone","description":"This is a small house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_chl_exc_bosbonedecor003.png","bindType":-1,"knownIds":[211378]}

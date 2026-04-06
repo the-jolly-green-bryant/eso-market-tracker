@@ -1,10 +1,1 @@
-{
-  "internalId": 3527682461,
-  "name": "Eucla Cod",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_perch.png",
-  "bindType": -1,
-  "knownIds": [
-    824158
-  ]
-}
+{"internalId":3527682461,"name":"Eucla Cod","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/crafting_fishing_perch.png","bindType":-1,"knownIds":[824158]}

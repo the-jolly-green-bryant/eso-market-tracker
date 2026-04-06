@@ -1,10 +1,1 @@
-{
-  "internalId": 3570063386,
-  "name": "Breton Shelves, Double",
-  "description": "This is a standard house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_bre_fur_dresserlow001.png",
-  "bindType": -1,
-  "knownIds": [
-    115161
-  ]
-}
+{"internalId":3570063386,"name":"Breton Shelves, Double","description":"This is a standard house item.","icon":"data/images/10/0w/ol/housing_bre_fur_dresserlow001.png","bindType":-1,"knownIds":[115161]}

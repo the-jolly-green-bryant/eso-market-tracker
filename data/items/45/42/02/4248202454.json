@@ -1,15 +1,1 @@
-{
-  "internalId": 4248202454,
-  "name": "Scarlet Judge's Regalia",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png",
-  "bindType": -1,
-  "knownIds": [
-    1147823,
-    1511393,
-    1147823,
-    1511393,
-    1147823,
-    1511393
-  ]
-}
+{"internalId":4248202454,"name":"Scarlet Judge's Regalia","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/quest_clothing_001.png","bindType":-1,"knownIds":[1147823,1511393,1147823,1511393,1147823,1511393]}

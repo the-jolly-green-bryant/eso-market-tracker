@@ -1,10 +1,1 @@
-{
-  "internalId": 2927196405,
-  "name": "Helmet of Red Eagle's Fury",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png",
-  "bindType": 2,
-  "knownIds": [
-    168365
-  ]
-}
+{"internalId":2927196405,"name":"Helmet of Red Eagle's Fury","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_medium_head_d.png","bindType":2,"knownIds":[168365]}

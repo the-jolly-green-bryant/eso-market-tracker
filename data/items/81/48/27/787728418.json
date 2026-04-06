@@ -1,10 +1,1 @@
-{
-  "internalId": 787728418,
-  "name": "Whispering Scarf",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png",
-  "bindType": -1,
-  "knownIds": [
-    405470
-  ]
-}
+{"internalId":787728418,"name":"Whispering Scarf","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/justice_stolen_cloth_001.png","bindType":-1,"knownIds":[405470]}

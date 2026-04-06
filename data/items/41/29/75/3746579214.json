@@ -1,10 +1,1 @@
-{
-  "internalId": 3746579214,
-  "name": "Worm Cult Staircase, Thin",
-  "description": "This is a large house item.",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/housing_wrm_waf_foundationstairskinnyhalf001.png",
-  "bindType": -1,
-  "knownIds": [
-    223756
-  ]
-}
+{"internalId":3746579214,"name":"Worm Cult Staircase, Thin","description":"This is a large house item.","icon":"https://esoicons.uesp.net/esoui/art/icons/housing_wrm_waf_foundationstairskinnyhalf001.png","bindType":-1,"knownIds":[223756]}

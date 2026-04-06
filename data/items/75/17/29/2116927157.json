@@ -1,10 +1,1 @@
-{
-  "internalId": 2116927157,
-  "name": "Lamp Knight's Battle Axe",
-  "description": "",
-  "icon": "https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png",
-  "bindType": 2,
-  "knownIds": [
-    214054
-  ]
-}
+{"internalId":2116927157,"name":"Lamp Knight's Battle Axe","description":"","icon":"https://esoicons.uesp.net/esoui/art/icons/gear_breton_2haxe_d.png","bindType":2,"knownIds":[214054]}
