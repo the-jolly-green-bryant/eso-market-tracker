@@ -180,7 +180,7 @@ const parseObservations = async (
             .flatMap(async ([idString, valueString]) =>
               limit(async () => {
                 const id = Number.parseInt(idString)
-                if ([208251, 212359].includes(id)) {
+                if ([208251, 212359, 82016, 157522].includes(id)) {
                   return []
                 }
 
