@@ -1,7 +1,7 @@
 {
-  "name": "@eso-market-tracker/observations-from-tsc-web-app",
+  "name": "@eso-market-tracker/master-update",
   "version": "0.0.1",
-  "description": "Imports snapshot sales data from the TSC web app.",
+  "description": "Performs a full update of the database.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "ISC",
@@ -18,18 +18,16 @@
     "@vitest/coverage-v8": "^4.1.0",
     "cheerio": "^1.2.0",
     "dotenv": "^17.3.1",
-    "eslint-plugin-sonarjs": "^4.0.2",
     "p-limit": "^7.3.0",
-    "playwright": "^1.58.2",
-    "sonarjs": "^1.0.0"
+    "playwright": "^1.58.2"
   },
   "dependencies": {
-    "@eso-market-tracker/data": "workspace:*",
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
-    "@eso-market-tracker/logging": "workspace:*"
-  },
-  "exports": {
-    ".": "./src/index.ts"
+    "@eso-market-tracker/logging": "workspace:*",
+    "@eso-market-tracker/data": "workspace:*",
+    "@eso-market-tracker/items-from-uesp": "workspace:*",
+    "@eso-market-tracker/observations-from-tsc-web-app": "workspace:*",
+    "@eso-market-tracker/observations-from-tsc2": "workspace:*"
   }
 }

@@ -151,7 +151,7 @@ const _dataStringToObservations = async (
             orThrow(new Error(`No item found for ${id}`)),
           {
             quality: fromLegacy ? null : quality,
-            trait: TRAIT_INDEX[id]?.[1],
+            trait: (await TRAIT_INDEX())[id]?.[1],
           }
         ),
         stats: {

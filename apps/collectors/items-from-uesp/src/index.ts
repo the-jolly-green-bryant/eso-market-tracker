@@ -57,16 +57,20 @@ const processResultingItems = async (
   options?: CrawlerOptions
 ) => {
   const limit = pLimit(1)
-  await Promise.all(
+  return Promise.all(
     results
       .slice(0, options?.maxWrites ?? results.length)
       .map((i) => i[0])
       .map(async (item) =>
         limit(async () => {
-          await insertItems([item], { skipInsertingTraits: true })
+          const itemsInserted = insertItems([item], {
+            skipInsertingTraits: true,
+          })
           if (!item.meta.icon) return
           logger.info(`Saving image ${item.meta.icon}`)
-          item.meta.icon = await images.getOrDownloadImage(item.meta.icon)
+          item.meta.icon = images.getOrDownloadImage(item.meta.icon)
+          logger.info('Inserting Items')
+          return itemsInserted
         })
       )
   )
@@ -76,26 +80,37 @@ export const processNextPageOfMinedResults = async (
   lastMinedResults?: MinedResults,
   skipRecursion?: boolean,
   options?: CrawlerOptions
-): Promise<MinedResults> => {
+) => {
   ;(lastMinedResults && lastMinedResults.next) ||
     !lastMinedResults ||
     orThrow(new Error('Next page was not found!'))
   const next = lastMinedResults ? lastMinedResults.next! : getMinedEndpoint(0)
   const html = await self.getHtmlFromEndpoint(next)
+  logger.info('Grabbed HTML')
   const results = MinedResults.from(html)
-  await processResultingItems(results.items, options)
-  console.log('results', results)
+  logger.info('Processed Results')
+  const promises: Promise<unknown>[] = [
+    processResultingItems(results.items, options),
+  ]
+  if (results && results.next && !skipRecursion) {
+    const nextResultsComplete = processNextPageOfMinedResults(
+      results,
+      skipRecursion,
+      options
+    )
+    promises.push(nextResultsComplete)
+  }
 
-  return !results || !results.next || skipRecursion
-    ? results
-    : await processNextPageOfMinedResults(results)
+  logger.info(results)
+
+  return Promise.all(promises)
 }
 
 export const processNextPageOfLootedResults = async (
   lastLootedResults?: LootedResults,
   skipRecursion?: boolean,
   options?: CrawlerOptions
-): Promise<LootedResults> => {
+) => {
   ;(lastLootedResults && lastLootedResults.next) ||
     !lastLootedResults ||
     orThrow(new Error('Next page was not found!'))
@@ -104,10 +119,19 @@ export const processNextPageOfLootedResults = async (
     : getLootedEndpoint(0)
   const html = await self.getHtmlFromEndpoint(next)
   const results = LootedResults.from(html)
-  await processResultingItems(results.items, options)
-  console.log('results', results)
+  const promises: Promise<unknown>[] = [
+    processResultingItems(results.items, options),
+  ]
+  if (results && results.next && !skipRecursion) {
+    const nextResultsComplete = processNextPageOfLootedResults(
+      results,
+      skipRecursion,
+      options
+    )
+    promises.push(nextResultsComplete)
+  }
 
-  return !results || !results.next || skipRecursion
-    ? results
-    : await processNextPageOfLootedResults(results)
+  logger.info(results)
+
+  return Promise.all(promises)
 }
