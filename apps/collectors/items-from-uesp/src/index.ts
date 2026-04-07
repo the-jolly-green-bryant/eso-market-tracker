@@ -63,17 +63,16 @@ const processResultingItems = async (
       .map((i) => i[0])
       .map(async (item) =>
         limit(async () => {
-          const itemsInserted = insertItems([item], {
-            skipInsertingTraits: true,
-          })
-          if (!item.meta.icon) return
+          if (!item.meta.icon) return item
           logger.info(`Saving image ${item.meta.icon}`)
           item.meta.icon = images.getOrDownloadImage(item.meta.icon)
           logger.info('Inserting Items')
-          return itemsInserted
+          return item
         })
       )
-  )
+  ).then((items) => {
+    insertItems(items, { skipInsertingTraits: true })
+  })
 }
 
 export const processNextPageOfMinedResults = async (
@@ -103,7 +102,7 @@ export const processNextPageOfMinedResults = async (
 
   logger.info(results)
 
-  return Promise.all(promises)
+  return Promise.all(promises).then(() => results)
 }
 
 export const processNextPageOfLootedResults = async (
