@@ -1,16 +1,1 @@
-{
-  "0": {
-    "average": 3564,
-    "date": "2025-07-31",
-    "commonQuantity": 1,
-    "minimum": 3240,
-    "maximum": 3564
-  },
-  "1": {
-    "average": 26758,
-    "date": "2025-12-06",
-    "commonQuantity": 1,
-    "minimum": 3297,
-    "maximum": 299995
-  }
-}
+{"0":{"average":3564,"date":"2025-07-31","commonQuantity":1,"minimum":3240,"maximum":3564},"1":{"average":26758,"date":"2025-12-06","commonQuantity":1,"minimum":3297,"maximum":299995}}

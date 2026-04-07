@@ -9,10 +9,10 @@ import fs from 'fs'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 
-let _TRAIT_INDEX: Record<number, [number, number | null]>
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
+let _TRAIT_INDEX: Record<number, [number, number | null]>
 export const TRAIT_INDEX = async (): Promise<
   Record<number, [number, number | null]>
 > => {
@@ -24,6 +24,34 @@ export const TRAIT_INDEX = async (): Promise<
   const data = JSON.parse(buf.toString('utf8'))
   _TRAIT_INDEX = data as Record<number, [number, number | null]>
   return _TRAIT_INDEX
+}
+
+let _MASTER_PRICING_INDEX: Record<number, [number, number | null]>
+export const MASTER_PRICING_INDEX = async (): Promise<
+  Record<number, [number, number | null]>
+> => {
+  if (_MASTER_PRICING_INDEX) return _MASTER_PRICING_INDEX
+
+  const buf = await fs.promises.readFile(
+    path.join(__dirname, 'index', 'master-pricing.json')
+  )
+  const data = JSON.parse(buf.toString('utf8'))
+  _MASTER_PRICING_INDEX = data as Record<number, [number, number | null]>
+  return _MASTER_PRICING_INDEX
+}
+
+let _MASTER_ITEM_INDEX: Record<number, [number, number | null]>
+export const MASTER_ITEM_INDEX = async (): Promise<
+  Record<number, [number, number | null]>
+> => {
+  if (_MASTER_ITEM_INDEX) return _MASTER_ITEM_INDEX
+
+  const buf = await fs.promises.readFile(
+    path.join(__dirname, 'index', 'master-pricing.json')
+  )
+  const data = JSON.parse(buf.toString('utf8'))
+  _MASTER_ITEM_INDEX = data as Record<number, [number, number | null]>
+  return _MASTER_ITEM_INDEX
 }
 
 export const findItemByName = (name: string) => {

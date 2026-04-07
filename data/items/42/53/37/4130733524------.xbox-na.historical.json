@@ -1,9 +1,1 @@
-{
-  "0": {
-    "average": 10000,
-    "date": "2026-03-29",
-    "commonQuantity": 2,
-    "minimum": 10000,
-    "maximum": 10000
-  }
-}
+{"0":{"average":10000,"date":"2026-03-29","commonQuantity":2,"minimum":10000,"maximum":10000}}

@@ -22,20 +22,24 @@ The goal is to provide a **clean, reproducible, and well-tested data pipeline** 
 
 ESO Market Tracker is a **monorepo** containing multiple coordinated packages:
 
-| Package                                         | Purpose                                                                                    |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------|
-| `packages/`                                     | Contains shared functionality used across apps.                                            |`
-| &nbsp;&nbsp;`database`                          | Manages read/write into the static data structure                                          |
-| &nbsp;&nbsp;`eso`                               | Contains logic specific to ESO and its system of IDs                                       |
-| &nbsp;&nbsp;`logging`                           | Handles routine logging and contains sundry helper functions                               |
-| `apps/`                                         | Serve or manage data in various ways.                                                      |
-| &nbsp;&nbsp;`collectors/`                       | Ingest data from various sources and push it into the data directory.                      |
-| &nbsp;&nbsp;&nbsp;&nbsp;`items-from-uesp`       | Pulls all items known to UESP into the database. (As Needed)                               |
+| Package                                        | Purpose                                                                                    |
+|------------------------------------------------|--------------------------------------------------------------------------------------------|
+| `packages/`                                    | Contains shared functionality used across apps.                                            |`
+| &nbsp;&nbsp;`database`                         | Manages read/write into the static data structure                                          |
+| &nbsp;&nbsp;`eso`                              | Contains logic specific to ESO and its system of IDs                                       |
+| &nbsp;&nbsp;`logging`                          | Handles routine logging and contains sundry helper functions                               |
+| `apps/`                                        | Serve or manage data in various ways.                                                      |
+| &nbsp;&nbsp;`collectors/`                      | Ingest data from various sources and push it into the data directory.                      |
+| &nbsp;&nbsp;&nbsp;&nbsp;`items-from-uesp`      | Pulls all items known to UESP into the database. (As Needed)                               |
 | &nbsp;&nbsp;&nbsp;&nbsp;`observations-from-emt` | Pulls all item pricing data from legacy EMT. (One-time)                                    |
 | &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-local-addons` | Pulls all pricing data from legacy addons. (One-time)                                      |
 | &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-tsc-web-app` | Pulls pricing data from the legacy TSC web app. (One-time)                                 |
 | &nbsp;&nbsp;&nbsp;&nbsp; `observations-from-tsc2` | Pulls pricing data from the current TSC2 addon. (Recurring, Idempotent)|
-| `data`                                          | Manages generating of database artifacts such as SQLite in addition to containing raw data |
+| &nbsp;&nbsp;`builders/` | Perform database construction tasks. |
+| &nbsp;&nbsp;&nbsp;&nbsp;`master-update`| A one-hit button to update the database and all relevant deployments. |
+|&nbsp;&nbsp;`deployments/`|Various applications for serving out our data. |
+|&nbsp;&nbsp;&nbsp;&nbsp;`eso-addon` | The console-ready addon for the ESO game.|
+| `data`                                         | Manages generating of database artifacts such as SQLite in addition to containing raw data |
 
 The architecture intentionally keeps the **canonical dataset as flat files** rather than
 a traditional database so that the entire market history can be:
@@ -150,7 +154,7 @@ sources which collect data directly from the game. Current sources include:
   collected its data by hand. It has since updated its collection methods to be more
   automated and less prone to human error.
 
-<!-- TODO - Update this as time goes on. -->
+- **UESP**. The UESP community maintains mined game data for ESO.
 
 ---
 
@@ -165,6 +169,11 @@ tracked at the observation level.
 ### Observations
 
 Observations are point-in-time snapshots of item sale performance at the given time.
+
+### Indexes
+
+A number of indexes are maintained for bulk data operations such as deployment code
+ generation.
 
 ---
 
