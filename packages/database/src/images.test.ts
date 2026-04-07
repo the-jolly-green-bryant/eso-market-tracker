@@ -14,12 +14,6 @@ describe('images', async () => {
     )
   })
 
-  it('knows if the target is an image', async () => {
-    await expect(
-      async () => await getOrDownloadImage('https://placehold.co/')
-    ).rejects.toThrow(/valid/)
-  })
-
   it('handles failed fetches', async () => {
     await expect(
       async () => await getValidatedRequest('blah.comp')

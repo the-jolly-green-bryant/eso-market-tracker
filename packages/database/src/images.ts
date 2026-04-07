@@ -60,12 +60,14 @@ export const getOrDownloadImage = (
 
   // Download our image or not, we don't care.
   ;(force || !fs.existsSync(localPath)) &&
-    void (async () => {
+    (async () => {
       const r = await getValidatedRequest(url)
       fs.mkdirSync(path.dirname(localPath), { recursive: true })
       const buffer = Buffer.from(await r.arrayBuffer())
       fs.writeFileSync(localPath, buffer)
-    })()
+    })().catch((e) => {
+      throw e
+    })
 
   return targetPath
 }

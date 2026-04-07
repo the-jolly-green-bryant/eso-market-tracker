@@ -1,20 +1,28 @@
-import { Item, ItemMeta, TRAITS, NO_KNOWN_TRAIT } from '@eso-market-tracker/eso'
+import { Item, ItemMeta, TRAITS } from '@eso-market-tracker/eso'
 
 export * from './build'
 import { db } from './build'
 import { getIdFromName, logger, orThrow } from '@eso-market-tracker/logging'
 import * as database from '@eso-market-tracker/database'
 import * as cheerio from 'cheerio'
+import fs from 'fs'
+import { fileURLToPath } from 'node:url'
+import path from 'node:path'
 
 let _TRAIT_INDEX: Record<number, [number, number | null]>
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
 export const TRAIT_INDEX = async (): Promise<
   Record<number, [number, number | null]>
 > => {
   if (_TRAIT_INDEX) return _TRAIT_INDEX
 
-  const mod = await import('./index/traits.json')
-  _TRAIT_INDEX = mod.default as Record<number, [number, number | null]>
+  const buf = await fs.promises.readFile(
+    path.join(__dirname, 'index', 'traits.json')
+  )
+  const data = JSON.parse(buf.toString('utf8'))
+  _TRAIT_INDEX = data as Record<number, [number, number | null]>
   return _TRAIT_INDEX
 }
 

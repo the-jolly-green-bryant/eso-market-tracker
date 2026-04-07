@@ -138,8 +138,10 @@ const _dataStringToObservations = async (
   dataString: string,
   timestamp: number
 ): Promise<ItemObservation[]> =>
-  await Promise.all(
+  Promise.all(
     [0, 1, 2, 3, 4, 5].map(async (quality): Promise<ItemObservation> => {
+      logger.info(`id=${id}, dataString=${dataString}`)
+
       // We can literally just emulate lua and get all the data out.
       const [average, minimum, maximum, fromLegacy] = API.parseQualityFromEntry(
         dataString,
@@ -170,36 +172,39 @@ const parseObservations = async (
   options?: ParserOptions
 ): Promise<[string, ItemObservation[]][]> => {
   const allParsed = await parseRawData(luaFiles)
-  const parsedResults: [string, ItemObservation[]][] = await Promise.all(
-    allParsed.map(async (parsed): Promise<[string, ItemObservation[]]> => {
-      const limit = pLimit(10)
-      const observations = (
-        await Promise.all(
-          Object.entries(parsed.data)
-            .slice(0, options?.maxWrites ?? Object.entries(parsed.data).length)
-            .flatMap(async ([idString, valueString]) =>
-              limit(async () => {
-                const id = Number.parseInt(idString)
-                if ([208251, 212359, 82016, 157522].includes(id)) {
-                  return []
-                }
+  return await Promise.all(
+    allParsed
+      .slice(0, options?.maxWrites ?? allParsed.length)
+      .map(async (parsed): Promise<[string, ItemObservation[]]> => {
+        const limit = pLimit(10)
+        const observations = (
+          await Promise.all(
+            Object.entries(parsed.data)
+              .slice(
+                0,
+                options?.maxWrites ?? Object.entries(parsed.data).length
+              )
+              .flatMap(async ([idString, valueString]) =>
+                limit(async () => {
+                  const id = Number.parseInt(idString)
+                  if ([208251, 212359, 82016, 157522].includes(id)) {
+                    return []
+                  }
 
-                return await _dataStringToObservations(
-                  id,
-                  valueString,
-                  parsed.date!
-                )
-              })
-            )
-        )
-      ).flat()
+                  return await _dataStringToObservations(
+                    id,
+                    valueString,
+                    parsed.date!
+                  )
+                })
+              )
+          )
+        ).flat()
 
-      console.log('observations', observations)
-      return [_worldToPlatform(parsed.platform), observations]
-    })
+        console.log('observations', observations)
+        return [_worldToPlatform(parsed.platform), observations]
+      })
   )
-
-  return parsedResults
 }
 
 /**
