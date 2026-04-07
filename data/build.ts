@@ -382,14 +382,20 @@ const _writeItems = async (ids?: number[]) => {
   const stmt = db().prepare(sql)
   logger.info('Preparing to write items.')
   const writes: Promise<void>[] = []
+  const itemIndex = {}
   for (const row of stmt.iterate()) {
     const item = Item.from({
       ...row,
       knownIds: JSON.parse(row.knownIds as string),
     } as ItemMeta)
     const targetPath = naming.getItemPath(item)
+    itemIndex[item.meta.name] = item.meta
     writes.push(emtDatabase.writeToFile(item.meta, targetPath))
   }
+
+  writes.push(
+    emtDatabase.writeToFile(itemIndex, 'data/index/master-items.json')
+  )
 
   logger.info('Starting to write items.')
   return Promise.all(writes).then(() =>

@@ -2,5 +2,5 @@
 import 'dotenv/config'
 import { buildDatabase, flattenDatabase } from './build'
 
-await buildDatabase()
+await buildDatabase({ skipInsertingTraits: true })
 await flattenDatabase()
