@@ -8,6 +8,6 @@ pnpm typecheck
 echo "Injecting version..."
 
 pnpm run inject-version
-git add package.json packages/*/package.json
+git add package.json packages/*/package.json apps/deployments/eso-addon/src/MarketTracker/MarketTracker.addon
 
 sqlite3 data/artifacts/data.sqlite "VACUUM;"
