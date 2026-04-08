@@ -12,6 +12,7 @@ tsconfig.tsbuildinfo
 /**/coverage/
 .env
 /data/test/
+/**/.wrangler/
 
 /data/observations/*
 !/data/observations/.gitkeep

@@ -5,6 +5,7 @@ import { CURRENT_MINING_SUMMARY_INDEX } from './constants'
 import { collectObservations as collectWebAppObservations } from '@eso-market-tracker/observations-from-tsc-web-app'
 import { collectObservations as collectAddonObservations } from '@eso-market-tracker/observations-from-tsc2'
 import { buildShardedLua } from '@eso-market-tracker/eso-addon'
+import { updateKeyValues } from '@eso-market-tracker/api'
 
 export const _buildStep = async () => {
   // We don't need to insert traits because we got those from flattening.
@@ -39,3 +40,8 @@ export const importObservations = async () => {
 }
 
 export const buildAddon = async () => buildShardedLua()
+
+export const buildApi = async () => {
+  await updateKeyValues()
+  // TODO - Deploy the API
+}

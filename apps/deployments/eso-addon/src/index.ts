@@ -1,1 +1,1 @@
-export { buildShardedLua } from './builder'
+export { buildShardedLua, getShardedRecord } from './builder'
