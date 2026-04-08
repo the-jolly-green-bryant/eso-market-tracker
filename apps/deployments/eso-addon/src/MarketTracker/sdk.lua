@@ -42,7 +42,7 @@ end
     Example: "Iron Sword^m" -> "Iron Sword"
 ]]
 local function _normalizeName(name)
-    name = name:gsub("%^%a+", "")
+    name = name:gsub("%^.+$", "")
     name = name:gsub("-", "")
     name = name:gsub("[^%w ]", "")
     name = string.lower(name)
@@ -66,7 +66,7 @@ function GetIdFromName(name)
 end
 
 local function _normalizeId(v)
-  if v == nil then
+  if v == nil or v == 0 or v == "00" then
     return "--"
   end
 
@@ -79,6 +79,17 @@ local function _normalizeId(v)
 end
 
 _G.MARKET_TRACKER_SDK = _G.MARKET_TRACKER_SDK or {}
+_G.MARKET_TRACKER_SDK.Stringify = function (t)
+    if not t then return "nil" end
+
+    local parts = {}
+    for k, v in pairs(t) do
+        parts[#parts + 1] = tostring(k) .. "=" .. tostring(v)
+    end
+
+    return table.concat(parts, ",")
+end
+
 _G.MARKET_TRACKER_SDK.GetIdFromName = GetIdFromName
 _G.MARKET_TRACKER_SDK.GetPriceFromName = function (name, trait, quality, platform)
     local byPlatform = true
@@ -87,55 +98,71 @@ _G.MARKET_TRACKER_SDK.GetPriceFromName = function (name, trait, quality, platfor
 
     -- Capture our relevant shard.
     local internalId = GetIdFromName(name)
-    local r = string.reverse(string.format("%06d", internalId))
+    local idString = tostring(internalId)
+    if #idString < 6 then
+        idString = string.rep("0", 6 - #idString) .. idString
+    end
+    local r = string.reverse(idString)
     local s1, s2, s3 = r:sub(1,2), r:sub(3,4), r:sub(5,6)
     local shardFn = _G.MARKET_TRACKER_SDK["shard_" .. s1 .. s2]
     local shard = shardFn and shardFn(s3)
-    if shard == nil then return end
 
     -- Collect platform data or fallback.
-    local itemFn = shard(internalId)
+    local itemFn = shard and shard(internalId)
     local item = itemFn and itemFn(platform)
     if item == nil and platform ~= "xbox-na" then
         -- Fallback to Xbox-NA prices if localized not available.
-        item = itemFn and itemFn("xbox-na")
+        platform = "xbox-na"
+        item = itemFn and itemFn(platform)
         byPlatform = false
     end
-    if item == nil then return end
 
     -- Collect trait data or fallback.
     trait = _normalizeId(trait)
     if trait == "--" then
         byTrait = false
     end
-    local traited = item[trait]
+    local traited = item and item[trait]
     if traited == nil then
         -- Fallback to traitless if traited not available.
-        traited = item["--"]
+        trait = "--"
+        traited = item and item[trait]
         byTrait = false
     end
-    if traited == nil then return end
 
     -- Collect quality data or fallback.
     quality = _normalizeId(quality)
     if quality == "--" then
         byQuality = false
     end
-    local pricing = traited[quality]
+    local pricing = traited and traited[quality]
     if pricing == nil then
         -- Fallback to qualityless if quality not available.
-        pricing = traited["--"]
+        quality = "--"
+        pricing = traited and traited[quality]
         byQuality = false
     end
-    if pricing == nil then return end
 
-    return {
+    return pricing and {
         minimum=tonumber(pricing.minimum),
         maximum=tonumber(pricing.maximum),
         average=tonumber(pricing.average),
         commonQuantity=tonumber(pricing.commonQuantity),
         date=pricing.date
-    }, byPlatform, byTrait, byQuality
+    }, byPlatform, byTrait, byQuality, {
+        trait=trait,
+        quality=quality,
+        platform=platform,
+        name=name,
+        internalId=internalId,
+        pricing=_G.MARKET_TRACKER_SDK.Stringify(pricing),
+        shardFound=shard ~= nil,
+        shardFn=shardFn,
+        s1=s1,
+        s2=s2,
+        s3=s3,
+        r=r
+    }
 end
 
 local function _formatNumber(number)
@@ -147,3 +174,5 @@ end
 _G.MARKET_TRACKER_SDK.GetFormattedPrice = function(price)
     return price and _formatNumber(price)
 end
+
+_G.MARKET_TRACKER_SDK.DEBUG = false
