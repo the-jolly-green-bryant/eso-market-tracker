@@ -11,7 +11,7 @@ local GetPlatform = function ()
 end
 
 local GetPriceFromLink = function (link)
-    local pricing, byPlatform, byTrait, byQuality = _G.MARKET_TRACKER_SDK.GetPriceFromName(
+    local pricing, byPlatform, byTrait, byQuality, debug = _G.MARKET_TRACKER_SDK.GetPriceFromName(
         GetItemLinkName(link),
         GetItemLinkTraitInfo(link),
         GetItemLinkDisplayQuality(link),
@@ -27,7 +27,7 @@ local GetPriceFromLink = function (link)
         source = "based on quality"
     end
 
-    return (pricing and pricing.average), source
+    return (pricing and pricing.average), source, debug
 end
 
 local CalculateSellPrice = function (bagId, slotIndex)
@@ -44,7 +44,7 @@ function ZO_Tooltip:AddItemTitle(itemLink, name)
     if itemLink == nil then return end
 
 
-    local rawPrice, source = GetPriceFromLink(itemLink)
+    local rawPrice, source, debug = GetPriceFromLink(itemLink)
     local price = _G.MARKET_TRACKER_SDK.GetFormattedPrice(rawPrice)
 
     self:AddLine(
@@ -54,6 +54,12 @@ function ZO_Tooltip:AddItemTitle(itemLink, name)
         ),
         self:GetStyle("bodyDescription")
     )
+
+    _ = _G.MARKET_TRACKER_SDK.DEBUG and self:AddLine(
+        string.format(_G.MARKET_TRACKER_SDK.Stringify(debug)),
+        self:GetStyle("statValuePairStat")
+    )
+
 
     if source == "" then return end
     self:AddLine(
