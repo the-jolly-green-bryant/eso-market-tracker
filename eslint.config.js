@@ -29,6 +29,7 @@ export default [
 
     rules: {
       'sonarjs/cognitive-complexity': ['error', 15],
+      'sonarjs/no-nested-assignment': 'off',
       'max-lines-per-function': ['error', 80],
       '@typescript-eslint/no-unused-expressions': 'off',
       'sonarjs/no-os-command-from-path': 'off',

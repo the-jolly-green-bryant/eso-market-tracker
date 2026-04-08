@@ -1,0 +1,64 @@
+; This Add-on is not created by, affiliated with or sponsored by ZeniMax
+; Media Inc. or its affiliates. The Elder Scrolls and related logos are
+; registered trademarks or trademarks of ZeniMax Media Inc. in the United
+; States and/or other countries. All rights reserved.
+
+## Title: Market Tracker
+## Author: esomarkettracker.com
+## AddOnVersion: 20105
+## Version: 2.1.5
+## APIVersion: 101049 101050
+## Description: Allows pricing data to appear for items.
+
+main.lua
+data.0050.lua
+data.0151.lua
+data.0252.lua
+data.0353.lua
+data.0454.lua
+data.0555.lua
+data.0656.lua
+data.0757.lua
+data.0858.lua
+data.0959.lua
+data.1060.lua
+data.1161.lua
+data.1262.lua
+data.1363.lua
+data.1464.lua
+data.1565.lua
+data.1666.lua
+data.1767.lua
+data.1868.lua
+data.1969.lua
+data.2070.lua
+data.2171.lua
+data.2272.lua
+data.2373.lua
+data.2474.lua
+data.2575.lua
+data.2676.lua
+data.2777.lua
+data.2878.lua
+data.2979.lua
+data.3080.lua
+data.3181.lua
+data.3282.lua
+data.3383.lua
+data.3484.lua
+data.3585.lua
+data.3686.lua
+data.3787.lua
+data.3888.lua
+data.3989.lua
+data.4090.lua
+data.4191.lua
+data.4292.lua
+data.4393.lua
+data.4494.lua
+data.4595.lua
+data.4696.lua
+data.4797.lua
+data.4898.lua
+data.4999.lua
+sdk.lua
