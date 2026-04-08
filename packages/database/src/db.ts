@@ -9,14 +9,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 export const writeToFile = async (
-  o: Record<
-    string | number,
-    | string
-    | number
-    | (number | null)[]
-    | null
-    | Record<string, string | number | null>
-  >,
+  o: Record<string | number, unknown>,
   targetPath: string,
   options?: { preservePrevious?: boolean }
 ) => {

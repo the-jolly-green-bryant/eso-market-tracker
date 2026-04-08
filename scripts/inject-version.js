@@ -3,6 +3,15 @@ import path from 'node:path'
 import { execSync } from 'node:child_process'
 
 const ROOT = process.cwd()
+const ADDON_FILE = path.join(
+  ROOT,
+  'apps',
+  'deployments',
+  'eso-addon',
+  'src',
+  'MarketTracker',
+  'MarketTracker.addon'
+)
 
 function getVersion() {
   const date = new Date()
@@ -43,6 +52,19 @@ function findPackageJsonFiles(dir) {
   return results
 }
 
+function updateAddonVersion(filePath, version) {
+  const raw = fs.readFileSync(filePath, 'utf8')
+
+  if (!raw.includes('## Version:')) {
+    throw new Error(`Could not find ## Version: line in ${filePath}`)
+  }
+
+  const updated = raw.replace(/^## Version:.*$/m, `## Version: ${version}`)
+
+  fs.writeFileSync(filePath, updated)
+  console.log(`Updated ${path.relative(ROOT, filePath)} -> ${version}`)
+}
+
 const version = getVersion()
 const packageJsonFiles = findPackageJsonFiles(ROOT)
 
@@ -55,3 +77,5 @@ for (const filePath of packageJsonFiles) {
   fs.writeFileSync(filePath, `${JSON.stringify(pkg, null, 2)}\n`)
   console.log(`Updated ${path.relative(ROOT, filePath)} -> ${version}`)
 }
+
+updateAddonVersion(ADDON_FILE, version)

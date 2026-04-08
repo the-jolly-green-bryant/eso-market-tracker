@@ -291,6 +291,9 @@ importers:
       '@eso-market-tracker/logging':
         specifier: workspace:*
         version: link:../../../packages/logging
+      wasmoon:
+        specifier: ^1.16.0
+        version: 1.16.0
     devDependencies:
       '@vitest/coverage-v8':
         specifier: ^4.1.0

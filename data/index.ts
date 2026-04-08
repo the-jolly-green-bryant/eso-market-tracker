@@ -47,7 +47,7 @@ export const MASTER_ITEM_INDEX = async (): Promise<
   if (_MASTER_ITEM_INDEX) return _MASTER_ITEM_INDEX
 
   const buf = await fs.promises.readFile(
-    path.join(__dirname, 'index', 'master-pricing.json')
+    path.join(__dirname, 'index', 'master-items.json')
   )
   const data = JSON.parse(buf.toString('utf8'))
   _MASTER_ITEM_INDEX = data as Record<number, [number, number | null]>
