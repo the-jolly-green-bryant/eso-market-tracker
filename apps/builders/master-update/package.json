@@ -28,6 +28,7 @@
     "@eso-market-tracker/data": "workspace:*",
     "@eso-market-tracker/items-from-uesp": "workspace:*",
     "@eso-market-tracker/observations-from-tsc-web-app": "workspace:*",
-    "@eso-market-tracker/observations-from-tsc2": "workspace:*"
+    "@eso-market-tracker/observations-from-tsc2": "workspace:*",
+    "@eso-market-tracker/eso-addon": "workspace:*"
   }
 }

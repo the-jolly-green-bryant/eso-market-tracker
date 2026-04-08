@@ -66,6 +66,9 @@ importers:
       '@eso-market-tracker/eso':
         specifier: workspace:*
         version: link:../../../packages/eso
+      '@eso-market-tracker/eso-addon':
+        specifier: workspace:*
+        version: link:../../deployments/eso-addon
       '@eso-market-tracker/items-from-uesp':
         specifier: workspace:*
         version: link:../../collectors/items-from-uesp
