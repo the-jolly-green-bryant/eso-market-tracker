@@ -266,7 +266,10 @@ import { marked } from 'marked'
 
 const SEARCH_LIMIT_DEFAULT = 10
 
-type Env = {
+/**
+ * A type wrapper for Cloudflare and Wrangler.
+ */
+export type Env = {
   ESO_MARKET_TRACKER: KVNamespace
 }
 
@@ -407,7 +410,7 @@ const docs = () => {
   })
 }
 
-const item = async (key: string, env: Env) => {
+export const item = async (key: string, env: Env) => {
   const normalized = key.trim()
   return (
     (normalized && (await items([key], env))) || badRequest('Missing item key')
