@@ -11,7 +11,7 @@ _G.MARKET_TRACKER_SDK.shard_1200 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="18463", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="23800"
+                  ["average"]="18463", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="23800"
                 },
                 ["05"] = {
                   ["average"]="32174", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="99000"
@@ -22,7 +22,7 @@ _G.MARKET_TRACKER_SDK.shard_1200 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="24724", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="44000"
+                  ["date"]="2026-02-24", ["average"]="31222", ["minimum"]="21000", ["maximum"]="44000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -30,7 +30,7 @@ _G.MARKET_TRACKER_SDK.shard_1200 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="23912", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="12273", ["maximum"]="60000"
+                  ["date"]="2026-02-24", ["average"]="22336", ["minimum"]="1100", ["maximum"]="60000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -38,7 +38,7 @@ _G.MARKET_TRACKER_SDK.shard_1200 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="15153", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="17916", ["minimum"]="8800", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -196,7 +196,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9987", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="16300"
+                  ["average"]="9987", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="16300"
                 },
                 ["04"] = {
                   ["average"]="18852", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3300", ["maximum"]="55000"
@@ -207,7 +207,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="11000", ["maximum"]="11000"
+                  ["date"]="2026-02-24", ["average"]="11000", ["minimum"]="11000", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -224,7 +224,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7111", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9139"
+                  ["average"]="7111", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9139"
                 },
                 ["04"] = {
                   ["average"]="9718", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="24200"
@@ -235,7 +235,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8103", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3039", ["maximum"]="12000"
+                  ["date"]="2026-02-24", ["average"]="8843", ["minimum"]="7886", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -243,7 +243,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8238", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="12039"
+                  ["date"]="2026-02-24", ["average"]="8347", ["minimum"]="5000", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -251,7 +251,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7178", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="10039"
+                  ["date"]="2026-02-24", ["average"]="6618", ["minimum"]="3000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -268,7 +268,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6975", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9450"
+                  ["average"]="6975", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9450"
                 },
                 ["03"] = {
                   ["average"]="11565", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="22000"
@@ -279,7 +279,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11044", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8571", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="16808", ["minimum"]="8333", ["maximum"]="30259", ["commonQuantity"]="1"
                 }
               }
             },
@@ -287,7 +287,7 @@ _G.MARKET_TRACKER_SDK.shard_1201 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7302", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="13350"
+                  ["date"]="2026-02-24", ["average"]="6834", ["minimum"]="4150", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -309,7 +309,7 @@ _G.MARKET_TRACKER_SDK.shard_1202 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3186", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="7850"
+                  ["average"]="3186", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="7850"
                 }
               }
             }
@@ -331,7 +331,7 @@ _G.MARKET_TRACKER_SDK.shard_1203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3865", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2400", ["maximum"]="5500"
+                  ["average"]="3865", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2400", ["maximum"]="5500"
                 },
                 ["02"] = {
                   ["average"]="1166", ["date"]="2025-07-26", ["commonQuantity"]="2", ["minimum"]="1060", ["maximum"]="1166"
@@ -342,7 +342,7 @@ _G.MARKET_TRACKER_SDK.shard_1203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2760", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1060", ["maximum"]="4460"
+                  ["date"]="2026-02-24", ["average"]="2760", ["minimum"]="1060", ["maximum"]="4460", ["commonQuantity"]="1"
                 }
               }
             }
@@ -650,7 +650,7 @@ _G.MARKET_TRACKER_SDK.shard_1203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2", ["maximum"]="6"
+                  ["average"]="5", ["date"]="2026-03-29", ["commonQuantity"]="100", ["minimum"]="2", ["maximum"]="6"
                 }
               }
             }
@@ -672,7 +672,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="18450", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="27433"
+                  ["average"]="18450", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="27433"
                 },
                 ["04"] = {
                   ["average"]="35912", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1039", ["maximum"]="71543"
@@ -683,7 +683,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="102686", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30039", ["maximum"]="150000"
+                  ["date"]="2026-02-24", ["average"]="130000", ["minimum"]="120000", ["maximum"]="140000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -691,15 +691,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="46460", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2200", ["maximum"]="100000"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="17680", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="30000"
+                  ["date"]="2026-02-24", ["average"]="91749", ["minimum"]="6000", ["maximum"]="280000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -716,7 +708,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="46", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="23", ["maximum"]="92"
+                  ["average"]="46", ["date"]="2026-03-29", ["commonQuantity"]="200", ["minimum"]="23", ["maximum"]="92"
                 },
                 ["01"] = {
                   ["average"]="54", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="0", ["maximum"]="165"
@@ -727,7 +719,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="94", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3", ["maximum"]="200"
+                  ["date"]="2026-02-24", ["average"]="48", ["minimum"]="3", ["maximum"]="100", ["commonQuantity"]="1"
                 }
               }
             },
@@ -735,7 +727,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="43", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="103"
+                  ["date"]="2026-02-24", ["average"]="42", ["minimum"]="5", ["maximum"]="170", ["commonQuantity"]="1"
                 }
               }
             },
@@ -743,7 +735,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="63"
+                  ["date"]="2026-02-24", ["average"]="25", ["minimum"]="11", ["maximum"]="83", ["commonQuantity"]="1"
                 }
               }
             }
@@ -760,7 +752,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4345", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="975", ["maximum"]="6550"
+                  ["average"]="4345", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="975", ["maximum"]="6550"
                 },
                 ["03"] = {
                   ["average"]="6997", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="299", ["maximum"]="10999"
@@ -771,7 +763,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5680", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="7500"
+                  ["date"]="2026-02-24", ["average"]="6142", ["minimum"]="5000", ["maximum"]="7500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -779,15 +771,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5087", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="9000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="7020", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3030", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="5833", ["minimum"]="4000", ["maximum"]="7000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -804,7 +788,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="24297", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="30000"
+                  ["average"]="24297", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="30000"
                 },
                 ["04"] = {
                   ["average"]="24691", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="88000"
@@ -815,7 +799,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="28521", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="31468", ["minimum"]="23840", ["maximum"]="35039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -823,7 +807,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20609", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="40000"
+                  ["date"]="2026-02-24", ["average"]="21500", ["minimum"]="10000", ["maximum"]="30039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -831,7 +815,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27704", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15039", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="26106", ["minimum"]="18621", ["maximum"]="40039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -848,7 +832,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="182", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="650"
+                  ["average"]="182", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="650"
                 },
                 ["02"] = {
                   ["average"]="456", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1100"
@@ -859,7 +843,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="246", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1027"
+                  ["date"]="2026-02-24", ["average"]="175", ["minimum"]="27", ["maximum"]="227", ["commonQuantity"]="1"
                 }
               }
             },
@@ -867,7 +851,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="657", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="878", ["minimum"]="127", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -875,7 +859,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="156", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="327"
+                  ["date"]="2026-02-24", ["average"]="245", ["minimum"]="100", ["maximum"]="700", ["commonQuantity"]="1"
                 }
               }
             }
@@ -888,7 +872,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10832", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="16000"
+                  ["average"]="10832", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="16000"
                 },
                 ["03"] = {
                   ["average"]="26451", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="23000", ["maximum"]="165000"
@@ -899,7 +883,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="18415", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="29030"
+                  ["date"]="2026-02-24", ["average"]="18476", ["minimum"]="14000", ["maximum"]="29030", ["commonQuantity"]="1"
                 }
               }
             },
@@ -907,7 +891,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16090", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="12340", ["maximum"]="19995"
+                  ["date"]="2026-02-24", ["average"]="19995", ["minimum"]="19995", ["maximum"]="19995", ["commonQuantity"]="1"
                 }
               }
             },
@@ -915,7 +899,7 @@ _G.MARKET_TRACKER_SDK.shard_1205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12649", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="35000"
+                  ["date"]="2026-02-24", ["average"]="11991", ["minimum"]="8000", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -937,7 +921,7 @@ _G.MARKET_TRACKER_SDK.shard_1206 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="202", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="500"
+                  ["average"]="202", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="500"
                 }
               }
             },
@@ -945,15 +929,7 @@ _G.MARKET_TRACKER_SDK.shard_1206 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="310", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="310", ["maximum"]="310"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="1000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="310", ["minimum"]="310", ["maximum"]="310", ["commonQuantity"]="1"
                 }
               }
             }
@@ -1038,6 +1014,14 @@ _G.MARKET_TRACKER_SDK.shard_1207 = function (s3)
         ["438317021"] = function (platform)
           return ({
             -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="699", ["date"]="2024-11-15", ["commonQuantity"]="1", ["minimum"]="636", ["maximum"]="699"
+                }
+              }
+            },
             ["xbox-eu"] = {
               ["03"] = {
                 -- Qualities
@@ -1057,14 +1041,6 @@ _G.MARKET_TRACKER_SDK.shard_1207 = function (s3)
                 },
                 ["03"] = {
                   ["average"]="500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="500"
-                }
-              }
-            },
-            ["xbox-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="699", ["date"]="2024-11-15", ["commonQuantity"]="1", ["minimum"]="636", ["maximum"]="699"
                 }
               }
             }
@@ -1086,7 +1062,7 @@ _G.MARKET_TRACKER_SDK.shard_1209 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="76672", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="101832"
+                  ["average"]="76672", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="101832"
                 },
                 ["04"] = {
                   ["average"]="48690", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="28000", ["maximum"]="88000"
@@ -1097,7 +1073,7 @@ _G.MARKET_TRACKER_SDK.shard_1209 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="58260", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="34039", ["maximum"]="80000"
+                  ["date"]="2026-02-24", ["average"]="66333", ["minimum"]="59000", ["maximum"]="80000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1105,7 +1081,7 @@ _G.MARKET_TRACKER_SDK.shard_1209 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="79000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="79000", ["maximum"]="79000"
+                  ["date"]="2026-02-24", ["average"]="79000", ["minimum"]="79000", ["maximum"]="79000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1113,7 +1089,7 @@ _G.MARKET_TRACKER_SDK.shard_1209 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="68500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="95000"
+                  ["date"]="2026-02-24", ["average"]="87500", ["minimum"]="80000", ["maximum"]="95000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -1323,7 +1299,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32032", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="40000"
+                  ["average"]="32032", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="40000"
                 },
                 ["05"] = {
                   ["average"]="56311", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="66000"
@@ -1334,7 +1310,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="30552", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30552", ["maximum"]="30552"
+                  ["date"]="2026-02-24", ["average"]="30552", ["minimum"]="30552", ["maximum"]="30552", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1342,7 +1318,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="44333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="41500", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="41500", ["minimum"]="41500", ["maximum"]="41500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1350,7 +1326,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="67383", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30552", ["maximum"]="99990"
+                  ["date"]="2026-02-24", ["average"]="39776", ["minimum"]="30552", ["maximum"]="49000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -1367,7 +1343,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1622", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1429", ["maximum"]="1999"
+                  ["average"]="1622", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1429", ["maximum"]="1999"
                 },
                 ["01"] = {
                   ["average"]="3350", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="35", ["maximum"]="5500"
@@ -1378,7 +1354,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2059", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3000"
+                  ["date"]="2026-02-24", ["average"]="2096", ["minimum"]="1000", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1386,7 +1362,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1301", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="6000"
+                  ["date"]="2026-02-24", ["average"]="1215", ["minimum"]="1000", ["maximum"]="6000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1394,7 +1370,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3427", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="1697", ["minimum"]="1000", ["maximum"]="4017", ["commonQuantity"]="1"
                 }
               }
             }
@@ -1411,7 +1387,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="39", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="60"
+                  ["average"]="39", ["date"]="2026-03-29", ["commonQuantity"]="90", ["minimum"]="6", ["maximum"]="60"
                 },
                 ["03"] = {
                   ["average"]="7", ["date"]="2025-07-26", ["commonQuantity"]="10", ["minimum"]="6", ["maximum"]="7"
@@ -1431,7 +1407,7 @@ _G.MARKET_TRACKER_SDK.shard_1213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1674", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2555"
+                  ["average"]="1674", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2555"
                 }
               }
             }
@@ -1674,7 +1650,7 @@ _G.MARKET_TRACKER_SDK.shard_1214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4177", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1650", ["maximum"]="12000"
+                  ["average"]="4177", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1650", ["maximum"]="12000"
                 },
                 ["03"] = {
                   ["average"]="9440", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="4800", ["maximum"]="12100"
@@ -1685,7 +1661,7 @@ _G.MARKET_TRACKER_SDK.shard_1214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3825", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2550", ["maximum"]="8850"
+                  ["date"]="2026-02-24", ["average"]="2550", ["minimum"]="2550", ["maximum"]="2550", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1693,7 +1669,7 @@ _G.MARKET_TRACKER_SDK.shard_1214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12343", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3900", ["maximum"]="14500"
+                  ["date"]="2026-02-24", ["average"]="12343", ["minimum"]="3900", ["maximum"]="14500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1701,7 +1677,7 @@ _G.MARKET_TRACKER_SDK.shard_1214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6289", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="9950"
+                  ["date"]="2026-02-24", ["average"]="6937", ["minimum"]="4150", ["maximum"]="9778", ["commonQuantity"]="1"
                 }
               }
             }
@@ -1897,7 +1873,7 @@ _G.MARKET_TRACKER_SDK.shard_1215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8452", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="25027"
+                  ["average"]="8452", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="25027"
                 },
                 ["02"] = {
                   ["average"]="7477", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="16500"
@@ -1908,7 +1884,7 @@ _G.MARKET_TRACKER_SDK.shard_1215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4163", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="3309", ["minimum"]="250", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1916,7 +1892,7 @@ _G.MARKET_TRACKER_SDK.shard_1215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4409", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="6000"
+                  ["date"]="2026-02-24", ["average"]="4489", ["minimum"]="3000", ["maximum"]="6000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -1924,7 +1900,7 @@ _G.MARKET_TRACKER_SDK.shard_1215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7743", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4400", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="9897", ["minimum"]="5000", ["maximum"]="33000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -1946,7 +1922,7 @@ _G.MARKET_TRACKER_SDK.shard_1216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3000", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="3000"
+                  ["average"]="3000", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="3000"
                 }
               }
             }
@@ -1968,7 +1944,7 @@ _G.MARKET_TRACKER_SDK.shard_1217 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2432", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3500"
+                  ["average"]="2432", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3500"
                 }
               }
             },
@@ -1976,7 +1952,7 @@ _G.MARKET_TRACKER_SDK.shard_1217 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1538", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1429", ["maximum"]="1667"
+                  ["date"]="2026-02-24", ["average"]="1538", ["minimum"]="1429", ["maximum"]="1667", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2074,7 +2050,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="78009", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="125000"
+                  ["average"]="78009", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="125000"
                 }
               }
             },
@@ -2082,7 +2058,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="47400", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="35000", ["maximum"]="60000"
+                  ["date"]="2026-02-24", ["average"]="49750", ["minimum"]="35000", ["maximum"]="60000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2090,7 +2066,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="47010", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="80000"
+                  ["date"]="2026-02-24", ["average"]="49845", ["minimum"]="39536", ["maximum"]="80000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2098,7 +2074,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="53818", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="60000"
+                  ["date"]="2026-02-24", ["average"]="55963", ["minimum"]="40000", ["maximum"]="60000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2115,7 +2091,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6943", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="16300"
+                  ["average"]="6943", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="16300"
                 },
                 ["04"] = {
                   ["average"]="16411", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="17930"
@@ -2126,7 +2102,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10275", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="16650"
+                  ["date"]="2026-02-24", ["average"]="12988", ["minimum"]="10000", ["maximum"]="16650", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2134,7 +2110,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="9000"
+                  ["date"]="2026-02-24", ["average"]="9000", ["minimum"]="9000", ["maximum"]="9000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2142,7 +2118,7 @@ _G.MARKET_TRACKER_SDK.shard_1219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11400", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5300", ["maximum"]="25500"
+                  ["date"]="2026-02-24", ["average"]="11400", ["minimum"]="5300", ["maximum"]="25500", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2164,7 +2140,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2433", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="5000"
+                  ["average"]="2433", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="5000"
                 },
                 ["04"] = {
                   ["average"]="6501", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2173", ["maximum"]="14080"
@@ -2175,7 +2151,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3640", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3200", ["maximum"]="3750"
+                  ["date"]="2026-02-24", ["average"]="3750", ["minimum"]="3750", ["maximum"]="3750", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2183,7 +2159,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5531", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="12000"
+                  ["date"]="2026-02-24", ["average"]="5100", ["minimum"]="1500", ["maximum"]="12000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2191,7 +2167,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1437", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="4400"
+                  ["date"]="2026-02-24", ["average"]="1422", ["minimum"]="871", ["maximum"]="4400", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2208,7 +2184,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6648", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2100", ["maximum"]="10000"
+                  ["average"]="6648", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2100", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="572191", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="400030", ["maximum"]="1100000"
@@ -2219,7 +2195,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10065", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="15924"
+                  ["date"]="2026-02-24", ["average"]="13696", ["minimum"]="10000", ["maximum"]="15026", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2227,7 +2203,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7744", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="11282"
+                  ["date"]="2026-02-24", ["average"]="9607", ["minimum"]="4500", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2235,7 +2211,7 @@ _G.MARKET_TRACKER_SDK.shard_1220 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5475", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="12000"
+                  ["date"]="2026-02-24", ["average"]="4569", ["minimum"]="2000", ["maximum"]="9841", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2257,7 +2233,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10453", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7950", ["maximum"]="12436"
+                  ["average"]="10453", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="7950", ["maximum"]="12436"
                 },
                 ["04"] = {
                   ["average"]="24446", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="275000"
@@ -2268,7 +2244,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="21260", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15039", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="25000", ["minimum"]="25000", ["maximum"]="25000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2276,7 +2252,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="15555"
+                  ["date"]="2026-02-24", ["average"]="11865", ["minimum"]="5039", ["maximum"]="15555", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2284,7 +2260,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13530", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="17500"
+                  ["date"]="2026-02-24", ["average"]="12500", ["minimum"]="10000", ["maximum"]="16500", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2301,7 +2277,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="193", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1000"
+                  ["average"]="193", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1000"
                 },
                 ["02"] = {
                   ["average"]="144", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="1100"
@@ -2312,7 +2288,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="167", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="327"
+                  ["date"]="2026-02-24", ["average"]="148", ["minimum"]="27", ["maximum"]="327", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2320,7 +2296,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="191", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="67", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="107", ["minimum"]="25", ["maximum"]="283", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2328,7 +2304,7 @@ _G.MARKET_TRACKER_SDK.shard_1221 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="61", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="14", ["maximum"]="127"
+                  ["date"]="2026-02-24", ["average"]="99", ["minimum"]="25", ["maximum"]="300", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2350,7 +2326,7 @@ _G.MARKET_TRACKER_SDK.shard_1222 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13134", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7928", ["maximum"]="33939"
+                  ["average"]="13134", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="7928", ["maximum"]="33939"
                 },
                 ["04"] = {
                   ["average"]="8740", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2039", ["maximum"]="22000"
@@ -2361,7 +2337,7 @@ _G.MARKET_TRACKER_SDK.shard_1222 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="25417", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="90000"
+                  ["date"]="2026-02-24", ["average"]="30393", ["minimum"]="10000", ["maximum"]="90000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2369,7 +2345,7 @@ _G.MARKET_TRACKER_SDK.shard_1222 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7733", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="10827"
+                  ["date"]="2026-02-24", ["average"]="8481", ["minimum"]="5039", ["maximum"]="14000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2377,7 +2353,7 @@ _G.MARKET_TRACKER_SDK.shard_1222 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12466", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="9570", ["minimum"]="5000", ["maximum"]="19134", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2394,7 +2370,7 @@ _G.MARKET_TRACKER_SDK.shard_1222 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4271", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="8594"
+                  ["average"]="4271", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="8594"
                 },
                 ["04"] = {
                   ["average"]="5137", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="1300", ["maximum"]="27500"
@@ -2405,7 +2381,7 @@ _G.MARKET_TRACKER_SDK.shard_1222 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="7500", ["maximum"]="8500"
+                  ["date"]="2026-02-24", ["average"]="7500", ["minimum"]="7500", ["maximum"]="7500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -2413,7 +2389,7 @@ _G.MARKET_TRACKER_SDK.shard_1222 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6300", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6300", ["maximum"]="6300"
+                  ["date"]="2026-02-24", ["average"]="6300", ["minimum"]="6300", ["maximum"]="6300", ["commonQuantity"]="1"
                 }
               }
             }
@@ -2600,7 +2576,7 @@ _G.MARKET_TRACKER_SDK.shard_1224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5403", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="11800"
+                  ["average"]="5403", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="11800"
                 },
                 ["03"] = {
                   ["average"]="3465", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1159", ["maximum"]="3465"
@@ -2611,7 +2587,7 @@ _G.MARKET_TRACKER_SDK.shard_1224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="2000", ["minimum"]="2000", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -3148,7 +3124,7 @@ _G.MARKET_TRACKER_SDK.shard_1226 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10723", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="22000"
+                  ["average"]="10723", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="22000"
                 },
                 ["04"] = {
                   ["average"]="9819", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="33043"
@@ -3159,7 +3135,7 @@ _G.MARKET_TRACKER_SDK.shard_1226 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="15572", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6039", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="17997", ["minimum"]="11910", ["maximum"]="20039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3167,7 +3143,7 @@ _G.MARKET_TRACKER_SDK.shard_1226 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9973", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="10000", ["minimum"]="5000", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3175,7 +3151,7 @@ _G.MARKET_TRACKER_SDK.shard_1226 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12361", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="13014", ["minimum"]="8489", ["maximum"]="24800", ["commonQuantity"]="1"
                 }
               }
             }
@@ -3448,7 +3424,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3777", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="10000"
+                  ["average"]="3777", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="10000"
                 }
               }
             },
@@ -3456,7 +3432,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5017", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="7500"
+                  ["date"]="2026-02-24", ["average"]="5017", ["minimum"]="2000", ["maximum"]="7500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3464,15 +3440,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4913", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="7500"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="2000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="6500", ["minimum"]="5500", ["maximum"]="7500", ["commonQuantity"]="1"
                 }
               }
             }
@@ -3489,7 +3457,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="250927", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="187435", ["maximum"]="485435"
+                  ["average"]="250927", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="187435", ["maximum"]="485435"
                 },
                 ["03"] = {
                   ["average"]="362124", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="6030", ["maximum"]="533978"
@@ -3500,7 +3468,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="430000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="430000", ["maximum"]="430000"
+                  ["date"]="2026-02-24", ["average"]="430000", ["minimum"]="430000", ["maximum"]="430000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3508,7 +3476,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="180000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="180000", ["maximum"]="180000"
+                  ["date"]="2026-02-24", ["average"]="180000", ["minimum"]="180000", ["maximum"]="180000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3516,7 +3484,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="396687", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="190000", ["maximum"]="500030"
+                  ["date"]="2026-02-24", ["average"]="500030", ["minimum"]="500030", ["maximum"]="500030", ["commonQuantity"]="1"
                 }
               }
             }
@@ -3533,7 +3501,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1872", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="4150"
+                  ["average"]="1872", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="4150"
                 }
               }
             },
@@ -3541,7 +3509,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="550", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="550"
+                  ["date"]="2026-02-24", ["average"]="550", ["minimum"]="550", ["maximum"]="550", ["commonQuantity"]="1"
                 }
               }
             }
@@ -3558,7 +3526,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1930", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3000"
+                  ["average"]="1930", ["date"]="2026-03-29", ["commonQuantity"]="10", ["minimum"]="1000", ["maximum"]="3000"
                 },
                 ["02"] = {
                   ["average"]="2374", ["date"]="2025-11-02", ["commonQuantity"]="5", ["minimum"]="300", ["maximum"]="2750"
@@ -3569,7 +3537,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2910", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1060", ["maximum"]="5060"
+                  ["date"]="2026-02-24", ["average"]="5060", ["minimum"]="5060", ["maximum"]="5060", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3577,7 +3545,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4277", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4060", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="5000", ["minimum"]="5000", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3585,7 +3553,7 @@ _G.MARKET_TRACKER_SDK.shard_1227 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2620", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="860", ["maximum"]="3500"
+                  ["date"]="2026-02-24", ["average"]="1060", ["minimum"]="1060", ["maximum"]="1060", ["commonQuantity"]="1"
                 }
               }
             }
@@ -3607,7 +3575,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="757", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="2696"
+                  ["average"]="757", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="2696"
                 },
                 ["03"] = {
                   ["average"]="1181", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="3300"
@@ -3618,7 +3586,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1370", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="3030"
+                  ["date"]="2026-02-24", ["average"]="725", ["minimum"]="270", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3626,7 +3594,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1748", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="600", ["maximum"]="2555"
+                  ["date"]="2026-02-24", ["average"]="2555", ["minimum"]="2555", ["maximum"]="2555", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3634,7 +3602,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="875", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="1200"
+                  ["date"]="2026-02-24", ["average"]="1074", ["minimum"]="30", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -3651,7 +3619,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="996", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1820"
+                  ["average"]="996", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1820"
                 },
                 ["03"] = {
                   ["average"]="1218", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="3333"
@@ -3662,7 +3630,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1591", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="1270", ["minimum"]="1030", ["maximum"]="1509", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3670,7 +3638,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1052", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="1377", ["minimum"]="230", ["maximum"]="2130", ["commonQuantity"]="1"
                 }
               }
             },
@@ -3678,7 +3646,7 @@ _G.MARKET_TRACKER_SDK.shard_1228 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1157", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="420", ["maximum"]="2400"
+                  ["date"]="2026-02-24", ["average"]="1334", ["minimum"]="100", ["maximum"]="3030", ["commonQuantity"]="1"
                 }
               }
             }
@@ -4288,7 +4256,7 @@ _G.MARKET_TRACKER_SDK.shard_1229 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6424", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="8609"
+                  ["average"]="6424", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="8609"
                 },
                 ["03"] = {
                   ["average"]="6185", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="300", ["maximum"]="11000"
@@ -4299,7 +4267,7 @@ _G.MARKET_TRACKER_SDK.shard_1229 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="4500"
+                  ["date"]="2026-02-24", ["average"]="3333", ["minimum"]="2500", ["maximum"]="4500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -4307,7 +4275,7 @@ _G.MARKET_TRACKER_SDK.shard_1229 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7389", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1300", ["maximum"]="17150"
+                  ["date"]="2026-02-24", ["average"]="7393", ["minimum"]="1300", ["maximum"]="17150", ["commonQuantity"]="1"
                 }
               }
             }
@@ -4908,7 +4876,7 @@ _G.MARKET_TRACKER_SDK.shard_1230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7816", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="9850"
+                  ["average"]="7816", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="9850"
                 },
                 ["03"] = {
                   ["average"]="9986", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="17589"
@@ -4919,7 +4887,7 @@ _G.MARKET_TRACKER_SDK.shard_1230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9485", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6900", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="8222", ["minimum"]="4000", ["maximum"]="9850", ["commonQuantity"]="1"
                 }
               }
             },
@@ -4927,7 +4895,7 @@ _G.MARKET_TRACKER_SDK.shard_1230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5108", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="5330", ["minimum"]="4000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -4935,7 +4903,7 @@ _G.MARKET_TRACKER_SDK.shard_1230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4715", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="7325"
+                  ["date"]="2026-02-24", ["average"]="5325", ["minimum"]="3400", ["maximum"]="7426", ["commonQuantity"]="1"
                 }
               }
             }
@@ -5394,7 +5362,7 @@ _G.MARKET_TRACKER_SDK.shard_1231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2375", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="3999"
+                  ["average"]="2375", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="3999"
                 },
                 ["03"] = {
                   ["average"]="3436", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="32450"
@@ -5405,7 +5373,7 @@ _G.MARKET_TRACKER_SDK.shard_1231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3206", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="850", ["maximum"]="6000"
+                  ["date"]="2026-02-24", ["average"]="4090", ["minimum"]="1000", ["maximum"]="10030", ["commonQuantity"]="1"
                 }
               }
             },
@@ -5413,15 +5381,7 @@ _G.MARKET_TRACKER_SDK.shard_1231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2240", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="3000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="5700", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5400", ["maximum"]="6000"
+                  ["date"]="2026-02-24", ["average"]="2759", ["minimum"]="530", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -5443,7 +5403,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5114", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1060", ["maximum"]="10600"
+                  ["average"]="5114", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1060", ["maximum"]="10600"
                 }
               }
             },
@@ -5451,7 +5411,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5560", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5560", ["maximum"]="5560"
+                  ["date"]="2026-02-24", ["average"]="5560", ["minimum"]="5560", ["maximum"]="5560", ["commonQuantity"]="1"
                 }
               }
             }
@@ -5468,7 +5428,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9423", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15000"
+                  ["average"]="9423", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15000"
                 },
                 ["03"] = {
                   ["average"]="12714", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="64900"
@@ -5479,7 +5439,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="21819", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="40000"
+                  ["date"]="2026-02-24", ["average"]="23465", ["minimum"]="10000", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -5487,7 +5447,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27799", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="23999", ["maximum"]="29999"
+                  ["date"]="2026-02-24", ["average"]="27249", ["minimum"]="23999", ["maximum"]="29999", ["commonQuantity"]="1"
                 }
               }
             },
@@ -5495,7 +5455,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6648", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="10250"
+                  ["date"]="2026-02-24", ["average"]="8021", ["minimum"]="900", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -5512,7 +5472,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3612", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                  ["average"]="3612", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
                 },
                 ["03"] = {
                   ["average"]="3492", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2600", ["maximum"]="6600"
@@ -5523,7 +5483,7 @@ _G.MARKET_TRACKER_SDK.shard_1232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5517", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4050", ["maximum"]="6250"
+                  ["date"]="2026-02-24", ["average"]="5517", ["minimum"]="4050", ["maximum"]="6250", ["commonQuantity"]="1"
                 }
               }
             }
@@ -5728,7 +5688,7 @@ _G.MARKET_TRACKER_SDK.shard_1233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5498", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="8000"
+                  ["average"]="5498", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="8000"
                 }
               }
             }
@@ -5948,7 +5908,7 @@ _G.MARKET_TRACKER_SDK.shard_1233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="35914", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="55081"
+                  ["average"]="35914", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="55081"
                 },
                 ["04"] = {
                   ["average"]="52854", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="55000"
@@ -5959,7 +5919,7 @@ _G.MARKET_TRACKER_SDK.shard_1233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="44250", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="35000", ["maximum"]="55000"
+                  ["date"]="2026-02-24", ["average"]="44250", ["minimum"]="35000", ["maximum"]="55000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -5967,7 +5927,7 @@ _G.MARKET_TRACKER_SDK.shard_1233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="21900", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="21900", ["maximum"]="21900"
+                  ["date"]="2026-02-24", ["average"]="21900", ["minimum"]="21900", ["maximum"]="21900", ["commonQuantity"]="1"
                 }
               }
             },
@@ -5975,7 +5935,7 @@ _G.MARKET_TRACKER_SDK.shard_1233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="26520", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="30039"
+                  ["date"]="2026-02-24", ["average"]="26275", ["minimum"]="20000", ["maximum"]="30039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -6380,7 +6340,7 @@ _G.MARKET_TRACKER_SDK.shard_1235 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10755", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3300", ["maximum"]="18000"
+                  ["average"]="10755", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3300", ["maximum"]="18000"
                 }
               }
             },
@@ -6388,7 +6348,7 @@ _G.MARKET_TRACKER_SDK.shard_1235 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12600", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="14000"
+                  ["date"]="2026-02-24", ["average"]="14000", ["minimum"]="14000", ["maximum"]="14000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -6396,7 +6356,7 @@ _G.MARKET_TRACKER_SDK.shard_1235 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12908", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="11900", ["maximum"]="16300"
+                  ["date"]="2026-02-24", ["average"]="14600", ["minimum"]="11900", ["maximum"]="16300", ["commonQuantity"]="1"
                 }
               }
             },
@@ -6404,7 +6364,7 @@ _G.MARKET_TRACKER_SDK.shard_1235 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10575", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="12300"
+                  ["date"]="2026-02-24", ["average"]="10000", ["minimum"]="10000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -6590,15 +6550,7 @@ _G.MARKET_TRACKER_SDK.shard_1236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12956", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="20311"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="5000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5000"
+                  ["average"]="12956", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="20311"
                 }
               }
             }
@@ -6620,7 +6572,7 @@ _G.MARKET_TRACKER_SDK.shard_1237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5823", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="11000"
+                  ["average"]="5823", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="11000"
                 },
                 ["04"] = {
                   ["average"]="12036", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="12100"
@@ -6631,7 +6583,7 @@ _G.MARKET_TRACKER_SDK.shard_1237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="7000"
+                  ["date"]="2026-02-24", ["average"]="7000", ["minimum"]="7000", ["maximum"]="7000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -6812,7 +6764,7 @@ _G.MARKET_TRACKER_SDK.shard_1238 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7946", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="11150"
+                  ["average"]="7946", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="11150"
                 },
                 ["03"] = {
                   ["average"]="4080", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="16665"
@@ -6823,7 +6775,7 @@ _G.MARKET_TRACKER_SDK.shard_1238 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7800", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="20000", ["minimum"]="20000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -7635,7 +7587,7 @@ _G.MARKET_TRACKER_SDK.shard_1240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="68519", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="8839", ["maximum"]="125000"
+                  ["average"]="68519", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="8839", ["maximum"]="125000"
                 }
               }
             },
@@ -7643,7 +7595,7 @@ _G.MARKET_TRACKER_SDK.shard_1240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="62496", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="23000", ["maximum"]="110039"
+                  ["date"]="2026-02-24", ["average"]="988000", ["minimum"]="700000", ["maximum"]="1200000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -7651,7 +7603,7 @@ _G.MARKET_TRACKER_SDK.shard_1240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="55676", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="80000"
+                  ["date"]="2026-02-24", ["average"]="1200000", ["minimum"]="1100000", ["maximum"]="1300000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -7659,7 +7611,7 @@ _G.MARKET_TRACKER_SDK.shard_1240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="72484", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="145000"
+                  ["date"]="2026-02-24", ["average"]="612500", ["minimum"]="500000", ["maximum"]="810000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -8148,7 +8100,7 @@ _G.MARKET_TRACKER_SDK.shard_1241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3513", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="542", ["maximum"]="8000"
+                  ["average"]="3513", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="542", ["maximum"]="8000"
                 }
               }
             }
@@ -8165,18 +8117,10 @@ _G.MARKET_TRACKER_SDK.shard_1241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1755", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="4260"
+                  ["average"]="1755", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="4260"
                 },
                 ["02"] = {
                   ["average"]="1100", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1100"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="1560", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1560", ["maximum"]="1560"
                 }
               }
             }
@@ -8771,7 +8715,7 @@ _G.MARKET_TRACKER_SDK.shard_1244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7978", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="14000"
+                  ["average"]="7978", ["date"]="2026-03-29", ["commonQuantity"]="2", ["minimum"]="4000", ["maximum"]="14000"
                 },
                 ["03"] = {
                   ["average"]="8586", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="5000", ["maximum"]="16500"
@@ -8782,7 +8726,7 @@ _G.MARKET_TRACKER_SDK.shard_1244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4853", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="12500"
+                  ["date"]="2026-02-24", ["average"]="4853", ["minimum"]="2150", ["maximum"]="12500", ["commonQuantity"]="1"
                 }
               }
             }
@@ -9111,7 +9055,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3674", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="30030"
+                  ["average"]="3674", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1606", ["maximum"]="30030"
                 },
                 ["03"] = {
                   ["average"]="3822", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="11000"
@@ -9122,7 +9066,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5898", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="14675"
+                  ["date"]="2026-02-24", ["average"]="10788", ["minimum"]="1000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -9130,7 +9074,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5602", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="10030"
+                  ["date"]="2026-02-24", ["average"]="8530", ["minimum"]="7030", ["maximum"]="10030", ["commonQuantity"]="1"
                 }
               }
             },
@@ -9138,7 +9082,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4207", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="4499", ["minimum"]="90", ["maximum"]="6000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -9155,7 +9099,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9875", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="10600"
+                  ["average"]="9875", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="10600"
                 },
                 ["03"] = {
                   ["average"]="2276", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="30800"
@@ -9169,7 +9113,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8981", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="10481"
+                  ["date"]="2026-02-24", ["average"]="8481", ["minimum"]="5000", ["maximum"]="10221", ["commonQuantity"]="1"
                 }
               }
             },
@@ -9177,15 +9121,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27497", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="130000"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="130000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="90000", ["maximum"]="170000"
+                  ["date"]="2026-02-24", ["average"]="10370", ["minimum"]="10000", ["maximum"]="11111", ["commonQuantity"]="1"
                 }
               }
             }
@@ -9202,7 +9138,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="26478", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="30000"
+                  ["average"]="26478", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="30000"
                 },
                 ["04"] = {
                   ["average"]="43347", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="55000"
@@ -9589,7 +9525,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="45480", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="18000", ["maximum"]="250000"
+                  ["average"]="45480", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="18000", ["maximum"]="250000"
                 },
                 ["05"] = {
                   ["average"]="165000", ["date"]="2025-07-29", ["commonQuantity"]="1", ["minimum"]="150000", ["maximum"]="165000"
@@ -9600,7 +9536,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="75000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="100000"
+                  ["date"]="2026-02-24", ["average"]="100000", ["minimum"]="100000", ["maximum"]="100000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -9608,7 +9544,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="80000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="80000"
+                  ["date"]="2026-02-24", ["average"]="80000", ["minimum"]="80000", ["maximum"]="80000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -9616,7 +9552,7 @@ _G.MARKET_TRACKER_SDK.shard_1245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="86930", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="70000", ["maximum"]="100000"
+                  ["date"]="2026-02-24", ["average"]="78526", ["minimum"]="50000", ["maximum"]="122591", ["commonQuantity"]="1"
                 }
               }
             }
@@ -9638,7 +9574,7 @@ _G.MARKET_TRACKER_SDK.shard_1246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4910", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3458", ["maximum"]="7609"
+                  ["average"]="4910", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="7609"
                 },
                 ["01"] = {
                   ["average"]="7106", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="16503"
@@ -9652,7 +9588,7 @@ _G.MARKET_TRACKER_SDK.shard_1246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5273", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="5727", ["minimum"]="5500", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -9660,7 +9596,7 @@ _G.MARKET_TRACKER_SDK.shard_1246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6450", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="7669", ["minimum"]="5961", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -9668,7 +9604,7 @@ _G.MARKET_TRACKER_SDK.shard_1246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5572", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="5746", ["minimum"]="4874", ["maximum"]="8800", ["commonQuantity"]="1"
                 }
               }
             }
@@ -9685,7 +9621,7 @@ _G.MARKET_TRACKER_SDK.shard_1246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1383", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="6000"
+                  ["average"]="1383", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="6000"
                 },
                 ["03"] = {
                   ["average"]="1095", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="3465"
@@ -9696,7 +9632,7 @@ _G.MARKET_TRACKER_SDK.shard_1246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="675", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="850"
+                  ["date"]="2026-02-24", ["average"]="675", ["minimum"]="500", ["maximum"]="850", ["commonQuantity"]="1"
                 }
               }
             }
@@ -10648,7 +10584,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="105", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="127"
+                  ["average"]="105", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="127"
                 },
                 ["02"] = {
                   ["average"]="190", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1130"
@@ -10659,7 +10595,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="178", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="427"
+                  ["date"]="2026-02-24", ["average"]="237", ["minimum"]="27", ["maximum"]="1017", ["commonQuantity"]="1"
                 }
               }
             },
@@ -10667,7 +10603,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="520", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="111", ["maximum"]="2027"
+                  ["date"]="2026-02-24", ["average"]="639", ["minimum"]="111", ["maximum"]="2027", ["commonQuantity"]="1"
                 }
               }
             },
@@ -10675,7 +10611,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="142", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="260"
+                  ["date"]="2026-02-24", ["average"]="181", ["minimum"]="100", ["maximum"]="350", ["commonQuantity"]="1"
                 }
               }
             }
@@ -10967,7 +10903,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9819", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6039", ["maximum"]="19939"
+                  ["average"]="9819", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6039", ["maximum"]="19939"
                 },
                 ["04"] = {
                   ["average"]="8898", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="22000"
@@ -10978,7 +10914,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12350", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="15622", ["minimum"]="5039", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -10986,7 +10922,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6327", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="8039"
+                  ["date"]="2026-02-24", ["average"]="6461", ["minimum"]="4000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -10994,7 +10930,7 @@ _G.MARKET_TRACKER_SDK.shard_1249 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7892", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3900", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="9707", ["minimum"]="4900", ["maximum"]="22000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11016,7 +10952,7 @@ _G.MARKET_TRACKER_SDK.shard_1250 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="33", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="80"
+                  ["average"]="33", ["date"]="2026-03-29", ["commonQuantity"]="100", ["minimum"]="9", ["maximum"]="80"
                 },
                 ["03"] = {
                   ["average"]="15", ["date"]="2025-10-15", ["commonQuantity"]="20", ["minimum"]="14", ["maximum"]="15"
@@ -11036,7 +10972,7 @@ _G.MARKET_TRACKER_SDK.shard_1250 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10865", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="14051"
+                  ["average"]="10865", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="14051"
                 },
                 ["04"] = {
                   ["average"]="13466", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3939", ["maximum"]="22000"
@@ -11047,7 +10983,7 @@ _G.MARKET_TRACKER_SDK.shard_1250 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16201", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="29935"
+                  ["date"]="2026-02-24", ["average"]="19935", ["minimum"]="4000", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11055,7 +10991,7 @@ _G.MARKET_TRACKER_SDK.shard_1250 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20722", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6600", ["maximum"]="50039"
+                  ["date"]="2026-02-24", ["average"]="21990", ["minimum"]="6600", ["maximum"]="50039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11063,7 +10999,7 @@ _G.MARKET_TRACKER_SDK.shard_1250 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11317", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="11851", ["minimum"]="5000", ["maximum"]="28000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11145,7 +11081,7 @@ _G.MARKET_TRACKER_SDK.shard_1251 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5205", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2300", ["maximum"]="10000"
+                  ["average"]="5205", ["date"]="2026-03-29", ["commonQuantity"]="2", ["minimum"]="2300", ["maximum"]="10000"
                 }
               }
             },
@@ -11153,7 +11089,7 @@ _G.MARKET_TRACKER_SDK.shard_1251 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="100300", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100300", ["maximum"]="100300"
+                  ["date"]="2026-02-24", ["average"]="100300", ["minimum"]="100300", ["maximum"]="100300", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11161,7 +11097,7 @@ _G.MARKET_TRACKER_SDK.shard_1251 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2308", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="909", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="909", ["minimum"]="909", ["maximum"]="909", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11169,7 +11105,7 @@ _G.MARKET_TRACKER_SDK.shard_1251 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="420", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="420", ["minimum"]="300", ["maximum"]="500", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11267,7 +11203,7 @@ _G.MARKET_TRACKER_SDK.shard_1253 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="145", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
+                  ["average"]="145", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
                 },
                 ["02"] = {
                   ["average"]="288", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1100"
@@ -11278,7 +11214,7 @@ _G.MARKET_TRACKER_SDK.shard_1253 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="241", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="275", ["minimum"]="27", ["maximum"]="815", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11286,7 +11222,7 @@ _G.MARKET_TRACKER_SDK.shard_1253 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="483", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2026"
+                  ["date"]="2026-02-24", ["average"]="505", ["minimum"]="150", ["maximum"]="2026", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11294,7 +11230,7 @@ _G.MARKET_TRACKER_SDK.shard_1253 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="185", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="327"
+                  ["date"]="2026-02-24", ["average"]="218", ["minimum"]="27", ["maximum"]="727", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11316,7 +11252,7 @@ _G.MARKET_TRACKER_SDK.shard_1254 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="145", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="427"
+                  ["average"]="145", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="427"
                 },
                 ["02"] = {
                   ["average"]="258", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10", ["maximum"]="4400"
@@ -11327,7 +11263,7 @@ _G.MARKET_TRACKER_SDK.shard_1254 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="190", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="427"
+                  ["date"]="2026-02-24", ["average"]="136", ["minimum"]="27", ["maximum"]="390", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11335,7 +11271,7 @@ _G.MARKET_TRACKER_SDK.shard_1254 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="297", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1100"
+                  ["date"]="2026-02-24", ["average"]="326", ["minimum"]="57", ["maximum"]="1100", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11343,7 +11279,7 @@ _G.MARKET_TRACKER_SDK.shard_1254 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="110", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="200"
+                  ["date"]="2026-02-24", ["average"]="133", ["minimum"]="27", ["maximum"]="325", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11690,7 +11626,7 @@ _G.MARKET_TRACKER_SDK.shard_1255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1276", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="4000"
+                  ["average"]="1276", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="4000"
                 },
                 ["02"] = {
                   ["average"]="2955", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="227", ["maximum"]="5499"
@@ -11701,7 +11637,7 @@ _G.MARKET_TRACKER_SDK.shard_1255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2447", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="2426", ["minimum"]="1222", ["maximum"]="4000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11709,7 +11645,7 @@ _G.MARKET_TRACKER_SDK.shard_1255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6385", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="13928"
+                  ["date"]="2026-02-24", ["average"]="1028", ["minimum"]="500", ["maximum"]="1555", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11717,7 +11653,7 @@ _G.MARKET_TRACKER_SDK.shard_1255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="805", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="1800"
+                  ["date"]="2026-02-24", ["average"]="1141", ["minimum"]="127", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11739,7 +11675,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="88", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="900"
+                  ["average"]="88", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="900"
                 },
                 ["01"] = {
                   ["average"]="129", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="297"
@@ -11750,7 +11686,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="128", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="181"
+                  ["date"]="2026-02-24", ["average"]="133", ["minimum"]="106", ["maximum"]="181", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11758,7 +11694,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="111", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="900"
+                  ["date"]="2026-02-24", ["average"]="123", ["minimum"]="6", ["maximum"]="900", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11766,7 +11702,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="116", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="35", ["maximum"]="900"
+                  ["date"]="2026-02-24", ["average"]="85", ["minimum"]="10", ["maximum"]="900", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11783,7 +11719,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="19096", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="10473", ["maximum"]="27473"
+                  ["average"]="19096", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="10473", ["maximum"]="27473"
                 },
                 ["04"] = {
                   ["average"]="77000", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="70000", ["maximum"]="77000"
@@ -11794,7 +11730,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="39999", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="39999", ["maximum"]="39999"
+                  ["date"]="2026-02-24", ["average"]="39999", ["minimum"]="39999", ["maximum"]="39999", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11802,15 +11738,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27284", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="19568", ["maximum"]="35000"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="40000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="40000"
+                  ["date"]="2026-02-24", ["average"]="27284", ["minimum"]="19568", ["maximum"]="35000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -11827,7 +11755,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1567", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="2500"
+                  ["average"]="1567", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="2500"
                 },
                 ["03"] = {
                   ["average"]="4602", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="11000"
@@ -11838,7 +11766,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4398", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="15230"
+                  ["date"]="2026-02-24", ["average"]="2455", ["minimum"]="1500", ["maximum"]="3200", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11846,7 +11774,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7293", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="170", ["maximum"]="22000"
+                  ["date"]="2026-02-24", ["average"]="11085", ["minimum"]="170", ["maximum"]="22000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -11854,7 +11782,7 @@ _G.MARKET_TRACKER_SDK.shard_1256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1990", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="930", ["maximum"]="3902"
+                  ["date"]="2026-02-24", ["average"]="3902", ["minimum"]="2000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -12001,7 +11929,7 @@ _G.MARKET_TRACKER_SDK.shard_1257 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="181500", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="350000"
+                  ["average"]="181500", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="350000"
                 }
               }
             }
@@ -12023,7 +11951,7 @@ _G.MARKET_TRACKER_SDK.shard_1258 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6419", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="9500"
+                  ["average"]="6419", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="9500"
                 },
                 ["05"] = {
                   ["average"]="7209", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5575", ["maximum"]="11000"
@@ -12034,7 +11962,7 @@ _G.MARKET_TRACKER_SDK.shard_1258 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7008", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1675", ["maximum"]="9675"
+                  ["date"]="2026-02-24", ["average"]="7008", ["minimum"]="1675", ["maximum"]="9675", ["commonQuantity"]="1"
                 }
               }
             },
@@ -12042,7 +11970,7 @@ _G.MARKET_TRACKER_SDK.shard_1258 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8875", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="8875", ["minimum"]="5000", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -12050,7 +11978,7 @@ _G.MARKET_TRACKER_SDK.shard_1258 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3383", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="675", ["maximum"]="5333"
+                  ["date"]="2026-02-24", ["average"]="4767", ["minimum"]="2500", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -12213,7 +12141,7 @@ _G.MARKET_TRACKER_SDK.shard_1261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8828", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2039", ["maximum"]="12800"
+                  ["average"]="8828", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2039", ["maximum"]="12800"
                 },
                 ["04"] = {
                   ["average"]="8611", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1039", ["maximum"]="17600"
@@ -12224,7 +12152,7 @@ _G.MARKET_TRACKER_SDK.shard_1261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="15743", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="23076"
+                  ["date"]="2026-02-24", ["average"]="18372", ["minimum"]="12000", ["maximum"]="23076", ["commonQuantity"]="1"
                 }
               }
             },
@@ -12232,7 +12160,7 @@ _G.MARKET_TRACKER_SDK.shard_1261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="18771", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9900", ["maximum"]="37000"
+                  ["date"]="2026-02-24", ["average"]="18625", ["minimum"]="15000", ["maximum"]="22000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -12240,7 +12168,7 @@ _G.MARKET_TRACKER_SDK.shard_1261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10050", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="14230", ["minimum"]="4900", ["maximum"]="35000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -12488,7 +12416,7 @@ _G.MARKET_TRACKER_SDK.shard_1263 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="207", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="1003"
+                  ["average"]="207", ["date"]="2026-03-29", ["commonQuantity"]="2", ["minimum"]="9", ["maximum"]="1003"
                 }
               }
             }
@@ -12510,7 +12438,7 @@ _G.MARKET_TRACKER_SDK.shard_1264 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="12", ["maximum"]="12"
+                  ["average"]="12", ["date"]="2026-03-29", ["commonQuantity"]="40", ["minimum"]="12", ["maximum"]="12"
                 }
               }
             }
@@ -12524,6 +12452,12 @@ _G.MARKET_TRACKER_SDK.shard_1264 = function (s3)
           return ({
             -- Platforms
             ["ps-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["date"]="2026-02-24", ["average"]="950", ["minimum"]="950", ["maximum"]="950", ["commonQuantity"]="1"
+                }
+              },
               ["06"] = {
                 -- Qualities
                 ["--"] = {
@@ -12531,12 +12465,6 @@ _G.MARKET_TRACKER_SDK.shard_1264 = function (s3)
                 },
                 ["03"] = {
                   ["average"]="950", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="950", ["maximum"]="950"
-                }
-              },
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["date"]="2026-02-24", ["average"]="950", ["minimum"]="950", ["maximum"]="950", ["commonQuantity"]="1"
                 }
               }
             }
@@ -13461,7 +13389,7 @@ _G.MARKET_TRACKER_SDK.shard_1267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1048", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1048", ["maximum"]="1048"
+                  ["average"]="1048", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1048", ["maximum"]="1048"
                 },
                 ["04"] = {
                   ["average"]="1048", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1048", ["maximum"]="1048"
@@ -13472,7 +13400,7 @@ _G.MARKET_TRACKER_SDK.shard_1267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="99", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="99"
+                  ["date"]="2026-02-24", ["average"]="99", ["minimum"]="99", ["maximum"]="99", ["commonQuantity"]="1"
                 },
                 ["01"] = {
                   ["average"]="99", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="99"
@@ -13497,7 +13425,7 @@ _G.MARKET_TRACKER_SDK.shard_1268 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6907", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="10000"
+                  ["average"]="6907", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="7435", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="19800"
@@ -13508,7 +13436,7 @@ _G.MARKET_TRACKER_SDK.shard_1268 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="6000", ["minimum"]="4000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13516,7 +13444,7 @@ _G.MARKET_TRACKER_SDK.shard_1268 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7277", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2350", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="8553", ["minimum"]="6150", ["maximum"]="10061", ["commonQuantity"]="1"
                 }
               }
             }
@@ -13604,50 +13532,6 @@ _G.MARKET_TRACKER_SDK.shard_1268 = function (s3)
         end
       })[tostring(internalId)]
     end,
-    ["08"] = function (internalId)
-      return ({
-        ["2399808621"] = function (platform)
-          return ({
-            -- Platforms
-            ["xbox-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="680", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1000"
-                },
-                ["03"] = {
-                  ["average"]="2579", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="11000"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="812", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="70", ["maximum"]="4999"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="4661", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="9000"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="1246", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="3459"
-                }
-              }
-            }
-          })[tostring(platform)]
-        end
-      })[tostring(internalId)]
-    end,
     ["01"] = function (internalId)
       return ({
         ["537108621"] = function (platform)
@@ -13664,6 +13548,50 @@ _G.MARKET_TRACKER_SDK.shard_1268 = function (s3)
                 },
                 ["03"] = {
                   ["average"]="439", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="399", ["maximum"]="439"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
+    ["08"] = function (internalId)
+      return ({
+        ["2399808621"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="680", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1000"
+                },
+                ["03"] = {
+                  ["average"]="2579", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="11000"
+                }
+              }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["date"]="2026-02-24", ["average"]="830", ["minimum"]="230", ["maximum"]="1030", ["commonQuantity"]="1"
+                }
+              }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["date"]="2026-02-24", ["average"]="9465", ["minimum"]="9000", ["maximum"]="9930", ["commonQuantity"]="1"
+                }
+              }
+            },
+            ["ps-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["date"]="2026-02-24", ["average"]="1459", ["minimum"]="200", ["maximum"]="4000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -13719,7 +13647,7 @@ _G.MARKET_TRACKER_SDK.shard_1270 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="663", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1000"
+                  ["average"]="663", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1000"
                 },
                 ["02"] = {
                   ["average"]="467", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="2010"
@@ -13730,7 +13658,7 @@ _G.MARKET_TRACKER_SDK.shard_1270 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="386", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="837"
+                  ["date"]="2026-02-24", ["average"]="478", ["minimum"]="27", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13738,7 +13666,7 @@ _G.MARKET_TRACKER_SDK.shard_1270 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="618", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1409"
+                  ["date"]="2026-02-24", ["average"]="618", ["minimum"]="27", ["maximum"]="1409", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13746,7 +13674,7 @@ _G.MARKET_TRACKER_SDK.shard_1270 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="565", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="3000"
+                  ["date"]="2026-02-24", ["average"]="890", ["minimum"]="49", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -13877,7 +13805,7 @@ _G.MARKET_TRACKER_SDK.shard_1271 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="24547", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="23000", ["maximum"]="26321"
+                  ["average"]="24547", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="23000", ["maximum"]="26321"
                 },
                 ["04"] = {
                   ["average"]="46321", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="119943"
@@ -13888,7 +13816,7 @@ _G.MARKET_TRACKER_SDK.shard_1271 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="30020", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="35039"
+                  ["date"]="2026-02-24", ["average"]="30020", ["minimum"]="25000", ["maximum"]="35039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13896,7 +13824,7 @@ _G.MARKET_TRACKER_SDK.shard_1271 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16920", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="27300"
+                  ["date"]="2026-02-24", ["average"]="18504", ["minimum"]="12222", ["maximum"]="27300", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13904,7 +13832,7 @@ _G.MARKET_TRACKER_SDK.shard_1271 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="18770", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="20039", ["minimum"]="20039", ["maximum"]="20039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -13926,7 +13854,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="25176", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="35000"
+                  ["average"]="25176", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="35000"
                 },
                 ["04"] = {
                   ["average"]="35942", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="110000"
@@ -13937,7 +13865,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27079", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="50039"
+                  ["date"]="2026-02-24", ["average"]="29386", ["minimum"]="23039", ["maximum"]="40039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13945,7 +13873,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="29571", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="19039", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="27388", ["minimum"]="19039", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13953,7 +13881,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="34568", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="38843", ["minimum"]="10039", ["maximum"]="80000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -13970,7 +13898,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12282", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="20000"
+                  ["average"]="12282", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="20000"
                 },
                 ["05"] = {
                   ["average"]="14545", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="88000"
@@ -13981,7 +13909,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11737", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9999", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="13333", ["minimum"]="10000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -13989,7 +13917,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="52500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="90000"
+                  ["date"]="2026-02-24", ["average"]="52500", ["minimum"]="15000", ["maximum"]="90000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -14058,7 +13986,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="393", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="261", ["maximum"]="427"
+                  ["average"]="393", ["date"]="2026-03-29", ["commonQuantity"]="50", ["minimum"]="261", ["maximum"]="427"
                 },
                 ["01"] = {
                   ["average"]="401", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="73", ["maximum"]="670"
@@ -14069,7 +13997,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="119", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="92", ["maximum"]="200"
+                  ["date"]="2026-02-24", ["average"]="119", ["minimum"]="92", ["maximum"]="200", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14077,7 +14005,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="405", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="119", ["maximum"]="488"
+                  ["date"]="2026-02-24", ["average"]="418", ["minimum"]="187", ["maximum"]="488", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14085,7 +14013,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="352", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="279", ["maximum"]="450"
+                  ["date"]="2026-02-24", ["average"]="369", ["minimum"]="245", ["maximum"]="750", ["commonQuantity"]="1"
                 }
               }
             }
@@ -14102,7 +14030,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16817", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="14000", ["maximum"]="21908"
+                  ["average"]="16817", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="14000", ["maximum"]="21908"
                 },
                 ["05"] = {
                   ["average"]="15101", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="12300", ["maximum"]="15171"
@@ -14113,7 +14041,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12718", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="18000"
+                  ["date"]="2026-02-24", ["average"]="8000", ["minimum"]="8000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14121,7 +14049,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14250", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="22500"
+                  ["date"]="2026-02-24", ["average"]="6000", ["minimum"]="6000", ["maximum"]="6000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14129,7 +14057,7 @@ _G.MARKET_TRACKER_SDK.shard_1272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14100", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="19075"
+                  ["date"]="2026-02-24", ["average"]="14425", ["minimum"]="4000", ["maximum"]="25000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -14151,7 +14079,7 @@ _G.MARKET_TRACKER_SDK.shard_1273 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="82", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3", ["maximum"]="125"
+                  ["average"]="82", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3", ["maximum"]="125"
                 },
                 ["01"] = {
                   ["average"]="25", ["date"]="2025-10-23", ["commonQuantity"]="2", ["minimum"]="3", ["maximum"]="110"
@@ -14162,7 +14090,7 @@ _G.MARKET_TRACKER_SDK.shard_1273 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="109", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="113"
+                  ["date"]="2026-02-24", ["average"]="109", ["minimum"]="6", ["maximum"]="113", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14170,15 +14098,7 @@ _G.MARKET_TRACKER_SDK.shard_1273 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="107", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40", ["maximum"]="122"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="4", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4", ["maximum"]="4"
+                  ["date"]="2026-02-24", ["average"]="92", ["minimum"]="27", ["maximum"]="122", ["commonQuantity"]="1"
                 }
               }
             }
@@ -14263,7 +14183,7 @@ _G.MARKET_TRACKER_SDK.shard_1274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2376", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1750", ["maximum"]="3000"
+                  ["average"]="2376", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1750", ["maximum"]="3000"
                 },
                 ["03"] = {
                   ["average"]="2470", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="11000"
@@ -14274,7 +14194,7 @@ _G.MARKET_TRACKER_SDK.shard_1274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2713", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="3550"
+                  ["date"]="2026-02-24", ["average"]="2672", ["minimum"]="2672", ["maximum"]="2672", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14282,15 +14202,7 @@ _G.MARKET_TRACKER_SDK.shard_1274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2853", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="5440"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="6689", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6689", ["maximum"]="6689"
+                  ["date"]="2026-02-24", ["average"]="2737", ["minimum"]="500", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -14307,7 +14219,7 @@ _G.MARKET_TRACKER_SDK.shard_1274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="33", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7", ["maximum"]="60"
+                  ["average"]="33", ["date"]="2026-03-29", ["commonQuantity"]="100", ["minimum"]="7", ["maximum"]="60"
                 }
               }
             }
@@ -14329,7 +14241,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="81148", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5030", ["maximum"]="150000"
+                  ["average"]="81148", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5030", ["maximum"]="150000"
                 },
                 ["03"] = {
                   ["average"]="68269", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="88000"
@@ -14340,7 +14252,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="62161", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="33030", ["maximum"]="95614"
+                  ["date"]="2026-02-24", ["average"]="71871", ["minimum"]="40000", ["maximum"]="95614", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14348,7 +14260,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="61700", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="17900", ["maximum"]="149000"
+                  ["date"]="2026-02-24", ["average"]="18900", ["minimum"]="17900", ["maximum"]="19900", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14356,7 +14268,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="56838", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="37000", ["maximum"]="90000"
+                  ["date"]="2026-02-24", ["average"]="58077", ["minimum"]="10000", ["maximum"]="100000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -14373,7 +14285,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10173", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="15000"
+                  ["average"]="10173", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="15000"
                 },
                 ["05"] = {
                   ["average"]="15362", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="49500"
@@ -14384,7 +14296,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11402", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="9102", ["minimum"]="2000", ["maximum"]="25000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14392,7 +14304,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8466", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="24000"
+                  ["date"]="2026-02-24", ["average"]="7534", ["minimum"]="5000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -14400,7 +14312,7 @@ _G.MARKET_TRACKER_SDK.shard_1276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8725", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="8950", ["minimum"]="500", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -14802,7 +14714,7 @@ _G.MARKET_TRACKER_SDK.shard_1277 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5435", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2300", ["maximum"]="14000"
+                  ["average"]="5435", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2300", ["maximum"]="14000"
                 }
               }
             },
@@ -14810,7 +14722,7 @@ _G.MARKET_TRACKER_SDK.shard_1277 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4723", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3300", ["maximum"]="5435"
+                  ["date"]="2026-02-24", ["average"]="5435", ["minimum"]="5435", ["maximum"]="5435", ["commonQuantity"]="1"
                 }
               }
             }
@@ -15064,7 +14976,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13313", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="19000"
+                  ["average"]="13313", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="19000"
                 },
                 ["04"] = {
                   ["average"]="15130", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3039", ["maximum"]="66000"
@@ -15075,7 +14987,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16145", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="25531"
+                  ["date"]="2026-02-24", ["average"]="15531", ["minimum"]="10000", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15083,7 +14995,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="19166", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="48749"
+                  ["date"]="2026-02-24", ["average"]="15413", ["minimum"]="10039", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15091,7 +15003,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="17309", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="27000"
+                  ["date"]="2026-02-24", ["average"]="12157", ["minimum"]="6000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -15154,15 +15066,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13181", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4300", ["maximum"]="34400"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="9700", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9100", ["maximum"]="10000"
+                  ["average"]="13181", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4300", ["maximum"]="34400"
                 }
               }
             }
@@ -15179,7 +15083,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="195", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="500"
+                  ["average"]="195", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="500"
                 },
                 ["02"] = {
                   ["average"]="242", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1100"
@@ -15190,7 +15094,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="540", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="1100"
+                  ["date"]="2026-02-24", ["average"]="678", ["minimum"]="127", ["maximum"]="1600", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15198,7 +15102,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="419", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1240"
+                  ["date"]="2026-02-24", ["average"]="460", ["minimum"]="227", ["maximum"]="1240", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15206,7 +15110,7 @@ _G.MARKET_TRACKER_SDK.shard_1279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="256", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="600"
+                  ["date"]="2026-02-24", ["average"]="228", ["minimum"]="47", ["maximum"]="427", ["commonQuantity"]="1"
                 }
               }
             }
@@ -15228,7 +15132,7 @@ _G.MARKET_TRACKER_SDK.shard_1280 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12422", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="20000"
+                  ["average"]="12422", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="20000"
                 },
                 ["04"] = {
                   ["average"]="22000", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="22000"
@@ -15239,7 +15143,7 @@ _G.MARKET_TRACKER_SDK.shard_1280 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="23333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="20000", ["minimum"]="20000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15247,7 +15151,7 @@ _G.MARKET_TRACKER_SDK.shard_1280 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="19165", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="24990"
+                  ["date"]="2026-02-24", ["average"]="18749", ["minimum"]="15000", ["maximum"]="24990", ["commonQuantity"]="1"
                 }
               }
             }
@@ -15264,7 +15168,7 @@ _G.MARKET_TRACKER_SDK.shard_1280 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="40"
+                  ["average"]="16", ["date"]="2026-03-29", ["commonQuantity"]="3", ["minimum"]="6", ["maximum"]="40"
                 },
                 ["01"] = {
                   ["average"]="38", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="6", ["maximum"]="66"
@@ -15275,7 +15179,7 @@ _G.MARKET_TRACKER_SDK.shard_1280 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="10"
+                  ["date"]="2026-02-24", ["average"]="9", ["minimum"]="6", ["maximum"]="10", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15283,7 +15187,7 @@ _G.MARKET_TRACKER_SDK.shard_1280 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="6"
+                  ["date"]="2026-02-24", ["average"]="6", ["minimum"]="6", ["maximum"]="6", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15291,7 +15195,7 @@ _G.MARKET_TRACKER_SDK.shard_1280 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="41"
+                  ["date"]="2026-02-24", ["average"]="9", ["minimum"]="6", ["maximum"]="41", ["commonQuantity"]="1"
                 }
               }
             }
@@ -15862,7 +15766,7 @@ _G.MARKET_TRACKER_SDK.shard_1281 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3113", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="4000"
+                  ["average"]="3113", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="4000"
                 },
                 ["03"] = {
                   ["average"]="5500", ["date"]="2025-08-16", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5500"
@@ -15873,7 +15777,7 @@ _G.MARKET_TRACKER_SDK.shard_1281 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1200", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="1200"
+                  ["date"]="2026-02-24", ["average"]="1200", ["minimum"]="1200", ["maximum"]="1200", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15881,7 +15785,7 @@ _G.MARKET_TRACKER_SDK.shard_1281 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="2000", ["minimum"]="2000", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -15889,7 +15793,7 @@ _G.MARKET_TRACKER_SDK.shard_1281 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3636", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2836", ["maximum"]="3836"
+                  ["date"]="2026-02-24", ["average"]="3636", ["minimum"]="2836", ["maximum"]="3836", ["commonQuantity"]="1"
                 }
               }
             }
@@ -15906,18 +15810,10 @@ _G.MARKET_TRACKER_SDK.shard_1281 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2420", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3060"
+                  ["average"]="2420", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3060"
                 },
                 ["02"] = {
                   ["average"]="3448", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2915", ["maximum"]="3721"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="1727", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1727", ["maximum"]="1727"
                 }
               }
             }
@@ -16029,7 +15925,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20766", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="45000"
+                  ["average"]="20766", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="45000"
                 },
                 ["05"] = {
                   ["average"]="7243", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="16500"
@@ -16040,7 +15936,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="33785", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="33785", ["maximum"]="33785"
+                  ["date"]="2026-02-24", ["average"]="33785", ["minimum"]="33785", ["maximum"]="33785", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16048,7 +15944,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="60071", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="33785", ["maximum"]="100000"
+                  ["date"]="2026-02-24", ["average"]="50339", ["minimum"]="33785", ["maximum"]="100000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16056,7 +15952,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="385000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="800000"
+                  ["date"]="2026-02-24", ["average"]="750000", ["minimum"]="700000", ["maximum"]="800000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -16073,7 +15969,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="130", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
+                  ["average"]="130", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
                 },
                 ["02"] = {
                   ["average"]="202", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="682"
@@ -16084,7 +15980,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="144", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="227"
+                  ["date"]="2026-02-24", ["average"]="191", ["minimum"]="86", ["maximum"]="437", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16092,7 +15988,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="189", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="327"
+                  ["date"]="2026-02-24", ["average"]="212", ["minimum"]="27", ["maximum"]="327", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16100,7 +15996,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="163", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="227"
+                  ["date"]="2026-02-24", ["average"]="163", ["minimum"]="25", ["maximum"]="327", ["commonQuantity"]="1"
                 }
               }
             }
@@ -16178,7 +16074,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2212", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="5000"
+                  ["average"]="2212", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="1166", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="1060", ["maximum"]="1166"
@@ -16189,7 +16085,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1375", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1750"
+                  ["date"]="2026-02-24", ["average"]="1375", ["minimum"]="1000", ["maximum"]="1750", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16197,7 +16093,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1780", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="760", ["maximum"]="2800"
+                  ["date"]="2026-02-24", ["average"]="1780", ["minimum"]="760", ["maximum"]="2800", ["commonQuantity"]="1"
                 }
               }
             }
@@ -16214,7 +16110,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="25671", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="19000", ["maximum"]="30000"
+                  ["average"]="25671", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="19000", ["maximum"]="30000"
                 },
                 ["02"] = {
                   ["average"]="5971", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="27530"
@@ -16225,7 +16121,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="60000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="150000"
+                  ["date"]="2026-02-24", ["average"]="60000", ["minimum"]="30000", ["maximum"]="150000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16233,7 +16129,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="29377", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="28131", ["maximum"]="30000"
+                  ["date"]="2026-02-24", ["average"]="30000", ["minimum"]="30000", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16241,7 +16137,7 @@ _G.MARKET_TRACKER_SDK.shard_1282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="35895", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="200000"
+                  ["date"]="2026-02-24", ["average"]="42434", ["minimum"]="2000", ["maximum"]="200000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -16283,7 +16179,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1", ["maximum"]="160"
+                  ["average"]="7", ["date"]="2026-03-29", ["commonQuantity"]="50", ["minimum"]="1", ["maximum"]="160"
                 }
               }
             }
@@ -16300,7 +16196,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1403", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="6000"
+                  ["average"]="1403", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="6000"
                 },
                 ["02"] = {
                   ["average"]="550", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="550"
@@ -16320,7 +16216,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="949", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="2000"
+                  ["average"]="949", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="2000"
                 },
                 ["05"] = {
                   ["average"]="5739", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="55000"
@@ -16331,7 +16227,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="754", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="219", ["maximum"]="1900"
+                  ["date"]="2026-02-24", ["average"]="400", ["minimum"]="100", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16339,7 +16235,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1199", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="645", ["minimum"]="100", ["maximum"]="1500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16347,7 +16243,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1484", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="483", ["minimum"]="100", ["maximum"]="3500", ["commonQuantity"]="1"
                 }
               }
             }
@@ -16586,7 +16482,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="192292", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="150000", ["maximum"]="209000"
+                  ["average"]="192292", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150000", ["maximum"]="209000"
                 },
                 ["04"] = {
                   ["average"]="379428", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="331030", ["maximum"]="440000"
@@ -16597,7 +16493,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="250000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="250000", ["maximum"]="250000"
+                  ["date"]="2026-02-24", ["average"]="250000", ["minimum"]="250000", ["maximum"]="250000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16605,7 +16501,7 @@ _G.MARKET_TRACKER_SDK.shard_1283 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="211800", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="195000", ["maximum"]="250000"
+                  ["date"]="2026-02-24", ["average"]="220000", ["minimum"]="220000", ["maximum"]="220000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -16653,7 +16549,7 @@ _G.MARKET_TRACKER_SDK.shard_1284 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="147", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="80", ["maximum"]="350"
+                  ["average"]="147", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="80", ["maximum"]="350"
                 },
                 ["02"] = {
                   ["average"]="202", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="18", ["maximum"]="1100"
@@ -16664,7 +16560,7 @@ _G.MARKET_TRACKER_SDK.shard_1284 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="161", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="227"
+                  ["date"]="2026-02-24", ["average"]="220", ["minimum"]="30", ["maximum"]="427", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16672,7 +16568,7 @@ _G.MARKET_TRACKER_SDK.shard_1284 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="537", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2350"
+                  ["date"]="2026-02-24", ["average"]="468", ["minimum"]="100", ["maximum"]="2350", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16680,7 +16576,7 @@ _G.MARKET_TRACKER_SDK.shard_1284 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="122", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="199"
+                  ["date"]="2026-02-24", ["average"]="170", ["minimum"]="87", ["maximum"]="700", ["commonQuantity"]="1"
                 }
               }
             }
@@ -16902,7 +16798,7 @@ _G.MARKET_TRACKER_SDK.shard_1285 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6998", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2275", ["maximum"]="28000"
+                  ["average"]="6998", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2275", ["maximum"]="28000"
                 },
                 ["05"] = {
                   ["average"]="11809", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="4675", ["maximum"]="29343"
@@ -16913,7 +16809,7 @@ _G.MARKET_TRACKER_SDK.shard_1285 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="25225", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20675", ["maximum"]="30000"
+                  ["date"]="2026-02-24", ["average"]="25225", ["minimum"]="20675", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -16921,7 +16817,7 @@ _G.MARKET_TRACKER_SDK.shard_1285 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16635", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="11800", ["maximum"]="30675"
+                  ["date"]="2026-02-24", ["average"]="15117", ["minimum"]="9675", ["maximum"]="30675", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17158,7 +17054,7 @@ _G.MARKET_TRACKER_SDK.shard_1287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="157", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="227"
+                  ["average"]="157", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="227"
                 },
                 ["02"] = {
                   ["average"]="173", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="1130"
@@ -17169,7 +17065,7 @@ _G.MARKET_TRACKER_SDK.shard_1287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="128", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="400"
+                  ["date"]="2026-02-24", ["average"]="198", ["minimum"]="27", ["maximum"]="327", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17177,7 +17073,7 @@ _G.MARKET_TRACKER_SDK.shard_1287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="186", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="189", ["minimum"]="100", ["maximum"]="500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17185,7 +17081,7 @@ _G.MARKET_TRACKER_SDK.shard_1287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="91", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="200"
+                  ["date"]="2026-02-24", ["average"]="127", ["minimum"]="27", ["maximum"]="300", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17207,7 +17103,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1058", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="3000"
+                  ["average"]="1058", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="3000"
                 },
                 ["03"] = {
                   ["average"]="1200", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="0", ["maximum"]="11000"
@@ -17218,7 +17114,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1071", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="198", ["maximum"]="1806"
+                  ["date"]="2026-02-24", ["average"]="1806", ["minimum"]="130", ["maximum"]="4400", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17226,7 +17122,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="446", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="430", ["maximum"]="542"
+                  ["date"]="2026-02-24", ["average"]="430", ["minimum"]="430", ["maximum"]="430", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17234,7 +17130,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="789", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="982", ["minimum"]="330", ["maximum"]="2200", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17251,7 +17147,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4261", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="6500"
+                  ["average"]="4261", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="6500"
                 },
                 ["04"] = {
                   ["average"]="12100", ["date"]="2025-07-26", ["commonQuantity"]="2", ["minimum"]="11000", ["maximum"]="12100"
@@ -17262,7 +17158,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7402", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="7402", ["maximum"]="7402"
+                  ["date"]="2026-02-24", ["average"]="7402", ["minimum"]="7402", ["maximum"]="7402", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17279,7 +17175,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2431", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5000"
+                  ["average"]="2431", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="616", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="560", ["maximum"]="616"
@@ -17290,7 +17186,7 @@ _G.MARKET_TRACKER_SDK.shard_1288 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="2000", ["minimum"]="2000", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17312,18 +17208,10 @@ _G.MARKET_TRACKER_SDK.shard_1289 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1248", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2395"
+                  ["average"]="1248", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2395"
                 },
                 ["03"] = {
                   ["average"]="3850", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="4400"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="8250", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8250", ["maximum"]="8250"
                 }
               }
             }
@@ -17345,7 +17233,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="161", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4", ["maximum"]="350"
+                  ["average"]="161", ["date"]="2026-03-29", ["commonQuantity"]="200", ["minimum"]="74", ["maximum"]="300"
                 },
                 ["01"] = {
                   ["average"]="143", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="50", ["maximum"]="275"
@@ -17359,7 +17247,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="130", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="200"
+                  ["date"]="2026-02-24", ["average"]="129", ["minimum"]="76", ["maximum"]="206", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17367,7 +17255,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="101", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="46", ["maximum"]="140"
+                  ["date"]="2026-02-24", ["average"]="117", ["minimum"]="40", ["maximum"]="156", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17375,7 +17263,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="182", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6", ["maximum"]="330"
+                  ["date"]="2026-02-24", ["average"]="146", ["minimum"]="80", ["maximum"]="200", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17509,7 +17397,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="30198", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="26000", ["maximum"]="37000"
+                  ["average"]="30198", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="26000", ["maximum"]="37000"
                 },
                 ["04"] = {
                   ["average"]="37719", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="66000"
@@ -17520,7 +17408,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="30091", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="35181"
+                  ["date"]="2026-02-24", ["average"]="30091", ["minimum"]="25000", ["maximum"]="35181", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17528,7 +17416,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="46667", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="65000"
+                  ["date"]="2026-02-24", ["average"]="45000", ["minimum"]="45000", ["maximum"]="45000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17536,7 +17424,7 @@ _G.MARKET_TRACKER_SDK.shard_1290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="31863", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="24950", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="32990", ["minimum"]="24950", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17674,7 +17562,7 @@ _G.MARKET_TRACKER_SDK.shard_1292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="243", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="2000"
+                  ["average"]="243", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="2000"
                 },
                 ["02"] = {
                   ["average"]="137", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1210"
@@ -17685,7 +17573,7 @@ _G.MARKET_TRACKER_SDK.shard_1292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="208", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="221", ["minimum"]="50", ["maximum"]="500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17693,7 +17581,7 @@ _G.MARKET_TRACKER_SDK.shard_1292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="200", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="400"
+                  ["date"]="2026-02-24", ["average"]="159", ["minimum"]="87", ["maximum"]="427", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17701,7 +17589,7 @@ _G.MARKET_TRACKER_SDK.shard_1292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="187", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="141", ["minimum"]="27", ["maximum"]="280", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17718,15 +17606,7 @@ _G.MARKET_TRACKER_SDK.shard_1292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="511131", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="170000", ["maximum"]="1300000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="280000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="280000", ["maximum"]="280000"
+                  ["average"]="511131", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="170000", ["maximum"]="1300000"
                 }
               }
             }
@@ -17788,7 +17668,7 @@ _G.MARKET_TRACKER_SDK.shard_1293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2068", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                  ["average"]="2068", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="2420", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1860", ["maximum"]="2420"
@@ -17808,7 +17688,7 @@ _G.MARKET_TRACKER_SDK.shard_1293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27698", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="30256"
+                  ["average"]="27698", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="30256"
                 },
                 ["04"] = {
                   ["average"]="31090", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="35750"
@@ -17819,7 +17699,7 @@ _G.MARKET_TRACKER_SDK.shard_1293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="45600", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="22000", ["maximum"]="60000"
+                  ["date"]="2026-02-24", ["average"]="59999", ["minimum"]="59999", ["maximum"]="59999", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17827,7 +17707,7 @@ _G.MARKET_TRACKER_SDK.shard_1293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32812", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="339", ["maximum"]="60000"
+                  ["date"]="2026-02-24", ["average"]="27916", ["minimum"]="339", ["maximum"]="50039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17835,7 +17715,7 @@ _G.MARKET_TRACKER_SDK.shard_1293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="31570", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="65000"
+                  ["date"]="2026-02-24", ["average"]="38587", ["minimum"]="22000", ["maximum"]="65300", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17849,6 +17729,12 @@ _G.MARKET_TRACKER_SDK.shard_1293 = function (s3)
           return ({
             -- Platforms
             ["ps-eu"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["date"]="2026-02-24", ["average"]="11153", ["minimum"]="11153", ["maximum"]="11153", ["commonQuantity"]="1"
+                }
+              },
               ["01"] = {
                 -- Qualities
                 ["--"] = {
@@ -17856,12 +17742,6 @@ _G.MARKET_TRACKER_SDK.shard_1293 = function (s3)
                 },
                 ["04"] = {
                   ["average"]="11153", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="11153", ["maximum"]="11153"
-                }
-              },
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["date"]="2026-02-24", ["average"]="11153", ["minimum"]="11153", ["maximum"]="11153", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17883,7 +17763,7 @@ _G.MARKET_TRACKER_SDK.shard_1294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9528", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6500", ["maximum"]="15000"
+                  ["average"]="9528", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6500", ["maximum"]="15000"
                 },
                 ["04"] = {
                   ["average"]="110", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1100"
@@ -17894,7 +17774,7 @@ _G.MARKET_TRACKER_SDK.shard_1294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="10000", ["minimum"]="10000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17952,7 +17832,7 @@ _G.MARKET_TRACKER_SDK.shard_1294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3234", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="360", ["maximum"]="5493"
+                  ["average"]="3234", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="360", ["maximum"]="5493"
                 }
               }
             },
@@ -17960,7 +17840,7 @@ _G.MARKET_TRACKER_SDK.shard_1294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="1333", ["minimum"]="1000", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -17968,7 +17848,7 @@ _G.MARKET_TRACKER_SDK.shard_1294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2292", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="3060"
+                  ["date"]="2026-02-24", ["average"]="3000", ["minimum"]="3000", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -17987,6 +17867,12 @@ _G.MARKET_TRACKER_SDK.shard_1295 = function (s3)
           return ({
             -- Platforms
             ["ps-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["date"]="2026-02-24", ["average"]="850", ["minimum"]="850", ["maximum"]="850", ["commonQuantity"]="1"
+                }
+              },
               ["04"] = {
                 -- Qualities
                 ["--"] = {
@@ -17994,12 +17880,6 @@ _G.MARKET_TRACKER_SDK.shard_1295 = function (s3)
                 },
                 ["03"] = {
                   ["average"]="850", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="850", ["maximum"]="850"
-                }
-              },
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["date"]="2026-02-24", ["average"]="850", ["minimum"]="850", ["maximum"]="850", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18016,7 +17896,7 @@ _G.MARKET_TRACKER_SDK.shard_1295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2718", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="4387"
+                  ["average"]="2718", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="4387"
                 },
                 ["04"] = {
                   ["average"]="3404", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="15400"
@@ -18027,7 +17907,7 @@ _G.MARKET_TRACKER_SDK.shard_1295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2298", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="2598", ["minimum"]="139", ["maximum"]="5550", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18035,7 +17915,7 @@ _G.MARKET_TRACKER_SDK.shard_1295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3303", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5900"
+                  ["date"]="2026-02-24", ["average"]="3170", ["minimum"]="539", ["maximum"]="7000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18043,7 +17923,7 @@ _G.MARKET_TRACKER_SDK.shard_1295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3662", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="6352", ["minimum"]="2000", ["maximum"]="43522", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18065,7 +17945,7 @@ _G.MARKET_TRACKER_SDK.shard_1296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="360", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="1750"
+                  ["average"]="360", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="1750"
                 },
                 ["05"] = {
                   ["average"]="1517", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="22000"
@@ -18076,7 +17956,7 @@ _G.MARKET_TRACKER_SDK.shard_1296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1156", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="120", ["maximum"]="4999"
+                  ["date"]="2026-02-24", ["average"]="806", ["minimum"]="100", ["maximum"]="3333", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18084,7 +17964,7 @@ _G.MARKET_TRACKER_SDK.shard_1296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="481", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="1085"
+                  ["date"]="2026-02-24", ["average"]="450", ["minimum"]="80", ["maximum"]="1250", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18092,7 +17972,7 @@ _G.MARKET_TRACKER_SDK.shard_1296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="600", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="1667"
+                  ["date"]="2026-02-24", ["average"]="390", ["minimum"]="199", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18114,7 +17994,7 @@ _G.MARKET_TRACKER_SDK.shard_1297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="17848", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="20000"
+                  ["average"]="17848", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="20000"
                 },
                 ["04"] = {
                   ["average"]="23958", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="16350", ["maximum"]="30800"
@@ -18125,7 +18005,7 @@ _G.MARKET_TRACKER_SDK.shard_1297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="30333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="40000", ["minimum"]="35000", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18133,7 +18013,7 @@ _G.MARKET_TRACKER_SDK.shard_1297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="17520", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15039", ["maximum"]="22039"
+                  ["date"]="2026-02-24", ["average"]="16500", ["minimum"]="16000", ["maximum"]="17000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18141,7 +18021,7 @@ _G.MARKET_TRACKER_SDK.shard_1297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="17123", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="22000"
+                  ["date"]="2026-02-24", ["average"]="17748", ["minimum"]="10039", ["maximum"]="22000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18180,7 +18060,7 @@ _G.MARKET_TRACKER_SDK.shard_1298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="120333", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="215000"
+                  ["average"]="120333", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="215000"
                 },
                 ["03"] = {
                   ["average"]="539785", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="490714", ["maximum"]="539785"
@@ -18191,7 +18071,7 @@ _G.MARKET_TRACKER_SDK.shard_1298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="38952", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10030", ["maximum"]="60000"
+                  ["date"]="2026-02-24", ["average"]="81863", ["minimum"]="29089", ["maximum"]="120000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18199,7 +18079,7 @@ _G.MARKET_TRACKER_SDK.shard_1298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="72010", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40030", ["maximum"]="120000"
+                  ["date"]="2026-02-24", ["average"]="100008", ["minimum"]="40030", ["maximum"]="125000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18207,7 +18087,7 @@ _G.MARKET_TRACKER_SDK.shard_1298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="50723", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="72944"
+                  ["date"]="2026-02-24", ["average"]="72944", ["minimum"]="500", ["maximum"]="128000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18229,18 +18109,10 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4192", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1650", ["maximum"]="7500"
+                  ["average"]="4192", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1650", ["maximum"]="7500"
                 },
                 ["03"] = {
                   ["average"]="11000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="11000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="4000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="4000"
                 }
               }
             }
@@ -18257,7 +18129,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3123", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="20000"
+                  ["average"]="3123", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="20000"
                 },
                 ["05"] = {
                   ["average"]="439", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="3300"
@@ -18268,7 +18140,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3375", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="3222", ["minimum"]="1500", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18276,7 +18148,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2695", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="22000"
+                  ["date"]="2026-02-24", ["average"]="3037", ["minimum"]="400", ["maximum"]="22000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18284,7 +18156,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3413", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="12000"
+                  ["date"]="2026-02-24", ["average"]="3170", ["minimum"]="667", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18301,7 +18173,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="164", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="230"
+                  ["average"]="164", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="230"
                 },
                 ["02"] = {
                   ["average"]="229", ["date"]="2025-09-27", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1195"
@@ -18312,7 +18184,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="405", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="527"
+                  ["date"]="2026-02-24", ["average"]="476", ["minimum"]="400", ["maximum"]="527", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18320,7 +18192,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="422", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="459", ["minimum"]="300", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18328,7 +18200,7 @@ _G.MARKET_TRACKER_SDK.shard_1299 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="166", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="17", ["maximum"]="334"
+                  ["date"]="2026-02-24", ["average"]="291", ["minimum"]="97", ["maximum"]="827", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18351,6 +18223,15 @@ _G.MARKET_TRACKER_SDK.shard_6200 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="3566", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="899", ["maximum"]="13000"
+                },
+                ["02"] = {
+                  ["average"]="11000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="33000"
+                },
+                ["03"] = {
+                  ["average"]="1100", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="33000"
+                },
+                ["04"] = {
+                  ["average"]="7674", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="33000"
                 }
               },
               ["01"] = {
@@ -18609,6 +18490,26 @@ _G.MARKET_TRACKER_SDK.shard_6200 = function (s3)
           })[tostring(platform)]
         end
       })[tostring(internalId)]
+    end,
+    ["03"] = function (internalId)
+      return ({
+        ["2516300026"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="439", ["date"]="2024-11-14", ["commonQuantity"]="1", ["minimum"]="399", ["maximum"]="439"
+                },
+                ["03"] = {
+                  ["average"]="439", ["date"]="2024-11-14", ["commonQuantity"]="1", ["minimum"]="399", ["maximum"]="439"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
     end
   })[tostring(s3)]
 end
@@ -18680,6 +18581,12 @@ _G.MARKET_TRACKER_SDK.shard_6202 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="5532", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="25240"
+                },
+                ["02"] = {
+                  ["average"]="181", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="164", ["maximum"]="11000"
+                },
+                ["03"] = {
+                  ["average"]="3932", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="164", ["maximum"]="11000"
                 }
               },
               ["03"] = {
@@ -18804,7 +18711,10 @@ _G.MARKET_TRACKER_SDK.shard_6202 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5590", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="14000"
+                  ["average"]="5590", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="14000"
+                },
+                ["04"] = {
+                  ["average"]="5711", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="108900"
                 }
               }
             },
@@ -18812,7 +18722,7 @@ _G.MARKET_TRACKER_SDK.shard_6202 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7395", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3260", ["maximum"]="10960"
+                  ["date"]="2026-02-24", ["average"]="10960", ["minimum"]="4000", ["maximum"]="15039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18820,7 +18730,7 @@ _G.MARKET_TRACKER_SDK.shard_6202 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6368", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="8198", ["minimum"]="5000", ["maximum"]="15039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18828,7 +18738,7 @@ _G.MARKET_TRACKER_SDK.shard_6202 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5522", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="5260", ["minimum"]="2039", ["maximum"]="9000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18850,15 +18760,10 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1620", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="4000"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="4150", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="4150"
+                  ["average"]="1620", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="4000"
+                },
+                ["03"] = {
+                  ["average"]="3837", ["date"]="2025-09-27", ["commonQuantity"]="1", ["minimum"]="3488", ["maximum"]="3837"
                 }
               }
             }
@@ -18875,7 +18780,10 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="133", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="250"
+                  ["average"]="133", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="250"
+                },
+                ["01"] = {
+                  ["average"]="385", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="5516"
                 }
               }
             },
@@ -18883,7 +18791,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="95", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="55", ["maximum"]="115"
+                  ["date"]="2026-02-24", ["average"]="115", ["minimum"]="115", ["maximum"]="115", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18891,7 +18799,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="55", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="55", ["maximum"]="55"
+                  ["date"]="2026-02-24", ["average"]="55", ["minimum"]="55", ["maximum"]="55", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18899,7 +18807,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="65", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="108"
+                  ["date"]="2026-02-24", ["average"]="108", ["minimum"]="45", ["maximum"]="515", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18916,7 +18824,10 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4484", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="260", ["maximum"]="9000"
+                  ["average"]="4484", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="260", ["maximum"]="9000"
+                },
+                ["02"] = {
+                  ["average"]="4674", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="827", ["maximum"]="4675"
                 }
               }
             },
@@ -18924,7 +18835,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9250", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4128", ["maximum"]="18000"
+                  ["date"]="2026-02-24", ["average"]="11811", ["minimum"]="5622", ["maximum"]="18000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18932,7 +18843,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5927", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5927", ["maximum"]="5927"
+                  ["date"]="2026-02-24", ["average"]="5927", ["minimum"]="5927", ["maximum"]="5927", ["commonQuantity"]="1"
                 }
               }
             },
@@ -18940,7 +18851,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1630", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="7255"
+                  ["date"]="2026-02-24", ["average"]="2275", ["minimum"]="200", ["maximum"]="7255", ["commonQuantity"]="1"
                 }
               }
             }
@@ -18957,31 +18868,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13258", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="50000"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="8538", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="30000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="7874", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4999", ["maximum"]="10870"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="15184", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="50000"
+                  ["average"]="13258", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="40000"
                 }
               }
             }
@@ -18998,7 +18885,10 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8520", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1039", ["maximum"]="12000"
+                  ["average"]="8520", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1039", ["maximum"]="12000"
+                },
+                ["04"] = {
+                  ["average"]="12601", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="22000"
                 }
               }
             },
@@ -19006,7 +18896,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="30383", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="71071"
+                  ["date"]="2026-02-24", ["average"]="33690", ["minimum"]="10000", ["maximum"]="71071", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19014,7 +18904,7 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="19895", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="11039", ["maximum"]="27000"
+                  ["date"]="2026-02-24", ["average"]="20132", ["minimum"]="10039", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19022,7 +18912,32 @@ _G.MARKET_TRACKER_SDK.shard_6203 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13547", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1039", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="12080", ["minimum"]="8000", ["maximum"]="20500", ["commonQuantity"]="1"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end
+  })[tostring(s3)]
+end
+_G.MARKET_TRACKER_SDK = _G.MARKET_TRACKER_SDK or {}
+_G.MARKET_TRACKER_SDK.shard_6204 = function (s3)
+  return ({
+    ["07"] = function (internalId)
+      return ({
+        ["3269704026"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="54989", ["date"]="2025-09-04", ["commonQuantity"]="1", ["minimum"]="49990", ["maximum"]="54989"
+                },
+                ["05"] = {
+                  ["average"]="54989", ["date"]="2025-09-04", ["commonQuantity"]="1", ["minimum"]="49990", ["maximum"]="54989"
                 }
               }
             }
@@ -19044,7 +18959,7 @@ _G.MARKET_TRACKER_SDK.shard_6205 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2623", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1060", ["maximum"]="10000"
+                  ["average"]="2623", ["date"]="2026-03-29", ["commonQuantity"]="2", ["minimum"]="1060", ["maximum"]="10000"
                 }
               }
             }
@@ -19066,7 +18981,10 @@ _G.MARKET_TRACKER_SDK.shard_6206 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="65279", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="100000"
+                  ["average"]="65279", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="100000"
+                },
+                ["04"] = {
+                  ["average"]="84881", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="70000", ["maximum"]="93240"
                 }
               }
             },
@@ -19074,7 +18992,7 @@ _G.MARKET_TRACKER_SDK.shard_6206 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="62509", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="90000"
+                  ["date"]="2026-02-24", ["average"]="66551", ["minimum"]="50000", ["maximum"]="80039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19082,7 +19000,7 @@ _G.MARKET_TRACKER_SDK.shard_6206 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="70321", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="61000", ["maximum"]="90000"
+                  ["date"]="2026-02-24", ["average"]="68954", ["minimum"]="60000", ["maximum"]="80000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19090,7 +19008,7 @@ _G.MARKET_TRACKER_SDK.shard_6206 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="78569", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="100000"
+                  ["date"]="2026-02-24", ["average"]="94686", ["minimum"]="58500", ["maximum"]="195000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -19112,7 +19030,10 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1086", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="4350"
+                  ["average"]="1086", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="4350"
+                },
+                ["03"] = {
+                  ["average"]="990", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="2233"
                 }
               }
             },
@@ -19120,7 +19041,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="950", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="1143"
+                  ["date"]="2026-02-24", ["average"]="1143", ["minimum"]="811", ["maximum"]="1920", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19128,7 +19049,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="838", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="1100"
+                  ["date"]="2026-02-24", ["average"]="812", ["minimum"]="30", ["maximum"]="1100", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19136,7 +19057,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="762", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="1021", ["minimum"]="200", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -19153,7 +19074,10 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20354", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="13131", ["maximum"]="33000"
+                  ["average"]="20354", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="13131", ["maximum"]="33000"
+                },
+                ["04"] = {
+                  ["average"]="29702", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="22828", ["maximum"]="330000"
                 }
               }
             },
@@ -19161,7 +19085,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="23742", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="11039", ["maximum"]="45000"
+                  ["date"]="2026-02-24", ["average"]="25700", ["minimum"]="19000", ["maximum"]="45000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19169,7 +19093,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="21667", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="27500"
+                  ["date"]="2026-02-24", ["average"]="27500", ["minimum"]="27500", ["maximum"]="27500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19177,7 +19101,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="18379", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="20740", ["minimum"]="15000", ["maximum"]="25000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -19190,7 +19114,10 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8032", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7333", ["maximum"]="9920"
+                  ["average"]="8032", ["date"]="2026-03-29", ["commonQuantity"]="4", ["minimum"]="7333", ["maximum"]="9920"
+                },
+                ["03"] = {
+                  ["average"]="8871", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="4500", ["maximum"]="13200"
                 }
               }
             },
@@ -19198,7 +19125,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13867", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="13800", ["maximum"]="13900"
+                  ["date"]="2026-02-24", ["average"]="13900", ["minimum"]="13900", ["maximum"]="13900", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19206,7 +19133,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7476", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5998", ["maximum"]="9244"
+                  ["date"]="2026-02-24", ["average"]="7244", ["minimum"]="5998", ["maximum"]="7998", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19214,7 +19141,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9550", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8500", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="8622", ["minimum"]="200", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -19313,6 +19240,15 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1914", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="7900"
+                },
+                ["02"] = {
+                  ["average"]="539", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="11000"
+                },
+                ["03"] = {
+                  ["average"]="2011", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="11000"
+                },
+                ["04"] = {
+                  ["average"]="2119", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="11000"
                 }
               },
               ["04"] = {
@@ -19614,7 +19550,10 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2638", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="5000"
+                  ["average"]="2638", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="5000"
+                },
+                ["03"] = {
+                  ["average"]="3527", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="5500"
                 }
               }
             },
@@ -19622,7 +19561,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4044", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1362", ["maximum"]="5108"
+                  ["date"]="2026-02-24", ["average"]="4221", ["minimum"]="1362", ["maximum"]="5108", ["commonQuantity"]="1"
                 }
               }
             },
@@ -19630,15 +19569,7 @@ _G.MARKET_TRACKER_SDK.shard_6207 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2997", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1400", ["maximum"]="5000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="18000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="18000", ["maximum"]="18000"
+                  ["date"]="2026-02-24", ["average"]="3243", ["minimum"]="300", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -19660,7 +19591,10 @@ _G.MARKET_TRACKER_SDK.shard_6211 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2887", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1965", ["maximum"]="9900"
+                  ["average"]="2887", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1965", ["maximum"]="9900"
+                },
+                ["03"] = {
+                  ["average"]="165", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2750"
                 }
               }
             },
@@ -19668,7 +19602,7 @@ _G.MARKET_TRACKER_SDK.shard_6211 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6250", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="10000", ["minimum"]="10000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -19686,6 +19620,15 @@ _G.MARKET_TRACKER_SDK.shard_6211 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="6687", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="340", ["maximum"]="25000"
+                },
+                ["02"] = {
+                  ["average"]="3854", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="7700"
+                },
+                ["03"] = {
+                  ["average"]="1348", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="7700"
+                },
+                ["04"] = {
+                  ["average"]="5881", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="7700"
                 }
               },
               ["01"] = {
@@ -20094,7 +20037,10 @@ _G.MARKET_TRACKER_SDK.shard_6212 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="28460", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="33000"
+                  ["average"]="28460", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="33000"
+                },
+                ["04"] = {
+                  ["average"]="106848", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="110000"
                 }
               }
             },
@@ -20102,7 +20048,7 @@ _G.MARKET_TRACKER_SDK.shard_6212 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="20000", ["minimum"]="20000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20110,7 +20056,7 @@ _G.MARKET_TRACKER_SDK.shard_6212 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="26512", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20987", ["maximum"]="33000"
+                  ["date"]="2026-02-24", ["average"]="26994", ["minimum"]="20987", ["maximum"]="33000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -20132,7 +20078,10 @@ _G.MARKET_TRACKER_SDK.shard_6213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="175", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="55", ["maximum"]="500"
+                  ["average"]="175", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="55", ["maximum"]="500"
+                },
+                ["02"] = {
+                  ["average"]="197", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1100"
                 }
               }
             },
@@ -20140,7 +20089,7 @@ _G.MARKET_TRACKER_SDK.shard_6213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="162", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="154", ["minimum"]="27", ["maximum"]="427", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20148,7 +20097,7 @@ _G.MARKET_TRACKER_SDK.shard_6213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="240", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="123", ["maximum"]="627"
+                  ["date"]="2026-02-24", ["average"]="242", ["minimum"]="100", ["maximum"]="827", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20156,7 +20105,7 @@ _G.MARKET_TRACKER_SDK.shard_6213 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="114", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="250"
+                  ["date"]="2026-02-24", ["average"]="101", ["minimum"]="27", ["maximum"]="300", ["commonQuantity"]="1"
                 }
               }
             }
@@ -20272,6 +20221,15 @@ _G.MARKET_TRACKER_SDK.shard_6214 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1473", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="4593"
+                },
+                ["02"] = {
+                  ["average"]="2173", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="22000"
+                },
+                ["03"] = {
+                  ["average"]="618", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="22000"
+                },
+                ["04"] = {
+                  ["average"]="2581", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="22000"
                 }
               },
               ["04"] = {
@@ -20642,7 +20600,10 @@ _G.MARKET_TRACKER_SDK.shard_6214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9351", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5003", ["maximum"]="12000"
+                  ["average"]="9351", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5003", ["maximum"]="12000"
+                },
+                ["03"] = {
+                  ["average"]="48375", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="42166", ["maximum"]="48400"
                 }
               }
             },
@@ -20650,7 +20611,7 @@ _G.MARKET_TRACKER_SDK.shard_6214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11507", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="11696", ["minimum"]="8000", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20658,7 +20619,7 @@ _G.MARKET_TRACKER_SDK.shard_6214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6713", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5150", ["maximum"]="23150"
+                  ["date"]="2026-02-24", ["average"]="6950", ["minimum"]="5150", ["maximum"]="23150", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20666,7 +20627,7 @@ _G.MARKET_TRACKER_SDK.shard_6214 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10107", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4800", ["maximum"]="19000"
+                  ["date"]="2026-02-24", ["average"]="6586", ["minimum"]="220", ["maximum"]="18000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -20688,7 +20649,10 @@ _G.MARKET_TRACKER_SDK.shard_6215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="645", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="63", ["maximum"]="2500"
+                  ["average"]="645", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="63", ["maximum"]="2500"
+                },
+                ["03"] = {
+                  ["average"]="706", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="10", ["maximum"]="4696"
                 }
               }
             },
@@ -20696,7 +20660,7 @@ _G.MARKET_TRACKER_SDK.shard_6215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="191", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="300"
+                  ["date"]="2026-02-24", ["average"]="160", ["minimum"]="90", ["maximum"]="289", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20704,7 +20668,7 @@ _G.MARKET_TRACKER_SDK.shard_6215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="443", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="479", ["minimum"]="100", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20712,7 +20676,7 @@ _G.MARKET_TRACKER_SDK.shard_6215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="178", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="700"
+                  ["date"]="2026-02-24", ["average"]="192", ["minimum"]="20", ["maximum"]="700", ["commonQuantity"]="1"
                 }
               }
             }
@@ -20729,15 +20693,10 @@ _G.MARKET_TRACKER_SDK.shard_6215 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="384580", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="60000", ["maximum"]="1500000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="9900", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9900", ["maximum"]="9900"
+                  ["average"]="384580", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="60000", ["maximum"]="1500000"
+                },
+                ["05"] = {
+                  ["average"]="137500", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="125000", ["maximum"]="137500"
                 }
               }
             }
@@ -20759,7 +20718,10 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="682", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1085"
+                  ["average"]="682", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1085"
+                },
+                ["02"] = {
+                  ["average"]="1381", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="260", ["maximum"]="1386"
                 }
               }
             },
@@ -20767,7 +20729,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="793", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="2250"
+                  ["date"]="2026-02-24", ["average"]="308", ["minimum"]="60", ["maximum"]="603", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20775,7 +20737,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="592", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1060"
+                  ["date"]="2026-02-24", ["average"]="530", ["minimum"]="60", ["maximum"]="1060", ["commonQuantity"]="1"
                 }
               }
             },
@@ -20783,7 +20745,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="727", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1160"
+                  ["date"]="2026-02-24", ["average"]="581", ["minimum"]="60", ["maximum"]="1160", ["commonQuantity"]="1"
                 }
               }
             }
@@ -20866,6 +20828,15 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1159", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="5090"
+                },
+                ["02"] = {
+                  ["average"]="285", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="5489"
+                },
+                ["03"] = {
+                  ["average"]="1256", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="5489"
+                },
+                ["04"] = {
+                  ["average"]="567", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="5489"
                 }
               },
               ["04"] = {
@@ -21053,6 +21024,56 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
         end
       })[tostring(internalId)]
     end,
+    ["25"] = function (internalId)
+      return ({
+        ["1056526126"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["10"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="356", ["date"]="2025-08-12", ["commonQuantity"]="1", ["minimum"]="324", ["maximum"]="356"
+                },
+                ["01"] = {
+                  ["average"]="356", ["date"]="2025-08-12", ["commonQuantity"]="1", ["minimum"]="324", ["maximum"]="356"
+                }
+              },
+              ["25"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="5500", ["date"]="2025-08-31", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5500"
+                },
+                ["01"] = {
+                  ["average"]="5500", ["date"]="2025-08-31", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5500"
+                }
+              },
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="337", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="81", ["maximum"]="5500"
+                },
+                ["01"] = {
+                  ["average"]="337", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="81", ["maximum"]="5500"
+                },
+                ["03"] = {
+                  ["average"]="213", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="81", ["maximum"]="5500"
+                }
+              },
+              ["09"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="321", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="81", ["maximum"]="1192"
+                },
+                ["01"] = {
+                  ["average"]="321", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="81", ["maximum"]="1192"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
     ["39"] = function (internalId)
       return ({
         ["379936126"] = function (platform)
@@ -21062,7 +21083,10 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32701", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="19000", ["maximum"]="80000"
+                  ["average"]="32701", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="19000", ["maximum"]="80000"
+                },
+                ["04"] = {
+                  ["average"]="36299", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="36300"
                 }
               }
             },
@@ -21070,7 +21094,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="42123", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="32873", ["maximum"]="55457"
+                  ["date"]="2026-02-24", ["average"]="35457", ["minimum"]="32873", ["maximum"]="38040", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21078,15 +21102,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="31643", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="60000"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="25800", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25800", ["maximum"]="25800"
+                  ["date"]="2026-02-24", ["average"]="35100", ["minimum"]="7300", ["maximum"]="60000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -21103,7 +21119,10 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1212", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="227", ["maximum"]="5500"
+                  ["average"]="1212", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="227", ["maximum"]="5500"
+                },
+                ["02"] = {
+                  ["average"]="274", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1650"
                 }
               }
             },
@@ -21111,7 +21130,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="890", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="2190"
+                  ["date"]="2026-02-24", ["average"]="1006", ["minimum"]="50", ["maximum"]="2200", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21119,7 +21138,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="667", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="77", ["maximum"]="1526"
+                  ["date"]="2026-02-24", ["average"]="867", ["minimum"]="100", ["maximum"]="1526", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21127,7 +21146,7 @@ _G.MARKET_TRACKER_SDK.shard_6216 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="475", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1111"
+                  ["date"]="2026-02-24", ["average"]="757", ["minimum"]="127", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -21201,6 +21220,15 @@ _G.MARKET_TRACKER_SDK.shard_6217 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="746", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="4090"
+                },
+                ["02"] = {
+                  ["average"]="1100", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="390", ["maximum"]="8800"
+                },
+                ["03"] = {
+                  ["average"]="2214", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="390", ["maximum"]="8800"
+                },
+                ["04"] = {
+                  ["average"]="2303", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="390", ["maximum"]="8800"
                 }
               },
               ["04"] = {
@@ -21344,6 +21372,35 @@ _G.MARKET_TRACKER_SDK.shard_6217 = function (s3)
         end
       })[tostring(internalId)]
     end,
+    ["20"] = function (internalId)
+      return ({
+        ["953027126"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="378", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="45", ["maximum"]="600"
+                },
+                ["01"] = {
+                  ["average"]="378", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="45", ["maximum"]="600"
+                }
+              },
+              ["09"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="599", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="48", ["maximum"]="600"
+                },
+                ["01"] = {
+                  ["average"]="599", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="48", ["maximum"]="600"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
     ["36"] = function (internalId)
       return ({
         ["989637126"] = function (platform)
@@ -21353,7 +21410,10 @@ _G.MARKET_TRACKER_SDK.shard_6217 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4759", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="600", ["maximum"]="50039"
+                  ["average"]="4759", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="50039"
+                },
+                ["04"] = {
+                  ["average"]="13500", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="77000"
                 }
               }
             },
@@ -21361,7 +21421,7 @@ _G.MARKET_TRACKER_SDK.shard_6217 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3221", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="5355"
+                  ["date"]="2026-02-24", ["average"]="5355", ["minimum"]="1000", ["maximum"]="18000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21369,7 +21429,7 @@ _G.MARKET_TRACKER_SDK.shard_6217 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7374", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1900", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="3514", ["minimum"]="1500", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21377,7 +21437,48 @@ _G.MARKET_TRACKER_SDK.shard_6217 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3676", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="5867", ["minimum"]="1039", ["maximum"]="25000", ["commonQuantity"]="1"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
+    ["42"] = function (internalId)
+      return ({
+        ["931247126"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["25"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="9126", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4990", ["maximum"]="11010"
+                },
+                ["01"] = {
+                  ["average"]="9126", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4990", ["maximum"]="11010"
+                }
+              },
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="6899", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="11010"
+                },
+                ["01"] = {
+                  ["average"]="6903", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="11010"
+                },
+                ["04"] = {
+                  ["average"]="9999", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="11010"
+                }
+              },
+              ["09"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="309", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="340"
+                },
+                ["01"] = {
+                  ["average"]="309", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="340"
                 }
               }
             }
@@ -21394,7 +21495,7 @@ _G.MARKET_TRACKER_SDK.shard_6217 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="290", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="290"
+                  ["date"]="2026-02-24", ["average"]="290", ["minimum"]="290", ["maximum"]="290", ["commonQuantity"]="1"
                 },
                 ["02"] = {
                   ["average"]="290", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="290"
@@ -21419,7 +21520,10 @@ _G.MARKET_TRACKER_SDK.shard_6218 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9964", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6500", ["maximum"]="12000"
+                  ["average"]="9964", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6500", ["maximum"]="12000"
+                },
+                ["03"] = {
+                  ["average"]="13860", ["date"]="2025-09-27", ["commonQuantity"]="1", ["minimum"]="12600", ["maximum"]="13860"
                 }
               }
             },
@@ -21427,7 +21531,7 @@ _G.MARKET_TRACKER_SDK.shard_6218 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="34717", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="80150"
+                  ["date"]="2026-02-24", ["average"]="34717", ["minimum"]="10000", ["maximum"]="80150", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21435,15 +21539,7 @@ _G.MARKET_TRACKER_SDK.shard_6218 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9948", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9480", ["maximum"]="10000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="8500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8500", ["maximum"]="8500"
+                  ["date"]="2026-02-24", ["average"]="10412", ["minimum"]="10000", ["maximum"]="14029", ["commonQuantity"]="1"
                 }
               }
             }
@@ -21465,7 +21561,10 @@ _G.MARKET_TRACKER_SDK.shard_6219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5588", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="8850"
+                  ["average"]="5588", ["date"]="2026-03-29", ["commonQuantity"]="2", ["minimum"]="4000", ["maximum"]="8850"
+                },
+                ["03"] = {
+                  ["average"]="7620", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="5000", ["maximum"]="11495"
                 }
               }
             },
@@ -21473,7 +21572,7 @@ _G.MARKET_TRACKER_SDK.shard_6219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="5000", ["minimum"]="5000", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21481,7 +21580,7 @@ _G.MARKET_TRACKER_SDK.shard_6219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7006", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="7019", ["minimum"]="5000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -21498,7 +21597,10 @@ _G.MARKET_TRACKER_SDK.shard_6219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="164857", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="500000"
+                  ["average"]="164857", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="500000"
+                },
+                ["05"] = {
+                  ["average"]="440007", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="400000", ["maximum"]="1650000"
                 }
               }
             },
@@ -21506,7 +21608,7 @@ _G.MARKET_TRACKER_SDK.shard_6219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="133672", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="97490", ["maximum"]="202997"
+                  ["date"]="2026-02-24", ["average"]="139702", ["minimum"]="100000", ["maximum"]="202997", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21514,7 +21616,7 @@ _G.MARKET_TRACKER_SDK.shard_6219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="404997", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="975000"
+                  ["date"]="2026-02-24", ["average"]="557495", ["minimum"]="139990", ["maximum"]="975000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21522,7 +21624,32 @@ _G.MARKET_TRACKER_SDK.shard_6219 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="167961", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="295000"
+                  ["date"]="2026-02-24", ["average"]="136428", ["minimum"]="105000", ["maximum"]="180000", ["commonQuantity"]="1"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end
+  })[tostring(s3)]
+end
+_G.MARKET_TRACKER_SDK = _G.MARKET_TRACKER_SDK or {}
+_G.MARKET_TRACKER_SDK.shard_6220 = function (s3)
+  return ({
+    ["63"] = function (internalId)
+      return ({
+        ["3508360226"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="242", ["date"]="2025-09-20", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="242"
+                },
+                ["02"] = {
+                  ["average"]="242", ["date"]="2025-09-20", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="242"
                 }
               }
             }
@@ -21545,6 +21672,15 @@ _G.MARKET_TRACKER_SDK.shard_6221 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="2309", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="655", ["maximum"]="3946"
+                },
+                ["02"] = {
+                  ["average"]="1357", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="4664"
+                },
+                ["03"] = {
+                  ["average"]="3683", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="4664"
+                },
+                ["04"] = {
+                  ["average"]="1099", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="4664"
                 }
               },
               ["01"] = {
@@ -21945,7 +22081,10 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="74", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="115"
+                  ["average"]="74", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="115"
+                },
+                ["01"] = {
+                  ["average"]="90", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="237"
                 }
               }
             },
@@ -21953,7 +22092,7 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="100"
+                  ["date"]="2026-02-24", ["average"]="81", ["minimum"]="15", ["maximum"]="215", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21961,7 +22100,7 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="71", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="125"
+                  ["date"]="2026-02-24", ["average"]="35", ["minimum"]="15", ["maximum"]="55", ["commonQuantity"]="1"
                 }
               }
             },
@@ -21969,7 +22108,7 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="79", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="35", ["maximum"]="115"
+                  ["date"]="2026-02-24", ["average"]="115", ["minimum"]="45", ["maximum"]="215", ["commonQuantity"]="1"
                 }
               }
             }
@@ -21986,7 +22125,10 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="190", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="527"
+                  ["average"]="190", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="527"
+                },
+                ["02"] = {
+                  ["average"]="343", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="2230"
                 }
               }
             },
@@ -21994,7 +22136,7 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="426", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="52", ["maximum"]="1500"
+                  ["date"]="2026-02-24", ["average"]="325", ["minimum"]="27", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22002,7 +22144,7 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="321", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="627"
+                  ["date"]="2026-02-24", ["average"]="302", ["minimum"]="127", ["maximum"]="400", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22010,7 +22152,7 @@ _G.MARKET_TRACKER_SDK.shard_6223 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="217", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="397", ["minimum"]="27", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22032,7 +22174,10 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="193", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="580"
+                  ["average"]="193", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="580"
+                },
+                ["02"] = {
+                  ["average"]="499", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1045"
                 }
               }
             },
@@ -22040,7 +22185,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="179", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="321"
+                  ["date"]="2026-02-24", ["average"]="211", ["minimum"]="121", ["maximum"]="321", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22048,7 +22193,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="152", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="61", ["maximum"]="227"
+                  ["date"]="2026-02-24", ["average"]="209", ["minimum"]="27", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22056,7 +22201,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="142", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="97", ["maximum"]="200"
+                  ["date"]="2026-02-24", ["average"]="194", ["minimum"]="97", ["maximum"]="330", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22073,7 +22218,10 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3290", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="6000"
+                  ["average"]="3290", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="6000"
+                },
+                ["04"] = {
+                  ["average"]="3597", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="22043"
                 }
               }
             },
@@ -22081,7 +22229,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6344", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="5962", ["minimum"]="2000", ["maximum"]="10039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22089,7 +22237,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5248", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1139", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="5262", ["minimum"]="1000", ["maximum"]="8039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22097,7 +22245,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5213", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="9398"
+                  ["date"]="2026-02-24", ["average"]="4398", ["minimum"]="1139", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22114,31 +22262,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="212620", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="75000", ["maximum"]="400000"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="70500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="140000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="56500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="33000", ["maximum"]="100000"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="82500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="100000"
+                  ["average"]="212620", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="75000", ["maximum"]="400000"
                 }
               }
             }
@@ -22155,7 +22279,10 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9823", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="13000"
+                  ["average"]="9823", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="13000"
+                },
+                ["04"] = {
+                  ["average"]="11789", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="13200"
                 }
               }
             },
@@ -22163,7 +22290,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13597", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="14853", ["minimum"]="8039", ["maximum"]="20039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22171,7 +22298,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9833", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8500", ["maximum"]="11000"
+                  ["date"]="2026-02-24", ["average"]="10500", ["minimum"]="10000", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22179,7 +22306,7 @@ _G.MARKET_TRACKER_SDK.shard_6224 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10396", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2200", ["maximum"]="14000"
+                  ["date"]="2026-02-24", ["average"]="11461", ["minimum"]="10000", ["maximum"]="14000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22203,6 +22330,9 @@ _G.MARKET_TRACKER_SDK.shard_6225 = function (s3)
                 ["--"] = {
                   ["average"]="41047", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="74189"
                 },
+                ["04"] = {
+                  ["average"]="10630", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="3250", ["maximum"]="10632"
+                },
                 ["05"] = {
                   ["average"]="72095", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="70000", ["maximum"]="74189"
                 }
@@ -22211,6 +22341,9 @@ _G.MARKET_TRACKER_SDK.shard_6225 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="21290", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="74189"
+                },
+                ["04"] = {
+                  ["average"]="14340", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="3250", ["maximum"]="27500"
                 }
               },
               ["06"] = {
@@ -22248,6 +22381,26 @@ _G.MARKET_TRACKER_SDK.shard_6225 = function (s3)
           })[tostring(platform)]
         end
       })[tostring(internalId)]
+    end,
+    ["84"] = function (internalId)
+      return ({
+        ["1222485226"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="439", ["date"]="2024-11-14", ["commonQuantity"]="1", ["minimum"]="399", ["maximum"]="439"
+                },
+                ["03"] = {
+                  ["average"]="439", ["date"]="2024-11-14", ["commonQuantity"]="1", ["minimum"]="399", ["maximum"]="439"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
     end
   })[tostring(s3)]
 end
@@ -22259,6 +22412,14 @@ _G.MARKET_TRACKER_SDK.shard_6227 = function (s3)
         ["89487226"] = function (platform)
           return ({
             -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="5803", ["date"]="2024-11-15", ["commonQuantity"]="1", ["minimum"]="5275", ["maximum"]="5803"
+                }
+              }
+            },
             ["ps-eu"] = {
               ["31"] = {
                 -- Qualities
@@ -22267,6 +22428,31 @@ _G.MARKET_TRACKER_SDK.shard_6227 = function (s3)
                 },
                 ["03"] = {
                   ["average"]="6000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="6000"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end
+  })[tostring(s3)]
+end
+_G.MARKET_TRACKER_SDK = _G.MARKET_TRACKER_SDK or {}
+_G.MARKET_TRACKER_SDK.shard_6228 = function (s3)
+  return ({
+    ["82"] = function (internalId)
+      return ({
+        ["3429288226"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="33000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="33000"
+                },
+                ["01"] = {
+                  ["average"]="33000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="33000"
                 }
               }
             }
@@ -22288,7 +22474,10 @@ _G.MARKET_TRACKER_SDK.shard_6229 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2843", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="18060"
+                  ["average"]="2843", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="18060"
+                },
+                ["02"] = {
+                  ["average"]="1100", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="1000", ["maximum"]="1100"
                 }
               }
             },
@@ -22296,7 +22485,7 @@ _G.MARKET_TRACKER_SDK.shard_6229 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2260", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2260", ["maximum"]="2260"
+                  ["date"]="2026-02-24", ["average"]="2260", ["minimum"]="2260", ["maximum"]="2260", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22304,7 +22493,7 @@ _G.MARKET_TRACKER_SDK.shard_6229 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="8000", ["minimum"]="8000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22322,6 +22511,9 @@ _G.MARKET_TRACKER_SDK.shard_6229 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1845", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="840", ["maximum"]="3240"
+                },
+                ["03"] = {
+                  ["average"]="1546", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="6050"
                 }
               },
               ["01"] = {
@@ -22386,7 +22578,10 @@ _G.MARKET_TRACKER_SDK.shard_6230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27651", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="24000", ["maximum"]="29999"
+                  ["average"]="27651", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="24000", ["maximum"]="29999"
+                },
+                ["05"] = {
+                  ["average"]="33423", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="99000"
                 }
               }
             },
@@ -22394,7 +22589,7 @@ _G.MARKET_TRACKER_SDK.shard_6230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32009", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="29086", ["maximum"]="35000"
+                  ["date"]="2026-02-24", ["average"]="30483", ["minimum"]="20801", ["maximum"]="42000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22402,7 +22597,7 @@ _G.MARKET_TRACKER_SDK.shard_6230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="28764", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="19500", ["maximum"]="32000"
+                  ["date"]="2026-02-24", ["average"]="27688", ["minimum"]="19500", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22410,7 +22605,7 @@ _G.MARKET_TRACKER_SDK.shard_6230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="24533", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="30000", ["minimum"]="20000", ["maximum"]="78000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22445,10 +22640,19 @@ _G.MARKET_TRACKER_SDK.shard_6230 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="22206", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="100000"
+                  ["average"]="34044", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="100000"
+                },
+                ["01"] = {
+                  ["average"]="7138", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="22000"
+                },
+                ["03"] = {
+                  ["average"]="5500", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="22000"
                 },
                 ["04"] = {
                   ["average"]="750", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="750"
+                },
+                ["05"] = {
+                  ["average"]="11208", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="22000"
                 }
               }
             },
@@ -22507,7 +22711,10 @@ _G.MARKET_TRACKER_SDK.shard_6231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3813", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="6512"
+                  ["average"]="3813", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="6512"
+                },
+                ["03"] = {
+                  ["average"]="4113", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1130", ["maximum"]="11033"
                 }
               }
             },
@@ -22515,7 +22722,7 @@ _G.MARKET_TRACKER_SDK.shard_6231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7016", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="20000", ["minimum"]="20000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22523,7 +22730,7 @@ _G.MARKET_TRACKER_SDK.shard_6231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7429", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="9581", ["minimum"]="5744", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22531,7 +22738,7 @@ _G.MARKET_TRACKER_SDK.shard_6231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3612", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1230", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="4957", ["minimum"]="1000", ["maximum"]="9000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22548,7 +22755,10 @@ _G.MARKET_TRACKER_SDK.shard_6231 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="726", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="1500"
+                  ["average"]="726", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="1500"
+                },
+                ["01"] = {
+                  ["average"]="818", ["date"]="2025-11-13", ["commonQuantity"]="12", ["minimum"]="265", ["maximum"]="818"
                 }
               }
             }
@@ -22570,7 +22780,10 @@ _G.MARKET_TRACKER_SDK.shard_6232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9837", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5838", ["maximum"]="23000"
+                  ["average"]="9837", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5838", ["maximum"]="23000"
+                },
+                ["04"] = {
+                  ["average"]="14310", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="33000"
                 }
               }
             },
@@ -22578,7 +22791,7 @@ _G.MARKET_TRACKER_SDK.shard_6232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14079", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="41225"
+                  ["date"]="2026-02-24", ["average"]="8575", ["minimum"]="5000", ["maximum"]="12129", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22586,7 +22799,7 @@ _G.MARKET_TRACKER_SDK.shard_6232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11223", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="11933", ["minimum"]="8020", ["maximum"]="21500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22594,7 +22807,7 @@ _G.MARKET_TRACKER_SDK.shard_6232 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14304", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="16115", ["minimum"]="9000", ["maximum"]="21457", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22616,7 +22829,10 @@ _G.MARKET_TRACKER_SDK.shard_6233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="425", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="600"
+                  ["average"]="425", ["date"]="2026-03-29", ["commonQuantity"]="50", ["minimum"]="400", ["maximum"]="600"
+                },
+                ["01"] = {
+                  ["average"]="358", ["date"]="2025-11-13", ["commonQuantity"]="102", ["minimum"]="302", ["maximum"]="440"
                 }
               }
             },
@@ -22624,7 +22840,7 @@ _G.MARKET_TRACKER_SDK.shard_6233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="354", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9", ["maximum"]="900"
+                  ["date"]="2026-02-24", ["average"]="9", ["minimum"]="9", ["maximum"]="9", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22632,7 +22848,7 @@ _G.MARKET_TRACKER_SDK.shard_6233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="244", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="29", ["maximum"]="333"
+                  ["date"]="2026-02-24", ["average"]="244", ["minimum"]="29", ["maximum"]="333", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22640,7 +22856,7 @@ _G.MARKET_TRACKER_SDK.shard_6233 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="369", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="325", ["maximum"]="450"
+                  ["date"]="2026-02-24", ["average"]="330", ["minimum"]="222", ["maximum"]="400", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22658,6 +22874,9 @@ _G.MARKET_TRACKER_SDK.shard_6233 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1532", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1228", ["maximum"]="2246"
+                },
+                ["02"] = {
+                  ["average"]="248", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="225", ["maximum"]="361"
                 }
               },
               ["08"] = {
@@ -22728,7 +22947,10 @@ _G.MARKET_TRACKER_SDK.shard_6234 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="974", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="2230"
+                  ["average"]="974", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="2230"
+                },
+                ["03"] = {
+                  ["average"]="1178", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="5720"
                 }
               }
             },
@@ -22736,7 +22958,7 @@ _G.MARKET_TRACKER_SDK.shard_6234 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="909", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="270", ["maximum"]="1500"
+                  ["date"]="2026-02-24", ["average"]="1155", ["minimum"]="750", ["maximum"]="1500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22744,7 +22966,7 @@ _G.MARKET_TRACKER_SDK.shard_6234 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4133", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="7000"
+                  ["date"]="2026-02-24", ["average"]="4133", ["minimum"]="2000", ["maximum"]="7000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -22752,7 +22974,7 @@ _G.MARKET_TRACKER_SDK.shard_6234 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="935", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="269", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="720", ["minimum"]="130", ["maximum"]="1030", ["commonQuantity"]="1"
                 }
               }
             }
@@ -22770,6 +22992,9 @@ _G.MARKET_TRACKER_SDK.shard_6234 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="903", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="162", ["maximum"]="2300"
+                },
+                ["03"] = {
+                  ["average"]="884", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="5764"
                 }
               },
               ["04"] = {
@@ -22906,6 +23131,15 @@ _G.MARKET_TRACKER_SDK.shard_6235 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1711", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="5090"
+                },
+                ["03"] = {
+                  ["average"]="3050", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="44000"
+                },
+                ["04"] = {
+                  ["average"]="2454", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="44000"
+                },
+                ["05"] = {
+                  ["average"]="44000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="44000"
                 }
               },
               ["04"] = {
@@ -23128,7 +23362,10 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4832", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1050", ["maximum"]="6412"
+                  ["average"]="4832", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1050", ["maximum"]="6412"
+                },
+                ["03"] = {
+                  ["average"]="7078", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6383", ["maximum"]="7480"
                 }
               }
             },
@@ -23136,7 +23373,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8846", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2030", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="8892", ["minimum"]="2230", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -23144,7 +23381,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11680", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="14828", ["minimum"]="280", ["maximum"]="29030", ["commonQuantity"]="1"
                 }
               }
             }
@@ -23183,7 +23420,10 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3627", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5030"
+                  ["average"]="3627", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5030"
+                },
+                ["03"] = {
+                  ["average"]="5137", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="22000"
                 }
               }
             },
@@ -23191,7 +23431,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6813", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4750", ["maximum"]="10999"
+                  ["date"]="2026-02-24", ["average"]="7750", ["minimum"]="5000", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -23199,7 +23439,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4292", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="6999"
+                  ["date"]="2026-02-24", ["average"]="4500", ["minimum"]="2000", ["maximum"]="6999", ["commonQuantity"]="1"
                 }
               }
             },
@@ -23207,7 +23447,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4633", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="5528", ["minimum"]="2000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -23234,6 +23474,9 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1974", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3084"
+                },
+                ["02"] = {
+                  ["average"]="268", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="244", ["maximum"]="268"
                 }
               }
             },
@@ -23287,7 +23530,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="77030", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="60000", ["maximum"]="96762"
+                  ["average"]="77030", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="60000", ["maximum"]="96762"
                 }
               }
             },
@@ -23295,7 +23538,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="64016", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="78000"
+                  ["date"]="2026-02-24", ["average"]="74347", ["minimum"]="59800", ["maximum"]="90000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -23303,7 +23546,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="70651", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="112960"
+                  ["date"]="2026-02-24", ["average"]="87685", ["minimum"]="70000", ["maximum"]="150000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -23311,7 +23554,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="80393", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="131000"
+                  ["date"]="2026-02-24", ["average"]="87244", ["minimum"]="70000", ["maximum"]="115000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -23407,12 +23650,27 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
                 },
                 ["04"] = {
                   ["average"]="3063", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="183", ["maximum"]="5884"
+                },
+                ["05"] = {
+                  ["average"]="2310", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="2100", ["maximum"]="2398"
                 }
               },
               ["--"] = {
                 -- Qualities
                 ["--"] = {
                   ["average"]="2518", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="183", ["maximum"]="12903"
+                },
+                ["02"] = {
+                  ["average"]="1327", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="24200"
+                },
+                ["03"] = {
+                  ["average"]="1636", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="24200"
+                },
+                ["04"] = {
+                  ["average"]="11466", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="24200"
+                },
+                ["05"] = {
+                  ["average"]="2310", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="24200"
                 }
               },
               ["04"] = {
@@ -23864,6 +24122,15 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="6894", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="120000"
+                },
+                ["02"] = {
+                  ["average"]="21439", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1453", ["maximum"]="43058"
+                },
+                ["03"] = {
+                  ["average"]="6473", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1453", ["maximum"]="43058"
+                },
+                ["04"] = {
+                  ["average"]="13320", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1453", ["maximum"]="43058"
                 }
               },
               ["01"] = {
@@ -24060,7 +24327,10 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="50162", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="60000"
+                  ["average"]="50162", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="60000"
+                },
+                ["05"] = {
+                  ["average"]="110000", ["date"]="2025-09-02", ["commonQuantity"]="3", ["minimum"]="100000", ["maximum"]="110000"
                 }
               }
             },
@@ -24068,7 +24338,7 @@ _G.MARKET_TRACKER_SDK.shard_6236 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="40000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="40000"
+                  ["date"]="2026-02-24", ["average"]="40000", ["minimum"]="40000", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24090,7 +24360,10 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14227", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="8700", ["maximum"]="18906"
+                  ["average"]="14227", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="8700", ["maximum"]="18906"
+                },
+                ["04"] = {
+                  ["average"]="33704", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="67143"
                 }
               }
             },
@@ -24098,7 +24371,7 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="28257", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="13039", ["maximum"]="39999"
+                  ["date"]="2026-02-24", ["average"]="27676", ["minimum"]="13039", ["maximum"]="39999", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24106,7 +24379,7 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="22000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="22000", ["maximum"]="22000"
+                  ["date"]="2026-02-24", ["average"]="22000", ["minimum"]="22000", ["maximum"]="22000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24114,7 +24387,7 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="25850", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="92250"
+                  ["date"]="2026-02-24", ["average"]="30000", ["minimum"]="10000", ["maximum"]="92250", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24174,7 +24447,10 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2", ["maximum"]="320"
+                  ["average"]="11", ["date"]="2026-03-29", ["commonQuantity"]="10", ["minimum"]="2", ["maximum"]="320"
+                },
+                ["01"] = {
+                  ["average"]="21", ["date"]="2025-11-02", ["commonQuantity"]="200", ["minimum"]="0", ["maximum"]="275"
                 }
               }
             },
@@ -24182,7 +24458,7 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1", ["maximum"]="18"
+                  ["date"]="2026-02-24", ["average"]="9", ["minimum"]="2", ["maximum"]="24", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24190,7 +24466,7 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="20"
+                  ["date"]="2026-02-24", ["average"]="9", ["minimum"]="1", ["maximum"]="50", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24198,7 +24474,7 @@ _G.MARKET_TRACKER_SDK.shard_6237 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="153", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="18", ["minimum"]="1", ["maximum"]="100", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24230,6 +24506,9 @@ _G.MARKET_TRACKER_SDK.shard_6238 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="73", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="73", ["maximum"]="73"
+                },
+                ["04"] = {
+                  ["average"]="2750", ["date"]="2025-07-31", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="2750"
                 }
               }
             },
@@ -24291,7 +24570,10 @@ _G.MARKET_TRACKER_SDK.shard_6238 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5590", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="13027"
+                  ["average"]="5590", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="13027"
+                },
+                ["02"] = {
+                  ["average"]="13576", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="15400"
                 }
               }
             },
@@ -24299,7 +24581,7 @@ _G.MARKET_TRACKER_SDK.shard_6238 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3568", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2527", ["maximum"]="5527"
+                  ["date"]="2026-02-24", ["average"]="3757", ["minimum"]="3000", ["maximum"]="5527", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24321,7 +24603,10 @@ _G.MARKET_TRACKER_SDK.shard_6239 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="640123", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="500000", ["maximum"]="864803"
+                  ["average"]="640123", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="500000", ["maximum"]="864803"
+                },
+                ["04"] = {
+                  ["average"]="825000", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="750000", ["maximum"]="825000"
                 }
               }
             },
@@ -24329,7 +24614,7 @@ _G.MARKET_TRACKER_SDK.shard_6239 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="50000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="50000", ["minimum"]="50000", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24337,7 +24622,7 @@ _G.MARKET_TRACKER_SDK.shard_6239 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="36333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="24000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="24000", ["minimum"]="24000", ["maximum"]="24000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24350,6 +24635,14 @@ _G.MARKET_TRACKER_SDK.shard_6239 = function (s3)
         ["2906659326"] = function (platform)
           return ({
             -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="4625", ["date"]="2024-11-15", ["commonQuantity"]="1", ["minimum"]="4205", ["maximum"]="4625"
+                }
+              }
+            },
             ["xbox-eu"] = {
               ["23"] = {
                 -- Qualities
@@ -24379,7 +24672,10 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="37", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="26", ["maximum"]="140"
+                  ["average"]="37", ["date"]="2026-03-29", ["commonQuantity"]="200", ["minimum"]="30", ["maximum"]="55"
+                },
+                ["02"] = {
+                  ["average"]="36", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="20", ["maximum"]="110"
                 }
               }
             },
@@ -24387,7 +24683,7 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="40", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="28", ["maximum"]="50"
+                  ["date"]="2026-02-24", ["average"]="39", ["minimum"]="35", ["maximum"]="50", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24395,7 +24691,7 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="31", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="26", ["maximum"]="100"
+                  ["date"]="2026-02-24", ["average"]="34", ["minimum"]="6", ["maximum"]="67", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24403,7 +24699,7 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="136"
+                  ["date"]="2026-02-24", ["average"]="34", ["minimum"]="24", ["maximum"]="66", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24420,7 +24716,10 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8956", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1430", ["maximum"]="17500"
+                  ["average"]="8956", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1430", ["maximum"]="17500"
+                },
+                ["03"] = {
+                  ["average"]="3876", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3305", ["maximum"]="4423"
                 }
               }
             },
@@ -24428,7 +24727,7 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8633", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5478", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="8213", ["minimum"]="5478", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24436,7 +24735,7 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3320", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="930", ["maximum"]="6000"
+                  ["date"]="2026-02-24", ["average"]="930", ["minimum"]="930", ["maximum"]="930", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24444,7 +24743,7 @@ _G.MARKET_TRACKER_SDK.shard_6240 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6397", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="5457", ["minimum"]="300", ["maximum"]="9900", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24466,7 +24765,10 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5880", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="18000"
+                  ["average"]="5880", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="18000"
+                },
+                ["05"] = {
+                  ["average"]="9893", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="27500"
                 }
               }
             },
@@ -24474,7 +24776,7 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6336", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="5689", ["minimum"]="3000", ["maximum"]="9900", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24482,7 +24784,7 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9128", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="9586", ["minimum"]="1000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24490,7 +24792,7 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10562", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="9153", ["minimum"]="4000", ["maximum"]="25000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24507,7 +24809,10 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16068", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6865", ["maximum"]="30000"
+                  ["average"]="16068", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6865", ["maximum"]="30000"
+                },
+                ["04"] = {
+                  ["average"]="15788", ["date"]="2025-09-02", ["commonQuantity"]="1", ["minimum"]="14353", ["maximum"]="15788"
                 }
               }
             },
@@ -24515,7 +24820,7 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20370", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20370", ["maximum"]="20370"
+                  ["date"]="2026-02-24", ["average"]="20370", ["minimum"]="20370", ["maximum"]="20370", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24594,6 +24899,18 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="8742", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="100156"
+                },
+                ["02"] = {
+                  ["average"]="2722", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="220000"
+                },
+                ["03"] = {
+                  ["average"]="5036", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="220000"
+                },
+                ["04"] = {
+                  ["average"]="11051", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="220000"
+                },
+                ["05"] = {
+                  ["average"]="148060", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="220000"
                 }
               }
             },
@@ -24704,6 +25021,15 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="2842", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="12156"
+                },
+                ["03"] = {
+                  ["average"]="5489", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1153", ["maximum"]="110000"
+                },
+                ["04"] = {
+                  ["average"]="5532", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1153", ["maximum"]="110000"
+                },
+                ["05"] = {
+                  ["average"]="110000", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1153", ["maximum"]="110000"
                 }
               }
             },
@@ -24802,6 +25128,12 @@ _G.MARKET_TRACKER_SDK.shard_6241 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1082", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="3000"
+                },
+                ["03"] = {
+                  ["average"]="11000", ["date"]="2025-08-30", ["commonQuantity"]="1", ["minimum"]="1753", ["maximum"]="11000"
+                },
+                ["04"] = {
+                  ["average"]="10996", ["date"]="2025-08-30", ["commonQuantity"]="1", ["minimum"]="1753", ["maximum"]="11000"
                 }
               }
             },
@@ -24889,7 +25221,10 @@ _G.MARKET_TRACKER_SDK.shard_6242 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5964", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2650", ["maximum"]="15000"
+                  ["average"]="5964", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2650", ["maximum"]="15000"
+                },
+                ["03"] = {
+                  ["average"]="5665", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="5665"
                 }
               }
             },
@@ -24897,7 +25232,7 @@ _G.MARKET_TRACKER_SDK.shard_6242 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14010", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6202", ["maximum"]="26829"
+                  ["date"]="2026-02-24", ["average"]="14010", ["minimum"]="6202", ["maximum"]="26829", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24905,7 +25240,7 @@ _G.MARKET_TRACKER_SDK.shard_6242 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5436", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="6400"
+                  ["date"]="2026-02-24", ["average"]="5436", ["minimum"]="150", ["maximum"]="6400", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24927,7 +25262,10 @@ _G.MARKET_TRACKER_SDK.shard_6243 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5707", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["average"]="5707", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                },
+                ["05"] = {
+                  ["average"]="6884", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="11000"
                 }
               }
             },
@@ -24935,7 +25273,7 @@ _G.MARKET_TRACKER_SDK.shard_6243 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7172", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="8843"
+                  ["date"]="2026-02-24", ["average"]="8843", ["minimum"]="8843", ["maximum"]="8843", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24943,15 +25281,7 @@ _G.MARKET_TRACKER_SDK.shard_6243 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7932", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="11445"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="8000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="7445", ["minimum"]="1000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -24968,7 +25298,10 @@ _G.MARKET_TRACKER_SDK.shard_6243 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16584", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="21449"
+                  ["average"]="16584", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="21449"
+                },
+                ["04"] = {
+                  ["average"]="8202", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="22000"
                 }
               }
             },
@@ -24976,7 +25309,7 @@ _G.MARKET_TRACKER_SDK.shard_6243 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12787", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6039", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="13714", ["minimum"]="9900", ["maximum"]="20039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24984,7 +25317,7 @@ _G.MARKET_TRACKER_SDK.shard_6243 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8696", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6039", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="9032", ["minimum"]="5039", ["maximum"]="14357", ["commonQuantity"]="1"
                 }
               }
             },
@@ -24992,7 +25325,7 @@ _G.MARKET_TRACKER_SDK.shard_6243 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12621", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="15184"
+                  ["date"]="2026-02-24", ["average"]="14184", ["minimum"]="10039", ["maximum"]="19800", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25014,7 +25347,10 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20782", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="25000"
+                  ["average"]="20782", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="25000"
+                },
+                ["04"] = {
+                  ["average"]="32763", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="82500"
                 }
               }
             },
@@ -25022,7 +25358,7 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="28549", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="21000", ["maximum"]="38000"
+                  ["date"]="2026-02-24", ["average"]="28549", ["minimum"]="21000", ["maximum"]="38000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25030,7 +25366,7 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="23275", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="16039", ["maximum"]="33000"
+                  ["date"]="2026-02-24", ["average"]="23130", ["minimum"]="16039", ["maximum"]="33000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25038,7 +25374,7 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="29799", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="21875", ["maximum"]="60039"
+                  ["date"]="2026-02-24", ["average"]="24222", ["minimum"]="21875", ["maximum"]="28000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25055,7 +25391,10 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="682", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="139", ["maximum"]="1000"
+                  ["average"]="682", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="139", ["maximum"]="1000"
+                },
+                ["04"] = {
+                  ["average"]="1045", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="39", ["maximum"]="8800"
                 }
               }
             },
@@ -25063,7 +25402,7 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="481", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="139", ["maximum"]="775"
+                  ["date"]="2026-02-24", ["average"]="584", ["minimum"]="100", ["maximum"]="1100", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25071,7 +25410,7 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1056", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="1045", ["minimum"]="300", ["maximum"]="2900", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25079,7 +25418,7 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1070", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="89", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="784", ["minimum"]="400", ["maximum"]="1039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25096,23 +25435,10 @@ _G.MARKET_TRACKER_SDK.shard_6244 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6889", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="14000"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="9000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="9000"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="4500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="4500"
+                  ["average"]="6889", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="14000"
+                },
+                ["04"] = {
+                  ["average"]="9889", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="44000"
                 }
               }
             }
@@ -25135,6 +25461,15 @@ _G.MARKET_TRACKER_SDK.shard_6245 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="2203", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="15000"
+                },
+                ["02"] = {
+                  ["average"]="110000", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="110000"
+                },
+                ["03"] = {
+                  ["average"]="25718", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="110000"
+                },
+                ["04"] = {
+                  ["average"]="10193", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="110000"
                 }
               },
               ["01"] = {
@@ -25400,7 +25735,10 @@ _G.MARKET_TRACKER_SDK.shard_6245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20364", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="18657", ["maximum"]="25000"
+                  ["average"]="20364", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="18657", ["maximum"]="25000"
+                },
+                ["04"] = {
+                  ["average"]="36537", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="119943"
                 }
               }
             },
@@ -25408,7 +25746,7 @@ _G.MARKET_TRACKER_SDK.shard_6245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="28464", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="45039"
+                  ["date"]="2026-02-24", ["average"]="31587", ["minimum"]="15000", ["maximum"]="50039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25416,7 +25754,7 @@ _G.MARKET_TRACKER_SDK.shard_6245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="22300", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="35000"
+                  ["date"]="2026-02-24", ["average"]="25608", ["minimum"]="15000", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25424,7 +25762,7 @@ _G.MARKET_TRACKER_SDK.shard_6245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="19504", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="35039"
+                  ["date"]="2026-02-24", ["average"]="22791", ["minimum"]="12039", ["maximum"]="40136", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25441,7 +25779,10 @@ _G.MARKET_TRACKER_SDK.shard_6245 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="15760", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="12000", ["maximum"]="20000"
+                  ["average"]="15760", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="12000", ["maximum"]="20000"
+                },
+                ["04"] = {
+                  ["average"]="16500", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="16500"
                 }
               }
             }
@@ -25463,7 +25804,10 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3594", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="5434"
+                  ["average"]="3594", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="5434"
+                },
+                ["02"] = {
+                  ["average"]="3279", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="2809", ["maximum"]="14300"
                 }
               }
             },
@@ -25471,7 +25815,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3613", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3613", ["maximum"]="3613"
+                  ["date"]="2026-02-24", ["average"]="3613", ["minimum"]="3613", ["maximum"]="3613", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25479,7 +25823,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="500", ["minimum"]="500", ["maximum"]="500", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25496,7 +25840,10 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16024", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="12000", ["maximum"]="19000"
+                  ["average"]="16024", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="12000", ["maximum"]="19000"
+                },
+                ["04"] = {
+                  ["average"]="37017", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="20039", ["maximum"]="605000"
                 }
               }
             },
@@ -25504,7 +25851,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="26991", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="11039", ["maximum"]="55000"
+                  ["date"]="2026-02-24", ["average"]="31316", ["minimum"]="17400", ["maximum"]="55000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25512,7 +25859,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="26103", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="28770", ["minimum"]="10039", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25520,7 +25867,24 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="18244", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="26000"
+                  ["date"]="2026-02-24", ["average"]="25116", ["minimum"]="12000", ["maximum"]="75000", ["commonQuantity"]="1"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
+    ["62"] = function (internalId)
+      return ({
+        ["3475266426"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="16", ["date"]="2024-11-15", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="16"
                 }
               }
             }
@@ -25537,7 +25901,10 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10238", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6675", ["maximum"]="12423"
+                  ["average"]="10238", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6675", ["maximum"]="12423"
+                },
+                ["05"] = {
+                  ["average"]="12833", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5434", ["maximum"]="13200"
                 }
               }
             },
@@ -25545,7 +25912,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5675", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5675", ["maximum"]="5675"
+                  ["date"]="2026-02-24", ["average"]="5675", ["minimum"]="5675", ["maximum"]="5675", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25553,7 +25920,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="15000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="15000", ["minimum"]="15000", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25570,7 +25937,10 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="65361", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="57034", ["maximum"]="100000"
+                  ["average"]="65361", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="57034", ["maximum"]="100000"
+                },
+                ["05"] = {
+                  ["average"]="79365", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="52000", ["maximum"]="98450"
                 }
               }
             },
@@ -25578,7 +25948,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="62556", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="60045", ["maximum"]="63811"
+                  ["date"]="2026-02-24", ["average"]="63811", ["minimum"]="63811", ["maximum"]="63811", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25586,7 +25956,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="46975", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="45000", ["maximum"]="48950"
+                  ["date"]="2026-02-24", ["average"]="46975", ["minimum"]="45000", ["maximum"]="48950", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25594,7 +25964,7 @@ _G.MARKET_TRACKER_SDK.shard_6246 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="44059", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1045", ["maximum"]="63000"
+                  ["date"]="2026-02-24", ["average"]="62596", ["minimum"]="62192", ["maximum"]="63000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25686,6 +26056,12 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="3731", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="10000"
+                },
+                ["03"] = {
+                  ["average"]="7852", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1153", ["maximum"]="8968"
+                },
+                ["04"] = {
+                  ["average"]="5614", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1153", ["maximum"]="8968"
                 }
               },
               ["04"] = {
@@ -25843,7 +26219,10 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4770", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="7999"
+                  ["average"]="4770", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="7999"
+                },
+                ["05"] = {
+                  ["average"]="10779", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="66000"
                 }
               }
             },
@@ -25851,7 +26230,7 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6800", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="14900"
+                  ["date"]="2026-02-24", ["average"]="8859", ["minimum"]="4000", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25859,7 +26238,7 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5453", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="5828", ["minimum"]="2000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25867,7 +26246,7 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6580", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="7452", ["minimum"]="100", ["maximum"]="25000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25884,7 +26263,10 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="17946", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="7039", ["maximum"]="20971"
+                  ["average"]="17946", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="7039", ["maximum"]="20971"
+                },
+                ["04"] = {
+                  ["average"]="39684", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="22000", ["maximum"]="330000"
                 }
               }
             },
@@ -25892,7 +26274,7 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="23100", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="55000"
+                  ["date"]="2026-02-24", ["average"]="22280", ["minimum"]="22000", ["maximum"]="23000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25900,7 +26282,7 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="24946", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9900", ["maximum"]="50039"
+                  ["date"]="2026-02-24", ["average"]="29970", ["minimum"]="9900", ["maximum"]="50039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25908,7 +26290,7 @@ _G.MARKET_TRACKER_SDK.shard_6247 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27604", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="66039"
+                  ["date"]="2026-02-24", ["average"]="29473", ["minimum"]="20000", ["maximum"]="66039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25930,7 +26312,10 @@ _G.MARKET_TRACKER_SDK.shard_6248 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5325", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="8000"
+                  ["average"]="5325", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="8000"
+                },
+                ["03"] = {
+                  ["average"]="9426", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="13200"
                 }
               }
             },
@@ -25938,7 +26323,7 @@ _G.MARKET_TRACKER_SDK.shard_6248 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7412", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5725", ["maximum"]="9000"
+                  ["date"]="2026-02-24", ["average"]="7412", ["minimum"]="5725", ["maximum"]="9000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25946,15 +26331,7 @@ _G.MARKET_TRACKER_SDK.shard_6248 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6289", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4150", ["maximum"]="8063"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="14999", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="14999", ["maximum"]="14999"
+                  ["date"]="2026-02-24", ["average"]="6315", ["minimum"]="4150", ["maximum"]="8063", ["commonQuantity"]="1"
                 }
               }
             }
@@ -25976,7 +26353,10 @@ _G.MARKET_TRACKER_SDK.shard_6252 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9583", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="11967"
+                  ["average"]="9583", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="11967"
+                },
+                ["04"] = {
+                  ["average"]="13174", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1039", ["maximum"]="88000"
                 }
               }
             },
@@ -25984,7 +26364,7 @@ _G.MARKET_TRACKER_SDK.shard_6252 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="11715", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="20039"
+                  ["date"]="2026-02-24", ["average"]="11834", ["minimum"]="10000", ["maximum"]="15507", ["commonQuantity"]="1"
                 }
               }
             },
@@ -25992,7 +26372,7 @@ _G.MARKET_TRACKER_SDK.shard_6252 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10305", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="939", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="11617", ["minimum"]="939", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -26000,7 +26380,27 @@ _G.MARKET_TRACKER_SDK.shard_6252 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8527", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="17339"
+                  ["date"]="2026-02-24", ["average"]="11136", ["minimum"]="6000", ["maximum"]="20000", ["commonQuantity"]="1"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
+    ["67"] = function (internalId)
+      return ({
+        ["3292762526"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="359", ["date"]="2024-11-14", ["commonQuantity"]="1", ["minimum"]="326", ["maximum"]="359"
+                },
+                ["03"] = {
+                  ["average"]="359", ["date"]="2024-11-14", ["commonQuantity"]="1", ["minimum"]="326", ["maximum"]="359"
                 }
               }
             }
@@ -26023,6 +26423,9 @@ _G.MARKET_TRACKER_SDK.shard_6253 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="119", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="138"
+                },
+                ["02"] = {
+                  ["average"]="1134", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="274", ["maximum"]="1925"
                 }
               },
               ["02"] = {
@@ -26181,6 +26584,15 @@ _G.MARKET_TRACKER_SDK.shard_6253 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="645", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1621"
+                },
+                ["02"] = {
+                  ["average"]="296", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="120", ["maximum"]="4568"
+                },
+                ["03"] = {
+                  ["average"]="1186", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="120", ["maximum"]="4568"
+                },
+                ["04"] = {
+                  ["average"]="1294", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="120", ["maximum"]="4568"
                 }
               },
               ["04"] = {
@@ -26469,6 +26881,26 @@ _G.MARKET_TRACKER_SDK.shard_6253 = function (s3)
           })[tostring(platform)]
         end
       })[tostring(internalId)]
+    end,
+    ["74"] = function (internalId)
+      return ({
+        ["1141473526"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="82", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="69", ["maximum"]="82"
+                },
+                ["03"] = {
+                  ["average"]="82", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="69", ["maximum"]="82"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
     end
   })[tostring(s3)]
 end
@@ -26566,6 +26998,15 @@ _G.MARKET_TRACKER_SDK.shard_6254 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1613", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="180", ["maximum"]="11000"
+                },
+                ["02"] = {
+                  ["average"]="702", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="274", ["maximum"]="8800"
+                },
+                ["03"] = {
+                  ["average"]="1591", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="274", ["maximum"]="8800"
+                },
+                ["04"] = {
+                  ["average"]="4231", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="274", ["maximum"]="8800"
                 }
               },
               ["04"] = {
@@ -26849,6 +27290,9 @@ _G.MARKET_TRACKER_SDK.shard_6255 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="498", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="750"
+                },
+                ["02"] = {
+                  ["average"]="990", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="990"
                 }
               }
             }
@@ -26891,7 +27335,10 @@ _G.MARKET_TRACKER_SDK.shard_6255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="36110", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="26000", ["maximum"]="50000"
+                  ["average"]="36110", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="26000", ["maximum"]="50000"
+                },
+                ["04"] = {
+                  ["average"]="27456", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="77000"
                 }
               }
             },
@@ -26899,7 +27346,7 @@ _G.MARKET_TRACKER_SDK.shard_6255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="40556", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="57000"
+                  ["date"]="2026-02-24", ["average"]="44000", ["minimum"]="20000", ["maximum"]="57000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -26907,7 +27354,7 @@ _G.MARKET_TRACKER_SDK.shard_6255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27788", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="40039"
+                  ["date"]="2026-02-24", ["average"]="36380", ["minimum"]="10039", ["maximum"]="69105", ["commonQuantity"]="1"
                 }
               }
             },
@@ -26915,7 +27362,7 @@ _G.MARKET_TRACKER_SDK.shard_6255 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="38622", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20039", ["maximum"]="49580"
+                  ["date"]="2026-02-24", ["average"]="47308", ["minimum"]="15000", ["maximum"]="72097", ["commonQuantity"]="1"
                 }
               }
             }
@@ -26937,7 +27384,10 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="98168", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="54000", ["maximum"]="200045"
+                  ["average"]="98168", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="54000", ["maximum"]="200045"
+                },
+                ["05"] = {
+                  ["average"]="103395", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="70000", ["maximum"]="103400"
                 }
               }
             },
@@ -26945,7 +27395,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="593333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="390000", ["maximum"]="1000000"
+                  ["date"]="2026-02-24", ["average"]="390000", ["minimum"]="390000", ["maximum"]="390000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -26953,7 +27403,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="86000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="55000", ["maximum"]="100000"
+                  ["date"]="2026-02-24", ["average"]="93750", ["minimum"]="75000", ["maximum"]="100000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27016,7 +27466,10 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="229", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="465"
+                  ["average"]="229", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="465"
+                },
+                ["02"] = {
+                  ["average"]="298", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="12", ["maximum"]="1100"
                 }
               }
             },
@@ -27024,7 +27477,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="180", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="427"
+                  ["date"]="2026-02-24", ["average"]="208", ["minimum"]="27", ["maximum"]="400", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27032,7 +27485,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="304", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="47", ["maximum"]="737"
+                  ["date"]="2026-02-24", ["average"]="324", ["minimum"]="77", ["maximum"]="691", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27040,7 +27493,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="295", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="927"
+                  ["date"]="2026-02-24", ["average"]="448", ["minimum"]="49", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27057,7 +27510,10 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3014", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="11030"
+                  ["average"]="3014", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="11030"
+                },
+                ["03"] = {
+                  ["average"]="4156", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="10999"
                 }
               }
             },
@@ -27065,7 +27521,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4729", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="630", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="5146", ["minimum"]="990", ["maximum"]="11000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27073,7 +27529,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6015", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3600", ["maximum"]="10030"
+                  ["date"]="2026-02-24", ["average"]="5215", ["minimum"]="5030", ["maximum"]="5400", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27081,7 +27537,7 @@ _G.MARKET_TRACKER_SDK.shard_6256 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3699", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="3906", ["minimum"]="1000", ["maximum"]="6550", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27103,7 +27559,7 @@ _G.MARKET_TRACKER_SDK.shard_6258 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1521", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="733", ["maximum"]="2000"
+                  ["average"]="1521", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="733", ["maximum"]="2000"
                 }
               }
             },
@@ -27111,7 +27567,7 @@ _G.MARKET_TRACKER_SDK.shard_6258 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1823", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="1773", ["minimum"]="1250", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27119,7 +27575,7 @@ _G.MARKET_TRACKER_SDK.shard_6258 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2422", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="4990"
+                  ["date"]="2026-02-24", ["average"]="2995", ["minimum"]="1000", ["maximum"]="4990", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27173,6 +27629,9 @@ _G.MARKET_TRACKER_SDK.shard_6260 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="5041", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="22000"
+                },
+                ["04"] = {
+                  ["average"]="16800", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="24200"
                 }
               },
               ["02"] = {
@@ -27299,6 +27758,15 @@ _G.MARKET_TRACKER_SDK.shard_6260 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1461", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="4246"
+                },
+                ["02"] = {
+                  ["average"]="993", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="2471"
+                },
+                ["03"] = {
+                  ["average"]="1897", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="2471"
+                },
+                ["04"] = {
+                  ["average"]="2362", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="2471"
                 }
               },
               ["01"] = {
@@ -27575,7 +28043,10 @@ _G.MARKET_TRACKER_SDK.shard_6261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="24834", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="19963", ["maximum"]="27691"
+                  ["average"]="24834", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="19963", ["maximum"]="27691"
+                },
+                ["04"] = {
+                  ["average"]="28451", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1800", ["maximum"]="44000"
                 }
               }
             },
@@ -27583,7 +28054,7 @@ _G.MARKET_TRACKER_SDK.shard_6261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="22567", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="14000", ["maximum"]="27060"
+                  ["date"]="2026-02-24", ["average"]="23648", ["minimum"]="14000", ["maximum"]="27060", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27591,7 +28062,7 @@ _G.MARKET_TRACKER_SDK.shard_6261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="21680", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="30039"
+                  ["date"]="2026-02-24", ["average"]="17500", ["minimum"]="15000", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27599,7 +28070,7 @@ _G.MARKET_TRACKER_SDK.shard_6261 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="25064", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="30039"
+                  ["date"]="2026-02-24", ["average"]="26083", ["minimum"]="20000", ["maximum"]="30039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27621,7 +28092,10 @@ _G.MARKET_TRACKER_SDK.shard_6262 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3758", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="6250"
+                  ["average"]="3758", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="6250"
+                },
+                ["03"] = {
+                  ["average"]="6875", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6250", ["maximum"]="6875"
                 }
               }
             }
@@ -27643,7 +28117,10 @@ _G.MARKET_TRACKER_SDK.shard_6263 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3442", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                  ["average"]="3442", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                },
+                ["03"] = {
+                  ["average"]="7099", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="22000"
                 }
               }
             },
@@ -27651,7 +28128,7 @@ _G.MARKET_TRACKER_SDK.shard_6263 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5471", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2999", ["maximum"]="9000"
+                  ["date"]="2026-02-24", ["average"]="8250", ["minimum"]="5000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27659,7 +28136,7 @@ _G.MARKET_TRACKER_SDK.shard_6263 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7062", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="7797", ["minimum"]="4930", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27667,7 +28144,7 @@ _G.MARKET_TRACKER_SDK.shard_6263 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6853", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="12000"
+                  ["date"]="2026-02-24", ["average"]="9628", ["minimum"]="5000", ["maximum"]="18868", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27689,7 +28166,10 @@ _G.MARKET_TRACKER_SDK.shard_6264 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4353", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="7444"
+                  ["average"]="4353", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="7444"
+                },
+                ["03"] = {
+                  ["average"]="12147", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="44000"
                 }
               }
             },
@@ -27697,7 +28177,7 @@ _G.MARKET_TRACKER_SDK.shard_6264 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6809", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3900", ["maximum"]="11100"
+                  ["date"]="2026-02-24", ["average"]="7091", ["minimum"]="930", ["maximum"]="12030", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27705,7 +28185,7 @@ _G.MARKET_TRACKER_SDK.shard_6264 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9519", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5030", ["maximum"]="15030"
+                  ["date"]="2026-02-24", ["average"]="12015", ["minimum"]="9000", ["maximum"]="15030", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27713,7 +28193,7 @@ _G.MARKET_TRACKER_SDK.shard_6264 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4277", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="6983"
+                  ["date"]="2026-02-24", ["average"]="5931", ["minimum"]="2330", ["maximum"]="7690", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27735,7 +28215,10 @@ _G.MARKET_TRACKER_SDK.shard_6266 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4243", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="493", ["maximum"]="25000"
+                  ["average"]="4243", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="493", ["maximum"]="25000"
+                },
+                ["04"] = {
+                  ["average"]="2939", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="39", ["maximum"]="11043"
                 }
               }
             },
@@ -27743,7 +28226,7 @@ _G.MARKET_TRACKER_SDK.shard_6266 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2658", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="7000"
+                  ["date"]="2026-02-24", ["average"]="3572", ["minimum"]="1000", ["maximum"]="14170", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27751,7 +28234,7 @@ _G.MARKET_TRACKER_SDK.shard_6266 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3426", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1220", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="2710", ["minimum"]="500", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27759,7 +28242,7 @@ _G.MARKET_TRACKER_SDK.shard_6266 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2430", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="3327", ["minimum"]="1039", ["maximum"]="10039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27776,7 +28259,10 @@ _G.MARKET_TRACKER_SDK.shard_6266 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4533", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["average"]="4533", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                },
+                ["03"] = {
+                  ["average"]="6875", ["date"]="2025-07-26", ["commonQuantity"]="2", ["minimum"]="6250", ["maximum"]="6875"
                 }
               }
             },
@@ -27784,7 +28270,7 @@ _G.MARKET_TRACKER_SDK.shard_6266 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="2000", ["minimum"]="2000", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27792,7 +28278,7 @@ _G.MARKET_TRACKER_SDK.shard_6266 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3750", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3750", ["maximum"]="3750"
+                  ["date"]="2026-02-24", ["average"]="3750", ["minimum"]="3750", ["maximum"]="3750", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27869,7 +28355,10 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="165139", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="144272", ["maximum"]="200000"
+                  ["average"]="165139", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="144272", ["maximum"]="200000"
+                },
+                ["04"] = {
+                  ["average"]="10295", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="275000"
                 }
               }
             },
@@ -27877,7 +28366,7 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="129854", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="90000", ["maximum"]="160000"
+                  ["date"]="2026-02-24", ["average"]="129854", ["minimum"]="90000", ["maximum"]="160000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27885,15 +28374,7 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="128096", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="87500", ["maximum"]="160039"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="250020", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="200000", ["maximum"]="300039"
+                  ["date"]="2026-02-24", ["average"]="123716", ["minimum"]="87500", ["maximum"]="160039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27910,7 +28391,10 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5767", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10000"
+                  ["average"]="5767", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10000"
+                },
+                ["05"] = {
+                  ["average"]="6252", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10999"
                 }
               }
             },
@@ -27918,7 +28402,7 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13031", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="66000"
+                  ["date"]="2026-02-24", ["average"]="18000", ["minimum"]="1000", ["maximum"]="66000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27926,7 +28410,7 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8594", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3700", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="7656", ["minimum"]="3700", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -27934,7 +28418,7 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="19830", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="80000"
+                  ["date"]="2026-02-24", ["average"]="25400", ["minimum"]="2000", ["maximum"]="80000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27951,7 +28435,10 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3392", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5500"
+                  ["average"]="3392", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5500"
+                },
+                ["02"] = {
+                  ["average"]="1100", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="2266"
                 }
               }
             },
@@ -27959,7 +28446,7 @@ _G.MARKET_TRACKER_SDK.shard_6267 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3050", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2800", ["maximum"]="3300"
+                  ["date"]="2026-02-24", ["average"]="2800", ["minimum"]="2800", ["maximum"]="2800", ["commonQuantity"]="1"
                 }
               }
             }
@@ -27982,6 +28469,15 @@ _G.MARKET_TRACKER_SDK.shard_6268 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1102", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="3350"
+                },
+                ["02"] = {
+                  ["average"]="377", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1268"
+                },
+                ["03"] = {
+                  ["average"]="1265", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1268"
+                },
+                ["04"] = {
+                  ["average"]="1268", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1268"
                 }
               },
               ["01"] = {
@@ -28146,6 +28642,9 @@ _G.MARKET_TRACKER_SDK.shard_6268 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="282", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="550"
+                },
+                ["03"] = {
+                  ["average"]="1107", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1265"
                 }
               }
             },
@@ -28203,6 +28702,29 @@ _G.MARKET_TRACKER_SDK.shard_6268 = function (s3)
           })[tostring(platform)]
         end
       })[tostring(internalId)]
+    end,
+    ["00"] = function (internalId)
+      return ({
+        ["2587008626"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="10193", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="22000"
+                },
+                ["03"] = {
+                  ["average"]="3300", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="22000"
+                },
+                ["04"] = {
+                  ["average"]="22000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="22000"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
     end
   })[tostring(s3)]
 end
@@ -28218,7 +28740,10 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1786", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="5300"
+                  ["average"]="1786", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="5300"
+                },
+                ["04"] = {
+                  ["average"]="2250", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="11000"
                 }
               }
             },
@@ -28226,7 +28751,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1097", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="2300"
+                  ["date"]="2026-02-24", ["average"]="933", ["minimum"]="300", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28234,7 +28759,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1169", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="2500"
+                  ["date"]="2026-02-24", ["average"]="683", ["minimum"]="300", ["maximum"]="1300", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28242,7 +28767,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1143", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="1105", ["minimum"]="196", ["maximum"]="2300", ["commonQuantity"]="1"
                 }
               }
             }
@@ -28259,7 +28784,10 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3181", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1936", ["maximum"]="5039"
+                  ["average"]="3181", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1936", ["maximum"]="5039"
+                },
+                ["04"] = {
+                  ["average"]="3575", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="18700"
                 }
               }
             },
@@ -28267,7 +28795,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1784", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="339", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="2520", ["minimum"]="1000", ["maximum"]="4039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28275,7 +28803,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2126", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="5900"
+                  ["date"]="2026-02-24", ["average"]="1762", ["minimum"]="400", ["maximum"]="3895", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28283,7 +28811,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2703", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="3529", ["minimum"]="1939", ["maximum"]="6000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -28300,7 +28828,10 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5740", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="7759"
+                  ["average"]="5740", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3333", ["maximum"]="7759"
+                },
+                ["04"] = {
+                  ["average"]="11718", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="38500"
                 }
               }
             },
@@ -28308,7 +28839,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8443", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="11923"
+                  ["date"]="2026-02-24", ["average"]="11923", ["minimum"]="6600", ["maximum"]="21000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28316,7 +28847,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7048", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="9701"
+                  ["date"]="2026-02-24", ["average"]="9837", ["minimum"]="2039", ["maximum"]="20039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28324,7 +28855,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5851", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="7506"
+                  ["date"]="2026-02-24", ["average"]="8249", ["minimum"]="3039", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -28341,7 +28872,10 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="299", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="140", ["maximum"]="424"
+                  ["average"]="299", ["date"]="2026-03-29", ["commonQuantity"]="5", ["minimum"]="140", ["maximum"]="424"
+                },
+                ["01"] = {
+                  ["average"]="845", ["date"]="2025-11-13", ["commonQuantity"]="10", ["minimum"]="93", ["maximum"]="2203"
                 }
               }
             },
@@ -28349,7 +28883,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="895", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="228", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="1000", ["minimum"]="1000", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28357,7 +28891,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="641", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="320", ["maximum"]="950"
+                  ["date"]="2026-02-24", ["average"]="640", ["minimum"]="320", ["maximum"]="950", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28365,7 +28899,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="527", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="385", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="609", ["minimum"]="467", ["maximum"]="800", ["commonQuantity"]="1"
                 }
               }
             }
@@ -28382,7 +28916,10 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="373", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1060"
+                  ["average"]="373", ["date"]="2026-03-29", ["commonQuantity"]="2", ["minimum"]="100", ["maximum"]="1060"
+                },
+                ["02"] = {
+                  ["average"]="66", ["date"]="2025-10-15", ["commonQuantity"]="9", ["minimum"]="60", ["maximum"]="66"
                 }
               }
             },
@@ -28390,15 +28927,7 @@ _G.MARKET_TRACKER_SDK.shard_6269 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="222", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="222", ["maximum"]="222"
-                }
-              }
-            },
-            ["xbox-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="504", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="504", ["maximum"]="504"
+                  ["date"]="2026-02-24", ["average"]="222", ["minimum"]="222", ["maximum"]="222", ["commonQuantity"]="1"
                 }
               }
             }
@@ -28475,6 +29004,9 @@ _G.MARKET_TRACKER_SDK.shard_6270 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="78252", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="78252", ["maximum"]="78252"
+                },
+                ["05"] = {
+                  ["average"]="97900", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="89000", ["maximum"]="97900"
                 }
               },
               ["03"] = {
@@ -28548,7 +29080,10 @@ _G.MARKET_TRACKER_SDK.shard_6271 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="29814", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="35039"
+                  ["average"]="29814", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="35039"
+                },
+                ["04"] = {
+                  ["average"]="33010", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="29999", ["maximum"]="49500"
                 }
               }
             },
@@ -28556,7 +29091,7 @@ _G.MARKET_TRACKER_SDK.shard_6271 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="35891", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="31781", ["maximum"]="40000"
+                  ["date"]="2026-02-24", ["average"]="35891", ["minimum"]="31781", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28564,15 +29099,7 @@ _G.MARKET_TRACKER_SDK.shard_6271 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32570", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="41000"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="25000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="31476", ["minimum"]="25000", ["maximum"]="41000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -28653,6 +29180,15 @@ _G.MARKET_TRACKER_SDK.shard_6271 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="743", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2180"
+                },
+                ["02"] = {
+                  ["average"]="329", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="299", ["maximum"]="5466"
+                },
+                ["03"] = {
+                  ["average"]="1298", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="299", ["maximum"]="5466"
+                },
+                ["04"] = {
+                  ["average"]="421", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="299", ["maximum"]="5466"
                 }
               },
               ["04"] = {
@@ -28888,6 +29424,15 @@ _G.MARKET_TRACKER_SDK.shard_6272 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1539", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="9000"
+                },
+                ["02"] = {
+                  ["average"]="1455", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="13200"
+                },
+                ["03"] = {
+                  ["average"]="891", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="13200"
+                },
+                ["04"] = {
+                  ["average"]="10810", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="13200"
                 }
               }
             },
@@ -28973,7 +29518,10 @@ _G.MARKET_TRACKER_SDK.shard_6272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5945", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="24854"
+                  ["average"]="5945", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="24854"
+                },
+                ["05"] = {
+                  ["average"]="2405", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="33", ["maximum"]="12100"
                 }
               }
             },
@@ -28981,7 +29529,7 @@ _G.MARKET_TRACKER_SDK.shard_6272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2285", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3000"
+                  ["date"]="2026-02-24", ["average"]="2356", ["minimum"]="1000", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -28989,7 +29537,27 @@ _G.MARKET_TRACKER_SDK.shard_6272 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3717", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="3659", ["minimum"]="500", ["maximum"]="12500", ["commonQuantity"]="1"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
+    ["04"] = function (internalId)
+      return ({
+        ["1470402726"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="5977", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="5434", ["maximum"]="5977"
+                },
+                ["04"] = {
+                  ["average"]="5977", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="5434", ["maximum"]="5977"
                 }
               }
             }
@@ -29024,6 +29592,9 @@ _G.MARKET_TRACKER_SDK.shard_6273 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="3215", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="84", ["maximum"]="5093"
+                },
+                ["02"] = {
+                  ["average"]="92", ["date"]="2024-11-14", ["commonQuantity"]="1", ["minimum"]="84", ["maximum"]="92"
                 }
               }
             },
@@ -29079,7 +29650,10 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2436", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="7400"
+                  ["average"]="2436", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="7400"
+                },
+                ["03"] = {
+                  ["average"]="4235", ["date"]="2025-11-13", ["commonQuantity"]="4", ["minimum"]="3850", ["maximum"]="5500"
                 }
               }
             },
@@ -29087,7 +29661,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="1000", ["minimum"]="1000", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29095,7 +29669,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="1000", ["minimum"]="1000", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -29112,7 +29686,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="366", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="66", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="316", ["minimum"]="50", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29120,7 +29694,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="380", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="1123"
+                  ["date"]="2026-02-24", ["average"]="324", ["minimum"]="73", ["maximum"]="1123", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29128,7 +29702,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="168", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="500"
+                  ["date"]="2026-02-24", ["average"]="200", ["minimum"]="100", ["maximum"]="500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29136,7 +29710,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="407", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="347", ["minimum"]="100", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -29153,7 +29727,10 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="53829", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5990", ["maximum"]="70000"
+                  ["average"]="53829", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5990", ["maximum"]="70000"
+                },
+                ["04"] = {
+                  ["average"]="120832", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="79952", ["maximum"]="121000"
                 }
               }
             },
@@ -29161,7 +29738,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="110020", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30039", ["maximum"]="220000"
+                  ["date"]="2026-02-24", ["average"]="96693", ["minimum"]="30039", ["maximum"]="220000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29169,7 +29746,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="128200", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="220000"
+                  ["date"]="2026-02-24", ["average"]="165500", ["minimum"]="111000", ["maximum"]="220000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29177,7 +29754,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="59406", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="33000", ["maximum"]="86848"
+                  ["date"]="2026-02-24", ["average"]="56848", ["minimum"]="1039", ["maximum"]="100000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -29194,7 +29771,10 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="29654", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20039", ["maximum"]="40000"
+                  ["average"]="29654", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="20039", ["maximum"]="40000"
+                },
+                ["04"] = {
+                  ["average"]="53792", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="18039", ["maximum"]="191400"
                 }
               }
             },
@@ -29202,7 +29782,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="43525", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="70000"
+                  ["date"]="2026-02-24", ["average"]="45917", ["minimum"]="40000", ["maximum"]="79000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29210,7 +29790,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="41780", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="29000", ["maximum"]="80039"
+                  ["date"]="2026-02-24", ["average"]="42378", ["minimum"]="25000", ["maximum"]="80039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29218,7 +29798,7 @@ _G.MARKET_TRACKER_SDK.shard_6274 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32430", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="40000"
+                  ["date"]="2026-02-24", ["average"]="35814", ["minimum"]="13039", ["maximum"]="60000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -29302,6 +29882,9 @@ _G.MARKET_TRACKER_SDK.shard_6275 = function (s3)
                 ["02"] = {
                   ["average"]="853", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="174", ["maximum"]="1531"
                 },
+                ["03"] = {
+                  ["average"]="1905", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="1732", ["maximum"]="1905"
+                },
                 ["04"] = {
                   ["average"]="1485", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="787", ["maximum"]="2183"
                 }
@@ -29310,6 +29893,9 @@ _G.MARKET_TRACKER_SDK.shard_6275 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1434", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="180", ["maximum"]="4183"
+                },
+                ["03"] = {
+                  ["average"]="1950", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3630"
                 }
               },
               ["04"] = {
@@ -29441,7 +30027,10 @@ _G.MARKET_TRACKER_SDK.shard_6275 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20714", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="9999", ["maximum"]="27859"
+                  ["average"]="20714", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="9999", ["maximum"]="27859"
+                },
+                ["04"] = {
+                  ["average"]="82793", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="75023", ["maximum"]="104500"
                 }
               }
             },
@@ -29449,7 +30038,7 @@ _G.MARKET_TRACKER_SDK.shard_6275 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="33333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="37500", ["minimum"]="25000", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29457,7 +30046,7 @@ _G.MARKET_TRACKER_SDK.shard_6275 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20300", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20300", ["maximum"]="20300"
+                  ["date"]="2026-02-24", ["average"]="20300", ["minimum"]="20300", ["maximum"]="20300", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29465,7 +30054,7 @@ _G.MARKET_TRACKER_SDK.shard_6275 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="27725", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="27900", ["minimum"]="2000", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -29483,6 +30072,15 @@ _G.MARKET_TRACKER_SDK.shard_6275 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="6217", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3150", ["maximum"]="10000"
+                },
+                ["02"] = {
+                  ["average"]="3246", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2951", ["maximum"]="8250"
+                },
+                ["03"] = {
+                  ["average"]="3617", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2951", ["maximum"]="8250"
+                },
+                ["04"] = {
+                  ["average"]="8250", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2951", ["maximum"]="8250"
                 }
               },
               ["02"] = {
@@ -29566,7 +30164,10 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="171265", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="77000", ["maximum"]="250000"
+                  ["average"]="171265", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="77000", ["maximum"]="250000"
+                },
+                ["05"] = {
+                  ["average"]="216861", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="130045", ["maximum"]="302500"
                 }
               }
             },
@@ -29574,7 +30175,7 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="158636", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="90000", ["maximum"]="300000"
+                  ["date"]="2026-02-24", ["average"]="156055", ["minimum"]="120000", ["maximum"]="223818", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29582,7 +30183,7 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="105999", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="55045", ["maximum"]="140000"
+                  ["date"]="2026-02-24", ["average"]="102599", ["minimum"]="55045", ["maximum"]="130000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29590,7 +30191,7 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="175000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="145000", ["maximum"]="200000"
+                  ["date"]="2026-02-24", ["average"]="169797", ["minimum"]="115000", ["maximum"]="225225", ["commonQuantity"]="1"
                 }
               }
             }
@@ -29607,7 +30208,7 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="140", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="453"
+                  ["date"]="2026-02-24", ["average"]="347", ["minimum"]="20", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29615,7 +30216,7 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="567", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="745", ["minimum"]="100", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29623,7 +30224,7 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="487", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1000"
+                  ["date"]="2026-02-24", ["average"]="435", ["minimum"]="120", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -29631,7 +30232,7 @@ _G.MARKET_TRACKER_SDK.shard_6276 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="751", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="1072", ["minimum"]="100", ["maximum"]="2000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -29758,6 +30359,15 @@ _G.MARKET_TRACKER_SDK.shard_6277 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="4473", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="30183"
+                },
+                ["02"] = {
+                  ["average"]="3945", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="174", ["maximum"]="12100"
+                },
+                ["03"] = {
+                  ["average"]="5285", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="174", ["maximum"]="12100"
+                },
+                ["04"] = {
+                  ["average"]="4530", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="174", ["maximum"]="12100"
                 }
               },
               ["04"] = {
@@ -29919,6 +30529,15 @@ _G.MARKET_TRACKER_SDK.shard_6277 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="5092", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2200", ["maximum"]="10785"
+                },
+                ["02"] = {
+                  ["average"]="1027", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="934", ["maximum"]="88271"
+                },
+                ["03"] = {
+                  ["average"]="3299", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="934", ["maximum"]="88271"
+                },
+                ["04"] = {
+                  ["average"]="9599", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="934", ["maximum"]="88271"
                 }
               },
               ["01"] = {
@@ -30303,7 +30922,10 @@ _G.MARKET_TRACKER_SDK.shard_6279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="21533", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="8039", ["maximum"]="25000"
+                  ["average"]="21533", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="8039", ["maximum"]="25000"
+                },
+                ["04"] = {
+                  ["average"]="76362", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="69420", ["maximum"]="76362"
                 }
               }
             },
@@ -30311,7 +30933,7 @@ _G.MARKET_TRACKER_SDK.shard_6279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="26815", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="35000"
+                  ["date"]="2026-02-24", ["average"]="31436", ["minimum"]="22000", ["maximum"]="50000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -30319,7 +30941,7 @@ _G.MARKET_TRACKER_SDK.shard_6279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="20000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9999", ["maximum"]="30000"
+                  ["date"]="2026-02-24", ["average"]="20000", ["minimum"]="9999", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -30327,7 +30949,7 @@ _G.MARKET_TRACKER_SDK.shard_6279 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32813", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20241", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="33848", ["minimum"]="20000", ["maximum"]="54350", ["commonQuantity"]="1"
                 }
               }
             }
@@ -30396,6 +31018,12 @@ _G.MARKET_TRACKER_SDK.shard_6279 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="581", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="93", ["maximum"]="1650"
+                },
+                ["03"] = {
+                  ["average"]="2301", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="650", ["maximum"]="4400"
+                },
+                ["04"] = {
+                  ["average"]="2368", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="650", ["maximum"]="4400"
                 }
               },
               ["04"] = {
@@ -30571,6 +31199,15 @@ _G.MARKET_TRACKER_SDK.shard_6280 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="12513", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1153", ["maximum"]="30000"
+                },
+                ["02"] = {
+                  ["average"]="5499", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="344", ["maximum"]="43999"
+                },
+                ["03"] = {
+                  ["average"]="2389", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="344", ["maximum"]="43999"
+                },
+                ["04"] = {
+                  ["average"]="9038", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="344", ["maximum"]="43999"
                 }
               },
               ["01"] = {
@@ -30610,6 +31247,9 @@ _G.MARKET_TRACKER_SDK.shard_6280 = function (s3)
                 },
                 ["02"] = {
                   ["average"]="15000", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="15000"
+                },
+                ["03"] = {
+                  ["average"]="3318", ["date"]="2025-09-18", ["commonQuantity"]="1", ["minimum"]="3016", ["maximum"]="3318"
                 }
               },
               ["07"] = {
@@ -30749,6 +31389,29 @@ _G.MARKET_TRACKER_SDK.shard_6280 = function (s3)
         end
       })[tostring(internalId)]
     end,
+    ["53"] = function (internalId)
+      return ({
+        ["1051350826"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="418", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="482"
+                },
+                ["02"] = {
+                  ["average"]="220", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="482"
+                },
+                ["03"] = {
+                  ["average"]="418", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="482"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
     ["63"] = function (internalId)
       return ({
         ["1941360826"] = function (platform)
@@ -30834,7 +31497,7 @@ _G.MARKET_TRACKER_SDK.shard_6281 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="878571", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="250000", ["maximum"]="1500000"
+                  ["average"]="878571", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="250000", ["maximum"]="1500000"
                 }
               }
             }
@@ -30856,7 +31519,10 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="691", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="135", ["maximum"]="2000"
+                  ["average"]="691", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="135", ["maximum"]="2000"
+                },
+                ["03"] = {
+                  ["average"]="1442", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1", ["maximum"]="2200"
                 }
               }
             },
@@ -30864,7 +31530,7 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="742", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="1030"
+                  ["date"]="2026-02-24", ["average"]="783", ["minimum"]="500", ["maximum"]="1030", ["commonQuantity"]="1"
                 }
               }
             },
@@ -30872,7 +31538,7 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1166", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="2500"
+                  ["date"]="2026-02-24", ["average"]="1646", ["minimum"]="792", ["maximum"]="2500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -30880,7 +31546,7 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="656", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1500"
+                  ["date"]="2026-02-24", ["average"]="572", ["minimum"]="230", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -30897,7 +31563,10 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="35595", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="55051"
+                  ["average"]="35595", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="55051"
+                },
+                ["04"] = {
+                  ["average"]="23616", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="23925"
                 }
               }
             },
@@ -30905,7 +31574,7 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="33752", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30039", ["maximum"]="35000"
+                  ["date"]="2026-02-24", ["average"]="33752", ["minimum"]="30039", ["maximum"]="35000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -30913,7 +31582,7 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32717", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25000", ["maximum"]="44039"
+                  ["date"]="2026-02-24", ["average"]="32717", ["minimum"]="25000", ["maximum"]="44039", ["commonQuantity"]="1"
                 }
               }
             }
@@ -30930,7 +31599,10 @@ _G.MARKET_TRACKER_SDK.shard_6282 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="186705", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="500000"
+                  ["average"]="186705", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="500000"
+                },
+                ["05"] = {
+                  ["average"]="88000", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="88000"
                 }
               }
             }
@@ -31059,6 +31731,15 @@ _G.MARKET_TRACKER_SDK.shard_6285 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="2257", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="174", ["maximum"]="20183"
+                },
+                ["02"] = {
+                  ["average"]="760", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="180", ["maximum"]="9350"
+                },
+                ["03"] = {
+                  ["average"]="1603", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="180", ["maximum"]="9350"
+                },
+                ["04"] = {
+                  ["average"]="1877", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="180", ["maximum"]="9350"
                 }
               },
               ["04"] = {
@@ -31313,6 +31994,9 @@ _G.MARKET_TRACKER_SDK.shard_6285 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="5000", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5000"
+                },
+                ["03"] = {
+                  ["average"]="1727", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1564", ["maximum"]="1788"
                 }
               },
               ["04"] = {
@@ -31360,7 +32044,10 @@ _G.MARKET_TRACKER_SDK.shard_6286 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7507", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="12000"
+                  ["average"]="7507", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="12000"
+                },
+                ["03"] = {
+                  ["average"]="8800", ["date"]="2025-08-26", ["commonQuantity"]="2", ["minimum"]="8000", ["maximum"]="8800"
                 }
               }
             },
@@ -31368,7 +32055,7 @@ _G.MARKET_TRACKER_SDK.shard_6286 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="9000"
+                  ["date"]="2026-02-24", ["average"]="8500", ["minimum"]="8000", ["maximum"]="9000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -31386,6 +32073,15 @@ _G.MARKET_TRACKER_SDK.shard_6286 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1218", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="5500"
+                },
+                ["02"] = {
+                  ["average"]="7128", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="27500"
+                },
+                ["03"] = {
+                  ["average"]="2446", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="27500"
+                },
+                ["04"] = {
+                  ["average"]="1378", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="27500"
                 }
               },
               ["01"] = {
@@ -31611,12 +32307,27 @@ _G.MARKET_TRACKER_SDK.shard_6286 = function (s3)
                 },
                 ["04"] = {
                   ["average"]="6267", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="9800"
+                },
+                ["05"] = {
+                  ["average"]="22000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5285", ["maximum"]="22000"
                 }
               },
               ["--"] = {
                 -- Qualities
                 ["--"] = {
                   ["average"]="2658", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="380", ["maximum"]="9800"
+                },
+                ["02"] = {
+                  ["average"]="2199", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="26400"
+                },
+                ["03"] = {
+                  ["average"]="2220", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="26400"
+                },
+                ["04"] = {
+                  ["average"]="7458", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="26400"
+                },
+                ["05"] = {
+                  ["average"]="22000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="26400"
                 }
               },
               ["04"] = {
@@ -31837,7 +32548,10 @@ _G.MARKET_TRACKER_SDK.shard_6286 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6982", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="13900"
+                  ["average"]="6982", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="13900"
+                },
+                ["02"] = {
+                  ["average"]="5100", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4636", ["maximum"]="6886"
                 }
               }
             },
@@ -31845,7 +32559,7 @@ _G.MARKET_TRACKER_SDK.shard_6286 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="4500", ["minimum"]="4000", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -31853,7 +32567,7 @@ _G.MARKET_TRACKER_SDK.shard_6286 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2337", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="3560"
+                  ["date"]="2026-02-24", ["average"]="3560", ["minimum"]="3560", ["maximum"]="3560", ["commonQuantity"]="1"
                 }
               }
             }
@@ -31875,7 +32589,10 @@ _G.MARKET_TRACKER_SDK.shard_6287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="44400", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="33300", ["maximum"]="52000"
+                  ["average"]="44400", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="33300", ["maximum"]="52000"
+                },
+                ["04"] = {
+                  ["average"]="50163", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="82500"
                 }
               }
             },
@@ -31883,7 +32600,7 @@ _G.MARKET_TRACKER_SDK.shard_6287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="44800", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="44399", ["maximum"]="45000"
+                  ["date"]="2026-02-24", ["average"]="45000", ["minimum"]="45000", ["maximum"]="45000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -31891,7 +32608,7 @@ _G.MARKET_TRACKER_SDK.shard_6287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="93333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="100000"
+                  ["date"]="2026-02-24", ["average"]="100000", ["minimum"]="100000", ["maximum"]="100000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -31899,7 +32616,27 @@ _G.MARKET_TRACKER_SDK.shard_6287 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="43480", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="43480", ["maximum"]="43480"
+                  ["date"]="2026-02-24", ["average"]="43480", ["minimum"]="43480", ["maximum"]="43480", ["commonQuantity"]="1"
+                }
+              }
+            }
+          })[tostring(platform)]
+        end
+      })[tostring(internalId)]
+    end,
+    ["59"] = function (internalId)
+      return ({
+        ["1111957826"] = function (platform)
+          return ({
+            -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="239", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="18", ["maximum"]="240"
+                },
+                ["01"] = {
+                  ["average"]="239", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="18", ["maximum"]="240"
                 }
               }
             }
@@ -31948,6 +32685,15 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="1506", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="87", ["maximum"]="3750"
+                },
+                ["02"] = {
+                  ["average"]="642", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="32999"
+                },
+                ["03"] = {
+                  ["average"]="3398", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="32999"
+                },
+                ["04"] = {
+                  ["average"]="8461", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="290", ["maximum"]="32999"
                 }
               },
               ["06"] = {
@@ -32048,7 +32794,10 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="31134", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="44920"
+                  ["average"]="31134", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="44920"
+                },
+                ["02"] = {
+                  ["average"]="99663", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="110000"
                 }
               }
             },
@@ -32056,7 +32805,7 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="48160", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="170000"
+                  ["date"]="2026-02-24", ["average"]="43133", ["minimum"]="800", ["maximum"]="170000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32064,7 +32813,7 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="82500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="75000", ["maximum"]="90000"
+                  ["date"]="2026-02-24", ["average"]="90000", ["minimum"]="90000", ["maximum"]="90000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32072,7 +32821,7 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="32441", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5027", ["maximum"]="75027"
+                  ["date"]="2026-02-24", ["average"]="33676", ["minimum"]="5027", ["maximum"]="75027", ["commonQuantity"]="1"
                 }
               }
             }
@@ -32089,7 +32838,10 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9069", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="15000"
+                  ["average"]="9069", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="15000"
+                },
+                ["04"] = {
+                  ["average"]="11570", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="13750"
                 }
               }
             },
@@ -32097,7 +32849,7 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="22000"
+                  ["date"]="2026-02-24", ["average"]="13500", ["minimum"]="8000", ["maximum"]="22000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32105,7 +32857,7 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7618", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="7742"
+                  ["date"]="2026-02-24", ["average"]="7742", ["minimum"]="7742", ["maximum"]="7742", ["commonQuantity"]="1"
                 }
               }
             }
@@ -32123,6 +32875,18 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="2169", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="11093"
+                },
+                ["01"] = {
+                  ["average"]="4400", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="22000"
+                },
+                ["02"] = {
+                  ["average"]="2565", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="22000"
+                },
+                ["03"] = {
+                  ["average"]="3016", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="22000"
+                },
+                ["04"] = {
+                  ["average"]="5660", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="22000"
                 }
               },
               ["06"] = {
@@ -32227,6 +32991,15 @@ _G.MARKET_TRACKER_SDK.shard_6290 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="715", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="234", ["maximum"]="5500"
+                },
+                ["02"] = {
+                  ["average"]="738", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="16500"
+                },
+                ["03"] = {
+                  ["average"]="707", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="16500"
+                },
+                ["04"] = {
+                  ["average"]="862", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="16500"
                 }
               },
               ["01"] = {
@@ -32551,7 +33324,10 @@ _G.MARKET_TRACKER_SDK.shard_6291 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3553", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["average"]="3553", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                },
+                ["03"] = {
+                  ["average"]="9241", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="9900"
                 }
               }
             },
@@ -32559,7 +33335,7 @@ _G.MARKET_TRACKER_SDK.shard_6291 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="8000", ["minimum"]="8000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32567,7 +33343,7 @@ _G.MARKET_TRACKER_SDK.shard_6291 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="8000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="8000", ["minimum"]="8000", ["maximum"]="8000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -32584,7 +33360,10 @@ _G.MARKET_TRACKER_SDK.shard_6291 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3843", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="9500"
+                  ["average"]="3843", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="9500"
+                },
+                ["05"] = {
+                  ["average"]="1051", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10", ["maximum"]="11000"
                 }
               }
             },
@@ -32592,7 +33371,7 @@ _G.MARKET_TRACKER_SDK.shard_6291 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="4500"
+                  ["date"]="2026-02-24", ["average"]="4000", ["minimum"]="3500", ["maximum"]="4500", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32600,7 +33379,7 @@ _G.MARKET_TRACKER_SDK.shard_6291 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2887", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="5434"
+                  ["date"]="2026-02-24", ["average"]="3145", ["minimum"]="2000", ["maximum"]="5434", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32608,7 +33387,7 @@ _G.MARKET_TRACKER_SDK.shard_6291 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3037", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="3032", ["minimum"]="90", ["maximum"]="4400", ["commonQuantity"]="1"
                 }
               }
             }
@@ -32630,7 +33409,10 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="15481", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="50000"
+                  ["average"]="15481", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="50000"
+                },
+                ["05"] = {
+                  ["average"]="5002", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="22000"
                 }
               }
             },
@@ -32638,7 +33420,7 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="15000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="15000", ["minimum"]="15000", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32646,7 +33428,7 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9999", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9999", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="9999", ["minimum"]="9999", ["maximum"]="9999", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32654,7 +33436,7 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="43469", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="120000"
+                  ["date"]="2026-02-24", ["average"]="54333", ["minimum"]="3000", ["maximum"]="120000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -32671,7 +33453,10 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="540", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="1000"
+                  ["average"]="540", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="1000"
+                },
+                ["02"] = {
+                  ["average"]="522", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1130"
                 }
               }
             },
@@ -32679,7 +33464,7 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="429", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="227", ["maximum"]="524"
+                  ["date"]="2026-02-24", ["average"]="360", ["minimum"]="227", ["maximum"]="492", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32687,7 +33472,7 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="834", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2027"
+                  ["date"]="2026-02-24", ["average"]="792", ["minimum"]="22", ["maximum"]="2027", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32695,7 +33480,7 @@ _G.MARKET_TRACKER_SDK.shard_6292 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="437", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="1027"
+                  ["date"]="2026-02-24", ["average"]="405", ["minimum"]="27", ["maximum"]="2027", ["commonQuantity"]="1"
                 }
               }
             }
@@ -32713,7 +33498,21 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
         ["3090033926"] = function (platform)
           return ({
             -- Platforms
+            ["xbox-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["average"]="875", ["date"]="2024-11-15", ["commonQuantity"]="1", ["minimum"]="795", ["maximum"]="875"
+                }
+              }
+            },
             ["ps-na"] = {
+              ["--"] = {
+                -- Qualities
+                ["--"] = {
+                  ["date"]="2026-02-24", ["average"]="400", ["minimum"]="400", ["maximum"]="400", ["commonQuantity"]="1"
+                }
+              },
               ["04"] = {
                 -- Qualities
                 ["--"] = {
@@ -32737,7 +33536,10 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="19759", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="60039"
+                  ["average"]="19759", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="60039"
+                },
+                ["04"] = {
+                  ["average"]="20165", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="82500"
                 }
               }
             },
@@ -32745,7 +33547,7 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="13093", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="25039"
+                  ["date"]="2026-02-24", ["average"]="13385", ["minimum"]="10000", ["maximum"]="16039", ["commonQuantity"]="1"
                 }
               }
             },
@@ -32753,15 +33555,7 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="34369", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="83619"
-                }
-              }
-            },
-            ["ps-eu"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="40833", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="60000"
+                  ["date"]="2026-02-24", ["average"]="27575", ["minimum"]="10000", ["maximum"]="83719", ["commonQuantity"]="1"
                 }
               }
             }
@@ -32845,6 +33639,18 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="773", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="3144"
+                },
+                ["01"] = {
+                  ["average"]="1225", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="80", ["maximum"]="3468"
+                },
+                ["02"] = {
+                  ["average"]="770", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="80", ["maximum"]="3468"
+                },
+                ["03"] = {
+                  ["average"]="583", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="80", ["maximum"]="3468"
+                },
+                ["04"] = {
+                  ["average"]="3248", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="80", ["maximum"]="3468"
                 }
               },
               ["04"] = {
@@ -33053,7 +33859,7 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1611170", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="6253200"
+                  ["average"]="1611170", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="6253200"
                 }
               }
             },
@@ -33061,7 +33867,7 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2750000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2500000", ["maximum"]="3000000"
+                  ["date"]="2026-02-24", ["average"]="3000000", ["minimum"]="3000000", ["maximum"]="3000000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33069,15 +33875,7 @@ _G.MARKET_TRACKER_SDK.shard_6293 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2999999", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2999999", ["maximum"]="2999999"
-                }
-              }
-            },
-            ["ps-na"] = {
-              ["--"] = {
-                -- Qualities
-                ["--"] = {
-                  ["average"]="2000039", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000039", ["maximum"]="2000039"
+                  ["date"]="2026-02-24", ["average"]="2999999", ["minimum"]="2999999", ["maximum"]="2999999", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33099,7 +33897,10 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="10611", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="14457"
+                  ["average"]="10611", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="14457"
+                },
+                ["03"] = {
+                  ["average"]="7465", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2030", ["maximum"]="17633"
                 }
               }
             },
@@ -33107,7 +33908,7 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="12439", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="40000"
+                  ["date"]="2026-02-24", ["average"]="21890", ["minimum"]="12835", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33115,7 +33916,7 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14508", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="30000"
+                  ["date"]="2026-02-24", ["average"]="30000", ["minimum"]="30000", ["maximum"]="30000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33123,7 +33924,7 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="14393", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="36000"
+                  ["date"]="2026-02-24", ["average"]="28000", ["minimum"]="22000", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33140,7 +33941,10 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1295", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="410", ["maximum"]="4999"
+                  ["average"]="1295", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="410", ["maximum"]="4999"
+                },
+                ["02"] = {
+                  ["average"]="3863", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="10999"
                 }
               }
             },
@@ -33148,7 +33952,7 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1504", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="227", ["maximum"]="2466"
+                  ["date"]="2026-02-24", ["average"]="1603", ["minimum"]="200", ["maximum"]="2466", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33156,7 +33960,7 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2420", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="10027"
+                  ["date"]="2026-02-24", ["average"]="2879", ["minimum"]="27", ["maximum"]="10027", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33164,7 +33968,7 @@ _G.MARKET_TRACKER_SDK.shard_6294 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="747", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="778", ["minimum"]="27", ["maximum"]="2130", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33186,7 +33990,10 @@ _G.MARKET_TRACKER_SDK.shard_6295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="4013", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="9071"
+                  ["average"]="4013", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="9071"
+                },
+                ["05"] = {
+                  ["average"]="5862", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="33000"
                 }
               }
             },
@@ -33194,7 +34001,7 @@ _G.MARKET_TRACKER_SDK.shard_6295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5088", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1469", ["maximum"]="20000"
+                  ["date"]="2026-02-24", ["average"]="5608", ["minimum"]="1469", ["maximum"]="20000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33202,7 +34009,7 @@ _G.MARKET_TRACKER_SDK.shard_6295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="7175", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="8333", ["minimum"]="5000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33210,7 +34017,7 @@ _G.MARKET_TRACKER_SDK.shard_6295 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5141", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["date"]="2026-02-24", ["average"]="4526", ["minimum"]="1650", ["maximum"]="8900", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33317,6 +34124,18 @@ _G.MARKET_TRACKER_SDK.shard_6296 = function (s3)
                 -- Qualities
                 ["--"] = {
                   ["average"]="716", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2153"
+                },
+                ["02"] = {
+                  ["average"]="708", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="87989"
+                },
+                ["03"] = {
+                  ["average"]="788", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="87989"
+                },
+                ["04"] = {
+                  ["average"]="1100", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="87989"
+                },
+                ["05"] = {
+                  ["average"]="87989", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="87989"
                 }
               },
               ["04"] = {
@@ -33576,7 +34395,10 @@ _G.MARKET_TRACKER_SDK.shard_6296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5549", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="3921", ["maximum"]="7500"
+                  ["average"]="5549", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="3921", ["maximum"]="7500"
+                },
+                ["03"] = {
+                  ["average"]="7014", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3889", ["maximum"]="11000"
                 }
               }
             },
@@ -33584,7 +34406,7 @@ _G.MARKET_TRACKER_SDK.shard_6296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="5766", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="8000"
+                  ["date"]="2026-02-24", ["average"]="7021", ["minimum"]="5000", ["maximum"]="7900", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33592,7 +34414,7 @@ _G.MARKET_TRACKER_SDK.shard_6296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="9611", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="15000"
+                  ["date"]="2026-02-24", ["average"]="10250", ["minimum"]="5500", ["maximum"]="15000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33600,7 +34422,7 @@ _G.MARKET_TRACKER_SDK.shard_6296 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="6206", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="9997"
+                  ["date"]="2026-02-24", ["average"]="6170", ["minimum"]="6000", ["maximum"]="10000", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33639,7 +34461,10 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="439", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="271", ["maximum"]="503"
+                  ["average"]="439", ["date"]="2026-03-29", ["commonQuantity"]="5", ["minimum"]="271", ["maximum"]="503"
+                },
+                ["01"] = {
+                  ["average"]="683", ["date"]="2025-11-13", ["commonQuantity"]="5", ["minimum"]="457", ["maximum"]="2200"
                 }
               }
             },
@@ -33647,7 +34472,7 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="535", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="333", ["maximum"]="1500"
+                  ["date"]="2026-02-24", ["average"]="592", ["minimum"]="333", ["maximum"]="1000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33655,7 +34480,7 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="819", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="534", ["maximum"]="4000"
+                  ["date"]="2026-02-24", ["average"]="856", ["minimum"]="559", ["maximum"]="4000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33663,7 +34488,7 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1046", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="103", ["maximum"]="1200"
+                  ["date"]="2026-02-24", ["average"]="1132", ["minimum"]="700", ["maximum"]="2109", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33680,7 +34505,10 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1698", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3000"
+                  ["average"]="1698", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3000"
+                },
+                ["02"] = {
+                  ["average"]="1386", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="3440"
                 }
               }
             },
@@ -33688,7 +34516,7 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="2178", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="427", ["maximum"]="5027"
+                  ["date"]="2026-02-24", ["average"]="2191", ["minimum"]="427", ["maximum"]="5027", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33696,7 +34524,7 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="3320", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="727", ["maximum"]="5555"
+                  ["date"]="2026-02-24", ["average"]="4202", ["minimum"]="2050", ["maximum"]="5555", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33704,7 +34532,7 @@ _G.MARKET_TRACKER_SDK.shard_6297 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="852", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="2000"
+                  ["date"]="2026-02-24", ["average"]="599", ["minimum"]="27", ["maximum"]="1218", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33726,7 +34554,10 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="628", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="1065"
+                  ["average"]="628", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="1065"
+                },
+                ["04"] = {
+                  ["average"]="733", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="11330"
                 }
               }
             },
@@ -33734,7 +34565,7 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1657", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="3000"
+                  ["date"]="2026-02-24", ["average"]="2039", ["minimum"]="800", ["maximum"]="3000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33742,7 +34573,7 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="1118", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="611", ["maximum"]="5000"
+                  ["date"]="2026-02-24", ["average"]="1113", ["minimum"]="611", ["maximum"]="5000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33750,7 +34581,7 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="443", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="800"
+                  ["date"]="2026-02-24", ["average"]="498", ["minimum"]="300", ["maximum"]="750", ["commonQuantity"]="1"
                 }
               }
             }
@@ -33767,7 +34598,10 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="17874", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="28153"
+                  ["average"]="17874", ["date"]="2026-03-29", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="28153"
+                },
+                ["04"] = {
+                  ["average"]="15011", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="39", ["maximum"]="44000"
                 }
               }
             },
@@ -33775,7 +34609,7 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16670", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="25000"
+                  ["date"]="2026-02-24", ["average"]="18776", ["minimum"]="8000", ["maximum"]="40000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33783,7 +34617,7 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="16306", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="30039"
+                  ["date"]="2026-02-24", ["average"]="14542", ["minimum"]="1039", ["maximum"]="25000", ["commonQuantity"]="1"
                 }
               }
             },
@@ -33791,7 +34625,7 @@ _G.MARKET_TRACKER_SDK.shard_6298 = function (s3)
               ["--"] = {
                 -- Qualities
                 ["--"] = {
-                  ["average"]="28538", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="50000"
+                  ["date"]="2026-02-24", ["average"]="22000", ["minimum"]="10000", ["maximum"]="49000", ["commonQuantity"]="1"
                 }
               }
             }
