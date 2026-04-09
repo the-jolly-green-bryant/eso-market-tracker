@@ -191,11 +191,19 @@ const parseObservations = async (
                     return []
                   }
 
-                  return await _dataStringToObservations(
-                    id,
-                    valueString,
-                    parsed.date!
-                  )
+                  try {
+                    return await _dataStringToObservations(
+                      id,
+                      valueString,
+                      parsed.date!
+                    )
+                  } catch (e) {
+                    if (process.env.CI) {
+                      return []
+                    }
+
+                    throw e
+                  }
                 })
               )
           )

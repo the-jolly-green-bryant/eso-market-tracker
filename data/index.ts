@@ -172,6 +172,5 @@ export const lookupIdInUESP = async (
     },
     targetPath
   )
-  console.log('thing')
   return [item, trait]
 }
