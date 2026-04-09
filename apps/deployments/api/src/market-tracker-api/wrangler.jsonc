@@ -20,6 +20,12 @@
 			"id": "c1b66d8fb78d4881ab064e462bd5d5f6",
 			"remote": true
 		}
+	],
+	"routes": [
+		{
+			"pattern": "data.esomarkettracker.com",
+			"custom_domain": true
+		}
 	]
 	/**
 	 * Smart Placement
