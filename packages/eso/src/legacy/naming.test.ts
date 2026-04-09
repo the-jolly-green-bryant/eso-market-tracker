@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { internalToName, nameToInternal } from './naming'
+import { internalToName, nameToInternal, _replaceHyphens } from './naming'
 import { getIdFromName } from '@eso-market-tracker/logging'
 import items from '../../docs/items.json'
 
@@ -159,7 +159,9 @@ describe('legacy naming', () => {
     const name = 'style page tremorscale mask'
     expect(internalToName(label)).toEqual(name)
   })
+})
 
+describe('legacy naming special cases', () => {
   it('handles special cases and overlaps', () => {
     const label = 'pauldrons of the ivory brigade'
     expect(internalToName(label)).toEqual(label)
@@ -168,5 +170,23 @@ describe('legacy naming', () => {
   it('handles amulet and ring', () => {
     expect(internalToName('aldmions necklace')).toEqual('aldmions amulet')
     expect(internalToName('baelborne ring')).toEqual('baelborne signet')
+  })
+
+  it('should re-hyphenate things', () => {
+    expect(_replaceHyphens('rye in your eye')).toEqual('rye-in-your-eye')
+  })
+
+  it('should ignore bound items', () => {
+    expect(internalToName('bound thing')).toEqual('a savage ring')
+  })
+
+  it('should handle treasure maps', () => {
+    expect(internalToName('cool treasure map')).toEqual('cool treasure map i')
+  })
+
+  it('should handle mothers sorrow', () => {
+    expect(internalToName('mothers sorrow axe')).toEqual(
+      'axe of a mothers sorrow'
+    )
   })
 })
