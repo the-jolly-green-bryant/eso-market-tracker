@@ -17,11 +17,8 @@ const __dirname = path.dirname(__filename)
 
 const execFileAsync = promisify(execFile)
 
-export const getAddonData = async () => {
-  const random = randomUUID()
-  const output = `/tmp/${random}.zip`
-
-  await execFileAsync(
+export const downloadAddon = async (output: string) => {
+  return execFileAsync(
     path.join(__dirname, '../../../..', 'ESOAddOnUploaderCli.dmg'),
     ['download', ADDON_ID, `--output=${output}`],
     {
@@ -29,7 +26,12 @@ export const getAddonData = async () => {
       env: process.env,
     }
   )
+}
 
+export const getAddonData = async () => {
+  const random = randomUUID()
+  const output = `/tmp/${random}.zip`
+  await self.downloadAddon(output)
   const unzipTo = `/tmp/${random}`
   await execFileAsync('unzip', ['-o', output, '-d', unzipTo])
   fs.unlinkSync(output)
@@ -39,9 +41,14 @@ export const getAddonData = async () => {
     'Playstation/TSCPriceDataPSNA.min.lua',
     'XB1/TSCPriceDataXBEU.min.lua',
     'XB1/TSCPriceDataXBNA.min.lua',
-  ].map((f) => {
-    const filePath = `${unzipTo}/TSCPriceFetcher2/${f}`
-    return fs.readFileSync(filePath, { encoding: 'utf8' })
+  ].flatMap((f) => {
+    try {
+      const filePath = `${unzipTo}/TSCPriceFetcher2/${f}`
+      logger.info(`Reading: ${filePath}, output=${output}`)
+      return [fs.readFileSync(filePath, { encoding: 'utf8' })]
+    } catch {
+      return []
+    }
   })
 }
 

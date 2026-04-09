@@ -15,6 +15,7 @@
     "coverage": "vitest run --coverage"
   },
   "devDependencies": {
+    "@types/adm-zip": "^0.5.8",
     "@vitest/coverage-v8": "^4.1.0",
     "cheerio": "^1.2.0",
     "dotenv": "^17.3.1",
@@ -28,6 +29,7 @@
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
     "@eso-market-tracker/logging": "workspace:*",
+    "adm-zip": "^0.5.17",
     "wasmoon": "^1.16.0"
   },
   "exports": {
