@@ -27,6 +27,7 @@ jobs:
         uses: ./.github/actions/run-coverage
         with:
           UESP_COOKIE: ${{ secrets.UESP_COOKIE }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload sqlite artifact
