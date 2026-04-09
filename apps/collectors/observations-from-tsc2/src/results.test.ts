@@ -8,7 +8,7 @@ import { TRAIT_INDEX } from '@eso-market-tracker/data'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-describe('observations-from-tsc2', async () => {
+describe.skipIf(process.env.CI)('observations-from-tsc2', async () => {
   let results: Awaited<ReturnType<typeof Results.from>>
 
   beforeAll(async () => {

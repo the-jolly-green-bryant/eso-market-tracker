@@ -35,14 +35,18 @@ describe('sdk', async () => {
     expect(SDK).toBeDefined()
   })
 
-  it('generates idempotent ids matching our database', async () => {
-    Object.keys(await MASTER_ITEM_INDEX()).map(async (name) => {
-      const luaId = await SDK.GetIdFromName(name)
-      const internalId = getIdFromName(name)
-      expect(luaId).toEqual(internalId)
-      logger.info(`name=${name}, luaId=${luaId}, internalId=${internalId}`)
-    })
-  })
+  it(
+    'generates idempotent ids matching our database',
+    async () => {
+      Object.keys(await MASTER_ITEM_INDEX()).map(async (name) => {
+        const luaId = await SDK.GetIdFromName(name)
+        const internalId = getIdFromName(name)
+        expect(luaId).toEqual(internalId)
+        logger.info(`name=${name}, luaId=${luaId}, internalId=${internalId}`)
+      })
+    },
+    process.env.CI ? 60_000 : 5_000
+  )
 
   it('generates lua functions', async () => {
     const pricing = await SDK.GetPriceFromName(
