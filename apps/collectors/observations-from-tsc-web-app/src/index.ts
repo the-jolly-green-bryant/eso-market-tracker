@@ -1,10 +1,10 @@
 import 'dotenv/config'
-import { Results } from './results'
+import { Results, TSCAppData } from './results'
 import { constants, db, naming } from '@eso-market-tracker/database'
 import { logger } from '@eso-market-tracker/logging'
 import * as self from './index'
 
-export const getAppData = async () => {
+export const getAppData = async (): Promise<TSCAppData> => {
   const res = await fetch(
     'https://www.appsheet.com/api/template/a78de1a8-a01a-40fb-8e21-5cd32c2b6dff/',
     {

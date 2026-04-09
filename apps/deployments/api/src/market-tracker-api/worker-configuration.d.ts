@@ -10623,7 +10623,7 @@ declare abstract class AiGateway {
       extraHeaders?: object
     }
   ): Promise<Response>
-  getUrl(provider?: AIGatewayProviders | string): Promise<string> // eslint-disable-line
+  getUrl(provider?: AIGatewayProviders | string): Promise<string>
 }
 /**
  * @deprecated Use the standalone AI Search Workers binding instead.

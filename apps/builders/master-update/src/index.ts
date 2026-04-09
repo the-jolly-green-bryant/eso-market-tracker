@@ -43,5 +43,4 @@ export const buildAddon = async () => buildShardedLua()
 
 export const buildApi = async () => {
   await updateKeyValues()
-  // TODO - Deploy the API
 }
