@@ -1,7 +1,7 @@
 # ESO Market Tracker
 
 ![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/coverage-badge/badge.json)
-![CI](https://github.com/the-jolly-green-bryant/eso-market-tracker/actions/workflows/coverage.yaml/badge.svg)
+![CI](https://github.com/the-jolly-green-bryant/eso-market-tracker/actions/workflows/main.yaml/badge.svg)
 ![Node](https://img.shields.io/badge/node-22-blue)
 ![pnpm](https://img.shields.io/badge/pnpm-10-orange)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
