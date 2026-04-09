@@ -1,0 +1,140 @@
+@import '../theme/constants.scss';
+
+.inline-select {
+    border: 2px solid $background-color-lesser;
+    border-radius: $border-radius-common;
+    color: $background-color-white;
+    display: flex;
+    font-size: 14px;
+    height: 50px;
+    margin-bottom: $margin-bottom-common;
+
+    > * {
+        height: 100%;
+    }
+
+    &.skeleton-loader-background {
+        .inline-select-label {
+            background: transparent !important;
+        }
+    }
+
+    &-label {
+        align-items: center;
+        background: $background-color-lesser;
+        display: flex;
+        font-weight: 400;
+        letter-spacing: 0;
+        line-height: 18px;
+        min-width: 110px;
+        padding: 16px 15px;
+        text-align: left;
+        width: 110px;
+    }
+
+    &-dropdown {
+        flex-grow: 1;
+        position: relative;
+
+        &-arrow {
+            align-items: center;
+            display: flex;
+            pointer-events: none;
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+    }
+
+    &-dropdown select {
+        appearance: none;
+        background: transparent;
+        border: none;
+        height: 100%;
+        padding: 0 15px;
+        width: 100%;
+    }
+
+    &-daterange-picker {
+        // font-size: 10px;
+
+        width: 100%;
+
+        .react-daterange-picker {
+            height: 100%;
+            width: 100%;
+
+            &__wrapper {
+                border: none;
+                padding: 0 15px;
+            }
+
+            &__inputGroup {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            &__calendar--open {
+                align-items: center;
+                bottom: 0 !important;
+                display: flex;
+                justify-content: center;
+                left: 0 !important;
+                // min-height: 100vh;
+                position: fixed !important;
+                right: 0 !important;
+                top: 0 !important;
+                width: 100% !important;
+                z-index: 115;
+
+                .react-calendar {
+                    background: $background-color-greater;
+                    border: 1px solid $pop-of-gray;
+                    border-radius: $margin-bottom-common;
+                    // bottom: $page-container-vertical-padding;
+                    // display: flex;
+                    // flex-direction: column;
+                    // left: $page-container-horizontal-padding;
+                    // overflow: hidden;
+                    // position: fixed;
+                    // right: $page-container-horizontal-padding;
+                    // top: $page-container-vertical-padding;
+                    // z-index: 200;
+
+                    &__month-view__days__day,
+                    &__navigation__arrow,
+                    &__navigation__label,
+                    &__year-view__months__month,
+                    &__decade-view__years__year,
+                    &__century-view__decades__decade {
+                        color: $background-color-white;
+
+                        &--neighboringMonth {
+                            color: $pop-of-gray;
+                        }
+                    }
+
+                    &__tile--now {
+                        background: transparent !important;
+                        border: 1px solid #ffffa9;
+                        border-radius: 4px;
+                    }
+                }
+            }
+        }
+
+        &-modal-overlay {
+            background: $background-color-lesser;
+            bottom: 0;
+            left: 0;
+            opacity: 0.8;
+            pointer-events: none;
+            position: fixed;
+            right: 0;
+            top: 0;
+            z-index: 110;
+        }
+    }
+}

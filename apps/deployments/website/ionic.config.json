@@ -1,0 +1,7 @@
+{
+    "name": "eso_market_tracker_app",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react-vite"
+}

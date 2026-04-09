@@ -1,0 +1,59 @@
+@import '../theme/constants.scss';
+
+.modal-toggle-modal {
+    background: $background-color-greater;
+    border: 1px solid $pop-of-gray;
+    border-radius: $margin-bottom-common;
+    bottom: $page-container-vertical-padding;
+    display: flex;
+    flex-direction: column;
+    left: $page-container-horizontal-padding;
+    overflow: hidden;
+    position: fixed;
+    right: $page-container-horizontal-padding;
+    top: $page-container-vertical-padding;
+    z-index: 200;
+
+    &-header {
+        background: $background-color-header;
+        display: flex;
+        height: 45px;
+        justify-content: space-between;
+        padding: $page-container-horizontal-padding * 0.5;
+
+        &-close {
+            align-items: center;
+            display: flex;
+        }
+    }
+
+    &-content {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        height: calc(100% - 45px);
+        overflow-y: scroll;
+        padding: $page-container-horizontal-padding * 0.5;
+        padding-bottom: 0;
+
+        &-locked-header {
+            flex: none;
+        }
+
+        &-locked-header-content {
+            flex-grow: 1;
+            overflow-y: scroll;
+        }
+    }
+
+    &-overlay {
+        background: $background-color-lesser;
+        bottom: 0;
+        left: 0;
+        opacity: 0.8;
+        position: fixed;
+        right: 0;
+        top: 0;
+        z-index: 100;
+    }
+}

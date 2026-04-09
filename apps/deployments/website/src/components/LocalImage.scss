@@ -1,0 +1,14 @@
+@import '../theme/constants.scss';
+
+.local-image {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+
+    img {
+        max-width: 450px; // Temporary hard-max for larger screens.
+        object-fit: cover;
+    }
+}

@@ -1,0 +1,37 @@
+@import '../theme/constants.scss';
+
+.search-bar {
+    position: relative;
+
+    input {
+        background: transparent;
+        border: 1px solid $pop-of-gray;
+        border-radius: $border-radius-common;
+        color: $background-color-white;
+        display: block;
+        font-size: 14px;
+        font-weight: 400;
+        height: 50px;
+        line-height: 18px;
+        letter-spacing: 0em;
+        margin-bottom: 18px;
+        padding: 16px 47px 16px 15px;
+        width: 100%;
+
+        &:focus {
+            outline: none;
+        }
+    }
+
+    &-icon {
+        align-items: center;
+        color: $background-color-white;
+        cursor: pointer;
+        display: flex;
+        font-size: 20px;
+        height: 100%;
+        position: absolute;
+        right: 15px;
+        top: 0;
+    }
+}

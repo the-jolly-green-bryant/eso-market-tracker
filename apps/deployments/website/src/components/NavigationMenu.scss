@@ -1,0 +1,68 @@
+@import '../theme/constants.scss';
+
+.navigation-menu {
+    background: $background-color-greater;
+    color: $background-color-white;
+    height: 100%;
+    overflow-y: scroll;
+    padding: $page-container-horizontal-padding;
+
+    a {
+        color: $background-color-white;
+        text-decoration: none;
+    }
+
+    &-header {
+        &-image {
+            background: $pop-of-gray;
+            border-radius: 50%;
+            height: 90px;
+            margin-bottom: $margin-bottom-more;
+            overflow: hidden;
+            width: 90px;
+        }
+
+        &-title {
+            @extend .page-container-section-label;
+            margin-bottom: $margin-bottom-common;
+        }
+
+        &-button {
+            background: $tertiary-color;
+            border-radius: $border-radius-common;
+            cursor: pointer;
+            display: inline-block;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 18px;
+            letter-spacing: 0em;
+            margin-bottom: $margin-bottom-more;
+            padding: 15px 42px;
+            text-align: left;
+        }
+    }
+
+    &-section-label {
+        @extend .page-container-section-label;
+        color: $pop-of-gray;
+        margin-bottom: $margin-bottom-common;
+    }
+
+    &-section-item {
+        margin-bottom: $margin-bottom-more;
+
+        a {
+            display: flex;
+            width: 100%;
+        }
+
+        &-label {
+            flex-grow: 1;
+        }
+
+        &-icon {
+            color: $pop-of-gray;
+            font-size: 20px;
+        }
+    }
+}

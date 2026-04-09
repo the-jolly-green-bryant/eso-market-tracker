@@ -1,0 +1,52 @@
+@import '../theme/constants.scss';
+
+.floating-button {
+    background: $tertiary-color;
+    border: 2px solid $tertiary-color;
+    border-radius: $border-radius-common;
+    bottom: #{$page-container-footer-height +
+        ($page-container-vertical-padding / 2)};
+    color: $background-color-white;
+    cursor: pointer;
+    display: flex;
+    height: 50px;
+    left: $page-container-horizontal-padding;
+    overflow: hidden;
+    position: fixed;
+    width: calc(100% - #{$page-container-horizontal-padding * 2});
+    z-index: 100;
+
+    &-label {
+        align-items: center;
+        display: flex;
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 0em;
+        line-height: 18px;
+        min-width: 110px;
+        padding: 16px 15px;
+        text-align: left;
+        width: 110px;
+    }
+
+    &-value {
+        align-items: center;
+        background: $background-color-lesser;
+        display: flex;
+        flex-grow: 1;
+        padding: 0px 15px;
+
+        &.is-small {
+            font-size: 10px;
+            font-weight: 400;
+            line-height: 13px;
+            letter-spacing: 0em;
+            text-align: left;
+        }
+    }
+
+    &-spacer {
+        height: calc(50px - #{$page-container-vertical-padding / 2});
+        width: 100%;
+    }
+}

@@ -1,0 +1,58 @@
+@import '../theme/constants.scss';
+
+.loading-skeleton {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+    &:not(.is-inline) {
+        height: 100%;
+    }
+
+    &-card {
+        align-items: center;
+        background: $background-color-header;
+        border-radius: $border-radius-extra;
+        color: $background-color-white;
+        display: flex;
+        margin-bottom: $margin-bottom-common;
+        padding: 15px 19px;
+        width: 100%;
+
+        &-details-container {
+            flex-grow: 1;
+        }
+
+        &-icon {
+            align-items: center;
+            background: $accent-color;
+            border-radius: 50%;
+            display: flex;
+            font-size: 22px;
+            font-weight: 700;
+            height: 44px;
+            justify-content: center;
+            line-height: 22px;
+            margin-right: 14px;
+            min-width: 44px;
+            width: 44px;
+        }
+
+        &-title {
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 18px;
+            letter-spacing: 0em;
+            text-align: left;
+        }
+
+        &-description {
+            font-size: 10px;
+            font-weight: 400;
+            line-height: 13px;
+            letter-spacing: 0em;
+            text-align: left;
+        }
+    }
+}

@@ -1,0 +1,26 @@
+@import '../theme/constants.scss';
+
+.flat-button {
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    position: relative;
+
+    &-ripple {
+        border-radius: 50%;
+        position: absolute;
+        transform: scale(0);
+        animation-name: ripple;
+        animation-timing-function: linear;
+        animation-play-state: running;
+        background-color: rgba(255, 255, 255, 0.7);
+        z-index: 4;
+    }
+}
+
+@keyframes ripple {
+    to {
+        transform: scale(4);
+        opacity: 0;
+    }
+}

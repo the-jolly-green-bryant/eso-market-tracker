@@ -1,0 +1,59 @@
+@import '../theme/constants.scss';
+
+.tradable-item-reference {
+    a {
+        background: $background-color-lesser;
+        border-radius: $border-radius-common;
+        cursor: pointer;
+        display: flex;
+        justify-content: stretch;
+        margin-bottom: $margin-bottom-common;
+        padding: 15px;
+    }
+
+    &-label {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        margin-bottom: $margin-bottom-tiny;
+        text-align: left;
+
+        &-container {
+            flex-grow: 1;
+        }
+    }
+
+    &-price {
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 16px;
+        letter-spacing: 0em;
+        margin-bottom: $margin-bottom-tiny;
+        text-align: left;
+    }
+
+    &-sales {
+        color: $pop-of-gray;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 13px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    &-image {
+        $image-size: 60px;
+        background: $accent-color;
+        border-radius: $border-radius-extra;
+        height: $image-size;
+        margin-left: $margin-bottom-more;
+        overflow: hidden;
+        width: $image-size;
+
+        img {
+            object-fit: cover;
+            object-position: center;
+        }
+    }
+}

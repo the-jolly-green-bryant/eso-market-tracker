@@ -1,0 +1,95 @@
+@import '../theme/constants.scss';
+
+.page-container {
+    background: $background-color-header;
+    color: $text-color-strong;
+    height: 100%;
+
+    &-header {
+        align-items: center;
+        color: $background-color-white;
+        display: flex;
+        height: $page-container-header-height;
+        padding: 0 $page-container-horizontal-padding;
+        width: 100%;
+
+        &-title {
+            flex-grow: 1;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 18px;
+            letter-spacing: 0em;
+            margin-left: $margin-bottom-more;
+            text-align: left;
+        }
+    }
+
+    &-content {
+        background: $background-color-greater;
+        border-radius: $border-radius-extra $border-radius-extra 0 0;
+        height: calc(
+            100% - #{$page-container-header-height} - #{$page-container-footer-height}
+        );
+        overflow-y: scroll;
+        padding: $page-container-vertical-padding
+            $page-container-horizontal-padding;
+
+        &.bleeds-into-header {
+            background: $background-color-header;
+            padding: 0;
+        }
+
+        &-header {
+            background: $background-color-greater;
+            margin: -$page-container-vertical-padding 0 0;
+            padding: $page-container-vertical-padding 0 0;
+            position: fixed;
+            width: calc(100% - #{$page-container-horizontal-padding * 2});
+            z-index: 2;
+        }
+
+        &-header-spacer {
+            height: calc(124px - $page-container-vertical-padding);
+        }
+
+        &-header-negative-spacer {
+            height: 100%;
+            margin-top: calc(-1 * (124px - $page-container-vertical-padding));
+        }
+    }
+
+    &-footer {
+        height: $page-container-header-height;
+    }
+
+    a {
+        color: $background-color-white;
+        text-decoration: none;
+    }
+
+    &-back-button,
+    &-share-button {
+        align-items: center;
+        display: flex;
+        font-size: 20px;
+    }
+
+    ion-menu-button {
+        color: $background-color-white;
+        font-size: 22px;
+    }
+
+    &-badge {
+        align-items: center;
+        background: $tertiary-color;
+        border-radius: $border-radius-common;
+        display: flex;
+
+        font-size: 16px;
+        font-variant: small-caps;
+        font-weight: bold;
+        justify-content: center;
+        padding: 2px 8px;
+        text-transform: uppercase;
+    }
+}
