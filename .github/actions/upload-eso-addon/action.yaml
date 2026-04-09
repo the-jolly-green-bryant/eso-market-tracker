@@ -1,0 +1,150 @@
+name: Upload ESO Addon
+description: Package and upload the MarketTracker ESO addon to Bethesda.net
+
+inputs:
+  bnet_username:
+    description: Bethesda.net username
+    required: true
+  bnet_password:
+    description: Bethesda.net password
+    required: true
+  addon_id:
+    description: Bethesda.net addon UUID v4
+    required: true
+  release_note:
+    description: Release note for this upload
+    required: true
+  publish:
+    description: Whether to publish immediately
+    required: false
+    default: "true"
+  concurrency:
+    description: Upload concurrency
+    required: false
+    default: "1"
+  cli_uploader_version:
+    description: ESOAddOnUploaderCli release tag, or latest
+    required: false
+    default: "latest"
+
+runs:
+  using: composite
+  steps:
+    - name: Install tooling
+      shell: bash
+      run: |
+        set -euo pipefail
+        sudo apt-get update
+        sudo apt-get install -y curl jq tar bash coreutils zip unzip
+
+    - name: Validate inputs and package addon
+      shell: bash
+      env:
+        BNET_USERNAME: ${{ inputs.bnet_username }}
+        BNET_PASSWORD: ${{ inputs.bnet_password }}
+        ADDON_ID: ${{ inputs.addon_id }}
+        RELEASE_NOTE: ${{ inputs.release_note }}
+        PUBLISH: ${{ inputs.publish }}
+        CONCURRENCY: ${{ inputs.concurrency }}
+      run: |
+        set -euo pipefail
+
+        : "${BNET_USERNAME:?BNET_USERNAME is empty or not set}"
+        : "${BNET_PASSWORD:?BNET_PASSWORD is empty or not set}"
+        : "${ADDON_ID:?ADDON_ID is empty or not set}"
+        : "${RELEASE_NOTE:?RELEASE_NOTE is empty or not set}"
+
+        if ! [[ "$ADDON_ID" =~ ^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$ ]]; then
+          echo "ADDON_ID is not a valid UUID v4"
+          exit 1
+        fi
+
+        if ! [[ "$CONCURRENCY" =~ ^[1-9][0-9]*$ ]]; then
+          echo "CONCURRENCY is not a positive integer"
+          exit 1
+        fi
+
+        ADDON_SOURCE="app/deployments/eso-addon/src/MarketTracker"
+        ADDON_FOLDER="MarketTracker"
+        ZIP_FILE="MarketTracker.zip"
+
+        if [ ! -d "$ADDON_SOURCE" ]; then
+          echo "Addon source folder not found: $ADDON_SOURCE"
+          exit 1
+        fi
+
+        echo "Packaging addon from $ADDON_SOURCE ..."
+        rm -rf build "$ZIP_FILE"
+        mkdir -p "build"
+
+        cp -R "$ADDON_SOURCE" "build/$ADDON_FOLDER"
+
+        cd build
+        zip -r "../$ZIP_FILE" "$ADDON_FOLDER"
+        cd ..
+
+        echo "Created $ZIP_FILE"
+        unzip -l "$ZIP_FILE"
+
+        if [ ! -f "$ZIP_FILE" ]; then
+          echo "Zip file not found: $ZIP_FILE"
+          exit 1
+        fi
+
+    - name: Download uploader and upload release
+      shell: bash
+      env:
+        BNET_USERNAME: ${{ inputs.bnet_username }}
+        BNET_PASSWORD: ${{ inputs.bnet_password }}
+        ADDON_ID: ${{ inputs.addon_id }}
+        RELEASE_NOTE: ${{ inputs.release_note }}
+        PUBLISH: ${{ inputs.publish }}
+        CONCURRENCY: ${{ inputs.concurrency }}
+        CLI_UPLOADER_VERSION: ${{ inputs.cli_uploader_version }}
+      run: |
+        set -euo pipefail
+
+        echo "Downloading ESOAddOnUploaderCli..."
+        if [ "$CLI_UPLOADER_VERSION" = "latest" ]; then
+          api_endpoint="latest"
+        else
+          api_endpoint="tags/${CLI_UPLOADER_VERSION}"
+        fi
+
+        URL=$(curl -fsSL "https://api.github.com/repos/sirinsidiator/ESOAddOnUploaderCLI/releases/${api_endpoint}" \
+          | jq -r '.assets[] | select(.name? | test("-linux.tar.gz$")) | .browser_download_url')
+
+        if [ -z "$URL" ] || [ "$URL" = "null" ]; then
+          echo "Failed to get download URL for ESOAddOnUploaderCli"
+          exit 1
+        fi
+
+        curl -fsSL "$URL" -o ESOAddOnUploaderCli.tar.gz
+        tar -xzf ESOAddOnUploaderCli.tar.gz
+        chmod +x ESOAddOnUploaderCli
+
+        if ! ./ESOAddOnUploaderCli --help >/dev/null 2>&1; then
+          echo "ESOAddOnUploaderCli failed to start"
+          exit 1
+        fi
+
+        jq -n \
+          --arg addonId "$ADDON_ID" \
+          --arg version "${GITHUB_SHA::7}" \
+          --arg note "$RELEASE_NOTE" \
+          '{ addonId: $addonId, version: $version, note: $note }' > generated-cli-config.json
+
+        export BNET_USERNAME BNET_PASSWORD
+
+        if [ "$PUBLISH" = "false" ]; then
+          PUBLISH_FLAG="--no-publish"
+        else
+          PUBLISH_FLAG=""
+        fi
+
+        ./ESOAddOnUploaderCli upload "MarketTracker.zip" \
+          --config "generated-cli-config.json" \
+          --concurrency "$CONCURRENCY" \
+          $PUBLISH_FLAG
+
+        echo "Upload successful"
