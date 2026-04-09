@@ -1,7 +1,7 @@
 import 'dotenv/config'
 import { Results, TSCAppData } from './results'
 import { constants, db, naming } from '@eso-market-tracker/database'
-import { logger } from '@eso-market-tracker/logging'
+import { logger, orThrow } from '@eso-market-tracker/logging'
 import * as self from './index'
 
 export const getAppData = async (): Promise<TSCAppData> => {
@@ -54,11 +54,10 @@ export const getAppData = async (): Promise<TSCAppData> => {
     }
   )
 
-  if (!res.ok) {
-    throw new Error(`Request failed: ${res.status} ${res.statusText}`)
-  }
-
-  return await res.json()
+  return (
+    (res.ok && (await res.json())) ||
+    orThrow(new Error(`Request failed: ${res.status} ${res.statusText}`))
+  )
 }
 
 export const collectObservations = async () => {
