@@ -30,7 +30,7 @@ jobs:
         run: pnpm install --no-frozen-lockfile
 
       - name: Build sqlite database
-        run: pnpm run build:sqlite
+        run: cd data && pnpm run build:sqlite
 
       - name: Upload sqlite artifact
         uses: actions/upload-artifact@v4
