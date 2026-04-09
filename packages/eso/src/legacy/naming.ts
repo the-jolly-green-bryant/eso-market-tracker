@@ -1394,7 +1394,7 @@ const KNOWN_HYPHENABLES = [
 
 // We have to reinsert hyphens because EMT replaces them with spaces, but we
 //  are now removing them entirely.
-const _replaceHyphens = (result: string) => {
+export const _replaceHyphens = (result: string) => {
   KNOWN_HYPHENABLES.map((i) => i.toLowerCase().replace("'", ''))
     .filter((i) => result.includes(i))
     .forEach((i) => {

@@ -18,5 +18,18 @@ describe('images', async () => {
     await expect(
       async () => await getValidatedRequest('blah.comp')
     ).rejects.toThrow(/failed/)
+
+    await expect(
+      async () =>
+        await getValidatedRequest(
+          'https://raw.githubusercontent.com/selva86/datasets/refs/heads/master/sample.txt'
+        )
+    ).rejects.toThrow(/valid/)
+
+    await expect(
+      getValidatedRequest(
+        'https://github.com/ImageGlass/sample-images/blob/master/Samples/JPG/auto_rotate.jpg?raw=true'
+      )
+    ).resolves.not.toThrow()
   })
 })

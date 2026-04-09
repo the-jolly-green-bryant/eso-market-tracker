@@ -29,13 +29,6 @@ export const getValidatedRequest = async (
   return r
 }
 
-export const getFilenameFromDisposition = (r: Response): string | null => {
-  const disposition = r.headers.get('content-disposition')
-  if (!disposition) return null
-  const match = disposition.match(/filename="?([^"]+)"?/)
-  return match?.at(1) || null
-}
-
 export const getFilenameFromUrl = (url: string) => {
   return new URL(url).pathname.split('/').pop()!
 }
