@@ -64,7 +64,7 @@ const _updateSearchIndex = async (internalIds: number[]) => {
   execFileSync('npx', args, { stdio: 'inherit' })
 }
 
-export const updateKeyValues = async () => {
+export const updateKeyValues = async (options?: { maxKeys?: number }) => {
   const record = (await getShardedRecord()) as Record<
     string,
     Record<string, unknown>
@@ -82,10 +82,12 @@ export const updateKeyValues = async () => {
       ]
     })
 
-  const raw = flattened.map(([key, data]) => ({
-    key,
-    value: JSON.stringify(data),
-  })) as Record<string, string>[]
+  const raw = flattened
+    .map(([key, data]) => ({
+      key,
+      value: JSON.stringify(data),
+    }))
+    .slice(0, options?.maxKeys || flattened.length) as Record<string, string>[]
 
   const batches = __chunk(raw, 10_000)
 

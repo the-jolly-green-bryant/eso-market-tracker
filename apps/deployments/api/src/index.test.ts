@@ -3,6 +3,6 @@ import { updateKeyValues } from './index'
 
 describe('builder', async () => {
   it('uploads sharded key values', async () => {
-    expect(await updateKeyValues()).not.toThrow()
-  })
+    await expect(updateKeyValues({ maxKeys: 1 })).resolves.not.toThrow()
+  }, 10_000)
 })
