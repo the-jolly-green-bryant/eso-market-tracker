@@ -117,7 +117,7 @@ export const _queryUESP = async (
     },
   })
 
-  const ignore =
+  const _ =
     res.ok || orThrow(new Error(`Failed: ${res.status} ${res.statusText}`))
   return await res.text()
 }
@@ -125,9 +125,18 @@ export const _queryUESP = async (
 export const lookupIdInUESP = async (
   id: number
 ): Promise<[ItemMeta, string | null]> => {
-  const r = await _queryUESP(
-    `https://esolog.uesp.net/viewlog.php?action=view&record=item&id=${id}`
-  )
+  let r
+  try {
+    r = await _queryUESP(
+      `https://esolog.uesp.net/viewlog.php?action=view&record=item&id=${id}`
+    )
+  } catch (e) {
+    if (process.env.CI) {
+      return [null!, null]
+    }
+
+    throw e
+  }
 
   if (r.includes('Failed to retrieve record from database')) {
     return [null!, null]

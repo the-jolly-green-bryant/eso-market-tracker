@@ -24,6 +24,7 @@ runs:
       env:
         UESP_COOKIE: ${{inputs.UESP_COOKIE}}
         CLOUDFLARE_API_TOKEN: ${{inputs.CLOUDFLARE_API_TOKEN}}
+        CI: 1
 
 
     - name: Extract total line coverage
