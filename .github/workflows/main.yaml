@@ -32,6 +32,8 @@ jobs:
 
       - name: Deploy API
         run: cd apps/deployments/api/src/market-tracker-api && npx wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload sqlite artifact
         uses: actions/upload-artifact@v4
