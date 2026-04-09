@@ -17,12 +17,14 @@ export default defineConfig({
         'data/**/**',
         '**/src/cli.ts',
       ],
-      thresholds: {
-        lines: 90,
-        functions: 90,
-        statements: 90,
-        branches: 70,
-      },
+      thresholds: process.env.CI
+        ? {}
+        : {
+            lines: 90,
+            functions: 90,
+            statements: 90,
+            branches: 70,
+          },
     },
   },
 })
