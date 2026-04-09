@@ -8,7 +8,11 @@ inputs:
     default: ""
   GITHUB_TOKEN:
     required: false
-    description: The cookie needed for accessing UESP
+    description: The token for coverage upload
+    default: ""
+  CLOUDFLARE_API_TOKEN:
+    required: false
+    description: The token for Cloudflare KV
     default: ""
 
 runs:
@@ -17,6 +21,9 @@ runs:
     - name: Run coverage
       run: pnpm run coverage
       shell: bash
+      env:
+        UESP_COOKIE: ${{inputs.UESP_COOKIE}}
+        CLOUDFLARE_API_TOKEN: ${{inputs.CLOUDFLARE_API_TOKEN}}
 
 
     - name: Extract total line coverage
