@@ -1,4 +1,4 @@
-name: Coverage
+name: Main
 
 on:
   push:
