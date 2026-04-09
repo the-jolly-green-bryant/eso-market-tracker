@@ -268,6 +268,7 @@ const buildPricingData = async (item: Item) => {
                 const historicalDataPath = `${itemDirectory}/${variantId}.${p}.historical.json`
                 const rawOldData =
                   (await emtDatabase.readFromFile(historicalDataPath)) || {}
+
                 let oldData = (
                   Array.isArray(rawOldData)
                     ? rawOldData
@@ -338,7 +339,11 @@ export const buildDatabase = async (options?: {
   const insertingDone = insertItems(items, options)
   logger.info('Grabbed Items')
   const pairs = (
-    await Promise.all(items.map(async (i) => await buildPricingData(i)))
+    await Promise.all(
+      items.map(async (i) =>
+        emtDatabase.throttleFileWrites(async () => await buildPricingData(i))
+      )
+    )
   )
     .flat()
     .filter(Boolean)
@@ -380,7 +385,6 @@ const getKnownVariantsForItem = async (
   const filePaths = await fg([
     `${__dirname}/../${directory}/${internalId}*.*.historical.json`,
   ])
-  // throw new Error(`${directory}`)
   return filePaths
     .map((i) => i.split('/').at(-1)!)
     .map((i) => i.replace(/(.*?)\..*?\.historical\.json/, '$1'))
