@@ -179,4 +179,14 @@ A number of indexes are maintained for bulk data operations such as deployment c
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE.md` file for details.
+This project is licensed under a modified MIT License. See the `LICENSE.md` file for
+ details.
+
+---
+
+### Copyright
+
+This software is not created by, affiliated with or sponsored by ZeniMax Media Inc. or
+ its affiliates. The Elder Scrolls and related logos are registered trademarks or
+ trademarks of ZeniMax Media Inc. in the United States and/or other countries. All
+ rights reserved.

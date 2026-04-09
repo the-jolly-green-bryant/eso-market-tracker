@@ -2,9 +2,8 @@
 
 ## Next Up
 
-- API solution (needs to be low/no cost), maybe as simple as a single serverless
- function
-- CI/CD
-- Replace esomarkettracker.com
+- CI/CD - Deploy API
+- esomarkettracker - to repo
+- esomarkettracker - wire to use new api
 
-- Addon Deployment
+- CI/CD - Addon Deployment
