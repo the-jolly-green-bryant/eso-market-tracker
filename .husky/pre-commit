@@ -8,4 +8,4 @@ pnpm typecheck
 echo "Injecting version..."
 
 pnpm run inject-version
-git add package.json packages/*/package.json apps/deployments/eso-addon/src/MarketTracker/MarketTracker.addon README.md
+git add package.json packages/*/package.json apps/deployments/eso-addon/src/MarketTracker/MarketTracker.addon README.md apps/deployments/api/src/*/package.json
