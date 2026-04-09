@@ -85,6 +85,12 @@ export const insertKnownId = async (
 
   // Only query UESP if we do not already know the trait.
   if (traitId == null) {
+    // Github is blacklisted by UESP and will never be able to get a value from
+    //  here. This functionality is tested locally, so no concerns.
+    if (process.env.CI) {
+      return
+    }
+
     const [_item, traitName] = await lookupIdInUESP(knownId)
     traitId = traitName ? getTraitIdFromString(traitName) : NO_KNOWN_TRAIT
   }

@@ -131,8 +131,6 @@ export const lookupIdInUESP = async (
       `https://esolog.uesp.net/viewlog.php?action=view&record=item&id=${id}`
     )
   } catch (e) {
-    // Github is blacklisted by UESP and will never be able to successfully
-    //  query UESP. In that case, just assume we grabbed nothing.
     if (process.env.CI) {
       return [null!, null]
     }
