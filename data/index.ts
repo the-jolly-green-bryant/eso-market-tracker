@@ -40,9 +40,9 @@ export const MASTER_PRICING_INDEX = async (): Promise<
   return _MASTER_PRICING_INDEX
 }
 
-let _MASTER_ITEM_INDEX: Record<number, [number, number | null]>
+let _MASTER_ITEM_INDEX: Record<string, ItemMeta>
 export const MASTER_ITEM_INDEX = async (): Promise<
-  Record<number, [number, number | null]>
+  Record<string, ItemMeta>
 > => {
   if (_MASTER_ITEM_INDEX) return _MASTER_ITEM_INDEX
 
@@ -50,7 +50,7 @@ export const MASTER_ITEM_INDEX = async (): Promise<
     path.join(__dirname, 'index', 'master-items.json')
   )
   const data = JSON.parse(buf.toString('utf8'))
-  _MASTER_ITEM_INDEX = data as Record<number, [number, number | null]>
+  _MASTER_ITEM_INDEX = data as Record<string, ItemMeta>
   return _MASTER_ITEM_INDEX
 }
 
