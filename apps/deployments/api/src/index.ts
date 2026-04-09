@@ -85,7 +85,7 @@ export const updateKeyValues = async () => {
   const raw = flattened.map(([key, data]) => ({
     key,
     value: JSON.stringify(data),
-  }))
+  })) as Record<string, string>[]
 
   const batches = __chunk(raw, 10_000)
 

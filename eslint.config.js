@@ -32,6 +32,10 @@ export default [
       'sonarjs/no-nested-assignment': 'off',
       'max-lines-per-function': ['error', 80],
       '@typescript-eslint/no-unused-expressions': 'off',
+      '@typescript-eslint/no-unused-vars': [
+        'error',
+        { argsIgnorePattern: '^_' },
+      ],
       'sonarjs/no-os-command-from-path': 'off',
       'sonarjs/slow-regex': 'off',
       'jsdoc/require-jsdoc': [

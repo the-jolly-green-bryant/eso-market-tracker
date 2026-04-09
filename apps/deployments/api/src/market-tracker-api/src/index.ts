@@ -415,7 +415,7 @@ const item = async (key: string, env: Env) => {
 }
 
 export default {
-  async fetch(request, env, ctx): Promise<Response> {
+  async fetch(request, env, _ctx): Promise<Response> {
     if (request.method !== 'GET') {
       return methodNotAllowed()
     }

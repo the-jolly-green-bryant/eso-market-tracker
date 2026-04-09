@@ -9,7 +9,9 @@ import * as db from '@eso-market-tracker/data'
 import { orThrow } from '@eso-market-tracker/logging'
 import * as self from './results'
 
-export const makeQuery = async (query: string) => {
+export const makeQuery = async (
+  query: string
+): Promise<{ data: { data: EMTItem | EMTItem[] } }> => {
   const endpoint = 'https://api.esomarkettracker.com/graphql/'
   const r = await fetch(endpoint, {
     method: 'POST',
@@ -48,7 +50,10 @@ type EMTStat = {
   numberOfQualitiesTracked: number
 }
 
-type EMTItem = {
+/**
+ * A representation of legacy EMT's data.
+ */
+export type EMTItem = {
   label: string
   slug: string
   currentXboxStats: EMTStat
@@ -56,6 +61,11 @@ type EMTItem = {
   name: string
   db: ItemMeta
   trait: number | null
+}
+
+type EMTItemEx = EMTItem & {
+  db: ItemMeta | null
+  trait: string | ItemMeta | null
 }
 
 export const getHistoricalItemData = async (slug: string) => {
@@ -86,7 +96,8 @@ export const getHistoricalItemData = async (slug: string) => {
     }
   }`
 
-  return (await self.makeQuery(payload)).data.data.historicalXboxStats
+  return ((await self.makeQuery(payload)).data.data as EMTItem)
+    .historicalXboxStats
 }
 
 const findItemByNameWithTraitFallback = (name: string) => {
@@ -132,7 +143,7 @@ export const getPageResults = async (offset: number, limit: number) => {
   }`
 
   return Promise.all(
-    (await self.makeQuery(payload)).data.data
+    ((await self.makeQuery(payload)).data.data as EMTItem[])
       .map((i: EMTItem) => ({
         ...i,
         name: legacyNaming.internalToName(i.label),
@@ -149,7 +160,7 @@ export const getPageResults = async (offset: number, limit: number) => {
           historicalXboxStats: await self.getHistoricalItemData(i.slug),
         }
       })
-  )
+  ) as Promise<EMTItemEx[]>
 }
 
 const isDefined = <T>(value: T | null | undefined): value is T => value != null
@@ -170,7 +181,7 @@ const _getKeyForQualityData = (qualityLabel: string | null) =>
  *  log a result for each available quality. If the item has a trait, we want
  *  to log these results under the root item, not the canonical item.
  */
-export const getObservationsFromResults = (pageResults: EMTItem[]) => {
+export const getObservationsFromResults = (pageResults: EMTItemEx[]) => {
   return pageResults.flatMap((k) =>
     k.historicalXboxStats.flatMap((i) =>
       qualityLookup
@@ -212,7 +223,7 @@ export const Results = {
     const limit = options?.limit || 10
     const pageResults = await self.getPageResults(offset, limit)
     const observations = self.getObservationsFromResults(
-      pageResults.filter((i: EMTItem) => i.name != 'a savage ring')
+      pageResults.filter((i) => i.name != 'a savage ring')
     )
 
     return {

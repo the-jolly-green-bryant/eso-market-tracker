@@ -16,7 +16,10 @@ const findItemByName = (name: string): ItemMeta => {
   return db.findItemByName(legacyName) as unknown as ItemMeta
 }
 
-type TSCAppData = {
+/**
+ * Representation of the data retrieved from AppSheet
+ */
+export type TSCAppData = {
   NestedDataSets: {
     Name: string
     DataSet: string
