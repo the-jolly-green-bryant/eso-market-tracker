@@ -1,10 +1,15 @@
+import { fileURLToPath } from 'url'
 import fs from 'node:fs'
 import path from 'node:path'
 import { execSync } from 'node:child_process'
 
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+
 const ROOT = process.cwd()
 const ADDON_FILE = path.join(
-  ROOT,
+  __dirname,
+  '..',
   'apps',
   'deployments',
   'eso-addon',
@@ -79,3 +84,44 @@ for (const filePath of packageJsonFiles) {
 }
 
 updateAddonVersion(ADDON_FILE, version)
+
+// Update README.md based on the template.
+void (() => {
+  const template = fs.readFileSync(
+    path.join(__dirname, '..', 'README.template.md'),
+    'utf8'
+  )
+
+  const countMatchingFiles = (dir, suffix) => {
+    let count = 0
+
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const fullPath = path.join(dir, entry.name)
+
+      if (entry.isDirectory()) {
+        count += countMatchingFiles(fullPath, suffix)
+      } else if (entry.isFile() && entry.name.endsWith(suffix)) {
+        count += 1
+      }
+    }
+
+    return count
+  }
+
+  const today = new Date().toISOString().slice(0, 10)
+  const content = ['xbox-na', 'xbox-eu', 'ps-na', 'ps-eu']
+    .reduce((acc, platform) => {
+      const suffix = `.${platform}.current.json`
+      const count = countMatchingFiles(
+        path.join(__dirname, '..', 'data', 'items'),
+        suffix
+      )
+      return acc.replace(
+        `%${platform.replace('-', '_').toUpperCase()}_COUNT%`,
+        count
+      )
+    }, template)
+    .replace('%LAST_UPDATE%', today)
+
+  fs.writeFileSync(path.join(__dirname, '..', 'README.md'), content)
+})()

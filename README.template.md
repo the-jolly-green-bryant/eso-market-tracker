@@ -10,12 +10,12 @@ An open source pricing database for **The Elder Scrolls Online**.
 
 | Mega-server | Item Count      |
 |-------------|-----------------|
-| XBOX-NA     | 130968 |
-| XBOX-EU     | 53107 |
-| PS-NA       | 85526   |
-| PS-EU       | 45284   |
+| XBOX-NA     | %XBOX_NA_COUNT% |
+| XBOX-EU     | %XBOX_EU_COUNT% |
+| PS-NA       | %PS_NA_COUNT%   |
+| PS-EU       | %PS_EU_COUNT%   |
 
-_Last Updated: 2026-04-09_
+_Last Updated: %LAST_UPDATE%_
 
 This project collects, normalizes, indexes, and exposes large-scale market pricing data
 across platforms and time. It is the spiritual successor to [ESO Market Tracker](https://esomarkettracker.com).
