@@ -1,4 +1,4 @@
-name: Main
+name: CI/CD
 
 on:
   push:
@@ -10,106 +10,24 @@ permissions:
   contents: write
 
 jobs:
-  build-database:
+  release:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repo
         uses: actions/checkout@v6
 
-      - name: Set up pnpm
-        uses: pnpm/action-setup@v4
+      - name: Setup project
+        uses: ./.github/actions/setup-dependencies
 
-      - name: Set up Node
-        uses: actions/setup-node@v6
-        with:
-          node-version: 22
-          cache: pnpm
-
-      - name: Install dependencies
-        run: pnpm install --no-frozen-lockfile
-
-      - name: Build sqlite database
-        run: cd data && pnpm run build:sqlite
-
-      - name: Upload sqlite artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: sqlite-database
-          path: data/artifacts/data.sqlite
-          if-no-files-found: error
-          retention-days: 7
-
-  coverage:
-    if: github.ref == 'refs/heads/main'
-    needs: build-database
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v6
-
-      - name: Download sqlite artifact
-        uses: actions/download-artifact@v5
-        with:
-          name: sqlite-database
-          path: data/artifacts
-
-      - name: Set up pnpm
-        uses: pnpm/action-setup@v4
-
-      - name: Set up Node
-        uses: actions/setup-node@v6
-        with:
-          node-version: 22
-          cache: pnpm
-
-      - name: Install dependencies
-        run: pnpm install --no-frozen-lockfile
-
-      - name: Build sqlite database
-        run: pnpm run build:sqlite
+      - name: Build database
+        uses: ./.github/actions/build-sqlite
 
       - name: Run coverage
-        run: pnpm run coverage
-        env:
-          UESP_COOKIE: ${{ secrets.UESP_COOKIE }}
-          CI: 'true'
-
-      - name: Extract total line coverage
-        run: |
-          COVERAGE=$(node -e "const fs=require('fs'); const summary=JSON.parse(fs.readFileSync('./coverage/coverage-summary.json','utf8')); console.log(summary.total.lines.pct)")
-          echo "COVERAGE=$COVERAGE" >> $GITHUB_ENV
-
-      - name: Choose badge color
-        run: |
-          if (( $(echo "$COVERAGE >= 90" | bc -l) )); then
-            COLOR="brightgreen"
-          elif (( $(echo "$COVERAGE >= 80" | bc -l) )); then
-            COLOR="green"
-          elif (( $(echo "$COVERAGE >= 70" | bc -l) )); then
-            COLOR="yellow"
-          elif (( $(echo "$COVERAGE >= 60" | bc -l) )); then
-            COLOR="orange"
-          else
-            COLOR="red"
-          fi
-          echo "BADGE_COLOR=$COLOR" >> $GITHUB_ENV
-
-      - name: Generate badge JSON
-        if: github.ref == 'refs/heads/main'
-        run: |
-          mkdir -p coverage-badge
-          printf '{"schemaVersion":1,"label":"coverage","message":"%s%%","color":"%s"}\n' "$COVERAGE" "$BADGE_COLOR" > coverage-badge/badge.json
-
-      - name: Deploy badge branch
-        if: github.ref == 'refs/heads/main'
-        uses: peaceiris/actions-gh-pages@v4
+        uses: ./.github/actions/run-coverage
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: coverage-badge
-          publish_branch: coverage-badge
-          force_orphan: true
+          UESP_COOKIE: ${{ secrets.UESP_COOKIE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload sqlite artifact
         uses: actions/upload-artifact@v4
@@ -118,18 +36,6 @@ jobs:
           path: data/artifacts/data.sqlite
           if-no-files-found: error
           retention-days: 7
-
-  release-sqlite:
-    if: github.ref == 'refs/heads/main'
-    needs: coverage
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Download sqlite artifact
-        uses: actions/download-artifact@v5
-        with:
-          name: sqlite-database
-          path: release-assets
 
       - name: Create or update rolling release
         env:
@@ -137,7 +43,7 @@ jobs:
         run: |
           TAG="latest"
           TITLE="Latest"
-          FILE="release-assets/database.sqlite"
+          FILE="data.sqlite"
 
           gh release view "$TAG" >/dev/null 2>&1 || \
             gh release create "$TAG" \

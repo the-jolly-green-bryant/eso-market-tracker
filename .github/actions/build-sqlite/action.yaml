@@ -1,0 +1,17 @@
+name: Build SQLite Artifact
+description: Builds the current pricing data into an sqlite database.
+
+runs:
+  using: composite
+  steps:
+    - name: Build sqlite database
+      run: cd data && pnpm run build:sqlite
+      shell: bash
+
+    - name: Upload sqlite artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: sqlite-database
+        path: data/artifacts/data.sqlite
+        if-no-files-found: error
+        retention-days: 7
