@@ -13,7 +13,7 @@ export const Item = {
     const item = {
       id: getIdFromName(meta.name),
       quality: additional?.quality ?? null,
-      trait: additional?.trait ?? null,
+      trait: (additional?.trait != -1 && additional?.trait) ?? null,
       meta,
     }
 

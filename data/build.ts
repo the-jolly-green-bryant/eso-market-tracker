@@ -183,14 +183,18 @@ const _directoryExists = async (dir: string) => {
 }
 
 const _getDirectories = async (dir: string): Promise<string[]> => {
-  const fullPath = path
-    .resolve(process.cwd(), dir)
-    .replace('/data/data', '/data')
-  const entries = await fsPromises.readdir(fullPath, { withFileTypes: true })
+  try {
+    const fullPath = path
+      .resolve(process.cwd(), dir)
+      .replace('/data/data', '/data')
+    const entries = await fsPromises.readdir(fullPath, { withFileTypes: true })
 
-  return entries
-    .filter((entry) => entry.isDirectory())
-    .map((entry) => entry.name)
+    return entries
+      .filter((entry) => entry.isDirectory())
+      .map((entry) => entry.name)
+  } catch {
+    return []
+  }
 }
 
 const _getNestedFiles = (dir: string, baseDir = dir): string[] => {
@@ -218,91 +222,109 @@ const buildPricingData = async (item: Item) => {
   const itemDirectory = naming.getItemDirectory(item)
   const observationDirectory = `${itemDirectory.replace('items', 'observations')}/${item.id}`
 
-  // If the observation directory doesn't exist, we don't have any data for this
-  //  item.
-
-  if (!(await _directoryExists(observationDirectory))) {
-    return []
-  }
-
   // Get any folders in the observation directory. This will tell us what
   //  variants we have access to.
 
-  const variants = await _getDirectories(observationDirectory)
+  const _getVariants = async () => {
+    const variantsFromObservations = await _getDirectories(observationDirectory)
+    const variantsFromItems = await getKnownVariantsForItem(
+      itemDirectory,
+      item.id
+    )
+    return [...new Set([...variantsFromObservations, ...variantsFromItems])]
+  }
+
+  const variants = await _getVariants()
   return (
     await Promise.all(
-      variants.map(async (variantId) => {
-        const variantDirectory = `${observationDirectory}/${variantId}`
-        const availablePlatforms = [
-          constants.XBOX_NA,
-          constants.XBOX_EU,
-          constants.PS_EU,
-          constants.PS_NA,
-        ]
-        const platforms = await _getDirectories(variantDirectory)
-        return (
-          await Promise.all(
-            availablePlatforms.map(async (p) => {
-              const platformDirectory = `${variantDirectory}/${p}`
-              const historicalDataPath = `${itemDirectory}/${variantId}.${p}.historical.json`
-              const rawOldData =
-                (await emtDatabase.readFromFile(historicalDataPath)) || {}
-              let oldData = (
-                Array.isArray(rawOldData)
-                  ? rawOldData
-                  : rawOldData
-                    ? Object.values(rawOldData)
-                    : []
-              ) as ItemObservation['stats'][]
+      variants
+        .map(async (variantId) => {
+          // Cleans up bad data. Ultimately obsolete.
+          if (
+            variantId.includes('--1---') &&
+            variants.includes(variantId.replace('--1---', '------'))
+          ) {
+            const variantPattern = `${__dirname}/../${itemDirectory}/${variantId}.*.*.json`
+            await Promise.all(
+              (await fg([variantPattern])).map((i) =>
+                fs.promises.rm(i, { force: true })
+              )
+            )
+            return []
+          }
 
-              if (platforms.includes(p)) {
-                // Get every relative path for files deeply nested in this directory.
-                const observations = oldData
-                  .concat(
-                    (await Promise.all(
-                      _getNestedFiles(platformDirectory).map(
-                        async (filePath) =>
-                          await emtDatabase.readFromFile(filePath)
-                      )
-                    )) as ItemObservation['stats'][]
-                  )
-                  .filter((i) => i && i.maximum)
-                  .sort((a, b) => a.date.localeCompare(b.date))
-
-                // Remove our duplicates.
-                const unique = Array.from(
-                  new Map(observations.map((o) => [o.date, o])).values()
+          const variantDirectory = `${observationDirectory}/${variantId}`
+          const availablePlatforms = [
+            constants.XBOX_NA,
+            constants.XBOX_EU,
+            constants.PS_EU,
+            constants.PS_NA,
+          ]
+          const platforms = await _getDirectories(variantDirectory)
+          return (
+            await Promise.all(
+              availablePlatforms.map(async (p) => {
+                const platformDirectory = `${variantDirectory}/${p}`
+                const historicalDataPath = `${itemDirectory}/${variantId}.${p}.historical.json`
+                const rawOldData =
+                  (await emtDatabase.readFromFile(historicalDataPath)) || {}
+                let oldData = (
+                  Array.isArray(rawOldData)
+                    ? rawOldData
+                    : rawOldData
+                      ? Object.values(rawOldData)
+                      : []
                 ) as ItemObservation['stats'][]
 
-                // Write everything out to the master history file.
-                await emtDatabase.deleteFile(historicalDataPath)
-                await emtDatabase.writeToFile(
-                  { ...unique } as Record<
-                    number,
-                    Record<string, number | string | null>
-                  >,
-                  historicalDataPath
-                )
-                logger.info(`Wrote to ${historicalDataPath}`)
+                if (platforms.includes(p)) {
+                  // Get every relative path for files deeply nested in this directory.
+                  const observations = oldData
+                    .concat(
+                      (await Promise.all(
+                        _getNestedFiles(platformDirectory).map(
+                          async (filePath) =>
+                            await emtDatabase.readFromFile(filePath)
+                        )
+                      )) as ItemObservation['stats'][]
+                    )
+                    .filter((i) => i && i.maximum)
+                    .sort((a, b) => a.date.localeCompare(b.date))
 
-                oldData = unique
-              }
+                  // Remove our duplicates.
+                  const unique = Array.from(
+                    new Map(observations.map((o) => [o.date, o])).values()
+                  ) as ItemObservation['stats'][]
 
-              if (oldData.length) {
-                // Write our latest entry to file.
-                await emtDatabase.writeToFile(
-                  oldData.at(-1)!,
-                  historicalDataPath.replace('historical', 'current')
-                )
+                  // Write everything out to the master history file.
+                  await emtDatabase.deleteFile(historicalDataPath)
+                  await emtDatabase.writeToFile(
+                    { ...unique } as Record<
+                      number,
+                      Record<string, number | string | null>
+                    >,
+                    historicalDataPath
+                  )
+                  logger.info(`Wrote to ${historicalDataPath}`)
 
-                return [[`${variantId}.${p}`, oldData.at(-1)]]
-              }
+                  oldData = unique
+                }
 
-              return []
-            })
-          )
-        ).flat()
-      })
+                if (oldData.length) {
+                  // Write our latest entry to file.
+                  await emtDatabase.writeToFile(
+                    oldData.at(-1)!,
+                    historicalDataPath.replace('historical', 'current')
+                  )
+
+                  return [[`${variantId}.${p}`, oldData.at(-1)]]
+                }
+
+                return []
+              })
+            )
+          ).flat()
+        })
+        .filter(Boolean)
     )
   ).flat()
 }
@@ -316,12 +338,10 @@ export const buildDatabase = async (options?: {
   const insertingDone = insertItems(items, options)
   logger.info('Grabbed Items')
   const pairs = (
-    await Promise.all(
-      items.map((i) =>
-        emtDatabase.throttleFileWrites(async () => await buildPricingData(i))
-      )
-    )
-  ).flat()
+    await Promise.all(items.map(async (i) => await buildPricingData(i)))
+  )
+    .flat()
+    .filter(Boolean)
   logger.info('Built pricing data')
 
   // Log pricing to master file for quicker building.
@@ -351,6 +371,19 @@ const getFilesRecursively = (directory: string): string[] => {
 
     return []
   })
+}
+
+const getKnownVariantsForItem = async (
+  directory: string,
+  internalId: number
+) => {
+  const filePaths = await fg([
+    `${__dirname}/../${directory}/${internalId}*.*.historical.json`,
+  ])
+  // throw new Error(`${directory}`)
+  return filePaths
+    .map((i) => i.split('/').at(-1)!)
+    .map((i) => i.replace(/(.*?)\..*?\.historical\.json/, '$1'))
 }
 
 const getItemsFromDirectory = async (directory: string): Promise<Item[]> => {
