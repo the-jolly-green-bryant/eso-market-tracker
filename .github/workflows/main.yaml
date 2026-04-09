@@ -46,14 +46,6 @@ jobs:
           concurrency: "1"
           cli_uploader_version: "latest"
 
-      - name: Upload sqlite artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: sqlite-database
-          path: data/artifacts/data.sqlite
-          if-no-files-found: error
-          retention-days: 7
-
       - name: Create or update rolling release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
