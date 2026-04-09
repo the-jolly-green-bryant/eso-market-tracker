@@ -84,7 +84,7 @@ const _getTraitLuaCode = (o: NestedRecord) =>
     .map(
       ([traitId, o]) => `
               ["${traitId}"] = {
-                -- Qualities${_getQualityLuaCode(o)}
+                ${_getQualityLuaCode(o)}
               }`
     )
     .join(',\n')
@@ -103,7 +103,6 @@ const _getInternalIdLuaCode = (o: NestedRecord) =>
     .map(
       ([internalId, o]) => `["${internalId}"] = function (platform)
           return ({
-            -- Platforms
             ${_getPlatformLuaCode(o)}
           })[tostring(platform)]
         end`
@@ -153,7 +152,7 @@ export const buildShardedLua = async () => {
         'MarketTracker',
         `data.${fileKey}.lua`
       )
-      fs.promises.writeFile(
+      return fs.promises.writeFile(
         writePath,
         lua
           .join('\n\n')
