@@ -318,7 +318,7 @@ type SearchItem = {
   normalizedName: string
 }
 
-const __dedupe = <T>(items: T[], keyFn: (item: T) => string): T[] => {
+export const __dedupe = <T>(items: T[], keyFn: (item: T) => string): T[] => {
   const seen = new Set<string>()
   return items.filter((item) => {
     const key = keyFn(item)
@@ -356,7 +356,7 @@ const __getFuse = async (
   return _fusePromise
 }
 
-const __normalize = (value: string): string =>
+export const __normalize = (value: string): string =>
   value
     .toLowerCase()
     .trim()

@@ -41,6 +41,6 @@ export const importObservations = async () => {
 
 export const buildAddon = async () => buildShardedLua()
 
-export const buildApi = async () => {
-  await updateKeyValues()
+export const buildApi = async (options?: { maxKeys?: number }) => {
+  return updateKeyValues(options)
 }

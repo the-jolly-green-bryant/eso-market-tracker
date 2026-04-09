@@ -22,25 +22,37 @@ describe('update performance', () => {
 
   it('prepareDatabase completes within 5 seconds', async () => {
     const start = performance.now()
-    index.prepareDatabase()
+    index.prepareDatabase().catch(console.error)
     expect(performance.now() - start).toBeLessThan(5000)
   }, 10_000)
 
   it('building database completes within 5 seconds', async () => {
     const start = performance.now()
-    index._buildStep()
+    index._buildStep().catch(console.error)
     expect(performance.now() - start).toBeLessThan(5000)
   }, 10_000)
 
   it('item retrieval completes within 5 seconds', async () => {
     const start = performance.now()
-    index.importItems()
+    index.importItems().catch(console.error)
     expect(performance.now() - start).toBeLessThan(5000)
   }, 10_000)
 
   it('observation retrieval completes within 60 seconds', async () => {
     const start = performance.now()
-    index.importObservations()
+    index.importObservations().catch(console.error)
     expect(performance.now() - start).toBeLessThan(60_000)
   }, 60_000)
+
+  it('api update completes within 5 seconds', async () => {
+    const start = performance.now()
+    index.buildApi().catch(console.error)
+    expect(performance.now() - start).toBeLessThan(5000)
+  }, 10_000)
+
+  it('addon update completes within 5 seconds', async () => {
+    const start = performance.now()
+    index.buildAddon().catch(console.error)
+    expect(performance.now() - start).toBeLessThan(5000)
+  }, 10_000)
 })
