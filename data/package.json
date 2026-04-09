@@ -12,7 +12,8 @@
     "clean": "rm -rf dist",
     "test": "vitest run",
     "test:watch": "vitest",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "build:sqlite": "tsx data/cli.ts"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
