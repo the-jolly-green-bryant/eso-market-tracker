@@ -64,7 +64,7 @@ runs:
           exit 1
         fi
 
-        ADDON_SOURCE="app/deployments/eso-addon/src/MarketTracker"
+        ADDON_SOURCE="apps/deployments/eso-addon/src/MarketTracker"
         ADDON_FOLDER="MarketTracker"
         ZIP_FILE="MarketTracker.zip"
 
