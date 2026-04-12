@@ -121,27 +121,62 @@ export const getShardedLua = async () => {
   }, {})
 
   //language=lua
-  return Object.entries(grouped).map(([bucketKey, entries]) => [
-    entries.map(
-      ([s1s2, o]) => `
-_G.MARKET_TRACKER_SDK = _G.MARKET_TRACKER_SDK or {}
-_G.MARKET_TRACKER_SDK.shard_${s1s2} = function (s3)
-  return ({
-    ${Object.entries(o)
-      .map(
-        ([s3, o]) => `
-    ["${s3}"] = function (internalId)
+  return [...Array(50).keys()].map((i) => [
+    `
+    _G.MARKET_TRACKER_SDK = _G.MARKET_TRACKER_SDK or {}
+    _G.MARKET_TRACKER_SDK.shard_${i.toString().padStart(2, '0')} = function (s2)
       return ({
-        ${_getInternalIdLuaCode(o)}
-      })[tostring(internalId)]
-    end`
-      )
-      .join(',')}
-  })[tostring(s3)]
-end`
-    ),
-    bucketKey,
-  ]) as [string[], string][]
+      ${Object.entries(grouped)
+        .flatMap(([_, entries]) => entries)
+        .filter(([s1s2, _]) => s1s2.startsWith(i.toString().padStart(2, '0')))
+        .map(
+          ([s1s2, o]) => `
+        ["${s1s2.substring(2)}"] = function (s3)
+          return ({
+            ${Object.entries(o)
+              .map(
+                ([s3, o]) => `
+            ["${s3}"] = function (internalId)
+              return ({
+                ${_getInternalIdLuaCode(o)}
+              })[tostring(internalId)]
+            end`
+              )
+              .join(',')}
+          })[tostring(s3)]
+        end`
+        )}})[tostring(s2)]
+    end
+      
+    _G.MARKET_TRACKER_SDK.shard_${(i + 50).toString().padStart(2, '0')} = function (s2)
+      return ({
+      ${Object.entries(grouped)
+        .flatMap(([_, entries]) => entries)
+        .filter(([s1s2, _]) =>
+          s1s2.startsWith((i + 50).toString().padStart(2, '0'))
+        )
+        .map(
+          ([s1s2, o]) => `
+        ["${s1s2.substring(2)}"] = function (s3)
+          return ({
+            ${Object.entries(o)
+              .map(
+                ([s3, o]) => `
+            ["${s3}"] = function (internalId)
+              return ({
+                ${_getInternalIdLuaCode(o)}
+              })[tostring(internalId)]
+            end`
+              )
+              .join(',')}
+          })[tostring(s3)]
+        end`
+        )}
+      })[tostring(s2)]
+    end
+      `,
+    `${i.toString().padStart(2, '0')}${(i + 50).toString().padStart(2, '0')}`,
+  ])
 }
 
 export const buildShardedLua = async () =>
@@ -154,10 +189,7 @@ export const buildShardedLua = async () =>
       )
       return fs.promises.writeFile(
         writePath,
-        lua
-          .join('\n\n')
-          .replaceAll(/^[ \t]+$/gm, '')
-          .replaceAll(/\n{2,}/g, '\n'),
+        lua.replaceAll(/^[ \t]+$/gm, '').replaceAll(/\n{2,}/g, '\n'),
         'utf8'
       )
     })

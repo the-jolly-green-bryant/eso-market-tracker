@@ -104,8 +104,9 @@ _G.MARKET_TRACKER_SDK.GetPriceFromName = function (name, trait, quality, platfor
     end
     local r = string.reverse(idString)
     local s1, s2, s3 = r:sub(1,2), r:sub(3,4), r:sub(5,6)
-    local shardFn = _G.MARKET_TRACKER_SDK["shard_" .. s1 .. s2]
-    local shard = shardFn and shardFn(s3)
+    local shardFn = _G.MARKET_TRACKER_SDK["shard_" .. s1]
+    local shardFn2 = shardFn and shardFn(s2)
+    local shard = shardFn2 and shardFn2(s3)
 
     -- Collect platform data or fallback.
     local itemFn = shard and shard(internalId)
