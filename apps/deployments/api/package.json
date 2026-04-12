@@ -16,14 +16,15 @@
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^4.1.0",
-    "dotenv": "^17.3.1"
+    "dotenv": "^17.3.1",
+    "wrangler": "^4.81.0"
   },
   "dependencies": {
     "@eso-market-tracker/data": "workspace:*",
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
-    "@eso-market-tracker/logging": "workspace:*",
-    "@eso-market-tracker/eso-addon": "workspace:*"
+    "@eso-market-tracker/eso-addon": "workspace:*",
+    "@eso-market-tracker/logging": "workspace:*"
   },
   "exports": {
     ".": "./src/index.ts"

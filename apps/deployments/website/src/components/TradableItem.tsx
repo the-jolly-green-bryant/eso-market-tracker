@@ -16,7 +16,6 @@ import LocalImage from '../components/LocalImage'
 import PlaceholderImage from '../components/PlaceholderImage'
 import RefinableBreakdown from '../components/RefinableBreakdown'
 import SalesChart from '../components/SalesChart'
-import TradableItemReference from '../components/TradableItemReference'
 import {
   TradableItemType,
   SalesRollupType,
@@ -43,17 +42,6 @@ const getTargetDateFromDays = (days: number, item: TradableItemType): Date =>
     )
   )
 
-// Change our internal links to open in-app and be styled.
-const getHTMLWithParsedEntities = (text: string) =>
-  text
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/(<a href="INTERNAL_LINK\/.*?".*?<\/a>)/g, (match) =>
-      match
-        .replace('target="_blank"', '')
-        .replace('class=" external"', 'class="is-internal-link"')
-    )
-
 const _renderStat = ([label, value, icon, modClass]: [
   string,
   number,
@@ -66,12 +54,14 @@ const _renderStat = ([label, value, icon, modClass]: [
     </div>
     <div className="tradable-item-stat-label">{label}</div>
 
-    <div className="tradable-item-stat-value">{toPrice(value)}</div>
+    <div className="tradable-item-stat-value">
+      {value ? toPrice(value) : 'N/A'}
+    </div>
   </div>
 )
 
 const renderItemQualities = (item: TradableItemType) =>
-  item.currentXboxStats.numberOfQualitiesTracked >= 1 && (
+  item.currentXboxStats.numberOfQualitiesTracked > 1 && (
     <div>
       <div className="tradable-item-content-section is-simple">
         <div className="tradable-item-content-section-header">
@@ -171,20 +161,6 @@ const _renderItemStats = (item: TradableItemType) => (
             addOutline,
             undefined,
           ],
-          [
-            'Common Variance',
-            (item.currentXboxStats.commonUnitPriceRangeUpper -
-              item.currentXboxStats.commonUnitPriceRangeLower) /
-              2,
-            swapHorizontalOutline,
-            undefined,
-          ],
-          [
-            'Recent Sales',
-            item.currentXboxStats.recentSales,
-            cashOutline,
-            undefined,
-          ],
         ] as [string, number, string, string?][]
       ).map(_renderStat)}
     </div>
@@ -240,12 +216,9 @@ const renderItemContent = (item: TradableItemType) => (
       <div className="tradable-item-content-section is-simple">
         <div className="tradable-item-content-section-header">Description</div>
 
-        <div
-          className="tradable-item-content-section-text"
-          dangerouslySetInnerHTML={{
-            __html: getHTMLWithParsedEntities(item.description),
-          }}
-        />
+        <div className="tradable-item-content-section-text">
+          {item.description}
+        </div>
       </div>
     )}
 
@@ -270,20 +243,6 @@ const renderItemContent = (item: TradableItemType) => (
             Click to Learn More <IonIcon icon={openOutline}></IonIcon>
           </a>
         </div>
-      </div>
-    )}
-
-    {item.relatedItems!.length > 0 && (
-      <div>
-        <div className="page-container-section-label">Related Items</div>
-
-        {item.relatedItems!.map((relation) => (
-          <TradableItemReference
-            key={`related-item-${relation.slug}`}
-            item={relation}
-            disableClick={true}
-          />
-        ))}
       </div>
     )}
   </div>

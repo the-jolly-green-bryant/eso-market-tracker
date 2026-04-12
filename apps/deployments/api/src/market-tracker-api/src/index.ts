@@ -273,6 +273,12 @@ export type Env = {
   ESO_MARKET_TRACKER: KVNamespace
 }
 
+const CORS_HEADERS = {
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Methods': 'GET,OPTIONS',
+  'Access-Control-Allow-Headers': 'Content-Type',
+}
+
 const __json = (
   body: Record<string, unknown> | Record<string, unknown>[],
   init?: ResponseInit
@@ -281,6 +287,7 @@ const __json = (
     ...init,
     headers: {
       'content-type': 'application/json; charset=utf-8',
+      ...CORS_HEADERS,
       ...(init?.headers ?? {}),
     },
   })
