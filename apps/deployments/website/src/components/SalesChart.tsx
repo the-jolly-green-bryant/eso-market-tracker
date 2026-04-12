@@ -210,19 +210,19 @@ const _getScales = (startDate: Date) => ({
 })
 
 const COMMON_CHART_OPTIONS = {
-  interaction: { mode: 'nearest' },
+  interaction: { mode: 'nearest' as const },
   responsive: true,
   animation: false,
   maintainAspectRatio: false,
   elements: { point: { radius: 0 } },
   events: [
-    'mouseup',
-    'mousedown',
-    'mousemove',
-    'touchstart',
-    'touchmove',
-    'touchend',
-    'click',
+    'mouseup' as const,
+    'mousedown' as const,
+    'mousemove' as const,
+    'touchstart' as const,
+    'touchmove' as const,
+    'touchend' as const,
+    'click' as const,
   ],
 }
 
@@ -317,6 +317,7 @@ const _dataPointAnnotation = (selectedPoint: SalesRollupType | null) =>
       ]
     : []
 
+// eslint-disable-next-line max-lines-per-function -- max: 100
 export default ({
   startDate,
   data,
@@ -393,6 +394,7 @@ export default ({
       <Line
         ref={chartRef}
         onClick={onDeselectPoint}
+        // @ts-expect-error -- Chart options can be clarified at a later point.
         options={chartOptions}
         data={{
           labels: data[selectedKey].map((rollup) => rollup.date),

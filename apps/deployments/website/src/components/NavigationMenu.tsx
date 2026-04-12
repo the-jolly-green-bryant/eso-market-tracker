@@ -52,10 +52,10 @@ const ABOUT_CONTENT = (
   </div>
 )
 
-const renderCategories = (categoriesData) => (
+const renderCategories = (categoriesData: CategoriesType) => (
   <div>
     {categoriesData &&
-      categoriesData.tradableItemCategories.map((category, index) => (
+      categoriesData.tradableItemCategories.map((category, index: number) => (
         <div className="navigation-menu-section-item" key={`category_${index}`}>
           <IonMenuToggle autoHide={false}>
             <Link
@@ -147,7 +147,10 @@ export default () => {
           <div className="navigation-menu-section-item-container">
             {loading && <LoadingSkeleton error={false} />}
             {error && <LoadingSkeleton error={true} />}
-            {!loading && !error && renderCategories(categoriesData)}
+            {!loading &&
+              !error &&
+              categoriesData &&
+              renderCategories(categoriesData)}
           </div>
         </div>
 

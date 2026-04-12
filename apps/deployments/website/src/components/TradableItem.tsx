@@ -81,43 +81,47 @@ const renderItemQualities = (item: TradableItemType) =>
 
       <div className="tradable-item-content-section">
         <div className="tradable-item-content-section-column">
-          {[
+          {(
             [
-              'Legendary (Gold)',
-              item.currentXboxStats.goldAverageUnitPrice,
-              star,
-              'is-legendary',
-            ],
-            [
-              'Superior (Blue)',
-              item.currentXboxStats.blueAverageUnitPrice,
-              star,
-              'is-superior',
-            ],
-            [
-              'Common (White)',
-              item.currentXboxStats.whiteAverageUnitPrice,
-              star,
-              'is-common',
-            ],
-          ].map(_renderStat)}
+              [
+                'Legendary (Gold)',
+                item.currentXboxStats.goldAverageUnitPrice,
+                star,
+                'is-legendary',
+              ],
+              [
+                'Superior (Blue)',
+                item.currentXboxStats.blueAverageUnitPrice,
+                star,
+                'is-superior',
+              ],
+              [
+                'Common (White)',
+                item.currentXboxStats.whiteAverageUnitPrice,
+                star,
+                'is-common',
+              ],
+            ] as [string, number, string, string?][]
+          ).map(_renderStat)}
         </div>
 
         <div className="tradable-item-content-section-column">
-          {[
+          {(
             [
-              'Epic (Purple)',
-              item.currentXboxStats.purpleAverageUnitPrice,
-              star,
-              'is-epic',
-            ],
-            [
-              'Fine (Green)',
-              item.currentXboxStats.greenAverageUnitPrice,
-              star,
-              'is-fine',
-            ],
-          ].map(_renderStat)}
+              [
+                'Epic (Purple)',
+                item.currentXboxStats.purpleAverageUnitPrice,
+                star,
+                'is-epic',
+              ],
+              [
+                'Fine (Green)',
+                item.currentXboxStats.greenAverageUnitPrice,
+                star,
+                'is-fine',
+              ],
+            ] as [string, number, string, string?][]
+          ).map(_renderStat)}
         </div>
       </div>
     </div>
@@ -153,52 +157,56 @@ const _renderItemMeta = (item: TradableItemType) => (
 const _renderItemStats = (item: TradableItemType) => (
   <div className="tradable-item-content-section">
     <div className="tradable-item-content-section-column">
-      {[
+      {(
         [
-          'Minimum',
-          item.currentXboxStats.minimumUnitPrice,
-          removeOutline,
-          undefined,
-        ],
-        [
-          'Maximum',
-          item.currentXboxStats.maximumUnitPrice,
-          addOutline,
-          undefined,
-        ],
-        [
-          'Common Variance',
-          (item.currentXboxStats.commonUnitPriceRangeUpper -
-            item.currentXboxStats.commonUnitPriceRangeLower) /
-            2,
-          swapHorizontalOutline,
-          undefined,
-        ],
-        [
-          'Recent Sales',
-          item.currentXboxStats.recentSales,
-          cashOutline,
-          undefined,
-        ],
-      ].map(_renderStat)}
+          [
+            'Minimum',
+            item.currentXboxStats.minimumUnitPrice,
+            removeOutline,
+            undefined,
+          ],
+          [
+            'Maximum',
+            item.currentXboxStats.maximumUnitPrice,
+            addOutline,
+            undefined,
+          ],
+          [
+            'Common Variance',
+            (item.currentXboxStats.commonUnitPriceRangeUpper -
+              item.currentXboxStats.commonUnitPriceRangeLower) /
+              2,
+            swapHorizontalOutline,
+            undefined,
+          ],
+          [
+            'Recent Sales',
+            item.currentXboxStats.recentSales,
+            cashOutline,
+            undefined,
+          ],
+        ] as [string, number, string, string?][]
+      ).map(_renderStat)}
     </div>
 
     <div className="tradable-item-content-section-column">
-      {[
+      {(
         [
-          'Common Stack Size',
-          item.currentXboxStats.commonQuantity,
-          fileTrayStackedOutline,
-          undefined,
-        ],
-        [
-          'Break Even',
-          item.currentXboxStats.averageUnitPrice *
-            (1 - GUILD_TAX - HIRING_FEE - LISTING_FEE),
-          cashOutline,
-          undefined,
-        ],
-      ].map(_renderStat)}
+          [
+            'Common Stack Size',
+            item.currentXboxStats.commonQuantity,
+            fileTrayStackedOutline,
+            undefined,
+          ],
+          [
+            'Break Even',
+            item.currentXboxStats.averageUnitPrice *
+              (1 - GUILD_TAX - HIRING_FEE - LISTING_FEE),
+            cashOutline,
+            undefined,
+          ],
+        ] as [string, number, string, string?][]
+      ).map(_renderStat)}
     </div>
   </div>
 )
