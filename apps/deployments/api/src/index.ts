@@ -80,14 +80,18 @@ export const updateKeyValues = async (options?: { maxKeys?: number }) => {
       },
     ])
 
-  const raw = flattened
-    .map(([key, data]) => ({
-      key,
-      value: JSON.stringify(data),
-    }))
-    .slice(0, options?.maxKeys || flattened.length) as Record<string, string>[]
+  const raw = flattened.map(([key, data]) => ({
+    key,
+    value: JSON.stringify(data),
+  }))
 
-  const batches = __chunk(raw, 10_000)
+  const batches = __chunk(
+    raw.slice(0, options?.maxKeys || flattened.length) as Record<
+      string,
+      string
+    >[],
+    10_000
+  )
 
   for (const [index, batch] of batches.entries()) {
     const filePath = path.join(os.tmpdir(), `kv-${index}.json`)
