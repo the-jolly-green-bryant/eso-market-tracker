@@ -64,7 +64,7 @@ export const collectObservations = async () => {
   const rawData = await self.getAppData()
   logger.info('Collected Web app data')
   return Results.from(rawData).then((r) =>
-    r.observations.map((i) => {
+    r.observations.map((i) =>
       db.throttleFileWrites(async () => {
         logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
         const targetPath = naming.getObservationPath(
@@ -76,6 +76,6 @@ export const collectObservations = async () => {
         const writeDone = db.writeToFile(i.stats, targetPath)
         return Promise.all([writeDone])
       })
-    })
+    )
   )
 }

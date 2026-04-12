@@ -11,6 +11,7 @@
  * I've added some strong testing around this to verify all names map correctly.
  *  I figure this can just stay messy since it has 100% coverage...
  */
+
 import {
   CRAFTING_MOTIFS,
   MONSTER_STYLE_NAMES,
@@ -117,20 +118,14 @@ export function nameToInternal(itemName: string): string {
 
   // 4) crafting motif: keep the section name only
   // e.g. "... motif 15: daedric" -> "daedric"
-  label = label.replace(
-    /crafting motif \d+:?\s*([a-z\s]*)/g,
-    (_m, g1: string) => g1.trim()
-  )
+  label = label.replace(/crafting motif \d+:?\s*([a-z\s]*)/g, '$1').trim()
 
   // 5) treasure map: keep up to "... treasure map"
   label = label.replace(/(.* treasure map).*/g, '$1').trim()
   label = label.replace(/(the song of pelinal volume).*/g, '$1').trim()
 
   // 7) "vivecs X of duality" -> "x of vivecs duality"
-  label = label.replace(
-    /vivecs (.*) of duality/g,
-    (_m, g1: string) => `${g1} of vivecs duality`
-  )
+  label = label.replace(/vivecs (.*) of duality/g, `$1 of vivecs duality`)
 
   // Common word replacements.
   label = label
@@ -1919,8 +1914,8 @@ const SETS_TO_COLLAR = [
 ]
 
 const resultCanNotBeMotif = (result: string) =>
-  result.match(/^(praxis|blueprint|runebox|crafting motif)/) ||
-  result.match(/(divines|training)$/) ||
+  RegExp(/^(praxis|blueprint|runebox|crafting motif)/).exec(result) ||
+  RegExp(/(divines|training)$/).exec(result) ||
   result.includes('imperial physique') ||
   result.includes('daedric trickery') ||
   result.includes('draugr heritage') ||
@@ -2047,7 +2042,7 @@ const flipName = (input: string) => {
       `^\\s*${_escapeRx(setName)}\\s+(?:the\\s+)?\\b(${piecePattern})\\b(?:\\s+(${traitAlt}))?\\s*$`,
       'i'
     )
-    const m = result.match(rx)
+    const m = RegExp(rx).exec(result)
     if (!m) continue
 
     const piece = m[1].trim()
@@ -2111,9 +2106,9 @@ const appendStylePage = (result: string) => {
 
   if (
     result.endsWithAny(['s pauldron', 's shoulder', 's epaulets', 's mask']) &&
-    !result.match(
+    !RegExp(
       new RegExp(MONSTER_STYLE_NAMES.filter((i) => i.endsWith('s')).join('|'))
-    ) &&
+    ).exec(result) &&
     !result.includes(' opal ')
   ) {
     result = result.replace(/^style page /, '')
@@ -2279,7 +2274,7 @@ export const internalToName = (unflippedName: string): string => {
 
   // 7) "vivecs X of duality" -> "x of vivecs duality"
   result = result
-    .replace(/^vivecs duality ([^\s]+)(.*)$/i, 'vivecs $1 of duality$2')
+    .replace(/^vivecs duality (\S+)(.*)$/i, 'vivecs $1 of duality$2')
     .replace(/^(.*) of vivecs duality(.*)$/i, 'vivecs $1 of duality$2')
     .replace('vivecs battle of duality axe', 'vivecs battle axe of duality')
     .replace(

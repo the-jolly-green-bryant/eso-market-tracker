@@ -41,9 +41,9 @@ const parseRawData = (rawData: TSCAppData) => ({
 
 const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
   const data = parseRawData(rawData)
-  const match = rawData.NestedDataSets.find(
-    (i) => i.Name === 'Updates'
-  )!.DataSet.match(/\b(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})\b/)!
+  const match = RegExp(/\b(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})\b/).exec(
+    rawData.NestedDataSets.find((i) => i.Name === 'Updates')!.DataSet
+  )!
 
   const [month, day, yearRaw] = match.slice(1)
 

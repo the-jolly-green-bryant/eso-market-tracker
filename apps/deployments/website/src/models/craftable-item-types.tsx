@@ -1,42 +1,39 @@
 import { TradableItemReferenceType } from './tradable-item-types'
 
+/**
+ * A template for a craftable item
+ */
 export type CraftableSchemaReferenceType = {
-    slug: string
-    label: string
+  slug: string
+  label: string
 }
 
+/**
+ * A category of craftable items
+ */
 export type CraftableCategoryReferenceType = {
-    slug: string
-    displayLabel: string
-    unlockedCategoryLabel?: string
+  slug: string
+  displayLabel: string
+  unlockedCategoryLabel?: string
 }
 
+/**
+ * A simplified breakdown of a craftable item
+ */
 export type CraftableItemReferenceType = {
-    slug: string
-    displayLabel: string
-    unlocks: string
+  slug: string
+  displayLabel: string
+  unlocks: string
 }
 
-export type CraftableCategoryWithItemsType = CraftableCategoryReferenceType & {
-    craftables: CraftableItemReferenceType[]
-}
-
-export type CategorySelection = {
-    categories: CraftableCategoryWithItemsType[]
-}
-
-export type CraftableSchemaWithCategoriesType = CraftableSchemaReferenceType & {
-    categories: CraftableCategoryWithItemsType[]
-    oneOfCategories: CategorySelection[]
-}
-
-export type CraftableCostBreakdownRequirementType = {
+/**
+ * The total breakdown of a craftable
+ */
+export type CraftableCostBreakdownType = {
+  totalCost: number
+  requirements: {
     averageUnitPrice: number
     quantity: number
     item: TradableItemReferenceType
-}
-
-export type CraftableCostBreakdownType = {
-    totalCost: number
-    requirements: CraftableCostBreakdownRequirementType[]
+  }[]
 }

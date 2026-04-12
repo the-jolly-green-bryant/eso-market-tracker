@@ -29,9 +29,9 @@ export const _getIconFromRow = ($: CheerioAPI, el: Element, n: number) => {
 
 const _traitFromRow = ($: CheerioAPI, el: Element) => {
   const traitCell = $(el).find(`> td:nth-of-type(9)`).text().trim()
-  const traitMatch = traitCell
-    .toLowerCase()
-    .match(new RegExp(`(${TRAITS.join('|')})`))
+  const traitMatch = RegExp(new RegExp(`(${TRAITS.join('|')})`)).exec(
+    traitCell.toLowerCase()
+  )
   return traitMatch ? getTraitIdFromString(traitMatch.at(1)!) : null
 }
 
@@ -48,7 +48,7 @@ const _getMinedItemsFromHtml = (
       const gameId = parseInt(_getNthStringFromRow($, el, 2))
       return [
         Item.from({
-          internalId: internalId,
+          internalId,
           bindType: parseInt(_getNthStringFromRow($, el, 31)),
           name,
           description: _getNthStringFromRow($, el, 5, { textIsOptional: true }),

@@ -18,9 +18,8 @@ export const getItemDirectory = (item: Item): string => {
   return `${ROOT_DIRECTORY}/items/${shard}`
 }
 
-export const getItemPath = (item: Item) => {
-  return `${getItemDirectory(item)}/${item.id}.json`
-}
+export const getItemPath = (item: Item) =>
+  `${getItemDirectory(item)}/${item.id}.json`
 
 export const getQualifiedItem = (item: Item) => {
   const traitId = item.trait ? item.trait.toString().padStart(2, '0') : '--'

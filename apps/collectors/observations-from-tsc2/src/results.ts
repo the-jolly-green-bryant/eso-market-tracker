@@ -54,8 +54,8 @@ type MasterType = {
   startLoading: () => void
 }
 
-export const parseRawData = async (luaFiles: string[]) => {
-  return await Promise.all(
+export const parseRawData = async (luaFiles: string[]) =>
+  Promise.all(
     luaFiles.map(async (code) => {
       // Load the LUA file.
       const factory = new LuaFactory()
@@ -65,14 +65,17 @@ export const parseRawData = async (luaFiles: string[]) => {
       })
 
       const platform =
-        code.match(/a=="(.*?)"/)!.at(1) ||
-        orThrow(new Error('Platform could not be parsed!'))
+        RegExp(/a=="(.*?)"/)
+          .exec(code)!
+          .at(1) || orThrow(new Error('Platform could not be parsed!'))
       const masterVariable =
-        code.match(/_G\.(.*?)=/)!.at(1) ||
-        orThrow(new Error('Plugin name could not be parsed!'))
+        RegExp(/_G\.(.*?)=/)
+          .exec(code)!
+          .at(1) || orThrow(new Error('Plugin name could not be parsed!'))
       const targetTable =
-        code.match(/priceData=setmetatable.*return (.*?)\[.*?]end/)!.at(1) ||
-        orThrow(new Error('Target Table could not be parsed!'))
+        RegExp(/priceData=setmetatable.*return (.*?)\[.*?]end/)
+          .exec(code)!
+          .at(1) || orThrow(new Error('Target Table could not be parsed!'))
 
       code = code.replace(`local ${targetTable}=`, `_G.${targetTable}=`)
       await lua.doString(MOCKS(platform) + code)
@@ -93,7 +96,6 @@ export const parseRawData = async (luaFiles: string[]) => {
       }
     })
   )
-}
 
 const _toDateString = (ts: number): string => {
   const ms = ts < 1e12 ? ts * 1000 : ts // detect seconds vs ms
@@ -122,16 +124,13 @@ const getAPI = async () => {
 
 const API = await getAPI()
 
-const _worldToPlatform = (world: string): string => {
-  return (
-    {
-      'PS4live-eu': database.constants.PS_EU,
-      PS4live: database.constants.PS_NA,
-      'XB1live-eu': database.constants.XBOX_EU,
-      XB1live: database.constants.XBOX_NA,
-    }[world] || orThrow(new Error(`World ${world} could not be parsed!`))
-  )
-}
+const _worldToPlatform = (world: string): string =>
+  ({
+    'PS4live-eu': database.constants.PS_EU,
+    PS4live: database.constants.PS_NA,
+    'XB1live-eu': database.constants.XBOX_EU,
+    XB1live: database.constants.XBOX_NA,
+  })[world] || orThrow(new Error(`World ${world} could not be parsed!`))
 
 const _dataStringToObservations = async (
   id: number,

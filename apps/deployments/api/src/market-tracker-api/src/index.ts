@@ -402,13 +402,12 @@ const search = async (term: string, env: Env) => {
   return items(keys, env)
 }
 
-const docs = () => {
-  return new Response(marked.parse(USAGE_MD) as string, {
+const docs = () =>
+  new Response(marked.parse(USAGE_MD) as string, {
     headers: {
       'content-type': 'text/html; charset=utf-8',
     },
   })
-}
 
 export const item = async (key: string, env: Env) => {
   const normalized = key.trim()

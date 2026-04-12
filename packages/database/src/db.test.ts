@@ -1,9 +1,9 @@
 import { describe, expect, it } from 'vitest'
 import { deleteFile, readFromFile, writeToFile } from './db'
 
-describe('file writing', () => {
+describe('file writing', async () => {
   const targetPath = 'data/test/test.json'
-  deleteFile(targetPath)
+  await deleteFile(targetPath)
 
   it('writes a file, preserving keys', async () => {
     const data = { blah: 'thing' }

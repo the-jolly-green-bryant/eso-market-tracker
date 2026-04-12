@@ -11,6 +11,8 @@ export default [
       '**/node_modules/**',
       '**/coverage/**',
       'data/**/**',
+      'eslint.config.js',
+      'scripts/inject-version.js',
     ],
   },
 
@@ -21,6 +23,11 @@ export default [
   {
     languageOptions: {
       globals: globals.node,
+      parser: tseslint.parser,
+      parserOptions: {
+        projectService: true,
+        tsconfigRootDir: import.meta.dirname,
+      },
     },
 
     plugins: {
@@ -34,10 +41,62 @@ export default [
       '@typescript-eslint/no-unused-expressions': 'off',
       '@typescript-eslint/no-unused-vars': [
         'error',
-        { argsIgnorePattern: '^_' },
+        { argsIgnorePattern: '^_', varsIgnorePattern: '^_' },
       ],
+      'arrow-body-style': ['error', 'as-needed'],
+      'object-shorthand': ['error', 'always'],
+      'no-useless-assignment': 'error',
+      '@typescript-eslint/no-floating-promises': 'error',
+      'sonarjs/no-unused-vars': 'off',
       'sonarjs/no-os-command-from-path': 'off',
       'sonarjs/slow-regex': 'off',
+      '@typescript-eslint/no-inferrable-types': 'error',
+      '@typescript-eslint/naming-convention': [
+        'error',
+
+        // Default: everything should be camelCase
+        {
+          selector: 'default',
+          format: ['camelCase', 'PascalCase'],
+          leadingUnderscore: 'allowDouble',
+          trailingUnderscore: 'allowDouble',
+          filter: {
+            regex: '^_$',
+            match: false,
+          },
+        },
+
+        // Allow UPPER_CASE (constants)
+        {
+          selector: 'variable',
+          filter: { regex: '^__', match: true },
+          format: ['camelCase', 'UPPER_CASE', 'PascalCase'],
+          leadingUnderscore: 'allowDouble',
+        },
+        {
+          selector: 'variable',
+          filter: { regex: '^__', match: false },
+          format: ['camelCase', 'UPPER_CASE', 'PascalCase'],
+          leadingUnderscore: 'allow',
+        },
+        {
+          selector: 'parameter',
+          filter: { regex: '^__', match: false },
+          format: ['camelCase'],
+          leadingUnderscore: 'allow',
+        },
+
+        // Types/interfaces/etc
+        {
+          selector: 'typeLike',
+          format: ['PascalCase'],
+        },
+
+        {
+          selector: 'property',
+          format: null,
+        },
+      ],
       'jsdoc/require-jsdoc': [
         'error',
         {

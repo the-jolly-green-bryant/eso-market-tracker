@@ -37,14 +37,13 @@ describe('sdk', async () => {
 
   it(
     'generates idempotent ids matching our database',
-    async () => {
+    async () =>
       Object.keys(await MASTER_ITEM_INDEX()).map(async (name) => {
         const luaId = await SDK.GetIdFromName(name)
         const internalId = getIdFromName(name)
         expect(luaId).toEqual(internalId)
         logger.info(`name=${name}, luaId=${luaId}, internalId=${internalId}`)
-      })
-    },
+      }),
     process.env.CI ? 60_000 : 5_000
   )
 

@@ -7,14 +7,12 @@ import { collectObservations as collectAddonObservations } from '@eso-market-tra
 import { buildShardedLua } from '@eso-market-tracker/eso-addon'
 import { updateKeyValues } from '@eso-market-tracker/api'
 
-export const _buildStep = async () => {
-  // We don't need to insert traits because we got those from flattening.
-  return buildDatabase({ skipInsertingTraits: true })
-}
+// We don't need to insert traits because we got those from flattening.
+export const _buildStep = async () =>
+  buildDatabase({ skipInsertingTraits: true })
 
-export const prepareDatabase = async () => {
-  return flattenDatabase().then(() => _buildStep())
-}
+export const prepareDatabase = async () =>
+  flattenDatabase().then(() => _buildStep())
 
 /**
  * Pull from the last known mined results page. We're intentionally skipping the
@@ -23,14 +21,13 @@ export const prepareDatabase = async () => {
  *
  * @returns {Promise<Awaited<Awaited<unknown>[]>[]>}
  */
-export const importItems = async () => {
-  return Promise.all([
+export const importItems = async () =>
+  Promise.all([
     processNextPageOfMinedResults({
       next: `https://esolog.uesp.net/viewlog.php?start=${CURRENT_MINING_SUMMARY_INDEX}&record=minedItemSummary`,
       items: [],
     }),
   ])
-}
 
 export const importObservations = async () => {
   const webAppObservationsCollected = collectWebAppObservations()
@@ -41,6 +38,5 @@ export const importObservations = async () => {
 
 export const buildAddon = async () => buildShardedLua()
 
-export const buildApi = async (options?: { maxKeys?: number }) => {
-  return updateKeyValues(options)
-}
+export const buildApi = async (options?: { maxKeys?: number }) =>
+  updateKeyValues(options)

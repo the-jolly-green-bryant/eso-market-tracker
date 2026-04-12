@@ -110,25 +110,22 @@ export const getTraitStringFromId = (id: number) => traitLookup.at(id)
 export const sanitizeTraitId = (id: number) =>
   getTraitIdFromString(`${getTraitStringFromId(id)}`)
 
-export const getBaseItemAndTraitFromItem = (name: string) => {
-  return (
-    (traitLookup
-      .filter(Boolean)
-      .map((trait) => {
-        trait = trait as string
-        const found = name.toLowerCase().endsWith(` ${trait}`)
-        const suffix = ` ${trait}`
-        const idx = name.lastIndexOf(suffix)
-        return found
-          ? [
-              internalToName(
-                name.slice(0, idx) + name.slice(idx + suffix.length)
-              ),
-              getTraitIdFromString(trait),
-            ]
-          : [null, null]
-      })
-      .filter((i) => i.at(0))
-      .at(0) as [string, string]) || [null, null]
-  )
-}
+export const getBaseItemAndTraitFromItem = (name: string) =>
+  (traitLookup
+    .filter(Boolean)
+    .map((trait) => {
+      trait = trait as string
+      const found = name.toLowerCase().endsWith(` ${trait}`)
+      const suffix = ` ${trait}`
+      const idx = name.lastIndexOf(suffix)
+      return found
+        ? [
+            internalToName(
+              name.slice(0, idx) + name.slice(idx + suffix.length)
+            ),
+            getTraitIdFromString(trait),
+          ]
+        : [null, null]
+    })
+    .filter((i) => i.at(0))
+    .at(0) as [string, string]) || [null, null]

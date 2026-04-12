@@ -29,9 +29,8 @@ export const getValidatedRequest = async (
   return r
 }
 
-export const getFilenameFromUrl = (url: string) => {
-  return new URL(url).pathname.split('/').pop()!
-}
+export const getFilenameFromUrl = (url: string) =>
+  new URL(url).pathname.split('/').pop()!
 
 const getImageDirectory = (filename: string) => {
   const shard = getShardFromId(filename.split('.').at(0)!)

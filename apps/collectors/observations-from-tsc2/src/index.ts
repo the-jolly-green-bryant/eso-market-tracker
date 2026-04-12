@@ -17,8 +17,8 @@ const __dirname = path.dirname(__filename)
 
 const execFileAsync = promisify(execFile)
 
-export const downloadAddon = async (output: string) => {
-  return execFileAsync(
+export const downloadAddon = async (output: string) =>
+  execFileAsync(
     path.join(__dirname, '../../../..', 'ESOAddOnUploaderCli.dmg'),
     ['download', ADDON_ID, `--output=${output}`],
     {
@@ -26,7 +26,6 @@ export const downloadAddon = async (output: string) => {
       env: process.env,
     }
   )
-}
 
 export const getAddonData = async () => {
   const random = randomUUID()
@@ -59,7 +58,7 @@ export const collectObservations = async (options?: { maxWrites?: number }) => {
     r.observationsByPlatform.map(([platform, observations]) =>
       observations
         .slice(0, options?.maxWrites ?? observations.length)
-        .map((i) => {
+        .map((i) =>
           db.throttleFileWrites(async () => {
             logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
             const targetPath = naming.getObservationPath(
@@ -70,7 +69,7 @@ export const collectObservations = async (options?: { maxWrites?: number }) => {
             logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
             await db.writeToFile(i.stats, targetPath)
           })
-        })
+        )
     )
   )
 }

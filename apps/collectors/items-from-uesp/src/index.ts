@@ -70,9 +70,7 @@ const processResultingItems = async (
           return item
         })
       )
-  ).then((items) => {
-    insertItems(items, { skipInsertingTraits: true })
-  })
+  ).then((items) => insertItems(items, { skipInsertingTraits: true }))
 }
 
 export const processNextPageOfMinedResults = async (

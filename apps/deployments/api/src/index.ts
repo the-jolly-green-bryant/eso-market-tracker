@@ -72,15 +72,13 @@ export const updateKeyValues = async (options?: { maxKeys?: number }) => {
   const flattened = Object.values(record)
     .flatMap(Object.values)
     .flatMap(Object.entries)
-    .map(([key, data]) => {
-      return [
-        key,
-        {
-          pricing: data,
-          item: _getItemMeta(Number.parseInt(key)),
-        },
-      ]
-    })
+    .map(([key, data]) => [
+      key,
+      {
+        pricing: data,
+        item: _getItemMeta(Number.parseInt(key)),
+      },
+    ])
 
   const raw = flattened
     .map(([key, data]) => ({

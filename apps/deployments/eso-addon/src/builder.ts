@@ -33,7 +33,7 @@ export const getShardedRecord = async () => {
     .reduce((acc, [functionName, indexKey, qualifiedId]) => {
       const p = /^(.*?)-([-0-9]{2})-([-0-9]{2})\.(.*)$/
       const [, internalId, traitId, qualityId, platform] =
-        qualifiedId.match(p) ||
+        RegExp(p).exec(qualifiedId) ||
         orThrow(new Error(`Could not parse qualifiedId ${qualifiedId}`))
 
       _setNested(
@@ -144,8 +144,8 @@ end`
   ]) as [string[], string][]
 }
 
-export const buildShardedLua = async () => {
-  return Promise.all(
+export const buildShardedLua = async () =>
+  Promise.all(
     (await getShardedLua()).map(([lua, fileKey]) => {
       const writePath = path.join(
         __dirname,
@@ -162,4 +162,3 @@ export const buildShardedLua = async () => {
       )
     })
   )
-}
