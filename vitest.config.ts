@@ -16,6 +16,7 @@ export const baseConfig = {
         '**/node_modules/**',
         'data/**/**',
         '**/src/cli.ts',
+        '**/website/src/**',
       ],
       thresholds: process.env.CI
         ? {}
