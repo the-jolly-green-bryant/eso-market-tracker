@@ -13,6 +13,8 @@ export default [
       'data/**/**',
       'eslint.config.js',
       'scripts/inject-version.js',
+      '**/ios/**',
+      '**/android/**',
     ],
   },
 
