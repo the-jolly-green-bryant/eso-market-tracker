@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "appId": "515d7f52",
+      "root": "apps/deployment/website"
+    }
+  ]
+}
