@@ -1,15 +1,12 @@
-import { useLazyQuery } from '@apollo/client'
 import { useEffect } from 'react'
-import { InView } from 'react-intersection-observer'
-import { useLocation, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 
 import LoadingSkeleton from '../components/LoadingSkeleton'
 import PageContainer from '../components/PageContainer'
-import { TradableItemCategoryReferenceType } from '../models/tradable-item-types'
 import TradableItemList from '../components/TradableItemList'
 import TradableItemReferenceSkeleton from '../components/TradableItemReferenceSkeleton'
-import * as queries from '../models/queries'
 import * as constants from '../constants'
+import { __useCategory } from './useItem'
 
 const LIMIT = 20
 
@@ -32,54 +29,26 @@ const ERROR_STATE = (
 )
 
 export default () => {
-  const { state } = useLocation<{
-    categoryReference: TradableItemCategoryReferenceType
-  }>()
   const { slug } = useParams<{ slug: string }>()
+  const { loading, error, data } = __useCategory(slug)
 
-  const categoryReference = state?.categoryReference
-
-  const [getCategoryItems, { loading, error, data, fetchMore }] = useLazyQuery(
-    queries.GET_CATEGORY_ITEMS,
-    { variables: { categorySlug: slug, offset: 0, limit: LIMIT } }
-  )
-
-  useEffect(() => {
-    void getCategoryItems({
-      variables: { categorySlug: slug, offset: 0, limit: LIMIT },
-    })
-  }, [slug])
-
-  const loadMoreData = async (isInView: boolean) => {
-    isInView &&
-      (await fetchMore({
-        variables: { offset: data.tradableItems.length, limit: LIMIT },
-      }))
-  }
-
-  const pageTitle =
-    (categoryReference && categoryReference.displayLabel) || slug
+  const pageTitle = slug
 
   return (
     <PageContainer
       pageTitle={pageTitle}
-      metaTitle={constants.getFullPageTitle(
-        categoryReference ? categoryReference.displayLabel : slug
-      )}
-      metaDescription={`View sales information for the category "${
-        categoryReference ? categoryReference.displayLabel : slug
-      }".`}
+      metaTitle={constants.getFullPageTitle(slug)}
+      metaDescription={`View sales information for the category "slug".`}
     >
       {loading && LOADING_STATE}
       {error && ERROR_STATE}
-      {data && data.tradableItems.length && (
+      {data && data.length && (
         <div>
-          <TradableItemList items={data.tradableItems} />
-          <InView onChange={loadMoreData} />
+          <TradableItemList items={data} />
         </div>
       )}
 
-      {data && !data.tradableItems.length && (
+      {data && !data.length && (
         <div className="page-container-content-header-negative-spacer">
           <LoadingSkeleton
             error={false}

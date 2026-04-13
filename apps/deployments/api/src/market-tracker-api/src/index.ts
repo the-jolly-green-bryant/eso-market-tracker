@@ -259,6 +259,23 @@ Response:
 404 - not found  
 405 - method not allowed
 
+## Terms of Use
+
+This API is provided as a free, community resource for the Elder Scrolls Online
+ ecosystem.
+
+You are welcome and encouraged to use it in your own projects, tools, addons, or
+ experiments. There are no restrictions on usage, modification, or
+ redistribution of the data provided by this service.
+
+The data exposed by this API consists of aggregated observations and statistical
+ facts, which are not subject to exclusive ownership.
+
+This service is provided “as is,” without warranty of any kind, including
+ accuracy, availability, or fitness for a particular purpose. While efforts are made to keep the data useful and up to date, no guarantees are made.
+
+If you build something interesting with it, that’s a win for the community.
+
 `
 
 import Fuse from 'fuse.js'

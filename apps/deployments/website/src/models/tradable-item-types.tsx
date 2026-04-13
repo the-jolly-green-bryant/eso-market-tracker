@@ -51,6 +51,7 @@ export type TradableItemReferenceType = {
  * Item details including sales info
  */
 export type TradableItemType = TradableItemReferenceType & {
+  raw?: Record<string, Record<string, { average: number }>>
   category: TradableItemCategoryReferenceType
   currentXboxStats: SalesRollupType
   description?: string

@@ -22,6 +22,7 @@ import {
 } from '../models/tradable-item-types'
 import './TradableItem.scss'
 import { toPrice } from './common'
+import { TRAIT_LOOKUP } from '../constants'
 
 const ONE_MONTH = 31
 const THREE_MONTHS = 31 * 3
@@ -60,62 +61,48 @@ const _renderStat = ([label, value, icon, modClass]: [
   </div>
 )
 
-const renderItemQualities = (item: TradableItemType) =>
-  item.currentXboxStats.numberOfQualitiesTracked > 1 && (
-    <div>
-      <div className="tradable-item-content-section is-simple">
-        <div className="tradable-item-content-section-header">
-          Average Unit Price by Quality
-        </div>
-      </div>
-
-      <div className="tradable-item-content-section">
-        <div className="tradable-item-content-section-column">
-          {(
-            [
-              [
-                'Legendary (Gold)',
-                item.currentXboxStats.goldAverageUnitPrice,
-                star,
-                'is-legendary',
-              ],
-              [
-                'Superior (Blue)',
-                item.currentXboxStats.blueAverageUnitPrice,
-                star,
-                'is-superior',
-              ],
-              [
-                'Common (White)',
-                item.currentXboxStats.whiteAverageUnitPrice,
-                star,
-                'is-common',
-              ],
-            ] as [string, number, string, string?][]
-          ).map(_renderStat)}
-        </div>
-
-        <div className="tradable-item-content-section-column">
-          {(
-            [
-              [
-                'Epic (Purple)',
-                item.currentXboxStats.purpleAverageUnitPrice,
-                star,
-                'is-epic',
-              ],
-              [
-                'Fine (Green)',
-                item.currentXboxStats.greenAverageUnitPrice,
-                star,
-                'is-fine',
-              ],
-            ] as [string, number, string, string?][]
-          ).map(_renderStat)}
-        </div>
+const renderItemQualities = (raw: TradableItemType, traitId: string) => (
+  <div>
+    <div className="tradable-item-content-section is-simple">
+      <div className="tradable-item-content-section-header">
+        {traitId == '--'
+          ? 'Average Unit Price by Quality'
+          : `Trait: ${TRAIT_LOOKUP[Number.parseInt(traitId)]?.toUpperCase()}`}
       </div>
     </div>
-  )
+
+    <div className="tradable-item-content-section">
+      <div className="tradable-item-content-section-column">
+        {(
+          [
+            [
+              'Legendary (Gold)',
+              raw[traitId]['05']?.average,
+              star,
+              'is-legendary',
+            ],
+            [
+              'Superior (Blue)',
+              raw[traitId]['03']?.average,
+              star,
+              'is-superior',
+            ],
+            ['Common (White)', raw[traitId]['01']?.average, star, 'is-common'],
+          ] as [string, number, string, string?][]
+        ).map(_renderStat)}
+      </div>
+
+      <div className="tradable-item-content-section-column">
+        {(
+          [
+            ['Epic (Purple)', raw[traitId]['04']?.average, star, 'is-epic'],
+            ['Fine (Green)', raw[traitId]['02']?.average, star, 'is-fine'],
+          ] as [string, number, string, string?][]
+        ).map(_renderStat)}
+      </div>
+    </div>
+  </div>
+)
 
 const _renderVolatile = () => (
   <LoadingSkeleton
@@ -206,7 +193,8 @@ const renderItemContent = (item: TradableItemType) => (
       </div>
     </div>
 
-    {renderItemQualities(item)}
+    {item.raw &&
+      Object.keys(item.raw).map((i) => renderItemQualities(item.raw, i))}
 
     {(item.description || item.howToAcquire) && (
       <div className="tradable-item-content-section is-simple" />
@@ -401,7 +389,6 @@ export default ({
 }) => {
   const {
     currentStat,
-    setCurrentStat,
     isDelta,
     setIsDelta,
     startDate,

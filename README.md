@@ -96,7 +96,7 @@ Every commit is validated by GitHub Actions:
 * full test suite
 * coverage threshold enforcement
 
-The repository intentionally avoids common anti-patterns such as:
+The repository intentionally avoids common antipatterns such as:
 
 - unchecked test coverage
 - nondeterministic builds
@@ -126,7 +126,7 @@ Search and indexing layers operate on top of this canonical dataset.
 
 Collectors ingest data from various sources and pipes it into the flat file system.
 
-The `apps/collectors/items-from-uesp` collector pulls in new item baesd on data mining
+The `apps/collectors/items-from-uesp` collector pulls in new item based on data mining
 and should be run whenever one can reasonably expect new items to exist, such as when
 there is a new game release.
 
@@ -191,7 +191,26 @@ This project is licensed under a modified MIT License. See the `LICENSE.md` file
 
 ---
 
-### Copyright
+## Terms of Use
+
+This API is provided as a free, community resource for the Elder Scrolls Online
+ecosystem.
+
+You are welcome and encouraged to use it in your own projects, tools, addons, or
+experiments. There are no restrictions on usage, modification, or
+redistribution of the data provided by this service.
+
+The data exposed by this API consists of aggregated observations and statistical
+facts, which are not subject to exclusive ownership.
+
+This service is provided “as is,” without warranty of any kind, including
+accuracy, availability, or fitness for a particular purpose. While efforts are made to keep the data useful and up to date, no guarantees are made.
+
+If you build something interesting with it, that’s a win for the community.
+
+---
+
+## Copyright
 
 This software is not created by, affiliated with or sponsored by ZeniMax Media Inc. or
  its affiliates. The Elder Scrolls and related logos are registered trademarks or

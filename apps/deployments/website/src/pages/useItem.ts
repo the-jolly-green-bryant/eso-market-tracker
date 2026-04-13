@@ -69,6 +69,7 @@ const _responseToItem = (json: APIItemResponse) => {
   const itemRaw = json.item
 
   return {
+    raw: platformRaw,
     category: {}, // TODO
     currentXboxStats: {
       averageUnitPrice: baseRaw.average,

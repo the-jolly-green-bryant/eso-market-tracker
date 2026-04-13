@@ -2,8 +2,9 @@
 
 ## Next Up
 
-- CI/CD - Deploy API
-- esomarkettracker - to repo
 - esomarkettracker - wire to use new api
+- Static pages for esomarkettracker.com
+- esomarkettracker.com sitemap and indexing
+- update about to link to other things (api, addon, github)
+- 
 
-- CI/CD - Addon Deployment
