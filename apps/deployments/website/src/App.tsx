@@ -8,7 +8,6 @@ import { IonReactRouter } from '@ionic/react-router'
 import { Redirect, Route, Switch } from 'react-router-dom'
 import NavigationMenu from './components/NavigationMenu'
 import About from './pages/About'
-import AppStats from './pages/AppStats'
 import AuthorizedDevelopers from './pages/AuthorizedDevelopers'
 import Dashboard from './pages/Dashboard'
 import PrivacyPolicy from './pages/PrivacyPolicy'
@@ -88,10 +87,6 @@ const SWITCH = (
 
     <Route path={routes.authorizedDevelopers()} exact={true}>
       <AuthorizedDevelopers />
-    </Route>
-
-    <Route path={routes.appStats()} exact={true}>
-      <AppStats />
     </Route>
 
     <Route path="*">

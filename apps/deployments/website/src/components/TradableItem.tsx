@@ -10,11 +10,9 @@ import {
   triangleOutline,
 } from 'ionicons/icons'
 import { useState, useEffect } from 'react'
-import CraftableBreakdown from '../components/CraftableBreakdown'
 import LoadingSkeleton from '../components/LoadingSkeleton'
 import LocalImage from '../components/LocalImage'
 import PlaceholderImage from '../components/PlaceholderImage'
-import RefinableBreakdown from '../components/RefinableBreakdown'
 import SalesChart from '../components/SalesChart'
 import {
   TradableItemType,
@@ -34,7 +32,7 @@ const LISTING_FEE = 0.01
 const GUILD_TAX = 0.035
 const HIRING_FEE = 0.035
 
-const DEFAULT_TIME_SPAN = ONE_MONTH
+const DEFAULT_TIME_SPAN = TWO_YEARS
 
 const getTargetDateFromDays = (days: number, item: TradableItemType): Date =>
   new Date(
@@ -213,8 +211,6 @@ const renderItemContent = (item: TradableItemType) => (
       </div>
     )}
 
-    {item.craftableSlug && <CraftableBreakdown slug={item.craftableSlug} />}
-    {item.refinableSlug && <RefinableBreakdown slug={item.refinableSlug} />}
     {item.detailedImageLink && (
       <div className="tradable-item-content-section is-simple">
         <div className="tradable-item-content-section-header">

@@ -1,33 +1,15 @@
-import { useQuery } from '@apollo/client'
-
-import LoadingSkeleton from '../components/LoadingSkeleton'
 import PageContainer from '../components/PageContainer'
 import TradableItemCategoryReference from '../components/TradableItemCategoryReference'
-import { TradableItemCategoryReferenceType } from '../models/tradable-item-types'
+import { CATEGORIES } from '../constants'
 
-import * as queries from '../models/queries'
-
-const TradableItemCategories: React.FC = () => {
-  const { loading, error, data } = useQuery<{
-    tradableItemCategories: TradableItemCategoryReferenceType[]
-  }>(queries.GET_CATEGORIES)
-
-  return (
-    <PageContainer pageTitle="TradableItemCategories">
-      {loading && <LoadingSkeleton error={false} />}
-
-      {error && <LoadingSkeleton error={true} />}
-
-      {!loading && !error && (
-        <div className="page-container-list">
-          {data &&
-            data.tradableItemCategories.map((category) => (
-              <TradableItemCategoryReference category={category} />
-            ))}
-        </div>
-      )}
-    </PageContainer>
-  )
-}
+const TradableItemCategories: React.FC = () => (
+  <PageContainer pageTitle="TradableItemCategories">
+    <div className="page-container-list">
+      {Object.keys(CATEGORIES).map((category) => (
+        <TradableItemCategoryReference category={category} />
+      ))}
+    </div>
+  </PageContainer>
+)
 
 export default TradableItemCategories
