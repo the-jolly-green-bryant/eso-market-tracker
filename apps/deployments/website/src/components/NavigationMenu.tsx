@@ -1,6 +1,6 @@
 import { IonMenu, IonMenuToggle, IonIcon } from '@ionic/react'
 import { chevronForwardOutline } from 'ionicons/icons'
-import { useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import './NavigationMenu.scss'
 import * as constants from '../constants'
@@ -179,10 +179,13 @@ export default () => {
   const [updateDate, setUpdateDate] = useState<string>()
   const [tracked, setTracked] = useState<number>()
 
-  void __fetchEsoMarketTrackerStats().then(
-    ({ lastUpdated, totalItemsAllServers }) => (
-      setUpdateDate(lastUpdated), setTracked(totalItemsAllServers)
-    )
+  useEffect(
+    () =>
+      void __fetchEsoMarketTrackerStats().then(
+        ({ lastUpdated, totalItemsAllServers }) => (
+          setUpdateDate(lastUpdated), setTracked(totalItemsAllServers)
+        )
+      )
   )
 
   return (
