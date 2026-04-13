@@ -1,5 +1,3 @@
-import { useQuery } from '@apollo/client'
-
 import LoadingSkeleton from '../components/LoadingSkeleton'
 import TradableItemList from '../components/TradableItemList'
 import TradableItemReferenceSkeleton from '../components/TradableItemReferenceSkeleton'

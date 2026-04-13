@@ -70,5 +70,5 @@
     "vite": "^4.1.0",
     "vitest": "^4.1.4"
   },
-  "description": "An Ionic project"
+  "description": "The website and mobile app for ESO Market Tracker"
 }

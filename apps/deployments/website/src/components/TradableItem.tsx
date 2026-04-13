@@ -49,7 +49,7 @@ const _renderStat = ([label, value, icon, modClass]: [
   string,
   string?
 ]) => (
-  <div className="tradable-item-stat-container">
+  <div className="tradable-item-stat-container" key={`stat-${label}`}>
     <div className={`tradable-item-stat-icon ${modClass}`}>
       <IonIcon icon={icon}></IonIcon>
     </div>
@@ -61,7 +61,10 @@ const _renderStat = ([label, value, icon, modClass]: [
   </div>
 )
 
-const renderItemQualities = (raw: TradableItemType, traitId: string) => (
+const renderItemQualities = (
+  raw: Record<string, Record<string, { average: number }>>,
+  traitId: string
+) => (
   <div>
     <div className="tradable-item-content-section is-simple">
       <div className="tradable-item-content-section-header">
@@ -194,7 +197,7 @@ const renderItemContent = (item: TradableItemType) => (
     </div>
 
     {item.raw &&
-      Object.keys(item.raw).map((i) => renderItemQualities(item.raw, i))}
+      Object.keys(item.raw).map((i) => renderItemQualities(item.raw!, i))}
 
     {(item.description || item.howToAcquire) && (
       <div className="tradable-item-content-section is-simple" />
@@ -236,10 +239,7 @@ const renderItemContent = (item: TradableItemType) => (
   </div>
 )
 
-const useItemState = (
-  item: TradableItemType,
-  referenceItems: TradableItemType[]
-) => {
+const useItemState = (item: TradableItemType) => {
   const currentAverage = item.currentXboxStats.averageUnitPrice
   const [currentStat, setCurrentStat] = useState<'average' | 'sales'>('average')
   const [isDelta, setIsDelta] = useState(false)
@@ -252,14 +252,9 @@ const useItemState = (
   // Filters our data to the given date range.
   const _compare = (days: number) => (point: SalesRollupType) =>
     new Date(point.date) >= getTargetDateFromDays(days, item)
-  const getFilteredData = (days: number) =>
-    Object.fromEntries([
-      [item.slug, item.historicalXboxStats.filter(_compare(days))],
-      ...referenceItems.map((referenceItem) => [
-        referenceItem.slug,
-        referenceItem.historicalXboxStats.filter(_compare(days)),
-      ]),
-    ])
+  const getFilteredData = (days: number) => ({
+    [item.slug]: item.historicalXboxStats!.filter(_compare(days)),
+  })
 
   const [salesAreUp, setSalesAreUp] = useState(
     getFilteredData(DEFAULT_TIME_SPAN)[item.slug][0].averageUnitPrice <
@@ -319,6 +314,7 @@ const _renderSpanToggles = (
           daysShown == days && 'is-active'
         }`}
         onClick={() => getAndSetFilteredData(days)}
+        key={`toggle-${period}`}
       >
         {period}
       </div>
@@ -380,13 +376,7 @@ const useGraph = (
   }
 }
 
-export default ({
-  item,
-  referenceItems = [],
-}: {
-  item: TradableItemType
-  referenceItems?: TradableItemType[]
-}) => {
+export default ({ item }: { item: TradableItemType }) => {
   const {
     currentStat,
     isDelta,
@@ -396,7 +386,7 @@ export default ({
     salesAreUp,
     filteredData,
     getAndSetFilteredData,
-  } = useItemState(item, referenceItems)
+  } = useItemState(item)
 
   const toggleIsDelta = () => setIsDelta(!isDelta)
 

@@ -119,7 +119,7 @@ export default () => {
 
       {currentSearch && loading && LOADING_STATE}
       {currentSearch && error && ERROR_STATE}
-      {currentSearch && data && data.length && (
+      {currentSearch && data && data.length > 0 && (
         <div>
           <TradableItemList items={data} />
         </div>

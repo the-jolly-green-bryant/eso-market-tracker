@@ -111,5 +111,5 @@ export const updateKeyValues = async (options?: { maxKeys?: number }) => {
     execFileSync('npx', args, { stdio: 'inherit' })
   }
 
-  return _updateSearchIndex(raw.map((i) => Number.parseInt(i.key)))
+  return _updateSearchIndex(raw.map((i) => Number.parseInt(i.key as string)))
 }

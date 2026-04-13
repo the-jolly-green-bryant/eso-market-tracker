@@ -1,5 +1,8 @@
 import { useEffect, useState } from 'react'
-import { TradableItemType } from '../models/tradable-item-types'
+import {
+  SalesRollupType,
+  TradableItemType,
+} from '../models/tradable-item-types'
 import { CATEGORIES } from '../constants'
 
 export const getIdFromName = (name: string): number => {
@@ -61,16 +64,15 @@ const _responseToHistory = (json: GitResponse[]) =>
     recentSales: 1,
     totalUnitsSold: 1,
     medianUnitPrice: (i.minimum + i.maximum) / 2,
-  }))
+  })) as SalesRollupType[]
 
-const _responseToItem = (json: APIItemResponse) => {
+const _responseToItem = (json: APIItemResponse): TradableItemType => {
   const platformRaw = json.pricing['xbox-na']
   const baseRaw = platformRaw['--']['--']
   const itemRaw = json.item
 
   return {
     raw: platformRaw,
-    category: {}, // TODO
     currentXboxStats: {
       averageUnitPrice: baseRaw.average,
       commonQuantity: baseRaw.commonQuantity,
@@ -107,7 +109,7 @@ const _responseToItem = (json: APIItemResponse) => {
   }
 }
 
-export const __useCategory = (category: string) => {
+export const __useCategory = (category: keyof typeof CATEGORIES) => {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
   const [data, setData] = useState<TradableItemType[] | null>(null)
@@ -139,7 +141,7 @@ export const __useCategory = (category: string) => {
               throw new Error(`Request failed: ${r.status}`)
             }
 
-            const raw = (await r.json()).results?.[0]
+            const raw = ((await r.json()) as APIResponse).results?.[0]
             return raw ? _responseToItem(raw) : null
           })
         )
@@ -191,7 +193,9 @@ export const __useItem = (slug: string) => {
         throw new Error(`Request failed: ${r.status}`)
       }
 
-      const json = _responseToItem((await r.json()).results.at(0)!)
+      const json = _responseToItem(
+        ((await r.json()) as APIResponse).results.at(0)!
+      )
       setData(json)
       setLoading(false)
     }
@@ -233,7 +237,7 @@ export const __useSearch = (text: string) => {
         const raw = (await r.json()) as APIResponse
         const json = raw.results
           .filter((i) => i.pricing['xbox-na'])
-          .map(_responseToItem) as TradableItemType[]
+          .map(_responseToItem)
         setData(json)
       } catch (e) {
         if ((e as Error).name === 'AbortError') return
@@ -254,7 +258,7 @@ export const __useSearch = (text: string) => {
 export const __useItemHistory = (slug: string) => {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
-  const [data, setData] = useState<TradableItemType | null>(null)
+  const [data, setData] = useState<SalesRollupType[] | null>(null)
 
   useEffect(() => {
     if (!slug) {
@@ -287,7 +291,7 @@ export const __useItemHistory = (slug: string) => {
         throw new Error(`Request failed: ${r.status}`)
       }
 
-      const json = await _responseToHistory(await r.json())
+      const json = _responseToHistory(await r.json())
       setData(json)
       setLoading(false)
     }

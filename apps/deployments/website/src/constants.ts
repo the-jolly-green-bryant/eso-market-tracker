@@ -1,10 +1,3 @@
-export const API_HOSTNAME = 'https://api.esomarkettracker.com'
-export const API_GRAPHQL_ENDPOINT = `${API_HOSTNAME}/graphql/`
-export const API_SHARE_ENDPOINT = `${API_HOSTNAME.replace('api', 'buy')}/share`
-
-export const getShareLink = (itemSlug: string) =>
-  `${API_SHARE_ENDPOINT}/item/${itemSlug}`
-
 export const PATREON_LINK = 'https://discord.gg/ZbRPf4gHYX'
 export const REDDIT_LINK = 'https://www.reddit.com/r/ESOMarketTracker/'
 

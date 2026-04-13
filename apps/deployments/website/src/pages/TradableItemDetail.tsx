@@ -38,7 +38,6 @@ const TradableItemDetail: React.FC = () => {
           data.currentXboxStats.averageUnitPrice
         ).toLocaleString()}`
       }`}
-      shareLink={constants.getShareLink(slug)}
     >
       {loading && <TradableItemSkeleton />}
 

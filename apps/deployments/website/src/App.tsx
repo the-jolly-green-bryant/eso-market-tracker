@@ -36,10 +36,7 @@ import '@ionic/react/css/display.css'
 
 /* Theme variables */
 import './theme/variables.css'
-
-import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client'
 import * as routes from './routes'
-import * as constants from './constants'
 
 setupIonicReact()
 
@@ -103,42 +100,15 @@ const SWITCH = (
   </Switch>
 )
 
-const App: React.FC = () => {
-  const apolloClient = new ApolloClient({
-    uri: constants.API_GRAPHQL_ENDPOINT,
-    cache: new InMemoryCache({
-      typePolicies: {
-        Query: {
-          fields: {
-            tradableItems: {
-              // Don't cache separate results based on
-              // any of this field's arguments.
-              keyArgs: ['search', 'categorySlug'],
-
-              // Concatenate the incoming list items with
-              // the existing list items.
-              merge(existing = [], incoming) {
-                return [...existing, ...incoming]
-              },
-            },
-          },
-        },
-      },
-    }),
-  })
-
-  return (
-    <ApolloProvider client={apolloClient}>
-      <IonApp>
-        <IonReactRouter>
-          <IonSplitPane contentId="main">
-            <NavigationMenu />
-            <IonRouterOutlet id="main">{SWITCH}</IonRouterOutlet>
-          </IonSplitPane>
-        </IonReactRouter>
-      </IonApp>
-    </ApolloProvider>
-  )
-}
+const App: React.FC = () => (
+  <IonApp>
+    <IonReactRouter>
+      <IonSplitPane contentId="main">
+        <NavigationMenu />
+        <IonRouterOutlet id="main">{SWITCH}</IonRouterOutlet>
+      </IonSplitPane>
+    </IonReactRouter>
+  </IonApp>
+)
 
 export default App

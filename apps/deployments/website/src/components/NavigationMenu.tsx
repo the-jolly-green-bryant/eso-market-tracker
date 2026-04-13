@@ -1,16 +1,10 @@
-import { useQuery } from '@apollo/client'
 import { IonMenu, IonMenuToggle, IonIcon } from '@ionic/react'
 import { chevronForwardOutline } from 'ionicons/icons'
 import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
-
-import LoadingSkeleton from '../components/LoadingSkeleton'
-
 import './NavigationMenu.scss'
 import * as constants from '../constants'
 import * as routes from '../routes'
-import * as queries from '../models/queries'
-import { TradableItemCategoryReferenceType } from '../models/tradable-item-types'
 import { CATEGORIES } from '../constants'
 
 const HEADER_CONTENT = (
@@ -53,9 +47,8 @@ const ABOUT_CONTENT = (
   </div>
 )
 
-export type RepoStats = {
+type RepoStats = {
   lastUpdated: string
-  byServer: Record<string, number>
   totalItemsAllServers: number
 }
 
@@ -71,8 +64,8 @@ export const __fetchEsoMarketTrackerStats = async (): Promise<RepoStats> => {
 
   const text = await r.text()
 
-  const lastUpdatedMatch = text.match(
-    /Last Updated:\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/m
+  const lastUpdatedMatch = RegExp(/Last Updated:\s*(\d{4}-\d{2}-\d{2})/m).exec(
+    text
   )
   if (!lastUpdatedMatch) {
     throw new Error('Could not find "Last Updated" in README')
@@ -181,17 +174,8 @@ const renderCategories = () => (
   </div>
 )
 
-type AppStatsType = {
-  appStats: {
-    transactionCount: number
-    itemCount: number
-    latestTransactionDate: string
-  }
-}
-
 export default () => {
   const menuRef = useRef<HTMLIonMenuElement>(null)
-  const { data: appStatsData } = useQuery<AppStatsType>(queries.GET_APP_STATS)
   const [updateDate, setUpdateDate] = useState<string>()
   const [tracked, setTracked] = useState<number>()
 
