@@ -1,6 +1,6 @@
 {
   "name": "market-tracker-api",
-  "version": "2026.04.13+4f033a4b5eb",
+  "version": "2026.04.13+022ba9fe814",
   "private": true,
   "scripts": {
     "deploy": "wrangler deploy",
