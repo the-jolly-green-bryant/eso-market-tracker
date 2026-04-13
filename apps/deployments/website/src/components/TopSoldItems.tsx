@@ -4,15 +4,10 @@ import LoadingSkeleton from '../components/LoadingSkeleton'
 import TradableItemList from '../components/TradableItemList'
 import TradableItemReferenceSkeleton from '../components/TradableItemReferenceSkeleton'
 import './TopSoldItems.scss'
-import * as constants from '../constants'
-import * as queries from '../models/queries'
+import { __useCategory } from '../pages/useItem'
 
 const TopSoldItems: React.FC = () => {
-  const { loading, error, data } = useQuery(queries.GET_TOP_SELLERS, {
-    variables: {
-      platform: constants.PLATFORM_XBOX,
-    },
-  })
+  const { loading, error, data } = __useCategory('Mats (Gold)')
 
   return (
     <div className="top-sold-items">
@@ -28,9 +23,7 @@ const TopSoldItems: React.FC = () => {
 
       {error && <LoadingSkeleton error={true} />}
 
-      {!loading && !error && (
-        <TradableItemList items={data.topSellingTradableItems} />
-      )}
+      {!loading && !error && data && <TradableItemList items={data} />}
     </div>
   )
 }

@@ -412,40 +412,23 @@ export default ({
   } = useItemState(item, referenceItems)
 
   const toggleIsDelta = () => setIsDelta(!isDelta)
-  const toggleStat = () =>
-    setCurrentStat(currentStat == 'average' ? 'sales' : 'average')
 
-  const {
-    renderGraph,
-    averagePrice,
-    totalSales,
-    currentDate,
-    setChartIsRendered,
-  } = useGraph(item, filteredData, currentStat, isDelta, startDate)
+  const { renderGraph, averagePrice, currentDate, setChartIsRendered } =
+    useGraph(item, filteredData, currentStat, isDelta, startDate)
   useEffect(() => setChartIsRendered(true), [])
 
   const cTIH = `tradable-item-header`
   const label = currentStat == 'average' ? 'Avg. Worth' : 'Total Sales'
-  const bLabel = currentStat != 'average' ? 'Avg. Worth' : 'Total Sales'
-  const stat = toPrice(currentStat == 'average' ? averagePrice : totalSales)
-  const bStat = toPrice(currentStat != 'average' ? averagePrice : totalSales)
+  const stat = toPrice(averagePrice)
   const date = currentDate == '2024-11-14' ? 'today' : currentDate
 
   return (
     <div className={`tradable-item ${salesAreUp ? 'is-up' : 'is-down'}`}>
       <div className={cTIH}>
-        <div className={`${cTIH}-stat-container`} onClick={toggleStat}>
+        <div className={`${cTIH}-stat-container`}>
           <div className={`${cTIH}-title`}>{label}</div>
           <div className="tradable-item-header-price">{stat}</div>
           <div className="tradable-item-header-date">as of {date}</div>
-        </div>
-
-        <div
-          className={`${cTIH}-stat-container is-secondary`}
-          onClick={toggleStat}
-        >
-          <div className="tradable-item-header-title">{bLabel}</div>
-          <div className={`${cTIH}-price`}>{bStat}</div>
         </div>
 
         {renderGraph()}

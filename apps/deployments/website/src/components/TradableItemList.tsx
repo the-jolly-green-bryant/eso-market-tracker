@@ -19,7 +19,6 @@ const TradableItemList: React.FC<ContainerProps> = ({
   const [filterText, setFilterText] = useState('')
 
   const onFilterChange = (e: { target: { value: string } }) => {
-    console.log('seteFilterText', e.target.value)
     setFilterText(e.target.value)
   }
 

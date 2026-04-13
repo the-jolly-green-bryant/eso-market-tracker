@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { TradableItemType } from '../models/tradable-item-types'
+import { CATEGORIES } from '../constants'
 
 export const getIdFromName = (name: string): number => {
   name = name.toLowerCase().replace(/[^a-z0-9 ]/gi, '')
@@ -13,28 +14,30 @@ export const getIdFromName = (name: string): number => {
   return hash >>> 0
 }
 
-type APIResponse = {
-  results: {
-    pricing: {
-      'xbox-na': {
-        [trait: string]: {
-          [quality: string]: {
-            average: number
-            date: string
-            commonQuantity: number
-            minimum: number
-            maximum: number
-          }
+type APIItemResponse = {
+  pricing: {
+    'xbox-na': {
+      [trait: string]: {
+        [quality: string]: {
+          average: number
+          date: string
+          commonQuantity: number
+          minimum: number
+          maximum: number
         }
       }
     }
-    item: {
-      internalId: number
-      name: string
-      description: string
-      icon: string
-    }
-  }[]
+  }
+  item: {
+    internalId: number
+    name: string
+    description: string
+    icon: string
+  }
+}
+
+type APIResponse = {
+  results: APIItemResponse[]
 }
 
 type GitResponse = {
@@ -60,17 +63,17 @@ const _responseToHistory = (json: GitResponse[]) =>
     medianUnitPrice: (i.minimum + i.maximum) / 2,
   }))
 
-const _responseToItem = (json: APIResponse) => {
-  const xboxRaw = json.results.at(0)!.pricing['xbox-na']
-  const baseRaw = xboxRaw['--']['--']
-  const itemRaw = json.results.at(0)!.item
+const _responseToItem = (json: APIItemResponse) => {
+  const platformRaw = json.pricing['xbox-na']
+  const baseRaw = platformRaw['--']['--']
+  const itemRaw = json.item
 
   return {
     category: {}, // TODO
     currentXboxStats: {
       averageUnitPrice: baseRaw.average,
       commonQuantity: baseRaw.commonQuantity,
-      numberOfQualitiesTracked: Object.keys(xboxRaw['--']).filter(
+      numberOfQualitiesTracked: Object.keys(platformRaw['--']).filter(
         (i) => i != '--'
       ).length,
       commonUnitPriceRangeLower: baseRaw.minimum,
@@ -82,17 +85,81 @@ const _responseToItem = (json: APIResponse) => {
       recentSales: 1,
       totalUnitsSold: 1,
       medianUnitPrice: (baseRaw.minimum + baseRaw.maximum) / 2,
-      whiteAverageUnitPrice: xboxRaw['--']['01'] && xboxRaw['--']['01'].average,
-      greenAverageUnitPrice: xboxRaw['--']['02'] && xboxRaw['--']['02'].average,
-      blueAverageUnitPrice: xboxRaw['--']['03'] && xboxRaw['--']['03'].average,
+      whiteAverageUnitPrice:
+        platformRaw['--']['01'] && platformRaw['--']['01'].average,
+      greenAverageUnitPrice:
+        platformRaw['--']['02'] && platformRaw['--']['02'].average,
+      blueAverageUnitPrice:
+        platformRaw['--']['03'] && platformRaw['--']['03'].average,
       purpleAverageUnitPrice:
-        xboxRaw['--']['04'] && xboxRaw['--']['04'].average,
-      goldAverageUnitPrice: xboxRaw['--']['05'] && xboxRaw['--']['05'].average,
+        platformRaw['--']['04'] && platformRaw['--']['04'].average,
+      goldAverageUnitPrice:
+        platformRaw['--']['05'] && platformRaw['--']['05'].average,
     },
     description: itemRaw.description,
     displayLabel: itemRaw.name,
-    imageLink: `https://github.com/the-jolly-green-bryant/eso-market-tracker/blob/main/${itemRaw.icon}?raw=true`,
+    slug: itemRaw.name.replace(' ', '-'),
+    imageLink:
+      itemRaw.icon && itemRaw.icon.startsWith('https')
+        ? itemRaw.icon
+        : `https://github.com/the-jolly-green-bryant/eso-market-tracker/blob/main/${itemRaw.icon}?raw=true`,
   }
+}
+
+export const __useCategory = (category: string) => {
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<Error | null>(null)
+  const [data, setData] = useState<TradableItemType[] | null>(null)
+
+  useEffect(() => {
+    if (!category || !CATEGORIES[category]) {
+      setLoading(false)
+      setError(null)
+      setData(null)
+      return
+    }
+
+    const controller = new AbortController()
+
+    const load = async () => {
+      try {
+        setLoading(true)
+        setError(null)
+
+        const items = await Promise.all(
+          CATEGORIES[category].map(async (name) => {
+            const internalId = getIdFromName(name)
+            const r = await fetch(
+              `https://data.esomarkettracker.com/item/${internalId}`,
+              { signal: controller.signal }
+            )
+
+            if (!r.ok) {
+              throw new Error(`Request failed: ${r.status}`)
+            }
+
+            const raw = (await r.json()).results?.[0]
+            return raw ? _responseToItem(raw) : null
+          })
+        )
+
+        setData(items.filter(Boolean) as TradableItemType[])
+      } catch (e) {
+        if ((e as Error).name === 'AbortError') return
+        setError(e as Error)
+        setData(null)
+        throw e
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    void load()
+
+    return () => controller.abort()
+  }, [category])
+
+  return { loading, error, data }
 }
 
 export const __useItem = (slug: string) => {
@@ -123,8 +190,7 @@ export const __useItem = (slug: string) => {
         throw new Error(`Request failed: ${r.status}`)
       }
 
-      const json = _responseToItem(await r.json())
-      console.log('json', json)
+      const json = _responseToItem((await r.json()).results.at(0)!)
       setData(json)
       setLoading(false)
     }
@@ -132,6 +198,54 @@ export const __useItem = (slug: string) => {
     void load()
     return () => controller.abort()
   }, [slug])
+
+  return { loading, error, data }
+}
+
+export const __useSearch = (text: string) => {
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<Error | null>(null)
+  const [data, setData] = useState<TradableItemType[]>([])
+
+  useEffect(() => {
+    if (!text) {
+      setLoading(false)
+      setData([])
+      return
+    }
+
+    const controller = new AbortController()
+    const load = async () => {
+      try {
+        setLoading(true)
+        setError(null)
+
+        const r = await fetch(
+          `https://data.esomarkettracker.com/search/${text}`,
+          { signal: controller.signal }
+        )
+
+        if (!r.ok) {
+          throw new Error(`Request failed: ${r.status}`)
+        }
+
+        const raw = (await r.json()) as APIResponse
+        const json = raw.results
+          .filter((i) => i.pricing['xbox-na'])
+          .map(_responseToItem) as TradableItemType[]
+        setData(json)
+      } catch (e) {
+        if ((e as Error).name === 'AbortError') return
+        setError(e as Error)
+        throw e
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    void load()
+    return () => controller.abort()
+  }, [text])
 
   return { loading, error, data }
 }
