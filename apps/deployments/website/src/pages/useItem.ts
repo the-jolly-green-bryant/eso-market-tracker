@@ -17,7 +17,10 @@ export const getIdFromName = (name: string): number => {
   return hash >>> 0
 }
 
-type APIItemResponse = {
+/**
+ * The expected format for an API response from data.esomarkettracker.com
+ */
+export type APIItemResponse = {
   pricing: {
     'xbox-na': {
       [trait: string]: {
@@ -67,6 +70,7 @@ const _responseToHistory = (json: GitResponse[]) =>
   })) as SalesRollupType[]
 
 export const _responseToItem = (json: APIItemResponse): TradableItemType => {
+  console.log('json', json)
   const platformRaw = json.pricing['xbox-na']
   const baseRaw = platformRaw['--']['--']
   const itemRaw = json.item

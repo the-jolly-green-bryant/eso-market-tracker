@@ -42,7 +42,6 @@ export type CategoryProps = {
 export default ({ staticData }: CategoryProps) => {
   const { slug } = staticData ?? useParams<{ slug: keyof typeof CATEGORIES }>()
   const { loading, error, data } = staticData ?? __useCategory(slug)
-  console.log('data', data)
 
   return (
     <PageContainer

@@ -4,16 +4,31 @@ import LoadingSkeleton from '../components/LoadingSkeleton'
 import PageContainer from '../components/PageContainer'
 import TradableItem from '../components/TradableItem'
 import TradableItemSkeleton from '../components/TradableItemSkeleton'
-import { TradableItemReferenceType } from '../models/tradable-item-types'
+import {
+  TradableItemReferenceType,
+  TradableItemType,
+} from '../models/tradable-item-types'
 import * as constants from '../constants'
 import { __useItem, __useItemHistory } from './useItem'
 
-const TradableItemDetail: React.FC = () => {
+/**
+ * Structure of data for static rendering of item pages
+ */
+export type ItemProps = {
+  staticData?: {
+    data: TradableItemType
+    slug: string
+    error?: string
+    loading?: string
+  }
+}
+
+const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
   const { state } = useLocation<{ itemReference: TradableItemReferenceType }>()
-  const { slug } = useParams<{ slug: string }>()
+  const { slug } = staticData ?? useParams<{ slug: string }>()
 
   const itemReference: TradableItemReferenceType = state?.itemReference
-  const { loading, error, data } = __useItem(slug)
+  const { loading, error, data } = staticData ?? __useItem(slug)
   const { data: historicalData } = __useItemHistory(slug)
 
   const pageTitle: string =

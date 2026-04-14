@@ -26,9 +26,9 @@ export const TRAIT_INDEX = async (): Promise<
   return _TRAIT_INDEX
 }
 
-let _MASTER_PRICING_INDEX: Record<number, [number, number | null]>
+let _MASTER_PRICING_INDEX: Record<string, [number, number | null]>
 export const MASTER_PRICING_INDEX = async (): Promise<
-  Record<number, [number, number | null]>
+  Record<string, [number, number | null]>
 > => {
   if (_MASTER_PRICING_INDEX) return _MASTER_PRICING_INDEX
 
@@ -36,7 +36,7 @@ export const MASTER_PRICING_INDEX = async (): Promise<
     path.join(__dirname, 'index', 'master-pricing.json')
   )
   const data = JSON.parse(buf.toString('utf8'))
-  _MASTER_PRICING_INDEX = data as Record<number, [number, number | null]>
+  _MASTER_PRICING_INDEX = data as Record<string, [number, number | null]>
   return _MASTER_PRICING_INDEX
 }
 
