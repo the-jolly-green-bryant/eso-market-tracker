@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build && tsx src/scripts/build-static.tsx",
     "preview": "vite preview"
   },
   "dependencies": {

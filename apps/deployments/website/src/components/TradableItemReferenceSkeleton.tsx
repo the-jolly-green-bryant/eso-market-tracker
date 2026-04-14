@@ -1,5 +1,4 @@
 import FlatButton from '../components/FlatButton'
-import './TradableItemReference.scss'
 
 const TradableItemReferenceSkeleton: React.FC = () => (
   <div className="tradable-item-reference">

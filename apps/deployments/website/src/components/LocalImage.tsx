@@ -1,7 +1,6 @@
 import { useState } from 'react'
 
 import PlaceholderImage from '../components/PlaceholderImage'
-import './LocalImage.scss'
 
 interface ContainerProps {
   imageUrl: string

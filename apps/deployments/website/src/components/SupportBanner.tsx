@@ -1,5 +1,4 @@
 import { Capacitor } from '@capacitor/core'
-import './SupportBanner.scss'
 import * as constants from '../constants'
 
 const SupportBanner: React.FC = () => (

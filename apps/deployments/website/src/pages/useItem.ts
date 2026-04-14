@@ -66,7 +66,7 @@ const _responseToHistory = (json: GitResponse[]) =>
     medianUnitPrice: (i.minimum + i.maximum) / 2,
   })) as SalesRollupType[]
 
-const _responseToItem = (json: APIItemResponse): TradableItemType => {
+export const _responseToItem = (json: APIItemResponse): TradableItemType => {
   const platformRaw = json.pricing['xbox-na']
   const baseRaw = platformRaw['--']['--']
   const itemRaw = json.item

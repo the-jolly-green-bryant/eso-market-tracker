@@ -5,8 +5,6 @@ import {
   informationOutline,
 } from 'ionicons/icons'
 
-import './LoadingSkeleton.scss'
-
 interface ContainerProps {
   children?: React.ReactElement | null
   loading?: boolean

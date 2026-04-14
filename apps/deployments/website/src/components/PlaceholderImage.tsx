@@ -1,8 +1,6 @@
 import { IonIcon } from '@ionic/react'
 import { syncOutline, helpOutline } from 'ionicons/icons'
 
-import './PlaceholderImage.scss'
-
 /**
  * Displays a warning icon if an image is missing, otherwise displays a loading
  *  icon.

@@ -3,7 +3,6 @@ import { useCallback, useState } from 'react'
 
 import TradableItemReference from '../components/TradableItemReference'
 import { TradableItemReferenceType } from '../models/tradable-item-types'
-import './TradableItemList.scss'
 
 interface ContainerProps {
   items: TradableItemReferenceType[]

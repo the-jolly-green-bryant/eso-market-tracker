@@ -1,6 +1,5 @@
 import { MouseEvent, useRef, useState } from 'react'
 import { useHistory } from 'react-router-dom'
-import './FlatButton.scss'
 
 interface ContainerProps {
   animationDuration?: number

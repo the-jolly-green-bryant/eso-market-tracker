@@ -3,7 +3,6 @@ import LocalImage from '../components/LocalImage'
 import PlaceholderImage from '../components/PlaceholderImage'
 import { TradableItemReferenceType } from '../models/tradable-item-types'
 import * as routes from '../routes'
-import './TradableItemReference.scss'
 
 interface ContainerProps {
   item: TradableItemReferenceType

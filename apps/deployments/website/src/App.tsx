@@ -14,7 +14,9 @@ import PrivacyPolicy from './pages/PrivacyPolicy'
 import Report from './pages/Report'
 import TermsAndConditions from './pages/TermsAndConditions'
 import TradableItemCategories from './pages/TradableItemCategories'
-import TradableItemCategoryDetail from './pages/TradableItemCategoryDetail'
+import TradableItemCategoryDetail, {
+  CategoryProps,
+} from './pages/TradableItemCategoryDetail'
 import TradableItemDetail from './pages/TradableItemDetail'
 
 /* Core CSS required for Ionic components to work properly */
@@ -35,11 +37,13 @@ import '@ionic/react/css/display.css'
 
 /* Theme variables */
 import './theme/variables.css'
+import './components/components.scss'
 import * as routes from './routes'
+import { MemoryRouter } from 'react-router'
 
 setupIonicReact()
 
-const SWITCH = (
+const SWITCH = (initialData: unknown) => (
   <Switch>
     <Route path={routes.index()} exact={true}>
       <Redirect to={`${routes.dashboard()}/`} />
@@ -66,7 +70,9 @@ const SWITCH = (
     </Route>
 
     <Route path={`${routes.category()}/:slug`} exact={true}>
-      <TradableItemCategoryDetail />
+      <TradableItemCategoryDetail
+        staticData={initialData as CategoryProps['staticData']}
+      />
     </Route>
 
     <Route path={routes.about()} exact={true}>
@@ -95,14 +101,20 @@ const SWITCH = (
   </Switch>
 )
 
-const App: React.FC = () => (
+const isServer = typeof window === 'undefined'
+const Router = isServer ? MemoryRouter : IonReactRouter
+
+const App: React.FC<{
+  initialUrl?: string
+  initialData?: unknown
+}> = ({ initialUrl, initialData }) => (
   <IonApp>
-    <IonReactRouter>
+    <Router {...(isServer ? { initialEntries: [initialUrl ?? '/'] } : {})}>
       <IonSplitPane contentId="main">
         <NavigationMenu />
-        <IonRouterOutlet id="main">{SWITCH}</IonRouterOutlet>
+        <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>
       </IonSplitPane>
-    </IonReactRouter>
+    </Router>
   </IonApp>
 )
 

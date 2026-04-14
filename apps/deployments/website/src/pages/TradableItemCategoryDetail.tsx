@@ -7,6 +7,7 @@ import TradableItemReferenceSkeleton from '../components/TradableItemReferenceSk
 import * as constants from '../constants'
 import { CATEGORIES } from '../constants'
 import { __useCategory } from './useItem'
+import { TradableItemType } from '../models/tradable-item-types'
 
 const LOADING_STATE = (
   <div>
@@ -26,18 +27,31 @@ const ERROR_STATE = (
   </div>
 )
 
-export default () => {
-  const { slug } = useParams<{ slug: keyof typeof CATEGORIES }>()
-  const { loading, error, data } = __useCategory(slug)
+/**
+ * Structure of data for static rendering of category pages.
+ */
+export type CategoryProps = {
+  staticData?: {
+    data: TradableItemType[]
+    slug: keyof typeof CATEGORIES
+    error?: string
+    loading?: string
+  }
+}
+
+export default ({ staticData }: CategoryProps) => {
+  const { slug } = staticData ?? useParams<{ slug: keyof typeof CATEGORIES }>()
+  const { loading, error, data } = staticData ?? __useCategory(slug)
+  console.log('data', data)
 
   return (
     <PageContainer
       pageTitle={slug}
       metaTitle={constants.getFullPageTitle(slug)}
-      metaDescription={`View sales information for the category "slug".`}
+      metaDescription={`View sales information for the category "${slug}".`}
     >
-      {loading && LOADING_STATE}
-      {error && ERROR_STATE}
+      {!staticData && loading && LOADING_STATE}
+      {!staticData && error && ERROR_STATE}
       {data && data.length > 0 && (
         <div>
           <TradableItemList items={data} />

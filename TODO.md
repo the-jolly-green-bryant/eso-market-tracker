@@ -2,9 +2,8 @@
 
 ## Next Up
 
-- esomarkettracker - wire to use new api
+- Fix sidebar on esomarkettracker.com
 - Static pages for esomarkettracker.com
 - esomarkettracker.com sitemap and indexing
-- update about to link to other things (api, addon, github)
-- 
+- Where's the addon?
 

@@ -5,7 +5,6 @@ import { useHistory } from 'react-router-dom'
 import { RWebShare } from 'react-web-share'
 
 import SupportBanner from './SupportBanner'
-import './PageContainer.scss'
 import * as constants from '../constants'
 import * as routes from '../routes'
 
@@ -35,7 +34,6 @@ export default ({
       <Helmet>
         <meta charSet="utf-8" />
         <title>{metaTitle}</title>
-        <link rel="canonical" href={window.location.href} />
         <meta name="description" content={metaDescription} />
       </Helmet>
 
