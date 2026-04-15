@@ -175,7 +175,7 @@ const parseObservations = async (
     allParsed
       .slice(0, options?.maxWrites ?? allParsed.length)
       .map(async (parsed): Promise<[string, ItemObservation[]]> => {
-        const limit = pLimit(10)
+        const limit = pLimit(4)
         const observations = (
           await Promise.all(
             Object.entries(parsed.data)
@@ -186,7 +186,14 @@ const parseObservations = async (
               .flatMap(async ([idString, valueString]) =>
                 limit(async () => {
                   const id = Number.parseInt(idString)
-                  if ([208251, 212359, 82016, 157522].includes(id)) {
+                  if (
+                    // These are items not reported in the UESP database but
+                    //  reported in the TSC addon's data set...
+                    [
+                      208251, 212359, 82016, 157522, 99834, 99836, 99835,
+                      100015, 99837,
+                    ].includes(id)
+                  ) {
                     return []
                   }
 

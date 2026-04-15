@@ -54,7 +54,15 @@ const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
   return data.NestedDataSets.at(0)
     ?.data!.data.filter(
       (row: string[11]) =>
-        !['Runebound Tome: Mask of Battled Powers Adornment'].includes(row[1])
+        ![
+          'Runebound Tome: Mask of Battled Powers Adornment',
+          // These are items in TSC that don't appear to exist in game...
+          'Bent Iron Buckle',
+          'Chipped Bone Ring',
+          'Faded Cloth Sash',
+          'Loose Leather Cord',
+          'Worn Leather Binding',
+        ].includes(row[1])
     )
     .map(
       (row: string[11]): ItemObservation => ({

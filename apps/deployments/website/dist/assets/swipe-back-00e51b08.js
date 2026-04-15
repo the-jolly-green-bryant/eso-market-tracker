@@ -1,4 +1,4 @@
-import{c as D}from"./index-41927c0c.js";import{createGesture as M}from"./index2-0460b2e7.js";/*!
+import{c as D}from"./index-ddc2a133.js";import{createGesture as M}from"./index2-8c9fbe1c.js";/*!
  * (C) Ionic http://ionicframework.com - MIT License
  */const m=e=>e&&e.dir!==""?e.dir.toLowerCase()==="rtl":(document==null?void 0:document.dir.toLowerCase())==="rtl";/*!
  * (C) Ionic http://ionicframework.com - MIT License

@@ -8,6 +8,7 @@ import * as cheerio from 'cheerio'
 import fs from 'fs'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
+import { __fetchWithRetry } from './fetch'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -101,7 +102,7 @@ export const _queryUESP = async (
     orThrow(new Error('No UESP_COOKIE env defined'))
 
   logger.info(`Endpoint: ${endpoint}`)
-  const res = await fetch(endpoint, {
+  const res = await __fetchWithRetry(endpoint, {
     method: 'GET',
     headers: {
       accept:
@@ -111,10 +112,20 @@ export const _queryUESP = async (
       pragma: 'no-cache',
       'upgrade-insecure-requests': '1',
       'user-agent':
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36',
       cookie,
-      referer: 'https://esolog.uesp.net/',
+      referer: 'https://esolog.uesp.net/viewlog.php',
+      'sec-fetch-dest': 'document',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-site': 'same-origin',
+      'sec-fetch-user': '?1',
+      'sec-ch-ua': '"Chromium";v="147", "Not.A/Brand";v="8"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
     },
+    retries: 4,
+    baseDelayMs: 1500,
+    logger,
   })
 
   const _ =

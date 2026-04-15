@@ -41,6 +41,7 @@ export default [
       'sonarjs/no-nested-assignment': 'off',
       'max-lines-per-function': ['error', 80],
       '@typescript-eslint/no-unused-expressions': 'off',
+      'sonarjs/no-misleading-array-reverse': 'off',
       '@typescript-eslint/no-unused-vars': [
         'error',
         { argsIgnorePattern: '^_', varsIgnorePattern: '^_' },

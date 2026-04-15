@@ -3,6 +3,10 @@ import { orThrow } from '@eso-market-tracker/logging'
 import { naming } from '@eso-market-tracker/database'
 import fs from 'fs'
 import path from 'path'
+import { fileURLToPath } from 'node:url'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
 const _setNested = (
   root: Record<string, unknown>,
