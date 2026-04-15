@@ -116,15 +116,13 @@ const _fetchHistoricalData = async (name: string) => {
     .substring(0, 6)
     .replace(
       /^(.{2})(.{2})(.{2})/,
-      `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3/${internalId}------.xbox-na.historical.json`
+      `data/items/$1/$2/$3/${internalId}------.xbox-na.historical.json`
     )
-  const r = await fetch(historicalUrl)
-
-  if (!r.ok) {
-    throw new Error(`Request failed: ${r.status} - ${historicalUrl} - ${name}`)
-  }
-
-  return _responseToHistory(await r.json())
+  const r = await fs.readFile(
+    path.join(__dirname, '../../../../..', historicalUrl),
+    'utf8'
+  )
+  return _responseToHistory(JSON.parse(r))
 }
 
 const makeItemPages = async (
