@@ -3,6 +3,7 @@ node_modules
 *.log
 .vscode
 dist
+!apps/deployments/website/dist/
 lib
 tsconfig.tsbuildinfo
 .idea/*

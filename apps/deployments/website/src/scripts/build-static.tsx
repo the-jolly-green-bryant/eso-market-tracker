@@ -14,6 +14,16 @@ import { TradableItemType } from '../models/tradable-item-types'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const distPath = path.join(__dirname, '../..', 'dist')
+const BUILD_TIME = new Date().toISOString()
+
+type SitemapEntry = {
+  url: string
+  lastmod?: string
+  changefreq?: 'daily' | 'weekly' | 'monthly'
+  priority?: number
+}
+
+const sitemap = new Map<string, SitemapEntry>()
 
 const _setNested = (
   root: Record<string, unknown>,
@@ -147,7 +157,51 @@ const makeItemPages = async (
     const outFile = path.join(distPath, 'item', _in.slug, 'index.html')
     await fs.mkdir(path.dirname(outFile), { recursive: true })
     await fs.writeFile(outFile, html)
+
+    const url = `/item/${_in.slug}`
+    sitemap.set(url, {
+      url,
+      lastmod: BUILD_TIME,
+      changefreq: 'weekly',
+      priority: 0.8,
+    })
   }
+}
+
+const BASE_URL = 'https://esomarkettracker.com'
+
+const escapeXml = (s: string) =>
+  s
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&apos;')
+
+const buildSitemapXml = (
+  entries: SitemapEntry[]
+) => `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${entries
+  .map(
+    ({ url, lastmod, changefreq, priority }) => `  <url>
+    <loc>${escapeXml(`${BASE_URL}${url}`)}</loc>
+    ${lastmod ? `<lastmod>${new Date(lastmod).toISOString()}</lastmod>` : ''}
+    ${changefreq ? `<changefreq>${changefreq}</changefreq>` : ''}
+    ${priority != null ? `<priority>${priority.toFixed(1)}</priority>` : ''}
+  </url>`
+  )
+  .join('\n')}
+</urlset>
+`
+
+const writeSitemap = async () => {
+  const entries = [...sitemap.values()].sort((a, b) =>
+    a.url.localeCompare(b.url)
+  )
+
+  const outFile = path.join(distPath, 'sitemap.xml')
+  await fs.writeFile(outFile, buildSitemapXml(entries), 'utf8')
 }
 
 const main = async () => {
@@ -176,6 +230,14 @@ const main = async () => {
     const outFile = path.join(distPath, 'category', slug, 'index.html')
     await fs.mkdir(path.dirname(outFile), { recursive: true })
     await fs.writeFile(outFile, html)
+
+    const url = `/categories/${slug}`
+    sitemap.set(url, {
+      url,
+      lastmod: BUILD_TIME,
+      changefreq: 'weekly',
+      priority: 0.6,
+    })
   }
 
   const validIds = Object.keys(await MASTER_PRICING_INDEX()).map(
@@ -194,6 +256,7 @@ const main = async () => {
   }
 
   await vite.close()
+  await writeSitemap()
 }
 
 await main()

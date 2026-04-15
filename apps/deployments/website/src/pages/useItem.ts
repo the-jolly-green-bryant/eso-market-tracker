@@ -77,7 +77,16 @@ export const _responseToItem = (json: APIItemResponse): TradableItemType => {
     throw new Error(`${json.item.name} has no pricing data`)
   }
 
-  const baseRaw = platformRaw['--']['--']
+  // Prefer traitless, but get anything.
+  const baseRaw = (platformRaw['--'] ??
+    platformRaw[
+      Object.keys(platformRaw).at(0) as unknown as keyof typeof platformRaw
+    ] ??
+    {})['--']
+
+  if (!baseRaw) {
+    throw new Error(`${json.item.name} has no pricing data`)
+  }
   const itemRaw = json.item
 
   return {
