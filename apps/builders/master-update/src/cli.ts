@@ -5,23 +5,23 @@ import { fileURLToPath } from 'node:url'
 import { execSync } from 'node:child_process'
 import path from 'path'
 
-// await index.prepareDatabase()
-// await index.importItems()
-// await index.importObservations()
-// await index.prepareDatabase()
-// await index.buildApi()
+await index.prepareDatabase()
+await index.importItems()
+await index.importObservations()
+await index.prepareDatabase()
+await index.buildApi()
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-// const cwd = path.resolve(__dirname, '../../../deployments/website')
-// execSync('npm run build', {
-//   cwd,
-//   stdio: 'inherit',
-//   env: process.env,
-// })
+const cwd = path.resolve(__dirname, '../../../deployments/website')
+execSync('npm run build', {
+  cwd,
+  stdio: 'inherit',
+  env: process.env,
+})
 
-// await index.buildAddon()
+await index.buildAddon()
 
 execSync('git add -v -A', {
   cwd: path.resolve(__dirname, '../../..'),
