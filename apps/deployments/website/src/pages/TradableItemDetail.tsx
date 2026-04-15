@@ -5,6 +5,7 @@ import PageContainer from '../components/PageContainer'
 import TradableItem from '../components/TradableItem'
 import TradableItemSkeleton from '../components/TradableItemSkeleton'
 import {
+  SalesRollupType,
   TradableItemReferenceType,
   TradableItemType,
 } from '../models/tradable-item-types'
@@ -17,6 +18,7 @@ import { __useItem, __useItemHistory } from './useItem'
 export type ItemProps = {
   staticData?: {
     data: TradableItemType
+    historicalData: SalesRollupType[]
     slug: string
     error?: string
     loading?: string
@@ -29,7 +31,9 @@ const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
 
   const itemReference: TradableItemReferenceType = state?.itemReference
   const { loading, error, data } = staticData ?? __useItem(slug)
-  const { data: historicalData } = __useItemHistory(slug)
+  const historicalData = staticData
+    ? staticData.historicalData
+    : __useItemHistory(slug).data
 
   const pageTitle: string =
     (data && data.displayLabel) || (itemReference && itemReference.displayLabel)

@@ -17,7 +17,7 @@ import TradableItemCategories from './pages/TradableItemCategories'
 import TradableItemCategoryDetail, {
   CategoryProps,
 } from './pages/TradableItemCategoryDetail'
-import TradableItemDetail from './pages/TradableItemDetail'
+import TradableItemDetail, { ItemProps } from './pages/TradableItemDetail'
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css'
@@ -54,7 +54,7 @@ const SWITCH = (initialData: unknown) => (
     </Route>
 
     <Route path={`${routes.item()}/:slug`} exact={true}>
-      <TradableItemDetail />
+      <TradableItemDetail staticData={initialData as ItemProps['staticData']} />
     </Route>
 
     <Route

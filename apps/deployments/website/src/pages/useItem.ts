@@ -54,7 +54,7 @@ type GitResponse = {
   maximum: number
 }
 
-const _responseToHistory = (json: GitResponse[]) =>
+export const _responseToHistory = (json: GitResponse[]) =>
   Object.values(json).map((i) => ({
     averageUnitPrice: i.average,
     commonQuantity: i.commonQuantity,
@@ -72,6 +72,11 @@ const _responseToHistory = (json: GitResponse[]) =>
 export const _responseToItem = (json: APIItemResponse): TradableItemType => {
   console.log('json', json)
   const platformRaw = json.pricing['xbox-na']
+
+  if (!platformRaw) {
+    throw new Error(`${json.item.name} has no pricing data`)
+  }
+
   const baseRaw = platformRaw['--']['--']
   const itemRaw = json.item
 

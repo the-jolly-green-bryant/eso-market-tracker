@@ -15,7 +15,7 @@ An open source pricing database for **The Elder Scrolls Online**.
 | PS-NA       | 85526   |
 | PS-EU       | 45284   |
 
-_Last Updated: 2026-04-14_
+_Last Updated: 2026-04-15_
 
 This project collects, normalizes, indexes, and exposes large-scale market pricing data
 across platforms and time. It is the spiritual successor to [ESO Market Tracker](https://esomarkettracker.com).
