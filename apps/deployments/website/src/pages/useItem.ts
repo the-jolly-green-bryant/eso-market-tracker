@@ -78,12 +78,13 @@ export const _responseToItem = (json: APIItemResponse): TradableItemType => {
   }
 
   // Prefer traitless, but get anything.
-  const baseRaw = (platformRaw['--'] ??
+  const safePlatform =
+    platformRaw['--'] ??
     platformRaw[
       Object.keys(platformRaw).at(0) as unknown as keyof typeof platformRaw
     ] ??
-    {})['--']
-
+    {}
+  const baseRaw = safePlatform['--']
   if (!baseRaw) {
     throw new Error(`${json.item.name} has no pricing data`)
   }
@@ -94,7 +95,7 @@ export const _responseToItem = (json: APIItemResponse): TradableItemType => {
     currentXboxStats: {
       averageUnitPrice: baseRaw.average,
       commonQuantity: baseRaw.commonQuantity,
-      numberOfQualitiesTracked: Object.keys(platformRaw['--']).filter(
+      numberOfQualitiesTracked: Object.keys(safePlatform).filter(
         (i) => i != '--'
       ).length,
       commonUnitPriceRangeLower: baseRaw.minimum,
@@ -106,16 +107,11 @@ export const _responseToItem = (json: APIItemResponse): TradableItemType => {
       recentSales: 1,
       totalUnitsSold: 1,
       medianUnitPrice: (baseRaw.minimum + baseRaw.maximum) / 2,
-      whiteAverageUnitPrice:
-        platformRaw['--']['01'] && platformRaw['--']['01'].average,
-      greenAverageUnitPrice:
-        platformRaw['--']['02'] && platformRaw['--']['02'].average,
-      blueAverageUnitPrice:
-        platformRaw['--']['03'] && platformRaw['--']['03'].average,
-      purpleAverageUnitPrice:
-        platformRaw['--']['04'] && platformRaw['--']['04'].average,
-      goldAverageUnitPrice:
-        platformRaw['--']['05'] && platformRaw['--']['05'].average,
+      whiteAverageUnitPrice: safePlatform['01'] && safePlatform['01'].average,
+      greenAverageUnitPrice: safePlatform['02'] && safePlatform['02'].average,
+      blueAverageUnitPrice: safePlatform['03'] && safePlatform['03'].average,
+      purpleAverageUnitPrice: safePlatform['04'] && safePlatform['04'].average,
+      goldAverageUnitPrice: safePlatform['05'] && safePlatform['05'].average,
     },
     description: itemRaw.description,
     displayLabel: itemRaw.name,

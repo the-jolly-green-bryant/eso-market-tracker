@@ -10,6 +10,7 @@ import {
   getIdFromName,
 } from '../pages/useItem'
 import { TradableItemType } from '../models/tradable-item-types'
+import fg from 'fast-glob'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -115,6 +116,15 @@ const _getStaticItem = async (name: string) => {
 const _itemFromName = async (name: string) =>
   _responseToItem(await _getStaticItem(name))
 
+const __exists = async (p: string) => {
+  try {
+    await fs.access(p, fs.constants.F_OK)
+    return true
+  } catch {
+    return false
+  }
+}
+
 const _fetchHistoricalData = async (name: string) => {
   const internalId = getIdFromName(name)
   const historicalUrl = internalId
@@ -128,11 +138,28 @@ const _fetchHistoricalData = async (name: string) => {
       /^(.{2})(.{2})(.{2})/,
       `data/items/$1/$2/$3/${internalId}------.xbox-na.historical.json`
     )
-  const r = await fs.readFile(
-    path.join(__dirname, '../../../../..', historicalUrl),
-    'utf8'
-  )
-  return _responseToHistory(JSON.parse(r))
+
+  const root = path.join(__dirname, '../../../../..')
+  const exactPath = path.join(root, historicalUrl)
+
+  if (await __exists(exactPath)) {
+    const r = await fs.readFile(exactPath, 'utf8')
+    return _responseToHistory(JSON.parse(r))
+  }
+
+  // fallback
+  const matches = await fg(exactPath.replace('------', '-**---'), {
+    cwd: root,
+    absolute: true,
+    onlyFiles: true,
+  })
+
+  const fallbackPath = matches
+    .sort((a: string, b: string) => a.localeCompare(b))
+    .at(0)
+
+  const r2 = await fs.readFile(fallbackPath!, 'utf8')
+  return _responseToHistory(JSON.parse(r2))
 }
 
 const makeItemPages = async (
@@ -158,7 +185,7 @@ const makeItemPages = async (
     await fs.mkdir(path.dirname(outFile), { recursive: true })
     await fs.writeFile(outFile, html)
 
-    const url = `/item/${_in.slug}`
+    const url = encodeURI(`/item/${_in.slug}`)
     sitemap.set(url, {
       url,
       lastmod: BUILD_TIME,
@@ -231,7 +258,7 @@ const main = async () => {
     await fs.mkdir(path.dirname(outFile), { recursive: true })
     await fs.writeFile(outFile, html)
 
-    const url = `/categories/${slug}`
+    const url = encodeURI(`/categories/${slug}`)
     sitemap.set(url, {
       url,
       lastmod: BUILD_TIME,
