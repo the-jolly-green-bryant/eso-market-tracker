@@ -11,25 +11,58 @@ export default () => (
 
       <div className="static-content-text">
         <p>
-          It's more than a slogan, it's a mantra. We built this app a simple
-          goal in mind: help our users make more money.
+          That still holds up. But what started as a simple tool to help players
+          make gold has grown into something much bigger.
         </p>
 
         <p>
-          It's our belief that trading is a core mechanic of the Elder Scrolls
-          Online game, and it's our goal to make it more accessible to each and
-          every player. PC players already have access to a suite of trading
-          tools. It's our goal with this companion app to bring that same power
-          and utility to Xbox players.
+          Market Tracker began with a scrappy approach, pulling pricing data
+          through OCR and piecing together a rough picture of the economy. It
+          worked, but it was limited. Since then, we’ve rebuilt the entire
+          system from the ground up, moving to direct integrations with The
+          Elder Scrolls Online ecosystem and creating a far more reliable and
+          complete dataset.
+        </p>
+
+        <p>Today, Market Tracker is:</p>
+        <ul>
+          <li>
+            <strong>Open source</strong> - anyone can explore the code,
+            contribute, or build their own tools
+          </li>
+          <li>
+            <strong>A public API</strong> - live pricing data available for
+            developers at scale
+          </li>
+          <li>
+            <strong>Cross-platform</strong> - covering all megaservers, not just
+            one ecosystem
+          </li>
+          <li>
+            <strong>Comprehensive</strong> - tracking items across traits,
+            qualities, and variations
+          </li>
+        </ul>
+
+        <p>This is no longer just a companion app. It’s a data platform.</p>
+
+        <p>
+          Our goal hasn’t changed, but the scope has. We want to make trading
+          more accessible, more transparent, and more powerful for everyone -
+          whether you're flipping items casually or building tools for the
+          entire community.
+        </p>
+
+        <p>If you’re a player, we hope this helps you earn more.</p>
+
+        <p>
+          If you’re a developer, we hope you build something even better on top
+          of it.
         </p>
 
         <p>
-          If you find this app as useful as we do, please consider our great
-          community on{' '}
-          <a href={constants.PATREON_LINK} target="_blank">
-            Discord
-          </a>
-          {'.'}
+          And if you’re somewhere in between, you’re exactly who this was made
+          for.
         </p>
       </div>
     </div>
