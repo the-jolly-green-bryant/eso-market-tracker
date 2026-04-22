@@ -2,8 +2,6 @@
 
 ## Next Up
 
-- Fix sidebar on esomarkettracker.com
-- Static pages for esomarkettracker.com
-- esomarkettracker.com sitemap and indexing
+- esomarkettracker.com sitemap, meta, and indexing
 - Where's the addon?
 

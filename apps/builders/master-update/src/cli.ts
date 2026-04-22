@@ -5,8 +5,8 @@ import { fileURLToPath } from 'node:url'
 import { execSync } from 'node:child_process'
 import path from 'path'
 
-await index.prepareDatabase()
-await index.importItems()
+// await index.prepareDatabase()
+// await index.importItems()
 await index.importObservations()
 await index.prepareDatabase()
 await index.buildApi()
