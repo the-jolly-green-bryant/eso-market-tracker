@@ -19,7 +19,8 @@ const execFileAsync = promisify(execFile)
 
 export const downloadAddon = async (output: string) =>
   execFileAsync(
-    path.join(__dirname, '../../../..', 'ESOAddOnUploaderCli.dmg'),
+    process.env.ESO_UPLOADER_CLI ||
+      path.join(__dirname, '../../../..', 'ESOAddOnUploaderCli.dmg'),
     ['download', ADDON_ID, `--output=${output}`],
     {
       maxBuffer: 1024 * 1024 * 50, // 50MB in case tool is chatty
@@ -90,4 +91,6 @@ export const collectObservations = async (options?: { maxWrites?: number }) => {
       stats: observation.stats,
     }))
   )
+
+  return [...new Set(collected.map(({ observation }) => observation.item.id))]
 }

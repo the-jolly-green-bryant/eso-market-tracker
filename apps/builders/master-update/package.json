@@ -10,6 +10,7 @@
   "scripts": {
     "build": "pnpm run test && tsc -p tsconfig.json",
     "clean": "rm -rf dist",
+    "daily": "tsx src/daily.ts",
     "test": "vitest run",
     "test:watch": "vitest",
     "coverage": "vitest run --coverage"

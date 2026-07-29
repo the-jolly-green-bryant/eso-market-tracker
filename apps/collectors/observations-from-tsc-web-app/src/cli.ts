@@ -2,4 +2,4 @@
 import 'dotenv/config'
 import { collectObservations } from './index'
 
-await Promise.all(collectObservations() as unknown as Promise<unknown>[])
+await collectObservations()

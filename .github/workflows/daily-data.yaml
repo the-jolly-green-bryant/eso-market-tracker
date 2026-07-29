@@ -1,0 +1,96 @@
+name: Daily market data
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: daily-market-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Setup project
+        uses: ./.github/actions/setup-dependencies
+
+      - name: Download ESO uploader for observation ingest
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          url="$(gh api repos/sirinsidiator/ESOAddOnUploaderCLI/releases/latest \
+            --jq '.assets[] | select(.name | endswith("-linux.tar.gz")) | .browser_download_url')"
+          curl -fsSL "$url" -o "$RUNNER_TEMP/eso-uploader.tar.gz"
+          tar -xzf "$RUNNER_TEMP/eso-uploader.tar.gz" -C "$RUNNER_TEMP"
+          chmod +x "$RUNNER_TEMP/ESOAddOnUploaderCli"
+          echo "ESO_UPLOADER_CLI=$RUNNER_TEMP/ESOAddOnUploaderCli" >> "$GITHUB_ENV"
+
+      - name: Run ordered incremental update
+        run: pnpm --filter @eso-market-tracker/master-update daily
+        env:
+          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
+          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          UESP_COOKIE: ${{ secrets.UESP_COOKIE }}
+
+      - name: Detect generated changes
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain -- data apps/deployments/eso-addon apps/deployments/website/dist/item)" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configure AWS credentials
+        if: steps.changes.outputs.found == 'true'
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+
+      - name: Upload changed static item pages
+        if: steps.changes.outputs.found == 'true'
+        working-directory: apps/deployments/website
+        run: |
+          set -euo pipefail
+          git ls-files --modified --others --exclude-standard -- dist/item |
+            while IFS= read -r file; do
+              aws s3 cp "$file" "s3://esomarkettracker.com/${file#dist/}" \
+                --acl public-read
+            done
+
+      - name: Deploy updated addon
+        if: steps.changes.outputs.found == 'true'
+        uses: ./.github/actions/upload-eso-addon
+        with:
+          bnet_username: ${{ secrets.BNET_USERNAME }}
+          bnet_password: ${{ secrets.BNET_PASSWORD }}
+          addon_id: ${{ secrets.BNET_ADDON_ID }}
+          release_note: "Daily market data update from ${{ github.sha }}"
+          publish: "true"
+          concurrency: "1"
+          cli_uploader_version: "latest"
+
+      - name: Commit generated data
+        if: steps.changes.outputs.found == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data apps/deployments/eso-addon apps/deployments/website/dist/item
+          git commit -m "Daily market data update $(date -u +%F) [skip ci]"
+          git push

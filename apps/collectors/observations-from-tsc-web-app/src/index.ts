@@ -90,4 +90,6 @@ export const collectObservations = async () => {
       stats: observation.stats,
     }))
   )
+
+  return [...new Set(results.observations.map(({ item }) => item.id))]
 }
