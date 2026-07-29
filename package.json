@@ -1,7 +1,8 @@
 {
   "name": "eso-market-tracker",
   "version": "2026.04.16+dd5e3abaf3d",
-  "description": "An open source pricing database for Elder Scrolls Online and the spiritual successor to ESO Market Tracker.",
+  "description": "A source-available pricing database for Elder Scrolls Online and the spiritual successor to ESO Market Tracker.",
+  "private": true,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -18,9 +19,25 @@
     "check": "pnpm lint && pnpm typecheck",
     "prepare": "husky"
   },
-  "keywords": [],
+  "keywords": [
+    "elder-scrolls-online",
+    "eso",
+    "market-data",
+    "price-tracker"
+  ],
   "author": "Bryant James",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-jolly-green-bryant/eso-market-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/the-jolly-green-bryant/eso-market-tracker/issues"
+  },
+  "homepage": "https://esomarkettracker.com",
+  "engines": {
+    "node": ">=22"
+  },
   "packageManager": "pnpm@10.33.0",
   "devDependencies": {
     "@eslint/js": "^10.0.1",

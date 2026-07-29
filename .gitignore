@@ -2,6 +2,9 @@ node_modules
 .DS_Store
 *.log
 .vscode
+.next/
+.sst/
+.vinext/
 dist
 !apps/deployments/website/dist/
 lib
@@ -12,8 +15,14 @@ tsconfig.tsbuildinfo
 /coverage/
 /**/coverage/
 .env
+credentials.json
+session.json
+/research/esouploader/captures/
 /data/test/
 /**/.wrangler/
+
+# Maintained as a separate nested repository.
+/apps/deployments/addon-hub/
 
 /data/observations/*
 !/data/observations/.gitkeep

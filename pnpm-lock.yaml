@@ -4,16 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-overrides:
-  eso: link:../../../Library/pnpm/global/5/node_modules/@eso-market-tracker/eso
-
 importers:
 
   .:
-    dependencies:
-      eso:
-        specifier: link:../../../Library/pnpm/global/5/node_modules/@eso-market-tracker/eso
-        version: link:../../../Library/pnpm/global/5/node_modules/@eso-market-tracker/eso
     devDependencies:
       '@eslint/js':
         specifier: ^10.0.1

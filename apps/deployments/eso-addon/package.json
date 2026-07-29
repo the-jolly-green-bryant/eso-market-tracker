@@ -4,7 +4,7 @@
   "description": "The official addon to be published to mods.bethesda.net",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "license": "ISC",
+  "license": "SEE LICENSE IN ../../../LICENSE.md",
   "type": "module",
   "private": true,
   "scripts": {

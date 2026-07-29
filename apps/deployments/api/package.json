@@ -4,7 +4,7 @@
   "description": "The official open API for querying pricing data.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "license": "ISC",
+  "license": "SEE LICENSE IN ../../../LICENSE.md",
   "type": "module",
   "private": true,
   "scripts": {

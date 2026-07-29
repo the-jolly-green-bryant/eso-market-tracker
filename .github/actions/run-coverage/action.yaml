@@ -6,10 +6,6 @@ inputs:
     required: false
     description: The cookie needed for accessing UESP
     default: ""
-  GITHUB_TOKEN:
-    required: false
-    description: The token for coverage upload
-    default: ""
   CLOUDFLARE_API_TOKEN:
     required: false
     description: The token for Cloudflare KV
@@ -54,10 +50,10 @@ runs:
         printf '{"schemaVersion":1,"label":"coverage","message":"%s%%","color":"%s"}\n' "$COVERAGE" "$BADGE_COLOR" > coverage-badge/badge.json
       shell: bash
 
-    - name: Deploy badge branch
-      uses: peaceiris/actions-gh-pages@v4
+    - name: Upload coverage badge
+      uses: actions/upload-artifact@v4
       with:
-        github_token: ${{ inputs.GITHUB_TOKEN }}
-        publish_dir: coverage-badge
-        publish_branch: coverage-badge
-        force_orphan: true
+        name: coverage-badge
+        path: coverage-badge/badge.json
+        if-no-files-found: error
+        retention-days: 7

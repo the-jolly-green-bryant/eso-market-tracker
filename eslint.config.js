@@ -15,6 +15,7 @@ export default [
       'scripts/inject-version.js',
       '**/ios/**',
       '**/android/**',
+      'apps/deployments/addon-hub/**',
     ],
   },
 

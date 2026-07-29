@@ -4,7 +4,7 @@
   "description": "Performs a full update of the database.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "license": "ISC",
+  "license": "SEE LICENSE IN ../../../LICENSE.md",
   "type": "module",
   "private": true,
   "scripts": {

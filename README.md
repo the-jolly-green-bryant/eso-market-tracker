@@ -1,7 +1,7 @@
 # ESO Market Tracker
 
 <p align="center">
-  An open, reproducible pricing dataset and delivery pipeline for The Elder Scrolls Online.
+  A public, reproducible pricing dataset and delivery pipeline for The Elder Scrolls Online.
 </p>
 
 <p align="center">
@@ -9,11 +9,11 @@
   <img alt="Coverage" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/coverage-badge/badge.json">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-22-339933?logo=nodedotjs&logoColor=white">
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-10-F69220?logo=pnpm&logoColor=white">
-  <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-modified_MIT-blue"></a>
+  <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-source--available-blue"></a>
 </p>
 
 ESO Market Tracker collects market observations, normalizes ESO item identities, and
-publishes pricing data for the Xbox and PlayStation megaservers. It is the open-source
+publishes pricing data for the Xbox and PlayStation megaservers. It is the source-available
 successor to the original [ESO Market Tracker](https://esomarkettracker.com).
 
 The repository is both a TypeScript monorepo and a versioned data product: collectors,
@@ -147,7 +147,8 @@ explain their source and generation command in the pull request.
 
 ## License and trademarks
 
-The project uses a modified MIT license; see [LICENSE.md](LICENSE.md).
+The project is source-available under a custom non-commercial license; see
+[LICENSE.md](LICENSE.md). This license is not an OSI-approved open-source license.
 
 This project is not created by, affiliated with, or sponsored by ZeniMax Media Inc. or
 its affiliates. The Elder Scrolls and related marks belong to their respective owners.
