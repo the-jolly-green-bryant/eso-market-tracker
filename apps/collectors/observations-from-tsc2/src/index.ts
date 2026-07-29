@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import { Results } from './results'
-import { db, naming } from '@eso-market-tracker/database'
+import { db, naming, segments } from '@eso-market-tracker/database'
 import { logger } from '@eso-market-tracker/logging'
 import * as self from './index'
 import { promisify } from 'node:util'
@@ -54,22 +54,40 @@ export const getAddonData = async () => {
 export const collectObservations = async (options?: { maxWrites?: number }) => {
   const rawData = await self.getAddonData()
   const r = await Results.from(rawData, options)
+  const collected = r.observationsByPlatform.flatMap(
+    ([platform, observations]) =>
+      observations.slice(0, options?.maxWrites ?? observations.length).map(
+        (observation) => ({
+          platform,
+          observation,
+        })
+      )
+  )
   await Promise.all(
-    r.observationsByPlatform.flatMap(([platform, observations]) =>
-      observations
-        .slice(0, options?.maxWrites ?? observations.length)
-        .map((i) =>
-          db.throttleFileWrites(async () => {
-            logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
-            const targetPath = naming.getObservationPath(
-              i.item,
-              i.stats.date,
-              platform
-            )
-            logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
-            await db.writeToFile(i.stats, targetPath)
-          })
+    collected.map(({ platform, observation }) =>
+      db.throttleFileWrites(async () => {
+        logger.info(
+          `Logging ${observation.item.meta.name} for ${observation.stats.date}`
         )
+        const targetPath = naming.getObservationPath(
+          observation.item,
+          observation.stats.date,
+          platform
+        )
+        await db.writeToFile(observation.stats, targetPath)
+      })
     )
+  )
+  await segments.writeObservationSegments(
+    collected.map(({ platform, observation }) => ({
+      itemId: observation.item.id,
+      traitId:
+        typeof observation.item.trait === 'number'
+          ? observation.item.trait
+          : null,
+      qualityId: observation.item.quality,
+      server: platform,
+      stats: observation.stats,
+    }))
   )
 }

@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import { Results, TSCAppData } from './results'
-import { constants, db, naming } from '@eso-market-tracker/database'
+import { constants, db, naming, segments } from '@eso-market-tracker/database'
 import { logger, orThrow } from '@eso-market-tracker/logging'
 import * as self from './index'
 
@@ -77,5 +77,17 @@ export const collectObservations = async () => {
         await db.writeToFile(i.stats, targetPath)
       })
     )
+  )
+  await segments.writeObservationSegments(
+    results.observations.map((observation) => ({
+      itemId: observation.item.id,
+      traitId:
+        typeof observation.item.trait === 'number'
+          ? observation.item.trait
+          : null,
+      qualityId: observation.item.quality,
+      server: constants.XBOX_NA,
+      stats: observation.stats,
+    }))
   )
 }
