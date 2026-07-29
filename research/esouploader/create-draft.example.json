@@ -1,0 +1,19 @@
+{
+  "title": "API Interoperability Test Draft",
+  "description": "Unpublished API interoperability test. Safe to delete.",
+  "overview": "Unpublished API interoperability test.",
+  "product": "ESO",
+  "content_type": "STANDARD",
+  "hardware_platforms": [
+    "WINDOWS",
+    "PLAYSTATION5",
+    "XBOXSERIESX"
+  ],
+  "categories": [
+    "Guild Traders & Vendors"
+  ],
+  "default_locale": "EN",
+  "supported_locales": [
+    "EN"
+  ]
+}
