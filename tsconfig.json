@@ -10,5 +10,5 @@
     "resolveJsonModule": true,
     "jsx": "react-jsx"
   },
-  "exclude": ["data/**/**"]
+  "exclude": ["data/**/**", "apps/deployments/addon-hub/**"]
 }

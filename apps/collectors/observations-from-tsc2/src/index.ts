@@ -55,7 +55,7 @@ export const collectObservations = async (options?: { maxWrites?: number }) => {
   const rawData = await self.getAddonData()
   const r = await Results.from(rawData, options)
   await Promise.all(
-    r.observationsByPlatform.map(([platform, observations]) =>
+    r.observationsByPlatform.flatMap(([platform, observations]) =>
       observations
         .slice(0, options?.maxWrites ?? observations.length)
         .map((i) =>

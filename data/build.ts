@@ -424,7 +424,7 @@ const _writeItems = async (ids?: number[]) => {
 
   const stmt = db().prepare(sql)
   logger.info('Preparing to write items.')
-  const writes: Promise<void>[] = []
+  const writes: Promise<unknown>[] = []
   const itemIndex: Record<string, ItemMeta> = {}
   for (const row of stmt.iterate()) {
     const item = Item.from({

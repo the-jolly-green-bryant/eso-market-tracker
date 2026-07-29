@@ -63,8 +63,9 @@ export const getAppData = async (): Promise<TSCAppData> => {
 export const collectObservations = async () => {
   const rawData = await self.getAppData()
   logger.info('Collected Web app data')
-  return Results.from(rawData).then((r) =>
-    r.observations.map((i) =>
+  const results = await Results.from(rawData)
+  await Promise.all(
+    results.observations.map((i) =>
       db.throttleFileWrites(async () => {
         logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
         const targetPath = naming.getObservationPath(
@@ -73,8 +74,7 @@ export const collectObservations = async () => {
           constants.XBOX_NA
         )
         logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
-        const writeDone = db.writeToFile(i.stats, targetPath)
-        return Promise.all([writeDone])
+        await db.writeToFile(i.stats, targetPath)
       })
     )
   )
