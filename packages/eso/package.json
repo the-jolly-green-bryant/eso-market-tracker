@@ -15,7 +15,7 @@
     "coverage": "vitest run --coverage"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^4.1.0"
+    "@vitest/coverage-v8": "^4.1.10"
   },
   "dependencies": {
     "@eso-market-tracker/logging": "workspace:*"

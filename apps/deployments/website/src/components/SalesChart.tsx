@@ -317,7 +317,7 @@ const _dataPointAnnotation = (selectedPoint: SalesRollupType | null) =>
       ]
     : []
 
-// eslint-disable-next-line max-lines-per-function -- max: 100
+/* eslint-disable max-lines-per-function -- chart assembly is intentionally cohesive */
 export default ({
   startDate,
   data,
@@ -410,3 +410,4 @@ export default ({
     </div>
   )
 }
+/* eslint-enable max-lines-per-function */

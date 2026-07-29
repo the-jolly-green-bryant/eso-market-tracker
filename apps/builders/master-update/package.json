@@ -15,21 +15,21 @@
     "coverage": "vitest run --coverage"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^4.1.0",
+    "@vitest/coverage-v8": "^4.1.10",
     "cheerio": "^1.2.0",
-    "dotenv": "^17.3.1",
-    "p-limit": "^7.3.0",
-    "playwright": "^1.58.2"
+    "dotenv": "^17.4.2",
+    "p-limit": "^7.3.1",
+    "playwright": "^1.62.0"
   },
   "dependencies": {
+    "@eso-market-tracker/api": "workspace:*",
+    "@eso-market-tracker/data": "workspace:*",
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
-    "@eso-market-tracker/logging": "workspace:*",
-    "@eso-market-tracker/data": "workspace:*",
-    "@eso-market-tracker/items-from-uesp": "workspace:*",
-    "@eso-market-tracker/observations-from-tsc-web-app": "workspace:*",
-    "@eso-market-tracker/observations-from-tsc2": "workspace:*",
     "@eso-market-tracker/eso-addon": "workspace:*",
-    "@eso-market-tracker/api": "workspace:*"
+    "@eso-market-tracker/items-from-uesp": "workspace:*",
+    "@eso-market-tracker/logging": "workspace:*",
+    "@eso-market-tracker/observations-from-tsc-web-app": "workspace:*",
+    "@eso-market-tracker/observations-from-tsc2": "workspace:*"
   }
 }

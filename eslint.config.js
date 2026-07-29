@@ -54,6 +54,7 @@ export default [
       'sonarjs/no-unused-vars': 'off',
       'sonarjs/no-os-command-from-path': 'off',
       'sonarjs/slow-regex': 'off',
+      'sonarjs/super-linear-regex': 'off',
       '@typescript-eslint/no-inferrable-types': 'error',
       '@typescript-eslint/naming-convention': [
         'error',

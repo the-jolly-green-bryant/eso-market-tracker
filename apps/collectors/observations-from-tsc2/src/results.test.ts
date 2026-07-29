@@ -21,7 +21,7 @@ describe.skipIf(process.env.CI)('observations-from-tsc2', async () => {
   }, 60_000)
 
   it('has results', () => {
-    expect(results.observationsByPlatform.length).toEqual(1)
+    expect(results.observationsByPlatform).toHaveLength(1)
     expect(results.observationsByPlatform.at(0)?.at(1)?.length).toBeGreaterThan(
       10
     )
