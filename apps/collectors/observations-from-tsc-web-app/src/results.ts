@@ -5,15 +5,17 @@ import {
   legacyNaming,
 } from '@eso-market-tracker/eso'
 import * as db from '@eso-market-tracker/data'
-import { logger, orThrow } from '@eso-market-tracker/logging'
+import { logger } from '@eso-market-tracker/logging'
 
-const findItemByName = (name: string): ItemMeta => {
-  const legacyName = legacyNaming.internalToName(
-    legacyNaming.nameToInternal(name)
-  )
+const findItemByName = (
+  itemsByNormalizedName: Map<string, ItemMeta>,
+  name: string
+): ItemMeta | undefined => {
+  const normalizedName = legacyNaming.nameToInternal(name)
+  const legacyName = legacyNaming.internalToName(normalizedName)
 
   logger.info(`Checking legacy name ${legacyName}, original ${name}`)
-  return db.findItemByName(legacyName) as unknown as ItemMeta
+  return itemsByNormalizedName.get(normalizedName)
 }
 
 /**
@@ -39,7 +41,10 @@ const parseRawData = (rawData: TSCAppData) => ({
   })),
 })
 
-const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
+const parseObservations = (
+  rawData: TSCAppData,
+  itemsByNormalizedName: Map<string, ItemMeta>
+): ItemObservation[] => {
   const data = parseRawData(rawData)
   const match = RegExp(/\b(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})\b/).exec(
     rawData.NestedDataSets.find((i) => i.Name === 'Updates')!.DataSet
@@ -64,12 +69,16 @@ const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
           'Worn Leather Binding',
         ].includes(row[1])
     )
-    .map(
-      (row: string[11]): ItemObservation => ({
-        item: Item.from(
-          findItemByName(row[1]) ||
-            orThrow(new Error(`No item found for ${row[1]}`))
-        ),
+    .flatMap((row: string[11]): ItemObservation[] => {
+      const item = findItemByName(itemsByNormalizedName, row[1])
+      if (!item) {
+        logger.warn(`Skipping unknown item from TSC web app: ${row[1]}`)
+        return []
+      }
+
+      return [
+        {
+          item: Item.from(item),
         stats: {
           average: parseInt(row[3]),
           date,
@@ -77,9 +86,9 @@ const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
           minimum: parseInt(row[4].replace(/(.*) - .*/, '$1')),
           maximum: parseInt(row[4].replace(/.* - (.*)/, '$1')),
         },
-      })
-    )
-    .filter((i: ItemObservation) => i.item)
+        },
+      ]
+    })
 }
 
 /**
@@ -87,7 +96,16 @@ const parseObservations = (rawData: TSCAppData): ItemObservation[] => {
  */
 export type Results = ReturnType<(typeof Results)['from']>
 export const Results = {
-  from: async (data: TSCAppData) => ({
-    observations: parseObservations(data),
-  }),
+  from: async (data: TSCAppData) => {
+    const itemIndex = await db.MASTER_ITEM_INDEX()
+    const itemsByNormalizedName = new Map(
+      Object.entries(itemIndex).map(([name, item]) => [
+        legacyNaming.nameToInternal(name),
+        item,
+      ])
+    )
+    return {
+      observations: parseObservations(data, itemsByNormalizedName),
+    }
+  },
 }
