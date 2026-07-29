@@ -1,4 +1,9 @@
-import { Item, ItemMeta, TRAITS } from '@eso-market-tracker/eso'
+import {
+  getTraitStringFromId,
+  Item,
+  ItemMeta,
+  TRAITS,
+} from '@eso-market-tracker/eso'
 
 export * from './build'
 import { db } from './build'
@@ -42,6 +47,7 @@ export const MASTER_PRICING_INDEX = async (): Promise<
 }
 
 let _MASTER_ITEM_INDEX: Record<string, ItemMeta>
+let _MASTER_ITEMS_BY_ID: Map<number, ItemMeta>
 export const MASTER_ITEM_INDEX = async (): Promise<
   Record<string, ItemMeta>
 > => {
@@ -53,6 +59,17 @@ export const MASTER_ITEM_INDEX = async (): Promise<
   const data = JSON.parse(buf.toString('utf8'))
   _MASTER_ITEM_INDEX = data as Record<string, ItemMeta>
   return _MASTER_ITEM_INDEX
+}
+
+const masterItemsById = async () => {
+  if (_MASTER_ITEMS_BY_ID) return _MASTER_ITEMS_BY_ID
+  _MASTER_ITEMS_BY_ID = new Map(
+    Object.values(await MASTER_ITEM_INDEX()).map((item) => [
+      item.internalId,
+      item,
+    ])
+  )
+  return _MASTER_ITEMS_BY_ID
 }
 
 export const findItemByName = (name: string) => {
@@ -71,16 +88,8 @@ export const findItemByName = (name: string) => {
 export const findItemByGameId = async (
   id: number
 ): Promise<ItemMeta | null> => {
-  const stmt = db().prepare(`
-    SELECT items.*
-    FROM items
-           INNER JOIN item_known_ids
-                      ON item_known_ids.internalId = items.internalId
-    WHERE item_known_ids.knownId = ?
-    LIMIT 1
-  `)
-
-  const local = stmt.get(id) as unknown as ItemMeta | null
+  const internalId = (await TRAIT_INDEX())[id]?.[0]
+  const local = internalId ? (await masterItemsById()).get(internalId) : null
 
   if (local) {
     return local
@@ -136,6 +145,44 @@ export const _queryUESP = async (
 export const lookupIdInUESP = async (
   id: number
 ): Promise<[ItemMeta, string | null]> => {
+  const jsonResponse = await __fetchWithRetry(
+    `https://esolog.uesp.net/exportJson.php?table=minedItemSummary&id=${id}`,
+    {
+      method: 'GET',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'Mozilla/5.0',
+      },
+      retries: 4,
+      baseDelayMs: 1500,
+      logger,
+    }
+  )
+  if (jsonResponse.ok) {
+    const json = (await jsonResponse.json()) as {
+      minedItemSummary?: {
+        name: string
+        trait: string
+      }[]
+    }
+    const summary = json.minedItemSummary?.at(0)
+    if (summary) {
+      const internalId = getIdFromName(summary.name)
+      const item = (await masterItemsById()).get(internalId)
+      if (!item) {
+        logger.warn(`UESP item ${id} is not in the local item index`)
+        return [null!, null]
+      }
+
+      await addKnownIdToItem(item, id)
+      return [item, getTraitStringFromId(Number.parseInt(summary.trait)) ?? null]
+    }
+  }
+
+  if (!process.env.UESP_COOKIE) {
+    return [null!, null]
+  }
+
   let r
   try {
     r = await _queryUESP(
@@ -165,11 +212,13 @@ export const lookupIdInUESP = async (
 
   // Update our item so we don't need to do this lookup again.
   // TODO - We could move this to the item class as a function.
-  const targetPath = database.naming.getItemPath(Item.from(item))
-  const oldData = (await database.db.readFromFile(
-    targetPath
-  )) as ItemMeta | null
+  await addKnownIdToItem(item, id)
+  return [item, trait]
+}
 
+const addKnownIdToItem = async (item: ItemMeta, id: number) => {
+  const targetPath = database.naming.getItemPath(Item.from(item))
+  const oldData = (await database.db.readFromFile(targetPath)) as ItemMeta | null
   if (!oldData) {
     throw new Error(
       `Didn't find old data when there should be! ${JSON.stringify(item)} at ${targetPath}`
@@ -179,9 +228,8 @@ export const lookupIdInUESP = async (
   await database.db.writeToFile(
     {
       ...oldData,
-      knownIds: oldData!.knownIds.concat([id]),
+      knownIds: [...new Set(oldData.knownIds.concat(id))],
     },
     targetPath
   )
-  return [item, trait]
 }

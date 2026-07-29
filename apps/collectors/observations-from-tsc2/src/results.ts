@@ -136,25 +136,26 @@ const _dataStringToObservations = async (
   id: number,
   dataString: string,
   timestamp: number
-): Promise<ItemObservation[]> =>
-  Promise.all(
-    [0, 1, 2, 3, 4, 5].map(async (quality): Promise<ItemObservation> => {
-      logger.info(`id=${id}, dataString=${dataString}`)
+): Promise<ItemObservation[]> => {
+  const item = await findItemByGameId(id)
+  if (!item) {
+    logger.warn(`Skipping TSC item ${id}; it is not present in UESP`)
+    return []
+  }
+  const trait = (await TRAIT_INDEX())[id]?.[1]
 
+  return [0, 1, 2, 3, 4, 5]
+    .map((quality): ItemObservation => {
       // We can literally just emulate lua and get all the data out.
       const [average, minimum, maximum, fromLegacy] = API.parseQualityFromEntry(
         dataString,
         quality
       ) as [number, number, number, boolean, number, number, number]
       return {
-        item: Item.from(
-          (await findItemByGameId(id)) ||
-            orThrow(new Error(`No item found for ${id}`)),
-          {
-            quality: fromLegacy ? null : quality,
-            trait: (await TRAIT_INDEX())[id]?.[1],
-          }
-        ),
+        item: Item.from(item, {
+          quality: fromLegacy ? null : quality,
+          trait,
+        }),
         stats: {
           average,
           date: _toDateString(timestamp),
@@ -164,15 +165,24 @@ const _dataStringToObservations = async (
         },
       }
     })
-  )
+    .filter(({ stats }) => stats.maximum > 0)
+}
 
 const parseObservations = async (
   luaFiles: string[],
   options?: ParserOptions
 ): Promise<[string, ItemObservation[]][]> => {
   const allParsed = await parseRawData(luaFiles)
+  const latestByPlatform = new Map<string, (typeof allParsed)[number]>()
+  for (const parsed of allParsed) {
+    const current = latestByPlatform.get(parsed.platform)
+    if (!current || parsed.date! > current.date!) {
+      latestByPlatform.set(parsed.platform, parsed)
+    }
+  }
+
   return await Promise.all(
-    allParsed
+    [...latestByPlatform.values()]
       .slice(0, options?.maxWrites ?? allParsed.length)
       .map(async (parsed): Promise<[string, ItemObservation[]]> => {
         const limit = pLimit(4)
