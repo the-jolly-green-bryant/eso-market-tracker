@@ -1,0 +1,177 @@
+name: Android app
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/android-app.yaml"
+      - "apps/deployments/website/**"
+      - "scripts/publish-google-play.py"
+      - "pnpm-lock.yaml"
+  push:
+    branches:
+      - main
+    tags:
+      - "android-v*"
+    paths:
+      - ".github/workflows/android-app.yaml"
+      - "apps/deployments/website/**"
+      - "scripts/publish-google-play.py"
+      - "pnpm-lock.yaml"
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish the signed bundle to Google Play closed testing
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: eso-market-tracker-android-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      ANDROID_KEYSTORE_PATH: ${{ github.workspace }}/apps/deployments/website/android/app/eso-market-tracker-upload.jks
+      ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+      ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+      ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+      PLAY_PACKAGE_NAME: eso_market_tracker.bryantjames.com
+      PLAY_TRACK: alpha
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup project
+        uses: ./.github/actions/setup-dependencies
+
+      - name: Set up Java
+        uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: 21
+          cache: gradle
+
+      - name: Calculate Android version
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "ANDROID_VERSION_CODE=$((14 + GITHUB_RUN_NUMBER))" >> "$GITHUB_ENV"
+          if [[ "$GITHUB_REF" == refs/tags/android-v* ]]; then
+            echo "ANDROID_VERSION_NAME=${GITHUB_REF_NAME#android-v}" >> "$GITHUB_ENV"
+          else
+            echo "ANDROID_VERSION_NAME=1.11.${GITHUB_RUN_NUMBER}" >> "$GITHUB_ENV"
+          fi
+
+      - name: Determine publishing mode
+        id: publishing
+        shell: bash
+        run: |
+          if [[ "$GITHUB_REF" == refs/tags/android-v* ]] \
+            || [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" && "${{ inputs.publish }}" == "true" ]]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Validate publishing credentials
+        if: steps.publishing.outputs.enabled == 'true'
+        env:
+          GOOGLE_PLAY_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_PLAY_SERVICE_ACCOUNT_JSON }}
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$GOOGLE_PLAY_SERVICE_ACCOUNT_JSON" || {
+            echo "Add GOOGLE_PLAY_SERVICE_ACCOUNT_JSON from the shared Google Play account." >&2
+            exit 1
+          }
+          test -n "$ANDROID_KEYSTORE_BASE64" || {
+            echo "Add the ESO Market Tracker upload-keystore secrets." >&2
+            exit 1
+          }
+          test -n "$ANDROID_KEYSTORE_PASSWORD"
+          test -n "$ANDROID_KEY_ALIAS"
+          test -n "$ANDROID_KEY_PASSWORD"
+
+      - name: Restore Android upload key
+        if: steps.publishing.outputs.enabled == 'true'
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        shell: bash
+        run: printf '%s' "$ANDROID_KEYSTORE_BASE64" | base64 --decode > "$ANDROID_KEYSTORE_PATH"
+
+      - name: Run release quality gate
+        run: pnpm check
+
+      - name: Build web application
+        run: pnpm --dir apps/deployments/website build
+
+      - name: Sync Android project
+        run: pnpm --dir apps/deployments/website exec cap sync android
+
+      - name: Build Android App Bundle
+        run: ./gradlew bundleRelease
+        working-directory: apps/deployments/website/android
+
+      - name: Verify signed bundle
+        if: steps.publishing.outputs.enabled == 'true'
+        run: jarsigner -verify apps/deployments/website/android/app/build/outputs/bundle/release/app-release.aab
+
+      - name: Upload bundle artifact
+        uses: actions/upload-artifact@v5
+        with:
+          name: eso-market-tracker-${{ env.ANDROID_VERSION_NAME }}
+          path: apps/deployments/website/android/app/build/outputs/bundle/release/app-release.aab
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Publish listing and closed-testing release
+        if: steps.publishing.outputs.enabled == 'true'
+        env:
+          GOOGLE_PLAY_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_PLAY_SERVICE_ACCOUNT_JSON }}
+          PLAY_RELEASE_NAME: ESO Market Tracker ${{ env.ANDROID_VERSION_NAME }}
+          PLAY_APP_BUNDLE_PATH: apps/deployments/website/android/app/build/outputs/bundle/release/app-release.aab
+          PLAY_LISTING_PATH: apps/deployments/website/store/google-play/listing.json
+          PLAY_ASSET_DIRECTORY: apps/deployments/website/store/google-play
+          PLAY_RELEASE_NOTES_PATH: apps/deployments/website/store/google-play/release-notes.txt
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --disable-pip-version-check \
+            google-auth==2.40.3 requests==2.32.4
+          python scripts/publish-google-play.py | tee google-play-release.json
+          jq -e '
+            .track == "alpha"
+            and .status == "completed"
+            and .listingTitle == "ESO Market Tracker"
+            and .listingIconUpdated == true
+            and .featureGraphicUpdated == true
+            and .phoneScreenshotCount >= 2
+            and (.versionCodes | length > 0)
+          ' google-play-release.json > /dev/null
+
+      - name: Publish job summary
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "### ESO Market Tracker Android"
+            echo "- Version: $ANDROID_VERSION_NAME ($ANDROID_VERSION_CODE)"
+            echo "- Package: \`$PLAY_PACKAGE_NAME\`"
+            echo "- Bundle: uploaded as a workflow artifact"
+            if [[ "${{ steps.publishing.outputs.enabled }}" == "true" ]]; then
+              echo "- Google Play: closed testing ($PLAY_TRACK)"
+              echo "- Listing: text, icon, feature graphic, and phone screenshots synchronized"
+            else
+              echo "- Google Play: validation build only"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
