@@ -156,7 +156,7 @@ const COMMON_CHART_OPTIONS = {
       borderCapStyle: 'round' as const,
       borderJoinStyle: 'round' as const,
       borderWidth: 2,
-      tension: 0.18,
+      tension: 0,
     },
     point: {
       hitRadius: 18,
@@ -352,9 +352,7 @@ export default ({
               backgroundColor: _getChartFill(color),
               borderColor: color,
               borderDash: new Array<number>(),
-              cubicInterpolationMode: 'monotone' as const,
               fill: 'start',
-              tension: 0.18,
               yAxisID: 'y',
             }
           }),
