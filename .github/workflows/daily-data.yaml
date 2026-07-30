@@ -39,17 +39,24 @@ jobs:
           echo "ESO_UPLOADER_CLI=$RUNNER_TEMP/ESOAddOnUploaderCli" >> "$GITHUB_ENV"
 
       - name: Run ordered incremental update
+        id: update
         run: pnpm --filter @eso-market-tracker/master-update daily
         env:
           BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
           BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           UESP_COOKIE: ${{ secrets.UESP_COOKIE }}
+          ESO_UPDATE_STATS_PATH: ${{ runner.temp }}/update-stats.json
 
       - name: Detect generated changes
         id: changes
         run: |
-          if [ -n "$(git status --porcelain -- data apps/deployments/eso-addon apps/deployments/website/dist/item)" ]; then
+          changed_pages="$(git status --porcelain -- apps/deployments/website/dist/item | wc -l | tr -d ' ')"
+          changed_data_files="$(git status --porcelain -- data | wc -l | tr -d ' ')"
+          echo "page_count=$changed_pages" >> "$GITHUB_OUTPUT"
+          echo "data_file_count=$changed_data_files" >> "$GITHUB_OUTPUT"
+          if [ "${{ steps.update.outputs.changed_item_count }}" != "0" ] &&
+             [ -n "$(git status --porcelain -- data apps/deployments/eso-addon apps/deployments/website/dist/item)" ]; then
             echo "found=true" >> "$GITHUB_OUTPUT"
           else
             echo "found=false" >> "$GITHUB_OUTPUT"
@@ -87,6 +94,7 @@ jobs:
           cli_uploader_version: "latest"
 
       - name: Commit generated data
+        id: commit
         if: steps.changes.outputs.found == 'true'
         run: |
           git config user.name "github-actions[bot]"
@@ -94,3 +102,15 @@ jobs:
           git add data apps/deployments/eso-addon apps/deployments/website/dist/item
           git commit -m "Daily market data update $(date -u +%F) [skip ci]"
           git push
+          echo "published_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Announce successful launch to Discord admin
+        if: steps.changes.outputs.found == 'true'
+        env:
+          DISCORD_ADMIN_WEBHOOK_URL: ${{ secrets.DISCORD_ADMIN_WEBHOOK_URL }}
+          CHANGED_ITEM_COUNT: ${{ steps.update.outputs.changed_item_count }}
+          CHANGED_PAGE_COUNT: ${{ steps.changes.outputs.page_count }}
+          CHANGED_DATA_FILE_COUNT: ${{ steps.changes.outputs.data_file_count }}
+          UPDATE_TOTAL_SECONDS: ${{ steps.update.outputs.total_seconds }}
+          PUBLISHED_SHA: ${{ steps.commit.outputs.published_sha }}
+        run: pnpm tsx scripts/discord-update-summary.ts
