@@ -9,12 +9,11 @@ import {
 import { Link } from 'react-router-dom'
 
 import { SalesRollupType, TradableItemType } from '../models/tradable-item-types'
-import { PLATFORMS, MarketPlatform } from '../platform'
+import { MarketPlatform } from '../platform'
 import * as routes from '../routes'
-import LocalImage from './LocalImage'
 import MarketHeader from './MarketHeader'
 import MarketHistoryChart from './MarketHistoryChart'
-import PlaceholderImage from './PlaceholderImage'
+import MarketItemIdentity from './MarketItemIdentity'
 import SearchBar from './SearchBar'
 import './MarketItemDetail.scss'
 
@@ -94,22 +93,7 @@ export default ({
           </div>
 
           <section className="market-item-hero">
-            <div className="market-item-identity">
-              <div className="market-item-image">
-                {item.imageLink ? (
-                  <LocalImage imageUrl={item.imageLink} />
-                ) : (
-                  <PlaceholderImage isMissing />
-                )}
-              </div>
-              <div>
-                <span className="market-item-eyebrow">
-                  {PLATFORMS[platform]} market value
-                </span>
-                <h1>{item.displayLabel}</h1>
-                <p>{item.description || 'Console market pricing and history.'}</p>
-              </div>
-            </div>
+            <MarketItemIdentity item={item} platform={platform} />
 
             <div className="market-item-price-card">
               <span>Average unit price</span>

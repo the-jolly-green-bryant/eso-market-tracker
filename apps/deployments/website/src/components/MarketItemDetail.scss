@@ -28,6 +28,7 @@
 
 .market-item-scroll {
     height: calc(100% - 72px);
+    overflow-x: hidden;
     overflow-y: auto;
     background:
         radial-gradient(circle at 75% 0%, rgb(184 127 45 / 12%), transparent 34rem),
@@ -36,6 +37,7 @@
 
 .market-item-shell {
     width: min(1180px, calc(100% - 48px));
+    min-width: 0;
     margin: 0 auto;
     padding: 38px 0 90px;
 }
@@ -76,30 +78,6 @@
     padding-bottom: 42px;
 }
 
-.market-item-identity {
-    display: flex;
-    align-items: center;
-    gap: 28px;
-    min-width: 0;
-
-    h1 {
-        margin: 8px 0 12px;
-        color: var(--item-gold);
-        font-family: Georgia, serif;
-        font-size: clamp(38px, 5vw, 68px);
-        font-weight: 500;
-        line-height: 1;
-    }
-
-    p {
-        max-width: 610px;
-        margin: 0;
-        color: #aaa8a3;
-        font-size: 16px;
-        line-height: 1.6;
-    }
-}
-
 .market-item-eyebrow,
 .market-item-section-heading > span {
     color: #c89545;
@@ -107,24 +85,6 @@
     font-weight: 700;
     letter-spacing: 0.14em;
     text-transform: uppercase;
-}
-
-.market-item-image {
-    display: grid;
-    flex: 0 0 112px;
-    width: 112px;
-    height: 112px;
-    overflow: hidden;
-    place-items: center;
-    border: 1px solid rgb(228 184 95 / 34%);
-    border-radius: 18px;
-    background: #15191d;
-
-    img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
 }
 
 .market-item-price-card {
@@ -180,6 +140,7 @@
     > div {
         display: grid;
         grid-template-columns: 28px 1fr;
+        min-width: 0;
         gap: 3px 10px;
         padding: 22px;
         border-right: 1px solid var(--item-border);
@@ -202,6 +163,8 @@
         }
 
         strong {
+            min-width: 0;
+            overflow-wrap: anywhere;
             font-size: 16px;
         }
     }
@@ -214,6 +177,7 @@
 }
 
 .market-item-panel {
+    min-width: 0;
     padding: 28px;
     border: 1px solid var(--item-border);
     border-radius: 10px;
@@ -262,6 +226,7 @@
 
 .market-chart-toolbar {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     gap: 12px;
 
@@ -390,7 +355,8 @@
     }
 
     .market-item-shell {
-        width: min(100% - 32px, 680px);
+        width: calc(100% - 32px);
+        max-width: 680px;
         padding-top: 24px;
     }
 
@@ -410,17 +376,12 @@
         gap: 28px;
     }
 
-    .market-item-identity {
-        align-items: flex-start;
-        flex-direction: column;
-    }
-
     .market-item-price-card {
         flex-basis: auto;
     }
 
     .market-item-stats {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, minmax(0, 1fr));
 
         > div {
             border-bottom: 1px solid var(--item-border);
