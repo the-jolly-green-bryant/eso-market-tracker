@@ -138,9 +138,11 @@ const ProofBar = () => (
 const Hero = ({
   text,
   onPerformSearch,
+  searchInputRef,
 }: {
   text?: string
   onPerformSearch: (text: string) => void
+  searchInputRef: React.RefObject<HTMLInputElement>
 }) => (
   <section className="market-hero">
     <div className="market-hero-art" aria-hidden="true" />
@@ -158,6 +160,7 @@ const Hero = ({
       <div className="market-command-search">
         <IonIcon icon={searchOutline} />
         <SearchBar
+          inputRef={searchInputRef}
           text={text}
           searchCallback={onPerformSearch}
           onClear={() => onPerformSearch('')}
@@ -263,6 +266,7 @@ const DefaultContent = () => (
 // eslint-disable-next-line max-lines-per-function
 export default () => {
   const { text } = useParams<{ text: string | undefined }>()
+  const searchInputRef = useRef<HTMLInputElement>(null)
   const { loading, error, data, onPerformSearch, currentSearch } =
     useSearch(text)
 
@@ -275,6 +279,21 @@ export default () => {
       trackSearch(currentSearch, data.length)
     }
   }, [currentSearch, data, loading, error])
+
+  useEffect(() => {
+    const focusSearch = (event: globalThis.KeyboardEvent) => {
+      if (event.key.toLowerCase() !== 'k' || (!event.metaKey && !event.ctrlKey)) {
+        return
+      }
+
+      event.preventDefault()
+      searchInputRef.current?.focus()
+      searchInputRef.current?.select()
+    }
+
+    window.addEventListener('keydown', focusSearch)
+    return () => window.removeEventListener('keydown', focusSearch)
+  }, [])
 
   return (
     <div className="market-home">
@@ -335,7 +354,11 @@ export default () => {
       <MarketHeader />
 
       <main className="market-home-scroll">
-        <Hero text={text} onPerformSearch={onPerformSearch} />
+        <Hero
+          text={text}
+          onPerformSearch={onPerformSearch}
+          searchInputRef={searchInputRef}
+        />
 
         <div className="market-content">
           <ProofBar />

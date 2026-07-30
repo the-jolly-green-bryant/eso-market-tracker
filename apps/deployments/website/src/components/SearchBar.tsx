@@ -1,7 +1,7 @@
 import { IonIcon } from '@ionic/react'
 import { searchOutline, closeOutline } from 'ionicons/icons'
 import debounce from 'lodash.debounce'
-import { KeyboardEvent, useCallback, useState } from 'react'
+import { KeyboardEvent, RefObject, useCallback, useState } from 'react'
 import { useHistory } from 'react-router-dom'
 import './SearchBar.scss'
 import * as routes from '../routes'
@@ -12,6 +12,7 @@ interface ContainerProps {
   onClear?: () => void
   onNavigateAway?: () => void
   placeholderText?: string
+  inputRef?: RefObject<HTMLInputElement>
 }
 
 const SearchBar: React.FC<ContainerProps> = ({
@@ -20,6 +21,7 @@ const SearchBar: React.FC<ContainerProps> = ({
   onNavigateAway = null,
   text = '',
   placeholderText = 'Search Items...',
+  inputRef,
 }) => {
   const [searchText, setSearchText] = useState(text)
   const history = useHistory()
@@ -68,6 +70,8 @@ const SearchBar: React.FC<ContainerProps> = ({
   return (
     <div className="search-bar">
       <input
+        ref={inputRef}
+        aria-keyshortcuts="Meta+K Control+K"
         autoComplete="off"
         value={searchText}
         type="text"
