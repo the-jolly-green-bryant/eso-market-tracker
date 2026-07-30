@@ -1,17 +1,14 @@
 import * as constants from '../constants'
 import * as routes from '../routes'
+import ExternalLink from './ExternalLink'
 
 const SupportBanner: React.FC = () => (
   <div className="support-banner">
     <span>ESO Market Tracker</span>
     <p>Public data. Transparent methodology. Built for the ESO community.</p>
-    <a
-      href={constants.DISCORD_LINK}
-      target="_blank"
-      rel="noopener noreferrer"
-    >
+    <ExternalLink href={constants.DISCORD_LINK}>
       Join the Discord
-    </a>
+    </ExternalLink>
     <a href={routes.privacyPolicy()}>Privacy</a>
   </div>
 )

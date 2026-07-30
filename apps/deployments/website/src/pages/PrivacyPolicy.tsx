@@ -1,3 +1,4 @@
+import ExternalLink from '../components/ExternalLink'
 import PageContainer from '../components/PageContainer'
 
 const CONTENT = (
@@ -45,23 +46,15 @@ const CONTENT = (
       </p>
       <ul>
         <li>
-          <a
-            href="https://www.google.com/policies/privacy/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://www.google.com/policies/privacy/">
             Google Play Services
-          </a>
+          </ExternalLink>
         </li>
 
         <li>
-          <a
-            href="https://firebase.google.com/policies/analytics"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://firebase.google.com/policies/analytics">
             Google Analytics for Firebase
-          </a>
+          </ExternalLink>
         </li>
       </ul>
     </div>

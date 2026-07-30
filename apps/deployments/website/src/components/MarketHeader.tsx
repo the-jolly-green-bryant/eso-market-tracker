@@ -3,6 +3,7 @@ import { Link, useLocation } from 'react-router-dom'
 
 import { PLATFORMS, MarketPlatform, usePlatform } from '../platform'
 import * as routes from '../routes'
+import ExternalLink from './ExternalLink'
 import './MarketHeader.scss'
 
 const isPathActive = (pathname: string, ...prefixes: string[]) =>
@@ -41,22 +42,18 @@ const InternalLinks = ({ pathname }: { pathname: string }) => (
 
 const ExternalLinks = () => (
   <>
-    <a
+    <ExternalLink
       className="market-nav-external"
       href="https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest"
-      target="_blank"
-      rel="noopener noreferrer"
     >
-      Data <span aria-hidden="true">↗</span>
-    </a>
-    <a
+      Data
+    </ExternalLink>
+    <ExternalLink
       className="market-nav-external"
       href="https://github.com/the-jolly-green-bryant/eso-market-tracker"
-      target="_blank"
-      rel="noopener noreferrer"
     >
-      GitHub <span aria-hidden="true">↗</span>
-    </a>
+      GitHub
+    </ExternalLink>
   </>
 )
 

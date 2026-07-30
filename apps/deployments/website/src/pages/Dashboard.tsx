@@ -27,6 +27,7 @@ import { MARKET_STATS } from '../marketStats'
 import MarketHeader from '../components/MarketHeader'
 import MarketInsights from '../components/MarketInsights'
 import SupportBanner from '../components/SupportBanner'
+import ExternalLink from '../components/ExternalLink'
 
 const accessCards = [
   {
@@ -89,6 +90,27 @@ const proofStats = [
   },
   { value: 'Daily', label: 'data refresh', icon: timeOutline },
 ]
+
+const AccessCard = ({ card }: { card: (typeof accessCards)[number] }) => {
+  const content = (
+    <>
+      <IonIcon className="market-access-icon" icon={card.icon} />
+      <strong>{card.title}</strong>
+      <p>{card.description}</p>
+      <span>{card.action} →</span>
+    </>
+  )
+
+  return card.href.startsWith('http') ? (
+    <ExternalLink className="market-access-card" href={card.href}>
+      {content}
+    </ExternalLink>
+  ) : (
+    <Link className="market-access-card" to={card.href}>
+      {content}
+    </Link>
+  )
+}
 
 const NoResults = () => (
   <div className="market-search-state">
@@ -237,12 +259,7 @@ const DefaultContent = () => (
       </div>
       <div className="market-access-grid">
         {accessCards.map((card) => (
-          <a href={card.href} key={card.title}>
-            <IonIcon icon={card.icon} />
-            <strong>{card.title}</strong>
-            <p>{card.description}</p>
-            <span>{card.action} →</span>
-          </a>
+          <AccessCard card={card} key={card.title} />
         ))}
       </div>
     </section>

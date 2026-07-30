@@ -1,0 +1,14 @@
+.external-link {
+    .external-link-icon {
+        display: inline-block;
+        flex: 0 0 auto;
+        font-size: 0.95em;
+        margin-left: 0.35em;
+        vertical-align: -0.12em;
+
+        ion-icon {
+            display: block;
+            font-size: inherit;
+        }
+    }
+}

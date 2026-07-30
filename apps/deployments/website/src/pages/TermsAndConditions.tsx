@@ -1,3 +1,4 @@
+import ExternalLink from '../components/ExternalLink'
 import PageContainer from '../components/PageContainer'
 
 const TERMS = (
@@ -43,23 +44,15 @@ const TERMS = (
       </p>
       <ul>
         <li>
-          <a
-            href="https://policies.google.com/terms"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://policies.google.com/terms">
             Google Play Services
-          </a>
+          </ExternalLink>
         </li>
 
         <li>
-          <a
-            href="https://firebase.google.com/terms/analytics"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://firebase.google.com/terms/analytics">
             Google Analytics for Firebase
-          </a>
+          </ExternalLink>
         </li>
       </ul>
     </div>

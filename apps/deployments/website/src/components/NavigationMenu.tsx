@@ -6,6 +6,7 @@ import * as constants from '../constants'
 import * as routes from '../routes'
 import { CATEGORIES } from '../constants'
 import { MARKET_STATS } from '../marketStats'
+import ExternalLink from './ExternalLink'
 
 const HEADER_CONTENT = (
   <div className="navigation-menu-header">
@@ -15,13 +16,12 @@ const HEADER_CONTENT = (
 
     <div className="navigation-menu-header-title">Fight. Loot. Profit.</div>
 
-    <a
+    <ExternalLink
       className="navigation-menu-header-button"
       href={constants.DISCORD_LINK}
-      target="_blank"
     >
       Learn More
-    </a>
+    </ExternalLink>
   </div>
 )
 
@@ -38,9 +38,9 @@ const ABOUT_CONTENT = (
 
       <div className="navigation-menu-section-item">
         <IonMenuToggle autoHide={false}>
-          <Link to={{ pathname: constants.REPORT_A_BUG_LINK }} target="_blank">
+          <ExternalLink href={constants.REPORT_A_BUG_LINK}>
             Report a Bug
-          </Link>
+          </ExternalLink>
         </IonMenuToggle>
       </div>
     </div>
@@ -54,12 +54,9 @@ const MORE_ACCESS = (
     <div className="navigation-menu-section-item-container">
       <div className="navigation-menu-section-item">
         <IonMenuToggle autoHide={false}>
-          <Link
-            to={{ pathname: 'https://www.esomarkettracker.com' }}
-            target="_blank"
-          >
+          <ExternalLink href="https://www.esomarkettracker.com">
             The Website
-          </Link>
+          </ExternalLink>
         </IonMenuToggle>
       </div>
 
@@ -73,28 +70,17 @@ const MORE_ACCESS = (
 
       <div className="navigation-menu-section-item">
         <IonMenuToggle autoHide={false}>
-          <Link
-            to={{
-              pathname:
-                'https://github.com/the-jolly-green-bryant/eso-market-tracker',
-            }}
-            target="_blank"
-          >
+          <ExternalLink href="https://github.com/the-jolly-green-bryant/eso-market-tracker">
             The Repo
-          </Link>
+          </ExternalLink>
         </IonMenuToggle>
       </div>
 
       <div className="navigation-menu-section-item">
         <IonMenuToggle autoHide={false}>
-          <Link
-            to={{
-              pathname: 'https://tamrielsavings.com/price-fetcher',
-            }}
-            target="_blank"
-          >
+          <ExternalLink href="https://tamrielsavings.com/price-fetcher">
             The Addon
-          </Link>
+          </ExternalLink>
         </IonMenuToggle>
       </div>
     </div>

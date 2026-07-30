@@ -67,9 +67,10 @@
         display: inline-flex;
         gap: 4px;
 
-        span {
+        .external-link-icon {
             color: #d9ad5b;
             font-size: 11px;
+            margin-left: 0;
             transform: translateY(-1px);
         }
     }

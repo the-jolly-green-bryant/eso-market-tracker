@@ -521,10 +521,23 @@
             transform: translateY(-3px);
         }
 
-        ion-icon {
+        .market-access-icon {
             color: var(--market-gold);
             font-size: 28px;
             margin-bottom: 24px;
+        }
+
+        &.external-link {
+            position: relative;
+
+            > .external-link-icon {
+                color: var(--market-gold);
+                font-size: 14px;
+                margin: 0;
+                position: absolute;
+                right: 18px;
+                top: 18px;
+            }
         }
 
         strong {

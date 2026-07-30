@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 
 import * as routes from '../routes'
 import { MARKET_STATS } from '../marketStats'
+import ExternalLink from '../components/ExternalLink'
 import MarketHeader from '../components/MarketHeader'
 import './TamrielSavingsAlternative.scss'
 
@@ -57,7 +58,9 @@ export default () => (
 
       <div className="tsc-alternative-actions">
         <Link to={`${routes.dashboard()}/`}>Open the ESO price checker</Link>
-        <a href="https://tamrielsavings.com/">Visit official Tamriel Savings</a>
+        <ExternalLink href="https://tamrielsavings.com/">
+          Visit official Tamriel Savings
+        </ExternalLink>
       </div>
 
       <section>
