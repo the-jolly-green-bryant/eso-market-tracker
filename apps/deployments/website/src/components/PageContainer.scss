@@ -105,6 +105,26 @@
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     }
 
+    &-intro {
+        border-bottom: 1px solid rgb(217 173 91 / 16%);
+        margin-bottom: 28px;
+        padding-bottom: 26px;
+
+        span {
+            color: var(--market-gold);
+            font-size: 10px;
+            font-weight: 800;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+        }
+
+        p {
+            color: var(--market-muted);
+            margin: 10px 0 0;
+            max-width: 680px;
+        }
+    }
+
     &-footer {
         margin-top: 28px;
     }

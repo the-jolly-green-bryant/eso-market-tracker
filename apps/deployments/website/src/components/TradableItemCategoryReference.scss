@@ -1,2 +1,52 @@
 .tradable-item-category-reference {
+    background:
+        radial-gradient(circle at 100% 0%, rgb(217 173 91 / 10%), transparent 55%),
+        #15191e;
+    border: 1px solid rgb(255 255 255 / 8%);
+    border-radius: 10px;
+    display: grid;
+    min-height: 178px;
+    padding: 24px;
+    position: relative;
+    text-decoration: none;
+    transition:
+        border-color 160ms ease,
+        transform 160ms ease;
+
+    &:hover {
+        border-color: rgb(217 173 91 / 42%);
+        transform: translateY(-2px);
+    }
+
+    &-kicker {
+        color: #d9ad5b;
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+    }
+
+    strong {
+        align-self: end;
+        color: #f4f1ea;
+        font-family: Georgia, serif;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 1.1;
+        padding-right: 32px;
+    }
+
+    &-meta {
+        color: #929aa5;
+        font-size: 12px;
+        margin-top: 8px;
+    }
+
+    &-arrow {
+        bottom: 24px;
+        color: #f2ce7e;
+        font-size: 22px;
+        position: absolute;
+        right: 24px;
+    }
 }

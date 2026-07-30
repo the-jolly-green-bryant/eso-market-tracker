@@ -19,11 +19,21 @@ export default () => {
         <Link to={`${routes.dashboard()}/`}>Market</Link>
         <Link to={routes.categories()}>Categories</Link>
         <Link to={routes.apiDocs()}>API</Link>
-        <a href="https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest">
-          Data
+        <a
+          className="market-nav-external"
+          href="https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Data <span aria-hidden="true">↗</span>
         </a>
-        <a href="https://github.com/the-jolly-green-bryant/eso-market-tracker">
-          GitHub
+        <a
+          className="market-nav-external"
+          href="https://github.com/the-jolly-green-bryant/eso-market-tracker"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub <span aria-hidden="true">↗</span>
         </a>
       </nav>
 
