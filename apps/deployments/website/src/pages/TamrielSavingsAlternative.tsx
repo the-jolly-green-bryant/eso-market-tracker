@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 
 import * as routes from '../routes'
 import { MARKET_STATS } from '../marketStats'
+import MarketHeader from '../components/MarketHeader'
 import './TamrielSavingsAlternative.scss'
 
 const canonicalUrl =
@@ -40,11 +41,9 @@ export default () => (
       </script>
     </Helmet>
 
-    <main>
-      <Link className="tsc-alternative-brand" to={`${routes.dashboard()}/`}>
-        ✦ ESO Market Tracker
-      </Link>
+    <MarketHeader />
 
+    <main>
       <div className="tsc-alternative-kicker">
         Independent ESO console market data
       </div>

@@ -1,5 +1,8 @@
 .tsc-alternative {
+    --market-gold: #d9ad5b;
+    --market-gold-bright: #f2ce7e;
     min-height: 100%;
+    height: 100%;
     overflow-y: auto;
     background:
         radial-gradient(circle at 82% 8%, rgba(188, 135, 48, 0.14), transparent 34rem),
@@ -9,24 +12,13 @@
     main {
         width: min(900px, calc(100% - 40px));
         margin: 0 auto;
-        padding: 46px 0 90px;
+        padding: 72px 0 90px;
     }
 
-    &-brand,
     &-kicker,
     h1,
     h2 {
         color: #e4b85f;
-    }
-
-    &-brand {
-        display: inline-block;
-        margin-bottom: 82px;
-        font-size: 15px;
-        font-weight: 700;
-        letter-spacing: 0.08em;
-        text-decoration: none;
-        text-transform: uppercase;
     }
 
     &-kicker {
@@ -73,6 +65,12 @@
         }
     }
 
+    .market-header {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+    }
+
     section {
         padding: 34px 0;
         border-top: 1px solid rgba(228, 184, 95, 0.18);
@@ -107,11 +105,7 @@
 @media (max-width: 600px) {
     .tsc-alternative {
         main {
-            padding-top: 28px;
-        }
-
-        &-brand {
-            margin-bottom: 58px;
+            padding-top: 42px;
         }
 
         &-lead {

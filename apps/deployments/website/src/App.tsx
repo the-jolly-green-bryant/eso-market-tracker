@@ -1,12 +1,10 @@
 import {
   IonApp,
   IonRouterOutlet,
-  IonSplitPane,
   setupIonicReact,
 } from '@ionic/react'
 import { IonReactRouter } from '@ionic/react-router'
 import { Redirect, Route, Switch } from 'react-router-dom'
-import NavigationMenu from './components/NavigationMenu'
 import About from './pages/About'
 import AuthorizedDevelopers from './pages/AuthorizedDevelopers'
 import Dashboard from './pages/Dashboard'
@@ -124,10 +122,7 @@ const App: React.FC<{
     <IonApp>
       <Router {...(isServer ? { initialEntries: [initialUrl ?? '/'] } : {})}>
         <Analytics />
-        <IonSplitPane contentId="main">
-          <NavigationMenu />
-          <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>
-        </IonSplitPane>
+        <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>
       </Router>
     </IonApp>
   </PlatformProvider>

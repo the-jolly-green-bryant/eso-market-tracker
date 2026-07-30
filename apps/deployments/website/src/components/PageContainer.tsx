@@ -1,10 +1,11 @@
-import { IonMenuButton, IonIcon } from '@ionic/react'
+import { IonIcon } from '@ionic/react'
 import { chevronBackOutline, shareSocialOutline } from 'ionicons/icons'
 import { Helmet } from 'react-helmet'
 import { useHistory } from 'react-router-dom'
 import { RWebShare } from 'react-web-share'
 
 import SupportBanner from './SupportBanner'
+import MarketHeader from './MarketHeader'
 import * as constants from '../constants'
 import * as routes from '../routes'
 
@@ -55,55 +56,64 @@ export default ({
         )}
       </Helmet>
 
-      <div className="page-container-header">
-        <div className="page-container-header-buttons is-start">
-          {history.length > 1 &&
-          !history.location.pathname.includes(routes.dashboard()) ? (
-            <div
-              className="page-container-back-button"
-              onClick={() => {
-                history.goBack()
-              }}
-            >
-              <IonIcon icon={chevronBackOutline}></IonIcon>
+      <MarketHeader />
+
+      <div className="page-container-scroll">
+        <div className="page-container-header">
+          <div className="page-container-header-buttons is-start">
+            {history.length > 1 &&
+              !history.location.pathname.includes(routes.dashboard()) && (
+                <button
+                  className="page-container-back-button"
+                  onClick={() => history.goBack()}
+                  aria-label="Go back"
+                >
+                  <IonIcon icon={chevronBackOutline}></IonIcon>
+                  <span>Back</span>
+                </button>
+              )}
+          </div>
+
+          <div>
+            <span className="page-container-kicker">ESO Market Tracker</span>
+            <h1 className="page-container-header-title">{pageTitle}</h1>
+          </div>
+
+          {(shareLink || isBeta) && (
+            <div className="page-container-header-actions">
+              {shareLink && (
+                <RWebShare
+                  data={{ url: shareLink }}
+                  onClick={() => console.log('Mind your peepers.')}
+                >
+                  <button
+                    className="page-container-share-button"
+                    aria-label="Share this page"
+                  >
+                    <IonIcon icon={shareSocialOutline}></IonIcon>
+                    <span>Share</span>
+                  </button>
+                </RWebShare>
+              )}
+
+              {isBeta && !shareLink && (
+                <div className="page-container-badge">Beta</div>
+              )}
             </div>
-          ) : (
-            <IonMenuButton />
           )}
         </div>
 
-        <h1 className="page-container-header-title">{pageTitle}</h1>
+        <div
+          className={`page-container-content ${
+            bleedsIntoHeader ? 'bleeds-into-header' : ''
+          }`}
+        >
+          {children}
+        </div>
 
-        {shareLink && (
-          <div className="page-container-header-buttons is-end">
-            <RWebShare
-              data={{ url: shareLink }}
-              onClick={() => console.log('Mind your peepers.')}
-            >
-              <div className="page-container-share-button">
-                <IonIcon icon={shareSocialOutline}></IonIcon>
-              </div>
-            </RWebShare>
-          </div>
-        )}
-
-        {isBeta && !shareLink && (
-          <div className="page-container-header-buttons is-end">
-            <div className="page-container-badge">Beta</div>
-          </div>
-        )}
-      </div>
-
-      <div
-        className={`page-container-content ${
-          bleedsIntoHeader ? 'bleeds-into-header' : ''
-        }`}
-      >
-        {children}
-      </div>
-
-      <div className="page-container-footer">
-        <SupportBanner />
+        <div className="page-container-footer">
+          <SupportBanner />
+        </div>
       </div>
     </div>
   )
