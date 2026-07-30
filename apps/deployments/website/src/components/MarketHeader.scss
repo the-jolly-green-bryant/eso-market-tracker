@@ -23,12 +23,10 @@
 }
 
 .market-brand-mark {
-    display: grid;
-    width: 34px;
-    height: 34px;
-    place-items: center;
-    border: 1px solid #b98638;
-    border-radius: 50%;
+    display: block;
+    height: 30px;
+    object-fit: contain;
+    width: 80px;
 }
 
 .market-nav {
@@ -138,8 +136,8 @@
     }
 
     .market-brand-mark {
-        width: 30px;
-        height: 30px;
+        height: 25px;
+        width: 67px;
     }
 
     .market-platform {

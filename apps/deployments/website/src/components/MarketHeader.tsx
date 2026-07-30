@@ -11,7 +11,11 @@ export default () => {
   return (
     <header className="market-header">
       <Link className="market-brand" to={`${routes.dashboard()}/`}>
-        <span className="market-brand-mark">✦</span>
+        <img
+          className="market-brand-mark"
+          src="/assets/images/market-tracker-brand-gold.png"
+          alt=""
+        />
         <span>ESO Market Tracker</span>
       </Link>
 
