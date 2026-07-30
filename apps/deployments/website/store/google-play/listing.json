@@ -1,0 +1,11 @@
+{
+  "language": "en-US",
+  "title": "ESO Market Tracker",
+  "shortDescription": "Console price checker and market history for ESO on Xbox and PlayStation.",
+  "fullDescription": "Know what your items are worth before you trade.\n\nESO Market Tracker is an independent console price checker for The Elder Scrolls Online. Search public, versioned market data across Xbox and PlayStation, compare megaservers, and inspect the evidence behind an item's current value.\n\nPRICE CHECK MORE THAN 44,000 ITEMS\n\nSearch materials, motifs, furnishing plans, gear, recipes, and collectibles. Quickly check familiar items such as Dreugh Wax, Kuta, Perfect Roe, Tempering Alloy, and Chromium Plating.\n\nMARKET INTELLIGENCE, NOT A SINGLE NUMBER\n\n• Current average, low, and high prices\n• Typical listing range and recent sales\n• Price history with selectable time ranges\n• Price delta for spotting market movement\n• Xbox NA, Xbox EU, PlayStation NA, and PlayStation EU\n• Daily data refreshes\n\nBUILT FOR CONFIDENT TRADES\n\nUse the fast-sale estimate when you want liquidity, the market average as a reference point, and the patient-listing value when you can wait for the right buyer. Switch platforms on any item to compare regional markets.\n\nPUBLIC AND TRANSPARENT\n\nESO Market Tracker publishes its data, methodology, and source code. The same dataset is available through the website, API, downloadable SQLite release, and TSC2-compatible add-on.\n\nNo account is required. The app does not sell items, process payments, or access your ESO account.\n\nESO Market Tracker is an independent community project and is not affiliated with, endorsed by, or sponsored by ZeniMax Media, Bethesda Softworks, or The Elder Scrolls Online.",
+  "privacyPolicyUrl": "https://esomarkettracker.com/privacy-policy",
+  "supportUrl": "https://esomarkettracker.com/",
+  "supportEmail": "esomarkettracker@gmail.com",
+  "category": "TOOLS",
+  "tags": ["price checker", "market tracker", "game companion", "console"]
+}

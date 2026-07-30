@@ -1,0 +1,46 @@
+{
+  "appAccess": {
+    "restricted": false,
+    "instructions": "All functionality is available without an account or login."
+  },
+  "ads": false,
+  "targetAudience": {
+    "ageGroups": ["18 and over"],
+    "designedForChildren": false
+  },
+  "dataSafety": {
+    "collectsUserData": true,
+    "sharesUserData": false,
+    "dataTypes": [
+      {
+        "type": "App interactions",
+        "purpose": "Analytics",
+        "required": true
+      },
+      {
+        "type": "Device or other identifiers",
+        "purpose": "Analytics",
+        "required": true
+      }
+    ],
+    "encryptedInTransit": true,
+    "deletionRequestUrl": "mailto:esomarkettracker@gmail.com",
+    "notes": "Google Analytics measures page views, searches, item views, category views, and platform usage. Data is sent to Google as an analytics service provider and is not sold."
+  },
+  "contentRating": {
+    "violence": false,
+    "sexualContent": false,
+    "language": false,
+    "controlledSubstances": false,
+    "gambling": false,
+    "userGeneratedContent": false
+  },
+  "financialFeatures": {
+    "present": false,
+    "notes": "Displayed prices are fictional in-game currency values, not financial products or real-money transactions."
+  },
+  "governmentApps": false,
+  "healthFeatures": false,
+  "newsApp": false,
+  "permissions": ["android.permission.INTERNET"]
+}
