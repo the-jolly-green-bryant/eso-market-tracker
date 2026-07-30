@@ -11,6 +11,7 @@ import * as constants from '../constants'
 import * as routes from '../routes'
 import { ERROR_STATE, LOADING_STATE } from '../components/common'
 import { __useSearch } from './useItem'
+import { trackSearch } from '../analytics'
 
 const [TOP_SELLING_TAB] = ['top_selling']
 
@@ -80,6 +81,12 @@ export default () => {
   useEffect(() => {
     text && onPerformSearch(text)
   }, [])
+
+  useEffect(() => {
+    if (currentSearch && data && !loading && !error) {
+      trackSearch(currentSearch, data.length)
+    }
+  }, [currentSearch, data, loading, error])
 
   return (
     <PageContainer

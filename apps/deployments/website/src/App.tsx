@@ -40,6 +40,7 @@ import './theme/variables.css'
 import './components/components.scss'
 import * as routes from './routes'
 import { MemoryRouter } from 'react-router'
+import Analytics from './components/Analytics'
 
 setupIonicReact()
 
@@ -110,6 +111,7 @@ const App: React.FC<{
 }> = ({ initialUrl, initialData }) => (
   <IonApp>
     <Router {...(isServer ? { initialEntries: [initialUrl ?? '/'] } : {})}>
+      <Analytics />
       <IonSplitPane contentId="main">
         <NavigationMenu />
         <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>

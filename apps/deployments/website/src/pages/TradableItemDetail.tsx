@@ -11,6 +11,8 @@ import {
 } from '../models/tradable-item-types'
 import * as constants from '../constants'
 import { __useItem, __useItemHistory } from './useItem'
+import { useEffect } from 'react'
+import { trackItemView } from '../analytics'
 
 /**
  * Structure of data for static rendering of item pages
@@ -37,6 +39,16 @@ const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
 
   const pageTitle: string =
     (data && data.displayLabel) || (itemReference && itemReference.displayLabel)
+
+  useEffect(() => {
+    if (!data) return
+    trackItemView({
+      slug: data.slug,
+      displayLabel: data.displayLabel,
+      category: data.category?.displayLabel,
+      price: data.currentXboxStats.averageUnitPrice,
+    })
+  }, [data])
 
   return (
     <PageContainer

@@ -3,6 +3,7 @@ import LocalImage from '../components/LocalImage'
 import PlaceholderImage from '../components/PlaceholderImage'
 import { TradableItemReferenceType } from '../models/tradable-item-types'
 import * as routes from '../routes'
+import { trackItemSelection } from '../analytics'
 
 interface ContainerProps {
   item: TradableItemReferenceType
@@ -22,6 +23,7 @@ const TradableItemReference: React.FC<ContainerProps> = ({
   return (
     <div className="tradable-item-reference">
       <FlatButton
+        onButtonClick={() => trackItemSelection(item, 'item_results')}
         to={
           disableClick
             ? undefined

@@ -8,6 +8,8 @@ import * as constants from '../constants'
 import { CATEGORIES } from '../constants'
 import { __useCategory } from './useItem'
 import { TradableItemType } from '../models/tradable-item-types'
+import { useEffect } from 'react'
+import { trackCategoryView } from '../analytics'
 
 const LOADING_STATE = (
   <div>
@@ -42,6 +44,10 @@ export type CategoryProps = {
 export default ({ staticData }: CategoryProps) => {
   const { slug } = staticData ?? useParams<{ slug: keyof typeof CATEGORIES }>()
   const { loading, error, data } = staticData ?? __useCategory(slug)
+
+  useEffect(() => {
+    if (data) trackCategoryView(slug, data.length)
+  }, [slug, data])
 
   return (
     <PageContainer
