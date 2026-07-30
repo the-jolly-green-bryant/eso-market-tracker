@@ -18,6 +18,7 @@ import TradableItemCategoryDetail, {
   CategoryProps,
 } from './pages/TradableItemCategoryDetail'
 import TradableItemDetail, { ItemProps } from './pages/TradableItemDetail'
+import TamrielSavingsAlternative from './pages/TamrielSavingsAlternative'
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css'
@@ -94,6 +95,10 @@ const SWITCH = (initialData: unknown) => (
 
     <Route path={routes.authorizedDevelopers()} exact={true}>
       <AuthorizedDevelopers />
+    </Route>
+
+    <Route path={routes.tamrielSavingsAlternative()} exact={true}>
+      <TamrielSavingsAlternative />
     </Route>
 
     <Route path="*">

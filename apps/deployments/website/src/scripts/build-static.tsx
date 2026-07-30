@@ -26,6 +26,26 @@ type SitemapEntry = {
 
 const sitemap = new Map<string, SitemapEntry>();
 
+const applyRenderedPage = (
+  template: string,
+  rendered: { html: string; head: string },
+) => {
+  const withoutGenericSeo = template
+    .replace(/<title>[\s\S]*?<\/title>/, "")
+    .replace(
+      /\s*<meta\s+(?:name|property)="(?:description|og:title|og:description|og:url|og:type|twitter:card)"[^>]*\/?>/g,
+      "",
+    )
+    .replace(/\s*<link\s+rel="canonical"[^>]*\/?>/g, "");
+
+  return withoutGenericSeo
+    .replace(
+      '<div id="root"></div>',
+      `<div id="root">${rendered.html}</div>`,
+    )
+    .replace("</head>", `${rendered.head}\n</head>`);
+};
+
 const _setNested = (
   root: Record<string, unknown>,
   branchKeys: string[],
@@ -170,7 +190,10 @@ const _fetchHistoricalData = async (name: string) => {
 
 const makeItemPages = async (
   data: TradableItemType[],
-  render: (arg0: string, arg1: unknown) => string,
+  render: (
+    arg0: string,
+    arg1: unknown,
+  ) => { html: string; head: string },
   template: string,
 ) => {
   for (const item of data) {
@@ -181,11 +204,8 @@ const makeItemPages = async (
       historicalData: await _fetchHistoricalData(item.displayLabel),
     };
 
-    const inner = render(`/item/${_in.slug}`, _in);
-    const html = template.replace(
-      '<div id="root"></div>',
-      `<div id="root">${inner}</div>`,
-    );
+    const rendered = render(`/item/${_in.slug}`, _in);
+    const html = applyRenderedPage(template, rendered);
 
     const outFile = path.join(distPath, "item", _in.slug, "index.html");
     await fs.mkdir(path.dirname(outFile), { recursive: true });
@@ -251,6 +271,8 @@ const createStaticServer = () =>
     },
   });
 
+// The build intentionally owns every static route and sitemap entry.
+// eslint-disable-next-line max-lines-per-function
 const main = async () => {
   const changedIds = new Set(
     (process.env.ESO_CHANGED_ITEM_IDS || "")
@@ -267,6 +289,36 @@ const main = async () => {
   );
   const { render } = await vite.ssrLoadModule("/src/scripts/build-entry.tsx");
 
+  if (!incremental) {
+    for (const staticPage of [
+      {
+        path: "/dashboard/",
+        priority: 1,
+        changefreq: "daily" as const,
+      },
+      {
+        path: "/tamriel-savings-price-checker",
+        priority: 0.8,
+        changefreq: "monthly" as const,
+      },
+    ]) {
+      const rendered = render(staticPage.path, undefined);
+      const html = applyRenderedPage(template, rendered);
+      const outFile = path.join(distPath, staticPage.path, "index.html");
+      await fs.mkdir(path.dirname(outFile), { recursive: true });
+      await fs.writeFile(outFile, html);
+      if (staticPage.path === "/dashboard/") {
+        await fs.writeFile(path.join(distPath, "index.html"), html);
+      }
+      sitemap.set(staticPage.path, {
+        url: staticPage.path,
+        lastmod: BUILD_TIME,
+        changefreq: staticPage.changefreq,
+        priority: staticPage.priority,
+      });
+    }
+  }
+
   for (const slug of incremental
     ? []
     : (Object.keys(CATEGORIES) as (keyof typeof CATEGORIES)[])) {
@@ -277,17 +329,14 @@ const main = async () => {
       data: await Promise.all(CATEGORIES[slug].map(_itemFromName)),
     };
 
-    const inner = render(`/category/${slug}`, data);
-    const html = template.replace(
-      '<div id="root"></div>',
-      `<div id="root">${inner}</div>`,
-    );
+    const rendered = render(`/category/${slug}`, data);
+    const html = applyRenderedPage(template, rendered);
 
     const outFile = path.join(distPath, "category", slug, "index.html");
     await fs.mkdir(path.dirname(outFile), { recursive: true });
     await fs.writeFile(outFile, html);
 
-    const url = encodeURI(`/categories/${slug}`);
+    const url = encodeURI(`/category/${slug}`);
     sitemap.set(url, {
       url,
       lastmod: BUILD_TIME,

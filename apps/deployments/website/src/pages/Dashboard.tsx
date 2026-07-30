@@ -271,9 +271,28 @@ const DefaultContent = () => (
         ))}
       </div>
     </section>
+
+    <section className="market-seo-intro">
+      <span>ESO console price checker</span>
+      <h2>Check what items are worth before you trade</h2>
+      <p>
+        Search current Elder Scrolls Online market values for Xbox and
+        PlayStation, from Dreugh Wax and Kuta to furnishing plans, motifs, gear,
+        and materials. ESO Market Tracker provides public price history and
+        recent console sales data for more than{' '}
+        {MARKET_STATS.trackedItems.toLocaleString()} items.
+      </p>
+      <p>
+        Looking for Tamriel Savings Co, the TSC price checker, or SavageTSC?{' '}
+        <Link to={routes.tamrielSavingsAlternative()}>
+          Compare the independent ESO Market Tracker alternative.
+        </Link>
+      </p>
+    </section>
   </>
 )
 
+// eslint-disable-next-line max-lines-per-function
 export default () => {
   const { text } = useParams<{ text: string | undefined }>()
   const { loading, error, data, onPerformSearch, currentSearch } =
@@ -292,11 +311,57 @@ export default () => {
   return (
     <div className="market-home">
       <Helmet>
-        <title>{constants.getFullPageTitle('Console Market Intelligence')}</title>
+        <title>ESO Price Checker for Xbox & PlayStation | Market Tracker</title>
         <meta
           name="description"
-          content="Search definitive Xbox and PlayStation pricing for more than 44,000 Elder Scrolls Online items."
+          content="Check ESO prices for Xbox and PlayStation. Search current market values, recent sales, and history for Dreugh Wax, Kuta, motifs, gear, and 44,000+ items."
         />
+        <link
+          rel="canonical"
+          href="https://esomarkettracker.com/dashboard/"
+        />
+        <meta
+          property="og:title"
+          content="ESO Price Checker for Xbox & PlayStation"
+        />
+        <meta
+          property="og:description"
+          content="Search current console prices and market history for more than 44,000 Elder Scrolls Online items."
+        />
+        <meta
+          property="og:url"
+          content="https://esomarkettracker.com/dashboard/"
+        />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            '@context': 'https://schema.org',
+            '@graph': [
+              {
+                '@type': 'WebSite',
+                name: 'ESO Market Tracker',
+                alternateName: 'ESO Price Checker',
+                url: 'https://esomarkettracker.com/',
+                potentialAction: {
+                  '@type': 'SearchAction',
+                  target:
+                    'https://esomarkettracker.com/dashboard/{search_term_string}',
+                  'query-input': 'required name=search_term_string',
+                },
+              },
+              {
+                '@type': 'WebApplication',
+                name: 'ESO Market Tracker',
+                applicationCategory: 'GameApplication',
+                operatingSystem: 'Web',
+                url: 'https://esomarkettracker.com/dashboard/',
+                description:
+                  'An Elder Scrolls Online console market tracker and price checker for Xbox and PlayStation.',
+              },
+            ],
+          })}
+        </script>
       </Helmet>
 
       <Header />

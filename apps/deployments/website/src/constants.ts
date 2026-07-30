@@ -8,6 +8,7 @@ export const SITE_DESCRIPTION =
   "Fight, loot, and profit with Elder Scrolls Online's only full-featured trading utility app."
 export const SITE_TITLE = 'ESO Market Tracker'
 export const SITE_TITLE_PREFIXED = `${SITE_TITLE} - `
+export const CATEGORY_PATH = '/category'
 
 export const getFullPageTitle = (simpleTitle: string) =>
   `${SITE_TITLE_PREFIXED}${simpleTitle}`

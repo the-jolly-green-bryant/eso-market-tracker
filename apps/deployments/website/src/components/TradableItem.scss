@@ -388,6 +388,25 @@ $tradable-item-header-height: 360px;
     }
 }
 
+.item-seo-summary {
+    padding: 28px 24px 44px;
+    background: #101316;
+    color: #c9c7c2;
+
+    h2 {
+        margin: 0 0 12px;
+        color: #e4b85f;
+        font-family: Georgia, serif;
+        font-size: 28px;
+    }
+
+    p {
+        max-width: 760px;
+        margin: 8px 0;
+        line-height: 1.65;
+    }
+}
+
 .skeleton-loader-background .tradable-item {
     &-header-title,
     &-header-price,

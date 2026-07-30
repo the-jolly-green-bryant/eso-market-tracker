@@ -16,6 +16,8 @@ interface ContainerProps {
   pageTitle: string
   shareLink?: string
   isBeta?: boolean
+  canonicalPath?: string
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[]
 }
 
 export default ({
@@ -26,8 +28,15 @@ export default ({
   metaTitle = constants.SITE_TITLE,
   shareLink,
   isBeta = false,
+  canonicalPath,
+  jsonLd,
+  // SEO metadata is intentionally colocated with the shared page shell.
+  // eslint-disable-next-line max-lines-per-function
 }: ContainerProps) => {
   const history = useHistory()
+  const canonicalUrl = canonicalPath
+    ? `https://esomarkettracker.com${encodeURI(canonicalPath)}`
+    : undefined
 
   return (
     <div className="page-container">
@@ -35,6 +44,15 @@ export default ({
         <meta charSet="utf-8" />
         <title>{metaTitle}</title>
         <meta name="description" content={metaDescription} />
+        {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+        <meta property="og:title" content={metaTitle} />
+        <meta property="og:description" content={metaDescription} />
+        {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary" />
+        {jsonLd && (
+          <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+        )}
       </Helmet>
 
       <div className="page-container-header">
@@ -54,7 +72,7 @@ export default ({
           )}
         </div>
 
-        <div className="page-container-header-title">{pageTitle}</div>
+        <h1 className="page-container-header-title">{pageTitle}</h1>
 
         {shareLink && (
           <div className="page-container-header-buttons is-end">
