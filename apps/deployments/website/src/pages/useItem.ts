@@ -70,7 +70,6 @@ export const _responseToHistory = (json: GitResponse[]) =>
   })) as SalesRollupType[]
 
 export const _responseToItem = (json: APIItemResponse): TradableItemType => {
-  console.log('json', json)
   const platformRaw = json.pricing['xbox-na']
 
   if (!platformRaw) {

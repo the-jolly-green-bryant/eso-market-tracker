@@ -4,18 +4,20 @@ import { createServer } from "vite";
 import { CATEGORIES } from "../constants";
 import { fileURLToPath } from "node:url";
 import {
-  _responseToHistory,
   _responseToItem,
   APIItemResponse,
   getIdFromName,
 } from "../pages/useItem";
 import { TradableItemType } from "../models/tradable-item-types";
-import fg from "fast-glob";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const distPath = path.join(__dirname, "../..", "dist");
 const BUILD_TIME = new Date().toISOString();
+const ITEM_RENDER_CONCURRENCY = Math.max(
+  1,
+  Number.parseInt(process.env.ESO_STATIC_RENDER_CONCURRENCY || "8"),
+);
 
 type SitemapEntry = {
   url: string;
@@ -60,6 +62,7 @@ const _setNested = (
 };
 
 let _MASTER_PRICING_INDEX: Record<string, [number, number | null]>;
+let _PRICING_KEYS_BY_ITEM: Map<number, string[]>;
 export const MASTER_PRICING_INDEX = async (): Promise<
   Record<string, [number, number | null]>
 > => {
@@ -71,6 +74,20 @@ export const MASTER_PRICING_INDEX = async (): Promise<
   const data = JSON.parse(buf.toString("utf8"));
   _MASTER_PRICING_INDEX = data as Record<string, [number, number | null]>;
   return _MASTER_PRICING_INDEX;
+};
+
+const PRICING_KEYS_BY_ITEM = async () => {
+  if (_PRICING_KEYS_BY_ITEM) return _PRICING_KEYS_BY_ITEM;
+
+  _PRICING_KEYS_BY_ITEM = new Map();
+  for (const qualifiedId of Object.keys(await MASTER_PRICING_INDEX())) {
+    const internalId = Number.parseInt(qualifiedId);
+    const keys = _PRICING_KEYS_BY_ITEM.get(internalId) || [];
+    keys.push(qualifiedId);
+    _PRICING_KEYS_BY_ITEM.set(internalId, keys);
+  }
+
+  return _PRICING_KEYS_BY_ITEM;
 };
 
 type ItemIndexEntry = {
@@ -98,8 +115,8 @@ export const MASTER_ITEM_INDEX = async (): Promise<
 export const getShardedRecord = async (name: string) => {
   const internalId = getIdFromName(name);
   const pricingIndex = await MASTER_PRICING_INDEX();
-  return Object.keys(pricingIndex)
-    .filter((i) => i.startsWith(`${internalId.toString()}-`))
+  const keysByItem = await PRICING_KEYS_BY_ITEM();
+  return (keysByItem.get(internalId) || [])
     .reduce((acc, qualifiedId) => {
       const p = /^(.*?)-([-0-9]{2})-([-0-9]{2})\.(.*)$/;
       const [, , traitId, qualityId, platform] = RegExp(p).exec(qualifiedId)!;
@@ -116,7 +133,6 @@ export const getShardedRecord = async (name: string) => {
 
 const _getStaticItem = async (name: string) => {
   const internalId = getIdFromName(name);
-  console.log(name, internalId);
   const [, sh1, sh2, sh3] = RegExp(/^(\d{2})(\d{2})(\d{2})/).exec(
     internalId.toString().padStart(6, "0").split("").reverse().join(""),
   )!;
@@ -142,76 +158,91 @@ const _getStaticItem = async (name: string) => {
 const _itemFromName = async (name: string) =>
   _responseToItem(await _getStaticItem(name));
 
-const __exists = async (p: string) => {
-  try {
-    await fs.access(p, fs.constants.F_OK);
-    return true;
-  } catch {
-    return false;
-  }
-};
+const escapeHtml = (value: string) =>
+  value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
 
-const _fetchHistoricalData = async (name: string) => {
-  const internalId = getIdFromName(name);
-  const historicalUrl = internalId
-    .toString()
-    .padStart(6, "0")
-    .split("")
-    .reverse()
-    .join("")
-    .substring(0, 6)
-    .replace(
-      /^(.{2})(.{2})(.{2})/,
-      `data/items/$1/$2/$3/${internalId}------.xbox-na.historical.json`,
-    );
+const renderItemSeoPage = (item: TradableItemType) => {
+  const itemName = item.displayLabel;
+  const price = Math.round(item.currentXboxStats.averageUnitPrice);
+  const canonicalUrl = BASE_URL + encodeURI(`/item/${itemName}`);
+  const title = `${itemName} Price Check & Market Value | ESO Market Tracker`;
+  const description = `Check the current ${itemName} price in ESO. Average console sale price: ${price.toLocaleString()} gold, with recent range and sales history.`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        name: `${itemName} ESO Price Check`,
+        url: canonicalUrl,
+        description,
+        about: {
+          "@type": "Thing",
+          name: itemName,
+          description: item.description,
+        },
+        isPartOf: {
+          "@type": "WebSite",
+          name: "ESO Market Tracker",
+          url: `${BASE_URL}/`,
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          {
+            "@type": "ListItem",
+            position: 1,
+            name: "ESO Price Checker",
+            item: `${BASE_URL}/dashboard/`,
+          },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: itemName,
+            item: canonicalUrl,
+          },
+        ],
+      },
+    ],
+  };
 
-  const root = path.join(__dirname, "../../../../..");
-  const exactPath = path.join(root, historicalUrl);
-
-  if (await __exists(exactPath)) {
-    const r = await fs.readFile(exactPath, "utf8");
-    return _responseToHistory(JSON.parse(r));
-  }
-
-  // fallback
-  const matches = await fg(exactPath.replace("------", "-**---"), {
-    cwd: root,
-    absolute: true,
-    onlyFiles: true,
-  });
-
-  const fallbackPath = matches
-    .sort((a: string, b: string) => a.localeCompare(b))
-    .at(0);
-
-  const r2 = await fs.readFile(fallbackPath!, "utf8");
-  return _responseToHistory(JSON.parse(r2));
+  return {
+    head: `<title>${escapeHtml(title)}</title>
+<meta name="description" content="${escapeHtml(description)}">
+<meta property="og:title" content="${escapeHtml(title)}">
+<meta property="og:description" content="${escapeHtml(description)}">
+<meta property="og:url" content="${escapeHtml(canonicalUrl)}">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="${escapeHtml(canonicalUrl)}">
+<script type="application/ld+json">${JSON.stringify(jsonLd).replaceAll("<", "\\u003c")}</script>`,
+    html: `<main class="seo-static-item">
+  <h1>${escapeHtml(itemName)} ESO price check</h1>
+  <p>Current average console market value: <strong>${price.toLocaleString()} gold</strong>.</p>
+  <p>Compare recent Elder Scrolls Online sale prices and market history for ${escapeHtml(itemName)} on Xbox and PlayStation.</p>
+  ${item.description ? `<p>${escapeHtml(item.description)}</p>` : ""}
+</main>`,
+  };
 };
 
 const makeItemPages = async (
   data: TradableItemType[],
-  render: (
-    arg0: string,
-    arg1: unknown,
-  ) => { html: string; head: string },
   template: string,
 ) => {
   for (const item of data) {
-    console.log("item", JSON.stringify(item));
-    const _in = {
-      slug: item.displayLabel,
-      data: item,
-      historicalData: await _fetchHistoricalData(item.displayLabel),
-    };
-
-    const rendered = render(`/item/${_in.slug}`, _in);
+    const rendered = renderItemSeoPage(item);
     const html = applyRenderedPage(template, rendered);
 
-    const outFile = path.join(distPath, "item", _in.slug, "index.html");
+    const outFile = path.join(distPath, "item", item.displayLabel, "index.html");
     await fs.mkdir(path.dirname(outFile), { recursive: true });
     await fs.writeFile(outFile, html);
 
-    const url = encodeURI(`/item/${_in.slug}`);
+    const url = encodeURI(`/item/${item.displayLabel}`);
     sitemap.set(url, {
       url,
       lastmod: BUILD_TIME,
@@ -355,15 +386,28 @@ const main = async () => {
       validIds.has(item.internalId) &&
       (!incremental || changedIds.has(item.internalId)),
   );
-  for (const [name] of items) {
-    const k = (await _itemFromName(name).catch((e: Error) => {
-      console.error(e);
-      if (e.message.includes("no pricing")) return null;
-      throw e;
-    })) as TradableItemType;
+  const itemQueue = [...items];
+  const renderNextItem = async () => {
+    while (itemQueue.length) {
+      const [name] = itemQueue.pop()!;
+      const item = (await _itemFromName(name).catch((e: Error) => {
+        if (e.message.includes("no pricing")) return null;
+        console.error(`${name}: ${e.message}`);
+        throw e;
+      })) as TradableItemType | null;
 
-    k && (await makeItemPages([k], render, template));
-  }
+      if (item) await makeItemPages([item], template);
+    }
+  };
+
+  await Promise.all(
+    Array.from(
+      {
+        length: Math.min(ITEM_RENDER_CONCURRENCY, itemQueue.length || 1),
+      },
+      renderNextItem,
+    ),
+  );
 
   await vite.close();
   if (!incremental) {

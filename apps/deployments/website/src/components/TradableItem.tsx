@@ -63,7 +63,7 @@ const renderItemQualities = (
   raw: Record<string, Record<string, { average: number }>>,
   traitId: string
 ) => (
-  <div>
+  <div key={`quality-${traitId}`}>
     <div className="tradable-item-content-section is-simple">
       <div className="tradable-item-content-section-header">
         {traitId == '--'
