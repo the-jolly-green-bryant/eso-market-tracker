@@ -26,6 +26,7 @@ import { __useSearch } from './useItem'
 import './Dashboard.scss'
 import { MARKET_STATS } from '../marketStats'
 import MarketHeader from '../components/MarketHeader'
+import MarketInsights from '../components/MarketInsights'
 
 const accessCards = [
   {
@@ -207,6 +208,8 @@ const SearchResults = ({
 
 const DefaultContent = () => (
   <>
+    <MarketInsights />
+
     <section className="market-snapshot">
       <div className="market-section-heading">
         <div>

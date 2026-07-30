@@ -13,60 +13,13 @@ import { PLATFORMS, MarketPlatform } from '../platform'
 import * as routes from '../routes'
 import LocalImage from './LocalImage'
 import MarketHeader from './MarketHeader'
+import MarketSparkline from './MarketSparkline'
 import PlaceholderImage from './PlaceholderImage'
 import './MarketItemDetail.scss'
 
 /* eslint-disable max-lines-per-function */
 
 const gold = (value: number) => `${Math.round(value).toLocaleString()} gold`
-
-const Sparkline = ({
-  history,
-  current,
-}: {
-  history: SalesRollupType[]
-  current: number
-}) => {
-  const values = [...history.map((point) => point.averageUnitPrice), current]
-  if (values.length < 2) {
-    return <div className="market-item-chart-empty">More history coming soon</div>
-  }
-
-  const width = 800
-  const height = 220
-  const min = Math.min(...values)
-  const max = Math.max(...values)
-  const range = max - min || 1
-  const points = values
-    .map((value, index) => {
-      const x = (index / (values.length - 1)) * width
-      const y = height - ((value - min) / range) * (height - 28) - 14
-      return `${x},${y}`
-    })
-    .join(' ')
-
-  return (
-    <svg
-      className="market-item-sparkline"
-      viewBox={`0 0 ${width} ${height}`}
-      preserveAspectRatio="none"
-      role="img"
-      aria-label="Price history"
-    >
-      <defs>
-        <linearGradient id="item-chart-fill" x1="0" x2="0" y1="0" y2="1">
-          <stop offset="0%" stopColor="#d9ad5b" stopOpacity="0.32" />
-          <stop offset="100%" stopColor="#d9ad5b" stopOpacity="0" />
-        </linearGradient>
-      </defs>
-      <polygon
-        points={`0,${height} ${points} ${width},${height}`}
-        fill="url(#item-chart-fill)"
-      />
-      <polyline points={points} fill="none" stroke="#e4b85f" strokeWidth="3" />
-    </svg>
-  )
-}
 
 const QualityPrices = ({ item }: { item: TradableItemType }) => {
   const trait =
@@ -184,9 +137,23 @@ export default ({
                 <span>Market movement</span>
                 <h2>Price history</h2>
               </div>
-              <Sparkline history={history} current={stats.averageUnitPrice} />
+              <MarketSparkline
+                history={history}
+                current={stats.averageUnitPrice}
+                fallbackValues={[
+                  stats.minimumUnitPrice,
+                  stats.commonUnitPriceRangeLower,
+                  stats.averageUnitPrice,
+                  stats.commonUnitPriceRangeUpper,
+                  stats.maximumUnitPrice,
+                ]}
+              />
               <div className="market-item-chart-labels">
-                <span>{history.at(0)?.date || 'Earlier'}</span>
+                <span>
+                  {history.length > 1
+                    ? history.at(0)?.date
+                    : 'Current market range'}
+                </span>
                 <span>{stats.date}</span>
               </div>
             </section>
