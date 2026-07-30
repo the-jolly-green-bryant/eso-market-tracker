@@ -1,187 +1,190 @@
-import { createHash, randomUUID } from 'node:crypto'
-import fs from 'node:fs/promises'
-import path from 'node:path'
-import { fileURLToPath } from 'node:url'
-import { getShardFromId } from './naming'
+import { createHash, randomUUID } from "node:crypto";
+import fs from "node:fs/promises";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import { getShardFromId } from "./naming";
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-const defaultRepositoryRoot = path.resolve(__dirname, '../../..')
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const defaultRepositoryRoot = path.resolve(__dirname, "../../..");
 
 /** Aggregate market statistics captured at a point in time. */
 export type ObservationStats = {
-  average: number
-  date: string
-  commonQuantity: number
-  minimum: number
-  maximum: number
-}
+  average: number;
+  date: string;
+  commonQuantity: number;
+  minimum: number;
+  maximum: number;
+};
 
 /** Canonical identity and statistics stored as one JSONL record. */
 export type ObservationSegmentRecord = {
-  itemId: number
-  traitId: number | null
-  qualityId: number | null
-  server: string
-  stats: ObservationStats
-}
+  itemId: number;
+  traitId: number | null;
+  qualityId: number | null;
+  server: string;
+  stats: ObservationStats;
+};
 
 type SegmentManifestEntry = {
-  records: number
-  sha256: string
-  firstDate: string
-  lastDate: string
-}
+  records: number;
+  sha256: string;
+  firstDate: string;
+  lastDate: string;
+};
 
 type ObservationManifest = {
-  schemaVersion: 1
-  segments: Record<string, SegmentManifestEntry>
-}
+  schemaVersion: 1;
+  segments: Record<string, SegmentManifestEntry>;
+};
 
 const recordKey = (record: ObservationSegmentRecord) =>
   [
     record.itemId,
-    record.traitId ?? '',
-    record.qualityId ?? '',
+    record.traitId ?? "",
+    record.qualityId ?? "",
     record.server,
     record.stats.date,
-  ].join(':')
+  ].join(":");
 
 const assertDate = (date: string) => {
-  const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date)
+  const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date);
   if (!match || Number(match[2]) < 1 || Number(match[2]) > 12) {
-    throw new Error(`Observation date must use YYYY-MM-DD: ${date}`)
+    throw new Error(`Observation date must use YYYY-MM-DD: ${date}`);
   }
-  return { year: match[1], month: match[2] }
-}
+  return { year: match[1], month: match[2] };
+};
 
-export const getObservationSegmentPath = (
-  record: ObservationSegmentRecord
-) => {
-  const { year, month } = assertDate(record.stats.date)
-  const shard = getShardFromId(record.itemId).split('/')[0]
-  return `data/segments/observations/${record.server}/${year}/${month}/${shard}.jsonl`
-}
+export const getObservationSegmentPath = (record: ObservationSegmentRecord) => {
+  const { year, month } = assertDate(record.stats.date);
+  const shard = getShardFromId(record.itemId).split("/")[0];
+  return `data/segments/observations/${record.server}/${year}/${month}/${shard}.jsonl`;
+};
 
 const readJsonLines = async (
-  filePath: string
+  filePath: string,
 ): Promise<ObservationSegmentRecord[]> => {
   try {
-    const content = await fs.readFile(filePath, 'utf8')
+    const content = await fs.readFile(filePath, "utf8");
     return content
-      .split('\n')
+      .split("\n")
       .filter(Boolean)
       .map((line, index) => {
         try {
-          return JSON.parse(line) as ObservationSegmentRecord
+          return JSON.parse(line) as ObservationSegmentRecord;
         } catch (error) {
           throw new SyntaxError(
             `Invalid JSONL in ${filePath} at line ${index + 1}`,
-            { cause: error }
-          )
+            { cause: error },
+          );
         }
-      })
+      });
   } catch (error) {
-    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-      return []
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+      return [];
     }
-    throw error
+    throw error;
   }
-}
+};
 
 const writeAtomic = async (filePath: string, content: string) => {
   try {
-    if ((await fs.readFile(filePath, 'utf8')) === content) {
-      return false
+    if ((await fs.readFile(filePath, "utf8")) === content) {
+      return false;
     }
   } catch (error) {
-    if ((error as NodeJS.ErrnoException).code !== 'ENOENT') {
-      throw error
+    if ((error as NodeJS.ErrnoException).code !== "ENOENT") {
+      throw error;
     }
   }
 
-  await fs.mkdir(path.dirname(filePath), { recursive: true })
-  const temporaryPath = `${filePath}.${process.pid}.${randomUUID()}.tmp`
+  await fs.mkdir(path.dirname(filePath), { recursive: true });
+  const temporaryPath = `${filePath}.${process.pid}.${randomUUID()}.tmp`;
   try {
-    await fs.writeFile(temporaryPath, content)
-    await fs.rename(temporaryPath, filePath)
-    return true
+    await fs.writeFile(temporaryPath, content);
+    await fs.rename(temporaryPath, filePath);
+    return true;
   } catch (error) {
-    await fs.rm(temporaryPath, { force: true })
-    throw error
+    await fs.rm(temporaryPath, { force: true });
+    throw error;
   }
-}
+};
 
 const readManifest = async (
-  repositoryRoot: string
+  repositoryRoot: string,
 ): Promise<ObservationManifest> => {
   const manifestPath = path.join(
     repositoryRoot,
-    'data/manifests/observations.json'
-  )
+    "data/manifests/observations.json",
+  );
   try {
     return JSON.parse(
-      await fs.readFile(manifestPath, 'utf8')
-    ) as ObservationManifest
+      await fs.readFile(manifestPath, "utf8"),
+    ) as ObservationManifest;
   } catch (error) {
-    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-      return { schemaVersion: 1, segments: {} }
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+      return { schemaVersion: 1, segments: {} };
     }
-    throw error
+    throw error;
   }
-}
+};
 
 export const writeObservationSegments = async (
   records: ObservationSegmentRecord[],
-  options?: { repositoryRoot?: string }
+  options?: { repositoryRoot?: string; preserveExisting?: boolean },
 ) => {
-  if (records.length === 0) return []
+  if (records.length === 0) return [];
 
-  const repositoryRoot = options?.repositoryRoot ?? defaultRepositoryRoot
-  const grouped = new Map<string, ObservationSegmentRecord[]>()
+  const repositoryRoot = options?.repositoryRoot ?? defaultRepositoryRoot;
+  const grouped = new Map<string, ObservationSegmentRecord[]>();
   for (const record of records) {
-    const segmentPath = getObservationSegmentPath(record)
-    grouped.set(segmentPath, [...(grouped.get(segmentPath) ?? []), record])
+    const segmentPath = getObservationSegmentPath(record);
+    const group = grouped.get(segmentPath);
+    if (group) group.push(record);
+    else grouped.set(segmentPath, [record]);
   }
-  const manifest = await readManifest(repositoryRoot)
-  const changedSegments: string[] = []
+  const manifest = await readManifest(repositoryRoot);
+  const changedSegments: string[] = [];
 
   for (const [relativePath, additions] of grouped) {
-    const filePath = path.join(repositoryRoot, relativePath)
-    const previous = await readJsonLines(filePath)
+    const filePath = path.join(repositoryRoot, relativePath);
+    const previous = await readJsonLines(filePath);
+    const candidates = options?.preserveExisting
+      ? additions.concat(previous)
+      : previous.concat(additions);
     const unique = new Map(
-      previous.concat(additions).map((record) => [recordKey(record), record])
-    )
+      candidates.map((record) => [recordKey(record), record]),
+    );
     const merged = [...unique.values()].sort((left, right) =>
-      recordKey(left).localeCompare(recordKey(right))
-    )
-    const content = `${merged.map((record) => JSON.stringify(record)).join('\n')}\n`
+      recordKey(left).localeCompare(recordKey(right)),
+    );
+    const content = `${merged.map((record) => JSON.stringify(record)).join("\n")}\n`;
     if (await writeAtomic(filePath, content)) {
-      changedSegments.push(relativePath)
+      changedSegments.push(relativePath);
     }
 
     const dates = merged
       .map((record) => record.stats.date)
-      .sort((left, right) => left.localeCompare(right))
+      .sort((left, right) => left.localeCompare(right));
     manifest.segments[relativePath] = {
       records: merged.length,
-      sha256: createHash('sha256').update(content).digest('hex'),
+      sha256: createHash("sha256").update(content).digest("hex"),
       firstDate: dates[0],
       lastDate: dates.at(-1)!,
-    }
+    };
   }
 
   const orderedManifest: ObservationManifest = {
     schemaVersion: 1,
     segments: Object.fromEntries(
       Object.entries(manifest.segments).sort(([left], [right]) =>
-        left.localeCompare(right)
-      )
+        left.localeCompare(right),
+      ),
     ),
-  }
+  };
   await writeAtomic(
-    path.join(repositoryRoot, 'data/manifests/observations.json'),
-    `${JSON.stringify(orderedManifest, null, 2)}\n`
-  )
-  return changedSegments
-}
+    path.join(repositoryRoot, "data/manifests/observations.json"),
+    `${JSON.stringify(orderedManifest, null, 2)}\n`,
+  );
+  return changedSegments;
+};

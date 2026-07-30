@@ -8,6 +8,7 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "backfill": "tsx src/backfill.ts",
     "build": "pnpm run test && tsc -p tsconfig.json",
     "clean": "rm -rf dist",
     "test": "vitest run",
@@ -17,7 +18,6 @@
   "devDependencies": {
     "@types/adm-zip": "^0.5.8",
     "@vitest/coverage-v8": "^4.1.10",
-    "adm-zip": "^0.6.0",
     "cheerio": "^1.2.0",
     "dotenv": "^17.4.2",
     "eslint-plugin-sonarjs": "^4.2.0",
@@ -29,6 +29,7 @@
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
     "@eso-market-tracker/logging": "workspace:*",
+    "adm-zip": "^0.6.0",
     "wasmoon": "^1.16.0"
   },
   "exports": {
