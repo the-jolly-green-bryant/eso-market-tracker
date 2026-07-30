@@ -4,6 +4,7 @@ type SalesRollupReferenceType = {
   commonQuantity: number
   commonUnitPriceRangeLower: number
   commonUnitPriceRangeUpper: number
+  date: string
   goldAverageUnitPrice: number
   greenAverageUnitPrice: number
   numberOfQualitiesTracked: number
@@ -20,7 +21,6 @@ type SalesRollupReferenceType = {
 export type SalesRollupType = SalesRollupReferenceType & {
   commonUnitPriceRangeLower: number
   commonUnitPriceRangeUpper: number
-  date: string
   maximumUnitPrice: number
   medianUnitPrice: number
   minimumUnitPrice: number

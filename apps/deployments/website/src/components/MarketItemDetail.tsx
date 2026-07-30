@@ -75,6 +75,10 @@ export default ({
     .find((point) => point.date !== stats.date)?.averageUnitPrice
   const delta = previous ? stats.averageUnitPrice - previous : null
   const change = previous ? (delta! / previous) * 100 : null
+  const observationCount = new Set([
+    stats.date,
+    ...history.map((point) => point.date),
+  ]).size
 
   return (
     <div className="market-item-page">
@@ -118,8 +122,8 @@ export default ({
                 swapHorizontalOutline,
               ],
               [
-                'Recent sales',
-                stats.recentSales.toLocaleString(),
+                'Price observations',
+                observationCount.toLocaleString(),
                 timeOutline,
               ],
               [

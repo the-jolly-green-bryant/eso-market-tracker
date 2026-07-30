@@ -18,7 +18,7 @@ const TradableItemReference: React.FC<ContainerProps> = ({
   disableClick = false,
   itemDescriptor = '',
 }) => {
-  const totalSales = item.currentXboxStats.recentSales
+  const updatedDate = item.currentXboxStats.date
 
   return (
     <div className="tradable-item-reference">
@@ -54,11 +54,11 @@ const TradableItemReference: React.FC<ContainerProps> = ({
               {Math.round(
                 item.currentXboxStats.commonUnitPriceRangeUpper
               ).toLocaleString()}{' '}
-              &bull; {totalSales.toLocaleString()} Recent Sales
+              &bull; Updated {updatedDate}
             </div>
           ) : (
             <div className="tradable-item-reference-sales">
-              {Math.round(totalSales).toLocaleString()} Recent Sales
+              Updated {updatedDate}
             </div>
           )}
         </div>

@@ -49,8 +49,8 @@ const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
   const canonicalPath = `${routes.item()}/${itemName}`
   const metaTitle = `${itemName} Price Check & Market Value | ESO Market Tracker`
   const metaDescription = averagePrice
-    ? `Check the current ${itemName} price in ESO. Average console sale price: ${averagePrice.toLocaleString()} gold, with recent range and sales history.`
-    : `Check the current ${itemName} price, market value, recent sales, and console trading history in The Elder Scrolls Online.`
+    ? `Check the current ${itemName} price in ESO. Average console market price: ${averagePrice.toLocaleString()} gold, with recent range and price history.`
+    : `Check the current ${itemName} price, market value, recent range, and console price history in The Elder Scrolls Online.`
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
