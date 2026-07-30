@@ -64,7 +64,7 @@ export const collectObservations = async () => {
   const rawData = await self.getAppData()
   logger.info('Collected Web app data')
   const results = await Results.from(rawData)
-  await Promise.all(
+  const legacyChanges = await Promise.all(
     results.observations.map((i) =>
       db.throttleFileWrites(async () => {
         logger.info(`Logging ${i.item.meta.name} for ${i.stats.date}`)
@@ -74,12 +74,11 @@ export const collectObservations = async () => {
           constants.XBOX_NA
         )
         logger.info(`Logging ${i.item.id} for ${i.stats.date}`)
-        await db.writeToFile(i.stats, targetPath)
+        return db.writeToFile(i.stats, targetPath)
       })
     )
   )
-  await segments.writeObservationSegments(
-    results.observations.map((observation) => ({
+  const segmentRecords = results.observations.map((observation) => ({
       itemId: observation.item.id,
       traitId:
         typeof observation.item.trait === 'number'
@@ -89,7 +88,21 @@ export const collectObservations = async () => {
       server: constants.XBOX_NA,
       stats: observation.stats,
     }))
+  const changedSegments = new Set(
+    await segments.writeObservationSegments(segmentRecords)
   )
 
-  return [...new Set(results.observations.map(({ item }) => item.id))]
+  return [
+    ...new Set(
+      results.observations
+        .filter(
+          (_, index) =>
+            legacyChanges[index] ||
+            changedSegments.has(
+              segments.getObservationSegmentPath(segmentRecords[index])
+            )
+        )
+        .map(({ item }) => item.id)
+    ),
+  ]
 }

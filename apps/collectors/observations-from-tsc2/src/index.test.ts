@@ -7,6 +7,7 @@ import AdmZip from 'adm-zip'
 
 describe('observations-from-tsc2', async () => {
   beforeAll(async () => {
+    vi.spyOn(index, 'getRemoteAddonVersion').mockResolvedValue(undefined)
     const code = fs
       .readFileSync(path.join(__dirname, '../docs/TSCPriceDataXBNA.min.lua'))
       .toString()
