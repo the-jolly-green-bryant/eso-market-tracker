@@ -3,6 +3,7 @@ import { useMemo, useState } from 'react'
 import { SalesRollupType } from '../models/tradable-item-types'
 import SalesChart from './SalesChart'
 import MarketSparkline from './MarketSparkline'
+import { fillDailyHistory } from './daily-history'
 
 const ranges = [
   ['3M', 93],
@@ -22,14 +23,18 @@ export default ({
   const [days, setDays] = useState(93)
   const [isDelta, setIsDelta] = useState(false)
   const [selected, setSelected] = useState<SalesRollupType | null>(null)
+  const dailyHistory = useMemo(
+    () => fillDailyHistory([...history, current]),
+    [current, history]
+  )
   const data = useMemo(() => {
     const currentTime = new Date(current.date).getTime()
     const cutoff = days ? currentTime - days * 86_400_000 : 0
-    const points = history.filter(
+    const points = dailyHistory.filter(
       (point) => new Date(point.date).getTime() >= cutoff
     )
     return points.length ? points : [current]
-  }, [current, days, history])
+  }, [current, dailyHistory, days])
   const shown = selected || current
   const startDate = new Date(data.at(0)?.date || current.date)
   const firstPrice = data.at(0)?.averageUnitPrice || shown.averageUnitPrice
