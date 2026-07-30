@@ -1,10 +1,11 @@
 import { IonMenu, IonMenuToggle, IonIcon } from '@ionic/react'
 import { chevronForwardOutline } from 'ionicons/icons'
-import { useEffect, useRef, useState } from 'react'
+import { useRef } from 'react'
 import { Link } from 'react-router-dom'
 import * as constants from '../constants'
 import * as routes from '../routes'
 import { CATEGORIES } from '../constants'
+import { MARKET_STATS } from '../marketStats'
 
 const HEADER_CONTENT = (
   <div className="navigation-menu-header">
@@ -45,49 +46,6 @@ const ABOUT_CONTENT = (
     </div>
   </div>
 )
-
-type RepoStats = {
-  lastUpdated: string
-  totalItemsAllServers: number
-}
-
-export const __fetchEsoMarketTrackerStats = async (): Promise<RepoStats> => {
-  const url =
-    'https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/README.md'
-
-  const r = await fetch(url)
-
-  if (!r.ok) {
-    throw new Error(`Failed to fetch README: ${r.status}`)
-  }
-
-  const text = await r.text()
-
-  const lastUpdatedMatch = RegExp(/Last Updated:\s*(\d{4}-\d{2}-\d{2})/m).exec(
-    text
-  )
-  if (!lastUpdatedMatch) {
-    throw new Error('Could not find "Last Updated" in README')
-  }
-
-  const serverMatches = [
-    ...text.matchAll(/(XBOX-NA|XBOX-EU|PS-NA|PS-EU)\s+|\s+(\d+?)\s+/gm),
-  ]
-
-  if (!serverMatches.length) {
-    throw new Error('Could not find server item counts in README')
-  }
-
-  const totalItemsAllServers = serverMatches.reduce(
-    (acc, cur) => acc + Number.parseInt(cur[2] ?? 0),
-    0
-  )
-
-  return {
-    lastUpdated: lastUpdatedMatch[1],
-    totalItemsAllServers,
-  }
-}
 
 const MORE_ACCESS = (
   <div className="navigation-menu-section">
@@ -175,17 +133,6 @@ const renderCategories = () => (
 
 export default () => {
   const menuRef = useRef<HTMLIonMenuElement>(null)
-  const [updateDate, setUpdateDate] = useState<string>()
-  const [tracked, setTracked] = useState<number>()
-
-  useEffect(
-    () =>
-      void __fetchEsoMarketTrackerStats().then(
-        ({ lastUpdated, totalItemsAllServers }) => (
-          setUpdateDate(lastUpdated), setTracked(totalItemsAllServers)
-        )
-      )
-  )
 
   return (
     <IonMenu contentId="main" type="push" ref={menuRef} swipeGesture={false}>
@@ -199,7 +146,7 @@ export default () => {
             <div className="navigation-menu-section-item">
               <IonMenuToggle autoHide={false}>
                 <Link to={{ pathname: routes.appStats() }}>
-                  Last Updated: {updateDate}
+                  Last Updated: {MARKET_STATS.lastUpdated}
                 </Link>
               </IonMenuToggle>
             </div>
@@ -207,7 +154,7 @@ export default () => {
             <div className="navigation-menu-section-item">
               <IonMenuToggle autoHide={false}>
                 <Link to={{ pathname: routes.appStats() }}>
-                  Unique Items: {tracked && tracked.toLocaleString()}
+                  Unique Items: {MARKET_STATS.trackedItems.toLocaleString()}
                 </Link>
               </IonMenuToggle>
             </div>
