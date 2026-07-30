@@ -1,5 +1,7 @@
+import { useId } from 'react'
 import { SalesRollupType } from '../models/tradable-item-types'
 
+/* eslint-disable max-lines-per-function -- SVG chart markup is intentionally cohesive */
 export default ({
   history,
   current,
@@ -11,6 +13,7 @@ export default ({
   compact?: boolean
   fallbackValues?: number[]
 }) => {
+  const chartId = useId().replaceAll(':', '')
   const historicalValues = history.map((point) => point.averageUnitPrice)
   const values =
     historicalValues.length > 1
@@ -25,6 +28,10 @@ export default ({
   const min = Math.min(...values)
   const max = Math.max(...values)
   const range = max - min || 1
+  const isUp = values.at(-1)! >= values.at(0)!
+  const color = isUp ? '#59c778' : '#ee695e'
+  const fillId = `market-chart-fill-${chartId}`
+  const glowId = `market-chart-glow-${chartId}`
   const points = values
     .map((value, index) => {
       const x = (index / (values.length - 1)) * width
@@ -43,21 +50,41 @@ export default ({
     >
       <defs>
         <linearGradient
-          id={compact ? 'compact-chart-fill' : 'item-chart-fill'}
+          id={fillId}
           x1="0"
           x2="0"
           y1="0"
           y2="1"
         >
-          <stop offset="0%" stopColor="#d9ad5b" stopOpacity="0.32" />
-          <stop offset="100%" stopColor="#d9ad5b" stopOpacity="0" />
+          <stop offset="0%" stopColor={color} stopOpacity="0.34" />
+          <stop offset="58%" stopColor={color} stopOpacity="0.12" />
+          <stop offset="100%" stopColor={color} stopOpacity="0" />
         </linearGradient>
+        <filter id={glowId} x="-20%" y="-30%" width="140%" height="160%">
+          <feDropShadow
+            dx="0"
+            dy="0"
+            stdDeviation="2"
+            floodColor={color}
+            floodOpacity="0.42"
+          />
+        </filter>
       </defs>
       <polygon
         points={`0,${height} ${points} ${width},${height}`}
-        fill={`url(#${compact ? 'compact-chart-fill' : 'item-chart-fill'})`}
+        fill={`url(#${fillId})`}
       />
-      <polyline points={points} fill="none" stroke="#e4b85f" strokeWidth="3" />
+      <polyline
+        points={points}
+        fill="none"
+        filter={`url(#${glowId})`}
+        stroke={color}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={compact ? 2 : 2.5}
+        vectorEffect="non-scaling-stroke"
+      />
     </svg>
   )
 }
+/* eslint-enable max-lines-per-function */

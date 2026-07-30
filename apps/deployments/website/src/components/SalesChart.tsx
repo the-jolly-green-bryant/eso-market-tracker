@@ -9,6 +9,8 @@ import {
   TimeScale,
   Tooltip,
   Legend,
+  Filler,
+  ScriptableContext,
 } from 'chart.js'
 import AnnotationPlugin from 'chartjs-plugin-annotation'
 import 'chartjs-adapter-luxon'
@@ -27,6 +29,7 @@ ChartJS.register(
   TimeScale,
   Tooltip,
   Legend,
+  Filler,
   AnnotationPlugin
 )
 
@@ -204,17 +207,48 @@ const _getMissingDataAnnotation =
   }
 
 const _getScales = (startDate: Date) => ({
-  x: { display: false, min: startDate, type: 'time' },
-  y: { display: false, stacked: false, ticks: { beginAtZero: false } },
-  y1: { type: 'linear', display: false },
+  x: {
+    display: false,
+    min: startDate,
+    type: 'time',
+    grid: { display: false },
+  },
+  y: {
+    display: false,
+    stacked: false,
+    grace: '12%',
+    grid: { display: false },
+    ticks: { beginAtZero: false },
+  },
+  y1: {
+    type: 'linear',
+    display: false,
+    grid: { display: false },
+  },
 })
 
 const COMMON_CHART_OPTIONS = {
-  interaction: { mode: 'nearest' as const },
+  interaction: {
+    mode: 'nearest' as const,
+    axis: 'x' as const,
+    intersect: false,
+  },
   responsive: true,
   animation: false,
   maintainAspectRatio: false,
-  elements: { point: { radius: 0 } },
+  elements: {
+    line: {
+      borderCapStyle: 'round' as const,
+      borderJoinStyle: 'round' as const,
+      borderWidth: 2,
+      tension: 0.18,
+    },
+    point: {
+      hitRadius: 18,
+      hoverRadius: 0,
+      radius: 0,
+    },
+  },
   events: [
     'mouseup' as const,
     'mousedown' as const,
@@ -234,7 +268,23 @@ const _getSalesColor =
           rollups[rollups.length - 1].averageUnitPrice
         : rollups[0].totalSales < rollups[rollups.length - 1].totalSales
 
-    return salesUp ? '#7dc579' : '#ff8181'
+    return salesUp ? '#59c778' : '#ee695e'
+  }
+
+const _getChartFill =
+  (color: string) => (context: ScriptableContext<'line'>) => {
+    const { chart } = context
+    const { ctx, chartArea } = chart
+    const gradient = ctx.createLinearGradient(
+      0,
+      chartArea?.top ?? 0,
+      0,
+      chartArea?.bottom ?? chart.height
+    )
+    gradient.addColorStop(0, `${color}48`)
+    gradient.addColorStop(0.55, `${color}1c`)
+    gradient.addColorStop(1, `${color}00`)
+    return gradient
   }
 
 const useGraphInteractions = (
@@ -370,6 +420,7 @@ export default ({
     plugins: {
       annotation: { annotations: getAnnotations() },
       legend: { display: false },
+      tooltip: { enabled: false },
       salesChart: { onMouseDown, onMouseUp, onMouseMove },
     },
     scales: _getScales(startDate),
@@ -398,13 +449,20 @@ export default ({
         options={chartOptions}
         data={{
           labels: data[selectedKey].map((rollup) => rollup.date),
-          datasets: Object.values(data).map((keyedData) => ({
-            label: 'Dataset 1',
-            data: _formatData(keyedData),
-            borderColor: _getSalesColor(currentStat)(keyedData),
-            borderDash: new Array<number>(),
-            yAxisID: 'y',
-          })),
+          datasets: Object.values(data).map((keyedData) => {
+            const color = _getSalesColor(currentStat)(keyedData)
+            return {
+              label: 'Price history',
+              data: _formatData(keyedData),
+              backgroundColor: _getChartFill(color),
+              borderColor: color,
+              borderDash: new Array<number>(),
+              cubicInterpolationMode: 'monotone' as const,
+              fill: 'start',
+              tension: 0.18,
+              yAxisID: 'y',
+            }
+          }),
         }}
       />
     </div>

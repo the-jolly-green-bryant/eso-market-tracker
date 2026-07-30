@@ -11,6 +11,7 @@ const ranges = [
   ['All', 0],
 ] as const
 
+/* eslint-disable max-lines-per-function -- chart controls and readout are intentionally cohesive */
 export default ({
   history,
   current,
@@ -18,7 +19,7 @@ export default ({
   history: SalesRollupType[]
   current: SalesRollupType
 }) => {
-  const [days, setDays] = useState(730)
+  const [days, setDays] = useState(93)
   const [isDelta, setIsDelta] = useState(false)
   const [selected, setSelected] = useState<SalesRollupType | null>(null)
   const data = useMemo(() => {
@@ -31,6 +32,12 @@ export default ({
   }, [current, days, history])
   const shown = selected || current
   const startDate = new Date(data.at(0)?.date || current.date)
+  const firstPrice = data.at(0)?.averageUnitPrice || shown.averageUnitPrice
+  const trend = firstPrice
+    ? ((shown.averageUnitPrice - firstPrice) / firstPrice) * 100
+    : 0
+  const rangeLabel =
+    ranges.find(([, value]) => value === days)?.[0] || 'Selected'
 
   return (
     <>
@@ -54,8 +61,20 @@ export default ({
         </button>
       </div>
       <div className="market-chart-readout">
-        <strong>{Math.round(shown.averageUnitPrice).toLocaleString()} gold</strong>
-        <span>{shown.date} · click and drag to inspect</span>
+        <div>
+          <strong>
+            {Math.round(shown.averageUnitPrice).toLocaleString()} gold
+          </strong>
+          <b className={trend >= 0 ? 'is-up' : 'is-down'}>
+            {trend >= 0 ? '+' : ''}
+            {trend.toFixed(1)}%
+            <small>{rangeLabel} trend</small>
+          </b>
+        </div>
+        <span>
+          <b>{shown.date}</b>
+          <small>Click and drag to inspect</small>
+        </span>
       </div>
       <div className="market-interactive-chart">
         {data.length > 1 ? (
@@ -84,3 +103,4 @@ export default ({
     </>
   )
 }
+/* eslint-enable max-lines-per-function */

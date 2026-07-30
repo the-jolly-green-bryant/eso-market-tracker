@@ -26,6 +26,20 @@ const TrendingItem = ({ name }: { name: string }) => {
   const history = __useItemHistory(name).data
   if (!item) return <div className="market-trending-card is-loading" />
 
+  const currentPrice = item.currentXboxStats.averageUnitPrice
+  const currentTime = new Date(item.currentXboxStats.date).getTime()
+  const recentHistory = (history || []).filter(
+    (point) =>
+      new Date(point.date).getTime() >= currentTime - 7 * 86_400_000
+  )
+  const chartHistory =
+    recentHistory.length > 1 ? recentHistory : (history || []).slice(-8)
+  const startingPrice =
+    chartHistory.at(0)?.averageUnitPrice || currentPrice
+  const trend = startingPrice
+    ? ((currentPrice - startingPrice) / startingPrice) * 100
+    : 0
+
   return (
     <Link className="market-trending-card" to={`${routes.item()}/${name}`}>
       <div className="market-trending-item">
@@ -36,13 +50,13 @@ const TrendingItem = ({ name }: { name: string }) => {
         )}
         <div>
           <strong>{item.displayLabel}</strong>
-          <span>{item.currentXboxStats.averageUnitPrice.toLocaleString()} gold</span>
+          <span>{currentPrice.toLocaleString()} gold</span>
         </div>
       </div>
       <MarketSparkline
         compact
-        history={history || []}
-        current={item.currentXboxStats.averageUnitPrice}
+        history={chartHistory}
+        current={currentPrice}
         fallbackValues={[
           item.currentXboxStats.minimumUnitPrice,
           item.currentXboxStats.commonUnitPriceRangeLower,
@@ -51,10 +65,12 @@ const TrendingItem = ({ name }: { name: string }) => {
           item.currentXboxStats.maximumUnitPrice,
         ]}
       />
-      <small>
-        {(history?.length || 0) > 1
-          ? `${(history?.length || 0).toLocaleString()} historical observations`
-          : 'Current market range'}
+      <small className={trend >= 0 ? 'is-up' : 'is-down'}>
+        <strong>
+          {trend >= 0 ? '+' : ''}
+          {trend.toFixed(1)}%
+        </strong>
+        <span>7d trend</span>
       </small>
     </Link>
   )
