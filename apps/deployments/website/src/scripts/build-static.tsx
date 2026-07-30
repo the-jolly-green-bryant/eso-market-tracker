@@ -237,6 +237,20 @@ const writeSitemap = async () => {
   await fs.writeFile(outFile, buildSitemapXml(entries), "utf8");
 };
 
+const createStaticServer = () =>
+  createServer({
+    server: { middlewareMode: true },
+    appType: "custom",
+    ssr: {
+      noExternal: [
+        "@ionic/core",
+        "@ionic/react",
+        "@ionic/react-router",
+        "ionicons",
+      ],
+    },
+  });
+
 const main = async () => {
   const changedIds = new Set(
     (process.env.ESO_CHANGED_ITEM_IDS || "")
@@ -245,10 +259,7 @@ const main = async () => {
       .map(Number),
   );
   const incremental = changedIds.size > 0;
-  const vite = await createServer({
-    server: { middlewareMode: true },
-    appType: "custom",
-  });
+  const vite = await createStaticServer();
 
   const template = await fs.readFile(
     path.join(distPath, "index.html"),

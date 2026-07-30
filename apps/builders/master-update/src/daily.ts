@@ -16,7 +16,18 @@ const websiteDirectory = path.resolve(
   "../../../deployments/website",
 );
 
-const itemIds = await importObservations();
+const timed = async <T>(label: string, operation: () => Promise<T>) => {
+  const startedAt = performance.now();
+  try {
+    return await operation();
+  } finally {
+    console.log(
+      `${label}: ${((performance.now() - startedAt) / 1000).toFixed(2)}s`,
+    );
+  }
+};
+
+const itemIds = await timed("Collect observations", importObservations);
 
 if (itemIds.length === 0) {
   console.log("No observations were collected; nothing to rebuild.");
@@ -24,15 +35,23 @@ if (itemIds.length === 0) {
 }
 
 console.log(`Rebuilding ${itemIds.length} changed items.`);
-await prepareDatabase(itemIds);
-await buildApi({ internalIds: itemIds });
-await buildAddon();
+await timed("Build incremental pricing", () => prepareDatabase(itemIds));
+if (process.env.ESO_SKIP_REMOTE_PUBLISH === "1") {
+  console.log("Publish incremental API: skipped");
+} else {
+  await timed("Publish incremental API", () =>
+    buildApi({ internalIds: itemIds }),
+  );
+}
+await timed("Build addon", buildAddon);
 
-execFileSync("pnpm", ["run", "build:static:incremental"], {
-  cwd: websiteDirectory,
-  stdio: "inherit",
-  env: {
-    ...process.env,
-    ESO_CHANGED_ITEM_IDS: itemIds.join(","),
-  },
+await timed("Build incremental website", async () => {
+  execFileSync("pnpm", ["run", "build:static:incremental"], {
+    cwd: websiteDirectory,
+    stdio: "inherit",
+    env: {
+      ...process.env,
+      ESO_CHANGED_ITEM_IDS: itemIds.join(","),
+    },
+  });
 });
