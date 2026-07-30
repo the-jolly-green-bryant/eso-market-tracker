@@ -89,8 +89,7 @@ const MORE_ACCESS = (
         <IonMenuToggle autoHide={false}>
           <Link
             to={{
-              pathname:
-                'https://mods.bethesda.net/en/elderscrollsonline/details/34e80603-bb75-4802-afba-3f14e07fece5/BETA___Market_Tracker___Guild_Pricing_Assistant',
+              pathname: 'https://tamrielsavings.com/price-fetcher',
             }}
             target="_blank"
           >

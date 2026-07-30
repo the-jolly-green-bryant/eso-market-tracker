@@ -45,10 +45,10 @@ const accessCards = [
   },
   {
     title: 'Install the add-on',
-    description: 'Bring market guidance directly into your ESO experience.',
-    href: 'https://mods.bethesda.net/en/elderscrollsonline/details/34e80603-bb75-4802-afba-3f14e07fece5/BETA___Market_Tracker___Guild_Pricing_Assistant',
+    description: 'Install the unified TSC2 price checker for console markets.',
+    href: 'https://tamrielsavings.com/price-fetcher',
     icon: cubeOutline,
-    action: 'Get the add-on',
+    action: 'Get TSC2',
   },
   {
     title: 'Data access',
