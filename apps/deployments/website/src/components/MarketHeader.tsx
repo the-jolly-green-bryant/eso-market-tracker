@@ -1,12 +1,71 @@
-import { IonMenuButton } from '@ionic/react'
-import { Link } from 'react-router-dom'
+import { useEffect, useState } from 'react'
+import { Link, useLocation } from 'react-router-dom'
 
 import { PLATFORMS, MarketPlatform, usePlatform } from '../platform'
 import * as routes from '../routes'
 import './MarketHeader.scss'
 
+const isPathActive = (pathname: string, ...prefixes: string[]) =>
+  prefixes.some((prefix) => pathname.startsWith(prefix))
+
+const InternalLinks = ({ pathname }: { pathname: string }) => (
+  <>
+    <Link
+      className={
+        isPathActive(pathname, routes.dashboard(), routes.item())
+          ? 'is-active'
+          : ''
+      }
+      to={`${routes.dashboard()}/`}
+    >
+      Market
+    </Link>
+    <Link
+      className={
+        isPathActive(pathname, routes.categories(), routes.category())
+          ? 'is-active'
+          : ''
+      }
+      to={routes.categories()}
+    >
+      Categories
+    </Link>
+    <Link
+      className={isPathActive(pathname, routes.apiDocs()) ? 'is-active' : ''}
+      to={routes.apiDocs()}
+    >
+      API
+    </Link>
+  </>
+)
+
+const ExternalLinks = () => (
+  <>
+    <a
+      className="market-nav-external"
+      href="https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Data <span aria-hidden="true">↗</span>
+    </a>
+    <a
+      className="market-nav-external"
+      href="https://github.com/the-jolly-green-bryant/eso-market-tracker"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GitHub <span aria-hidden="true">↗</span>
+    </a>
+  </>
+)
+
 export default () => {
   const { platform, setPlatform } = usePlatform()
+  const location = useLocation()
+  const [menuOpen, setMenuOpen] = useState(false)
+
+  useEffect(() => setMenuOpen(false), [location.pathname])
 
   return (
     <header className="market-header">
@@ -20,25 +79,8 @@ export default () => {
       </Link>
 
       <nav className="market-nav" aria-label="Primary navigation">
-        <Link to={`${routes.dashboard()}/`}>Market</Link>
-        <Link to={routes.categories()}>Categories</Link>
-        <Link to={routes.apiDocs()}>API</Link>
-        <a
-          className="market-nav-external"
-          href="https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Data <span aria-hidden="true">↗</span>
-        </a>
-        <a
-          className="market-nav-external"
-          href="https://github.com/the-jolly-green-bryant/eso-market-tracker"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          GitHub <span aria-hidden="true">↗</span>
-        </a>
+        <InternalLinks pathname={location.pathname} />
+        <ExternalLinks />
       </nav>
 
       <div className="market-header-actions">
@@ -64,9 +106,25 @@ export default () => {
         </div>
       </div>
 
-      <div className="market-mobile-menu">
-        <IonMenuButton />
-      </div>
+      <button
+        className="market-mobile-menu"
+        type="button"
+        aria-label={menuOpen ? 'Close navigation' : 'Open navigation'}
+        aria-expanded={menuOpen}
+        onClick={() => setMenuOpen((open) => !open)}
+      >
+        <span />
+        <span />
+        <span />
+      </button>
+
+      {menuOpen && (
+        <nav className="market-mobile-nav" aria-label="Mobile navigation">
+          <InternalLinks pathname={location.pathname} />
+          <div className="market-mobile-nav-divider" />
+          <ExternalLinks />
+        </nav>
+      )}
     </header>
   )
 }

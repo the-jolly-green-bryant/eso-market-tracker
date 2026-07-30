@@ -35,12 +35,30 @@
     margin-left: 7%;
 
     a {
+        border-radius: 5px;
         color: #a9a69f;
         font-size: 12px;
+        padding: 7px 2px;
+        position: relative;
         text-decoration: none;
 
         &:hover {
             color: #e4b85f;
+        }
+
+        &.is-active {
+            color: #f2ce7e;
+
+            &::after {
+                background: #d9ad5b;
+                border-radius: 999px;
+                bottom: 0;
+                content: '';
+                height: 2px;
+                left: 2px;
+                position: absolute;
+                right: 2px;
+            }
         }
     }
 
@@ -111,6 +129,35 @@
     display: none;
 }
 
+.market-mobile-nav {
+    background: rgb(11 13 15 / 98%);
+    border-bottom: 1px solid rgb(217 173 91 / 24%);
+    box-shadow: 0 24px 48px rgb(0 0 0 / 45%);
+    display: none;
+    left: 0;
+    padding: 14px 18px 18px;
+    position: absolute;
+    right: 0;
+    top: 100%;
+
+    a {
+        border-radius: 7px;
+        color: #c8c4bb;
+        padding: 12px 14px;
+        text-decoration: none;
+
+        &.is-active {
+            background: rgb(217 173 91 / 12%);
+            color: #f2ce7e;
+        }
+    }
+
+    &-divider {
+        border-top: 1px solid rgb(217 173 91 / 16%);
+        margin: 7px 0;
+    }
+}
+
 .sr-only {
     position: absolute;
     width: 1px;
@@ -131,6 +178,33 @@
         display: none;
     }
 
+    .market-mobile-menu {
+        align-items: center;
+        background: #111418;
+        border: 1px solid rgb(244 241 234 / 14%);
+        border-radius: 8px;
+        cursor: pointer;
+        display: flex;
+        flex: 0 0 36px;
+        flex-direction: column;
+        gap: 4px;
+        height: 34px;
+        justify-content: center;
+        margin-left: 8px;
+        padding: 0;
+
+        span {
+            background: #d9ad5b;
+            border-radius: 2px;
+            height: 1px;
+            width: 15px;
+        }
+    }
+
+    .market-mobile-nav {
+        display: grid;
+    }
+
     .market-brand {
         font-size: 12px;
     }
@@ -147,5 +221,19 @@
         select {
             max-width: 92px;
         }
+    }
+}
+
+@media (max-width: 500px) {
+    .market-brand > span {
+        display: none;
+    }
+
+    .market-header {
+        padding: 0 12px;
+    }
+
+    .market-platform {
+        margin-left: auto;
     }
 }
