@@ -63,17 +63,22 @@ const getDeltaValue = (data: SalesRollupType[], index: number) => {
   return targetRollup.averageUnitPrice - precedingRollup.averageUnitPrice
 }
 
-const MISSING_START_DATE = new Date('2022-08-16')
-const MISSING_END_DATE = new Date('2023-05-23')
+const DATA_GAPS = [
+  [new Date('2022-08-16'), new Date('2023-05-23')],
+  [new Date('2024-11-15'), new Date('2025-07-10')],
+] as const
 
-const _getDataGapAnnotation = (startDate: Date) => {
+const _getDataGapAnnotation = (
+  startDate: Date,
+  [missingStartDate, missingEndDate]: (typeof DATA_GAPS)[number],
+) => {
   // If our start date is before our known gap, display an annotation for the
   //  missing data.
 
-  const containsStart = startDate.getTime() < MISSING_START_DATE.getTime()
+  const containsStart = startDate.getTime() < missingStartDate.getTime()
   const containsEnd =
-    startDate.getTime() > MISSING_START_DATE.getTime() &&
-    startDate.getTime() < MISSING_END_DATE.getTime()
+    startDate.getTime() > missingStartDate.getTime() &&
+    startDate.getTime() < missingEndDate.getTime()
 
   if (!containsStart && !containsEnd) {
     return []
@@ -86,8 +91,8 @@ const _getDataGapAnnotation = (startDate: Date) => {
       xScaleID: 'x',
       backgroundColor: '#282B2D',
       borderWidth: 0,
-      xMin: containsStart ? MISSING_START_DATE : undefined,
-      xMax: MISSING_END_DATE,
+      xMin: containsStart ? missingStartDate : undefined,
+      xMax: missingEndDate,
       label: {
         color: '#f3f3f84d',
         backgroundColor: '#282B2D',
@@ -104,8 +109,8 @@ const _getDataGapAnnotation = (startDate: Date) => {
       xScaleID: 'x',
       backgroundColor: 'transparent',
       borderDash: [10, 10],
-      xMin: MISSING_END_DATE,
-      xMax: MISSING_END_DATE,
+      xMin: missingEndDate,
+      xMax: missingEndDate,
       borderColor: '#f3f3f84d',
     },
     ...(containsStart
@@ -117,8 +122,8 @@ const _getDataGapAnnotation = (startDate: Date) => {
             xScaleID: 'x',
             backgroundColor: 'transparent',
             borderDash: [10, 10],
-            xMin: MISSING_START_DATE,
-            xMax: MISSING_START_DATE,
+            xMin: missingStartDate,
+            xMax: missingStartDate,
             borderColor: '#f3f3f84d',
           },
         ]
@@ -309,7 +314,7 @@ export default ({
 
   const getAnnotations = () => [
     ...(mouseIsDown ? [..._dataPointAnnotation(selectedPoint)] : []),
-    ..._getDataGapAnnotation(startDate),
+    ...DATA_GAPS.flatMap((gap) => _getDataGapAnnotation(startDate, gap)),
   ]
 
   const chartOptions = {

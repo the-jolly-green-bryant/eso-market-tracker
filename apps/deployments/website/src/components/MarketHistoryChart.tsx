@@ -6,6 +6,7 @@ import MarketSparkline from './MarketSparkline'
 import { fillDailyHistory } from './daily-history'
 
 const ranges = [
+  ['1M', 31],
   ['3M', 93],
   ['1Y', 365],
   ['2Y', 730],
