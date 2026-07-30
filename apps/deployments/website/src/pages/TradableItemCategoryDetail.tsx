@@ -53,7 +53,7 @@ export default ({ staticData }: CategoryProps) => {
     <PageContainer
       pageTitle={slug}
       metaTitle={`${slug} ESO Prices | ESO Market Tracker`}
-      metaDescription={`Compare current ESO console prices and sales information for ${slug}, including Xbox and PlayStation market values.`}
+      metaDescription={`Compare current ESO console prices and market information for ${slug}, including Xbox and PlayStation market values.`}
       canonicalPath={`${constants.CATEGORY_PATH}/${slug}`}
     >
       {!staticData && loading && LOADING_STATE}

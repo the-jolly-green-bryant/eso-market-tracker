@@ -30,7 +30,7 @@ ChartJS.register(
   Tooltip,
   Legend,
   Filler,
-  AnnotationPlugin
+  AnnotationPlugin,
 )
 
 ChartJS.register({
@@ -53,20 +53,14 @@ ChartJS.register({
   },
 })
 
-const getDeltaValue = (
-  data: SalesRollupType[],
-  index: number,
-  targetStat: 'average' | 'sales'
-) => {
+const getDeltaValue = (data: SalesRollupType[], index: number) => {
   if (index == 0) {
     return 0
   }
 
   const targetRollup = data.at(index)!
   const precedingRollup = data.at(index - 1)!
-  return targetStat == 'average'
-    ? targetRollup.averageUnitPrice - precedingRollup.averageUnitPrice
-    : targetRollup.totalSales - precedingRollup.totalSales
+  return targetRollup.averageUnitPrice - precedingRollup.averageUnitPrice
 }
 
 const MISSING_START_DATE = new Date('2022-08-16')
@@ -132,80 +126,6 @@ const _getDataGapAnnotation = (startDate: Date) => {
   ]
 }
 
-const _getMissingDataAnnotation =
-  (
-    data: Record<string, SalesRollupType[]>,
-    currentStat: 'average' | 'sales',
-    startDate: Date,
-    isDelta: boolean,
-    currentStatInverse: 'average' | 'sales'
-  ) =>
-  (key: string) => {
-    const initialSales = data[key].at(0)?.totalSales
-    const initialAverage = data[key].at(0)?.averageUnitPrice
-    const initialStatInverse =
-      currentStat != 'average' ? initialAverage : initialSales
-    const initialStat = currentStat == 'average' ? initialAverage : initialSales
-
-    if (
-      data[key].length ||
-      startDate.getTime() != new Date(data[key][0].date).getTime()
-    ) {
-      return []
-    }
-
-    return [
-      // Annotation is start date to first data point.
-      {
-        type: 'line',
-        mode: 'horizontal',
-        yScaleID: 'y',
-        xScaleID: 'x',
-        borderDash: [4, 4],
-        value: !isDelta
-          ? initialStat
-          : getDeltaValue(data[key], 0, currentStat),
-        xMin: startDate,
-        xMax: data[key][0].date,
-        yMin: !isDelta ? initialStat : getDeltaValue(data[key], 0, currentStat),
-        yMax: !isDelta ? initialStat : getDeltaValue(data[key], 0, currentStat),
-        borderColor: '#f3f3f84d',
-        label: {
-          color: '#f3f3f84d',
-          backgroundColor: '#282B2D',
-          display: MISSING_START_DATE <= new Date(data[key][0].date),
-          position: 'top',
-        },
-      },
-      // Add an annotation for the opposite graph as well.
-      {
-        type: 'line',
-        mode: 'horizontal',
-        yScaleID: 'y1',
-        xScaleID: 'x',
-        borderDash: [4, 4],
-        value: !isDelta
-          ? initialStatInverse
-          : getDeltaValue(data[key], 0, currentStatInverse),
-        xMin: startDate,
-        xMax: data[key][0].date,
-        yMin: !isDelta
-          ? initialStatInverse
-          : getDeltaValue(data[key], 0, currentStatInverse),
-        yMax: !isDelta
-          ? initialStatInverse
-          : getDeltaValue(data[key], 0, currentStatInverse),
-        borderColor: '#f3f3f84d',
-        label: {
-          color: '#f3f3f84d',
-          backgroundColor: '#282B2D',
-          display: MISSING_START_DATE <= new Date(data[key][0].date),
-          position: 'top',
-        },
-      },
-    ]
-  }
-
 const _getScales = (startDate: Date) => ({
   x: {
     display: false,
@@ -219,11 +139,6 @@ const _getScales = (startDate: Date) => ({
     grace: '12%',
     grid: { display: false },
     ticks: { beginAtZero: false },
-  },
-  y1: {
-    type: 'linear',
-    display: false,
-    grid: { display: false },
   },
 })
 
@@ -260,16 +175,10 @@ const COMMON_CHART_OPTIONS = {
   ],
 }
 
-const _getSalesColor =
-  (currentStat: 'average' | 'sales') => (rollups: SalesRollupType[]) => {
-    const salesUp =
-      currentStat == 'average'
-        ? rollups[0].averageUnitPrice <
-          rollups[rollups.length - 1].averageUnitPrice
-        : rollups[0].totalSales < rollups[rollups.length - 1].totalSales
-
-    return salesUp ? '#59c778' : '#ee695e'
-  }
+const _getPriceColor = (rollups: SalesRollupType[]) =>
+  rollups[0].averageUnitPrice < rollups[rollups.length - 1].averageUnitPrice
+    ? '#59c778'
+    : '#ee695e'
 
 const _getChartFill =
   (color: string) => (context: ScriptableContext<'line'>) => {
@@ -279,7 +188,7 @@ const _getChartFill =
       0,
       chartArea?.top ?? 0,
       0,
-      chartArea?.bottom ?? chart.height
+      chartArea?.bottom ?? chart.height,
     )
     gradient.addColorStop(0, `${color}48`)
     gradient.addColorStop(0.55, `${color}1c`)
@@ -291,12 +200,12 @@ const useGraphInteractions = (
   data: Record<string, SalesRollupType[]>,
   selectedKey: string,
   onDataPointChanged?: (arg0: SalesRollupType) => void,
-  onDataPointReleased?: () => void
+  onDataPointReleased?: () => void,
 ) => {
   const chartRef = useRef<React.ComponentRef<typeof Line>>()
   const [mouseIsDown, setMouseIsDown] = useState(false)
   const [selectedPoint, setSelectedPoint] = useState<SalesRollupType | null>(
-    null
+    null,
   )
 
   const onSelectDataPoint = (point: SalesRollupType) => {
@@ -372,7 +281,6 @@ export default ({
   startDate,
   data,
   selectedKey,
-  currentStat = 'average',
   isDelta = false,
   onDataPointChanged,
   onDataPointReleased,
@@ -380,12 +288,10 @@ export default ({
   startDate: Date
   data: Record<string, SalesRollupType[]>
   selectedKey: string
-  currentStat?: 'average' | 'sales'
   isDelta?: boolean
   onDataPointChanged?: (point: SalesRollupType) => void
   onDataPointReleased?: () => void
 }) => {
-  const currentStatInverse = currentStat == 'average' ? 'sales' : 'average'
   const {
     mouseIsDown,
     selectedPoint,
@@ -398,19 +304,10 @@ export default ({
     data,
     selectedKey,
     onDataPointChanged,
-    onDataPointReleased
-  )
-
-  const getMissingDataAnnotation = _getMissingDataAnnotation(
-    data,
-    currentStat,
-    startDate,
-    isDelta,
-    currentStatInverse
+    onDataPointReleased,
   )
 
   const getAnnotations = () => [
-    ...Object.keys(data).flatMap((key) => getMissingDataAnnotation(key)),
     ...(mouseIsDown ? [..._dataPointAnnotation(selectedPoint)] : []),
     ..._getDataGapAnnotation(startDate),
   ]
@@ -426,17 +323,15 @@ export default ({
     scales: _getScales(startDate),
   }
 
-  const getPreferredValue = (ifAvg: number, ifTotal: number, ifDelta: number) =>
-    (isDelta && ifDelta) ||
-    Math.round(currentStat == 'average' ? ifAvg : ifTotal)
+  const getPreferredValue = (average: number, delta: number) =>
+    isDelta ? delta : Math.round(average)
 
   const _formatData = (keyedData: SalesRollupType[]) =>
     keyedData.map((rollup, index) => ({
       x: rollup.date,
       y: getPreferredValue(
         rollup.averageUnitPrice,
-        rollup.totalSales,
-        getDeltaValue(keyedData, index, currentStat)
+        getDeltaValue(keyedData, index),
       ),
     }))
 
@@ -450,7 +345,7 @@ export default ({
         data={{
           labels: data[selectedKey].map((rollup) => rollup.date),
           datasets: Object.values(data).map((keyedData) => {
-            const color = _getSalesColor(currentStat)(keyedData)
+            const color = _getPriceColor(keyedData)
             return {
               label: 'Price history',
               data: _formatData(keyedData),

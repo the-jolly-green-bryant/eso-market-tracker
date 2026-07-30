@@ -9,14 +9,11 @@ type SalesRollupReferenceType = {
   greenAverageUnitPrice: number
   numberOfQualitiesTracked: number
   purpleAverageUnitPrice: number
-  totalSales: number
-  recentSales: number
-  totalUnitsSold: number
   whiteAverageUnitPrice: number
 }
 
 /**
- * An aggregate snapshot of sales.
+ * An aggregate market-price snapshot.
  */
 export type SalesRollupType = SalesRollupReferenceType & {
   commonUnitPriceRangeLower: number
@@ -24,9 +21,6 @@ export type SalesRollupType = SalesRollupReferenceType & {
   maximumUnitPrice: number
   medianUnitPrice: number
   minimumUnitPrice: number
-  totalSales: number
-  recentSales: number
-  totalUnitsSold: number
 }
 
 /**
@@ -48,7 +42,7 @@ export type TradableItemReferenceType = {
 }
 
 /**
- * Item details including sales info
+ * Item details including market-price information
  */
 export type TradableItemType = TradableItemReferenceType & {
   raw?: Record<string, Record<string, { average: number }>>
@@ -64,7 +58,6 @@ export type TradableItemType = TradableItemReferenceType & {
   craftableSlug?: string
   refinableSlug?: string
   labelForAverage?: string
-  labelForSales?: string
   platform?: string
   availablePlatforms?: string[]
 }

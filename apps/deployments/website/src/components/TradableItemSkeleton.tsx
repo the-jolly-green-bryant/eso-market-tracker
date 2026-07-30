@@ -91,7 +91,7 @@ const CONTENT = (
               <IonIcon icon={cashOutline}></IonIcon>
             </div>
             <div className="tradable-item-stat-label skeleton-loader-item is-inverted">
-              Recent Sales
+              Break Even
             </div>
 
             <div className="tradable-item-stat-value skeleton-loader-item is-inverted">

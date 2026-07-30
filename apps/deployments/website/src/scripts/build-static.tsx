@@ -171,7 +171,7 @@ const renderItemSeoPage = (item: TradableItemType) => {
   const price = Math.round(item.currentXboxStats.averageUnitPrice);
   const canonicalUrl = BASE_URL + encodeURI(`/item/${itemName}`);
   const title = `${itemName} Price Check & Market Value | ESO Market Tracker`;
-  const description = `Check the current ${itemName} price in ESO. Average console sale price: ${price.toLocaleString()} gold, with recent range and sales history.`;
+  const description = `Check the current ${itemName} price in ESO. Average console market price: ${price.toLocaleString()} gold, with recent range and price history.`;
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [

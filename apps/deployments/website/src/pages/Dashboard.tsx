@@ -178,7 +178,7 @@ const Hero = ({
             <button key={item} onClick={() => onPerformSearch(item)}>
               {item}
             </button>
-          )
+          ),
         )}
       </div>
 
@@ -254,7 +254,7 @@ const DefaultContent = () => (
         Search current Elder Scrolls Online market values for Xbox and
         PlayStation, from Dreugh Wax and Kuta to furnishing plans, motifs, gear,
         and materials. ESO Market Tracker provides public price history and
-        recent console sales data for more than{' '}
+        recent console market observations for more than{' '}
         {MARKET_STATS.trackedItems.toLocaleString()} items.
       </p>
       <p>
@@ -286,7 +286,10 @@ export default () => {
 
   useEffect(() => {
     const focusSearch = (event: globalThis.KeyboardEvent) => {
-      if (event.key.toLowerCase() !== 'k' || (!event.metaKey && !event.ctrlKey)) {
+      if (
+        event.key.toLowerCase() !== 'k' ||
+        (!event.metaKey && !event.ctrlKey)
+      ) {
         return
       }
 
@@ -305,12 +308,9 @@ export default () => {
         <title>ESO Price Checker for Xbox & PlayStation | Market Tracker</title>
         <meta
           name="description"
-          content="Check ESO prices for Xbox and PlayStation. Search current market values, recent sales, and history for Dreugh Wax, Kuta, motifs, gear, and 44,000+ items."
+          content="Check ESO prices for Xbox and PlayStation. Search current market values, price observations, and history for Dreugh Wax, Kuta, motifs, gear, and 44,000+ items."
         />
-        <link
-          rel="canonical"
-          href="https://esomarkettracker.com/dashboard/"
-        />
+        <link rel="canonical" href="https://esomarkettracker.com/dashboard/" />
         <meta
           property="og:title"
           content="ESO Price Checker for Xbox & PlayStation"

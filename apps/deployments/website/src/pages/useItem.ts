@@ -69,9 +69,6 @@ export const _responseToHistory = (json: GitResponse[]) =>
       date: i.date,
       maximumUnitPrice: i.maximum,
       minimumUnitPrice: i.minimum,
-      totalSales: 1,
-      recentSales: 1,
-      totalUnitsSold: 1,
       medianUnitPrice: (i.minimum + i.maximum) / 2,
     }))
     .sort((a, b) => a.date.localeCompare(b.date)) as SalesRollupType[]
@@ -112,9 +109,6 @@ export const _responseToItem = (
       date: baseRaw.date,
       maximumUnitPrice: baseRaw.maximum,
       minimumUnitPrice: baseRaw.minimum,
-      totalSales: 1,
-      recentSales: 1,
-      totalUnitsSold: 1,
       medianUnitPrice: (baseRaw.minimum + baseRaw.maximum) / 2,
       whiteAverageUnitPrice: safePlatform['01'] && safePlatform['01'].average,
       greenAverageUnitPrice: safePlatform['02'] && safePlatform['02'].average,
