@@ -3,54 +3,54 @@
     "name": "ESO Market Tracker",
     "icons": [
         {
-            "src": "assets/icon/favicon.ico",
+            "src": "favicon.ico",
             "sizes": "64x64 32x32 24x24 16x16",
             "type": "image/x-icon"
         },
         {
-            "src": "assets/icon/icon.png",
+            "src": "assets/images/icon-marketing.png",
             "type": "image/png",
-            "sizes": "512x512",
-            "purpose": "maskable"
+            "sizes": "1024x1024",
+            "purpose": "any maskable"
         },
         {
-            "src": "assets/icons/icon-48.webp",
+            "src": "assets/icons/icon-48.png",
             "type": "image/png",
             "sizes": "48x48",
             "purpose": "any maskable"
         },
         {
-            "src": "assets/icons/icon-72.webp",
+            "src": "assets/icons/icon-72.png",
             "type": "image/png",
             "sizes": "72x72",
             "purpose": "any maskable"
         },
         {
-            "src": "assets/icons/icon-96.webp",
+            "src": "assets/icons/icon-96.png",
             "type": "image/png",
             "sizes": "96x96",
             "purpose": "any maskable"
         },
         {
-            "src": "assets/icons/icon-128.webp",
+            "src": "assets/icons/icon-128.png",
             "type": "image/png",
             "sizes": "128x128",
             "purpose": "any maskable"
         },
         {
-            "src": "assets/icons/icon-192.webp",
+            "src": "assets/icons/icon-192.png",
             "type": "image/png",
             "sizes": "192x192",
             "purpose": "any maskable"
         },
         {
-            "src": "assets/icons/icon-256.webp",
+            "src": "assets/icons/icon-256.png",
             "type": "image/png",
             "sizes": "256x256",
             "purpose": "any maskable"
         },
         {
-            "src": "assets/icons/icon-512.webp",
+            "src": "assets/icons/icon-512.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any maskable"
@@ -58,6 +58,6 @@
     ],
     "start_url": ".",
     "display": "standalone",
-    "theme_color": "#161719",
-    "background_color": "#6360FF"
+    "theme_color": "#0d0d0e",
+    "background_color": "#0d0d0e"
 }
