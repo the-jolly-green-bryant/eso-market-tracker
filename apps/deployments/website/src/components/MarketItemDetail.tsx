@@ -13,13 +13,19 @@ import { PLATFORMS, MarketPlatform } from '../platform'
 import * as routes from '../routes'
 import LocalImage from './LocalImage'
 import MarketHeader from './MarketHeader'
-import MarketSparkline from './MarketSparkline'
+import MarketHistoryChart from './MarketHistoryChart'
 import PlaceholderImage from './PlaceholderImage'
+import SearchBar from './SearchBar'
 import './MarketItemDetail.scss'
 
 /* eslint-disable max-lines-per-function */
 
 const gold = (value: number) => `${Math.round(value).toLocaleString()} gold`
+const goldDelta = (value: number | null) => {
+  if (value === null) return 'New'
+  const sign = value >= 0 ? '+' : ''
+  return `${sign}${gold(value)}`
+}
 
 const QualityPrices = ({ item }: { item: TradableItemType }) => {
   const trait =
@@ -65,17 +71,27 @@ export default ({
 }) => {
   const platform = (item.platform || 'xbox-na') as MarketPlatform
   const stats = item.currentXboxStats
-  const first = history.at(0)?.averageUnitPrice
-  const change = first ? ((stats.averageUnitPrice - first) / first) * 100 : null
+  const previous = [...history]
+    .reverse()
+    .find((point) => point.date !== stats.date)?.averageUnitPrice
+  const delta = previous ? stats.averageUnitPrice - previous : null
+  const change = previous ? (delta! / previous) * 100 : null
 
   return (
     <div className="market-item-page">
       <MarketHeader />
       <main className="market-item-scroll">
         <div className="market-item-shell">
-          <Link className="market-item-back" to={`${routes.dashboard()}/`}>
-            <IonIcon icon={arrowBackOutline} /> Back to market
-          </Link>
+          <div className="market-item-tools">
+            <Link className="market-item-back" to={`${routes.dashboard()}/`}>
+              <IonIcon icon={arrowBackOutline} /> Back to market
+            </Link>
+            <div className="market-item-search">
+              <SearchBar
+                placeholderText="Search another item"
+              />
+            </div>
+          </div>
 
           <section className="market-item-hero">
             <div className="market-item-identity">
@@ -102,7 +118,7 @@ export default ({
               {change !== null && (
                 <b className={change >= 0 ? 'is-up' : 'is-down'}>
                   {change >= 0 ? '+' : ''}
-                  {change.toFixed(1)}% over selected history
+                  {change.toFixed(1)}% since previous observation
                 </b>
               )}
             </div>
@@ -118,9 +134,14 @@ export default ({
                 swapHorizontalOutline,
               ],
               [
-                'Common stack',
-                stats.commonQuantity.toLocaleString(),
+                'Recent sales',
+                stats.recentSales.toLocaleString(),
                 timeOutline,
+              ],
+              [
+                'Price delta',
+                goldDelta(delta),
+                swapHorizontalOutline,
               ],
             ].map(([label, value, icon]) => (
               <div key={label}>
@@ -137,25 +158,10 @@ export default ({
                 <span>Market movement</span>
                 <h2>Price history</h2>
               </div>
-              <MarketSparkline
+              <MarketHistoryChart
                 history={history}
-                current={stats.averageUnitPrice}
-                fallbackValues={[
-                  stats.minimumUnitPrice,
-                  stats.commonUnitPriceRangeLower,
-                  stats.averageUnitPrice,
-                  stats.commonUnitPriceRangeUpper,
-                  stats.maximumUnitPrice,
-                ]}
+                current={stats}
               />
-              <div className="market-item-chart-labels">
-                <span>
-                  {history.length > 1
-                    ? history.at(0)?.date
-                    : 'Current market range'}
-                </span>
-                <span>{stats.date}</span>
-              </div>
             </section>
 
             <section className="market-item-panel market-item-guidance">

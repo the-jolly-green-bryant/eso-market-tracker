@@ -59,19 +59,21 @@ type GitResponse = {
 }
 
 export const _responseToHistory = (json: GitResponse[]) =>
-  Object.values(json).map((i) => ({
-    averageUnitPrice: i.average,
-    commonQuantity: i.commonQuantity,
-    commonUnitPriceRangeLower: i.minimum,
-    commonUnitPriceRangeUpper: i.maximum,
-    date: i.date,
-    maximumUnitPrice: i.maximum,
-    minimumUnitPrice: i.minimum,
-    totalSales: 1,
-    recentSales: 1,
-    totalUnitsSold: 1,
-    medianUnitPrice: (i.minimum + i.maximum) / 2,
-  })) as SalesRollupType[]
+  Object.values(json)
+    .map((i) => ({
+      averageUnitPrice: i.average,
+      commonQuantity: i.commonQuantity,
+      commonUnitPriceRangeLower: i.minimum,
+      commonUnitPriceRangeUpper: i.maximum,
+      date: i.date,
+      maximumUnitPrice: i.maximum,
+      minimumUnitPrice: i.minimum,
+      totalSales: 1,
+      recentSales: 1,
+      totalUnitsSold: 1,
+      medianUnitPrice: (i.minimum + i.maximum) / 2,
+    }))
+    .sort((a, b) => a.date.localeCompare(b.date)) as SalesRollupType[]
 
 export const _responseToItem = (
   json: APIItemResponse,
