@@ -19,6 +19,7 @@ import TradableItemCategoryDetail, {
 } from './pages/TradableItemCategoryDetail'
 import TradableItemDetail, { ItemProps } from './pages/TradableItemDetail'
 import TamrielSavingsAlternative from './pages/TamrielSavingsAlternative'
+import ApiDocs from './pages/ApiDocs'
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css'
@@ -42,6 +43,7 @@ import './components/components.scss'
 import * as routes from './routes'
 import { MemoryRouter } from 'react-router'
 import Analytics from './components/Analytics'
+import { PlatformProvider } from './platform'
 
 setupIonicReact()
 
@@ -101,6 +103,10 @@ const SWITCH = (initialData: unknown) => (
       <TamrielSavingsAlternative />
     </Route>
 
+    <Route path={routes.apiDocs()} exact={true}>
+      <ApiDocs />
+    </Route>
+
     <Route path="*">
       <Redirect to={`${routes.dashboard()}/`} />
     </Route>
@@ -114,15 +120,17 @@ const App: React.FC<{
   initialUrl?: string
   initialData?: unknown
 }> = ({ initialUrl, initialData }) => (
-  <IonApp>
-    <Router {...(isServer ? { initialEntries: [initialUrl ?? '/'] } : {})}>
-      <Analytics />
-      <IonSplitPane contentId="main">
-        <NavigationMenu />
-        <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>
-      </IonSplitPane>
-    </Router>
-  </IonApp>
+  <PlatformProvider>
+    <IonApp>
+      <Router {...(isServer ? { initialEntries: [initialUrl ?? '/'] } : {})}>
+        <Analytics />
+        <IonSplitPane contentId="main">
+          <NavigationMenu />
+          <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>
+        </IonSplitPane>
+      </Router>
+    </IonApp>
+  </PlatformProvider>
 )
 
 export default App

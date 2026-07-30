@@ -1,8 +1,9 @@
 import { useLocation, useParams } from 'react-router-dom'
+import { Helmet } from 'react-helmet'
 
 import LoadingSkeleton from '../components/LoadingSkeleton'
-import PageContainer from '../components/PageContainer'
-import TradableItem from '../components/TradableItem'
+import MarketHeader from '../components/MarketHeader'
+import MarketItemDetail from '../components/MarketItemDetail'
 import TradableItemSkeleton from '../components/TradableItemSkeleton'
 import {
   SalesRollupType,
@@ -100,40 +101,40 @@ const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
   }, [data])
 
   return (
-    <PageContainer
-      pageTitle={pageTitle}
-      bleedsIntoHeader={true}
-      metaTitle={metaTitle}
-      metaDescription={metaDescription}
-      canonicalPath={canonicalPath}
-      jsonLd={jsonLd}
-    >
-      {loading && <TradableItemSkeleton />}
+    <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{metaTitle}</title>
+        <meta name="description" content={metaDescription} />
+        <link
+          rel="canonical"
+          href={`https://esomarkettracker.com${encodeURI(canonicalPath)}`}
+        />
+        <meta property="og:title" content={metaTitle} />
+        <meta property="og:description" content={metaDescription} />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary" />
+        <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      </Helmet>
 
-      {error && <LoadingSkeleton error={true} />}
+      {loading && (
+        <div className="market-item-page">
+          <MarketHeader />
+          <TradableItemSkeleton />
+        </div>
+      )}
+
+      {error && (
+        <div className="market-item-page">
+          <MarketHeader />
+          <LoadingSkeleton error={true} />
+        </div>
+      )}
 
       {!error && !loading && data && historicalData && (
-        <>
-          <TradableItem
-            item={{ ...data, historicalXboxStats: historicalData }}
-          />
-          <section className="item-seo-summary">
-            <h2>{itemName} ESO price check</h2>
-            <p>
-              The current average console market value for {itemName} is{' '}
-              <strong>{averagePrice?.toLocaleString()} gold</strong>. Use the
-              price range and sales history above to compare guild trader
-              values before you buy or list this item.
-            </p>
-            <p>
-              ESO Market Tracker is a public Elder Scrolls Online price checker
-              covering Xbox and PlayStation markets with regularly refreshed,
-              versioned data.
-            </p>
-          </section>
-        </>
+        <MarketItemDetail item={data} history={historicalData} />
       )}
-    </PageContainer>
+    </>
   )
 }
 

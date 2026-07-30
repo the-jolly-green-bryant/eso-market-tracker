@@ -65,6 +65,8 @@ export type TradableItemType = TradableItemReferenceType & {
   refinableSlug?: string
   labelForAverage?: string
   labelForSales?: string
+  platform?: string
+  availablePlatforms?: string[]
 }
 
 /**

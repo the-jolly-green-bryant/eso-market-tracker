@@ -25,5 +25,6 @@ export const privacyPolicy = () => '/privacy-policy'
 export const authorizedDevelopers = () => `/authorized-developers`
 
 export const appStats = () => `/app-stats`
+export const apiDocs = () => '/api-docs'
 export const tamrielSavingsAlternative = () =>
   '/tamriel-savings-price-checker'

@@ -65,10 +65,7 @@ const MORE_ACCESS = (
 
       <div className="navigation-menu-section-item">
         <IonMenuToggle autoHide={false}>
-          <Link
-            to={{ pathname: 'https://data.esomarkettracker.com' }}
-            target="_blank"
-          >
+          <Link to={routes.apiDocs()}>
             The API
           </Link>
         </IonMenuToggle>

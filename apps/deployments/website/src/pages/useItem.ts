@@ -4,6 +4,7 @@ import {
   TradableItemType,
 } from '../models/tradable-item-types'
 import { CATEGORIES } from '../constants'
+import { MarketPlatform, usePlatform } from '../platform'
 
 export const getIdFromName = (name: string): number => {
   name = name.toLowerCase().replace(/[^a-z0-9 ]/gi, '')
@@ -21,8 +22,10 @@ export const getIdFromName = (name: string): number => {
  * The expected format for an API response from data.esomarkettracker.com
  */
 export type APIItemResponse = {
-  pricing: {
-    'xbox-na': {
+  pricing: Partial<
+    Record<
+      MarketPlatform,
+      {
       [trait: string]: {
         [quality: string]: {
           average: number
@@ -32,8 +35,9 @@ export type APIItemResponse = {
           maximum: number
         }
       }
-    }
-  }
+      }
+    >
+  >
   item: {
     internalId: number
     name: string
@@ -69,8 +73,11 @@ export const _responseToHistory = (json: GitResponse[]) =>
     medianUnitPrice: (i.minimum + i.maximum) / 2,
   })) as SalesRollupType[]
 
-export const _responseToItem = (json: APIItemResponse): TradableItemType => {
-  const platformRaw = json.pricing['xbox-na']
+export const _responseToItem = (
+  json: APIItemResponse,
+  platform: MarketPlatform = 'xbox-na'
+): TradableItemType => {
+  const platformRaw = json.pricing[platform]
 
   if (!platformRaw) {
     throw new Error(`${json.item.name} has no pricing data`)
@@ -119,10 +126,13 @@ export const _responseToItem = (json: APIItemResponse): TradableItemType => {
       itemRaw.icon && itemRaw.icon.startsWith('https')
         ? itemRaw.icon
         : `https://github.com/the-jolly-green-bryant/eso-market-tracker/blob/main/${itemRaw.icon}?raw=true`,
+    platform,
+    availablePlatforms: Object.keys(json.pricing),
   }
 }
 
 export const __useCategory = (category: keyof typeof CATEGORIES) => {
+  const { platform } = usePlatform()
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
   const [data, setData] = useState<TradableItemType[] | null>(null)
@@ -155,7 +165,9 @@ export const __useCategory = (category: keyof typeof CATEGORIES) => {
             }
 
             const raw = ((await r.json()) as APIResponse).results?.[0]
-            return raw ? _responseToItem(raw) : null
+            return raw?.pricing[platform]
+              ? _responseToItem(raw, platform)
+              : null
           })
         )
 
@@ -173,12 +185,13 @@ export const __useCategory = (category: keyof typeof CATEGORIES) => {
     void load()
 
     return () => controller.abort()
-  }, [category])
+  }, [category, platform])
 
   return { loading, error, data }
 }
 
 export const __useItem = (slug: string) => {
+  const { platform } = usePlatform()
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
   const [data, setData] = useState<TradableItemType | null>(null)
@@ -194,33 +207,39 @@ export const __useItem = (slug: string) => {
     const internalId = getIdFromName(slug.replaceAll('-', ' '))
 
     const load = async () => {
-      setLoading(true)
-      setError(null)
+      try {
+        setLoading(true)
+        setError(null)
 
-      const r = await fetch(
-        `https://data.esomarkettracker.com/item/${internalId}`,
-        { signal: controller.signal }
-      )
+        const r = await fetch(
+          `https://data.esomarkettracker.com/item/${internalId}`,
+          { signal: controller.signal }
+        )
 
-      if (!r.ok) {
-        throw new Error(`Request failed: ${r.status}`)
+        if (!r.ok) {
+          throw new Error(`Request failed: ${r.status}`)
+        }
+
+        const response = ((await r.json()) as APIResponse).results.at(0)!
+        setData(_responseToItem(response, platform))
+      } catch (e) {
+        if ((e as Error).name === 'AbortError') return
+        setError(e as Error)
+        setData(null)
+      } finally {
+        setLoading(false)
       }
-
-      const json = _responseToItem(
-        ((await r.json()) as APIResponse).results.at(0)!
-      )
-      setData(json)
-      setLoading(false)
     }
 
     void load()
     return () => controller.abort()
-  }, [slug])
+  }, [slug, platform])
 
   return { loading, error, data }
 }
 
 export const __useSearch = (text: string) => {
+  const { platform } = usePlatform()
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
   const [data, setData] = useState<TradableItemType[]>([])
@@ -249,8 +268,8 @@ export const __useSearch = (text: string) => {
 
         const raw = (await r.json()) as APIResponse
         const json = raw.results
-          .filter((i) => i.pricing['xbox-na'])
-          .map(_responseToItem)
+          .filter((i) => i.pricing[platform])
+          .map((item) => _responseToItem(item, platform))
         setData(json)
       } catch (e) {
         if ((e as Error).name === 'AbortError') return
@@ -263,12 +282,13 @@ export const __useSearch = (text: string) => {
 
     void load()
     return () => controller.abort()
-  }, [text])
+  }, [text, platform])
 
   return { loading, error, data }
 }
 
 export const __useItemHistory = (slug: string) => {
+  const { platform } = usePlatform()
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
   const [data, setData] = useState<SalesRollupType[] | null>(null)
@@ -284,34 +304,35 @@ export const __useItemHistory = (slug: string) => {
     const internalId = getIdFromName(slug.replaceAll('-', ' '))
 
     const load = async () => {
-      setLoading(true)
-      setError(null)
+      try {
+        setLoading(true)
+        setError(null)
 
-      const historicalUrl = internalId
-        .toString()
-        .padStart(6, '0')
-        .split('')
-        .reverse()
-        .join('')
-        .substring(0, 6)
-        .replace(
-          /^(.{2})(.{2})(.{2})/,
-          `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3/${internalId}------.xbox-na.historical.json`
-        )
-      const r = await fetch(historicalUrl, { signal: controller.signal })
-
-      if (!r.ok) {
-        throw new Error(`Request failed: ${r.status}`)
+        const historicalUrl = internalId
+          .toString()
+          .padStart(6, '0')
+          .split('')
+          .reverse()
+          .join('')
+          .substring(0, 6)
+          .replace(
+            /^(.{2})(.{2})(.{2})/,
+            `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3/${internalId}------.${platform}.historical.json`
+          )
+        const r = await fetch(historicalUrl, { signal: controller.signal })
+        setData(r.ok ? _responseToHistory(await r.json()) : [])
+      } catch (e) {
+        if ((e as Error).name === 'AbortError') return
+        setError(e as Error)
+        setData([])
+      } finally {
+        setLoading(false)
       }
-
-      const json = _responseToHistory(await r.json())
-      setData(json)
-      setLoading(false)
     }
 
     void load()
     return () => controller.abort()
-  }, [slug])
+  }, [slug, platform])
 
   return { loading, error, data }
 }

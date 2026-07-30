@@ -332,6 +332,11 @@ const main = async () => {
         priority: 0.8,
         changefreq: "monthly" as const,
       },
+      {
+        path: "/api-docs",
+        priority: 0.6,
+        changefreq: "monthly" as const,
+      },
     ]) {
       const rendered = render(staticPage.path, undefined);
       const html = applyRenderedPage(template, rendered);

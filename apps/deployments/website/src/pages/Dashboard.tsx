@@ -1,7 +1,4 @@
-import {
-  IonIcon,
-  IonMenuButton,
-} from '@ionic/react'
+import { IonIcon } from '@ionic/react'
 import {
   analyticsOutline,
   checkmarkCircle,
@@ -28,6 +25,7 @@ import { trackSearch } from '../analytics'
 import { __useSearch } from './useItem'
 import './Dashboard.scss'
 import { MARKET_STATS } from '../marketStats'
+import MarketHeader from '../components/MarketHeader'
 
 const accessCards = [
   {
@@ -40,7 +38,7 @@ const accessCards = [
   {
     title: 'Explore the API',
     description: 'Programmatic access to normalized pricing and item data.',
-    href: 'https://data.esomarkettracker.com',
+    href: routes.apiDocs(),
     icon: codeSlashOutline,
     action: 'Read the API',
   },
@@ -121,39 +119,6 @@ const useSearch = (text?: string) => {
 
   return { loading, error, data, onPerformSearch, currentSearch }
 }
-
-const Header = () => (
-  <header className="market-header">
-    <Link className="market-brand" to={`${routes.dashboard()}/`}>
-      <span className="market-brand-mark">✦</span>
-      <span>ESO Market Tracker</span>
-    </Link>
-
-    <nav className="market-nav" aria-label="Primary navigation">
-      <Link to={`${routes.dashboard()}/`}>Market</Link>
-      <Link to={routes.categories()}>Categories</Link>
-      <a href="https://data.esomarkettracker.com">API</a>
-      <a href="https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest">
-        Data
-      </a>
-      <a href="https://github.com/the-jolly-green-bryant/eso-market-tracker">
-        GitHub
-      </a>
-    </nav>
-
-    <div className="market-header-actions">
-      <div className="market-platform">Xbox NA</div>
-      <div className="market-status">
-        <span />
-        Data current
-      </div>
-    </div>
-
-    <div className="market-mobile-menu">
-      <IonMenuButton />
-    </div>
-  </header>
-)
 
 const ProofBar = () => (
   <section className="market-proof" aria-label="Dataset coverage">
@@ -364,7 +329,7 @@ export default () => {
         </script>
       </Helmet>
 
-      <Header />
+      <MarketHeader />
 
       <main className="market-home-scroll">
         <Hero text={text} onPerformSearch={onPerformSearch} />
