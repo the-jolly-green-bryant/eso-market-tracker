@@ -139,12 +139,14 @@ const Hero = ({
   text,
   onPerformSearch,
   searchInputRef,
+  children,
 }: {
   text?: string
   onPerformSearch: (text: string) => void
   searchInputRef: React.RefObject<HTMLInputElement>
+  children?: React.ReactNode
 }) => (
-  <section className="market-hero">
+  <section className={`market-hero${children ? ' is-searching' : ''}`}>
     <div className="market-hero-art" aria-hidden="true" />
     <div className="market-hero-content">
       <div className="market-kicker">
@@ -179,6 +181,8 @@ const Hero = ({
           )
         )}
       </div>
+
+      {children && <div className="market-hero-results">{children}</div>}
     </div>
   </section>
 )
@@ -358,11 +362,7 @@ export default () => {
           text={text}
           onPerformSearch={onPerformSearch}
           searchInputRef={searchInputRef}
-        />
-
-        <div className="market-content">
-          <ProofBar />
-
+        >
           {currentSearch ? (
             <SearchResults
               currentSearch={currentSearch}
@@ -370,9 +370,13 @@ export default () => {
               error={error}
               data={data}
             />
-          ) : (
-            <DefaultContent />
-          )}
+          ) : undefined}
+        </Hero>
+
+        <div className="market-content">
+          <ProofBar />
+
+          {!currentSearch && <DefaultContent />}
         </div>
 
         <footer className="market-footer">
