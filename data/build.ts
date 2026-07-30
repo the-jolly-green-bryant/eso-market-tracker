@@ -11,6 +11,7 @@ import {
 import { fileURLToPath } from "url";
 import path from "path";
 import {
+  archives,
   db as emtDatabase,
   naming,
   constants,
@@ -227,6 +228,7 @@ const _getNestedFiles = (dir: string, baseDir = dir): string[] => {
 const buildPricingData = async (item: Item) => {
   const itemDirectory = naming.getItemDirectory(item);
   const observationDirectory = `${itemDirectory.replace("items", "observations")}/${item.id}`;
+  const pricingArchive = await archives.readItemPricingArchive(item.id);
 
   // Get any folders in the observation directory. This will tell us what
   //  variants we have access to.
@@ -234,15 +236,24 @@ const buildPricingData = async (item: Item) => {
   const _getVariants = async () => {
     const variantsFromObservations =
       await _getDirectories(observationDirectory);
-    const variantsFromItems = await getKnownVariantsForItem(
+    const variantsFromArchives = Object.keys(pricingArchive).map((entryName) =>
+      entryName.replace(/\.(?:xbox|ps)-(?:na|eu)\.historical\.json$/, ""),
+    );
+    const variantsFromLegacyItems = await getLegacyVariantsForItem(
       itemDirectory,
       item.id,
     );
-    return [...new Set([...variantsFromObservations, ...variantsFromItems])];
+    return [
+      ...new Set([
+        ...variantsFromObservations,
+        ...variantsFromArchives,
+        ...variantsFromLegacyItems,
+      ]),
+    ];
   };
 
   const variants = await _getVariants();
-  return (
+  const pricingPairs = (
     await Promise.all(
       variants
         .map(async (variantId) => {
@@ -257,6 +268,11 @@ const buildPricingData = async (item: Item) => {
                 fs.promises.rm(i, { force: true }),
               ),
             );
+            for (const entryName of Object.keys(pricingArchive)) {
+              if (entryName.startsWith(`${variantId}.`)) {
+                delete pricingArchive[entryName];
+              }
+            }
             return [];
           }
 
@@ -273,8 +289,11 @@ const buildPricingData = async (item: Item) => {
               availablePlatforms.map(async (p) => {
                 const platformDirectory = `${variantDirectory}/${p}`;
                 const historicalDataPath = `${itemDirectory}/${variantId}.${p}.historical.json`;
+                const entryName = path.basename(historicalDataPath);
                 const rawOldData =
-                  (await emtDatabase.readFromFile(historicalDataPath)) || {};
+                  pricingArchive[entryName] ??
+                  (await emtDatabase.readFromFile(historicalDataPath)) ??
+                  {};
 
                 let oldData = (
                   Array.isArray(rawOldData)
@@ -303,26 +322,11 @@ const buildPricingData = async (item: Item) => {
                     new Map(observations.map((o) => [o.date, o])).values(),
                   ) as ItemObservation["stats"][];
 
-                  // Write everything out to the master history file.
-                  await emtDatabase.deleteFile(historicalDataPath);
-                  await emtDatabase.writeToFile(
-                    { ...unique } as Record<
-                      number,
-                      Record<string, number | string | null>
-                    >,
-                    historicalDataPath,
-                  );
-                  logger.info(`Wrote to ${historicalDataPath}`);
-
                   oldData = unique;
                 }
 
                 if (oldData.length) {
-                  // Write our latest entry to file.
-                  await emtDatabase.writeToFile(
-                    oldData.at(-1)!,
-                    historicalDataPath.replace("historical", "current"),
-                  );
+                  pricingArchive[entryName] = oldData;
 
                   return [[`${variantId}.${p}`, oldData.at(-1)]];
                 }
@@ -335,6 +339,12 @@ const buildPricingData = async (item: Item) => {
         .filter(Boolean),
     )
   ).flat();
+
+  if (Object.keys(pricingArchive).length) {
+    await archives.writeItemPricingArchive(item.id, pricingArchive);
+  }
+
+  return pricingPairs;
 };
 
 export const buildDatabase = async (options?: {
@@ -389,7 +399,7 @@ const getFilesRecursively = (directory: string): string[] => {
   });
 };
 
-const getKnownVariantsForItem = async (
+const getLegacyVariantsForItem = async (
   directory: string,
   internalId: number,
 ) => {

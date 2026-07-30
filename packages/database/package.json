@@ -20,6 +20,7 @@
   "dependencies": {
     "@eso-market-tracker/eso": "workspace:*",
     "@eso-market-tracker/logging": "workspace:*",
+    "fflate": "^0.8.3",
     "p-limit": "^7.3.1"
   },
   "exports": {

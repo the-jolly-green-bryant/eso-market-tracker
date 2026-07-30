@@ -4,6 +4,7 @@ export * as db from "./db";
 export * as constants from "./constants";
 export * as segments from "./segments";
 export * as history from "./history";
+export * as archives from "./archives";
 
 /**
  * TEMP - Returns a string. Ultimately builds an SQLite out of the flat files.

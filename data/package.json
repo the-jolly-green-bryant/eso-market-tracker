@@ -14,7 +14,8 @@
     "test:watch": "vitest",
     "coverage": "vitest run --coverage",
     "build:sqlite": "tsx cli.ts",
-    "migrate:segments": "tsx migrate-observations.ts"
+    "migrate:segments": "tsx migrate-observations.ts",
+    "compress": "tsx compress-data.ts"
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^4.1.10",
@@ -27,7 +28,8 @@
     "@eso-market-tracker/database": "workspace:*",
     "@eso-market-tracker/eso": "workspace:*",
     "@eso-market-tracker/logging": "workspace:*",
-    "fast-glob": "^3.3.3"
+    "fast-glob": "^3.3.3",
+    "fflate": "^0.8.3"
   },
   "exports": {
     ".": "./index.ts"

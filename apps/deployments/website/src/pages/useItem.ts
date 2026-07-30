@@ -5,6 +5,7 @@ import {
 } from '../models/tradable-item-types'
 import { CATEGORIES } from '../constants'
 import { MarketPlatform, usePlatform } from '../platform'
+import { strFromU8, unzipSync } from 'fflate'
 
 export const getIdFromName = (name: string): number => {
   name = name.toLowerCase().replace(/[^a-z0-9 ]/gi, '')
@@ -26,15 +27,15 @@ export type APIItemResponse = {
     Record<
       MarketPlatform,
       {
-      [trait: string]: {
-        [quality: string]: {
-          average: number
-          date: string
-          commonQuantity: number
-          minimum: number
-          maximum: number
+        [trait: string]: {
+          [quality: string]: {
+            average: number
+            date: string
+            commonQuantity: number
+            minimum: number
+            maximum: number
+          }
         }
-      }
       }
     >
   >
@@ -77,7 +78,7 @@ export const _responseToHistory = (json: GitResponse[]) =>
 
 export const _responseToItem = (
   json: APIItemResponse,
-  platform: MarketPlatform = 'xbox-na'
+  platform: MarketPlatform = 'xbox-na',
 ): TradableItemType => {
   const platformRaw = json.pricing[platform]
 
@@ -104,7 +105,7 @@ export const _responseToItem = (
       averageUnitPrice: baseRaw.average,
       commonQuantity: baseRaw.commonQuantity,
       numberOfQualitiesTracked: Object.keys(safePlatform).filter(
-        (i) => i != '--'
+        (i) => i != '--',
       ).length,
       commonUnitPriceRangeLower: baseRaw.minimum,
       commonUnitPriceRangeUpper: baseRaw.maximum,
@@ -159,7 +160,7 @@ export const __useCategory = (category: keyof typeof CATEGORIES) => {
             const internalId = getIdFromName(name)
             const r = await fetch(
               `https://data.esomarkettracker.com/item/${internalId}`,
-              { signal: controller.signal }
+              { signal: controller.signal },
             )
 
             if (!r.ok) {
@@ -170,7 +171,7 @@ export const __useCategory = (category: keyof typeof CATEGORIES) => {
             return raw?.pricing[platform]
               ? _responseToItem(raw, platform)
               : null
-          })
+          }),
         )
 
         setData(items.filter(Boolean) as TradableItemType[])
@@ -215,7 +216,7 @@ export const __useItem = (slug: string) => {
 
         const r = await fetch(
           `https://data.esomarkettracker.com/item/${internalId}`,
-          { signal: controller.signal }
+          { signal: controller.signal },
         )
 
         if (!r.ok) {
@@ -261,7 +262,7 @@ export const __useSearch = (text: string) => {
 
         const r = await fetch(
           `https://data.esomarkettracker.com/search/${text}`,
-          { signal: controller.signal }
+          { signal: controller.signal },
         )
 
         if (!r.ok) {
@@ -310,7 +311,7 @@ export const __useItemHistory = (slug: string) => {
         setLoading(true)
         setError(null)
 
-        const historicalUrl = internalId
+        const itemDirectoryUrl = internalId
           .toString()
           .padStart(6, '0')
           .split('')
@@ -319,10 +320,36 @@ export const __useItemHistory = (slug: string) => {
           .substring(0, 6)
           .replace(
             /^(.{2})(.{2})(.{2})/,
-            `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3/${internalId}------.${platform}.historical.json`
+            `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3`,
           )
-        const r = await fetch(historicalUrl, { signal: controller.signal })
-        setData(r.ok ? _responseToHistory(await r.json()) : [])
+        const archiveResponse = await fetch(
+          `${itemDirectoryUrl}/${internalId}.pricing.zip`,
+          { signal: controller.signal },
+        )
+        if (archiveResponse.ok) {
+          const entryName = `${internalId}------.${platform}.historical.json`
+          const entries = unzipSync(
+            new Uint8Array(await archiveResponse.arrayBuffer()),
+            { filter: ({ name }) => name === entryName },
+          )
+          const history = entries[entryName]
+          setData(
+            history ? _responseToHistory(JSON.parse(strFromU8(history))) : [],
+          )
+          return
+        }
+
+        // Keep old deployments readable while the compressed data migration
+        // and the website release propagate through GitHub.
+        const legacyResponse = await fetch(
+          `${itemDirectoryUrl}/${internalId}------.${platform}.historical.json`,
+          { signal: controller.signal },
+        )
+        setData(
+          legacyResponse.ok
+            ? _responseToHistory(await legacyResponse.json())
+            : [],
+        )
       } catch (e) {
         if ((e as Error).name === 'AbortError') return
         setError(e as Error)

@@ -1,9 +1,14 @@
-import { randomUUID } from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import pLimit from "p-limit";
 import { Item } from "@eso-market-tracker/eso";
+import {
+  getItemPricingArchivePath,
+  normalizeHistory,
+  readItemPricingArchive,
+  writeItemPricingArchive,
+} from "./archives";
 import { getItemDirectory, getQualifiedItem } from "./naming";
 import type { ObservationStats } from "./segments";
 
@@ -30,34 +35,26 @@ export const getItemHistoryPath = ({
 }: Pick<ItemHistoryRecord, "item" | "server">) =>
   `${getItemDirectory(item)}/${getQualifiedItem(item)}.${server}.historical.json`;
 
-const readHistory = async (filePath: string): Promise<ObservationStats[]> => {
+const readLegacyHistory = async (
+  filePath: string,
+): Promise<ObservationStats[]> => {
   try {
     const parsed = JSON.parse(await fs.readFile(filePath, "utf8")) as
       ObservationStats[] | Record<string, ObservationStats>;
-    return Array.isArray(parsed) ? parsed : Object.values(parsed);
+    return normalizeHistory(parsed);
   } catch (error) {
     if ((error as NodeJS.ErrnoException).code === "ENOENT") return [];
     throw error;
   }
 };
 
-const writeAtomic = async (filePath: string, content: string) => {
-  try {
-    if ((await fs.readFile(filePath, "utf8")) === content) return false;
-  } catch (error) {
-    if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
+const getProjectionTarget = (relativePath: string) => {
+  const entryName = path.basename(relativePath);
+  const itemId = /^(\d+)/.exec(entryName)?.[1];
+  if (!itemId || !entryName.endsWith(".historical.json")) {
+    throw new Error(`Invalid item history projection path: ${relativePath}`);
   }
-
-  await fs.mkdir(path.dirname(filePath), { recursive: true });
-  const temporaryPath = `${filePath}.${process.pid}.${randomUUID()}.tmp`;
-  try {
-    await fs.writeFile(temporaryPath, content);
-    await fs.rename(temporaryPath, filePath);
-    return true;
-  } catch (error) {
-    await fs.rm(temporaryPath, { force: true });
-    throw error;
-  }
+  return { itemId, entryName };
 };
 
 /**
@@ -104,32 +101,45 @@ export const writeItemHistoryProjections = async (
 
   const repositoryRoot = options?.repositoryRoot ?? defaultRepositoryRoot;
   const limit = pLimit(options?.concurrency ?? 32);
+  const grouped = new Map<string, ItemHistoryProjection[]>();
+  for (const projection of projections) {
+    const { itemId } = getProjectionTarget(projection.relativePath);
+    const group = grouped.get(itemId);
+    if (group) group.push(projection);
+    else grouped.set(itemId, [projection]);
+  }
+
   const changed = (
     await Promise.all(
-      projections.map(({ relativePath, additions }) =>
+      [...grouped.entries()].map(([itemId, itemProjections]) =>
         limit(async () => {
-          const historicalPath = path.join(repositoryRoot, relativePath);
-          const previous = await readHistory(historicalPath);
-          const candidates = options?.preserveExisting
-            ? additions.concat(previous)
-            : previous.concat(additions);
-          const byDate = new Map(
-            candidates
-              .filter(({ maximum }) => maximum > 0)
-              .map((stats) => [stats.date, stats]),
-          );
-          const merged = [...byDate.values()].sort((left, right) =>
-            left.date.localeCompare(right.date),
-          );
-          const historicalChanged = await writeAtomic(
-            historicalPath,
-            JSON.stringify({ ...merged }),
-          );
-          const currentChanged = await writeAtomic(
-            historicalPath.replace(".historical.json", ".current.json"),
-            JSON.stringify(merged.at(-1)),
-          );
-          return historicalChanged || currentChanged ? relativePath : undefined;
+          const archive = await readItemPricingArchive(itemId, {
+            repositoryRoot,
+          });
+
+          for (const { relativePath, additions } of itemProjections) {
+            const { entryName } = getProjectionTarget(relativePath);
+            const legacyPath = path.join(repositoryRoot, relativePath);
+            const previous =
+              archive[entryName] ?? (await readLegacyHistory(legacyPath));
+            const candidates = options?.preserveExisting
+              ? additions.concat(previous)
+              : previous.concat(additions);
+            const byDate = new Map(
+              candidates
+                .filter(({ maximum }) => maximum > 0)
+                .map((stats) => [stats.date, stats]),
+            );
+            archive[entryName] = [...byDate.values()].sort((left, right) =>
+              left.date.localeCompare(right.date),
+            );
+          }
+
+          return (await writeItemPricingArchive(itemId, archive, {
+            repositoryRoot,
+          }))
+            ? getItemPricingArchivePath(itemId)
+            : undefined;
         }),
       ),
     )

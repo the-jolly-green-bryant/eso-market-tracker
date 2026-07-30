@@ -5,6 +5,16 @@
     "outDir": "dist",
     "declaration": true
   },
-  "include": ["."],
-  "exclude": ["*.test.ts"]
+  "include": ["./**/*.ts"],
+  "exclude": [
+    "*.test.ts",
+    "artifacts",
+    "images",
+    "index",
+    "items",
+    "node_modules",
+    "observations",
+    "segments",
+    "tmp"
+  ]
 }

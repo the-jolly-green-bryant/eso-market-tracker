@@ -2,6 +2,7 @@ import { createHash, randomUUID } from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { gzipSync, gunzipSync, strFromU8, strToU8 } from "fflate";
 import { getShardFromId } from "./naming";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -31,10 +32,12 @@ type SegmentManifestEntry = {
   sha256: string;
   firstDate: string;
   lastDate: string;
+  compressedBytes: number;
+  uncompressedBytes: number;
 };
 
 type ObservationManifest = {
-  schemaVersion: 1;
+  schemaVersion: 1 | 2;
   segments: Record<string, SegmentManifestEntry>;
 };
 
@@ -58,14 +61,26 @@ const assertDate = (date: string) => {
 export const getObservationSegmentPath = (record: ObservationSegmentRecord) => {
   const { year, month } = assertDate(record.stats.date);
   const shard = getShardFromId(record.itemId).split("/")[0];
-  return `data/segments/observations/${record.server}/${year}/${month}/${shard}.jsonl`;
+  return `data/segments/observations/${record.server}/${year}/${month}/${shard}.jsonl.gz`;
 };
 
 const readJsonLines = async (
   filePath: string,
 ): Promise<ObservationSegmentRecord[]> => {
+  let sourcePath = filePath;
   try {
-    const content = await fs.readFile(filePath, "utf8");
+    let compressed: Buffer;
+    try {
+      compressed = await fs.readFile(filePath);
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
+      sourcePath = filePath.replace(/\.gz$/, "");
+      compressed = await fs.readFile(sourcePath);
+    }
+    const content =
+      filePath === sourcePath
+        ? strFromU8(gunzipSync(compressed))
+        : compressed.toString("utf8");
     return content
       .split("\n")
       .filter(Boolean)
@@ -74,7 +89,7 @@ const readJsonLines = async (
           return JSON.parse(line) as ObservationSegmentRecord;
         } catch (error) {
           throw new SyntaxError(
-            `Invalid JSONL in ${filePath} at line ${index + 1}`,
+            `Invalid JSONL in ${sourcePath} at line ${index + 1}`,
             { cause: error },
           );
         }
@@ -87,9 +102,11 @@ const readJsonLines = async (
   }
 };
 
-const writeAtomic = async (filePath: string, content: string) => {
+const writeAtomic = async (filePath: string, content: Uint8Array | string) => {
   try {
-    if ((await fs.readFile(filePath, "utf8")) === content) {
+    const previous = await fs.readFile(filePath);
+    const next = typeof content === "string" ? Buffer.from(content) : content;
+    if (previous.equals(next)) {
       return false;
     }
   } catch (error) {
@@ -123,7 +140,7 @@ const readManifest = async (
     ) as ObservationManifest;
   } catch (error) {
     if ((error as NodeJS.ErrnoException).code === "ENOENT") {
-      return { schemaVersion: 1, segments: {} };
+      return { schemaVersion: 2, segments: {} };
     }
     throw error;
   }
@@ -158,24 +175,29 @@ export const writeObservationSegments = async (
     const merged = [...unique.values()].sort((left, right) =>
       recordKey(left).localeCompare(recordKey(right)),
     );
-    const content = `${merged.map((record) => JSON.stringify(record)).join("\n")}\n`;
+    const jsonLines = `${merged.map((record) => JSON.stringify(record)).join("\n")}\n`;
+    const content = gzipSync(strToU8(jsonLines), { level: 9, mtime: 0 });
     if (await writeAtomic(filePath, content)) {
       changedSegments.push(relativePath);
     }
+    await fs.rm(filePath.replace(/\.gz$/, ""), { force: true });
 
     const dates = merged
       .map((record) => record.stats.date)
       .sort((left, right) => left.localeCompare(right));
+    delete manifest.segments[relativePath.replace(/\.gz$/, "")];
     manifest.segments[relativePath] = {
       records: merged.length,
       sha256: createHash("sha256").update(content).digest("hex"),
       firstDate: dates[0],
       lastDate: dates.at(-1)!,
+      compressedBytes: content.byteLength,
+      uncompressedBytes: Buffer.byteLength(jsonLines),
     };
   }
 
   const orderedManifest: ObservationManifest = {
-    schemaVersion: 1,
+    schemaVersion: 2,
     segments: Object.fromEntries(
       Object.entries(manifest.segments).sort(([left], [right]) =>
         left.localeCompare(right),

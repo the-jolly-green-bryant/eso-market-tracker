@@ -51,18 +51,18 @@ UESP + legacy EMT + Tamriel Savings Co + local addon exports
 
 ## Workspace map
 
-| Path | Responsibility |
-|---|---|
-| `packages/database` | Canonical data access, naming, indexing, and image helpers |
-| `packages/eso` | ESO item, quality, and trait domain logic |
-| `packages/logging` | Shared structured logging and utility extensions |
-| `apps/collectors/items-from-uesp` | Import mined ESO item definitions |
-| `apps/collectors/observations-from-*` | Normalize observations from each market source |
-| `apps/builders/master-update` | Coordinate a complete data and deployment refresh |
-| `apps/deployments/website` | Searchable web experience and static output |
-| `apps/deployments/api` | Cloudflare Worker API deployment |
-| `apps/deployments/eso-addon` | Build the console-ready in-game addon |
-| `data` | Canonical history plus generated database artifacts |
+| Path                                  | Responsibility                                             |
+| ------------------------------------- | ---------------------------------------------------------- |
+| `packages/database`                   | Canonical data access, naming, indexing, and image helpers |
+| `packages/eso`                        | ESO item, quality, and trait domain logic                  |
+| `packages/logging`                    | Shared structured logging and utility extensions           |
+| `apps/collectors/items-from-uesp`     | Import mined ESO item definitions                          |
+| `apps/collectors/observations-from-*` | Normalize observations from each market source             |
+| `apps/builders/master-update`         | Coordinate a complete data and deployment refresh          |
+| `apps/deployments/website`            | Searchable web experience and static output                |
+| `apps/deployments/api`                | Cloudflare Worker API deployment                           |
+| `apps/deployments/eso-addon`          | Build the console-ready in-game addon                      |
+| `data`                                | Canonical history plus generated database artifacts        |
 
 Legacy one-time collectors are retained to keep historical imports reproducible.
 Recurring collectors are designed to be idempotent.
@@ -85,14 +85,14 @@ pnpm test
 
 Common commands:
 
-| Command | Purpose |
-|---|---|
-| `pnpm check` | Run lint and TypeScript checks |
-| `pnpm test` | Run the Vitest suite |
-| `pnpm coverage` | Run tests with coverage enforcement |
-| `pnpm build` | Inject the version, test, and build every workspace |
-| `pnpm clean` | Clean generated workspace output |
-| `pnpm format` | Format the repository with Prettier |
+| Command         | Purpose                                             |
+| --------------- | --------------------------------------------------- |
+| `pnpm check`    | Run lint and TypeScript checks                      |
+| `pnpm test`     | Run the Vitest suite                                |
+| `pnpm coverage` | Run tests with coverage enforcement                 |
+| `pnpm build`    | Inject the version, test, and build every workspace |
+| `pnpm clean`    | Clean generated workspace output                    |
+| `pnpm format`   | Format the repository with Prettier                 |
 
 Individual collectors and deployments expose their own workspace scripts. Run them
 through pnpm's filter support to avoid rebuilding unrelated packages.
@@ -108,8 +108,9 @@ quality or trait variants.
 ### Observations
 
 An observation is a point-in-time market snapshot scoped to a platform and region.
-Historical and current representations are kept separately so consumers can choose
-between fast current-state reads and longitudinal analysis.
+Canonical observations are partitioned into deterministic gzip-compressed JSONL
+segments. Website histories are published as one targeted ZIP archive per item;
+the latest record in each history provides current state without a duplicate file.
 
 ### Indexes and artifacts
 
