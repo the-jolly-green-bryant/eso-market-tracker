@@ -19,7 +19,6 @@ import SearchBar from '../components/SearchBar'
 import TopSoldItems from '../components/TopSoldItems'
 import TradableItemList from '../components/TradableItemList'
 import { ERROR_STATE, LOADING_STATE } from '../components/common'
-import * as constants from '../constants'
 import * as routes from '../routes'
 import { trackSearch } from '../analytics'
 import { __useSearch } from './useItem'
@@ -27,6 +26,7 @@ import './Dashboard.scss'
 import { MARKET_STATS } from '../marketStats'
 import MarketHeader from '../components/MarketHeader'
 import MarketInsights from '../components/MarketInsights'
+import SupportBanner from '../components/SupportBanner'
 
 const accessCards = [
   {
@@ -380,12 +380,7 @@ export default () => {
         </div>
 
         <footer className="market-footer">
-          <span>ESO Market Tracker</span>
-          <p>
-            Public data. Transparent methodology. Built for the ESO community.
-          </p>
-          <a href={constants.PATREON_LINK}>Join the Discord</a>
-          <a href={routes.privacyPolicy()}>Privacy</a>
+          <SupportBanner />
         </footer>
       </main>
     </div>

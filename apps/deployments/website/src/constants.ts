@@ -1,4 +1,4 @@
-export const PATREON_LINK = 'https://discord.gg/ZbRPf4gHYX'
+export const DISCORD_LINK = 'https://discord.gg/ZbRPf4gHYX'
 export const REDDIT_LINK = 'https://www.reddit.com/r/ESOMarketTracker/'
 
 export const REPORT_A_BUG_LINK =

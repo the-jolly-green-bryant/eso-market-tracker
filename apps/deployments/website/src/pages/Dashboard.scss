@@ -513,25 +513,7 @@
 }
 
 .market-footer {
-    align-items: center;
-    border-top: 1px solid rgb(217 173 91 / 18%);
-    color: var(--market-muted);
-    display: flex;
-    font-size: 11px;
-    gap: 22px;
     margin: 0 clamp(24px, 4vw, 64px);
-    padding: 30px 0;
-
-    > span {
-        color: var(--market-gold);
-        font-family: Georgia, serif;
-        font-size: 14px;
-        text-transform: uppercase;
-    }
-
-    p {
-        margin-right: auto;
-    }
 }
 
 .market-seo-intro {

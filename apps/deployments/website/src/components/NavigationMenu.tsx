@@ -17,7 +17,7 @@ const HEADER_CONTENT = (
 
     <a
       className="navigation-menu-header-button"
-      href={constants.PATREON_LINK}
+      href={constants.DISCORD_LINK}
       target="_blank"
     >
       Learn More

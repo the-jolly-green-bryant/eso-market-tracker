@@ -1,35 +1,18 @@
-import { Capacitor } from '@capacitor/core'
 import * as constants from '../constants'
+import * as routes from '../routes'
 
 const SupportBanner: React.FC = () => (
   <div className="support-banner">
-    <div className="support-banner-text">
-      Learn about our
-      <br />
-      growing app!
-    </div>
-
-    {Capacitor.getPlatform() === 'NEVER_THIS__ios' ? (
-      <a
-        className="support-banner-button"
-        href={constants.REDDIT_LINK}
-        target="_blank"
-      >
-        <div className="support-banner-button-text">
-          <img src="assets/images/reddit-wordmark-white.png" alt="" />
-        </div>
-      </a>
-    ) : (
-      <a
-        className="support-banner-button"
-        href={constants.PATREON_LINK}
-        target="_blank"
-      >
-        <div className="support-banner-button-text">
-          <img src="assets/images/discord-logo-white.png" alt="" />
-        </div>
-      </a>
-    )}
+    <span>ESO Market Tracker</span>
+    <p>Public data. Transparent methodology. Built for the ESO community.</p>
+    <a
+      href={constants.DISCORD_LINK}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Join the Discord
+    </a>
+    <a href={routes.privacyPolicy()}>Privacy</a>
   </div>
 )
 
