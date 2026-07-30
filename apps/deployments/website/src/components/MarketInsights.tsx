@@ -20,6 +20,8 @@ const TRENDING_ITEMS = [
   'Chromium Plating',
   'Perfect Roe',
 ]
+const SPARKLINE_WINDOW_DAYS = 93
+const DAY_IN_MILLISECONDS = 86_400_000
 
 const TrendingItem = ({ name }: { name: string }) => {
   const item = __useItem(name).data
@@ -28,12 +30,11 @@ const TrendingItem = ({ name }: { name: string }) => {
 
   const currentPrice = item.currentXboxStats.averageUnitPrice
   const currentTime = new Date(item.currentXboxStats.date).getTime()
-  const recentHistory = (history || []).filter(
+  const chartHistory = (history || []).filter(
     (point) =>
-      new Date(point.date).getTime() >= currentTime - 7 * 86_400_000
+      new Date(point.date).getTime() >=
+      currentTime - SPARKLINE_WINDOW_DAYS * DAY_IN_MILLISECONDS
   )
-  const chartHistory =
-    recentHistory.length > 1 ? recentHistory : (history || []).slice(-8)
   const startingPrice =
     chartHistory.at(0)?.averageUnitPrice || currentPrice
   const trend = startingPrice
@@ -70,7 +71,7 @@ const TrendingItem = ({ name }: { name: string }) => {
           {trend >= 0 ? '+' : ''}
           {trend.toFixed(1)}%
         </strong>
-        <span>7d trend</span>
+        <span>3m trend</span>
       </small>
     </Link>
   )
