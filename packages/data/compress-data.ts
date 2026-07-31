@@ -4,10 +4,9 @@ import path from "node:path";
 import { performance } from "node:perf_hooks";
 import { archives } from "@eso-market-tracker/database";
 import fg from "fast-glob";
-import { gzipSync, gunzipSync, strFromU8, strToU8 } from "fflate";
+import { gzipSync, gunzipSync, strFromU8 } from "fflate";
 import pLimit from "p-limit";
-
-const repositoryRoot = path.resolve(import.meta.dirname, "..");
+import { repositoryRoot } from "./paths";
 
 const writeAtomic = async (filePath: string, content: Uint8Array | string) => {
   const next = typeof content === "string" ? Buffer.from(content) : content;

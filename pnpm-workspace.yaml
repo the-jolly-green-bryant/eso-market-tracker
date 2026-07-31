@@ -1,5 +1,4 @@
 packages:
   - apps/**/*
-  - '!apps/deployments/addon-hub'
+  - "!apps/deployments/addon-hub"
   - packages/*
-  - data

@@ -276,7 +276,7 @@ const getItemDirectoryUrl = (internalId: number) =>
     .substring(0, 6)
     .replace(
       /^(.{2})(.{2})(.{2})/,
-      `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3`,
+      `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-data/refs/heads/main/items/$1/$2/$3`,
     );
 
 const fetchItemHistory = async ({

@@ -1,11 +1,15 @@
-name: Build SQLite Artifact
-description: Builds the current pricing data into an sqlite database.
+name: Download SQLite Artifact
+description: Downloads the current database built by the standalone data repository.
 
 runs:
   using: composite
   steps:
-    - name: Build sqlite database
-      run: cd data && pnpm run build:sqlite
+    - name: Download current sqlite database
+      run: |
+        mkdir -p data/artifacts
+        curl --fail --location --retry 3 \
+          https://github.com/the-jolly-green-bryant/eso-market-data/releases/download/latest/data.sqlite \
+          --output data/artifacts/data.sqlite
       shell: bash
 
     - name: Upload sqlite artifact

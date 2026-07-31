@@ -16,9 +16,10 @@ ESO Market Tracker collects market observations, normalizes ESO item identities,
 publishes pricing data for the Xbox and PlayStation megaservers. It is the source-available
 successor to the original [ESO Market Tracker](https://esomarkettracker.com).
 
-The repository is both a TypeScript monorepo and a versioned data product: collectors,
-domain packages, deployment targets, and the canonical flat-file history live together
-so every generated artifact can be traced back to its inputs.
+This repository is the TypeScript application monorepo. The canonical flat-file history
+lives in the public [ESO Market Data](https://github.com/the-jolly-green-bryant/eso-market-data)
+repository and is mounted here as the `data` submodule, so code-only clones and CI runs
+stay fast while every generated artifact remains traceable to its inputs.
 
 ## Why this repository is unusual
 
@@ -65,7 +66,8 @@ UESP + legacy EMT + Tamriel Savings Co + local addon exports
 | `apps/deployments/website`            | Searchable web experience and static output                |
 | `apps/deployments/api`                | Cloudflare Worker API deployment                           |
 | `apps/deployments/eso-addon`          | Build the console-ready in-game addon                      |
-| `data`                                | Canonical history plus generated database artifacts        |
+| `packages/data`                       | Data indexing, migration, and SQLite build utilities       |
+| `data`                                | Lightweight submodule pointing to the canonical data repo  |
 
 ## Discord bot
 
@@ -103,10 +105,10 @@ Recurring collectors are designed to be idempotent.
 
 - Node.js 22
 - pnpm 10
-- Git configured to handle a large, data-heavy working tree
+- Git with submodule support
 
 ```bash
-git clone https://github.com/the-jolly-green-bryant/eso-market-tracker.git
+git clone --recurse-submodules https://github.com/the-jolly-green-bryant/eso-market-tracker.git
 cd eso-market-tracker
 pnpm install
 pnpm check
@@ -146,7 +148,7 @@ the latest record in each history provides current state without a duplicate fil
 
 Derived indexes support bulk generation and lookup. The pipeline also produces a
 portable SQLite database, available from the rolling
-[`latest` release](https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest).
+[`latest` data release](https://github.com/the-jolly-green-bryant/eso-market-data/releases/tag/latest).
 
 ## Data sources
 
@@ -159,15 +161,16 @@ published data remain responsible for checking the terms that apply to each sour
 
 ## Continuous delivery
 
-On pull requests and pushes to `main`, GitHub Actions installs the workspace, builds
-the SQLite database, and runs coverage checks. The release path also:
+On pull requests and pushes to `main`, GitHub Actions installs the workspace, downloads
+the current SQLite release, and runs coverage checks. Data changes are committed by the
+ordered daily pipeline to the standalone data repository, where SQLite is rebuilt only
+when the underlying flat files change. The application release path also:
 
 - syncs the static website to S3;
 - deploys the API to Cloudflare Workers;
 - configures and verifies the Discord interaction endpoint, branded profile, and
   exact compatible command set;
-- publishes the generated ESO addon;
-- updates the rolling SQLite release.
+- keeps add-on publishing paused until an approved Bethesda publisher is available.
 
 Deployment credentials are supplied through GitHub Actions secrets and are not part of
 the repository.

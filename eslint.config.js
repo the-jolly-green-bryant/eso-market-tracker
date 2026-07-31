@@ -10,7 +10,7 @@ export default [
       "**/dist/**",
       "**/node_modules/**",
       "**/coverage/**",
-      "data/**/**",
+      "data/**",
       "eslint.config.js",
       "scripts/inject-version.js",
       "marketing/campaigns/tamriel-savings/render-creatives.cjs",

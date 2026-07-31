@@ -78,6 +78,7 @@ runs:
         mkdir -p "build"
 
         cp -R "$ADDON_SOURCE" "build/$ADDON_FOLDER"
+        cp data/addon/MarketTracker/data.*.lua "build/$ADDON_FOLDER/"
 
         cd build
         zip -r "../$ZIP_FILE" "$ADDON_FOLDER"

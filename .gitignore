@@ -1,4 +1,5 @@
 node_modules
+apps/deployments/eso-addon/src/MarketTracker/data.*.lua
 .DS_Store
 *.log
 *.pyc

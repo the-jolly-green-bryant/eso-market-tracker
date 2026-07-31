@@ -6,7 +6,7 @@ const stagedFiles = execFileSync(
   { encoding: "utf8" },
 )
   .split("\0")
-  .filter((file) => file && !file.startsWith("data/"));
+  .filter((file) => file && file !== "data" && !file.startsWith("data/"));
 
 if (!stagedFiles.length) {
   console.log("No staged files to check.");

@@ -20,10 +20,11 @@ import { DatabaseSync } from "node:sqlite";
 import { logger } from "@eso-market-tracker/logging";
 import { lookupIdInUESP, TRAIT_INDEX } from "./index";
 import pLimit from "p-limit";
+import { marketDataPath, repositoryRoot } from "./paths";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const dbPath = path.join(__dirname, "artifacts", "data.sqlite");
+const dbPath = marketDataPath("artifacts", "data.sqlite");
 let _db: DatabaseSync;
 export const db = () => {
   _db = _db || new DatabaseSync(dbPath);
@@ -176,24 +177,9 @@ export const insertItems = async (
   });
 };
 
-const _directoryExists = async (dir: string) => {
-  try {
-    // TODO - This is failing, it needs to be relative to the project root.
-    const fullPath = path
-      .resolve(process.cwd(), dir)
-      .replace("/data/data", "/data");
-    const stat = await fsPromises.stat(fullPath);
-    return stat.isDirectory();
-  } catch {
-    return false;
-  }
-};
-
 const _getDirectories = async (dir: string): Promise<string[]> => {
   try {
-    const fullPath = path
-      .resolve(process.cwd(), dir)
-      .replace("/data/data", "/data");
+    const fullPath = path.resolve(repositoryRoot, dir);
     const entries = await fsPromises.readdir(fullPath, { withFileTypes: true });
 
     return entries
@@ -205,9 +191,7 @@ const _getDirectories = async (dir: string): Promise<string[]> => {
 };
 
 const _getNestedFiles = (dir: string, baseDir = dir): string[] => {
-  const fullPath = path
-    .resolve(process.cwd(), dir)
-    .replace("/data/data", "/data");
+  const fullPath = path.resolve(repositoryRoot, dir);
   const entries = fs.readdirSync(fullPath, { withFileTypes: true });
 
   return entries.flatMap((entry) => {
@@ -225,6 +209,9 @@ const _getNestedFiles = (dir: string, baseDir = dir): string[] => {
   });
 };
 
+// The pricing migration intentionally keeps variant cleanup and archive merging
+// in one transaction-like operation for each item.
+// eslint-disable-next-line max-lines-per-function
 const buildPricingData = async (item: Item) => {
   const itemDirectory = naming.getItemDirectory(item);
   const observationDirectory = `${itemDirectory.replace("items", "observations")}/${item.id}`;
@@ -256,13 +243,14 @@ const buildPricingData = async (item: Item) => {
   const pricingPairs = (
     await Promise.all(
       variants
+        // eslint-disable-next-line max-lines-per-function
         .map(async (variantId) => {
           // Cleans up bad data. Ultimately obsolete.
           if (
             variantId.includes("--1---") &&
             variants.includes(variantId.replace("--1---", "------"))
           ) {
-            const variantPattern = `${__dirname}/../${itemDirectory}/${variantId}.*.*.json`;
+            const variantPattern = `${repositoryRoot}/${itemDirectory}/${variantId}.*.*.json`;
             await Promise.all(
               (await fg([variantPattern])).map((i) =>
                 fs.promises.rm(i, { force: true }),
@@ -295,13 +283,16 @@ const buildPricingData = async (item: Item) => {
                   (await emtDatabase.readFromFile(historicalDataPath)) ??
                   {};
 
-                let oldData = (
-                  Array.isArray(rawOldData)
-                    ? rawOldData
-                    : rawOldData
-                      ? Object.values(rawOldData)
-                      : []
-                ) as ItemObservation["stats"][];
+                let oldData: ItemObservation["stats"][];
+                if (Array.isArray(rawOldData)) {
+                  oldData = rawOldData as ItemObservation["stats"][];
+                } else if (rawOldData) {
+                  oldData = Object.values(
+                    rawOldData,
+                  ) as ItemObservation["stats"][];
+                } else {
+                  oldData = [];
+                }
 
                 if (platforms.includes(p)) {
                   // Get every relative path for files deeply nested in this directory.
@@ -354,7 +345,7 @@ export const buildDatabase = async (options?: {
   createSchema();
   logger.info("Created Schema");
   const items = await getItemsFromDirectory(
-    path.join(__dirname, "items"),
+    marketDataPath("items"),
     options?.itemIds,
   );
   const insertingDone = insertItems(items, options);
@@ -380,9 +371,7 @@ export const buildDatabase = async (options?: {
 };
 
 const getFilesRecursively = (directory: string): string[] => {
-  const readPath = path
-    .resolve(process.cwd(), directory)
-    .replace("/data/data", "/data");
+  const readPath = path.resolve(repositoryRoot, directory);
 
   const entries = fs.readdirSync(readPath, { withFileTypes: true });
   return entries.flatMap((entry) => {
@@ -404,7 +393,7 @@ const getLegacyVariantsForItem = async (
   internalId: number,
 ) => {
   const filePaths = await fg([
-    `${__dirname}/../${directory}/${internalId}*.*.historical.json`,
+    `${repositoryRoot}/${directory}/${internalId}*.*.historical.json`,
   ]);
   return filePaths
     .map((i) => i.split("/").at(-1)!)
@@ -417,7 +406,7 @@ const getItemsFromDirectory = async (
 ): Promise<Item[]> => {
   const filePaths = itemIds?.length
     ? [...new Set(itemIds)].map((id) =>
-        path.resolve(__dirname, "..", naming.getItemPathFromId(id)),
+        path.resolve(repositoryRoot, naming.getItemPathFromId(id)),
       )
     : await fg([
         `${directory}/**/*.json`,
@@ -478,12 +467,12 @@ export const flattenDatabase = async (ids?: number[]) => {
   logger.info("Preparing to write traits.");
   const traitStatement = db().prepare(`SELECT * FROM item_known_ids`);
   logger.info("Pulled traits.");
-  const traitEntries = traitStatement.all().map((row) => {
-    return [
+  const traitEntries = traitStatement
+    .all()
+    .map((row) => [
       row.knownId as number,
       [row.internalId as number, row.traitId as number | null],
-    ];
-  });
+    ]);
 
   const indexWriteDone = emtDatabase.writeToFile(
     { ...index, ...Object.fromEntries(traitEntries) },

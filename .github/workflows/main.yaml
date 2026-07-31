@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v6
+        with:
+          submodules: true
 
       - name: Setup project
         uses: ./.github/actions/setup-dependencies
@@ -28,7 +30,7 @@ jobs:
       - name: Lint and type-check
         run: pnpm check
 
-      - name: Build database
+      - name: Download current database
         uses: ./.github/actions/build-sqlite
 
       - name: Run coverage
@@ -63,6 +65,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v6
+        with:
+          submodules: true
 
       - name: Setup project
         uses: ./.github/actions/setup-dependencies
@@ -140,18 +144,3 @@ jobs:
           DISCORD_INTERACTIONS_ENDPOINT: "https://data.esomarkettracker.com/discord/interactions"
 
       # Add-on publishing is paused until an approved publisher is available.
-
-      - name: Create or update rolling release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          TAG="latest"
-          TITLE="Latest"
-          FILE="data/artifacts/data.sqlite"
-
-          gh release view "$TAG" >/dev/null 2>&1 || \
-            gh release create "$TAG" \
-              --title "$TITLE" \
-              --notes "The latest pricing information in SQLite format."
-
-          gh release upload "$TAG" "$FILE" --clobber

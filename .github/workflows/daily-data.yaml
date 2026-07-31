@@ -22,6 +22,22 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 1
+          submodules: true
+
+      - name: Prepare standalone data checkout
+        env:
+          MARKET_DATA_DEPLOY_KEY: ${{ secrets.MARKET_DATA_DEPLOY_KEY }}
+        run: |
+          set -euo pipefail
+          : "${MARKET_DATA_DEPLOY_KEY:?MARKET_DATA_DEPLOY_KEY is required}"
+          install -m 700 -d "$HOME/.ssh"
+          printf '%s\n' "$MARKET_DATA_DEPLOY_KEY" > "$HOME/.ssh/market-data-deploy"
+          chmod 600 "$HOME/.ssh/market-data-deploy"
+          ssh-keyscan github.com >> "$HOME/.ssh/known_hosts"
+          git config core.sshCommand "ssh -i $HOME/.ssh/market-data-deploy -o IdentitiesOnly=yes"
+          git -C data remote set-url origin git@github.com:the-jolly-green-bryant/eso-market-data.git
+          git -C data fetch --depth=1 origin main
+          git -C data checkout -B main origin/main
 
       - name: Setup project
         uses: ./.github/actions/setup-dependencies
@@ -54,13 +70,18 @@ jobs:
       - name: Detect generated changes
         id: changes
         run: |
+          rsync -a \
+            --include='data.*.lua' \
+            --exclude='*' \
+            apps/deployments/eso-addon/src/MarketTracker/ \
+            data/addon/MarketTracker/
           changed_pages="$(find apps/deployments/website/dist/item \
             -type f -name index.html 2>/dev/null | wc -l | tr -d ' ')"
-          changed_data_files="$(git status --porcelain -- data | wc -l | tr -d ' ')"
+          changed_data_files="$(git -C data status --porcelain | wc -l | tr -d ' ')"
           echo "page_count=$changed_pages" >> "$GITHUB_OUTPUT"
           echo "data_file_count=$changed_data_files" >> "$GITHUB_OUTPUT"
           if [ "${{ steps.update.outputs.changed_item_count }}" != "0" ] &&
-             [ -n "$(git status --porcelain -- data apps/deployments/eso-addon)" ]; then
+             [ -n "$(git -C data status --porcelain)" ]; then
             echo "found=true" >> "$GITHUB_OUTPUT"
           else
             echo "found=false" >> "$GITHUB_OUTPUT"
@@ -98,12 +119,12 @@ jobs:
         id: commit
         if: steps.changes.outputs.found == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data apps/deployments/eso-addon
-          git commit -m "Daily market data update $(date -u +%F) [skip ci]"
-          git push
-          echo "published_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          git -C data config user.name "github-actions[bot]"
+          git -C data config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C data add -A
+          git -C data commit -m "Daily market data update $(date -u +%F)"
+          git -C data push origin HEAD:main
+          echo "published_sha=$(git -C data rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - name: Announce successful launch to Discord admin
         if: steps.changes.outputs.found == 'true'

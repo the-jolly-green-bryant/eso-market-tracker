@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/the-jolly-green-bryant/eso-market-data.git
+	branch = main
