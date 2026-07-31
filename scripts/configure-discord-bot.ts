@@ -130,6 +130,19 @@ const configureApplication = async (
     );
   }
 
+  // Discord validates install params against the application's current public
+  // state, so promoting a private app and adding its default install link must
+  // happen in separate requests.
+  if (current.bot_public !== true) {
+    await discord("/applications/@me", {
+      method: "PATCH",
+      body: JSON.stringify({
+        bot_public: true,
+        bot_require_code_grant: false,
+      }),
+    });
+  }
+
   const update: Record<string, unknown> = {
     bot_public: true,
     bot_require_code_grant: false,
