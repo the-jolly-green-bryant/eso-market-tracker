@@ -82,11 +82,17 @@ const variantName = (
   fallback: string,
 ) => names[normalizedId(id)] ?? `${fallback} ${Number(id) || id}`;
 
+/**
+ * Human-readable trait and quality variants available for one market item.
+ */
 export type ItemVariantMetadata = {
   qualities: string[];
   traits: string[];
 };
 
+/**
+ * Converts compact pricing keys into display labels for the item header.
+ */
 export const getItemVariantMetadata = (
   raw: TradableItemType["raw"],
 ): ItemVariantMetadata => {
