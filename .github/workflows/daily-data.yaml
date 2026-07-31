@@ -38,6 +38,9 @@ jobs:
           chmod +x "$RUNNER_TEMP/ESOAddOnUploaderCli"
           echo "ESO_UPLOADER_CLI=$RUNNER_TEMP/ESOAddOnUploaderCli" >> "$GITHUB_ENV"
 
+      - name: Inject release version
+        run: pnpm inject-version
+
       - name: Run ordered incremental update
         id: update
         run: pnpm --filter @eso-market-tracker/master-update daily
@@ -51,12 +54,13 @@ jobs:
       - name: Detect generated changes
         id: changes
         run: |
-          changed_pages="$(git status --porcelain -- apps/deployments/website/dist/item | wc -l | tr -d ' ')"
+          changed_pages="$(find apps/deployments/website/dist/item \
+            -type f -name index.html 2>/dev/null | wc -l | tr -d ' ')"
           changed_data_files="$(git status --porcelain -- data | wc -l | tr -d ' ')"
           echo "page_count=$changed_pages" >> "$GITHUB_OUTPUT"
           echo "data_file_count=$changed_data_files" >> "$GITHUB_OUTPUT"
           if [ "${{ steps.update.outputs.changed_item_count }}" != "0" ] &&
-             [ -n "$(git status --porcelain -- data apps/deployments/eso-addon apps/deployments/website/dist/item)" ]; then
+             [ -n "$(git status --porcelain -- data apps/deployments/eso-addon)" ]; then
             echo "found=true" >> "$GITHUB_OUTPUT"
           else
             echo "found=false" >> "$GITHUB_OUTPUT"
@@ -75,8 +79,8 @@ jobs:
         working-directory: apps/deployments/website
         run: |
           set -euo pipefail
-          git ls-files --modified --others --exclude-standard -- dist/item |
-            while IFS= read -r file; do
+          find dist/item -type f -name index.html -print0 |
+            while IFS= read -r -d '' file; do
               aws s3 cp "$file" "s3://esomarkettracker.com/${file#dist/}" \
                 --acl public-read
             done
@@ -99,7 +103,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data apps/deployments/eso-addon apps/deployments/website/dist/item
+          git add data apps/deployments/eso-addon
           git commit -m "Daily market data update $(date -u +%F) [skip ci]"
           git push
           echo "published_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"

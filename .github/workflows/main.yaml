@@ -37,6 +37,21 @@ jobs:
           UESP_COOKIE: ${{ secrets.UESP_COOKIE }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
+      - name: Build website artifact
+        run: |
+          pnpm inject-version
+          pnpm --filter eso_market_tracker_app build
+          tar -czf "$RUNNER_TEMP/website-dist.tar.gz" \
+            -C apps/deployments/website dist
+
+      - name: Upload website artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: website-dist
+          path: ${{ runner.temp }}/website-dist.tar.gz
+          if-no-files-found: error
+          retention-days: 1
+
   release:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     needs: validate
@@ -52,11 +67,26 @@ jobs:
       - name: Setup project
         uses: ./.github/actions/setup-dependencies
 
+      - name: Inject release version
+        run: pnpm inject-version
+
       - name: Download SQLite artifact
         uses: actions/download-artifact@v5
         with:
           name: sqlite-database
           path: data/artifacts
+
+      - name: Download website artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: website-dist
+          path: ${{ runner.temp }}/website-dist
+
+      - name: Extract website artifact
+        run: |
+          rm -rf apps/deployments/website/dist
+          tar -xzf "$RUNNER_TEMP/website-dist/website-dist.tar.gz" \
+            -C apps/deployments/website
 
       - name: Download coverage badge
         uses: actions/download-artifact@v5
@@ -79,7 +109,6 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
-      # This will be built and committed to repo, don't rebuild.
       - name: Upload to S3
         working-directory: apps/deployments/website
         run: |

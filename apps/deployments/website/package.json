@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build && tsx src/scripts/build-static.tsx",
-    "build:static:incremental": "tsx src/scripts/build-static.tsx",
+    "build": "tsc && pnpm run build:client && tsx src/scripts/build-static.tsx",
+    "build:client": "vite build",
+    "build:static:incremental": "pnpm run build:client && tsx src/scripts/build-static.tsx",
     "preview": "vite preview"
   },
   "dependencies": {

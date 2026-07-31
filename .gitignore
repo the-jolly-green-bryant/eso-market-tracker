@@ -8,7 +8,6 @@ __pycache__/
 .sst/
 .vinext/
 dist
-!apps/deployments/website/dist/
 lib
 tsconfig.tsbuildinfo
 .idea/*
