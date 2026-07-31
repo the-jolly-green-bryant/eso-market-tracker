@@ -13,6 +13,7 @@
     "coverage": "pnpm vitest run --coverage",
     "inject-version": "node scripts/inject-version.js",
     "lint": "eslint .",
+    "check:staged": "tsx scripts/check-staged.ts",
     "lint:fix": "eslint . --fix",
     "typecheck": "tsc --noEmit",
     "format": "prettier . --write",
