@@ -1,6 +1,6 @@
-Initial closed-testing release of the redesigned ESO Market Tracker.
+The redesigned ESO Market Tracker for console traders.
 
 • Search more than 44,000 console-market items
 • Compare Xbox and PlayStation megaservers
-• Review current ranges, recent sales, price delta, and history
+• Review current ranges, total sales, price delta, and history
 • Install the new black-and-gold app experience
