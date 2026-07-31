@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - ".github/workflows/android-app.yaml"
+      - ".github/actions/setup-dependencies/action.yaml"
       - "apps/deployments/website/**"
       - "scripts/publish-google-play.py"
       - "scripts/validate-google-play-listing.py"
@@ -15,6 +16,7 @@ on:
       - "android-v*"
     paths:
       - ".github/workflows/android-app.yaml"
+      - ".github/actions/setup-dependencies/action.yaml"
       - "apps/deployments/website/**"
       - "scripts/publish-google-play.py"
       - "scripts/validate-google-play-listing.py"
@@ -149,7 +151,7 @@ jobs:
         run: jarsigner -verify apps/deployments/website/android/app/build/outputs/bundle/release/app-release.aab
 
       - name: Upload bundle artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: eso-market-tracker-${{ env.ANDROID_VERSION_NAME }}
           path: apps/deployments/website/android/app/build/outputs/bundle/release/app-release.aab
