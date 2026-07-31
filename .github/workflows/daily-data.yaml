@@ -85,17 +85,7 @@ jobs:
                 --acl public-read
             done
 
-      - name: Deploy updated addon
-        if: steps.changes.outputs.found == 'true'
-        uses: ./.github/actions/upload-eso-addon
-        with:
-          bnet_username: ${{ secrets.BNET_USERNAME }}
-          bnet_password: ${{ secrets.BNET_PASSWORD }}
-          addon_id: ${{ secrets.BNET_ADDON_ID }}
-          release_note: "Daily market data update from ${{ github.sha }}"
-          publish: "true"
-          concurrency: "1"
-          cli_uploader_version: "latest"
+      # Add-on publishing is paused until an approved publisher is available.
 
       - name: Commit generated data
         id: commit

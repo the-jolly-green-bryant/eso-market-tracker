@@ -133,16 +133,7 @@ jobs:
           DISCORD_APPLICATION_ID: "1121195192066781305"
           DISCORD_INTERACTIONS_ENDPOINT: "https://data.esomarkettracker.com/discord/interactions"
 
-      - name: Deploy Addon
-        uses: ./.github/actions/upload-eso-addon
-        with:
-          bnet_username: ${{ secrets.BNET_USERNAME }}
-          bnet_password: ${{ secrets.BNET_PASSWORD }}
-          addon_id: ${{ secrets.BNET_ADDON_ID }}
-          release_note: "Automated upload from ${{github.sha}}"
-          publish: "true"
-          concurrency: "1"
-          cli_uploader_version: "latest"
+      # Add-on publishing is paused until an approved publisher is available.
 
       - name: Create or update rolling release
         env:
