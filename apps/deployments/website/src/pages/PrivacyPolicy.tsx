@@ -10,13 +10,13 @@ const CONTENT = (
       services.
     </p>
     <p>
-      <strong>Website analytics</strong>
+      <strong>Website and app analytics</strong>
     </p>
     <p>
-      The website uses Google Analytics 4 to understand traffic and product
-      usage. Analytics may collect page views, referring pages, approximate
-      location, browser and device information, and interactions such as
-      outbound link clicks.
+      The website and mobile app use the same Google Analytics 4 property to
+      understand traffic and product usage. Analytics may collect page views,
+      referring pages, approximate location, browser and device information, the
+      web or app surface, and interactions such as outbound link clicks.
     </p>
     <p>
       When you search the market, ESO Market Tracker sends the search term,
@@ -36,7 +36,7 @@ const CONTENT = (
       <strong>Cookies and local storage</strong>
     </p>
     <p>
-      Google Analytics may use cookies or similar device storage for
+      Google Analytics may use cookies or similar browser or device storage for
       pseudonymous measurement. ESO Market Tracker also stores your selected
       console market and two search counters in local or session storage. You
       can clear these values through your browser controls. Blocking analytics

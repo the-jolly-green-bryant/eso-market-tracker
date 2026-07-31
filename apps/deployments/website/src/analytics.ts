@@ -1,3 +1,5 @@
+import { Capacitor } from "@capacitor/core";
+
 export const GA_MEASUREMENT_ID = "G-TZ24DG3P0Z";
 
 type AnalyticsParameters = Record<string, unknown>;
@@ -17,14 +19,20 @@ declare global {
 }
 
 const sendEvent = (name: string, parameters?: AnalyticsParameters) => {
+  const isNativeApp = Capacitor.isNativePlatform();
   if (
     typeof window === "undefined" ||
     !window.gtag ||
-    ["localhost", "127.0.0.1"].includes(window.location.hostname)
+    (!isNativeApp &&
+      ["localhost", "127.0.0.1"].includes(window.location.hostname))
   ) {
     return;
   }
-  window.gtag("event", name, parameters);
+  window.gtag("event", name, {
+    app_surface: isNativeApp ? "app" : "web",
+    app_platform: Capacitor.getPlatform(),
+    ...parameters,
+  });
 };
 
 let previousPagePath: string | undefined;

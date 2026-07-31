@@ -1,11 +1,14 @@
 // @vitest-environment jsdom
 
-import { beforeEach, describe, expect, it } from "vitest";
+import { Capacitor } from "@capacitor/core";
+import { beforeEach, describe, expect, it, vi } from "vitest";
 
 import { trackSearch } from "./analytics";
 
 describe("search analytics", () => {
   beforeEach(() => {
+    vi.restoreAllMocks();
+    delete window.gtag;
     window.localStorage.clear();
     window.sessionStorage.clear();
   });
@@ -31,5 +34,23 @@ describe("search analytics", () => {
     expect(
       window.localStorage.getItem("emt-search-count-visitor-v1"),
     ).toBeNull();
+  });
+
+  it("sends native app events from the Capacitor localhost origin", () => {
+    vi.spyOn(Capacitor, "isNativePlatform").mockReturnValue(true);
+    vi.spyOn(Capacitor, "getPlatform").mockReturnValue("android");
+    window.gtag = vi.fn();
+
+    trackSearch("Kuta", 10, "xbox-na");
+
+    expect(window.gtag).toHaveBeenCalledWith(
+      "event",
+      "search",
+      expect.objectContaining({
+        app_surface: "app",
+        app_platform: "android",
+        search_term: "Kuta",
+      }),
+    );
   });
 });
