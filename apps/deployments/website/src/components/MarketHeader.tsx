@@ -45,6 +45,12 @@ const InternalLinks = ({ pathname }: { pathname: string }) => (
     >
       API
     </Link>
+    <Link
+      className={isPathActive(pathname, routes.discordBot()) ? "is-active" : ""}
+      to={routes.discordBot()}
+    >
+      Discord
+    </Link>
   </>
 );
 

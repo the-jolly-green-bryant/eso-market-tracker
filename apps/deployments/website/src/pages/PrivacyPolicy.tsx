@@ -1,5 +1,5 @@
-import ExternalLink from '../components/ExternalLink'
-import PageContainer from '../components/PageContainer'
+import ExternalLink from "../components/ExternalLink";
+import PageContainer from "../components/PageContainer";
 
 const CONTENT = (
   <div className="static-content">
@@ -34,6 +34,22 @@ const CONTENT = (
       provide us with certain personally identifiable information. The
       information that I request will be retained on your device and is not
       collected by me in any way.
+    </p>
+    <p>
+      <strong>Discord Bot</strong>
+    </p>
+    <p>
+      When you use an ESO Market Tracker application command in Discord, Discord
+      sends the selected command, item search text, and technical context such
+      as server, channel, and user identifiers to the bot. This information is
+      used only to return the requested market result. The bot does not read
+      unrelated messages and does not retain command content or Discord
+      identifiers in an application database.
+    </p>
+    <p>
+      Requests are processed by Cloudflare, which may retain limited technical
+      logs for security, reliability, and abuse prevention under its own
+      policies.
     </p>
     <div>
       <p>
@@ -157,10 +173,10 @@ const CONTENT = (
       hesitate to contact me at esomarkettracker@gmail.com.
     </p>
   </div>
-)
+);
 
 const PrivacyPolicy: React.FC = () => (
   <PageContainer pageTitle="Privacy Policy">{CONTENT}</PageContainer>
-)
+);
 
-export default PrivacyPolicy
+export default PrivacyPolicy;

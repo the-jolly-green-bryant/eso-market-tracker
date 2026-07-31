@@ -1,49 +1,46 @@
-import {
-  IonApp,
-  IonRouterOutlet,
-  setupIonicReact,
-} from '@ionic/react'
-import { IonReactRouter } from '@ionic/react-router'
-import { Redirect, Route, Switch } from 'react-router-dom'
-import About from './pages/About'
-import AuthorizedDevelopers from './pages/AuthorizedDevelopers'
-import Dashboard from './pages/Dashboard'
-import PrivacyPolicy from './pages/PrivacyPolicy'
-import Report from './pages/Report'
-import TermsAndConditions from './pages/TermsAndConditions'
-import TradableItemCategories from './pages/TradableItemCategories'
+import { IonApp, IonRouterOutlet, setupIonicReact } from "@ionic/react";
+import { IonReactRouter } from "@ionic/react-router";
+import { Redirect, Route, Switch } from "react-router-dom";
+import About from "./pages/About";
+import AuthorizedDevelopers from "./pages/AuthorizedDevelopers";
+import Dashboard from "./pages/Dashboard";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import Report from "./pages/Report";
+import TermsAndConditions from "./pages/TermsAndConditions";
+import TradableItemCategories from "./pages/TradableItemCategories";
 import TradableItemCategoryDetail, {
   CategoryProps,
-} from './pages/TradableItemCategoryDetail'
-import TradableItemDetail, { ItemProps } from './pages/TradableItemDetail'
-import TamrielSavingsAlternative from './pages/TamrielSavingsAlternative'
-import ApiDocs from './pages/ApiDocs'
+} from "./pages/TradableItemCategoryDetail";
+import TradableItemDetail, { ItemProps } from "./pages/TradableItemDetail";
+import TamrielSavingsAlternative from "./pages/TamrielSavingsAlternative";
+import ApiDocs from "./pages/ApiDocs";
+import DiscordBot from "./pages/DiscordBot";
 
 /* Core CSS required for Ionic components to work properly */
-import '@ionic/react/css/core.css'
+import "@ionic/react/css/core.css";
 
 /* Basic CSS for apps built with Ionic */
-import '@ionic/react/css/normalize.css'
-import '@ionic/react/css/structure.css'
-import '@ionic/react/css/typography.css'
+import "@ionic/react/css/normalize.css";
+import "@ionic/react/css/structure.css";
+import "@ionic/react/css/typography.css";
 
 /* Optional CSS utils that can be commented out */
-import '@ionic/react/css/padding.css'
-import '@ionic/react/css/float-elements.css'
-import '@ionic/react/css/text-alignment.css'
-import '@ionic/react/css/text-transformation.css'
-import '@ionic/react/css/flex-utils.css'
-import '@ionic/react/css/display.css'
+import "@ionic/react/css/padding.css";
+import "@ionic/react/css/float-elements.css";
+import "@ionic/react/css/text-alignment.css";
+import "@ionic/react/css/text-transformation.css";
+import "@ionic/react/css/flex-utils.css";
+import "@ionic/react/css/display.css";
 
 /* Theme variables */
-import './theme/variables.css'
-import './components/components.scss'
-import * as routes from './routes'
-import { MemoryRouter } from 'react-router'
-import Analytics from './components/Analytics'
-import { PlatformProvider } from './platform'
+import "./theme/variables.css";
+import "./components/components.scss";
+import * as routes from "./routes";
+import { MemoryRouter } from "react-router";
+import Analytics from "./components/Analytics";
+import { PlatformProvider } from "./platform";
 
-setupIonicReact()
+setupIonicReact();
 
 const SWITCH = (initialData: unknown) => (
   <Switch>
@@ -56,7 +53,7 @@ const SWITCH = (initialData: unknown) => (
     </Route>
 
     <Route path={`${routes.item()}/:slug`} exact={true}>
-      <TradableItemDetail staticData={initialData as ItemProps['staticData']} />
+      <TradableItemDetail staticData={initialData as ItemProps["staticData"]} />
     </Route>
 
     <Route
@@ -73,7 +70,7 @@ const SWITCH = (initialData: unknown) => (
 
     <Route path={`${routes.category()}/:slug`} exact={true}>
       <TradableItemCategoryDetail
-        staticData={initialData as CategoryProps['staticData']}
+        staticData={initialData as CategoryProps["staticData"]}
       />
     </Route>
 
@@ -105,27 +102,31 @@ const SWITCH = (initialData: unknown) => (
       <ApiDocs />
     </Route>
 
+    <Route path={routes.discordBot()} exact={true}>
+      <DiscordBot />
+    </Route>
+
     <Route path="*">
       <Redirect to={`${routes.dashboard()}/`} />
     </Route>
   </Switch>
-)
+);
 
-const isServer = typeof window === 'undefined'
-const Router = isServer ? MemoryRouter : IonReactRouter
+const isServer = typeof window === "undefined";
+const Router = isServer ? MemoryRouter : IonReactRouter;
 
 const App: React.FC<{
-  initialUrl?: string
-  initialData?: unknown
+  initialUrl?: string;
+  initialData?: unknown;
 }> = ({ initialUrl, initialData }) => (
   <PlatformProvider>
     <IonApp>
-      <Router {...(isServer ? { initialEntries: [initialUrl ?? '/'] } : {})}>
+      <Router {...(isServer ? { initialEntries: [initialUrl ?? "/"] } : {})}>
         <Analytics />
         <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>
       </Router>
     </IonApp>
   </PlatformProvider>
-)
+);
 
-export default App
+export default App;

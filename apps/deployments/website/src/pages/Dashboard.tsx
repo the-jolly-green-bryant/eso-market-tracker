@@ -1,95 +1,104 @@
-import { IonIcon } from '@ionic/react'
+import { IonIcon } from "@ionic/react";
 import {
   analyticsOutline,
   checkmarkCircle,
   codeSlashOutline,
   cubeOutline,
+  logoDiscord,
   logoGithub,
   pulseOutline,
   searchOutline,
   serverOutline,
   timeOutline,
-} from 'ionicons/icons'
-import { useEffect, useRef, useState } from 'react'
-import { Helmet } from 'react-helmet'
-import { Link, useHistory, useParams } from 'react-router-dom'
+} from "ionicons/icons";
+import { useEffect, useRef, useState } from "react";
+import { Helmet } from "react-helmet";
+import { Link, useHistory, useParams } from "react-router-dom";
 
-import LoadingSkeleton from '../components/LoadingSkeleton'
-import SearchBar from '../components/SearchBar'
-import TopSoldItems from '../components/TopSoldItems'
-import TradableItemList from '../components/TradableItemList'
-import { ERROR_STATE, LOADING_STATE } from '../components/common'
-import * as routes from '../routes'
-import { trackSearch } from '../analytics'
-import { __useSearch } from './useItem'
-import './Dashboard.scss'
-import { MARKET_STATS } from '../marketStats'
-import MarketHeader from '../components/MarketHeader'
-import MarketInsights from '../components/MarketInsights'
-import SupportBanner from '../components/SupportBanner'
-import ExternalLink from '../components/ExternalLink'
+import LoadingSkeleton from "../components/LoadingSkeleton";
+import SearchBar from "../components/SearchBar";
+import TopSoldItems from "../components/TopSoldItems";
+import TradableItemList from "../components/TradableItemList";
+import { ERROR_STATE, LOADING_STATE } from "../components/common";
+import * as routes from "../routes";
+import { trackSearch } from "../analytics";
+import { __useSearch } from "./useItem";
+import "./Dashboard.scss";
+import { MARKET_STATS } from "../marketStats";
+import MarketHeader from "../components/MarketHeader";
+import MarketInsights from "../components/MarketInsights";
+import SupportBanner from "../components/SupportBanner";
+import ExternalLink from "../components/ExternalLink";
+import { DISCORD_BOT_INSTALL_LINK } from "../constants";
 
 const accessCards = [
   {
-    title: 'The website',
-    description: 'Real-time console prices, history, and market intelligence.',
-    href: 'https://www.esomarkettracker.com',
+    title: "The website",
+    description: "Real-time console prices, history, and market intelligence.",
+    href: "https://www.esomarkettracker.com",
     icon: analyticsOutline,
-    action: 'Open tracker',
+    action: "Open tracker",
   },
   {
-    title: 'Explore the API',
-    description: 'Programmatic access to normalized pricing and item data.',
+    title: "Explore the API",
+    description: "Programmatic access to normalized pricing and item data.",
     href: routes.apiDocs(),
     icon: codeSlashOutline,
-    action: 'Read the API',
+    action: "Read the API",
   },
   {
-    title: 'Install the add-on',
-    description: 'Install the unified TSC2 price checker for console markets.',
-    href: 'https://tamrielsavings.com/price-fetcher',
+    title: "Install the add-on",
+    description: "Install the unified TSC2 price checker for console markets.",
+    href: "https://tamrielsavings.com/price-fetcher",
     icon: cubeOutline,
-    action: 'Get TSC2',
+    action: "Get TSC2",
   },
   {
-    title: 'Data access',
-    description: 'Download the public dataset and rolling SQLite release.',
-    href: 'https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest',
+    title: "Discord price bot",
+    description: "Run the definitive console price checker inside your server.",
+    href: DISCORD_BOT_INSTALL_LINK,
+    icon: logoDiscord,
+    action: "Add to Discord",
+  },
+  {
+    title: "Data access",
+    description: "Download the public dataset and rolling SQLite release.",
+    href: "https://github.com/the-jolly-green-bryant/eso-market-tracker/releases/tag/latest",
     icon: serverOutline,
-    action: 'Download data',
+    action: "Download data",
   },
   {
-    title: 'GitHub',
-    description: 'Inspect the source, pipeline, history, and methodology.',
-    href: 'https://github.com/the-jolly-green-bryant/eso-market-tracker',
+    title: "GitHub",
+    description: "Inspect the source, pipeline, history, and methodology.",
+    href: "https://github.com/the-jolly-green-bryant/eso-market-tracker",
     icon: logoGithub,
-    action: 'Browse source',
+    action: "Browse source",
   },
-]
+];
 
 const proofStats = [
   {
     value: MARKET_STATS.trackedItems.toLocaleString(),
-    label: 'tracked items',
+    label: "tracked items",
     icon: serverOutline,
   },
   {
     value: MARKET_STATS.pricingRecords.toLocaleString(),
-    label: 'pricing records',
+    label: "pricing records",
     icon: analyticsOutline,
   },
   {
     value: MARKET_STATS.observations.toLocaleString(),
-    label: 'observations',
+    label: "observations",
     icon: pulseOutline,
   },
   {
     value: MARKET_STATS.consoleMarkets.toLocaleString(),
-    label: 'console markets',
+    label: "console markets",
     icon: cubeOutline,
   },
-  { value: 'Daily', label: 'data refresh', icon: timeOutline },
-]
+  { value: "Daily", label: "data refresh", icon: timeOutline },
+];
 
 const AccessCard = ({ card }: { card: (typeof accessCards)[number] }) => {
   const content = (
@@ -99,9 +108,9 @@ const AccessCard = ({ card }: { card: (typeof accessCards)[number] }) => {
       <p>{card.description}</p>
       <span>{card.action} →</span>
     </>
-  )
+  );
 
-  return card.href.startsWith('http') ? (
+  return card.href.startsWith("http") ? (
     <ExternalLink className="market-access-card" href={card.href}>
       {content}
     </ExternalLink>
@@ -109,8 +118,8 @@ const AccessCard = ({ card }: { card: (typeof accessCards)[number] }) => {
     <Link className="market-access-card" to={card.href}>
       {content}
     </Link>
-  )
-}
+  );
+};
 
 const NoResults = () => (
   <div className="market-search-state">
@@ -121,27 +130,27 @@ const NoResults = () => (
       message="Try another item name, material, furnishing plan, or gear set."
     />
   </div>
-)
+);
 
 const useSearch = (text?: string) => {
-  const history = useHistory()
-  const abortController = useRef<AbortController>()
-  const [currentSearch, setCurrentSearch] = useState(text || '')
-  const { loading, error, data } = __useSearch(currentSearch)
+  const history = useHistory();
+  const abortController = useRef<AbortController>();
+  const [currentSearch, setCurrentSearch] = useState(text || "");
+  const { loading, error, data } = __useSearch(currentSearch);
 
   const onPerformSearch = (searchText: string) => {
-    const trimmed = searchText.trim()
+    const trimmed = searchText.trim();
     const newPath = trimmed
       ? routes.getSearchResults(trimmed)
-      : `${routes.dashboard()}/`
-    if (history.location.pathname !== newPath) history.replace(newPath)
-    setCurrentSearch(trimmed)
-    abortController.current?.abort()
-    abortController.current = new window.AbortController()
-  }
+      : `${routes.dashboard()}/`;
+    if (history.location.pathname !== newPath) history.replace(newPath);
+    setCurrentSearch(trimmed);
+    abortController.current?.abort();
+    abortController.current = new window.AbortController();
+  };
 
-  return { loading, error, data, onPerformSearch, currentSearch }
-}
+  return { loading, error, data, onPerformSearch, currentSearch };
+};
 
 const ProofBar = () => (
   <section className="market-proof" aria-label="Dataset coverage">
@@ -155,7 +164,7 @@ const ProofBar = () => (
       </div>
     ))}
   </section>
-)
+);
 
 const Hero = ({
   text,
@@ -163,12 +172,12 @@ const Hero = ({
   searchInputRef,
   children,
 }: {
-  text?: string
-  onPerformSearch: (text: string) => void
-  searchInputRef: React.RefObject<HTMLInputElement>
-  children?: React.ReactNode
+  text?: string;
+  onPerformSearch: (text: string) => void;
+  searchInputRef: React.RefObject<HTMLInputElement>;
+  children?: React.ReactNode;
 }) => (
-  <section className={`market-hero${children ? ' is-searching' : ''}`}>
+  <section className={`market-hero${children ? " is-searching" : ""}`}>
     <div className="market-hero-art" aria-hidden="true" />
     <div className="market-hero-content">
       <div className="market-kicker">
@@ -187,7 +196,7 @@ const Hero = ({
           inputRef={searchInputRef}
           text={text}
           searchCallback={onPerformSearch}
-          onClear={() => onPerformSearch('')}
+          onClear={() => onPerformSearch("")}
           placeholderText={`Search ${MARKET_STATS.trackedItems.toLocaleString()} console items`}
         />
         <kbd>⌘ K</kbd>
@@ -195,7 +204,7 @@ const Hero = ({
 
       <div className="market-popular">
         <span>Popular</span>
-        {['Kuta', 'Dreugh Wax', 'Perfect Roe', 'Tempering Alloy'].map(
+        {["Kuta", "Dreugh Wax", "Perfect Roe", "Tempering Alloy"].map(
           (item) => (
             <button key={item} onClick={() => onPerformSearch(item)}>
               {item}
@@ -207,7 +216,7 @@ const Hero = ({
       {children && <div className="market-hero-results">{children}</div>}
     </div>
   </section>
-)
+);
 
 const SearchResults = ({
   currentSearch,
@@ -215,10 +224,10 @@ const SearchResults = ({
   error,
   data,
 }: {
-  currentSearch: string
-  loading: boolean
-  error: Error | null
-  data: ReturnType<typeof __useSearch>['data']
+  currentSearch: string;
+  loading: boolean;
+  error: Error | null;
+  data: ReturnType<typeof __useSearch>["data"];
 }) => (
   <section className="market-results">
     <div className="market-section-heading">
@@ -233,7 +242,7 @@ const SearchResults = ({
     {!loading && !error && data.length > 0 && <TradableItemList items={data} />}
     {!loading && !error && !data.length && <NoResults />}
   </section>
-)
+);
 
 const DefaultContent = () => (
   <>
@@ -245,7 +254,7 @@ const DefaultContent = () => (
           <span>Market snapshot</span>
           <h2>Gold materials</h2>
         </div>
-        <Link to={routes.getCategory('Mats (Gold)')}>View category →</Link>
+        <Link to={routes.getCategory("Mats (Gold)")}>View category →</Link>
       </div>
       <TopSoldItems />
     </section>
@@ -271,53 +280,53 @@ const DefaultContent = () => (
         Search current Elder Scrolls Online market values for Xbox and
         PlayStation, from Dreugh Wax and Kuta to furnishing plans, motifs, gear,
         and materials. ESO Market Tracker provides public price history and
-        recent console market observations for more than{' '}
+        recent console market observations for more than{" "}
         {MARKET_STATS.trackedItems.toLocaleString()} items.
       </p>
       <p>
-        Looking for Tamriel Savings Co, the TSC price checker, or SavageTSC?{' '}
+        Looking for Tamriel Savings Co, the TSC price checker, or SavageTSC?{" "}
         <Link to={routes.tamrielSavingsAlternative()}>
           Compare the independent ESO Market Tracker alternative.
         </Link>
       </p>
     </section>
   </>
-)
+);
 
 // eslint-disable-next-line max-lines-per-function
 export default () => {
-  const { text } = useParams<{ text: string | undefined }>()
-  const searchInputRef = useRef<HTMLInputElement>(null)
+  const { text } = useParams<{ text: string | undefined }>();
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const { loading, error, data, onPerformSearch, currentSearch } =
-    useSearch(text)
+    useSearch(text);
 
   useEffect(() => {
-    if (text) onPerformSearch(text)
-  }, [])
+    if (text) onPerformSearch(text);
+  }, []);
 
   useEffect(() => {
     if (currentSearch && data && !loading && !error) {
-      trackSearch(currentSearch, data.length)
+      trackSearch(currentSearch, data.length);
     }
-  }, [currentSearch, data, loading, error])
+  }, [currentSearch, data, loading, error]);
 
   useEffect(() => {
     const focusSearch = (event: globalThis.KeyboardEvent) => {
       if (
-        event.key.toLowerCase() !== 'k' ||
+        event.key.toLowerCase() !== "k" ||
         (!event.metaKey && !event.ctrlKey)
       ) {
-        return
+        return;
       }
 
-      event.preventDefault()
-      searchInputRef.current?.focus()
-      searchInputRef.current?.select()
-    }
+      event.preventDefault();
+      searchInputRef.current?.focus();
+      searchInputRef.current?.select();
+    };
 
-    window.addEventListener('keydown', focusSearch)
-    return () => window.removeEventListener('keydown', focusSearch)
-  }, [])
+    window.addEventListener("keydown", focusSearch);
+    return () => window.removeEventListener("keydown", focusSearch);
+  }, []);
 
   return (
     <div className="market-home">
@@ -344,28 +353,28 @@ export default () => {
         <meta name="twitter:card" content="summary_large_image" />
         <script type="application/ld+json">
           {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@graph': [
+            "@context": "https://schema.org",
+            "@graph": [
               {
-                '@type': 'WebSite',
-                name: 'ESO Market Tracker',
-                alternateName: 'ESO Price Checker',
-                url: 'https://esomarkettracker.com/',
+                "@type": "WebSite",
+                name: "ESO Market Tracker",
+                alternateName: "ESO Price Checker",
+                url: "https://esomarkettracker.com/",
                 potentialAction: {
-                  '@type': 'SearchAction',
+                  "@type": "SearchAction",
                   target:
-                    'https://esomarkettracker.com/dashboard/{search_term_string}',
-                  'query-input': 'required name=search_term_string',
+                    "https://esomarkettracker.com/dashboard/{search_term_string}",
+                  "query-input": "required name=search_term_string",
                 },
               },
               {
-                '@type': 'WebApplication',
-                name: 'ESO Market Tracker',
-                applicationCategory: 'GameApplication',
-                operatingSystem: 'Web',
-                url: 'https://esomarkettracker.com/dashboard/',
+                "@type": "WebApplication",
+                name: "ESO Market Tracker",
+                applicationCategory: "GameApplication",
+                operatingSystem: "Web",
+                url: "https://esomarkettracker.com/dashboard/",
                 description:
-                  'An Elder Scrolls Online console market tracker and price checker for Xbox and PlayStation.',
+                  "An Elder Scrolls Online console market tracker and price checker for Xbox and PlayStation.",
               },
             ],
           })}
@@ -401,5 +410,5 @@ export default () => {
         </footer>
       </main>
     </div>
-  )
-}
+  );
+};
