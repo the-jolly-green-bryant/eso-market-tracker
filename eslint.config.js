@@ -13,6 +13,7 @@ export default [
       "data/**/**",
       "eslint.config.js",
       "scripts/inject-version.js",
+      "marketing/campaigns/tamriel-savings/render-creatives.cjs",
       "**/ios/**",
       "**/android/**",
       "**/worker-configuration.d.ts",
