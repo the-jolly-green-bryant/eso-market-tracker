@@ -1,46 +1,44 @@
-import { IonIcon } from '@ionic/react'
+import { IonIcon } from "@ionic/react";
 import {
   arrowBackOutline,
   pricetagOutline,
   pulseOutline,
   swapHorizontalOutline,
   timeOutline,
-} from 'ionicons/icons'
-import { Link } from 'react-router-dom'
+} from "ionicons/icons";
+import { ReactNode } from "react";
+import { Link } from "react-router-dom";
 
-import { SalesRollupType, TradableItemType } from '../models/tradable-item-types'
-import { MarketPlatform } from '../platform'
-import * as routes from '../routes'
-import MarketHeader from './MarketHeader'
-import MarketHistoryChart from './MarketHistoryChart'
-import MarketItemIdentity from './MarketItemIdentity'
-import SearchBar from './SearchBar'
-import './MarketItemDetail.scss'
+import {
+  SalesRollupType,
+  TradableItemType,
+} from "../models/tradable-item-types";
+import { MarketPlatform } from "../platform";
+import * as routes from "../routes";
+import { GoldPrice, GoldPriceRange } from "./GoldPrice";
+import MarketHeader from "./MarketHeader";
+import MarketHistoryChart from "./MarketHistoryChart";
+import MarketItemIdentity from "./MarketItemIdentity";
+import SearchBar from "./SearchBar";
+import "./MarketItemDetail.scss";
 
 /* eslint-disable max-lines-per-function */
 
-const gold = (value: number) => `${Math.round(value).toLocaleString()} gold`
-const goldDelta = (value: number | null) => {
-  if (value === null) return 'New'
-  const sign = value >= 0 ? '+' : ''
-  return `${sign}${gold(value)}`
-}
-
 const QualityPrices = ({ item }: { item: TradableItemType }) => {
   const trait =
-    item.raw?.['--'] ??
-    item.raw?.[Object.keys(item.raw || {}).at(0) || '--'] ??
-    {}
+    item.raw?.["--"] ??
+    item.raw?.[Object.keys(item.raw || {}).at(0) || "--"] ??
+    {};
   const qualities = [
-    ['Legendary', '05', '#d9ad5b'],
-    ['Epic', '04', '#a779d4'],
-    ['Superior', '03', '#4f91d8'],
-    ['Fine', '02', '#5ea967'],
-    ['Common', '01', '#b8b8b8'],
-  ] as const
-  const available = qualities.filter(([, key]) => trait[key]?.average)
+    ["Legendary", "05", "#d9ad5b"],
+    ["Epic", "04", "#a779d4"],
+    ["Superior", "03", "#4f91d8"],
+    ["Fine", "02", "#5ea967"],
+    ["Common", "01", "#b8b8b8"],
+  ] as const;
+  const available = qualities.filter(([, key]) => trait[key]?.average);
 
-  if (!available.length) return null
+  if (!available.length) return null;
 
   return (
     <section className="market-item-panel">
@@ -51,34 +49,61 @@ const QualityPrices = ({ item }: { item: TradableItemType }) => {
       <div className="market-item-quality-list">
         {available.map(([label, key, color]) => (
           <div key={key}>
-            <span className="market-item-quality-dot" style={{ background: color }} />
+            <span
+              className="market-item-quality-dot"
+              style={{ background: color }}
+            />
             <strong>{label}</strong>
-            <b>{gold(trait[key].average)}</b>
+            <b>
+              <GoldPrice value={trait[key].average} />
+            </b>
           </div>
         ))}
       </div>
     </section>
-  )
-}
+  );
+};
 
 export default ({
   item,
   history,
 }: {
-  item: TradableItemType
-  history: SalesRollupType[]
+  item: TradableItemType;
+  history: SalesRollupType[];
 }) => {
-  const platform = (item.platform || 'xbox-na') as MarketPlatform
-  const stats = item.currentXboxStats
+  const platform = (item.platform || "xbox-na") as MarketPlatform;
+  const stats = item.currentXboxStats;
   const previous = [...history]
     .reverse()
-    .find((point) => point.date !== stats.date)?.averageUnitPrice
-  const delta = previous ? stats.averageUnitPrice - previous : null
-  const change = previous ? (delta! / previous) * 100 : null
+    .find((point) => point.date !== stats.date)?.averageUnitPrice;
+  const delta = previous ? stats.averageUnitPrice - previous : null;
+  const change = previous ? (delta! / previous) * 100 : null;
   const observationCount = new Set([
     stats.date,
     ...history.map((point) => point.date),
-  ]).size
+  ]).size;
+  const summaryStats: Array<[string, ReactNode, string]> = [
+    ["Low", <GoldPrice value={stats.minimumUnitPrice} />, pricetagOutline],
+    ["High", <GoldPrice value={stats.maximumUnitPrice} />, pulseOutline],
+    [
+      "Typical range",
+      <GoldPriceRange
+        minimum={stats.commonUnitPriceRangeLower}
+        maximum={stats.commonUnitPriceRangeUpper}
+      />,
+      swapHorizontalOutline,
+    ],
+    ["Price observations", observationCount.toLocaleString(), timeOutline],
+    [
+      "Price delta",
+      delta === null ? (
+        "New"
+      ) : (
+        <GoldPrice value={delta} prefix={delta >= 0 ? "+" : ""} />
+      ),
+      swapHorizontalOutline,
+    ],
+  ];
 
   return (
     <div className="market-item-page">
@@ -90,9 +115,7 @@ export default ({
               <IonIcon icon={arrowBackOutline} /> Back to market
             </Link>
             <div className="market-item-search">
-              <SearchBar
-                placeholderText="Search another item"
-              />
+              <SearchBar placeholderText="Search another item" />
             </div>
           </div>
 
@@ -101,11 +124,13 @@ export default ({
 
             <div className="market-item-price-card">
               <span>Average unit price</span>
-              <strong>{stats.averageUnitPrice.toLocaleString()}</strong>
-              <small>gold · updated {stats.date}</small>
+              <strong>
+                <GoldPrice value={stats.averageUnitPrice} />
+              </strong>
+              <small>Updated {stats.date}</small>
               {change !== null && (
-                <b className={change >= 0 ? 'is-up' : 'is-down'}>
-                  {change >= 0 ? '+' : ''}
+                <b className={change >= 0 ? "is-up" : "is-down"}>
+                  {change >= 0 ? "+" : ""}
                   {change.toFixed(1)}% since previous observation
                 </b>
               )}
@@ -113,25 +138,7 @@ export default ({
           </section>
 
           <section className="market-item-stats" aria-label="Price summary">
-            {[
-              ['Low', gold(stats.minimumUnitPrice), pricetagOutline],
-              ['High', gold(stats.maximumUnitPrice), pulseOutline],
-              [
-                'Typical range',
-                `${stats.commonUnitPriceRangeLower.toLocaleString()}–${stats.commonUnitPriceRangeUpper.toLocaleString()}`,
-                swapHorizontalOutline,
-              ],
-              [
-                'Price observations',
-                observationCount.toLocaleString(),
-                timeOutline,
-              ],
-              [
-                'Price delta',
-                goldDelta(delta),
-                swapHorizontalOutline,
-              ],
-            ].map(([label, value, icon]) => (
+            {summaryStats.map(([label, value, icon]) => (
               <div key={label}>
                 <IonIcon icon={icon} />
                 <span>{label}</span>
@@ -146,10 +153,7 @@ export default ({
                 <span>Market movement</span>
                 <h2>Price history</h2>
               </div>
-              <MarketHistoryChart
-                history={history}
-                current={stats}
-              />
+              <MarketHistoryChart history={history} current={stats} />
             </section>
 
             <section className="market-item-panel market-item-guidance">
@@ -159,15 +163,21 @@ export default ({
               </div>
               <div>
                 <span>Fast sale</span>
-                <strong>{gold(stats.commonUnitPriceRangeLower)}</strong>
+                <strong>
+                  <GoldPrice value={stats.commonUnitPriceRangeLower} />
+                </strong>
               </div>
               <div>
                 <span>Market average</span>
-                <strong>{gold(stats.averageUnitPrice)}</strong>
+                <strong>
+                  <GoldPrice value={stats.averageUnitPrice} />
+                </strong>
               </div>
               <div>
                 <span>Patient listing</span>
-                <strong>{gold(stats.commonUnitPriceRangeUpper)}</strong>
+                <strong>
+                  <GoldPrice value={stats.commonUnitPriceRangeUpper} />
+                </strong>
               </div>
             </section>
           </div>
@@ -185,5 +195,5 @@ export default ({
         </div>
       </main>
     </div>
-  )
-}
+  );
+};

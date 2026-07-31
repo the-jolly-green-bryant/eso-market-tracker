@@ -9,6 +9,7 @@ import {
   getIdFromName,
 } from "../pages/useItem";
 import { TradableItemType } from "../models/tradable-item-types";
+import { GOLD_ICON_URL } from "../components/gold-currency";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -41,10 +42,7 @@ const applyRenderedPage = (
     .replace(/\s*<link\s+rel="canonical"[^>]*\/?>/g, "");
 
   return withoutGenericSeo
-    .replace(
-      '<div id="root"></div>',
-      `<div id="root">${rendered.html}</div>`,
-    )
+    .replace('<div id="root"></div>', `<div id="root">${rendered.html}</div>`)
     .replace("</head>", `${rendered.head}\n</head>`);
 };
 
@@ -116,19 +114,18 @@ export const getShardedRecord = async (name: string) => {
   const internalId = getIdFromName(name);
   const pricingIndex = await MASTER_PRICING_INDEX();
   const keysByItem = await PRICING_KEYS_BY_ITEM();
-  return (keysByItem.get(internalId) || [])
-    .reduce((acc, qualifiedId) => {
-      const p = /^(.*?)-([-0-9]{2})-([-0-9]{2})\.(.*)$/;
-      const [, , traitId, qualityId, platform] = RegExp(p).exec(qualifiedId)!;
+  return (keysByItem.get(internalId) || []).reduce((acc, qualifiedId) => {
+    const p = /^(.*?)-([-0-9]{2})-([-0-9]{2})\.(.*)$/;
+    const [, , traitId, qualityId, platform] = RegExp(p).exec(qualifiedId)!;
 
-      _setNested(
-        acc,
-        [platform, traitId.replace("-1", "--"), qualityId],
-        pricingIndex[qualifiedId],
-      );
+    _setNested(
+      acc,
+      [platform, traitId.replace("-1", "--"), qualityId],
+      pricingIndex[qualifiedId],
+    );
 
-      return acc;
-    }, {});
+    return acc;
+  }, {});
 };
 
 const _getStaticItem = async (name: string) => {
@@ -223,22 +220,24 @@ const renderItemSeoPage = (item: TradableItemType) => {
 <script type="application/ld+json">${JSON.stringify(jsonLd).replaceAll("<", "\\u003c")}</script>`,
     html: `<main class="seo-static-item">
   <h1>${escapeHtml(itemName)} ESO price check</h1>
-  <p>Current average console market value: <strong>${price.toLocaleString()} gold</strong>.</p>
+  <p>Current average console market value: <strong class="eso-gold-price"><span aria-hidden="true">${price.toLocaleString()}</span><img class="eso-gold-icon" src="${GOLD_ICON_URL}" alt="" aria-hidden="true"><span class="eso-gold-price-sr-only">${price.toLocaleString()} gold</span></strong>.</p>
   <p>Compare recent Elder Scrolls Online sale prices and market history for ${escapeHtml(itemName)} on Xbox and PlayStation.</p>
   ${item.description ? `<p>${escapeHtml(item.description)}</p>` : ""}
 </main>`,
   };
 };
 
-const makeItemPages = async (
-  data: TradableItemType[],
-  template: string,
-) => {
+const makeItemPages = async (data: TradableItemType[], template: string) => {
   for (const item of data) {
     const rendered = renderItemSeoPage(item);
     const html = applyRenderedPage(template, rendered);
 
-    const outFile = path.join(distPath, "item", item.displayLabel, "index.html");
+    const outFile = path.join(
+      distPath,
+      "item",
+      item.displayLabel,
+      "index.html",
+    );
     await fs.mkdir(path.dirname(outFile), { recursive: true });
     await fs.writeFile(outFile, html);
 

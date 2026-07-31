@@ -1,0 +1,27 @@
+.eso-gold-price.eso-gold-price {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  white-space: nowrap;
+}
+
+.eso-gold-icon {
+  display: inline-block;
+  width: clamp(12px, 0.8em, 18px);
+  height: clamp(12px, 0.8em, 18px);
+  flex: 0 0 auto;
+  filter: drop-shadow(0 0 4px rgb(228 184 95 / 25%));
+  object-fit: contain;
+  vertical-align: -0.12em;
+}
+
+.eso-gold-price-sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  border: 0 !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+}

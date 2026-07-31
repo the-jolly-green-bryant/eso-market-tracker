@@ -1,29 +1,30 @@
-import FlatButton from '../components/FlatButton'
-import LocalImage from '../components/LocalImage'
-import PlaceholderImage from '../components/PlaceholderImage'
-import { TradableItemReferenceType } from '../models/tradable-item-types'
-import * as routes from '../routes'
-import { trackItemSelection } from '../analytics'
+import FlatButton from "../components/FlatButton";
+import { GoldPrice, GoldPriceRange } from "../components/GoldPrice";
+import LocalImage from "../components/LocalImage";
+import PlaceholderImage from "../components/PlaceholderImage";
+import { TradableItemReferenceType } from "../models/tradable-item-types";
+import * as routes from "../routes";
+import { trackItemSelection } from "../analytics";
 
 interface ContainerProps {
-  item: TradableItemReferenceType
-  displayRange?: boolean
-  disableClick?: boolean
-  itemDescriptor?: string
+  item: TradableItemReferenceType;
+  displayRange?: boolean;
+  disableClick?: boolean;
+  itemDescriptor?: string;
 }
 
 const TradableItemReference: React.FC<ContainerProps> = ({
   item,
   displayRange = false,
   disableClick = false,
-  itemDescriptor = '',
+  itemDescriptor = "",
 }) => {
-  const updatedDate = item.currentXboxStats.date
+  const updatedDate = item.currentXboxStats.date;
 
   return (
     <div className="tradable-item-reference">
       <FlatButton
-        onButtonClick={() => trackItemSelection(item, 'item_results')}
+        onButtonClick={() => trackItemSelection(item, "item_results")}
         to={
           disableClick
             ? undefined
@@ -39,21 +40,16 @@ const TradableItemReference: React.FC<ContainerProps> = ({
           </div>
 
           <div className="tradable-item-reference-price">
-            Avg. Price:{' '}
-            {Math.round(
-              item.currentXboxStats.averageUnitPrice
-            ).toLocaleString()}
+            Avg. Price:{" "}
+            <GoldPrice value={item.currentXboxStats.averageUnitPrice} />
           </div>
 
           {displayRange ? (
             <div className="tradable-item-reference-sales">
-              {Math.round(
-                item.currentXboxStats.commonUnitPriceRangeLower
-              ).toLocaleString()}{' '}
-              -{' '}
-              {Math.round(
-                item.currentXboxStats.commonUnitPriceRangeUpper
-              ).toLocaleString()}{' '}
+              <GoldPriceRange
+                minimum={item.currentXboxStats.commonUnitPriceRangeLower}
+                maximum={item.currentXboxStats.commonUnitPriceRangeUpper}
+              />{" "}
               &bull; Updated {updatedDate}
             </div>
           ) : (
@@ -70,7 +66,7 @@ const TradableItemReference: React.FC<ContainerProps> = ({
         </div>
       </FlatButton>
     </div>
-  )
-}
+  );
+};
 
-export default TradableItemReference
+export default TradableItemReference;
