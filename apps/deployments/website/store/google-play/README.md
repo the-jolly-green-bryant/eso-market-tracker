@@ -1,9 +1,9 @@
 # Google Play release
 
 This directory is the source of truth for the ESO Market Tracker Play Store
-listing. The Android workflow uploads the listing text, app icon, feature
-graphic, phone screenshots, support contact, release notes, and signed app
-bundle to the `alpha` closed-testing track.
+listing. The Android workflow validates and uploads the listing text, app icon,
+feature graphic, phone screenshots, support contact, release notes, and signed
+app bundle.
 
 ## One-time account setup
 
@@ -29,15 +29,25 @@ Target audience, Content rating, Ads, and related policy forms. Set the app
 category to **Tools** and the privacy policy to
 `https://esomarkettracker.com/privacy-policy`.
 
-## Release
+Google Play has no hidden keyword field. Search terms are written naturally
+into `listing.json`; the validator protects the important phrases without
+resorting to metadata spam. Keep the listing accurate and avoid repetitive
+keyword blocks.
 
-Every relevant pull request and `main` push builds an unsigned validation AAB.
-To publish a signed closed-testing release:
+## Automated release
 
-1. Push an `android-vX.Y.Z` tag, or run the **Android app** workflow manually
-   with `publish` enabled.
-2. Confirm the workflow's Play publishing summary.
-3. Promote the tested release in Play Console when it is ready for production.
+Every relevant pull request builds a validation AAB. Once all five repository
+secrets are configured:
+
+- Every relevant push to `main` automatically publishes to the `alpha`
+  closed-testing track.
+- An `android-vX.Y.Z` tag automatically publishes to production.
+- A manual run can publish to either `alpha` or `production`.
 
 Each publish increments the existing version-code baseline and synchronizes the
 repository-backed listing before committing the Play edit.
+
+If signing or service-account credentials are absent, the workflow still builds
+and validates the app, then names the missing secrets in its summary. Google
+Play must also show an active, verified developer account; API commits cannot
+publish while the developer profile is restricted or removed.

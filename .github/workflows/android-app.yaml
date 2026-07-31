@@ -6,6 +6,7 @@ on:
       - ".github/workflows/android-app.yaml"
       - "apps/deployments/website/**"
       - "scripts/publish-google-play.py"
+      - "scripts/validate-google-play-listing.py"
       - "pnpm-lock.yaml"
   push:
     branches:
@@ -16,14 +17,23 @@ on:
       - ".github/workflows/android-app.yaml"
       - "apps/deployments/website/**"
       - "scripts/publish-google-play.py"
+      - "scripts/validate-google-play-listing.py"
       - "pnpm-lock.yaml"
   workflow_dispatch:
     inputs:
       publish:
-        description: Publish the signed bundle to Google Play closed testing
+        description: Publish the signed bundle to Google Play
         required: true
         default: true
         type: boolean
+      track:
+        description: Google Play release track
+        required: true
+        default: alpha
+        type: choice
+        options:
+          - alpha
+          - production
 
 permissions:
   contents: read
@@ -41,7 +51,6 @@ jobs:
       ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
       ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
       PLAY_PACKAGE_NAME: eso_market_tracker.bryantjames.com
-      PLAY_TRACK: alpha
 
     steps:
       - name: Check out repository
@@ -71,34 +80,46 @@ jobs:
 
       - name: Determine publishing mode
         id: publishing
-        shell: bash
-        run: |
-          if [[ "$GITHUB_REF" == refs/tags/android-v* ]] \
-            || [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" && "${{ inputs.publish }}" == "true" ]]; then
-            echo "enabled=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "enabled=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Validate publishing credentials
-        if: steps.publishing.outputs.enabled == 'true'
         env:
           GOOGLE_PLAY_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_PLAY_SERVICE_ACCOUNT_JSON }}
           ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
         shell: bash
         run: |
           set -euo pipefail
-          test -n "$GOOGLE_PLAY_SERVICE_ACCOUNT_JSON" || {
-            echo "Add GOOGLE_PLAY_SERVICE_ACCOUNT_JSON from the shared Google Play account." >&2
-            exit 1
-          }
-          test -n "$ANDROID_KEYSTORE_BASE64" || {
-            echo "Add the ESO Market Tracker upload-keystore secrets." >&2
-            exit 1
-          }
-          test -n "$ANDROID_KEYSTORE_PASSWORD"
-          test -n "$ANDROID_KEY_ALIAS"
-          test -n "$ANDROID_KEY_PASSWORD"
+
+          requested=false
+          track=alpha
+          if [[ "$GITHUB_REF" == refs/tags/android-v* ]]; then
+            requested=true
+            track=production
+          elif [[ "$GITHUB_EVENT_NAME" == "push" && "$GITHUB_REF" == "refs/heads/main" ]]; then
+            requested=true
+          elif [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" && "${{ inputs.publish }}" == "true" ]]; then
+            requested=true
+            track="${{ inputs.track }}"
+          fi
+
+          missing=()
+          [[ -n "$GOOGLE_PLAY_SERVICE_ACCOUNT_JSON" ]] || missing+=("GOOGLE_PLAY_SERVICE_ACCOUNT_JSON")
+          [[ -n "$ANDROID_KEYSTORE_BASE64" ]] || missing+=("ANDROID_KEYSTORE_BASE64")
+          [[ -n "$ANDROID_KEYSTORE_PASSWORD" ]] || missing+=("ANDROID_KEYSTORE_PASSWORD")
+          [[ -n "$ANDROID_KEY_ALIAS" ]] || missing+=("ANDROID_KEY_ALIAS")
+          [[ -n "$ANDROID_KEY_PASSWORD" ]] || missing+=("ANDROID_KEY_PASSWORD")
+
+          echo "requested=$requested" >> "$GITHUB_OUTPUT"
+          echo "track=$track" >> "$GITHUB_OUTPUT"
+          echo "PLAY_TRACK=$track" >> "$GITHUB_ENV"
+          if [[ "$requested" == "true" && "${#missing[@]}" -eq 0 ]]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+            echo "missing=" >> "$GITHUB_OUTPUT"
+          else
+            missing_csv="$(IFS=,; echo "${missing[*]}")"
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "missing=$missing_csv" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Validate Google Play listing
+        run: python scripts/validate-google-play-listing.py
 
       - name: Restore Android upload key
         if: steps.publishing.outputs.enabled == 'true'
@@ -150,10 +171,10 @@ jobs:
           python -m pip install --disable-pip-version-check \
             google-auth==2.40.3 requests==2.32.4
           python scripts/publish-google-play.py | tee google-play-release.json
-          jq -e '
-            .track == "alpha"
+          jq -e --arg track "$PLAY_TRACK" '
+            .track == $track
             and .status == "completed"
-            and .listingTitle == "ESO Market Tracker"
+            and .listingTitle == "ESO Market Tracker: Prices"
             and .listingIconUpdated == true
             and .featureGraphicUpdated == true
             and .phoneScreenshotCount >= 2
@@ -170,8 +191,11 @@ jobs:
             echo "- Package: \`$PLAY_PACKAGE_NAME\`"
             echo "- Bundle: uploaded as a workflow artifact"
             if [[ "${{ steps.publishing.outputs.enabled }}" == "true" ]]; then
-              echo "- Google Play: closed testing ($PLAY_TRACK)"
+              echo "- Google Play: published to $PLAY_TRACK"
               echo "- Listing: text, icon, feature graphic, and phone screenshots synchronized"
+            elif [[ "${{ steps.publishing.outputs.requested }}" == "true" ]]; then
+              echo "- Google Play: automatic publish skipped"
+              echo "- Missing repository secrets: ${{ steps.publishing.outputs.missing }}"
             else
               echo "- Google Play: validation build only"
             fi
