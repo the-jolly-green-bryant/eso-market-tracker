@@ -116,6 +116,12 @@ jobs:
             --delete \
             --acl public-read
 
+      - name: Notify search engines with IndexNow
+        continue-on-error: true
+        run: |
+          pnpm tsx scripts/submit-indexnow.ts \
+            --sitemap apps/deployments/website/dist/sitemap.xml
+
       - name: Deploy API
         run: cd apps/deployments/api/src/market-tracker-api && npx wrangler deploy
         env:

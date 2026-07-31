@@ -85,6 +85,13 @@ jobs:
                 --acl public-read
             done
 
+      - name: Notify search engines about changed items
+        if: steps.changes.outputs.found == 'true'
+        continue-on-error: true
+        run: |
+          pnpm tsx scripts/submit-indexnow.ts \
+            --pages apps/deployments/website/dist/item
+
       # Add-on publishing is paused until an approved publisher is available.
 
       - name: Commit generated data
