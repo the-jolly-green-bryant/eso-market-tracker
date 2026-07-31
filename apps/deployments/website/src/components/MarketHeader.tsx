@@ -1,21 +1,29 @@
-import { useEffect, useState } from 'react'
-import { Link, useLocation } from 'react-router-dom'
+import { useEffect, useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 
-import { PLATFORMS, MarketPlatform, usePlatform } from '../platform'
-import * as routes from '../routes'
-import ExternalLink from './ExternalLink'
-import './MarketHeader.scss'
+import { MARKET_STATS } from "../marketStats";
+import { PLATFORMS, MarketPlatform, usePlatform } from "../platform";
+import * as routes from "../routes";
+import ExternalLink from "./ExternalLink";
+import "./MarketHeader.scss";
+
+const dataDateLabel = new Intl.DateTimeFormat("en-US", {
+  month: "short",
+  day: "numeric",
+  year: "numeric",
+  timeZone: "UTC",
+}).format(new Date(`${MARKET_STATS.lastUpdated}T00:00:00Z`));
 
 const isPathActive = (pathname: string, ...prefixes: string[]) =>
-  prefixes.some((prefix) => pathname.startsWith(prefix))
+  prefixes.some((prefix) => pathname.startsWith(prefix));
 
 const InternalLinks = ({ pathname }: { pathname: string }) => (
   <>
     <Link
       className={
         isPathActive(pathname, routes.dashboard(), routes.item())
-          ? 'is-active'
-          : ''
+          ? "is-active"
+          : ""
       }
       to={`${routes.dashboard()}/`}
     >
@@ -24,21 +32,21 @@ const InternalLinks = ({ pathname }: { pathname: string }) => (
     <Link
       className={
         isPathActive(pathname, routes.categories(), routes.category())
-          ? 'is-active'
-          : ''
+          ? "is-active"
+          : ""
       }
       to={routes.categories()}
     >
       Categories
     </Link>
     <Link
-      className={isPathActive(pathname, routes.apiDocs()) ? 'is-active' : ''}
+      className={isPathActive(pathname, routes.apiDocs()) ? "is-active" : ""}
       to={routes.apiDocs()}
     >
       API
     </Link>
   </>
-)
+);
 
 const ExternalLinks = () => (
   <>
@@ -55,14 +63,14 @@ const ExternalLinks = () => (
       GitHub
     </ExternalLink>
   </>
-)
+);
 
 export default () => {
-  const { platform, setPlatform } = usePlatform()
-  const location = useLocation()
-  const [menuOpen, setMenuOpen] = useState(false)
+  const { platform, setPlatform } = usePlatform();
+  const location = useLocation();
+  const [menuOpen, setMenuOpen] = useState(false);
 
-  useEffect(() => setMenuOpen(false), [location.pathname])
+  useEffect(() => setMenuOpen(false), [location.pathname]);
 
   return (
     <header className="market-header">
@@ -98,15 +106,15 @@ export default () => {
           </select>
         </label>
         <div className="market-status">
-          <span />
-          Data current
+          <span aria-hidden="true" />
+          <time dateTime={MARKET_STATS.lastUpdated}>Data {dataDateLabel}</time>
         </div>
       </div>
 
       <button
         className="market-mobile-menu"
         type="button"
-        aria-label={menuOpen ? 'Close navigation' : 'Open navigation'}
+        aria-label={menuOpen ? "Close navigation" : "Open navigation"}
         aria-expanded={menuOpen}
         onClick={() => setMenuOpen((open) => !open)}
       >
@@ -123,5 +131,5 @@ export default () => {
         </nav>
       )}
     </header>
-  )
-}
+  );
+};
