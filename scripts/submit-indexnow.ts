@@ -7,6 +7,8 @@ const KEY = "72db4adee52b7f66899913e2adfaa3dd";
 const KEY_LOCATION = `${BASE_URL}/${KEY}.txt`;
 const ENDPOINT = "https://api.indexnow.org/indexnow";
 const MAX_URLS_PER_REQUEST = 10_000;
+const MAX_SUBMIT_ATTEMPTS = 4;
+const RETRY_BASE_DELAY_MS = 5_000;
 
 const argumentValue = (name: string) => {
   const index = process.argv.indexOf(name);
@@ -59,26 +61,44 @@ const urlsFromPages = async (directory: string) => {
 };
 
 const submitBatch = async (urlList: string[], batchNumber: number) => {
-  const response = await fetch(ENDPOINT, {
-    method: "POST",
-    headers: { "content-type": "application/json; charset=utf-8" },
-    body: JSON.stringify({
-      host: HOST,
-      key: KEY,
-      keyLocation: KEY_LOCATION,
-      urlList,
-    }),
-  });
+  for (let attempt = 1; attempt <= MAX_SUBMIT_ATTEMPTS; attempt += 1) {
+    const response = await fetch(ENDPOINT, {
+      method: "POST",
+      headers: { "content-type": "application/json; charset=utf-8" },
+      body: JSON.stringify({
+        host: HOST,
+        key: KEY,
+        keyLocation: KEY_LOCATION,
+        urlList,
+      }),
+    });
+    const responseBody = await response.text();
 
-  if (![200, 202].includes(response.status)) {
-    throw new Error(
-      `IndexNow batch ${batchNumber} failed with HTTP ${response.status}: ${await response.text()}`,
+    if ([200, 202].includes(response.status)) {
+      console.log(
+        `IndexNow accepted batch ${batchNumber} (${urlList.length.toLocaleString()} URLs, HTTP ${response.status}).`,
+      );
+      return;
+    }
+
+    const retryable =
+      response.status === 429 ||
+      response.status >= 500 ||
+      (response.status === 403 &&
+        responseBody.includes("SiteVerificationNotCompleted"));
+
+    if (!retryable || attempt === MAX_SUBMIT_ATTEMPTS) {
+      throw new Error(
+        `IndexNow batch ${batchNumber} failed with HTTP ${response.status}: ${responseBody}`,
+      );
+    }
+
+    const delay = RETRY_BASE_DELAY_MS * attempt;
+    console.warn(
+      `IndexNow batch ${batchNumber} attempt ${attempt} was not ready (HTTP ${response.status}); retrying in ${delay / 1_000}s.`,
     );
+    await new Promise((resolve) => setTimeout(resolve, delay));
   }
-
-  console.log(
-    `IndexNow accepted batch ${batchNumber} (${urlList.length.toLocaleString()} URLs, HTTP ${response.status}).`,
-  );
 };
 
 const sitemapFile = argumentValue("--sitemap");
