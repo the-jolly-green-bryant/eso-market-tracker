@@ -229,7 +229,7 @@ const SearchResults = ({
   error: Error | null;
   data: ReturnType<typeof __useSearch>["data"];
 }) => (
-  <section className="market-results">
+  <section className="market-results market-item-results">
     <div className="market-section-heading">
       <div>
         <span>Search results</span>

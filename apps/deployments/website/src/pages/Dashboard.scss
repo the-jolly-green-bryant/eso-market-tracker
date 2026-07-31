@@ -289,8 +289,7 @@
   }
 }
 
-.market-snapshot,
-.market-results {
+.market-snapshot {
   .tradable-item-list {
     display: grid;
     gap: 12px;
@@ -336,10 +335,6 @@
       width: 54px;
     }
   }
-}
-
-.market-results .tradable-item-list {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .market-pulse-grid {
@@ -622,8 +617,7 @@
     }
   }
 
-  .market-snapshot .tradable-item-list,
-  .market-results .tradable-item-list {
+  .market-snapshot .tradable-item-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -772,8 +766,7 @@
     }
   }
 
-  .market-snapshot .tradable-item-list,
-  .market-results .tradable-item-list {
+  .market-snapshot .tradable-item-list {
     display: flex;
     flex-direction: column;
   }
