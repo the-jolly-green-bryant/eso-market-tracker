@@ -12,8 +12,8 @@
   },
   "upload_source_maps": true,
   "vars": {
-    "DISCORD_APPLICATION_ID": "1133145682241388656",
-    "DISCORD_PUBLIC_KEY": "994a51a2cbaab04e1c16ba13f9a9ccb08c4e240bb60d8007b380c4548edb286a",
+    "DISCORD_APPLICATION_ID": "1121195192066781305",
+    "DISCORD_PUBLIC_KEY": "928ea6e2a1141717429317cb2f655f4543ec2ac4d027429cea1240d40de2de62",
   },
   "compatibility_flags": ["nodejs_compat"],
   "kv_namespaces": [

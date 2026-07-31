@@ -130,7 +130,7 @@ jobs:
           pnpm discord:configure
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-          DISCORD_APPLICATION_ID: "1133145682241388656"
+          DISCORD_APPLICATION_ID: "1121195192066781305"
           DISCORD_INTERACTIONS_ENDPOINT: "https://data.esomarkettracker.com/discord/interactions"
 
       - name: Deploy Addon

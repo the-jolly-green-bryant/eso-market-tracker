@@ -3,7 +3,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 
 const API_BASE = "https://discord.com/api/v10";
-const DEFAULT_APPLICATION_ID = "1133145682241388656";
+const DEFAULT_APPLICATION_ID = "1121195192066781305";
 const DEFAULT_INTERACTIONS_ENDPOINT =
   "https://data.esomarkettracker.com/discord/interactions";
 const BOT_NAME = "ESO Market Tracker";
@@ -12,6 +12,9 @@ const BOT_DESCRIPTION =
 const BOT_TAGS = ["ESO", "Price Checker", "Market Data", "Xbox", "PlayStation"];
 const ICON_PATH = path.resolve(
   "apps/deployments/website/public/assets/icons/icon-512.png",
+);
+const COVER_PATH = path.resolve(
+  "apps/deployments/website/store/google-play/feature-graphic.png",
 );
 
 const COMMANDS = [
@@ -34,21 +37,24 @@ const COMMANDS = [
 ];
 
 type DiscordApplication = {
+  cover_image: string | null;
   description: string;
   icon: string | null;
+  id: string;
   interactions_endpoint_url?: string;
   tags?: string[];
 };
 
 type DiscordUser = {
   avatar: string | null;
+  banner: string | null;
   username: string;
 };
 
 const token = process.env.DISCORD_BOT_TOKEN;
 if (!token) {
   throw new Error(
-    "DISCORD_BOT_TOKEN is required. Add the TSC bot token as a GitHub Actions secret.",
+    "DISCORD_BOT_TOKEN is required. Add the ESO Market Tracker bot token as a GitHub Actions secret.",
   );
 }
 
@@ -77,8 +83,8 @@ const discord = async <T>(
   return (await response.json()) as T;
 };
 
-const iconData = async () => {
-  const bytes = await fs.readFile(ICON_PATH);
+const imageData = async (imagePath: string) => {
+  const bytes = await fs.readFile(imagePath);
   return {
     dataUri: `data:image/png;base64,${bytes.toString("base64")}`,
     // Discord asset IDs use MD5 as a content identifier, not for security.
@@ -91,8 +97,17 @@ const sameTags = (left: string[] = [], right: string[] = []) =>
   [...left].sort((a, b) => a.localeCompare(b)).join("|") ===
   [...right].sort((a, b) => a.localeCompare(b)).join("|");
 
-const configureApplication = async (dataUri: string, hash: string) => {
+const configureApplication = async (
+  icon: Awaited<ReturnType<typeof imageData>>,
+  cover: Awaited<ReturnType<typeof imageData>>,
+) => {
   const current = await discord<DiscordApplication>("/applications/@me");
+  if (current.id !== applicationId) {
+    throw new Error(
+      `DISCORD_BOT_TOKEN belongs to application ${current.id}, expected ${applicationId}.`,
+    );
+  }
+
   const update: Record<string, unknown> = {
     install_params: {
       scopes: ["applications.commands"],
@@ -109,8 +124,11 @@ const configureApplication = async (dataUri: string, hash: string) => {
   if (!sameTags(current.tags, BOT_TAGS)) {
     update.tags = BOT_TAGS;
   }
-  if (current.icon?.replace(/^a_/, "") !== hash) {
-    update.icon = dataUri;
+  if (current.icon?.replace(/^a_/, "") !== icon.hash) {
+    update.icon = icon.dataUri;
+  }
+  if (current.cover_image?.replace(/^a_/, "") !== cover.hash) {
+    update.cover_image = cover.dataUri;
   }
 
   await discord("/applications/@me", {
@@ -119,11 +137,19 @@ const configureApplication = async (dataUri: string, hash: string) => {
   });
 };
 
-const configureBotUser = async (dataUri: string, hash: string) => {
+const configureBotUser = async (
+  icon: Awaited<ReturnType<typeof imageData>>,
+  cover: Awaited<ReturnType<typeof imageData>>,
+) => {
   const current = await discord<DiscordUser>("/users/@me");
   const update: Record<string, string> = {};
   if (current.username !== BOT_NAME) update.username = BOT_NAME;
-  if (current.avatar?.replace(/^a_/, "") !== hash) update.avatar = dataUri;
+  if (current.avatar?.replace(/^a_/, "") !== icon.hash) {
+    update.avatar = icon.dataUri;
+  }
+  if (current.banner?.replace(/^a_/, "") !== cover.hash) {
+    update.banner = cover.dataUri;
+  }
   if (!Object.keys(update).length) return;
 
   await discord("/users/@me", {
@@ -142,9 +168,12 @@ const registerCommands = async () => {
 };
 
 const main = async () => {
-  const icon = await iconData();
-  await configureApplication(icon.dataUri, icon.hash);
-  await configureBotUser(icon.dataUri, icon.hash);
+  const [icon, cover] = await Promise.all([
+    imageData(ICON_PATH),
+    imageData(COVER_PATH),
+  ]);
+  await configureApplication(icon, cover);
+  await configureBotUser(icon, cover);
   await registerCommands();
 
   const commandNames = COMMANDS.map((command) => `/${command.name}`).join(", ");

@@ -1,5 +1,5 @@
 export const DISCORD_LINK = "https://discord.gg/ZbRPf4gHYX";
-export const DISCORD_APPLICATION_ID = "1133145682241388656";
+export const DISCORD_APPLICATION_ID = "1121195192066781305";
 export const DISCORD_BOT_INSTALL_LINK =
   `https://discord.com/oauth2/authorize?client_id=${DISCORD_APPLICATION_ID}` +
   "&integration_type=0&scope=applications.commands";
