@@ -44,9 +44,12 @@ UESP + legacy EMT + Tamriel Savings Co + local addon exports
                              ▼
                  canonical flat-file dataset
                              │
-                 ┌───────────┼───────────┐
-                 ▼           ▼           ▼
-              SQLite      web / API   ESO addon
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+           SQLite         web / API      ESO addon
+                             │
+                             ▼
+                         Discord bot
 ```
 
 ## Workspace map
@@ -63,6 +66,28 @@ UESP + legacy EMT + Tamriel Savings Co + local addon exports
 | `apps/deployments/api`                | Cloudflare Worker API deployment                           |
 | `apps/deployments/eso-addon`          | Build the console-ready in-game addon                      |
 | `data`                                | Canonical history plus generated database artifacts        |
+
+## Discord bot
+
+The public Discord integration runs on the same Cloudflare Worker and market
+index as the website. Install it from the
+[ESO Market Tracker Discord page](https://esomarkettracker.com/discord-bot), then
+use the TSC-compatible command:
+
+```text
+/pricecheck item: Dreugh Wax
+```
+
+Autocomplete resolves item names, and the response compares current Xbox and
+PlayStation prices without requiring message-reading permissions. Maintainers can
+apply the branded app profile, interaction endpoint, and commands with:
+
+```bash
+DISCORD_BOT_TOKEN=... pnpm discord:configure
+```
+
+The bot token belongs in a local environment variable or the
+`DISCORD_BOT_TOKEN` GitHub Actions secret; it must never be committed.
 
 Legacy one-time collectors are retained to keep historical imports reproducible.
 Recurring collectors are designed to be idempotent.
@@ -134,6 +159,8 @@ the SQLite database, and runs coverage checks. The release path also:
 
 - syncs the static website to S3;
 - deploys the API to Cloudflare Workers;
+- configures the Discord interaction endpoint and compatible price command when
+  the `DISCORD_BOT_TOKEN` secret is available;
 - publishes the generated ESO addon;
 - updates the rolling SQLite release.
 

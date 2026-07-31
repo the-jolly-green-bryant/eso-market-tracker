@@ -276,183 +276,208 @@ This service is provided “as is,” without warranty of any kind, including
 
 If you build something interesting with it, that’s a win for the community.
 
-`
+`;
 
-import Fuse from 'fuse.js'
-import { marked } from 'marked'
+import Fuse from "fuse.js";
+import { marked } from "marked";
+import { discordInteractions, DiscordMarketLookup } from "./discord";
 
-const SEARCH_LIMIT_DEFAULT = 10
+const SEARCH_LIMIT_DEFAULT = 10;
 
 /**
  * A type wrapper for Cloudflare and Wrangler.
  */
 export type Env = {
-  ESO_MARKET_TRACKER: KVNamespace
-}
+  DISCORD_PUBLIC_KEY: string;
+  ESO_MARKET_TRACKER: KVNamespace;
+};
 
 const CORS_HEADERS = {
-  'Access-Control-Allow-Origin': '*',
-  'Access-Control-Allow-Methods': 'GET,OPTIONS',
-  'Access-Control-Allow-Headers': 'Content-Type',
-}
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Methods": "GET,OPTIONS",
+  "Access-Control-Allow-Headers": "Content-Type",
+};
 
 const __json = (
   body: Record<string, unknown> | Record<string, unknown>[],
-  init?: ResponseInit
+  init?: ResponseInit,
 ) =>
   new Response(JSON.stringify(body), {
     ...init,
     headers: {
-      'content-type': 'application/json; charset=utf-8',
+      "content-type": "application/json; charset=utf-8",
       ...CORS_HEADERS,
       ...(init?.headers ?? {}),
     },
-  })
+  });
 
-const notFound = (message = 'Not Found') =>
-  __json({ ok: false, error: message }, { status: 404 })
+const notFound = (message = "Not Found") =>
+  __json({ ok: false, error: message }, { status: 404 });
 
 const badRequest = (message: string) =>
-  __json({ ok: false, error: message }, { status: 400 })
+  __json({ ok: false, error: message }, { status: 400 });
 
 const methodNotAllowed = () =>
-  __json({ ok: false, error: 'Method Not Allowed' }, { status: 405 })
+  __json({ ok: false, error: "Method Not Allowed" }, { status: 405 });
+
+const itemRecords = async (keys: string[], env: Env) =>
+  (
+    await Promise.all(
+      keys.map(async (i) => env.ESO_MARKET_TRACKER.get(i, "json")),
+    )
+  ).filter(Boolean) as Record<string, unknown>[];
 
 const items = async (keys: string[], env: Env) => {
-  const body = (
-    await Promise.all(
-      keys.map(async (i) => env.ESO_MARKET_TRACKER.get(i, 'json'))
-    )
-  ).filter(Boolean)
+  const body = await itemRecords(keys, env);
   return (
     (body &&
       body.length &&
       __json({
         ok: true,
-        kind: 'item',
+        kind: "item",
         query: keys,
         results: body,
       })) ||
     notFound(`One or more items missing for keys "${keys}"`)
-  )
-}
+  );
+};
 
 type SearchItem = {
-  name: string
-  icon: string
-  description: string
-  internalId: string
-  normalizedName: string
-}
+  name: string;
+  icon: string;
+  description: string;
+  internalId: string;
+  normalizedName: string;
+};
 
 export const __dedupe = <T>(items: T[], keyFn: (item: T) => string): T[] => {
-  const seen = new Set<string>()
+  const seen = new Set<string>();
   return items.filter((item) => {
-    const key = keyFn(item)
-    if (seen.has(key)) return false
-    seen.add(key)
-    return true
-  })
-}
+    const key = keyFn(item);
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+};
 
-let _fusePromise: Promise<[Fuse<SearchItem>, SearchItem[]]> | null = null
+let _fusePromise: Promise<[Fuse<SearchItem>, SearchItem[]]> | null = null;
 
 const __getFuse = async (
-  env: Env
+  env: Env,
 ): Promise<[Fuse<SearchItem>, SearchItem[]]> => {
   _fusePromise ??= (async () => {
-    const searchItems = ((await env.ESO_MARKET_TRACKER.get('SEARCH_INDEX', {
-      type: 'json',
+    const searchItems = ((await env.ESO_MARKET_TRACKER.get("SEARCH_INDEX", {
+      type: "json",
       cacheTtl: 3600,
-    })) ?? []) as SearchItem[]
+    })) ?? []) as SearchItem[];
 
     const fuse = new Fuse(searchItems, {
       keys: [
-        { name: 'name', weight: 0.7 },
-        { name: 'normalizedName', weight: 0.3 },
+        { name: "name", weight: 0.7 },
+        { name: "normalizedName", weight: 0.3 },
       ],
       includeScore: true,
       threshold: 0.35,
       ignoreLocation: true,
       minMatchCharLength: 2,
-    })
+    });
 
-    return [fuse, searchItems]
-  })()
+    return [fuse, searchItems];
+  })();
 
-  return _fusePromise
-}
+  return _fusePromise;
+};
 
 export const __normalize = (value: string): string =>
   value
     .toLowerCase()
     .trim()
-    .replace(/['’]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ')
-    .replace(/\s+/g, ' ')
+    .replace(/['’]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ");
 
-const search = async (term: string, env: Env) => {
-  const query = __normalize(term.trim())
-  if (!query) {
-    return badRequest('Missing search term')
-  }
-
-  const limit = SEARCH_LIMIT_DEFAULT
-  const [fuse, SEARCH_ITEMS] = await __getFuse(env)
+const rankedSearchItems = async (term: string, env: Env, limit: number) => {
+  const query = __normalize(term.trim());
+  if (!query) return [];
+  const [fuse, SEARCH_ITEMS] = await __getFuse(env);
 
   const exactMatches = SEARCH_ITEMS.filter(
     (item) =>
       item.normalizedName === query ||
-      item.name.toLowerCase() === query.toLowerCase()
-  ).slice(0, limit)
+      item.name.toLowerCase() === query.toLowerCase(),
+  ).slice(0, limit);
 
   const fuzzyMatches =
     exactMatches.length >= limit
       ? []
-      : fuse.search(query, { limit }).map((result) => result.item)
+      : fuse.search(query, { limit }).map((result) => result.item);
 
-  const ranked = __dedupe(
-    [...exactMatches, ...fuzzyMatches],
-    (item) => item.internalId
-  )
+  return __dedupe([...exactMatches, ...fuzzyMatches], (item) => item.internalId)
     .slice(0, limit)
-    .filter(Boolean)
+    .filter(Boolean);
+};
 
-  if (!ranked.length) {
-    return notFound(`No items found for search term "${term}"`)
+const search = async (term: string, env: Env) => {
+  if (!__normalize(term.trim())) {
+    return badRequest("Missing search term");
   }
 
-  const keys = ranked.map((item) => item.internalId)
-  return items(keys, env)
-}
+  const ranked = await rankedSearchItems(term, env, SEARCH_LIMIT_DEFAULT);
+
+  if (!ranked.length) {
+    return notFound(`No items found for search term "${term}"`);
+  }
+
+  const keys = ranked.map((item) => item.internalId);
+  return items(keys, env);
+};
+
+const discordMarket = (env: Env): DiscordMarketLookup => ({
+  searchChoices: (term, limit) => rankedSearchItems(term, env, limit),
+  searchResults: async (term, limit) => {
+    const ranked = await rankedSearchItems(term, env, limit);
+    return (await itemRecords(
+      ranked.map((item) => item.internalId),
+      env,
+    )) as Awaited<ReturnType<DiscordMarketLookup["searchResults"]>>;
+  },
+});
 
 const docs = () =>
   new Response(marked.parse(USAGE_MD) as string, {
     headers: {
-      'content-type': 'text/html; charset=utf-8',
+      "content-type": "text/html; charset=utf-8",
     },
-  })
+  });
 
 export const item = async (key: string, env: Env) => {
-  const normalized = key.trim()
+  const normalized = key.trim();
   return (
-    (normalized && (await items([key], env))) || badRequest('Missing item key')
-  )
-}
+    (normalized && (await items([key], env))) || badRequest("Missing item key")
+  );
+};
 
 export default {
   async fetch(request, env, _ctx): Promise<Response> {
-    if (request.method !== 'GET') {
-      return methodNotAllowed()
+    const url = new URL(request.url);
+    if (url.pathname === "/discord/interactions") {
+      return discordInteractions(
+        request,
+        env.DISCORD_PUBLIC_KEY,
+        discordMarket(env),
+      );
     }
 
-    const url = new URL(request.url)
-    const [route, ...rest] = url.pathname
-      .replace(/^\/+|\/+$/g, '')
-      .split('/')
-      .filter(Boolean)
+    if (request.method !== "GET") {
+      return methodNotAllowed();
+    }
 
-    const routeFn = { search, item }[route]
-    return (routeFn && (await routeFn(rest.join('/'), env))) || docs()
+    const [route, ...rest] = url.pathname
+      .replace(/^\/+|\/+$/g, "")
+      .split("/")
+      .filter(Boolean);
+
+    const routeFn = { search, item }[route];
+    return (routeFn && (await routeFn(rest.join("/"), env))) || docs();
   },
-} satisfies ExportedHandler<Env>
+} satisfies ExportedHandler<Env>;

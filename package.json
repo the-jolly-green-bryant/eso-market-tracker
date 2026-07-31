@@ -11,6 +11,7 @@
     "clean": "pnpm -r clean",
     "test": "pnpm vitest run",
     "coverage": "pnpm vitest run --coverage",
+    "discord:configure": "tsx scripts/configure-discord-bot.ts",
     "inject-version": "node scripts/inject-version.js",
     "lint": "eslint .",
     "check:staged": "tsx scripts/check-staged.ts",

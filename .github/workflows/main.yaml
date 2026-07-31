@@ -121,6 +121,18 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
+      - name: Configure Discord bot
+        run: |
+          if [ -z "$DISCORD_BOT_TOKEN" ]; then
+            echo "DISCORD_BOT_TOKEN is not configured; skipping Discord setup."
+            exit 0
+          fi
+          pnpm discord:configure
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_APPLICATION_ID: "1133145682241388656"
+          DISCORD_INTERACTIONS_ENDPOINT: "https://data.esomarkettracker.com/discord/interactions"
+
       - name: Deploy Addon
         uses: ./.github/actions/upload-eso-addon
         with:
