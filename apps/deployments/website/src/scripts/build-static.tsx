@@ -10,6 +10,7 @@ import {
 } from "../pages/useItem";
 import { TradableItemType } from "../models/tradable-item-types";
 import { GOLD_ICON_URL } from "../components/gold-currency";
+import { getItemVariantMetadata } from "../item-variants";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -207,6 +208,7 @@ const renderItemSeoPage = (item: TradableItemType) => {
       },
     ],
   };
+  const { traits, qualities } = getItemVariantMetadata(item.raw);
 
   return {
     head: `<title>${escapeHtml(title)}</title>
@@ -222,6 +224,8 @@ const renderItemSeoPage = (item: TradableItemType) => {
   <h1>${escapeHtml(itemName)} ESO price check</h1>
   <p>Current average console market value: <strong class="eso-gold-price"><span aria-hidden="true">${price.toLocaleString()}</span><img class="eso-gold-icon" src="${GOLD_ICON_URL}" alt="" aria-hidden="true"><span class="eso-gold-price-sr-only">${price.toLocaleString()} gold</span></strong>.</p>
   <p>Compare recent Elder Scrolls Online sale prices and market history for ${escapeHtml(itemName)} on Xbox and PlayStation.</p>
+  ${traits.length ? `<p><strong>Traits:</strong> ${escapeHtml(traits.join(", "))}</p>` : ""}
+  ${qualities.length ? `<p><strong>Qualities:</strong> ${escapeHtml(qualities.join(", "))}</p>` : ""}
   ${item.description ? `<p>${escapeHtml(item.description)}</p>` : ""}
 </main>`,
   };
