@@ -45,7 +45,7 @@ jobs:
             -C apps/deployments/website dist
 
       - name: Upload website artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: website-dist
           path: ${{ runner.temp }}/website-dist.tar.gz
@@ -71,13 +71,13 @@ jobs:
         run: pnpm inject-version
 
       - name: Download SQLite artifact
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           name: sqlite-database
           path: data/artifacts
 
       - name: Download website artifact
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           name: website-dist
           path: ${{ runner.temp }}/website-dist
@@ -89,7 +89,7 @@ jobs:
             -C apps/deployments/website
 
       - name: Download coverage badge
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           name: coverage-badge
           path: coverage-badge

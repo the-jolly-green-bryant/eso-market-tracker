@@ -9,7 +9,7 @@ runs:
       shell: bash
 
     - name: Upload sqlite artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: sqlite-database
         path: data/artifacts/data.sqlite
