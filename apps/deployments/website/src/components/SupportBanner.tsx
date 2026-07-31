@@ -8,7 +8,9 @@ const SupportBanner: React.FC = () => (
     <p>Public data. Transparent methodology. Built for the ESO community.</p>
     <ExternalLink href={constants.DISCORD_LINK}>Join the Discord</ExternalLink>
     <a href={routes.discordBot()}>Discord Bot</a>
+    <a href={routes.about()}>About</a>
     <a href={routes.privacyPolicy()}>Privacy</a>
+    <a href={routes.termsAndConditions()}>Terms</a>
   </div>
 );
 

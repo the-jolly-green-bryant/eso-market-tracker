@@ -1,12 +1,12 @@
-import { IonMenu, IonMenuToggle, IonIcon } from '@ionic/react'
-import { chevronForwardOutline } from 'ionicons/icons'
-import { useRef } from 'react'
-import { Link } from 'react-router-dom'
-import * as constants from '../constants'
-import * as routes from '../routes'
-import { CATEGORIES } from '../constants'
-import { MARKET_STATS } from '../marketStats'
-import ExternalLink from './ExternalLink'
+import { IonMenu, IonMenuToggle, IonIcon } from "@ionic/react";
+import { chevronForwardOutline } from "ionicons/icons";
+import { useRef } from "react";
+import { Link } from "react-router-dom";
+import * as constants from "../constants";
+import * as routes from "../routes";
+import { CATEGORIES } from "../constants";
+import { MARKET_STATS } from "../marketStats";
+import ExternalLink from "./ExternalLink";
 
 const HEADER_CONTENT = (
   <div className="navigation-menu-header">
@@ -23,7 +23,7 @@ const HEADER_CONTENT = (
       Learn More
     </ExternalLink>
   </div>
-)
+);
 
 const ABOUT_CONTENT = (
   <div className="navigation-menu-section">
@@ -45,7 +45,7 @@ const ABOUT_CONTENT = (
       </div>
     </div>
   </div>
-)
+);
 
 const MORE_ACCESS = (
   <div className="navigation-menu-section">
@@ -54,7 +54,7 @@ const MORE_ACCESS = (
     <div className="navigation-menu-section-item-container">
       <div className="navigation-menu-section-item">
         <IonMenuToggle autoHide={false}>
-          <ExternalLink href="https://www.esomarkettracker.com">
+          <ExternalLink href="https://esomarkettracker.com">
             The Website
           </ExternalLink>
         </IonMenuToggle>
@@ -62,9 +62,7 @@ const MORE_ACCESS = (
 
       <div className="navigation-menu-section-item">
         <IonMenuToggle autoHide={false}>
-          <Link to={routes.apiDocs()}>
-            The API
-          </Link>
+          <Link to={routes.apiDocs()}>The API</Link>
         </IonMenuToggle>
       </div>
 
@@ -85,7 +83,7 @@ const MORE_ACCESS = (
       </div>
     </div>
   </div>
-)
+);
 
 const renderCategories = () => (
   <div>
@@ -111,10 +109,10 @@ const renderCategories = () => (
         </div>
       ))}
   </div>
-)
+);
 
 export default () => {
-  const menuRef = useRef<HTMLIonMenuElement>(null)
+  const menuRef = useRef<HTMLIonMenuElement>(null);
 
   return (
     <IonMenu contentId="main" type="push" ref={menuRef} swipeGesture={false}>
@@ -158,5 +156,5 @@ export default () => {
         {ABOUT_CONTENT}
       </div>
     </IonMenu>
-  )
-}
+  );
+};

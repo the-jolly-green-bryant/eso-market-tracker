@@ -30,12 +30,13 @@ import MarketInsights from "../components/MarketInsights";
 import SupportBanner from "../components/SupportBanner";
 import ExternalLink from "../components/ExternalLink";
 import { DISCORD_BOT_INSTALL_LINK } from "../constants";
+import { usePlatform } from "../platform";
 
 const accessCards = [
   {
     title: "The website",
     description: "Real-time console prices, history, and market intelligence.",
-    href: "https://www.esomarkettracker.com",
+    href: "https://esomarkettracker.com",
     icon: analyticsOutline,
     action: "Open tracker",
   },
@@ -184,10 +185,10 @@ const Hero = ({
         <IonIcon icon={checkmarkCircle} />
         Definitive console market intelligence
       </div>
-      <h1>Know what it’s worth.</h1>
+      <h1>Know what it’s worth in ESO.</h1>
       <p>
-        Search public, versioned pricing across Xbox and PlayStation. Built for
-        traders who would rather know than guess.
+        Search public, versioned Elder Scrolls Online pricing across Xbox and
+        PlayStation. Built for traders who would rather know than guess.
       </p>
 
       <div className="market-command-search">
@@ -296,7 +297,9 @@ const DefaultContent = () => (
 // eslint-disable-next-line max-lines-per-function
 export default () => {
   const { text } = useParams<{ text: string | undefined }>();
+  const { platform } = usePlatform();
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const lastTrackedSearchRef = useRef("");
   const { loading, error, data, onPerformSearch, currentSearch } =
     useSearch(text);
 
@@ -306,9 +309,12 @@ export default () => {
 
   useEffect(() => {
     if (currentSearch && data && !loading && !error) {
-      trackSearch(currentSearch, data.length);
+      const searchKey = `${platform}:${currentSearch.trim().toLowerCase()}`;
+      if (searchKey === lastTrackedSearchRef.current) return;
+      lastTrackedSearchRef.current = searchKey;
+      trackSearch(currentSearch, data.length, platform);
     }
-  }, [currentSearch, data, loading, error]);
+  }, [currentSearch, data, loading, error, platform]);
 
   useEffect(() => {
     const focusSearch = (event: globalThis.KeyboardEvent) => {
@@ -331,15 +337,15 @@ export default () => {
   return (
     <div className="market-home">
       <Helmet>
-        <title>ESO Price Checker for Xbox & PlayStation | Market Tracker</title>
+        <title>Elder Scrolls Online Price Checker | ESO Market Tracker</title>
         <meta
           name="description"
-          content="Check ESO prices for Xbox and PlayStation. Search current market values, price observations, and history for Dreugh Wax, Kuta, motifs, gear, and 44,000+ items."
+          content="Check Elder Scrolls Online item prices for Xbox and PlayStation. Search current ESO market values and price history for Dreugh Wax, Kuta, motifs, gear, and 44,000+ items."
         />
         <link rel="canonical" href="https://esomarkettracker.com/dashboard/" />
         <meta
           property="og:title"
-          content="ESO Price Checker for Xbox & PlayStation"
+          content="Elder Scrolls Online Price Checker for Console"
         />
         <meta
           property="og:description"
@@ -348,6 +354,11 @@ export default () => {
         <meta
           property="og:url"
           content="https://esomarkettracker.com/dashboard/"
+        />
+        <meta property="og:site_name" content="ESO Market Tracker" />
+        <meta
+          property="og:image"
+          content="https://esomarkettracker.com/assets/images/icon-marketing.png"
         />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -358,7 +369,10 @@ export default () => {
               {
                 "@type": "WebSite",
                 name: "ESO Market Tracker",
-                alternateName: "ESO Price Checker",
+                alternateName: [
+                  "ESO Price Checker",
+                  "Elder Scrolls Online Price Checker",
+                ],
                 url: "https://esomarkettracker.com/",
                 potentialAction: {
                   "@type": "SearchAction",

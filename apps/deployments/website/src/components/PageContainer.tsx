@@ -1,24 +1,24 @@
-import { IonIcon } from '@ionic/react'
-import { chevronBackOutline, shareSocialOutline } from 'ionicons/icons'
-import { Helmet } from 'react-helmet'
-import { useHistory } from 'react-router-dom'
-import { RWebShare } from 'react-web-share'
+import { IonIcon } from "@ionic/react";
+import { chevronBackOutline, shareSocialOutline } from "ionicons/icons";
+import { Helmet } from "react-helmet";
+import { useHistory } from "react-router-dom";
+import { RWebShare } from "react-web-share";
 
-import SupportBanner from './SupportBanner'
-import MarketHeader from './MarketHeader'
-import * as constants from '../constants'
-import * as routes from '../routes'
+import SupportBanner from "./SupportBanner";
+import MarketHeader from "./MarketHeader";
+import * as constants from "../constants";
+import * as routes from "../routes";
 
 interface ContainerProps {
-  bleedsIntoHeader?: boolean
-  children: React.ReactNode
-  metaDescription?: string
-  metaTitle?: string
-  pageTitle: string
-  shareLink?: string
-  isBeta?: boolean
-  canonicalPath?: string
-  jsonLd?: Record<string, unknown> | Record<string, unknown>[]
+  bleedsIntoHeader?: boolean;
+  children: React.ReactNode;
+  metaDescription?: string;
+  metaTitle?: string;
+  pageTitle: string;
+  shareLink?: string;
+  isBeta?: boolean;
+  canonicalPath?: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 export default ({
@@ -34,10 +34,10 @@ export default ({
   // SEO metadata is intentionally colocated with the shared page shell.
   // eslint-disable-next-line max-lines-per-function
 }: ContainerProps) => {
-  const history = useHistory()
+  const history = useHistory();
   const canonicalUrl = canonicalPath
     ? `https://esomarkettracker.com${encodeURI(canonicalPath)}`
-    : undefined
+    : undefined;
 
   return (
     <div className="page-container">
@@ -49,7 +49,12 @@ export default ({
         <meta property="og:title" content={metaTitle} />
         <meta property="og:description" content={metaDescription} />
         {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+        <meta property="og:site_name" content="ESO Market Tracker" />
         <meta property="og:type" content="website" />
+        <meta
+          property="og:image"
+          content="https://esomarkettracker.com/assets/images/icon-marketing.png"
+        />
         <meta name="twitter:card" content="summary" />
         {jsonLd && (
           <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
@@ -84,7 +89,7 @@ export default ({
               {shareLink && (
                 <RWebShare
                   data={{ url: shareLink }}
-                  onClick={() => console.log('Mind your peepers.')}
+                  onClick={() => console.log("Mind your peepers.")}
                 >
                   <button
                     className="page-container-share-button"
@@ -105,7 +110,7 @@ export default ({
 
         <div
           className={`page-container-content ${
-            bleedsIntoHeader ? 'bleeds-into-header' : ''
+            bleedsIntoHeader ? "bleeds-into-header" : ""
           }`}
         >
           {children}
@@ -116,5 +121,5 @@ export default ({
         </div>
       </div>
     </div>
-  )
-}
+  );
+};

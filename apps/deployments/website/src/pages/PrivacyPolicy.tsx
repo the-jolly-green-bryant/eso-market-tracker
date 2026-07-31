@@ -3,37 +3,44 @@ import PageContainer from "../components/PageContainer";
 
 const CONTENT = (
   <div className="static-content">
-    <strong>Privacy Policy</strong>
     <p>
-      ESO Market Tracker built the ESO Market Tracker app as a Free app. This
-      SERVICE is provided by ESO Market Tracker at no cost and is intended for
-      use as is.
+      ESO Market Tracker provides public Elder Scrolls Online market data
+      through its website, mobile app, API, and Discord bot. This policy
+      explains the limited information used to operate and improve those
+      services.
     </p>
     <p>
-      This page is used to inform visitors regarding my policies with the
-      collection, use, and disclosure of Personal Information if anyone decided
-      to use my Service.
+      <strong>Website analytics</strong>
     </p>
     <p>
-      If you choose to use my Service, then you agree to the collection and use
-      of information in relation to this policy. The Personal Information that I
-      collect is used for providing and improving the Service. I will not use or
-      share your information with anyone except as described in this Privacy
-      Policy.
+      The website uses Google Analytics 4 to understand traffic and product
+      usage. Analytics may collect page views, referring pages, approximate
+      location, browser and device information, and interactions such as
+      outbound link clicks.
     </p>
     <p>
-      The terms used in this Privacy Policy have the same meanings as in our
-      Terms and Conditions, which are accessible at ESO Market Tracker unless
-      otherwise defined in this Privacy Policy.
+      When you search the market, ESO Market Tracker sends the search term,
+      number of results, selected console market, and running counts of searches
+      in the current session and browser to Google Analytics. These measurements
+      help identify useful items, searches with no results, and how frequently
+      visitors use the price checker.
     </p>
     <p>
-      <strong>Information Collection and Use</strong>
+      The website does not ask for an account, name, email address, or other
+      identity before a search. Do not enter personal information in the item
+      search field. Search counts are associated with the pseudonymous browser
+      and device signals used by Google Analytics, not a public ESO Market
+      Tracker profile.
     </p>
     <p>
-      For a better experience, while using our Service, I may require you to
-      provide us with certain personally identifiable information. The
-      information that I request will be retained on your device and is not
-      collected by me in any way.
+      <strong>Cookies and local storage</strong>
+    </p>
+    <p>
+      Google Analytics may use cookies or similar device storage for
+      pseudonymous measurement. ESO Market Tracker also stores your selected
+      console market and two search counters in local or session storage. You
+      can clear these values through your browser controls. Blocking analytics
+      or storage does not prevent you from using the public price checker.
     </p>
     <p>
       <strong>Discord Bot</strong>
@@ -51,132 +58,82 @@ const CONTENT = (
       logs for security, reliability, and abuse prevention under its own
       policies.
     </p>
-    <div>
-      <p>
-        The app does use third-party services that may collect information used
-        to identify you.
-      </p>
-      <p>
-        Link to the privacy policy of third-party service providers used by the
-        app
-      </p>
-      <ul>
-        <li>
-          <ExternalLink href="https://www.google.com/policies/privacy/">
-            Google Play Services
-          </ExternalLink>
-        </li>
-
-        <li>
-          <ExternalLink href="https://firebase.google.com/policies/analytics">
-            Google Analytics for Firebase
-          </ExternalLink>
-        </li>
-      </ul>
-    </div>
     <p>
-      <strong>Log Data</strong>
+      <strong>Service providers</strong>
     </p>
     <p>
-      I want to inform you that whenever you use my Service, in a case of an
-      error in the app I collect data and information (through third-party
-      products) on your phone called Log Data. This Log Data may include
-      information such as your device Internet Protocol (“IP”) address, device
-      name, operating system version, the configuration of the app when
-      utilizing my Service, the time and date of your use of the Service, and
-      other statistics.
-    </p>
-    <p>
-      <strong>Cookies</strong>
-    </p>
-    <p>
-      Cookies are files with a small amount of data that are commonly used as
-      anonymous unique identifiers. These are sent to your browser from the
-      websites that you visit and are stored on your device's internal memory.
-    </p>
-    <p>
-      This Service does not use these “cookies” explicitly. However, the app may
-      use third-party code and libraries that use “cookies” to collect
-      information and improve their services. You have the option to either
-      accept or refuse these cookies and know when a cookie is being sent to
-      your device. If you choose to refuse our cookies, you may not be able to
-      use some portions of this Service.
-    </p>
-    <p>
-      <strong>Service Providers</strong>
-    </p>
-    <p>
-      I may employ third-party companies and individuals due to the following
-      reasons:
+      ESO Market Tracker relies on service providers to host, secure,
+      distribute, and measure the service. Their processing is governed by their
+      own policies:
     </p>
     <ul>
-      <li>To facilitate our Service;</li>
-      <li>To provide the Service on our behalf;</li>
-      <li>To perform Service-related services; or</li>
-      <li>To assist us in analyzing how our Service is used.</li>
+      <li>
+        <ExternalLink href="https://policies.google.com/privacy">
+          Google privacy policy
+        </ExternalLink>
+      </li>
+      <li>
+        <ExternalLink href="https://www.cloudflare.com/privacypolicy/">
+          Cloudflare privacy policy
+        </ExternalLink>
+      </li>
+      <li>
+        <ExternalLink href="https://discord.com/privacy">
+          Discord privacy policy
+        </ExternalLink>
+      </li>
     </ul>
     <p>
-      I want to inform users of this Service that these third parties have
-      access to their Personal Information. The reason is to perform the tasks
-      assigned to them on our behalf. However, they are obligated not to
-      disclose or use the information for any other purpose.
+      Information is retained only as needed to operate, secure, and improve the
+      service, subject to the retention controls and policies of these
+      providers.
     </p>
     <p>
-      <strong>Security</strong>
+      <strong>Your choices</strong>
     </p>
     <p>
-      I value your trust in providing us your Personal Information, thus we are
-      striving to use commercially acceptable means of protecting it. But
-      remember that no method of transmission over the internet, or method of
-      electronic storage is 100% secure and reliable, and I cannot guarantee its
-      absolute security.
-    </p>
-    <p>
-      <strong>Links to Other Sites</strong>
-    </p>
-    <p>
-      This Service may contain links to other sites. If you click on a
-      third-party link, you will be directed to that site. Note that these
-      external sites are not operated by me. Therefore, I strongly advise you to
-      review the Privacy Policy of these websites. I have no control over and
-      assume no responsibility for the content, privacy policies, or practices
-      of any third-party sites or services.
+      You can restrict cookies and analytics through browser settings, clear
+      local and session storage at any time, or use the{" "}
+      <ExternalLink href="https://tools.google.com/dlpage/gaoptout">
+        Google Analytics opt-out browser add-on
+      </ExternalLink>
+      . External links are governed by the destination site's privacy policy.
     </p>
     <p>
       <strong>Children’s Privacy</strong>
     </p>
-    <div>
-      <p>
-        These Services do not address anyone under the age of 13. I do not
-        knowingly collect personally identifiable information from children
-        under 13 years of age. In the case I discover that a child under 13 has
-        provided me with personal information, I immediately delete this from
-        our servers. If you are a parent or guardian and you are aware that your
-        child has provided us with personal information, please contact me so
-        that I will be able to do the necessary actions.
-      </p>
-    </div>
+    <p>
+      The service is not directed to children under 13, and ESO Market Tracker
+      does not knowingly collect personal information from children under 13.
+    </p>
     <p>
       <strong>Changes to This Privacy Policy</strong>
     </p>
     <p>
-      I may update our Privacy Policy from time to time. Thus, you are advised
-      to review this page periodically for any changes. I will notify you of any
-      changes by posting the new Privacy Policy on this page.
+      This policy may be updated as the service changes. The current version
+      will be posted on this page.
     </p>
-    <p>This policy is effective as of 2023-07-22</p>
+    <p>This policy is effective as of July 30, 2026.</p>
     <p>
       <strong>Contact Us</strong>
     </p>
     <p>
-      If you have any questions or suggestions about my Privacy Policy, do not
-      hesitate to contact me at esomarkettracker@gmail.com.
+      Questions about this policy can be sent to{" "}
+      <a href="mailto:esomarkettracker@gmail.com">esomarkettracker@gmail.com</a>
+      .
     </p>
   </div>
 );
 
 const PrivacyPolicy: React.FC = () => (
-  <PageContainer pageTitle="Privacy Policy">{CONTENT}</PageContainer>
+  <PageContainer
+    pageTitle="Privacy Policy"
+    metaTitle="Privacy Policy | ESO Market Tracker"
+    metaDescription="How ESO Market Tracker uses privacy-conscious analytics, local storage, and service providers across the website, app, API, and Discord bot."
+    canonicalPath="/privacy-policy"
+  >
+    {CONTENT}
+  </PageContainer>
 );
 
 export default PrivacyPolicy;

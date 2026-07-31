@@ -1,5 +1,5 @@
-import ExternalLink from '../components/ExternalLink'
-import PageContainer from '../components/PageContainer'
+import ExternalLink from "../components/ExternalLink";
+import PageContainer from "../components/PageContainer";
 
 const TERMS = (
   <div className="static-content">
@@ -125,10 +125,17 @@ const TERMS = (
       not hesitate to contact me at esomarkettracker@gmail.com.
     </p>
   </div>
-)
+);
 
 const TermsAndConditions: React.FC = () => (
-  <PageContainer pageTitle="Terms and Conditions">{TERMS}</PageContainer>
-)
+  <PageContainer
+    pageTitle="Terms and Conditions"
+    metaTitle="Terms and Conditions | ESO Market Tracker"
+    metaDescription="Terms governing use of the ESO Market Tracker website, app, public API, market data, and community services."
+    canonicalPath="/terms-and-conditions"
+  >
+    {TERMS}
+  </PageContainer>
+);
 
-export default TermsAndConditions
+export default TermsAndConditions;

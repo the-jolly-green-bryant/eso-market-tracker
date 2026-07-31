@@ -1,6 +1,6 @@
-import PageContainer from '../components/PageContainer'
-import TradableItemCategoryReference from '../components/TradableItemCategoryReference'
-import { CATEGORIES } from '../constants'
+import PageContainer from "../components/PageContainer";
+import TradableItemCategoryReference from "../components/TradableItemCategoryReference";
+import { CATEGORIES } from "../constants";
 
 const TradableItemCategories: React.FC = () => (
   <PageContainer
@@ -8,6 +8,25 @@ const TradableItemCategories: React.FC = () => (
     metaTitle="Browse ESO Market Categories | ESO Market Tracker"
     metaDescription="Browse current Xbox and PlayStation prices by ESO item category, including gold upgrade materials, crafting materials, and companion gear."
     canonicalPath="/categories"
+    jsonLd={{
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      name: "Elder Scrolls Online Market Categories",
+      url: "https://esomarkettracker.com/categories",
+      description:
+        "Browse ESO console market prices by item category for Xbox and PlayStation.",
+      mainEntity: {
+        "@type": "ItemList",
+        itemListElement: Object.keys(CATEGORIES).map((category, index) => ({
+          "@type": "ListItem",
+          position: index + 1,
+          name: category,
+          url: `https://esomarkettracker.com/category/${encodeURIComponent(
+            category,
+          )}`,
+        })),
+      },
+    }}
   >
     <div className="page-container-intro">
       <span>Browse the market</span>
@@ -26,6 +45,6 @@ const TradableItemCategories: React.FC = () => (
       ))}
     </div>
   </PageContainer>
-)
+);
 
-export default TradableItemCategories
+export default TradableItemCategories;

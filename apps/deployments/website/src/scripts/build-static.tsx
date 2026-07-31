@@ -11,11 +11,11 @@ import {
 import { TradableItemType } from "../models/tradable-item-types";
 import { GOLD_ICON_URL } from "../components/gold-currency";
 import { getItemVariantMetadata } from "../item-variants";
+import { MARKET_STATS } from "../marketStats";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const distPath = path.join(__dirname, "../..", "dist");
-const BUILD_TIME = new Date().toISOString();
 const ITEM_RENDER_CONCURRENCY = Math.max(
   1,
   Number.parseInt(process.env.ESO_STATIC_RENDER_CONCURRENCY || "8"),
@@ -24,8 +24,6 @@ const ITEM_RENDER_CONCURRENCY = Math.max(
 type SitemapEntry = {
   url: string;
   lastmod?: string;
-  changefreq?: "daily" | "weekly" | "monthly";
-  priority?: number;
 };
 
 const sitemap = new Map<string, SitemapEntry>();
@@ -164,12 +162,19 @@ const escapeHtml = (value: string) =>
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
 
+const validIsoDate = (value?: string) => {
+  if (!value) return undefined;
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? undefined : date.toISOString();
+};
+
 const renderItemSeoPage = (item: TradableItemType) => {
   const itemName = item.displayLabel;
   const price = Math.round(item.currentXboxStats.averageUnitPrice);
   const canonicalUrl = BASE_URL + encodeURI(`/item/${itemName}`);
   const title = `${itemName} Price Check & Market Value | ESO Market Tracker`;
   const description = `Check the current ${itemName} price in ESO. Average console market price: ${price.toLocaleString()} gold, with recent range and price history.`;
+  const dateModified = validIsoDate(item.currentXboxStats.date);
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -178,6 +183,7 @@ const renderItemSeoPage = (item: TradableItemType) => {
         name: `${itemName} ESO Price Check`,
         url: canonicalUrl,
         description,
+        dateModified,
         about: {
           "@type": "Thing",
           name: itemName,
@@ -216,6 +222,8 @@ const renderItemSeoPage = (item: TradableItemType) => {
 <meta property="og:title" content="${escapeHtml(title)}">
 <meta property="og:description" content="${escapeHtml(description)}">
 <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
+<meta property="og:site_name" content="ESO Market Tracker">
+<meta property="og:image" content="${escapeHtml(item.imageLink ?? `${BASE_URL}/assets/images/icon-marketing.png`)}">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
@@ -248,9 +256,7 @@ const makeItemPages = async (data: TradableItemType[], template: string) => {
     const url = encodeURI(`/item/${item.displayLabel}`);
     sitemap.set(url, {
       url,
-      lastmod: BUILD_TIME,
-      changefreq: "weekly",
-      priority: 0.8,
+      lastmod: validIsoDate(item.currentXboxStats.date),
     });
   }
 };
@@ -271,11 +277,9 @@ const buildSitemapXml = (
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${entries
   .map(
-    ({ url, lastmod, changefreq, priority }) => `  <url>
+    ({ url, lastmod }) => `  <url>
     <loc>${escapeXml(`${BASE_URL}${url}`)}</loc>
     ${lastmod ? `<lastmod>${new Date(lastmod).toISOString()}</lastmod>` : ""}
-    ${changefreq ? `<changefreq>${changefreq}</changefreq>` : ""}
-    ${priority != null ? `<priority>${priority.toFixed(1)}</priority>` : ""}
   </url>`,
   )
   .join("\n")}
@@ -327,23 +331,28 @@ const main = async () => {
     for (const staticPage of [
       {
         path: "/dashboard/",
-        priority: 1,
-        changefreq: "daily" as const,
+        lastmod: validIsoDate(MARKET_STATS.lastUpdated),
+      },
+      {
+        path: "/categories",
+      },
+      {
+        path: "/about",
       },
       {
         path: "/tamriel-savings-price-checker",
-        priority: 0.8,
-        changefreq: "monthly" as const,
       },
       {
         path: "/api-docs",
-        priority: 0.6,
-        changefreq: "monthly" as const,
       },
       {
         path: "/discord-bot",
-        priority: 0.8,
-        changefreq: "monthly" as const,
+      },
+      {
+        path: "/privacy-policy",
+      },
+      {
+        path: "/terms-and-conditions",
       },
     ]) {
       const rendered = render(staticPage.path, undefined);
@@ -356,9 +365,7 @@ const main = async () => {
       }
       sitemap.set(staticPage.path, {
         url: staticPage.path,
-        lastmod: BUILD_TIME,
-        changefreq: staticPage.changefreq,
-        priority: staticPage.priority,
+        lastmod: staticPage.lastmod,
       });
     }
   }
@@ -383,9 +390,11 @@ const main = async () => {
     const url = encodeURI(`/category/${slug}`);
     sitemap.set(url, {
       url,
-      lastmod: BUILD_TIME,
-      changefreq: "weekly",
-      priority: 0.6,
+      lastmod: data.data
+        .map((item) => validIsoDate(item.currentXboxStats.date))
+        .filter((date): date is string => Boolean(date))
+        .sort((a, b) => a.localeCompare(b))
+        .at(-1),
     });
   }
 
