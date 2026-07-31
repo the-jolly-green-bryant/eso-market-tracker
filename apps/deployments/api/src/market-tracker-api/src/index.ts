@@ -280,7 +280,11 @@ If you build something interesting with it, that’s a win for the community.
 
 import Fuse from "fuse.js";
 import { marked } from "marked";
-import { discordInteractions, DiscordMarketLookup } from "./discord";
+import {
+  discordHealth,
+  discordInteractions,
+  DiscordMarketLookup,
+} from "./discord";
 
 const SEARCH_LIMIT_DEFAULT = 10;
 
@@ -288,6 +292,7 @@ const SEARCH_LIMIT_DEFAULT = 10;
  * A type wrapper for Cloudflare and Wrangler.
  */
 export type Env = {
+  DISCORD_APPLICATION_ID: string;
   DISCORD_PUBLIC_KEY: string;
   ESO_MARKET_TRACKER: KVNamespace;
 };
@@ -460,6 +465,11 @@ export const item = async (key: string, env: Env) => {
 export default {
   async fetch(request, env, _ctx): Promise<Response> {
     const url = new URL(request.url);
+    if (url.pathname === "/discord/health") {
+      return request.method === "GET"
+        ? discordHealth(env.DISCORD_APPLICATION_ID, env.DISCORD_PUBLIC_KEY)
+        : methodNotAllowed();
+    }
     if (url.pathname === "/discord/interactions") {
       return discordInteractions(
         request,

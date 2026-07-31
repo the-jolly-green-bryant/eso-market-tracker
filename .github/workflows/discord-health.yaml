@@ -1,0 +1,76 @@
+name: Discord health
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */6 * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      DISCORD_APPLICATION_ID: "1121195192066781305"
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+      DISCORD_INTERACTIONS_ENDPOINT: "https://data.esomarkettracker.com/discord/interactions"
+
+    steps:
+      - name: Check production configuration
+        run: |
+          test -n "$DISCORD_BOT_TOKEN" || {
+            echo "::error::DISCORD_BOT_TOKEN is not configured."
+            exit 1
+          }
+
+          health="$(curl \
+            --fail \
+            --max-time 15 \
+            --retry 3 \
+            --silent \
+            --show-error \
+            https://data.esomarkettracker.com/discord/health)"
+          jq -e \
+            --arg application_id "$DISCORD_APPLICATION_ID" \
+            '.ok == true and
+             .applicationId == $application_id and
+             .commands == ["pricecheck"]' \
+            <<<"$health" >/dev/null
+
+          application="$(curl \
+            --fail \
+            --max-time 15 \
+            --retry 3 \
+            --silent \
+            --show-error \
+            --header "Authorization: Bot $DISCORD_BOT_TOKEN" \
+            https://discord.com/api/v10/applications/@me)"
+          jq -e \
+            --arg application_id "$DISCORD_APPLICATION_ID" \
+            --arg endpoint "$DISCORD_INTERACTIONS_ENDPOINT" \
+            '.id == $application_id and
+             .interactions_endpoint_url == $endpoint and
+             .bot_public == true and
+             .bot_require_code_grant == false and
+             .install_params.permissions == "0" and
+             .install_params.scopes == ["applications.commands"] and
+             .terms_of_service_url == "https://esomarkettracker.com/terms-and-conditions" and
+             .privacy_policy_url == "https://esomarkettracker.com/privacy-policy"' \
+            <<<"$application" >/dev/null
+
+          commands="$(curl \
+            --fail \
+            --max-time 15 \
+            --retry 3 \
+            --silent \
+            --show-error \
+            --header "Authorization: Bot $DISCORD_BOT_TOKEN" \
+            "https://discord.com/api/v10/applications/$DISCORD_APPLICATION_ID/commands")"
+          jq -e \
+            'length == 1 and
+             .[0].name == "pricecheck" and
+             .[0].options[0].name == "item" and
+             .[0].options[0].autocomplete == true' \
+            <<<"$commands" >/dev/null

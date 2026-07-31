@@ -10,11 +10,13 @@ const BOT_NAME = "ESO Market Tracker";
 const BOT_DESCRIPTION =
   "Definitive Elder Scrolls Online console price checks and market intelligence for Xbox and PlayStation.";
 const BOT_TAGS = ["ESO", "Price Checker", "Market Data", "Xbox", "PlayStation"];
+const BOT_TERMS_URL = "https://esomarkettracker.com/terms-and-conditions";
+const BOT_PRIVACY_URL = "https://esomarkettracker.com/privacy-policy";
 const ICON_PATH = path.resolve(
   "apps/deployments/website/public/assets/icons/icon-512.png",
 );
 const COVER_PATH = path.resolve(
-  "apps/deployments/website/store/google-play/feature-graphic.png",
+  "apps/deployments/website/public/assets/images/discord-cover.png",
 );
 
 const COMMANDS = [
@@ -37,18 +39,38 @@ const COMMANDS = [
 ];
 
 type DiscordApplication = {
+  bot_public?: boolean;
+  bot_require_code_grant?: boolean;
   cover_image: string | null;
   description: string;
   icon: string | null;
   id: string;
+  install_params?: {
+    permissions: string;
+    scopes: string[];
+  };
   interactions_endpoint_url?: string;
+  privacy_policy_url?: string;
   tags?: string[];
+  terms_of_service_url?: string;
 };
 
 type DiscordUser = {
   avatar: string | null;
   banner: string | null;
   username: string;
+};
+
+type DiscordCommand = {
+  description: string;
+  id: string;
+  name: string;
+};
+
+type DiscordHealth = {
+  applicationId: string;
+  commands: string[];
+  ok: boolean;
 };
 
 const token = process.env.DISCORD_BOT_TOKEN;
@@ -109,6 +131,8 @@ const configureApplication = async (
   }
 
   const update: Record<string, unknown> = {
+    bot_public: true,
+    bot_require_code_grant: false,
     install_params: {
       scopes: ["applications.commands"],
       permissions: "0",
@@ -120,6 +144,12 @@ const configureApplication = async (
   }
   if (current.interactions_endpoint_url !== interactionsEndpoint) {
     update.interactions_endpoint_url = interactionsEndpoint;
+  }
+  if (current.terms_of_service_url !== BOT_TERMS_URL) {
+    update.terms_of_service_url = BOT_TERMS_URL;
+  }
+  if (current.privacy_policy_url !== BOT_PRIVACY_URL) {
+    update.privacy_policy_url = BOT_PRIVACY_URL;
   }
   if (!sameTags(current.tags, BOT_TAGS)) {
     update.tags = BOT_TAGS;
@@ -159,11 +189,74 @@ const configureBotUser = async (
 };
 
 const registerCommands = async () => {
-  for (const command of COMMANDS) {
-    await discord(`/applications/${applicationId}/commands`, {
-      method: "POST",
-      body: JSON.stringify(command),
-    });
+  const configured = await discord<DiscordCommand[]>(
+    `/applications/${applicationId}/commands`,
+    {
+      method: "PUT",
+      body: JSON.stringify(COMMANDS),
+    },
+  );
+  const expectedNames = COMMANDS.map(({ name }) => name).sort((left, right) =>
+    left.localeCompare(right),
+  );
+  const configuredNames = configured
+    .map(({ name }) => name)
+    .sort((left, right) => left.localeCompare(right));
+  if (configuredNames.join("|") !== expectedNames.join("|")) {
+    throw new Error(
+      `Discord command verification failed: expected ${expectedNames.join(", ")}, received ${configuredNames.join(", ")}.`,
+    );
+  }
+};
+
+const verifyDiscordProfile = async () => {
+  const [application, bot] = await Promise.all([
+    discord<DiscordApplication>("/applications/@me"),
+    discord<DiscordUser>("/users/@me"),
+  ]);
+  if (
+    application.id !== applicationId ||
+    application.description !== BOT_DESCRIPTION ||
+    application.interactions_endpoint_url !== interactionsEndpoint ||
+    application.terms_of_service_url !== BOT_TERMS_URL ||
+    application.privacy_policy_url !== BOT_PRIVACY_URL ||
+    application.bot_public !== true ||
+    application.bot_require_code_grant !== false ||
+    application.install_params?.permissions !== "0" ||
+    application.install_params?.scopes.join("|") !== "applications.commands" ||
+    !sameTags(application.tags, BOT_TAGS) ||
+    bot.username !== BOT_NAME
+  ) {
+    throw new Error("Discord application profile verification failed.");
+  }
+};
+
+const verifyRuntime = async () => {
+  const response = await fetch(
+    "https://data.esomarkettracker.com/discord/health",
+    {
+      headers: { accept: "application/json" },
+    },
+  );
+  if (!response.ok) {
+    throw new Error(
+      `Discord runtime health check failed (${response.status}): ${await response.text()}`,
+    );
+  }
+  const health = (await response.json()) as DiscordHealth;
+  const expectedNames = COMMANDS.map(({ name }) => name).sort((left, right) =>
+    left.localeCompare(right),
+  );
+  if (
+    !health.ok ||
+    health.applicationId !== applicationId ||
+    health.commands
+      .sort((left, right) => left.localeCompare(right))
+      .join("|") !== expectedNames.join("|")
+  ) {
+    throw new Error(
+      `Discord runtime is misconfigured: ${JSON.stringify(health)}`,
+    );
   }
 };
 
@@ -175,6 +268,8 @@ const main = async () => {
   await configureApplication(icon, cover);
   await configureBotUser(icon, cover);
   await registerCommands();
+  await verifyDiscordProfile();
+  await verifyRuntime();
 
   const commandNames = COMMANDS.map((command) => `/${command.name}`).join(", ");
   console.log(`Configured ${BOT_NAME}: ${commandNames}`);

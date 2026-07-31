@@ -5,6 +5,9 @@ const DISCORD_MESSAGE_RESPONSE = 4;
 const DISCORD_AUTOCOMPLETE_RESPONSE = 8;
 const EPHEMERAL = 1 << 6;
 const EMBED_COLOR = 0xd9ad5b;
+const SIGNATURE_MAX_AGE_SECONDS = 5 * 60;
+
+export const DISCORD_COMMAND_NAMES = ["pricecheck"] as const;
 
 type SearchChoice = {
   name: string;
@@ -55,7 +58,11 @@ export type DiscordMarketLookup = {
 const json = (body: Record<string, unknown>, status = 200) =>
   new Response(JSON.stringify(body), {
     status,
-    headers: { "content-type": "application/json; charset=utf-8" },
+    headers: {
+      "cache-control": "no-store",
+      "content-type": "application/json; charset=utf-8",
+      "x-content-type-options": "nosniff",
+    },
   });
 
 const hexToBytes = (value: string) => {
@@ -68,10 +75,14 @@ export const verifyDiscordRequest = async (
   signature: string,
   timestamp: string,
   body: string,
+  now = Date.now(),
 ) => {
+  const timestampSeconds = Number(timestamp);
   if (
     !/^[a-f0-9]{64}$/i.test(publicKey) ||
-    !/^[a-f0-9]{128}$/i.test(signature)
+    !/^[a-f0-9]{128}$/i.test(signature) ||
+    !Number.isInteger(timestampSeconds) ||
+    Math.abs(now / 1000 - timestampSeconds) > SIGNATURE_MAX_AGE_SECONDS
   ) {
     return false;
   }
@@ -99,12 +110,14 @@ const optionValue = (interaction: DiscordInteraction) =>
 
 const formatDate = (value?: string) => {
   if (!value) return "date unavailable";
+  const parsed = new Date(`${value}T00:00:00Z`);
+  if (!Number.isFinite(parsed.getTime())) return "date unavailable";
   return new Intl.DateTimeFormat("en-US", {
     month: "short",
     day: "numeric",
     year: "numeric",
     timeZone: "UTC",
-  }).format(new Date(`${value}T00:00:00Z`));
+  }).format(parsed);
 };
 
 const formatPrice = (value: number) =>
@@ -211,7 +224,12 @@ const autocompleteResponse = async (
   query: string,
   market: DiscordMarketLookup,
 ) => {
-  const matches = query ? await market.searchChoices(query, 25) : [];
+  let matches: SearchChoice[] = [];
+  try {
+    matches = query ? await market.searchChoices(query, 25) : [];
+  } catch (error) {
+    console.error("Discord autocomplete lookup failed.", error);
+  }
   return json({
     type: DISCORD_AUTOCOMPLETE_RESPONSE,
     data: {
@@ -238,7 +256,16 @@ const commandResponse = async (
     return errorResponse("Choose an item to price check.");
   }
 
-  const [result] = await market.searchResults(query, 1);
+  let result: MarketResult | undefined;
+  try {
+    [result] = await market.searchResults(query, 1);
+  } catch (error) {
+    console.error("Discord price lookup failed.", error);
+    return errorResponse(
+      "Market data is temporarily unavailable. Please try again in a moment.",
+    );
+  }
+
   return result
     ? json({
         type: DISCORD_MESSAGE_RESPONSE,
@@ -299,4 +326,20 @@ export const discordInteractions = async (
   }
 
   return handleDiscordInteraction(interaction, market);
+};
+
+export const discordHealth = (applicationId: string, publicKey: string) => {
+  const ready =
+    /^\d{17,20}$/.test(applicationId) && /^[a-f0-9]{64}$/i.test(publicKey);
+  return json(
+    {
+      ok: ready,
+      service: "eso-market-tracker-discord",
+      applicationId,
+      commands: [...DISCORD_COMMAND_NAMES],
+      interactionsEndpoint:
+        "https://data.esomarkettracker.com/discord/interactions",
+    },
+    ready ? 200 : 503,
+  );
 };

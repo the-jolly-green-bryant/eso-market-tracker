@@ -87,7 +87,12 @@ DISCORD_BOT_TOKEN=... pnpm discord:configure
 ```
 
 The bot token belongs in a local environment variable or the
-`DISCORD_BOT_TOKEN` GitHub Actions secret; it must never be committed.
+`DISCORD_BOT_TOKEN` GitHub Actions secret; it must never be committed. Production
+releases fail rather than silently skipping Discord configuration when that
+secret is unavailable. The public
+[`/discord/health`](https://data.esomarkettracker.com/discord/health) endpoint
+and scheduled workflow verify the Worker, interaction URL, token, and exact
+global command set every six hours.
 
 Legacy one-time collectors are retained to keep historical imports reproducible.
 Recurring collectors are designed to be idempotent.
@@ -159,8 +164,8 @@ the SQLite database, and runs coverage checks. The release path also:
 
 - syncs the static website to S3;
 - deploys the API to Cloudflare Workers;
-- configures the Discord interaction endpoint and compatible price command when
-  the `DISCORD_BOT_TOKEN` secret is available;
+- configures and verifies the Discord interaction endpoint, branded profile, and
+  exact compatible command set;
 - publishes the generated ESO addon;
 - updates the rolling SQLite release.
 

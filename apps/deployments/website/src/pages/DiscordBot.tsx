@@ -112,7 +112,12 @@ const DiscordBot: React.FC = () => (
         <strong>One public market, every surface.</strong>
         <p>
           Discord results use the same versioned dataset as the website, API,
-          downloadable SQLite database, and in-game add-on.
+          downloadable SQLite database, and in-game add-on. The integration is
+          checked automatically around the clock.{" "}
+          <ExternalLink href="https://data.esomarkettracker.com/discord/health">
+            View live bot status
+          </ExternalLink>
+          .
         </p>
       </section>
     </div>

@@ -1,8 +1,10 @@
 import { describe, expect, it, vi } from "vitest";
 import {
   DiscordMarketLookup,
+  discordHealth,
   discordInteractions,
   handleDiscordInteraction,
+  verifyDiscordRequest,
 } from "./discord";
 
 const market = {
@@ -41,7 +43,7 @@ describe("Discord webhook security", () => {
       await crypto.subtle.exportKey("raw", keys.publicKey),
     );
     const body = JSON.stringify({ type: 1 });
-    const timestamp = "1785480000";
+    const timestamp = Math.floor(Date.now() / 1000).toString();
     const signature = new Uint8Array(
       await crypto.subtle.sign(
         { name: "Ed25519" },
@@ -67,6 +69,37 @@ describe("Discord webhook security", () => {
 
     expect(response.status).toBe(200);
     expect(await response.json()).toEqual({ type: 1 });
+  });
+
+  it("rejects a valid signature after the replay window", async () => {
+    const keys = (await crypto.subtle.generateKey({ name: "Ed25519" }, true, [
+      "sign",
+      "verify",
+    ])) as CryptoKeyPair;
+    const publicKey = new Uint8Array(
+      await crypto.subtle.exportKey("raw", keys.publicKey),
+    );
+    const body = JSON.stringify({ type: 1 });
+    const timestamp = "1700000000";
+    const signature = new Uint8Array(
+      await crypto.subtle.sign(
+        { name: "Ed25519" },
+        keys.privateKey,
+        new TextEncoder().encode(`${timestamp}${body}`),
+      ),
+    );
+    const toHex = (bytes: Uint8Array) =>
+      [...bytes].map((byte) => byte.toString(16).padStart(2, "0")).join("");
+
+    expect(
+      await verifyDiscordRequest(
+        toHex(publicKey),
+        toHex(signature),
+        timestamp,
+        body,
+        1_700_001_000_000,
+      ),
+    ).toBe(false);
   });
 });
 
@@ -125,5 +158,57 @@ describe("Discord interactions", () => {
     });
     expect(body.data.embeds[0].fields[0].value).toContain("2,865 🪙");
     expect(body.data.embeds[0].fields).toHaveLength(4);
+  });
+});
+
+describe("Discord interaction failures", () => {
+  it("returns a private retry message when market data is unavailable", async () => {
+    const errorSpy = vi.spyOn(console, "error").mockImplementation(() => {});
+    const failingMarket = {
+      searchChoices: vi.fn(async () => []),
+      searchResults: vi.fn(async () => {
+        throw new Error("KV unavailable");
+      }),
+    } satisfies DiscordMarketLookup;
+
+    const response = await handleDiscordInteraction(
+      {
+        type: 2,
+        data: {
+          name: "pricecheck",
+          options: [{ name: "item", type: 3, value: "Dreugh Wax" }],
+        },
+      },
+      failingMarket,
+    );
+
+    expect(await response.json()).toMatchObject({
+      type: 4,
+      data: {
+        content:
+          "Market data is temporarily unavailable. Please try again in a moment.",
+        flags: 64,
+      },
+    });
+    errorSpy.mockRestore();
+  });
+});
+
+describe("Discord health", () => {
+  it("reports the configured application and command surface", async () => {
+    const response = discordHealth(
+      "1121195192066781305",
+      "928ea6e2a1141717429317cb2f655f4543ec2ac4d027429cea1240d40de2de62",
+    );
+
+    expect(response.status).toBe(200);
+    expect(await response.json()).toEqual({
+      ok: true,
+      service: "eso-market-tracker-discord",
+      applicationId: "1121195192066781305",
+      commands: ["pricecheck"],
+      interactionsEndpoint:
+        "https://data.esomarkettracker.com/discord/interactions",
+    });
   });
 });
