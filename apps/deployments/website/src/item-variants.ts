@@ -1,4 +1,8 @@
-import { TradableItemType } from "./models/tradable-item-types";
+import {
+  SalesRollupType,
+  TradableItemType,
+  VariantPriceType,
+} from "./models/tradable-item-types";
 
 const TRAIT_NAMES: Record<string, string> = {
   "01": "Powered",
@@ -88,6 +92,105 @@ const variantName = (
 export type ItemVariantMetadata = {
   qualities: string[];
   traits: string[];
+};
+
+/**
+ * One selectable trait or quality value.
+ */
+export type ItemVariantOption = {
+  id: string;
+  label: string;
+};
+
+/**
+ * Trait choices and the quality choices available for the selected trait.
+ */
+export type ItemVariantOptions = {
+  qualities: ItemVariantOption[];
+  traits: ItemVariantOption[];
+};
+
+const variantOptions = (
+  ids: string[],
+  names: Record<string, string>,
+  fallback: string,
+  hasAggregate: boolean,
+  aggregateLabel: string,
+) => [
+  ...(hasAggregate ? [{ id: "--", label: aggregateLabel }] : []),
+  ...ids.map((id) => ({
+    id,
+    label: variantName(id, names, fallback),
+  })),
+];
+
+/**
+ * Selectable variants for an item. Qualities are scoped to the selected trait
+ * because not every trait necessarily exists at every quality.
+ */
+export const getItemVariantOptions = (
+  raw: TradableItemType["raw"],
+  traitId = "--",
+): ItemVariantOptions => {
+  if (!raw) return { traits: [], qualities: [] };
+
+  const traitIds = Object.keys(raw)
+    .filter((id) => id !== "--")
+    .sort((a, b) => Number(a) - Number(b));
+  const selectedTrait =
+    raw[traitId] ?? raw["--"] ?? raw[traitIds.at(0) ?? "--"] ?? {};
+  const qualityIds = Object.keys(selectedTrait)
+    .filter((id) => id !== "--")
+    .sort((a, b) => Number(a) - Number(b));
+
+  return {
+    traits: variantOptions(
+      traitIds,
+      TRAIT_NAMES,
+      "Trait",
+      Boolean(raw["--"]) && traitIds.length > 0,
+      "All traits",
+    ),
+    qualities: variantOptions(
+      qualityIds,
+      QUALITY_NAMES,
+      "Quality",
+      Boolean(selectedTrait["--"]) && qualityIds.length > 0,
+      "All qualities",
+    ),
+  };
+};
+
+const priceToStats = (
+  price: VariantPriceType,
+  qualities: Record<string, VariantPriceType>,
+): SalesRollupType => ({
+  averageUnitPrice: price.average,
+  commonQuantity: price.commonQuantity,
+  commonUnitPriceRangeLower: price.minimum,
+  commonUnitPriceRangeUpper: price.maximum,
+  date: price.date,
+  maximumUnitPrice: price.maximum,
+  medianUnitPrice: (price.minimum + price.maximum) / 2,
+  minimumUnitPrice: price.minimum,
+  numberOfQualitiesTracked: Object.keys(qualities).filter(
+    (qualityId) => qualityId !== "--",
+  ).length,
+  whiteAverageUnitPrice: qualities["01"]?.average,
+  greenAverageUnitPrice: qualities["02"]?.average,
+  blueAverageUnitPrice: qualities["03"]?.average,
+  purpleAverageUnitPrice: qualities["04"]?.average,
+  goldAverageUnitPrice: qualities["05"]?.average,
+});
+
+export const getItemVariantStats = (
+  raw: TradableItemType["raw"],
+  traitId = "--",
+  qualityId = "--",
+) => {
+  const qualities = raw?.[traitId];
+  const price = qualities?.[qualityId];
+  return price && qualities ? priceToStats(price, qualities) : null;
 };
 
 /**

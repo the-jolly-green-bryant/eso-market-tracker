@@ -35,26 +35,38 @@
   flex-wrap: wrap;
   max-width: 680px;
   margin: 0 0 10px;
-  gap: 7px 22px;
+  gap: 10px 12px;
   font-size: 13px;
 
-  > div {
-    display: flex;
-    min-width: 0;
-    gap: 6px;
+  label {
+    display: grid;
+    min-width: min(210px, 100%);
+    gap: 5px;
   }
 
-  dt {
-    flex: 0 0 auto;
+  span {
     color: #c89545;
+    font-size: 10px;
     font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
   }
 
-  dd {
-    min-width: 0;
-    margin: 0;
-    color: #c9c6bf;
-    line-height: 1.45;
+  select {
+    width: 100%;
+    height: 38px;
+    padding: 0 36px 0 12px;
+    border: 1px solid rgb(228 184 95 / 28%);
+    border-radius: 8px;
+    color: #f4f1ea;
+    background: #11151a;
+    cursor: pointer;
+    font: inherit;
+
+    &:focus-visible {
+      outline: 2px solid #d8ab56;
+      outline-offset: 2px;
+    }
   }
 }
 
@@ -98,8 +110,13 @@
   .market-item-variants {
     grid-column: 1 / -1;
     margin: 2px 0 0;
-    gap: 5px 16px;
+    gap: 10px;
     font-size: 12px;
+
+    label {
+      flex: 1 1 140px;
+      min-width: 0;
+    }
   }
 
   .market-item-image {

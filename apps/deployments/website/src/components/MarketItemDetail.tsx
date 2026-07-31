@@ -9,6 +9,7 @@ import {
 import { ReactNode } from "react";
 import { Link } from "react-router-dom";
 
+import { getItemVariantStats, ItemVariantOption } from "../item-variants";
 import {
   SalesRollupType,
   TradableItemType,
@@ -24,11 +25,14 @@ import "./MarketItemDetail.scss";
 
 /* eslint-disable max-lines-per-function */
 
-const QualityPrices = ({ item }: { item: TradableItemType }) => {
-  const trait =
-    item.raw?.["--"] ??
-    item.raw?.[Object.keys(item.raw || {}).at(0) || "--"] ??
-    {};
+const QualityPrices = ({
+  item,
+  traitId,
+}: {
+  item: TradableItemType;
+  traitId: string;
+}) => {
+  const trait = item.raw?.[traitId] ?? {};
   const qualities = [
     ["Legendary", "05", "#d9ad5b"],
     ["Epic", "04", "#a779d4"],
@@ -67,12 +71,25 @@ const QualityPrices = ({ item }: { item: TradableItemType }) => {
 export default ({
   item,
   history,
+  onQualityChange,
+  onTraitChange,
+  qualities,
+  qualityId,
+  traits,
+  traitId,
 }: {
   item: TradableItemType;
   history: SalesRollupType[];
+  onQualityChange: (qualityId: string) => void;
+  onTraitChange: (traitId: string) => void;
+  qualities: ItemVariantOption[];
+  qualityId: string;
+  traits: ItemVariantOption[];
+  traitId: string;
 }) => {
   const platform = (item.platform || "xbox-na") as MarketPlatform;
-  const stats = item.currentXboxStats;
+  const stats =
+    getItemVariantStats(item.raw, traitId, qualityId) ?? item.currentXboxStats;
   const previous = [...history]
     .reverse()
     .find((point) => point.date !== stats.date)?.averageUnitPrice;
@@ -120,7 +137,16 @@ export default ({
           </div>
 
           <section className="market-item-hero">
-            <MarketItemIdentity item={item} platform={platform} />
+            <MarketItemIdentity
+              item={item}
+              onQualityChange={onQualityChange}
+              onTraitChange={onTraitChange}
+              platform={platform}
+              qualities={qualities}
+              qualityId={qualityId}
+              traits={traits}
+              traitId={traitId}
+            />
 
             <div className="market-item-price-card">
               <span>Average unit price</span>
@@ -182,14 +208,15 @@ export default ({
             </section>
           </div>
 
-          <QualityPrices item={item} />
+          <QualityPrices item={item} traitId={traitId} />
 
           <section className="market-item-method">
             <h2>About this price</h2>
             <p>
               Values are aggregated from recent console market observations.
-              Switch megaservers above to compare this item across Xbox and
-              PlayStation regions.
+              Choose a trait or quality above for variant-specific pricing, or
+              leave both on All for the combined market. Switch megaservers
+              above to compare Xbox and PlayStation regions.
             </p>
           </section>
         </div>

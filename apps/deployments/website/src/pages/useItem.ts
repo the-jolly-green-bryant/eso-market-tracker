@@ -1,63 +1,50 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from "react";
 import {
   SalesRollupType,
   TradableItemType,
-} from '../models/tradable-item-types'
-import { CATEGORIES } from '../constants'
-import { MarketPlatform, usePlatform } from '../platform'
-import { strFromU8, unzipSync } from 'fflate'
+  VariantPricingType,
+} from "../models/tradable-item-types";
+import { CATEGORIES } from "../constants";
+import { getItemVariantStats } from "../item-variants";
+import { MarketPlatform, usePlatform } from "../platform";
+import { strFromU8, unzipSync } from "fflate";
 
 export const getIdFromName = (name: string): number => {
-  name = name.toLowerCase().replace(/[^a-z0-9 ]/gi, '')
-  let hash = 0x811c9dc5
+  name = name.toLowerCase().replace(/[^a-z0-9 ]/gi, "");
+  let hash = 0x811c9dc5;
 
   for (let i = 0; i < name.length; i++) {
-    hash ^= name.charCodeAt(i)
-    hash = Math.imul(hash, 0x01000193)
+    hash ^= name.charCodeAt(i);
+    hash = Math.imul(hash, 0x01000193);
   }
 
-  return hash >>> 0
-}
+  return hash >>> 0;
+};
 
 /**
  * The expected format for an API response from data.esomarkettracker.com
  */
 export type APIItemResponse = {
-  pricing: Partial<
-    Record<
-      MarketPlatform,
-      {
-        [trait: string]: {
-          [quality: string]: {
-            average: number
-            date: string
-            commonQuantity: number
-            minimum: number
-            maximum: number
-          }
-        }
-      }
-    >
-  >
+  pricing: Partial<Record<MarketPlatform, VariantPricingType>>;
   item: {
-    internalId: number
-    name: string
-    description: string
-    icon: string
-  }
-}
+    internalId: number;
+    name: string;
+    description: string;
+    icon: string;
+  };
+};
 
 type APIResponse = {
-  results: APIItemResponse[]
-}
+  results: APIItemResponse[];
+};
 
 type GitResponse = {
-  average: number
-  date: string
-  commonQuantity: number
-  minimum: number
-  maximum: number
-}
+  average: number;
+  date: string;
+  commonQuantity: number;
+  minimum: number;
+  maximum: number;
+};
 
 export const _responseToHistory = (json: GitResponse[]) =>
   Object.values(json)
@@ -71,291 +58,322 @@ export const _responseToHistory = (json: GitResponse[]) =>
       minimumUnitPrice: i.minimum,
       medianUnitPrice: (i.minimum + i.maximum) / 2,
     }))
-    .sort((a, b) => a.date.localeCompare(b.date)) as SalesRollupType[]
+    .sort((a, b) => a.date.localeCompare(b.date)) as SalesRollupType[];
 
 export const _responseToItem = (
   json: APIItemResponse,
-  platform: MarketPlatform = 'xbox-na',
+  platform: MarketPlatform = "xbox-na",
 ): TradableItemType => {
-  const platformRaw = json.pricing[platform]
+  const platformRaw = json.pricing[platform];
 
   if (!platformRaw) {
-    throw new Error(`${json.item.name} has no pricing data`)
+    throw new Error(`${json.item.name} has no pricing data`);
   }
 
-  // Prefer traitless, but get anything.
-  const safePlatform =
-    platformRaw['--'] ??
-    platformRaw[
-      Object.keys(platformRaw).at(0) as unknown as keyof typeof platformRaw
-    ] ??
-    {}
-  const baseRaw = safePlatform['--']
-  if (!baseRaw) {
-    throw new Error(`${json.item.name} has no pricing data`)
+  const traitId = platformRaw["--"] ? "--" : Object.keys(platformRaw).at(0);
+  const safeTrait = traitId ? platformRaw[traitId] : undefined;
+  const qualityId = safeTrait?.["--"]
+    ? "--"
+    : Object.keys(safeTrait ?? {}).at(0);
+  const currentStats =
+    traitId && qualityId
+      ? getItemVariantStats(platformRaw, traitId, qualityId)
+      : null;
+
+  if (!currentStats) {
+    throw new Error(`${json.item.name} has no pricing data`);
   }
-  const itemRaw = json.item
+  const itemRaw = json.item;
 
   return {
     raw: platformRaw,
-    currentXboxStats: {
-      averageUnitPrice: baseRaw.average,
-      commonQuantity: baseRaw.commonQuantity,
-      numberOfQualitiesTracked: Object.keys(safePlatform).filter(
-        (i) => i != '--',
-      ).length,
-      commonUnitPriceRangeLower: baseRaw.minimum,
-      commonUnitPriceRangeUpper: baseRaw.maximum,
-      date: baseRaw.date,
-      maximumUnitPrice: baseRaw.maximum,
-      minimumUnitPrice: baseRaw.minimum,
-      medianUnitPrice: (baseRaw.minimum + baseRaw.maximum) / 2,
-      whiteAverageUnitPrice: safePlatform['01'] && safePlatform['01'].average,
-      greenAverageUnitPrice: safePlatform['02'] && safePlatform['02'].average,
-      blueAverageUnitPrice: safePlatform['03'] && safePlatform['03'].average,
-      purpleAverageUnitPrice: safePlatform['04'] && safePlatform['04'].average,
-      goldAverageUnitPrice: safePlatform['05'] && safePlatform['05'].average,
-    },
+    currentXboxStats: currentStats,
     description: itemRaw.description,
     displayLabel: itemRaw.name,
-    slug: itemRaw.name.replace(' ', '-'),
+    slug: itemRaw.name.replace(" ", "-"),
     imageLink:
-      itemRaw.icon && itemRaw.icon.startsWith('https')
+      itemRaw.icon && itemRaw.icon.startsWith("https")
         ? itemRaw.icon
         : `https://github.com/the-jolly-green-bryant/eso-market-tracker/blob/main/${itemRaw.icon}?raw=true`,
     platform,
     availablePlatforms: Object.keys(json.pricing),
-  }
-}
+  };
+};
 
 export const __useCategory = (category: keyof typeof CATEGORIES) => {
-  const { platform } = usePlatform()
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<Error | null>(null)
-  const [data, setData] = useState<TradableItemType[] | null>(null)
+  const { platform } = usePlatform();
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<Error | null>(null);
+  const [data, setData] = useState<TradableItemType[] | null>(null);
 
   useEffect(() => {
     if (!category || !CATEGORIES[category]) {
-      setLoading(false)
-      setError(null)
-      setData(null)
-      return
+      setLoading(false);
+      setError(null);
+      setData(null);
+      return;
     }
 
-    const controller = new AbortController()
+    const controller = new AbortController();
 
     const load = async () => {
       try {
-        setLoading(true)
-        setError(null)
+        setLoading(true);
+        setError(null);
 
         const items = await Promise.all(
           CATEGORIES[category].map(async (name) => {
-            const internalId = getIdFromName(name)
+            const internalId = getIdFromName(name);
             const r = await fetch(
               `https://data.esomarkettracker.com/item/${internalId}`,
               { signal: controller.signal },
-            )
+            );
 
             if (!r.ok) {
-              throw new Error(`Request failed: ${r.status}`)
+              throw new Error(`Request failed: ${r.status}`);
             }
 
-            const raw = ((await r.json()) as APIResponse).results?.[0]
+            const raw = ((await r.json()) as APIResponse).results?.[0];
             return raw?.pricing[platform]
               ? _responseToItem(raw, platform)
-              : null
+              : null;
           }),
-        )
+        );
 
-        setData(items.filter(Boolean) as TradableItemType[])
+        setData(items.filter(Boolean) as TradableItemType[]);
       } catch (e) {
-        if ((e as Error).name === 'AbortError') return
-        setError(e as Error)
-        setData(null)
-        throw e
+        if ((e as Error).name === "AbortError") return;
+        setError(e as Error);
+        setData(null);
+        throw e;
       } finally {
-        setLoading(false)
+        setLoading(false);
       }
-    }
+    };
 
-    void load()
+    void load();
 
-    return () => controller.abort()
-  }, [category, platform])
+    return () => controller.abort();
+  }, [category, platform]);
 
-  return { loading, error, data }
-}
+  return { loading, error, data };
+};
 
 export const __useItem = (slug: string) => {
-  const { platform } = usePlatform()
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<Error | null>(null)
-  const [data, setData] = useState<TradableItemType | null>(null)
+  const { platform } = usePlatform();
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<Error | null>(null);
+  const [data, setData] = useState<TradableItemType | null>(null);
 
   useEffect(() => {
     if (!slug) {
-      setLoading(false)
-      setData(null)
-      return
+      setLoading(false);
+      setData(null);
+      return;
     }
 
-    const controller = new AbortController()
-    const internalId = getIdFromName(slug.replaceAll('-', ' '))
+    const controller = new AbortController();
+    const internalId = getIdFromName(slug.replaceAll("-", " "));
 
     const load = async () => {
       try {
-        setLoading(true)
-        setError(null)
+        setLoading(true);
+        setError(null);
 
         const r = await fetch(
           `https://data.esomarkettracker.com/item/${internalId}`,
           { signal: controller.signal },
-        )
+        );
 
         if (!r.ok) {
-          throw new Error(`Request failed: ${r.status}`)
+          throw new Error(`Request failed: ${r.status}`);
         }
 
-        const response = ((await r.json()) as APIResponse).results.at(0)!
-        setData(_responseToItem(response, platform))
+        const response = ((await r.json()) as APIResponse).results.at(0)!;
+        setData(_responseToItem(response, platform));
       } catch (e) {
-        if ((e as Error).name === 'AbortError') return
-        setError(e as Error)
-        setData(null)
+        if ((e as Error).name === "AbortError") return;
+        setError(e as Error);
+        setData(null);
       } finally {
-        setLoading(false)
+        setLoading(false);
       }
-    }
+    };
 
-    void load()
-    return () => controller.abort()
-  }, [slug, platform])
+    void load();
+    return () => controller.abort();
+  }, [slug, platform]);
 
-  return { loading, error, data }
-}
+  return { loading, error, data };
+};
 
 export const __useSearch = (text: string) => {
-  const { platform } = usePlatform()
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<Error | null>(null)
-  const [data, setData] = useState<TradableItemType[]>([])
+  const { platform } = usePlatform();
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<Error | null>(null);
+  const [data, setData] = useState<TradableItemType[]>([]);
 
   useEffect(() => {
     if (!text) {
-      setLoading(false)
-      setData([])
-      return
+      setLoading(false);
+      setData([]);
+      return;
     }
 
-    const controller = new AbortController()
+    const controller = new AbortController();
     const load = async () => {
       try {
-        setLoading(true)
-        setError(null)
+        setLoading(true);
+        setError(null);
 
         const r = await fetch(
           `https://data.esomarkettracker.com/search/${text}`,
           { signal: controller.signal },
-        )
+        );
 
         if (!r.ok) {
-          throw new Error(`Request failed: ${r.status}`)
+          throw new Error(`Request failed: ${r.status}`);
         }
 
-        const raw = (await r.json()) as APIResponse
+        const raw = (await r.json()) as APIResponse;
         const json = raw.results
           .filter((i) => i.pricing[platform])
-          .map((item) => _responseToItem(item, platform))
-        setData(json)
+          .map((item) => _responseToItem(item, platform));
+        setData(json);
       } catch (e) {
-        if ((e as Error).name === 'AbortError') return
-        setError(e as Error)
-        throw e
+        if ((e as Error).name === "AbortError") return;
+        setError(e as Error);
+        throw e;
       } finally {
-        setLoading(false)
+        setLoading(false);
       }
-    }
+    };
 
-    void load()
-    return () => controller.abort()
-  }, [text, platform])
+    void load();
+    return () => controller.abort();
+  }, [text, platform]);
 
-  return { loading, error, data }
-}
+  return { loading, error, data };
+};
 
-export const __useItemHistory = (slug: string) => {
-  const { platform } = usePlatform()
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<Error | null>(null)
-  const [data, setData] = useState<SalesRollupType[] | null>(null)
+/**
+ * Archive entry for one item's platform, trait, and quality history.
+ */
+export const getItemHistoryEntryName = (
+  internalId: number,
+  platform: MarketPlatform,
+  traitId = "--",
+  qualityId = "--",
+) => `${internalId}-${traitId}-${qualityId}.${platform}.historical.json`;
+
+const getItemDirectoryUrl = (internalId: number) =>
+  internalId
+    .toString()
+    .padStart(6, "0")
+    .split("")
+    .reverse()
+    .join("")
+    .substring(0, 6)
+    .replace(
+      /^(.{2})(.{2})(.{2})/,
+      `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3`,
+    );
+
+const fetchItemHistory = async ({
+  internalId,
+  platform,
+  qualityId,
+  signal,
+  traitId,
+}: {
+  internalId: number;
+  platform: MarketPlatform;
+  qualityId: string;
+  signal: AbortSignal;
+  traitId: string;
+}) => {
+  const itemDirectoryUrl = getItemDirectoryUrl(internalId);
+  const entryName = getItemHistoryEntryName(
+    internalId,
+    platform,
+    traitId,
+    qualityId,
+  );
+  const archiveResponse = await fetch(
+    `${itemDirectoryUrl}/${internalId}.pricing.zip`,
+    { signal },
+  );
+
+  if (archiveResponse.ok) {
+    const entries = unzipSync(
+      new Uint8Array(await archiveResponse.arrayBuffer()),
+      { filter: ({ name }) => name === entryName },
+    );
+    const history = entries[entryName];
+    return history ? _responseToHistory(JSON.parse(strFromU8(history))) : [];
+  }
+
+  // Keep old deployments readable while compressed archives propagate.
+  const legacyResponse = await fetch(`${itemDirectoryUrl}/${entryName}`, {
+    signal,
+  });
+  return legacyResponse.ok
+    ? _responseToHistory(await legacyResponse.json())
+    : [];
+};
+
+export const __useItemHistory = (
+  slug: string,
+  traitId = "--",
+  qualityId = "--",
+) => {
+  const { platform } = usePlatform();
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<Error | null>(null);
+  const [data, setData] = useState<SalesRollupType[] | null>(null);
+  const [loadedKey, setLoadedKey] = useState("");
+  const requestKey = `${slug}:${platform}:${traitId}:${qualityId}`;
 
   useEffect(() => {
     if (!slug) {
-      setLoading(false)
-      setData(null)
-      return
+      setLoading(false);
+      setData(null);
+      return;
     }
 
-    const controller = new AbortController()
-    const internalId = getIdFromName(slug.replaceAll('-', ' '))
+    const controller = new AbortController();
+    const internalId = getIdFromName(slug.replaceAll("-", " "));
 
     const load = async () => {
       try {
-        setLoading(true)
-        setError(null)
-
-        const itemDirectoryUrl = internalId
-          .toString()
-          .padStart(6, '0')
-          .split('')
-          .reverse()
-          .join('')
-          .substring(0, 6)
-          .replace(
-            /^(.{2})(.{2})(.{2})/,
-            `https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/refs/heads/main/data/items/$1/$2/$3`,
-          )
-        const archiveResponse = await fetch(
-          `${itemDirectoryUrl}/${internalId}.pricing.zip`,
-          { signal: controller.signal },
-        )
-        if (archiveResponse.ok) {
-          const entryName = `${internalId}------.${platform}.historical.json`
-          const entries = unzipSync(
-            new Uint8Array(await archiveResponse.arrayBuffer()),
-            { filter: ({ name }) => name === entryName },
-          )
-          const history = entries[entryName]
-          setData(
-            history ? _responseToHistory(JSON.parse(strFromU8(history))) : [],
-          )
-          return
-        }
-
-        // Keep old deployments readable while the compressed data migration
-        // and the website release propagate through GitHub.
-        const legacyResponse = await fetch(
-          `${itemDirectoryUrl}/${internalId}------.${platform}.historical.json`,
-          { signal: controller.signal },
-        )
-        setData(
-          legacyResponse.ok
-            ? _responseToHistory(await legacyResponse.json())
-            : [],
-        )
+        setLoading(true);
+        setError(null);
+        const history = await fetchItemHistory({
+          internalId,
+          platform,
+          qualityId,
+          traitId,
+          signal: controller.signal,
+        });
+        setData(history);
+        setLoadedKey(requestKey);
       } catch (e) {
-        if ((e as Error).name === 'AbortError') return
-        setError(e as Error)
-        setData([])
+        if ((e as Error).name === "AbortError") return;
+        setError(e as Error);
+        setData([]);
+        setLoadedKey(requestKey);
       } finally {
-        setLoading(false)
+        setLoading(false);
       }
-    }
+    };
 
-    void load()
-    return () => controller.abort()
-  }, [slug, platform])
+    void load();
+    return () => controller.abort();
+  }, [slug, platform, traitId, qualityId, requestKey]);
 
-  return { loading, error, data }
-}
+  return {
+    loading,
+    error,
+    data: loadedKey === requestKey ? data : null,
+  };
+};
