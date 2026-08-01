@@ -4,12 +4,13 @@ import LoadingSkeleton from "../components/LoadingSkeleton";
 import PageContainer from "../components/PageContainer";
 import TradableItemList from "../components/TradableItemList";
 import TradableItemReferenceSkeleton from "../components/TradableItemReferenceSkeleton";
-import * as constants from "../constants";
 import { CATEGORIES } from "../constants";
 import { __useCategory } from "./useItem";
 import { TradableItemType } from "../models/tradable-item-types";
 import { useEffect } from "react";
 import { trackCategoryView } from "../analytics";
+import { PLATFORMS, usePlatform } from "../platform";
+import * as routes from "../routes";
 
 const LOADING_STATE = (
   <div>
@@ -43,6 +44,8 @@ export type CategoryProps = {
 
 // eslint-disable-next-line max-lines-per-function
 export default ({ staticData }: CategoryProps) => {
+  const { platform } = usePlatform();
+  const platformLabel = PLATFORMS[platform];
   const { slug } = staticData ?? useParams<{ slug: keyof typeof CATEGORIES }>();
   const { loading, error, data } = staticData ?? __useCategory(slug);
 
@@ -53,19 +56,19 @@ export default ({ staticData }: CategoryProps) => {
   return (
     <PageContainer
       pageTitle={slug}
-      metaTitle={`${slug} Prices in ESO | ESO Market Tracker`}
-      metaDescription={`Compare current Elder Scrolls Online console prices for ${slug}, including Xbox and PlayStation market values and recent pricing data.`}
-      canonicalPath={`${constants.CATEGORY_PATH}/${slug}`}
+      metaTitle={`${slug} Prices for ${platformLabel} in ESO | ESO Market Tracker`}
+      metaDescription={`Compare current Elder Scrolls Online prices for ${slug} on ${platformLabel}, including recent market values and pricing data.`}
+      canonicalPath={routes.getCategory(slug, platform)}
       jsonLd={{
         "@context": "https://schema.org",
         "@graph": [
           {
             "@type": "CollectionPage",
             name: `${slug} Prices in ESO`,
-            url: `https://esomarkettracker.com/category/${encodeURIComponent(
-              slug,
+            url: `https://esomarkettracker.com${encodeURI(
+              routes.getCategory(slug, platform),
             )}`,
-            description: `Current Elder Scrolls Online console market prices for ${slug}.`,
+            description: `Current Elder Scrolls Online market prices for ${slug} on ${platformLabel}.`,
             mainEntity: data
               ? {
                   "@type": "ItemList",
@@ -74,8 +77,8 @@ export default ({ staticData }: CategoryProps) => {
                     "@type": "ListItem",
                     position: index + 1,
                     name: item.displayLabel,
-                    url: `https://esomarkettracker.com/item/${encodeURIComponent(
-                      item.displayLabel,
+                    url: `https://esomarkettracker.com${encodeURI(
+                      routes.getItem(item.displayLabel, platform),
                     )}`,
                   })),
                 }
@@ -88,14 +91,14 @@ export default ({ staticData }: CategoryProps) => {
                 "@type": "ListItem",
                 position: 1,
                 name: "ESO Market Categories",
-                item: "https://esomarkettracker.com/categories",
+                item: `https://esomarkettracker.com${routes.getCategories(platform)}`,
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: slug,
-                item: `https://esomarkettracker.com/category/${encodeURIComponent(
-                  slug,
+                item: `https://esomarkettracker.com${encodeURI(
+                  routes.getCategory(slug, platform),
                 )}`,
               },
             ],

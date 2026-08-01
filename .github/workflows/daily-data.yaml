@@ -75,7 +75,7 @@ jobs:
             --exclude='*' \
             apps/deployments/eso-addon/src/MarketTracker/ \
             data/addon/MarketTracker/
-          changed_pages="$(find apps/deployments/website/dist/item \
+          changed_pages="$(find apps/deployments/website/dist/xbox-na/item \
             -type f -name index.html 2>/dev/null | wc -l | tr -d ' ')"
           changed_data_files="$(git -C data status --porcelain | wc -l | tr -d ' ')"
           echo "page_count=$changed_pages" >> "$GITHUB_OUTPUT"
@@ -100,7 +100,7 @@ jobs:
         working-directory: apps/deployments/website
         run: |
           set -euo pipefail
-          find dist/item -type f -name index.html -print0 |
+          find dist/xbox-na/item -type f -name index.html -print0 |
             while IFS= read -r -d '' file; do
               aws s3 cp "$file" "s3://esomarkettracker.com/${file#dist/}" \
                 --acl public-read
@@ -111,7 +111,7 @@ jobs:
         continue-on-error: true
         run: |
           pnpm tsx scripts/submit-indexnow.ts \
-            --pages apps/deployments/website/dist/item
+            --pages apps/deployments/website/dist/xbox-na/item
 
       # Add-on publishing is paused until an approved publisher is available.
 

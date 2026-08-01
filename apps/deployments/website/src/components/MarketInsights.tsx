@@ -25,6 +25,7 @@ const SPARKLINE_WINDOW_DAYS = 93;
 const DAY_IN_MILLISECONDS = 86_400_000;
 
 const TrendingItem = ({ name }: { name: string }) => {
+  const { platform } = usePlatform();
   const item = __useItem(name).data;
   const history = __useItemHistory(name).data;
   if (!item) return <div className="market-trending-card is-loading" />;
@@ -42,7 +43,7 @@ const TrendingItem = ({ name }: { name: string }) => {
     : 0;
 
   return (
-    <Link className="market-trending-card" to={`${routes.item()}/${name}`}>
+    <Link className="market-trending-card" to={routes.getItem(name, platform)}>
       <div className="market-trending-item">
         {item.imageLink ? (
           <LocalImage imageUrl={item.imageLink} />
@@ -118,7 +119,7 @@ export default () => {
             <span>Trending now</span>
             <h2>Items traders are watching</h2>
           </div>
-          <Link to={routes.getCategory("Mats (Gold)")}>
+          <Link to={routes.getCategory("Mats (Gold)", platform)}>
             View gold materials →
           </Link>
         </div>

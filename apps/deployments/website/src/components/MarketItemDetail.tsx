@@ -128,7 +128,10 @@ export default ({
       <main className="market-item-scroll">
         <div className="market-item-shell">
           <div className="market-item-tools">
-            <Link className="market-item-back" to={`${routes.dashboard()}/`}>
+            <Link
+              className="market-item-back"
+              to={routes.getDashboard(platform)}
+            >
               <IonIcon icon={arrowBackOutline} /> Back to market
             </Link>
             <div className="market-item-search">

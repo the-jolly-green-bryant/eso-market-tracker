@@ -16,6 +16,7 @@ import { __useItem, __useItemHistory } from "./useItem";
 import { useEffect, useMemo, useState } from "react";
 import { trackItemView } from "../analytics";
 import { getItemVariantOptions } from "../item-variants";
+import { PLATFORMS, usePlatform } from "../platform";
 
 /**
  * Structure of data for static rendering of item pages
@@ -32,6 +33,7 @@ export type ItemProps = {
 
 // eslint-disable-next-line max-lines-per-function
 const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
+  const { platform } = usePlatform();
   const { state } = useLocation<{ itemReference: TradableItemReferenceType }>();
   const { slug } = staticData ?? useParams<{ slug: string }>();
 
@@ -72,11 +74,12 @@ const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
   const averagePrice = data
     ? Math.round(data.currentXboxStats.averageUnitPrice)
     : undefined;
-  const canonicalPath = `${routes.item()}/${itemName}`;
-  const metaTitle = `${itemName} Price Check & Market Value | ESO Market Tracker`;
+  const canonicalPath = routes.getItem(itemName, platform);
+  const platformLabel = PLATFORMS[platform];
+  const metaTitle = `${itemName} Price Check for ${platformLabel} | ESO Market Tracker`;
   const metaDescription = averagePrice
-    ? `Check the current ${itemName} price in ESO. Average console market price: ${averagePrice.toLocaleString()} gold, with recent range and price history.`
-    : `Check the current ${itemName} price, market value, recent range, and console price history in The Elder Scrolls Online.`;
+    ? `Check the current ${itemName} price for ${platformLabel} in ESO. Average market price: ${averagePrice.toLocaleString()} gold, with recent range and price history.`
+    : `Check the current ${itemName} price, market value, recent range, and ${platformLabel} price history in The Elder Scrolls Online.`;
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -103,7 +106,7 @@ const TradableItemDetail: React.FC<ItemProps> = ({ staticData }) => {
             "@type": "ListItem",
             position: 1,
             name: "ESO Price Checker",
-            item: "https://esomarkettracker.com/dashboard/",
+            item: `https://esomarkettracker.com${routes.getDashboard(platform)}`,
           },
           {
             "@type": "ListItem",

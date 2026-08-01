@@ -5,6 +5,7 @@ import PlaceholderImage from "../components/PlaceholderImage";
 import { TradableItemReferenceType } from "../models/tradable-item-types";
 import * as routes from "../routes";
 import { trackItemSelection } from "../analytics";
+import { usePlatform } from "../platform";
 
 interface ContainerProps {
   item: TradableItemReferenceType;
@@ -19,6 +20,7 @@ const TradableItemReference: React.FC<ContainerProps> = ({
   disableClick = false,
   itemDescriptor = "",
 }) => {
+  const { platform } = usePlatform();
   const updatedDate = item.currentXboxStats.date;
 
   return (
@@ -29,7 +31,7 @@ const TradableItemReference: React.FC<ContainerProps> = ({
           disableClick
             ? undefined
             : {
-                pathname: routes.getItem(item.slug),
+                pathname: routes.getItem(item.slug, platform),
                 state: { itemReference: item },
               }
         }

@@ -12,6 +12,8 @@ import { TradableItemType } from "../models/tradable-item-types";
 import { GOLD_ICON_URL } from "../components/gold-currency";
 import { getItemVariantMetadata } from "../item-variants";
 import { MARKET_STATS } from "../marketStats";
+import { DEFAULT_PLATFORM } from "../platform";
+import * as routes from "../routes";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -171,7 +173,8 @@ const validIsoDate = (value?: string) => {
 const renderItemSeoPage = (item: TradableItemType) => {
   const itemName = item.displayLabel;
   const price = Math.round(item.currentXboxStats.averageUnitPrice);
-  const canonicalUrl = BASE_URL + encodeURI(`/item/${itemName}`);
+  const canonicalPath = routes.getItem(itemName, DEFAULT_PLATFORM);
+  const canonicalUrl = BASE_URL + encodeURI(canonicalPath);
   const title = `${itemName} Price Check & Market Value | ESO Market Tracker`;
   const description = `Check the current ${itemName} price in ESO. Average console market price: ${price.toLocaleString()} gold, with recent range and price history.`;
   const dateModified = validIsoDate(item.currentXboxStats.date);
@@ -202,7 +205,7 @@ const renderItemSeoPage = (item: TradableItemType) => {
             "@type": "ListItem",
             position: 1,
             name: "ESO Price Checker",
-            item: `${BASE_URL}/dashboard/`,
+            item: `${BASE_URL}${routes.getDashboard(DEFAULT_PLATFORM)}`,
           },
           {
             "@type": "ListItem",
@@ -246,6 +249,7 @@ const makeItemPages = async (data: TradableItemType[], template: string) => {
 
     const outFile = path.join(
       distPath,
+      DEFAULT_PLATFORM,
       "item",
       item.displayLabel,
       "index.html",
@@ -253,7 +257,7 @@ const makeItemPages = async (data: TradableItemType[], template: string) => {
     await fs.mkdir(path.dirname(outFile), { recursive: true });
     await fs.writeFile(outFile, html);
 
-    const url = encodeURI(`/item/${item.displayLabel}`);
+    const url = encodeURI(routes.getItem(item.displayLabel, DEFAULT_PLATFORM));
     sitemap.set(url, {
       url,
       lastmod: validIsoDate(item.currentXboxStats.date),
@@ -330,11 +334,11 @@ const main = async () => {
   if (!incremental) {
     for (const staticPage of [
       {
-        path: "/dashboard/",
+        path: routes.getDashboard(DEFAULT_PLATFORM),
         lastmod: validIsoDate(MARKET_STATS.lastUpdated),
       },
       {
-        path: "/categories",
+        path: routes.getCategories(DEFAULT_PLATFORM),
       },
       {
         path: "/about",
@@ -360,7 +364,7 @@ const main = async () => {
       const outFile = path.join(distPath, staticPage.path, "index.html");
       await fs.mkdir(path.dirname(outFile), { recursive: true });
       await fs.writeFile(outFile, html);
-      if (staticPage.path === "/dashboard/") {
+      if (staticPage.path === routes.getDashboard(DEFAULT_PLATFORM)) {
         await fs.writeFile(path.join(distPath, "index.html"), html);
       }
       sitemap.set(staticPage.path, {
@@ -380,14 +384,21 @@ const main = async () => {
       data: await Promise.all(CATEGORIES[slug].map(_itemFromName)),
     };
 
-    const rendered = render(`/category/${slug}`, data);
+    const categoryPath = routes.getCategory(slug, DEFAULT_PLATFORM);
+    const rendered = render(categoryPath, data);
     const html = applyRenderedPage(template, rendered);
 
-    const outFile = path.join(distPath, "category", slug, "index.html");
+    const outFile = path.join(
+      distPath,
+      DEFAULT_PLATFORM,
+      "category",
+      slug,
+      "index.html",
+    );
     await fs.mkdir(path.dirname(outFile), { recursive: true });
     await fs.writeFile(outFile, html);
 
-    const url = encodeURI(`/category/${slug}`);
+    const url = encodeURI(categoryPath);
     sitemap.set(url, {
       url,
       lastmod: data.data

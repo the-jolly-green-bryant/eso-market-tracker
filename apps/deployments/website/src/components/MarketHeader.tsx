@@ -17,25 +17,39 @@ const dataDateLabel = new Intl.DateTimeFormat("en-US", {
 const isPathActive = (pathname: string, ...prefixes: string[]) =>
   prefixes.some((prefix) => pathname.startsWith(prefix));
 
-const InternalLinks = ({ pathname }: { pathname: string }) => (
+const InternalLinks = ({
+  pathname,
+  platform,
+}: {
+  pathname: string;
+  platform: MarketPlatform;
+}) => (
   <>
     <Link
       className={
-        isPathActive(pathname, routes.dashboard(), routes.item())
+        isPathActive(
+          pathname,
+          routes.withPlatform(routes.dashboard(), platform),
+          routes.withPlatform(routes.item(), platform),
+        )
           ? "is-active"
           : ""
       }
-      to={`${routes.dashboard()}/`}
+      to={routes.getDashboard(platform)}
     >
       Market
     </Link>
     <Link
       className={
-        isPathActive(pathname, routes.categories(), routes.category())
+        isPathActive(
+          pathname,
+          routes.getCategories(platform),
+          routes.withPlatform(routes.category(), platform),
+        )
           ? "is-active"
           : ""
       }
-      to={routes.categories()}
+      to={routes.getCategories(platform)}
     >
       Categories
     </Link>
@@ -80,7 +94,7 @@ export default () => {
 
   return (
     <header className="market-header">
-      <Link className="market-brand" to={`${routes.dashboard()}/`}>
+      <Link className="market-brand" to={routes.getDashboard(platform)}>
         <img
           className="market-brand-mark"
           src="/assets/images/market-tracker-brand-gold.png"
@@ -90,7 +104,7 @@ export default () => {
       </Link>
 
       <nav className="market-nav" aria-label="Primary navigation">
-        <InternalLinks pathname={location.pathname} />
+        <InternalLinks pathname={location.pathname} platform={platform} />
         <ExternalLinks />
       </nav>
 
@@ -131,7 +145,7 @@ export default () => {
 
       {menuOpen && (
         <nav className="market-mobile-nav" aria-label="Mobile navigation">
-          <InternalLinks pathname={location.pathname} />
+          <InternalLinks pathname={location.pathname} platform={platform} />
           <div className="market-mobile-nav-divider" />
           <ExternalLinks />
         </nav>

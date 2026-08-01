@@ -30,7 +30,7 @@ import MarketInsights from "../components/MarketInsights";
 import SupportBanner from "../components/SupportBanner";
 import ExternalLink from "../components/ExternalLink";
 import { DISCORD_BOT_INSTALL_LINK } from "../constants";
-import { usePlatform } from "../platform";
+import { MarketPlatform, PLATFORMS, usePlatform } from "../platform";
 
 const accessCards = [
   {
@@ -133,7 +133,7 @@ const NoResults = () => (
   </div>
 );
 
-const useSearch = (text?: string) => {
+const useSearch = (text: string | undefined, platform: MarketPlatform) => {
   const history = useHistory();
   const abortController = useRef<AbortController>();
   const [currentSearch, setCurrentSearch] = useState(text || "");
@@ -142,8 +142,8 @@ const useSearch = (text?: string) => {
   const onPerformSearch = (searchText: string) => {
     const trimmed = searchText.trim();
     const newPath = trimmed
-      ? routes.getSearchResults(trimmed)
-      : `${routes.dashboard()}/`;
+      ? routes.getSearchResults(trimmed, platform)
+      : routes.getDashboard(platform);
     if (history.location.pathname !== newPath) history.replace(newPath);
     setCurrentSearch(trimmed);
     abortController.current?.abort();
@@ -245,7 +245,7 @@ const SearchResults = ({
   </section>
 );
 
-const DefaultContent = () => (
+const DefaultContent = ({ platform }: { platform: MarketPlatform }) => (
   <>
     <MarketInsights />
 
@@ -255,7 +255,9 @@ const DefaultContent = () => (
           <span>Market snapshot</span>
           <h2>Gold materials</h2>
         </div>
-        <Link to={routes.getCategory("Mats (Gold)")}>View category →</Link>
+        <Link to={routes.getCategory("Mats (Gold)", platform)}>
+          View category →
+        </Link>
       </div>
       <TopSoldItems />
     </section>
@@ -300,8 +302,12 @@ export default () => {
   const { platform } = usePlatform();
   const searchInputRef = useRef<HTMLInputElement>(null);
   const lastTrackedSearchRef = useRef("");
-  const { loading, error, data, onPerformSearch, currentSearch } =
-    useSearch(text);
+  const { loading, error, data, onPerformSearch, currentSearch } = useSearch(
+    text,
+    platform,
+  );
+  const platformLabel = PLATFORMS[platform];
+  const canonicalUrl = `https://esomarkettracker.com${routes.getDashboard(platform)}`;
 
   useEffect(() => {
     if (text) onPerformSearch(text);
@@ -342,7 +348,7 @@ export default () => {
           name="description"
           content="Check Elder Scrolls Online item prices for Xbox and PlayStation. Search current ESO market values and price history for Dreugh Wax, Kuta, motifs, gear, and 44,000+ items."
         />
-        <link rel="canonical" href="https://esomarkettracker.com/dashboard/" />
+        <link rel="canonical" href={canonicalUrl} />
         <meta
           property="og:title"
           content="Elder Scrolls Online Price Checker for Console"
@@ -351,10 +357,7 @@ export default () => {
           property="og:description"
           content="Search current console prices and market history for more than 44,000 Elder Scrolls Online items."
         />
-        <meta
-          property="og:url"
-          content="https://esomarkettracker.com/dashboard/"
-        />
+        <meta property="og:url" content={canonicalUrl} />
         <meta property="og:site_name" content="ESO Market Tracker" />
         <meta
           property="og:image"
@@ -376,8 +379,7 @@ export default () => {
                 url: "https://esomarkettracker.com/",
                 potentialAction: {
                   "@type": "SearchAction",
-                  target:
-                    "https://esomarkettracker.com/dashboard/{search_term_string}",
+                  target: `https://esomarkettracker.com/${platform}/dashboard/{search_term_string}`,
                   "query-input": "required name=search_term_string",
                 },
               },
@@ -386,9 +388,8 @@ export default () => {
                 name: "ESO Market Tracker",
                 applicationCategory: "GameApplication",
                 operatingSystem: "Web",
-                url: "https://esomarkettracker.com/dashboard/",
-                description:
-                  "An Elder Scrolls Online console market tracker and price checker for Xbox and PlayStation.",
+                url: canonicalUrl,
+                description: `An Elder Scrolls Online market tracker and price checker for ${platformLabel}.`,
               },
             ],
           })}
@@ -416,7 +417,7 @@ export default () => {
         <div className="market-content">
           <ProofBar />
 
-          {!currentSearch && <DefaultContent />}
+          {!currentSearch && <DefaultContent platform={platform} />}
         </div>
 
         <footer className="market-footer">

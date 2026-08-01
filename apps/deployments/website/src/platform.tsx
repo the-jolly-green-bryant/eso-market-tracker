@@ -29,13 +29,36 @@ export const getPlatformFromSearch = (
   return isMarketPlatform(value) ? value : null;
 };
 
-export const setPlatformInSearch = (
-  search: string,
+export const getPlatformFromPath = (
+  pathname: string,
+): MarketPlatform | null => {
+  const value = pathname.split("/").filter(Boolean)[0] ?? null;
+  return isMarketPlatform(value) ? value : null;
+};
+
+export const removePlatformFromSearch = (search: string) => {
+  const params = new URLSearchParams(search);
+  params.delete("platform");
+  const value = params.toString();
+  return value ? `?${value}` : "";
+};
+
+export const setPlatformInPath = (
+  pathname: string,
   platform: MarketPlatform,
 ) => {
-  const params = new URLSearchParams(search);
-  params.set("platform", platform);
-  return `?${params.toString()}`;
+  const currentPlatform = getPlatformFromPath(pathname);
+  if (currentPlatform) {
+    return pathname.replace(`/${currentPlatform}`, `/${platform}`);
+  }
+  if (
+    pathname === "/" ||
+    /^\/(?:dashboard|item|categories|category)(?:\/|$)/.test(pathname)
+  ) {
+    const marketPath = pathname === "/" ? "/dashboard/" : pathname;
+    return `/${platform}${marketPath}`;
+  }
+  return `/${platform}/dashboard/`;
 };
 
 type PlatformContextValue = {
@@ -56,27 +79,23 @@ export const PlatformProvider = ({
   const history = useHistory();
   const location = useLocation();
   const [platform, setPlatform] = useState<MarketPlatform>(
-    () => getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM,
+    () =>
+      getPlatformFromPath(location.pathname) ??
+      getPlatformFromSearch(location.search) ??
+      DEFAULT_PLATFORM,
   );
 
   useEffect(() => {
-    const params = new URLSearchParams(location.search);
-    const hasRequestedPlatform = params.has("platform");
-    const locationPlatform = getPlatformFromSearch(location.search);
-
+    const locationPlatform = getPlatformFromPath(location.pathname);
     if (locationPlatform) {
       if (locationPlatform !== platform) setPlatform(locationPlatform);
       return;
     }
-
-    const nextPlatform = hasRequestedPlatform ? DEFAULT_PLATFORM : platform;
-    if (nextPlatform !== platform) setPlatform(nextPlatform);
-
-    history.replace({
-      ...location,
-      search: setPlatformInSearch(location.search, nextPlatform),
-    });
-  }, [history, location, platform]);
+    const legacyPlatform = getPlatformFromSearch(location.search);
+    if (legacyPlatform && legacyPlatform !== platform) {
+      setPlatform(legacyPlatform);
+    }
+  }, [location.pathname, location.search, platform]);
 
   useEffect(() => {
     if (typeof window !== "undefined") {
@@ -92,15 +111,9 @@ export const PlatformProvider = ({
 
       setPlatform(normalizedPlatform);
 
-      const nextSearch = setPlatformInSearch(
-        location.search,
-        normalizedPlatform,
-      );
-      if (nextSearch === location.search) return;
-
       history.push({
-        ...location,
-        search: nextSearch,
+        pathname: setPlatformInPath(location.pathname, normalizedPlatform),
+        search: removePlatformFromSearch(location.search),
       });
     },
     [history, location],

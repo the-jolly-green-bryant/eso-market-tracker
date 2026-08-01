@@ -38,41 +38,152 @@ import "./components/components.scss";
 import * as routes from "./routes";
 import { MemoryRouter } from "react-router";
 import Analytics from "./components/Analytics";
-import { PlatformProvider } from "./platform";
+import {
+  DEFAULT_PLATFORM,
+  getPlatformFromSearch,
+  PlatformProvider,
+  removePlatformFromSearch,
+} from "./platform";
 
 setupIonicReact();
 
+// The route table keeps canonical and legacy compatibility paths together.
+// eslint-disable-next-line max-lines-per-function
 const SWITCH = (initialData: unknown) => (
   <Switch>
-    <Route path={routes.index()} exact={true}>
-      <Redirect to={`${routes.dashboard()}/`} />
-    </Route>
+    <Route
+      path={routes.index()}
+      exact={true}
+      render={({ location }) => {
+        const platform =
+          getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM;
+        return (
+          <Redirect
+            to={{
+              pathname: routes.getDashboard(platform),
+              search: removePlatformFromSearch(location.search),
+            }}
+          />
+        );
+      }}
+    />
 
-    <Route path={`${routes.dashboard()}/:text?`} exact={true}>
+    <Route
+      path={`${routes.platformPattern()}${routes.dashboard()}/:text?`}
+      exact={true}
+    >
       <Dashboard />
     </Route>
 
-    <Route path={`${routes.item()}/:slug`} exact={true}>
+    <Route
+      path={`${routes.platformPattern()}${routes.item()}/:slug`}
+      exact={true}
+    >
       <TradableItemDetail staticData={initialData as ItemProps["staticData"]} />
     </Route>
+
+    <Route
+      path={`${routes.dashboard()}/:text?`}
+      exact={true}
+      render={({ location, match }) => {
+        const platform =
+          getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM;
+        const text = (match.params as { text?: string }).text;
+        return (
+          <Redirect
+            to={{
+              pathname: text
+                ? routes.getSearchResults(text, platform)
+                : routes.getDashboard(platform),
+              search: removePlatformFromSearch(location.search),
+            }}
+          />
+        );
+      }}
+    />
+
+    <Route
+      path={`${routes.item()}/:slug`}
+      exact={true}
+      render={({ location, match }) => {
+        const platform =
+          getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM;
+        return (
+          <Redirect
+            to={{
+              pathname: routes.getItem(
+                (match.params as { slug: string }).slug,
+                platform,
+              ),
+              search: removePlatformFromSearch(location.search),
+            }}
+          />
+        );
+      }}
+    />
 
     <Route
       path={`/INTERNAL_LINK/:slug`}
       exact={true}
       render={(props) => (
-        <Redirect to={`${routes.item()}/${props.match.params.slug}`} />
+        <Redirect
+          to={routes.getItem(props.match.params.slug, DEFAULT_PLATFORM)}
+        />
       )}
     />
 
-    <Route path={routes.categories()} exact={true}>
+    <Route
+      path={`${routes.platformPattern()}${routes.categories()}`}
+      exact={true}
+    >
       <TradableItemCategories />
     </Route>
 
-    <Route path={`${routes.category()}/:slug`} exact={true}>
+    <Route
+      path={`${routes.platformPattern()}${routes.category()}/:slug`}
+      exact={true}
+    >
       <TradableItemCategoryDetail
         staticData={initialData as CategoryProps["staticData"]}
       />
     </Route>
+
+    <Route
+      path={routes.categories()}
+      exact={true}
+      render={({ location }) => {
+        const platform =
+          getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM;
+        return (
+          <Redirect
+            to={{
+              pathname: routes.getCategories(platform),
+              search: removePlatformFromSearch(location.search),
+            }}
+          />
+        );
+      }}
+    />
+
+    <Route
+      path={`${routes.category()}/:slug`}
+      exact={true}
+      render={({ location, match }) => {
+        const platform =
+          getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM;
+        return (
+          <Redirect
+            to={{
+              pathname: routes.getCategory(
+                (match.params as { slug: string }).slug,
+                platform,
+              ),
+              search: removePlatformFromSearch(location.search),
+            }}
+          />
+        );
+      }}
+    />
 
     <Route path={routes.about()} exact={true}>
       <About />
@@ -107,7 +218,7 @@ const SWITCH = (initialData: unknown) => (
     </Route>
 
     <Route path="*">
-      <Redirect to={`${routes.dashboard()}/`} />
+      <Redirect to={routes.getDashboard(DEFAULT_PLATFORM)} />
     </Route>
   </Switch>
 );

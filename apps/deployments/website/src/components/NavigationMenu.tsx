@@ -7,6 +7,7 @@ import * as routes from "../routes";
 import { CATEGORIES } from "../constants";
 import { MARKET_STATS } from "../marketStats";
 import ExternalLink from "./ExternalLink";
+import { MarketPlatform, usePlatform } from "../platform";
 
 const HEADER_CONTENT = (
   <div className="navigation-menu-header">
@@ -85,7 +86,7 @@ const MORE_ACCESS = (
   </div>
 );
 
-const renderCategories = () => (
+const renderCategories = (platform: MarketPlatform) => (
   <div>
     {Object.keys(CATEGORIES)
       .sort((a, b) => a.localeCompare(b))
@@ -94,7 +95,7 @@ const renderCategories = () => (
           <IonMenuToggle autoHide={false}>
             <Link
               to={{
-                pathname: routes.getCategory(category),
+                pathname: routes.getCategory(category, platform),
               }}
             >
               <div className="navigation-menu-section-item-label">
@@ -112,6 +113,7 @@ const renderCategories = () => (
 );
 
 export default () => {
+  const { platform } = usePlatform();
   const menuRef = useRef<HTMLIonMenuElement>(null);
 
   return (
@@ -149,7 +151,7 @@ export default () => {
           </div>
 
           <div className="navigation-menu-section-item-container">
-            {renderCategories()}
+            {renderCategories(platform)}
           </div>
         </div>
 

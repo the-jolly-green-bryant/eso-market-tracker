@@ -1,71 +1,73 @@
-import { IonIcon } from '@ionic/react'
-import { searchOutline, closeOutline } from 'ionicons/icons'
-import debounce from 'lodash.debounce'
-import { KeyboardEvent, RefObject, useCallback, useState } from 'react'
-import { useHistory } from 'react-router-dom'
-import './SearchBar.scss'
-import * as routes from '../routes'
+import { IonIcon } from "@ionic/react";
+import { searchOutline, closeOutline } from "ionicons/icons";
+import debounce from "lodash.debounce";
+import { KeyboardEvent, RefObject, useCallback, useState } from "react";
+import { useHistory } from "react-router-dom";
+import "./SearchBar.scss";
+import * as routes from "../routes";
+import { usePlatform } from "../platform";
 
 interface ContainerProps {
-  text?: string
-  searchCallback?: (searchText: string) => void
-  onClear?: () => void
-  onNavigateAway?: () => void
-  placeholderText?: string
-  inputRef?: RefObject<HTMLInputElement>
+  text?: string;
+  searchCallback?: (searchText: string) => void;
+  onClear?: () => void;
+  onNavigateAway?: () => void;
+  placeholderText?: string;
+  inputRef?: RefObject<HTMLInputElement>;
 }
 
 const SearchBar: React.FC<ContainerProps> = ({
   searchCallback = null,
   onClear = null,
   onNavigateAway = null,
-  text = '',
-  placeholderText = 'Search Items...',
+  text = "",
+  placeholderText = "Search Items...",
   inputRef,
 }) => {
-  const [searchText, setSearchText] = useState(text)
-  const history = useHistory()
+  const [searchText, setSearchText] = useState(text);
+  const history = useHistory();
+  const { platform } = usePlatform();
 
   const debouncedSearch = searchCallback
     ? useCallback(debounce(searchCallback, 400), [])
-    : null
+    : null;
 
   const onSearchChange = (
-    e: React.ChangeEvent<HTMLInputElement> | KeyboardEvent<HTMLInputElement>
+    e: React.ChangeEvent<HTMLInputElement> | KeyboardEvent<HTMLInputElement>,
   ) => {
-    setSearchText((e.target as HTMLInputElement).value)
+    setSearchText((e.target as HTMLInputElement).value);
     if (
-      (e as KeyboardEvent<HTMLInputElement>).key == 'Enter' &&
+      (e as KeyboardEvent<HTMLInputElement>).key == "Enter" &&
       !searchCallback
     ) {
       history.push(
-        routes.getSearchResults((e.target as HTMLInputElement).value)
-      )
+        routes.getSearchResults((e.target as HTMLInputElement).value, platform),
+      );
       if (onNavigateAway) {
-        onNavigateAway()
+        onNavigateAway();
       }
     }
 
     if (!searchCallback) {
-      return
+      return;
     }
 
-    if ((e as KeyboardEvent<HTMLInputElement>).key == 'Enter') {
-      searchCallback((e.target as HTMLInputElement).value)
+    if ((e as KeyboardEvent<HTMLInputElement>).key == "Enter") {
+      searchCallback((e.target as HTMLInputElement).value);
     } else if (debouncedSearch) {
-      debouncedSearch((e.target as HTMLInputElement).value)
+      debouncedSearch((e.target as HTMLInputElement).value);
     }
-  }
+  };
 
   const onSearchClear = () => {
-    setSearchText('')
+    setSearchText("");
 
     if (!onClear) {
-      return
+      return;
     }
 
-    onClear()
-  }
+    onClear();
+  };
 
   return (
     <div className="search-bar">
@@ -84,7 +86,7 @@ const SearchBar: React.FC<ContainerProps> = ({
         <IonIcon icon={text ? closeOutline : searchOutline}></IonIcon>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default SearchBar
+export default SearchBar;
