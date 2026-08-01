@@ -119,14 +119,14 @@ const App: React.FC<{
   initialUrl?: string;
   initialData?: unknown;
 }> = ({ initialUrl, initialData }) => (
-  <PlatformProvider>
-    <IonApp>
-      <Router {...(isServer ? { initialEntries: [initialUrl ?? "/"] } : {})}>
+  <IonApp>
+    <Router {...(isServer ? { initialEntries: [initialUrl ?? "/"] } : {})}>
+      <PlatformProvider>
         <Analytics />
         <IonRouterOutlet id="main">{SWITCH(initialData)}</IonRouterOutlet>
-      </Router>
-    </IonApp>
-  </PlatformProvider>
+      </PlatformProvider>
+    </Router>
+  </IonApp>
 );
 
 export default App;
