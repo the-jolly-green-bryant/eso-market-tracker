@@ -1,24 +1,34 @@
-import { useState } from 'react'
+import { useEffect, useState } from "react";
 
-import PlaceholderImage from '../components/PlaceholderImage'
+import PlaceholderImage from "../components/PlaceholderImage";
 
 interface ContainerProps {
-  imageUrl: string
+  imageUrl: string;
 }
 
 const LocalImage: React.FC<ContainerProps> = ({ imageUrl }) => {
-  const [imageLoaded, setImageLoaded] = useState(false)
-  const onLoad = () => {
-    setImageLoaded(true)
-  }
+  const [imageState, setImageState] = useState<
+    "loading" | "loaded" | "missing"
+  >("loading");
+
+  useEffect(() => setImageState("loading"), [imageUrl]);
 
   return (
     <div className="local-image">
-      {!imageLoaded && <PlaceholderImage />}
+      {imageState !== "loaded" && (
+        <PlaceholderImage isMissing={imageState === "missing"} />
+      )}
 
-      <img src={imageUrl} onLoad={onLoad} />
+      {imageState !== "missing" && (
+        <img
+          src={imageUrl}
+          alt=""
+          onLoad={() => setImageState("loaded")}
+          onError={() => setImageState("missing")}
+        />
+      )}
     </div>
-  )
-}
+  );
+};
 
-export default LocalImage
+export default LocalImage;

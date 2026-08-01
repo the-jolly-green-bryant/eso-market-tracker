@@ -46,6 +46,21 @@ type GitResponse = {
   maximum: number;
 };
 
+const DATA_IMAGE_BASE_URL =
+  "https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-data/main";
+
+export const resolveItemImageLink = (icon: string | undefined) => {
+  const normalizedIcon = icon?.trim();
+  if (!normalizedIcon) return undefined;
+  if (/^https?:\/\//i.test(normalizedIcon)) return normalizedIcon;
+
+  const dataRepoPath = normalizedIcon
+    .replace(/^\/+/, "")
+    .replace(/^data\//, "");
+
+  return `${DATA_IMAGE_BASE_URL}/${dataRepoPath}`;
+};
+
 export const _responseToHistory = (json: GitResponse[]) =>
   Object.values(json)
     .map((i) => ({
@@ -91,10 +106,7 @@ export const _responseToItem = (
     description: itemRaw.description,
     displayLabel: itemRaw.name,
     slug: itemRaw.name.replace(" ", "-"),
-    imageLink:
-      itemRaw.icon && itemRaw.icon.startsWith("https")
-        ? itemRaw.icon
-        : `https://github.com/the-jolly-green-bryant/eso-market-tracker/blob/main/${itemRaw.icon}?raw=true`,
+    imageLink: resolveItemImageLink(itemRaw.icon),
     platform,
     availablePlatforms: Object.keys(json.pricing),
   };
