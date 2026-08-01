@@ -55,9 +55,9 @@ export const PlatformProvider = ({
 }) => {
   const history = useHistory();
   const location = useLocation();
-  const [platform, setPlatform] = useState<MarketPlatform>(() => {
-    return getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM;
-  });
+  const [platform, setPlatform] = useState<MarketPlatform>(
+    () => getPlatformFromSearch(location.search) ?? DEFAULT_PLATFORM,
+  );
 
   useEffect(() => {
     const params = new URLSearchParams(location.search);
