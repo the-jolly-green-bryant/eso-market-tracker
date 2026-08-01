@@ -9,11 +9,11 @@
   <img alt="Coverage" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/the-jolly-green-bryant/eso-market-tracker/coverage-badge/badge.json">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-22-339933?logo=nodedotjs&logoColor=white">
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-10-F69220?logo=pnpm&logoColor=white">
-  <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-source--available-blue"></a>
+  <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-all_rights_reserved-blue"></a>
 </p>
 
 ESO Market Tracker collects market observations, normalizes ESO item identities, and
-publishes pricing data for the Xbox and PlayStation megaservers. It is the source-available
+publishes pricing data for the Xbox and PlayStation megaservers. It is the publicly inspectable
 successor to the original [ESO Market Tracker](https://esomarkettracker.com).
 
 This repository is the TypeScript application monorepo. The canonical flat-file history
@@ -183,8 +183,9 @@ explain their source and generation command in the pull request.
 
 ## License and trademarks
 
-The project is source-available under a custom non-commercial license; see
-[LICENSE.md](LICENSE.md). This license is not an OSI-approved open-source license.
+The source is published for transparency and portfolio purposes only. No rights
+are granted to use, copy, modify, distribute, deploy, or create derivative works;
+see [LICENSE.md](LICENSE.md).
 
 This project is not created by, affiliated with, or sponsored by ZeniMax Media Inc. or
 its affiliates. The Elder Scrolls and related marks belong to their respective owners.
