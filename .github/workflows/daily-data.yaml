@@ -16,6 +16,11 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    env:
+      GIT_AUTHOR_NAME: Bryant James
+      GIT_AUTHOR_EMAIL: 137834469+the-jolly-green-bryant@users.noreply.github.com
+      GIT_COMMITTER_NAME: Bryant James
+      GIT_COMMITTER_EMAIL: 137834469+the-jolly-green-bryant@users.noreply.github.com
 
     steps:
       - name: Check out repo
@@ -119,8 +124,8 @@ jobs:
         id: commit
         if: steps.changes.outputs.found == 'true'
         run: |
-          git -C data config user.name "github-actions[bot]"
-          git -C data config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C data config user.name "$GIT_COMMITTER_NAME"
+          git -C data config user.email "$GIT_COMMITTER_EMAIL"
           git -C data add -A
           git -C data commit -m "Daily market data update $(date -u +%F)"
           git -C data push origin HEAD:main
