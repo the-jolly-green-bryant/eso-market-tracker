@@ -31,6 +31,7 @@ import SupportBanner from "../components/SupportBanner";
 import ExternalLink from "../components/ExternalLink";
 import { DISCORD_BOT_INSTALL_LINK } from "../constants";
 import { MarketPlatform, PLATFORMS, usePlatform } from "../platform";
+import { TradableItemType } from "../models/tradable-item-types";
 
 const accessCards = [
   {
@@ -172,6 +173,9 @@ const Hero = ({
   onPerformSearch,
   searchInputRef,
   searchResultsRef,
+  suggestions,
+  suggestionsLoading,
+  suggestionsQuery,
   compact,
   children,
 }: {
@@ -179,6 +183,9 @@ const Hero = ({
   onPerformSearch: (text: string) => void;
   searchInputRef: React.RefObject<HTMLInputElement>;
   searchResultsRef: React.RefObject<HTMLDivElement>;
+  suggestions: TradableItemType[];
+  suggestionsLoading: boolean;
+  suggestionsQuery: string;
   compact: boolean;
   children?: React.ReactNode;
 }) => (
@@ -203,6 +210,9 @@ const Hero = ({
           searchCallback={onPerformSearch}
           onClear={() => onPerformSearch("")}
           placeholderText={`Search ${MARKET_STATS.trackedItems.toLocaleString()} console items`}
+          suggestions={suggestions}
+          suggestionsLoading={suggestionsLoading}
+          suggestionsQuery={suggestionsQuery}
         />
         <kbd>⌘ K</kbd>
       </div>
@@ -525,6 +535,9 @@ export default () => {
           onPerformSearch={handlePerformSearch}
           searchInputRef={searchInputRef}
           searchResultsRef={searchResultsRef}
+          suggestions={data}
+          suggestionsLoading={loading}
+          suggestionsQuery={currentSearch}
           compact={hasSearched}
         >
           {currentSearch ? (

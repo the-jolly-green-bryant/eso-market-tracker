@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import PlaceholderImage from "../components/PlaceholderImage";
 
@@ -7,11 +7,21 @@ interface ContainerProps {
 }
 
 const LocalImage: React.FC<ContainerProps> = ({ imageUrl }) => {
+  const imageRef = useRef<HTMLImageElement>(null);
   const [imageState, setImageState] = useState<
     "loading" | "loaded" | "missing"
   >("loading");
 
-  useEffect(() => setImageState("loading"), [imageUrl]);
+  useEffect(() => {
+    const image = imageRef.current;
+    setImageState("loading");
+
+    // Cached images can finish before React attaches the load handler. Check
+    // the element after the URL changes so the loading state cannot get stuck.
+    if (image?.complete) {
+      setImageState(image.naturalWidth > 0 ? "loaded" : "missing");
+    }
+  }, [imageUrl]);
 
   return (
     <div className="local-image">
@@ -21,6 +31,7 @@ const LocalImage: React.FC<ContainerProps> = ({ imageUrl }) => {
 
       {imageState !== "missing" && (
         <img
+          ref={imageRef}
           src={imageUrl}
           alt=""
           onLoad={() => setImageState("loaded")}
