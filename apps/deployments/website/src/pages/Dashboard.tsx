@@ -455,7 +455,10 @@ export default () => {
         const firstResult = results.querySelector<HTMLElement>(
           ".tradable-item-reference",
         );
-        if (!firstResult) return;
+        const floatingSearch = scrollArea.querySelector<HTMLElement>(
+          ".market-command-search",
+        );
+        if (!firstResult || !floatingSearch) return;
 
         const viewportBottom =
           (visualViewport?.offsetTop ?? 0) +
@@ -465,7 +468,15 @@ export default () => {
           firstResult.getBoundingClientRect().bottom - viewportBottom;
 
         if (overlap > 0) {
-          scrollArea.scrollTop += Math.ceil(overlap + 12);
+          const resultClearance =
+            firstResult.getBoundingClientRect().top -
+            floatingSearch.getBoundingClientRect().bottom -
+            14;
+          const safeScroll = Math.max(
+            0,
+            Math.min(overlap + 12, resultClearance),
+          );
+          scrollArea.scrollTop += Math.ceil(safeScroll);
         }
       });
     };
