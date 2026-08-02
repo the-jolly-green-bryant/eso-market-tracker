@@ -727,9 +727,12 @@
 
   .market-hero.is-searching {
     .market-hero-content {
-      padding-bottom: 28px;
+      padding: 14px 18px 28px;
     }
 
+    .market-kicker,
+    .market-hero-content > h1,
+    .market-hero-content > p,
     .market-popular {
       display: none;
     }
