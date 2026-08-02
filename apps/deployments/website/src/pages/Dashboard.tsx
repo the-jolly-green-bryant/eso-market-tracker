@@ -172,15 +172,17 @@ const Hero = ({
   onPerformSearch,
   searchInputRef,
   searchResultsRef,
+  compact,
   children,
 }: {
   text?: string;
   onPerformSearch: (text: string) => void;
   searchInputRef: React.RefObject<HTMLInputElement>;
   searchResultsRef: React.RefObject<HTMLDivElement>;
+  compact: boolean;
   children?: React.ReactNode;
 }) => (
-  <section className={`market-hero${children ? " is-searching" : ""}`}>
+  <section className={`market-hero${compact ? " is-searching" : ""}`}>
     <div className="market-hero-art" aria-hidden="true" />
     <div className="market-hero-content">
       <div className="market-kicker">
@@ -189,8 +191,8 @@ const Hero = ({
       </div>
       <h1>Know what it’s worth in ESO.</h1>
       <p>
-        Search public, versioned Elder Scrolls Online pricing across Xbox and
-        PlayStation. Built for traders who would rather know than guess.
+        Search public ESO prices across Xbox and PlayStation, built for traders
+        who would rather know than guess.
       </p>
 
       <div className="market-command-search">
@@ -311,10 +313,15 @@ export default () => {
   const marketScrollRef = useRef<HTMLElement>(null);
   const keyboardBaselineHeightRef = useRef(0);
   const lastTrackedSearchRef = useRef("");
+  const [hasSearched, setHasSearched] = useState(Boolean(text));
   const { loading, error, data, onPerformSearch, currentSearch } = useSearch(
     text,
     platform,
   );
+  const handlePerformSearch = (searchText: string) => {
+    if (searchText.trim()) setHasSearched(true);
+    onPerformSearch(searchText);
+  };
   const platformLabel = PLATFORMS[platform];
   const canonicalUrl = `https://esomarkettracker.com${routes.getDashboard(platform)}`;
 
@@ -515,9 +522,10 @@ export default () => {
       <main className="market-home-scroll" ref={marketScrollRef}>
         <Hero
           text={text}
-          onPerformSearch={onPerformSearch}
+          onPerformSearch={handlePerformSearch}
           searchInputRef={searchInputRef}
           searchResultsRef={searchResultsRef}
+          compact={hasSearched}
         >
           {currentSearch ? (
             <SearchResults
