@@ -171,11 +171,13 @@ const Hero = ({
   text,
   onPerformSearch,
   searchInputRef,
+  searchResultsRef,
   children,
 }: {
   text?: string;
   onPerformSearch: (text: string) => void;
   searchInputRef: React.RefObject<HTMLInputElement>;
+  searchResultsRef: React.RefObject<HTMLDivElement>;
   children?: React.ReactNode;
 }) => (
   <section className={`market-hero${children ? " is-searching" : ""}`}>
@@ -214,7 +216,11 @@ const Hero = ({
         )}
       </div>
 
-      {children && <div className="market-hero-results">{children}</div>}
+      {children && (
+        <div className="market-hero-results" ref={searchResultsRef}>
+          {children}
+        </div>
+      )}
     </div>
   </section>
 );
@@ -301,6 +307,9 @@ export default () => {
   const { text } = useParams<{ text: string | undefined }>();
   const { platform } = usePlatform();
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const searchResultsRef = useRef<HTMLDivElement>(null);
+  const marketScrollRef = useRef<HTMLElement>(null);
+  const keyboardBaselineHeightRef = useRef(0);
   const lastTrackedSearchRef = useRef("");
   const { loading, error, data, onPerformSearch, currentSearch } = useSearch(
     text,
@@ -339,6 +348,111 @@ export default () => {
     window.addEventListener("keydown", focusSearch);
     return () => window.removeEventListener("keydown", focusSearch);
   }, []);
+
+  useEffect(() => {
+    const scrollArea = marketScrollRef.current;
+    const searchInput = searchInputRef.current;
+    if (!scrollArea) return;
+
+    const visualViewport = window.visualViewport;
+    const syncViewport = () => {
+      const visibleHeight = visualViewport?.height ?? window.innerHeight;
+      const viewportTop = visualViewport?.offsetTop ?? 0;
+      const viewportExtent = visibleHeight + viewportTop;
+      const inputIsFocused = document.activeElement === searchInput;
+
+      if (!inputIsFocused) {
+        keyboardBaselineHeightRef.current = viewportExtent;
+      } else if (!keyboardBaselineHeightRef.current) {
+        keyboardBaselineHeightRef.current = Math.max(
+          window.innerHeight,
+          viewportExtent,
+        );
+      }
+
+      const keyboardInset = inputIsFocused
+        ? Math.max(0, keyboardBaselineHeightRef.current - viewportExtent)
+        : 0;
+
+      scrollArea.style.setProperty(
+        "--market-visual-viewport-height",
+        `${Math.round(visibleHeight)}px`,
+      );
+      scrollArea.style.setProperty(
+        "--market-keyboard-inset",
+        `${Math.round(keyboardInset)}px`,
+      );
+      scrollArea.classList.toggle(
+        "is-keyboard-open",
+        inputIsFocused && keyboardInset >= 80,
+      );
+    };
+
+    syncViewport();
+    visualViewport?.addEventListener("resize", syncViewport);
+    visualViewport?.addEventListener("scroll", syncViewport);
+    window.addEventListener("resize", syncViewport);
+    searchInput?.addEventListener("focus", syncViewport);
+    searchInput?.addEventListener("blur", syncViewport);
+
+    return () => {
+      visualViewport?.removeEventListener("resize", syncViewport);
+      visualViewport?.removeEventListener("scroll", syncViewport);
+      window.removeEventListener("resize", syncViewport);
+      searchInput?.removeEventListener("focus", syncViewport);
+      searchInput?.removeEventListener("blur", syncViewport);
+      scrollArea.style.removeProperty("--market-visual-viewport-height");
+      scrollArea.style.removeProperty("--market-keyboard-inset");
+      scrollArea.classList.remove("is-keyboard-open");
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!currentSearch || loading || error || data.length === 0) return;
+
+    const scrollArea = marketScrollRef.current;
+    const searchInput = searchInputRef.current;
+    const results = searchResultsRef.current;
+    if (!scrollArea || !searchInput || !results) return;
+
+    const visualViewport = window.visualViewport;
+    let animationFrame = 0;
+    const revealFirstResult = () => {
+      window.cancelAnimationFrame(animationFrame);
+      animationFrame = window.requestAnimationFrame(() => {
+        if (
+          document.activeElement !== searchInput ||
+          !window.matchMedia("(max-width: 620px)").matches
+        ) {
+          return;
+        }
+
+        const firstResult = results.querySelector<HTMLElement>(
+          ".tradable-item-reference",
+        );
+        if (!firstResult) return;
+
+        const viewportBottom =
+          (visualViewport?.offsetTop ?? 0) +
+          (visualViewport?.height ?? window.innerHeight) -
+          12;
+        const overlap =
+          firstResult.getBoundingClientRect().bottom - viewportBottom;
+
+        if (overlap > 0) {
+          scrollArea.scrollTop += Math.ceil(overlap + 12);
+        }
+      });
+    };
+
+    revealFirstResult();
+    visualViewport?.addEventListener("resize", revealFirstResult);
+
+    return () => {
+      window.cancelAnimationFrame(animationFrame);
+      visualViewport?.removeEventListener("resize", revealFirstResult);
+    };
+  }, [currentSearch, loading, error, data.length]);
 
   return (
     <div className="market-home">
@@ -398,11 +512,12 @@ export default () => {
 
       <MarketHeader />
 
-      <main className="market-home-scroll">
+      <main className="market-home-scroll" ref={marketScrollRef}>
         <Hero
           text={text}
           onPerformSearch={onPerformSearch}
           searchInputRef={searchInputRef}
+          searchResultsRef={searchResultsRef}
         >
           {currentSearch ? (
             <SearchResults

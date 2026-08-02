@@ -37,8 +37,14 @@
 }
 
 .market-home-scroll {
+  --market-keyboard-inset: 0px;
+
   height: calc(100% - 72px);
   overflow-y: auto;
+  overscroll-behavior-y: contain;
+  scroll-padding-bottom: calc(
+    16px + var(--market-keyboard-inset) + env(safe-area-inset-bottom)
+  );
 }
 
 .market-hero {
@@ -632,7 +638,7 @@
 
 @media (max-width: 620px) {
   .market-home-scroll {
-    height: calc(100% - 64px);
+    height: calc(var(--market-visual-viewport-height, 100dvh) - 64px);
   }
 
   .market-hero {
