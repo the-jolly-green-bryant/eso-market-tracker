@@ -177,6 +177,7 @@ const Hero = ({
   suggestionsLoading,
   suggestionsQuery,
   compact,
+  onSearchFocus,
   children,
 }: {
   text?: string;
@@ -187,6 +188,7 @@ const Hero = ({
   suggestionsLoading: boolean;
   suggestionsQuery: string;
   compact: boolean;
+  onSearchFocus: () => void;
   children?: React.ReactNode;
 }) => (
   <section className={`market-hero${compact ? " is-searching" : ""}`}>
@@ -209,6 +211,7 @@ const Hero = ({
           text={text}
           searchCallback={onPerformSearch}
           onClear={() => onPerformSearch("")}
+          onFocus={onSearchFocus}
           placeholderText={`Search ${MARKET_STATS.trackedItems.toLocaleString()} console items`}
           suggestions={suggestions}
           suggestionsLoading={suggestionsLoading}
@@ -331,6 +334,11 @@ export default () => {
   const handlePerformSearch = (searchText: string) => {
     if (searchText.trim()) setHasSearched(true);
     onPerformSearch(searchText);
+  };
+  const handleSearchFocus = () => {
+    if (window.matchMedia("(max-width: 620px)").matches) {
+      setHasSearched(true);
+    }
   };
   const platformLabel = PLATFORMS[platform];
   const canonicalUrl = `https://esomarkettracker.com${routes.getDashboard(platform)}`;
@@ -539,6 +547,7 @@ export default () => {
           suggestionsLoading={loading}
           suggestionsQuery={currentSearch}
           compact={hasSearched}
+          onSearchFocus={handleSearchFocus}
         >
           {currentSearch ? (
             <SearchResults

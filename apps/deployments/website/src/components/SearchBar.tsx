@@ -22,6 +22,7 @@ interface ContainerProps {
   text?: string;
   searchCallback?: (searchText: string) => void;
   onClear?: () => void;
+  onFocus?: () => void;
   onNavigateAway?: () => void;
   placeholderText?: string;
   inputRef?: RefObject<HTMLInputElement>;
@@ -35,6 +36,7 @@ interface ContainerProps {
 const SearchBar: React.FC<ContainerProps> = ({
   searchCallback = null,
   onClear = null,
+  onFocus = null,
   onNavigateAway = null,
   text = "",
   placeholderText = "Search Items...",
@@ -212,7 +214,10 @@ const SearchBar: React.FC<ContainerProps> = ({
         type="text"
         onKeyDown={onSearchChange}
         onChange={onSearchChange}
-        onFocus={() => setSuggestionsOpen(true)}
+        onFocus={() => {
+          setSuggestionsOpen(true);
+          onFocus?.();
+        }}
         placeholder={placeholderText}
       />
 
