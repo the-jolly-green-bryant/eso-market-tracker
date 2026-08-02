@@ -259,6 +259,16 @@ Response:
 404 - not found  
 405 - method not allowed
 
+## Usage analytics
+
+After returning a response, the API may send a non-blocking usage event to the
+same Google Analytics property as the website. Measurement includes the endpoint
+template, query-free path, response status and duration, request origin, and any
+requested search term or item key. Query strings, authorization headers, caller
+IP addresses, and user-agent strings are not deliberately sent. API analytics
+use one shared anonymous identifier and are intended for request counts rather
+than unique-user measurement.
+
 ## Terms of Use
 
 This API is provided as a free, community resource for the Elder Scrolls Online
@@ -285,13 +295,14 @@ import {
   discordInteractions,
   DiscordMarketLookup,
 } from "./discord";
+import { ApiAnalyticsEnv, sendApiAnalytics } from "./analytics";
 
 const SEARCH_LIMIT_DEFAULT = 10;
 
 /**
  * A type wrapper for Cloudflare and Wrangler.
  */
-export type Env = {
+export type Env = ApiAnalyticsEnv & {
   DISCORD_APPLICATION_ID: string;
   DISCORD_PUBLIC_KEY: string;
   ESO_MARKET_TRACKER: KVNamespace;
@@ -462,32 +473,43 @@ export const item = async (key: string, env: Env) => {
   );
 };
 
+const handleRequest = async (request: Request, env: Env) => {
+  const url = new URL(request.url);
+  if (url.pathname === "/discord/health") {
+    return request.method === "GET"
+      ? discordHealth(env.DISCORD_APPLICATION_ID, env.DISCORD_PUBLIC_KEY)
+      : methodNotAllowed();
+  }
+  if (url.pathname === "/discord/interactions") {
+    return discordInteractions(
+      request,
+      env.DISCORD_PUBLIC_KEY,
+      discordMarket(env),
+    );
+  }
+
+  if (request.method !== "GET") {
+    return methodNotAllowed();
+  }
+
+  const [route, ...rest] = url.pathname
+    .replace(/^\/+|\/+$/g, "")
+    .split("/")
+    .filter(Boolean);
+
+  const routeFn = { search, item }[route];
+  return (routeFn && (await routeFn(rest.join("/"), env))) || docs();
+};
+
 export default {
-  async fetch(request, env, _ctx): Promise<Response> {
-    const url = new URL(request.url);
-    if (url.pathname === "/discord/health") {
-      return request.method === "GET"
-        ? discordHealth(env.DISCORD_APPLICATION_ID, env.DISCORD_PUBLIC_KEY)
-        : methodNotAllowed();
-    }
-    if (url.pathname === "/discord/interactions") {
-      return discordInteractions(
-        request,
-        env.DISCORD_PUBLIC_KEY,
-        discordMarket(env),
+  async fetch(request, env, ctx): Promise<Response> {
+    const startedAt = Date.now();
+    const response = await handleRequest(request, env);
+    if (env.GA_API_SECRET) {
+      ctx.waitUntil(
+        sendApiAnalytics(request, response, Date.now() - startedAt, env),
       );
     }
-
-    if (request.method !== "GET") {
-      return methodNotAllowed();
-    }
-
-    const [route, ...rest] = url.pathname
-      .replace(/^\/+|\/+$/g, "")
-      .split("/")
-      .filter(Boolean);
-
-    const routeFn = { search, item }[route];
-    return (routeFn && (await routeFn(rest.join("/"), env))) || docs();
+    return response;
   },
 } satisfies ExportedHandler<Env>;

@@ -33,6 +33,19 @@ const CONTENT = (
       Tracker profile.
     </p>
     <p>
+      <strong>API analytics</strong>
+    </p>
+    <p>
+      The public API sends a non-blocking usage event to the same Google
+      Analytics property after a response is returned. This event may include
+      the endpoint template, query-free request path, request method and origin,
+      response status and duration, and the requested item key or search term.
+      Query strings, authorization headers, IP addresses, and user-agent strings
+      are not deliberately sent. API requests use one shared anonymous analytics
+      identifier, so this measurement is intended for endpoint and request
+      counts rather than identifying unique API users.
+    </p>
+    <p>
       <strong>Cookies and local storage</strong>
     </p>
     <p>
@@ -113,7 +126,7 @@ const CONTENT = (
       This policy may be updated as the service changes. The current version
       will be posted on this page.
     </p>
-    <p>This policy is effective as of July 30, 2026.</p>
+    <p>This policy is effective as of August 2, 2026.</p>
     <p>
       <strong>Contact Us</strong>
     </p>
