@@ -11,7 +11,7 @@ import { usePlatform } from "../platform";
 const canonicalUrl =
   "https://esomarkettracker.com/tamriel-savings-price-checker";
 const title =
-  "Tamriel Savings & TSC Price Checker Alternative | ESO Market Tracker";
+  "Tamriel Savings Co Price Checker Alternative | ESO Market Tracker";
 const description =
   "Looking for Tamriel Savings Co, TSC, or SavageTSC? Compare an independent ESO console price checker with public Xbox and PlayStation market data.";
 
@@ -51,7 +51,7 @@ export default () => {
         <div className="tsc-alternative-kicker">
           Independent ESO console market data
         </div>
-        <h1>Looking for Tamriel Savings or the TSC price checker?</h1>
+        <h1>Tamriel Savings Co Price Checker Alternative</h1>
         <p className="tsc-alternative-lead">
           ESO Market Tracker is an independent alternative for checking Elder
           Scrolls Online prices across Xbox and PlayStation. Search{" "}
