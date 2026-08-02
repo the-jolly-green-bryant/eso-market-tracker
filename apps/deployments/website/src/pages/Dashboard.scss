@@ -719,6 +719,35 @@
     }
   }
 
+  .market-hero.is-searching {
+    .market-hero-content {
+      padding-bottom: 28px;
+    }
+
+    .market-popular {
+      display: none;
+    }
+
+    .market-hero-results {
+      margin-top: 12px;
+
+      .market-section-heading {
+        align-items: center;
+        margin-bottom: 12px;
+        padding-top: 12px;
+
+        span {
+          display: none;
+        }
+
+        h2 {
+          font-size: 22px;
+          margin-top: 0;
+        }
+      }
+    }
+  }
+
   .market-content {
     padding: 0 14px 48px;
   }
