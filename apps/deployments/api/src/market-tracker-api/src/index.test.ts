@@ -6,26 +6,26 @@ import {
   sendApiAnalytics,
 } from "./analytics";
 
-describe("api", async () => {
-  const env = {
-    ESO_MARKET_TRACKER: {
-      get: vi.fn(async (key: string) => {
-        if (key === "1393740546") {
-          return {
-            item: {
-              internalId: 1393740546,
-              name: "Dreugh Wax",
-            },
-            pricing: {
-              average: 123,
-            },
-          };
-        }
-        return null;
-      }),
-    },
-  };
+const env = {
+  ESO_MARKET_TRACKER: {
+    get: vi.fn(async (key: string) => {
+      if (key === "1393740546") {
+        return {
+          item: {
+            internalId: 1393740546,
+            name: "Dreugh Wax",
+          },
+          pricing: {
+            average: 123,
+          },
+        };
+      }
+      return null;
+    }),
+  },
+};
 
+describe("api", () => {
   it("fetches data", async () => {
     const r = await item("1393740546", env as unknown as Env);
     const body = (r && (await r.json())) as {
@@ -43,7 +43,9 @@ describe("api", async () => {
 
     expect(__normalize("cool-thing")).toEqual("cool thing");
   }, 10_000);
+});
 
+describe("api analytics", () => {
   it("builds privacy-conscious endpoint analytics", () => {
     const request = new Request(
       "https://data.esomarkettracker.com/search/dreugh%20wax?private=value",

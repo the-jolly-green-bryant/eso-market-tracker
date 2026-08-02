@@ -6,6 +6,7 @@ type AnalyticsFetch = (
   init?: RequestInit,
 ) => Promise<Response>;
 
+/** Environment bindings used by optional API analytics. */
 export type ApiAnalyticsEnv = {
   GA_API_SECRET?: string;
 };
