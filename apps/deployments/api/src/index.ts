@@ -14,6 +14,19 @@ const __chunk = <T>(items: T[], size: number): T[][] => {
   return result;
 };
 
+const _runWrangler = (args: string[]) => {
+  const commandArgs = [
+    "--filter",
+    "@eso-market-tracker/api",
+    "exec",
+    "wrangler",
+    ...args,
+  ];
+
+  logger.info(["pnpm", ...commandArgs].join(" "));
+  execFileSync("pnpm", commandArgs, { stdio: "inherit" });
+};
+
 const _getItemMeta = (internalId: number) => {
   const stmt = db().prepare(`
     SELECT *
@@ -51,7 +64,6 @@ const _updateSearchIndex = async (internalIds: number[]) => {
   );
 
   const args = [
-    "wrangler",
     "kv",
     "bulk",
     "put",
@@ -60,8 +72,7 @@ const _updateSearchIndex = async (internalIds: number[]) => {
     "--remote",
   ];
 
-  logger.info(args.join(" "));
-  execFileSync("npx", args, { stdio: "inherit" });
+  _runWrangler(args);
 };
 
 export const updateKeyValues = async (options?: {
@@ -106,7 +117,6 @@ export const updateKeyValues = async (options?: {
     await fs.promises.writeFile(filePath, JSON.stringify(batch));
 
     const args = [
-      "wrangler",
       "kv",
       "bulk",
       "put",
@@ -115,8 +125,7 @@ export const updateKeyValues = async (options?: {
       "--remote",
     ];
 
-    logger.info(args.join(" "));
-    execFileSync("npx", args, { stdio: "inherit" });
+    _runWrangler(args);
   }
 
   if (!selectedIds || options?.updateSearchIndex) {
