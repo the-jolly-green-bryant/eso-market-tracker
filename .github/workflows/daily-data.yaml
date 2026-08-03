@@ -105,11 +105,13 @@ jobs:
         working-directory: apps/deployments/website
         run: |
           set -euo pipefail
-          find dist/xbox-na/item -type f -name index.html -print0 |
-            while IFS= read -r -d '' file; do
-              aws s3 cp "$file" "s3://esomarkettracker.com/${file#dist/}" \
-                --acl public-read
-            done
+          aws configure set default.s3.max_concurrent_requests 50
+          aws s3 cp dist/xbox-na/item s3://esomarkettracker.com/xbox-na/item \
+            --recursive \
+            --exclude '*' \
+            --include '*/index.html' \
+            --acl public-read \
+            --only-show-errors
 
       - name: Notify search engines about changed items
         if: steps.changes.outputs.found == 'true'
