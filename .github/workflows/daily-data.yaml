@@ -129,8 +129,8 @@ jobs:
           git -C data config user.name "$GIT_COMMITTER_NAME"
           git -C data config user.email "$GIT_COMMITTER_EMAIL"
           git -C data add -A
-          git -C data commit -m "Daily market data update $(date -u +%F)"
-          git -C data push origin HEAD:main
+          git -C data commit --quiet -m "Daily market data update $(date -u +%F)"
+          git -C data push --quiet origin HEAD:main
           echo "published_sha=$(git -C data rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - name: Announce successful launch to Discord admin
