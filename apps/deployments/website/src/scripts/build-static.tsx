@@ -313,15 +313,19 @@ const createStaticServer = () =>
     },
   });
 
+const getChangedItemIds = async () => {
+  const changedIdsPath = process.env.ESO_CHANGED_ITEM_IDS_FILE;
+  const changedIds = changedIdsPath
+    ? await fs.readFile(changedIdsPath, "utf8")
+    : process.env.ESO_CHANGED_ITEM_IDS || "";
+
+  return new Set(changedIds.split(",").filter(Boolean).map(Number));
+};
+
 // The build intentionally owns every static route and sitemap entry.
 // eslint-disable-next-line max-lines-per-function
 const main = async () => {
-  const changedIds = new Set(
-    (process.env.ESO_CHANGED_ITEM_IDS || "")
-      .split(",")
-      .filter(Boolean)
-      .map(Number),
-  );
+  const changedIds = await getChangedItemIds();
   const incremental = changedIds.size > 0;
   const vite = await createStaticServer();
 

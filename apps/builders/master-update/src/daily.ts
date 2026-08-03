@@ -2,6 +2,7 @@
 import "dotenv/config";
 import { execFileSync } from "node:child_process";
 import fs from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
@@ -26,9 +27,7 @@ const timed = async <T>(label: string, operation: () => Promise<T>) => {
   } finally {
     const elapsed = (performance.now() - stageStartedAt) / 1000;
     stageSeconds[label] = elapsed;
-    console.log(
-      `${label}: ${elapsed.toFixed(2)}s`,
-    );
+    console.log(`${label}: ${elapsed.toFixed(2)}s`);
   }
 };
 
@@ -75,12 +74,18 @@ if (process.env.ESO_SKIP_REMOTE_PUBLISH === "1") {
 await timed("Build addon", buildAddon);
 
 await timed("Build incremental website", async () => {
+  const changedItemIdsPath = path.join(
+    process.env.RUNNER_TEMP || os.tmpdir(),
+    "eso-changed-item-ids.txt",
+  );
+  fs.writeFileSync(changedItemIdsPath, itemIds.join(","));
+
   execFileSync("pnpm", ["run", "build:static:incremental"], {
     cwd: websiteDirectory,
     stdio: "inherit",
     env: {
       ...process.env,
-      ESO_CHANGED_ITEM_IDS: itemIds.join(","),
+      ESO_CHANGED_ITEM_IDS_FILE: changedItemIdsPath,
     },
   });
 });
