@@ -39,8 +39,10 @@ jobs:
           printf '%s\n' "$MARKET_DATA_DEPLOY_KEY" > "$HOME/.ssh/market-data-deploy"
           chmod 600 "$HOME/.ssh/market-data-deploy"
           ssh-keyscan github.com >> "$HOME/.ssh/known_hosts"
-          git config core.sshCommand "ssh -i $HOME/.ssh/market-data-deploy -o IdentitiesOnly=yes"
-          git -C data remote set-url origin git@github.com:the-jolly-green-bryant/eso-market-data.git
+          git -C data config core.sshCommand \
+            "ssh -i $HOME/.ssh/market-data-deploy -o IdentitiesOnly=yes"
+          git -C data remote set-url origin \
+            ssh://git@github.com/the-jolly-green-bryant/eso-market-data.git
           git -C data fetch --depth=1 origin main
           git -C data checkout -B main origin/main
 
