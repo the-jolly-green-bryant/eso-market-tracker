@@ -11,6 +11,7 @@ import {
   importObservations,
   prepareDatabase,
 } from "./index";
+import { updateMarketStats } from "../../../../scripts/update-market-stats";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const websiteDirectory = path.resolve(
@@ -64,6 +65,7 @@ if (itemIds.length === 0) {
 
 console.log(`Rebuilding ${itemIds.length} changed items.`);
 await timed("Build incremental pricing", () => prepareDatabase(itemIds));
+await timed("Update website market stats", async () => updateMarketStats());
 if (process.env.ESO_SKIP_REMOTE_PUBLISH === "1") {
   console.log("Publish incremental API: skipped");
 } else {

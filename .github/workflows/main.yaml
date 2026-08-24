@@ -42,6 +42,7 @@ jobs:
       - name: Build website artifact
         run: |
           pnpm inject-version
+          pnpm tsx scripts/update-market-stats.ts
           pnpm --filter eso_market_tracker_app build
           tar -czf "$RUNNER_TEMP/website-dist.tar.gz" \
             -C apps/deployments/website dist
