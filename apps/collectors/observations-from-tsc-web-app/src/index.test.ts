@@ -38,7 +38,9 @@ describe("observations-from-tsc-web-app", async () => {
       expect.stringContaining(`/${getUtcDate().replaceAll("-", "/")}`),
     );
   }, 30_000);
+});
 
+describe("observation helpers", () => {
   it("dates only changed prices with today's UTC date", () => {
     const observations = [
       {
